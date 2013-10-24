@@ -1,5 +1,4 @@
-Blepharocorys angusta Gassovsky, 1918 SPECIES
-=======
+# Blepharocorys angusta Gassovsky, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lychnocanissa Haeckel, 1887 GENUS
-=======
+# Lychnocanissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

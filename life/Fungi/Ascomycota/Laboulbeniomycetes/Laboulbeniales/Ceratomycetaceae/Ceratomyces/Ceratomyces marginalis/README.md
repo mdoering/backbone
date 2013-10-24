@@ -1,5 +1,4 @@
-Ceratomyces marginalis Thaxt. SPECIES
-=======
+# Ceratomyces marginalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

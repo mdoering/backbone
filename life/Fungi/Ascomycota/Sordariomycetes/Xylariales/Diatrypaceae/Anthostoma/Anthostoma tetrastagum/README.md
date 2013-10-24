@@ -1,5 +1,4 @@
-Anthostoma tetrastagum Delacr. SPECIES
-=======
+# Anthostoma tetrastagum Delacr. SPECIES
 
 #### Status
 ACCEPTED

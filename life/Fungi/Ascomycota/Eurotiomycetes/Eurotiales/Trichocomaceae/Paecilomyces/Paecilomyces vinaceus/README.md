@@ -1,5 +1,4 @@
-Paecilomyces vinaceus Y.F. Han & Z.Q. Liang SPECIES
-=======
+# Paecilomyces vinaceus Y.F. Han & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis hymenophylli Pat. SPECIES
-=======
+# Micropeltis hymenophylli Pat. SPECIES
 
 #### Status
 ACCEPTED

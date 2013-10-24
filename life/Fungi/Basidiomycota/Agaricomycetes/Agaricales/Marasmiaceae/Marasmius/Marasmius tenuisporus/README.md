@@ -1,5 +1,4 @@
-Marasmius tenuisporus Velen. SPECIES
-=======
+# Marasmius tenuisporus Velen. SPECIES
 
 #### Status
 ACCEPTED

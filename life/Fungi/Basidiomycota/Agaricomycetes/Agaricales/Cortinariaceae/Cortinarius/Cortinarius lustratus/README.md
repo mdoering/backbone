@@ -1,5 +1,4 @@
-Cortinarius lustratus Fr. SPECIES
-=======
+# Cortinarius lustratus Fr. SPECIES
 
 #### Status
 ACCEPTED

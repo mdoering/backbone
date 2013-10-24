@@ -1,5 +1,4 @@
-Monoblepharis sphaerica Cornu, 1872 SPECIES
-=======
+# Monoblepharis sphaerica Cornu, 1872 SPECIES
 
 #### Status
 ACCEPTED

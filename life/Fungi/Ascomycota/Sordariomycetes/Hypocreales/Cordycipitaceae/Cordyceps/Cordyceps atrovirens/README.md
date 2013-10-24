@@ -1,5 +1,4 @@
-Cordyceps atrovirens Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps atrovirens Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

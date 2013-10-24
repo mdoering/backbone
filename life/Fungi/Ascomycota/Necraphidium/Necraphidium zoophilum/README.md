@@ -1,14 +1,13 @@
-Ramularia zoophila Sacc. & Trotter SPECIES
-=======
+# Necraphidium zoophilum (Sacc. & Trotter) Cif., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 6: 25 (1951)
 
 #### Original name
 Ramularia zoophila Sacc. & Trotter

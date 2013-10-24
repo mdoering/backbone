@@ -1,5 +1,4 @@
-Palaeachlya F.R.S. Duncan GENUS
-=======
+# Palaeachlya F.R.S. Duncan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emarcea rostrispora Xin Feng Li, T. Lu, B.S. Lu & K.D. Hyde, 2009 SPECIES
-=======
+# Emarcea rostrispora Xin Feng Li, T. Lu, B.S. Lu & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

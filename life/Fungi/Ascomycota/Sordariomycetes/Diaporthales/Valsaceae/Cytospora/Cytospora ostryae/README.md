@@ -1,5 +1,4 @@
-Cytospora ostryae Syd. SPECIES
-=======
+# Cytospora ostryae Syd. SPECIES
 
 #### Status
 ACCEPTED

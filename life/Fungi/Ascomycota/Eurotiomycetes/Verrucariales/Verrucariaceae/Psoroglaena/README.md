@@ -1,17 +1,16 @@
-Lithosphaeria Beckh. ex Körb. GENUS
-=======
+# Psoroglaena Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parerga lichenol. (Breslau) 344 (1863)
+Flora, Jena 74: 381 (1891)
 
 #### Original name
-Lithosphaeria Beckh. ex Körb.
+Psoroglaena Müll. Arg.
 
 ### Remarks
 null

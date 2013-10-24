@@ -1,8 +1,7 @@
-Trachelocerca grisea Kahl, 1933 SPECIES
-=======
+# Tracheloraphis grisea (Kahl, 1933) Dragesco, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

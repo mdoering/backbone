@@ -1,5 +1,4 @@
-Anthracothecium andamanicum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium andamanicum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

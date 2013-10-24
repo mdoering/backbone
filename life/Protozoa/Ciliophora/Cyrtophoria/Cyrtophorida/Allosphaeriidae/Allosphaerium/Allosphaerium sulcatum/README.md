@@ -1,5 +1,4 @@
-Allosphaerium sulcatum SPECIES
-=======
+# Allosphaerium sulcatum SPECIES
 
 #### Status
 ACCEPTED

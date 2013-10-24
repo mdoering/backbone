@@ -1,5 +1,4 @@
-Pleuropus murinus Murrill SPECIES
-=======
+# Pleuropus murinus Murrill SPECIES
 
 #### Status
 ACCEPTED

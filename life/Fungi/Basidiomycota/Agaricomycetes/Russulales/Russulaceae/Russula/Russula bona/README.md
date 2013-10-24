@@ -1,5 +1,4 @@
-Russula bona Schwalb SPECIES
-=======
+# Russula bona Schwalb SPECIES
 
 #### Status
 ACCEPTED

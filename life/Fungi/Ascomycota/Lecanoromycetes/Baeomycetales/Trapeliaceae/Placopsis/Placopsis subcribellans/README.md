@@ -1,5 +1,4 @@
-Placopsis subcribellans (I.M. Lamb) D.J. Galloway SPECIES
-=======
+# Placopsis subcribellans (I.M. Lamb) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia endoreagens Gyeln. SPECIES
-=======
+# Parmelia endoreagens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

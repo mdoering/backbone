@@ -1,17 +1,16 @@
-Alphitomorpha communis var. communis VARIETY
-=======
+# Erysiphe cruciferarum Opiz ex L. Junell, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. Ges. nat. Freunde Berlin 1(1): 31 (1819)
+Svensk bot. Tidskr. 61(1): 217 (1967)
 
 #### Original name
-Alphitomorpha communis var. communis
+Erysiphe cruciferarum Opiz ex L. Junell, 1967
 
 ### Remarks
 null

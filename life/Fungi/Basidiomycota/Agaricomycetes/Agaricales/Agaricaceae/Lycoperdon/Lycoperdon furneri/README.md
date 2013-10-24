@@ -1,5 +1,4 @@
-Lycoperdon furneri Ellis & Everh. SPECIES
-=======
+# Lycoperdon furneri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

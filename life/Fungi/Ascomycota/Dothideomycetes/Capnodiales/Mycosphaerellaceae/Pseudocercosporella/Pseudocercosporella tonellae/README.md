@@ -1,5 +1,4 @@
-Pseudocercosporella tonellae U. Braun SPECIES
-=======
+# Pseudocercosporella tonellae U. Braun SPECIES
 
 #### Status
 ACCEPTED

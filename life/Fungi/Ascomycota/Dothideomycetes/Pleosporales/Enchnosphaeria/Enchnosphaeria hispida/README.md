@@ -1,5 +1,4 @@
-Enchnosphaeria hispida Morgan SPECIES
-=======
+# Enchnosphaeria hispida Morgan SPECIES
 
 #### Status
 ACCEPTED

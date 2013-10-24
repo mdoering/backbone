@@ -1,5 +1,4 @@
-Ceriporia virdans (Berk. & Bres.) Donk SPECIES
-=======
+# Ceriporia virdans (Berk. & Bres.) Donk SPECIES
 
 #### Status
 ACCEPTED

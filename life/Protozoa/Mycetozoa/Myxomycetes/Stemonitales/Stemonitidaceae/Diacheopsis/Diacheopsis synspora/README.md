@@ -1,5 +1,4 @@
-Diacheopsis synspora Nann.-Bremek. & Y. Yamam., 1986 SPECIES
-=======
+# Diacheopsis synspora Nann.-Bremek. & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

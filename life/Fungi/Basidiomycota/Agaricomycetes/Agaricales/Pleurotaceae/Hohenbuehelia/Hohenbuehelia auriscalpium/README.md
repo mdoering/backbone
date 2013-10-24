@@ -1,14 +1,13 @@
-Acanthocystis auriscalpium (Maire) Konrad & Maubl., 1949 SPECIES
-=======
+# Hohenbuehelia auriscalpium (Maire) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agaric. mod. Tax. (Weinheim) 422 (1951)
+Lilloa 22: 255 (1951)
 
 #### Original name
 Pleurotus auriscalpium Maire, 1931

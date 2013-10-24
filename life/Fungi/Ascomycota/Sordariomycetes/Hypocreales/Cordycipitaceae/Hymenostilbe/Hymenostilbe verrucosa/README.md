@@ -1,5 +1,4 @@
-Hymenostilbe verrucosa Mains, 1950 SPECIES
-=======
+# Hymenostilbe verrucosa Mains, 1950 SPECIES
 
 #### Status
 ACCEPTED

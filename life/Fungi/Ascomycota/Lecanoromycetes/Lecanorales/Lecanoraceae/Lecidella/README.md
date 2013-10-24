@@ -1,17 +1,16 @@
-Lecideola A. Massal. GENUS
-=======
+# Lecidella Körb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 233 (1855)
 
 #### Original name
-Lecideola A. Massal.
+Lecidella Körb.
 
 ### Remarks
 null

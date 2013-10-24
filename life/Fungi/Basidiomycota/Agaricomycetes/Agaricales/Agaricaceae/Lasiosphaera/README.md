@@ -1,5 +1,4 @@
-Lasiosphaera GENUS
-=======
+# Lasiosphaera GENUS
 
 #### Status
 ACCEPTED

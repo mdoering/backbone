@@ -1,5 +1,4 @@
-Arthonia parmeliae (C.W. Dodge & G.E. Baker) D. Hawksw. & Iturr. SPECIES
-=======
+# Arthonia parmeliae (C.W. Dodge & G.E. Baker) D. Hawksw. & Iturr. SPECIES
 
 #### Status
 ACCEPTED

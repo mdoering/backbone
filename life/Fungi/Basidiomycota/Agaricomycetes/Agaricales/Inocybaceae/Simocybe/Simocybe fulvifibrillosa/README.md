@@ -1,5 +1,4 @@
-Simocybe fulvifibrillosa (Murrill) Singer SPECIES
-=======
+# Simocybe fulvifibrillosa (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

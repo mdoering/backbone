@@ -1,5 +1,4 @@
-Arthopyrenia alboatra (Kremp.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia alboatra (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thielavia minuta var. thermophila Abdullah & Al-Bader VARIETY
-=======
+# Melanocarpus thermophilus (Abdullah & Al-Bader) Guarro, Abdullah & Al-Bader, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Guarro, Abdullah, Al-Bader, Figueras & Gené, Mycol. Res. 100(1): 75 (1996)
 
 #### Original name
 Thielavia minuta var. thermophila Abdullah & Al-Bader

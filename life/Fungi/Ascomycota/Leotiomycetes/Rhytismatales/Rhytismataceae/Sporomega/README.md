@@ -1,5 +1,4 @@
-Sporomega Corda, 1842 GENUS
-=======
+# Sporomega Corda, 1842 GENUS
 
 #### Status
 ACCEPTED

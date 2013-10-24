@@ -1,5 +1,4 @@
-Chrysosporium spinosum (Sacc.) Dominik SPECIES
-=======
+# Chrysosporium spinosum (Sacc.) Dominik SPECIES
 
 #### Status
 ACCEPTED

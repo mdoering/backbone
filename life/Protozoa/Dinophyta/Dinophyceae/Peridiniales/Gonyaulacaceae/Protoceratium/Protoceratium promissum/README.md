@@ -1,5 +1,4 @@
-Protoceratium promissum Kofoid & Michener, 1911 SPECIES
-=======
+# Protoceratium promissum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

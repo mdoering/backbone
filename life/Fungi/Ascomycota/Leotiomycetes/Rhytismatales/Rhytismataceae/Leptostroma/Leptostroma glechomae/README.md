@@ -1,5 +1,4 @@
-Leptostroma glechomae Berk. & Broome SPECIES
-=======
+# Leptostroma glechomae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia ammiratii Norvell SPECIES
-=======
+# Phaeocollybia ammiratii Norvell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria scleroticola Lloyd SPECIES
-=======
+# Naucoria scleroticola Lloyd SPECIES
 
 #### Status
 ACCEPTED

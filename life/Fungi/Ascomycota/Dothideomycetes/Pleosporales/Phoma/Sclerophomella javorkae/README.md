@@ -1,5 +1,4 @@
-Sclerophomella javorkae Moesz SPECIES
-=======
+# Sclerophomella javorkae Moesz SPECIES
 
 #### Status
 ACCEPTED

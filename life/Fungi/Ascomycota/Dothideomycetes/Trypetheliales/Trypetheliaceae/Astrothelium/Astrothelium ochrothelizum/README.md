@@ -1,5 +1,4 @@
-Astrothelium ochrothelizum (Nyl.) Müll. Arg. SPECIES
-=======
+# Astrothelium ochrothelizum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

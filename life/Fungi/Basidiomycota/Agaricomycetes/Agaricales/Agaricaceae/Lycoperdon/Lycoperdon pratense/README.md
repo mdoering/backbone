@@ -1,17 +1,16 @@
-Vascellum pratense subsp. pratense (Pers.) Kreisel SUBSPECIES
-=======
+# Lycoperdon pratense Pers., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. 64: 159 (1962)
+Tent. disp. meth. fung. (Lipsiae) 7 (1797)
 
 #### Original name
-Vascellum pratense subsp. pratense (Pers.) Kreisel
+Lycoperdon pratense Pers., 1797
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Usnea entoviolata Motyka SPECIES
-=======
+# Usnea entoviolata Motyka SPECIES
 
 #### Status
 ACCEPTED

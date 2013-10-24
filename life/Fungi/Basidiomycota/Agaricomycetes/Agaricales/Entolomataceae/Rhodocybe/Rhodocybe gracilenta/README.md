@@ -1,5 +1,4 @@
-Rhodocybe gracilenta (Cooke & Massee) Pegler SPECIES
-=======
+# Rhodocybe gracilenta (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

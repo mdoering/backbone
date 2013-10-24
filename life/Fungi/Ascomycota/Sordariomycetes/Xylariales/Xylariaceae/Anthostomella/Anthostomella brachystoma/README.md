@@ -1,5 +1,4 @@
-Anthostomella brachystoma Ellis & Everh. SPECIES
-=======
+# Anthostomella brachystoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

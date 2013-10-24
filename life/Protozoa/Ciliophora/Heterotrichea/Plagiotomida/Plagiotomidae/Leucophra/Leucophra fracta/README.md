@@ -1,5 +1,4 @@
-Leucophra fracta Müller, 1786 SPECIES
-=======
+# Leucophra fracta Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

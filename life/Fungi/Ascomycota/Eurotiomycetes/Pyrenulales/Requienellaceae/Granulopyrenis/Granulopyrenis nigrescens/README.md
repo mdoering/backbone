@@ -1,5 +1,4 @@
-Granulopyrenis nigrescens (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Granulopyrenis nigrescens (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

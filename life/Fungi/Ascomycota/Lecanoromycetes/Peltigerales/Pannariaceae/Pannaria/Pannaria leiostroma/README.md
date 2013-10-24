@@ -1,5 +1,4 @@
-Pannaria leiostroma Nyl. SPECIES
-=======
+# Pannaria leiostroma Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licnophoridae Bütschli, 1887 FAMILY
-=======
+# Licnophoridae Bütschli, 1887 FAMILY
 
 #### Status
 ACCEPTED

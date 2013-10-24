@@ -1,5 +1,4 @@
-Psammophaga Arnold, 1982 GENUS
-=======
+# Psammophaga Arnold, 1982 GENUS
 
 #### Status
 ACCEPTED

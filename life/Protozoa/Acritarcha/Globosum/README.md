@@ -1,5 +1,4 @@
-Globosum White, 1844 GENUS
-=======
+# Globosum White, 1844 GENUS
 
 #### Status
 ACCEPTED

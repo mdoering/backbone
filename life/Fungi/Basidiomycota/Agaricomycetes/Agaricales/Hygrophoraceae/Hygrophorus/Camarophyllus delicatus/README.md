@@ -1,5 +1,4 @@
-Camarophyllus delicatus E. Horak, 1973 SPECIES
-=======
+# Camarophyllus delicatus E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

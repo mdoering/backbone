@@ -1,5 +1,4 @@
-Lecidea sordulenta Kremp. SPECIES
-=======
+# Lecidea sordulenta Kremp. SPECIES
 
 #### Status
 ACCEPTED

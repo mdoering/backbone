@@ -1,8 +1,7 @@
-Rhodococcus chlorophenolicus Apajalahti et al., 1986 SPECIES
-=======
+# Mycobacterium chlorophenolicum (Apajalahti et al., 1986) Briglia et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

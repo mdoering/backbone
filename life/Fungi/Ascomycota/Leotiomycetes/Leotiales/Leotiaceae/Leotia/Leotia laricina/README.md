@@ -1,5 +1,4 @@
-Leotia laricina Pers. SPECIES
-=======
+# Leotia laricina Pers. SPECIES
 
 #### Status
 ACCEPTED

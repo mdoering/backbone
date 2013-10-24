@@ -1,5 +1,4 @@
-Metus pileatus (Mont.) D.J. Galloway & P. James SPECIES
-=======
+# Metus pileatus (Mont.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta morrisianae C.C. Chen SPECIES
-=======
+# Phyllosticta morrisianae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

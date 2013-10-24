@@ -1,5 +1,4 @@
-Cercoseptoria blephiliae H.C. Greene SPECIES
-=======
+# Cercoseptoria blephiliae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia pseudopsathyra (Berk.) Sacc. SPECIES
-=======
+# Stropharia pseudopsathyra (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

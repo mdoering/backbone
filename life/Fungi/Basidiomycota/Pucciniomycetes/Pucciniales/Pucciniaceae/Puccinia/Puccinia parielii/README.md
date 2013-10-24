@@ -1,5 +1,4 @@
-Puccinia parielii Maire SPECIES
-=======
+# Puccinia parielii Maire SPECIES
 
 #### Status
 ACCEPTED

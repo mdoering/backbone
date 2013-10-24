@@ -1,5 +1,4 @@
-Polystictus ochrotinctus (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Polystictus ochrotinctus (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

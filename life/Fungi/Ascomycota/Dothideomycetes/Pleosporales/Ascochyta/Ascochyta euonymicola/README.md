@@ -1,5 +1,4 @@
-Ascochyta euonymicola Allesch. SPECIES
-=======
+# Ascochyta euonymicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

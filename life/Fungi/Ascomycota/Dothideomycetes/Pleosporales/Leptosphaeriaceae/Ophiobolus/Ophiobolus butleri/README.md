@@ -1,5 +1,4 @@
-Ophiobolus butleri Syd. & P. Syd. SPECIES
-=======
+# Ophiobolus butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

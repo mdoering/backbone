@@ -1,5 +1,4 @@
-Meliola dicranochaeta Syd. SPECIES
-=======
+# Meliola dicranochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

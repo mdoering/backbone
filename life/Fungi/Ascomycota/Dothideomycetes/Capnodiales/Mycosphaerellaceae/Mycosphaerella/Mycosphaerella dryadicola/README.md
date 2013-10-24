@@ -1,14 +1,13 @@
-Sphaerella dryadicola Rostr., 1901 SPECIES
-=======
+# Mycosphaerella dryadicola (Rostr.) Munk, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi of the Faeröes 2: 58 (1958)
 
 #### Original name
 Sphaerella dryadicola Rostr., 1901

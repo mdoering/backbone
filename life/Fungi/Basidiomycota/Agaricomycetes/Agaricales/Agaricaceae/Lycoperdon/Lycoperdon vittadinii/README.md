@@ -1,5 +1,4 @@
-Lycoperdon vittadinii Massee SPECIES
-=======
+# Lycoperdon vittadinii Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma fidele Corner & E. Horak SPECIES
-=======
+# Entoloma fidele Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

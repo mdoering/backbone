@@ -1,5 +1,4 @@
-Uredo dennstaedtiae (Dietel) Hirats. f. SPECIES
-=======
+# Uredo dennstaedtiae (Dietel) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

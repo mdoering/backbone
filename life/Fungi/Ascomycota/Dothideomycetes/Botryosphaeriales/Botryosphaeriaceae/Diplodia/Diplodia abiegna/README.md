@@ -1,5 +1,4 @@
-Diplodia abiegna Maubl. SPECIES
-=======
+# Diplodia abiegna Maubl. SPECIES
 
 #### Status
 ACCEPTED

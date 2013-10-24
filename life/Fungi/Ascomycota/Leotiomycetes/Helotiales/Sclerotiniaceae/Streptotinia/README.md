@@ -1,5 +1,4 @@
-Streptotinia Whetzel GENUS
-=======
+# Streptotinia Whetzel GENUS
 
 #### Status
 ACCEPTED

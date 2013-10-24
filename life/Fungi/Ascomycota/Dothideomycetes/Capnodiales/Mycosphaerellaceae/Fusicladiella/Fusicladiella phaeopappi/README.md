@@ -1,5 +1,4 @@
-Fusicladiella phaeopappi (Petr.) Deighton SPECIES
-=======
+# Fusicladiella phaeopappi (Petr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

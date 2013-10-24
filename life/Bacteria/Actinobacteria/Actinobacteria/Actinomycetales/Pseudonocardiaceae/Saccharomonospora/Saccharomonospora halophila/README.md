@@ -1,5 +1,4 @@
-Saccharomonospora halophila Al-Zarban et al., 2002 SPECIES
-=======
+# Saccharomonospora halophila Al-Zarban et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

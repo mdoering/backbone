@@ -1,5 +1,4 @@
-Gymnopus tamblinganensis A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus tamblinganensis A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

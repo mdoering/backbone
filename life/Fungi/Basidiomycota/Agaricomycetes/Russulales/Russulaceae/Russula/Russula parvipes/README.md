@@ -1,5 +1,4 @@
-Russula parvipes Romell SPECIES
-=======
+# Russula parvipes Romell SPECIES
 
 #### Status
 ACCEPTED

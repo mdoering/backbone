@@ -1,17 +1,16 @@
-Tolyposporidium Thirum. & Neerg. GENUS
-=======
+# Moesziomyces Vánky GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(3): 179 (1978)
+Bot. Notiser 130(2): 133 (1977)
 
 #### Original name
-Tolyposporidium Thirum. & Neerg.
+Moesziomyces Vánky
 
 ### Remarks
 null

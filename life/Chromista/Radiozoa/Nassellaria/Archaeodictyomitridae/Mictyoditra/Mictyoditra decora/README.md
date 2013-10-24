@@ -1,5 +1,4 @@
-Mictyoditra decora SPECIES
-=======
+# Mictyoditra decora SPECIES
 
 #### Status
 ACCEPTED

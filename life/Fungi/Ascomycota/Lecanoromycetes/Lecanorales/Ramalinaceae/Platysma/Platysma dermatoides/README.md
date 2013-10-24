@@ -1,5 +1,4 @@
-Platysma dermatoides Stirt. SPECIES
-=======
+# Platysma dermatoides Stirt. SPECIES
 
 #### Status
 ACCEPTED

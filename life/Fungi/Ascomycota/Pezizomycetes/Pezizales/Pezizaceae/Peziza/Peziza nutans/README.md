@@ -1,5 +1,4 @@
-Peziza nutans Batsch SPECIES
-=======
+# Peziza nutans Batsch SPECIES
 
 #### Status
 ACCEPTED

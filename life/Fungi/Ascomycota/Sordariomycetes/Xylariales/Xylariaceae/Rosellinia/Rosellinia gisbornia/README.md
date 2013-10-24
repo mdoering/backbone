@@ -1,5 +1,4 @@
-Rosellinia gisbornia L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia gisbornia L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

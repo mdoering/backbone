@@ -1,5 +1,4 @@
-Aleurodiscus balsamicola Rabenh. SPECIES
-=======
+# Aleurodiscus balsamicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

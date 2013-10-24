@@ -1,5 +1,4 @@
-Marssonina decolorans Kabát & Bubák SPECIES
-=======
+# Marssonina decolorans Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius tesquorum Malençon SPECIES
-=======
+# Lactarius tesquorum Malençon SPECIES
 
 #### Status
 ACCEPTED

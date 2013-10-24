@@ -1,5 +1,4 @@
-Sporonema asperulae (Sacc. & Fautrey) Petr. SPECIES
-=======
+# Sporonema asperulae (Sacc. & Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

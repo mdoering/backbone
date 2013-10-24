@@ -1,5 +1,4 @@
-Sphaerella monardae Ellis & Everh. SPECIES
-=======
+# Sphaerella monardae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

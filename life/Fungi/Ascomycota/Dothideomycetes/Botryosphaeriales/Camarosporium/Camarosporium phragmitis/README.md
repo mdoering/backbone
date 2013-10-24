@@ -1,5 +1,4 @@
-Camarosporium phragmitis Brunaud SPECIES
-=======
+# Camarosporium phragmitis Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea byrsonimae Bat. & Gayão SPECIES
-=======
+# Stigmatea byrsonimae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

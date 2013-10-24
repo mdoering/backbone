@@ -1,5 +1,4 @@
-Athelicium K.H. Larss. & Hjortstam GENUS
-=======
+# Athelicium K.H. Larss. & Hjortstam GENUS
 
 #### Status
 ACCEPTED

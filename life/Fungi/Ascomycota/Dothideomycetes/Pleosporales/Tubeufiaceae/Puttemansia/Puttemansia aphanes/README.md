@@ -1,5 +1,4 @@
-Puttemansia aphanes (Syd.) Petr. SPECIES
-=======
+# Puttemansia aphanes (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

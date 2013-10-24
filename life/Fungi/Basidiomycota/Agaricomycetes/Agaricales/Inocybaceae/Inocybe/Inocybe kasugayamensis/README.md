@@ -1,5 +1,4 @@
-Inocybe kasugayamensis Hongo SPECIES
-=======
+# Inocybe kasugayamensis Hongo SPECIES
 
 #### Status
 ACCEPTED

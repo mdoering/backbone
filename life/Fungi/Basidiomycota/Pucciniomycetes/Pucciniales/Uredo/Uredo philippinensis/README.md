@@ -1,5 +1,4 @@
-Uredo philippinensis Syd. & P. Syd. SPECIES
-=======
+# Uredo philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

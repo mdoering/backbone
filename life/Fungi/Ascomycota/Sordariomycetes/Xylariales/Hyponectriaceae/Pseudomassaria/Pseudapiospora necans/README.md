@@ -1,5 +1,4 @@
-Pseudapiospora necans (Rehm) Petr. SPECIES
-=======
+# Pseudapiospora necans (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

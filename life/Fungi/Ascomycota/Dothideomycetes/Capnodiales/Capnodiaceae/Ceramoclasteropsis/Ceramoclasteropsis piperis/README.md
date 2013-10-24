@@ -1,5 +1,4 @@
-Ceramoclasteropsis piperis Bat. & Peres SPECIES
-=======
+# Ceramoclasteropsis piperis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

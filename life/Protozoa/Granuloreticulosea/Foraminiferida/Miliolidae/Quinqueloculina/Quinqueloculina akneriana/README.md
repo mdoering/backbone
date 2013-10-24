@@ -1,5 +1,4 @@
-Quinqueloculina akneriana SPECIES
-=======
+# Quinqueloculina akneriana SPECIES
 
 #### Status
 ACCEPTED

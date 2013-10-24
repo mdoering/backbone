@@ -1,5 +1,4 @@
-Lecidea subsmaragdula H. Magn. SPECIES
-=======
+# Lecidea subsmaragdula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

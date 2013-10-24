@@ -1,5 +1,4 @@
-Gymnodinium lazulum Hulburt, 1957 SPECIES
-=======
+# Gymnodinium lazulum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

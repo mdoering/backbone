@@ -1,5 +1,4 @@
-Drosophila fibrillosa SPECIES
-=======
+# Drosophila fibrillosa SPECIES
 
 #### Status
 ACCEPTED

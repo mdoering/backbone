@@ -1,5 +1,4 @@
-Hymenoscyphus ianthinum (Fr.) Lambotte SPECIES
-=======
+# Hymenoscyphus ianthinum (Fr.) Lambotte SPECIES
 
 #### Status
 ACCEPTED

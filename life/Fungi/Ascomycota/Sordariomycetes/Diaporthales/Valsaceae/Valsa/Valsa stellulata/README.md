@@ -1,5 +1,4 @@
-Valsa stellulata Fuckel SPECIES
-=======
+# Valsa stellulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

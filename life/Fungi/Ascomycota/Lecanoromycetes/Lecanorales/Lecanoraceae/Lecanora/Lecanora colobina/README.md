@@ -1,5 +1,4 @@
-Lecanora colobina Ach. SPECIES
-=======
+# Lecanora colobina Ach. SPECIES
 
 #### Status
 ACCEPTED

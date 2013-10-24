@@ -1,5 +1,4 @@
-Sebacina candida L.S. Olive SPECIES
-=======
+# Sebacina candida L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

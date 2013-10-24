@@ -1,5 +1,4 @@
-Phoma azurea C. Moreau SPECIES
-=======
+# Phoma azurea C. Moreau SPECIES
 
 #### Status
 ACCEPTED

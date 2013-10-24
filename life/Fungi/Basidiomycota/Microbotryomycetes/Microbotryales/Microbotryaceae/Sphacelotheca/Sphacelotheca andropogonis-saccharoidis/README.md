@@ -1,5 +1,4 @@
-Sphacelotheca andropogonis-saccharoidis (Henn.) Cif. SPECIES
-=======
+# Sphacelotheca andropogonis-saccharoidis (Henn.) Cif. SPECIES
 
 #### Status
 ACCEPTED

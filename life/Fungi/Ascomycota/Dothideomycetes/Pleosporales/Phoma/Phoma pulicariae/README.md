@@ -1,5 +1,4 @@
-Phoma pulicariae Pass. SPECIES
-=======
+# Phoma pulicariae Pass. SPECIES
 
 #### Status
 ACCEPTED

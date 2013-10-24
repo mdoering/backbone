@@ -1,5 +1,4 @@
-Nannochloropsis granulata B. Karlson & D. Potter SPECIES
-=======
+# Nannochloropsis granulata B. Karlson & D. Potter SPECIES
 
 #### Status
 ACCEPTED

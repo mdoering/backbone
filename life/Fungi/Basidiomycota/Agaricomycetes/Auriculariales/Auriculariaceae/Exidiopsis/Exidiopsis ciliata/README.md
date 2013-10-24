@@ -1,5 +1,4 @@
-Exidiopsis ciliata Möller SPECIES
-=======
+# Exidiopsis ciliata Möller SPECIES
 
 #### Status
 ACCEPTED

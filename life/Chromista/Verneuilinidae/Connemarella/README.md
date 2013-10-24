@@ -1,5 +1,4 @@
-Connemarella Loeblich & Tappan, 1989 GENUS
-=======
+# Connemarella Loeblich & Tappan, 1989 GENUS
 
 #### Status
 ACCEPTED

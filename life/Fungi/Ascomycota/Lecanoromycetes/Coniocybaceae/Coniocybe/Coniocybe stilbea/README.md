@@ -1,5 +1,4 @@
-Coniocybe stilbea (Ach.) Körb. SPECIES
-=======
+# Coniocybe stilbea (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

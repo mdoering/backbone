@@ -1,5 +1,4 @@
-Graphis alpestris (Zahlbr.) Staiger SPECIES
-=======
+# Graphis alpestris (Zahlbr.) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia grubei Lücking SPECIES
-=======
+# Arthonia grubei Lücking SPECIES
 
 #### Status
 ACCEPTED

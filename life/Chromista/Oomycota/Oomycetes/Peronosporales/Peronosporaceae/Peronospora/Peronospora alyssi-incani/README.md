@@ -1,5 +1,4 @@
-Peronospora alyssi-incani Gäum. SPECIES
-=======
+# Peronospora alyssi-incani Gäum. SPECIES
 
 #### Status
 ACCEPTED

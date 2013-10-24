@@ -1,5 +1,4 @@
-Diatrypella citricola Ellis & Everh. SPECIES
-=======
+# Diatrypella citricola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

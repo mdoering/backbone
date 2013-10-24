@@ -1,8 +1,7 @@
-Biscutum testudinarium Black in Black & Barnes, 1959 SPECIES
-=======
+# Biscutum constans (Gorka, 1957) Black in Black & Barnes, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

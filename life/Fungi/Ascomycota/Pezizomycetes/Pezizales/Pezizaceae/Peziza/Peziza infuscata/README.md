@@ -1,5 +1,4 @@
-Peziza infuscata Quél. SPECIES
-=======
+# Peziza infuscata Quél. SPECIES
 
 #### Status
 ACCEPTED

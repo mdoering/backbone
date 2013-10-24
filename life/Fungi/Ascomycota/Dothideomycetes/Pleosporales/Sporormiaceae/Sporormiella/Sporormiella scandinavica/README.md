@@ -1,5 +1,4 @@
-Sporormiella scandinavica (I. Egeland) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella scandinavica (I. Egeland) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

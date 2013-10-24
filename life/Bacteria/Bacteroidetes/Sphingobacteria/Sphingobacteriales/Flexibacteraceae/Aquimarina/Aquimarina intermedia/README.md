@@ -1,5 +1,4 @@
-Aquimarina intermedia Nedashkovskaya et al., 2006 SPECIES
-=======
+# Aquimarina intermedia Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

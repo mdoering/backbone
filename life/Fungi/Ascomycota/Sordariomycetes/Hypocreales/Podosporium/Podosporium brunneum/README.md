@@ -1,5 +1,4 @@
-Podosporium brunneum Bonord. SPECIES
-=======
+# Podosporium brunneum Bonord. SPECIES
 
 #### Status
 ACCEPTED

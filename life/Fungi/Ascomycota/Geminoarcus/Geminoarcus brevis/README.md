@@ -1,5 +1,4 @@
-Geminoarcus brevis K. Ando SPECIES
-=======
+# Geminoarcus brevis K. Ando SPECIES
 
 #### Status
 ACCEPTED

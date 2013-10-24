@@ -1,5 +1,4 @@
-Laboulbenia spiralis Thaxt. SPECIES
-=======
+# Laboulbenia spiralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

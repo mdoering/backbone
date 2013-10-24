@@ -1,5 +1,4 @@
-Epidermomyces floccosus (Harz) Loeffler SPECIES
-=======
+# Epidermomyces floccosus (Harz) Loeffler SPECIES
 
 #### Status
 ACCEPTED

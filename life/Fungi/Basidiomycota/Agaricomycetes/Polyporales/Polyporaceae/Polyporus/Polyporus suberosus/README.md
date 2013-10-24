@@ -1,5 +1,4 @@
-Polyporus suberosus (L.) Ferd. & C.A. Jørg. SPECIES
-=======
+# Polyporus suberosus (L.) Ferd. & C.A. Jørg. SPECIES
 
 #### Status
 ACCEPTED

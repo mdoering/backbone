@@ -1,5 +1,4 @@
-Monochaetia ellisiana var. ellisiana VARIETY
-=======
+# Monochaetia ellisiana Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monochaetia ellisiana var. ellisiana
+Monochaetia ellisiana Sacc.
 
 ### Remarks
 null

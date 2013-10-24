@@ -1,5 +1,4 @@
-Lecidea verruca Poelt SPECIES
-=======
+# Lecidea verruca Poelt SPECIES
 
 #### Status
 ACCEPTED

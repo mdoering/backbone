@@ -1,17 +1,16 @@
-Glomus zaozhuangianus F.Y. Wang & R.J. Liu SPECIES
-=======
+# Glomus zaozhuangianum F.Y. Wang & R.J. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 21(4): 522 (2002)
 
 #### Original name
-Glomus zaozhuangianus F.Y. Wang & R.J. Liu
+Glomus zaozhuangianum F.Y. Wang & R.J. Liu
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Schizothyrium salvadorae (K. Ramakr.) A. Pande, 2008 SPECIES
-=======
+# Protothyrium salvadorae (Cooke) G. Arnaud, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annales de l'École Nationale d'Agriculture de Montpellier, N. S. 16: 101 (1918)
 
 #### Original name
-null
+Phyllachora salvadorae Cooke, 1885
 
 ### Remarks
 null

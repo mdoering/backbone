@@ -1,5 +1,4 @@
-Agaricus coracinus Fr. SPECIES
-=======
+# Agaricus coracinus Fr. SPECIES
 
 #### Status
 ACCEPTED

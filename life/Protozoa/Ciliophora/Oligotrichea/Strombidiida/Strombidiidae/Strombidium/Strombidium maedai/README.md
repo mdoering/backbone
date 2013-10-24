@@ -1,5 +1,4 @@
-Strombidium maedai Lynn & Gilron, 1993 SPECIES
-=======
+# Strombidium maedai Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

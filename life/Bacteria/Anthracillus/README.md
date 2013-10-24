@@ -1,5 +1,4 @@
-Anthracillus GENUS
-=======
+# Anthracillus GENUS
 
 #### Status
 ACCEPTED

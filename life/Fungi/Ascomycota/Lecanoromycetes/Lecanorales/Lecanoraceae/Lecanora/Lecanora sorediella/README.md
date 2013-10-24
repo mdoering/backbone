@@ -1,5 +1,4 @@
-Lecanora sorediella Nyl. SPECIES
-=======
+# Lecanora sorediella Nyl. SPECIES
 
 #### Status
 ACCEPTED

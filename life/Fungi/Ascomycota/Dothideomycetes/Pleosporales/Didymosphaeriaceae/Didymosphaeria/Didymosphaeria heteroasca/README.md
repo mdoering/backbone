@@ -1,5 +1,4 @@
-Didymosphaeria heteroasca Panwar & S.J. Kaur SPECIES
-=======
+# Didymosphaeria heteroasca Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

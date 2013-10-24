@@ -1,5 +1,4 @@
-Aspergillus avenaceus G. Sm., 1943 SPECIES
-=======
+# Aspergillus avenaceus G. Sm., 1943 SPECIES
 
 #### Status
 ACCEPTED

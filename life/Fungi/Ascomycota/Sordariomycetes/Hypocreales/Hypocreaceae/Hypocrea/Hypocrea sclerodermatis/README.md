@@ -1,5 +1,4 @@
-Hypocrea sclerodermatis Penz. & Sacc. SPECIES
-=======
+# Hypocrea sclerodermatis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

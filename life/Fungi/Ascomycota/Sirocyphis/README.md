@@ -1,5 +1,4 @@
-Sirocyphis Clem. GENUS
-=======
+# Sirocyphis Clem. GENUS
 
 #### Status
 ACCEPTED

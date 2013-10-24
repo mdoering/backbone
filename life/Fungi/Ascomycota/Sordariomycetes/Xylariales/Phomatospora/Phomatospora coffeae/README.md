@@ -1,5 +1,4 @@
-Phomatospora coffeae Saccas SPECIES
-=======
+# Phomatospora coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

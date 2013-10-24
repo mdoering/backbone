@@ -1,5 +1,4 @@
-Hypochnus reticulatus Wallr. SPECIES
-=======
+# Hypochnus reticulatus Wallr. SPECIES
 
 #### Status
 ACCEPTED

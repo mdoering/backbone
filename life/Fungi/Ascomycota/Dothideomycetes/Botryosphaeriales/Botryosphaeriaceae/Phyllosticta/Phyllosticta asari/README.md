@@ -1,5 +1,4 @@
-Phyllosticta asari Aksel SPECIES
-=======
+# Phyllosticta asari Aksel SPECIES
 
 #### Status
 ACCEPTED

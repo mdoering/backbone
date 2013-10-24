@@ -1,5 +1,4 @@
-Alaria paradisea (Miyabe & Nagai) Widdowson SPECIES
-=======
+# Alaria paradisea (Miyabe & Nagai) Widdowson SPECIES
 
 #### Status
 ACCEPTED

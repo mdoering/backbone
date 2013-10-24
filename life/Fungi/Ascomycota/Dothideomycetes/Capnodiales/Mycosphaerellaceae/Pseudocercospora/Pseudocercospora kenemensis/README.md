@@ -1,5 +1,4 @@
-Pseudocercospora kenemensis Deighton SPECIES
-=======
+# Pseudocercospora kenemensis Deighton SPECIES
 
 #### Status
 ACCEPTED

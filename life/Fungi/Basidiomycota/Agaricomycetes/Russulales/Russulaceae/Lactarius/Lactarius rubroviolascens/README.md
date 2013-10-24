@@ -1,5 +1,4 @@
-Lactarius rubroviolascens R. Heim SPECIES
-=======
+# Lactarius rubroviolascens R. Heim SPECIES
 
 #### Status
 ACCEPTED

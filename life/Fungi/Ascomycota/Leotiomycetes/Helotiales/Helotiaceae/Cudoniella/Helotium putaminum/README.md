@@ -1,5 +1,4 @@
-Helotium putaminum Velen. SPECIES
-=======
+# Helotium putaminum Velen. SPECIES
 
 #### Status
 ACCEPTED

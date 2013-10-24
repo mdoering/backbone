@@ -1,5 +1,4 @@
-Hypochnus spiniferus Burt SPECIES
-=======
+# Hypochnus spiniferus Burt SPECIES
 
 #### Status
 ACCEPTED

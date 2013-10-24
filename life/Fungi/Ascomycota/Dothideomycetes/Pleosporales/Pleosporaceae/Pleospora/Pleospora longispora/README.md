@@ -1,5 +1,4 @@
-Pleospora longispora Pass. SPECIES
-=======
+# Pleospora longispora Pass. SPECIES
 
 #### Status
 ACCEPTED

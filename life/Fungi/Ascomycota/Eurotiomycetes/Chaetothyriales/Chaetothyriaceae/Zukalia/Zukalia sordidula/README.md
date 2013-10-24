@@ -1,5 +1,4 @@
-Zukalia sordidula (Lév.) Sacc. SPECIES
-=======
+# Zukalia sordidula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

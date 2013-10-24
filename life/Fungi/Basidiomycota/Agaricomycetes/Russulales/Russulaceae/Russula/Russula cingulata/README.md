@@ -1,5 +1,4 @@
-Russula cingulata Buyck & E. Horak SPECIES
-=======
+# Russula cingulata Buyck & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora teraspora SPECIES
-=======
+# Lecanora teraspora SPECIES
 
 #### Status
 ACCEPTED

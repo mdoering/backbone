@@ -1,5 +1,4 @@
-Ochrobactrum Holmes et al., 1988 GENUS
-=======
+# Ochrobactrum Holmes et al., 1988 GENUS
 
 #### Status
 ACCEPTED

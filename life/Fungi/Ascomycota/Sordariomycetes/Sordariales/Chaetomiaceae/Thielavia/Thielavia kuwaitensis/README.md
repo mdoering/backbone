@@ -1,5 +1,4 @@
-Thielavia kuwaitensis Moustafa, 1976 SPECIES
-=======
+# Thielavia kuwaitensis Moustafa, 1976 SPECIES
 
 #### Status
 ACCEPTED

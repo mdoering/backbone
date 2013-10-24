@@ -1,8 +1,7 @@
-Truncatulina pachyderma Rzehak, 1886 SPECIES
-=======
+# Cibicidoides pachyderma (Rzehak, 1886) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

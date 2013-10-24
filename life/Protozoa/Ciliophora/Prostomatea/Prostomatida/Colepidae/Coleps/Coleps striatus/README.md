@@ -1,5 +1,4 @@
-Coleps striatus Smith, 1897 SPECIES
-=======
+# Coleps striatus Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

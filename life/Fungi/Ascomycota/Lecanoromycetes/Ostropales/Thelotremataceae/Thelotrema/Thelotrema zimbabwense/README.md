@@ -1,5 +1,4 @@
-Thelotrema zimbabwense Frisch SPECIES
-=======
+# Thelotrema zimbabwense Frisch SPECIES
 
 #### Status
 ACCEPTED

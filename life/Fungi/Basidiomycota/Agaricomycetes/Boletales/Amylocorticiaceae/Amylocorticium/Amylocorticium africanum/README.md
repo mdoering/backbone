@@ -1,5 +1,4 @@
-Amylocorticium africanum Hjortstam, 1983 SPECIES
-=======
+# Amylocorticium africanum Hjortstam, 1983 SPECIES
 
 #### Status
 ACCEPTED

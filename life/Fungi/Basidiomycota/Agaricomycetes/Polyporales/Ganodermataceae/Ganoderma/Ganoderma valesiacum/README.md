@@ -1,14 +1,13 @@
-Ganoderma lucidum subsp. valesiacum (Boud.) Bourdot & Galzin SUBSPECIES
-=======
+# Ganoderma valesiacum Boud., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 177 (1925)
+Bull. Soc. mycol. Fr. 11: 28 (1895)
 
 #### Original name
 Ganoderma valesiacum Boud., 1895

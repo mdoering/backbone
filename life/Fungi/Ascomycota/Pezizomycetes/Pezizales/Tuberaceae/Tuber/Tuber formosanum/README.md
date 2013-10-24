@@ -1,5 +1,4 @@
-Tuber formosanum Hu SPECIES
-=======
+# Tuber formosanum Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosolenia similoides Cleve-Euler, 1951 SPECIES
-=======
+# Rhizosolenia similoides Cleve-Euler, 1951 SPECIES
 
 #### Status
 ACCEPTED

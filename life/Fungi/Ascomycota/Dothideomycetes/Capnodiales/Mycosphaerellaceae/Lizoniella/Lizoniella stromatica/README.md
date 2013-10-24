@@ -1,5 +1,4 @@
-Lizoniella stromatica (Rehm) Sacc. & Trotter SPECIES
-=======
+# Lizoniella stromatica (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

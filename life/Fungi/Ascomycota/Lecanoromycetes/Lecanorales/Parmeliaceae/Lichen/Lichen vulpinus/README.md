@@ -1,5 +1,4 @@
-Lichen vulpinus L. SPECIES
-=======
+# Lichen vulpinus L. SPECIES
 
 #### Status
 ACCEPTED

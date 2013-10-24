@@ -1,5 +1,4 @@
-Attheya ussurensis Stonik, Orlova & Crawford, 2006 SPECIES
-=======
+# Attheya ussurensis Stonik, Orlova & Crawford, 2006 SPECIES
 
 #### Status
 ACCEPTED

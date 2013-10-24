@@ -1,5 +1,4 @@
-Colletotrichum poinsettiae (Sacc.) Petr. SPECIES
-=======
+# Colletotrichum poinsettiae (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

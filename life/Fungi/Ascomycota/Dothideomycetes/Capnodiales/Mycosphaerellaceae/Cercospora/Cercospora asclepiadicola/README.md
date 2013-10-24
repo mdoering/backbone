@@ -1,5 +1,4 @@
-Cercospora asclepiadicola Chupp SPECIES
-=======
+# Cercospora asclepiadicola Chupp SPECIES
 
 #### Status
 ACCEPTED

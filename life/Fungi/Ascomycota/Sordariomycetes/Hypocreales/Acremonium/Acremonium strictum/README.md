@@ -1,17 +1,16 @@
-Cephalosporium acremonium var. acremonium VARIETY
-=======
+# Acremonium strictum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 3: 11 (1839)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 42 (1971)
 
 #### Original name
-Cephalosporium acremonium var. acremonium
+Acremonium strictum W. Gams, 1971
 
 ### Remarks
 null

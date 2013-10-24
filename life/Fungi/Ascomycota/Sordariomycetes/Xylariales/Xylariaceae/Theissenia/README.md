@@ -1,5 +1,4 @@
-Theissenia Maubl. GENUS
-=======
+# Theissenia Maubl. GENUS
 
 #### Status
 ACCEPTED

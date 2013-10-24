@@ -1,14 +1,13 @@
-Acaulospora trappei R.N. Ames & Linderman, 1976 SPECIES
-=======
+# Archaeospora trappei (R.N. Ames & Linderman) J.B. Morton & D. Redecker, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 3(3): 566 (1976)
+Mycologia 93(1): 183 (2001)
 
 #### Original name
 Acaulospora trappei R.N. Ames & Linderman, 1976

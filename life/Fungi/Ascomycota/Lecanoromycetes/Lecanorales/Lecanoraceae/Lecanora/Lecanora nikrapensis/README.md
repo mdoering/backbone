@@ -1,5 +1,4 @@
-Lecanora nikrapensis (Darb.) Zahlbr. SPECIES
-=======
+# Lecanora nikrapensis (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

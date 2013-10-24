@@ -1,5 +1,4 @@
-Trogia subrufescens var. subrufescens VARIETY
-=======
+# Trogia subrufescens Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Cantharelloid Fungi 240 (1966)
 
 #### Original name
-Trogia subrufescens var. subrufescens
+Trogia subrufescens Corner
 
 ### Remarks
 null

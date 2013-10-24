@@ -1,5 +1,4 @@
-Tomentella griseoviolacea Litsch., 1941 SPECIES
-=======
+# Tomentella griseoviolacea Litsch., 1941 SPECIES
 
 #### Status
 ACCEPTED

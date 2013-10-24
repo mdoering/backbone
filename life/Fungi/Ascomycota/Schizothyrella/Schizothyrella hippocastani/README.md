@@ -1,5 +1,4 @@
-Schizothyrella hippocastani Ellis & Everh. SPECIES
-=======
+# Schizothyrella hippocastani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

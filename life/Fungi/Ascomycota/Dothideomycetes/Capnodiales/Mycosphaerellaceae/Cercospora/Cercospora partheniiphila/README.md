@@ -1,5 +1,4 @@
-Cercospora partheniiphila Chupp & H.C. Greene SPECIES
-=======
+# Cercospora partheniiphila Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

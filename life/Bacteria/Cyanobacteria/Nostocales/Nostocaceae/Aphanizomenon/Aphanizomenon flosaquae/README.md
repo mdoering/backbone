@@ -1,5 +1,4 @@
-Aphanizomenon flosaquae J. Ralfs Ex Bornet and Flah. SPECIES
-=======
+# Aphanizomenon flosaquae J. Ralfs Ex Bornet and Flah. SPECIES
 
 #### Status
 ACCEPTED

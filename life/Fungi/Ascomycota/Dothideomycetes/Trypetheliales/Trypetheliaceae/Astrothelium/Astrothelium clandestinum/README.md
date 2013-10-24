@@ -1,5 +1,4 @@
-Astrothelium clandestinum (Fée) Nyl. SPECIES
-=======
+# Astrothelium clandestinum (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

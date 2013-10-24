@@ -1,5 +1,4 @@
-Clostridium spiroforme Kaneuchi et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium spiroforme Kaneuchi et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

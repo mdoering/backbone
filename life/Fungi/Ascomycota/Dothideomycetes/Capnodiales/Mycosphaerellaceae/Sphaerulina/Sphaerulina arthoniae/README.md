@@ -1,5 +1,4 @@
-Sphaerulina arthoniae (Arnold) Sacc. SPECIES
-=======
+# Sphaerulina arthoniae (Arnold) Sacc. SPECIES
 
 #### Status
 ACCEPTED

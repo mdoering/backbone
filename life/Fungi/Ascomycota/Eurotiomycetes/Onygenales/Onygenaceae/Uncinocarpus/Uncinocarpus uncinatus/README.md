@@ -1,14 +1,13 @@
-Myxotrichum uncinatum (Eidam) J. Schröt., 1893 SPECIES
-=======
+# Uncinocarpus uncinatus (Eidam) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 212 (1893)
+Mycotaxon 24: 186 (1985)
 
 #### Original name
 Gymnoascus uncinatus Eidam, 1880

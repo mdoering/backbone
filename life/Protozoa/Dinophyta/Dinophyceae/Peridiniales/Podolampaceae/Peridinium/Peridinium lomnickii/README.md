@@ -1,5 +1,4 @@
-Peridinium lomnickii var. wierzejskii (Woloszynska) Lindemann VARIETY
-=======
+# Peridinium lomnickii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

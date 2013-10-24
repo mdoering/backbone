@@ -1,5 +1,4 @@
-Dermatocarpon norrlandicum H. Magn. SPECIES
-=======
+# Dermatocarpon norrlandicum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma lacustris P. Karst., 1884 SPECIES
-=======
+# Phoma lacustris P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED

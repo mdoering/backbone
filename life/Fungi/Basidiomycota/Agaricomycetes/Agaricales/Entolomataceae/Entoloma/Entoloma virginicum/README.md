@@ -1,5 +1,4 @@
-Entoloma virginicum Hesler SPECIES
-=======
+# Entoloma virginicum Hesler SPECIES
 
 #### Status
 ACCEPTED

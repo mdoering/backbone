@@ -1,5 +1,4 @@
-Capnodium corni Auersw. SPECIES
-=======
+# Capnodium corni Auersw. SPECIES
 
 #### Status
 ACCEPTED

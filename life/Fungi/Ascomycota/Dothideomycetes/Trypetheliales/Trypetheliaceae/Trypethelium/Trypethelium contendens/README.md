@@ -1,5 +1,4 @@
-Trypethelium contendens Nyl. SPECIES
-=======
+# Trypethelium contendens Nyl. SPECIES
 
 #### Status
 ACCEPTED

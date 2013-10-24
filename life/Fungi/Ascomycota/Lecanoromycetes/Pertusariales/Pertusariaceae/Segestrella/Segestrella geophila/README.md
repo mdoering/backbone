@@ -1,5 +1,4 @@
-Segestrella geophila (Nyl.) Branth & Rostr. SPECIES
-=======
+# Segestrella geophila (Nyl.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

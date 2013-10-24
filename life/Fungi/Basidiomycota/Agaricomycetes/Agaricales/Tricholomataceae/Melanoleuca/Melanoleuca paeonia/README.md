@@ -1,5 +1,4 @@
-Melanoleuca paeonia (Fr.) Murrill SPECIES
-=======
+# Melanoleuca paeonia (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

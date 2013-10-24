@@ -1,5 +1,4 @@
-Odontia pallida (Cooke & Ellis) Rick SPECIES
-=======
+# Odontia pallida (Cooke & Ellis) Rick SPECIES
 
 #### Status
 ACCEPTED

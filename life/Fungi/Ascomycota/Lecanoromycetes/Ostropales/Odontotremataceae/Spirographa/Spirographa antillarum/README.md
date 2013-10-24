@@ -1,5 +1,4 @@
-Spirographa antillarum Vain. SPECIES
-=======
+# Spirographa antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

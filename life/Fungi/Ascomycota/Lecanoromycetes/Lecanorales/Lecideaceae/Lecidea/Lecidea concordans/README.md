@@ -1,5 +1,4 @@
-Lecidea concordans Nyl. SPECIES
-=======
+# Lecidea concordans Nyl. SPECIES
 
 #### Status
 ACCEPTED

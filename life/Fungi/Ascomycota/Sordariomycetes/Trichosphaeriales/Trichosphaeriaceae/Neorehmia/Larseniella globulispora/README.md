@@ -1,5 +1,4 @@
-Larseniella globulispora Munk SPECIES
-=======
+# Larseniella globulispora Munk SPECIES
 
 #### Status
 ACCEPTED

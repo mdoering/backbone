@@ -1,5 +1,4 @@
-Thylakidium Schewiakoff, 1892 GENUS
-=======
+# Thylakidium Schewiakoff, 1892 GENUS
 
 #### Status
 ACCEPTED

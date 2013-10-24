@@ -1,5 +1,4 @@
-Papulaspora manganica Beij. SPECIES
-=======
+# Papulaspora manganica Beij. SPECIES
 
 #### Status
 ACCEPTED

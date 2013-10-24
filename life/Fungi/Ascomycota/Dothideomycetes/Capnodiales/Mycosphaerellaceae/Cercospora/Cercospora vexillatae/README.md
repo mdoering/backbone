@@ -1,5 +1,4 @@
-Cercospora vexillatae J.M. Yen SPECIES
-=======
+# Cercospora vexillatae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

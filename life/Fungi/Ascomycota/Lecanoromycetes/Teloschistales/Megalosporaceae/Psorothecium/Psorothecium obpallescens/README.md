@@ -1,5 +1,4 @@
-Psorothecium obpallescens (Nyl.) Forssell SPECIES
-=======
+# Psorothecium obpallescens (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

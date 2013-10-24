@@ -1,5 +1,4 @@
-Inocybe masoviensis Rudn.-Jez. SPECIES
-=======
+# Inocybe masoviensis Rudn.-Jez. SPECIES
 
 #### Status
 ACCEPTED

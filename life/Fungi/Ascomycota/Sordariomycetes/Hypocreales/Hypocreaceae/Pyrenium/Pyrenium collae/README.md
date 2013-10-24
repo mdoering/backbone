@@ -1,5 +1,4 @@
-Pyrenium collae Schwein. SPECIES
-=======
+# Pyrenium collae Schwein. SPECIES
 
 #### Status
 ACCEPTED

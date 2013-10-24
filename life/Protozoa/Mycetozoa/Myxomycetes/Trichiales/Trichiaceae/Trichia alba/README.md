@@ -1,5 +1,4 @@
-Trichia alba Purton SPECIES
-=======
+# Trichia alba Purton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius olivaceofulvus Kauffman & A.H. Sm. SPECIES
-=======
+# Cortinarius olivaceofulvus Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

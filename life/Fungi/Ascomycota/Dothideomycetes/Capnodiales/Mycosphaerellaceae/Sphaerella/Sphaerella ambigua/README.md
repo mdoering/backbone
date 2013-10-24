@@ -1,5 +1,4 @@
-Sphaerella ambigua Fautrey & Lambotte SPECIES
-=======
+# Sphaerella ambigua Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

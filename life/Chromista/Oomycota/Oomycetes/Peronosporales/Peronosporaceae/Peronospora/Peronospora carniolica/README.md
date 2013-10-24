@@ -1,5 +1,4 @@
-Peronospora carniolica Gäum. SPECIES
-=======
+# Peronospora carniolica Gäum. SPECIES
 
 #### Status
 ACCEPTED

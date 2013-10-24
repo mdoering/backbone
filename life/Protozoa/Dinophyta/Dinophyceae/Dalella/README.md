@@ -1,5 +1,4 @@
-Dalella McMinn & Xuekun Sun, 1994 GENUS
-=======
+# Dalella McMinn & Xuekun Sun, 1994 GENUS
 
 #### Status
 ACCEPTED

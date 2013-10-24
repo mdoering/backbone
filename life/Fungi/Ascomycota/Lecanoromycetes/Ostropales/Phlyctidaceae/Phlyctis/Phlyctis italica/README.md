@@ -1,5 +1,4 @@
-Phlyctis italica A. Massal. SPECIES
-=======
+# Phlyctis italica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

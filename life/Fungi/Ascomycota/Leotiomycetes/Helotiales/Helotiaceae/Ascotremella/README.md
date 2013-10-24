@@ -1,5 +1,4 @@
-Ascotremella Seaver, 1930 GENUS
-=======
+# Ascotremella Seaver, 1930 GENUS
 
 #### Status
 ACCEPTED

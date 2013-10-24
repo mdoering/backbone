@@ -1,5 +1,4 @@
-Clitocybe vinosa Beeli SPECIES
-=======
+# Clitocybe vinosa Beeli SPECIES
 
 #### Status
 ACCEPTED

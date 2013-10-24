@@ -1,5 +1,4 @@
-Nectria obscurata Ellis & Everh. SPECIES
-=======
+# Nectria obscurata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

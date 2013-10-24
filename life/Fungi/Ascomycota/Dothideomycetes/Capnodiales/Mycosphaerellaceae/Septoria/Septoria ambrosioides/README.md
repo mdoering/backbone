@@ -1,5 +1,4 @@
-Septoria ambrosioides Speg. SPECIES
-=======
+# Septoria ambrosioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosporobacter Strömpl et al., 2000 GENUS
-=======
+# Dendrosporobacter Strömpl et al., 2000 GENUS
 
 #### Status
 ACCEPTED

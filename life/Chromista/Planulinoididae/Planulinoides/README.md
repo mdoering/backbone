@@ -1,5 +1,4 @@
-Planulinoides Parr, 1941 GENUS
-=======
+# Planulinoides Parr, 1941 GENUS
 
 #### Status
 ACCEPTED

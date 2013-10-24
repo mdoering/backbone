@@ -1,5 +1,4 @@
-Mellitiosporiopsis drimydis Rehm SPECIES
-=======
+# Mellitiosporiopsis drimydis Rehm SPECIES
 
 #### Status
 ACCEPTED

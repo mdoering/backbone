@@ -1,5 +1,4 @@
-Septoria major Sacc. SPECIES
-=======
+# Septoria major Sacc. SPECIES
 
 #### Status
 ACCEPTED

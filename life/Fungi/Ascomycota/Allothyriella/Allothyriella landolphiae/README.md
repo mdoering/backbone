@@ -1,5 +1,4 @@
-Allothyriella landolphiae Bat., Cif. & H. Maia SPECIES
-=======
+# Allothyriella landolphiae Bat., Cif. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

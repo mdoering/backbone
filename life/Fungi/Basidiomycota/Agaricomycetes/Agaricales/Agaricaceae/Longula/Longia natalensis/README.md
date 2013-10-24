@@ -1,5 +1,4 @@
-Longia natalensis (Syd., P. Syd. & Pole-Evans) Syd. SPECIES
-=======
+# Longia natalensis (Syd., P. Syd. & Pole-Evans) Syd. SPECIES
 
 #### Status
 ACCEPTED

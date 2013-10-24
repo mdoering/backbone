@@ -1,5 +1,4 @@
-Pleurasiga minima Throndsen SPECIES
-=======
+# Pleurasiga minima Throndsen SPECIES
 
 #### Status
 ACCEPTED

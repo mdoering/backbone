@@ -1,5 +1,4 @@
-Micromonospora inositola Kawamoto et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Micromonospora inositola Kawamoto et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

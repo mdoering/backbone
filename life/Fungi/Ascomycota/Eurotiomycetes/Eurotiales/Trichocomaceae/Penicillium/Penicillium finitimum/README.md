@@ -1,5 +1,4 @@
-Penicillium finitimum Preuss SPECIES
-=======
+# Penicillium finitimum Preuss SPECIES
 
 #### Status
 ACCEPTED

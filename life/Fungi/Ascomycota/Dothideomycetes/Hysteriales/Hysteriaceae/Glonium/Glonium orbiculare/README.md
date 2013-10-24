@@ -1,5 +1,4 @@
-Glonium orbiculare Berk. & Broome SPECIES
-=======
+# Glonium orbiculare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

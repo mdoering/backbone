@@ -1,5 +1,4 @@
-Ceriomyces projectellus Murrill SPECIES
-=======
+# Ceriomyces projectellus Murrill SPECIES
 
 #### Status
 ACCEPTED

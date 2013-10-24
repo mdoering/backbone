@@ -1,5 +1,4 @@
-Poria aurantiotingens Ellis & T. Macbr. SPECIES
-=======
+# Poria aurantiotingens Ellis & T. Macbr. SPECIES
 
 #### Status
 ACCEPTED

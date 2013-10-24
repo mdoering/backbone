@@ -1,5 +1,4 @@
-Parmelia miltina DC. SPECIES
-=======
+# Parmelia miltina DC. SPECIES
 
 #### Status
 ACCEPTED

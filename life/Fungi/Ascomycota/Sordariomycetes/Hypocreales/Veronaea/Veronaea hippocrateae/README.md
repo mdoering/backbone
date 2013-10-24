@@ -1,17 +1,16 @@
-Veronaea hippocratiae Kharwar & R.K. Singh SPECIES
-=======
+# Veronaea hippocrateae Kharwar & R.K. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microbiol. Res. 159(2): 106 (2004)
 
 #### Original name
-Veronaea hippocratiae Kharwar & R.K. Singh
+Veronaea hippocrateae Kharwar & R.K. Singh
 
 ### Remarks
 null

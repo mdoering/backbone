@@ -1,5 +1,4 @@
-Ascoglena viridis Popowa SPECIES
-=======
+# Ascoglena viridis Popowa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella fragariae Velen. SPECIES
-=======
+# Pezizella fragariae Velen. SPECIES
 
 #### Status
 ACCEPTED

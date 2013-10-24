@@ -1,5 +1,4 @@
-Granatisporites Elsik & Janson. GENUS
-=======
+# Granatisporites Elsik & Janson. GENUS
 
 #### Status
 ACCEPTED

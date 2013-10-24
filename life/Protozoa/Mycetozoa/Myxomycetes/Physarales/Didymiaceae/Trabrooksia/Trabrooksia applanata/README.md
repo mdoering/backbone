@@ -1,17 +1,16 @@
-Trabrooksia applanata var. microspora Y. Yamam. VARIETY
-=======
+# Trabrooksia applanata H. W. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hikobia 11(4): 529 (1994)
+Mycologia 72(2): 396 (1980)
 
 #### Original name
-Trabrooksia applanata var. microspora Y. Yamam.
+Trabrooksia applanata H. W. Keller, 1980
 
 ### Remarks
 null

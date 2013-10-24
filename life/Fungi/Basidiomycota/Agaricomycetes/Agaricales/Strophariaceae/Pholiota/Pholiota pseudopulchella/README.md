@@ -1,5 +1,4 @@
-Pholiota pseudopulchella A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota pseudopulchella A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

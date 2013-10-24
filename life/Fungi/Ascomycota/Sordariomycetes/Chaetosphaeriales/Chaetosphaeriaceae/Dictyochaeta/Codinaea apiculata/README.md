@@ -1,5 +1,4 @@
-Codinaea apiculata Matsush. SPECIES
-=======
+# Codinaea apiculata Matsush. SPECIES
 
 #### Status
 ACCEPTED

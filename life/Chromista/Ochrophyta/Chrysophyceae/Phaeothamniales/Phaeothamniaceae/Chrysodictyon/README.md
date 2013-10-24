@@ -1,5 +1,4 @@
-Chrysodictyon Ramanathan, 1947 GENUS
-=======
+# Chrysodictyon Ramanathan, 1947 GENUS
 
 #### Status
 SYNONYM

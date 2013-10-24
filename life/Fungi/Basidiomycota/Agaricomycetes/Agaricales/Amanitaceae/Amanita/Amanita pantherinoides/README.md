@@ -1,5 +1,4 @@
-Amanita pantherinoides Murrill SPECIES
-=======
+# Amanita pantherinoides Murrill SPECIES
 
 #### Status
 ACCEPTED

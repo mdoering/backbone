@@ -1,5 +1,4 @@
-Meliola glaziovii Hansf. SPECIES
-=======
+# Meliola glaziovii Hansf. SPECIES
 
 #### Status
 ACCEPTED

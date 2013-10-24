@@ -1,17 +1,16 @@
-Ecchyna Fr. ex Boud. GENUS
-=======
+# Phleogena Link, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 111 (1885)
+null
 
 #### Original name
-Ecchyna Fr. ex Boud.
+null
 
 ### Remarks
 null

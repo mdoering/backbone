@@ -1,5 +1,4 @@
-Euplotes tuffraui Berger, 1965 SPECIES
-=======
+# Euplotes tuffraui Berger, 1965 SPECIES
 
 #### Status
 ACCEPTED

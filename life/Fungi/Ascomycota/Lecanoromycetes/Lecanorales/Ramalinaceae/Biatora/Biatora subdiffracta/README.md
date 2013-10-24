@@ -1,5 +1,4 @@
-Biatora subdiffracta Arnold ex Lojka SPECIES
-=======
+# Biatora subdiffracta Arnold ex Lojka SPECIES
 
 #### Status
 ACCEPTED

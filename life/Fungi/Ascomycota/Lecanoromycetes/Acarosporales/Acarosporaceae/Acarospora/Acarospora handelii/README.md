@@ -1,5 +1,4 @@
-Acarospora handelii J. Steiner SPECIES
-=======
+# Acarospora handelii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

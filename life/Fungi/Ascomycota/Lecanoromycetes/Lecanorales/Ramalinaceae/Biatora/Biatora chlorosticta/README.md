@@ -1,5 +1,4 @@
-Biatora chlorosticta (Tuck.) SPECIES
-=======
+# Biatora chlorosticta (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

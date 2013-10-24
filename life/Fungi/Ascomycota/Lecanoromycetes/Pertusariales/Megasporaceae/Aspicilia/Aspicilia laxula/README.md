@@ -1,5 +1,4 @@
-Aspicilia laxula (H. Magn.) Brodo SPECIES
-=======
+# Aspicilia laxula (H. Magn.) Brodo SPECIES
 
 #### Status
 ACCEPTED

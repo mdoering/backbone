@@ -1,5 +1,4 @@
-Asterina clerodendricola Hansf. SPECIES
-=======
+# Asterina clerodendricola Hansf. SPECIES
 
 #### Status
 ACCEPTED

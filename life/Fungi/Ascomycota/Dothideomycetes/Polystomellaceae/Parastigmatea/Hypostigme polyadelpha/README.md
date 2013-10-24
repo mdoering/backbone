@@ -1,5 +1,4 @@
-Hypostigme polyadelpha Syd. SPECIES
-=======
+# Hypostigme polyadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

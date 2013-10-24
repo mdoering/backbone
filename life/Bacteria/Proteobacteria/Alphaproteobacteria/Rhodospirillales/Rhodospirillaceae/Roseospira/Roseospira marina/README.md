@@ -1,5 +1,4 @@
-Roseospira marina Guyoneaud et al., 2003 SPECIES
-=======
+# Roseospira marina Guyoneaud et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

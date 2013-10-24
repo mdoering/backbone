@@ -1,5 +1,4 @@
-Micropeltis punctiformis Berk. & M.A. Curtis SPECIES
-=======
+# Micropeltis punctiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculigera parastacis Jankowski, 1986 SPECIES
-=======
+# Operculigera parastacis Jankowski, 1986 SPECIES
 
 #### Status
 ACCEPTED

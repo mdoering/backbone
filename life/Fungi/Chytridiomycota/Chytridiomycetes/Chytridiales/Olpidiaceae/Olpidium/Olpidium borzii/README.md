@@ -1,5 +1,4 @@
-Olpidium borzii De Wild. SPECIES
-=======
+# Olpidium borzii De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirodothis golovinii Frolov SPECIES
-=======
+# Sirodothis golovinii Frolov SPECIES
 
 #### Status
 ACCEPTED

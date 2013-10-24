@@ -1,5 +1,4 @@
-Entoloma pallido-olivaceum Hesler SPECIES
-=======
+# Entoloma pallido-olivaceum Hesler SPECIES
 
 #### Status
 ACCEPTED

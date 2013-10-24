@@ -1,5 +1,4 @@
-Uredo tillandsiae Cummins SPECIES
-=======
+# Uredo tillandsiae Cummins SPECIES
 
 #### Status
 ACCEPTED

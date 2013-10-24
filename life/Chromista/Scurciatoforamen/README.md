@@ -1,5 +1,4 @@
-Scurciatoforamen Ujiie, 1997 GENUS
-=======
+# Scurciatoforamen Ujiie, 1997 GENUS
 
 #### Status
 ACCEPTED

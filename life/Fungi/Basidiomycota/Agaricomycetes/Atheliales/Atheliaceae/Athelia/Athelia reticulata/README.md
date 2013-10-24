@@ -1,5 +1,4 @@
-Athelia reticulata Parmasto SPECIES
-=======
+# Athelia reticulata Parmasto SPECIES
 
 #### Status
 ACCEPTED

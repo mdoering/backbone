@@ -1,5 +1,4 @@
-Discamoeba Jahn, Bovee & Griffith, 1979 GENUS
-=======
+# Discamoeba Jahn, Bovee & Griffith, 1979 GENUS
 
 #### Status
 ACCEPTED

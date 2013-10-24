@@ -1,5 +1,4 @@
-Pertusaria seepusiensis SPECIES
-=======
+# Pertusaria seepusiensis SPECIES
 
 #### Status
 ACCEPTED

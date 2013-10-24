@@ -1,5 +1,4 @@
-Thamnolecania brialmontii (Vain.) Gyeln. SPECIES
-=======
+# Thamnolecania brialmontii (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

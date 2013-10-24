@@ -1,5 +1,4 @@
-Diporicellaesporites taeniolelloides Kalgutkar SPECIES
-=======
+# Diporicellaesporites taeniolelloides Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

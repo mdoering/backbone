@@ -1,5 +1,4 @@
-Metasphaeria leonensis Petr. SPECIES
-=======
+# Metasphaeria leonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

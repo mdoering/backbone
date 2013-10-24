@@ -1,5 +1,4 @@
-Lecidea margaritacea Sommerf. SPECIES
-=======
+# Lecidea margaritacea Sommerf. SPECIES
 
 #### Status
 ACCEPTED

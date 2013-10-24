@@ -1,5 +1,4 @@
-Leptostroma cereale Schwein. SPECIES
-=======
+# Leptostroma cereale Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora rugulosa Pers. SPECIES
-=======
+# Thelephora rugulosa Pers. SPECIES
 
 #### Status
 ACCEPTED

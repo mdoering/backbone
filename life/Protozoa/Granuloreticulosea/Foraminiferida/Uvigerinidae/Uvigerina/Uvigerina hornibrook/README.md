@@ -1,5 +1,4 @@
-Uvigerina hornibrook Boersma, 1984 SPECIES
-=======
+# Uvigerina hornibrook Boersma, 1984 SPECIES
 
 #### Status
 ACCEPTED

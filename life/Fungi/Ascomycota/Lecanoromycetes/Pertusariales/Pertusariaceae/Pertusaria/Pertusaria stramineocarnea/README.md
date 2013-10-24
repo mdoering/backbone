@@ -1,5 +1,4 @@
-Pertusaria stramineocarnea Vain. SPECIES
-=======
+# Pertusaria stramineocarnea Vain. SPECIES
 
 #### Status
 ACCEPTED

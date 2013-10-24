@@ -1,5 +1,4 @@
-Hymenogaster ozeensis Kobayasi SPECIES
-=======
+# Hymenogaster ozeensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

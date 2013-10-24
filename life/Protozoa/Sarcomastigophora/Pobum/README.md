@@ -1,5 +1,4 @@
-Pobum de Wever, 1981 GENUS
-=======
+# Pobum de Wever, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quantostrobilium conobrachium (Vavrdová, 1978) Sarjeant & Stancliffe, 1996 SPECIES
-=======
+# Quantostrobilium conobrachium (Vavrdová, 1978) Sarjeant & Stancliffe, 1996 SPECIES
 
 #### Status
 ACCEPTED

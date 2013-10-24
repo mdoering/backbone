@@ -1,5 +1,4 @@
-Mattickiolichen triphragmium (Nyl.) Tomas. & Cif. SPECIES
-=======
+# Mattickiolichen triphragmium (Nyl.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

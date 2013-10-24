@@ -1,5 +1,4 @@
-Entyloma heterothecae Vánky SPECIES
-=======
+# Entyloma heterothecae Vánky SPECIES
 
 #### Status
 ACCEPTED

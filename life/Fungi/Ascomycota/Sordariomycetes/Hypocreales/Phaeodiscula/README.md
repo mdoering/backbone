@@ -1,5 +1,4 @@
-Phaeodiscula Cub. GENUS
-=======
+# Phaeodiscula Cub. GENUS
 
 #### Status
 ACCEPTED

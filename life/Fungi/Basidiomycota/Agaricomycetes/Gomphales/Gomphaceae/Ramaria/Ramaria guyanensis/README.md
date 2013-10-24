@@ -1,14 +1,13 @@
-Clavaria guyanensis (Pat.) Rick, 1959 SPECIES
-=======
+# Ramaria guyanensis (Pat.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 132 (1959)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 596 (1950)
 
 #### Original name
 Lachnocladium guyanense Pat., 1889

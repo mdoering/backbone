@@ -1,5 +1,4 @@
-Agaricus papuensis Cooke & Massee SPECIES
-=======
+# Agaricus papuensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

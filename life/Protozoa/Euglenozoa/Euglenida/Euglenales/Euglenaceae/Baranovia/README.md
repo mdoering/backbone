@@ -1,5 +1,4 @@
-Baranovia Skvortzov GENUS
-=======
+# Baranovia Skvortzov GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus myochrous-stilbopus Pers. SPECIES
-=======
+# Agaricus myochrous-stilbopus Pers. SPECIES
 
 #### Status
 ACCEPTED

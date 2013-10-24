@@ -1,5 +1,4 @@
-Lactarius viscosus Velen. SPECIES
-=======
+# Lactarius viscosus Velen. SPECIES
 
 #### Status
 ACCEPTED

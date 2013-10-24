@@ -1,5 +1,4 @@
-Omphalina coccinea Murrill SPECIES
-=======
+# Omphalina coccinea Murrill SPECIES
 
 #### Status
 ACCEPTED

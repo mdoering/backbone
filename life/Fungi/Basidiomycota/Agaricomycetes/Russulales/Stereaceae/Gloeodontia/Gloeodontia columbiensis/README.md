@@ -1,5 +1,4 @@
-Gloeodontia columbiensis Burt ex Burds. & Lombard, 1976 SPECIES
-=======
+# Gloeodontia columbiensis Burt ex Burds. & Lombard, 1976 SPECIES
 
 #### Status
 ACCEPTED

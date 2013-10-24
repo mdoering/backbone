@@ -1,5 +1,4 @@
-Diploschistes mexicanus SPECIES
-=======
+# Diploschistes mexicanus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria variolariae Massee SPECIES
-=======
+# Sphaeria variolariae Massee SPECIES
 
 #### Status
 ACCEPTED

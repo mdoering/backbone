@@ -1,5 +1,4 @@
-Tulostoma dennisii J.E. Wright SPECIES
-=======
+# Tulostoma dennisii J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

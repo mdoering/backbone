@@ -1,5 +1,4 @@
-Amanita mumura G.S. Ridl., 1991 SPECIES
-=======
+# Amanita mumura G.S. Ridl., 1991 SPECIES
 
 #### Status
 ACCEPTED

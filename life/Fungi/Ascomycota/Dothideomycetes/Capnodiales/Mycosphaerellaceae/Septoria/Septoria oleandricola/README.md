@@ -1,17 +1,16 @@
-Septoria oleandriicola Hüseyin & Selçuk SPECIES
-=======
+# Septoria oleandricola Hüseyin & Selçuk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Pakist. J. Bot. 34(2): 113 (2002)
+Mycol. Progr. 1(2): 143 (2002)
 
 #### Original name
-Septoria oleandriicola Hüseyin & Selçuk
+Septoria oleandricola Hüseyin & Selçuk
 
 ### Remarks
 null

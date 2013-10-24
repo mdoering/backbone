@@ -1,5 +1,4 @@
-Parmelia articulata (L.) Spreng. SPECIES
-=======
+# Parmelia articulata (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

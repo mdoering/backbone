@@ -1,5 +1,4 @@
-Micropeltidium manaosense Bat., Peres & O.M. Fonseca SPECIES
-=======
+# Micropeltidium manaosense Bat., Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

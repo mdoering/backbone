@@ -1,5 +1,4 @@
-Cercosporina sensitivae Speg. SPECIES
-=======
+# Cercosporina sensitivae Speg. SPECIES
 
 #### Status
 ACCEPTED

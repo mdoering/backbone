@@ -1,5 +1,4 @@
-Dirinopsis GENUS
-=======
+# Dirinopsis GENUS
 
 #### Status
 ACCEPTED

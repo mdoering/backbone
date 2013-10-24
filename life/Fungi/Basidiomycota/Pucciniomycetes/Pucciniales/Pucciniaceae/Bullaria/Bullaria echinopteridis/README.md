@@ -1,5 +1,4 @@
-Bullaria echinopteridis (Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria echinopteridis (Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

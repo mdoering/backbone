@@ -1,5 +1,4 @@
-Neptunomonas naphthovorans Hedlund et al., 1999 SPECIES
-=======
+# Neptunomonas naphthovorans Hedlund et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plegmosphaera oblonga Takahashi, 1991 SPECIES
-=======
+# Plegmosphaera oblonga Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graddonidiscus hispanicus Raitv. & R. Galán SPECIES
-=======
+# Graddonidiscus hispanicus Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

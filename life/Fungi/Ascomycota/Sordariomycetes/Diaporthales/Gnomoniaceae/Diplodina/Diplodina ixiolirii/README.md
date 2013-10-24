@@ -1,5 +1,4 @@
-Diplodina ixiolirii Byzova SPECIES
-=======
+# Diplodina ixiolirii Byzova SPECIES
 
 #### Status
 ACCEPTED

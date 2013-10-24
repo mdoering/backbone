@@ -1,5 +1,4 @@
-Picrophilus oshimae Schleper et al., 1996 SPECIES
-=======
+# Picrophilus oshimae Schleper et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

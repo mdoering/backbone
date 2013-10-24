@@ -1,5 +1,4 @@
-Hypocoma ascidiarum Collin, 1912 SPECIES
-=======
+# Hypocoma ascidiarum Collin, 1912 SPECIES
 
 #### Status
 ACCEPTED

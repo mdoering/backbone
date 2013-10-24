@@ -1,5 +1,4 @@
-Ramaria foetida R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria foetida R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

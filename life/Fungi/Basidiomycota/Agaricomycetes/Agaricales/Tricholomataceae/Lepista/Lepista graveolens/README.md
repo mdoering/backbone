@@ -1,5 +1,4 @@
-Lepista graveolens (Peck) Dermek SPECIES
-=======
+# Lepista graveolens (Peck) Dermek SPECIES
 
 #### Status
 ACCEPTED

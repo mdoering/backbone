@@ -1,5 +1,4 @@
-Favolus nummularius Berk. SPECIES
-=======
+# Favolus nummularius Berk. SPECIES
 
 #### Status
 ACCEPTED

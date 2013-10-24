@@ -1,5 +1,4 @@
-Ramularia saxifragae (Syd. ex J. Schröt.) Sacc., 1899 SPECIES
-=======
+# Ramularia saxifragae (Syd. ex J. Schröt.) Sacc., 1899 SPECIES
 
 #### Status
 ACCEPTED

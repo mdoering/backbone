@@ -1,5 +1,4 @@
-Meliola furcata var. furcata VARIETY
-=======
+# Meliola furcata Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 266 (1846)
 
 #### Original name
-Meliola furcata var. furcata
+Meliola furcata Lév.
 
 ### Remarks
 null

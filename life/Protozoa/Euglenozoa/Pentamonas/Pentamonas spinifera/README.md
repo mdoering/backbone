@@ -1,5 +1,4 @@
-Pentamonas spinifera Lackey SPECIES
-=======
+# Pentamonas spinifera Lackey SPECIES
 
 #### Status
 ACCEPTED

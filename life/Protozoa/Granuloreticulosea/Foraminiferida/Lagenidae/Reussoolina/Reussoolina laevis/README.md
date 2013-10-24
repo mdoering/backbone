@@ -1,8 +1,7 @@
-Vermiculum laeve Montagu, 1803 SPECIES
-=======
+# Reussoolina laevis (Montagu, 1803) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

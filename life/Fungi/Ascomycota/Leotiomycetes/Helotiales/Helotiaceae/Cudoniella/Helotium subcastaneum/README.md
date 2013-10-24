@@ -1,5 +1,4 @@
-Helotium subcastaneum Henn. SPECIES
-=======
+# Helotium subcastaneum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium immersum var. immersum VARIETY
-=======
+# Sclerotium immersum Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fung. mecklenb. sel. (Lüneburg) 1: 2 (1790)
 
 #### Original name
-Sclerotium immersum var. immersum
+Sclerotium immersum Tode
 
 ### Remarks
 null

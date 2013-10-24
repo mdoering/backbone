@@ -1,5 +1,4 @@
-Alternaria undulata R.G. Roberts SPECIES
-=======
+# Alternaria undulata R.G. Roberts SPECIES
 
 #### Status
 ACCEPTED

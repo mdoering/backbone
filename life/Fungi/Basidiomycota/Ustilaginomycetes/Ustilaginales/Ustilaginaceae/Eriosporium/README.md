@@ -1,5 +1,4 @@
-Eriosporium Vánky GENUS
-=======
+# Eriosporium Vánky GENUS
 
 #### Status
 ACCEPTED

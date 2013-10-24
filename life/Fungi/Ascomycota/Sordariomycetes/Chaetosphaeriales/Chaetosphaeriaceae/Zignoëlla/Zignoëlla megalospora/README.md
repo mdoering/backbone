@@ -1,5 +1,4 @@
-Zignoëlla megalospora (Fabre) Sacc. SPECIES
-=======
+# Zignoëlla megalospora (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora borreriae Ellis & Everh., 1894 SPECIES
-=======
+# Pseudocercospora borreriae (Ellis & Everh.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1894 46: 379 (1894)
+Mycol. Pap. 140: 140 (1976)
 
 #### Original name
 Cercospora borreriae Ellis & Everh., 1894

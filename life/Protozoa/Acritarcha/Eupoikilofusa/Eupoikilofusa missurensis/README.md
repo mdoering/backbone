@@ -1,5 +1,4 @@
-Eupoikilofusa missurensis Cramer & Díez, 1972 SPECIES
-=======
+# Eupoikilofusa missurensis Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

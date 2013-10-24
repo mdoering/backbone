@@ -1,8 +1,7 @@
-Arachnochloris ellipsoidea A. Pascher SPECIES
-=======
+# Trachychloron ellipsoideum (A. Pascher) A. Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

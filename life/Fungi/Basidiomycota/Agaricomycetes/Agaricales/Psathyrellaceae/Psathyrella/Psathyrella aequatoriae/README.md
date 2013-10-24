@@ -1,5 +1,4 @@
-Psathyrella aequatoriae Singer SPECIES
-=======
+# Psathyrella aequatoriae Singer SPECIES
 
 #### Status
 ACCEPTED

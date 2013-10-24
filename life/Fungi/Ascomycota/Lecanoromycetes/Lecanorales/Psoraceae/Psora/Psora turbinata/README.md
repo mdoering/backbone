@@ -1,5 +1,4 @@
-Psora turbinata Hoffm. SPECIES
-=======
+# Psora turbinata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paleomiogypsina Matsumaru, 1996 GENUS
-=======
+# Paleomiogypsina Matsumaru, 1996 GENUS
 
 #### Status
 ACCEPTED

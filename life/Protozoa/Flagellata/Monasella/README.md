@@ -1,5 +1,4 @@
-Monasella Gaillon, 1833 GENUS
-=======
+# Monasella Gaillon, 1833 GENUS
 
 #### Status
 ACCEPTED

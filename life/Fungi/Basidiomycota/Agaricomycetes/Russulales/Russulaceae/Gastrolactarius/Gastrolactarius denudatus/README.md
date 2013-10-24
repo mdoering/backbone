@@ -1,5 +1,4 @@
-Gastrolactarius denudatus Calonge & J.M. Vidal SPECIES
-=======
+# Gastrolactarius denudatus Calonge & J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

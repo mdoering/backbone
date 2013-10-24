@@ -1,5 +1,4 @@
-Galerina subpectinata (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina subpectinata (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

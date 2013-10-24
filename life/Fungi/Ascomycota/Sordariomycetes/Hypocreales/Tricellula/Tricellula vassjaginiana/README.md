@@ -1,5 +1,4 @@
-Tricellula vassjaginiana Schwarzman SPECIES
-=======
+# Tricellula vassjaginiana Schwarzman SPECIES
 
 #### Status
 ACCEPTED

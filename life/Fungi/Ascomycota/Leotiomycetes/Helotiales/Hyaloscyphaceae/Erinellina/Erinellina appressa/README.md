@@ -1,5 +1,4 @@
-Erinellina appressa (E.K. Cash) Seaver SPECIES
-=======
+# Erinellina appressa (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

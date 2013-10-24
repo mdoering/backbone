@@ -1,5 +1,4 @@
-Sphaerella exarida G. Winter SPECIES
-=======
+# Sphaerella exarida G. Winter SPECIES
 
 #### Status
 ACCEPTED

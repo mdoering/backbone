@@ -1,5 +1,4 @@
-Rosellinia apiculata var. apiculata Sacc. VARIETY
-=======
+# Rosellinia apiculata Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rosellinia apiculata var. apiculata Sacc.
+Rosellinia apiculata Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Termitaria longiphialidis Kimbr. & M. Lenz SPECIES
-=======
+# Termitaria longiphialidis Kimbr. & M. Lenz SPECIES
 
 #### Status
 ACCEPTED

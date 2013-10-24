@@ -1,5 +1,4 @@
-Passalora verniciae Crous, U. Braun & Alfenas SPECIES
-=======
+# Passalora verniciae Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

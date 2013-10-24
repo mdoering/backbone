@@ -1,5 +1,4 @@
-Diplocladium cylindrosporum Ellis & Everh. SPECIES
-=======
+# Diplocladium cylindrosporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

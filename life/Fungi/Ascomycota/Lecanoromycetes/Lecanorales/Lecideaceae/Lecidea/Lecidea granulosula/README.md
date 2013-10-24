@@ -1,5 +1,4 @@
-Lecidea granulosula Nyl. SPECIES
-=======
+# Lecidea granulosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haemogregarina clavata Neumann, 1909 SPECIES
-=======
+# Haemogregarina clavata Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

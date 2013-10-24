@@ -1,5 +1,4 @@
-Dictyota papenfussii Lindauer SPECIES
-=======
+# Dictyota papenfussii Lindauer SPECIES
 
 #### Status
 ACCEPTED

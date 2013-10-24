@@ -1,5 +1,4 @@
-Hexastylarium Haeckel, 1887 GENUS
-=======
+# Hexastylarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

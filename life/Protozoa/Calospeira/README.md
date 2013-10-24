@@ -1,5 +1,4 @@
-Calospeira G. Arnaud GENUS
-=======
+# Calospeira G. Arnaud GENUS
 
 #### Status
 ACCEPTED

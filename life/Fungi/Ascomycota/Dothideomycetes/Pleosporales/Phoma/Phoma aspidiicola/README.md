@@ -1,5 +1,4 @@
-Phoma aspidiicola Peglion SPECIES
-=======
+# Phoma aspidiicola Peglion SPECIES
 
 #### Status
 ACCEPTED

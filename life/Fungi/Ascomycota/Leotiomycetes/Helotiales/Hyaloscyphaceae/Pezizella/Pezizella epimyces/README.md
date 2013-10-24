@@ -1,5 +1,4 @@
-Pezizella epimyces Syd. {?} SPECIES
-=======
+# Pezizella epimyces Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

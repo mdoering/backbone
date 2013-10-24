@@ -1,5 +1,4 @@
-Phaeodiscula texensis R. Sprague SPECIES
-=======
+# Phaeodiscula texensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

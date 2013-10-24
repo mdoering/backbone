@@ -1,5 +1,4 @@
-Sulcoarcus Hsiung, 1935 GENUS
-=======
+# Sulcoarcus Hsiung, 1935 GENUS
 
 #### Status
 ACCEPTED

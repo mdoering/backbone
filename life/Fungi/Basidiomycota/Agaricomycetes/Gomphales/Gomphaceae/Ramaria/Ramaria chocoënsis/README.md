@@ -1,5 +1,4 @@
-Ramaria chocoënsis C. Hahn & Christan SPECIES
-=======
+# Ramaria chocoënsis C. Hahn & Christan SPECIES
 
 #### Status
 ACCEPTED

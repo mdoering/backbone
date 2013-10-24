@@ -1,5 +1,4 @@
-Degelia calcicola P. M. Jørg. & Kantvilas SPECIES
-=======
+# Degelia calcicola P. M. Jørg. & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

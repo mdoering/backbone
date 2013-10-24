@@ -1,5 +1,4 @@
-Maryna antarctica Foissner, 1993 SPECIES
-=======
+# Maryna antarctica Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

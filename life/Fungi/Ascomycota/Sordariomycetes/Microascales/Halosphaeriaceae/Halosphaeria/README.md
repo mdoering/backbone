@@ -1,17 +1,16 @@
-Palomyces Höhnk GENUS
-=======
+# Halosphaeria Linder GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veröff. Inst. Meeresf. Bremerhaven 3: 212 (1955)
+Farlowia 1: 412 (1944)
 
 #### Original name
-Palomyces Höhnk
+Halosphaeria Linder
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatorinopsis pallidula Müll. Arg. SPECIES
-=======
+# Biatorinopsis pallidula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

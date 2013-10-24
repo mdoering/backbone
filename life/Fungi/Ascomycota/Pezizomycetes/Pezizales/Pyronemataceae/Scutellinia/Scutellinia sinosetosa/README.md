@@ -1,5 +1,4 @@
-Scutellinia sinosetosa W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Scutellinia sinosetosa W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

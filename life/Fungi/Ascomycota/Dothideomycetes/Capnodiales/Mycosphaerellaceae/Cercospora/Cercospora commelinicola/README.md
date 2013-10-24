@@ -1,5 +1,4 @@
-Cercospora commelinicola Chupp SPECIES
-=======
+# Cercospora commelinicola Chupp SPECIES
 
 #### Status
 ACCEPTED

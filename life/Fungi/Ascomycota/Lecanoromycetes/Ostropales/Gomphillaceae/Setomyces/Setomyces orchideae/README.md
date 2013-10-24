@@ -1,5 +1,4 @@
-Setomyces orchideae Bat. & I.H. Lima SPECIES
-=======
+# Setomyces orchideae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

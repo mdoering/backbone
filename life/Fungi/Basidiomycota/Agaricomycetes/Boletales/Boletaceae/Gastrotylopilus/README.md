@@ -1,5 +1,4 @@
-Gastrotylopilus T.H. Li & Watling GENUS
-=======
+# Gastrotylopilus T.H. Li & Watling GENUS
 
 #### Status
 ACCEPTED

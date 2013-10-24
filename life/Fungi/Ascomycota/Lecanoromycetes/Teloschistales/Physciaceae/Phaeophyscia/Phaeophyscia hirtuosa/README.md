@@ -1,5 +1,4 @@
-Phaeophyscia hirtuosa (Kremp.) Essl. SPECIES
-=======
+# Phaeophyscia hirtuosa (Kremp.) Essl. SPECIES
 
 #### Status
 ACCEPTED

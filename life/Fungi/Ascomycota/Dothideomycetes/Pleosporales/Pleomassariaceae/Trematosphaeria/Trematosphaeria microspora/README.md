@@ -1,5 +1,4 @@
-Trematosphaeria microspora Mhaskar & V.G. Rao SPECIES
-=======
+# Trematosphaeria microspora Mhaskar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

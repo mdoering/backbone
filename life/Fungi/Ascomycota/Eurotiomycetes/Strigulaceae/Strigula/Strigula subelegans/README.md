@@ -1,5 +1,4 @@
-Strigula subelegans Vain. SPECIES
-=======
+# Strigula subelegans Vain. SPECIES
 
 #### Status
 ACCEPTED

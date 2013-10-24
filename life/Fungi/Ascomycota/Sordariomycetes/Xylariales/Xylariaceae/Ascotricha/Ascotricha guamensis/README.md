@@ -1,5 +1,4 @@
-Ascotricha guamensis L.M. Ames, 1951 SPECIES
-=======
+# Ascotricha guamensis L.M. Ames, 1951 SPECIES
 
 #### Status
 ACCEPTED

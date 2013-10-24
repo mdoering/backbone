@@ -1,5 +1,4 @@
-Tilletia trachypogonis Durán, 1987 SPECIES
-=======
+# Tilletia trachypogonis Durán, 1987 SPECIES
 
 #### Status
 ACCEPTED

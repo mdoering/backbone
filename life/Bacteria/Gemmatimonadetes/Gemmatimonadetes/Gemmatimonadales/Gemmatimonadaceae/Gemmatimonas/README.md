@@ -1,5 +1,4 @@
-Gemmatimonas Zhang et al., 2003 GENUS
-=======
+# Gemmatimonas Zhang et al., 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma rubicola Brunaud SPECIES
-=======
+# Phoma rubicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

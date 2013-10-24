@@ -1,5 +1,4 @@
-Gnomonia hyparctica Lind SPECIES
-=======
+# Gnomonia hyparctica Lind SPECIES
 
 #### Status
 ACCEPTED

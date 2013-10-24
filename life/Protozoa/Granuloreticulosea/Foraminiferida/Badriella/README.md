@@ -1,5 +1,4 @@
-Badriella El-Nakhal, 2002 GENUS
-=======
+# Badriella El-Nakhal, 2002 GENUS
 
 #### Status
 ACCEPTED

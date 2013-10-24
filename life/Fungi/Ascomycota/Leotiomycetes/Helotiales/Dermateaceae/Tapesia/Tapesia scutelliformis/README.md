@@ -1,5 +1,4 @@
-Tapesia scutelliformis (Wallr.) Sacc. SPECIES
-=======
+# Tapesia scutelliformis (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

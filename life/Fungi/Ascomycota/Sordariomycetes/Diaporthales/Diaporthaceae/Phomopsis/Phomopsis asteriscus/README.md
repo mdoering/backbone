@@ -1,5 +1,4 @@
-Phomopsis asteriscus Grove, 1917 SPECIES
-=======
+# Phomopsis asteriscus Grove, 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora pennina (Schaer.) Hepp SPECIES
-=======
+# Biatora pennina (Schaer.) Hepp SPECIES
 
 #### Status
 ACCEPTED

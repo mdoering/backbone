@@ -1,5 +1,4 @@
-Chamaeceras fulviceps (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras fulviceps (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

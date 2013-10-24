@@ -1,5 +1,4 @@
-Gerronema mongolicum Dörfelt & Täglich SPECIES
-=======
+# Gerronema mongolicum Dörfelt & Täglich SPECIES
 
 #### Status
 ACCEPTED

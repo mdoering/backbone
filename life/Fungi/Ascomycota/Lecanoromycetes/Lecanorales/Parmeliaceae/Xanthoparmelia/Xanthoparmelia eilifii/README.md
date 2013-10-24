@@ -1,5 +1,4 @@
-Xanthoparmelia eilifii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia eilifii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

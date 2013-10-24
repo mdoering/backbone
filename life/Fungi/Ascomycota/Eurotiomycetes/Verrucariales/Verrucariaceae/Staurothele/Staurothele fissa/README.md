@@ -1,17 +1,16 @@
-Dermatocarpon lithinum (Ach.) Arnold SPECIES
-=======
+# Staurothele fissa (Taylor) Zwackh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 45: 552 (1862)
 
 #### Original name
-Verrucaria lithina Taylor
+Verrucaria fissa Taylor
 
 ### Remarks
 null

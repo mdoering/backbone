@@ -1,5 +1,4 @@
-Inoderma sordidum (Berk.) P. Karst. SPECIES
-=======
+# Inoderma sordidum (Berk.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

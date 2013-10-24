@@ -1,17 +1,16 @@
-Helicoön fairmani Sacc. SPECIES
-=======
+# Helicoön fairmanii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 4(3): 278 (1906)
 
 #### Original name
-Helicoön fairmani Sacc.
+Helicoön fairmanii Sacc.
 
 ### Remarks
 null

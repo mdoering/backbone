@@ -1,5 +1,4 @@
-Cirsosia santiriae Bat. & H. Maia SPECIES
-=======
+# Cirsosia santiriae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

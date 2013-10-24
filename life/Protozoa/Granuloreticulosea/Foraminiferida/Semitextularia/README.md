@@ -1,5 +1,4 @@
-Semitextularia Miller & Carmer, 1933 GENUS
-=======
+# Semitextularia Miller & Carmer, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harknessia deightonii B. Sutton SPECIES
-=======
+# Harknessia deightonii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

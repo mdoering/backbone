@@ -1,5 +1,4 @@
-Pluteus umbrinellus (Sommerf.) Gillet SPECIES
-=======
+# Pluteus umbrinellus (Sommerf.) Gillet SPECIES
 
 #### Status
 ACCEPTED

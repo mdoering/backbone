@@ -1,5 +1,4 @@
-Cercosporina helenii (Tharp) Sacc. SPECIES
-=======
+# Cercosporina helenii (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

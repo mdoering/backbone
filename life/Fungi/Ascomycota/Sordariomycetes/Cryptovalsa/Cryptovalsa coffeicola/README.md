@@ -1,5 +1,4 @@
-Cryptovalsa coffeicola Saccas SPECIES
-=======
+# Cryptovalsa coffeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

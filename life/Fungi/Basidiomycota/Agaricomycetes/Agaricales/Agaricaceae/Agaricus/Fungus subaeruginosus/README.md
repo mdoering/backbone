@@ -1,5 +1,4 @@
-Fungus subaeruginosus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus subaeruginosus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

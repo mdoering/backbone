@@ -1,5 +1,4 @@
-Sphaeria tuberiformis Wallr. SPECIES
-=======
+# Sphaeria tuberiformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

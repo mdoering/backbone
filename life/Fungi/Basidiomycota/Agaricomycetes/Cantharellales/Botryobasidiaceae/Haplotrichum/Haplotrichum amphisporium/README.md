@@ -1,5 +1,4 @@
-Haplotrichum amphisporium Bonord. SPECIES
-=======
+# Haplotrichum amphisporium Bonord. SPECIES
 
 #### Status
 ACCEPTED

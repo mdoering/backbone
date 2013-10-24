@@ -1,5 +1,4 @@
-Trichosphaeria herpotrichioides Kirschst. SPECIES
-=======
+# Trichosphaeria herpotrichioides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

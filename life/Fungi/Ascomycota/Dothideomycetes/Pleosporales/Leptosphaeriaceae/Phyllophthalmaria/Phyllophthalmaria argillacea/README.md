@@ -1,5 +1,4 @@
-Phyllophthalmaria argillacea var. argillacea VARIETY
-=======
+# Phyllophthalmaria argillacea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 642 (1924)
 
 #### Original name
-Phyllophthalmaria argillacea var. argillacea
+Ocellularia argillacea Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylographa pallens Nyl. SPECIES
-=======
+# Xylographa pallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

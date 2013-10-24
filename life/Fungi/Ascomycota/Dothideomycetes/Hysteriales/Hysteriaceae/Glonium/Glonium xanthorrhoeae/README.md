@@ -1,5 +1,4 @@
-Glonium xanthorrhoeae Sivan. & B. Sutton SPECIES
-=======
+# Glonium xanthorrhoeae Sivan. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

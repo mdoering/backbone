@@ -1,5 +1,4 @@
-Spirochaeta solenis SPECIES
-=======
+# Spirochaeta solenis SPECIES
 
 #### Status
 ACCEPTED

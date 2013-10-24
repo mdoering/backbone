@@ -1,5 +1,4 @@
-Cryptocoryneum simmonsii Sacc. SPECIES
-=======
+# Cryptocoryneum simmonsii Sacc. SPECIES
 
 #### Status
 ACCEPTED

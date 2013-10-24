@@ -1,5 +1,4 @@
-Metasphaeria cassiopes Rostr. SPECIES
-=======
+# Metasphaeria cassiopes Rostr. SPECIES
 
 #### Status
 ACCEPTED

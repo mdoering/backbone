@@ -1,8 +1,7 @@
-Saccharococcus caldoxylosilyticus Ahmad et al., 2000 SPECIES
-=======
+# Geobacillus caldoxylosilyticus (Ahmad et al., 2000) Fortina et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

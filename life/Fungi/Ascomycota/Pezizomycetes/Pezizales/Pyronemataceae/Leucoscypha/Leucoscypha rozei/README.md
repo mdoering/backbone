@@ -1,5 +1,4 @@
-Leucoscypha rozei Boud. SPECIES
-=======
+# Leucoscypha rozei Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe quilmensis Speg. SPECIES
-=======
+# Diaporthe quilmensis Speg. SPECIES
 
 #### Status
 ACCEPTED

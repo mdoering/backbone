@@ -1,5 +1,4 @@
-Amauroderma infulgens (Lloyd) Torrend SPECIES
-=======
+# Amauroderma infulgens (Lloyd) Torrend SPECIES
 
 #### Status
 ACCEPTED

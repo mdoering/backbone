@@ -1,5 +1,4 @@
-Boletus panormitanus Inzenga SPECIES
-=======
+# Boletus panormitanus Inzenga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicellaesporites subaequatus Zhong Y. Zhang SPECIES
-=======
+# Dicellaesporites subaequatus Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

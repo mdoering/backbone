@@ -1,5 +1,4 @@
-Meliola semecarpi-anacardii Hosag., Kaver., Raghu & Goos SPECIES
-=======
+# Meliola semecarpi-anacardii Hosag., Kaver., Raghu & Goos SPECIES
 
 #### Status
 ACCEPTED

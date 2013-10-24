@@ -1,5 +1,4 @@
-Puccinia laurifoliae R.W. Davidson SPECIES
-=======
+# Puccinia laurifoliae R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius sericellus M.M. Moser SPECIES
-=======
+# Cortinarius sericellus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma hatharae SPECIES
-=======
+# Tricholoma hatharae SPECIES
 
 #### Status
 ACCEPTED

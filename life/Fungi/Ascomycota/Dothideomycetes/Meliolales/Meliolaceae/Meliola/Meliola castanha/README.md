@@ -1,5 +1,4 @@
-Meliola castanha Theiss. SPECIES
-=======
+# Meliola castanha Theiss. SPECIES
 
 #### Status
 ACCEPTED

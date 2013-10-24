@@ -1,5 +1,4 @@
-Stropharia atrosanguinea Henn. SPECIES
-=======
+# Stropharia atrosanguinea Henn. SPECIES
 
 #### Status
 ACCEPTED

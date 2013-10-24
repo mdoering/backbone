@@ -1,5 +1,4 @@
-Bacillus alcalophilus Vedder, 1934 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus alcalophilus Vedder, 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

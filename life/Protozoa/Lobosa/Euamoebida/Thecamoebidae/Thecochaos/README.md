@@ -1,5 +1,4 @@
-Thecochaos Page, 1981 GENUS
-=======
+# Thecochaos Page, 1981 GENUS
 
 #### Status
 ACCEPTED

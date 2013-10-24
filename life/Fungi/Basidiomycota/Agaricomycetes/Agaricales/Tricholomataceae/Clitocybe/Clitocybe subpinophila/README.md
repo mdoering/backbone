@@ -1,5 +1,4 @@
-Clitocybe subpinophila Murrill SPECIES
-=======
+# Clitocybe subpinophila Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morfea salicis (Rolland & Fautrey) Cif. & Bat. SPECIES
-=======
+# Morfea salicis (Rolland & Fautrey) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

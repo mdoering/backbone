@@ -1,14 +1,13 @@
-Erysiphe embliae (R.K. Verma, Chand & Kamal) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe embeliae (R.K. Verma, Chand & Kamal) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 19 (2000)
 
 #### Original name
 Uncinula embeliae R.K. Verma, Chand & Kamal

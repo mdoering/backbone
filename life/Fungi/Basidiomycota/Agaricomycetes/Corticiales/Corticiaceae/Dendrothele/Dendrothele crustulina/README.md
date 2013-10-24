@@ -1,5 +1,4 @@
-Dendrothele crustulina (Bres.) Nakasone SPECIES
-=======
+# Dendrothele crustulina (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

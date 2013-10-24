@@ -1,5 +1,4 @@
-Sclerostagonospora indica Vinh & A.K. Sarbhoy SPECIES
-=======
+# Sclerostagonospora indica Vinh & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

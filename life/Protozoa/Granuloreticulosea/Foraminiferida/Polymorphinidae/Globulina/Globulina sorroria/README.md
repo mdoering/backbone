@@ -1,5 +1,4 @@
-Globulina sorroria (Reuss) SPECIES
-=======
+# Globulina sorroria (Reuss) SPECIES
 
 #### Status
 ACCEPTED

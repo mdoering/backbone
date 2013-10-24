@@ -1,5 +1,4 @@
-Microdiplodia pterocaryae Gucevic SPECIES
-=======
+# Microdiplodia pterocaryae Gucevic SPECIES
 
 #### Status
 ACCEPTED

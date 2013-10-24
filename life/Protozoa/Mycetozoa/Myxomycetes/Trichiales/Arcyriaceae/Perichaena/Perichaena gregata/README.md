@@ -1,5 +1,4 @@
-Perichaena gregata Fautrey & Lambotte SPECIES
-=======
+# Perichaena gregata Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

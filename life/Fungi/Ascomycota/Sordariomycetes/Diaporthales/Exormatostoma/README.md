@@ -1,5 +1,4 @@
-Exormatostoma Gray GENUS
-=======
+# Exormatostoma Gray GENUS
 
 #### Status
 ACCEPTED

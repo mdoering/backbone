@@ -1,5 +1,4 @@
-Septomyxa salicina Bres. SPECIES
-=======
+# Septomyxa salicina Bres. SPECIES
 
 #### Status
 ACCEPTED

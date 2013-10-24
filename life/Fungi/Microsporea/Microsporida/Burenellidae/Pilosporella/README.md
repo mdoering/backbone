@@ -1,5 +1,4 @@
-Pilosporella E.I. Hazard & Oldacre GENUS
-=======
+# Pilosporella E.I. Hazard & Oldacre GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ditopella hosackiae (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Ditopella hosackiae (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

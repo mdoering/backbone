@@ -1,5 +1,4 @@
-Psilocybe laticystis Guzmán & A.H. Sm. SPECIES
-=======
+# Psilocybe laticystis Guzmán & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

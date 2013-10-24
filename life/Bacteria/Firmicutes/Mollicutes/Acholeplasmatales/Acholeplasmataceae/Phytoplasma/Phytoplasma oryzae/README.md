@@ -1,5 +1,4 @@
-Phytoplasma oryzae Jung et al., 2003. SPECIES
-=======
+# Phytoplasma oryzae Jung et al., 2003. SPECIES
 
 #### Status
 ACCEPTED

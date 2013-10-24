@@ -1,5 +1,4 @@
-Nectria penicillioides Ranzoni, 1956 SPECIES
-=======
+# Nectria penicillioides Ranzoni, 1956 SPECIES
 
 #### Status
 ACCEPTED

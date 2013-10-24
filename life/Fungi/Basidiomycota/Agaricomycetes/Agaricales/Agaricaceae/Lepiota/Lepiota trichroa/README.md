@@ -1,5 +1,4 @@
-Lepiota trichroa Mont. SPECIES
-=======
+# Lepiota trichroa Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora phaseoli Roll-Hansen, 1948 SPECIES
-=======
+# Melanospora phaseoli Roll-Hansen, 1948 SPECIES
 
 #### Status
 ACCEPTED

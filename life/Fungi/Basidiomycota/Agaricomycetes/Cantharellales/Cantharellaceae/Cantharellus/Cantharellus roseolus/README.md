@@ -1,5 +1,4 @@
-Cantharellus roseolus Britzelm. SPECIES
-=======
+# Cantharellus roseolus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

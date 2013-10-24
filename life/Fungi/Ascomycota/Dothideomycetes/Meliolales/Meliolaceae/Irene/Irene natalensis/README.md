@@ -1,5 +1,4 @@
-Irene natalensis var. laxa (Doidge) F. Stevens VARIETY
-=======
+# Irene natalensis (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls mycol. 25: 422 (1927)
+S. African J. Nat. Hist. 2: 40 (1920)
 
 #### Original name
 Meliola natalensis Doidge

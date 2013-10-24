@@ -1,5 +1,4 @@
-Lepra flava De Willd. SPECIES
-=======
+# Lepra flava De Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiocampa namibiensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Plagiocampa namibiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

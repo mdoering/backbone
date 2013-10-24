@@ -1,8 +1,7 @@
-Asterina magnifica Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Pycnocarpon magnificum (Syd., P. Syd. & E.J. Butler) Theiss., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pycnocarpon magnificum (Syd., P. Syd. & E.J. Butler) Theiss., 1913
 
 ### Remarks
 null

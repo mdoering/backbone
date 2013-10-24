@@ -1,5 +1,4 @@
-Loricella ludmilae Velen. SPECIES
-=======
+# Loricella ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

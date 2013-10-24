@@ -1,5 +1,4 @@
-Discella ribis Died. SPECIES
-=======
+# Discella ribis Died. SPECIES
 
 #### Status
 ACCEPTED

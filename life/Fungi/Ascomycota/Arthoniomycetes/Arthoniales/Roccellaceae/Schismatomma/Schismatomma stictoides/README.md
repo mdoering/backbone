@@ -1,5 +1,4 @@
-Schismatomma stictoides (Leight.) Zahlbr. SPECIES
-=======
+# Schismatomma stictoides (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

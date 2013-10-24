@@ -1,5 +1,4 @@
-Biddulphia dubia (T.Brightwell) Cleve, 1883 SPECIES
-=======
+# Biddulphia dubia (T.Brightwell) Cleve, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natronorubrum aibiense Cui et al., 2006 SPECIES
-=======
+# Natronorubrum aibiense Cui et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

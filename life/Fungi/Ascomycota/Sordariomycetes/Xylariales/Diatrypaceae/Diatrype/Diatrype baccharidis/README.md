@@ -1,5 +1,4 @@
-Diatrype baccharidis Earle SPECIES
-=======
+# Diatrype baccharidis Earle SPECIES
 
 #### Status
 ACCEPTED

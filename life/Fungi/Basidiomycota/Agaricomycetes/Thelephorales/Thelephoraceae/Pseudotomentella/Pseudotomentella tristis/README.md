@@ -1,17 +1,16 @@
-Tomentella tristis f. tristis FORM
-=======
+# Pseudotomentella tristis (P. Karst.) M.J. Larsen, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 22(1-2): 613 (1971)
 
 #### Original name
-null
+Hypochnus subfuscus tristis P. Karst., 1882
 
 ### Remarks
 null

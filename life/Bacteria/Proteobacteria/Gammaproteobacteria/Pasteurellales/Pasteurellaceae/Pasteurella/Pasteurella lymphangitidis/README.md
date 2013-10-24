@@ -1,5 +1,4 @@
-Pasteurella lymphangitidis Sneath & Stevens, 1990 SPECIES
-=======
+# Pasteurella lymphangitidis Sneath & Stevens, 1990 SPECIES
 
 #### Status
 ACCEPTED

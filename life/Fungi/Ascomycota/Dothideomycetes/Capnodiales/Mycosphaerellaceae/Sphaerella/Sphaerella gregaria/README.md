@@ -1,5 +1,4 @@
-Sphaerella gregaria Auersw. SPECIES
-=======
+# Sphaerella gregaria Auersw. SPECIES
 
 #### Status
 ACCEPTED

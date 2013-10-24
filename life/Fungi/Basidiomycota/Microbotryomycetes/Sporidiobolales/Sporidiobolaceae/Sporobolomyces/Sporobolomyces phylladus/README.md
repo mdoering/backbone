@@ -1,5 +1,4 @@
-Sporobolomyces phylladus Van der Walt & Y. Yamada SPECIES
-=======
+# Sporobolomyces phylladus Van der Walt & Y. Yamada SPECIES
 
 #### Status
 ACCEPTED

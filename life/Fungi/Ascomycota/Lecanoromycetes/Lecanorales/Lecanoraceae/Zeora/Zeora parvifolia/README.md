@@ -1,5 +1,4 @@
-Zeora parvifolia (Pers.) SPECIES
-=======
+# Zeora parvifolia (Pers.) SPECIES
 
 #### Status
 ACCEPTED

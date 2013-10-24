@@ -1,5 +1,4 @@
-Lactarius sanguineovirescens Fillion SPECIES
-=======
+# Lactarius sanguineovirescens Fillion SPECIES
 
 #### Status
 ACCEPTED

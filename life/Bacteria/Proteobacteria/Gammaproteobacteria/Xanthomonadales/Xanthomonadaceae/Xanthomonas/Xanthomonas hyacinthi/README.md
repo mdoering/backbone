@@ -1,5 +1,4 @@
-Xanthomonas hyacinthi (ex Wakker, 1883) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas hyacinthi (ex Wakker, 1883) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha insignior var. insignior VARIETY
-=======
+# Opegrapha insignior (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha insignior var. insignior
+Lecidea insignior Nyl.
 
 ### Remarks
 null

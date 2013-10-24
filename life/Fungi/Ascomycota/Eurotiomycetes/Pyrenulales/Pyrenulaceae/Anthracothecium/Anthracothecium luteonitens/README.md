@@ -1,5 +1,4 @@
-Anthracothecium luteonitens (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium luteonitens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

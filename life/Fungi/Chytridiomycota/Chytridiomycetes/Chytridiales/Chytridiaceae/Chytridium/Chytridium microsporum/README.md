@@ -1,5 +1,4 @@
-Chytridium microsporum Nowak. SPECIES
-=======
+# Chytridium microsporum Nowak. SPECIES
 
 #### Status
 ACCEPTED

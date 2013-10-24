@@ -1,5 +1,4 @@
-Puccinia yosemitana Blasdale SPECIES
-=======
+# Puccinia yosemitana Blasdale SPECIES
 
 #### Status
 ACCEPTED

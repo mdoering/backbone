@@ -1,5 +1,4 @@
-Scyphidia adunconucleata MacKenzie, 1969 SPECIES
-=======
+# Scyphidia adunconucleata MacKenzie, 1969 SPECIES
 
 #### Status
 ACCEPTED

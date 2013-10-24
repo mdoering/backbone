@@ -1,5 +1,4 @@
-Coniothyrium lycii Brunaud SPECIES
-=======
+# Coniothyrium lycii Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Metarhizium cicadarum (Höhn.) Petch SPECIES
-=======
+# Metarhizium cicadinum (Höhn.) Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 16: 68 (1931)
 
 #### Original name
 Penicillium cicadinum Höhn.

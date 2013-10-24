@@ -1,5 +1,4 @@
-Hanzawaia strattoni SPECIES
-=======
+# Hanzawaia strattoni SPECIES
 
 #### Status
 ACCEPTED

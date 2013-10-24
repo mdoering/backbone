@@ -1,17 +1,16 @@
-Penicillium baiicolum Biourge SPECIES
-=======
+# Penicillium baiicola Biourge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+La Cellule 33: 305 (1923)
 
 #### Original name
-Penicillium baiicolum Biourge
+Penicillium baiicola Biourge
 
 ### Remarks
 null

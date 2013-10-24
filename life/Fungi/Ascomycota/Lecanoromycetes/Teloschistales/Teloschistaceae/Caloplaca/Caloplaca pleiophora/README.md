@@ -1,5 +1,4 @@
-Caloplaca pleiophora (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca pleiophora (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

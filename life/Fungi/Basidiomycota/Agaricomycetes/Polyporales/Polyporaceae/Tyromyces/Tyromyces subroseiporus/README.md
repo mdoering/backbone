@@ -1,5 +1,4 @@
-Tyromyces subroseiporus Corner SPECIES
-=======
+# Tyromyces subroseiporus Corner SPECIES
 
 #### Status
 ACCEPTED

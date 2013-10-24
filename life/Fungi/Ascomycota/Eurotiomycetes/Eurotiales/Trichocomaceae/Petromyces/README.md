@@ -1,5 +1,4 @@
-Petromyces Malloch & Cain, 1973 GENUS
-=======
+# Petromyces Malloch & Cain, 1973 GENUS
 
 #### Status
 ACCEPTED

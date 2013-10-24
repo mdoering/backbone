@@ -1,5 +1,4 @@
-Hydnites antiquus (Heer) Mesch. SPECIES
-=======
+# Hydnites antiquus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

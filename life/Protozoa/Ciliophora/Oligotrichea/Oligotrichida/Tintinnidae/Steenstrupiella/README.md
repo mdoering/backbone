@@ -1,5 +1,4 @@
-Steenstrupiella Kofoid & Campbell, 1929 GENUS
-=======
+# Steenstrupiella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

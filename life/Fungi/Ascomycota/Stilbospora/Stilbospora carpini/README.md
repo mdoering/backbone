@@ -1,5 +1,4 @@
-Stilbospora carpini Savul. & Sandu SPECIES
-=======
+# Stilbospora carpini Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

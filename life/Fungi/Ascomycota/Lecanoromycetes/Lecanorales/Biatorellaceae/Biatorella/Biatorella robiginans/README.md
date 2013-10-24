@@ -1,5 +1,4 @@
-Biatorella robiginans (Stizenb.) Zahlbr. SPECIES
-=======
+# Biatorella robiginans (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

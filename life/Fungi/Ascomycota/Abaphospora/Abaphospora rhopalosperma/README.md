@@ -1,5 +1,4 @@
-Abaphospora rhopalosperma Kirschst. SPECIES
-=======
+# Abaphospora rhopalosperma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

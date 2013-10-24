@@ -1,5 +1,4 @@
-Dictyoarthrinium rabaulense Matsush., 1971 SPECIES
-=======
+# Dictyoarthrinium rabaulense Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

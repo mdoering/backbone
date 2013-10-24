@@ -1,5 +1,4 @@
-Calosphaeria ipomoeae S.B. Kale SPECIES
-=======
+# Calosphaeria ipomoeae S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

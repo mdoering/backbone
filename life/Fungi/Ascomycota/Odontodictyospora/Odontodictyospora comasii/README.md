@@ -1,5 +1,4 @@
-Odontodictyospora comasii Mercado, 1984 SPECIES
-=======
+# Odontodictyospora comasii Mercado, 1984 SPECIES
 
 #### Status
 ACCEPTED

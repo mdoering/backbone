@@ -1,5 +1,4 @@
-Penicillium columnare Thom SPECIES
-=======
+# Penicillium columnare Thom SPECIES
 
 #### Status
 ACCEPTED

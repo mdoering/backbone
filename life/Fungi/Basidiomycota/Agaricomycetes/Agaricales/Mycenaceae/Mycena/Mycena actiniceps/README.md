@@ -1,5 +1,4 @@
-Mycena actiniceps Kalchbr. & Cooke SPECIES
-=======
+# Mycena actiniceps Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

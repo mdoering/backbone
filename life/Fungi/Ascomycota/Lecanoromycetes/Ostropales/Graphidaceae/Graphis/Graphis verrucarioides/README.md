@@ -1,5 +1,4 @@
-Graphis verrucarioides (Ach.) Spreng. SPECIES
-=======
+# Graphis verrucarioides (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

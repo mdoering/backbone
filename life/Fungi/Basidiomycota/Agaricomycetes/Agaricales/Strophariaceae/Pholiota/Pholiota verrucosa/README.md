@@ -1,5 +1,4 @@
-Pholiota verrucosa Henn. SPECIES
-=======
+# Pholiota verrucosa Henn. SPECIES
 
 #### Status
 ACCEPTED

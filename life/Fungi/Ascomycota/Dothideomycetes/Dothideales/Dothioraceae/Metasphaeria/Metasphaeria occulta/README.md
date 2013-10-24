@@ -1,5 +1,4 @@
-Metasphaeria occulta Syd. SPECIES
-=======
+# Metasphaeria occulta Syd. SPECIES
 
 #### Status
 ACCEPTED

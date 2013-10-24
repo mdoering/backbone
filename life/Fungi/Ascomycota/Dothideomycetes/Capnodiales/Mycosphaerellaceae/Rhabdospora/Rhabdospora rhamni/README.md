@@ -1,5 +1,4 @@
-Rhabdospora rhamni Durieu & Mont. SPECIES
-=======
+# Rhabdospora rhamni Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

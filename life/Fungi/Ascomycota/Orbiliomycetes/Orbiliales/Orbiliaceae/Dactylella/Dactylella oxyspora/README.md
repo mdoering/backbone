@@ -1,17 +1,16 @@
-Dactylella rhombospora Grove, 1886 SPECIES
-=======
+# Dactylella oxyspora (Sacc. & Marchal) Matsush., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 4: 194 (1886)
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 22 (1971)
 
 #### Original name
-Dactylella rhombospora Grove, 1886
+Monacrosporium oxysporum Sacc. & Marchal, 1885
 
 ### Remarks
 null

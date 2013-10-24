@@ -1,5 +1,4 @@
-Phyllosticta cocculi-hirsuti Chipl. SPECIES
-=======
+# Phyllosticta cocculi-hirsuti Chipl. SPECIES
 
 #### Status
 ACCEPTED

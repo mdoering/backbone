@@ -1,5 +1,4 @@
-Geotrichum reessii (Van der Walt) P.M. Kirk, 2011 SPECIES
-=======
+# Geotrichum reessii (Van der Walt) P.M. Kirk, 2011 SPECIES
 
 #### Status
 ACCEPTED

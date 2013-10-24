@@ -1,5 +1,4 @@
-Arthonia ceracea Fée SPECIES
-=======
+# Arthonia ceracea Fée SPECIES
 
 #### Status
 ACCEPTED

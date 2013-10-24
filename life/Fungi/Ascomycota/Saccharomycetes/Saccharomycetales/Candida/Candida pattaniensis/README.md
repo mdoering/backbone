@@ -1,5 +1,4 @@
-Candida pattaniensis Jindam., Duy & Nakase SPECIES
-=======
+# Candida pattaniensis Jindam., Duy & Nakase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia alatavica Nevod. SPECIES
-=======
+# Puccinia alatavica Nevod. SPECIES
 
 #### Status
 ACCEPTED

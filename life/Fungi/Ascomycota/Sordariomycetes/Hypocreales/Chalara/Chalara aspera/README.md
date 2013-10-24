@@ -1,14 +1,13 @@
-Chaetochalara aspera Piroz. & Hodges, 1973 SPECIES
-=======
+# Chalara aspera (Piroz. & Hodges) P.M. Kirk, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51(1): 157 (1973)
+in Kirk & Spooner, Kew Bull. 38(4): 580 (1984)
 
 #### Original name
 Chaetochalara aspera Piroz. & Hodges, 1973

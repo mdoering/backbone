@@ -1,5 +1,4 @@
-Nectria tropica (Wollenw.) Toro SPECIES
-=======
+# Nectria tropica (Wollenw.) Toro SPECIES
 
 #### Status
 ACCEPTED

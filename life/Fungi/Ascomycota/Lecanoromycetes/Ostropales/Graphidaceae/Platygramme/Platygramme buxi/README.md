@@ -1,5 +1,4 @@
-Platygramme buxi (Etayo) Etayo SPECIES
-=======
+# Platygramme buxi (Etayo) Etayo SPECIES
 
 #### Status
 ACCEPTED

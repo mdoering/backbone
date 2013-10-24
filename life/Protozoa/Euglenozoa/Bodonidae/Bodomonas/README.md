@@ -1,5 +1,4 @@
-Bodomonas Davis, 1947 GENUS
-=======
+# Bodomonas Davis, 1947 GENUS
 
 #### Status
 ACCEPTED

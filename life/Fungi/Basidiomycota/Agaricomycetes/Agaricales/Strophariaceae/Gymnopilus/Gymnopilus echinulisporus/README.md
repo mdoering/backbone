@@ -1,5 +1,4 @@
-Gymnopilus echinulisporus Murrill SPECIES
-=======
+# Gymnopilus echinulisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

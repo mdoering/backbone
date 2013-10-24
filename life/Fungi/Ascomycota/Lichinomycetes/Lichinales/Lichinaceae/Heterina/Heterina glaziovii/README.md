@@ -1,8 +1,7 @@
-Heterina glazioui Hue SPECIES
-=======
+# Heterina glaziovii Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heterina glazioui Hue
+Heterina glaziovii Hue
 
 ### Remarks
 null

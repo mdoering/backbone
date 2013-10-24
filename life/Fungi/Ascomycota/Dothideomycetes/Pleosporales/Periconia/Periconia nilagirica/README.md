@@ -1,5 +1,4 @@
-Periconia nilagirica Subram. SPECIES
-=======
+# Periconia nilagirica Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myelochroa salazinica Sheng L. Wang, J. B. Chen & Elix SPECIES
-=======
+# Myelochroa salazinica Sheng L. Wang, J. B. Chen & Elix SPECIES
 
 #### Status
 ACCEPTED

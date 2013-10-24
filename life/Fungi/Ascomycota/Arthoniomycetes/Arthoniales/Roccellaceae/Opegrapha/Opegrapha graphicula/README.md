@@ -1,5 +1,4 @@
-Opegrapha graphicula A. Massal. SPECIES
-=======
+# Opegrapha graphicula A. Massal. SPECIES
 
 #### Status
 ACCEPTED

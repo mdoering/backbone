@@ -1,5 +1,4 @@
-Quadrum bengalensis SPECIES
-=======
+# Quadrum bengalensis SPECIES
 
 #### Status
 ACCEPTED

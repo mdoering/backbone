@@ -1,5 +1,4 @@
-Haligenia belvisii (C. Agardh) Endlicher SPECIES
-=======
+# Haligenia belvisii (C. Agardh) Endlicher SPECIES
 
 #### Status
 ACCEPTED

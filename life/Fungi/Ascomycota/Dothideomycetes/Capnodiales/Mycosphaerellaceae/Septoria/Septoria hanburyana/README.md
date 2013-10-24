@@ -1,5 +1,4 @@
-Septoria hanburyana Tassi SPECIES
-=======
+# Septoria hanburyana Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum bresadolae Quél. SPECIES
-=======
+# Hydnum bresadolae Quél. SPECIES
 
 #### Status
 ACCEPTED

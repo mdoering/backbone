@@ -1,5 +1,4 @@
-Schizothrix codiiformis (Giaccone) Giaccone SPECIES
-=======
+# Schizothrix codiiformis (Giaccone) Giaccone SPECIES
 
 #### Status
 ACCEPTED

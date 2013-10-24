@@ -1,5 +1,4 @@
-Leiopoda moranae Velen. SPECIES
-=======
+# Leiopoda moranae Velen. SPECIES
 
 #### Status
 ACCEPTED

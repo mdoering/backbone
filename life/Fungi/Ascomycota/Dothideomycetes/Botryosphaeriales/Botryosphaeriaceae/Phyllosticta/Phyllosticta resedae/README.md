@@ -1,5 +1,4 @@
-Phyllosticta resedae Petch SPECIES
-=======
+# Phyllosticta resedae Petch SPECIES
 
 #### Status
 ACCEPTED

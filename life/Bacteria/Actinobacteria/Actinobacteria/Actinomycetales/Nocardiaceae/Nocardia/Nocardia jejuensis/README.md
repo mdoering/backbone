@@ -1,5 +1,4 @@
-Nocardia jejuensis Lee, 2006 SPECIES
-=======
+# Nocardia jejuensis Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

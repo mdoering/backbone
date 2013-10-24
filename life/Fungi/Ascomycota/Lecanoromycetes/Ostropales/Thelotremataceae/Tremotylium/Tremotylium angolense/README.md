@@ -1,14 +1,13 @@
-Minksia angolensis (Nyl.) Makhija & Patw. SPECIES
-=======
+# Tremotylium angolense Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trop. Bryol. 10: 212 (1995)
+Flora, Jena 48: (1865)
 
 #### Original name
 Tremotylium angolense Nyl.

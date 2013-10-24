@@ -1,8 +1,7 @@
-Alteromonas denitrificans Enger et al., 1987 SPECIES
-=======
+# Pseudoalteromonas denitrificans (Enger et al., 1987) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

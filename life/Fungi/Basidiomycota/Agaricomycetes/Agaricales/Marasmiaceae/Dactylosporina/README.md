@@ -1,5 +1,4 @@
-Dactylosporina (Clémençon) Dörfelt GENUS
-=======
+# Dactylosporina (Clémençon) Dörfelt GENUS
 
 #### Status
 ACCEPTED

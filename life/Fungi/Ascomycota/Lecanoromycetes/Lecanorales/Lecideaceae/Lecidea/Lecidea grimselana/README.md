@@ -1,5 +1,4 @@
-Lecidea grimselana (A. Massal.) Lettau SPECIES
-=======
+# Lecidea grimselana (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

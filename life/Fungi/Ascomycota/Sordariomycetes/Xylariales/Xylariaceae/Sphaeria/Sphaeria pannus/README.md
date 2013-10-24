@@ -1,5 +1,4 @@
-Sphaeria pannus Kunze ex Fr. SPECIES
-=======
+# Sphaeria pannus Kunze ex Fr. SPECIES
 
 #### Status
 ACCEPTED

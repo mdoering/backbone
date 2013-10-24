@@ -1,5 +1,4 @@
-Rhodocybe noveboracensis (Peck) Singer SPECIES
-=======
+# Rhodocybe noveboracensis (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

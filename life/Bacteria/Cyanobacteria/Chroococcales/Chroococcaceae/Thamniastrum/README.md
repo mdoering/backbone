@@ -1,5 +1,4 @@
-Thamniastrum P.F. Reinsch, 1888 GENUS
-=======
+# Thamniastrum P.F. Reinsch, 1888 GENUS
 
 #### Status
 ACCEPTED

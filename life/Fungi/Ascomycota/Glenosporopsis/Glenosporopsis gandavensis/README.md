@@ -1,5 +1,4 @@
-Glenosporopsis gandavensis (Vuill.) Fonseca SPECIES
-=======
+# Glenosporopsis gandavensis (Vuill.) Fonseca SPECIES
 
 #### Status
 ACCEPTED

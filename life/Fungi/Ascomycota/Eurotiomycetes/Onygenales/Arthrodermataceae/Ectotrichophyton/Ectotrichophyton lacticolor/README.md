@@ -1,5 +1,4 @@
-Ectotrichophyton lacticolor (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton lacticolor (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

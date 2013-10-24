@@ -1,17 +1,16 @@
-Mucronoporus wahlbergii (Fr.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phellinus wahlbergii (Fr.) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Bolus Herb. 7: 97 (1975)
 
 #### Original name
-null
+Trametes wahlbergii Fr., 1848
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Telamonia cystidifera Velen. SPECIES
-=======
+# Telamonia cystidifera Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus megalospermus Speg. SPECIES
-=======
+# Ascobolus megalospermus Speg. SPECIES
 
 #### Status
 ACCEPTED

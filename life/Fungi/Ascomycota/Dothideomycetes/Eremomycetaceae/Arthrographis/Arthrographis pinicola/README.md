@@ -1,5 +1,4 @@
-Arthrographis pinicola Sigler & Yamaoka, 1990 SPECIES
-=======
+# Arthrographis pinicola Sigler & Yamaoka, 1990 SPECIES
 
 #### Status
 ACCEPTED

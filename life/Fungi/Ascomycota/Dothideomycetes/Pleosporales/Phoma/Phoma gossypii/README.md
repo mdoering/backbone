@@ -1,5 +1,4 @@
-Phoma gossypii Sacc. SPECIES
-=======
+# Phoma gossypii Sacc. SPECIES
 
 #### Status
 ACCEPTED

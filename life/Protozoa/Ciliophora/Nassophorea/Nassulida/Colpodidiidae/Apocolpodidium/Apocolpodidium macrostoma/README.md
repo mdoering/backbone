@@ -1,5 +1,4 @@
-Apocolpodidium macrostoma Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Apocolpodidium macrostoma Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

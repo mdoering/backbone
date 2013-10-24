@@ -1,5 +1,4 @@
-Phyllosticta ambrosioides Thuem. SPECIES
-=======
+# Phyllosticta ambrosioides Thuem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia versicolor E. Müll. & Nüesch, 1960 SPECIES
-=======
+# Rhizoctonia versicolor E. Müll. & Nüesch, 1960 SPECIES
 
 #### Status
 ACCEPTED

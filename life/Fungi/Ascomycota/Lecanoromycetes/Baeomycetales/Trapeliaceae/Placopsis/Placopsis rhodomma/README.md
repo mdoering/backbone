@@ -1,5 +1,4 @@
-Placopsis rhodomma Nyl. SPECIES
-=======
+# Placopsis rhodomma Nyl. SPECIES
 
 #### Status
 ACCEPTED

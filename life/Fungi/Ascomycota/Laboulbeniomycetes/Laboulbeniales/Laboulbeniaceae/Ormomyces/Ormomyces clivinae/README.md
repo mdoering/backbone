@@ -1,14 +1,13 @@
-Misgomyces clivinae Thaxt., 1915 SPECIES
-=======
+# Ormomyces clivinae (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 9: 266 (1985)
 
 #### Original name
 Misgomyces clivinae Thaxt., 1915

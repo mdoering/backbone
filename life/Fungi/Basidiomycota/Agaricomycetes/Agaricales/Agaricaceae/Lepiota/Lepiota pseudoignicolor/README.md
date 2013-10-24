@@ -1,5 +1,4 @@
-Lepiota pseudoignicolor Dennis SPECIES
-=======
+# Lepiota pseudoignicolor Dennis SPECIES
 
 #### Status
 ACCEPTED

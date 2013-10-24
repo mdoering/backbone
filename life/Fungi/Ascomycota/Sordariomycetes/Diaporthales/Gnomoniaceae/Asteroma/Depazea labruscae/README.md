@@ -1,5 +1,4 @@
-Depazea labruscae Engelm. SPECIES
-=======
+# Depazea labruscae Engelm. SPECIES
 
 #### Status
 ACCEPTED

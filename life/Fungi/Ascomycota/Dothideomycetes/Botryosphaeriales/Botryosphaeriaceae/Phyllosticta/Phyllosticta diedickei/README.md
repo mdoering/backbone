@@ -1,5 +1,4 @@
-Phyllosticta diedickei Bubák & Syd., 1911 SPECIES
-=======
+# Phyllosticta diedickei Bubák & Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

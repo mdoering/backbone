@@ -1,5 +1,4 @@
-Tubercularia grayana (Sacc. & Ellis) Seifert SPECIES
-=======
+# Tubercularia grayana (Sacc. & Ellis) Seifert SPECIES
 
 #### Status
 ACCEPTED

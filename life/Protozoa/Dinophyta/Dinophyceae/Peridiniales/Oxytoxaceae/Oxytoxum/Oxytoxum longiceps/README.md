@@ -1,5 +1,4 @@
-Oxytoxum longiceps Schiller SPECIES
-=======
+# Oxytoxum longiceps Schiller SPECIES
 
 #### Status
 ACCEPTED

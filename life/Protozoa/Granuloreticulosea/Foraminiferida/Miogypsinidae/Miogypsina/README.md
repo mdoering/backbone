@@ -1,5 +1,4 @@
-Miogypsina Sacco, 1893 GENUS
-=======
+# Miogypsina Sacco, 1893 GENUS
 
 #### Status
 ACCEPTED

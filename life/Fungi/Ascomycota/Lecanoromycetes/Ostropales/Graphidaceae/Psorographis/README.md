@@ -1,5 +1,4 @@
-Psorographis GENUS
-=======
+# Psorographis GENUS
 
 #### Status
 ACCEPTED

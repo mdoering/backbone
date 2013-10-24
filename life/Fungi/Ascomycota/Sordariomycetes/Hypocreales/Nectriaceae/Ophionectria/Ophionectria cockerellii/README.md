@@ -1,5 +1,4 @@
-Ophionectria cockerellii Ellis & Everh. SPECIES
-=======
+# Ophionectria cockerellii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

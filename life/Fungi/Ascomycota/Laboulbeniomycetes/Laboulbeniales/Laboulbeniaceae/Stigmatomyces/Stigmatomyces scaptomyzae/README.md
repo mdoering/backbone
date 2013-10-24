@@ -1,5 +1,4 @@
-Stigmatomyces scaptomyzae Thaxt. SPECIES
-=======
+# Stigmatomyces scaptomyzae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

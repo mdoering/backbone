@@ -1,5 +1,4 @@
-Pleospora genistae Gucevic SPECIES
-=======
+# Pleospora genistae Gucevic SPECIES
 
 #### Status
 ACCEPTED

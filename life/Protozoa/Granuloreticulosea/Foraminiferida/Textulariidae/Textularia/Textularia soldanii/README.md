@@ -1,5 +1,4 @@
-Textularia soldanii SPECIES
-=======
+# Textularia soldanii SPECIES
 
 #### Status
 ACCEPTED

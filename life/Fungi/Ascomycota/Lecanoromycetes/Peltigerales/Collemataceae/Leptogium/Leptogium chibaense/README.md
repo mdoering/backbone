@@ -1,5 +1,4 @@
-Leptogium chibaense H. Harada SPECIES
-=======
+# Leptogium chibaense H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histeridomyces venezolanus Thaxt., 1931 SPECIES
-=======
+# Histeridomyces venezolanus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

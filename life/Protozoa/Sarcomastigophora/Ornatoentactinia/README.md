@@ -1,5 +1,4 @@
-Ornatoentactinia Afanasieva, 2000 GENUS
-=======
+# Ornatoentactinia Afanasieva, 2000 GENUS
 
 #### Status
 ACCEPTED

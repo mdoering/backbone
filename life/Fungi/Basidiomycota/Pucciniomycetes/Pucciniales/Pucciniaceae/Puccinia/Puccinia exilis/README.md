@@ -1,5 +1,4 @@
-Puccinia exilis var. exilis VARIETY
-=======
+# Puccinia exilis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Uredin. (Lipsiae) 1(3): 481 (1903)
 
 #### Original name
-Puccinia exilis var. exilis
+Puccinia exilis P. Syd. & Syd.
 
 ### Remarks
 null

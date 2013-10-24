@@ -1,5 +1,4 @@
-Acia GENUS
-=======
+# Acia GENUS
 
 #### Status
 ACCEPTED

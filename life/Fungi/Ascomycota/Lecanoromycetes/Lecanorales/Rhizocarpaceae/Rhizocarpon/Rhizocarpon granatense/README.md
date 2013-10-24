@@ -1,5 +1,4 @@
-Rhizocarpon granatense (Clemente) Zahlbr. SPECIES
-=======
+# Rhizocarpon granatense (Clemente) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

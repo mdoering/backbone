@@ -1,5 +1,4 @@
-Pertusaria montpittensis A. W. Archer SPECIES
-=======
+# Pertusaria montpittensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

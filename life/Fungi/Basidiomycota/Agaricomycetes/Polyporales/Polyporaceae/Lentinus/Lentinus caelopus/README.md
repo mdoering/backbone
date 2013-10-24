@@ -1,5 +1,4 @@
-Lentinus caelopus Lév. SPECIES
-=======
+# Lentinus caelopus Lév. SPECIES
 
 #### Status
 ACCEPTED

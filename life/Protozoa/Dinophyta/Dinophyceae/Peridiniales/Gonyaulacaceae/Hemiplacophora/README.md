@@ -1,5 +1,4 @@
-Hemiplacophora I.C. Cookson & A. Eisenack, 1965 GENUS
-=======
+# Hemiplacophora I.C. Cookson & A. Eisenack, 1965 GENUS
 
 #### Status
 ACCEPTED

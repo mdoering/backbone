@@ -1,5 +1,4 @@
-Botrytis furcata Fresen. SPECIES
-=======
+# Botrytis furcata Fresen. SPECIES
 
 #### Status
 ACCEPTED

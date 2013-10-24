@@ -1,5 +1,4 @@
-Karschia andicola Speg. SPECIES
-=======
+# Karschia andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

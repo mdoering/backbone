@@ -1,5 +1,4 @@
-Melampsora larici-capraearum Kleb. SPECIES
-=======
+# Melampsora larici-capraearum Kleb. SPECIES
 
 #### Status
 ACCEPTED

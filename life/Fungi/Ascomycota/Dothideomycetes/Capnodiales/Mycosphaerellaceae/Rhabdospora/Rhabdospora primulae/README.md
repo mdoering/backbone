@@ -1,5 +1,4 @@
-Rhabdospora primulae Picb. SPECIES
-=======
+# Rhabdospora primulae Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza lycoperoides SPECIES
-=======
+# Peziza lycoperoides SPECIES
 
 #### Status
 ACCEPTED

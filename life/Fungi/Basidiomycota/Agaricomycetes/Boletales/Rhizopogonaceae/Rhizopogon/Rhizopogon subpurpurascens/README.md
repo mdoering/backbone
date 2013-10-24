@@ -1,5 +1,4 @@
-Rhizopogon subpurpurascens A.H. Sm., 1964 SPECIES
-=======
+# Rhizopogon subpurpurascens A.H. Sm., 1964 SPECIES
 
 #### Status
 ACCEPTED

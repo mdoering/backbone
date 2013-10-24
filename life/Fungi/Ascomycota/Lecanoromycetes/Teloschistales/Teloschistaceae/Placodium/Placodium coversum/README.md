@@ -1,5 +1,4 @@
-Placodium coversum SPECIES
-=======
+# Placodium coversum SPECIES
 
 #### Status
 ACCEPTED

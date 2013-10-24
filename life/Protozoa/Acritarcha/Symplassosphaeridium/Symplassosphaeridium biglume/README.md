@@ -1,5 +1,4 @@
-Symplassosphaeridium biglume Rudavskaya in Rudavskaya & Timofeev SPECIES
-=======
+# Symplassosphaeridium biglume Rudavskaya in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

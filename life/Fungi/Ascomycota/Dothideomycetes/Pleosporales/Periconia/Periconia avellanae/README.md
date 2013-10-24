@@ -1,5 +1,4 @@
-Periconia avellanae Rebent. SPECIES
-=======
+# Periconia avellanae Rebent. SPECIES
 
 #### Status
 ACCEPTED

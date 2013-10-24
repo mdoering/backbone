@@ -1,5 +1,4 @@
-Volvariella cinerascens (Bres.) M.M. Moser SPECIES
-=======
+# Volvariella cinerascens (Bres.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina ligularia SPECIES
-=======
+# Bolivina ligularia SPECIES
 
 #### Status
 ACCEPTED

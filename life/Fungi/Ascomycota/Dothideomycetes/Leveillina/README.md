@@ -1,5 +1,4 @@
-Leveillina Theiss. & Syd. GENUS
-=======
+# Leveillina Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

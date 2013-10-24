@@ -1,5 +1,4 @@
-Gelopellis rufus Dring, 1977 SPECIES
-=======
+# Gelopellis rufus Dring, 1977 SPECIES
 
 #### Status
 ACCEPTED

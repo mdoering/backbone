@@ -1,5 +1,4 @@
-Puccinia makenensis Cummins SPECIES
-=======
+# Puccinia makenensis Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora alaskana Printzen & Tønsberg SPECIES
-=======
+# Biatora alaskana Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

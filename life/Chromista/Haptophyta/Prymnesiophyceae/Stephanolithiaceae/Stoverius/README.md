@@ -1,5 +1,4 @@
-Stoverius K. Perch-Nielsen, 1986 GENUS
-=======
+# Stoverius K. Perch-Nielsen, 1986 GENUS
 
 #### Status
 ACCEPTED

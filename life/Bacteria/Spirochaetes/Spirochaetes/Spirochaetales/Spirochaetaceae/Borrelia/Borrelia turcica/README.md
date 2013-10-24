@@ -1,5 +1,4 @@
-Borrelia turcica Güner et al., 2004 SPECIES
-=======
+# Borrelia turcica Güner et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kitasatospora phosalacinea Takahashi et al., 1985 SPECIES
-=======
+# Kitasatospora phosalacinea Takahashi et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

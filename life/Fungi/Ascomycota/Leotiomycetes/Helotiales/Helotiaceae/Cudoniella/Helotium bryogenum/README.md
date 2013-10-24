@@ -1,5 +1,4 @@
-Helotium bryogenum Peck SPECIES
-=======
+# Helotium bryogenum Peck SPECIES
 
 #### Status
 ACCEPTED

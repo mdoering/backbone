@@ -1,5 +1,4 @@
-Lembosia syzygiicola (Hansf.) Deighton SPECIES
-=======
+# Lembosia syzygiicola (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

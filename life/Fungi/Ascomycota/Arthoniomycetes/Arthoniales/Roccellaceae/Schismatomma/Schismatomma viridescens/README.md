@@ -1,5 +1,4 @@
-Schismatomma viridescens (Fée) Zahlbr. SPECIES
-=======
+# Schismatomma viridescens (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

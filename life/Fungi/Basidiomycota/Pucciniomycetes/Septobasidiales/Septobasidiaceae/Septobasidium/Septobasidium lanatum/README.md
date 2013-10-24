@@ -1,5 +1,4 @@
-Septobasidium lanatum C.H. Chow SPECIES
-=======
+# Septobasidium lanatum C.H. Chow SPECIES
 
 #### Status
 ACCEPTED

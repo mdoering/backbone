@@ -1,5 +1,4 @@
-Amanita tainaomby R. Heim SPECIES
-=======
+# Amanita tainaomby R. Heim SPECIES
 
 #### Status
 ACCEPTED

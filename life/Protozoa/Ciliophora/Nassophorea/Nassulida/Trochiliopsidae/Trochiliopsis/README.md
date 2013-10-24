@@ -1,5 +1,4 @@
-Trochiliopsis Penard, 1922 GENUS
-=======
+# Trochiliopsis Penard, 1922 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria aburiensis (Dennis) D. Hawksw. SPECIES
-=======
+# Xylaria aburiensis (Dennis) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

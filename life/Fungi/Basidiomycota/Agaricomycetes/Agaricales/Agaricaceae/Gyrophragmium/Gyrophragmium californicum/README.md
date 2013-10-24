@@ -1,5 +1,4 @@
-Gyrophragmium californicum (Harkn.) Morse SPECIES
-=======
+# Gyrophragmium californicum (Harkn.) Morse SPECIES
 
 #### Status
 ACCEPTED

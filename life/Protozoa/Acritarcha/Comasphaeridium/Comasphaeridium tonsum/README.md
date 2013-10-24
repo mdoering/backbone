@@ -1,5 +1,4 @@
-Comasphaeridium tonsum Cramer & Díez, 1977 SPECIES
-=======
+# Comasphaeridium tonsum Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

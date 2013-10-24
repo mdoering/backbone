@@ -1,5 +1,4 @@
-Polystictus tenuissimus (Lév.) Cooke SPECIES
-=======
+# Polystictus tenuissimus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

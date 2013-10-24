@@ -1,5 +1,4 @@
-Curculiospora G. Arnaud GENUS
-=======
+# Curculiospora G. Arnaud GENUS
 
 #### Status
 ACCEPTED

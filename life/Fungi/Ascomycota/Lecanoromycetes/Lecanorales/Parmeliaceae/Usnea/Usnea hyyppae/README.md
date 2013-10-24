@@ -1,5 +1,4 @@
-Usnea hyyppae Räsänen SPECIES
-=======
+# Usnea hyyppae Räsänen SPECIES
 
 #### Status
 ACCEPTED

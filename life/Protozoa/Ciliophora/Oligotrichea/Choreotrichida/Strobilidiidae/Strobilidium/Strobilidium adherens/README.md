@@ -1,8 +1,7 @@
-Strobilidium adhaerens SPECIES
-=======
+# Strobilidium adherens Schewiakoff, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

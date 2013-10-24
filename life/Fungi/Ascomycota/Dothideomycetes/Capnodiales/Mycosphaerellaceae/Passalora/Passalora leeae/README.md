@@ -1,5 +1,4 @@
-Passalora leeae (Chidd.) U. Braun & Crous SPECIES
-=======
+# Passalora leeae (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

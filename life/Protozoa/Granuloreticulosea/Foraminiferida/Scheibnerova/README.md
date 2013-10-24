@@ -1,5 +1,4 @@
-Scheibnerova Quilty, 1984 GENUS
-=======
+# Scheibnerova Quilty, 1984 GENUS
 
 #### Status
 ACCEPTED

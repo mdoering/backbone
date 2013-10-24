@@ -1,5 +1,4 @@
-Bacidia lividofuscescens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia lividofuscescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

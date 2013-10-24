@@ -1,5 +1,4 @@
-Zygodesmus guarapiensis Speg. SPECIES
-=======
+# Zygodesmus guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

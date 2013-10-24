@@ -1,5 +1,4 @@
-Fumago setulosa Lév. SPECIES
-=======
+# Fumago setulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

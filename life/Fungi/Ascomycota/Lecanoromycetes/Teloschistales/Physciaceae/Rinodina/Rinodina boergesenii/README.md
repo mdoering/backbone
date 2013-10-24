@@ -1,5 +1,4 @@
-Rinodina boergesenii Vain. SPECIES
-=======
+# Rinodina boergesenii Vain. SPECIES
 
 #### Status
 ACCEPTED

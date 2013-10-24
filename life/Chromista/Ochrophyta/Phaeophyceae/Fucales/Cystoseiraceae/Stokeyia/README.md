@@ -1,5 +1,4 @@
-Stokeyia F.Thivy & Y.A.Doshi, 1966 GENUS
-=======
+# Stokeyia F.Thivy & Y.A.Doshi, 1966 GENUS
 
 #### Status
 ACCEPTED

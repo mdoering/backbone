@@ -1,5 +1,4 @@
-Coronospora uniseptata Matsush. SPECIES
-=======
+# Coronospora uniseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

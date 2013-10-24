@@ -1,5 +1,4 @@
-Sticta sayeri Müll. Arg. SPECIES
-=======
+# Sticta sayeri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

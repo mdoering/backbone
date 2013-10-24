@@ -1,5 +1,4 @@
-Diaphanium maximum Fr., 1849 SPECIES
-=======
+# Diaphanium maximum Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

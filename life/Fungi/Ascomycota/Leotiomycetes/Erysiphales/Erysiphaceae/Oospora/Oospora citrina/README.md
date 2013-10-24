@@ -1,5 +1,4 @@
-Oospora citrina Peyronel SPECIES
-=======
+# Oospora citrina Peyronel SPECIES
 
 #### Status
 ACCEPTED

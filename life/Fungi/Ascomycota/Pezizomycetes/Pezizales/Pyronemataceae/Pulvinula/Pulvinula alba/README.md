@@ -1,5 +1,4 @@
-Pulvinula alba (Velen.) Svrcek SPECIES
-=======
+# Pulvinula alba (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

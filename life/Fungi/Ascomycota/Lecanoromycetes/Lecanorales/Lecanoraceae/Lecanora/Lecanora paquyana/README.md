@@ -1,5 +1,4 @@
-Lecanora paquyana Harm SPECIES
-=======
+# Lecanora paquyana Harm SPECIES
 
 #### Status
 ACCEPTED

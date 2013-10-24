@@ -1,5 +1,4 @@
-Aleurina elastica (Pat. & Gaillard) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina elastica (Pat. & Gaillard) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

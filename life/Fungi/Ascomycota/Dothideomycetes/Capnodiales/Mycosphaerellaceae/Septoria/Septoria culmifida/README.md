@@ -1,5 +1,4 @@
-Septoria culmifida Lind SPECIES
-=======
+# Septoria culmifida Lind SPECIES
 
 #### Status
 ACCEPTED

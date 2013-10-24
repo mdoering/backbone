@@ -1,5 +1,4 @@
-Cortinarius subtorvus Lamoure, 1969 SPECIES
-=======
+# Cortinarius subtorvus Lamoure, 1969 SPECIES
 
 #### Status
 ACCEPTED

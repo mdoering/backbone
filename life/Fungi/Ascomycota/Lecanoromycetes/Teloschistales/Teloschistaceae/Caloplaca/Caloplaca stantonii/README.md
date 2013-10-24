@@ -1,5 +1,4 @@
-Caloplaca stantonii W. A. Weber ex Arup SPECIES
-=======
+# Caloplaca stantonii W. A. Weber ex Arup SPECIES
 
 #### Status
 ACCEPTED

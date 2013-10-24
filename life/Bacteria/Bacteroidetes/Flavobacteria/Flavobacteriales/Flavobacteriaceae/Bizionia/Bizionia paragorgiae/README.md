@@ -1,5 +1,4 @@
-Bizionia paragorgiae Nedashkovskaya et al., 2005 SPECIES
-=======
+# Bizionia paragorgiae Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

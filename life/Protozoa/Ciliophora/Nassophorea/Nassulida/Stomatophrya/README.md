@@ -1,5 +1,4 @@
-Stomatophrya Kahl, 1933 GENUS
-=======
+# Stomatophrya Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

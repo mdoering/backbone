@@ -1,5 +1,4 @@
-Cortinarius levipileus J. Favre SPECIES
-=======
+# Cortinarius levipileus J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cupressi Tuck. SPECIES
-=======
+# Lecanora cupressi Tuck. SPECIES
 
 #### Status
 ACCEPTED

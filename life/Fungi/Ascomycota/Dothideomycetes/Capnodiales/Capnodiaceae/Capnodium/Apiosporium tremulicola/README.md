@@ -1,5 +1,4 @@
-Apiosporium tremulicola Fuckel SPECIES
-=======
+# Apiosporium tremulicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neurospora toroi F.L. Tai, 1935 SPECIES
-=======
+# Neurospora toroi F.L. Tai, 1935 SPECIES
 
 #### Status
 ACCEPTED

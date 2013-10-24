@@ -1,5 +1,4 @@
-Leptosphaeria castillejae Shoemaker SPECIES
-=======
+# Leptosphaeria castillejae Shoemaker SPECIES
 
 #### Status
 ACCEPTED

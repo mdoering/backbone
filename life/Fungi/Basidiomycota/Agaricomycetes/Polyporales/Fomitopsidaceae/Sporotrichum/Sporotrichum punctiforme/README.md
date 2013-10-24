@@ -1,5 +1,4 @@
-Sporotrichum punctiforme (Lam. & DC.) Link SPECIES
-=======
+# Sporotrichum punctiforme (Lam. & DC.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thioploca schmidlei Lauterborn, 1907 (Approved Lists, 1980) SPECIES
-=======
+# Thioploca schmidlei Lauterborn, 1907 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

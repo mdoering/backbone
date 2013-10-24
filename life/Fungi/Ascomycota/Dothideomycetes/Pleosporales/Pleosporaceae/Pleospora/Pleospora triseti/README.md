@@ -1,5 +1,4 @@
-Pleospora triseti E. Müll. SPECIES
-=======
+# Pleospora triseti E. Müll. SPECIES
 
 #### Status
 ACCEPTED

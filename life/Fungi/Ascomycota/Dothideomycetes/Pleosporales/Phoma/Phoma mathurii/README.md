@@ -1,17 +1,16 @@
-Phoma mathuri R.C. Srivast. SPECIES
-=======
+# Phoma mathurii R.C. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 136(3): 266 (1981)
 
 #### Original name
-Phoma mathuri R.C. Srivast.
+Phoma mathurii R.C. Srivast.
 
 ### Remarks
 null

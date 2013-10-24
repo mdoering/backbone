@@ -1,5 +1,4 @@
-Entyloma menispermi Farl. & Trel. SPECIES
-=======
+# Entyloma menispermi Farl. & Trel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pulchella var. pulchella VARIETY
-=======
+# Meliola pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): no. 227 (1889)
 
 #### Original name
-Meliola pulchella var. pulchella
+Meliola pulchella Speg.
 
 ### Remarks
 null

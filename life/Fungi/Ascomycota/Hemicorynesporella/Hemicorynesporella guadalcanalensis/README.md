@@ -1,14 +1,13 @@
-Sporidesmium guadalcanalense Matsush., 1971 SPECIES
-=======
+# Hemicorynesporella guadalcanalensis (Matsush.) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kobayashi et al. , Bull. natn. Sci. Mus. , Tokyo 14(3): 478 (1971)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 189 (1992)
 
 #### Original name
 Sporidesmium guadalcanalense Matsush., 1971

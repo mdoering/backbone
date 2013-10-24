@@ -1,5 +1,4 @@
-Sonderhenia H.J. Swart & J. Walker GENUS
-=======
+# Sonderhenia H.J. Swart & J. Walker GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodidymaria symplocarpi Yas. Ono & Tak. Kobay. SPECIES
-=======
+# Pseudodidymaria symplocarpi Yas. Ono & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

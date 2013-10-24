@@ -1,5 +1,4 @@
-Sporisorium incompletum R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium incompletum R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

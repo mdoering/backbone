@@ -1,5 +1,4 @@
-Polyporus philippinesis Berk. SPECIES
-=======
+# Polyporus philippinesis Berk. SPECIES
 
 #### Status
 ACCEPTED

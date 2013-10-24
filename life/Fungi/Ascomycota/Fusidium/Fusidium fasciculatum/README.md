@@ -1,5 +1,4 @@
-Fusidium fasciculatum Berk. & Broome SPECIES
-=======
+# Fusidium fasciculatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catocarpus alpicola (Wahlenb.) Arnold SPECIES
-=======
+# Catocarpus alpicola (Wahlenb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

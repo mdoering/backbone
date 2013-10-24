@@ -1,5 +1,4 @@
-Stereocaulon turgescens Nyl. SPECIES
-=======
+# Stereocaulon turgescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

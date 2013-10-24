@@ -1,5 +1,4 @@
-Olpidiomorpha pseudosporae Scherff., 1926 SPECIES
-=======
+# Olpidiomorpha pseudosporae Scherff., 1926 SPECIES
 
 #### Status
 ACCEPTED

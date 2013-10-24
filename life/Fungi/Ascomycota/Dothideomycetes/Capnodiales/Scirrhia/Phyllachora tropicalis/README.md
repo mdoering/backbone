@@ -1,5 +1,4 @@
-Phyllachora tropicalis Speg., 1880 SPECIES
-=======
+# Phyllachora tropicalis Speg., 1880 SPECIES
 
 #### Status
 DOUBTFUL

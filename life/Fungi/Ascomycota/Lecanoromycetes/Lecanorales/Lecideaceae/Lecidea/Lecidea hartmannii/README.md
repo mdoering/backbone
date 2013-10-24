@@ -1,5 +1,4 @@
-Lecidea hartmannii Redinger SPECIES
-=======
+# Lecidea hartmannii Redinger SPECIES
 
 #### Status
 ACCEPTED

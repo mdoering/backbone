@@ -1,5 +1,4 @@
-Xylaria glaucescens Sacc. SPECIES
-=======
+# Xylaria glaucescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

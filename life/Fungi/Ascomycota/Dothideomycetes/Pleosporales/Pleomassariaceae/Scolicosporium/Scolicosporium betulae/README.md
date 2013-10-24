@@ -1,5 +1,4 @@
-Scolicosporium betulae Rostr. SPECIES
-=======
+# Scolicosporium betulae Rostr. SPECIES
 
 #### Status
 ACCEPTED

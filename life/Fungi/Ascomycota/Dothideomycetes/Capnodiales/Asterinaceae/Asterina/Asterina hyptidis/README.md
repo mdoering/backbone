@@ -1,14 +1,13 @@
-Asterina hyptides (Rehm) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina hyptidis (Rehm) Hosag. & T.K. Abraham SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 24(3): 570 (2000)
 
 #### Original name
 Asterina acanthopoda var. hyptidis Rehm

@@ -1,5 +1,4 @@
-Marasmius cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

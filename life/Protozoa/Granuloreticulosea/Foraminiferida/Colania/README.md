@@ -1,5 +1,4 @@
-Colania Lee, 1933 GENUS
-=======
+# Colania Lee, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius colossipes Reumaux SPECIES
-=======
+# Cortinarius colossipes Reumaux SPECIES
 
 #### Status
 ACCEPTED

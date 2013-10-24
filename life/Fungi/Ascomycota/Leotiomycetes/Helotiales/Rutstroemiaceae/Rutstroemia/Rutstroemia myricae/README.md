@@ -1,5 +1,4 @@
-Rutstroemia myricae (Spooner & Dennis) SPECIES
-=======
+# Rutstroemia myricae (Spooner & Dennis) SPECIES
 
 #### Status
 ACCEPTED

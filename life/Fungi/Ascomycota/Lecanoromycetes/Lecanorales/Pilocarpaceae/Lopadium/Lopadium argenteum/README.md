@@ -1,5 +1,4 @@
-Lopadium argenteum (Mont.) Zahlbr. SPECIES
-=======
+# Lopadium argenteum (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

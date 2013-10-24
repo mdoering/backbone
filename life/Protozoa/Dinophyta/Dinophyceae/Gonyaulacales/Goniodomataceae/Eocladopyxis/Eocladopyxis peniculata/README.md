@@ -1,5 +1,4 @@
-Eocladopyxis peniculata Morgenroth, 1966 SPECIES
-=======
+# Eocladopyxis peniculata Morgenroth, 1966 SPECIES
 
 #### Status
 ACCEPTED

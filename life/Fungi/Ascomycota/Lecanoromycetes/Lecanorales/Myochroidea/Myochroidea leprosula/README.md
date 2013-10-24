@@ -1,17 +1,16 @@
-Biatora leprosula Arnold SPECIES
-=======
+# Myochroidea leprosula (Arnold) Printzen, T. Sprib. & Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 40(3): 198 (2008)
 
 #### Original name
-null
+Biatora leprosula Arnold
 
 ### Remarks
 null

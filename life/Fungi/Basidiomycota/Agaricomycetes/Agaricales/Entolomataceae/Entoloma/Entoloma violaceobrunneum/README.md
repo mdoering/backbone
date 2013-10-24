@@ -1,5 +1,4 @@
-Entoloma violaceobrunneum Hesler SPECIES
-=======
+# Entoloma violaceobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

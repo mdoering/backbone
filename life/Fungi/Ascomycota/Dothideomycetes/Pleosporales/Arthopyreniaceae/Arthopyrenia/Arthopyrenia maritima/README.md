@@ -1,5 +1,4 @@
-Arthopyrenia maritima Øvstedal SPECIES
-=======
+# Arthopyrenia maritima Øvstedal SPECIES
 
 #### Status
 ACCEPTED

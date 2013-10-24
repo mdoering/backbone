@@ -1,5 +1,4 @@
-Vectensia Batten & Lister, 1988 GENUS
-=======
+# Vectensia Batten & Lister, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria mariluanensis Speg. SPECIES
-=======
+# Naucoria mariluanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

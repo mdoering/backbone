@@ -1,5 +1,4 @@
-Puccinia turgidipes H.S. Jacks. SPECIES
-=======
+# Puccinia turgidipes H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

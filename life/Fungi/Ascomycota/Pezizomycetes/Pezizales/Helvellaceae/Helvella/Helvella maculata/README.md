@@ -1,5 +1,4 @@
-Helvella maculata N.S. Weber SPECIES
-=======
+# Helvella maculata N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

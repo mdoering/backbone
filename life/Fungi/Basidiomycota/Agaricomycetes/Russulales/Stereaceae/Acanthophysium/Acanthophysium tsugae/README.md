@@ -1,14 +1,13 @@
-Aleurodiscus tsugae Yasuda, 1920 SPECIES
-=======
+# Acanthophysium tsugae (Yasuda) Parmasto, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6(65): 1066 (1920)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 220 (1965)
 
 #### Original name
 Aleurodiscus tsugae Yasuda, 1920

@@ -1,5 +1,4 @@
-Phoma sambuci f. sambuci Pass. FORM
-=======
+# Phoma sambuci Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma sambuci f. sambuci Pass.
+Phoma sambuci Pass.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coscinodiscus sellatus A.P. Jousé SPECIES
-=======
+# Coscinodiscus sellatus A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

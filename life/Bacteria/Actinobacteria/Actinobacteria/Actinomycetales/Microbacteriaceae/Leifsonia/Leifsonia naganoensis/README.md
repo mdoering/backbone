@@ -1,5 +1,4 @@
-Leifsonia naganoensis Suzuki et al., 2000 SPECIES
-=======
+# Leifsonia naganoensis Suzuki et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

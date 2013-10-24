@@ -1,5 +1,4 @@
-Ovularia farinacea (Bonord.) Sacc. SPECIES
-=======
+# Ovularia farinacea (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

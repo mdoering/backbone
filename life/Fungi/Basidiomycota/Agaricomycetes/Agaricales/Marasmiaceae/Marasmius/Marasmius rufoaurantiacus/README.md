@@ -1,5 +1,4 @@
-Marasmius rufoaurantiacus Petch SPECIES
-=======
+# Marasmius rufoaurantiacus Petch SPECIES
 
 #### Status
 ACCEPTED

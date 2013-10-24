@@ -1,5 +1,4 @@
-Peyritschiella mexicana (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella mexicana (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

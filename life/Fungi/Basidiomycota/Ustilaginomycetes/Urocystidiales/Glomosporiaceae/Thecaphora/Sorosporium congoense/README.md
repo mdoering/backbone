@@ -1,5 +1,4 @@
-Sorosporium congoense L. Ling SPECIES
-=======
+# Sorosporium congoense L. Ling SPECIES
 
 #### Status
 ACCEPTED

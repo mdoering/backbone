@@ -1,5 +1,4 @@
-Lanzia helotioides Rehm SPECIES
-=======
+# Lanzia helotioides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Developayella Tong GENUS
-=======
+# Developayella Tong GENUS
 
 #### Status
 ACCEPTED

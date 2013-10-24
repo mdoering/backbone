@@ -1,5 +1,4 @@
-Penicillium caulatum Sopp SPECIES
-=======
+# Penicillium caulatum Sopp SPECIES
 
 #### Status
 ACCEPTED

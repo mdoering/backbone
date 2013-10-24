@@ -1,5 +1,4 @@
-Hymenula hariotiana Sacc. SPECIES
-=======
+# Hymenula hariotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

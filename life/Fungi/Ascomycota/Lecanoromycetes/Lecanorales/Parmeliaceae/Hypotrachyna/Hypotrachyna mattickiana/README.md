@@ -1,5 +1,4 @@
-Hypotrachyna mattickiana Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna mattickiana Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

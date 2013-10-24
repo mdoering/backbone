@@ -1,5 +1,4 @@
-Uleoporthe Petr. GENUS
-=======
+# Uleoporthe Petr. GENUS
 
 #### Status
 ACCEPTED

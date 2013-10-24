@@ -1,5 +1,4 @@
-Anthostomella pacifica Udagawa, Uchiy. & Kamiya SPECIES
-=======
+# Anthostomella pacifica Udagawa, Uchiy. & Kamiya SPECIES
 
 #### Status
 ACCEPTED

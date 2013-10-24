@@ -1,5 +1,4 @@
-Phaeosphaerella miscanthi Sawada SPECIES
-=======
+# Phaeosphaerella miscanthi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia brunnea Peck, 1878 SPECIES
-=======
+# Ramularia brunnea Peck, 1878 SPECIES
 
 #### Status
 ACCEPTED

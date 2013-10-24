@@ -1,5 +1,4 @@
-Eugeniella psychotriae (Müll. Arg.) Lücking, Sérus. & Kalb SPECIES
-=======
+# Eugeniella psychotriae (Müll. Arg.) Lücking, Sérus. & Kalb SPECIES
 
 #### Status
 ACCEPTED

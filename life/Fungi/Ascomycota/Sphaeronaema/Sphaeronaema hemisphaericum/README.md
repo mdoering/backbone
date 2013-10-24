@@ -1,5 +1,4 @@
-Sphaeronaema hemisphaericum (Alb. & Schwein.) Fr. SPECIES
-=======
+# Sphaeronaema hemisphaericum (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

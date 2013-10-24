@@ -1,5 +1,4 @@
-Chardoniella capitata Buriticá & J.F. Hennen, 1980 SPECIES
-=======
+# Chardoniella capitata Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
 ACCEPTED

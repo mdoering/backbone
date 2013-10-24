@@ -1,5 +1,4 @@
-Pleuropus fornicatus Gray SPECIES
-=======
+# Pleuropus fornicatus Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quadriloncharium Haeckel, 1887 GENUS
-=======
+# Quadriloncharium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

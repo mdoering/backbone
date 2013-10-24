@@ -1,5 +1,4 @@
-Stictis tortilis P.R. Johnst. SPECIES
-=======
+# Stictis tortilis P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

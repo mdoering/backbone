@@ -1,5 +1,4 @@
-Novozymia W.P. Wu GENUS
-=======
+# Novozymia W.P. Wu GENUS
 
 #### Status
 ACCEPTED

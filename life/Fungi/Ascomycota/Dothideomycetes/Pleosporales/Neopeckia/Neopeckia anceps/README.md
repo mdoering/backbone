@@ -1,5 +1,4 @@
-Neopeckia anceps Clendenin SPECIES
-=======
+# Neopeckia anceps Clendenin SPECIES
 
 #### Status
 ACCEPTED

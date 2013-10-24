@@ -1,5 +1,4 @@
-Saccharomyces minutissimus Beij. SPECIES
-=======
+# Saccharomyces minutissimus Beij. SPECIES
 
 #### Status
 ACCEPTED

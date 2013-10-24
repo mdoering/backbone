@@ -1,5 +1,4 @@
-Dinoclonium Pascher, 1927 GENUS
-=======
+# Dinoclonium Pascher, 1927 GENUS
 
 #### Status
 ACCEPTED

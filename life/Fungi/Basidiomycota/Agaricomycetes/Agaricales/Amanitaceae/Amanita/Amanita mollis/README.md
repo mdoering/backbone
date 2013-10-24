@@ -1,5 +1,4 @@
-Amanita mollis Lam. SPECIES
-=======
+# Amanita mollis Lam. SPECIES
 
 #### Status
 ACCEPTED

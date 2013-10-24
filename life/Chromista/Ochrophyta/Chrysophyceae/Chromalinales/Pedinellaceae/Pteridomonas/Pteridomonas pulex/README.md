@@ -1,5 +1,4 @@
-Pteridomonas pulex Penard SPECIES
-=======
+# Pteridomonas pulex Penard SPECIES
 
 #### Status
 ACCEPTED

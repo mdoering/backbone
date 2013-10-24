@@ -1,5 +1,4 @@
-Sphaeria soluta Cooke & Ellis SPECIES
-=======
+# Sphaeria soluta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

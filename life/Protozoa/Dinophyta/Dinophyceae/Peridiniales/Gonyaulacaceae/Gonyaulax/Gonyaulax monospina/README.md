@@ -1,5 +1,4 @@
-Gonyaulax monospina Rampi SPECIES
-=======
+# Gonyaulax monospina Rampi SPECIES
 
 #### Status
 ACCEPTED

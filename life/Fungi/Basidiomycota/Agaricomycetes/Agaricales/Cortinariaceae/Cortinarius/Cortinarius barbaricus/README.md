@@ -1,5 +1,4 @@
-Cortinarius barbaricus (Brandrud) Frøslev, T.S. Jeppesen & Brandrud SPECIES
-=======
+# Cortinarius barbaricus (Brandrud) Frøslev, T.S. Jeppesen & Brandrud SPECIES
 
 #### Status
 ACCEPTED

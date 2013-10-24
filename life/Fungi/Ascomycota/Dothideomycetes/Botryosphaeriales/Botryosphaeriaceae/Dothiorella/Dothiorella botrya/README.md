@@ -1,5 +1,4 @@
-Dothiorella botrya Sacc. SPECIES
-=======
+# Dothiorella botrya Sacc. SPECIES
 
 #### Status
 ACCEPTED

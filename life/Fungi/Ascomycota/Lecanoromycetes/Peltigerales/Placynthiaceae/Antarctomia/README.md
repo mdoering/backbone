@@ -1,5 +1,4 @@
-Antarctomia GENUS
-=======
+# Antarctomia GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stenella browniaeicola R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary SPECIES
-=======
+# Stenella browneaeicola R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 54(2): 227 (2001)
 
 #### Original name
-Stenella browniaeicola R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary
+Stenella browneaeicola R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary
 
 ### Remarks
 null

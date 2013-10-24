@@ -1,5 +1,4 @@
-Stellarima distincta (J.A. Long, D.P. Fuge & J. Smith) G.R. Hasle & P.A. Sims SPECIES
-=======
+# Stellarima distincta (J.A. Long, D.P. Fuge & J. Smith) G.R. Hasle & P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

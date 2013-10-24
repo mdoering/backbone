@@ -1,5 +1,4 @@
-Calothrix minuscula Weber van Bosse SPECIES
-=======
+# Calothrix minuscula Weber van Bosse SPECIES
 
 #### Status
 ACCEPTED

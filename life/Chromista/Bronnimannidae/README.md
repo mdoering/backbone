@@ -1,8 +1,7 @@
-Bronimanniidae FAMILY
-=======
+# Bronnimannidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

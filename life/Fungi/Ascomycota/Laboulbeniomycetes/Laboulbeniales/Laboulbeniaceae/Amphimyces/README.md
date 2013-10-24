@@ -1,5 +1,4 @@
-Amphimyces Thaxt. GENUS
-=======
+# Amphimyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

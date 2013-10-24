@@ -1,5 +1,4 @@
-Lentomita brevicollis Niessl SPECIES
-=======
+# Lentomita brevicollis Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea vinicolor Stirt. SPECIES
-=======
+# Bacidia vinicolor (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 487 (1899)
+Cat. Lich. Univers. 4: 247 (1926)
 
 #### Original name
 Lecidea vinicolor Stirt.

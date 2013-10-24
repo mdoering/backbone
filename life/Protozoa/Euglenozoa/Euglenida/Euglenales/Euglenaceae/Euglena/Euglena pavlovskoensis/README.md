@@ -1,8 +1,7 @@
-Euglena intermedia var. povlovskoensis Elenkin & Poljanski VARIETY
-=======
+# Euglena pavlovskoensis (Elenkin & Poljanski) Popowa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

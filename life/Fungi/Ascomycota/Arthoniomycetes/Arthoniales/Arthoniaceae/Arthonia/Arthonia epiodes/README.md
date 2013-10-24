@@ -1,5 +1,4 @@
-Arthonia epiodes Nyl. SPECIES
-=======
+# Arthonia epiodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

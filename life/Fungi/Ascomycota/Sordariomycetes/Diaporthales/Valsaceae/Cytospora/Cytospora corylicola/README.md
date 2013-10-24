@@ -1,5 +1,4 @@
-Cytospora corylicola Sacc. ex Fuckel, 1871 SPECIES
-=======
+# Cytospora corylicola Sacc. ex Fuckel, 1871 SPECIES
 
 #### Status
 ACCEPTED

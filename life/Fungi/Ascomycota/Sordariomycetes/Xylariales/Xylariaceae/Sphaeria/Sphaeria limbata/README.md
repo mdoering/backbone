@@ -1,5 +1,4 @@
-Sphaeria limbata Ettingsh. SPECIES
-=======
+# Sphaeria limbata Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

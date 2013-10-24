@@ -1,5 +1,4 @@
-Xystozukalia GENUS
-=======
+# Xystozukalia GENUS
 
 #### Status
 ACCEPTED

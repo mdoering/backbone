@@ -1,5 +1,4 @@
-Cordyceps fasciculata Pat. SPECIES
-=======
+# Cordyceps fasciculata Pat. SPECIES
 
 #### Status
 ACCEPTED

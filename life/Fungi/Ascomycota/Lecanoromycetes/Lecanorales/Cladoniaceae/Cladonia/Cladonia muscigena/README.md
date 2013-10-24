@@ -1,5 +1,4 @@
-Cladonia muscigena Eschw. SPECIES
-=======
+# Cladonia muscigena Eschw. SPECIES
 
 #### Status
 ACCEPTED

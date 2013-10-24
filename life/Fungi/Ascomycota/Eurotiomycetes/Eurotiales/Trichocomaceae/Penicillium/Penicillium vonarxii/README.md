@@ -1,5 +1,4 @@
-Penicillium vonarxii Frisvad & Samson SPECIES
-=======
+# Penicillium vonarxii Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

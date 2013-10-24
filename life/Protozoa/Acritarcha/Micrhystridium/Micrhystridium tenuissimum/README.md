@@ -1,5 +1,4 @@
-Micrhystridium tenuissimum Deflandre, 1945 SPECIES
-=======
+# Micrhystridium tenuissimum Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

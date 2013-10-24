@@ -1,5 +1,4 @@
-Alabamina achanes Loeblich & Tappan, 1994 SPECIES
-=======
+# Alabamina achanes Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

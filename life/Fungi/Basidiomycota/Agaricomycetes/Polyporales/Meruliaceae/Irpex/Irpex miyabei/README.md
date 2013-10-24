@@ -1,5 +1,4 @@
-Irpex miyabei Lloyd SPECIES
-=======
+# Irpex miyabei Lloyd SPECIES
 
 #### Status
 ACCEPTED

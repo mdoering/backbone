@@ -1,5 +1,4 @@
-Microsphaera seravschanica Korbonsk. SPECIES
-=======
+# Microsphaera seravschanica Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

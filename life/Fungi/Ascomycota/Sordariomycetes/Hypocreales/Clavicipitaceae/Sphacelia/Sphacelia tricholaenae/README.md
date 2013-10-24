@@ -1,5 +1,4 @@
-Sphacelia tricholaenae E. West SPECIES
-=======
+# Sphacelia tricholaenae E. West SPECIES
 
 #### Status
 ACCEPTED

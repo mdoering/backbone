@@ -1,5 +1,4 @@
-Phlyctella sordida (C. Knight) Müll. Arg. SPECIES
-=======
+# Phlyctella sordida (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

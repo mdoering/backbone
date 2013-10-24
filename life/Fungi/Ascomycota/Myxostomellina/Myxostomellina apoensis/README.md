@@ -1,5 +1,4 @@
-Myxostomellina apoensis Syd., 1931 SPECIES
-=======
+# Myxostomellina apoensis Syd., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nematoloma micans (Fr.) Singer SPECIES
-=======
+# Naematoloma micans (Fr.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 2(6): 235 (1937)
 
 #### Original name
 Agaricus micans Fr.

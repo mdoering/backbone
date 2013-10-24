@@ -1,8 +1,7 @@
-Tubercularia eryngiicola Speg. SPECIES
-=======
+# Tubercularia eryngicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tubercularia eryngiicola Speg.
+Tubercularia eryngicola Speg.
 
 ### Remarks
 null

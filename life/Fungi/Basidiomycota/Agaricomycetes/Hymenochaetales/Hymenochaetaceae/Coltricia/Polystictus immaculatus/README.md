@@ -1,5 +1,4 @@
-Polystictus immaculatus Lloyd SPECIES
-=======
+# Polystictus immaculatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

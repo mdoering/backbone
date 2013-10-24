@@ -1,14 +1,13 @@
-Dibotryon symphoricarpi (Rehm) Petr., 1927 SPECIES
-=======
+# Dothidotthia symphoricarpi (Rehm) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(3/4): 301 (1927)
+Ber. dt. bot. Ges. (1918)
 
 #### Original name
 Pseudotthia symphoricarpi Rehm, 1913

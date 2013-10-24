@@ -1,5 +1,4 @@
-Asterionella cleveana O'Meara SPECIES
-=======
+# Asterionella cleveana O'Meara SPECIES
 
 #### Status
 ACCEPTED

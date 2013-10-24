@@ -1,5 +1,4 @@
-Entoloma linkii (Fr.) Noordel. SPECIES
-=======
+# Entoloma linkii (Fr.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

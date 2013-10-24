@@ -1,5 +1,4 @@
-Bacillus insolitus Larkin and Stokes, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus insolitus Larkin and Stokes, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora cupressi Gucevic SPECIES
-=======
+# Rhabdospora cupressi Gucevic SPECIES
 
 #### Status
 ACCEPTED

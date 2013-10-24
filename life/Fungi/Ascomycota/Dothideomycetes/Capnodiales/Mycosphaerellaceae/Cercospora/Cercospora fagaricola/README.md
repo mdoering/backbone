@@ -1,5 +1,4 @@
-Cercospora fagaricola Sawada SPECIES
-=======
+# Cercospora fagaricola Sawada SPECIES
 
 #### Status
 ACCEPTED

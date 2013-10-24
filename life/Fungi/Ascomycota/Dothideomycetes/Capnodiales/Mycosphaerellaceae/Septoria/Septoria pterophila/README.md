@@ -1,5 +1,4 @@
-Septoria pterophila Sacc. SPECIES
-=======
+# Septoria pterophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella albida Massee SPECIES
-=======
+# Psathyrella albida Massee SPECIES
 
 #### Status
 ACCEPTED

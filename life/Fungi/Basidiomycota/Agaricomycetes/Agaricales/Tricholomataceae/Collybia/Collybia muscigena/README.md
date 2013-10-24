@@ -1,5 +1,4 @@
-Collybia muscigena (Schumach.) Sacc. SPECIES
-=======
+# Collybia muscigena (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

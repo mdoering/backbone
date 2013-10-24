@@ -1,17 +1,16 @@
-Flammula dactylicola J.E. Lange SPECIES
-=======
+# Gymnopilus flavus (Bres.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 636 (1951)
 
 #### Original name
-Flammula dactylicola J.E. Lange
+Naucoria flava Bres., 1905
 
 ### Remarks
 null

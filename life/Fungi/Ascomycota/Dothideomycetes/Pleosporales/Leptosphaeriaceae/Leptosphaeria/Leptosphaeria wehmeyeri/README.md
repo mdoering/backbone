@@ -1,5 +1,4 @@
-Leptosphaeria wehmeyeri Shoemaker SPECIES
-=======
+# Leptosphaeria wehmeyeri Shoemaker SPECIES
 
 #### Status
 ACCEPTED

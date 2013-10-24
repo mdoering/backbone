@@ -1,5 +1,4 @@
-Ascochyta andropogonivora (R. Sprague & Rogerson) Morgan-Jones SPECIES
-=======
+# Ascochyta andropogonivora (R. Sprague & Rogerson) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

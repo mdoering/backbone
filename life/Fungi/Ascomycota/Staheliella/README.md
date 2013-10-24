@@ -1,5 +1,4 @@
-Staheliella Emden GENUS
-=======
+# Staheliella Emden GENUS
 
 #### Status
 ACCEPTED

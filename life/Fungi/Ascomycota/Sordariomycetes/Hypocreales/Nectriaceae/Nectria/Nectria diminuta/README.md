@@ -1,5 +1,4 @@
-Nectria diminuta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Nectria diminuta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

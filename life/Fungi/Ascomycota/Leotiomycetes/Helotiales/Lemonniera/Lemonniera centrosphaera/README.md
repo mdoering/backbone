@@ -1,5 +1,4 @@
-Lemonniera centrosphaera Marvanová, 1968 SPECIES
-=======
+# Lemonniera centrosphaera Marvanová, 1968 SPECIES
 
 #### Status
 ACCEPTED

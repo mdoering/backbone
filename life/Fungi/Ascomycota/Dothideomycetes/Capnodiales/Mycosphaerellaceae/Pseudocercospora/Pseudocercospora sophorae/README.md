@@ -1,5 +1,4 @@
-Pseudocercospora sophorae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora sophorae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

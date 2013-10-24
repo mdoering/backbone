@@ -1,5 +1,4 @@
-Porina biroi (Szatala) P.M. McCarthy SPECIES
-=======
+# Porina biroi (Szatala) P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

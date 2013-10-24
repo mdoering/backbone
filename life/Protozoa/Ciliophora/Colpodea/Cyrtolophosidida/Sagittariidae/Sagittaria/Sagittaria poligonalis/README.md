@@ -1,5 +1,4 @@
-Sagittaria poligonalis Grandori & Grandori, 1934 SPECIES
-=======
+# Sagittaria poligonalis Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

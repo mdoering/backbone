@@ -1,5 +1,4 @@
-Sciniatosporium beshirii (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium beshirii (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

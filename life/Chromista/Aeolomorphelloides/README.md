@@ -1,5 +1,4 @@
-Aeolomorphelloides Fang, 1995 GENUS
-=======
+# Aeolomorphelloides Fang, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium pyrilobum Vaartaja, 1965 SPECIES
-=======
+# Pythium pyrilobum Vaartaja, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiospora urticae Rehm SPECIES
-=======
+# Apiospora urticae Rehm SPECIES
 
 #### Status
 ACCEPTED

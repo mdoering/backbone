@@ -1,5 +1,4 @@
-Jumillera J.D. Rogers, Y.M. Ju & F. San Martín GENUS
-=======
+# Jumillera J.D. Rogers, Y.M. Ju & F. San Martín GENUS
 
 #### Status
 ACCEPTED

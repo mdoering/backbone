@@ -1,5 +1,4 @@
-Puccinia betae-bengalensis Mundk. & Thirum. SPECIES
-=======
+# Puccinia betae-bengalensis Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

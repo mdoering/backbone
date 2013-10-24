@@ -1,5 +1,4 @@
-Coryneum microstictoides var. microstictoides VARIETY
-=======
+# Coryneum microstictoides Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coryneum microstictoides var. microstictoides
+Coryneum microstictoides Sacc. & Penz.
 
 ### Remarks
 null

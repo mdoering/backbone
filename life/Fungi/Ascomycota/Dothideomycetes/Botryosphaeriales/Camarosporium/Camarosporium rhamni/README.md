@@ -1,5 +1,4 @@
-Camarosporium rhamni Allesch. SPECIES
-=======
+# Camarosporium rhamni Allesch. SPECIES
 
 #### Status
 ACCEPTED

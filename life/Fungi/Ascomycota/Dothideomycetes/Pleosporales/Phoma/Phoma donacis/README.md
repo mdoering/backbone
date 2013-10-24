@@ -1,5 +1,4 @@
-Phoma donacis D. Sacc. SPECIES
-=======
+# Phoma donacis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

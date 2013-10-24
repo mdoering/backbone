@@ -1,5 +1,4 @@
-Asterina distincta Berk. SPECIES
-=======
+# Asterina distincta Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus arundinetum I.G. Borshch. SPECIES
-=======
+# Agaricus arundinetum I.G. Borshch. SPECIES
 
 #### Status
 ACCEPTED

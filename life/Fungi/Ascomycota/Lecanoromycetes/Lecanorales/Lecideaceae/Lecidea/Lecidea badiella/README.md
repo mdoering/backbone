@@ -1,5 +1,4 @@
-Lecidea badiella SPECIES
-=======
+# Lecidea badiella SPECIES
 
 #### Status
 ACCEPTED

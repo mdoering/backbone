@@ -1,5 +1,4 @@
-Navicella prominens (Peck) Kuntze SPECIES
-=======
+# Navicella prominens (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

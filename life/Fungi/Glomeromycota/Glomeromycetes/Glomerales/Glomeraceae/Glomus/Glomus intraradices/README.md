@@ -1,5 +1,4 @@
-Glomus intraradices N.C. Schenck & G.S. Sm. SPECIES
-=======
+# Glomus intraradices N.C. Schenck & G.S. Sm. SPECIES
 
 #### Status
 ACCEPTED

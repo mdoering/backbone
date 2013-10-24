@@ -1,5 +1,4 @@
-Phoma phomiformis Sacc. SPECIES
-=======
+# Phoma phomiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

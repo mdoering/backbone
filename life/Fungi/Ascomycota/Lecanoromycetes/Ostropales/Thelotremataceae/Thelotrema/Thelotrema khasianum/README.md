@@ -1,5 +1,4 @@
-Thelotrema khasianum Patw. & Nagarkar SPECIES
-=======
+# Thelotrema khasianum Patw. & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

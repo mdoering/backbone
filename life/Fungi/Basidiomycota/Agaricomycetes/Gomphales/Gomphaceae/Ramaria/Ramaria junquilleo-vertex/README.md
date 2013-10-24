@@ -1,5 +1,4 @@
-Ramaria junquilleo-vertex R.H. Petersen SPECIES
-=======
+# Ramaria junquilleo-vertex R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

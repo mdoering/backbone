@@ -1,5 +1,4 @@
-Schwartzia succinivorans van Gylswyk et al., 1997 SPECIES
-=======
+# Schwartzia succinivorans van Gylswyk et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

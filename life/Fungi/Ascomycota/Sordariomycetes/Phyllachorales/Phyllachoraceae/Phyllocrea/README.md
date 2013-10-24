@@ -1,5 +1,4 @@
-Phyllocrea Höhn. GENUS
-=======
+# Phyllocrea Höhn. GENUS
 
 #### Status
 ACCEPTED

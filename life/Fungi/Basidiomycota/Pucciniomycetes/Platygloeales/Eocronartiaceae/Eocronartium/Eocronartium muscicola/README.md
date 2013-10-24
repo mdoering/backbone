@@ -1,17 +1,16 @@
-Helicobasidium typhuloides var. typhuloides (G.F. Atk.) Pat. VARIETY
-=======
+# Eocronartium muscicola (Pers.) Fitzp., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 36: 176 (1920)
+Phytopathology 8: 197 (1918)
 
 #### Original name
-Helicobasidium typhuloides var. typhuloides (G.F. Atk.) Pat.
+null
 
 ### Remarks
 null

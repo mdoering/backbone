@@ -1,5 +1,4 @@
-Fulgensia chanousiae (Sambo) Poelt SPECIES
-=======
+# Fulgensia chanousiae (Sambo) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina heterospora (Fink ex J. Hedrick) R.C. Harris, 1980 SPECIES
-=======
+# Porina heterospora (Fink ex J. Hedrick) R.C. Harris, 1980 SPECIES
 
 #### Status
 DOUBTFUL

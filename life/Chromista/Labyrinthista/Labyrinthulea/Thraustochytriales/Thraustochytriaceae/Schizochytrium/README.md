@@ -1,5 +1,4 @@
-Schizochytrium S. Goldst. & Belsky GENUS
-=======
+# Schizochytrium S. Goldst. & Belsky GENUS
 
 #### Status
 ACCEPTED

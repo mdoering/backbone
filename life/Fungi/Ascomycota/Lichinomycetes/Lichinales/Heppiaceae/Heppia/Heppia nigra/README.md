@@ -1,5 +1,4 @@
-Heppia nigra (Hue) Zahlbr. SPECIES
-=======
+# Heppia nigra (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

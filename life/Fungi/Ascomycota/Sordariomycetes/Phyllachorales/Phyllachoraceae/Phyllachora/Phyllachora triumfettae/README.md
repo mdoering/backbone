@@ -1,5 +1,4 @@
-Phyllachora triumfettae Pat., 1892 SPECIES
-=======
+# Phyllachora triumfettae Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

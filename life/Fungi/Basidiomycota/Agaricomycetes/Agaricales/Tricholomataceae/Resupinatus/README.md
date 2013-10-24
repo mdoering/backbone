@@ -1,17 +1,16 @@
-Asterotus Singer GENUS
-=======
+# Resupinatus Nees ex Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 35(2): 161 (1943)
+null
 
 #### Original name
-Asterotus Singer
+null
 
 ### Remarks
 null

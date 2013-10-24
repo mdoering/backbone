@@ -1,5 +1,4 @@
-Lecanora dubyanoides (Hepp) Stizenb. SPECIES
-=======
+# Lecanora dubyanoides (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

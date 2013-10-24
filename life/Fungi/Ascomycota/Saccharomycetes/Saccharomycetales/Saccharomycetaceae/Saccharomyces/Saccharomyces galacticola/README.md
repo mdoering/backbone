@@ -1,5 +1,4 @@
-Saccharomyces galacticola Pirotta & Riboni SPECIES
-=======
+# Saccharomyces galacticola Pirotta & Riboni SPECIES
 
 #### Status
 ACCEPTED

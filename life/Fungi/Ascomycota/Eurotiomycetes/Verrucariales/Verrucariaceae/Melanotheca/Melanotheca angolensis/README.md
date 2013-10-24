@@ -1,5 +1,4 @@
-Melanotheca angolensis (Vain.) C.W. Dodge SPECIES
-=======
+# Melanotheca angolensis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

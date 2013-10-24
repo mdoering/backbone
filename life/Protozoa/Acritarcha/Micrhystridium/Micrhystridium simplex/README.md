@@ -1,5 +1,4 @@
-Micrhystridium simplex (Wicander, 1974) Eisenack et al., 1979 SPECIES
-=======
+# Micrhystridium simplex (Wicander, 1974) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

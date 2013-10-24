@@ -1,5 +1,4 @@
-Spongoxystris Sugiyama, 1997 GENUS
-=======
+# Spongoxystris Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

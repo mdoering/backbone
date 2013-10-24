@@ -1,5 +1,4 @@
-Diplodinula gallae (Ellis & Everh.) Tassi SPECIES
-=======
+# Diplodinula gallae (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

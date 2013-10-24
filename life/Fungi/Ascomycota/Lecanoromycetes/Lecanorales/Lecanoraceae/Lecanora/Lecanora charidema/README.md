@@ -1,5 +1,4 @@
-Lecanora charidema Colmeiro SPECIES
-=======
+# Lecanora charidema Colmeiro SPECIES
 
 #### Status
 ACCEPTED

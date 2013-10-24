@@ -1,5 +1,4 @@
-Umbillicaria polyrrhiza (L.) Fr. SPECIES
-=======
+# Umbillicaria polyrrhiza (L.) Fr. SPECIES
 
 #### Status
 DOUBTFUL

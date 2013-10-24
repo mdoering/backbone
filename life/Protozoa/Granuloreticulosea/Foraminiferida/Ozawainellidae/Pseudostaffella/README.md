@@ -1,5 +1,4 @@
-Pseudostaffella Thompson, 1942 GENUS
-=======
+# Pseudostaffella Thompson, 1942 GENUS
 
 #### Status
 ACCEPTED

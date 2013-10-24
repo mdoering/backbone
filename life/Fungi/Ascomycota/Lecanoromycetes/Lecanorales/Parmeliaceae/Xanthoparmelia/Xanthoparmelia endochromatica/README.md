@@ -1,5 +1,4 @@
-Xanthoparmelia endochromatica Hale SPECIES
-=======
+# Xanthoparmelia endochromatica Hale SPECIES
 
 #### Status
 ACCEPTED

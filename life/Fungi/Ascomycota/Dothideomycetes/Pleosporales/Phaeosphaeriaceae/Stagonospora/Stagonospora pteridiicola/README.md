@@ -1,5 +1,4 @@
-Stagonospora pteridiicola P.J. Fisher & Punith., 1993 SPECIES
-=======
+# Stagonospora pteridiicola P.J. Fisher & Punith., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizotrichaceae Elenkin, 1949 FAMILY
-=======
+# Schizotrichaceae Elenkin, 1949 FAMILY
 
 #### Status
 ACCEPTED

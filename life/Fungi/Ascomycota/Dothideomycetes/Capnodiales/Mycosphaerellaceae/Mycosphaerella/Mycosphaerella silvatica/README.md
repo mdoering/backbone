@@ -1,5 +1,4 @@
-Mycosphaerella silvatica (Sacc.) Petr. & Syd. SPECIES
-=======
+# Mycosphaerella silvatica (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

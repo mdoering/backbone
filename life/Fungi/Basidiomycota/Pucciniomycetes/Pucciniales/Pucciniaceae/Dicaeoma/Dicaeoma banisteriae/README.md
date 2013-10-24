@@ -1,5 +1,4 @@
-Dicaeoma banisteriae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma banisteriae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

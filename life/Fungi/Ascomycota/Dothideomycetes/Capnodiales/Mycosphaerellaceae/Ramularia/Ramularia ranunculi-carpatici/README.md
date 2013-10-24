@@ -1,5 +1,4 @@
-Ramularia ranunculi-carpatici Savul. & Sandu SPECIES
-=======
+# Ramularia ranunculi-carpatici Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

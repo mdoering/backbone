@@ -1,5 +1,4 @@
-Sphaerella quercifolia Gonz. Frag. SPECIES
-=======
+# Sphaerella quercifolia Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

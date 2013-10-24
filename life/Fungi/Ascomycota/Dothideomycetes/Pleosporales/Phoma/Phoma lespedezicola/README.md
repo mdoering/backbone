@@ -1,5 +1,4 @@
-Phoma lespedezicola Henn. SPECIES
-=======
+# Phoma lespedezicola Henn. SPECIES
 
 #### Status
 ACCEPTED

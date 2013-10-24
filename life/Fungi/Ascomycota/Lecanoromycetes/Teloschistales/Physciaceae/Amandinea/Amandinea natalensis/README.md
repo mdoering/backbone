@@ -1,5 +1,4 @@
-Amandinea natalensis (Vain.) Marbach SPECIES
-=======
+# Amandinea natalensis (Vain.) Marbach SPECIES
 
 #### Status
 ACCEPTED

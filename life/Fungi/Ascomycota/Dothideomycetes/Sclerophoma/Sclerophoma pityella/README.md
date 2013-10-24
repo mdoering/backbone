@@ -1,5 +1,4 @@
-Sclerophoma pityella (Sacc.) Died. SPECIES
-=======
+# Sclerophoma pityella (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

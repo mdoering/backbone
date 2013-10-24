@@ -1,5 +1,4 @@
-Oospora Sauvageau & Radais, 1892 GENUS
-=======
+# Oospora Sauvageau & Radais, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopteris nigricans Womersley SPECIES
-=======
+# Dictyopteris nigricans Womersley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea caricis-albae (Syd.) Kukkonen SPECIES
-=======
+# Anthracoidea caricis-albae (Syd.) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

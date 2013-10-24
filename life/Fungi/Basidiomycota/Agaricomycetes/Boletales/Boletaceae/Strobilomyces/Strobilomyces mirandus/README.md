@@ -1,5 +1,4 @@
-Strobilomyces mirandus Corner SPECIES
-=======
+# Strobilomyces mirandus Corner SPECIES
 
 #### Status
 ACCEPTED

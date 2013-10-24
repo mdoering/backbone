@@ -1,5 +1,4 @@
-Pseudomonas lundensis Molin et al., 1986 SPECIES
-=======
+# Pseudomonas lundensis Molin et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

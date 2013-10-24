@@ -1,5 +1,4 @@
-Sargassum kushimotense Yendo SPECIES
-=======
+# Sargassum kushimotense Yendo SPECIES
 
 #### Status
 ACCEPTED

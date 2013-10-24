@@ -1,5 +1,4 @@
-Cladonia schofieldii Brodo & Ahti SPECIES
-=======
+# Cladonia schofieldii Brodo & Ahti SPECIES
 
 #### Status
 ACCEPTED

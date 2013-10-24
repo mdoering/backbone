@@ -1,5 +1,4 @@
-Saccharomyces aquifolii Grønlund SPECIES
-=======
+# Saccharomyces aquifolii Grønlund SPECIES
 
 #### Status
 ACCEPTED

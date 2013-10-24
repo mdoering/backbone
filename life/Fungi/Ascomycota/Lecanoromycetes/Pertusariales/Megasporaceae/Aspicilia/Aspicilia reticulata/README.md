@@ -1,5 +1,4 @@
-Aspicilia reticulata var. turgida (J. Steiner) Szatala VARIETY
-=======
+# Aspicilia reticulata Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Aspicilia reticulata Rehm
 
 ### Remarks
 null

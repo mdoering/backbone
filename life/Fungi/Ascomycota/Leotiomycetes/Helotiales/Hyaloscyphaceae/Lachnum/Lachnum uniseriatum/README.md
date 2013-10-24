@@ -1,5 +1,4 @@
-Lachnum uniseriatum Velen. SPECIES
-=======
+# Lachnum uniseriatum Velen. SPECIES
 
 #### Status
 ACCEPTED

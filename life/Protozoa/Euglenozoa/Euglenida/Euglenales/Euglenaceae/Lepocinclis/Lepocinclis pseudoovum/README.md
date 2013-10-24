@@ -1,5 +1,4 @@
-Lepocinclis pseudoovum var. drezepolskiana Conrad VARIETY
-=======
+# Lepocinclis pseudoovum Conrad SPECIES
 
 #### Status
 ACCEPTED

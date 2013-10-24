@@ -1,5 +1,4 @@
-Lalaria tosquinetii R.T. Moore SPECIES
-=======
+# Lalaria tosquinetii R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotrys globosa P.C. Misra & S.K. Srivast. SPECIES
-=======
+# Stachybotrys globosa P.C. Misra & S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

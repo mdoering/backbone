@@ -1,5 +1,4 @@
-Diplodia otthiana Allesch. SPECIES
-=======
+# Diplodia otthiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

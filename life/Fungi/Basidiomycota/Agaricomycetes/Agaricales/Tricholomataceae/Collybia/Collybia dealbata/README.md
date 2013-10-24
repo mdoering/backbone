@@ -1,5 +1,4 @@
-Collybia dealbata (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia dealbata (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveolophragmium orbiculatum Stschedrine, 1936 SPECIES
-=======
+# Alveolophragmium orbiculatum Stschedrine, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago aschersoniana A.A. Fisch. Waldh., 1879 SPECIES
-=======
+# Ustilago aschersoniana A.A. Fisch. Waldh., 1879 SPECIES
 
 #### Status
 ACCEPTED

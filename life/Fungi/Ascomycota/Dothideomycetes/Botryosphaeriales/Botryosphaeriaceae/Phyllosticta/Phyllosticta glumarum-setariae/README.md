@@ -1,5 +1,4 @@
-Phyllosticta glumarum-setariae Henn. SPECIES
-=======
+# Phyllosticta glumarum-setariae Henn. SPECIES
 
 #### Status
 ACCEPTED

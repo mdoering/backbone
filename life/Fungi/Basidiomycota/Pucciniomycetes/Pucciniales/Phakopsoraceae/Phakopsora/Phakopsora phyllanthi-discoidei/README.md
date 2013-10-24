@@ -1,5 +1,4 @@
-Phakopsora phyllanthi-discoidei Vienn.-Bourg. SPECIES
-=======
+# Phakopsora phyllanthi-discoidei Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

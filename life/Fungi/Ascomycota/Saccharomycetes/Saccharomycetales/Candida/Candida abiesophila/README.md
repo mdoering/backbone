@@ -1,5 +1,4 @@
-Candida abiesophila Kurtzman SPECIES
-=======
+# Candida abiesophila Kurtzman SPECIES
 
 #### Status
 ACCEPTED

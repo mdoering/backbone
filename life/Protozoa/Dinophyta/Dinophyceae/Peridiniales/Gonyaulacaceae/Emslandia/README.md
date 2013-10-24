@@ -1,5 +1,4 @@
-Emslandia Gerlach, 1961 GENUS
-=======
+# Emslandia Gerlach, 1961 GENUS
 
 #### Status
 ACCEPTED

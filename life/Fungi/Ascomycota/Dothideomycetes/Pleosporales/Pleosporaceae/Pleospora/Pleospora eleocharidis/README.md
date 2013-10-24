@@ -1,5 +1,4 @@
-Pleospora eleocharidis var. eleocharidis VARIETY
-=======
+# Pleospora eleocharidis Plowr. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycoth. fenn. (Helsinki) 2: 72 (1873)
 
 #### Original name
-Pleospora eleocharidis var. eleocharidis
+Pleospora eleocharidis Plowr. & Cooke
 
 ### Remarks
 null

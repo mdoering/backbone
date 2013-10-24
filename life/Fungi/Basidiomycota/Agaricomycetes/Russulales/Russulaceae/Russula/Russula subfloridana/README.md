@@ -1,5 +1,4 @@
-Russula subfloridana Murrill SPECIES
-=======
+# Russula subfloridana Murrill SPECIES
 
 #### Status
 ACCEPTED

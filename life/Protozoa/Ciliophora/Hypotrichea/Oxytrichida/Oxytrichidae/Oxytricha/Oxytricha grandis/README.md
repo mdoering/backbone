@@ -1,5 +1,4 @@
-Oxytricha grandis Maupas SPECIES
-=======
+# Oxytricha grandis Maupas SPECIES
 
 #### Status
 ACCEPTED

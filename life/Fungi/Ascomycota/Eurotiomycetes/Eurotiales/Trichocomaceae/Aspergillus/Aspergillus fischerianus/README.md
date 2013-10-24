@@ -1,5 +1,4 @@
-Aspergillus fischerianus Samson & W. Gams SPECIES
-=======
+# Aspergillus fischerianus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

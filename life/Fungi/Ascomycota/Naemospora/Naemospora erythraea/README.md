@@ -1,5 +1,4 @@
-Naemospora erythraea Berk. & M.A. Curtis SPECIES
-=======
+# Naemospora erythraea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola africana Hansf. SPECIES
-=======
+# Meliola africana Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium maculatum Makhija & Patw. SPECIES
-=======
+# Arthothelium maculatum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

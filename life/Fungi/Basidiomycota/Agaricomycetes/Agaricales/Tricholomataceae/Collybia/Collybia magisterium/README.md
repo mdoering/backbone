@@ -1,5 +1,4 @@
-Collybia magisterium Berk. & Broome SPECIES
-=======
+# Collybia magisterium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

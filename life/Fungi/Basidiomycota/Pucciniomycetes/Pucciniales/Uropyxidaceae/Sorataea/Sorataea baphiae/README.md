@@ -1,14 +1,13 @@
-Puccinia baphiae Vienn.-Bourg., 1952 SPECIES
-=======
+# Sorataea baphiae (Vienn.-Bourg.) Savile, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 67: 431 (1952)
+Mycologia 63(5): 1090 (1971)
 
 #### Original name
 Puccinia baphiae Vienn.-Bourg., 1952

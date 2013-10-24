@@ -1,5 +1,4 @@
-Septoria hippophaës Roberge ex Desm. SPECIES
-=======
+# Septoria hippophaës Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

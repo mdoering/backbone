@@ -1,5 +1,4 @@
-Exosporium puccinioides (Speg.) F. Anderson, Bianchin. & U. Braun SPECIES
-=======
+# Exosporium puccinioides (Speg.) F. Anderson, Bianchin. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe squarrosipes Singer SPECIES
-=======
+# Psilocybe squarrosipes Singer SPECIES
 
 #### Status
 ACCEPTED

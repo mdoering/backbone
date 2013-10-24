@@ -1,5 +1,4 @@
-Platysma nephromoides Nyl. SPECIES
-=======
+# Platysma nephromoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

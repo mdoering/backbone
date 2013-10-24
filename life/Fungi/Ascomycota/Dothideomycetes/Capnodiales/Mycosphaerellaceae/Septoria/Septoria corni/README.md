@@ -1,5 +1,4 @@
-Septoria corni Niessl SPECIES
-=======
+# Septoria corni Niessl SPECIES
 
 #### Status
 ACCEPTED

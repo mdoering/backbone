@@ -1,5 +1,4 @@
-Bulgaria spongiosa Peck SPECIES
-=======
+# Bulgaria spongiosa Peck SPECIES
 
 #### Status
 ACCEPTED

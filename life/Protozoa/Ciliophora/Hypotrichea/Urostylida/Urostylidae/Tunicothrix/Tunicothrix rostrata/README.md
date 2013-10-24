@@ -1,5 +1,4 @@
-Tunicothrix rostrata Xu, Lei & Choi, 2006 SPECIES
-=======
+# Tunicothrix rostrata Xu, Lei & Choi, 2006 SPECIES
 
 #### Status
 ACCEPTED

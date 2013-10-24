@@ -1,5 +1,4 @@
-Gloeoporus umbrinus Corner, 1989 SPECIES
-=======
+# Gloeoporus umbrinus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

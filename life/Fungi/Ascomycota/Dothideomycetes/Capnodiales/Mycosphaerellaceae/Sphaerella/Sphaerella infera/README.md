@@ -1,5 +1,4 @@
-Sphaerella infera P. Karst. SPECIES
-=======
+# Sphaerella infera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

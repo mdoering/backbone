@@ -1,5 +1,4 @@
-Biatora similis A. Massal. SPECIES
-=======
+# Biatora similis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

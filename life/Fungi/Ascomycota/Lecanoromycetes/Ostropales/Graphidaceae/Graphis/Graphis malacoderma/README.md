@@ -1,5 +1,4 @@
-Graphis malacoderma Vain. SPECIES
-=======
+# Graphis malacoderma Vain. SPECIES
 
 #### Status
 ACCEPTED

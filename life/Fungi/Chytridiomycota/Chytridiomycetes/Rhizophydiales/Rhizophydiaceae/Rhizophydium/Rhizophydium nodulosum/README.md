@@ -1,5 +1,4 @@
-Rhizophydium nodulosum Karling, 1948 SPECIES
-=======
+# Rhizophydium nodulosum Karling, 1948 SPECIES
 
 #### Status
 ACCEPTED

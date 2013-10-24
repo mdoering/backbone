@@ -1,17 +1,16 @@
-Gymnopus impudicus var. impudicus VARIETY
-=======
+# Gymnopus impudicus (Fr.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 364 (1997)
 
 #### Original name
-null
+Marasmius impudicus Fr., 1838
 
 ### Remarks
 null

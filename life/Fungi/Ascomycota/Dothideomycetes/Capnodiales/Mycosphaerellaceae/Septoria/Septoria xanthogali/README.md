@@ -1,5 +1,4 @@
-Septoria xanthogali Mekht. SPECIES
-=======
+# Septoria xanthogali Mekht. SPECIES
 
 #### Status
 ACCEPTED

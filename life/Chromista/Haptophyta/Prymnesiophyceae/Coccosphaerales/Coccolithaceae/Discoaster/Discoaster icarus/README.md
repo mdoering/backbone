@@ -1,5 +1,4 @@
-Discoaster icarus H. Stradner SPECIES
-=======
+# Discoaster icarus H. Stradner SPECIES
 
 #### Status
 ACCEPTED

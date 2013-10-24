@@ -1,5 +1,4 @@
-Psathyrella dichroma (Berk. & M.A. Curtis) A.H. Sm. SPECIES
-=======
+# Psathyrella dichroma (Berk. & M.A. Curtis) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

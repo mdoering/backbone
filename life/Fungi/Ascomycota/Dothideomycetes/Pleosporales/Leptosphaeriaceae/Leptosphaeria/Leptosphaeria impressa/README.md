@@ -1,5 +1,4 @@
-Leptosphaeria impressa (Preuss) Sacc. SPECIES
-=======
+# Leptosphaeria impressa (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

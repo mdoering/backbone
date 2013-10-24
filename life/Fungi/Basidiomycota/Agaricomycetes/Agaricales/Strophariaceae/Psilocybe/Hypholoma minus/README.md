@@ -1,5 +1,4 @@
-Hypholoma minus Velen. SPECIES
-=======
+# Hypholoma minus Velen. SPECIES
 
 #### Status
 ACCEPTED

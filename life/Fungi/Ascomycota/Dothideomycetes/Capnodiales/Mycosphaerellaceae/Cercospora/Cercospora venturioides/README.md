@@ -1,5 +1,4 @@
-Cercospora venturioides Peck SPECIES
-=======
+# Cercospora venturioides Peck SPECIES
 
 #### Status
 ACCEPTED

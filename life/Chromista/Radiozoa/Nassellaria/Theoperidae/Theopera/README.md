@@ -1,5 +1,4 @@
-Theopera Haeckel, 1881 GENUS
-=======
+# Theopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

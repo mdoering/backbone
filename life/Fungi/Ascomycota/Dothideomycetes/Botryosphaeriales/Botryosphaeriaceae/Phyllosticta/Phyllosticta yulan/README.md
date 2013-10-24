@@ -1,5 +1,4 @@
-Phyllosticta yulan Tassi SPECIES
-=======
+# Phyllosticta yulan Tassi SPECIES
 
 #### Status
 ACCEPTED

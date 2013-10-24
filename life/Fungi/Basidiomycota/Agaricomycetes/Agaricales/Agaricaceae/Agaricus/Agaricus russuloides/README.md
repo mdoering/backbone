@@ -1,5 +1,4 @@
-Agaricus russuloides Peck SPECIES
-=======
+# Agaricus russuloides Peck SPECIES
 
 #### Status
 ACCEPTED

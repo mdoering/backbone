@@ -1,5 +1,4 @@
-Clisosporium olivaceum Bonord. SPECIES
-=======
+# Clisosporium olivaceum Bonord. SPECIES
 
 #### Status
 ACCEPTED

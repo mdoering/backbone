@@ -1,5 +1,4 @@
-Trochila ignobilis P. Karst. SPECIES
-=======
+# Trochila ignobilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

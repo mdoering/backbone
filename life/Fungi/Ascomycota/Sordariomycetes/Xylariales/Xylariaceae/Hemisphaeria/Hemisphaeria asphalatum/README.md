@@ -1,5 +1,4 @@
-Hemisphaeria asphalatum (Link & Fr.) Kuntze SPECIES
-=======
+# Hemisphaeria asphalatum (Link & Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

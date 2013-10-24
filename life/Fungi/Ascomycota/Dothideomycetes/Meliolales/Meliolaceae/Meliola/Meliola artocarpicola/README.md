@@ -1,5 +1,4 @@
-Meliola artocarpicola F. Stevens ex Hansf. SPECIES
-=======
+# Meliola artocarpicola F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

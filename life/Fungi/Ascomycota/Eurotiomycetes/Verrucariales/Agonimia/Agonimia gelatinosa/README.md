@@ -1,17 +1,16 @@
-Verrucaria nigrata Nyl. SPECIES
-=======
+# Agonimia gelatinosa (Ach.) M. Brand & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Act. Soc. linn. Bordeaux 21: 430 (1856)
+in Sérusiaux, Diederich, Brand & van den Boom, Lejeunia, n. s. 162: 6 (1999)
 
 #### Original name
-Verrucaria nigrata Nyl.
+Verrucaria gelatinosa Ach.
 
 ### Remarks
 null

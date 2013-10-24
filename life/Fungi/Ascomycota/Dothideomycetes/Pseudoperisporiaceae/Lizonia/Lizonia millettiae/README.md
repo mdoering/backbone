@@ -1,5 +1,4 @@
-Lizonia millettiae Sawada SPECIES
-=======
+# Lizonia millettiae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Peziza mercurialis (Fuckel) Stev. SPECIES
-=======
+# Pyrenopeziza mercurialis (Fuckel) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

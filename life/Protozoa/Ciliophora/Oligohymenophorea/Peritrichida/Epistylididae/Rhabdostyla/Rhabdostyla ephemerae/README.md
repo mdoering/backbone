@@ -1,5 +1,4 @@
-Rhabdostyla ephemerae Kahl, 1935 SPECIES
-=======
+# Rhabdostyla ephemerae Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

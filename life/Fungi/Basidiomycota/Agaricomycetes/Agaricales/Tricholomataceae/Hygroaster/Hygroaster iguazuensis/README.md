@@ -1,5 +1,4 @@
-Hygroaster iguazuensis B.E. Lechner & J.E. Wright SPECIES
-=======
+# Hygroaster iguazuensis B.E. Lechner & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

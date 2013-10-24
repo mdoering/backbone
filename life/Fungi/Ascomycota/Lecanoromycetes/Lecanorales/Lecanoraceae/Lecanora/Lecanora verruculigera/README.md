@@ -1,5 +1,4 @@
-Lecanora verruculigera Hue SPECIES
-=======
+# Lecanora verruculigera Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus irregularis Huber SPECIES
-=======
+# Chroococcus irregularis Huber SPECIES
 
 #### Status
 ACCEPTED

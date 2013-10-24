@@ -1,5 +1,4 @@
-Leightonia GENUS
-=======
+# Leightonia GENUS
 
 #### Status
 ACCEPTED

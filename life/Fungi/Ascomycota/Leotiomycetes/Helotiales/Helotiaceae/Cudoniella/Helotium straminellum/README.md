@@ -1,5 +1,4 @@
-Helotium straminellum P. Karst. SPECIES
-=======
+# Helotium straminellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

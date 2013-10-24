@@ -1,5 +1,4 @@
-Paramaecium solea SPECIES
-=======
+# Paramaecium solea SPECIES
 
 #### Status
 ACCEPTED

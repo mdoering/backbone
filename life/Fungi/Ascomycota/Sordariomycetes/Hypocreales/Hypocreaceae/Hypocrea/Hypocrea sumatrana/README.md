@@ -1,5 +1,4 @@
-Hypocrea sumatrana (Boedijn) H.L. Chamb. SPECIES
-=======
+# Hypocrea sumatrana (Boedijn) H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

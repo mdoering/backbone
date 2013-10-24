@@ -1,5 +1,4 @@
-Ramularia angustissima Sacc. SPECIES
-=======
+# Ramularia angustissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

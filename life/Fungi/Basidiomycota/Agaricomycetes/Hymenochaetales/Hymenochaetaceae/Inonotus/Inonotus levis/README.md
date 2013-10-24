@@ -1,5 +1,4 @@
-Inonotus levis P. Karst. SPECIES
-=======
+# Inonotus levis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

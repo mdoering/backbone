@@ -1,5 +1,4 @@
-Fungus sanguineus Boccone SPECIES
-=======
+# Fungus sanguineus Boccone SPECIES
 
 #### Status
 ACCEPTED

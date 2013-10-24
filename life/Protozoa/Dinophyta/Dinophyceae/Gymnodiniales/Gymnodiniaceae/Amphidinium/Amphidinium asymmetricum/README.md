@@ -1,5 +1,4 @@
-Amphidinium asymmetricum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium asymmetricum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

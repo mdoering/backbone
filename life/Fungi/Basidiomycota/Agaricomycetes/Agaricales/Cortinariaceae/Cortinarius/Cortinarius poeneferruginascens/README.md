@@ -1,5 +1,4 @@
-Cortinarius poeneferruginascens Rob. Henry SPECIES
-=======
+# Cortinarius poeneferruginascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

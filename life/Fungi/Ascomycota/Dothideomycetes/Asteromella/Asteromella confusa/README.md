@@ -1,5 +1,4 @@
-Asteromella confusa (Bubák) Petr. SPECIES
-=======
+# Asteromella confusa (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

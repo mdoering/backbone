@@ -1,5 +1,4 @@
-Melanoleuca subrimosa Murrill SPECIES
-=======
+# Melanoleuca subrimosa Murrill SPECIES
 
 #### Status
 ACCEPTED

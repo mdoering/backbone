@@ -1,5 +1,4 @@
-Lepiota subradicans Beeli SPECIES
-=======
+# Lepiota subradicans Beeli SPECIES
 
 #### Status
 ACCEPTED

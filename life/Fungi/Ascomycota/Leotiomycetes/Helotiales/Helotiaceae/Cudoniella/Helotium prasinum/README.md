@@ -1,5 +1,4 @@
-Helotium prasinum Massee SPECIES
-=======
+# Helotium prasinum Massee SPECIES
 
 #### Status
 ACCEPTED

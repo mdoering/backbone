@@ -1,5 +1,4 @@
-Mollisia pallida Feltgen SPECIES
-=======
+# Mollisia pallida Feltgen SPECIES
 
 #### Status
 ACCEPTED

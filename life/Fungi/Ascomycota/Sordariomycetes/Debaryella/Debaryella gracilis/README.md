@@ -1,14 +1,13 @@
-Conioscyphascus gracilis (Munk) Réblová & Seifert, 2004 SPECIES
-=======
+# Debaryella gracilis Munk, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 50(1): 104 (2004)
+Bot. Tidsskr. 51: 226 (1954)
 
 #### Original name
 Debaryella gracilis Munk, 1954

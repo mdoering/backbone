@@ -1,5 +1,4 @@
-Lecanora zahlbruckneri Lynge SPECIES
-=======
+# Lecanora zahlbruckneri Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces bicolor Thaxt. SPECIES
-=======
+# Chitonomyces bicolor Thaxt. SPECIES
 
 #### Status
 ACCEPTED

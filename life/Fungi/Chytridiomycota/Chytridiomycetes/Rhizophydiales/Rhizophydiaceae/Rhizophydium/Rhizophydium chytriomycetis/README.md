@@ -1,5 +1,4 @@
-Rhizophydium chytriomycetis Karling, 1946 SPECIES
-=======
+# Rhizophydium chytriomycetis Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

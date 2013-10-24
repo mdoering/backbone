@@ -1,5 +1,4 @@
-Aecidium huallagense Henn. SPECIES
-=======
+# Aecidium huallagense Henn. SPECIES
 
 #### Status
 ACCEPTED

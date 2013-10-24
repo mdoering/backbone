@@ -1,5 +1,4 @@
-Mycena apiculispora Corner SPECIES
-=======
+# Mycena apiculispora Corner SPECIES
 
 #### Status
 ACCEPTED

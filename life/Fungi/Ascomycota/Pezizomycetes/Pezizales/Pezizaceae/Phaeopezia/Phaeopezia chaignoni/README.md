@@ -1,5 +1,4 @@
-Phaeopezia chaignoni (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeopezia chaignoni (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

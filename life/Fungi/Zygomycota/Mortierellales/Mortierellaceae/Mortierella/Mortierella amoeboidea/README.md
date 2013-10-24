@@ -1,5 +1,4 @@
-Mortierella amoeboidea W. Gams, 1976 SPECIES
-=======
+# Mortierella amoeboidea W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

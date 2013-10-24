@@ -1,5 +1,4 @@
-Microthelia collemaria Linds. SPECIES
-=======
+# Microthelia collemaria Linds. SPECIES
 
 #### Status
 ACCEPTED

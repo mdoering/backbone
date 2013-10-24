@@ -1,5 +1,4 @@
-Dimorphomyces bledii Thaxt. SPECIES
-=======
+# Dimorphomyces bledii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

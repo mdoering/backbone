@@ -1,5 +1,4 @@
-Genabea spinospora (Gilkey) Trappe SPECIES
-=======
+# Genabea spinospora (Gilkey) Trappe SPECIES
 
 #### Status
 ACCEPTED

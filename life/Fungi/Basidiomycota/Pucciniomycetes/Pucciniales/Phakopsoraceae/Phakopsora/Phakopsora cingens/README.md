@@ -1,14 +1,13 @@
-Melampsora cingens Syd. & P. Syd., 1911 SPECIES
-=======
+# Phakopsora cingens (Syd. & P. Syd.) Hirats., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 9: 143 (1911)
+Bot. Mag. , Tokyo 1: 2 (1936)
 
 #### Original name
 Melampsora cingens Syd. & P. Syd., 1911

@@ -1,5 +1,4 @@
-Plagiographis rubrica C. Knight SPECIES
-=======
+# Plagiographis rubrica C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeropsis necatrix Petri & Adami, 1916 SPECIES
-=======
+# Sphaeropsis necatrix Petri & Adami, 1916 SPECIES
 
 #### Status
 ACCEPTED

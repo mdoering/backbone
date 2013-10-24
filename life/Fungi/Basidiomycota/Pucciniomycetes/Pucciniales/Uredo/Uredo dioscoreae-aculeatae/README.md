@@ -1,5 +1,4 @@
-Uredo dioscoreae-aculeatae Racib. SPECIES
-=======
+# Uredo dioscoreae-aculeatae Racib. SPECIES
 
 #### Status
 ACCEPTED

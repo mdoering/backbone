@@ -1,5 +1,4 @@
-Terana rubrocana (Thüm.) Kuntze SPECIES
-=======
+# Terana rubrocana (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

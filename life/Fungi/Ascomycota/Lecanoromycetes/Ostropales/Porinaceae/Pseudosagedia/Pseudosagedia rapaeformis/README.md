@@ -1,5 +1,4 @@
-Pseudosagedia rapaeformis (Vain.) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia rapaeformis (Vain.) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

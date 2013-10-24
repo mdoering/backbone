@@ -1,5 +1,4 @@
-Dictyosporites morularis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites morularis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peritromus minor Ozaki & Yagiu, 1941 SPECIES
-=======
+# Peritromus minor Ozaki & Yagiu, 1941 SPECIES
 
 #### Status
 ACCEPTED

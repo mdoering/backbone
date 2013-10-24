@@ -1,5 +1,4 @@
-Meliola gamsii Hosag. & Shiburaj SPECIES
-=======
+# Meliola gamsii Hosag. & Shiburaj SPECIES
 
 #### Status
 ACCEPTED

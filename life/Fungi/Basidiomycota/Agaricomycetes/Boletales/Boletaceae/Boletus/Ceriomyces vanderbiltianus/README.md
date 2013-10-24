@@ -1,5 +1,4 @@
-Ceriomyces vanderbiltianus (Murrill) Murrill SPECIES
-=======
+# Ceriomyces vanderbiltianus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

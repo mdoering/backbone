@@ -1,5 +1,4 @@
-Phoma vasinfecta Boerema, Gruyter & Kesteren, 1994 SPECIES
-=======
+# Phoma vasinfecta Boerema, Gruyter & Kesteren, 1994 SPECIES
 
 #### Status
 ACCEPTED

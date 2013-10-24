@@ -1,5 +1,4 @@
-Placodiomyces saxicoli E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Placodiomyces saxicoli E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium firmulum P. Karst. SPECIES
-=======
+# Helotium firmulum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

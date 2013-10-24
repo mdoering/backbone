@@ -1,14 +1,13 @@
-Langeronia soudanensis (Joyeux) Vanbreus., 1950 SPECIES
-=======
+# Trichophyton soudanense Joyeux, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. belg. Méd. trop. 30: 888 (1950)
+C. r. Seanc. Soc. Biol. 73: 15 (1912)
 
 #### Original name
 Trichophyton soudanense Joyeux, 1912

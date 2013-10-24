@@ -1,5 +1,4 @@
-Flavobacterium yabuuchiae Holmes et al., 1988 SPECIES
-=======
+# Flavobacterium yabuuchiae Holmes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

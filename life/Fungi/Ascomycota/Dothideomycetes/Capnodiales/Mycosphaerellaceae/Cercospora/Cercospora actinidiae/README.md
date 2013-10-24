@@ -1,5 +1,4 @@
-Cercospora actinidiae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercospora actinidiae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

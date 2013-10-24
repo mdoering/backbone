@@ -1,5 +1,4 @@
-Tapesia corni f. corni FORM
-=======
+# Tapesia corni Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 179 (1939)
 
 #### Original name
-Tapesia corni f. corni
+Tapesia corni Velen.
 
 ### Remarks
 null

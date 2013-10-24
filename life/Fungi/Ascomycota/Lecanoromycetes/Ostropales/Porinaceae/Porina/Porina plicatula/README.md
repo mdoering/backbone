@@ -1,5 +1,4 @@
-Porina plicatula Müll. Arg. SPECIES
-=======
+# Porina plicatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

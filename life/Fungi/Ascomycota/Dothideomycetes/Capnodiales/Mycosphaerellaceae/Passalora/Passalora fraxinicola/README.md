@@ -1,5 +1,4 @@
-Passalora fraxinicola (Ershad) U. Braun & Crous SPECIES
-=======
+# Passalora fraxinicola (Ershad) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

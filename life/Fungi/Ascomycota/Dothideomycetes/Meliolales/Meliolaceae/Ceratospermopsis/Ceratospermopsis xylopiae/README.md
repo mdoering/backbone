@@ -1,5 +1,4 @@
-Ceratospermopsis xylopiae Bat., 1951 SPECIES
-=======
+# Ceratospermopsis xylopiae Bat., 1951 SPECIES
 
 #### Status
 ACCEPTED

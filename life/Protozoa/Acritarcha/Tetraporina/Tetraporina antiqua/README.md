@@ -1,5 +1,4 @@
-Tetraporina antiqua Naumova, 1950 SPECIES
-=======
+# Tetraporina antiqua Naumova, 1950 SPECIES
 
 #### Status
 ACCEPTED

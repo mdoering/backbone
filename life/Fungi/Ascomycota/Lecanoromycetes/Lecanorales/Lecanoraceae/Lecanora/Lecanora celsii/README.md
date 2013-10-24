@@ -1,5 +1,4 @@
-Lecanora celsii var. celsii VARIETY
-=======
+# Lecanora celsii Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora celsii var. celsii
+Lecanora celsii Lynge
 
 ### Remarks
 null

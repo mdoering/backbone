@@ -1,5 +1,4 @@
-Mycothyridium pakistani (E. Müll. & S. Ahmad) E. Müll. & S. Ahmad SPECIES
-=======
+# Mycothyridium pakistani (E. Müll. & S. Ahmad) E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius rubi Kalamees SPECIES
-=======
+# Marasmius rubi Kalamees SPECIES
 
 #### Status
 ACCEPTED

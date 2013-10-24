@@ -1,5 +1,4 @@
-Weissella minor (Kandler et al., 1983) Collins et al., 1994 SPECIES
-=======
+# Weissella minor (Kandler et al., 1983) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

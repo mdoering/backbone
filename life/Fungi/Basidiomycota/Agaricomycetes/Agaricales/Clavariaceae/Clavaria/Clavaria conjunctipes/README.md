@@ -1,5 +1,4 @@
-Clavaria conjunctipes var. conjunctipes VARIETY
-=======
+# Clavaria conjunctipes Coker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The Clavarias of the United States and Canada 131 (1923)
 
 #### Original name
-Clavaria conjunctipes var. conjunctipes
+Clavaria conjunctipes Coker
 
 ### Remarks
 null

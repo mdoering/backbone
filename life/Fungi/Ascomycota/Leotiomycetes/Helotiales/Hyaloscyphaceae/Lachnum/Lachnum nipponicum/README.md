@@ -1,5 +1,4 @@
-Lachnum nipponicum J.H. Haines & S. Kaneko, 1984 SPECIES
-=======
+# Lachnum nipponicum J.H. Haines & S. Kaneko, 1984 SPECIES
 
 #### Status
 ACCEPTED

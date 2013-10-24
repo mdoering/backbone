@@ -1,8 +1,7 @@
-Parmelia berteri Spreng. SPECIES
-=======
+# Parmelia berterii Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia berteri Spreng.
+Parmelia berterii Spreng.
 
 ### Remarks
 null

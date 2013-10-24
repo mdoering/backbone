@@ -1,5 +1,4 @@
-Cortinarius fuscoruber Reumaux SPECIES
-=======
+# Cortinarius fuscoruber Reumaux SPECIES
 
 #### Status
 ACCEPTED

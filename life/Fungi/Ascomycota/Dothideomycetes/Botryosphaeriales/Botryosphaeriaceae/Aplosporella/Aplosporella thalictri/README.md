@@ -1,5 +1,4 @@
-Aplosporella thalictri (Ellis & Fairm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella thalictri (Ellis & Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

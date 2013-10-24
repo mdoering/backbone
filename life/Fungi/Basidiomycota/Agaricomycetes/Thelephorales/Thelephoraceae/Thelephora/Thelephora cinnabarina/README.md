@@ -1,5 +1,4 @@
-Thelephora cinnabarina Schwein. SPECIES
-=======
+# Thelephora cinnabarina Schwein. SPECIES
 
 #### Status
 ACCEPTED

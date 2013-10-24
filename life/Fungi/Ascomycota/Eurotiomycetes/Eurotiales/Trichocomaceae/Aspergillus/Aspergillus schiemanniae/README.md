@@ -1,17 +1,16 @@
-Aspergillus schiemanni Thom SPECIES
-=======
+# Aspergillus schiemanniae Thom SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Thom & Currie, Journal of Agricultural Research 7: 11 (1916)
 
 #### Original name
-Aspergillus schiemanni Thom
+Aspergillus fuscus Bonord.
 
 ### Remarks
 null

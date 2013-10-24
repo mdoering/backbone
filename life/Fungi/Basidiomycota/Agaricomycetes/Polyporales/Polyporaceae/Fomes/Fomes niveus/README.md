@@ -1,5 +1,4 @@
-Fomes niveus (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Fomes niveus (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

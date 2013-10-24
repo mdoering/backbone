@@ -1,17 +1,16 @@
-Mycena pseudolactea Kühner SPECIES
-=======
+# Hemimycena pseudolactea (Kühner) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
-null
+Mycena pseudolactea Kühner, 1938
 
 ### Remarks
 null

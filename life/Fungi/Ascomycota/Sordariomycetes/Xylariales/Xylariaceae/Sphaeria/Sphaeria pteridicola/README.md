@@ -1,5 +1,4 @@
-Sphaeria pteridicola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria pteridicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia ferganensis Tomin SPECIES
-=======
+# Buellia ferganensis Tomin SPECIES
 
 #### Status
 ACCEPTED

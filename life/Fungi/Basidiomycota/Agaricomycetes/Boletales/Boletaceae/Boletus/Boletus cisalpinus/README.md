@@ -1,5 +1,4 @@
-Boletus cisalpinus (Simonini, H. Ladurner & Peintner) Watling & A.E. Hills, 2004 SPECIES
-=======
+# Boletus cisalpinus (Simonini, H. Ladurner & Peintner) Watling & A.E. Hills, 2004 SPECIES
 
 #### Status
 ACCEPTED

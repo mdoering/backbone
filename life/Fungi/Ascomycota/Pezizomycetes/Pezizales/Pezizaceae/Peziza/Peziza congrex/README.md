@@ -1,14 +1,13 @@
-Aleuria congrex (P. Karst.) Svrcek, 1981 SPECIES
-=======
+# Peziza congrex P. Karst., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 35(1): 23 (1981)
+in Thümen, Mycotheca universalis no. 717 (1885)
 
 #### Original name
 Peziza congrex P. Karst., 1885

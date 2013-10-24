@@ -1,8 +1,7 @@
-Hanzawaia coronata (Heron-Allen & Earland, 1932) SPECIES
-=======
+# Colonimilesia coronata (Heron-Allen & Earland, 1932) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

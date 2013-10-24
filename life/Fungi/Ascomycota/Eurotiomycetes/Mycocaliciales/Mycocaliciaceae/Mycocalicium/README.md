@@ -1,5 +1,4 @@
-Mycocalicium Vainio, 1890 GENUS
-=======
+# Mycocalicium Vainio, 1890 GENUS
 
 #### Status
 ACCEPTED

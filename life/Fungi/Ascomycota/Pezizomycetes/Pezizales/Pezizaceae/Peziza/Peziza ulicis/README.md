@@ -1,5 +1,4 @@
-Peziza ulicis De Guern. SPECIES
-=======
+# Peziza ulicis De Guern. SPECIES
 
 #### Status
 ACCEPTED

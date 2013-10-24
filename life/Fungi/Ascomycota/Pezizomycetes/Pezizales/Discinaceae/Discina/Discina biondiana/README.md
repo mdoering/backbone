@@ -1,5 +1,4 @@
-Discina biondiana Arcang. SPECIES
-=======
+# Discina biondiana Arcang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma cedretorum var. cedretorum VARIETY
-=======
+# Tricholoma cedretorum (Bon) A. Riva SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Riv. Micol. 43(1): 51 (2000)
 
 #### Original name
-Tricholoma cedretorum var. cedretorum
+Tricholoma tridentinum var. cedretorum Bon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macroplodia cinerea Cooke & Ellis SPECIES
-=======
+# Macroplodia cinerea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

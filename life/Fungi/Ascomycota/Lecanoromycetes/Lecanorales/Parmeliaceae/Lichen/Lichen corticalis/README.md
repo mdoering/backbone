@@ -1,5 +1,4 @@
-Lichen corticalis Rutstr. SPECIES
-=======
+# Lichen corticalis Rutstr. SPECIES
 
 #### Status
 ACCEPTED

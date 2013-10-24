@@ -1,5 +1,4 @@
-Agaricus radiatilis Berk. SPECIES
-=======
+# Agaricus radiatilis Berk. SPECIES
 
 #### Status
 ACCEPTED

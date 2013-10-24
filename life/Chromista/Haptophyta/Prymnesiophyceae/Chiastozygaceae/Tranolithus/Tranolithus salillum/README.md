@@ -1,8 +1,7 @@
-Zeugrhabdotus salillum (Noël, 1965) Rood et al., 1971 SPECIES
-=======
+# Tranolithus salillum (Noël, 1965) Crux, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

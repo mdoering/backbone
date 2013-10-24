@@ -1,5 +1,4 @@
-Usnea tenerior Nyl. SPECIES
-=======
+# Usnea tenerior Nyl. SPECIES
 
 #### Status
 ACCEPTED

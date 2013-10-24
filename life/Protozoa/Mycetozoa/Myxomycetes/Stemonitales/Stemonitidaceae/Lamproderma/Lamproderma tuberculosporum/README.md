@@ -1,5 +1,4 @@
-Lamproderma tuberculosporum M.L. Farr, 1967 SPECIES
-=======
+# Lamproderma tuberculosporum M.L. Farr, 1967 SPECIES
 
 #### Status
 ACCEPTED

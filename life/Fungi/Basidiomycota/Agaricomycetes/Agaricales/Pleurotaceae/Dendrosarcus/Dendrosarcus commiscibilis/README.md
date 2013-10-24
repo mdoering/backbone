@@ -1,5 +1,4 @@
-Dendrosarcus commiscibilis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus commiscibilis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

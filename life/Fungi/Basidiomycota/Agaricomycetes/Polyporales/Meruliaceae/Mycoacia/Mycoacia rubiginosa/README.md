@@ -1,5 +1,4 @@
-Mycoacia rubiginosa Hjortstam & Ryvarden, 2004 SPECIES
-=======
+# Mycoacia rubiginosa Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

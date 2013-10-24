@@ -1,14 +1,13 @@
-Funalia montis-veneris (Jungh.) Pat. SPECIES
-=======
+# Funalia mons-veneris (Jungh.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) (1900)
 
 #### Original name
 Polyporus mons-veneris Jungh.

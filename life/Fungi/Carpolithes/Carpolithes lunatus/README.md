@@ -1,5 +1,4 @@
-Carpolithes lunatus SPECIES
-=======
+# Carpolithes lunatus SPECIES
 
 #### Status
 ACCEPTED

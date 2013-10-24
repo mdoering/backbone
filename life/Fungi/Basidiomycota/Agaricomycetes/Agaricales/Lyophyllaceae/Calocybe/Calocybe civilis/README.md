@@ -1,5 +1,4 @@
-Calocybe civilis (Fr.) Gulden SPECIES
-=======
+# Calocybe civilis (Fr.) Gulden SPECIES
 
 #### Status
 ACCEPTED

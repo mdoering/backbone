@@ -1,5 +1,4 @@
-Actinomyces odoratus Krassiln. SPECIES
-=======
+# Actinomyces odoratus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

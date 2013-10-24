@@ -1,8 +1,7 @@
-Prorodon utahensis Pack, 1919 SPECIES
-=======
+# Chilophrya utahensis (Pack, 1919) Kahl, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

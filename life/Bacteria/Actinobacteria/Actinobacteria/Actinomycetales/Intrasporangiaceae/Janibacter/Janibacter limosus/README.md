@@ -1,5 +1,4 @@
-Janibacter limosus Martin et al., 1997 SPECIES
-=======
+# Janibacter limosus Martin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplopeltheca hyleensis Bat., J.L. Bezerra & Cavalc., 1963 SPECIES
-=======
+# Haplopeltheca hyleensis Bat., J.L. Bezerra & Cavalc., 1963 SPECIES
 
 #### Status
 ACCEPTED

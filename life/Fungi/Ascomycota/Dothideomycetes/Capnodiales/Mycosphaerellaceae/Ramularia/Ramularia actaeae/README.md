@@ -1,5 +1,4 @@
-Ramularia actaeae Ellis & Holw. SPECIES
-=======
+# Ramularia actaeae Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

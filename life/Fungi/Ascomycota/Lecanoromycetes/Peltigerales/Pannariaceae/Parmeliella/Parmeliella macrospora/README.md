@@ -1,5 +1,4 @@
-Parmeliella macrospora Makhija & Adaw. SPECIES
-=======
+# Parmeliella macrospora Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

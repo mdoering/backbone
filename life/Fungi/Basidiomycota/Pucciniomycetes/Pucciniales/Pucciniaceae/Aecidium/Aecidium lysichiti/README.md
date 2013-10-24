@@ -1,5 +1,4 @@
-Aecidium lysichiti Jørst. SPECIES
-=======
+# Aecidium lysichiti Jørst. SPECIES
 
 #### Status
 ACCEPTED

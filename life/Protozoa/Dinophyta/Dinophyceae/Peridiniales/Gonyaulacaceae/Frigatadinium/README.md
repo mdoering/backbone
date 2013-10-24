@@ -1,5 +1,4 @@
-Frigatadinium J.B. Riding, 2004 GENUS
-=======
+# Frigatadinium J.B. Riding, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salinivibrio costicola subsp. costicola SUBSPECIES
-=======
+# Salinivibrio costicola (Smith, 1938) Mellado et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

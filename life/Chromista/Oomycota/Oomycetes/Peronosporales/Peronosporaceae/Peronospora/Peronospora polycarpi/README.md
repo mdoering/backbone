@@ -1,8 +1,7 @@
-Peronospora polycarponis Mayor & Vienn.-Bourg. SPECIES
-=======
+# Peronospora polycarpi Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora polycarponis Mayor & Vienn.-Bourg.
+Peronospora polycarpi Mayor & Vienn.-Bourg.
 
 ### Remarks
 null

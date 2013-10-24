@@ -1,5 +1,4 @@
-Mycosphaerella prenanthicola Höhn. SPECIES
-=======
+# Mycosphaerella prenanthicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

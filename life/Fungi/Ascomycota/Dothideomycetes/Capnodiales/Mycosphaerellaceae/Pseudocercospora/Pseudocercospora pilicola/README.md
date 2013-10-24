@@ -1,5 +1,4 @@
-Pseudocercospora pilicola (Petr. & Cif.) U. Braun SPECIES
-=======
+# Pseudocercospora pilicola (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

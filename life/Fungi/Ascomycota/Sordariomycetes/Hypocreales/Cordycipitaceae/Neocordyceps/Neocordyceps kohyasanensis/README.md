@@ -1,5 +1,4 @@
-Neocordyceps kohyasanensis Kobayasi, 1984 SPECIES
-=======
+# Neocordyceps kohyasanensis Kobayasi, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina rubens Müll. Arg. SPECIES
-=======
+# Graphina rubens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

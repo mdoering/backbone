@@ -1,5 +1,4 @@
-Uredo cameliae Mayor SPECIES
-=======
+# Uredo cameliae Mayor SPECIES
 
 #### Status
 ACCEPTED

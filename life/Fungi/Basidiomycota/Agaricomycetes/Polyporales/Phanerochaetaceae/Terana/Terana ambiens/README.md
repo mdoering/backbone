@@ -1,5 +1,4 @@
-Terana ambiens (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana ambiens (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

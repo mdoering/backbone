@@ -1,5 +1,4 @@
-Goniosphaeridium sardum P. Pittau SPECIES
-=======
+# Goniosphaeridium sardum P. Pittau SPECIES
 
 #### Status
 ACCEPTED

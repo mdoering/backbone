@@ -1,5 +1,4 @@
-Diaporthe syngenisia Fr. SPECIES
-=======
+# Diaporthe syngenisia Fr. SPECIES
 
 #### Status
 ACCEPTED

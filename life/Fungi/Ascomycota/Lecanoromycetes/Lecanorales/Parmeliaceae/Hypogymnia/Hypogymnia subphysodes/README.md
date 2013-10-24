@@ -1,17 +1,16 @@
-Hypogymnia subphysodes var. subphysodes VARIETY
-=======
+# Hypogymnia subphysodes (Kremp.) Filson SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 87: 325 (1970)
+null
 
 #### Original name
-Hypogymnia subphysodes var. subphysodes
+null
 
 ### Remarks
 null

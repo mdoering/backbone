@@ -1,5 +1,4 @@
-Scopularia clerciana Boud. SPECIES
-=======
+# Scopularia clerciana Boud. SPECIES
 
 #### Status
 ACCEPTED

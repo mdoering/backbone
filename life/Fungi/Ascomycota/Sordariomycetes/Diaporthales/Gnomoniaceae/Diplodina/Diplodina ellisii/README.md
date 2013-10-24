@@ -1,5 +1,4 @@
-Diplodina ellisii Sacc. SPECIES
-=======
+# Diplodina ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

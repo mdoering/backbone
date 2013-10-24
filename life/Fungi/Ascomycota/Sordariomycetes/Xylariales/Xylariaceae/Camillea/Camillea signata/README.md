@@ -1,5 +1,4 @@
-Camillea signata (S.C. Jong & C.R. Benj.) Laessøe, J.D. Rogers & Whalley SPECIES
-=======
+# Camillea signata (S.C. Jong & C.R. Benj.) Laessøe, J.D. Rogers & Whalley SPECIES
 
 #### Status
 ACCEPTED

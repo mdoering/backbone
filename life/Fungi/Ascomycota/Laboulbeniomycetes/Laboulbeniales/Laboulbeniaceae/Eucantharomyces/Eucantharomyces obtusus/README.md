@@ -1,5 +1,4 @@
-Eucantharomyces obtusus Thaxt. SPECIES
-=======
+# Eucantharomyces obtusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

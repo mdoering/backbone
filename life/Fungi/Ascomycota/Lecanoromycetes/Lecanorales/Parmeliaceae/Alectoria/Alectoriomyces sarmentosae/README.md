@@ -1,5 +1,4 @@
-Alectoriomyces sarmentosae Cif. & Tomas. SPECIES
-=======
+# Alectoriomyces sarmentosae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

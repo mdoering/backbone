@@ -1,5 +1,4 @@
-Curvularia unicolorospora J.M. Yen, 1980 SPECIES
-=======
+# Curvularia unicolorospora J.M. Yen, 1980 SPECIES
 
 #### Status
 ACCEPTED

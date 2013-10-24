@@ -1,5 +1,4 @@
-Lachnocladium zandbaiense Henn. & E. Nyman SPECIES
-=======
+# Lachnocladium zandbaiense Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

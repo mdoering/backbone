@@ -1,5 +1,4 @@
-Lepiota umbrinozonata A. Pearson SPECIES
-=======
+# Lepiota umbrinozonata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

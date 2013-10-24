@@ -1,5 +1,4 @@
-Aspergillus parvathecius Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus parvathecius Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

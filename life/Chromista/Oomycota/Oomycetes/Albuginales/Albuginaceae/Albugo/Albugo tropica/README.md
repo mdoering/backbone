@@ -1,5 +1,4 @@
-Albugo tropica Lagerh. SPECIES
-=======
+# Albugo tropica Lagerh. SPECIES
 
 #### Status
 ACCEPTED

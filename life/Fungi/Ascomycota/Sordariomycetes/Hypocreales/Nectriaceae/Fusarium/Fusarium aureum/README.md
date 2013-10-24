@@ -1,5 +1,4 @@
-Fusarium aureum Corda SPECIES
-=======
+# Fusarium aureum Corda SPECIES
 
 #### Status
 ACCEPTED

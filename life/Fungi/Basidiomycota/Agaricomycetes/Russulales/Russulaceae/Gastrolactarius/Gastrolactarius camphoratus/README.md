@@ -1,5 +1,4 @@
-Gastrolactarius camphoratus (Singer & A.H. Sm.) J.M. Vidal SPECIES
-=======
+# Gastrolactarius camphoratus (Singer & A.H. Sm.) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

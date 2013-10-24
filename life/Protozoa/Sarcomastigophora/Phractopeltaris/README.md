@@ -1,5 +1,4 @@
-Phractopeltaris Haeckel, 1887 GENUS
-=======
+# Phractopeltaris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

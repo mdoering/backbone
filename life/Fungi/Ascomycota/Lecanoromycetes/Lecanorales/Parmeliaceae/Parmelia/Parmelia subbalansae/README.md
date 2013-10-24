@@ -1,5 +1,4 @@
-Parmelia subbalansae Gyeln. SPECIES
-=======
+# Parmelia subbalansae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

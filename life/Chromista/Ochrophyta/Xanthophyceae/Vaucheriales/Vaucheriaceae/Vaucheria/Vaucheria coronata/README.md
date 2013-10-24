@@ -1,5 +1,4 @@
-Vaucheria coronata Nordstedt SPECIES
-=======
+# Vaucheria coronata Nordstedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrometrospora J. Gönczöl & Révay GENUS
-=======
+# Hydrometrospora J. Gönczöl & Révay GENUS
 
 #### Status
 ACCEPTED

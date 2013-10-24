@@ -1,17 +1,16 @@
-Meliola dracaenicola var. dracaenicola Har. & Pat. VARIETY
-=======
+# Meliola dracaenicola Har. & Pat., 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 24: 14 (1908)
 
 #### Original name
-Meliola dracaenicola var. dracaenicola Har. & Pat.
+Meliola dracaenicola Har. & Pat., 1908
 
 ### Remarks
 null

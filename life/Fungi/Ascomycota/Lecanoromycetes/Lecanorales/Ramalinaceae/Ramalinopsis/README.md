@@ -1,5 +1,4 @@
-Ramalinopsis (Zahlbr.) Follmann & Huneck GENUS
-=======
+# Ramalinopsis (Zahlbr.) Follmann & Huneck GENUS
 
 #### Status
 ACCEPTED

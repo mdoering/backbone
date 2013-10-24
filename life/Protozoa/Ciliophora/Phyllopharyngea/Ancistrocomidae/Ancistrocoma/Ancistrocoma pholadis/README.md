@@ -1,5 +1,4 @@
-Ancistrocoma pholadis Chatton & Lwoff, 1926 SPECIES
-=======
+# Ancistrocoma pholadis Chatton & Lwoff, 1926 SPECIES
 
 #### Status
 ACCEPTED

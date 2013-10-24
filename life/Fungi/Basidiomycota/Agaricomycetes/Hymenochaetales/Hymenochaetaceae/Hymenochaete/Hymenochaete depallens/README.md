@@ -1,5 +1,4 @@
-Hymenochaete depallens Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Hymenochaete depallens Berk. & M.A. Curtis, 1873 SPECIES
 
 #### Status
 ACCEPTED

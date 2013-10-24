@@ -1,5 +1,4 @@
-Fusubacterium GENUS
-=======
+# Fusubacterium GENUS
 
 #### Status
 ACCEPTED

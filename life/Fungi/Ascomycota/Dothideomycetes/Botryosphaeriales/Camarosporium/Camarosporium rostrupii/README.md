@@ -1,5 +1,4 @@
-Camarosporium rostrupii Sacc. SPECIES
-=======
+# Camarosporium rostrupii Sacc. SPECIES
 
 #### Status
 ACCEPTED

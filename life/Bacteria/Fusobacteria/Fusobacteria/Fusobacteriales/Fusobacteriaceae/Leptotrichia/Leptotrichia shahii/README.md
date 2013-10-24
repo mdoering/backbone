@@ -1,5 +1,4 @@
-Leptotrichia shahii Eribe et al., 2004 SPECIES
-=======
+# Leptotrichia shahii Eribe et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

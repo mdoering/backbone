@@ -1,5 +1,4 @@
-Stictis convallariae Mont. & Ces. SPECIES
-=======
+# Stictis convallariae Mont. & Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus perniciosus Inui SPECIES
-=======
+# Aspergillus perniciosus Inui SPECIES
 
 #### Status
 ACCEPTED

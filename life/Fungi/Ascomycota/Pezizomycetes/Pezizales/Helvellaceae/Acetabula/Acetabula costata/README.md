@@ -1,5 +1,4 @@
-Acetabula costata (Kalchbr.) Sacc. SPECIES
-=======
+# Acetabula costata (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

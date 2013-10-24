@@ -1,8 +1,7 @@
-Thalmanninella wicheri Hofker, 1956 SPECIES
-=======
+# Rotalipora wicheri (Hofker, 1956) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

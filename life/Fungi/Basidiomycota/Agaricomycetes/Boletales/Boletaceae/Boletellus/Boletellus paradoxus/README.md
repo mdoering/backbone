@@ -1,5 +1,4 @@
-Boletellus paradoxus (Massee) E.-J. Gilbert SPECIES
-=======
+# Boletellus paradoxus (Massee) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

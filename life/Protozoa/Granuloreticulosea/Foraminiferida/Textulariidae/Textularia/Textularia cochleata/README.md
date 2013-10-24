@@ -1,5 +1,4 @@
-Textularia cochleata Lacroix, 1932 SPECIES
-=======
+# Textularia cochleata Lacroix, 1932 SPECIES
 
 #### Status
 ACCEPTED

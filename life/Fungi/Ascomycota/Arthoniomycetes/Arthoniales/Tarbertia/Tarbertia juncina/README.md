@@ -1,5 +1,4 @@
-Tarbertia juncina Dennis SPECIES
-=======
+# Tarbertia juncina Dennis SPECIES
 
 #### Status
 ACCEPTED

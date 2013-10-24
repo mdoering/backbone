@@ -1,5 +1,4 @@
-Roccella intermedia Choisy SPECIES
-=======
+# Roccella intermedia Choisy SPECIES
 
 #### Status
 ACCEPTED

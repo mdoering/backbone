@@ -1,5 +1,4 @@
-Psathyrella stellatifurfuracea (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Psathyrella stellatifurfuracea (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

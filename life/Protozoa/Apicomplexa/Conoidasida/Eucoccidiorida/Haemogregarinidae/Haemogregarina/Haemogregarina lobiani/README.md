@@ -1,5 +1,4 @@
-Haemogregarina lobiani Yakimov & Kohl-Yakimov, 1912 emend Levine, 1985 SPECIES
-=======
+# Haemogregarina lobiani Yakimov & Kohl-Yakimov, 1912 emend Levine, 1985 SPECIES
 
 #### Status
 ACCEPTED

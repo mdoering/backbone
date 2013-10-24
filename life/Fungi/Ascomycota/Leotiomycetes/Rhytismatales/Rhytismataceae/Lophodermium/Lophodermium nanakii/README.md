@@ -1,5 +1,4 @@
-Lophodermium nanakii P.F. Cannon & Minter, 1986 SPECIES
-=======
+# Lophodermium nanakii P.F. Cannon & Minter, 1986 SPECIES
 
 #### Status
 ACCEPTED

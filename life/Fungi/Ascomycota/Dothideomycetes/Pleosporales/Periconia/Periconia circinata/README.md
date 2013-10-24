@@ -1,14 +1,13 @@
-Aspergillus circinatus L. Mangin SPECIES
-=======
+# Periconia circinata (L. Mangin) Sacc., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 15: 223 (1899)
+Syll. fung. (Abellini) 18: 569 (1906)
 
 #### Original name
 Aspergillus circinatus L. Mangin

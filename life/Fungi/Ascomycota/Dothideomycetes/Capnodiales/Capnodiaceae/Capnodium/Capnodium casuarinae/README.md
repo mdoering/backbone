@@ -1,5 +1,4 @@
-Capnodium casuarinae McAlpine SPECIES
-=======
+# Capnodium casuarinae McAlpine SPECIES
 
 #### Status
 ACCEPTED

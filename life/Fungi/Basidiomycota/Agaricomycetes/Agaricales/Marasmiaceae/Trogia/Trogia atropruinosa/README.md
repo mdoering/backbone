@@ -1,5 +1,4 @@
-Trogia atropruinosa Corner SPECIES
-=======
+# Trogia atropruinosa Corner SPECIES
 
 #### Status
 ACCEPTED

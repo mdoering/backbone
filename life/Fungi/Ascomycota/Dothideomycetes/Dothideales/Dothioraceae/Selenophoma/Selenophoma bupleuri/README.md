@@ -1,5 +1,4 @@
-Selenophoma bupleuri Petr. SPECIES
-=======
+# Selenophoma bupleuri Petr. SPECIES
 
 #### Status
 ACCEPTED

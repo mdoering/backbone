@@ -1,5 +1,4 @@
-Collema haemaleum a haemaleum Sommerf. SPECIES
-=======
+# Collema haemaleum a haemaleum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea stereocaulorum (Th. Fr.) Nyl. SPECIES
-=======
+# Lecidea stereocaulorum (Th. Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

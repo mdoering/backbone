@@ -1,5 +1,4 @@
-Siphouvigerina fimbriata (Sidebottom, 1918) SPECIES
-=======
+# Siphouvigerina fimbriata (Sidebottom, 1918) SPECIES
 
 #### Status
 ACCEPTED

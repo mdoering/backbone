@@ -1,5 +1,4 @@
-Astrocysta R.J.Davey GENUS
-=======
+# Astrocysta R.J.Davey GENUS
 
 #### Status
 ACCEPTED

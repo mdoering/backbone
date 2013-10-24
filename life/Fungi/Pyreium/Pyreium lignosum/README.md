@@ -1,5 +1,4 @@
-Pyreium lignosum Paulet SPECIES
-=======
+# Pyreium lignosum Paulet SPECIES
 
 #### Status
 ACCEPTED

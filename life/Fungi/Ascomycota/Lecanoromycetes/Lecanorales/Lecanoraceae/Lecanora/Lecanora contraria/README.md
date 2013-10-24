@@ -1,5 +1,4 @@
-Lecanora contraria H. Magn. SPECIES
-=======
+# Lecanora contraria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

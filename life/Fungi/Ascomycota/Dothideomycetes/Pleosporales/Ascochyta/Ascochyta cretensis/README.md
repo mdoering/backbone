@@ -1,5 +1,4 @@
-Ascochyta cretensis B. Sutton SPECIES
-=======
+# Ascochyta cretensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

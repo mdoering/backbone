@@ -1,5 +1,4 @@
-Oospora verbasci Rostr. SPECIES
-=======
+# Oospora verbasci Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium omblense Zahlbr. SPECIES
-=======
+# Thelidium omblense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

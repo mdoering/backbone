@@ -1,5 +1,4 @@
-Ascochytella tenuis (Bubák) Petr. SPECIES
-=======
+# Ascochytella tenuis (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

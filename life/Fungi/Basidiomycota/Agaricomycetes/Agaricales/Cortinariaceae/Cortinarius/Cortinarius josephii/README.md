@@ -1,5 +1,4 @@
-Cortinarius josephii Reumaux SPECIES
-=======
+# Cortinarius josephii Reumaux SPECIES
 
 #### Status
 ACCEPTED

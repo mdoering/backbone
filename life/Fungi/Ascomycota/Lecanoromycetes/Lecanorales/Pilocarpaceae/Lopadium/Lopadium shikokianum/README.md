@@ -1,5 +1,4 @@
-Lopadium shikokianum Asahina SPECIES
-=======
+# Lopadium shikokianum Asahina SPECIES
 
 #### Status
 ACCEPTED

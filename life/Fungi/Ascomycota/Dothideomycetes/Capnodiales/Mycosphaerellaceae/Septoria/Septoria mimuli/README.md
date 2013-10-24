@@ -1,5 +1,4 @@
-Septoria mimuli G. Winter SPECIES
-=======
+# Septoria mimuli G. Winter SPECIES
 
 #### Status
 ACCEPTED

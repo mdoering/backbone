@@ -1,5 +1,4 @@
-Mycoderma sakuranei Jannin SPECIES
-=======
+# Mycoderma sakuranei Jannin SPECIES
 
 #### Status
 ACCEPTED

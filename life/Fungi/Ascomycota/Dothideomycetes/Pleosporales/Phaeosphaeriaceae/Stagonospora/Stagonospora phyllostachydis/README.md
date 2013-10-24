@@ -1,5 +1,4 @@
-Stagonospora phyllostachydis Hara SPECIES
-=======
+# Stagonospora phyllostachydis Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongentactinia Nazarov, 1975 GENUS
-=======
+# Spongentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

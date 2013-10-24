@@ -1,5 +1,4 @@
-Passalora deightonii (N. Pons & B. Sutton) U. Braun & Crous SPECIES
-=======
+# Passalora deightonii (N. Pons & B. Sutton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis polillensis Vain. SPECIES
-=======
+# Graphis polillensis Vain. SPECIES
 
 #### Status
 ACCEPTED

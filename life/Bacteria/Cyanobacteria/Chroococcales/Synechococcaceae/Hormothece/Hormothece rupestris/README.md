@@ -1,8 +1,7 @@
-Cyanostylon rupestris (Jao) Bourrelly SPECIES
-=======
+# Hormothece rupestris Jao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

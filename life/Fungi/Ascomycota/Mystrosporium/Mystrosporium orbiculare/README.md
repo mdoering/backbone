@@ -1,5 +1,4 @@
-Mystrosporium orbiculare Cooke & Ellis SPECIES
-=======
+# Mystrosporium orbiculare Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis elongata (Jörgensen) Abé SPECIES
-=======
+# Dinophysis elongata (Jörgensen) Abé SPECIES
 
 #### Status
 ACCEPTED

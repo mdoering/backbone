@@ -1,14 +1,13 @@
-Eyachia H. Gocht, 1979 GENUS
-=======
+# Scriniocassis H. Gocht, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Neues Jb. Geol. Palaont. Mh. 1979 (5): 307.
+Neues Jb. Geol. Paläont. Abh. 119: 121.
 
 #### Original name
 null

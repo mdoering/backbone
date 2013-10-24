@@ -1,5 +1,4 @@
-Hydrurus irregularis f. moravicus Milde FORM
-=======
+# Hydrurus irregularis SPECIES
 
 #### Status
 ACCEPTED

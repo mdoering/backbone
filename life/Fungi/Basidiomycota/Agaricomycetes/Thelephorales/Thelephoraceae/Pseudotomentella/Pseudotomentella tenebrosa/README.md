@@ -1,5 +1,4 @@
-Pseudotomentella tenebrosa (Malençon) M.J. Larsen SPECIES
-=======
+# Pseudotomentella tenebrosa (Malençon) M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

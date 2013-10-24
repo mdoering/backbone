@@ -1,5 +1,4 @@
-Clitocybe westii Murrill SPECIES
-=======
+# Clitocybe westii Murrill SPECIES
 
 #### Status
 ACCEPTED

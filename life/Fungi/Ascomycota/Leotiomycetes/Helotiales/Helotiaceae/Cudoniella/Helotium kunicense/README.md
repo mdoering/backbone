@@ -1,5 +1,4 @@
-Helotium kunicense Velen. SPECIES
-=======
+# Helotium kunicense Velen. SPECIES
 
 #### Status
 ACCEPTED

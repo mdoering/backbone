@@ -1,5 +1,4 @@
-Strombidium globosaneum Song & Packroff, 1997 SPECIES
-=======
+# Strombidium globosaneum Song & Packroff, 1997 SPECIES
 
 #### Status
 ACCEPTED

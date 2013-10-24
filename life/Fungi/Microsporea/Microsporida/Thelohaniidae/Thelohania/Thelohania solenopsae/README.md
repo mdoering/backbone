@@ -1,5 +1,4 @@
-Thelohania solenopsae J.D. Knell, G.E. Allen & E.I. Hazard SPECIES
-=======
+# Thelohania solenopsae J.D. Knell, G.E. Allen & E.I. Hazard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodontia rudis Hjortstam & Ryvarden SPECIES
-=======
+# Hyphodontia rudis Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

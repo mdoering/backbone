@@ -1,5 +1,4 @@
-Hendersonia wistariae Cooke SPECIES
-=======
+# Hendersonia wistariae Cooke SPECIES
 
 #### Status
 ACCEPTED

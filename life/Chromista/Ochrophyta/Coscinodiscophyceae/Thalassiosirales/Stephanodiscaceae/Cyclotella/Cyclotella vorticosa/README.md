@@ -1,5 +1,4 @@
-Cyclotella vorticosa A.Berg SPECIES
-=======
+# Cyclotella vorticosa A.Berg SPECIES
 
 #### Status
 ACCEPTED

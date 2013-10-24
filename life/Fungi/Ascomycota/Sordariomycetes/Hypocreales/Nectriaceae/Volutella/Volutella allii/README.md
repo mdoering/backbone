@@ -1,5 +1,4 @@
-Volutella allii F. Patt. SPECIES
-=======
+# Volutella allii F. Patt. SPECIES
 
 #### Status
 ACCEPTED

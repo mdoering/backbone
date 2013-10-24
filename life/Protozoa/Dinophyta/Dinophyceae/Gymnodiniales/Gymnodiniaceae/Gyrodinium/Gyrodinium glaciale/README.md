@@ -1,5 +1,4 @@
-Gyrodinium glaciale Hada, 1970 ex Balech, 1976 SPECIES
-=======
+# Gyrodinium glaciale Hada, 1970 ex Balech, 1976 SPECIES
 
 #### Status
 ACCEPTED

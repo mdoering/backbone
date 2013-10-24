@@ -1,5 +1,4 @@
-Erysiphe lianyungangensis (S.R. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe lianyungangensis (S.R. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula mastophorizans Müll. Arg., 1885 SPECIES
-=======
+# Pyrenula mastophorizans Müll. Arg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

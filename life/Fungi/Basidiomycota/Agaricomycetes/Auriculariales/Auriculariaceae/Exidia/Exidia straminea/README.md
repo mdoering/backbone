@@ -1,5 +1,4 @@
-Exidia straminea Berk. SPECIES
-=======
+# Exidia straminea Berk. SPECIES
 
 #### Status
 ACCEPTED

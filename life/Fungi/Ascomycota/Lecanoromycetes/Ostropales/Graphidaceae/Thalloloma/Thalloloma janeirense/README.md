@@ -1,5 +1,4 @@
-Thalloloma janeirense Staiger SPECIES
-=======
+# Thalloloma janeirense Staiger SPECIES
 
 #### Status
 ACCEPTED

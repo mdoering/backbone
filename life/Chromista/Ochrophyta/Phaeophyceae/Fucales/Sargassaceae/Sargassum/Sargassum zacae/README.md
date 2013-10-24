@@ -1,5 +1,4 @@
-Sargassum zacae Setchell SPECIES
-=======
+# Sargassum zacae Setchell SPECIES
 
 #### Status
 ACCEPTED

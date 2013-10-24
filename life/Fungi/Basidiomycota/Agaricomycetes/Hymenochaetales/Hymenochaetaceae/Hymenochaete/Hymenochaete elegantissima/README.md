@@ -1,5 +1,4 @@
-Hymenochaete elegantissima (Speg.) Speg. SPECIES
-=======
+# Hymenochaete elegantissima (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

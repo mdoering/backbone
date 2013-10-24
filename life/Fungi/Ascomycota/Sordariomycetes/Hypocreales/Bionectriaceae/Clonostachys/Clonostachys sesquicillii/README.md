@@ -1,5 +1,4 @@
-Clonostachys sesquicillii Schroers SPECIES
-=======
+# Clonostachys sesquicillii Schroers SPECIES
 
 #### Status
 ACCEPTED

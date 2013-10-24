@@ -1,5 +1,4 @@
-Pustularia catinoides Fuckel SPECIES
-=======
+# Pustularia catinoides Fuckel SPECIES
 
 #### Status
 ACCEPTED

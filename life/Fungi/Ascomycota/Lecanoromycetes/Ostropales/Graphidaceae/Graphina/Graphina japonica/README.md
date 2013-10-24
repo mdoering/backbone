@@ -1,17 +1,16 @@
-Graphina japonica subsp. japonica SUBSPECIES
-=======
+# Graphina japonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Graphina japonica Müll. Arg.
 
 ### Remarks
 null

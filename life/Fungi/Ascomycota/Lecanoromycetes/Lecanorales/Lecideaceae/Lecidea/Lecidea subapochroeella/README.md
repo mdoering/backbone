@@ -1,5 +1,4 @@
-Lecidea subapochroeella Zahlbr. SPECIES
-=======
+# Lecidea subapochroeella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

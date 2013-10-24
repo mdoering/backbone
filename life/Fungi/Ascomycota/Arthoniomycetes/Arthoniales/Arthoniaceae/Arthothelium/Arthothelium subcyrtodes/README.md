@@ -1,5 +1,4 @@
-Arthothelium subcyrtodes (Willey) Hasse SPECIES
-=======
+# Arthothelium subcyrtodes (Willey) Hasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella vindobonensis Petr. SPECIES
-=======
+# Mycosphaerella vindobonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

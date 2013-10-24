@@ -1,5 +1,4 @@
-Aspergillus nigrescens C.P. Robin SPECIES
-=======
+# Aspergillus nigrescens C.P. Robin SPECIES
 
 #### Status
 ACCEPTED

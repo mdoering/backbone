@@ -1,5 +1,4 @@
-Haplariopsis cordiae Henn. SPECIES
-=======
+# Haplariopsis cordiae Henn. SPECIES
 
 #### Status
 ACCEPTED

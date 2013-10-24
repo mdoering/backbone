@@ -1,5 +1,4 @@
-Arthothelium effusum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthothelium effusum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma centaureae var. centaureae VARIETY
-=======
+# Phoma centaureae Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma centaureae var. centaureae
+Phoma centaureae Boyer & Jacz.
 
 ### Remarks
 null

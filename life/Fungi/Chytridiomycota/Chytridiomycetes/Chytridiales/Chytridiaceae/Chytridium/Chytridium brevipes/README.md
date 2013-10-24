@@ -1,5 +1,4 @@
-Chytridium brevipes A. Braun SPECIES
-=======
+# Chytridium brevipes A. Braun SPECIES
 
 #### Status
 ACCEPTED

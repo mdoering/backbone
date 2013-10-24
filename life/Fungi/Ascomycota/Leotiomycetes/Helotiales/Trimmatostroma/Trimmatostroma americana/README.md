@@ -1,5 +1,4 @@
-Trimmatostroma americana Thüm. SPECIES
-=======
+# Trimmatostroma americana Thüm. SPECIES
 
 #### Status
 ACCEPTED

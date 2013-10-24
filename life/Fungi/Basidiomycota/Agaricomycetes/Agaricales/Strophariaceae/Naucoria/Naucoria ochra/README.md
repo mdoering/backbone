@@ -1,5 +1,4 @@
-Naucoria ochra Berk. & Broome SPECIES
-=======
+# Naucoria ochra Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

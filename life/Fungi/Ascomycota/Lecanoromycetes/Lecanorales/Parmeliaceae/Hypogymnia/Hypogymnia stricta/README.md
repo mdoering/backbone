@@ -1,5 +1,4 @@
-Hypogymnia stricta (Hillmann) K. Yoshida SPECIES
-=======
+# Hypogymnia stricta (Hillmann) K. Yoshida SPECIES
 
 #### Status
 ACCEPTED

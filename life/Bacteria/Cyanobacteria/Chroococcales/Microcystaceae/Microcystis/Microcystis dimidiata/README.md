@@ -1,5 +1,4 @@
-Microcystis dimidiata (Kützing) P.C. Silva SPECIES
-=======
+# Microcystis dimidiata (Kützing) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

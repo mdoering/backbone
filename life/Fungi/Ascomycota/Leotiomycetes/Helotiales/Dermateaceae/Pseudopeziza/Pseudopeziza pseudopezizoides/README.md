@@ -1,5 +1,4 @@
-Pseudopeziza pseudopezizoides (Rehm) Höhn. SPECIES
-=======
+# Pseudopeziza pseudopezizoides (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

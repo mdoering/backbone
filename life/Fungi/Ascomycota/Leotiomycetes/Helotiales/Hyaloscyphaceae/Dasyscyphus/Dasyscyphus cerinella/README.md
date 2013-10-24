@@ -1,17 +1,16 @@
-Dasyscypha cerinella Speg. SPECIES
-=======
+# Dasyscyphus cerinella Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 454 (1889)
 
 #### Original name
-Dasyscypha cerinella Speg.
+Dasyscyphus cerinella Speg.
 
 ### Remarks
 null

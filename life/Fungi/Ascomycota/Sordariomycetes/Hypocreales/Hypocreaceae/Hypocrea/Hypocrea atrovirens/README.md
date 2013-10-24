@@ -1,5 +1,4 @@
-Hypocrea atrovirens Mont. SPECIES
-=======
+# Hypocrea atrovirens Mont. SPECIES
 
 #### Status
 ACCEPTED

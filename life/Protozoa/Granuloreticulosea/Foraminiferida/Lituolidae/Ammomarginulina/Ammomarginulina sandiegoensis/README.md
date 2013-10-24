@@ -1,5 +1,4 @@
-Ammomarginulina sandiegoensis Uchio, 1960 SPECIES
-=======
+# Ammomarginulina sandiegoensis Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

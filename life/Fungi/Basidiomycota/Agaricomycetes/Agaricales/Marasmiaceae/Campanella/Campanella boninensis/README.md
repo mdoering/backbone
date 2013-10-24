@@ -1,5 +1,4 @@
-Campanella boninensis (S. Ito & S. Imai) Parmasto, 1981 SPECIES
-=======
+# Campanella boninensis (S. Ito & S. Imai) Parmasto, 1981 SPECIES
 
 #### Status
 ACCEPTED

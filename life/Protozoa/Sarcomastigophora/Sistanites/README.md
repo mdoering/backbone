@@ -1,5 +1,4 @@
-Sistanites Rahaghi, 1983 GENUS
-=======
+# Sistanites Rahaghi, 1983 GENUS
 
 #### Status
 ACCEPTED

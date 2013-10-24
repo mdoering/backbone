@@ -1,5 +1,4 @@
-Umbilicaria microphylloides A. Massal. SPECIES
-=======
+# Umbilicaria microphylloides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

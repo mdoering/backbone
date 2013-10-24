@@ -1,5 +1,4 @@
-Nucleospora seconda Lom & Dykoá, 2002 SPECIES
-=======
+# Nucleospora seconda Lom & Dykoá, 2002 SPECIES
 
 #### Status
 ACCEPTED

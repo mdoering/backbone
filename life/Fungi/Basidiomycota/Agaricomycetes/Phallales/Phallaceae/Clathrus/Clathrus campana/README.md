@@ -1,5 +1,4 @@
-Clathrus campana Lour. SPECIES
-=======
+# Clathrus campana Lour. SPECIES
 
 #### Status
 ACCEPTED

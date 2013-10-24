@@ -1,5 +1,4 @@
-Agaricus decurrens J.F. Gmel. SPECIES
-=======
+# Agaricus decurrens J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

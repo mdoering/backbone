@@ -1,5 +1,4 @@
-Trichoderma aeruginosum Link SPECIES
-=======
+# Trichoderma aeruginosum Link SPECIES
 
 #### Status
 ACCEPTED

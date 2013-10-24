@@ -1,5 +1,4 @@
-Fuscheria Foissner, 1983 GENUS
-=======
+# Fuscheria Foissner, 1983 GENUS
 
 #### Status
 ACCEPTED

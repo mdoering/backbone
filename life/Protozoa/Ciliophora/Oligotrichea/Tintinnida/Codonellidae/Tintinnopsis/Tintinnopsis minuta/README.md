@@ -1,5 +1,4 @@
-Tintinnopsis minuta Wailes, 1925 SPECIES
-=======
+# Tintinnopsis minuta Wailes, 1925 SPECIES
 
 #### Status
 ACCEPTED

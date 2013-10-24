@@ -1,14 +1,13 @@
-Nectria parasitica (Murrill) D. Sacc. SPECIES
-=======
+# Cryphonectria parasitica (Murrill) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 210 (1898)
+Mycol. Mem. 7: 143 (1978)
 
 #### Original name
 Diaporthe parasitica Murrill, 1906

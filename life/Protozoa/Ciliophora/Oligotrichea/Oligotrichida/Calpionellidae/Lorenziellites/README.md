@@ -1,5 +1,4 @@
-Lorenziellites Nagy, 1986 GENUS
-=======
+# Lorenziellites Nagy, 1986 GENUS
 
 #### Status
 ACCEPTED

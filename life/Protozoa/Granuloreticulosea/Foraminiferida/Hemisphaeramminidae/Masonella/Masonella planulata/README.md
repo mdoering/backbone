@@ -1,5 +1,4 @@
-Masonella planulata Brady, 1889 SPECIES
-=======
+# Masonella planulata Brady, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus albidoroseus J.F. Gmel. SPECIES
-=======
+# Agaricus albidoroseus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

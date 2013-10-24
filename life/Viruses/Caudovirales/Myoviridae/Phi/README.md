@@ -1,5 +1,4 @@
-PhiH-like viruses GENUS
-=======
+# PhiH-like viruses GENUS
 
 #### Status
 ACCEPTED

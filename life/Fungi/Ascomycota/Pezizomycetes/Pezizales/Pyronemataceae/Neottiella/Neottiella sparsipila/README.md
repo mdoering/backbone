@@ -1,5 +1,4 @@
-Neottiella sparsipila P. Karst. SPECIES
-=======
+# Neottiella sparsipila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

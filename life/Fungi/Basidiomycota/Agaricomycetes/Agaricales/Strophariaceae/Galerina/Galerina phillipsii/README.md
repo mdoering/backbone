@@ -1,5 +1,4 @@
-Galerina phillipsii D.A. Reid, 1984 SPECIES
-=======
+# Galerina phillipsii D.A. Reid, 1984 SPECIES
 
 #### Status
 ACCEPTED

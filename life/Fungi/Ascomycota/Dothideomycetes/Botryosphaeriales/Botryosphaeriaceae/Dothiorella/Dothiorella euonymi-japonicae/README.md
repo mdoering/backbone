@@ -1,5 +1,4 @@
-Dothiorella euonymi-japonicae (Siemaszko) Petr. SPECIES
-=======
+# Dothiorella euonymi-japonicae (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

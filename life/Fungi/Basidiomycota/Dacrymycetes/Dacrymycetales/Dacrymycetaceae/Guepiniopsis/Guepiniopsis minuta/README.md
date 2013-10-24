@@ -1,5 +1,4 @@
-Guepiniopsis minuta L.S. Olive SPECIES
-=======
+# Guepiniopsis minuta L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

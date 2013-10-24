@@ -1,8 +1,7 @@
-Limboria saepincola Ach. SPECIES
-=======
+# Limboria sepincola Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Limboria saepincola Ach.
+Limboria sepincola Ach.
 
 ### Remarks
 null

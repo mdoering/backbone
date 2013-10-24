@@ -1,5 +1,4 @@
-Polyporus ceratoniae Risso SPECIES
-=======
+# Polyporus ceratoniae Risso SPECIES
 
 #### Status
 ACCEPTED

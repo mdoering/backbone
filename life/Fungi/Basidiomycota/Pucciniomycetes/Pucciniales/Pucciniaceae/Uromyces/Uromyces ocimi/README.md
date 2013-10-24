@@ -1,5 +1,4 @@
-Uromyces ocimi Hansf. SPECIES
-=======
+# Uromyces ocimi Hansf. SPECIES
 
 #### Status
 ACCEPTED

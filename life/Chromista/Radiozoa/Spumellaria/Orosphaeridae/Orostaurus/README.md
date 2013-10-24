@@ -1,5 +1,4 @@
-Orostaurus Friend & Riedel, 1967 GENUS
-=======
+# Orostaurus Friend & Riedel, 1967 GENUS
 
 #### Status
 ACCEPTED

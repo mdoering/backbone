@@ -1,5 +1,4 @@
-Trabutia minima F. Stevens & Weedon SPECIES
-=======
+# Trabutia minima F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea interstitialis Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea interstitialis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

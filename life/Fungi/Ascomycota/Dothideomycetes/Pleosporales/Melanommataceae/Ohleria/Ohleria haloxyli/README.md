@@ -1,5 +1,4 @@
-Ohleria haloxyli Kravtzev SPECIES
-=======
+# Ohleria haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

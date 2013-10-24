@@ -1,5 +1,4 @@
-Spirulina agilis Kufferath SPECIES
-=======
+# Spirulina agilis Kufferath SPECIES
 
 #### Status
 ACCEPTED

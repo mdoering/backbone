@@ -1,5 +1,4 @@
-Uroglenopsis europaea Pascher SPECIES
-=======
+# Uroglenopsis europaea Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auriculora Kalb GENUS
-=======
+# Auriculora Kalb GENUS
 
 #### Status
 ACCEPTED

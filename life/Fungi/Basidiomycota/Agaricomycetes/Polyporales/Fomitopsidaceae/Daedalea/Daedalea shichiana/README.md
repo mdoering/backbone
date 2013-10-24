@@ -1,5 +1,4 @@
-Daedalea shichiana Teng & L. Ling SPECIES
-=======
+# Daedalea shichiana Teng & L. Ling SPECIES
 
 #### Status
 ACCEPTED

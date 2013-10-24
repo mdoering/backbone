@@ -1,5 +1,4 @@
-Xanthoparmelia aliphaticella A. Thell, Feuerer, Elix & Kärnefelt SPECIES
-=======
+# Xanthoparmelia aliphaticella A. Thell, Feuerer, Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

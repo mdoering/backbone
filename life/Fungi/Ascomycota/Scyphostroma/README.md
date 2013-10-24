@@ -1,5 +1,4 @@
-Scyphostroma Starbäck GENUS
-=======
+# Scyphostroma Starbäck GENUS
 
 #### Status
 ACCEPTED

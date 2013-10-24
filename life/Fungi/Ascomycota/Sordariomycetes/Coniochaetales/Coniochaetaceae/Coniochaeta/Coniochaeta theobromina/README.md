@@ -1,5 +1,4 @@
-Coniochaeta theobromina P.F. Cannon SPECIES
-=======
+# Coniochaeta theobromina P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

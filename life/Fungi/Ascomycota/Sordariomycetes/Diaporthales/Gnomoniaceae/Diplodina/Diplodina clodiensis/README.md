@@ -1,5 +1,4 @@
-Diplodina clodiensis Sacc. SPECIES
-=======
+# Diplodina clodiensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

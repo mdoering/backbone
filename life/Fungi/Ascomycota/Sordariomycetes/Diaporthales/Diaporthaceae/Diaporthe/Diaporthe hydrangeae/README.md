@@ -1,5 +1,4 @@
-Diaporthe hydrangeae Ellis & Everh. SPECIES
-=======
+# Diaporthe hydrangeae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

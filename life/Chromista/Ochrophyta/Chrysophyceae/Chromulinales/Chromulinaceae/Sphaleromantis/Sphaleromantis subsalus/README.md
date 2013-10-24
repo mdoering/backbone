@@ -1,5 +1,4 @@
-Sphaleromantis subsalus Conrad SPECIES
-=======
+# Sphaleromantis subsalus Conrad SPECIES
 
 #### Status
 ACCEPTED

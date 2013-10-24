@@ -1,5 +1,4 @@
-Uredo juelii J. Walker SPECIES
-=======
+# Uredo juelii J. Walker SPECIES
 
 #### Status
 ACCEPTED

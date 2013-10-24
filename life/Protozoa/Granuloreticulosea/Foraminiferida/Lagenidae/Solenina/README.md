@@ -1,5 +1,4 @@
-Solenina Wynn Jones, 1984 GENUS
-=======
+# Solenina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

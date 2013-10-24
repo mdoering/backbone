@@ -1,17 +1,16 @@
-Cercospora haloragi Dingley SPECIES
-=======
+# Cercospora haloragis Dingley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl agric. Res. 8(4): 913 (1965)
 
 #### Original name
-Cercospora haloragi Dingley
+Cercospora haloragis Dingley
 
 ### Remarks
 null

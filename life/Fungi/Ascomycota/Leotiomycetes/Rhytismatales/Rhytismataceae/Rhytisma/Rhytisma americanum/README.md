@@ -1,5 +1,4 @@
-Rhytisma americanum Hudler & Banik SPECIES
-=======
+# Rhytisma americanum Hudler & Banik SPECIES
 
 #### Status
 ACCEPTED

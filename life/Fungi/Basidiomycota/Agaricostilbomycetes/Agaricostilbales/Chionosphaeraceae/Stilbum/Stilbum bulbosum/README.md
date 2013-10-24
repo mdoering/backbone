@@ -1,5 +1,4 @@
-Stilbum bulbosum Tode SPECIES
-=======
+# Stilbum bulbosum Tode SPECIES
 
 #### Status
 ACCEPTED

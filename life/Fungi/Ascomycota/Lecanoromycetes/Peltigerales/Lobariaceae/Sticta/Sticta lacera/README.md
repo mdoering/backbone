@@ -1,5 +1,4 @@
-Sticta lacera (Hook. f. & Taylor) Müll. Arg. SPECIES
-=======
+# Sticta lacera (Hook. f. & Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

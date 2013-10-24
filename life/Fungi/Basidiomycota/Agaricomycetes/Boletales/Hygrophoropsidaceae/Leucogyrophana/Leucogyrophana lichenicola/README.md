@@ -1,5 +1,4 @@
-Leucogyrophana lichenicola Thorn, Malloch & Ginns, 1998 SPECIES
-=======
+# Leucogyrophana lichenicola Thorn, Malloch & Ginns, 1998 SPECIES
 
 #### Status
 ACCEPTED

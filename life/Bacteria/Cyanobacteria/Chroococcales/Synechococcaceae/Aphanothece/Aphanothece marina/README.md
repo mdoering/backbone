@@ -1,5 +1,4 @@
-Aphanothece marina (Ercegovic) Komárek & Anagnostidis SPECIES
-=======
+# Aphanothece marina (Ercegovic) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

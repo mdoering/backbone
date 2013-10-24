@@ -1,5 +1,4 @@
-Schoenleinium GENUS
-=======
+# Schoenleinium GENUS
 
 #### Status
 ACCEPTED

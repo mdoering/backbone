@@ -1,5 +1,4 @@
-Pilosace subnudus (P. Karst.) Kuntze SPECIES
-=======
+# Pilosace subnudus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

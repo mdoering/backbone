@@ -1,5 +1,4 @@
-Mycosphaerella heimii Bouriquet ex Crous, 1995 SPECIES
-=======
+# Mycosphaerella heimii Bouriquet ex Crous, 1995 SPECIES
 
 #### Status
 ACCEPTED

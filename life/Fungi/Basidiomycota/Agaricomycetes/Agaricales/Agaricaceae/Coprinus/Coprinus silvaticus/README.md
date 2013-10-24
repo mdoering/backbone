@@ -1,17 +1,16 @@
-Coprinus tergiversans var. tergiversans VARIETY
-=======
+# Coprinus silvaticus Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 247 (1838)
+Ann. Rep. N. Y. St. Mus. 24: 7 (1872)
 
 #### Original name
-Agaricus tergiversans Fr.
+Coprinus silvaticus Peck, 1872
 
 ### Remarks
 null

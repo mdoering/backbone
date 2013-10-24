@@ -1,5 +1,4 @@
-Trichothyrinula Petr. GENUS
-=======
+# Trichothyrinula Petr. GENUS
 
 #### Status
 ACCEPTED

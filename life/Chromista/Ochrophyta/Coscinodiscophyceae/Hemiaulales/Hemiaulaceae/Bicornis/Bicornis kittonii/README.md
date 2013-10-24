@@ -1,5 +1,4 @@
-Bicornis kittonii (Grunow) J. Fenner, 1994 SPECIES
-=======
+# Bicornis kittonii (Grunow) J. Fenner, 1994 SPECIES
 
 #### Status
 ACCEPTED

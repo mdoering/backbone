@@ -1,5 +1,4 @@
-Biatora cyrtelloides (Nyl.) Tuck. SPECIES
-=======
+# Biatora cyrtelloides (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

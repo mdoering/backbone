@@ -1,5 +1,4 @@
-Biatora resinae (Fr.) Tuck. SPECIES
-=======
+# Biatora resinae (Fr.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

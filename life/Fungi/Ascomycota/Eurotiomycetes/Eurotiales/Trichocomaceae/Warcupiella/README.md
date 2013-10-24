@@ -1,17 +1,16 @@
-Sporophormis Malloch & Cain GENUS
-=======
+# Warcupiella Subram. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Can. J. Bot. 50: 2624 (1973)
+Curr. Sci. 41(21): 757 (1972)
 
 #### Original name
-Sporophormis Malloch & Cain
+Warcupiella Subram.
 
 ### Remarks
 null

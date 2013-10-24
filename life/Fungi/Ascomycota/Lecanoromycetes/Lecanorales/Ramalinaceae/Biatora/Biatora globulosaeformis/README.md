@@ -1,5 +1,4 @@
-Biatora globulosaeformis Hepp SPECIES
-=======
+# Biatora globulosaeformis Hepp SPECIES
 
 #### Status
 ACCEPTED

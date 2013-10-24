@@ -1,5 +1,4 @@
-Pyrenula nanospora (Ajay Singh) Upreti SPECIES
-=======
+# Pyrenula nanospora (Ajay Singh) Upreti SPECIES
 
 #### Status
 ACCEPTED

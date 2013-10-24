@@ -1,5 +1,4 @@
-Flammula hanoiensis Pat. SPECIES
-=======
+# Flammula hanoiensis Pat. SPECIES
 
 #### Status
 ACCEPTED

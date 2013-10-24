@@ -1,5 +1,4 @@
-Thurstonia Whalen & Carter, 1998 GENUS
-=======
+# Thurstonia Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

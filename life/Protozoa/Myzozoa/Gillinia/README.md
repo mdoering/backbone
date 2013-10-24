@@ -1,5 +1,4 @@
-Gillinia Cookson & Eisenack GENUS
-=======
+# Gillinia Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

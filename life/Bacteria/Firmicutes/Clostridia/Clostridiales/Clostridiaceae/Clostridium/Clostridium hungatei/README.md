@@ -1,5 +1,4 @@
-Clostridium hungatei Monserrate et al., 2001 SPECIES
-=======
+# Clostridium hungatei Monserrate et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

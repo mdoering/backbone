@@ -1,5 +1,4 @@
-Rickettsia aeschlimannii Beati et al., 1997 SPECIES
-=======
+# Rickettsia aeschlimannii Beati et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

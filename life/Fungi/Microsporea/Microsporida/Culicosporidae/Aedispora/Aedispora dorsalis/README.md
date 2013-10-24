@@ -1,5 +1,4 @@
-Aedispora dorsalis P.J. Kilochitskii SPECIES
-=======
+# Aedispora dorsalis P.J. Kilochitskii SPECIES
 
 #### Status
 ACCEPTED

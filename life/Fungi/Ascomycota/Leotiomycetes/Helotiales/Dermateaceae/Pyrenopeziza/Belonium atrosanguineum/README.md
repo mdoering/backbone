@@ -1,5 +1,4 @@
-Belonium atrosanguineum (Rehm) Seaver SPECIES
-=======
+# Belonium atrosanguineum (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

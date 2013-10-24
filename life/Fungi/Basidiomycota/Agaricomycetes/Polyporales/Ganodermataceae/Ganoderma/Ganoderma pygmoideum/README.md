@@ -1,5 +1,4 @@
-Ganoderma pygmoideum Steyaert SPECIES
-=======
+# Ganoderma pygmoideum Steyaert SPECIES
 
 #### Status
 ACCEPTED

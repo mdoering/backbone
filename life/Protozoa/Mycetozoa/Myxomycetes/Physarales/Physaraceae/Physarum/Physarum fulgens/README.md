@@ -1,17 +1,16 @@
-Lignydium fulgens (Pat.) Kuntze, 1898 SPECIES
-=======
+# Physarum fulgens Pat., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 8: (1892)
 
 #### Original name
-null
+Physarum fulgens Pat., 1892
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psathyrella abieticola A.H. Sm. SPECIES
-=======
+# Psathyrella abieticola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

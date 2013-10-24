@@ -1,5 +1,4 @@
-Elsinoë sacchari T.C. Lo SPECIES
-=======
+# Elsinoë sacchari T.C. Lo SPECIES
 
 #### Status
 ACCEPTED

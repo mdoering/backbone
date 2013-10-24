@@ -1,5 +1,4 @@
-Caronia Brönnimann, Whittaker & Zaninetti, 1992 GENUS
-=======
+# Caronia Brönnimann, Whittaker & Zaninetti, 1992 GENUS
 
 #### Status
 ACCEPTED

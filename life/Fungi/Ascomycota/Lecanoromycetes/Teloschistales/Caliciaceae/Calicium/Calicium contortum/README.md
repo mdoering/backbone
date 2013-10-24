@@ -1,5 +1,4 @@
-Calicium contortum F. Wilson SPECIES
-=======
+# Calicium contortum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia asahinae K. Yoshida SPECIES
-=======
+# Hypogymnia asahinae K. Yoshida SPECIES
 
 #### Status
 ACCEPTED

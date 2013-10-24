@@ -1,5 +1,4 @@
-Puccinia semi-insculpta var. semi-insculpta VARIETY
-=======
+# Puccinia semi-insculpta Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 40: 204 (1905)
 
 #### Original name
-Puccinia semi-insculpta var. semi-insculpta
+Puccinia semi-insculpta Arthur
 
 ### Remarks
 null

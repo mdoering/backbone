@@ -1,5 +1,4 @@
-Stomiopeltites plectilis (Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Stomiopeltites plectilis (Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

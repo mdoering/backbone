@@ -1,17 +1,16 @@
-Gymnosporangium sabinae f. sp FORM
-=======
+# Gymnosporangium sabinae (Dicks.) G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pilze Deutschl. 1: 232 (1884)
 
 #### Original name
-Gymnosporangium sabinae f. sp
+Tremella sabinae Dicks., 1785
 
 ### Remarks
 null

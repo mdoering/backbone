@@ -1,5 +1,4 @@
-Hydropunctaria GENUS
-=======
+# Hydropunctaria GENUS
 
 #### Status
 ACCEPTED

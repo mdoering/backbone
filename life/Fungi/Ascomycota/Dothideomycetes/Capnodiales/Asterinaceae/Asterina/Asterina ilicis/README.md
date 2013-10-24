@@ -1,5 +1,4 @@
-Asterina ilicis Ellis SPECIES
-=======
+# Asterina ilicis Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellea californica Rehm SPECIES
-=======
+# Patellea californica Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa allostoma (Schwein.) Cooke SPECIES
-=======
+# Valsa allostoma (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

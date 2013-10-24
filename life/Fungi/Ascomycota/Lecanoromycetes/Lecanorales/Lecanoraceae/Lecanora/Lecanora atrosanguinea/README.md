@@ -1,5 +1,4 @@
-Lecanora atrosanguinea G. Merr. SPECIES
-=======
+# Lecanora atrosanguinea G. Merr. SPECIES
 
 #### Status
 ACCEPTED

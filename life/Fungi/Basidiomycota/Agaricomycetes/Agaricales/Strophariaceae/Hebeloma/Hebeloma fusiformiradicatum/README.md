@@ -1,5 +1,4 @@
-Hebeloma fusiformiradicatum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Hebeloma fusiformiradicatum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

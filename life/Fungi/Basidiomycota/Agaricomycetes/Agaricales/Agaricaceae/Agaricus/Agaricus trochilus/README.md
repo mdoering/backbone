@@ -1,5 +1,4 @@
-Agaricus trochilus Lasch ex Fr. SPECIES
-=======
+# Agaricus trochilus Lasch ex Fr. SPECIES
 
 #### Status
 ACCEPTED

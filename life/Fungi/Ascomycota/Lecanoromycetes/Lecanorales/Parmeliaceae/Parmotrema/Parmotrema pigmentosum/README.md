@@ -1,5 +1,4 @@
-Parmotrema pigmentosum Hale SPECIES
-=======
+# Parmotrema pigmentosum Hale SPECIES
 
 #### Status
 ACCEPTED

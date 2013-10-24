@@ -1,5 +1,4 @@
-Neosphaera Lecal-Schlauder, 1950 GENUS
-=======
+# Neosphaera Lecal-Schlauder, 1950 GENUS
 
 #### Status
 ACCEPTED

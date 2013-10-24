@@ -1,5 +1,4 @@
-Erysiphe delavayi (Pat.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe delavayi (Pat.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

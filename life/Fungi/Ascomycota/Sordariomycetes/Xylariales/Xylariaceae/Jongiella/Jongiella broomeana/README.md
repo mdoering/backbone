@@ -1,14 +1,13 @@
-Jongiella broomeiana (Berk. & M.A. Curtis) M. Morelet SPECIES
-=======
+# Jongiella broomeana (Berk. & M.A. Curtis) M. Morelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin de la Société des Sciences naturelles et d'Archéologie de Toulon et du Var 196: 7 (1971)
 
 #### Original name
 Hypoxylon broomeanum Berk. & M.A. Curtis

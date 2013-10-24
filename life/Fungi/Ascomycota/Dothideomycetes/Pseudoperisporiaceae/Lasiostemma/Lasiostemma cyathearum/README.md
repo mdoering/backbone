@@ -1,5 +1,4 @@
-Lasiostemma cyathearum (Syd.) Theiss. & Syd. SPECIES
-=======
+# Lasiostemma cyathearum (Syd.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

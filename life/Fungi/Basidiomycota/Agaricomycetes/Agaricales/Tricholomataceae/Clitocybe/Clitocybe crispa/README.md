@@ -1,5 +1,4 @@
-Clitocybe crispa H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe crispa H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystomammina falklandica Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Polystomammina falklandica Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora sphaerelloides Speg. SPECIES
-=======
+# Pleospora sphaerelloides Speg. SPECIES
 
 #### Status
 ACCEPTED

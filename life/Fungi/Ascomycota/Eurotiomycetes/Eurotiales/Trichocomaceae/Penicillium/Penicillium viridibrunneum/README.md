@@ -1,5 +1,4 @@
-Penicillium viridibrunneum var. viridibrunneum VARIETY
-=======
+# Penicillium viridibrunneum Sopp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium viridibrunneum var. viridibrunneum
+Penicillium viridibrunneum Sopp
 
 ### Remarks
 null

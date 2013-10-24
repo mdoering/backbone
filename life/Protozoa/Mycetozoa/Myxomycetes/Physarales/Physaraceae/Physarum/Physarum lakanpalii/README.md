@@ -1,5 +1,4 @@
-Physarum lakanpalii Nann.-Brem. & Y. Yamam. SPECIES
-=======
+# Physarum lakanpalii Nann.-Brem. & Y. Yamam. SPECIES
 
 #### Status
 ACCEPTED

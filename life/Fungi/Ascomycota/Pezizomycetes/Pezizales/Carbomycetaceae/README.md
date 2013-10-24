@@ -1,5 +1,4 @@
-Carbomycetaceae Trappe FAMILY
-=======
+# Carbomycetaceae Trappe FAMILY
 
 #### Status
 ACCEPTED

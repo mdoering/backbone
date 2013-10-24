@@ -1,5 +1,4 @@
-Sphaerotheca zillingii SPECIES
-=======
+# Sphaerotheca zillingii SPECIES
 
 #### Status
 ACCEPTED

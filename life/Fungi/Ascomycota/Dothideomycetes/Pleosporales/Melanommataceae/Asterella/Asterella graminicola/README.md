@@ -1,5 +1,4 @@
-Asterella graminicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Asterella graminicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

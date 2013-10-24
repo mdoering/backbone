@@ -1,17 +1,16 @@
-Anthoseptobasidium faquarae Rick SPECIES
-=======
+# Anthoseptobasidium taquarae Rick, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 9: 215 (1943)
 
 #### Original name
-Anthoseptobasidium faquarae Rick
+Anthoseptobasidium taquarae Rick, 1943
 
 ### Remarks
 null

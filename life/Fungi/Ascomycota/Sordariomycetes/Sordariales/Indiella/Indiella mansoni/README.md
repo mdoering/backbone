@@ -1,5 +1,4 @@
-Indiella mansoni Brumpt SPECIES
-=======
+# Indiella mansoni Brumpt SPECIES
 
 #### Status
 ACCEPTED

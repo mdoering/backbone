@@ -1,5 +1,4 @@
-Perenniporia kilemariensis Spirin & Shirokov SPECIES
-=======
+# Perenniporia kilemariensis Spirin & Shirokov SPECIES
 
 #### Status
 ACCEPTED

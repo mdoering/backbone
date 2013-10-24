@@ -1,5 +1,4 @@
-Cytospora balansae Speg. SPECIES
-=======
+# Cytospora balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

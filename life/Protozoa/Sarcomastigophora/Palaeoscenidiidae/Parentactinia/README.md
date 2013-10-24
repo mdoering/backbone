@@ -1,5 +1,4 @@
-Parentactinia Dumitrica, 1978 GENUS
-=======
+# Parentactinia Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

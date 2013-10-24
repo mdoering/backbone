@@ -1,14 +1,13 @@
-Sphaerella Keller, 1946 GENUS
-=======
+# Inocardion Masters & Scott, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Byull. Moskov. Obshch. Isp. Prirod. (N. S. ) 51, Geol. , 21 (3), 95.
+Micropaleontology 24 (2): 215.
 
 #### Original name
 null

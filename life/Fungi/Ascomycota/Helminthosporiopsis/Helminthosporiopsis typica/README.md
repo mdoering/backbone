@@ -1,5 +1,4 @@
-Helminthosporiopsis typica Speg. SPECIES
-=======
+# Helminthosporiopsis typica Speg. SPECIES
 
 #### Status
 ACCEPTED

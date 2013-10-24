@@ -1,17 +1,16 @@
-Fibuloporia wynnei var. ellipsospora (Pilát) anon. VARIETY
-=======
+# Hydnodontaceae Jülich FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 85: 372 (1982)
 
 #### Original name
-Polyporus wynnei f. ellipsosporus Pilát
+Hydnodontaceae Jülich
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gibberella parasitica Rick SPECIES
-=======
+# Gibberella parasitica Rick SPECIES
 
 #### Status
 ACCEPTED

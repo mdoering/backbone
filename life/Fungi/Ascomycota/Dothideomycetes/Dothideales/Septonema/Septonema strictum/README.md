@@ -1,5 +1,4 @@
-Septonema strictum Corda SPECIES
-=======
+# Septonema strictum Corda SPECIES
 
 #### Status
 ACCEPTED

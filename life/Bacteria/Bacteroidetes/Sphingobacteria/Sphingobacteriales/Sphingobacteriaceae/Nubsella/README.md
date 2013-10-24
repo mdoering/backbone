@@ -1,5 +1,4 @@
-Nubsella Asker et al., 2008 GENUS
-=======
+# Nubsella Asker et al., 2008 GENUS
 
 #### Status
 ACCEPTED

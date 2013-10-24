@@ -1,5 +1,4 @@
-Cortinarius stipitemirus Rob. Henry SPECIES
-=======
+# Cortinarius stipitemirus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

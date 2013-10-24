@@ -1,5 +1,4 @@
-Hendersonia variabilis Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia variabilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

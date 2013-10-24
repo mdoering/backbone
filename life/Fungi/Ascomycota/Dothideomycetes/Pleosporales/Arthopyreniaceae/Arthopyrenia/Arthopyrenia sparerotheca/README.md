@@ -1,5 +1,4 @@
-Arthopyrenia sparerotheca Norman SPECIES
-=======
+# Arthopyrenia sparerotheca Norman SPECIES
 
 #### Status
 ACCEPTED

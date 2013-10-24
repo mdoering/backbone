@@ -1,5 +1,4 @@
-Peziza alnicola (Velen.) Smitska SPECIES
-=======
+# Peziza alnicola (Velen.) Smitska SPECIES
 
 #### Status
 ACCEPTED

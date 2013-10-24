@@ -1,5 +1,4 @@
-Ucographa GENUS
-=======
+# Ucographa GENUS
 
 #### Status
 ACCEPTED

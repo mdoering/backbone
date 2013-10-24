@@ -1,5 +1,4 @@
-Lecidea pseudassimilis Hertel SPECIES
-=======
+# Lecidea pseudassimilis Hertel SPECIES
 
 #### Status
 ACCEPTED

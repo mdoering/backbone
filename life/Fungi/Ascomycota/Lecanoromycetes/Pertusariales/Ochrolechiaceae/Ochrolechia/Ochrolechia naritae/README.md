@@ -1,5 +1,4 @@
-Ochrolechia naritae (Yasuda ex Räsänen) Oshio SPECIES
-=======
+# Ochrolechia naritae (Yasuda ex Räsänen) Oshio SPECIES
 
 #### Status
 ACCEPTED

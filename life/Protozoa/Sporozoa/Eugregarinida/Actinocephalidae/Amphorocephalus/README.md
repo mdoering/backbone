@@ -1,5 +1,4 @@
-Amphorocephalus Ellis, 1913 GENUS
-=======
+# Amphorocephalus Ellis, 1913 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus serbicus (Pilát) Singer SPECIES
-=======
+# Paxillus serbicus (Pilát) Singer SPECIES
 
 #### Status
 ACCEPTED

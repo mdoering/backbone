@@ -1,5 +1,4 @@
-Lecanora rufofusca Maheu & A. Gillet SPECIES
-=======
+# Lecanora rufofusca Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

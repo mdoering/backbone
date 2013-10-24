@@ -1,5 +1,4 @@
-Leptosphaerulina sibirica Chleb. SPECIES
-=======
+# Leptosphaerulina sibirica Chleb. SPECIES
 
 #### Status
 ACCEPTED

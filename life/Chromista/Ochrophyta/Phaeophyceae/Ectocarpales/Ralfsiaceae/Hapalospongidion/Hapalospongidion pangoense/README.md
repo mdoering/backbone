@@ -1,8 +1,7 @@
-Ralfsia pangoense Setchell SPECIES
-=======
+# Hapalospongidion pangoense (Setchell) Hollenberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

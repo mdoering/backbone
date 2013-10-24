@@ -1,5 +1,4 @@
-Anthracothecium pseudocyphellatum Ajay Singh SPECIES
-=======
+# Anthracothecium pseudocyphellatum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

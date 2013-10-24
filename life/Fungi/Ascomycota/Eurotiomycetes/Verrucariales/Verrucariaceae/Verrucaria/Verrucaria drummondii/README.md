@@ -1,5 +1,4 @@
-Verrucaria drummondii Tuck. SPECIES
-=======
+# Verrucaria drummondii Tuck. SPECIES
 
 #### Status
 ACCEPTED

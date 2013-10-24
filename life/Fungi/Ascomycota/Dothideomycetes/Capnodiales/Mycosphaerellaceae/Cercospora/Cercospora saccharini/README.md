@@ -1,5 +1,4 @@
-Cercospora saccharini Liberta & Boewe SPECIES
-=======
+# Cercospora saccharini Liberta & Boewe SPECIES
 
 #### Status
 ACCEPTED

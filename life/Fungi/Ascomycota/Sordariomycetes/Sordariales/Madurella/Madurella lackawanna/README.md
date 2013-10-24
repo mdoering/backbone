@@ -1,5 +1,4 @@
-Madurella lackawanna Hanan SPECIES
-=======
+# Madurella lackawanna Hanan SPECIES
 
 #### Status
 ACCEPTED

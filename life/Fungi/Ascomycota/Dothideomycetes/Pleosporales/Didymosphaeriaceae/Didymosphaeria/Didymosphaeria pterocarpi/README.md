@@ -1,5 +1,4 @@
-Didymosphaeria pterocarpi J.M. Yen SPECIES
-=======
+# Didymosphaeria pterocarpi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

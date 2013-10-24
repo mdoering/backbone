@@ -1,5 +1,4 @@
-Penicillium aromaticum Sopp SPECIES
-=======
+# Penicillium aromaticum Sopp SPECIES
 
 #### Status
 ACCEPTED

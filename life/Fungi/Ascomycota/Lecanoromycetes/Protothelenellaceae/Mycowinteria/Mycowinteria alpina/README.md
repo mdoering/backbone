@@ -1,5 +1,4 @@
-Mycowinteria alpina L. Holm & K. Holm SPECIES
-=======
+# Mycowinteria alpina L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

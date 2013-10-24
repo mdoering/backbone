@@ -1,5 +1,4 @@
-Caloscyphaceae Harmaja FAMILY
-=======
+# Caloscyphaceae Harmaja FAMILY
 
 #### Status
 ACCEPTED

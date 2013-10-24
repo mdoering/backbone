@@ -1,5 +1,4 @@
-Cantharellus lagunae (Lázaro Ibiza) Sacc. & D. Sacc. SPECIES
-=======
+# Cantharellus lagunae (Lázaro Ibiza) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

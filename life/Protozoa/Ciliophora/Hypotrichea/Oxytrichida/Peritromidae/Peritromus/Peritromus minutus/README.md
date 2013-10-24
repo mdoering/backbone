@@ -1,5 +1,4 @@
-Peritromus minutus Vacelet, 1961 SPECIES
-=======
+# Peritromus minutus Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

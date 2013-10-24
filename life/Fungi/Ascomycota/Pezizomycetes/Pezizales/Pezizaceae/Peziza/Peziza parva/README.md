@@ -1,5 +1,4 @@
-Peziza parva W.W. Ray SPECIES
-=======
+# Peziza parva W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

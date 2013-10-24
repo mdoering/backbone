@@ -1,5 +1,4 @@
-Nonionella labridorica SPECIES
-=======
+# Nonionella labridorica SPECIES
 
 #### Status
 ACCEPTED

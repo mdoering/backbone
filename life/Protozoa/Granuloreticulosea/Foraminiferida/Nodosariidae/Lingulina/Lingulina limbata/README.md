@@ -1,5 +1,4 @@
-Lingulina limbata Millett, 1902 SPECIES
-=======
+# Lingulina limbata Millett, 1902 SPECIES
 
 #### Status
 ACCEPTED

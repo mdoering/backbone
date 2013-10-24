@@ -1,5 +1,4 @@
-Phyllachora greciana Syd., 1926 SPECIES
-=======
+# Phyllachora greciana Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

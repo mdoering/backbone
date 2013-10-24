@@ -1,5 +1,4 @@
-Depazea caladii Schwein. SPECIES
-=======
+# Depazea caladii Schwein. SPECIES
 
 #### Status
 ACCEPTED

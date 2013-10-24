@@ -1,5 +1,4 @@
-Tyromyces pendens Ipulet & Ryvarden SPECIES
-=======
+# Tyromyces pendens Ipulet & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

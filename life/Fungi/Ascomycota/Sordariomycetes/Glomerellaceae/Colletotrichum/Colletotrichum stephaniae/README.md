@@ -1,5 +1,4 @@
-Colletotrichum stephaniae Sawada SPECIES
-=======
+# Colletotrichum stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

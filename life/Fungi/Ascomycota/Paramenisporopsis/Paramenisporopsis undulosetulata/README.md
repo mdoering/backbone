@@ -1,5 +1,4 @@
-Paramenisporopsis undulosetulata Matsush., 2003 SPECIES
-=======
+# Paramenisporopsis undulosetulata Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

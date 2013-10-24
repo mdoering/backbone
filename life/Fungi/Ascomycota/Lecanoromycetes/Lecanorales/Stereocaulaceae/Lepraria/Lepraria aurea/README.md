@@ -1,5 +1,4 @@
-Lepraria aurea Ach. SPECIES
-=======
+# Lepraria aurea Ach. SPECIES
 
 #### Status
 ACCEPTED

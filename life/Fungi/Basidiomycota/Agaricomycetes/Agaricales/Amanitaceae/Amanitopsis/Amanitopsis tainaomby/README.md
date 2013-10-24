@@ -1,5 +1,4 @@
-Amanitopsis tainaomby (R. Heim) E.-J. Gilbert SPECIES
-=======
+# Amanitopsis tainaomby (R. Heim) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

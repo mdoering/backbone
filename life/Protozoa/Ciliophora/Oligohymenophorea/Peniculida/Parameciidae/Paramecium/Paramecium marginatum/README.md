@@ -1,5 +1,4 @@
-Paramecium marginatum Dumas, 1930 SPECIES
-=======
+# Paramecium marginatum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

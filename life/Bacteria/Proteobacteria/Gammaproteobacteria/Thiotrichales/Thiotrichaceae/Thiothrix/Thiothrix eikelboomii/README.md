@@ -1,5 +1,4 @@
-Thiothrix eikelboomii Howarth et al., 1999 SPECIES
-=======
+# Thiothrix eikelboomii Howarth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

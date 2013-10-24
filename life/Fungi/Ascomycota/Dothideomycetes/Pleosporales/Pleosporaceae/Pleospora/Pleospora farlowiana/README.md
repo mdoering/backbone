@@ -1,5 +1,4 @@
-Pleospora farlowiana Rehm SPECIES
-=======
+# Pleospora farlowiana Rehm SPECIES
 
 #### Status
 ACCEPTED

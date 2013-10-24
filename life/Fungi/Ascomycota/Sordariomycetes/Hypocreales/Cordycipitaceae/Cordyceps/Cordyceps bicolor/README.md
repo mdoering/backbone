@@ -1,5 +1,4 @@
-Cordyceps bicolor Pat. SPECIES
-=======
+# Cordyceps bicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Diphaeis badiotra (Flörke ex Spreng.) Clem. SPECIES
-=======
+# Diphaeis badioatra (Flörke ex Spreng.) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Lecidea badioatra Flörke ex Spreng.

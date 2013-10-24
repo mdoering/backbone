@@ -1,5 +1,4 @@
-Verrucaria exigua Clemente SPECIES
-=======
+# Verrucaria exigua Clemente SPECIES
 
 #### Status
 ACCEPTED

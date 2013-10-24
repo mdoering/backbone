@@ -1,5 +1,4 @@
-Pluricellaesporites serratus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites serratus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

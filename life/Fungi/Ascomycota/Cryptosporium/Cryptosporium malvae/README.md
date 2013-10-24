@@ -1,5 +1,4 @@
-Cryptosporium malvae Grove SPECIES
-=======
+# Cryptosporium malvae Grove SPECIES
 
 #### Status
 ACCEPTED

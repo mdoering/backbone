@@ -1,5 +1,4 @@
-Lecidea melanochroa Leight. SPECIES
-=======
+# Lecidea melanochroa Leight. SPECIES
 
 #### Status
 ACCEPTED

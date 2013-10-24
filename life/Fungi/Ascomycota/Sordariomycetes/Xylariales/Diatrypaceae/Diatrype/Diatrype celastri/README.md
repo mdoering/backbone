@@ -1,5 +1,4 @@
-Diatrype celastri Dearn. & Bisby SPECIES
-=======
+# Diatrype celastri Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

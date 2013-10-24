@@ -1,5 +1,4 @@
-Kutchiathyrites canadensis Kalgutkar & Janson. SPECIES
-=======
+# Kutchiathyrites canadensis Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

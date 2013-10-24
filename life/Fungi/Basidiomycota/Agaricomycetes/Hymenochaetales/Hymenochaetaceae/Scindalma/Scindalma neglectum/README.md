@@ -1,5 +1,4 @@
-Scindalma neglectum (Pat.) Kuntze SPECIES
-=======
+# Scindalma neglectum (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

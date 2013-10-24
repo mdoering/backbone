@@ -1,5 +1,4 @@
-Cercospora tuberculans Ellis & Everh. SPECIES
-=======
+# Cercospora tuberculans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

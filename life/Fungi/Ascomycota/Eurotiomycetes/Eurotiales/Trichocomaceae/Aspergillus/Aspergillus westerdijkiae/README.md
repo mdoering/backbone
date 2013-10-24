@@ -1,5 +1,4 @@
-Aspergillus westerdijkiae Frisvad & Samson SPECIES
-=======
+# Aspergillus westerdijkiae Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

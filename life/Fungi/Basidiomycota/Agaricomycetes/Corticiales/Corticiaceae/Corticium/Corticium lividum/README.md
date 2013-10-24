@@ -1,17 +1,16 @@
-Corticium lividum var. lividum VARIETY
-=======
+# Corticium lividum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Corticium lividum var. lividum
+null
 
 ### Remarks
 null

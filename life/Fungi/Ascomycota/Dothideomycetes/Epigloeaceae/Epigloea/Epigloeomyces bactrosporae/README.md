@@ -1,5 +1,4 @@
-Epigloeomyces bactrosporae Cif. & Tomas. SPECIES
-=======
+# Epigloeomyces bactrosporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

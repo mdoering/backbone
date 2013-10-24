@@ -1,14 +1,13 @@
-Phaeoisariopsis anonarum (Petr. & Cif.) U. Braun SPECIES
-=======
+# Phaeoisariopsis annonarum (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 50(3-4): 511 (1990)
 
 #### Original name
 Isariopsis annonarum Petr. & Cif.

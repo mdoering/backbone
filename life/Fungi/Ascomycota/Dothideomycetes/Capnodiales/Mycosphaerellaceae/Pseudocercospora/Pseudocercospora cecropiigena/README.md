@@ -1,5 +1,4 @@
-Pseudocercospora cecropiigena U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora cecropiigena U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

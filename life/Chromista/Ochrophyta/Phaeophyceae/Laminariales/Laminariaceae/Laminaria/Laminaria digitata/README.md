@@ -1,8 +1,7 @@
-Laminaria flexicaulis f. latilaciniata Foslie FORM
-=======
+# Laminaria digitata (Hudson) J.V. Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

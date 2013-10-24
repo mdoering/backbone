@@ -1,5 +1,4 @@
-Spirosigmoilina parri Collins, 1958 SPECIES
-=======
+# Spirosigmoilina parri Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

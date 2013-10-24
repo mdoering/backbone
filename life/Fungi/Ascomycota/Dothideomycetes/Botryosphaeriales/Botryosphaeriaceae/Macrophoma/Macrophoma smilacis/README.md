@@ -1,5 +1,4 @@
-Macrophoma smilacis (Ellis & G. Martin) Bubák SPECIES
-=======
+# Macrophoma smilacis (Ellis & G. Martin) Bubák SPECIES
 
 #### Status
 ACCEPTED

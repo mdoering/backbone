@@ -1,5 +1,4 @@
-Cochlonema calosperma Drechsler, 1951 SPECIES
-=======
+# Cochlonema calosperma Drechsler, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis tephrosiae Chowdhry SPECIES
-=======
+# Phomopsis tephrosiae Chowdhry SPECIES
 
 #### Status
 ACCEPTED

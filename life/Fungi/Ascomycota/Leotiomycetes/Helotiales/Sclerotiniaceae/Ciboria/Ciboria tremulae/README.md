@@ -1,5 +1,4 @@
-Ciboria tremulae Velen. SPECIES
-=======
+# Ciboria tremulae Velen. SPECIES
 
 #### Status
 ACCEPTED

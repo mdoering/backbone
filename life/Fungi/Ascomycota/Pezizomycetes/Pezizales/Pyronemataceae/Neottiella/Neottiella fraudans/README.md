@@ -1,5 +1,4 @@
-Neottiella fraudans (P. Karst.) Sacc. SPECIES
-=======
+# Neottiella fraudans (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

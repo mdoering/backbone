@@ -1,5 +1,4 @@
-Oospora pilularis Sacc. SPECIES
-=======
+# Oospora pilularis Sacc. SPECIES
 
 #### Status
 ACCEPTED

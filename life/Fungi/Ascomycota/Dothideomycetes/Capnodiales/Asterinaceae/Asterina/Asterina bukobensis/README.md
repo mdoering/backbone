@@ -1,5 +1,4 @@
-Asterina bukobensis Hansf. SPECIES
-=======
+# Asterina bukobensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

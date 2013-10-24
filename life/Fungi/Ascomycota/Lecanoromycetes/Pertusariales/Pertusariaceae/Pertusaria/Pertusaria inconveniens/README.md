@@ -1,5 +1,4 @@
-Pertusaria inconveniens Vain. SPECIES
-=======
+# Pertusaria inconveniens Vain. SPECIES
 
 #### Status
 ACCEPTED

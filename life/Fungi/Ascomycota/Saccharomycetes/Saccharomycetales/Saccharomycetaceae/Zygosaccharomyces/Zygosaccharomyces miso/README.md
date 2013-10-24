@@ -1,5 +1,4 @@
-Zygosaccharomyces miso Mogi SPECIES
-=======
+# Zygosaccharomyces miso Mogi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina hollei (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Porina hollei (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

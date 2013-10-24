@@ -1,5 +1,4 @@
-Helicosphaera subantarctica Edwards & Perch-Nielsen, 1975 SPECIES
-=======
+# Helicosphaera subantarctica Edwards & Perch-Nielsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

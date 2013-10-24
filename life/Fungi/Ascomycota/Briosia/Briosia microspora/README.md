@@ -1,5 +1,4 @@
-Briosia microspora (G. Sm.) Arx SPECIES
-=======
+# Briosia microspora (G. Sm.) Arx SPECIES
 
 #### Status
 ACCEPTED

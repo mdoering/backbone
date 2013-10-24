@@ -1,5 +1,4 @@
-Collybia albimollis Corner SPECIES
-=======
+# Collybia albimollis Corner SPECIES
 
 #### Status
 ACCEPTED

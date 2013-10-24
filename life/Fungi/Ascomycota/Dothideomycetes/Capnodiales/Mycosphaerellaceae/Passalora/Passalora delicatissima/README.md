@@ -1,5 +1,4 @@
-Passalora delicatissima (Kalchbr. & Cooke) U. Braun & Crous SPECIES
-=======
+# Passalora delicatissima (Kalchbr. & Cooke) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

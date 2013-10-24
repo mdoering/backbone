@@ -1,5 +1,4 @@
-Sphaerothallia jussufii (Link) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia jussufii (Link) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

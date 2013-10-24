@@ -1,5 +1,4 @@
-Aspergillus striatulus Samson & W. Gams SPECIES
-=======
+# Aspergillus striatulus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

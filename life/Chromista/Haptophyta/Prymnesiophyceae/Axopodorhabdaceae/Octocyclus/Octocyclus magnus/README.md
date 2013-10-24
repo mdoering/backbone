@@ -1,5 +1,4 @@
-Octocyclus magnus Black, 1972 SPECIES
-=======
+# Octocyclus magnus Black, 1972 SPECIES
 
 #### Status
 ACCEPTED

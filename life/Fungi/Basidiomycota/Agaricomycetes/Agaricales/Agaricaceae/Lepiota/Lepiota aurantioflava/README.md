@@ -1,5 +1,4 @@
-Lepiota aurantioflava Hongo SPECIES
-=======
+# Lepiota aurantioflava Hongo SPECIES
 
 #### Status
 ACCEPTED

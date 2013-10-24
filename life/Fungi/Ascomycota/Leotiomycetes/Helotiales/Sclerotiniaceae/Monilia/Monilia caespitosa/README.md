@@ -1,5 +1,4 @@
-Monilia caespitosa Purton SPECIES
-=======
+# Monilia caespitosa Purton SPECIES
 
 #### Status
 ACCEPTED

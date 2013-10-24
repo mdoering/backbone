@@ -1,5 +1,4 @@
-Dactylospora amygdalariae Triebel SPECIES
-=======
+# Dactylospora amygdalariae Triebel SPECIES
 
 #### Status
 ACCEPTED

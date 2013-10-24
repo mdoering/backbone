@@ -1,5 +1,4 @@
-Prunulus longipes Murrill SPECIES
-=======
+# Prunulus longipes Murrill SPECIES
 
 #### Status
 ACCEPTED

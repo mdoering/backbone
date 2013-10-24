@@ -1,5 +1,4 @@
-Gymnopus sepiiconicus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus sepiiconicus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

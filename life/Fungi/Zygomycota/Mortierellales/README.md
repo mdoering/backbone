@@ -1,5 +1,4 @@
-Mortierellales Caval.-Sm. ORDER
-=======
+# Mortierellales Caval.-Sm. ORDER
 
 #### Status
 ACCEPTED

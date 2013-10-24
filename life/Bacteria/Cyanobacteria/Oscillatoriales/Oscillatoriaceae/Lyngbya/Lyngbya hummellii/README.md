@@ -1,5 +1,4 @@
-Lyngbya hummellii Borge SPECIES
-=======
+# Lyngbya hummellii Borge SPECIES
 
 #### Status
 ACCEPTED

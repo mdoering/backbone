@@ -1,5 +1,4 @@
-Torulopsis GENUS
-=======
+# Torulopsis GENUS
 
 #### Status
 ACCEPTED

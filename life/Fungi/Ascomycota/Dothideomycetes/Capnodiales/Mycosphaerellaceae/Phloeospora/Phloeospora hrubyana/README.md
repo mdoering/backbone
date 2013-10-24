@@ -1,5 +1,4 @@
-Phloeospora hrubyana Sacc. SPECIES
-=======
+# Phloeospora hrubyana Sacc. SPECIES
 
 #### Status
 ACCEPTED

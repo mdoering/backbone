@@ -1,5 +1,4 @@
-Scutiger subsquamosus (Batsch) Paulet SPECIES
-=======
+# Scutiger subsquamosus (Batsch) Paulet SPECIES
 
 #### Status
 ACCEPTED

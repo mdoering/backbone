@@ -1,5 +1,4 @@
-Ascochyta irregularispora Matsush. SPECIES
-=======
+# Ascochyta irregularispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

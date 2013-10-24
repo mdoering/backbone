@@ -1,5 +1,4 @@
-Teichospora loculosa Sousa da Câmara SPECIES
-=======
+# Teichospora loculosa Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina epiphylla var. epiphylla VARIETY
-=======
+# Taphrina epiphylla (Sadeb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 816 (1889)
 
 #### Original name
-Taphrina epiphylla var. epiphylla
+Exoascus epiphyllus Sadeb.
 
 ### Remarks
 null

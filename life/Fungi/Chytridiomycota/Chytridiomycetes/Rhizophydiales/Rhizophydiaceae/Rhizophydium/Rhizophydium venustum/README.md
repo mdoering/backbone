@@ -1,14 +1,13 @@
-Zygorhizidium venustum (Canter) Canter, 1972 SPECIES
-=======
+# Rhizophydium venustum Canter, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 21(3-4): 578 (1972)
+Trans. Br. mycol. Soc. 46: 317 (1963)
 
 #### Original name
 Rhizophydium venustum Canter, 1963

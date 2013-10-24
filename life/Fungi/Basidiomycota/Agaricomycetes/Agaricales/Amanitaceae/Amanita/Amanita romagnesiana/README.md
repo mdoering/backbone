@@ -1,5 +1,4 @@
-Amanita romagnesiana Tulloss SPECIES
-=======
+# Amanita romagnesiana Tulloss SPECIES
 
 #### Status
 ACCEPTED

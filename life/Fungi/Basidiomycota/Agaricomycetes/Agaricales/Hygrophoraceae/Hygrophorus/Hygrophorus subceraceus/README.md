@@ -1,5 +1,4 @@
-Hygrophorus subceraceus (Murrill) Murrill SPECIES
-=======
+# Hygrophorus subceraceus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

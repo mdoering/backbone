@@ -1,5 +1,4 @@
-Petrospongium Nägeli ex Kützing, 1858 GENUS
-=======
+# Petrospongium Nägeli ex Kützing, 1858 GENUS
 
 #### Status
 ACCEPTED

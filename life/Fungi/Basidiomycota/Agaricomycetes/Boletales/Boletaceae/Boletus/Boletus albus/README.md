@@ -1,5 +1,4 @@
-Boletus albus Sowerby SPECIES
-=======
+# Boletus albus Sowerby SPECIES
 
 #### Status
 ACCEPTED

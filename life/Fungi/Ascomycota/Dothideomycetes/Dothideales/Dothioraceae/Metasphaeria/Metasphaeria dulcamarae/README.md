@@ -1,5 +1,4 @@
-Metasphaeria dulcamarae Massa SPECIES
-=======
+# Metasphaeria dulcamarae Massa SPECIES
 
 #### Status
 ACCEPTED

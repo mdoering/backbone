@@ -1,5 +1,4 @@
-Cercospora salicis-babylonicae J.M. Yen SPECIES
-=======
+# Cercospora salicis-babylonicae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

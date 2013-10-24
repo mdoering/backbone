@@ -1,5 +1,4 @@
-Leptosphaeria punjabensis Wehm. SPECIES
-=======
+# Leptosphaeria punjabensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

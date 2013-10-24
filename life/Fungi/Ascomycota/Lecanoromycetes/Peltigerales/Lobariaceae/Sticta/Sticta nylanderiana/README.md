@@ -1,5 +1,4 @@
-Sticta nylanderiana var. nylanderiana VARIETY
-=======
+# Sticta nylanderiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta nylanderiana var. nylanderiana
+Sticta platyphylla Nyl.
 
 ### Remarks
 null

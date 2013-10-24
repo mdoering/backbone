@@ -1,5 +1,4 @@
-Physalospora everhartii Sacc. & P. Syd. SPECIES
-=======
+# Physalospora everhartii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

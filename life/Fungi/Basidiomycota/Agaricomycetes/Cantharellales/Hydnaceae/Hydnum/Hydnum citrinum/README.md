@@ -1,5 +1,4 @@
-Hydnum citrinum Schmalz SPECIES
-=======
+# Hydnum citrinum Schmalz SPECIES
 
 #### Status
 ACCEPTED

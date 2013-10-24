@@ -1,5 +1,4 @@
-Cryptococcus mitis S. Mazza, Stabile & Feijoo SPECIES
-=======
+# Cryptococcus mitis S. Mazza, Stabile & Feijoo SPECIES
 
 #### Status
 ACCEPTED

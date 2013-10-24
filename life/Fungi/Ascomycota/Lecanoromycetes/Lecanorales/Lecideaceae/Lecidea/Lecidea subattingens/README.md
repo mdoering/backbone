@@ -1,5 +1,4 @@
-Lecidea subattingens G. Merr. SPECIES
-=======
+# Lecidea subattingens G. Merr. SPECIES
 
 #### Status
 ACCEPTED

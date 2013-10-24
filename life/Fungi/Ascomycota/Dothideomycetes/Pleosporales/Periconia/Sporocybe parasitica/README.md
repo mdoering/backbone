@@ -1,5 +1,4 @@
-Sporocybe parasitica (Peck) Sacc. SPECIES
-=======
+# Sporocybe parasitica (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

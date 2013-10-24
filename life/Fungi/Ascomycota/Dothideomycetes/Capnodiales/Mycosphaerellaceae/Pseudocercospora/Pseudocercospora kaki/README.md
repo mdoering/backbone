@@ -1,5 +1,4 @@
-Pseudocercospora kaki Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora kaki Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

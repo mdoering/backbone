@@ -1,5 +1,4 @@
-Uredo wyethiae (Peck) De Toni SPECIES
-=======
+# Uredo wyethiae (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

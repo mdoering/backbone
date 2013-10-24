@@ -1,5 +1,4 @@
-Phakopsora butleri Dianese, L.T.P. Santos & R.B. Medeiros SPECIES
-=======
+# Phakopsora butleri Dianese, L.T.P. Santos & R.B. Medeiros SPECIES
 
 #### Status
 ACCEPTED

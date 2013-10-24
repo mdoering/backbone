@@ -1,5 +1,4 @@
-Tilmadoche anomala Massee SPECIES
-=======
+# Tilmadoche anomala Massee SPECIES
 
 #### Status
 ACCEPTED

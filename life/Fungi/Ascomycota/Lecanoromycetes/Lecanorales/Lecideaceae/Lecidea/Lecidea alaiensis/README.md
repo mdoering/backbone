@@ -1,5 +1,4 @@
-Lecidea alaiensis Vain. SPECIES
-=======
+# Lecidea alaiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

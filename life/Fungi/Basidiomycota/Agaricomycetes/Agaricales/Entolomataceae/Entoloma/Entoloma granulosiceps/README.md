@@ -1,5 +1,4 @@
-Entoloma granulosiceps E. Horak SPECIES
-=======
+# Entoloma granulosiceps E. Horak SPECIES
 
 #### Status
 ACCEPTED

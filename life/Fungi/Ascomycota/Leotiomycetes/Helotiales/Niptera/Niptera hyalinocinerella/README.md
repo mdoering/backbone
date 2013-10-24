@@ -1,5 +1,4 @@
-Niptera hyalinocinerella (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Niptera hyalinocinerella (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus mallecanus Cleland SPECIES
-=======
+# Pleurotus mallecanus Cleland SPECIES
 
 #### Status
 ACCEPTED

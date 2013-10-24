@@ -1,8 +1,7 @@
-Helicosphaera truncata Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Helicosphaera recta Haq, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Mycoderma monosa H.W. Anderson SPECIES
-=======
+# Mycoderma monosa H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

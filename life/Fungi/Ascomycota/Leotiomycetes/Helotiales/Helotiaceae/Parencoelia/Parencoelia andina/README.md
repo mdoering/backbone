@@ -1,5 +1,4 @@
-Parencoelia andina Petr., 1950 SPECIES
-=======
+# Parencoelia andina Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

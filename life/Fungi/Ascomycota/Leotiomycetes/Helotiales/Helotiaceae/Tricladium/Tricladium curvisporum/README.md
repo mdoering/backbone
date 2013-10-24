@@ -1,5 +1,4 @@
-Tricladium curvisporum Descals, 1983 SPECIES
-=======
+# Tricladium curvisporum Descals, 1983 SPECIES
 
 #### Status
 ACCEPTED

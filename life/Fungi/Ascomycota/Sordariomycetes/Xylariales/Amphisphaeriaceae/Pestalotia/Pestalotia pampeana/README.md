@@ -1,5 +1,4 @@
-Pestalotia pampeana Speg. SPECIES
-=======
+# Pestalotia pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

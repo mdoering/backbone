@@ -1,5 +1,4 @@
-Phyllachora tengchongensis Na Liu & L. Guo, 2007 SPECIES
-=======
+# Phyllachora tengchongensis Na Liu & L. Guo, 2007 SPECIES
 
 #### Status
 ACCEPTED

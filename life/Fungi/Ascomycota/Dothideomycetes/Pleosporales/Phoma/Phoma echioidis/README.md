@@ -1,5 +1,4 @@
-Phoma echioidis Brunaud SPECIES
-=======
+# Phoma echioidis Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium smilacis Pat. SPECIES
-=======
+# Coniothyrium smilacis Pat. SPECIES
 
 #### Status
 ACCEPTED

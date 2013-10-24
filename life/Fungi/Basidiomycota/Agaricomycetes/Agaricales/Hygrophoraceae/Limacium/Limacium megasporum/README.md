@@ -1,5 +1,4 @@
-Limacium megasporum (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium megasporum (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

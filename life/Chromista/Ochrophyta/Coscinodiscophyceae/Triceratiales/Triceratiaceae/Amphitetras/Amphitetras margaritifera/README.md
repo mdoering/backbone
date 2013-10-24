@@ -1,5 +1,4 @@
-Amphitetras margaritifera (Cleve) De Toni SPECIES
-=======
+# Amphitetras margaritifera (Cleve) De Toni SPECIES
 
 #### Status
 ACCEPTED

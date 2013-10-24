@@ -1,5 +1,4 @@
-Clitocybe majalis Velen. SPECIES
-=======
+# Clitocybe majalis Velen. SPECIES
 
 #### Status
 ACCEPTED

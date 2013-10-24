@@ -1,5 +1,4 @@
-Cryptodiaporthe pulchella (Sacc.) Butin SPECIES
-=======
+# Cryptodiaporthe pulchella (Sacc.) Butin SPECIES
 
 #### Status
 ACCEPTED

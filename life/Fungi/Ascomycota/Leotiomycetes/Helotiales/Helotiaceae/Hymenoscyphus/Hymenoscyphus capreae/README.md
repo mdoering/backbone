@@ -1,5 +1,4 @@
-Hymenoscyphus capreae (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus capreae (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

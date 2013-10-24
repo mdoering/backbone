@@ -1,5 +1,4 @@
-Conocybe roseipes Hauskn. SPECIES
-=======
+# Conocybe roseipes Hauskn. SPECIES
 
 #### Status
 ACCEPTED

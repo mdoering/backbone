@@ -1,5 +1,4 @@
-Polystictus ellisianus Lloyd SPECIES
-=======
+# Polystictus ellisianus Lloyd SPECIES
 
 #### Status
 ACCEPTED

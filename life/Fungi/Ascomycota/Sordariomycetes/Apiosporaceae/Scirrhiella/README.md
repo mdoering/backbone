@@ -1,5 +1,4 @@
-Scirrhiella GENUS
-=======
+# Scirrhiella GENUS
 
 #### Status
 ACCEPTED

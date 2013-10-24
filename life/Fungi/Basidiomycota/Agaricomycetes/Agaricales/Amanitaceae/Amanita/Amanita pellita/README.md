@@ -1,5 +1,4 @@
-Amanita pellita Paulet ex Bertill. SPECIES
-=======
+# Amanita pellita Paulet ex Bertill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea halei (Tuck.) SPECIES
-=======
+# Lecidea halei (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

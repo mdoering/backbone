@@ -1,5 +1,4 @@
-Ceratium GENUS
-=======
+# Ceratium GENUS
 
 #### Status
 ACCEPTED

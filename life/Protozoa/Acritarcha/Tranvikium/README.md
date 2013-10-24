@@ -1,5 +1,4 @@
-Tranvikium Tynni, 1982 GENUS
-=======
+# Tranvikium Tynni, 1982 GENUS
 
 #### Status
 ACCEPTED

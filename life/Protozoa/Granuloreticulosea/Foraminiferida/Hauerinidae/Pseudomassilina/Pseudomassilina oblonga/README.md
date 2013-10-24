@@ -1,5 +1,4 @@
-Pseudomassilina oblonga var. robusta Lacroix, 1938 VARIETY
-=======
+# Pseudomassilina oblonga Lacroix, 1938 SPECIES
 
 #### Status
 ACCEPTED

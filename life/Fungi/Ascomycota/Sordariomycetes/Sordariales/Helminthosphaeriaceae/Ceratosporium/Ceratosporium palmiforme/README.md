@@ -1,5 +1,4 @@
-Ceratosporium palmiforme Matsush. SPECIES
-=======
+# Ceratosporium palmiforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

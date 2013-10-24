@@ -1,5 +1,4 @@
-Puccinia laguri-chamaemoly Maire SPECIES
-=======
+# Puccinia laguri-chamaemoly Maire SPECIES
 
 #### Status
 ACCEPTED

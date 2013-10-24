@@ -1,5 +1,4 @@
-Dicaeoma fumosum (Holw.) Arthur SPECIES
-=======
+# Dicaeoma fumosum (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

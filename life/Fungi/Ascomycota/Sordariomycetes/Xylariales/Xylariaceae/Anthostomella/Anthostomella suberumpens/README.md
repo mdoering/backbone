@@ -1,5 +1,4 @@
-Anthostomella suberumpens Ellis & Everh. SPECIES
-=======
+# Anthostomella suberumpens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

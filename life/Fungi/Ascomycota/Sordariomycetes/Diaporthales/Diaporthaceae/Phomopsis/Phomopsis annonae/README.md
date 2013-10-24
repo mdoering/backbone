@@ -1,17 +1,16 @@
-Phomopsis anonae Urries SPECIES
-=======
+# Phomopsis annonae Urries SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Jard. bot. Madr. 10(2): 214 (1952)
 
 #### Original name
-Phomopsis anonae Urries
+Phomopsis annonae Urries
 
 ### Remarks
 null

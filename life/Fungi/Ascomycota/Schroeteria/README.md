@@ -1,17 +1,16 @@
-Geminella J. Schröter, 1870 GENUS
-=======
+# Schroeteria G. Winter, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Hedwigia 9: 137 (1870)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(1): 117 (1881)
 
 #### Original name
-Geminella J. Schröter, 1870
+Schroeteria G. Winter, 1881
 
 ### Remarks
 null

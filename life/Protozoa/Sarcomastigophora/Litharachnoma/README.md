@@ -1,5 +1,4 @@
-Litharachnoma Haeckel, 1887 GENUS
-=======
+# Litharachnoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

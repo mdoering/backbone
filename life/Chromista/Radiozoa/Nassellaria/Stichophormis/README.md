@@ -1,5 +1,4 @@
-Stichophormis Haeckel, 1881 GENUS
-=======
+# Stichophormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

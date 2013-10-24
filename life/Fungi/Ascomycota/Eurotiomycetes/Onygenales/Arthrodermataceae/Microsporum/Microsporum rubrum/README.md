@@ -1,17 +1,16 @@
-Microsporon rubrum Cazalbou SPECIES
-=======
+# Microsporum rubrum Cazalbou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Soc. Cent. Med. vet. 67: 77 (1913)
 
 #### Original name
-Microsporon rubrum Cazalbou
+Microsporum rubrum Cazalbou
 
 ### Remarks
 null

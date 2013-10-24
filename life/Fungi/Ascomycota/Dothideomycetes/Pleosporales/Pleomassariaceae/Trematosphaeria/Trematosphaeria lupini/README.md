@@ -1,5 +1,4 @@
-Trematosphaeria lupini Tracy & Earle SPECIES
-=======
+# Trematosphaeria lupini Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

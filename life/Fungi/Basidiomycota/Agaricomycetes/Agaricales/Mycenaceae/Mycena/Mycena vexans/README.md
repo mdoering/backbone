@@ -1,5 +1,4 @@
-Mycena vexans Peck SPECIES
-=======
+# Mycena vexans Peck SPECIES
 
 #### Status
 ACCEPTED

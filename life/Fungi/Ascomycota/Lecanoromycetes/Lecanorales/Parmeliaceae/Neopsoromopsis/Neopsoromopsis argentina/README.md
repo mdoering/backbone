@@ -1,5 +1,4 @@
-Neopsoromopsis argentina Gyeln. SPECIES
-=======
+# Neopsoromopsis argentina Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria aeruginosula Müll. Arg. SPECIES
-=======
+# Patellaria aeruginosula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

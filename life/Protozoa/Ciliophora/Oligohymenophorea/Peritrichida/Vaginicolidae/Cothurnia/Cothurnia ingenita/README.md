@@ -1,5 +1,4 @@
-Cothurnia ingenita SPECIES
-=======
+# Cothurnia ingenita SPECIES
 
 #### Status
 ACCEPTED

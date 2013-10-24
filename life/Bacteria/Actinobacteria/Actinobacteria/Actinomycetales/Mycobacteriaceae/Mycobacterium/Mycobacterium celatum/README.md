@@ -1,5 +1,4 @@
-Mycobacterium celatum Butler et al., 1993 SPECIES
-=======
+# Mycobacterium celatum Butler et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

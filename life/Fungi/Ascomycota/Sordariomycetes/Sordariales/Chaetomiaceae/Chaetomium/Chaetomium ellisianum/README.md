@@ -1,5 +1,4 @@
-Chaetomium ellisianum Sacc. & P. Syd. SPECIES
-=======
+# Chaetomium ellisianum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

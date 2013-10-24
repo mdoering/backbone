@@ -1,5 +1,4 @@
-Globocassidulina notalnella (Saidova, 1975) SPECIES
-=======
+# Globocassidulina notalnella (Saidova, 1975) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha degenerans Velen. SPECIES
-=======
+# Dasyscyphus degenerans Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 1: 234 (1934)
 
 #### Original name
-Dasyscypha degenerans Velen.
+Dasyscyphus degenerans Velen.
 
 ### Remarks
 null

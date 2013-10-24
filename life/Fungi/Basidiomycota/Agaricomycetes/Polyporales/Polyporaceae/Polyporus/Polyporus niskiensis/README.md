@@ -1,5 +1,4 @@
-Polyporus niskiensis Pers. SPECIES
-=======
+# Polyporus niskiensis Pers. SPECIES
 
 #### Status
 ACCEPTED

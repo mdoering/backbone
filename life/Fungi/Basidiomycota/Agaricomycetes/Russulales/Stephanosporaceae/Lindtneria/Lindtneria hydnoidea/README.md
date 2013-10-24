@@ -1,5 +1,4 @@
-Lindtneria hydnoidea Bernicchia & Ryvarden, 1998 SPECIES
-=======
+# Lindtneria hydnoidea Bernicchia & Ryvarden, 1998 SPECIES
 
 #### Status
 ACCEPTED

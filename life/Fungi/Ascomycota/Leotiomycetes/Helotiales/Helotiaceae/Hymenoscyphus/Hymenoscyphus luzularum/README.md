@@ -1,5 +1,4 @@
-Hymenoscyphus luzularum (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus luzularum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

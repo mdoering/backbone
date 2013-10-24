@@ -1,5 +1,4 @@
-Bartalinia dracaenae P.G. Xi, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Bartalinia dracaenae P.G. Xi, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

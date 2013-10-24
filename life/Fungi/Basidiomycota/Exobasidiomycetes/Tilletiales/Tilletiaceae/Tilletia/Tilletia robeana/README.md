@@ -1,5 +1,4 @@
-Tilletia robeana Vánky, 2002 SPECIES
-=======
+# Tilletia robeana Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

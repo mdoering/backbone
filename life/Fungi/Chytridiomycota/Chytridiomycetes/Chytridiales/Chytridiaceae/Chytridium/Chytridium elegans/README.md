@@ -1,5 +1,4 @@
-Chytridium elegans Perronc. SPECIES
-=======
+# Chytridium elegans Perronc. SPECIES
 
 #### Status
 ACCEPTED

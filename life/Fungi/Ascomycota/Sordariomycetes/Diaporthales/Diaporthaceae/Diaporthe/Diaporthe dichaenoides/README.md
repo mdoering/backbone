@@ -1,5 +1,4 @@
-Diaporthe dichaenoides (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe dichaenoides (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

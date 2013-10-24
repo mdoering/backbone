@@ -1,5 +1,4 @@
-Lembosina sclerolobii (Henn.) Arx SPECIES
-=======
+# Lembosina sclerolobii (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella cayaponiae (F. Stevens & Solheim) Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella cayaponiae (F. Stevens & Solheim) Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

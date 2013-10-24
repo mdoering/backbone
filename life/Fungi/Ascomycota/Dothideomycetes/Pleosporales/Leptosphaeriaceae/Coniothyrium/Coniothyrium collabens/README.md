@@ -1,5 +1,4 @@
-Coniothyrium collabens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Coniothyrium collabens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

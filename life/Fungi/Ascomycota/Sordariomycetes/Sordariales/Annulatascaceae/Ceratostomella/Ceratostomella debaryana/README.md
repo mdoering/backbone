@@ -1,5 +1,4 @@
-Ceratostomella debaryana (Auersw.) Sacc. SPECIES
-=======
+# Ceratostomella debaryana (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

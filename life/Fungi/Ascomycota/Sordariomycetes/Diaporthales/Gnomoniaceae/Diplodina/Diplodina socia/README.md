@@ -1,5 +1,4 @@
-Diplodina socia Tassi SPECIES
-=======
+# Diplodina socia Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coreomyces ramosus Thaxt. SPECIES
-=======
+# Coreomyces ramosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

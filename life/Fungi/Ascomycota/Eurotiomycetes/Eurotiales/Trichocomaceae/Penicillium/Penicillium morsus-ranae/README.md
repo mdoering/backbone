@@ -1,5 +1,4 @@
-Penicillium morsus-ranae Corda SPECIES
-=======
+# Penicillium morsus-ranae Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora myrmecophaga Turian & Wuest SPECIES
-=======
+# Entomophthora myrmecophaga Turian & Wuest SPECIES
 
 #### Status
 ACCEPTED

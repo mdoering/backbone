@@ -1,5 +1,4 @@
-Cercospora brassicifolia Henn. SPECIES
-=======
+# Cercospora brassicifolia Henn. SPECIES
 
 #### Status
 ACCEPTED

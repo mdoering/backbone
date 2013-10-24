@@ -1,5 +1,4 @@
-Phyllosticta elaeagni Allesch. SPECIES
-=======
+# Phyllosticta elaeagni Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces badius Rogerson & Samuels, 1989 SPECIES
-=======
+# Hypomyces badius Rogerson & Samuels, 1989 SPECIES
 
 #### Status
 ACCEPTED

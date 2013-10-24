@@ -1,5 +1,4 @@
-Fechtneria subterranea Velen. SPECIES
-=======
+# Fechtneria subterranea Velen. SPECIES
 
 #### Status
 ACCEPTED

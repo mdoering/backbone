@@ -1,5 +1,4 @@
-Uleothyrium clavisporum (Rehm) Syd. SPECIES
-=======
+# Uleothyrium clavisporum (Rehm) Syd. SPECIES
 
 #### Status
 ACCEPTED

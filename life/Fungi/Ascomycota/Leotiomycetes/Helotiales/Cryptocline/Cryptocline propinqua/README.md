@@ -1,5 +1,4 @@
-Cryptocline propinqua (Bubák & Vleugel) Arx SPECIES
-=======
+# Cryptocline propinqua (Bubák & Vleugel) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tricholoma melaleucum f. melaleucum FORM
-=======
+# Melanoleuca melaleuca (Pers.) Murrill, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 133 (1871)
+Mycologia 3(3): 167 (1911)
 
 #### Original name
-Tricholoma melaleucum f. melaleucum
+Agaricus melaleucus Pers., 1801
 
 ### Remarks
 null

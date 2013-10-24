@@ -1,5 +1,4 @@
-Hyperphyscia tuckermanii (Lynge) Moberg SPECIES
-=======
+# Hyperphyscia tuckermanii (Lynge) Moberg SPECIES
 
 #### Status
 ACCEPTED

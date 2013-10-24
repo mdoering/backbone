@@ -1,5 +1,4 @@
-Entoloma luridum Hesler SPECIES
-=======
+# Entoloma luridum Hesler SPECIES
 
 #### Status
 ACCEPTED

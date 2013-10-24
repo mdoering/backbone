@@ -1,5 +1,4 @@
-Bryopogon sophiae (Motyka) Bystrek SPECIES
-=======
+# Bryopogon sophiae (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

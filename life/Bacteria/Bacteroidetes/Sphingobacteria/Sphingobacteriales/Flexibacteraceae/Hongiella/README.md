@@ -1,5 +1,4 @@
-Hongiella Yi & Chun, 2004 GENUS
-=======
+# Hongiella Yi & Chun, 2004 GENUS
 
 #### Status
 ACCEPTED

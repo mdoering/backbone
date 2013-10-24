@@ -1,5 +1,4 @@
-Spondylocladiella Linder GENUS
-=======
+# Spondylocladiella Linder GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria vaga (Rehm) G. Winter SPECIES
-=======
+# Strickeria vaga (Rehm) G. Winter SPECIES
 
 #### Status
 ACCEPTED

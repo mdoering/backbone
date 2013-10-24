@@ -1,5 +1,4 @@
-Tubercularia rubi Rabenh. SPECIES
-=======
+# Tubercularia rubi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

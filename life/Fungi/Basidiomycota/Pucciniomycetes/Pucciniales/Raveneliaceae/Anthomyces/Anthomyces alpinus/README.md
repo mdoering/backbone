@@ -1,5 +1,4 @@
-Anthomyces alpinus Grüss, 1927 SPECIES
-=======
+# Anthomyces alpinus Grüss, 1927 SPECIES
 
 #### Status
 ACCEPTED

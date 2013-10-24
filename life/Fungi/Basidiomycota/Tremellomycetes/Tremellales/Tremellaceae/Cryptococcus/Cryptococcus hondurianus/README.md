@@ -1,5 +1,4 @@
-Cryptococcus hondurianus (Castell.) C.W. Dodge SPECIES
-=======
+# Cryptococcus hondurianus (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

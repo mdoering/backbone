@@ -1,5 +1,4 @@
-Lophomerum quercus (S.K. Bose & E. Müll.) Darker SPECIES
-=======
+# Lophomerum quercus (S.K. Bose & E. Müll.) Darker SPECIES
 
 #### Status
 ACCEPTED

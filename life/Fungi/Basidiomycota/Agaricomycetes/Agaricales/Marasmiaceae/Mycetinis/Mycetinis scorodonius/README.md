@@ -1,17 +1,16 @@
-Marasmius scorodonius var. scorodonius VARIETY
-=======
+# Mycetinis scorodonius (Fr.) A.W. Wilson, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anteckn. Sver. Ätl. Svamp. 53 (1836)
+Mycologia 97(3): 678 (2005)
 
 #### Original name
-Marasmius scorodonius var. scorodonius
+Agaricus scorodonius Fr., 1815
 
 ### Remarks
 null

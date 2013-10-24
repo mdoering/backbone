@@ -1,17 +1,16 @@
-Psilocybe moravica var. moravica VARIETY
-=======
+# Psilocybe moravica Borovicka SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+C. C. H. 80(4): 127 (2003)
 
 #### Original name
-null
+Psilocybe moravica Borovicka
 
 ### Remarks
 null

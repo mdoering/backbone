@@ -1,14 +1,13 @@
-Gyroporus laetus Heinem., 1951 SPECIES
-=======
+# Rubinoboletus laetus (Heinem.) Heinem. & Rammeloo, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. bot. État Brux. 21: 235 (1951)
+Bull. Jard. Bot. Nat. Belg. 53(1/2): 296 (1983)
 
 #### Original name
 Gyroporus laetus Heinem., 1951

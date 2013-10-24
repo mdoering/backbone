@@ -1,5 +1,4 @@
-Collybia virginiana (Murrill) Murrill SPECIES
-=======
+# Collybia virginiana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

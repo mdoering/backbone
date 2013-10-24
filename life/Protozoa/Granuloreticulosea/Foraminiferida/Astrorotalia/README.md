@@ -1,5 +1,4 @@
-Astrorotalia Turnovsky, 1958 GENUS
-=======
+# Astrorotalia Turnovsky, 1958 GENUS
 
 #### Status
 ACCEPTED

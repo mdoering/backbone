@@ -1,5 +1,4 @@
-Tricholoma pseudolilaceum (Singer) Pilát SPECIES
-=======
+# Tricholoma pseudolilaceum (Singer) Pilát SPECIES
 
 #### Status
 ACCEPTED

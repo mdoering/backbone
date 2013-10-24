@@ -1,5 +1,4 @@
-Mycosphaerella dauci Nevod. SPECIES
-=======
+# Mycosphaerella dauci Nevod. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma fragilipes Romagn., 1965 SPECIES
-=======
+# Hebeloma fragilipes Romagn., 1965 SPECIES
 
 #### Status
 ACCEPTED

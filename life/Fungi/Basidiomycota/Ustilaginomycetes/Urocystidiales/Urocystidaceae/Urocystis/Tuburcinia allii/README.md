@@ -1,5 +1,4 @@
-Tuburcinia allii (Schellenb.) Liro SPECIES
-=======
+# Tuburcinia allii (Schellenb.) Liro SPECIES
 
 #### Status
 ACCEPTED

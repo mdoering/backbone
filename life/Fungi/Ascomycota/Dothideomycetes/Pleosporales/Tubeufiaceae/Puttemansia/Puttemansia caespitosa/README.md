@@ -1,5 +1,4 @@
-Puttemansia caespitosa (Speg.) Piroz. SPECIES
-=======
+# Puttemansia caespitosa (Speg.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

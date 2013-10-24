@@ -1,5 +1,4 @@
-Xylaria morchelliformis Rehm SPECIES
-=======
+# Xylaria morchelliformis Rehm SPECIES
 
 #### Status
 ACCEPTED

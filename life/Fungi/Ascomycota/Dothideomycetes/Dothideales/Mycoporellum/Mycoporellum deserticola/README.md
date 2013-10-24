@@ -1,5 +1,4 @@
-Mycoporellum deserticola Fink SPECIES
-=======
+# Mycoporellum deserticola Fink SPECIES
 
 #### Status
 ACCEPTED

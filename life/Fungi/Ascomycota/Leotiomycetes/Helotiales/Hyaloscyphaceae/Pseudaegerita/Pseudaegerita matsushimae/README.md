@@ -1,14 +1,13 @@
-Papulaspora viridis Matsush., 1975 SPECIES
-=======
+# Pseudaegerita matsushimae Abdullah & J. Webster, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 106 (1975)
+Trans. Br. mycol. Soc. 80(2): 249 (1983)
 
 #### Original name
 Papulaspora viridis Matsush., 1975

@@ -1,5 +1,4 @@
-Lecidea vernicea (Körb.) SPECIES
-=======
+# Lecidea vernicea (Körb.) SPECIES
 
 #### Status
 ACCEPTED

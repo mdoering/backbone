@@ -1,5 +1,4 @@
-Gymnopus nivalis var. nivalis VARIETY
-=======
+# Gymnopus nivalis (Luthi & Plomb) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Antonín, Docums Mycol. 25(nos 98-100): 15 (1995)
 
 #### Original name
-Gymnopus nivalis var. nivalis
+Marasmius nivalis Luthi & Plomb
 
 ### Remarks
 null

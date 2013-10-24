@@ -1,5 +1,4 @@
-Fusarium erubescens Appel & Oven SPECIES
-=======
+# Fusarium erubescens Appel & Oven SPECIES
 
 #### Status
 ACCEPTED

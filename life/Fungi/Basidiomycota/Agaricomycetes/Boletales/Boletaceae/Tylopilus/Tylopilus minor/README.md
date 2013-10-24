@@ -1,5 +1,4 @@
-Tylopilus minor Singer SPECIES
-=======
+# Tylopilus minor Singer SPECIES
 
 #### Status
 ACCEPTED

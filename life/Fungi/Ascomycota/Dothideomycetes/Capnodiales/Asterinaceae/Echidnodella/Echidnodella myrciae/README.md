@@ -1,5 +1,4 @@
-Echidnodella myrciae R.W. Ryan SPECIES
-=======
+# Echidnodella myrciae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

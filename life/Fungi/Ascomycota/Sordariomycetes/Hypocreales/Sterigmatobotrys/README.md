@@ -1,17 +1,16 @@
-Gliodendron Salonen & Ruokola GENUS
-=======
+# Sterigmatobotrys Oudem. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 38: 332 (1969)
+Ned. kruidk. Archf, 2 sér. 4: 548 (1886)
 
 #### Original name
-Gliodendron Salonen & Ruokola
+Sterigmatobotrys Oudem.
 
 ### Remarks
 null

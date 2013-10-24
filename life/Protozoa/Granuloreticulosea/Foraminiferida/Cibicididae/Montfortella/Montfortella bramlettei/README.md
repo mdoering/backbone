@@ -1,5 +1,4 @@
-Montfortella bramlettei Loeblich & Tappan, 1963 SPECIES
-=======
+# Montfortella bramlettei Loeblich & Tappan, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halobacillus litoralis Spring et al., 1996 SPECIES
-=======
+# Halobacillus litoralis Spring et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

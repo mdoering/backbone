@@ -1,5 +1,4 @@
-Lecidea anomaliza SPECIES
-=======
+# Lecidea anomaliza SPECIES
 
 #### Status
 ACCEPTED

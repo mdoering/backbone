@@ -1,5 +1,4 @@
-Pertusaria commixta Vain. SPECIES
-=======
+# Pertusaria commixta Vain. SPECIES
 
 #### Status
 ACCEPTED

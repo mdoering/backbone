@@ -1,5 +1,4 @@
-Graphis eimeoensis A. W. Archer & Elix SPECIES
-=======
+# Graphis eimeoensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

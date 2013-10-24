@@ -1,14 +1,13 @@
-Thelotrema leioplacoides Nyl. SPECIES
-=======
+# Ocellularia leioplacoides (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 118 (1891)
+Biblthca Lichenol. 92: 234 (2006)
 
 #### Original name
 Thelotrema leioplacoides Nyl.

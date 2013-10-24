@@ -1,5 +1,4 @@
-Agaricus curvatus Schumach. SPECIES
-=======
+# Agaricus curvatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

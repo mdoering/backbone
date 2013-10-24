@@ -1,5 +1,4 @@
-Peronosclerospora miscanthi (T. Miyake) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora miscanthi (T. Miyake) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

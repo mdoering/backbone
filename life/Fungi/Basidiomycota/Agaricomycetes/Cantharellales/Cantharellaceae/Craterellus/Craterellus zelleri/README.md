@@ -1,5 +1,4 @@
-Craterellus zelleri Burt SPECIES
-=======
+# Craterellus zelleri Burt SPECIES
 
 #### Status
 ACCEPTED

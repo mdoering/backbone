@@ -1,5 +1,4 @@
-Cercospora muirae Syd. & P. Syd. SPECIES
-=======
+# Cercospora muirae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

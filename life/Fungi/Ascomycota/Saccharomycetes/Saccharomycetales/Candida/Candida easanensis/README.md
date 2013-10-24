@@ -1,5 +1,4 @@
-Candida easanensis Jindam., Thuy & Nakase SPECIES
-=======
+# Candida easanensis Jindam., Thuy & Nakase SPECIES
 
 #### Status
 ACCEPTED

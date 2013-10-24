@@ -1,5 +1,4 @@
-Lindnera Kurtzman, Robnett & Basehoar-Powers GENUS
-=======
+# Lindnera Kurtzman, Robnett & Basehoar-Powers GENUS
 
 #### Status
 ACCEPTED

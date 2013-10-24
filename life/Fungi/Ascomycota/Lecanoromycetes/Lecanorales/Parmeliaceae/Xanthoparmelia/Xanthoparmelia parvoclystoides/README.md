@@ -1,5 +1,4 @@
-Xanthoparmelia parvoclystoides Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia parvoclystoides Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius sullivantii Mont. SPECIES
-=======
+# Marasmius sullivantii Mont. SPECIES
 
 #### Status
 ACCEPTED

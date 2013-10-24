@@ -1,17 +1,16 @@
-Cercospora vignicaulis Tehon, 1937 SPECIES
-=======
+# Cercospora canescens Ellis & G. Martin, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29: 436 (1937)
+Am. Nat. 16: 1003 (1882)
 
 #### Original name
-Cercospora vignicaulis Tehon, 1937
+Cercospora canescens Ellis & G. Martin, 1882
 
 ### Remarks
 null

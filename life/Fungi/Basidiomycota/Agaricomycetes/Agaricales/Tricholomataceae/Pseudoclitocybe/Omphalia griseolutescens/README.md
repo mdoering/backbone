@@ -1,5 +1,4 @@
-Omphalia griseolutescens Mont. SPECIES
-=======
+# Omphalia griseolutescens Mont. SPECIES
 
 #### Status
 ACCEPTED

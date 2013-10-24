@@ -1,5 +1,4 @@
-Hypholoma aggregatum (Peck) Sacc. SPECIES
-=======
+# Hypholoma aggregatum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

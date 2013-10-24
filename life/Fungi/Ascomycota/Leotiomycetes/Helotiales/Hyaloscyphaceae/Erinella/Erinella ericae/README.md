@@ -1,5 +1,4 @@
-Erinella ericae (Rolland) Sacc. SPECIES
-=======
+# Erinella ericae (Rolland) Sacc. SPECIES
 
 #### Status
 ACCEPTED

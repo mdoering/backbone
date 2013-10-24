@@ -1,5 +1,4 @@
-Acaulopage bicornis Drechsler, 1955 SPECIES
-=======
+# Acaulopage bicornis Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

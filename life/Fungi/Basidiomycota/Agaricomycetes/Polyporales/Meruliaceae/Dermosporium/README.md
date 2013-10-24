@@ -1,5 +1,4 @@
-Dermosporium GENUS
-=======
+# Dermosporium GENUS
 
 #### Status
 ACCEPTED

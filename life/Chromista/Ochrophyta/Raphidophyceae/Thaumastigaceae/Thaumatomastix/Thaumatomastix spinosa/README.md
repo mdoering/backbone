@@ -1,5 +1,4 @@
-Thaumatomastix spinosa Thomsen, Hällfors, Hällfors & Ikävalko, 1993 SPECIES
-=======
+# Thaumatomastix spinosa Thomsen, Hällfors, Hällfors & Ikävalko, 1993 SPECIES
 
 #### Status
 ACCEPTED

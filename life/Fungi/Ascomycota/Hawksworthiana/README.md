@@ -1,5 +1,4 @@
-Hawksworthiana U. Braun GENUS
-=======
+# Hawksworthiana U. Braun GENUS
 
 #### Status
 ACCEPTED

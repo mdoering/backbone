@@ -1,5 +1,4 @@
-Pleospora helichrysi Hollós SPECIES
-=======
+# Pleospora helichrysi Hollós SPECIES
 
 #### Status
 ACCEPTED

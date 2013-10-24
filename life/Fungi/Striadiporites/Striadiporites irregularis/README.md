@@ -1,5 +1,4 @@
-Striadiporites irregularis Kalgutkar SPECIES
-=======
+# Striadiporites irregularis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

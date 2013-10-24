@@ -1,5 +1,4 @@
-Pseudocercospora palicoureae O.L. Pereira & R.W. Barreto SPECIES
-=======
+# Pseudocercospora palicoureae O.L. Pereira & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

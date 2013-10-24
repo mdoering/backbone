@@ -1,5 +1,4 @@
-Barathrisphaeridium chagrinense Wicander, 1974 SPECIES
-=======
+# Barathrisphaeridium chagrinense Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

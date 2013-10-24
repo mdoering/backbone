@@ -1,5 +1,4 @@
-Collema subundulatum Degel. SPECIES
-=======
+# Collema subundulatum Degel. SPECIES
 
 #### Status
 ACCEPTED

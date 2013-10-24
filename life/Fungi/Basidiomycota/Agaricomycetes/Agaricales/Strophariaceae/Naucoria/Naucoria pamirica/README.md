@@ -1,5 +1,4 @@
-Naucoria pamirica Lebedeva SPECIES
-=======
+# Naucoria pamirica Lebedeva SPECIES
 
 #### Status
 ACCEPTED

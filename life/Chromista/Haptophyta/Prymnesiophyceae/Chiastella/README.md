@@ -1,5 +1,4 @@
-Chiastella B. Lambert, 1993 GENUS
-=======
+# Chiastella B. Lambert, 1993 GENUS
 
 #### Status
 ACCEPTED

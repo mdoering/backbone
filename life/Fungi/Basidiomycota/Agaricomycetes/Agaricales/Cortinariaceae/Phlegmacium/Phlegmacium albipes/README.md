@@ -1,5 +1,4 @@
-Phlegmacium albipes Velen. SPECIES
-=======
+# Phlegmacium albipes Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinobacter lipolyticus Martín et al., 2003 SPECIES
-=======
+# Marinobacter lipolyticus Martín et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

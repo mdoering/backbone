@@ -1,5 +1,4 @@
-Trichodina pectenis Stein, 1974 SPECIES
-=======
+# Trichodina pectenis Stein, 1974 SPECIES
 
 #### Status
 ACCEPTED

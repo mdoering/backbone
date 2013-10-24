@@ -1,5 +1,4 @@
-Cocconia Sacc. GENUS
-=======
+# Cocconia Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catenularia Grove, 1886 GENUS
-=======
+# Catenularia Grove, 1886 GENUS
 
 #### Status
 ACCEPTED

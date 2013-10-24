@@ -1,5 +1,4 @@
-Lepiota allenae Peck SPECIES
-=======
+# Lepiota allenae Peck SPECIES
 
 #### Status
 ACCEPTED

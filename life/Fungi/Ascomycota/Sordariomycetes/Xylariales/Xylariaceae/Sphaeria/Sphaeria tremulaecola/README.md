@@ -1,5 +1,4 @@
-Sphaeria tremulaecola Fr. SPECIES
-=======
+# Sphaeria tremulaecola Fr. SPECIES
 
 #### Status
 ACCEPTED

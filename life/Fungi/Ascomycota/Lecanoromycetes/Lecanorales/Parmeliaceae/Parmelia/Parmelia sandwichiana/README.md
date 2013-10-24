@@ -1,5 +1,4 @@
-Parmelia sandwichiana Pers. SPECIES
-=======
+# Parmelia sandwichiana Pers. SPECIES
 
 #### Status
 ACCEPTED

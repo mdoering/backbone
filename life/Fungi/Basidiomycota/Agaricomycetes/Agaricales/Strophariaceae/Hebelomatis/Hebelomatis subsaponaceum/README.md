@@ -1,5 +1,4 @@
-Hebelomatis subsaponaceum (P. Karst.) Locq. SPECIES
-=======
+# Hebelomatis subsaponaceum (P. Karst.) Locq. SPECIES
 
 #### Status
 ACCEPTED

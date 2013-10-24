@@ -1,5 +1,4 @@
-Asterina torulosa Berk., 1855 SPECIES
-=======
+# Asterina torulosa Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

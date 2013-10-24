@@ -1,5 +1,4 @@
-Irene escharoides Syd. SPECIES
-=======
+# Irene escharoides Syd. SPECIES
 
 #### Status
 ACCEPTED

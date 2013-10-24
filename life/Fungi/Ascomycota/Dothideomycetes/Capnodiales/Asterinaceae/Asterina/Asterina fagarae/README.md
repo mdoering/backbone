@@ -1,5 +1,4 @@
-Asterina fagarae H.S. Yates SPECIES
-=======
+# Asterina fagarae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

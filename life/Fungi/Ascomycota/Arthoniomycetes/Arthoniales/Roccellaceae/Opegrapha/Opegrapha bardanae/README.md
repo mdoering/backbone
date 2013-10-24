@@ -1,5 +1,4 @@
-Opegrapha bardanae (Wallr.) Rehm SPECIES
-=======
+# Opegrapha bardanae (Wallr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

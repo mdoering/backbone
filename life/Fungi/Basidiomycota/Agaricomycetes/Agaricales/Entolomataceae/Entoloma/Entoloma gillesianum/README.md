@@ -1,5 +1,4 @@
-Entoloma gillesianum Courtec. SPECIES
-=======
+# Entoloma gillesianum Courtec. SPECIES
 
 #### Status
 ACCEPTED

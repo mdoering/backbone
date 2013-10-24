@@ -1,5 +1,4 @@
-Gloeosporium hedycaryae Cooke & Massee SPECIES
-=======
+# Gloeosporium hedycaryae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

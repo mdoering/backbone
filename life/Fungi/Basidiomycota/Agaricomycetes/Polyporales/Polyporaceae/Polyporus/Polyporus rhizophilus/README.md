@@ -1,17 +1,16 @@
-Polyporus cryptopus Ellis & Barthol., 1896 SPECIES
-=======
+# Polyporus rhizophilus Pat., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 82 (1895)
 
 #### Original name
-null
+Melanopus rhizophilus Pat.
 
 ### Remarks
 null

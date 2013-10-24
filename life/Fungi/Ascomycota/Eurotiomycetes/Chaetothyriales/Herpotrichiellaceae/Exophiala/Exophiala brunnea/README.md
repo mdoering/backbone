@@ -1,5 +1,4 @@
-Exophiala brunnea Papendorf SPECIES
-=======
+# Exophiala brunnea Papendorf SPECIES
 
 #### Status
 ACCEPTED

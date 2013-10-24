@@ -1,5 +1,4 @@
-Chaetophoma ilicifolia Cooke SPECIES
-=======
+# Chaetophoma ilicifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

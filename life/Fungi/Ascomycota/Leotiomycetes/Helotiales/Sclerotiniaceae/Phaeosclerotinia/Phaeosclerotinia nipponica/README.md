@@ -1,5 +1,4 @@
-Phaeosclerotinia nipponica Hori, 1916 SPECIES
-=======
+# Phaeosclerotinia nipponica Hori, 1916 SPECIES
 
 #### Status
 ACCEPTED

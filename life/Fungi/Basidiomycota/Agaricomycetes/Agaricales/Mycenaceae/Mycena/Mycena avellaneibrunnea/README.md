@@ -1,5 +1,4 @@
-Mycena avellaneibrunnea Thiers SPECIES
-=======
+# Mycena avellaneibrunnea Thiers SPECIES
 
 #### Status
 ACCEPTED

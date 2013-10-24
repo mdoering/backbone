@@ -1,5 +1,4 @@
-Uromyces ameghinoi Speg. SPECIES
-=======
+# Uromyces ameghinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

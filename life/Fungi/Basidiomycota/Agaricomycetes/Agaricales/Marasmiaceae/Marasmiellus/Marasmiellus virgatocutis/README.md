@@ -1,5 +1,4 @@
-Marasmiellus virgatocutis Robich, Esteve-Rav. & G. Moreno SPECIES
-=======
+# Marasmiellus virgatocutis Robich, Esteve-Rav. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

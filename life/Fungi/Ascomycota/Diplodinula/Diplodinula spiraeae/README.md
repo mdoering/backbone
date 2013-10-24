@@ -1,5 +1,4 @@
-Diplodinula spiraeae (Pass.) Tassi SPECIES
-=======
+# Diplodinula spiraeae (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

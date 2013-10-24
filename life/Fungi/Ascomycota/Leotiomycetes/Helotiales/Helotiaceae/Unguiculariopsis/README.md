@@ -1,14 +1,13 @@
-Mollisiella (W. Phillips) Massee GENUS
-=======
+# Unguiculariopsis Rehm, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Brit. Fung. -Fl. 4: 221 (1895)
+null
 
 #### Original name
 null

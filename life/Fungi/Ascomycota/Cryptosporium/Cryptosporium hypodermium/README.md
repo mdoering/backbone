@@ -1,5 +1,4 @@
-Cryptosporium hypodermium Auersw. SPECIES
-=======
+# Cryptosporium hypodermium Auersw. SPECIES
 
 #### Status
 ACCEPTED

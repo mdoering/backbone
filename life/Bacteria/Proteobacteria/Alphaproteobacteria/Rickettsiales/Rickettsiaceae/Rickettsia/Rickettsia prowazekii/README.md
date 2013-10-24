@@ -1,5 +1,4 @@
-Rickettsia prowazekii da Rocha-Lima, 1916 (Approved Lists, 1980) SPECIES
-=======
+# Rickettsia prowazekii da Rocha-Lima, 1916 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

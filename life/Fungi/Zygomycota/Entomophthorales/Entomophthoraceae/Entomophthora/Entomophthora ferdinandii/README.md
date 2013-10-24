@@ -1,17 +1,16 @@
-Entomophthora ferdinandi S. Keller SPECIES
-=======
+# Entomophthora ferdinandii S. Keller ex S. Keller, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 56(2): 241 (2004)
 
 #### Original name
-Entomophthora ferdinandi S. Keller
+Entomophthora ferdinandii S. Keller ex S. Keller, 2004
 
 ### Remarks
 null

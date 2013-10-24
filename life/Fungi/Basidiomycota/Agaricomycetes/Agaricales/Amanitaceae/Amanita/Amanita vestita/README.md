@@ -1,5 +1,4 @@
-Amanita vestita Corner & Bas SPECIES
-=======
+# Amanita vestita Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

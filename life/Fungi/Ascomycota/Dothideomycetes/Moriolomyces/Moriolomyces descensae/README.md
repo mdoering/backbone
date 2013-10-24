@@ -1,5 +1,4 @@
-Moriolomyces descensae Cif. & Tomas., 1953 SPECIES
-=======
+# Moriolomyces descensae Cif. & Tomas., 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cissi var. cissi VARIETY
-=======
+# Aecidium cissi G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium cissi var. cissi
+Aecidium cissi G. Winter
 
 ### Remarks
 null

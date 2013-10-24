@@ -1,14 +1,13 @@
-Cerradoa palmaea J.F. Hennen & Y. Ono, 1978 SPECIES
-=======
+# Edythea palmaea (J.F. Hennen & Y. Ono) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 70(3): 570 (1978)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 89 (1983)
 
 #### Original name
 Cerradoa palmaea J.F. Hennen & Y. Ono, 1978

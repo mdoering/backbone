@@ -1,5 +1,4 @@
-Agaricus seymourianus Peck SPECIES
-=======
+# Agaricus seymourianus Peck SPECIES
 
 #### Status
 ACCEPTED

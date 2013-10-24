@@ -1,5 +1,4 @@
-Byssoloma sprucei (Bab. ex Nyl.) Lücking & M. Cáceres SPECIES
-=======
+# Byssoloma sprucei (Bab. ex Nyl.) Lücking & M. Cáceres SPECIES
 
 #### Status
 ACCEPTED

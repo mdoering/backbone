@@ -1,5 +1,4 @@
-Graphina pringlei Zahlbr. SPECIES
-=======
+# Graphina pringlei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

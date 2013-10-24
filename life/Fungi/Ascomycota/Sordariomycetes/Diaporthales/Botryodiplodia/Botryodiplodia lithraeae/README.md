@@ -1,5 +1,4 @@
-Botryodiplodia lithraeae Speg. SPECIES
-=======
+# Botryodiplodia lithraeae Speg. SPECIES
 
 #### Status
 ACCEPTED

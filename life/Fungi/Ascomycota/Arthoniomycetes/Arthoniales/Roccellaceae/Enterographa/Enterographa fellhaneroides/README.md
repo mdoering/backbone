@@ -1,5 +1,4 @@
-Enterographa fellhaneroides Yeshitela, Eb. Fisch., Killmann & Sérus. SPECIES
-=======
+# Enterographa fellhaneroides Yeshitela, Eb. Fisch., Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

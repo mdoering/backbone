@@ -1,8 +1,7 @@
-Hyella linearis Setchell & Gardner SPECIES
-=======
+# Cyanoderma lineare (Setchell & Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

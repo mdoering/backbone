@@ -1,5 +1,4 @@
-Puccinia bruchiana J.C. Lindq. SPECIES
-=======
+# Puccinia bruchiana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

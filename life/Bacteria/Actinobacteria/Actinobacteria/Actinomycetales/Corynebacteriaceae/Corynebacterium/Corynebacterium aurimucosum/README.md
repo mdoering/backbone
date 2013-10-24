@@ -1,5 +1,4 @@
-Corynebacterium aurimucosum Yassin et al., 2002 SPECIES
-=======
+# Corynebacterium aurimucosum Yassin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

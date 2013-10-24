@@ -1,5 +1,4 @@
-Lecanora eluta (Nyl.) Parrique SPECIES
-=======
+# Lecanora eluta (Nyl.) Parrique SPECIES
 
 #### Status
 ACCEPTED

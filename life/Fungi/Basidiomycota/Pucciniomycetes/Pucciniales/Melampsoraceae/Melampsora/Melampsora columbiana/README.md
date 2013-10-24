@@ -1,5 +1,4 @@
-Melampsora ×columbiana G. Newc. SPECIES
-=======
+# Melampsora ×columbiana G. Newc. SPECIES
 
 #### Status
 ACCEPTED

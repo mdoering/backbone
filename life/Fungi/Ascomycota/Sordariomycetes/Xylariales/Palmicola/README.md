@@ -1,5 +1,4 @@
-Palmicola K.D. Hyde, 1993 GENUS
-=======
+# Palmicola K.D. Hyde, 1993 GENUS
 
 #### Status
 ACCEPTED

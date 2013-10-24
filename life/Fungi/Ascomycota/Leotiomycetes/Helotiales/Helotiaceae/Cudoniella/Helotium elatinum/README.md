@@ -1,5 +1,4 @@
-Helotium elatinum Quél. SPECIES
-=======
+# Helotium elatinum Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria majuscula Sacc. & Roum. SPECIES
-=======
+# Aposphaeria majuscula Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

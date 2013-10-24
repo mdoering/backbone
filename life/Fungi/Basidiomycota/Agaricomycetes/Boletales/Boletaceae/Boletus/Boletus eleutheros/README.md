@@ -1,5 +1,4 @@
-Boletus eleutheros (Rolland) J. Blum SPECIES
-=======
+# Boletus eleutheros (Rolland) J. Blum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kakoeca antarctica Buck & Marchant SPECIES
-=======
+# Kakoeca antarctica Buck & Marchant SPECIES
 
 #### Status
 ACCEPTED

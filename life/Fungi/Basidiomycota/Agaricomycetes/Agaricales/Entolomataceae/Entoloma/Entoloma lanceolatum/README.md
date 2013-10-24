@@ -1,5 +1,4 @@
-Entoloma lanceolatum Wölfel & Hauskn., 1999 SPECIES
-=======
+# Entoloma lanceolatum Wölfel & Hauskn., 1999 SPECIES
 
 #### Status
 ACCEPTED

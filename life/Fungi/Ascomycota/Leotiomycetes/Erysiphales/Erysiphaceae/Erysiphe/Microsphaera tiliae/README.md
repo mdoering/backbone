@@ -1,5 +1,4 @@
-Microsphaera tiliae Eliade SPECIES
-=======
+# Microsphaera tiliae Eliade SPECIES
 
 #### Status
 ACCEPTED

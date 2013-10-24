@@ -1,5 +1,4 @@
-Laboulbenia minima Thaxt. SPECIES
-=======
+# Laboulbenia minima Thaxt. SPECIES
 
 #### Status
 ACCEPTED

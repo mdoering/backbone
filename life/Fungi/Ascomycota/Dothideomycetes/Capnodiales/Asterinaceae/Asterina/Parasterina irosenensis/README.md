@@ -1,5 +1,4 @@
-Parasterina irosenensis Syd. SPECIES
-=======
+# Parasterina irosenensis Syd. SPECIES
 
 #### Status
 ACCEPTED

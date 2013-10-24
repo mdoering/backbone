@@ -1,5 +1,4 @@
-Dirina capensis Nyl. ex Stizenb. SPECIES
-=======
+# Dirina capensis Nyl. ex Stizenb. SPECIES
 
 #### Status
 ACCEPTED

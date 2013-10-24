@@ -1,5 +1,4 @@
-Entoloma occultipigmentatum Arnolds & Noordel. SPECIES
-=======
+# Entoloma occultipigmentatum Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

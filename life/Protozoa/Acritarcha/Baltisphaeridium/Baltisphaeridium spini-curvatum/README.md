@@ -1,5 +1,4 @@
-Baltisphaeridium spini-curvatum (Merrill, 1895) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium spini-curvatum (Merrill, 1895) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

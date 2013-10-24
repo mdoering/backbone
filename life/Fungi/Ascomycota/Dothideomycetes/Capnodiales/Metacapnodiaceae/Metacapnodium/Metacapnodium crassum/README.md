@@ -1,14 +1,13 @@
-Phragmocapnias crassa (Pat.) Cif. & Bat., 1963 SPECIES
-=======
+# Metacapnodium crassum (Pat.) S. Hughes, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardoa 2: 179 (1963)
+N. Z. Jl Bot. 19(2): 205 (1981)
 
 #### Original name
 Capnodium crassum Pat., 1895

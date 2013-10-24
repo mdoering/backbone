@@ -1,5 +1,4 @@
-Athelia globularis M.P. Christ. SPECIES
-=======
+# Athelia globularis M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

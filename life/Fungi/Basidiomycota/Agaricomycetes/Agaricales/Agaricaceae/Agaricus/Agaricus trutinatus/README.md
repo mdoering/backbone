@@ -1,5 +1,4 @@
-Agaricus trutinatus Britzelm., 1893 SPECIES
-=======
+# Agaricus trutinatus Britzelm., 1893 SPECIES
 
 #### Status
 ACCEPTED

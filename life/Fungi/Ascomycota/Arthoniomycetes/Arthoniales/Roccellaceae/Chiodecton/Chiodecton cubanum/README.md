@@ -1,5 +1,4 @@
-Chiodecton cubanum var. cubanum VARIETY
-=======
+# Chiodecton cubanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chiodecton cubanum var. cubanum
+Chiodecton cubanum B. de Lesd.
 
 ### Remarks
 null

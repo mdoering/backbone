@@ -1,5 +1,4 @@
-Heterodermia incana (Stirt.) D.D. Awasthi SPECIES
-=======
+# Heterodermia incana (Stirt.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

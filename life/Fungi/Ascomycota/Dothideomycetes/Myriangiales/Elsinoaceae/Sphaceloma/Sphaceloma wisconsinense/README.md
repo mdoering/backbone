@@ -1,5 +1,4 @@
-Sphaceloma wisconsinense H.C. Greene SPECIES
-=======
+# Sphaceloma wisconsinense H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

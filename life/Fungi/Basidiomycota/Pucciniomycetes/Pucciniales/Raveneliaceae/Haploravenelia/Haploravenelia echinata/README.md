@@ -1,5 +1,4 @@
-Haploravenelia echinata (Lagerh. & Dietel) Syd. SPECIES
-=======
+# Haploravenelia echinata (Lagerh. & Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon subcontiguum Vain. SPECIES
-=======
+# Rhizocarpon subcontiguum Vain. SPECIES
 
 #### Status
 ACCEPTED

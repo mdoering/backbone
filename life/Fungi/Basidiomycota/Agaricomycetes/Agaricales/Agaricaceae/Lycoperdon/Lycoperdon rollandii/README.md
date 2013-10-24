@@ -1,5 +1,4 @@
-Lycoperdon rollandii Pat. SPECIES
-=======
+# Lycoperdon rollandii Pat. SPECIES
 
 #### Status
 ACCEPTED

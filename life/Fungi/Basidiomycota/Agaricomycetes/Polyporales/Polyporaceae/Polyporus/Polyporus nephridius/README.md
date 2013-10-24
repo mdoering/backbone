@@ -1,5 +1,4 @@
-Polyporus nephridius Berk. SPECIES
-=======
+# Polyporus nephridius Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium tremniacense Sacc. SPECIES
-=======
+# Coniothyrium tremniacense Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenobotrys compacta (Peck) B. Erikss. SPECIES
-=======
+# Pyrenobotrys compacta (Peck) B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

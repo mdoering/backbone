@@ -1,5 +1,4 @@
-Pholiota eriogena (Fr.) Sacc. SPECIES
-=======
+# Pholiota eriogena (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

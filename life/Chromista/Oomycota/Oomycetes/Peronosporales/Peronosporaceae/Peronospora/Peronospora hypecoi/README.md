@@ -1,5 +1,4 @@
-Peronospora hypecoi Jacz. & P.A. Jacz. SPECIES
-=======
+# Peronospora hypecoi Jacz. & P.A. Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporites udarii (A. Gupta) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites udarii (A. Gupta) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

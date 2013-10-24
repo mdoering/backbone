@@ -1,5 +1,4 @@
-Fusarium macroxysporum Lindf. SPECIES
-=======
+# Fusarium macroxysporum Lindf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina torrei SPECIES
-=======
+# Quinqueloculina torrei SPECIES
 
 #### Status
 ACCEPTED

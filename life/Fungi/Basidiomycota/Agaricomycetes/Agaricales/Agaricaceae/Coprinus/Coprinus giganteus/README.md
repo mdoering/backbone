@@ -1,5 +1,4 @@
-Coprinus giganteus Rytz SPECIES
-=======
+# Coprinus giganteus Rytz SPECIES
 
 #### Status
 ACCEPTED

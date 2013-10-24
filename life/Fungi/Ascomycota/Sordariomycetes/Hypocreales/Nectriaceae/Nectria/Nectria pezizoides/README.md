@@ -1,5 +1,4 @@
-Nectria pezizoides Kirschst. SPECIES
-=======
+# Nectria pezizoides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

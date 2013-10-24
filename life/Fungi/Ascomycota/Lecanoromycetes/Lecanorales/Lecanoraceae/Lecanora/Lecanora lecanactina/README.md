@@ -1,5 +1,4 @@
-Lecanora lecanactina Zahlbr. SPECIES
-=======
+# Lecanora lecanactina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

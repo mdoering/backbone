@@ -1,5 +1,4 @@
-Morganella costaricensis M.I. Morales, 1974 SPECIES
-=======
+# Morganella costaricensis M.I. Morales, 1974 SPECIES
 
 #### Status
 ACCEPTED

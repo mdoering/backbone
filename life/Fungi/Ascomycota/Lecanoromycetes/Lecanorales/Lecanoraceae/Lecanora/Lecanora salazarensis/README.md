@@ -1,5 +1,4 @@
-Lecanora salazarensis (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora salazarensis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

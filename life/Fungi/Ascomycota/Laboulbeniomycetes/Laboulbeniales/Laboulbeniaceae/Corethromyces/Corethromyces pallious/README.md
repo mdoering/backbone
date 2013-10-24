@@ -1,5 +1,4 @@
-Corethromyces pallious Speg. SPECIES
-=======
+# Corethromyces pallious Speg. SPECIES
 
 #### Status
 ACCEPTED

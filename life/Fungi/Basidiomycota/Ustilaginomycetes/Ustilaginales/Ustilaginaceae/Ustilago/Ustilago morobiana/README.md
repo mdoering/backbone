@@ -1,5 +1,4 @@
-Ustilago morobiana Zundel SPECIES
-=======
+# Ustilago morobiana Zundel SPECIES
 
 #### Status
 ACCEPTED

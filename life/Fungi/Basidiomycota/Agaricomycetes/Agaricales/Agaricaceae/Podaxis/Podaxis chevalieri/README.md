@@ -1,8 +1,7 @@
-Podaxon chevalieri Pat. & Har. SPECIES
-=======
+# Podaxis chevalieri Pat. & Har. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon chevalieri Pat. & Har.
+Podaxis chevalieri Pat. & Har.
 
 ### Remarks
 null

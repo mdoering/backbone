@@ -1,5 +1,4 @@
-Lecanora pedata Zahlbr. SPECIES
-=======
+# Lecanora pedata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus russaticeps Berk. SPECIES
-=======
+# Pleurotus russaticeps Berk. SPECIES
 
 #### Status
 ACCEPTED

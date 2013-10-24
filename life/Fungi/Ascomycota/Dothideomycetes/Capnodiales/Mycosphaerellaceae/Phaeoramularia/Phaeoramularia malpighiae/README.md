@@ -1,5 +1,4 @@
-Phaeoramularia malpighiae U. Braun & Mouch. SPECIES
-=======
+# Phaeoramularia malpighiae U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

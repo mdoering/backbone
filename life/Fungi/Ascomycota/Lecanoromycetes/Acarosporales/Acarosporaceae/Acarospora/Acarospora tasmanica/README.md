@@ -1,5 +1,4 @@
-Acarospora tasmanica Räsänen SPECIES
-=======
+# Acarospora tasmanica Räsänen SPECIES
 
 #### Status
 ACCEPTED

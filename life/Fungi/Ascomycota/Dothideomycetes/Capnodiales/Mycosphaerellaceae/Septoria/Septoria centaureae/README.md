@@ -1,5 +1,4 @@
-Septoria centaureae (Roum.) Sacc. SPECIES
-=======
+# Septoria centaureae (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

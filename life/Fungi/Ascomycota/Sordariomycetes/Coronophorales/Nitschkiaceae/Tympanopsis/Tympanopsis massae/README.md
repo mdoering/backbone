@@ -1,5 +1,4 @@
-Tympanopsis massae (Cif.) E. Müll. & Arx SPECIES
-=======
+# Tympanopsis massae (Cif.) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora ipomoeae Clem. SPECIES
-=======
+# Pyrenophora ipomoeae Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ectolechia filicina (Müll. Arg.) Vain. SPECIES
-=======
+# Gyalectidium filicinum Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 64: 9 (1881)
 
 #### Original name
 Gyalectidium filicinum Müll. Arg.

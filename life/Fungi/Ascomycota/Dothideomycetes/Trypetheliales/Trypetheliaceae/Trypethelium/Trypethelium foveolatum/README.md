@@ -1,5 +1,4 @@
-Trypethelium foveolatum Müll. Arg. SPECIES
-=======
+# Trypethelium foveolatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum nerdarium Link SPECIES
-=======
+# Sporotrichum nerdarium Link SPECIES
 
 #### Status
 ACCEPTED

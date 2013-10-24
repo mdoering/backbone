@@ -1,5 +1,4 @@
-Polystomellopsis mirabilis F. Stevens, 1923 SPECIES
-=======
+# Polystomellopsis mirabilis F. Stevens, 1923 SPECIES
 
 #### Status
 ACCEPTED

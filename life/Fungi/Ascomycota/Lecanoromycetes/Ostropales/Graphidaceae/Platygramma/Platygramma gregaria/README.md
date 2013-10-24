@@ -1,5 +1,4 @@
-Platygramma gregaria Spreng. SPECIES
-=======
+# Platygramma gregaria Spreng. SPECIES
 
 #### Status
 ACCEPTED

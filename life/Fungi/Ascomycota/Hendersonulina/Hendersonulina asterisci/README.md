@@ -1,5 +1,4 @@
-Hendersonulina asterisci Speg. SPECIES
-=======
+# Hendersonulina asterisci Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea complanata Fée SPECIES
-=======
+# Lecidea complanata Fée SPECIES
 
 #### Status
 ACCEPTED

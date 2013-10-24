@@ -1,5 +1,4 @@
-Pseudocercosporella nepalensis Bhalla, Arch. Singh & S.K. Singh SPECIES
-=======
+# Pseudocercosporella nepalensis Bhalla, Arch. Singh & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

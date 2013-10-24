@@ -1,5 +1,4 @@
-Chrysosphaera paludosa (Korshikov) Bourrelly SPECIES
-=======
+# Chrysosphaera paludosa (Korshikov) Bourrelly SPECIES
 
 #### Status
 DOUBTFUL

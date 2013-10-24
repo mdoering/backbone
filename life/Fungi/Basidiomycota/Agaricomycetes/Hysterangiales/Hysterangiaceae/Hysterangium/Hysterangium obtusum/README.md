@@ -1,5 +1,4 @@
-Hysterangium obtusum Rodway SPECIES
-=======
+# Hysterangium obtusum Rodway SPECIES
 
 #### Status
 ACCEPTED

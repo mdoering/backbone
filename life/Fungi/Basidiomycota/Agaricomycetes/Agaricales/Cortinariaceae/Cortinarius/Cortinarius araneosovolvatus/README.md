@@ -1,5 +1,4 @@
-Cortinarius araneosovolvatus (Bon & Gaugué) Melot SPECIES
-=======
+# Cortinarius araneosovolvatus (Bon & Gaugué) Melot SPECIES
 
 #### Status
 ACCEPTED

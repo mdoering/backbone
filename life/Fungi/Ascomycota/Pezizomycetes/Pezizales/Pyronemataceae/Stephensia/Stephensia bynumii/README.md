@@ -1,5 +1,4 @@
-Stephensia bynumii Trappe, Bushnell & Castellano, 1997 SPECIES
-=======
+# Stephensia bynumii Trappe, Bushnell & Castellano, 1997 SPECIES
 
 #### Status
 ACCEPTED

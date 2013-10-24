@@ -1,5 +1,4 @@
-Metaviridae FAMILY
-=======
+# Metaviridae FAMILY
 
 #### Status
 ACCEPTED

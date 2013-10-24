@@ -1,5 +1,4 @@
-Helicoön myosuroides Voglmayr SPECIES
-=======
+# Helicoön myosuroides Voglmayr SPECIES
 
 #### Status
 ACCEPTED

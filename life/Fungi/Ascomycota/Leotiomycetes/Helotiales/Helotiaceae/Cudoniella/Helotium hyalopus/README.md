@@ -1,5 +1,4 @@
-Helotium hyalopus Fuckel SPECIES
-=======
+# Helotium hyalopus Fuckel SPECIES
 
 #### Status
 ACCEPTED

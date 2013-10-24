@@ -1,5 +1,4 @@
-Trichodina ranae Cunha, 1950 SPECIES
-=======
+# Trichodina ranae Cunha, 1950 SPECIES
 
 #### Status
 ACCEPTED

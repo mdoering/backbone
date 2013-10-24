@@ -1,5 +1,4 @@
-Dendryphiella eucalypti Matsush. SPECIES
-=======
+# Dendryphiella eucalypti Matsush. SPECIES
 
 #### Status
 ACCEPTED

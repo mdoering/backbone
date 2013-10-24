@@ -1,5 +1,4 @@
-Macrosporium sirakoffii Bubák SPECIES
-=======
+# Macrosporium sirakoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

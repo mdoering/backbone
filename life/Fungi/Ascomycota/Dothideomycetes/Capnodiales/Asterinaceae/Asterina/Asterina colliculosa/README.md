@@ -1,5 +1,4 @@
-Asterina colliculosa var. colliculosa VARIETY
-=======
+# Asterina colliculosa Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 559 (1889)
 
 #### Original name
-Asterina colliculosa var. colliculosa
+Asterina colliculosa Speg.
 
 ### Remarks
 null

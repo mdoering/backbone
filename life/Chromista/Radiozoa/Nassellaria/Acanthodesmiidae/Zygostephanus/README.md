@@ -1,5 +1,4 @@
-Zygostephanus Haeckel, 1862 GENUS
-=======
+# Zygostephanus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

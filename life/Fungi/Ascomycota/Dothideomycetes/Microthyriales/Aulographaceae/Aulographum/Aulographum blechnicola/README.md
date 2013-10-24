@@ -1,5 +1,4 @@
-Aulographum blechnicola Rehm SPECIES
-=======
+# Aulographum blechnicola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium entoxylinum Corda SPECIES
-=======
+# Cladosporium entoxylinum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum carneum Ellis & Everh. SPECIES
-=======
+# Rhinotrichum carneum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

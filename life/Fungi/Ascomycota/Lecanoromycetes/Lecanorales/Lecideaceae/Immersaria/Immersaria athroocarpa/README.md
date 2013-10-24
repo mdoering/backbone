@@ -1,17 +1,16 @@
-Lecidea conformis Kremp. SPECIES
-=======
+# Immersaria athroocarpa (Ach.) Rambold & Pietschm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rambold, Biblthca Lichenol. 34: 240 (1989)
 
 #### Original name
-null
+Lichen athroocarpus Ach.
 
 ### Remarks
 null

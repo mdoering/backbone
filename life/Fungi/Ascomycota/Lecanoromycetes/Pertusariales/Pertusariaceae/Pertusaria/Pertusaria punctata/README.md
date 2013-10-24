@@ -1,5 +1,4 @@
-Pertusaria punctata Nyl. SPECIES
-=======
+# Pertusaria punctata Nyl. SPECIES
 
 #### Status
 ACCEPTED

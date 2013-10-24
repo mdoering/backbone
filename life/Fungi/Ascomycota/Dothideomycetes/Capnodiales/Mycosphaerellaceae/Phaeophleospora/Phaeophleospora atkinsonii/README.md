@@ -1,14 +1,13 @@
-Scoleciasis atkinsonii Syd., 1924 SPECIES
-=======
+# Phaeophleospora atkinsonii (Syd.) Pennycook & McKenzie, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22: 312 (1924)
+Mycotaxon 82: 145 (2002)
 
 #### Original name
 Scoleciasis atkinsonii Syd., 1924

@@ -1,5 +1,4 @@
-Acrothecium nigrum Cif., 1929 SPECIES
-=======
+# Acrothecium nigrum Cif., 1929 SPECIES
 
 #### Status
 ACCEPTED

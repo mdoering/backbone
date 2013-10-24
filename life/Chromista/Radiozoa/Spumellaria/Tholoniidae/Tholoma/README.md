@@ -1,5 +1,4 @@
-Tholoma Haeckel, 1887 GENUS
-=======
+# Tholoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria physodes (L.) Hoffm. SPECIES
-=======
+# Lobaria physodes (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

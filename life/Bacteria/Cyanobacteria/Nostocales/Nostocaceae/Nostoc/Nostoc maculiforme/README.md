@@ -1,5 +1,4 @@
-Nostoc maculiforme Bornet & Flahault SPECIES
-=======
+# Nostoc maculiforme Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

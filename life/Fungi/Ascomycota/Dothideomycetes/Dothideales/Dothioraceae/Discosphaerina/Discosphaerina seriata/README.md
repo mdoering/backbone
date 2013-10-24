@@ -1,5 +1,4 @@
-Discosphaerina seriata Petr. SPECIES
-=======
+# Discosphaerina seriata Petr. SPECIES
 
 #### Status
 ACCEPTED

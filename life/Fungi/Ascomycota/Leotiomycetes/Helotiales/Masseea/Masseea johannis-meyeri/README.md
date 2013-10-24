@@ -1,5 +1,4 @@
-Masseea johannis-meyeri Rehm SPECIES
-=======
+# Masseea johannis-meyeri Rehm SPECIES
 
 #### Status
 ACCEPTED

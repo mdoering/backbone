@@ -1,5 +1,4 @@
-Cortinarius arvinaceus Fr., 1838 SPECIES
-=======
+# Cortinarius arvinaceus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

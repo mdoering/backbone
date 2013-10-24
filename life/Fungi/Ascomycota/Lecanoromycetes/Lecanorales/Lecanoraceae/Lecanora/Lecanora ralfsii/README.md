@@ -1,5 +1,4 @@
-Lecanora ralfsii (Salwey) Cromb. SPECIES
-=======
+# Lecanora ralfsii (Salwey) Cromb. SPECIES
 
 #### Status
 ACCEPTED

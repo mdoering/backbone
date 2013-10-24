@@ -1,17 +1,16 @@
-Pyrenula variolosa Pers. SPECIES
-=======
+# Anthracothecium variolosum (Pers.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 43: 44 (1880)
 
 #### Original name
-Pyrenula variolosa Pers.
+Anthracothecomyces variolosi Cif. & Tomas.
 
 ### Remarks
 null

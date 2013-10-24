@@ -1,5 +1,4 @@
-Graphina salacinilabiata Patw. & C.R. Kulk. SPECIES
-=======
+# Graphina salacinilabiata Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

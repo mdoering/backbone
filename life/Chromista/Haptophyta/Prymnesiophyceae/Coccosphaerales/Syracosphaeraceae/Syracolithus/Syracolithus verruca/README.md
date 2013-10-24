@@ -1,5 +1,4 @@
-Syracolithus verruca var. isra VARIETY
-=======
+# Syracolithus verruca SPECIES
 
 #### Status
 ACCEPTED

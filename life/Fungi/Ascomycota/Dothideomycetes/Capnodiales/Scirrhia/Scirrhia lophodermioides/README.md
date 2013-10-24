@@ -1,5 +1,4 @@
-Scirrhia lophodermioides Ellis & Everh. SPECIES
-=======
+# Scirrhia lophodermioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

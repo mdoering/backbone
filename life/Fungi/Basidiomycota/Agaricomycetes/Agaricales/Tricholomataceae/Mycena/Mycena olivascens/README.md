@@ -1,5 +1,4 @@
-Mycena olivascens Quél. SPECIES
-=======
+# Mycena olivascens Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirostromella GENUS
-=======
+# Sirostromella GENUS
 
 #### Status
 ACCEPTED

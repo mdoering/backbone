@@ -1,5 +1,4 @@
-Lepiota besseyi H.V. Sm. & N.S. Weber SPECIES
-=======
+# Lepiota besseyi H.V. Sm. & N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

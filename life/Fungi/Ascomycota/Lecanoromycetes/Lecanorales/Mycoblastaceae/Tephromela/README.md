@@ -1,5 +1,4 @@
-Tephromela M. Choisy GENUS
-=======
+# Tephromela M. Choisy GENUS
 
 #### Status
 ACCEPTED

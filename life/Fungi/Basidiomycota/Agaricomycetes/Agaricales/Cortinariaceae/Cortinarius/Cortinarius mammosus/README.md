@@ -1,5 +1,4 @@
-Cortinarius mammosus Kauffman SPECIES
-=======
+# Cortinarius mammosus Kauffman SPECIES
 
 #### Status
 ACCEPTED

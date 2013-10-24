@@ -1,5 +1,4 @@
-Chaetosphaeria alboferruginea Sacc. SPECIES
-=======
+# Chaetosphaeria alboferruginea Sacc. SPECIES
 
 #### Status
 ACCEPTED

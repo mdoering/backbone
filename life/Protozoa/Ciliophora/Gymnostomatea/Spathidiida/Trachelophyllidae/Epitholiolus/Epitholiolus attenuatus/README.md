@@ -1,8 +1,7 @@
-Trachelophyllum attenuatum Foissner, 1983 SPECIES
-=======
+# Epitholiolus attenuatus (Foissner, 1983) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

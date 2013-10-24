@@ -1,5 +1,4 @@
-Caloplaca fraxinea I.M. Lamb SPECIES
-=======
+# Caloplaca fraxinea I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

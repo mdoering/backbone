@@ -1,5 +1,4 @@
-Phyllosticta helianthemicola var. helianthemicola VARIETY
-=======
+# Phyllosticta helianthemicola Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 4: 31 (1896)
 
 #### Original name
-Phyllosticta helianthemicola var. helianthemicola
+Phyllosticta helianthemicola Allesch.
 
 ### Remarks
 null

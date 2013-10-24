@@ -1,5 +1,4 @@
-Mycosphaerella lycopodiicola Moesz & Smarods SPECIES
-=======
+# Mycosphaerella lycopodiicola Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaera antidesmatis Bat. SPECIES
-=======
+# Phaeosphaera antidesmatis Bat. SPECIES
 
 #### Status
 ACCEPTED

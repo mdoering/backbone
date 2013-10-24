@@ -1,5 +1,4 @@
-Sphaerothallia affinis (Eversm.) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia affinis (Eversm.) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

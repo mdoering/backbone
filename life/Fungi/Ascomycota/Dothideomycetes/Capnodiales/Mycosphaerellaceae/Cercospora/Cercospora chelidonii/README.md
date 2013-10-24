@@ -1,5 +1,4 @@
-Cercospora chelidonii Y.L. Guo & Li Xu SPECIES
-=======
+# Cercospora chelidonii Y.L. Guo & Li Xu SPECIES
 
 #### Status
 ACCEPTED

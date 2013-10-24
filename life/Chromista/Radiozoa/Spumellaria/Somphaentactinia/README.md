@@ -1,5 +1,4 @@
-Somphaentactinia GENUS
-=======
+# Somphaentactinia GENUS
 
 #### Status
 ACCEPTED

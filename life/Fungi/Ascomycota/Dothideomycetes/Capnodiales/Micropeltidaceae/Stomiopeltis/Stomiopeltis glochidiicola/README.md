@@ -1,5 +1,4 @@
-Stomiopeltis glochidiicola A. Pande & V.G. Rao SPECIES
-=======
+# Stomiopeltis glochidiicola A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

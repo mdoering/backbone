@@ -1,5 +1,4 @@
-Naucoria stictica (Fr.) Sacc. SPECIES
-=======
+# Naucoria stictica (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

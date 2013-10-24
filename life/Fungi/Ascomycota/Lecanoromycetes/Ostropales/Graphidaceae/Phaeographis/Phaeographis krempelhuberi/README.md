@@ -1,5 +1,4 @@
-Phaeographis krempelhuberi Redinger SPECIES
-=======
+# Phaeographis krempelhuberi Redinger SPECIES
 
 #### Status
 ACCEPTED

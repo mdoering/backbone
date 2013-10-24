@@ -1,5 +1,4 @@
-Xylaria theissenii Lloyd SPECIES
-=======
+# Xylaria theissenii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rupestris J. Favre SPECIES
-=======
+# Inocybe rupestris J. Favre SPECIES
 
 #### Status
 ACCEPTED

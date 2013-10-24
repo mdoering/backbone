@@ -1,5 +1,4 @@
-Bulimina pupoides SPECIES
-=======
+# Bulimina pupoides SPECIES
 
 #### Status
 ACCEPTED

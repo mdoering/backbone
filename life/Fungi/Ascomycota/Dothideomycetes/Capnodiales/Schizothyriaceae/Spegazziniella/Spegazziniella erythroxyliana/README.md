@@ -1,5 +1,4 @@
-Spegazziniella erythroxyliana Bat. SPECIES
-=======
+# Spegazziniella erythroxyliana Bat. SPECIES
 
 #### Status
 ACCEPTED

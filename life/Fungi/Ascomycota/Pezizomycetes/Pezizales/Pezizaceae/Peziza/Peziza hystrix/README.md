@@ -1,5 +1,4 @@
-Peziza hystrix Saut. SPECIES
-=======
+# Peziza hystrix Saut. SPECIES
 
 #### Status
 ACCEPTED

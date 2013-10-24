@@ -1,17 +1,16 @@
-Chondrioderma aculeatum Rex, 1891 SPECIES
-=======
+# Diderma sauteri (Rostaf.) T. Macbr., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York) 103 (1899)
 
 #### Original name
-null
+Chondrioderma sauteri Rostaf., 1874
 
 ### Remarks
 null

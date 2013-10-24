@@ -1,5 +1,4 @@
-Nidarocysta Monteil, 1997 GENUS
-=======
+# Nidarocysta Monteil, 1997 GENUS
 
 #### Status
 ACCEPTED

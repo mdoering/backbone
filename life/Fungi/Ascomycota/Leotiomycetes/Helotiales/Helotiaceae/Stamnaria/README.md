@@ -1,5 +1,4 @@
-Stamnaria Fuckel, 1870 GENUS
-=======
+# Stamnaria Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

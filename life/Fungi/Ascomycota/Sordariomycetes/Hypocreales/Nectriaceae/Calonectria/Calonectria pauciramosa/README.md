@@ -1,5 +1,4 @@
-Calonectria pauciramosa C.L. Schoch & Crous, 1999 SPECIES
-=======
+# Calonectria pauciramosa C.L. Schoch & Crous, 1999 SPECIES
 
 #### Status
 ACCEPTED

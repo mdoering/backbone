@@ -1,14 +1,13 @@
-Neurospora hapsidophora (R.S. Khan & J.C. Krug) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Gelasinospora hapsidophora R.S. Khan & J.C. Krug, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1127 (2004)
+Mycologia 81(2): 232 (1989)
 
 #### Original name
 Gelasinospora hapsidophora R.S. Khan & J.C. Krug, 1989

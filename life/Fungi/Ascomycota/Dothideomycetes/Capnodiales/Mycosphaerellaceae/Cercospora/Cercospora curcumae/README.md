@@ -1,5 +1,4 @@
-Cercospora curcumae Govindu & Thirum. SPECIES
-=======
+# Cercospora curcumae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

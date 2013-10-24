@@ -1,5 +1,4 @@
-Tribrachiatus Shamrai GENUS
-=======
+# Tribrachiatus Shamrai GENUS
 
 #### Status
 ACCEPTED

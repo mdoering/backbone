@@ -1,5 +1,4 @@
-Encephalitozoon intestinalis (A. Cali, D.P. Kotler & J.M. Orenstein) SPECIES
-=======
+# Encephalitozoon intestinalis (A. Cali, D.P. Kotler & J.M. Orenstein) SPECIES
 
 #### Status
 ACCEPTED

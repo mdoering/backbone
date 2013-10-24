@@ -1,5 +1,4 @@
-Anaptychia rubescens (Räsänen) Kurok. SPECIES
-=======
+# Anaptychia rubescens (Räsänen) Kurok. SPECIES
 
 #### Status
 ACCEPTED

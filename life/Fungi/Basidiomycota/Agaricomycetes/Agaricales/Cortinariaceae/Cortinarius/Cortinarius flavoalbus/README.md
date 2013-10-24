@@ -1,5 +1,4 @@
-Cortinarius flavoalbus Rob. Henry SPECIES
-=======
+# Cortinarius flavoalbus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

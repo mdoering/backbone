@@ -1,5 +1,4 @@
-Cortinarius subcephalixus Bidaud, Consiglio, D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius subcephalixus Bidaud, Consiglio, D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

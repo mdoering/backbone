@@ -1,5 +1,4 @@
-Pestalotia shiraiana Henn. SPECIES
-=======
+# Pestalotia shiraiana Henn. SPECIES
 
 #### Status
 ACCEPTED

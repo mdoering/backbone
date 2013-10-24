@@ -1,5 +1,4 @@
-Didymium tehuacanense Estrada, D. Wrigley & Lado, 2009 SPECIES
-=======
+# Didymium tehuacanense Estrada, D. Wrigley & Lado, 2009 SPECIES
 
 #### Status
 ACCEPTED

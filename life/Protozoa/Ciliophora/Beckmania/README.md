@@ -1,5 +1,4 @@
-Beckmania Yankovskij, 1982 GENUS
-=======
+# Beckmania Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

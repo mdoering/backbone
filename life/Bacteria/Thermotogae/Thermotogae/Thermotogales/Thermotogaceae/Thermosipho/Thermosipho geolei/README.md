@@ -1,5 +1,4 @@
-Thermosipho geolei L'Haridon et al., 2001 SPECIES
-=======
+# Thermosipho geolei L'Haridon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

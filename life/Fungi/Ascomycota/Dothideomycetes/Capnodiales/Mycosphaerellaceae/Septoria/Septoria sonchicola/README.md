@@ -1,5 +1,4 @@
-Septoria sonchicola Hollós SPECIES
-=======
+# Septoria sonchicola Hollós SPECIES
 
 #### Status
 ACCEPTED

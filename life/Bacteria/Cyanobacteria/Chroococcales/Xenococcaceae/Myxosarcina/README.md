@@ -1,5 +1,4 @@
-Myxosarcina Printz, 1921 GENUS
-=======
+# Myxosarcina Printz, 1921 GENUS
 
 #### Status
 ACCEPTED

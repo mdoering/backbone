@@ -1,5 +1,4 @@
-Rimelia simulans (Hale) Hale & A. Fletcher SPECIES
-=======
+# Rimelia simulans (Hale) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

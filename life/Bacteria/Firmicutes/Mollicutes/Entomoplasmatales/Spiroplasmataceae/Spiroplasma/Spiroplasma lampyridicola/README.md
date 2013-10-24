@@ -1,5 +1,4 @@
-Spiroplasma lampyridicola Stevens et al., 1997 SPECIES
-=======
+# Spiroplasma lampyridicola Stevens et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

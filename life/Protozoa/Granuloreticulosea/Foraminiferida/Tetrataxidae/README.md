@@ -1,5 +1,4 @@
-Tetrataxidae Galloway, 1933 FAMILY
-=======
+# Tetrataxidae Galloway, 1933 FAMILY
 
 #### Status
 ACCEPTED

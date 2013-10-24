@@ -1,5 +1,4 @@
-Cheiromoniliophora elegans Tzean & J.L. Chen, 1990 SPECIES
-=======
+# Cheiromoniliophora elegans Tzean & J.L. Chen, 1990 SPECIES
 
 #### Status
 ACCEPTED

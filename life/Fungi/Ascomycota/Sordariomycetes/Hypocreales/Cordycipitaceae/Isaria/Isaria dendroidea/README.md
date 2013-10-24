@@ -1,5 +1,4 @@
-Isaria dendroidea Jungh. SPECIES
-=======
+# Isaria dendroidea Jungh. SPECIES
 
 #### Status
 ACCEPTED

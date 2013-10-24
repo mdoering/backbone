@@ -1,5 +1,4 @@
-Usnea arborea Stirt. SPECIES
-=======
+# Usnea arborea Stirt. SPECIES
 
 #### Status
 ACCEPTED

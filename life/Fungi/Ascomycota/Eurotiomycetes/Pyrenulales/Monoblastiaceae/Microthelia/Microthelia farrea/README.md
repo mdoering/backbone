@@ -1,5 +1,4 @@
-Microthelia farrea (Ach.) Boistel SPECIES
-=======
+# Microthelia farrea (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

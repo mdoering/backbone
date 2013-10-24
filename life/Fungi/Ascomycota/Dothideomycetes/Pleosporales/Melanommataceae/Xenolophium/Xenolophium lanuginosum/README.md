@@ -1,5 +1,4 @@
-Xenolophium lanuginosum A. Bell & Mahoney, 2008 SPECIES
-=======
+# Xenolophium lanuginosum A. Bell & Mahoney, 2008 SPECIES
 
 #### Status
 ACCEPTED

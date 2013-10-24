@@ -1,5 +1,4 @@
-Mycosphaerella oerteliana (Sacc.) Mig. SPECIES
-=======
+# Mycosphaerella oerteliana (Sacc.) Mig. SPECIES
 
 #### Status
 ACCEPTED

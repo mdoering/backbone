@@ -1,8 +1,7 @@
-Monilia cydoniae Schellenb. SPECIES
-=======
+# Monilinia linhartiana (Prill. & Delacr.) N.F. Buchw., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Monilia cydoniae Schellenb.
+null
 
 ### Remarks
 null

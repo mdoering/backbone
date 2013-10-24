@@ -1,5 +1,4 @@
-Sphaerella rhodophila Pass. SPECIES
-=======
+# Sphaerella rhodophila Pass. SPECIES
 
 #### Status
 ACCEPTED

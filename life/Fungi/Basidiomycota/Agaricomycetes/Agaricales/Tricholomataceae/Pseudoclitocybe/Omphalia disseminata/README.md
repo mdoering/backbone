@@ -1,5 +1,4 @@
-Omphalia disseminata Velen. SPECIES
-=======
+# Omphalia disseminata Velen. SPECIES
 
 #### Status
 ACCEPTED

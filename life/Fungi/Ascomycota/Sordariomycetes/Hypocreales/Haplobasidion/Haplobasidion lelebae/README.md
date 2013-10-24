@@ -1,5 +1,4 @@
-Haplobasidion lelebae Sawada ex M.B. Ellis, 1957 SPECIES
-=======
+# Haplobasidion lelebae Sawada ex M.B. Ellis, 1957 SPECIES
 
 #### Status
 ACCEPTED

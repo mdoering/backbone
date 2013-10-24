@@ -1,5 +1,4 @@
-Clavulina tricarinata SPECIES
-=======
+# Clavulina tricarinata SPECIES
 
 #### Status
 ACCEPTED

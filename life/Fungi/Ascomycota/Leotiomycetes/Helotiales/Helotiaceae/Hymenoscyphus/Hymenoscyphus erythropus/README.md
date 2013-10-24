@@ -1,5 +1,4 @@
-Hymenoscyphus erythropus Döbbeler, 1981 SPECIES
-=======
+# Hymenoscyphus erythropus Döbbeler, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma pattersonianum (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma pattersonianum (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

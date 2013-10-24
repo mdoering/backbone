@@ -1,5 +1,4 @@
-Isoptericola Stackebrandt et al., 2004 GENUS
-=======
+# Isoptericola Stackebrandt et al., 2004 GENUS
 
 #### Status
 ACCEPTED

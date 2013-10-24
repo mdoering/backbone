@@ -1,5 +1,4 @@
-Septonema dichaenoides Peck & Cooke SPECIES
-=======
+# Septonema dichaenoides Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

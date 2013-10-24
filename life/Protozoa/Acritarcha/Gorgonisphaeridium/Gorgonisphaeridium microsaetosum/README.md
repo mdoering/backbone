@@ -1,5 +1,4 @@
-Gorgonisphaeridium microsaetosum (Staplin, 1961) Amirie, 1984 SPECIES
-=======
+# Gorgonisphaeridium microsaetosum (Staplin, 1961) Amirie, 1984 SPECIES
 
 #### Status
 ACCEPTED

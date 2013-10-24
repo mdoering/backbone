@@ -1,5 +1,4 @@
-Simblum rubescens var. rubescens VARIETY
-=======
+# Simblum rubescens W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 33: 22 (1880)
 
 #### Original name
-Simblum rubescens var. rubescens
+Simblum rubescens W.R. Gerard
 
 ### Remarks
 null

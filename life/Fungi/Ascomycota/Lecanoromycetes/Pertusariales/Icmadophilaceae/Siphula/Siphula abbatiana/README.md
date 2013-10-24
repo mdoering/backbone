@@ -1,5 +1,4 @@
-Siphula abbatiana Mathey SPECIES
-=======
+# Siphula abbatiana Mathey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia taganesuge Miura SPECIES
-=======
+# Puccinia taganesuge Miura SPECIES
 
 #### Status
 ACCEPTED

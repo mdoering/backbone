@@ -1,17 +1,16 @@
-Mycovellosiella moghamiae Bhalla, S.K. Singh & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella moghaniae Bhalla, S.K. Singh & A.K. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aust. Syst. Bot. 12(3): 372 (1999)
 
 #### Original name
-Mycovellosiella moghamiae Bhalla, S.K. Singh & A.K. Srivast.
+Mycovellosiella moghaniae Bhalla, S.K. Singh & A.K. Srivast.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria betulicola Lobik SPECIES
-=======
+# Septoria betulicola Lobik SPECIES
 
 #### Status
 ACCEPTED

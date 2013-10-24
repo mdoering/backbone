@@ -1,5 +1,4 @@
-Akanthomyces hypogaeus Thaxt. SPECIES
-=======
+# Akanthomyces hypogaeus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

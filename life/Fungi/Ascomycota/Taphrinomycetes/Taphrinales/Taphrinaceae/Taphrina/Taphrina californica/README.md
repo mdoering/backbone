@@ -1,5 +1,4 @@
-Taphrina californica Mix, 1938 SPECIES
-=======
+# Taphrina californica Mix, 1938 SPECIES
 
 #### Status
 ACCEPTED

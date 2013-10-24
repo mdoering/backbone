@@ -1,5 +1,4 @@
-Peziza sphaeroides var. sphaeroides Roth VARIETY
-=======
+# Peziza sphaeroides Roth SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza sphaeroides var. sphaeroides Roth
+Peziza sphaeroides Roth
 
 ### Remarks
 null

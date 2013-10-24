@@ -1,5 +1,4 @@
-Cortinarius violaceocinereus (Pers.) Fr. SPECIES
-=======
+# Cortinarius violaceocinereus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

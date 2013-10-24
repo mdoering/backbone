@@ -1,5 +1,4 @@
-Depazea veronicae Lacaille {?} SPECIES
-=======
+# Depazea veronicae Lacaille {?} SPECIES
 
 #### Status
 ACCEPTED

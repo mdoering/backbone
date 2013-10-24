@@ -1,5 +1,4 @@
-Peziza cyathula Pers. SPECIES
-=======
+# Peziza cyathula Pers. SPECIES
 
 #### Status
 ACCEPTED

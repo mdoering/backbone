@@ -1,5 +1,4 @@
-Taiwanofungus camphoratus (M. Zang & C.H. Su) Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su, 2004 SPECIES
-=======
+# Taiwanofungus camphoratus (M. Zang & C.H. Su) Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su, 2004 SPECIES
 
 #### Status
 ACCEPTED

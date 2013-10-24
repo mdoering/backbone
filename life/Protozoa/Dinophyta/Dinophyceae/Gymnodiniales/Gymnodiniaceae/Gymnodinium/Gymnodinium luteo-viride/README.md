@@ -1,5 +1,4 @@
-Gymnodinium luteo-viride van Meel, 1969 SPECIES
-=======
+# Gymnodinium luteo-viride van Meel, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora pluriseptata Wehm. SPECIES
-=======
+# Pleospora pluriseptata Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Procabacteriaceae FAMILY
-=======
+# Procabacteriaceae FAMILY
 
 #### Status
 ACCEPTED

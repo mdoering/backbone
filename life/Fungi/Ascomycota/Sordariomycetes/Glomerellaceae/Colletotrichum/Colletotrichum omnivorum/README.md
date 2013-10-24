@@ -1,5 +1,4 @@
-Colletotrichum omnivorum Halst. SPECIES
-=======
+# Colletotrichum omnivorum Halst. SPECIES
 
 #### Status
 ACCEPTED

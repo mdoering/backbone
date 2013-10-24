@@ -1,14 +1,13 @@
-Helotium vasaense (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Hymenoscyphus vasaensis (P. Karst.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 77 (1964)
 
 #### Original name
 null

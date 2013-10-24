@@ -1,5 +1,4 @@
-Actinomadura africana Preobrazhenskaya & Sveshnikova, 1974 SPECIES
-=======
+# Actinomadura africana Preobrazhenskaya & Sveshnikova, 1974 SPECIES
 
 #### Status
 ACCEPTED

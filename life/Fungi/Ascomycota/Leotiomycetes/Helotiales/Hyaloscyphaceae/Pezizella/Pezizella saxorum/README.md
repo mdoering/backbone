@@ -1,5 +1,4 @@
-Pezizella saxorum Kirschst. SPECIES
-=======
+# Pezizella saxorum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

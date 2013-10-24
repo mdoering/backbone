@@ -1,5 +1,4 @@
-Agaricus levidensis Britzelm. SPECIES
-=======
+# Agaricus levidensis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

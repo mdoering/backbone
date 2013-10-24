@@ -1,5 +1,4 @@
-Gymnoascus alatosporus Natarajan, 1972 SPECIES
-=======
+# Gymnoascus alatosporus Natarajan, 1972 SPECIES
 
 #### Status
 ACCEPTED

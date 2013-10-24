@@ -1,5 +1,4 @@
-Ammatoidea normanni West & G.S. West SPECIES
-=======
+# Ammatoidea normanni West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

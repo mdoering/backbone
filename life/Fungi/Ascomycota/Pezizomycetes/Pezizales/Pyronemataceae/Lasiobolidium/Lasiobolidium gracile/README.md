@@ -1,5 +1,4 @@
-Lasiobolidium gracile Yaguchi, Someya & Udagawa SPECIES
-=======
+# Lasiobolidium gracile Yaguchi, Someya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

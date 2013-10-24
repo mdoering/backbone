@@ -1,5 +1,4 @@
-Merismella proxima Syd., 1927 SPECIES
-=======
+# Merismella proxima Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

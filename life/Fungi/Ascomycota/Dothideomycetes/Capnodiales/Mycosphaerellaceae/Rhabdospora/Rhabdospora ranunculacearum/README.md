@@ -1,5 +1,4 @@
-Rhabdospora ranunculacearum S. Ahmad SPECIES
-=======
+# Rhabdospora ranunculacearum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

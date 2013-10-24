@@ -1,8 +1,7 @@
-Coniothyrium trachomitii Nasyrov SPECIES
-=======
+# Coniothyrium trachomiti Nasyrov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium trachomitii Nasyrov
+Coniothyrium trachomiti Nasyrov
 
 ### Remarks
 null

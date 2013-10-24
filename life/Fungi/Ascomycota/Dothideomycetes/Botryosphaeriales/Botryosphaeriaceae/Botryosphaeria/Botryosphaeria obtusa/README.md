@@ -1,17 +1,16 @@
-Phoma obtusa Fuckel, 1870 SPECIES
-=======
+# Botryosphaeria obtusa (Schwein.) Shoemaker, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 42: 1298 (1964)
 
 #### Original name
-Phoma obtusa Fuckel, 1870
+Sphaeria obtusa Rabenh., 1844
 
 ### Remarks
 null

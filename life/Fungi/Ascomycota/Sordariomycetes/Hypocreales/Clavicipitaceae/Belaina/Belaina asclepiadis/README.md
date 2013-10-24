@@ -1,5 +1,4 @@
-Belaina asclepiadis Bat. & Peres SPECIES
-=======
+# Belaina asclepiadis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

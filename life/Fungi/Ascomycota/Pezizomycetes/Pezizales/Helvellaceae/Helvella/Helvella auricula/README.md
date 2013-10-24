@@ -1,5 +1,4 @@
-Helvella auricula Schaeff. SPECIES
-=======
+# Helvella auricula Schaeff. SPECIES
 
 #### Status
 ACCEPTED

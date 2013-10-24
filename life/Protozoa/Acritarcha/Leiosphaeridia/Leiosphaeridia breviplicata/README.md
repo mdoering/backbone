@@ -1,5 +1,4 @@
-Leiosphaeridia breviplicata (Chibrikova, 1972) L.A. Sergeeva, 1979 SPECIES
-=======
+# Leiosphaeridia breviplicata (Chibrikova, 1972) L.A. Sergeeva, 1979 SPECIES
 
 #### Status
 ACCEPTED

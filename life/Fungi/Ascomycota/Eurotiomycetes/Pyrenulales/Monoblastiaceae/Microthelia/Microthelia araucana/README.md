@@ -1,5 +1,4 @@
-Microthelia araucana Speg. SPECIES
-=======
+# Microthelia araucana Speg. SPECIES
 
 #### Status
 ACCEPTED

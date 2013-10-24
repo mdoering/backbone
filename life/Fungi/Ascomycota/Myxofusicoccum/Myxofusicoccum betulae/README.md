@@ -1,5 +1,4 @@
-Myxofusicoccum betulae Jaap SPECIES
-=======
+# Myxofusicoccum betulae Jaap SPECIES
 
 #### Status
 ACCEPTED

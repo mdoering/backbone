@@ -1,5 +1,4 @@
-Helicosporium pulvinatum var. pulvinatum (Nees) Fr. VARIETY
-=======
+# Helicosporium pulvinatum (Nees) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 19 (1822)
 
 #### Original name
-Helicosporium pulvinatum var. pulvinatum (Nees) Fr.
+Helicotrichum pulvinatum Nees
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea papulosa (Ach.) SPECIES
-=======
+# Lecidea papulosa (Ach.) SPECIES
 
 #### Status
 ACCEPTED

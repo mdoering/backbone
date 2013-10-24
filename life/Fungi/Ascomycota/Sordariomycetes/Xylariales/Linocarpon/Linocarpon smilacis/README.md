@@ -1,5 +1,4 @@
-Linocarpon smilacis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Linocarpon smilacis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

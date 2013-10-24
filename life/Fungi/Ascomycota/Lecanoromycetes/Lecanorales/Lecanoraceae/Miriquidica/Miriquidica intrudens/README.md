@@ -1,14 +1,13 @@
-Lecanora intrudens H. Magn. SPECIES
-=======
+# Miriquidica intrudens (H. Magn.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 8 (1942)
+Mitt. bot. StSamml. , Münch. 23: 386 (1987)
 
 #### Original name
 Lecanora intrudens H. Magn.

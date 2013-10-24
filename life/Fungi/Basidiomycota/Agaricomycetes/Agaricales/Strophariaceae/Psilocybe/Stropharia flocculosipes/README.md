@@ -1,5 +1,4 @@
-Stropharia flocculosipes Singer SPECIES
-=======
+# Stropharia flocculosipes Singer SPECIES
 
 #### Status
 ACCEPTED

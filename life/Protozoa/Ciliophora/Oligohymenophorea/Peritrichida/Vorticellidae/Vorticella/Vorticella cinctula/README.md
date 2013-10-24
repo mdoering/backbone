@@ -1,5 +1,4 @@
-Vorticella cinctula Dumas, 1929 SPECIES
-=======
+# Vorticella cinctula Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

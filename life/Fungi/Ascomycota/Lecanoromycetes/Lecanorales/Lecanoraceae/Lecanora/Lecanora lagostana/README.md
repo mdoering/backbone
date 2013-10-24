@@ -1,5 +1,4 @@
-Lecanora lagostana Zahlbr. SPECIES
-=======
+# Lecanora lagostana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

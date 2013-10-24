@@ -1,5 +1,4 @@
-Lecidea prolata Nyl. ex Norrl. SPECIES
-=======
+# Lecidea prolata Nyl. ex Norrl. SPECIES
 
 #### Status
 ACCEPTED

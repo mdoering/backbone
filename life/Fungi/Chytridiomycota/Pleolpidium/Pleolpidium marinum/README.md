@@ -1,5 +1,4 @@
-Pleolpidium marinum Sparrow SPECIES
-=======
+# Pleolpidium marinum Sparrow SPECIES
 
 #### Status
 ACCEPTED

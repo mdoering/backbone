@@ -1,5 +1,4 @@
-Pestalotia lespedezae Syd. SPECIES
-=======
+# Pestalotia lespedezae Syd. SPECIES
 
 #### Status
 ACCEPTED

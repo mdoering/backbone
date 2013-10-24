@@ -1,5 +1,4 @@
-Truncatella tianshanica Z.Q. Yuan & Z.Y. Zhao SPECIES
-=======
+# Truncatella tianshanica Z.Q. Yuan & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

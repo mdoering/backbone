@@ -1,5 +1,4 @@
-Lichinella granulosa M. Schultz SPECIES
-=======
+# Lichinella granulosa M. Schultz SPECIES
 
 #### Status
 ACCEPTED

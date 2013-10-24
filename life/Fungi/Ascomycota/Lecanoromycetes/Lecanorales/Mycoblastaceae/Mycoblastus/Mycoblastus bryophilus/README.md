@@ -1,5 +1,4 @@
-Mycoblastus bryophilus Imshaug ex Kantvilas SPECIES
-=======
+# Mycoblastus bryophilus Imshaug ex Kantvilas SPECIES
 
 #### Status
 ACCEPTED

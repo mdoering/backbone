@@ -1,5 +1,4 @@
-Hohenbuehelia tsugophthora Lib.-Barnes SPECIES
-=======
+# Hohenbuehelia tsugophthora Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicobacter mesocricetorum Simmons et al., 2000 SPECIES
-=======
+# Helicobacter mesocricetorum Simmons et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

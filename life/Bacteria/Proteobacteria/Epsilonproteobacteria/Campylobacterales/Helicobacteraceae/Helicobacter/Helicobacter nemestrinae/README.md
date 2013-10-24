@@ -1,5 +1,4 @@
-Helicobacter nemestrinae Bronsdon et al., 1991 SPECIES
-=======
+# Helicobacter nemestrinae Bronsdon et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia petraeicola Linds. SPECIES
-=======
+# Microthelia petraeicola Linds. SPECIES
 
 #### Status
 ACCEPTED

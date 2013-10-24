@@ -1,5 +1,4 @@
-Hypospila brunellae Ellis & Everh. SPECIES
-=======
+# Hypospila brunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

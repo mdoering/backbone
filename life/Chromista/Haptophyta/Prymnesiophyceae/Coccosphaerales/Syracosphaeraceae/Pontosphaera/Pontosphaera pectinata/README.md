@@ -1,5 +1,4 @@
-Pontosphaera pectinata (Bramlette & Sullivan, 1961) Sherwood, 1974 SPECIES
-=======
+# Pontosphaera pectinata (Bramlette & Sullivan, 1961) Sherwood, 1974 SPECIES
 
 #### Status
 ACCEPTED

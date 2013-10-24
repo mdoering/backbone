@@ -1,5 +1,4 @@
-Agaricus acutatus Kalchbr. & F. Muell. SPECIES
-=======
+# Agaricus acutatus Kalchbr. & F. Muell. SPECIES
 
 #### Status
 ACCEPTED

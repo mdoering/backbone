@@ -1,5 +1,4 @@
-Sclerotium stipae Sorokin SPECIES
-=======
+# Sclerotium stipae Sorokin SPECIES
 
 #### Status
 ACCEPTED

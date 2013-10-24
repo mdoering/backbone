@@ -1,5 +1,4 @@
-Spartiella Tuzet & Manier ex Manier GENUS
-=======
+# Spartiella Tuzet & Manier ex Manier GENUS
 
 #### Status
 ACCEPTED

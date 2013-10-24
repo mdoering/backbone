@@ -1,5 +1,4 @@
-Atraktochrysis R.Focke, 1957 GENUS
-=======
+# Atraktochrysis R.Focke, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora myrticola Speg., 1886 SPECIES
-=======
+# Pseudocercospora myrticola (Speg.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 22: 14 (1886)
+Mycol. Pap. 140: 148 (1976)
 
 #### Original name
 Cercospora myrticola Speg., 1886

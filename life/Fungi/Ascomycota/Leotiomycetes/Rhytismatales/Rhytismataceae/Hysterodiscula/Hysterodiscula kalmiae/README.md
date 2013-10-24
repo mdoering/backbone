@@ -1,5 +1,4 @@
-Hysterodiscula kalmiae Petr., 1942 SPECIES
-=======
+# Hysterodiscula kalmiae Petr., 1942 SPECIES
 
 #### Status
 ACCEPTED

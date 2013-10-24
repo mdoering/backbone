@@ -1,8 +1,7 @@
-Gyalecta luetkemülleri Zahlbr. SPECIES
-=======
+# Gyalecta luetkemuelleri Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyalecta luetkemülleri Zahlbr.
+Gyalecta luetkemuelleri Zahlbr.
 
 ### Remarks
 null

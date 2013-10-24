@@ -1,5 +1,4 @@
-Nectria ostiolorum Berk. & Cooke SPECIES
-=======
+# Nectria ostiolorum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

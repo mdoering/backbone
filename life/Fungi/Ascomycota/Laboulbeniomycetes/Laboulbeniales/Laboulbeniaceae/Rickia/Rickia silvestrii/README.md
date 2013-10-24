@@ -1,5 +1,4 @@
-Rickia silvestrii Speg. SPECIES
-=======
+# Rickia silvestrii Speg. SPECIES
 
 #### Status
 ACCEPTED

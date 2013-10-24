@@ -1,5 +1,4 @@
-Acrotheca glauca Höhn. SPECIES
-=======
+# Acrotheca glauca Höhn. SPECIES
 
 #### Status
 ACCEPTED

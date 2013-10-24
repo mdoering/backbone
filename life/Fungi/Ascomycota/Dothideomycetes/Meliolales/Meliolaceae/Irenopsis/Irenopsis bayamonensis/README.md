@@ -1,5 +1,4 @@
-Irenopsis bayamonensis (Tehon) F. Stevens SPECIES
-=======
+# Irenopsis bayamonensis (Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

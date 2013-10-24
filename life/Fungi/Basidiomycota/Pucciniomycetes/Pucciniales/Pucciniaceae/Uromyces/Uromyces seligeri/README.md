@@ -1,5 +1,4 @@
-Uromyces seligeri Tranzschel & Erem. SPECIES
-=======
+# Uromyces seligeri Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

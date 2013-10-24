@@ -1,5 +1,4 @@
-Boletellus russellii (Frost) E.-J. Gilbert SPECIES
-=======
+# Boletellus russellii (Frost) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

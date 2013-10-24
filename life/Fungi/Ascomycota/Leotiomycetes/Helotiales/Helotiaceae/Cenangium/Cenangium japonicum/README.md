@@ -1,5 +1,4 @@
-Cenangium japonicum (Henn.) Miura SPECIES
-=======
+# Cenangium japonicum (Henn.) Miura SPECIES
 
 #### Status
 ACCEPTED

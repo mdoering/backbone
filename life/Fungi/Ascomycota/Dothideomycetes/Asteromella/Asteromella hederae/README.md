@@ -1,5 +1,4 @@
-Asteromella hederae C. Massal. SPECIES
-=======
+# Asteromella hederae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatella magnoliae (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Dermatella magnoliae (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

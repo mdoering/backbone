@@ -1,5 +1,4 @@
-Terana orbicularis (Durieu & Lév.) Kuntze SPECIES
-=======
+# Terana orbicularis (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

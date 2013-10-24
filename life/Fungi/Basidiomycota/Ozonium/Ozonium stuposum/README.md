@@ -1,5 +1,4 @@
-Ozonium stuposum Pers. SPECIES
-=======
+# Ozonium stuposum Pers. SPECIES
 
 #### Status
 ACCEPTED

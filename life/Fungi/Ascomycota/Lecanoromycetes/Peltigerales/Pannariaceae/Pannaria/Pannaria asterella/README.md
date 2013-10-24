@@ -1,5 +1,4 @@
-Pannaria asterella Nyl. SPECIES
-=======
+# Pannaria asterella Nyl. SPECIES
 
 #### Status
 ACCEPTED

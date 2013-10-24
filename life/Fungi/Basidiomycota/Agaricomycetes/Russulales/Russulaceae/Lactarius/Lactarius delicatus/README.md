@@ -1,5 +1,4 @@
-Lactarius delicatus Burl. SPECIES
-=======
+# Lactarius delicatus Burl. SPECIES
 
 #### Status
 ACCEPTED

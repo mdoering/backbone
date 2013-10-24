@@ -1,5 +1,4 @@
-Schizodiocrodium palmulatum Vavrdová, 1978 SPECIES
-=======
+# Schizodiocrodium palmulatum Vavrdová, 1978 SPECIES
 
 #### Status
 DOUBTFUL

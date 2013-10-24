@@ -1,17 +1,16 @@
-Calopposis damae-cornis Lloyd SPECIES
-=======
+# Calopposis damicornis Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(no. 74): 1340 (1925)
 
 #### Original name
-Calopposis damae-cornis Lloyd
+Calopposis damicornis Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia subscortea Asahina SPECIES
-=======
+# Parmelia subscortea Asahina SPECIES
 
 #### Status
 ACCEPTED

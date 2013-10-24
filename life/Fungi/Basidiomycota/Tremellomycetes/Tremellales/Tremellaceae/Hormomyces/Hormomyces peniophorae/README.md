@@ -1,5 +1,4 @@
-Hormomyces peniophorae P. Roberts, 1997 SPECIES
-=======
+# Hormomyces peniophorae P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

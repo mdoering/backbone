@@ -1,5 +1,4 @@
-Leptosphaeria torrendii Traverso & Spessa SPECIES
-=======
+# Leptosphaeria torrendii Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

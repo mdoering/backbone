@@ -1,5 +1,4 @@
-Aspicilia cuprea Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia cuprea Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

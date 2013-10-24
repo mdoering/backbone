@@ -1,17 +1,16 @@
-Ascotricha bosei var. bosei VARIETY
-=======
+# Ascotricha bosei D. Hawksw., 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycol. Pap. 126: 12 (1971)
 
 #### Original name
-Ascotricha bosei var. bosei
+Ascotricha bosei D. Hawksw., 1971
 
 ### Remarks
 null

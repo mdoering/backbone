@@ -1,5 +1,4 @@
-Choanephora conjunta Couch SPECIES
-=======
+# Choanephora conjunta Couch SPECIES
 
 #### Status
 ACCEPTED

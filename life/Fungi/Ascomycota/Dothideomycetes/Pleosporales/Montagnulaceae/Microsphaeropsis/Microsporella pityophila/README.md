@@ -1,5 +1,4 @@
-Microsporella pityophila Höhn. SPECIES
-=======
+# Microsporella pityophila Höhn. SPECIES
 
 #### Status
 ACCEPTED

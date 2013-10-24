@@ -1,5 +1,4 @@
-Allosphaeriidae FAMILY
-=======
+# Allosphaeriidae FAMILY
 
 #### Status
 ACCEPTED

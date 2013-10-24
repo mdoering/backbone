@@ -1,5 +1,4 @@
-Meliola melastomacearum Speg. SPECIES
-=======
+# Meliola melastomacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

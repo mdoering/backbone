@@ -1,5 +1,4 @@
-Cyclotella socialis Schutt SPECIES
-=======
+# Cyclotella socialis Schutt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps herculea Miq. SPECIES
-=======
+# Cordyceps herculea Miq. SPECIES
 
 #### Status
 ACCEPTED

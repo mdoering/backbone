@@ -1,5 +1,4 @@
-Lithothelium polysemum (Nyl.) Aptroot SPECIES
-=======
+# Lithothelium polysemum (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina d'Orbigny, 1826 GENUS
-=======
+# Lingulina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

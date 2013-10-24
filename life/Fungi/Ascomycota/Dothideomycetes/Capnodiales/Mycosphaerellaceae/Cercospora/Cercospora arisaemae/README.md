@@ -1,5 +1,4 @@
-Cercospora arisaemae F.L. Tai SPECIES
-=======
+# Cercospora arisaemae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

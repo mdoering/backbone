@@ -1,5 +1,4 @@
-Didymochaetina galactiae Bat. & J.L. Bezerra, 1965 SPECIES
-=======
+# Didymochaetina galactiae Bat. & J.L. Bezerra, 1965 SPECIES
 
 #### Status
 ACCEPTED

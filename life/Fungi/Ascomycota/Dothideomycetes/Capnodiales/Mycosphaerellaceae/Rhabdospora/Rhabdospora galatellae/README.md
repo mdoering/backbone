@@ -1,5 +1,4 @@
-Rhabdospora galatellae f. minor Lobik FORM
-=======
+# Rhabdospora galatellae Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora galatellae f. minor Lobik
+Rhabdospora galatellae Bubák & Serebrian.
 
 ### Remarks
 null

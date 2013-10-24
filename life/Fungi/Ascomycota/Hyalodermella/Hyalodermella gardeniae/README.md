@@ -1,14 +1,13 @@
-Hyaloderma gardeniae Keissl., 1909 SPECIES
-=======
+# Hyalodermella gardeniae (Keissl.) Speg., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Physis, Buenos Aires (1918)
 
 #### Original name
 Hyaloderma gardeniae Keissl., 1909

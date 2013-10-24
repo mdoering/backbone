@@ -1,17 +1,16 @@
-Drechslera avenae (Eidam) Scharif, 1963 SPECIES
-=======
+# Pyrenophora chaetomioides Speg., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Studies on Graminicolous Species of Helminthosporium (continuation), Teheran 72 (1963)
+Annals Mus. Nac. Hist. Nat. , Buenos Aires 6: 285 (1899)
 
 #### Original name
-Helminthosporium avenae Eidam, 1891
+Pyrenophora chaetomioides Speg., 1898
 
 ### Remarks
 null

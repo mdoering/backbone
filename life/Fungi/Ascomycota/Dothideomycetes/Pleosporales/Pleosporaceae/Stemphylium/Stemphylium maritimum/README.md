@@ -1,5 +1,4 @@
-Stemphylium maritimum T.W. Johnson, 1957 SPECIES
-=======
+# Stemphylium maritimum T.W. Johnson, 1957 SPECIES
 
 #### Status
 ACCEPTED

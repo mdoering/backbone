@@ -1,5 +1,4 @@
-Corniculariella spina (Berk. & Ravenel) DiCosmo SPECIES
-=======
+# Corniculariella spina (Berk. & Ravenel) DiCosmo SPECIES
 
 #### Status
 ACCEPTED

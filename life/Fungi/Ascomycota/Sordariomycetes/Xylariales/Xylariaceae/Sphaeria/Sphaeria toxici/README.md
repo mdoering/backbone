@@ -1,5 +1,4 @@
-Sphaeria toxici Schwein. SPECIES
-=======
+# Sphaeria toxici Schwein. SPECIES
 
 #### Status
 ACCEPTED

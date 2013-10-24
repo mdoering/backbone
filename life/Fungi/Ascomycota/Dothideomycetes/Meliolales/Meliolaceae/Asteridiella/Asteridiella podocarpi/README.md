@@ -1,5 +1,4 @@
-Asteridiella podocarpi var. podocarpi VARIETY
-=======
+# Asteridiella podocarpi (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 49 (1957)
 
 #### Original name
-Asteridiella podocarpi var. podocarpi
+Meliola podocarpi Doidge
 
 ### Remarks
 null

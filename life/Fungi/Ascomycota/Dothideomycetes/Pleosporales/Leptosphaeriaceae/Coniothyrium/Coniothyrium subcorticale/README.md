@@ -1,5 +1,4 @@
-Coniothyrium subcorticale P. Karst. SPECIES
-=======
+# Coniothyrium subcorticale P. Karst. SPECIES
 
 #### Status
 ACCEPTED

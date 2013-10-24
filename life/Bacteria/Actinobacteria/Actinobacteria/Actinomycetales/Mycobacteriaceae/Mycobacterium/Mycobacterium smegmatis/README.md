@@ -1,5 +1,4 @@
-Mycobacterium smegmatis (Trevisan, 1889) Lehmann and Neumann, 1899 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium smegmatis (Trevisan, 1889) Lehmann and Neumann, 1899 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

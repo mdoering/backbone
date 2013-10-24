@@ -1,5 +1,4 @@
-Galerina hynorum (Fr.) Kühner SPECIES
-=======
+# Galerina hynorum (Fr.) Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthomorphina challengeriana (Thalmann, 1937) SPECIES
-=======
+# Orthomorphina challengeriana (Thalmann, 1937) SPECIES
 
 #### Status
 ACCEPTED

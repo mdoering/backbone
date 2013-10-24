@@ -1,5 +1,4 @@
-Mucor naumovii Malchevsk. ex Naumov SPECIES
-=======
+# Mucor naumovii Malchevsk. ex Naumov SPECIES
 
 #### Status
 ACCEPTED

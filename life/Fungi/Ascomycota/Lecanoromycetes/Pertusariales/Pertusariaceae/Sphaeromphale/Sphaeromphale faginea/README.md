@@ -1,5 +1,4 @@
-Sphaeromphale faginea Trevis. SPECIES
-=======
+# Sphaeromphale faginea Trevis. SPECIES
 
 #### Status
 ACCEPTED

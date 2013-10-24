@@ -1,5 +1,4 @@
-Phialocephala richardsiae (Nannf.) Conant SPECIES
-=======
+# Phialocephala richardsiae (Nannf.) Conant SPECIES
 
 #### Status
 ACCEPTED

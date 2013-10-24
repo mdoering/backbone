@@ -1,5 +1,4 @@
-Pseudohelotium melichroum (Cooke) Sacc. SPECIES
-=======
+# Pseudohelotium melichroum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

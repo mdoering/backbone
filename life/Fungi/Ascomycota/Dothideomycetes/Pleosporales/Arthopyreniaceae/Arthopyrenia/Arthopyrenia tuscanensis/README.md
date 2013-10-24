@@ -1,5 +1,4 @@
-Arthopyrenia tuscanensis Coppins & Ravera SPECIES
-=======
+# Arthopyrenia tuscanensis Coppins & Ravera SPECIES
 
 #### Status
 ACCEPTED

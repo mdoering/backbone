@@ -1,5 +1,4 @@
-Rhizocarpon kakurgon Poelt SPECIES
-=======
+# Rhizocarpon kakurgon Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia vexans Farl. SPECIES
-=======
+# Puccinia vexans Farl. SPECIES
 
 #### Status
 ACCEPTED

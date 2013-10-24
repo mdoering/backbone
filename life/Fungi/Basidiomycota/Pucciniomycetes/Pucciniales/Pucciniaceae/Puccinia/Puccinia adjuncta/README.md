@@ -1,5 +1,4 @@
-Puccinia adjuncta Mitter, 1937 SPECIES
-=======
+# Puccinia adjuncta Mitter, 1937 SPECIES
 
 #### Status
 ACCEPTED

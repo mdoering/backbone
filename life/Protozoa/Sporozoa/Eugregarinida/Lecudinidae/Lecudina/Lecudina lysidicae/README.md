@@ -1,8 +1,7 @@
-Lecudina lisidicae Bhatia & Setna, 1938 SPECIES
-=======
+# Lecudina lysidicae Bhatia & Setna, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Leptosphaeria lupinicola Earle SPECIES
-=======
+# Leptosphaeria lupinicola Earle SPECIES
 
 #### Status
 ACCEPTED

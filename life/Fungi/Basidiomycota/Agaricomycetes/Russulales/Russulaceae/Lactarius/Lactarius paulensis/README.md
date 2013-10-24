@@ -1,5 +1,4 @@
-Lactarius paulensis Singer SPECIES
-=======
+# Lactarius paulensis Singer SPECIES
 
 #### Status
 ACCEPTED

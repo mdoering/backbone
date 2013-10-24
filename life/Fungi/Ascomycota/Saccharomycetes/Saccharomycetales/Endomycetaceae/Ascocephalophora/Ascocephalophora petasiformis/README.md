@@ -1,17 +1,16 @@
-Ascocephalophora petasiformia K. Matsush. & Matsush. SPECIES
-=======
+# Ascocephalophora petasiformis K. Matsush. & Matsush., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 8: 50 (1995)
 
 #### Original name
-Ascocephalophora petasiformia K. Matsush. & Matsush.
+Ascocephalophora petasiformis K. Matsush. & Matsush., 1995
 
 ### Remarks
 null

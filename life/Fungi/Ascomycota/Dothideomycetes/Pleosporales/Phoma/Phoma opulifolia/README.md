@@ -1,5 +1,4 @@
-Phoma opulifolia Cooke SPECIES
-=======
+# Phoma opulifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

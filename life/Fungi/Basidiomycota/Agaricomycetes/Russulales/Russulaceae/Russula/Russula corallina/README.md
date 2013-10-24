@@ -1,5 +1,4 @@
-Russula corallina Burl. SPECIES
-=======
+# Russula corallina Burl. SPECIES
 
 #### Status
 ACCEPTED

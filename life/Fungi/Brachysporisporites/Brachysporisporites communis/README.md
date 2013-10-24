@@ -1,5 +1,4 @@
-Brachysporisporites communis Z.C. Song SPECIES
-=======
+# Brachysporisporites communis Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

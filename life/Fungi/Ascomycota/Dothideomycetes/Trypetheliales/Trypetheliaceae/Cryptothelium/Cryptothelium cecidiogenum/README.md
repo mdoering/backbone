@@ -1,5 +1,4 @@
-Cryptothelium cecidiogenum Aptroot & Lücking SPECIES
-=======
+# Cryptothelium cecidiogenum Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

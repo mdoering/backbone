@@ -1,5 +1,4 @@
-Dimerina epidochica Syd. SPECIES
-=======
+# Dimerina epidochica Syd. SPECIES
 
 #### Status
 ACCEPTED

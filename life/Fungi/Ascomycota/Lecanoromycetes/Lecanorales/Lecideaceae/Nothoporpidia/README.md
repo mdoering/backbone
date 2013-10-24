@@ -1,5 +1,4 @@
-Nothoporpidia GENUS
-=======
+# Nothoporpidia GENUS
 
 #### Status
 ACCEPTED

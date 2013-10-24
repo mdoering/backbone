@@ -1,5 +1,4 @@
-Allarthoniomyces elliotii Cif. & Tomas. SPECIES
-=======
+# Allarthoniomyces elliotii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria luteola Alcalde SPECIES
-=======
+# Metasphaeria luteola Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltella gaultheriae Bat. SPECIES
-=======
+# Stomiopeltella gaultheriae Bat. SPECIES
 
 #### Status
 ACCEPTED

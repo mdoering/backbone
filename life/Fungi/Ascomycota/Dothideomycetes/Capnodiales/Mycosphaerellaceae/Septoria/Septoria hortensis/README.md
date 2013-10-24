@@ -1,5 +1,4 @@
-Septoria hortensis Sacc. SPECIES
-=======
+# Septoria hortensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

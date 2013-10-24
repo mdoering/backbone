@@ -1,5 +1,4 @@
-Lecidea inturgescens Nyl. SPECIES
-=======
+# Lecidea inturgescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

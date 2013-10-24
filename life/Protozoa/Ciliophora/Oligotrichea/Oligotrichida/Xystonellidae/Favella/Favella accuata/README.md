@@ -1,5 +1,4 @@
-Favella accuata SPECIES
-=======
+# Favella accuata SPECIES
 
 #### Status
 ACCEPTED

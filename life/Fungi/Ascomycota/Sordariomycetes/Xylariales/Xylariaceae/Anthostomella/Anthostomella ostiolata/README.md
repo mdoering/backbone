@@ -1,5 +1,4 @@
-Anthostomella ostiolata Ellis & Everh. SPECIES
-=======
+# Anthostomella ostiolata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriacites glyptostrobi Givul. SPECIES
-=======
+# Microthyriacites glyptostrobi Givul. SPECIES
 
 #### Status
 ACCEPTED

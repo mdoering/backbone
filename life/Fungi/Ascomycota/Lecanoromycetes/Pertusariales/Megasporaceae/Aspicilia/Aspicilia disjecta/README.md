@@ -1,5 +1,4 @@
-Aspicilia disjecta (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia disjecta (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

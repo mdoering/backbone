@@ -1,17 +1,16 @@
-Conocybe umbellula var. umbellula VARIETY
-=======
+# Conocybe umbellula (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 401 (1955)
 
 #### Original name
-null
+Agaricus umbellulus Mont.
 
 ### Remarks
 null

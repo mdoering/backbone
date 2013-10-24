@@ -1,5 +1,4 @@
-Scytonema tolypothrichoides Kützing SPECIES
-=======
+# Scytonema tolypothrichoides Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocytophaga myxococcoides (Krzemieniewska, 1933) Stanier, 1940 (Approved Lists, 1980) SPECIES
-=======
+# Sporocytophaga myxococcoides (Krzemieniewska, 1933) Stanier, 1940 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

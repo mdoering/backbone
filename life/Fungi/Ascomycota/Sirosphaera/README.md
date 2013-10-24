@@ -1,17 +1,16 @@
-Melanosphaeria Sawada GENUS
-=======
+# Sirosphaera Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report of the Department of Agriculture, Government Research Institute of Formosa 2: 119 (1922)
+Philipp. J. Sci. , C, Bot. 8: 502 (1913)
 
 #### Original name
-Melanosphaeria Sawada
+Sirosphaera Syd. & P. Syd.
 
 ### Remarks
 null

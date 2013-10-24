@@ -1,5 +1,4 @@
-Dendryphion orchidearum Gutner SPECIES
-=======
+# Dendryphion orchidearum Gutner SPECIES
 
 #### Status
 ACCEPTED

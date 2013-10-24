@@ -1,5 +1,4 @@
-Scleroconidioma Tsuneda, Currah & Thormann GENUS
-=======
+# Scleroconidioma Tsuneda, Currah & Thormann GENUS
 
 #### Status
 ACCEPTED

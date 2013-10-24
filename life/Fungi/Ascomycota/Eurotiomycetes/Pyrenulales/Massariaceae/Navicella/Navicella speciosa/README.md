@@ -1,5 +1,4 @@
-Navicella speciosa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella speciosa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

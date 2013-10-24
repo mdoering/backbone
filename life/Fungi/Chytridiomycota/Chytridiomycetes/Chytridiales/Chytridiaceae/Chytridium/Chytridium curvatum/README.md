@@ -1,5 +1,4 @@
-Chytridium curvatum Sparrow SPECIES
-=======
+# Chytridium curvatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

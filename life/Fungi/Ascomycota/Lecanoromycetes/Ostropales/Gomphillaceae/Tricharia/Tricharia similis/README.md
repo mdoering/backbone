@@ -1,5 +1,4 @@
-Tricharia similis Vezda SPECIES
-=======
+# Tricharia similis Vezda SPECIES
 
 #### Status
 ACCEPTED

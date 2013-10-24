@@ -1,5 +1,4 @@
-Meliola falcatiseta var. falcatiseta VARIETY
-=======
+# Meliola falcatiseta Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Mus. nac. B. Aires, Ser. 3 19(12): 327 (1909)
 
 #### Original name
-Meliola falcatiseta var. falcatiseta
+Meliola falcatiseta Speg.
 
 ### Remarks
 null

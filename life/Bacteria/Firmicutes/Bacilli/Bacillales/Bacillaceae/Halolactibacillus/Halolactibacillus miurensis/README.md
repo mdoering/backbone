@@ -1,5 +1,4 @@
-Halolactibacillus miurensis Ishikawa et al., 2005 SPECIES
-=======
+# Halolactibacillus miurensis Ishikawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

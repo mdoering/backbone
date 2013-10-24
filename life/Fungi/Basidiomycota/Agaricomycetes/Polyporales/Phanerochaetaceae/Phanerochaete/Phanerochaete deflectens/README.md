@@ -1,17 +1,16 @@
-Corticium umbratum Bourdot & Galzin, 1928 SPECIES
-=======
+# Phanerochaete deflectens (P. Karst.) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 220 (1928)
+Windahlia 17: 58 (1987)
 
 #### Original name
-Corticium umbratum Bourdot & Galzin, 1928
+Grandinia deflectens P. Karst., 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nannoconus inconspicuus Deflandre & Deflandre, 1967 SPECIES
-=======
+# Nannoconus inconspicuus Deflandre & Deflandre, 1967 SPECIES
 
 #### Status
 ACCEPTED

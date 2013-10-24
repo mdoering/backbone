@@ -1,5 +1,4 @@
-Janetia salvertiae Dorn.-Silva & Dianese SPECIES
-=======
+# Janetia salvertiae Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

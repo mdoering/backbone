@@ -1,5 +1,4 @@
-Septobasidium parviflorae Masuya & T. Yamada SPECIES
-=======
+# Septobasidium parviflorae Masuya & T. Yamada SPECIES
 
 #### Status
 ACCEPTED

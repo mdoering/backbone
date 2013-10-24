@@ -1,5 +1,4 @@
-Puccinia sarachae Mayor SPECIES
-=======
+# Puccinia sarachae Mayor SPECIES
 
 #### Status
 ACCEPTED

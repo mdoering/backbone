@@ -1,17 +1,16 @@
-Polyporus ochrotinctellus (Murrill) Overh., 1926 SPECIES
-=======
+# Antrodiella versicutis (Berk. & M.A. Curtis) Gilb. & Ryvarden, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Seaver & Chardón, Botany of Porto Rico and the Virgin Islands: Mycology 165 (1926)
+N. Amer. Polyp. (Oslo), Vol. <b>1</b> <i>Abortiporus</i> - <i>Lindtneri</i> 158 (1986)
 
 #### Original name
-Coriolus ochrotinctellus Murrill, 1907
+Polyporus versicutis Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

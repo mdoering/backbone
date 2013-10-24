@@ -1,5 +1,4 @@
-Mycena myriadea Berk. SPECIES
-=======
+# Mycena myriadea Berk. SPECIES
 
 #### Status
 ACCEPTED

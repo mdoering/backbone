@@ -1,5 +1,4 @@
-Aequorivita Bowman & Nichols, 2002 GENUS
-=======
+# Aequorivita Bowman & Nichols, 2002 GENUS
 
 #### Status
 ACCEPTED

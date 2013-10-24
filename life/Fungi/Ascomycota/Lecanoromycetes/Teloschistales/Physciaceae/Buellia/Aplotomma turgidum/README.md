@@ -1,5 +1,4 @@
-Aplotomma turgidum (A. Massal.) A. Massal. ex Beltr. SPECIES
-=======
+# Aplotomma turgidum (A. Massal.) A. Massal. ex Beltr. SPECIES
 
 #### Status
 ACCEPTED

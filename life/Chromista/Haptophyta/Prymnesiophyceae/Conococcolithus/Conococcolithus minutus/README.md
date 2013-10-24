@@ -1,5 +1,4 @@
-Conococcolithus minutus Hay & Mohler, 1967 SPECIES
-=======
+# Conococcolithus minutus Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

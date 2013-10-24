@@ -1,5 +1,4 @@
-Pseudocercospora deightonii Minter, 1980 SPECIES
-=======
+# Pseudocercospora deightonii Minter, 1980 SPECIES
 
 #### Status
 ACCEPTED

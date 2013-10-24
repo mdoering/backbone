@@ -1,5 +1,4 @@
-Porina grandispora P.M. McCarthy SPECIES
-=======
+# Porina grandispora P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

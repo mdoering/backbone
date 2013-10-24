@@ -1,5 +1,4 @@
-Aulographum juruanum Henn. SPECIES
-=======
+# Aulographum juruanum Henn. SPECIES
 
 #### Status
 ACCEPTED

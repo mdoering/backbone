@@ -1,5 +1,4 @@
-Hydnum cinnabarinum (Schwein.) Fr. SPECIES
-=======
+# Hydnum cinnabarinum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

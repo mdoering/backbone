@@ -1,5 +1,4 @@
-Stigmatidium elegantulum Nyl. SPECIES
-=======
+# Stigmatidium elegantulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

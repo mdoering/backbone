@@ -1,5 +1,4 @@
-Phyllosticta negundicola Sacc. SPECIES
-=======
+# Phyllosticta negundicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

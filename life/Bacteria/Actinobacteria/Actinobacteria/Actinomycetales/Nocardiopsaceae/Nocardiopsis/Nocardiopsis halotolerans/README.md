@@ -1,5 +1,4 @@
-Nocardiopsis halotolerans Al-Zarban et al., 2002 SPECIES
-=======
+# Nocardiopsis halotolerans Al-Zarban et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichomyces fumosus Thaxt. SPECIES
-=======
+# Dichomyces fumosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

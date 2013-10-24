@@ -1,5 +1,4 @@
-Venturia lycopodii L. Holm & K. Holm SPECIES
-=======
+# Venturia lycopodii L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis stenophylla (Hue) I.M. Lamb SPECIES
-=======
+# Placopsis stenophylla (Hue) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

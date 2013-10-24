@@ -1,5 +1,4 @@
-Arthopyrenia dimidiata Fink ex J. Hedrick SPECIES
-=======
+# Arthopyrenia dimidiata Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

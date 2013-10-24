@@ -1,5 +1,4 @@
-Diatrype moroides Cooke & Peck SPECIES
-=======
+# Diatrype moroides Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

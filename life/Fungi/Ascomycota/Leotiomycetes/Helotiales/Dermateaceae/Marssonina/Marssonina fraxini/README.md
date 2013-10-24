@@ -1,5 +1,4 @@
-Marssonina fraxini (Ellis & Davis) Ellis & Davis SPECIES
-=======
+# Marssonina fraxini (Ellis & Davis) Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

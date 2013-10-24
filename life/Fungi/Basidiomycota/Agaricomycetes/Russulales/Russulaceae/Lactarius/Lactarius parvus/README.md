@@ -1,5 +1,4 @@
-Lactarius parvus Peck SPECIES
-=======
+# Lactarius parvus Peck SPECIES
 
 #### Status
 ACCEPTED

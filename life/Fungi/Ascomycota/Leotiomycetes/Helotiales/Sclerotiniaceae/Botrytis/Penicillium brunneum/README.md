@@ -1,5 +1,4 @@
-Penicillium brunneum Udagawa, 1959 SPECIES
-=======
+# Penicillium brunneum Udagawa, 1959 SPECIES
 
 #### Status
 DOUBTFUL

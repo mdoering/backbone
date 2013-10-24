@@ -1,5 +1,4 @@
-Camarosporium kerriae Hollós SPECIES
-=======
+# Camarosporium kerriae Hollós SPECIES
 
 #### Status
 ACCEPTED

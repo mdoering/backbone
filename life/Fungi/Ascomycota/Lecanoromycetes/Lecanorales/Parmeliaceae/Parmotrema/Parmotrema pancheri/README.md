@@ -1,5 +1,4 @@
-Parmotrema pancheri (Hue) Hale SPECIES
-=======
+# Parmotrema pancheri (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

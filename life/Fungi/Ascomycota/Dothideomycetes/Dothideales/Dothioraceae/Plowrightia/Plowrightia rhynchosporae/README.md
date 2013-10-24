@@ -1,5 +1,4 @@
-Plowrightia rhynchosporae Höhn. SPECIES
-=======
+# Plowrightia rhynchosporae Höhn. SPECIES
 
 #### Status
 ACCEPTED

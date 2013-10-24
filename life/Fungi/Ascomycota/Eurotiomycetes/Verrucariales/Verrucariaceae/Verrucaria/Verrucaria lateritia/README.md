@@ -1,5 +1,4 @@
-Verrucaria lateritia Pers. SPECIES
-=======
+# Verrucaria lateritia Pers. SPECIES
 
 #### Status
 ACCEPTED

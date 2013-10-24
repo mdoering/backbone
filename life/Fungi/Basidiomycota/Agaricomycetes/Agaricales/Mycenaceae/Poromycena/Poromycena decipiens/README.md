@@ -1,5 +1,4 @@
-Poromycena decipiens Overeem SPECIES
-=======
+# Poromycena decipiens Overeem SPECIES
 
 #### Status
 ACCEPTED

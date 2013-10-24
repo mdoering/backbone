@@ -1,5 +1,4 @@
-Aposphaeria zeae Lobik SPECIES
-=======
+# Aposphaeria zeae Lobik SPECIES
 
 #### Status
 ACCEPTED

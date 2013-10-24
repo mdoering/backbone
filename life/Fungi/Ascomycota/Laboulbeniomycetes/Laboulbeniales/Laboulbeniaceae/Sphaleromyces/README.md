@@ -1,5 +1,4 @@
-Sphaleromyces Thaxt. GENUS
-=======
+# Sphaleromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

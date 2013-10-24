@@ -1,5 +1,4 @@
-Leptoporus epileucus (Fr.) Quél. SPECIES
-=======
+# Leptoporus epileucus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

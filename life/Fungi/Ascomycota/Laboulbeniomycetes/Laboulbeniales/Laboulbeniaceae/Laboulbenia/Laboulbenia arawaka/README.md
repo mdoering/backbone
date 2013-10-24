@@ -1,5 +1,4 @@
-Laboulbenia arawaka Balazuc SPECIES
-=======
+# Laboulbenia arawaka Balazuc SPECIES
 
 #### Status
 ACCEPTED

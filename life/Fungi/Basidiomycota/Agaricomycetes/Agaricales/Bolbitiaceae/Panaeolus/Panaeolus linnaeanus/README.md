@@ -1,5 +1,4 @@
-Panaeolus linnaeanus S. Imai SPECIES
-=======
+# Panaeolus linnaeanus S. Imai SPECIES
 
 #### Status
 ACCEPTED

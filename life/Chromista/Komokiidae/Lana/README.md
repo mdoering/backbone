@@ -1,5 +1,4 @@
-Lana Tendal & Hessler, 1977 GENUS
-=======
+# Lana Tendal & Hessler, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota montevideensis Speg. SPECIES
-=======
+# Pholiota montevideensis Speg. SPECIES
 
 #### Status
 ACCEPTED

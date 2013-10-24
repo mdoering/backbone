@@ -1,5 +1,4 @@
-Puccinia hyptidis-mutabilis Mayor SPECIES
-=======
+# Puccinia hyptidis-mutabilis Mayor SPECIES
 
 #### Status
 ACCEPTED

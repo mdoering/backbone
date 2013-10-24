@@ -1,5 +1,4 @@
-Meliola rhododendri (W. Yamam.) Cif. SPECIES
-=======
+# Meliola rhododendri (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

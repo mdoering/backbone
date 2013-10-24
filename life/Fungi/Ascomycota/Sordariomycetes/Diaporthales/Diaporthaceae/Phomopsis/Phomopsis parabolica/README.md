@@ -1,5 +1,4 @@
-Phomopsis parabolica Petr. SPECIES
-=======
+# Phomopsis parabolica Petr. SPECIES
 
 #### Status
 ACCEPTED

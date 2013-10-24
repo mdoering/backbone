@@ -1,17 +1,16 @@
-Graphis leptalocarpa A.W. Archer SPECIES
-=======
+# Graphis leptaleocarpa A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 83: 364 (2002)
 
 #### Original name
-Graphis leptalocarpa A.W. Archer
+Graphis leptaleocarpa A.W. Archer
 
 ### Remarks
 null

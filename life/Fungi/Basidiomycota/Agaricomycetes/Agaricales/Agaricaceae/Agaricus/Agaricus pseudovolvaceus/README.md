@@ -1,5 +1,4 @@
-Agaricus pseudovolvaceus Berk. & Broome SPECIES
-=======
+# Agaricus pseudovolvaceus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

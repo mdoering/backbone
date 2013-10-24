@@ -1,5 +1,4 @@
-Pertusaria obruta R.C. Harris SPECIES
-=======
+# Pertusaria obruta R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

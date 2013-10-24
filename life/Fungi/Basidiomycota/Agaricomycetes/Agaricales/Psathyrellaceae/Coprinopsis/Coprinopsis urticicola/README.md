@@ -1,17 +1,16 @@
-Coprinus urticicola var. salicicola Uljé VARIETY
-=======
+# Coprinopsis urticicola (Berk. & Broome) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 232 (2001)
 
 #### Original name
-null
+Agaricus urticicola Berk. & Broome, 1861
 
 ### Remarks
 null

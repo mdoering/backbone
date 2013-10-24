@@ -1,5 +1,4 @@
-Flammula bella Massee SPECIES
-=======
+# Flammula bella Massee SPECIES
 
 #### Status
 ACCEPTED

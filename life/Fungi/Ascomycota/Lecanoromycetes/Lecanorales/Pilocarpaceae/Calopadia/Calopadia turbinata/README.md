@@ -1,5 +1,4 @@
-Calopadia turbinata (Tuck.) Sérus. & Lücking SPECIES
-=======
+# Calopadia turbinata (Tuck.) Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chondrocystis schauinslandii Lemmermann SPECIES
-=======
+# Chondrocystis schauinslandii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

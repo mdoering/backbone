@@ -1,5 +1,4 @@
-Varistaffella Kulagina & Sinitsyna, 2003 GENUS
-=======
+# Varistaffella Kulagina & Sinitsyna, 2003 GENUS
 
 #### Status
 ACCEPTED

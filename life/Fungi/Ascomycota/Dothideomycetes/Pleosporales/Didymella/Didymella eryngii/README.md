@@ -1,5 +1,4 @@
-Didymella eryngii Moesz SPECIES
-=======
+# Didymella eryngii Moesz SPECIES
 
 #### Status
 ACCEPTED

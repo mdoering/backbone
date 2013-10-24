@@ -1,5 +1,4 @@
-Buellia conioptiza (Nyl.) B. de Lesd. SPECIES
-=======
+# Buellia conioptiza (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

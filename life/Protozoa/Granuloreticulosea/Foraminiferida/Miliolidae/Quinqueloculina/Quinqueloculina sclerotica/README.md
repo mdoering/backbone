@@ -1,5 +1,4 @@
-Quinqueloculina sclerotica SPECIES
-=======
+# Quinqueloculina sclerotica SPECIES
 
 #### Status
 ACCEPTED

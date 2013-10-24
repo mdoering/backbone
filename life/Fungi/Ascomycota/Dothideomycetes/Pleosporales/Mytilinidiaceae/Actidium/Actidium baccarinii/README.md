@@ -1,5 +1,4 @@
-Actidium baccarinii (Paoli) H. Zogg SPECIES
-=======
+# Actidium baccarinii (Paoli) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

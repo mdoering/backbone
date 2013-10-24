@@ -1,5 +1,4 @@
-Lucidascocarpa pulchella A. Ferrer, Raja & Shearer, 2008 SPECIES
-=======
+# Lucidascocarpa pulchella A. Ferrer, Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

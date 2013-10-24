@@ -1,5 +1,4 @@
-Baltisphaeridium semibulbosum Górka, 1979 SPECIES
-=======
+# Baltisphaeridium semibulbosum Górka, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomerulomyces A.I. Romero & S.E. López GENUS
-=======
+# Glomerulomyces A.I. Romero & S.E. López GENUS
 
 #### Status
 ACCEPTED

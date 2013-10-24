@@ -1,5 +1,4 @@
-Laschia coccinea W.G. Sm. SPECIES
-=======
+# Laschia coccinea W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

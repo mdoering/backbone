@@ -1,5 +1,4 @@
-Trachelomonas gregussii var. cordata Hortobagy VARIETY
-=======
+# Trachelomonas gregussii Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

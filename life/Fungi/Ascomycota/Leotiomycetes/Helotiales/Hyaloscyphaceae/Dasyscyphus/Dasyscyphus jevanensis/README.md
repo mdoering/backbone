@@ -1,17 +1,16 @@
-Dasyscypha jevanensis Velen. SPECIES
-=======
+# Dasyscyphus jevanensis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 237 (1934)
 
 #### Original name
-Dasyscypha jevanensis Velen.
+Dasyscyphus jevanensis Velen.
 
 ### Remarks
 null

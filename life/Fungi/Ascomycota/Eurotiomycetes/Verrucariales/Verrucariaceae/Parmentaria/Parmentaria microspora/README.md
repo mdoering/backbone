@@ -1,17 +1,16 @@
-Trypethelium nanosporum C. Knight SPECIES
-=======
+# Parmentaria microspora Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Synops. Queensl. Fl. 1(Suppl. ): 78 (1886)
+Flora, Jena 70: 427 (1887)
 
 #### Original name
-Trypethelium nanosporum C. Knight
+Parmentaria microspora Müll. Arg.
 
 ### Remarks
 null

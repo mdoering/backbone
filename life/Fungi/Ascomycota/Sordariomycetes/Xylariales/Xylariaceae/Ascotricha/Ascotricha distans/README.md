@@ -1,5 +1,4 @@
-Ascotricha distans Udagawa, Uchiy. & Kamiya, 1994 SPECIES
-=======
+# Ascotricha distans Udagawa, Uchiy. & Kamiya, 1994 SPECIES
 
 #### Status
 ACCEPTED

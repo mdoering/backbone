@@ -1,5 +1,4 @@
-Oospora gartenii (Brumpt) Sartory SPECIES
-=======
+# Oospora gartenii (Brumpt) Sartory SPECIES
 
 #### Status
 ACCEPTED

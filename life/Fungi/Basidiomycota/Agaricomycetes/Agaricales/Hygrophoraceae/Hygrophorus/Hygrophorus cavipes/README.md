@@ -1,5 +1,4 @@
-Hygrophorus cavipes Dennis & D.A. Reid SPECIES
-=======
+# Hygrophorus cavipes Dennis & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

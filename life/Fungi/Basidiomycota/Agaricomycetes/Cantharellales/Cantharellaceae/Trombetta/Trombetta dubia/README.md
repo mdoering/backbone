@@ -1,5 +1,4 @@
-Trombetta dubia (Peck) Kuntze SPECIES
-=======
+# Trombetta dubia (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita nana Singer SPECIES
-=======
+# Amanita nana Singer SPECIES
 
 #### Status
 ACCEPTED

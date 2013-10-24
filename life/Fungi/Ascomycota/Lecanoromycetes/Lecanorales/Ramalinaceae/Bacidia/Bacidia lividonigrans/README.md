@@ -1,5 +1,4 @@
-Bacidia lividonigrans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia lividonigrans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

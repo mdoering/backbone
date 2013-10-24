@@ -1,5 +1,4 @@
-Urceolaria kozloffi SPECIES
-=======
+# Urceolaria kozloffi SPECIES
 
 #### Status
 ACCEPTED

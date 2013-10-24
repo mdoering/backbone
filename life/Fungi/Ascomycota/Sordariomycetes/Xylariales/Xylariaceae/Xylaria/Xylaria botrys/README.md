@@ -1,5 +1,4 @@
-Xylaria botrys Pat. SPECIES
-=======
+# Xylaria botrys Pat. SPECIES
 
 #### Status
 ACCEPTED

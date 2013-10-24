@@ -1,5 +1,4 @@
-Spirulina baltica Martens & Pankow, 1972 SPECIES
-=======
+# Spirulina baltica Martens & Pankow, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina melanogrammi (Stein, 1961) SPECIES
-=======
+# Trichodina melanogrammi (Stein, 1961) SPECIES
 
 #### Status
 ACCEPTED

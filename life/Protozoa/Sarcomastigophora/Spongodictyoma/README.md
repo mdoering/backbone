@@ -1,5 +1,4 @@
-Spongodictyoma Haeckel, 1887 GENUS
-=======
+# Spongodictyoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rimulosa H. Magn. SPECIES
-=======
+# Lecanora rimulosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

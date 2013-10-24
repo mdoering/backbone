@@ -1,5 +1,4 @@
-Polyporus calcitratus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus calcitratus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

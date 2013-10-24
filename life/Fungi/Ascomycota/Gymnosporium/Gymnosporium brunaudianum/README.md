@@ -1,5 +1,4 @@
-Gymnosporium brunaudianum Thüm. SPECIES
-=======
+# Gymnosporium brunaudianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

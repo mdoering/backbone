@@ -1,5 +1,4 @@
-Leiosphaeridia deflandrei Mädler, 1963 SPECIES
-=======
+# Leiosphaeridia deflandrei Mädler, 1963 SPECIES
 
 #### Status
 ACCEPTED

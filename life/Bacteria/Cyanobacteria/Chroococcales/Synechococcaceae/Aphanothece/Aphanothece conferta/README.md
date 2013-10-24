@@ -1,5 +1,4 @@
-Aphanothece conferta Richter SPECIES
-=======
+# Aphanothece conferta Richter SPECIES
 
 #### Status
 ACCEPTED

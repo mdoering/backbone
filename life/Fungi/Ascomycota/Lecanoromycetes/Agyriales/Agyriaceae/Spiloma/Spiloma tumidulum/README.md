@@ -1,5 +1,4 @@
-Spiloma tumidulum Sm. SPECIES
-=======
+# Spiloma tumidulum Sm. SPECIES
 
 #### Status
 ACCEPTED

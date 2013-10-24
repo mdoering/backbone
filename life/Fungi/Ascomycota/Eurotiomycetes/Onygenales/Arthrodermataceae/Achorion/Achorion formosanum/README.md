@@ -1,8 +1,7 @@
-Achorion formoseum Haseg. SPECIES
-=======
+# Achorion formosanum Haseg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Achorion formoseum Haseg.
+Achorion formosanum Haseg.
 
 ### Remarks
 null

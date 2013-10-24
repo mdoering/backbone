@@ -1,5 +1,4 @@
-Dactylaria curviclavata Matsush. SPECIES
-=======
+# Dactylaria curviclavata Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium physalidis Mundk. & Mhatre SPECIES
-=======
+# Synchytrium physalidis Mundk. & Mhatre SPECIES
 
 #### Status
 ACCEPTED

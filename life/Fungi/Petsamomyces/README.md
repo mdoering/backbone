@@ -1,5 +1,4 @@
-Petsamomyces M.Y. Belova, 2006 GENUS
-=======
+# Petsamomyces M.Y. Belova, 2006 GENUS
 
 #### Status
 ACCEPTED

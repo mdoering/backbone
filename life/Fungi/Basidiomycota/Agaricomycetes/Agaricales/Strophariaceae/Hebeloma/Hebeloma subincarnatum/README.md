@@ -1,5 +1,4 @@
-Hebeloma subincarnatum Murrill SPECIES
-=======
+# Hebeloma subincarnatum Murrill SPECIES
 
 #### Status
 ACCEPTED

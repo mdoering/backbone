@@ -1,5 +1,4 @@
-Selenidium polydorae Ganapati, 1946 SPECIES
-=======
+# Selenidium polydorae Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

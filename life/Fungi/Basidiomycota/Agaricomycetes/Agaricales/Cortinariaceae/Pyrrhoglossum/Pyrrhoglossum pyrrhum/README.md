@@ -1,17 +1,16 @@
-Agaricus pyrrhus var. pyrrhus VARIETY
-=======
+# Pyrrhoglossum pyrrhum (Berk. & M.A. Curtis) Singer, 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 45): 291 (1868)
+Mycologia 36(4): 367 (1944)
 
 #### Original name
-Agaricus pyrrhus var. pyrrhus
+Agaricus pyrrhus Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

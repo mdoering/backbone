@@ -1,5 +1,4 @@
-Lycoperdon gautieroides Berk. & Broome SPECIES
-=======
+# Lycoperdon gautieroides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

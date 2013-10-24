@@ -1,14 +1,13 @@
-Oligoporus simanii (Pilát ex Pilát) Bernicchia, 1990 SPECIES
-=======
+# Postia simanii (Pilát ex Pilát) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Polyporaceae s. l. in Italia (Italy) 338 (1990)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
 Leptoporus simanii Pilát, 1938

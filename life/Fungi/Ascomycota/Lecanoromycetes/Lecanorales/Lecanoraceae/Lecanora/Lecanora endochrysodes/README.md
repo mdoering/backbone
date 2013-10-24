@@ -1,5 +1,4 @@
-Lecanora endochrysodes Nyl. SPECIES
-=======
+# Lecanora endochrysodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

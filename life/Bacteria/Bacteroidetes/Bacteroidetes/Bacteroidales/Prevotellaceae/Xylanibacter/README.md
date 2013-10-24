@@ -1,5 +1,4 @@
-Xylanibacter Ueki et al., 2006 GENUS
-=======
+# Xylanibacter Ueki et al., 2006 GENUS
 
 #### Status
 ACCEPTED

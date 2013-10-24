@@ -1,5 +1,4 @@
-Sporotrichum biparasiticum Bubák SPECIES
-=======
+# Sporotrichum biparasiticum Bubák SPECIES
 
 #### Status
 ACCEPTED

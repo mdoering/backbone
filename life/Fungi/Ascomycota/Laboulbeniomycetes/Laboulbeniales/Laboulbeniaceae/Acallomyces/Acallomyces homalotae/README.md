@@ -1,5 +1,4 @@
-Acallomyces homalotae Thaxt., 1903 SPECIES
-=======
+# Acallomyces homalotae Thaxt., 1903 SPECIES
 
 #### Status
 ACCEPTED

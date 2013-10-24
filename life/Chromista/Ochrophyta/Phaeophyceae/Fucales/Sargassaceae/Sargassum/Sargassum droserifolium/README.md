@@ -1,5 +1,4 @@
-Sargassum droserifolium var. spathulatum Grunow VARIETY
-=======
+# Sargassum droserifolium Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

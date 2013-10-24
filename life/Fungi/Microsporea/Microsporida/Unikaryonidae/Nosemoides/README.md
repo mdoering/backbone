@@ -1,5 +1,4 @@
-Nosemoides Vinckier GENUS
-=======
+# Nosemoides Vinckier GENUS
 
 #### Status
 ACCEPTED

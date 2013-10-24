@@ -1,5 +1,4 @@
-Septoria hyoscyami Hollós SPECIES
-=======
+# Septoria hyoscyami Hollós SPECIES
 
 #### Status
 ACCEPTED

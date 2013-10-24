@@ -1,5 +1,4 @@
-Patellaria mesospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Patellaria mesospora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

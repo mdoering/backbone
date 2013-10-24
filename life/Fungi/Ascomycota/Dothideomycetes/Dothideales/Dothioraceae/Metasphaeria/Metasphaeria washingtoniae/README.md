@@ -1,5 +1,4 @@
-Metasphaeria washingtoniae Earle SPECIES
-=======
+# Metasphaeria washingtoniae Earle SPECIES
 
 #### Status
 ACCEPTED

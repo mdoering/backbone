@@ -1,5 +1,4 @@
-Russula bresadolae Schulzer SPECIES
-=======
+# Russula bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

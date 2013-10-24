@@ -1,5 +1,4 @@
-Histioneis moresbyensis Wood, 1963 SPECIES
-=======
+# Histioneis moresbyensis Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

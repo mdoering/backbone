@@ -1,5 +1,4 @@
-Diploplacosphaeria ruthenica Petr. SPECIES
-=======
+# Diploplacosphaeria ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

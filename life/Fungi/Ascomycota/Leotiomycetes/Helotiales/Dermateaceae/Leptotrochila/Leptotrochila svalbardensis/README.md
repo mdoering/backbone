@@ -1,14 +1,13 @@
-Pyrenopeziza svalbardensis Lind, 1928 SPECIES
-=======
+# Leptotrochila svalbardensis (Lind) Spooner & Nauta, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nauta & Spooner, Mycologist 14(2): 67 (2000)
 
 #### Original name
 Pyrenopeziza svalbardensis Lind, 1928

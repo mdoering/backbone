@@ -1,5 +1,4 @@
-Phyllachora betulina SPECIES
-=======
+# Phyllachora betulina SPECIES
 
 #### Status
 ACCEPTED

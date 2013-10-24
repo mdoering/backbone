@@ -1,5 +1,4 @@
-Helminthosporium fragile Sorokin SPECIES
-=======
+# Helminthosporium fragile Sorokin SPECIES
 
 #### Status
 ACCEPTED

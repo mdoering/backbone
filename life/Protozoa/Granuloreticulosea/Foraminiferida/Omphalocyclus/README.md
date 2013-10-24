@@ -1,5 +1,4 @@
-Omphalocyclus Bronn in Bronn & Roemer, 1855 GENUS
-=======
+# Omphalocyclus Bronn in Bronn & Roemer, 1855 GENUS
 
 #### Status
 ACCEPTED

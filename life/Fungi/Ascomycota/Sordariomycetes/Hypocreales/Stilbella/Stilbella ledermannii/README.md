@@ -1,5 +1,4 @@
-Stilbella ledermannii Syd. {?} SPECIES
-=======
+# Stilbella ledermannii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

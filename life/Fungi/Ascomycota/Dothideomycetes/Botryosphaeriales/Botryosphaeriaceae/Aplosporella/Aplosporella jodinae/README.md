@@ -1,5 +1,4 @@
-Aplosporella jodinae Speg. SPECIES
-=======
+# Aplosporella jodinae Speg. SPECIES
 
 #### Status
 ACCEPTED

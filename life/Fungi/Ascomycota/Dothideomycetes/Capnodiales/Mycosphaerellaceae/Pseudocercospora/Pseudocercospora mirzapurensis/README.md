@@ -1,5 +1,4 @@
-Pseudocercospora mirzapurensis Kamal SPECIES
-=======
+# Pseudocercospora mirzapurensis Kamal SPECIES
 
 #### Status
 ACCEPTED

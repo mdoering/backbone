@@ -1,5 +1,4 @@
-Agaricus elfinensis Heinem. SPECIES
-=======
+# Agaricus elfinensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

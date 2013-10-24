@@ -1,5 +1,4 @@
-Bolbitius elegans E. Horak, G. Moreno, A. Ortega & Esteve-Rav. SPECIES
-=======
+# Bolbitius elegans E. Horak, G. Moreno, A. Ortega & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

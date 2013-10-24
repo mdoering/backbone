@@ -1,5 +1,4 @@
-Aegyriana Deroux, 1975 GENUS
-=======
+# Aegyriana Deroux, 1975 GENUS
 
 #### Status
 ACCEPTED

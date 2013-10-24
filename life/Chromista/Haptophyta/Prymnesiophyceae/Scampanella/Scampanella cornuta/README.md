@@ -1,5 +1,4 @@
-Scampanella cornuta S. Forchheimer & H. Stradner SPECIES
-=======
+# Scampanella cornuta S. Forchheimer & H. Stradner SPECIES
 
 #### Status
 ACCEPTED

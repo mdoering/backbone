@@ -1,5 +1,4 @@
-Schismatomma minima (Kremp.) Overeem SPECIES
-=======
+# Schismatomma minima (Kremp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

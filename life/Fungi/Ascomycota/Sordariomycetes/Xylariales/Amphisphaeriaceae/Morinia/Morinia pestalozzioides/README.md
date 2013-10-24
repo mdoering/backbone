@@ -1,5 +1,4 @@
-Morinia pestalozzioides Berl. & Bres., 1889 SPECIES
-=======
+# Morinia pestalozzioides Berl. & Bres., 1889 SPECIES
 
 #### Status
 ACCEPTED

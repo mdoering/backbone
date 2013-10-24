@@ -1,5 +1,4 @@
-Puccinia correae McAlpine SPECIES
-=======
+# Puccinia correae McAlpine SPECIES
 
 #### Status
 ACCEPTED

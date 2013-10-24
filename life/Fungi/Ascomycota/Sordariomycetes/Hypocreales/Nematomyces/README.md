@@ -1,5 +1,4 @@
-Nematomyces GENUS
-=======
+# Nematomyces GENUS
 
 #### Status
 ACCEPTED

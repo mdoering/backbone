@@ -1,5 +1,4 @@
-Aecidium lysimachiae-japonicae Dietel SPECIES
-=======
+# Aecidium lysimachiae-japonicae Dietel SPECIES
 
 #### Status
 ACCEPTED

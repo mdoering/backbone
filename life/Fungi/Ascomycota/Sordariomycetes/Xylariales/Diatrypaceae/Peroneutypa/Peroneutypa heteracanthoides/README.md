@@ -1,5 +1,4 @@
-Peroneutypa heteracanthoides Sacc. SPECIES
-=======
+# Peroneutypa heteracanthoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

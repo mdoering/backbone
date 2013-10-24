@@ -1,5 +1,4 @@
-Elaphomyces foetidus Vittad. SPECIES
-=======
+# Elaphomyces foetidus Vittad. SPECIES
 
 #### Status
 ACCEPTED

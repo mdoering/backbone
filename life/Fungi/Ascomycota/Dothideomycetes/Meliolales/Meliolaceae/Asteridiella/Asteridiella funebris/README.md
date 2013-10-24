@@ -1,5 +1,4 @@
-Asteridiella funebris (Cif.) Hansf. SPECIES
-=======
+# Asteridiella funebris (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

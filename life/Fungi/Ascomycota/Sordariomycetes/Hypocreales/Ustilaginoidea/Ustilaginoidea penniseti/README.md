@@ -1,5 +1,4 @@
-Ustilaginoidea penniseti I. Miyake SPECIES
-=======
+# Ustilaginoidea penniseti I. Miyake SPECIES
 
 #### Status
 ACCEPTED

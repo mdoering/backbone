@@ -1,5 +1,4 @@
-Puccinia bocconiae Mayor SPECIES
-=======
+# Puccinia bocconiae Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gliocladium novaezelandiae Seifert, Samuels & W. Gams SPECIES
-=======
+# Gliocladium novae-zelandiae Seifert, Samuels & W. Gams SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Seifert, Stud. Mycol. 27: 153 (1985)
 
 #### Original name
-Gliocladium novaezelandiae Seifert, Samuels & W. Gams
+Gliocladium novae-zelandiae Seifert, Samuels & W. Gams
 
 ### Remarks
 null

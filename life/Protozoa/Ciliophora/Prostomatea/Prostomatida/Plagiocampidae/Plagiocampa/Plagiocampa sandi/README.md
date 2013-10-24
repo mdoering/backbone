@@ -1,5 +1,4 @@
-Plagiocampa sandi SPECIES
-=======
+# Plagiocampa sandi SPECIES
 
 #### Status
 ACCEPTED

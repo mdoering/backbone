@@ -1,5 +1,4 @@
-Porolaschia tonkinensis (Pat.) Pat. SPECIES
-=======
+# Porolaschia tonkinensis (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

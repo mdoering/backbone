@@ -1,5 +1,4 @@
-Hebeloma perplexum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma perplexum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

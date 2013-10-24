@@ -1,5 +1,4 @@
-Phyllachora ugandensis Syd., 1937 SPECIES
-=======
+# Phyllachora ugandensis Syd., 1937 SPECIES
 
 #### Status
 DOUBTFUL

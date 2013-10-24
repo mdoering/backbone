@@ -1,5 +1,4 @@
-Sphaerella gaveensis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella gaveensis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

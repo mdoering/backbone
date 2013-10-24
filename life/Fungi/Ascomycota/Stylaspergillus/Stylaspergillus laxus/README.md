@@ -1,5 +1,4 @@
-Stylaspergillus laxus B. Sutton, Alcorn & P.J. Fisher, 1982 SPECIES
-=======
+# Stylaspergillus laxus B. Sutton, Alcorn & P.J. Fisher, 1982 SPECIES
 
 #### Status
 ACCEPTED

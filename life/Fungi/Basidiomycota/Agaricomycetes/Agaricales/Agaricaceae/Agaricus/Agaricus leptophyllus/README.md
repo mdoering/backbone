@@ -1,5 +1,4 @@
-Agaricus leptophyllus Peck SPECIES
-=======
+# Agaricus leptophyllus Peck SPECIES
 
 #### Status
 ACCEPTED

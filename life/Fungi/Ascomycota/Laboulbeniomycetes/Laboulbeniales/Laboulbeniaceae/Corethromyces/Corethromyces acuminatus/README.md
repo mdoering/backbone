@@ -1,5 +1,4 @@
-Corethromyces acuminatus Thaxt. SPECIES
-=======
+# Corethromyces acuminatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

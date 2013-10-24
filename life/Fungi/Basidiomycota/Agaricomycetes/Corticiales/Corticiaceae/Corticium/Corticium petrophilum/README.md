@@ -1,5 +1,4 @@
-Corticium petrophilum Bourdot & Galzin SPECIES
-=======
+# Corticium petrophilum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

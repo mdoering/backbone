@@ -1,17 +1,16 @@
-Hemiarcyria stipitata Massee, 1889 SPECIES
-=======
+# Hemitrichia calyculata (Speg.) M.L. Farr, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Roy. Microscop. Soc. 354 (1889)
+Mycologia 66(5): 887 (1974)
 
 #### Original name
-Hemiarcyria stipitata Massee, 1889
+Hemiarcyria calyculata Speg., 1880
 
 ### Remarks
 null

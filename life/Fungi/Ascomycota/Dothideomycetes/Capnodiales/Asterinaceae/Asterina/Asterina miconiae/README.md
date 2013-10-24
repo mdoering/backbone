@@ -1,5 +1,4 @@
-Asterina miconiae Theiss. SPECIES
-=======
+# Asterina miconiae Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tryblidium rhopalascum Sacc. SPECIES
-=======
+# Triblidium rhopalascum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium rhopalascum Sacc.
+Triblidium rhopalascum Sacc.
 
 ### Remarks
 null

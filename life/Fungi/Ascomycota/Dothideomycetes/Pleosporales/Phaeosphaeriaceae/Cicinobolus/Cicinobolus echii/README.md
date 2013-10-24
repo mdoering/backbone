@@ -1,17 +1,16 @@
-Cicinnobolus echii Unamuno SPECIES
-=======
+# Cicinobolus echii Unamuno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln de la Real Soc. Españ. Hist. Nat. , Madrid 30: 294 (1930)
 
 #### Original name
-Cicinnobolus echii Unamuno
+Cicinobolus echii Unamuno
 
 ### Remarks
 null

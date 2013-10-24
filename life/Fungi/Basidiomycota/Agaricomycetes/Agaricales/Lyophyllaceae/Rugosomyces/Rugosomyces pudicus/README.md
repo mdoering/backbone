@@ -1,5 +1,4 @@
-Rugosomyces pudicus Bon & Contu SPECIES
-=======
+# Rugosomyces pudicus Bon & Contu SPECIES
 
 #### Status
 ACCEPTED

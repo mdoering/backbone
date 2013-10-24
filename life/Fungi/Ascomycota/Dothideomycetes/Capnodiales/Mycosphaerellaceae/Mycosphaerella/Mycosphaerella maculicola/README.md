@@ -1,5 +1,4 @@
-Mycosphaerella maculicola (G. Winter) Tomilin SPECIES
-=======
+# Mycosphaerella maculicola (G. Winter) Tomilin SPECIES
 
 #### Status
 ACCEPTED

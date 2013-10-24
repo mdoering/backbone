@@ -1,5 +1,4 @@
-Graphina cladophora (Vain.) Zahlbr. SPECIES
-=======
+# Graphina cladophora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arrhytidia nivea Rick SPECIES
-=======
+# Arrhytidia nivea Rick SPECIES
 
 #### Status
 ACCEPTED

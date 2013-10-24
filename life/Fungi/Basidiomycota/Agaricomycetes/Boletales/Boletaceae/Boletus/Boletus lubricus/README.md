@@ -1,5 +1,4 @@
-Boletus lubricus Corner SPECIES
-=======
+# Boletus lubricus Corner SPECIES
 
 #### Status
 ACCEPTED

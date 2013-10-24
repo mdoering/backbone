@@ -1,5 +1,4 @@
-Fomes spongiosus (Pers.) Sacc. SPECIES
-=======
+# Fomes spongiosus (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

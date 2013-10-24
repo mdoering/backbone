@@ -1,5 +1,4 @@
-Parmeliella mucorina Zahlbr. SPECIES
-=======
+# Parmeliella mucorina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

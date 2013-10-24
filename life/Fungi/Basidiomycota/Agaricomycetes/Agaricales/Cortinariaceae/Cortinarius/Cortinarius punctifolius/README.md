@@ -1,5 +1,4 @@
-Cortinarius punctifolius Peck SPECIES
-=======
+# Cortinarius punctifolius Peck SPECIES
 
 #### Status
 ACCEPTED

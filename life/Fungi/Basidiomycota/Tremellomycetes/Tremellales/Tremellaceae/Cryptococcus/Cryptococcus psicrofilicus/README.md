@@ -1,5 +1,4 @@
-Cryptococcus psicrofilicus Niño SPECIES
-=======
+# Cryptococcus psicrofilicus Niño SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus erythrinus Fr. SPECIES
-=======
+# Agaricus erythrinus Fr. SPECIES
 
 #### Status
 ACCEPTED

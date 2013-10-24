@@ -1,5 +1,4 @@
-Dimerium balladynae (Racib.) Theiss. SPECIES
-=======
+# Dimerium balladynae (Racib.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

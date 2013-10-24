@@ -1,5 +1,4 @@
-Prunulus corrugatus (Pat.) Murrill SPECIES
-=======
+# Prunulus corrugatus (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

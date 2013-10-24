@@ -1,5 +1,4 @@
-Parmelia hookeri Taylor SPECIES
-=======
+# Parmelia hookeri Taylor SPECIES
 
 #### Status
 ACCEPTED

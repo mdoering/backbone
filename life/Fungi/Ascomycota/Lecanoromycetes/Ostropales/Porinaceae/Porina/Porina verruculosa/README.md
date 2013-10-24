@@ -1,5 +1,4 @@
-Porina verruculosa Müll. Arg. SPECIES
-=======
+# Porina verruculosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

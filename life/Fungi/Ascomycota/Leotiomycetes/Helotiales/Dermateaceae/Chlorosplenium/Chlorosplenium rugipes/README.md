@@ -1,5 +1,4 @@
-Chlorosplenium rugipes (Peck) Korf SPECIES
-=======
+# Chlorosplenium rugipes (Peck) Korf SPECIES
 
 #### Status
 ACCEPTED

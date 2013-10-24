@@ -1,5 +1,4 @@
-Dothidea corallina Mont. SPECIES
-=======
+# Dothidea corallina Mont. SPECIES
 
 #### Status
 ACCEPTED

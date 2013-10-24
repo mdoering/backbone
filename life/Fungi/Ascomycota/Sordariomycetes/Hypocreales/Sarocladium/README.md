@@ -1,5 +1,4 @@
-Sarocladium W. Gams & D. Hawksw. GENUS
-=======
+# Sarocladium W. Gams & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

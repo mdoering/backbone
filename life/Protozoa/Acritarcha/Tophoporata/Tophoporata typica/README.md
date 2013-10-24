@@ -1,5 +1,4 @@
-Tophoporata typica Pykhova, 1969 ex Fensome et al., 1990 SPECIES
-=======
+# Tophoporata typica Pykhova, 1969 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

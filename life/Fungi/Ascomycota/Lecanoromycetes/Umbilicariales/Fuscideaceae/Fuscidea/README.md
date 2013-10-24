@@ -1,5 +1,4 @@
-Fuscidea V. Wirth & Vezda GENUS
-=======
+# Fuscidea V. Wirth & Vezda GENUS
 
 #### Status
 ACCEPTED

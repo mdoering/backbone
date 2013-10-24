@@ -1,5 +1,4 @@
-Meliola acrotricha Syd. SPECIES
-=======
+# Meliola acrotricha Syd. SPECIES
 
 #### Status
 ACCEPTED

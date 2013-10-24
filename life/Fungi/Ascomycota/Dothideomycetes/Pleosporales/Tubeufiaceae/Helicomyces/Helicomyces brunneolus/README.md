@@ -1,5 +1,4 @@
-Helicomyces brunneolus (Berk. & M.A. Curtis) Pound & Clem. SPECIES
-=======
+# Helicomyces brunneolus (Berk. & M.A. Curtis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

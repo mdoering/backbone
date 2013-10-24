@@ -1,5 +1,4 @@
-Cortinarius virgatus Peck SPECIES
-=======
+# Cortinarius virgatus Peck SPECIES
 
 #### Status
 ACCEPTED

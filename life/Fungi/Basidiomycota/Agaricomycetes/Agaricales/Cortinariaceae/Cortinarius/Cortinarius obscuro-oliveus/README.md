@@ -1,17 +1,16 @@
-Cortinarius obscuro-oliveus var. obscuro-oliveus VARIETY
-=======
+# Cortinarius obscuro-oliveus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycotaxon 87: 116 (2003)
 
 #### Original name
-null
+Dermocybe obscuro-olivea M.M. Moser
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Junghuhnia japonica Núñez & Ryvarden, 1999 SPECIES
-=======
+# Junghuhnia japonica Núñez & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia melastegia C. Knight SPECIES
-=======
+# Bacidia melastegia C. Knight SPECIES
 
 #### Status
 ACCEPTED

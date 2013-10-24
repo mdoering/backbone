@@ -1,5 +1,4 @@
-Marasmius schiffneri Bres. SPECIES
-=======
+# Marasmius schiffneri Bres. SPECIES
 
 #### Status
 ACCEPTED

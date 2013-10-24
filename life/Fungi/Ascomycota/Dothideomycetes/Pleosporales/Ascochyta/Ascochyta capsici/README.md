@@ -1,5 +1,4 @@
-Ascochyta capsici Bond.-Mont., 1923 SPECIES
-=======
+# Ascochyta capsici Bond.-Mont., 1923 SPECIES
 
 #### Status
 ACCEPTED

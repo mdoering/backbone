@@ -1,5 +1,4 @@
-Phoma phacidiella Sacc. SPECIES
-=======
+# Phoma phacidiella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Macrosporium striaeforme Syd. SPECIES
-=======
+# Macrosporium striiformis Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrosporium striaeforme Syd.
+Macrosporium striiformis Syd.
 
 ### Remarks
 null

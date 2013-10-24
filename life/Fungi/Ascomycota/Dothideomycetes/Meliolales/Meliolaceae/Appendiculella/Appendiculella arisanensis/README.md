@@ -1,5 +1,4 @@
-Appendiculella arisanensis (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella arisanensis (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

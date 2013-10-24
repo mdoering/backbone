@@ -1,5 +1,4 @@
-Romanoa Thirumalachar, 1954 GENUS
-=======
+# Romanoa Thirumalachar, 1954 GENUS
 
 #### Status
 ACCEPTED

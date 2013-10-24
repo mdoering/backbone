@@ -1,5 +1,4 @@
-Micrhystridium polyedricum SPECIES
-=======
+# Micrhystridium polyedricum SPECIES
 
 #### Status
 ACCEPTED

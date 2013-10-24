@@ -1,5 +1,4 @@
-Polyblastia clandestina (Arnold) Jatta SPECIES
-=======
+# Polyblastia clandestina (Arnold) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Katumotoa bambusicola Kaz. Tanaka & Y. Harada, 2005 SPECIES
-=======
+# Katumotoa bambusicola Kaz. Tanaka & Y. Harada, 2005 SPECIES
 
 #### Status
 ACCEPTED

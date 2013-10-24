@@ -1,5 +1,4 @@
-Pseudotriloculina sidebottomi (Martinotti, 1920) SPECIES
-=======
+# Pseudotriloculina sidebottomi (Martinotti, 1920) SPECIES
 
 #### Status
 ACCEPTED

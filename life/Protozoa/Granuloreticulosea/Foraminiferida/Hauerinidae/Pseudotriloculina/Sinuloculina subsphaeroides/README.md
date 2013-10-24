@@ -1,5 +1,4 @@
-Sinuloculina subsphaeroides Zheng, 1988 SPECIES
-=======
+# Sinuloculina subsphaeroides Zheng, 1988 SPECIES
 
 #### Status
 DOUBTFUL

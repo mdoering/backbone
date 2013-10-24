@@ -1,5 +1,4 @@
-Phyllosticta monardellae W.B. Cooke SPECIES
-=======
+# Phyllosticta monardellae W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

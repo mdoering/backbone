@@ -1,5 +1,4 @@
-Phoma emblicae Jamaluddin, M.P. Tandon & Tandon SPECIES
-=======
+# Phoma emblicae Jamaluddin, M.P. Tandon & Tandon SPECIES
 
 #### Status
 ACCEPTED

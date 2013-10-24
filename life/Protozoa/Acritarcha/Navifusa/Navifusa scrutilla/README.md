@@ -1,5 +1,4 @@
-Navifusa scrutilla Cramer & Díez, 1972 ex Eisenack et al., 1979 SPECIES
-=======
+# Navifusa scrutilla Cramer & Díez, 1972 ex Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

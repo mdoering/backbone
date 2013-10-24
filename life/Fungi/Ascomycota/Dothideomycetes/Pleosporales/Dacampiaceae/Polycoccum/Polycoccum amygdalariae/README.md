@@ -1,5 +1,4 @@
-Polycoccum amygdalariae F. Berger & Triebel SPECIES
-=======
+# Polycoccum amygdalariae F. Berger & Triebel SPECIES
 
 #### Status
 ACCEPTED

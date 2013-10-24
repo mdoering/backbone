@@ -1,5 +1,4 @@
-Wuestneia epispora Z.Q. Yuan, 1997 SPECIES
-=======
+# Wuestneia epispora Z.Q. Yuan, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lagascae Unamuno SPECIES
-=======
+# Phyllosticta lagascae Unamuno SPECIES
 
 #### Status
 ACCEPTED

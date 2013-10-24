@@ -1,5 +1,4 @@
-Imaia gigantea (S. Imai) Trappe & Kovács, 2008 SPECIES
-=======
+# Imaia gigantea (S. Imai) Trappe & Kovács, 2008 SPECIES
 
 #### Status
 ACCEPTED

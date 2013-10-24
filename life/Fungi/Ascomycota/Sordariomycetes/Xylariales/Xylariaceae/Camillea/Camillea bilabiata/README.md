@@ -1,5 +1,4 @@
-Camillea bilabiata Speg. SPECIES
-=======
+# Camillea bilabiata Speg. SPECIES
 
 #### Status
 ACCEPTED

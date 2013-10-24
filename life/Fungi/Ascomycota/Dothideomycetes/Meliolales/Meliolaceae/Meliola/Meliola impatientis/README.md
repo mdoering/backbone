@@ -1,5 +1,4 @@
-Meliola impatientis var. impatientis VARIETY
-=======
+# Meliola impatientis Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 4(1): 196 (1941)
 
 #### Original name
-Meliola impatientis var. impatientis
+Meliola impatientis Doidge
 
 ### Remarks
 null

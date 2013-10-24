@@ -1,5 +1,4 @@
-Hendersonia phlogis Brunaud SPECIES
-=======
+# Hendersonia phlogis Brunaud SPECIES
 
 #### Status
 ACCEPTED

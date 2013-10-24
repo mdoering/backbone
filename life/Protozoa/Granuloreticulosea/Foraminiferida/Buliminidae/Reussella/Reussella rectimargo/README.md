@@ -1,5 +1,4 @@
-Reussella rectimargo (Cushman) SPECIES
-=======
+# Reussella rectimargo (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ormosella trachelium (Jorgensen) Kofoid & Campbell, 1929 SPECIES
-=======
+# Ormosella trachelium (Jorgensen) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

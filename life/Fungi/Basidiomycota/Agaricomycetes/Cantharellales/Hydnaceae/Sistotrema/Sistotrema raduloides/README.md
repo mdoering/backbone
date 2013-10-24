@@ -1,14 +1,13 @@
-Hydnum fallax subsp. raduloides (P. Karst.) P. Karst. SUBSPECIES
-=======
+# Sistotrema raduloides (P. Karst.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 354 (1889)
+Fungus, Wageningen 26(1-4): 4 (1956)
 
 #### Original name
 Hydnum raduloides P. Karst., 1883

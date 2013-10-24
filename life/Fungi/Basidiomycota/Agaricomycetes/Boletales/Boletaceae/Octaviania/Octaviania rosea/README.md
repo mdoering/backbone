@@ -1,5 +1,4 @@
-Octaviania rosea Harkn. SPECIES
-=======
+# Octaviania rosea Harkn. SPECIES
 
 #### Status
 ACCEPTED

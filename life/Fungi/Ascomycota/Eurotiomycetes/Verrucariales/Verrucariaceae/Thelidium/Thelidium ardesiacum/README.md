@@ -1,5 +1,4 @@
-Thelidium ardesiacum Bagl. & Carestia SPECIES
-=======
+# Thelidium ardesiacum Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

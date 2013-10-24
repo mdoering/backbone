@@ -1,5 +1,4 @@
-Pezoloma rhodocarpa P.J. Fisher & Spooner, 1987 SPECIES
-=======
+# Pezoloma rhodocarpa P.J. Fisher & Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

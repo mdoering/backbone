@@ -1,5 +1,4 @@
-Chaetoderma luna (Romell ex D.P. Rogers & H.S. Jacks.) Parmasto, 1968 SPECIES
-=======
+# Chaetoderma luna (Romell ex D.P. Rogers & H.S. Jacks.) Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED

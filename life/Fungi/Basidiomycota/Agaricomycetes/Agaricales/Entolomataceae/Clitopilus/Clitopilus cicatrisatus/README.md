@@ -1,5 +1,4 @@
-Clitopilus cicatrisatus Lasch SPECIES
-=======
+# Clitopilus cicatrisatus Lasch SPECIES
 
 #### Status
 ACCEPTED

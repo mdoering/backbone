@@ -1,5 +1,4 @@
-Peronospora trifolii-alpestris Gäum. SPECIES
-=======
+# Peronospora trifolii-alpestris Gäum. SPECIES
 
 #### Status
 ACCEPTED

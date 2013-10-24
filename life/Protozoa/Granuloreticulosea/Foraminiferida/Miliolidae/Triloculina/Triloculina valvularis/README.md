@@ -1,8 +1,7 @@
-Miliolina valvularis (Reuss, 1851) SPECIES
-=======
+# Triloculina valvularis Reuss, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

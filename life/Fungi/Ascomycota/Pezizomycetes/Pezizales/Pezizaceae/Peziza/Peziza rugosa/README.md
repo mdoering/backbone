@@ -1,5 +1,4 @@
-Peziza rugosa Sowerby SPECIES
-=======
+# Peziza rugosa Sowerby SPECIES
 
 #### Status
 ACCEPTED

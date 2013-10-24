@@ -1,5 +1,4 @@
-Leptogium brissonii Zahlbr. SPECIES
-=======
+# Leptogium brissonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

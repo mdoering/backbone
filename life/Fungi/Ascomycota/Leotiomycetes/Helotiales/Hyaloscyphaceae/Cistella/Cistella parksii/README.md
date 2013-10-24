@@ -1,5 +1,4 @@
-Cistella parksii E.K. Cash SPECIES
-=======
+# Cistella parksii E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

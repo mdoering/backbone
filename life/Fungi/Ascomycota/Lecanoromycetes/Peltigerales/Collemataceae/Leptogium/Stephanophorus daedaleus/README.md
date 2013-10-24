@@ -1,5 +1,4 @@
-Stephanophorus daedaleus Flot. SPECIES
-=======
+# Stephanophorus daedaleus Flot. SPECIES
 
 #### Status
 ACCEPTED

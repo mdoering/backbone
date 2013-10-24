@@ -1,5 +1,4 @@
-Elletevera Deighton GENUS
-=======
+# Elletevera Deighton GENUS
 
 #### Status
 ACCEPTED

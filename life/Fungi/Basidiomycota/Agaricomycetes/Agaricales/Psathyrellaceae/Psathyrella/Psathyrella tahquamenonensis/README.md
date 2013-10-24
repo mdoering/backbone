@@ -1,5 +1,4 @@
-Psathyrella tahquamenonensis A.H. Sm. SPECIES
-=======
+# Psathyrella tahquamenonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

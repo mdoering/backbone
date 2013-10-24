@@ -1,5 +1,4 @@
-Clostridium novyi (Migula, 1894) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium novyi (Migula, 1894) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elliobiocystis Coutière, 1911 GENUS
-=======
+# Elliobiocystis Coutière, 1911 GENUS
 
 #### Status
 ACCEPTED

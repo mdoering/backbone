@@ -1,5 +1,4 @@
-Allodus ludwigiae (Ellis & Everh.) Orton SPECIES
-=======
+# Allodus ludwigiae (Ellis & Everh.) Orton SPECIES
 
 #### Status
 ACCEPTED

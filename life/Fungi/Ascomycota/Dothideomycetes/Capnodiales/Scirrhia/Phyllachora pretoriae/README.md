@@ -1,5 +1,4 @@
-Phyllachora pretoriae Doidge, 1942 SPECIES
-=======
+# Phyllachora pretoriae Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

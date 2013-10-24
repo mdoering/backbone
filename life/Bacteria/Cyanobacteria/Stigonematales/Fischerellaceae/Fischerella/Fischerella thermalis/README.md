@@ -1,8 +1,7 @@
-Fischera thermalis Schwabe SPECIES
-=======
+# Fischerella thermalis ( (schwabe) Born. and Flah.) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

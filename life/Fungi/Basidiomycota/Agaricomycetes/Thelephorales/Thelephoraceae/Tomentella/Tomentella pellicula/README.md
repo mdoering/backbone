@@ -1,5 +1,4 @@
-Tomentella pellicula (Fr.) Höhn. & Litsch. SPECIES
-=======
+# Tomentella pellicula (Fr.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

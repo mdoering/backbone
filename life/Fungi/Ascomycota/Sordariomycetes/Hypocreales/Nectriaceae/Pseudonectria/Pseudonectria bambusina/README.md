@@ -1,5 +1,4 @@
-Pseudonectria bambusina Syd. & P. Syd. SPECIES
-=======
+# Pseudonectria bambusina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

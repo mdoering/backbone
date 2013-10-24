@@ -1,5 +1,4 @@
-Phoeococcus GENUS
-=======
+# Phoeococcus GENUS
 
 #### Status
 ACCEPTED

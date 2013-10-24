@@ -1,8 +1,7 @@
-Marasmius pirinus Ellis SPECIES
-=======
+# Marasmius pyrinus Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius pirinus Ellis
+Marasmius pyrinus Ellis
 
 ### Remarks
 null

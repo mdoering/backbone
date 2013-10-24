@@ -1,5 +1,4 @@
-Marasmius ramentaceus (Pat.) Sacc. & Traverso SPECIES
-=======
+# Marasmius ramentaceus (Pat.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

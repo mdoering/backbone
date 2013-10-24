@@ -1,5 +1,4 @@
-Sclerotinia ficariae Rehm SPECIES
-=======
+# Sclerotinia ficariae Rehm SPECIES
 
 #### Status
 ACCEPTED

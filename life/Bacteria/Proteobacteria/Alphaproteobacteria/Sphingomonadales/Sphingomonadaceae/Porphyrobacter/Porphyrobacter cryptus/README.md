@@ -1,5 +1,4 @@
-Porphyrobacter cryptus Rainey et al., 2003 SPECIES
-=======
+# Porphyrobacter cryptus Rainey et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygraphis tumidula C. Knight & Mitt. SPECIES
-=======
+# Platygraphis tumidula C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

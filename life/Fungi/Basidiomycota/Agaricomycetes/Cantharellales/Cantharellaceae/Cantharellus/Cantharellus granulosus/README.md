@@ -1,5 +1,4 @@
-Cantharellus granulosus Cleland SPECIES
-=======
+# Cantharellus granulosus Cleland SPECIES
 
 #### Status
 ACCEPTED

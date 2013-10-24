@@ -1,5 +1,4 @@
-Porina pelochroa Müll. Arg., 1883 SPECIES
-=======
+# Porina pelochroa Müll. Arg., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Guignardia cocoicola Punith., 1974 SPECIES
-=======
+# Guignardia cocoicola Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca servitiana Szatala SPECIES
-=======
+# Caloplaca servitiana Szatala SPECIES
 
 #### Status
 ACCEPTED

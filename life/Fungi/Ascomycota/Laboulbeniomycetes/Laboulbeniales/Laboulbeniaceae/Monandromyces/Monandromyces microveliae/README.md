@@ -1,14 +1,13 @@
-Autophagomyces microveliae Thaxt., 1931 SPECIES
-=======
+# Monandromyces microveliae (Thaxt.) R.K. Benj., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 96 (1931)
+Aliso 18(2): 74 (1999)
 
 #### Original name
 Autophagomyces microveliae Thaxt., 1931

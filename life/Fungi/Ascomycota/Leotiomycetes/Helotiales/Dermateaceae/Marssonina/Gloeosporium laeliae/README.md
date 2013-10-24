@@ -1,5 +1,4 @@
-Gloeosporium laeliae Henn. SPECIES
-=======
+# Gloeosporium laeliae Henn. SPECIES
 
 #### Status
 ACCEPTED

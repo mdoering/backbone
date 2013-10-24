@@ -1,5 +1,4 @@
-Pilobolus inosculans Grove SPECIES
-=======
+# Pilobolus inosculans Grove SPECIES
 
 #### Status
 ACCEPTED

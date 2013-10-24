@@ -1,5 +1,4 @@
-Cortinarius fulvus Rob. Henry SPECIES
-=======
+# Cortinarius fulvus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

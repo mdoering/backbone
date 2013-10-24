@@ -1,5 +1,4 @@
-Porina aciculosa Vain. SPECIES
-=======
+# Porina aciculosa Vain. SPECIES
 
 #### Status
 ACCEPTED

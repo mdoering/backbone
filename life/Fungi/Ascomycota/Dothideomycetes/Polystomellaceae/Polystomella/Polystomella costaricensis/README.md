@@ -1,5 +1,4 @@
-Polystomella costaricensis F. Stevens, 1927 SPECIES
-=======
+# Polystomella costaricensis F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

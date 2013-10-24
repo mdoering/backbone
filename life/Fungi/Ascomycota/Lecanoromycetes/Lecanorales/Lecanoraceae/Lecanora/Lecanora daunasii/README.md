@@ -1,5 +1,4 @@
-Lecanora daunasii Houmeau & Cl. Roux SPECIES
-=======
+# Lecanora daunasii Houmeau & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

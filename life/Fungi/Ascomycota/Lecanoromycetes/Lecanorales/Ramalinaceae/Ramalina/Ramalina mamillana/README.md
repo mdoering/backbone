@@ -1,5 +1,4 @@
-Ramalina mamillana Tuck. SPECIES
-=======
+# Ramalina mamillana Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Anthostomellina kantschaveli Dzhalag. SPECIES
-=======
+# Anthostomellina kantschavelii Dzhalag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomellina kantschaveli Dzhalag.
+Anthostomellina kantschavelii Dzhalag.
 
 ### Remarks
 null

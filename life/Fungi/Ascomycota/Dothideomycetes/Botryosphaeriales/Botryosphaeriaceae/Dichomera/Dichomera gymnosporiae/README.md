@@ -1,5 +1,4 @@
-Dichomera gymnosporiae S. Ahmad SPECIES
-=======
+# Dichomera gymnosporiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

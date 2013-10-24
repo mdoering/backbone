@@ -1,5 +1,4 @@
-Sulfobacillus acidophilus Norris et al., 1996 SPECIES
-=======
+# Sulfobacillus acidophilus Norris et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

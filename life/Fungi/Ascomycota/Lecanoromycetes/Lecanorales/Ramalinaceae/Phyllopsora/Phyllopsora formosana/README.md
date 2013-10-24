@@ -1,5 +1,4 @@
-Phyllopsora formosana Zahlbr. SPECIES
-=======
+# Phyllopsora formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

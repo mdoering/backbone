@@ -1,5 +1,4 @@
-Aecidium prunellae G. Winter SPECIES
-=======
+# Aecidium prunellae G. Winter SPECIES
 
 #### Status
 ACCEPTED

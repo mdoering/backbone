@@ -1,5 +1,4 @@
-Bryopogon subcanus var. subcanus VARIETY
-=======
+# Bryopogon subcanus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon subcanus var. subcanus
+null
 
 ### Remarks
 null

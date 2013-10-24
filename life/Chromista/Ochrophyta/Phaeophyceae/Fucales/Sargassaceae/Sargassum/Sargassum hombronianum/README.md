@@ -1,5 +1,4 @@
-Sargassum hombronianum var. plagiophylloides Grunow VARIETY
-=======
+# Sargassum hombronianum Montagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis staphyleae (Brunaud) Höhn. SPECIES
-=======
+# Phomopsis staphyleae (Brunaud) Höhn. SPECIES
 
 #### Status
 ACCEPTED

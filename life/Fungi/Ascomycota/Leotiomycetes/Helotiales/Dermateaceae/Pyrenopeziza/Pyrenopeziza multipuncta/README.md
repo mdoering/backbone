@@ -1,5 +1,4 @@
-Pyrenopeziza multipuncta (Peck) Sacc. SPECIES
-=======
+# Pyrenopeziza multipuncta (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

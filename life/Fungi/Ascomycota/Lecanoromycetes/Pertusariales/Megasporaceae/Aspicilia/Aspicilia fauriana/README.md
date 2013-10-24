@@ -1,5 +1,4 @@
-Aspicilia fauriana Hue SPECIES
-=======
+# Aspicilia fauriana Hue SPECIES
 
 #### Status
 ACCEPTED

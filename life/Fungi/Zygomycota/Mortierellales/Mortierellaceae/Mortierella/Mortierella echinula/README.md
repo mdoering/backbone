@@ -1,5 +1,4 @@
-Mortierella echinula Linnem., 1953 SPECIES
-=======
+# Mortierella echinula Linnem., 1953 SPECIES
 
 #### Status
 ACCEPTED

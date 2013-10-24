@@ -1,5 +1,4 @@
-Uredinella Couch GENUS
-=======
+# Uredinella Couch GENUS
 
 #### Status
 ACCEPTED

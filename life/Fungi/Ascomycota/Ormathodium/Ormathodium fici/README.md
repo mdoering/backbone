@@ -1,5 +1,4 @@
-Ormathodium fici Tims & Olive SPECIES
-=======
+# Ormathodium fici Tims & Olive SPECIES
 
 #### Status
 ACCEPTED

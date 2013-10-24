@@ -1,5 +1,4 @@
-Trabutia erythrinae Rick SPECIES
-=======
+# Trabutia erythrinae Rick SPECIES
 
 #### Status
 ACCEPTED

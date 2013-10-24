@@ -1,5 +1,4 @@
-Tremella cetrariicola Diederich & Coppins, 1996 SPECIES
-=======
+# Tremella cetrariicola Diederich & Coppins, 1996 SPECIES
 
 #### Status
 ACCEPTED

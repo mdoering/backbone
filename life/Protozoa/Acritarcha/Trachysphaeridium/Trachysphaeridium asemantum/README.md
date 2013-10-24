@@ -1,5 +1,4 @@
-Trachysphaeridium asemantum (Chibrikova, 1972) Medvedeva, 1978 SPECIES
-=======
+# Trachysphaeridium asemantum (Chibrikova, 1972) Medvedeva, 1978 SPECIES
 
 #### Status
 ACCEPTED

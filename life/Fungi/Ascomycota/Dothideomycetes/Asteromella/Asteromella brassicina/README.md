@@ -1,5 +1,4 @@
-Asteromella brassicina (Sacc.) H. Ruppr. SPECIES
-=======
+# Asteromella brassicina (Sacc.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

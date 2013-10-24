@@ -1,5 +1,4 @@
-Epicymatia verrucariaeformis Fuckel SPECIES
-=======
+# Epicymatia verrucariaeformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea populicola Samp. SPECIES
-=======
+# Lecidea populicola Samp. SPECIES
 
 #### Status
 ACCEPTED

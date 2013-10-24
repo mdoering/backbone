@@ -1,5 +1,4 @@
-Asteroma reticulata Fr. SPECIES
-=======
+# Asteroma reticulata Fr. SPECIES
 
 #### Status
 ACCEPTED

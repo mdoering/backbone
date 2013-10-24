@@ -1,5 +1,4 @@
-Leptosphaeria wegeliniana f. wegeliniana FORM
-=======
+# Leptosphaeria wegeliniana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Saccardo, Syll. fung. (Abellini) 14: 567 (1899)
 
 #### Original name
-Leptosphaeria wegeliniana f. wegeliniana
+Leptosphaeria wegeliniana Sacc. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascophora cordana Bonord. SPECIES
-=======
+# Ascophora cordana Bonord. SPECIES
 
 #### Status
 ACCEPTED

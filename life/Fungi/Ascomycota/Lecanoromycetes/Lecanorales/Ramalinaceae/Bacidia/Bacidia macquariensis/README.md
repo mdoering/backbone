@@ -1,5 +1,4 @@
-Bacidia macquariensis C.W. Dodge SPECIES
-=======
+# Bacidia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus chirotheca Scop. SPECIES
-=======
+# Fungus chirotheca Scop. SPECIES
 
 #### Status
 ACCEPTED

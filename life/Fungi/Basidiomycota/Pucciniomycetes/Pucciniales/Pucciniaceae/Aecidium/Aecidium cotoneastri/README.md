@@ -1,8 +1,7 @@
-Aecidium cotoneastris Körn. SPECIES
-=======
+# Aecidium cotoneastri Körn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium cotoneastris Körn.
+Aecidium cotoneastri Körn.
 
 ### Remarks
 null

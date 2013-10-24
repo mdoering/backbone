@@ -1,5 +1,4 @@
-Pratella setigera (Fr.) Gillet SPECIES
-=======
+# Pratella setigera (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schaereria bullata Kantvilas SPECIES
-=======
+# Schaereria bullata Kantvilas SPECIES
 
 #### Status
 ACCEPTED

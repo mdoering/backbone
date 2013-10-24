@@ -1,5 +1,4 @@
-Opegrapha interveniens Müll. Arg. SPECIES
-=======
+# Opegrapha interveniens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

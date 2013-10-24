@@ -1,5 +1,4 @@
-Valsa conscripta Cooke & Ellis SPECIES
-=======
+# Valsa conscripta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

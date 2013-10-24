@@ -1,5 +1,4 @@
-Cordyceps dipterigena Berk. & Broome SPECIES
-=======
+# Cordyceps dipterigena Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

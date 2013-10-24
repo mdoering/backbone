@@ -1,5 +1,4 @@
-Clisosporium colliculosum (Fr.) Kuntze SPECIES
-=======
+# Clisosporium colliculosum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

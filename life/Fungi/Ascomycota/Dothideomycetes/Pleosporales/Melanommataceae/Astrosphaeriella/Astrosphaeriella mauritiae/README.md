@@ -1,5 +1,4 @@
-Astrosphaeriella mauritiae K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella mauritiae K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

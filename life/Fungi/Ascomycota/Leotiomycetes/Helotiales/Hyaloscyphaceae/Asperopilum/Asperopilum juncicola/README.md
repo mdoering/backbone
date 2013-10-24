@@ -1,14 +1,13 @@
-Asperopilum juncicolum (Dennis) Spooner SPECIES
-=======
+# Asperopilum juncicola (Dennis) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 392 (1987)
 
 #### Original name
 Pseudohelotium juncicola Dennis, 1961

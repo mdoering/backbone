@@ -1,5 +1,4 @@
-Elfvingia lionnetii (Rolland) Murrill SPECIES
-=======
+# Elfvingia lionnetii (Rolland) Murrill SPECIES
 
 #### Status
 ACCEPTED

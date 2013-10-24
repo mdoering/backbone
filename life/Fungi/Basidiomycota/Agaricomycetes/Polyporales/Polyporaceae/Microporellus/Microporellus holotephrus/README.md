@@ -1,5 +1,4 @@
-Microporellus holotephrus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Microporellus holotephrus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

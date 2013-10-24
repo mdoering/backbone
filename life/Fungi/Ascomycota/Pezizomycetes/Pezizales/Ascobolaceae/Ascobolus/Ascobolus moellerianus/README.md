@@ -1,5 +1,4 @@
-Ascobolus moellerianus Henn. SPECIES
-=======
+# Ascobolus moellerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

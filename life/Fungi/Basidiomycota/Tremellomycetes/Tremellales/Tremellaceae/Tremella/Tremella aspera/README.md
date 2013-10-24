@@ -1,5 +1,4 @@
-Tremella aspera Coker SPECIES
-=======
+# Tremella aspera Coker SPECIES
 
 #### Status
 ACCEPTED

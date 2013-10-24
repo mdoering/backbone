@@ -1,5 +1,4 @@
-Cylindrosporium ferulinum Tartenova SPECIES
-=======
+# Cylindrosporium ferulinum Tartenova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella ellisiana (Rehm) Seaver SPECIES
-=======
+# Lachnella ellisiana (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

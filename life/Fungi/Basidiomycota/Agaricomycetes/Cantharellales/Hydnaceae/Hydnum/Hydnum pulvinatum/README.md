@@ -1,5 +1,4 @@
-Hydnum pulvinatum Schultz SPECIES
-=======
+# Hydnum pulvinatum Schultz SPECIES
 
 #### Status
 ACCEPTED

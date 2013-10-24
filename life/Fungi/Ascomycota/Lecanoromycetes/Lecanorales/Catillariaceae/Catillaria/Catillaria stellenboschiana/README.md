@@ -1,5 +1,4 @@
-Catillaria stellenboschiana Vain. SPECIES
-=======
+# Catillaria stellenboschiana Vain. SPECIES
 
 #### Status
 ACCEPTED

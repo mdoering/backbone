@@ -1,5 +1,4 @@
-Allothyriopsis landolphiae Bat., Cif. & H. Maia, 1959 SPECIES
-=======
+# Allothyriopsis landolphiae Bat., Cif. & H. Maia, 1959 SPECIES
 
 #### Status
 ACCEPTED

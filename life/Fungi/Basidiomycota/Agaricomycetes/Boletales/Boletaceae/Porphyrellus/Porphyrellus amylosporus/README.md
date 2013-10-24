@@ -1,5 +1,4 @@
-Porphyrellus amylosporus A.H. Sm. SPECIES
-=======
+# Porphyrellus amylosporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

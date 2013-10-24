@@ -1,5 +1,4 @@
-Arthonia aspera C. Knight SPECIES
-=======
+# Arthonia aspera C. Knight SPECIES
 
 #### Status
 ACCEPTED

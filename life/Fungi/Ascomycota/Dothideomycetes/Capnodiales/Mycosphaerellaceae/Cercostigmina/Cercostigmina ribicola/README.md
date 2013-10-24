@@ -1,5 +1,4 @@
-Cercostigmina ribicola (Ellis & Everh.) U. Braun SPECIES
-=======
+# Cercostigmina ribicola (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

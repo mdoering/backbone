@@ -1,5 +1,4 @@
-Coniochaeta multispora Cain SPECIES
-=======
+# Coniochaeta multispora Cain SPECIES
 
 #### Status
 ACCEPTED

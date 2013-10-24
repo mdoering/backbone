@@ -1,5 +1,4 @@
-Chroogomphus asiaticus O.K. Mill. & Aime, 2001 SPECIES
-=======
+# Chroogomphus asiaticus O.K. Mill. & Aime, 2001 SPECIES
 
 #### Status
 ACCEPTED

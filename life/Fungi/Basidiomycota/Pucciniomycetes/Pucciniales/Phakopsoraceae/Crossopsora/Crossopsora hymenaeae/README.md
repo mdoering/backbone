@@ -1,5 +1,4 @@
-Crossopsora hymenaeae Dianese, Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Crossopsora hymenaeae Dianese, Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
 ACCEPTED

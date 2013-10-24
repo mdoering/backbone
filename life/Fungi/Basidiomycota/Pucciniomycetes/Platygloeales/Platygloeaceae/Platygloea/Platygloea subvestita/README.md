@@ -1,5 +1,4 @@
-Platygloea subvestita L.S. Olive SPECIES
-=======
+# Platygloea subvestita L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

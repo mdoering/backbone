@@ -1,5 +1,4 @@
-Tuberculina pirottae (Speg.) Sacc. SPECIES
-=======
+# Tuberculina pirottae (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

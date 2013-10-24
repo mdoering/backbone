@@ -1,5 +1,4 @@
-Rhodophyllus testaceoflavus (Murrill) Singer SPECIES
-=======
+# Rhodophyllus testaceoflavus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

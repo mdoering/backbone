@@ -1,5 +1,4 @@
-Pleospora convallariae Cocc. & Morini SPECIES
-=======
+# Pleospora convallariae Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED

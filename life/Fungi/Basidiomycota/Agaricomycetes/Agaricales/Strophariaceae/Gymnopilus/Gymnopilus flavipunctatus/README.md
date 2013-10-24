@@ -1,5 +1,4 @@
-Gymnopilus flavipunctatus (Speg.) Singer SPECIES
-=======
+# Gymnopilus flavipunctatus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

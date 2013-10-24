@@ -1,5 +1,4 @@
-Hendersonia galii Naumov SPECIES
-=======
+# Hendersonia galii Naumov SPECIES
 
 #### Status
 ACCEPTED

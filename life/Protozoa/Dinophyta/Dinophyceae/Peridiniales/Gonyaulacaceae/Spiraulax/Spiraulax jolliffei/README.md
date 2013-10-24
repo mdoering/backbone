@@ -1,11 +1,10 @@
-Spiraulax jollifei (Murray & Whitting) Kofoid SPECIES
-=======
+# Spiraulax jolliffei (Murray & Whitting) Kofoid, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

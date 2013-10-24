@@ -1,5 +1,4 @@
-Llimoniella ramalinae (Müll. Arg.) Etayo & Diederich SPECIES
-=======
+# Llimoniella ramalinae (Müll. Arg.) Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

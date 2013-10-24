@@ -1,5 +1,4 @@
-Lomachashaka cynodontis Nag Raj, 1995 SPECIES
-=======
+# Lomachashaka cynodontis Nag Raj, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia poikilospora Cummins SPECIES
-=======
+# Puccinia poikilospora Cummins SPECIES
 
 #### Status
 ACCEPTED

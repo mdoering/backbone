@@ -1,5 +1,4 @@
-Sydowia vestita (Rehm) Petr. SPECIES
-=======
+# Sydowia vestita (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bubakia brideliae (Koord.) Dietel SPECIES
-=======
+# Bubakia brideliae (Koord.) Dietel SPECIES
 
 #### Status
 ACCEPTED

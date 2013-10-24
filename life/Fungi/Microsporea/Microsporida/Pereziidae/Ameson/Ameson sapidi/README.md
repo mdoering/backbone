@@ -1,5 +1,4 @@
-Ameson sapidi de Turk SPECIES
-=======
+# Ameson sapidi de Turk SPECIES
 
 #### Status
 ACCEPTED

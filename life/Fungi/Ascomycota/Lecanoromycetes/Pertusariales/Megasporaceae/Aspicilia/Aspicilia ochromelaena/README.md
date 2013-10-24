@@ -1,5 +1,4 @@
-Aspicilia ochromelaena (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia ochromelaena (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces pluricolor Krassiln. SPECIES
-=======
+# Actinomyces pluricolor Krassiln. SPECIES
 
 #### Status
 ACCEPTED

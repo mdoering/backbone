@@ -1,5 +1,4 @@
-Aspicilia subdissentiens (Nyl.) Hue SPECIES
-=======
+# Aspicilia subdissentiens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus mollis Kütz. SPECIES
-=======
+# Cryptococcus mollis Kütz. SPECIES
 
 #### Status
 ACCEPTED

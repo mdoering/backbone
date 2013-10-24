@@ -1,5 +1,4 @@
-Sporidesmium acutisporum M.B. Ellis SPECIES
-=======
+# Sporidesmium acutisporum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

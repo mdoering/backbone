@@ -1,5 +1,4 @@
-Colletotrichum corynocarpi Sousa da Câmara SPECIES
-=======
+# Colletotrichum corynocarpi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

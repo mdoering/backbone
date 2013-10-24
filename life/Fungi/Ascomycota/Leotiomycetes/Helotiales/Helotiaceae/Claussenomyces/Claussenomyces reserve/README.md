@@ -1,5 +1,4 @@
-Claussenomyces reserve SPECIES
-=======
+# Claussenomyces reserve SPECIES
 
 #### Status
 ACCEPTED

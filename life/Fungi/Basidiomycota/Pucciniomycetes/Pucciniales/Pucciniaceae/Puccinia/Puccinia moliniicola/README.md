@@ -1,5 +1,4 @@
-Puccinia moliniicola Cummins SPECIES
-=======
+# Puccinia moliniicola Cummins SPECIES
 
 #### Status
 ACCEPTED

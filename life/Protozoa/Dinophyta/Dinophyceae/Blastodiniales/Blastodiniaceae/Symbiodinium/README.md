@@ -1,5 +1,4 @@
-Symbiodinium Freudenthal, 1962 GENUS
-=======
+# Symbiodinium Freudenthal, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysolykos plantonicus Mack SPECIES
-=======
+# Chrysolykos plantonicus Mack SPECIES
 
 #### Status
 ACCEPTED

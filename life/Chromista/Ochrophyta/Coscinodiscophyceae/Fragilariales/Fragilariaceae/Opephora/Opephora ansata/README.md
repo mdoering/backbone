@@ -1,5 +1,4 @@
-Opephora ansata M. H. Hohn & J. Hellerman SPECIES
-=======
+# Opephora ansata M. H. Hohn & J. Hellerman SPECIES
 
 #### Status
 ACCEPTED

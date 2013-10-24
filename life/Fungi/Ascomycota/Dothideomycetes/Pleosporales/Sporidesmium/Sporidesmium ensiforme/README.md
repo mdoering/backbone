@@ -1,5 +1,4 @@
-Sporidesmium ensiforme Descals, 1982 SPECIES
-=======
+# Sporidesmium ensiforme Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

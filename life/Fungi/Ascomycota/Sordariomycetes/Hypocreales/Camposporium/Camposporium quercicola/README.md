@@ -1,5 +1,4 @@
-Camposporium quercicola Mercado, Heredia & J. Mena SPECIES
-=======
+# Camposporium quercicola Mercado, Heredia & J. Mena SPECIES
 
 #### Status
 ACCEPTED

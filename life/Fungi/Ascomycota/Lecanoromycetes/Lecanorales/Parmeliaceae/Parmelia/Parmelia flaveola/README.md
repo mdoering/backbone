@@ -1,5 +1,4 @@
-Parmelia flaveola Hillmann SPECIES
-=======
+# Parmelia flaveola Hillmann SPECIES
 
 #### Status
 ACCEPTED

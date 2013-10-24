@@ -1,5 +1,4 @@
-Puccinia pumilae-coronatae H.K.G. Paul SPECIES
-=======
+# Puccinia pumilae-coronatae H.K.G. Paul SPECIES
 
 #### Status
 ACCEPTED

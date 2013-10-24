@@ -1,5 +1,4 @@
-Stenella gahniae McKenzie, 1982 SPECIES
-=======
+# Stenella gahniae McKenzie, 1982 SPECIES
 
 #### Status
 ACCEPTED

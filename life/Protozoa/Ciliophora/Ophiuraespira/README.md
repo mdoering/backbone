@@ -1,5 +1,4 @@
-Ophiuraespira GENUS
-=======
+# Ophiuraespira GENUS
 
 #### Status
 ACCEPTED

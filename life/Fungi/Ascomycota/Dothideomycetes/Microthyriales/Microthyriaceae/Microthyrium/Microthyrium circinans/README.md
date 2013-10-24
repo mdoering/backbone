@@ -1,5 +1,4 @@
-Microthyrium circinans Speg. SPECIES
-=======
+# Microthyrium circinans Speg. SPECIES
 
 #### Status
 ACCEPTED

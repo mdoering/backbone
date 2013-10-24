@@ -1,5 +1,4 @@
-Spatoglossum chapmanii Lindauer SPECIES
-=======
+# Spatoglossum chapmanii Lindauer SPECIES
 
 #### Status
 ACCEPTED

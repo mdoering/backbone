@@ -1,5 +1,4 @@
-Diplodina plumbaginicola (Henn.) Died. SPECIES
-=======
+# Diplodina plumbaginicola (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

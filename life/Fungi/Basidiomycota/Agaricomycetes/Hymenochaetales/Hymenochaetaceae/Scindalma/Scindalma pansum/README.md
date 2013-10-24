@@ -1,5 +1,4 @@
-Scindalma pansum (Berk.) Kuntze SPECIES
-=======
+# Scindalma pansum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

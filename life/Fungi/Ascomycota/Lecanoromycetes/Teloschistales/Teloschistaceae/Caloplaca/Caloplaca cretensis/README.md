@@ -1,5 +1,4 @@
-Caloplaca cretensis (Zahlbr.) Wunder SPECIES
-=======
+# Caloplaca cretensis (Zahlbr.) Wunder SPECIES
 
 #### Status
 ACCEPTED

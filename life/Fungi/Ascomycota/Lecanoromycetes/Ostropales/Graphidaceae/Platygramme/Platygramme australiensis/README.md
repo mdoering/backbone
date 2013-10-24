@@ -1,5 +1,4 @@
-Platygramme australiensis Staiger & Matthes-Leicht SPECIES
-=======
+# Platygramme australiensis Staiger & Matthes-Leicht SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphomicrobium sulfonivorans Borodina et al., 2002 SPECIES
-=======
+# Hyphomicrobium sulfonivorans Borodina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

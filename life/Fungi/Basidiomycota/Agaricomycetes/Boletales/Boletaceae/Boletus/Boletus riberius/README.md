@@ -1,5 +1,4 @@
-Boletus riberius Schumach. SPECIES
-=======
+# Boletus riberius Schumach. SPECIES
 
 #### Status
 ACCEPTED

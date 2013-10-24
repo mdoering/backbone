@@ -1,5 +1,4 @@
-Tuber australe Speg. SPECIES
-=======
+# Tuber australe Speg. SPECIES
 
 #### Status
 ACCEPTED

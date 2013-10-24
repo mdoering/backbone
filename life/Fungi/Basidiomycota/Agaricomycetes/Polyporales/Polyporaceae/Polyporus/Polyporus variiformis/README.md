@@ -1,17 +1,16 @@
-Polyporus variiformis var. variiformis VARIETY
-=======
+# Polyporus variiformis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 42: 122 (1889)
+null
 
 #### Original name
-Polyporus variiformis var. variiformis
+null
 
 ### Remarks
 null

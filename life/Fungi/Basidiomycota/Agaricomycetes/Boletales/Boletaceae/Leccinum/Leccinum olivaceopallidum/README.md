@@ -1,5 +1,4 @@
-Leccinum olivaceopallidum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum olivaceopallidum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

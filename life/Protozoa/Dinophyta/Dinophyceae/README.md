@@ -1,5 +1,4 @@
-Dinophyceae CLASS
-=======
+# Dinophyceae CLASS
 
 #### Status
 ACCEPTED

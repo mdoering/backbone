@@ -1,5 +1,4 @@
-Leptosphaeria isocellula Panwar & S.J. Kaur SPECIES
-=======
+# Leptosphaeria isocellula Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

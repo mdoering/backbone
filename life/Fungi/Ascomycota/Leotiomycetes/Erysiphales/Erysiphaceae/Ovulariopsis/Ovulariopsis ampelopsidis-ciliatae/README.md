@@ -1,5 +1,4 @@
-Ovulariopsis ampelopsidis-ciliatae Sawada SPECIES
-=======
+# Ovulariopsis ampelopsidis-ciliatae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium endococcineum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium endococcineum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Capnodium jasminae D.K. Kulk. & U.K. Kulk. SPECIES
-=======
+# Capnodium jasmini D.K. Kulk. & U.K. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 4(1): 4 (1978)
 
 #### Original name
-Capnodium jasminae D.K. Kulk. & U.K. Kulk.
+Capnodium jasmini D.K. Kulk. & U.K. Kulk.
 
 ### Remarks
 null

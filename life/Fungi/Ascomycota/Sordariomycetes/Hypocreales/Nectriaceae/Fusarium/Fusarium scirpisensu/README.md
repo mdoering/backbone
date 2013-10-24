@@ -1,5 +1,4 @@
-Fusarium scirpisensu Maubl. SPECIES
-=======
+# Fusarium scirpisensu Maubl. SPECIES
 
 #### Status
 ACCEPTED

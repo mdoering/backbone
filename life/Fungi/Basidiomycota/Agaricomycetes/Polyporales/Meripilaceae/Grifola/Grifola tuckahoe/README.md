@@ -1,5 +1,4 @@
-Grifola tuckahoe Güssow SPECIES
-=======
+# Grifola tuckahoe Güssow SPECIES
 
 #### Status
 ACCEPTED

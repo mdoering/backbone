@@ -1,5 +1,4 @@
-Polyporus hypoxanthus Bres. SPECIES
-=======
+# Polyporus hypoxanthus Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia glandicola (K.S. Thind & H. Singh) Dumont SPECIES
-=======
+# Lanzia glandicola (K.S. Thind & H. Singh) Dumont SPECIES
 
 #### Status
 ACCEPTED

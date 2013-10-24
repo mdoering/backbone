@@ -1,5 +1,4 @@
-Amphisolenia brevicauda var. brevicauda VARIETY
-=======
+# Amphisolenia brevicauda Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

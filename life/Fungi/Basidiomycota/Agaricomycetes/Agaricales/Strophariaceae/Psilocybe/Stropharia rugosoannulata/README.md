@@ -1,17 +1,16 @@
-Naematoloma rugosoannulatum f. rugosoannulatum FORM
-=======
+# Stropharia rugosoannulata Farl. ex Murrill, 1922 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 14(3): 139 (1922)
 
 #### Original name
-null
+Stropharia rugosoannulata Farl. ex Murrill, 1922
 
 ### Remarks
 null

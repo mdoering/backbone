@@ -1,5 +1,4 @@
-Baflavia flavescens (Lücking) Lücking SPECIES
-=======
+# Baflavia flavescens (Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Karschia lignyota (Fr.) Sacc., 1889 SPECIES
-=======
+# Rhizodiscina lignyota (Fr.) Hafellner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 779 (1889)
+Beih. Nova Hedwigia 62: 195 (1979)
 
 #### Original name
-Patellaria lignyota (Fr.) Fr., 1849
+null
 
 ### Remarks
 null

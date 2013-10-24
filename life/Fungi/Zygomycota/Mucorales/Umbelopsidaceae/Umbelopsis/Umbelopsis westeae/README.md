@@ -1,5 +1,4 @@
-Umbelopsis westeae H.Y. Yip, 1986 SPECIES
-=======
+# Umbelopsis westeae H.Y. Yip, 1986 SPECIES
 
 #### Status
 ACCEPTED

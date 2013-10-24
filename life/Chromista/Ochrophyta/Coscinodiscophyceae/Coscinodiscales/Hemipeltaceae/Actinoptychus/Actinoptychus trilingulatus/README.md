@@ -1,5 +1,4 @@
-Actinoptychus trilingulatus (Brightw.) Ralfs SPECIES
-=======
+# Actinoptychus trilingulatus (Brightw.) Ralfs SPECIES
 
 #### Status
 ACCEPTED

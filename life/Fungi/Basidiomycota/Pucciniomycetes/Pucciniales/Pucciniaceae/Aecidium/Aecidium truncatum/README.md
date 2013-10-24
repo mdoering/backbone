@@ -1,5 +1,4 @@
-Aecidium truncatum Kalchbr. SPECIES
-=======
+# Aecidium truncatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

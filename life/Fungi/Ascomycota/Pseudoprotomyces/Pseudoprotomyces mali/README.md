@@ -1,5 +1,4 @@
-Pseudoprotomyces mali Sacc. & Roum. SPECIES
-=======
+# Pseudoprotomyces mali Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

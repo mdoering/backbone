@@ -1,5 +1,4 @@
-Cortinarius percyaneus Rob. Henry SPECIES
-=======
+# Cortinarius percyaneus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

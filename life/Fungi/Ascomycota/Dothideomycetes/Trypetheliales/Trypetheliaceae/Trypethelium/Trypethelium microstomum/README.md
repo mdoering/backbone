@@ -1,5 +1,4 @@
-Trypethelium microstomum Makhija & Patw. SPECIES
-=======
+# Trypethelium microstomum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pedrotti Bres. SPECIES
-=======
+# Peziza pedrotti Bres. SPECIES
 
 #### Status
 ACCEPTED

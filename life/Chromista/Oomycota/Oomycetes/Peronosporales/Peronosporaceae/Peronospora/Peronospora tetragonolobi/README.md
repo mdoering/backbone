@@ -1,5 +1,4 @@
-Peronospora tetragonolobi Gäum. SPECIES
-=======
+# Peronospora tetragonolobi Gäum. SPECIES
 
 #### Status
 ACCEPTED

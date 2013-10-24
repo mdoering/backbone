@@ -1,5 +1,4 @@
-Pullularia bergeri (Langeron) Seeliger, Silva Lacaz & Ulson SPECIES
-=======
+# Pullularia bergeri (Langeron) Seeliger, Silva Lacaz & Ulson SPECIES
 
 #### Status
 ACCEPTED

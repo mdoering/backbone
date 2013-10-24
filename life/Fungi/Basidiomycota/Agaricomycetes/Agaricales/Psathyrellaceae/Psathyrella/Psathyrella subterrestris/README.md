@@ -1,5 +1,4 @@
-Psathyrella subterrestris A.H. Sm. SPECIES
-=======
+# Psathyrella subterrestris A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

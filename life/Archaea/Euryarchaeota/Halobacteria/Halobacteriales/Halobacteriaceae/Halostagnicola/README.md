@@ -1,5 +1,4 @@
-Halostagnicola Castillo et al., 2006 GENUS
-=======
+# Halostagnicola Castillo et al., 2006 GENUS
 
 #### Status
 ACCEPTED

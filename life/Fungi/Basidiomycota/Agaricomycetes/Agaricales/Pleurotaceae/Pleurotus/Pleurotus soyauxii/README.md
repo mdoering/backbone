@@ -1,5 +1,4 @@
-Pleurotus soyauxii Henn. SPECIES
-=======
+# Pleurotus soyauxii Henn. SPECIES
 
 #### Status
 ACCEPTED

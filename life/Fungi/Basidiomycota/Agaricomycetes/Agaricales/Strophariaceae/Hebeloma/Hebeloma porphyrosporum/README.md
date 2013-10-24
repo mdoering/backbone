@@ -1,5 +1,4 @@
-Hebeloma porphyrosporum Maire SPECIES
-=======
+# Hebeloma porphyrosporum Maire SPECIES
 
 #### Status
 ACCEPTED

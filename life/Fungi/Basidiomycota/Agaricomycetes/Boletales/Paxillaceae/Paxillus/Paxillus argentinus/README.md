@@ -1,5 +1,4 @@
-Paxillus argentinus Speg. SPECIES
-=======
+# Paxillus argentinus Speg. SPECIES
 
 #### Status
 ACCEPTED

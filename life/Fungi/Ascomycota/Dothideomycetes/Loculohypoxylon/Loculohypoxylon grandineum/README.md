@@ -1,14 +1,13 @@
-Hypoxylon grandineum (Berk. & Ravenel) J.H. Mill. SPECIES
-=======
+# Loculohypoxylon grandineum (Berk. & Ravenel) M.E. Barr, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 33(1): 74 (1941)
+Mycotaxon 3(3): 326 (1976)
 
 #### Original name
 Diatrype grandinea Berk. & Ravenel, 1876

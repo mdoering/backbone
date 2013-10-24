@@ -1,5 +1,4 @@
-Asterina inquinans Ellis & Everh. SPECIES
-=======
+# Asterina inquinans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

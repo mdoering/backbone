@@ -1,5 +1,4 @@
-Phyllachora scapincola (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora scapincola (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Arthonia subdiffusa var. australis Zahlbr. VARIETY
-=======
+# Arthonia subdiffusa Willey SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Meddn Göteb. Bot. Trädgord 2: 2 (1925)
+null
 
 #### Original name
-Arthonia subdiffusa var. australis Zahlbr.
+Arthonia subdiffusa Willey
 
 ### Remarks
 null

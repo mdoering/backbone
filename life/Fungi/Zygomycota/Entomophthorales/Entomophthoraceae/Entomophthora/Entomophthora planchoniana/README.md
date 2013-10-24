@@ -1,14 +1,13 @@
-Empusa planchoniana (Cornu) Thaxt., 1888 SPECIES
-=======
+# Entomophthora planchoniana Cornu, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 189 (1873)
 
 #### Original name
 Entomophthora planchoniana Cornu, 1873

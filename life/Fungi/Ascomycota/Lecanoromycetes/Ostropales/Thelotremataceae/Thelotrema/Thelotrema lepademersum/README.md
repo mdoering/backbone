@@ -1,5 +1,4 @@
-Thelotrema lepademersum Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema lepademersum Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophorella praetermissoides Hallenb. & H. Nilsson SPECIES
-=======
+# Peniophorella praetermissoides Hallenb. & H. Nilsson SPECIES
 
 #### Status
 ACCEPTED

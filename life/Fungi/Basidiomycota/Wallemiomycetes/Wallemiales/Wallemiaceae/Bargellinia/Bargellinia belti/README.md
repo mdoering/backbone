@@ -1,5 +1,4 @@
-Bargellinia belti Speg. SPECIES
-=======
+# Bargellinia belti Speg. SPECIES
 
 #### Status
 ACCEPTED

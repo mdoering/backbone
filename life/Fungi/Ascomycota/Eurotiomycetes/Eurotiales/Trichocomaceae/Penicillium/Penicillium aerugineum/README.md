@@ -1,5 +1,4 @@
-Penicillium aerugineum Sopp SPECIES
-=======
+# Penicillium aerugineum Sopp SPECIES
 
 #### Status
 ACCEPTED

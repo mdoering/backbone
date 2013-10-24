@@ -1,5 +1,4 @@
-Cyathicula confinis (P. Karst.) Dennis SPECIES
-=======
+# Cyathicula confinis (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

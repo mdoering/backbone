@@ -1,5 +1,4 @@
-Tubeufia aciculospora Katum. & Y. Harada, 1979 SPECIES
-=======
+# Tubeufia aciculospora Katum. & Y. Harada, 1979 SPECIES
 
 #### Status
 ACCEPTED

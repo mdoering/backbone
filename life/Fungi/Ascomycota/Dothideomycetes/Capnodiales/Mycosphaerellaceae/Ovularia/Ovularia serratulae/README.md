@@ -1,5 +1,4 @@
-Ovularia serratulae Sacc. SPECIES
-=======
+# Ovularia serratulae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxymonas Janicki, 1915 GENUS
-=======
+# Oxymonas Janicki, 1915 GENUS
 
 #### Status
 ACCEPTED

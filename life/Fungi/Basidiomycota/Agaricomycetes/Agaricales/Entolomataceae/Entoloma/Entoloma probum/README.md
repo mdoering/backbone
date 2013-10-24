@@ -1,5 +1,4 @@
-Entoloma probum E. Horak SPECIES
-=======
+# Entoloma probum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tauridastrum Tekin, 1999 GENUS
-=======
+# Tauridastrum Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

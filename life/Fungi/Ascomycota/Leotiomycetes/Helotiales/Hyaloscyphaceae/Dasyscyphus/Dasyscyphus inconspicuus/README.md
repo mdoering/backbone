@@ -1,8 +1,7 @@
-Dasyscypha inconspicuus Henn. SPECIES
-=======
+# Dasyscyphus inconspicuus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha inconspicuus Henn.
+Dasyscyphus inconspicuus Henn.
 
 ### Remarks
 null

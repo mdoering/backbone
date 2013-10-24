@@ -1,5 +1,4 @@
-Buellia endochrysea Vain. SPECIES
-=======
+# Buellia endochrysea Vain. SPECIES
 
 #### Status
 ACCEPTED

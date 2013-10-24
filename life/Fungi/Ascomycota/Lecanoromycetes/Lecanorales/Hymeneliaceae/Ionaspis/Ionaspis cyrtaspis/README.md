@@ -1,5 +1,4 @@
-Ionaspis cyrtaspis (Wahlenb.) Arnold SPECIES
-=======
+# Ionaspis cyrtaspis (Wahlenb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

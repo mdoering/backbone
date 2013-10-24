@@ -1,5 +1,4 @@
-Favolaschia bispora Holterm. SPECIES
-=======
+# Favolaschia bispora Holterm. SPECIES
 
 #### Status
 ACCEPTED

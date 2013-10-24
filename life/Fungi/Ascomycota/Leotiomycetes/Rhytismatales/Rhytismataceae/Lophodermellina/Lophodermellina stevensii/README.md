@@ -1,5 +1,4 @@
-Lophodermellina stevensii Tehon SPECIES
-=======
+# Lophodermellina stevensii Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halomonas neptunia Kaye et al., 2004 SPECIES
-=======
+# Halomonas neptunia Kaye et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina compacta (Collins, 1974) SPECIES
-=======
+# Uvigerina compacta (Collins, 1974) SPECIES
 
 #### Status
 ACCEPTED

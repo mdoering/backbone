@@ -1,5 +1,4 @@
-Mycosphaerella hosackiae (Cooke & Harkn.) Bonar SPECIES
-=======
+# Mycosphaerella hosackiae (Cooke & Harkn.) Bonar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triactoma GENUS
-=======
+# Triactoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pontosphaera latoculata (Bukry & Percival, 1971) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera latoculata (Bukry & Percival, 1971) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

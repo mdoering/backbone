@@ -1,5 +1,4 @@
-Leptogium kalbii Marcelli & I. P. R. Cunha SPECIES
-=======
+# Leptogium kalbii Marcelli & I. P. R. Cunha SPECIES
 
 #### Status
 ACCEPTED

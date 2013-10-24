@@ -1,5 +1,4 @@
-Exidia spiculata Schwein. SPECIES
-=======
+# Exidia spiculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

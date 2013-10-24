@@ -1,5 +1,4 @@
-Percivalia D. Bukry, 1969 GENUS
-=======
+# Percivalia D. Bukry, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cordobensis Henn. SPECIES
-=======
+# Puccinia cordobensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina careyae Thaung SPECIES
-=======
+# Stigmina careyae Thaung SPECIES
 
 #### Status
 ACCEPTED

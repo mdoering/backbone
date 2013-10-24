@@ -1,5 +1,4 @@
-Alternaria ornatissima (Ellis & Barthol.) P. Joly SPECIES
-=======
+# Alternaria ornatissima (Ellis & Barthol.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

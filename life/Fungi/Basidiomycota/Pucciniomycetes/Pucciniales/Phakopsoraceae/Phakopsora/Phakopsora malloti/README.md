@@ -1,5 +1,4 @@
-Phakopsora malloti Cummins SPECIES
-=======
+# Phakopsora malloti Cummins SPECIES
 
 #### Status
 ACCEPTED

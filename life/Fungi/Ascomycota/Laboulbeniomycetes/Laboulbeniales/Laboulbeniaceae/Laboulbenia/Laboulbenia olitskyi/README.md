@@ -1,5 +1,4 @@
-Laboulbenia olitskyi S.W.T. Batra SPECIES
-=======
+# Laboulbenia olitskyi S.W.T. Batra SPECIES
 
 #### Status
 ACCEPTED

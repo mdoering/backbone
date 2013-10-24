@@ -1,5 +1,4 @@
-Opegrapha phaeophysciae R. Sant., Diederich, Ertz & Christnach SPECIES
-=======
+# Opegrapha phaeophysciae R. Sant., Diederich, Ertz & Christnach SPECIES
 
 #### Status
 ACCEPTED

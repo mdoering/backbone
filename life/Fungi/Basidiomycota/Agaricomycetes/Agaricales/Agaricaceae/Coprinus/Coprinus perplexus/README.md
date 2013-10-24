@@ -1,5 +1,4 @@
-Coprinus perplexus Bogart SPECIES
-=======
+# Coprinus perplexus Bogart SPECIES
 
 #### Status
 ACCEPTED

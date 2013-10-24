@@ -1,5 +1,4 @@
-Uniporata rara N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
-=======
+# Uniporata rara N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
 
 #### Status
 ACCEPTED

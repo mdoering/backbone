@@ -1,5 +1,4 @@
-Micropeltis sirie Racib. SPECIES
-=======
+# Micropeltis sirie Racib. SPECIES
 
 #### Status
 ACCEPTED

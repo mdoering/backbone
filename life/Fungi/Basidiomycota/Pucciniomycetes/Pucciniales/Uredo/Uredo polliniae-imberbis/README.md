@@ -1,5 +1,4 @@
-Uredo polliniae-imberbis S. Ito SPECIES
-=======
+# Uredo polliniae-imberbis S. Ito SPECIES
 
 #### Status
 ACCEPTED

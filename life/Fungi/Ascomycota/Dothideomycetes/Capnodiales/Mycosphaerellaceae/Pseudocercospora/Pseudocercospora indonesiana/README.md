@@ -1,5 +1,4 @@
-Pseudocercospora indonesiana Arzanlou & Crous SPECIES
-=======
+# Pseudocercospora indonesiana Arzanlou & Crous SPECIES
 
 #### Status
 ACCEPTED

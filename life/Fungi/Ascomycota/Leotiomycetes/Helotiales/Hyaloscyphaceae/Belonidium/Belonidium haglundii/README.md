@@ -1,8 +1,7 @@
-Belonidium haglundi Starbäck SPECIES
-=======
+# Belonidium haglundii Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Belonidium haglundi Starbäck
+Belonidium haglundii Starbäck
 
 ### Remarks
 null

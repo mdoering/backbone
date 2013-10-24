@@ -1,5 +1,4 @@
-Eballistra R. Bauer, Begerow, A. Nagler & Oberw. GENUS
-=======
+# Eballistra R. Bauer, Begerow, A. Nagler & Oberw. GENUS
 
 #### Status
 ACCEPTED

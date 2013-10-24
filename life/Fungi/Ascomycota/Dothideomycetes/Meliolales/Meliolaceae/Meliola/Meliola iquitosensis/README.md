@@ -1,5 +1,4 @@
-Meliola iquitosensis Henn. SPECIES
-=======
+# Meliola iquitosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

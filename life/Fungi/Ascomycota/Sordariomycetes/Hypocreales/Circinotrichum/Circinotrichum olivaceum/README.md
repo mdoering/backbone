@@ -1,14 +1,13 @@
-Helicotrichum olivaceum Speg., 1889 SPECIES
-=======
+# Circinotrichum olivaceum (Speg.) Piroz., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 613 (1889)
+Mycol. Pap. 84: 6 (1962)
 
 #### Original name
 Helicotrichum olivaceum Speg., 1889

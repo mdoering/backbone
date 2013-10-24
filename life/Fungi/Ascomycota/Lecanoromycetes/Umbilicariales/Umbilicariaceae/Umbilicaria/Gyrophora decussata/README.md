@@ -1,11 +1,10 @@
-Gyrophora decussata var. decussata VARIETY
-=======
+# Gyrophora decussata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

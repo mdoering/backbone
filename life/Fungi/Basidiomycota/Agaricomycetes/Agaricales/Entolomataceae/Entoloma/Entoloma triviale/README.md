@@ -1,14 +1,13 @@
-Entoloma trivialis (Kauffman) Largent SPECIES
-=======
+# Entoloma triviale (Kauffman) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brittonia 23(3): 243 (1971)
 
 #### Original name
 Leptonia trivialis Kauffman

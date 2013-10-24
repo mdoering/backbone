@@ -1,5 +1,4 @@
-Boletus igniarius var. igniarius VARIETY
-=======
+# Boletus igniarius Lour. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sp. pl. 2: 1176 (1753)
+Flora Cochinchinensis 693 (1790)
 
 #### Original name
-Boletus igniarius var. igniarius
+Boletus igniarius Lour.
 
 ### Remarks
 null

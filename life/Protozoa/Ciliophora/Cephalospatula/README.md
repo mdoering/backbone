@@ -1,5 +1,4 @@
-Cephalospatula Foissner, 2003 GENUS
-=======
+# Cephalospatula Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

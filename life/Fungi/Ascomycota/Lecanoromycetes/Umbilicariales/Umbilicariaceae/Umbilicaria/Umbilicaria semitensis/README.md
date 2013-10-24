@@ -1,5 +1,4 @@
-Umbilicaria semitensis Tuck. SPECIES
-=======
+# Umbilicaria semitensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

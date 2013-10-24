@@ -1,5 +1,4 @@
-Sphaerella fuchsiicola Speg. SPECIES
-=======
+# Sphaerella fuchsiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

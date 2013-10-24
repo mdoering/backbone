@@ -1,5 +1,4 @@
-Aleurodiscus parvisporus Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus parvisporus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

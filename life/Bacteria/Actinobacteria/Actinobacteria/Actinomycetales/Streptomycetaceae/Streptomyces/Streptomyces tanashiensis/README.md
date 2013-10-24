@@ -1,5 +1,4 @@
-Streptomyces tanashiensis Hata et al., 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces tanashiensis Hata et al., 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

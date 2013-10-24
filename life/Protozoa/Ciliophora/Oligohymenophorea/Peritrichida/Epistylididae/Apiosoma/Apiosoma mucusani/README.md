@@ -1,5 +1,4 @@
-Apiosoma mucusani SPECIES
-=======
+# Apiosoma mucusani SPECIES
 
 #### Status
 ACCEPTED

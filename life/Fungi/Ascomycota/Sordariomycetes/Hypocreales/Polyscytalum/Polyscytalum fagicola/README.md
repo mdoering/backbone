@@ -1,5 +1,4 @@
-Polyscytalum fagicola P.M. Kirk, 1981 SPECIES
-=======
+# Polyscytalum fagicola P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

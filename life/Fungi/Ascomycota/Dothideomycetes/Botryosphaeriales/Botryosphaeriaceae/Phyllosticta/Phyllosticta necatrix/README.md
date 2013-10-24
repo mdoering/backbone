@@ -1,5 +1,4 @@
-Phyllosticta necatrix (Thüm.) I. Miyake SPECIES
-=======
+# Phyllosticta necatrix (Thüm.) I. Miyake SPECIES
 
 #### Status
 ACCEPTED

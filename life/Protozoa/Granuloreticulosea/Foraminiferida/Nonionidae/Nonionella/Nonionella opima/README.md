@@ -1,5 +1,4 @@
-Nonionella opima Cushman, 1947 SPECIES
-=======
+# Nonionella opima Cushman, 1947 SPECIES
 
 #### Status
 ACCEPTED

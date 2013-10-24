@@ -1,5 +1,4 @@
-Stagonospora ischaemi (Sacc.) Sacc. SPECIES
-=======
+# Stagonospora ischaemi (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

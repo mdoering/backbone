@@ -1,8 +1,7 @@
-Oscillatoria minnesotensis Tilden SPECIES
-=======
+# Phormidium minnesotense (Tilden) Drouet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

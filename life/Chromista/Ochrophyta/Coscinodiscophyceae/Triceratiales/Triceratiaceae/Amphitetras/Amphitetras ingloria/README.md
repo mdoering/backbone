@@ -1,5 +1,4 @@
-Amphitetras ingloria (Greville) De Toni SPECIES
-=======
+# Amphitetras ingloria (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

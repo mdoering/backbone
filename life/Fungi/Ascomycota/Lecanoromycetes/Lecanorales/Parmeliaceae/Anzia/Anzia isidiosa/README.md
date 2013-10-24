@@ -1,5 +1,4 @@
-Anzia isidiosa Yoshim. SPECIES
-=======
+# Anzia isidiosa Yoshim. SPECIES
 
 #### Status
 ACCEPTED

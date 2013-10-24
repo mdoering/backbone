@@ -1,5 +1,4 @@
-Lobaria cinereoglauca Kuntze SPECIES
-=======
+# Lobaria cinereoglauca Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelatinosporium abietinum Peck SPECIES
-=======
+# Gelatinosporium abietinum Peck SPECIES
 
 #### Status
 ACCEPTED

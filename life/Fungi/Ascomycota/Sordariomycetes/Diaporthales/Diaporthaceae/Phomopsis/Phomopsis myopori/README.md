@@ -1,5 +1,4 @@
-Phomopsis myopori (Henn.) Died. SPECIES
-=======
+# Phomopsis myopori (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

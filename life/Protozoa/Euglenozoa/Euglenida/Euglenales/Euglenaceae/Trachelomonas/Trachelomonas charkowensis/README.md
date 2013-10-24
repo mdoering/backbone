@@ -1,5 +1,4 @@
-Trachelomonas charkowensis SPECIES
-=======
+# Trachelomonas charkowensis SPECIES
 
 #### Status
 ACCEPTED

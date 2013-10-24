@@ -1,5 +1,4 @@
-Monotospora daleae E.W. Mason SPECIES
-=======
+# Monotospora daleae E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

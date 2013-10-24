@@ -1,5 +1,4 @@
-Phoma bacilliformis Wehm. SPECIES
-=======
+# Phoma bacilliformis Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarrameana paradoxa Vezda & P. James SPECIES
-=======
+# Sarrameana paradoxa Vezda & P. James SPECIES
 
 #### Status
 ACCEPTED

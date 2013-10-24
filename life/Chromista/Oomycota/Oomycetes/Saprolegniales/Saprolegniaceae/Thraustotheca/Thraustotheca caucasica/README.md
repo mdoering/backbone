@@ -1,5 +1,4 @@
-Thraustotheca caucasica Woronow, 1922 SPECIES
-=======
+# Thraustotheca caucasica Woronow, 1922 SPECIES
 
 #### Status
 ACCEPTED

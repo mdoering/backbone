@@ -1,5 +1,4 @@
-Graphis bicolor Fée SPECIES
-=======
+# Graphis bicolor Fée SPECIES
 
 #### Status
 ACCEPTED

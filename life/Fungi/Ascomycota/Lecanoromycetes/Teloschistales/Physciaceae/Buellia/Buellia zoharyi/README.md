@@ -1,5 +1,4 @@
-Buellia zoharyi Galun SPECIES
-=======
+# Buellia zoharyi Galun SPECIES
 
 #### Status
 ACCEPTED

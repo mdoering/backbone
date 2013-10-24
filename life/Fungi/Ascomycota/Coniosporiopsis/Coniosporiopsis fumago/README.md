@@ -1,5 +1,4 @@
-Coniosporiopsis fumago (Schwein.) Speg. SPECIES
-=======
+# Coniosporiopsis fumago (Schwein.) Speg. SPECIES
 
 #### Status
 ACCEPTED

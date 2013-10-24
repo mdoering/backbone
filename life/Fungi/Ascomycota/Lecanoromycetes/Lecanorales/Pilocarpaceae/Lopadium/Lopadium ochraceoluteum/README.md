@@ -1,5 +1,4 @@
-Lopadium ochraceoluteum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium ochraceoluteum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

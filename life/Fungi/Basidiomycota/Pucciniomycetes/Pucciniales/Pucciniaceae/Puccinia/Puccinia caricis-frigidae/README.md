@@ -1,5 +1,4 @@
-Puccinia caricis-frigidae E. Fisch. SPECIES
-=======
+# Puccinia caricis-frigidae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

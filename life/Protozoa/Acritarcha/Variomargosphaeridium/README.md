@@ -1,5 +1,4 @@
-Variomargosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Variomargosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus trachycephalus F. Muell. & Kalchbr. SPECIES
-=======
+# Agaricus trachycephalus F. Muell. & Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

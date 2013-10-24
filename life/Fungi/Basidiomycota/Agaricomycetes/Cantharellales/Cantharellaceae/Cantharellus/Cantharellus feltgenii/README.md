@@ -1,17 +1,16 @@
-Cantharellus feltgeni Sacc. & Trotter SPECIES
-=======
+# Cantharellus feltgenii Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 106 (1912)
 
 #### Original name
-Cantharellus feltgeni Sacc. & Trotter
+Cantharellus feltgenii Sacc. & Trotter
 
 ### Remarks
 null

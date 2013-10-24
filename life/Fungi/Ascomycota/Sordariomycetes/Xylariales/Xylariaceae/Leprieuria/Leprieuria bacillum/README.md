@@ -1,14 +1,13 @@
-Hypoxylon bacillum (Mont.) Mont., 1853 SPECIES
-=======
+# Leprieuria bacillum (Mont.) Laessøe, J.D. Rogers & Whalley, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Cubana 1: 210 (1853)
+Mycol. Res. 93(2): 152 (1989)
 
 #### Original name
 Thamnomyces bacillum Mont., 1837

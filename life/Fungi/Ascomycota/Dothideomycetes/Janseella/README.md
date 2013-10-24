@@ -1,5 +1,4 @@
-Janseella GENUS
-=======
+# Janseella GENUS
 
 #### Status
 ACCEPTED

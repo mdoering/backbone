@@ -1,5 +1,4 @@
-Thelenella ocellata Malme SPECIES
-=======
+# Thelenella ocellata Malme SPECIES
 
 #### Status
 ACCEPTED

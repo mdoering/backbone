@@ -1,5 +1,4 @@
-Bartalinia muehlenbeckiae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Bartalinia muehlenbeckiae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

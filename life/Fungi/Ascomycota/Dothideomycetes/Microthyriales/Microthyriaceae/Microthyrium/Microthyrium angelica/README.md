@@ -1,5 +1,4 @@
-Microthyrium angelica Fautrey & Roum. SPECIES
-=======
+# Microthyrium angelica Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

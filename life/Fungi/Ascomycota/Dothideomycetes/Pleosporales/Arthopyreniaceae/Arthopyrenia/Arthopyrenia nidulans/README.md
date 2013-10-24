@@ -1,5 +1,4 @@
-Arthopyrenia nidulans Müll. Arg. SPECIES
-=======
+# Arthopyrenia nidulans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

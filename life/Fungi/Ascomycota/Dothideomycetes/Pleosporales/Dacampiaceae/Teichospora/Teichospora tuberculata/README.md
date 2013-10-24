@@ -1,5 +1,4 @@
-Teichospora tuberculata Ellis & Everh. SPECIES
-=======
+# Teichospora tuberculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

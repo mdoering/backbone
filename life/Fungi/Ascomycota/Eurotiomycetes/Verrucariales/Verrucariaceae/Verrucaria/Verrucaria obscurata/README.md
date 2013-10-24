@@ -1,5 +1,4 @@
-Verrucaria obscurata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria obscurata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia amabile Berk. SPECIES
-=======
+# Omphalia amabile Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus corticigenus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus corticigenus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

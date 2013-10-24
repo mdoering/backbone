@@ -1,5 +1,4 @@
-Parmelia siamensis Vain. SPECIES
-=======
+# Parmelia siamensis Vain. SPECIES
 
 #### Status
 ACCEPTED

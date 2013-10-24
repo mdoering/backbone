@@ -1,5 +1,4 @@
-Ustilago rhynchelytri L. Ling SPECIES
-=======
+# Ustilago rhynchelytri L. Ling SPECIES
 
 #### Status
 ACCEPTED

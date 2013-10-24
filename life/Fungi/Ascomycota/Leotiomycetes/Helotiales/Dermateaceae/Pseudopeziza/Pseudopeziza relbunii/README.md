@@ -1,5 +1,4 @@
-Pseudopeziza relbunii Gamundí & S. Wright SPECIES
-=======
+# Pseudopeziza relbunii Gamundí & S. Wright SPECIES
 
 #### Status
 ACCEPTED

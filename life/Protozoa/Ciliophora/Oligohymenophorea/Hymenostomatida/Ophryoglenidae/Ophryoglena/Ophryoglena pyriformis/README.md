@@ -1,5 +1,4 @@
-Ophryoglena pyriformis Rossolimo, 1926 SPECIES
-=======
+# Ophryoglena pyriformis Rossolimo, 1926 SPECIES
 
 #### Status
 ACCEPTED

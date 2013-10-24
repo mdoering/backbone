@@ -1,5 +1,4 @@
-Cercoseptoria calthae (Lebedeva) Petr. SPECIES
-=======
+# Cercoseptoria calthae (Lebedeva) Petr. SPECIES
 
 #### Status
 ACCEPTED

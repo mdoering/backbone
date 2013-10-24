@@ -1,5 +1,4 @@
-Panaeolus uliginicola Speg. SPECIES
-=======
+# Panaeolus uliginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

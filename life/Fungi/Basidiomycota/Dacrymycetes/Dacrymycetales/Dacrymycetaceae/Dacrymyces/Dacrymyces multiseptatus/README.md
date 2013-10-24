@@ -1,5 +1,4 @@
-Dacrymyces multiseptatus Beck SPECIES
-=======
+# Dacrymyces multiseptatus Beck SPECIES
 
 #### Status
 ACCEPTED

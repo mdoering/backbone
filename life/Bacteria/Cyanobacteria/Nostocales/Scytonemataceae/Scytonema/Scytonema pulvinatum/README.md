@@ -1,5 +1,4 @@
-Scytonema pulvinatum Nordstedt SPECIES
-=======
+# Scytonema pulvinatum Nordstedt SPECIES
 
 #### Status
 ACCEPTED

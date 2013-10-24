@@ -1,5 +1,4 @@
-Galeropsis madagascariensis Pat. ex Singer, 1962 SPECIES
-=======
+# Galeropsis madagascariensis Pat. ex Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED

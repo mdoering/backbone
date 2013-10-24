@@ -1,14 +1,13 @@
-Entoloma pallide-flavum (Henn. & E. Nyman) E. Horak SPECIES
-=======
+# Entoloma pallidoflavum (Henn. & E. Nyman) E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 28(1-6): 178 (1976)
 
 #### Original name
 Leptonia pallidoflava Henn. & E. Nyman

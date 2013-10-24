@@ -1,5 +1,4 @@
-Buellia fusco-ochracea H. Magn. SPECIES
-=======
+# Buellia fusco-ochracea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

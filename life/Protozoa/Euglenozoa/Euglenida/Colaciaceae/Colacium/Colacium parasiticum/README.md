@@ -1,5 +1,4 @@
-Colacium parasiticum (Sokolov) Huber-PeStalozzi SPECIES
-=======
+# Colacium parasiticum (Sokolov) Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

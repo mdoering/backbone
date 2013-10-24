@@ -1,5 +1,4 @@
-Didymium disciforme Kowalski & T.N. Lakh., 1973 SPECIES
-=======
+# Didymium disciforme Kowalski & T.N. Lakh., 1973 SPECIES
 
 #### Status
 ACCEPTED

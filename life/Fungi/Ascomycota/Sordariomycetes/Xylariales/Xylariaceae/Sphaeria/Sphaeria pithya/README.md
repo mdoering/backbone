@@ -1,5 +1,4 @@
-Sphaeria pithya Fr. SPECIES
-=======
+# Sphaeria pithya Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta erythrinae (Arcang.) Sacc. SPECIES
-=======
+# Pyrenochaeta erythrinae (Arcang.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

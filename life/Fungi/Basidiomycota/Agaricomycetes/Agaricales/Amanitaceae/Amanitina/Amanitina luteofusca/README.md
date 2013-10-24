@@ -1,5 +1,4 @@
-Amanitina luteofusca (Cleland & E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Amanitina luteofusca (Cleland & E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

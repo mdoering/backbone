@@ -1,8 +1,7 @@
-Aecidium kellermannii De Toni SPECIES
-=======
+# Aecidium kellermanii De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium kellermannii De Toni
+Aecidium kellermanii De Toni
 
 ### Remarks
 null

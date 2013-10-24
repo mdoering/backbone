@@ -1,5 +1,4 @@
-Truepera da Costa et al., 2005 GENUS
-=======
+# Truepera da Costa et al., 2005 GENUS
 
 #### Status
 ACCEPTED

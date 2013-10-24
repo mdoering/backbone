@@ -1,17 +1,16 @@
-Cortinarius adalbertii var. adalbertii VARIETY
-=======
+# Cortinarius adalbertii J. Favre ex M.M. Moser, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 10(no. 3): 104 (1948)
+Schweiz. Z. Pilzk. 58(7): 98 (1980)
 
 #### Original name
-Cortinarius adalbertii var. adalbertii
+Cortinarius adalbertii J. Favre ex M.M. Moser, 1980
 
 ### Remarks
 null

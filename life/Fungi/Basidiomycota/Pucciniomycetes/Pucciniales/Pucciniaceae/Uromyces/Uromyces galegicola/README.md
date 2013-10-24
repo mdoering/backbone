@@ -1,5 +1,4 @@
-Uromyces galegicola Woron. SPECIES
-=======
+# Uromyces galegicola Woron. SPECIES
 
 #### Status
 ACCEPTED

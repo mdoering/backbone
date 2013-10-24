@@ -1,5 +1,4 @@
-Lichen anthelinus Ach. SPECIES
-=======
+# Lichen anthelinus Ach. SPECIES
 
 #### Status
 ACCEPTED

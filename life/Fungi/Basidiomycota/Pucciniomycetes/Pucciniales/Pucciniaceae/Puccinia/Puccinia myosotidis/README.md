@@ -1,5 +1,4 @@
-Puccinia myosotidis Tranzschel SPECIES
-=======
+# Puccinia myosotidis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

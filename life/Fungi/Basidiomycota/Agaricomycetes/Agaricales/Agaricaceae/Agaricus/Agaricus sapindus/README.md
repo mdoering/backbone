@@ -1,5 +1,4 @@
-Agaricus sapindus Pers. SPECIES
-=======
+# Agaricus sapindus Pers. SPECIES
 
 #### Status
 ACCEPTED

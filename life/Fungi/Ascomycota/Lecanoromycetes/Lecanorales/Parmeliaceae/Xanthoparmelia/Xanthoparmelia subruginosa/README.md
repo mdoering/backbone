@@ -1,5 +1,4 @@
-Xanthoparmelia subruginosa Hale SPECIES
-=======
+# Xanthoparmelia subruginosa Hale SPECIES
 
 #### Status
 ACCEPTED

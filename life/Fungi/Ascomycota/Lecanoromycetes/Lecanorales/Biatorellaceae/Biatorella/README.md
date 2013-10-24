@@ -1,17 +1,16 @@
-Maronella M. Steiner GENUS
-=======
+# Biatorella De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 106: 441 (1959)
+G. bot. ital. 2(1. 1): 192 (1846)
 
 #### Original name
-Maronella M. Steiner
+Biatorella De Not.
 
 ### Remarks
 null

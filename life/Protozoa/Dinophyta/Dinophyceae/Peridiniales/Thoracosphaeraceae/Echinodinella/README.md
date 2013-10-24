@@ -1,5 +1,4 @@
-Echinodinella H. Keupp, 1980 GENUS
-=======
+# Echinodinella H. Keupp, 1980 GENUS
 
 #### Status
 ACCEPTED

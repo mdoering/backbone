@@ -1,17 +1,16 @@
-Enterostigma skottsbergii Zahlbr. SPECIES
-=======
+# Lithographa skottsbergii (Zahlbr.) Fryday & Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 39(3): 246 (2007)
 
 #### Original name
-null
+Enterostigma skottsbergii Zahlbr.
 
 ### Remarks
 null

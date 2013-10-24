@@ -1,5 +1,4 @@
-Penicillium clinoviride ined. SPECIES
-=======
+# Penicillium clinoviride ined. SPECIES
 
 #### Status
 ACCEPTED

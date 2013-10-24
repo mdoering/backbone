@@ -1,5 +1,4 @@
-Clisosporium herbarum Fr. SPECIES
-=======
+# Clisosporium herbarum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia novaecalidoniae SPECIES
-=======
+# Arthonia novaecalidoniae SPECIES
 
 #### Status
 ACCEPTED

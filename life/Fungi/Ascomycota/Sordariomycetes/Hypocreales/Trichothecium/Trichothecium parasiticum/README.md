@@ -1,5 +1,4 @@
-Trichothecium parasiticum Petch SPECIES
-=======
+# Trichothecium parasiticum Petch SPECIES
 
 #### Status
 ACCEPTED

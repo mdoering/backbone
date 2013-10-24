@@ -1,5 +1,4 @@
-Rhachomyces bucciarellii W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces bucciarellii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

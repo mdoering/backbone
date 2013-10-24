@@ -1,5 +1,4 @@
-Asteromella phyteumatis Petr. SPECIES
-=======
+# Asteromella phyteumatis Petr. SPECIES
 
 #### Status
 ACCEPTED

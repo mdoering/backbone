@@ -1,5 +1,4 @@
-Sphaerella alboi Unamuno SPECIES
-=======
+# Sphaerella alboi Unamuno SPECIES
 
 #### Status
 ACCEPTED

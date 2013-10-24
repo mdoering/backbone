@@ -1,5 +1,4 @@
-Psathyrella olivaceocystis A.H. Sm. SPECIES
-=======
+# Psathyrella olivaceocystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

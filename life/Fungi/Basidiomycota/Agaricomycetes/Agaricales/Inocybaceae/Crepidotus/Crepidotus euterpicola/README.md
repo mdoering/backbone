@@ -1,5 +1,4 @@
-Crepidotus euterpicola Senn-Irlet & de Meijer SPECIES
-=======
+# Crepidotus euterpicola Senn-Irlet & de Meijer SPECIES
 
 #### Status
 ACCEPTED

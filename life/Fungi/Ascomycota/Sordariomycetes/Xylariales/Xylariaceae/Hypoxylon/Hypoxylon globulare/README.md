@@ -1,5 +1,4 @@
-Hypoxylon globulare Bull. SPECIES
-=======
+# Hypoxylon globulare Bull. SPECIES
 
 #### Status
 ACCEPTED

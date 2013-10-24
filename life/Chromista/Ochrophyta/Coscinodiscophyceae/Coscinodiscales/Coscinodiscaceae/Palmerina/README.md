@@ -1,5 +1,4 @@
-Palmerina G.R.Hasle, 1996 GENUS
-=======
+# Palmerina G.R.Hasle, 1996 GENUS
 
 #### Status
 ACCEPTED

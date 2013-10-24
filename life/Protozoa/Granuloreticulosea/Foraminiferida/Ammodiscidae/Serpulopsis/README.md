@@ -1,17 +1,16 @@
-Minammodytes Henbest, 1963 GENUS
-=======
+# Serpulopsis Girty, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Spec. Publs Cushman Fdn No. 6: 26.
+Ann. N. York Acad. Sci. , 21, 124.
 
 #### Original name
-Serpulopsis Girty, 1911
+null
 
 ### Remarks
 null

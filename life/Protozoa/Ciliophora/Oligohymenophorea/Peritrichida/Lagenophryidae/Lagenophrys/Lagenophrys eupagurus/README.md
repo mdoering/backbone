@@ -1,5 +1,4 @@
-Lagenophrys eupagurus Kellicott, 1893 SPECIES
-=======
+# Lagenophrys eupagurus Kellicott, 1893 SPECIES
 
 #### Status
 ACCEPTED

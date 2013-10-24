@@ -1,5 +1,4 @@
-Pertusaria subradians Müll. Arg. SPECIES
-=======
+# Pertusaria subradians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

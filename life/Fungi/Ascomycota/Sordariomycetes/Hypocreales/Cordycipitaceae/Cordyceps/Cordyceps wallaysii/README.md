@@ -1,5 +1,4 @@
-Cordyceps wallaysii Westend. SPECIES
-=======
+# Cordyceps wallaysii Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiohalocapsa Imhoff et al., 1998 GENUS
-=======
+# Thiohalocapsa Imhoff et al., 1998 GENUS
 
 #### Status
 ACCEPTED

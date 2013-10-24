@@ -1,5 +1,4 @@
-Spiroloculina angulosa Terquem, 1878 SPECIES
-=======
+# Spiroloculina angulosa Terquem, 1878 SPECIES
 
 #### Status
 ACCEPTED

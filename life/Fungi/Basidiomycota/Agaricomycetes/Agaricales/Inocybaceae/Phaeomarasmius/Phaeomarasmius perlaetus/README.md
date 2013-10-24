@@ -1,5 +1,4 @@
-Phaeomarasmius perlaetus E. Horak SPECIES
-=======
+# Phaeomarasmius perlaetus E. Horak SPECIES
 
 #### Status
 ACCEPTED

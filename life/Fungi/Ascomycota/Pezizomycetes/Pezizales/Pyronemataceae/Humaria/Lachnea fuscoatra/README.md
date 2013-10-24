@@ -1,5 +1,4 @@
-Lachnea fuscoatra (Rabenh.) Sacc. SPECIES
-=======
+# Lachnea fuscoatra (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

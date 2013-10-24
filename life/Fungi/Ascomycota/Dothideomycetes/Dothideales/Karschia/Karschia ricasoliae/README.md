@@ -1,5 +1,4 @@
-Karschia ricasoliae Vouaux SPECIES
-=======
+# Karschia ricasoliae Vouaux SPECIES
 
 #### Status
 ACCEPTED

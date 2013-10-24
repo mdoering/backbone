@@ -1,5 +1,4 @@
-Rhytisma giganteum (Rebent.) Fr. SPECIES
-=======
+# Rhytisma giganteum (Rebent.) Fr. SPECIES
 
 #### Status
 ACCEPTED

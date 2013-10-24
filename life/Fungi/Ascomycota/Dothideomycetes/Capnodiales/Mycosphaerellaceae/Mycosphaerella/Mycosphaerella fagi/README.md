@@ -1,14 +1,13 @@
-Sphaerella fagi Auersw., 1869 SPECIES
-=======
+# Mycosphaerella fagi (Auersw.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 6 (1869)
+null
 
 #### Original name
 Sphaerella fagi Auersw., 1869

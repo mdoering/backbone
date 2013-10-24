@@ -1,5 +1,4 @@
-Parapeltella wildemanii (Beeli) Bat. SPECIES
-=======
+# Parapeltella wildemanii (Beeli) Bat. SPECIES
 
 #### Status
 ACCEPTED

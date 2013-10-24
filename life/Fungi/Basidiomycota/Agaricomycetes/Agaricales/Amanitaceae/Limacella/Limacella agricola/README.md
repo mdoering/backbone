@@ -1,5 +1,4 @@
-Limacella agricola Murrill SPECIES
-=======
+# Limacella agricola Murrill SPECIES
 
 #### Status
 ACCEPTED

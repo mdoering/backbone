@@ -1,5 +1,4 @@
-Stemphylium subglobuliferum F. Xue & X.G. Zhang SPECIES
-=======
+# Stemphylium subglobuliferum F. Xue & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

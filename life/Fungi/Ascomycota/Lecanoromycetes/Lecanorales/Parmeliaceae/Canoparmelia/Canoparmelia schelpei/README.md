@@ -1,5 +1,4 @@
-Canoparmelia schelpei (Hale) Elix & Hale SPECIES
-=======
+# Canoparmelia schelpei (Hale) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

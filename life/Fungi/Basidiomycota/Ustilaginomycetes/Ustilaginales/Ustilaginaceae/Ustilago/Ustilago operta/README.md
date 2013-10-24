@@ -1,5 +1,4 @@
-Ustilago operta Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Ustilago operta Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

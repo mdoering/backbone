@@ -1,5 +1,4 @@
-Ectotrichophyton vinosum (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton vinosum (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis diamantinae Wood, 1963 SPECIES
-=======
+# Histioneis diamantinae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

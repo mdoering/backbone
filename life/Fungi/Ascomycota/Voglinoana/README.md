@@ -1,5 +1,4 @@
-Voglinoana Kuntze GENUS
-=======
+# Voglinoana Kuntze GENUS
 
 #### Status
 ACCEPTED

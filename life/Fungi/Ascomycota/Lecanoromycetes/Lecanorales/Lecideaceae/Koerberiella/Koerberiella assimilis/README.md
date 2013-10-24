@@ -1,5 +1,4 @@
-Koerberiella assimilis Motyka SPECIES
-=======
+# Koerberiella assimilis Motyka SPECIES
 
 #### Status
 ACCEPTED

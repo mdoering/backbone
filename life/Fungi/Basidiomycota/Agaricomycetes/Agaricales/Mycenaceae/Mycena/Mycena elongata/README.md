@@ -1,5 +1,4 @@
-Mycena elongata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena elongata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

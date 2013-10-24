@@ -1,8 +1,7 @@
-Agaricus weinmanni Fr. SPECIES
-=======
+# Agaricus weinmannii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus weinmanni Fr.
+Agaricus weinmannii Fr.
 
 ### Remarks
 null

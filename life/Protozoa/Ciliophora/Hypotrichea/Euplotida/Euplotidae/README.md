@@ -1,5 +1,4 @@
-Euplotidae Ehrenberg, 1838 FAMILY
-=======
+# Euplotidae Ehrenberg, 1838 FAMILY
 
 #### Status
 ACCEPTED

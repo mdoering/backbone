@@ -1,5 +1,4 @@
-Mycosphaerella crystallina Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Mycosphaerella crystallina Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

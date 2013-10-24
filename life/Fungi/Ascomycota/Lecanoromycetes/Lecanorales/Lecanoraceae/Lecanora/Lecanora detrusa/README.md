@@ -1,5 +1,4 @@
-Lecanora detrusa var. detrusa VARIETY
-=======
+# Lecanora detrusa (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora detrusa var. detrusa
+Biatora detrusa Th. Fr.
 
 ### Remarks
 null

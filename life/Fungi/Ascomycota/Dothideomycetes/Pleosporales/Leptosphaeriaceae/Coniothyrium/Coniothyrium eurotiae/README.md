@@ -1,5 +1,4 @@
-Coniothyrium eurotiae Kalymb. SPECIES
-=======
+# Coniothyrium eurotiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella ochracea Pat. SPECIES
-=======
+# Tremella ochracea Pat. SPECIES
 
 #### Status
 ACCEPTED

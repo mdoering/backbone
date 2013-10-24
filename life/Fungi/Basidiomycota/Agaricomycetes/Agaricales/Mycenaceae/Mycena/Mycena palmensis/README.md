@@ -1,5 +1,4 @@
-Mycena palmensis Miersch & Dähncke SPECIES
-=======
+# Mycena palmensis Miersch & Dähncke SPECIES
 
 #### Status
 ACCEPTED

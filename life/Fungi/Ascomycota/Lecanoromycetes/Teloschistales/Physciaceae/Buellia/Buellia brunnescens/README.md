@@ -1,5 +1,4 @@
-Buellia brunnescens C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia brunnescens C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces hyacinthi Sorauer SPECIES
-=======
+# Hypomyces hyacinthi Sorauer SPECIES
 
 #### Status
 ACCEPTED

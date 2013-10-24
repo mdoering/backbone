@@ -1,5 +1,4 @@
-Habrostictis tithymalina Rehm SPECIES
-=======
+# Habrostictis tithymalina Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella floccosa (Lasch) Jaap SPECIES
-=======
+# Cyphella floccosa (Lasch) Jaap SPECIES
 
 #### Status
 ACCEPTED

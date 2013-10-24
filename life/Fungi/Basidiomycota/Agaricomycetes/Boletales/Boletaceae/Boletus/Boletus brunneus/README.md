@@ -1,5 +1,4 @@
-Boletus brunneus Cooke & Massee, 1891 SPECIES
-=======
+# Boletus brunneus Cooke & Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalidea goughensis Øvstedal SPECIES
-=======
+# Gyalidea goughensis Øvstedal SPECIES
 
 #### Status
 ACCEPTED

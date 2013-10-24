@@ -1,5 +1,4 @@
-Cortinarius maculatipes Bidaud SPECIES
-=======
+# Cortinarius maculatipes Bidaud SPECIES
 
 #### Status
 ACCEPTED

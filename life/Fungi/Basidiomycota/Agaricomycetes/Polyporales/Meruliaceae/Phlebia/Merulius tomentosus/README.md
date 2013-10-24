@@ -1,5 +1,4 @@
-Merulius tomentosus Burt SPECIES
-=======
+# Merulius tomentosus Burt SPECIES
 
 #### Status
 ACCEPTED

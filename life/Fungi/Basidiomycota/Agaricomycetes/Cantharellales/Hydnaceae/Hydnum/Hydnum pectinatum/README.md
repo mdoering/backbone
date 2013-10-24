@@ -1,5 +1,4 @@
-Hydnum pectinatum Fr. SPECIES
-=======
+# Hydnum pectinatum Fr. SPECIES
 
 #### Status
 ACCEPTED

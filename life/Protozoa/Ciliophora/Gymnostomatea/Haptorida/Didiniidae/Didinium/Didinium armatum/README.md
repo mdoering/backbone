@@ -1,5 +1,4 @@
-Didinium armatum Penard, 1922 SPECIES
-=======
+# Didinium armatum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus mirabilis P.A. Dang. SPECIES
-=======
+# Ascobolus mirabilis P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

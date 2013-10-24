@@ -1,5 +1,4 @@
-Phyllosticta oreodaphnes Henn. SPECIES
-=======
+# Phyllosticta oreodaphnes Henn. SPECIES
 
 #### Status
 ACCEPTED

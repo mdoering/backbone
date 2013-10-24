@@ -1,5 +1,4 @@
-Catharinia argyrospora (Harkn.) Sacc. SPECIES
-=======
+# Catharinia argyrospora (Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

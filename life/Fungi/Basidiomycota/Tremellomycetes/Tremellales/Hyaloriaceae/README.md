@@ -1,5 +1,4 @@
-Hyaloriaceae Lindau FAMILY
-=======
+# Hyaloriaceae Lindau FAMILY
 
 #### Status
 ACCEPTED

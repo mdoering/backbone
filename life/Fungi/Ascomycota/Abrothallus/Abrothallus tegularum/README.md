@@ -1,5 +1,4 @@
-Abrothallus tegularum (Arnold) Vain. SPECIES
-=======
+# Abrothallus tegularum (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

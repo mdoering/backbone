@@ -1,14 +1,13 @@
-Poculum subularis (Bull.) M.P. Sharma, 1986 SPECIES
-=======
+# Hymenoscyphus subularis (Bull.) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Plant Disease Research 1(1-2): 44 (1986)
+Man. Brit. Discomyc. (London) 122 (1887)
 
 #### Original name
 null

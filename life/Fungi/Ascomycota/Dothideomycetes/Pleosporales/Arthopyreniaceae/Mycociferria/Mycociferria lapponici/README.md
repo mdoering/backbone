@@ -1,5 +1,4 @@
-Mycociferria lapponici Tomas. SPECIES
-=======
+# Mycociferria lapponici Tomas. SPECIES
 
 #### Status
 ACCEPTED

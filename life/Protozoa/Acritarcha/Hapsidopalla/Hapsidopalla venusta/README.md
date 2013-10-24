@@ -1,5 +1,4 @@
-Hapsidopalla venusta (Sannemann, 1955) Playford, 1977 SPECIES
-=======
+# Hapsidopalla venusta (Sannemann, 1955) Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

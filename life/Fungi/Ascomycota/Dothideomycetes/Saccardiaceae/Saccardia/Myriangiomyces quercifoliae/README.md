@@ -1,5 +1,4 @@
-Myriangiomyces quercifoliae Bat. & Nascim. SPECIES
-=======
+# Myriangiomyces quercifoliae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproconium desmazieresii (Berk. & Broome) Grove SPECIES
-=======
+# Lamproconium desmazieresii (Berk. & Broome) Grove SPECIES
 
 #### Status
 ACCEPTED

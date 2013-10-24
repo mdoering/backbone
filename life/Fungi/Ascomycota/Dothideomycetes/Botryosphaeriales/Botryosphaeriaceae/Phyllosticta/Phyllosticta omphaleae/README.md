@@ -1,5 +1,4 @@
-Phyllosticta omphaleae Dearn. & House SPECIES
-=======
+# Phyllosticta omphaleae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis conica SPECIES
-=======
+# Discorbis conica SPECIES
 
 #### Status
 ACCEPTED

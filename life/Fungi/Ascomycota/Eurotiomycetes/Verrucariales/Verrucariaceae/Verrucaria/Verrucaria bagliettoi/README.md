@@ -1,5 +1,4 @@
-Verrucaria bagliettoi Servít SPECIES
-=======
+# Verrucaria bagliettoi Servít SPECIES
 
 #### Status
 ACCEPTED

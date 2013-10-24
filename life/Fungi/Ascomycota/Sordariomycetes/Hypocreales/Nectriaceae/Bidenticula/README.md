@@ -1,5 +1,4 @@
-Bidenticula GENUS
-=======
+# Bidenticula GENUS
 
 #### Status
 ACCEPTED

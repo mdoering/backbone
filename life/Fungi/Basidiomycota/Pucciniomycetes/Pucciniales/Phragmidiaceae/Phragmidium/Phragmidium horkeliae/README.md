@@ -1,5 +1,4 @@
-Phragmidium horkeliae Garrett SPECIES
-=======
+# Phragmidium horkeliae Garrett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia hordei var. hordei VARIETY
-=======
+# Tilletia hordei Körn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tilletia hordei var. hordei
+Tilletia hordei Körn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trypethelium kunzei Fée SPECIES
-=======
+# Trypethelium kunzei Fée SPECIES
 
 #### Status
 ACCEPTED

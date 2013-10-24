@@ -1,5 +1,4 @@
-Corollospora armoricana Kohlm. & Volkm.-Kohlm., 1989 SPECIES
-=======
+# Corollospora armoricana Kohlm. & Volkm.-Kohlm., 1989 SPECIES
 
 #### Status
 ACCEPTED

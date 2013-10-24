@@ -1,5 +1,4 @@
-Isaria clonostachoides F.J. Pritch. & Porte SPECIES
-=======
+# Isaria clonostachoides F.J. Pritch. & Porte SPECIES
 
 #### Status
 ACCEPTED

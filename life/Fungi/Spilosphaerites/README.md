@@ -1,5 +1,4 @@
-Spilosphaerites C. Massal. GENUS
-=======
+# Spilosphaerites C. Massal. GENUS
 
 #### Status
 ACCEPTED

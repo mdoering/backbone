@@ -1,5 +1,4 @@
-Uvigerina virgulinoides Cushman & Wickenden, 1929 SPECIES
-=======
+# Uvigerina virgulinoides Cushman & Wickenden, 1929 SPECIES
 
 #### Status
 ACCEPTED

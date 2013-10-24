@@ -1,5 +1,4 @@
-Bacillus shackletonii Logan et al., 2004 SPECIES
-=======
+# Bacillus shackletonii Logan et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

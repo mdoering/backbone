@@ -1,5 +1,4 @@
-Sirosporium mori (Syd. & P. Syd.) M.B. Ellis SPECIES
-=======
+# Sirosporium mori (Syd. & P. Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

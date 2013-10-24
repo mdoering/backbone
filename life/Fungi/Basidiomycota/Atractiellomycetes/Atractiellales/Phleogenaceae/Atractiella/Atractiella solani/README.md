@@ -1,14 +1,13 @@
-Ecchyna solani (Cohn & J. Schröt.) Pat., 1900 SPECIES
-=======
+# Atractiella solani (Cohn & J. Schröt.) Oberw. & Bandoni, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 17 (1900)
+Can. J. Bot. 60(9): 1732 (1982)
 
 #### Original name
 Pilacrella solani Cohn & J. Schröt. ex J. Schröt., 1887

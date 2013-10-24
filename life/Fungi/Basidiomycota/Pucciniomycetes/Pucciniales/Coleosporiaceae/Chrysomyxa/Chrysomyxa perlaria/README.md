@@ -1,5 +1,4 @@
-Chrysomyxa perlaria B. Li SPECIES
-=======
+# Chrysomyxa perlaria B. Li SPECIES
 
 #### Status
 ACCEPTED

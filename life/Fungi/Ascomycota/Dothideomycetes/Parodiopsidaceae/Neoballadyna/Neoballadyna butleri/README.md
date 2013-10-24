@@ -1,5 +1,4 @@
-Neoballadyna butleri (Syd. & P. Syd.) Boedijn SPECIES
-=======
+# Neoballadyna butleri (Syd. & P. Syd.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

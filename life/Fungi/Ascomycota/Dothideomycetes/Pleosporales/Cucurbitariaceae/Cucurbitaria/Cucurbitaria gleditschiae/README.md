@@ -1,5 +1,4 @@
-Cucurbitaria gleditschiae Ces. & De Not. SPECIES
-=======
+# Cucurbitaria gleditschiae Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

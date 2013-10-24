@@ -1,5 +1,4 @@
-Hanostaffella GENUS
-=======
+# Hanostaffella GENUS
 
 #### Status
 ACCEPTED

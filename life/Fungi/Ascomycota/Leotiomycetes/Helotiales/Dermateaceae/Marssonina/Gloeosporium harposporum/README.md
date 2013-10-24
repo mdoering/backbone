@@ -1,5 +1,4 @@
-Gloeosporium harposporum Bres. & Sacc. SPECIES
-=======
+# Gloeosporium harposporum Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

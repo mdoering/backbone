@@ -1,5 +1,4 @@
-Patinella moravica Petr. SPECIES
-=======
+# Patinella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

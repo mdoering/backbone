@@ -1,5 +1,4 @@
-Pygmomyces microsporus G. Arnaud SPECIES
-=======
+# Pygmomyces microsporus G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

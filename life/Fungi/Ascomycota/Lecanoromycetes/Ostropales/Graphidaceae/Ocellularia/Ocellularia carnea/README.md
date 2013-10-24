@@ -1,14 +1,13 @@
-Enterographa carnea (Eckfeldt) R.C. Harris SPECIES
-=======
+# Ocellularia carnea (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Egan, Bryologist 90(2): 163 (1987)
+Cat. Lich. Univers. 2: 585 (1923)
 
 #### Original name
 Thelotrema carneum Eckfeldt

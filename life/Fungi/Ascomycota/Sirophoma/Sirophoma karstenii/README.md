@@ -1,5 +1,4 @@
-Sirophoma karstenii Petr. & Syd. SPECIES
-=======
+# Sirophoma karstenii Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus kumaeus R. Heim SPECIES
-=======
+# Boletus kumaeus R. Heim SPECIES
 
 #### Status
 ACCEPTED

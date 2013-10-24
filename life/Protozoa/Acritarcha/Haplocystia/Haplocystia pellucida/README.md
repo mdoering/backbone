@@ -1,5 +1,4 @@
-Haplocystia pellucida Segroves, 1967 SPECIES
-=======
+# Haplocystia pellucida Segroves, 1967 SPECIES
 
 #### Status
 ACCEPTED

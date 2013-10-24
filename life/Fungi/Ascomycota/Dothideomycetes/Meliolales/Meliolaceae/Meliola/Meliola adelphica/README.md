@@ -1,5 +1,4 @@
-Meliola adelphica (Syd.) Petr. SPECIES
-=======
+# Meliola adelphica (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

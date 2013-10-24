@@ -1,5 +1,4 @@
-Graphium squarrosum Ellis & Langl. SPECIES
-=======
+# Graphium squarrosum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

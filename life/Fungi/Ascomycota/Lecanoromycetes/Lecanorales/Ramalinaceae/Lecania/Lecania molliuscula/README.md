@@ -1,5 +1,4 @@
-Lecania molliuscula Müll. Arg. SPECIES
-=======
+# Lecania molliuscula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

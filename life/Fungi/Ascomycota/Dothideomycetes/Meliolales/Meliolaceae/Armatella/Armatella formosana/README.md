@@ -1,5 +1,4 @@
-Armatella formosana W. Yamam. SPECIES
-=======
+# Armatella formosana W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

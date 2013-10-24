@@ -1,5 +1,4 @@
-Phyllosticta coprosmae McAlpine SPECIES
-=======
+# Phyllosticta coprosmae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodiscus heimerlii (Höhn.) Kirschst. SPECIES
-=======
+# Trichodiscus heimerlii (Höhn.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

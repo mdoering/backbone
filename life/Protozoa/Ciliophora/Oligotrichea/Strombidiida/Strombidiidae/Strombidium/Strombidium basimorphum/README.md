@@ -1,5 +1,4 @@
-Strombidium basimorphum Martin & Montagnes, 1993 SPECIES
-=======
+# Strombidium basimorphum Martin & Montagnes, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalidea cerina Malcolm & Vezda SPECIES
-=======
+# Gyalidea cerina Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

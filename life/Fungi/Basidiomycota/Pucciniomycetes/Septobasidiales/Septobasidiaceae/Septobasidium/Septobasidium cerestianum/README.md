@@ -1,5 +1,4 @@
-Septobasidium cerestianum Bres. SPECIES
-=======
+# Septobasidium cerestianum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pavonius Hook. SPECIES
-=======
+# Boletus pavonius Hook. SPECIES
 
 #### Status
 ACCEPTED

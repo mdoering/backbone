@@ -1,5 +1,4 @@
-Peziza brasiliensis G. Winter SPECIES
-=======
+# Peziza brasiliensis G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidulina curvata SPECIES
-=======
+# Cassidulina curvata SPECIES
 
 #### Status
 ACCEPTED

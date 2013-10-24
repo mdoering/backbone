@@ -1,5 +1,4 @@
-Heterocapsa minima A.J. Pomroy SPECIES
-=======
+# Heterocapsa minima A.J. Pomroy SPECIES
 
 #### Status
 ACCEPTED

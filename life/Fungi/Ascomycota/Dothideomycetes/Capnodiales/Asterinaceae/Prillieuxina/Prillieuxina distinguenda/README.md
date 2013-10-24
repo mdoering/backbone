@@ -1,5 +1,4 @@
-Prillieuxina distinguenda (Syd. & P. Syd.) R.W. Ryan SPECIES
-=======
+# Prillieuxina distinguenda (Syd. & P. Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

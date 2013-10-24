@@ -1,5 +1,4 @@
-Lecidea acaciae Spreng. SPECIES
-=======
+# Lecidea acaciae Spreng. SPECIES
 
 #### Status
 ACCEPTED

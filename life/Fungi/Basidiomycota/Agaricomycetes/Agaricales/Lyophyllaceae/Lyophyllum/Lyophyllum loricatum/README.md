@@ -1,17 +1,16 @@
-Clitocybe cartilaginea var. cartilaginea VARIETY
-=======
+# Lyophyllum loricatum (Fr.) Kühner ex Kalamees, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 60(1): 14 (1994)
 
 #### Original name
-null
+Agaricus loricatus Fr., 1838
 
 ### Remarks
 null

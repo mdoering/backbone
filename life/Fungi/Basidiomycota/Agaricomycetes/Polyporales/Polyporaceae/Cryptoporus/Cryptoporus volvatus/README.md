@@ -1,17 +1,16 @@
-Ungulina volvata var. volvata (Peck) Pat. VARIETY
-=======
+# Cryptoporus volvatus (Peck) Shear, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 102 (1900)
+Bull. Torrey bot. Club 29: 450 (1902)
 
 #### Original name
-Ungulina volvata var. volvata (Peck) Pat.
+Polyporus volvatus W.R. Gerard
 
 ### Remarks
 null

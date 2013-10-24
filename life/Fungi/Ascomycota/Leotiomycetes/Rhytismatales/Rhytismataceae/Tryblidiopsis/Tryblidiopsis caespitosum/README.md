@@ -1,14 +1,13 @@
-Triblidiopsis caespitosum (Cooke & Massee) Cooke SPECIES
-=======
+# Tryblidiopsis caespitosum (Cooke & Massee) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Handb. Austral. fungi 276 (1892)
 
 #### Original name
 Triblidium caespitosum Cooke & Massee

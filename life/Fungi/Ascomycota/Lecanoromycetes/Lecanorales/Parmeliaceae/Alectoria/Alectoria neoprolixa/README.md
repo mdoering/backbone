@@ -1,5 +1,4 @@
-Alectoria neoprolixa Gyeln. SPECIES
-=======
+# Alectoria neoprolixa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromonospora krabiensis Jongrungruangchok, Tansupawat & Kudo, 2008 SPECIES
-=======
+# Micromonospora krabiensis Jongrungruangchok, Tansupawat & Kudo, 2008 SPECIES
 
 #### Status
 ACCEPTED

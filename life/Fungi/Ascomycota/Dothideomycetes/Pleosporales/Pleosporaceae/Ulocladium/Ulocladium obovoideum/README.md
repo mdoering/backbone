@@ -1,5 +1,4 @@
-Ulocladium obovoideum E.G. Simmons, 1990 SPECIES
-=======
+# Ulocladium obovoideum E.G. Simmons, 1990 SPECIES
 
 #### Status
 ACCEPTED

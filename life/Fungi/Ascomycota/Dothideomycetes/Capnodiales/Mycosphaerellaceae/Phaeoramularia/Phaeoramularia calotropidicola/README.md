@@ -1,17 +1,16 @@
-Phaeoramularia calotropicola S.K. Singh & R.K. Chaudhary SPECIES
-=======
+# Phaeoramularia calotropidicola S.K. Singh & R.K. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Singh, Chaudhary & Morgan-Jones, Mycotaxon 58: 140 (1996)
 
 #### Original name
-Phaeoramularia calotropicola S.K. Singh & R.K. Chaudhary
+Phaeoramularia calotropidicola S.K. Singh & R.K. Chaudhary
 
 ### Remarks
 null

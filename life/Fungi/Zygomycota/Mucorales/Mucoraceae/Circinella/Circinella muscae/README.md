@@ -1,17 +1,16 @@
-Mucor spinulosus J. Schröt., 1886 SPECIES
-=======
+# Circinella muscae (Sorokin) Berl. & De Toni, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(916): 206 (1886)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 216 (1888)
 
 #### Original name
-Mucor spinulosus J. Schröt., 1886
+Helicostylum muscae Sorokin, 1870
 
 ### Remarks
 null

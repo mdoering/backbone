@@ -1,5 +1,4 @@
-Usnea fernandiae P.A. Duvign. SPECIES
-=======
+# Usnea fernandiae P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

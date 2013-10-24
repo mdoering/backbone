@@ -1,5 +1,4 @@
-Brunchorstia gibbosa Wollenw. SPECIES
-=======
+# Brunchorstia gibbosa Wollenw. SPECIES
 
 #### Status
 ACCEPTED

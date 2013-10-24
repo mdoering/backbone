@@ -1,5 +1,4 @@
-Dibaeis weberi (J.W. Thomson) Kalb & Gierl SPECIES
-=======
+# Dibaeis weberi (J.W. Thomson) Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium henriquesii Thüm. SPECIES
-=======
+# Coniothyrium henriquesii Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena steinmannii Raithelh. SPECIES
-=======
+# Mycena steinmannii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

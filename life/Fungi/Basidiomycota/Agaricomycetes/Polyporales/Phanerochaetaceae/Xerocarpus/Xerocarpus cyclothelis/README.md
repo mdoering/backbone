@@ -1,5 +1,4 @@
-Xerocarpus cyclothelis (Pers.) P. Karst. SPECIES
-=======
+# Xerocarpus cyclothelis (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria nitzschioides Grunow SPECIES
-=======
+# Fragilaria nitzschioides Grunow SPECIES
 
 #### Status
 ACCEPTED

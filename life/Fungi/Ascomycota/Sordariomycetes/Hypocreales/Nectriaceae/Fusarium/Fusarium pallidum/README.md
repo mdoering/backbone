@@ -1,5 +1,4 @@
-Fusarium pallidum (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Fusarium pallidum (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

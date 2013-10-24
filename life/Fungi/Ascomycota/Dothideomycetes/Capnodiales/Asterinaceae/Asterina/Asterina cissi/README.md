@@ -1,5 +1,4 @@
-Asterina cissi S. Hughes SPECIES
-=======
+# Asterina cissi S. Hughes SPECIES
 
 #### Status
 ACCEPTED

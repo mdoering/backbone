@@ -1,5 +1,4 @@
-Engizostoma liquidambaris (Schwein.) Kuntze SPECIES
-=======
+# Engizostoma liquidambaris (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

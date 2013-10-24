@@ -1,5 +1,4 @@
-Lecanora etesiae Nyl. SPECIES
-=======
+# Lecanora etesiae Nyl. SPECIES
 
 #### Status
 ACCEPTED

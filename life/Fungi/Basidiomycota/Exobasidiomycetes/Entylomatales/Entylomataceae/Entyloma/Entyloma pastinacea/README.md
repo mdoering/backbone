@@ -1,5 +1,4 @@
-Entyloma pastinacea Jaap SPECIES
-=======
+# Entyloma pastinacea Jaap SPECIES
 
 #### Status
 ACCEPTED

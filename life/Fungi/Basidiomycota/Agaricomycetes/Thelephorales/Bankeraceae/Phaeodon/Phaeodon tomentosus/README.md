@@ -1,5 +1,4 @@
-Phaeodon tomentosus Schrad. ex J. Schröt. SPECIES
-=======
+# Phaeodon tomentosus Schrad. ex J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

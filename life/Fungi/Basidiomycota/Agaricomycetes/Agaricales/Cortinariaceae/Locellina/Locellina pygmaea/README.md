@@ -1,5 +1,4 @@
-Locellina pygmaea Speg. SPECIES
-=======
+# Locellina pygmaea Speg. SPECIES
 
 #### Status
 ACCEPTED

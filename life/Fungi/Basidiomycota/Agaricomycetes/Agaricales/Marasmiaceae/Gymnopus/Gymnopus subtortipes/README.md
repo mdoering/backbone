@@ -1,5 +1,4 @@
-Gymnopus subtortipes Murrill SPECIES
-=======
+# Gymnopus subtortipes Murrill SPECIES
 
 #### Status
 ACCEPTED

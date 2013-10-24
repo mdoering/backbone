@@ -1,5 +1,4 @@
-Xanthoparmelia surrogata Hale SPECIES
-=======
+# Xanthoparmelia surrogata Hale SPECIES
 
 #### Status
 ACCEPTED

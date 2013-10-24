@@ -1,5 +1,4 @@
-Leptopharynx macrostoma Njine, 1979 SPECIES
-=======
+# Leptopharynx macrostoma Njine, 1979 SPECIES
 
 #### Status
 ACCEPTED

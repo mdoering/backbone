@@ -1,5 +1,4 @@
-Strobilurusl GENUS
-=======
+# Strobilurusl GENUS
 
 #### Status
 ACCEPTED

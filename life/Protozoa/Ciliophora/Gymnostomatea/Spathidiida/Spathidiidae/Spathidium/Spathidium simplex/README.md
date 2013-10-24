@@ -1,5 +1,4 @@
-Spathidium simplex Penard, 1922 SPECIES
-=======
+# Spathidium simplex Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

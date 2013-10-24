@@ -1,5 +1,4 @@
-Filobasidiella Kwon-Chung, 1976 GENUS
-=======
+# Filobasidiella Kwon-Chung, 1976 GENUS
 
 #### Status
 ACCEPTED

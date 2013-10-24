@@ -1,5 +1,4 @@
-Puccinia lantanae Farl. SPECIES
-=======
+# Puccinia lantanae Farl. SPECIES
 
 #### Status
 ACCEPTED

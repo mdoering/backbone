@@ -1,5 +1,4 @@
-Phyllosticta macroguttata Earle SPECIES
-=======
+# Phyllosticta macroguttata Earle SPECIES
 
 #### Status
 ACCEPTED

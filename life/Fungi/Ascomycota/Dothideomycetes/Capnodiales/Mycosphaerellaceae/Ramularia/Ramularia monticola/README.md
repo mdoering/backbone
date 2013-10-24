@@ -1,5 +1,4 @@
-Ramularia monticola Speg. SPECIES
-=======
+# Ramularia monticola Speg. SPECIES
 
 #### Status
 ACCEPTED

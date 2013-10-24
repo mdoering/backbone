@@ -1,5 +1,4 @@
-Lizoniella leguminis (Rehm) Sacc. & Trotter SPECIES
-=======
+# Lizoniella leguminis (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

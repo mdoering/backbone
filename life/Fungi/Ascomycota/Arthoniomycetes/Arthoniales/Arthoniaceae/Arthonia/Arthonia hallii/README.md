@@ -1,5 +1,4 @@
-Arthonia hallii Tuck. SPECIES
-=======
+# Arthonia hallii Tuck. SPECIES
 
 #### Status
 ACCEPTED

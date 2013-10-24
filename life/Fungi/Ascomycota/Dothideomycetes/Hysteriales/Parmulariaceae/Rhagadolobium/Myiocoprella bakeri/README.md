@@ -1,5 +1,4 @@
-Myiocoprella bakeri Sacc. SPECIES
-=======
+# Myiocoprella bakeri Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pacispora robigina Sieverd. & Oehl SPECIES
-=======
+# Pacispora robigina Sieverd. & Oehl SPECIES
 
 #### Status
 ACCEPTED

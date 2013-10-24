@@ -1,5 +1,4 @@
-Lecanora subcatanea Nyl. SPECIES
-=======
+# Lecanora subcatanea Nyl. SPECIES
 
 #### Status
 ACCEPTED

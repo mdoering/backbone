@@ -1,5 +1,4 @@
-Diplomonadida ORDER
-=======
+# Diplomonadida ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria acaciae S.B. Kale SPECIES
-=======
+# Calosphaeria acaciae S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

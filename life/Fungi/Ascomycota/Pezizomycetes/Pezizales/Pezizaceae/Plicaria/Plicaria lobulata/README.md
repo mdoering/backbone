@@ -1,5 +1,4 @@
-Plicaria lobulata Velen. SPECIES
-=======
+# Plicaria lobulata Velen. SPECIES
 
 #### Status
 ACCEPTED

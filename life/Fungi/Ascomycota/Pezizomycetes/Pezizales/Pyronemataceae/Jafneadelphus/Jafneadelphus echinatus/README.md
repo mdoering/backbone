@@ -1,5 +1,4 @@
-Jafneadelphus echinatus Gamundí SPECIES
-=======
+# Jafneadelphus echinatus Gamundí SPECIES
 
 #### Status
 ACCEPTED

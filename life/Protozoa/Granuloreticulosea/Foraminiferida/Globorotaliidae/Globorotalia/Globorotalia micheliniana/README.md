@@ -1,8 +1,7 @@
-Rotalina micheliniana d'Orbigny, 1840 SPECIES
-=======
+# Globorotalia micheliniana (d'Orbigny, 1840) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

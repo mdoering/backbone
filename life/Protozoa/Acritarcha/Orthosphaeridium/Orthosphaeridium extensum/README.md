@@ -1,5 +1,4 @@
-Orthosphaeridium extensum Parsons & Anderson, 2000 SPECIES
-=======
+# Orthosphaeridium extensum Parsons & Anderson, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes formosissimus (Speg.) Speg. SPECIES
-=======
+# Fomes formosissimus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

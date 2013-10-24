@@ -1,5 +1,4 @@
-Rectoelphidiella Ho, Hu & Wang, 1965 GENUS
-=======
+# Rectoelphidiella Ho, Hu & Wang, 1965 GENUS
 
 #### Status
 ACCEPTED

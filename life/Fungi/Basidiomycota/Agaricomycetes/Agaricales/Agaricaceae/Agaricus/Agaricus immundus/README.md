@@ -1,5 +1,4 @@
-Agaricus immundus Berk. SPECIES
-=======
+# Agaricus immundus Berk. SPECIES
 
 #### Status
 ACCEPTED

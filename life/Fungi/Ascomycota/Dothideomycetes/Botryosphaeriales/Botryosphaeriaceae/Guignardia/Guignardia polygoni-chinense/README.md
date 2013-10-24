@@ -1,5 +1,4 @@
-Guignardia polygoni-chinense Sawada SPECIES
-=======
+# Guignardia polygoni-chinense Sawada SPECIES
 
 #### Status
 ACCEPTED

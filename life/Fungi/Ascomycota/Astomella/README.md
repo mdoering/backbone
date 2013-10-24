@@ -1,5 +1,4 @@
-Astomella Thirumalachar, 1947 GENUS
-=======
+# Astomella Thirumalachar, 1947 GENUS
 
 #### Status
 ACCEPTED

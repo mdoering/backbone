@@ -1,5 +1,4 @@
-Cercosporina cannabis Hara SPECIES
-=======
+# Cercosporina cannabis Hara SPECIES
 
 #### Status
 ACCEPTED

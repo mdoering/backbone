@@ -1,5 +1,4 @@
-Plenodomus prominens (Bres.) Petr. ex Arx SPECIES
-=======
+# Plenodomus prominens (Bres.) Petr. ex Arx SPECIES
 
 #### Status
 ACCEPTED

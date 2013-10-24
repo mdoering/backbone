@@ -1,5 +1,4 @@
-Russula oreades Sarnari SPECIES
-=======
+# Russula oreades Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe leucopoda Velen. SPECIES
-=======
+# Inocybe leucopoda Velen. SPECIES
 
 #### Status
 ACCEPTED

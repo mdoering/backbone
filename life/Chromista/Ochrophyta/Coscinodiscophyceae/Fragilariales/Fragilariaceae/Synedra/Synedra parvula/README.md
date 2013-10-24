@@ -1,5 +1,4 @@
-Synedra parvula Kützing SPECIES
-=======
+# Synedra parvula Kützing SPECIES
 
 #### Status
 ACCEPTED

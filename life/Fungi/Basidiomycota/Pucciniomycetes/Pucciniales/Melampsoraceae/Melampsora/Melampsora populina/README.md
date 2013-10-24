@@ -1,5 +1,4 @@
-Melampsora populina subsp. populina SUBSPECIES
-=======
+# Melampsora populina (Jacq.) Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melampsora populina subsp. populina
+Lycoperdon populinum Jacq.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pestalotia mycophaga Vuill. SPECIES
-=======
+# Pestalotia mycophaga Vuill. SPECIES
 
 #### Status
 ACCEPTED

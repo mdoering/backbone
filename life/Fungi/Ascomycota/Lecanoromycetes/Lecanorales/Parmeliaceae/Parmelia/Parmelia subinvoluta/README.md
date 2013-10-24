@@ -1,5 +1,4 @@
-Parmelia subinvoluta Hale SPECIES
-=======
+# Parmelia subinvoluta Hale SPECIES
 
 #### Status
 ACCEPTED

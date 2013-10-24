@@ -1,5 +1,4 @@
-Bacteroidetes PHYLUM
-=======
+# Bacteroidetes PHYLUM
 
 #### Status
 ACCEPTED

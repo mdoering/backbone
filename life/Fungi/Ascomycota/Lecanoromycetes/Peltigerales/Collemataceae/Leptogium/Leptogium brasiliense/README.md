@@ -1,5 +1,4 @@
-Leptogium brasiliense Vain. SPECIES
-=======
+# Leptogium brasiliense Vain. SPECIES
 
 #### Status
 ACCEPTED

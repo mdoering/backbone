@@ -1,5 +1,4 @@
-Petalomonadaceae FAMILY
-=======
+# Petalomonadaceae FAMILY
 
 #### Status
 ACCEPTED

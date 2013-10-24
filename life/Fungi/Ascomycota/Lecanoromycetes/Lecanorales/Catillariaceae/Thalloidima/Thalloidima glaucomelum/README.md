@@ -1,5 +1,4 @@
-Thalloidima glaucomelum (Nyl.) SPECIES
-=======
+# Thalloidima glaucomelum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

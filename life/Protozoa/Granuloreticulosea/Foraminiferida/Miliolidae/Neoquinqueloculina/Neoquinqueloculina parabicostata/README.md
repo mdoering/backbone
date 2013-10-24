@@ -1,5 +1,4 @@
-Neoquinqueloculina parabicostata Nguyen Ngoc, 2006 SPECIES
-=======
+# Neoquinqueloculina parabicostata Nguyen Ngoc, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcidiopsis spinosa Kamat SPECIES
-=======
+# Chroococcidiopsis spinosa Kamat SPECIES
 
 #### Status
 ACCEPTED

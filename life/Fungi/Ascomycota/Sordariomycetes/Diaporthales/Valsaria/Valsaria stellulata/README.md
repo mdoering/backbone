@@ -1,5 +1,4 @@
-Valsaria stellulata Romell SPECIES
-=======
+# Valsaria stellulata Romell SPECIES
 
 #### Status
 ACCEPTED

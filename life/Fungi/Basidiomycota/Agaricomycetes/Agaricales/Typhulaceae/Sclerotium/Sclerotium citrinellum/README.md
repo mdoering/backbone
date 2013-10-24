@@ -1,5 +1,4 @@
-Sclerotium citrinellum Speg. SPECIES
-=======
+# Sclerotium citrinellum Speg. SPECIES
 
 #### Status
 ACCEPTED

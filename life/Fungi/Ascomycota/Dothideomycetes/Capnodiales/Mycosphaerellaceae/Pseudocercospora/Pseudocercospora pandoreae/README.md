@@ -1,5 +1,4 @@
-Pseudocercospora pandoreae U. Braun & C.F. Hill, 2006 SPECIES
-=======
+# Pseudocercospora pandoreae U. Braun & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

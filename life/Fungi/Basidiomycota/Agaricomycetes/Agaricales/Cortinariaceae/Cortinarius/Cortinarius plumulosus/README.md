@@ -1,5 +1,4 @@
-Cortinarius plumulosus Rob. Henry SPECIES
-=======
+# Cortinarius plumulosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

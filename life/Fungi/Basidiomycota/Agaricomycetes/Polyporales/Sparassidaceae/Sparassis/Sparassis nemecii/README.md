@@ -1,5 +1,4 @@
-Sparassis nemecii Pilát & Veselý, 1932 SPECIES
-=======
+# Sparassis nemecii Pilát & Veselý, 1932 SPECIES
 
 #### Status
 ACCEPTED

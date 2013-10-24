@@ -1,5 +1,4 @@
-Boletus clavicularis Gillet SPECIES
-=======
+# Boletus clavicularis Gillet SPECIES
 
 #### Status
 ACCEPTED

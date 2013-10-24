@@ -1,5 +1,4 @@
-Aecidium pallidum W.G. Schneid. SPECIES
-=======
+# Aecidium pallidum W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

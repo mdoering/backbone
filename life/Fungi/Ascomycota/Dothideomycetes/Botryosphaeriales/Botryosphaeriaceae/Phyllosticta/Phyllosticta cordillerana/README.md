@@ -1,5 +1,4 @@
-Phyllosticta cordillerana Cif. SPECIES
-=======
+# Phyllosticta cordillerana Cif. SPECIES
 
 #### Status
 ACCEPTED

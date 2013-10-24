@@ -1,5 +1,4 @@
-Leptorhaphis paracapnodes (Stizenb.) Norman SPECIES
-=======
+# Leptorhaphis paracapnodes (Stizenb.) Norman SPECIES
 
 #### Status
 ACCEPTED

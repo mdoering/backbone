@@ -1,5 +1,4 @@
-Lecanora tephroda (Hue) Zahlbr. SPECIES
-=======
+# Lecanora tephroda (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

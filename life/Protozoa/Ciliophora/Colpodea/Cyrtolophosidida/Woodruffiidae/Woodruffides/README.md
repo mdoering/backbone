@@ -1,5 +1,4 @@
-Woodruffides Foissner, 1987 GENUS
-=======
+# Woodruffides Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

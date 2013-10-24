@@ -1,5 +1,4 @@
-Favocassidulina fava SPECIES
-=======
+# Favocassidulina fava SPECIES
 
 #### Status
 ACCEPTED

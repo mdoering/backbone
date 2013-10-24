@@ -1,5 +1,4 @@
-Brigantiaea lobulata F. J. Walker & Hafellner SPECIES
-=======
+# Brigantiaea lobulata F. J. Walker & Hafellner SPECIES
 
 #### Status
 ACCEPTED

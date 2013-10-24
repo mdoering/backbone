@@ -1,5 +1,4 @@
-Pseudocyphellaria gainii (Hue) C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria gainii (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

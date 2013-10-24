@@ -1,14 +1,13 @@
-Androsaceus aciculaeformis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Androsaceus aciculiformis (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 43 (1903)
 
 #### Original name
 Marasmius aciculiformis Berk. & M.A. Curtis

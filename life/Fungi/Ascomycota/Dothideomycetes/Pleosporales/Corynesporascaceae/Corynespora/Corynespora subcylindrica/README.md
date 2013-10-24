@@ -1,5 +1,4 @@
-Corynespora subcylindrica V.M. Siqueira, U. Braun & C.M. Souza-Motta SPECIES
-=======
+# Corynespora subcylindrica V.M. Siqueira, U. Braun & C.M. Souza-Motta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma acutocystis Boidin & Gilles, 1991 SPECIES
-=======
+# Hyphoderma acutocystis Boidin & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

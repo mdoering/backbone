@@ -1,5 +1,4 @@
-Lecanora granulata (Vain.) Vain. SPECIES
-=======
+# Lecanora granulata (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

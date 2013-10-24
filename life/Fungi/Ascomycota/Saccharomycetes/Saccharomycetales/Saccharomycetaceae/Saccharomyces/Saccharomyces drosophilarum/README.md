@@ -1,17 +1,16 @@
-Rhodotorula mucilaginosa var. kentuckyii Giov. VARIETY
-=======
+# Saccharomyces drosophilarum Shehata, Mrak & Phaff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Mycologia 47(6): 804 (1956)
 
 #### Original name
-null
+Saccharomyces drosophilarum Shehata, Mrak & Phaff
 
 ### Remarks
 null

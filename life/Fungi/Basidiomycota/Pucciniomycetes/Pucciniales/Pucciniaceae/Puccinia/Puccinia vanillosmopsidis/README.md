@@ -1,5 +1,4 @@
-Puccinia vanillosmopsidis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia vanillosmopsidis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

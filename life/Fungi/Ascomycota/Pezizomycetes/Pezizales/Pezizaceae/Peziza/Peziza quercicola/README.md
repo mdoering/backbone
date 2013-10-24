@@ -1,5 +1,4 @@
-Peziza quercicola Fogel & States SPECIES
-=======
+# Peziza quercicola Fogel & States SPECIES
 
 #### Status
 ACCEPTED

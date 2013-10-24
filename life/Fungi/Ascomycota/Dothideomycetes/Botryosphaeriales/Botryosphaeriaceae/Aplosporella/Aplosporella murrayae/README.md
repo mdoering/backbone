@@ -1,5 +1,4 @@
-Aplosporella murrayae S. Ahmad SPECIES
-=======
+# Aplosporella murrayae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

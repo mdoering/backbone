@@ -1,5 +1,4 @@
-Blastenia confluens Müll. Arg. SPECIES
-=======
+# Blastenia confluens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

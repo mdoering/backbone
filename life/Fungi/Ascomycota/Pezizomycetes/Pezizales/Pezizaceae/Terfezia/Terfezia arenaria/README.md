@@ -1,17 +1,16 @@
-Terfezia leonis var. leonis VARIETY
-=======
+# Terfezia arenaria (Moris) Trappe, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Expl. Sci. Alg. , Bot. , Atlas 1: 432 (1895)
+Trans. Br. mycol. Soc. 57(1): 90 (1971)
 
 #### Original name
-Terfezia leonis var. leonis
+Tuber arenaria Moris, 1829
 
 ### Remarks
 null

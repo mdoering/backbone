@@ -1,5 +1,4 @@
-Epichloë eragrostis Pole-Evans SPECIES
-=======
+# Epichloë eragrostis Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

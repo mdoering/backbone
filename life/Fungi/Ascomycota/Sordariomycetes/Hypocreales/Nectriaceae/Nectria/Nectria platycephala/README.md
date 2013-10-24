@@ -1,5 +1,4 @@
-Nectria platycephala Brayford & Samuels, 1993 SPECIES
-=======
+# Nectria platycephala Brayford & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

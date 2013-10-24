@@ -1,5 +1,4 @@
-Phyllosticta cuestae Gonz. Frag. SPECIES
-=======
+# Phyllosticta cuestae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

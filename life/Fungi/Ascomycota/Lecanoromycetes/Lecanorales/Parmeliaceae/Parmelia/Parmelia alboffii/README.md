@@ -1,5 +1,4 @@
-Parmelia alboffii Du Rietz SPECIES
-=======
+# Parmelia alboffii Du Rietz SPECIES
 
 #### Status
 ACCEPTED

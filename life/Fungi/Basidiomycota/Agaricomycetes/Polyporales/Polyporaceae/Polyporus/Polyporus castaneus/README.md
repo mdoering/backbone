@@ -1,5 +1,4 @@
-Polyporus castaneus Fr. SPECIES
-=======
+# Polyporus castaneus Fr. SPECIES
 
 #### Status
 ACCEPTED

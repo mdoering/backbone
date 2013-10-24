@@ -1,5 +1,4 @@
-Rhaphidospora verminosa Mouton SPECIES
-=======
+# Rhaphidospora verminosa Mouton SPECIES
 
 #### Status
 ACCEPTED

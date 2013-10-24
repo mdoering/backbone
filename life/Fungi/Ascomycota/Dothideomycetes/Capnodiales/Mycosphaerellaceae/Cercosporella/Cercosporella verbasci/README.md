@@ -1,5 +1,4 @@
-Cercosporella verbasci Hollós SPECIES
-=======
+# Cercosporella verbasci Hollós SPECIES
 
 #### Status
 ACCEPTED

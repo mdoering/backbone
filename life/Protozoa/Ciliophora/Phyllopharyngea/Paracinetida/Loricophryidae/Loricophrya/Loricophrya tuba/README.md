@@ -1,5 +1,4 @@
-Loricophrya tuba (Zelinka, 1962) Curds, 1987 SPECIES
-=======
+# Loricophrya tuba (Zelinka, 1962) Curds, 1987 SPECIES
 
 #### Status
 ACCEPTED

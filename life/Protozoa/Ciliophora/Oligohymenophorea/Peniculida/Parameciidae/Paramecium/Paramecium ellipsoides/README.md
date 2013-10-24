@@ -1,5 +1,4 @@
-Paramecium ellipsoides Dumas, 1929 SPECIES
-=======
+# Paramecium ellipsoides Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

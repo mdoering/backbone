@@ -1,5 +1,4 @@
-Peziza difformis P. Karst. SPECIES
-=======
+# Peziza difformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus pyramidalis R.S. Dwivedi SPECIES
-=======
+# Aspergillus pyramidalis R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

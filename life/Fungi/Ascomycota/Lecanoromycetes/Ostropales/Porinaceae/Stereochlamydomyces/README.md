@@ -1,5 +1,4 @@
-Stereochlamydomyces GENUS
-=======
+# Stereochlamydomyces GENUS
 
 #### Status
 ACCEPTED

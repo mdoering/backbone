@@ -1,5 +1,4 @@
-Pouzaromyces erinaceus E. Horak SPECIES
-=======
+# Pouzaromyces erinaceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

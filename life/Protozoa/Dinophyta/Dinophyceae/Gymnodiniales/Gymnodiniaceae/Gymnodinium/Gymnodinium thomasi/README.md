@@ -1,5 +1,4 @@
-Gymnodinium thomasi Christen SPECIES
-=======
+# Gymnodinium thomasi Christen SPECIES
 
 #### Status
 ACCEPTED

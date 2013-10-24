@@ -1,5 +1,4 @@
-Crepidotus lingulatus Velen. SPECIES
-=======
+# Crepidotus lingulatus Velen. SPECIES
 
 #### Status
 ACCEPTED

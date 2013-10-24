@@ -1,5 +1,4 @@
-Peltula michoacanensis (B. de Lesd.) Wetmore SPECIES
-=======
+# Peltula michoacanensis (B. de Lesd.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

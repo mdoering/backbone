@@ -1,5 +1,4 @@
-Acarospora kidderi C.W. Dodge SPECIES
-=======
+# Acarospora kidderi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

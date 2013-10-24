@@ -1,5 +1,4 @@
-Parmelina coleae Argüello & A. Crespo SPECIES
-=======
+# Parmelina coleae Argüello & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

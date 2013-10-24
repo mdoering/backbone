@@ -1,5 +1,4 @@
-Estiastra flecha (Cramer & Díez, 1972) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Estiastra flecha (Cramer & Díez, 1972) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

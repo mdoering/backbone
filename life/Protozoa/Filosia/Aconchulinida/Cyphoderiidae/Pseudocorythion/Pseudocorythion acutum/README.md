@@ -1,8 +1,7 @@
-Corythion acutum Wailes, 1927 SPECIES
-=======
+# Pseudocorythion acutum (Wailes, 1927) Valkanov, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

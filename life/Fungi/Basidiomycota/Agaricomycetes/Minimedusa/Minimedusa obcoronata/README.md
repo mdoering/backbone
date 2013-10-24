@@ -1,17 +1,16 @@
-Tricellulortus pepoformis Matsush. SPECIES
-=======
+# Minimedusa obcoronata (B. Sutton, Kuthub. & Muid) Diederich, Lawrey & Heylen, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Diederich & Lawrey, Mycol. Progr. 6(2): 76 (2007)
 
 #### Original name
-Tricellulortus pepoformis Matsush.
+Pneumatospora obcoronata B. Sutton, Kuthub. & Muid, 1984
 
 ### Remarks
 null

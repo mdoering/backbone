@@ -1,5 +1,4 @@
-Genea echinospora Gilkey SPECIES
-=======
+# Genea echinospora Gilkey SPECIES
 
 #### Status
 ACCEPTED

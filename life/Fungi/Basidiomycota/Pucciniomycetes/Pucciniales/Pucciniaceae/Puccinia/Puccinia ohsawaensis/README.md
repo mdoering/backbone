@@ -1,5 +1,4 @@
-Puccinia ohsawaensis Kakish. SPECIES
-=======
+# Puccinia ohsawaensis Kakish. SPECIES
 
 #### Status
 ACCEPTED

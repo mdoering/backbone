@@ -1,5 +1,4 @@
-Tricyrtoidae FAMILY
-=======
+# Tricyrtoidae FAMILY
 
 #### Status
 ACCEPTED

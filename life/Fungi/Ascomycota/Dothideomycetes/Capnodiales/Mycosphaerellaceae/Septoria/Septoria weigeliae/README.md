@@ -1,5 +1,4 @@
-Septoria weigeliae Kabát & Bubák SPECIES
-=======
+# Septoria weigeliae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

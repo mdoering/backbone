@@ -1,5 +1,4 @@
-Caloplaca gyalectoides S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca gyalectoides S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

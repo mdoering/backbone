@@ -1,5 +1,4 @@
-Arthonia chiodectella Nyl. SPECIES
-=======
+# Arthonia chiodectella Nyl. SPECIES
 
 #### Status
 ACCEPTED

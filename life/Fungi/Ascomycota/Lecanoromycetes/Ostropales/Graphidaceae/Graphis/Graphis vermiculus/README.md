@@ -1,5 +1,4 @@
-Graphis vermiculus (Fée) Kremp. SPECIES
-=======
+# Graphis vermiculus (Fée) Kremp. SPECIES
 
 #### Status
 ACCEPTED

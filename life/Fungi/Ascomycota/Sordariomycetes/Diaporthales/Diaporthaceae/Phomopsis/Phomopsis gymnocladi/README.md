@@ -1,5 +1,4 @@
-Phomopsis gymnocladi Byzova SPECIES
-=======
+# Phomopsis gymnocladi Byzova SPECIES
 
 #### Status
 ACCEPTED

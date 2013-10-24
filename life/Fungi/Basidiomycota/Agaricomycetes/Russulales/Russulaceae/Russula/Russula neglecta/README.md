@@ -1,5 +1,4 @@
-Russula neglecta Singer SPECIES
-=======
+# Russula neglecta Singer SPECIES
 
 #### Status
 ACCEPTED

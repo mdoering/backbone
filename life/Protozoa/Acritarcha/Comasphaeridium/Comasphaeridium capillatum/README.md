@@ -1,5 +1,4 @@
-Comasphaeridium capillatum Courtinat & Gaillard, 1980 SPECIES
-=======
+# Comasphaeridium capillatum Courtinat & Gaillard, 1980 SPECIES
 
 #### Status
 ACCEPTED

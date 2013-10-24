@@ -1,5 +1,4 @@
-Omphalia verna Lucien SPECIES
-=======
+# Omphalia verna Lucien SPECIES
 
 #### Status
 ACCEPTED

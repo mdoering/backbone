@@ -1,5 +1,4 @@
-Lopharia bambusae Rick SPECIES
-=======
+# Lopharia bambusae Rick SPECIES
 
 #### Status
 ACCEPTED

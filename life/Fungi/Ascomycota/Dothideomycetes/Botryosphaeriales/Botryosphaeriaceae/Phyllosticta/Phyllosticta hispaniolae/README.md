@@ -1,5 +1,4 @@
-Phyllosticta hispaniolae Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta hispaniolae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

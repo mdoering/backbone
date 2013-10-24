@@ -1,5 +1,4 @@
-Sphaeria zosterae Schmalh. SPECIES
-=======
+# Sphaeria zosterae Schmalh. SPECIES
 
 #### Status
 ACCEPTED

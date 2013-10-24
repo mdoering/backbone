@@ -1,5 +1,4 @@
-Caloplaca phyllidizans Wetmore SPECIES
-=======
+# Caloplaca phyllidizans Wetmore SPECIES
 
 #### Status
 ACCEPTED

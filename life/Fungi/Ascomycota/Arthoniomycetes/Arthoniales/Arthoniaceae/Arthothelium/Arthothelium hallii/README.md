@@ -1,5 +1,4 @@
-Arthothelium hallii (Tuck.) Zahlbr. SPECIES
-=======
+# Arthothelium hallii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

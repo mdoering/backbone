@@ -1,5 +1,4 @@
-Hysterographium lesquereuxii (Duby) Sacc. SPECIES
-=======
+# Hysterographium lesquereuxii (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

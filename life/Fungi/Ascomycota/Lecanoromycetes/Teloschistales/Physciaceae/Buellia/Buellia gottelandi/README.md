@@ -1,5 +1,4 @@
-Buellia gottelandi Maheu & Werner SPECIES
-=======
+# Buellia gottelandi Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

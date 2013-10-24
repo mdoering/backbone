@@ -1,5 +1,4 @@
-Salinibacter Anton, Oren, Benlloch, Rodriguez-Valera, Amann & Rossello-Mora, 2002 GENUS
-=======
+# Salinibacter Anton, Oren, Benlloch, Rodriguez-Valera, Amann & Rossello-Mora, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adomia S. Schatz GENUS
-=======
+# Adomia S. Schatz GENUS
 
 #### Status
 ACCEPTED

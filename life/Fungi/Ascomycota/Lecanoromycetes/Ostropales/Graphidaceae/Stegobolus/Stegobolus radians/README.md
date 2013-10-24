@@ -1,5 +1,4 @@
-Stegobolus radians (Müll. Arg.) Frisch SPECIES
-=======
+# Stegobolus radians (Müll. Arg.) Frisch SPECIES
 
 #### Status
 ACCEPTED

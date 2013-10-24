@@ -1,5 +1,4 @@
-Leptosphaeria crastophila f. crastophila FORM
-=======
+# Leptosphaeria crastophila (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 61 (1883)
 
 #### Original name
-Leptosphaeria crastophila f. crastophila
+Sphaerella crastophila Sacc.
 
 ### Remarks
 null

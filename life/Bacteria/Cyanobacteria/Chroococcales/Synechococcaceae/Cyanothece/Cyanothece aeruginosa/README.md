@@ -1,8 +1,7 @@
-Synechococcus aeruginosus Nägeli SPECIES
-=======
+# Cyanothece aeruginosa (Nägeli) Komàrek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

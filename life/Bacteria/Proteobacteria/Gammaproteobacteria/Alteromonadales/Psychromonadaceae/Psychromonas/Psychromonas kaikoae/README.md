@@ -1,5 +1,4 @@
-Psychromonas kaikoae Nogi et al., 2002 SPECIES
-=======
+# Psychromonas kaikoae Nogi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

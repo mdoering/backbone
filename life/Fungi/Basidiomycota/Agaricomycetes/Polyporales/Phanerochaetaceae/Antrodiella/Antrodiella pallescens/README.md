@@ -1,5 +1,4 @@
-Antrodiella pallescens (Pilát) Niemelä & Miettinen SPECIES
-=======
+# Antrodiella pallescens (Pilát) Niemelä & Miettinen SPECIES
 
 #### Status
 ACCEPTED

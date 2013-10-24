@@ -1,5 +1,4 @@
-Mollisia subglobosa Rodway SPECIES
-=======
+# Mollisia subglobosa Rodway SPECIES
 
 #### Status
 ACCEPTED

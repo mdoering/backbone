@@ -1,5 +1,4 @@
-Tyromyces atroalbus (Rick) Rajchenb. SPECIES
-=======
+# Tyromyces atroalbus (Rick) Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

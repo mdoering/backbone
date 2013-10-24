@@ -1,5 +1,4 @@
-Tretospora xeromphiicola Arch. Singh, S.K. Singh, R.K. Chaudhary & Budathoki, 1994 SPECIES
-=======
+# Tretospora xeromphiicola Arch. Singh, S.K. Singh, R.K. Chaudhary & Budathoki, 1994 SPECIES
 
 #### Status
 ACCEPTED

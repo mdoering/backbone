@@ -1,5 +1,4 @@
-Puccinia elata J.C. Lindq. SPECIES
-=======
+# Puccinia elata J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

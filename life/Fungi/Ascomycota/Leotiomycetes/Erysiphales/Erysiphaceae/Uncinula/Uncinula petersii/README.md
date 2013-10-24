@@ -1,5 +1,4 @@
-Uncinula petersii Seym. SPECIES
-=======
+# Uncinula petersii Seym. SPECIES
 
 #### Status
 ACCEPTED

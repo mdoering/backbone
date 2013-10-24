@@ -1,14 +1,13 @@
-Scindalma everhartii (Ellis & Galloway) Kuntze, 1898 SPECIES
-=======
+# Phellinus everhartii (Ellis & Galloway) Pilát, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 518 (1898)
+Atlas des Champignons de l'Europe, Polyporaceae 3(1): 522 (1942)
 
 #### Original name
 Mucronoporus everhartii Ellis & Galloway, 1889

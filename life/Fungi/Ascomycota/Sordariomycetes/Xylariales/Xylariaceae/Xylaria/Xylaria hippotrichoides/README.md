@@ -1,5 +1,4 @@
-Xylaria hippotrichoides (Sowerby) Sacc., 1882 SPECIES
-=======
+# Xylaria hippotrichoides (Sowerby) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

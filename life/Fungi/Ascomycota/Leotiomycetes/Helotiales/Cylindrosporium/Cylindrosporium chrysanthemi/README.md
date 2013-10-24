@@ -1,5 +1,4 @@
-Cylindrosporium chrysanthemi Ellis & Dearn. SPECIES
-=======
+# Cylindrosporium chrysanthemi Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

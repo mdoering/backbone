@@ -1,5 +1,4 @@
-Angulochrysis Lackey, 1940 GENUS
-=======
+# Angulochrysis Lackey, 1940 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphostroma Piroz. GENUS
-=======
+# Graphostroma Piroz. GENUS
 
 #### Status
 ACCEPTED

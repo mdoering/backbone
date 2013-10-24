@@ -1,5 +1,4 @@
-Protodontia fascicularis (Alb. & Schwein.) Pilát ex Wojewoda SPECIES
-=======
+# Protodontia fascicularis (Alb. & Schwein.) Pilát ex Wojewoda SPECIES
 
 #### Status
 ACCEPTED

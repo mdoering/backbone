@@ -1,5 +1,4 @@
-Scolecostigmina flagellariae R.G. Shivas & U. Braun SPECIES
-=======
+# Scolecostigmina flagellariae R.G. Shivas & U. Braun SPECIES
 
 #### Status
 ACCEPTED

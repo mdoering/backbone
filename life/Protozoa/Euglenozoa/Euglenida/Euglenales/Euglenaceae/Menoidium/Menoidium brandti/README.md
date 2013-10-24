@@ -1,5 +1,4 @@
-Menoidium brandti SPECIES
-=======
+# Menoidium brandti SPECIES
 
 #### Status
 ACCEPTED

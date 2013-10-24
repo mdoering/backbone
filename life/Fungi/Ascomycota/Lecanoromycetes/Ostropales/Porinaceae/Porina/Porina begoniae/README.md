@@ -1,5 +1,4 @@
-Porina begoniae Müll. Arg. SPECIES
-=======
+# Porina begoniae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

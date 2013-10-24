@@ -1,5 +1,4 @@
-Polyblastia peltophora (Stirt.) A.L. Sm. SPECIES
-=======
+# Polyblastia peltophora (Stirt.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

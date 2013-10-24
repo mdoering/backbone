@@ -1,14 +1,13 @@
-Paraparmelia adusta (Kurok.) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia adusta (Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
+Mycotaxon 87: 397 (2003)
 
 #### Original name
 Parmelia adusta Kurok.

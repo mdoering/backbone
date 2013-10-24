@@ -1,5 +1,4 @@
-Iorella Lipa, 1967 GENUS
-=======
+# Iorella Lipa, 1967 GENUS
 
 #### Status
 ACCEPTED

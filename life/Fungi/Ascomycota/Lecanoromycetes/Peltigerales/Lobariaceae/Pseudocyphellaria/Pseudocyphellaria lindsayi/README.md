@@ -1,5 +1,4 @@
-Pseudocyphellaria lindsayi D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria lindsayi D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

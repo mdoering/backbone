@@ -1,5 +1,4 @@
-Russula velutina (Bres.) Buyck SPECIES
-=======
+# Russula velutina (Bres.) Buyck SPECIES
 
 #### Status
 ACCEPTED

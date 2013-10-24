@@ -1,5 +1,4 @@
-Dermocybe carpineti M.M. Moser SPECIES
-=======
+# Dermocybe carpineti M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

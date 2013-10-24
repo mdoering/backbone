@@ -1,5 +1,4 @@
-Dictyolus GENUS
-=======
+# Dictyolus GENUS
 
 #### Status
 ACCEPTED

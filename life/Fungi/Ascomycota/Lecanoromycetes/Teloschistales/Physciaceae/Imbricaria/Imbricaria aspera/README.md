@@ -1,5 +1,4 @@
-Imbricaria aspera (A. Massal.) Körb. SPECIES
-=======
+# Imbricaria aspera (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

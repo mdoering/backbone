@@ -1,5 +1,4 @@
-Grammothelopsis Jülich GENUS
-=======
+# Grammothelopsis Jülich GENUS
 
 #### Status
 ACCEPTED

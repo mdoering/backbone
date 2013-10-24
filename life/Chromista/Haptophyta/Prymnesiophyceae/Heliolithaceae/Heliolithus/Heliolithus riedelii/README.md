@@ -1,5 +1,4 @@
-Heliolithus riedelii Bramlette & Sullivan, 1961 SPECIES
-=======
+# Heliolithus riedelii Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

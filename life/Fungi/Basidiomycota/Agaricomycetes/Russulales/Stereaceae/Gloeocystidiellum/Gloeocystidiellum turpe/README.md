@@ -1,14 +1,13 @@
-Gloiothele turpis (G.W. Freeman) Hjortstam, 1987 SPECIES
-=======
+# Gloeocystidiellum turpe G.W. Freeman, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Windahlia 17: 58 (1987)
+in Burdsall, Nakasone & Freeman, Syst. Bot. 6(4): 430 (1981)
 
 #### Original name
 Gloeocystidiellum turpe G.W. Freeman, 1981

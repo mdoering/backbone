@@ -1,5 +1,4 @@
-Thelephora exsculpta Berk. SPECIES
-=======
+# Thelephora exsculpta Berk. SPECIES
 
 #### Status
 ACCEPTED

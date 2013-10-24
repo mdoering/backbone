@@ -1,17 +1,16 @@
-Teichospora vitalbae var. vitalbae VARIETY
-=======
+# Pleospora vitalbae (De Not.) Berl., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 295 (1883)
+Nuovo Giorn. Bot. Ital. 20: 70 (1888)
 
 #### Original name
-Teichospora vitalbae var. vitalbae
+Sphaeria vitalbae De Not., 1863
 
 ### Remarks
 null

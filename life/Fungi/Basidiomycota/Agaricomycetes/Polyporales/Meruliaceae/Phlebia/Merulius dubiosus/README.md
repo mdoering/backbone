@@ -1,5 +1,4 @@
-Merulius dubiosus var. dubiosus Bres. VARIETY
-=======
+# Merulius dubiosus Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria 7: 9 (1938)
 
 #### Original name
-Merulius dubiosus var. dubiosus Bres.
+Merulius dubiosus Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uromyces dactylocteniicola (Speg.) J.C. Lindq. SPECIES
-=======
+# Uromyces dactylocteniicola (Speg.) J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina tetragoniae Speg. SPECIES
-=======
+# Cercosporina tetragoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

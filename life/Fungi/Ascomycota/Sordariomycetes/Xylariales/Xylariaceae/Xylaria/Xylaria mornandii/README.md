@@ -1,5 +1,4 @@
-Xylaria mornandii Bertault SPECIES
-=======
+# Xylaria mornandii Bertault SPECIES
 
 #### Status
 ACCEPTED

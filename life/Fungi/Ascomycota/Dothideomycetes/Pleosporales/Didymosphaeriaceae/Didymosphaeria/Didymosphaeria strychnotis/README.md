@@ -1,5 +1,4 @@
-Didymosphaeria strychnotis S.M. Lin & P.K. Chi SPECIES
-=======
+# Didymosphaeria strychnotis S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helicodendron triglitziensis (Jaap) Linder SPECIES
-=======
+# Helicodendron triglitziense (Jaap) Linder, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 16: 330 (1929)
 
 #### Original name
 Helicomyces triglitziensis Jaap, 1916

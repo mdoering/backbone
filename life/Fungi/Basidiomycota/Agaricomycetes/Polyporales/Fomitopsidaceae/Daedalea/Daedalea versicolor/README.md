@@ -1,5 +1,4 @@
-Daedalea versicolor (J.J. Planer) Secr. SPECIES
-=======
+# Daedalea versicolor (J.J. Planer) Secr. SPECIES
 
 #### Status
 ACCEPTED

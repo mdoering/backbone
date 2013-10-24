@@ -1,5 +1,4 @@
-Penicillium ramosius Grove SPECIES
-=======
+# Penicillium ramosius Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus salmoneus Har. & Pat. SPECIES
-=======
+# Cantharellus salmoneus Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

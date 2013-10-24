@@ -1,5 +1,4 @@
-Semivulvulina Finlay, 1939 GENUS
-=======
+# Semivulvulina Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

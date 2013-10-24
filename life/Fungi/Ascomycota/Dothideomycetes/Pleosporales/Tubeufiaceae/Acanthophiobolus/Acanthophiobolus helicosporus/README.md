@@ -1,17 +1,16 @@
-Ophiobolus chaetophorus (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Acanthophiobolus helicosporus (Berk. & Broome) J. Walker, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 58(3): 445 (1972)
 
 #### Original name
-Sphaeria chaetophora P. Crouan & H. Crouan, 1867
+Sphaeria helicospora Berk. & Broome, 1852
 
 ### Remarks
 null

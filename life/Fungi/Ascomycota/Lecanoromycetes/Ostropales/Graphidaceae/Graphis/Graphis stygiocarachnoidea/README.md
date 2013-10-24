@@ -1,5 +1,4 @@
-Graphis stygiocarachnoidea M. Wirth & Hale SPECIES
-=======
+# Graphis stygiocarachnoidea M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

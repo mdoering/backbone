@@ -1,5 +1,4 @@
-Trigonium alternans (J.W. Bailey) A. Mann SPECIES
-=======
+# Trigonium alternans (J.W. Bailey) A. Mann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum tablense Halling & G.M. Muell. SPECIES
-=======
+# Leccinum tablense Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

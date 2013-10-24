@@ -1,5 +1,4 @@
-Psora Hoffmann, 1796 GENUS
-=======
+# Psora Hoffmann, 1796 GENUS
 
 #### Status
 ACCEPTED

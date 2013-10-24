@@ -1,17 +1,16 @@
-Thecaphora haumani Speg. SPECIES
-=======
+# Thecaphora haumanii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Argent. Bot. 1(2-3): 150 (1925)
 
 #### Original name
-Thecaphora haumani Speg.
+Thecaphora haumanii Speg.
 
 ### Remarks
 null

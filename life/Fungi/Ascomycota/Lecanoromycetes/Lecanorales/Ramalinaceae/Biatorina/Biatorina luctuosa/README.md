@@ -1,5 +1,4 @@
-Biatorina luctuosa Anzi SPECIES
-=======
+# Biatorina luctuosa Anzi SPECIES
 
 #### Status
 ACCEPTED

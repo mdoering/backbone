@@ -1,5 +1,4 @@
-Cucurbitariopsis R. Beck, 1882 GENUS
-=======
+# Cucurbitariopsis R. Beck, 1882 GENUS
 
 #### Status
 ACCEPTED

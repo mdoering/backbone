@@ -1,5 +1,4 @@
-Mycena hygrophora G. Stev., 1964 SPECIES
-=======
+# Mycena hygrophora G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia fuscolilacina Peck SPECIES
-=======
+# Collybia fuscolilacina Peck SPECIES
 
 #### Status
 ACCEPTED

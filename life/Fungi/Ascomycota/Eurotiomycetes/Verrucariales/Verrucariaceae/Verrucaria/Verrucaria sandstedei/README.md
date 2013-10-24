@@ -1,17 +1,16 @@
-Verrucaria lorrain-smithiae M. Knowles SPECIES
-=======
+# Verrucaria sandstedei B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scientific Proc. R. Dublin Soc. , N. S. 14: 138 (1913)
+Bull. Soc. bot. Fr. 58: 662 (1911)
 
 #### Original name
-Verrucaria lorrain-smithiae M. Knowles
+Verrucaria sandstedei B. de Lesd.
 
 ### Remarks
 null

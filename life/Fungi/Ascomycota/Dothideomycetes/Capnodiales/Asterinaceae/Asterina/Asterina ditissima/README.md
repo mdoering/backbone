@@ -1,5 +1,4 @@
-Asterina ditissima Syd. & P. Syd., 1917 SPECIES
-=======
+# Asterina ditissima Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloniella perexigua (Speg.) Sacc. SPECIES
-=======
+# Gloniella perexigua (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

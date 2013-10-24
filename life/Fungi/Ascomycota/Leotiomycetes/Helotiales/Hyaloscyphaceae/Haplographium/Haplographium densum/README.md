@@ -1,5 +1,4 @@
-Haplographium densum Sacc. SPECIES
-=======
+# Haplographium densum Sacc. SPECIES
 
 #### Status
 ACCEPTED

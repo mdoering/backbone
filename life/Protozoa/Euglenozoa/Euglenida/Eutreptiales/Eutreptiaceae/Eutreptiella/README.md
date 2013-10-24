@@ -1,14 +1,13 @@
-Gymnastica Schiller, 1925 GENUS
-=======
+# Eutreptiella A.da Cunha, 1914 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brazil-Medico, 27, 203.
 
 #### Original name
 null

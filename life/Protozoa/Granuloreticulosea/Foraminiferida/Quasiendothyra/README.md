@@ -1,5 +1,4 @@
-Quasiendothyra Rauzer-Chernousova, 1948 GENUS
-=======
+# Quasiendothyra Rauzer-Chernousova, 1948 GENUS
 
 #### Status
 ACCEPTED

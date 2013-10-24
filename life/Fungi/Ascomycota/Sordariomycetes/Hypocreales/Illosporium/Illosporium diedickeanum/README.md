@@ -1,5 +1,4 @@
-Illosporium diedickeanum Sacc. SPECIES
-=======
+# Illosporium diedickeanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

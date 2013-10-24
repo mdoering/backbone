@@ -1,5 +1,4 @@
-Lactifluus albidus (Peck) Kuntze SPECIES
-=======
+# Lactifluus albidus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

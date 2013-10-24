@@ -1,5 +1,4 @@
-Verrucaria dissipata Erichsen SPECIES
-=======
+# Verrucaria dissipata Erichsen SPECIES
 
 #### Status
 ACCEPTED

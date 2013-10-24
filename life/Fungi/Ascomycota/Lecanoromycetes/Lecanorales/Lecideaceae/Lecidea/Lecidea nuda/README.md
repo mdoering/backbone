@@ -1,5 +1,4 @@
-Lecidea nuda Malme SPECIES
-=======
+# Lecidea nuda Malme SPECIES
 
 #### Status
 ACCEPTED

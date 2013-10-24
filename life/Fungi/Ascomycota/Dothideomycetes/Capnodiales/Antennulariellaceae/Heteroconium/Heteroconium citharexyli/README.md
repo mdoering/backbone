@@ -1,5 +1,4 @@
-Heteroconium citharexyli Petr., 1949 SPECIES
-=======
+# Heteroconium citharexyli Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

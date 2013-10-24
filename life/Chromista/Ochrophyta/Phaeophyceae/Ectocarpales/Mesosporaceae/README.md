@@ -1,5 +1,4 @@
-Mesosporaceae J. Tanaka & Chihara, 1982 FAMILY
-=======
+# Mesosporaceae J. Tanaka & Chihara, 1982 FAMILY
 
 #### Status
 ACCEPTED

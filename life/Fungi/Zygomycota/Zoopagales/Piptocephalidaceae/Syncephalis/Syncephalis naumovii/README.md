@@ -1,5 +1,4 @@
-Syncephalis naumovii Cano & Guarro SPECIES
-=======
+# Syncephalis naumovii Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

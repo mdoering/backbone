@@ -1,8 +1,7 @@
-Mikrokkokus catarrhalis Frosch & Kolle in Flügge, 1896 SPECIES
-=======
+# Mikrokkokus GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

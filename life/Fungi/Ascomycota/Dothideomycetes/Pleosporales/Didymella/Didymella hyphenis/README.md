@@ -1,14 +1,13 @@
-Sphaeria hyphenis Cooke, 1871 SPECIES
-=======
+# Didymella hyphenis (Cooke) Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2688 (1871)
+Michelia 2(no. 7): 316 (1881)
 
 #### Original name
 Sphaeria hyphenis Cooke, 1871

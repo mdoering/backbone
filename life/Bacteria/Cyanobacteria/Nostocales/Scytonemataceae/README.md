@@ -1,5 +1,4 @@
-Scytonemataceae Tomas. FAMILY
-=======
+# Scytonemataceae Tomas. FAMILY
 
 #### Status
 ACCEPTED

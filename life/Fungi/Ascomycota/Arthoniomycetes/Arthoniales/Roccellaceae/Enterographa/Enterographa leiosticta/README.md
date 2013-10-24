@@ -1,5 +1,4 @@
-Enterographa leiosticta (Nyl.) Redinger SPECIES
-=======
+# Enterographa leiosticta (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius lilacinofulvus Cleland SPECIES
-=======
+# Cortinarius lilacinofulvus Cleland SPECIES
 
 #### Status
 ACCEPTED

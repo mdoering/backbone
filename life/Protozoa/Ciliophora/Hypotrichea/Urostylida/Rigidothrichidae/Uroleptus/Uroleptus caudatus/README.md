@@ -1,8 +1,7 @@
-Holosticha caudata Stokes, 1886 SPECIES
-=======
+# Uroleptus caudatus (Stokes, 1886) Bardele, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

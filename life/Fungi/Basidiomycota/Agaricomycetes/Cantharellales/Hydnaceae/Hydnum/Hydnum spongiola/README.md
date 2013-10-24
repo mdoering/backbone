@@ -1,5 +1,4 @@
-Hydnum spongiola Sacc. SPECIES
-=======
+# Hydnum spongiola Sacc. SPECIES
 
 #### Status
 ACCEPTED

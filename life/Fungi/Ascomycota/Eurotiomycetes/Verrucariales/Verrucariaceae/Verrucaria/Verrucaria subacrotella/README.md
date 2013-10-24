@@ -1,5 +1,4 @@
-Verrucaria subacrotella Werner SPECIES
-=======
+# Verrucaria subacrotella Werner SPECIES
 
 #### Status
 ACCEPTED

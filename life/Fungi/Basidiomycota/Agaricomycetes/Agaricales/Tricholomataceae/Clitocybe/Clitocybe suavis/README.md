@@ -1,5 +1,4 @@
-Clitocybe suavis Velen. SPECIES
-=======
+# Clitocybe suavis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Atelocauda angustiphylloda D.E. Gardner SPECIES
-=======
+# Endoraecium angustiphyllodium (D.E. Gardner) M. Scholler & Aime, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 47(3): 163 (2006)
 
 #### Original name
-Atelocauda angustiphylloda D.E. Gardner
+Atelocauda angustiphyllodia D.E. Gardner, 1991
 
 ### Remarks
 null

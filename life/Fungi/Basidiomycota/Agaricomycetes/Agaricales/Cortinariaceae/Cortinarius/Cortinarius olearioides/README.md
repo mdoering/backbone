@@ -1,17 +1,16 @@
-Cortinarius fulgens subsp. fulgens SUBSPECIES
-=======
+# Cortinarius olearioides Rob. Henry, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 267 (1838)
+Docums Mycol. 17(no. 68): 36 (1987)
 
 #### Original name
-Agaricus fulgens Alb. & Schwein.
+Cortinarius olearioides Rob. Henry, 1987
 
 ### Remarks
 null

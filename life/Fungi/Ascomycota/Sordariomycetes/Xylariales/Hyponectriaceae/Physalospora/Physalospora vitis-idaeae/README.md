@@ -1,5 +1,4 @@
-Physalospora vitis-idaeae Rehm, 1906 SPECIES
-=======
+# Physalospora vitis-idaeae Rehm, 1906 SPECIES
 
 #### Status
 ACCEPTED

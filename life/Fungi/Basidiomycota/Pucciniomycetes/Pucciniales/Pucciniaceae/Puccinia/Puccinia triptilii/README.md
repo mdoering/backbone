@@ -1,5 +1,4 @@
-Puccinia triptilii Mont. SPECIES
-=======
+# Puccinia triptilii Mont. SPECIES
 
 #### Status
 ACCEPTED

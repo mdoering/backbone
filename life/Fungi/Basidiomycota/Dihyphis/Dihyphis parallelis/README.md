@@ -1,5 +1,4 @@
-Dihyphis parallelis Locq. SPECIES
-=======
+# Dihyphis parallelis Locq. SPECIES
 
 #### Status
 ACCEPTED

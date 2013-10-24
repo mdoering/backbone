@@ -1,17 +1,16 @@
-Lactarius cilicioides var. cilicioides VARIETY
-=======
+# Lactarius citriolens Pouzar, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 334 (1838)
+Ceská Mykol. 22: 20 (1968)
 
 #### Original name
-Agaricus cilicioides Fr.
+Lactarius citriolens Pouzar, 1968
 
 ### Remarks
 null

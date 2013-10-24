@@ -1,5 +1,4 @@
-Guignardia fulvida F.R. Sand., 1965 SPECIES
-=======
+# Guignardia fulvida F.R. Sand., 1965 SPECIES
 
 #### Status
 ACCEPTED

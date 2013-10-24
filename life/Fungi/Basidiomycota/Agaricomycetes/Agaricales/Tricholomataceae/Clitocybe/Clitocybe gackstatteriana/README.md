@@ -1,5 +1,4 @@
-Clitocybe gackstatteriana Raithelh. SPECIES
-=======
+# Clitocybe gackstatteriana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

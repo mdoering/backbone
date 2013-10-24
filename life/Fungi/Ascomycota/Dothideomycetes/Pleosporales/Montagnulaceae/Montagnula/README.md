@@ -1,5 +1,4 @@
-Montagnula Berl. GENUS
-=======
+# Montagnula Berl. GENUS
 
 #### Status
 ACCEPTED

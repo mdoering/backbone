@@ -1,5 +1,4 @@
-Ascochytula asparagi Sandu SPECIES
-=======
+# Ascochytula asparagi Sandu SPECIES
 
 #### Status
 ACCEPTED

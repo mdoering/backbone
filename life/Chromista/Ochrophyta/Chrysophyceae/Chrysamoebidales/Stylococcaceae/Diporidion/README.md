@@ -1,5 +1,4 @@
-Diporidion Pascher, 1940 GENUS
-=======
+# Diporidion Pascher, 1940 GENUS
 
 #### Status
 SYNONYM

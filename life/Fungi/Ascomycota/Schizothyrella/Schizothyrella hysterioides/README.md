@@ -1,5 +1,4 @@
-Schizothyrella hysterioides G.F. Atk. SPECIES
-=======
+# Schizothyrella hysterioides G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

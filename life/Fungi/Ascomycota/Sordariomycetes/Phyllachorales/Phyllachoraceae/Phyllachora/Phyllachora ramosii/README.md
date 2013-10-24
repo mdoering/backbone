@@ -1,14 +1,13 @@
-Puiggarina ramosi (Henn.) Speg. SPECIES
-=======
+# Phyllachora ramosii (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(5/6): 497 (1915)
 
 #### Original name
 Physalospora ramosii Henn., 1908

@@ -1,5 +1,4 @@
-Peronospora ziziphorae Byzova SPECIES
-=======
+# Peronospora ziziphorae Byzova SPECIES
 
 #### Status
 ACCEPTED

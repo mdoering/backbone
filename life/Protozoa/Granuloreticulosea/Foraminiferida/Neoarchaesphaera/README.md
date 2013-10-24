@@ -1,5 +1,4 @@
-Neoarchaesphaera Miklukho-Maklai in Miklukho-Maklai, 1958 GENUS
-=======
+# Neoarchaesphaera Miklukho-Maklai in Miklukho-Maklai, 1958 GENUS
 
 #### Status
 ACCEPTED

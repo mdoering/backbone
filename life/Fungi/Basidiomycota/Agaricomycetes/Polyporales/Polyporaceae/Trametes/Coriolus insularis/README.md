@@ -1,5 +1,4 @@
-Coriolus insularis W.B. Cooke & Bonar SPECIES
-=======
+# Coriolus insularis W.B. Cooke & Bonar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geobacter psychrophilus Nevin et al., 2005 SPECIES
-=======
+# Geobacter psychrophilus Nevin et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

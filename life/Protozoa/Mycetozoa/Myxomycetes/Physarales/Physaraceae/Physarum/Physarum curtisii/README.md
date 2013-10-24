@@ -1,5 +1,4 @@
-Physarum curtisii (Berk.) Berl. SPECIES
-=======
+# Physarum curtisii (Berk.) Berl. SPECIES
 
 #### Status
 ACCEPTED

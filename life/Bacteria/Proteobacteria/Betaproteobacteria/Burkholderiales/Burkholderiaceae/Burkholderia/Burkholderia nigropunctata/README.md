@@ -1,5 +1,4 @@
-Burkholderia nigropunctata Van Oevelen et al., 2004. SPECIES
-=======
+# Burkholderia nigropunctata Van Oevelen et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

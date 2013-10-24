@@ -1,5 +1,4 @@
-Botrytis flavida Mart. SPECIES
-=======
+# Botrytis flavida Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana auriformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana auriformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia pallida (Ellis & Everh.) Sacc. SPECIES
-=======
+# Monochaetia pallida (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

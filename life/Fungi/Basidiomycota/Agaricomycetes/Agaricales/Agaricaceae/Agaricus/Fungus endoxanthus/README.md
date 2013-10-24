@@ -1,5 +1,4 @@
-Fungus endoxanthus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus endoxanthus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

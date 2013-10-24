@@ -1,5 +1,4 @@
-Dendrothele itihummensis Gilb. & M. Blackw., 1985 SPECIES
-=======
+# Dendrothele itihummensis Gilb. & M. Blackw., 1985 SPECIES
 
 #### Status
 ACCEPTED

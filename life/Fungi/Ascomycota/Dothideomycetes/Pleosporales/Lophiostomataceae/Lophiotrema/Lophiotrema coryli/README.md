@@ -1,5 +1,4 @@
-Lophiotrema coryli Fabre SPECIES
-=======
+# Lophiotrema coryli Fabre SPECIES
 
 #### Status
 ACCEPTED

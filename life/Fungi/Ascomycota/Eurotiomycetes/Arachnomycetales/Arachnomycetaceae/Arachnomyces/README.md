@@ -1,5 +1,4 @@
-Arachnomyces Massee & E.S. Salmon GENUS
-=======
+# Arachnomyces Massee & E.S. Salmon GENUS
 
 #### Status
 ACCEPTED

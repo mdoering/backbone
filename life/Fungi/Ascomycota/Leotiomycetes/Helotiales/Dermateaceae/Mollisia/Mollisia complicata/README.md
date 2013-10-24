@@ -1,5 +1,4 @@
-Mollisia complicata P. Karst. SPECIES
-=======
+# Mollisia complicata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

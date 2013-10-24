@@ -1,5 +1,4 @@
-Lopadium cacuminum H. Magn. SPECIES
-=======
+# Lopadium cacuminum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

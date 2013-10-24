@@ -1,5 +1,4 @@
-Camarosporium nitrariae Murashk. SPECIES
-=======
+# Camarosporium nitrariae Murashk. SPECIES
 
 #### Status
 ACCEPTED

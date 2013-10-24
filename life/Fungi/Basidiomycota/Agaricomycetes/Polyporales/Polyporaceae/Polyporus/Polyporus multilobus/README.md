@@ -1,5 +1,4 @@
-Polyporus multilobus Kalchbr. SPECIES
-=======
+# Polyporus multilobus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavispora Rodrigues de Miranda, 1979 GENUS
-=======
+# Clavispora Rodrigues de Miranda, 1979 GENUS
 
 #### Status
 ACCEPTED

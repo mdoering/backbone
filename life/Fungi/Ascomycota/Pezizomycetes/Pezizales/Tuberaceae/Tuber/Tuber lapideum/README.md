@@ -1,5 +1,4 @@
-Tuber lapideum Mattir. SPECIES
-=======
+# Tuber lapideum Mattir. SPECIES
 
 #### Status
 ACCEPTED

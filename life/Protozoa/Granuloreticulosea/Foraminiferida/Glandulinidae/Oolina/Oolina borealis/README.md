@@ -1,5 +1,4 @@
-Oolina borealis SPECIES
-=======
+# Oolina borealis SPECIES
 
 #### Status
 ACCEPTED

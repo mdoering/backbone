@@ -1,5 +1,4 @@
-Pluteus puberulus Velen. SPECIES
-=======
+# Pluteus puberulus Velen. SPECIES
 
 #### Status
 ACCEPTED

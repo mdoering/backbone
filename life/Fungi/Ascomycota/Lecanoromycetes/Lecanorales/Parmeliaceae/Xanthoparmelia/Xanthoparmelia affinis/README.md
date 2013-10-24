@@ -1,5 +1,4 @@
-Xanthoparmelia affinis Hale SPECIES
-=======
+# Xanthoparmelia affinis Hale SPECIES
 
 #### Status
 ACCEPTED

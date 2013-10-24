@@ -1,5 +1,4 @@
-Corticium crispatum Speg. SPECIES
-=======
+# Corticium crispatum Speg. SPECIES
 
 #### Status
 ACCEPTED

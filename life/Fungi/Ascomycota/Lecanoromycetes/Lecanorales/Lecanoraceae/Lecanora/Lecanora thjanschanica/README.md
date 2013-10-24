@@ -1,5 +1,4 @@
-Lecanora thjanschanica SPECIES
-=======
+# Lecanora thjanschanica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora dolgei Chardón, 1934 SPECIES
-=======
+# Phyllachora dolgei Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

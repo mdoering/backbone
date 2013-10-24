@@ -1,5 +1,4 @@
-Eoeponidella nitidula SPECIES
-=======
+# Eoeponidella nitidula SPECIES
 
 #### Status
 ACCEPTED

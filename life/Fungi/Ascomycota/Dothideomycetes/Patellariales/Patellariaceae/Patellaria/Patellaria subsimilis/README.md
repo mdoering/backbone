@@ -1,5 +1,4 @@
-Patellaria subsimilis Müll. Arg. SPECIES
-=======
+# Patellaria subsimilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

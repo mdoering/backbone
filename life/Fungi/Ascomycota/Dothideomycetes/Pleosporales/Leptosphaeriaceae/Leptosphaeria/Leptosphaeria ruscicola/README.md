@@ -1,5 +1,4 @@
-Leptosphaeria ruscicola f. ruscicola FORM
-=======
+# Leptosphaeria ruscicola P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria ruscicola f. ruscicola
+Leptosphaeria ruscicola P. Karst. & Har.
 
 ### Remarks
 null

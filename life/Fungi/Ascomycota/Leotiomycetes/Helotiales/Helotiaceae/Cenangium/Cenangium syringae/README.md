@@ -1,5 +1,4 @@
-Cenangium syringae Fuckel SPECIES
-=======
+# Cenangium syringae Fuckel SPECIES
 
 #### Status
 ACCEPTED

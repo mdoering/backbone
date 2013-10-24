@@ -1,5 +1,4 @@
-Petalospiris Bury, 1862 GENUS
-=======
+# Petalospiris Bury, 1862 GENUS
 
 #### Status
 ACCEPTED

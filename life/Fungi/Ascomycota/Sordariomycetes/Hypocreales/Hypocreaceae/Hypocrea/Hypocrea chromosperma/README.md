@@ -1,5 +1,4 @@
-Hypocrea chromosperma M.A. Curtis & Peck SPECIES
-=======
+# Hypocrea chromosperma M.A. Curtis & Peck SPECIES
 
 #### Status
 ACCEPTED

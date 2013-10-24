@@ -1,5 +1,4 @@
-Russula polonica Steinhaus SPECIES
-=======
+# Russula polonica Steinhaus SPECIES
 
 #### Status
 ACCEPTED

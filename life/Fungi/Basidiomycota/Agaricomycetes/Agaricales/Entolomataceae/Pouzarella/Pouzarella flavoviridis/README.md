@@ -1,14 +1,13 @@
-Pouzarella flavoviride (Peck) Mazzer SPECIES
-=======
+# Pouzarella flavoviridis (Peck) Mazzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 46: 80 (1976)
 
 #### Original name
 Entoloma flavoviride Peck

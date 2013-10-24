@@ -1,5 +1,4 @@
-Nodulisporium compactum (Pat.) Hennebert SPECIES
-=======
+# Nodulisporium compactum (Pat.) Hennebert SPECIES
 
 #### Status
 ACCEPTED

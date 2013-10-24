@@ -1,5 +1,4 @@
-Discinella Boudier, 1885 GENUS
-=======
+# Discinella Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

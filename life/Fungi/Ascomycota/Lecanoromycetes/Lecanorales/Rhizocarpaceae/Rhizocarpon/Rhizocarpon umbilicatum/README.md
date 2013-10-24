@@ -1,17 +1,16 @@
-Siegertia calcarea var. calcarea VARIETY
-=======
+# Rhizocarpon umbilicatum (Ramond) Flagey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. ému. Doubs, sér. 6 8: 98 (1894)
 
 #### Original name
-Lecidea calcarea (Fr.) H. Olivier
+Lecidea umbilicata Ramond
 
 ### Remarks
 null

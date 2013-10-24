@@ -1,5 +1,4 @@
-Sphaeria micheliana Kunze SPECIES
-=======
+# Sphaeria micheliana Kunze SPECIES
 
 #### Status
 ACCEPTED

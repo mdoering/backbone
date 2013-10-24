@@ -1,5 +1,4 @@
-Thraustochytrium antarcticum Bahnweg & Sparrow, 1974 SPECIES
-=======
+# Thraustochytrium antarcticum Bahnweg & Sparrow, 1974 SPECIES
 
 #### Status
 ACCEPTED

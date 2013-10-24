@@ -1,8 +1,7 @@
-Buellia filsoni C.W. Dodge SPECIES
-=======
+# Buellia filsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia filsoni C.W. Dodge
+Buellia filsonii C.W. Dodge
 
 ### Remarks
 null

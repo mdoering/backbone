@@ -1,5 +1,4 @@
-Phyllachora themedae Ananthan., 1964 SPECIES
-=======
+# Phyllachora themedae Ananthan., 1964 SPECIES
 
 #### Status
 ACCEPTED

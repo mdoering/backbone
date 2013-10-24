@@ -1,5 +1,4 @@
-Geopora graveolens W. Oberm. SPECIES
-=======
+# Geopora graveolens W. Oberm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia subacus (Peck) Largent SPECIES
-=======
+# Leptonia subacus (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

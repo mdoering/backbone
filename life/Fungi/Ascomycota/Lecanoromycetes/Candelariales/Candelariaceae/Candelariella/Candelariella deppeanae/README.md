@@ -1,5 +1,4 @@
-Candelariella deppeanae M. Westb. SPECIES
-=======
+# Candelariella deppeanae M. Westb. SPECIES
 
 #### Status
 ACCEPTED

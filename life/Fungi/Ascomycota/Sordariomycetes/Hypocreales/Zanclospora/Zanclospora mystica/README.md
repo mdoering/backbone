@@ -1,5 +1,4 @@
-Zanclospora mystica Zucconi & Rambelli, 1982 SPECIES
-=======
+# Zanclospora mystica Zucconi & Rambelli, 1982 SPECIES
 
 #### Status
 ACCEPTED

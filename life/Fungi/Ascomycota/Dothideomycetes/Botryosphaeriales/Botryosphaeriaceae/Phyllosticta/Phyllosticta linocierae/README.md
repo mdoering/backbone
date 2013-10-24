@@ -1,5 +1,4 @@
-Phyllosticta linocierae Thüm. SPECIES
-=======
+# Phyllosticta linocierae Thüm. SPECIES
 
 #### Status
 ACCEPTED

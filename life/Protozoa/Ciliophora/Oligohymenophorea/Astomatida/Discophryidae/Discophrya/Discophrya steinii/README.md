@@ -1,5 +1,4 @@
-Discophrya steinii (Claparède & Lachmann, 1859) Collin, 1911 SPECIES
-=======
+# Discophrya steinii (Claparède & Lachmann, 1859) Collin, 1911 SPECIES
 
 #### Status
 ACCEPTED

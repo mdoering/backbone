@@ -1,5 +1,4 @@
-Agaricus sordescens Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus sordescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgo abyssorum SPECIES
-=======
+# Pyrgo abyssorum SPECIES
 
 #### Status
 ACCEPTED

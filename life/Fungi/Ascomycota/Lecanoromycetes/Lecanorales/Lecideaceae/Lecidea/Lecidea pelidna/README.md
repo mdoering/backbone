@@ -1,5 +1,4 @@
-Lecidea pelidna (Ach.) Schaer. SPECIES
-=======
+# Lecidea pelidna (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

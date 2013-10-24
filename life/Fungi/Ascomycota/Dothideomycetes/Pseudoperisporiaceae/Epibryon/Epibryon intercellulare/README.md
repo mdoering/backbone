@@ -1,5 +1,4 @@
-Epibryon intercellulare Döbbeler, 1979 SPECIES
-=======
+# Epibryon intercellulare Döbbeler, 1979 SPECIES
 
 #### Status
 ACCEPTED

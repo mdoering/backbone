@@ -1,5 +1,4 @@
-Stegonsporium fautreyi Sacc. & P. Syd. SPECIES
-=======
+# Stegonsporium fautreyi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex glaberrimus (Pers.) Fr. SPECIES
-=======
+# Irpex glaberrimus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia vezdana Lücking SPECIES
-=======
+# Bacidia vezdana Lücking SPECIES
 
 #### Status
 ACCEPTED

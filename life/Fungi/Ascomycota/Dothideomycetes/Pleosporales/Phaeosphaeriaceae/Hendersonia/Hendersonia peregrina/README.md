@@ -1,5 +1,4 @@
-Hendersonia peregrina Fautrey SPECIES
-=======
+# Hendersonia peregrina Fautrey SPECIES
 
 #### Status
 ACCEPTED

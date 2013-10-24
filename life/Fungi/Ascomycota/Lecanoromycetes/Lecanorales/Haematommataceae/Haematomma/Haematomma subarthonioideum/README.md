@@ -1,5 +1,4 @@
-Haematomma subarthonioideum (Zahlbr.) Hillmann SPECIES
-=======
+# Haematomma subarthonioideum (Zahlbr.) Hillmann SPECIES
 
 #### Status
 ACCEPTED

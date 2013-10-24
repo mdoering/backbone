@@ -1,5 +1,4 @@
-Valsa myricina Kirschst. SPECIES
-=======
+# Valsa myricina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

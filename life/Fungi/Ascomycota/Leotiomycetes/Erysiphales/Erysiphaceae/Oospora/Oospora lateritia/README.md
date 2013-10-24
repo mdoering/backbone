@@ -1,5 +1,4 @@
-Oospora lateritia D. Sacc. SPECIES
-=======
+# Oospora lateritia D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

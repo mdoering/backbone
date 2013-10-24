@@ -1,5 +1,4 @@
-Phoma pavettae Tassi SPECIES
-=======
+# Phoma pavettae Tassi SPECIES
 
 #### Status
 ACCEPTED

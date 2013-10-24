@@ -1,5 +1,4 @@
-Septoria citricola Ruggieri, 1935 SPECIES
-=======
+# Septoria citricola Ruggieri, 1935 SPECIES
 
 #### Status
 ACCEPTED

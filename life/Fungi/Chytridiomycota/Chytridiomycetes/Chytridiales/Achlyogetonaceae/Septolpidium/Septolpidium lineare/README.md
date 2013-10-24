@@ -1,5 +1,4 @@
-Septolpidium lineare Sparrow, 1933 SPECIES
-=======
+# Septolpidium lineare Sparrow, 1933 SPECIES
 
 #### Status
 ACCEPTED

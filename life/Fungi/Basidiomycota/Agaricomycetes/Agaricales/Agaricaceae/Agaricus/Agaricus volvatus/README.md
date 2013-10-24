@@ -1,5 +1,4 @@
-Agaricus volvatus Peck SPECIES
-=======
+# Agaricus volvatus Peck SPECIES
 
 #### Status
 ACCEPTED

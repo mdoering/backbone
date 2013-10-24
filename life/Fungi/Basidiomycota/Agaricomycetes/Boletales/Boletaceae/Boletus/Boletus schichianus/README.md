@@ -1,5 +1,4 @@
-Boletus schichianus Teng & L. Ling SPECIES
-=======
+# Boletus schichianus Teng & L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catinaria atomaria Lynge SPECIES
-=======
+# Catinaria atomaria Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha argillicola Duby SPECIES
-=======
+# Opegrapha argillicola Duby SPECIES
 
 #### Status
 ACCEPTED

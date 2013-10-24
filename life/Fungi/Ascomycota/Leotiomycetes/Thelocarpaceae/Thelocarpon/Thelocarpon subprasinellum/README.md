@@ -1,5 +1,4 @@
-Thelocarpon subprasinellum Hulting SPECIES
-=======
+# Thelocarpon subprasinellum Hulting SPECIES
 
 #### Status
 ACCEPTED

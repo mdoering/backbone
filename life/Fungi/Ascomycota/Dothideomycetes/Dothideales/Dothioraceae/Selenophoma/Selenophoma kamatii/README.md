@@ -1,5 +1,4 @@
-Selenophoma kamatii Kalani SPECIES
-=======
+# Selenophoma kamatii Kalani SPECIES
 
 #### Status
 ACCEPTED

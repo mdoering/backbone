@@ -1,5 +1,4 @@
-Collinsella aerofaciens (Eggerth, 1935) Kageyama et al., 1999 SPECIES
-=======
+# Collinsella aerofaciens (Eggerth, 1935) Kageyama et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

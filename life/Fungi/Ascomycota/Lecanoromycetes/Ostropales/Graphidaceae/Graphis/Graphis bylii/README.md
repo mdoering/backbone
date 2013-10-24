@@ -1,5 +1,4 @@
-Graphis bylii var. bylii VARIETY
-=======
+# Graphis bylii Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis bylii var. bylii
+Graphis bylii Vain.
 
 ### Remarks
 null

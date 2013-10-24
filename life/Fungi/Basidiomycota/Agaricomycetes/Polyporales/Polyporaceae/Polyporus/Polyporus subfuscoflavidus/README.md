@@ -1,5 +1,4 @@
-Polyporus subfuscoflavidus Rostk. SPECIES
-=======
+# Polyporus subfuscoflavidus Rostk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus annulosi Fr. SPECIES
-=======
+# Agaricus annulosi Fr. SPECIES
 
 #### Status
 ACCEPTED

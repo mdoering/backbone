@@ -1,5 +1,4 @@
-Phyllachora genipae F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora genipae F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 ACCEPTED

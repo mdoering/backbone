@@ -1,5 +1,4 @@
-Puccinia dendranthemae S.X. Wei & Y.C. Wang SPECIES
-=======
+# Puccinia dendranthemae S.X. Wei & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

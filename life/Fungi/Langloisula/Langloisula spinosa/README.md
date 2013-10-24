@@ -1,5 +1,4 @@
-Langloisula spinosa Ellis & Everh. SPECIES
-=======
+# Langloisula spinosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

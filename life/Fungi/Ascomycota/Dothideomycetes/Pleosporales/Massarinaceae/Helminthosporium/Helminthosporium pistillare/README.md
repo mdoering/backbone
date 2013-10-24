@@ -1,5 +1,4 @@
-Helminthosporium pistillare Ravenel SPECIES
-=======
+# Helminthosporium pistillare Ravenel SPECIES
 
 #### Status
 ACCEPTED

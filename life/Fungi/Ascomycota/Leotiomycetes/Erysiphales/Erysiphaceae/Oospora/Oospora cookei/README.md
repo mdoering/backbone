@@ -1,5 +1,4 @@
-Oospora cookei Sacc. SPECIES
-=======
+# Oospora cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Didymosphaeria wallrothii (Hepp) Rehm SPECIES
-=======
+# Mycomicrothelia wallrothii (Hepp) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hawksworth, James & Coppins, Lichenologist 12(1): 107 (1980)
 
 #### Original name
 null

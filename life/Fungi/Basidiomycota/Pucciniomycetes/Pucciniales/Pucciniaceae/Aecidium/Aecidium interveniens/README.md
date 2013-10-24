@@ -1,5 +1,4 @@
-Aecidium interveniens (Peck) Farl. SPECIES
-=======
+# Aecidium interveniens (Peck) Farl. SPECIES
 
 #### Status
 ACCEPTED

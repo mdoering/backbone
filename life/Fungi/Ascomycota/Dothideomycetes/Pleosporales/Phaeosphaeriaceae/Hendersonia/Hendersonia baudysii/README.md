@@ -1,5 +1,4 @@
-Hendersonia baudysii Picb. SPECIES
-=======
+# Hendersonia baudysii Picb. SPECIES
 
 #### Status
 ACCEPTED

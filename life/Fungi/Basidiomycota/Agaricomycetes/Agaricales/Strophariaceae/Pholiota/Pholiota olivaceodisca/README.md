@@ -1,5 +1,4 @@
-Pholiota olivaceodisca A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota olivaceodisca A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema myrioporellum Nyl. SPECIES
-=======
+# Ocellularia myrioporella (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 315 (1867)
+Cat. Lich. Univers. 2: 596 (1923)
 
 #### Original name
 Thelotrema myrioporellum Nyl.

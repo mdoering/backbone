@@ -1,5 +1,4 @@
-Porina desquamescens Fée SPECIES
-=======
+# Porina desquamescens Fée SPECIES
 
 #### Status
 ACCEPTED

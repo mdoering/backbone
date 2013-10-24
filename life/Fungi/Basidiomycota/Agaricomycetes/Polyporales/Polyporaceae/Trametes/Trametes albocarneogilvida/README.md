@@ -1,5 +1,4 @@
-Trametes albocarneogilvida (Romell) S. Lundell SPECIES
-=======
+# Trametes albocarneogilvida (Romell) S. Lundell SPECIES
 
 #### Status
 ACCEPTED

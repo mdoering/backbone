@@ -1,5 +1,4 @@
-Thigmophrya bivalviorum Chatton & Lwoff, 1923 SPECIES
-=======
+# Thigmophrya bivalviorum Chatton & Lwoff, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria periphysata Zahlbr. SPECIES
-=======
+# Verrucaria periphysata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

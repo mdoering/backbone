@@ -1,5 +1,4 @@
-Francuscia McCulloch, 1981 GENUS
-=======
+# Francuscia McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

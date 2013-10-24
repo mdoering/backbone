@@ -1,5 +1,4 @@
-Entoloma roseoluteolum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma roseoluteolum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

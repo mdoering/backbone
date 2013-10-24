@@ -1,5 +1,4 @@
-Lecidea buxea Stizenb. SPECIES
-=======
+# Lecidea buxea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

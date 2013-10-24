@@ -1,5 +1,4 @@
-Ephelopalla gorkae Martin, 1981 SPECIES
-=======
+# Ephelopalla gorkae Martin, 1981 SPECIES
 
 #### Status
 ACCEPTED

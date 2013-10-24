@@ -1,5 +1,4 @@
-Cytospora paradoxa (Durieu & Mont.) Sacc. SPECIES
-=======
+# Cytospora paradoxa (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

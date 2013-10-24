@@ -1,5 +1,4 @@
-Coccotremataceae Henssen FAMILY
-=======
+# Coccotremataceae Henssen FAMILY
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Heliscus longibrachiatus Ingold, 1942 SPECIES
-=======
+# Clavatospora longibrachiata (Ingold) Sv. Nilsson ex Marvanová & Sv. Nilsson, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 25: 362 (1942)
+Trans. Br. mycol. Soc. 57(3): 531 (1971)
 
 #### Original name
 Heliscus longibrachiatus Ingold, 1942

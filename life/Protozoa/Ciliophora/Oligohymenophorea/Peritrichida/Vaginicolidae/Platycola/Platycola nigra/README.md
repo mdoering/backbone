@@ -1,5 +1,4 @@
-Platycola nigra Wailes, 1928 SPECIES
-=======
+# Platycola nigra Wailes, 1928 SPECIES
 
 #### Status
 ACCEPTED

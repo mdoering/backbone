@@ -1,5 +1,4 @@
-Pseudocercospora rhinacanthi (Höhn.) Deighton SPECIES
-=======
+# Pseudocercospora rhinacanthi (Höhn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

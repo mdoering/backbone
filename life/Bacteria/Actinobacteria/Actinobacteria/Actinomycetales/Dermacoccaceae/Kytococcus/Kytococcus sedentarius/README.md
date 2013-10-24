@@ -1,8 +1,7 @@
-Micrococcus sedentarius ZoBell and Upham, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Kytococcus sedentarius (ZoBell and Upham, 1944) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

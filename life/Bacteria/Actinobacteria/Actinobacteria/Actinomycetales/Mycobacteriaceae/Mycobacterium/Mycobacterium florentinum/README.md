@@ -1,5 +1,4 @@
-Mycobacterium florentinum Tortoli et al., 2005 SPECIES
-=======
+# Mycobacterium florentinum Tortoli et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

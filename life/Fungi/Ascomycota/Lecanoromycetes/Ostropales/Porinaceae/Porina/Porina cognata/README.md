@@ -1,5 +1,4 @@
-Porina cognata (Arnold) Lettau SPECIES
-=======
+# Porina cognata (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

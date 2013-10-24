@@ -1,5 +1,4 @@
-Rinodina bohlinii H. Magn. SPECIES
-=======
+# Rinodina bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

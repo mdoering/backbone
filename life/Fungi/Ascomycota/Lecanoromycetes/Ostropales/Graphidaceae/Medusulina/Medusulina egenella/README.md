@@ -1,14 +1,13 @@
-Graphina egenella Müll. Arg. SPECIES
-=======
+# Medusulina egenella (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 30: 52 (1891)
+Bull. Herb. Boissier 2: 93 (1894)
 
 #### Original name
 Graphina egenella Müll. Arg.

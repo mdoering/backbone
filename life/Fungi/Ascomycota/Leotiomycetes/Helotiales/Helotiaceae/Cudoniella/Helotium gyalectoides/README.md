@@ -1,5 +1,4 @@
-Helotium gyalectoides (Saut.) Sacc. SPECIES
-=======
+# Helotium gyalectoides (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

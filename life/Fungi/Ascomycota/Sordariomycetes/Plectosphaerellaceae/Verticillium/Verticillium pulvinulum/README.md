@@ -1,5 +1,4 @@
-Verticillium pulvinulum Kalchbr. & Cooke SPECIES
-=======
+# Verticillium pulvinulum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

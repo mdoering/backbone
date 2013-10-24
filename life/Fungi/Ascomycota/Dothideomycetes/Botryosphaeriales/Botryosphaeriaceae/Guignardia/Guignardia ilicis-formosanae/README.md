@@ -1,5 +1,4 @@
-Guignardia ilicis-formosanae Sawada SPECIES
-=======
+# Guignardia ilicis-formosanae Sawada SPECIES
 
 #### Status
 ACCEPTED

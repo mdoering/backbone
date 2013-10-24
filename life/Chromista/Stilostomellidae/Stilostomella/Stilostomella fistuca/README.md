@@ -1,5 +1,4 @@
-Stilostomella fistuca (Schwager, 1866) SPECIES
-=======
+# Stilostomella fistuca (Schwager, 1866) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria aurantium (Wallr.) J. Kickx f. SPECIES
-=======
+# Nectria aurantium (Wallr.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

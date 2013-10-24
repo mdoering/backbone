@@ -1,5 +1,4 @@
-Aspicilia ochraceoalba (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia ochraceoalba (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

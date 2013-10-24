@@ -1,5 +1,4 @@
-Enterographa fraterculans Müll. Arg. SPECIES
-=======
+# Enterographa fraterculans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

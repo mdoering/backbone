@@ -1,5 +1,4 @@
-Bathyallogromia Gooday et al., 2004 GENUS
-=======
+# Bathyallogromia Gooday et al., 2004 GENUS
 
 #### Status
 ACCEPTED

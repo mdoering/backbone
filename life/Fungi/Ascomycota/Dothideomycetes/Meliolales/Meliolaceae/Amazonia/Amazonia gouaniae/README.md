@@ -1,5 +1,4 @@
-Amazonia gouaniae Hosag. & U. Braun SPECIES
-=======
+# Amazonia gouaniae Hosag. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

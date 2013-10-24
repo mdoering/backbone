@@ -1,5 +1,4 @@
-Aspicilia phaea Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia phaea Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

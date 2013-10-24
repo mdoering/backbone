@@ -1,5 +1,4 @@
-Byssothecium Fuckel GENUS
-=======
+# Byssothecium Fuckel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus festucae Tracy & Earle SPECIES
-=======
+# Ophiobolus festucae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

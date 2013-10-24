@@ -1,5 +1,4 @@
-Helicopontosphaera ampliaperta (Bramlette & Wilcoxon, 1967) Bukry, 1970 SPECIES
-=======
+# Helicopontosphaera ampliaperta (Bramlette & Wilcoxon, 1967) Bukry, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia pycnidiata Czarnota & Coppins SPECIES
-=======
+# Bacidia pycnidiata Czarnota & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycogone sphaerospora Berk. SPECIES
-=======
+# Mycogone sphaerospora Berk. SPECIES
 
 #### Status
 ACCEPTED

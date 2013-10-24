@@ -1,5 +1,4 @@
-Scleroderma chrysosporum Opiz SPECIES
-=======
+# Scleroderma chrysosporum Opiz SPECIES
 
 #### Status
 ACCEPTED

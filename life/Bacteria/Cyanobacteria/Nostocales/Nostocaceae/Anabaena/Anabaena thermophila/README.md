@@ -1,5 +1,4 @@
-Anabaena thermophila Schwabe SPECIES
-=======
+# Anabaena thermophila Schwabe SPECIES
 
 #### Status
 ACCEPTED

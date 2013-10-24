@@ -1,5 +1,4 @@
-Truncicola GENUS
-=======
+# Truncicola GENUS
 
 #### Status
 ACCEPTED

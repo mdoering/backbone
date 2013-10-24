@@ -1,5 +1,4 @@
-Panaeolus pseudopapilionaceus Copel. SPECIES
-=======
+# Panaeolus pseudopapilionaceus Copel. SPECIES
 
 #### Status
 ACCEPTED

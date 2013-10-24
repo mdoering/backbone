@@ -1,5 +1,4 @@
-Lophodermium geniculosporum Spooner, 1991 SPECIES
-=======
+# Lophodermium geniculosporum Spooner, 1991 SPECIES
 
 #### Status
 ACCEPTED

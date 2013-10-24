@@ -1,5 +1,4 @@
-Peziza pruni-avium Pers. SPECIES
-=======
+# Peziza pruni-avium Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus flavescens (Morgan) H.V. Sm. SPECIES
-=======
+# Leucocoprinus flavescens (Morgan) H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

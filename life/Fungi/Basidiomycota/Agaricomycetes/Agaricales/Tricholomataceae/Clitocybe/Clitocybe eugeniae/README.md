@@ -1,5 +1,4 @@
-Clitocybe eugeniae (Ballero & Contu) Contu SPECIES
-=======
+# Clitocybe eugeniae (Ballero & Contu) Contu SPECIES
 
 #### Status
 ACCEPTED

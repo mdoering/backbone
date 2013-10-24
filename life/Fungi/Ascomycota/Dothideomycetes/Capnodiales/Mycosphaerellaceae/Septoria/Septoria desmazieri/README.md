@@ -1,5 +1,4 @@
-Septoria desmazieri Sacc. SPECIES
-=======
+# Septoria desmazieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

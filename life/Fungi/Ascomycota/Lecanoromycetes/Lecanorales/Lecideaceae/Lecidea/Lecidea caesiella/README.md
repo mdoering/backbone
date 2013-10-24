@@ -1,5 +1,4 @@
-Lecidea caesiella Müll. Arg. SPECIES
-=======
+# Lecidea caesiella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

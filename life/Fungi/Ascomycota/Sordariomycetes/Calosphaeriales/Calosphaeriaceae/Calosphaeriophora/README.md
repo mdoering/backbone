@@ -1,5 +1,4 @@
-Calosphaeriophora Réblová, L. Mostert, W. Gams & Crous GENUS
-=======
+# Calosphaeriophora Réblová, L. Mostert, W. Gams & Crous GENUS
 
 #### Status
 ACCEPTED

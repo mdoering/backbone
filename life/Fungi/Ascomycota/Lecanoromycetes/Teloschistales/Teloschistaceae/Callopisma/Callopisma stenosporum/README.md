@@ -1,5 +1,4 @@
-Callopisma stenosporum Malme SPECIES
-=======
+# Callopisma stenosporum Malme SPECIES
 
 #### Status
 ACCEPTED

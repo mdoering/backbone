@@ -1,5 +1,4 @@
-Lituola salsa SPECIES
-=======
+# Lituola salsa SPECIES
 
 #### Status
 ACCEPTED

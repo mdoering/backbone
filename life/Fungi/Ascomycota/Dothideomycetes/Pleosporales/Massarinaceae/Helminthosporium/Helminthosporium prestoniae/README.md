@@ -1,5 +1,4 @@
-Helminthosporium prestoniae Henn. SPECIES
-=======
+# Helminthosporium prestoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

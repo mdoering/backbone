@@ -1,5 +1,4 @@
-Clavaria gemmata Schaeff. SPECIES
-=======
+# Clavaria gemmata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

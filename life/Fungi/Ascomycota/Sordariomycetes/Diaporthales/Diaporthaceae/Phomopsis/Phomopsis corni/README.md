@@ -1,5 +1,4 @@
-Phomopsis corni (Fuckel) Traverso SPECIES
-=======
+# Phomopsis corni (Fuckel) Traverso SPECIES
 
 #### Status
 ACCEPTED

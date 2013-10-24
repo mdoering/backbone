@@ -1,5 +1,4 @@
-Ascochyta malvae Died. SPECIES
-=======
+# Ascochyta malvae Died. SPECIES
 
 #### Status
 ACCEPTED

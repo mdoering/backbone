@@ -1,5 +1,4 @@
-Polyporus guyannensis Mont. SPECIES
-=======
+# Polyporus guyannensis Mont. SPECIES
 
 #### Status
 ACCEPTED

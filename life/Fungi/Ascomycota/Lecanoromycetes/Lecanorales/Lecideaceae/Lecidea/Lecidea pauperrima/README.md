@@ -1,5 +1,4 @@
-Lecidea pauperrima Nyl. SPECIES
-=======
+# Lecidea pauperrima Nyl. SPECIES
 
 #### Status
 ACCEPTED

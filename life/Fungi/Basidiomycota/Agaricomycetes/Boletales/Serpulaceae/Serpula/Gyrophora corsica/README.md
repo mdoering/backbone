@@ -1,5 +1,4 @@
-Gyrophora corsica SPECIES
-=======
+# Gyrophora corsica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeostagonospora nolinae A.W. Ramaley, 1997 SPECIES
-=======
+# Phaeostagonospora nolinae A.W. Ramaley, 1997 SPECIES
 
 #### Status
 ACCEPTED

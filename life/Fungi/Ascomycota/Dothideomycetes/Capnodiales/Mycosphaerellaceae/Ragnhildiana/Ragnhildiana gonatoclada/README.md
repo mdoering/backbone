@@ -1,5 +1,4 @@
-Ragnhildiana gonatoclada (Syd.) F. Stevens & Solheim SPECIES
-=======
+# Ragnhildiana gonatoclada (Syd.) F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

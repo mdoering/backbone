@@ -1,5 +1,4 @@
-Pyrenopsis brasiliensis Vain. SPECIES
-=======
+# Pyrenopsis brasiliensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina chionophila Senn-Irlet SPECIES
-=======
+# Galerina chionophila Senn-Irlet SPECIES
 
 #### Status
 ACCEPTED

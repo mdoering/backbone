@@ -1,5 +1,4 @@
-Dicaeoma tabaernamontanae (Berk. & Broome) Kuntze SPECIES
-=======
+# Dicaeoma tabaernamontanae (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

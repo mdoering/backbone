@@ -1,5 +1,4 @@
-Cercospora levistici Kwashn. SPECIES
-=======
+# Cercospora levistici Kwashn. SPECIES
 
 #### Status
 ACCEPTED

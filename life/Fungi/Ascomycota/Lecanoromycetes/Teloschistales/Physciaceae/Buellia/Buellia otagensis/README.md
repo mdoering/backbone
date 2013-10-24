@@ -1,5 +1,4 @@
-Buellia otagensis Zahlbr. SPECIES
-=======
+# Buellia otagensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

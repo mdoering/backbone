@@ -1,5 +1,4 @@
-Asterionella mediterranea (J.Pavillard) R.Margalef SPECIES
-=======
+# Asterionella mediterranea (J.Pavillard) R.Margalef SPECIES
 
 #### Status
 ACCEPTED

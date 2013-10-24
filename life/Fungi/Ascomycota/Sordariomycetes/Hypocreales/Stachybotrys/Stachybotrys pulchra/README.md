@@ -1,17 +1,16 @@
-Stachybotrys pulcra Speg. SPECIES
-=======
+# Stachybotrys pulchra Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Vet. Univ. nac. La Plata 248 (1896)
 
 #### Original name
-Stachybotrys pulcra Speg.
+Stachybotrys pulchra Speg.
 
 ### Remarks
 null

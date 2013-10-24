@@ -1,5 +1,4 @@
-Phlyctochytrium parasitans Sparrow & Dogma SPECIES
-=======
+# Phlyctochytrium parasitans Sparrow & Dogma SPECIES
 
 #### Status
 ACCEPTED

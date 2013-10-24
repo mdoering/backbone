@@ -1,5 +1,4 @@
-Amoeba limicola Rhumb. SPECIES
-=======
+# Amoeba limicola Rhumb. SPECIES
 
 #### Status
 ACCEPTED

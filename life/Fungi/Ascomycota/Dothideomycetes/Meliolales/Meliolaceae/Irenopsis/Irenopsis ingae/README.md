@@ -1,5 +1,4 @@
-Irenopsis ingae (F. Stevens & Tehon) F. Stevens SPECIES
-=======
+# Irenopsis ingae (F. Stevens & Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

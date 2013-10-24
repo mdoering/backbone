@@ -1,5 +1,4 @@
-Pyrenographa Aptroot GENUS
-=======
+# Pyrenographa Aptroot GENUS
 
 #### Status
 ACCEPTED

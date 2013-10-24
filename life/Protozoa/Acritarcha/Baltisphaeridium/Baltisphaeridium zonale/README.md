@@ -1,5 +1,4 @@
-Baltisphaeridium zonale (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium zonale (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

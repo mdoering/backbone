@@ -1,5 +1,4 @@
-Squamarina lamarckii (DC.) Poelt SPECIES
-=======
+# Squamarina lamarckii (DC.) Poelt SPECIES
 
 #### Status
 ACCEPTED

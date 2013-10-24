@@ -1,5 +1,4 @@
-Micrhystridium licroidium Morbey, 1975 SPECIES
-=======
+# Micrhystridium licroidium Morbey, 1975 SPECIES
 
 #### Status
 ACCEPTED

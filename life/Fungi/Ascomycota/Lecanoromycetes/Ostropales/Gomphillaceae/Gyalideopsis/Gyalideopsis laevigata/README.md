@@ -1,5 +1,4 @@
-Gyalideopsis laevigata ined. SPECIES
-=======
+# Gyalideopsis laevigata ined. SPECIES
 
 #### Status
 ACCEPTED

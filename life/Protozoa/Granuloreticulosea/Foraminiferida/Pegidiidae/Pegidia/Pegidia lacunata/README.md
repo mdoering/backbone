@@ -1,5 +1,4 @@
-Pegidia lacunata McCulloch, 1977 SPECIES
-=======
+# Pegidia lacunata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fenestella praeandina Speg. SPECIES
-=======
+# Fenestella praeandina Speg. SPECIES
 
 #### Status
 ACCEPTED

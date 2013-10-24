@@ -1,5 +1,4 @@
-Puccinia mariscicola J.M. Yen SPECIES
-=======
+# Puccinia mariscicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

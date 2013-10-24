@@ -1,5 +1,4 @@
-Pseudoglobobulimina GENUS
-=======
+# Pseudoglobobulimina GENUS
 
 #### Status
 ACCEPTED

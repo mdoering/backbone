@@ -1,5 +1,4 @@
-Dothiorella dura (Preuss) Sacc. SPECIES
-=======
+# Dothiorella dura (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotrema pereximium (Parmasto) Domanski SPECIES
-=======
+# Sistotrema pereximium (Parmasto) Domanski SPECIES
 
 #### Status
 ACCEPTED

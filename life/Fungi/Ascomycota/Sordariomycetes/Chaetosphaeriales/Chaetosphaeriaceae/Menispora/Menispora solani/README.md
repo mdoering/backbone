@@ -1,5 +1,4 @@
-Menispora solani P. Karst. SPECIES
-=======
+# Menispora solani P. Karst. SPECIES
 
 #### Status
 ACCEPTED

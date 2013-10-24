@@ -1,5 +1,4 @@
-Tetragenococcus muriaticus Satomi et al., 1997 SPECIES
-=======
+# Tetragenococcus muriaticus Satomi et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

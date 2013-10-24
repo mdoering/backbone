@@ -1,5 +1,4 @@
-Septoria complanata Berk. & M.A. Curtis SPECIES
-=======
+# Septoria complanata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

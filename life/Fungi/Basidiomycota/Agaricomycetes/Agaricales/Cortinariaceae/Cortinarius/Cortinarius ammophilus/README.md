@@ -1,5 +1,4 @@
-Cortinarius ammophilus A. Pearson, 1946 SPECIES
-=======
+# Cortinarius ammophilus A. Pearson, 1946 SPECIES
 
 #### Status
 ACCEPTED

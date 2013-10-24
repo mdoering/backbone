@@ -1,5 +1,4 @@
-Ceuthospora daviesiae Petr. SPECIES
-=======
+# Ceuthospora daviesiae Petr. SPECIES
 
 #### Status
 ACCEPTED

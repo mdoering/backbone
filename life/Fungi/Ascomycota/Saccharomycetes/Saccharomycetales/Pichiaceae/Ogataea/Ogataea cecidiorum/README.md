@@ -1,5 +1,4 @@
-Ogataea cecidiorum Glushakova, Maximova, Kachalkin & Yurkov, 2010 SPECIES
-=======
+# Ogataea cecidiorum Glushakova, Maximova, Kachalkin & Yurkov, 2010 SPECIES
 
 #### Status
 ACCEPTED

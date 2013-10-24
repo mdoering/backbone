@@ -1,5 +1,4 @@
-Cercosporidium scariolae (Syd.) Deighton SPECIES
-=======
+# Cercosporidium scariolae (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

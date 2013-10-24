@@ -1,5 +1,4 @@
-Thalassicollidae FAMILY
-=======
+# Thalassicollidae FAMILY
 
 #### Status
 ACCEPTED

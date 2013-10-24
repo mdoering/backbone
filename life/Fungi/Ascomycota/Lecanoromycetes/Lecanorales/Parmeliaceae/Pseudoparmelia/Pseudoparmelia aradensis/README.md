@@ -1,5 +1,4 @@
-Pseudoparmelia aradensis Gyeln. SPECIES
-=======
+# Pseudoparmelia aradensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

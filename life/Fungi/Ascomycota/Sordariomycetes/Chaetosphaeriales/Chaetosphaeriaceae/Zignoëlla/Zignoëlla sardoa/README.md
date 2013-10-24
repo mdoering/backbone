@@ -1,5 +1,4 @@
-Zignoëlla sardoa Sacc. & Traverso SPECIES
-=======
+# Zignoëlla sardoa Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

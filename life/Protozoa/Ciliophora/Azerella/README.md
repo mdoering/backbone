@@ -1,5 +1,4 @@
-Azerella Alekperov, 1985 GENUS
-=======
+# Azerella Alekperov, 1985 GENUS
 
 #### Status
 ACCEPTED

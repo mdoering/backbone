@@ -1,5 +1,4 @@
-Gonatorrhodum Corda GENUS
-=======
+# Gonatorrhodum Corda GENUS
 
 #### Status
 ACCEPTED

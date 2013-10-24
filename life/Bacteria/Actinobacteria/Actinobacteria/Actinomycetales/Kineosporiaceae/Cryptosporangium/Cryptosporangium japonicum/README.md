@@ -1,5 +1,4 @@
-Cryptosporangium japonicum Tamura et al., 1998 SPECIES
-=======
+# Cryptosporangium japonicum Tamura et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

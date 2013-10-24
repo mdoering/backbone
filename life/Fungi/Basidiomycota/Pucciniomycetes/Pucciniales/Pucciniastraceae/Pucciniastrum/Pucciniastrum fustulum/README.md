@@ -1,5 +1,4 @@
-Pucciniastrum fustulum anon. SPECIES
-=======
+# Pucciniastrum fustulum anon. SPECIES
 
 #### Status
 ACCEPTED

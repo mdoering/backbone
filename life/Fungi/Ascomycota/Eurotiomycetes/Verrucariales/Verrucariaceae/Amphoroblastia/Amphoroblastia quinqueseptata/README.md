@@ -1,5 +1,4 @@
-Amphoroblastia quinqueseptata (Hepp) Servít SPECIES
-=======
+# Amphoroblastia quinqueseptata (Hepp) Servít SPECIES
 
 #### Status
 ACCEPTED

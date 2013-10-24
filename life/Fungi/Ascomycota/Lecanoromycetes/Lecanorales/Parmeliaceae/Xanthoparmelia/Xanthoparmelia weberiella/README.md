@@ -1,5 +1,4 @@
-Xanthoparmelia weberiella Elix SPECIES
-=======
+# Xanthoparmelia weberiella Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora euphorbiae Politis SPECIES
-=======
+# Cytospora euphorbiae Politis SPECIES
 
 #### Status
 ACCEPTED

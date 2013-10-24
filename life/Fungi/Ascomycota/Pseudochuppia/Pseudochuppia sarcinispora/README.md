@@ -1,5 +1,4 @@
-Pseudochuppia sarcinispora Kamal, A.N. Rai & Morgan-Jones, 1984 SPECIES
-=======
+# Pseudochuppia sarcinispora Kamal, A.N. Rai & Morgan-Jones, 1984 SPECIES
 
 #### Status
 ACCEPTED

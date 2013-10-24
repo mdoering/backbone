@@ -1,5 +1,4 @@
-Mesocenaceae FAMILY
-=======
+# Mesocenaceae FAMILY
 
 #### Status
 ACCEPTED

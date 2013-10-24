@@ -1,5 +1,4 @@
-Dischloridium inaequiseptatum (Matsush.) Hol.-Jech. SPECIES
-=======
+# Dischloridium inaequiseptatum (Matsush.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium prolatum J. Larsen SPECIES
-=======
+# Gymnodinium prolatum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

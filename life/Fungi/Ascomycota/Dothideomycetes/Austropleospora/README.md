@@ -1,5 +1,4 @@
-Austropleospora GENUS
-=======
+# Austropleospora GENUS
 
 #### Status
 ACCEPTED

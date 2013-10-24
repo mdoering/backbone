@@ -1,5 +1,4 @@
-Buchwaldoboletus spectabilis Watling, 1988 SPECIES
-=======
+# Buchwaldoboletus spectabilis Watling, 1988 SPECIES
 
 #### Status
 ACCEPTED

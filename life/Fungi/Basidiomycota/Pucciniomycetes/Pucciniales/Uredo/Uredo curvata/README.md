@@ -1,5 +1,4 @@
-Uredo curvata Arthur SPECIES
-=======
+# Uredo curvata Arthur SPECIES
 
 #### Status
 ACCEPTED

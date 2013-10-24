@@ -1,5 +1,4 @@
-Zundeliomyces polygoni Vánky, 1987 SPECIES
-=======
+# Zundeliomyces polygoni Vánky, 1987 SPECIES
 
 #### Status
 ACCEPTED

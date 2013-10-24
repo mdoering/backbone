@@ -1,5 +1,4 @@
-Psathyrella subsericea A.H. Sm. SPECIES
-=======
+# Psathyrella subsericea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

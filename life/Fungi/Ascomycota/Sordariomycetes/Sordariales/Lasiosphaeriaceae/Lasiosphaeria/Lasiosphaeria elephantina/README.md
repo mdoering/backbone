@@ -1,5 +1,4 @@
-Lasiosphaeria elephantina (Henn.) J.C. Krug & R.S. Khan SPECIES
-=======
+# Lasiosphaeria elephantina (Henn.) J.C. Krug & R.S. Khan SPECIES
 
 #### Status
 ACCEPTED

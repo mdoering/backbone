@@ -1,5 +1,4 @@
-Merulius albostramineus Torrend SPECIES
-=======
+# Merulius albostramineus Torrend SPECIES
 
 #### Status
 ACCEPTED

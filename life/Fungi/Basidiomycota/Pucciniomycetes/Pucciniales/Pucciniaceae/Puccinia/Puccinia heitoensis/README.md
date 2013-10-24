@@ -1,5 +1,4 @@
-Puccinia heitoensis S. Ito & Muray. SPECIES
-=======
+# Puccinia heitoensis S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catapyrenium lachneum subsp. rufescens (Ach.) Clauzade & Cl. Roux SUBSPECIES
-=======
+# Catapyrenium rufescens (Ach.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 825 (1985)
+in Poelt & Mayrhofer, Ber. dt. bot. Ges. 98(3-4): 389 (1985)
 
 #### Original name
 Endocarpon rufescens Ach.

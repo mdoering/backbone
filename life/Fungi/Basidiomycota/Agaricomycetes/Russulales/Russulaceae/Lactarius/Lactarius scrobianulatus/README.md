@@ -1,5 +1,4 @@
-Lactarius scrobianulatus Teng SPECIES
-=======
+# Lactarius scrobianulatus Teng SPECIES
 
 #### Status
 ACCEPTED

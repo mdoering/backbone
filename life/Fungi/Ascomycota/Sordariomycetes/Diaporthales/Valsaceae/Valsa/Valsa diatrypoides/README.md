@@ -1,5 +1,4 @@
-Valsa diatrypoides var. diatrypoides VARIETY
-=======
+# Valsa diatrypoides Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa diatrypoides var. diatrypoides
+Valsa diatrypoides Rehm
 
 ### Remarks
 null

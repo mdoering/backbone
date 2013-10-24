@@ -1,5 +1,4 @@
-Trichodina galyae Lom & Laird, 1969 SPECIES
-=======
+# Trichodina galyae Lom & Laird, 1969 SPECIES
 
 #### Status
 ACCEPTED

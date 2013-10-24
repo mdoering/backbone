@@ -1,5 +1,4 @@
-Cercoseptoria quercina Bremer & Petr. SPECIES
-=======
+# Cercoseptoria quercina Bremer & Petr. SPECIES
 
 #### Status
 ACCEPTED

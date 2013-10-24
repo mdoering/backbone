@@ -1,8 +1,7 @@
-Cytophaga aquatilis Strohl and Tait, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium hydatis Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Polyporus whetstonei Lloyd SPECIES
-=======
+# Polyporus whetstonei Lloyd SPECIES
 
 #### Status
 ACCEPTED

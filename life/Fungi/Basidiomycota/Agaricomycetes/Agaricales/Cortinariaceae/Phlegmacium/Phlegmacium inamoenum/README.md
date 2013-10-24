@@ -1,5 +1,4 @@
-Phlegmacium inamoenum J. Favre SPECIES
-=======
+# Phlegmacium inamoenum J. Favre SPECIES
 
 #### Status
 ACCEPTED

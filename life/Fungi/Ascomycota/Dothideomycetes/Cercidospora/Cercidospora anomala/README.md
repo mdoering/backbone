@@ -1,5 +1,4 @@
-Cercidospora anomala Etayo, 2010 SPECIES
-=======
+# Cercidospora anomala Etayo, 2010 SPECIES
 
 #### Status
 ACCEPTED

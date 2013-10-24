@@ -1,17 +1,16 @@
-Coprinus patouillardii subsp. patouillardii SUBSPECIES
-=======
+# Coprinus cordisporus T. Gibbs, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 1: 107 (1884)
+Natuurwet. Tijdschr. 5: 86 (1923)
 
 #### Original name
-Coprinus patouillardii subsp. patouillardii
+Coprinus cordisporus T. Gibbs, 1908
 
 ### Remarks
 null

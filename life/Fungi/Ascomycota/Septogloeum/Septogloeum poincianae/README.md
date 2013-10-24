@@ -1,5 +1,4 @@
-Septogloeum poincianae Syd. SPECIES
-=======
+# Septogloeum poincianae Syd. SPECIES
 
 #### Status
 ACCEPTED

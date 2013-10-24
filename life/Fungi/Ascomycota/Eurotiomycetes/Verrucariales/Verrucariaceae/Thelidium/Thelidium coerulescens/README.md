@@ -1,5 +1,4 @@
-Thelidium coerulescens Jatta SPECIES
-=======
+# Thelidium coerulescens Jatta SPECIES
 
 #### Status
 ACCEPTED

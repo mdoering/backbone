@@ -1,5 +1,4 @@
-Laminaria sarniensis Bory de St.-Vincent SPECIES
-=======
+# Laminaria sarniensis Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

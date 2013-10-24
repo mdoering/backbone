@@ -1,5 +1,4 @@
-Panus vetustus Corner SPECIES
-=======
+# Panus vetustus Corner SPECIES
 
 #### Status
 ACCEPTED

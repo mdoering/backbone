@@ -1,5 +1,4 @@
-Peresiopsis bertholletiae Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Peresiopsis bertholletiae Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

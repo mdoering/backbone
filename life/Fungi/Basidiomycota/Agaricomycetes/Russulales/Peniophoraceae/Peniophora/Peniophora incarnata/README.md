@@ -1,17 +1,16 @@
-Thelephora fallax var. fallax VARIETY
-=======
+# Peniophora incarnata (Pers.) P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 28: 27 (1889)
 
 #### Original name
-null
+Thelephora incarnata Pers., 1801
 
 ### Remarks
 null

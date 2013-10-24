@@ -1,5 +1,4 @@
-Inocybe megalospora Rick SPECIES
-=======
+# Inocybe megalospora Rick SPECIES
 
 #### Status
 ACCEPTED

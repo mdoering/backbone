@@ -1,5 +1,4 @@
-Parmeliella variegata (Stirt.) Müll. Arg. SPECIES
-=======
+# Parmeliella variegata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

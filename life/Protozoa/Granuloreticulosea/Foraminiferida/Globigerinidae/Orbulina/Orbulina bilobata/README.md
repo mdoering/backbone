@@ -1,5 +1,4 @@
-Orbulina bilobata SPECIES
-=======
+# Orbulina bilobata SPECIES
 
 #### Status
 ACCEPTED

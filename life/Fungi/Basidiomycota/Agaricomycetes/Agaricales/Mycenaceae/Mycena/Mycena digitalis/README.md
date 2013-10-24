@@ -1,5 +1,4 @@
-Mycena digitalis Bres. SPECIES
-=======
+# Mycena digitalis Bres. SPECIES
 
 #### Status
 ACCEPTED

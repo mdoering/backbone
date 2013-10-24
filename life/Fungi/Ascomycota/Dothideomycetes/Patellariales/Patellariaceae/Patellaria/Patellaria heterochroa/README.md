@@ -1,5 +1,4 @@
-Patellaria heterochroa Müll. Arg. SPECIES
-=======
+# Patellaria heterochroa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

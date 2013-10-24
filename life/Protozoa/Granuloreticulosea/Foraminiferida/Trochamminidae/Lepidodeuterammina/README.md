@@ -1,5 +1,4 @@
-Lepidodeuterammina Bronnimann & Whittaker, 1983 GENUS
-=======
+# Lepidodeuterammina Bronnimann & Whittaker, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius emollitoides Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius emollitoides Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

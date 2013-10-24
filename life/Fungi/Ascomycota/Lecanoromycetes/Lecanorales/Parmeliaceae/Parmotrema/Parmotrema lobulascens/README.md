@@ -1,17 +1,16 @@
-Parmelia lobulascens var. isiosissima C.W. Dodge VARIETY
-=======
+# Parmotrema lobulascens (J. Steiner) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 40: 375 (1953)
+Phytologia 28(4): 337 (1974)
 
 #### Original name
-Parmelia lobulascens var. isiosissima C.W. Dodge
+Parmelia lobulascens J. Steiner
 
 ### Remarks
 null

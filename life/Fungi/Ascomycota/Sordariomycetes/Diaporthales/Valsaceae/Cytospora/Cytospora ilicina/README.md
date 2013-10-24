@@ -1,5 +1,4 @@
-Cytospora ilicina Sacc., 1884 SPECIES
-=======
+# Cytospora ilicina Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

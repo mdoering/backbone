@@ -1,14 +1,13 @@
-Coccophacidium pini var. fuckelii Rehm, 1888 VARIETY
-=======
+# Therrya fuckelii (Rehm) Kujala, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 99 (1888)
+Communicationes Instituti Forestalis Fenniae 38(4): 48 (1950)
 
 #### Original name
 Coccophacidium pini var. fuckelii Rehm, 1888

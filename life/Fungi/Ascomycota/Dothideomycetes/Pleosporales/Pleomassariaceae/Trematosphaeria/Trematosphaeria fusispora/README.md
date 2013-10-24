@@ -1,5 +1,4 @@
-Trematosphaeria fusispora H. Wegelin SPECIES
-=======
+# Trematosphaeria fusispora H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

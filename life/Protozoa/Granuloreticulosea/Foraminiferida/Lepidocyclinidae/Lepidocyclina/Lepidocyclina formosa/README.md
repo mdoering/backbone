@@ -1,5 +1,4 @@
-Lepidocyclina formosa Schlumberger SPECIES
-=======
+# Lepidocyclina formosa Schlumberger SPECIES
 
 #### Status
 ACCEPTED

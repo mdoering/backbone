@@ -1,5 +1,4 @@
-Meliola filicii Hosag. SPECIES
-=======
+# Meliola filicii Hosag. SPECIES
 
 #### Status
 ACCEPTED

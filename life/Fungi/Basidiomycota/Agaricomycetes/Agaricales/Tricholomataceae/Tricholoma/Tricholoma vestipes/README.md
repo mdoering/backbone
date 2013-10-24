@@ -1,5 +1,4 @@
-Tricholoma vestipes Velen. SPECIES
-=======
+# Tricholoma vestipes Velen. SPECIES
 
 #### Status
 ACCEPTED

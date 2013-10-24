@@ -1,5 +1,4 @@
-Ptychodiscus Stein, 1883 GENUS
-=======
+# Ptychodiscus Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

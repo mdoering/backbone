@@ -1,5 +1,4 @@
-Thyriopsis sphaerospora Marasas, 1966 SPECIES
-=======
+# Thyriopsis sphaerospora Marasas, 1966 SPECIES
 
 #### Status
 ACCEPTED

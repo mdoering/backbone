@@ -1,14 +1,13 @@
-Vesiculomyces wakullus (Burds., Nakasone & G.W. Freeman) Boidin, Lanq. & Gilles, 1986 SPECIES
-=======
+# Megalocystidium wakullum (Burds., Nakasone & G.W. Freeman) E. Larss. & K.H. Larss., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Boidin, Lanquet, Bull. trimest. Soc. mycol. Fr. 101(4): 355 (1986)
+Mycologia 95(6): 1062 (2003)
 
 #### Original name
 Gloeocystidiellum wakullum Burds., Nakasone & G.W. Freeman, 1981

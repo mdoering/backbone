@@ -1,5 +1,4 @@
-Rozella allomycelis Foust SPECIES
-=======
+# Rozella allomycelis Foust SPECIES
 
 #### Status
 ACCEPTED

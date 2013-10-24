@@ -1,5 +1,4 @@
-Patella piliseta (Clem.) Seaver SPECIES
-=======
+# Patella piliseta (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

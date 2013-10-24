@@ -1,8 +1,7 @@
-Miliolina planciana var. punctata Wiesner, 1923 VARIETY
-=======
+# Affinetrina planciana (d'Orbigny, 1839) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

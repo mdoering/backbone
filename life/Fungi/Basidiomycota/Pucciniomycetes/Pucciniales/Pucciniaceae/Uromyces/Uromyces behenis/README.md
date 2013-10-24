@@ -1,14 +1,13 @@
-Uredo behenis DC., 1815 SPECIES
-=======
+# Uromyces behenis (DC.) Unger, 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 63 (1815)
+Einfluss des Bodenstc. 216 (1836)
 
 #### Original name
 Uredo behenis DC., 1815

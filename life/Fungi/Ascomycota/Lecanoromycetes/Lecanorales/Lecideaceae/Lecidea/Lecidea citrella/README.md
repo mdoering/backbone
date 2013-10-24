@@ -1,5 +1,4 @@
-Lecidea citrella (Darb.) Hue SPECIES
-=======
+# Lecidea citrella (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

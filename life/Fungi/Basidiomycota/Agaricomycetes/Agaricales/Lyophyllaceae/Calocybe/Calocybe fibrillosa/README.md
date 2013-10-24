@@ -1,5 +1,4 @@
-Calocybe fibrillosa Singer SPECIES
-=======
+# Calocybe fibrillosa Singer SPECIES
 
 #### Status
 ACCEPTED

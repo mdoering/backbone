@@ -1,5 +1,4 @@
-Trypethelium leprieurii Mont. SPECIES
-=======
+# Trypethelium leprieurii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella macrochaeta Speg. SPECIES
-=======
+# Lachnella macrochaeta Speg. SPECIES
 
 #### Status
 ACCEPTED

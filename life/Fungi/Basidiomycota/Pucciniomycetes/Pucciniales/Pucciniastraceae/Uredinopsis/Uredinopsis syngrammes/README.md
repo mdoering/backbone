@@ -1,5 +1,4 @@
-Uredinopsis syngrammes Munjal & J.N. Kapoor SPECIES
-=======
+# Uredinopsis syngrammes Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

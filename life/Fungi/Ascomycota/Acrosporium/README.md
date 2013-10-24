@@ -1,5 +1,4 @@
-Acrosporium Bonorden, 1851 GENUS
-=======
+# Acrosporium Bonorden, 1851 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma mirabile Peck SPECIES
-=======
+# Entoloma mirabile Peck SPECIES
 
 #### Status
 ACCEPTED

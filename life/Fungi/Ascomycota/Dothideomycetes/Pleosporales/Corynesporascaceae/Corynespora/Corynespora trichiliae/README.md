@@ -1,5 +1,4 @@
-Corynespora trichiliae M.B. Ellis, 1960 SPECIES
-=======
+# Corynespora trichiliae M.B. Ellis, 1960 SPECIES
 
 #### Status
 ACCEPTED

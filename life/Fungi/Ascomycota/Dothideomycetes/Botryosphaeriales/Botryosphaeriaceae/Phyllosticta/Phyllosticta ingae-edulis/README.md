@@ -1,5 +1,4 @@
-Phyllosticta ingae-edulis Bat. & Silva {?} SPECIES
-=======
+# Phyllosticta ingae-edulis Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

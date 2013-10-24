@@ -1,5 +1,4 @@
-Cyphellophora G.A. de Vries, 1962 GENUS
-=======
+# Cyphellophora G.A. de Vries, 1962 GENUS
 
 #### Status
 ACCEPTED

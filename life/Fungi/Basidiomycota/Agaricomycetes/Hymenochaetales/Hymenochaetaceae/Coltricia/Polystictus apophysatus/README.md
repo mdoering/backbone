@@ -1,5 +1,4 @@
-Polystictus apophysatus (Rostk.) Cooke SPECIES
-=======
+# Polystictus apophysatus (Rostk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

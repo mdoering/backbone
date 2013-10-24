@@ -1,5 +1,4 @@
-Corynespora litseae Jian Ma & X.G. Zhang SPECIES
-=======
+# Corynespora litseae Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola terricola Greeff, 1888 SPECIES
-=======
+# Vaginicola terricola Greeff, 1888 SPECIES
 
 #### Status
 ACCEPTED

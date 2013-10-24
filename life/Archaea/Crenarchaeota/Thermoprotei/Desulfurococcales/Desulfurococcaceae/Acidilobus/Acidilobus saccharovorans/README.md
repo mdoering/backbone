@@ -1,5 +1,4 @@
-Acidilobus saccharovorans Prokofeva, Kostrikina, Kolganova, Tourova, Lysenko, Lebedinsky & Bonch-Osmolovskaya, 2009 SPECIES
-=======
+# Acidilobus saccharovorans Prokofeva, Kostrikina, Kolganova, Tourova, Lysenko, Lebedinsky & Bonch-Osmolovskaya, 2009 SPECIES
 
 #### Status
 ACCEPTED

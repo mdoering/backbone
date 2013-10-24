@@ -1,5 +1,4 @@
-Pilocratera novoguineensis Ramsb. SPECIES
-=======
+# Pilocratera novoguineensis Ramsb. SPECIES
 
 #### Status
 ACCEPTED

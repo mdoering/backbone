@@ -1,5 +1,4 @@
-Lentinellus marginatus Segedin SPECIES
-=======
+# Lentinellus marginatus Segedin SPECIES
 
 #### Status
 ACCEPTED

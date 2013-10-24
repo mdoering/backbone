@@ -1,5 +1,4 @@
-Pseudolachnea longiciliata (I. Hino & Katum.) B. Sutton SPECIES
-=======
+# Pseudolachnea longiciliata (I. Hino & Katum.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

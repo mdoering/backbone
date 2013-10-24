@@ -1,5 +1,4 @@
-Tintinnopsis elongata Daday, 1887 SPECIES
-=======
+# Tintinnopsis elongata Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

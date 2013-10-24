@@ -1,5 +1,4 @@
-Cayeuxistylus Graindor, 1957 GENUS
-=======
+# Cayeuxistylus Graindor, 1957 GENUS
 
 #### Status
 ACCEPTED

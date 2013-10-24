@@ -1,5 +1,4 @@
-Nodosaria spinicosta d'Orbigny SPECIES
-=======
+# Nodosaria spinicosta d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

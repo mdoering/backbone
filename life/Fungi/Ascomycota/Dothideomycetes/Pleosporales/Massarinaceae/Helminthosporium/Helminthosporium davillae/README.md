@@ -1,5 +1,4 @@
-Helminthosporium davillae Syd. SPECIES
-=======
+# Helminthosporium davillae Syd. SPECIES
 
 #### Status
 ACCEPTED

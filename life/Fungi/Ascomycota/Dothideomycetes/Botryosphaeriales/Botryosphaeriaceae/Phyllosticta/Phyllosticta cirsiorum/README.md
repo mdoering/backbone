@@ -1,5 +1,4 @@
-Phyllosticta cirsiorum Bondartsev SPECIES
-=======
+# Phyllosticta cirsiorum Bondartsev SPECIES
 
 #### Status
 ACCEPTED

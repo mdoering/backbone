@@ -1,5 +1,4 @@
-Meliola manotis Hansf. & Deighton SPECIES
-=======
+# Meliola manotis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

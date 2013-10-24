@@ -1,5 +1,4 @@
-Caloplaca oahuensis Hafellner SPECIES
-=======
+# Caloplaca oahuensis Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kariphilus GENUS
-=======
+# Kariphilus GENUS
 
 #### Status
 ACCEPTED

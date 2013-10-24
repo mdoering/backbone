@@ -1,5 +1,4 @@
-Bacidia alborussula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia alborussula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

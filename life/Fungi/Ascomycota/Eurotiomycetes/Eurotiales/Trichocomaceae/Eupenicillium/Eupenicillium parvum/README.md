@@ -1,17 +1,16 @@
-Penicillium papuanum Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Eupenicillium parvum (Raper & Fennell) Stolk & D.B. Scott, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 14(4): 378 (1973)
+Persoonia 4(4): 402 (1967)
 
 #### Original name
-Penicillium papuanum Udagawa & Y. Horie, 1973
+Penicillium parvum Raper & Fennell, 1948
 
 ### Remarks
 null

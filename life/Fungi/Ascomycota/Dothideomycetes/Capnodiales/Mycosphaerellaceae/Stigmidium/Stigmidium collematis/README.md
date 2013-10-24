@@ -1,5 +1,4 @@
-Stigmidium collematis Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium collematis Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

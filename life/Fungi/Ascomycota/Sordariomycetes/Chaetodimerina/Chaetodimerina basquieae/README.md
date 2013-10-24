@@ -1,5 +1,4 @@
-Chaetodimerina basquieae Hansf. SPECIES
-=======
+# Chaetodimerina basquieae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macbrideola reticulospora Hoof & Nann.-Bremek., 1996 SPECIES
-=======
+# Macbrideola reticulospora Hoof & Nann.-Bremek., 1996 SPECIES
 
 #### Status
 ACCEPTED

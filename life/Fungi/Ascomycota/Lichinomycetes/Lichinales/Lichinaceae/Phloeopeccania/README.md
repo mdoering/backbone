@@ -1,17 +1,16 @@
-Phloeopeccaniomyces Cif. & Tomas. GENUS
-=======
+# Phloeopeccania J. Steiner GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 76 (1953)
+Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 71: 93 (1902)
 
 #### Original name
-Phloeopeccaniomyces Cif. & Tomas.
+Phloeopeccania J. Steiner
 
 ### Remarks
 null

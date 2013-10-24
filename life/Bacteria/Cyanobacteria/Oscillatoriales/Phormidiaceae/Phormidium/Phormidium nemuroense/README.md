@@ -1,5 +1,4 @@
-Phormidium nemuroense (Yoneda) I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium nemuroense (Yoneda) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

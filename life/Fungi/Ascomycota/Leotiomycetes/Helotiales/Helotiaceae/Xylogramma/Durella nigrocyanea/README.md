@@ -1,5 +1,4 @@
-Durella nigrocyanea (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Durella nigrocyanea (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

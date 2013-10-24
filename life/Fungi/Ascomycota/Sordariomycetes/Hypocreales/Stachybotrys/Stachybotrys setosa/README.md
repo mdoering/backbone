@@ -1,5 +1,4 @@
-Stachybotrys setosa ined. SPECIES
-=======
+# Stachybotrys setosa ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sleighophrys pustulata Foissner, 2005 SPECIES
-=======
+# Sleighophrys pustulata Foissner, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella tetradeniae Sankaran & B. Sutton SPECIES
-=======
+# Pseudocercosporella tetradeniae Sankaran & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

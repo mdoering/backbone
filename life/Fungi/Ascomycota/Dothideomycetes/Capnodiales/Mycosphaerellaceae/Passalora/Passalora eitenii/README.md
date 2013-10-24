@@ -1,5 +1,4 @@
-Passalora eitenii R.B. Medeiros & Dianese SPECIES
-=======
+# Passalora eitenii R.B. Medeiros & Dianese SPECIES
 
 #### Status
 ACCEPTED

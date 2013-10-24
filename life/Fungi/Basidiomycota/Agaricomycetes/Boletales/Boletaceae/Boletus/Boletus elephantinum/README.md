@@ -1,5 +1,4 @@
-Boletus elephantinum SPECIES
-=======
+# Boletus elephantinum SPECIES
 
 #### Status
 ACCEPTED

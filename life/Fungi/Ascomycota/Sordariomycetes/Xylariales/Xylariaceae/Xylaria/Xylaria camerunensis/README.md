@@ -1,5 +1,4 @@
-Xylaria camerunensis Henn. SPECIES
-=======
+# Xylaria camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

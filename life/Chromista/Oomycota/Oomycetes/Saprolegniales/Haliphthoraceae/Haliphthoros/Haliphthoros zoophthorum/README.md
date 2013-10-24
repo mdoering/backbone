@@ -1,14 +1,13 @@
-Sirolpidium zoophthorum Vishniac, 1955 SPECIES
-=======
+# Haliphthoros zoophthorum (Vishniac) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47: 641 (1955)
+Straminipilous Fungi (Dordrecht) 317 (2001)
 
 #### Original name
 Sirolpidium zoophthorum Vishniac, 1955

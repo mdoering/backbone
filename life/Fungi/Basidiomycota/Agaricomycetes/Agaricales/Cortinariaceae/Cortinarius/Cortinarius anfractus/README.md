@@ -1,17 +1,16 @@
-Cortinarius infractus var. anfractus (Fr.) Rob. Henry, 1992 VARIETY
-=======
+# Cortinarius anfractus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 262 (1838)
 
 #### Original name
-null
+Cortinarius anfractus Fr., 1838
 
 ### Remarks
 null

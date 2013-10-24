@@ -1,5 +1,4 @@
-Cenangium fatiscens Schwein. SPECIES
-=======
+# Cenangium fatiscens Schwein. SPECIES
 
 #### Status
 ACCEPTED

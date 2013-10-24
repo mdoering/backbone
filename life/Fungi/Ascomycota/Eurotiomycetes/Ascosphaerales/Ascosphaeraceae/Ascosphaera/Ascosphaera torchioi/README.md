@@ -1,5 +1,4 @@
-Ascosphaera torchioi Youssef & McManus SPECIES
-=======
+# Ascosphaera torchioi Youssef & McManus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea fuscescens f. fuscescens FORM
-=======
+# Lecanora fuscescens (Sommerf.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Norrlin, Not. Sällsk. Fauna et Fl. Fenn. Förh. 13: 331 (1874)
 
 #### Original name
-Lecidea fuscescens f. fuscescens
+Lecidea fuscescens Sommerf.
 
 ### Remarks
 null

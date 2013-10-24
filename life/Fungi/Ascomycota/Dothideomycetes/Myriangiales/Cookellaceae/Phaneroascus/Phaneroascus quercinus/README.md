@@ -1,5 +1,4 @@
-Phaneroascus quercinus Baudy SPECIES
-=======
+# Phaneroascus quercinus Baudy SPECIES
 
 #### Status
 ACCEPTED

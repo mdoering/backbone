@@ -1,5 +1,4 @@
-Asterosporium attenuatum Murvan. & Dekan. SPECIES
-=======
+# Asterosporium attenuatum Murvan. & Dekan. SPECIES
 
 #### Status
 ACCEPTED

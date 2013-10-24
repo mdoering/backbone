@@ -1,5 +1,4 @@
-Pseudozyma shanxiensis F.Y. Bai & Q.M. Wang, 2006 SPECIES
-=======
+# Pseudozyma shanxiensis F.Y. Bai & Q.M. Wang, 2006 SPECIES
 
 #### Status
 ACCEPTED

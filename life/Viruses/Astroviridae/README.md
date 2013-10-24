@@ -1,5 +1,4 @@
-Astroviridae FAMILY
-=======
+# Astroviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerotus indicus Jungh. SPECIES
-=======
+# Xerotus indicus Jungh. SPECIES
 
 #### Status
 ACCEPTED

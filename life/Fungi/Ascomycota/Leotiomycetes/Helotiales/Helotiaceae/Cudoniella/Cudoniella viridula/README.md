@@ -1,5 +1,4 @@
-Cudoniella viridula Grelet SPECIES
-=======
+# Cudoniella viridula Grelet SPECIES
 
 #### Status
 ACCEPTED

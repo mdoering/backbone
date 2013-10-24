@@ -1,5 +1,4 @@
-Parafavella subedentata (Jørgensen, 1905) SPECIES
-=======
+# Parafavella subedentata (Jørgensen, 1905) SPECIES
 
 #### Status
 ACCEPTED

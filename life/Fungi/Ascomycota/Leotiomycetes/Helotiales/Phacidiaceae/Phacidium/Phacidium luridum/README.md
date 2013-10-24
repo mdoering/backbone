@@ -1,5 +1,4 @@
-Phacidium luridum (Berk. & M.A. Curtis) W. Phillips SPECIES
-=======
+# Phacidium luridum (Berk. & M.A. Curtis) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

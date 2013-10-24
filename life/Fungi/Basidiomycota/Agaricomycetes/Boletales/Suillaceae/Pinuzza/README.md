@@ -1,5 +1,4 @@
-Pinuzza GENUS
-=======
+# Pinuzza GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Usnea fragilescens f. fragilescens FORM
-=======
+# Usnea fragilescens Hav. ex Lynge SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Usnea fragilescens f. fragilescens
+null
 
 ### Remarks
 null

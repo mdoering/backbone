@@ -1,17 +1,16 @@
-Sticta endochrysea f. endochrysea FORM
-=======
+# Pseudocyphellaria endochrysea (Delise) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Linn. Calvados 2: 43 (1825)
+null
 
 #### Original name
-Sticta endochrysea f. endochrysea
+null
 
 ### Remarks
 null

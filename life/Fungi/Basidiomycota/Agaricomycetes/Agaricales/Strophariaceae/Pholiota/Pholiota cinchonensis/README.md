@@ -1,5 +1,4 @@
-Pholiota cinchonensis Murrill SPECIES
-=======
+# Pholiota cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

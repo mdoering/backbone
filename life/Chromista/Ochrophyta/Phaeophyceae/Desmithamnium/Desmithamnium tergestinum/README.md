@@ -1,5 +1,4 @@
-Desmithamnium tergestinum Reinsch SPECIES
-=======
+# Desmithamnium tergestinum Reinsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta justiciicola Solank. & V.G. Rao SPECIES
-=======
+# Phyllosticta justiciicola Solank. & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

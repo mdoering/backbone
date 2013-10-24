@@ -1,5 +1,4 @@
-Sphaeria latericolla Berk. SPECIES
-=======
+# Sphaeria latericolla Berk. SPECIES
 
 #### Status
 ACCEPTED

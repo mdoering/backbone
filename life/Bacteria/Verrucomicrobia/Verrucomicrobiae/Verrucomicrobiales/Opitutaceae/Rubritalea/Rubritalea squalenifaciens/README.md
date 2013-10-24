@@ -1,5 +1,4 @@
-Rubritalea squalenifaciens Kasai, Katsuta, Sekiguchi, Matsuda, Adachi, Shindo, Yoon, Yokota & Shizuri, 2007 SPECIES
-=======
+# Rubritalea squalenifaciens Kasai, Katsuta, Sekiguchi, Matsuda, Adachi, Shindo, Yoon, Yokota & Shizuri, 2007 SPECIES
 
 #### Status
 ACCEPTED

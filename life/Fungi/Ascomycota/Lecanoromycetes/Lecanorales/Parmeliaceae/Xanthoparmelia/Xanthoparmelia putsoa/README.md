@@ -1,17 +1,16 @@
-Parmelia putsoa (Hale) Brusse SPECIES
-=======
+# Xanthoparmelia putsoa Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 30: 328 (1987)
 
 #### Original name
-null
+Xanthoparmelia putsoa Hale
 
 ### Remarks
 null

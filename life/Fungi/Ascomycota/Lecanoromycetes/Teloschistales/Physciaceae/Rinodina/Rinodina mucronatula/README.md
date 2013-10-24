@@ -1,5 +1,4 @@
-Rinodina mucronatula H. Magn. SPECIES
-=======
+# Rinodina mucronatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella garryae (Cash) Dumont SPECIES
-=======
+# Lambertella garryae (Cash) Dumont SPECIES
 
 #### Status
 ACCEPTED

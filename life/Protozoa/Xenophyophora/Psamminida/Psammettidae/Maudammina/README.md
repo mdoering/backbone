@@ -1,5 +1,4 @@
-Maudammina Tendal, 1972 GENUS
-=======
+# Maudammina Tendal, 1972 GENUS
 
 #### Status
 ACCEPTED

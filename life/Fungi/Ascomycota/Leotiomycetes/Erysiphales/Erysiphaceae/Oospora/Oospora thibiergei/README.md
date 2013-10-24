@@ -1,5 +1,4 @@
-Oospora thibiergei (Ravaut {?} & Pinoy) Sartory SPECIES
-=======
+# Oospora thibiergei (Ravaut {?} & Pinoy) Sartory SPECIES
 
 #### Status
 ACCEPTED

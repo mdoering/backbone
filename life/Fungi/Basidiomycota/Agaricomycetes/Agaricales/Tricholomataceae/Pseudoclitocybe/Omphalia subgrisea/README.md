@@ -1,5 +1,4 @@
-Omphalia subgrisea Velen. SPECIES
-=======
+# Omphalia subgrisea Velen. SPECIES
 
 #### Status
 ACCEPTED

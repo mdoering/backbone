@@ -1,5 +1,4 @@
-Temporina dentata Sah & Kar, 1974 SPECIES
-=======
+# Temporina dentata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

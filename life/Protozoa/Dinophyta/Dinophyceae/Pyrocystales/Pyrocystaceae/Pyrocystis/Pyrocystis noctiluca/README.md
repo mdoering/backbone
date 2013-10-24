@@ -1,8 +1,7 @@
-Pyrocystis pseudonoctiluca Wyville-Thompson SPECIES
-=======
+# Pyrocystis noctiluca Murray ex Schütt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Botryella nitidula Syd. & P. Syd. SPECIES
-=======
+# Botryella nitidula Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

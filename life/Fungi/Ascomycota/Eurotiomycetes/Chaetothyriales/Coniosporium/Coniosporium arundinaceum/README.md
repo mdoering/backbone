@@ -1,5 +1,4 @@
-Coniosporium arundinaceum Sacc. SPECIES
-=======
+# Coniosporium arundinaceum Sacc. SPECIES
 
 #### Status
 ACCEPTED

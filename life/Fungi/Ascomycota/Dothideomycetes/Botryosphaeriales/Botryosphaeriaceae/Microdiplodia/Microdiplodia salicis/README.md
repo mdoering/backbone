@@ -1,5 +1,4 @@
-Microdiplodia salicis Died. SPECIES
-=======
+# Microdiplodia salicis Died. SPECIES
 
 #### Status
 ACCEPTED

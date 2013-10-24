@@ -1,5 +1,4 @@
-Ascostratum cainii Bat. & H. Maia SPECIES
-=======
+# Ascostratum cainii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

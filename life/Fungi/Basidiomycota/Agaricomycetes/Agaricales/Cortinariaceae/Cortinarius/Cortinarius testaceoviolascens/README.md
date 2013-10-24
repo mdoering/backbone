@@ -1,5 +1,4 @@
-Cortinarius testaceoviolascens Bidaud & Reumaux, 2000 SPECIES
-=======
+# Cortinarius testaceoviolascens Bidaud & Reumaux, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davidiella cephalanthae (Sawada) Aptroot, 2006 SPECIES
-=======
+# Davidiella cephalanthae (Sawada) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

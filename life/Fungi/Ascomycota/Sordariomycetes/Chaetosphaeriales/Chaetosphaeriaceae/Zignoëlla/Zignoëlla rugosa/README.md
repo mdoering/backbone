@@ -1,5 +1,4 @@
-Zignoëlla rugosa Starbäck SPECIES
-=======
+# Zignoëlla rugosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

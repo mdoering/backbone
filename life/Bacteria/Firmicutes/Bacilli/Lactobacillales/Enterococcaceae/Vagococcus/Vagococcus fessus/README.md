@@ -1,5 +1,4 @@
-Vagococcus fessus Hoyles et al., 2000 SPECIES
-=======
+# Vagococcus fessus Hoyles et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

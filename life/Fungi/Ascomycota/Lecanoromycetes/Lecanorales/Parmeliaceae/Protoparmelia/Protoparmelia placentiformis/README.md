@@ -1,5 +1,4 @@
-Protoparmelia placentiformis (J. Steiner) Poelt SPECIES
-=======
+# Protoparmelia placentiformis (J. Steiner) Poelt SPECIES
 
 #### Status
 ACCEPTED

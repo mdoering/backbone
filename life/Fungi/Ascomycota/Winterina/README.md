@@ -1,5 +1,4 @@
-Winterina Saccardo, 1891 GENUS
-=======
+# Winterina Saccardo, 1891 GENUS
 
 #### Status
 ACCEPTED

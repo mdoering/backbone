@@ -1,5 +1,4 @@
-Nothotripodiscinus Deflandre, 1972 GENUS
-=======
+# Nothotripodiscinus Deflandre, 1972 GENUS
 
 #### Status
 ACCEPTED

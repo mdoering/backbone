@@ -1,5 +1,4 @@
-Canningia J. Weiser, Wegensteiner & Z. Zizka, 1995 GENUS
-=======
+# Canningia J. Weiser, Wegensteiner & Z. Zizka, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Diploceras anomala (Harkn.) Höhn. SPECIES
-=======
+# Seimatosporium anomalum (Hansf.) Shoemaker, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 42: 416 (1964)
 
 #### Original name
 Pestalotia anomala Harkn., 1884

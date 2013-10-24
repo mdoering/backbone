@@ -1,17 +1,16 @@
-Entomophthora pyriformis Thoizon, 1967 SPECIES
-=======
+# Entomophaga pyriformis Balazy, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora Polska (Kraków), Grzyby (Mycota). Vol. <b>24</b>. Owadomorkowe, <i>Entomophthorales</i> 119 (1993)
 
 #### Original name
-Entomophthora pyriformis Thoizon, 1967
+Entomophaga pyriformis Balazy, 1993
 
 ### Remarks
 null

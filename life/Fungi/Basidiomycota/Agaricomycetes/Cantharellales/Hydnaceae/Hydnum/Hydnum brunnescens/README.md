@@ -1,5 +1,4 @@
-Hydnum brunnescens Velen. SPECIES
-=======
+# Hydnum brunnescens Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia pedicellata C. Knight SPECIES
-=======
+# Bacidia pedicellata C. Knight SPECIES
 
 #### Status
 ACCEPTED

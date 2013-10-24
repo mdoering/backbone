@@ -1,5 +1,4 @@
-Hygrophorus paigei Pammel SPECIES
-=======
+# Hygrophorus paigei Pammel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella tami (Lamy) W. Phillips, 1887 SPECIES
-=======
+# Psilachnum tami (Lamy) Dennis, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 17(2): 368 (1963)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Anthina dichotoma (Roth) Fr. SPECIES
-=======
+# Anthina dichotoma (Roth) Fr. SPECIES
 
 #### Status
 ACCEPTED

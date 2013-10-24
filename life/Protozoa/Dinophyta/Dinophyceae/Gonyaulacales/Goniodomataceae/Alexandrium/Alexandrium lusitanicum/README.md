@@ -1,5 +1,4 @@
-Alexandrium lusitanicum E. Balech SPECIES
-=======
+# Alexandrium lusitanicum E. Balech SPECIES
 
 #### Status
 ACCEPTED

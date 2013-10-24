@@ -1,5 +1,4 @@
-Mycosphaerella anacardiicola Bat. SPECIES
-=======
+# Mycosphaerella anacardiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

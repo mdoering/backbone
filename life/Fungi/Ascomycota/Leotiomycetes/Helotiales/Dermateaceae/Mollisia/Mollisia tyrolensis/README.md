@@ -1,5 +1,4 @@
-Mollisia tyrolensis Sacc. SPECIES
-=======
+# Mollisia tyrolensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

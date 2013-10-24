@@ -1,5 +1,4 @@
-Gymnopilus marginatus B.J. Rees SPECIES
-=======
+# Gymnopilus marginatus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia traversiana Syd. SPECIES
-=======
+# Puccinia traversiana Syd. SPECIES
 
 #### Status
 ACCEPTED

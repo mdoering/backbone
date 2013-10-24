@@ -1,5 +1,4 @@
-Sarcogyne latericola J. Steiner SPECIES
-=======
+# Sarcogyne latericola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

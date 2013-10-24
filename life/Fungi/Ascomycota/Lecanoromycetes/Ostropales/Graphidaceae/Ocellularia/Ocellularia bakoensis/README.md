@@ -1,5 +1,4 @@
-Ocellularia bakoensis Nagarkar & Hale SPECIES
-=======
+# Ocellularia bakoensis Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

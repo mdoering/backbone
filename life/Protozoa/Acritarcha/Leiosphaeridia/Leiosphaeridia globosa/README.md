@@ -1,5 +1,4 @@
-Leiosphaeridia globosa (White, 1842) Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia globosa (White, 1842) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hydnofomes tsugicola Henn. & Shirai, 1900 SPECIES
-=======
+# Echinodontium tsugicola (Henn. & Shirai) Imazeki, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 28: 268 (1900)
+J. Jap. Bot. 11: 517 (1935)
 
 #### Original name
 Hydnofomes tsugicola Henn. & Shirai, 1900

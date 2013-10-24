@@ -1,5 +1,4 @@
-Boletus streptopus J. Blum SPECIES
-=======
+# Boletus streptopus J. Blum SPECIES
 
 #### Status
 ACCEPTED

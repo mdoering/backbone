@@ -1,5 +1,4 @@
-Phyllosticta acericola f. acericola FORM
-=======
+# Phyllosticta acericola Mig. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cryptogamae Germaniae Aust. & Helvetiae exs. 56-57: no. 392 (1933)
 
 #### Original name
-Phyllosticta acericola f. acericola
+Phyllosticta acericola Mig.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius argillohygrophanicus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius argillohygrophanicus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

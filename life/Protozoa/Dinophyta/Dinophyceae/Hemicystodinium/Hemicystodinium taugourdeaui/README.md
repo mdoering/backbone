@@ -1,5 +1,4 @@
-Hemicystodinium taugourdeaui (Varma & A.K. Dangwal) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Hemicystodinium taugourdeaui (Varma & A.K. Dangwal) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

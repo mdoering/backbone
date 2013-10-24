@@ -1,5 +1,4 @@
-Aldridgea ignatiana Rick SPECIES
-=======
+# Aldridgea ignatiana Rick SPECIES
 
 #### Status
 ACCEPTED

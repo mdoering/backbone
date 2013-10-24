@@ -1,5 +1,4 @@
-Lecidea aberrans SPECIES
-=======
+# Lecidea aberrans SPECIES
 
 #### Status
 ACCEPTED

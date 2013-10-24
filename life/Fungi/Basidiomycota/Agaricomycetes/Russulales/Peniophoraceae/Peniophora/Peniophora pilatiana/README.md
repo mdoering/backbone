@@ -1,5 +1,4 @@
-Peniophora pilatiana Pouzar & Svrcek, 1953 SPECIES
-=======
+# Peniophora pilatiana Pouzar & Svrcek, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta effervescens Nyl. SPECIES
-=======
+# Gyalecta effervescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

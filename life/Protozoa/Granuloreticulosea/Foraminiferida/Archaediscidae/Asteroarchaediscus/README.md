@@ -1,5 +1,4 @@
-Asteroarchaediscus Miklukho-Maklay, 1956 GENUS
-=======
+# Asteroarchaediscus Miklukho-Maklay, 1956 GENUS
 
 #### Status
 ACCEPTED

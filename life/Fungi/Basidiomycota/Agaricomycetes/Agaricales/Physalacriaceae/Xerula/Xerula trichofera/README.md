@@ -1,5 +1,4 @@
-Xerula trichofera R.H. Petersen SPECIES
-=======
+# Xerula trichofera R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

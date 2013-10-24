@@ -1,5 +1,4 @@
-Mycosphaerella leucospermi Crous & Joanne E. Taylor SPECIES
-=======
+# Mycosphaerella leucospermi Crous & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

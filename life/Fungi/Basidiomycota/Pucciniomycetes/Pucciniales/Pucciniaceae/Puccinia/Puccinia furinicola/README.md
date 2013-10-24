@@ -1,5 +1,4 @@
-Puccinia furinicola Arth. SPECIES
-=======
+# Puccinia furinicola Arth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma salsolae Moesz SPECIES
-=======
+# Phoma salsolae Moesz SPECIES
 
 #### Status
 ACCEPTED

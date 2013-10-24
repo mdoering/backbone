@@ -1,5 +1,4 @@
-Cylindrosporium samueli Hansf. SPECIES
-=======
+# Cylindrosporium samueli Hansf. SPECIES
 
 #### Status
 ACCEPTED

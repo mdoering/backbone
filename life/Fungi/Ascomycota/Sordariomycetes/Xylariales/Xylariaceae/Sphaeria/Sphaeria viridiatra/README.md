@@ -1,5 +1,4 @@
-Sphaeria viridiatra Schwein. SPECIES
-=======
+# Sphaeria viridiatra Schwein. SPECIES
 
 #### Status
 ACCEPTED

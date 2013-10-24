@@ -1,5 +1,4 @@
-Russula mitissima Singer SPECIES
-=======
+# Russula mitissima Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca hymettii J. Steiner SPECIES
-=======
+# Caloplaca hymettii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

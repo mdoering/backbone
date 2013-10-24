@@ -1,5 +1,4 @@
-Balansia pallida G. Winter SPECIES
-=======
+# Balansia pallida G. Winter SPECIES
 
 #### Status
 ACCEPTED

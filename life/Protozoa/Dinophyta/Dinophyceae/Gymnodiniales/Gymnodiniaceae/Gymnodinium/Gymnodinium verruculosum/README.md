@@ -1,5 +1,4 @@
-Gymnodinium verruculosum P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium verruculosum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

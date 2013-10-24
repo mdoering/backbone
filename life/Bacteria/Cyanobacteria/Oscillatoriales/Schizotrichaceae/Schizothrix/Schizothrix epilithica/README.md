@@ -1,8 +1,7 @@
-Schizothrix affinis var. epilithica Ercegovic, 1925 VARIETY
-=======
+# Schizothrix epilithica (Ercegovic) Anagnostidis, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

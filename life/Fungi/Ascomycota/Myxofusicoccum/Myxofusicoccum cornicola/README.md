@@ -1,14 +1,13 @@
-Myxofusicoccum cornicolum (Sacc.) Petr. SPECIES
-=======
+# Myxofusicoccum cornicola (Sacc.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 62: 301 (1921)
 
 #### Original name
 Fusicoccum cornicola Sacc.

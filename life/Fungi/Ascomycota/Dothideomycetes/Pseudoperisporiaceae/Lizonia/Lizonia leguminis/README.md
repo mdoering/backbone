@@ -1,5 +1,4 @@
-Lizonia leguminis Rehm SPECIES
-=======
+# Lizonia leguminis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia verbenacea Har. & Briard SPECIES
-=======
+# Diplodia verbenacea Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

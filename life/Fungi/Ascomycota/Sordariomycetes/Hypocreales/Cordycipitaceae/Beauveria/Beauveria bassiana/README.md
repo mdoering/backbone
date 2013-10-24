@@ -1,17 +1,16 @@
-Botrytis bassiana var. bassiana VARIETY
-=======
+# Beauveria bassiana (Bals.-Criv.) Vuill., 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Triennale Lab. Bot. Crittog. 79: 127 (1836)
+Bull. Soc. bot. Fr. 12: 40 (1912)
 
 #### Original name
-Botrytis bassiana var. bassiana
+Botrytis bassiana Bals.-Criv., 1836
 
 ### Remarks
 null

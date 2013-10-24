@@ -1,5 +1,4 @@
-Thelactis alba Preuss SPECIES
-=======
+# Thelactis alba Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia accomodans Gyeln. SPECIES
-=======
+# Aspicilia accomodans Gyeln. SPECIES
 
 #### Status
 ACCEPTED

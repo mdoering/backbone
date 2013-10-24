@@ -1,5 +1,4 @@
-Chlamydoabsidia Hesselt. & J.J. Ellis GENUS
-=======
+# Chlamydoabsidia Hesselt. & J.J. Ellis GENUS
 
 #### Status
 ACCEPTED

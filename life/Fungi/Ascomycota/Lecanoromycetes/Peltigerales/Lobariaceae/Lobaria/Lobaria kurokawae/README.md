@@ -1,5 +1,4 @@
-Lobaria kurokawae Yoshim. SPECIES
-=======
+# Lobaria kurokawae Yoshim. SPECIES
 
 #### Status
 ACCEPTED

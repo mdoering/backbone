@@ -1,5 +1,4 @@
-Coccodinium laricis W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Coccodinium laricis W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

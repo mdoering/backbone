@@ -1,5 +1,4 @@
-Sporacetigenium mesophilum Chen et al., 2006 SPECIES
-=======
+# Sporacetigenium mesophilum Chen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

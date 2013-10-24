@@ -1,5 +1,4 @@
-Tapesia succinea Rehm SPECIES
-=======
+# Tapesia succinea Rehm SPECIES
 
 #### Status
 ACCEPTED

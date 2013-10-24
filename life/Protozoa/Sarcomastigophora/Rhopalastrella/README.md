@@ -1,5 +1,4 @@
-Rhopalastrella Haeckel, 1887 GENUS
-=======
+# Rhopalastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

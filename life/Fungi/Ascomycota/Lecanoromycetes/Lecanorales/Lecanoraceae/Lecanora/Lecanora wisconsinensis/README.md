@@ -1,5 +1,4 @@
-Lecanora wisconsinensis H. Magn. SPECIES
-=======
+# Lecanora wisconsinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gnomoniella devexa var. devexa VARIETY
-=======
+# Plagiostoma devexum (Desm.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 417 (1882)
+in Saccardo, Jb. nassau. Ver. Naturk. 23-24: 119 (1870)
 
 #### Original name
-Gnomoniella devexa var. devexa
+Sphaeria devexa Desm., 1856
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyochaeta plovercovensis Goh & K.D. Hyde SPECIES
-=======
+# Dictyochaeta plovercovensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia ruficeps Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia ruficeps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

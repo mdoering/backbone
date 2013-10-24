@@ -1,5 +1,4 @@
-Ditopellopsis linearis M.E. Barr SPECIES
-=======
+# Ditopellopsis linearis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

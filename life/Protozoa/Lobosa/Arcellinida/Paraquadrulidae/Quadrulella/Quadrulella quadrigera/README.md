@@ -1,5 +1,4 @@
-Quadrulella quadrigera SPECIES
-=======
+# Quadrulella quadrigera SPECIES
 
 #### Status
 ACCEPTED

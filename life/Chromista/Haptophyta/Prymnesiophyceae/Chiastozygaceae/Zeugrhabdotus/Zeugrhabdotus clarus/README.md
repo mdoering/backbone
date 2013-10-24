@@ -1,5 +1,4 @@
-Zeugrhabdotus clarus SPECIES
-=======
+# Zeugrhabdotus clarus SPECIES
 
 #### Status
 ACCEPTED

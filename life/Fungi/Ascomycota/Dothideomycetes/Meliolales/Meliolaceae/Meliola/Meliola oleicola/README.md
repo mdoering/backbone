@@ -1,5 +1,4 @@
-Meliola oleicola var. oleicola VARIETY
-=======
+# Meliola oleicola Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 1: 73 (1922)
 
 #### Original name
-Meliola oleicola var. oleicola
+Meliola oleicola Doidge
 
 ### Remarks
 null

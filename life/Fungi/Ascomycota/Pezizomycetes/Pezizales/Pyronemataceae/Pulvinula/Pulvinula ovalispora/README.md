@@ -1,5 +1,4 @@
-Pulvinula ovalispora Boud. SPECIES
-=======
+# Pulvinula ovalispora Boud. SPECIES
 
 #### Status
 ACCEPTED

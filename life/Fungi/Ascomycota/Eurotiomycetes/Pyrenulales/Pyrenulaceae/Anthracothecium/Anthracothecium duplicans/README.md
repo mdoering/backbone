@@ -1,5 +1,4 @@
-Anthracothecium duplicans (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium duplicans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

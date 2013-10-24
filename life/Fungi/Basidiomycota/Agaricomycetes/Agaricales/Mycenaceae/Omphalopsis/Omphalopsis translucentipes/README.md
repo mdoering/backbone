@@ -1,5 +1,4 @@
-Omphalopsis translucentipes Murrill SPECIES
-=======
+# Omphalopsis translucentipes Murrill SPECIES
 
 #### Status
 ACCEPTED

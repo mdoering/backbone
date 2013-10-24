@@ -1,5 +1,4 @@
-Squamarina bullata (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Squamarina bullata (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

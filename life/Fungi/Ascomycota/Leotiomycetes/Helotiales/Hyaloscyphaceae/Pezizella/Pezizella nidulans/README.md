@@ -1,5 +1,4 @@
-Pezizella nidulans Velen. SPECIES
-=======
+# Pezizella nidulans Velen. SPECIES
 
 #### Status
 ACCEPTED

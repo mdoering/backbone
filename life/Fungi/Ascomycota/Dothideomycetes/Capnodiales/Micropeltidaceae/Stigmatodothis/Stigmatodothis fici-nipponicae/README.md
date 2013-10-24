@@ -1,5 +1,4 @@
-Stigmatodothis fici-nipponicae I. Hino & Katum. SPECIES
-=======
+# Stigmatodothis fici-nipponicae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

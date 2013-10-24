@@ -1,5 +1,4 @@
-Cytospora ipomoeae S. Ahmad & Arshad SPECIES
-=======
+# Cytospora ipomoeae S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

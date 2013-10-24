@@ -1,5 +1,4 @@
-Diaporthe subpyramidata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe subpyramidata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

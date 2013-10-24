@@ -1,17 +1,16 @@
-Fioriella Saccardo, 1905 GENUS
-=======
+# Diplodina Westendorp, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3(2): 168 (1905)
+Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 2 2(2): 562 (1857)
 
 #### Original name
-Fioriella Saccardo, 1905
+Diplodina Westendorp, 1857
 
 ### Remarks
 null

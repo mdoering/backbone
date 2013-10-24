@@ -1,5 +1,4 @@
-Taeniospora crucelliger SPECIES
-=======
+# Taeniospora crucelliger SPECIES
 
 #### Status
 ACCEPTED

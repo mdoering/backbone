@@ -1,5 +1,4 @@
-Agaricus melaniceps Cooke & Massee SPECIES
-=======
+# Agaricus melaniceps Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

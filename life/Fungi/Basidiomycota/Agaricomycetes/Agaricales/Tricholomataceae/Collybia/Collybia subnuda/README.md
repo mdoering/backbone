@@ -1,5 +1,4 @@
-Collybia subnuda (Ellis ex Peck) Gilliam SPECIES
-=======
+# Collybia subnuda (Ellis ex Peck) Gilliam SPECIES
 
 #### Status
 ACCEPTED

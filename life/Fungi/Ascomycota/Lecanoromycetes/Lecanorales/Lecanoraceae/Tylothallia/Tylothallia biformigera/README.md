@@ -1,14 +1,13 @@
-Lecanactis biformigera (Leight.) Zahlbr. SPECIES
-=======
+# Tylothallia biformigera (Leight.) P. James & H. Kilias SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 533 (1923)
+in Kilias, Herzogia 5(3-4): 409 (1981)
 
 #### Original name
 Lecidea biformigera Leight.

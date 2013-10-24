@@ -1,5 +1,4 @@
-Collema multipunctatum Degel. SPECIES
-=======
+# Collema multipunctatum Degel. SPECIES
 
 #### Status
 ACCEPTED

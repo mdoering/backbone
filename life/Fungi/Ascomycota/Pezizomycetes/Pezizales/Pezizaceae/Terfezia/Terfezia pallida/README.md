@@ -1,5 +1,4 @@
-Terfezia pallida (Lázaro Ibiza) Malençon SPECIES
-=======
+# Terfezia pallida (Lázaro Ibiza) Malençon SPECIES
 
 #### Status
 ACCEPTED

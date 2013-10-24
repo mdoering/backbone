@@ -1,5 +1,4 @@
-Phialoascus Redhead & Malloch GENUS
-=======
+# Phialoascus Redhead & Malloch GENUS
 
 #### Status
 ACCEPTED

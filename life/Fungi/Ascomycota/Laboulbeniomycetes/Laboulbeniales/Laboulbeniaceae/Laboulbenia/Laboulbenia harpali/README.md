@@ -1,5 +1,4 @@
-Laboulbenia harpali Thaxt. SPECIES
-=======
+# Laboulbenia harpali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

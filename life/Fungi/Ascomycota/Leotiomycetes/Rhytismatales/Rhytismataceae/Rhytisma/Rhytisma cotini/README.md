@@ -1,5 +1,4 @@
-Rhytisma cotini Ces. SPECIES
-=======
+# Rhytisma cotini Ces. SPECIES
 
 #### Status
 ACCEPTED

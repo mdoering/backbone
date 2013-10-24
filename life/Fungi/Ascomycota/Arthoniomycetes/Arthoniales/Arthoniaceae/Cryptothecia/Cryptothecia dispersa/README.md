@@ -1,5 +1,4 @@
-Cryptothecia dispersa Makhija & Patw. SPECIES
-=======
+# Cryptothecia dispersa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

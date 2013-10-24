@@ -1,5 +1,4 @@
-Ganoderma comorense (Henn.) Sacc. & Trotter SPECIES
-=======
+# Ganoderma comorense (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

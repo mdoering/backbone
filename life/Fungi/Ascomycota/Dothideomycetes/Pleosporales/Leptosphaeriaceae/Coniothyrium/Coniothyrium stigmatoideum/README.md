@@ -1,5 +1,4 @@
-Coniothyrium stigmatoideum Sacc. SPECIES
-=======
+# Coniothyrium stigmatoideum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Macrophoma maublanci Sacc. & D. Sacc. SPECIES
-=======
+# Macrophoma maublancii Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 273 (1906)
 
 #### Original name
-Macrophoma maublanci Sacc. & D. Sacc.
+Macrophoma ulmicola Dearn.
 
 ### Remarks
 null

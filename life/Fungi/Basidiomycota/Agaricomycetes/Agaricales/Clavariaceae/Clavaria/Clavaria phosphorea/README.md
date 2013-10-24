@@ -1,5 +1,4 @@
-Clavaria phosphorea Sowerby SPECIES
-=======
+# Clavaria phosphorea Sowerby SPECIES
 
 #### Status
 ACCEPTED

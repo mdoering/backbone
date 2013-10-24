@@ -1,5 +1,4 @@
-Hydrocybe impennis (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe impennis (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

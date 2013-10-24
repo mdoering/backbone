@@ -1,5 +1,4 @@
-Septoria inconspicua Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Septoria inconspicua Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
 ACCEPTED

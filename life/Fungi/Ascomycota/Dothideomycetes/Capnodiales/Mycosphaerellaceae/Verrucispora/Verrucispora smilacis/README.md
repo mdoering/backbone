@@ -1,14 +1,13 @@
-Stenella smilacicola D.E. Shaw & Alcorn, 1993 SPECIES
-=======
+# Verrucispora smilacis (G.P. Agarwal) McKenzie, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. Syst. Bot. 6(3): 274 (1993)
+N. Z. Jl Bot. 20(3): 252 (1982)
 
 #### Original name
 Biharia smilacis G.P. Agarwal, 1960

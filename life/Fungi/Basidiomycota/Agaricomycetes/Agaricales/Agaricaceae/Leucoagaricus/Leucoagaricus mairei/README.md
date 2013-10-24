@@ -1,5 +1,4 @@
-Leucoagaricus mairei Bon SPECIES
-=======
+# Leucoagaricus mairei Bon SPECIES
 
 #### Status
 ACCEPTED

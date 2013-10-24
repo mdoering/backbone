@@ -1,5 +1,4 @@
-Psathyrella subrosea P. Karst. SPECIES
-=======
+# Psathyrella subrosea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria basalduai Speg. SPECIES
-=======
+# Leptosphaeria basalduai Speg. SPECIES
 
 #### Status
 ACCEPTED

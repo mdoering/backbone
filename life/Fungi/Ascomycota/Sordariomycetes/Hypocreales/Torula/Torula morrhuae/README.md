@@ -1,5 +1,4 @@
-Torula morrhuae (Farl.) Sacc. SPECIES
-=======
+# Torula morrhuae (Farl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

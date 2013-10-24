@@ -1,14 +1,13 @@
-Moesziomyces eriocauli (G.P. Clinton) Vánky, 1986 SPECIES
-=======
+# Dermatosorus eriocauli (G.P. Clinton) M.D. Whitehead & Thirum., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 6(1): 71 (1986)
+Mycologia 64(1): 128 (1972)
 
 #### Original name
 Tolyposporium eriocauli G.P. Clinton, 1901

@@ -1,5 +1,4 @@
-Hypoxylonites foldexinus Elsik SPECIES
-=======
+# Hypoxylonites foldexinus Elsik SPECIES
 
 #### Status
 ACCEPTED

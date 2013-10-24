@@ -1,5 +1,4 @@
-Pyrenochaeta robiniana J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Pyrenochaeta robiniana J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

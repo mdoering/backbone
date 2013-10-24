@@ -1,5 +1,4 @@
-Graphis hochreutineri Redinger SPECIES
-=======
+# Graphis hochreutineri Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dilatisphaera laevigata Lister, 1970 SPECIES
-=======
+# Dilatisphaera laevigata Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

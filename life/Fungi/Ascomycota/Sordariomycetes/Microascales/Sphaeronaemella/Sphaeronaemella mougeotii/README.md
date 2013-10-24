@@ -1,14 +1,13 @@
-Sphaeria mougeotii Fr., 1828 SPECIES
-=======
+# Sphaeronaemella mougeotii (Fr.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 100 (1828)
+Syll. fung. (Abellini) 3: 617 (1884)
 
 #### Original name
 Sphaeria mougeotii Fr., 1828

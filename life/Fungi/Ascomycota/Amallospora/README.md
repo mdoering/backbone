@@ -1,5 +1,4 @@
-Amallospora Penz. GENUS
-=======
+# Amallospora Penz. GENUS
 
 #### Status
 ACCEPTED

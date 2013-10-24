@@ -1,5 +1,4 @@
-Placolecanora baranowii (Poelt) Kopach. SPECIES
-=======
+# Placolecanora baranowii (Poelt) Kopach. SPECIES
 
 #### Status
 ACCEPTED

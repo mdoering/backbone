@@ -1,5 +1,4 @@
-Coniosporium hysterinum Bubák SPECIES
-=======
+# Coniosporium hysterinum Bubák SPECIES
 
 #### Status
 ACCEPTED

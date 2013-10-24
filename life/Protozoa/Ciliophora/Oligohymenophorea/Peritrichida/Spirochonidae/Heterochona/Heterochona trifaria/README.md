@@ -1,5 +1,4 @@
-Heterochona trifaria Jankowski, 1972 SPECIES
-=======
+# Heterochona trifaria Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

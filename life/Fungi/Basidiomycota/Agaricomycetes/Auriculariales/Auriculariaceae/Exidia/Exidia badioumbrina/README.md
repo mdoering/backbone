@@ -1,5 +1,4 @@
-Exidia badioumbrina (Bres.) Neuhoff SPECIES
-=======
+# Exidia badioumbrina (Bres.) Neuhoff SPECIES
 
 #### Status
 ACCEPTED

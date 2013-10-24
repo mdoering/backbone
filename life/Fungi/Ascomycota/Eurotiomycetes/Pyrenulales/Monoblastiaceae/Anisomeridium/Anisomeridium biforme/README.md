@@ -1,17 +1,16 @@
-Arthopyrenia biformis f. biformis FORM
-=======
+# Anisomeridium biforme (Borrer) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Framm. Lichenogr. 26 (1855)
+in Vezda, Folia geobot. phytotax. 20: 207 (1978)
 
 #### Original name
-Arthopyrenia biformis f. biformis
+Verrucaria biformis Borrer
 
 ### Remarks
 null

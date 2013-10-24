@@ -1,5 +1,4 @@
-Multicellaesporites littoralis Sal.-Cheb. & Locq. SPECIES
-=======
+# Multicellaesporites littoralis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

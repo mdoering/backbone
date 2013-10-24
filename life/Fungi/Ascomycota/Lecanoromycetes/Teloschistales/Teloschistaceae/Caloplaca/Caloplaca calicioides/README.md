@@ -1,5 +1,4 @@
-Caloplaca calicioides P. M. Jørg. SPECIES
-=======
+# Caloplaca calicioides P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

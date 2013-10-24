@@ -1,5 +1,4 @@
-Poria minima Ravenel SPECIES
-=======
+# Poria minima Ravenel SPECIES
 
 #### Status
 ACCEPTED

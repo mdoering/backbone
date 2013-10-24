@@ -1,5 +1,4 @@
-Leptosphaeria canephorae Steyaert SPECIES
-=======
+# Leptosphaeria canephorae Steyaert SPECIES
 
 #### Status
 ACCEPTED

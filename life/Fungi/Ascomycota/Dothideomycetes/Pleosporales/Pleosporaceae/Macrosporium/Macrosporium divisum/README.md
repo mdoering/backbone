@@ -1,5 +1,4 @@
-Macrosporium divisum Bonord. SPECIES
-=======
+# Macrosporium divisum Bonord. SPECIES
 
 #### Status
 ACCEPTED

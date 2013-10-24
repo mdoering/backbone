@@ -1,5 +1,4 @@
-Gonatobotrys lateritia Peck SPECIES
-=======
+# Gonatobotrys lateritia Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina grisea (Fr.) Quél., 1886 SPECIES
-=======
+# Omphalina grisea (Fr.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED

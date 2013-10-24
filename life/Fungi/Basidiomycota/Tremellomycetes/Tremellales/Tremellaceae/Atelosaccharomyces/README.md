@@ -1,5 +1,4 @@
-Atelosaccharomyces GENUS
-=======
+# Atelosaccharomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Longispora albida Matsumoto et al., 2003 SPECIES
-=======
+# Longispora albida Matsumoto et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

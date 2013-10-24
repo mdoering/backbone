@@ -1,5 +1,4 @@
-Didymocoryne pallidula (Rehm) Sacc. & Trotter SPECIES
-=======
+# Didymocoryne pallidula (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

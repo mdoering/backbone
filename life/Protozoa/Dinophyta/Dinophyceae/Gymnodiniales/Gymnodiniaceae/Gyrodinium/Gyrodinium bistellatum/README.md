@@ -1,5 +1,4 @@
-Gyrodinium bistellatum Conrad & Kufferath SPECIES
-=======
+# Gyrodinium bistellatum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

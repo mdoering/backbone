@@ -1,5 +1,4 @@
-Psilachnum equisetinum (Quél.) Svrcek SPECIES
-=======
+# Psilachnum equisetinum (Quél.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

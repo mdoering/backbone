@@ -1,5 +1,4 @@
-Anaeroglobus Carlier et al., 2002 GENUS
-=======
+# Anaeroglobus Carlier et al., 2002 GENUS
 
 #### Status
 ACCEPTED

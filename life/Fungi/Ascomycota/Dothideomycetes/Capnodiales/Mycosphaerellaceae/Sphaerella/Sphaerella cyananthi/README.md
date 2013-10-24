@@ -1,5 +1,4 @@
-Sphaerella cyananthi Pat. SPECIES
-=======
+# Sphaerella cyananthi Pat. SPECIES
 
 #### Status
 ACCEPTED

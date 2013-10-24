@@ -1,11 +1,10 @@
-Phacus subsalsus Proskinova-Lavrenko SPECIES
-=======
+# Phacus parvulus G.A. Klebs, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

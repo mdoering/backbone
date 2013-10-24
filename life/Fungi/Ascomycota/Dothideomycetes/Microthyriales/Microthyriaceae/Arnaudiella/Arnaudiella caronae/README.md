@@ -1,5 +1,4 @@
-Arnaudiella caronae (Pass.) Petr., 1927 SPECIES
-=======
+# Arnaudiella caronae (Pass.) Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

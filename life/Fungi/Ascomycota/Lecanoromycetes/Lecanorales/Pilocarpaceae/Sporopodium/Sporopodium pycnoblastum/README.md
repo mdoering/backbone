@@ -1,5 +1,4 @@
-Sporopodium pycnoblastum Vain. SPECIES
-=======
+# Sporopodium pycnoblastum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Acidiphilium aminilyticum Kishimoto et al., 1994 SPECIES
-=======
+# Acidocella aminolytica (Kishimoto et al., 1994) Kishimoto et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

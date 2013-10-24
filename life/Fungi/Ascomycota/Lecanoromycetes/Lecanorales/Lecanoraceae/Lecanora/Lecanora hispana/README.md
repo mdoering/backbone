@@ -1,5 +1,4 @@
-Lecanora hispana (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora hispana (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

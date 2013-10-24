@@ -1,5 +1,4 @@
-Monochaetia uniseta (Tracy & Ellis) Sacc. SPECIES
-=======
+# Monochaetia uniseta (Tracy & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

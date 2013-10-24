@@ -1,5 +1,4 @@
-Leucopaxillus vulpeculus (Kalchbr.) Bon SPECIES
-=======
+# Leucopaxillus vulpeculus (Kalchbr.) Bon SPECIES
 
 #### Status
 ACCEPTED

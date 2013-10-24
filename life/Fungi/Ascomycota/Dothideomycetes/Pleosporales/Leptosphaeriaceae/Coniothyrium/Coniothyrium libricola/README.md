@@ -1,5 +1,4 @@
-Coniothyrium libricola (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Coniothyrium libricola (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotremella cystidiolophora Boidin & Gilles, 1994 SPECIES
-=======
+# Sistotremella cystidiolophora Boidin & Gilles, 1994 SPECIES
 
 #### Status
 ACCEPTED

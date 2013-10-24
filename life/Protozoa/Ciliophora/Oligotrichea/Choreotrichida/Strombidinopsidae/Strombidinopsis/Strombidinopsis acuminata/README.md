@@ -1,5 +1,4 @@
-Strombidinopsis acuminata Stokes, 1886 SPECIES
-=======
+# Strombidinopsis acuminata Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

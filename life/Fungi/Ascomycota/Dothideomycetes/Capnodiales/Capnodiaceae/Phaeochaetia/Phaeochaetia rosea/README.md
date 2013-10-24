@@ -1,5 +1,4 @@
-Phaeochaetia rosea (Hansf.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia rosea (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

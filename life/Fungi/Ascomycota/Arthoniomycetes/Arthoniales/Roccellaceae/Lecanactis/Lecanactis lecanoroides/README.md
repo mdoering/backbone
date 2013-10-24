@@ -1,5 +1,4 @@
-Lecanactis lecanoroides Mont. & Bosch SPECIES
-=======
+# Lecanactis lecanoroides Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

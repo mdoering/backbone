@@ -1,5 +1,4 @@
-Proteus entericus SPECIES
-=======
+# Proteus entericus SPECIES
 
 #### Status
 ACCEPTED

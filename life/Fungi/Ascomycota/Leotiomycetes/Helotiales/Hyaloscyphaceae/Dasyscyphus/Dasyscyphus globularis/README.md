@@ -1,5 +1,4 @@
-Dasyscyphus globularis (Höhn.) Korf SPECIES
-=======
+# Dasyscyphus globularis (Höhn.) Korf SPECIES
 
 #### Status
 ACCEPTED

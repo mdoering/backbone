@@ -1,5 +1,4 @@
-Chaetosphaeria luquillensis F.A. Fernández & Huhndorf SPECIES
-=======
+# Chaetosphaeria luquillensis F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

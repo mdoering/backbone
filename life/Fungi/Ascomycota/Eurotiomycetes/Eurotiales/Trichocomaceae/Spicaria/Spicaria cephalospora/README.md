@@ -1,5 +1,4 @@
-Spicaria cephalospora Kamyschko SPECIES
-=======
+# Spicaria cephalospora Kamyschko SPECIES
 
 #### Status
 ACCEPTED

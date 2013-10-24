@@ -1,14 +1,13 @@
-Gliomastix nigricans C.H. Dickinson, 1968 SPECIES
-=======
+# Acremonium nigricans (C.H. Dickinson) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 115: 7 (1968)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 93 (1971)
 
 #### Original name
 Gliomastix nigricans C.H. Dickinson, 1968

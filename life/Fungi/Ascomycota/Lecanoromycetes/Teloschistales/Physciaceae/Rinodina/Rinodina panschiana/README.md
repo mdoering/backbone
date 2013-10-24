@@ -1,5 +1,4 @@
-Rinodina panschiana SPECIES
-=======
+# Rinodina panschiana SPECIES
 
 #### Status
 ACCEPTED

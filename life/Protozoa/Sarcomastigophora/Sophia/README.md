@@ -1,5 +1,4 @@
-Sophia Whalen & Carter, 1998 GENUS
-=======
+# Sophia Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

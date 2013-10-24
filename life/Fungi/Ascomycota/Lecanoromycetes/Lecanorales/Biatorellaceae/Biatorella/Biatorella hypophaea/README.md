@@ -1,5 +1,4 @@
-Biatorella hypophaea SPECIES
-=======
+# Biatorella hypophaea SPECIES
 
 #### Status
 ACCEPTED

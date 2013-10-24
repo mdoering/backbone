@@ -1,5 +1,4 @@
-Hypoxylon julianii L.E. Petrini, 1986 SPECIES
-=======
+# Hypoxylon julianii L.E. Petrini, 1986 SPECIES
 
 #### Status
 ACCEPTED

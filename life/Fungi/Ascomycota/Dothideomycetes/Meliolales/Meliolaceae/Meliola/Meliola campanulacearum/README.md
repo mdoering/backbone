@@ -1,5 +1,4 @@
-Meliola campanulacearum Mig. Rodr. & Camino SPECIES
-=======
+# Meliola campanulacearum Mig. Rodr. & Camino SPECIES
 
 #### Status
 ACCEPTED

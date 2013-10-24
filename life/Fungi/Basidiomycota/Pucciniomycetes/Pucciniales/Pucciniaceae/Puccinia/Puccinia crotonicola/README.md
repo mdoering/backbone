@@ -1,5 +1,4 @@
-Puccinia crotonicola Speg. SPECIES
-=======
+# Puccinia crotonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

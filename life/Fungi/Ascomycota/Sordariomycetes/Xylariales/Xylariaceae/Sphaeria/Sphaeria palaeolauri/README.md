@@ -1,5 +1,4 @@
-Sphaeria palaeolauri Ettingsh. SPECIES
-=======
+# Sphaeria palaeolauri Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Impletosphaeridium primordiale W. Wetzel, 1967 SPECIES
-=======
+# Impletosphaeridium primordiale W. Wetzel, 1967 SPECIES
 
 #### Status
 ACCEPTED

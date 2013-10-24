@@ -1,17 +1,16 @@
-Hydnum joeides Pass., 1872 SPECIES
-=======
+# Sarcodon joeides (Pass.) Bataille, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 39(4): 205 (1924)
 
 #### Original name
-null
+Hydnum jonides Pass.
 
 ### Remarks
 null

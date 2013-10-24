@@ -1,5 +1,4 @@
-Usnea nigropapillosa P.M. Jørg. SPECIES
-=======
+# Usnea nigropapillosa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

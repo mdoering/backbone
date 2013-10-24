@@ -1,5 +1,4 @@
-Cortinarius rapaceotomentosus Delaporte & Eyssart. SPECIES
-=======
+# Cortinarius rapaceotomentosus Delaporte & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia fimbrisytylidis Arthur SPECIES
-=======
+# Puccinia fimbrisytylidis Arthur SPECIES
 
 #### Status
 ACCEPTED

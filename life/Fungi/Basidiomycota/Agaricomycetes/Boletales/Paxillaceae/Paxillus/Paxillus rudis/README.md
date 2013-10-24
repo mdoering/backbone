@@ -1,5 +1,4 @@
-Paxillus rudis Berk. & M.A. Curtis SPECIES
-=======
+# Paxillus rudis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

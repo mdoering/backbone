@@ -1,5 +1,4 @@
-Harknessia globispora Crous & S.J. Lee SPECIES
-=======
+# Harknessia globispora Crous & S.J. Lee SPECIES
 
 #### Status
 ACCEPTED

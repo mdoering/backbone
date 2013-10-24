@@ -1,5 +1,4 @@
-Placodium scoriophilum A. Massal. SPECIES
-=======
+# Placodium scoriophilum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

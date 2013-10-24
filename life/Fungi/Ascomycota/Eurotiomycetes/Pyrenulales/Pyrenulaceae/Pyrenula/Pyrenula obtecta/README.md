@@ -1,5 +1,4 @@
-Pyrenula obtecta G. Merr. SPECIES
-=======
+# Pyrenula obtecta G. Merr. SPECIES
 
 #### Status
 ACCEPTED

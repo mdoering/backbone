@@ -1,5 +1,4 @@
-Hygrophorus foeteus SPECIES
-=======
+# Hygrophorus foeteus SPECIES
 
 #### Status
 ACCEPTED

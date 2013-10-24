@@ -1,5 +1,4 @@
-Lecidea subacervulata Briss. SPECIES
-=======
+# Lecidea subacervulata Briss. SPECIES
 
 #### Status
 ACCEPTED

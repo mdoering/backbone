@@ -1,5 +1,4 @@
-Coprinus consobrinus Mont. SPECIES
-=======
+# Coprinus consobrinus Mont. SPECIES
 
 #### Status
 ACCEPTED

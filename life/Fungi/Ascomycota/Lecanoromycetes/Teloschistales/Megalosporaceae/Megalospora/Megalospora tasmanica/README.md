@@ -1,5 +1,4 @@
-Megalospora tasmanica (Jatta) Zahlbr. SPECIES
-=======
+# Megalospora tasmanica (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

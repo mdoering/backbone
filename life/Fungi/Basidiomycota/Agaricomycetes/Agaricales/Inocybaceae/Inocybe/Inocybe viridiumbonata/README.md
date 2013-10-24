@@ -1,5 +1,4 @@
-Inocybe viridiumbonata Pegler SPECIES
-=======
+# Inocybe viridiumbonata Pegler SPECIES
 
 #### Status
 ACCEPTED

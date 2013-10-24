@@ -1,5 +1,4 @@
-Meliola megalospora (Speg.) F. Stevens SPECIES
-=======
+# Meliola megalospora (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

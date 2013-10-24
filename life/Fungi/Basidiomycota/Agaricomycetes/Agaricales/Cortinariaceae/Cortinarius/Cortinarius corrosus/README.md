@@ -1,14 +1,13 @@
-Phlegmacium corrosum (Fr.) M.M. Moser, 1960 SPECIES
-=======
+# Cortinarius corrosus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 180 (1953)
+Epicr. syst. mycol. (Upsaliae) 266 (1838)
 
 #### Original name
 Cortinarius corrosus Fr., 1838

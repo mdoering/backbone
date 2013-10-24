@@ -1,5 +1,4 @@
-Puccinia limosae Magnus SPECIES
-=======
+# Puccinia limosae Magnus SPECIES
 
 #### Status
 ACCEPTED

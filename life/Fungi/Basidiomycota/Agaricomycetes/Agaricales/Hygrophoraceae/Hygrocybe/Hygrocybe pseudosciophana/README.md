@@ -1,5 +1,4 @@
-Hygrocybe pseudosciophana Heinem. SPECIES
-=======
+# Hygrocybe pseudosciophana Heinem. SPECIES
 
 #### Status
 ACCEPTED

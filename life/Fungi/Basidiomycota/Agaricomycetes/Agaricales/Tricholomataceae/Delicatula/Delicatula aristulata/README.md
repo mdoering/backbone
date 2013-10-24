@@ -1,5 +1,4 @@
-Delicatula aristulata Velen. SPECIES
-=======
+# Delicatula aristulata Velen. SPECIES
 
 #### Status
 ACCEPTED

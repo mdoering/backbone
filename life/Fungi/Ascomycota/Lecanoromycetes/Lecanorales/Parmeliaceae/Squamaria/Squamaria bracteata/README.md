@@ -1,5 +1,4 @@
-Squamaria bracteata (Hoffm.) H. Olivier SPECIES
-=======
+# Squamaria bracteata (Hoffm.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

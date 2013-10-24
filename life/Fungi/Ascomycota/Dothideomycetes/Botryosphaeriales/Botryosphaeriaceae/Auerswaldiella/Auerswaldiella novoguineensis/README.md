@@ -1,5 +1,4 @@
-Auerswaldiella novoguineensis Otani SPECIES
-=======
+# Auerswaldiella novoguineensis Otani SPECIES
 
 #### Status
 ACCEPTED

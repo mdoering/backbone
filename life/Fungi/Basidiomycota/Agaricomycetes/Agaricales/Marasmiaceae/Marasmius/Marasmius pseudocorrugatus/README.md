@@ -1,5 +1,4 @@
-Marasmius pseudocorrugatus Singer SPECIES
-=======
+# Marasmius pseudocorrugatus Singer SPECIES
 
 #### Status
 ACCEPTED

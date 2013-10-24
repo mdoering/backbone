@@ -1,5 +1,4 @@
-Cladina pseudoevansii (Asahina) Hale & W.L. Culb. SPECIES
-=======
+# Cladina pseudoevansii (Asahina) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

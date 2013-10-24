@@ -1,5 +1,4 @@
-Spinellus gigasporus Cooke & Massee SPECIES
-=======
+# Spinellus gigasporus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

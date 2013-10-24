@@ -1,5 +1,4 @@
-Ophiomeliola Starbäck GENUS
-=======
+# Ophiomeliola Starbäck GENUS
 
 #### Status
 ACCEPTED

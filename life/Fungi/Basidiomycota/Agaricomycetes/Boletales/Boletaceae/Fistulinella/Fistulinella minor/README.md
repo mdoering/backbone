@@ -1,5 +1,4 @@
-Fistulinella minor Guzmán, 1974 SPECIES
-=======
+# Fistulinella minor Guzmán, 1974 SPECIES
 
 #### Status
 ACCEPTED

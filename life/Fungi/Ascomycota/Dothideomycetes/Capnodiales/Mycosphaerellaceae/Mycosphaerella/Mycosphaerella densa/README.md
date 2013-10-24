@@ -1,5 +1,4 @@
-Mycosphaerella densa (Rostr.) Lind SPECIES
-=======
+# Mycosphaerella densa (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

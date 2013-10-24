@@ -1,5 +1,4 @@
-Actinokineospora Hasegawa, 1988 GENUS
-=======
+# Actinokineospora Hasegawa, 1988 GENUS
 
 #### Status
 ACCEPTED

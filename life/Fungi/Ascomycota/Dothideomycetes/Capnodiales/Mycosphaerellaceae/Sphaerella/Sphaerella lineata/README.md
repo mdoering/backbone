@@ -1,5 +1,4 @@
-Sphaerella lineata (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella lineata (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

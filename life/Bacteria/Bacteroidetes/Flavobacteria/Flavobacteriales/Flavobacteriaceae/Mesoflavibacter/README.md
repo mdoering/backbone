@@ -1,5 +1,4 @@
-Mesoflavibacter Asker, Beppu & Ueda, 2008 GENUS
-=======
+# Mesoflavibacter Asker, Beppu & Ueda, 2008 GENUS
 
 #### Status
 ACCEPTED

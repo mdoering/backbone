@@ -1,14 +1,13 @@
-Galera tibiicystis (G.F. Atk.) A. Pearson, 1952 SPECIES
-=======
+# Galerina tibiicystis (G.F. Atk.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 35: 113 (1952)
+Encyclop. Mycol. 7: 176 (1935)
 
 #### Original name
 Galerula tibiicystis G.F. Atk., 1918

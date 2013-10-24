@@ -1,5 +1,4 @@
-Baltisphaeridium bifurcata Timofeev, 1959 ex Martin, 1969 SPECIES
-=======
+# Baltisphaeridium bifurcata Timofeev, 1959 ex Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pratella amethystina (Quél.) Quél. SPECIES
-=======
+# Pratella amethystina (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

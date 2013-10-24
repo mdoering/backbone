@@ -1,5 +1,4 @@
-Steirochaete solani Casp. SPECIES
-=======
+# Steirochaete solani Casp. SPECIES
 
 #### Status
 ACCEPTED

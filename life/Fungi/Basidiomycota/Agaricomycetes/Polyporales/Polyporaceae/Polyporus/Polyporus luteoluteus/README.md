@@ -1,5 +1,4 @@
-Polyporus luteoluteus Lloyd SPECIES
-=======
+# Polyporus luteoluteus Lloyd SPECIES
 
 #### Status
 ACCEPTED

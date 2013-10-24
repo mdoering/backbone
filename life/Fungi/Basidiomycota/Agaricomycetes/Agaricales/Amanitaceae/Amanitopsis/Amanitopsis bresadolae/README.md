@@ -1,5 +1,4 @@
-Amanitopsis bresadolae (Schulzer) Sacc. SPECIES
-=======
+# Amanitopsis bresadolae (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uleodothis rhynchosporae (Rehm) Theiss. & Syd. SPECIES
-=======
+# Uleodothis rhynchosporae (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

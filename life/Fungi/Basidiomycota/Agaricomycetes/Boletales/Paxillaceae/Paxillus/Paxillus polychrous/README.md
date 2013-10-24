@@ -1,5 +1,4 @@
-Paxillus polychrous Singer SPECIES
-=======
+# Paxillus polychrous Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria tunicata Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria tunicata Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

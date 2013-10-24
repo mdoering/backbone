@@ -1,5 +1,4 @@
-Rhabdospora eremuri Ohl SPECIES
-=======
+# Rhabdospora eremuri Ohl SPECIES
 
 #### Status
 ACCEPTED

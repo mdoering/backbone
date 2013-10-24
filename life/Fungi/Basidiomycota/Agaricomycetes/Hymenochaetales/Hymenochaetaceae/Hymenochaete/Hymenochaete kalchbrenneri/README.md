@@ -1,5 +1,4 @@
-Hymenochaete kalchbrenneri Massee SPECIES
-=======
+# Hymenochaete kalchbrenneri Massee SPECIES
 
 #### Status
 ACCEPTED

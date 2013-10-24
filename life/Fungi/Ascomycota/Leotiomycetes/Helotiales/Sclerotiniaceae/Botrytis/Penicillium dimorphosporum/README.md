@@ -1,5 +1,4 @@
-Penicillium dimorphosporum H.J. Swart, 1970 SPECIES
-=======
+# Penicillium dimorphosporum H.J. Swart, 1970 SPECIES
 
 #### Status
 DOUBTFUL

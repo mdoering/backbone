@@ -1,5 +1,4 @@
-Caloplaca oregona H. Magn. SPECIES
-=======
+# Caloplaca oregona H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria deviata Syd. SPECIES
-=======
+# Metasphaeria deviata Syd. SPECIES
 
 #### Status
 ACCEPTED

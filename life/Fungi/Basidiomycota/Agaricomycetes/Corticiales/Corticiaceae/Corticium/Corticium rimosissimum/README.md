@@ -1,5 +1,4 @@
-Corticium rimosissimum Pass. & Beltr. SPECIES
-=======
+# Corticium rimosissimum Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

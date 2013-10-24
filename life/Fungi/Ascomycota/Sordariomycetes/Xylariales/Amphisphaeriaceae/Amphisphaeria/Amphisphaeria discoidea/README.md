@@ -1,5 +1,4 @@
-Amphisphaeria discoidea Pat. SPECIES
-=======
+# Amphisphaeria discoidea Pat. SPECIES
 
 #### Status
 ACCEPTED

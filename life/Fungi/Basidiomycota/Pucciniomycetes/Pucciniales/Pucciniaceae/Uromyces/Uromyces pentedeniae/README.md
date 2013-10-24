@@ -1,5 +1,4 @@
-Uromyces pentedeniae W.R. Gerard SPECIES
-=======
+# Uromyces pentedeniae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

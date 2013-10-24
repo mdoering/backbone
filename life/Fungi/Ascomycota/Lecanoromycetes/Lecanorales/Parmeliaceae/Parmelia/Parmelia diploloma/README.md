@@ -1,5 +1,4 @@
-Parmelia diploloma Mont. SPECIES
-=======
+# Parmelia diploloma Mont. SPECIES
 
 #### Status
 ACCEPTED

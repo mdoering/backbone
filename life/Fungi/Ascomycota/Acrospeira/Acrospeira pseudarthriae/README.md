@@ -1,5 +1,4 @@
-Acrospeira pseudarthriae Hansf. SPECIES
-=======
+# Acrospeira pseudarthriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

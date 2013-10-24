@@ -1,5 +1,4 @@
-Ascochyta citri Penz. SPECIES
-=======
+# Ascochyta citri Penz. SPECIES
 
 #### Status
 ACCEPTED

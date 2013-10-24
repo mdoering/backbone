@@ -1,5 +1,4 @@
-Sclerotium compactum var. compactum VARIETY
-=======
+# Sclerotium compactum DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 112 (1815)
 
 #### Original name
-Sclerotium compactum var. compactum
+Sclerotium compactum DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonula opuntiae Ellis & Everh. SPECIES
-=======
+# Hendersonula opuntiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

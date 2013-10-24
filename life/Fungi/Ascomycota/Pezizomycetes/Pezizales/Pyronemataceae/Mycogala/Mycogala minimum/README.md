@@ -1,5 +1,4 @@
-Mycogala minimum (Fr.) P. Karst. SPECIES
-=======
+# Mycogala minimum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

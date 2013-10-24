@@ -1,5 +1,4 @@
-Henningsomyces minimus var. minimus VARIETY
-=======
+# Henningsomyces minimus (Cooke & W. Phillips) Kuntze SPECIES
 
 #### Status
 ACCEPTED

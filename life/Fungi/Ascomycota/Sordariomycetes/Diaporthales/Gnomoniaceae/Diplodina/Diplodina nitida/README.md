@@ -1,5 +1,4 @@
-Diplodina nitida P. Karst. SPECIES
-=======
+# Diplodina nitida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

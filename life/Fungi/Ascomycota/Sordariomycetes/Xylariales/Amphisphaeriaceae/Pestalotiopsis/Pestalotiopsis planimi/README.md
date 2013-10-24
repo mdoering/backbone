@@ -1,5 +1,4 @@
-Pestalotiopsis planimi (Vize) Steyaert SPECIES
-=======
+# Pestalotiopsis planimi (Vize) Steyaert SPECIES
 
 #### Status
 ACCEPTED

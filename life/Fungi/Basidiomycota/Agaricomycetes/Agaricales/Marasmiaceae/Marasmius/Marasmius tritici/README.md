@@ -1,5 +1,4 @@
-Marasmius tritici P.A. Young SPECIES
-=======
+# Marasmius tritici P.A. Young SPECIES
 
 #### Status
 ACCEPTED

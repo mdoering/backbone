@@ -1,5 +1,4 @@
-Baltisphaeridium eoplanctonicum SPECIES
-=======
+# Baltisphaeridium eoplanctonicum SPECIES
 
 #### Status
 ACCEPTED

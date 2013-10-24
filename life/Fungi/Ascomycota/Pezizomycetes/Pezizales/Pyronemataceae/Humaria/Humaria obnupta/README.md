@@ -1,5 +1,4 @@
-Humaria obnupta (P. Karst.) Sacc. SPECIES
-=======
+# Humaria obnupta (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

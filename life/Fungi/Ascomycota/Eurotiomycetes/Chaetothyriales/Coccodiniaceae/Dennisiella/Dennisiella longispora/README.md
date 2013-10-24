@@ -1,5 +1,4 @@
-Dennisiella longispora Mig. Rodr., 1985 SPECIES
-=======
+# Dennisiella longispora Mig. Rodr., 1985 SPECIES
 
 #### Status
 ACCEPTED

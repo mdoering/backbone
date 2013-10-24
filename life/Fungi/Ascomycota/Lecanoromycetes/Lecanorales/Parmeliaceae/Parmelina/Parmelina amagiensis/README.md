@@ -1,5 +1,4 @@
-Parmelina amagiensis (Asahina) Hale SPECIES
-=======
+# Parmelina amagiensis (Asahina) Hale SPECIES
 
 #### Status
 ACCEPTED

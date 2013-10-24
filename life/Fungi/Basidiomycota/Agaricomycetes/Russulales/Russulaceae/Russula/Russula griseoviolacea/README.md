@@ -1,5 +1,4 @@
-Russula griseoviolacea McNabb, 1973 SPECIES
-=======
+# Russula griseoviolacea McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

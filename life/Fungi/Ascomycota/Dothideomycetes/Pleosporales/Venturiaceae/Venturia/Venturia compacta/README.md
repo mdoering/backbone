@@ -1,5 +1,4 @@
-Venturia compacta Peck SPECIES
-=======
+# Venturia compacta Peck SPECIES
 
 #### Status
 ACCEPTED

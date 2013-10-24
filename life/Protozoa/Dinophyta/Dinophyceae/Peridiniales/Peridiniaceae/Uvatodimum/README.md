@@ -1,5 +1,4 @@
-Uvatodimum Vozzhennikova, 1963 GENUS
-=======
+# Uvatodimum Vozzhennikova, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Volvariella osvaldoi (Bat.) Putzke SPECIES
-=======
+# Volvariella oswaldoi (Bat.) Putzke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Caderno de Pesquisa, Série Botânica 6(2): 73 (1994)
 
 #### Original name
 Volvaria oswaldoi Bat.

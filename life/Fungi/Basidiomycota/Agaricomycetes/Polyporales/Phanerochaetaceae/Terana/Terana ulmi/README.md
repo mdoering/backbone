@@ -1,5 +1,4 @@
-Terana ulmi (Lasch) Kuntze SPECIES
-=======
+# Terana ulmi (Lasch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

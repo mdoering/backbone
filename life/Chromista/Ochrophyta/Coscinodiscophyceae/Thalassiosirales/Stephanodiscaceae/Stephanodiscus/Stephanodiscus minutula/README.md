@@ -1,5 +1,4 @@
-Stephanodiscus minutula (Kütz.) Round SPECIES
-=======
+# Stephanodiscus minutula (Kütz.) Round SPECIES
 
 #### Status
 ACCEPTED

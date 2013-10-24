@@ -1,5 +1,4 @@
-Puccinia johnstonii Arthur SPECIES
-=======
+# Puccinia johnstonii Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cruciplacolithus pinnatus M. Black SPECIES
-=======
+# Cruciplacolithus pinnatus M. Black SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber harknessii Gilkey SPECIES
-=======
+# Tuber harknessii Gilkey SPECIES
 
 #### Status
 ACCEPTED

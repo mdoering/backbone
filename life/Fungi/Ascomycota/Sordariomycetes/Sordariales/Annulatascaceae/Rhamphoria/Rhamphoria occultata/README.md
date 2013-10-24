@@ -1,5 +1,4 @@
-Rhamphoria occultata (Feltgen) Höhn. SPECIES
-=======
+# Rhamphoria occultata (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

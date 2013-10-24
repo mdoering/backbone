@@ -1,5 +1,4 @@
-Agaricus glaucipes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus glaucipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

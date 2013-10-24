@@ -1,5 +1,4 @@
-Crepidotus epicrocinus Berk. & Broome SPECIES
-=======
+# Crepidotus epicrocinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

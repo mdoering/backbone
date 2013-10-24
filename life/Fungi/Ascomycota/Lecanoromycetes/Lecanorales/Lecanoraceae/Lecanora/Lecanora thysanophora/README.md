@@ -1,5 +1,4 @@
-Lecanora thysanophora R.C. Harris SPECIES
-=======
+# Lecanora thysanophora R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

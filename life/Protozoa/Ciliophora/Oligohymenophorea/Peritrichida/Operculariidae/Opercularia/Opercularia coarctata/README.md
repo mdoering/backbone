@@ -1,5 +1,4 @@
-Opercularia coarctata (Claparède & Lachmann, 1858) Roux, 1901 SPECIES
-=======
+# Opercularia coarctata (Claparède & Lachmann, 1858) Roux, 1901 SPECIES
 
 #### Status
 ACCEPTED

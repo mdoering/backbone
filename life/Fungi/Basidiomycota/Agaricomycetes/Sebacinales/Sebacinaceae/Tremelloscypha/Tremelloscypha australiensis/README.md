@@ -1,5 +1,4 @@
-Tremelloscypha australiensis D.A. Reid, 1979 SPECIES
-=======
+# Tremelloscypha australiensis D.A. Reid, 1979 SPECIES
 
 #### Status
 ACCEPTED

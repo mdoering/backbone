@@ -1,8 +1,7 @@
-Plagiostoma rhododendri (Auersw.) Sogonov, 2008 SPECIES
-=======
+# Gnomonia rhododendri Auersw., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Gnomonia rhododendri Auersw., 1869
 
 ### Remarks
 null

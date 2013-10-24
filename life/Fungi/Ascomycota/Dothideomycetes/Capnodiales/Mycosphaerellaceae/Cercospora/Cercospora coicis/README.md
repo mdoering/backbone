@@ -1,17 +1,16 @@
-Cercospora coixii M.S. Patil & Sawant SPECIES
-=======
+# Cercospora coicis M.S. Patil & Sawant SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 44(1): 17 (1991)
 
 #### Original name
-Cercospora coixii M.S. Patil & Sawant
+Cercospora coicis M.S. Patil & Sawant
 
 ### Remarks
 null

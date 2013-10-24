@@ -1,8 +1,7 @@
-Anabaena oscillarioides var. cylindracea Playfair VARIETY
-=======
+# Anabaena torulosa Lagerheim ex Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

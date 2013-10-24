@@ -1,5 +1,4 @@
-Geiselodinium inaffectum Drugg, 1978 SPECIES
-=======
+# Geiselodinium inaffectum Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

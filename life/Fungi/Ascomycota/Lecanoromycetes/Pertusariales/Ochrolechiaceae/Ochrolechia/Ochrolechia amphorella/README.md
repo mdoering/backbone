@@ -1,5 +1,4 @@
-Ochrolechia amphorella (Nyl.) Vain. SPECIES
-=======
+# Ochrolechia amphorella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

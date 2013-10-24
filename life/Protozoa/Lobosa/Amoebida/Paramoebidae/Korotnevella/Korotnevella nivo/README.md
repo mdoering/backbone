@@ -1,5 +1,4 @@
-Korotnevella nivo Smirnov, 1997 SPECIES
-=======
+# Korotnevella nivo Smirnov, 1997 SPECIES
 
 #### Status
 ACCEPTED

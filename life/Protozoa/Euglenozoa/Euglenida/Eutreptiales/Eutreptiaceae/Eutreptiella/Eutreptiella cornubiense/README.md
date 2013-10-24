@@ -1,5 +1,4 @@
-Eutreptiella cornubiense Butcher, 1961 SPECIES
-=======
+# Eutreptiella cornubiense Butcher, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia charrua Speg. SPECIES
-=======
+# Laboulbenia charrua Speg. SPECIES
 
 #### Status
 ACCEPTED

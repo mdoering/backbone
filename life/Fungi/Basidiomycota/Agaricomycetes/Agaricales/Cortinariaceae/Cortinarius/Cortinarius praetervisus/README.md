@@ -1,5 +1,4 @@
-Cortinarius praetervisus Melot SPECIES
-=======
+# Cortinarius praetervisus Melot SPECIES
 
 #### Status
 ACCEPTED

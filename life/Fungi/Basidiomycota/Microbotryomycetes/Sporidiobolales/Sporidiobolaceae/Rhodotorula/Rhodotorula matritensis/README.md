@@ -1,17 +1,16 @@
-Rhodotorula matritense C. Ramírez, C.C. González & C. Gut. SPECIES
-=======
+# Rhodotorula matritensis C. Ramírez, C.C. González & C. Gut. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 74(3): 173 (1981)
 
 #### Original name
-Rhodotorula matritense C. Ramírez, C.C. González & C. Gut.
+Rhodotorula matritensis C. Ramírez, C.C. González & C. Gut.
 
 ### Remarks
 null

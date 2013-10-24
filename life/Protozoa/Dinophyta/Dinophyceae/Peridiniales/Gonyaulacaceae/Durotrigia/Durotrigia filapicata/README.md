@@ -1,5 +1,4 @@
-Durotrigia filapicata (H. Gocht) J.B. Riding & D.A. Bailey SPECIES
-=======
+# Durotrigia filapicata (H. Gocht) J.B. Riding & D.A. Bailey SPECIES
 
 #### Status
 ACCEPTED

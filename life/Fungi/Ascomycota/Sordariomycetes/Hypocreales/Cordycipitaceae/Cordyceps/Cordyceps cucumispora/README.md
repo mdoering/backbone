@@ -1,5 +1,4 @@
-Cordyceps cucumispora var. cucumispora VARIETY
-=======
+# Cordyceps cucumispora H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 79(3): 442 (1982)
 
 #### Original name
-Cordyceps cucumispora var. cucumispora
+Cordyceps cucumispora H.C. Evans & Samson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Umbilicaria depressa (Ach.) Duby SPECIES
-=======
+# Umbilicaria depressa (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

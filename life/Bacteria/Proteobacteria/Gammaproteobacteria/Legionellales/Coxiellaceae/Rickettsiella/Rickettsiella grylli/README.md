@@ -1,5 +1,4 @@
-Rickettsiella grylli (ex Vago & Martoja, 1963) Weiss et al., 1984 SPECIES
-=======
+# Rickettsiella grylli (ex Vago & Martoja, 1963) Weiss et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

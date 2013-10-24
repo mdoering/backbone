@@ -1,5 +1,4 @@
-Asterothrix microscopica Kütz. SPECIES
-=======
+# Asterothrix microscopica Kütz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mesophellia agglutinosporus G.W. Beaton, 1983 SPECIES
-=======
+# Gummiglobus agglutinosporus (G.W. Beaton) Trappe, Castellano & Amar., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Beaton & Weste, Trans. Br. mycol. Soc. 80(2): 217 (1983)
+Aust. Syst. Bot. 9(5): 807 (1996)
 
 #### Original name
 Mesophellia agglutinosporus G.W. Beaton, 1983

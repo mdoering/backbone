@@ -1,5 +1,4 @@
-Cephalosporium eriophytis (Massee) Petch SPECIES
-=======
+# Cephalosporium eriophytis (Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

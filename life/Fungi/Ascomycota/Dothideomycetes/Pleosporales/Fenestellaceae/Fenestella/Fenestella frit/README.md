@@ -1,5 +1,4 @@
-Fenestella frit (Fr.) Sacc., 1883 SPECIES
-=======
+# Fenestella frit (Fr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

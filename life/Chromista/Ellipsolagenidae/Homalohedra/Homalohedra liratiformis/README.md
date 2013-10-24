@@ -1,5 +1,4 @@
-Homalohedra liratiformis (McCulloch, 1977) SPECIES
-=======
+# Homalohedra liratiformis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

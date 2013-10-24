@@ -1,5 +1,4 @@
-Microdiplodia lauretana Curzi & Barbaini SPECIES
-=======
+# Microdiplodia lauretana Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

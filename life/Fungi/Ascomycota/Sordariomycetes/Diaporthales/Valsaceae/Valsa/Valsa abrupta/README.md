@@ -1,14 +1,13 @@
-Leucostoma abruptum (Cooke) Höhn., 1928 SPECIES
-=======
+# Valsa abrupta Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 5: 55 (1928)
+Grevillea 7(no. 43): 83 (1879)
 
 #### Original name
 Valsa abrupta Cooke, 1879

@@ -1,5 +1,4 @@
-Septoria barystachydis Miura SPECIES
-=======
+# Septoria barystachydis Miura SPECIES
 
 #### Status
 ACCEPTED

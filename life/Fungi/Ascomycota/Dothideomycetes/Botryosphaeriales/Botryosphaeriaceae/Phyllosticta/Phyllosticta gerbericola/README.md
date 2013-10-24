@@ -1,5 +1,4 @@
-Phyllosticta gerbericola Bat. SPECIES
-=======
+# Phyllosticta gerbericola Bat. SPECIES
 
 #### Status
 ACCEPTED

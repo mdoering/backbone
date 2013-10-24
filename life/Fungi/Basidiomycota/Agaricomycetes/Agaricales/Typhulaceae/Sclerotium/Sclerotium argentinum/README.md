@@ -1,5 +1,4 @@
-Sclerotium argentinum Sacc. & Speg. SPECIES
-=======
+# Sclerotium argentinum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shewanellaceae FAMILY
-=======
+# Shewanellaceae FAMILY
 
 #### Status
 ACCEPTED

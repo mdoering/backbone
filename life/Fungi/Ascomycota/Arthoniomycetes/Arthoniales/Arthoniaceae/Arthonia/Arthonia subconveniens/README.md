@@ -1,8 +1,7 @@
-Conida subconveniens (Nyl.) Vouaux SPECIES
-=======
+# Arthonia subconveniens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,17 +1,16 @@
-Pertusaria lecanina subsp. nigra Fink ex J. Hedrick SUBSPECIES
-=======
+# Pertusaria lecanina Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria lecanina subsp. nigra Fink ex J. Hedrick
+Pertusaria lecanina Tuck.
 
 ### Remarks
 null

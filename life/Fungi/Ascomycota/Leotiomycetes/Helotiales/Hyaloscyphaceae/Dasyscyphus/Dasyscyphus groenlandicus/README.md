@@ -1,8 +1,7 @@
-Dasyscypha groenlandicus (Rostr.) Sacc. SPECIES
-=======
+# Dasyscyphus groenlandicus (Rostr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

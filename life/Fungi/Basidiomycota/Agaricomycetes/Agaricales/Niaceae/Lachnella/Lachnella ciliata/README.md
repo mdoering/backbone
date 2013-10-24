@@ -1,5 +1,4 @@
-Lachnella ciliata (Saut.) W.B. Cooke SPECIES
-=======
+# Lachnella ciliata (Saut.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

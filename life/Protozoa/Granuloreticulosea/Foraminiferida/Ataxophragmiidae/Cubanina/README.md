@@ -1,5 +1,4 @@
-Cubanina Palmer, 1936 GENUS
-=======
+# Cubanina Palmer, 1936 GENUS
 
 #### Status
 ACCEPTED

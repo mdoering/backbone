@@ -1,5 +1,4 @@
-Mycenoporella clypeata (Pat.) R. Heim SPECIES
-=======
+# Mycenoporella clypeata (Pat.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

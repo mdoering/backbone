@@ -1,14 +1,13 @@
-Arthopyrenia albocinerea (Kremp.) Müll. Arg. SPECIES
-=======
+# Polymeridium albocinereum (Kremp.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bol. Mus. Paraense Emilio Goeldi, ser. Bot. 7(2): 625 (1993)
 
 #### Original name
 null

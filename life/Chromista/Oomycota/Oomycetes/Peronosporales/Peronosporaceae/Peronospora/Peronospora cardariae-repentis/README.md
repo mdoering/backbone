@@ -1,5 +1,4 @@
-Peronospora cardariae-repentis N.P. Golovina SPECIES
-=======
+# Peronospora cardariae-repentis N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

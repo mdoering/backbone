@@ -1,14 +1,13 @@
-Xenodiscella ambigua Petr., 1954 SPECIES
-=======
+# Rhagadolobium ambiguum (Petr.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8: 86 (1954)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 43 (1962)
 
 #### Original name
 Xenodiscella ambigua Petr., 1954

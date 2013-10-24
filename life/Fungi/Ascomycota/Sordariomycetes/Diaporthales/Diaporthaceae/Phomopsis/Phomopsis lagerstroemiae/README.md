@@ -1,5 +1,4 @@
-Phomopsis lagerstroemiae C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis lagerstroemiae C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

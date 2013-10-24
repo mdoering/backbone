@@ -1,5 +1,4 @@
-Gaarderiella Carbonell-Moore, 2010 GENUS
-=======
+# Gaarderiella Carbonell-Moore, 2010 GENUS
 
 #### Status
 ACCEPTED

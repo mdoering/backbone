@@ -1,5 +1,4 @@
-Anthostomella leucobasis Ellis & G. Martin SPECIES
-=======
+# Anthostomella leucobasis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

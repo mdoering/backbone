@@ -1,5 +1,4 @@
-Sticta thouarsii f. thouarsii Delise FORM
-=======
+# Sticta thouarsii Delise SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta thouarsii f. thouarsii Delise
+Sticta thouarsii Delise
 
 ### Remarks
 null

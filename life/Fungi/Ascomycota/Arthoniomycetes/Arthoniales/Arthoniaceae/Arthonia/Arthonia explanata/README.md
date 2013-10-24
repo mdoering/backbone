@@ -1,5 +1,4 @@
-Arthonia explanata Nyl. SPECIES
-=======
+# Arthonia explanata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russulina gedehensis Henn. SPECIES
-=======
+# Russulina gedehensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichopeziza alboviridis Sacc. SPECIES
-=======
+# Proliferodiscus alboviridis (Sacc.) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 642 (1987)
 
 #### Original name
 Trichopeziza alboviridis Sacc.

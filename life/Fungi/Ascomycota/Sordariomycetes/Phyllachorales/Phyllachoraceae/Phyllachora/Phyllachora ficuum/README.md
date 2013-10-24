@@ -1,8 +1,7 @@
-Phyllachora ficuum var. ficuum Niessl, 1881 VARIETY
-=======
+# Phyllachora ficuum Niessl, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Hedwigia 20: 99 (1881)
 
 #### Original name
-Phyllachora ficuum var. ficuum Niessl, 1881
+Phyllachora ficuum Niessl, 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria ocimicola Naphade SPECIES
-=======
+# Leptosphaeria ocimicola Naphade SPECIES
 
 #### Status
 ACCEPTED

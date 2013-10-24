@@ -1,5 +1,4 @@
-Polyporus coriaceus Berk. & Ravenel SPECIES
-=======
+# Polyporus coriaceus Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

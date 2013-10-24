@@ -1,5 +1,4 @@
-Asterothyrium microthyrioides Henn. SPECIES
-=======
+# Asterothyrium microthyrioides Henn. SPECIES
 
 #### Status
 ACCEPTED

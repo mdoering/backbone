@@ -1,5 +1,4 @@
-Agaricus macropus Pers. SPECIES
-=======
+# Agaricus macropus Pers. SPECIES
 
 #### Status
 ACCEPTED

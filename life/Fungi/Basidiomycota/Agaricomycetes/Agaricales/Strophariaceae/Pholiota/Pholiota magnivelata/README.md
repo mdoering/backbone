@@ -1,5 +1,4 @@
-Pholiota magnivelata Dearn. ex Morse SPECIES
-=======
+# Pholiota magnivelata Dearn. ex Morse SPECIES
 
 #### Status
 ACCEPTED

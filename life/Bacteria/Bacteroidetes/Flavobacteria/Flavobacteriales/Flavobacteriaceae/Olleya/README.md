@@ -1,5 +1,4 @@
-Olleya Mancuso Nichols, Bowman & Guezennec, 2005 GENUS
-=======
+# Olleya Mancuso Nichols, Bowman & Guezennec, 2005 GENUS
 
 #### Status
 ACCEPTED

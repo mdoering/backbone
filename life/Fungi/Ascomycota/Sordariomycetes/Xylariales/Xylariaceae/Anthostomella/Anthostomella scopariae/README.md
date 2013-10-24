@@ -1,5 +1,4 @@
-Anthostomella scopariae var. scopariae VARIETY
-=======
+# Anthostomella scopariae Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomella scopariae var. scopariae
+Anthostomella scopariae Fabre
 
 ### Remarks
 null

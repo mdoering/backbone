@@ -1,5 +1,4 @@
-Microthorax costatus Kahl, 1926 SPECIES
-=======
+# Microthorax costatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

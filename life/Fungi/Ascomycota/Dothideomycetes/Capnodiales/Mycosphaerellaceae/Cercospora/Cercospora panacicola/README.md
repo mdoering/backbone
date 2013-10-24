@@ -1,5 +1,4 @@
-Cercospora panacicola P.K. Chi & C.K. Pai SPECIES
-=======
+# Cercospora panacicola P.K. Chi & C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

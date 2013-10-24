@@ -1,5 +1,4 @@
-Denize Mekik, 2000 GENUS
-=======
+# Denize Mekik, 2000 GENUS
 
 #### Status
 ACCEPTED

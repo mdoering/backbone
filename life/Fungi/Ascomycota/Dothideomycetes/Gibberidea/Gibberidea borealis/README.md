@@ -1,5 +1,4 @@
-Gibberidea borealis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Gibberidea borealis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

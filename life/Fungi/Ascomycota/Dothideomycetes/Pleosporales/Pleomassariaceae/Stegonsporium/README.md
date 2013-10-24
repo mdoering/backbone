@@ -1,5 +1,4 @@
-Stegonsporium Corda GENUS
-=======
+# Stegonsporium Corda GENUS
 
 #### Status
 ACCEPTED

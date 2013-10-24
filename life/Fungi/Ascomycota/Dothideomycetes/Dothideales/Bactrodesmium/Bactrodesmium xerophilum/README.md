@@ -1,5 +1,4 @@
-Bactrodesmium xerophilum Borowska SPECIES
-=======
+# Bactrodesmium xerophilum Borowska SPECIES
 
 #### Status
 ACCEPTED

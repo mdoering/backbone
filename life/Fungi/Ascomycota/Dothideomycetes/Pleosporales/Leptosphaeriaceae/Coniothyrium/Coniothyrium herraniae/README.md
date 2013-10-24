@@ -1,5 +1,4 @@
-Coniothyrium herraniae Henn. SPECIES
-=======
+# Coniothyrium herraniae Henn. SPECIES
 
 #### Status
 ACCEPTED

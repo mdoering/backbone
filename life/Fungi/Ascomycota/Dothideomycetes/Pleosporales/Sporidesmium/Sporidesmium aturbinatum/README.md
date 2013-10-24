@@ -1,14 +1,13 @@
-Podoconis aturbinata S. Hughes, 1953 SPECIES
-=======
+# Sporidesmium aturbinatum (S. Hughes) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, London 846: 122 (1953)
+Mycol. Pap. 70: 49 (1958)
 
 #### Original name
 Podoconis aturbinata S. Hughes, 1953

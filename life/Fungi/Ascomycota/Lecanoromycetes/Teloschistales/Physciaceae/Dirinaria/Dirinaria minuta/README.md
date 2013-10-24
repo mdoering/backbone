@@ -1,5 +1,4 @@
-Dirinaria minuta Kalb SPECIES
-=======
+# Dirinaria minuta Kalb SPECIES
 
 #### Status
 ACCEPTED

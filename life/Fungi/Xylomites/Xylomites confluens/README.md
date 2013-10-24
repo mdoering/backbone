@@ -1,5 +1,4 @@
-Xylomites confluens Göpp. SPECIES
-=======
+# Xylomites confluens Göpp. SPECIES
 
 #### Status
 ACCEPTED

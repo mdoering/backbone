@@ -1,5 +1,4 @@
-Strobilomyces nigricans Berk. SPECIES
-=======
+# Strobilomyces nigricans Berk. SPECIES
 
 #### Status
 ACCEPTED

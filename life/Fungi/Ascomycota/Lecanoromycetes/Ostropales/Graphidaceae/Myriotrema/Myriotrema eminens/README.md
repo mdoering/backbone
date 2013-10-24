@@ -1,5 +1,4 @@
-Myriotrema eminens (Hale) Hale SPECIES
-=======
+# Myriotrema eminens (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

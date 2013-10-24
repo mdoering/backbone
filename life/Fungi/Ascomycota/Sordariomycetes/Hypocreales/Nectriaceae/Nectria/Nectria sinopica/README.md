@@ -1,5 +1,4 @@
-Nectria sinopica (Fr.) Fr., 1849 SPECIES
-=======
+# Nectria sinopica (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

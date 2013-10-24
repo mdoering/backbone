@@ -1,14 +1,13 @@
-Leptosphaeria halima T.W. Johnson, 1956 SPECIES
-=======
+# Phaeosphaeria halima (T.W. Johnson) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 48: 502 (1956)
+Can. J. Bot. 67(5): 1514 (1989)
 
 #### Original name
 Leptosphaeria halima T.W. Johnson, 1956

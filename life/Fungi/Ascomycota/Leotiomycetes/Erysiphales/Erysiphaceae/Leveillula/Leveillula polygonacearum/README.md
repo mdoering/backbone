@@ -1,5 +1,4 @@
-Leveillula polygonacearum Golovin SPECIES
-=======
+# Leveillula polygonacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

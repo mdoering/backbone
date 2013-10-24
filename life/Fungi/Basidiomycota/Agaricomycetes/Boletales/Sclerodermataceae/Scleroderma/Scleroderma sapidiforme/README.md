@@ -1,5 +1,4 @@
-Scleroderma sapidiforme Sosin SPECIES
-=======
+# Scleroderma sapidiforme Sosin SPECIES
 
 #### Status
 ACCEPTED

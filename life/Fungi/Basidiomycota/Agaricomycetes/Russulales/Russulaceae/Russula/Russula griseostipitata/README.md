@@ -1,5 +1,4 @@
-Russula griseostipitata McNabb, 1973 SPECIES
-=======
+# Russula griseostipitata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

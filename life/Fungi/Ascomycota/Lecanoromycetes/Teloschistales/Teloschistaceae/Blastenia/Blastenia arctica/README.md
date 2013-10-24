@@ -1,5 +1,4 @@
-Blastenia arctica Lynge SPECIES
-=======
+# Blastenia arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

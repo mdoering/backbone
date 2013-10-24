@@ -1,5 +1,4 @@
-Cercospora tagetea Cif. SPECIES
-=======
+# Cercospora tagetea Cif. SPECIES
 
 #### Status
 ACCEPTED

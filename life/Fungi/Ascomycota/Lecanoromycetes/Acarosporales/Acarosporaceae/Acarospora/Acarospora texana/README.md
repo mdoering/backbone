@@ -1,5 +1,4 @@
-Acarospora texana H. Magn. SPECIES
-=======
+# Acarospora texana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

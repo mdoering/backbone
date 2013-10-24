@@ -1,5 +1,4 @@
-Didymosphaeria kunzei Niessl SPECIES
-=======
+# Didymosphaeria kunzei Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus paludosus (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Ophiobolus paludosus (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

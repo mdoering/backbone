@@ -1,5 +1,4 @@
-Thekammina Dunn, 1942 GENUS
-=======
+# Thekammina Dunn, 1942 GENUS
 
 #### Status
 ACCEPTED

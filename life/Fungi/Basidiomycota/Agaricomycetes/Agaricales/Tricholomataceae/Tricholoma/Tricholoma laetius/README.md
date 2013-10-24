@@ -1,5 +1,4 @@
-Tricholoma laetius P. Karst. SPECIES
-=======
+# Tricholoma laetius P. Karst. SPECIES
 
 #### Status
 ACCEPTED

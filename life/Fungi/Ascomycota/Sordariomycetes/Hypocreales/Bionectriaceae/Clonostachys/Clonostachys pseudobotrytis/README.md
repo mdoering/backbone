@@ -1,5 +1,4 @@
-Clonostachys pseudobotrytis Höhn. SPECIES
-=======
+# Clonostachys pseudobotrytis Höhn. SPECIES
 
 #### Status
 ACCEPTED

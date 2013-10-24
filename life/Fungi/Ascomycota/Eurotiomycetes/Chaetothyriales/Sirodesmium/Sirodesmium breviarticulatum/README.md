@@ -1,5 +1,4 @@
-Sirodesmium breviarticulatum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sirodesmium breviarticulatum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

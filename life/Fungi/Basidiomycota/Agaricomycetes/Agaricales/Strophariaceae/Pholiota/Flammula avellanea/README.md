@@ -1,5 +1,4 @@
-Flammula avellanea (Cooke & Massee) Sacc. SPECIES
-=======
+# Flammula avellanea (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

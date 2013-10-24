@@ -1,5 +1,4 @@
-Reophax palaoensis Hada, 1957 SPECIES
-=======
+# Reophax palaoensis Hada, 1957 SPECIES
 
 #### Status
 ACCEPTED

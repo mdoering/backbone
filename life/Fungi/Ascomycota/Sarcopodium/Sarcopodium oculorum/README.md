@@ -1,5 +1,4 @@
-Sarcopodium oculorum Gené & Guarro, 2002 SPECIES
-=======
+# Sarcopodium oculorum Gené & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

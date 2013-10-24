@@ -1,5 +1,4 @@
-Puccinia microspora Dietel, 1905 SPECIES
-=======
+# Puccinia microspora Dietel, 1905 SPECIES
 
 #### Status
 ACCEPTED

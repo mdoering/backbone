@@ -1,5 +1,4 @@
-Helicosporium thysanophorum Ellis & Harkn. SPECIES
-=======
+# Helicosporium thysanophorum Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

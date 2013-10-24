@@ -1,5 +1,4 @@
-Aecidium nikkense Henn. & Shirai SPECIES
-=======
+# Aecidium nikkense Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

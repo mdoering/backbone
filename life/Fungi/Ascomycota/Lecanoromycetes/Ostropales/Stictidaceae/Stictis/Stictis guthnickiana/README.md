@@ -1,5 +1,4 @@
-Stictis guthnickiana Guthn. {?} SPECIES
-=======
+# Stictis guthnickiana Guthn. {?} SPECIES
 
 #### Status
 ACCEPTED

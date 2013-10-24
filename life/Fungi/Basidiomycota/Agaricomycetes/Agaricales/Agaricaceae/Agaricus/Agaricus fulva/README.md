@@ -1,5 +1,4 @@
-Agaricus fulva Schaeff. SPECIES
-=======
+# Agaricus fulva Schaeff. SPECIES
 
 #### Status
 ACCEPTED

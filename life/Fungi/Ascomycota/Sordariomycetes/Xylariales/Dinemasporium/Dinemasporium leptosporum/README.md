@@ -1,5 +1,4 @@
-Dinemasporium leptosporum (Sacc.) Sacc. SPECIES
-=======
+# Dinemasporium leptosporum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

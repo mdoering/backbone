@@ -1,5 +1,4 @@
-Puccinia egregia var. egregia VARIETY
-=======
+# Puccinia egregia Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 40: 204 (1905)
 
 #### Original name
-Puccinia egregia var. egregia
+Puccinia egregia Arthur
 
 ### Remarks
 null

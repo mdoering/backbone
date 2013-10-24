@@ -1,5 +1,4 @@
-Lecidea insidens Stirt. SPECIES
-=======
+# Lecidea insidens Stirt. SPECIES
 
 #### Status
 ACCEPTED

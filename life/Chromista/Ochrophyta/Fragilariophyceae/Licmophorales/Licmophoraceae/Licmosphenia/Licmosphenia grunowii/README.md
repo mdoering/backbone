@@ -1,5 +1,4 @@
-Licmosphenia grunowii Mereschkowsky, 1902 SPECIES
-=======
+# Licmosphenia grunowii Mereschkowsky, 1902 SPECIES
 
 #### Status
 ACCEPTED

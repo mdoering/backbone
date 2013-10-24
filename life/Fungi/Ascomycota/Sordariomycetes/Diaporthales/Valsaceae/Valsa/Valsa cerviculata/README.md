@@ -1,5 +1,4 @@
-Valsa cerviculata Sacc. SPECIES
-=======
+# Valsa cerviculata Sacc. SPECIES
 
 #### Status
 ACCEPTED

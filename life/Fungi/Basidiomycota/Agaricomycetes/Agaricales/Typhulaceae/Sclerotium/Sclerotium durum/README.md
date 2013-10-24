@@ -1,17 +1,16 @@
-Sclerotium durum f. durum FORM
-=======
+# Sclerotium durum Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Bot. (Usteri) 5: 31 (1794)
 
 #### Original name
-Sclerotium durum f. durum
+Sclerotium durum Pers., 1794
 
 ### Remarks
 null

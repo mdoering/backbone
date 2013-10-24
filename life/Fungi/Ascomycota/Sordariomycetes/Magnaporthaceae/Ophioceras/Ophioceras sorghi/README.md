@@ -1,5 +1,4 @@
-Ophioceras sorghi Saccas SPECIES
-=======
+# Ophioceras sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

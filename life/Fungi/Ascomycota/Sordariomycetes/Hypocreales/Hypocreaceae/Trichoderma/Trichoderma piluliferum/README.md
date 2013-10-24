@@ -1,5 +1,4 @@
-Trichoderma piluliferum J. Webster & Rifai, 1969 SPECIES
-=======
+# Trichoderma piluliferum J. Webster & Rifai, 1969 SPECIES
 
 #### Status
 ACCEPTED

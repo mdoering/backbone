@@ -1,5 +1,4 @@
-Synura petersenii f. columnata P.A. Siver FORM
-=======
+# Synura petersenii Korshikov SPECIES
 
 #### Status
 ACCEPTED

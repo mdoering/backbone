@@ -1,5 +1,4 @@
-Glomosporium Kochman GENUS
-=======
+# Glomosporium Kochman GENUS
 
 #### Status
 ACCEPTED

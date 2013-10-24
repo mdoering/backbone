@@ -1,5 +1,4 @@
-Hendersonia shahvarica Petr., 1949 SPECIES
-=======
+# Hendersonia shahvarica Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

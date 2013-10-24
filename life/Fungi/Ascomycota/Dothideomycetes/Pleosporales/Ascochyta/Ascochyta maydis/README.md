@@ -1,5 +1,4 @@
-Ascochyta maydis G.L. Stout SPECIES
-=======
+# Ascochyta maydis G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

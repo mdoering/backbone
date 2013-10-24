@@ -1,5 +1,4 @@
-Anisomeridium infernale (Mont.) R.C. Harris SPECIES
-=======
+# Anisomeridium infernale (Mont.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

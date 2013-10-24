@@ -1,5 +1,4 @@
-Parapeltella macrosperma Speg. SPECIES
-=======
+# Parapeltella macrosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

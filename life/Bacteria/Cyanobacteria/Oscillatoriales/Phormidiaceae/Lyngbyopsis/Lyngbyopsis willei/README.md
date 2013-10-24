@@ -1,5 +1,4 @@
-Lyngbyopsis willei N.L. Gardner SPECIES
-=======
+# Lyngbyopsis willei N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma viridarium Cooke, 1868 SPECIES
-=======
+# Lophiostoma viridarium Cooke, 1868 SPECIES
 
 #### Status
 ACCEPTED

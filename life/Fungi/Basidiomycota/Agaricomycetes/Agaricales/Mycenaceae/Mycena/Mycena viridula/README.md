@@ -1,5 +1,4 @@
-Mycena viridula Henn. SPECIES
-=======
+# Mycena viridula Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon olivaceoniger A.H. Sm. SPECIES
-=======
+# Rhizopogon olivaceoniger A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria praecox (Pers.) Fayod SPECIES
-=======
+# Naucoria praecox (Pers.) Fayod SPECIES
 
 #### Status
 ACCEPTED

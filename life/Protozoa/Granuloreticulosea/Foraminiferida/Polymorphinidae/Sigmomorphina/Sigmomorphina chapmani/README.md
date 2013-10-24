@@ -1,5 +1,4 @@
-Sigmomorphina chapmani (Earland & Heron-Allen) SPECIES
-=======
+# Sigmomorphina chapmani (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

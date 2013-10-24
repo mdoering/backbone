@@ -1,5 +1,4 @@
-Hiatula nivosa Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula nivosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

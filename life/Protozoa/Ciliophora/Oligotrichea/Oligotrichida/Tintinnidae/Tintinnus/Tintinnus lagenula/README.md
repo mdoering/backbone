@@ -1,5 +1,4 @@
-Tintinnus lagenula Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus lagenula Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

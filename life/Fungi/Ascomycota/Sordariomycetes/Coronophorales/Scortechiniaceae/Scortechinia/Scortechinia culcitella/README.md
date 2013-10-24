@@ -1,5 +1,4 @@
-Scortechinia culcitella (Berk. & Ravenel) Speg. SPECIES
-=======
+# Scortechinia culcitella (Berk. & Ravenel) Speg. SPECIES
 
 #### Status
 ACCEPTED

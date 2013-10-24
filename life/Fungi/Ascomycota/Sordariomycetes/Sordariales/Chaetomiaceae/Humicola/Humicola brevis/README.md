@@ -1,14 +1,13 @@
-Monotospora brevis (J.C. Gilman & E.V. Abbott) E.W. Mason, 1933 SPECIES
-=======
+# Humicola brevis (J.C. Gilman & E.V. Abbott) J.C. Gilman, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 3: 59 (1933)
+Manual of Soil Fungi, Edn 2 325 (1957)
 
 #### Original name
 Acremoniella brevis J.C. Gilman & E.V. Abbott, 1927

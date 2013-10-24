@@ -1,5 +1,4 @@
-Leidyanidae FAMILY
-=======
+# Leidyanidae FAMILY
 
 #### Status
 ACCEPTED

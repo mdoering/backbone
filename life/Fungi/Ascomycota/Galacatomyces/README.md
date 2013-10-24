@@ -1,5 +1,4 @@
-Galacatomyces GENUS
-=======
+# Galacatomyces GENUS
 
 #### Status
 ACCEPTED

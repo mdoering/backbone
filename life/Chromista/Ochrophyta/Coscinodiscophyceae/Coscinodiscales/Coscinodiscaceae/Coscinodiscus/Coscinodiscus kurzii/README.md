@@ -1,5 +1,4 @@
-Coscinodiscus kurzii Grun. In A. Schmidt, 1888 SPECIES
-=======
+# Coscinodiscus kurzii Grun. In A. Schmidt, 1888 SPECIES
 
 #### Status
 ACCEPTED

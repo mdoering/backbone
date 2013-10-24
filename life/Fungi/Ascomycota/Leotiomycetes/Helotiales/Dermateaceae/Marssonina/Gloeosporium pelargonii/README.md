@@ -1,5 +1,4 @@
-Gloeosporium pelargonii Cooke & Massee SPECIES
-=======
+# Gloeosporium pelargonii Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sphaeromeriae Fahrend. SPECIES
-=======
+# Puccinia sphaeromeriae Fahrend. SPECIES
 
 #### Status
 ACCEPTED

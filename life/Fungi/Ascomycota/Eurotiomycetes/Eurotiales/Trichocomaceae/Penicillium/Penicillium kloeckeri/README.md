@@ -1,17 +1,16 @@
-Talaromyces wortmannii var. wortmannii (Klöcker) C.R. Benj. VARIETY
-=======
+# Penicillium kloeckeri Pitt, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yaguchi, Someya, Miyadoh & Udagawa, Stud. Mycol. 2: 39 (1972)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 491 (1980)
 
 #### Original name
-Talaromyces wortmannii var. wortmannii (Klöcker) C.R. Benj.
+Penicillium kloeckeri Pitt, 1980
 
 ### Remarks
 null

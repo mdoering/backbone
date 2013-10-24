@@ -1,5 +1,4 @@
-Camarosporium berkeleyanum (Lév.) Sacc. SPECIES
-=======
+# Camarosporium berkeleyanum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

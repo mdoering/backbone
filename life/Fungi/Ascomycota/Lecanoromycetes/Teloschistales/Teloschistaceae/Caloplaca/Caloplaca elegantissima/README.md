@@ -1,5 +1,4 @@
-Caloplaca elegantissima (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca elegantissima (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasallia pertusa f. pertusa FORM
-=======
+# Lasallia pertusa (Rass.) Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lasallia pertusa f. pertusa
+Umbilicaria pertusa Rass.
 
 ### Remarks
 null

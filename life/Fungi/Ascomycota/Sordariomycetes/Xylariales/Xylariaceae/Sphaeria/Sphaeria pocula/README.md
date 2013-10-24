@@ -1,5 +1,4 @@
-Sphaeria pocula Torr. ex Fr. SPECIES
-=======
+# Sphaeria pocula Torr. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

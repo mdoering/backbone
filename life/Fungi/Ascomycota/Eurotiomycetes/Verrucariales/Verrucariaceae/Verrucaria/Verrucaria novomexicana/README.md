@@ -1,5 +1,4 @@
-Verrucaria novomexicana B. de Lesd. SPECIES
-=======
+# Verrucaria novomexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

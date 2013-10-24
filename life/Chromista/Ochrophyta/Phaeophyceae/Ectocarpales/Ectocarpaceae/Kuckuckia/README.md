@@ -1,5 +1,4 @@
-Kuckuckia G.Hamel, 1939 GENUS
-=======
+# Kuckuckia G.Hamel, 1939 GENUS
 
 #### Status
 ACCEPTED

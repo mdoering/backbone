@@ -1,5 +1,4 @@
-Blastocladiella colombiensis Karling, 1985 SPECIES
-=======
+# Blastocladiella colombiensis Karling, 1985 SPECIES
 
 #### Status
 ACCEPTED

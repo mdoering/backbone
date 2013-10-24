@@ -1,5 +1,4 @@
-Glomus tenebrosum (Thaxt.) S.M. Berch, 1983 SPECIES
-=======
+# Glomus tenebrosum (Thaxt.) S.M. Berch, 1983 SPECIES
 
 #### Status
 ACCEPTED

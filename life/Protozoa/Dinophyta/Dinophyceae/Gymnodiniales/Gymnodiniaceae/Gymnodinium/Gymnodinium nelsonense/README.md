@@ -1,5 +1,4 @@
-Gymnodinium nelsonense Cookson, 1956 SPECIES
-=======
+# Gymnodinium nelsonense Cookson, 1956 SPECIES
 
 #### Status
 ACCEPTED

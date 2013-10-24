@@ -1,5 +1,4 @@
-Urceolaria solitaria (Rabenh.) Motyka SPECIES
-=======
+# Urceolaria solitaria (Rabenh.) Motyka SPECIES
 
 #### Status
 ACCEPTED

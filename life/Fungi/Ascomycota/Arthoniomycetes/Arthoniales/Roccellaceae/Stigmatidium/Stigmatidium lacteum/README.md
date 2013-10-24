@@ -1,5 +1,4 @@
-Stigmatidium lacteum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Stigmatidium lacteum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

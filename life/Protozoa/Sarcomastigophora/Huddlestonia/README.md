@@ -1,5 +1,4 @@
-Huddlestonia Haman, 1988 GENUS
-=======
+# Huddlestonia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

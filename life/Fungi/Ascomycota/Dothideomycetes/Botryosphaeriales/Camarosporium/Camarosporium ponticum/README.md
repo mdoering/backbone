@@ -1,5 +1,4 @@
-Camarosporium ponticum Petr. SPECIES
-=======
+# Camarosporium ponticum Petr. SPECIES
 
 #### Status
 ACCEPTED

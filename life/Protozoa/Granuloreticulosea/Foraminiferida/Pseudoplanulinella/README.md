@@ -1,5 +1,4 @@
-Pseudoplanulinella Sigal, 1950 GENUS
-=======
+# Pseudoplanulinella Sigal, 1950 GENUS
 
 #### Status
 ACCEPTED

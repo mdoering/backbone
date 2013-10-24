@@ -1,5 +1,4 @@
-Phelonitis minima Fr. SPECIES
-=======
+# Phelonitis minima Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Permopadina A. Ramovs, 1970 GENUS
-=======
+# Permopadina A. Ramovs, 1970 GENUS
 
 #### Status
 ACCEPTED

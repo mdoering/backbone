@@ -1,5 +1,4 @@
-Merulius patellaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Merulius patellaeformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

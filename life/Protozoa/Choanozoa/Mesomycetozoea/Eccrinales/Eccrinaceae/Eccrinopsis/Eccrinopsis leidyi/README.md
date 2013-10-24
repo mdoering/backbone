@@ -1,5 +1,4 @@
-Eccrinopsis leidyi L. Léger & Duboscq SPECIES
-=======
+# Eccrinopsis leidyi L. Léger & Duboscq SPECIES
 
 #### Status
 ACCEPTED

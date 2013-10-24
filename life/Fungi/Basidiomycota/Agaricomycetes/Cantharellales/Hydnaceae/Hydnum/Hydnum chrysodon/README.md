@@ -1,5 +1,4 @@
-Hydnum chrysodon Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum chrysodon Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

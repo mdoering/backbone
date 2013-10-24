@@ -1,5 +1,4 @@
-Thekopsora Magnus, 1875 GENUS
-=======
+# Thekopsora Magnus, 1875 GENUS
 
 #### Status
 ACCEPTED

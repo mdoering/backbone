@@ -1,5 +1,4 @@
-Lactarius pseudoplinthogalus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudoplinthogalus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

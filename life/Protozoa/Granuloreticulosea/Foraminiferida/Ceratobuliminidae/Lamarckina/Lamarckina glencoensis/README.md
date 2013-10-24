@@ -1,5 +1,4 @@
-Lamarckina glencoensis Chapman, W.D. & Crespin, I., 1930 SPECIES
-=======
+# Lamarckina glencoensis Chapman, W.D. & Crespin, I., 1930 SPECIES
 
 #### Status
 ACCEPTED

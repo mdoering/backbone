@@ -1,5 +1,4 @@
-Pertusaria sellingii H. Magn. SPECIES
-=======
+# Pertusaria sellingii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplopodomyces callipodos W. Rossi & Balazuc, 1977 SPECIES
-=======
+# Diplopodomyces callipodos W. Rossi & Balazuc, 1977 SPECIES
 
 #### Status
 ACCEPTED

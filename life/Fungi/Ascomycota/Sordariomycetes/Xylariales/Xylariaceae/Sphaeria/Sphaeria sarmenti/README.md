@@ -1,5 +1,4 @@
-Sphaeria sarmenti Cooke & Harkn. SPECIES
-=======
+# Sphaeria sarmenti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

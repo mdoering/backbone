@@ -1,14 +1,13 @@
-Trametes sensitiva Lloyd, 1917 SPECIES
-=======
+# Fomitopsis sensitiva (Lloyd) R. Sasaki, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 710 (1917)
+Bull. Tokyo Univ. Forests 47: 149 (1954)
 
 #### Original name
 Trametes sensitiva Lloyd, 1917

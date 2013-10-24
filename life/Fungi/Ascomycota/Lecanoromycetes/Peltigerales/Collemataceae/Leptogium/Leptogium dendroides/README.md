@@ -1,5 +1,4 @@
-Leptogium dendroides Nyl. SPECIES
-=======
+# Leptogium dendroides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orygmatosphaeridium liulaobeiense Yang Qinghe et al., 1980 SPECIES
-=======
+# Orygmatosphaeridium liulaobeiense Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

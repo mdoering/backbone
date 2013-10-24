@@ -1,5 +1,4 @@
-Pirottaea palmicola P.R. Johnst., 1998 SPECIES
-=======
+# Pirottaea palmicola P.R. Johnst., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza marchantiae Sommerf. SPECIES
-=======
+# Peziza marchantiae Sommerf. SPECIES
 
 #### Status
 ACCEPTED

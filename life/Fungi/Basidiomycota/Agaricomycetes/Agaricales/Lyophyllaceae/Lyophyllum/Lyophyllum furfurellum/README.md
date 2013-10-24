@@ -1,5 +1,4 @@
-Lyophyllum furfurellum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum furfurellum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

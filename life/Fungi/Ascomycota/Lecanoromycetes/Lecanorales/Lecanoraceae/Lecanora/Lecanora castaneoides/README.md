@@ -1,5 +1,4 @@
-Lecanora castaneoides H. Magn. SPECIES
-=======
+# Lecanora castaneoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

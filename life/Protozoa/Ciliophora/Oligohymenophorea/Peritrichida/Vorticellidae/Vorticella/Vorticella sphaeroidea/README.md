@@ -1,5 +1,4 @@
-Vorticella sphaeroidea Müller, 1786 SPECIES
-=======
+# Vorticella sphaeroidea Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

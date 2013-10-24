@@ -1,5 +1,4 @@
-Opegrapha chlorographa Nyl. SPECIES
-=======
+# Opegrapha chlorographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

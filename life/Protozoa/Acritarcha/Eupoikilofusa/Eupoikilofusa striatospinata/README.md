@@ -1,5 +1,4 @@
-Eupoikilofusa striatospinata Le Hérissé, Melo, Quadros, Grahn & Steemans SPECIES
-=======
+# Eupoikilofusa striatospinata Le Hérissé, Melo, Quadros, Grahn & Steemans SPECIES
 
 #### Status
 ACCEPTED

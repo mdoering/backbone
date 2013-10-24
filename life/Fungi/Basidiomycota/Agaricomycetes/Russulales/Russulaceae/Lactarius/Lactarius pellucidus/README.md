@@ -1,5 +1,4 @@
-Lactarius pellucidus Gooss.-Font. & R. Heim SPECIES
-=======
+# Lactarius pellucidus Gooss.-Font. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

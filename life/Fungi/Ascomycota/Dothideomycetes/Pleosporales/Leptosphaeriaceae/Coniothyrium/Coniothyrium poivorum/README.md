@@ -1,5 +1,4 @@
-Coniothyrium poivorum R. Sprague SPECIES
-=======
+# Coniothyrium poivorum R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe croceolimbata Bon SPECIES
-=======
+# Dermocybe croceolimbata Bon SPECIES
 
 #### Status
 ACCEPTED

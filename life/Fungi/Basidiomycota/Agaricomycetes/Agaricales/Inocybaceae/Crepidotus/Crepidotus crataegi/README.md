@@ -1,5 +1,4 @@
-Crepidotus crataegi Velen. SPECIES
-=======
+# Crepidotus crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

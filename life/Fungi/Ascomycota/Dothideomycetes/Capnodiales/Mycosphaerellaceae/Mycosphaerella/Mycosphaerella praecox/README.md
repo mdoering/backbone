@@ -1,8 +1,7 @@
-Sphaerella praecox Pass., 1880 SPECIES
-=======
+# Mycosphaerella praecox (Pass.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

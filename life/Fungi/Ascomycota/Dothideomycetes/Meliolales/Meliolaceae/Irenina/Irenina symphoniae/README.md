@@ -1,5 +1,4 @@
-Irenina symphoniae Hansf. SPECIES
-=======
+# Irenina symphoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dicoccum pulcrum Thüm. SPECIES
-=======
+# Dicoccum pulchrum Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 1: 11 (1879)
 
 #### Original name
-Dicoccum pulcrum Thüm.
+Dicoccum pulchrum Thüm.
 
 ### Remarks
 null

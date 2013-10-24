@@ -1,5 +1,4 @@
-Vermiculariella fritillariae Negru SPECIES
-=======
+# Vermiculariella fritillariae Negru SPECIES
 
 #### Status
 ACCEPTED

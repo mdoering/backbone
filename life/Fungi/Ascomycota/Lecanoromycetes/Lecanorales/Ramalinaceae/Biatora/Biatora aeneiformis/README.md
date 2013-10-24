@@ -1,8 +1,7 @@
-Biatora aneiformis (Anzi) Jatta SPECIES
-=======
+# Biatora aeneiformis (Anzi) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

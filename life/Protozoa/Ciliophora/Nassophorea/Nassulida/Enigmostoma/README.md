@@ -1,5 +1,4 @@
-Enigmostoma Yankovskij, 1975 GENUS
-=======
+# Enigmostoma Yankovskij, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora subzonata Fr. SPECIES
-=======
+# Thelephora subzonata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus discolor Lloyd SPECIES
-=======
+# Phallus discolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

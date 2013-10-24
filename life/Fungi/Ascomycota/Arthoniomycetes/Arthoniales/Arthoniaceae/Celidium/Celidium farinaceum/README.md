@@ -1,5 +1,4 @@
-Celidium farinaceum (H. Olivier) Lettau SPECIES
-=======
+# Celidium farinaceum (H. Olivier) Lettau SPECIES
 
 #### Status
 ACCEPTED

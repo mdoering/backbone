@@ -1,5 +1,4 @@
-Eriospora leucostoma Berk. & Broome SPECIES
-=======
+# Eriospora leucostoma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

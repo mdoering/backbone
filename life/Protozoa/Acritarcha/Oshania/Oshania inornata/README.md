@@ -1,5 +1,4 @@
-Oshania inornata Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Oshania inornata Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

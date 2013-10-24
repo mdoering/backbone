@@ -1,5 +1,4 @@
-Acaulopage gomphoclada Drechsler, 1942 SPECIES
-=======
+# Acaulopage gomphoclada Drechsler, 1942 SPECIES
 
 #### Status
 ACCEPTED

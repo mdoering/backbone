@@ -1,5 +1,4 @@
-Asterinella entebbeensis Hansf. SPECIES
-=======
+# Asterinella entebbeensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

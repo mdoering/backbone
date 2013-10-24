@@ -1,5 +1,4 @@
-Osoriomyces rhizophorus Terada, 1981 SPECIES
-=======
+# Osoriomyces rhizophorus Terada, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia pocadii A. Weir SPECIES
-=======
+# Rickia pocadii A. Weir SPECIES
 
 #### Status
 ACCEPTED

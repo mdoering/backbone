@@ -1,14 +1,13 @@
-Cephalothecium macrosporum Speg., 1886 SPECIES
-=======
+# Cylindrocarpon macrosporum (Speg.) Deighton & Piroz., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 128: 103 (1972)
 
 #### Original name
 Cephalothecium macrosporum Speg., 1886

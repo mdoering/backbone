@@ -1,5 +1,4 @@
-Calloria nitens (E.K. Cash) Seaver SPECIES
-=======
+# Calloria nitens (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

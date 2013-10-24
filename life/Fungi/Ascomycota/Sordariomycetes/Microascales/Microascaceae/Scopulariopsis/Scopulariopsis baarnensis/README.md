@@ -1,5 +1,4 @@
-Scopulariopsis baarnensis F.J. Morton & G. Sm. SPECIES
-=======
+# Scopulariopsis baarnensis F.J. Morton & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

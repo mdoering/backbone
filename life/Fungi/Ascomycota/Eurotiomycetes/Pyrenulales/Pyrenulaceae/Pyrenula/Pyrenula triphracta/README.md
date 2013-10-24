@@ -1,5 +1,4 @@
-Pyrenula triphracta Nyl. SPECIES
-=======
+# Pyrenula triphracta Nyl. SPECIES
 
 #### Status
 ACCEPTED

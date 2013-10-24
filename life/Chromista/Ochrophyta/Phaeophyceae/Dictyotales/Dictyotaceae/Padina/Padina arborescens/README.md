@@ -1,5 +1,4 @@
-Padina arborescens Holmes SPECIES
-=======
+# Padina arborescens Holmes SPECIES
 
 #### Status
 ACCEPTED

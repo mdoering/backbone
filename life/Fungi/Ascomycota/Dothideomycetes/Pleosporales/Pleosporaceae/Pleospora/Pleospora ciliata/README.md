@@ -1,5 +1,4 @@
-Pleospora ciliata Ellis SPECIES
-=======
+# Pleospora ciliata Ellis SPECIES
 
 #### Status
 ACCEPTED

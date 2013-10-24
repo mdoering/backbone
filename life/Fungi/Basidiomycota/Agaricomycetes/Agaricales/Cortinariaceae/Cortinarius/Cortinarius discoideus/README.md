@@ -1,5 +1,4 @@
-Cortinarius discoideus Rob. Henry SPECIES
-=======
+# Cortinarius discoideus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

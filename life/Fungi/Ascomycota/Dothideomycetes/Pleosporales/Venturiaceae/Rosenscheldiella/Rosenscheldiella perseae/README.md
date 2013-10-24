@@ -1,5 +1,4 @@
-Rosenscheldiella perseae W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Rosenscheldiella perseae W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

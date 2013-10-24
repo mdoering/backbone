@@ -1,5 +1,4 @@
-Trametes substrata Corner SPECIES
-=======
+# Trametes substrata Corner SPECIES
 
 #### Status
 ACCEPTED

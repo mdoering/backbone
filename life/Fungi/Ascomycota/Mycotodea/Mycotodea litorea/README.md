@@ -1,5 +1,4 @@
-Mycotodea litorea Kirschst. SPECIES
-=======
+# Mycotodea litorea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endococcus caudisporus J.C. David & Etayo, 1995 SPECIES
-=======
+# Endococcus caudisporus J.C. David & Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

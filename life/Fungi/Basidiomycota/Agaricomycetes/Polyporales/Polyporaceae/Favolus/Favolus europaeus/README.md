@@ -1,5 +1,4 @@
-Favolus europaeus var. europaeus VARIETY
-=======
+# Favolus europaeus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 498 (1838)
 
 #### Original name
-Favolus europaeus var. europaeus
+Favolus europaeus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptonia brunnea Velen. SPECIES
-=======
+# Leptonia brunnea Velen. SPECIES
 
 #### Status
 ACCEPTED

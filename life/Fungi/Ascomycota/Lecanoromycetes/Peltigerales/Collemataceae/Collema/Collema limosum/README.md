@@ -1,17 +1,16 @@
-Collema viscosum A. Massal. SPECIES
-=======
+# Collema limosum (Ach.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-null
+Lichen limosus Ach.
 
 ### Remarks
 null

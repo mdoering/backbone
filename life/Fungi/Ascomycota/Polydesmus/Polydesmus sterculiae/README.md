@@ -1,5 +1,4 @@
-Polydesmus sterculiae Subram. SPECIES
-=======
+# Polydesmus sterculiae Subram. SPECIES
 
 #### Status
 ACCEPTED

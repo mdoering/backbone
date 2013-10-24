@@ -1,14 +1,13 @@
-Ramularia dobrozrakoviana U. Braun SPECIES
-=======
+# Monodidymaria equiseti (Dobrozr.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 3(2-3): 281 (1988)
+Mycotaxon 51: 44 (1994)
 
 #### Original name
 Cercospora equiseti Dobrozr., 1927

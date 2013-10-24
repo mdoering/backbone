@@ -1,5 +1,4 @@
-Depazea agrimoniae Lasch SPECIES
-=======
+# Depazea agrimoniae Lasch SPECIES
 
 #### Status
 ACCEPTED

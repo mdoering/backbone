@@ -1,5 +1,4 @@
-Buellia marcidula (Nyl.) C.W. Dodge SPECIES
-=======
+# Buellia marcidula (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

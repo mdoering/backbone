@@ -1,17 +1,16 @@
-Clavaria flava var. flava VARIETY
-=======
+# Ramaria flava (Schaeff.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. (Paris) 466 (1888)
 
 #### Original name
-null
+Clavaria flava Schaeff., 1763
 
 ### Remarks
 null

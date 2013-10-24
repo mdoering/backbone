@@ -1,5 +1,4 @@
-Phoma macrostylospora Sawada SPECIES
-=======
+# Phoma macrostylospora Sawada SPECIES
 
 #### Status
 ACCEPTED

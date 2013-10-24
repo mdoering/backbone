@@ -1,5 +1,4 @@
-Agaricus pruinosa Lasch SPECIES
-=======
+# Agaricus pruinosa Lasch SPECIES
 
 #### Status
 ACCEPTED

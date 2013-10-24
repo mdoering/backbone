@@ -1,5 +1,4 @@
-Pseudomonas mandelii Verhille et al., 1999 SPECIES
-=======
+# Pseudomonas mandelii Verhille et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

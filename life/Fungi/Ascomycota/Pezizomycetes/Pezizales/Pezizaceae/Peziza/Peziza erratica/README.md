@@ -1,5 +1,4 @@
-Peziza erratica Fr. SPECIES
-=======
+# Peziza erratica Fr. SPECIES
 
 #### Status
 ACCEPTED

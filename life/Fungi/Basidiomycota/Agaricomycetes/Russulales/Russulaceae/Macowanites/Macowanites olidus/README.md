@@ -1,5 +1,4 @@
-Macowanites olidus A.H. Sm. SPECIES
-=======
+# Macowanites olidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

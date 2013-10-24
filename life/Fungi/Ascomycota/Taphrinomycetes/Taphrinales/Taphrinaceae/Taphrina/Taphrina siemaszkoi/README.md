@@ -1,5 +1,4 @@
-Taphrina siemaszkoi Mix SPECIES
-=======
+# Taphrina siemaszkoi Mix SPECIES
 
 #### Status
 ACCEPTED

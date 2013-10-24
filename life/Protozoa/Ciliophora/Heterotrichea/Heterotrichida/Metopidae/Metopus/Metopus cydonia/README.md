@@ -1,5 +1,4 @@
-Metopus cydonia Kahl, 1927 SPECIES
-=======
+# Metopus cydonia Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygloea fibrosa Pat. SPECIES
-=======
+# Platygloea fibrosa Pat. SPECIES
 
 #### Status
 ACCEPTED

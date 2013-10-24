@@ -1,5 +1,4 @@
-Puccinia jericosensis Pardo-Card. SPECIES
-=======
+# Puccinia jericosensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

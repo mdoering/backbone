@@ -1,5 +1,4 @@
-Ramularia paeoniae Voglino SPECIES
-=======
+# Ramularia paeoniae Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina theae W. Yamam. SPECIES
-=======
+# Asterina theae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

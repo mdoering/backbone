@@ -1,5 +1,4 @@
-Prunulus taxodii Murrill SPECIES
-=======
+# Prunulus taxodii Murrill SPECIES
 
 #### Status
 ACCEPTED

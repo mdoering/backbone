@@ -1,5 +1,4 @@
-Irenina protiicola Bat. & Gayão SPECIES
-=======
+# Irenina protiicola Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

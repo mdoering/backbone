@@ -1,5 +1,4 @@
-Hydnum crinigerum Massee SPECIES
-=======
+# Hydnum crinigerum Massee SPECIES
 
 #### Status
 ACCEPTED

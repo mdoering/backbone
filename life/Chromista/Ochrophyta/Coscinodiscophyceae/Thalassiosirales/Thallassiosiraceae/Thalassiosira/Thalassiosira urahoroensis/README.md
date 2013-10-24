@@ -1,5 +1,4 @@
-Thalassiosira urahoroensis F. Akiba SPECIES
-=======
+# Thalassiosira urahoroensis F. Akiba SPECIES
 
 #### Status
 ACCEPTED

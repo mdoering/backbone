@@ -1,5 +1,4 @@
-Phoma cocoina SPECIES
-=======
+# Phoma cocoina SPECIES
 
 #### Status
 ACCEPTED

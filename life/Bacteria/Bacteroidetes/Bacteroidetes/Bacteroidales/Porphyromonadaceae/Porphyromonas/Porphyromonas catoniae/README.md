@@ -1,8 +1,7 @@
-Oribaculum catoniae Moore & Moore, 1994 SPECIES
-=======
+# Porphyromonas catoniae (Moore & Moore, 1994) Willems & Collins, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

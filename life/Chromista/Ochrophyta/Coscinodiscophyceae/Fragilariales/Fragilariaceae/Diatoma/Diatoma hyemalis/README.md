@@ -1,5 +1,4 @@
-Diatoma hyemalis var. hyemale VARIETY
-=======
+# Diatoma hyemalis (Roth) Heiberg, 1863 SPECIES
 
 #### Status
 ACCEPTED

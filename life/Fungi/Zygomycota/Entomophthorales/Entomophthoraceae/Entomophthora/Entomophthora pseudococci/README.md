@@ -1,5 +1,4 @@
-Entomophthora pseudococci Speare, 1912 SPECIES
-=======
+# Entomophthora pseudococci Speare, 1912 SPECIES
 
 #### Status
 ACCEPTED

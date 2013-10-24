@@ -1,5 +1,4 @@
-Marasmius helvoloides Singer SPECIES
-=======
+# Marasmius helvoloides Singer SPECIES
 
 #### Status
 ACCEPTED

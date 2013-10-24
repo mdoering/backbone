@@ -1,17 +1,16 @@
-Podaxon strobilaceum Copel. SPECIES
-=======
+# Podaxis strobilaceum Copel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 2: 4 (1904)
 
 #### Original name
-Podaxon strobilaceum Copel.
+Podaxis strobilaceum Copel.
 
 ### Remarks
 null

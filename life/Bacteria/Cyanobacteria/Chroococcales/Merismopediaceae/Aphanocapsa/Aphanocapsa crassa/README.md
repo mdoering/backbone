@@ -1,5 +1,4 @@
-Aphanocapsa crassa Ghose SPECIES
-=======
+# Aphanocapsa crassa Ghose SPECIES
 
 #### Status
 ACCEPTED

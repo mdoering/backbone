@@ -1,5 +1,4 @@
-Tremellomycetes Doweld CLASS
-=======
+# Tremellomycetes Doweld CLASS
 
 #### Status
 ACCEPTED

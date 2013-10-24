@@ -1,5 +1,4 @@
-Allogromia laticollaris Arnold, 1948 SPECIES
-=======
+# Allogromia laticollaris Arnold, 1948 SPECIES
 
 #### Status
 ACCEPTED

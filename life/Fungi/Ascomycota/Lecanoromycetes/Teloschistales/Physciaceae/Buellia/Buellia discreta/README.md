@@ -1,5 +1,4 @@
-Buellia discreta Darb. SPECIES
-=======
+# Buellia discreta Darb. SPECIES
 
 #### Status
 ACCEPTED

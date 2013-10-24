@@ -1,5 +1,4 @@
-Opegrapha geographicola (Arnold) Hafellner SPECIES
-=======
+# Opegrapha geographicola (Arnold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas splendens Hollande SPECIES
-=======
+# Petalomonas splendens Hollande SPECIES
 
 #### Status
 ACCEPTED

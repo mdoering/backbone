@@ -1,5 +1,4 @@
-Sphingomonadaceae FAMILY
-=======
+# Sphingomonadaceae FAMILY
 
 #### Status
 ACCEPTED

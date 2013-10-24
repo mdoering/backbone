@@ -1,5 +1,4 @@
-Cyphella gibbosa Lév. SPECIES
-=======
+# Cyphella gibbosa Lév. SPECIES
 
 #### Status
 ACCEPTED

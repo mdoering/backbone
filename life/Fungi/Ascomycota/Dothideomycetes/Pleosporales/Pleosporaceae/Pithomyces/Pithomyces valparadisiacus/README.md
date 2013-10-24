@@ -1,14 +1,13 @@
-Stemphyliopsis valparadisiaca Speg., 1910 SPECIES
-=======
+# Pithomyces valparadisiacus (Speg.) P.M. Kirk, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata, Ser. 2 6(1): 193 (1910)
+Trans. Br. mycol. Soc. 80(3): 460 (1983)
 
 #### Original name
 Stemphyliopsis valparadisiaca Speg., 1910

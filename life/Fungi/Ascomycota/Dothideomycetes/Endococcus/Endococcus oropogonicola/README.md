@@ -1,5 +1,4 @@
-Endococcus oropogonicola Etayo SPECIES
-=======
+# Endococcus oropogonicola Etayo SPECIES
 
 #### Status
 ACCEPTED

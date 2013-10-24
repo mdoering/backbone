@@ -1,5 +1,4 @@
-Mycosphaerella pusilla (Auersw.) Johanson SPECIES
-=======
+# Mycosphaerella pusilla (Auersw.) Johanson SPECIES
 
 #### Status
 ACCEPTED

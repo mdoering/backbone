@@ -1,5 +1,4 @@
-Mycosphaerella sabalis (Sousa da Câmara) Cash SPECIES
-=======
+# Mycosphaerella sabalis (Sousa da Câmara) Cash SPECIES
 
 #### Status
 ACCEPTED

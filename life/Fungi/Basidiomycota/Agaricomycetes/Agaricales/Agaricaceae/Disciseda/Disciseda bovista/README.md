@@ -1,5 +1,4 @@
-Disciseda bovista (Klotzsch) Henn. SPECIES
-=======
+# Disciseda bovista (Klotzsch) Henn. SPECIES
 
 #### Status
 ACCEPTED

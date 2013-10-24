@@ -1,5 +1,4 @@
-Sphaeria oenanthes P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria oenanthes P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

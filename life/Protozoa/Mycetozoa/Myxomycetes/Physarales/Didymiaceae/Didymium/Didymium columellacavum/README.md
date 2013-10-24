@@ -1,5 +1,4 @@
-Didymium columellacavum Hochg., Gottsb. & Nann.-Bremek., 1989 SPECIES
-=======
+# Didymium columellacavum Hochg., Gottsb. & Nann.-Bremek., 1989 SPECIES
 
 #### Status
 ACCEPTED

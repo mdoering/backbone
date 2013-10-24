@@ -1,5 +1,4 @@
-Delosinella planispiralis Collins, 1981 SPECIES
-=======
+# Delosinella planispiralis Collins, 1981 SPECIES
 
 #### Status
 ACCEPTED

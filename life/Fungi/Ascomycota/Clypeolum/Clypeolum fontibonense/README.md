@@ -1,5 +1,4 @@
-Clypeolum fontibonense Toro SPECIES
-=======
+# Clypeolum fontibonense Toro SPECIES
 
 #### Status
 ACCEPTED

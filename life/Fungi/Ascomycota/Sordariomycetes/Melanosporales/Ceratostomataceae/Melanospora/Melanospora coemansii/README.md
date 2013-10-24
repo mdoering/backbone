@@ -1,5 +1,4 @@
-Melanospora coemansii Westend. SPECIES
-=======
+# Melanospora coemansii Westend. SPECIES
 
 #### Status
 ACCEPTED

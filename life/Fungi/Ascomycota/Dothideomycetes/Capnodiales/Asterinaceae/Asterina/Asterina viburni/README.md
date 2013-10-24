@@ -1,5 +1,4 @@
-Asterina viburni Hosagoudar, Dhivaharan & Nithyatharani, 2010 SPECIES
-=======
+# Asterina viburni Hosagoudar, Dhivaharan & Nithyatharani, 2010 SPECIES
 
 #### Status
 ACCEPTED

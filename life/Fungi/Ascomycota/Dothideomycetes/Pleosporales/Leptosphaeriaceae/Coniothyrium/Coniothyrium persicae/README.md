@@ -1,5 +1,4 @@
-Coniothyrium persicae Sacc. & Cub. SPECIES
-=======
+# Coniothyrium persicae Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

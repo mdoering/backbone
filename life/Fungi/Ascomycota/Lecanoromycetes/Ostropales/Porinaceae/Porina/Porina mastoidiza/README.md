@@ -1,5 +1,4 @@
-Porina mastoidiza Müll. Arg. SPECIES
-=======
+# Porina mastoidiza Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

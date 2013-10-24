@@ -1,5 +1,4 @@
-Pseudomonas aurantiaca Nakhimovskaya, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas aurantiaca Nakhimovskaya, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

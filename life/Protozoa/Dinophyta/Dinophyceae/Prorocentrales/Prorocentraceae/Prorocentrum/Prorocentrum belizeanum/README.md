@@ -1,5 +1,4 @@
-Prorocentrum belizeanum M. Faust SPECIES
-=======
+# Prorocentrum belizeanum M. Faust SPECIES
 
 #### Status
 ACCEPTED

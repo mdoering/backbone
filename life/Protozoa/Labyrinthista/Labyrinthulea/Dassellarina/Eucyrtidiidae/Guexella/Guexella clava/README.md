@@ -1,5 +1,4 @@
-Guexella clava SPECIES
-=======
+# Guexella clava SPECIES
 
 #### Status
 ACCEPTED

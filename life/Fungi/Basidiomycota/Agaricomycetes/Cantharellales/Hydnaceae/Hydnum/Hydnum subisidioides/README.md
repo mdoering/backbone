@@ -1,5 +1,4 @@
-Hydnum subisidioides Rick SPECIES
-=======
+# Hydnum subisidioides Rick SPECIES
 
 #### Status
 ACCEPTED

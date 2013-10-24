@@ -1,5 +1,4 @@
-Pulvinulina nitidula Chaster, 1892 SPECIES
-=======
+# Pulvinulina nitidula Chaster, 1892 SPECIES
 
 #### Status
 ACCEPTED

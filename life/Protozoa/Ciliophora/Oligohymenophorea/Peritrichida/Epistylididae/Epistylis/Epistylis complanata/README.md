@@ -1,5 +1,4 @@
-Epistylis complanata Dumas, 1929 SPECIES
-=======
+# Epistylis complanata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

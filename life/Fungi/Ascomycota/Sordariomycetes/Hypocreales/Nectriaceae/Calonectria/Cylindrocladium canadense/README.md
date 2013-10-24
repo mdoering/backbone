@@ -1,5 +1,4 @@
-Cylindrocladium canadense J.C. Kang, Crous & C.L. Schoch SPECIES
-=======
+# Cylindrocladium canadense J.C. Kang, Crous & C.L. Schoch SPECIES
 
 #### Status
 ACCEPTED

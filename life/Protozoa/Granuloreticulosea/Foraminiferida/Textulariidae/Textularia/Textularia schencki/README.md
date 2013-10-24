@@ -1,5 +1,4 @@
-Textularia schencki Cushman & Valentine, 1930 SPECIES
-=======
+# Textularia schencki Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

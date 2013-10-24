@@ -1,5 +1,4 @@
-Parmelia ciliaris var. ciliaris VARIETY
-=======
+# Parmelia ciliaris ß crinalis Schleich. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Parmelia ciliaris ß crinalis Schleich.
 
 ### Remarks
 null

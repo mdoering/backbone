@@ -1,5 +1,4 @@
-Lotharella K.Ishida & Y.Hara, 1996 GENUS
-=======
+# Lotharella K.Ishida & Y.Hara, 1996 GENUS
 
 #### Status
 ACCEPTED

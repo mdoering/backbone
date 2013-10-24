@@ -1,5 +1,4 @@
-Opegrapha betulina var. betulina VARIETY
-=======
+# Opegrapha betulina Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha betulina var. betulina
+Opegrapha betulina Pers.
 
 ### Remarks
 null

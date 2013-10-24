@@ -1,5 +1,4 @@
-Uredo punctata DC. SPECIES
-=======
+# Uredo punctata DC. SPECIES
 
 #### Status
 ACCEPTED

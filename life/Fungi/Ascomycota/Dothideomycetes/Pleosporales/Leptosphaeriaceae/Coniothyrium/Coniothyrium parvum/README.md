@@ -1,5 +1,4 @@
-Coniothyrium parvum H.J. Swart SPECIES
-=======
+# Coniothyrium parvum H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

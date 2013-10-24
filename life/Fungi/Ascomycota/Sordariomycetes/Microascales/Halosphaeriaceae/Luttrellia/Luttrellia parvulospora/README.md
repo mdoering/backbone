@@ -1,5 +1,4 @@
-Luttrellia parvulospora A. Ferrer & Shearer SPECIES
-=======
+# Luttrellia parvulospora A. Ferrer & Shearer SPECIES
 
 #### Status
 ACCEPTED

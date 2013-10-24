@@ -1,17 +1,16 @@
-Phylloporina caerulescens Müll. Arg. SPECIES
-=======
+# Phylloporina coerulescens Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 73: 198 (1890)
 
 #### Original name
-Phylloporina caerulescens Müll. Arg.
+Phylloporina coerulescens Müll. Arg.
 
 ### Remarks
 null

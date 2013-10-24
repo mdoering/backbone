@@ -1,5 +1,4 @@
-Coryneum naucosum Sacc. SPECIES
-=======
+# Coryneum naucosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

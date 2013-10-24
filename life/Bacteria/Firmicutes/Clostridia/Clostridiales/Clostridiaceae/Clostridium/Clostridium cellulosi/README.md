@@ -1,5 +1,4 @@
-Clostridium cellulosi He et al., 1991 SPECIES
-=======
+# Clostridium cellulosi He et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

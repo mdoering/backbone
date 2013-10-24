@@ -1,5 +1,4 @@
-Octospora libussae Svrcek & Kubicka SPECIES
-=======
+# Octospora libussae Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

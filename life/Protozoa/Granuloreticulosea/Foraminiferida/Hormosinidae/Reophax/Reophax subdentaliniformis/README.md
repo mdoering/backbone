@@ -1,5 +1,4 @@
-Reophax subdentaliniformis Parr, 1950 SPECIES
-=======
+# Reophax subdentaliniformis Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acholeplasma cavigenitalium Hill, 1992 SPECIES
-=======
+# Acholeplasma cavigenitalium Hill, 1992 SPECIES
 
 #### Status
 ACCEPTED

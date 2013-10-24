@@ -1,5 +1,4 @@
-Heterodermia orientalis J.B. Chen & D.P. Wang SPECIES
-=======
+# Heterodermia orientalis J.B. Chen & D.P. Wang SPECIES
 
 #### Status
 ACCEPTED

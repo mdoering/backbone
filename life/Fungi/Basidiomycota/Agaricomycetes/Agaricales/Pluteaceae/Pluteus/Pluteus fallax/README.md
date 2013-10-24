@@ -1,5 +1,4 @@
-Pluteus fallax Singer SPECIES
-=======
+# Pluteus fallax Singer SPECIES
 
 #### Status
 ACCEPTED

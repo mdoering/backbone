@@ -1,5 +1,4 @@
-Mycosphaerella tamaricis (Hollós) Kurbans. SPECIES
-=======
+# Mycosphaerella tamaricis (Hollós) Kurbans. SPECIES
 
 #### Status
 ACCEPTED

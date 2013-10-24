@@ -1,5 +1,4 @@
-Dactylaria crinospora (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Dactylaria crinospora (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

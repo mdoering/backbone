@@ -1,5 +1,4 @@
-Oxytricha Bory de Saint-Vincent in Lamouroux et al., 1824 GENUS
-=======
+# Oxytricha Bory de Saint-Vincent in Lamouroux et al., 1824 GENUS
 
 #### Status
 ACCEPTED

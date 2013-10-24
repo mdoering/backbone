@@ -1,5 +1,4 @@
-Chaetoceros coronatum Gran SPECIES
-=======
+# Chaetoceros coronatum Gran SPECIES
 
 #### Status
 ACCEPTED

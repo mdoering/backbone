@@ -1,14 +1,13 @@
-Pileolaria fusispora (Cooke & Massee) Dietel, 1921 SPECIES
-=======
+# Uromycladium fusisporum (Cooke & Massee) Savile, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 302 (1921)
+Mycologia 63(5): 1091 (1971)
 
 #### Original name
 Uromyces fusisporus Cooke & Massee, 1887

@@ -1,5 +1,4 @@
-Ramalina brevis F. Wilson SPECIES
-=======
+# Ramalina brevis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutella coccidiicola Kobayasi & Shimizu SPECIES
-=======
+# Hirsutella coccidiicola Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

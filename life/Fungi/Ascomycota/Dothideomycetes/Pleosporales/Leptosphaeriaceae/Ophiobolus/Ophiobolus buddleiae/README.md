@@ -1,5 +1,4 @@
-Ophiobolus buddleiae Gucevic SPECIES
-=======
+# Ophiobolus buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

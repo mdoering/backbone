@@ -1,5 +1,4 @@
-Russula imitatrix Homola & Shaffer SPECIES
-=======
+# Russula imitatrix Homola & Shaffer SPECIES
 
 #### Status
 ACCEPTED

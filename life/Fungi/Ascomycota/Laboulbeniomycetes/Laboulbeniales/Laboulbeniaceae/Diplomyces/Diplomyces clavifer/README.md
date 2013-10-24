@@ -1,5 +1,4 @@
-Diplomyces clavifer W. Rossi & Cesari, 1978 SPECIES
-=======
+# Diplomyces clavifer W. Rossi & Cesari, 1978 SPECIES
 
 #### Status
 ACCEPTED

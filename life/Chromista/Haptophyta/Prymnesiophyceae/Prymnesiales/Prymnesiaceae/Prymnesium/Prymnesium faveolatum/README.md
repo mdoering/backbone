@@ -1,5 +1,4 @@
-Prymnesium faveolatum Fresnel, 2001 SPECIES
-=======
+# Prymnesium faveolatum Fresnel, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scrippsiella troichoidea SPECIES
-=======
+# Scrippsiella troichoidea SPECIES
 
 #### Status
 ACCEPTED

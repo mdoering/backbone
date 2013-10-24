@@ -1,5 +1,4 @@
-Laestadia filicina G. Winter SPECIES
-=======
+# Laestadia filicina G. Winter SPECIES
 
 #### Status
 ACCEPTED

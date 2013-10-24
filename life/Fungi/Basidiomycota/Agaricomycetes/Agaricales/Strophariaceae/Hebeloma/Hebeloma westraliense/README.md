@@ -1,5 +1,4 @@
-Hebeloma westraliense Bougher, Tommerup & Malajczuk SPECIES
-=======
+# Hebeloma westraliense Bougher, Tommerup & Malajczuk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces parvus Petch SPECIES
-=======
+# Hypomyces parvus Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenosphaera Haeckel, 1887 GENUS
-=======
+# Solenosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

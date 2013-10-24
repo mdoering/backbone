@@ -1,5 +1,4 @@
-Arthothelium subsimillimum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium subsimillimum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora isidiza Makhija & Nagarkar SPECIES
-=======
+# Megalospora isidiza Makhija & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

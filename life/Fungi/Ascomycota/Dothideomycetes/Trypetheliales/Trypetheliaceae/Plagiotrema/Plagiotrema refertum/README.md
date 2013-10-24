@@ -1,5 +1,4 @@
-Plagiotrema refertum (Stirt.) Makhija & Patw. SPECIES
-=======
+# Plagiotrema refertum (Stirt.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium punctiforme Durieu & Mont. SPECIES
-=======
+# Fusarium punctiforme Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

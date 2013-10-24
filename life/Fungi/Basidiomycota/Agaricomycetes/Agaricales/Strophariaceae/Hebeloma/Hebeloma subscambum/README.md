@@ -1,5 +1,4 @@
-Hebeloma subscambum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma subscambum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya maupasi SPECIES
-=======
+# Anoplophrya maupasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria atrosanguinea (Hepp) SPECIES
-=======
+# Patellaria atrosanguinea (Hepp) SPECIES
 
 #### Status
 ACCEPTED

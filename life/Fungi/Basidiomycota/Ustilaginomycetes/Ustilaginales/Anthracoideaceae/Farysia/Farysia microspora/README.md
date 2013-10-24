@@ -1,5 +1,4 @@
-Farysia microspora Vánky & McKenzie, 2009 SPECIES
-=======
+# Farysia microspora Vánky & McKenzie, 2009 SPECIES
 
 #### Status
 ACCEPTED

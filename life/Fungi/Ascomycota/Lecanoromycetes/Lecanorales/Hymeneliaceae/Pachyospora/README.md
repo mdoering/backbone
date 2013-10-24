@@ -1,5 +1,4 @@
-Pachyospora A. Massal. GENUS
-=======
+# Pachyospora A. Massal. GENUS
 
 #### Status
 ACCEPTED

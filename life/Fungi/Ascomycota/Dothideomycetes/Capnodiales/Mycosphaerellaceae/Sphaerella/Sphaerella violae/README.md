@@ -1,5 +1,4 @@
-Sphaerella violae (Pat.) Sacc. & Traverso SPECIES
-=======
+# Sphaerella violae (Pat.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

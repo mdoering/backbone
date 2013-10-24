@@ -1,5 +1,4 @@
-Tricholoma lasciviforme (Murrill) Murrill SPECIES
-=======
+# Tricholoma lasciviforme (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

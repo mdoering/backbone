@@ -1,5 +1,4 @@
-Helotium confine P. Karst. SPECIES
-=======
+# Helotium confine P. Karst. SPECIES
 
 #### Status
 ACCEPTED

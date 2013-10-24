@@ -1,5 +1,4 @@
-Pilocarpon cinereonigricans Vain. SPECIES
-=======
+# Pilocarpon cinereonigricans Vain. SPECIES
 
 #### Status
 ACCEPTED

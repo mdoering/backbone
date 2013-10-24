@@ -1,5 +1,4 @@
-Epidochium virens Westend. SPECIES
-=======
+# Epidochium virens Westend. SPECIES
 
 #### Status
 ACCEPTED

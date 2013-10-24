@@ -1,5 +1,4 @@
-Lophiostoma populneum P. Leroy, L. Gauthier, A. Reynaud & M.E. Barr SPECIES
-=======
+# Lophiostoma populneum P. Leroy, L. Gauthier, A. Reynaud & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

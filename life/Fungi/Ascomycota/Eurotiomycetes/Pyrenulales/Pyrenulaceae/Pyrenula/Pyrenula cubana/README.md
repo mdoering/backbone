@@ -1,5 +1,4 @@
-Pyrenula cubana (Müll. Arg.) R. C. Harris SPECIES
-=======
+# Pyrenula cubana (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

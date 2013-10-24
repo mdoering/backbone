@@ -1,5 +1,4 @@
-Stagonospora phyllachorivora Petr. SPECIES
-=======
+# Stagonospora phyllachorivora Petr. SPECIES
 
 #### Status
 ACCEPTED

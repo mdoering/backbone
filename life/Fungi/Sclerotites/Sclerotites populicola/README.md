@@ -1,5 +1,4 @@
-Sclerotites populicola (Heer) Mesch. SPECIES
-=======
+# Sclerotites populicola (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

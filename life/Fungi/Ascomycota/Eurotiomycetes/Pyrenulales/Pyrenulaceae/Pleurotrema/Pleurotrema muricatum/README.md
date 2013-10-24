@@ -1,5 +1,4 @@
-Pleurotrema muricatum (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Pleurotrema muricatum (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

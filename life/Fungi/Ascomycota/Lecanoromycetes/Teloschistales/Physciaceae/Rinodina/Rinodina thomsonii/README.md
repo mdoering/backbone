@@ -1,5 +1,4 @@
-Rinodina thomsonii Sheard SPECIES
-=======
+# Rinodina thomsonii Sheard SPECIES
 
 #### Status
 ACCEPTED

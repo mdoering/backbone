@@ -1,5 +1,4 @@
-Vermicularia mutica (G. Winter) Höhn. SPECIES
-=======
+# Vermicularia mutica (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

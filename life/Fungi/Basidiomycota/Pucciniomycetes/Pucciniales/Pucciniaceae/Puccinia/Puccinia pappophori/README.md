@@ -1,5 +1,4 @@
-Puccinia pappophori Cummins SPECIES
-=======
+# Puccinia pappophori Cummins SPECIES
 
 #### Status
 ACCEPTED

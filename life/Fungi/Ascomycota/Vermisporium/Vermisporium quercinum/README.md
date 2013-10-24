@@ -1,5 +1,4 @@
-Vermisporium quercinum B. Sutton, Francesch. & Marras SPECIES
-=======
+# Vermisporium quercinum B. Sutton, Francesch. & Marras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudallescheria mesopotamicum ined. SPECIES
-=======
+# Pseudallescheria mesopotamicum ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesoplasma grammopterae Tully et al., 1994 SPECIES
-=======
+# Mesoplasma grammopterae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

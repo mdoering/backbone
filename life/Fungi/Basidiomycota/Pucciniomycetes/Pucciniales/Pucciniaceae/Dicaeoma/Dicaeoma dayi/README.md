@@ -1,5 +1,4 @@
-Dicaeoma dayi (Clinton) Kuntze SPECIES
-=======
+# Dicaeoma dayi (Clinton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

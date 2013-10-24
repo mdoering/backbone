@@ -1,5 +1,4 @@
-Septoria araguata Syd., 1930 SPECIES
-=======
+# Septoria araguata Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

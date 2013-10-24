@@ -1,5 +1,4 @@
-Brunnipila cannabina (Rehm) Raitv. & Järv SPECIES
-=======
+# Brunnipila cannabina (Rehm) Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

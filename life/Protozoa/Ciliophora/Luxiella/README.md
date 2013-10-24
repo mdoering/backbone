@@ -1,5 +1,4 @@
-Luxiella Lecal, 1953 GENUS
-=======
+# Luxiella Lecal, 1953 GENUS
 
 #### Status
 ACCEPTED

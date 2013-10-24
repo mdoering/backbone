@@ -1,5 +1,4 @@
-Lecudina catalinensis Levine, 1974 SPECIES
-=======
+# Lecudina catalinensis Levine, 1974 SPECIES
 
 #### Status
 ACCEPTED

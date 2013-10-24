@@ -1,5 +1,4 @@
-Prosthecium appendiculatum (G.H. Otth) M.E. Barr SPECIES
-=======
+# Prosthecium appendiculatum (G.H. Otth) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

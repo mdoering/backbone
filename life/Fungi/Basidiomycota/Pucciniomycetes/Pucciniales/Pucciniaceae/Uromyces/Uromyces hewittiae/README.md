@@ -1,5 +1,4 @@
-Uromyces hewittiae Syd. & P. Syd. SPECIES
-=======
+# Uromyces hewittiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

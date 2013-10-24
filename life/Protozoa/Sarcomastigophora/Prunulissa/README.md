@@ -1,5 +1,4 @@
-Prunulissa Haeckel, 1887 GENUS
-=======
+# Prunulissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

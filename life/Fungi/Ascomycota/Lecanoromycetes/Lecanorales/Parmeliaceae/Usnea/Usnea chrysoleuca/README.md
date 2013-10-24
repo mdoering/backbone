@@ -1,5 +1,4 @@
-Usnea chrysoleuca Motyka SPECIES
-=======
+# Usnea chrysoleuca Motyka SPECIES
 
 #### Status
 ACCEPTED

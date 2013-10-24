@@ -1,5 +1,4 @@
-Ochrolechia grimmiae Lynge SPECIES
-=======
+# Ochrolechia grimmiae Lynge SPECIES
 
 #### Status
 ACCEPTED

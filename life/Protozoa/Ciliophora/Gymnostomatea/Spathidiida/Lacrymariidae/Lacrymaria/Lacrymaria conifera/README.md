@@ -1,5 +1,4 @@
-Lacrymaria conifera Burkovsky, 1970 SPECIES
-=======
+# Lacrymaria conifera Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

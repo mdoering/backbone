@@ -1,5 +1,4 @@
-Siphonina jacksonensis var. limbosa Cushman, 1927 VARIETY
-=======
+# Siphonina jacksonensis Cushman & Applin SPECIES
 
 #### Status
 ACCEPTED

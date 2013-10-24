@@ -1,5 +1,4 @@
-Pleospora theae Speschnew SPECIES
-=======
+# Pleospora theae Speschnew SPECIES
 
 #### Status
 ACCEPTED

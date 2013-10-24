@@ -1,14 +1,13 @@
-Cymbiodinium J. Cachon & M. Cachon, 1967 GENUS
-=======
+# Cymbodinium Cachon & Cachon, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Protistologica 3: 314.
 
 #### Original name
 null

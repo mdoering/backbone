@@ -1,14 +1,13 @@
-Sphaeria thwaitesii Berk. & Broome, 1852 SPECIES
-=======
+# Metasphaeria thwaitesii (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 9: 380 (1852)
+Syll. fung. (Abellini) 2: 161 (1883)
 
 #### Original name
 Sphaeria thwaitesii Berk. & Broome, 1852

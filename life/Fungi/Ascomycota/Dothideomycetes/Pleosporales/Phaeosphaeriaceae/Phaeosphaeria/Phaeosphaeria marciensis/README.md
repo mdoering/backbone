@@ -1,17 +1,16 @@
-Heptameria marciensis (Peck) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria marciensis (Peck) L. Holm & K. Holm, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 21(2): 68 (1981)
 
 #### Original name
-null
+Sphaeria marciensis Peck, 1879
 
 ### Remarks
 null

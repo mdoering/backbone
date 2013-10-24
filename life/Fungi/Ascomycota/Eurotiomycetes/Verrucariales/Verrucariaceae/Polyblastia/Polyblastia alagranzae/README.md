@@ -1,5 +1,4 @@
-Polyblastia alagranzae (Harm.) Zschacke SPECIES
-=======
+# Polyblastia alagranzae (Harm.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicostoma buddenbrocki Kahl, 1931 SPECIES
-=======
+# Helicostoma buddenbrocki Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

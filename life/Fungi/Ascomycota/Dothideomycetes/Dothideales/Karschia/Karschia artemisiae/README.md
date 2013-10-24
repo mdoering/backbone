@@ -1,5 +1,4 @@
-Karschia artemisiae Velen. SPECIES
-=======
+# Karschia artemisiae Velen. SPECIES
 
 #### Status
 ACCEPTED

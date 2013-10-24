@@ -1,5 +1,4 @@
-Polyporus biretum Sacc. SPECIES
-=======
+# Polyporus biretum Sacc. SPECIES
 
 #### Status
 ACCEPTED

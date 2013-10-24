@@ -1,5 +1,4 @@
-Marasmius brachysporus Singer SPECIES
-=======
+# Marasmius brachysporus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia candida Pass. SPECIES
-=======
+# Hendersonia candida Pass. SPECIES
 
 #### Status
 ACCEPTED

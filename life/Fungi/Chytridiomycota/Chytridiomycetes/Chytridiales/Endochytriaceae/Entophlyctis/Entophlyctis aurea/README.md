@@ -1,5 +1,4 @@
-Entophlyctis aurea Haskins SPECIES
-=======
+# Entophlyctis aurea Haskins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera ceanothi (Schwein.) U. Braun SPECIES
-=======
+# Microsphaera ceanothi (Schwein.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora rubicunda H. Magn. SPECIES
-=======
+# Acarospora rubicunda H. Magn. SPECIES
 
 #### Status
 ACCEPTED

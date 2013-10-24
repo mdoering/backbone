@@ -1,5 +1,4 @@
-Sterigmatomyces tursiopsis Kurtzman, M.J. Smiley, C.J. Johnson & M.J. Hoffman SPECIES
-=======
+# Sterigmatomyces tursiopsis Kurtzman, M.J. Smiley, C.J. Johnson & M.J. Hoffman SPECIES
 
 #### Status
 ACCEPTED

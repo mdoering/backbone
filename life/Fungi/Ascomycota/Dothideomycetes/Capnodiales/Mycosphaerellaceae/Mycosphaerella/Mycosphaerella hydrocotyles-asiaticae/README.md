@@ -1,5 +1,4 @@
-Mycosphaerella hydrocotyles-asiaticae (Pat.) Petr. SPECIES
-=======
+# Mycosphaerella hydrocotyles-asiaticae (Pat.) Petr. SPECIES
 
 #### Status
 ACCEPTED

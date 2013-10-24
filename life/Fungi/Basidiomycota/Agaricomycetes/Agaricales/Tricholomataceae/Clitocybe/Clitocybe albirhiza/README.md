@@ -1,5 +1,4 @@
-Clitocybe albirhiza H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe albirhiza H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

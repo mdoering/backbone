@@ -1,5 +1,4 @@
-Zeta Batista & R. Garnier, 1961 GENUS
-=======
+# Zeta Batista & R. Garnier, 1961 GENUS
 
 #### Status
 ACCEPTED

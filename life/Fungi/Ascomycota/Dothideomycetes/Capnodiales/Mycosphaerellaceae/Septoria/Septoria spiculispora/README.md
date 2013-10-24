@@ -1,5 +1,4 @@
-Septoria spiculispora Ellis & Everh. SPECIES
-=======
+# Septoria spiculispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradicheopsis fimbriata (G. Lister & Cran) Hertel ex Nann.-Brem. SPECIES
-=======
+# Paradicheopsis fimbriata (G. Lister & Cran) Hertel ex Nann.-Brem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecobasidium cateniphorum Matsush., 1975 SPECIES
-=======
+# Scolecobasidium cateniphorum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

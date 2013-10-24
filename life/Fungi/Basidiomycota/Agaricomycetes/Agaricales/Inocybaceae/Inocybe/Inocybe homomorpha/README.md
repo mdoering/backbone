@@ -1,5 +1,4 @@
-Inocybe homomorpha (Singer) Singer SPECIES
-=======
+# Inocybe homomorpha (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

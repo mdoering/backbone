@@ -1,5 +1,4 @@
-Paoayensis Cabanela, Jeewon & K.D. Hyde GENUS
-=======
+# Paoayensis Cabanela, Jeewon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

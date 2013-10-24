@@ -1,5 +1,4 @@
-Aecidiolum cirsii Sacc. SPECIES
-=======
+# Aecidiolum cirsii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella warrenensis A.H. Sm. SPECIES
-=======
+# Psathyrella warrenensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

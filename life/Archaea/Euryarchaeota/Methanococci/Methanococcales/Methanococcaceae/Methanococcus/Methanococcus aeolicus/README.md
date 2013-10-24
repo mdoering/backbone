@@ -1,5 +1,4 @@
-Methanococcus aeolicus Kendall et al., 2006 SPECIES
-=======
+# Methanococcus aeolicus Kendall et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

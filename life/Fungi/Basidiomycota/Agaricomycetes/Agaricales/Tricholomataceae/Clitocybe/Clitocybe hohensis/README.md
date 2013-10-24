@@ -1,5 +1,4 @@
-Clitocybe hohensis (A.H. Sm.) H.E. Bigelow & Hesler SPECIES
-=======
+# Clitocybe hohensis (A.H. Sm.) H.E. Bigelow & Hesler SPECIES
 
 #### Status
 ACCEPTED

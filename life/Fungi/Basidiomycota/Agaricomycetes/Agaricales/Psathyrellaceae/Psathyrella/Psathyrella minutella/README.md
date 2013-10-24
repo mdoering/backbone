@@ -1,5 +1,4 @@
-Psathyrella minutella (Höhn.) Singer SPECIES
-=======
+# Psathyrella minutella (Höhn.) Singer SPECIES
 
 #### Status
 ACCEPTED

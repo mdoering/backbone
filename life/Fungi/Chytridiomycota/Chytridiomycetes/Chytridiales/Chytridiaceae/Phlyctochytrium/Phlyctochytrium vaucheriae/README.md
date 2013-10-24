@@ -1,5 +1,4 @@
-Phlyctochytrium vaucheriae Rieth SPECIES
-=======
+# Phlyctochytrium vaucheriae Rieth SPECIES
 
 #### Status
 ACCEPTED

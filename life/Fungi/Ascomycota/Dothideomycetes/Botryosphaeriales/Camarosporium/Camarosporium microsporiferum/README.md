@@ -1,5 +1,4 @@
-Camarosporium microsporiferum Matsush. SPECIES
-=======
+# Camarosporium microsporiferum Matsush. SPECIES
 
 #### Status
 ACCEPTED

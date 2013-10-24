@@ -1,5 +1,4 @@
-Meliola rectangularis F. Stevens SPECIES
-=======
+# Meliola rectangularis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

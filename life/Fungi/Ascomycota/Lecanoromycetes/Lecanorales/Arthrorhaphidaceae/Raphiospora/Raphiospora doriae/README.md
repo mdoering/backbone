@@ -1,5 +1,4 @@
-Raphiospora doriae Bagl. SPECIES
-=======
+# Raphiospora doriae Bagl. SPECIES
 
 #### Status
 ACCEPTED

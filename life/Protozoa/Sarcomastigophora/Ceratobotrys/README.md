@@ -1,5 +1,4 @@
-Ceratobotrys Nishimura, 1990 GENUS
-=======
+# Ceratobotrys Nishimura, 1990 GENUS
 
 #### Status
 ACCEPTED

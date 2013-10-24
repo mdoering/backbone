@@ -1,5 +1,4 @@
-Trachelomonas punctata Kufferath & Conrad SPECIES
-=======
+# Trachelomonas punctata Kufferath & Conrad SPECIES
 
 #### Status
 ACCEPTED

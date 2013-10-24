@@ -1,5 +1,4 @@
-Aglaospora tubulosa (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Aglaospora tubulosa (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

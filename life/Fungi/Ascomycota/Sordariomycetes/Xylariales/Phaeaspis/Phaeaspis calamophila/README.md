@@ -1,5 +1,4 @@
-Phaeaspis calamophila Kirschst. SPECIES
-=======
+# Phaeaspis calamophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

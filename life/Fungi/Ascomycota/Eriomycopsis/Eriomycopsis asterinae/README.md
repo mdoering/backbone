@@ -1,5 +1,4 @@
-Eriomycopsis asterinae Hansf. SPECIES
-=======
+# Eriomycopsis asterinae Hansf. SPECIES
 
 #### Status
 ACCEPTED

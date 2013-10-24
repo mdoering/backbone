@@ -1,5 +1,4 @@
-Chlorocloster minor J. Phillipson SPECIES
-=======
+# Chlorocloster minor J. Phillipson SPECIES
 
 #### Status
 ACCEPTED

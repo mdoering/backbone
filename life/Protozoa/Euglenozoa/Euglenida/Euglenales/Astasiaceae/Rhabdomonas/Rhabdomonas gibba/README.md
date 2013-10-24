@@ -1,5 +1,4 @@
-Rhabdomonas gibba (Skuja) Pringsheim SPECIES
-=======
+# Rhabdomonas gibba (Skuja) Pringsheim SPECIES
 
 #### Status
 ACCEPTED

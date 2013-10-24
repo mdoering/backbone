@@ -1,8 +1,7 @@
-Rhabdoderma sigmoideum Moore & Carter SPECIES
-=======
+# Synechococcus sigmoideus (Moore & Carter) Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

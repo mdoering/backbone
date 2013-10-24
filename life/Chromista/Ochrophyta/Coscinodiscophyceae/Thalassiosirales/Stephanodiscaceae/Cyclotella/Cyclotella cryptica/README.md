@@ -1,5 +1,4 @@
-Cyclotella cryptica Reimann, Lewin & Guillard SPECIES
-=======
+# Cyclotella cryptica Reimann, Lewin & Guillard SPECIES
 
 #### Status
 ACCEPTED

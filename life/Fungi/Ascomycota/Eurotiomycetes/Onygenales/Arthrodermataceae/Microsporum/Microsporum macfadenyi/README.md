@@ -1,8 +1,7 @@
-Microsporon macfadenyi Castell. SPECIES
-=======
+# Microsporum macfadenyi Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsporon macfadenyi Castell.
+Microsporum macfadenyi Castell.
 
 ### Remarks
 null

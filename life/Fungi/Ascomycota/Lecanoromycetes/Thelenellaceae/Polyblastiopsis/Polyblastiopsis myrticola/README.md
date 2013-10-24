@@ -1,5 +1,4 @@
-Polyblastiopsis myrticola SPECIES
-=======
+# Polyblastiopsis myrticola SPECIES
 
 #### Status
 ACCEPTED

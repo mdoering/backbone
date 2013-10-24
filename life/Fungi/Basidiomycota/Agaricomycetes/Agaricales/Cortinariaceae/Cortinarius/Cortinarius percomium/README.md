@@ -1,5 +1,4 @@
-Cortinarius percomium Rob. Henry SPECIES
-=======
+# Cortinarius percomium Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

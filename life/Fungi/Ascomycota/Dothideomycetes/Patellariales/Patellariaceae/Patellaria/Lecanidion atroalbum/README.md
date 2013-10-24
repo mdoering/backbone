@@ -1,14 +1,13 @@
-Patellaria atroalba Cooke SPECIES
-=======
+# Lecanidion atroalbum (Cooke) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 798 (1889)
 
 #### Original name
 Patellaria atroalba Cooke

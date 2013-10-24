@@ -1,5 +1,4 @@
-Buellia pachnidisca R.C. Harris SPECIES
-=======
+# Buellia pachnidisca R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora phrymae Naito SPECIES
-=======
+# Cercospora phrymae Naito SPECIES
 
 #### Status
 ACCEPTED

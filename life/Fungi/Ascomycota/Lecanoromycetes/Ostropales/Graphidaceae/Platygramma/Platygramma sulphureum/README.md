@@ -1,5 +1,4 @@
-Platygramma sulphureum (Fée) Spreng. SPECIES
-=======
+# Platygramma sulphureum (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

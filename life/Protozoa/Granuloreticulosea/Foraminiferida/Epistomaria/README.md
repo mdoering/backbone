@@ -1,5 +1,4 @@
-Epistomaria Galloway, 1933 GENUS
-=======
+# Epistomaria Galloway, 1933 GENUS
 
 #### Status
 ACCEPTED

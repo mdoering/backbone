@@ -1,5 +1,4 @@
-Phyllosticta cejpii M. Morelet SPECIES
-=======
+# Phyllosticta cejpii M. Morelet SPECIES
 
 #### Status
 ACCEPTED

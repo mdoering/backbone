@@ -1,5 +1,4 @@
-Granoreticella variabilis Jiabo, 1978 SPECIES
-=======
+# Granoreticella variabilis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

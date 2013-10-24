@@ -1,17 +1,16 @@
-Peyronellaea gardeniae (S. Chandra & Tandon) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Pyrenochaeta gardeniae S. Chandra & Tandon, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 29: 274 (1966)
 
 #### Original name
-null
+Pyrenochaeta gardeniae S. Chandra & Tandon, 1966
 
 ### Remarks
 null

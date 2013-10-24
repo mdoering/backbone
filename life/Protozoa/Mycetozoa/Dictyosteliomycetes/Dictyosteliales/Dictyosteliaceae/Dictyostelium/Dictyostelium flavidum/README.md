@@ -1,5 +1,4 @@
-Dictyostelium flavidum J.S. Hong & N.K. Chang, 1992 SPECIES
-=======
+# Dictyostelium flavidum J.S. Hong & N.K. Chang, 1992 SPECIES
 
 #### Status
 ACCEPTED

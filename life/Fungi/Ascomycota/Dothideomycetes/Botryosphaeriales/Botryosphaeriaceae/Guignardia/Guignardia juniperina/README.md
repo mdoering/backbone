@@ -1,5 +1,4 @@
-Guignardia juniperina (Ellis) Rota-Rossi SPECIES
-=======
+# Guignardia juniperina (Ellis) Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

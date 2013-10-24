@@ -1,5 +1,4 @@
-Parmelia locarnensis Zopf SPECIES
-=======
+# Parmelia locarnensis Zopf SPECIES
 
 #### Status
 ACCEPTED

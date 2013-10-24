@@ -1,17 +1,16 @@
-Agaricus palmatus var. palmatus VARIETY
-=======
+# Rhodotus palmatus (Bull.) Maire, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 5: tab. 216 (1785)
+Bull. trimest. Soc. mycol. Fr. 40: 308 (1926)
 
 #### Original name
-Agaricus palmatus var. palmatus
+Agaricus palmatus Bull., 1785
 
 ### Remarks
 null

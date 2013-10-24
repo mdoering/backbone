@@ -1,5 +1,4 @@
-Caloplaca turgida (A. Massal.) Lettau SPECIES
-=======
+# Caloplaca turgida (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

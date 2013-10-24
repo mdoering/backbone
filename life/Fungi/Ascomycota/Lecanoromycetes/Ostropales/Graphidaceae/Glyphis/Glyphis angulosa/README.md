@@ -1,5 +1,4 @@
-Glyphis angulosa Eschw. SPECIES
-=======
+# Glyphis angulosa Eschw. SPECIES
 
 #### Status
 ACCEPTED

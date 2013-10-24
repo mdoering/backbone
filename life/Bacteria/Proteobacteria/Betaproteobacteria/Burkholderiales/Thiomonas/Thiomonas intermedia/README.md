@@ -1,8 +1,7 @@
-Thiobacillus intermedius London, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Thiomonas intermedia (London, 1963) Moreira & Amils, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

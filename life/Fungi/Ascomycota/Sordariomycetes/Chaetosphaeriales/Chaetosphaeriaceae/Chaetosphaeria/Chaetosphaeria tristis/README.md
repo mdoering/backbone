@@ -1,5 +1,4 @@
-Chaetosphaeria tristis (Tode) J. Schröt. SPECIES
-=======
+# Chaetosphaeria tristis (Tode) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

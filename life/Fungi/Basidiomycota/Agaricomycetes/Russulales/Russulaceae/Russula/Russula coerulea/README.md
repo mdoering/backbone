@@ -1,5 +1,4 @@
-Russula coerulea (Pers.) Fr. SPECIES
-=======
+# Russula coerulea (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

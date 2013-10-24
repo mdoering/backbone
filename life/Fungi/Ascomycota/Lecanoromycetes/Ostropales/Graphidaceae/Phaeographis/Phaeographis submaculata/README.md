@@ -1,5 +1,4 @@
-Phaeographis submaculata Zahlbr. SPECIES
-=======
+# Phaeographis submaculata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

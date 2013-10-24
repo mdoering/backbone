@@ -1,5 +1,4 @@
-Dysteria pectinata (Nowlin, 1913) Kahl, 1931 SPECIES
-=======
+# Dysteria pectinata (Nowlin, 1913) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia louisii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia louisii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

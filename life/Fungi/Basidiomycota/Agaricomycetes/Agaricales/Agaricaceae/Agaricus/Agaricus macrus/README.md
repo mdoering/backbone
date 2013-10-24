@@ -1,5 +1,4 @@
-Agaricus macrus Britzelm. SPECIES
-=======
+# Agaricus macrus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

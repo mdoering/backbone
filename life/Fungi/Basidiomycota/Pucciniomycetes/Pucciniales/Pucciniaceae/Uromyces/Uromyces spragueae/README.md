@@ -1,5 +1,4 @@
-Uromyces spragueae Harkn. SPECIES
-=======
+# Uromyces spragueae Harkn. SPECIES
 
 #### Status
 ACCEPTED

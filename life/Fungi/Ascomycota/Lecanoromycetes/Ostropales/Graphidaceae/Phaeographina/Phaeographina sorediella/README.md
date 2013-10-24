@@ -1,5 +1,4 @@
-Phaeographina sorediella (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Phaeographina sorediella (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

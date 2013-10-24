@@ -1,5 +1,4 @@
-Pluteolus dictyotus Kalchbr. SPECIES
-=======
+# Pluteolus dictyotus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

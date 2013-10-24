@@ -1,5 +1,4 @@
-Cercoseptoria ribis (Davis) Dearn. & House SPECIES
-=======
+# Cercoseptoria ribis (Davis) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

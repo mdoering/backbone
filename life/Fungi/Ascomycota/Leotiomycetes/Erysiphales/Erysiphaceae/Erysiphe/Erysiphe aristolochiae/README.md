@@ -1,5 +1,4 @@
-Erysiphe aristolochiae (Y.N. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe aristolochiae (Y.N. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

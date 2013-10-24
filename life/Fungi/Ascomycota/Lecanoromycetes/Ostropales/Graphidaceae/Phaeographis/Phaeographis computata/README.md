@@ -1,5 +1,4 @@
-Phaeographis computata Müll. Arg. SPECIES
-=======
+# Phaeographis computata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe ruderalis Harmaja, 1969 SPECIES
-=======
+# Clitocybe ruderalis Harmaja, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype hochelagae Ellis & Everh. SPECIES
-=======
+# Diatrype hochelagae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

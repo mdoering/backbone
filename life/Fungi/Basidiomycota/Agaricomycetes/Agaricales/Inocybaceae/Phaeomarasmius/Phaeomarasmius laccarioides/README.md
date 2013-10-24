@@ -1,5 +1,4 @@
-Phaeomarasmius laccarioides Har. Takah. SPECIES
-=======
+# Phaeomarasmius laccarioides Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

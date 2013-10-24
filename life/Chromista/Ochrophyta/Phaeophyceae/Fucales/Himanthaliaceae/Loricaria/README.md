@@ -1,5 +1,4 @@
-Loricaria J.V.F. Lamouroux in Bory de St.-Vincent, 1825 GENUS
-=======
+# Loricaria J.V.F. Lamouroux in Bory de St.-Vincent, 1825 GENUS
 
 #### Status
 ACCEPTED

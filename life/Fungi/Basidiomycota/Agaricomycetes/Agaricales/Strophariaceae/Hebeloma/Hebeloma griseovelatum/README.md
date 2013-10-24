@@ -1,5 +1,4 @@
-Hebeloma griseovelatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma griseovelatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

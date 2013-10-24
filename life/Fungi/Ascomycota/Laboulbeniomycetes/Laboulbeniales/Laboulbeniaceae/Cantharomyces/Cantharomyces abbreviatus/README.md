@@ -1,5 +1,4 @@
-Cantharomyces abbreviatus Maire SPECIES
-=======
+# Cantharomyces abbreviatus Maire SPECIES
 
 #### Status
 ACCEPTED

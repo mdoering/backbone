@@ -1,5 +1,4 @@
-Pertusaria hossei (Räsänen) A.W. Archer & Osorio SPECIES
-=======
+# Pertusaria hossei (Räsänen) A.W. Archer & Osorio SPECIES
 
 #### Status
 ACCEPTED

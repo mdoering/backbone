@@ -1,5 +1,4 @@
-Ciboriella rufescens (Kanouse) Seaver SPECIES
-=======
+# Ciboriella rufescens (Kanouse) Seaver SPECIES
 
 #### Status
 ACCEPTED

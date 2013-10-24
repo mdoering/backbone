@@ -1,5 +1,4 @@
-Agaricus ochraceofuscus G. Mey. SPECIES
-=======
+# Agaricus ochraceofuscus G. Mey. SPECIES
 
 #### Status
 ACCEPTED

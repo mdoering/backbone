@@ -1,5 +1,4 @@
-Sporisorium panicicola Vánky SPECIES
-=======
+# Sporisorium panicicola Vánky SPECIES
 
 #### Status
 ACCEPTED

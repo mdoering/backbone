@@ -1,5 +1,4 @@
-Paraphysomonas punctata B.Zimmermann SPECIES
-=======
+# Paraphysomonas punctata B.Zimmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora pyrenodesmiae Nav.-Ros. & Cl. Roux, 1998 SPECIES
-=======
+# Lichenochora pyrenodesmiae Nav.-Ros. & Cl. Roux, 1998 SPECIES
 
 #### Status
 ACCEPTED

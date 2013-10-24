@@ -1,5 +1,4 @@
-Entoloma tricolor (Massee) E. Horak SPECIES
-=======
+# Entoloma tricolor (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

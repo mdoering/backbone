@@ -1,5 +1,4 @@
-Ditremis straminicolor Makhija & Patw. SPECIES
-=======
+# Ditremis straminicolor Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha prolificans Redinger SPECIES
-=======
+# Opegrapha prolificans Redinger SPECIES
 
 #### Status
 ACCEPTED

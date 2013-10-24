@@ -1,5 +1,4 @@
-Gamsia M. Morelet GENUS
-=======
+# Gamsia M. Morelet GENUS
 
 #### Status
 ACCEPTED

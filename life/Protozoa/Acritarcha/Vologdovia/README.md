@@ -1,5 +1,4 @@
-Vologdovia Shepeleva in Klevtsova & Shepeleva, 1980 GENUS
-=======
+# Vologdovia Shepeleva in Klevtsova & Shepeleva, 1980 GENUS
 
 #### Status
 ACCEPTED

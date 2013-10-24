@@ -1,17 +1,16 @@
-Monilia zeylanoides var. zeylanoides VARIETY
-=======
+# Candida zeylanoides (Castell.) Langeron & Guerra, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Trop. Med. Hyg. 23: 17-22 (1920)
+Annls Parasit. hum. comp. 16: 501 (1938)
 
 #### Original name
-Monilia zeylanoides var. zeylanoides
+Monilia zeylanoides Castell.
 
 ### Remarks
 null

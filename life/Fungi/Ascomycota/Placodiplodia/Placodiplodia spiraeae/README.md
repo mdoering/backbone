@@ -1,5 +1,4 @@
-Placodiplodia spiraeae (Oudem.) Zambett. SPECIES
-=======
+# Placodiplodia spiraeae (Oudem.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

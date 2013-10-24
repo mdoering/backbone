@@ -1,5 +1,4 @@
-Pronectria erythrinella (Nyl.) Lowen SPECIES
-=======
+# Pronectria erythrinella (Nyl.) Lowen SPECIES
 
 #### Status
 ACCEPTED

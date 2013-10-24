@@ -1,5 +1,4 @@
-Hypocrea subrufa Berk. & Cooke SPECIES
-=======
+# Hypocrea subrufa Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

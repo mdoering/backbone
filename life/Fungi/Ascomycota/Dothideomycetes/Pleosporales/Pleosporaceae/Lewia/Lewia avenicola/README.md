@@ -1,5 +1,4 @@
-Lewia avenicola Kosiak & Kwasna, 2003 SPECIES
-=======
+# Lewia avenicola Kosiak & Kwasna, 2003 SPECIES
 
 #### Status
 ACCEPTED

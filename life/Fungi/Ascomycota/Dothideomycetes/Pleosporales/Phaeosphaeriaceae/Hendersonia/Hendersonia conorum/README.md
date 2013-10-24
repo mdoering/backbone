@@ -1,5 +1,4 @@
-Hendersonia conorum Lacroix SPECIES
-=======
+# Hendersonia conorum Lacroix SPECIES
 
 #### Status
 ACCEPTED

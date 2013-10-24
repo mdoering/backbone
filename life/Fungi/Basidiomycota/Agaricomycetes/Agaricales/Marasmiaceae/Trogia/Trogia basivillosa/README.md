@@ -1,5 +1,4 @@
-Trogia basivillosa Corner SPECIES
-=======
+# Trogia basivillosa Corner SPECIES
 
 #### Status
 ACCEPTED

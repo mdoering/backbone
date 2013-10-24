@@ -1,5 +1,4 @@
-Trullula atrofuliginea Speg. SPECIES
-=======
+# Trullula atrofuliginea Speg. SPECIES
 
 #### Status
 ACCEPTED

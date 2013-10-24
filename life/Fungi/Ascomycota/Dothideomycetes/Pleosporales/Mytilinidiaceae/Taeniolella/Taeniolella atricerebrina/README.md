@@ -1,5 +1,4 @@
-Taeniolella atricerebrina Hafellner SPECIES
-=======
+# Taeniolella atricerebrina Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phaeococcus catenatus de Hoog & Herm.-Nijh., 1977 SPECIES
-=======
+# Phaeococcomyces catenatus (de Hoog & Herm.-Nijh.) de Hoog, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 126 (1977)
+Taxon 28(4): 348 (1979)
 
 #### Original name
 Phaeococcus catenatus de Hoog & Herm.-Nijh., 1977

@@ -1,5 +1,4 @@
-Gonyaulax fragilis (Schütt) Kofoid SPECIES
-=======
+# Gonyaulax fragilis (Schütt) Kofoid SPECIES
 
 #### Status
 ACCEPTED

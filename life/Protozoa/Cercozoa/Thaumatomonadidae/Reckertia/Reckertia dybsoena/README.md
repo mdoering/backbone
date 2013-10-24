@@ -1,5 +1,4 @@
-Reckertia dybsoena (Thomsen, Hällfors, Hällfors & Ikävalko, 1993) Cavalier-Smith, 2011 SPECIES
-=======
+# Reckertia dybsoena (Thomsen, Hällfors, Hällfors & Ikävalko, 1993) Cavalier-Smith, 2011 SPECIES
 
 #### Status
 ACCEPTED

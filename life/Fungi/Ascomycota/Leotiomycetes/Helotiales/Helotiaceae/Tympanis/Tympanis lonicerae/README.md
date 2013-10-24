@@ -1,5 +1,4 @@
-Tympanis lonicerae Fr. & Mont. SPECIES
-=======
+# Tympanis lonicerae Fr. & Mont. SPECIES
 
 #### Status
 ACCEPTED

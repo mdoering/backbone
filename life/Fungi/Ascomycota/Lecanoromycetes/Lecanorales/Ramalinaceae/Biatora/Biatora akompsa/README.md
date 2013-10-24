@@ -1,5 +1,4 @@
-Biatora akompsa Tuck. SPECIES
-=======
+# Biatora akompsa Tuck. SPECIES
 
 #### Status
 ACCEPTED

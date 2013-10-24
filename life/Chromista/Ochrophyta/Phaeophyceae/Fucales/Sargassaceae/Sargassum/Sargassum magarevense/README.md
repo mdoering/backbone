@@ -1,5 +1,4 @@
-Sargassum magarevense SPECIES
-=======
+# Sargassum magarevense SPECIES
 
 #### Status
 ACCEPTED

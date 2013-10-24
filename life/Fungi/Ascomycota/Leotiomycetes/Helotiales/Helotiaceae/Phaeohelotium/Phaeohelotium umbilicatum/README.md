@@ -1,14 +1,13 @@
-Helotium umbilicatum (Le Gal) Dennis, 1954 SPECIES
-=======
+# Phaeohelotium umbilicatum (Le Gal) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 326 (1954)
+Kew Bull. , Addit. Ser. 25(2): 357 (1971)
 
 #### Original name
 Pachydisca umbilicata Le Gal, 1938

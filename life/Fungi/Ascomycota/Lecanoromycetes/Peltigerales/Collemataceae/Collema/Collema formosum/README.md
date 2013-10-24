@@ -1,5 +1,4 @@
-Collema formosum Ach. SPECIES
-=======
+# Collema formosum Ach. SPECIES
 
 #### Status
 ACCEPTED

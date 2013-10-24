@@ -1,5 +1,4 @@
-Verrucaria dionantensis Hue SPECIES
-=======
+# Verrucaria dionantensis Hue SPECIES
 
 #### Status
 ACCEPTED

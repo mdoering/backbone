@@ -1,5 +1,4 @@
-Meliola gomphandrae Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola gomphandrae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

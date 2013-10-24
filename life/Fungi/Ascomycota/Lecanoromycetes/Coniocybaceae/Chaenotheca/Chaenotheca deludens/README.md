@@ -1,5 +1,4 @@
-Chaenotheca deludens Tibell SPECIES
-=======
+# Chaenotheca deludens Tibell SPECIES
 
 #### Status
 ACCEPTED

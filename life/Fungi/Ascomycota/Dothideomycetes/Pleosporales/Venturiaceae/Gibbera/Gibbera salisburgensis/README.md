@@ -1,14 +1,13 @@
-Antennularia salisburgensis (Niessl) Höhn., 1913 SPECIES
-=======
+# Gibbera salisburgensis Niessl, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 63: 233 (1913)
+null
 
 #### Original name
 Gibbera salisburgensis Niessl, 1886

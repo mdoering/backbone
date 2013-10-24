@@ -1,5 +1,4 @@
-Inocybe fechtneri Velen. SPECIES
-=======
+# Inocybe fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

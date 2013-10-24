@@ -1,5 +1,4 @@
-Vekshinella aachena (D. Bukry) F.H. Wind & S.W. Wise SPECIES
-=======
+# Vekshinella aachena (D. Bukry) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

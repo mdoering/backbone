@@ -1,8 +1,7 @@
-Ascochyta jaapi Sacc. SPECIES
-=======
+# Ascochyta jaapii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

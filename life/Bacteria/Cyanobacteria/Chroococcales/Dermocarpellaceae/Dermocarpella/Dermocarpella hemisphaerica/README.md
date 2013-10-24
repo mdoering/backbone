@@ -1,5 +1,4 @@
-Dermocarpella hemisphaerica Lemmermann SPECIES
-=======
+# Dermocarpella hemisphaerica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

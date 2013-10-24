@@ -1,5 +1,4 @@
-Crucibulum albosaccum Lloyd SPECIES
-=======
+# Crucibulum albosaccum Lloyd SPECIES
 
 #### Status
 ACCEPTED

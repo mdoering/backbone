@@ -1,5 +1,4 @@
-Ochrolechia glacialis Poelt SPECIES
-=======
+# Ochrolechia glacialis Poelt SPECIES
 
 #### Status
 ACCEPTED

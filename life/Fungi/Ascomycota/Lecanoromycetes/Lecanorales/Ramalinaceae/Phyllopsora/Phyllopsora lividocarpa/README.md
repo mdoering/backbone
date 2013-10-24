@@ -1,5 +1,4 @@
-Phyllopsora lividocarpa Timdal SPECIES
-=======
+# Phyllopsora lividocarpa Timdal SPECIES
 
 #### Status
 ACCEPTED

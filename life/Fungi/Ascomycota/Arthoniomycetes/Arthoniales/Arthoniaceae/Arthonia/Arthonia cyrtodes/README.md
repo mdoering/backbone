@@ -1,5 +1,4 @@
-Arthonia cyrtodes Nyl. SPECIES
-=======
+# Arthonia cyrtodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

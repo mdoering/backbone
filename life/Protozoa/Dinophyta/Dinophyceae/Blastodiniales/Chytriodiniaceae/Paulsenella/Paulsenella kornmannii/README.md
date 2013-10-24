@@ -1,5 +1,4 @@
-Paulsenella kornmannii G. Drebes & E. Schnepf SPECIES
-=======
+# Paulsenella kornmannii G. Drebes & E. Schnepf SPECIES
 
 #### Status
 ACCEPTED

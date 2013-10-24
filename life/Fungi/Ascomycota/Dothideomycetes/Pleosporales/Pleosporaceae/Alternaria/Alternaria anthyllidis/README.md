@@ -1,5 +1,4 @@
-Alternaria anthyllidis (Baudy) Ondrej SPECIES
-=======
+# Alternaria anthyllidis (Baudy) Ondrej SPECIES
 
 #### Status
 ACCEPTED

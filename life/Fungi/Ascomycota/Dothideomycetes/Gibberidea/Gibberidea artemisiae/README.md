@@ -1,5 +1,4 @@
-Gibberidea artemisiae Earle SPECIES
-=======
+# Gibberidea artemisiae Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium pallidulum (Müll. Arg.) Vezda SPECIES
-=======
+# Coenogonium pallidulum (Müll. Arg.) Vezda SPECIES
 
 #### Status
 ACCEPTED

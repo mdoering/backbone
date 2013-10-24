@@ -1,5 +1,4 @@
-Dimerella pilifera Vezda SPECIES
-=======
+# Dimerella pilifera Vezda SPECIES
 
 #### Status
 ACCEPTED

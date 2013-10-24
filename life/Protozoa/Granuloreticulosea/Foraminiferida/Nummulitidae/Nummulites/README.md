@@ -1,14 +1,13 @@
-Nautilus lenticularis var. delta Fichtel & Moll, 1798 VARIETY
-=======
+# Nummulites Lamarck, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Syst. Anim. , 101.
 
 #### Original name
 null

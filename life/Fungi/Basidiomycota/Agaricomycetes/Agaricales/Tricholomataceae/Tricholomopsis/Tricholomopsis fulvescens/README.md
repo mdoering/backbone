@@ -1,5 +1,4 @@
-Tricholomopsis fulvescens A.H. Sm. SPECIES
-=======
+# Tricholomopsis fulvescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

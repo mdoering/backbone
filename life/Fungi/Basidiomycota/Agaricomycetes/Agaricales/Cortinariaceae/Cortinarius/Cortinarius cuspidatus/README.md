@@ -1,5 +1,4 @@
-Cortinarius cuspidatus (Murrill) Singer SPECIES
-=======
+# Cortinarius cuspidatus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

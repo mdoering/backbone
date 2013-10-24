@@ -1,5 +1,4 @@
-Pelistega europaea Vandamme et al., 1998 SPECIES
-=======
+# Pelistega europaea Vandamme et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidospora cainii Guarro SPECIES
-=======
+# Rhytidospora cainii Guarro SPECIES
 
 #### Status
 ACCEPTED

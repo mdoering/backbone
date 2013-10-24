@@ -1,5 +1,4 @@
-Catillaria tristissima (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria tristissima (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

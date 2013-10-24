@@ -1,17 +1,16 @@
-Entyloma globigena Thirum. & Safeeulla SPECIES
-=======
+# Entyloma globigenum Thirum. & Safeeulla, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 5(3-6): 443 (1951)
 
 #### Original name
-Entyloma globigena Thirum. & Safeeulla
+Entyloma globigenum Thirum. & Safeeulla, 1951
 
 ### Remarks
 null

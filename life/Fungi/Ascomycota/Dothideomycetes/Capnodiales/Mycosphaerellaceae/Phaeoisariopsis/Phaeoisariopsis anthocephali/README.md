@@ -1,17 +1,16 @@
-Phaeoisariopsis anthocephala Ts. Kobay. SPECIES
-=======
+# Phaeoisariopsis anthocephali Ts. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 19(4): 373 (1978)
 
 #### Original name
-Phaeoisariopsis anthocephala Ts. Kobay.
+Phaeoisariopsis anthocephali Ts. Kobay.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Micula staurophora (Gardet, 1955) Stradner, 1963 SPECIES
-=======
+# Micula staurophora (Gardet, 1955) Stradner, 1963 SPECIES
 
 #### Status
 ACCEPTED

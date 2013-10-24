@@ -1,5 +1,4 @@
-Marasmius albocapitatus Petch SPECIES
-=======
+# Marasmius albocapitatus Petch SPECIES
 
 #### Status
 ACCEPTED

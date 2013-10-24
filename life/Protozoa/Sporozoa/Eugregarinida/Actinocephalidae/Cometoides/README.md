@@ -1,17 +1,16 @@
-Pogonites Léger, 1892 GENUS
-=======
+# Cometoides Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 3, 148.
+Tierreich, 5, 29.
 
 #### Original name
-null
+Pogonites Léger, 1892
 
 ### Remarks
 null

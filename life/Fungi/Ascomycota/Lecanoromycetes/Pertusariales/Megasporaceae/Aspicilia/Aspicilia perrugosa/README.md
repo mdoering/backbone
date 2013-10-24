@@ -1,5 +1,4 @@
-Aspicilia perrugosa Motyka SPECIES
-=======
+# Aspicilia perrugosa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Masonia Hansford, 1944 GENUS
-=======
+# Dictyonella von Höhnel, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 156: 102 (1944)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 369 (1909)
 
 #### Original name
-Masonia Hansford, 1944
+Dictyonella von Höhnel, 1909
 
 ### Remarks
 null

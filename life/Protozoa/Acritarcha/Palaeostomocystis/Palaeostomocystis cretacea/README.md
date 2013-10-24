@@ -1,5 +1,4 @@
-Palaeostomocystis cretacea (O. Wetzel, 1933) Deflandre, 1937 SPECIES
-=======
+# Palaeostomocystis cretacea (O. Wetzel, 1933) Deflandre, 1937 SPECIES
 
 #### Status
 ACCEPTED

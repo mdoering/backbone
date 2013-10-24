@@ -1,5 +1,4 @@
-Schizothyrella fraxini Ellis & Everh. SPECIES
-=======
+# Schizothyrella fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia clintonii Cif. SPECIES
-=======
+# Cintractia clintonii Cif. SPECIES
 
 #### Status
 ACCEPTED

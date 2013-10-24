@@ -1,5 +1,4 @@
-Sphaerella marii De Not. SPECIES
-=======
+# Sphaerella marii De Not. SPECIES
 
 #### Status
 ACCEPTED

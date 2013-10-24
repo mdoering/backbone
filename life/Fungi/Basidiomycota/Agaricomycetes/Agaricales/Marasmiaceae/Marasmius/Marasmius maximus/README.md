@@ -1,5 +1,4 @@
-Marasmius maximus Hongo SPECIES
-=======
+# Marasmius maximus Hongo SPECIES
 
 #### Status
 ACCEPTED

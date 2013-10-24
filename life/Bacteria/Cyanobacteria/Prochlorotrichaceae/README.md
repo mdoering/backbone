@@ -1,5 +1,4 @@
-Prochlorotrichaceae FAMILY
-=======
+# Prochlorotrichaceae FAMILY
 
 #### Status
 ACCEPTED

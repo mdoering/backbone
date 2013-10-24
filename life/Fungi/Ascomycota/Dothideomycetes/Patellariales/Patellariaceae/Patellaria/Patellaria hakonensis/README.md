@@ -1,5 +1,4 @@
-Patellaria hakonensis Müll. Arg. SPECIES
-=======
+# Patellaria hakonensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

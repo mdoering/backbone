@@ -1,5 +1,4 @@
-Exosporium bernardiae (F. Stevens) Chupp SPECIES
-=======
+# Exosporium bernardiae (F. Stevens) Chupp SPECIES
 
 #### Status
 ACCEPTED

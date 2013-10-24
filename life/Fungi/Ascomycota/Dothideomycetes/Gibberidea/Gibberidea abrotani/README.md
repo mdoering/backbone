@@ -1,5 +1,4 @@
-Gibberidea abrotani (Fautrey) Kuntze SPECIES
-=======
+# Gibberidea abrotani (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

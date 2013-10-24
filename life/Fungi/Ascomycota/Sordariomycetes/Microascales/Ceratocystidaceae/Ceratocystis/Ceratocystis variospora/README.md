@@ -1,5 +1,4 @@
-Ceratocystis variospora (R.W. Davidson) C. Moreau SPECIES
-=======
+# Ceratocystis variospora (R.W. Davidson) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

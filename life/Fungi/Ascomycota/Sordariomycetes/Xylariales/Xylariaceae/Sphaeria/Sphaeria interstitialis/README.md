@@ -1,5 +1,4 @@
-Sphaeria interstitialis Cooke & Peck SPECIES
-=======
+# Sphaeria interstitialis Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

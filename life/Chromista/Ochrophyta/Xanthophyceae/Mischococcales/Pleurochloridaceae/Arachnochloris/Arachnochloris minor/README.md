@@ -1,5 +1,4 @@
-Arachnochloris minor Pascher SPECIES
-=======
+# Arachnochloris minor Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora platanicola Sacc. & Berl. SPECIES
-=======
+# Physalospora platanicola Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

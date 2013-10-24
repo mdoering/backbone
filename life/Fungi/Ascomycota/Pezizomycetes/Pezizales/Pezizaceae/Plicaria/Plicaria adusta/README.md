@@ -1,5 +1,4 @@
-Plicaria adusta Velen. SPECIES
-=======
+# Plicaria adusta Velen. SPECIES
 
 #### Status
 ACCEPTED

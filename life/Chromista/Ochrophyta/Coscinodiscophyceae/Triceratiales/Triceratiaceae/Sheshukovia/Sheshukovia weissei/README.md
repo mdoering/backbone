@@ -1,5 +1,4 @@
-Sheshukovia weissei (Grunow ex Witt) Z. I. Glezer SPECIES
-=======
+# Sheshukovia weissei (Grunow ex Witt) Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

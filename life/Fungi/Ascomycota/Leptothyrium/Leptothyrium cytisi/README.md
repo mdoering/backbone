@@ -1,5 +1,4 @@
-Leptothyrium cytisi (Fuckel) Fuckel SPECIES
-=======
+# Leptothyrium cytisi (Fuckel) Fuckel SPECIES
 
 #### Status
 ACCEPTED

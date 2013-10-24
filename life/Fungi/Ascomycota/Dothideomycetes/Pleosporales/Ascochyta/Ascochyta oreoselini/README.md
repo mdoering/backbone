@@ -1,5 +1,4 @@
-Ascochyta oreoselini Lasch SPECIES
-=======
+# Ascochyta oreoselini Lasch SPECIES
 
 #### Status
 ACCEPTED

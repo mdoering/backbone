@@ -1,5 +1,4 @@
-Loramyces macrosporus Ingold & B. Chapm., 1952 SPECIES
-=======
+# Loramyces macrosporus Ingold & B. Chapm., 1952 SPECIES
 
 #### Status
 ACCEPTED

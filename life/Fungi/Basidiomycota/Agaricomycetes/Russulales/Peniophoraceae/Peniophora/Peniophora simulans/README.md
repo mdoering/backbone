@@ -1,5 +1,4 @@
-Peniophora simulans D.A. Reid, 1968 SPECIES
-=======
+# Peniophora simulans D.A. Reid, 1968 SPECIES
 
 #### Status
 ACCEPTED

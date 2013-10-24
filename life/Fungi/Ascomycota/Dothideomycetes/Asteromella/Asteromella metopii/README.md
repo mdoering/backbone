@@ -1,5 +1,4 @@
-Asteromella metopii Petr. & Cif. SPECIES
-=======
+# Asteromella metopii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

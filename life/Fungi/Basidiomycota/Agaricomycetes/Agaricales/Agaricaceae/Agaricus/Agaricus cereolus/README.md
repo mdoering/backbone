@@ -1,5 +1,4 @@
-Agaricus cereolus Schaeff. SPECIES
-=======
+# Agaricus cereolus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

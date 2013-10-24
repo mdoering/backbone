@@ -1,5 +1,4 @@
-Aecidium banosense Syd. & P. Syd. SPECIES
-=======
+# Aecidium banosense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

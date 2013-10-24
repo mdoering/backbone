@@ -1,5 +1,4 @@
-Pannaria corallinoides (Hoffm.) Vain. SPECIES
-=======
+# Pannaria corallinoides (Hoffm.) Vain. SPECIES
 
 #### Status
 ACCEPTED

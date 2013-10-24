@@ -1,5 +1,4 @@
-Sphaerophragmium ornatum Lohsomb., Kakish. & Y. Ono, 1994 SPECIES
-=======
+# Sphaerophragmium ornatum Lohsomb., Kakish. & Y. Ono, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenellopsis liriopes (F.L. Tai) H.D. Shin & U. Braun SPECIES
-=======
+# Stenellopsis liriopes (F.L. Tai) H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

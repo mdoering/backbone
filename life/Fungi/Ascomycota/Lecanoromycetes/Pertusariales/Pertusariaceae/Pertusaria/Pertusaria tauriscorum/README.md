@@ -1,5 +1,4 @@
-Pertusaria tauriscorum Zahlbr. SPECIES
-=======
+# Pertusaria tauriscorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

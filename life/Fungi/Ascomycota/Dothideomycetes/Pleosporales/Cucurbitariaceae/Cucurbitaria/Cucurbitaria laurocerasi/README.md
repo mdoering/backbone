@@ -1,14 +1,13 @@
-Gibberidea laurocerasi (W. Phillips & Plowr.) Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria laurocerasi W. Phillips & Plowr., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Grevillea 10(no. 54): 72 (1881)
 
 #### Original name
 Cucurbitaria laurocerasi W. Phillips & Plowr., 1881

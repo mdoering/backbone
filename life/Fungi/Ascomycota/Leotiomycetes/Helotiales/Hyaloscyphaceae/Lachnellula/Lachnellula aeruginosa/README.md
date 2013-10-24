@@ -1,5 +1,4 @@
-Lachnellula aeruginosa Oguchi SPECIES
-=======
+# Lachnellula aeruginosa Oguchi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerodes compressa (Udagawa & Cain) P.F. Cannon & D. Hawksw., 1982 SPECIES
-=======
+# Sphaerodes compressa (Udagawa & Cain) P.F. Cannon & D. Hawksw., 1982 SPECIES
 
 #### Status
 ACCEPTED

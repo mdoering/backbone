@@ -1,5 +1,4 @@
-Merulius pseudolacrymans Henn. SPECIES
-=======
+# Merulius pseudolacrymans Henn. SPECIES
 
 #### Status
 ACCEPTED

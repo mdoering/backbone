@@ -1,5 +1,4 @@
-Meliola curviseta Racib. SPECIES
-=======
+# Meliola curviseta Racib. SPECIES
 
 #### Status
 ACCEPTED

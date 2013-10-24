@@ -1,8 +1,7 @@
-Hygrophorus secretani Henning SPECIES
-=======
+# Hygrophorus secretanii Henning SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrophorus secretani Henning
+Hygrophorus secretanii Henning
 
 ### Remarks
 null

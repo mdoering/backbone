@@ -1,5 +1,4 @@
-Hemithurammina Mamet, 1973 GENUS
-=======
+# Hemithurammina Mamet, 1973 GENUS
 
 #### Status
 ACCEPTED

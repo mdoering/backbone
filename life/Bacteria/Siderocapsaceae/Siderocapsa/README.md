@@ -1,5 +1,4 @@
-Siderocapsa GENUS
-=======
+# Siderocapsa GENUS
 
 #### Status
 ACCEPTED

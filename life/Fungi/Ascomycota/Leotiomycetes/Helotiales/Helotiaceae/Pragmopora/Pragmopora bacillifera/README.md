@@ -1,11 +1,10 @@
-Sphaeropeziella bacillifera (P. Karst.) P. Karst. SPECIES
-=======
+# Pragmopora bacillifera (P. Karst.) Rehm, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

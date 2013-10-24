@@ -1,5 +1,4 @@
-Rhabdospora baeumleri Sacc. & P. Syd. SPECIES
-=======
+# Rhabdospora baeumleri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

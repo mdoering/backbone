@@ -1,5 +1,4 @@
-Sphaerella effigurata Schwein. SPECIES
-=======
+# Sphaerella effigurata Schwein. SPECIES
 
 #### Status
 ACCEPTED

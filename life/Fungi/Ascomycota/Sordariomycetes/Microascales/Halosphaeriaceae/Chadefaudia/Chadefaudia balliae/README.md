@@ -1,5 +1,4 @@
-Chadefaudia balliae Kohlm., 1973 SPECIES
-=======
+# Chadefaudia balliae Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus tjibodensis Henn. SPECIES
-=======
+# Boletus tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

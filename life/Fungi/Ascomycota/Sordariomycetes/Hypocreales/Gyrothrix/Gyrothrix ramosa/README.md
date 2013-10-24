@@ -1,5 +1,4 @@
-Gyrothrix ramosa Zucconi & Onofri SPECIES
-=======
+# Gyrothrix ramosa Zucconi & Onofri SPECIES
 
 #### Status
 ACCEPTED

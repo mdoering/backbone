@@ -1,14 +1,13 @@
-Sphacelotheca austroamericana (Speg.) Liro, 1924 SPECIES
-=======
+# Melanopsichium austroamericanum (Speg.) Beck, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. 17(1): 150 (1924)
+Annln K. K. naturh. Hofmus. Wien 9: 122 (1894)
 
 #### Original name
 Ustilago austroamericana Speg.

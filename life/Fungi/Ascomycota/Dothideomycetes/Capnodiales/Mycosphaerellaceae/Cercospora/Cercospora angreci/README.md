@@ -1,5 +1,4 @@
-Cercospora angreci Feuilleaub. & Roum. SPECIES
-=======
+# Cercospora angreci Feuilleaub. & Roum. SPECIES
 
 #### Status
 ACCEPTED

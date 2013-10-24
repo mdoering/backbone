@@ -1,5 +1,4 @@
-Lecanora njuljae H. Magn. SPECIES
-=======
+# Lecanora njuljae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

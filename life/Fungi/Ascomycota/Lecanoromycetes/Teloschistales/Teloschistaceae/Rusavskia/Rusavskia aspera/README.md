@@ -1,5 +1,4 @@
-Rusavskia aspera (Savicz) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia aspera (Savicz) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

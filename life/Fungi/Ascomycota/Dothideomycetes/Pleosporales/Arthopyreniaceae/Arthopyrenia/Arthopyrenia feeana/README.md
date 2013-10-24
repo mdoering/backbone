@@ -1,5 +1,4 @@
-Arthopyrenia feeana Müll. Arg. SPECIES
-=======
+# Arthopyrenia feeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

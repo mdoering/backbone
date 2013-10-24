@@ -1,5 +1,4 @@
-Septoria demidovae Lavrov SPECIES
-=======
+# Septoria demidovae Lavrov SPECIES
 
 #### Status
 ACCEPTED

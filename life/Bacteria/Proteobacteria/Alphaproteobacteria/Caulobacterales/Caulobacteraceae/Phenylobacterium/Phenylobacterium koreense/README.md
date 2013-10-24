@@ -1,5 +1,4 @@
-Phenylobacterium koreense Aslam et al., 2005 SPECIES
-=======
+# Phenylobacterium koreense Aslam et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

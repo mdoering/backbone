@@ -1,5 +1,4 @@
-Gardodinium G.Alberti, 1961 GENUS
-=======
+# Gardodinium G.Alberti, 1961 GENUS
 
 #### Status
 ACCEPTED

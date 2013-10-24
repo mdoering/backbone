@@ -1,14 +1,13 @@
-Codinaea maharashtrensis Piroz. & S.D. Patil, 1970 SPECIES
-=======
+# Dictyochaetopsis maharashtrensis (Piroz. & S.D. Patil) Aramb. & Cabello, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 48(3): 578 (1970)
+Mycotaxon 38: 13 (1990)
 
 #### Original name
 Codinaea maharashtrensis Piroz. & S.D. Patil, 1970

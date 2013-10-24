@@ -1,5 +1,4 @@
-Parasclerophoma moravica Petr. SPECIES
-=======
+# Parasclerophoma moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

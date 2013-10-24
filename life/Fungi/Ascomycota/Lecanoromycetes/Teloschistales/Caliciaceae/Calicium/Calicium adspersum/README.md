@@ -1,17 +1,16 @@
-Calicium adspersum subsp. adspersum SUBSPECIES
-=======
+# Calicium adspersum Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. Desc. Fung. Min. Cognit. (Leipzig) 1: 59 (1798)
 
 #### Original name
-Calicium adspersum subsp. adspersum
+Calicium adspersum Pers.
 
 ### Remarks
 null

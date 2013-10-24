@@ -1,5 +1,4 @@
-Rusavskia domogledensis (Vezda) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia domogledensis (Vezda) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora eugeniicola U. Braun, J.C. David & F.O. Freire SPECIES
-=======
+# Pseudocercospora eugeniicola U. Braun, J.C. David & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

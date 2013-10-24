@@ -1,17 +1,16 @@
-Meliola polyodonta var. polyodonta Syd. VARIETY
-=======
+# Meliola polyodonta Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 24: 306 (1926)
 
 #### Original name
-Meliola polyodonta var. polyodonta Syd.
+Meliola polyodonta Syd., 1926
 
 ### Remarks
 null

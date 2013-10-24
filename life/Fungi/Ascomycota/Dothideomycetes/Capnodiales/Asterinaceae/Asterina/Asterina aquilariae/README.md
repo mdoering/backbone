@@ -1,5 +1,4 @@
-Asterina aquilariae Ouyang & B. Song SPECIES
-=======
+# Asterina aquilariae Ouyang & B. Song SPECIES
 
 #### Status
 ACCEPTED

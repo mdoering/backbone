@@ -1,5 +1,4 @@
-Phyllosticta vincae-majoris Allesch. SPECIES
-=======
+# Phyllosticta vincae-majoris Allesch. SPECIES
 
 #### Status
 ACCEPTED

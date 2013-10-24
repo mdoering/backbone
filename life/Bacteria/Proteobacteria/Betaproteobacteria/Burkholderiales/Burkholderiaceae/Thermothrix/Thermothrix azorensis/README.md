@@ -1,5 +1,4 @@
-Thermothrix azorensis Odintsova et al., 1996 SPECIES
-=======
+# Thermothrix azorensis Odintsova et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

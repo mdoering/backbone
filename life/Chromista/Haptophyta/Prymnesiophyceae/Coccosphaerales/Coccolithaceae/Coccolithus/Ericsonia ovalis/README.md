@@ -1,5 +1,4 @@
-Ericsonia ovalis Black, 1964 SPECIES
-=======
+# Ericsonia ovalis Black, 1964 SPECIES
 
 #### Status
 DOUBTFUL

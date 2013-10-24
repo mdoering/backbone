@@ -1,5 +1,4 @@
-Puccinia varians Dietel SPECIES
-=======
+# Puccinia varians Dietel SPECIES
 
 #### Status
 ACCEPTED

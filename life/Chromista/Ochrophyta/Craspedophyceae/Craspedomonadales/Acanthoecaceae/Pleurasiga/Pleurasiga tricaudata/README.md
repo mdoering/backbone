@@ -1,5 +1,4 @@
-Pleurasiga tricaudata Booth SPECIES
-=======
+# Pleurasiga tricaudata Booth SPECIES
 
 #### Status
 ACCEPTED

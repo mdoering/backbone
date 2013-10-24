@@ -1,5 +1,4 @@
-Erysiphe schizandrae (Sawada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe schizandrae (Sawada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

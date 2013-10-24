@@ -1,5 +1,4 @@
-Corticium chalybeum (Pers.) Herter SPECIES
-=======
+# Corticium chalybeum (Pers.) Herter SPECIES
 
 #### Status
 ACCEPTED

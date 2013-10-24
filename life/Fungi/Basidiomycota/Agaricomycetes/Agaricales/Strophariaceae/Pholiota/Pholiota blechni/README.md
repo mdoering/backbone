@@ -1,5 +1,4 @@
-Pholiota blechni Singer SPECIES
-=======
+# Pholiota blechni Singer SPECIES
 
 #### Status
 ACCEPTED

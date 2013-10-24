@@ -1,5 +1,4 @@
-Cercospora alternantherae-nodiflorae Sawada SPECIES
-=======
+# Cercospora alternantherae-nodiflorae Sawada SPECIES
 
 #### Status
 ACCEPTED

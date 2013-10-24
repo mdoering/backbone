@@ -1,5 +1,4 @@
-Alteromonadales ORDER
-=======
+# Alteromonadales ORDER
 
 #### Status
 ACCEPTED

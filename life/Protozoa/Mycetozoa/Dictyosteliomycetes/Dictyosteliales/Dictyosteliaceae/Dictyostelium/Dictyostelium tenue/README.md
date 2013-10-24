@@ -1,5 +1,4 @@
-Dictyostelium tenue Cavender, Raper & Norberg, 1979 SPECIES
-=======
+# Dictyostelium tenue Cavender, Raper & Norberg, 1979 SPECIES
 
 #### Status
 ACCEPTED

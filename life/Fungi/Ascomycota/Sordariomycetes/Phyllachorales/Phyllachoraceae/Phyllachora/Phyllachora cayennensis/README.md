@@ -1,14 +1,13 @@
-Trabutia cayennensis (DC.) Sacc., 1882 SPECIES
-=======
+# Phyllachora cayennensis (DC.) Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 449 (1882)
+Grevillea 13(no. 67): 68 (1885)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Omphalopsis convexa Murrill SPECIES
-=======
+# Omphalopsis convexa Murrill SPECIES
 
 #### Status
 ACCEPTED

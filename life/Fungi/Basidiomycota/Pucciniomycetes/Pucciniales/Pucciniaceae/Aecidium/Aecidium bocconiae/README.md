@@ -1,5 +1,4 @@
-Aecidium bocconiae Mayor SPECIES
-=======
+# Aecidium bocconiae Mayor SPECIES
 
 #### Status
 ACCEPTED

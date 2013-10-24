@@ -1,5 +1,4 @@
-Ceratobasidium striisporum Rick SPECIES
-=======
+# Ceratobasidium striisporum Rick SPECIES
 
 #### Status
 ACCEPTED

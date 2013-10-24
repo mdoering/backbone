@@ -1,5 +1,4 @@
-Peziza pitya Pers. SPECIES
-=======
+# Peziza pitya Pers. SPECIES
 
 #### Status
 ACCEPTED

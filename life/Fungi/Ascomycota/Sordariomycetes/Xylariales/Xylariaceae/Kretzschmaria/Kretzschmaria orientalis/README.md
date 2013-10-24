@@ -1,5 +1,4 @@
-Kretzschmaria orientalis Lar.N. Vassiljeva SPECIES
-=======
+# Kretzschmaria orientalis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

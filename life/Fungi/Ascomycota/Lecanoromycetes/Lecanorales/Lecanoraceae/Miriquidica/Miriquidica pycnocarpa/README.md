@@ -1,17 +1,16 @@
-Lecidea pycnocarpa f. pycnocarpa FORM
-=======
+# Miriquidica pycnocarpa (Körb.) M. P. Andreev SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schriften Königl. Phys. -Ökon. Ges. Königsberg 11: 15 (1870)
+null
 
 #### Original name
-Lecidea pycnocarpa f. pycnocarpa
+null
 
 ### Remarks
 null

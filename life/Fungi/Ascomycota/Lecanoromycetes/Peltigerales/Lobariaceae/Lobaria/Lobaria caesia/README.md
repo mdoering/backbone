@@ -1,5 +1,4 @@
-Lobaria caesia SPECIES
-=======
+# Lobaria caesia SPECIES
 
 #### Status
 ACCEPTED

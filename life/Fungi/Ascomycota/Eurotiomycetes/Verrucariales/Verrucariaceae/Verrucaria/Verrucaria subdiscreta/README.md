@@ -1,5 +1,4 @@
-Verrucaria subdiscreta P. M. McCarthy SPECIES
-=======
+# Verrucaria subdiscreta P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

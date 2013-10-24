@@ -1,5 +1,4 @@
-Arnium heterochaetum (Griffiths) J.C. Krug & Cain SPECIES
-=======
+# Arnium heterochaetum (Griffiths) J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

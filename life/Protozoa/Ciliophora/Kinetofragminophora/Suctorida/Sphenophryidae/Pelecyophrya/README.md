@@ -1,5 +1,4 @@
-Pelecyophrya Chatton & Lwoff, 1922 GENUS
-=======
+# Pelecyophrya Chatton & Lwoff, 1922 GENUS
 
 #### Status
 ACCEPTED

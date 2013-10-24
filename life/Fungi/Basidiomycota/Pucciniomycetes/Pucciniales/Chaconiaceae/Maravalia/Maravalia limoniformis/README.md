@@ -1,5 +1,4 @@
-Maravalia limoniformis McTaggart, Y. Ono, Berndt & R.G. Shivas SPECIES
-=======
+# Maravalia limoniformis McTaggart, Y. Ono, Berndt & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

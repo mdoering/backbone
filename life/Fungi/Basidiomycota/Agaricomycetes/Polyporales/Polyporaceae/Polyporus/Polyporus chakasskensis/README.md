@@ -1,5 +1,4 @@
-Polyporus chakasskensis Weinm. SPECIES
-=======
+# Polyporus chakasskensis Weinm. SPECIES
 
 #### Status
 ACCEPTED

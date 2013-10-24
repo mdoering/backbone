@@ -1,5 +1,4 @@
-Ostracoderma minutum (R. Heim) Hennebert SPECIES
-=======
+# Ostracoderma minutum (R. Heim) Hennebert SPECIES
 
 #### Status
 ACCEPTED

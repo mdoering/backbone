@@ -1,5 +1,4 @@
-Stephanodiscus nativus E.G. Lupikina, G.K. Khursevich & S.P. Ozornina SPECIES
-=======
+# Stephanodiscus nativus E.G. Lupikina, G.K. Khursevich & S.P. Ozornina SPECIES
 
 #### Status
 ACCEPTED

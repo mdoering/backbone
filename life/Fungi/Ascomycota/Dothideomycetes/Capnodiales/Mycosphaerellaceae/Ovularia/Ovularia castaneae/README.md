@@ -1,5 +1,4 @@
-Ovularia castaneae Sawada SPECIES
-=======
+# Ovularia castaneae Sawada SPECIES
 
 #### Status
 ACCEPTED

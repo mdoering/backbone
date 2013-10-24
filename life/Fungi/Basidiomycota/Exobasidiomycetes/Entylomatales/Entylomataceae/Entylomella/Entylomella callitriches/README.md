@@ -1,5 +1,4 @@
-Entylomella callitriches Liro SPECIES
-=======
+# Entylomella callitriches Liro SPECIES
 
 #### Status
 ACCEPTED

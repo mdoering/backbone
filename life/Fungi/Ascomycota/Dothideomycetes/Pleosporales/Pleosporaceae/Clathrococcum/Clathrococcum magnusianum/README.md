@@ -1,5 +1,4 @@
-Clathrococcum magnusianum Reichert SPECIES
-=======
+# Clathrococcum magnusianum Reichert SPECIES
 
 #### Status
 ACCEPTED

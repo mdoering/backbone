@@ -1,5 +1,4 @@
-Usnea africana Motyka SPECIES
-=======
+# Usnea africana Motyka SPECIES
 
 #### Status
 ACCEPTED

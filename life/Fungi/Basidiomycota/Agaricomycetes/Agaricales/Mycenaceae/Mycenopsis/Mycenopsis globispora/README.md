@@ -1,5 +1,4 @@
-Mycenopsis globispora Velen. SPECIES
-=======
+# Mycenopsis globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

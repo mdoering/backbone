@@ -1,5 +1,4 @@
-Entyloma echinopis Schwarzman SPECIES
-=======
+# Entyloma echinopis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

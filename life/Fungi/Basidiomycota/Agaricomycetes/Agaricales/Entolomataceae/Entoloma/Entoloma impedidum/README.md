@@ -1,5 +1,4 @@
-Entoloma impedidum E. Horak SPECIES
-=======
+# Entoloma impedidum E. Horak SPECIES
 
 #### Status
 ACCEPTED

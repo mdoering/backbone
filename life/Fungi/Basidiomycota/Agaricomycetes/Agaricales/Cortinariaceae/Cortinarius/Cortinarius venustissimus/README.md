@@ -1,5 +1,4 @@
-Cortinarius venustissimus Bidaud SPECIES
-=======
+# Cortinarius venustissimus Bidaud SPECIES
 
 #### Status
 ACCEPTED

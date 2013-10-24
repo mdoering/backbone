@@ -1,5 +1,4 @@
-Plenotrichaius densus M.L. Farr SPECIES
-=======
+# Plenotrichaius densus M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

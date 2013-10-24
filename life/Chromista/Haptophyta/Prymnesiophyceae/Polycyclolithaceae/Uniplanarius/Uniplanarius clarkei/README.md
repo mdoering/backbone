@@ -1,5 +1,4 @@
-Uniplanarius clarkei SPECIES
-=======
+# Uniplanarius clarkei SPECIES
 
 #### Status
 ACCEPTED

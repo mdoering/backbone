@@ -1,5 +1,4 @@
-Cercospora coriariae T.L. Tai SPECIES
-=======
+# Cercospora coriariae T.L. Tai SPECIES
 
 #### Status
 ACCEPTED

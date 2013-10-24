@@ -1,5 +1,4 @@
-Tergestiella Kamptner, 1941 GENUS
-=======
+# Tergestiella Kamptner, 1941 GENUS
 
 #### Status
 ACCEPTED

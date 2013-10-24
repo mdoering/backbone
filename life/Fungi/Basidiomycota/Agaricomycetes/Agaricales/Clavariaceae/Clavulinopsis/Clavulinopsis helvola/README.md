@@ -1,17 +1,16 @@
-Clavaria helvola subsp. helvola SUBSPECIES
-=======
+# Clavulinopsis helvola (Pers.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 372 (1950)
 
 #### Original name
-null
+Clavaria helvola Pers., 1797
 
 ### Remarks
 null

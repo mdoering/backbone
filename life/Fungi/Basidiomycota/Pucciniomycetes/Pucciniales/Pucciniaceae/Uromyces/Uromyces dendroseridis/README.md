@@ -1,5 +1,4 @@
-Uromyces dendroseridis Keissl. SPECIES
-=======
+# Uromyces dendroseridis Keissl. SPECIES
 
 #### Status
 ACCEPTED

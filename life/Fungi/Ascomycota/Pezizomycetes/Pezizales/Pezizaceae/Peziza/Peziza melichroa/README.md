@@ -1,5 +1,4 @@
-Peziza melichroa Cooke SPECIES
-=======
+# Peziza melichroa Cooke SPECIES
 
 #### Status
 ACCEPTED

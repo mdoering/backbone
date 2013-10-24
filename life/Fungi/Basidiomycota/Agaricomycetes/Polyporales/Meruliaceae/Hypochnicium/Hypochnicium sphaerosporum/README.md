@@ -1,14 +1,13 @@
-Gloeocystidium albostramineum subsp. sphaerosporum (Höhn. & Litsch.) Bourdot & Galzin SUBSPECIES
-=======
+# Hypochnicium sphaerosporum (Höhn. & Litsch.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 262 (1928)
+Symb. bot. upsal. 16(no. 1): 101 (1958)
 
 #### Original name
 Peniophora sphaerospora Höhn. & Litsch., 1906

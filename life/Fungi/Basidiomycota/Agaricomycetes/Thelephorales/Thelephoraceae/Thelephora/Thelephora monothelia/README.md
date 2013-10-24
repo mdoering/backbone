@@ -1,5 +1,4 @@
-Thelephora monothelia Pers. SPECIES
-=======
+# Thelephora monothelia Pers. SPECIES
 
 #### Status
 ACCEPTED

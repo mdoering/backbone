@@ -1,5 +1,4 @@
-Pluteus rimosellus Singer SPECIES
-=======
+# Pluteus rimosellus Singer SPECIES
 
 #### Status
 ACCEPTED

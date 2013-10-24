@@ -1,5 +1,4 @@
-Ascochyta xanthiicola Nelen SPECIES
-=======
+# Ascochyta xanthiicola Nelen SPECIES
 
 #### Status
 ACCEPTED

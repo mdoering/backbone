@@ -1,5 +1,4 @@
-Asterina saccardoana Theiss. SPECIES
-=======
+# Asterina saccardoana Theiss. SPECIES
 
 #### Status
 ACCEPTED

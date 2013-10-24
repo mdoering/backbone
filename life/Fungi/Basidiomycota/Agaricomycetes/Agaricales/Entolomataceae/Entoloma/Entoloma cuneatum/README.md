@@ -1,14 +1,13 @@
-Nolanea cuneata Bres., 1887 SPECIES
-=======
+# Entoloma cuneatum (Bres.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 1: 77 (1887)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 205 (1978)
 
 #### Original name
 Nolanea cuneata Bres., 1887

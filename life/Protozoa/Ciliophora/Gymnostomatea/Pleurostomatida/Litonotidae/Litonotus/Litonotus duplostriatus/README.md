@@ -1,8 +1,7 @@
-Loxophyllum duplostriatum Maupas, 1883 SPECIES
-=======
+# Litonotus duplostriatus (Maupas, 1883) ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

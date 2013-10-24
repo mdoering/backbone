@@ -1,5 +1,4 @@
-Gibberidea insularis (Ces.) Kuntze SPECIES
-=======
+# Gibberidea insularis (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia sarjeantii Nautiyal, 1983 SPECIES
-=======
+# Leiosphaeridia sarjeantii Nautiyal, 1983 SPECIES
 
 #### Status
 ACCEPTED

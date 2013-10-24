@@ -1,5 +1,4 @@
-Graphis oscitans Tuck. SPECIES
-=======
+# Graphis oscitans Tuck. SPECIES
 
 #### Status
 ACCEPTED

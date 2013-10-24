@@ -1,5 +1,4 @@
-Peziza contigua Fr. SPECIES
-=======
+# Peziza contigua Fr. SPECIES
 
 #### Status
 ACCEPTED

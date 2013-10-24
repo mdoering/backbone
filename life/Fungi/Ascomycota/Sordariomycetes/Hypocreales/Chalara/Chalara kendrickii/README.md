@@ -1,5 +1,4 @@
-Chalara kendrickii Nag Raj, 1975 SPECIES
-=======
+# Chalara kendrickii Nag Raj, 1975 SPECIES
 
 #### Status
 ACCEPTED

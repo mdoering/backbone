@@ -1,5 +1,4 @@
-Streptomyces aureus Manfio et al., 2003 SPECIES
-=======
+# Streptomyces aureus Manfio et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza muscorum Holmsk. SPECIES
-=======
+# Peziza muscorum Holmsk. SPECIES
 
 #### Status
 ACCEPTED

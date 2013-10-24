@@ -1,5 +1,4 @@
-Lenzites reichardtii Schulzer SPECIES
-=======
+# Lenzites reichardtii Schulzer SPECIES
 
 #### Status
 ACCEPTED

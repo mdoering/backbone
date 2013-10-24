@@ -1,8 +1,7 @@
-Gregarina portuni Frenzel, 1885 SPECIES
-=======
+# Paraophiodina portuni Frenzel, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

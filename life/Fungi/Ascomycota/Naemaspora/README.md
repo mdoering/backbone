@@ -1,5 +1,4 @@
-Naemaspora Persoon, 1796 GENUS
-=======
+# Naemaspora Persoon, 1796 GENUS
 
 #### Status
 ACCEPTED

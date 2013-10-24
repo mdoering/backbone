@@ -1,5 +1,4 @@
-Camarosporium subfenestratum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Camarosporium subfenestratum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

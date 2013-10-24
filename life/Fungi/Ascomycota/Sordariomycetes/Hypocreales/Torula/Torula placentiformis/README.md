@@ -1,5 +1,4 @@
-Torula placentiformis Corda SPECIES
-=======
+# Torula placentiformis Corda SPECIES
 
 #### Status
 ACCEPTED

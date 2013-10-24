@@ -1,5 +1,4 @@
-Asterina stylospora Cooke SPECIES
-=======
+# Asterina stylospora Cooke SPECIES
 
 #### Status
 ACCEPTED

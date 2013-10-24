@@ -1,5 +1,4 @@
-Vacuovalvulina Hofker, 1966 GENUS
-=======
+# Vacuovalvulina Hofker, 1966 GENUS
 
 #### Status
 ACCEPTED

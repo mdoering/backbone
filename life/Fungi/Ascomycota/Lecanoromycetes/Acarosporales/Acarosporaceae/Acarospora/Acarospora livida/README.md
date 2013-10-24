@@ -1,5 +1,4 @@
-Acarospora livida Werner SPECIES
-=======
+# Acarospora livida Werner SPECIES
 
 #### Status
 ACCEPTED

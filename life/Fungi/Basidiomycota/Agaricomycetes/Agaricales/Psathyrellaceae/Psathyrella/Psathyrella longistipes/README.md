@@ -1,5 +1,4 @@
-Psathyrella longistipes A.H. Sm. SPECIES
-=======
+# Psathyrella longistipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

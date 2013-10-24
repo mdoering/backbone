@@ -1,5 +1,4 @@
-Ameropeltomyces lecythidicola Bat. & H. Maia SPECIES
-=======
+# Ameropeltomyces lecythidicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

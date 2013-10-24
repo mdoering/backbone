@@ -1,5 +1,4 @@
-Pseudorotalia (Rotalinoides) gaimardii (D'Orbigny) SPECIES
-=======
+# Pseudorotalia (Rotalinoides) gaimardii (D'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

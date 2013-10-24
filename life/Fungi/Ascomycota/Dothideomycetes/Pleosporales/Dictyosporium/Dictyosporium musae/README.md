@@ -1,5 +1,4 @@
-Dictyosporium musae Photita SPECIES
-=======
+# Dictyosporium musae Photita SPECIES
 
 #### Status
 ACCEPTED

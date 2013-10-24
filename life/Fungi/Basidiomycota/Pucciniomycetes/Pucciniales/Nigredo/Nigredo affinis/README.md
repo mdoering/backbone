@@ -1,5 +1,4 @@
-Nigredo affinis (G. Winter) Arthur SPECIES
-=======
+# Nigredo affinis (G. Winter) Arthur SPECIES
 
 #### Status
 ACCEPTED

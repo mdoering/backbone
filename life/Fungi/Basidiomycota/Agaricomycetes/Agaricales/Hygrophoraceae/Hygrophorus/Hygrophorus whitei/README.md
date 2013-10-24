@@ -1,5 +1,4 @@
-Hygrophorus whitei Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus whitei Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

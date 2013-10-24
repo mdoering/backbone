@@ -1,5 +1,4 @@
-Physalospora orontii Ellis & Everh. SPECIES
-=======
+# Physalospora orontii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

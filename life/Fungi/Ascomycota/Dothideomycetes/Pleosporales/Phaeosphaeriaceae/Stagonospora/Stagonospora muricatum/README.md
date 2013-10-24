@@ -1,5 +1,4 @@
-Stagonospora muricatum anon. SPECIES
-=======
+# Stagonospora muricatum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanconium asperulum Moesz, 1915 SPECIES
-=======
+# Leptomelanconium asperulum (Moesz) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Közl. 14(5-6): 157 (1915)
+in Sydow, Annls mycol. 21(3/4): 179 (1923)
 
 #### Original name
 Melanconium asperulum Moesz, 1915

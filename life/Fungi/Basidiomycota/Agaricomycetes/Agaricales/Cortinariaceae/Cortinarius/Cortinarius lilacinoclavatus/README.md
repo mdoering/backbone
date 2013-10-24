@@ -1,5 +1,4 @@
-Cortinarius lilacinoclavatus Rob. Henry SPECIES
-=======
+# Cortinarius lilacinoclavatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

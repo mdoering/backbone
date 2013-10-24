@@ -1,5 +1,4 @@
-Mycosphaerella zizaniae (Schwein.) Lindau SPECIES
-=======
+# Mycosphaerella zizaniae (Schwein.) Lindau SPECIES
 
 #### Status
 ACCEPTED

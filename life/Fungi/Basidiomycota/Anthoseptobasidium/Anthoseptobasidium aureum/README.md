@@ -1,5 +1,4 @@
-Anthoseptobasidium aureum Rick, 1943 SPECIES
-=======
+# Anthoseptobasidium aureum Rick, 1943 SPECIES
 
 #### Status
 ACCEPTED

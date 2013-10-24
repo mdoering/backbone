@@ -1,5 +1,4 @@
-Agaricus melanthinus Fr. SPECIES
-=======
+# Agaricus melanthinus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë convallariae Racib. SPECIES
-=======
+# Elsinoë convallariae Racib. SPECIES
 
 #### Status
 ACCEPTED

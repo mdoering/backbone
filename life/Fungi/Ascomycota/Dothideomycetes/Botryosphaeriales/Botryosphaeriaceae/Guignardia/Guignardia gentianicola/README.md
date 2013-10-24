@@ -1,5 +1,4 @@
-Guignardia gentianicola (DC.) Arx & E. Müll. SPECIES
-=======
+# Guignardia gentianicola (DC.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza conistea Durieu & Lév. SPECIES
-=======
+# Peziza conistea Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

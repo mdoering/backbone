@@ -1,5 +1,4 @@
-Clitocybe cantharelloides P. Karst. SPECIES
-=======
+# Clitocybe cantharelloides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

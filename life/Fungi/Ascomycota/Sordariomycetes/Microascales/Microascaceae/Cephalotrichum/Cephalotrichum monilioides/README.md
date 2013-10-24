@@ -1,5 +1,4 @@
-Cephalotrichum monilioides Link SPECIES
-=======
+# Cephalotrichum monilioides Link SPECIES
 
 #### Status
 ACCEPTED

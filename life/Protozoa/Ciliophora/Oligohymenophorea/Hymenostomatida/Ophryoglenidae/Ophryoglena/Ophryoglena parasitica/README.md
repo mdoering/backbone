@@ -1,5 +1,4 @@
-Ophryoglena parasitica André, 1909 SPECIES
-=======
+# Ophryoglena parasitica André, 1909 SPECIES
 
 #### Status
 ACCEPTED

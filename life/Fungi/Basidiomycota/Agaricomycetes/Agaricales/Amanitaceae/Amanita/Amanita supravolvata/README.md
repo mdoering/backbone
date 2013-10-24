@@ -1,5 +1,4 @@
-Amanita supravolvata Lanne SPECIES
-=======
+# Amanita supravolvata Lanne SPECIES
 
 #### Status
 ACCEPTED

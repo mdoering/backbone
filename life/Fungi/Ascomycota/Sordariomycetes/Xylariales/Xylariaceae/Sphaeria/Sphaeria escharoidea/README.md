@@ -1,5 +1,4 @@
-Sphaeria escharoidea Berk. SPECIES
-=======
+# Sphaeria escharoidea Berk. SPECIES
 
 #### Status
 ACCEPTED

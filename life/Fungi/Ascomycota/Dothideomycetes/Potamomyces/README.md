@@ -1,5 +1,4 @@
-Potamomyces K.D. Hyde GENUS
-=======
+# Potamomyces K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema neomasonhalei Patw., Sethy & Nagarkar SPECIES
-=======
+# Ocellularia neomasonhalei (Patw., Sethy & Nagarkar) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biovigyanam 11(2): 137 (1986)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Thelotrema neomasonhalei Patw., Sethy & Nagarkar

@@ -1,5 +1,4 @@
-Clathrus flavescens P. Micheli SPECIES
-=======
+# Clathrus flavescens P. Micheli SPECIES
 
 #### Status
 ACCEPTED

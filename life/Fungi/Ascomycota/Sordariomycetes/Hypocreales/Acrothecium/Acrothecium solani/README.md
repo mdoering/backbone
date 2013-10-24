@@ -1,5 +1,4 @@
-Acrothecium solani Sacc. SPECIES
-=======
+# Acrothecium solani Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe humicola (Thiers) Hauskn., Krisai & Voglmayr SPECIES
-=======
+# Conocybe humicola (Thiers) Hauskn., Krisai & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

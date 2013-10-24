@@ -1,5 +1,4 @@
-Sirosphaera botryosa Syd. & P. Syd., 1913 SPECIES
-=======
+# Sirosphaera botryosa Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

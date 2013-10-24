@@ -1,5 +1,4 @@
-Uredo oplismeni-undulatifolii Z.C. Chen SPECIES
-=======
+# Uredo oplismeni-undulatifolii Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

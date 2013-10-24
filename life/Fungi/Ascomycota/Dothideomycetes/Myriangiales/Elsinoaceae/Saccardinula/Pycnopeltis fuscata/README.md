@@ -1,5 +1,4 @@
-Pycnopeltis fuscata Bat. SPECIES
-=======
+# Pycnopeltis fuscata Bat. SPECIES
 
 #### Status
 ACCEPTED

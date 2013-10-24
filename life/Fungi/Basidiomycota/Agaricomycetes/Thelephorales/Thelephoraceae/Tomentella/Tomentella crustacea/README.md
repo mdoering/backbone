@@ -1,5 +1,4 @@
-Tomentella crustacea (Schumach.) Höhn. & Litsch. SPECIES
-=======
+# Tomentella crustacea (Schumach.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

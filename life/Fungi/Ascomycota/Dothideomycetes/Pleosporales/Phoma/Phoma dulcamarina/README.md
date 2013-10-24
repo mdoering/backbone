@@ -1,5 +1,4 @@
-Phoma dulcamarina Sacc. SPECIES
-=======
+# Phoma dulcamarina Sacc. SPECIES
 
 #### Status
 ACCEPTED

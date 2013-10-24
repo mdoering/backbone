@@ -1,5 +1,4 @@
-Selenophoma homalodisci Golovin SPECIES
-=======
+# Selenophoma homalodisci Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina candeiana SPECIES
-=======
+# Quinqueloculina candeiana SPECIES
 
 #### Status
 ACCEPTED

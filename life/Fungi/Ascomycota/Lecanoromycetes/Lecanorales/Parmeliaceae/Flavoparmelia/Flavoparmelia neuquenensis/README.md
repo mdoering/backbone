@@ -1,5 +1,4 @@
-Flavoparmelia neuquenensis T.H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia neuquenensis T.H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

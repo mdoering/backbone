@@ -1,5 +1,4 @@
-Lecanora submergenda Nyl. SPECIES
-=======
+# Lecanora submergenda Nyl. SPECIES
 
 #### Status
 ACCEPTED

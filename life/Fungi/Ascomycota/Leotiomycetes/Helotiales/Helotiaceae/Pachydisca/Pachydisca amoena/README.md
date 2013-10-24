@@ -1,5 +1,4 @@
-Pachydisca amoena Pat. SPECIES
-=======
+# Pachydisca amoena Pat. SPECIES
 
 #### Status
 ACCEPTED

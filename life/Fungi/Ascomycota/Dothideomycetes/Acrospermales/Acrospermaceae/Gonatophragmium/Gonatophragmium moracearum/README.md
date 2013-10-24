@@ -1,5 +1,4 @@
-Gonatophragmium moracearum M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium moracearum M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

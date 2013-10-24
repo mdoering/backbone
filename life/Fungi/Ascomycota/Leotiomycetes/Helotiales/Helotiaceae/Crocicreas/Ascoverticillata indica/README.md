@@ -1,5 +1,4 @@
-Ascoverticillata indica Subhedar & V.G. Rao SPECIES
-=======
+# Ascoverticillata indica Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

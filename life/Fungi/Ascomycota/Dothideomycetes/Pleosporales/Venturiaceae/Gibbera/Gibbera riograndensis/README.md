@@ -1,5 +1,4 @@
-Gibbera riograndensis Rehm SPECIES
-=======
+# Gibbera riograndensis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella gei (Farl.) U. Braun SPECIES
-=======
+# Pseudocercosporella gei (Farl.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

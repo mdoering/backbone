@@ -1,5 +1,4 @@
-Xylosphaeria pallida (Ellis & Everh.) Petr. SPECIES
-=======
+# Xylosphaeria pallida (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

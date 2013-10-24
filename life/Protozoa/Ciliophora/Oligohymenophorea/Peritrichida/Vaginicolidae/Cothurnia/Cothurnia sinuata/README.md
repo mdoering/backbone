@@ -1,5 +1,4 @@
-Cothurnia sinuata Kahl, 1933 SPECIES
-=======
+# Cothurnia sinuata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

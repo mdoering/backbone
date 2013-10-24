@@ -1,5 +1,4 @@
-Fenestella ephedrae Rehm SPECIES
-=======
+# Fenestella ephedrae Rehm SPECIES
 
 #### Status
 ACCEPTED

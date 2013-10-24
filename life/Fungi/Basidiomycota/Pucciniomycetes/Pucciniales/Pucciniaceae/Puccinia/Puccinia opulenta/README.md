@@ -1,14 +1,13 @@
-Dicaeoma opulentum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Puccinia opulenta Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Anal. Soc. cient. argent. 9: 170 (1880)
 
 #### Original name
 Puccinia opulenta Speg., 1880

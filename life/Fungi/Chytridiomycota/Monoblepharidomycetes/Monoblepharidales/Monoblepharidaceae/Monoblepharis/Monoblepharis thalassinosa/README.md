@@ -1,17 +1,16 @@
-Monoblepharis thalassionosus M.K. Elias SPECIES
-=======
+# Monoblepharis thalassinosa M.K. Elias, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Palaeobotanist 14: 10 + pl. 2, fig. 26 (1966)
 
 #### Original name
-Monoblepharis thalassionosus M.K. Elias
+Monoblepharis thalassinosa M.K. Elias, 1966
 
 ### Remarks
 null

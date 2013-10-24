@@ -1,5 +1,4 @@
-Hexagonia cyclophora Lév. SPECIES
-=======
+# Hexagonia cyclophora Lév. SPECIES
 
 #### Status
 ACCEPTED

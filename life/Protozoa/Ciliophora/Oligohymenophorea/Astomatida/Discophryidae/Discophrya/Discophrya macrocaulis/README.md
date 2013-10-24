@@ -1,5 +1,4 @@
-Discophrya macrocaulis Stokes SPECIES
-=======
+# Discophrya macrocaulis Stokes SPECIES
 
 #### Status
 ACCEPTED

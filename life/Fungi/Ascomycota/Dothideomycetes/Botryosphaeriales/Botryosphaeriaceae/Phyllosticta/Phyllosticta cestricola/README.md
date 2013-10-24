@@ -1,5 +1,4 @@
-Phyllosticta cestricola V.G. Rao SPECIES
-=======
+# Phyllosticta cestricola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces sichuanensis B. Liu & L. Fan SPECIES
-=======
+# Dacrymyces sichuanensis B. Liu & L. Fan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo erythroxyli Graziani SPECIES
-=======
+# Uredo erythroxyli Graziani SPECIES
 
 #### Status
 ACCEPTED

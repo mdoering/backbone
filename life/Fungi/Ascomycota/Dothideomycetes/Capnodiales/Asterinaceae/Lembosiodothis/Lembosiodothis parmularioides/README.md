@@ -1,5 +1,4 @@
-Lembosiodothis parmularioides (Henn.) Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Lembosiodothis parmularioides (Henn.) Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

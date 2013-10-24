@@ -1,5 +1,4 @@
-Strobilidium marinum Faure-Fremiet, 1910 SPECIES
-=======
+# Strobilidium marinum Faure-Fremiet, 1910 SPECIES
 
 #### Status
 ACCEPTED

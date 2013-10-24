@@ -1,5 +1,4 @@
-Caloplaca geleverjae Khodosovtsev & S. Kondr. SPECIES
-=======
+# Caloplaca geleverjae Khodosovtsev & S. Kondr. SPECIES
 
 #### Status
 ACCEPTED

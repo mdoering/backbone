@@ -1,5 +1,4 @@
-Stigmina dehradunensis M.D. Mehrotra SPECIES
-=======
+# Stigmina dehradunensis M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

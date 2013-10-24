@@ -1,5 +1,4 @@
-Ramalinomyces fraxineae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Ramalinomyces fraxineae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

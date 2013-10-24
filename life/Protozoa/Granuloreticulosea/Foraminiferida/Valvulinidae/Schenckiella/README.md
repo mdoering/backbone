@@ -1,5 +1,4 @@
-Schenckiella Thalman, 1942 GENUS
-=======
+# Schenckiella Thalman, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium radiatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium radiatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia subcandida (Arnold) SPECIES
-=======
+# Aspicilia subcandida (Arnold) SPECIES
 
 #### Status
 ACCEPTED

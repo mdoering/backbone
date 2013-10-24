@@ -1,5 +1,4 @@
-Pseudofissurina konara Loeblich & Tappan, 1994 SPECIES
-=======
+# Pseudofissurina konara Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

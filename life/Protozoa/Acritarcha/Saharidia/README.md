@@ -1,5 +1,4 @@
-Saharidia A. Combaz, 1968 GENUS
-=======
+# Saharidia A. Combaz, 1968 GENUS
 
 #### Status
 ACCEPTED

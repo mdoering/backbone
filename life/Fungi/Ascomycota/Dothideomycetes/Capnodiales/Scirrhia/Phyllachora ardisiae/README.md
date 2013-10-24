@@ -1,5 +1,4 @@
-Phyllachora ardisiae Henn., 1909 SPECIES
-=======
+# Phyllachora ardisiae Henn., 1909 SPECIES
 
 #### Status
 DOUBTFUL

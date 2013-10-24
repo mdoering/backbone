@@ -1,5 +1,4 @@
-Otthia pyri Fuckel SPECIES
-=======
+# Otthia pyri Fuckel SPECIES
 
 #### Status
 ACCEPTED

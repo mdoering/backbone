@@ -1,14 +1,13 @@
-Phaeoramularia ajrekari (Syd.) Deighton SPECIES
-=======
+# Phaeoramularia ajrekarii (Syd.) Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ellis, More Dematiaceous Hyphomycetes (Kew) 450 (1976)
 
 #### Original name
 Cercospora ajrekarii Syd.

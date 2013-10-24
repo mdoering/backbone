@@ -1,5 +1,4 @@
-Parmelia endoxantha G. Merr. SPECIES
-=======
+# Parmelia endoxantha G. Merr. SPECIES
 
 #### Status
 ACCEPTED

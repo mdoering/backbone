@@ -1,5 +1,4 @@
-Gruberia binucleata Dragesco, 1960 SPECIES
-=======
+# Gruberia binucleata Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davidiella cecropiae (Bat., J.L. Bezerra & Matta) Aptroot, 2006 SPECIES
-=======
+# Davidiella cecropiae (Bat., J.L. Bezerra & Matta) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

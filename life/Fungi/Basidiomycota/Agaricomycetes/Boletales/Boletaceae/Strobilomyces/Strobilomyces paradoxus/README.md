@@ -1,5 +1,4 @@
-Strobilomyces paradoxus Massee SPECIES
-=======
+# Strobilomyces paradoxus Massee SPECIES
 
 #### Status
 ACCEPTED

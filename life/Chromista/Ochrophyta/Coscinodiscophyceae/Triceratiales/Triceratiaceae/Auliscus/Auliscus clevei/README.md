@@ -1,5 +1,4 @@
-Auliscus clevei Grunow, 1875 SPECIES
-=======
+# Auliscus clevei Grunow, 1875 SPECIES
 
 #### Status
 ACCEPTED

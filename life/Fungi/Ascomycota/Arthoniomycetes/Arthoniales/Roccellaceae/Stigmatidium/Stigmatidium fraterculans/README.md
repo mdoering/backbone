@@ -1,5 +1,4 @@
-Stigmatidium fraterculans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Stigmatidium fraterculans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

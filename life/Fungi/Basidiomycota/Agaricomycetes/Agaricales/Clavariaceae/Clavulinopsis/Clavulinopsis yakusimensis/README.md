@@ -1,5 +1,4 @@
-Clavulinopsis yakusimensis I. Hino & Katum. SPECIES
-=======
+# Clavulinopsis yakusimensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

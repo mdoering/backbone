@@ -1,5 +1,4 @@
-Parmeliella forissiana Gyeln. SPECIES
-=======
+# Parmeliella forissiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

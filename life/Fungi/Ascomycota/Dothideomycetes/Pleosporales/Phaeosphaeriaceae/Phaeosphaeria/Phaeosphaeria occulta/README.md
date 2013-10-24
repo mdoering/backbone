@@ -1,14 +1,13 @@
-Leptosphaeria occulta Lind, 1913 SPECIES
-=======
+# Phaeosphaeria occulta (Lind) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Danish Fungi (Copenhagen) 218 (1913)
+Sydowia 37: 128 (1984)
 
 #### Original name
 Leptosphaeria occulta Lind, 1913

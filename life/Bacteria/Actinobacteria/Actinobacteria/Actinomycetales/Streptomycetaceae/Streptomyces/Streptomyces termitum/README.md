@@ -1,5 +1,4 @@
-Streptomyces termitum Duché et al., 1951 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces termitum Duché et al., 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

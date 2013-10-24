@@ -1,5 +1,4 @@
-Digitodesmium heptasporum L. Cai & K.D. Hyde SPECIES
-=======
+# Digitodesmium heptasporum L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

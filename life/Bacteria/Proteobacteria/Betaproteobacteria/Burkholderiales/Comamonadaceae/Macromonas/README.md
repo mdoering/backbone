@@ -1,5 +1,4 @@
-Macromonas Utermohl & Koppe, 1924 GENUS
-=======
+# Macromonas Utermohl & Koppe, 1924 GENUS
 
 #### Status
 ACCEPTED

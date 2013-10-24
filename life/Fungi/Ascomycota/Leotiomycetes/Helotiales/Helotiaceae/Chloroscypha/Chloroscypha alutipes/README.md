@@ -1,5 +1,4 @@
-Chloroscypha alutipes (W. Phillips) Dennis SPECIES
-=======
+# Chloroscypha alutipes (W. Phillips) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo dioscoreae-sativae Syd. & P. Syd., 1912 SPECIES
-=======
+# Uredo dioscoreae-sativae Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

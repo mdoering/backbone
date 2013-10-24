@@ -1,5 +1,4 @@
-Trichoderma stromaticum Samuels & Pardo-Schulth., 2000 SPECIES
-=======
+# Trichoderma stromaticum Samuels & Pardo-Schulth., 2000 SPECIES
 
 #### Status
 ACCEPTED

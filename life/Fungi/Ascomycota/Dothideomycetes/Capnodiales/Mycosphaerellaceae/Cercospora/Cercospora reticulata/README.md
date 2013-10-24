@@ -1,5 +1,4 @@
-Cercospora reticulata (Peck) Ellis & Everh. SPECIES
-=======
+# Cercospora reticulata (Peck) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

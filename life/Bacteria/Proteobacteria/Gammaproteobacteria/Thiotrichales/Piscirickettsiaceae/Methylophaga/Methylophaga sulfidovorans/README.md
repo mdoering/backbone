@@ -1,5 +1,4 @@
-Methylophaga sulfidovorans de Zwart et al., 1998 SPECIES
-=======
+# Methylophaga sulfidovorans de Zwart et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

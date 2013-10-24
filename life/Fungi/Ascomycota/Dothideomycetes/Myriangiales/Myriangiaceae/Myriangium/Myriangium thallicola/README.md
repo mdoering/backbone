@@ -1,5 +1,4 @@
-Myriangium thallicola Starbäck SPECIES
-=======
+# Myriangium thallicola Starbäck SPECIES
 
 #### Status
 ACCEPTED

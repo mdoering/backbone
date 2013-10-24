@@ -1,5 +1,4 @@
-Hygrophorus hispidus Velen. SPECIES
-=======
+# Hygrophorus hispidus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inquilinus Coenye et al., 2002 GENUS
-=======
+# Inquilinus Coenye et al., 2002 GENUS
 
 #### Status
 ACCEPTED

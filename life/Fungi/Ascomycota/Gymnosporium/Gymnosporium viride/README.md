@@ -1,5 +1,4 @@
-Gymnosporium viride Corda SPECIES
-=======
+# Gymnosporium viride Corda SPECIES
 
 #### Status
 ACCEPTED

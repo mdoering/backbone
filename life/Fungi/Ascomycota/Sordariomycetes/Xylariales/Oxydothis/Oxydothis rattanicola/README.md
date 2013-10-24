@@ -1,5 +1,4 @@
-Oxydothis rattanicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis rattanicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

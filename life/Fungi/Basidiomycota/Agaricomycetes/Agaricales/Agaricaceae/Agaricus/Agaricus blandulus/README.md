@@ -1,5 +1,4 @@
-Agaricus blandulus Berk. SPECIES
-=======
+# Agaricus blandulus Berk. SPECIES
 
 #### Status
 ACCEPTED

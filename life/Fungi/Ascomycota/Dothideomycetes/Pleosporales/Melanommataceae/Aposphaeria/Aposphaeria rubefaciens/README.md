@@ -1,5 +1,4 @@
-Aposphaeria rubefaciens Bubák SPECIES
-=======
+# Aposphaeria rubefaciens Bubák SPECIES
 
 #### Status
 ACCEPTED

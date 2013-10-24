@@ -1,5 +1,4 @@
-Reussella spinulosa (Reuss, 1850) SPECIES
-=======
+# Reussella spinulosa (Reuss, 1850) SPECIES
 
 #### Status
 ACCEPTED

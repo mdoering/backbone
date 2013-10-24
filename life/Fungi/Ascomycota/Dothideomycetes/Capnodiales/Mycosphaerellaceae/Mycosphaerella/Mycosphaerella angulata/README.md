@@ -1,5 +1,4 @@
-Mycosphaerella angulata W.A. Jenkins, 1942 SPECIES
-=======
+# Mycosphaerella angulata W.A. Jenkins, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hydrophila Sacc. & Speg. SPECIES
-=======
+# Septoria hydrophila Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

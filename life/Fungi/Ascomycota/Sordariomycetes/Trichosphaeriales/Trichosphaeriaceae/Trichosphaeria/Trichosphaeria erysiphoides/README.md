@@ -1,5 +1,4 @@
-Trichosphaeria erysiphoides Rehm SPECIES
-=======
+# Trichosphaeria erysiphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

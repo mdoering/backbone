@@ -1,5 +1,4 @@
-Textulariella parvacycla Loeblich & Tappan, 1994 SPECIES
-=======
+# Textulariella parvacycla Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

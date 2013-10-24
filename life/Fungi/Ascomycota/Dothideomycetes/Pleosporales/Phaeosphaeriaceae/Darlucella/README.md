@@ -1,5 +1,4 @@
-Darlucella GENUS
-=======
+# Darlucella GENUS
 
 #### Status
 ACCEPTED

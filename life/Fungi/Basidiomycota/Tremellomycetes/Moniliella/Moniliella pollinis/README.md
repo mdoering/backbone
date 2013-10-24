@@ -1,14 +1,13 @@
-Moniliella tomentosa var. pollinis Hennebert & Veracht., 1971 VARIETY
-=======
+# Moniliella pollinis (Hennebert & Veracht.) de Hoog & E. Guého, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dooms, Hennebert & Verachtert, Antonie van Leeuwenhoek 37(1): 109 (1971)
+Antonie van Leeuwenhoek 50(2): 138 (1984)
 
 #### Original name
 Moniliella tomentosa var. pollinis Hennebert & Veracht., 1971

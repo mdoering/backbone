@@ -1,5 +1,4 @@
-Aecidium espinosae Syd. SPECIES
-=======
+# Aecidium espinosae Syd. SPECIES
 
 #### Status
 ACCEPTED

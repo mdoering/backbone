@@ -1,5 +1,4 @@
-Winterina rhoina (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Winterina rhoina (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

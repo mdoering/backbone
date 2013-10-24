@@ -1,5 +1,4 @@
-Mycosphaerella singularis (Henn.) Arx SPECIES
-=======
+# Mycosphaerella singularis (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

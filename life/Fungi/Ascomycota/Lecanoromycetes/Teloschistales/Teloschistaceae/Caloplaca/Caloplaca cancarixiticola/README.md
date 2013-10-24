@@ -1,5 +1,4 @@
-Caloplaca cancarixiticola Nav.-Ros., Egea & Llimona SPECIES
-=======
+# Caloplaca cancarixiticola Nav.-Ros., Egea & Llimona SPECIES
 
 #### Status
 ACCEPTED

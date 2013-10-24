@@ -1,5 +1,4 @@
-Lichen placothallus Ach. SPECIES
-=======
+# Lichen placothallus Ach. SPECIES
 
 #### Status
 ACCEPTED

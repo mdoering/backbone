@@ -1,8 +1,7 @@
-Sphaeria euphorbiaecola Schwein. SPECIES
-=======
+# Sphaeria euphorbiicola Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria euphorbiaecola Schwein.
+Sphaeria euphorbiicola Schwein.
 
 ### Remarks
 null

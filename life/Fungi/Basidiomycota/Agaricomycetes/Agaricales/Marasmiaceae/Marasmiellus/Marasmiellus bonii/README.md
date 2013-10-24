@@ -1,5 +1,4 @@
-Marasmiellus bonii Segedin, 1995 SPECIES
-=======
+# Marasmiellus bonii Segedin, 1995 SPECIES
 
 #### Status
 ACCEPTED

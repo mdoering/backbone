@@ -1,5 +1,4 @@
-Ophrydium problematicum Kerrick, ? SPECIES
-=======
+# Ophrydium problematicum Kerrick, ? SPECIES
 
 #### Status
 ACCEPTED

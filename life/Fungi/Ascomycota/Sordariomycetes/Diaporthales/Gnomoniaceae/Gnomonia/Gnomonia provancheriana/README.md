@@ -1,5 +1,4 @@
-Gnomonia provancheriana Thüm. SPECIES
-=======
+# Gnomonia provancheriana Thüm. SPECIES
 
 #### Status
 ACCEPTED

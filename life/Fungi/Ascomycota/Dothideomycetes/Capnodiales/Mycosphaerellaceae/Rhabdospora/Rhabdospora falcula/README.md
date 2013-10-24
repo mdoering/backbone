@@ -1,5 +1,4 @@
-Rhabdospora falcula Sacc. SPECIES
-=======
+# Rhabdospora falcula Sacc. SPECIES
 
 #### Status
 ACCEPTED

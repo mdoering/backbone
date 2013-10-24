@@ -1,5 +1,4 @@
-Urceolaria lamarckii DC. SPECIES
-=======
+# Urceolaria lamarckii DC. SPECIES
 
 #### Status
 ACCEPTED

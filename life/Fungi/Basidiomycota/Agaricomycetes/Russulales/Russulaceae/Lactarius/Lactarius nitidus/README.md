@@ -1,5 +1,4 @@
-Lactarius nitidus Burl. SPECIES
-=======
+# Lactarius nitidus Burl. SPECIES
 
 #### Status
 ACCEPTED

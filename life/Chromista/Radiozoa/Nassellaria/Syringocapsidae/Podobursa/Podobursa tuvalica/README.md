@@ -1,5 +1,4 @@
-Podobursa tuvalica SPECIES
-=======
+# Podobursa tuvalica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroogomphus pseudotomentosus O.K. Mill. & Aime, 2001 SPECIES
-=======
+# Chroogomphus pseudotomentosus O.K. Mill. & Aime, 2001 SPECIES
 
 #### Status
 ACCEPTED

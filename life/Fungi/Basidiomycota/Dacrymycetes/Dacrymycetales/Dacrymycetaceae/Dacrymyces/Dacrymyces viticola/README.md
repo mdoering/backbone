@@ -1,5 +1,4 @@
-Dacrymyces viticola Schwein. SPECIES
-=======
+# Dacrymyces viticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

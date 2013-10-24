@@ -1,5 +1,4 @@
-Cercospora burserae Govindu & Thirum. SPECIES
-=======
+# Cercospora burserae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

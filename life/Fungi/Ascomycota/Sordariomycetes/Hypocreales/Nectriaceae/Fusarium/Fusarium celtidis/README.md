@@ -1,5 +1,4 @@
-Fusarium celtidis Pass. SPECIES
-=======
+# Fusarium celtidis Pass. SPECIES
 
 #### Status
 ACCEPTED

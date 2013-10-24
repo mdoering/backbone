@@ -1,5 +1,4 @@
-Microthelia oblongata Müll. Arg. SPECIES
-=======
+# Microthelia oblongata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

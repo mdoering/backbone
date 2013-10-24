@@ -1,5 +1,4 @@
-Rhabdospora secalina Rodigin SPECIES
-=======
+# Rhabdospora secalina Rodigin SPECIES
 
 #### Status
 ACCEPTED

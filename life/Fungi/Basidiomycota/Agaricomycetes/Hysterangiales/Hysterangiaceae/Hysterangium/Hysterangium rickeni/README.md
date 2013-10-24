@@ -1,5 +1,4 @@
-Hysterangium rickeni Soehner SPECIES
-=======
+# Hysterangium rickeni Soehner SPECIES
 
 #### Status
 ACCEPTED

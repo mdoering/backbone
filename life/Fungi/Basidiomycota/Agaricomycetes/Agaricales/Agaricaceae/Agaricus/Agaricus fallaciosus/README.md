@@ -1,5 +1,4 @@
-Agaricus fallaciosus Britzelm. SPECIES
-=======
+# Agaricus fallaciosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

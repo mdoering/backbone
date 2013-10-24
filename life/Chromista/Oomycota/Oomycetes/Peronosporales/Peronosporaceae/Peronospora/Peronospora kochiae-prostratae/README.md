@@ -1,5 +1,4 @@
-Peronospora kochiae-prostratae Sandu & lacob SPECIES
-=======
+# Peronospora kochiae-prostratae Sandu & lacob SPECIES
 
 #### Status
 ACCEPTED

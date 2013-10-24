@@ -1,5 +1,4 @@
-Clavaria pamparum Speg. SPECIES
-=======
+# Clavaria pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

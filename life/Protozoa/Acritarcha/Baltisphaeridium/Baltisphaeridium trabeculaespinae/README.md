@@ -1,5 +1,4 @@
-Baltisphaeridium trabeculaespinae Górka, 1969 SPECIES
-=======
+# Baltisphaeridium trabeculaespinae Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella dactylostemonis Rehm SPECIES
-=======
+# Didymella dactylostemonis Rehm SPECIES
 
 #### Status
 ACCEPTED

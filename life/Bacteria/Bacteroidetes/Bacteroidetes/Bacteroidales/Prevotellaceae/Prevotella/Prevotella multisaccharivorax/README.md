@@ -1,5 +1,4 @@
-Prevotella multisaccharivorax Sakamoto et al., 2005 SPECIES
-=======
+# Prevotella multisaccharivorax Sakamoto et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

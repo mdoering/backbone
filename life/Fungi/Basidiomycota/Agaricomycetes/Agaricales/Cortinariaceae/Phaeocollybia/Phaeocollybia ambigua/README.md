@@ -1,5 +1,4 @@
-Phaeocollybia ambigua E. Horak & Halling SPECIES
-=======
+# Phaeocollybia ambigua E. Horak & Halling SPECIES
 
 #### Status
 ACCEPTED

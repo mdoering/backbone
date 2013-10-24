@@ -1,5 +1,4 @@
-Entorrhizomycetes Begerow, M. Stoll, R. Bauer CLASS
-=======
+# Entorrhizomycetes Begerow, M. Stoll, R. Bauer CLASS
 
 #### Status
 ACCEPTED

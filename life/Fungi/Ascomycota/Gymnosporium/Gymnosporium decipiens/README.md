@@ -1,5 +1,4 @@
-Gymnosporium decipiens Berk. & M.A. Curtis SPECIES
-=======
+# Gymnosporium decipiens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

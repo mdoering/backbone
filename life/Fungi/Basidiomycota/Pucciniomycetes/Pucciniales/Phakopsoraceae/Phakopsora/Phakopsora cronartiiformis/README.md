@@ -1,5 +1,4 @@
-Phakopsora cronartiiformis Dietel SPECIES
-=======
+# Phakopsora cronartiiformis Dietel SPECIES
 
 #### Status
 ACCEPTED

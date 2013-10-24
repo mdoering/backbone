@@ -1,5 +1,4 @@
-Parmentaria oligocarpa Ajay Singh SPECIES
-=======
+# Parmentaria oligocarpa Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

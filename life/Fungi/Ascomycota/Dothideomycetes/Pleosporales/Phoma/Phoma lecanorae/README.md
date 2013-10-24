@@ -1,5 +1,4 @@
-Phoma lecanorae Vouaux SPECIES
-=======
+# Phoma lecanorae Vouaux SPECIES
 
 #### Status
 ACCEPTED

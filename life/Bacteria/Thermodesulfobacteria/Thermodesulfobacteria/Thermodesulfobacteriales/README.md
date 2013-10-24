@@ -1,5 +1,4 @@
-Thermodesulfobacteriales Hatchikian, Ollivier & Garcia, 2002 ORDER
-=======
+# Thermodesulfobacteriales Hatchikian, Ollivier & Garcia, 2002 ORDER
 
 #### Status
 ACCEPTED

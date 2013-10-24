@@ -1,5 +1,4 @@
-Ammonia nipponica (Asano) SPECIES
-=======
+# Ammonia nipponica (Asano) SPECIES
 
 #### Status
 ACCEPTED

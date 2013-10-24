@@ -1,5 +1,4 @@
-Obliquilingulina Zheng, 1979 GENUS
-=======
+# Obliquilingulina Zheng, 1979 GENUS
 
 #### Status
 ACCEPTED

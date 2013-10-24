@@ -1,5 +1,4 @@
-Ochrolechia chilensis Verseghy SPECIES
-=======
+# Ochrolechia chilensis Verseghy SPECIES
 
 #### Status
 ACCEPTED

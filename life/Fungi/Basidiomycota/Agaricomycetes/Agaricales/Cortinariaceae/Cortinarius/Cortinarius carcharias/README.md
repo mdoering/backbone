@@ -1,5 +1,4 @@
-Cortinarius carcharias Bidaud SPECIES
-=======
+# Cortinarius carcharias Bidaud SPECIES
 
 #### Status
 ACCEPTED

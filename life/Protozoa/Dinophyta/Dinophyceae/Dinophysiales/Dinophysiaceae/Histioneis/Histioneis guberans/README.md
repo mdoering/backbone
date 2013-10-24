@@ -1,5 +1,4 @@
-Histioneis guberans Schott SPECIES
-=======
+# Histioneis guberans Schott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema punctulatum Nyl. SPECIES
-=======
+# Thelotrema punctulatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

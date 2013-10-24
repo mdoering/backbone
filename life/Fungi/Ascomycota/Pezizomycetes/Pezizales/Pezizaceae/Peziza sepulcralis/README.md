@@ -1,5 +1,4 @@
-Peziza sepulcralis Batsch SPECIES
-=======
+# Peziza sepulcralis Batsch SPECIES
 
 #### Status
 ACCEPTED

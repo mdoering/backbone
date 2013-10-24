@@ -1,5 +1,4 @@
-Poria niphodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Poria niphodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula ulzamae Moriyon & C. Ramírez SPECIES
-=======
+# Rhodotorula ulzamae Moriyon & C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

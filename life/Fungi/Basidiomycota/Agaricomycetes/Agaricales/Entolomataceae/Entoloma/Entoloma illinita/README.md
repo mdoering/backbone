@@ -1,5 +1,4 @@
-Entoloma illinita Largent & Aime SPECIES
-=======
+# Entoloma illinita Largent & Aime SPECIES
 
 #### Status
 ACCEPTED

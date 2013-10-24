@@ -1,14 +1,13 @@
-Clypeolum juniperinum Grove, 1930 SPECIES
-=======
+# Stomiopeltis juniperina (Grove) K. Holm & L. Holm, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 68: 134 (1930)
+Symb. bot. upsal. 21(no. 3): 38 (1977)
 
 #### Original name
 Clypeolum juniperinum Grove, 1930

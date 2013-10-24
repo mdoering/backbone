@@ -1,5 +1,4 @@
-Calycina sambucina (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina sambucina (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

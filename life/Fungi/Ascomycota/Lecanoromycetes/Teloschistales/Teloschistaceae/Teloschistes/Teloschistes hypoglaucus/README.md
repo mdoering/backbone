@@ -1,5 +1,4 @@
-Teloschistes hypoglaucus (Nyl.) Zahlbr. SPECIES
-=======
+# Teloschistes hypoglaucus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

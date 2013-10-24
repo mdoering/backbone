@@ -1,5 +1,4 @@
-Scytinopogon Singer GENUS
-=======
+# Scytinopogon Singer GENUS
 
 #### Status
 ACCEPTED

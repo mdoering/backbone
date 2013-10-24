@@ -1,17 +1,16 @@
-Haplosporella tingens Ellis & Langl. SPECIES
-=======
+# Aplosporella tingens Ellis & Langl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 6: 37 (1890)
 
 #### Original name
-Haplosporella tingens Ellis & Langl.
+Aplosporella tingens Ellis & Langl.
 
 ### Remarks
 null

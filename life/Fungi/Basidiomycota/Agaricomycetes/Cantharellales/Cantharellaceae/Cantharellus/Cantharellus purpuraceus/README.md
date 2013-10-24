@@ -1,5 +1,4 @@
-Cantharellus purpuraceus Iwade SPECIES
-=======
+# Cantharellus purpuraceus Iwade SPECIES
 
 #### Status
 ACCEPTED

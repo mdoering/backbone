@@ -1,5 +1,4 @@
-Hyphosoma aucupariae (Jørst.) S. Hughes SPECIES
-=======
+# Hyphosoma aucupariae (Jørst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

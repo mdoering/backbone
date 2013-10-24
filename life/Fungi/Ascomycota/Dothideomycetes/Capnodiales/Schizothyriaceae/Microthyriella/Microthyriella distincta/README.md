@@ -1,5 +1,4 @@
-Microthyriella distincta F. Stevens & Manter SPECIES
-=======
+# Microthyriella distincta F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

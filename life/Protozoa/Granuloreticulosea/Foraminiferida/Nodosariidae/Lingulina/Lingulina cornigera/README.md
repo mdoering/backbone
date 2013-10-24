@@ -1,5 +1,4 @@
-Lingulina cornigera Buchner, 1942 SPECIES
-=======
+# Lingulina cornigera Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

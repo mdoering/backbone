@@ -1,5 +1,4 @@
-Russula citrinosulcata Jul. Schäff. SPECIES
-=======
+# Russula citrinosulcata Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

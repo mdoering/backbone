@@ -1,5 +1,4 @@
-Dothiorella tubericola Speg. SPECIES
-=======
+# Dothiorella tubericola Speg. SPECIES
 
 #### Status
 ACCEPTED

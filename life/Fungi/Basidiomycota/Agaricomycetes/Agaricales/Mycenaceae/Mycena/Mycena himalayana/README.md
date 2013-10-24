@@ -1,5 +1,4 @@
-Mycena himalayana Rawla SPECIES
-=======
+# Mycena himalayana Rawla SPECIES
 
 #### Status
 ACCEPTED

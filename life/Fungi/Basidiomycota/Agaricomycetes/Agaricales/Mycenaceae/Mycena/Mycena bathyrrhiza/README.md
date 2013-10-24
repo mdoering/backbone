@@ -1,5 +1,4 @@
-Mycena bathyrrhiza Maas Geest. SPECIES
-=======
+# Mycena bathyrrhiza Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

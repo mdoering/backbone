@@ -1,5 +1,4 @@
-Phoma pulsatillae P. Karst. SPECIES
-=======
+# Phoma pulsatillae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

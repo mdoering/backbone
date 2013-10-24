@@ -1,5 +1,4 @@
-Cordyceps subdiscoidea Henn. SPECIES
-=======
+# Cordyceps subdiscoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

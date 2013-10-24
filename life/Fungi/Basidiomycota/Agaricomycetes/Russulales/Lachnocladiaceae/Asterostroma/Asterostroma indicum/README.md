@@ -1,5 +1,4 @@
-Asterostroma indicum A.B. De SPECIES
-=======
+# Asterostroma indicum A.B. De SPECIES
 
 #### Status
 ACCEPTED

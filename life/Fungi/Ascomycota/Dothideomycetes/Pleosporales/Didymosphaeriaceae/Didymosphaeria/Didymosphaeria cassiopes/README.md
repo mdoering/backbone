@@ -1,5 +1,4 @@
-Didymosphaeria cassiopes Rostr. SPECIES
-=======
+# Didymosphaeria cassiopes Rostr. SPECIES
 
 #### Status
 ACCEPTED

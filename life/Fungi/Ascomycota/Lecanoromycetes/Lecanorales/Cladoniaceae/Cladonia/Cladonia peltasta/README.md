@@ -1,5 +1,4 @@
-Cladonia peltasta f. peltasta FORM
-=======
+# Cladonia peltasta (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia peltasta f. peltasta
+null
 
 ### Remarks
 null

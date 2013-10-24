@@ -1,5 +1,4 @@
-Nemecomyces mongolicus Pilát SPECIES
-=======
+# Nemecomyces mongolicus Pilát SPECIES
 
 #### Status
 ACCEPTED

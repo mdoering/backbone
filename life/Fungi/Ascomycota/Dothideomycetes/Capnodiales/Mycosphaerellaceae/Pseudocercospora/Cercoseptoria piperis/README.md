@@ -1,5 +1,4 @@
-Cercoseptoria piperis (F. Stevens & Dalbey) Petr. SPECIES
-=======
+# Cercoseptoria piperis (F. Stevens & Dalbey) Petr. SPECIES
 
 #### Status
 ACCEPTED

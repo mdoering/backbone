@@ -1,5 +1,4 @@
-Cetraria inermis (Nyl.) Krog SPECIES
-=======
+# Cetraria inermis (Nyl.) Krog SPECIES
 
 #### Status
 ACCEPTED

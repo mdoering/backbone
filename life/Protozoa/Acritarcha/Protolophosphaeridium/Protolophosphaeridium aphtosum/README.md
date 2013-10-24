@@ -1,5 +1,4 @@
-Protolophosphaeridium aphtosum Radavskaya in Rudavskaya & Timofeev SPECIES
-=======
+# Protolophosphaeridium aphtosum Radavskaya in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo trogopogonis Röhl. SPECIES
-=======
+# Uredo trogopogonis Röhl. SPECIES
 
 #### Status
 ACCEPTED

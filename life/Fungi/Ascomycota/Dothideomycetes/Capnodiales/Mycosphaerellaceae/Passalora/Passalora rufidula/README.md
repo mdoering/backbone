@@ -1,5 +1,4 @@
-Passalora rufidula (Petr.) U. Braun & Crous SPECIES
-=======
+# Passalora rufidula (Petr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

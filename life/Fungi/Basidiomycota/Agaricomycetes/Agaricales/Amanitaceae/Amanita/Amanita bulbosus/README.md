@@ -1,5 +1,4 @@
-Amanita bulbosus Bull. SPECIES
-=======
+# Amanita bulbosus Bull. SPECIES
 
 #### Status
 ACCEPTED

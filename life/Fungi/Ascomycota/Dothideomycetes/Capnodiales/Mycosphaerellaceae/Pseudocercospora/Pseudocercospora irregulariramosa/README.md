@@ -1,5 +1,4 @@
-Pseudocercospora irregulariramosa Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora irregulariramosa Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

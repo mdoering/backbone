@@ -1,5 +1,4 @@
-Torula sanguinea Schimon SPECIES
-=======
+# Torula sanguinea Schimon SPECIES
 
 #### Status
 ACCEPTED

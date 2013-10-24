@@ -1,14 +1,13 @@
-Anungitea triseptata Matsush., 1975 SPECIES
-=======
+# Anungitopsis triseptata (Matsush.) R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 8 (1975)
+Univ. Waterloo Biol. Ser. 35: 12 (1991)
 
 #### Original name
 Anungitea triseptata Matsush., 1975

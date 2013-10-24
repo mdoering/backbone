@@ -1,5 +1,4 @@
-Lecanora leucoxantha (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora leucoxantha (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

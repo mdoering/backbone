@@ -1,5 +1,4 @@
-Pluteus xanthopus Singer SPECIES
-=======
+# Pluteus xanthopus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planeticovorticella paradoxa Xu et al., 2009 SPECIES
-=======
+# Planeticovorticella paradoxa Xu et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

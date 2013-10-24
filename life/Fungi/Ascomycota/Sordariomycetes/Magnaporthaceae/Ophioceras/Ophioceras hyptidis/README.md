@@ -1,5 +1,4 @@
-Ophioceras hyptidis Henn. SPECIES
-=======
+# Ophioceras hyptidis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vanrijia fragaria (J.A. Barnett & Buhagiar) R.T. Moore SPECIES
-=======
+# Vanrijia fragaria (J.A. Barnett & Buhagiar) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

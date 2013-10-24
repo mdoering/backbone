@@ -1,5 +1,4 @@
-Insiticia GENUS
-=======
+# Insiticia GENUS
 
 #### Status
 ACCEPTED

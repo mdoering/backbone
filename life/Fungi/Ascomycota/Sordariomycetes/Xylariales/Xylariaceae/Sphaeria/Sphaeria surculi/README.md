@@ -1,5 +1,4 @@
-Sphaeria surculi Fr. SPECIES
-=======
+# Sphaeria surculi Fr. SPECIES
 
 #### Status
 ACCEPTED

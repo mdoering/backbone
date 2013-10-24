@@ -1,5 +1,4 @@
-Alinocarpon intermixtulum SPECIES
-=======
+# Alinocarpon intermixtulum SPECIES
 
 #### Status
 ACCEPTED

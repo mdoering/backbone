@@ -1,5 +1,4 @@
-Gaertneriomyces tenuis D.J.S. Barr, 1984 SPECIES
-=======
+# Gaertneriomyces tenuis D.J.S. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED

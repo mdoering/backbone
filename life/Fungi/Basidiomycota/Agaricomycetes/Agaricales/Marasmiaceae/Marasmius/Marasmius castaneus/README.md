@@ -1,5 +1,4 @@
-Marasmius castaneus Mont. SPECIES
-=======
+# Marasmius castaneus Mont. SPECIES
 
 #### Status
 ACCEPTED

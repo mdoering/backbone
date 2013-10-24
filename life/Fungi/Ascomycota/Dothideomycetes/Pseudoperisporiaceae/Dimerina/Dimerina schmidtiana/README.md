@@ -1,5 +1,4 @@
-Dimerina schmidtiana Petr. SPECIES
-=======
+# Dimerina schmidtiana Petr. SPECIES
 
 #### Status
 ACCEPTED

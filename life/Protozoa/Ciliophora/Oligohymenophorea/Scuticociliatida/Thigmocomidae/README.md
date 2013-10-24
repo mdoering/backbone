@@ -1,5 +1,4 @@
-Thigmocomidae FAMILY
-=======
+# Thigmocomidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella microcystis A.H. Sm. SPECIES
-=======
+# Psathyrella microcystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

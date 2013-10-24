@@ -1,5 +1,4 @@
-Hymenoscyphus occultatus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus occultatus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

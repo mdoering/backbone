@@ -1,5 +1,4 @@
-Ceratophyton dumufuntum Zang Wen-long in Gravestock et al., 2001 SPECIES
-=======
+# Ceratophyton dumufuntum Zang Wen-long in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

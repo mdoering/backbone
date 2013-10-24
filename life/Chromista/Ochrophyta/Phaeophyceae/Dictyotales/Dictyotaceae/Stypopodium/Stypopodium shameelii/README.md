@@ -1,5 +1,4 @@
-Stypopodium shameelii M. Nizamuddin & K. Aisha SPECIES
-=======
+# Stypopodium shameelii M. Nizamuddin & K. Aisha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentocorticium brasiliense M.J. Larsen & Gilb., 1977 SPECIES
-=======
+# Dentocorticium brasiliense M.J. Larsen & Gilb., 1977 SPECIES
 
 #### Status
 ACCEPTED

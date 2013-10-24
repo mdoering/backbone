@@ -1,14 +1,13 @@
-Arthrobotrys gephyropaga (Drechsler) Yan Li, 2006 SPECIES
-=======
+# Gamsylella gephyropaga (Drechsler) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Li, Hyde, Jeewon, Cai, Vijaykrishna & Zhang, Mycologia 97(5): 1042 (2006)
+Sydowia 51(1): 108 (1999)
 
 #### Original name
 Dactylella gephyropaga Drechsler, 1937

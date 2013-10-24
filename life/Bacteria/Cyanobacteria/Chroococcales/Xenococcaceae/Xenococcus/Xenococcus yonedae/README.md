@@ -1,5 +1,4 @@
-Xenococcus yonedae I. Umezaki & M. Watanabe SPECIES
-=======
+# Xenococcus yonedae I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

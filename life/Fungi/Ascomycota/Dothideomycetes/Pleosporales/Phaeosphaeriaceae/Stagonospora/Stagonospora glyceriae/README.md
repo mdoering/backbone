@@ -1,5 +1,4 @@
-Stagonospora glyceriae Kupka {?} SPECIES
-=======
+# Stagonospora glyceriae Kupka {?} SPECIES
 
 #### Status
 ACCEPTED

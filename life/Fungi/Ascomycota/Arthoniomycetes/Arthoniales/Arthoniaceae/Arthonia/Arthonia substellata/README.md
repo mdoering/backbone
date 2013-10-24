@@ -1,5 +1,4 @@
-Arthonia substellata (Ach.) Nyl. SPECIES
-=======
+# Arthonia substellata (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

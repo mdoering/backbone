@@ -1,5 +1,4 @@
-Cystoseira montagnei J. Agardh SPECIES
-=======
+# Cystoseira montagnei J. Agardh SPECIES
 
 #### Status
 ACCEPTED

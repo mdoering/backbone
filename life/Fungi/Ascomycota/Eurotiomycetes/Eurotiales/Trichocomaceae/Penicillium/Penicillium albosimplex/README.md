@@ -1,5 +1,4 @@
-Penicillium albosimplex Nehira SPECIES
-=======
+# Penicillium albosimplex Nehira SPECIES
 
 #### Status
 ACCEPTED

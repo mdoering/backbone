@@ -1,5 +1,4 @@
-Dicaeoma trochomeriae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma trochomeriae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halothrix rectiuscula Y.Lee SPECIES
-=======
+# Halothrix rectiuscula Y.Lee SPECIES
 
 #### Status
 ACCEPTED

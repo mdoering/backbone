@@ -1,5 +1,4 @@
-Flabellammina Cushman, 1928 GENUS
-=======
+# Flabellammina Cushman, 1928 GENUS
 
 #### Status
 ACCEPTED

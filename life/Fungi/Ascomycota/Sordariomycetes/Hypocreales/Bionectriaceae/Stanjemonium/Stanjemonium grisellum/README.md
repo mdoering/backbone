@@ -1,5 +1,4 @@
-Stanjemonium grisellum W. Gams, Schroers & M. Chr., 1999 SPECIES
-=======
+# Stanjemonium grisellum W. Gams, Schroers & M. Chr., 1999 SPECIES
 
 #### Status
 ACCEPTED

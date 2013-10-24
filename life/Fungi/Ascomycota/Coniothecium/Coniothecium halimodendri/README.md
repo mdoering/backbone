@@ -1,5 +1,4 @@
-Coniothecium halimodendri Kravtzev SPECIES
-=======
+# Coniothecium halimodendri Kravtzev SPECIES
 
 #### Status
 ACCEPTED

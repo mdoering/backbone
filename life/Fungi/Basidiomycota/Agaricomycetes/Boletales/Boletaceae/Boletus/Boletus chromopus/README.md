@@ -1,5 +1,4 @@
-Boletus chromopus Frost SPECIES
-=======
+# Boletus chromopus Frost SPECIES
 
 #### Status
 ACCEPTED

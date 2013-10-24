@@ -1,5 +1,4 @@
-Diplodina sophiae Bubák SPECIES
-=======
+# Diplodina sophiae Bubák SPECIES
 
 #### Status
 ACCEPTED

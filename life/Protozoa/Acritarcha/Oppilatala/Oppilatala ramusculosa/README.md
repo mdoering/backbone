@@ -1,5 +1,4 @@
-Oppilatala ramusculosa (Deflandre, 1945) Dorning, 1981 SPECIES
-=======
+# Oppilatala ramusculosa (Deflandre, 1945) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

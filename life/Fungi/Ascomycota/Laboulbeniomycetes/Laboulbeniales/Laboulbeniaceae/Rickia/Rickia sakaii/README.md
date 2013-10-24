@@ -1,5 +1,4 @@
-Rickia sakaii T. Majewski & K. Sugiy. SPECIES
-=======
+# Rickia sakaii T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

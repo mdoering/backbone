@@ -1,5 +1,4 @@
-Mycena pinetorum J.E. Lange, 1914 SPECIES
-=======
+# Mycena pinetorum J.E. Lange, 1914 SPECIES
 
 #### Status
 ACCEPTED

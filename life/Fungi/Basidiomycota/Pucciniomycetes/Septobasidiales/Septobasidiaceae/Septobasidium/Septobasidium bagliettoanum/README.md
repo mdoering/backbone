@@ -1,5 +1,4 @@
-Septobasidium bagliettoanum (Fr.) Bres. SPECIES
-=======
+# Septobasidium bagliettoanum (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

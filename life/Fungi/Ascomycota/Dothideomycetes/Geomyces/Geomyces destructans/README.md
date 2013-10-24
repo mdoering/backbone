@@ -1,5 +1,4 @@
-Geomyces destructans Blehert & Gargas SPECIES
-=======
+# Geomyces destructans Blehert & Gargas SPECIES
 
 #### Status
 ACCEPTED

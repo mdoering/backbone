@@ -1,17 +1,16 @@
-Aplosporella clerodendronae S. Ahmad SPECIES
-=======
+# Aplosporella clerodendri Mhaskar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 8(2): 145 (1962)
 
 #### Original name
-Aplosporella clerodendronae S. Ahmad
+Aplosporella clerodendri Mhaskar & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Olpidium spirogyrae Skvortsov SPECIES
-=======
+# Olpidium spirogyrae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

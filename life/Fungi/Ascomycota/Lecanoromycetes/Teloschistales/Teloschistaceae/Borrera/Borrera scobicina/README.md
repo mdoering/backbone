@@ -1,5 +1,4 @@
-Borrera scobicina (Ach.) Röhl. SPECIES
-=======
+# Borrera scobicina (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

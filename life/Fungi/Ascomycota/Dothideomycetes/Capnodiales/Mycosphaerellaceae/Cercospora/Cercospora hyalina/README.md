@@ -1,5 +1,4 @@
-Cercospora hyalina A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora hyalina A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

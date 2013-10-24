@@ -1,5 +1,4 @@
-Verrucaria cinereolutescens Zschacke SPECIES
-=======
+# Verrucaria cinereolutescens Zschacke SPECIES
 
 #### Status
 ACCEPTED

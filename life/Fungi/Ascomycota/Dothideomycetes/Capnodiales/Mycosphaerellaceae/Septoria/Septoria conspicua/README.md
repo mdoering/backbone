@@ -1,5 +1,4 @@
-Septoria conspicua Ellis & G. Martin, 1887 SPECIES
-=======
+# Septoria conspicua Ellis & G. Martin, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valdensinia Peyronel GENUS
-=======
+# Valdensinia Peyronel GENUS
 
 #### Status
 ACCEPTED

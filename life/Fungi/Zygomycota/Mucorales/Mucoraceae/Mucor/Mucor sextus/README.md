@@ -1,5 +1,4 @@
-Mucor sextus Schaeff. SPECIES
-=======
+# Mucor sextus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

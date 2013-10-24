@@ -1,5 +1,4 @@
-Amyloporia Singer, 1944 GENUS
-=======
+# Amyloporia Singer, 1944 GENUS
 
 #### Status
 ACCEPTED

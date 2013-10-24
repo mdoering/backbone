@@ -1,5 +1,4 @@
-Spirogonella Yankovskij, 1978 GENUS
-=======
+# Spirogonella Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

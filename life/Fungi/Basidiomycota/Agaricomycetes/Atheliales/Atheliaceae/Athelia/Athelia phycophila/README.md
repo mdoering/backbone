@@ -1,17 +1,16 @@
-Athelidium phycophilum (Jülich) Zmitr. & Spirin, 2004 SPECIES
-=======
+# Athelia phycophila Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia, Beih. 7: 108 (1972)
 
 #### Original name
-null
+Athelia phycophila Jülich, 1972
 
 ### Remarks
 null

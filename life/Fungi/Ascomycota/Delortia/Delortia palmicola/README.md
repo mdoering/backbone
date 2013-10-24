@@ -1,5 +1,4 @@
-Delortia palmicola Pat. & Gaillard, 1888 SPECIES
-=======
+# Delortia palmicola Pat. & Gaillard, 1888 SPECIES
 
 #### Status
 ACCEPTED

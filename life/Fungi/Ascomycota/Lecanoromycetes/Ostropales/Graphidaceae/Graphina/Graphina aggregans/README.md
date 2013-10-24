@@ -1,5 +1,4 @@
-Graphina aggregans (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina aggregans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roselliniella stictae Etayo SPECIES
-=======
+# Roselliniella stictae Etayo SPECIES
 
 #### Status
 ACCEPTED

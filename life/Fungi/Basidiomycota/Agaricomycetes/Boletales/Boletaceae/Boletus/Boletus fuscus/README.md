@@ -1,5 +1,4 @@
-Boletus fuscus Rostk. SPECIES
-=======
+# Boletus fuscus Rostk. SPECIES
 
 #### Status
 ACCEPTED

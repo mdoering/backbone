@@ -1,5 +1,4 @@
-Puccinia viatica J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia viatica J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

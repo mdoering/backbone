@@ -1,14 +1,13 @@
-Clavulinopsis laeticolor var. antillarum (Pat.) R.H. Petersen, 1968 VARIETY
-=======
+# Clavulinopsis antillarum (Pat.) Courtec., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 2: 29 (1968)
+Docums Mycol. 33(no. 131): 36 (2004)
 
 #### Original name
 Clavaria fusiformis var. antillarum Pat., 1903

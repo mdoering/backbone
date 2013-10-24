@@ -1,14 +1,13 @@
-Calliospora holwayi Arthur, 1905 SPECIES
-=======
+# Uropyxis holwayi (Arthur) Arthur, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 39: 39 (1905)
+Manual of the Rusts in the United States & Canada 77 (1934)
 
 #### Original name
 Calliospora holwayi Arthur, 1905

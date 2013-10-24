@@ -1,5 +1,4 @@
-Irenopsis hoheriae Hansf., 1955 SPECIES
-=======
+# Irenopsis hoheriae Hansf., 1955 SPECIES
 
 #### Status
 ACCEPTED

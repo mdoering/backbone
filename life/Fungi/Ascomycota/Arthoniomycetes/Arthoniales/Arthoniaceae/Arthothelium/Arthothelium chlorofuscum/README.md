@@ -1,5 +1,4 @@
-Arthothelium chlorofuscum Makhija & Patw. SPECIES
-=======
+# Arthothelium chlorofuscum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

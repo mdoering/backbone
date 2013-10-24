@@ -1,5 +1,4 @@
-Lithodermataceae FAMILY
-=======
+# Lithodermataceae FAMILY
 
 #### Status
 ACCEPTED

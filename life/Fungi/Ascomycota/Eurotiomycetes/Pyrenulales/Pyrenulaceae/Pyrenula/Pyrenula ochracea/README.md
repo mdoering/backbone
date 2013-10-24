@@ -1,5 +1,4 @@
-Pyrenula ochracea Szatala SPECIES
-=======
+# Pyrenula ochracea Szatala SPECIES
 
 #### Status
 ACCEPTED

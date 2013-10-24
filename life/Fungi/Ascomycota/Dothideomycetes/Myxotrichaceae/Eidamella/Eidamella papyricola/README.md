@@ -1,5 +1,4 @@
-Eidamella papyricola Saccas SPECIES
-=======
+# Eidamella papyricola Saccas SPECIES
 
 #### Status
 ACCEPTED

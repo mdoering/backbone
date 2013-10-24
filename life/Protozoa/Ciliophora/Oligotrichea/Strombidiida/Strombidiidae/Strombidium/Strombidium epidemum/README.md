@@ -1,5 +1,4 @@
-Strombidium epidemum Lynn, Montagnes & Small, 1988 SPECIES
-=======
+# Strombidium epidemum Lynn, Montagnes & Small, 1988 SPECIES
 
 #### Status
 ACCEPTED

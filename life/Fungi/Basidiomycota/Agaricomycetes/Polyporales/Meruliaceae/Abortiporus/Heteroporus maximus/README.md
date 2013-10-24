@@ -1,5 +1,4 @@
-Heteroporus maximus (Brot.) Lázaro Ibiza SPECIES
-=======
+# Heteroporus maximus (Brot.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hafellia alisioae Etayo & Marbach SPECIES
-=======
+# Hafellia alisioae Etayo & Marbach SPECIES
 
 #### Status
 ACCEPTED

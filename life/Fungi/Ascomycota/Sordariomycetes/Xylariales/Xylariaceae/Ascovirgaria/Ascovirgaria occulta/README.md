@@ -1,5 +1,4 @@
-Ascovirgaria occulta J.D. Rogers & Y.M. Ju, 2002 SPECIES
-=======
+# Ascovirgaria occulta J.D. Rogers & Y.M. Ju, 2002 SPECIES
 
 #### Status
 ACCEPTED

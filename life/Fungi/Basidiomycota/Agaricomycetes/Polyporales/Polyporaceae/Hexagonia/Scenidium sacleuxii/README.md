@@ -1,5 +1,4 @@
-Scenidium sacleuxii (Har.) Kuntze SPECIES
-=======
+# Scenidium sacleuxii (Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

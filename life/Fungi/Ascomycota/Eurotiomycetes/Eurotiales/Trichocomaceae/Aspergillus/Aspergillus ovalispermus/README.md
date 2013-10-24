@@ -1,5 +1,4 @@
-Aspergillus ovalispermus Link SPECIES
-=======
+# Aspergillus ovalispermus Link SPECIES
 
 #### Status
 ACCEPTED

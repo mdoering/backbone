@@ -1,5 +1,4 @@
-Trichoglossum farlowi (Cooke) E. J. Durand SPECIES
-=======
+# Trichoglossum farlowi (Cooke) E. J. Durand SPECIES
 
 #### Status
 ACCEPTED

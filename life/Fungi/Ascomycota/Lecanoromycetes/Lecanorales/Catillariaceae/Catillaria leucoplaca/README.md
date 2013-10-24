@@ -1,5 +1,4 @@
-Catillaria leucoplaca (DC.) A. Massal. SPECIES
-=======
+# Catillaria leucoplaca (DC.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus adnatus Corner, 1987 SPECIES
-=======
+# Rigidoporus adnatus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coconut tinangaja SPECIES
-=======
+# Coconut tinangaja SPECIES
 
 #### Status
 ACCEPTED

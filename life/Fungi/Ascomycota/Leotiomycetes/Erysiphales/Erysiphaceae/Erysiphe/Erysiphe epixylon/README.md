@@ -1,5 +1,4 @@
-Erysiphe epixylon Schltdl. SPECIES
-=======
+# Erysiphe epixylon Schltdl. SPECIES
 
 #### Status
 ACCEPTED

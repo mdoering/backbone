@@ -1,5 +1,4 @@
-Diarimella yerbae (Speg.) Nag Raj SPECIES
-=======
+# Diarimella yerbae (Speg.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

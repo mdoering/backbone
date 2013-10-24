@@ -1,5 +1,4 @@
-Parasterina spinosa J.M. Mend. SPECIES
-=======
+# Parasterina spinosa J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora ribesii-grandifoliae W.G. Schneid. SPECIES
-=======
+# Melampsora ribesii-grandifoliae W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

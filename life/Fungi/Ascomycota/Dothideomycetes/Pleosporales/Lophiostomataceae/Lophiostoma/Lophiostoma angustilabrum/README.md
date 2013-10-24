@@ -1,5 +1,4 @@
-Lophiostoma angustilabrum var. angustilabrum VARIETY
-=======
+# Lophiostoma angustilabrum Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Trans. R. Soc. Edinb. 9: 330 (1868)
+null
 
 #### Original name
-Sphaeria angustilabra Berk. & Broome
+Lophiostoma angustilabrum Pass.
 
 ### Remarks
 null

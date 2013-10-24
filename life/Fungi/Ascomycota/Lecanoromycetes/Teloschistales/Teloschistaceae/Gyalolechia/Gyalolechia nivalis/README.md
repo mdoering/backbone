@@ -1,5 +1,4 @@
-Gyalolechia nivalis (Körb.) A. Massal. SPECIES
-=======
+# Gyalolechia nivalis (Körb.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

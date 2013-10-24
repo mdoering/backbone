@@ -1,5 +1,4 @@
-Allothyrina serjaniae Bat. & J.L. Bezerra, 1964 SPECIES
-=======
+# Allothyrina serjaniae Bat. & J.L. Bezerra, 1964 SPECIES
 
 #### Status
 ACCEPTED

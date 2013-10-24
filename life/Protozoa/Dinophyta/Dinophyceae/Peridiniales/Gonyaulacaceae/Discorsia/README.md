@@ -1,5 +1,4 @@
-Discorsia S. Duxbury, 1977 GENUS
-=======
+# Discorsia S. Duxbury, 1977 GENUS
 
 #### Status
 ACCEPTED

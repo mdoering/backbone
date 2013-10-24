@@ -1,5 +1,4 @@
-Lactarius pseudomucidus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudomucidus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

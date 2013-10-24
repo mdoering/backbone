@@ -1,14 +1,13 @@
-Peziza quisquiliarum Berk. & M.A. Curtis SPECIES
-=======
+# Masseea quisquiliarum (Berk. & M.A. Curtis) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 366 (1868)
+Syll. fung. (Abellini) 8: 488 (1889)
 
 #### Original name
 Peziza quisquiliarum Berk. & M.A. Curtis

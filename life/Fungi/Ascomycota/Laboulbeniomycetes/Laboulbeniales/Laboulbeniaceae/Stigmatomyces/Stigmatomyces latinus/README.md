@@ -1,5 +1,4 @@
-Stigmatomyces latinus W. Rossi SPECIES
-=======
+# Stigmatomyces latinus W. Rossi SPECIES
 
 #### Status
 ACCEPTED

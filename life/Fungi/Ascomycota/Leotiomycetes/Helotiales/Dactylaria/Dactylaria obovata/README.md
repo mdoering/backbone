@@ -1,5 +1,4 @@
-Dactylaria obovata (Matsush.) de Hoog & Arx SPECIES
-=======
+# Dactylaria obovata (Matsush.) de Hoog & Arx SPECIES
 
 #### Status
 ACCEPTED

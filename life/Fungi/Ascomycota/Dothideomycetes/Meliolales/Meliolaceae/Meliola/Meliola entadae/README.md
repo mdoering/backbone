@@ -1,5 +1,4 @@
-Meliola entadae Hansf. SPECIES
-=======
+# Meliola entadae Hansf. SPECIES
 
 #### Status
 ACCEPTED

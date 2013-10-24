@@ -1,17 +1,16 @@
-Eccrinoides broelemanni L. Léger & Duboscq SPECIES
-=======
+# Eccrinoides broelemannii L. Léger & Duboscq, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Archs Anat. microsc. 25: 320 (1929)
 
 #### Original name
-Eccrinoides broelemanni L. Léger & Duboscq
+Eccrinoides broelemannii L. Léger & Duboscq, 1929
 
 ### Remarks
 null

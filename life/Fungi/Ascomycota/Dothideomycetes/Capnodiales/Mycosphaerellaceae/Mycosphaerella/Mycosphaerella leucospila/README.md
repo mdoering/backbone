@@ -1,5 +1,4 @@
-Mycosphaerella leucospila Syd. {?} SPECIES
-=======
+# Mycosphaerella leucospila Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

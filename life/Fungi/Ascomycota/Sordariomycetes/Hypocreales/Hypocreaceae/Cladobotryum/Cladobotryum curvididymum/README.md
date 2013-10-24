@@ -1,5 +1,4 @@
-Cladobotryum curvididymum Matsush. SPECIES
-=======
+# Cladobotryum curvididymum Matsush. SPECIES
 
 #### Status
 ACCEPTED

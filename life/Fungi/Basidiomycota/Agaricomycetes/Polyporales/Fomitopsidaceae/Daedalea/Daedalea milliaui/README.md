@@ -1,5 +1,4 @@
-Daedalea milliaui Beeli SPECIES
-=======
+# Daedalea milliaui Beeli SPECIES
 
 #### Status
 ACCEPTED

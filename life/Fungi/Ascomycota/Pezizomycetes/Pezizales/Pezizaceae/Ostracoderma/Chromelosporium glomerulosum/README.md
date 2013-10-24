@@ -1,5 +1,4 @@
-Chromelosporium glomerulosum Sacc. SPECIES
-=======
+# Chromelosporium glomerulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

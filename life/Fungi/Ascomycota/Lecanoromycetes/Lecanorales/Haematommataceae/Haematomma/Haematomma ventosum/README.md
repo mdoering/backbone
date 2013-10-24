@@ -1,5 +1,4 @@
-Haematomma ventosum var. ventosum VARIETY
-=======
+# Haematomma ventosum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 33, fig. 54 (1852)
+null
 
 #### Original name
-Lichen ventosus L.
+null
 
 ### Remarks
 null

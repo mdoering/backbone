@@ -1,5 +1,4 @@
-Coprinopsis P. Karsten, 1881 GENUS
-=======
+# Coprinopsis P. Karsten, 1881 GENUS
 
 #### Status
 ACCEPTED

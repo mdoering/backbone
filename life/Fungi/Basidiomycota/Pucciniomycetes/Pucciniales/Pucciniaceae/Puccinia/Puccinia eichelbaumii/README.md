@@ -1,5 +1,4 @@
-Puccinia eichelbaumii Henn. SPECIES
-=======
+# Puccinia eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

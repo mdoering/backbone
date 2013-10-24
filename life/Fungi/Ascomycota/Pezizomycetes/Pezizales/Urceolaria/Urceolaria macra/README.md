@@ -1,5 +1,4 @@
-Urceolaria macra (Nyl.) Motyka SPECIES
-=======
+# Urceolaria macra (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

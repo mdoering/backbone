@@ -1,5 +1,4 @@
-Dialonectria tephrothele (Berk.) Cooke SPECIES
-=======
+# Dialonectria tephrothele (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

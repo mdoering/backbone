@@ -1,5 +1,4 @@
-Epithele horridula Rick SPECIES
-=======
+# Epithele horridula Rick SPECIES
 
 #### Status
 ACCEPTED

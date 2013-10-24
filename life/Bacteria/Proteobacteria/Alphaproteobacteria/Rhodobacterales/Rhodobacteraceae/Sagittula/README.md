@@ -1,5 +1,4 @@
-Sagittula Gonzalez et al., 1997 GENUS
-=======
+# Sagittula Gonzalez et al., 1997 GENUS
 
 #### Status
 ACCEPTED

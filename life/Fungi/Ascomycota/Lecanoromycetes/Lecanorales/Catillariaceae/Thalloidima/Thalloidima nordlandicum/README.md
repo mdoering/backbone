@@ -1,14 +1,13 @@
-Thalloidima nordlandica (Th. Fr.) Vain. SPECIES
-=======
+# Thalloidima nordlandicum (Th. Fr.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 53(1): 139 (1922)
 
 #### Original name
 Toninia nordlandica Th. Fr.

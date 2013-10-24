@@ -1,5 +1,4 @@
-Streptomyces carpaticus Maximova & Terekhova, 1986 SPECIES
-=======
+# Streptomyces carpaticus Maximova & Terekhova, 1986 SPECIES
 
 #### Status
 ACCEPTED

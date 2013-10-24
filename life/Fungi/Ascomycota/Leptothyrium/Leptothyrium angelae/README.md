@@ -1,5 +1,4 @@
-Leptothyrium angelae Sacc. SPECIES
-=======
+# Leptothyrium angelae Sacc. SPECIES
 
 #### Status
 ACCEPTED

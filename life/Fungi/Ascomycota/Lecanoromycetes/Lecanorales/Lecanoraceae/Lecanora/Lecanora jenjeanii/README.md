@@ -1,5 +1,4 @@
-Lecanora jenjeanii B. de Lesd. SPECIES
-=======
+# Lecanora jenjeanii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

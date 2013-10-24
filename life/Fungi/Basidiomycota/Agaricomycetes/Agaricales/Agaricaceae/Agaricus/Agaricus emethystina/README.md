@@ -1,5 +1,4 @@
-Agaricus emethystina Vahl SPECIES
-=======
+# Agaricus emethystina Vahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria euphorbiae Henn. SPECIES
-=======
+# Humaria euphorbiae Henn. SPECIES
 
 #### Status
 ACCEPTED

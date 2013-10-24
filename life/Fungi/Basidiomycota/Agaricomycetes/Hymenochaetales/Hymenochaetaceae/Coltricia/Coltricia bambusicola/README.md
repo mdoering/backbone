@@ -1,14 +1,13 @@
-Polyporus bambusicola Henn., 1901 SPECIES
-=======
+# Coltricia bambusicola (Henn.) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 326 (1901)
+Microscopy 32: 449 (1975)
 
 #### Original name
 Polyporus bambusicola Henn., 1901

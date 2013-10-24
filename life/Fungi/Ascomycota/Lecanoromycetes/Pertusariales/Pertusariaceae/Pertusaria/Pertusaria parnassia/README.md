@@ -1,5 +1,4 @@
-Pertusaria parnassia Vain. SPECIES
-=======
+# Pertusaria parnassia Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pterula vanderysti Henn. SPECIES
-=======
+# Pterula vanderystii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals de Musée du Congo, Botanique Série 5 2(2): 96 (1907)
 
 #### Original name
-Pterula vanderysti Henn.
+Pterula vanderystii Henn.
 
 ### Remarks
 null

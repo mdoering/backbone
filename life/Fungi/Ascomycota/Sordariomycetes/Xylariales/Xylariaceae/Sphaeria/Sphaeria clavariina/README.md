@@ -1,5 +1,4 @@
-Sphaeria clavariina Peck SPECIES
-=======
+# Sphaeria clavariina Peck SPECIES
 
 #### Status
 ACCEPTED

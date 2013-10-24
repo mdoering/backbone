@@ -1,5 +1,4 @@
-Otospora Oehl, J. Palenzuela & N. Ferrol GENUS
-=======
+# Otospora Oehl, J. Palenzuela & N. Ferrol GENUS
 
 #### Status
 ACCEPTED

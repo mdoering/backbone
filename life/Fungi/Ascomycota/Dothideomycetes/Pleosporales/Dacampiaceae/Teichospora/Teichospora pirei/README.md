@@ -1,5 +1,4 @@
-Teichospora pirei (Westend.) F. Lamb. SPECIES
-=======
+# Teichospora pirei (Westend.) F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

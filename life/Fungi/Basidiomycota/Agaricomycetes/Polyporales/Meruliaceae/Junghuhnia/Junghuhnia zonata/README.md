@@ -1,14 +1,13 @@
-Poria zonata Bres., 1925 SPECIES
-=======
+# Junghuhnia zonata (Bres.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 17(2): 77 (1925)
+Persoonia 7(1): 18 (1972)
 
 #### Original name
 Poria zonata Bres., 1925

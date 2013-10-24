@@ -1,5 +1,4 @@
-Spiroloculina krumbachi Wiesner, 1912 SPECIES
-=======
+# Spiroloculina krumbachi Wiesner, 1912 SPECIES
 
 #### Status
 ACCEPTED

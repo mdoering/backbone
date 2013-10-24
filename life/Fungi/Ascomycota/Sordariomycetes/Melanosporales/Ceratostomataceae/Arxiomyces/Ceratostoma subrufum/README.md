@@ -1,5 +1,4 @@
-Ceratostoma subrufum Ellis & Everh. SPECIES
-=======
+# Ceratostoma subrufum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon adustum Velen. SPECIES
-=======
+# Lycoperdon adustum Velen. SPECIES
 
 #### Status
 ACCEPTED

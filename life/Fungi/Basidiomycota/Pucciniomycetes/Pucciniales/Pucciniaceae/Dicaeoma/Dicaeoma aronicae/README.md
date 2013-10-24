@@ -1,5 +1,4 @@
-Dicaeoma aronicae (Magnus) Kuntze SPECIES
-=======
+# Dicaeoma aronicae (Magnus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

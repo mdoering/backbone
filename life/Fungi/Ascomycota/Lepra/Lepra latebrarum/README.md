@@ -1,5 +1,4 @@
-Lepra latebrarum (Ach.) Rabenh. SPECIES
-=======
+# Lepra latebrarum (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza cryptophila Humb. SPECIES
-=======
+# Peziza cryptophila Humb. SPECIES
 
 #### Status
 ACCEPTED

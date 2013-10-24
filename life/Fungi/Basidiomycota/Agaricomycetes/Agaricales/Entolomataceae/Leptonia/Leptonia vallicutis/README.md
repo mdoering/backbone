@@ -1,5 +1,4 @@
-Leptonia vallicutis Pegler SPECIES
-=======
+# Leptonia vallicutis Pegler SPECIES
 
 #### Status
 ACCEPTED

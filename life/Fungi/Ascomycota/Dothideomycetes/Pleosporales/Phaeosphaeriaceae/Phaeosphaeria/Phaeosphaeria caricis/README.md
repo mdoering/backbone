@@ -1,17 +1,16 @@
-Heptameria caricis (J. Schröt.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria caricis (J. Schröt.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 147 (1984)
 
 #### Original name
-null
+Leptosphaeria caricis J. Schröt.
 
 ### Remarks
 null

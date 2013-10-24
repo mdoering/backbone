@@ -1,5 +1,4 @@
-Didinium bosphoricum SPECIES
-=======
+# Didinium bosphoricum SPECIES
 
 #### Status
 ACCEPTED

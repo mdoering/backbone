@@ -1,5 +1,4 @@
-Cercosporella anemonis Baudy SPECIES
-=======
+# Cercosporella anemonis Baudy SPECIES
 
 #### Status
 ACCEPTED

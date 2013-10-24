@@ -1,5 +1,4 @@
-Homostegia adusta Fuckel, 1870 SPECIES
-=======
+# Homostegia adusta Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

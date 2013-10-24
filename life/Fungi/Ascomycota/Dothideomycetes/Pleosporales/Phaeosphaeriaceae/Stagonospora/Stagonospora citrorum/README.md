@@ -1,5 +1,4 @@
-Stagonospora citrorum Petr. SPECIES
-=======
+# Stagonospora citrorum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis ampla Hada, 1937 SPECIES
-=======
+# Tintinnopsis ampla Hada, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Swirenkoiamonas Skvortzov GENUS
-=======
+# Swirenkoiamonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

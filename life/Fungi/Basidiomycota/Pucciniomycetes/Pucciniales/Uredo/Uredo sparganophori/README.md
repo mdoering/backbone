@@ -1,5 +1,4 @@
-Uredo sparganophori Henn. SPECIES
-=======
+# Uredo sparganophori Henn. SPECIES
 
 #### Status
 ACCEPTED

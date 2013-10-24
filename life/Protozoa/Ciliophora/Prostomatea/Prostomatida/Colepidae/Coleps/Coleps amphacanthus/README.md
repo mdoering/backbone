@@ -1,8 +1,7 @@
-Cricocoleps amphacanthus (Ehrenberg, 1834) Diesing, 1866 SPECIES
-=======
+# Coleps amphacanthus Ehrenberg, 1834 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gasconyctus GENUS
-=======
+# Gasconyctus GENUS
 
 #### Status
 ACCEPTED

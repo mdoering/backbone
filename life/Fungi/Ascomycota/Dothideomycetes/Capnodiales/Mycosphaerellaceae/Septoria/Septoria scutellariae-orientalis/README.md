@@ -1,17 +1,16 @@
-Septoria scutellariae-orientilis Lobik SPECIES
-=======
+# Septoria scutellariae-orientalis Lobik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bolezni rastenii 17(3-4): 183 (1928)
 
 #### Original name
-Septoria scutellariae-orientilis Lobik
+Septoria scutellariae-orientalis Lobik
 
 ### Remarks
 null

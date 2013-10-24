@@ -1,5 +1,4 @@
-Cercophora sulphurella (Sacc.) R. Hilber, 1979 SPECIES
-=======
+# Cercophora sulphurella (Sacc.) R. Hilber, 1979 SPECIES
 
 #### Status
 ACCEPTED

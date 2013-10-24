@@ -1,5 +1,4 @@
-Dermapteromyces Thaxt. GENUS
-=======
+# Dermapteromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpiscum foveolatum Jatta SPECIES
-=======
+# Endocarpiscum foveolatum Jatta SPECIES
 
 #### Status
 ACCEPTED

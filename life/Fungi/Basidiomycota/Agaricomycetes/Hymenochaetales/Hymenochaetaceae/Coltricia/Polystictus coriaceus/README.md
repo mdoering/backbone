@@ -1,5 +1,4 @@
-Polystictus coriaceus (Lév.) Cooke SPECIES
-=======
+# Polystictus coriaceus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

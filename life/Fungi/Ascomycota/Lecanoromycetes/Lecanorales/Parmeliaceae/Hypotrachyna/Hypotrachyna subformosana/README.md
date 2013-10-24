@@ -1,5 +1,4 @@
-Hypotrachyna subformosana Hale ex Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna subformosana Hale ex Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

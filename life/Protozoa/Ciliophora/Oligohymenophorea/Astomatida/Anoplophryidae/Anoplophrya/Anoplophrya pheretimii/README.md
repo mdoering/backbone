@@ -1,5 +1,4 @@
-Anoplophrya pheretimii SPECIES
-=======
+# Anoplophrya pheretimii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ecteinomyces bonariensis Speg. SPECIES
-=======
+# Ecteinomyces bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

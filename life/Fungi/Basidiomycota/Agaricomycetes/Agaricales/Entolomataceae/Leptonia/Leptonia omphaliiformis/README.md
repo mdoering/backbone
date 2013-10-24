@@ -1,5 +1,4 @@
-Leptonia omphaliiformis Velen. SPECIES
-=======
+# Leptonia omphaliiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

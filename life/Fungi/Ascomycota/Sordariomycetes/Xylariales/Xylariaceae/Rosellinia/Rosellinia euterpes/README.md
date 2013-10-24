@@ -1,5 +1,4 @@
-Rosellinia euterpes Rehm SPECIES
-=======
+# Rosellinia euterpes Rehm SPECIES
 
 #### Status
 ACCEPTED

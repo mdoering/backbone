@@ -1,14 +1,13 @@
-Scindalma philippii (Bres. & Henn. ex Sacc.) Kuntze, 1898 SPECIES
-=======
+# Ganoderma philippii (Bres. & Henn. ex Sacc.) Bres., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 519 (1898)
+Iconogr. Mycol. 21: tab. 1014 (1932)
 
 #### Original name
 Fomes philippii Bres. & Henn. ex Sacc., 1891

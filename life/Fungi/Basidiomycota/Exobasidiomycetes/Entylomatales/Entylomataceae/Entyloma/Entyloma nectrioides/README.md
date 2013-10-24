@@ -1,5 +1,4 @@
-Entyloma nectrioides Speg. SPECIES
-=======
+# Entyloma nectrioides Speg. SPECIES
 
 #### Status
 ACCEPTED

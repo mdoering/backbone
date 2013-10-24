@@ -1,5 +1,4 @@
-Calvatia oblongispora V.L. Suárez, J.E. Wright & Calonge SPECIES
-=======
+# Calvatia oblongispora V.L. Suárez, J.E. Wright & Calonge SPECIES
 
 #### Status
 ACCEPTED

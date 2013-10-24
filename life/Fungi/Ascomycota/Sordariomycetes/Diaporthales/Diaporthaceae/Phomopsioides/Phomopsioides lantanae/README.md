@@ -1,5 +1,4 @@
-Phomopsioides lantanae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsioides lantanae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

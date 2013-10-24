@@ -1,5 +1,4 @@
-Uredo plucheae Syd. & P. Syd. SPECIES
-=======
+# Uredo plucheae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

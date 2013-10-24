@@ -1,5 +1,4 @@
-Collybia demangei Pat. SPECIES
-=======
+# Collybia demangei Pat. SPECIES
 
 #### Status
 ACCEPTED

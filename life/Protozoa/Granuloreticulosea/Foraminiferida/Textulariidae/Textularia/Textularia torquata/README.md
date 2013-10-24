@@ -1,5 +1,4 @@
-Textularia torquata Parker, 1952 SPECIES
-=======
+# Textularia torquata Parker, 1952 SPECIES
 
 #### Status
 ACCEPTED

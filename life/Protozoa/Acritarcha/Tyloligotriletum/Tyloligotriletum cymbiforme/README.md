@@ -1,5 +1,4 @@
-Tyloligotriletum cymbiforme Timofeev, 1959 SPECIES
-=======
+# Tyloligotriletum cymbiforme Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsella bermudezi Furrazola-Bermudez, 1965 SPECIES
-=======
+# Tintinnopsella bermudezi Furrazola-Bermudez, 1965 SPECIES
 
 #### Status
 ACCEPTED

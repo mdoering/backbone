@@ -1,5 +1,4 @@
-Ophioparma rubricosa (Müll. Arg.) S. Ekman SPECIES
-=======
+# Ophioparma rubricosa (Müll. Arg.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

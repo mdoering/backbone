@@ -1,5 +1,4 @@
-Helotium geiphilum Velen. SPECIES
-=======
+# Helotium geiphilum Velen. SPECIES
 
 #### Status
 ACCEPTED

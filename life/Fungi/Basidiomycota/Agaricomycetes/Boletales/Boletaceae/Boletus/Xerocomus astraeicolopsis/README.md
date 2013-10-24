@@ -1,5 +1,4 @@
-Xerocomus astraeicolopsis J.Z. Ying & M.Q. Wang SPECIES
-=======
+# Xerocomus astraeicolopsis J.Z. Ying & M.Q. Wang SPECIES
 
 #### Status
 ACCEPTED

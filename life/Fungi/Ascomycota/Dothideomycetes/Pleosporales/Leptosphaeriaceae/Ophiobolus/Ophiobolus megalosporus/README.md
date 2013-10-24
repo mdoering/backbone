@@ -1,5 +1,4 @@
-Ophiobolus megalosporus (Auersw. & Niessl) Shoemaker SPECIES
-=======
+# Ophiobolus megalosporus (Auersw. & Niessl) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

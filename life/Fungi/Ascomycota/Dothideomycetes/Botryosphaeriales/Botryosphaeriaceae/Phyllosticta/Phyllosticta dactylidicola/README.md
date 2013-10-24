@@ -1,5 +1,4 @@
-Phyllosticta dactylidicola Melnik SPECIES
-=======
+# Phyllosticta dactylidicola Melnik SPECIES
 
 #### Status
 ACCEPTED

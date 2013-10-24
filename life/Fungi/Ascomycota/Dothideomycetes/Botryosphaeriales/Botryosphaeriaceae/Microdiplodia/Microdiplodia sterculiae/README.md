@@ -1,5 +1,4 @@
-Microdiplodia sterculiae (Tassi) Tassi SPECIES
-=======
+# Microdiplodia sterculiae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Calonectria colhounii var. colhounii Peerally VARIETY
-=======
+# Calonectria colhounii Peerally, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 46: 220 (1993)
+Trans. Br. mycol. Soc. 61(1): 92 (1973)
 
 #### Original name
-Calonectria colhounii var. colhounii Peerally
+Calonectria colhounii Peerally, 1973
 
 ### Remarks
 null

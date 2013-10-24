@@ -1,5 +1,4 @@
-Coccidioides roseum Bat., H. Maia, S.K. Shome & Oliveira SPECIES
-=======
+# Coccidioides roseum Bat., H. Maia, S.K. Shome & Oliveira SPECIES
 
 #### Status
 ACCEPTED

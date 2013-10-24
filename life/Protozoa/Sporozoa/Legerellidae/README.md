@@ -1,5 +1,4 @@
-Legerellidae FAMILY
-=======
+# Legerellidae FAMILY
 
 #### Status
 ACCEPTED

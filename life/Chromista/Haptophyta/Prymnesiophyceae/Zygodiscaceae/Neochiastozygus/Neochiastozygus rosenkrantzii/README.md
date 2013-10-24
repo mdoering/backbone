@@ -1,5 +1,4 @@
-Neochiastozygus rosenkrantzii Perch-Nielsen, 1971 SPECIES
-=======
+# Neochiastozygus rosenkrantzii Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria strasseri Rehm SPECIES
-=======
+# Nectria strasseri Rehm SPECIES
 
 #### Status
 ACCEPTED

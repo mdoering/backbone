@@ -1,5 +1,4 @@
-Paraleptonia scabrulosa Largent SPECIES
-=======
+# Paraleptonia scabrulosa Largent SPECIES
 
 #### Status
 ACCEPTED

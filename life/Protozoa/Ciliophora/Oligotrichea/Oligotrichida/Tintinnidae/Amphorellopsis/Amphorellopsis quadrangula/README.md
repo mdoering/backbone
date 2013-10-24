@@ -1,5 +1,4 @@
-Amphorellopsis quadrangula Kofoid & Campbell, 1929 SPECIES
-=======
+# Amphorellopsis quadrangula Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

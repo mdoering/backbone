@@ -1,5 +1,4 @@
-Leucoagaricus mexicanus Guzmán SPECIES
-=======
+# Leucoagaricus mexicanus Guzmán SPECIES
 
 #### Status
 ACCEPTED

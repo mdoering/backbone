@@ -1,5 +1,4 @@
-Heterosporium galii Fautrey & Roum. SPECIES
-=======
+# Heterosporium galii Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telamonia major SPECIES
-=======
+# Telamonia major SPECIES
 
 #### Status
 ACCEPTED

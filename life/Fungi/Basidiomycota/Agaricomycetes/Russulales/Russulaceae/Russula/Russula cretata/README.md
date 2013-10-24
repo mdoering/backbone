@@ -1,5 +1,4 @@
-Russula cretata Romagn. SPECIES
-=======
+# Russula cretata Romagn. SPECIES
 
 #### Status
 ACCEPTED

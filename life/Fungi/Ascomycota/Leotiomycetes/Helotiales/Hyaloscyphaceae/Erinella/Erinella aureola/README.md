@@ -1,5 +1,4 @@
-Erinella aureola (Sacc.) Quél. SPECIES
-=======
+# Erinella aureola (Sacc.) Quél. SPECIES
 
 #### Status
 ACCEPTED

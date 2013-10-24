@@ -1,5 +1,4 @@
-Armillaria tympanitica Berk. & M.A. Curtis SPECIES
-=======
+# Armillaria tympanitica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

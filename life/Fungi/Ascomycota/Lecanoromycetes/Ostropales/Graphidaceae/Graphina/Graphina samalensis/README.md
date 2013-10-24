@@ -1,5 +1,4 @@
-Graphina samalensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina samalensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena exilis Aronsen & Gulden SPECIES
-=======
+# Mycena exilis Aronsen & Gulden SPECIES
 
 #### Status
 ACCEPTED

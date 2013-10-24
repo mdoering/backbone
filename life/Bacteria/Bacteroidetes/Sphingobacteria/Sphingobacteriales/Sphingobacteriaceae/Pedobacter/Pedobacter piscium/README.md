@@ -1,8 +1,7 @@
-Sphingobacterium piscium Takeuchi & Yokota, 1993 SPECIES
-=======
+# Pedobacter piscium (Takeuchi & Yokota, 1993) Steyn et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

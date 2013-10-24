@@ -1,5 +1,4 @@
-Maryna Gruber, 1879 GENUS
-=======
+# Maryna Gruber, 1879 GENUS
 
 #### Status
 ACCEPTED

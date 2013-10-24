@@ -1,5 +1,4 @@
-Wrightoporia casuarinicola Y.C. Dai & B.K. Cui SPECIES
-=======
+# Wrightoporia casuarinicola Y.C. Dai & B.K. Cui SPECIES
 
 #### Status
 ACCEPTED

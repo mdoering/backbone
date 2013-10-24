@@ -1,5 +1,4 @@
-Islandinium brevispinosum Pospelova & Head SPECIES
-=======
+# Islandinium brevispinosum Pospelova & Head SPECIES
 
 #### Status
 ACCEPTED

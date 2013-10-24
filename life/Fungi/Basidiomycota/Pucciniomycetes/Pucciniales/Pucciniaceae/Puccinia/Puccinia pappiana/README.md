@@ -1,5 +1,4 @@
-Puccinia pappiana Syd. & P. Syd. SPECIES
-=======
+# Puccinia pappiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

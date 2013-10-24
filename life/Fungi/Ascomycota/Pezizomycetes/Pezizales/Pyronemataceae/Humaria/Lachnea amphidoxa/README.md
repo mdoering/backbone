@@ -1,5 +1,4 @@
-Lachnea amphidoxa Rehm SPECIES
-=======
+# Lachnea amphidoxa Rehm SPECIES
 
 #### Status
 ACCEPTED

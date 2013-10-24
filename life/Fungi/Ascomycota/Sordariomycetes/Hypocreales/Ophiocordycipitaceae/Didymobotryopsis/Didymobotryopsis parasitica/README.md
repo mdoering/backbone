@@ -1,5 +1,4 @@
-Didymobotryopsis parasitica Henn. SPECIES
-=======
+# Didymobotryopsis parasitica Henn. SPECIES
 
 #### Status
 ACCEPTED

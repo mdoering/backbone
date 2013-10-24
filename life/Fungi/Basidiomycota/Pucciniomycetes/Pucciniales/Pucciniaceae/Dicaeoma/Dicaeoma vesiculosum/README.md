@@ -1,5 +1,4 @@
-Dicaeoma vesiculosum (Schltdl.) Kuntze SPECIES
-=======
+# Dicaeoma vesiculosum (Schltdl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

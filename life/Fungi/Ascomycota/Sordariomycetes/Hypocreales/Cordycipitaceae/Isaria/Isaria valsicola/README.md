@@ -1,5 +1,4 @@
-Isaria valsicola Kirschst. SPECIES
-=======
+# Isaria valsicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

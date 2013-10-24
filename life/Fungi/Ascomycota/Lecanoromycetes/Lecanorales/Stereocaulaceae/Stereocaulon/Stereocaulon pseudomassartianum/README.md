@@ -1,5 +1,4 @@
-Stereocaulon pseudomassartianum I.M. Lamb SPECIES
-=======
+# Stereocaulon pseudomassartianum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

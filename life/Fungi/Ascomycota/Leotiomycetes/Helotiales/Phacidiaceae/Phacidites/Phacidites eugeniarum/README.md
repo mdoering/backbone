@@ -1,5 +1,4 @@
-Phacidites eugeniarum (Heer) Schimp. SPECIES
-=======
+# Phacidites eugeniarum (Heer) Schimp. SPECIES
 
 #### Status
 ACCEPTED

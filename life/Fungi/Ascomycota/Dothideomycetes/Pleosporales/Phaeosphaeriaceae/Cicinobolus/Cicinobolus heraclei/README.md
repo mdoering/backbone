@@ -1,8 +1,7 @@
-Cicinnobolus heraclei Dejeva SPECIES
-=======
+# Cicinobolus heraclei Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus heraclei Dejeva
+Cicinobolus heraclei Dejeva
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chorioactis geaster (Peck) Kupfer SPECIES
-=======
+# Chorioactis geaster (Peck) Kupfer SPECIES
 
 #### Status
 ACCEPTED

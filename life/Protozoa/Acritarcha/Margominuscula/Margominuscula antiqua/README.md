@@ -1,5 +1,4 @@
-Margominuscula antiqua Naumova, 1961 SPECIES
-=======
+# Margominuscula antiqua Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

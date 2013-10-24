@@ -1,14 +1,13 @@
-Hysterium biforme Fr., 1818 SPECIES
-=======
+# Gloniopsis biformis (Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 354 (1818)
+Syll. fung. (Abellini) 2: 773 (1883)
 
 #### Original name
 Hysterium biforme Fr., 1818

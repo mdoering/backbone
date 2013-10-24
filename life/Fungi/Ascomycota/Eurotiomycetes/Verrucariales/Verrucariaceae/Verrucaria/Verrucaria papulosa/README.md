@@ -1,5 +1,4 @@
-Verrucaria papulosa Nyl. SPECIES
-=======
+# Verrucaria papulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

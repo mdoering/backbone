@@ -1,5 +1,4 @@
-Arthonia plumbea Chevall. SPECIES
-=======
+# Arthonia plumbea Chevall. SPECIES
 
 #### Status
 ACCEPTED

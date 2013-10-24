@@ -1,5 +1,4 @@
-Aderkomyces lobulimarginatus Sipman & Lücking SPECIES
-=======
+# Aderkomyces lobulimarginatus Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

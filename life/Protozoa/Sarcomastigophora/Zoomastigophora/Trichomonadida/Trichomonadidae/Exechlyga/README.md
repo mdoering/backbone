@@ -1,5 +1,4 @@
-Exechlyga Stokes, 1884 GENUS
-=======
+# Exechlyga Stokes, 1884 GENUS
 
 #### Status
 ACCEPTED

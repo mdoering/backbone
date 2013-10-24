@@ -1,5 +1,4 @@
-Graphis scolecitis Tuck. SPECIES
-=======
+# Graphis scolecitis Tuck. SPECIES
 
 #### Status
 ACCEPTED

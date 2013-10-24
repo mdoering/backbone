@@ -1,5 +1,4 @@
-Gymnopus caryophilus Murrill SPECIES
-=======
+# Gymnopus caryophilus Murrill SPECIES
 
 #### Status
 ACCEPTED

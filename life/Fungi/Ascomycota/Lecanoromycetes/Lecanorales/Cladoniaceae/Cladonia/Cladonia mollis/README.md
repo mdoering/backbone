@@ -1,5 +1,4 @@
-Cladonia mollis Ahti & Sipman SPECIES
-=======
+# Cladonia mollis Ahti & Sipman SPECIES
 
 #### Status
 ACCEPTED

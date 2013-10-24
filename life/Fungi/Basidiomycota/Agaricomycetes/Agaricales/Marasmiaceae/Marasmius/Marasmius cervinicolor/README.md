@@ -1,5 +1,4 @@
-Marasmius cervinicolor Murrill SPECIES
-=======
+# Marasmius cervinicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

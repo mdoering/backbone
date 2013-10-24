@@ -1,5 +1,4 @@
-Cylindrosporium sesami Hansf. SPECIES
-=======
+# Cylindrosporium sesami Hansf. SPECIES
 
 #### Status
 ACCEPTED

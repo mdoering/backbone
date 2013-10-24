@@ -1,5 +1,4 @@
-Stropharia subcyanescens Rick SPECIES
-=======
+# Stropharia subcyanescens Rick SPECIES
 
 #### Status
 ACCEPTED

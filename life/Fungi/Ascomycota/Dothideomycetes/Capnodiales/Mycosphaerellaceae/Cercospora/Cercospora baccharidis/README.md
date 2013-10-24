@@ -1,5 +1,4 @@
-Cercospora baccharidis Ellis & Everh. SPECIES
-=======
+# Cercospora baccharidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

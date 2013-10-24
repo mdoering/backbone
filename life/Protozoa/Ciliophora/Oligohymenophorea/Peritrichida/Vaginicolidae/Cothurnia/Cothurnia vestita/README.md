@@ -1,5 +1,4 @@
-Cothurnia vestita Fromentel, 1876 SPECIES
-=======
+# Cothurnia vestita Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

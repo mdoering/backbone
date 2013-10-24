@@ -1,5 +1,4 @@
-Actinopeltis philodendri Bat. SPECIES
-=======
+# Actinopeltis philodendri Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma cirrhosum (Nees) Sacc. SPECIES
-=======
+# Lophiostoma cirrhosum (Nees) Sacc. SPECIES
 
 #### Status
 ACCEPTED

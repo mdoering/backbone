@@ -1,5 +1,4 @@
-Rhabdosphaera stylifer Lohmann SPECIES
-=======
+# Rhabdosphaera stylifer Lohmann SPECIES
 
 #### Status
 ACCEPTED

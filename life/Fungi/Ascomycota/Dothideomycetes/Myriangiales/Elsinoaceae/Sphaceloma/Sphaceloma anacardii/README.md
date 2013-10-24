@@ -1,5 +1,4 @@
-Sphaceloma anacardii Wani & Thirum., 1970 SPECIES
-=======
+# Sphaceloma anacardii Wani & Thirum., 1970 SPECIES
 
 #### Status
 ACCEPTED

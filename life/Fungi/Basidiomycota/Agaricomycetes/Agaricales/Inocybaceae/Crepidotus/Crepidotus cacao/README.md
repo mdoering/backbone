@@ -1,5 +1,4 @@
-Crepidotus cacao (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Crepidotus cacao (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

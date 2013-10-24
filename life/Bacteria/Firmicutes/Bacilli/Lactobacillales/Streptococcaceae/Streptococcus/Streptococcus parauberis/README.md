@@ -1,5 +1,4 @@
-Streptococcus parauberis Williams & Collins, 1990 SPECIES
-=======
+# Streptococcus parauberis Williams & Collins, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella tongariro (G. Cunn.) W.B. Cooke, 1961 SPECIES
-=======
+# Flagelloscypha tongariro (G. Cunn.) Agerer, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 80 (1961)
+Sydowia 32(1-6): 9 (1980)
 
 #### Original name
 Cyphella tongariro G. Cunn., 1953

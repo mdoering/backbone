@@ -1,5 +1,4 @@
-Haplodina alutacea SPECIES
-=======
+# Haplodina alutacea SPECIES
 
 #### Status
 ACCEPTED

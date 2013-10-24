@@ -1,5 +1,4 @@
-Pyrenula manhaviensis Zahlbr. SPECIES
-=======
+# Pyrenula manhaviensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

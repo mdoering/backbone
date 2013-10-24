@@ -1,5 +1,4 @@
-Gremmenia GENUS
-=======
+# Gremmenia GENUS
 
 #### Status
 ACCEPTED

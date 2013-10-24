@@ -1,5 +1,4 @@
-Graphina peralbata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina peralbata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela minor Øvstedal SPECIES
-=======
+# Tephromela minor Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Carlia hedericola (Desm.) Höhn., 1925 SPECIES
-=======
+# Mycosphaerella hedericola (Desm.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien, II 3: 91 (1925)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
-Sphaeria hedericola Desm., 1850
+Sphaeria hederaecola Desm.
 
 ### Remarks
 null

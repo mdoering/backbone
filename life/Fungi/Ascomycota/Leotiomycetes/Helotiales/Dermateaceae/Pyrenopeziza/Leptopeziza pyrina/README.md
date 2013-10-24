@@ -1,5 +1,4 @@
-Leptopeziza pyrina Henn. SPECIES
-=======
+# Leptopeziza pyrina Henn. SPECIES
 
 #### Status
 ACCEPTED

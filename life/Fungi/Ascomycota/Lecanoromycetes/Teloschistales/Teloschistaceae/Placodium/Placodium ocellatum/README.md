@@ -1,5 +1,4 @@
-Placodium ocellatum (Vill.) Link SPECIES
-=======
+# Placodium ocellatum (Vill.) Link SPECIES
 
 #### Status
 ACCEPTED

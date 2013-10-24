@@ -1,5 +1,4 @@
-Diplodina fraxini Allesch. SPECIES
-=======
+# Diplodina fraxini Allesch. SPECIES
 
 #### Status
 ACCEPTED

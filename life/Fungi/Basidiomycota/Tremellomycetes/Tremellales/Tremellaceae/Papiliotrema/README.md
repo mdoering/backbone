@@ -1,5 +1,4 @@
-Papiliotrema J.P. Samp., M. Weiss & R. Bauer GENUS
-=======
+# Papiliotrema J.P. Samp., M. Weiss & R. Bauer GENUS
 
 #### Status
 ACCEPTED

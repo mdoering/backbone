@@ -1,5 +1,4 @@
-Lecidea visianica (A. Massal.) Hue SPECIES
-=======
+# Lecidea visianica (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

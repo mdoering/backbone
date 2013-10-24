@@ -1,5 +1,4 @@
-Podoscypha bubalina D.A. Reid, 1965 SPECIES
-=======
+# Podoscypha bubalina D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

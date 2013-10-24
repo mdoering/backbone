@@ -1,5 +1,4 @@
-Pseudoperonospora elsholtziae D.Z. Tang SPECIES
-=======
+# Pseudoperonospora elsholtziae D.Z. Tang SPECIES
 
 #### Status
 ACCEPTED

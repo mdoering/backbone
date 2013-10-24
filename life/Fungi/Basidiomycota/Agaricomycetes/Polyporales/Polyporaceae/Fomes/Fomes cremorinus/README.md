@@ -1,5 +1,4 @@
-Fomes cremorinus (Ces.) Sacc. SPECIES
-=======
+# Fomes cremorinus (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia incolorata (Parrique) Lettau SPECIES
-=======
+# Parmelia incolorata (Parrique) Lettau SPECIES
 
 #### Status
 ACCEPTED

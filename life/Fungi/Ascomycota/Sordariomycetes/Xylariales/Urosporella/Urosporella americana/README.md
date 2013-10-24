@@ -1,5 +1,4 @@
-Urosporella americana G.F. Atk., 1897 SPECIES
-=======
+# Urosporella americana G.F. Atk., 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora delibuta (Ach.) Nyl. SPECIES
-=======
+# Lecanora delibuta (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

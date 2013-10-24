@@ -1,5 +1,4 @@
-Phacus meson Pochmann SPECIES
-=======
+# Phacus meson Pochmann SPECIES
 
 #### Status
 ACCEPTED

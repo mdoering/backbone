@@ -1,5 +1,4 @@
-Cyathus pygmaeus Lloyd, 1906 SPECIES
-=======
+# Cyathus pygmaeus Lloyd, 1906 SPECIES
 
 #### Status
 ACCEPTED

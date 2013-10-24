@@ -1,5 +1,4 @@
-Parmotrema pseudeunetum Sérus. SPECIES
-=======
+# Parmotrema pseudeunetum Sérus. SPECIES
 
 #### Status
 ACCEPTED

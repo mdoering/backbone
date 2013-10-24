@@ -1,5 +1,4 @@
-Sphacelotheca tragi Savul. SPECIES
-=======
+# Sphacelotheca tragi Savul. SPECIES
 
 #### Status
 ACCEPTED

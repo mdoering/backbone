@@ -1,5 +1,4 @@
-Auliscus nebulosus Greville SPECIES
-=======
+# Auliscus nebulosus Greville SPECIES
 
 #### Status
 ACCEPTED

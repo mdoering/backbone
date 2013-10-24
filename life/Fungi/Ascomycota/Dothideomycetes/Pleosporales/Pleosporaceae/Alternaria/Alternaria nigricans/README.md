@@ -1,5 +1,4 @@
-Alternaria nigricans (G.F. Atk.) Cif. SPECIES
-=======
+# Alternaria nigricans (G.F. Atk.) Cif. SPECIES
 
 #### Status
 ACCEPTED

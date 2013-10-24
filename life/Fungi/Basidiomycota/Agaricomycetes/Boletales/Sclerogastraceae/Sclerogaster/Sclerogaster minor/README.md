@@ -1,5 +1,4 @@
-Sclerogaster minor Coker & Couch, 1928 SPECIES
-=======
+# Sclerogaster minor Coker & Couch, 1928 SPECIES
 
 #### Status
 ACCEPTED

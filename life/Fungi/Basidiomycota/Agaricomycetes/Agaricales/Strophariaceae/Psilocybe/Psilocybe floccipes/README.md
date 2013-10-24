@@ -1,5 +1,4 @@
-Psilocybe floccipes Kill. SPECIES
-=======
+# Psilocybe floccipes Kill. SPECIES
 
 #### Status
 ACCEPTED

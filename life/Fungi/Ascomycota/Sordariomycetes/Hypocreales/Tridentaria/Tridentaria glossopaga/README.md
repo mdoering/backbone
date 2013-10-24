@@ -1,5 +1,4 @@
-Tridentaria glossopaga Drechsler, 1962 SPECIES
-=======
+# Tridentaria glossopaga Drechsler, 1962 SPECIES
 
 #### Status
 ACCEPTED

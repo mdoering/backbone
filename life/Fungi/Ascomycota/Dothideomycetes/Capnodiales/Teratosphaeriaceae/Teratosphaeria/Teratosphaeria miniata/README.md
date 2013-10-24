@@ -1,5 +1,4 @@
-Teratosphaeria miniata Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria miniata Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

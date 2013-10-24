@@ -1,14 +1,13 @@
-Dactylella lobata Dudd., 1951 SPECIES
-=======
+# Gamsylella lobata (Dudd.) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 34: 489 (1951)
+Sydowia 51(1): 108 (1999)
 
 #### Original name
 Dactylella lobata Dudd., 1951

@@ -1,5 +1,4 @@
-Laminariocolax draparnaldioides Noda SPECIES
-=======
+# Laminariocolax draparnaldioides Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riccoa GENUS
-=======
+# Riccoa GENUS
 
 #### Status
 ACCEPTED

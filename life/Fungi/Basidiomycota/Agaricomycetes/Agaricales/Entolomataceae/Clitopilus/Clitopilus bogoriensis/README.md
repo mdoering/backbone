@@ -1,5 +1,4 @@
-Clitopilus bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Clitopilus bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria papillula Sacc. & Roum. SPECIES
-=======
+# Aposphaeria papillula Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

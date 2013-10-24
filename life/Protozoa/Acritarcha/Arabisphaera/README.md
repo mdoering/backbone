@@ -1,5 +1,4 @@
-Arabisphaera Hemer & Nygreen GENUS
-=======
+# Arabisphaera Hemer & Nygreen GENUS
 
 #### Status
 ACCEPTED

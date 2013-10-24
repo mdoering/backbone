@@ -1,5 +1,4 @@
-Mycovellosiella rosea (G. Winter) U. Braun SPECIES
-=======
+# Mycovellosiella rosea (G. Winter) U. Braun SPECIES
 
 #### Status
 ACCEPTED

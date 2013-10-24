@@ -1,5 +1,4 @@
-Lopadium rubicundulum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium rubicundulum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

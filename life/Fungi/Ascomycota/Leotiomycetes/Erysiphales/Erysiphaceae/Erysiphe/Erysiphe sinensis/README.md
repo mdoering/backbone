@@ -1,5 +1,4 @@
-Erysiphe sinensis (F.L. Tai & C.T. Wei) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe sinensis (F.L. Tai & C.T. Wei) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

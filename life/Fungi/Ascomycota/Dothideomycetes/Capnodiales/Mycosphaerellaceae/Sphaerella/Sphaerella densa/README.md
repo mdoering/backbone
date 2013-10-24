@@ -1,5 +1,4 @@
-Sphaerella densa Rostr. SPECIES
-=======
+# Sphaerella densa Rostr. SPECIES
 
 #### Status
 ACCEPTED

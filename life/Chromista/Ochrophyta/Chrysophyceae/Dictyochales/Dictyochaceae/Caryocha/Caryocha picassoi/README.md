@@ -1,5 +1,4 @@
-Caryocha picassoi (H. Stradner) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha picassoi (H. Stradner) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

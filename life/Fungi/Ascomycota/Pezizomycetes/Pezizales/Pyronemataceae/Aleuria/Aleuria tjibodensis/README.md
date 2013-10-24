@@ -1,5 +1,4 @@
-Aleuria tjibodensis Henn. SPECIES
-=======
+# Aleuria tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

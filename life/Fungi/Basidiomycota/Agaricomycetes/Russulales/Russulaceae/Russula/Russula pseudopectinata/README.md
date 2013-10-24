@@ -1,5 +1,4 @@
-Russula pseudopectinata Henn. SPECIES
-=======
+# Russula pseudopectinata Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia equalis Hale SPECIES
-=======
+# Xanthoparmelia equalis Hale SPECIES
 
 #### Status
 ACCEPTED

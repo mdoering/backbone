@@ -1,5 +1,4 @@
-Boletus semitarius Corner SPECIES
-=======
+# Boletus semitarius Corner SPECIES
 
 #### Status
 ACCEPTED

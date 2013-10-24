@@ -1,5 +1,4 @@
-Streptoverticillium cinnamoneum (Benedict et al., 1952) Baldacci et al., 1966 SPECIES
-=======
+# Streptoverticillium cinnamoneum (Benedict et al., 1952) Baldacci et al., 1966 SPECIES
 
 #### Status
 ACCEPTED

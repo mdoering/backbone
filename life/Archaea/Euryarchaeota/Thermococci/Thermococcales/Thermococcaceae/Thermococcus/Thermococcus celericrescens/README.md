@@ -1,5 +1,4 @@
-Thermococcus celericrescens Kuwabara, Minaba, Ogi & Kamekura, 2007 SPECIES
-=======
+# Thermococcus celericrescens Kuwabara, Minaba, Ogi & Kamekura, 2007 SPECIES
 
 #### Status
 ACCEPTED

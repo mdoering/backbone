@@ -1,5 +1,4 @@
-Cryptosporium oxyspermum Schulzer & Sacc. SPECIES
-=======
+# Cryptosporium oxyspermum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

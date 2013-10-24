@@ -1,5 +1,4 @@
-Puccinia bidentis Dietel & Holw. SPECIES
-=======
+# Puccinia bidentis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

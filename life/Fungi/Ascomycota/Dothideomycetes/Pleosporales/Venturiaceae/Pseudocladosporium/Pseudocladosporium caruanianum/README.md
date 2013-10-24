@@ -1,5 +1,4 @@
-Pseudocladosporium caruanianum (Sacc.) U. Braun SPECIES
-=======
+# Pseudocladosporium caruanianum (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

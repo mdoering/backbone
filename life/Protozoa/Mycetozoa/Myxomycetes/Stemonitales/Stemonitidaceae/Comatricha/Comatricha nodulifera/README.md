@@ -1,5 +1,4 @@
-Comatricha nodulifera Wollman & Alexop., 1968 SPECIES
-=======
+# Comatricha nodulifera Wollman & Alexop., 1968 SPECIES
 
 #### Status
 ACCEPTED

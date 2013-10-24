@@ -1,5 +1,4 @@
-Aspicilia dudinensis (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia dudinensis (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

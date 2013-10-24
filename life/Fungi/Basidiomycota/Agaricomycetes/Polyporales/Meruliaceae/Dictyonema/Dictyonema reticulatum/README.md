@@ -1,5 +1,4 @@
-Dictyonema reticulatum (Berk.) Zahlbr. SPECIES
-=======
+# Dictyonema reticulatum (Berk.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

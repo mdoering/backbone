@@ -1,5 +1,4 @@
-Isipinga contorta Doidge SPECIES
-=======
+# Isipinga contorta Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum crateriforme (Hudelo, Sartory & Montl.) Vuill. SPECIES
-=======
+# Sporotrichum crateriforme (Hudelo, Sartory & Montl.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prymnesium calathiferum Chang & Ryan SPECIES
-=======
+# Prymnesium calathiferum Chang & Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aranidium delicatum Fombella, 1979 SPECIES
-=======
+# Aranidium delicatum Fombella, 1979 SPECIES
 
 #### Status
 ACCEPTED

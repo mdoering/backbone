@@ -1,5 +1,4 @@
-Elachista meridionalis Skottsberg SPECIES
-=======
+# Elachista meridionalis Skottsberg SPECIES
 
 #### Status
 ACCEPTED

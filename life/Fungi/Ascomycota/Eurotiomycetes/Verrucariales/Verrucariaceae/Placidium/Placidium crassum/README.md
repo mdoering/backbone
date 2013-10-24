@@ -1,5 +1,4 @@
-Placidium crassum (Anzi) Szatala SPECIES
-=======
+# Placidium crassum (Anzi) Szatala SPECIES
 
 #### Status
 ACCEPTED

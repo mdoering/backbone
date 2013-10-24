@@ -1,5 +1,4 @@
-Cortinarius phrygianus Fr. SPECIES
-=======
+# Cortinarius phrygianus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria bucera (Cooke & Ellis) Sacc. SPECIES
-=======
+# Metasphaeria bucera (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

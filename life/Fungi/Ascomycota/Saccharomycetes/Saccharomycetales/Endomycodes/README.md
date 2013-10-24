@@ -1,5 +1,4 @@
-Endomycodes Delitsch GENUS
-=======
+# Endomycodes Delitsch GENUS
 
 #### Status
 ACCEPTED

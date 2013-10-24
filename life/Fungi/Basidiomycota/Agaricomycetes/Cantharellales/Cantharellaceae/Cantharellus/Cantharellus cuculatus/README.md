@@ -1,5 +1,4 @@
-Cantharellus cuculatus Duby SPECIES
-=======
+# Cantharellus cuculatus Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgo triloculina SPECIES
-=======
+# Pyrgo triloculina SPECIES
 
 #### Status
 ACCEPTED

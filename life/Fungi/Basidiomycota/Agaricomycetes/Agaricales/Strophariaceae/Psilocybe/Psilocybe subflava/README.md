@@ -1,5 +1,4 @@
-Psilocybe subflava Herp. SPECIES
-=======
+# Psilocybe subflava Herp. SPECIES
 
 #### Status
 ACCEPTED

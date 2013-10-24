@@ -1,5 +1,4 @@
-Heinemannomyces Watling GENUS
-=======
+# Heinemannomyces Watling GENUS
 
 #### Status
 ACCEPTED

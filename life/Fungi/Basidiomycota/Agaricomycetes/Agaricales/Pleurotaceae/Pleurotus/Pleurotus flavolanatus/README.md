@@ -1,5 +1,4 @@
-Pleurotus flavolanatus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus flavolanatus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

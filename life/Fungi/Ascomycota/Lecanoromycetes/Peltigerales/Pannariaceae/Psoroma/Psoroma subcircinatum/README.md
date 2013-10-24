@@ -1,5 +1,4 @@
-Psoroma subcircinatum (Nyl.) Flagey SPECIES
-=======
+# Psoroma subcircinatum (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

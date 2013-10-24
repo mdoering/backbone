@@ -1,5 +1,4 @@
-Peziza hypodermia DC. SPECIES
-=======
+# Peziza hypodermia DC. SPECIES
 
 #### Status
 ACCEPTED

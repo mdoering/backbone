@@ -1,5 +1,4 @@
-Diplodina taxi Hollós SPECIES
-=======
+# Diplodina taxi Hollós SPECIES
 
 #### Status
 ACCEPTED

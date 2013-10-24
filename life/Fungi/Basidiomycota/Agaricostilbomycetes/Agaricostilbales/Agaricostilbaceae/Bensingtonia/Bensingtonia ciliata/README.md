@@ -1,5 +1,4 @@
-Bensingtonia ciliata Ingold, 1986 SPECIES
-=======
+# Bensingtonia ciliata Ingold, 1986 SPECIES
 
 #### Status
 ACCEPTED

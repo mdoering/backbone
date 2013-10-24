@@ -1,5 +1,4 @@
-Meliola samarensis H.S. Yates SPECIES
-=======
+# Meliola samarensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

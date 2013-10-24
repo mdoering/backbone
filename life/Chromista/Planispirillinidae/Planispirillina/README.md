@@ -1,5 +1,4 @@
-Planispirillina Bermudez, 1952 GENUS
-=======
+# Planispirillina Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

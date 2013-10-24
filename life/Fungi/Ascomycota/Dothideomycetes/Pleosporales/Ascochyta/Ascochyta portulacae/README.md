@@ -1,5 +1,4 @@
-Ascochyta portulacae Shirn.-Grish. SPECIES
-=======
+# Ascochyta portulacae Shirn.-Grish. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium aequabile Svilv. SPECIES
-=======
+# Penicillium aequabile Svilv. SPECIES
 
 #### Status
 ACCEPTED

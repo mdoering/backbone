@@ -1,5 +1,4 @@
-Olpidium pendulum Zopf, 1890 SPECIES
-=======
+# Olpidium pendulum Zopf, 1890 SPECIES
 
 #### Status
 ACCEPTED

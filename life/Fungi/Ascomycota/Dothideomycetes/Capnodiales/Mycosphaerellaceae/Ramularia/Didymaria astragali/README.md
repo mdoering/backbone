@@ -1,5 +1,4 @@
-Didymaria astragali N.P. Golovina SPECIES
-=======
+# Didymaria astragali N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria spectabilis Fr. SPECIES
-=======
+# Sphaeria spectabilis Fr. SPECIES
 
 #### Status
 ACCEPTED

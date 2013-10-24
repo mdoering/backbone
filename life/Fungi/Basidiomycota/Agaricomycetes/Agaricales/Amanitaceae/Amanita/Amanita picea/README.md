@@ -1,5 +1,4 @@
-Amanita picea Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita picea Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

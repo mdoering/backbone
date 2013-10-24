@@ -1,5 +1,4 @@
-Puccinia hypochaeridis SPECIES
-=======
+# Puccinia hypochaeridis SPECIES
 
 #### Status
 ACCEPTED

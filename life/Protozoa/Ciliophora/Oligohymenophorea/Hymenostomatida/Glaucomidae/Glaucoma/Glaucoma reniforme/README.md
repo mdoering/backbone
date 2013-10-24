@@ -1,8 +1,7 @@
-Glaucoma reniformis Schewiakoff SPECIES
-=======
+# Glaucoma reniforme Schewiakoff, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Limnothrix guttulata (van Goor) I. Umezaki & M. Watanabe SPECIES
-=======
+# Limnothrix guttulata (van Goor) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

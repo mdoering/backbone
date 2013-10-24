@@ -1,5 +1,4 @@
-Sporisorium triplopogonis Vánky SPECIES
-=======
+# Sporisorium triplopogonis Vánky SPECIES
 
 #### Status
 ACCEPTED

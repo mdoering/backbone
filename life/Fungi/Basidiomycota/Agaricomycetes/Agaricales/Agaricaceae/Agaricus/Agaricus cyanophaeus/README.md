@@ -1,5 +1,4 @@
-Agaricus cyanophaeus Fr. SPECIES
-=======
+# Agaricus cyanophaeus Fr. SPECIES
 
 #### Status
 ACCEPTED

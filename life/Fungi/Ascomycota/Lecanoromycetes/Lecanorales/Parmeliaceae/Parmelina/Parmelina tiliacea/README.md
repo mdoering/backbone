@@ -1,17 +1,16 @@
-Parmelia scortea var. scortea VARIETY
-=======
+# Parmelina tiliacea (Hoffm.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 215 (1803)
+Phytologia 28(5): 481 (1974)
 
 #### Original name
-Parmelia scortea var. scortea
+Lichen tiliaceus Hoffm.
 
 ### Remarks
 null

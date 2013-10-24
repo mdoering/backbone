@@ -1,5 +1,4 @@
-Pseudoentodinium Wolska, 1986 GENUS
-=======
+# Pseudoentodinium Wolska, 1986 GENUS
 
 #### Status
 ACCEPTED

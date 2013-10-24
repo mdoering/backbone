@@ -1,5 +1,4 @@
-Verrucaria gagei Deakin SPECIES
-=======
+# Verrucaria gagei Deakin SPECIES
 
 #### Status
 ACCEPTED

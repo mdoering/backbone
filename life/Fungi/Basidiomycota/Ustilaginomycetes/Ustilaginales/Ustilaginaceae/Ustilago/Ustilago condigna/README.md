@@ -1,5 +1,4 @@
-Ustilago condigna Syd. SPECIES
-=======
+# Ustilago condigna Syd. SPECIES
 
 #### Status
 ACCEPTED

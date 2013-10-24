@@ -1,5 +1,4 @@
-Rinodina imitatrix Zahlbr. SPECIES
-=======
+# Rinodina imitatrix Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

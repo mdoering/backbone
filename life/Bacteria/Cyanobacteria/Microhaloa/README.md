@@ -1,5 +1,4 @@
-Microhaloa Kützing, 1843 GENUS
-=======
+# Microhaloa Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeocyphella ochroleuca (Berk. & Broome) Rea, 1922 SPECIES
-=======
+# Cellypha goldbachii (Weinm.) Donk, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 704 (1922)
+Persoonia 1(1): 85 (1959)
 
 #### Original name
-Cyphella ochroleuca Berk. & Broome, 1854
+Cyphella goldbachii Weinm., 1836
 
 ### Remarks
 null

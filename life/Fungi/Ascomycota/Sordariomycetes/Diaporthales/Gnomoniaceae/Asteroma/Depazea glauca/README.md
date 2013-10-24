@@ -1,5 +1,4 @@
-Depazea glauca Cooke SPECIES
-=======
+# Depazea glauca Cooke SPECIES
 
 #### Status
 ACCEPTED

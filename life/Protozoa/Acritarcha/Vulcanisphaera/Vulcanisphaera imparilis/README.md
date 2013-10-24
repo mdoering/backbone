@@ -1,5 +1,4 @@
-Vulcanisphaera imparilis Rasul, 1976 SPECIES
-=======
+# Vulcanisphaera imparilis Rasul, 1976 SPECIES
 
 #### Status
 ACCEPTED

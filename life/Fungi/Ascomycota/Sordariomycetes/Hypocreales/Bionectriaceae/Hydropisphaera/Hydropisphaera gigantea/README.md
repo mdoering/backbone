@@ -1,14 +1,13 @@
-Nectria gigantea (Speg.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Hydropisphaera gigantea (Speg.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 792 (1905)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 31 (1999)
 
 #### Original name
 Lasionectria gigantea Speg., 1902

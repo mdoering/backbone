@@ -1,5 +1,4 @@
-Dennisiodiscus sedi (E. Müll.) Svrcek SPECIES
-=======
+# Dennisiodiscus sedi (E. Müll.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

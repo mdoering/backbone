@@ -1,5 +1,4 @@
-Thoracella Oudemans, 1900 GENUS
-=======
+# Thoracella Oudemans, 1900 GENUS
 
 #### Status
 ACCEPTED

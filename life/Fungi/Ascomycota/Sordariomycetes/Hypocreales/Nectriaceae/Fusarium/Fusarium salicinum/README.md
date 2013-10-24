@@ -1,5 +1,4 @@
-Fusarium salicinum Corda SPECIES
-=======
+# Fusarium salicinum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegeritella superficialis Balazy & J. Wisn., 1974 SPECIES
-=======
+# Aegeritella superficialis Balazy & J. Wisn., 1974 SPECIES
 
 #### Status
 ACCEPTED

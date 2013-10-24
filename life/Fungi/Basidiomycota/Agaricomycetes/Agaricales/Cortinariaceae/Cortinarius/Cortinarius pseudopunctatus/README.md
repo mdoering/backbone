@@ -1,5 +1,4 @@
-Cortinarius pseudopunctatus J. Favre SPECIES
-=======
+# Cortinarius pseudopunctatus J. Favre SPECIES
 
 #### Status
 ACCEPTED

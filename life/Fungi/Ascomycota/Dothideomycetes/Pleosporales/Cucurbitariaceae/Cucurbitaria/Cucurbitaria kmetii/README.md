@@ -1,5 +1,4 @@
-Cucurbitaria kmetii Bäumler SPECIES
-=======
+# Cucurbitaria kmetii Bäumler SPECIES
 
 #### Status
 ACCEPTED

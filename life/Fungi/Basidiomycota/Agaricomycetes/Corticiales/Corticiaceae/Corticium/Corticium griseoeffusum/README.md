@@ -1,5 +1,4 @@
-Corticium griseoeffusum (M.J. Larsen & Gilb.) Ginns & M.N.L. Lefebvre, 1993 SPECIES
-=======
+# Corticium griseoeffusum (M.J. Larsen & Gilb.) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
 ACCEPTED

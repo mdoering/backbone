@@ -1,14 +1,13 @@
-Acanthocystis submastrucatus (Henn.) Singer SPECIES
-=======
+# Acanthocystis submastrucata (Henn.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
 Pleurotus submastrucatus Henn.

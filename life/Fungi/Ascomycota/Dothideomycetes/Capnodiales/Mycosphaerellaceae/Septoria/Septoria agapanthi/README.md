@@ -1,5 +1,4 @@
-Septoria agapanthi Punith. & Spooner SPECIES
-=======
+# Septoria agapanthi Punith. & Spooner SPECIES
 
 #### Status
 ACCEPTED

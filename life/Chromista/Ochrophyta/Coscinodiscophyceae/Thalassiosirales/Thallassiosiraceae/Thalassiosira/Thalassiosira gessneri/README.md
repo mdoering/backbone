@@ -1,5 +1,4 @@
-Thalassiosira gessneri Hustedt SPECIES
-=======
+# Thalassiosira gessneri Hustedt SPECIES
 
 #### Status
 ACCEPTED

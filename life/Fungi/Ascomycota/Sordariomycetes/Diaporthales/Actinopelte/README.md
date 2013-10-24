@@ -1,5 +1,4 @@
-Actinopelte GENUS
-=======
+# Actinopelte GENUS
 
 #### Status
 ACCEPTED

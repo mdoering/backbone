@@ -1,5 +1,4 @@
-Vestergrenia venezuelensis (Chardón & Toro) Arx & E. Müll. SPECIES
-=======
+# Vestergrenia venezuelensis (Chardón & Toro) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

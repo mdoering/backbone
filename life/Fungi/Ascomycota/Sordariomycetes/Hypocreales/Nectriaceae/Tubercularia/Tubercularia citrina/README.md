@@ -1,5 +1,4 @@
-Tubercularia citrina Speg. SPECIES
-=======
+# Tubercularia citrina Speg. SPECIES
 
 #### Status
 ACCEPTED

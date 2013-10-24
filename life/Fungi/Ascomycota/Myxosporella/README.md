@@ -1,5 +1,4 @@
-Myxosporella Sacc. GENUS
-=======
+# Myxosporella Sacc. GENUS
 
 #### Status
 ACCEPTED

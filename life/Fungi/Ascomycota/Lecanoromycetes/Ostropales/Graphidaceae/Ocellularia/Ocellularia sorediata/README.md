@@ -1,5 +1,4 @@
-Ocellularia sorediata Hale SPECIES
-=======
+# Ocellularia sorediata Hale SPECIES
 
 #### Status
 ACCEPTED

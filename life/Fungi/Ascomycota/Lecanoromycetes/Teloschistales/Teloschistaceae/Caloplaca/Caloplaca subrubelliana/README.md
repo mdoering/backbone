@@ -1,5 +1,4 @@
-Caloplaca subrubelliana (Vain.) Aptroot SPECIES
-=======
+# Caloplaca subrubelliana (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

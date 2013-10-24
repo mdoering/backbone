@@ -1,5 +1,4 @@
-Tympanis montanensis (Seaver) J.W. Groves SPECIES
-=======
+# Tympanis montanensis (Seaver) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

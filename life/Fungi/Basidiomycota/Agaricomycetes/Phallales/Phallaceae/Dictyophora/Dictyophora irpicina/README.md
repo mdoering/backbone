@@ -1,5 +1,4 @@
-Dictyophora irpicina Pat. SPECIES
-=======
+# Dictyophora irpicina Pat. SPECIES
 
 #### Status
 ACCEPTED

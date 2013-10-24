@@ -1,5 +1,4 @@
-Sphaeria fuscescens Schwein. SPECIES
-=======
+# Sphaeria fuscescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

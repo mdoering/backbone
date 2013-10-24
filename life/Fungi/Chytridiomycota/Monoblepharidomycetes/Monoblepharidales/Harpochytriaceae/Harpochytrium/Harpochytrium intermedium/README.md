@@ -1,5 +1,4 @@
-Harpochytrium intermedium G.F. Atk., 1903 SPECIES
-=======
+# Harpochytrium intermedium G.F. Atk., 1903 SPECIES
 
 #### Status
 ACCEPTED

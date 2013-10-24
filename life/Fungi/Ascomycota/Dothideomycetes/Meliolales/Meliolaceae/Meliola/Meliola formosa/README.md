@@ -1,5 +1,4 @@
-Meliola formosa Welw. & Curr. SPECIES
-=======
+# Meliola formosa Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

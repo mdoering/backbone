@@ -1,5 +1,4 @@
-Phalacroma prodictyum Stein SPECIES
-=======
+# Phalacroma prodictyum Stein SPECIES
 
 #### Status
 ACCEPTED

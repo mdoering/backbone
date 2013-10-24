@@ -1,5 +1,4 @@
-Dasyscyphus minutus anon. SPECIES
-=======
+# Dasyscyphus minutus anon. SPECIES
 
 #### Status
 ACCEPTED

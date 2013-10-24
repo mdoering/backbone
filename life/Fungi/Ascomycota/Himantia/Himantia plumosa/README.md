@@ -1,5 +1,4 @@
-Himantia plumosa Schumach. SPECIES
-=======
+# Himantia plumosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

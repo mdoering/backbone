@@ -1,5 +1,4 @@
-Phoma populi Peck SPECIES
-=======
+# Phoma populi Peck SPECIES
 
 #### Status
 ACCEPTED

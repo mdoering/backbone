@@ -1,5 +1,4 @@
-Buedingiisphaeridium incertum Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Buedingiisphaeridium incertum Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

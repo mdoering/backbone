@@ -1,5 +1,4 @@
-Meliola jatrophae var. jatrophae VARIETY
-=======
+# Meliola jatrophae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Illinois Biol. Monogr. (Urbana) 2(4): 516 (1916)
 
 #### Original name
-Meliola jatrophae var. jatrophae
+Meliola jatrophae F. Stevens
 
 ### Remarks
 null

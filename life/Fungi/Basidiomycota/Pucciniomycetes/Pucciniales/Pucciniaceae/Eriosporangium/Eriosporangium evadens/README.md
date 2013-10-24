@@ -1,5 +1,4 @@
-Eriosporangium evadens Arthur SPECIES
-=======
+# Eriosporangium evadens Arthur SPECIES
 
 #### Status
 ACCEPTED

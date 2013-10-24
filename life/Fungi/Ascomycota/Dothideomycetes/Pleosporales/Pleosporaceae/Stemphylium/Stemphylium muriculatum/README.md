@@ -1,5 +1,4 @@
-Stemphylium muriculatum Sacc. SPECIES
-=======
+# Stemphylium muriculatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

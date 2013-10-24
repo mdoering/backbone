@@ -1,5 +1,4 @@
-Legionella pittsburghensis Pasculle et al., 1980 SPECIES
-=======
+# Legionella pittsburghensis Pasculle et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

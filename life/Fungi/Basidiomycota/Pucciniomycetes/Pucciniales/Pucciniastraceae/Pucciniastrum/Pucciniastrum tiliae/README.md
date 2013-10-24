@@ -1,5 +1,4 @@
-Pucciniastrum tiliae Miyabe SPECIES
-=======
+# Pucciniastrum tiliae Miyabe SPECIES
 
 #### Status
 ACCEPTED

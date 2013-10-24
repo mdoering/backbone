@@ -1,5 +1,4 @@
-Acarospora trachytica Jatta SPECIES
-=======
+# Acarospora trachytica Jatta SPECIES
 
 #### Status
 ACCEPTED

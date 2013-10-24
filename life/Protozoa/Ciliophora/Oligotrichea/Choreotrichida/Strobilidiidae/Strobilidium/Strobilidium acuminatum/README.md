@@ -1,5 +1,4 @@
-Strobilidium acuminatum Faure-Fremiet, 1924 SPECIES
-=======
+# Strobilidium acuminatum Faure-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

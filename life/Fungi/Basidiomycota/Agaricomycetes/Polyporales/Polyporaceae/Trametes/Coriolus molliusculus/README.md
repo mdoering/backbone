@@ -1,5 +1,4 @@
-Coriolus molliusculus Murrill SPECIES
-=======
+# Coriolus molliusculus Murrill SPECIES
 
 #### Status
 ACCEPTED

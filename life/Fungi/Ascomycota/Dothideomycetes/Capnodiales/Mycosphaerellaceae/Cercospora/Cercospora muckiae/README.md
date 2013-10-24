@@ -1,5 +1,4 @@
-Cercospora muckiae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora muckiae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
 ACCEPTED

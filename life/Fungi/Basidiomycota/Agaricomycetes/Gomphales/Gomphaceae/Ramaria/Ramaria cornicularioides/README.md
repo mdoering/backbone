@@ -1,5 +1,4 @@
-Ramaria cornicularioides (Henn.) Corner SPECIES
-=======
+# Ramaria cornicularioides (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

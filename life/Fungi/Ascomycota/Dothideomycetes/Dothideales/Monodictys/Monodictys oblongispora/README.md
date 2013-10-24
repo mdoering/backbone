@@ -1,5 +1,4 @@
-Monodictys oblongispora G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Monodictys oblongispora G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

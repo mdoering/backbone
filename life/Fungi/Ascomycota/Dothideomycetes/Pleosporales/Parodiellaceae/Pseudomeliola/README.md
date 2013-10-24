@@ -1,5 +1,4 @@
-Pseudomeliola Speg. GENUS
-=======
+# Pseudomeliola Speg. GENUS
 
 #### Status
 ACCEPTED

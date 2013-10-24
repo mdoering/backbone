@@ -1,5 +1,4 @@
-Pyrenula stramineoatra Vain. SPECIES
-=======
+# Pyrenula stramineoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

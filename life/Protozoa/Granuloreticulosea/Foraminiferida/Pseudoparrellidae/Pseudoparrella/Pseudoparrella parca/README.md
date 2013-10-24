@@ -1,5 +1,4 @@
-Pseudoparrella parca Clark, 1994 SPECIES
-=======
+# Pseudoparrella parca Clark, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stirtonia amazonica Sambo SPECIES
-=======
+# Stirtonia amazonica Sambo SPECIES
 
 #### Status
 ACCEPTED

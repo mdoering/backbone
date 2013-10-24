@@ -1,17 +1,16 @@
-Rhizocarpon orphninum (Vain.) Zahlbr. SPECIES
-=======
+# Rhizocarpon reductum Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 633 (1874)
 
 #### Original name
-null
+Rhizocarpon reductum Th. Fr.
 
 ### Remarks
 null

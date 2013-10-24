@@ -1,5 +1,4 @@
-Placopsilina cenomana SPECIES
-=======
+# Placopsilina cenomana SPECIES
 
 #### Status
 ACCEPTED

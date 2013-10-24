@@ -1,5 +1,4 @@
-Cercospora roesleri f. roesleri FORM
-=======
+# Cercospora roesleri (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia (1874)
 
 #### Original name
-Cercospora roesleri f. roesleri
+Cladosporium roesleri Catt.
 
 ### Remarks
 null

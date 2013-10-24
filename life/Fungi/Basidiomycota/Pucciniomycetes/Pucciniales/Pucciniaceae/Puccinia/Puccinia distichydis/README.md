@@ -1,5 +1,4 @@
-Puccinia distichydis Ellis & Everh. SPECIES
-=======
+# Puccinia distichydis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

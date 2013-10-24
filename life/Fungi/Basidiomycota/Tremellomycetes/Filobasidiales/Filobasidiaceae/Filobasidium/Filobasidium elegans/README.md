@@ -1,5 +1,4 @@
-Filobasidium elegans Bandoni & Oberw. SPECIES
-=======
+# Filobasidium elegans Bandoni & Oberw. SPECIES
 
 #### Status
 ACCEPTED

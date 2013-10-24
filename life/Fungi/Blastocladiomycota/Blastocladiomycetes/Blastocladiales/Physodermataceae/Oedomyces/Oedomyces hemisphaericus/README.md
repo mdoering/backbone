@@ -1,5 +1,4 @@
-Oedomyces hemisphaericus Speg. SPECIES
-=======
+# Oedomyces hemisphaericus Speg. SPECIES
 
 #### Status
 ACCEPTED

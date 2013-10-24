@@ -1,5 +1,4 @@
-Terana versiformis (Fr.) Kuntze SPECIES
-=======
+# Terana versiformis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

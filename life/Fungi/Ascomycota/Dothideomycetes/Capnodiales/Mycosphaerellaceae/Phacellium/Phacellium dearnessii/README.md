@@ -1,5 +1,4 @@
-Phacellium dearnessii (Bubák) U. Braun SPECIES
-=======
+# Phacellium dearnessii (Bubák) U. Braun SPECIES
 
 #### Status
 ACCEPTED

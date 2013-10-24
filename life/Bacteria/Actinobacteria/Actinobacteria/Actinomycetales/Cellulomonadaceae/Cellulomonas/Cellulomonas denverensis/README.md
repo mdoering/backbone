@@ -1,5 +1,4 @@
-Cellulomonas denverensis Brown et al., 2005 SPECIES
-=======
+# Cellulomonas denverensis Brown et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

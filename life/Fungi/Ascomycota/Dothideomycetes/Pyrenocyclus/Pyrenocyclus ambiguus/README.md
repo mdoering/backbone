@@ -1,5 +1,4 @@
-Pyrenocyclus ambiguus Petr., 1955 SPECIES
-=======
+# Pyrenocyclus ambiguus Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

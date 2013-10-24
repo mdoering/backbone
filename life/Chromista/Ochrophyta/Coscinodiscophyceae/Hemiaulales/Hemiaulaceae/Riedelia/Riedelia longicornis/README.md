@@ -1,5 +1,4 @@
-Riedelia longicornis (Greville) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia longicornis (Greville) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

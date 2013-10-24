@@ -1,5 +1,4 @@
-Calycellina montana (Raitv.) Huhtinen SPECIES
-=======
+# Calycellina montana (Raitv.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

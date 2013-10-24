@@ -1,5 +1,4 @@
-Cystopus mikaniae Speg. SPECIES
-=======
+# Cystopus mikaniae Speg. SPECIES
 
 #### Status
 ACCEPTED

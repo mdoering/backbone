@@ -1,5 +1,4 @@
-Lentinus pectinatus (Schwein.) Fr. SPECIES
-=======
+# Lentinus pectinatus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

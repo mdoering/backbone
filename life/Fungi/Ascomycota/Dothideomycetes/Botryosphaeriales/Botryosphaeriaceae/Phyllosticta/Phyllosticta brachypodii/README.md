@@ -1,5 +1,4 @@
-Phyllosticta brachypodii var. brachypodii VARIETY
-=======
+# Phyllosticta brachypodii (Brunaud) Allesch. SPECIES
 
 #### Status
 ACCEPTED

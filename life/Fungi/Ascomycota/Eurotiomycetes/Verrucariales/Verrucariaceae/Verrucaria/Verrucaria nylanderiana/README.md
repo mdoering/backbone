@@ -1,5 +1,4 @@
-Verrucaria nylanderiana Servít SPECIES
-=======
+# Verrucaria nylanderiana Servít SPECIES
 
 #### Status
 ACCEPTED

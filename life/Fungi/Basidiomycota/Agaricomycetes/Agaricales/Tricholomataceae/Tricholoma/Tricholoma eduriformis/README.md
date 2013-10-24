@@ -1,5 +1,4 @@
-Tricholoma eduriformis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma eduriformis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

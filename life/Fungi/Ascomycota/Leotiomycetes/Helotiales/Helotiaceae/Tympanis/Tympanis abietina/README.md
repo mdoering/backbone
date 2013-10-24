@@ -1,5 +1,4 @@
-Tympanis abietina J.W. Groves, 1952 SPECIES
-=======
+# Tympanis abietina J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

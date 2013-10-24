@@ -1,5 +1,4 @@
-Chitonospora E. Bommer, M. Rousseau & Sacc. GENUS
-=======
+# Chitonospora E. Bommer, M. Rousseau & Sacc. GENUS
 
 #### Status
 ACCEPTED

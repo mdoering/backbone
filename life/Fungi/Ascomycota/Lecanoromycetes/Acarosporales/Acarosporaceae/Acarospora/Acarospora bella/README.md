@@ -1,5 +1,4 @@
-Acarospora bella (Nyl.) Jatta SPECIES
-=======
+# Acarospora bella (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

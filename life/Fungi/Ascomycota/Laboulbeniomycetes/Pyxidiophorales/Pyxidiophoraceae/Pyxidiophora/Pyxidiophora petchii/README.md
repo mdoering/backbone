@@ -1,14 +1,13 @@
-Mycorhynchus petchii Breton & Faurel, 1967 SPECIES
-=======
+# Pyxidiophora petchii (Breton & Faurel) N. Lundq., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 32: 244 (1967)
+Bot. Notiser 133(2): 141 (1980)
 
 #### Original name
 Mycorhynchus petchii Breton & Faurel, 1967

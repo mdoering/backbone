@@ -1,5 +1,4 @@
-Sphaceloma uberabense Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma uberabense Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

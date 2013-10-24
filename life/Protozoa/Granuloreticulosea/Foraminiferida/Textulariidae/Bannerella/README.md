@@ -1,5 +1,4 @@
-Bannerella Loeblich & Tappan, 1985 GENUS
-=======
+# Bannerella Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

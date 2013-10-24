@@ -1,5 +1,4 @@
-Saccharomyces luciae Zender SPECIES
-=======
+# Saccharomyces luciae Zender SPECIES
 
 #### Status
 ACCEPTED

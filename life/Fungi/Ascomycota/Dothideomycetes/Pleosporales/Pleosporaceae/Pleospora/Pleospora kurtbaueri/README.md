@@ -1,17 +1,16 @@
-Pleospora kurt-baueri Wechtl & Riedl SPECIES
-=======
+# Pleospora kurtbaueri Wechtl & Riedl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linzer biol. Beitr. 18(2): 393 (1986)
 
 #### Original name
-Pleospora kurt-baueri Wechtl & Riedl
+Pleospora kurtbaueri Wechtl & Riedl
 
 ### Remarks
 null

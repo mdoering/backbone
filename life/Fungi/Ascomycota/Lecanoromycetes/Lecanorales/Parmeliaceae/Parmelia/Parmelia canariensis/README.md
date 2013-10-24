@@ -1,5 +1,4 @@
-Parmelia canariensis (Ach.) Spreng. SPECIES
-=======
+# Parmelia canariensis (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

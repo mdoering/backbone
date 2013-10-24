@@ -1,5 +1,4 @@
-Barringtonella flabellosa (Stradner in Stradner et al., 1968) Black, 1973 SPECIES
-=======
+# Barringtonella flabellosa (Stradner in Stradner et al., 1968) Black, 1973 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Cephalosporium suspensum Balazy SPECIES
-=======
+# Cephalosporium suspensum Balazy SPECIES
 
 #### Status
 ACCEPTED

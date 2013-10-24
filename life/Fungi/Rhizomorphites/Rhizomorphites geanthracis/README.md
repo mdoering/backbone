@@ -1,5 +1,4 @@
-Rhizomorphites geanthracis Göpp. SPECIES
-=======
+# Rhizomorphites geanthracis Göpp. SPECIES
 
 #### Status
 ACCEPTED

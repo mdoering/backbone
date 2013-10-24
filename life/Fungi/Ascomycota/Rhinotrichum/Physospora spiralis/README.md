@@ -1,5 +1,4 @@
-Physospora spiralis Penz. & Sacc. SPECIES
-=======
+# Physospora spiralis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

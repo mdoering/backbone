@@ -1,5 +1,4 @@
-Trypethelium violascens R.C. Harris SPECIES
-=======
+# Trypethelium violascens R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

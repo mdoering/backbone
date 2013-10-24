@@ -1,5 +1,4 @@
-Hymenopsis ellipsospora (Fuckel) Sacc. SPECIES
-=======
+# Hymenopsis ellipsospora (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

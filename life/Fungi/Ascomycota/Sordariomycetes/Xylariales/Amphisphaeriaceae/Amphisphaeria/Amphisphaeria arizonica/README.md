@@ -1,5 +1,4 @@
-Amphisphaeria arizonica M.E. Barr SPECIES
-=======
+# Amphisphaeria arizonica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

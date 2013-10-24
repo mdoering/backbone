@@ -1,5 +1,4 @@
-Alectoria anceps (Nyl.) Nyl. SPECIES
-=======
+# Alectoria anceps (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

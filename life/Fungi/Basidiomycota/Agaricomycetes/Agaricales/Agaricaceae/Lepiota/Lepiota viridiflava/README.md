@@ -1,5 +1,4 @@
-Lepiota viridiflava (Rick) SPECIES
-=======
+# Lepiota viridiflava (Rick) SPECIES
 
 #### Status
 ACCEPTED

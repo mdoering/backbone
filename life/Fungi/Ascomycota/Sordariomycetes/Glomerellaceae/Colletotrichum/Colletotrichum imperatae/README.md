@@ -1,5 +1,4 @@
-Colletotrichum imperatae Politis SPECIES
-=======
+# Colletotrichum imperatae Politis SPECIES
 
 #### Status
 ACCEPTED

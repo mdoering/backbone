@@ -1,5 +1,4 @@
-Dussiella orchideacearum Rick SPECIES
-=======
+# Dussiella orchideacearum Rick SPECIES
 
 #### Status
 ACCEPTED

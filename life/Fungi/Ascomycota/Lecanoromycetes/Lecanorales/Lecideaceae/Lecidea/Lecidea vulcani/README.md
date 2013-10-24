@@ -1,5 +1,4 @@
-Lecidea vulcani f. vulcani FORM
-=======
+# Lecidea vulcani (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea vulcani f. vulcani
+Biatora vulcani Hepp
 
 ### Remarks
 null

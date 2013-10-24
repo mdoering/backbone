@@ -1,5 +1,4 @@
-Lobaria odontella (Ach.) Gärtner, Mey. & Schrebius SPECIES
-=======
+# Lobaria odontella (Ach.) Gärtner, Mey. & Schrebius SPECIES
 
 #### Status
 ACCEPTED

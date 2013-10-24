@@ -1,17 +1,16 @@
-Embolidium Batista, 1964 GENUS
-=======
+# Coniella von Höhnel, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista, Peres & Bezerra, Brotéria, sér. Ci. Nat. 33(3-4): 194 (1964)
+Ber. dt. bot. Ges. 36: 316 (1918)
 
 #### Original name
-Embolidium Batista, 1964
+Coniella von Höhnel, 1918
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dichomera stromatica (Preuss) Sacc. SPECIES
-=======
+# Dichomera stromatica (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

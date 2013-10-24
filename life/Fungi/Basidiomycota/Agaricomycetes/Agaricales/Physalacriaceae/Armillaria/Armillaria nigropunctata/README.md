@@ -1,5 +1,4 @@
-Armillaria nigropunctata Herink SPECIES
-=======
+# Armillaria nigropunctata Herink SPECIES
 
 #### Status
 ACCEPTED

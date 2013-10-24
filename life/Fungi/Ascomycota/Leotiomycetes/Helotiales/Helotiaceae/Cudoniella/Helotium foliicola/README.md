@@ -1,5 +1,4 @@
-Helotium foliicola J. Schröt. SPECIES
-=======
+# Helotium foliicola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

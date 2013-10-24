@@ -1,5 +1,4 @@
-Sporonema castaneae C. Massal. SPECIES
-=======
+# Sporonema castaneae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

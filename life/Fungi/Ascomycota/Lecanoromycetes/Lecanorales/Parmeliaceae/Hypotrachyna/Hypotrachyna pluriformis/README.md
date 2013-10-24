@@ -1,17 +1,16 @@
-Parmelia pluriformis f. pluriformis Nyl. FORM
-=======
+# Hypotrachyna pluriformis (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 1(2): 381 (1860)
+Smithson. Contr. bot. 25: 55 (1975)
 
 #### Original name
-Parmelia pluriformis f. pluriformis Nyl.
+Parmelia pluriformis Nyl.
 
 ### Remarks
 null

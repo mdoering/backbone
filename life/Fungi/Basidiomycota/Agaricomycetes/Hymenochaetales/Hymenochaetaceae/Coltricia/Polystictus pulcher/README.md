@@ -1,5 +1,4 @@
-Polystictus pulcher (Fr.) Fr. SPECIES
-=======
+# Polystictus pulcher (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

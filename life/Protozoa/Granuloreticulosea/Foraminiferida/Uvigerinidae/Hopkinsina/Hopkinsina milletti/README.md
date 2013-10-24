@@ -1,5 +1,4 @@
-Hopkinsina milletti SPECIES
-=======
+# Hopkinsina milletti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus granum Drezepolski, 1925 SPECIES
-=======
+# Phacus granum Drezepolski, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bjerkandera irregularis (Sowerby) P. Karst. SPECIES
-=======
+# Bjerkandera irregularis (Sowerby) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

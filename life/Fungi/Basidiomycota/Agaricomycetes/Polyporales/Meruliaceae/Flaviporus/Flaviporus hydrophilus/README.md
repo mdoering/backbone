@@ -1,14 +1,13 @@
-Polystictus hydrophilus (Berk. & M.A. Curtis) Cooke, 1886 SPECIES
-=======
+# Flaviporus hydrophilus (Berk. & M.A. Curtis) Ginns, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 80 (1886)
+Can. J. Bot. 58(14): 1583 (1980)
 
 #### Original name
 Polyporus hydrophilus Berk. & M.A. Curtis, 1868

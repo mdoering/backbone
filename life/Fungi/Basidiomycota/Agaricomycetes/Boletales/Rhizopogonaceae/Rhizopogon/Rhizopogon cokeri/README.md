@@ -1,5 +1,4 @@
-Rhizopogon cokeri A.H. Sm. SPECIES
-=======
+# Rhizopogon cokeri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

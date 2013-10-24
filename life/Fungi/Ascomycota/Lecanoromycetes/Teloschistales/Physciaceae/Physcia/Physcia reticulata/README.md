@@ -1,5 +1,4 @@
-Physcia reticulata Vain. SPECIES
-=======
+# Physcia reticulata Vain. SPECIES
 
 #### Status
 ACCEPTED

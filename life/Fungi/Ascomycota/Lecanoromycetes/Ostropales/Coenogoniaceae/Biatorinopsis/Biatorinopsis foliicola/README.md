@@ -1,5 +1,4 @@
-Biatorinopsis foliicola (Kremp.) Müll. Arg. SPECIES
-=======
+# Biatorinopsis foliicola (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

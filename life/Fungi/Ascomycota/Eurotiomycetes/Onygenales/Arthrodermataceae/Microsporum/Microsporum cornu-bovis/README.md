@@ -1,17 +1,16 @@
-Microsporum cornua-bovis Galli & Conforti SPECIES
-=======
+# Microsporum cornu-bovis Galli & Conforti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Inst. Natl. Agron. , ser. 2 4: 177 (1954)
 
 #### Original name
-Microsporum cornua-bovis Galli & Conforti
+Microsporum cornu-bovis Galli & Conforti
 
 ### Remarks
 null

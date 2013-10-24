@@ -1,5 +1,4 @@
-Phyllogyalidea epiphylla (Vezda) Lücking & Aptroot SPECIES
-=======
+# Phyllogyalidea epiphylla (Vezda) Lücking & Aptroot SPECIES
 
 #### Status
 ACCEPTED

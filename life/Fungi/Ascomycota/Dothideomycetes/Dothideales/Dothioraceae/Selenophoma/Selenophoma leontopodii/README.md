@@ -1,5 +1,4 @@
-Selenophoma leontopodii Byzova SPECIES
-=======
+# Selenophoma leontopodii Byzova SPECIES
 
 #### Status
 ACCEPTED

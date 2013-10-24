@@ -1,5 +1,4 @@
-Cordyceps ochraceostromata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ochraceostromata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

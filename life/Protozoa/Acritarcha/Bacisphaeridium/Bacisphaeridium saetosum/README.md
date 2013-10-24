@@ -1,5 +1,4 @@
-Bacisphaeridium saetosum Uutela & Tynni, 1991 SPECIES
-=======
+# Bacisphaeridium saetosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

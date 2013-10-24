@@ -1,5 +1,4 @@
-Nidula Gajewskaja, 1933 GENUS
-=======
+# Nidula Gajewskaja, 1933 GENUS
 
 #### Status
 ACCEPTED

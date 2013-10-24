@@ -1,5 +1,4 @@
-Penzigia actinomorpha Möller SPECIES
-=======
+# Penzigia actinomorpha Möller SPECIES
 
 #### Status
 ACCEPTED

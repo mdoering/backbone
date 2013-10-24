@@ -1,5 +1,4 @@
-Stemphylium quadratum (Cooke) Sacc. SPECIES
-=======
+# Stemphylium quadratum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

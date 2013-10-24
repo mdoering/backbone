@@ -1,5 +1,4 @@
-Orthosphaeridium trabeculatum Kjellström, 1971 SPECIES
-=======
+# Orthosphaeridium trabeculatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

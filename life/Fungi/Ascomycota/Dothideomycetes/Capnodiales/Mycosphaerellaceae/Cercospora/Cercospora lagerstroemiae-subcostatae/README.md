@@ -1,5 +1,4 @@
-Cercospora lagerstroemiae-subcostatae Sawada SPECIES
-=======
+# Cercospora lagerstroemiae-subcostatae Sawada SPECIES
 
 #### Status
 ACCEPTED

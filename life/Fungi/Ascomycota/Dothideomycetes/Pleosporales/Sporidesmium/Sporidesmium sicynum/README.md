@@ -1,5 +1,4 @@
-Sporidesmium sicynum Thüm. SPECIES
-=======
+# Sporidesmium sicynum Thüm. SPECIES
 
 #### Status
 ACCEPTED

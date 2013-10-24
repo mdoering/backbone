@@ -1,5 +1,4 @@
-Lecanora urceolata (Anzi) Nyl. SPECIES
-=======
+# Lecanora urceolata (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

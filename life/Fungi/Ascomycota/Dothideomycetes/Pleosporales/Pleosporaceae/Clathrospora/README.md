@@ -1,5 +1,4 @@
-Clathrospora Rabenh. GENUS
-=======
+# Clathrospora Rabenh. GENUS
 
 #### Status
 ACCEPTED

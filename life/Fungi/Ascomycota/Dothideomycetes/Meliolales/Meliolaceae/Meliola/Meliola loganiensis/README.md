@@ -1,5 +1,4 @@
-Meliola loganiensis Sacc. & Berl. SPECIES
-=======
+# Meliola loganiensis Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

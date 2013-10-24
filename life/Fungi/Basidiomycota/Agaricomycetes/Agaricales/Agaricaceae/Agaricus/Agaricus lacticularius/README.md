@@ -1,5 +1,4 @@
-Agaricus lacticularius Britzelm. SPECIES
-=======
+# Agaricus lacticularius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

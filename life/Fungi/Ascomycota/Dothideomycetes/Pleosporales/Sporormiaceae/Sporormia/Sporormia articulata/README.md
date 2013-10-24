@@ -1,5 +1,4 @@
-Sporormia articulata Viégas SPECIES
-=======
+# Sporormia articulata Viégas SPECIES
 
 #### Status
 ACCEPTED

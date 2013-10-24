@@ -1,5 +1,4 @@
-Verrucaria pontica Oxner SPECIES
-=======
+# Verrucaria pontica Oxner SPECIES
 
 #### Status
 ACCEPTED

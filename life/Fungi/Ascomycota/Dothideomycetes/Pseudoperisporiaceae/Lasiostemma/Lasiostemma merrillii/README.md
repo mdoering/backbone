@@ -1,5 +1,4 @@
-Lasiostemma merrillii Syd. SPECIES
-=======
+# Lasiostemma merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linocarpon bipolare K.D. Hyde, 1992 SPECIES
-=======
+# Linocarpon bipolare K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

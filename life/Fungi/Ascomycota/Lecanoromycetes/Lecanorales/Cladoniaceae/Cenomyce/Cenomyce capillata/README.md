@@ -1,5 +1,4 @@
-Cenomyce capillata Hook. f. & Taylor SPECIES
-=======
+# Cenomyce capillata Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

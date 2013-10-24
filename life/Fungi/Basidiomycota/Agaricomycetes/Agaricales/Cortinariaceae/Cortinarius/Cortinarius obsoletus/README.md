@@ -1,5 +1,4 @@
-Cortinarius obsoletus Kühner SPECIES
-=======
+# Cortinarius obsoletus Kühner SPECIES
 
 #### Status
 ACCEPTED

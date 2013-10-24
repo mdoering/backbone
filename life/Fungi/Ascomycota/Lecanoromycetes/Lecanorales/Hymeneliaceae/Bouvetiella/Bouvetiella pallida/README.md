@@ -1,5 +1,4 @@
-Bouvetiella pallida Øvstedal SPECIES
-=======
+# Bouvetiella pallida Øvstedal SPECIES
 
 #### Status
 ACCEPTED

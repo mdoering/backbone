@@ -1,5 +1,4 @@
-Biatorina dimorpha (A. Massal.) Jatta SPECIES
-=======
+# Biatorina dimorpha (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Formivibrio Tanaka et al., 1991 GENUS
-=======
+# Formivibrio Tanaka et al., 1991 GENUS
 
 #### Status
 ACCEPTED

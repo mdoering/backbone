@@ -1,17 +1,16 @@
-Leccinum neotropicalis Halling SPECIES
-=======
+# Leccinum neotropicale Halling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 54(3): 748 (1999)
 
 #### Original name
-Leccinum neotropicalis Halling
+Leccinum neotropicale Halling
 
 ### Remarks
 null

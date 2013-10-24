@@ -1,5 +1,4 @@
-Uromyces argophyllae Seym. SPECIES
-=======
+# Uromyces argophyllae Seym. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Strepsithalia investiens F.S. Collins SPECIES
-=======
+# Streblonema investiens (Collins) Setchell & N.L. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

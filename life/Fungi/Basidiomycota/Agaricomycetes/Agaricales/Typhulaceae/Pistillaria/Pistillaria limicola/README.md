@@ -1,5 +1,4 @@
-Pistillaria limicola (Saut.) Corner SPECIES
-=======
+# Pistillaria limicola (Saut.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea miliaria Taylor SPECIES
-=======
+# Usnea miliaria Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen tinctorius L. SPECIES
-=======
+# Lichen tinctorius L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diathrypton amboinense Syd. SPECIES
-=======
+# Diathrypton amboinense Syd. SPECIES
 
 #### Status
 ACCEPTED

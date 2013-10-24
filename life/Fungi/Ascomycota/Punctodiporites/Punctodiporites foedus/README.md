@@ -1,5 +1,4 @@
-Punctodiporites foedus G. Norris SPECIES
-=======
+# Punctodiporites foedus G. Norris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis aeola Stirt. SPECIES
-=======
+# Graphis aeola Stirt. SPECIES
 
 #### Status
 ACCEPTED

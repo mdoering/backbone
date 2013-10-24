@@ -1,5 +1,4 @@
-Septoria calamagrostidis f. calamagrostidis FORM
-=======
+# Septoria calamagrostidis (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fungi ardenn. no. 181 (1892)
 
 #### Original name
-Septoria calamagrostidis f. calamagrostidis
+Ascochyta calamagrostidis Lib.
 
 ### Remarks
 null

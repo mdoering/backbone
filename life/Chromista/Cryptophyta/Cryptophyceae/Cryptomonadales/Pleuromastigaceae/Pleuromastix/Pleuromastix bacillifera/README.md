@@ -1,5 +1,4 @@
-Pleuromastix bacillifera A. Scherffel SPECIES
-=======
+# Pleuromastix bacillifera A. Scherffel SPECIES
 
 #### Status
 ACCEPTED

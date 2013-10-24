@@ -1,8 +1,7 @@
-Mycena pura var. rosea Schumach. VARIETY
-=======
+# Mycena rosea (Bull.) Gramberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

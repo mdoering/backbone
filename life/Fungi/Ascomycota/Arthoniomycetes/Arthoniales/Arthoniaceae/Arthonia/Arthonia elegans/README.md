@@ -1,14 +1,13 @@
-Spiloma elegans Ach. SPECIES
-=======
+# Arthonia elegans (Ach.) Almq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+K. svenska Vetensk-Akad. Handl. 17(no. 6): 19 (1880)
 
 #### Original name
 Spiloma elegans Ach.

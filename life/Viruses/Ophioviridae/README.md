@@ -1,5 +1,4 @@
-Ophioviridae FAMILY
-=======
+# Ophioviridae FAMILY
 
 #### Status
 ACCEPTED

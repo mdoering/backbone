@@ -1,5 +1,4 @@
-Trachelophyllum sphagnetorum SPECIES
-=======
+# Trachelophyllum sphagnetorum SPECIES
 
 #### Status
 ACCEPTED

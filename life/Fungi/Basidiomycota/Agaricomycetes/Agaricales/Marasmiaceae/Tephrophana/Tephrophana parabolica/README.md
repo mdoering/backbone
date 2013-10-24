@@ -1,5 +1,4 @@
-Tephrophana parabolica Métrod SPECIES
-=======
+# Tephrophana parabolica Métrod SPECIES
 
 #### Status
 ACCEPTED

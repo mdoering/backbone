@@ -1,5 +1,4 @@
-Callimitra Haeckel, 1881 GENUS
-=======
+# Callimitra Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius foliiphilus Antonín SPECIES
-=======
+# Marasmius foliiphilus Antonín SPECIES
 
 #### Status
 ACCEPTED

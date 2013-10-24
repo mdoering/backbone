@@ -1,5 +1,4 @@
-Amphidinium corpulentum Kofoid & Swezy SPECIES
-=======
+# Amphidinium corpulentum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

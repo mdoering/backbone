@@ -1,5 +1,4 @@
-Phaeophleospora elaeocarpi T.E.T. Bond SPECIES
-=======
+# Phaeophleospora elaeocarpi T.E.T. Bond SPECIES
 
 #### Status
 ACCEPTED

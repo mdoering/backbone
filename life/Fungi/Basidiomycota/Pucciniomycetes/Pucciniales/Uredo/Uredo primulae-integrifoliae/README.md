@@ -1,5 +1,4 @@
-Uredo primulae-integrifoliae DC. SPECIES
-=======
+# Uredo primulae-integrifoliae DC. SPECIES
 
 #### Status
 ACCEPTED

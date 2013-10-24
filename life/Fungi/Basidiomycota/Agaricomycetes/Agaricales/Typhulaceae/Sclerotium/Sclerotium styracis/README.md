@@ -1,5 +1,4 @@
-Sclerotium styracis Sawada SPECIES
-=======
+# Sclerotium styracis Sawada SPECIES
 
 #### Status
 ACCEPTED

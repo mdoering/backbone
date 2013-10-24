@@ -1,5 +1,4 @@
-Boruokia P.N. Kolosov, 1984 GENUS
-=======
+# Boruokia P.N. Kolosov, 1984 GENUS
 
 #### Status
 ACCEPTED

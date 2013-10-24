@@ -1,5 +1,4 @@
-Camarosporium parasiticum H.C. Greene SPECIES
-=======
+# Camarosporium parasiticum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

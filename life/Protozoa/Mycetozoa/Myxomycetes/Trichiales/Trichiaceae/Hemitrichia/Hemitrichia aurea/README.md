@@ -1,5 +1,4 @@
-Hemitrichia aurea Nann.-Bremek. & H. Neubert, 1976 SPECIES
-=======
+# Hemitrichia aurea Nann.-Bremek. & H. Neubert, 1976 SPECIES
 
 #### Status
 ACCEPTED

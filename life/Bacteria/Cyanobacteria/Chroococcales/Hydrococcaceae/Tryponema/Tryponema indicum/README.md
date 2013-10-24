@@ -1,5 +1,4 @@
-Tryponema indicum Thomas & Gonzalez SPECIES
-=======
+# Tryponema indicum Thomas & Gonzalez SPECIES
 
 #### Status
 ACCEPTED

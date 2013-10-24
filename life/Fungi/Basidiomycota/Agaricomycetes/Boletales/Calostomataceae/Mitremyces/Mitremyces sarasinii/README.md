@@ -1,5 +1,4 @@
-Mitremyces sarasinii Henn. SPECIES
-=======
+# Mitremyces sarasinii Henn. SPECIES
 
 #### Status
 ACCEPTED

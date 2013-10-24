@@ -1,5 +1,4 @@
-Hysterium andicola Speg. SPECIES
-=======
+# Hysterium andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

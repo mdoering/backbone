@@ -1,5 +1,4 @@
-Clitocybe anisa Berk. & Broome SPECIES
-=======
+# Clitocybe anisa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

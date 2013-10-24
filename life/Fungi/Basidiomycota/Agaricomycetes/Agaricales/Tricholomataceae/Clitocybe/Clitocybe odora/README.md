@@ -1,17 +1,16 @@
-Agaricus odorus var. odorus VARIETY
-=======
+# Clitocybe odora (Bull.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 121 (1871)
 
 #### Original name
-null
+Agaricus odorus Bull., 1784
 
 ### Remarks
 null

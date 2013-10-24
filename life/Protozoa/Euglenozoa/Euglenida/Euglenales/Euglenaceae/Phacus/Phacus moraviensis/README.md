@@ -1,5 +1,4 @@
-Phacus moraviensis Pochmann SPECIES
-=======
+# Phacus moraviensis Pochmann SPECIES
 
 #### Status
 ACCEPTED

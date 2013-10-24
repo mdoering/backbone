@@ -1,5 +1,4 @@
-Hirsutella besseyi F.E. Fisher SPECIES
-=======
+# Hirsutella besseyi F.E. Fisher SPECIES
 
 #### Status
 ACCEPTED

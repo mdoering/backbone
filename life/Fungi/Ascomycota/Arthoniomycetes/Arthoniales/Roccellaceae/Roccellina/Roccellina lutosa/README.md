@@ -1,5 +1,4 @@
-Roccellina lutosa (Zahlbr.) Tehler SPECIES
-=======
+# Roccellina lutosa (Zahlbr.) Tehler SPECIES
 
 #### Status
 ACCEPTED

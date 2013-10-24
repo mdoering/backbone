@@ -1,5 +1,4 @@
-Phyllosticta stuckertii Speg. SPECIES
-=======
+# Phyllosticta stuckertii Speg. SPECIES
 
 #### Status
 ACCEPTED

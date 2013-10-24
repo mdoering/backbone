@@ -1,5 +1,4 @@
-Cellularia crataegi (Berk.) Kuntze SPECIES
-=======
+# Cellularia crataegi (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

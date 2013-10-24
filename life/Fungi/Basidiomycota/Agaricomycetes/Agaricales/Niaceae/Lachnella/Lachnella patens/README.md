@@ -1,5 +1,4 @@
-Lachnella patens W. Phillips SPECIES
-=======
+# Lachnella patens W. Phillips SPECIES
 
 #### Status
 ACCEPTED

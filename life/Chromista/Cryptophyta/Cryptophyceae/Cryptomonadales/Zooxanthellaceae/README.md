@@ -1,5 +1,4 @@
-Zooxanthellaceae FAMILY
-=======
+# Zooxanthellaceae FAMILY
 
 #### Status
 ACCEPTED

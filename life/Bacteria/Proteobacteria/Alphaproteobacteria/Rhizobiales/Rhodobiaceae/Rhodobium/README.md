@@ -1,5 +1,4 @@
-Rhodobium Hiraishi et al., 1995 GENUS
-=======
+# Rhodobium Hiraishi et al., 1995 GENUS
 
 #### Status
 ACCEPTED

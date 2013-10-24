@@ -1,5 +1,4 @@
-Subulispora argentina Aramb. & Mengasc. SPECIES
-=======
+# Subulispora argentina Aramb. & Mengasc. SPECIES
 
 #### Status
 ACCEPTED

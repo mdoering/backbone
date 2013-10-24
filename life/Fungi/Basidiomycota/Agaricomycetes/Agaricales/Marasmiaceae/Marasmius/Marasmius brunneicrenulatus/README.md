@@ -1,5 +1,4 @@
-Marasmius brunneicrenulatus Corner SPECIES
-=======
+# Marasmius brunneicrenulatus Corner SPECIES
 
 #### Status
 ACCEPTED

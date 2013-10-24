@@ -1,5 +1,4 @@
-Rhabdospora cerinthes Hollós SPECIES
-=======
+# Rhabdospora cerinthes Hollós SPECIES
 
 #### Status
 ACCEPTED

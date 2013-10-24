@@ -1,5 +1,4 @@
-Tubercularia schweinfurthii Bres. SPECIES
-=======
+# Tubercularia schweinfurthii Bres. SPECIES
 
 #### Status
 ACCEPTED

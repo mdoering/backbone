@@ -1,5 +1,4 @@
-Coronidium Haeckel, 1887 GENUS
-=======
+# Coronidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

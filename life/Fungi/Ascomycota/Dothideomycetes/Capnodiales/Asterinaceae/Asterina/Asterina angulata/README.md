@@ -1,5 +1,4 @@
-Asterina angulata Desm. SPECIES
-=======
+# Asterina angulata Desm. SPECIES
 
 #### Status
 ACCEPTED

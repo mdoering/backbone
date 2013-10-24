@@ -1,5 +1,4 @@
-Graphis analoga Nyl. SPECIES
-=======
+# Graphis analoga Nyl. SPECIES
 
 #### Status
 ACCEPTED

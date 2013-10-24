@@ -1,5 +1,4 @@
-Micromonospora echinofusca Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora echinofusca Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

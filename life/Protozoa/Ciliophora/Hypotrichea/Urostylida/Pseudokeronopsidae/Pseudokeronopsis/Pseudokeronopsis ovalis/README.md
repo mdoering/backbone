@@ -1,8 +1,7 @@
-Keronopsis arenivorus Dragesco, 1954 SPECIES
-=======
+# Pseudokeronopsis ovalis (Kahl, 1932) Borror & Wicklow, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

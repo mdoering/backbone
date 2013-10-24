@@ -1,14 +1,13 @@
-Foainia GENUS
-=======
+# Foaina Janicki, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Z. wiss. Zool. , 112, 615.
 
 #### Original name
 null

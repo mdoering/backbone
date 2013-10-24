@@ -1,5 +1,4 @@
-Agaricus rhodocephalus Berk. SPECIES
-=======
+# Agaricus rhodocephalus Berk. SPECIES
 
 #### Status
 ACCEPTED

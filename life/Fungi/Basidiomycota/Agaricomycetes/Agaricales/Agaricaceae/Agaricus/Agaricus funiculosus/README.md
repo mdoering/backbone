@@ -1,5 +1,4 @@
-Agaricus funiculosus Schumach. SPECIES
-=======
+# Agaricus funiculosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

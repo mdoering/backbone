@@ -1,5 +1,4 @@
-Rosellinia macra Ellis & Everh. SPECIES
-=======
+# Rosellinia macra Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

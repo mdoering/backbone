@@ -1,5 +1,4 @@
-Cocconia machaerii Henn., 1902 SPECIES
-=======
+# Cocconia machaerii Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

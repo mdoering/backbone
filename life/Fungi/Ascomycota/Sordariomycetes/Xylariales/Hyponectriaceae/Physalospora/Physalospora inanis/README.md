@@ -1,5 +1,4 @@
-Physalospora inanis (Schwein.) Sacc. SPECIES
-=======
+# Physalospora inanis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

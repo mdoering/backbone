@@ -1,14 +1,13 @@
-Nolanea kristiansenii (Noordel.) P.D. Orton, 1991 SPECIES
-=======
+# Entoloma kristiansenii Noordel., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologist 5(3): 138 (1991)
+Beih. Nova Hedwigia 91: 93 (1987)
 
 #### Original name
 Entoloma kristiansenii Noordel., 1987

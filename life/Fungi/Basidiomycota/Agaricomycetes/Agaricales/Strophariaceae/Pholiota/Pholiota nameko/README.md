@@ -1,17 +1,16 @@
-Collybia nameko var. nameko VARIETY
-=======
+# Pholiota nameko (T. Itô) S. Ito & S. Imai, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 47: 388 (1933)
 
 #### Original name
-Collybia nameko var. nameko
+Collybia nameko T. Itô, 1929
 
 ### Remarks
 null

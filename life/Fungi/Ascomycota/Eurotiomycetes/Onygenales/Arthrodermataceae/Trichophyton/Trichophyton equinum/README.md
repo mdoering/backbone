@@ -1,5 +1,4 @@
-Trichophyton equinum var. equinum VARIETY
-=======
+# Trichophyton equinum Gedoelst SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Les Champignons parasites de l'homme et des animaux domestiques 88 (1902)
 
 #### Original name
-Trichophyton equinum var. equinum
+Trichophyton equinum Gedoelst
 
 ### Remarks
 null

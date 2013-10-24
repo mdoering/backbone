@@ -1,5 +1,4 @@
-Leptoniella australis Murrill SPECIES
-=======
+# Leptoniella australis Murrill SPECIES
 
 #### Status
 ACCEPTED

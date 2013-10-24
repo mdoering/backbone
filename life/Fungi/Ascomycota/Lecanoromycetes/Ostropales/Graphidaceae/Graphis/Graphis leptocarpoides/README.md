@@ -1,5 +1,4 @@
-Graphis leptocarpoides Makhija & Adaw. SPECIES
-=======
+# Graphis leptocarpoides Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

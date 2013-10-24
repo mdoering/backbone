@@ -1,5 +1,4 @@
-Globocassidulina canalisuturata Eade, 1967 SPECIES
-=======
+# Globocassidulina canalisuturata Eade, 1967 SPECIES
 
 #### Status
 ACCEPTED

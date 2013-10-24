@@ -1,5 +1,4 @@
-Trachysphaeridium asaphum (Timofeev, 1966) Pyatiletov, 1978 SPECIES
-=======
+# Trachysphaeridium asaphum (Timofeev, 1966) Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

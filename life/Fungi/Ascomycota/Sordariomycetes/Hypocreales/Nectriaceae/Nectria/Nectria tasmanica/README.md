@@ -1,5 +1,4 @@
-Nectria tasmanica Berk. SPECIES
-=======
+# Nectria tasmanica Berk. SPECIES
 
 #### Status
 ACCEPTED

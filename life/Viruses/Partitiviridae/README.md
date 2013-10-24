@@ -1,5 +1,4 @@
-Partitiviridae FAMILY
-=======
+# Partitiviridae FAMILY
 
 #### Status
 ACCEPTED

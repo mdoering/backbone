@@ -1,5 +1,4 @@
-Amphisphaerella amphisphaerioides (Sacc. & Speg.) Kirschst., 1934 SPECIES
-=======
+# Amphisphaerella amphisphaerioides (Sacc. & Speg.) Kirschst., 1934 SPECIES
 
 #### Status
 ACCEPTED

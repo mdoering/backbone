@@ -1,5 +1,4 @@
-Shewanella atlantica Zhao, Manno, Thiboutot, Ampleman & Hawari, 2007 SPECIES
-=======
+# Shewanella atlantica Zhao, Manno, Thiboutot, Ampleman & Hawari, 2007 SPECIES
 
 #### Status
 ACCEPTED

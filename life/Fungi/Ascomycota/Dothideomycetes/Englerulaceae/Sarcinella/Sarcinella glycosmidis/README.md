@@ -1,5 +1,4 @@
-Sarcinella glycosmidis Kamal & R.P. Singh SPECIES
-=======
+# Sarcinella glycosmidis Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectania rimosa Peck SPECIES
-=======
+# Plectania rimosa Peck SPECIES
 
 #### Status
 ACCEPTED

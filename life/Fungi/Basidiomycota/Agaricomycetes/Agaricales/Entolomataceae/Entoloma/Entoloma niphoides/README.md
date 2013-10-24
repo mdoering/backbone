@@ -1,5 +1,4 @@
-Entoloma niphoides Romagn. ex Noordel., 1985 SPECIES
-=======
+# Entoloma niphoides Romagn. ex Noordel., 1985 SPECIES
 
 #### Status
 ACCEPTED

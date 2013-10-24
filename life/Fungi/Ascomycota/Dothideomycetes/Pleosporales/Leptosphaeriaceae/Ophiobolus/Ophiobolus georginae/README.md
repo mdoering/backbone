@@ -1,5 +1,4 @@
-Ophiobolus georginae var. georginae VARIETY
-=======
+# Ophiobolus georginae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus georginae var. georginae
+Sphaeria georginae Fuckel
 
 ### Remarks
 null

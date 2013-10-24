@@ -1,5 +1,4 @@
-Lycoperdon calvescens Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon calvescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

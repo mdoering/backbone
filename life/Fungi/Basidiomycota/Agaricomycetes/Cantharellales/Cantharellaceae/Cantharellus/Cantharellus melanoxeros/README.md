@@ -1,5 +1,4 @@
-Cantharellus melanoxeros Desm., 1830 SPECIES
-=======
+# Cantharellus melanoxeros Desm., 1830 SPECIES
 
 #### Status
 ACCEPTED

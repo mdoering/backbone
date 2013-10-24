@@ -1,5 +1,4 @@
-Phylloporia ampelina (Bondartsev & Singer) Bondartseva SPECIES
-=======
+# Phylloporia ampelina (Bondartsev & Singer) Bondartseva SPECIES
 
 #### Status
 ACCEPTED

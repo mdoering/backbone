@@ -1,5 +1,4 @@
-Cortinarius perpallidus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius perpallidus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

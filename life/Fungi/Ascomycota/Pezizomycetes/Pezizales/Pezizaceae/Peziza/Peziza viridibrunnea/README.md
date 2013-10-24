@@ -1,5 +1,4 @@
-Peziza viridibrunnea Ces. SPECIES
-=======
+# Peziza viridibrunnea Ces. SPECIES
 
 #### Status
 ACCEPTED

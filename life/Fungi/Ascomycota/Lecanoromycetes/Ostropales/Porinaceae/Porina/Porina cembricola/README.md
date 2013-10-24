@@ -1,5 +1,4 @@
-Porina cembricola (Anzi) Lettau SPECIES
-=======
+# Porina cembricola (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepiota ventriosospora var. fulva Bon VARIETY
-=======
+# Lepiota magnispora Murrill, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 4(no. 15): 27 (1974)
+Mycologia 4(5): 237 (1912)
 
 #### Original name
-Lepiota ventriosospora var. fulva Bon
+Lepiota magnispora Murrill, 1912
 
 ### Remarks
 null

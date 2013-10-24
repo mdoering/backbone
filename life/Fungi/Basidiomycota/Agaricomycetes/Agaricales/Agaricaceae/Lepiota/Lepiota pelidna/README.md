@@ -1,5 +1,4 @@
-Lepiota pelidna Berk. & Mont. SPECIES
-=======
+# Lepiota pelidna Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

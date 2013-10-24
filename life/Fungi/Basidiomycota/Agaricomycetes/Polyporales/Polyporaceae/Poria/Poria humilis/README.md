@@ -1,5 +1,4 @@
-Poria humilis Murrill SPECIES
-=======
+# Poria humilis Murrill SPECIES
 
 #### Status
 ACCEPTED

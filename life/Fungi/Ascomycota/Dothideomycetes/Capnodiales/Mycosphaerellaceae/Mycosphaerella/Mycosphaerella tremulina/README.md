@@ -1,5 +1,4 @@
-Mycosphaerella tremulina (Mouton) Lindau SPECIES
-=======
+# Mycosphaerella tremulina (Mouton) Lindau SPECIES
 
 #### Status
 ACCEPTED

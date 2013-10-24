@@ -1,5 +1,4 @@
-Cedecea neteri Farmer et al., 1983 SPECIES
-=======
+# Cedecea neteri Farmer et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium filipendula anon. ined. SPECIES
-=======
+# Sporisorium filipendula anon. ined. SPECIES
 
 #### Status
 ACCEPTED

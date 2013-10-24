@@ -1,5 +1,4 @@
-Levispora terricola Routien SPECIES
-=======
+# Levispora terricola Routien SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum elaeochroum Fr. SPECIES
-=======
+# Sporotrichum elaeochroum Fr. SPECIES
 
 #### Status
 ACCEPTED

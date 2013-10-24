@@ -1,5 +1,4 @@
-Lecidea fuscelliformis Malme SPECIES
-=======
+# Lecidea fuscelliformis Malme SPECIES
 
 #### Status
 ACCEPTED

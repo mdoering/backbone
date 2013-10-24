@@ -1,5 +1,4 @@
-Cercospora haleniae Chupp & Bisby SPECIES
-=======
+# Cercospora haleniae Chupp & Bisby SPECIES
 
 #### Status
 ACCEPTED

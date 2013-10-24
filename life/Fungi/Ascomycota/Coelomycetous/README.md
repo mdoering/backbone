@@ -1,5 +1,4 @@
-Coelomycetous Anamorph FAMILY
-=======
+# Coelomycetous Anamorph FAMILY
 
 #### Status
 ACCEPTED

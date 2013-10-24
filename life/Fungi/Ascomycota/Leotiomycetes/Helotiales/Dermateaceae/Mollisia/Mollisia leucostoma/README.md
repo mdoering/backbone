@@ -1,5 +1,4 @@
-Mollisia leucostoma P. Karst. SPECIES
-=======
+# Mollisia leucostoma P. Karst. SPECIES
 
 #### Status
 ACCEPTED

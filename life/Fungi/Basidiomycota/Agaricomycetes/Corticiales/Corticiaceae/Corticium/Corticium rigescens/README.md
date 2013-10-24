@@ -1,5 +1,4 @@
-Corticium rigescens Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Corticium rigescens Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

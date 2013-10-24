@@ -1,5 +1,4 @@
-Hendersonia lycii Hazsl. SPECIES
-=======
+# Hendersonia lycii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

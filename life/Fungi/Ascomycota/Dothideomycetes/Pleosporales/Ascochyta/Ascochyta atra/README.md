@@ -1,5 +1,4 @@
-Ascochyta atra Potebnia SPECIES
-=======
+# Ascochyta atra Potebnia SPECIES
 
 #### Status
 ACCEPTED

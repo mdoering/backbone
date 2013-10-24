@@ -1,5 +1,4 @@
-Eriomycopsis africana Hansf. SPECIES
-=======
+# Eriomycopsis africana Hansf. SPECIES
 
 #### Status
 ACCEPTED

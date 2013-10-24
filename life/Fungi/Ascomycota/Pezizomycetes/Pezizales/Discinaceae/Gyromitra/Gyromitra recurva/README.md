@@ -1,5 +1,4 @@
-Gyromitra recurva (Snyder) Harmaja SPECIES
-=======
+# Gyromitra recurva (Snyder) Harmaja SPECIES
 
 #### Status
 ACCEPTED

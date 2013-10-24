@@ -1,5 +1,4 @@
-Boletus subaureus var. subaureus VARIETY
-=======
+# Boletus subaureus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus subaureus var. subaureus
+Boletus subaureus Peck
 
 ### Remarks
 null

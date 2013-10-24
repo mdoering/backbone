@@ -1,5 +1,4 @@
-Coniosporium sahnii N.D. Sharma SPECIES
-=======
+# Coniosporium sahnii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

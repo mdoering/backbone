@@ -1,5 +1,4 @@
-Puccinia polycnemi Libosch. SPECIES
-=======
+# Puccinia polycnemi Libosch. SPECIES
 
 #### Status
 ACCEPTED

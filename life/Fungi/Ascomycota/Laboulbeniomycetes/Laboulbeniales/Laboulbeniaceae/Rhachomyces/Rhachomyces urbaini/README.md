@@ -1,5 +1,4 @@
-Rhachomyces urbaini Lepesme SPECIES
-=======
+# Rhachomyces urbaini Lepesme SPECIES
 
 #### Status
 ACCEPTED

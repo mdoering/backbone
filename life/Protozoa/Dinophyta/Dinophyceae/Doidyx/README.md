@@ -1,5 +1,4 @@
-Doidyx Sarjeant, 1966 GENUS
-=======
+# Doidyx Sarjeant, 1966 GENUS
 
 #### Status
 ACCEPTED

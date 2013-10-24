@@ -1,5 +1,4 @@
-Cypassis irregularis Nigrini, 1968 SPECIES
-=======
+# Cypassis irregularis Nigrini, 1968 SPECIES
 
 #### Status
 ACCEPTED

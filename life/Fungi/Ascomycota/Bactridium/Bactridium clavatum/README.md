@@ -1,5 +1,4 @@
-Bactridium clavatum Berk. & Broome, 1875 SPECIES
-=======
+# Bactridium clavatum Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

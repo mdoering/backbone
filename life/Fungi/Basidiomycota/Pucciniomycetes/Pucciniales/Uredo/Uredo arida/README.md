@@ -1,5 +1,4 @@
-Uredo arida (H.S. Jacks.) Cummins SPECIES
-=======
+# Uredo arida (H.S. Jacks.) Cummins SPECIES
 
 #### Status
 ACCEPTED

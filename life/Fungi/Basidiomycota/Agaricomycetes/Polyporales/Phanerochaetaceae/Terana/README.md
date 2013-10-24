@@ -1,5 +1,4 @@
-Terana Adanson, 1763 GENUS
-=======
+# Terana Adanson, 1763 GENUS
 
 #### Status
 ACCEPTED

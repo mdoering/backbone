@@ -1,5 +1,4 @@
-Urceolaria microspora (Arnold) Motyka SPECIES
-=======
+# Urceolaria microspora (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

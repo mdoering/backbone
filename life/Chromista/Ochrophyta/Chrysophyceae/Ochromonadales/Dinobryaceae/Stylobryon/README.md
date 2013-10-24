@@ -1,5 +1,4 @@
-Stylobryon Fromental, 1874 GENUS
-=======
+# Stylobryon Fromental, 1874 GENUS
 
 #### Status
 ACCEPTED

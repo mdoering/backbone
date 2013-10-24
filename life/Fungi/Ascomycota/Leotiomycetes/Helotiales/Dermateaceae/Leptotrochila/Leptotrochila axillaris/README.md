@@ -1,5 +1,4 @@
-Leptotrochila axillaris (Rostr.) Raitv. SPECIES
-=======
+# Leptotrochila axillaris (Rostr.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

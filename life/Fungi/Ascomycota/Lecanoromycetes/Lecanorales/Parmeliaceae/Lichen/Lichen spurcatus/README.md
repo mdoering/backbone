@@ -1,5 +1,4 @@
-Lichen spurcatus Ach. SPECIES
-=======
+# Lichen spurcatus Ach. SPECIES
 
 #### Status
 ACCEPTED

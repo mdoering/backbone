@@ -1,8 +1,7 @@
-Lentinus woermanni E. Cohn & J. Schröt. SPECIES
-=======
+# Lentinus woermannii E. Cohn & J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lentinus woermanni E. Cohn & J. Schröt.
+Lentinus woermannii E. Cohn & J. Schröt.
 
 ### Remarks
 null

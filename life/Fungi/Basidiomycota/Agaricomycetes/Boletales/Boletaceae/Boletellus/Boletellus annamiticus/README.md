@@ -1,5 +1,4 @@
-Boletellus annamiticus (Pat.) E.-J. Gilbert SPECIES
-=======
+# Boletellus annamiticus (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

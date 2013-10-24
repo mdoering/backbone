@@ -1,17 +1,16 @@
-Sorosporium chrysopogonis-fulviis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sorosporium chrysopogonis-fulvi A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 34(3): 839 (2004)
 
 #### Original name
-Sorosporium chrysopogonis-fulviis A.R. Patil, T.M. Patil & M.S. Patil
+Sorosporium chrysopogonis-fulvi A.R. Patil, T.M. Patil & M.S. Patil
 
 ### Remarks
 null

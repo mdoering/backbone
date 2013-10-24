@@ -1,17 +1,16 @@
-Gnomonia cerastis f. cerastis FORM
-=======
+# Gnomonia cerastis (Riess) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Comm. Soc. crittog. Ital. 1: 233 (1863)
 
 #### Original name
-Gnomonia cerastis f. cerastis
+Sphaeria cerastii Riess
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oxytricha tennella Song & Wilbert, 1989 SPECIES
-=======
+# Oxytricha tennella Song & Wilbert, 1989 SPECIES
 
 #### Status
 ACCEPTED

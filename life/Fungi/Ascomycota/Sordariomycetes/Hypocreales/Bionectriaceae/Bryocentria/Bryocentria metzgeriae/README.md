@@ -1,14 +1,13 @@
-Pseudonectria metzgeriae Ade & Höhn., 1920 SPECIES
-=======
+# Bryocentria metzgeriae (Ade & Höhn.) Döbbeler, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Progr. 3(3): 252 (2004)
 
 #### Original name
 Pseudonectria metzgeriae Ade & Höhn., 1920

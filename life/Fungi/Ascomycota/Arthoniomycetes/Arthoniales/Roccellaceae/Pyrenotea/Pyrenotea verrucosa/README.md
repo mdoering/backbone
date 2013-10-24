@@ -1,5 +1,4 @@
-Pyrenotea verrucosa SPECIES
-=======
+# Pyrenotea verrucosa SPECIES
 
 #### Status
 ACCEPTED

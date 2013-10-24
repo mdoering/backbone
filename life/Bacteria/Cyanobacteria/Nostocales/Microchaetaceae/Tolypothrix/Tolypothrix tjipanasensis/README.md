@@ -1,5 +1,4 @@
-Tolypothrix tjipanasensis De Wildeman SPECIES
-=======
+# Tolypothrix tjipanasensis De Wildeman SPECIES
 
 #### Status
 ACCEPTED

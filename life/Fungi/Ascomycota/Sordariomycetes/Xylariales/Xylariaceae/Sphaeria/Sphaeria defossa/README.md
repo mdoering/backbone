@@ -1,5 +1,4 @@
-Sphaeria defossa Durieu & Mont. SPECIES
-=======
+# Sphaeria defossa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas bromi Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas bromi Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

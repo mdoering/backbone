@@ -1,5 +1,4 @@
-Aleurodiscus occidentalis Ginns, 1990 SPECIES
-=======
+# Aleurodiscus occidentalis Ginns, 1990 SPECIES
 
 #### Status
 ACCEPTED

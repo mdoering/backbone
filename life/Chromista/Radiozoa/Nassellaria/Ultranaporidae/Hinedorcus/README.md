@@ -1,5 +1,4 @@
-Hinedorcus Dumitrica, Kozur & Mostler, 1981 GENUS
-=======
+# Hinedorcus Dumitrica, Kozur & Mostler, 1981 GENUS
 
 #### Status
 ACCEPTED

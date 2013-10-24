@@ -1,5 +1,4 @@
-Lecanora jojultlae B. de Lesd. SPECIES
-=======
+# Lecanora jojultlae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

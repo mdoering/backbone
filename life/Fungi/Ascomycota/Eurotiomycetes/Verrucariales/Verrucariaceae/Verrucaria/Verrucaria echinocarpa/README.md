@@ -1,5 +1,4 @@
-Verrucaria echinocarpa Servít SPECIES
-=======
+# Verrucaria echinocarpa Servít SPECIES
 
 #### Status
 ACCEPTED

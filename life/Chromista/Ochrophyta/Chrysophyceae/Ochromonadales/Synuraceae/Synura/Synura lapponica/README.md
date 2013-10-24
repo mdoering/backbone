@@ -1,5 +1,4 @@
-Synura lapponica Skuja SPECIES
-=======
+# Synura lapponica Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium oxneri Abramova {?} SPECIES
-=======
+# Endopyrenium oxneri Abramova {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma tenue P.W. Graff SPECIES
-=======
+# Tricholoma tenue P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

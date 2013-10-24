@@ -1,5 +1,4 @@
-Hymenoscyphus rehmii (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus rehmii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

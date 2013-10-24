@@ -1,14 +1,13 @@
-Arthrobotryum nilgirense Subram., 1957 SPECIES
-=======
+# Tretophragmia nilgirensis (Subram.) Subram. & Natarajan, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 46: 325 (1957)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 39(5): 550 (1974)
 
 #### Original name
 Arthrobotryum nilgirense Subram., 1957

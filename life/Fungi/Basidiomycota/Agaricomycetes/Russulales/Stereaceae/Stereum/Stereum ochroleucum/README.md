@@ -1,5 +1,4 @@
-Stereum ochroleucum (Fr.) Quél. SPECIES
-=======
+# Stereum ochroleucum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

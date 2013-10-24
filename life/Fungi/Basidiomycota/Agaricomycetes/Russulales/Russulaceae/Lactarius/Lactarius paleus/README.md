@@ -1,5 +1,4 @@
-Lactarius paleus Verbeken & E. Horak SPECIES
-=======
+# Lactarius paleus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

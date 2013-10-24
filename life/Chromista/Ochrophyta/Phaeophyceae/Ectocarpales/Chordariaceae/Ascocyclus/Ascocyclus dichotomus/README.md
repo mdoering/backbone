@@ -1,5 +1,4 @@
-Ascocyclus dichotomus Ohta SPECIES
-=======
+# Ascocyclus dichotomus Ohta SPECIES
 
 #### Status
 ACCEPTED

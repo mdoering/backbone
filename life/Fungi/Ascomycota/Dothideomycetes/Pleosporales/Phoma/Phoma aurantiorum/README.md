@@ -1,5 +1,4 @@
-Phoma aurantiorum (Rabenh.) Sacc. SPECIES
-=======
+# Phoma aurantiorum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

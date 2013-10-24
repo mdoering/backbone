@@ -1,5 +1,4 @@
-Cercosporella aceris Dearn. & Barthol. SPECIES
-=======
+# Cercosporella aceris Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

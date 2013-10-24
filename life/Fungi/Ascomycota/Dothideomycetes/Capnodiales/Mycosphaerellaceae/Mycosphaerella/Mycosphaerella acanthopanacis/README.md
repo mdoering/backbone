@@ -1,17 +1,16 @@
-Mycosphaerella acanthopanicis (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Mycosphaerella acanthopanacis Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Quad. Lab. crittogam. , Pavia 19: 230 (1961)
 
 #### Original name
-Sphaerella acanthopanacis Cif. & Gonz. Frag.
+Mycosphaerella acanthopanacis Syd. & P. Syd.
 
 ### Remarks
 null

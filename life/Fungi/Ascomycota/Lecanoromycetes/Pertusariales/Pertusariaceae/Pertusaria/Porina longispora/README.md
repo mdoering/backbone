@@ -1,5 +1,4 @@
-Porina longispora Vezda, 1975 SPECIES
-=======
+# Porina longispora Vezda, 1975 SPECIES
 
 #### Status
 DOUBTFUL

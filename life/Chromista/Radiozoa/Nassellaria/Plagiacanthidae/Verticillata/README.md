@@ -1,5 +1,4 @@
-Verticillata Popofsky, 1913 GENUS
-=======
+# Verticillata Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

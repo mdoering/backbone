@@ -1,5 +1,4 @@
-Lecidea ocellaris Vain. SPECIES
-=======
+# Lecidea ocellaris Vain. SPECIES
 
 #### Status
 ACCEPTED

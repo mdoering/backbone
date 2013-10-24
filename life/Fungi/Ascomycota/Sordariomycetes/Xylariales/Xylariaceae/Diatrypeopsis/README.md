@@ -1,5 +1,4 @@
-Diatrypeopsis GENUS
-=======
+# Diatrypeopsis GENUS
 
 #### Status
 ACCEPTED

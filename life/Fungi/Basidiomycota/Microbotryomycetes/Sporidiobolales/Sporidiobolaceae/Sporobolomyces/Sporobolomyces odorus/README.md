@@ -1,5 +1,4 @@
-Sporobolomyces odorus Derx SPECIES
-=======
+# Sporobolomyces odorus Derx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe lutea (Beeli) Heinem. SPECIES
-=======
+# Hygrocybe lutea (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymaria helianthemi Boyer & Jacz. SPECIES
-=======
+# Didymaria helianthemi Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

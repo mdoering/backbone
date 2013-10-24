@@ -1,17 +1,16 @@
-Stachybotrys lunzinense Svilv. SPECIES
-=======
+# Stachybotrys lunzinensis Svilv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 103: 182 (1941)
 
 #### Original name
-Stachybotrys lunzinense Svilv.
+Stachybotrys lunzinensis Svilv.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Ferodiscophrya cothurnata (Weisse, 1847) Jankowski, 1981 SPECIES
-=======
+# Discophrya cothurnata (Weisse, 1847) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

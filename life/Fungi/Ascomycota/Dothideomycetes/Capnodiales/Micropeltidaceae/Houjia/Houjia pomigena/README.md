@@ -1,5 +1,4 @@
-Houjia pomigena Batzer & Crous, 2010 SPECIES
-=======
+# Houjia pomigena Batzer & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

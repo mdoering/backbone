@@ -1,5 +1,4 @@
-Puccinia verbeniphila J.C. Lindq. SPECIES
-=======
+# Puccinia verbeniphila J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

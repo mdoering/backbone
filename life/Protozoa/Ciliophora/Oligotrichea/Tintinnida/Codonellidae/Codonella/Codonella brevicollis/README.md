@@ -1,5 +1,4 @@
-Codonella brevicollis Daday, 1887 SPECIES
-=======
+# Codonella brevicollis Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

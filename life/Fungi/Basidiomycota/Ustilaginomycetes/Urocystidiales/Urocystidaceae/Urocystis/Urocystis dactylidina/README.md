@@ -1,5 +1,4 @@
-Urocystis dactylidina (Lavrov) Zundel SPECIES
-=======
+# Urocystis dactylidina (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

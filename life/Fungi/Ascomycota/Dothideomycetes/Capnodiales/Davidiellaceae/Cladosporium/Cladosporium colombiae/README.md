@@ -1,5 +1,4 @@
-Cladosporium colombiae K. Schub. & Crous SPECIES
-=======
+# Cladosporium colombiae K. Schub. & Crous SPECIES
 
 #### Status
 ACCEPTED

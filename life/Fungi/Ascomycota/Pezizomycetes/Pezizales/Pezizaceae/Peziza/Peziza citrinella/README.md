@@ -1,5 +1,4 @@
-Peziza citrinella DC. SPECIES
-=======
+# Peziza citrinella DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophaea ampezzana (Rehm) Svrcek SPECIES
-=======
+# Trichophaea ampezzana (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

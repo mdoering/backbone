@@ -1,5 +1,4 @@
-Opegrapha inalbescens (Stirt.) Müll. Arg. SPECIES
-=======
+# Opegrapha inalbescens (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

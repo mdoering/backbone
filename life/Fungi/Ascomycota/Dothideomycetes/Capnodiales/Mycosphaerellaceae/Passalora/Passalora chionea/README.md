@@ -1,5 +1,4 @@
-Passalora chionea (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora chionea (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

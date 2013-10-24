@@ -1,5 +1,4 @@
-Lichen sinopicus (Wahlenb.) Sm. SPECIES
-=======
+# Lichen sinopicus (Wahlenb.) Sm. SPECIES
 
 #### Status
 ACCEPTED

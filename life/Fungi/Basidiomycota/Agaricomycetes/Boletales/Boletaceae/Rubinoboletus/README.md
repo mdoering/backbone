@@ -1,5 +1,4 @@
-Rubinoboletus Pilát & Dermek GENUS
-=======
+# Rubinoboletus Pilát & Dermek GENUS
 
 #### Status
 ACCEPTED

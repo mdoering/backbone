@@ -1,5 +1,4 @@
-Penardeugenia Deflandre, 1958 GENUS
-=======
+# Penardeugenia Deflandre, 1958 GENUS
 
 #### Status
 ACCEPTED

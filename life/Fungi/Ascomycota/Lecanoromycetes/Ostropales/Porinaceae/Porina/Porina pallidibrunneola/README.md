@@ -1,5 +1,4 @@
-Porina pallidibrunneola F. Schill. SPECIES
-=======
+# Porina pallidibrunneola F. Schill. SPECIES
 
 #### Status
 ACCEPTED

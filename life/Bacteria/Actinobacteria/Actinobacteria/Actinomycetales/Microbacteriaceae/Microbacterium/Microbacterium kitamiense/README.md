@@ -1,5 +1,4 @@
-Microbacterium kitamiense Matsuyama et al., 1999 SPECIES
-=======
+# Microbacterium kitamiense Matsuyama et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma fritillareae Schltdl. SPECIES
-=======
+# Caeoma fritillareae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

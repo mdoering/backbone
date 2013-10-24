@@ -1,5 +1,4 @@
-Nectria coelosphaerioides E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Nectria coelosphaerioides E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

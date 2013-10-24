@@ -1,5 +1,4 @@
-Pestalotiopsis laughtonae (Doidge) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis laughtonae (Doidge) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

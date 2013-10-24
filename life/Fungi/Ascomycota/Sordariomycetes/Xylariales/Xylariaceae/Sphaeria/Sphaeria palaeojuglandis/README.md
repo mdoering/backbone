@@ -1,5 +1,4 @@
-Sphaeria palaeojuglandis Ettingsh. SPECIES
-=======
+# Sphaeria palaeojuglandis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

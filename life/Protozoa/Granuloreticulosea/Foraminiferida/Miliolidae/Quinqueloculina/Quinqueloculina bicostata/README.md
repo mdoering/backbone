@@ -1,5 +1,4 @@
-Quinqueloculina bicostata SPECIES
-=======
+# Quinqueloculina bicostata SPECIES
 
 #### Status
 ACCEPTED

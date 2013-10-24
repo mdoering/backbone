@@ -1,5 +1,4 @@
-Cladonia paeminosa A. W. Archer SPECIES
-=======
+# Cladonia paeminosa A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

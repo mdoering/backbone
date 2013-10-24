@@ -1,5 +1,4 @@
-Uncinula sapindi S.R. Yu SPECIES
-=======
+# Uncinula sapindi S.R. Yu SPECIES
 
 #### Status
 ACCEPTED

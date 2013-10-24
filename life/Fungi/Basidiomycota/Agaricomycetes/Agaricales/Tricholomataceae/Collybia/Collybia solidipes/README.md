@@ -1,5 +1,4 @@
-Collybia solidipes Kauffman SPECIES
-=======
+# Collybia solidipes Kauffman SPECIES
 
 #### Status
 ACCEPTED

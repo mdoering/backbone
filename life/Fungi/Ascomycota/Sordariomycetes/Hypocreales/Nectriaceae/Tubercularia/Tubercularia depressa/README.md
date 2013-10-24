@@ -1,5 +1,4 @@
-Tubercularia depressa Lév. SPECIES
-=======
+# Tubercularia depressa Lév. SPECIES
 
 #### Status
 ACCEPTED

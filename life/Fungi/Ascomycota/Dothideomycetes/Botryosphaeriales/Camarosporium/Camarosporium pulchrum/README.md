@@ -1,5 +1,4 @@
-Camarosporium pulchrum Woron. SPECIES
-=======
+# Camarosporium pulchrum Woron. SPECIES
 
 #### Status
 ACCEPTED

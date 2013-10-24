@@ -1,5 +1,4 @@
-Asteridium baccharidicola Henn. SPECIES
-=======
+# Asteridium baccharidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

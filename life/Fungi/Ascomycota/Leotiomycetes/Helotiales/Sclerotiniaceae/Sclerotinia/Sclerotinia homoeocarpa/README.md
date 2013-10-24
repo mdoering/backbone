@@ -1,5 +1,4 @@
-Sclerotinia homoeocarpa F.T. Benn., 1937 SPECIES
-=======
+# Sclerotinia homoeocarpa F.T. Benn., 1937 SPECIES
 
 #### Status
 ACCEPTED

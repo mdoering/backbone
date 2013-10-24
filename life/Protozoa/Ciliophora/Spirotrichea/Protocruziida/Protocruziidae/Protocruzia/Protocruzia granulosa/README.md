@@ -1,5 +1,4 @@
-Protocruzia granulosa (Kahl, 1932) de Faria, da Cunha & Pinto, 1922 SPECIES
-=======
+# Protocruzia granulosa (Kahl, 1932) de Faria, da Cunha & Pinto, 1922 SPECIES
 
 #### Status
 ACCEPTED

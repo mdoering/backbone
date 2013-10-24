@@ -1,5 +1,4 @@
-Eikenella GENUS
-=======
+# Eikenella GENUS
 
 #### Status
 ACCEPTED

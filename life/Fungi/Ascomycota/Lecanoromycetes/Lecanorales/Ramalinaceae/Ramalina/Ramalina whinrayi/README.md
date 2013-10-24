@@ -1,17 +1,16 @@
-Ramalina whinrayii G.N. Stevens SPECIES
-=======
+# Ramalina whinrayi G. N. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 18(2): 187 (1986)
 
 #### Original name
-Ramalina whinrayii G.N. Stevens
+Ramalina whinrayi G. N. Stevens
 
 ### Remarks
 null

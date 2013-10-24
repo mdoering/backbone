@@ -1,5 +1,4 @@
-Phyllachora copeyensis Henn., 1902 SPECIES
-=======
+# Phyllachora copeyensis Henn., 1902 SPECIES
 
 #### Status
 DOUBTFUL

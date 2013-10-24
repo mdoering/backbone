@@ -1,5 +1,4 @@
-Metasphaeria polymorpha Kirschst. SPECIES
-=======
+# Metasphaeria polymorpha Kirschst. SPECIES
 
 #### Status
 ACCEPTED

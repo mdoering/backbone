@@ -1,5 +1,4 @@
-Colletotrichum petiolicola (Brunaud) Grove SPECIES
-=======
+# Colletotrichum petiolicola (Brunaud) Grove SPECIES
 
 #### Status
 ACCEPTED

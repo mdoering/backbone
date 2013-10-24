@@ -1,5 +1,4 @@
-Collybia castaneidisca (Murrill) Murrill SPECIES
-=======
+# Collybia castaneidisca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

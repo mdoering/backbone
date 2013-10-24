@@ -1,5 +1,4 @@
-Foremanellinidae Dumitrica, 1982 FAMILY
-=======
+# Foremanellinidae Dumitrica, 1982 FAMILY
 
 #### Status
 ACCEPTED

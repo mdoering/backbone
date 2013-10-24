@@ -1,5 +1,4 @@
-Pleuroflammula overeemii E. Horak SPECIES
-=======
+# Pleuroflammula overeemii E. Horak SPECIES
 
 #### Status
 ACCEPTED

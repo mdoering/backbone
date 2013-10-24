@@ -1,5 +1,4 @@
-Octospora spaniosa K.B. Khare SPECIES
-=======
+# Octospora spaniosa K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

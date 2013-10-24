@@ -1,5 +1,4 @@
-Cortinarius flavoferrugineus M.M. Moser SPECIES
-=======
+# Cortinarius flavoferrugineus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

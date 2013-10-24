@@ -1,5 +1,4 @@
-Dactylella alba (Preuss) Sacc. SPECIES
-=======
+# Dactylella alba (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

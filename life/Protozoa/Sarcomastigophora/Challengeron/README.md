@@ -1,5 +1,4 @@
-Challengeron Haeckel, 1887 GENUS
-=======
+# Challengeron Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

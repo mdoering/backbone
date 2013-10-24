@@ -1,5 +1,4 @@
-Tintinnus ehrenbergii Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus ehrenbergii Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

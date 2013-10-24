@@ -1,5 +1,4 @@
-Epicoccum tritici Henn. SPECIES
-=======
+# Epicoccum tritici Henn. SPECIES
 
 #### Status
 ACCEPTED

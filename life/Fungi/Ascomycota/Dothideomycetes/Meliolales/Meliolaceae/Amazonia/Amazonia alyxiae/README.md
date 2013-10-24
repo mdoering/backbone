@@ -1,5 +1,4 @@
-Amazonia alyxiae Hansf. SPECIES
-=======
+# Amazonia alyxiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina insularis Petr. SPECIES
-=======
+# Discosphaerina insularis Petr. SPECIES
 
 #### Status
 ACCEPTED

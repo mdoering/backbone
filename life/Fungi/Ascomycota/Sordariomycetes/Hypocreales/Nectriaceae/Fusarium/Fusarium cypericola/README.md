@@ -1,5 +1,4 @@
-Fusarium cypericola Henn. SPECIES
-=======
+# Fusarium cypericola Henn. SPECIES
 
 #### Status
 ACCEPTED

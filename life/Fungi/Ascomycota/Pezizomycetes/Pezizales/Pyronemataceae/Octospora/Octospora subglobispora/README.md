@@ -1,5 +1,4 @@
-Octospora subglobispora Benkert SPECIES
-=======
+# Octospora subglobispora Benkert SPECIES
 
 #### Status
 ACCEPTED

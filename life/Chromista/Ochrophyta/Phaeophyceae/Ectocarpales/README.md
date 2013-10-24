@@ -1,5 +1,4 @@
-Ectocarpales Bessey, 1907 ORDER
-=======
+# Ectocarpales Bessey, 1907 ORDER
 
 #### Status
 ACCEPTED

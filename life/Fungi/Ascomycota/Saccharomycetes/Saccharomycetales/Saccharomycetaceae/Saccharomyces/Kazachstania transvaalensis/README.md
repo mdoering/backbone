@@ -1,5 +1,4 @@
-Kazachstania transvaalensis (van der Walt) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania transvaalensis (van der Walt) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

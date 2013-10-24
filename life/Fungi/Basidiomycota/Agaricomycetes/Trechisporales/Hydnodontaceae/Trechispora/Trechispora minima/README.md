@@ -1,5 +1,4 @@
-Trechispora minima K.H. Larss., 1996 SPECIES
-=======
+# Trechispora minima K.H. Larss., 1996 SPECIES
 
 #### Status
 ACCEPTED

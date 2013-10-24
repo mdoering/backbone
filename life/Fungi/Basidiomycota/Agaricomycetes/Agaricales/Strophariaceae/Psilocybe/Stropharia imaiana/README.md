@@ -1,5 +1,4 @@
-Stropharia imaiana Benedix SPECIES
-=======
+# Stropharia imaiana Benedix SPECIES
 
 #### Status
 ACCEPTED

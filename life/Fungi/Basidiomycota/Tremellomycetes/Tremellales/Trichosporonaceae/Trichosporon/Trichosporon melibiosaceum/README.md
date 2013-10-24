@@ -1,5 +1,4 @@
-Trichosporon melibiosaceum D.B. Scott & van der Walt SPECIES
-=======
+# Trichosporon melibiosaceum D.B. Scott & van der Walt SPECIES
 
 #### Status
 ACCEPTED

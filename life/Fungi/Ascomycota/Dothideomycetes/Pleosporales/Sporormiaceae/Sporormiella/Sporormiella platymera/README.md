@@ -1,5 +1,4 @@
-Sporormiella platymera S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella platymera S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

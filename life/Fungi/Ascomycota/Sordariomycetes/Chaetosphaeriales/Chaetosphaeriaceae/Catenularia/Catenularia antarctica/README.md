@@ -1,5 +1,4 @@
-Catenularia antarctica Henn. SPECIES
-=======
+# Catenularia antarctica Henn. SPECIES
 
 #### Status
 ACCEPTED

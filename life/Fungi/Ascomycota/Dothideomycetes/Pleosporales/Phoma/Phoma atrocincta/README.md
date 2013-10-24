@@ -1,5 +1,4 @@
-Phoma atrocincta Sacc. SPECIES
-=======
+# Phoma atrocincta Sacc. SPECIES
 
 #### Status
 ACCEPTED

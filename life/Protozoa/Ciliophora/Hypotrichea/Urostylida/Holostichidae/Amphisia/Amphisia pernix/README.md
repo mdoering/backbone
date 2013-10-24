@@ -1,5 +1,4 @@
-Amphisia pernix sensu Wailes, 1943 SPECIES
-=======
+# Amphisia pernix sensu Wailes, 1943 SPECIES
 
 #### Status
 ACCEPTED

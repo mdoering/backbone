@@ -1,5 +1,4 @@
-Racodium aluta var. aluta VARIETY
-=======
+# Racodium aluta Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Bot. (Usteri) 1: 43 (1794)
 
 #### Original name
-Racodium aluta var. aluta
+Racodium aluta Pers.
 
 ### Remarks
 null

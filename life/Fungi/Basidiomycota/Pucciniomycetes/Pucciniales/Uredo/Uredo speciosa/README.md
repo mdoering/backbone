@@ -1,5 +1,4 @@
-Uredo speciosa (Peck) De Toni SPECIES
-=======
+# Uredo speciosa (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

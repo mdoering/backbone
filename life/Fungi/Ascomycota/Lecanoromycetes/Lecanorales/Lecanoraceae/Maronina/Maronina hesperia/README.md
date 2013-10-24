@@ -1,5 +1,4 @@
-Maronina hesperia Kantvilas & Elix SPECIES
-=======
+# Maronina hesperia Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Calycina fimetaria (Pers.) Kuntze SPECIES
-=======
+# Stilbella fimetaria (Pers.) Lindau, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Verh. bot. Ver. Prov. Brandenb. 47: 75 (1905)
 
 #### Original name
 Leotia fimetaria Pers., 1800

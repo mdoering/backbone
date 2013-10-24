@@ -1,5 +1,4 @@
-Caduceia França, 1918 GENUS
-=======
+# Caduceia França, 1918 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryoconis pallida Syd. & P. Syd. SPECIES
-=======
+# Botryoconis pallida Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

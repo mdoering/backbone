@@ -1,5 +1,4 @@
-Sphaerella spleniata Cooke & Peck SPECIES
-=======
+# Sphaerella spleniata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

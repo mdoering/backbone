@@ -1,5 +1,4 @@
-Intextomyces cystidiatus Hjortstam, 1987 SPECIES
-=======
+# Intextomyces cystidiatus Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

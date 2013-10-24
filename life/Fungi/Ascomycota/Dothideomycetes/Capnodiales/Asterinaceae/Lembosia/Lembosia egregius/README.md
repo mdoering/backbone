@@ -1,5 +1,4 @@
-Lembosia egregius Massee SPECIES
-=======
+# Lembosia egregius Massee SPECIES
 
 #### Status
 ACCEPTED

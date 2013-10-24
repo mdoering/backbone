@@ -1,5 +1,4 @@
-Hendersonia tecomae Sacc. SPECIES
-=======
+# Hendersonia tecomae Sacc. SPECIES
 
 #### Status
 ACCEPTED

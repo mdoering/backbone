@@ -1,5 +1,4 @@
-Calycellinopsis xishuangbanna W.Y. Zhuang, 1990 SPECIES
-=======
+# Calycellinopsis xishuangbanna W.Y. Zhuang, 1990 SPECIES
 
 #### Status
 ACCEPTED

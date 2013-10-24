@@ -1,5 +1,4 @@
-Palaeocybe striata Dörfelt, Striebich SPECIES
-=======
+# Palaeocybe striata Dörfelt, Striebich SPECIES
 
 #### Status
 ACCEPTED

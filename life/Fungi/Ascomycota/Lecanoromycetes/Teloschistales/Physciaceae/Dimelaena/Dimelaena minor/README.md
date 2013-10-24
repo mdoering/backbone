@@ -1,5 +1,4 @@
-Dimelaena minor SPECIES
-=======
+# Dimelaena minor SPECIES
 
 #### Status
 ACCEPTED

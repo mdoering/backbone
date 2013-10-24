@@ -1,5 +1,4 @@
-Dermatodothis symploci W.H. Hsieh & Chi Y. Chen SPECIES
-=======
+# Dermatodothis symploci W.H. Hsieh & Chi Y. Chen SPECIES
 
 #### Status
 ACCEPTED

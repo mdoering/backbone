@@ -1,5 +1,4 @@
-Pseudobaeospora cyanea Arnolds, Tabarés & Rocabruna SPECIES
-=======
+# Pseudobaeospora cyanea Arnolds, Tabarés & Rocabruna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe gomphidioides A.H. Sm. SPECIES
-=======
+# Clitocybe gomphidioides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

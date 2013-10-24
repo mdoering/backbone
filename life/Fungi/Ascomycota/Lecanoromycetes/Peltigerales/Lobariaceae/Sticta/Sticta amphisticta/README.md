@@ -1,5 +1,4 @@
-Sticta amphisticta C. Knight SPECIES
-=======
+# Sticta amphisticta C. Knight SPECIES
 
 #### Status
 ACCEPTED

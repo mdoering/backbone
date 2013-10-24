@@ -1,5 +1,4 @@
-Cryptosporella lentaginis Rehm SPECIES
-=======
+# Cryptosporella lentaginis Rehm SPECIES
 
 #### Status
 ACCEPTED

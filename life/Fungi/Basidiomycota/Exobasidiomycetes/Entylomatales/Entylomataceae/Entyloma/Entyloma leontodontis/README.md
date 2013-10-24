@@ -1,5 +1,4 @@
-Entyloma leontodontis Syd. SPECIES
-=======
+# Entyloma leontodontis Syd. SPECIES
 
 #### Status
 ACCEPTED

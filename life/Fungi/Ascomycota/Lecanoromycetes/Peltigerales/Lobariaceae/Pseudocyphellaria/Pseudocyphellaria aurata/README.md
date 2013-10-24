@@ -1,17 +1,16 @@
-Pseudocyphellaria aurata var. aurata VARIETY
-=======
+# Pseudocyphellaria aurata (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 7(1): 183 (1890)
 
 #### Original name
-Pseudocyphellaria aurata var. aurata
+Sticta aurata
 
 ### Remarks
 null

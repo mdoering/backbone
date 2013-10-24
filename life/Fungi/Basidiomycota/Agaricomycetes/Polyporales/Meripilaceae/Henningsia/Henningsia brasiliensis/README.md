@@ -1,17 +1,16 @@
-Henningsia geminella Möller, 1895 SPECIES
-=======
+# Henningsia brasiliensis (Speg.) Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mitt. Trop. 8: (1895)
+Boln Acad. nac. Cienc. Córdoba 23: 411 (1919)
 
 #### Original name
-Henningsia geminella Möller, 1895
+Polyporus brasiliensis (Fr.) Corner, 1984
 
 ### Remarks
 null

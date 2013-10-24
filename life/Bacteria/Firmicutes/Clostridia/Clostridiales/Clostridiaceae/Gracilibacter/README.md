@@ -1,5 +1,4 @@
-Gracilibacter Lee et al., 2006 GENUS
-=======
+# Gracilibacter Lee et al., 2006 GENUS
 
 #### Status
 ACCEPTED

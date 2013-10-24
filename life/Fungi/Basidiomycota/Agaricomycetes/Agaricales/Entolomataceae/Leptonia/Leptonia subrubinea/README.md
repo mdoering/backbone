@@ -1,5 +1,4 @@
-Leptonia subrubinea Largent & B.L. Thomps. SPECIES
-=======
+# Leptonia subrubinea Largent & B.L. Thomps. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira temperei (J. Brun) F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira temperei (J. Brun) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

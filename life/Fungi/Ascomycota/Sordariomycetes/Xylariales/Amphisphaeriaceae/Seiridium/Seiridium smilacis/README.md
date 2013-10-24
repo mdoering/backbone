@@ -1,17 +1,16 @@
-Seiridium similacis Schwein. SPECIES
-=======
+# Seiridium smilacis Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 306 (1832)
 
 #### Original name
-Seiridium similacis Schwein.
+Seiridium smilacis Schwein.
 
 ### Remarks
 null

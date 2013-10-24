@@ -1,5 +1,4 @@
-Lycoperdon desertorum Velen. SPECIES
-=======
+# Lycoperdon desertorum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium kochiae Savul. & Sandu SPECIES
-=======
+# Coniothyrium kochiae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

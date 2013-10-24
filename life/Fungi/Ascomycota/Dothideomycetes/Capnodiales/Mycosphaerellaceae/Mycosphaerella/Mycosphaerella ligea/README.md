@@ -1,5 +1,4 @@
-Mycosphaerella ligea (Sacc.) Zeller SPECIES
-=======
+# Mycosphaerella ligea (Sacc.) Zeller SPECIES
 
 #### Status
 ACCEPTED

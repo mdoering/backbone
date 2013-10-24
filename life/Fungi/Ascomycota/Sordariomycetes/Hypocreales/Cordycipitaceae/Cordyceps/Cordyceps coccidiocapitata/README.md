@@ -1,5 +1,4 @@
-Cordyceps coccidiocapitata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps coccidiocapitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

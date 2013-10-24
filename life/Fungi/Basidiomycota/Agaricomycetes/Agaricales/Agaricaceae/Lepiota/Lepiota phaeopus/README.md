@@ -1,5 +1,4 @@
-Lepiota phaeopus Rick SPECIES
-=======
+# Lepiota phaeopus Rick SPECIES
 
 #### Status
 ACCEPTED

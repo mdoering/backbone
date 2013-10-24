@@ -1,5 +1,4 @@
-Macrosporium cleomes Sawada SPECIES
-=======
+# Macrosporium cleomes Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyobolus porphyrosporus (Hedw.) Sacc. SPECIES
-=======
+# Dasyobolus porphyrosporus (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

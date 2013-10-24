@@ -1,17 +1,16 @@
-Cercospora suropi S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora sauropodis S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(3): 59 (1990)
 
 #### Original name
-Cercospora suropi S.Q. Chen & P.K. Chi
+Cercospora sauropodis S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

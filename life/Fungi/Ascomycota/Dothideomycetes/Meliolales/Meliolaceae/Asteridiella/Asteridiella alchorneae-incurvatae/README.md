@@ -1,5 +1,4 @@
-Asteridiella alchorneae-incurvatae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella alchorneae-incurvatae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

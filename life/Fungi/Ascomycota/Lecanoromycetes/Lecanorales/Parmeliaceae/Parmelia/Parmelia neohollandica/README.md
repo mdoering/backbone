@@ -1,5 +1,4 @@
-Parmelia neohollandica Nyl. SPECIES
-=======
+# Parmelia neohollandica Nyl. SPECIES
 
 #### Status
 ACCEPTED

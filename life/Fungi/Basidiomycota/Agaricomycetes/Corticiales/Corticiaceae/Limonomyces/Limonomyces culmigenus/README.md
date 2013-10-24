@@ -1,14 +1,13 @@
-Galzinia culmigena (R.K. Webster & D.A. Reid) B.N. Johri & Bandoni, 1975 SPECIES
-=======
+# Limonomyces culmigenus (R.K. Webster & D.A. Reid) Stalpers & Loer., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 53: 2563 (1975)
+Can. J. Bot. 60(5): 536 (1982)
 
 #### Original name
 Exobasidiellum culmigenum R.K. Webster & D.A. Reid, 1969

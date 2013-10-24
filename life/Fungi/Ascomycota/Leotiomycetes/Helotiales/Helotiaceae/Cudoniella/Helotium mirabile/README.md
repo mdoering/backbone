@@ -1,5 +1,4 @@
-Helotium mirabile Velen. SPECIES
-=======
+# Helotium mirabile Velen. SPECIES
 
 #### Status
 ACCEPTED

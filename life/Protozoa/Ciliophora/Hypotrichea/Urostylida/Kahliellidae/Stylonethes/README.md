@@ -1,5 +1,4 @@
-Stylonethes Sterki, 1878 GENUS
-=======
+# Stylonethes Sterki, 1878 GENUS
 
 #### Status
 ACCEPTED

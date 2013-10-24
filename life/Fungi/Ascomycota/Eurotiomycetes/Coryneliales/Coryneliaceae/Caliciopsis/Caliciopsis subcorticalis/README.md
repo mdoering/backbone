@@ -1,5 +1,4 @@
-Caliciopsis subcorticalis (Cooke & Ellis) Fitzp. SPECIES
-=======
+# Caliciopsis subcorticalis (Cooke & Ellis) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

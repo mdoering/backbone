@@ -1,5 +1,4 @@
-Lepiota venusta Bagl. SPECIES
-=======
+# Lepiota venusta Bagl. SPECIES
 
 #### Status
 ACCEPTED

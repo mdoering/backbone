@@ -1,5 +1,4 @@
-Discosia poikilomera Fairm. SPECIES
-=======
+# Discosia poikilomera Fairm. SPECIES
 
 #### Status
 ACCEPTED

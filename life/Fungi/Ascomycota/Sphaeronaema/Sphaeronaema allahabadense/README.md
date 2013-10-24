@@ -1,5 +1,4 @@
-Sphaeronaema allahabadense S. Chandra & Tandon, 1964 SPECIES
-=======
+# Sphaeronaema allahabadense S. Chandra & Tandon, 1964 SPECIES
 
 #### Status
 ACCEPTED

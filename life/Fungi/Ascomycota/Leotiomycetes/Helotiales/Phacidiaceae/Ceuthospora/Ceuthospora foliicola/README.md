@@ -1,17 +1,16 @@
-Cytospora foliicola var. foliicola VARIETY
-=======
+# Ceuthospora foliicola (Lib.) Jaap, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cytospora foliicola var. foliicola
+Cytospora foliicola Lib., 1830
 
 ### Remarks
 null

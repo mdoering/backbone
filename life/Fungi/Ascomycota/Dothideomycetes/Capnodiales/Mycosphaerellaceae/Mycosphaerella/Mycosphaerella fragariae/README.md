@@ -1,17 +1,16 @@
-Ramularia tulasnei var. tulasnei VARIETY
-=======
+# Mycosphaerella fragariae (Tul.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 203 (1886)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
-Ramularia tulasnei var. tulasnei
+Cylindrosporium grevilleanum Tul.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Triposora GENUS
-=======
+# Tripospora Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini), Addit. 194 (1886)
 
 #### Original name
-null
+Tripospora Sacc.
 
 ### Remarks
 null

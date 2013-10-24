@@ -1,5 +1,4 @@
-Cumminsiella standleyana Cummins, 1940 SPECIES
-=======
+# Cumminsiella standleyana Cummins, 1940 SPECIES
 
 #### Status
 ACCEPTED

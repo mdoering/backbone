@@ -1,5 +1,4 @@
-Arcyria lateritia de Bary SPECIES
-=======
+# Arcyria lateritia de Bary SPECIES
 
 #### Status
 ACCEPTED

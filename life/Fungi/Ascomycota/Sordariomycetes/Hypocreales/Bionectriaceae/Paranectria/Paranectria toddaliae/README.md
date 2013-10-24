@@ -1,5 +1,4 @@
-Paranectria toddaliae Hansf. SPECIES
-=======
+# Paranectria toddaliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

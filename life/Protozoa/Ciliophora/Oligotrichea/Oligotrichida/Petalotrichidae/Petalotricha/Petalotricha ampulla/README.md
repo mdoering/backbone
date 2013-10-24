@@ -1,5 +1,4 @@
-Petalotricha ampulla (Fol, 1881) Kent, 1882 SPECIES
-=======
+# Petalotricha ampulla (Fol, 1881) Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

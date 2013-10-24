@@ -1,5 +1,4 @@
-Amanitopsis pubescens (Schwein.) Sacc. SPECIES
-=======
+# Amanitopsis pubescens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

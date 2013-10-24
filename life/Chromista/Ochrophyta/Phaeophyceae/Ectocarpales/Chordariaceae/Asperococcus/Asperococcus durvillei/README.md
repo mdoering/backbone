@@ -1,5 +1,4 @@
-Asperococcus durvillei Bory SPECIES
-=======
+# Asperococcus durvillei Bory SPECIES
 
 #### Status
 ACCEPTED

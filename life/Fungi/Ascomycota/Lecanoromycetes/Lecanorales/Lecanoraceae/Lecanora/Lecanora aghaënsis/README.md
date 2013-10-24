@@ -1,5 +1,4 @@
-Lecanora aghaënsis Zahlbr. SPECIES
-=======
+# Lecanora aghaënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

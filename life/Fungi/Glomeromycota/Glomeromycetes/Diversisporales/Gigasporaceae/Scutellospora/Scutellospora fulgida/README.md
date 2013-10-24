@@ -1,5 +1,4 @@
-Scutellospora fulgida Koske & C. Walker, 1986 SPECIES
-=======
+# Scutellospora fulgida Koske & C. Walker, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptus packii SPECIES
-=======
+# Uroleptus packii SPECIES
 
 #### Status
 ACCEPTED

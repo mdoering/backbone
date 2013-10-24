@@ -1,5 +1,4 @@
-Schaereria porpidioides Fryday & Common SPECIES
-=======
+# Schaereria porpidioides Fryday & Common SPECIES
 
 #### Status
 ACCEPTED

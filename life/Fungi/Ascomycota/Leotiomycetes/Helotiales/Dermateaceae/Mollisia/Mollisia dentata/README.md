@@ -1,5 +1,4 @@
-Mollisia dentata (Pers.) SPECIES
-=======
+# Mollisia dentata (Pers.) SPECIES
 
 #### Status
 ACCEPTED

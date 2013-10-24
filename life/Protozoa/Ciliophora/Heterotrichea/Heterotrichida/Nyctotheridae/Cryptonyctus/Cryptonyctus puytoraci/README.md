@@ -1,5 +1,4 @@
-Cryptonyctus puytoraci (Albaret, 1968) Jankowski, 2007 SPECIES
-=======
+# Cryptonyctus puytoraci (Albaret, 1968) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria hamata D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria hamata D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

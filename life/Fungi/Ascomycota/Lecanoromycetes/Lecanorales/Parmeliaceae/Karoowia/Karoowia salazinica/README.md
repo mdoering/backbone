@@ -1,5 +1,4 @@
-Karoowia salazinica Hale SPECIES
-=======
+# Karoowia salazinica Hale SPECIES
 
 #### Status
 ACCEPTED

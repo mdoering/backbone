@@ -1,5 +1,4 @@
-Discoaster petaliformis Moshkovitz & Ehrlich, 1980 SPECIES
-=======
+# Discoaster petaliformis Moshkovitz & Ehrlich, 1980 SPECIES
 
 #### Status
 ACCEPTED

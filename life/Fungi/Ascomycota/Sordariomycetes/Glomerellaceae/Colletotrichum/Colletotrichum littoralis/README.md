@@ -1,5 +1,4 @@
-Colletotrichum littoralis Av.-Saccá SPECIES
-=======
+# Colletotrichum littoralis Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

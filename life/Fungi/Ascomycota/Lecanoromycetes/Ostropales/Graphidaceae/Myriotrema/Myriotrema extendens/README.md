@@ -1,5 +1,4 @@
-Myriotrema extendens Nagarkar & Hale SPECIES
-=======
+# Myriotrema extendens Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

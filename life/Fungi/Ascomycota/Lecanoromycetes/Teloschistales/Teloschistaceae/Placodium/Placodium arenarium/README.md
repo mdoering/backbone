@@ -1,5 +1,4 @@
-Placodium arenarium (Pers.) Naeg. SPECIES
-=======
+# Placodium arenarium (Pers.) Naeg. SPECIES
 
 #### Status
 ACCEPTED

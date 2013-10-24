@@ -1,17 +1,16 @@
-Meliola secamonis Hansf. SPECIES
-=======
+# Meliola secamones Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 156(2): 106 (1944)
 
 #### Original name
-Meliola secamonis Hansf.
+Meliola secamones Hansf.
 
 ### Remarks
 null

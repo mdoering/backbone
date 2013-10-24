@@ -1,5 +1,4 @@
-Polyporus fallaciosus Speg. SPECIES
-=======
+# Polyporus fallaciosus Speg. SPECIES
 
 #### Status
 ACCEPTED

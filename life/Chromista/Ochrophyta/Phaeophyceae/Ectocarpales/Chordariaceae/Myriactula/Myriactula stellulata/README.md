@@ -1,8 +1,7 @@
-Myriactis stellulata (Harvey) Batters SPECIES
-=======
+# Myriactula stellulata (Harvey) Levring SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

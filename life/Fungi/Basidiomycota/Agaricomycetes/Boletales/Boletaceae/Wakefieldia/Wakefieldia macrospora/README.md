@@ -1,14 +1,13 @@
-Sclerogaster macrosporus Hawker, 1951 SPECIES
-=======
+# Wakefieldia macrospora (Hawker) Hawker, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 34: 218 (1951)
+Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences 237: 521 (1954)
 
 #### Original name
 Sclerogaster macrosporus Hawker, 1951

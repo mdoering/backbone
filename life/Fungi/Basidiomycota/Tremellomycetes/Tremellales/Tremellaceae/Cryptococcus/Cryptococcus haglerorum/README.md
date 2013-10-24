@@ -1,5 +1,4 @@
-Cryptococcus haglerorum Middelhoven, Á. Fonseca, S.C. Carreiro, Pagnocca & O.C. Bueno SPECIES
-=======
+# Cryptococcus haglerorum Middelhoven, Á. Fonseca, S.C. Carreiro, Pagnocca & O.C. Bueno SPECIES
 
 #### Status
 ACCEPTED

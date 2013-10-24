@@ -1,5 +1,4 @@
-Phaeosaccardinula gigantospora Bat. & Matta SPECIES
-=======
+# Phaeosaccardinula gigantospora Bat. & Matta SPECIES
 
 #### Status
 ACCEPTED

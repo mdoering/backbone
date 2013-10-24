@@ -1,17 +1,16 @@
-Lophiostoma arundinis var. arundinis VARIETY
-=======
+# Lophiostoma arundinis (Pers.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Schem. di Classif. Sferiacei 46 (1863)
 
 #### Original name
-Lophiostoma arundinis var. arundinis
+Sphaeria cristata ß cristata Pers.
 
 ### Remarks
 null

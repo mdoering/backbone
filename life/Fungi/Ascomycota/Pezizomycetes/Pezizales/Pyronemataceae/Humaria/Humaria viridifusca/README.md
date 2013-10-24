@@ -1,5 +1,4 @@
-Humaria viridifusca (Del. {?} ) Sacc. SPECIES
-=======
+# Humaria viridifusca (Del. {?} ) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma gymnophorum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma gymnophorum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

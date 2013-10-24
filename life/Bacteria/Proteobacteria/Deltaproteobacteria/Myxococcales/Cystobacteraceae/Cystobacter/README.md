@@ -1,5 +1,4 @@
-Cystobacter GENUS
-=======
+# Cystobacter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Englerulaster gilgianus (Henn.) Theiss. SPECIES
-=======
+# Englerulaster gilgianus (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

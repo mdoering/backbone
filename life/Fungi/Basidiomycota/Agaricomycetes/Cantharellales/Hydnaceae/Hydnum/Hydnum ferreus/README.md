@@ -1,5 +1,4 @@
-Hydnum ferreus Lloyd SPECIES
-=======
+# Hydnum ferreus Lloyd SPECIES
 
 #### Status
 ACCEPTED

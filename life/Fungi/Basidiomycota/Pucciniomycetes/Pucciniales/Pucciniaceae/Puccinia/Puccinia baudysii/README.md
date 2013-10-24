@@ -1,5 +1,4 @@
-Puccinia baudysii Picb. SPECIES
-=======
+# Puccinia baudysii Picb. SPECIES
 
 #### Status
 ACCEPTED

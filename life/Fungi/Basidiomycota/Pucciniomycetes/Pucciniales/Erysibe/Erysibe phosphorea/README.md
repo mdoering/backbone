@@ -1,5 +1,4 @@
-Erysibe phosphorea Schultz Sch. SPECIES
-=======
+# Erysibe phosphorea Schultz Sch. SPECIES
 
 #### Status
 ACCEPTED

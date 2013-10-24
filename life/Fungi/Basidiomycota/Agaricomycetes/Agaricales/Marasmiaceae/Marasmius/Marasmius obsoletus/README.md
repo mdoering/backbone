@@ -1,5 +1,4 @@
-Marasmius obsoletus Murrill SPECIES
-=======
+# Marasmius obsoletus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripospermum lagerstroemiae (Henn.) Speg. SPECIES
-=======
+# Tripospermum lagerstroemiae (Henn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

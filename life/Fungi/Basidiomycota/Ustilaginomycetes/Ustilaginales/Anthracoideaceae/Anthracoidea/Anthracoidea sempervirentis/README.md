@@ -1,5 +1,4 @@
-Anthracoidea sempervirentis Vánky, 1979 SPECIES
-=======
+# Anthracoidea sempervirentis Vánky, 1979 SPECIES
 
 #### Status
 ACCEPTED

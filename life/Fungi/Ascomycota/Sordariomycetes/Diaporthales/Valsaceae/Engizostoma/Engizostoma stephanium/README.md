@@ -1,5 +1,4 @@
-Engizostoma stephanium (Pass.) Kuntze SPECIES
-=======
+# Engizostoma stephanium (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

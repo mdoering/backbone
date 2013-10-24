@@ -1,11 +1,10 @@
-Coscinodiscus nodulifer A. Schmidt SPECIES
-=======
+# Azpeitia nodulifera (A. Schmidt) G. Fryxell & P.A. Sims SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

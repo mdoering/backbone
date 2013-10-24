@@ -1,5 +1,4 @@
-Flagelloscypha japonica T. Handa & Y. Harada, 2005 SPECIES
-=======
+# Flagelloscypha japonica T. Handa & Y. Harada, 2005 SPECIES
 
 #### Status
 ACCEPTED

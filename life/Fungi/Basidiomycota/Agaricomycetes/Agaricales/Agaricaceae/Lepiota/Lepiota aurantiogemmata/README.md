@@ -1,5 +1,4 @@
-Lepiota aurantiogemmata Charles & Burl. SPECIES
-=======
+# Lepiota aurantiogemmata Charles & Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Karschia cratincola Rehm, 1890 SPECIES
-=======
+# Poetschia cratincola (Rehm) Hafellner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Discom. 348 (1890)
+Beih. Nova Hedwigia 62: 190 (1979)
 
 #### Original name
 Karschia cratincola Rehm, 1890

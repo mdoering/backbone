@@ -1,5 +1,4 @@
-Monacrosporium ambrosium Gadd & Loos SPECIES
-=======
+# Monacrosporium ambrosium Gadd & Loos SPECIES
 
 #### Status
 ACCEPTED

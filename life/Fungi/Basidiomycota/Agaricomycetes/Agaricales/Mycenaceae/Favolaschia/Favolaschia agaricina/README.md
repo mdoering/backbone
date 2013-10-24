@@ -1,5 +1,4 @@
-Favolaschia agaricina (Mont.) Kuntze SPECIES
-=======
+# Favolaschia agaricina (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

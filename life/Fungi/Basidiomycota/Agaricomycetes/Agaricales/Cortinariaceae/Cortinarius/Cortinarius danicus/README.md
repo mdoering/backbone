@@ -1,14 +1,13 @@
-Dermocybe danica (Høil.) Garrido, 1988 SPECIES
-=======
+# Cortinarius danicus Høil., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 120: 169 (1988)
+Op. bot. 71: 106 (1984)
 
 #### Original name
 Cortinarius danicus Høil., 1984

@@ -1,5 +1,4 @@
-Uredo deutziae Barclay SPECIES
-=======
+# Uredo deutziae Barclay SPECIES
 
 #### Status
 ACCEPTED

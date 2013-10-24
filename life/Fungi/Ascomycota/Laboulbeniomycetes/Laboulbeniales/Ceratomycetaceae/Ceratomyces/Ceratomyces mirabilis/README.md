@@ -1,5 +1,4 @@
-Ceratomyces mirabilis Thaxt., 1893 SPECIES
-=======
+# Ceratomyces mirabilis Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

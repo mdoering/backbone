@@ -1,5 +1,4 @@
-Gnomonia fahrendorffii M. Monod SPECIES
-=======
+# Gnomonia fahrendorffii M. Monod SPECIES
 
 #### Status
 ACCEPTED

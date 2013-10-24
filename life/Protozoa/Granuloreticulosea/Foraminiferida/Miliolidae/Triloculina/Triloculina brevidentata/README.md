@@ -1,5 +1,4 @@
-Triloculina brevidentata Cushman, 1944 SPECIES
-=======
+# Triloculina brevidentata Cushman, 1944 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella linearis (Peck) Petr. SPECIES
-=======
+# Aplosporella linearis (Peck) Petr. SPECIES
 
 #### Status
 ACCEPTED

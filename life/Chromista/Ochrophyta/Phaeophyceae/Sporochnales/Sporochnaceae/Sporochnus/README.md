@@ -1,5 +1,4 @@
-Sporochnus C.Agardh, 1817 GENUS
-=======
+# Sporochnus C.Agardh, 1817 GENUS
 
 #### Status
 ACCEPTED

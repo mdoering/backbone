@@ -1,5 +1,4 @@
-Hedraites Henbest, 1963 GENUS
-=======
+# Hedraites Henbest, 1963 GENUS
 
 #### Status
 ACCEPTED

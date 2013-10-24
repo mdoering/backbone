@@ -1,5 +1,4 @@
-Lopadium athalloides (Nyl.) SPECIES
-=======
+# Lopadium athalloides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

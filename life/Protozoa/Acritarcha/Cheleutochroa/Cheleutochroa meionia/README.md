@@ -1,5 +1,4 @@
-Cheleutochroa meionia Turner, 1984 SPECIES
-=======
+# Cheleutochroa meionia Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

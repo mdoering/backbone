@@ -1,5 +1,4 @@
-Sphaeria kegeliana Lév. SPECIES
-=======
+# Sphaeria kegeliana Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladyna psilostomatis (Thüm.) M.L. Farr SPECIES
-=======
+# Balladyna psilostomatis (Thüm.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

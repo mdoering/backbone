@@ -1,5 +1,4 @@
-Bacisphaeridium bacifer (Eisenack, 1934) Eisenack, 1962 SPECIES
-=======
+# Bacisphaeridium bacifer (Eisenack, 1934) Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

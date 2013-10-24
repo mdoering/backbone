@@ -1,5 +1,4 @@
-Lalaria inositophila Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
-=======
+# Lalaria inositophila Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
 
 #### Status
 ACCEPTED

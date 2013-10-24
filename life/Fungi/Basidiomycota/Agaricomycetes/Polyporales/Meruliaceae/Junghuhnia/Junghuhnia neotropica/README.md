@@ -1,5 +1,4 @@
-Junghuhnia neotropica I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Junghuhnia neotropica I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

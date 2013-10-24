@@ -1,5 +1,4 @@
-Pestalotia monochroa Tassi SPECIES
-=======
+# Pestalotia monochroa Tassi SPECIES
 
 #### Status
 ACCEPTED

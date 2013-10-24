@@ -1,5 +1,4 @@
-Aecidium ervatamiae J.M. Yen SPECIES
-=======
+# Aecidium ervatamiae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus lithophilus Fr. SPECIES
-=======
+# Panus lithophilus Fr. SPECIES
 
 #### Status
 ACCEPTED

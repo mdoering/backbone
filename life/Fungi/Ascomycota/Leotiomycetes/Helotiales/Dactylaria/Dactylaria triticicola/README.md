@@ -1,5 +1,4 @@
-Dactylaria triticicola Kwasna & G.L. Bateman SPECIES
-=======
+# Dactylaria triticicola Kwasna & G.L. Bateman SPECIES
 
 #### Status
 ACCEPTED

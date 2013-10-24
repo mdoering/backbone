@@ -1,5 +1,4 @@
-Hymenelia ceracea (Arnold) Poelt & Vezda SPECIES
-=======
+# Hymenelia ceracea (Arnold) Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

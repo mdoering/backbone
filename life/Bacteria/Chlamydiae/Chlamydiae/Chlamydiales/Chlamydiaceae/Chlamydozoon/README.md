@@ -1,5 +1,4 @@
-Chlamydozoon Prowazek, 1907 GENUS
-=======
+# Chlamydozoon Prowazek, 1907 GENUS
 
 #### Status
 ACCEPTED

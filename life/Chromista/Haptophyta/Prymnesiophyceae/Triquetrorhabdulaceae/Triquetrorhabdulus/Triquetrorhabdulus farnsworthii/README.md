@@ -1,5 +1,4 @@
-Triquetrorhabdulus farnsworthii (Gartner, 1967) Perch-Nielsen, 1984 SPECIES
-=======
+# Triquetrorhabdulus farnsworthii (Gartner, 1967) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopeziza leuconica Raitv. SPECIES
-=======
+# Hyalopeziza leuconica Raitv. SPECIES
 
 #### Status
 ACCEPTED

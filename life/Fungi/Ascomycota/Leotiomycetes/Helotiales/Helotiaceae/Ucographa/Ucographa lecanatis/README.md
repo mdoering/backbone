@@ -1,5 +1,4 @@
-Ucographa lecanatis A. Massal. SPECIES
-=======
+# Ucographa lecanatis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

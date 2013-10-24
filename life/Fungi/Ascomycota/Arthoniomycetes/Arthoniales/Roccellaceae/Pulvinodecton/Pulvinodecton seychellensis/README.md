@@ -1,5 +1,4 @@
-Pulvinodecton seychellensis Henssen & G. Thor SPECIES
-=======
+# Pulvinodecton seychellensis Henssen & G. Thor SPECIES
 
 #### Status
 ACCEPTED

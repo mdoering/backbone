@@ -1,5 +1,4 @@
-Echinoporina Fuchs, 1967 GENUS
-=======
+# Echinoporina Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

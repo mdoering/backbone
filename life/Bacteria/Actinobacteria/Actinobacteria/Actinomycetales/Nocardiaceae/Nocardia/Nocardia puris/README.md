@@ -1,5 +1,4 @@
-Nocardia puris Yassin et al., 2003 SPECIES
-=======
+# Nocardia puris Yassin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

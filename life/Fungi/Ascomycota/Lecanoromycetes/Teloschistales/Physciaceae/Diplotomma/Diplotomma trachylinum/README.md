@@ -1,5 +1,4 @@
-Diplotomma trachylinum (A. Massal.) C.W. Dodge SPECIES
-=======
+# Diplotomma trachylinum (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

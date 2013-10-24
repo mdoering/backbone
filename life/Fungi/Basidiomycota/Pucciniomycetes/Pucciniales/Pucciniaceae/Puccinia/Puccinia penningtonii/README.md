@@ -1,5 +1,4 @@
-Puccinia penningtonii Syd. SPECIES
-=======
+# Puccinia penningtonii Syd. SPECIES
 
 #### Status
 ACCEPTED

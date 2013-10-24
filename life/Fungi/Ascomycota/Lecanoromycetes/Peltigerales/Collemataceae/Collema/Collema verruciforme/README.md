@@ -1,5 +1,4 @@
-Collema verruciforme (Ach.) Nyl. SPECIES
-=======
+# Collema verruciforme (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

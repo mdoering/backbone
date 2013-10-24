@@ -1,5 +1,4 @@
-Opegrapha lynceoides Müll. Arg. SPECIES
-=======
+# Opegrapha lynceoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

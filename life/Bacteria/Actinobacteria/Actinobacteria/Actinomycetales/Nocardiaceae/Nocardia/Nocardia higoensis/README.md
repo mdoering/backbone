@@ -1,5 +1,4 @@
-Nocardia higoensis Kageyama et al., 2004 SPECIES
-=======
+# Nocardia higoensis Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

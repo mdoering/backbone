@@ -1,5 +1,4 @@
-Rhytisma myrciae Mont. SPECIES
-=======
+# Rhytisma myrciae Mont. SPECIES
 
 #### Status
 ACCEPTED

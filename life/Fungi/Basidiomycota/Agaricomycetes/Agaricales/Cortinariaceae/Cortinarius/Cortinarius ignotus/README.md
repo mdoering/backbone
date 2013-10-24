@@ -1,5 +1,4 @@
-Cortinarius ignotus E. Horak, 1990 SPECIES
-=======
+# Cortinarius ignotus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

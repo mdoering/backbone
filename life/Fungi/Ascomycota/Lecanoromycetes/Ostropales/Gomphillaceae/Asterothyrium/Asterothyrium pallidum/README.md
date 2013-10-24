@@ -1,5 +1,4 @@
-Asterothyrium pallidum (Henssen & Lücking) L.I. Ferraro & Lücking SPECIES
-=======
+# Asterothyrium pallidum (Henssen & Lücking) L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

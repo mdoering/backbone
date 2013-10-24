@@ -1,5 +1,4 @@
-Cenangium apertum Schwein. SPECIES
-=======
+# Cenangium apertum Schwein. SPECIES
 
 #### Status
 ACCEPTED

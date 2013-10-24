@@ -1,5 +1,4 @@
-Elphidium frizzelli Miller, 1953 SPECIES
-=======
+# Elphidium frizzelli Miller, 1953 SPECIES
 
 #### Status
 ACCEPTED

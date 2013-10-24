@@ -1,5 +1,4 @@
-Agaricus holophlebia Berk. SPECIES
-=======
+# Agaricus holophlebia Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurniopsis dionysii SPECIES
-=======
+# Cothurniopsis dionysii SPECIES
 
 #### Status
 ACCEPTED

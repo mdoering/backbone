@@ -1,5 +1,4 @@
-Nectria sepulta Pat. SPECIES
-=======
+# Nectria sepulta Pat. SPECIES
 
 #### Status
 ACCEPTED

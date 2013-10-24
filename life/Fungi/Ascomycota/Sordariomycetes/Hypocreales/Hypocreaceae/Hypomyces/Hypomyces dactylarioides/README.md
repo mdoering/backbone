@@ -1,5 +1,4 @@
-Hypomyces dactylarioides G.R.W. Arnold, 1972 SPECIES
-=======
+# Hypomyces dactylarioides G.R.W. Arnold, 1972 SPECIES
 
 #### Status
 ACCEPTED

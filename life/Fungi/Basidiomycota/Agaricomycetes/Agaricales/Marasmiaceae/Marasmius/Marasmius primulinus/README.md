@@ -1,5 +1,4 @@
-Marasmius primulinus Berk. SPECIES
-=======
+# Marasmius primulinus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia linderae Sacc. SPECIES
-=======
+# Hendersonia linderae Sacc. SPECIES
 
 #### Status
 ACCEPTED

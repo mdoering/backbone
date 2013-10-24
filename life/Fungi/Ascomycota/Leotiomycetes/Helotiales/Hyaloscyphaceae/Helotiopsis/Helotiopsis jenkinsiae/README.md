@@ -1,17 +1,16 @@
-Helotiopsis jenkinsii Sherwood & Korf SPECIES
-=======
+# Helotiopsis jenkinsiae Sherwood & Korf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 3(2): 321 (1976)
 
 #### Original name
-Helotiopsis jenkinsii Sherwood & Korf
+Helotiopsis jenkinsiae Sherwood & Korf
 
 ### Remarks
 null

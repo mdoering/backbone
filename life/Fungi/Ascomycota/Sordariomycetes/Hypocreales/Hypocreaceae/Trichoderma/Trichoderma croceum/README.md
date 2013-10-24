@@ -1,5 +1,4 @@
-Trichoderma croceum Bissett, 1992 SPECIES
-=======
+# Trichoderma croceum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

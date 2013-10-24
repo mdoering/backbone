@@ -1,5 +1,4 @@
-Rhabdostyla vernalis Stokes, 1887 SPECIES
-=======
+# Rhabdostyla vernalis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

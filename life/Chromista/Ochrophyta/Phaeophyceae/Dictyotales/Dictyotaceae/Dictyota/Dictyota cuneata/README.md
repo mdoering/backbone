@@ -1,5 +1,4 @@
-Dictyota cuneata Dickie SPECIES
-=======
+# Dictyota cuneata Dickie SPECIES
 
 #### Status
 DOUBTFUL

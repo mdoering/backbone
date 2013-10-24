@@ -1,5 +1,4 @@
-Sporisorium apludae-aristatae (B.V. Patil & Thirum.) Vánky SPECIES
-=======
+# Sporisorium apludae-aristatae (B.V. Patil & Thirum.) Vánky SPECIES
 
 #### Status
 ACCEPTED

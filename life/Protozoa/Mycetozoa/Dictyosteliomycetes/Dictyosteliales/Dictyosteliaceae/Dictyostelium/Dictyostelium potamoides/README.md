@@ -1,5 +1,4 @@
-Dictyostelium potamoides Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
-=======
+# Dictyostelium potamoides Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetitomaculum ruminis Greening & Leedle, 1995 SPECIES
-=======
+# Acetitomaculum ruminis Greening & Leedle, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claussenomyces kirschsteinianus (Kirschst.) G. Marson & Baral SPECIES
-=======
+# Claussenomyces kirschsteinianus (Kirschst.) G. Marson & Baral SPECIES
 
 #### Status
 ACCEPTED

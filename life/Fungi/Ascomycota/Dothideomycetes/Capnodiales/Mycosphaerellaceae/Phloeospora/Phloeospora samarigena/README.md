@@ -1,5 +1,4 @@
-Phloeospora samarigena Bubák & Krieg. SPECIES
-=======
+# Phloeospora samarigena Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skujamonas B.V. Skvortzov, 1960 GENUS
-=======
+# Skujamonas B.V. Skvortzov, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium oceanicum Hasle, 1960 SPECIES
-=======
+# Gymnodinium oceanicum Hasle, 1960 SPECIES
 
 #### Status
 ACCEPTED

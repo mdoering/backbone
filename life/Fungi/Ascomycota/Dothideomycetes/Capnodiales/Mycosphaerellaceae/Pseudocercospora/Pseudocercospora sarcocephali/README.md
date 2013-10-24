@@ -1,5 +1,4 @@
-Pseudocercospora sarcocephali (Vienn.-Bourg.) Deighton SPECIES
-=======
+# Pseudocercospora sarcocephali (Vienn.-Bourg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

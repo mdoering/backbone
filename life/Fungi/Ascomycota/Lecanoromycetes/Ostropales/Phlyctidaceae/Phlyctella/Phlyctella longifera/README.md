@@ -1,5 +1,4 @@
-Phlyctella longifera (Nyl.) D.J. Galloway SPECIES
-=======
+# Phlyctella longifera (Nyl.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

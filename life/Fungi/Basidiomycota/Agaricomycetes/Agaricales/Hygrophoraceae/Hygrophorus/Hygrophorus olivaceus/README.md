@@ -1,5 +1,4 @@
-Hygrophorus olivaceus Velen. SPECIES
-=======
+# Hygrophorus olivaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

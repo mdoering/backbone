@@ -1,5 +1,4 @@
-Helotium cribrosum (Grev.) Berk., 1871 SPECIES
-=======
+# Helotium cribrosum (Grev.) Berk., 1871 SPECIES
 
 #### Status
 ACCEPTED

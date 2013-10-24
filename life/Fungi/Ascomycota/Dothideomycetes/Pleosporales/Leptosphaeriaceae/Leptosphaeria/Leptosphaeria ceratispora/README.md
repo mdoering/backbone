@@ -1,5 +1,4 @@
-Leptosphaeria ceratispora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria ceratispora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

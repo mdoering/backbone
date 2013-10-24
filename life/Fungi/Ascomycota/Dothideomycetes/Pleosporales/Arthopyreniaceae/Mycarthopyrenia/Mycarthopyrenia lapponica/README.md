@@ -1,5 +1,4 @@
-Mycarthopyrenia lapponica SPECIES
-=======
+# Mycarthopyrenia lapponica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galbibacter mesophilus Khan, Nakagawa & Harayama, 2007 SPECIES
-=======
+# Galbibacter mesophilus Khan, Nakagawa & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

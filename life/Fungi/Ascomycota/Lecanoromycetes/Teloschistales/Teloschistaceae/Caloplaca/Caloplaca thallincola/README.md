@@ -1,14 +1,13 @@
-Caloplaca aurantia var. thallincola (Wedd.) I.M. Lamb VARIETY
-=======
+# Caloplaca thallincola (Wedd.) Du Rietz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Götland. Vegetationsstud. 50 (1925)
 
 #### Original name
 Lecanora murorum var. thallincola Wedd.

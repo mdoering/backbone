@@ -1,5 +1,4 @@
-Microsporum furfuracea Fr. SPECIES
-=======
+# Microsporum furfuracea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria spirospora (C. Knight) SPECIES
-=======
+# Patellaria spirospora (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

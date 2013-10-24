@@ -1,5 +1,4 @@
-Heterocalycina levantinoides (Bursa) P.C. Silva SPECIES
-=======
+# Heterocalycina levantinoides (Bursa) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

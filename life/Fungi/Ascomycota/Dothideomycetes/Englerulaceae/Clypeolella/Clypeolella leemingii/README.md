@@ -1,5 +1,4 @@
-Clypeolella leemingii (Ellis & Everh.) Theiss. SPECIES
-=======
+# Clypeolella leemingii (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

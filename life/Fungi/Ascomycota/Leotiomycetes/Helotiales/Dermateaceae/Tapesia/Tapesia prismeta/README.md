@@ -1,5 +1,4 @@
-Tapesia prismeta (Schwein.) Sacc. SPECIES
-=======
+# Tapesia prismeta (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

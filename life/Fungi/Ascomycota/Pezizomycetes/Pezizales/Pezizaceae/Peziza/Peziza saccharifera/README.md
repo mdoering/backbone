@@ -1,5 +1,4 @@
-Peziza saccharifera Berk. SPECIES
-=======
+# Peziza saccharifera Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleolpidium GENUS
-=======
+# Pleolpidium GENUS
 
 #### Status
 ACCEPTED

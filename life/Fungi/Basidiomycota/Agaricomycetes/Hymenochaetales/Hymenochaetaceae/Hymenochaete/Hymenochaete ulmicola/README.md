@@ -1,5 +1,4 @@
-Hymenochaete ulmicola Corfixen & Parmasto SPECIES
-=======
+# Hymenochaete ulmicola Corfixen & Parmasto SPECIES
 
 #### Status
 ACCEPTED

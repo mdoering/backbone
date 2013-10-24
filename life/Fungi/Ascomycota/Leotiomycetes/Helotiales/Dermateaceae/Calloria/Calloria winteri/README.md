@@ -1,5 +1,4 @@
-Calloria winteri J. Kunze SPECIES
-=======
+# Calloria winteri J. Kunze SPECIES
 
 #### Status
 ACCEPTED

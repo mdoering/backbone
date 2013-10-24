@@ -1,5 +1,4 @@
-Antrodia plicata Niemelä, 1978 SPECIES
-=======
+# Antrodia plicata Niemelä, 1978 SPECIES
 
 #### Status
 ACCEPTED

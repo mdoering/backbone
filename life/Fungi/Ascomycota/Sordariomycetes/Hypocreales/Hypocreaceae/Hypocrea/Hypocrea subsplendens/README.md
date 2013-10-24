@@ -1,5 +1,4 @@
-Hypocrea subsplendens Yoshim. Doi, 1968 SPECIES
-=======
+# Hypocrea subsplendens Yoshim. Doi, 1968 SPECIES
 
 #### Status
 ACCEPTED

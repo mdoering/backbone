@@ -1,5 +1,4 @@
-Lecidella brunneola Rehm SPECIES
-=======
+# Lecidella brunneola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astomella neolitsae Thirum. SPECIES
-=======
+# Astomella neolitsae Thirum. SPECIES
 
 #### Status
 ACCEPTED

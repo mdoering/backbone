@@ -1,5 +1,4 @@
-Verrucaria jurana SPECIES
-=======
+# Verrucaria jurana SPECIES
 
 #### Status
 ACCEPTED

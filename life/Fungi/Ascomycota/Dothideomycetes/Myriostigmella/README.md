@@ -1,14 +1,13 @@
-Myriostigma G. Arnaud GENUS
-=======
+# Myriostigmella G. Arnaud GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 10 7: 655 (1925)
+Bull. trimest. Soc. mycol. Fr. 68: 221 (1952)
 
 #### Original name
 Myriostigma G. Arnaud

@@ -1,5 +1,4 @@
-Rhynchosphaeria polonica Petr. SPECIES
-=======
+# Rhynchosphaeria polonica Petr. SPECIES
 
 #### Status
 ACCEPTED

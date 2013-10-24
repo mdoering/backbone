@@ -1,5 +1,4 @@
-Spiromastix Kuehn & G.F. Orr, 1962 GENUS
-=======
+# Spiromastix Kuehn & G.F. Orr, 1962 GENUS
 
 #### Status
 ACCEPTED

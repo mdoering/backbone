@@ -1,5 +1,4 @@
-Graphina bothynocarpa Redinger SPECIES
-=======
+# Graphina bothynocarpa Redinger SPECIES
 
 #### Status
 ACCEPTED

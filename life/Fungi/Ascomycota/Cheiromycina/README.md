@@ -1,5 +1,4 @@
-Cheiromycina B. Sutton GENUS
-=======
+# Cheiromycina B. Sutton GENUS
 
 #### Status
 ACCEPTED

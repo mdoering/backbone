@@ -1,5 +1,4 @@
-Xanthoparmelia vendensis Hale SPECIES
-=======
+# Xanthoparmelia vendensis Hale SPECIES
 
 #### Status
 ACCEPTED

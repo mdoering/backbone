@@ -1,5 +1,4 @@
-Berkleasmium conglobatum (Cooke & Ellis) R.T. Moore SPECIES
-=======
+# Berkleasmium conglobatum (Cooke & Ellis) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

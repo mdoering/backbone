@@ -1,5 +1,4 @@
-Sigmoidea J.L. Crane GENUS
-=======
+# Sigmoidea J.L. Crane GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola voacangae-foetidae Hansf. SPECIES
-=======
+# Meliola voacangae-foetidae Hansf. SPECIES
 
 #### Status
 ACCEPTED

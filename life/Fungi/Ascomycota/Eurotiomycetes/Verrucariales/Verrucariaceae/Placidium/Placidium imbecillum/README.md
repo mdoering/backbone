@@ -1,5 +1,4 @@
-Placidium imbecillum (Breuss) Breuss SPECIES
-=======
+# Placidium imbecillum (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

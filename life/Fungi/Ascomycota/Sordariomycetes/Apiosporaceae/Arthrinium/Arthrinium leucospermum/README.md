@@ -1,5 +1,4 @@
-Arthrinium leucospermum Bonord. SPECIES
-=======
+# Arthrinium leucospermum Bonord. SPECIES
 
 #### Status
 ACCEPTED

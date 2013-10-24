@@ -1,5 +1,4 @@
-Coccomyces tesselatus Sherwood, 1980 SPECIES
-=======
+# Coccomyces tesselatus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

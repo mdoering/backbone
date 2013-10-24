@@ -1,5 +1,4 @@
-Collonema hrubyi Petr. SPECIES
-=======
+# Collonema hrubyi Petr. SPECIES
 
 #### Status
 ACCEPTED

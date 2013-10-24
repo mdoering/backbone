@@ -1,5 +1,4 @@
-Microthelia koerberi Trevis. SPECIES
-=======
+# Microthelia koerberi Trevis. SPECIES
 
 #### Status
 ACCEPTED

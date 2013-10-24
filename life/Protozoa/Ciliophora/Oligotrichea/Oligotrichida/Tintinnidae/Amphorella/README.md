@@ -1,5 +1,4 @@
-Amphorella Daday, 1887 GENUS
-=======
+# Amphorella Daday, 1887 GENUS
 
 #### Status
 ACCEPTED

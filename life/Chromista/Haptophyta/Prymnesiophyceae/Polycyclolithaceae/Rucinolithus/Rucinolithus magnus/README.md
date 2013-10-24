@@ -1,5 +1,4 @@
-Rucinolithus magnus D. Bukry SPECIES
-=======
+# Rucinolithus magnus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

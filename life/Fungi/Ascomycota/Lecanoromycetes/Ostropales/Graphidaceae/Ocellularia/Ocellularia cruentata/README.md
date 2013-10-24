@@ -1,14 +1,13 @@
-Triblidium cruentatum (Mont.) Sherwood SPECIES
-=======
+# Ocellularia cruentata (Mont.) Hafellner & Magnes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(1): 169 (1977)
+Biblthca Mycol. 165: 119 (1997)
 
 #### Original name
 Stictis cruentata Mont.

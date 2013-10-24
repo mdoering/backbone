@@ -1,5 +1,4 @@
-Brochosaccus GENUS
-=======
+# Brochosaccus GENUS
 
 #### Status
 ACCEPTED

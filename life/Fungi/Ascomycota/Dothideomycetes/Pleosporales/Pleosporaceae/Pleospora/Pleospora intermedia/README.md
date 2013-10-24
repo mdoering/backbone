@@ -1,5 +1,4 @@
-Pleospora intermedia Speg. SPECIES
-=======
+# Pleospora intermedia Speg. SPECIES
 
 #### Status
 ACCEPTED

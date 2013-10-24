@@ -1,8 +1,7 @@
-Oolina squamosa vadosa McCulloch, 1977 SUBSPECIES
-=======
+# Favulina vadosa (McCulloch, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

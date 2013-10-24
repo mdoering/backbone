@@ -1,5 +1,4 @@
-Leptosphaeria hazslinzskiana Berl. SPECIES
-=======
+# Leptosphaeria hazslinzskiana Berl. SPECIES
 
 #### Status
 ACCEPTED

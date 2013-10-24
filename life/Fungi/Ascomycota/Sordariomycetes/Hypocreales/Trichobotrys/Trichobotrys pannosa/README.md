@@ -1,5 +1,4 @@
-Trichobotrys pannosa Penz. & Sacc., 1901 SPECIES
-=======
+# Trichobotrys pannosa Penz. & Sacc., 1901 SPECIES
 
 #### Status
 ACCEPTED

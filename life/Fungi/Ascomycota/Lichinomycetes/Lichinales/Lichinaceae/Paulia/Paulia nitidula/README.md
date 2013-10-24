@@ -1,5 +1,4 @@
-Paulia nitidula (Müll. Arg.) M. Schultz SPECIES
-=======
+# Paulia nitidula (Müll. Arg.) M. Schultz SPECIES
 
 #### Status
 ACCEPTED

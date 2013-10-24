@@ -1,5 +1,4 @@
-Trichodina magna SPECIES
-=======
+# Trichodina magna SPECIES
 
 #### Status
 ACCEPTED

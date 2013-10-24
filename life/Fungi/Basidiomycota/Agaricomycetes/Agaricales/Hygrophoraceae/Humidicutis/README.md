@@ -1,5 +1,4 @@
-Humidicutis (Singer) Singer GENUS
-=======
+# Humidicutis (Singer) Singer GENUS
 
 #### Status
 ACCEPTED

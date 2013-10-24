@@ -1,5 +1,4 @@
-Barlaeina discoidea (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
-=======
+# Barlaeina discoidea (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

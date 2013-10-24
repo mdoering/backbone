@@ -1,5 +1,4 @@
-Guignardia capsici Punith., 1974 SPECIES
-=======
+# Guignardia capsici Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

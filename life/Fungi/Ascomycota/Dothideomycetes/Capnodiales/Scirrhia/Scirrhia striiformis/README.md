@@ -1,8 +1,7 @@
-Scirrhia striaeformis Niessl SPECIES
-=======
+# Scirrhia striiformis Niessl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Scirrhia striaeformis Niessl
+Scirrhia striiformis Niessl
 
 ### Remarks
 null

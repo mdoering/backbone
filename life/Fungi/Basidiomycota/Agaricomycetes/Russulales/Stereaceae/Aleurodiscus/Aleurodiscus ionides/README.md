@@ -1,17 +1,16 @@
-Aleurodiscus jonides (Bres.) Bourdot & Galzin SPECIES
-=======
+# Aleurodiscus ionides (Bres.) Bourdot & Galzin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 28(4): 353 (1913)
 
 #### Original name
-Corticium jonides Bres.
+Corticium ionides Bres.
 
 ### Remarks
 null

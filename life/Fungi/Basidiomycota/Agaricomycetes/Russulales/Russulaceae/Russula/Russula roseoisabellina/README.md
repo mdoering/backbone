@@ -1,17 +1,16 @@
-Russula rosei-isabellina Murrill SPECIES
-=======
+# Russula roseoisabellina Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 216 (1943)
 
 #### Original name
-Russula rosei-isabellina Murrill
+Russula roseoisabellina Murrill
 
 ### Remarks
 null

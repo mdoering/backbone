@@ -1,5 +1,4 @@
-Phragmothyrites eocenicus W.N. Edwards SPECIES
-=======
+# Phragmothyrites eocenicus W.N. Edwards SPECIES
 
 #### Status
 ACCEPTED

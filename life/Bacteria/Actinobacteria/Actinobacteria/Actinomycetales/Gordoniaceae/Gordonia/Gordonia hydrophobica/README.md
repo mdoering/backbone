@@ -1,5 +1,4 @@
-Gordonia hydrophobica Bendinger et al., 1995 SPECIES
-=======
+# Gordonia hydrophobica Bendinger et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

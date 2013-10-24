@@ -1,5 +1,4 @@
-Clavaria tenuis subsp. tenuis SUBSPECIES
-=======
+# Clavaria tenuis Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. phil. Soc. , New Series 4(2): 182 (1832)
 
 #### Original name
-Clavaria tenuis subsp. tenuis
+Clavaria tenuis Schwein.
 
 ### Remarks
 null

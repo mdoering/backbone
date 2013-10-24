@@ -1,5 +1,4 @@
-Pyrgo laevis SPECIES
-=======
+# Pyrgo laevis SPECIES
 
 #### Status
 ACCEPTED

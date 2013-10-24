@@ -1,5 +1,4 @@
-Omphalia petasiformis (Murrill) Murrill SPECIES
-=======
+# Omphalia petasiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subconnexa Murrill SPECIES
-=======
+# Inocybe subconnexa Murrill SPECIES
 
 #### Status
 ACCEPTED

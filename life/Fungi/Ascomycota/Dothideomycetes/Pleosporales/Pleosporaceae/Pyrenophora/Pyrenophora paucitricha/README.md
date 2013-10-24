@@ -1,5 +1,4 @@
-Pyrenophora paucitricha (Fuckel) Berl. & Voglino SPECIES
-=======
+# Pyrenophora paucitricha (Fuckel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

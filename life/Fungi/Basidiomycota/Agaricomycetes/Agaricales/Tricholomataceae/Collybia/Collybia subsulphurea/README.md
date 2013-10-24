@@ -1,5 +1,4 @@
-Collybia subsulphurea Peck SPECIES
-=======
+# Collybia subsulphurea Peck SPECIES
 
 #### Status
 ACCEPTED

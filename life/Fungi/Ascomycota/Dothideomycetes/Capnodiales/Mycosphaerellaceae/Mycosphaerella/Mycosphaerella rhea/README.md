@@ -1,5 +1,4 @@
-Mycosphaerella rhea (Fautrey) Koshk. SPECIES
-=======
+# Mycosphaerella rhea (Fautrey) Koshk. SPECIES
 
 #### Status
 ACCEPTED

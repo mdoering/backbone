@@ -1,5 +1,4 @@
-Ramularia hydrangeae Y.L. Guo & U. Braun SPECIES
-=======
+# Ramularia hydrangeae Y.L. Guo & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia zenkeri Zahlbr. SPECIES
-=======
+# Bacidia zenkeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

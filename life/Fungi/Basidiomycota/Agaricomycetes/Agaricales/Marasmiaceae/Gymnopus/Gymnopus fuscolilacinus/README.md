@@ -1,5 +1,4 @@
-Gymnopus fuscolilacinus (Peck) Murrill SPECIES
-=======
+# Gymnopus fuscolilacinus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

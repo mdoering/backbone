@@ -1,5 +1,4 @@
-Puccinia altensis Lindr. SPECIES
-=======
+# Puccinia altensis Lindr. SPECIES
 
 #### Status
 ACCEPTED

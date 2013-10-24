@@ -1,5 +1,4 @@
-Neuropogon substrigulosus I.M. Lamb SPECIES
-=======
+# Neuropogon substrigulosus I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

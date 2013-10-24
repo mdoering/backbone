@@ -1,5 +1,4 @@
-Stenella palmicola Matsush., 1985 SPECIES
-=======
+# Stenella palmicola Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia platensis (Speg.) Singer SPECIES
-=======
+# Collybia platensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

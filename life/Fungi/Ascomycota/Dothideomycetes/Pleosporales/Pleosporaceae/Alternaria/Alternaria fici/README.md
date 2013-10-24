@@ -1,5 +1,4 @@
-Alternaria fici Farneti SPECIES
-=======
+# Alternaria fici Farneti SPECIES
 
 #### Status
 ACCEPTED

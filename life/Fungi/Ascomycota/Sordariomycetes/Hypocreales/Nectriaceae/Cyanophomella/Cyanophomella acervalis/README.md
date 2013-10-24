@@ -1,14 +1,13 @@
-Phoma acervalis Sacc., 1884 SPECIES
-=======
+# Cyanophomella acervalis (Sacc.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 97 (1884)
+Hedwigia 60: 157 (1918)
 
 #### Original name
 Phoma acervalis Sacc., 1884

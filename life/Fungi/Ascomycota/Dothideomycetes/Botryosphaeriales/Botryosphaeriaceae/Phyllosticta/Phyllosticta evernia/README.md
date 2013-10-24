@@ -1,5 +1,4 @@
-Phyllosticta evernia (Syd.) Aa SPECIES
-=======
+# Phyllosticta evernia (Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

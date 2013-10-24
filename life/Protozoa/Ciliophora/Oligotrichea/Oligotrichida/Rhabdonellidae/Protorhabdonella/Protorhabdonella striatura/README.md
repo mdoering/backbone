@@ -1,5 +1,4 @@
-Protorhabdonella striatura Kofoid & Campbell, 1929 SPECIES
-=======
+# Protorhabdonella striatura Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

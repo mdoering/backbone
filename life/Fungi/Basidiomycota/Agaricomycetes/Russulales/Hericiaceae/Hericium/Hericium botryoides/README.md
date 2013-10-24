@@ -1,5 +1,4 @@
-Hericium botryoides S. Ito & Otani, 1957 SPECIES
-=======
+# Hericium botryoides S. Ito & Otani, 1957 SPECIES
 
 #### Status
 ACCEPTED

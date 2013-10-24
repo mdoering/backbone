@@ -1,5 +1,4 @@
-Asteroma gentianae Fuckel SPECIES
-=======
+# Asteroma gentianae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Graphiocladiella clavigerum H.P. Upadhyay SPECIES
-=======
+# Graphiocladiella clavigera H.P. Upadhyay, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Ceratocystis and Ceratocystiopsis (Athens) 138 (1981)
 
 #### Original name
-Graphiocladiella clavigerum H.P. Upadhyay
+Graphiocladiella clavigera H.P. Upadhyay, 1981
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetoceros hendeyi Manguin, 1960 SPECIES
-=======
+# Chaetoceros hendeyi Manguin, 1960 SPECIES
 
 #### Status
 ACCEPTED

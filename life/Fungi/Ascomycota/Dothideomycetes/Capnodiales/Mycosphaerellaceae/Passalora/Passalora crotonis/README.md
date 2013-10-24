@@ -1,5 +1,4 @@
-Passalora crotonis (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora crotonis (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

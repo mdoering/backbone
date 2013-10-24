@@ -1,5 +1,4 @@
-Placynthiomyces nigri Cif. & Tomas. SPECIES
-=======
+# Placynthiomyces nigri Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

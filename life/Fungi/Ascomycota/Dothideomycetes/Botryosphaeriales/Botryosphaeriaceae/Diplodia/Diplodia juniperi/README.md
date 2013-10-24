@@ -1,5 +1,4 @@
-Diplodia juniperi Westend. SPECIES
-=======
+# Diplodia juniperi Westend. SPECIES
 
 #### Status
 ACCEPTED

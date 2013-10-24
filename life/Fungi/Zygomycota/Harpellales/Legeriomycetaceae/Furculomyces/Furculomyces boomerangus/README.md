@@ -1,14 +1,13 @@
-Smittium boomerangum M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Furculomyces boomerangus (M.C. Williams & Lichtw.) M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 68(5): 1061 (1990)
+Can. J. Bot. 70(6): 1196 (1992)
 
 #### Original name
 Smittium boomerangum M.C. Williams & Lichtw., 1990

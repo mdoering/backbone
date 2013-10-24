@@ -1,5 +1,4 @@
-Macalpinomyces pogonarthriae Vánky & C. Vánky, 2002 SPECIES
-=======
+# Macalpinomyces pogonarthriae Vánky & C. Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

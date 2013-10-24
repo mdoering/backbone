@@ -1,5 +1,4 @@
-Sulfolobus shibatae Grogan et al., 1991 SPECIES
-=======
+# Sulfolobus shibatae Grogan et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

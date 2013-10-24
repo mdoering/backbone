@@ -1,5 +1,4 @@
-Uredo costicola J.M. Yen & Gilles SPECIES
-=======
+# Uredo costicola J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis strossmayeri (Schulzer) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis strossmayeri (Schulzer) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

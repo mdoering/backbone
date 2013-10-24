@@ -1,5 +1,4 @@
-Septoria scrophulariaecola Lobik SPECIES
-=======
+# Septoria scrophulariaecola Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogiopsis complicata Nyl. SPECIES
-=======
+# Leptogiopsis complicata Nyl. SPECIES
 
 #### Status
 ACCEPTED

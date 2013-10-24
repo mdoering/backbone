@@ -1,5 +1,4 @@
-Sphaeria pyriospora Ellis SPECIES
-=======
+# Sphaeria pyriospora Ellis SPECIES
 
 #### Status
 ACCEPTED

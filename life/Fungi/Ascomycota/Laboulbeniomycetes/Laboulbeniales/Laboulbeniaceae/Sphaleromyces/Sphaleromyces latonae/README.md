@@ -1,5 +1,4 @@
-Sphaleromyces latonae Thaxt. SPECIES
-=======
+# Sphaleromyces latonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

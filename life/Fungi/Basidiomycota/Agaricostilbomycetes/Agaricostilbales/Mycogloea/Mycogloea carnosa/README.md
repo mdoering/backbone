@@ -1,5 +1,4 @@
-Mycogloea carnosa L.S. Olive, 1950 SPECIES
-=======
+# Mycogloea carnosa L.S. Olive, 1950 SPECIES
 
 #### Status
 ACCEPTED

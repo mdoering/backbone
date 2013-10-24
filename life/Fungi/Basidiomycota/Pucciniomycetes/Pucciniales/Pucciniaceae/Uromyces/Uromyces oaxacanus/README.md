@@ -1,5 +1,4 @@
-Uromyces oaxacanus Dietel & Holw. SPECIES
-=======
+# Uromyces oaxacanus Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

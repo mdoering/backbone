@@ -1,17 +1,16 @@
-Cortinarius angelesianus var. angelesianus VARIETY
-=======
+# Cortinarius angelesianus A.H. Sm., 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 7(3): 205 (1944)
 
 #### Original name
-Cortinarius angelesianus var. angelesianus
+Cortinarius angelesianus A.H. Sm., 1944
 
 ### Remarks
 null

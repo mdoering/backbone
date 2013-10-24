@@ -1,5 +1,4 @@
-Irene sapotacearum Hansf. SPECIES
-=======
+# Irene sapotacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

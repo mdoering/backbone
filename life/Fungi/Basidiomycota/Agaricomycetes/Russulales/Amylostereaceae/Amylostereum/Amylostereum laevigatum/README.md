@@ -1,17 +1,16 @@
-Stereum laevigatum var. laevigatum VARIETY
-=======
+# Amylostereum laevigatum (Fr.) Boidin, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 10: 130 (1880)
+Revue Mycol. , Paris 23: 345 (1958)
 
 #### Original name
-Stereum laevigatum var. laevigatum
+Thelephora laevigata Fr., 1828
 
 ### Remarks
 null

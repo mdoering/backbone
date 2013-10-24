@@ -1,5 +1,4 @@
-Phlomobacter fragariae Zreik et al., 1998. SPECIES
-=======
+# Phlomobacter fragariae Zreik et al., 1998. SPECIES
 
 #### Status
 ACCEPTED

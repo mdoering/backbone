@@ -1,5 +1,4 @@
-Micropeltella albomarginata (Speg.) Syd. & P. Syd. SPECIES
-=======
+# Micropeltella albomarginata (Speg.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

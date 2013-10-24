@@ -1,5 +1,4 @@
-Chaetothyrium griseolum L.R. Fraser SPECIES
-=======
+# Chaetothyrium griseolum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

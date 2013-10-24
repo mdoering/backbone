@@ -1,5 +1,4 @@
-Aplosporella peckii (Sacc.) House SPECIES
-=======
+# Aplosporella peckii (Sacc.) House SPECIES
 
 #### Status
 ACCEPTED

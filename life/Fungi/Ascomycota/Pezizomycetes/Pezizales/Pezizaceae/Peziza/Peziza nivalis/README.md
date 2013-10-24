@@ -1,14 +1,13 @@
-Aleuria nivalis (R. Heim & L. Remy) R. Heim, 1947 SPECIES
-=======
+# Peziza nivalis (R. Heim & L. Remy) M.M. Moser, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Israel J. Bot. 23: 162 (1974)
 
 #### Original name
 Galactinia nivalis R. Heim & L. Remy, 1932

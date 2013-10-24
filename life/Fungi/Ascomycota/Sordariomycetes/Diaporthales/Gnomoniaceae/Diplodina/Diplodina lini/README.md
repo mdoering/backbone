@@ -1,5 +1,4 @@
-Diplodina lini Moesz & Smarods SPECIES
-=======
+# Diplodina lini Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

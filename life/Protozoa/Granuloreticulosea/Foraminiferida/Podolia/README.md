@@ -1,5 +1,4 @@
-Podolia Serova, 1961 GENUS
-=======
+# Podolia Serova, 1961 GENUS
 
 #### Status
 ACCEPTED

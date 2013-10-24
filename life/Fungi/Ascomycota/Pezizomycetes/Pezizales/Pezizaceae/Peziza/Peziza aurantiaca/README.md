@@ -1,5 +1,4 @@
-Peziza aurantiaca Pers. SPECIES
-=======
+# Peziza aurantiaca Pers. SPECIES
 
 #### Status
 ACCEPTED

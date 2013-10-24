@@ -1,5 +1,4 @@
-Oidium heliotropii-indici Sawada SPECIES
-=======
+# Oidium heliotropii-indici Sawada SPECIES
 
 #### Status
 ACCEPTED

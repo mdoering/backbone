@@ -1,5 +1,4 @@
-Cladosporium multigeniculatum W. Yamam., 1959 SPECIES
-=======
+# Cladosporium multigeniculatum W. Yamam., 1959 SPECIES
 
 #### Status
 ACCEPTED

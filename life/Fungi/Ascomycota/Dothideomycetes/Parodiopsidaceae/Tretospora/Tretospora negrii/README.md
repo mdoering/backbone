@@ -1,5 +1,4 @@
-Tretospora negrii M.B. Ellis, 1976 SPECIES
-=======
+# Tretospora negrii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

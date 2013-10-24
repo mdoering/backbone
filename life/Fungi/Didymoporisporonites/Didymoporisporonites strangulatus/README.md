@@ -1,5 +1,4 @@
-Didymoporisporonites strangulatus Sal.-Cheb. & Locq. SPECIES
-=======
+# Didymoporisporonites strangulatus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

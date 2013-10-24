@@ -1,5 +1,4 @@
-Aulacoseira dendrophila (Ehrenberg) R.M. Crawford SPECIES
-=======
+# Aulacoseira dendrophila (Ehrenberg) R.M. Crawford SPECIES
 
 #### Status
 ACCEPTED

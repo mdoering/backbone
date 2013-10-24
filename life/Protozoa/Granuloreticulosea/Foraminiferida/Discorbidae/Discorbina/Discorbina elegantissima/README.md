@@ -1,5 +1,4 @@
-Discorbina elegantissima Sidebottom, 1908 SPECIES
-=======
+# Discorbina elegantissima Sidebottom, 1908 SPECIES
 
 #### Status
 ACCEPTED

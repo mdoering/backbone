@@ -1,5 +1,4 @@
-Crepidotus ochraceus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus ochraceus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

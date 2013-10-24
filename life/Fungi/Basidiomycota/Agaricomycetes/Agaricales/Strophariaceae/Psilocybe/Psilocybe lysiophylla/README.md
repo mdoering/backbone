@@ -1,5 +1,4 @@
-Psilocybe lysiophylla Fr. SPECIES
-=======
+# Psilocybe lysiophylla Fr. SPECIES
 
 #### Status
 ACCEPTED

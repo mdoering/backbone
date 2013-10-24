@@ -1,5 +1,4 @@
-Parmelia frankliniana Taylor SPECIES
-=======
+# Parmelia frankliniana Taylor SPECIES
 
 #### Status
 ACCEPTED

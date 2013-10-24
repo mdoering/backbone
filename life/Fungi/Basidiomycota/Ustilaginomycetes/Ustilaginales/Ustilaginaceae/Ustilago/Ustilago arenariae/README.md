@@ -1,5 +1,4 @@
-Ustilago arenariae Ellis & Everh. SPECIES
-=======
+# Ustilago arenariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

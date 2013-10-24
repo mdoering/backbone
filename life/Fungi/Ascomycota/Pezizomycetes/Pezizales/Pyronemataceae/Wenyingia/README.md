@@ -1,5 +1,4 @@
-Wenyingia Zheng Wang & Pfister, 2001 GENUS
-=======
+# Wenyingia Zheng Wang & Pfister, 2001 GENUS
 
 #### Status
 ACCEPTED

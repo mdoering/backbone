@@ -1,17 +1,16 @@
-Irene forschhammeriae Hansf. SPECIES
-=======
+# Irene forchhammeriae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 4 (1955)
 
 #### Original name
-Irene forschhammeriae Hansf.
+Irene forchhammeriae Hansf.
 
 ### Remarks
 null

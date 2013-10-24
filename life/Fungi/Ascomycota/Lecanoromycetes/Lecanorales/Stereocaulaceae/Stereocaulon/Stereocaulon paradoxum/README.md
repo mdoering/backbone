@@ -1,5 +1,4 @@
-Stereocaulon paradoxum I.M. Lamb SPECIES
-=======
+# Stereocaulon paradoxum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

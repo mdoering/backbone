@@ -1,11 +1,10 @@
-Corynebacterium acnes (Gilchrist, 1900) Eberson, 1918 SPECIES
-=======
+# Propionibacterium acnes (sic) (Gilchrist, 1900) Douglas and Gunter, 1946 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

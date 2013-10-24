@@ -1,5 +1,4 @@
-Taphrina media Palm SPECIES
-=======
+# Taphrina media Palm SPECIES
 
 #### Status
 ACCEPTED

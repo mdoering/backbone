@@ -1,5 +1,4 @@
-Pyrenula cerina f. expallens Zahlbr. FORM
-=======
+# Pyrenula cerina Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. Lich. 25 (1824)
 
 #### Original name
-Pyrenula cerina f. expallens Zahlbr.
+Pyrenula cerina Eschw.
 
 ### Remarks
 null

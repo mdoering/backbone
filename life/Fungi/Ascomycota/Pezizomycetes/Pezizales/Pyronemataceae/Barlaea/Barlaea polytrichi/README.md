@@ -1,5 +1,4 @@
-Barlaea polytrichi (Schumach.) Sacc. SPECIES
-=======
+# Barlaea polytrichi (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

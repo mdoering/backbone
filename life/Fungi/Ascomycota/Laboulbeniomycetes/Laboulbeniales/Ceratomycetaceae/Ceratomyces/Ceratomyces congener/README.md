@@ -1,5 +1,4 @@
-Ceratomyces congener Speg. SPECIES
-=======
+# Ceratomyces congener Speg. SPECIES
 
 #### Status
 ACCEPTED

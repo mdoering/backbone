@@ -1,5 +1,4 @@
-Laccaria chilensis (Mont.) Singer SPECIES
-=======
+# Laccaria chilensis (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

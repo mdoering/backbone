@@ -1,5 +1,4 @@
-Sargassum paniculatum J. Agardh SPECIES
-=======
+# Sargassum paniculatum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

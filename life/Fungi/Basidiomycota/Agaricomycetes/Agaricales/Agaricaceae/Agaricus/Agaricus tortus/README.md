@@ -1,5 +1,4 @@
-Agaricus tortus Batsch SPECIES
-=======
+# Agaricus tortus Batsch SPECIES
 
 #### Status
 ACCEPTED

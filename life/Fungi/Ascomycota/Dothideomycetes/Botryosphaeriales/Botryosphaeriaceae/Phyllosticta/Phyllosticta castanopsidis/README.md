@@ -1,8 +1,7 @@
-Phyllosticta castanopsis C.C. Chen SPECIES
-=======
+# Phyllosticta castanopsidis C.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta castanopsis C.C. Chen
+Phyllosticta castanopsidis C.C. Chen
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Extrusothecium cafferum Matsush., 1996 SPECIES
-=======
+# Extrusothecium caffrum Matsush., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 11 (1996)
 
 #### Original name
-Extrusothecium cafferum Matsush., 1996
+Extrusothecium caffrum Matsush., 1996
 
 ### Remarks
 null

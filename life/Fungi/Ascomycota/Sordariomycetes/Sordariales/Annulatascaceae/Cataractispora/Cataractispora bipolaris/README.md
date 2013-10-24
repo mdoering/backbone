@@ -1,14 +1,13 @@
-Annulatascus bipolaris K.D. Hyde, 1992 SPECIES
-=======
+# Cataractispora bipolaris (K.D. Hyde) K.D. Hyde, S.W. Wong & E.B.G. Jones, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. Syst. Bot. 5(1): 120 (1992)
+Mycol. Res. 103(8): 1031 (1999)
 
 #### Original name
 Annulatascus bipolaris K.D. Hyde, 1992

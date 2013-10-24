@@ -1,5 +1,4 @@
-Metasphaeria fiedleri (Niessl) Sacc. SPECIES
-=======
+# Metasphaeria fiedleri (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

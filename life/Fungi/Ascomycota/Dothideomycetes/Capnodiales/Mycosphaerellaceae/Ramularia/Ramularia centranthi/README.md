@@ -1,14 +1,13 @@
-Ramularia valerianae var. centranthi (Brunaud) U. Braun, 1998 VARIETY
-=======
+# Ramularia centranthi Brunaud, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 277 (1998)
+Act. Soc. linn. Bordeaux, sér. A 33: 430 (1887)
 
 #### Original name
 Ramularia centranthi Brunaud, 1887

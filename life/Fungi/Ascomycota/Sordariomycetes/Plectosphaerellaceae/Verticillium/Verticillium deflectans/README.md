@@ -1,5 +1,4 @@
-Verticillium deflectans (Bres.) de Hoog, Oorschot & W. Gams SPECIES
-=======
+# Verticillium deflectans (Bres.) de Hoog, Oorschot & W. Gams SPECIES
 
 #### Status
 ACCEPTED

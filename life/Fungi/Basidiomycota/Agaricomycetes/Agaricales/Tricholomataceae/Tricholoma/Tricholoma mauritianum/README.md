@@ -1,5 +1,4 @@
-Tricholoma mauritianum Peerally & Sutra SPECIES
-=======
+# Tricholoma mauritianum Peerally & Sutra SPECIES
 
 #### Status
 ACCEPTED

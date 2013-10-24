@@ -1,5 +1,4 @@
-Lecidea sariolae Räsänen SPECIES
-=======
+# Lecidea sariolae Räsänen SPECIES
 
 #### Status
 ACCEPTED

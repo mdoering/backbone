@@ -1,5 +1,4 @@
-Gilmania buchenaviae (Bat. & I.H. Lima) Bat. SPECIES
-=======
+# Gilmania buchenaviae (Bat. & I.H. Lima) Bat. SPECIES
 
 #### Status
 ACCEPTED

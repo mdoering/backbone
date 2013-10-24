@@ -1,5 +1,4 @@
-Coniothyrium astragali Golovin SPECIES
-=======
+# Coniothyrium astragali Golovin SPECIES
 
 #### Status
 ACCEPTED

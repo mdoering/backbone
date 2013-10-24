@@ -1,5 +1,4 @@
-Axillaria E. Gruber, 1896 GENUS
-=======
+# Axillaria E. Gruber, 1896 GENUS
 
 #### Status
 ACCEPTED

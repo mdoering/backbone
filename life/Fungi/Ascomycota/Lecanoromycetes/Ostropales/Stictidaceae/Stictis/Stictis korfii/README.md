@@ -1,5 +1,4 @@
-Stictis korfii Sherwood SPECIES
-=======
+# Stictis korfii Sherwood SPECIES
 
 #### Status
 ACCEPTED

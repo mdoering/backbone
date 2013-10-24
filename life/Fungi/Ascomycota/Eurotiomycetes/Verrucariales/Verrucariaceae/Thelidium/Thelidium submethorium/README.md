@@ -1,5 +1,4 @@
-Thelidium submethorium (Vain.) Zschacke SPECIES
-=======
+# Thelidium submethorium (Vain.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

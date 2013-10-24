@@ -1,5 +1,4 @@
-Ascochyta syconophila Curzi SPECIES
-=======
+# Ascochyta syconophila Curzi SPECIES
 
 #### Status
 ACCEPTED

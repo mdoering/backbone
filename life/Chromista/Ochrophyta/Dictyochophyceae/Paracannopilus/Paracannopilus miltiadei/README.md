@@ -1,5 +1,4 @@
-Paracannopilus miltiadei (P. Dumitrica) P. Dumitrica SPECIES
-=======
+# Paracannopilus miltiadei (P. Dumitrica) P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

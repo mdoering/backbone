@@ -1,5 +1,4 @@
-Asteromella fraxini (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Asteromella fraxini (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

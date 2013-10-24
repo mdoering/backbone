@@ -1,5 +1,4 @@
-Collybia scrobiculata R. Heim SPECIES
-=======
+# Collybia scrobiculata R. Heim SPECIES
 
 #### Status
 ACCEPTED

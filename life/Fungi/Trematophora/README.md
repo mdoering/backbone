@@ -1,5 +1,4 @@
-Trematophora Eisenack GENUS
-=======
+# Trematophora Eisenack GENUS
 
 #### Status
 ACCEPTED

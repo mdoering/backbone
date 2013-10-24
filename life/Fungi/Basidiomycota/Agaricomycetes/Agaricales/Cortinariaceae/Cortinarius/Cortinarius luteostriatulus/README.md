@@ -1,5 +1,4 @@
-Cortinarius luteostriatulus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
-=======
+# Cortinarius luteostriatulus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

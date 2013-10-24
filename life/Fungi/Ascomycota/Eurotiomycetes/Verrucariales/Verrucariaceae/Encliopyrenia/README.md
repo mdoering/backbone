@@ -1,5 +1,4 @@
-Encliopyrenia GENUS
-=======
+# Encliopyrenia GENUS
 
 #### Status
 ACCEPTED

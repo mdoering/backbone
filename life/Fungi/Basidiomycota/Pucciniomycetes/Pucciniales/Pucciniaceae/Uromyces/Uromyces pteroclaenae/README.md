@@ -1,5 +1,4 @@
-Uromyces pteroclaenae Lindr. SPECIES
-=======
+# Uromyces pteroclaenae Lindr. SPECIES
 
 #### Status
 ACCEPTED

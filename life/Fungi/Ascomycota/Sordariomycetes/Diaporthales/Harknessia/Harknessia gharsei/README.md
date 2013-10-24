@@ -1,5 +1,4 @@
-Harknessia gharsei Golatkar SPECIES
-=======
+# Harknessia gharsei Golatkar SPECIES
 
 #### Status
 ACCEPTED

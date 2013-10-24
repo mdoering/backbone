@@ -1,5 +1,4 @@
-Lecanora loczyi Vain. SPECIES
-=======
+# Lecanora loczyi Vain. SPECIES
 
 #### Status
 ACCEPTED

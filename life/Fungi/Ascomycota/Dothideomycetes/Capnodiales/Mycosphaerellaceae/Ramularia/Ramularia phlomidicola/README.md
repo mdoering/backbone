@@ -1,5 +1,4 @@
-Ramularia phlomidicola Lobik SPECIES
-=======
+# Ramularia phlomidicola Lobik SPECIES
 
 #### Status
 ACCEPTED

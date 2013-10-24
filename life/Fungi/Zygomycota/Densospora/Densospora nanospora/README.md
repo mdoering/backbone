@@ -1,5 +1,4 @@
-Densospora nanospora McGee, 1996 SPECIES
-=======
+# Densospora nanospora McGee, 1996 SPECIES
 
 #### Status
 ACCEPTED

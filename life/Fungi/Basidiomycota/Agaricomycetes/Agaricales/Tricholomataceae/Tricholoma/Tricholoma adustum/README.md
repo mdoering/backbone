@@ -1,5 +1,4 @@
-Tricholoma adustum (Murrill) Murrill SPECIES
-=======
+# Tricholoma adustum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

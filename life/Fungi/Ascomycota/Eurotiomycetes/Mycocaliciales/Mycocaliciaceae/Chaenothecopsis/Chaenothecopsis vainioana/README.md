@@ -1,14 +1,13 @@
-Calicium vainioanum Nádv. SPECIES
-=======
+# Chaenothecopsis vainioana (Nádv.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Preslia 18-19: 128 (1940)
+Publications from the Herbarium, University of Uppsala, Sweden 4: 5 (no. 37) (1979)
 
 #### Original name
 Calicium vainioanum Nádv.

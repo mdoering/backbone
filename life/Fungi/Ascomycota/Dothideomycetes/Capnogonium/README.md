@@ -1,5 +1,4 @@
-Capnogonium Benth. GENUS
-=======
+# Capnogonium Benth. GENUS
 
 #### Status
 ACCEPTED

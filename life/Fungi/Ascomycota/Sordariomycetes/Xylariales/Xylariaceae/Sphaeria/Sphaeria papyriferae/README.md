@@ -1,5 +1,4 @@
-Sphaeria papyriferae Schwein. SPECIES
-=======
+# Sphaeria papyriferae Schwein. SPECIES
 
 #### Status
 ACCEPTED

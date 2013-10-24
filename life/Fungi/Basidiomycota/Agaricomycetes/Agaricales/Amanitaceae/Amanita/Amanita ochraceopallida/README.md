@@ -1,5 +1,4 @@
-Amanita ochraceopallida Contu SPECIES
-=======
+# Amanita ochraceopallida Contu SPECIES
 
 #### Status
 ACCEPTED

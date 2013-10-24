@@ -1,5 +1,4 @@
-Morchella pragensis f. pragensis FORM
-=======
+# Morchella pragensis Smotl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Morchella pragensis f. pragensis
+Morchella pragensis Smotl.
 
 ### Remarks
 null

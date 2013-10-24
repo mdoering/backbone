@@ -1,5 +1,4 @@
-Oscillatoria breviarticulata Frémy SPECIES
-=======
+# Oscillatoria breviarticulata Frémy SPECIES
 
 #### Status
 ACCEPTED

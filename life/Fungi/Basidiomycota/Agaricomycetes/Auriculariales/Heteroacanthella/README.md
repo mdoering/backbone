@@ -1,5 +1,4 @@
-Heteroacanthella Oberw. GENUS
-=======
+# Heteroacanthella Oberw. GENUS
 
 #### Status
 ACCEPTED

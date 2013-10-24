@@ -1,5 +1,4 @@
-Omphalina marginella (Pers.) Quél. SPECIES
-=======
+# Omphalina marginella (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

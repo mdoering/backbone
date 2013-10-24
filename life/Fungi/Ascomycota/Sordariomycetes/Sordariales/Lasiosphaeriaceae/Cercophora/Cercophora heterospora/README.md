@@ -1,5 +1,4 @@
-Cercophora heterospora Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora heterospora Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidites borealis (Heer) Mesch. SPECIES
-=======
+# Dothidites borealis (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

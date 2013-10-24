@@ -1,5 +1,4 @@
-Laterotheca stevensonii Bat. SPECIES
-=======
+# Laterotheca stevensonii Bat. SPECIES
 
 #### Status
 ACCEPTED

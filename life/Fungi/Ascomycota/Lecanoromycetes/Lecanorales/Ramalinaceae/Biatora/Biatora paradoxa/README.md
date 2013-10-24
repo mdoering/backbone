@@ -1,5 +1,4 @@
-Biatora paradoxa (Ach.) Trevis. SPECIES
-=======
+# Biatora paradoxa (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

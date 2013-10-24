@@ -1,5 +1,4 @@
-Puccinia scirpi-triquoteris Sawada SPECIES
-=======
+# Puccinia scirpi-triquoteris Sawada SPECIES
 
 #### Status
 ACCEPTED

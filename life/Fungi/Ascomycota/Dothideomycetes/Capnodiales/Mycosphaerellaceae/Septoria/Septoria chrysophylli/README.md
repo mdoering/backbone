@@ -1,5 +1,4 @@
-Septoria chrysophylli Syd. SPECIES
-=======
+# Septoria chrysophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

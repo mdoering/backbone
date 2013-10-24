@@ -1,5 +1,4 @@
-Russula pseudomaenadum R. Heim SPECIES
-=======
+# Russula pseudomaenadum R. Heim SPECIES
 
 #### Status
 ACCEPTED

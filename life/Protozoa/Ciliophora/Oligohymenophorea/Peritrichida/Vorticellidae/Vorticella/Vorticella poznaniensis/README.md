@@ -1,5 +1,4 @@
-Vorticella poznaniensis SPECIES
-=======
+# Vorticella poznaniensis SPECIES
 
 #### Status
 ACCEPTED

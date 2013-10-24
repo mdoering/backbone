@@ -1,5 +1,4 @@
-Globigerinitidae FAMILY
-=======
+# Globigerinitidae FAMILY
 
 #### Status
 ACCEPTED

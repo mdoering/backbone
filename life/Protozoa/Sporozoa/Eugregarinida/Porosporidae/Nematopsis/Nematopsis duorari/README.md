@@ -1,5 +1,4 @@
-Nematopsis duorari Kruse, 1966 SPECIES
-=======
+# Nematopsis duorari Kruse, 1966 SPECIES
 
 #### Status
 ACCEPTED

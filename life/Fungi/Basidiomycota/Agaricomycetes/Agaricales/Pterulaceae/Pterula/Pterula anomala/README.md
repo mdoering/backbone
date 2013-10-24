@@ -1,5 +1,4 @@
-Pterula anomala P. Roberts, 1999 SPECIES
-=======
+# Pterula anomala P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus caseosus Jungh. SPECIES
-=======
+# Agaricus caseosus Jungh. SPECIES
 
 #### Status
 ACCEPTED

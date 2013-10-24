@@ -1,5 +1,4 @@
-Didymella curassavicae Gonz. Frag. & Cif. SPECIES
-=======
+# Didymella curassavicae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

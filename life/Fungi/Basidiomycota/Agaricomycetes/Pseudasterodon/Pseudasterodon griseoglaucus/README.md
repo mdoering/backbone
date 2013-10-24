@@ -1,5 +1,4 @@
-Pseudasterodon griseoglaucus Rick SPECIES
-=======
+# Pseudasterodon griseoglaucus Rick SPECIES
 
 #### Status
 ACCEPTED

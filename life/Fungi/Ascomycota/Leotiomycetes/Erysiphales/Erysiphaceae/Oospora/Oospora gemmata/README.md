@@ -1,5 +1,4 @@
-Oospora gemmata McAlpine SPECIES
-=======
+# Oospora gemmata McAlpine SPECIES
 
 #### Status
 ACCEPTED

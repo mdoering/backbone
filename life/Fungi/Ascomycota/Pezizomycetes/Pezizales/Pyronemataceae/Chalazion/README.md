@@ -1,5 +1,4 @@
-Chalazion Dissing & Sivertsen GENUS
-=======
+# Chalazion Dissing & Sivertsen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Napamichum dispersus (J.I.R. Larsson) J.I.R. Larsson SPECIES
-=======
+# Napamichum dispersus (J.I.R. Larsson) J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

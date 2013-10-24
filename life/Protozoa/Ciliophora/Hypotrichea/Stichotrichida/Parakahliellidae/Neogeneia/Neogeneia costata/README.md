@@ -1,5 +1,4 @@
-Neogeneia costata SPECIES
-=======
+# Neogeneia costata SPECIES
 
 #### Status
 ACCEPTED

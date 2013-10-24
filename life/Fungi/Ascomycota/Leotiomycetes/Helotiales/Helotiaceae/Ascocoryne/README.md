@@ -1,17 +1,16 @@
-Pseudocenangium A. Knapp GENUS
-=======
+# Ascocoryne J.W. Groves & D.E. Wilson, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Schweiz. Z. Pilzk. 2: 52 (1924)
+null
 
 #### Original name
-Pseudocenangium A. Knapp
+null
 
 ### Remarks
 null

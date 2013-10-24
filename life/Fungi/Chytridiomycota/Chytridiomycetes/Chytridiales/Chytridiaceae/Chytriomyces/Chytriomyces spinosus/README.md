@@ -1,5 +1,4 @@
-Chytriomyces spinosus Fay, 1947 SPECIES
-=======
+# Chytriomyces spinosus Fay, 1947 SPECIES
 
 #### Status
 ACCEPTED

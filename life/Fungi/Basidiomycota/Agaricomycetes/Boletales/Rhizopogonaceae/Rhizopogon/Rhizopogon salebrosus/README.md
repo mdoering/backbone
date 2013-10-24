@@ -1,5 +1,4 @@
-Rhizopogon salebrosus A.H. Sm. SPECIES
-=======
+# Rhizopogon salebrosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

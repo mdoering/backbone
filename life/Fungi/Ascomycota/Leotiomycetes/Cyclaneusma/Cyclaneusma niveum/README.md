@@ -1,14 +1,13 @@
-Propolis nivea (Pers.) Fr., 1849 SPECIES
-=======
+# Cyclaneusma niveum (Pers.) DiCosmo, Peredo & Minter, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 372 (1849)
+Eur. J. For. Path. 13(4): 210 (1983)
 
 #### Original name
 Stictis nivea Pers., 1822

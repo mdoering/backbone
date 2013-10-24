@@ -1,5 +1,4 @@
-Xylaria citrina Massee SPECIES
-=======
+# Xylaria citrina Massee SPECIES
 
 #### Status
 ACCEPTED

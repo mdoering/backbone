@@ -1,5 +1,4 @@
-Exosporium hypodermium Link SPECIES
-=======
+# Exosporium hypodermium Link SPECIES
 
 #### Status
 ACCEPTED

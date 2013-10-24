@@ -1,5 +1,4 @@
-Entomophthora byfordii S. Keller ex S. Keller, 2004 SPECIES
-=======
+# Entomophthora byfordii S. Keller ex S. Keller, 2004 SPECIES
 
 #### Status
 ACCEPTED

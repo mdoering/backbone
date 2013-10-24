@@ -1,5 +1,4 @@
-Dothidella melicyti Syd. & P. Syd. SPECIES
-=======
+# Dothidella melicyti Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra scintillans Müller, 1786 SPECIES
-=======
+# Leucophra scintillans Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium phoenicis Fautrey SPECIES
-=======
+# Cladosporium phoenicis Fautrey SPECIES
 
 #### Status
 ACCEPTED

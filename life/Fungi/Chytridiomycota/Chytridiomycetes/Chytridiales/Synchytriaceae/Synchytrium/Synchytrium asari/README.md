@@ -1,5 +1,4 @@
-Synchytrium asari Arthur & Holw. SPECIES
-=======
+# Synchytrium asari Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

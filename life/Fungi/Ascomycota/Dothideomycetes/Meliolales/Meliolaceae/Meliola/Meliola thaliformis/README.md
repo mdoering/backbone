@@ -1,5 +1,4 @@
-Meliola thaliformis var. thaliformis VARIETY
-=======
+# Meliola thaliformis Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 11: 113 (1958)
 
 #### Original name
-Meliola thaliformis var. thaliformis
+Meliola thaliformis Deighton
 
 ### Remarks
 null

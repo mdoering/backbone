@@ -1,5 +1,4 @@
-Myriangium rosicola V.G. Rao & A. Pande SPECIES
-=======
+# Myriangium rosicola V.G. Rao & A. Pande SPECIES
 
 #### Status
 ACCEPTED

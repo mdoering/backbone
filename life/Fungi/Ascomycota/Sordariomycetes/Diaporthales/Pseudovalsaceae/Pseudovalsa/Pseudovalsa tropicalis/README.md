@@ -1,5 +1,4 @@
-Pseudovalsa tropicalis Wehm. SPECIES
-=======
+# Pseudovalsa tropicalis Wehm. SPECIES
 
 #### Status
 ACCEPTED

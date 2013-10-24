@@ -1,5 +1,4 @@
-Diaporthe dakotensis Wehm. SPECIES
-=======
+# Diaporthe dakotensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

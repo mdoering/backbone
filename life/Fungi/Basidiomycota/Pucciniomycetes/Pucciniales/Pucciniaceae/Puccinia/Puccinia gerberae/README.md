@@ -1,5 +1,4 @@
-Puccinia gerberae Pole-Evans SPECIES
-=======
+# Puccinia gerberae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

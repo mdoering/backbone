@@ -1,5 +1,4 @@
-Pseudocercospora pallida (Ellis & Everh.) H.D. Shin & U. Braun SPECIES
-=======
+# Pseudocercospora pallida (Ellis & Everh.) H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

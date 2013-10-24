@@ -1,5 +1,4 @@
-Lecanora alboflavida Taylor SPECIES
-=======
+# Lecanora alboflavida Taylor SPECIES
 
 #### Status
 ACCEPTED

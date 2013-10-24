@@ -1,5 +1,4 @@
-Omphalia densa Beeli SPECIES
-=======
+# Omphalia densa Beeli SPECIES
 
 #### Status
 ACCEPTED

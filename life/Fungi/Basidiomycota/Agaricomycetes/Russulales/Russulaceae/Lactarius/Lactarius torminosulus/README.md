@@ -1,5 +1,4 @@
-Lactarius torminosulus Knudsen & T. Borgen SPECIES
-=======
+# Lactarius torminosulus Knudsen & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

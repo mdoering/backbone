@@ -1,5 +1,4 @@
-Lobaria silvae-veteris (Goward & Goffinet) Goward & Goffinet SPECIES
-=======
+# Lobaria silvae-veteris (Goward & Goffinet) Goward & Goffinet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces alismatis (Nees) SPECIES
-=======
+# Protomyces alismatis (Nees) SPECIES
 
 #### Status
 ACCEPTED

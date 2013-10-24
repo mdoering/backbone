@@ -1,5 +1,4 @@
-Scolecopeltidium chardonii (Toro) Bat. SPECIES
-=======
+# Scolecopeltidium chardonii (Toro) Bat. SPECIES
 
 #### Status
 ACCEPTED

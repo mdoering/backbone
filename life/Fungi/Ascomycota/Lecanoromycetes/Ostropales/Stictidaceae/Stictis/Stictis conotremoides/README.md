@@ -1,5 +1,4 @@
-Stictis conotremoides Sherwood SPECIES
-=======
+# Stictis conotremoides Sherwood SPECIES
 
 #### Status
 ACCEPTED

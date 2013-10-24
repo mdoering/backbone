@@ -1,5 +1,4 @@
-Francisella tularensis subsp. tularensis SUBSPECIES
-=======
+# Francisella tularensis SPECIES
 
 #### Status
 ACCEPTED

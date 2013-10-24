@@ -1,5 +1,4 @@
-Russula subvariata Murrill SPECIES
-=======
+# Russula subvariata Murrill SPECIES
 
 #### Status
 ACCEPTED

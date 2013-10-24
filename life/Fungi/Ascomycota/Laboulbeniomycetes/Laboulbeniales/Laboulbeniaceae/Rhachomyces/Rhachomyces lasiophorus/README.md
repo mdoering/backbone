@@ -1,17 +1,16 @@
-Rhachomyces lasiophorus subsp. demauxii Balazuc ex Balazuc SUBSPECIES
-=======
+# Rhachomyces lasiophorus (Thaxt.) Thaxt., 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 42(10): 280 (1973)
+Proc. Amer. Acad. Arts & Sci. 30: 468 (1895)
 
 #### Original name
-Rhachomyces lasiophorus subsp. demauxii Balazuc ex Balazuc
+Acanthomyces lasiophora Thaxt., 1892
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Achlya treleaseana (Humphrey) Kauffman, 1906 SPECIES
-=======
+# Achlya androgyna (W. Archer) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report Mich. Acad. Sci. 8: 26 (1906)
+Mycotaxon 92: 14 (2005)
 
 #### Original name
-Saprolegnia treleaseana Humphrey, 1893
+Saprolegnia androgyna W. Archer, 1867
 
 ### Remarks
 null

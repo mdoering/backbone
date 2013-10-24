@@ -1,5 +1,4 @@
-Phyllactinia acaciae Syd. SPECIES
-=======
+# Phyllactinia acaciae Syd. SPECIES
 
 #### Status
 ACCEPTED

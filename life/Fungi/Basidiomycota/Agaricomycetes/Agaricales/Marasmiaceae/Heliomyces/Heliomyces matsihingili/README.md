@@ -1,5 +1,4 @@
-Heliomyces matsihingili (Henn.) R. Heim SPECIES
-=======
+# Heliomyces matsihingili (Henn.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

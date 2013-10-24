@@ -1,5 +1,4 @@
-Rhabdospora orthosporella Bubák SPECIES
-=======
+# Rhabdospora orthosporella Bubák SPECIES
 
 #### Status
 ACCEPTED

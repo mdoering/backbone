@@ -1,5 +1,4 @@
-Cyathia hirsuta (Schaeff.) V.S. White SPECIES
-=======
+# Cyathia hirsuta (Schaeff.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

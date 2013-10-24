@@ -1,5 +1,4 @@
-Tulostoma orogrande Long SPECIES
-=======
+# Tulostoma orogrande Long SPECIES
 
 #### Status
 ACCEPTED

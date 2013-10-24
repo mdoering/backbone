@@ -1,5 +1,4 @@
-Ratnagiriathyrites R.K. Saxena & N.K. Misra GENUS
-=======
+# Ratnagiriathyrites R.K. Saxena & N.K. Misra GENUS
 
 #### Status
 ACCEPTED

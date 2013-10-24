@@ -1,5 +1,4 @@
-Dictyoconus egyptiensis (Chapman, 1900) SPECIES
-=======
+# Dictyoconus egyptiensis (Chapman, 1900) SPECIES
 
 #### Status
 ACCEPTED

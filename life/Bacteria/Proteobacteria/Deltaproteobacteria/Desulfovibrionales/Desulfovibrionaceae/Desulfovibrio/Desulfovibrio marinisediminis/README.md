@@ -1,5 +1,4 @@
-Desulfovibrio marinisediminis Takii, Hanada, Hase, Tamaki, Ueno, Sekiguchi & Matsuura, 2008 SPECIES
-=======
+# Desulfovibrio marinisediminis Takii, Hanada, Hase, Tamaki, Ueno, Sekiguchi & Matsuura, 2008 SPECIES
 
 #### Status
 ACCEPTED

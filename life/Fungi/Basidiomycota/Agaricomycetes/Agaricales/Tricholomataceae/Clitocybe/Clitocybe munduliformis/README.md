@@ -1,5 +1,4 @@
-Clitocybe munduliformis (Dennis) T.J. Baroni SPECIES
-=======
+# Clitocybe munduliformis (Dennis) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

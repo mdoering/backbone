@@ -1,5 +1,4 @@
-Aecidium hemigraphidis B.V. Patil & Thirum. SPECIES
-=======
+# Aecidium hemigraphidis B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

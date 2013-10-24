@@ -1,5 +1,4 @@
-Cortinarius rufostriatus J. Favre, 1955 SPECIES
-=======
+# Cortinarius rufostriatus J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

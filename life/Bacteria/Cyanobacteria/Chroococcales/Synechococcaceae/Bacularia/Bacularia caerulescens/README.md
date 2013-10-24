@@ -1,5 +1,4 @@
-Bacularia caerulescens Borzi SPECIES
-=======
+# Bacularia caerulescens Borzi SPECIES
 
 #### Status
 ACCEPTED

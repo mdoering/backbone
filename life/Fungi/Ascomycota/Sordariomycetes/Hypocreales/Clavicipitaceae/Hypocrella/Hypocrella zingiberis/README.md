@@ -1,5 +1,4 @@
-Hypocrella zingiberis Massee SPECIES
-=======
+# Hypocrella zingiberis Massee SPECIES
 
 #### Status
 ACCEPTED

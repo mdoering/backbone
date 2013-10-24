@@ -1,5 +1,4 @@
-Endothiella tropicalis Roane SPECIES
-=======
+# Endothiella tropicalis Roane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium muscaridis Link SPECIES
-=======
+# Aecidium muscaridis Link SPECIES
 
 #### Status
 ACCEPTED

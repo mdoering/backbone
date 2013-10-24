@@ -1,5 +1,4 @@
-Sporisorium paspalicola M. Piepenbr. SPECIES
-=======
+# Sporisorium paspalicola M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

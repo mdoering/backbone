@@ -1,5 +1,4 @@
-Ramaria kewensis anon. ined. SPECIES
-=======
+# Ramaria kewensis anon. ined. SPECIES
 
 #### Status
 ACCEPTED

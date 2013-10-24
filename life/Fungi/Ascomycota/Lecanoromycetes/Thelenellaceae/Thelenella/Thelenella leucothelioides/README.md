@@ -1,5 +1,4 @@
-Thelenella leucothelioides Vain. SPECIES
-=======
+# Thelenella leucothelioides Vain. SPECIES
 
 #### Status
 ACCEPTED

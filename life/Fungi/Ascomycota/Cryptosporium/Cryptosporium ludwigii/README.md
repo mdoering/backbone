@@ -1,5 +1,4 @@
-Cryptosporium ludwigii Sacc. SPECIES
-=======
+# Cryptosporium ludwigii Sacc. SPECIES
 
 #### Status
 ACCEPTED

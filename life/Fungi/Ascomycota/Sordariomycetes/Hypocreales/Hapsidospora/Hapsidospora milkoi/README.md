@@ -1,5 +1,4 @@
-Hapsidospora milkoi Beliakova SPECIES
-=======
+# Hapsidospora milkoi Beliakova SPECIES
 
 #### Status
 ACCEPTED

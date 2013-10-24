@@ -1,5 +1,4 @@
-Penicillium capsulatum Raper & Fennell, 1948 SPECIES
-=======
+# Penicillium capsulatum Raper & Fennell, 1948 SPECIES
 
 #### Status
 DOUBTFUL

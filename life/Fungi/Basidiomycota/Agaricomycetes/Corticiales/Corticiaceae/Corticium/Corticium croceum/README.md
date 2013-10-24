@@ -1,5 +1,4 @@
-Corticium croceum (Kunze) Bres. SPECIES
-=======
+# Corticium croceum (Kunze) Bres. SPECIES
 
 #### Status
 ACCEPTED

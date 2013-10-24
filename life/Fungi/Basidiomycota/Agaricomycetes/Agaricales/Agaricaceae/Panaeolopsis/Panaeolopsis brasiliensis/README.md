@@ -1,5 +1,4 @@
-Panaeolopsis brasiliensis Singer, 1976 SPECIES
-=======
+# Panaeolopsis brasiliensis Singer, 1976 SPECIES
 
 #### Status
 ACCEPTED

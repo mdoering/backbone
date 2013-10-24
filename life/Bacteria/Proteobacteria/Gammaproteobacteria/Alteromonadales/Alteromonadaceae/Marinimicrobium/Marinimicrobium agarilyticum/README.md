@@ -1,5 +1,4 @@
-Marinimicrobium agarilyticum Lim et al., 2006 SPECIES
-=======
+# Marinimicrobium agarilyticum Lim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

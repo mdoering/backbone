@@ -1,5 +1,4 @@
-Platygrapha lecanoroides (Fée) Nyl. SPECIES
-=======
+# Platygrapha lecanoroides (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

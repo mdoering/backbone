@@ -1,5 +1,4 @@
-Hypophyllum praegnantissimum Paulet SPECIES
-=======
+# Hypophyllum praegnantissimum Paulet SPECIES
 
 #### Status
 ACCEPTED

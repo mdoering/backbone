@@ -1,5 +1,4 @@
-Placodium asperum Savicz SPECIES
-=======
+# Placodium asperum Savicz SPECIES
 
 #### Status
 ACCEPTED

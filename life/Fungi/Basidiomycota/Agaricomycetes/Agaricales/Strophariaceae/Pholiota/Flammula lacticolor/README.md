@@ -1,5 +1,4 @@
-Flammula lacticolor Murrill SPECIES
-=======
+# Flammula lacticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

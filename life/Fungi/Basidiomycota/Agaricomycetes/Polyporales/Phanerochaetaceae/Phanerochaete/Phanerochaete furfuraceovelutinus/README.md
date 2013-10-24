@@ -1,5 +1,4 @@
-Phanerochaete furfuraceovelutinus (Rick) Rajchenb. SPECIES
-=======
+# Phanerochaete furfuraceovelutinus (Rick) Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

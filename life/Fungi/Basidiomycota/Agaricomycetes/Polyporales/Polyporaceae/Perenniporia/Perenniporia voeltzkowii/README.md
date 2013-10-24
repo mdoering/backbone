@@ -1,14 +1,13 @@
-Poria voeltzkowii Henn., 1908 SPECIES
-=======
+# Perenniporia voeltzkowii (Henn.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Reise Ostafr. , Syst. Arbeit. 3: 19 (1908)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 478 (1980)
 
 #### Original name
 Poria voeltzkowii Henn., 1908

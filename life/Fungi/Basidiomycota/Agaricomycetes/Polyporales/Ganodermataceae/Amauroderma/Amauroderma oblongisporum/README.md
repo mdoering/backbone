@@ -1,5 +1,4 @@
-Amauroderma oblongisporum J.S. Furtado SPECIES
-=======
+# Amauroderma oblongisporum J.S. Furtado SPECIES
 
 #### Status
 ACCEPTED

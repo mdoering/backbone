@@ -1,5 +1,4 @@
-Cercospora odoratissimi Sawada SPECIES
-=======
+# Cercospora odoratissimi Sawada SPECIES
 
 #### Status
 ACCEPTED

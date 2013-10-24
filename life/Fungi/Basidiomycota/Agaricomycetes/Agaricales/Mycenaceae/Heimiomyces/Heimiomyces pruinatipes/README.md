@@ -1,5 +1,4 @@
-Heimiomyces pruinatipes Singer SPECIES
-=======
+# Heimiomyces pruinatipes Singer SPECIES
 
 #### Status
 ACCEPTED

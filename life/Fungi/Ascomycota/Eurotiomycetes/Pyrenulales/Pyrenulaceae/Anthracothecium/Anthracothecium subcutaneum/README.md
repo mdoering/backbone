@@ -1,5 +1,4 @@
-Anthracothecium subcutaneum (Fée) Müll. Arg. SPECIES
-=======
+# Anthracothecium subcutaneum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

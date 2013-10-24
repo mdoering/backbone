@@ -1,5 +1,4 @@
-Sclerotiopsis rubi C. Massal. SPECIES
-=======
+# Sclerotiopsis rubi C. Massal. SPECIES
 
 #### Status
 ACCEPTED

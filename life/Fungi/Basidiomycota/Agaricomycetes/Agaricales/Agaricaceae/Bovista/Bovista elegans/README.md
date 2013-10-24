@@ -1,5 +1,4 @@
-Bovista elegans Speg. SPECIES
-=======
+# Bovista elegans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudostylotabes Singer SPECIES
-=======
+# Mycena pseudostylotabes Singer SPECIES
 
 #### Status
 ACCEPTED

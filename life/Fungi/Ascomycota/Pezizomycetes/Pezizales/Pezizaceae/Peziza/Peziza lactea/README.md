@@ -1,5 +1,4 @@
-Peziza lactea Bull. SPECIES
-=======
+# Peziza lactea Bull. SPECIES
 
 #### Status
 ACCEPTED

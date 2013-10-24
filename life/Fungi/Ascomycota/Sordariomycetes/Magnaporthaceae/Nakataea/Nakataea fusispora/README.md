@@ -1,5 +1,4 @@
-Nakataea fusispora (Matsush.) Matsush. SPECIES
-=======
+# Nakataea fusispora (Matsush.) Matsush. SPECIES
 
 #### Status
 ACCEPTED

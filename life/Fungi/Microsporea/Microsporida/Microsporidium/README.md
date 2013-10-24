@@ -1,5 +1,4 @@
-Microsporidium Balbiani, 1884 GENUS
-=======
+# Microsporidium Balbiani, 1884 GENUS
 
 #### Status
 ACCEPTED

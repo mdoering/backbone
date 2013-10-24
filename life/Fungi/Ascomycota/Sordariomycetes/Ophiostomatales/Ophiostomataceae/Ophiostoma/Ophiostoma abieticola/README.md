@@ -1,5 +1,4 @@
-Ophiostoma abieticola Yamaoka & Masuya SPECIES
-=======
+# Ophiostoma abieticola Yamaoka & Masuya SPECIES
 
 #### Status
 ACCEPTED

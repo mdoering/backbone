@@ -1,5 +1,4 @@
-Endothia nitschkei G.H. Otth SPECIES
-=======
+# Endothia nitschkei G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

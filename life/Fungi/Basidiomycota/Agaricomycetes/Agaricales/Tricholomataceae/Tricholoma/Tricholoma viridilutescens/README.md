@@ -1,5 +1,4 @@
-Tricholoma viridilutescens M.M. Moser, 1978 SPECIES
-=======
+# Tricholoma viridilutescens M.M. Moser, 1978 SPECIES
 
 #### Status
 ACCEPTED

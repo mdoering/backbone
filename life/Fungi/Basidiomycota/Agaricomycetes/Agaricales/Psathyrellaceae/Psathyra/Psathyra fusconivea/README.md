@@ -1,5 +1,4 @@
-Psathyra fusconivea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Psathyra fusconivea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

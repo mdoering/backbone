@@ -1,5 +1,4 @@
-Sesia aurea (Fr.) Kuntze SPECIES
-=======
+# Sesia aurea (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

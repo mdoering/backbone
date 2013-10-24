@@ -1,5 +1,4 @@
-Xerula furfuracea var. furfuracea VARIETY
-=======
+# Xerula furfuracea (Peck) Redhead, Ginns & Shoemaker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 30: 362 (1987)
 
 #### Original name
-Xerula furfuracea var. furfuracea
+Collybia radicata var. furfuracea Peck
 
 ### Remarks
 null

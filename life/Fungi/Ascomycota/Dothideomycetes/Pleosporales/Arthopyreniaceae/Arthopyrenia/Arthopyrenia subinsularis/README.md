@@ -1,5 +1,4 @@
-Arthopyrenia subinsularis Vain. SPECIES
-=======
+# Arthopyrenia subinsularis Vain. SPECIES
 
 #### Status
 ACCEPTED

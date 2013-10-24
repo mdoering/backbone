@@ -1,5 +1,4 @@
-Bacidia pleistophragmoides (Nyl.) Hellb. SPECIES
-=======
+# Bacidia pleistophragmoides (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

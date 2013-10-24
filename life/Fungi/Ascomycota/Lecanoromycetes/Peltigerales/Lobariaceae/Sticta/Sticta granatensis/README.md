@@ -1,5 +1,4 @@
-Sticta granatensis Nyl. SPECIES
-=======
+# Sticta granatensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

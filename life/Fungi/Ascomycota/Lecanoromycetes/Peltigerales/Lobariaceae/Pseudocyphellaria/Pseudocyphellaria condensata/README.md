@@ -1,5 +1,4 @@
-Pseudocyphellaria condensata (Zahlbr.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria condensata (Zahlbr.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria betae-kenyensis E.G. Simmons SPECIES
-=======
+# Alternaria betae-kenyensis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

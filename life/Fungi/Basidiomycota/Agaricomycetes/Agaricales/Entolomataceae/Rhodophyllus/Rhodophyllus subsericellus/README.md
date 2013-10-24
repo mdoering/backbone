@@ -1,5 +1,4 @@
-Rhodophyllus subsericellus Pat. SPECIES
-=======
+# Rhodophyllus subsericellus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leotia pusilla Nees SPECIES
-=======
+# Leotia pusilla Nees SPECIES
 
 #### Status
 ACCEPTED

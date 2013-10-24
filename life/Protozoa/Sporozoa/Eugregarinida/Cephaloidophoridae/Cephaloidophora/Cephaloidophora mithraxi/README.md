@@ -1,8 +1,7 @@
-Carcinoecetes mithraxi Ball, 1951 SPECIES
-=======
+# Cephaloidophora mithraxi (Ball, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

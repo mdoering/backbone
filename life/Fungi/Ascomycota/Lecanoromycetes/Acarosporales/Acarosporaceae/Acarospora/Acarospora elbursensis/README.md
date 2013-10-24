@@ -1,5 +1,4 @@
-Acarospora elbursensis H. Magn. SPECIES
-=======
+# Acarospora elbursensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

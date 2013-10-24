@@ -1,5 +1,4 @@
-Verrucaria prasinolepis SPECIES
-=======
+# Verrucaria prasinolepis SPECIES
 
 #### Status
 ACCEPTED

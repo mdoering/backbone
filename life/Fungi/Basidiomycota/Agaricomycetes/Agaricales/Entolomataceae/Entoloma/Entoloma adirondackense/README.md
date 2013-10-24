@@ -1,5 +1,4 @@
-Entoloma adirondackense Murrill SPECIES
-=======
+# Entoloma adirondackense Murrill SPECIES
 
 #### Status
 ACCEPTED

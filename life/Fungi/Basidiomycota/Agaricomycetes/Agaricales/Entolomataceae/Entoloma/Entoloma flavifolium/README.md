@@ -1,5 +1,4 @@
-Entoloma flavifolium Peck SPECIES
-=======
+# Entoloma flavifolium Peck SPECIES
 
 #### Status
 ACCEPTED

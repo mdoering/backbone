@@ -1,5 +1,4 @@
-Asterogloea Pascher, 1930 GENUS
-=======
+# Asterogloea Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

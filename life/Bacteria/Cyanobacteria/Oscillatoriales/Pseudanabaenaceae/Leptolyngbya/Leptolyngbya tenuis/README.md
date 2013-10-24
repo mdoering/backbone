@@ -1,5 +1,4 @@
-Leptolyngbya tenuis (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Leptolyngbya tenuis (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

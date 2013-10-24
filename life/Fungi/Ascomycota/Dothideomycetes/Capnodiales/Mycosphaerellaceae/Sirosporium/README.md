@@ -1,5 +1,4 @@
-Sirosporium Bubák & Serebrian. GENUS
-=======
+# Sirosporium Bubák & Serebrian. GENUS
 
 #### Status
 ACCEPTED

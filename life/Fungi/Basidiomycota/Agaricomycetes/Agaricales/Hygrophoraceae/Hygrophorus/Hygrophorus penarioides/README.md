@@ -1,5 +1,4 @@
-Hygrophorus penarioides Jacobsson & E. Larss. SPECIES
-=======
+# Hygrophorus penarioides Jacobsson & E. Larss. SPECIES
 
 #### Status
 ACCEPTED

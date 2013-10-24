@@ -1,5 +1,4 @@
-Torula dematia Berkhout SPECIES
-=======
+# Torula dematia Berkhout SPECIES
 
 #### Status
 ACCEPTED

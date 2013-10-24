@@ -1,5 +1,4 @@
-Lecidea stellenboschiana Vain. SPECIES
-=======
+# Lecidea stellenboschiana Vain. SPECIES
 
 #### Status
 ACCEPTED

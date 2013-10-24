@@ -1,5 +1,4 @@
-Pseudoholophrya Berger, Foissner & Adam, 1984 GENUS
-=======
+# Pseudoholophrya Berger, Foissner & Adam, 1984 GENUS
 
 #### Status
 ACCEPTED

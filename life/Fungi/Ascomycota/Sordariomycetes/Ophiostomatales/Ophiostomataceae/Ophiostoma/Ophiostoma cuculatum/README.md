@@ -1,5 +1,4 @@
-Ophiostoma cuculatum H. Solheim, 1986 SPECIES
-=======
+# Ophiostoma cuculatum H. Solheim, 1986 SPECIES
 
 #### Status
 ACCEPTED

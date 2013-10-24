@@ -1,5 +1,4 @@
-Telimena bakeri Syd. & P. Syd., 1917 SPECIES
-=======
+# Telimena bakeri Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria micromegala var. micromegala VARIETY
-=======
+# Isaria micromegala Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Isaria micromegala var. micromegala
+Isaria micromegala Berl.
 
 ### Remarks
 null

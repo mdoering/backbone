@@ -1,5 +1,4 @@
-Scriniodinium luridum SPECIES
-=======
+# Scriniodinium luridum SPECIES
 
 #### Status
 ACCEPTED

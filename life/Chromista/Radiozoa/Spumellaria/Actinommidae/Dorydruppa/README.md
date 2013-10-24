@@ -1,5 +1,4 @@
-Dorydruppa Vinassa de Regny, 1898 GENUS
-=======
+# Dorydruppa Vinassa de Regny, 1898 GENUS
 
 #### Status
 ACCEPTED

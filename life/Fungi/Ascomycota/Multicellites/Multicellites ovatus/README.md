@@ -1,5 +1,4 @@
-Multicellites ovatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites ovatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cosmospora peponum (Berk. & M.A. Curtis) Rossman & Samuels SPECIES
-=======
+# Cosmospora peponum (Berk. & M.A. Curtis) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dracaenae Griffon & Maubl. SPECIES
-=======
+# Phyllosticta dracaenae Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

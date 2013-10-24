@@ -1,5 +1,4 @@
-Sphaerella aceris (Woron.) Sandu SPECIES
-=======
+# Sphaerella aceris (Woron.) Sandu SPECIES
 
 #### Status
 ACCEPTED

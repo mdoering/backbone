@@ -1,5 +1,4 @@
-Amphileptus gulosus Dumas, 1929 SPECIES
-=======
+# Amphileptus gulosus Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

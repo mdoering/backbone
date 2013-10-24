@@ -1,5 +1,4 @@
-Verrucaria silvatica SPECIES
-=======
+# Verrucaria silvatica SPECIES
 
 #### Status
 ACCEPTED

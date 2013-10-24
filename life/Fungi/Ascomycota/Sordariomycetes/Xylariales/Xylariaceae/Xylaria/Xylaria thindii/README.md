@@ -1,5 +1,4 @@
-Xylaria thindii Waraitch SPECIES
-=======
+# Xylaria thindii Waraitch SPECIES
 
 #### Status
 ACCEPTED

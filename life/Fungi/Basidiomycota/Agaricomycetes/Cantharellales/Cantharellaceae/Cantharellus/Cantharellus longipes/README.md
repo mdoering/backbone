@@ -1,5 +1,4 @@
-Cantharellus longipes Lambotte SPECIES
-=======
+# Cantharellus longipes Lambotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baryeidamia parasitica H. Karst. SPECIES
-=======
+# Baryeidamia parasitica H. Karst. SPECIES
 
 #### Status
 ACCEPTED

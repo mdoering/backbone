@@ -1,5 +1,4 @@
-Aspergillus crustosus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus crustosus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

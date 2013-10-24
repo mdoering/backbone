@@ -1,17 +1,16 @@
-Sclerotinia sclerotiorum f. sp FORM
-=======
+# Sclerotinia sclerotiorum (Lib.) de Bary, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vergl. Morph. Biol. Pilze (Leipzig) 56 (1884)
 
 #### Original name
-Sclerotinia sclerotiorum f. sp
+null
 
 ### Remarks
 null

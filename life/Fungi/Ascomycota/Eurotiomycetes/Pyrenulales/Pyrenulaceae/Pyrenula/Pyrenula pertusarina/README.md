@@ -1,5 +1,4 @@
-Pyrenula pertusarina Zahlbr. SPECIES
-=======
+# Pyrenula pertusarina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

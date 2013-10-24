@@ -1,5 +1,4 @@
-Petalomonas abscissa (Dujardin) F. Stein SPECIES
-=======
+# Petalomonas abscissa (Dujardin) F. Stein SPECIES
 
 #### Status
 ACCEPTED

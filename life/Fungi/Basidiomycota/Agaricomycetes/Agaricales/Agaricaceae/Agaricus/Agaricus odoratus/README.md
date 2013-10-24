@@ -1,5 +1,4 @@
-Agaricus odoratus Vill. SPECIES
-=======
+# Agaricus odoratus Vill. SPECIES
 
 #### Status
 ACCEPTED

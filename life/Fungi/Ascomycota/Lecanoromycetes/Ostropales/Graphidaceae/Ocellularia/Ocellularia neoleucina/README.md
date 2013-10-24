@@ -1,5 +1,4 @@
-Ocellularia neoleucina Homchant. & Coppins SPECIES
-=======
+# Ocellularia neoleucina Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

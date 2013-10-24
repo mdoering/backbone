@@ -1,5 +1,4 @@
-Lobaria interversans (Nyl.) Vain. SPECIES
-=======
+# Lobaria interversans (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

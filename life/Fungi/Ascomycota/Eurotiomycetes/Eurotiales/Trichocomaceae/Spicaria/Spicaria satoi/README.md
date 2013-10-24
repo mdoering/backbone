@@ -1,5 +1,4 @@
-Spicaria satoi Hara SPECIES
-=======
+# Spicaria satoi Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania farinosa (A. Massal.) B. de Lesd. SPECIES
-=======
+# Lecania farinosa (A. Massal.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

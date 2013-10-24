@@ -1,5 +1,4 @@
-Tricharia fumosa Kalb & Vezda SPECIES
-=======
+# Tricharia fumosa Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

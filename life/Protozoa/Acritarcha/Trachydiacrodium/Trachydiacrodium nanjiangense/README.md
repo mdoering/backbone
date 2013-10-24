@@ -1,5 +1,4 @@
-Trachydiacrodium nanjiangense Ouyang Shu et al., 1974 SPECIES
-=======
+# Trachydiacrodium nanjiangense Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

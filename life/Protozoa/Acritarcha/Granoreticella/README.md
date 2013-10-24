@@ -1,5 +1,4 @@
-Granoreticella Jiabo, 1978 GENUS
-=======
+# Granoreticella Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

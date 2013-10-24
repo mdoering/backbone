@@ -1,5 +1,4 @@
-Leiopsophosphaera rugosa N. Umnova, 1975 SPECIES
-=======
+# Leiopsophosphaera rugosa N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

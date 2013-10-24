@@ -1,5 +1,4 @@
-Omphalodiscus formosanus (Frey) Schol. SPECIES
-=======
+# Omphalodiscus formosanus (Frey) Schol. SPECIES
 
 #### Status
 ACCEPTED

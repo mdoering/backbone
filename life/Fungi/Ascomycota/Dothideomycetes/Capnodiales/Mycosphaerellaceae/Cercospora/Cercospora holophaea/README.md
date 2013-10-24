@@ -1,5 +1,4 @@
-Cercospora holophaea Syd. SPECIES
-=======
+# Cercospora holophaea Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria nigro-ostiolata Wakef. SPECIES
-=======
+# Nectria nigro-ostiolata Wakef. SPECIES
 
 #### Status
 ACCEPTED

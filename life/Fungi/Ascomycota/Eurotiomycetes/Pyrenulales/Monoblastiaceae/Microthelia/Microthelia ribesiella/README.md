@@ -1,5 +1,4 @@
-Microthelia ribesiella (Nyl. ex Vain.) Zahlbr. SPECIES
-=======
+# Microthelia ribesiella (Nyl. ex Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

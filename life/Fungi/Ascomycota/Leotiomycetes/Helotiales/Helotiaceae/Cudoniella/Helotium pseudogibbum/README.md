@@ -1,5 +1,4 @@
-Helotium pseudogibbum (Valla) Redhead SPECIES
-=======
+# Helotium pseudogibbum (Valla) Redhead SPECIES
 
 #### Status
 ACCEPTED

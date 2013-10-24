@@ -1,5 +1,4 @@
-Cercospora miconiae Gonz. Frag. & Cif. SPECIES
-=======
+# Cercospora miconiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

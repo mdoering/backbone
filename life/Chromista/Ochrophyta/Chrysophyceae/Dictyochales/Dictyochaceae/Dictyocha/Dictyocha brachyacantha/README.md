@@ -1,5 +1,4 @@
-Dictyocha brachyacantha P. Dumitrica SPECIES
-=======
+# Dictyocha brachyacantha P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

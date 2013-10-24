@@ -1,5 +1,4 @@
-Baltisphaeridium coolibahense Playford & Wicander, 1988 SPECIES
-=======
+# Baltisphaeridium coolibahense Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius griseoluridus Kauffman SPECIES
-=======
+# Cortinarius griseoluridus Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha subparallela Müll. Arg. SPECIES
-=======
+# Opegrapha subparallela Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pallidorubens (Berk. & Broome) Sacc. SPECIES
-=======
+# Mycena pallidorubens (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

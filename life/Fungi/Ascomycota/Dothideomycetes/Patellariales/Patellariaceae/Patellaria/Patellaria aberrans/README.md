@@ -1,5 +1,4 @@
-Patellaria aberrans Velen. SPECIES
-=======
+# Patellaria aberrans Velen. SPECIES
 
 #### Status
 ACCEPTED

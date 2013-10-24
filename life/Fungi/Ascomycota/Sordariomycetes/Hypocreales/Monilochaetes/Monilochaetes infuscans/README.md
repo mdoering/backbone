@@ -1,5 +1,4 @@
-Monilochaetes infuscans Harter, 1916 SPECIES
-=======
+# Monilochaetes infuscans Harter, 1916 SPECIES
 
 #### Status
 ACCEPTED

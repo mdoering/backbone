@@ -1,5 +1,4 @@
-Dactylella papayae Sawada SPECIES
-=======
+# Dactylella papayae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina nesogobii Su & White, 1995 SPECIES
-=======
+# Trichodina nesogobii Su & White, 1995 SPECIES
 
 #### Status
 ACCEPTED

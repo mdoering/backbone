@@ -1,5 +1,4 @@
-Stachylidium fuscum Cooke & Ellis SPECIES
-=======
+# Stachylidium fuscum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

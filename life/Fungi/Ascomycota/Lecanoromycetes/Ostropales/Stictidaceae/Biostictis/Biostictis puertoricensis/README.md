@@ -1,5 +1,4 @@
-Biostictis puertoricensis Sherwood SPECIES
-=======
+# Biostictis puertoricensis Sherwood SPECIES
 
 #### Status
 ACCEPTED

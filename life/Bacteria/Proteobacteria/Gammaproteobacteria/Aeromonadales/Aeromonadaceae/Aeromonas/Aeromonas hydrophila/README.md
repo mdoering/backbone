@@ -1,5 +1,4 @@
-Aeromonas hydrophila subsp. hydrophila SUBSPECIES
-=======
+# Aeromonas hydrophila (Chester, 1901) Stanier, 1943 SPECIES
 
 #### Status
 ACCEPTED

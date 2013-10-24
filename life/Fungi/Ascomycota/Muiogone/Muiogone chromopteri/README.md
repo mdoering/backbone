@@ -1,5 +1,4 @@
-Muiogone chromopteri Thaxt., 1914 SPECIES
-=======
+# Muiogone chromopteri Thaxt., 1914 SPECIES
 
 #### Status
 ACCEPTED

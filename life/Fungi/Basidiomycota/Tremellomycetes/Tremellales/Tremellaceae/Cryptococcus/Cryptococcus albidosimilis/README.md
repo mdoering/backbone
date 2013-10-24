@@ -1,5 +1,4 @@
-Cryptococcus albidosimilis Vishniac & Kurtzman SPECIES
-=======
+# Cryptococcus albidosimilis Vishniac & Kurtzman SPECIES
 
 #### Status
 ACCEPTED

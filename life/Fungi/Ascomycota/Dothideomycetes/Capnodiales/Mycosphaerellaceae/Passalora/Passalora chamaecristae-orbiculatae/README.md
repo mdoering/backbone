@@ -1,5 +1,4 @@
-Passalora chamaecristae-orbiculatae A. Hern. Gut. & Dianese SPECIES
-=======
+# Passalora chamaecristae-orbiculatae A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

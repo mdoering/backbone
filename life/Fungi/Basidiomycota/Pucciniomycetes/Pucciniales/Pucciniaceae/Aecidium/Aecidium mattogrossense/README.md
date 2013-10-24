@@ -1,5 +1,4 @@
-Aecidium mattogrossense Juel SPECIES
-=======
+# Aecidium mattogrossense Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria coccodes (P. Karst.) Sacc. SPECIES
-=======
+# Metasphaeria coccodes (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

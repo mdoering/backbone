@@ -1,5 +1,4 @@
-Puccinia praedicabilis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia praedicabilis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

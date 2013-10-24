@@ -1,5 +1,4 @@
-Escherichia leporis SPECIES
-=======
+# Escherichia leporis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces uliginosus R. Hesse SPECIES
-=======
+# Elaphomyces uliginosus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

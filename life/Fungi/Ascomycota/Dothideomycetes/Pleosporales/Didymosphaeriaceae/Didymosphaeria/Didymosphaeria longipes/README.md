@@ -1,5 +1,4 @@
-Didymosphaeria longipes Trab. SPECIES
-=======
+# Didymosphaeria longipes Trab. SPECIES
 
 #### Status
 ACCEPTED

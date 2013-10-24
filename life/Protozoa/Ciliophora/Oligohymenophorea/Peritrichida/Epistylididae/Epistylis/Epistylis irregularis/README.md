@@ -1,5 +1,4 @@
-Epistylis irregularis SPECIES
-=======
+# Epistylis irregularis SPECIES
 
 #### Status
 ACCEPTED

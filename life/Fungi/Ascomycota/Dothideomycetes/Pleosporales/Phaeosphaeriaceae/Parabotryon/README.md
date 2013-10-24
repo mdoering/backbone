@@ -1,5 +1,4 @@
-Parabotryon GENUS
-=======
+# Parabotryon GENUS
 
 #### Status
 ACCEPTED

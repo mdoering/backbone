@@ -1,5 +1,4 @@
-Pringsheimia smilacis E. Müll., 1958 SPECIES
-=======
+# Pringsheimia smilacis E. Müll., 1958 SPECIES
 
 #### Status
 ACCEPTED

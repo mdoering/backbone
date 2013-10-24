@@ -1,5 +1,4 @@
-Mycovellosiella hughesii Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella hughesii Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

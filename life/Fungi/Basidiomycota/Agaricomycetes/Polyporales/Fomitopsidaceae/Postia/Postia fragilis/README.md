@@ -1,17 +1,16 @@
-Leptoporus fragilis var. fragilis VARIETY
-=======
+# Postia fragilis (Fr.) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. mycol. (Paris) 355 (1888)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
-Leptoporus fragilis var. fragilis
+Polyporus fragilis Velen., 1922
 
 ### Remarks
 null

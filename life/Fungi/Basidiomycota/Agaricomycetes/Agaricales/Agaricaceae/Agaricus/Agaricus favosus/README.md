@@ -1,5 +1,4 @@
-Agaricus favosus Lam. SPECIES
-=======
+# Agaricus favosus Lam. SPECIES
 
 #### Status
 ACCEPTED

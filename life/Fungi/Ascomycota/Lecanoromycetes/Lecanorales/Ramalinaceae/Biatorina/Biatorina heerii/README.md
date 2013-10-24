@@ -1,5 +1,4 @@
-Biatorina heerii (Hepp) Anzi SPECIES
-=======
+# Biatorina heerii (Hepp) Anzi SPECIES
 
 #### Status
 ACCEPTED

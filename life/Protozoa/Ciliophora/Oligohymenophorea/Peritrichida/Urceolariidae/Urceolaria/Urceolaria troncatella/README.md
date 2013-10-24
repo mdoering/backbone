@@ -1,5 +1,4 @@
-Urceolaria troncatella SPECIES
-=======
+# Urceolaria troncatella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-strictae Dietel SPECIES
-=======
+# Puccinia caricis-strictae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta pinzolensis Kabát & Bubák SPECIES
-=======
+# Ascochyta pinzolensis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

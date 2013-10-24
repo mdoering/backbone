@@ -1,5 +1,4 @@
-Mycena melanops (Westend.) Gillet SPECIES
-=======
+# Mycena melanops (Westend.) Gillet SPECIES
 
 #### Status
 ACCEPTED

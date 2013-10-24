@@ -1,5 +1,4 @@
-Isaria exigua (Brond.) Sacc. SPECIES
-=======
+# Isaria exigua (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

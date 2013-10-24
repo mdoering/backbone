@@ -1,5 +1,4 @@
-Corticium cremeoalbidum (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
-=======
+# Corticium cremeoalbidum (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
 
 #### Status
 ACCEPTED

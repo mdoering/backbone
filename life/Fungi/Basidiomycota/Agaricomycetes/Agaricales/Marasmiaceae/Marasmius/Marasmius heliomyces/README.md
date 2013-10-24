@@ -1,5 +1,4 @@
-Marasmius heliomyces Murrill SPECIES
-=======
+# Marasmius heliomyces Murrill SPECIES
 
 #### Status
 ACCEPTED

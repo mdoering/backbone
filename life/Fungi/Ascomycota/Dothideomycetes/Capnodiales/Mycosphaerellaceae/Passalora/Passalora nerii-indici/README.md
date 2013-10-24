@@ -1,5 +1,4 @@
-Passalora nerii-indici (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun & Crous SPECIES
-=======
+# Passalora nerii-indici (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

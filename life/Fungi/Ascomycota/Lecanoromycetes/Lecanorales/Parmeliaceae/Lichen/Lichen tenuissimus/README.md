@@ -1,5 +1,4 @@
-Lichen tenuissimus L. SPECIES
-=======
+# Lichen tenuissimus L. SPECIES
 
 #### Status
 ACCEPTED

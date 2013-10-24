@@ -1,5 +1,4 @@
-Myriotrema sphinctrinellum (Nyl.) Hale SPECIES
-=======
+# Myriotrema sphinctrinellum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

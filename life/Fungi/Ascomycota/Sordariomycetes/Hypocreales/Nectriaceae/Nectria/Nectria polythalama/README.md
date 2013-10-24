@@ -1,5 +1,4 @@
-Nectria polythalama Berk. SPECIES
-=======
+# Nectria polythalama Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium nipponense Zahlbr. SPECIES
-=======
+# Calicium nipponense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

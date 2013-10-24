@@ -1,5 +1,4 @@
-Entylomatales R. Bauer & Oberw. ORDER
-=======
+# Entylomatales R. Bauer & Oberw. ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyophrya paoletti Foissner, 1997 SPECIES
-=======
+# Platyophrya paoletti Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

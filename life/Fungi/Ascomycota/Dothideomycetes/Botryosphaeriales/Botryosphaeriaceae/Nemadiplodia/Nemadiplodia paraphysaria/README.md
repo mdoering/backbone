@@ -1,5 +1,4 @@
-Nemadiplodia paraphysaria (Sacc.) Zambett. SPECIES
-=======
+# Nemadiplodia paraphysaria (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

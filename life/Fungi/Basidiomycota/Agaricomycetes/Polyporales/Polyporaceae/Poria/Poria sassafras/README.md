@@ -1,5 +1,4 @@
-Poria sassafras (Schwein.) Sacc. SPECIES
-=======
+# Poria sassafras (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

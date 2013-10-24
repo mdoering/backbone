@@ -1,5 +1,4 @@
-Fuscopannaria mediterranea (Tav.) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria mediterranea (Tav.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

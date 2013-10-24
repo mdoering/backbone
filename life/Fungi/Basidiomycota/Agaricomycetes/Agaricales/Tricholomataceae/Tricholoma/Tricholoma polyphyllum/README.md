@@ -1,5 +1,4 @@
-Tricholoma polyphyllum DC. SPECIES
-=======
+# Tricholoma polyphyllum DC. SPECIES
 
 #### Status
 ACCEPTED

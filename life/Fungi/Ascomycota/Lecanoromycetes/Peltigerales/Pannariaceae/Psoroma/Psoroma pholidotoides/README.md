@@ -1,17 +1,16 @@
-Psoroma pholidotoides f. pholidotoides (Nyl.) Trevis. FORM
-=======
+# Psoroma pholidotoides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenotheca Veneta no. 98 (1869)
 
 #### Original name
-Psoroma pholidotoides f. pholidotoides (Nyl.) Trevis.
+Lecanora sphinctrina var. pholidotoides Nyl.
 
 ### Remarks
 null

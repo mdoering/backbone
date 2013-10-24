@@ -1,5 +1,4 @@
-Xanthoparmelia transvaalensis Hale, T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia transvaalensis Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

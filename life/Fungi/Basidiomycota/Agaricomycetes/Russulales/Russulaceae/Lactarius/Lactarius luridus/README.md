@@ -1,17 +1,16 @@
-Agaricus luridus var. luridus VARIETY
-=======
+# Lactarius luridus (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 625 (1821)
 
 #### Original name
-null
+Agaricus luridus Pers., 1801
 
 ### Remarks
 null

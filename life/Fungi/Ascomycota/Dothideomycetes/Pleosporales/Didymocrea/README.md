@@ -1,5 +1,4 @@
-Didymocrea Kowalski GENUS
-=======
+# Didymocrea Kowalski GENUS
 
 #### Status
 ACCEPTED

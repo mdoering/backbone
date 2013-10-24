@@ -1,5 +1,4 @@
-Trametes kmetii Bres. SPECIES
-=======
+# Trametes kmetii Bres. SPECIES
 
 #### Status
 ACCEPTED

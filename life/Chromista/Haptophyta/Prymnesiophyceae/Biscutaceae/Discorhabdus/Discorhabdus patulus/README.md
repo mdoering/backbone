@@ -1,5 +1,4 @@
-Discorhabdus patulus (Deflandre in Deflandre & Fert, 1954) Noël, 1965 SPECIES
-=======
+# Discorhabdus patulus (Deflandre in Deflandre & Fert, 1954) Noël, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea ghattensis G. Awasthi SPECIES
-=======
+# Usnea ghattensis G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

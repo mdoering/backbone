@@ -1,5 +1,4 @@
-Entoloma spermatiolens E. Horak SPECIES
-=======
+# Entoloma spermatiolens E. Horak SPECIES
 
 #### Status
 ACCEPTED

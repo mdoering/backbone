@@ -1,5 +1,4 @@
-Divietipellis ventricosa Playford, 1977 SPECIES
-=======
+# Divietipellis ventricosa Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

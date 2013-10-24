@@ -1,5 +1,4 @@
-Elsinoë antidesmae Racib. SPECIES
-=======
+# Elsinoë antidesmae Racib. SPECIES
 
 #### Status
 ACCEPTED

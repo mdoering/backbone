@@ -1,5 +1,4 @@
-Holosticha randani SPECIES
-=======
+# Holosticha randani SPECIES
 
 #### Status
 ACCEPTED

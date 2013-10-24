@@ -1,5 +1,4 @@
-Burkholderiella GENUS
-=======
+# Burkholderiella GENUS
 
 #### Status
 ACCEPTED

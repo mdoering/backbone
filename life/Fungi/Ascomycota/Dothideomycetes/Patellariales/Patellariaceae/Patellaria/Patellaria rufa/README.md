@@ -1,5 +1,4 @@
-Patellaria rufa (Weiss) Pers. SPECIES
-=======
+# Patellaria rufa (Weiss) Pers. SPECIES
 
 #### Status
 ACCEPTED

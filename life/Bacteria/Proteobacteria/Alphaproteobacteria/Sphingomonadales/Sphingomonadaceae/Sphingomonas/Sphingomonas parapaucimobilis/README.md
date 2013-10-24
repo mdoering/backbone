@@ -1,5 +1,4 @@
-Sphingomonas parapaucimobilis Yabuuchi et al., 1990 SPECIES
-=======
+# Sphingomonas parapaucimobilis Yabuuchi et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

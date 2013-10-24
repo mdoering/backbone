@@ -1,5 +1,4 @@
-Xanthoparmelia meruensis Krog & Swinscow SPECIES
-=======
+# Xanthoparmelia meruensis Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

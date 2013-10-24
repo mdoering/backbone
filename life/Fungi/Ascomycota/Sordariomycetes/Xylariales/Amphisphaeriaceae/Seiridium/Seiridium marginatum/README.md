@@ -1,5 +1,4 @@
-Seiridium marginatum Schwein. SPECIES
-=======
+# Seiridium marginatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

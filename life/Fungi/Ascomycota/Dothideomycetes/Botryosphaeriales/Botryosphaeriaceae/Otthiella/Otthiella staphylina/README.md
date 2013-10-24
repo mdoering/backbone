@@ -1,5 +1,4 @@
-Otthiella staphylina (Ellis & Everh.) Dearn. & House SPECIES
-=======
+# Otthiella staphylina (Ellis & Everh.) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

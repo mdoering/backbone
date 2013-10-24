@@ -1,5 +1,4 @@
-Dactylella sclerohypha Drechsler SPECIES
-=======
+# Dactylella sclerohypha Drechsler SPECIES
 
 #### Status
 ACCEPTED

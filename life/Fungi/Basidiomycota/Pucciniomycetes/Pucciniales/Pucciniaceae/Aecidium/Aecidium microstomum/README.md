@@ -1,5 +1,4 @@
-Aecidium microstomum Berk., 1872 SPECIES
-=======
+# Aecidium microstomum Berk., 1872 SPECIES
 
 #### Status
 ACCEPTED

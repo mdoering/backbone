@@ -1,5 +1,4 @@
-Collema lividofuscum Flörke SPECIES
-=======
+# Collema lividofuscum Flörke SPECIES
 
 #### Status
 ACCEPTED

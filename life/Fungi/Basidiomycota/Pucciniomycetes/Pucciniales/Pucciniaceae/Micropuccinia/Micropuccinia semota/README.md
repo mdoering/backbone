@@ -1,5 +1,4 @@
-Micropuccinia semota (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia semota (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

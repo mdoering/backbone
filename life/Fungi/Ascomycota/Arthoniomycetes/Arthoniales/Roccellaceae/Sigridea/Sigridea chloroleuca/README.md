@@ -1,14 +1,13 @@
-Platygrapha chloroleuca Müll. Arg. SPECIES
-=======
+# Sigridea chloroleuca (Müll. Arg.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 63: 283 (1880)
+Nova Hedwigia 57(3-4): 425 (1993)
 
 #### Original name
 Platygrapha chloroleuca Müll. Arg.

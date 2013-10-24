@@ -1,5 +1,4 @@
-Phomopsis similis Bubák SPECIES
-=======
+# Phomopsis similis Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wickerhamomyces sydowiorum (D.B. Scott & Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces sydowiorum (D.B. Scott & Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

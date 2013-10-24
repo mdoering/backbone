@@ -1,17 +1,16 @@
-Pyrenophora comata var. comata VARIETY
-=======
+# Pleospora comata Niessl, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 286 (1883)
+Beitr. Kenntn. Pilze Mitteleur. , Arbeitsgemeinschaft Mykologie Ostwürttemberg 30 (1872)
 
 #### Original name
-Pyrenophora comata var. comata
+Pleospora comata Niessl, 1872
 
 ### Remarks
 null

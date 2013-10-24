@@ -1,5 +1,4 @@
-Graphina stictilabiata Patw. & C.R. Kulk. SPECIES
-=======
+# Graphina stictilabiata Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

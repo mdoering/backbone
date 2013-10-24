@@ -1,5 +1,4 @@
-Lecanora asekremensis Hue SPECIES
-=======
+# Lecanora asekremensis Hue SPECIES
 
 #### Status
 ACCEPTED

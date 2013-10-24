@@ -1,5 +1,4 @@
-Rhabdospora haloxyli Gapon. SPECIES
-=======
+# Rhabdospora haloxyli Gapon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophyllum paederiae (Dietel) F. Stevens & Mendiola SPECIES
-=======
+# Endophyllum paederiae (Dietel) F. Stevens & Mendiola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus tubulus M. Zang & C.M. Chen SPECIES
-=======
+# Boletus tubulus M. Zang & C.M. Chen SPECIES
 
 #### Status
 ACCEPTED

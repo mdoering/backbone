@@ -1,5 +1,4 @@
-Macrosporium torulosum Bonord. SPECIES
-=======
+# Macrosporium torulosum Bonord. SPECIES
 
 #### Status
 ACCEPTED

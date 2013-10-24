@@ -1,5 +1,4 @@
-Dysteria armata Huxley, 1857 SPECIES
-=======
+# Dysteria armata Huxley, 1857 SPECIES
 
 #### Status
 ACCEPTED

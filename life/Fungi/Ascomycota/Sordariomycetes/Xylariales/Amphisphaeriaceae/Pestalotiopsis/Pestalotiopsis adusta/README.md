@@ -1,14 +1,13 @@
-Pestalotia adusta Ellis & Everh., 1888 SPECIES
-=======
+# Pestalotiopsis adusta (Ellis & Everh.) Steyaert, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 4(6): 51 (1888)
+Trans. Br. mycol. Soc. 36(2): 82 (1953)
 
 #### Original name
 Pestalotia adusta Ellis & Everh., 1888

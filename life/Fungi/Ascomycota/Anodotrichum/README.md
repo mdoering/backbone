@@ -1,5 +1,4 @@
-Anodotrichum GENUS
-=======
+# Anodotrichum GENUS
 
 #### Status
 ACCEPTED

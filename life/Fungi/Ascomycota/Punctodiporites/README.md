@@ -1,5 +1,4 @@
-Punctodiporites C.P. Varma & Rawat GENUS
-=======
+# Punctodiporites C.P. Varma & Rawat GENUS
 
 #### Status
 ACCEPTED

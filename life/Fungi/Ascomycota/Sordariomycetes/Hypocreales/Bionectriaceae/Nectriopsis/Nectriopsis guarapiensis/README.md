@@ -1,5 +1,4 @@
-Nectriopsis guarapiensis (Speg.) Samuels SPECIES
-=======
+# Nectriopsis guarapiensis (Speg.) Samuels SPECIES
 
 #### Status
 ACCEPTED

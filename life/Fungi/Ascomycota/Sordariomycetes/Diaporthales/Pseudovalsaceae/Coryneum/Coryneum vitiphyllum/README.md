@@ -1,5 +1,4 @@
-Coryneum vitiphyllum Speschnew SPECIES
-=======
+# Coryneum vitiphyllum Speschnew SPECIES
 
 #### Status
 ACCEPTED

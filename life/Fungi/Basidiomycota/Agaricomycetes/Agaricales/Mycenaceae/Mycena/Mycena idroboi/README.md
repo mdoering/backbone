@@ -1,5 +1,4 @@
-Mycena idroboi Singer SPECIES
-=======
+# Mycena idroboi Singer SPECIES
 
 #### Status
 ACCEPTED

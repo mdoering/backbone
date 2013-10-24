@@ -1,5 +1,4 @@
-Leptonia velutina (Hesler) Largent SPECIES
-=======
+# Leptonia velutina (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetrariastrum Sipman GENUS
-=======
+# Cetrariastrum Sipman GENUS
 
 #### Status
 ACCEPTED

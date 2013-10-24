@@ -1,5 +1,4 @@
-Cladosporium brachytrichum Corda SPECIES
-=======
+# Cladosporium brachytrichum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stigmina caricicola U. Braun & Melnik, 1996 SPECIES
-=======
+# Dictyorostrella caricicola (U. Braun & Melnik) U. Braun, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 30(3): 7 (1996)
+Schlechtendalia 3: 35 (1999)
 
 #### Original name
 Stigmina caricicola U. Braun & Melnik, 1996

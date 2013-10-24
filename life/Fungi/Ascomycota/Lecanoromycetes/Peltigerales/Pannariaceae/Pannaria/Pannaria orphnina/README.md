@@ -1,5 +1,4 @@
-Pannaria orphnina (Hue) P.M. Jørg. SPECIES
-=======
+# Pannaria orphnina (Hue) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

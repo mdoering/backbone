@@ -1,5 +1,4 @@
-Phoma scopolina Hazsl. SPECIES
-=======
+# Phoma scopolina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

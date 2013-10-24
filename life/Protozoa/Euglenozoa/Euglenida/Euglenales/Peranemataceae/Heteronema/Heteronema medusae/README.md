@@ -1,5 +1,4 @@
-Heteronema medusae Skvortzov, 1958 SPECIES
-=======
+# Heteronema medusae Skvortzov, 1958 SPECIES
 
 #### Status
 ACCEPTED

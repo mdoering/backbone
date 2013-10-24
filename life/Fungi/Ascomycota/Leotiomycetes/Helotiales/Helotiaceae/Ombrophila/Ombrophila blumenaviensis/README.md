@@ -1,5 +1,4 @@
-Ombrophila blumenaviensis Henn. SPECIES
-=======
+# Ombrophila blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

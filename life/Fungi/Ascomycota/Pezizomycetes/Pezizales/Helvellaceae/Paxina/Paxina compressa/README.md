@@ -1,5 +1,4 @@
-Paxina compressa Snyder SPECIES
-=======
+# Paxina compressa Snyder SPECIES
 
 #### Status
 ACCEPTED

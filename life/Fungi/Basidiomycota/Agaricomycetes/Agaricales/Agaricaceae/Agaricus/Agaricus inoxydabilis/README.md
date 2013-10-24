@@ -1,5 +1,4 @@
-Agaricus inoxydabilis Heinem. SPECIES
-=======
+# Agaricus inoxydabilis Heinem. SPECIES
 
 #### Status
 ACCEPTED

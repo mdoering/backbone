@@ -1,5 +1,4 @@
-Coleosporium euodiae Dietel SPECIES
-=======
+# Coleosporium euodiae Dietel SPECIES
 
 #### Status
 ACCEPTED

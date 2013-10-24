@@ -1,5 +1,4 @@
-Phomopsis hystericola (Sacc.) Grove SPECIES
-=======
+# Phomopsis hystericola (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

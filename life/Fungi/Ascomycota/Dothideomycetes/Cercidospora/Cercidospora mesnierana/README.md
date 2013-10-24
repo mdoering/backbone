@@ -1,5 +1,4 @@
-Cercidospora mesnierana (Rehm & Thüm.) Kuntze SPECIES
-=======
+# Cercidospora mesnierana (Rehm & Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Inocybe fuscescentipes var. fuscescentipes VARIETY
-=======
+# Inocybe fuscescentipes Kühner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 19(no. 74): 18 (1988)
 
 #### Original name
-null
+Inocybe fuscescentipes Kühner
 
 ### Remarks
 null

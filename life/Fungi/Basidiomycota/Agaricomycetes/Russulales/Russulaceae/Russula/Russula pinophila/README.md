@@ -1,5 +1,4 @@
-Russula pinophila Murrill SPECIES
-=======
+# Russula pinophila Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetabula helvelloides Lasch SPECIES
-=======
+# Acetabula helvelloides Lasch SPECIES
 
 #### Status
 ACCEPTED

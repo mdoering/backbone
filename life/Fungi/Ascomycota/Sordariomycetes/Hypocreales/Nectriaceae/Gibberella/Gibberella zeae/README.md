@@ -1,17 +1,16 @@
-Fusarium roseum f. sp FORM
-=======
+# Gibberella zeae (Schwein.) Petch, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 34: 260 (1936)
 
 #### Original name
-Fusarium roseum f. sp
+Sphaeria zeae Schwein., 1822
 
 ### Remarks
 null

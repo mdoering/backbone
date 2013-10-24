@@ -1,5 +1,4 @@
-Lactarius cinnamomeus W.F. Chiu SPECIES
-=======
+# Lactarius cinnamomeus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

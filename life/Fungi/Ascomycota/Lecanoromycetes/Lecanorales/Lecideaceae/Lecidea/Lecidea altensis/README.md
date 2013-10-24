@@ -1,5 +1,4 @@
-Lecidea altensis var. altensis VARIETY
-=======
+# Lecidea altensis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea altensis var. altensis
+Lecidea altensis Th. Fr.
 
 ### Remarks
 null

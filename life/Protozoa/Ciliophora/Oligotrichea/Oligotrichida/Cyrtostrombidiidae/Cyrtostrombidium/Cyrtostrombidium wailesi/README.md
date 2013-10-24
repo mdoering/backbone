@@ -1,5 +1,4 @@
-Cyrtostrombidium wailesi Lynn & Gilron, 1993 SPECIES
-=======
+# Cyrtostrombidium wailesi Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

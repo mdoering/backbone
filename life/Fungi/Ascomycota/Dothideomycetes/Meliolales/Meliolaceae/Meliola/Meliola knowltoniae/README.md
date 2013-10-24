@@ -1,5 +1,4 @@
-Meliola knowltoniae Doidge SPECIES
-=======
+# Meliola knowltoniae Doidge SPECIES
 
 #### Status
 ACCEPTED

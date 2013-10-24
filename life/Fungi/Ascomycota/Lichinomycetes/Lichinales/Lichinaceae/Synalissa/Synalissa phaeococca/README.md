@@ -1,5 +1,4 @@
-Synalissa phaeococca Tuck. SPECIES
-=======
+# Synalissa phaeococca Tuck. SPECIES
 
 #### Status
 ACCEPTED

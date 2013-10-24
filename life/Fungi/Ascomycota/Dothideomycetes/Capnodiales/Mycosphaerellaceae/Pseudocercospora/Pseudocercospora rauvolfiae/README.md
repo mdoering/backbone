@@ -1,5 +1,4 @@
-Pseudocercospora rauvolfiae Deighton SPECIES
-=======
+# Pseudocercospora rauvolfiae Deighton SPECIES
 
 #### Status
 ACCEPTED

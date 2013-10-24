@@ -1,5 +1,4 @@
-Mycoleptodiscus disciformis Matsush. SPECIES
-=======
+# Mycoleptodiscus disciformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

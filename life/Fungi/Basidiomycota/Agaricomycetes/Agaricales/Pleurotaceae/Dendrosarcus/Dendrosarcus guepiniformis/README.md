@@ -1,5 +1,4 @@
-Dendrosarcus guepiniformis (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus guepiniformis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

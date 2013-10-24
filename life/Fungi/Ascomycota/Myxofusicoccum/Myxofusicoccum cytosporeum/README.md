@@ -1,5 +1,4 @@
-Myxofusicoccum cytosporeum (Sacc.) Petr. SPECIES
-=======
+# Myxofusicoccum cytosporeum (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

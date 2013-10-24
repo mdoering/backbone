@@ -1,5 +1,4 @@
-Usnea pseudomontis-fuji Asahina SPECIES
-=======
+# Usnea pseudomontis-fuji Asahina SPECIES
 
 #### Status
 ACCEPTED

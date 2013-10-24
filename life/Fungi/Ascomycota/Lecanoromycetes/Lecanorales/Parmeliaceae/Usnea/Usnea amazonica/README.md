@@ -1,5 +1,4 @@
-Usnea amazonica Motyka SPECIES
-=======
+# Usnea amazonica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucantharomyces casnoniae Thaxt. SPECIES
-=======
+# Eucantharomyces casnoniae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

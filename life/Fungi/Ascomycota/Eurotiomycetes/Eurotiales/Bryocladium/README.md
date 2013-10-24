@@ -1,5 +1,4 @@
-Bryocladium GENUS
-=======
+# Bryocladium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriella fungosa Dilcher SPECIES
-=======
+# Microthyriella fungosa Dilcher SPECIES
 
 #### Status
 ACCEPTED

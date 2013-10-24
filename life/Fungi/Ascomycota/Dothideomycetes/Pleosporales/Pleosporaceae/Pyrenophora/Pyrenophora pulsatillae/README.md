@@ -1,5 +1,4 @@
-Pyrenophora pulsatillae Gucevic SPECIES
-=======
+# Pyrenophora pulsatillae Gucevic SPECIES
 
 #### Status
 ACCEPTED

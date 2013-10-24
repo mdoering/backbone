@@ -1,5 +1,4 @@
-Teichospora juniperina K. Holm & L. Holm SPECIES
-=======
+# Teichospora juniperina K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

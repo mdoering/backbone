@@ -1,5 +1,4 @@
-Marinococcus Hao et al., 1985 GENUS
-=======
+# Marinococcus Hao et al., 1985 GENUS
 
 #### Status
 ACCEPTED

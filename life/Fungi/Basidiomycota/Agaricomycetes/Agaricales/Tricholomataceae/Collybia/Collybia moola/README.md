@@ -1,5 +1,4 @@
-Collybia moola Grgur. SPECIES
-=======
+# Collybia moola Grgur. SPECIES
 
 #### Status
 ACCEPTED

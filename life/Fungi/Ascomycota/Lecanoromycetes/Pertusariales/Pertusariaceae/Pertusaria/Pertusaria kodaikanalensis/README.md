@@ -1,5 +1,4 @@
-Pertusaria kodaikanalensis M. Choisy SPECIES
-=======
+# Pertusaria kodaikanalensis M. Choisy SPECIES
 
 #### Status
 ACCEPTED

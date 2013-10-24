@@ -1,5 +1,4 @@
-Trachelomonas calva f. glabra Safonova FORM
-=======
+# Trachelomonas calva Conrad SPECIES
 
 #### Status
 ACCEPTED

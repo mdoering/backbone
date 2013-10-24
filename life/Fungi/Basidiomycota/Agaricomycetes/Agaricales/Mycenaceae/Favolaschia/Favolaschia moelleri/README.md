@@ -1,5 +1,4 @@
-Favolaschia moelleri (Bres.) Singer, 1974 SPECIES
-=======
+# Favolaschia moelleri (Bres.) Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

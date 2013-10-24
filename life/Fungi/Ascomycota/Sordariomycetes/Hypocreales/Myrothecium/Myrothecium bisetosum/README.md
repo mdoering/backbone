@@ -1,5 +1,4 @@
-Myrothecium bisetosum V. Rao & de Hoog, 1983 SPECIES
-=======
+# Myrothecium bisetosum V. Rao & de Hoog, 1983 SPECIES
 
 #### Status
 ACCEPTED

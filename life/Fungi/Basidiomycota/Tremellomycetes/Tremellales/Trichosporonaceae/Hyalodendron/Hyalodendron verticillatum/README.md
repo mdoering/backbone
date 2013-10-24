@@ -1,5 +1,4 @@
-Hyalodendron verticillatum Austwick SPECIES
-=======
+# Hyalodendron verticillatum Austwick SPECIES
 
 #### Status
 ACCEPTED

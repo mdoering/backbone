@@ -1,5 +1,4 @@
-Sphaerulina thujopsidis Sawada SPECIES
-=======
+# Sphaerulina thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

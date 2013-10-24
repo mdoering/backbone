@@ -1,5 +1,4 @@
-Hyalosphaera ornata J.L. Alves, R.W. Barreto & O.L. Pereira, 2010 SPECIES
-=======
+# Hyalosphaera ornata J.L. Alves, R.W. Barreto & O.L. Pereira, 2010 SPECIES
 
 #### Status
 ACCEPTED

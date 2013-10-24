@@ -1,5 +1,4 @@
-Hemithecium nagalandicum (Kr.P. Singh & G.P. Sinha) Adaw. & Makhija SPECIES
-=======
+# Hemithecium nagalandicum (Kr.P. Singh & G.P. Sinha) Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

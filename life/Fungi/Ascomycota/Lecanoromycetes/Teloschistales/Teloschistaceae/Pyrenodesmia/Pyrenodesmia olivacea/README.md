@@ -1,5 +1,4 @@
-Pyrenodesmia olivacea A. Massal. SPECIES
-=======
+# Pyrenodesmia olivacea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

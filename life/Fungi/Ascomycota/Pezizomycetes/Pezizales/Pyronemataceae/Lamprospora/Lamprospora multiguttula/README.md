@@ -1,5 +1,4 @@
-Lamprospora multiguttula L.R. Batra SPECIES
-=======
+# Lamprospora multiguttula L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

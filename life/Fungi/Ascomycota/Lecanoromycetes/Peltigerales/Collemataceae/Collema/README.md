@@ -1,17 +1,16 @@
-Collematomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Collema F.H. Wiggers, 1780 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 70 (1953)
+Prim. fl. holsat. (Kiliae) 89 (1780)
 
 #### Original name
-Collematomyces E.A. Thomas ex Cif. & Tomas.
+Collema F.H. Wiggers, 1780
 
 ### Remarks
 null

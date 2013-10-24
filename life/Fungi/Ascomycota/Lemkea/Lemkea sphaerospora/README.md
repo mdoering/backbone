@@ -1,5 +1,4 @@
-Lemkea sphaerospora Morgan-Jones & R.C. Sinclair, 1983 SPECIES
-=======
+# Lemkea sphaerospora Morgan-Jones & R.C. Sinclair, 1983 SPECIES
 
 #### Status
 ACCEPTED

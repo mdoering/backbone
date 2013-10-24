@@ -1,5 +1,4 @@
-Physcia leana Tuck. SPECIES
-=======
+# Physcia leana Tuck. SPECIES
 
 #### Status
 ACCEPTED

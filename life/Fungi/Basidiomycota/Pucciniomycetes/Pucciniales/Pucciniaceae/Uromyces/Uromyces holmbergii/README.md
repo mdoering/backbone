@@ -1,5 +1,4 @@
-Uromyces holmbergii Speg. SPECIES
-=======
+# Uromyces holmbergii Speg. SPECIES
 
 #### Status
 ACCEPTED

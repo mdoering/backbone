@@ -1,5 +1,4 @@
-Placentulina Kasimova, 1978 GENUS
-=======
+# Placentulina Kasimova, 1978 GENUS
 
 #### Status
 ACCEPTED

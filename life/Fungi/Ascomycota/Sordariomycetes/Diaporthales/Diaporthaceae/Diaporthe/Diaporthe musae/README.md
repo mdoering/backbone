@@ -1,5 +1,4 @@
-Diaporthe musae Speg. SPECIES
-=======
+# Diaporthe musae Speg. SPECIES
 
 #### Status
 ACCEPTED

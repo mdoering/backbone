@@ -1,5 +1,4 @@
-Pertusaria leucodes C. Knight SPECIES
-=======
+# Pertusaria leucodes C. Knight SPECIES
 
 #### Status
 ACCEPTED

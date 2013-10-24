@@ -1,5 +1,4 @@
-Loxophyllum carinatum Vuxanovici, 1959 SPECIES
-=======
+# Loxophyllum carinatum Vuxanovici, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ustorum Berk. & Broome SPECIES
-=======
+# Peziza ustorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

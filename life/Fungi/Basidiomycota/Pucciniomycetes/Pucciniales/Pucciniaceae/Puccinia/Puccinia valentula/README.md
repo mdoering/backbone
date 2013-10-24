@@ -1,5 +1,4 @@
-Puccinia valentula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia valentula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

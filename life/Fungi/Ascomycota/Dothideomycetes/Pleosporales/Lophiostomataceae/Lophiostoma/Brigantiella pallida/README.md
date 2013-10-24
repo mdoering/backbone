@@ -1,5 +1,4 @@
-Brigantiella pallida Henn. SPECIES
-=======
+# Brigantiella pallida Henn. SPECIES
 
 #### Status
 ACCEPTED

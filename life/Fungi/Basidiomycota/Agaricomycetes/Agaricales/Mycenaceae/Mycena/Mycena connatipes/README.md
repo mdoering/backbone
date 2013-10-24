@@ -1,5 +1,4 @@
-Mycena connatipes Berk. & M.A. Curtis SPECIES
-=======
+# Mycena connatipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

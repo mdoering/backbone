@@ -1,5 +1,4 @@
-Piloderma reticulatum (Parmasto) Jülich SPECIES
-=======
+# Piloderma reticulatum (Parmasto) Jülich SPECIES
 
 #### Status
 ACCEPTED

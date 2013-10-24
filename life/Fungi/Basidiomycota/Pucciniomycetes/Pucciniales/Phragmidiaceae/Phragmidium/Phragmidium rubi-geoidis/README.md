@@ -1,5 +1,4 @@
-Phragmidium rubi-geoidis Cotton SPECIES
-=======
+# Phragmidium rubi-geoidis Cotton SPECIES
 
 #### Status
 ACCEPTED

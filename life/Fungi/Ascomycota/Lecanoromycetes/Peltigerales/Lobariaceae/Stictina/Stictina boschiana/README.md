@@ -1,5 +1,4 @@
-Stictina boschiana (Mont. & Bosch) Nyl. SPECIES
-=======
+# Stictina boschiana (Mont. & Bosch) Nyl. SPECIES
 
 #### Status
 ACCEPTED

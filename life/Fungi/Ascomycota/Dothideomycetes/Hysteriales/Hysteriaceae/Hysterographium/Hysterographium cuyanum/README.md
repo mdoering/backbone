@@ -1,5 +1,4 @@
-Hysterographium cuyanum Speg. SPECIES
-=======
+# Hysterographium cuyanum Speg. SPECIES
 
 #### Status
 ACCEPTED

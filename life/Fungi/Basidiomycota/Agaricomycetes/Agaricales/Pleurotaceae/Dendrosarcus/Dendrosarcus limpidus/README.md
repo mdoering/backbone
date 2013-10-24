@@ -1,5 +1,4 @@
-Dendrosarcus limpidus (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus limpidus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

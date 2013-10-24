@@ -1,5 +1,4 @@
-Acarospora gobiensis H. Magn. SPECIES
-=======
+# Acarospora gobiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

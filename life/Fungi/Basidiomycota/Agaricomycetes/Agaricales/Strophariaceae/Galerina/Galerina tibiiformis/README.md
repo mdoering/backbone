@@ -1,5 +1,4 @@
-Galerina tibiiformis A.E. Wood SPECIES
-=======
+# Galerina tibiiformis A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

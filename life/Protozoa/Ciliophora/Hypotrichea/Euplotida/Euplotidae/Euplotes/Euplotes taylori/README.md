@@ -1,5 +1,4 @@
-Euplotes taylori Garnjobst, 1928 SPECIES
-=======
+# Euplotes taylori Garnjobst, 1928 SPECIES
 
 #### Status
 ACCEPTED

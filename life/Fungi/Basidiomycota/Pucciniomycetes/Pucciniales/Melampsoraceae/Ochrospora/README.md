@@ -1,5 +1,4 @@
-Ochrospora GENUS
-=======
+# Ochrospora GENUS
 
 #### Status
 ACCEPTED

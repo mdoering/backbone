@@ -1,5 +1,4 @@
-Myxosporium diedickei Syd. SPECIES
-=======
+# Myxosporium diedickei Syd. SPECIES
 
 #### Status
 ACCEPTED

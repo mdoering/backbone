@@ -1,5 +1,4 @@
-Sphaeria phomopsis Cooke & Ellis SPECIES
-=======
+# Sphaeria phomopsis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe prieta Lodge & Pegler SPECIES
-=======
+# Hygrocybe prieta Lodge & Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora pyrrhomelaena (Tuck.) Swinscow & Krog SPECIES
-=======
+# Phyllopsora pyrrhomelaena (Tuck.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

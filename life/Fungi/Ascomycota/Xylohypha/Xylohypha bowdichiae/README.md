@@ -1,5 +1,4 @@
-Xylohypha bowdichiae (Petr.) J.L. Crane & Schokn. SPECIES
-=======
+# Xylohypha bowdichiae (Petr.) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

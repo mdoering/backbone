@@ -1,5 +1,4 @@
-Septoria hypericorum N.P. Golovina SPECIES
-=======
+# Septoria hypericorum N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

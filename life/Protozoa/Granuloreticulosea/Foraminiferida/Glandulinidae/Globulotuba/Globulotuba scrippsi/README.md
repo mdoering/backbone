@@ -1,5 +1,4 @@
-Globulotuba scrippsi Clark, 1994 SPECIES
-=======
+# Globulotuba scrippsi Clark, 1994 SPECIES
 
 #### Status
 ACCEPTED

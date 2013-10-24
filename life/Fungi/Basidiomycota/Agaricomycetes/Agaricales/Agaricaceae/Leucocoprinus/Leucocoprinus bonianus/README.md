@@ -1,5 +1,4 @@
-Leucocoprinus bonianus (Pat.) Zhu L. Yang SPECIES
-=======
+# Leucocoprinus bonianus (Pat.) Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

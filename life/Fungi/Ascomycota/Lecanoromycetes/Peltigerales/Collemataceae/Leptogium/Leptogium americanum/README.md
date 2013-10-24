@@ -1,5 +1,4 @@
-Leptogium americanum Degel. SPECIES
-=======
+# Leptogium americanum Degel. SPECIES
 
 #### Status
 ACCEPTED

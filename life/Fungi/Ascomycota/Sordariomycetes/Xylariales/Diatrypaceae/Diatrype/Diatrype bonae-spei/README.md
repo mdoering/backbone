@@ -1,5 +1,4 @@
-Diatrype bonae-spei Berl. SPECIES
-=======
+# Diatrype bonae-spei Berl. SPECIES
 
 #### Status
 ACCEPTED

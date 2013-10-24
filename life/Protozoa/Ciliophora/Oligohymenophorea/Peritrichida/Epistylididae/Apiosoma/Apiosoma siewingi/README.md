@@ -1,5 +1,4 @@
-Apiosoma siewingi SPECIES
-=======
+# Apiosoma siewingi SPECIES
 
 #### Status
 ACCEPTED

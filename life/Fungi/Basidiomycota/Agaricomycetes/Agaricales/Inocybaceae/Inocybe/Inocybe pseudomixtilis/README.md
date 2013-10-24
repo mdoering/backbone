@@ -1,5 +1,4 @@
-Inocybe pseudomixtilis (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe pseudomixtilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

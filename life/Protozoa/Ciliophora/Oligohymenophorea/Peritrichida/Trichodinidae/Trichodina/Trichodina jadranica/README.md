@@ -1,5 +1,4 @@
-Trichodina jadranica Lom & Laird, 1969 SPECIES
-=======
+# Trichodina jadranica Lom & Laird, 1969 SPECIES
 
 #### Status
 ACCEPTED

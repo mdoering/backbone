@@ -1,5 +1,4 @@
-Pachyspheridium G. Burmann, 1970 GENUS
-=======
+# Pachyspheridium G. Burmann, 1970 GENUS
 
 #### Status
 ACCEPTED

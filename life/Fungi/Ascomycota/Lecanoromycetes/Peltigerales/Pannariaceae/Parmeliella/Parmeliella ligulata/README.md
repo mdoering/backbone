@@ -1,5 +1,4 @@
-Parmeliella ligulata P.M. Jørg. & D.J. Galloway SPECIES
-=======
+# Parmeliella ligulata P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

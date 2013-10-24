@@ -1,5 +1,4 @@
-Vannella devonica Page, 1979 SPECIES
-=======
+# Vannella devonica Page, 1979 SPECIES
 
 #### Status
 ACCEPTED

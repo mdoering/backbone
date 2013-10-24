@@ -1,5 +1,4 @@
-Corticium atrocinereum Kalchbr. SPECIES
-=======
+# Corticium atrocinereum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

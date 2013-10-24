@@ -1,5 +1,4 @@
-Meliola linderae var. linderae VARIETY
-=======
+# Meliola linderae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Nat. Hist. Soc. Formosa 31: 20 (1941)
 
 #### Original name
-Meliola linderae var. linderae
+Meliola linderae W. Yamam.
 
 ### Remarks
 null

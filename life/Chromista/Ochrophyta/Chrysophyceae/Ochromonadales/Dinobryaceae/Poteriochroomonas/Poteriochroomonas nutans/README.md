@@ -1,5 +1,4 @@
-Poteriochroomonas nutans Jane SPECIES
-=======
+# Poteriochroomonas nutans Jane SPECIES
 
 #### Status
 ACCEPTED

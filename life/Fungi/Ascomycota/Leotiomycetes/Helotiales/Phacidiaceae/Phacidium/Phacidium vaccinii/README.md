@@ -1,17 +1,16 @@
-Phacidium vaccinii var. vaccinii Fr. VARIETY
-=======
+# Phacidium vaccinii Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 575 (1823)
 
 #### Original name
-Phacidium vaccinii var. vaccinii Fr.
+Phacidium vaccinii Fr., 1823
 
 ### Remarks
 null

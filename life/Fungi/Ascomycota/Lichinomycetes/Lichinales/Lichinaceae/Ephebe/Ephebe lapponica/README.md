@@ -1,5 +1,4 @@
-Ephebe lapponica Nyl. SPECIES
-=======
+# Ephebe lapponica Nyl. SPECIES
 
 #### Status
 ACCEPTED

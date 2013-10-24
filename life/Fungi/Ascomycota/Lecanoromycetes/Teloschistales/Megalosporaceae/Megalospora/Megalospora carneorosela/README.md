@@ -1,5 +1,4 @@
-Megalospora carneorosela B. de Lesd. SPECIES
-=======
+# Megalospora carneorosela B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

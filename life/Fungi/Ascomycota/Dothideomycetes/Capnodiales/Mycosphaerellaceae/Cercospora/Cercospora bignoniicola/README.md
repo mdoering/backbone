@@ -1,8 +1,7 @@
-Cercospora bignoniaecola Speg. SPECIES
-=======
+# Cercospora bignoniicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora bignoniaecola Speg.
+Cercospora bignoniicola Speg.
 
 ### Remarks
 null

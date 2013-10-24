@@ -1,5 +1,4 @@
-Calvatia tropicalis (Speg.) Speg. SPECIES
-=======
+# Calvatia tropicalis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

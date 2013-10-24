@@ -1,5 +1,4 @@
-Macroplodia phomatella (Peck) Kuntze SPECIES
-=======
+# Macroplodia phomatella (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago perirregularis Vánky SPECIES
-=======
+# Ustilago perirregularis Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium polycarpoides (Nyl.) Harm. SPECIES
-=======
+# Leptogium polycarpoides (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

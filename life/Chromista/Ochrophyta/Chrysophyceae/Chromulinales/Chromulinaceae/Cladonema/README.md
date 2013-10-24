@@ -1,5 +1,4 @@
-Cladonema W.S. Kent, 1880 GENUS
-=======
+# Cladonema W.S. Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

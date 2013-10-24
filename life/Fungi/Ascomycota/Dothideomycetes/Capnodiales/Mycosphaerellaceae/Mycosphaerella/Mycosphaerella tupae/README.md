@@ -1,5 +1,4 @@
-Mycosphaerella tupae (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella tupae (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

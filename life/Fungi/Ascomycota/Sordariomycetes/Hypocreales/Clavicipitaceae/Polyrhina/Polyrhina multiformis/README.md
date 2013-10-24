@@ -1,5 +1,4 @@
-Polyrhina multiformis Sorokin SPECIES
-=======
+# Polyrhina multiformis Sorokin SPECIES
 
 #### Status
 ACCEPTED

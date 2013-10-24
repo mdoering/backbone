@@ -1,5 +1,4 @@
-Sphaeria caelata Fr. SPECIES
-=======
+# Sphaeria caelata Fr. SPECIES
 
 #### Status
 ACCEPTED

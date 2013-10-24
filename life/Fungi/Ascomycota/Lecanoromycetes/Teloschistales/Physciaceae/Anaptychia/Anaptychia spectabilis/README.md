@@ -1,5 +1,4 @@
-Anaptychia spectabilis SPECIES
-=======
+# Anaptychia spectabilis SPECIES
 
 #### Status
 ACCEPTED

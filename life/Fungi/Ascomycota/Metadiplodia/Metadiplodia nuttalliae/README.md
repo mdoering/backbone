@@ -1,5 +1,4 @@
-Metadiplodia nuttalliae (Dearn.) Zambett. SPECIES
-=======
+# Metadiplodia nuttalliae (Dearn.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

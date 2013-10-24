@@ -1,5 +1,4 @@
-Prostratus GENUS
-=======
+# Prostratus GENUS
 
 #### Status
 ACCEPTED

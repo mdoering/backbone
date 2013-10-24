@@ -1,5 +1,4 @@
-Septoria eupyrena Sacc. & Thüm. SPECIES
-=======
+# Septoria eupyrena Sacc. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma lipofaciens Bradbury et al., 1983 SPECIES
-=======
+# Mycoplasma lipofaciens Bradbury et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

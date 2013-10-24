@@ -1,5 +1,4 @@
-Thelidium llanoi C.W. Dodge SPECIES
-=======
+# Thelidium llanoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

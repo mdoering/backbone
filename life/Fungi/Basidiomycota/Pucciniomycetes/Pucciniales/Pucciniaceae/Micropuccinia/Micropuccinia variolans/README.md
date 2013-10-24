@@ -1,5 +1,4 @@
-Micropuccinia variolans (Harkn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia variolans (Harkn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

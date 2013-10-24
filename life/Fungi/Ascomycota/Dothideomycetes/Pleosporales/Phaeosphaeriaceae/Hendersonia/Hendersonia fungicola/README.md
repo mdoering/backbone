@@ -1,5 +1,4 @@
-Hendersonia fungicola Woron. SPECIES
-=======
+# Hendersonia fungicola Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca archeri Kalb, S. Y. Kondr., Elix & Kärnefelt SPECIES
-=======
+# Caloplaca archeri Kalb, S. Y. Kondr., Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

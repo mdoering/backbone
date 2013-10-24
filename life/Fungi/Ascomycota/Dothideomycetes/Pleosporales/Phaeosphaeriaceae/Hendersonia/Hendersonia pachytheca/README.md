@@ -1,5 +1,4 @@
-Hendersonia pachytheca Bubák SPECIES
-=======
+# Hendersonia pachytheca Bubák SPECIES
 
 #### Status
 ACCEPTED

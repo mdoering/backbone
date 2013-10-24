@@ -1,5 +1,4 @@
-Trimmatostroma amentorum Bres. & Sacc. SPECIES
-=======
+# Trimmatostroma amentorum Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

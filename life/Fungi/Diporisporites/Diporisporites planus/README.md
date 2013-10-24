@@ -1,5 +1,4 @@
-Diporisporites planus Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Diporisporites planus Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermiculariopsiella parva Kesh. Prasad, D'Souza & Bhat SPECIES
-=======
+# Vermiculariopsiella parva Kesh. Prasad, D'Souza & Bhat SPECIES
 
 #### Status
 ACCEPTED

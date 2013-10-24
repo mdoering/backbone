@@ -1,5 +1,4 @@
-Polyporus leucoloma Pers. SPECIES
-=======
+# Polyporus leucoloma Pers. SPECIES
 
 #### Status
 ACCEPTED

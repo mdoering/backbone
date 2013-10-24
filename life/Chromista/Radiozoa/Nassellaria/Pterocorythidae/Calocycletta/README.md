@@ -1,5 +1,4 @@
-Calocycletta Haeckel, 1887 GENUS
-=======
+# Calocycletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

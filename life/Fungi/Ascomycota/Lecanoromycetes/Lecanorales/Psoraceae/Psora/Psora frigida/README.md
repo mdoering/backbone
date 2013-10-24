@@ -1,5 +1,4 @@
-Psora frigida (Sw.) Hoffm. SPECIES
-=======
+# Psora frigida (Sw.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

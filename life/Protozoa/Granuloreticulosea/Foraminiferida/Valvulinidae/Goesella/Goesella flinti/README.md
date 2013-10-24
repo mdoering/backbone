@@ -1,5 +1,4 @@
-Goesella flinti SPECIES
-=======
+# Goesella flinti SPECIES
 
 #### Status
 ACCEPTED

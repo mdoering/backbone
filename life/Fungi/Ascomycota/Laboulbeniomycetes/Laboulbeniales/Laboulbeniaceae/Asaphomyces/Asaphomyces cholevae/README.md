@@ -1,5 +1,4 @@
-Asaphomyces cholevae Thaxt., 1931 SPECIES
-=======
+# Asaphomyces cholevae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

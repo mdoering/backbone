@@ -1,5 +1,4 @@
-Pertusaria thiostomoides Vain. SPECIES
-=======
+# Pertusaria thiostomoides Vain. SPECIES
 
 #### Status
 ACCEPTED

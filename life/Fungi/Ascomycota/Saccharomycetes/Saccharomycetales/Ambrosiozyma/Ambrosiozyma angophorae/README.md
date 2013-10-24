@@ -1,5 +1,4 @@
-Ambrosiozyma angophorae (M.W. Mill. & J.S.F. Barker) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ambrosiozyma angophorae (M.W. Mill. & J.S.F. Barker) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

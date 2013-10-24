@@ -1,5 +1,4 @@
-Gyoerffyella myrmecophagiformis Melnik & Dudka, 1990 SPECIES
-=======
+# Gyoerffyella myrmecophagiformis Melnik & Dudka, 1990 SPECIES
 
 #### Status
 ACCEPTED

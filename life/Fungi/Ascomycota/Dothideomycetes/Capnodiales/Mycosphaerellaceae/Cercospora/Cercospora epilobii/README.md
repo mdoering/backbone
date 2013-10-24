@@ -1,5 +1,4 @@
-Cercospora epilobii Schnabl SPECIES
-=======
+# Cercospora epilobii Schnabl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudostypella McNabb GENUS
-=======
+# Pseudostypella McNabb GENUS
 
 #### Status
 ACCEPTED

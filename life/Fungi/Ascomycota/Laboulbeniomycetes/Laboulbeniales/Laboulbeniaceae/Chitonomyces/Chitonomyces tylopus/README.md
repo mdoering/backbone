@@ -1,5 +1,4 @@
-Chitonomyces tylopus Santam. SPECIES
-=======
+# Chitonomyces tylopus Santam. SPECIES
 
 #### Status
 ACCEPTED

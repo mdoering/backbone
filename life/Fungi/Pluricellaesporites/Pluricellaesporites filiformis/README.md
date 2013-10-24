@@ -1,5 +1,4 @@
-Pluricellaesporites filiformis Hammen SPECIES
-=======
+# Pluricellaesporites filiformis Hammen SPECIES
 
 #### Status
 ACCEPTED

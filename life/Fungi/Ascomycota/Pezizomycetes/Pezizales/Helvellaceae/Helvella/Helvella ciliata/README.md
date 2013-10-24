@@ -1,5 +1,4 @@
-Helvella ciliata Schaeff. SPECIES
-=======
+# Helvella ciliata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

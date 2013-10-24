@@ -1,17 +1,16 @@
-Gloeosporium mirabile (Peck) Peck, 1887 SPECIES
-=======
+# Uredinopsis americana Syd. & P. Syd., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 39: 57 (1887)
+Annls mycol. 1: 325 (1903)
 
 #### Original name
-null
+Uredinopsis americana Syd. & P. Syd., 1903
 
 ### Remarks
 null

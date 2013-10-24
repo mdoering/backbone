@@ -1,5 +1,4 @@
-Amphileptus incurvatus (Lepsi, 1926) Augustin, Foissner & Adam, 1987 SPECIES
-=======
+# Amphileptus incurvatus (Lepsi, 1926) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium phialosporum Udagawa, 1959 SPECIES
-=======
+# Penicillium rugulosum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

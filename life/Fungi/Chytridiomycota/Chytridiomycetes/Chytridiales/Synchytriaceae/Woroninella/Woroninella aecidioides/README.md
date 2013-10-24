@@ -1,5 +1,4 @@
-Woroninella aecidioides (Peck) Syd. SPECIES
-=======
+# Woroninella aecidioides (Peck) Syd. SPECIES
 
 #### Status
 ACCEPTED

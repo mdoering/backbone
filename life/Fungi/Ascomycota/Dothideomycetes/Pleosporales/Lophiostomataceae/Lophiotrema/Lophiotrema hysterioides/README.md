@@ -1,5 +1,4 @@
-Lophiotrema hysterioides (Ellis & Langl.) Berl. SPECIES
-=======
+# Lophiotrema hysterioides (Ellis & Langl.) Berl. SPECIES
 
 #### Status
 ACCEPTED

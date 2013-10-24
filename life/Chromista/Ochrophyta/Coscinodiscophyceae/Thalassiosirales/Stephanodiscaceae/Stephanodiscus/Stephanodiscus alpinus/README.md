@@ -1,5 +1,4 @@
-Stephanodiscus alpinus Hustedt SPECIES
-=======
+# Stephanodiscus alpinus Hustedt SPECIES
 
 #### Status
 ACCEPTED

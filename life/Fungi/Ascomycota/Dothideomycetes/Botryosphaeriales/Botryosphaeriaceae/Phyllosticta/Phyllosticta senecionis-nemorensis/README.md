@@ -1,5 +1,4 @@
-Phyllosticta senecionis-nemorensis Bubák & Picb. SPECIES
-=======
+# Phyllosticta senecionis-nemorensis Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

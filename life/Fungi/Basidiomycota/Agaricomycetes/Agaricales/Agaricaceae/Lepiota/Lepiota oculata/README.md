@@ -1,5 +1,4 @@
-Lepiota oculata Zeller SPECIES
-=======
+# Lepiota oculata Zeller SPECIES
 
 #### Status
 ACCEPTED

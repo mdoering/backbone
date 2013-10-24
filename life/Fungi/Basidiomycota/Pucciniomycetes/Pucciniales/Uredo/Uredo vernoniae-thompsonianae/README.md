@@ -1,5 +1,4 @@
-Uredo vernoniae-thompsonianae J.M. Yen SPECIES
-=======
+# Uredo vernoniae-thompsonianae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

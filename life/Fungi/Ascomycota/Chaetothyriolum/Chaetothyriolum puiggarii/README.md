@@ -1,5 +1,4 @@
-Chaetothyriolum puiggarii Speg. SPECIES
-=======
+# Chaetothyriolum puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

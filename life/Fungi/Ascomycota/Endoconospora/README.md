@@ -1,5 +1,4 @@
-Endoconospora Gjaerum GENUS
-=======
+# Endoconospora Gjaerum GENUS
 
 #### Status
 ACCEPTED

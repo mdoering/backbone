@@ -1,17 +1,16 @@
-Mytilidion resinicola M.L. Lohman, 1933 SPECIES
-=======
+# Mytilinidion resinicola M.L. Lohman, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 17: 33 (1933)
 
 #### Original name
-Mytilidion resinicola M.L. Lohman, 1933
+Mytilinidion resinicola M.L. Lohman, 1933
 
 ### Remarks
 null

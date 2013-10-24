@@ -1,5 +1,4 @@
-Usnea subtilis Motyka SPECIES
-=======
+# Usnea subtilis Motyka SPECIES
 
 #### Status
 ACCEPTED

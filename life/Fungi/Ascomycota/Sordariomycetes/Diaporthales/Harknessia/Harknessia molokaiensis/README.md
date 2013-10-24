@@ -1,5 +1,4 @@
-Harknessia molokaiensis Crous & J.D. Rogers SPECIES
-=======
+# Harknessia molokaiensis Crous & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

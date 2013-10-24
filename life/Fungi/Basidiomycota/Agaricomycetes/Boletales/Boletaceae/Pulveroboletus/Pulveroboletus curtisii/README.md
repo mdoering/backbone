@@ -1,5 +1,4 @@
-Pulveroboletus curtisii (Berk.) Singer SPECIES
-=======
+# Pulveroboletus curtisii (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

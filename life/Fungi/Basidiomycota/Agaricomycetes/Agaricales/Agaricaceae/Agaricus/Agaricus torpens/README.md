@@ -1,5 +1,4 @@
-Agaricus torpens Fr. SPECIES
-=======
+# Agaricus torpens Fr. SPECIES
 
 #### Status
 ACCEPTED

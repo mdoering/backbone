@@ -1,5 +1,4 @@
-Camarophyllus grinlingii Singer SPECIES
-=======
+# Camarophyllus grinlingii Singer SPECIES
 
 #### Status
 ACCEPTED

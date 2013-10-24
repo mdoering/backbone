@@ -1,5 +1,4 @@
-Ramalina maxima (Müll. Arg.) Szatala SPECIES
-=======
+# Ramalina maxima (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

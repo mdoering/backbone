@@ -1,5 +1,4 @@
-Protomycopsis hyoseridis Syd. SPECIES
-=======
+# Protomycopsis hyoseridis Syd. SPECIES
 
 #### Status
 ACCEPTED

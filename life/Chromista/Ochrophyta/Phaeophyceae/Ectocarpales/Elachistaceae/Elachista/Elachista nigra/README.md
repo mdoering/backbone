@@ -1,5 +1,4 @@
-Elachista nigra Takamatsu SPECIES
-=======
+# Elachista nigra Takamatsu SPECIES
 
 #### Status
 ACCEPTED

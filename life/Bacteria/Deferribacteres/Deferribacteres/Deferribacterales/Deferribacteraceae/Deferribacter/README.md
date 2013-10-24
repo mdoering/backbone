@@ -1,5 +1,4 @@
-Deferribacter Greene, Patel & Sheehy, 1997 GENUS
-=======
+# Deferribacter Greene, Patel & Sheehy, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena brunneorubra Métrod SPECIES
-=======
+# Mycena brunneorubra Métrod SPECIES
 
 #### Status
 ACCEPTED

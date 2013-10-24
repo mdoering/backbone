@@ -1,5 +1,4 @@
-Graphis koreaiensis Sipman SPECIES
-=======
+# Graphis koreaiensis Sipman SPECIES
 
 #### Status
 ACCEPTED

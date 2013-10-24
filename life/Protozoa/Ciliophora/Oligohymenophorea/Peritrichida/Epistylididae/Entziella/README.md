@@ -1,5 +1,4 @@
-Entziella Stiller, 1951 GENUS
-=======
+# Entziella Stiller, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola lictorea Cif. SPECIES
-=======
+# Meliola lictorea Cif. SPECIES
 
 #### Status
 ACCEPTED

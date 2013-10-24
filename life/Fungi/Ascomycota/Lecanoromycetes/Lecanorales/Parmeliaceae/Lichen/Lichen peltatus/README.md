@@ -1,5 +1,4 @@
-Lichen peltatus * steatina (Ach.) Lam. INFRASPECIFIC_NAME
-=======
+# Lichen peltatus Ramond SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora steatina Ach.
+Lichen peltatus Ramond
 
 ### Remarks
 null

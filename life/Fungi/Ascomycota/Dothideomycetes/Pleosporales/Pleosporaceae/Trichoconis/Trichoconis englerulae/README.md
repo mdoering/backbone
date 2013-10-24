@@ -1,5 +1,4 @@
-Trichoconis englerulae (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis englerulae (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

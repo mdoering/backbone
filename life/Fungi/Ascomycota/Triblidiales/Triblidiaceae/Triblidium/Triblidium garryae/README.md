@@ -1,8 +1,7 @@
-Tryblidium garryae Earle SPECIES
-=======
+# Triblidium garryae Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium garryae Earle
+Triblidium garryae Earle
 
 ### Remarks
 null

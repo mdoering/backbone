@@ -1,5 +1,4 @@
-Gymnopilus permollis Murrill SPECIES
-=======
+# Gymnopilus permollis Murrill SPECIES
 
 #### Status
 ACCEPTED

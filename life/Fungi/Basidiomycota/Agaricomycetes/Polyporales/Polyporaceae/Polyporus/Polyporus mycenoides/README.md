@@ -1,5 +1,4 @@
-Polyporus mycenoides Pat. SPECIES
-=======
+# Polyporus mycenoides Pat. SPECIES
 
 #### Status
 ACCEPTED

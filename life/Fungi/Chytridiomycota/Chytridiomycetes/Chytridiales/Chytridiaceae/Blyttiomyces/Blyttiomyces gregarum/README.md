@@ -1,5 +1,4 @@
-Blyttiomyces gregarum S.N. Dasgupta SPECIES
-=======
+# Blyttiomyces gregarum S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

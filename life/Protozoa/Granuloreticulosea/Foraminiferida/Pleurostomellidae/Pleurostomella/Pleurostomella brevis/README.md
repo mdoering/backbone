@@ -1,5 +1,4 @@
-Pleurostomella brevis Schwager, 1886 SPECIES
-=======
+# Pleurostomella brevis Schwager, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila langei Malençon SPECIES
-=======
+# Drosophila langei Malençon SPECIES
 
 #### Status
 ACCEPTED

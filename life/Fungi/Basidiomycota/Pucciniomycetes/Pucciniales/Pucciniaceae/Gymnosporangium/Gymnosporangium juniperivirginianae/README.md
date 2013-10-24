@@ -1,5 +1,4 @@
-Gymnosporangium juniperivirginianae Schwein. SPECIES
-=======
+# Gymnosporangium juniperivirginianae Schwein. SPECIES
 
 #### Status
 ACCEPTED

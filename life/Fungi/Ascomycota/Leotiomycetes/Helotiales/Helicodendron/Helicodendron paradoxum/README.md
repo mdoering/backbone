@@ -1,5 +1,4 @@
-Helicodendron paradoxum Peyr., 1918 SPECIES
-=======
+# Helicodendron paradoxum Peyr., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora sassafrasicola Tehon & E.Y. Daniels SPECIES
-=======
+# Cytospora sassafrasicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

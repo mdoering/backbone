@@ -1,17 +1,16 @@
-Thelidium acroglyptum var. acroglyptum VARIETY
-=======
+# Normandina acroglypta (Norman) Aptroot SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fries, Bot. Notiser 154 (1868)
+null
 
 #### Original name
-Thelidium acroglyptum var. acroglyptum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius nitellinus M.M. Moser SPECIES
-=======
+# Cortinarius nitellinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

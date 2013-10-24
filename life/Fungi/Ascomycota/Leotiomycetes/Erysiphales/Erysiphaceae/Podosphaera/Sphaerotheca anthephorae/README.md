@@ -1,5 +1,4 @@
-Sphaerotheca anthephorae SPECIES
-=======
+# Sphaerotheca anthephorae SPECIES
 
 #### Status
 ACCEPTED

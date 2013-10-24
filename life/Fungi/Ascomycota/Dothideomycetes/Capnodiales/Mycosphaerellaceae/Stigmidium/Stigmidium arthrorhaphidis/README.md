@@ -1,5 +1,4 @@
-Stigmidium arthrorhaphidis Hafellner & Obermayer SPECIES
-=======
+# Stigmidium arthrorhaphidis Hafellner & Obermayer SPECIES
 
 #### Status
 ACCEPTED

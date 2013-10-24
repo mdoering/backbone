@@ -1,5 +1,4 @@
-Scyphidia dixoecola Dumas, 1930 SPECIES
-=======
+# Scyphidia dixoecola Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera phytoptophila (Kellerm. & Swingle) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera phytoptophila (Kellerm. & Swingle) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

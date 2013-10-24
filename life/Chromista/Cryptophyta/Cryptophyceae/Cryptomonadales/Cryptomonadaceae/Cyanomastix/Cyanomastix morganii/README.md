@@ -1,5 +1,4 @@
-Cyanomastix morganii Lackey SPECIES
-=======
+# Cyanomastix morganii Lackey SPECIES
 
 #### Status
 ACCEPTED

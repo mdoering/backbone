@@ -1,5 +1,4 @@
-Didymella fruticosae Höhn. SPECIES
-=======
+# Didymella fruticosae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya hoferi Harz SPECIES
-=======
+# Achlya hoferi Harz SPECIES
 
 #### Status
 ACCEPTED

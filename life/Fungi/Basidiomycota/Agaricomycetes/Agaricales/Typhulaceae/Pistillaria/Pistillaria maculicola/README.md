@@ -1,5 +1,4 @@
-Pistillaria maculicola Fuckel SPECIES
-=======
+# Pistillaria maculicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

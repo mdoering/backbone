@@ -1,5 +1,4 @@
-Leptostroma plantaginis Szembel SPECIES
-=======
+# Leptostroma plantaginis Szembel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tryblidium abietinum Wallr. SPECIES
-=======
+# Triblidium abietinum Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium abietinum Wallr.
+Triblidium abietinum Wallr.
 
 ### Remarks
 null

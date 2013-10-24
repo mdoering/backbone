@@ -1,5 +1,4 @@
-Valsa sepulta Nitschke SPECIES
-=======
+# Valsa sepulta Nitschke SPECIES
 
 #### Status
 ACCEPTED

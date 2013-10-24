@@ -1,5 +1,4 @@
-Galerina castanescens A.H. Sm. & Singer SPECIES
-=======
+# Galerina castanescens A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

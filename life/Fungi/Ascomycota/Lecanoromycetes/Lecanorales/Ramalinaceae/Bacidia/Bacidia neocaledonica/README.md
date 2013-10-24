@@ -1,5 +1,4 @@
-Bacidia neocaledonica Räsänen SPECIES
-=======
+# Bacidia neocaledonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

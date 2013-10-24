@@ -1,5 +1,4 @@
-Cortinarius resectipes Rob. Henry SPECIES
-=======
+# Cortinarius resectipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

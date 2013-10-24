@@ -1,5 +1,4 @@
-Monallantus pyreniger Pascher SPECIES
-=======
+# Monallantus pyreniger Pascher SPECIES
 
 #### Status
 ACCEPTED

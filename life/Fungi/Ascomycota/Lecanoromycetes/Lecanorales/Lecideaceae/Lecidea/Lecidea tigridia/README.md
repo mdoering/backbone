@@ -1,5 +1,4 @@
-Lecidea tigridia Fée SPECIES
-=======
+# Lecidea tigridia Fée SPECIES
 
 #### Status
 ACCEPTED

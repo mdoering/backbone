@@ -1,5 +1,4 @@
-Tiarina antarctica Hada, 1970 SPECIES
-=======
+# Tiarina antarctica Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

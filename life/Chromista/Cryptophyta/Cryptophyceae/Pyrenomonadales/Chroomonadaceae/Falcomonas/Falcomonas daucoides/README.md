@@ -1,8 +1,7 @@
-Hillea daucoides (Conrad & Kufferath) Butcher SPECIES
-=======
+# Falcomonas daucoides (W. Conrad & H. Kufferath) D. R. A. Hill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

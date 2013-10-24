@@ -1,5 +1,4 @@
-Ascochyta pergulariae Pandotra & K.S.M. Sastry SPECIES
-=======
+# Ascochyta pergulariae Pandotra & K.S.M. Sastry SPECIES
 
 #### Status
 ACCEPTED

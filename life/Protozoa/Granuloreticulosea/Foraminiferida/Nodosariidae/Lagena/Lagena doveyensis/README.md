@@ -1,5 +1,4 @@
-Lagena doveyensis Haynes, 1973 SPECIES
-=======
+# Lagena doveyensis Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

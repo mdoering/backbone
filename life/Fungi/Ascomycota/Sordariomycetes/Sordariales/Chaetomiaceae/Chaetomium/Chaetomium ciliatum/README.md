@@ -1,5 +1,4 @@
-Chaetomium ciliatum Bonord. SPECIES
-=======
+# Chaetomium ciliatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

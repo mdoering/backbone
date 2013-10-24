@@ -1,5 +1,4 @@
-Amaurohydnum flavidum Jülich, 1978 SPECIES
-=======
+# Amaurohydnum flavidum Jülich, 1978 SPECIES
 
 #### Status
 ACCEPTED

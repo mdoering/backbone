@@ -1,5 +1,4 @@
-Uredo uberabensis Henn. SPECIES
-=======
+# Uredo uberabensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia corymbosula Nyl. SPECIES
-=======
+# Cladonia corymbosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

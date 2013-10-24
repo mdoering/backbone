@@ -1,5 +1,4 @@
-Cetrelia orientalis Randlane & Saag SPECIES
-=======
+# Cetrelia orientalis Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

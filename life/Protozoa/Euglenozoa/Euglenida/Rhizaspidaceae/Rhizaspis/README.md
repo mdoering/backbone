@@ -1,5 +1,4 @@
-Rhizaspis Skuja, 1948 GENUS
-=======
+# Rhizaspis Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

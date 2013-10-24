@@ -1,5 +1,4 @@
-Chlorospleniella P. Karst. GENUS
-=======
+# Chlorospleniella P. Karst. GENUS
 
 #### Status
 ACCEPTED

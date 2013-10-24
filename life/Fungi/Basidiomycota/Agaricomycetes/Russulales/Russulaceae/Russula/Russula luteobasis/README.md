@@ -1,5 +1,4 @@
-Russula luteobasis Peck SPECIES
-=======
+# Russula luteobasis Peck SPECIES
 
 #### Status
 ACCEPTED

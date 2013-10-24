@@ -1,5 +1,4 @@
-Cercospora atylosiicola Bagyan., Jagad. & U. Braun SPECIES
-=======
+# Cercospora atylosiicola Bagyan., Jagad. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

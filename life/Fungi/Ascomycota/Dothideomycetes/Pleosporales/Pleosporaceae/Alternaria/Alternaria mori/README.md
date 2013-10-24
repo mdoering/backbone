@@ -1,5 +1,4 @@
-Alternaria mori Pandotra SPECIES
-=======
+# Alternaria mori Pandotra SPECIES
 
 #### Status
 ACCEPTED

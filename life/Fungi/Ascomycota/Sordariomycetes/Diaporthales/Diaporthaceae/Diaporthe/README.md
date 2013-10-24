@@ -1,17 +1,16 @@
-Melanoporthe Wehm. GENUS
-=======
+# Diaporthe Nitschke GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. La Plata, Secc. Bot. 2: 84 (1938)
+Pyrenomycetes Germanici 2: 240 (1870)
 
 #### Original name
-Melanoporthe Wehm.
+Diaporthe Nitschke
 
 ### Remarks
 null

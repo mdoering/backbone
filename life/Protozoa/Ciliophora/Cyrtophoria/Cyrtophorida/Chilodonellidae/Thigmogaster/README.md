@@ -1,5 +1,4 @@
-Thigmogaster Deroux, 1976 GENUS
-=======
+# Thigmogaster Deroux, 1976 GENUS
 
 #### Status
 ACCEPTED

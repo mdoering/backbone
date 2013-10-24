@@ -1,5 +1,4 @@
-Hydnum multifidum (Klotzsch) Henn. SPECIES
-=======
+# Hydnum multifidum (Klotzsch) Henn. SPECIES
 
 #### Status
 ACCEPTED

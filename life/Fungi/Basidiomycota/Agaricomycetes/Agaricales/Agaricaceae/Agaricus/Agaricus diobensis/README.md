@@ -1,5 +1,4 @@
-Agaricus diobensis Beeli SPECIES
-=======
+# Agaricus diobensis Beeli SPECIES
 
 #### Status
 ACCEPTED

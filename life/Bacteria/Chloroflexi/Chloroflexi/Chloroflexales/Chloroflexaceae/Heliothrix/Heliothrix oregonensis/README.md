@@ -1,5 +1,4 @@
-Heliothrix oregonensis Pierson et al., 1986 SPECIES
-=======
+# Heliothrix oregonensis Pierson et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

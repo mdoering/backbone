@@ -1,5 +1,4 @@
-Melampsora symphyti (Bubák) SPECIES
-=======
+# Melampsora symphyti (Bubák) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma eupatorii Cif. SPECIES
-=======
+# Entyloma eupatorii Cif. SPECIES
 
 #### Status
 ACCEPTED

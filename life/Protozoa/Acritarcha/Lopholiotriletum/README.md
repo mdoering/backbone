@@ -1,5 +1,4 @@
-Lopholiotriletum Timofeev, 1959 GENUS
-=======
+# Lopholiotriletum Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

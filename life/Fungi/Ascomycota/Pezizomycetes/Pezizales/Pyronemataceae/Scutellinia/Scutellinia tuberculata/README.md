@@ -1,5 +1,4 @@
-Scutellinia tuberculata Matocec SPECIES
-=======
+# Scutellinia tuberculata Matocec SPECIES
 
 #### Status
 ACCEPTED

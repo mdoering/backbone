@@ -1,14 +1,13 @@
-Lecidea subfuscata Nyl. SPECIES
-=======
+# Catillaria subfuscata (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 73 (1926)
 
 #### Original name
 Lecidea subfuscata Nyl.

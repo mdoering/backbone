@@ -1,5 +1,4 @@
-Haploravenelia papillifera (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Haploravenelia papillifera (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

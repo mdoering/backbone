@@ -1,5 +1,4 @@
-Titaea submutica Sacc. SPECIES
-=======
+# Titaea submutica Sacc. SPECIES
 
 #### Status
 ACCEPTED

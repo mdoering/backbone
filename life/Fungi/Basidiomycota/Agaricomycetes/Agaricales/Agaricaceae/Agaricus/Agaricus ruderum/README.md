@@ -1,5 +1,4 @@
-Agaricus ruderum Bertero & Mont. SPECIES
-=======
+# Agaricus ruderum Bertero & Mont. SPECIES
 
 #### Status
 ACCEPTED

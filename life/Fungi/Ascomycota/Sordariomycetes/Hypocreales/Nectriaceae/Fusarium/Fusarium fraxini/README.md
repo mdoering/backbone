@@ -1,5 +1,4 @@
-Fusarium fraxini Kabát & Bubák SPECIES
-=======
+# Fusarium fraxini Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

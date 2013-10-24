@@ -1,5 +1,4 @@
-Pleospora wehmeyeri N.D. Sharma & R.P. Mishra SPECIES
-=======
+# Pleospora wehmeyeri N.D. Sharma & R.P. Mishra SPECIES
 
 #### Status
 ACCEPTED

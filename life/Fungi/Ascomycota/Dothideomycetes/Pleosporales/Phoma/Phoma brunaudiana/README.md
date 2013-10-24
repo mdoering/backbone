@@ -1,5 +1,4 @@
-Phoma brunaudiana Thüm. SPECIES
-=======
+# Phoma brunaudiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

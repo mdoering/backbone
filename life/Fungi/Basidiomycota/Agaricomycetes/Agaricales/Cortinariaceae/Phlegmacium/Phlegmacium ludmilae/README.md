@@ -1,5 +1,4 @@
-Phlegmacium ludmilae Hlavácek SPECIES
-=======
+# Phlegmacium ludmilae Hlavácek SPECIES
 
 #### Status
 ACCEPTED

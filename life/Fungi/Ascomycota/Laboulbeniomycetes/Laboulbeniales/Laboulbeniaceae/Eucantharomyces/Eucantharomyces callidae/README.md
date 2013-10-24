@@ -1,5 +1,4 @@
-Eucantharomyces callidae Thaxt. SPECIES
-=======
+# Eucantharomyces callidae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

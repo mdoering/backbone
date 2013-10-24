@@ -1,5 +1,4 @@
-Macroplodia cydoniaecola (Pass.) Kuntze SPECIES
-=======
+# Macroplodia cydoniaecola (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

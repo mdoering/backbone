@@ -1,5 +1,4 @@
-Rinodina superposita H. Magn. SPECIES
-=======
+# Rinodina superposita H. Magn. SPECIES
 
 #### Status
 ACCEPTED

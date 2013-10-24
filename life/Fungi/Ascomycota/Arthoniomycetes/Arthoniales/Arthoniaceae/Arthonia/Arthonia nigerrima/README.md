@@ -1,5 +1,4 @@
-Arthonia nigerrima Bachm. SPECIES
-=======
+# Arthonia nigerrima Bachm. SPECIES
 
 #### Status
 ACCEPTED

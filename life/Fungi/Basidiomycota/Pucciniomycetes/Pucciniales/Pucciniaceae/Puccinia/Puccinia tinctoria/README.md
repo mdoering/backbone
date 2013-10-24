@@ -1,5 +1,4 @@
-Puccinia tinctoria Speg. SPECIES
-=======
+# Puccinia tinctoria Speg. SPECIES
 
 #### Status
 ACCEPTED

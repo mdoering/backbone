@@ -1,5 +1,4 @@
-Lecania amplificans (Nyl.) Müll. Arg. SPECIES
-=======
+# Lecania amplificans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

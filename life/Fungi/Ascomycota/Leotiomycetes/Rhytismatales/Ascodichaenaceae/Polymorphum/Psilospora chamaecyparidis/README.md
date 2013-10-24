@@ -1,5 +1,4 @@
-Psilospora chamaecyparidis Sawada SPECIES
-=======
+# Psilospora chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

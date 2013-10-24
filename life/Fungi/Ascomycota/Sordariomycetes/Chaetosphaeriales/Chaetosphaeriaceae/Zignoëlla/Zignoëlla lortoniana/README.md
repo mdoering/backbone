@@ -1,5 +1,4 @@
-Zignoëlla lortoniana Sacc. SPECIES
-=======
+# Zignoëlla lortoniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

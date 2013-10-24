@@ -1,5 +1,4 @@
-Chitonia coprinus Fr. SPECIES
-=======
+# Chitonia coprinus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora puberula var. puberula VARIETY
-=======
+# Peniophora puberula (Klotzsch ex Bres.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 20(no. 95): 191 (1892)
 
 #### Original name
-Peniophora puberula var. puberula
+Stereum puberulum Klotzsch ex Bres.
 
 ### Remarks
 null

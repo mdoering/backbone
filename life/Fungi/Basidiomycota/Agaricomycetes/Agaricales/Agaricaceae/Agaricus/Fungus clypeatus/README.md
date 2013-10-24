@@ -1,5 +1,4 @@
-Fungus clypeatus Vaill. SPECIES
-=======
+# Fungus clypeatus Vaill. SPECIES
 
 #### Status
 ACCEPTED

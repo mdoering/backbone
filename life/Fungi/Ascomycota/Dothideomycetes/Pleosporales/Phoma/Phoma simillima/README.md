@@ -1,5 +1,4 @@
-Phoma simillima Peck SPECIES
-=======
+# Phoma simillima Peck SPECIES
 
 #### Status
 ACCEPTED

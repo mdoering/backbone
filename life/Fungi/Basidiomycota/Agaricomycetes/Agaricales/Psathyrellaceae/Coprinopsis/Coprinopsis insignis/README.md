@@ -1,5 +1,4 @@
-Coprinopsis insignis (Peck) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis insignis (Peck) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

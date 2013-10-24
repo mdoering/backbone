@@ -1,8 +1,7 @@
-Tilletia velenovskii Bubák SPECIES
-=======
+# Tilletia velenovskyi Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tilletia velenovskii Bubák
+Tilletia velenovskyi Bubák
 
 ### Remarks
 null

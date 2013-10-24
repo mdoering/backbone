@@ -1,5 +1,4 @@
-Micropeltis clavatispora var. clavatispora VARIETY
-=======
+# Micropeltis clavatispora Bat. & W.A. Campb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Batista & Peres, Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 386: 23 (1963)
 
 #### Original name
-Micropeltis clavatispora var. clavatispora
+Micropeltis clavatispora Bat. & W.A. Campb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Multicellites clarkei (S.K. Srivast.) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites clarkei (S.K. Srivast.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia olbiensis Tul. SPECIES
-=======
+# Terfezia olbiensis Tul. SPECIES
 
 #### Status
 ACCEPTED

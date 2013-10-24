@@ -1,5 +1,4 @@
-Gyalolechia athroocarpa Anzi SPECIES
-=======
+# Gyalolechia athroocarpa Anzi SPECIES
 
 #### Status
 ACCEPTED

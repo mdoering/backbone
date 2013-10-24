@@ -1,5 +1,4 @@
-Parmelia araucana Adler & Calvelo SPECIES
-=======
+# Parmelia araucana Adler & Calvelo SPECIES
 
 #### Status
 ACCEPTED

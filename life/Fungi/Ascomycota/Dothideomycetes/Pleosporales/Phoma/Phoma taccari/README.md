@@ -1,5 +1,4 @@
-Phoma taccari Speg. SPECIES
-=======
+# Phoma taccari Speg. SPECIES
 
 #### Status
 ACCEPTED

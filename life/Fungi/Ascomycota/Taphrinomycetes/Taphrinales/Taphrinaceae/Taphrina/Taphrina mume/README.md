@@ -1,5 +1,4 @@
-Taphrina mume Nishida SPECIES
-=======
+# Taphrina mume Nishida SPECIES
 
 #### Status
 ACCEPTED

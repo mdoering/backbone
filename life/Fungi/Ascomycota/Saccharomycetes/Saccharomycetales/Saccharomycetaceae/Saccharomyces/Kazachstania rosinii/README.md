@@ -1,5 +1,4 @@
-Kazachstania rosinii (Vaughan-Mart., Barcaccia & Pollacci) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania rosinii (Vaughan-Mart., Barcaccia & Pollacci) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

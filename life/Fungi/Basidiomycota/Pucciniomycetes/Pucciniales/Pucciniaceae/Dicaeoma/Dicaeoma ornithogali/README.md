@@ -1,5 +1,4 @@
-Dicaeoma ornithogali (Hazsl.) Kuntze SPECIES
-=======
+# Dicaeoma ornithogali (Hazsl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

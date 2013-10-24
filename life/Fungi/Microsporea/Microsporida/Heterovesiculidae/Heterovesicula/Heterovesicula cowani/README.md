@@ -1,5 +1,4 @@
-Heterovesicula cowani C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett SPECIES
-=======
+# Heterovesicula cowani C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haglundia penyardensis Graddon SPECIES
-=======
+# Haglundia penyardensis Graddon SPECIES
 
 #### Status
 ACCEPTED

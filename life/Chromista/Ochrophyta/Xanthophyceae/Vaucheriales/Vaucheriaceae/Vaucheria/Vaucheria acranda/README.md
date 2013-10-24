@@ -1,5 +1,4 @@
-Vaucheria acranda SPECIES
-=======
+# Vaucheria acranda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia melothricola Syd. & P. Syd. SPECIES
-=======
+# Puccinia melothricola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

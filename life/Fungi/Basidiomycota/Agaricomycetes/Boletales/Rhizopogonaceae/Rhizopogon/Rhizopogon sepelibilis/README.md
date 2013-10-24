@@ -1,5 +1,4 @@
-Rhizopogon sepelibilis A.H. Sm. SPECIES
-=======
+# Rhizopogon sepelibilis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

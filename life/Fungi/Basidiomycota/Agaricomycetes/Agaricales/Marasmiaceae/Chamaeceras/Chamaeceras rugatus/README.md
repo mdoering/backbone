@@ -1,5 +1,4 @@
-Chamaeceras rugatus (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras rugatus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

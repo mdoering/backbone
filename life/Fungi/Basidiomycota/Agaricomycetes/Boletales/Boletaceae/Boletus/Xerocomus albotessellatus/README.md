@@ -1,5 +1,4 @@
-Xerocomus albotessellatus Heinem. SPECIES
-=======
+# Xerocomus albotessellatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

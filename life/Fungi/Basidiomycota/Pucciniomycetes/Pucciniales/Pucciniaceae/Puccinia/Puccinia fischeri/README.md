@@ -1,5 +1,4 @@
-Puccinia fischeri Cruchet & Mayor SPECIES
-=======
+# Puccinia fischeri Cruchet & Mayor SPECIES
 
 #### Status
 ACCEPTED

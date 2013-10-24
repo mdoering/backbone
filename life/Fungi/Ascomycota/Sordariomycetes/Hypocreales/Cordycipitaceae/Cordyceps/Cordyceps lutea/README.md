@@ -1,5 +1,4 @@
-Cordyceps lutea Moureau SPECIES
-=======
+# Cordyceps lutea Moureau SPECIES
 
 #### Status
 ACCEPTED

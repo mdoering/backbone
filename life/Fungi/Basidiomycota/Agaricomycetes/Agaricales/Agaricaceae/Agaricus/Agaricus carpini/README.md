@@ -1,5 +1,4 @@
-Agaricus carpini Fr. SPECIES
-=======
+# Agaricus carpini Fr. SPECIES
 
 #### Status
 ACCEPTED

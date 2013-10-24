@@ -1,5 +1,4 @@
-Periconia hyderabadensis P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia hyderabadensis P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

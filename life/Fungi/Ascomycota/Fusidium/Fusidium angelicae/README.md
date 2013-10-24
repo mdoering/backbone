@@ -1,5 +1,4 @@
-Fusidium angelicae P. Crouan & H. Crouan SPECIES
-=======
+# Fusidium angelicae P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

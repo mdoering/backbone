@@ -1,5 +1,4 @@
-Stephanosporium Dal Vesco, 1961 GENUS
-=======
+# Stephanosporium Dal Vesco, 1961 GENUS
 
 #### Status
 ACCEPTED

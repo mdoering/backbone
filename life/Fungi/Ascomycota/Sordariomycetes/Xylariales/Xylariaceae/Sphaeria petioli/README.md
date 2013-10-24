@@ -1,5 +1,4 @@
-Sphaeria petioli Fuckel SPECIES
-=======
+# Sphaeria petioli Fuckel SPECIES
 
 #### Status
 ACCEPTED

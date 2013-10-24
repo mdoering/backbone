@@ -1,17 +1,16 @@
-Parmelia schenckiana f. schenckiana Müll. Arg. FORM
-=======
+# Xanthoparmelia schenckiana (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 489 (1974)
 
 #### Original name
-Parmelia schenckiana f. schenckiana Müll. Arg.
+Parmelia schenckiana Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladosporium clemensiae P.W. Graff SPECIES
-=======
+# Cladosporium clemensiae P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

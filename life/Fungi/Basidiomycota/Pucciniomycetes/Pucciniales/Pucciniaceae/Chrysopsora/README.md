@@ -1,5 +1,4 @@
-Chrysopsora Lagerheim, 1892 GENUS
-=======
+# Chrysopsora Lagerheim, 1892 GENUS
 
 #### Status
 ACCEPTED

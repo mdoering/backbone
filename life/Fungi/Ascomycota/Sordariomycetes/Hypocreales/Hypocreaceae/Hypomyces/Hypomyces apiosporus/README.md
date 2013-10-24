@@ -1,5 +1,4 @@
-Hypomyces apiosporus Cooke SPECIES
-=======
+# Hypomyces apiosporus Cooke SPECIES
 
 #### Status
 ACCEPTED

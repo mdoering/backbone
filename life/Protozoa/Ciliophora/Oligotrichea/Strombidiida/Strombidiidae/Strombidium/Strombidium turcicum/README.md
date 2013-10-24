@@ -1,5 +1,4 @@
-Strombidium turcicum Hovasse, 1932 SPECIES
-=======
+# Strombidium turcicum Hovasse, 1932 SPECIES
 
 #### Status
 ACCEPTED

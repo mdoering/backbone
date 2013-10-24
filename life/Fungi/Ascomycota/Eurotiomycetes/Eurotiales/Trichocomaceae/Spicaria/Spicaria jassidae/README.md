@@ -1,5 +1,4 @@
-Spicaria jassidae ined. SPECIES
-=======
+# Spicaria jassidae ined. SPECIES
 
 #### Status
 ACCEPTED

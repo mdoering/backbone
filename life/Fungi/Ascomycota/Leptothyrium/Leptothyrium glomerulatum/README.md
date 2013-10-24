@@ -1,5 +1,4 @@
-Leptothyrium glomerulatum Speg. SPECIES
-=======
+# Leptothyrium glomerulatum Speg. SPECIES
 
 #### Status
 ACCEPTED

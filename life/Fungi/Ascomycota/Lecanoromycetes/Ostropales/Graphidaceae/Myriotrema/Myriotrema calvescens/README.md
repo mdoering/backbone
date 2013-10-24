@@ -1,5 +1,4 @@
-Myriotrema calvescens (Fée) Hale SPECIES
-=======
+# Myriotrema calvescens (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

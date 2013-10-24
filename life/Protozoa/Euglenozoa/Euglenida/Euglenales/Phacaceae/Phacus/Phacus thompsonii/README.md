@@ -1,8 +1,7 @@
-Phacus inflata Thompson SPECIES
-=======
+# Phacus thompsonii Huber-Pestalozzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

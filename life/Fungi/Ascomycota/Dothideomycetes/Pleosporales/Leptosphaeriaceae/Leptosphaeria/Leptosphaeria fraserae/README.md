@@ -1,5 +1,4 @@
-Leptosphaeria fraserae Ellis & Everh. SPECIES
-=======
+# Leptosphaeria fraserae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

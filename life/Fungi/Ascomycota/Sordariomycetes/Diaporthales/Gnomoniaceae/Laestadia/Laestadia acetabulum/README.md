@@ -1,5 +1,4 @@
-Laestadia acetabulum (Berk.) Sacc. SPECIES
-=======
+# Laestadia acetabulum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

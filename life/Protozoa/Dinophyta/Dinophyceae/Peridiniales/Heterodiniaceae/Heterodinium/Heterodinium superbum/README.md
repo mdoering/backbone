@@ -1,5 +1,4 @@
-Heterodinium superbum Kofoid, 1907 SPECIES
-=======
+# Heterodinium superbum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

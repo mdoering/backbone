@@ -1,5 +1,4 @@
-Tricholoma civile (Fr.) Sacc. SPECIES
-=======
+# Tricholoma civile (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

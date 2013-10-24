@@ -1,5 +1,4 @@
-Fusicladium betulae Aderh. SPECIES
-=======
+# Fusicladium betulae Aderh. SPECIES
 
 #### Status
 ACCEPTED

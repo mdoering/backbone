@@ -1,5 +1,4 @@
-Actinobolus wenrichii SPECIES
-=======
+# Actinobolus wenrichii SPECIES
 
 #### Status
 ACCEPTED

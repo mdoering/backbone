@@ -1,5 +1,4 @@
-Buellia testacea Müll. Arg. SPECIES
-=======
+# Buellia testacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

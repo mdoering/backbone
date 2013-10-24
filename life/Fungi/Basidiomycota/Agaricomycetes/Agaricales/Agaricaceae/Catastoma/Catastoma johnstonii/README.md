@@ -1,5 +1,4 @@
-Catastoma johnstonii Lloyd SPECIES
-=======
+# Catastoma johnstonii Lloyd SPECIES
 
 #### Status
 ACCEPTED

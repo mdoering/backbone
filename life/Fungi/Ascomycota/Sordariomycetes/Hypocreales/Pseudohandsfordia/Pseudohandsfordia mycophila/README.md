@@ -1,5 +1,4 @@
-Pseudohandsfordia mycophila (Tubaki) de Hoog SPECIES
-=======
+# Pseudohandsfordia mycophila (Tubaki) de Hoog SPECIES
 
 #### Status
 ACCEPTED

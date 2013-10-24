@@ -1,5 +1,4 @@
-Chryseomonas polytricha Holmes et al., 1986 SPECIES
-=======
+# Chryseomonas polytricha Holmes et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyria nigella Emoto, 1928 SPECIES
-=======
+# Arcyria nigella Emoto, 1928 SPECIES
 
 #### Status
 ACCEPTED

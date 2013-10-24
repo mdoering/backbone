@@ -1,5 +1,4 @@
-Appendiculella chiriquiensis D. Rodríguez Justavino & M. Piepenbr. SPECIES
-=======
+# Appendiculella chiriquiensis D. Rodríguez Justavino & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

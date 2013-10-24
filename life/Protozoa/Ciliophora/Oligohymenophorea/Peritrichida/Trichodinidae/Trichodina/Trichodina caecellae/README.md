@@ -1,5 +1,4 @@
-Trichodina caecellae Xu & Song, 2088 SPECIES
-=======
+# Trichodina caecellae Xu & Song, 2088 SPECIES
 
 #### Status
 ACCEPTED

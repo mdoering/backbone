@@ -1,5 +1,4 @@
-Tetrachytrium triceps Sorokin, 1874 SPECIES
-=======
+# Tetrachytrium triceps Sorokin, 1874 SPECIES
 
 #### Status
 ACCEPTED

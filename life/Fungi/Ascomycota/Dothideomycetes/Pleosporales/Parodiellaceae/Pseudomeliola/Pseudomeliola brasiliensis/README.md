@@ -1,5 +1,4 @@
-Pseudomeliola brasiliensis Speg., 1889 SPECIES
-=======
+# Pseudomeliola brasiliensis Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

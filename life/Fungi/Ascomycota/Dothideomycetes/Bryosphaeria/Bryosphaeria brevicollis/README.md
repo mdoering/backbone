@@ -1,5 +1,4 @@
-Bryosphaeria brevicollis Döbbeler, 1978 SPECIES
-=======
+# Bryosphaeria brevicollis Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

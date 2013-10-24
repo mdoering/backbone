@@ -1,5 +1,4 @@
-Murandavia A.G. Vologdin, 1965 GENUS
-=======
+# Murandavia A.G. Vologdin, 1965 GENUS
 
 #### Status
 ACCEPTED

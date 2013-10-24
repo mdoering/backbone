@@ -1,17 +1,16 @@
-Schismatomma dirineum var. australica Räsänen VARIETY
-=======
+# Syncesia albiseda (Nyl.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 74: 37 (1997)
 
 #### Original name
-null
+Platygrapha albiseda Nyl.
 
 ### Remarks
 null

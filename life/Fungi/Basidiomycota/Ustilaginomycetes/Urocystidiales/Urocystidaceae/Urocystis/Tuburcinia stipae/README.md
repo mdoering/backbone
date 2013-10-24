@@ -1,5 +1,4 @@
-Tuburcinia stipae (McAlpine) Liro SPECIES
-=======
+# Tuburcinia stipae (McAlpine) Liro SPECIES
 
 #### Status
 ACCEPTED

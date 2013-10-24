@@ -1,5 +1,4 @@
-Gasparrinia sympagea (Ach.) Zopf SPECIES
-=======
+# Gasparrinia sympagea (Ach.) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piptocephalis pseudocephala P.M. Kirk, 1978 SPECIES
-=======
+# Piptocephalis pseudocephala P.M. Kirk, 1978 SPECIES
 
 #### Status
 ACCEPTED

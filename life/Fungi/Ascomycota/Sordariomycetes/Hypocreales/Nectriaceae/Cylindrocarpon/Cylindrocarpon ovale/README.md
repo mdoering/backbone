@@ -1,5 +1,4 @@
-Cylindrocarpon ovale Matsush. SPECIES
-=======
+# Cylindrocarpon ovale Matsush. SPECIES
 
 #### Status
 ACCEPTED

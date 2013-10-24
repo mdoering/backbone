@@ -1,5 +1,4 @@
-Rickia argentinensis Speg. SPECIES
-=======
+# Rickia argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

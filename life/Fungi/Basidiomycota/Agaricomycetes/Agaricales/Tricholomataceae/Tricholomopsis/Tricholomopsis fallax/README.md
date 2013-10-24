@@ -1,5 +1,4 @@
-Tricholomopsis fallax A.H. Sm. SPECIES
-=======
+# Tricholomopsis fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia lutea Ach. SPECIES
-=======
+# Parmelia lutea Ach. SPECIES
 
 #### Status
 ACCEPTED

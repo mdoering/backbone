@@ -1,5 +1,4 @@
-Rhaphidophora montellica Sacc. SPECIES
-=======
+# Rhaphidophora montellica Sacc. SPECIES
 
 #### Status
 ACCEPTED

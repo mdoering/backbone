@@ -1,5 +1,4 @@
-Cercospora cheonis Chupp & Linder SPECIES
-=======
+# Cercospora cheonis Chupp & Linder SPECIES
 
 #### Status
 ACCEPTED

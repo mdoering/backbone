@@ -1,17 +1,16 @@
-Mycena plicosa var. marginata J.E. Lange, 1914 VARIETY
-=======
+# Mycena capillaripes Peck, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 1(no. 5): 18 (1914)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 41: 63 (1888)
 
 #### Original name
-Mycena plicosa var. marginata J.E. Lange, 1914
+Mycena capillaripes Peck, 1888
 
 ### Remarks
 null

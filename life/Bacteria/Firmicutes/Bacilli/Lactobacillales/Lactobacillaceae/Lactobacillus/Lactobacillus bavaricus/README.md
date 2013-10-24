@@ -1,5 +1,4 @@
-Lactobacillus bavaricus Stetter & Stetter, 1980 SPECIES
-=======
+# Lactobacillus bavaricus Stetter & Stetter, 1980 SPECIES
 
 #### Status
 ACCEPTED

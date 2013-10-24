@@ -1,5 +1,4 @@
-Microdiplodia solitaria Bubák SPECIES
-=======
+# Microdiplodia solitaria Bubák SPECIES
 
 #### Status
 ACCEPTED

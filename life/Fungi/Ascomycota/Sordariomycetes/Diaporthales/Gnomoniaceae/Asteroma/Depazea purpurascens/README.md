@@ -1,17 +1,16 @@
-Depazea purpurascens var. purpurascens VARIETY
-=======
+# Depazea purpurascens J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fl. Crypt. Louvain 124 (1835)
 
 #### Original name
-null
+Depazea purpurascens J. Kickx f.
 
 ### Remarks
 null

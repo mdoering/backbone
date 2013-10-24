@@ -1,5 +1,4 @@
-Stenopyxinium G. Deflandre, 1968 GENUS
-=======
+# Stenopyxinium G. Deflandre, 1968 GENUS
 
 #### Status
 ACCEPTED

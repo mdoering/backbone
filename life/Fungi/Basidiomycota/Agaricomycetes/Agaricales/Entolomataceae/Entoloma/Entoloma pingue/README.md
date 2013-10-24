@@ -1,5 +1,4 @@
-Entoloma pingue Corner & E. Horak SPECIES
-=======
+# Entoloma pingue Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

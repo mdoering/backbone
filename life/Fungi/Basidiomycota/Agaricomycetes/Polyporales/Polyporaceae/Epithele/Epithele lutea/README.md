@@ -1,5 +1,4 @@
-Epithele lutea H.C. Wang & Sheng H. Wu, 2010 SPECIES
-=======
+# Epithele lutea H.C. Wang & Sheng H. Wu, 2010 SPECIES
 
 #### Status
 ACCEPTED

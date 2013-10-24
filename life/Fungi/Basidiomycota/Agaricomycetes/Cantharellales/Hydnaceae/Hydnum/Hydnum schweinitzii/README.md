@@ -1,5 +1,4 @@
-Hydnum schweinitzii Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum schweinitzii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

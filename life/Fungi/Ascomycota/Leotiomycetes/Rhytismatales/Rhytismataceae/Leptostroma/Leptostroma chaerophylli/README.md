@@ -1,5 +1,4 @@
-Leptostroma chaerophylli Brunaud SPECIES
-=======
+# Leptostroma chaerophylli Brunaud SPECIES
 
 #### Status
 ACCEPTED

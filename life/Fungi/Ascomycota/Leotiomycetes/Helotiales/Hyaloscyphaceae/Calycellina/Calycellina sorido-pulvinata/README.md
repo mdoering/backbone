@@ -1,5 +1,4 @@
-Calycellina sorido-pulvinata Svrcek SPECIES
-=======
+# Calycellina sorido-pulvinata Svrcek SPECIES
 
 #### Status
 ACCEPTED

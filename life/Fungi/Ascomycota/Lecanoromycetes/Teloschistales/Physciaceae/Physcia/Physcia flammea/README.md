@@ -1,5 +1,4 @@
-Physcia flammea (L. f.) Nyl. SPECIES
-=======
+# Physcia flammea (L. f.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

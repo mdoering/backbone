@@ -1,5 +1,4 @@
-Meliola cordiicola Hansf. SPECIES
-=======
+# Meliola cordiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta endochrysoides (Müll. Arg.) Hue SPECIES
-=======
+# Sticta endochrysoides (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

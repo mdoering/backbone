@@ -1,17 +1,16 @@
-Omphalia ealeansis Beeli SPECIES
-=======
+# Omphalia ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 84 (1928)
 
 #### Original name
-Omphalia ealeansis Beeli
+Omphalia ealaensis Beeli
 
 ### Remarks
 null

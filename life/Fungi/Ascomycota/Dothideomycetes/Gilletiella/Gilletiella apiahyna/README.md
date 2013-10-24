@@ -1,5 +1,4 @@
-Gilletiella apiahyna Speg. SPECIES
-=======
+# Gilletiella apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

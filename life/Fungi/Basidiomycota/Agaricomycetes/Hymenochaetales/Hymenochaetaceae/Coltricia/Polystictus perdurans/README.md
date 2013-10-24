@@ -1,5 +1,4 @@
-Polystictus perdurans (Kalchbr. & Cooke) Bres. SPECIES
-=======
+# Polystictus perdurans (Kalchbr. & Cooke) Bres. SPECIES
 
 #### Status
 ACCEPTED

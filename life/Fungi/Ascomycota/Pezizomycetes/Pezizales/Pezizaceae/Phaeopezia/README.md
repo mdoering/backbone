@@ -1,5 +1,4 @@
-Phaeopezia GENUS
-=======
+# Phaeopezia GENUS
 
 #### Status
 ACCEPTED

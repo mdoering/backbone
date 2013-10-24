@@ -1,5 +1,4 @@
-Neosartorya takakii Y. Horie, Abliz & K. Fukush. SPECIES
-=======
+# Neosartorya takakii Y. Horie, Abliz & K. Fukush. SPECIES
 
 #### Status
 ACCEPTED

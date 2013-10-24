@@ -1,5 +1,4 @@
-Verrucaria incrassata Breuss SPECIES
-=======
+# Verrucaria incrassata Breuss SPECIES
 
 #### Status
 ACCEPTED

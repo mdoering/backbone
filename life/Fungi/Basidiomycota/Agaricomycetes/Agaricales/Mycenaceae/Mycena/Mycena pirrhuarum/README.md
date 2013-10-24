@@ -1,5 +1,4 @@
-Mycena pirrhuarum Speg. SPECIES
-=======
+# Mycena pirrhuarum Speg. SPECIES
 
 #### Status
 ACCEPTED

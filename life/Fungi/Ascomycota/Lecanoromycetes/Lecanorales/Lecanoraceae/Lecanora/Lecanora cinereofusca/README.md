@@ -1,17 +1,16 @@
-Lecanora cinereofusca var. cinereofusca VARIETY
-=======
+# Lecanora cinereofusca H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Göteb. Bot. Trädgord 7: 86 (1932)
 
 #### Original name
-Lecanora cinereofusca var. cinereofusca
+Lecanora cinereofusca H. Magn.
 
 ### Remarks
 null

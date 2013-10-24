@@ -1,5 +1,4 @@
-Synedra demerarae Grunow SPECIES
-=======
+# Synedra demerarae Grunow SPECIES
 
 #### Status
 ACCEPTED

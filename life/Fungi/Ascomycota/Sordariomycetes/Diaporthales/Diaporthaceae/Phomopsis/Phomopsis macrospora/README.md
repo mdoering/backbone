@@ -1,5 +1,4 @@
-Phomopsis macrospora Kobay. {?} & Chiba SPECIES
-=======
+# Phomopsis macrospora Kobay. {?} & Chiba SPECIES
 
 #### Status
 ACCEPTED

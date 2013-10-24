@@ -1,17 +1,16 @@
-Masoniella grisea (G. Sm.) G. Sm., 1952 SPECIES
-=======
+# Scopulariopsis brumptii Salv.-Duval, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 35(2): 237 (1952)
+Thèse Fac. Pharm. Paris 23: 58 (1935)
 
 #### Original name
-Masonia grisea G. Sm., 1952
+Scopulariopsis brumptii Salv.-Duval, 1935
 
 ### Remarks
 null

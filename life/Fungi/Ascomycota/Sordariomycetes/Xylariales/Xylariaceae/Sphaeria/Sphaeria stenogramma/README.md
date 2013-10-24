@@ -1,5 +1,4 @@
-Sphaeria stenogramma Durieu & Mont. SPECIES
-=======
+# Sphaeria stenogramma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

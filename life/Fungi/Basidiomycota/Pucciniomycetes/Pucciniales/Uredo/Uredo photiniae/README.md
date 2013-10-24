@@ -1,5 +1,4 @@
-Uredo photiniae J.M. Yen SPECIES
-=======
+# Uredo photiniae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

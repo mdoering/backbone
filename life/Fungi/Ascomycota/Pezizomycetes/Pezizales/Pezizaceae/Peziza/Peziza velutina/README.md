@@ -1,5 +1,4 @@
-Peziza velutina Desm. SPECIES
-=======
+# Peziza velutina Desm. SPECIES
 
 #### Status
 ACCEPTED

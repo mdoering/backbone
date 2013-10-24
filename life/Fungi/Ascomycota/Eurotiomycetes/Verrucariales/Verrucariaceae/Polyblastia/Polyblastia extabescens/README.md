@@ -1,5 +1,4 @@
-Polyblastia extabescens (Nyl.) Flagey SPECIES
-=======
+# Polyblastia extabescens (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

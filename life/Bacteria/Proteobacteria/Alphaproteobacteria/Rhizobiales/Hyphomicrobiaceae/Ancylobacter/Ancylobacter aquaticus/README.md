@@ -1,5 +1,4 @@
-Ancylobacter aquaticus (Ørskov, 1928) Raj, 1983 SPECIES
-=======
+# Ancylobacter aquaticus (Ørskov, 1928) Raj, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscypha fagicola (W. Phillips) Le Gal SPECIES
-=======
+# Dasyscyphus fagicola (W. Phillips) Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 4: 36 (1939)
 
 #### Original name
 Stictis fagicola W. Phillips

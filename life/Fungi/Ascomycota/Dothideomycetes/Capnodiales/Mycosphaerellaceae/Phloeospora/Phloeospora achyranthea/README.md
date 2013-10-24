@@ -1,5 +1,4 @@
-Phloeospora achyranthea Sacc. & Berl. SPECIES
-=======
+# Phloeospora achyranthea Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnopeziza leonina (Schwein.) Dennis SPECIES
-=======
+# Arachnopeziza leonina (Schwein.) Dennis SPECIES
 
 #### Status
 ACCEPTED

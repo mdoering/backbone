@@ -1,5 +1,4 @@
-Ramalina follmannii C.W. Dodge SPECIES
-=======
+# Ramalina follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

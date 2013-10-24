@@ -1,5 +1,4 @@
-Puccinia immensispora F. Kern & Thurst. SPECIES
-=======
+# Puccinia immensispora F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

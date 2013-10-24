@@ -1,5 +1,4 @@
-Lepiota azurea Singer SPECIES
-=======
+# Lepiota azurea Singer SPECIES
 
 #### Status
 ACCEPTED

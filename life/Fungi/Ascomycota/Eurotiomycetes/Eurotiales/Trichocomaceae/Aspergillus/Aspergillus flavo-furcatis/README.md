@@ -1,5 +1,4 @@
-Aspergillus flavo-furcatis Batista & Maia SPECIES
-=======
+# Aspergillus flavo-furcatis Batista & Maia SPECIES
 
 #### Status
 ACCEPTED

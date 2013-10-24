@@ -1,5 +1,4 @@
-Lactarius adustus Rick SPECIES
-=======
+# Lactarius adustus Rick SPECIES
 
 #### Status
 ACCEPTED

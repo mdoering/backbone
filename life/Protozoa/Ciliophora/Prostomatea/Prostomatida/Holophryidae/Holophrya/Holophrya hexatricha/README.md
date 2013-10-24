@@ -1,5 +1,4 @@
-Holophrya hexatricha Savi, 1913 SPECIES
-=======
+# Holophrya hexatricha Savi, 1913 SPECIES
 
 #### Status
 ACCEPTED

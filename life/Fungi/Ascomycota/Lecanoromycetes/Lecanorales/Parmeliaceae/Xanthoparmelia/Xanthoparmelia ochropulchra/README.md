@@ -1,5 +1,4 @@
-Xanthoparmelia ochropulchra Hale SPECIES
-=======
+# Xanthoparmelia ochropulchra Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnocarpon nodulosum Syd. & P. Syd. SPECIES
-=======
+# Pycnocarpon nodulosum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

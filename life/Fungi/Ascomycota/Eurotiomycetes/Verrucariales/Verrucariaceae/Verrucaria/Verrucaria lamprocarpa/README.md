@@ -1,5 +1,4 @@
-Verrucaria lamprocarpa Stirt. SPECIES
-=======
+# Verrucaria lamprocarpa Stirt. SPECIES
 
 #### Status
 ACCEPTED

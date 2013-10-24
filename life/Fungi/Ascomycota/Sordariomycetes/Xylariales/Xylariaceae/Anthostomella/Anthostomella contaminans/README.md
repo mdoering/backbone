@@ -1,5 +1,4 @@
-Anthostomella contaminans (Durieu & Mont.) Sacc. SPECIES
-=======
+# Anthostomella contaminans (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

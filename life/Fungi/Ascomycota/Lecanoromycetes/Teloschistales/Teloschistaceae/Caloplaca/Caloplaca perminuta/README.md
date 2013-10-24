@@ -1,5 +1,4 @@
-Caloplaca perminuta H. Magn. SPECIES
-=======
+# Caloplaca perminuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

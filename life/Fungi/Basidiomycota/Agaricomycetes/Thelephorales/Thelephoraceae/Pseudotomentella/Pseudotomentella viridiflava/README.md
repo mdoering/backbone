@@ -1,5 +1,4 @@
-Pseudotomentella viridiflava (Bourdot & Galzin) Svrcek SPECIES
-=======
+# Pseudotomentella viridiflava (Bourdot & Galzin) Svrcek SPECIES
 
 #### Status
 ACCEPTED

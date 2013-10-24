@@ -1,5 +1,4 @@
-Cenangium strasseri Rehm SPECIES
-=======
+# Cenangium strasseri Rehm SPECIES
 
 #### Status
 ACCEPTED

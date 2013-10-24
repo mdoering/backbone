@@ -1,5 +1,4 @@
-Lepiota adorea (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota adorea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

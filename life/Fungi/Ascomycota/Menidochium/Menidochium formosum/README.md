@@ -1,5 +1,4 @@
-Menidochium formosum R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Menidochium formosum R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

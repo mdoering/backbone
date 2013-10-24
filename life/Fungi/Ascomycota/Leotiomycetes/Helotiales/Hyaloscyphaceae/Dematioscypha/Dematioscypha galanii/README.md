@@ -1,5 +1,4 @@
-Dematioscypha galanii Raitv. SPECIES
-=======
+# Dematioscypha galanii Raitv. SPECIES
 
 #### Status
 ACCEPTED

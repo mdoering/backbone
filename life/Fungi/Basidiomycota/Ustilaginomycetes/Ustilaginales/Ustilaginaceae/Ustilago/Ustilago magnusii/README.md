@@ -1,5 +1,4 @@
-Ustilago magnusii G. Winter SPECIES
-=======
+# Ustilago magnusii G. Winter SPECIES
 
 #### Status
 ACCEPTED

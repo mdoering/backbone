@@ -1,5 +1,4 @@
-Trichocovina Maass & Radek, 2006 GENUS
-=======
+# Trichocovina Maass & Radek, 2006 GENUS
 
 #### Status
 ACCEPTED

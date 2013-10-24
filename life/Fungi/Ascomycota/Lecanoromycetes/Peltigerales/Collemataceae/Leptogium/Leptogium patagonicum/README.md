@@ -1,5 +1,4 @@
-Leptogium patagonicum Zahlbr. SPECIES
-=======
+# Leptogium patagonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

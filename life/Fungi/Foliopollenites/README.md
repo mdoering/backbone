@@ -1,5 +1,4 @@
-Foliopollenites Sierotin GENUS
-=======
+# Foliopollenites Sierotin GENUS
 
 #### Status
 ACCEPTED

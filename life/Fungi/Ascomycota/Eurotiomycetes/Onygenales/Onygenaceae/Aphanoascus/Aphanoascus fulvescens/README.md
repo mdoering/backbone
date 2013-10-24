@@ -1,17 +1,16 @@
-Glenosporella dermatitidis A. Agostini, 1931 SPECIES
-=======
+# Aphanoascus fulvescens (Cooke) Apinis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 35: 99 (1968)
 
 #### Original name
-null
+Eurotium fulvescens Cooke, 1879
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Buellia mcleani C.W. Dodge SPECIES
-=======
+# Buellia macleanii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 252 (1948)
 
 #### Original name
-Buellia mcleani C.W. Dodge
+Buellia macleanii C.W. Dodge
 
 ### Remarks
 null

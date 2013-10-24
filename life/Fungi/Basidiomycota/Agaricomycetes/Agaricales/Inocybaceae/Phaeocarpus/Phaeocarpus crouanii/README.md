@@ -1,8 +1,7 @@
-Phaeocarpus crouani Pat. SPECIES
-=======
+# Phaeocarpus crouanii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeocarpus crouani Pat.
+Phaeocarpus crouanii Pat.
 
 ### Remarks
 null

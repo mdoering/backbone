@@ -1,5 +1,4 @@
-Ceratostoma grumsinianum Kirschst. SPECIES
-=======
+# Ceratostoma grumsinianum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

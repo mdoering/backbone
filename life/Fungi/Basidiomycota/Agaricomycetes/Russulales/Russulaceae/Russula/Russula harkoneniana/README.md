@@ -1,5 +1,4 @@
-Russula harkoneniana Buyck SPECIES
-=======
+# Russula harkoneniana Buyck SPECIES
 
 #### Status
 ACCEPTED

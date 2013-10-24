@@ -1,5 +1,4 @@
-Verrucaria thelotremoides Nyl. SPECIES
-=======
+# Verrucaria thelotremoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

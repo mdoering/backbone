@@ -1,5 +1,4 @@
-Sphaeria intricata Peck SPECIES
-=======
+# Sphaeria intricata Peck SPECIES
 
 #### Status
 ACCEPTED

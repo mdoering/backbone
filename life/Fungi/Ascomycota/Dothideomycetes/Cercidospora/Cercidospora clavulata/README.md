@@ -1,5 +1,4 @@
-Cercidospora clavulata (Ellis) Kuntze SPECIES
-=======
+# Cercidospora clavulata (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

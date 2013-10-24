@@ -1,5 +1,4 @@
-Baltisphaeridium piriferum SPECIES
-=======
+# Baltisphaeridium piriferum SPECIES
 
 #### Status
 ACCEPTED

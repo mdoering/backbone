@@ -1,5 +1,4 @@
-Pseudosaccharomyces lindneri Klöcker SPECIES
-=======
+# Pseudosaccharomyces lindneri Klöcker SPECIES
 
 #### Status
 ACCEPTED

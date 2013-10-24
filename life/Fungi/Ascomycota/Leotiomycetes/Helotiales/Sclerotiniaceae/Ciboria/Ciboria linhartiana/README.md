@@ -1,5 +1,4 @@
-Ciboria linhartiana Prill. & Delacr. SPECIES
-=======
+# Ciboria linhartiana Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

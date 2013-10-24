@@ -1,5 +1,4 @@
-Sarcographa cascarillae Fée SPECIES
-=======
+# Sarcographa cascarillae Fée SPECIES
 
 #### Status
 ACCEPTED

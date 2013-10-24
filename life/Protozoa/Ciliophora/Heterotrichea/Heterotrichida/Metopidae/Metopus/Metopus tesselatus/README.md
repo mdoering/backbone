@@ -1,5 +1,4 @@
-Metopus tesselatus SPECIES
-=======
+# Metopus tesselatus SPECIES
 
 #### Status
 ACCEPTED

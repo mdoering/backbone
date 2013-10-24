@@ -1,5 +1,4 @@
-Boreadinium Dodge & Hermes, 1981 GENUS
-=======
+# Boreadinium Dodge & Hermes, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera szatalae Gyeln. SPECIES
-=======
+# Peltigera szatalae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

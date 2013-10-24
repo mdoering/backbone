@@ -1,5 +1,4 @@
-Falsagglutinella angularis Loeblich & Tappan, 1994 SPECIES
-=======
+# Falsagglutinella angularis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

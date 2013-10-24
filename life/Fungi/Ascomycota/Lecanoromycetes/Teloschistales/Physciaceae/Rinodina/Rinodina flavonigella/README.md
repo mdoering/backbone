@@ -1,5 +1,4 @@
-Rinodina flavonigella SPECIES
-=======
+# Rinodina flavonigella SPECIES
 
 #### Status
 ACCEPTED

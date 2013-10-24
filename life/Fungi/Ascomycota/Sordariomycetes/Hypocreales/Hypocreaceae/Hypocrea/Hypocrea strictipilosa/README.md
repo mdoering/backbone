@@ -1,5 +1,4 @@
-Hypocrea strictipilosa P. Chaverri & Samuels, 2003 SPECIES
-=======
+# Hypocrea strictipilosa P. Chaverri & Samuels, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium dominans Arnold SPECIES
-=======
+# Thelidium dominans Arnold SPECIES
 
 #### Status
 ACCEPTED

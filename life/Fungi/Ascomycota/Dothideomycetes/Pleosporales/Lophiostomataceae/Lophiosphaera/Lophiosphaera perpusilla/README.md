@@ -1,5 +1,4 @@
-Lophiosphaera perpusilla (Sacc.) Sacc. SPECIES
-=======
+# Lophiosphaera perpusilla (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

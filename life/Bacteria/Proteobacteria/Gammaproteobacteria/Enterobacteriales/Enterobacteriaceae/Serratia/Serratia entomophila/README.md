@@ -1,5 +1,4 @@
-Serratia entomophila Grimont et al., 1988 SPECIES
-=======
+# Serratia entomophila Grimont et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

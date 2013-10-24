@@ -1,5 +1,4 @@
-Ceriporia mellita (Bourdot) Bondartsev & Singer, 1941 SPECIES
-=======
+# Ceriporia mellita (Bourdot) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
 ACCEPTED

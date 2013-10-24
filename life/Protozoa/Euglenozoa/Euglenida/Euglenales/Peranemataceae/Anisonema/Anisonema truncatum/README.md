@@ -1,5 +1,4 @@
-Anisonema truncatum Stein SPECIES
-=======
+# Anisonema truncatum Stein SPECIES
 
 #### Status
 ACCEPTED

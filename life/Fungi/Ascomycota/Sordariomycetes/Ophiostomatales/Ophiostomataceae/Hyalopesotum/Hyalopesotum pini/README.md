@@ -1,5 +1,4 @@
-Hyalopesotum pini L.J. Hutchison & J. Reid SPECIES
-=======
+# Hyalopesotum pini L.J. Hutchison & J. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo alpestris J. Schröt., 1875 SPECIES
-=======
+# Uredo alpestris J. Schröt., 1875 SPECIES
 
 #### Status
 ACCEPTED

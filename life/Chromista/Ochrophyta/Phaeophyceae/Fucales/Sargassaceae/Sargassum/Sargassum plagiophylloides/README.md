@@ -1,5 +1,4 @@
-Sargassum plagiophylloides SPECIES
-=======
+# Sargassum plagiophylloides SPECIES
 
 #### Status
 ACCEPTED

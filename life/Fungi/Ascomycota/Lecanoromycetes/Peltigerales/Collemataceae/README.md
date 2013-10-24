@@ -1,5 +1,4 @@
-Collemataceae Zenker FAMILY
-=======
+# Collemataceae Zenker FAMILY
 
 #### Status
 ACCEPTED

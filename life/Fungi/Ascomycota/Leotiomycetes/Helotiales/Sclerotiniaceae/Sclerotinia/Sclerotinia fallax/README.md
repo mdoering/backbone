@@ -1,5 +1,4 @@
-Sclerotinia fallax (Sacc.) E.K. Cash & R.W. Davidson SPECIES
-=======
+# Sclerotinia fallax (Sacc.) E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

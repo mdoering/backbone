@@ -1,5 +1,4 @@
-Praeorbitolina Schroeder, 1964 GENUS
-=======
+# Praeorbitolina Schroeder, 1964 GENUS
 
 #### Status
 ACCEPTED

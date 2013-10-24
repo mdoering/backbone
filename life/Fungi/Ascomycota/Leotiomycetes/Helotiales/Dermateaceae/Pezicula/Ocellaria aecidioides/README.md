@@ -1,5 +1,4 @@
-Ocellaria aecidioides Speg. SPECIES
-=======
+# Ocellaria aecidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

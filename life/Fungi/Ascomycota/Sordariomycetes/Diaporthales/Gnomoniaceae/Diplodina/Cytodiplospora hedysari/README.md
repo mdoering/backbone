@@ -1,5 +1,4 @@
-Cytodiplospora hedysari Garb. SPECIES
-=======
+# Cytodiplospora hedysari Garb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella languida (P. Karst.) Svrcek & Kubicka SPECIES
-=======
+# Pezizella languida (P. Karst.) Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

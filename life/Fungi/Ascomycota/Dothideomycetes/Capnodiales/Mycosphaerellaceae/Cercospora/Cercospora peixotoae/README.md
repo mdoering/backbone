@@ -1,5 +1,4 @@
-Cercospora peixotoae Chupp & Viégas SPECIES
-=======
+# Cercospora peixotoae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

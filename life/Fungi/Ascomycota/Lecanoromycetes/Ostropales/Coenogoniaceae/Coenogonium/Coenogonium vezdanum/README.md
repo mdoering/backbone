@@ -1,5 +1,4 @@
-Coenogonium vezdanum (Lücking) Lücking SPECIES
-=======
+# Coenogonium vezdanum (Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

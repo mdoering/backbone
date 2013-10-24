@@ -1,5 +1,4 @@
-Corynebacterium mycetoides (ex Castellani, 1942) Collins, 1983 SPECIES
-=======
+# Corynebacterium mycetoides (ex Castellani, 1942) Collins, 1983 SPECIES
 
 #### Status
 ACCEPTED

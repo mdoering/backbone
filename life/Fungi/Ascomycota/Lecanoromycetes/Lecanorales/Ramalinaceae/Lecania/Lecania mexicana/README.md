@@ -1,5 +1,4 @@
-Lecania mexicana B. de Lesd. SPECIES
-=======
+# Lecania mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

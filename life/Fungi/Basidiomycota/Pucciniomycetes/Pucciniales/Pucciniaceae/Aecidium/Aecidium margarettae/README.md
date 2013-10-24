@@ -1,5 +1,4 @@
-Aecidium margarettae Cummins SPECIES
-=======
+# Aecidium margarettae Cummins SPECIES
 
 #### Status
 ACCEPTED

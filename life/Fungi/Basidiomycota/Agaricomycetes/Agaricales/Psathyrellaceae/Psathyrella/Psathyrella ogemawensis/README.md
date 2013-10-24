@@ -1,5 +1,4 @@
-Psathyrella ogemawensis A.H. Sm. SPECIES
-=======
+# Psathyrella ogemawensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

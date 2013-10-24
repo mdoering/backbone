@@ -1,14 +1,13 @@
-Thelenella terricola Aptroot SPECIES
-=======
+# Aptrootia terricola (Aptroot) Lücking, Umaña & Chaves SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 2: 45 (1999)
+in Lücking, Sipman, Umaña, Chaves & Lumbsch, Lichenologist 39(2): 188 (2007)
 
 #### Original name
 Thelenella terricola Aptroot

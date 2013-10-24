@@ -1,17 +1,16 @@
-Ocellularia bonplandii var. obliterata Müll. Arg. VARIETY
-=======
+# Thelotrema suecicum (H. Magn.) P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 9: 186 (1977)
 
 #### Original name
-null
+Ocellularia suecica H. Magn.
 
 ### Remarks
 null

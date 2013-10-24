@@ -1,5 +1,4 @@
-Thurammina antarctica Saidova, 1975 SPECIES
-=======
+# Thurammina antarctica Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

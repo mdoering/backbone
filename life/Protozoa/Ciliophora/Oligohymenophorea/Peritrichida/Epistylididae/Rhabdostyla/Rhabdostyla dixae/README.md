@@ -1,5 +1,4 @@
-Rhabdostyla dixae Nenninger, 1948 SPECIES
-=======
+# Rhabdostyla dixae Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

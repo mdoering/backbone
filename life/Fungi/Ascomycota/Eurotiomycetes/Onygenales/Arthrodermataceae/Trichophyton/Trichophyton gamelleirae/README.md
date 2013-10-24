@@ -1,5 +1,4 @@
-Trichophyton gamelleirae O. Magalh. SPECIES
-=======
+# Trichophyton gamelleirae O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

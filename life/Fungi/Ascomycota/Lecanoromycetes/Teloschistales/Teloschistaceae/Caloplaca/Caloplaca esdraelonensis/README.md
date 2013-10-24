@@ -1,5 +1,4 @@
-Caloplaca esdraelonensis Reichert & Galun SPECIES
-=======
+# Caloplaca esdraelonensis Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ceracea (Arnold) Stizenb. SPECIES
-=======
+# Lecanora ceracea (Arnold) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina flava Farl. SPECIES
-=======
+# Taphrina flava Farl. SPECIES
 
 #### Status
 ACCEPTED

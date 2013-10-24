@@ -1,5 +1,4 @@
-Rigidoporus contrarius (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Rigidoporus contrarius (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

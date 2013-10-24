@@ -1,5 +1,4 @@
-Collema plicatissimum Nyl. SPECIES
-=======
+# Collema plicatissimum Nyl. SPECIES
 
 #### Status
 ACCEPTED

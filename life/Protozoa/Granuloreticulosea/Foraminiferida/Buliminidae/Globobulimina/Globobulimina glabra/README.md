@@ -1,5 +1,4 @@
-Globobulimina glabra Cushman & Parker, 1947 SPECIES
-=======
+# Globobulimina glabra Cushman & Parker, 1947 SPECIES
 
 #### Status
 ACCEPTED

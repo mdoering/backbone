@@ -1,5 +1,4 @@
-Cryptosporium euphorbiae Höhn. SPECIES
-=======
+# Cryptosporium euphorbiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

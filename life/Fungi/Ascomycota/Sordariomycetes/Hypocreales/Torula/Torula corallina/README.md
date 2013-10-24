@@ -1,5 +1,4 @@
-Torula corallina Saito SPECIES
-=======
+# Torula corallina Saito SPECIES
 
 #### Status
 ACCEPTED

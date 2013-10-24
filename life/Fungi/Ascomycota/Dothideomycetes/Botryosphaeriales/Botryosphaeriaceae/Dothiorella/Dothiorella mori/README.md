@@ -1,5 +1,4 @@
-Dothiorella mori Berl. SPECIES
-=======
+# Dothiorella mori Berl. SPECIES
 
 #### Status
 ACCEPTED

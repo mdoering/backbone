@@ -1,5 +1,4 @@
-Tenua rioultii W.A.S. Sarjeant SPECIES
-=======
+# Tenua rioultii W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

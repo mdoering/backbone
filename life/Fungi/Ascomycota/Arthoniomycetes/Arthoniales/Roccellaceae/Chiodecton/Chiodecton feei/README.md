@@ -1,5 +1,4 @@
-Chiodecton feei C.F.W. Meissn. SPECIES
-=======
+# Chiodecton feei C.F.W. Meissn. SPECIES
 
 #### Status
 ACCEPTED

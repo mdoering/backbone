@@ -1,5 +1,4 @@
-Amphoroblastia eumecospora (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia eumecospora (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

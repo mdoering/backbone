@@ -1,5 +1,4 @@
-Plagiosphaera sacchari (Speg.) M. Monod SPECIES
-=======
+# Plagiosphaera sacchari (Speg.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

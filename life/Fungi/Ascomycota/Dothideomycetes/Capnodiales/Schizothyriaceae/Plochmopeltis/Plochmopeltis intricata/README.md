@@ -1,14 +1,13 @@
-Asterella intricata (Ellis & G. Martin) Sacc., 1891 SPECIES
-=======
+# Plochmopeltis intricata (Ellis & G. Martin) Theiss., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 395 (1891)
+Brotéria, sér. bot. (1914)
 
 #### Original name
 Asterina intricata Ellis & G. Martin, 1884

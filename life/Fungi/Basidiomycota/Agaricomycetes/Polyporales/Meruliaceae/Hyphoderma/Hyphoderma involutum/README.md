@@ -1,14 +1,13 @@
-Kneiffiella involuta (H.S. Jacks. & Dearden) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphoderma involutum (H.S. Jacks. & Dearden) Hjortstam & Ryvarden, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 131 (1980)
+Mycotaxon 9(2): 505 (1979)
 
 #### Original name
 Peniophora involuta H.S. Jacks. & Dearden, 1951

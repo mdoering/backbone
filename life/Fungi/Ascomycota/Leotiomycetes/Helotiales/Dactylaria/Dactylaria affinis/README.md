@@ -1,14 +1,13 @@
-Dactylaria affine (O. Rostr.) G.C. Bhatt & W.B. Kendr. SPECIES
-=======
+# Dactylaria affinis (O. Rostr.) G.C. Bhatt & W.B. Kendr., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 46: 1256 (1968)
 
 #### Original name
 Diplorhinotrichum affine O. Rostr., 1916

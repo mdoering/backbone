@@ -1,5 +1,4 @@
-Helotium subtropicale (Singer) Redhead SPECIES
-=======
+# Helotium subtropicale (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

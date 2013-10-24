@@ -1,5 +1,4 @@
-Sarcographa macrohydrina M. Nakan., Kashiw. & K.H. Moon SPECIES
-=======
+# Sarcographa macrohydrina M. Nakan., Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe latispora Murrill SPECIES
-=======
+# Psilocybe latispora Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus minor Noda SPECIES
-=======
+# Ectocarpus minor Noda SPECIES
 
 #### Status
 ACCEPTED

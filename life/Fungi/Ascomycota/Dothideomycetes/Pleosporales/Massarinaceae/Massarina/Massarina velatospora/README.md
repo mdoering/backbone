@@ -1,5 +1,4 @@
-Massarina velatospora K.D. Hyde & Borse SPECIES
-=======
+# Massarina velatospora K.D. Hyde & Borse SPECIES
 
 #### Status
 ACCEPTED

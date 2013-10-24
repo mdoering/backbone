@@ -1,5 +1,4 @@
-Sphaerella buxifolia Cooke SPECIES
-=======
+# Sphaerella buxifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

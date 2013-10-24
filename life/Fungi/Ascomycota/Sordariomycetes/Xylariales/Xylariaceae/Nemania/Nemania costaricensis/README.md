@@ -1,5 +1,4 @@
-Nemania costaricensis J.D. Rogers & Y.M. Ju, 2005 SPECIES
-=======
+# Nemania costaricensis J.D. Rogers & Y.M. Ju, 2005 SPECIES
 
 #### Status
 ACCEPTED

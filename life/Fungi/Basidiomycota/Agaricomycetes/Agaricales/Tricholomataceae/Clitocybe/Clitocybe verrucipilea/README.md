@@ -1,5 +1,4 @@
-Clitocybe verrucipilea (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe verrucipilea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

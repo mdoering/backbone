@@ -1,5 +1,4 @@
-Dyadosporites umirensis Hammen SPECIES
-=======
+# Dyadosporites umirensis Hammen SPECIES
 
 #### Status
 ACCEPTED

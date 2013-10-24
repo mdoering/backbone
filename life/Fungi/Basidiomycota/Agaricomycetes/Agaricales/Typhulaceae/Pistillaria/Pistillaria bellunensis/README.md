@@ -1,5 +1,4 @@
-Pistillaria bellunensis Speg. SPECIES
-=======
+# Pistillaria bellunensis Speg. SPECIES
 
 #### Status
 ACCEPTED

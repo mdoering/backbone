@@ -1,5 +1,4 @@
-Trichiales T. Macbr. ORDER
-=======
+# Trichiales T. Macbr. ORDER
 
 #### Status
 ACCEPTED

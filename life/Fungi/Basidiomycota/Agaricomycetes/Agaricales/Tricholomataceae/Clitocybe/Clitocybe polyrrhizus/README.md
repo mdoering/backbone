@@ -1,5 +1,4 @@
-Clitocybe polyrrhizus J. Otto SPECIES
-=======
+# Clitocybe polyrrhizus J. Otto SPECIES
 
 #### Status
 ACCEPTED

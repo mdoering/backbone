@@ -1,5 +1,4 @@
-Usnea moniliformis Motyka SPECIES
-=======
+# Usnea moniliformis Motyka SPECIES
 
 #### Status
 ACCEPTED

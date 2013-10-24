@@ -1,5 +1,4 @@
-Zygodiscus elegans S. Gartner SPECIES
-=======
+# Zygodiscus elegans S. Gartner SPECIES
 
 #### Status
 ACCEPTED

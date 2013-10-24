@@ -1,5 +1,4 @@
-Stauracanthitidae FAMILY
-=======
+# Stauracanthitidae FAMILY
 
 #### Status
 ACCEPTED

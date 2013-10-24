@@ -1,5 +1,4 @@
-Usnea sublacunosa (Elenkin) Savicz SPECIES
-=======
+# Usnea sublacunosa (Elenkin) Savicz SPECIES
 
 #### Status
 ACCEPTED

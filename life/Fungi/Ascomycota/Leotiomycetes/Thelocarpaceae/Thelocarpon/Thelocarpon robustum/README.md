@@ -1,5 +1,4 @@
-Thelocarpon robustum Eitner SPECIES
-=======
+# Thelocarpon robustum Eitner SPECIES
 
 #### Status
 ACCEPTED

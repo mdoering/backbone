@@ -1,5 +1,4 @@
-Janetia canescens B. Sutton & Pascoe SPECIES
-=======
+# Janetia canescens B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

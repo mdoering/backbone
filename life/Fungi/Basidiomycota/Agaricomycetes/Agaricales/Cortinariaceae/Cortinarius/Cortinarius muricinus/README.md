@@ -1,5 +1,4 @@
-Cortinarius muricinus Fr. SPECIES
-=======
+# Cortinarius muricinus Fr. SPECIES
 
 #### Status
 ACCEPTED

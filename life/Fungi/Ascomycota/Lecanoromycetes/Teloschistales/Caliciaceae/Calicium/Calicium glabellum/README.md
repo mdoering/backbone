@@ -1,5 +1,4 @@
-Calicium glabellum Taylor SPECIES
-=======
+# Calicium glabellum Taylor SPECIES
 
 #### Status
 ACCEPTED

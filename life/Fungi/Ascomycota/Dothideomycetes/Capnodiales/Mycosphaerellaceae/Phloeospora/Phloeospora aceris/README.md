@@ -1,14 +1,13 @@
-Didymosporium aceris (Lib.) Mont., 1849 SPECIES
-=======
+# Phloeospora aceris (Lib.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 577 (1884)
 
 #### Original name
 Cheilaria aceris Lib., 1834

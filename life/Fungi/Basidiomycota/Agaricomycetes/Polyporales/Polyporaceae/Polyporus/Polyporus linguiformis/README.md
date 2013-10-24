@@ -1,5 +1,4 @@
-Polyporus linguiformis Pat. SPECIES
-=======
+# Polyporus linguiformis Pat. SPECIES
 
 #### Status
 ACCEPTED

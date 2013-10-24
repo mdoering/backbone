@@ -1,5 +1,4 @@
-Foissnerella Jankowski, 1986 GENUS
-=======
+# Foissnerella Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carchesium amphibiarum SPECIES
-=======
+# Carchesium amphibiarum SPECIES
 
 #### Status
 ACCEPTED

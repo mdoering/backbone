@@ -1,5 +1,4 @@
-Pyrenographa wellingtoniae (Cooke & Harkn.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Pyrenographa wellingtoniae (Cooke & Harkn.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

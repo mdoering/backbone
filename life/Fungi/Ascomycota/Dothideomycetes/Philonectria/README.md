@@ -1,5 +1,4 @@
-Philonectria Hara GENUS
-=======
+# Philonectria Hara GENUS
 
 #### Status
 ACCEPTED

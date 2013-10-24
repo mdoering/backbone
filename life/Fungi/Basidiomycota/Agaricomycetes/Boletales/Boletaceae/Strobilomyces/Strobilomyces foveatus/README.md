@@ -1,5 +1,4 @@
-Strobilomyces foveatus Corner SPECIES
-=======
+# Strobilomyces foveatus Corner SPECIES
 
 #### Status
 ACCEPTED

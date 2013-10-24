@@ -1,5 +1,4 @@
-Septoria carpini Cejp SPECIES
-=======
+# Septoria carpini Cejp SPECIES
 
 #### Status
 ACCEPTED

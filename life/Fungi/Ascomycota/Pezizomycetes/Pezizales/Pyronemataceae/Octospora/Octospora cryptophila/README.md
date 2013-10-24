@@ -1,5 +1,4 @@
-Octospora cryptophila (Humb.) Humb. SPECIES
-=======
+# Octospora cryptophila (Humb.) Humb. SPECIES
 
 #### Status
 ACCEPTED

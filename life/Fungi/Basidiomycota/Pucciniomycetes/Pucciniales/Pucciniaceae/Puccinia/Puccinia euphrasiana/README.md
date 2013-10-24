@@ -1,5 +1,4 @@
-Puccinia euphrasiana G. Cunn., 1924 SPECIES
-=======
+# Puccinia euphrasiana G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

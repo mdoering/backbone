@@ -1,5 +1,4 @@
-Trametes klotzschii Berk. SPECIES
-=======
+# Trametes klotzschii Berk. SPECIES
 
 #### Status
 ACCEPTED

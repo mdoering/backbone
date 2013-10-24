@@ -1,5 +1,4 @@
-Tremella conica R. Hedw. SPECIES
-=======
+# Tremella conica R. Hedw. SPECIES
 
 #### Status
 ACCEPTED

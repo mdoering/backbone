@@ -1,5 +1,4 @@
-Picoa melospora G. Moreno, J. Díez & Manjón, 2000 SPECIES
-=======
+# Picoa melospora G. Moreno, J. Díez & Manjón, 2000 SPECIES
 
 #### Status
 ACCEPTED

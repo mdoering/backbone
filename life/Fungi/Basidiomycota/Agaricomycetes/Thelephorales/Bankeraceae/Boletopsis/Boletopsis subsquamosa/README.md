@@ -1,5 +1,4 @@
-Boletopsis subsquamosa (L.) Kotl. & Pouzar SPECIES
-=======
+# Boletopsis subsquamosa (L.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

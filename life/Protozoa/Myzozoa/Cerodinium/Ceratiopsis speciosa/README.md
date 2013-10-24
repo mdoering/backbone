@@ -1,5 +1,4 @@
-Ceratiopsis speciosa (Alberti, 1959) Lentin & Williams SPECIES
-=======
+# Ceratiopsis speciosa (Alberti, 1959) Lentin & Williams SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pestalosphaeria leucospermi Samuels, E. Müll. & Petrini, 1987 SPECIES
-=======
+# Pestalosphaeria leucospermi Samuels, E. Müll. & Petrini, 1987 SPECIES
 
 #### Status
 ACCEPTED

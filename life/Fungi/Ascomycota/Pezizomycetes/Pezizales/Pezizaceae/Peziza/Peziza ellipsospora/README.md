@@ -1,5 +1,4 @@
-Peziza ellipsospora (Gilkey) Trappe SPECIES
-=======
+# Peziza ellipsospora (Gilkey) Trappe SPECIES
 
 #### Status
 ACCEPTED

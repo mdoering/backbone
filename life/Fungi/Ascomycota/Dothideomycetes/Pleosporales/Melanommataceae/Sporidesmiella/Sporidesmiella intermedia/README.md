@@ -1,5 +1,4 @@
-Sporidesmiella intermedia R.F. Castañeda & Guarro SPECIES
-=======
+# Sporidesmiella intermedia R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

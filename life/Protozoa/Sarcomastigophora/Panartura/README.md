@@ -1,5 +1,4 @@
-Panartura Haeckel, 1887 GENUS
-=======
+# Panartura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

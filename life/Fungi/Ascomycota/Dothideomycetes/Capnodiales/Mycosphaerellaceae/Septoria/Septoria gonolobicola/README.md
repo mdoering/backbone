@@ -1,5 +1,4 @@
-Septoria gonolobicola Henn. SPECIES
-=======
+# Septoria gonolobicola Henn. SPECIES
 
 #### Status
 ACCEPTED

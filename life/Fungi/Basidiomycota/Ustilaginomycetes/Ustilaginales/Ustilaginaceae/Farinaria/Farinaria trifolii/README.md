@@ -1,5 +1,4 @@
-Farinaria trifolii Sowerby SPECIES
-=======
+# Farinaria trifolii Sowerby SPECIES
 
 #### Status
 ACCEPTED

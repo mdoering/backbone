@@ -1,5 +1,4 @@
-Rugosofusulinoides Bensh, 1996 GENUS
-=======
+# Rugosofusulinoides Bensh, 1996 GENUS
 
 #### Status
 ACCEPTED

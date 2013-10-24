@@ -1,5 +1,4 @@
-Haemogregarina bettencourti França, 1908 SPECIES
-=======
+# Haemogregarina bettencourti França, 1908 SPECIES
 
 #### Status
 ACCEPTED

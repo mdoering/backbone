@@ -1,5 +1,4 @@
-Cercospora waltheriae Thirum. & Chupp SPECIES
-=======
+# Cercospora waltheriae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

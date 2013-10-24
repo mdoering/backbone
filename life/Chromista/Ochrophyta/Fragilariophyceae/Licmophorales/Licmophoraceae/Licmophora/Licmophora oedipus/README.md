@@ -1,5 +1,4 @@
-Licmophora oedipus (Kützing) Grunow SPECIES
-=======
+# Licmophora oedipus (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

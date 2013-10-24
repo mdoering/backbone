@@ -1,5 +1,4 @@
-Polyporus microscopicus Jungh. SPECIES
-=======
+# Polyporus microscopicus Jungh. SPECIES
 
 #### Status
 ACCEPTED

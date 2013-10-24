@@ -1,5 +1,4 @@
-Lecidea sarcion Stizenb. SPECIES
-=======
+# Lecidea sarcion Stizenb. SPECIES
 
 #### Status
 ACCEPTED

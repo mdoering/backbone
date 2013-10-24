@@ -1,5 +1,4 @@
-Sericeomyces subvolvatus f. subvolvatus FORM
-=======
+# Sericeomyces subvolvatus (Malençon & Bertault) Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cryptog. Mycol. 12(1): 9 (1991)
 
 #### Original name
-Sericeomyces subvolvatus f. subvolvatus
+Lepiota subvolvata Malençon & Bertault
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mitochytridium ramosum P.A. Dang., 1911 SPECIES
-=======
+# Mitochytridium ramosum P.A. Dang., 1911 SPECIES
 
 #### Status
 ACCEPTED

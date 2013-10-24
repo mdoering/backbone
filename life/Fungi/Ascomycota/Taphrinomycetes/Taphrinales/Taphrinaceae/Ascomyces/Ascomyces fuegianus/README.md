@@ -1,5 +1,4 @@
-Ascomyces fuegianus Speg. SPECIES
-=======
+# Ascomyces fuegianus Speg. SPECIES
 
 #### Status
 ACCEPTED

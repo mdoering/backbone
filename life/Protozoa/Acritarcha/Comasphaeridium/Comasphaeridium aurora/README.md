@@ -1,5 +1,4 @@
-Comasphaeridium aurora (Loeblich, 1970) Eisenack et al., 1976 SPECIES
-=======
+# Comasphaeridium aurora (Loeblich, 1970) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

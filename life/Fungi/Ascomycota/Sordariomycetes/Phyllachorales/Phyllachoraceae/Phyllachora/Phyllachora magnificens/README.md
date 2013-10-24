@@ -1,5 +1,4 @@
-Phyllachora magnificens var. magnificens VARIETY
-=======
+# Phyllachora magnificens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32: 195 (1940)
+null
 
 #### Original name
-Phyllachora magnificens var. magnificens
+null
 
 ### Remarks
 null

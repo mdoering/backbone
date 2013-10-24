@@ -1,5 +1,4 @@
-Hebeloma chlorophyllum Speg. SPECIES
-=======
+# Hebeloma chlorophyllum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen absynthiofolius Lam. SPECIES
-=======
+# Lichen absynthiofolius Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia athroa W. Mann SPECIES
-=======
+# Arthonia athroa W. Mann SPECIES
 
 #### Status
 ACCEPTED

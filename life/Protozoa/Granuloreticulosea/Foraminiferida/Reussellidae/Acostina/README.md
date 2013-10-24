@@ -1,5 +1,4 @@
-Acostina Bermúdez, 1994 GENUS
-=======
+# Acostina Bermúdez, 1994 GENUS
 
 #### Status
 ACCEPTED

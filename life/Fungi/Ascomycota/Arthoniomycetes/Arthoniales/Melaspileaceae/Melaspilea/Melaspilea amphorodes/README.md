@@ -1,5 +1,4 @@
-Melaspilea amphorodes Stirt. SPECIES
-=======
+# Melaspilea amphorodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

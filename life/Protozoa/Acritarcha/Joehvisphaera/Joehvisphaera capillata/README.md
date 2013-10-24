@@ -1,5 +1,4 @@
-Joehvisphaera capillata Uutela & Tynni, 1991 SPECIES
-=======
+# Joehvisphaera capillata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

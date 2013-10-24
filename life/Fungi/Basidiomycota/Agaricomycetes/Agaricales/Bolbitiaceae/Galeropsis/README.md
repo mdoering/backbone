@@ -1,5 +1,4 @@
-Galeropsis Velenovský, 1930 GENUS
-=======
+# Galeropsis Velenovský, 1930 GENUS
 
 #### Status
 ACCEPTED

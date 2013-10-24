@@ -1,5 +1,4 @@
-Gongronella Ribaldi GENUS
-=======
+# Gongronella Ribaldi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina dodonaei Pass. SPECIES
-=======
+# Asterina dodonaei Pass. SPECIES
 
 #### Status
 ACCEPTED

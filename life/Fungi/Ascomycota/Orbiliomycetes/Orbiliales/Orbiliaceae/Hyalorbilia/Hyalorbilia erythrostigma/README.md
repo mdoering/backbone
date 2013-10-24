@@ -1,14 +1,13 @@
-Lachnella erythrostigma (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Hyalorbilia erythrostigma (W. Phillips) Baral & G. Marson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Micologia 2000 (Trento) 44 (2000)
 
 #### Original name
 null

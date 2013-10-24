@@ -1,5 +1,4 @@
-Synchytrium umbilicatum (Berk. & Broome) Karling SPECIES
-=======
+# Synchytrium umbilicatum (Berk. & Broome) Karling SPECIES
 
 #### Status
 ACCEPTED

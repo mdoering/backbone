@@ -1,17 +1,16 @@
-Phanotylium Clem. GENUS
-=======
+# Tremotylium Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Gen. fung. (Minneapolis) 80, 175 (1909)
+Flora, Jena 48: 3 (1865)
 
 #### Original name
-Phanotylium Clem.
+Tremotylium Nyl.
 
 ### Remarks
 null

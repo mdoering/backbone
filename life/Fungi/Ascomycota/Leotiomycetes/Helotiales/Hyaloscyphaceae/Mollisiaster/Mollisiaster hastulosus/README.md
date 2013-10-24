@@ -1,5 +1,4 @@
-Mollisiaster hastulosus Kirschst. SPECIES
-=======
+# Mollisiaster hastulosus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma megasperma Speg. SPECIES
-=======
+# Phoma megasperma Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium Dujardin, 1841 GENUS
-=======
+# Spathidium Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

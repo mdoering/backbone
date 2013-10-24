@@ -1,17 +1,16 @@
-Pseudodelitschia J.N. Kapoor, Bahl & S.P. Lal GENUS
-=======
+# Neotestudina Segretain & Destombes GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 3: 127 (1976)
+C. r. hebd. Séanc. Acad. Sci. , Paris 253: 2579 (1961)
 
 #### Original name
-Pseudodelitschia J.N. Kapoor, Bahl & S.P. Lal
+Neotestudina Segretain & Destombes
 
 ### Remarks
 null

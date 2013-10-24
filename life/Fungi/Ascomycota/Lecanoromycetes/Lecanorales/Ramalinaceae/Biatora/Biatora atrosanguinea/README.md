@@ -1,5 +1,4 @@
-Biatora atrosanguinea Hepp SPECIES
-=======
+# Biatora atrosanguinea Hepp SPECIES
 
 #### Status
 ACCEPTED

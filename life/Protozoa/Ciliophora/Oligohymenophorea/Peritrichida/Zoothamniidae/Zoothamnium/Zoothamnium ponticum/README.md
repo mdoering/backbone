@@ -1,5 +1,4 @@
-Zoothamnium ponticum Andrussowa, 1886 SPECIES
-=======
+# Zoothamnium ponticum Andrussowa, 1886 SPECIES
 
 #### Status
 ACCEPTED

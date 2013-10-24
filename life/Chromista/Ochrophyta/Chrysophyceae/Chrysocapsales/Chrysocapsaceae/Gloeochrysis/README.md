@@ -1,5 +1,4 @@
-Gloeochrysis Pascher, 1925 GENUS
-=======
+# Gloeochrysis Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

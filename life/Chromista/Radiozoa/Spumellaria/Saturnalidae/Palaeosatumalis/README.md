@@ -1,5 +1,4 @@
-Palaeosatumalis GENUS
-=======
+# Palaeosatumalis GENUS
 
 #### Status
 ACCEPTED

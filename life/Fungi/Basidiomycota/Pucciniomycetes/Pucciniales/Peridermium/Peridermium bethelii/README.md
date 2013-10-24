@@ -1,5 +1,4 @@
-Peridermium bethelii Hedgc. & Long SPECIES
-=======
+# Peridermium bethelii Hedgc. & Long SPECIES
 
 #### Status
 ACCEPTED

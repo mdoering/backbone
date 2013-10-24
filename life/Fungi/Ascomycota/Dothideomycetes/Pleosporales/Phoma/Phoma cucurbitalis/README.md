@@ -1,5 +1,4 @@
-Phoma cucurbitalis Berk. & M.A. Curtis SPECIES
-=======
+# Phoma cucurbitalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

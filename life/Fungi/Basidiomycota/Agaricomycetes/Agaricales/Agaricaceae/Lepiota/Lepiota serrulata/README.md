@@ -1,5 +1,4 @@
-Lepiota serrulata var. serrulata VARIETY
-=======
+# Lepiota serrulata Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota serrulata var. serrulata
+Lepiota serrulata Rick
 
 ### Remarks
 null

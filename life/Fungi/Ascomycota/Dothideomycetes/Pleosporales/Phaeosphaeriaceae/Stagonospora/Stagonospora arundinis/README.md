@@ -1,5 +1,4 @@
-Stagonospora arundinis (Lév.) Sacc. SPECIES
-=======
+# Stagonospora arundinis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

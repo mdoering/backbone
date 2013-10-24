@@ -1,5 +1,4 @@
-Streptomyces griseosporeus Niida and Ogasawara, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseosporeus Niida and Ogasawara, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

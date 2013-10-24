@@ -1,5 +1,4 @@
-Lecidea stonei Ach. SPECIES
-=======
+# Lecidea stonei Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salmacisia D.R. Huff & A. Chandra GENUS
-=======
+# Salmacisia D.R. Huff & A. Chandra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus cheoi (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus cheoi (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

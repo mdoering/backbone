@@ -1,5 +1,4 @@
-Ascochyta gaillardiae Mítítíuc & Manolitt {?} SPECIES
-=======
+# Ascochyta gaillardiae Mítítíuc & Manolitt {?} SPECIES
 
 #### Status
 ACCEPTED

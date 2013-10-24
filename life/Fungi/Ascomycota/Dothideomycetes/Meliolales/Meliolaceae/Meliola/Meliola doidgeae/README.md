@@ -1,5 +1,4 @@
-Meliola doidgeae Syd. SPECIES
-=======
+# Meliola doidgeae Syd. SPECIES
 
 #### Status
 ACCEPTED

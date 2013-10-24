@@ -1,5 +1,4 @@
-Omphalina ranunculina (Berk.) Manjula SPECIES
-=======
+# Omphalina ranunculina (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

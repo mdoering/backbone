@@ -1,5 +1,4 @@
-Eriosporangium baccharidis-rhexioidis (Mayor) Syd. SPECIES
-=======
+# Eriosporangium baccharidis-rhexioidis (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

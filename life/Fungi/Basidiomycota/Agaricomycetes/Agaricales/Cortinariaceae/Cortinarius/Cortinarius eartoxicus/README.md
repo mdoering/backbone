@@ -1,5 +1,4 @@
-Cortinarius eartoxicus Gasparini SPECIES
-=======
+# Cortinarius eartoxicus Gasparini SPECIES
 
 #### Status
 ACCEPTED

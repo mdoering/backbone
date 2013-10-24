@@ -1,5 +1,4 @@
-Somalina GENUS
-=======
+# Somalina GENUS
 
 #### Status
 ACCEPTED

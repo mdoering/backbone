@@ -1,5 +1,4 @@
-Actiniopsis plumbea Starbäck SPECIES
-=======
+# Actiniopsis plumbea Starbäck SPECIES
 
 #### Status
 ACCEPTED

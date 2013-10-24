@@ -1,5 +1,4 @@
-Pyrenopeziza doronici E.G. Dimitrova SPECIES
-=======
+# Pyrenopeziza doronici E.G. Dimitrova SPECIES
 
 #### Status
 ACCEPTED

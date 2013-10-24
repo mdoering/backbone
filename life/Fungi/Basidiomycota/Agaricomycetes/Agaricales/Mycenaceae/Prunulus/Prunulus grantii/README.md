@@ -1,5 +1,4 @@
-Prunulus grantii Murrill SPECIES
-=======
+# Prunulus grantii Murrill SPECIES
 
 #### Status
 ACCEPTED

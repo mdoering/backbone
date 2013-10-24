@@ -1,5 +1,4 @@
-Lactarius depressus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius depressus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

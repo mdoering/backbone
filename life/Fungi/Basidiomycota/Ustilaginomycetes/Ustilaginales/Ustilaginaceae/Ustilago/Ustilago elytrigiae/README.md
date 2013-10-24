@@ -1,5 +1,4 @@
-Ustilago elytrigiae Golovin SPECIES
-=======
+# Ustilago elytrigiae Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecobasidium alabamense Matsush. SPECIES
-=======
+# Scolecobasidium alabamense Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium cunninghamianum Barclay, 1890 SPECIES
-=======
+# Gymnosporangium cunninghamianum Barclay, 1890 SPECIES
 
 #### Status
 ACCEPTED

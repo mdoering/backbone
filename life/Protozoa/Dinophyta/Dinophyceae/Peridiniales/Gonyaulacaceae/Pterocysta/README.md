@@ -1,5 +1,4 @@
-Pterocysta A. Rochon, 2002 GENUS
-=======
+# Pterocysta A. Rochon, 2002 GENUS
 
 #### Status
 ACCEPTED

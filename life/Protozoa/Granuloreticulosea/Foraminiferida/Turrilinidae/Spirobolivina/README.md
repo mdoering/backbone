@@ -1,5 +1,4 @@
-Spirobolivina Hofker, 1956 GENUS
-=======
+# Spirobolivina Hofker, 1956 GENUS
 
 #### Status
 ACCEPTED

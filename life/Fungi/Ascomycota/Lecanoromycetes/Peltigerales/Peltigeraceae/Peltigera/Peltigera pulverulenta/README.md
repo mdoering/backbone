@@ -1,5 +1,4 @@
-Peltigera pulverulenta (Taylor) Nyl. SPECIES
-=======
+# Peltigera pulverulenta (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

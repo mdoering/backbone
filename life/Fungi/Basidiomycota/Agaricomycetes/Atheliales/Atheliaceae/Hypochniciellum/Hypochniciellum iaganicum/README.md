@@ -1,14 +1,13 @@
-Terana iaganica (Speg.) Kuntze, 1891 SPECIES
-=======
+# Hypochniciellum iaganicum (Speg.) Rajchenb. & J.E. Wright, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Mycologia 79(2): 247 (1987)
 
 #### Original name
 null

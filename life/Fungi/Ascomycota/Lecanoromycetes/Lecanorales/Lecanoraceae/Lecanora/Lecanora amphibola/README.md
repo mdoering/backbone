@@ -1,5 +1,4 @@
-Lecanora amphibola (Ach.) Vain. SPECIES
-=======
+# Lecanora amphibola (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED

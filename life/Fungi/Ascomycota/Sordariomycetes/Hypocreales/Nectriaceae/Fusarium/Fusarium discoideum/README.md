@@ -1,5 +1,4 @@
-Fusarium discoideum Fautrey & Roum. SPECIES
-=======
+# Fusarium discoideum Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

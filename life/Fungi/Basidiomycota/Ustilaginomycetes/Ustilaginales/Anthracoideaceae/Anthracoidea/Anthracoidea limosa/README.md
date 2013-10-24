@@ -1,17 +1,16 @@
-Cintractia limosa var. limosa VARIETY
-=======
+# Anthracoidea limosa (Syd.) Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 288 (1924)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 34(3): 91 (1963)
 
 #### Original name
-Cintractia limosa var. limosa
+Cintractia limosa Syd., 1924
 
 ### Remarks
 null

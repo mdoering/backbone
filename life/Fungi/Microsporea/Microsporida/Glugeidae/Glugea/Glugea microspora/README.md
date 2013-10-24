@@ -1,5 +1,4 @@
-Glugea microspora Thélohan SPECIES
-=======
+# Glugea microspora Thélohan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis syngenesia (Brunaud) Höhn. SPECIES
-=======
+# Phomopsis syngenesia (Brunaud) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosoma shulmani SPECIES
-=======
+# Apiosoma shulmani SPECIES
 
 #### Status
 ACCEPTED

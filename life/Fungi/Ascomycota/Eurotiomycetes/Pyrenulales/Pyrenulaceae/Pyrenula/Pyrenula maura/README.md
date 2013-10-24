@@ -1,5 +1,4 @@
-Pyrenula maura (Sm.) Schaer. SPECIES
-=======
+# Pyrenula maura (Sm.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

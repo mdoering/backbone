@@ -1,5 +1,4 @@
-Puccinia apludae Syd. & P. Syd. SPECIES
-=======
+# Puccinia apludae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

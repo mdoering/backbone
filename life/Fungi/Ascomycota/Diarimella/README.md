@@ -1,5 +1,4 @@
-Diarimella B. Sutton GENUS
-=======
+# Diarimella B. Sutton GENUS
 
 #### Status
 ACCEPTED

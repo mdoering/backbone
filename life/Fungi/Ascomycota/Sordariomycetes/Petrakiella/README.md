@@ -1,5 +1,4 @@
-Petrakiella Syd. GENUS
-=======
+# Petrakiella Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum autumnale Yoshida SPECIES
-=======
+# Sargassum autumnale Yoshida SPECIES
 
 #### Status
 ACCEPTED

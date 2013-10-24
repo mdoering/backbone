@@ -1,5 +1,4 @@
-Galerina austroandina (Singer) Singer SPECIES
-=======
+# Galerina austroandina (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

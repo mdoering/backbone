@@ -1,5 +1,4 @@
-Floccomutinus annulatus (F.M. Bailey) Lloyd SPECIES
-=======
+# Floccomutinus annulatus (F.M. Bailey) Lloyd SPECIES
 
 #### Status
 ACCEPTED

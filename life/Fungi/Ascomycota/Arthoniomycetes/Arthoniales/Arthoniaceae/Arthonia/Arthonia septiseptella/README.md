@@ -1,5 +1,4 @@
-Arthonia septiseptella Nyl. SPECIES
-=======
+# Arthonia septiseptella Nyl. SPECIES
 
 #### Status
 ACCEPTED

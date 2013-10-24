@@ -1,8 +1,7 @@
-Clostridium thermohydrosulfuricum Klaushofer and Parkkinen, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Thermoanaerobacter thermohydrosulfuricus (Klaushofer & Parkkinen, 1965) Lee et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

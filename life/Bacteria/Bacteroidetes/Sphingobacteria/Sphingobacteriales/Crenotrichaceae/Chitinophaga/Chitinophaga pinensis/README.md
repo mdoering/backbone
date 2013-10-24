@@ -1,5 +1,4 @@
-Chitinophaga pinensis Sangkhobol & Skerman, 1981 SPECIES
-=======
+# Chitinophaga pinensis Sangkhobol & Skerman, 1981 SPECIES
 
 #### Status
 ACCEPTED

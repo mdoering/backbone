@@ -1,8 +1,7 @@
-Dasyscypha lachnodermus (Berk.) Rehm SPECIES
-=======
+# Dasyscyphus lachnodermus (Berk.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

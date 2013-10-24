@@ -1,5 +1,4 @@
-Pleospora faidherbiae Faurel & Schotter SPECIES
-=======
+# Pleospora faidherbiae Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

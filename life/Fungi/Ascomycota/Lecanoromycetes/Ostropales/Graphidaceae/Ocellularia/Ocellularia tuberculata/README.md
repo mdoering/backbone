@@ -1,5 +1,4 @@
-Ocellularia tuberculata Nagarkar & Hale SPECIES
-=======
+# Ocellularia tuberculata Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

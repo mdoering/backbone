@@ -1,5 +1,4 @@
-Mycoporellum sacromontanum (Strasser) Redinger SPECIES
-=======
+# Mycoporellum sacromontanum (Strasser) Redinger SPECIES
 
 #### Status
 ACCEPTED

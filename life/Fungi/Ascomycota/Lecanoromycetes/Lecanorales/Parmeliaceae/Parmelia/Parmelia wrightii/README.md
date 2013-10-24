@@ -1,5 +1,4 @@
-Parmelia wrightii C.W. Dodge SPECIES
-=======
+# Parmelia wrightii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

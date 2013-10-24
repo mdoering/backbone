@@ -1,5 +1,4 @@
-Heterosporium savulescui E. Radul. & Negru SPECIES
-=======
+# Heterosporium savulescui E. Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

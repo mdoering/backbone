@@ -1,17 +1,16 @@
-Trabutia guarapiensis Rehm, 1901 SPECIES
-=======
+# Phyllachora paraguaya Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 119 (1901)
+Anal. Soc. cient. argent. 19: 243 (1885)
 
 #### Original name
-Trabutia guarapiensis Rehm, 1901
+Phyllachora paraguaya Speg., 1885
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Phoma japonica Sacc., 1879 SPECIES
-=======
+# Phomopsis japonica (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 521 (1879)
+Fl. ital. crypt. , Pars 1: Fungi. Pyrenomycetae. Xylariaceae, Valsaceae, Ceratostomataceae 2(1): 241 (1906)
 
 #### Original name
 Phoma japonica Sacc., 1879

@@ -1,5 +1,4 @@
-Puccinia decora Dietel SPECIES
-=======
+# Puccinia decora Dietel SPECIES
 
 #### Status
 ACCEPTED

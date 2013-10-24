@@ -1,5 +1,4 @@
-Tetraedriella limbata Pascher SPECIES
-=======
+# Tetraedriella limbata Pascher SPECIES
 
 #### Status
 ACCEPTED

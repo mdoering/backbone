@@ -1,5 +1,4 @@
-Arthonia myristicae Müll. Arg. SPECIES
-=======
+# Arthonia myristicae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium subolivaceum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium subolivaceum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

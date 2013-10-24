@@ -1,17 +1,16 @@
-Labyrinthulidae FAMILY
-=======
+# Labyrinthulaceae Cienk. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Mikr. Anat. 3: 274 (1867)
 
 #### Original name
-null
+Labyrinthulaceae Cienk.
 
 ### Remarks
 null

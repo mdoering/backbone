@@ -1,5 +1,4 @@
-Phyllosticta densissima Sacc. SPECIES
-=======
+# Phyllosticta densissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirocoleum amorphum (Thwaites ex Gomont) I. Umezaki & M. Watanabe SPECIES
-=======
+# Sirocoleum amorphum (Thwaites ex Gomont) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polychidium confusum Henssen SPECIES
-=======
+# Polychidium confusum Henssen SPECIES
 
 #### Status
 ACCEPTED

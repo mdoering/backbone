@@ -1,5 +1,4 @@
-Turicibacteraceae FAMILY
-=======
+# Turicibacteraceae FAMILY
 
 #### Status
 ACCEPTED

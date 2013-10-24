@@ -1,5 +1,4 @@
-Ascochyta pedemontana Ferraris SPECIES
-=======
+# Ascochyta pedemontana Ferraris SPECIES
 
 #### Status
 ACCEPTED

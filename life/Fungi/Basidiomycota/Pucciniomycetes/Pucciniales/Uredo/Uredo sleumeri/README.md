@@ -1,5 +1,4 @@
-Uredo sleumeri J.C. Lindq. SPECIES
-=======
+# Uredo sleumeri J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

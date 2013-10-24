@@ -1,5 +1,4 @@
-Hydnum subfurcatum Romell SPECIES
-=======
+# Hydnum subfurcatum Romell SPECIES
 
 #### Status
 ACCEPTED

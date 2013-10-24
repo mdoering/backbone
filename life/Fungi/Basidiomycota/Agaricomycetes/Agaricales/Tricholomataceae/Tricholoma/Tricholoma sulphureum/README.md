@@ -1,11 +1,10 @@
-Tricholoma sulphureum var. coronarium Pers. VARIETY
-=======
+# Tricholoma sulphureum (Bull. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

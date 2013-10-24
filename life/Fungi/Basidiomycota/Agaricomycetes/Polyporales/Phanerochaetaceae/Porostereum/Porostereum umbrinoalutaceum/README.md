@@ -1,14 +1,13 @@
-Lopharia umbrinoalutacea (Wakef.) A.L. Welden, 1975 SPECIES
-=======
+# Porostereum umbrinoalutaceum (Wakef.) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 67(3): 546 (1975)
+Syn. Fung. (Oslo) 4: 53 (1990)
 
 #### Original name
 Stereum umbrinoalutaceum Wakef., 1916

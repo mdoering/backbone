@@ -1,5 +1,4 @@
-Uromyces standleyanus Arthur SPECIES
-=======
+# Uromyces standleyanus Arthur SPECIES
 
 #### Status
 ACCEPTED

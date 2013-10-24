@@ -1,5 +1,4 @@
-Psorotichia hassei Fink ex J. Hedrick SPECIES
-=======
+# Psorotichia hassei Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

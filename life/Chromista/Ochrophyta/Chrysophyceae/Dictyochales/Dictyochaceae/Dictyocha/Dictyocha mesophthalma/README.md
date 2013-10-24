@@ -1,5 +1,4 @@
-Dictyocha mesophthalma Ehrenberg SPECIES
-=======
+# Dictyocha mesophthalma Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

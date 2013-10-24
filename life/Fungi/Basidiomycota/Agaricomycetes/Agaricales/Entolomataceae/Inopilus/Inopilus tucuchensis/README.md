@@ -1,5 +1,4 @@
-Inopilus tucuchensis (Dennis) Pegler SPECIES
-=======
+# Inopilus tucuchensis (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia tritici-repentis (DC.) Liro SPECIES
-=======
+# Tilletia tritici-repentis (DC.) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe australafricana Crous & Van Niekerk SPECIES
-=======
+# Diaporthe australafricana Crous & Van Niekerk SPECIES
 
 #### Status
 ACCEPTED

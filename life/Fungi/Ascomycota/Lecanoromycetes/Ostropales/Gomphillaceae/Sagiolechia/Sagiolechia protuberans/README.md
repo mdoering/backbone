@@ -1,17 +1,16 @@
-Sagiolechia protuberans f. protuberans FORM
-=======
+# Sagiolechia protuberans (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 11 (1854)
 
 #### Original name
-Sagiolechia protuberans f. protuberans
+null
 
 ### Remarks
 null

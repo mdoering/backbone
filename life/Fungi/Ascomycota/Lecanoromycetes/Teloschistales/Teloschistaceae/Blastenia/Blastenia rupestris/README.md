@@ -1,5 +1,4 @@
-Blastenia rupestris var. rupestris Scop. VARIETY
-=======
+# Blastenia rupestris Scop. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Blastenia rupestris var. rupestris Scop.
+Blastenia rupestris Scop.
 
 ### Remarks
 null

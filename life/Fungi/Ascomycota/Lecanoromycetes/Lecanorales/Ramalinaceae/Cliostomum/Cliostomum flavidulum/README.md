@@ -1,17 +1,16 @@
-Lecanora navarrensis Etayo SPECIES
-=======
+# Cliostomum flavidulum Hafellner & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 46: 454 (1993)
+in Kalb & Hafellner, Herzogia 9(1-2): 61 (1992)
 
 #### Original name
-Lecanora navarrensis Etayo
+Cliostomum flavidulum Hafellner & Kalb
 
 ### Remarks
 null

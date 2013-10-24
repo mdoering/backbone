@@ -1,5 +1,4 @@
-Stemphylium pisi X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium pisi X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

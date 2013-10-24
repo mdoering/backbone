@@ -1,8 +1,7 @@
-Marteilia maurini Le Roux, Lorenzo, Peyret, Audemard, Figueras, Vivarès, Gouy & Berthe, 2001 SPECIES
-=======
+# Marteilia refringens Grizel, Comps, Bonami, Cousserans, Duthoit & Le Pennec, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

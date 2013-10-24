@@ -1,5 +1,4 @@
-Hyponectria gossypii (Schwein.) Sacc. SPECIES
-=======
+# Hyponectria gossypii (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

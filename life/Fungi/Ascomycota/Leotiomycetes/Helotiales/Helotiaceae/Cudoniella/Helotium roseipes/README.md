@@ -1,5 +1,4 @@
-Helotium roseipes Velen. SPECIES
-=======
+# Helotium roseipes Velen. SPECIES
 
 #### Status
 ACCEPTED

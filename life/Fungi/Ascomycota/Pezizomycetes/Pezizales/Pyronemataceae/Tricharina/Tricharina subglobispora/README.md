@@ -1,5 +1,4 @@
-Tricharina subglobispora Svrcek SPECIES
-=======
+# Tricharina subglobispora Svrcek SPECIES
 
 #### Status
 ACCEPTED

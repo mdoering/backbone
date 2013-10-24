@@ -1,5 +1,4 @@
-Mycena hypsizyga Singer SPECIES
-=======
+# Mycena hypsizyga Singer SPECIES
 
 #### Status
 ACCEPTED

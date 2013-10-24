@@ -1,5 +1,4 @@
-Leucoagaricus subcretaceus Bon, 1981 SPECIES
-=======
+# Leucoagaricus subcretaceus Bon, 1981 SPECIES
 
 #### Status
 ACCEPTED

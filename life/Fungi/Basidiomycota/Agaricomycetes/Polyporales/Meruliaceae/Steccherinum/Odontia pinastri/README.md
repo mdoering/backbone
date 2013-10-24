@@ -1,5 +1,4 @@
-Odontia pinastri Quél. SPECIES
-=======
+# Odontia pinastri Quél. SPECIES
 
 #### Status
 ACCEPTED

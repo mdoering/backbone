@@ -1,5 +1,4 @@
-Olpitrichum sphaerosporum Matsush., 1975 SPECIES
-=======
+# Olpitrichum sphaerosporum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

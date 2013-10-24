@@ -1,5 +1,4 @@
-Girgisia O. Varol, 1989 GENUS
-=======
+# Girgisia O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

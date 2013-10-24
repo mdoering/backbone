@@ -1,5 +1,4 @@
-Phyllosticta pimpinellae Cejp et al. {?} SPECIES
-=======
+# Phyllosticta pimpinellae Cejp et al. {?} SPECIES
 
 #### Status
 ACCEPTED

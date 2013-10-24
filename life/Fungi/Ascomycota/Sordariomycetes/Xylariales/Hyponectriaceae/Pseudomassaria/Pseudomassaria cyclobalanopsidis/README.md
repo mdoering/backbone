@@ -1,5 +1,4 @@
-Pseudomassaria cyclobalanopsidis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Pseudomassaria cyclobalanopsidis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

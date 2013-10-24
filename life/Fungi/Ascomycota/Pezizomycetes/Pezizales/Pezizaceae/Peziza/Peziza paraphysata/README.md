@@ -1,5 +1,4 @@
-Peziza paraphysata Clem. SPECIES
-=======
+# Peziza paraphysata Clem. SPECIES
 
 #### Status
 ACCEPTED

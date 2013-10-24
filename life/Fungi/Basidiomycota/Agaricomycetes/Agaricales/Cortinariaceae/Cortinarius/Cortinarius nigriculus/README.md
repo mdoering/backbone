@@ -1,5 +1,4 @@
-Cortinarius nigriculus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius nigriculus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

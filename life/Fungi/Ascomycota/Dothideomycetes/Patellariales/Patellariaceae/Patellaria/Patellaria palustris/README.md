@@ -1,5 +1,4 @@
-Patellaria palustris Curr. SPECIES
-=======
+# Patellaria palustris Curr. SPECIES
 
 #### Status
 ACCEPTED

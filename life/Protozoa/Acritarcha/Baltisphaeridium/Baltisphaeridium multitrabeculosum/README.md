@@ -1,5 +1,4 @@
-Baltisphaeridium multitrabeculosum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium multitrabeculosum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

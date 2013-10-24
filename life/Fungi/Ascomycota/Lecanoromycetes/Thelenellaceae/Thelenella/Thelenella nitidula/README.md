@@ -1,5 +1,4 @@
-Thelenella nitidula Malme SPECIES
-=======
+# Thelenella nitidula Malme SPECIES
 
 #### Status
 ACCEPTED

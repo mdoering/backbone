@@ -1,5 +1,4 @@
-Lichen acicularis Sm. & Sowerby SPECIES
-=======
+# Lichen acicularis Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

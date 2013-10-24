@@ -1,5 +1,4 @@
-Pleospora infernaiis SPECIES
-=======
+# Pleospora infernaiis SPECIES
 
 #### Status
 ACCEPTED

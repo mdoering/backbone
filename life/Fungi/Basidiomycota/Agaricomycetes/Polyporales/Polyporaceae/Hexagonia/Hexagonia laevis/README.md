@@ -1,5 +1,4 @@
-Hexagonia laevis Berk. ex Cooke SPECIES
-=======
+# Hexagonia laevis Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

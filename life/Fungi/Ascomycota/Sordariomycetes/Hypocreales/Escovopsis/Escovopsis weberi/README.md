@@ -1,17 +1,16 @@
-Escovopsis weberii J.J. Muchovej & Della Lucia SPECIES
-=======
+# Escovopsis weberi J.J. Muchovej & Della Lucia, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 37: 192 (1990)
 
 #### Original name
-Escovopsis weberii J.J. Muchovej & Della Lucia
+Escovopsis weberi J.J. Muchovej & Della Lucia, 1990
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Mollisia benesuada var. benesuada VARIETY
-=======
+# Pyrenopeziza benesuada (Tul.) Gremmen, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 174 (1887)
+Fungus 28: 42 (1958)
 
 #### Original name
-Mollisia benesuada var. benesuada
+Peziza benesuada Tul.
 
 ### Remarks
 null

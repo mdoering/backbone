@@ -1,5 +1,4 @@
-Ceratocystis microspora (Arx) SPECIES
-=======
+# Ceratocystis microspora (Arx) SPECIES
 
 #### Status
 ACCEPTED

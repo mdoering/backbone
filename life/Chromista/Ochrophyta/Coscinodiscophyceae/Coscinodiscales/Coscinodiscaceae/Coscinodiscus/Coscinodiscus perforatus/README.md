@@ -1,5 +1,4 @@
-Coscinodiscus perforatus var. pavillardii (Forti) Hust., 1928 VARIETY
-=======
+# Coscinodiscus perforatus Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

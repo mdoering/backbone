@@ -1,14 +1,13 @@
-Cephalotrichum mimimum (Fr.) Sacc. SPECIES
-=======
+# Cephalotrichum minimum (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 612 (1895)
 
 #### Original name
 Actinocladium minimum Fr.

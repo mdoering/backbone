@@ -1,8 +1,7 @@
-Gymnoderma coccocarpum Nyl. SPECIES
-=======
+# Cladonia coccocarpa (Nyl.) A. Evans SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Gymnoderma coccocarpum Nyl.
 
 ### Remarks
 null

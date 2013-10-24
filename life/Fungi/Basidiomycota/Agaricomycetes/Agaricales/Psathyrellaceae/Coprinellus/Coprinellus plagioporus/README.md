@@ -1,14 +1,13 @@
-Coprinus plagioporus Romagn., 1941 SPECIES
-=======
+# Coprinellus plagioporus (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 6: 126 (1941)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
 Coprinus plagioporus Romagn., 1941

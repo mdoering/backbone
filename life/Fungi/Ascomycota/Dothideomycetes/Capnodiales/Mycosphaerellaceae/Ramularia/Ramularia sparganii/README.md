@@ -1,5 +1,4 @@
-Ramularia sparganii Rostr., 1883 SPECIES
-=======
+# Ramularia sparganii Rostr., 1883 SPECIES
 
 #### Status
 ACCEPTED

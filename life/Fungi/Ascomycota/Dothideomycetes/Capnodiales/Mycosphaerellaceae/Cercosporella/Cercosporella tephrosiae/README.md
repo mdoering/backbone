@@ -1,5 +1,4 @@
-Cercosporella tephrosiae H.C. Greene SPECIES
-=======
+# Cercosporella tephrosiae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

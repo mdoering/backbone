@@ -1,5 +1,4 @@
-Mycena juncicola (Fr.) Gillet SPECIES
-=======
+# Mycena juncicola (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

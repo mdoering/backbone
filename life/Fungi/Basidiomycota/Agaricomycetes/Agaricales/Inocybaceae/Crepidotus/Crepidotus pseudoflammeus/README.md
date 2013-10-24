@@ -1,5 +1,4 @@
-Crepidotus pseudoflammeus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus pseudoflammeus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

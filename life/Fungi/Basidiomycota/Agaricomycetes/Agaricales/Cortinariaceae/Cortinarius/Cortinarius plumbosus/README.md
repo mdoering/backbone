@@ -1,5 +1,4 @@
-Cortinarius plumbosus Fr. SPECIES
-=======
+# Cortinarius plumbosus Fr. SPECIES
 
 #### Status
 ACCEPTED

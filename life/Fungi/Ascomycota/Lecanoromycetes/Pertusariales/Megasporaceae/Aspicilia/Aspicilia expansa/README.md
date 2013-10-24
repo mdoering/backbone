@@ -1,5 +1,4 @@
-Aspicilia expansa (Lynge) Alstrup & E.S. Hansen SPECIES
-=======
+# Aspicilia expansa (Lynge) Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

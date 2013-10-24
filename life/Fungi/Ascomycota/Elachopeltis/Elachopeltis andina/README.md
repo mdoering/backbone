@@ -1,5 +1,4 @@
-Elachopeltis andina Petr. SPECIES
-=======
+# Elachopeltis andina Petr. SPECIES
 
 #### Status
 ACCEPTED

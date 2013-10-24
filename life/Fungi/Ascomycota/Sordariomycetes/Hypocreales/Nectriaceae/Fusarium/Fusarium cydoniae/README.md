@@ -1,5 +1,4 @@
-Fusarium cydoniae Allesch. SPECIES
-=======
+# Fusarium cydoniae Allesch. SPECIES
 
 #### Status
 ACCEPTED

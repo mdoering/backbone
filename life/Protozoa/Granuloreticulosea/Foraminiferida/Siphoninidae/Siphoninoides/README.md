@@ -1,14 +1,13 @@
-Siphonoides Cushman, 1927 GENUS
-=======
+# Siphoninoides Cushman, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contrib. Cushman Lab. Foram. Res. , 3, 77.
 
 #### Original name
 null

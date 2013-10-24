@@ -1,5 +1,4 @@
-Erioderma javancium SPECIES
-=======
+# Erioderma javancium SPECIES
 
 #### Status
 ACCEPTED

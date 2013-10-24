@@ -1,5 +1,4 @@
-Exidia lobata Sommerf. SPECIES
-=======
+# Exidia lobata Sommerf. SPECIES
 
 #### Status
 ACCEPTED

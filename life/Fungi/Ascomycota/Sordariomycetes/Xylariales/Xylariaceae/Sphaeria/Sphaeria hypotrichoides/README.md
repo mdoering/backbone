@@ -1,5 +1,4 @@
-Sphaeria hypotrichoides Sowerby SPECIES
-=======
+# Sphaeria hypotrichoides Sowerby SPECIES
 
 #### Status
 ACCEPTED

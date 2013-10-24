@@ -1,5 +1,4 @@
-Xanthocarpia GENUS
-=======
+# Xanthocarpia GENUS
 
 #### Status
 ACCEPTED

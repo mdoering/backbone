@@ -1,5 +1,4 @@
-Cladonia subrangiformis var. subrangiformis VARIETY
-=======
+# Cladonia furcata (Huds.) Schrad. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia subrangiformis var. subrangiformis
+null
 
 ### Remarks
 null

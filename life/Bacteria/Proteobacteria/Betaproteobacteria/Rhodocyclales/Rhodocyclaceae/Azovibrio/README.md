@@ -1,5 +1,4 @@
-Azovibrio Reinhold-Hurek & Hurek, 2000 GENUS
-=======
+# Azovibrio Reinhold-Hurek & Hurek, 2000 GENUS
 
 #### Status
 ACCEPTED

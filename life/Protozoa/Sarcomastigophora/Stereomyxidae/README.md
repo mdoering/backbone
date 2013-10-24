@@ -1,5 +1,4 @@
-Stereomyxidae FAMILY
-=======
+# Stereomyxidae FAMILY
 
 #### Status
 ACCEPTED

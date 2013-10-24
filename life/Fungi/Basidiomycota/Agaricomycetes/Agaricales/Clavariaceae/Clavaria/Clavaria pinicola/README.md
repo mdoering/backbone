@@ -1,5 +1,4 @@
-Clavaria pinicola Burt SPECIES
-=======
+# Clavaria pinicola Burt SPECIES
 
 #### Status
 ACCEPTED

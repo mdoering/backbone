@@ -1,5 +1,4 @@
-Marasmius albogriseus (Peck) Singer SPECIES
-=======
+# Marasmius albogriseus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

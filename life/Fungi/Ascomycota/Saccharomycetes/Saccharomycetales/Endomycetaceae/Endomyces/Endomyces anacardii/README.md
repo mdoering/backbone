@@ -1,5 +1,4 @@
-Endomyces anacardii Mello SPECIES
-=======
+# Endomyces anacardii Mello SPECIES
 
 #### Status
 ACCEPTED

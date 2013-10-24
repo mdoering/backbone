@@ -1,5 +1,4 @@
-Tulostoma opacum Long SPECIES
-=======
+# Tulostoma opacum Long SPECIES
 
 #### Status
 ACCEPTED

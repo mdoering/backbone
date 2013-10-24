@@ -1,5 +1,4 @@
-Haplosporium bulborum Durieu & Mont. SPECIES
-=======
+# Haplosporium bulborum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

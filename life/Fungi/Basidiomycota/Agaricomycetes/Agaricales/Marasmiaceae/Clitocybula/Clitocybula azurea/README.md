@@ -1,5 +1,4 @@
-Clitocybula azurea Singer SPECIES
-=======
+# Clitocybula azurea Singer SPECIES
 
 #### Status
 ACCEPTED

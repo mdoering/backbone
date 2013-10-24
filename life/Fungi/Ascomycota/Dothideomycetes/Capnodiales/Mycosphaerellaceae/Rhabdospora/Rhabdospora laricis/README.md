@@ -1,5 +1,4 @@
-Rhabdospora laricis Gutner SPECIES
-=======
+# Rhabdospora laricis Gutner SPECIES
 
 #### Status
 ACCEPTED

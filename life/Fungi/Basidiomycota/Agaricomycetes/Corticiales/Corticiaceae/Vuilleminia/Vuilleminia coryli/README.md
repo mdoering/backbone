@@ -1,8 +1,7 @@
-Vuilleminia coryli var. coryli Boidin, Lanq. & Gilles, 1989 VARIETY
-=======
+# Vuilleminia coryli Boidin, Lanq. & Gilles, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Bull. trimest. Soc. mycol. Fr. 105(2): 164 (1989)
 
 #### Original name
-Vuilleminia coryli var. coryli Boidin, Lanq. & Gilles, 1989
+Vuilleminia coryli Boidin, Lanq. & Gilles, 1989
 
 ### Remarks
 null

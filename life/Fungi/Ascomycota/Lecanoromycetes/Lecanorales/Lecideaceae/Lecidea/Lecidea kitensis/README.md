@@ -1,5 +1,4 @@
-Lecidea kitensis Stirt. SPECIES
-=======
+# Lecidea kitensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

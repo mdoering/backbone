@@ -1,5 +1,4 @@
-Phyllactinia schweinitzii Lév. SPECIES
-=======
+# Phyllactinia schweinitzii Lév. SPECIES
 
 #### Status
 ACCEPTED

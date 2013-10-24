@@ -1,5 +1,4 @@
-Graphina acromelaena var. acromelaena VARIETY
-=======
+# Graphina acromelaena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina acromelaena var. acromelaena
+Graphina acromelaena Müll. Arg.
 
 ### Remarks
 null

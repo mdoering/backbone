@@ -1,5 +1,4 @@
-Leptoniella multicolor (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Leptoniella multicolor (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella angustana Ferraris SPECIES
-=======
+# Cercosporella angustana Ferraris SPECIES
 
 #### Status
 ACCEPTED

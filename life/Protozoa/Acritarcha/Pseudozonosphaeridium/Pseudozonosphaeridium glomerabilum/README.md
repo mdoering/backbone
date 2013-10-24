@@ -1,5 +1,4 @@
-Pseudozonosphaeridium glomerabilum Andreeva, 1962 SPECIES
-=======
+# Pseudozonosphaeridium glomerabilum Andreeva, 1962 SPECIES
 
 #### Status
 ACCEPTED

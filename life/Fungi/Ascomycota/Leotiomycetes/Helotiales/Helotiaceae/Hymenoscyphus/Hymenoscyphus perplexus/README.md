@@ -1,5 +1,4 @@
-Hymenoscyphus perplexus Spooner & Dennis, 1986 SPECIES
-=======
+# Hymenoscyphus perplexus Spooner & Dennis, 1986 SPECIES
 
 #### Status
 ACCEPTED

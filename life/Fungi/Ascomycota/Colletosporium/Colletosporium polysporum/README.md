@@ -1,5 +1,4 @@
-Colletosporium polysporum Corda SPECIES
-=======
+# Colletosporium polysporum Corda SPECIES
 
 #### Status
 ACCEPTED

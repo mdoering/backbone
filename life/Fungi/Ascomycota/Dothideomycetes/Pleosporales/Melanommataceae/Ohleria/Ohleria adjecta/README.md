@@ -1,5 +1,4 @@
-Ohleria adjecta Pass. SPECIES
-=======
+# Ohleria adjecta Pass. SPECIES
 
 #### Status
 ACCEPTED

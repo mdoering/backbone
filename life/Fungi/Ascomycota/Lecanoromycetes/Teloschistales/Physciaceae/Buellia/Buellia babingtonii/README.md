@@ -1,5 +1,4 @@
-Buellia babingtonii (Hook. f. & Taylor) I.M. Lamb ex C.W. Dodge SPECIES
-=======
+# Buellia babingtonii (Hook. f. & Taylor) I.M. Lamb ex C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

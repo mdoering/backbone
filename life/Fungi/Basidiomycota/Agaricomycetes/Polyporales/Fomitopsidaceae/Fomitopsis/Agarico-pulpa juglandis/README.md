@@ -1,5 +1,4 @@
-Agarico-pulpa juglandis Paulet SPECIES
-=======
+# Agarico-pulpa juglandis Paulet SPECIES
 
 #### Status
 ACCEPTED

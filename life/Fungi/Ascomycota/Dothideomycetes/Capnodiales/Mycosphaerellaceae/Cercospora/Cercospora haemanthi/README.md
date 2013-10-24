@@ -1,5 +1,4 @@
-Cercospora haemanthi Kalchbr. & Cooke SPECIES
-=======
+# Cercospora haemanthi Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

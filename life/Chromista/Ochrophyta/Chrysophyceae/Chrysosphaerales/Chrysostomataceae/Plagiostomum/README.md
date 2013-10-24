@@ -1,5 +1,4 @@
-Plagiostomum Zanon, 1947 GENUS
-=======
+# Plagiostomum Zanon, 1947 GENUS
 
 #### Status
 ACCEPTED

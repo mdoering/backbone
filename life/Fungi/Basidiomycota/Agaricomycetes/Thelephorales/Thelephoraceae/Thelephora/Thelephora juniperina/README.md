@@ -1,5 +1,4 @@
-Thelephora juniperina Weinm. SPECIES
-=======
+# Thelephora juniperina Weinm. SPECIES
 
 #### Status
 ACCEPTED

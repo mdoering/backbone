@@ -1,5 +1,4 @@
-Coniothyrium leptospermi (Cooke) Kuntze SPECIES
-=======
+# Coniothyrium leptospermi (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

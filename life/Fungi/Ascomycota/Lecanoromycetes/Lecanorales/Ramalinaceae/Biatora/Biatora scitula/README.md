@@ -1,5 +1,4 @@
-Biatora scitula (Tuck.) SPECIES
-=======
+# Biatora scitula (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

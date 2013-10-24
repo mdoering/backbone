@@ -1,5 +1,4 @@
-Morenoina minuta J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina minuta J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

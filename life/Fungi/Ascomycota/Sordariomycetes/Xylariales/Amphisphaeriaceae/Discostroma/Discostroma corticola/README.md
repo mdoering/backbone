@@ -1,17 +1,16 @@
-Metasphaeria corticola f. corticola FORM
-=======
+# Discostroma corticola (Fuckel) Brockmann, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 166 (1883)
+Sydowia 28: 313 (1976)
 
 #### Original name
-Metasphaeria corticola f. corticola
+Sphaeria corticola Fuckel, 1870
 
 ### Remarks
 null

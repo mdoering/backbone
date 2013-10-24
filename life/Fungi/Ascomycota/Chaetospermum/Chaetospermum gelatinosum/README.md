@@ -1,5 +1,4 @@
-Chaetospermum gelatinosum Petch SPECIES
-=======
+# Chaetospermum gelatinosum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglossum olivaceisquamulosum Grund & K.A. Harrison SPECIES
-=======
+# Microglossum olivaceisquamulosum Grund & K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

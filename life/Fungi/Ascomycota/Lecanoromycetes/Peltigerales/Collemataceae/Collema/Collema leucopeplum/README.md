@@ -1,5 +1,4 @@
-Collema leucopeplum (Tuck.) A. Schneid. SPECIES
-=======
+# Collema leucopeplum (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

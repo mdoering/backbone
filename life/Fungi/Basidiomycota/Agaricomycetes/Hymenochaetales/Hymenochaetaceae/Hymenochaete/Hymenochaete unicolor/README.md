@@ -1,14 +1,13 @@
-Hymenochaetella unicolor (Berk. & M.A. Curtis) P. Karst., 1896 SPECIES
-=======
+# Hymenochaete unicolor Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 173 (1896)
+J. Linn. Soc. , Bot. 10(no. 46): 335 (1868)
 
 #### Original name
 Hymenochaete unicolor Berk. & M.A. Curtis, 1868

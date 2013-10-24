@@ -1,5 +1,4 @@
-Oidium stachytarphetae J.M. Yen SPECIES
-=======
+# Oidium stachytarphetae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

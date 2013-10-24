@@ -1,5 +1,4 @@
-Merulius rugulosus Berk. & M.A. Curtis SPECIES
-=======
+# Merulius rugulosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

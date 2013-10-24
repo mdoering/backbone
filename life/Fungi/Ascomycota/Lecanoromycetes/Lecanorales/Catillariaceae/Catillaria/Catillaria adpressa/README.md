@@ -1,5 +1,4 @@
-Catillaria adpressa (Hepp) Schuler SPECIES
-=======
+# Catillaria adpressa (Hepp) Schuler SPECIES
 
 #### Status
 ACCEPTED

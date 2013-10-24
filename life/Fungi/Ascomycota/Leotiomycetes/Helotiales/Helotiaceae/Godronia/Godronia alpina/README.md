@@ -1,5 +1,4 @@
-Godronia alpina M.P. Sharma & K.S. Thind SPECIES
-=======
+# Godronia alpina M.P. Sharma & K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

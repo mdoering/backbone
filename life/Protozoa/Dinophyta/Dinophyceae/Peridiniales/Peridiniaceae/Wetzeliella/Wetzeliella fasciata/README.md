@@ -1,5 +1,4 @@
-Wetzeliella fasciata (B. Rozen) L.I. Costa & C. Downie SPECIES
-=======
+# Wetzeliella fasciata (B. Rozen) L.I. Costa & C. Downie SPECIES
 
 #### Status
 ACCEPTED

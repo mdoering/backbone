@@ -1,5 +1,4 @@
-Aspidisca irinae Burkovsky, 1970 SPECIES
-=======
+# Aspidisca irinae Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

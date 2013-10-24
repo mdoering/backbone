@@ -1,5 +1,4 @@
-Asterophora trichioides Fr. SPECIES
-=======
+# Asterophora trichioides Fr. SPECIES
 
 #### Status
 ACCEPTED

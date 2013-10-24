@@ -1,5 +1,4 @@
-Candida kipukae Lachance, J.M. Bowles & Starmer SPECIES
-=======
+# Candida kipukae Lachance, J.M. Bowles & Starmer SPECIES
 
 #### Status
 ACCEPTED

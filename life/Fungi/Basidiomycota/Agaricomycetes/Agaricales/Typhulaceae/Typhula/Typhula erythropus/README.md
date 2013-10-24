@@ -1,17 +1,16 @@
-Clavaria erythropus var. erythropus VARIETY
-=======
+# Typhula erythropus (Pers.) Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Havniae) 2: 297 (1818)
 
 #### Original name
-null
+Clavaria erythropus Pers., 1794
 
 ### Remarks
 null

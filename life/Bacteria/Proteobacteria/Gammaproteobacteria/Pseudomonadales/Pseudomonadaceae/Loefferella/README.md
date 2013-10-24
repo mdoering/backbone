@@ -1,5 +1,4 @@
-Loefferella GENUS
-=======
+# Loefferella GENUS
 
 #### Status
 ACCEPTED

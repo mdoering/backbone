@@ -1,5 +1,4 @@
-Cosmospora stilbellae (Samuels & Seifert) Rossman & Samuels SPECIES
-=======
+# Cosmospora stilbellae (Samuels & Seifert) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

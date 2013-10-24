@@ -1,5 +1,4 @@
-Stictis inconstans P.R. Johnst. SPECIES
-=======
+# Stictis inconstans P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

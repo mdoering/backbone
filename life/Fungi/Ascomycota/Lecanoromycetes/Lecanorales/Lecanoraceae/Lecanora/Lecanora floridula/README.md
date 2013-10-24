@@ -1,5 +1,4 @@
-Lecanora floridula Lumbsch SPECIES
-=======
+# Lecanora floridula Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium guizhouanum H.Z. Kong SPECIES
-=======
+# Penicillium guizhouanum H.Z. Kong SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipyxis ramosa (Lauterborn) Hilliard & Asmund SPECIES
-=======
+# Epipyxis ramosa (Lauterborn) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

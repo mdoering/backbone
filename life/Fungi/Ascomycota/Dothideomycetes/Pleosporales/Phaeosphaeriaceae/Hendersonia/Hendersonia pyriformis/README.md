@@ -1,5 +1,4 @@
-Hendersonia pyriformis G.H. Otth SPECIES
-=======
+# Hendersonia pyriformis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

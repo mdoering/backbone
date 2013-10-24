@@ -1,5 +1,4 @@
-Discorbis margaritifera (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis margaritifera (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

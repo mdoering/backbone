@@ -1,5 +1,4 @@
-Vorticella sinuata Zacharias, 1903 SPECIES
-=======
+# Vorticella sinuata Zacharias, 1903 SPECIES
 
 #### Status
 ACCEPTED

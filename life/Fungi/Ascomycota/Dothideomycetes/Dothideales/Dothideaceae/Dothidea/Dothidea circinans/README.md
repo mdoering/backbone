@@ -1,5 +1,4 @@
-Dothidea circinans Roum. SPECIES
-=======
+# Dothidea circinans Roum. SPECIES
 
 #### Status
 ACCEPTED

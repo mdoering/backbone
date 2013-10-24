@@ -1,5 +1,4 @@
-Helminthosporium purpurascens Bourne SPECIES
-=======
+# Helminthosporium purpurascens Bourne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piggotia filicina Thüm. SPECIES
-=======
+# Piggotia filicina Thüm. SPECIES
 
 #### Status
 ACCEPTED

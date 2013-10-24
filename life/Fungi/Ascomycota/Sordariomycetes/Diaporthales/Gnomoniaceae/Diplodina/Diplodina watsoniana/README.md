@@ -1,5 +1,4 @@
-Diplodina watsoniana Tassi, 1900 SPECIES
-=======
+# Diplodina watsoniana Tassi, 1900 SPECIES
 
 #### Status
 ACCEPTED

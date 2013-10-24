@@ -1,5 +1,4 @@
-Hypocrella calendulina Hywel-Jones & Mongkolsamrit SPECIES
-=======
+# Hypocrella calendulina Hywel-Jones & Mongkolsamrit SPECIES
 
 #### Status
 ACCEPTED

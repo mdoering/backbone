@@ -1,5 +1,4 @@
-Galera burkillii Massee SPECIES
-=======
+# Galera burkillii Massee SPECIES
 
 #### Status
 ACCEPTED

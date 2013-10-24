@@ -1,5 +1,4 @@
-Collema diffractum Nyl. SPECIES
-=======
+# Collema diffractum Nyl. SPECIES
 
 #### Status
 ACCEPTED

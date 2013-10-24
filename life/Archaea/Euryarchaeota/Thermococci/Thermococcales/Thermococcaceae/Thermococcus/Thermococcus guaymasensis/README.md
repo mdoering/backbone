@@ -1,5 +1,4 @@
-Thermococcus guaymasensis Canganella et al., 1998 SPECIES
-=======
+# Thermococcus guaymasensis Canganella et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

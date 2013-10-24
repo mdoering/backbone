@@ -1,8 +1,7 @@
-Epiplocylis ralumensis (Brandt, 1901) SPECIES
-=======
+# Epiplocyloides ralumensis (Brandt, 1906) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

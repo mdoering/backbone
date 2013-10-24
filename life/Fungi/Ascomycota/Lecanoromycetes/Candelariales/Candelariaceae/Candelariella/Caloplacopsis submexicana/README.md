@@ -1,5 +1,4 @@
-Caloplacopsis submexicana (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Caloplacopsis submexicana (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bipolaris olyrae (Viégas) Shoemaker SPECIES
-=======
+# Bipolaris olyrae (Viégas) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrera cymbalifera (G. Mey.) Trevis. SPECIES
-=======
+# Borrera cymbalifera (G. Mey.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

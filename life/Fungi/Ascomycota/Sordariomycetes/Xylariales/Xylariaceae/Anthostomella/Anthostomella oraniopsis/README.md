@@ -1,5 +1,4 @@
-Anthostomella oraniopsis K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
-=======
+# Anthostomella oraniopsis K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
 ACCEPTED

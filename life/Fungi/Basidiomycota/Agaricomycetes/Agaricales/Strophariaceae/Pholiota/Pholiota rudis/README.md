@@ -1,5 +1,4 @@
-Pholiota rudis Rick SPECIES
-=======
+# Pholiota rudis Rick SPECIES
 
 #### Status
 ACCEPTED

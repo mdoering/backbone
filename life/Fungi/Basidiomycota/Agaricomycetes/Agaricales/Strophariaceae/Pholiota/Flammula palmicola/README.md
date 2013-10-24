@@ -1,5 +1,4 @@
-Flammula palmicola Murrill SPECIES
-=======
+# Flammula palmicola Murrill SPECIES
 
 #### Status
 ACCEPTED

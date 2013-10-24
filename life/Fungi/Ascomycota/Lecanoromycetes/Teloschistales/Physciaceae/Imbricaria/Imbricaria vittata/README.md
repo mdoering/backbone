@@ -1,5 +1,4 @@
-Imbricaria vittata (Ach.) Arnold SPECIES
-=======
+# Imbricaria vittata (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

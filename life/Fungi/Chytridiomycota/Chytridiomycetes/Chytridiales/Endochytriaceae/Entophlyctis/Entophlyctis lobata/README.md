@@ -1,5 +1,4 @@
-Entophlyctis lobata Willoughby & Townley, 1961 SPECIES
-=======
+# Entophlyctis lobata Willoughby & Townley, 1961 SPECIES
 
 #### Status
 ACCEPTED

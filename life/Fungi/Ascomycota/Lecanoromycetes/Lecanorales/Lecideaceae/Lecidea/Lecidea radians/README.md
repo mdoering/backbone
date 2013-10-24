@@ -1,5 +1,4 @@
-Lecidea radians Hue SPECIES
-=======
+# Lecidea radians Hue SPECIES
 
 #### Status
 ACCEPTED

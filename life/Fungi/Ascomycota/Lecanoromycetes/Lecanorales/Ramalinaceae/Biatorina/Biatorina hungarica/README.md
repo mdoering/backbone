@@ -1,5 +1,4 @@
-Biatorina hungarica Bentz.-Stern. SPECIES
-=======
+# Biatorina hungarica Bentz.-Stern. SPECIES
 
 #### Status
 ACCEPTED

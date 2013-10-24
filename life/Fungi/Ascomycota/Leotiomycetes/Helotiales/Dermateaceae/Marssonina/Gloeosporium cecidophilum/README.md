@@ -1,5 +1,4 @@
-Gloeosporium cecidophilum Trotter SPECIES
-=======
+# Gloeosporium cecidophilum Trotter SPECIES
 
 #### Status
 ACCEPTED

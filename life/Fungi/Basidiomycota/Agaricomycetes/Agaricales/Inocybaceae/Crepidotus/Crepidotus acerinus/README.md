@@ -1,5 +1,4 @@
-Crepidotus acerinus Vacek SPECIES
-=======
+# Crepidotus acerinus Vacek SPECIES
 
 #### Status
 ACCEPTED

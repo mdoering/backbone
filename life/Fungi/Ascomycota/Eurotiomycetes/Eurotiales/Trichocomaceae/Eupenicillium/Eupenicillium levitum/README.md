@@ -1,14 +1,13 @@
-Penicillium levitum Raper & Fennell, 1948 SPECIES
-=======
+# Eupenicillium levitum (Raper & Fennell) Stolk & D.B. Scott, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(5): 511 (1948)
+Persoonia 4(4): 402 (1967)
 
 #### Original name
 Penicillium levitum Raper & Fennell, 1948

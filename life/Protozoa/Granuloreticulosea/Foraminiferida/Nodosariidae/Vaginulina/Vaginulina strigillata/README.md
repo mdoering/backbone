@@ -1,5 +1,4 @@
-Vaginulina strigillata Reuss SPECIES
-=======
+# Vaginulina strigillata Reuss SPECIES
 
 #### Status
 ACCEPTED

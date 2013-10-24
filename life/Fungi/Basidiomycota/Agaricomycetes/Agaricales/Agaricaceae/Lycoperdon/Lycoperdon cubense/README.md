@@ -1,5 +1,4 @@
-Lycoperdon cubense Berk. SPECIES
-=======
+# Lycoperdon cubense Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina laciniata (Bull.) Bres. SPECIES
-=======
+# Sebacina laciniata (Bull.) Bres. SPECIES
 
 #### Status
 ACCEPTED

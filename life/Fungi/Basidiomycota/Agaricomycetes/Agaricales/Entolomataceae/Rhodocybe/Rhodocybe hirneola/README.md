@@ -1,17 +1,16 @@
-Clitocybe hirneola subsp. undulata (Bull.) Sacc. SUBSPECIES
-=======
+# Rhodocybe hirneola (Fr.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 146 (1887)
+Trans. Br. mycol. Soc. 43: 181 (1960)
 
 #### Original name
-Agaricus undulatus Hoffm., 1797
+Agaricus hirneolus Fr., 1818
 
 ### Remarks
 null

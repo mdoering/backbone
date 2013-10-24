@@ -1,5 +1,4 @@
-Agaricochaete keniensis Pegler, 1977 SPECIES
-=======
+# Agaricochaete keniensis Pegler, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tokophrya biloba SPECIES
-=======
+# Tokophrya biloba SPECIES
 
 #### Status
 ACCEPTED

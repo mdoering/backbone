@@ -1,5 +1,4 @@
-Anthostomella starcii Syd. SPECIES
-=======
+# Anthostomella starcii Syd. SPECIES
 
 #### Status
 ACCEPTED

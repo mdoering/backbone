@@ -1,5 +1,4 @@
-Globobulimina perversa (Cushman, 1921) SPECIES
-=======
+# Globobulimina perversa (Cushman, 1921) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella chenopodiicola Speg. SPECIES
-=======
+# Sphaerella chenopodiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

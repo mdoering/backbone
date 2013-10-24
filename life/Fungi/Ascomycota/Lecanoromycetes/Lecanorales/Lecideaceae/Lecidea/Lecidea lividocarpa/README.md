@@ -1,5 +1,4 @@
-Lecidea lividocarpa Kremp. SPECIES
-=======
+# Lecidea lividocarpa Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis coccinea (Schultz) Röhl. SPECIES
-=======
+# Graphis coccinea (Schultz) Röhl. SPECIES
 
 #### Status
 ACCEPTED

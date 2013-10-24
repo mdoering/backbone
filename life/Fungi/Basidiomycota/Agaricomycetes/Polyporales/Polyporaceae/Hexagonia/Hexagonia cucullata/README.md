@@ -1,5 +1,4 @@
-Hexagonia cucullata (Mont.) Murrill SPECIES
-=======
+# Hexagonia cucullata (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

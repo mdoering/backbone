@@ -1,5 +1,4 @@
-Thyrostroma utahense (Sacc.) Petr. SPECIES
-=======
+# Thyrostroma utahense (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

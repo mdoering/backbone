@@ -1,17 +1,16 @@
-Physcia muscigena f. muscigena FORM
-=======
+# Physconia muscigena (Ach.) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 9: 30 (1965)
 
 #### Original name
-Physcia muscigena f. muscigena
+Parmelia muscigena
 
 ### Remarks
 null

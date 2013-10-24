@@ -1,5 +1,4 @@
-Cortinarius fragilipes Cleland SPECIES
-=======
+# Cortinarius fragilipes Cleland SPECIES
 
 #### Status
 ACCEPTED

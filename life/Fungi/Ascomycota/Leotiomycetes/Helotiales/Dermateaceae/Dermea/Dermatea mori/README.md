@@ -1,5 +1,4 @@
-Dermatea mori Peck SPECIES
-=======
+# Dermatea mori Peck SPECIES
 
 #### Status
 ACCEPTED

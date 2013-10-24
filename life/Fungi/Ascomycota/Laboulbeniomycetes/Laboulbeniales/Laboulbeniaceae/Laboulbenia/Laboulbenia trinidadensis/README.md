@@ -1,5 +1,4 @@
-Laboulbenia trinidadensis Thaxt. SPECIES
-=======
+# Laboulbenia trinidadensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

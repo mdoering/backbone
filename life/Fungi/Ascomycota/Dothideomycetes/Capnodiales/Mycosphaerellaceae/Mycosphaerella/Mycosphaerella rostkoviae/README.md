@@ -1,5 +1,4 @@
-Mycosphaerella rostkoviae (Speg.) Lindau SPECIES
-=======
+# Mycosphaerella rostkoviae (Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria elobata Tønsberg SPECIES
-=======
+# Lepraria elobata Tønsberg SPECIES
 
 #### Status
 ACCEPTED

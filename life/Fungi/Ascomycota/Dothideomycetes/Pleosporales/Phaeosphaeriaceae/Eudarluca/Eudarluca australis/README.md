@@ -1,5 +1,4 @@
-Eudarluca australis Speg., 1908 SPECIES
-=======
+# Eudarluca australis Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

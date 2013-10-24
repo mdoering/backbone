@@ -1,5 +1,4 @@
-Ovulariopsis lawsoniae Bagyan., U. Braun & Hosag. SPECIES
-=======
+# Ovulariopsis lawsoniae Bagyan., U. Braun & Hosag. SPECIES
 
 #### Status
 ACCEPTED

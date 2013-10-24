@@ -1,5 +1,4 @@
-Lophidium confertum Ellis & Everh. SPECIES
-=======
+# Lophidium confertum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

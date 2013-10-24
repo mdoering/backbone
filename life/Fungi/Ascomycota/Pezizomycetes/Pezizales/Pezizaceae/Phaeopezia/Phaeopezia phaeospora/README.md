@@ -1,5 +1,4 @@
-Phaeopezia phaeospora (Hazsl.) Sacc. SPECIES
-=======
+# Phaeopezia phaeospora (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

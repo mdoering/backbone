@@ -1,5 +1,4 @@
-Stagonospora hachijoensis J. Takeuchi & Tak. Kobay. SPECIES
-=======
+# Stagonospora hachijoensis J. Takeuchi & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

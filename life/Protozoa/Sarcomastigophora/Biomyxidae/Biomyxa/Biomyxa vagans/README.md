@@ -1,5 +1,4 @@
-Biomyxa vagans Leidy SPECIES
-=======
+# Biomyxa vagans Leidy SPECIES
 
 #### Status
 ACCEPTED

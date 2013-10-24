@@ -1,5 +1,4 @@
-Hypoxylon heliscus Mont. SPECIES
-=======
+# Hypoxylon heliscus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus edaphoni Song, 1994 SPECIES
-=======
+# Pseudomonilicaryon edaphoni (Song, 1994) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Candida picinguabensis Ruivo, Pagnocca, Lachance & C.A. Rosa, 2006 SPECIES
-=======
+# Candida picinguabensis Ruivo, Pagnocca, Lachance & C.A. Rosa, 2006 SPECIES
 
 #### Status
 ACCEPTED

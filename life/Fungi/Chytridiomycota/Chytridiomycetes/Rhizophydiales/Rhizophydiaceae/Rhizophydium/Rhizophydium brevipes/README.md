@@ -1,5 +1,4 @@
-Rhizophydium brevipes var. marinum (Kobayasi & M. Ôkubo) Karling VARIETY
-=======
+# Rhizophydium brevipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Chytridiomycet. Iconogr. (New York) 65 (1977)
+Bot. Gaz. 48(5): 325 (1909)
 
 #### Original name
-Phlyctidium brevipes var. marinum Kobayasi & M. Ôkubo
+Rhizophydium brevipes G.F. Atk.
 
 ### Remarks
 null

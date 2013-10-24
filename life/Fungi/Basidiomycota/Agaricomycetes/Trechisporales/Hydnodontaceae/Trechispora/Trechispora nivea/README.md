@@ -1,17 +1,16 @@
-Hydnum niveum var. niveum VARIETY
-=======
+# Trechispora nivea (Pers.) K.H. Larss., 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 563 (1801)
+Symb. bot. upsal. 30(no. 3): 110 (1995)
 
 #### Original name
-Hydnum niveum var. niveum
+Odontia nivea Pers., 1794
 
 ### Remarks
 null

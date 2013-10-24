@@ -1,5 +1,4 @@
-Sericeomyces subglobisporus Contu SPECIES
-=======
+# Sericeomyces subglobisporus Contu SPECIES
 
 #### Status
 ACCEPTED

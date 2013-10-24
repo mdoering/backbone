@@ -1,14 +1,13 @@
-Penicillium chartarum Cooke SPECIES
-=======
+# Gliomastix chartarum (Corda) Guég., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 21: 240 (1905)
 
 #### Original name
 Penicillium chartarum Cooke

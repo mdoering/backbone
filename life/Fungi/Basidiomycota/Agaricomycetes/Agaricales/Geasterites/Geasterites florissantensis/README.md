@@ -1,5 +1,4 @@
-Geasterites florissantensis (Cockerell) Pia SPECIES
-=======
+# Geasterites florissantensis (Cockerell) Pia SPECIES
 
 #### Status
 ACCEPTED

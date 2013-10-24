@@ -1,5 +1,4 @@
-Laminaria biruncinata Bory SPECIES
-=======
+# Laminaria biruncinata Bory SPECIES
 
 #### Status
 ACCEPTED

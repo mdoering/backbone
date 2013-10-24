@@ -1,5 +1,4 @@
-Anaptychia alba SPECIES
-=======
+# Anaptychia alba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia sabalidis (Ellis & Mart.) Seaver SPECIES
-=======
+# Mollisia sabalidis (Ellis & Mart.) Seaver SPECIES
 
 #### Status
 ACCEPTED

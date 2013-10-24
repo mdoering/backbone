@@ -1,5 +1,4 @@
-Leptosphaeria lolii Syd. {?} SPECIES
-=======
+# Leptosphaeria lolii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

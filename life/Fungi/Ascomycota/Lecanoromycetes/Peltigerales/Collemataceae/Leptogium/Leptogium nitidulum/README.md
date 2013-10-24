@@ -1,5 +1,4 @@
-Leptogium nitidulum SPECIES
-=======
+# Leptogium nitidulum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bohuslavia asterias (Weiser) J.I.R. Larsson SPECIES
-=======
+# Bohuslavia asterias (Weiser) J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bifidobacterium catenulatum Scardovi and Crociani, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium catenulatum Scardovi and Crociani, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

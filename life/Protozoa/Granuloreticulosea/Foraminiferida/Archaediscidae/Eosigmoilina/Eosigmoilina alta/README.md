@@ -1,5 +1,4 @@
-Eosigmoilina alta Saidova, 1975 SPECIES
-=======
+# Eosigmoilina alta Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

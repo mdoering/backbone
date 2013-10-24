@@ -1,17 +1,16 @@
-Leptorhaphis wienkampii var. wienkampii VARIETY
-=======
+# Leptorhaphis wienkampii SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Verh. Ver. Nat. , Heilk. Pressb. 5: 12 (1861)
+null
 
 #### Original name
-Leptorhaphis wienkampii var. wienkampii
+null
 
 ### Remarks
 null

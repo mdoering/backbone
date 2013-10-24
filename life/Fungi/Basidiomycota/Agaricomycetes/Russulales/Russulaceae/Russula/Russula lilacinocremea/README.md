@@ -1,5 +1,4 @@
-Russula lilacinocremea Romagn. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Russula lilacinocremea Romagn. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

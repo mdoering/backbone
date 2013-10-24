@@ -1,17 +1,16 @@
-Scleromium Linds. GENUS
-=======
+# Pseudographis Nylander, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 190 (1855)
 
 #### Original name
-Scleromium Linds.
+Pseudographis Nylander, 1855
 
 ### Remarks
 null

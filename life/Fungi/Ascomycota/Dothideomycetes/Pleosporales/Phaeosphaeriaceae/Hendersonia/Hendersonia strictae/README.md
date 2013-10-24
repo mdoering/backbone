@@ -1,5 +1,4 @@
-Hendersonia strictae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia strictae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

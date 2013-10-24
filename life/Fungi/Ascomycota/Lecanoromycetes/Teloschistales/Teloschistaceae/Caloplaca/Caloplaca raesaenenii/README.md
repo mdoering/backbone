@@ -1,17 +1,16 @@
-Caloplaca thuringiaca Søchting & Stordeur SPECIES
-=======
+# Caloplaca raesaenenii Bredkina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 23: 170 (1986)
 
 #### Original name
-null
+Placodium geophilum Th. Fr.
 
 ### Remarks
 null

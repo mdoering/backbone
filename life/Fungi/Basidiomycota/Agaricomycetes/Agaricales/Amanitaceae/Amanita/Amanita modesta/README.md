@@ -1,5 +1,4 @@
-Amanita modesta Corner & Bas SPECIES
-=======
+# Amanita modesta Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

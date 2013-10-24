@@ -1,14 +1,13 @@
-Bombyliospora flavocrocea (Nyl.) A. Massal. SPECIES
-=======
+# Letrouitia flavocrocea (Nyl.) Hafellner & Bellem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 35(2 & 3): 281 (1982)
 
 #### Original name
 Lecanora flavocrocea Nyl.

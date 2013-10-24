@@ -1,5 +1,4 @@
-Stereum scutellatum G. Cunn., 1956 SPECIES
-=======
+# Stereum scutellatum G. Cunn., 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina josensis Syd. {?} SPECIES
-=======
+# Cercosporina josensis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

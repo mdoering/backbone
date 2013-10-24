@@ -1,5 +1,4 @@
-Clitocybe subsocialis Peck SPECIES
-=======
+# Clitocybe subsocialis Peck SPECIES
 
 #### Status
 ACCEPTED

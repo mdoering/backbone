@@ -1,8 +1,7 @@
-Fucus antarcticus Chamisso SPECIES
-=======
+# Durvillaea antarctica (Chamisso) Hariot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Laevidentalina curta (Ujiie, 1990) SPECIES
-=======
+# Laevidentalina curta (Ujiie, 1990) SPECIES
 
 #### Status
 ACCEPTED

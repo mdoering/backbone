@@ -1,5 +1,4 @@
-Gonyostomum sinensis C.C.Jao, 1978 SPECIES
-=======
+# Gonyostomum sinensis C.C.Jao, 1978 SPECIES
 
 #### Status
 ACCEPTED

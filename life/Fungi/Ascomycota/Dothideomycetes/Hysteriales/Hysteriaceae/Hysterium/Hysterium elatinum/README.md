@@ -1,5 +1,4 @@
-Hysterium elatinum var. elatinum Fr. VARIETY
-=======
+# Hysterium elatinum ß elatinum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterium elatinum var. elatinum Fr.
+Hysterium elatinum ß elatinum Fr.
 
 ### Remarks
 null

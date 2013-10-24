@@ -1,5 +1,4 @@
-Psathyrella jacobssonii Örstadius SPECIES
-=======
+# Psathyrella jacobssonii Örstadius SPECIES
 
 #### Status
 ACCEPTED

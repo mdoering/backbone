@@ -1,5 +1,4 @@
-Exobasidium reticulatum S. Ito & Sawada, 1912 SPECIES
-=======
+# Exobasidium reticulatum S. Ito & Sawada, 1912 SPECIES
 
 #### Status
 ACCEPTED

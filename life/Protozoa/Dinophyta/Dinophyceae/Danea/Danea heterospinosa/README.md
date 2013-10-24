@@ -1,5 +1,4 @@
-Danea heterospinosa K. Matsuoka SPECIES
-=======
+# Danea heterospinosa K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

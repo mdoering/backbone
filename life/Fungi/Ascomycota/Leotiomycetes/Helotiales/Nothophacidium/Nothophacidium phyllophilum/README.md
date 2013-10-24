@@ -1,5 +1,4 @@
-Nothophacidium phyllophilum (Peck) Smerlis SPECIES
-=======
+# Nothophacidium phyllophilum (Peck) Smerlis SPECIES
 
 #### Status
 ACCEPTED

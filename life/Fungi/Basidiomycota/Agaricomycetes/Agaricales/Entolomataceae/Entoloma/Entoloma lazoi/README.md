@@ -1,5 +1,4 @@
-Entoloma lazoi E. Horak SPECIES
-=======
+# Entoloma lazoi E. Horak SPECIES
 
 #### Status
 ACCEPTED

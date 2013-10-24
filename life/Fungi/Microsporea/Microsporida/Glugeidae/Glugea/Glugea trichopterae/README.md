@@ -1,5 +1,4 @@
-Glugea trichopterae (J. Weiser) J. Weiser SPECIES
-=======
+# Glugea trichopterae (J. Weiser) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

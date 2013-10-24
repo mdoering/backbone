@@ -1,5 +1,4 @@
-Acrothecium atrum (Preuss) Sacc. SPECIES
-=======
+# Acrothecium atrum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

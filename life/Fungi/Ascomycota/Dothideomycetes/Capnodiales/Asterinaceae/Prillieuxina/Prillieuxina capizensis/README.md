@@ -1,5 +1,4 @@
-Prillieuxina capizensis (J.M. Mend.) R.W. Ryan SPECIES
-=======
+# Prillieuxina capizensis (J.M. Mend.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

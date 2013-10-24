@@ -1,5 +1,4 @@
-Druppatractona Haeckel, 1887 GENUS
-=======
+# Druppatractona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

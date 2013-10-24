@@ -1,14 +1,13 @@
-Lepteutypa concentrica (M.E. Barr) Arx, 1981 SPECIES
-=======
+# Pestalosphaeria concentrica M.E. Barr, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 174 (1981)
+Mycologia 67(1): 188 (1975)
 
 #### Original name
 Pestalosphaeria concentrica M.E. Barr, 1975

@@ -1,5 +1,4 @@
-Sphaenospora GENUS
-=======
+# Sphaenospora GENUS
 
 #### Status
 ACCEPTED

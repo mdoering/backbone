@@ -1,5 +1,4 @@
-Ramalina extenuata H. Magn. SPECIES
-=======
+# Ramalina extenuata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

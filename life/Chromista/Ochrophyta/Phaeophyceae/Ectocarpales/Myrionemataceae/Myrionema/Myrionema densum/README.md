@@ -1,5 +1,4 @@
-Myrionema densum Skottsberg SPECIES
-=======
+# Myrionema densum Skottsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina minima SPECIES
-=======
+# Bolivina minima SPECIES
 
 #### Status
 ACCEPTED

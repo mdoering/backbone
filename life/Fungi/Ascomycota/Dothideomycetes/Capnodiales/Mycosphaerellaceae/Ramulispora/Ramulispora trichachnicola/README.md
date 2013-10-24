@@ -1,5 +1,4 @@
-Ramulispora trichachnicola (J.F. White & Morgan-Jones) U. Braun SPECIES
-=======
+# Ramulispora trichachnicola (J.F. White & Morgan-Jones) U. Braun SPECIES
 
 #### Status
 ACCEPTED

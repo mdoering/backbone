@@ -1,5 +1,4 @@
-Rotiferophthora barronii Glockling, 1994 SPECIES
-=======
+# Rotiferophthora barronii Glockling, 1994 SPECIES
 
 #### Status
 ACCEPTED

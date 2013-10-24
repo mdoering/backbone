@@ -1,17 +1,16 @@
-Arthrocladia Golovin GENUS
-=======
+# Arthrocladiella Vassilkov GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanicheskii Zhurnal 45: 1368 (1960)
 
 #### Original name
-Arthrocladia Golovin
+Arthrocladiella Vassilkov
 
 ### Remarks
 null

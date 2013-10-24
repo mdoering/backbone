@@ -1,5 +1,4 @@
-Aecidium deodari Barclay SPECIES
-=======
+# Aecidium deodari Barclay SPECIES
 
 #### Status
 ACCEPTED

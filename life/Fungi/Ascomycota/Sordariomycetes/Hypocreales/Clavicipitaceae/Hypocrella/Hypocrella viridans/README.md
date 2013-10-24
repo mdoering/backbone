@@ -1,5 +1,4 @@
-Hypocrella viridans (Berk. & M.A. Curtis) Petch SPECIES
-=======
+# Hypocrella viridans (Berk. & M.A. Curtis) Petch SPECIES
 
 #### Status
 ACCEPTED

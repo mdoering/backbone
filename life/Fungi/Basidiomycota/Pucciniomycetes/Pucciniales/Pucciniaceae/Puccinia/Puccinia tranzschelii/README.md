@@ -1,5 +1,4 @@
-Puccinia tranzschelii Dietel SPECIES
-=======
+# Puccinia tranzschelii Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella spicicola Huhtinen & Söderh., 1997 SPECIES
-=======
+# Cistella spicicola Huhtinen & Söderh., 1997 SPECIES
 
 #### Status
 ACCEPTED

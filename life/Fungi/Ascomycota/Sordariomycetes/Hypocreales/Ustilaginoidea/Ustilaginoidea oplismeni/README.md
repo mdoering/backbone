@@ -1,5 +1,4 @@
-Ustilaginoidea oplismeni T.S. Ramakr. & Sundaram SPECIES
-=======
+# Ustilaginoidea oplismeni T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

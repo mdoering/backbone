@@ -1,5 +1,4 @@
-Cercidospora lecidomae Zhurb. & Triebel SPECIES
-=======
+# Cercidospora lecidomae Zhurb. & Triebel SPECIES
 
 #### Status
 ACCEPTED

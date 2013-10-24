@@ -1,5 +1,4 @@
-Tubulicrinis subfusiformis Hjortstam & Ryvarden SPECIES
-=======
+# Tubulicrinis subfusiformis Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

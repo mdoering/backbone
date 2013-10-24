@@ -1,5 +1,4 @@
-Cystopage subtilis Drechsler, 1941 SPECIES
-=======
+# Cystopage subtilis Drechsler, 1941 SPECIES
 
 #### Status
 ACCEPTED

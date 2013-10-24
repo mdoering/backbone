@@ -1,5 +1,4 @@
-Peridinium pouchetii Kofoid & Michener SPECIES
-=======
+# Peridinium pouchetii Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

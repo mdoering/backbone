@@ -1,5 +1,4 @@
-Psathyrella subolivacea A.H. Sm. SPECIES
-=======
+# Psathyrella subolivacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

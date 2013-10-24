@@ -1,17 +1,16 @@
-Lepiota seminuda var. seminuda VARIETY
-=======
+# Cystolepiota seminuda (Lasch) Bon, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 136 (1871)
+Docums Mycol. 6(no. 24): 43 (1976)
 
 #### Original name
-Lepiota seminuda var. seminuda
+Agaricus seminudus Lasch, 1828
 
 ### Remarks
 null

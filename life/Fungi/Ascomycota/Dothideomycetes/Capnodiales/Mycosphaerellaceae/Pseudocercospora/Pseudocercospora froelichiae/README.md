@@ -1,5 +1,4 @@
-Pseudocercospora froelichiae U. Braun & F.O. Freire, 2004 SPECIES
-=======
+# Pseudocercospora froelichiae U. Braun & F.O. Freire, 2004 SPECIES
 
 #### Status
 ACCEPTED

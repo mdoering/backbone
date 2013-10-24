@@ -1,5 +1,4 @@
-Cortinarius subcroceofolius Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius subcroceofolius Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

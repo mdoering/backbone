@@ -1,17 +1,16 @@
-Dentiscutata heterogama (T.H. Nicolson & Gerd.) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora heterogama (T.H. Nicolson & Gerd.) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 180 (1986)
 
 #### Original name
-null
+Endogone heterogama T.H. Nicolson & Gerd., 1968
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelohania butleri Johnston, Vernick & Sprague, 1978 SPECIES
-=======
+# Thelohania butleri Johnston, Vernick & Sprague, 1978 SPECIES
 
 #### Status
 ACCEPTED

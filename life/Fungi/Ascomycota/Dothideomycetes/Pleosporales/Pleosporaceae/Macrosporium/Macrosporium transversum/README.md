@@ -1,5 +1,4 @@
-Macrosporium transversum Peck SPECIES
-=======
+# Macrosporium transversum Peck SPECIES
 
 #### Status
 ACCEPTED

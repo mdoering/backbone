@@ -1,5 +1,4 @@
-Puccinia scabrida F. He & Kakish. SPECIES
-=======
+# Puccinia scabrida F. He & Kakish. SPECIES
 
 #### Status
 ACCEPTED

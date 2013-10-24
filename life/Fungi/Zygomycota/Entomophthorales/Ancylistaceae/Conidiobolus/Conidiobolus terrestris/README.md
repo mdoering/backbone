@@ -1,5 +1,4 @@
-Conidiobolus terrestris Sriniv. & Thirum., 1968 SPECIES
-=======
+# Conidiobolus terrestris Sriniv. & Thirum., 1968 SPECIES
 
 #### Status
 ACCEPTED

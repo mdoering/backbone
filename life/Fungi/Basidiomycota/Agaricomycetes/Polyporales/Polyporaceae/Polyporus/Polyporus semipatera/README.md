@@ -1,5 +1,4 @@
-Polyporus semipatera Pers. SPECIES
-=======
+# Polyporus semipatera Pers. SPECIES
 
 #### Status
 ACCEPTED

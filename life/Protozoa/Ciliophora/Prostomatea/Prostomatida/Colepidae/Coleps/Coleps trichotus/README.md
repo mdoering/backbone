@@ -1,5 +1,4 @@
-Coleps trichotus Savi, 1913 SPECIES
-=======
+# Coleps trichotus Savi, 1913 SPECIES
 
 #### Status
 ACCEPTED

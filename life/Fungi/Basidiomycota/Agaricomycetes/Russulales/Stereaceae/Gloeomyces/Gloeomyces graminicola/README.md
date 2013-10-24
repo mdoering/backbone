@@ -1,5 +1,4 @@
-Gloeomyces graminicola Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeomyces graminicola Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

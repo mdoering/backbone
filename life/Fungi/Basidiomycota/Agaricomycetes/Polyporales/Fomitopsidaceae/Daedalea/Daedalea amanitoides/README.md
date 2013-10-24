@@ -1,5 +1,4 @@
-Daedalea amanitoides P. Beauv. SPECIES
-=======
+# Daedalea amanitoides P. Beauv. SPECIES
 
 #### Status
 ACCEPTED

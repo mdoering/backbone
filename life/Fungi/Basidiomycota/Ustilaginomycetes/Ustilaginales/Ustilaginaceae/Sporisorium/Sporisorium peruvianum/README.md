@@ -1,5 +1,4 @@
-Sporisorium peruvianum (Zundel) M. Piepenbr. SPECIES
-=======
+# Sporisorium peruvianum (Zundel) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

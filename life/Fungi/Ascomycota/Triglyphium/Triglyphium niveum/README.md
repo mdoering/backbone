@@ -1,5 +1,4 @@
-Triglyphium niveum Massee SPECIES
-=======
+# Triglyphium niveum Massee SPECIES
 
 #### Status
 ACCEPTED

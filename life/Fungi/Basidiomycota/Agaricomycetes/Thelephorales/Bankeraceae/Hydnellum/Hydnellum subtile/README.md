@@ -1,5 +1,4 @@
-Hydnellum subtile (P. Karst.) P. Karst. SPECIES
-=======
+# Hydnellum subtile (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

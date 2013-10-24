@@ -1,5 +1,4 @@
-Endogone pseudopisiformis Y.J. Yao SPECIES
-=======
+# Endogone pseudopisiformis Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

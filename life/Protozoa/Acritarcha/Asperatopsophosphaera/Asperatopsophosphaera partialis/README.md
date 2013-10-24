@@ -1,5 +1,4 @@
-Asperatopsophosphaera partialis Shepeleva, 1963 SPECIES
-=======
+# Asperatopsophosphaera partialis Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

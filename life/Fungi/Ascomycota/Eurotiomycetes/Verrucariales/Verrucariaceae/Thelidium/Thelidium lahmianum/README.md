@@ -1,5 +1,4 @@
-Thelidium lahmianum Lojka ex Zschacke SPECIES
-=======
+# Thelidium lahmianum Lojka ex Zschacke SPECIES
 
 #### Status
 ACCEPTED

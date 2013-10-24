@@ -1,5 +1,4 @@
-Marasmius vialis Peck SPECIES
-=======
+# Marasmius vialis Peck SPECIES
 
 #### Status
 ACCEPTED

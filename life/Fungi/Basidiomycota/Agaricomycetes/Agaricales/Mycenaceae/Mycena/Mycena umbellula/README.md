@@ -1,5 +1,4 @@
-Mycena umbellula Corner SPECIES
-=======
+# Mycena umbellula Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus arenarius E. Bommer, M. Rousseau, Sacc. SPECIES
-=======
+# Ophiobolus arenarius E. Bommer, M. Rousseau, Sacc. SPECIES
 
 #### Status
 ACCEPTED

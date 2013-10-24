@@ -1,5 +1,4 @@
-Coryneum calosporum Naumov SPECIES
-=======
+# Coryneum calosporum Naumov SPECIES
 
 #### Status
 ACCEPTED

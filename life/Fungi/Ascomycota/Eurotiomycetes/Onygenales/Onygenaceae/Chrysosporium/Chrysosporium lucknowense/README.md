@@ -1,5 +1,4 @@
-Chrysosporium lucknowense Garg, 1966 SPECIES
-=======
+# Chrysosporium lucknowense Garg, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium operculatum Sacc. SPECIES
-=======
+# Melanconium operculatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

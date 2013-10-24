@@ -1,5 +1,4 @@
-Candida bribrorum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida bribrorum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

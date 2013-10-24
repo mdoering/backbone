@@ -1,8 +1,7 @@
-Pyrodinium monilatum (Howell) F.J.R.Taylor SPECIES
-=======
+# Alexandrium monilatum (Howell) F.J.R. Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

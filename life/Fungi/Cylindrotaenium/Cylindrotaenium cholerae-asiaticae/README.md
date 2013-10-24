@@ -1,5 +1,4 @@
-Cylindrotaenium cholerae-asiaticae Thomé SPECIES
-=======
+# Cylindrotaenium cholerae-asiaticae Thomé SPECIES
 
 #### Status
 ACCEPTED

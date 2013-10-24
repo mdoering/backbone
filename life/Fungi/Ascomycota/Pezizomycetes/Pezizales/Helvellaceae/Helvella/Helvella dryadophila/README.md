@@ -1,5 +1,4 @@
-Helvella dryadophila Harmaja SPECIES
-=======
+# Helvella dryadophila Harmaja SPECIES
 
 #### Status
 ACCEPTED

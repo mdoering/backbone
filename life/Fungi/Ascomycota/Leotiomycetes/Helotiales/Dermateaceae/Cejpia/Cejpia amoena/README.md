@@ -1,5 +1,4 @@
-Cejpia amoena (Bondartsev) Svrcek SPECIES
-=======
+# Cejpia amoena (Bondartsev) Svrcek SPECIES
 
 #### Status
 ACCEPTED

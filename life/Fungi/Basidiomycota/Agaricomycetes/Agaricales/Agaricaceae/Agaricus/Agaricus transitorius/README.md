@@ -1,5 +1,4 @@
-Agaricus transitorius Britzelm. SPECIES
-=======
+# Agaricus transitorius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

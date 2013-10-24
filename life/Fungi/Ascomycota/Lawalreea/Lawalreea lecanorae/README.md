@@ -1,5 +1,4 @@
-Lawalreea lecanorae Diederich, 1990 SPECIES
-=======
+# Lawalreea lecanorae Diederich, 1990 SPECIES
 
 #### Status
 ACCEPTED

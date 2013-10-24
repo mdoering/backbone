@@ -1,5 +1,4 @@
-Puccinia dominicana Gonz. Frag. SPECIES
-=======
+# Puccinia dominicana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

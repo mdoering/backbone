@@ -1,8 +1,7 @@
-Cystoseira ensifolia C. Agardh SPECIES
-=======
+# Sargassum ensifolium (C. Agardh) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

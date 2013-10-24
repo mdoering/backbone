@@ -1,5 +1,4 @@
-Triceratium affine Grunow SPECIES
-=======
+# Triceratium affine Grunow SPECIES
 
 #### Status
 ACCEPTED

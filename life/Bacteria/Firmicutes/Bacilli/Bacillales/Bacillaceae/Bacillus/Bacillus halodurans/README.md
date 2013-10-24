@@ -1,5 +1,4 @@
-Bacillus halodurans (ex Boyer, 1973) Nielsen et al., 1995 SPECIES
-=======
+# Bacillus halodurans (ex Boyer, 1973) Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

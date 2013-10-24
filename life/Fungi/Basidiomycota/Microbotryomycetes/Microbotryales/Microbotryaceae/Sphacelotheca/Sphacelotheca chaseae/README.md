@@ -1,5 +1,4 @@
-Sphacelotheca chaseae Zundel SPECIES
-=======
+# Sphacelotheca chaseae Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Iledon Samuels & J.D. Rogers GENUS
-=======
+# Iledon Samuels & J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

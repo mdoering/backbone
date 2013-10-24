@@ -1,14 +1,13 @@
-Coniophora ferrea (Berk. & M.A. Curtis) Speg., 1898 SPECIES
-=======
+# Amylostereum ferreum (Berk. & M.A. Curtis) Boidin & Lanq., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 181 (1898)
+Bull. trimest. Soc. mycol. Fr. 100(2): 217 (1984)
 
 #### Original name
 Stereum ferreum Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Massaria atroinquinans Berk. & M.A. Curtis SPECIES
-=======
+# Massaria atroinquinans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

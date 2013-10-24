@@ -1,5 +1,4 @@
-Seimatosporium samuelii (Hansf.) J. Walker & H.J. Swart SPECIES
-=======
+# Seimatosporium samuelii (Hansf.) J. Walker & H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

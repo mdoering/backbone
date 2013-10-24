@@ -1,5 +1,4 @@
-Digitodesmium P.M. Kirk GENUS
-=======
+# Digitodesmium P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

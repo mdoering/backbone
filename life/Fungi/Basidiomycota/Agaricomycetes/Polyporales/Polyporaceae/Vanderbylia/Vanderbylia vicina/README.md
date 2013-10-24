@@ -1,14 +1,13 @@
-Polyporus vicinus Lloyd, 1924 SPECIES
-=======
+# Vanderbylia vicina (Lloyd) D.A. Reid, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1331 (1924)
+Jl S. Afr. Bot. 39(2): 166 (1973)
 
 #### Original name
 Polyporus vicinus Lloyd, 1924

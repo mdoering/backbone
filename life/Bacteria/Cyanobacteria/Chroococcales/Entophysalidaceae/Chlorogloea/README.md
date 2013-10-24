@@ -1,14 +1,13 @@
-Vanhoeffenia Wille, 1928 GENUS
-=======
+# Chlorogloea N. Wille, 1900 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dtsch. Südpolar-Exp. 1901-03, 8: 422.
+Nytt. Mag. Naturvidensk. 38: 5.
 
 #### Original name
 null

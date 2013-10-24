@@ -1,5 +1,4 @@
-Conchonia Haeckel, 1887 GENUS
-=======
+# Conchonia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

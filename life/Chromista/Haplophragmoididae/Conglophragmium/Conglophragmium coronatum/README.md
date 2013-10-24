@@ -1,8 +1,7 @@
-Conglobatoides conglobata (Brady, 1884) SPECIES
-=======
+# Conglophragmium coronatum (Brady, 1879) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

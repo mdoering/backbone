@@ -1,5 +1,4 @@
-Schismatomma platygraphellum var. platygraphellum VARIETY
-=======
+# Schismatomma platygraphellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 563 (1923)
 
 #### Original name
-Schismatomma platygraphellum var. platygraphellum
+Arthonia platygraphella Nyl.
 
 ### Remarks
 null

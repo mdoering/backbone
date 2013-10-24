@@ -1,5 +1,4 @@
-Clitocybe diluvialis Velen. SPECIES
-=======
+# Clitocybe diluvialis Velen. SPECIES
 
 #### Status
 ACCEPTED

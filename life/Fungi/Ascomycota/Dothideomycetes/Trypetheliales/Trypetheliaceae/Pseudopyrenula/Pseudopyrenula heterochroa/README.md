@@ -1,5 +1,4 @@
-Pseudopyrenula heterochroa (Mont.) Vain. SPECIES
-=======
+# Pseudopyrenula heterochroa (Mont.) Vain. SPECIES
 
 #### Status
 ACCEPTED

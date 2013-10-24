@@ -1,5 +1,4 @@
-Graphis leucocarpa Nyl. SPECIES
-=======
+# Graphis leucocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

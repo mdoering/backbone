@@ -1,5 +1,4 @@
-Gnomonia emarginata Fuckel SPECIES
-=======
+# Gnomonia emarginata Fuckel SPECIES
 
 #### Status
 ACCEPTED

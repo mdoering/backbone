@@ -1,5 +1,4 @@
-Telimena corticicola Doidge SPECIES
-=======
+# Telimena corticicola Doidge SPECIES
 
 #### Status
 ACCEPTED

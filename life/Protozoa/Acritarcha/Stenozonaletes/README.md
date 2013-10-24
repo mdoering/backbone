@@ -1,5 +1,4 @@
-Stenozonaletes GENUS
-=======
+# Stenozonaletes GENUS
 
 #### Status
 ACCEPTED

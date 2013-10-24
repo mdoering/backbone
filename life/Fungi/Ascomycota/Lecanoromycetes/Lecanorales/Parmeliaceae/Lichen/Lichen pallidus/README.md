@@ -1,5 +1,4 @@
-Lichen pallidus Hoffm. SPECIES
-=======
+# Lichen pallidus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

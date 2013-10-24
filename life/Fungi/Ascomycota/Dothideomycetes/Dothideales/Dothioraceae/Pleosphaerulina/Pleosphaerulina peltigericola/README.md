@@ -1,5 +1,4 @@
-Pleosphaerulina peltigericola (Nyl.) Vouaux SPECIES
-=======
+# Pleosphaerulina peltigericola (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

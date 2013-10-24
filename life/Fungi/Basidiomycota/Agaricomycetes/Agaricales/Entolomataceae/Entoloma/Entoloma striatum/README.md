@@ -1,5 +1,4 @@
-Entoloma striatum Hesler SPECIES
-=======
+# Entoloma striatum Hesler SPECIES
 
 #### Status
 ACCEPTED

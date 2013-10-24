@@ -1,5 +1,4 @@
-Cortinarius lubricus Poirier & Reumaux SPECIES
-=======
+# Cortinarius lubricus Poirier & Reumaux SPECIES
 
 #### Status
 ACCEPTED

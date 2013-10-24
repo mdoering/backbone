@@ -1,5 +1,4 @@
-Cytospora acharii Sacc. SPECIES
-=======
+# Cytospora acharii Sacc. SPECIES
 
 #### Status
 ACCEPTED

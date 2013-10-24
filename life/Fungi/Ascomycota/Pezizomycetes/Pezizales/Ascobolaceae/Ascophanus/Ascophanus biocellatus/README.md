@@ -1,5 +1,4 @@
-Ascophanus biocellatus Petr. SPECIES
-=======
+# Ascophanus biocellatus Petr. SPECIES
 
 #### Status
 ACCEPTED

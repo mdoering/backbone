@@ -1,5 +1,4 @@
-Clitopilus amarus A. de Haan SPECIES
-=======
+# Clitopilus amarus A. de Haan SPECIES
 
 #### Status
 ACCEPTED

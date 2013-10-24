@@ -1,5 +1,4 @@
-Neohaplomyces R.K. Benj. GENUS
-=======
+# Neohaplomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

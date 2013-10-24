@@ -1,17 +1,16 @@
-Domingoella deightoni Hansf. SPECIES
-=======
+# Domingoella deightonii Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 160: 118 (1949)
 
 #### Original name
-Domingoella deightoni Hansf.
+Domingoella deightonii Hansf.
 
 ### Remarks
 null

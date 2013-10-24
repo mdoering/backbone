@@ -1,5 +1,4 @@
-Cytodiplospora saccardiana Peyronel SPECIES
-=======
+# Cytodiplospora saccardiana Peyronel SPECIES
 
 #### Status
 ACCEPTED

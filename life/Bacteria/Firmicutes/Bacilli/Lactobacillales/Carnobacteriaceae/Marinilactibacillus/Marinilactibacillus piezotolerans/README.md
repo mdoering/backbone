@@ -1,5 +1,4 @@
-Marinilactibacillus piezotolerans Toffin et al., 2005 SPECIES
-=======
+# Marinilactibacillus piezotolerans Toffin et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

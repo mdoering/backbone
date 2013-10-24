@@ -1,5 +1,4 @@
-Agaricus atrobrunneus Lasch SPECIES
-=======
+# Agaricus atrobrunneus Lasch SPECIES
 
 #### Status
 ACCEPTED

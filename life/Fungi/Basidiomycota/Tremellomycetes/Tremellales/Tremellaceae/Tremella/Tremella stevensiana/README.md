@@ -1,5 +1,4 @@
-Tremella stevensiana Diederich SPECIES
-=======
+# Tremella stevensiana Diederich SPECIES
 
 #### Status
 ACCEPTED

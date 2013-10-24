@@ -1,5 +1,4 @@
-Volvaria glutinosa Henn. SPECIES
-=======
+# Volvaria glutinosa Henn. SPECIES
 
 #### Status
 ACCEPTED

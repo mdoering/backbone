@@ -1,17 +1,16 @@
-Dasyscypha ivae Rehm SPECIES
-=======
+# Dasyscyphus ivae Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11: 397 (1913)
 
 #### Original name
-Dasyscypha ivae Rehm
+Dasyscyphus ivae Rehm
 
 ### Remarks
 null

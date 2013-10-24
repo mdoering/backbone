@@ -1,5 +1,4 @@
-Collybia pullida Velen. SPECIES
-=======
+# Collybia pullida Velen. SPECIES
 
 #### Status
 ACCEPTED

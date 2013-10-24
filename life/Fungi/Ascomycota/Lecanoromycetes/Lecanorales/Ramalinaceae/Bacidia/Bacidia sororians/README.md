@@ -1,5 +1,4 @@
-Bacidia sororians (Nyl.) Vain. SPECIES
-=======
+# Bacidia sororians (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

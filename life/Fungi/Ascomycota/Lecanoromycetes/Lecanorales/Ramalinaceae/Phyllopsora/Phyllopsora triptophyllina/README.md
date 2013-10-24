@@ -1,5 +1,4 @@
-Phyllopsora triptophyllina Nyl. SPECIES
-=======
+# Phyllopsora triptophyllina Nyl. SPECIES
 
 #### Status
 ACCEPTED

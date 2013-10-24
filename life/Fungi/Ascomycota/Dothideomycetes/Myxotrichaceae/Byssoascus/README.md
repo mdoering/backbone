@@ -1,5 +1,4 @@
-Byssoascus Arx GENUS
-=======
+# Byssoascus Arx GENUS
 
 #### Status
 ACCEPTED

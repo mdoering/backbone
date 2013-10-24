@@ -1,5 +1,4 @@
-Taphrina lapponica Juel SPECIES
-=======
+# Taphrina lapponica Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora dipyrenosperma Boidin & Gilles, 2000 SPECIES
-=======
+# Peniophora dipyrenosperma Boidin & Gilles, 2000 SPECIES
 
 #### Status
 ACCEPTED

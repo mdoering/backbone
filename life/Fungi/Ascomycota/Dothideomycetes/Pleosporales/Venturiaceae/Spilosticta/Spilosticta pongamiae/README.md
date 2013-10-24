@@ -1,5 +1,4 @@
-Spilosticta pongamiae (Racib.) Bat. & Peres SPECIES
-=======
+# Spilosticta pongamiae (Racib.) Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterophora canaliculata (Pers.) Kuntze SPECIES
-=======
+# Asterophora canaliculata (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

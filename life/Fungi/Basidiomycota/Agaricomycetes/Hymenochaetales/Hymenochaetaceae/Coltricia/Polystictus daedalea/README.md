@@ -1,5 +1,4 @@
-Polystictus daedalea Schwein. SPECIES
-=======
+# Polystictus daedalea Schwein. SPECIES
 
 #### Status
 ACCEPTED

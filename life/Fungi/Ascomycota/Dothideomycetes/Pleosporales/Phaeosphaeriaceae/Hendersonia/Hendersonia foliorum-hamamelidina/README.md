@@ -1,5 +1,4 @@
-Hendersonia foliorum-hamamelidina Fairm. SPECIES
-=======
+# Hendersonia foliorum-hamamelidina Fairm. SPECIES
 
 #### Status
 ACCEPTED

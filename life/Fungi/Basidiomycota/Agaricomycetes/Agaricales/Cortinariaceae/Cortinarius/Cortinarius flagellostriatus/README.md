@@ -1,5 +1,4 @@
-Cortinarius flagellostriatus Rob. Henry SPECIES
-=======
+# Cortinarius flagellostriatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

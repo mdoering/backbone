@@ -1,5 +1,4 @@
-Pestalotia cornifolia Ellis & Everh. SPECIES
-=======
+# Pestalotia cornifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

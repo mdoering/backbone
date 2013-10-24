@@ -1,5 +1,4 @@
-Dictyosporium castaneum Gonz. Frag. SPECIES
-=======
+# Dictyosporium castaneum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

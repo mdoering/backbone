@@ -1,5 +1,4 @@
-Diplochytridium inflatum (Sparrow) Karling SPECIES
-=======
+# Diplochytridium inflatum (Sparrow) Karling SPECIES
 
 #### Status
 ACCEPTED

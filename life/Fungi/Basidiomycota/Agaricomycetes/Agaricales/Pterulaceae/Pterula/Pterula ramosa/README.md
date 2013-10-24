@@ -1,5 +1,4 @@
-Pterula ramosa Lloyd SPECIES
-=======
+# Pterula ramosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

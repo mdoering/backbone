@@ -1,5 +1,4 @@
-Uromyces bromicola Arthur & Holw. SPECIES
-=======
+# Uromyces bromicola Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

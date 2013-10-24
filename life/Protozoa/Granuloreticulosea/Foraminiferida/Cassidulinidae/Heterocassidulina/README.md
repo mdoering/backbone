@@ -1,5 +1,4 @@
-Heterocassidulina McCulloch, 1977 GENUS
-=======
+# Heterocassidulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

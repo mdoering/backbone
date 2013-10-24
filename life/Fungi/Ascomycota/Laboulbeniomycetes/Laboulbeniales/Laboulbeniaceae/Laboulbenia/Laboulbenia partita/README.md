@@ -1,5 +1,4 @@
-Laboulbenia partita Thaxt. SPECIES
-=======
+# Laboulbenia partita Thaxt. SPECIES
 
 #### Status
 ACCEPTED

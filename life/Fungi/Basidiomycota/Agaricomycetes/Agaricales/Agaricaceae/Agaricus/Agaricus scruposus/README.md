@@ -1,5 +1,4 @@
-Agaricus scruposus Fr. SPECIES
-=======
+# Agaricus scruposus Fr. SPECIES
 
 #### Status
 ACCEPTED

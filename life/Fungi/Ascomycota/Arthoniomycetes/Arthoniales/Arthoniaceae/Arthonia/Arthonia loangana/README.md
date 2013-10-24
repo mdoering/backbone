@@ -1,5 +1,4 @@
-Arthonia loangana Müll. Arg. SPECIES
-=======
+# Arthonia loangana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

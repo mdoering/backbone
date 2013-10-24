@@ -1,5 +1,4 @@
-Dactylospora floerkei Körb. SPECIES
-=======
+# Dactylospora floerkei Körb. SPECIES
 
 #### Status
 ACCEPTED

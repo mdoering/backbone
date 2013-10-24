@@ -1,5 +1,4 @@
-Hemileia randiicola Thaung SPECIES
-=======
+# Hemileia randiicola Thaung SPECIES
 
 #### Status
 ACCEPTED

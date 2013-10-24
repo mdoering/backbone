@@ -1,5 +1,4 @@
-Olpidium simulans (de Bary & Woronin) A. Fisch. SPECIES
-=======
+# Olpidium simulans (de Bary & Woronin) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

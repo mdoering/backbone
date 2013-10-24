@@ -1,8 +1,7 @@
-Leptothyrium hymenaenae Cif. & Gonz. Frag. SPECIES
-=======
+# Leptothyrium hymenaeae Cif. & Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium hymenaenae Cif. & Gonz. Frag.
+Leptothyrium hymenaeae Cif. & Gonz. Frag.
 
 ### Remarks
 null

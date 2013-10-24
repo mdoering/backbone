@@ -1,5 +1,4 @@
-Phlyctis offula Kremp. SPECIES
-=======
+# Phlyctis offula Kremp. SPECIES
 
 #### Status
 ACCEPTED

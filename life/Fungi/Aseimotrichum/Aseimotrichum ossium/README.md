@@ -1,5 +1,4 @@
-Aseimotrichum ossium Corda SPECIES
-=======
+# Aseimotrichum ossium Corda SPECIES
 
 #### Status
 ACCEPTED

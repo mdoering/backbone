@@ -1,5 +1,4 @@
-Myoschiston neomysidis Precht, 1935 SPECIES
-=======
+# Myoschiston neomysidis Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

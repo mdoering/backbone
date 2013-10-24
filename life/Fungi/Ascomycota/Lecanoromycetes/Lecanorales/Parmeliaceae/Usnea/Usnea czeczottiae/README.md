@@ -1,5 +1,4 @@
-Usnea czeczottiae Motyka SPECIES
-=======
+# Usnea czeczottiae Motyka SPECIES
 
 #### Status
 ACCEPTED

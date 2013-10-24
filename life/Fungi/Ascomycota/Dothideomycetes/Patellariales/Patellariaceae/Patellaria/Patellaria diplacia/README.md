@@ -1,5 +1,4 @@
-Patellaria diplacia (Ach.) Spreng. SPECIES
-=======
+# Patellaria diplacia (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

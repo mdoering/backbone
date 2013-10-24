@@ -1,5 +1,4 @@
-Cortinarius eustriatulus Rob. Henry SPECIES
-=======
+# Cortinarius eustriatulus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

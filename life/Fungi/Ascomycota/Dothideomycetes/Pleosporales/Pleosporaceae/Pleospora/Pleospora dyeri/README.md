@@ -1,5 +1,4 @@
-Pleospora dyeri Doidge SPECIES
-=======
+# Pleospora dyeri Doidge SPECIES
 
 #### Status
 ACCEPTED

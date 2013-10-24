@@ -1,5 +1,4 @@
-Licea ocellata D.W. Mitch. & G. Moreno, 2009 SPECIES
-=======
+# Licea ocellata D.W. Mitch. & G. Moreno, 2009 SPECIES
 
 #### Status
 ACCEPTED

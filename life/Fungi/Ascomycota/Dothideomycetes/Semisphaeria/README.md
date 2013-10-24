@@ -1,5 +1,4 @@
-Semisphaeria K. Holm & L. Holm GENUS
-=======
+# Semisphaeria K. Holm & L. Holm GENUS
 
 #### Status
 ACCEPTED

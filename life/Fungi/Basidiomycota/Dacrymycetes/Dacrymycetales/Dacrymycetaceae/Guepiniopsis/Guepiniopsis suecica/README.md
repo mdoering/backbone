@@ -1,5 +1,4 @@
-Guepiniopsis suecica (McNabb) Jülich SPECIES
-=======
+# Guepiniopsis suecica (McNabb) Jülich SPECIES
 
 #### Status
 ACCEPTED

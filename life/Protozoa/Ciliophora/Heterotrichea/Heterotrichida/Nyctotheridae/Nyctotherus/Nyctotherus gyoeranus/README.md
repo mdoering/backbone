@@ -1,5 +1,4 @@
-Nyctotherus gyoeranus Claparède & Lachmann, 1858 SPECIES
-=======
+# Nyctotherus gyoeranus Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

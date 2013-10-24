@@ -1,5 +1,4 @@
-Calonectria soroceae Rehm SPECIES
-=======
+# Calonectria soroceae Rehm SPECIES
 
 #### Status
 ACCEPTED

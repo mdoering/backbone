@@ -1,5 +1,4 @@
-Hyphomicrobium aestuarii Hirsch, 1989 SPECIES
-=======
+# Hyphomicrobium aestuarii Hirsch, 1989 SPECIES
 
 #### Status
 ACCEPTED

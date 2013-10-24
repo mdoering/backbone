@@ -1,5 +1,4 @@
-Agaricus anisatus Pers. SPECIES
-=======
+# Agaricus anisatus Pers. SPECIES
 
 #### Status
 ACCEPTED

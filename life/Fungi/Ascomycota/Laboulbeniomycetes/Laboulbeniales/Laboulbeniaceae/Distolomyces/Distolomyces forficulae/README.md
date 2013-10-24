@@ -1,14 +1,13 @@
-Hesperomyces forficulae T. Majewski, 1974 SPECIES
-=======
+# Distolomyces forficulae (T. Majewski) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 10(2): 270 (1974)
+Mycol. Mem. 9: 207 (1985)
 
 #### Original name
 Hesperomyces forficulae T. Majewski, 1974

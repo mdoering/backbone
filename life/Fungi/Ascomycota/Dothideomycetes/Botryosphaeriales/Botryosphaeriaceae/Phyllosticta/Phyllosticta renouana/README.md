@@ -1,5 +1,4 @@
-Phyllosticta renouana Sacc. & Roum. SPECIES
-=======
+# Phyllosticta renouana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Jahnula bipolaris (K.D. Hyde) K.D. Hyde, 1999 SPECIES
-=======
+# Ascagilis bipolaris K.D. Hyde, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hyde & Wong, Nova Hedwigia 68(3-4): 494 (1999)
+Aust. Syst. Bot. 5(1): 111 (1992)
 
 #### Original name
 Ascagilis bipolaris K.D. Hyde, 1992

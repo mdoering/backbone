@@ -1,5 +1,4 @@
-Diplodia asparagi Brunaud SPECIES
-=======
+# Diplodia asparagi Brunaud SPECIES
 
 #### Status
 ACCEPTED

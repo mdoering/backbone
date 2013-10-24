@@ -1,5 +1,4 @@
-Trachelomonas verrucosa var. irregularis Deflandre VARIETY
-=======
+# Trachelomonas verrucosa A. Stokes SPECIES
 
 #### Status
 ACCEPTED

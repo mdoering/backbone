@@ -1,5 +1,4 @@
-Chaetoceros subsecundus (Grunow) Hustedt SPECIES
-=======
+# Chaetoceros subsecundus (Grunow) Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora lythracearum (Heald & F.A. Wolf) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora lythracearum (Heald & F.A. Wolf) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

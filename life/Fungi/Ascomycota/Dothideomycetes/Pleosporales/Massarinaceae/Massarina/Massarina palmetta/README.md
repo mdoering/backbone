@@ -1,5 +1,4 @@
-Massarina palmetta (Cooke) M.E. Barr SPECIES
-=======
+# Massarina palmetta (Cooke) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

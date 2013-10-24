@@ -1,5 +1,4 @@
-Gloeosporium serotinum Ellis & Everh. SPECIES
-=======
+# Gloeosporium serotinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

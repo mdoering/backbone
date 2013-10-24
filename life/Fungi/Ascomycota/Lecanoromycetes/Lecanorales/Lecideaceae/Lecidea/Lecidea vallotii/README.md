@@ -1,5 +1,4 @@
-Lecidea vallotii Lamy SPECIES
-=======
+# Lecidea vallotii Lamy SPECIES
 
 #### Status
 ACCEPTED

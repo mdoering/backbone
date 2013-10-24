@@ -1,8 +1,7 @@
-Phyllosticta yuccogena Ellis & Everh. SPECIES
-=======
+# Phyllosticta yuccigena Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta yuccogena Ellis & Everh.
+Phyllosticta yuccigena Ellis & Everh.
 
 ### Remarks
 null

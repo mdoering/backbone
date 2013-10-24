@@ -1,5 +1,4 @@
-Stagonospora inquilina Bubák & Picb. SPECIES
-=======
+# Stagonospora inquilina Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrospora Fuckel, 1870 GENUS
-=======
+# Macrospora Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

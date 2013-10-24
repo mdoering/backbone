@@ -1,5 +1,4 @@
-Pleurotus portegnus var. portegnus (Speg.) Speg. VARIETY
-=======
+# Pleurotus portegnus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 6: 366 (1888)
+Syll. fung. (Abellini) 5: 366 (1887)
 
 #### Original name
-Pleurotus portegnus var. portegnus (Speg.) Speg.
+Agaricus portegnus Speg.
 
 ### Remarks
 null

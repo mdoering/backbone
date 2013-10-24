@@ -1,5 +1,4 @@
-Opegrapha moroziana Lendemer SPECIES
-=======
+# Opegrapha moroziana Lendemer SPECIES
 
 #### Status
 ACCEPTED

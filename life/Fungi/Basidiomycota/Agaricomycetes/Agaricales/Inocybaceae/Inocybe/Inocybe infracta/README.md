@@ -1,5 +1,4 @@
-Inocybe infracta Velen. SPECIES
-=======
+# Inocybe infracta Velen. SPECIES
 
 #### Status
 ACCEPTED

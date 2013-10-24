@@ -1,17 +1,16 @@
-Lecidea chloroticula Nyl. SPECIES
-=======
+# Bacidina chloroticula (Nyl.) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 60: 564 (1877)
+null
 
 #### Original name
-Lecidea chloroticula Nyl.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurotheliopsis erigens Kashiw. SPECIES
-=======
+# Pleurotheliopsis erigens Kashiw. SPECIES
 
 #### Status
 ACCEPTED

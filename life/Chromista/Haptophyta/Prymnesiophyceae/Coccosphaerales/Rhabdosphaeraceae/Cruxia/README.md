@@ -1,5 +1,4 @@
-Cruxia O. Varol, 1989 GENUS
-=======
+# Cruxia O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

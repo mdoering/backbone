@@ -1,8 +1,7 @@
-Dasyscypha tubiformis Henn. & Nyl. SPECIES
-=======
+# Dasyscyphus tubiformis Henn. & Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha tubiformis Henn. & Nyl.
+Dasyscyphus tubiformis Henn. & Nyl.
 
 ### Remarks
 null

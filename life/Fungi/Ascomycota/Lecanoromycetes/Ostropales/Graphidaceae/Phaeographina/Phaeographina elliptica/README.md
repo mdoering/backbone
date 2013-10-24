@@ -1,5 +1,4 @@
-Phaeographina elliptica M. Wirth & Hale SPECIES
-=======
+# Phaeographina elliptica M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella erythraea Sacc. SPECIES
-=======
+# Dothiorella erythraea Sacc. SPECIES
 
 #### Status
 ACCEPTED

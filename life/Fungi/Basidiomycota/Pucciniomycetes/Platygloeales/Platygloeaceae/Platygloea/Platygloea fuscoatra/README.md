@@ -1,5 +1,4 @@
-Platygloea fuscoatra H.S. Jacks. & G.W. Martin SPECIES
-=======
+# Platygloea fuscoatra H.S. Jacks. & G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

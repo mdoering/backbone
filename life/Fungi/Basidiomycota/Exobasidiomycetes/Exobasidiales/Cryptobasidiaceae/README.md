@@ -1,5 +1,4 @@
-Cryptobasidiaceae FAMILY
-=======
+# Cryptobasidiaceae FAMILY
 
 #### Status
 ACCEPTED

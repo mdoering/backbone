@@ -1,17 +1,16 @@
-Albocrustum Lloyd GENUS
-=======
+# Biscogniauxia Kuntze, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Albocrustum Lloyd
+null
 
 ### Remarks
 null

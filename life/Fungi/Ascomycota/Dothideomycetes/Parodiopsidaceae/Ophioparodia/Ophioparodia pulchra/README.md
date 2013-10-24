@@ -1,5 +1,4 @@
-Ophioparodia pulchra Petr. & Cif., 1932 SPECIES
-=======
+# Ophioparodia pulchra Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

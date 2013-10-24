@@ -1,5 +1,4 @@
-Phaeographina explicans Fink ex J. Hedrick SPECIES
-=======
+# Phaeographina explicans Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

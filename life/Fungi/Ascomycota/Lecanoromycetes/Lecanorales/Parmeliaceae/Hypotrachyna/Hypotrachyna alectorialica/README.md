@@ -1,5 +1,4 @@
-Hypotrachyna alectorialica Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna alectorialica Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

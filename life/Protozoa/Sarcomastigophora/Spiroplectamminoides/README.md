@@ -1,5 +1,4 @@
-Spiroplectamminoides Skipp, 1969 GENUS
-=======
+# Spiroplectamminoides Skipp, 1969 GENUS
 
 #### Status
 ACCEPTED

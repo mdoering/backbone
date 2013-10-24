@@ -1,5 +1,4 @@
-Chaetopsis stachyoloba Corda SPECIES
-=======
+# Chaetopsis stachyoloba Corda SPECIES
 
 #### Status
 ACCEPTED

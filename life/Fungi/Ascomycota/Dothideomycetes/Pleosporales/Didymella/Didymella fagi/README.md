@@ -1,5 +1,4 @@
-Didymella fagi C.Z. Wei & Y. Harada SPECIES
-=======
+# Didymella fagi C.Z. Wei & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

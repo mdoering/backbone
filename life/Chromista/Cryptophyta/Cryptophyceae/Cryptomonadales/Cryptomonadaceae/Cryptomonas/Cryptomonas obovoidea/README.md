@@ -1,5 +1,4 @@
-Cryptomonas obovoidea SPECIES
-=======
+# Cryptomonas obovoidea SPECIES
 
 #### Status
 ACCEPTED

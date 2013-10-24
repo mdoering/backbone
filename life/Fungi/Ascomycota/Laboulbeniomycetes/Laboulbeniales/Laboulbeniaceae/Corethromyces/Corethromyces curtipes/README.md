@@ -1,5 +1,4 @@
-Corethromyces curtipes Thaxt. SPECIES
-=======
+# Corethromyces curtipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

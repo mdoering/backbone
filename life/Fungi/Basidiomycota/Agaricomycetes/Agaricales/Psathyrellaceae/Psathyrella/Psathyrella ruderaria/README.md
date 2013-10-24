@@ -1,5 +1,4 @@
-Psathyrella ruderaria A.H. Sm. SPECIES
-=======
+# Psathyrella ruderaria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

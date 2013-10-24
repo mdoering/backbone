@@ -1,5 +1,4 @@
-Psorotichia leprosa (Anzi) Forssell SPECIES
-=======
+# Psorotichia leprosa (Anzi) Forssell SPECIES
 
 #### Status
 ACCEPTED

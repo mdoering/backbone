@@ -1,5 +1,4 @@
-Gonohymenia lusitanica Henssen SPECIES
-=======
+# Gonohymenia lusitanica Henssen SPECIES
 
 #### Status
 ACCEPTED

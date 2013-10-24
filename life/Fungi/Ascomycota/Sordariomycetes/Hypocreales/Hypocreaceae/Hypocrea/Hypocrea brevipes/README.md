@@ -1,5 +1,4 @@
-Hypocrea brevipes Mont. SPECIES
-=======
+# Hypocrea brevipes Mont. SPECIES
 
 #### Status
 ACCEPTED

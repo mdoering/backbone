@@ -1,17 +1,16 @@
-Mycoblastus sanguinarius f. melinus FORM
-=======
+# Mycoblastus affinis (Schaer.) T. Schauer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Alp. 12: 230 (1964)
 
 #### Original name
-null
+Lecidea affinis Schaer.
 
 ### Remarks
 null

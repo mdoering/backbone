@@ -1,17 +1,16 @@
-Didymium labyrinthiforme G.W. Martin, Lodhi & N.A. Khan, 1961 SPECIES
-=======
+# Didymium perforatum Yamash., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of Science of the Hiroshima University, B, 2 3: 33 (1936)
 
 #### Original name
-null
+Didymium perforatum Yamash., 1936
 
 ### Remarks
 null

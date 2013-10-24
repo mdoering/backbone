@@ -1,5 +1,4 @@
-Phaeosphaeriopsis musae Arzanlou & Crous, 2006 SPECIES
-=======
+# Phaeosphaeriopsis musae Arzanlou & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

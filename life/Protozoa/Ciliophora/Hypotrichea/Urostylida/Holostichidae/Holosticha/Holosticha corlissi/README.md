@@ -1,5 +1,4 @@
-Holosticha corlissi SPECIES
-=======
+# Holosticha corlissi SPECIES
 
 #### Status
 ACCEPTED

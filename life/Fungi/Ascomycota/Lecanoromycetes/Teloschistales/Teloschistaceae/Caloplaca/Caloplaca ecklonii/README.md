@@ -1,5 +1,4 @@
-Caloplaca ecklonii (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca ecklonii (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

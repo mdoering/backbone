@@ -1,5 +1,4 @@
-Agaricus stylophorus Berk. & Broome SPECIES
-=======
+# Agaricus stylophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria adusta (P. Gaertn., G. Mey. & Scherb.) DC. SPECIES
-=======
+# Imbricaria adusta (P. Gaertn., G. Mey. & Scherb.) DC. SPECIES
 
 #### Status
 ACCEPTED

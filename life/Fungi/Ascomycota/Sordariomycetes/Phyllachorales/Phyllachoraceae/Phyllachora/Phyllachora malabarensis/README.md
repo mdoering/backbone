@@ -1,5 +1,4 @@
-Phyllachora malabarensis Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Phyllachora malabarensis Syd., P. Syd. & E.J. Butler, 1911 SPECIES
 
 #### Status
 ACCEPTED

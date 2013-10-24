@@ -1,5 +1,4 @@
-Rinodina angelica Stizenb. SPECIES
-=======
+# Rinodina angelica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

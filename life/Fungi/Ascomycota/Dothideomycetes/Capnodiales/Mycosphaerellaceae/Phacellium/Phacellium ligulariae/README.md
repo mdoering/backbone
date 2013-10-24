@@ -1,5 +1,4 @@
-Phacellium ligulariae (Savul. & Sandu) U. Braun SPECIES
-=======
+# Phacellium ligulariae (Savul. & Sandu) U. Braun SPECIES
 
 #### Status
 ACCEPTED

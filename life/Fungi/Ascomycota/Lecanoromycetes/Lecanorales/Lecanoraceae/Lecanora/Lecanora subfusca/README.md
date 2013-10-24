@@ -1,5 +1,4 @@
-Lecanora subfusca f. subfusca FORM
-=======
+# Lecanora subfusca (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. 393 (1810)
 
 #### Original name
-Lecanora subfusca f. subfusca
+Lichen subfuscus
 
 ### Remarks
 null

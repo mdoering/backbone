@@ -1,5 +1,4 @@
-Buellia elegans Poelt SPECIES
-=======
+# Buellia elegans Poelt SPECIES
 
 #### Status
 ACCEPTED

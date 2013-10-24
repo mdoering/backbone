@@ -1,5 +1,4 @@
-Ignotocoma Kozloff, 1961 GENUS
-=======
+# Ignotocoma Kozloff, 1961 GENUS
 
 #### Status
 ACCEPTED

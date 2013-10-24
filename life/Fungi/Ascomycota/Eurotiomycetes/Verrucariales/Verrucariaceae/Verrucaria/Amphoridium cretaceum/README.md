@@ -1,5 +1,4 @@
-Amphoridium cretaceum (Zschacke) Servít SPECIES
-=======
+# Amphoridium cretaceum (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

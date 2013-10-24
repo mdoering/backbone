@@ -1,5 +1,4 @@
-Ramaria cinereocarnea R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria cinereocarnea R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

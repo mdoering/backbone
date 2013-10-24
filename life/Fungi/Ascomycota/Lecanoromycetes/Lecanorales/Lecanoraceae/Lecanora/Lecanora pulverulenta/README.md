@@ -1,5 +1,4 @@
-Lecanora pulverulenta Müll. Arg. SPECIES
-=======
+# Lecanora pulverulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

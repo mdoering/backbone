@@ -1,5 +1,4 @@
-Duosphaeridium rugosum Drugg, 1970 SPECIES
-=======
+# Duosphaeridium rugosum Drugg, 1970 SPECIES
 
 #### Status
 ACCEPTED

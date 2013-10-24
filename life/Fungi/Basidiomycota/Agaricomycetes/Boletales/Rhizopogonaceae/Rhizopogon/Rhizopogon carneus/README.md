@@ -1,5 +1,4 @@
-Rhizopogon carneus Corda SPECIES
-=======
+# Rhizopogon carneus Corda SPECIES
 
 #### Status
 ACCEPTED

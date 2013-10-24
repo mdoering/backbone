@@ -1,5 +1,4 @@
-Staurosira oldenburgiana (Hustedt) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Staurosira oldenburgiana (Hustedt) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

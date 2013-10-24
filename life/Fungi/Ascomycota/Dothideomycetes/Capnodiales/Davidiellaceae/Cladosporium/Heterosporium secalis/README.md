@@ -1,5 +1,4 @@
-Heterosporium secalis Dippen. SPECIES
-=======
+# Heterosporium secalis Dippen. SPECIES
 
 #### Status
 ACCEPTED

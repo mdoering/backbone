@@ -1,5 +1,4 @@
-Pilocratera insititia (Berk. & M.A. Curtis) Sacc. & Traverso SPECIES
-=======
+# Pilocratera insititia (Berk. & M.A. Curtis) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

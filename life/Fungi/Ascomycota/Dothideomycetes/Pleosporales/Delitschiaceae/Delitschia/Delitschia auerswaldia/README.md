@@ -1,5 +1,4 @@
-Delitschia auerswaldia Fuckel SPECIES
-=======
+# Delitschia auerswaldia Fuckel SPECIES
 
 #### Status
 ACCEPTED

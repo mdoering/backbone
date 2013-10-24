@@ -1,14 +1,13 @@
-Bolacotricha grisea Berk. & Broome, 1851 SPECIES
-=======
+# Chaetomium griseum (Berk. & Broome) Cooke, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: (1851)
+Grevillea 1(no. 11): 175 (1873)
 
 #### Original name
 Bolacotricha grisea Berk. & Broome, 1851

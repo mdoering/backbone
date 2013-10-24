@@ -1,5 +1,4 @@
-Cercospora genkwa Syd. SPECIES
-=======
+# Cercospora genkwa Syd. SPECIES
 
 #### Status
 ACCEPTED

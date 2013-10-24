@@ -1,5 +1,4 @@
-Canalisporium Nawawi & Kuthub. GENUS
-=======
+# Canalisporium Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

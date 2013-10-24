@@ -1,5 +1,4 @@
-Rhodostichus Geitler & Pascher, 1931 GENUS
-=======
+# Rhodostichus Geitler & Pascher, 1931 GENUS
 
 #### Status
 ACCEPTED

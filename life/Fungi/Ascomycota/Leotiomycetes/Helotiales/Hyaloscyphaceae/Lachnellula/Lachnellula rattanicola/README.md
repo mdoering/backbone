@@ -1,5 +1,4 @@
-Lachnellula rattanicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Lachnellula rattanicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

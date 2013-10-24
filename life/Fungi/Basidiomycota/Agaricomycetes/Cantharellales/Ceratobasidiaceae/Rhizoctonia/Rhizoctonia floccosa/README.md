@@ -1,5 +1,4 @@
-Rhizoctonia floccosa Burgeff, 1932 SPECIES
-=======
+# Rhizoctonia floccosa Burgeff, 1932 SPECIES
 
 #### Status
 ACCEPTED

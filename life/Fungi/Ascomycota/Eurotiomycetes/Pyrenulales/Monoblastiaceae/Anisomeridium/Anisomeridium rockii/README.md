@@ -1,5 +1,4 @@
-Anisomeridium rockii (Zahlbr.) R.C. Harris SPECIES
-=======
+# Anisomeridium rockii (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

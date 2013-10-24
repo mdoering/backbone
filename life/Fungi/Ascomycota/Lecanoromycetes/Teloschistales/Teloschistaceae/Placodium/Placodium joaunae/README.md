@@ -1,5 +1,4 @@
-Placodium joaunae SPECIES
-=======
+# Placodium joaunae SPECIES
 
 #### Status
 ACCEPTED

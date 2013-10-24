@@ -1,5 +1,4 @@
-Conidibolus GENUS
-=======
+# Conidibolus GENUS
 
 #### Status
 ACCEPTED

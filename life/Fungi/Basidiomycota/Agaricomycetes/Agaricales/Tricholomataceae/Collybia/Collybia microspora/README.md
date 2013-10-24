@@ -1,5 +1,4 @@
-Collybia microspora Peck SPECIES
-=======
+# Collybia microspora Peck SPECIES
 
 #### Status
 ACCEPTED

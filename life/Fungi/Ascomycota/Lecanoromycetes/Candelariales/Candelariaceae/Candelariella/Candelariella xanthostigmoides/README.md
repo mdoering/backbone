@@ -1,14 +1,13 @@
-Placodium xanthostigmoides (Müll. Arg.) Gyeln. SPECIES
-=======
+# Candelariella xanthostigmoides (Müll. Arg.) R. W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Muelleria 5(1): 32 (1982)
 
 #### Original name
 Lecanora xanthostigmoides Müll. Arg.

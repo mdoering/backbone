@@ -1,14 +1,13 @@
-Pseudocoprinus galericuliformis (Losa ex Watling) McKnight & P. Allison, 1970 SPECIES
-=======
+# Parasola galericuliformis (Losa ex Watling) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Morris Arbor. Bull. 20(4): 74 (1970)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
 Coprinus galericuliformis Losa ex Watling, 1967

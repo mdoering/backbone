@@ -1,5 +1,4 @@
-Aleurina novae-terrae (Ellis & Everh.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina novae-terrae (Ellis & Everh.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

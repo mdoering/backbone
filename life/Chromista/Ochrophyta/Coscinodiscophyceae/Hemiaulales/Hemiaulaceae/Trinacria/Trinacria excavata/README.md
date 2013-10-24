@@ -1,5 +1,4 @@
-Trinacria excavata f. inflata A.M. Gombos, Jr. FORM
-=======
+# Trinacria excavata Heiberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraurotricha Foissner, 1983 GENUS
-=======
+# Paraurotricha Foissner, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo arcytophylli Cummins SPECIES
-=======
+# Uredo arcytophylli Cummins SPECIES
 
 #### Status
 ACCEPTED

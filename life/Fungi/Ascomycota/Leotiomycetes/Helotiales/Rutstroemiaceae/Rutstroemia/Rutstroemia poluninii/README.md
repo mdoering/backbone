@@ -1,5 +1,4 @@
-Rutstroemia poluninii Linder SPECIES
-=======
+# Rutstroemia poluninii Linder SPECIES
 
 #### Status
 ACCEPTED

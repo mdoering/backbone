@@ -1,14 +1,13 @@
-Degiustia Levine, 1979 GENUS
-=======
+# Gregarina Dufour, 1828 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Journal Protozool. 26 (4): 533.
+Ann. Sci. Nat. , 13 (52), 367.
 
 #### Original name
 null

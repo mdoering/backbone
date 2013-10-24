@@ -1,5 +1,4 @@
-Sargassum microcystum var. microtis Grunow VARIETY
-=======
+# Sargassum microcystum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

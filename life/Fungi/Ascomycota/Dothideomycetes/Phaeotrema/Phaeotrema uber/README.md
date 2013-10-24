@@ -1,5 +1,4 @@
-Phaeotrema uber Hue, 1916 SPECIES
-=======
+# Phaeotrema uber Hue, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilopsis lejolisii (Thuret) Kuckuck & Nienburg ex G. Hamel SPECIES
-=======
+# Stilopsis lejolisii (Thuret) Kuckuck & Nienburg ex G. Hamel SPECIES
 
 #### Status
 ACCEPTED

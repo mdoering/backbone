@@ -1,5 +1,4 @@
-Lagenosolenia claricellaris McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia claricellaris McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

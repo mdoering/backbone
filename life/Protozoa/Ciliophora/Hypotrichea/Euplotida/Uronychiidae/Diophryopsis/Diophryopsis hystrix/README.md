@@ -1,5 +1,4 @@
-Diophryopsis hystrix (Buddenbrock, 1920) Hill & Borror, 1992 SPECIES
-=======
+# Diophryopsis hystrix (Buddenbrock, 1920) Hill & Borror, 1992 SPECIES
 
 #### Status
 ACCEPTED

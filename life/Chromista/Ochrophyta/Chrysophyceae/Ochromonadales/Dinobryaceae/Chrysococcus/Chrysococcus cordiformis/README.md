@@ -1,5 +1,4 @@
-Chrysococcus cordiformis Naumann SPECIES
-=======
+# Chrysococcus cordiformis Naumann SPECIES
 
 #### Status
 ACCEPTED

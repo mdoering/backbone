@@ -1,17 +1,16 @@
-Ramularia taraxaci var. taraxaci VARIETY
-=======
+# Ramularia taraxaci P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 23: 7 (1884)
 
 #### Original name
-Ramularia taraxaci var. taraxaci
+Ramularia taraxaci P. Karst., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Refractohilum D. Hawksw. GENUS
-=======
+# Refractohilum D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

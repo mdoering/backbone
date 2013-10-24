@@ -1,5 +1,4 @@
-Xanthoria fallax f. fallax FORM
-=======
+# Xanthoria fallax (Hepp ex Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria oryzina Hara SPECIES
-=======
+# Sordaria oryzina Hara SPECIES
 
 #### Status
 ACCEPTED

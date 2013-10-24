@@ -1,5 +1,4 @@
-Phyllachora alnicola Rostr., 1880 SPECIES
-=======
+# Phyllachora alnicola Rostr., 1880 SPECIES
 
 #### Status
 ACCEPTED

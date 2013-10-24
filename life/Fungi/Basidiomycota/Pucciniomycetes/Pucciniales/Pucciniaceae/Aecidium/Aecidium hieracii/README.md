@@ -1,5 +1,4 @@
-Aecidium hieracii Schumach. SPECIES
-=======
+# Aecidium hieracii Schumach. SPECIES
 
 #### Status
 ACCEPTED

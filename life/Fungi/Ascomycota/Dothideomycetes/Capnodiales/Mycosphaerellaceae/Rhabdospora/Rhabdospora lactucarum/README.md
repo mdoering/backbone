@@ -1,5 +1,4 @@
-Rhabdospora lactucarum (Schwein.) Starbäck SPECIES
-=======
+# Rhabdospora lactucarum (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

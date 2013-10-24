@@ -1,5 +1,4 @@
-Erioderma marcellii P. M. Jørg. & Arv. SPECIES
-=======
+# Erioderma marcellii P. M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia abstrusa (Wallr.) Körb. SPECIES
-=======
+# Bacidia abstrusa (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

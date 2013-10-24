@@ -1,5 +1,4 @@
-Infundibulorium GENUS
-=======
+# Infundibulorium GENUS
 
 #### Status
 ACCEPTED

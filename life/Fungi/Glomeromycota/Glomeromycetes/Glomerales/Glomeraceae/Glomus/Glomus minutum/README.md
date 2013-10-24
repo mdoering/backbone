@@ -1,5 +1,4 @@
-Glomus minutum Blaszk., Tadych & Madej, 2000 SPECIES
-=======
+# Glomus minutum Blaszk., Tadych & Madej, 2000 SPECIES
 
 #### Status
 ACCEPTED

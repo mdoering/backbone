@@ -1,5 +1,4 @@
-Dichomyces pretiosus Thaxt. SPECIES
-=======
+# Dichomyces pretiosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

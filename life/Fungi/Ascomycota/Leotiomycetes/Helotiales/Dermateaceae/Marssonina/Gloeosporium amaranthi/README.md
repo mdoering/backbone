@@ -1,8 +1,7 @@
-Gloeosporium amaranti Ellis & Everh. SPECIES
-=======
+# Gloeosporium amaranthi Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium amaranti Ellis & Everh.
+Gloeosporium amaranthi Ellis & Everh.
 
 ### Remarks
 null

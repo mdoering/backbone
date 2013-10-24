@@ -1,5 +1,4 @@
-Stictis laciniata P.R. Johnst. SPECIES
-=======
+# Stictis laciniata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Alectoria laeta (Taylor) Linds. SPECIES
-=======
+# Alectoria lata (Taylor) Linds. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. R. Soc. Edinb. 22: 135 (1859)
 
 #### Original name
 Cornicularia laeta Taylor

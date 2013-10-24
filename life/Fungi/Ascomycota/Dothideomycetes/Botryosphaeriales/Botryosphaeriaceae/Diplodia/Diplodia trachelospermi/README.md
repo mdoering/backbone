@@ -1,5 +1,4 @@
-Diplodia trachelospermi Tassi SPECIES
-=======
+# Diplodia trachelospermi Tassi SPECIES
 
 #### Status
 ACCEPTED

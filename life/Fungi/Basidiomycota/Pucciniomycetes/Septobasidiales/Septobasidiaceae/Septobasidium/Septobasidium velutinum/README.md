@@ -1,5 +1,4 @@
-Septobasidium velutinum Pat., 1892 SPECIES
-=======
+# Septobasidium velutinum Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

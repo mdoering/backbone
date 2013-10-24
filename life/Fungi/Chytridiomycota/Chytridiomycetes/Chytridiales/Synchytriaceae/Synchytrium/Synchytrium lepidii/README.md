@@ -1,5 +1,4 @@
-Synchytrium lepidii M.T. Cook SPECIES
-=======
+# Synchytrium lepidii M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

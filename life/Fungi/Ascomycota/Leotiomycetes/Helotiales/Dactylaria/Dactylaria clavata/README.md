@@ -1,5 +1,4 @@
-Dactylaria clavata Matsush., 1975 SPECIES
-=======
+# Dactylaria clavata Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

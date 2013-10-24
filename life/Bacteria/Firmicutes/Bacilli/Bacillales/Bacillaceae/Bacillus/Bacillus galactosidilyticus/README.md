@@ -1,5 +1,4 @@
-Bacillus galactosidilyticus Heyndrickx et al., 2004 SPECIES
-=======
+# Bacillus galactosidilyticus Heyndrickx et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

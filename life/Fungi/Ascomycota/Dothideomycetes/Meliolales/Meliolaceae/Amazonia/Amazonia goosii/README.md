@@ -1,5 +1,4 @@
-Amazonia goosii Hosag. & T.K. Abraham SPECIES
-=======
+# Amazonia goosii Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

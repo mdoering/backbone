@@ -1,5 +1,4 @@
-Massariosphaeria adrianii Shoemaker & C.E. Babc. SPECIES
-=======
+# Massariosphaeria adrianii Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

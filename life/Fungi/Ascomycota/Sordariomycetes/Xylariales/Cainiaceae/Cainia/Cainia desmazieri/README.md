@@ -1,17 +1,16 @@
-Microthelia incarcerata (Desm.) Kuntze, 1898 SPECIES
-=======
+# Cainia desmazieri C. Moreau & E. Müll., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 498 (1898)
+Sydowia 30(1-6): 124 (1978)
 
 #### Original name
-Sphaeria incarcerata Desm., 1846
+Cainia desmazieri C. Moreau & E. Müll., 1978
 
 ### Remarks
 null

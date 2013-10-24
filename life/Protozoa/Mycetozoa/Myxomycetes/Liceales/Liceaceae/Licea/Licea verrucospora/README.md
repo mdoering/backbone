@@ -1,17 +1,16 @@
-Licea scyphoides reticulata T.N. Lakh., Nann.-Bremek. & R.K. Chopra, 1990 INFRASPECIFIC_NAME
-=======
+# Licea verrucospora (T.N. Lakh., Nann.-Bremek. & R.K. Chopra) D. Wrigley & Lado, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 20: 302 (2005)
 
 #### Original name
-null
+Licea scyphoides var. reticulata T.N. Lakh., Nann.-Bremek. & R.K. Chopra
 
 ### Remarks
 null

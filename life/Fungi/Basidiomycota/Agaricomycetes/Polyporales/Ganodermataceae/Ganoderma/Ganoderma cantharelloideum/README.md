@@ -1,5 +1,4 @@
-Ganoderma cantharelloideum M.H. Liu, 1989 SPECIES
-=======
+# Ganoderma cantharelloideum M.H. Liu, 1989 SPECIES
 
 #### Status
 ACCEPTED

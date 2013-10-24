@@ -1,5 +1,4 @@
-Lecanora gypsophilae Vain. SPECIES
-=======
+# Lecanora gypsophilae Vain. SPECIES
 
 #### Status
 ACCEPTED

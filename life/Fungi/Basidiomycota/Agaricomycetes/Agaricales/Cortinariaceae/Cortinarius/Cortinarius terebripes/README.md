@@ -1,5 +1,4 @@
-Cortinarius terebripes E. Horak SPECIES
-=======
+# Cortinarius terebripes E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinomma Haeckel, 1881 GENUS
-=======
+# Echinomma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

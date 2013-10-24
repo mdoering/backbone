@@ -1,5 +1,4 @@
-Badhamia versicolor Lister, 1901 SPECIES
-=======
+# Badhamia versicolor Lister, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria fimicola Fuckel SPECIES
-=======
+# Nectria fimicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

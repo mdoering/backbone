@@ -1,5 +1,4 @@
-Exidia aeruginosa P. Roberts, 2006 SPECIES
-=======
+# Exidia aeruginosa P. Roberts, 2006 SPECIES
 
 #### Status
 ACCEPTED

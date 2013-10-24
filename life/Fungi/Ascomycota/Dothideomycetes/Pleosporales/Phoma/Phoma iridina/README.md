@@ -1,5 +1,4 @@
-Phoma iridina Sacc. SPECIES
-=======
+# Phoma iridina Sacc. SPECIES
 
 #### Status
 ACCEPTED

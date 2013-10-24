@@ -1,5 +1,4 @@
-Laestadia polypodii Sacc. & Magnus SPECIES
-=======
+# Laestadia polypodii Sacc. & Magnus SPECIES
 
 #### Status
 ACCEPTED

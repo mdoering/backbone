@@ -1,5 +1,4 @@
-Pluteus rugosidiscus Murrill SPECIES
-=======
+# Pluteus rugosidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penomyces Giard ex Sacc. & Trotter GENUS
-=======
+# Penomyces Giard ex Sacc. & Trotter GENUS
 
 #### Status
 ACCEPTED

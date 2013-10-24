@@ -1,17 +1,16 @@
-Parmelia xanthomelanoides (Elix & T. H. Nash) Brusse SPECIES
-=======
+# Xanthoparmelia xanthomelanella Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 402 (2003)
 
 #### Original name
-null
+Paraparmelia xanthomelanoides Elix & T. H. Nash
 
 ### Remarks
 null

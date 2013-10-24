@@ -1,5 +1,4 @@
-Pestalotia thujicola J.L. Maas SPECIES
-=======
+# Pestalotia thujicola J.L. Maas SPECIES
 
 #### Status
 ACCEPTED

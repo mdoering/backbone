@@ -1,5 +1,4 @@
-Buellia subsquamescens Jatta SPECIES
-=======
+# Buellia subsquamescens Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rubrimonas Suzuki et al., 1999 GENUS
-=======
+# Rubrimonas Suzuki et al., 1999 GENUS
 
 #### Status
 ACCEPTED

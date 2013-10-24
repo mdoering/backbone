@@ -1,5 +1,4 @@
-Physarum galbeum Wingate, 1899 SPECIES
-=======
+# Physarum galbeum Wingate, 1899 SPECIES
 
 #### Status
 ACCEPTED

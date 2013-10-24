@@ -1,5 +1,4 @@
-Campylacia epidermidis SPECIES
-=======
+# Campylacia epidermidis SPECIES
 
 #### Status
 ACCEPTED

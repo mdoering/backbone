@@ -1,5 +1,4 @@
-Melanconium ghesquierei Beeli SPECIES
-=======
+# Melanconium ghesquierei Beeli SPECIES
 
 #### Status
 ACCEPTED

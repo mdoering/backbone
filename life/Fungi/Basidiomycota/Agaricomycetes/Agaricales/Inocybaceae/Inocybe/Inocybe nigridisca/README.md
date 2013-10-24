@@ -1,5 +1,4 @@
-Inocybe nigridisca Peck SPECIES
-=======
+# Inocybe nigridisca Peck SPECIES
 
 #### Status
 ACCEPTED

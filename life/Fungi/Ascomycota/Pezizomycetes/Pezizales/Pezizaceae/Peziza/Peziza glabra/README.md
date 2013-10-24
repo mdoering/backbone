@@ -1,5 +1,4 @@
-Peziza glabra Hoffm. SPECIES
-=======
+# Peziza glabra Hoffm. SPECIES
 
 #### Status
 ACCEPTED

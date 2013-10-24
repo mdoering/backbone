@@ -1,17 +1,16 @@
-Corethromyces henroti Balazuc SPECIES
-=======
+# Corethromyces henrotii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 42(10): 283 (1973)
 
 #### Original name
-Corethromyces henroti Balazuc
+Corethromyces henrotii Balazuc
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia brunnthaleri (J. Steiner) Hue SPECIES
-=======
+# Aspicilia brunnthaleri (J. Steiner) Hue SPECIES
 
 #### Status
 ACCEPTED

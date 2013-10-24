@@ -1,8 +1,7 @@
-Hypocomides mytili Chatton & Lwoff, 1922 SPECIES
-=======
+# Isocomides mytili (Chatton & Lwoff, 1922) Chatton & Lwoff, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

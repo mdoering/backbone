@@ -1,5 +1,4 @@
-Nectria funtumiae Massee SPECIES
-=======
+# Nectria funtumiae Massee SPECIES
 
 #### Status
 ACCEPTED

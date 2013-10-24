@@ -1,5 +1,4 @@
-Parmelia madreporiformis (With.) Spreng. SPECIES
-=======
+# Parmelia madreporiformis (With.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

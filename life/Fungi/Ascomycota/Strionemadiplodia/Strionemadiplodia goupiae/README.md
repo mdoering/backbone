@@ -1,5 +1,4 @@
-Strionemadiplodia goupiae Bat. & C. Ram SPECIES
-=======
+# Strionemadiplodia goupiae Bat. & C. Ram SPECIES
 
 #### Status
 ACCEPTED

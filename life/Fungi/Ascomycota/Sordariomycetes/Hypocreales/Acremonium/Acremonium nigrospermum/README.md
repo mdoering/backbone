@@ -1,5 +1,4 @@
-Acremonium nigrospermum Schwein. SPECIES
-=======
+# Acremonium nigrospermum Schwein. SPECIES
 
 #### Status
 ACCEPTED

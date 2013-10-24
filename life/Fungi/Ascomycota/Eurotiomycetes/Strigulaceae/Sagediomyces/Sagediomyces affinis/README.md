@@ -1,5 +1,4 @@
-Sagediomyces affinis Cif. & Tomas. SPECIES
-=======
+# Sagediomyces affinis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

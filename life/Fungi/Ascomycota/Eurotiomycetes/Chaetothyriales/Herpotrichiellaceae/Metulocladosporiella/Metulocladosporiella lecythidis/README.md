@@ -1,5 +1,4 @@
-Metulocladosporiella lecythidis SPECIES
-=======
+# Metulocladosporiella lecythidis SPECIES
 
 #### Status
 ACCEPTED

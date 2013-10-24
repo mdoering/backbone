@@ -1,5 +1,4 @@
-Globaria defossa Quél. SPECIES
-=======
+# Globaria defossa Quél. SPECIES
 
 #### Status
 ACCEPTED

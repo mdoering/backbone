@@ -1,5 +1,4 @@
-Lagotia lutea (Faure-Fremiet, 1936) Hadzi, 1951 SPECIES
-=======
+# Lagotia lutea (Faure-Fremiet, 1936) Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

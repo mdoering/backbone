@@ -1,5 +1,4 @@
-Anthoblastomyces saccharophilus Verona & Zardetto SPECIES
-=======
+# Anthoblastomyces saccharophilus Verona & Zardetto SPECIES
 
 #### Status
 ACCEPTED

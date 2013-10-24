@@ -1,5 +1,4 @@
-Pirottaea pilosissima Nannf. SPECIES
-=======
+# Pirottaea pilosissima Nannf. SPECIES
 
 #### Status
 ACCEPTED

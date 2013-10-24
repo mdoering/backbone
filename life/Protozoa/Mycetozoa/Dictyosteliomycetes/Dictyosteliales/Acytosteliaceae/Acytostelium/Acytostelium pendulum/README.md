@@ -1,5 +1,4 @@
-Acytostelium pendulum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium pendulum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

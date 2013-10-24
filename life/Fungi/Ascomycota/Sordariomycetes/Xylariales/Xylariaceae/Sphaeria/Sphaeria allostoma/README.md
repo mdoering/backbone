@@ -1,5 +1,4 @@
-Sphaeria allostoma Schwein. SPECIES
-=======
+# Sphaeria allostoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

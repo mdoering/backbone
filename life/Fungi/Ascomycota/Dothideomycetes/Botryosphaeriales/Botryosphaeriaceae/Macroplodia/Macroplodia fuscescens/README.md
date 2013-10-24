@@ -1,5 +1,4 @@
-Macroplodia fuscescens (Fr.) Kuntze SPECIES
-=======
+# Macroplodia fuscescens (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

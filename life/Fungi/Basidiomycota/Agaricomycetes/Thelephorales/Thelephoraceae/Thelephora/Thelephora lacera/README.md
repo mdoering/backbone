@@ -1,5 +1,4 @@
-Thelephora lacera Spreng. SPECIES
-=======
+# Thelephora lacera Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fromea senilis (McIntyre & Brideaux, 1980) Lentin & Williams, 1981 SPECIES
-=======
+# Fromea senilis (McIntyre & Brideaux, 1980) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

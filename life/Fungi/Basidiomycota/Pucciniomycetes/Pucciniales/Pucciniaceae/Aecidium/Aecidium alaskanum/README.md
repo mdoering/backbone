@@ -1,5 +1,4 @@
-Aecidium alaskanum Trel. SPECIES
-=======
+# Aecidium alaskanum Trel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bothryocampe Zittel, 1876 GENUS
-=======
+# Botryocampe Ehrenberg, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Pal. 1, fasc. 1, 123.
+MonatsBer. Akad. Wiss. Berlin, 1860, 829.
 
 #### Original name
 null

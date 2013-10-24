@@ -1,5 +1,4 @@
-Ombrophila archangelicae Rostr. SPECIES
-=======
+# Ombrophila archangelicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

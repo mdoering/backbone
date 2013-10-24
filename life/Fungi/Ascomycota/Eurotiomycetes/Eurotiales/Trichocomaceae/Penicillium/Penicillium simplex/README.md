@@ -1,5 +1,4 @@
-Penicillium simplex Lindner SPECIES
-=======
+# Penicillium simplex Lindner SPECIES
 
 #### Status
 ACCEPTED

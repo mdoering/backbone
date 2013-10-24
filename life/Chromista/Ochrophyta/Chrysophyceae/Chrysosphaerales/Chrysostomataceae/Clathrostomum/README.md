@@ -1,5 +1,4 @@
-Clathrostomum R. Chodat, 1922 GENUS
-=======
+# Clathrostomum R. Chodat, 1922 GENUS
 
 #### Status
 ACCEPTED

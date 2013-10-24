@@ -1,5 +1,4 @@
-Coprinus fuscescens var. fuscescens VARIETY
-=======
+# Coprinus fuscescens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 244 (1838)
+J. Linn. Soc. , Bot. 11(no. 56): 559 (1871)
 
 #### Original name
-Coprinus fuscescens var. fuscescens
+Coprinus fuscescens Berk. & Broome
 
 ### Remarks
 null

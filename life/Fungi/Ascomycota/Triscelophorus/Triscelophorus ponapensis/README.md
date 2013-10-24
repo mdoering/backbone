@@ -1,5 +1,4 @@
-Triscelophorus ponapensis Matsush. SPECIES
-=======
+# Triscelophorus ponapensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

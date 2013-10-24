@@ -1,5 +1,4 @@
-Batistaella GENUS
-=======
+# Batistaella GENUS
 
 #### Status
 ACCEPTED

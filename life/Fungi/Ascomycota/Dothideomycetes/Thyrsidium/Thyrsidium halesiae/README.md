@@ -1,5 +1,4 @@
-Thyrsidium halesiae (Ellis & Everh.) Höhn. SPECIES
-=======
+# Thyrsidium halesiae (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winfrenatia reticulata T.N. Taylor, Hass & Kerp SPECIES
-=======
+# Winfrenatia reticulata T.N. Taylor, Hass & Kerp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catacauma cubense Theiss. & Syd., 1915 SPECIES
-=======
+# Catacauma cubense Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hepaticae Brunaud SPECIES
-=======
+# Phyllosticta hepaticae Brunaud SPECIES
 
 #### Status
 ACCEPTED

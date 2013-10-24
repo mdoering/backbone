@@ -1,5 +1,4 @@
-Heliodendrum Haeckel, 1887 GENUS
-=======
+# Heliodendrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

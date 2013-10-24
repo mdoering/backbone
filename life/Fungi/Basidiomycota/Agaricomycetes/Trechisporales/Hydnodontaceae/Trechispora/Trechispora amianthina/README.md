@@ -1,14 +1,13 @@
-Corticium alboochraceum amianthinum (Bourdot & Galzin) Bourdot & Galzin, 1928 SUBSPECIES
-=======
+# Trechispora amianthina (Bourdot & Galzin) Liberta, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 15(8): 318 (1966)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Trametes gilvoumbrina Bres. SPECIES
-=======
+# Trametes gilvoumbrina Bres. SPECIES
 
 #### Status
 ACCEPTED

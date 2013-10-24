@@ -1,5 +1,4 @@
-Thelidium pluvium Orange SPECIES
-=======
+# Thelidium pluvium Orange SPECIES
 
 #### Status
 ACCEPTED

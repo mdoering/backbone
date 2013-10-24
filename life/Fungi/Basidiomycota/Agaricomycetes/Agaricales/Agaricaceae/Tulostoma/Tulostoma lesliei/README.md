@@ -1,5 +1,4 @@
-Tulostoma lesliei Lloyd SPECIES
-=======
+# Tulostoma lesliei Lloyd SPECIES
 
 #### Status
 ACCEPTED

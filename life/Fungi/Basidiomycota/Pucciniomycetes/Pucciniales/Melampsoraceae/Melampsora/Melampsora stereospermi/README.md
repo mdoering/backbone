@@ -1,5 +1,4 @@
-Melampsora stereospermi T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Melampsora stereospermi T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

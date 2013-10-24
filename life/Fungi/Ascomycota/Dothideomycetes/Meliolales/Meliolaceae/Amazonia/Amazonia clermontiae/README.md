@@ -1,5 +1,4 @@
-Amazonia clermontiae Hansf. SPECIES
-=======
+# Amazonia clermontiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

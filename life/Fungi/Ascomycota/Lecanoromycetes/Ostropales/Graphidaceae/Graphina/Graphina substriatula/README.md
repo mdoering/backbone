@@ -1,5 +1,4 @@
-Graphina substriatula (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina substriatula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

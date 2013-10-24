@@ -1,5 +1,4 @@
-Favolus purpurascens Berk. & M.A. Curtis SPECIES
-=======
+# Favolus purpurascens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

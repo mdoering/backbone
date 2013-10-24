@@ -1,5 +1,4 @@
-Histioneis rotundata Kofoid & Michener, 1911 SPECIES
-=======
+# Histioneis rotundata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

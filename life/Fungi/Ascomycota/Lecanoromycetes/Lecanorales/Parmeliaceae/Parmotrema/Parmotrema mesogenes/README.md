@@ -1,17 +1,16 @@
-Parmelia mesogenes Nyl. SPECIES
-=======
+# Parmotrema mesogenes (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 337 (1974)
 
 #### Original name
-null
+Parmelia mesogenes Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hexalaspidium Haeckel, 1887 GENUS
-=======
+# Hexalaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

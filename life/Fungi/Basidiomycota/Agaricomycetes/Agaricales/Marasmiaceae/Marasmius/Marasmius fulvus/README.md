@@ -1,5 +1,4 @@
-Marasmius fulvus Mont. SPECIES
-=======
+# Marasmius fulvus Mont. SPECIES
 
 #### Status
 ACCEPTED

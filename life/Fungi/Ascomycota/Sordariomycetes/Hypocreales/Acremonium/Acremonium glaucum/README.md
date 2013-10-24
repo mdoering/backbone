@@ -1,5 +1,4 @@
-Acremonium glaucum W. Gams, 1971 SPECIES
-=======
+# Acremonium glaucum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

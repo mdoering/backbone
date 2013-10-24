@@ -1,5 +1,4 @@
-Erastia Niemelä & Kinnunen GENUS
-=======
+# Erastia Niemelä & Kinnunen GENUS
 
 #### Status
 ACCEPTED

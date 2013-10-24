@@ -1,5 +1,4 @@
-Phaeostromatella P. J.L. Dangeard, 1970 GENUS
-=======
+# Phaeostromatella P. J.L. Dangeard, 1970 GENUS
 
 #### Status
 ACCEPTED

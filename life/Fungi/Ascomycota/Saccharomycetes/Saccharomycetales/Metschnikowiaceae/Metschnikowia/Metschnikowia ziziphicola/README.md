@@ -1,17 +1,16 @@
-Metschnikowia zizyphicola M.L. Xue & L.Q. Zhang SPECIES
-=======
+# Metschnikowia ziziphicola M.L. Xue & L.Q. Zhang, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Xue, Zhang, Wang, Zhang & Bai, Int. J. Syst. Evol. Microbiol. 56(9): 2248 (2006)
 
 #### Original name
-Metschnikowia zizyphicola M.L. Xue & L.Q. Zhang
+Metschnikowia ziziphicola M.L. Xue & L.Q. Zhang, 2006
 
 ### Remarks
 null

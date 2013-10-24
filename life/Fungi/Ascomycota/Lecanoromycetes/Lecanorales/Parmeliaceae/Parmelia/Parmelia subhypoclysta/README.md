@@ -1,5 +1,4 @@
-Parmelia subhypoclysta C.W. Dodge SPECIES
-=======
+# Parmelia subhypoclysta C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

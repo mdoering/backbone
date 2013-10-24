@@ -1,5 +1,4 @@
-Tilletia bambusae Thirum. & Pavgi SPECIES
-=======
+# Tilletia bambusae Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

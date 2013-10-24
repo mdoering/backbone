@@ -1,5 +1,4 @@
-Camarosporium nigricans McAlpine, 1902 SPECIES
-=======
+# Camarosporium nigricans McAlpine, 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Poria rosmarini (A. David & Malençon) Ginns, 1984 SPECIES
-=======
+# Perenniporia rosmarini A. David & Malençon, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 331 (1984)
+Bull. trimest. Soc. mycol. Fr. 94(4): 407 (1979)
 
 #### Original name
 Perenniporia rosmarini A. David & Malençon, 1979

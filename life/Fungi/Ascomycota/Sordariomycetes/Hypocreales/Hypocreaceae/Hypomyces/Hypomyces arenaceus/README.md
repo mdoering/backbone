@@ -1,5 +1,4 @@
-Hypomyces arenaceus A.L. Sm. SPECIES
-=======
+# Hypomyces arenaceus A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

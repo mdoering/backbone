@@ -1,5 +1,4 @@
-Sphaeria echii Kirchn. SPECIES
-=======
+# Sphaeria echii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

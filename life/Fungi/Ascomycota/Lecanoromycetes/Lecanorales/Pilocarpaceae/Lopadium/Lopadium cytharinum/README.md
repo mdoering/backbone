@@ -1,5 +1,4 @@
-Lopadium cytharinum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium cytharinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

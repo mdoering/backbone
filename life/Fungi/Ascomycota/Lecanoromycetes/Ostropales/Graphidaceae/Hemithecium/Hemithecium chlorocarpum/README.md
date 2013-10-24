@@ -1,5 +1,4 @@
-Hemithecium chlorocarpum (Fée) Trevis. SPECIES
-=======
+# Hemithecium chlorocarpum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

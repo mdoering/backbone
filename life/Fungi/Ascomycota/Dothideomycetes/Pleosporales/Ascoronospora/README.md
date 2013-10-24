@@ -1,5 +1,4 @@
-Ascoronospora Matsush. GENUS
-=======
+# Ascoronospora Matsush. GENUS
 
 #### Status
 ACCEPTED

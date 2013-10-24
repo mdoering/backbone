@@ -1,5 +1,4 @@
-Euplotes camurus Dumas, 1930 SPECIES
-=======
+# Euplotes camurus Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

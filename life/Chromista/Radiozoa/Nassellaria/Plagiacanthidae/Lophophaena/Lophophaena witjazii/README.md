@@ -1,5 +1,4 @@
-Lophophaena witjazii (Petrushevskaya) Van de Paverd, 1995 SPECIES
-=======
+# Lophophaena witjazii (Petrushevskaya) Van de Paverd, 1995 SPECIES
 
 #### Status
 ACCEPTED

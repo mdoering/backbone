@@ -1,14 +1,13 @@
-Ceratocystis falcata E.F. Wright & Cain, 1961 SPECIES
-=======
+# Cornuvesica falcata (E.F. Wright & Cain) C.D. Viljoen, M.J. Wingf. & K. Jacobs, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39: 1226 (1961)
+in Viljoen, Wingfield, Jacobs & Wingfield, Mycol. Res. 104(3): 366 (2000)
 
 #### Original name
 Ceratocystis falcata E.F. Wright & Cain, 1961

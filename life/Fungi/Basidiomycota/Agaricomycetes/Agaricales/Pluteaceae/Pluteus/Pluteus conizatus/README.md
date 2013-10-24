@@ -1,5 +1,4 @@
-Pluteus conizatus var. africanus E. Horak VARIETY
-=======
+# Pluteus conizatus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 47(1-2): 89 (1977)
+Syll. fung. (Abellini) 5: 674 (1887)
 
 #### Original name
-Pluteus conizatus var. africanus E. Horak
+Agaricus conizatus Berk. & Broome
 
 ### Remarks
 null

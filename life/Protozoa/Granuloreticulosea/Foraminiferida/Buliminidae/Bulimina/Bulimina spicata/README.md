@@ -1,5 +1,4 @@
-Bulimina spicata SPECIES
-=======
+# Bulimina spicata SPECIES
 
 #### Status
 ACCEPTED

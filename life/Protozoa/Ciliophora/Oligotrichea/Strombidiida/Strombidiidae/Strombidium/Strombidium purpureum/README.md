@@ -1,5 +1,4 @@
-Strombidium purpureum Kahl, 1932 SPECIES
-=======
+# Strombidium purpureum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

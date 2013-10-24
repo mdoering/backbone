@@ -1,5 +1,4 @@
-Parmotrema naonii Elix SPECIES
-=======
+# Parmotrema naonii Elix SPECIES
 
 #### Status
 ACCEPTED

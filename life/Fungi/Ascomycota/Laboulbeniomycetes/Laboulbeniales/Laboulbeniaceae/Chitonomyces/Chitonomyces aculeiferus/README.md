@@ -1,5 +1,4 @@
-Chitonomyces aculeiferus Speg. SPECIES
-=======
+# Chitonomyces aculeiferus Speg. SPECIES
 
 #### Status
 ACCEPTED

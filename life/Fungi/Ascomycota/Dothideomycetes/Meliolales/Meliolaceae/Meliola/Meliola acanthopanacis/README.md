@@ -1,5 +1,4 @@
-Meliola acanthopanacis W. Yamam. SPECIES
-=======
+# Meliola acanthopanacis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma deserticola Gilb. & Lindsey, 1975 SPECIES
-=======
+# Hyphoderma deserticola Gilb. & Lindsey, 1975 SPECIES
 
 #### Status
 ACCEPTED

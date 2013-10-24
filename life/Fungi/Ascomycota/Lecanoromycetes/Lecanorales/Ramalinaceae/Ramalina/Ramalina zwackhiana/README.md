@@ -1,5 +1,4 @@
-Ramalina zwackhiana (Kremp.) Körb. SPECIES
-=======
+# Ramalina zwackhiana (Kremp.) Körb. SPECIES
 
 #### Status
 ACCEPTED

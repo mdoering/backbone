@@ -1,5 +1,4 @@
-Verrucaria analepta Fée SPECIES
-=======
+# Verrucaria analepta Fée SPECIES
 
 #### Status
 ACCEPTED

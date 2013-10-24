@@ -1,5 +1,4 @@
-Merulius leguminosus Fairm. SPECIES
-=======
+# Merulius leguminosus Fairm. SPECIES
 
 #### Status
 ACCEPTED

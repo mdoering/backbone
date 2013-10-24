@@ -1,5 +1,4 @@
-Smittium arcticum Kobayasi, 1969 SPECIES
-=======
+# Smittium arcticum Kobayasi, 1969 SPECIES
 
 #### Status
 ACCEPTED

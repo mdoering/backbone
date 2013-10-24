@@ -1,5 +1,4 @@
-Endothiella japonica Roane SPECIES
-=======
+# Endothiella japonica Roane SPECIES
 
 #### Status
 ACCEPTED

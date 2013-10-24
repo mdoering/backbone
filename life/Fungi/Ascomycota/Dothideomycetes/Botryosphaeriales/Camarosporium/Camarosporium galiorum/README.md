@@ -1,5 +1,4 @@
-Camarosporium galiorum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Camarosporium galiorum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium gigasporum K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Helicosporium gigasporum K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

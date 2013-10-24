@@ -1,5 +1,4 @@
-Helicascus nypae K.D. Hyde, 1991 SPECIES
-=======
+# Helicascus nypae K.D. Hyde, 1991 SPECIES
 
 #### Status
 ACCEPTED

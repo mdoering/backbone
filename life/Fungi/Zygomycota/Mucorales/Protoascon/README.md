@@ -1,5 +1,4 @@
-Protoascon L.R. Batra, Segal & R.W. Baxter GENUS
-=======
+# Protoascon L.R. Batra, Segal & R.W. Baxter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia actinonema (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Diplodia actinonema (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

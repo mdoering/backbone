@@ -1,5 +1,4 @@
-Sebacina globospora Whelden SPECIES
-=======
+# Sebacina globospora Whelden SPECIES
 
 #### Status
 ACCEPTED

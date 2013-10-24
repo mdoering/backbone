@@ -1,5 +1,4 @@
-Chytridium versatile Scherff. SPECIES
-=======
+# Chytridium versatile Scherff. SPECIES
 
 #### Status
 ACCEPTED

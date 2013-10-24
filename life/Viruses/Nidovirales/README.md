@@ -1,5 +1,4 @@
-Nidovirales ORDER
-=======
+# Nidovirales ORDER
 
 #### Status
 ACCEPTED

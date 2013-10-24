@@ -1,5 +1,4 @@
-Bovista schwarzmanniana Philimonova SPECIES
-=======
+# Bovista schwarzmanniana Philimonova SPECIES
 
 #### Status
 ACCEPTED

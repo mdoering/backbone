@@ -1,5 +1,4 @@
-Heufleria megalostoma Vain. SPECIES
-=======
+# Heufleria megalostoma Vain. SPECIES
 
 #### Status
 ACCEPTED

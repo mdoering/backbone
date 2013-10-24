@@ -1,14 +1,13 @@
-Zopfia cunninghamiae D. Hawksw. & C. Booth, 1974 SPECIES
-=======
+# Neotestudina cunninghamiae (D. Hawksw. & C. Booth) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 135: 16 (1974)
+Stud. Mycol. 9: 111 (1975)
 
 #### Original name
 Zopfia cunninghamiae D. Hawksw. & C. Booth, 1974

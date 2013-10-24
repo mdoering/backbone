@@ -1,5 +1,4 @@
-Kamptnerius magnificus Deflandre, 1959 SPECIES
-=======
+# Kamptnerius magnificus Deflandre, 1959 SPECIES
 
 #### Status
 ACCEPTED

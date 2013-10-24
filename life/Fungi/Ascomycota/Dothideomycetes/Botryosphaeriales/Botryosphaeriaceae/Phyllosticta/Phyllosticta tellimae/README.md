@@ -1,5 +1,4 @@
-Phyllosticta tellimae Tassi SPECIES
-=======
+# Phyllosticta tellimae Tassi SPECIES
 
 #### Status
 ACCEPTED

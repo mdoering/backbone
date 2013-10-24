@@ -1,14 +1,13 @@
-Leptosphaerella oryzae (I. Miyake) Hara, 1959 SPECIES
-=======
+# Phaeosphaeria oryzae I. Miyake, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 23: (1909)
 
 #### Original name
 Phaeosphaeria oryzae I. Miyake, 1909

@@ -1,5 +1,4 @@
-Rickia introversa Thaxt. SPECIES
-=======
+# Rickia introversa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

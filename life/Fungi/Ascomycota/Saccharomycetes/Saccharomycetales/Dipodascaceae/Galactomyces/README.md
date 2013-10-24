@@ -1,5 +1,4 @@
-Galactomyces Redhead & Malloch, 1977 GENUS
-=======
+# Galactomyces Redhead & Malloch, 1977 GENUS
 
 #### Status
 ACCEPTED

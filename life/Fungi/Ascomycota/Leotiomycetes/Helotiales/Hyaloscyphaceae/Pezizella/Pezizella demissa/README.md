@@ -1,5 +1,4 @@
-Pezizella demissa Velen. SPECIES
-=======
+# Pezizella demissa Velen. SPECIES
 
 #### Status
 ACCEPTED

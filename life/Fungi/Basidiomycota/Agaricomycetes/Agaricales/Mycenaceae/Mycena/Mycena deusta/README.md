@@ -1,5 +1,4 @@
-Mycena deusta Maas Geest. & de Meijer SPECIES
-=======
+# Mycena deusta Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

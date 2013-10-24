@@ -1,5 +1,4 @@
-Diplodiella viminis Fautrey SPECIES
-=======
+# Diplodiella viminis Fautrey SPECIES
 
 #### Status
 ACCEPTED

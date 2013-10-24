@@ -1,5 +1,4 @@
-Dentalina cooperensis Cushman, 1933 SPECIES
-=======
+# Dentalina cooperensis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

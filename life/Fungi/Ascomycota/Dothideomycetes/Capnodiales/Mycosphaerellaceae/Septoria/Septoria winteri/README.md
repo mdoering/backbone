@@ -1,5 +1,4 @@
-Septoria winteri Speg. SPECIES
-=======
+# Septoria winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

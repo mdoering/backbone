@@ -1,5 +1,4 @@
-Clitocybe kabulensis Singer SPECIES
-=======
+# Clitocybe kabulensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe pseudoinoloma Velen. SPECIES
-=======
+# Hydrocybe pseudoinoloma Velen. SPECIES
 
 #### Status
 ACCEPTED

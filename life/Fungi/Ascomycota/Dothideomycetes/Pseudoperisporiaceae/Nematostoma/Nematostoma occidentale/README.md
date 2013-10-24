@@ -1,5 +1,4 @@
-Nematostoma occidentale (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Nematostoma occidentale (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

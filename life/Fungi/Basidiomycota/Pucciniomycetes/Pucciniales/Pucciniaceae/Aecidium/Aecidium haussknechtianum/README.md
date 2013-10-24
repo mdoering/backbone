@@ -1,5 +1,4 @@
-Aecidium haussknechtianum Henn. SPECIES
-=======
+# Aecidium haussknechtianum Henn. SPECIES
 
 #### Status
 ACCEPTED

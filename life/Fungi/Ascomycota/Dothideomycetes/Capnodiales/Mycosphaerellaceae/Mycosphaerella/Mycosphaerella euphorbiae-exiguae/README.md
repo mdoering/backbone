@@ -1,5 +1,4 @@
-Mycosphaerella euphorbiae-exiguae (Unamuno) Tomilin SPECIES
-=======
+# Mycosphaerella euphorbiae-exiguae (Unamuno) Tomilin SPECIES
 
 #### Status
 ACCEPTED

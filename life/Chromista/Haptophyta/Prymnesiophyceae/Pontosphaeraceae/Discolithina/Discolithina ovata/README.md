@@ -1,5 +1,4 @@
-Discolithina ovata H.L. Levin & A.P. Joerger SPECIES
-=======
+# Discolithina ovata H.L. Levin & A.P. Joerger SPECIES
 
 #### Status
 ACCEPTED

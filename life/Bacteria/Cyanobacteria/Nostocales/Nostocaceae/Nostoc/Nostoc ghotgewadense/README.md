@@ -1,5 +1,4 @@
-Nostoc ghotgewadense G. R. Hegde & K. Somanna SPECIES
-=======
+# Nostoc ghotgewadense G. R. Hegde & K. Somanna SPECIES
 
 #### Status
 ACCEPTED

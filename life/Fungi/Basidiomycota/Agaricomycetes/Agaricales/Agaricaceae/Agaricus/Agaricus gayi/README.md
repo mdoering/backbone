@@ -1,5 +1,4 @@
-Agaricus gayi Roum. SPECIES
-=======
+# Agaricus gayi Roum. SPECIES
 
 #### Status
 ACCEPTED

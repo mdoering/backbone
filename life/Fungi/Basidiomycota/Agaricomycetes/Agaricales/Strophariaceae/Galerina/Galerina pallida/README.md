@@ -1,5 +1,4 @@
-Galerina pallida (Pilát) E. Horak & M.M. Moser SPECIES
-=======
+# Galerina pallida (Pilát) E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

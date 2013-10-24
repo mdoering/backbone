@@ -1,5 +1,4 @@
-Borrelia tillae Zumpt and Organ, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Borrelia tillae Zumpt and Organ, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

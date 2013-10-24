@@ -1,5 +1,4 @@
-Pannaria glacialis Anzi SPECIES
-=======
+# Pannaria glacialis Anzi SPECIES
 
 #### Status
 ACCEPTED

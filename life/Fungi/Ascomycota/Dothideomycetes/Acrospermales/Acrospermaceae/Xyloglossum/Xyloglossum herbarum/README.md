@@ -1,5 +1,4 @@
-Xyloglossum herbarum Pers. SPECIES
-=======
+# Xyloglossum herbarum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina ceropegiae Hosag., H. Biju & Manojk., 2006 SPECIES
-=======
+# Asterina ceropegiae Hosag., H. Biju & Manojk., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps imagamiana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps imagamiana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

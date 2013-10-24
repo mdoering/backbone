@@ -1,5 +1,4 @@
-Scutellinia convexa (Velen.) Svrcek SPECIES
-=======
+# Scutellinia convexa (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

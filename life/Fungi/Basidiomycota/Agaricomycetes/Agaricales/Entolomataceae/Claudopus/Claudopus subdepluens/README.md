@@ -1,5 +1,4 @@
-Claudopus subdepluens Fitzp. SPECIES
-=======
+# Claudopus subdepluens Fitzp. SPECIES
 
 #### Status
 ACCEPTED

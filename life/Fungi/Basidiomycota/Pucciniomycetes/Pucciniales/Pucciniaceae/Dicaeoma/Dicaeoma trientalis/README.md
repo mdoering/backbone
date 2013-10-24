@@ -1,5 +1,4 @@
-Dicaeoma trientalis (Tranzschel) Arthur & F. Kern SPECIES
-=======
+# Dicaeoma trientalis (Tranzschel) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

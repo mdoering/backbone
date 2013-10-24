@@ -1,5 +1,4 @@
-Ceratostoma avocetta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Ceratostoma avocetta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

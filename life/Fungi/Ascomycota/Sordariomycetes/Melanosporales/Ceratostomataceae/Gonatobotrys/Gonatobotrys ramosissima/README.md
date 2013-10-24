@@ -1,5 +1,4 @@
-Gonatobotrys ramosissima G. Arnaud SPECIES
-=======
+# Gonatobotrys ramosissima G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

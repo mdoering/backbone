@@ -1,5 +1,4 @@
-Parmelia ostracoderma Ach. SPECIES
-=======
+# Parmelia ostracoderma Ach. SPECIES
 
 #### Status
 ACCEPTED

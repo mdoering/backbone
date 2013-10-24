@@ -1,5 +1,4 @@
-Pluteus osornensis E. Horak SPECIES
-=======
+# Pluteus osornensis E. Horak SPECIES
 
 #### Status
 ACCEPTED

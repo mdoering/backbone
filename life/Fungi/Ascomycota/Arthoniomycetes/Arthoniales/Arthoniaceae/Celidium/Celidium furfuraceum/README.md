@@ -1,5 +1,4 @@
-Celidium furfuraceum Anzi SPECIES
-=======
+# Celidium furfuraceum Anzi SPECIES
 
 #### Status
 ACCEPTED

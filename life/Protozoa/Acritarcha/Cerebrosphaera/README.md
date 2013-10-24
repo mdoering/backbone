@@ -1,5 +1,4 @@
-Cerebrosphaera Butterfield in Butterfield, Knoll & Swett, 1994 GENUS
-=======
+# Cerebrosphaera Butterfield in Butterfield, Knoll & Swett, 1994 GENUS
 
 #### Status
 ACCEPTED

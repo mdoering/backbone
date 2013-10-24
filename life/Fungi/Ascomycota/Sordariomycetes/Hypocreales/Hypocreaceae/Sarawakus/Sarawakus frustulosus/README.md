@@ -1,14 +1,13 @@
-Xylaria frustulosa (Berk. & M.A. Curtis) Cooke, 1883 SPECIES
-=======
+# Sarawakus frustulosus (Berk. & M.A. Curtis) Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 5 (1883)
+Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 157 (1998)
 
 #### Original name
 Hypoxylon frustulosum Berk. & M.A. Curtis, 1868

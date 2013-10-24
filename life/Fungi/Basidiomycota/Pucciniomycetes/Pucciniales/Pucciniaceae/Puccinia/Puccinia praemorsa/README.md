@@ -1,5 +1,4 @@
-Puccinia praemorsa Dietel & Holw. SPECIES
-=======
+# Puccinia praemorsa Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

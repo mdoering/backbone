@@ -1,5 +1,4 @@
-Parataeniellaceae Manier & Lichtw. FAMILY
-=======
+# Parataeniellaceae Manier & Lichtw. FAMILY
 
 #### Status
 ACCEPTED

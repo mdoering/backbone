@@ -1,5 +1,4 @@
-Collema lamuense C.W. Dodge SPECIES
-=======
+# Collema lamuense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

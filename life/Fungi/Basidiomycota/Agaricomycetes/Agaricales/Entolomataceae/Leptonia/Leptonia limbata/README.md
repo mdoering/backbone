@@ -1,5 +1,4 @@
-Leptonia limbata Largent SPECIES
-=======
+# Leptonia limbata Largent SPECIES
 
 #### Status
 ACCEPTED

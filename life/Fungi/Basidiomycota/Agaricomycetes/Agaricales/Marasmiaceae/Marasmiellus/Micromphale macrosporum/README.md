@@ -1,5 +1,4 @@
-Micromphale macrosporum Singer SPECIES
-=======
+# Micromphale macrosporum Singer SPECIES
 
 #### Status
 ACCEPTED

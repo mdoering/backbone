@@ -1,5 +1,4 @@
-Diplodinula photiniae (Brunaud) Tassi SPECIES
-=======
+# Diplodinula photiniae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

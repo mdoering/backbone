@@ -1,5 +1,4 @@
-Ruwenzoria Laboissière, 1920 GENUS
-=======
+# Ruwenzoria Laboissière, 1920 GENUS
 
 #### Status
 ACCEPTED

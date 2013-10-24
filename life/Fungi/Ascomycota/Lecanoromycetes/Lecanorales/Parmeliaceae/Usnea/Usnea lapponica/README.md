@@ -1,17 +1,16 @@
-Usnea monstruosa var. monstruosa VARIETY
-=======
+# Usnea lapponica Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 48: 173 (1925)
 
 #### Original name
-Usnea monstruosa var. monstruosa
+Usnea lapponica Vain.
 
 ### Remarks
 null

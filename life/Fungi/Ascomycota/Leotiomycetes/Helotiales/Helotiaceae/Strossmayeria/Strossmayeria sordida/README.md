@@ -1,14 +1,13 @@
-Belonium sordidum E.K. Cash, 1937 SPECIES
-=======
+# Strossmayeria sordida (E.K. Cash) Iturr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iowa Studies Nat. Hist. 17: 215 (1937)
+in Iturriaga & Korf, Mycotaxon 36(2): 444 (1990)
 
 #### Original name
 Belonium sordidum E.K. Cash, 1937

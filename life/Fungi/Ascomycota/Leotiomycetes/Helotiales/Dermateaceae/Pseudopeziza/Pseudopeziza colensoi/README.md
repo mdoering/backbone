@@ -1,14 +1,13 @@
-Cenangium colensoi Berk., 1855 SPECIES
-=======
+# Pseudopeziza colensoi (Berk.) Massee, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. nov. -zel. 201 (1855)
+J. Linn. Soc. , Bot. 31: 468 (1896)
 
 #### Original name
 Cenangium colensoi Berk., 1855

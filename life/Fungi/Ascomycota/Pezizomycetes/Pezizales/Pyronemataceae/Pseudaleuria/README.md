@@ -1,5 +1,4 @@
-Pseudaleuria Lusk GENUS
-=======
+# Pseudaleuria Lusk GENUS
 
 #### Status
 ACCEPTED

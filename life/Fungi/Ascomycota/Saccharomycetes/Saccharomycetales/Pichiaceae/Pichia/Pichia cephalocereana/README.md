@@ -1,17 +1,16 @@
-Pichia kluyveri var. cephalocereana Phaff, Starmer & Tredick, 1987 VARIETY
-=======
+# Pichia cephalocereana (Phaff, Starmer & Tredick) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 947 (2008)
 
 #### Original name
-null
+Pichia kluyveri var. cephalocereana Phaff, Starmer & Tredick, 1987
 
 ### Remarks
 null

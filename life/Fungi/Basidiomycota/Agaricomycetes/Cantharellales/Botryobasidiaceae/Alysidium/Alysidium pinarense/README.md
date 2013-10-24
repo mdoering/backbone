@@ -1,5 +1,4 @@
-Alysidium pinarense R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Alysidium pinarense R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

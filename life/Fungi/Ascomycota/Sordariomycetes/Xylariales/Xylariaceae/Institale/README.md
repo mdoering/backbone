@@ -1,5 +1,4 @@
-Institale GENUS
-=======
+# Institale GENUS
 
 #### Status
 ACCEPTED

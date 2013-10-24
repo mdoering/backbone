@@ -1,5 +1,4 @@
-Phaeogalera ovalispora (Kalamees) Bon SPECIES
-=======
+# Phaeogalera ovalispora (Kalamees) Bon SPECIES
 
 #### Status
 ACCEPTED

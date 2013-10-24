@@ -1,5 +1,4 @@
-Polyporus jelinekii (Reichardt) Trotter SPECIES
-=======
+# Polyporus jelinekii (Reichardt) Trotter SPECIES
 
 #### Status
 ACCEPTED

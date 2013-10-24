@@ -1,5 +1,4 @@
-Microsphaera hedysari U. Braun SPECIES
-=======
+# Microsphaera hedysari U. Braun SPECIES
 
 #### Status
 ACCEPTED

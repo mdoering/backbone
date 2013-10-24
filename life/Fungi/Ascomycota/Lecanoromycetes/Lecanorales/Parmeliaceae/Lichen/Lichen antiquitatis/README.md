@@ -1,5 +1,4 @@
-Lichen antiquitatis (L.) Schreb. SPECIES
-=======
+# Lichen antiquitatis (L.) Schreb. SPECIES
 
 #### Status
 ACCEPTED

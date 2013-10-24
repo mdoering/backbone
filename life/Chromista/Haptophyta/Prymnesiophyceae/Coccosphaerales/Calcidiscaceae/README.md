@@ -1,5 +1,4 @@
-Calcidiscaceae FAMILY
-=======
+# Calcidiscaceae FAMILY
 
 #### Status
 ACCEPTED

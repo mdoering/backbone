@@ -1,5 +1,4 @@
-Collybia subtortipes (Murrill) Murrill SPECIES
-=======
+# Collybia subtortipes (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

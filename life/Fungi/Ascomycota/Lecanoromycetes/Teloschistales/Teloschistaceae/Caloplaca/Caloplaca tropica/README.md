@@ -1,5 +1,4 @@
-Caloplaca tropica Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca tropica Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

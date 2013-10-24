@@ -1,5 +1,4 @@
-Helvella barlae Boud. & Pat. SPECIES
-=======
+# Helvella barlae Boud. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophryoglena frontonia Bullington, 1940 SPECIES
-=======
+# Ophryoglena frontonia Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium triplex Floyd et al., 1997 SPECIES
-=======
+# Mycobacterium triplex Floyd et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

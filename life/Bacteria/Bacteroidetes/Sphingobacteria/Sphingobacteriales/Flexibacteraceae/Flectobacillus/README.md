@@ -1,5 +1,4 @@
-Flectobacillus Larkin, Williams & Taylor, 1977 GENUS
-=======
+# Flectobacillus Larkin, Williams & Taylor, 1977 GENUS
 
 #### Status
 ACCEPTED

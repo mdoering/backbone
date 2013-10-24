@@ -1,5 +1,4 @@
-Leucoagaricus cupresseus (Burl.) Boisselet & Guinb. SPECIES
-=======
+# Leucoagaricus cupresseus (Burl.) Boisselet & Guinb. SPECIES
 
 #### Status
 ACCEPTED

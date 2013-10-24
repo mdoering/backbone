@@ -1,8 +1,7 @@
-Sphaerophorus hypermegas (Harrison & Hansen, 1963) Prévot, 1966 SPECIES
-=======
+# Bacteroides hypermegas Harrison & Hansen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

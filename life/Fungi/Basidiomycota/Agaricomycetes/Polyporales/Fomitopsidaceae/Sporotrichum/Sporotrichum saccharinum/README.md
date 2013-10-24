@@ -1,5 +1,4 @@
-Sporotrichum saccharinum Link SPECIES
-=======
+# Sporotrichum saccharinum Link SPECIES
 
 #### Status
 ACCEPTED

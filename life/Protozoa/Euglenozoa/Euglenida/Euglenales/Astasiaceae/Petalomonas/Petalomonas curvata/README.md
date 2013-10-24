@@ -1,5 +1,4 @@
-Petalomonas curvata Skuja SPECIES
-=======
+# Petalomonas curvata Skuja SPECIES
 
 #### Status
 ACCEPTED

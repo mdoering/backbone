@@ -1,5 +1,4 @@
-Stereocaulon santorinense J. Stainer SPECIES
-=======
+# Stereocaulon santorinense J. Stainer SPECIES
 
 #### Status
 ACCEPTED

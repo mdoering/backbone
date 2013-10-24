@@ -1,5 +1,4 @@
-Entoloma deminutivum Peck SPECIES
-=======
+# Entoloma deminutivum Peck SPECIES
 
 #### Status
 ACCEPTED

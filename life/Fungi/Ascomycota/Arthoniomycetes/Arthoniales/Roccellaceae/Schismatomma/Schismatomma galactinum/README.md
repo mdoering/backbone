@@ -1,5 +1,4 @@
-Schismatomma galactinum (Leight.) Zahlbr. SPECIES
-=======
+# Schismatomma galactinum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

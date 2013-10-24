@@ -1,5 +1,4 @@
-Polythecium GENUS
-=======
+# Polythecium GENUS
 
 #### Status
 ACCEPTED

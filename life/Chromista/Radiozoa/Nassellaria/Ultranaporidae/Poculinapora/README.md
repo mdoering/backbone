@@ -1,5 +1,4 @@
-Poculinapora Dumitrica & Zügel, 2003 GENUS
-=======
+# Poculinapora Dumitrica & Zügel, 2003 GENUS
 
 #### Status
 ACCEPTED

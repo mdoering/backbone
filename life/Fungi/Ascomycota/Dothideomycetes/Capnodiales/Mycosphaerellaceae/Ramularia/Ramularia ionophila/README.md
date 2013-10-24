@@ -1,5 +1,4 @@
-Ramularia ionophila Davis SPECIES
-=======
+# Ramularia ionophila Davis SPECIES
 
 #### Status
 ACCEPTED

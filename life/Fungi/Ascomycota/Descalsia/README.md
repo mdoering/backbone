@@ -1,5 +1,4 @@
-Descalsia A. Roldán & Honrubia GENUS
-=======
+# Descalsia A. Roldán & Honrubia GENUS
 
 #### Status
 ACCEPTED

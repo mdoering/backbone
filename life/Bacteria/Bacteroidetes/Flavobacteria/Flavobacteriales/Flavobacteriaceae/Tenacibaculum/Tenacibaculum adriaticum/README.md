@@ -1,5 +1,4 @@
-Tenacibaculum adriaticum Heindl, Wiese & Imhoff, 2008 SPECIES
-=======
+# Tenacibaculum adriaticum Heindl, Wiese & Imhoff, 2008 SPECIES
 
 #### Status
 ACCEPTED

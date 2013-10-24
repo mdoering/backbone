@@ -1,5 +1,4 @@
-Monacrosporium deodycoides (Drechsler) R.C. Cooke & C.H. Dickinson SPECIES
-=======
+# Monacrosporium deodycoides (Drechsler) R.C. Cooke & C.H. Dickinson SPECIES
 
 #### Status
 ACCEPTED

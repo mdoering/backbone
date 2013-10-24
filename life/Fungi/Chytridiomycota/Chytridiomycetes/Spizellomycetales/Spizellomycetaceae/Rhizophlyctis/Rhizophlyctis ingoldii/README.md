@@ -1,5 +1,4 @@
-Rhizophlyctis ingoldii Sparrow, 1957 SPECIES
-=======
+# Rhizophlyctis ingoldii Sparrow, 1957 SPECIES
 
 #### Status
 ACCEPTED

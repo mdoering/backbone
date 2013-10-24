@@ -1,5 +1,4 @@
-Dendryphion pini Höhn. SPECIES
-=======
+# Dendryphion pini Höhn. SPECIES
 
 #### Status
 ACCEPTED

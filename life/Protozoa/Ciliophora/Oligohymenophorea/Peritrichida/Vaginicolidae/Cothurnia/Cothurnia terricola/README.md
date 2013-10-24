@@ -1,5 +1,4 @@
-Cothurnia terricola SPECIES
-=======
+# Cothurnia terricola SPECIES
 
 #### Status
 ACCEPTED

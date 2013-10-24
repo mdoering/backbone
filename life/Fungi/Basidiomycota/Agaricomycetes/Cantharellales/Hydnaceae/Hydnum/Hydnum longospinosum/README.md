@@ -1,5 +1,4 @@
-Hydnum longospinosum Lloyd SPECIES
-=======
+# Hydnum longospinosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

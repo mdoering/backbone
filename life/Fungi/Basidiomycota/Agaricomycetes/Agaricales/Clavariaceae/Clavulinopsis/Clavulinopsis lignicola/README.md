@@ -1,5 +1,4 @@
-Clavulinopsis lignicola (R.H. Petersen) Corner, 1970 SPECIES
-=======
+# Clavulinopsis lignicola (R.H. Petersen) Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

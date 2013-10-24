@@ -1,5 +1,4 @@
-Protobotellina pacifica Saidova, 1970 SPECIES
-=======
+# Protobotellina pacifica Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

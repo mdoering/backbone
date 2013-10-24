@@ -1,5 +1,4 @@
-Micropeziza trollii Wettst. SPECIES
-=======
+# Micropeziza trollii Wettst. SPECIES
 
 #### Status
 ACCEPTED

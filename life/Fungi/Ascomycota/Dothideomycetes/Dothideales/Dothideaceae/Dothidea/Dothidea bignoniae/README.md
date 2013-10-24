@@ -1,5 +1,4 @@
-Dothidea bignoniae Fr. SPECIES
-=======
+# Dothidea bignoniae Fr. SPECIES
 
 #### Status
 ACCEPTED

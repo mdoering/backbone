@@ -1,14 +1,13 @@
-Chaetomeris pulcherrima (Höhn.) Clem., 1931 SPECIES
-=======
+# Treubiomyces pulcherrimus Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 (1931)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118(8): 1181-1182 (1909)
 
 #### Original name
 Treubiomyces pulcherrimus Höhn., 1909

@@ -1,5 +1,4 @@
-Phaeoacremonium iranianum L. Mostert, Gräfenhan, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium iranianum L. Mostert, Gräfenhan, W. Gams & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus revolutus (Rick) Raithelh. SPECIES
-=======
+# Leucocoprinus revolutus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

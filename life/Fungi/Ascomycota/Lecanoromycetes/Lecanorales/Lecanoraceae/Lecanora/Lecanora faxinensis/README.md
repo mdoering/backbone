@@ -1,5 +1,4 @@
-Lecanora faxinensis var. faxinensis VARIETY
-=======
+# Lecanora faxinensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora faxinensis var. faxinensis
+Lecidea faxinensis Müll. Arg.
 
 ### Remarks
 null

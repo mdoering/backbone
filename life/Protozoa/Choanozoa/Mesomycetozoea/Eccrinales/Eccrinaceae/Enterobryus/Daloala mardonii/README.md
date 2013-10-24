@@ -1,5 +1,4 @@
-Daloala mardonii Tuzet, Manier & Vog.-Zuber SPECIES
-=======
+# Daloala mardonii Tuzet, Manier & Vog.-Zuber SPECIES
 
 #### Status
 ACCEPTED

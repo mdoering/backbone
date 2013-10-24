@@ -1,5 +1,4 @@
-Crinipellis sepiaria Pat. & Demange SPECIES
-=======
+# Crinipellis sepiaria Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

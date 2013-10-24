@@ -1,5 +1,4 @@
-Phomopsis schefflerae P.G. Xi, P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Phomopsis schefflerae P.G. Xi, P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

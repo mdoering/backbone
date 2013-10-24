@@ -1,5 +1,4 @@
-Coniothyriella Spegazzini, 1889 GENUS
-=======
+# Coniothyriella Spegazzini, 1889 GENUS
 
 #### Status
 ACCEPTED

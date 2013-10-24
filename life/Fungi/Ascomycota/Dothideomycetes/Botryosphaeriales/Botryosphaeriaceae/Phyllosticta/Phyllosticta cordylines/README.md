@@ -1,5 +1,4 @@
-Phyllosticta cordylines Chowdhry, 1970 SPECIES
-=======
+# Phyllosticta cordylines Chowdhry, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea ealeansis Beeli SPECIES
-=======
+# Daedalea ealeansis Beeli SPECIES
 
 #### Status
 ACCEPTED

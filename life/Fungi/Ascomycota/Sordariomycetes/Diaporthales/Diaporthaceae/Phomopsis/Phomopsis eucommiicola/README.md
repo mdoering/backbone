@@ -1,5 +1,4 @@
-Phomopsis eucommiicola C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis eucommiicola C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

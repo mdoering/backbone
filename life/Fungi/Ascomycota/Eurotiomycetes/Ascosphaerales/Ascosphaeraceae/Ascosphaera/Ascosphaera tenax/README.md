@@ -1,5 +1,4 @@
-Ascosphaera tenax Skou & S.N. Holm SPECIES
-=======
+# Ascosphaera tenax Skou & S.N. Holm SPECIES
 
 #### Status
 ACCEPTED

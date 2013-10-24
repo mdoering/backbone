@@ -1,5 +1,4 @@
-Usnea pruinosa var. pruinosa VARIETY
-=======
+# Usnea pruinosa Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea pruinosa var. pruinosa
+Usnea pruinosa Motyka
 
 ### Remarks
 null

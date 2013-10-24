@@ -1,14 +1,13 @@
-Nematoloma viscidipes (A.H. Sm.) A.H. Sm. SPECIES
-=======
+# Naematoloma viscidipes (A.H. Sm.) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 479 (1951)
 
 #### Original name
 Hypholoma viscidipes A.H. Sm.

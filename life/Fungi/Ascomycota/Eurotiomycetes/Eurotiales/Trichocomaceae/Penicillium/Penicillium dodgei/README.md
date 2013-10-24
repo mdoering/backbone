@@ -1,17 +1,16 @@
-Penicillium brefeldianum B.O. Dodge, 1933 SPECIES
-=======
+# Penicillium dodgei Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25: 92 (1933)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 117 (1980)
 
 #### Original name
-Penicillium brefeldianum B.O. Dodge, 1933
+Penicillium dodgei Pitt, 1980
 
 ### Remarks
 null

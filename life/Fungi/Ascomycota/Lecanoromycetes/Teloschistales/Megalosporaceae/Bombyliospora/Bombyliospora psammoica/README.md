@@ -1,5 +1,4 @@
-Bombyliospora psammoica (Nyl.) Arnold SPECIES
-=======
+# Bombyliospora psammoica (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

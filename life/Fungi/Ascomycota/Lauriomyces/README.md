@@ -1,5 +1,4 @@
-Lauriomyces R.F. Castañeda GENUS
-=======
+# Lauriomyces R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euhaplomyces Thaxt. GENUS
-=======
+# Euhaplomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

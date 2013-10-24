@@ -1,5 +1,4 @@
-Gibberella mapaniae (Schwein.) Sacc. SPECIES
-=======
+# Gibberella mapaniae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

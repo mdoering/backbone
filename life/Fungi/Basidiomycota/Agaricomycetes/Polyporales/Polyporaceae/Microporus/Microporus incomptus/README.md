@@ -1,14 +1,13 @@
-Microporus incomtus (Afzel. ex Fr.) Kuntze SPECIES
-=======
+# Microporus incomptus (Afzel. ex Fr.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 495 (1898)
 
 #### Original name
 Polyporus incomptus Afzel. ex Fr., 1837

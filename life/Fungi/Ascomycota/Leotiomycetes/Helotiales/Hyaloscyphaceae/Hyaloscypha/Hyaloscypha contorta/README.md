@@ -1,5 +1,4 @@
-Hyaloscypha contorta Velen. SPECIES
-=======
+# Hyaloscypha contorta Velen. SPECIES
 
 #### Status
 ACCEPTED

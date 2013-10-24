@@ -1,5 +1,4 @@
-Menispora cobaltina Sacc. SPECIES
-=======
+# Menispora cobaltina Sacc. SPECIES
 
 #### Status
 ACCEPTED

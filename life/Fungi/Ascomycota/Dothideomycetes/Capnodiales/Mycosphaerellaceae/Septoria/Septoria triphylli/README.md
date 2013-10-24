@@ -1,5 +1,4 @@
-Septoria triphylli Hollós SPECIES
-=======
+# Septoria triphylli Hollós SPECIES
 
 #### Status
 ACCEPTED

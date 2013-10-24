@@ -1,14 +1,13 @@
-Protocrea stipata (Lib.) Petch, 1937 SPECIES
-=======
+# Arachnocrea stipata (Fuckel) Z. Moravec, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 75: 219 (1937)
+Bull. trimest. Soc. mycol. Fr. 72: 161 (1956)
 
 #### Original name
 Hypocrea stipata Fuckel, 1871

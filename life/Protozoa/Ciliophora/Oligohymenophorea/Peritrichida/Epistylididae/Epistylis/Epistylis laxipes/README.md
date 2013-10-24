@@ -1,5 +1,4 @@
-Epistylis laxipes Dumas, 1930 SPECIES
-=======
+# Epistylis laxipes Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

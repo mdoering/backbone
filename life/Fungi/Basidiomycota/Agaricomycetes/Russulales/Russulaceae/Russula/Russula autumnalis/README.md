@@ -1,5 +1,4 @@
-Russula autumnalis f. autumnalis FORM
-=======
+# Russula autumnalis Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 139 (1920)
 
 #### Original name
-Russula autumnalis f. autumnalis
+Russula autumnalis Velen.
 
 ### Remarks
 null

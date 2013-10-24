@@ -1,5 +1,4 @@
-Lecidea granularis Müll. Arg. SPECIES
-=======
+# Lecidea granularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

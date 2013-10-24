@@ -1,5 +1,4 @@
-Cladonia vicaria R. Sant. SPECIES
-=======
+# Cladonia vicaria R. Sant. SPECIES
 
 #### Status
 ACCEPTED

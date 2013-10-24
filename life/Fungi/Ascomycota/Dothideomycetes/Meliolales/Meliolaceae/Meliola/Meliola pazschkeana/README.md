@@ -1,5 +1,4 @@
-Meliola pazschkeana var. pazschkeana VARIETY
-=======
+# Meliola pazschkeana Gaillard SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Le Genre Meliola 95 (1892)
 
 #### Original name
-Meliola pazschkeana var. pazschkeana
+Meliola pazschkeana Gaillard
 
 ### Remarks
 null

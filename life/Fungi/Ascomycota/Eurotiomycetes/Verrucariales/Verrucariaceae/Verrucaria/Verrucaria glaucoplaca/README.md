@@ -1,5 +1,4 @@
-Verrucaria glaucoplaca Vain. SPECIES
-=======
+# Verrucaria glaucoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

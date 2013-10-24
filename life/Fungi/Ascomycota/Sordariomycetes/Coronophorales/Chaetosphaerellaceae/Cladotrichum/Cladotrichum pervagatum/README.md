@@ -1,5 +1,4 @@
-Cladotrichum pervagatum Preuss SPECIES
-=======
+# Cladotrichum pervagatum Preuss SPECIES
 
 #### Status
 ACCEPTED

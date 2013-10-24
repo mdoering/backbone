@@ -1,5 +1,4 @@
-Placynthiella arenicola Elenkin SPECIES
-=======
+# Placynthiella arenicola Elenkin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula bruchiana Speg. SPECIES
-=======
+# Diplodinula bruchiana Speg. SPECIES
 
 #### Status
 ACCEPTED

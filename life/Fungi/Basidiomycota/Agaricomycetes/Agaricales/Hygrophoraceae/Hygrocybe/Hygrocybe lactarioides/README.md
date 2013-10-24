@@ -1,5 +1,4 @@
-Hygrocybe lactarioides Singer SPECIES
-=======
+# Hygrocybe lactarioides Singer SPECIES
 
 #### Status
 ACCEPTED

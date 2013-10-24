@@ -1,5 +1,4 @@
-Diatrype patella Rehm SPECIES
-=======
+# Diatrype patella Rehm SPECIES
 
 #### Status
 ACCEPTED

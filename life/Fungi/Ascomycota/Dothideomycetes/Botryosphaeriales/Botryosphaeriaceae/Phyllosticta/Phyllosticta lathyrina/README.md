@@ -1,5 +1,4 @@
-Phyllosticta lathyrina Sacc. & G. Winter, 1883 SPECIES
-=======
+# Phyllosticta lathyrina Sacc. & G. Winter, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena roseoquercina M. Villarreal & Esteve-Rav. SPECIES
-=======
+# Mycena roseoquercina M. Villarreal & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum pomi Oudem. SPECIES
-=======
+# Septogloeum pomi Oudem. SPECIES
 
 #### Status
 ACCEPTED

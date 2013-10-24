@@ -1,5 +1,4 @@
-Cyphella microthele Speg. SPECIES
-=======
+# Cyphella microthele Speg. SPECIES
 
 #### Status
 ACCEPTED

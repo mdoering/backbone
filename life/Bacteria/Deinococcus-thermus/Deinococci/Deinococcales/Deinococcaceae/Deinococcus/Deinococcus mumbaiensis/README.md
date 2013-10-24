@@ -1,5 +1,4 @@
-Deinococcus mumbaiensis Shashidhar & Bandekar, 2006 SPECIES
-=======
+# Deinococcus mumbaiensis Shashidhar & Bandekar, 2006 SPECIES
 
 #### Status
 ACCEPTED

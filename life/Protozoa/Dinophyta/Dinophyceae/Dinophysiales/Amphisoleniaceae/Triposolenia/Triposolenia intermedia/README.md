@@ -1,5 +1,4 @@
-Triposolenia intermedia Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Triposolenia intermedia Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza vladimirii (Vacek) Svrcek SPECIES
-=======
+# Peziza vladimirii (Vacek) Svrcek SPECIES
 
 #### Status
 ACCEPTED

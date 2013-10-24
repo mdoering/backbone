@@ -1,5 +1,4 @@
-Botrytis ceratioides Peck SPECIES
-=======
+# Botrytis ceratioides Peck SPECIES
 
 #### Status
 ACCEPTED

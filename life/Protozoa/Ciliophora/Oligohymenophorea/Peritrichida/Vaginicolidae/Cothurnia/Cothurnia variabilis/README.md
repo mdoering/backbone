@@ -1,5 +1,4 @@
-Cothurnia variabilis SPECIES
-=======
+# Cothurnia variabilis SPECIES
 
 #### Status
 ACCEPTED

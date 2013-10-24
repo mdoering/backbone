@@ -1,5 +1,4 @@
-Dactylosporangium vinaceum Shomura et al., 1983 SPECIES
-=======
+# Dactylosporangium vinaceum Shomura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

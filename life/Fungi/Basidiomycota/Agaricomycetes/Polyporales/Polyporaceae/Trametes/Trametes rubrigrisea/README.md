@@ -1,5 +1,4 @@
-Trametes rubrigrisea Corner SPECIES
-=======
+# Trametes rubrigrisea Corner SPECIES
 
 #### Status
 ACCEPTED

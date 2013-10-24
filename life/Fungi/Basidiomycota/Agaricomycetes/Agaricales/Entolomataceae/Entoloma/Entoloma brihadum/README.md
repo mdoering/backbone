@@ -1,5 +1,4 @@
-Entoloma brihadum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma brihadum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

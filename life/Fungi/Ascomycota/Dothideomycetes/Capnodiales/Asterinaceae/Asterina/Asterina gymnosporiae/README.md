@@ -1,5 +1,4 @@
-Asterina gymnosporiae E. Castell. SPECIES
-=======
+# Asterina gymnosporiae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

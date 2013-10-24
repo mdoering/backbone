@@ -1,5 +1,4 @@
-Parmelia subcremea Zahlbr. SPECIES
-=======
+# Parmelia subcremea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

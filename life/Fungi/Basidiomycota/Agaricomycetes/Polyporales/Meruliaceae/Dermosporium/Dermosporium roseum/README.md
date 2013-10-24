@@ -1,5 +1,4 @@
-Dermosporium roseum Schwein. SPECIES
-=======
+# Dermosporium roseum Schwein. SPECIES
 
 #### Status
 ACCEPTED

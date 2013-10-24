@@ -1,5 +1,4 @@
-Macrophyllosticta allospora A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta allospora A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

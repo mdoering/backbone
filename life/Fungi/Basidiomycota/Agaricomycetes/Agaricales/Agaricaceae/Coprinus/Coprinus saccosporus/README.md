@@ -1,5 +1,4 @@
-Coprinus saccosporus Singer SPECIES
-=======
+# Coprinus saccosporus Singer SPECIES
 
 #### Status
 ACCEPTED

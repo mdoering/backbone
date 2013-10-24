@@ -1,5 +1,4 @@
-Leciographa urceolata var. urceolata (Th. Fr.) Rehm VARIETY
-=======
+# Dactylospora urceolata (Th. Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 57: 173 (1874)
 
 #### Original name
-Leciographa urceolata var. urceolata (Th. Fr.) Rehm
+Buellia urceolata Th. Fr.
 
 ### Remarks
 null

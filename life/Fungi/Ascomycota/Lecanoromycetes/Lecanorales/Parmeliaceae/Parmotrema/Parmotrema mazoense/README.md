@@ -1,5 +1,4 @@
-Parmotrema mazoense (C.W. Dodge) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Parmotrema mazoense (C.W. Dodge) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

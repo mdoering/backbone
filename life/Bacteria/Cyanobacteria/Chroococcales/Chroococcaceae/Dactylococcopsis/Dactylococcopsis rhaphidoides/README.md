@@ -1,5 +1,4 @@
-Dactylococcopsis rhaphidoides Hansgirg SPECIES
-=======
+# Dactylococcopsis rhaphidoides Hansgirg SPECIES
 
 #### Status
 ACCEPTED

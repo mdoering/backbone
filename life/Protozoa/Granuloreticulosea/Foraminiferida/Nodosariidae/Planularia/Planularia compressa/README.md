@@ -1,5 +1,4 @@
-Planularia compressa (Chapman) SPECIES
-=======
+# Planularia compressa (Chapman) SPECIES
 
 #### Status
 ACCEPTED

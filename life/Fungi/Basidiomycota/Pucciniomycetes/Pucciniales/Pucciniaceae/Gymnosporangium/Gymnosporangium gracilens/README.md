@@ -1,5 +1,4 @@
-Gymnosporangium gracilens (Peck) F. Kern & Bethel SPECIES
-=======
+# Gymnosporangium gracilens (Peck) F. Kern & Bethel SPECIES
 
 #### Status
 ACCEPTED

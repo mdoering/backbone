@@ -1,5 +1,4 @@
-Cercospora annonifolii Bat. & Peres SPECIES
-=======
+# Cercospora annonifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

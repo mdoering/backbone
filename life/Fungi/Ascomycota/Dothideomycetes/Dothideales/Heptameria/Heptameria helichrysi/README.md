@@ -1,5 +1,4 @@
-Heptameria helichrysi (Fabre) Sacc. SPECIES
-=======
+# Heptameria helichrysi (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptobelonium vexatum Höhn. SPECIES
-=======
+# Leptobelonium vexatum Höhn. SPECIES
 
 #### Status
 ACCEPTED

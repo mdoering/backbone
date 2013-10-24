@@ -1,14 +1,13 @@
-Alternaria longissima Deighton & MacGarvie, 1968 SPECIES
-=======
+# Prathoda longissima (Deighton & MacGarvie) E.G. Simmons, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 113: 10 (1968)
+Alternaria: an identification manual 672 (2007)
 
 #### Original name
 Alternaria longissima Deighton & MacGarvie, 1968

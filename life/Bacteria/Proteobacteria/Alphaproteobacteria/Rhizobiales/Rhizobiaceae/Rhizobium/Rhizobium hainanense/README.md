@@ -1,5 +1,4 @@
-Rhizobium hainanense Chen et al., 1997 SPECIES
-=======
+# Rhizobium hainanense Chen et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

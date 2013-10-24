@@ -1,5 +1,4 @@
-Oxytoxum reficulatum (Stein) Schott SPECIES
-=======
+# Oxytoxum reficulatum (Stein) Schott SPECIES
 
 #### Status
 ACCEPTED

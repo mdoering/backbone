@@ -1,5 +1,4 @@
-Elphidium milletti SPECIES
-=======
+# Elphidium milletti SPECIES
 
 #### Status
 ACCEPTED

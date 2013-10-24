@@ -1,5 +1,4 @@
-Lentinus chudaei Har. & Pat. SPECIES
-=======
+# Lentinus chudaei Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

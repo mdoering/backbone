@@ -1,5 +1,4 @@
-Tilletia elymicola Lavrov SPECIES
-=======
+# Tilletia elymicola Lavrov SPECIES
 
 #### Status
 ACCEPTED

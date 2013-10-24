@@ -1,5 +1,4 @@
-Uredo agerati Mayor SPECIES
-=======
+# Uredo agerati Mayor SPECIES
 
 #### Status
 ACCEPTED

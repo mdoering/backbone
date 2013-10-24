@@ -1,5 +1,4 @@
-Clitopilus minutus Herp. SPECIES
-=======
+# Clitopilus minutus Herp. SPECIES
 
 #### Status
 ACCEPTED

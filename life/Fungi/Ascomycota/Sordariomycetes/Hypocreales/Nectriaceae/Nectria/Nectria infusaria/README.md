@@ -1,5 +1,4 @@
-Nectria infusaria Cooke & Harkn. SPECIES
-=======
+# Nectria infusaria Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

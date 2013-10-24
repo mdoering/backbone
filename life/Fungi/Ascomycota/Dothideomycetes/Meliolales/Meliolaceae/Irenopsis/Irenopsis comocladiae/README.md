@@ -1,5 +1,4 @@
-Irenopsis comocladiae (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis comocladiae (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

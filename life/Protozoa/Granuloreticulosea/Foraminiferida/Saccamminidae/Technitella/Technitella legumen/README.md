@@ -1,5 +1,4 @@
-Technitella legumen Norman, 1878 SPECIES
-=======
+# Technitella legumen Norman, 1878 SPECIES
 
 #### Status
 ACCEPTED

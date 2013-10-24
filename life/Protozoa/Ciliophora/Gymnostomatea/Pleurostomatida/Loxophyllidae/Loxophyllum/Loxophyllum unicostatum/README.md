@@ -1,5 +1,4 @@
-Loxophyllum unicostatum Lepsi, 1962 SPECIES
-=======
+# Loxophyllum unicostatum Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum psammophilus Dragesco, 1954 SPECIES
-=======
+# Loxophyllum psammophilus Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

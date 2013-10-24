@@ -1,5 +1,4 @@
-Cercospora isopyri Höhn. SPECIES
-=======
+# Cercospora isopyri Höhn. SPECIES
 
 #### Status
 ACCEPTED

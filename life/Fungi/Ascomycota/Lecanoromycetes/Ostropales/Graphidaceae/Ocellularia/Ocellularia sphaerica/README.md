@@ -1,5 +1,4 @@
-Ocellularia sphaerica G. Mey. SPECIES
-=======
+# Ocellularia sphaerica G. Mey. SPECIES
 
 #### Status
 ACCEPTED

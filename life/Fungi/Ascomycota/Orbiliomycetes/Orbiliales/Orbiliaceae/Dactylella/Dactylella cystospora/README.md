@@ -1,5 +1,4 @@
-Dactylella cystospora R.C. Cooke SPECIES
-=======
+# Dactylella cystospora R.C. Cooke SPECIES
 
 #### Status
 ACCEPTED

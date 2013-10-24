@@ -1,5 +1,4 @@
-Belonia calcicola Walt. Watson SPECIES
-=======
+# Belonia calcicola Walt. Watson SPECIES
 
 #### Status
 ACCEPTED

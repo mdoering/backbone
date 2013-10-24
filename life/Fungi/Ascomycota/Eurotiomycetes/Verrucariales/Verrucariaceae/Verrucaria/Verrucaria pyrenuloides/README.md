@@ -1,5 +1,4 @@
-Verrucaria pyrenuloides var. pyrenuloides (Fée) Fée VARIETY
-=======
+# Verrucaria pyrenuloides (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria pyrenuloides var. pyrenuloides (Fée) Fée
+Pyrenula verrucarioides Fée
 
 ### Remarks
 null

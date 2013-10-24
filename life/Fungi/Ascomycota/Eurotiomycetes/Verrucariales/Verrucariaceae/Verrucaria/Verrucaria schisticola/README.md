@@ -1,5 +1,4 @@
-Verrucaria schisticola H. Magn. SPECIES
-=======
+# Verrucaria schisticola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

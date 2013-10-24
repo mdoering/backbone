@@ -1,5 +1,4 @@
-Mitrula lutescens Berk. & M.A. Curtis SPECIES
-=======
+# Mitrula lutescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

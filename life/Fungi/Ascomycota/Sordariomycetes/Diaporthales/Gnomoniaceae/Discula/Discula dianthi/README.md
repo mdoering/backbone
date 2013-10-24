@@ -1,5 +1,4 @@
-Discula dianthi Magnus SPECIES
-=======
+# Discula dianthi Magnus SPECIES
 
 #### Status
 ACCEPTED

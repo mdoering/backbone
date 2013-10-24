@@ -1,5 +1,4 @@
-Laxoendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
-=======
+# Laxoendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cupaniae Bat. SPECIES
-=======
+# Phyllosticta cupaniae Bat. SPECIES
 
 #### Status
 ACCEPTED

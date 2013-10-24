@@ -1,5 +1,4 @@
-Allewia GENUS
-=======
+# Allewia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subcompactus Rob. Henry SPECIES
-=======
+# Cortinarius subcompactus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

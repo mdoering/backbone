@@ -1,14 +1,13 @@
-Nectria boothii D. Hawksw., 1980 SPECIES
-=======
+# Hydropisphaera boothii (D. Hawksw.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hawksworth & Minter, Trans. Br. mycol. Soc. 74(3): 572 (1980)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 30 (1999)
 
 #### Original name
 Nectria boothii D. Hawksw., 1980

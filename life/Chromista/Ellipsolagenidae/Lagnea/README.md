@@ -1,5 +1,4 @@
-Lagnea Popescu, 1983 GENUS
-=======
+# Lagnea Popescu, 1983 GENUS
 
 #### Status
 ACCEPTED

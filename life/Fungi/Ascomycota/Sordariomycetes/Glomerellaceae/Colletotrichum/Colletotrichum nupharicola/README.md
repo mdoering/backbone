@@ -1,5 +1,4 @@
-Colletotrichum nupharicola D.A. Johnson, Carris & J.D. Rogers SPECIES
-=======
+# Colletotrichum nupharicola D.A. Johnson, Carris & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

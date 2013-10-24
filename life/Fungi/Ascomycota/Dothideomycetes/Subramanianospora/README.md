@@ -1,5 +1,4 @@
-Subramanianospora Narayanan, J.K. Sharma & Minter GENUS
-=======
+# Subramanianospora Narayanan, J.K. Sharma & Minter GENUS
 
 #### Status
 ACCEPTED

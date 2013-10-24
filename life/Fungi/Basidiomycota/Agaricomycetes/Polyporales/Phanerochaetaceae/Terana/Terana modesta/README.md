@@ -1,5 +1,4 @@
-Terana modesta (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana modesta (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

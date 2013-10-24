@@ -1,5 +1,4 @@
-Rhizocarpon excedens Kremp. SPECIES
-=======
+# Rhizocarpon excedens Kremp. SPECIES
 
 #### Status
 ACCEPTED

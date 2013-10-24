@@ -1,5 +1,4 @@
-Lecidea parasemiza Nyl. SPECIES
-=======
+# Lecidea parasemiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia shastensis E.K. Cash SPECIES
-=======
+# Mollisia shastensis E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

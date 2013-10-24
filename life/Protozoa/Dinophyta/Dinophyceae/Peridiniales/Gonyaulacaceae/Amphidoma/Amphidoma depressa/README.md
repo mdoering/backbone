@@ -1,5 +1,4 @@
-Amphidoma depressa Kofoid & Swezy, 1911 SPECIES
-=======
+# Amphidoma depressa Kofoid & Swezy, 1911 SPECIES
 
 #### Status
 ACCEPTED

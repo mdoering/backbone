@@ -1,5 +1,4 @@
-Puccinia dietrichiana Tranzschel SPECIES
-=======
+# Puccinia dietrichiana Tranzschel SPECIES
 
 #### Status
 ACCEPTED

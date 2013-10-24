@@ -1,5 +1,4 @@
-Patellaria thejotea (Ach.) Wallr. SPECIES
-=======
+# Patellaria thejotea (Ach.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

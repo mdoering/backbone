@@ -1,5 +1,4 @@
-Winterella aurantiaca (Wehm.) J. Reid & C. Booth SPECIES
-=======
+# Winterella aurantiaca (Wehm.) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stellarima centralis (Ehrenberg) SPECIES
-=======
+# Stellarima centralis (Ehrenberg) SPECIES
 
 #### Status
 ACCEPTED

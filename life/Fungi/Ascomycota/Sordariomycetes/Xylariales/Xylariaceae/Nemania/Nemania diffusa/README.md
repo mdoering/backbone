@@ -1,17 +1,16 @@
-Hypoxylon unitum (Fr.) Nitschke, 1867 SPECIES
-=======
+# Nemania diffusa (Sowerby) Gray, 1821 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 44 (1867)
+Nat. Arr. Brit. Pl. (London) 1: 517 (1821)
 
 #### Original name
-Sphaeria unita Fr., 1828
+Sphaeria diffusa Sowerby, 1803
 
 ### Remarks
 null

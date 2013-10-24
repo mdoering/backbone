@@ -1,5 +1,4 @@
-Aspicilia excipularis (H. Magn.) Creveld SPECIES
-=======
+# Aspicilia excipularis (H. Magn.) Creveld SPECIES
 
 #### Status
 ACCEPTED

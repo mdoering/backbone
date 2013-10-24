@@ -1,5 +1,4 @@
-Pontosphaera pellucida Lohmann SPECIES
-=======
+# Pontosphaera pellucida Lohmann SPECIES
 
 #### Status
 ACCEPTED

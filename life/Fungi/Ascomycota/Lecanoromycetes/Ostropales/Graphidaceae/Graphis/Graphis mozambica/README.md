@@ -1,5 +1,4 @@
-Graphis mozambica Vain. SPECIES
-=======
+# Graphis mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED

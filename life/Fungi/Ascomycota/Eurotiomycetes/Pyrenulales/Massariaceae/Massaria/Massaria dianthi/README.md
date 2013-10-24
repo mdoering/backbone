@@ -1,5 +1,4 @@
-Massaria dianthi Riofrio SPECIES
-=======
+# Massaria dianthi Riofrio SPECIES
 
 #### Status
 ACCEPTED

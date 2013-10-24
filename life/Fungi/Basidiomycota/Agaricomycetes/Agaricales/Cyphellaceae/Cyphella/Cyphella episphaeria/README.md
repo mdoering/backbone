@@ -1,5 +1,4 @@
-Cyphella episphaeria Quél. SPECIES
-=======
+# Cyphella episphaeria Quél. SPECIES
 
 #### Status
 ACCEPTED

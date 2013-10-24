@@ -1,5 +1,4 @@
-Dysterioides sessilia SPECIES
-=======
+# Dysterioides sessilia SPECIES
 
 #### Status
 ACCEPTED

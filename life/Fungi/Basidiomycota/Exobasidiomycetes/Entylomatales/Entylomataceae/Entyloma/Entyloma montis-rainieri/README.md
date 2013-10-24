@@ -1,5 +1,4 @@
-Entyloma montis-rainieri G.W. Fisch. & W.B. Cooke SPECIES
-=======
+# Entyloma montis-rainieri G.W. Fisch. & W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

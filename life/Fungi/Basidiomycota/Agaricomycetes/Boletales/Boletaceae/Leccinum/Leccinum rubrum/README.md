@@ -1,5 +1,4 @@
-Leccinum rubrum M. Zang SPECIES
-=======
+# Leccinum rubrum M. Zang SPECIES
 
 #### Status
 ACCEPTED

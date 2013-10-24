@@ -1,5 +1,4 @@
-Monilinia Honey GENUS
-=======
+# Monilinia Honey GENUS
 
 #### Status
 ACCEPTED

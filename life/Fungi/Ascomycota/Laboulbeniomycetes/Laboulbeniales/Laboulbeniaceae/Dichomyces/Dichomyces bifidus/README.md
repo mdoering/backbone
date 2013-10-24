@@ -1,5 +1,4 @@
-Dichomyces bifidus Thaxt. SPECIES
-=======
+# Dichomyces bifidus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

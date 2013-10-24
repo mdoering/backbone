@@ -1,5 +1,4 @@
-Dictyothyriella biseptata (Höhn.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella biseptata (Höhn.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

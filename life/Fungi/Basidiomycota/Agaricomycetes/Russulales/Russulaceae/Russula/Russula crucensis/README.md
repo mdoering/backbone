@@ -1,5 +1,4 @@
-Russula crucensis L.D. Gómez SPECIES
-=======
+# Russula crucensis L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

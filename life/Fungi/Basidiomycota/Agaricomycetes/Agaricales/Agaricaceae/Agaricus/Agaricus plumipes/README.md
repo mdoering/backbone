@@ -1,5 +1,4 @@
-Agaricus plumipes Kalchbr. SPECIES
-=======
+# Agaricus plumipes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

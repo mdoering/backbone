@@ -1,5 +1,4 @@
-Microcella Tiago et al., 2005 GENUS
-=======
+# Microcella Tiago et al., 2005 GENUS
 
 #### Status
 ACCEPTED

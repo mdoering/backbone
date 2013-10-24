@@ -1,17 +1,16 @@
-Thelephora confluens var. confluens VARIETY
-=======
+# Radulomyces confluens (Fr.) M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 19(no. 2): 230 (1960)
 
 #### Original name
-null
+Thelephora confluens Fr., 1815
 
 ### Remarks
 null

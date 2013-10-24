@@ -1,5 +1,4 @@
-Hainesia tellingsii Koord. SPECIES
-=======
+# Hainesia tellingsii Koord. SPECIES
 
 #### Status
 ACCEPTED

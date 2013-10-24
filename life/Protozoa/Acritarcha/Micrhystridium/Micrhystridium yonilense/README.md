@@ -1,5 +1,4 @@
-Micrhystridium yonilense Takahashi in Takahashi & Kim, 1979 SPECIES
-=======
+# Micrhystridium yonilense Takahashi in Takahashi & Kim, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele tenuissima Degel. SPECIES
-=======
+# Staurothele tenuissima Degel. SPECIES
 
 #### Status
 ACCEPTED

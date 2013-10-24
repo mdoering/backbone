@@ -1,5 +1,4 @@
-Melampsora acalyphae Petch SPECIES
-=======
+# Melampsora acalyphae Petch SPECIES
 
 #### Status
 ACCEPTED

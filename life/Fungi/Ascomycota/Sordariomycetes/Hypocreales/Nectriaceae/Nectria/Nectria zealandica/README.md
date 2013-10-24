@@ -1,5 +1,4 @@
-Nectria zealandica Cooke, 1879 SPECIES
-=======
+# Nectria zealandica Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

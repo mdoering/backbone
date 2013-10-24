@@ -1,5 +1,4 @@
-Fomes lorenzianus (Kalchbr.) Sacc. SPECIES
-=======
+# Fomes lorenzianus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodifflugia Schlumberger, 1845 GENUS
-=======
+# Pseudodifflugia Schlumberger, 1845 GENUS
 
 #### Status
 ACCEPTED

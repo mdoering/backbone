@@ -1,5 +1,4 @@
-Doliocatella formosa Geitler SPECIES
-=======
+# Doliocatella formosa Geitler SPECIES
 
 #### Status
 ACCEPTED

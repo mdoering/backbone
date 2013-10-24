@@ -1,5 +1,4 @@
-Tretospeira Piroz. GENUS
-=======
+# Tretospeira Piroz. GENUS
 
 #### Status
 ACCEPTED

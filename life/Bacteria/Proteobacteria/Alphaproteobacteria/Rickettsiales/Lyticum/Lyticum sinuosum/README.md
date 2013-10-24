@@ -1,5 +1,4 @@
-Lyticum sinuosum (ex Preer et al., 1974) Preer & Preer, 1982 SPECIES
-=======
+# Lyticum sinuosum (ex Preer et al., 1974) Preer & Preer, 1982 SPECIES
 
 #### Status
 ACCEPTED

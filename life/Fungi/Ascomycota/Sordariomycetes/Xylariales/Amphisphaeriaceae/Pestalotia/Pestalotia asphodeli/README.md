@@ -1,5 +1,4 @@
-Pestalotia asphodeli Boyer & Jacz. SPECIES
-=======
+# Pestalotia asphodeli Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

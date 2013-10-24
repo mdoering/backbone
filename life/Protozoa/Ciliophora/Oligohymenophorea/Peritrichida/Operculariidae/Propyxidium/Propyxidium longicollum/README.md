@@ -1,5 +1,4 @@
-Propyxidium longicollum SPECIES
-=======
+# Propyxidium longicollum SPECIES
 
 #### Status
 ACCEPTED

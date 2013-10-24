@@ -1,5 +1,4 @@
-Discostroma ledi M.E. Barr SPECIES
-=======
+# Discostroma ledi M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

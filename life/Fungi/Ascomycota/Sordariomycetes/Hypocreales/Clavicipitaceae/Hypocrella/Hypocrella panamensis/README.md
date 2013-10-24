@@ -1,5 +1,4 @@
-Hypocrella panamensis M.S. Torres, J.F. Bisch. & J.F. White SPECIES
-=======
+# Hypocrella panamensis M.S. Torres, J.F. Bisch. & J.F. White SPECIES
 
 #### Status
 ACCEPTED

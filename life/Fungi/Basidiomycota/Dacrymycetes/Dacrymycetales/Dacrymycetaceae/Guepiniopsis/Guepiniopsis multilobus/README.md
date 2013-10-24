@@ -1,5 +1,4 @@
-Guepiniopsis multilobus (Miq.) Pat. SPECIES
-=======
+# Guepiniopsis multilobus (Miq.) Pat. SPECIES
 
 #### Status
 ACCEPTED

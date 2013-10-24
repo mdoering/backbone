@@ -1,5 +1,4 @@
-Acrocubus Haeckel, 1881 GENUS
-=======
+# Acrocubus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodovibrio Imhoff et al., 1998 GENUS
-=======
+# Rhodovibrio Imhoff et al., 1998 GENUS
 
 #### Status
 ACCEPTED

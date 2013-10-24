@@ -1,5 +1,4 @@
-Lycoperdon marginatum Vittad. SPECIES
-=======
+# Lycoperdon marginatum Vittad. SPECIES
 
 #### Status
 ACCEPTED

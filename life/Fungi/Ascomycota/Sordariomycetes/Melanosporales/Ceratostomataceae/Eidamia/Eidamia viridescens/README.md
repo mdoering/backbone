@@ -1,5 +1,4 @@
-Eidamia viridescens A.S. Horne & H.S. Will. SPECIES
-=======
+# Eidamia viridescens A.S. Horne & H.S. Will. SPECIES
 
 #### Status
 ACCEPTED

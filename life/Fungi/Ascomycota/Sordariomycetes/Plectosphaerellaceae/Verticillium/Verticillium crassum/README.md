@@ -1,5 +1,4 @@
-Verticillium crassum Bonord. SPECIES
-=======
+# Verticillium crassum Bonord. SPECIES
 
 #### Status
 ACCEPTED

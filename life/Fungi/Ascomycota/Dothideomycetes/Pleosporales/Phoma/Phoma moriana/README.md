@@ -1,5 +1,4 @@
-Phoma moriana Traverso SPECIES
-=======
+# Phoma moriana Traverso SPECIES
 
 #### Status
 ACCEPTED

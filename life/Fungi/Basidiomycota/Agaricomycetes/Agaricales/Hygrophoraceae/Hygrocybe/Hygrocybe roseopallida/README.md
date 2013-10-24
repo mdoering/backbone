@@ -1,5 +1,4 @@
-Hygrocybe roseopallida Lodge & Ovrebo SPECIES
-=======
+# Hygrocybe roseopallida Lodge & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

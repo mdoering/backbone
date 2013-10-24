@@ -1,5 +1,4 @@
-Hypholoma comatum G.F. Atk. SPECIES
-=======
+# Hypholoma comatum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

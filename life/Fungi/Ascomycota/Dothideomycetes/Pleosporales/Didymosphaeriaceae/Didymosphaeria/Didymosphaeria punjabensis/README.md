@@ -1,5 +1,4 @@
-Didymosphaeria punjabensis Wehm. SPECIES
-=======
+# Didymosphaeria punjabensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

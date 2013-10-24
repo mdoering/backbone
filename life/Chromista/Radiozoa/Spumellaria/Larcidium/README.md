@@ -1,5 +1,4 @@
-Larcidium Haeckel, 1887 GENUS
-=======
+# Larcidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

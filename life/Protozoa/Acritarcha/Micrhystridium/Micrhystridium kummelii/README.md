@@ -1,5 +1,4 @@
-Micrhystridium kummelii Sarjeant, 1973 SPECIES
-=======
+# Micrhystridium kummelii Sarjeant, 1973 SPECIES
 
 #### Status
 ACCEPTED

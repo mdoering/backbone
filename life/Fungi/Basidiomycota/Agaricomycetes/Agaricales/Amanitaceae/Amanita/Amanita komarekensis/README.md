@@ -1,5 +1,4 @@
-Amanita komarekensis D.T. Jenkins & Vinopal {?} SPECIES
-=======
+# Amanita komarekensis D.T. Jenkins & Vinopal {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria stenhammariae Rostr. SPECIES
-=======
+# Septoria stenhammariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

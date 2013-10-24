@@ -1,5 +1,4 @@
-Lyophyllum cossonianum (Maire) Kühner & Romagn. SPECIES
-=======
+# Lyophyllum cossonianum (Maire) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plectosphaera actinodaphneae Tak. Kobay. SPECIES
-=======
+# Plectosphaera actinodaphnes Tak. Kobay., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Memoirs of the National Science Museum, Tokyo 9: 90 (1976)
 
 #### Original name
-Plectosphaera actinodaphneae Tak. Kobay.
+Plectosphaera actinodaphnes Tak. Kobay., 1976
 
 ### Remarks
 null

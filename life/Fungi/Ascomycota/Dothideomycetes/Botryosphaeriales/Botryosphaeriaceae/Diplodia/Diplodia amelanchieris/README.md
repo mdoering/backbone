@@ -1,5 +1,4 @@
-Diplodia amelanchieris Sacc. SPECIES
-=======
+# Diplodia amelanchieris Sacc. SPECIES
 
 #### Status
 ACCEPTED

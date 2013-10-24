@@ -1,5 +1,4 @@
-Sporotrichum caviari Demelius SPECIES
-=======
+# Sporotrichum caviari Demelius SPECIES
 
 #### Status
 ACCEPTED

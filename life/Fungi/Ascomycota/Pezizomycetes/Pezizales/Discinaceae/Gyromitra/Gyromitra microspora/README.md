@@ -1,5 +1,4 @@
-Gyromitra microspora (Donadini & Bozonnet) Harmaja SPECIES
-=======
+# Gyromitra microspora (Donadini & Bozonnet) Harmaja SPECIES
 
 #### Status
 ACCEPTED

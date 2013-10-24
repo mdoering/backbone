@@ -1,5 +1,4 @@
-Pleurage burkillii (Massee) C. Moreau SPECIES
-=======
+# Pleurage burkillii (Massee) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

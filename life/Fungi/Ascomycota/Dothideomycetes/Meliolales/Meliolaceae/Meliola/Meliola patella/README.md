@@ -1,5 +1,4 @@
-Meliola patella Theiss. SPECIES
-=======
+# Meliola patella Theiss. SPECIES
 
 #### Status
 ACCEPTED

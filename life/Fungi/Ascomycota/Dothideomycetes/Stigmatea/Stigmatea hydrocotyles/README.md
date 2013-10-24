@@ -1,5 +1,4 @@
-Stigmatea hydrocotyles Racib. SPECIES
-=======
+# Stigmatea hydrocotyles Racib. SPECIES
 
 #### Status
 ACCEPTED

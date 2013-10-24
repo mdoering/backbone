@@ -1,5 +1,4 @@
-Lasiosphaeria noonae-daniae Carroll & Munk SPECIES
-=======
+# Lasiosphaeria noonae-daniae Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

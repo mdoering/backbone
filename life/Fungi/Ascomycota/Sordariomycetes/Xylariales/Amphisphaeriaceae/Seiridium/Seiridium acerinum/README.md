@@ -1,5 +1,4 @@
-Seiridium acerinum (Bäumler) B. Sutton SPECIES
-=======
+# Seiridium acerinum (Bäumler) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

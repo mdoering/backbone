@@ -1,5 +1,4 @@
-Peronospora lobulariae Ubrizsy & Vörös SPECIES
-=======
+# Peronospora lobulariae Ubrizsy & Vörös SPECIES
 
 #### Status
 ACCEPTED

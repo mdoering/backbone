@@ -1,5 +1,4 @@
-Lachnea nympharum Velen. SPECIES
-=======
+# Lachnea nympharum Velen. SPECIES
 
 #### Status
 ACCEPTED

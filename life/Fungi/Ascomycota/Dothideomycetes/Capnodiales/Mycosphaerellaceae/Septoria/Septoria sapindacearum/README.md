@@ -1,5 +1,4 @@
-Septoria sapindacearum Bat. & Cavalc., 1966 SPECIES
-=======
+# Septoria sapindacearum Bat. & Cavalc., 1966 SPECIES
 
 #### Status
 ACCEPTED

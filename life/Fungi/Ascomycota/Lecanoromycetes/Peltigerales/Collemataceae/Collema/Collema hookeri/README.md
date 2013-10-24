@@ -1,5 +1,4 @@
-Collema hookeri Degel. SPECIES
-=======
+# Collema hookeri Degel. SPECIES
 
 #### Status
 ACCEPTED

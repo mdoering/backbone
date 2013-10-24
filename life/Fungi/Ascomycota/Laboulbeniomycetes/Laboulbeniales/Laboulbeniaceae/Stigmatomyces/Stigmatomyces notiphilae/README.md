@@ -1,5 +1,4 @@
-Stigmatomyces notiphilae Thaxt. SPECIES
-=======
+# Stigmatomyces notiphilae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Valsa opulina var. opulina VARIETY
-=======
+# Valsa ambiens (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 412 (1849)
 
 #### Original name
-Valsa opulina var. opulina
+Sphaeria ambiens Pers., 1801
 
 ### Remarks
 null

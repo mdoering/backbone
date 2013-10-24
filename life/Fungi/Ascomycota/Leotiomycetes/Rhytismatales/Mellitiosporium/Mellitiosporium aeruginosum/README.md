@@ -1,14 +1,13 @@
-Melittosporium aeruginosum (Pers.) Rehm SPECIES
-=======
+# Mellitiosporium aeruginosum (Pers.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Discom. 1(3): 173 (1888)
 
 #### Original name
 Stictis aeruginosa Pers.

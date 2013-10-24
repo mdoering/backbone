@@ -1,5 +1,4 @@
-Dimorphomyces baliensis K. Sugiy. & T. Majewski SPECIES
-=======
+# Dimorphomyces baliensis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

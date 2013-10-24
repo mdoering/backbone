@@ -1,5 +1,4 @@
-Cercospora rhynchosiae-minimae Thirum. & Govindu SPECIES
-=======
+# Cercospora rhynchosiae-minimae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

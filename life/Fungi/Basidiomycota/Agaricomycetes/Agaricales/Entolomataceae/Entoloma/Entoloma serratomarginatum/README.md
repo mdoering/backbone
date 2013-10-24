@@ -1,5 +1,4 @@
-Entoloma serratomarginatum E. Horak SPECIES
-=======
+# Entoloma serratomarginatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

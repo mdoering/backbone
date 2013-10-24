@@ -1,14 +1,13 @@
-Phellinus zelandicus (Cooke) Teng SPECIES
-=======
+# Phellinus zealandicus (Cooke) Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Chung-kuo Ti Chen-chun, [Fungi of China] 762 (1963)
 
 #### Original name
 Polyporus zeylanicus Berk., 1843

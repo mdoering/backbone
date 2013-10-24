@@ -1,5 +1,4 @@
-Leptosphaeria striolata var. striolata VARIETY
-=======
+# Leptosphaeria striolata Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria striolata var. striolata
+Leptosphaeria striolata Pass.
 
 ### Remarks
 null

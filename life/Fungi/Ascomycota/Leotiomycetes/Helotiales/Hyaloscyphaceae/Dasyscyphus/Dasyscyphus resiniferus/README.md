@@ -1,17 +1,16 @@
-Dasyscypha resiniferus Höhn. SPECIES
-=======
+# Dasyscyphus resiniferus Höhn., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 1(5): 396 (1903)
 
 #### Original name
-Dasyscypha resiniferus Höhn.
+Dasyscyphus resiniferus Höhn., 1903
 
 ### Remarks
 null

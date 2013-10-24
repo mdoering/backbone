@@ -1,5 +1,4 @@
-Hymenogaster pyriformis Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster pyriformis Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

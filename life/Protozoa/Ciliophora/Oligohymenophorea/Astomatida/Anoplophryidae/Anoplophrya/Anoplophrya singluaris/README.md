@@ -1,5 +1,4 @@
-Anoplophrya singluaris Puytorac, 1954 SPECIES
-=======
+# Anoplophrya singluaris Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

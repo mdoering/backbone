@@ -1,5 +1,4 @@
-Fusarium obtusum (Cooke) Sacc. SPECIES
-=======
+# Fusarium obtusum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pawlsenella chaetoceratis (Paulsen) Chatton SPECIES
-=======
+# Pawlsenella chaetoceratis (Paulsen) Chatton SPECIES
 
 #### Status
 ACCEPTED

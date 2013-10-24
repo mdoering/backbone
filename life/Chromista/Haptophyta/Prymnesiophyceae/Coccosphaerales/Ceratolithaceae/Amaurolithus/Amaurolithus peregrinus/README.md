@@ -1,5 +1,4 @@
-Amaurolithus peregrinus Chongyou Wang SPECIES
-=======
+# Amaurolithus peregrinus Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

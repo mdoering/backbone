@@ -1,5 +1,4 @@
-Leucocytospora translucens (Sacc.) Höhn. SPECIES
-=======
+# Leucocytospora translucens (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

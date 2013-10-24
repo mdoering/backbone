@@ -1,5 +1,4 @@
-Eriosphaerella rehmiana Höhn. SPECIES
-=======
+# Eriosphaerella rehmiana Höhn. SPECIES
 
 #### Status
 ACCEPTED

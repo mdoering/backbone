@@ -1,17 +1,16 @@
-Deconica merdicola (Huijsman) Noordel., 2009 SPECIES
-=======
+# Psilocybe merdicola Huijsman, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(1): 93 (1961)
 
 #### Original name
-null
+Psilocybe merdicola Huijsman, 1961
 
 ### Remarks
 null

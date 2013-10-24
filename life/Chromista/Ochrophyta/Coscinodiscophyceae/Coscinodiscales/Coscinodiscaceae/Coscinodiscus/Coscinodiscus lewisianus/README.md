@@ -1,5 +1,4 @@
-Coscinodiscus lewisianus SPECIES
-=======
+# Coscinodiscus lewisianus SPECIES
 
 #### Status
 ACCEPTED

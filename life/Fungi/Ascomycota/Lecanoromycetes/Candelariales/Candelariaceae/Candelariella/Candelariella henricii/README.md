@@ -1,8 +1,7 @@
-Candelariella henrici B. de Lesd. SPECIES
-=======
+# Candelariella henricii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella henrici B. de Lesd.
+Candelariella henricii B. de Lesd.
 
 ### Remarks
 null

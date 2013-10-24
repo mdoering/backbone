@@ -1,5 +1,4 @@
-Aecidium ainsliaeae Dietel SPECIES
-=======
+# Aecidium ainsliaeae Dietel SPECIES
 
 #### Status
 ACCEPTED

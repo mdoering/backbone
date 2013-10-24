@@ -1,5 +1,4 @@
-Enterographa chilense Zahlbr. SPECIES
-=======
+# Enterographa chilense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

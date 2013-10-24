@@ -1,5 +1,4 @@
-Fucus osmunda S. Gmelin SPECIES
-=======
+# Fucus osmunda S. Gmelin SPECIES
 
 #### Status
 ACCEPTED

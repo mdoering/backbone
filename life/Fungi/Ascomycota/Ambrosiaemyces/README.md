@@ -1,5 +1,4 @@
-Ambrosiaemyces Trotter GENUS
-=======
+# Ambrosiaemyces Trotter GENUS
 
 #### Status
 ACCEPTED

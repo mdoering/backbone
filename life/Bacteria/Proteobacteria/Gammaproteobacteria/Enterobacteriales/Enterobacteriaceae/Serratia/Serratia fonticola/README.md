@@ -1,5 +1,4 @@
-Serratia fonticola Gavini et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Serratia fonticola Gavini et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

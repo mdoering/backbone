@@ -1,5 +1,4 @@
-Protospiraceae FAMILY
-=======
+# Protospiraceae FAMILY
 
 #### Status
 ACCEPTED

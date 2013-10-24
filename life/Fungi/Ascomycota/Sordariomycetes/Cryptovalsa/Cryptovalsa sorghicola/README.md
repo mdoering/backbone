@@ -1,5 +1,4 @@
-Cryptovalsa sorghicola Saccas SPECIES
-=======
+# Cryptovalsa sorghicola Saccas SPECIES
 
 #### Status
 ACCEPTED

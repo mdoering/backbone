@@ -1,5 +1,4 @@
-Phakopsora alpina (J. Schröt.) Arthur SPECIES
-=======
+# Phakopsora alpina (J. Schröt.) Arthur SPECIES
 
 #### Status
 ACCEPTED

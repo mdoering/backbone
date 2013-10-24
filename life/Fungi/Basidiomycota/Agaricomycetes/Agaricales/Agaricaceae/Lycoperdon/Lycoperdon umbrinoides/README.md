@@ -1,5 +1,4 @@
-Lycoperdon umbrinoides Dissing & M. Lange SPECIES
-=======
+# Lycoperdon umbrinoides Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

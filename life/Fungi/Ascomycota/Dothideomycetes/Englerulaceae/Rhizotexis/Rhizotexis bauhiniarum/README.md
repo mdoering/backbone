@@ -1,14 +1,13 @@
-Parodiella bauhiniarum Henn., 1904 SPECIES
-=======
+# Rhizotexis bauhiniarum (Henn.) Theiss. & Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43(6): 359 (1904)
+Annls mycol. 15(1/2): 140 (1917)
 
 #### Original name
 Parodiella bauhiniarum Henn., 1904

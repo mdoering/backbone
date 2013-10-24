@@ -1,5 +1,4 @@
-Lecidea melanospora SPECIES
-=======
+# Lecidea melanospora SPECIES
 
 #### Status
 ACCEPTED

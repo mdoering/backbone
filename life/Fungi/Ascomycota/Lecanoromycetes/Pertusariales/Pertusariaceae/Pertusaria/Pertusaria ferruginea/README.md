@@ -1,5 +1,4 @@
-Pertusaria ferruginea (Müll. Arg.) Oshio SPECIES
-=======
+# Pertusaria ferruginea (Müll. Arg.) Oshio SPECIES
 
 #### Status
 ACCEPTED

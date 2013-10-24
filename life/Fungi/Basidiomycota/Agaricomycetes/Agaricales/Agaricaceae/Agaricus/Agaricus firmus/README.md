@@ -1,5 +1,4 @@
-Agaricus firmus Weinm. SPECIES
-=======
+# Agaricus firmus Weinm. SPECIES
 
 #### Status
 ACCEPTED

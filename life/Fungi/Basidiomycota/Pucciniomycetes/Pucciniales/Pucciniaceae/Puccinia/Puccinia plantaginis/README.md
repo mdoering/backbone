@@ -1,5 +1,4 @@
-Puccinia plantaginis Westend. SPECIES
-=======
+# Puccinia plantaginis Westend. SPECIES
 
 #### Status
 ACCEPTED

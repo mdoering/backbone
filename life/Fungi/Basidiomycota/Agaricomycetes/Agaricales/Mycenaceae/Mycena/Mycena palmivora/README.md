@@ -1,5 +1,4 @@
-Mycena palmivora Singer SPECIES
-=======
+# Mycena palmivora Singer SPECIES
 
 #### Status
 ACCEPTED

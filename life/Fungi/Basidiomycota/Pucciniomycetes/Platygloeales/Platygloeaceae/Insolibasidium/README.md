@@ -1,5 +1,4 @@
-Insolibasidium Oberwinkler & Bandoni, 1984 GENUS
-=======
+# Insolibasidium Oberwinkler & Bandoni, 1984 GENUS
 
 #### Status
 ACCEPTED

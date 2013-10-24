@@ -1,5 +1,4 @@
-Dasyscyphella patuloides Raitv. & R. Galán SPECIES
-=======
+# Dasyscyphella patuloides Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

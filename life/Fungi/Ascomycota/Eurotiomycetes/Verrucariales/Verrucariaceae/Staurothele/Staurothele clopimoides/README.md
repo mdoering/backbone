@@ -1,5 +1,4 @@
-Staurothele clopimoides (Anzi ex Arnold) J. Steiner SPECIES
-=======
+# Staurothele clopimoides (Anzi ex Arnold) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

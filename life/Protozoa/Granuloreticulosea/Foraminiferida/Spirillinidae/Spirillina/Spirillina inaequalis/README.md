@@ -1,5 +1,4 @@
-Spirillina inaequalis Brady, 1879 SPECIES
-=======
+# Spirillina inaequalis Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

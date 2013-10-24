@@ -1,5 +1,4 @@
-Lecanora schistidii (Anzi) Nyl. SPECIES
-=======
+# Lecanora schistidii (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

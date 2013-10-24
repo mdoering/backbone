@@ -1,5 +1,4 @@
-Nannoconus oviformis SPECIES
-=======
+# Nannoconus oviformis SPECIES
 
 #### Status
 ACCEPTED

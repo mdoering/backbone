@@ -1,5 +1,4 @@
-Pythium destruens Shipton, 1987 SPECIES
-=======
+# Pythium destruens Shipton, 1987 SPECIES
 
 #### Status
 ACCEPTED

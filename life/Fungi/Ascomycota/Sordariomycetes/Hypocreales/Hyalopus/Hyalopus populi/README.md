@@ -1,5 +1,4 @@
-Hyalopus populi Nypels SPECIES
-=======
+# Hyalopus populi Nypels SPECIES
 
 #### Status
 ACCEPTED

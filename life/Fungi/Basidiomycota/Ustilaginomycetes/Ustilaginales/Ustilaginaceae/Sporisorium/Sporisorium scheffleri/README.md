@@ -1,5 +1,4 @@
-Sporisorium scheffleri (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium scheffleri (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

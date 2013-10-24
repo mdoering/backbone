@@ -1,5 +1,4 @@
-Melanops araliae (Curtis) Weese SPECIES
-=======
+# Melanops araliae (Curtis) Weese SPECIES
 
 #### Status
 ACCEPTED

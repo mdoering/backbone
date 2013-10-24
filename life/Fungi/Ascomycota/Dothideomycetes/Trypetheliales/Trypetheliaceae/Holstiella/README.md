@@ -1,5 +1,4 @@
-Holstiella GENUS
-=======
+# Holstiella GENUS
 
 #### Status
 ACCEPTED

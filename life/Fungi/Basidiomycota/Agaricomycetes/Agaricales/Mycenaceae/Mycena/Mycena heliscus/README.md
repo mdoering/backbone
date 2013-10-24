@@ -1,5 +1,4 @@
-Mycena heliscus Berk. & Broome SPECIES
-=======
+# Mycena heliscus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

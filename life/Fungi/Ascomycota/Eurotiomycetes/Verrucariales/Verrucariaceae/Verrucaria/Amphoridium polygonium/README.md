@@ -1,5 +1,4 @@
-Amphoridium polygonium (Körb.) Servít SPECIES
-=======
+# Amphoridium polygonium (Körb.) Servít SPECIES
 
 #### Status
 ACCEPTED

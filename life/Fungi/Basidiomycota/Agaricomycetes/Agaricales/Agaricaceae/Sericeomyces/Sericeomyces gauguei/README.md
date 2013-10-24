@@ -1,5 +1,4 @@
-Sericeomyces gauguei (Bon & Boiffard) Heinem. SPECIES
-=======
+# Sericeomyces gauguei (Bon & Boiffard) Heinem. SPECIES
 
 #### Status
 ACCEPTED

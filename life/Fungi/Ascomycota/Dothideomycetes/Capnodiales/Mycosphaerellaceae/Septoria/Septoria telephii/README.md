@@ -1,5 +1,4 @@
-Septoria telephii P. Karst. SPECIES
-=======
+# Septoria telephii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

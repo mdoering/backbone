@@ -1,5 +1,4 @@
-Sphaeria saponariae DC. SPECIES
-=======
+# Sphaeria saponariae DC. SPECIES
 
 #### Status
 ACCEPTED

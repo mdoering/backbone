@@ -1,5 +1,4 @@
-Hebeloma californicum Murrill SPECIES
-=======
+# Hebeloma californicum Murrill SPECIES
 
 #### Status
 ACCEPTED

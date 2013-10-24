@@ -1,5 +1,4 @@
-Marasmius corrugatus var. corrugatus VARIETY
-=======
+# Marasmius corrugatus (Pat.) P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Just's Bot. Jahresber. 28: 132 (1902)
 
 #### Original name
-Marasmius corrugatus var. corrugatus
+Marasmius corrugatus (Pat.) P. Syd.
 
 ### Remarks
 null

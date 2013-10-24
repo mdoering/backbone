@@ -1,5 +1,4 @@
-Biatora gyalizella (Nyl.) SPECIES
-=======
+# Biatora gyalizella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

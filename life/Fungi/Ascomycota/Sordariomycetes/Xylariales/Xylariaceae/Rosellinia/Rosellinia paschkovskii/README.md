@@ -1,5 +1,4 @@
-Rosellinia paschkovskii Kravtzev SPECIES
-=======
+# Rosellinia paschkovskii Kravtzev SPECIES
 
 #### Status
 ACCEPTED

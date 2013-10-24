@@ -1,5 +1,4 @@
-Frondicularia terminata McCulloch, 1977 SPECIES
-=======
+# Frondicularia terminata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

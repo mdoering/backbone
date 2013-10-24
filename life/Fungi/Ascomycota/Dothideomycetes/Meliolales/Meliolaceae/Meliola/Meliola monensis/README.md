@@ -1,5 +1,4 @@
-Meliola monensis F. Stevens SPECIES
-=======
+# Meliola monensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

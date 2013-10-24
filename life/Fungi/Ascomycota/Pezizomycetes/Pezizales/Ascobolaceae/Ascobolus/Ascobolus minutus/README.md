@@ -1,5 +1,4 @@
-Ascobolus minutus Boud., 1888 SPECIES
-=======
+# Ascobolus minutus Boud., 1888 SPECIES
 
 #### Status
 ACCEPTED

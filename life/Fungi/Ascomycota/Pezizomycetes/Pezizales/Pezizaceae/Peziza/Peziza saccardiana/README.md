@@ -1,5 +1,4 @@
-Peziza saccardiana Cooke SPECIES
-=======
+# Peziza saccardiana Cooke SPECIES
 
 #### Status
 ACCEPTED

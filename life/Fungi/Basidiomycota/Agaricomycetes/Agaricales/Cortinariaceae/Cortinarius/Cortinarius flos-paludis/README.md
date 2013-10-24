@@ -1,5 +1,4 @@
-Cortinarius flos-paludis Melot SPECIES
-=======
+# Cortinarius flos-paludis Melot SPECIES
 
 #### Status
 ACCEPTED

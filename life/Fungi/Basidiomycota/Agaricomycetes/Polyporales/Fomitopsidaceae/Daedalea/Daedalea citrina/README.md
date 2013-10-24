@@ -1,5 +1,4 @@
-Daedalea citrina Holterm. SPECIES
-=======
+# Daedalea citrina Holterm. SPECIES
 
 #### Status
 ACCEPTED

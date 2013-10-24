@@ -1,5 +1,4 @@
-Leucoagaricus volvatus Bon & A. Caball. SPECIES
-=======
+# Leucoagaricus volvatus Bon & A. Caball. SPECIES
 
 #### Status
 ACCEPTED

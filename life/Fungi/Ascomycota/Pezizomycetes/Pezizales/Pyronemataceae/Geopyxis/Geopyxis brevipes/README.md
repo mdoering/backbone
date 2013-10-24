@@ -1,5 +1,4 @@
-Geopyxis brevipes Bosch SPECIES
-=======
+# Geopyxis brevipes Bosch SPECIES
 
 #### Status
 ACCEPTED

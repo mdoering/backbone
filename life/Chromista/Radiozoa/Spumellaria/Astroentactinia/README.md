@@ -1,5 +1,4 @@
-Astroentactinia Nazarov, 1975 GENUS
-=======
+# Astroentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

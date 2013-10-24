@@ -1,5 +1,4 @@
-Apatelomyces Thaxt. GENUS
-=======
+# Apatelomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

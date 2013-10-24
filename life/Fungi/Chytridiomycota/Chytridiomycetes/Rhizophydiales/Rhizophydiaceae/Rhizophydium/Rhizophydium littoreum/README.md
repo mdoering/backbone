@@ -1,5 +1,4 @@
-Rhizophydium littoreum Amon, 1984 SPECIES
-=======
+# Rhizophydium littoreum Amon, 1984 SPECIES
 
 #### Status
 ACCEPTED

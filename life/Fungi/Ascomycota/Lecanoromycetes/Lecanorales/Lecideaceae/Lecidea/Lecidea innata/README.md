@@ -1,5 +1,4 @@
-Lecidea innata (Müll. Arg.) Shirley SPECIES
-=======
+# Lecidea innata (Müll. Arg.) Shirley SPECIES
 
 #### Status
 ACCEPTED

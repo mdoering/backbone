@@ -1,5 +1,4 @@
-Hyalomeliolina linderi Hansf. SPECIES
-=======
+# Hyalomeliolina linderi Hansf. SPECIES
 
 #### Status
 ACCEPTED

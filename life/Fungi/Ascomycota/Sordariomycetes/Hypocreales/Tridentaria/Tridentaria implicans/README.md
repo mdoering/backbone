@@ -1,5 +1,4 @@
-Tridentaria implicans Drechsler, 1940 SPECIES
-=======
+# Tridentaria implicans Drechsler, 1940 SPECIES
 
 #### Status
 ACCEPTED

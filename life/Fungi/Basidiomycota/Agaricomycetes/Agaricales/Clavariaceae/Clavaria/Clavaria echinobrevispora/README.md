@@ -1,5 +1,4 @@
-Clavaria echinobrevispora R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria echinobrevispora R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

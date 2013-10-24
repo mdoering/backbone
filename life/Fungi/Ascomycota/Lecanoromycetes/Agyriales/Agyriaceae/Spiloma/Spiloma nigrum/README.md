@@ -1,5 +1,4 @@
-Spiloma nigrum Turner & Borrer SPECIES
-=======
+# Spiloma nigrum Turner & Borrer SPECIES
 
 #### Status
 ACCEPTED

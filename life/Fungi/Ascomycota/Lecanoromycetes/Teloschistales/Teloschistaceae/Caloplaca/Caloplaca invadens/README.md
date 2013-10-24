@@ -1,5 +1,4 @@
-Caloplaca invadens Lynge SPECIES
-=======
+# Caloplaca invadens Lynge SPECIES
 
 #### Status
 ACCEPTED

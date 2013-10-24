@@ -1,5 +1,4 @@
-Amphisphaeria dolioloides H. Wegelin SPECIES
-=======
+# Amphisphaeria dolioloides H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

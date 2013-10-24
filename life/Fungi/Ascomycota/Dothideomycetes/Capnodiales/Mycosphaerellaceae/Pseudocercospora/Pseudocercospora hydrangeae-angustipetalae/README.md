@@ -1,5 +1,4 @@
-Pseudocercospora hydrangeae-angustipetalae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora hydrangeae-angustipetalae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

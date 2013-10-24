@@ -1,5 +1,4 @@
-Rectomassilina Sieglie, 1964 GENUS
-=======
+# Rectomassilina Sieglie, 1964 GENUS
 
 #### Status
 ACCEPTED

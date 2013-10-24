@@ -1,5 +1,4 @@
-Psathyrella aucta (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyrella aucta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

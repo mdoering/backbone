@@ -1,5 +1,4 @@
-Infundibulum tiliaceum Velen. SPECIES
-=======
+# Infundibulum tiliaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cynanchi Brunaud SPECIES
-=======
+# Phyllosticta cynanchi Brunaud SPECIES
 
 #### Status
 ACCEPTED

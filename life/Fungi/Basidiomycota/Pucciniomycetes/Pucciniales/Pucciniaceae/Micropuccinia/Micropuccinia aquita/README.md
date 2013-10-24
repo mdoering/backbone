@@ -1,5 +1,4 @@
-Micropuccinia aquita (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia aquita (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

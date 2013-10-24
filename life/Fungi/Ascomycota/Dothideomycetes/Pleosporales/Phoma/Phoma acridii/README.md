@@ -1,5 +1,4 @@
-Phoma acridii Tassi SPECIES
-=======
+# Phoma acridii Tassi SPECIES
 
 #### Status
 ACCEPTED

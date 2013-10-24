@@ -1,5 +1,4 @@
-Actinomadura namibiensis Wink et al., 2003 SPECIES
-=======
+# Actinomadura namibiensis Wink et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

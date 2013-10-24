@@ -1,5 +1,4 @@
-Ceratostoma caminatum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Ceratostoma caminatum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

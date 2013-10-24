@@ -1,5 +1,4 @@
-Dicaeoma heideri (Wettst.) Kuntze SPECIES
-=======
+# Dicaeoma heideri (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

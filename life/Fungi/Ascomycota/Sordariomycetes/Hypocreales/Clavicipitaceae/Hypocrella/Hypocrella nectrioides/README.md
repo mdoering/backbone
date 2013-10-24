@@ -1,5 +1,4 @@
-Hypocrella nectrioides Thaxt. SPECIES
-=======
+# Hypocrella nectrioides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

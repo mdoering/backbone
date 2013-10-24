@@ -1,5 +1,4 @@
-Cothurnia spissa Fromentel, 1876 SPECIES
-=======
+# Cothurnia spissa Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

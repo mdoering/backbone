@@ -1,5 +1,4 @@
-Sphaeria gentianicola DC. SPECIES
-=======
+# Sphaeria gentianicola DC. SPECIES
 
 #### Status
 ACCEPTED

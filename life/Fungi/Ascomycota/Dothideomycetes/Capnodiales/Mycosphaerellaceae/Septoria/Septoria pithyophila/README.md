@@ -1,5 +1,4 @@
-Septoria pithyophila Sacc. SPECIES
-=======
+# Septoria pithyophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

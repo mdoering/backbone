@@ -1,17 +1,16 @@
-Cubamyces Murrill GENUS
-=======
+# Trametes E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 32(9): 480 (1905)
+null
 
 #### Original name
-Cubamyces Murrill
+null
 
 ### Remarks
 null

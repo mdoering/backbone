@@ -1,5 +1,4 @@
-Laestadia lupulina Hazsl. SPECIES
-=======
+# Laestadia lupulina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

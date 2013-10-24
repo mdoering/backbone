@@ -1,5 +1,4 @@
-Cucurbitaria alnea Peck SPECIES
-=======
+# Cucurbitaria alnea Peck SPECIES
 
 #### Status
 ACCEPTED

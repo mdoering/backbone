@@ -1,5 +1,4 @@
-Physalospora psidii F. Stevens & N. Pierce SPECIES
-=======
+# Physalospora psidii F. Stevens & N. Pierce SPECIES
 
 #### Status
 ACCEPTED

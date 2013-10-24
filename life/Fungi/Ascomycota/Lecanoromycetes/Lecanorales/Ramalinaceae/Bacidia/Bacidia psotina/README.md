@@ -1,5 +1,4 @@
-Bacidia psotina (Fr.) Dalla Torre & Sarnth. SPECIES
-=======
+# Bacidia psotina (Fr.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa livida (Carmichael) Kützing SPECIES
-=======
+# Gloeocapsa livida (Carmichael) Kützing SPECIES
 
 #### Status
 ACCEPTED

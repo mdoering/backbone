@@ -1,14 +1,13 @@
-Bilimbia microdiscus Vain. SPECIES
-=======
+# Fellhanera microdiscus (Vain.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 79 (1921)
+Folia geobot. phytotax. 21(2): 214 (1986)
 
 #### Original name
 Bilimbia microdiscus Vain.

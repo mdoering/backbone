@@ -1,5 +1,4 @@
-Puccinia schirajewskii Tranzschel SPECIES
-=======
+# Puccinia schirajewskii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium thujinum Peck SPECIES
-=======
+# Helotium thujinum Peck SPECIES
 
 #### Status
 ACCEPTED

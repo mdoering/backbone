@@ -1,5 +1,4 @@
-Lepteutypa fuckelii (Nitschke) Petr., 1923 SPECIES
-=======
+# Lepteutypa fuckelii (Nitschke) Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

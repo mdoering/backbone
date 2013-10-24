@@ -1,5 +1,4 @@
-Septoria polygonati Kabát & Bubák SPECIES
-=======
+# Septoria polygonati Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

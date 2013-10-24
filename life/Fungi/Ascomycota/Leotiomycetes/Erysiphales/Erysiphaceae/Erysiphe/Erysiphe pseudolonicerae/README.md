@@ -1,5 +1,4 @@
-Erysiphe pseudolonicerae (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pseudolonicerae (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

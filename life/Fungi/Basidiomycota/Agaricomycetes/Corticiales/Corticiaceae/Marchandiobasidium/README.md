@@ -1,5 +1,4 @@
-Marchandiobasidium Diederich & Schultheis GENUS
-=======
+# Marchandiobasidium Diederich & Schultheis GENUS
 
 #### Status
 ACCEPTED

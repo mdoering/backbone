@@ -1,5 +1,4 @@
-Pseudoparmelia leucoxantha (Müll. Arg.) Hale SPECIES
-=======
+# Pseudoparmelia leucoxantha (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

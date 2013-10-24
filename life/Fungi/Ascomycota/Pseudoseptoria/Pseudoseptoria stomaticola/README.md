@@ -1,14 +1,13 @@
-Phyllosticta stomaticola Bäumler, 1889 SPECIES
-=======
+# Pseudoseptoria stomaticola (Bäumler) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 39(8): 289 (1889)
+The Coelomycetes (Kew) 98 (1980)
 
 #### Original name
 Phyllosticta stomaticola Bäumler, 1889

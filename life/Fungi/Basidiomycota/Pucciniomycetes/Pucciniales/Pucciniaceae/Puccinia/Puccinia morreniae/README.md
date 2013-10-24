@@ -1,5 +1,4 @@
-Puccinia morreniae (Speg.) Syd. SPECIES
-=======
+# Puccinia morreniae (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

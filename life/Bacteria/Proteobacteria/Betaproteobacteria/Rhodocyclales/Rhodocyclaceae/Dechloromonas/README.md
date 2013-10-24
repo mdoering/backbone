@@ -1,5 +1,4 @@
-Dechloromonas Achenbach et al., 2001 GENUS
-=======
+# Dechloromonas Achenbach et al., 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anulomyces agalaxiae Bydgosz SPECIES
-=======
+# Anulomyces agalaxiae Bydgosz SPECIES
 
 #### Status
 ACCEPTED

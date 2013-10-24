@@ -1,5 +1,4 @@
-Sphaerella xanthiicola Cooke & Harkn. SPECIES
-=======
+# Sphaerella xanthiicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotherus pachbolii Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
-=======
+# Nyctotherus pachbolii Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia dives (Th. Fr.) Th. Fr. SPECIES
-=======
+# Buellia dives (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

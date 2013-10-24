@@ -1,5 +1,4 @@
-Phloeosporella pleromatum (Speg.) Dyko & B. Sutton SPECIES
-=======
+# Phloeosporella pleromatum (Speg.) Dyko & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

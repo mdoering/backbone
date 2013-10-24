@@ -1,5 +1,4 @@
-Rhizosphaeridae Haeckel, 1881 FAMILY
-=======
+# Rhizosphaeridae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

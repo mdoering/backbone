@@ -1,5 +1,4 @@
-Coryne pallidula Rehm SPECIES
-=======
+# Coryne pallidula Rehm SPECIES
 
 #### Status
 ACCEPTED

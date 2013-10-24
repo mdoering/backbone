@@ -1,5 +1,4 @@
-Monosporium guttulans Svilv. SPECIES
-=======
+# Monosporium guttulans Svilv. SPECIES
 
 #### Status
 ACCEPTED

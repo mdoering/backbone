@@ -1,5 +1,4 @@
-Sarcostroma daviesiae (McAlpine) Nag Raj SPECIES
-=======
+# Sarcostroma daviesiae (McAlpine) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

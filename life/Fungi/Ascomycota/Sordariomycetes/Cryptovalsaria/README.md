@@ -1,5 +1,4 @@
-Cryptovalsaria Lar.N. Vassiljeva & S.L. Stephenson GENUS
-=======
+# Cryptovalsaria Lar.N. Vassiljeva & S.L. Stephenson GENUS
 
 #### Status
 ACCEPTED

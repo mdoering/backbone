@@ -1,5 +1,4 @@
-Pyrenochaeta crotalariae Rao & Solank. SPECIES
-=======
+# Pyrenochaeta crotalariae Rao & Solank. SPECIES
 
 #### Status
 ACCEPTED

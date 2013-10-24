@@ -1,14 +1,13 @@
-Parmelia samoënsis var. flavescentireagens (Gyeln.) Gyeln. VARIETY
-=======
+# Xanthoparmelia flavescentireagens (Gyeln.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 18(4): 533 (1981)
 
 #### Original name
 Parmelia flavescentireagens Gyeln.

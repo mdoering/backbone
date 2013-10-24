@@ -1,5 +1,4 @@
-Clitocybe isolata Beeli SPECIES
-=======
+# Clitocybe isolata Beeli SPECIES
 
 #### Status
 ACCEPTED

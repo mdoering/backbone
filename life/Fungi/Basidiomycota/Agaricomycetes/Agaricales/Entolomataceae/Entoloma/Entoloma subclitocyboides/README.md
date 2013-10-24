@@ -1,5 +1,4 @@
-Entoloma subclitocyboides W.M. Zhang SPECIES
-=======
+# Entoloma subclitocyboides W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

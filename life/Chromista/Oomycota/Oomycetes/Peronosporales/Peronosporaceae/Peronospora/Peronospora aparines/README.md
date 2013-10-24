@@ -1,17 +1,16 @@
-Peronospora calotheca aparines de Bary, 1863 INFRASPECIFIC_NAME
-=======
+# Peronospora aparines (de Bary) Gäum., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Monogr. die Gattung Peronospora Corda 5(4): 246 (1923)
 
 #### Original name
-null
+Peronospora calotheca de Bary, 1858
 
 ### Remarks
 null

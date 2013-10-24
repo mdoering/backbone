@@ -1,5 +1,4 @@
-Leptosphaeria agminalis Sacc. & Morthier SPECIES
-=======
+# Leptosphaeria agminalis Sacc. & Morthier SPECIES
 
 #### Status
 ACCEPTED

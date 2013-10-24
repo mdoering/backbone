@@ -1,8 +1,7 @@
-Nectria cupularis (Pers.) P. Karst., 1873 SPECIES
-=======
+# Nitschkia cupularis (Pers.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

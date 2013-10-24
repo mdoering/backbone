@@ -1,5 +1,4 @@
-Graphis supertecta Müll. Arg. SPECIES
-=======
+# Graphis supertecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

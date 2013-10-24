@@ -1,5 +1,4 @@
-Aqualignicola hyalina Ranghoo, K.M. Tsui & K.D. Hyde, 2001 SPECIES
-=======
+# Aqualignicola hyalina Ranghoo, K.M. Tsui & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

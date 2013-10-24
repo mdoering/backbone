@@ -1,5 +1,4 @@
-Cytospora elaeagni Allesch. SPECIES
-=======
+# Cytospora elaeagni Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius falcatipes Desjardin SPECIES
-=======
+# Marasmius falcatipes Desjardin SPECIES
 
 #### Status
 ACCEPTED

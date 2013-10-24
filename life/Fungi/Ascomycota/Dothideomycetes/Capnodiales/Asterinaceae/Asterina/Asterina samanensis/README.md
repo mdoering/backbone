@@ -1,5 +1,4 @@
-Asterina samanensis Cif. SPECIES
-=======
+# Asterina samanensis Cif. SPECIES
 
 #### Status
 ACCEPTED

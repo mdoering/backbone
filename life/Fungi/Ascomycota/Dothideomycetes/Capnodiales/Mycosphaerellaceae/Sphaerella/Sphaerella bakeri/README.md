@@ -1,5 +1,4 @@
-Sphaerella bakeri (Rehm) Sacc. & Trotter SPECIES
-=======
+# Sphaerella bakeri (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

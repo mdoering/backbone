@@ -1,5 +1,4 @@
-Asteromella tamicola (Woron.) Aa & Vanev SPECIES
-=======
+# Asteromella tamicola (Woron.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

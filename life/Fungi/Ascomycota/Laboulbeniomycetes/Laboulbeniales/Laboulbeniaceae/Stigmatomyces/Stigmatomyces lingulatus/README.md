@@ -1,5 +1,4 @@
-Stigmatomyces lingulatus Thaxt. SPECIES
-=======
+# Stigmatomyces lingulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

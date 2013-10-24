@@ -1,5 +1,4 @@
-Biatorella carpinacea Velen. SPECIES
-=======
+# Biatorella carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

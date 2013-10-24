@@ -1,5 +1,4 @@
-Helotium albuminum (Cooke & Peck) Sacc. SPECIES
-=======
+# Helotium albuminum (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora Laguesse, 1895 GENUS
-=======
+# Rhabdospora Laguesse, 1895 GENUS
 
 #### Status
 ACCEPTED

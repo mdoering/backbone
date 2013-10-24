@@ -1,5 +1,4 @@
-Hygrocybe olivaceoviridis f. olivaceoviridis FORM
-=======
+# Hygrocybe olivaceoviridis (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mem. Fac. Educ. Shiga Univ. , Nat. Sci. 32: 91 (1982)
 
 #### Original name
-Hygrocybe olivaceoviridis f. olivaceoviridis
+Hygrophorus olivaceoviridis Hongo
 
 ### Remarks
 null

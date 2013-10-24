@@ -1,5 +1,4 @@
-Russula levyana Murrill SPECIES
-=======
+# Russula levyana Murrill SPECIES
 
 #### Status
 ACCEPTED

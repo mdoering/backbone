@@ -1,5 +1,4 @@
-Amphisphaerella varians (Luc) E. Müll. SPECIES
-=======
+# Amphisphaerella varians (Luc) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

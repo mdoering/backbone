@@ -1,5 +1,4 @@
-Pezicula brenckleana Seaver SPECIES
-=======
+# Pezicula brenckleana Seaver SPECIES
 
 #### Status
 ACCEPTED

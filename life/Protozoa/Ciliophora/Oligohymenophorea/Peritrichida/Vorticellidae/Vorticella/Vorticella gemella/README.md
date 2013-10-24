@@ -1,5 +1,4 @@
-Vorticella gemella Muller, 1773 SPECIES
-=======
+# Vorticella gemella Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

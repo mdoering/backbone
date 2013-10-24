@@ -1,5 +1,4 @@
-Epicymatia massariae Pass. SPECIES
-=======
+# Epicymatia massariae Pass. SPECIES
 
 #### Status
 ACCEPTED

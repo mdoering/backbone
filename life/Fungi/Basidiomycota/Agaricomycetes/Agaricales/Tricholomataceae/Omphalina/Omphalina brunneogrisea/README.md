@@ -1,5 +1,4 @@
-Omphalina brunneogrisea (Bres.) Raithelh. SPECIES
-=======
+# Omphalina brunneogrisea (Bres.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

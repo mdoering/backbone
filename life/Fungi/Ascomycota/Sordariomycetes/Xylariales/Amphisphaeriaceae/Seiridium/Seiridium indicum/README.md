@@ -1,5 +1,4 @@
-Seiridium indicum Pavgi & U.P. Singh SPECIES
-=======
+# Seiridium indicum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

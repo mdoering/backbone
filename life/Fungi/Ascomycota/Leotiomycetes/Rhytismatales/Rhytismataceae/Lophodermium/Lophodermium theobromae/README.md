@@ -1,5 +1,4 @@
-Lophodermium theobromae Pat. SPECIES
-=======
+# Lophodermium theobromae Pat. SPECIES
 
 #### Status
 ACCEPTED

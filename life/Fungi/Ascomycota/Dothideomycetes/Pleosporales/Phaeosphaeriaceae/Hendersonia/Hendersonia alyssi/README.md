@@ -1,5 +1,4 @@
-Hendersonia alyssi Höhn. SPECIES
-=======
+# Hendersonia alyssi Höhn. SPECIES
 
 #### Status
 ACCEPTED

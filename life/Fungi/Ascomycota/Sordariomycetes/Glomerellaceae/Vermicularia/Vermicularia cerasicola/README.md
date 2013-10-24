@@ -1,5 +1,4 @@
-Vermicularia cerasicola Aderh. SPECIES
-=======
+# Vermicularia cerasicola Aderh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium pentatropidis S. Ahmad SPECIES
-=======
+# Camarosporium pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

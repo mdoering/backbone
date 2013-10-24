@@ -1,5 +1,4 @@
-Tilletia maclagani (Berk.) G.P. Clinton SPECIES
-=======
+# Tilletia maclagani (Berk.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

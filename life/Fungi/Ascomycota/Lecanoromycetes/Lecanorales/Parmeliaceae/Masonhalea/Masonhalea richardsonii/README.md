@@ -1,14 +1,13 @@
-Cornicularia richardsonii (Hook.) Trevis. SPECIES
-=======
+# Masonhalea richardsonii (Hook.) Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 130(1): 104 (1977)
 
 #### Original name
 Cetraria richardsonii Hook.

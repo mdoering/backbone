@@ -1,5 +1,4 @@
-Trizonium Haeckel, 1887 GENUS
-=======
+# Trizonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

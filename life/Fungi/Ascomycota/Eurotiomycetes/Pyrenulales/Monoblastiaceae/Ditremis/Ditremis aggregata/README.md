@@ -1,5 +1,4 @@
-Ditremis aggregata Makhija & Patw. SPECIES
-=======
+# Ditremis aggregata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

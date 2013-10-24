@@ -1,5 +1,4 @@
-Leucopaxillus peronatus Corner SPECIES
-=======
+# Leucopaxillus peronatus Corner SPECIES
 
 #### Status
 ACCEPTED

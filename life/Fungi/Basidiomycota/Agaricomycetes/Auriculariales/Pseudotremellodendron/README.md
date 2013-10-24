@@ -1,5 +1,4 @@
-Pseudotremellodendron GENUS
-=======
+# Pseudotremellodendron GENUS
 
 #### Status
 ACCEPTED

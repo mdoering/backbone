@@ -1,5 +1,4 @@
-Gymnodinium minor Lebour SPECIES
-=======
+# Gymnodinium minor Lebour SPECIES
 
 #### Status
 ACCEPTED

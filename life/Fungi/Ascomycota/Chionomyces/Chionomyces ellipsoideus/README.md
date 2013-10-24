@@ -1,5 +1,4 @@
-Chionomyces ellipsoideus B. Sutton SPECIES
-=======
+# Chionomyces ellipsoideus B. Sutton SPECIES
 
 #### Status
 ACCEPTED

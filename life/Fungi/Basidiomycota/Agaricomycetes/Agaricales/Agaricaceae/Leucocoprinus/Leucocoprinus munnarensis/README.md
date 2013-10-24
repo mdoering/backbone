@@ -1,5 +1,4 @@
-Leucocoprinus munnarensis T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucocoprinus munnarensis T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella euryae Theiss. SPECIES
-=======
+# Mycosphaerella euryae Theiss. SPECIES
 
 #### Status
 ACCEPTED

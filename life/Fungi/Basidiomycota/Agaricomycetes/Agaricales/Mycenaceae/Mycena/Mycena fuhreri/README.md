@@ -1,5 +1,4 @@
-Mycena fuhreri Grgur. SPECIES
-=======
+# Mycena fuhreri Grgur. SPECIES
 
 #### Status
 ACCEPTED

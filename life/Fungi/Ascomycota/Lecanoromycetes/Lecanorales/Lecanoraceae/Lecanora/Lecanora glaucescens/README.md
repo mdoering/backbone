@@ -1,5 +1,4 @@
-Lecanora glaucescens Hue SPECIES
-=======
+# Lecanora glaucescens Hue SPECIES
 
 #### Status
 ACCEPTED

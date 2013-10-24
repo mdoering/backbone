@@ -1,14 +1,13 @@
-Pleospora rufescentis Vouaux SPECIES
-=======
+# Dacampia rufescentis (Vouaux) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 43(3): 497 (1986)
 
 #### Original name
 Pleospora rufescentis Vouaux

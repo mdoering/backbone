@@ -1,5 +1,4 @@
-Parmotrema fragilescens Krog SPECIES
-=======
+# Parmotrema fragilescens Krog SPECIES
 
 #### Status
 ACCEPTED

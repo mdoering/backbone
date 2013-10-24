@@ -1,5 +1,4 @@
-Stichotricha saginata Möbius, 1888 SPECIES
-=======
+# Stichotricha saginata Möbius, 1888 SPECIES
 
 #### Status
 ACCEPTED

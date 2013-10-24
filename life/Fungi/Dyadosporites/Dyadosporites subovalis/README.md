@@ -1,5 +1,4 @@
-Dyadosporites subovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites subovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

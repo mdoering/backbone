@@ -1,5 +1,4 @@
-Lamprospora hispanica Benkert SPECIES
-=======
+# Lamprospora hispanica Benkert SPECIES
 
 #### Status
 ACCEPTED

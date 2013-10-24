@@ -1,5 +1,4 @@
-Entoloma lepiotoides G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma lepiotoides G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

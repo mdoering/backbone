@@ -1,5 +1,4 @@
-Sphaeramminidae Cushman, 1933 FAMILY
-=======
+# Sphaeramminidae Cushman, 1933 FAMILY
 
 #### Status
 ACCEPTED

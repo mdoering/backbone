@@ -1,5 +1,4 @@
-Septoria grindeliicola H.C. Greene SPECIES
-=======
+# Septoria grindeliicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

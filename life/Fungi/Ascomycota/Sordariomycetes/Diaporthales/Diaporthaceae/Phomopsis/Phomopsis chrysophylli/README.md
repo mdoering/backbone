@@ -1,5 +1,4 @@
-Phomopsis chrysophylli (P. Syd.) Aa SPECIES
-=======
+# Phomopsis chrysophylli (P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

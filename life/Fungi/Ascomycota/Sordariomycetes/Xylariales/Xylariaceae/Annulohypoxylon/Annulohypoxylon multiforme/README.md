@@ -1,17 +1,16 @@
-Sphaeria deusta var. deusta VARIETY
-=======
+# Annulohypoxylon multiforme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sphaeria deusta var. deusta
+null
 
 ### Remarks
 null

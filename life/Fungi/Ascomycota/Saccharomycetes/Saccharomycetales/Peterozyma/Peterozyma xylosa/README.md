@@ -1,5 +1,4 @@
-Peterozyma xylosa (Phaff, M.W. Mill. & Shifrine) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Peterozyma xylosa (Phaff, M.W. Mill. & Shifrine) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

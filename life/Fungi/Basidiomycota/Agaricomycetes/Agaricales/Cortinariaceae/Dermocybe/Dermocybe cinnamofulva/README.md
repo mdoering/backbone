@@ -1,5 +1,4 @@
-Dermocybe cinnamofulva (Rob. Henry) M.M. Moser SPECIES
-=======
+# Dermocybe cinnamofulva (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

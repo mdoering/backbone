@@ -1,5 +1,4 @@
-Marasmiellus sprucei (Berk.) Singer SPECIES
-=======
+# Marasmiellus sprucei (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

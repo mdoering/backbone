@@ -1,5 +1,4 @@
-Fayodia bisphaerica anon. SPECIES
-=======
+# Fayodia bisphaerica anon. SPECIES
 
 #### Status
 ACCEPTED

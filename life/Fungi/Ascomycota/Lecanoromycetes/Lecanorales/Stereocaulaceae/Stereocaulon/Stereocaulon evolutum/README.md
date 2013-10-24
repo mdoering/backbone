@@ -1,17 +1,16 @@
-Stereocaulon evolutum f. evolutum FORM
-=======
+# Stereocaulon evolutum Graewe SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 181 (1865)
 
 #### Original name
-Stereocaulon evolutum f. evolutum
+Stereocaulon evolutum Graewe
 
 ### Remarks
 null

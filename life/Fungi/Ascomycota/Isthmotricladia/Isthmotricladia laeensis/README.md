@@ -1,5 +1,4 @@
-Isthmotricladia laeensis Matsush., 1971 SPECIES
-=======
+# Isthmotricladia laeensis Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

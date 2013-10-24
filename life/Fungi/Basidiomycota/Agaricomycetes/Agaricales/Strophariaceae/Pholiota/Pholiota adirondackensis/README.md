@@ -1,5 +1,4 @@
-Pholiota adirondackensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota adirondackensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

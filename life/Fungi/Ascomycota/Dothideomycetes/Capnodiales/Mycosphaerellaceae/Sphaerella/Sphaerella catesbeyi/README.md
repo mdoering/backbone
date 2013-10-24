@@ -1,5 +1,4 @@
-Sphaerella catesbeyi Cooke SPECIES
-=======
+# Sphaerella catesbeyi Cooke SPECIES
 
 #### Status
 ACCEPTED

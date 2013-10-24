@@ -1,5 +1,4 @@
-Psathyrella acutoconica A.H. Sm. SPECIES
-=======
+# Psathyrella acutoconica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

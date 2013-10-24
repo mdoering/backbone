@@ -1,5 +1,4 @@
-Cladosporium umbrinum Fr. SPECIES
-=======
+# Cladosporium umbrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramulispora Miura, 1920 GENUS
-=======
+# Ramulispora Miura, 1920 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium albicans Bainier, 1907 SPECIES
-=======
+# Penicillium albicans Bainier, 1907 SPECIES
 
 #### Status
 ACCEPTED

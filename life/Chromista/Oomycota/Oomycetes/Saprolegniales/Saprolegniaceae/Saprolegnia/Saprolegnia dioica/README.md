@@ -1,5 +1,4 @@
-Saprolegnia dioica de Bary SPECIES
-=======
+# Saprolegnia dioica de Bary SPECIES
 
 #### Status
 ACCEPTED

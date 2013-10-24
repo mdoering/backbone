@@ -1,5 +1,4 @@
-Hincksia bhimlipatnamensis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
-=======
+# Hincksia bhimlipatnamensis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

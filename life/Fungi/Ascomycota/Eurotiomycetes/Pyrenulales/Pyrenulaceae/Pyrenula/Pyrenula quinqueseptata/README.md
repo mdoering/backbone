@@ -1,5 +1,4 @@
-Pyrenula quinqueseptata Aptroot SPECIES
-=======
+# Pyrenula quinqueseptata Aptroot SPECIES
 
 #### Status
 ACCEPTED

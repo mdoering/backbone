@@ -1,5 +1,4 @@
-Underwoodia columnaris Peck, 1890 SPECIES
-=======
+# Underwoodia columnaris Peck, 1890 SPECIES
 
 #### Status
 ACCEPTED

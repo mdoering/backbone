@@ -1,5 +1,4 @@
-Cortinarius glutinopallens (E. Horak) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius glutinopallens (E. Horak) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

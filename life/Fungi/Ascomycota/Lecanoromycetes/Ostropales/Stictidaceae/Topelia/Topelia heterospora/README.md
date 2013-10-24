@@ -1,14 +1,13 @@
-Clathroporina heterospora Zahlbr. SPECIES
-=======
+# Topelia heterospora (Zahlbr.) P. M. Jørg. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 505 (1984)
 
 #### Original name
 Clathroporina heterospora Zahlbr.

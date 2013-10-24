@@ -1,5 +1,4 @@
-Xylomyces giganteus Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
-=======
+# Xylomyces giganteus Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus robustus var. robustus Alb. & Schwein. VARIETY
-=======
+# Tricholoma robustum (Alb. & Schwein.) Ricken, 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Blätterpilze 332 (1915)
 
 #### Original name
-Agaricus robustus var. robustus Alb. & Schwein.
+Agaricus robustus Alb. & Schwein., 1805
 
 ### Remarks
 null

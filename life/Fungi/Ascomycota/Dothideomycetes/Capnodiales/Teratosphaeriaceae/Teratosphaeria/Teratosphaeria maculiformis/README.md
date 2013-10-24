@@ -1,5 +1,4 @@
-Teratosphaeria maculiformis (G. Winter) Joanne E. Taylor & Crous SPECIES
-=======
+# Teratosphaeria maculiformis (G. Winter) Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

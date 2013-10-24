@@ -1,5 +1,4 @@
-Gloeosporium alstoniae Sacc. SPECIES
-=======
+# Gloeosporium alstoniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

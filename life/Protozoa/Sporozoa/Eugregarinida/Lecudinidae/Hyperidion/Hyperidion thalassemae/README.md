@@ -1,8 +1,7 @@
-Hyperidion neptuni Reichenow, 1932 SPECIES
-=======
+# Hyperidion thalassemae Mackinnon & Ray, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

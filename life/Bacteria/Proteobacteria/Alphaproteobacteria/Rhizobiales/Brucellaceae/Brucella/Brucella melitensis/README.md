@@ -1,5 +1,4 @@
-Brucella melitensis (Hughes, 1893) Meyer and Shaw, 1920 (Approved Lists, 1980) SPECIES
-=======
+# Brucella melitensis (Hughes, 1893) Meyer and Shaw, 1920 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

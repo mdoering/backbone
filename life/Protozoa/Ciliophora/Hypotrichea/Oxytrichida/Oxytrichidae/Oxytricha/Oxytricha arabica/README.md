@@ -1,5 +1,4 @@
-Oxytricha arabica Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
-=======
+# Oxytricha arabica Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
 
 #### Status
 ACCEPTED

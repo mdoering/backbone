@@ -1,5 +1,4 @@
-Spiloma album SPECIES
-=======
+# Spiloma album SPECIES
 
 #### Status
 ACCEPTED

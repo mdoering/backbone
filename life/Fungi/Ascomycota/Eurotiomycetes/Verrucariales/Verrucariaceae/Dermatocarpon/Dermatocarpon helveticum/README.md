@@ -1,5 +1,4 @@
-Dermatocarpon helveticum (B. de Lesd.) Frey SPECIES
-=======
+# Dermatocarpon helveticum (B. de Lesd.) Frey SPECIES
 
 #### Status
 ACCEPTED

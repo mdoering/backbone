@@ -1,5 +1,4 @@
-Kmetia pouzolziae Sawada SPECIES
-=======
+# Kmetia pouzolziae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum laserpitii (Bres.) Magnus SPECIES
-=======
+# Septogloeum laserpitii (Bres.) Magnus SPECIES
 
 #### Status
 ACCEPTED

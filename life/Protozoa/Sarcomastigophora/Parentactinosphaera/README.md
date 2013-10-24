@@ -1,5 +1,4 @@
-Parentactinosphaera Kozur & Mostler, 1979 GENUS
-=======
+# Parentactinosphaera Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

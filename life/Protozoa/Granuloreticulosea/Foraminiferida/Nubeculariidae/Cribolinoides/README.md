@@ -1,5 +1,4 @@
-Cribolinoides GENUS
-=======
+# Cribolinoides GENUS
 
 #### Status
 ACCEPTED

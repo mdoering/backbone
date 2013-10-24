@@ -1,5 +1,4 @@
-Coltriciella subpicta var. subpicta (Lloyd) Corner VARIETY
-=======
+# Coltriciella subpicta (Lloyd) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 50 (1991)
 
 #### Original name
-Coltriciella subpicta var. subpicta (Lloyd) Corner
+Polystictus subpictus Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptonia housei (Murrill) Largent SPECIES
-=======
+# Leptonia housei (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

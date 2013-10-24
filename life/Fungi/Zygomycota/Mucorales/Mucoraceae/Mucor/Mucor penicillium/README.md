@@ -1,5 +1,4 @@
-Mucor penicillium Schnetzl. SPECIES
-=======
+# Mucor penicillium Schnetzl. SPECIES
 
 #### Status
 ACCEPTED

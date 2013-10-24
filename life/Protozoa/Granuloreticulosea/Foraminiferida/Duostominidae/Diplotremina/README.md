@@ -1,5 +1,4 @@
-Diplotremina Kristan-Tollmann, 1960 GENUS
-=======
+# Diplotremina Kristan-Tollmann, 1960 GENUS
 
 #### Status
 ACCEPTED

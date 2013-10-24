@@ -1,5 +1,4 @@
-Pouzarella GENUS
-=======
+# Pouzarella GENUS
 
 #### Status
 ACCEPTED

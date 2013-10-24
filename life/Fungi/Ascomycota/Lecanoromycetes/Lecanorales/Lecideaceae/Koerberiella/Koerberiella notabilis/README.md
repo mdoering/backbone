@@ -1,5 +1,4 @@
-Koerberiella notabilis Motyka SPECIES
-=======
+# Koerberiella notabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

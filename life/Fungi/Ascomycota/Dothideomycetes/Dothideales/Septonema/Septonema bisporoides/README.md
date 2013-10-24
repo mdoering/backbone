@@ -1,5 +1,4 @@
-Septonema bisporoides Sacc. SPECIES
-=======
+# Septonema bisporoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

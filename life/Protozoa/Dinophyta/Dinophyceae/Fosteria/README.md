@@ -1,5 +1,4 @@
-Fosteria J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Fosteria J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemospora crocea Pers., 1801 SPECIES
-=======
+# Naemospora crocea Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

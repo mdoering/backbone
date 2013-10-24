@@ -1,5 +1,4 @@
-Pharcidia parva Henssen SPECIES
-=======
+# Pharcidia parva Henssen SPECIES
 
 #### Status
 ACCEPTED

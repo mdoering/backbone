@@ -1,5 +1,4 @@
-Dermocybe flavofucata E. Horak & M.M. Moser SPECIES
-=======
+# Dermocybe flavofucata E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

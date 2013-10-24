@@ -1,5 +1,4 @@
-Omphalia oucimae Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia oucimae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora formosana Syd. & P. Syd. SPECIES
-=======
+# Phakopsora formosana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

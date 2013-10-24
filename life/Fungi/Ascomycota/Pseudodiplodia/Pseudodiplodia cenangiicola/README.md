@@ -1,5 +1,4 @@
-Pseudodiplodia cenangiicola Nevod. ex Minter SPECIES
-=======
+# Pseudodiplodia cenangiicola Nevod. ex Minter SPECIES
 
 #### Status
 ACCEPTED

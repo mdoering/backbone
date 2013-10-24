@@ -1,5 +1,4 @@
-Hirsutella nivea Hywel-Jones SPECIES
-=======
+# Hirsutella nivea Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

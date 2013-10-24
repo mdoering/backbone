@@ -1,5 +1,4 @@
-Trichophyton lacticolor Sabour. SPECIES
-=======
+# Trichophyton lacticolor Sabour. SPECIES
 
 #### Status
 ACCEPTED

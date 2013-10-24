@@ -1,5 +1,4 @@
-Xylaria domingensis (Berk.) Sacc. SPECIES
-=======
+# Xylaria domingensis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

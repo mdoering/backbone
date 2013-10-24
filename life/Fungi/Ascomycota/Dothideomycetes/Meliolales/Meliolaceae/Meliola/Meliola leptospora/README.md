@@ -1,5 +1,4 @@
-Meliola leptospora Gaillard SPECIES
-=======
+# Meliola leptospora Gaillard SPECIES
 
 #### Status
 ACCEPTED

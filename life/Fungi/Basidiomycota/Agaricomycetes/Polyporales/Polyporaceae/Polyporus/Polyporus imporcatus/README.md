@@ -1,5 +1,4 @@
-Polyporus imporcatus Lloyd SPECIES
-=======
+# Polyporus imporcatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

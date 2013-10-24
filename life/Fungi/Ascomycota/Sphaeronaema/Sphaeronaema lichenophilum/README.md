@@ -1,5 +1,4 @@
-Sphaeronaema lichenophilum Durieu & Mont. SPECIES
-=======
+# Sphaeronaema lichenophilum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

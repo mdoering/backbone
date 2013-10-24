@@ -1,5 +1,4 @@
-Pestalotia parrotiae T.M. Achundov SPECIES
-=======
+# Pestalotia parrotiae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bionectria oblongispora Schroers SPECIES
-=======
+# Bionectria oblongispora Schroers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera indigoferae H.D. Shin & Y.J. La SPECIES
-=======
+# Microsphaera indigoferae H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

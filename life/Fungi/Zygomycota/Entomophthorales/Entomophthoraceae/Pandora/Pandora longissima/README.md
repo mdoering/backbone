@@ -1,5 +1,4 @@
-Pandora longissima S. Keller SPECIES
-=======
+# Pandora longissima S. Keller SPECIES
 
 #### Status
 ACCEPTED

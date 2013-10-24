@@ -1,5 +1,4 @@
-Phaeographina ceramia (A. Massal.) Zahlbr. SPECIES
-=======
+# Phaeographina ceramia (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

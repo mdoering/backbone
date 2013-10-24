@@ -1,5 +1,4 @@
-Lecidea byssothallina SPECIES
-=======
+# Lecidea byssothallina SPECIES
 
 #### Status
 ACCEPTED

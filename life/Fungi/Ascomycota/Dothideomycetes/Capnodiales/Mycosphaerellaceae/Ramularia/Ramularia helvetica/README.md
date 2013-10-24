@@ -1,5 +1,4 @@
-Ramularia helvetica Jaap & J. Lindau SPECIES
-=======
+# Ramularia helvetica Jaap & J. Lindau SPECIES
 
 #### Status
 ACCEPTED

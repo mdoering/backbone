@@ -1,5 +1,4 @@
-Gloeocystidium lindtneri Pilát SPECIES
-=======
+# Gloeocystidium lindtneri Pilát SPECIES
 
 #### Status
 ACCEPTED

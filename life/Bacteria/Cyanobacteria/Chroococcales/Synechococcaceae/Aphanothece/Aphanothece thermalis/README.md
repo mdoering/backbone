@@ -1,5 +1,4 @@
-Aphanothece thermalis Copeland SPECIES
-=======
+# Aphanothece thermalis Copeland SPECIES
 
 #### Status
 ACCEPTED

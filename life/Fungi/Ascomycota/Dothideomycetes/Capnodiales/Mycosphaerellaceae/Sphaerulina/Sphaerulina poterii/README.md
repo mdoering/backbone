@@ -1,5 +1,4 @@
-Sphaerulina poterii Politis SPECIES
-=======
+# Sphaerulina poterii Politis SPECIES
 
 #### Status
 ACCEPTED

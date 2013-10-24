@@ -1,5 +1,4 @@
-Bryometopus chlorelligerus Foissner, 1980 SPECIES
-=======
+# Bryometopus chlorelligerus Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

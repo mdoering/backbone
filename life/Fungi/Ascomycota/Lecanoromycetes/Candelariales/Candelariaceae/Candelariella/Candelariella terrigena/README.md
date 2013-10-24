@@ -1,5 +1,4 @@
-Candelariella terrigena Räsänen SPECIES
-=======
+# Candelariella terrigena Räsänen SPECIES
 
 #### Status
 ACCEPTED

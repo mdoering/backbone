@@ -1,17 +1,16 @@
-Curvularia geniculata var. geniculata (Tracy & Earle) Boedijn VARIETY
-=======
+# Cochliobolus geniculatus R.R. Nelson, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 129 (1933)
+Mycologia 56: 778 (1964)
 
 #### Original name
-Curvularia geniculata var. geniculata (Tracy & Earle) Boedijn
+Cochliobolus geniculatus R.R. Nelson, 1964
 
 ### Remarks
 null

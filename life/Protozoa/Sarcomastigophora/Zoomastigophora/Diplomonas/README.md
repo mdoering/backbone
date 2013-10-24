@@ -1,5 +1,4 @@
-Diplomonas Penso, 1932 GENUS
-=======
+# Diplomonas Penso, 1932 GENUS
 
 #### Status
 ACCEPTED

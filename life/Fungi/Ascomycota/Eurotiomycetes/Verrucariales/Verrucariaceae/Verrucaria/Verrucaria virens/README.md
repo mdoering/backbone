@@ -1,5 +1,4 @@
-Verrucaria virens Nyl. SPECIES
-=======
+# Verrucaria virens Nyl. SPECIES
 
 #### Status
 ACCEPTED

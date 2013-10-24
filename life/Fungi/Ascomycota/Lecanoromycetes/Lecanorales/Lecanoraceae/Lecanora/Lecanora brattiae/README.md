@@ -1,5 +1,4 @@
-Lecanora brattiae B. D. Ryan & T. H. Nash SPECIES
-=======
+# Lecanora brattiae B. D. Ryan & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

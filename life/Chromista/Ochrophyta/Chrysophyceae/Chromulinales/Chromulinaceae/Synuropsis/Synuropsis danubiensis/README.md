@@ -1,5 +1,4 @@
-Synuropsis danubiensis J. Schiller SPECIES
-=======
+# Synuropsis danubiensis J. Schiller SPECIES
 
 #### Status
 ACCEPTED

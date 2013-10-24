@@ -1,5 +1,4 @@
-Meliola linocieriicola Hansf. SPECIES
-=======
+# Meliola linocieriicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

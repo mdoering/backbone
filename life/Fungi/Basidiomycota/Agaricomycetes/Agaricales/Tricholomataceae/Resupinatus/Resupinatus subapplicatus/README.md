@@ -1,5 +1,4 @@
-Resupinatus subapplicatus (Cleland) Grgur. SPECIES
-=======
+# Resupinatus subapplicatus (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

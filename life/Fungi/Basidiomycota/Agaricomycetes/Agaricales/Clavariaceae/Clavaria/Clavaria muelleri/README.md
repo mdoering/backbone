@@ -1,5 +1,4 @@
-Clavaria muelleri Berk. ex Cooke SPECIES
-=======
+# Clavaria muelleri Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora coleosporioides Dietel, 1903 SPECIES
-=======
+# Melampsora coleosporioides Dietel, 1903 SPECIES
 
 #### Status
 ACCEPTED

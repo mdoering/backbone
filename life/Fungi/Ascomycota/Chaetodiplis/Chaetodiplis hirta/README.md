@@ -1,14 +1,13 @@
-Chaetodiplodia hirta Sacc. SPECIES
-=======
+# Chaetodiplis hirta (Sacc.) Clem., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Fung. (Minneapolis) 364 (1931)
 
 #### Original name
 Chaetodiplodia hirta Sacc.

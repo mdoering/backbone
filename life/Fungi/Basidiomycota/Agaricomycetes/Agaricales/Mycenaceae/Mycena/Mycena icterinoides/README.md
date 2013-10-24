@@ -1,5 +1,4 @@
-Mycena icterinoides Singer SPECIES
-=======
+# Mycena icterinoides Singer SPECIES
 
 #### Status
 ACCEPTED

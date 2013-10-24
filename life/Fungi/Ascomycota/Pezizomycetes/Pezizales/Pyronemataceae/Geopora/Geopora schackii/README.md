@@ -1,5 +1,4 @@
-Geopora schackii Henn. SPECIES
-=======
+# Geopora schackii Henn. SPECIES
 
 #### Status
 ACCEPTED

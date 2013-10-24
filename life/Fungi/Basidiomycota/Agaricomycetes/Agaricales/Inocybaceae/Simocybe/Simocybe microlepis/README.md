@@ -1,5 +1,4 @@
-Simocybe microlepis Singer SPECIES
-=======
+# Simocybe microlepis Singer SPECIES
 
 #### Status
 ACCEPTED

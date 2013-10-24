@@ -1,5 +1,4 @@
-Stictis aurantiaca Hazsl. SPECIES
-=======
+# Stictis aurantiaca Hazsl. SPECIES
 
 #### Status
 ACCEPTED

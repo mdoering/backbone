@@ -1,5 +1,4 @@
-Phaeodothiopsis pterocarpi (Syd. & P. Syd.) H.S. Yates SPECIES
-=======
+# Phaeodothiopsis pterocarpi (Syd. & P. Syd.) H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

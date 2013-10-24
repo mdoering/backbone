@@ -1,5 +1,4 @@
-Lagotia aculeata (Claparède & Lachmann, 1858) Hadzi SPECIES
-=======
+# Lagotia aculeata (Claparède & Lachmann, 1858) Hadzi SPECIES
 
 #### Status
 ACCEPTED

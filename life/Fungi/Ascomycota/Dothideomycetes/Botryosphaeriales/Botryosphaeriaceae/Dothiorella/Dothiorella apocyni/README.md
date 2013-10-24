@@ -1,5 +1,4 @@
-Dothiorella apocyni Petr. SPECIES
-=======
+# Dothiorella apocyni Petr. SPECIES
 
 #### Status
 ACCEPTED

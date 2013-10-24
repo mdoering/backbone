@@ -1,17 +1,16 @@
-Rupertia Wallich, 1877 GENUS
-=======
+# Rupertina Loeblich & Tappan, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. Nat. Hist. , (4) 19, 502.
+J. Paleont. 35: 312.
 
 #### Original name
-null
+Rupertia Wallich, 1877
 
 ### Remarks
 null

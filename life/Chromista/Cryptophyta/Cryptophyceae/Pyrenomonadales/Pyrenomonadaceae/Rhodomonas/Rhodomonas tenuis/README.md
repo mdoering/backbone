@@ -1,5 +1,4 @@
-Rhodomonas tenuis SPECIES
-=======
+# Rhodomonas tenuis SPECIES
 
 #### Status
 ACCEPTED

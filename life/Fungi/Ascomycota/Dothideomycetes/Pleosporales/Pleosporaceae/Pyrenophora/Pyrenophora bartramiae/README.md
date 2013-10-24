@@ -1,5 +1,4 @@
-Pyrenophora bartramiae Racov. SPECIES
-=======
+# Pyrenophora bartramiae Racov. SPECIES
 
 #### Status
 ACCEPTED

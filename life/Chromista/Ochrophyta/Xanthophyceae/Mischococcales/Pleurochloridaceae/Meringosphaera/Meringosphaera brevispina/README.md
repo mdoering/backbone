@@ -1,5 +1,4 @@
-Meringosphaera brevispina Pascher SPECIES
-=======
+# Meringosphaera brevispina Pascher SPECIES
 
 #### Status
 ACCEPTED

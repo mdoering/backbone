@@ -1,5 +1,4 @@
-Oidiopsis mimuli (Ellis & Langl.) Golovin SPECIES
-=======
+# Oidiopsis mimuli (Ellis & Langl.) Golovin SPECIES
 
 #### Status
 ACCEPTED

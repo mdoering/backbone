@@ -1,5 +1,4 @@
-Microcoleus acutirostris Gomont SPECIES
-=======
+# Microcoleus acutirostris Gomont SPECIES
 
 #### Status
 ACCEPTED

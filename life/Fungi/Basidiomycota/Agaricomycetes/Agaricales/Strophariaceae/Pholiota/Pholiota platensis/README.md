@@ -1,5 +1,4 @@
-Pholiota platensis var. platensis VARIETY
-=======
+# Pholiota platensis Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 6: 123-124 (1899)
 
 #### Original name
-Pholiota platensis var. platensis
+Pholiota platensis Speg.
 
 ### Remarks
 null

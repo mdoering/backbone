@@ -1,5 +1,4 @@
-Samara microcalyx Kurz SPECIES
-=======
+# Samara microcalyx Kurz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalia S.C.D. Sah & R.K. Kar, 1974 GENUS
-=======
+# Cephalia S.C.D. Sah & R.K. Kar, 1974 GENUS
 
 #### Status
 ACCEPTED

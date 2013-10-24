@@ -1,5 +1,4 @@
-Stysanus calycioides Speg. SPECIES
-=======
+# Stysanus calycioides Speg. SPECIES
 
 #### Status
 ACCEPTED

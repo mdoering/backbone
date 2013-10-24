@@ -1,5 +1,4 @@
-Metafolliculina longicollis Hadzi, 1938 SPECIES
-=======
+# Metafolliculina longicollis Hadzi, 1938 SPECIES
 
 #### Status
 ACCEPTED

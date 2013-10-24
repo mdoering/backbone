@@ -1,5 +1,4 @@
-Phoma camelliaecola Brunaud SPECIES
-=======
+# Phoma camelliaecola Brunaud SPECIES
 
 #### Status
 ACCEPTED

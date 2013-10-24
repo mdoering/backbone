@@ -1,5 +1,4 @@
-Helicosporium abuense Chouhan & Panwar, 1981 SPECIES
-=======
+# Helicosporium abuense Chouhan & Panwar, 1981 SPECIES
 
 #### Status
 ACCEPTED

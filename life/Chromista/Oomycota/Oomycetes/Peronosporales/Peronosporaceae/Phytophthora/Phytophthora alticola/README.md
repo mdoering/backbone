@@ -1,5 +1,4 @@
-Phytophthora alticola Maseko, Cout. & M.J. Wingf. SPECIES
-=======
+# Phytophthora alticola Maseko, Cout. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

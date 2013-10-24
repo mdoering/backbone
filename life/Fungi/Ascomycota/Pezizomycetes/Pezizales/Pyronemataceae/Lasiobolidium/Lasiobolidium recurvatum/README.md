@@ -1,5 +1,4 @@
-Lasiobolidium recurvatum Locq.-Lin. SPECIES
-=======
+# Lasiobolidium recurvatum Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microporus gerardi (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus gerardii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
 
 #### Original name
 Polystictus gerardii Berk. & M.A. Curtis

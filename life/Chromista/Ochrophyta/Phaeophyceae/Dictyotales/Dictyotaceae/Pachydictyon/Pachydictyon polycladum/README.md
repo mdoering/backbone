@@ -1,8 +1,7 @@
-Dictyota polyclada Sonder ex Kützing SPECIES
-=======
+# Pachydictyon polycladum (Sonder ex Kützing) Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

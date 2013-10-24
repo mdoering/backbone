@@ -1,5 +1,4 @@
-Spinulospora Deighton GENUS
-=======
+# Spinulospora Deighton GENUS
 
 #### Status
 ACCEPTED

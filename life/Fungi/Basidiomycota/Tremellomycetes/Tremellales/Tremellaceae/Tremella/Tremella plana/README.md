@@ -1,5 +1,4 @@
-Tremella plana With. SPECIES
-=======
+# Tremella plana With. SPECIES
 
 #### Status
 ACCEPTED

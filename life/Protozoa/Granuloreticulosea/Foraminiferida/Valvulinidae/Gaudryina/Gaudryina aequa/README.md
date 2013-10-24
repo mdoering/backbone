@@ -1,5 +1,4 @@
-Gaudryina aequa SPECIES
-=======
+# Gaudryina aequa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticicladium acuum Oudem. SPECIES
-=======
+# Verticicladium acuum Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracrium echinatum Petch SPECIES
-=======
+# Tetracrium echinatum Petch SPECIES
 
 #### Status
 ACCEPTED

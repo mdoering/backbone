@@ -1,5 +1,4 @@
-Selenidium spionis (von Kölliker, 1845) SPECIES
-=======
+# Selenidium spionis (von Kölliker, 1845) SPECIES
 
 #### Status
 ACCEPTED

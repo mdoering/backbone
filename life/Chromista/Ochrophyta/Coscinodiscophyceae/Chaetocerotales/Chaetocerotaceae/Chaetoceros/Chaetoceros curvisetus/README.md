@@ -1,5 +1,4 @@
-Chaetoceros curvisetus Cleve SPECIES
-=======
+# Chaetoceros curvisetus Cleve SPECIES
 
 #### Status
 ACCEPTED

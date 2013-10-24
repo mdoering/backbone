@@ -1,5 +1,4 @@
-Saccharothrix aerocolonigenes subsp. staurosporea SUBSPECIES
-=======
+# Saccharothrix aerocolonigenes (ex Shinobu & Kawato, 1960) Labeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

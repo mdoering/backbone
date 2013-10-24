@@ -1,5 +1,4 @@
-Cryptosporium Kunze, 1817 GENUS
-=======
+# Cryptosporium Kunze, 1817 GENUS
 
 #### Status
 ACCEPTED

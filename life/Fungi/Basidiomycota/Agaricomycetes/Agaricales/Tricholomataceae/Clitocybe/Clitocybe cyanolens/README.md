@@ -1,5 +1,4 @@
-Clitocybe cyanolens Métrod SPECIES
-=======
+# Clitocybe cyanolens Métrod SPECIES
 
 #### Status
 ACCEPTED

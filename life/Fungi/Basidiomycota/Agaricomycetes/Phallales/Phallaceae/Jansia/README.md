@@ -1,5 +1,4 @@
-Jansia GENUS
-=======
+# Jansia GENUS
 
 #### Status
 ACCEPTED

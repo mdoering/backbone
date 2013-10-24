@@ -1,5 +1,4 @@
-Octospora cashiae (Gamundí) Benkert SPECIES
-=======
+# Octospora cashiae (Gamundí) Benkert SPECIES
 
 #### Status
 ACCEPTED

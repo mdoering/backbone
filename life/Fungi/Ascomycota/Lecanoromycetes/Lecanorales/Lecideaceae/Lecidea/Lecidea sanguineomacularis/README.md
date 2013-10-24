@@ -1,5 +1,4 @@
-Lecidea sanguineomacularis Zenk. SPECIES
-=======
+# Lecidea sanguineomacularis Zenk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotichia commiscens (Nyl.) Zahlbr. SPECIES
-=======
+# Psorotichia commiscens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Odontia brunnescens Overh., 1938 SPECIES
-=======
+# Phlebia weldeniana Nakasone & Burds., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 65: 171 (1938)
+Mycotaxon 54: 354 (1995)
 
 #### Original name
-Odontia brunnescens Overh., 1938
+Phlebia weldeniana Nakasone & Burds., 1995
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dichosporium Nees, 1816 GENUS
-=======
+# Dichosporium Nees, 1816 GENUS
 
 #### Status
 ACCEPTED

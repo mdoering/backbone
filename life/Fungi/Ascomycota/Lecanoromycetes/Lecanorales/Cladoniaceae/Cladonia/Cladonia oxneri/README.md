@@ -1,5 +1,4 @@
-Cladonia oxneri Rass. SPECIES
-=======
+# Cladonia oxneri Rass. SPECIES
 
 #### Status
 ACCEPTED

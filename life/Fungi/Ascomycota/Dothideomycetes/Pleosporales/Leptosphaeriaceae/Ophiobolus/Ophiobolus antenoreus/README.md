@@ -1,5 +1,4 @@
-Ophiobolus antenoreus Berl. SPECIES
-=======
+# Ophiobolus antenoreus Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus irregularis Maskell, 1888 SPECIES
-=======
+# Dileptus margaritifer (Ehrenberg, 1834) Dujardin, 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

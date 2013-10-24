@@ -1,5 +1,4 @@
-Cercospora isanthi Ellis & Kellerm. SPECIES
-=======
+# Cercospora isanthi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

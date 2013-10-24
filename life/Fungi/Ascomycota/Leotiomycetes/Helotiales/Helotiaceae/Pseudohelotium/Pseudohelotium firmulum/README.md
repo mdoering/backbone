@@ -1,5 +1,4 @@
-Pseudohelotium firmulum (P. Karst.) Sacc. SPECIES
-=======
+# Pseudohelotium firmulum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

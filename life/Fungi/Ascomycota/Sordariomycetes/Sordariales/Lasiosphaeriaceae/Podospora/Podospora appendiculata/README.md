@@ -1,8 +1,7 @@
-Podospora winteri (P. Karst.) Niessl, 1883 SPECIES
-=======
+# Podospora appendiculata (Auersw. ex Niessl) Niessl, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Hedwigia 22: 156 (1883)
 
 #### Original name
-Sordaria winteri Oudem., 1882
+Sordaria appendiculata Auersw. ex Niessl, 1870
 
 ### Remarks
 null

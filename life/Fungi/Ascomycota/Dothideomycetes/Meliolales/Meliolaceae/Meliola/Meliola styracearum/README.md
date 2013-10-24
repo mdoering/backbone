@@ -1,5 +1,4 @@
-Meliola styracearum F. Stevens SPECIES
-=======
+# Meliola styracearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

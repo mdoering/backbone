@@ -1,5 +1,4 @@
-Erioderma peruvianum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma peruvianum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

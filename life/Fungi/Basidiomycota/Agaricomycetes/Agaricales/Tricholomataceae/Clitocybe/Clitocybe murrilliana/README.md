@@ -1,5 +1,4 @@
-Clitocybe murrilliana Raithelh. SPECIES
-=======
+# Clitocybe murrilliana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

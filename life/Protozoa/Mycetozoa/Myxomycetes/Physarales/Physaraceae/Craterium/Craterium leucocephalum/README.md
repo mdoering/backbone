@@ -1,17 +1,16 @@
-Craterium leucocephalum subsp. leucocephalum SUBSPECIES
-=======
+# Craterium leucocephalum (Pers. ex J.F. Gmel.) Ditmar, 1813 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Craterium leucocephalum (Pers. ex J.F. Gmel.) Ditmar, 1813
 
 ### Remarks
 null

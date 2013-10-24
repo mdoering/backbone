@@ -1,5 +1,4 @@
-Mycosphaerella humuli (Hazsl.) Cruchet SPECIES
-=======
+# Mycosphaerella humuli (Hazsl.) Cruchet SPECIES
 
 #### Status
 ACCEPTED

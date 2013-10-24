@@ -1,5 +1,4 @@
-Boletus sykorae Smotl. SPECIES
-=======
+# Boletus sykorae Smotl. SPECIES
 
 #### Status
 ACCEPTED

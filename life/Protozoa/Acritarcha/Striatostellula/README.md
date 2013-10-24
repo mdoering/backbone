@@ -1,5 +1,4 @@
-Striatostellula W.A.S. Sarjeant & Stancliffe, 1994 GENUS
-=======
+# Striatostellula W.A.S. Sarjeant & Stancliffe, 1994 GENUS
 
 #### Status
 ACCEPTED

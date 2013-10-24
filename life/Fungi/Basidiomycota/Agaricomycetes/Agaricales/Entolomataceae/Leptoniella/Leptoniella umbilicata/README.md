@@ -1,5 +1,4 @@
-Leptoniella umbilicata Murrill SPECIES
-=======
+# Leptoniella umbilicata Murrill SPECIES
 
 #### Status
 ACCEPTED

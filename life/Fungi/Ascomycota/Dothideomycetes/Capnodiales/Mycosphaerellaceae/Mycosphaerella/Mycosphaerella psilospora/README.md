@@ -1,5 +1,4 @@
-Mycosphaerella psilospora J.C. Gilman & Wadley, 1952 SPECIES
-=======
+# Mycosphaerella psilospora J.C. Gilman & Wadley, 1952 SPECIES
 
 #### Status
 ACCEPTED

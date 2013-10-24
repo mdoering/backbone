@@ -1,5 +1,4 @@
-Gyrophora torrefacta SPECIES
-=======
+# Gyrophora torrefacta SPECIES
 
 #### Status
 ACCEPTED

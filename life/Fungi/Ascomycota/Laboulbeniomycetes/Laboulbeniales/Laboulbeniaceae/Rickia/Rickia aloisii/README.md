@@ -1,5 +1,4 @@
-Rickia aloisii W. Rossi SPECIES
-=======
+# Rickia aloisii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

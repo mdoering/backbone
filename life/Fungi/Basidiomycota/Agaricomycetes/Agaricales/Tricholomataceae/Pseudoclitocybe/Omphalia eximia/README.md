@@ -1,5 +1,4 @@
-Omphalia eximia Peck SPECIES
-=======
+# Omphalia eximia Peck SPECIES
 
 #### Status
 ACCEPTED

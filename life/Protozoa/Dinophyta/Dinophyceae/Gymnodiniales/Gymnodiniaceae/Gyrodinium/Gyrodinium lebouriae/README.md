@@ -1,5 +1,4 @@
-Gyrodinium lebouriae Herdman SPECIES
-=======
+# Gyrodinium lebouriae Herdman SPECIES
 
 #### Status
 ACCEPTED

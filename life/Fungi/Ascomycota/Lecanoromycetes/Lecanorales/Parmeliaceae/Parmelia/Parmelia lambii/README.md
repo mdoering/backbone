@@ -1,5 +1,4 @@
-Parmelia lambii Øvstedal SPECIES
-=======
+# Parmelia lambii Øvstedal SPECIES
 
 #### Status
 ACCEPTED

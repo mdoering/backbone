@@ -1,5 +1,4 @@
-Discorehmia subsyringea Kirschst. SPECIES
-=======
+# Discorehmia subsyringea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

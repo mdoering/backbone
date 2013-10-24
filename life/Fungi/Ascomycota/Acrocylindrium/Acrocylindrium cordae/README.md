@@ -1,5 +1,4 @@
-Acrocylindrium cordae Sacc. SPECIES
-=======
+# Acrocylindrium cordae Sacc. SPECIES
 
 #### Status
 ACCEPTED

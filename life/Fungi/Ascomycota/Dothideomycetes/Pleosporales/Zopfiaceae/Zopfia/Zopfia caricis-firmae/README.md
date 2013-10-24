@@ -1,5 +1,4 @@
-Zopfia caricis-firmae Nograsek SPECIES
-=======
+# Zopfia caricis-firmae Nograsek SPECIES
 
 #### Status
 ACCEPTED

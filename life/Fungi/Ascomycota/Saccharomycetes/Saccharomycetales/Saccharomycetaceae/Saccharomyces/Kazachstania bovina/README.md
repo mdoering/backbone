@@ -1,5 +1,4 @@
-Kazachstania bovina Kurtzman & Robnett, 2005 SPECIES
-=======
+# Kazachstania bovina Kurtzman & Robnett, 2005 SPECIES
 
 #### Status
 ACCEPTED

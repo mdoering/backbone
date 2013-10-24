@@ -1,5 +1,4 @@
-Polystictus pectunculus (Lév.) Cooke SPECIES
-=======
+# Polystictus pectunculus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

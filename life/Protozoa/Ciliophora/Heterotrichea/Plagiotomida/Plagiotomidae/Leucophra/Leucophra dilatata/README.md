@@ -1,5 +1,4 @@
-Leucophra dilatata Müller, 1786 SPECIES
-=======
+# Leucophra dilatata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

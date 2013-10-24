@@ -1,5 +1,4 @@
-Puccinia andina Dietel & Neger SPECIES
-=======
+# Puccinia andina Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus leoninus Velen. SPECIES
-=======
+# Paxillus leoninus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium aster (Habib & Knapp, 1982) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium aster (Habib & Knapp, 1982) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

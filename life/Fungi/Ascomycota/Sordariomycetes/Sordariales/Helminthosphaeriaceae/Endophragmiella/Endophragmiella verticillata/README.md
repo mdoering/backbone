@@ -1,5 +1,4 @@
-Endophragmiella verticillata S. Hughes SPECIES
-=======
+# Endophragmiella verticillata S. Hughes SPECIES
 
 #### Status
 ACCEPTED

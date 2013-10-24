@@ -1,5 +1,4 @@
-Lophodermium tindalii P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium tindalii P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria melostoma Fr. SPECIES
-=======
+# Sphaeria melostoma Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Strobilofungus Lloyd GENUS
-=======
+# Boletellus Murrill GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 1(1): 9 (1909)
 
 #### Original name
-Strobilofungus Lloyd
+Boletellus Murrill
 
 ### Remarks
 null

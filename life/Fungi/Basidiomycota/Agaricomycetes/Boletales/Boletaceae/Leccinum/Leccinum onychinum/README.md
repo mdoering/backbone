@@ -1,5 +1,4 @@
-Leccinum onychinum Watling, 1994 SPECIES
-=======
+# Leccinum onychinum Watling, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina carbocarpa Redinger SPECIES
-=======
+# Graphina carbocarpa Redinger SPECIES
 
 #### Status
 ACCEPTED

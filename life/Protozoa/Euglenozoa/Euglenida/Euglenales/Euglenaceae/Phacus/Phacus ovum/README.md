@@ -1,5 +1,4 @@
-Phacus ovum f. cylindricus Klebs FORM
-=======
+# Phacus ovum (Ehrenberg) Klebs SPECIES
 
 #### Status
 ACCEPTED

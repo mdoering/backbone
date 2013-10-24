@@ -1,5 +1,4 @@
-Chlorocyphella foliicola (Vain.) Keissl. SPECIES
-=======
+# Chlorocyphella foliicola (Vain.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

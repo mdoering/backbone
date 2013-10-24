@@ -1,5 +1,4 @@
-Gerwasia tayronensis Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Gerwasia tayronensis Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
 
 #### Status
 ACCEPTED

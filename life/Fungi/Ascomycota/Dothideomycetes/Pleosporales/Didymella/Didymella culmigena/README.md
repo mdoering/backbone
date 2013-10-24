@@ -1,5 +1,4 @@
-Didymella culmigena f. culmigena Sacc., 1878 FORM
-=======
+# Didymella culmigena Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Michelia 1(no. 4): 377 (1878)
 
 #### Original name
-Didymella culmigena f. culmigena Sacc., 1878
+Didymella culmigena Sacc.
 
 ### Remarks
 null

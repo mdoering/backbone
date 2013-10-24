@@ -1,5 +1,4 @@
-Gloeosporium cinctum Berk. & M.A. Curtis SPECIES
-=======
+# Gloeosporium cinctum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

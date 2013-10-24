@@ -1,5 +1,4 @@
-Prolixoplecta parvula (Cushman, 1922) SPECIES
-=======
+# Prolixoplecta parvula (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

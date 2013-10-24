@@ -1,5 +1,4 @@
-Amphorides brandti SPECIES
-=======
+# Amphorides brandti SPECIES
 
 #### Status
 ACCEPTED

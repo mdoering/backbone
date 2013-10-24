@@ -1,5 +1,4 @@
-Xiphophora C. Montagne, 1842 GENUS
-=======
+# Xiphophora C. Montagne, 1842 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma vernicomum (Tuck.) Szatala SPECIES
-=======
+# Diplotomma vernicomum (Tuck.) Szatala SPECIES
 
 #### Status
 ACCEPTED

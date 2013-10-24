@@ -1,5 +1,4 @@
-Oochytrium lepidodendri Renault SPECIES
-=======
+# Oochytrium lepidodendri Renault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella tithymali Pass. SPECIES
-=======
+# Sphaerella tithymali Pass. SPECIES
 
 #### Status
 ACCEPTED

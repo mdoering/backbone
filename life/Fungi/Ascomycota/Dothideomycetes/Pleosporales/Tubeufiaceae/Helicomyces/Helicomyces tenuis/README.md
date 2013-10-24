@@ -1,5 +1,4 @@
-Helicomyces tenuis Speg., 1910 SPECIES
-=======
+# Helicomyces tenuis Speg., 1910 SPECIES
 
 #### Status
 ACCEPTED

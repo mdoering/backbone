@@ -1,5 +1,4 @@
-Pyrenochaeta nucinata Fairm. SPECIES
-=======
+# Pyrenochaeta nucinata Fairm. SPECIES
 
 #### Status
 ACCEPTED

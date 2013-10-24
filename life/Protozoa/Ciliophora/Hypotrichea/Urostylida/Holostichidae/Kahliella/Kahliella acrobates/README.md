@@ -1,5 +1,4 @@
-Kahliella acrobates SPECIES
-=======
+# Kahliella acrobates SPECIES
 
 #### Status
 ACCEPTED

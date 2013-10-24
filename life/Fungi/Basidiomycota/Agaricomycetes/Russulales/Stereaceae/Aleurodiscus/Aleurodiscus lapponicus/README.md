@@ -1,14 +1,13 @@
-Acanthophysellum lapponicum (Litsch.) Sheng H. Wu, Boidin & C.Y. Chien, 2000 SPECIES
-=======
+# Aleurodiscus lapponicus Litsch., 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 76: 160 (2000)
+Annls mycol. 42(1/2): 11 (1944)
 
 #### Original name
 Aleurodiscus lapponicus Litsch., 1944

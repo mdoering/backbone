@@ -1,5 +1,4 @@
-Vindhyania S.M.Mathur GENUS
-=======
+# Vindhyania S.M.Mathur GENUS
 
 #### Status
 ACCEPTED

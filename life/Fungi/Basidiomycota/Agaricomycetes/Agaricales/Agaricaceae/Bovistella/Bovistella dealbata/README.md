@@ -1,5 +1,4 @@
-Bovistella dealbata Lloyd SPECIES
-=======
+# Bovistella dealbata Lloyd SPECIES
 
 #### Status
 ACCEPTED

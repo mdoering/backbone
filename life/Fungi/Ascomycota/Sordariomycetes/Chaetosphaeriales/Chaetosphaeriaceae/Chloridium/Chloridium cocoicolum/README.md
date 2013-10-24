@@ -1,5 +1,4 @@
-Chloridium cocoicolum SPECIES
-=======
+# Chloridium cocoicolum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campanella pustulata (Berk. & Broome) Lloyd SPECIES
-=======
+# Campanella pustulata (Berk. & Broome) Lloyd SPECIES
 
 #### Status
 ACCEPTED

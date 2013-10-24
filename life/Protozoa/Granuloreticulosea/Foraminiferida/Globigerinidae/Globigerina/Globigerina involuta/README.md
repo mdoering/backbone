@@ -1,5 +1,4 @@
-Globigerina involuta Cushman SPECIES
-=======
+# Globigerina involuta Cushman SPECIES
 
 #### Status
 ACCEPTED

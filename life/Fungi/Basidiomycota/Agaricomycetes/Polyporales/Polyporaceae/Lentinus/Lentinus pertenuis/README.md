@@ -1,5 +1,4 @@
-Lentinus pertenuis Lloyd SPECIES
-=======
+# Lentinus pertenuis Lloyd SPECIES
 
 #### Status
 ACCEPTED

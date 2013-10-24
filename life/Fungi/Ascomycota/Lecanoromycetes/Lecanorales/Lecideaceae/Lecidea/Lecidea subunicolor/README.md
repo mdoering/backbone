@@ -1,5 +1,4 @@
-Lecidea subunicolor (Nyl.) Hue SPECIES
-=======
+# Lecidea subunicolor (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

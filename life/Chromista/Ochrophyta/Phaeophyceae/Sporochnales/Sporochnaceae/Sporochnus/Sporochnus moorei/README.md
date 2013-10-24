@@ -1,5 +1,4 @@
-Sporochnus moorei Harvey SPECIES
-=======
+# Sporochnus moorei Harvey SPECIES
 
 #### Status
 ACCEPTED

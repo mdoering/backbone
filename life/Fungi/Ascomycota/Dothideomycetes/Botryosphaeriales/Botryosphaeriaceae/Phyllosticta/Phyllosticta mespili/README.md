@@ -1,5 +1,4 @@
-Phyllosticta mespili Sacc. SPECIES
-=======
+# Phyllosticta mespili Sacc. SPECIES
 
 #### Status
 ACCEPTED

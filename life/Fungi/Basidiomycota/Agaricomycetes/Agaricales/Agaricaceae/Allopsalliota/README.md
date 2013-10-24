@@ -1,5 +1,4 @@
-Allopsalliota Nauta & Bas GENUS
-=======
+# Allopsalliota Nauta & Bas GENUS
 
 #### Status
 ACCEPTED

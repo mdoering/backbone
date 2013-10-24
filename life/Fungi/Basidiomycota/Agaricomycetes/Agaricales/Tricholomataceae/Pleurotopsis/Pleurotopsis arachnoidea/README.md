@@ -1,5 +1,4 @@
-Pleurotopsis arachnoidea (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Pleurotopsis arachnoidea (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

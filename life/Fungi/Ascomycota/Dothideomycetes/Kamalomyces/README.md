@@ -1,5 +1,4 @@
-Kamalomyces R.K. Verma, N. Sharma & Soni GENUS
-=======
+# Kamalomyces R.K. Verma, N. Sharma & Soni GENUS
 
 #### Status
 ACCEPTED

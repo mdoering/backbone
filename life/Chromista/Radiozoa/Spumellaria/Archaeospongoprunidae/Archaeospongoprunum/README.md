@@ -1,5 +1,4 @@
-Archaeospongoprunum Pessagno, 1973 GENUS
-=======
+# Archaeospongoprunum Pessagno, 1973 GENUS
 
 #### Status
 ACCEPTED

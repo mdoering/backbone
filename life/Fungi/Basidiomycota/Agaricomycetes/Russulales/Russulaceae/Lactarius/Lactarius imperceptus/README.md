@@ -1,17 +1,16 @@
-Lactaria impercepta Beardslee & Burl. SPECIES
-=======
+# Lactarius imperceptus Beardslee & Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 581 (1940)
 
 #### Original name
-Lactaria impercepta Beardslee & Burl.
+Lactarius imperceptus Beardslee & Burl.
 
 ### Remarks
 null

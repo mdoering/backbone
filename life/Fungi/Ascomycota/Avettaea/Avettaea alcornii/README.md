@@ -1,5 +1,4 @@
-Avettaea alcornii Sivan. & B. Sutton, 1985 SPECIES
-=======
+# Avettaea alcornii Sivan. & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

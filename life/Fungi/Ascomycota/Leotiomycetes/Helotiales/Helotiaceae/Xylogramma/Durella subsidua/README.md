@@ -1,5 +1,4 @@
-Durella subsidua (Cooke & Ellis) Magnes SPECIES
-=======
+# Durella subsidua (Cooke & Ellis) Magnes SPECIES
 
 #### Status
 ACCEPTED

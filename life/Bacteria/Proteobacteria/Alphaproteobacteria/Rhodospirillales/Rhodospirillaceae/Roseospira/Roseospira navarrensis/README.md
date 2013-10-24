@@ -1,5 +1,4 @@
-Roseospira navarrensis Guyoneaud et al., 2003 SPECIES
-=======
+# Roseospira navarrensis Guyoneaud et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

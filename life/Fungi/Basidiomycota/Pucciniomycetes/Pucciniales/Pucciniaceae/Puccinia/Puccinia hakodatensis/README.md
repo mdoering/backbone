@@ -1,5 +1,4 @@
-Puccinia hakodatensis Hirats. f. SPECIES
-=======
+# Puccinia hakodatensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

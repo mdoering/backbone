@@ -1,5 +1,4 @@
-Lichen tephromelas SPECIES
-=======
+# Lichen tephromelas SPECIES
 
 #### Status
 ACCEPTED

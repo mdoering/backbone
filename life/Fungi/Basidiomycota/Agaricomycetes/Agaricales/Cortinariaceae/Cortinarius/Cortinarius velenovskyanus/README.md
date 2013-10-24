@@ -1,17 +1,16 @@
-Cortinarius velenovskyianus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius velenovskyanus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires, Hors-Serie 1: 153 (1997)
 
 #### Original name
-Cortinarius velenovskyianus Moënne-Locc. & Reumaux
+Cortinarius velenovskyanus Moënne-Locc. & Reumaux
 
 ### Remarks
 null

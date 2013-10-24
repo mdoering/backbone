@@ -1,17 +1,16 @@
-Colletotrichum aquatilis R. Sprague SPECIES
-=======
+# Colletotrichum aquatile R. Sprague SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 49(6): 838 (1958)
 
 #### Original name
-Colletotrichum aquatilis R. Sprague
+Colletotrichum aquatile R. Sprague
 
 ### Remarks
 null

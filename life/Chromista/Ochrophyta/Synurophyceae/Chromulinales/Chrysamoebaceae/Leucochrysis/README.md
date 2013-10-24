@@ -1,5 +1,4 @@
-Leucochrysis Pascher, 1918 GENUS
-=======
+# Leucochrysis Pascher, 1918 GENUS
 
 #### Status
 ACCEPTED

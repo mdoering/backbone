@@ -1,5 +1,4 @@
-Aseroë coccinea Imazeki & Yoshimi SPECIES
-=======
+# Aseroë coccinea Imazeki & Yoshimi SPECIES
 
 #### Status
 ACCEPTED

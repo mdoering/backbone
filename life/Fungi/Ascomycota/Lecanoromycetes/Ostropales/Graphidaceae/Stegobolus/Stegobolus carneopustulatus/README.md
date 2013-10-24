@@ -1,5 +1,4 @@
-Stegobolus carneopustulatus Frisch & Kalb SPECIES
-=======
+# Stegobolus carneopustulatus Frisch & Kalb SPECIES
 
 #### Status
 ACCEPTED

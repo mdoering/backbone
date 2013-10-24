@@ -1,5 +1,4 @@
-Aecidium fraxini-bungeanae Dietel SPECIES
-=======
+# Aecidium fraxini-bungeanae Dietel SPECIES
 
 #### Status
 ACCEPTED

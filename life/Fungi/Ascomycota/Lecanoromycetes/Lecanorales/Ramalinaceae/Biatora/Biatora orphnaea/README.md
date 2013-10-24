@@ -1,5 +1,4 @@
-Biatora orphnaea (Tuck.) Tuck. SPECIES
-=======
+# Biatora orphnaea (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

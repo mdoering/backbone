@@ -1,5 +1,4 @@
-Sphenophrya solinis Xu & Song, 2003 SPECIES
-=======
+# Sphenophrya solinis Xu & Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

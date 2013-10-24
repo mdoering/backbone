@@ -1,5 +1,4 @@
-Pezicula clavuliformis P. Karst. SPECIES
-=======
+# Pezicula clavuliformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

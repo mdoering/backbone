@@ -1,14 +1,13 @@
-Sticta pallida Hook. f. SPECIES
-=======
+# Durietzia pallida (Hook. f.) Yoshim. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Recollecting Edvard August Vainio (São Paulo) 91 (1998)
 
 #### Original name
 Sticta pallida Hook. f.

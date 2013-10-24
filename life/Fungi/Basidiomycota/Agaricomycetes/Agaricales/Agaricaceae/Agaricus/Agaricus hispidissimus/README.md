@@ -1,5 +1,4 @@
-Agaricus hispidissimus E.H.L. Krause SPECIES
-=======
+# Agaricus hispidissimus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

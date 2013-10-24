@@ -1,5 +1,4 @@
-Lycoperdon lumbricale Batsch SPECIES
-=======
+# Lycoperdon lumbricale Batsch SPECIES
 
 #### Status
 ACCEPTED

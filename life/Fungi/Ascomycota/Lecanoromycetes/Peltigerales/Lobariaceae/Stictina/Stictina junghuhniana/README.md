@@ -1,5 +1,4 @@
-Stictina junghuhniana Müll. Arg. SPECIES
-=======
+# Stictina junghuhniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

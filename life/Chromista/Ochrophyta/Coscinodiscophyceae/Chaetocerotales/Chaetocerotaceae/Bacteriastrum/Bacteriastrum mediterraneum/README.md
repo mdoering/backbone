@@ -1,5 +1,4 @@
-Bacteriastrum mediterraneum J.Pavillard, 1916 SPECIES
-=======
+# Bacteriastrum mediterraneum J.Pavillard, 1916 SPECIES
 
 #### Status
 ACCEPTED

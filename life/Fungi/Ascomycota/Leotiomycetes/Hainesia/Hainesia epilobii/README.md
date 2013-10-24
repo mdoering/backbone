@@ -1,5 +1,4 @@
-Hainesia epilobii A.G. Eliasson SPECIES
-=======
+# Hainesia epilobii A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

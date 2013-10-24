@@ -1,5 +1,4 @@
-Luteimonas marina Baik, Park, Kim, Kim, Park, Chun & Seong, 2008 SPECIES
-=======
+# Luteimonas marina Baik, Park, Kim, Kim, Park, Chun & Seong, 2008 SPECIES
 
 #### Status
 ACCEPTED

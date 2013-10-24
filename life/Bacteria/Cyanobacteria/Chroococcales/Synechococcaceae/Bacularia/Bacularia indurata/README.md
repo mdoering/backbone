@@ -1,5 +1,4 @@
-Bacularia indurata (Copeland) Frémy SPECIES
-=======
+# Bacularia indurata (Copeland) Frémy SPECIES
 
 #### Status
 ACCEPTED

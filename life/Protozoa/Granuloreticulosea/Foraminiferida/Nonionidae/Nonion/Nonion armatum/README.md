@@ -1,8 +1,7 @@
-Nonionina boueana var. armata Brady, 1884 VARIETY
-=======
+# Nonion armatum (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

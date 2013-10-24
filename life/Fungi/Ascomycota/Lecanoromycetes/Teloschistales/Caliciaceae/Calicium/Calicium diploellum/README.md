@@ -1,5 +1,4 @@
-Calicium diploellum Nyl. SPECIES
-=======
+# Calicium diploellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

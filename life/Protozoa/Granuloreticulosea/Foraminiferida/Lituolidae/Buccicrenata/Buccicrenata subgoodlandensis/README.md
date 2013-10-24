@@ -1,5 +1,4 @@
-Buccicrenata subgoodlandensis (Vanderpool) SPECIES
-=======
+# Buccicrenata subgoodlandensis (Vanderpool) SPECIES
 
 #### Status
 ACCEPTED

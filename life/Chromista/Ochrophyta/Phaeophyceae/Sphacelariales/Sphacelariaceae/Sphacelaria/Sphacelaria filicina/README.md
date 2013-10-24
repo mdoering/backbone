@@ -1,5 +1,4 @@
-Sphacelaria filicina var. hiemalis J. Agardh VARIETY
-=======
+# Sphacelaria filicina SPECIES
 
 #### Status
 ACCEPTED

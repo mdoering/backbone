@@ -1,5 +1,4 @@
-Stachycoremium Seifert GENUS
-=======
+# Stachycoremium Seifert GENUS
 
 #### Status
 ACCEPTED

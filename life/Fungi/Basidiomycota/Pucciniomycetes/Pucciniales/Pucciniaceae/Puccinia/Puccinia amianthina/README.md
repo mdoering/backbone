@@ -1,5 +1,4 @@
-Puccinia amianthina Syd. SPECIES
-=======
+# Puccinia amianthina Syd. SPECIES
 
 #### Status
 ACCEPTED

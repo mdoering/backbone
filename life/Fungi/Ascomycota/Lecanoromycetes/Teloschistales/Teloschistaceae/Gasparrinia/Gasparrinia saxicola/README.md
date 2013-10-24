@@ -1,5 +1,4 @@
-Gasparrinia saxicola (Pollich) Tornab. SPECIES
-=======
+# Gasparrinia saxicola (Pollich) Tornab. SPECIES
 
 #### Status
 ACCEPTED

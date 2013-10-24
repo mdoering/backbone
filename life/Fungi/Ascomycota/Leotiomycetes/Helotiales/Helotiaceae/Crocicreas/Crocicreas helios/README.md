@@ -1,5 +1,4 @@
-Crocicreas helios var. helios VARIETY
-=======
+# Crocicreas helios (Penz. & Sacc.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brittonia 32(2): 270 (1980)
 
 #### Original name
-Crocicreas helios var. helios
+Davincia helios Penz. & Sacc.
 
 ### Remarks
 null

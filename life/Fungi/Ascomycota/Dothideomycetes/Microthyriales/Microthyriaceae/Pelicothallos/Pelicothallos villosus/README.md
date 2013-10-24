@@ -1,5 +1,4 @@
-Pelicothallos villosus Dilcher SPECIES
-=======
+# Pelicothallos villosus Dilcher SPECIES
 
 #### Status
 ACCEPTED

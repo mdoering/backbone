@@ -1,5 +1,4 @@
-Pseudocercosporella endophytica Crous & H. Sm. ter SPECIES
-=======
+# Pseudocercosporella endophytica Crous & H. Sm. ter SPECIES
 
 #### Status
 ACCEPTED

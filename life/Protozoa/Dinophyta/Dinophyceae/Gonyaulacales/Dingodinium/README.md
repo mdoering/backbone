@@ -1,5 +1,4 @@
-Dingodinium I.C. Cookson & A. Eisenack, 1958 GENUS
-=======
+# Dingodinium I.C. Cookson & A. Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

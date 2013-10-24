@@ -1,5 +1,4 @@
-Lasiosphaeria moseri O. Hilber, 1983 SPECIES
-=======
+# Lasiosphaeria moseri O. Hilber, 1983 SPECIES
 
 #### Status
 ACCEPTED

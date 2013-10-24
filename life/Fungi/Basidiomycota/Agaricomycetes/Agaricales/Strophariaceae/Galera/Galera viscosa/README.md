@@ -1,5 +1,4 @@
-Galera viscosa Clem. SPECIES
-=======
+# Galera viscosa Clem. SPECIES
 
 #### Status
 ACCEPTED

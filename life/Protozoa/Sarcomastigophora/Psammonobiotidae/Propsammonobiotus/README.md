@@ -1,5 +1,4 @@
-Propsammonobiotus Golemansky, 1991 GENUS
-=======
+# Propsammonobiotus Golemansky, 1991 GENUS
 
 #### Status
 ACCEPTED

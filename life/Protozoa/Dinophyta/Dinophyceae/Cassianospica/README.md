@@ -1,5 +1,4 @@
-Cassianospica Janofske, 1992 GENUS
-=======
+# Cassianospica Janofske, 1992 GENUS
 
 #### Status
 ACCEPTED

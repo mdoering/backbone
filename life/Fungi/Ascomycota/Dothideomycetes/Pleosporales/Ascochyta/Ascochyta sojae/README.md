@@ -1,5 +1,4 @@
-Ascochyta sojae Miura SPECIES
-=======
+# Ascochyta sojae Miura SPECIES
 
 #### Status
 ACCEPTED

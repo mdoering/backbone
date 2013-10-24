@@ -1,5 +1,4 @@
-Biatorella testudinea var. testudinea VARIETY
-=======
+# Biatorella testudinea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorella testudinea var. testudinea
+null
 
 ### Remarks
 null

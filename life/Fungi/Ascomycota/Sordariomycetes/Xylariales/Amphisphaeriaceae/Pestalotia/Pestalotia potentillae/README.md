@@ -1,5 +1,4 @@
-Pestalotia potentillae Richon SPECIES
-=======
+# Pestalotia potentillae Richon SPECIES
 
 #### Status
 ACCEPTED

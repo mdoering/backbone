@@ -1,5 +1,4 @@
-Puccinia satarensis P.B. Chavan & Bakare SPECIES
-=======
+# Puccinia satarensis P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia albonigra SPECIES
-=======
+# Arthonia albonigra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria pustulata Sacc. SPECIES
-=======
+# Botryosphaeria pustulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

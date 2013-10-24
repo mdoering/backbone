@@ -1,5 +1,4 @@
-Mycosphaerella brideliae Syd. SPECIES
-=======
+# Mycosphaerella brideliae Syd. SPECIES
 
 #### Status
 ACCEPTED

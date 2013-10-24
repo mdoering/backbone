@@ -1,5 +1,4 @@
-Lecanora yasudae Vain. SPECIES
-=======
+# Lecanora yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

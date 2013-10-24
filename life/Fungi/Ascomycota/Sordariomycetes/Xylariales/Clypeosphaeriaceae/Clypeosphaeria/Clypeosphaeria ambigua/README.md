@@ -1,5 +1,4 @@
-Clypeosphaeria ambigua Höhn. SPECIES
-=======
+# Clypeosphaeria ambigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis californica W.E. Hunter & E.E. Butler, 1975 SPECIES
-=======
+# Syncephalis californica W.E. Hunter & E.E. Butler, 1975 SPECIES
 
 #### Status
 ACCEPTED

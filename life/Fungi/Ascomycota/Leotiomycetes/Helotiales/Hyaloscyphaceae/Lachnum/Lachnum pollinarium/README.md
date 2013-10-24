@@ -1,5 +1,4 @@
-Lachnum pollinarium (Cooke) E.K. Cash SPECIES
-=======
+# Lachnum pollinarium (Cooke) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia albonigricans SPECIES
-=======
+# Bacidia albonigricans SPECIES
 
 #### Status
 ACCEPTED

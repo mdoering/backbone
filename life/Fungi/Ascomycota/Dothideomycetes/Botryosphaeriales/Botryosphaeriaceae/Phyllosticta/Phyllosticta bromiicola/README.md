@@ -1,5 +1,4 @@
-Phyllosticta bromiicola Gonz. Frag. SPECIES
-=======
+# Phyllosticta bromiicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

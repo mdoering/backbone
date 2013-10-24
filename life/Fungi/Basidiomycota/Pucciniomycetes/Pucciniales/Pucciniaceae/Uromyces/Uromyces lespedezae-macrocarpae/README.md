@@ -1,5 +1,4 @@
-Uromyces lespedezae-macrocarpae Liou & Wang {?} SPECIES
-=======
+# Uromyces lespedezae-macrocarpae Liou & Wang {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera pumila f. oreina J. Favre FORM
-=======
+# Galera pumila (Pers.) SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ergebn. wiss. Unters. schweiz. NatnParks 5: 204 (1955)
+null
 
 #### Original name
-Galera pumila f. oreina J. Favre
+Galera pumila (Pers.)
 
 ### Remarks
 null

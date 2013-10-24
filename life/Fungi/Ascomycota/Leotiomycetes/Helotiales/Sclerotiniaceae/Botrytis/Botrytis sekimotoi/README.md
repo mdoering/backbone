@@ -1,5 +1,4 @@
-Botrytis sekimotoi Hara SPECIES
-=======
+# Botrytis sekimotoi Hara SPECIES
 
 #### Status
 ACCEPTED

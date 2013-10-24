@@ -1,5 +1,4 @@
-Polycystis opaca F. Strauss SPECIES
-=======
+# Polycystis opaca F. Strauss SPECIES
 
 #### Status
 ACCEPTED

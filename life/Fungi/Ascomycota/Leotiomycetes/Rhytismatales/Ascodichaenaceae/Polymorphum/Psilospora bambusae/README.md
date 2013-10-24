@@ -1,5 +1,4 @@
-Psilospora bambusae Sawada SPECIES
-=======
+# Psilospora bambusae Sawada SPECIES
 
 #### Status
 ACCEPTED

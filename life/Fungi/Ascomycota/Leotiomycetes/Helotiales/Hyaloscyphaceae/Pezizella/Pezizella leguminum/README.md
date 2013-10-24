@@ -1,5 +1,4 @@
-Pezizella leguminum (Schwein.) Sacc. SPECIES
-=======
+# Pezizella leguminum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

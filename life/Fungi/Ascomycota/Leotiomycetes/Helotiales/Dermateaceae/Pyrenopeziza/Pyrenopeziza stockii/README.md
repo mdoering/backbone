@@ -1,5 +1,4 @@
-Pyrenopeziza stockii (Cooke & W. Phillips) SPECIES
-=======
+# Pyrenopeziza stockii (Cooke & W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

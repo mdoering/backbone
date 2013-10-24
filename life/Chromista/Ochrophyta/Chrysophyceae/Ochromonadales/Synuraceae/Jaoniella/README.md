@@ -1,5 +1,4 @@
-Jaoniella Skvortzov, 1961 GENUS
-=======
+# Jaoniella Skvortzov, 1961 GENUS
 
 #### Status
 ACCEPTED

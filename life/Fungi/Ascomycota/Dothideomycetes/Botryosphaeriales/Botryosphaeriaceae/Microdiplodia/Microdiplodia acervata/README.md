@@ -1,5 +1,4 @@
-Microdiplodia acervata (Lév.) Zambett. SPECIES
-=======
+# Microdiplodia acervata (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

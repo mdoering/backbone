@@ -1,5 +1,4 @@
-Resupinatus atropellitus (Peck) Murrill SPECIES
-=======
+# Resupinatus atropellitus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

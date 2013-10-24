@@ -1,5 +1,4 @@
-Andromeda Baumgartner in Baumgartner, de Wever & Kocher, 1980 GENUS
-=======
+# Andromeda Baumgartner in Baumgartner, de Wever & Kocher, 1980 GENUS
 
 #### Status
 ACCEPTED

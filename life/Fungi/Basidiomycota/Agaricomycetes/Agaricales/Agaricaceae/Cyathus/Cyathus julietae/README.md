@@ -1,5 +1,4 @@
-Cyathus julietae H.J. Brodie, 1967 SPECIES
-=======
+# Cyathus julietae H.J. Brodie, 1967 SPECIES
 
 #### Status
 ACCEPTED

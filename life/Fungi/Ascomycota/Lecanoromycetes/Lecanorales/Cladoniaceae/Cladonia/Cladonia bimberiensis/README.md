@@ -1,5 +1,4 @@
-Cladonia bimberiensis A. W. Archer SPECIES
-=======
+# Cladonia bimberiensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

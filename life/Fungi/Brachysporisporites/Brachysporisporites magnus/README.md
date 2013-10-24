@@ -1,5 +1,4 @@
-Brachysporisporites magnus B. Samant SPECIES
-=======
+# Brachysporisporites magnus B. Samant SPECIES
 
 #### Status
 ACCEPTED

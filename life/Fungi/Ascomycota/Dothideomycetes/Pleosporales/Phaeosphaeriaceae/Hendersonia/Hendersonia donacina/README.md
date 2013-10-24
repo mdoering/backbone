@@ -1,5 +1,4 @@
-Hendersonia donacina Mont. SPECIES
-=======
+# Hendersonia donacina Mont. SPECIES
 
 #### Status
 ACCEPTED

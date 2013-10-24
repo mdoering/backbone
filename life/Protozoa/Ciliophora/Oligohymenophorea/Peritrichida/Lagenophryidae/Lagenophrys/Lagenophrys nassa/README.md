@@ -1,5 +1,4 @@
-Lagenophrys nassa Stein, 1851 SPECIES
-=======
+# Lagenophrys nassa Stein, 1851 SPECIES
 
 #### Status
 ACCEPTED

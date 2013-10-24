@@ -1,5 +1,4 @@
-Lopadium arthonioides Müll. Arg. SPECIES
-=======
+# Lopadium arthonioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

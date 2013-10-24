@@ -1,17 +1,16 @@
-Odontia terrestris P. Karst., 1883 SPECIES
-=======
+# Cristinia helvetica (Pers.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 48 (1968)
 
 #### Original name
-null
+Hydnum helveticum Pers., 1825
 
 ### Remarks
 null

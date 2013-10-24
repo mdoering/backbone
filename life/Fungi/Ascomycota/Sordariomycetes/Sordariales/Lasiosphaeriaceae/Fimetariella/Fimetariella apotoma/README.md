@@ -1,5 +1,4 @@
-Fimetariella apotoma J.C. Krug SPECIES
-=======
+# Fimetariella apotoma J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

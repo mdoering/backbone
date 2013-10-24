@@ -1,5 +1,4 @@
-Phyllosticta bruchiana Speg. SPECIES
-=======
+# Phyllosticta bruchiana Speg. SPECIES
 
 #### Status
 ACCEPTED

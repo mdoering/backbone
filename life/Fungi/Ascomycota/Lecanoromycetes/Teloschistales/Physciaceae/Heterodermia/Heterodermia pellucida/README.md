@@ -1,5 +1,4 @@
-Heterodermia pellucida (D.D. Awasthi) D.D. Awasthi SPECIES
-=======
+# Heterodermia pellucida (D.D. Awasthi) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

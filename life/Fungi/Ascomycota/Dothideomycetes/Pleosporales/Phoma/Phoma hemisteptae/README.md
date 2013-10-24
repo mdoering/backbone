@@ -1,5 +1,4 @@
-Phoma hemisteptae Sawada SPECIES
-=======
+# Phoma hemisteptae Sawada SPECIES
 
 #### Status
 ACCEPTED

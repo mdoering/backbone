@@ -1,5 +1,4 @@
-Peronospora scleranthi Rabenh. ex J. Schröt., 1886 SPECIES
-=======
+# Peronospora scleranthi Rabenh. ex J. Schröt., 1886 SPECIES
 
 #### Status
 ACCEPTED

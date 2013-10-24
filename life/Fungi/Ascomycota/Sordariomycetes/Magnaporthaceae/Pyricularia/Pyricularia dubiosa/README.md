@@ -1,5 +1,4 @@
-Pyricularia dubiosa (Speg.) Viégas SPECIES
-=======
+# Pyricularia dubiosa (Speg.) Viégas SPECIES
 
 #### Status
 ACCEPTED

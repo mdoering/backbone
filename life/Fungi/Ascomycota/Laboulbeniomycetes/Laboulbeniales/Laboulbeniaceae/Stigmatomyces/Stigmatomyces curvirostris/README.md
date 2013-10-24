@@ -1,5 +1,4 @@
-Stigmatomyces curvirostris Thaxt. SPECIES
-=======
+# Stigmatomyces curvirostris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora adinicola A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora adinicola A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

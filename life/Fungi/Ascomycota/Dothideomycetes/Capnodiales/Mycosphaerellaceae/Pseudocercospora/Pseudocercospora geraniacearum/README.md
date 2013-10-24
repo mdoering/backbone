@@ -1,5 +1,4 @@
-Pseudocercospora geraniacearum U. Braun & Rogerson SPECIES
-=======
+# Pseudocercospora geraniacearum U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

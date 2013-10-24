@@ -1,5 +1,4 @@
-Sirobasidium compactum P. Roberts SPECIES
-=======
+# Sirobasidium compactum P. Roberts SPECIES
 
 #### Status
 ACCEPTED

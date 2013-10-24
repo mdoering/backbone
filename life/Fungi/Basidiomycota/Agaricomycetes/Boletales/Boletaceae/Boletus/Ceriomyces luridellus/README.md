@@ -1,5 +1,4 @@
-Ceriomyces luridellus Murrill SPECIES
-=======
+# Ceriomyces luridellus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia stylidii McAlpine SPECIES
-=======
+# Puccinia stylidii McAlpine SPECIES
 
 #### Status
 ACCEPTED

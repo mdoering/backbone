@@ -1,5 +1,4 @@
-Agaricus cappelli Bohus & L. Albert SPECIES
-=======
+# Agaricus cappelli Bohus & L. Albert SPECIES
 
 #### Status
 ACCEPTED

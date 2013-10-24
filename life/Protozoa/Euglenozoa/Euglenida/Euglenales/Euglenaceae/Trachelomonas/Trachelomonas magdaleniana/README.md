@@ -1,5 +1,4 @@
-Trachelomonas magdaleniana Deflandre SPECIES
-=======
+# Trachelomonas magdaleniana Deflandre SPECIES
 
 #### Status
 ACCEPTED

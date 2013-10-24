@@ -1,5 +1,4 @@
-Arthrobotrys stilbacea J.A. Mey. SPECIES
-=======
+# Arthrobotrys stilbacea J.A. Mey. SPECIES
 
 #### Status
 ACCEPTED

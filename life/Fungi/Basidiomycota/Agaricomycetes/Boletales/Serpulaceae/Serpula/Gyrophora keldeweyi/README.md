@@ -1,5 +1,4 @@
-Gyrophora keldeweyi Körb. SPECIES
-=======
+# Gyrophora keldeweyi Körb. SPECIES
 
 #### Status
 ACCEPTED

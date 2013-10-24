@@ -1,5 +1,4 @@
-Urocystidiales ORDER
-=======
+# Urocystidiales ORDER
 
 #### Status
 ACCEPTED

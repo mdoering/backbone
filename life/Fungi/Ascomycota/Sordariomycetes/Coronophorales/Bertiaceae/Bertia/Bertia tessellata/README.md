@@ -1,5 +1,4 @@
-Bertia tessellata Petch SPECIES
-=======
+# Bertia tessellata Petch SPECIES
 
 #### Status
 ACCEPTED

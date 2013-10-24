@@ -1,5 +1,4 @@
-Nectria perpusilla Sacc. SPECIES
-=======
+# Nectria perpusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

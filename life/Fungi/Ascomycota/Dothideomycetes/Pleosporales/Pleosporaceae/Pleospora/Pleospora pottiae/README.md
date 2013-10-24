@@ -1,5 +1,4 @@
-Pleospora pottiae Moesz SPECIES
-=======
+# Pleospora pottiae Moesz SPECIES
 
 #### Status
 ACCEPTED

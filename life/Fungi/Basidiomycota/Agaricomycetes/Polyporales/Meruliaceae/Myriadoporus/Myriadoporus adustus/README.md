@@ -1,5 +1,4 @@
-Myriadoporus adustus Peck SPECIES
-=======
+# Myriadoporus adustus Peck SPECIES
 
 #### Status
 ACCEPTED

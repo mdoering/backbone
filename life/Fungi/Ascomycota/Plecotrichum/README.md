@@ -1,5 +1,4 @@
-Plecotrichum Corda GENUS
-=======
+# Plecotrichum Corda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya androcomposita Hamid SPECIES
-=======
+# Achlya androcomposita Hamid SPECIES
 
 #### Status
 ACCEPTED

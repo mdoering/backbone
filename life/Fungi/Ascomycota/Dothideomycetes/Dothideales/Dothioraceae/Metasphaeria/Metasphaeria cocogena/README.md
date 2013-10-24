@@ -1,5 +1,4 @@
-Metasphaeria cocogena (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria cocogena (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

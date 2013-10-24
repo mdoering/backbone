@@ -1,5 +1,4 @@
-Buellia pernigra Darb. SPECIES
-=======
+# Buellia pernigra Darb. SPECIES
 
 #### Status
 ACCEPTED

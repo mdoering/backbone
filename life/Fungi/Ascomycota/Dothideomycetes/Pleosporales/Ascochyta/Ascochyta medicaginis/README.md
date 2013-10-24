@@ -1,5 +1,4 @@
-Ascochyta medicaginis Fuckel SPECIES
-=======
+# Ascochyta medicaginis Fuckel SPECIES
 
 #### Status
 ACCEPTED

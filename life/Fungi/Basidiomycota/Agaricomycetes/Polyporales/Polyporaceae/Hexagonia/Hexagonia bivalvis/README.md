@@ -1,5 +1,4 @@
-Hexagonia bivalvis var. bivalvis VARIETY
-=======
+# Hexagonia bivalvis (Pers.) Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 11(5): 427 (1913)
 
 #### Original name
-Hexagonia bivalvis var. bivalvis
+Polystictus bivalvis Pers.
 
 ### Remarks
 null

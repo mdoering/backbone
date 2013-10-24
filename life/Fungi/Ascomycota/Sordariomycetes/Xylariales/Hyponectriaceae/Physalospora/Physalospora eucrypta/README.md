@@ -1,5 +1,4 @@
-Physalospora eucrypta Petr. SPECIES
-=======
+# Physalospora eucrypta Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amauroderma grandispora Gulaid & Ryvarden SPECIES
-=======
+# Amauroderma grandisporum Gulaid & Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. helv. 10(1): 27 (1998)
 
 #### Original name
-Amauroderma grandispora Gulaid & Ryvarden
+Amauroderma grandisporum Gulaid & Ryvarden
 
 ### Remarks
 null

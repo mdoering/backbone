@@ -1,5 +1,4 @@
-Aulographum arundinariae Cooke SPECIES
-=======
+# Aulographum arundinariae Cooke SPECIES
 
 #### Status
 ACCEPTED

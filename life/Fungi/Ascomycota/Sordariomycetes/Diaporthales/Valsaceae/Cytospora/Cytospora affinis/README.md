@@ -1,5 +1,4 @@
-Cytospora affinis Sacc. SPECIES
-=======
+# Cytospora affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pfeifferinella gugleri (Wacha, 1981) SPECIES
-=======
+# Alveocystis gugleri (Wacha, 1981) Levine, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

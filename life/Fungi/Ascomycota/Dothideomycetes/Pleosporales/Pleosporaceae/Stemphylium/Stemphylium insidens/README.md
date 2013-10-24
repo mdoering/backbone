@@ -1,5 +1,4 @@
-Stemphylium insidens Cooke & Massee SPECIES
-=======
+# Stemphylium insidens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

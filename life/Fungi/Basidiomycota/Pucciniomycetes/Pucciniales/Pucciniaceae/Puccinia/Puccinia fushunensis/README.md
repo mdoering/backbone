@@ -1,5 +1,4 @@
-Puccinia fushunensis Hara SPECIES
-=======
+# Puccinia fushunensis Hara SPECIES
 
 #### Status
 ACCEPTED

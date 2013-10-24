@@ -1,5 +1,4 @@
-Theclospora GENUS
-=======
+# Theclospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tectitheca G. Burmann, 1968 GENUS
-=======
+# Tectitheca G. Burmann, 1968 GENUS
 
 #### Status
 ACCEPTED

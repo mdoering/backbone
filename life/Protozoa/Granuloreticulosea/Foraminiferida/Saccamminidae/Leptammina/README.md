@@ -1,5 +1,4 @@
-Leptammina Cedhagen, Gooday & Pawlowski, 2009 GENUS
-=======
+# Leptammina Cedhagen, Gooday & Pawlowski, 2009 GENUS
 
 #### Status
 ACCEPTED

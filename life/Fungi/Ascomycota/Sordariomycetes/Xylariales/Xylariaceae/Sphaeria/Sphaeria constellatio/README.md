@@ -1,5 +1,4 @@
-Sphaeria constellatio Berk. SPECIES
-=======
+# Sphaeria constellatio Berk. SPECIES
 
 #### Status
 ACCEPTED

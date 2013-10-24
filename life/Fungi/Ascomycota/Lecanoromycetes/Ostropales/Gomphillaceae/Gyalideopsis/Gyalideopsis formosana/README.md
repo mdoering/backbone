@@ -1,5 +1,4 @@
-Gyalideopsis formosana H. Harada & Vezda SPECIES
-=======
+# Gyalideopsis formosana H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

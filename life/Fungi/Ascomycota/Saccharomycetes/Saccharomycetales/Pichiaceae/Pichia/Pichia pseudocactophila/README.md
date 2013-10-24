@@ -1,5 +1,4 @@
-Pichia pseudocactophila Holzschu, Phaff, Tredick & Hedgec., 1983 SPECIES
-=======
+# Pichia pseudocactophila Holzschu, Phaff, Tredick & Hedgec., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplosiga Frenzel, 1891 GENUS
-=======
+# Diplosiga Frenzel, 1891 GENUS
 
 #### Status
 ACCEPTED

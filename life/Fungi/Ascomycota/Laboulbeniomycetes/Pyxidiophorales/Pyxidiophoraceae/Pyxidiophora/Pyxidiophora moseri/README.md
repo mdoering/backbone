@@ -1,5 +1,4 @@
-Pyxidiophora moseri (T. Majewski & J. Wisn.) N. Lundq. SPECIES
-=======
+# Pyxidiophora moseri (T. Majewski & J. Wisn.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphiosphaera taiensis Lunghini & Rambelli, 1978 SPECIES
-=======
+# Dendryphiosphaera taiensis Lunghini & Rambelli, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus phaeopunctatus Esteve-Rav. & A. Ortega SPECIES
-=======
+# Coprinus phaeopunctatus Esteve-Rav. & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

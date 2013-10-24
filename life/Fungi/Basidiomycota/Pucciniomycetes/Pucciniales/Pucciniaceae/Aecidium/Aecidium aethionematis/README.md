@@ -1,5 +1,4 @@
-Aecidium aethionematis Magnus SPECIES
-=======
+# Aecidium aethionematis Magnus SPECIES
 
 #### Status
 ACCEPTED

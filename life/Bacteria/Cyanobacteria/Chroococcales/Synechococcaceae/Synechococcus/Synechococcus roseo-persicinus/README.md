@@ -1,5 +1,4 @@
-Synechococcus roseo-persicinus Grunow SPECIES
-=======
+# Synechococcus roseo-persicinus Grunow SPECIES
 
 #### Status
 ACCEPTED

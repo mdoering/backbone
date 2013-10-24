@@ -1,5 +1,4 @@
-Cryptoascus graminis B.L. Rob. & G.W. Ayers, 1954 SPECIES
-=======
+# Cryptoascus graminis B.L. Rob. & G.W. Ayers, 1954 SPECIES
 
 #### Status
 ACCEPTED

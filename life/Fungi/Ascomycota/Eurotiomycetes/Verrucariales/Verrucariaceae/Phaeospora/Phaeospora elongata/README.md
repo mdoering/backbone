@@ -1,5 +1,4 @@
-Phaeospora elongata (Hara) Hara SPECIES
-=======
+# Phaeospora elongata (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

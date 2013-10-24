@@ -1,5 +1,4 @@
-Cercospora pentatropidis S.A. Khan SPECIES
-=======
+# Cercospora pentatropidis S.A. Khan SPECIES
 
 #### Status
 ACCEPTED

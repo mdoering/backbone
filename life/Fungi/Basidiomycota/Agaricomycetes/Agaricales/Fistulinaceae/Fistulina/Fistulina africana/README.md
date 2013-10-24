@@ -1,5 +1,4 @@
-Fistulina africana Van der Byl, 1928 SPECIES
-=======
+# Fistulina africana Van der Byl, 1928 SPECIES
 
 #### Status
 ACCEPTED

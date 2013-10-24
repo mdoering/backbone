@@ -1,14 +1,13 @@
-Helotium umbrinum (Kanouse) Seaver, 1951 SPECIES
-=======
+# Pseudociboria umbrina Kanouse, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 147 (1951)
+Mycologia 36(5): 460 (1944)
 
 #### Original name
 Pseudociboria umbrina Kanouse, 1944

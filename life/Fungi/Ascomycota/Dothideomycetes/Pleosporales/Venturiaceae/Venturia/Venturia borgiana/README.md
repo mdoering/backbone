@@ -1,5 +1,4 @@
-Venturia borgiana Sacc. SPECIES
-=======
+# Venturia borgiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

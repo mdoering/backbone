@@ -1,5 +1,4 @@
-Phyllosticta paleicola Henn. SPECIES
-=======
+# Phyllosticta paleicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleromonas erosa Pascher SPECIES
-=======
+# Pleromonas erosa Pascher SPECIES
 
 #### Status
 ACCEPTED

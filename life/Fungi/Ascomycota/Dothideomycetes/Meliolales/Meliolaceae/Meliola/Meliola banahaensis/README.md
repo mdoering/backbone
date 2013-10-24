@@ -1,5 +1,4 @@
-Meliola banahaensis H.S. Yates SPECIES
-=======
+# Meliola banahaensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

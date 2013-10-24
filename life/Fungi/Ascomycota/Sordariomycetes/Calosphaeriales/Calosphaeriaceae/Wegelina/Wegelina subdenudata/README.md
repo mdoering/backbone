@@ -1,5 +1,4 @@
-Wegelina subdenudata (Peck) M.E. Barr SPECIES
-=======
+# Wegelina subdenudata (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

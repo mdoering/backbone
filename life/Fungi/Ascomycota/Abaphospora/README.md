@@ -1,5 +1,4 @@
-Abaphospora GENUS
-=======
+# Abaphospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina jasminicola (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina jasminicola (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

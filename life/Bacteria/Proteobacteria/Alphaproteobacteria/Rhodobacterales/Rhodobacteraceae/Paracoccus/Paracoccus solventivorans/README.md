@@ -1,5 +1,4 @@
-Paracoccus solventivorans Siller et al., 1996 SPECIES
-=======
+# Paracoccus solventivorans Siller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

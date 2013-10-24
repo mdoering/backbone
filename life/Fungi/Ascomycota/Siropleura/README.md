@@ -1,5 +1,4 @@
-Siropleura Petr. GENUS
-=======
+# Siropleura Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aucubicola Sacc. SPECIES
-=======
+# Phyllosticta aucubicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

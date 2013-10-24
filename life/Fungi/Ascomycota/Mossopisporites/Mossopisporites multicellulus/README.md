@@ -1,5 +1,4 @@
-Mossopisporites multicellulus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Mossopisporites multicellulus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

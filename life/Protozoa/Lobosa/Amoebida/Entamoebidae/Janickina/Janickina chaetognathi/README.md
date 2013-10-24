@@ -1,5 +1,4 @@
-Janickina chaetognathi Grassi, 1881 SPECIES
-=======
+# Janickina chaetognathi Grassi, 1881 SPECIES
 
 #### Status
 ACCEPTED

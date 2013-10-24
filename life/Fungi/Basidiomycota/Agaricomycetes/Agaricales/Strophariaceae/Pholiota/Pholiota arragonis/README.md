@@ -1,5 +1,4 @@
-Pholiota arragonis Rick SPECIES
-=======
+# Pholiota arragonis Rick SPECIES
 
 #### Status
 ACCEPTED

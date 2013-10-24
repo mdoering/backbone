@@ -1,17 +1,16 @@
-Diplotomma trullisatum Kremp. SPECIES
-=======
+# Porpidia trullisata (Kremp.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) (1855)
 
 #### Original name
-Diplotomma trullisatum Kremp.
+Porpidia trullisata (Kremp.) Körb.
 
 ### Remarks
 null

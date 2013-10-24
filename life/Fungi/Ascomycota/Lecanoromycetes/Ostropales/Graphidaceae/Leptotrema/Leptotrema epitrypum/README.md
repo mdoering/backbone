@@ -1,5 +1,4 @@
-Leptotrema epitrypum SPECIES
-=======
+# Leptotrema epitrypum SPECIES
 
 #### Status
 ACCEPTED

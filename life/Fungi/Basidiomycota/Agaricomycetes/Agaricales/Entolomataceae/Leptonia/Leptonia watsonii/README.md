@@ -1,5 +1,4 @@
-Leptonia watsonii (Peck) Largent SPECIES
-=======
+# Leptonia watsonii (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

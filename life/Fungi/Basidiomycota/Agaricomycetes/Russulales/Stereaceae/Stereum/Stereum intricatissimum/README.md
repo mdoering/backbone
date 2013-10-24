@@ -1,5 +1,4 @@
-Stereum intricatissimum (P. Karst.) Sacc. SPECIES
-=======
+# Stereum intricatissimum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

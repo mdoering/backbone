@@ -1,5 +1,4 @@
-Penicillium subarcticum S.W. Peterson & Sigler, 2002 SPECIES
-=======
+# Penicillium subarcticum S.W. Peterson & Sigler, 2002 SPECIES
 
 #### Status
 ACCEPTED

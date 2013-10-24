@@ -1,5 +1,4 @@
-Sclerographa GENUS
-=======
+# Sclerographa GENUS
 
 #### Status
 ACCEPTED

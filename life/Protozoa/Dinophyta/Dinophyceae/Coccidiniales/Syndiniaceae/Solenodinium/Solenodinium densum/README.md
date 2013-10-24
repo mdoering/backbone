@@ -1,5 +1,4 @@
-Solenodinium densum Hovasse & Brown SPECIES
-=======
+# Solenodinium densum Hovasse & Brown SPECIES
 
 #### Status
 ACCEPTED

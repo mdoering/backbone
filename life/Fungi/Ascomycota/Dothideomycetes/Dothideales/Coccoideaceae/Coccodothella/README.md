@@ -1,5 +1,4 @@
-Coccodothella GENUS
-=======
+# Coccodothella GENUS
 
 #### Status
 ACCEPTED

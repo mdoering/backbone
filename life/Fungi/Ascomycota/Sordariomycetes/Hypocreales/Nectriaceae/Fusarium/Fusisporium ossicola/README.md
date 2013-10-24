@@ -1,5 +1,4 @@
-Fusisporium ossicola Berk. & M.A. Curtis SPECIES
-=======
+# Fusisporium ossicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oedemium Link GENUS
-=======
+# Oedemium Link GENUS
 
 #### Status
 ACCEPTED

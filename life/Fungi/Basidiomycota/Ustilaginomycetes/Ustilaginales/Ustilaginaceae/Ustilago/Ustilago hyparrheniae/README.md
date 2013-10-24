@@ -1,5 +1,4 @@
-Ustilago hyparrheniae J.C.F. Hopkins SPECIES
-=======
+# Ustilago hyparrheniae J.C.F. Hopkins SPECIES
 
 #### Status
 ACCEPTED

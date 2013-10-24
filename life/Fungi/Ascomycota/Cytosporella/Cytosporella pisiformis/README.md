@@ -1,5 +1,4 @@
-Cytosporella pisiformis (Fr.) Sacc. SPECIES
-=======
+# Cytosporella pisiformis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

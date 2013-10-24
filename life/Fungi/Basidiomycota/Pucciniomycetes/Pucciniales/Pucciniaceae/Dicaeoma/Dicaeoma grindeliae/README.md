@@ -1,5 +1,4 @@
-Dicaeoma grindeliae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma grindeliae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

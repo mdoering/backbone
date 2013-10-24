@@ -1,5 +1,4 @@
-Rhombolithion duodecostatum (Goy in Goy et al., 1979) Perch-Nielsen, 1984 SPECIES
-=======
+# Rhombolithion duodecostatum (Goy in Goy et al., 1979) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

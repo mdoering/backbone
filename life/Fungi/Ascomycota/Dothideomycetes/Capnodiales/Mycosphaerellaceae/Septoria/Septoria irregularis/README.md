@@ -1,5 +1,4 @@
-Septoria irregularis Peck SPECIES
-=======
+# Septoria irregularis Peck SPECIES
 
 #### Status
 ACCEPTED

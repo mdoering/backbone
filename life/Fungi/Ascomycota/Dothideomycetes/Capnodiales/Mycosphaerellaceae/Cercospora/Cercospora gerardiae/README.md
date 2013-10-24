@@ -1,5 +1,4 @@
-Cercospora gerardiae Ellis & Dearn. SPECIES
-=======
+# Cercospora gerardiae Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

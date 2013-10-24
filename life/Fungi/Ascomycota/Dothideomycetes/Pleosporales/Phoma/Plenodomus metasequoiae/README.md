@@ -1,5 +1,4 @@
-Plenodomus metasequoiae Gucevic SPECIES
-=======
+# Plenodomus metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

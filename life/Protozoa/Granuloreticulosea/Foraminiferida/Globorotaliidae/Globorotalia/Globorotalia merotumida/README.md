@@ -1,5 +1,4 @@
-Globorotalia merotumida Blow & Banner SPECIES
-=======
+# Globorotalia merotumida Blow & Banner SPECIES
 
 #### Status
 ACCEPTED

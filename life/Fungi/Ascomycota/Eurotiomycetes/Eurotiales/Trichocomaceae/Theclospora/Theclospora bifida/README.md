@@ -1,5 +1,4 @@
-Theclospora bifida Harkn. SPECIES
-=======
+# Theclospora bifida Harkn. SPECIES
 
 #### Status
 ACCEPTED

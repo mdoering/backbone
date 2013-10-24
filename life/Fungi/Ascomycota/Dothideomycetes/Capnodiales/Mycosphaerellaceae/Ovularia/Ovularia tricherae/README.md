@@ -1,5 +1,4 @@
-Ovularia tricherae Vestergr. SPECIES
-=======
+# Ovularia tricherae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

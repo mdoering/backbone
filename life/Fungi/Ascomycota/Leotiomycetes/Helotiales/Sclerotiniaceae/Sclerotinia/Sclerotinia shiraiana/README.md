@@ -1,5 +1,4 @@
-Sclerotinia shiraiana Henn. SPECIES
-=======
+# Sclerotinia shiraiana Henn. SPECIES
 
 #### Status
 ACCEPTED

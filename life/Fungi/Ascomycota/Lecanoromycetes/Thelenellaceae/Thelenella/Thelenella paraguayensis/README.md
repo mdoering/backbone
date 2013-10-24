@@ -1,5 +1,4 @@
-Thelenella paraguayensis Malme SPECIES
-=======
+# Thelenella paraguayensis Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium passiflorae Henn. SPECIES
-=======
+# Aecidium passiflorae Henn. SPECIES
 
 #### Status
 ACCEPTED

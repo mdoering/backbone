@@ -1,5 +1,4 @@
-Chrysomyxa ramischiae Lagerh. SPECIES
-=======
+# Chrysomyxa ramischiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

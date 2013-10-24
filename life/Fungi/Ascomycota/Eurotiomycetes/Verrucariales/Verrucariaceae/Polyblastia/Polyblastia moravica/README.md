@@ -1,5 +1,4 @@
-Polyblastia moravica var. moravica VARIETY
-=======
+# Polyblastia moravica Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia moravica var. moravica
+Polyblastia moravica Zschacke
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Penicillium charlesii var. charlesii VARIETY
-=======
+# Penicillium dierckxii Biourge, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 90 (1933)
+La Cellule 33(1): 313 (1923)
 
 #### Original name
-Penicillium charlesii var. charlesii
+Penicillium dierckxii Biourge, 1923
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leiosphaeridia bicrura Jankauskas in Jankauskas & Posti, 1976 SPECIES
-=======
+# Leiosphaeridia bicrura Jankauskas in Jankauskas & Posti, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta patriniae Bond.-Mont. SPECIES
-=======
+# Ascochyta patriniae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

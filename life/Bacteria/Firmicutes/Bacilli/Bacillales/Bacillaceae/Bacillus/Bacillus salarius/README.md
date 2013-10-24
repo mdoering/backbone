@@ -1,5 +1,4 @@
-Bacillus salarius Lim et al., 2006 SPECIES
-=======
+# Bacillus salarius Lim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

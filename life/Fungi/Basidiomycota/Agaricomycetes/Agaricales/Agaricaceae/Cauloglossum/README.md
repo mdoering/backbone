@@ -1,5 +1,4 @@
-Cauloglossum GENUS
-=======
+# Cauloglossum GENUS
 
 #### Status
 ACCEPTED

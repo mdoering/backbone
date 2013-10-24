@@ -1,5 +1,4 @@
-Lecanora guatemalensis Guderley SPECIES
-=======
+# Lecanora guatemalensis Guderley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria kuraiana Pilát SPECIES
-=======
+# Armillaria kuraiana Pilát SPECIES
 
 #### Status
 ACCEPTED

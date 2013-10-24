@@ -1,5 +1,4 @@
-Biatorina arceutica A. Massal. SPECIES
-=======
+# Biatorina arceutica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

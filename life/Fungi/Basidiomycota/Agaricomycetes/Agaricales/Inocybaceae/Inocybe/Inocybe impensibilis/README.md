@@ -1,5 +1,4 @@
-Inocybe impensibilis (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe impensibilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

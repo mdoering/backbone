@@ -1,5 +1,4 @@
-Seynesiella sequoiae (Cooke & Harkn.) E. Müll. SPECIES
-=======
+# Seynesiella sequoiae (Cooke & Harkn.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

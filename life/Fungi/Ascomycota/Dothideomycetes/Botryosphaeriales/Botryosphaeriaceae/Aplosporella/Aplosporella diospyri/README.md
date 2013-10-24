@@ -1,5 +1,4 @@
-Aplosporella diospyri (Dearn. & Barthol.) Petr. & Syd. SPECIES
-=======
+# Aplosporella diospyri (Dearn. & Barthol.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

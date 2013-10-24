@@ -1,5 +1,4 @@
-Usnea brattiae P. Clerc SPECIES
-=======
+# Usnea brattiae P. Clerc SPECIES
 
 #### Status
 ACCEPTED

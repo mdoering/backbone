@@ -1,5 +1,4 @@
-Russula subalbidula Murrill SPECIES
-=======
+# Russula subalbidula Murrill SPECIES
 
 #### Status
 ACCEPTED

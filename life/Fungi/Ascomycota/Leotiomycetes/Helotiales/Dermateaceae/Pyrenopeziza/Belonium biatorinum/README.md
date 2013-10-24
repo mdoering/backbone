@@ -1,5 +1,4 @@
-Belonium biatorinum Rehm SPECIES
-=======
+# Belonium biatorinum Rehm SPECIES
 
 #### Status
 ACCEPTED

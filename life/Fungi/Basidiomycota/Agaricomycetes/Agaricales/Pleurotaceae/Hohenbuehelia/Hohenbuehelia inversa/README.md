@@ -1,5 +1,4 @@
-Hohenbuehelia inversa (Kauffman & A.H. Sm.) O.K. Mill. SPECIES
-=======
+# Hohenbuehelia inversa (Kauffman & A.H. Sm.) O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

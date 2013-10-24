@@ -1,5 +1,4 @@
-Russula suavis Schulzer SPECIES
-=======
+# Russula suavis Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus roseiavellaneus Murrill SPECIES
-=======
+# Pleuropus roseiavellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

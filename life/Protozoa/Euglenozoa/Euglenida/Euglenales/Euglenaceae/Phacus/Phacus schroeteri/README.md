@@ -1,5 +1,4 @@
-Phacus schroeteri Huber-PeStalozzi SPECIES
-=======
+# Phacus schroeteri Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

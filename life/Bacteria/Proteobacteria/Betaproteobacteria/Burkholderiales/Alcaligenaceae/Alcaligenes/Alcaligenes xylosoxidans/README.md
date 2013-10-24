@@ -1,11 +1,10 @@
-Alcaligenes xylosoxidans xylosoxidans (Yabuuchi & Yano) Kiredjian et al. SUBSPECIES
-=======
+# Alcaligenes xylosoxidans (Yabuuchi & Yano, 1981) Kiredjian et al., 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

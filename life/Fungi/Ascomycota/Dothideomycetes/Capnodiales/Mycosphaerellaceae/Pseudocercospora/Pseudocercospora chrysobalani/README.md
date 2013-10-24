@@ -1,5 +1,4 @@
-Pseudocercospora chrysobalani (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora chrysobalani (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

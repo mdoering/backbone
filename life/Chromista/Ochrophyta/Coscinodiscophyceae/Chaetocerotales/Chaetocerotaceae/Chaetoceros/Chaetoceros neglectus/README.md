@@ -1,5 +1,4 @@
-Chaetoceros neglectus Karsten SPECIES
-=======
+# Chaetoceros neglectus Karsten SPECIES
 
 #### Status
 ACCEPTED

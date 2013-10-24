@@ -1,5 +1,4 @@
-Hysterium complanatum Duby SPECIES
-=======
+# Hysterium complanatum Duby SPECIES
 
 #### Status
 ACCEPTED

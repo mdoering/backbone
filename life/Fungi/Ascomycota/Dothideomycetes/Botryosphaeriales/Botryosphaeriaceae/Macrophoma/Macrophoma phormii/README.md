@@ -1,5 +1,4 @@
-Macrophoma phormii (J.V. Almeida & Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Macrophoma phormii (J.V. Almeida & Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis exilis Schulzer SPECIES
-=======
+# Micropeltis exilis Schulzer SPECIES
 
 #### Status
 ACCEPTED

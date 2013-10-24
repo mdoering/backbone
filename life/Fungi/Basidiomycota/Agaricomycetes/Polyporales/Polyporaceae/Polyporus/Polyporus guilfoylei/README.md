@@ -1,5 +1,4 @@
-Polyporus guilfoylei Berk. & Broome SPECIES
-=======
+# Polyporus guilfoylei Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

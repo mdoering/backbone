@@ -1,5 +1,4 @@
-Cylindrosporium canadense Vassiljevsky SPECIES
-=======
+# Cylindrosporium canadense Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

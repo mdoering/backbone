@@ -1,5 +1,4 @@
-Arthopyrenia porospora Vain. SPECIES
-=======
+# Arthopyrenia porospora Vain. SPECIES
 
 #### Status
 ACCEPTED

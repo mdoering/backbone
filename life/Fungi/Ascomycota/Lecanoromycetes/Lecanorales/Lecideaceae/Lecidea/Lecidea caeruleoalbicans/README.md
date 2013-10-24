@@ -1,5 +1,4 @@
-Lecidea caeruleoalbicans Tomin SPECIES
-=======
+# Lecidea caeruleoalbicans Tomin SPECIES
 
 #### Status
 ACCEPTED

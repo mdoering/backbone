@@ -1,5 +1,4 @@
-Isidium variolarioides Ach. SPECIES
-=======
+# Isidium variolarioides Ach. SPECIES
 
 #### Status
 ACCEPTED

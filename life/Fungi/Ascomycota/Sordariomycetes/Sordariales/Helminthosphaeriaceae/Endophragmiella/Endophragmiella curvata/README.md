@@ -1,5 +1,4 @@
-Endophragmiella curvata (Corda) S. Hughes SPECIES
-=======
+# Endophragmiella curvata (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

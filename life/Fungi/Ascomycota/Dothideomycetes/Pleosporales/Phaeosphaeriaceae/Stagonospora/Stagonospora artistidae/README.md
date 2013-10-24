@@ -1,5 +1,4 @@
-Stagonospora artistidae Koshk. & Frolov SPECIES
-=======
+# Stagonospora artistidae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

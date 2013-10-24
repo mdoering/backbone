@@ -1,5 +1,4 @@
-Penicillium deformans Sopp SPECIES
-=======
+# Penicillium deformans Sopp SPECIES
 
 #### Status
 ACCEPTED

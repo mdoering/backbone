@@ -1,14 +1,13 @@
-Irpex zeylanicus (Maas Geest.) Saaren. & Kotir., 2002 SPECIES
-=======
+# Steccherinum zeylanicum Maas Geest., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kotiranta & Saarenoksa, Polish Botanical Journal 47(2): 107 (2002)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 77: 484 (1974)
 
 #### Original name
 Steccherinum zeylanicum Maas Geest., 1974

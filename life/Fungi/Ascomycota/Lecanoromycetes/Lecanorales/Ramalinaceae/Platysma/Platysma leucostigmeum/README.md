@@ -1,5 +1,4 @@
-Platysma leucostigmeum (Lév.) Nyl. SPECIES
-=======
+# Platysma leucostigmeum (Lév.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

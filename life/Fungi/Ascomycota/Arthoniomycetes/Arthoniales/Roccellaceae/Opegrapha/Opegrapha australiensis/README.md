@@ -1,5 +1,4 @@
-Opegrapha australiensis (Müll. Arg.) A. W. Archer SPECIES
-=======
+# Opegrapha australiensis (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

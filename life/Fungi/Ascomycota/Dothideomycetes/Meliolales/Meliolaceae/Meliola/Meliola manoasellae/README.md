@@ -1,5 +1,4 @@
-Meliola manoasellae Hansf. SPECIES
-=======
+# Meliola manoasellae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyschema H.P. Upadhyay, 1966 GENUS
-=======
+# Polyschema H.P. Upadhyay, 1966 GENUS
 
 #### Status
 ACCEPTED

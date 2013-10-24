@@ -1,5 +1,4 @@
-Septoria aquilegicola Murashk. SPECIES
-=======
+# Septoria aquilegicola Murashk. SPECIES
 
 #### Status
 ACCEPTED

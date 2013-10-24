@@ -1,5 +1,4 @@
-Cortinarius roseonudipes Rob. Henry & Moënne-Locc. SPECIES
-=======
+# Cortinarius roseonudipes Rob. Henry & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

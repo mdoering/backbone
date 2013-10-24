@@ -1,5 +1,4 @@
-Chiodecton intermissum Nyl. SPECIES
-=======
+# Chiodecton intermissum Nyl. SPECIES
 
 #### Status
 ACCEPTED

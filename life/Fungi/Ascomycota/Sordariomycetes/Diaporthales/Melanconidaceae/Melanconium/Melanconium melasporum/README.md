@@ -1,5 +1,4 @@
-Melanconium melasporum Berk. SPECIES
-=======
+# Melanconium melasporum Berk. SPECIES
 
 #### Status
 ACCEPTED

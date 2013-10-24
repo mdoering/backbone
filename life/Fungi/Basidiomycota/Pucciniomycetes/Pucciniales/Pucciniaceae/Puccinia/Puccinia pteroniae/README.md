@@ -1,5 +1,4 @@
-Puccinia pteroniae Mennicken & Oberw. SPECIES
-=======
+# Puccinia pteroniae Mennicken & Oberw. SPECIES
 
 #### Status
 ACCEPTED

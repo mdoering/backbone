@@ -1,5 +1,4 @@
-Russulina tjibodensis Henn. SPECIES
-=======
+# Russulina tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

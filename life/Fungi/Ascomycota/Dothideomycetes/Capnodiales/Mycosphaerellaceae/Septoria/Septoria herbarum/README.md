@@ -1,5 +1,4 @@
-Septoria herbarum Preuss SPECIES
-=======
+# Septoria herbarum Preuss SPECIES
 
 #### Status
 ACCEPTED

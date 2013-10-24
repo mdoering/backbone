@@ -1,5 +1,4 @@
-Jaraia salicis Nemec SPECIES
-=======
+# Jaraia salicis Nemec SPECIES
 
 #### Status
 ACCEPTED

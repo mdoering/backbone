@@ -1,5 +1,4 @@
-Mycena caricicola (Lasch) Rydb. SPECIES
-=======
+# Mycena caricicola (Lasch) Rydb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galera hypnorum var. hypnorum VARIETY
-=======
+# Galerina hypnorum (Schrank) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 7: 194 (1935)
 
 #### Original name
-Galera hypnorum var. hypnorum
+Agaricus hypnorum Schrank, 1789
 
 ### Remarks
 null

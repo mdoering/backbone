@@ -1,5 +1,4 @@
-Phyllosticta viticola Thüm. SPECIES
-=======
+# Phyllosticta viticola Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium pilocarpoides Zahlbr. SPECIES
-=======
+# Lopadium pilocarpoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

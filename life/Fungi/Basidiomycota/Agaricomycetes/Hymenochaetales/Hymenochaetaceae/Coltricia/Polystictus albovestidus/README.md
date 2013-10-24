@@ -1,5 +1,4 @@
-Polystictus albovestidus Lloyd SPECIES
-=======
+# Polystictus albovestidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

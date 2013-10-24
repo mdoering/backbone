@@ -1,11 +1,10 @@
-Asterococcus agalactiae (Wroblewski, 1931) Prévot, 1961 SPECIES
-=======
+# Mycoplasma agalactiae (Wroblewski, 1931) Freundt, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

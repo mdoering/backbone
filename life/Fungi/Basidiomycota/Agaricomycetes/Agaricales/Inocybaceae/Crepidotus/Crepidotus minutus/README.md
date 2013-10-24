@@ -1,5 +1,4 @@
-Crepidotus minutus (Peck) Murrill SPECIES
-=======
+# Crepidotus minutus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

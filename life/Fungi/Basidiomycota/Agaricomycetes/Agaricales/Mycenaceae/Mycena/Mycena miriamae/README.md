@@ -1,5 +1,4 @@
-Mycena miriamae G. Stev., 1964 SPECIES
-=======
+# Mycena miriamae G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

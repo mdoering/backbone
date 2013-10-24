@@ -1,5 +1,4 @@
-Protoperidinium fusiformis Balech SPECIES
-=======
+# Protoperidinium fusiformis Balech SPECIES
 
 #### Status
 ACCEPTED

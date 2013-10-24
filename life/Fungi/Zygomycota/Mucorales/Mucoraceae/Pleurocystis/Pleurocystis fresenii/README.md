@@ -1,5 +1,4 @@
-Pleurocystis fresenii Bonord. SPECIES
-=======
+# Pleurocystis fresenii Bonord. SPECIES
 
 #### Status
 ACCEPTED

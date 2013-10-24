@@ -1,5 +1,4 @@
-Peziza epitricha Berk. SPECIES
-=======
+# Peziza epitricha Berk. SPECIES
 
 #### Status
 ACCEPTED

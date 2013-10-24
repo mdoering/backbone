@@ -1,5 +1,4 @@
-Cenangella oricostata Cash SPECIES
-=======
+# Cenangella oricostata Cash SPECIES
 
 #### Status
 ACCEPTED

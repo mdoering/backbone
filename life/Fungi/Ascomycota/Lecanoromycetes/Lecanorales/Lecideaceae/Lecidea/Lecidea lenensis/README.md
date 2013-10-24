@@ -1,5 +1,4 @@
-Lecidea lenensis Oxner SPECIES
-=======
+# Lecidea lenensis Oxner SPECIES
 
 #### Status
 ACCEPTED

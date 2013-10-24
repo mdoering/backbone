@@ -1,5 +1,4 @@
-Hypogymnia furfuracea SPECIES
-=======
+# Hypogymnia furfuracea SPECIES
 
 #### Status
 ACCEPTED

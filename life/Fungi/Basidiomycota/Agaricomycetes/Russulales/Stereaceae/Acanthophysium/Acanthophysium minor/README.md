@@ -1,5 +1,4 @@
-Acanthophysium minor (Pilát) Tellería SPECIES
-=======
+# Acanthophysium minor (Pilát) Tellería SPECIES
 
 #### Status
 ACCEPTED

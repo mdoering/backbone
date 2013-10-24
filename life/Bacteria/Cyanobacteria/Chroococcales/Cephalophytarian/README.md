@@ -1,5 +1,4 @@
-Cephalophytarian Schopf, 1968 GENUS
-=======
+# Cephalophytarian Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

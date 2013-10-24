@@ -1,5 +1,4 @@
-Entoloma alium Corner & E. Horak SPECIES
-=======
+# Entoloma alium Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

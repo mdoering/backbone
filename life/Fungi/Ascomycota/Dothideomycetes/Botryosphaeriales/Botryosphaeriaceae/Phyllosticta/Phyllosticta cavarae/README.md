@@ -1,5 +1,4 @@
-Phyllosticta cavarae Trinchieri SPECIES
-=======
+# Phyllosticta cavarae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

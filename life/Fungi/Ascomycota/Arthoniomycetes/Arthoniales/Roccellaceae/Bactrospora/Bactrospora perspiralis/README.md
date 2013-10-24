@@ -1,5 +1,4 @@
-Bactrospora perspiralis Sparrius, Saipunk. & Wolseley SPECIES
-=======
+# Bactrospora perspiralis Sparrius, Saipunk. & Wolseley SPECIES
 
 #### Status
 ACCEPTED

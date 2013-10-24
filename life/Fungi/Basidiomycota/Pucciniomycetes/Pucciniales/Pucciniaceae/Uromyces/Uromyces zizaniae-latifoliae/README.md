@@ -1,5 +1,4 @@
-Uromyces zizaniae-latifoliae Sawada SPECIES
-=======
+# Uromyces zizaniae-latifoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

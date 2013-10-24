@@ -1,5 +1,4 @@
-Trachelomonas torquata Conrad SPECIES
-=======
+# Trachelomonas torquata Conrad SPECIES
 
 #### Status
 ACCEPTED

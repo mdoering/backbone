@@ -1,5 +1,4 @@
-Amanita lutescens Hongo SPECIES
-=======
+# Amanita lutescens Hongo SPECIES
 
 #### Status
 ACCEPTED

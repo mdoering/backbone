@@ -1,5 +1,4 @@
-Melanotheca javanica (A. Massal.) Zahlbr. SPECIES
-=======
+# Melanotheca javanica (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

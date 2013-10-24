@@ -1,5 +1,4 @@
-Dibaeis umbrelliformis Kalb & Gierl SPECIES
-=======
+# Dibaeis umbrelliformis Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

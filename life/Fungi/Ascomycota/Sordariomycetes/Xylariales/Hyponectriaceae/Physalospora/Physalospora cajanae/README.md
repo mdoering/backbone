@@ -1,5 +1,4 @@
-Physalospora cajanae anon. SPECIES
-=======
+# Physalospora cajanae anon. SPECIES
 
 #### Status
 ACCEPTED

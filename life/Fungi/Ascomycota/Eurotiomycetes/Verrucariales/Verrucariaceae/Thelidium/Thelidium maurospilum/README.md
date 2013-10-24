@@ -1,5 +1,4 @@
-Thelidium maurospilum (Nyl.) Hellb. SPECIES
-=======
+# Thelidium maurospilum (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

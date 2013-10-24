@@ -1,5 +1,4 @@
-Woletzina Fuchs, 1973 GENUS
-=======
+# Woletzina Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

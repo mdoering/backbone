@@ -1,5 +1,4 @@
-Phyllachora microstroma Chardón, 1928 SPECIES
-=======
+# Phyllachora microstroma Chardón, 1928 SPECIES
 
 #### Status
 DOUBTFUL

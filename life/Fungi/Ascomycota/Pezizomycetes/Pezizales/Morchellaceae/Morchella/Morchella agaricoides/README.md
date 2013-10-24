@@ -1,5 +1,4 @@
-Morchella agaricoides DC. SPECIES
-=======
+# Morchella agaricoides DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granmamyces GENUS
-=======
+# Granmamyces GENUS
 
 #### Status
 ACCEPTED

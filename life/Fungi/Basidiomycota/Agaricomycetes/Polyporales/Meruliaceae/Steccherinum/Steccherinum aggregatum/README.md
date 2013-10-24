@@ -1,5 +1,4 @@
-Steccherinum aggregatum Hjortstam & Spooner, 1990 SPECIES
-=======
+# Steccherinum aggregatum Hjortstam & Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

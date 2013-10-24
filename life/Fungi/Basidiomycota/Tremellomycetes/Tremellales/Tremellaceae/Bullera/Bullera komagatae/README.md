@@ -1,5 +1,4 @@
-Bullera komagatae F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera komagatae F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

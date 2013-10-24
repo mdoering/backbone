@@ -1,14 +1,13 @@
-Phlegmacium aureoturbinatum Secr. ex M.M. Moser, 1960 SPECIES
-=======
+# Cortinarius aureoturbinatus (Secr. ex M.M. Moser) J.E. Lange SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gatt. Phlegm. 294 (1960)
+null
 
 #### Original name
 Phlegmacium aureoturbinatum Secr. ex M.M. Moser, 1960

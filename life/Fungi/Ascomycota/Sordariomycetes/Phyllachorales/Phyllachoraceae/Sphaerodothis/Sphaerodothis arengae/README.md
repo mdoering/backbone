@@ -1,17 +1,16 @@
-Auerswaldia copelandi Syd. & P. Syd. SPECIES
-=======
+# Sphaerodothis arengae (Racib.) Shear ex Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(5/6): 577 (1915)
 
 #### Original name
-Auerswaldia copelandi Syd. & P. Syd.
+Auerswaldia arengae Racib., 1900
 
 ### Remarks
 null

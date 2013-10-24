@@ -1,5 +1,4 @@
-Rhizopogon webbii Corda SPECIES
-=======
+# Rhizopogon webbii Corda SPECIES
 
 #### Status
 ACCEPTED

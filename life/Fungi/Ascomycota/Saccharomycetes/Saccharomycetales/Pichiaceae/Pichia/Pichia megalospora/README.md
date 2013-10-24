@@ -1,5 +1,4 @@
-Pichia megalospora Kuraishi SPECIES
-=======
+# Pichia megalospora Kuraishi SPECIES
 
 #### Status
 ACCEPTED

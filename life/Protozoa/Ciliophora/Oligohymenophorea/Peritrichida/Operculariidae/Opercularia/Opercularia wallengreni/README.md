@@ -1,5 +1,4 @@
-Opercularia wallengreni Grier, ? SPECIES
-=======
+# Opercularia wallengreni Grier, ? SPECIES
 
 #### Status
 ACCEPTED

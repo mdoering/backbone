@@ -1,5 +1,4 @@
-Dicaeoma cymopteri (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma cymopteri (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

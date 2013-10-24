@@ -1,5 +1,4 @@
-Arthoniopsis commutata (Stirt.) Müll. Arg. SPECIES
-=======
+# Arthoniopsis commutata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

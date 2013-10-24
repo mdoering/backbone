@@ -1,5 +1,4 @@
-Cetraria halei W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetraria halei W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

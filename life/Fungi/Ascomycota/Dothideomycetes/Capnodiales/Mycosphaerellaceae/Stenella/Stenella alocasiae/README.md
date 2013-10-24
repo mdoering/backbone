@@ -1,5 +1,4 @@
-Stenella alocasiae Sarbajna & Chattopadh. SPECIES
-=======
+# Stenella alocasiae Sarbajna & Chattopadh. SPECIES
 
 #### Status
 ACCEPTED

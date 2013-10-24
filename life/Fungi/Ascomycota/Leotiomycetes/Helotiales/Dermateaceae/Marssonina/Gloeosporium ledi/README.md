@@ -1,5 +1,4 @@
-Gloeosporium ledi J. Schröt. SPECIES
-=======
+# Gloeosporium ledi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

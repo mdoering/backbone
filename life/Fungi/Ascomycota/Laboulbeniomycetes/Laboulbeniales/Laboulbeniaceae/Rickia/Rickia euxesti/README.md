@@ -1,5 +1,4 @@
-Rickia euxesti Thaxt. SPECIES
-=======
+# Rickia euxesti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

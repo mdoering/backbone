@@ -1,5 +1,4 @@
-Pseudomycena juncina Velen. SPECIES
-=======
+# Pseudomycena juncina Velen. SPECIES
 
 #### Status
 ACCEPTED

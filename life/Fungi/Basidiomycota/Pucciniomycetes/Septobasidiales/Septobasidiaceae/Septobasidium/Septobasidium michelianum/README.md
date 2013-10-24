@@ -1,5 +1,4 @@
-Septobasidium michelianum f. michelianum FORM
-=======
+# Septobasidium michelianum (Caldesi) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Tax. Hyménomyc. (Lons-le-Saunier) 10 (1900)
 
 #### Original name
-Septobasidium michelianum f. michelianum
+Hypochnus michelianus Caldesi
 
 ### Remarks
 null

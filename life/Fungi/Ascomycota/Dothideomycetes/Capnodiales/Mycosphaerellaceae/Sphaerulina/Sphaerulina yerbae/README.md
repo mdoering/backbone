@@ -1,5 +1,4 @@
-Sphaerulina yerbae Speg. SPECIES
-=======
+# Sphaerulina yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

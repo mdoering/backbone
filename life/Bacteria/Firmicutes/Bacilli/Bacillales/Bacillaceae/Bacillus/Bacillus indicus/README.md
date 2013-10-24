@@ -1,5 +1,4 @@
-Bacillus indicus Suresh et al., 2004 SPECIES
-=======
+# Bacillus indicus Suresh et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

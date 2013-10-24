@@ -1,5 +1,4 @@
-Sporocybe chartoikoon Beyerinck SPECIES
-=======
+# Sporocybe chartoikoon Beyerinck SPECIES
 
 #### Status
 ACCEPTED

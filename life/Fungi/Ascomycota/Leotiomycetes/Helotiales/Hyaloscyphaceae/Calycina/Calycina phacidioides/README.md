@@ -1,14 +1,13 @@
-Calycina phacidiodes (Sacc.) Kuntze SPECIES
-=======
+# Calycina phacidioides (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 448 (1898)
 
 #### Original name
 Helotium phacidioides Sacc.

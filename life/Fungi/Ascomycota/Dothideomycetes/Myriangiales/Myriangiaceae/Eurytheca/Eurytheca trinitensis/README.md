@@ -1,5 +1,4 @@
-Eurytheca trinitensis Syd. SPECIES
-=======
+# Eurytheca trinitensis Syd. SPECIES
 
 #### Status
 ACCEPTED

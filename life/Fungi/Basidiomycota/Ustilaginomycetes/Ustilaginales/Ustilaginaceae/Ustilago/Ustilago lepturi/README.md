@@ -1,5 +1,4 @@
-Ustilago lepturi Woron. SPECIES
-=======
+# Ustilago lepturi Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum herporhizum Setchell & Gardner SPECIES
-=======
+# Sargassum herporhizum Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella parvula Dumas, 1929 SPECIES
-=======
+# Vorticella parvula Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

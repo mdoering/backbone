@@ -1,5 +1,4 @@
-Euvalsa ambiens (Nitschke) SPECIES
-=======
+# Euvalsa ambiens (Nitschke) SPECIES
 
 #### Status
 ACCEPTED

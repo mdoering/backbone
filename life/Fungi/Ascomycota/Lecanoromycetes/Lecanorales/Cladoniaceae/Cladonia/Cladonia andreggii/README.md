@@ -1,5 +1,4 @@
-Cladonia andreggii S. Hammer SPECIES
-=======
+# Cladonia andreggii S. Hammer SPECIES
 
 #### Status
 ACCEPTED

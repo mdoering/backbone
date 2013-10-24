@@ -1,5 +1,4 @@
-Sarcosoma carolinianum E.J. Durand SPECIES
-=======
+# Sarcosoma carolinianum E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

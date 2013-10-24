@@ -1,5 +1,4 @@
-Merulius campbelliae Cooke & Massee ex W.B. Cooke SPECIES
-=======
+# Merulius campbelliae Cooke & Massee ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

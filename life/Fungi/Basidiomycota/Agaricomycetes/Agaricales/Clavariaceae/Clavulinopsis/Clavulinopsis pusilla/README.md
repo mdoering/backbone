@@ -1,5 +1,4 @@
-Clavulinopsis pusilla (Coker) Corner SPECIES
-=======
+# Clavulinopsis pusilla (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perkinsoide Gestal, Novoa, Posada, Figueras & Azevedo, 2006 GENUS
-=======
+# Perkinsoide Gestal, Novoa, Posada, Figueras & Azevedo, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia leucoji (Bubák) Liro SPECIES
-=======
+# Tuburcinia leucoji (Bubák) Liro SPECIES
 
 #### Status
 ACCEPTED

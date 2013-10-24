@@ -1,5 +1,4 @@
-Spiniferites buccinus (R. J. Davey & G. L. Williams) K. Matsuoka SPECIES
-=======
+# Spiniferites buccinus (R. J. Davey & G. L. Williams) K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

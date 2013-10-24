@@ -1,5 +1,4 @@
-Dicaeoma sedi (Körn.) Kuntze SPECIES
-=======
+# Dicaeoma sedi (Körn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

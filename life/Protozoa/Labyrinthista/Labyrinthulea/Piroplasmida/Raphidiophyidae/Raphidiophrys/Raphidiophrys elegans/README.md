@@ -1,5 +1,4 @@
-Raphidiophrys elegans SPECIES
-=======
+# Raphidiophrys elegans SPECIES
 
 #### Status
 ACCEPTED

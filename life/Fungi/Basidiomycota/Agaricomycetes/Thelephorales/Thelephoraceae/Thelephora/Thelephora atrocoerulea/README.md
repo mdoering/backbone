@@ -1,8 +1,7 @@
-Thelephora atrocaerulea Trog SPECIES
-=======
+# Thelephora atrocoerulea Trog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelephora atrocaerulea Trog
+Thelephora atrocoerulea Trog
 
 ### Remarks
 null

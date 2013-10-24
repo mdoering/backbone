@@ -1,5 +1,4 @@
-Stelliferidium striatulum (Vavrdová, 1966) emend. Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium striatulum (Vavrdová, 1966) emend. Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

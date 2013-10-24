@@ -1,5 +1,4 @@
-Geotrichum britannicum (Kwasna & G.L. Bateman) P.M. Kirk, 2011 SPECIES
-=======
+# Geotrichum britannicum (Kwasna & G.L. Bateman) P.M. Kirk, 2011 SPECIES
 
 #### Status
 ACCEPTED

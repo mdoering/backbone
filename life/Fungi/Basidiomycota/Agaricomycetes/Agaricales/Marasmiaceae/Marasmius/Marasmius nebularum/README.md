@@ -1,5 +1,4 @@
-Marasmius nebularum Singer SPECIES
-=======
+# Marasmius nebularum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius craterelloides R. Heim & Gooss.-Font. SPECIES
-=======
+# Lactarius craterelloides R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

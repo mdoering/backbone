@@ -1,5 +1,4 @@
-Holophrya vesciculifera SPECIES
-=======
+# Holophrya vesciculifera SPECIES
 
 #### Status
 ACCEPTED

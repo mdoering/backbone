@@ -1,5 +1,4 @@
-Botrytis flavocinerea Speg. SPECIES
-=======
+# Botrytis flavocinerea Speg. SPECIES
 
 #### Status
 ACCEPTED

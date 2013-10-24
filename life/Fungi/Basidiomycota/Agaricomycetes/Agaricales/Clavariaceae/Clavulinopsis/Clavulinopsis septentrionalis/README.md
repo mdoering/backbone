@@ -1,5 +1,4 @@
-Clavulinopsis septentrionalis Corner SPECIES
-=======
+# Clavulinopsis septentrionalis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psathyrella barlae f. barlae FORM
-=======
+# Psathyrella bipellis (Quél.) A.H. Sm., 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Univ. Mich. Herb. 5: 39 (1941)
+J. Elisha Mitchell scient. Soc. 62: 187 (1946)
 
 #### Original name
-Psathyrella barlae f. barlae
+Psathyra bipellis Quél., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium fuchsiicola Speg. SPECIES
-=======
+# Aecidium fuchsiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

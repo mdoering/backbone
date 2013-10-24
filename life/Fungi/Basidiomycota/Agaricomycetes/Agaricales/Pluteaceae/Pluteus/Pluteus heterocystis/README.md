@@ -1,5 +1,4 @@
-Pluteus heterocystis P. Banerjee & Sundb. SPECIES
-=======
+# Pluteus heterocystis P. Banerjee & Sundb. SPECIES
 
 #### Status
 ACCEPTED

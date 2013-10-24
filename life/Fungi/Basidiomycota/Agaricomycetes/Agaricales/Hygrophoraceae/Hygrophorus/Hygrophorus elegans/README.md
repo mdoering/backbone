@@ -1,5 +1,4 @@
-Hygrophorus elegans Killerm. SPECIES
-=======
+# Hygrophorus elegans Killerm. SPECIES
 
 #### Status
 ACCEPTED

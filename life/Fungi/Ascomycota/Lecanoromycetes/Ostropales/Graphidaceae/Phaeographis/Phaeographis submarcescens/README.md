@@ -1,5 +1,4 @@
-Phaeographis submarcescens (Leight.) Zahlbr. SPECIES
-=======
+# Phaeographis submarcescens (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

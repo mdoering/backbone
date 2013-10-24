@@ -1,5 +1,4 @@
-Mycena atroalba var. atroalba VARIETY
-=======
+# Mycena atroalba (Bolton) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena atroalba var. atroalba
+Agaricus atroalbus Bolton
 
 ### Remarks
 null

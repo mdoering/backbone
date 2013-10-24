@@ -1,5 +1,4 @@
-Hypoxylon ianthinovelutinum Mont. SPECIES
-=======
+# Hypoxylon ianthinovelutinum Mont. SPECIES
 
 #### Status
 ACCEPTED

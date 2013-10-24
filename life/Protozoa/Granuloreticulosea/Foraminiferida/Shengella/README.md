@@ -1,5 +1,4 @@
-Shengella Yang, 1985 GENUS
-=======
+# Shengella Yang, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleiochaeta stellaris Rambelli & Onofri SPECIES
-=======
+# Pleiochaeta stellaris Rambelli & Onofri SPECIES
 
 #### Status
 ACCEPTED

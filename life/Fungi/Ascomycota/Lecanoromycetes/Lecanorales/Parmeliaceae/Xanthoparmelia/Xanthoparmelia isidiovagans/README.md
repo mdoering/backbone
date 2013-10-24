@@ -1,5 +1,4 @@
-Xanthoparmelia isidiovagans O. Blanco, A. Crespo, Divakar & Elix SPECIES
-=======
+# Xanthoparmelia isidiovagans O. Blanco, A. Crespo, Divakar & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella endospermi (Syd.) Sacc. SPECIES
-=======
+# Sphaerella endospermi (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

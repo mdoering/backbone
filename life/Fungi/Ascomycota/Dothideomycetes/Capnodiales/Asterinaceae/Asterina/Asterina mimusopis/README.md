@@ -1,5 +1,4 @@
-Asterina mimusopis Hansf. SPECIES
-=======
+# Asterina mimusopis Hansf. SPECIES
 
 #### Status
 ACCEPTED

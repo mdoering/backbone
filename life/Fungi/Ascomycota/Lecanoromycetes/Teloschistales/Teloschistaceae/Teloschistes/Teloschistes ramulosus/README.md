@@ -1,5 +1,4 @@
-Teloschistes ramulosus Tuck. SPECIES
-=======
+# Teloschistes ramulosus Tuck. SPECIES
 
 #### Status
 ACCEPTED

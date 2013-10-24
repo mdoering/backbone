@@ -1,17 +1,16 @@
-Naemaspora croceola Sacc., 1880 SPECIES
-=======
+# Roscoepoundia croceola (Sacc.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): (1898)
 
 #### Original name
-null
+Naemaspora croceola Sacc.
 
 ### Remarks
 null

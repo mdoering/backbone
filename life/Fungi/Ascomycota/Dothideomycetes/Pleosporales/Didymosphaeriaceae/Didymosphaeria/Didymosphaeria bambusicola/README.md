@@ -1,5 +1,4 @@
-Didymosphaeria bambusicola Höhn. SPECIES
-=======
+# Didymosphaeria bambusicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

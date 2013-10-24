@@ -1,5 +1,4 @@
-Hughesinia J.C. Lindq. & Gamundí GENUS
-=======
+# Hughesinia J.C. Lindq. & Gamundí GENUS
 
 #### Status
 ACCEPTED

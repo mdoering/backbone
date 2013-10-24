@@ -1,5 +1,4 @@
-Stemonitis flavescens Schrank SPECIES
-=======
+# Stemonitis flavescens Schrank SPECIES
 
 #### Status
 ACCEPTED

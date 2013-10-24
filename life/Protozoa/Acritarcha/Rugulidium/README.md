@@ -1,5 +1,4 @@
-Rugulidium F.H. Cramer, W.H. Kanes, M. del C.R. Díez & R.A. Christopher, 1974 GENUS
-=======
+# Rugulidium F.H. Cramer, W.H. Kanes, M. del C.R. Díez & R.A. Christopher, 1974 GENUS
 
 #### Status
 ACCEPTED

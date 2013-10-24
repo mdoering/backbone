@@ -1,17 +1,16 @@
-Patellaria ventricosa Müll. Arg. SPECIES
-=======
+# Megalospora australiensis (Müll. Arg.) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 65: 488 (1882)
+Biblthca Lichenol. 18: 150 (1983)
 
 #### Original name
-Patellaria ventricosa Müll. Arg.
+Patellaria australiensis Müll. Arg.
 
 ### Remarks
 null

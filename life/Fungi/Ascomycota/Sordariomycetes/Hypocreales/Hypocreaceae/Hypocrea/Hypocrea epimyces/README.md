@@ -1,5 +1,4 @@
-Hypocrea epimyces Sacc. & Pat. SPECIES
-=======
+# Hypocrea epimyces Sacc. & Pat. SPECIES
 
 #### Status
 ACCEPTED

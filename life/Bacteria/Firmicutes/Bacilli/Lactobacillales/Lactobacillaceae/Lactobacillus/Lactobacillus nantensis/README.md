@@ -1,5 +1,4 @@
-Lactobacillus nantensis Valcheva et al., 2006 SPECIES
-=======
+# Lactobacillus nantensis Valcheva et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

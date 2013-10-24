@@ -1,5 +1,4 @@
-Coccodinium bartschii A. Massal., 1860 SPECIES
-=======
+# Coccodinium bartschii A. Massal., 1860 SPECIES
 
 #### Status
 ACCEPTED

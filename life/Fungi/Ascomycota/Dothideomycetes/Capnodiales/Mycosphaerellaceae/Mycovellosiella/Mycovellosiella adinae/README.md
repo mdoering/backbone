@@ -1,5 +1,4 @@
-Mycovellosiella adinae Firdousi, A.N. Rai, A.S. Mishra & K.M. Vyas SPECIES
-=======
+# Mycovellosiella adinae Firdousi, A.N. Rai, A.S. Mishra & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

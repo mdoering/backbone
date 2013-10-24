@@ -1,5 +1,4 @@
-Pestalotia aletridis (Pat.) Guba SPECIES
-=======
+# Pestalotia aletridis (Pat.) Guba SPECIES
 
 #### Status
 ACCEPTED

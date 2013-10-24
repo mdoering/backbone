@@ -1,5 +1,4 @@
-Collybia compressiceps H.E. Bigelow SPECIES
-=======
+# Collybia compressiceps H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nodosinum gaussicum (Rhumbler, 1913) SPECIES
-=======
+# Reophax gaussicus (Rhumbler, 1913) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

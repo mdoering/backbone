@@ -1,14 +1,13 @@
-Coriolus foliaceodentatus (Nikol.) Domanski, 1970 SPECIES
-=======
+# Antrodiella foliaceodentata (Nikol.) Gilb. & Ryvarden, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Bot. Pol. 39(4): 707 (1970)
+Syn. Fung. (Oslo) 6: 153 (1993)
 
 #### Original name
 Irpex foliaceodentatus Nikol., 1949

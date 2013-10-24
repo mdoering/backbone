@@ -1,8 +1,7 @@
-Coccidium variabile Thélohan, 1893 SPECIES
-=======
+# Goussia variabilis (Thélohan, 1893) Labbe, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

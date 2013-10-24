@@ -1,17 +1,16 @@
-Melanchlenus cumetabolus Calandron SPECIES
-=======
+# Melanchlenus eumetabolus Calandron SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 236: 1599 (1953)
 
 #### Original name
-Melanchlenus cumetabolus Calandron
+Melanchlenus eumetabolus Calandron
 
 ### Remarks
 null

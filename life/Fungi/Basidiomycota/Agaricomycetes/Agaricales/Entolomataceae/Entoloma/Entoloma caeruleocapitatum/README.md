@@ -1,5 +1,4 @@
-Entoloma caeruleocapitatum Dennis SPECIES
-=======
+# Entoloma caeruleocapitatum Dennis SPECIES
 
 #### Status
 ACCEPTED

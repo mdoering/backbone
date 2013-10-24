@@ -1,5 +1,4 @@
-Inocybe griseotarda Poirier SPECIES
-=======
+# Inocybe griseotarda Poirier SPECIES
 
 #### Status
 ACCEPTED

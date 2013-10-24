@@ -1,8 +1,7 @@
-Anemadesma minuta (Deroux, 1975) Jankowski, 1976 SPECIES
-=======
+# Aegyriana minuta Deroux, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

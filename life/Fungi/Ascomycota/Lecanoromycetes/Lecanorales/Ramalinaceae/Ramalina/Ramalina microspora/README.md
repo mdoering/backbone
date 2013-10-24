@@ -1,5 +1,4 @@
-Ramalina microspora Kremp. SPECIES
-=======
+# Ramalina microspora Kremp. SPECIES
 
 #### Status
 ACCEPTED

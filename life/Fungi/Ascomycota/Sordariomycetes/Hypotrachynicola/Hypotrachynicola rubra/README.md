@@ -1,5 +1,4 @@
-Hypotrachynicola rubra Etayo, 2002 SPECIES
-=======
+# Hypotrachynicola rubra Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

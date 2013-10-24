@@ -1,5 +1,4 @@
-Lecidella ochromela (Hepp) Arnold SPECIES
-=======
+# Lecidella ochromela (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora obvirescens Stizenb. SPECIES
-=======
+# Lecanora obvirescens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

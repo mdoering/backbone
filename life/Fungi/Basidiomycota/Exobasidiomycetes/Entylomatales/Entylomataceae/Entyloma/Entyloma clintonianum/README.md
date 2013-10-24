@@ -1,5 +1,4 @@
-Entyloma clintonianum Zundel & Dunlap SPECIES
-=======
+# Entyloma clintonianum Zundel & Dunlap SPECIES
 
 #### Status
 ACCEPTED

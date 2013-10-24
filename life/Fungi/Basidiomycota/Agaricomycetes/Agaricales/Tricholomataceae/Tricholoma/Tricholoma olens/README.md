@@ -1,5 +1,4 @@
-Tricholoma olens Velen. SPECIES
-=======
+# Tricholoma olens Velen. SPECIES
 
 #### Status
 ACCEPTED

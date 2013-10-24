@@ -1,5 +1,4 @@
-Entactinosphaera Foreman, 1963 GENUS
-=======
+# Entactinosphaera Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

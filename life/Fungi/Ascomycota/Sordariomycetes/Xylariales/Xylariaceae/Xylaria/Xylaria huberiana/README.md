@@ -1,5 +1,4 @@
-Xylaria huberiana Henn. SPECIES
-=======
+# Xylaria huberiana Henn. SPECIES
 
 #### Status
 ACCEPTED

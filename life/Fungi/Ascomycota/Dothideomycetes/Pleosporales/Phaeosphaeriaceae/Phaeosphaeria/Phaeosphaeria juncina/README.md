@@ -1,17 +1,16 @@
-Leptosphaeria juncina f. juncina FORM
-=======
+# Phaeosphaeria juncina (Auersw.) L. Holm, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 66 (1883)
+Symb. bot. upsal. 14(no. 3): 127 (1957)
 
 #### Original name
-Leptosphaeria juncina f. juncina
+Sphaerella juncina (Auersw.) Auersw., 1869
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrosporium muscaris Annal. SPECIES
-=======
+# Cylindrosporium muscaris Annal. SPECIES
 
 #### Status
 ACCEPTED

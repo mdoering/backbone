@@ -1,5 +1,4 @@
-Echidnodes cocoës Syd., 1928 SPECIES
-=======
+# Echidnodes cocoës Syd., 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira parva Proshkina-Lavrenko, 1955 SPECIES
-=======
+# Thalassiosira parva Proshkina-Lavrenko, 1955 SPECIES
 
 #### Status
 ACCEPTED

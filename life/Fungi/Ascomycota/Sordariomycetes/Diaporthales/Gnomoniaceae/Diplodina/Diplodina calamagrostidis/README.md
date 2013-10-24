@@ -1,5 +1,4 @@
-Diplodina calamagrostidis (Brunaud) Allesch. SPECIES
-=======
+# Diplodina calamagrostidis (Brunaud) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina minima (Peck) A.H. Sm. & Singer SPECIES
-=======
+# Galerina minima (Peck) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hanzawaia boueana (d'Orbigny) SPECIES
-=======
+# Hanzawaia boueana (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

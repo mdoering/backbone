@@ -1,5 +1,4 @@
-Pertusaria leeuwenii SPECIES
-=======
+# Pertusaria leeuwenii SPECIES
 
 #### Status
 ACCEPTED

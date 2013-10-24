@@ -1,5 +1,4 @@
-Megalaria columbiana (G. Merr.) S. Ekman SPECIES
-=======
+# Megalaria columbiana (G. Merr.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

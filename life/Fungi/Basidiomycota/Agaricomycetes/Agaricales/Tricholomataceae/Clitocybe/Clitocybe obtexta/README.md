@@ -1,5 +1,4 @@
-Clitocybe obtexta Lasch SPECIES
-=======
+# Clitocybe obtexta Lasch SPECIES
 
 #### Status
 ACCEPTED

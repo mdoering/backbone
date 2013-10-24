@@ -1,5 +1,4 @@
-Uromyces koeleriae Uljan. SPECIES
-=======
+# Uromyces koeleriae Uljan. SPECIES
 
 #### Status
 ACCEPTED

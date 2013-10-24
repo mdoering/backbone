@@ -1,5 +1,4 @@
-Winteromyces GENUS
-=======
+# Winteromyces GENUS
 
 #### Status
 ACCEPTED

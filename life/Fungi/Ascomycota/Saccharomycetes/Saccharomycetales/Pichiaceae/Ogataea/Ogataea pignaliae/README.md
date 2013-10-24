@@ -1,5 +1,4 @@
-Ogataea pignaliae Péter, Tornai-Leh. & Dlauchy, 2010 SPECIES
-=======
+# Ogataea pignaliae Péter, Tornai-Leh. & Dlauchy, 2010 SPECIES
 
 #### Status
 ACCEPTED

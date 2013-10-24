@@ -1,5 +1,4 @@
-Schizothyrium obscurum (Duby) Sacc. SPECIES
-=======
+# Schizothyrium obscurum (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

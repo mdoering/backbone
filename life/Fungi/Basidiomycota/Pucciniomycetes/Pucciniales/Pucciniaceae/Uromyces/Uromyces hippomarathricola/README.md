@@ -1,5 +1,4 @@
-Uromyces hippomarathricola Sousa da Câmara SPECIES
-=======
+# Uromyces hippomarathricola Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

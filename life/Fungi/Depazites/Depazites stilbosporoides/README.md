@@ -1,5 +1,4 @@
-Depazites stilbosporoides (C. Massal.) Mesch. SPECIES
-=======
+# Depazites stilbosporoides (C. Massal.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

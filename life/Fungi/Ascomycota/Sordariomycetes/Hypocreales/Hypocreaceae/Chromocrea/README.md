@@ -1,5 +1,4 @@
-Chromocrea GENUS
-=======
+# Chromocrea GENUS
 
 #### Status
 ACCEPTED

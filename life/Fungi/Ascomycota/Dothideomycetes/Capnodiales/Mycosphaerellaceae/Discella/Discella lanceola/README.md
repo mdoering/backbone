@@ -1,5 +1,4 @@
-Discella lanceola (Sacc. & Roum.) M. Morelet SPECIES
-=======
+# Discella lanceola (Sacc. & Roum.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria consobrina (P. Karst.) O.E. Erikss. SPECIES
-=======
+# Phaeosphaeria consobrina (P. Karst.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia calida Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia calida Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

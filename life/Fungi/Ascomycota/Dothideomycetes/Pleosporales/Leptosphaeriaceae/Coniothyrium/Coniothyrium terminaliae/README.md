@@ -1,5 +1,4 @@
-Coniothyrium terminaliae S.D. Patil SPECIES
-=======
+# Coniothyrium terminaliae S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

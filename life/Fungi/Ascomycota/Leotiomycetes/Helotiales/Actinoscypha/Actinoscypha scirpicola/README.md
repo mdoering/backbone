@@ -1,14 +1,13 @@
-Niesslella scirpicola (Fuckel) Höhn., 1918 SPECIES
-=======
+# Actinoscypha scirpicola (Fuckel) E. Müll., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 76: 234 (1966)
 
 #### Original name
 Micropeziza scirpicola Fuckel, 1870

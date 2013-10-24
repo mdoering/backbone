@@ -1,5 +1,4 @@
-Vaginicola Lamarck GENUS
-=======
+# Vaginicola Lamarck GENUS
 
 #### Status
 ACCEPTED

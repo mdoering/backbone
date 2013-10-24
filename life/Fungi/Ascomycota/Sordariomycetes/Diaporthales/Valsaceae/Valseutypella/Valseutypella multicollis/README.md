@@ -1,5 +1,4 @@
-Valseutypella multicollis Checa, G. Moreno & M.E. Barr, 1986 SPECIES
-=======
+# Valseutypella multicollis Checa, G. Moreno & M.E. Barr, 1986 SPECIES
 
 #### Status
 ACCEPTED

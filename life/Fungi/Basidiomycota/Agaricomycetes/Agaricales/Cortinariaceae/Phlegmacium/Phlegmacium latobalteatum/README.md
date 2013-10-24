@@ -1,5 +1,4 @@
-Phlegmacium latobalteatum Jul. Schäff. SPECIES
-=======
+# Phlegmacium latobalteatum Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

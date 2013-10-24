@@ -1,5 +1,4 @@
-Haplopyrenulomyces GENUS
-=======
+# Haplopyrenulomyces GENUS
 
 #### Status
 ACCEPTED

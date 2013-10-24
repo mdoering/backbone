@@ -1,5 +1,4 @@
-Basidioascus undulatus Matsush., 2003 SPECIES
-=======
+# Basidioascus undulatus Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

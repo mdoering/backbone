@@ -1,5 +1,4 @@
-Pleiostomellina Bat., J.L. Bezerra & H. Maia GENUS
-=======
+# Pleiostomellina Bat., J.L. Bezerra & H. Maia GENUS
 
 #### Status
 ACCEPTED

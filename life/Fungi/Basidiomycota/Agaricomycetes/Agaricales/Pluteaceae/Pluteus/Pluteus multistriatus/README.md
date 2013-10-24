@@ -1,5 +1,4 @@
-Pluteus multistriatus Murrill SPECIES
-=======
+# Pluteus multistriatus Murrill SPECIES
 
 #### Status
 ACCEPTED

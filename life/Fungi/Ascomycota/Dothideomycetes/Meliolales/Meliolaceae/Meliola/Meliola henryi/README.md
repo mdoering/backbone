@@ -1,5 +1,4 @@
-Meliola henryi Hosag. SPECIES
-=======
+# Meliola henryi Hosag. SPECIES
 
 #### Status
 ACCEPTED

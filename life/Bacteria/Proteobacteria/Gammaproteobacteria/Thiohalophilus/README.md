@@ -1,5 +1,4 @@
-Thiohalophilus Sorokin et al., 2007 GENUS
-=======
+# Thiohalophilus Sorokin et al., 2007 GENUS
 
 #### Status
 ACCEPTED

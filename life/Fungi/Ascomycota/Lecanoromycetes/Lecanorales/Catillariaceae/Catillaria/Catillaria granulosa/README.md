@@ -1,5 +1,4 @@
-Catillaria granulosa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Catillaria granulosa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

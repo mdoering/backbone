@@ -1,8 +1,7 @@
-Didymosphaeria fusigera (Th. Fr. & Almq.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Endococcus fusigera Th. Fr. & Almq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hendersonia mollis Grove SPECIES
-=======
+# Hendersonia mollis Grove SPECIES
 
 #### Status
 ACCEPTED

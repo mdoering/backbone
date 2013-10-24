@@ -1,5 +1,4 @@
-Diplodia catechu Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Diplodia catechu Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

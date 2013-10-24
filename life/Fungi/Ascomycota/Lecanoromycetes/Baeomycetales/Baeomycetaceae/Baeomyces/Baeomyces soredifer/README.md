@@ -1,5 +1,4 @@
-Baeomyces soredifer Nyl. SPECIES
-=======
+# Baeomyces soredifer Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vampyrellidium Zopf GENUS
-=======
+# Vampyrellidium Zopf GENUS
 
 #### Status
 ACCEPTED

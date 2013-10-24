@@ -1,5 +1,4 @@
-Leptothyrium hemisphaericum Bubák & Kabát SPECIES
-=======
+# Leptothyrium hemisphaericum Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

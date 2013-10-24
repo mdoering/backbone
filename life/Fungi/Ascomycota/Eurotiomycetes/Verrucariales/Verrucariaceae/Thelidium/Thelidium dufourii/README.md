@@ -1,5 +1,4 @@
-Thelidium dufourii f. dufourii FORM
-=======
+# Thelidium dufourii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium dufourii f. dufourii
+null
 
 ### Remarks
 null

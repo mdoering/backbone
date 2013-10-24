@@ -1,5 +1,4 @@
-Multiplicisphaeridium coniferum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium coniferum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

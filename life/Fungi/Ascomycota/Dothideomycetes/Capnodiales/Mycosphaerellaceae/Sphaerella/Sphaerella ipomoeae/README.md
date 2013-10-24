@@ -1,5 +1,4 @@
-Sphaerella ipomoeae Ferraris SPECIES
-=======
+# Sphaerella ipomoeae Ferraris SPECIES
 
 #### Status
 ACCEPTED

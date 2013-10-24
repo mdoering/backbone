@@ -1,5 +1,4 @@
-Ramalina voukii Kugan {?} & Zahlbr. SPECIES
-=======
+# Ramalina voukii Kugan {?} & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

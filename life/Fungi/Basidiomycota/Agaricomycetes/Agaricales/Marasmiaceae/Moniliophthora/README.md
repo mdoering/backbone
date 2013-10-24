@@ -1,5 +1,4 @@
-Moniliophthora H.C. Evans, Stalpers, Samson & Benny GENUS
-=======
+# Moniliophthora H.C. Evans, Stalpers, Samson & Benny GENUS
 
 #### Status
 ACCEPTED

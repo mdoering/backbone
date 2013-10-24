@@ -1,5 +1,4 @@
-Pseudocercosporella inconspicua (G. Winter) U. Braun SPECIES
-=======
+# Pseudocercosporella inconspicua (G. Winter) U. Braun SPECIES
 
 #### Status
 ACCEPTED

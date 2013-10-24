@@ -1,17 +1,16 @@
-Ustilago chloridionis L. Ling SPECIES
-=======
+# Macalpinomyces chloridii (L. Ling) Vánky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 416 (2002)
 
 #### Original name
-Ustilago chloridionis L. Ling
+Ustilago chloridii L. Ling, 1953
 
 ### Remarks
 null

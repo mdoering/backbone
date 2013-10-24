@@ -1,5 +1,4 @@
-Agaricum conchatum Paulet SPECIES
-=======
+# Agaricum conchatum Paulet SPECIES
 
 #### Status
 ACCEPTED

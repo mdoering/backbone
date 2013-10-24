@@ -1,14 +1,13 @@
-Candida ingeniosa (Di Menna) S.A. Mey. & Yarrow, 1978 SPECIES
-=======
+# Rhodotorula ingeniosa (Di Menna) Arx & Weijman, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 613 (1978)
+null
 
 #### Original name
 null

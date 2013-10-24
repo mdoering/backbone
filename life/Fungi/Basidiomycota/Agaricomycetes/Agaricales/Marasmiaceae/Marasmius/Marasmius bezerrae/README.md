@@ -1,5 +1,4 @@
-Marasmius bezerrae var. bezerrae VARIETY
-=======
+# Marasmius bezerrae Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 17: 185 (1976)
 
 #### Original name
-Marasmius bezerrae var. bezerrae
+Marasmius bezerrae Singer
 
 ### Remarks
 null

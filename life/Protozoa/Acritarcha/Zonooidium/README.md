@@ -1,5 +1,4 @@
-Zonooidium Timofeev GENUS
-=======
+# Zonooidium Timofeev GENUS
 
 #### Status
 ACCEPTED

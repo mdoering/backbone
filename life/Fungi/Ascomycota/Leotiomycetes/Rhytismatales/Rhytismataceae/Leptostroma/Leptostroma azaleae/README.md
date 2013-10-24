@@ -1,5 +1,4 @@
-Leptostroma azaleae Zerova SPECIES
-=======
+# Leptostroma azaleae Zerova SPECIES
 
 #### Status
 ACCEPTED

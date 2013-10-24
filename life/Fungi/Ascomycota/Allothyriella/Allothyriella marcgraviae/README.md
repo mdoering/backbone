@@ -1,5 +1,4 @@
-Allothyriella marcgraviae Bat., Cif. & Nascim., 1959 SPECIES
-=======
+# Allothyriella marcgraviae Bat., Cif. & Nascim., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Energlynia W.A.S. Sarjeant, 1976 GENUS
-=======
+# Energlynia W.A.S. Sarjeant, 1976 GENUS
 
 #### Status
 ACCEPTED

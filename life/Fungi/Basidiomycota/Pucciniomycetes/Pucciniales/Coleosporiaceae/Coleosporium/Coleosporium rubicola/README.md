@@ -1,17 +1,16 @@
-Coleosporium rubiicola Cummins SPECIES
-=======
+# Coleosporium rubicola Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 42: 788 (1950)
 
 #### Original name
-Coleosporium rubiicola Cummins
+Coleosporium rubicola Cummins
 
 ### Remarks
 null

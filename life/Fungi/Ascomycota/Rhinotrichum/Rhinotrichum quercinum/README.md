@@ -1,5 +1,4 @@
-Rhinotrichum quercinum Vasyag. SPECIES
-=======
+# Rhinotrichum quercinum Vasyag. SPECIES
 
 #### Status
 ACCEPTED

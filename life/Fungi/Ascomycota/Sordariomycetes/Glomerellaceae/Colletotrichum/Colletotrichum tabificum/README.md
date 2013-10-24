@@ -1,5 +1,4 @@
-Colletotrichum tabificum (Hallier) Pethybr. SPECIES
-=======
+# Colletotrichum tabificum (Hallier) Pethybr. SPECIES
 
 #### Status
 ACCEPTED

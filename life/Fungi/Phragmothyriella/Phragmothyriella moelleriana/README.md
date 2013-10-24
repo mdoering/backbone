@@ -1,8 +1,7 @@
-Phragmothyriella molleriana (Sacc.) Höhn. SPECIES
-=======
+# Phragmothyriella moelleriana (Sacc.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

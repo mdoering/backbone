@@ -1,17 +1,16 @@
-Corynespora cassiicola f. sp FORM
-=======
+# Corynespora cassiicola (Berk. & M.A. Curtis) C.T. Wei, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biological Control 26(1): 29 (2003)
+Mycol. Pap. 34: 5 (1950)
 
 #### Original name
-Corynespora cassiicola f. sp
+Helminthosporium cassiicola Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterodinium praetextum Kofoid, 1907 SPECIES
-=======
+# Heterodinium praetextum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia cocoës (Petch) K.D. Hyde SPECIES
-=======
+# Guignardia cocoës (Petch) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

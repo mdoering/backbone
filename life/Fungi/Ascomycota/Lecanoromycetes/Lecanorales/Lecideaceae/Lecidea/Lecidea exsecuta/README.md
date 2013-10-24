@@ -1,5 +1,4 @@
-Lecidea exsecuta (Nyl.) Hue SPECIES
-=======
+# Lecidea exsecuta (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladia moniliformis Kantvilas & Elix SPECIES
-=======
+# Cladia moniliformis Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

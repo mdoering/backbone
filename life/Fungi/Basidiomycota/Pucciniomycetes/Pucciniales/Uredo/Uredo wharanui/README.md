@@ -1,5 +1,4 @@
-Uredo wharanui G. Cunn., 1924 SPECIES
-=======
+# Uredo wharanui G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

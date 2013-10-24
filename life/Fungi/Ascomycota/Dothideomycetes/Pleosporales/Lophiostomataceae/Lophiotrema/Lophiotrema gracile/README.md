@@ -1,5 +1,4 @@
-Lophiotrema gracile Teng & Ou SPECIES
-=======
+# Lophiotrema gracile Teng & Ou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus elaphines Berk. & Broome SPECIES
-=======
+# Agaricus elaphines Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

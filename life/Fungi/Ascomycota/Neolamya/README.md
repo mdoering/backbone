@@ -1,5 +1,4 @@
-Neolamya Theiss. & Syd. GENUS
-=======
+# Neolamya Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

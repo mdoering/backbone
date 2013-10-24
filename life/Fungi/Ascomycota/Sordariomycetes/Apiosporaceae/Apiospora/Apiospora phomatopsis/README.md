@@ -1,5 +1,4 @@
-Apiospora phomatopsis Speg. SPECIES
-=======
+# Apiospora phomatopsis Speg. SPECIES
 
 #### Status
 ACCEPTED

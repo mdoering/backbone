@@ -1,5 +1,4 @@
-Talaromyces euchlorocarpius Yaguchi, Someya & Udagawa, 1999 SPECIES
-=======
+# Talaromyces euchlorocarpius Yaguchi, Someya & Udagawa, 1999 SPECIES
 
 #### Status
 ACCEPTED

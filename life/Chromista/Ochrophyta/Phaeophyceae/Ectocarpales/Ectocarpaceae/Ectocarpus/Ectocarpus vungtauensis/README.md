@@ -1,5 +1,4 @@
-Ectocarpus vungtauensis Pham-Hoàng Hô SPECIES
-=======
+# Ectocarpus vungtauensis Pham-Hoàng Hô SPECIES
 
 #### Status
 ACCEPTED

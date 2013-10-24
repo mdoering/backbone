@@ -1,5 +1,4 @@
-Coleosporium synantherearum Fr. SPECIES
-=======
+# Coleosporium synantherearum Fr. SPECIES
 
 #### Status
 ACCEPTED

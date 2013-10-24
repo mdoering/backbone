@@ -1,5 +1,4 @@
-Nigrospora musae McLennan & Hoëtte, 1933 SPECIES
-=======
+# Nigrospora musae McLennan & Hoëtte, 1933 SPECIES
 
 #### Status
 ACCEPTED

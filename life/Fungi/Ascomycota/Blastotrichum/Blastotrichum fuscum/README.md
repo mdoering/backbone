@@ -1,5 +1,4 @@
-Blastotrichum fuscum Preuss SPECIES
-=======
+# Blastotrichum fuscum Preuss SPECIES
 
 #### Status
 ACCEPTED

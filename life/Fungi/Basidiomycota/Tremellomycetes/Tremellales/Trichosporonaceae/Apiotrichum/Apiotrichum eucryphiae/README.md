@@ -1,5 +1,4 @@
-Apiotrichum eucryphiae C. Ramírez & A.E. González SPECIES
-=======
+# Apiotrichum eucryphiae C. Ramírez & A.E. González SPECIES
 
 #### Status
 ACCEPTED

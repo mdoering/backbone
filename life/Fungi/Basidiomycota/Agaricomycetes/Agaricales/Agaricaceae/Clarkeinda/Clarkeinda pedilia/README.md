@@ -1,14 +1,13 @@
-Chitonia pedilia Berk. & Broome SPECIES
-=======
+# Clarkeinda pedilia (Berk. & Broome) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) (1891)
 
 #### Original name
 Chitonia pedilia Berk. & Broome

@@ -1,5 +1,4 @@
-Litonotus dusarti Dragesco, 1960 SPECIES
-=======
+# Litonotus dusarti Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

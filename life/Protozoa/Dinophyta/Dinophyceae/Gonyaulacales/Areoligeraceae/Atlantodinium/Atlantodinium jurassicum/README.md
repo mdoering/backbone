@@ -1,5 +1,4 @@
-Atlantodinium jurassicum M. Zotto, W.S. Drugg & D. Habib SPECIES
-=======
+# Atlantodinium jurassicum M. Zotto, W.S. Drugg & D. Habib SPECIES
 
 #### Status
 ACCEPTED

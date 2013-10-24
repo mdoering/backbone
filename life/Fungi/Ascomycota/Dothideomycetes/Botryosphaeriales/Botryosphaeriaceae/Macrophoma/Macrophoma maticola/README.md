@@ -1,5 +1,4 @@
-Macrophoma maticola (Speg.) Sacc. & Traverso SPECIES
-=======
+# Macrophoma maticola (Speg.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

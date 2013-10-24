@@ -1,5 +1,4 @@
-Uredo salviarum Mayor SPECIES
-=======
+# Uredo salviarum Mayor SPECIES
 
 #### Status
 ACCEPTED

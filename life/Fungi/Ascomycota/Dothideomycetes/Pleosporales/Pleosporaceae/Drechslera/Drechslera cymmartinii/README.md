@@ -1,5 +1,4 @@
-Drechslera cymmartinii A.P. Misra & R.A. Singh SPECIES
-=======
+# Drechslera cymmartinii A.P. Misra & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

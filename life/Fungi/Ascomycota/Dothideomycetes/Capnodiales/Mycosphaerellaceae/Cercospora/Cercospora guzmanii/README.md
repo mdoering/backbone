@@ -1,5 +1,4 @@
-Cercospora guzmanii Tak. Kobay. SPECIES
-=======
+# Cercospora guzmanii Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

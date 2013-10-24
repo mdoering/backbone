@@ -1,14 +1,13 @@
-Parmelia rimulosa C. W. Dodge SPECIES
-=======
+# Parmotrema rimulosum (C. W. Dodge) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 46: 133 (1959)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia rimulosa C. W. Dodge

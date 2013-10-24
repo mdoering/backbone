@@ -1,5 +1,4 @@
-Peyronellaea conidiogena (Schnegg) Goid. SPECIES
-=======
+# Peyronellaea conidiogena (Schnegg) Goid. SPECIES
 
 #### Status
 ACCEPTED

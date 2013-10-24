@@ -1,17 +1,16 @@
-Moelleriella duplex (Berk.) P. Chaverri, M. Liu & K.T. Hodge, 2008 SPECIES
-=======
+# Hypocrella duplex (Berk.) Petch, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 7: 240 (1921)
 
 #### Original name
-null
+Aschersonia duplex Berk., 1855
 
 ### Remarks
 null

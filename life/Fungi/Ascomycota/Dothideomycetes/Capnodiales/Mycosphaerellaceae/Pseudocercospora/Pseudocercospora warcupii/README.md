@@ -1,5 +1,4 @@
-Pseudocercospora warcupii Beilharz, Pascoe & Parbery SPECIES
-=======
+# Pseudocercospora warcupii Beilharz, Pascoe & Parbery SPECIES
 
 #### Status
 ACCEPTED

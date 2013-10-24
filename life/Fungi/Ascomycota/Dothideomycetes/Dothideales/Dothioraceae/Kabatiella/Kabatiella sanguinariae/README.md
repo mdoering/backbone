@@ -1,5 +1,4 @@
-Kabatiella sanguinariae (Ellis & Everh.) Arx SPECIES
-=======
+# Kabatiella sanguinariae (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

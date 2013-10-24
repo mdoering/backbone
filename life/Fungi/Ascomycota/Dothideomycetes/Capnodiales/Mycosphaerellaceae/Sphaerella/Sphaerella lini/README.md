@@ -1,5 +1,4 @@
-Sphaerella lini (Hulea) Sandu SPECIES
-=======
+# Sphaerella lini (Hulea) Sandu SPECIES
 
 #### Status
 ACCEPTED

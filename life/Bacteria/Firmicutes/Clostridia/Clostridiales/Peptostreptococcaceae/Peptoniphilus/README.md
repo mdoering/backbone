@@ -1,5 +1,4 @@
-Peptoniphilus Ezaki et al., 2001 GENUS
-=======
+# Peptoniphilus Ezaki et al., 2001 GENUS
 
 #### Status
 ACCEPTED

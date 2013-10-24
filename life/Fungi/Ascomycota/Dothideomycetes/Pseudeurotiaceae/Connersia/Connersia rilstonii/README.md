@@ -1,17 +1,16 @@
-Pseuderotium rilstonii C. Booth SPECIES
-=======
+# Connersia rilstonii (C. Booth) Malloch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+Index Fungorum
 
 #### Published in
-null
+Fungi Canadenses, Ottawa 32 (1974)
 
 #### Original name
-null
+Pseudeurotium rilstonii C. Booth
 
 ### Remarks
 null

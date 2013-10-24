@@ -1,5 +1,4 @@
-Cylindrosporium consociatum Dearn. SPECIES
-=======
+# Cylindrosporium consociatum Dearn. SPECIES
 
 #### Status
 ACCEPTED

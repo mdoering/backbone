@@ -1,5 +1,4 @@
-Pyrenophora zabriskiana Ellis & Everh. SPECIES
-=======
+# Pyrenophora zabriskiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

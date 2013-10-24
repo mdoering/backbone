@@ -1,5 +1,4 @@
-Ascobolus difformis Nyl. SPECIES
-=======
+# Ascobolus difformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria phormii Speg. SPECIES
-=======
+# Botryosphaeria phormii Speg. SPECIES
 
 #### Status
 ACCEPTED

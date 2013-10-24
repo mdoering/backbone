@@ -1,17 +1,16 @@
-Gonatophragmium semi-lunatum M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium semilunatum M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers of Fungal Diversity in India (Lucknow), (Prof. Kamal Festschrift) 550 (2003)
 
 #### Original name
-Gonatophragmium semi-lunatum M.S. Tripathi & V. Tripathi
+Gonatophragmium semilunatum M.S. Tripathi & V. Tripathi
 
 ### Remarks
 null

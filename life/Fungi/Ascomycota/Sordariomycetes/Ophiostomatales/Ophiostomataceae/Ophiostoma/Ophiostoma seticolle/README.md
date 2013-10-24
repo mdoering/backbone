@@ -1,14 +1,13 @@
-Ceratocystis seticollis R.W. Davidson, 1966 SPECIES
-=======
+# Ophiostoma seticolle (R.W. Davidson) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 28: 282 (1966)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis seticollis R.W. Davidson, 1966

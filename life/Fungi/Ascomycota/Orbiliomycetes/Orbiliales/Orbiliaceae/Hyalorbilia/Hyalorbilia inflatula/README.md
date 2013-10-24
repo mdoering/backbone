@@ -1,17 +1,16 @@
-Orbilia inflatula var. inflatula VARIETY
-=======
+# Hyalorbilia inflatula (P. Karst.) Baral & G. Marson, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 108 (1870)
+Micologia 2000 (Trento) 44 (2000)
 
 #### Original name
-Orbilia inflatula var. inflatula
+null
 
 ### Remarks
 null

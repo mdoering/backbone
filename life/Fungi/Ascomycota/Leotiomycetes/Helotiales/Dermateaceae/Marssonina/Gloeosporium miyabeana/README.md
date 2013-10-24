@@ -1,5 +1,4 @@
-Gloeosporium miyabeana anon. SPECIES
-=======
+# Gloeosporium miyabeana anon. SPECIES
 
 #### Status
 ACCEPTED

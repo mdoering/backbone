@@ -1,5 +1,4 @@
-Phoma astragali-alpini f. astragali-alpini FORM
-=======
+# Phoma astragali-alpini Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma astragali-alpini f. astragali-alpini
+Phoma astragali-alpini Oudem.
 
 ### Remarks
 null

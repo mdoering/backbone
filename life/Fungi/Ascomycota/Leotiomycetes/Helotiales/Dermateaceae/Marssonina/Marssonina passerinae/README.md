@@ -1,5 +1,4 @@
-Marssonina passerinae (Bäumler) SPECIES
-=======
+# Marssonina passerinae (Bäumler) SPECIES
 
 #### Status
 ACCEPTED

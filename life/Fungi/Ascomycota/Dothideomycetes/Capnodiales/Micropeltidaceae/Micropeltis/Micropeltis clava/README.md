@@ -1,5 +1,4 @@
-Micropeltis clava Toro SPECIES
-=======
+# Micropeltis clava Toro SPECIES
 
 #### Status
 ACCEPTED

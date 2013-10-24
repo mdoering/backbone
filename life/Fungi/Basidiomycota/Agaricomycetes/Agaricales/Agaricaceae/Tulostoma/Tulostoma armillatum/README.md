@@ -1,5 +1,4 @@
-Tulostoma armillatum Bres. SPECIES
-=======
+# Tulostoma armillatum Bres. SPECIES
 
 #### Status
 ACCEPTED

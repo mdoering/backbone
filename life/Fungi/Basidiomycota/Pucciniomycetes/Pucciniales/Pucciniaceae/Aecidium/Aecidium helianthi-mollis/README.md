@@ -1,5 +1,4 @@
-Aecidium helianthi-mollis Schwein. SPECIES
-=======
+# Aecidium helianthi-mollis Schwein. SPECIES
 
 #### Status
 ACCEPTED

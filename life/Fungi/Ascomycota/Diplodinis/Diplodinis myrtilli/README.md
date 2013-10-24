@@ -1,5 +1,4 @@
-Diplodinis myrtilli Negru SPECIES
-=======
+# Diplodinis myrtilli Negru SPECIES
 
 #### Status
 ACCEPTED

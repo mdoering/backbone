@@ -1,5 +1,4 @@
-Dendrographium bambusae Sawada SPECIES
-=======
+# Dendrographium bambusae Sawada SPECIES
 
 #### Status
 ACCEPTED

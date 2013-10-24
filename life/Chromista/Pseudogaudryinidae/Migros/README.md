@@ -1,5 +1,4 @@
-Migros Finlay, 1939 GENUS
-=======
+# Migros Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

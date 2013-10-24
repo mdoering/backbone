@@ -1,5 +1,4 @@
-Dictyosporites paradkarii Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites paradkarii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

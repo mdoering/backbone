@@ -1,5 +1,4 @@
-Beltraniopsis esenbeckiae Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Beltraniopsis esenbeckiae Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

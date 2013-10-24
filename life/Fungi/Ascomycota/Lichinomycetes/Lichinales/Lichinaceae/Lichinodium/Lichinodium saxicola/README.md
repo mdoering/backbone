@@ -1,5 +1,4 @@
-Lichinodium saxicola Henssen SPECIES
-=======
+# Lichinodium saxicola Henssen SPECIES
 
 #### Status
 ACCEPTED

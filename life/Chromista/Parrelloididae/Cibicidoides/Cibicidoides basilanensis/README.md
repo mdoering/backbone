@@ -1,5 +1,4 @@
-Cibicidoides basilanensis McCulloch, 1977 SPECIES
-=======
+# Cibicidoides basilanensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

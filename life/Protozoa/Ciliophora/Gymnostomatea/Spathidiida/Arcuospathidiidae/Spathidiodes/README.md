@@ -1,5 +1,4 @@
-Spathidiodes GENUS
-=======
+# Spathidiodes GENUS
 
 #### Status
 ACCEPTED

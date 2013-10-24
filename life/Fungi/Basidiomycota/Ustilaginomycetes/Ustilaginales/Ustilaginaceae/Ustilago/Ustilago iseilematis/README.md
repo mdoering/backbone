@@ -1,5 +1,4 @@
-Ustilago iseilematis Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Ustilago iseilematis Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

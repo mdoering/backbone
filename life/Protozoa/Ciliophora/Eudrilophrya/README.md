@@ -1,5 +1,4 @@
-Eudrilophrya de Puytorac, 1971 GENUS
-=======
+# Eudrilophrya de Puytorac, 1971 GENUS
 
 #### Status
 ACCEPTED

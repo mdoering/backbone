@@ -1,17 +1,16 @@
-Marshallia Nie & Ch'eng, 1947 GENUS
-=======
+# Niemarshallia Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Contr. Biol. Lab. Sci. Soc. China, Zool. , 16, (3), 69.
+J. Protozool. 7: 269.
 
 #### Original name
-null
+Marshallia Nie & Ch'eng, 1947
 
 ### Remarks
 null

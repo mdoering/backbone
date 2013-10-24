@@ -1,5 +1,4 @@
-Pseudocercospora alternantherae-nodiflorae (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora alternantherae-nodiflorae (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

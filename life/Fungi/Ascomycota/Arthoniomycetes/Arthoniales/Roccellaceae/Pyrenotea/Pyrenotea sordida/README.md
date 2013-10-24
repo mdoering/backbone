@@ -1,5 +1,4 @@
-Pyrenotea sordida SPECIES
-=======
+# Pyrenotea sordida SPECIES
 
 #### Status
 ACCEPTED

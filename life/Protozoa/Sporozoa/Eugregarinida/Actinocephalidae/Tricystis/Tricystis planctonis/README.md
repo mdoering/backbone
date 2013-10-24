@@ -1,5 +1,4 @@
-Tricystis planctonis Hamon, 1951 SPECIES
-=======
+# Tricystis planctonis Hamon, 1951 SPECIES
 
 #### Status
 ACCEPTED

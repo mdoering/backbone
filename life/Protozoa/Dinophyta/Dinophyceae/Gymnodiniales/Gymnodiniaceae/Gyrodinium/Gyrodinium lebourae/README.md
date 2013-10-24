@@ -1,5 +1,4 @@
-Gyrodinium lebourae Herdmann, 1924 SPECIES
-=======
+# Gyrodinium lebourae Herdmann, 1924 SPECIES
 
 #### Status
 ACCEPTED

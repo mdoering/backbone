@@ -1,5 +1,4 @@
-Cordyceps uleana Henn. SPECIES
-=======
+# Cordyceps uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

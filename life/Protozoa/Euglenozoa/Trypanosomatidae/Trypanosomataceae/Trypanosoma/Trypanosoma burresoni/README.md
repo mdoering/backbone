@@ -1,5 +1,4 @@
-Trypanosoma burresoni Jones & Woo, 1993 SPECIES
-=======
+# Trypanosoma burresoni Jones & Woo, 1993 SPECIES
 
 #### Status
 ACCEPTED

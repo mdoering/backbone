@@ -1,5 +1,4 @@
-Percultisphaera incompta Richards & Mullins, 2003 SPECIES
-=======
+# Percultisphaera incompta Richards & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

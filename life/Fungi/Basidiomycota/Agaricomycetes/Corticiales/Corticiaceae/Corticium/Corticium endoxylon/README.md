@@ -1,5 +1,4 @@
-Corticium endoxylon Duhem & H. Michel SPECIES
-=======
+# Corticium endoxylon Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

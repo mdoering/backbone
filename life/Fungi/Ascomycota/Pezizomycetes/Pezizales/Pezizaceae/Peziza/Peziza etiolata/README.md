@@ -1,5 +1,4 @@
-Peziza etiolata Cooke SPECIES
-=======
+# Peziza etiolata Cooke SPECIES
 
 #### Status
 ACCEPTED

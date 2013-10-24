@@ -1,5 +1,4 @@
-Herpothallon isidiatum Jagadeesh & G. P. Sinha SPECIES
-=======
+# Herpothallon isidiatum Jagadeesh & G. P. Sinha SPECIES
 
 #### Status
 ACCEPTED

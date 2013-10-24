@@ -1,5 +1,4 @@
-Chaetoceros scabrosus Prosckina-Lavrenko SPECIES
-=======
+# Chaetoceros scabrosus Prosckina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

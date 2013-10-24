@@ -1,5 +1,4 @@
-Dimorphomyces philippinensis W. Rossi & Santam. SPECIES
-=======
+# Dimorphomyces philippinensis W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

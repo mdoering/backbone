@@ -1,5 +1,4 @@
-Cortinarius aromaticus (Velen.) Reumaux SPECIES
-=======
+# Cortinarius aromaticus (Velen.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

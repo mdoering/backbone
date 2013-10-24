@@ -1,5 +1,4 @@
-Leptosphaeria oxyspora Feltgen SPECIES
-=======
+# Leptosphaeria oxyspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

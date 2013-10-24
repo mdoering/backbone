@@ -1,5 +1,4 @@
-Thyridium chrysomallum (Berk. & Broome) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Thyridium chrysomallum (Berk. & Broome) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

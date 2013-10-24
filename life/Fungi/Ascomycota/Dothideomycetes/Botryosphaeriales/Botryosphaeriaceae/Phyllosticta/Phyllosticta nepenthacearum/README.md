@@ -1,5 +1,4 @@
-Phyllosticta nepenthacearum Tassi SPECIES
-=======
+# Phyllosticta nepenthacearum Tassi SPECIES
 
 #### Status
 ACCEPTED

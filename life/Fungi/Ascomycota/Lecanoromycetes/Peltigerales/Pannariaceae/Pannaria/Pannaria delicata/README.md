@@ -1,5 +1,4 @@
-Pannaria delicata P.M. Jørg. & D.J. Galloway SPECIES
-=======
+# Pannaria delicata P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

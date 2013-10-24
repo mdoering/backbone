@@ -1,5 +1,4 @@
-Verticillium depauperatum Bruhns & Alexander SPECIES
-=======
+# Verticillium depauperatum Bruhns & Alexander SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomassilina corrugata var. jubata Lacroix, 1938 VARIETY
-=======
+# Pseudomassilina corrugata Lacroix, 1938 SPECIES
 
 #### Status
 ACCEPTED

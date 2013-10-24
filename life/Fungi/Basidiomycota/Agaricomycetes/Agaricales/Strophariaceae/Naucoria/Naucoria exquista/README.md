@@ -1,5 +1,4 @@
-Naucoria exquista Berk. SPECIES
-=======
+# Naucoria exquista Berk. SPECIES
 
 #### Status
 ACCEPTED

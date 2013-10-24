@@ -1,5 +1,4 @@
-Tricholoma effocatellum (Mauri) Lanzi SPECIES
-=======
+# Tricholoma effocatellum (Mauri) Lanzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propionicimonas paludicola Akasaka et al., 2003 SPECIES
-=======
+# Propionicimonas paludicola Akasaka et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

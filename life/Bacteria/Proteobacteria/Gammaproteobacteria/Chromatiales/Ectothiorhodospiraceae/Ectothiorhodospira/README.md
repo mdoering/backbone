@@ -1,5 +1,4 @@
-Ectothiorhodospira GENUS
-=======
+# Ectothiorhodospira GENUS
 
 #### Status
 ACCEPTED

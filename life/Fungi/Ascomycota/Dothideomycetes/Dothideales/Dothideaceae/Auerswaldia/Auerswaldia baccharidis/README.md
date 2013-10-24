@@ -1,5 +1,4 @@
-Auerswaldia baccharidis Pat. SPECIES
-=======
+# Auerswaldia baccharidis Pat. SPECIES
 
 #### Status
 ACCEPTED

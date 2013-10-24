@@ -1,5 +1,4 @@
-Graphis quadrifera Nyl. SPECIES
-=======
+# Graphis quadrifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

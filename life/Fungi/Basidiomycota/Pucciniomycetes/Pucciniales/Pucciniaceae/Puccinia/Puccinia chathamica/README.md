@@ -1,5 +1,4 @@
-Puccinia chathamica McKenzie, 2008 SPECIES
-=======
+# Puccinia chathamica McKenzie, 2008 SPECIES
 
 #### Status
 ACCEPTED

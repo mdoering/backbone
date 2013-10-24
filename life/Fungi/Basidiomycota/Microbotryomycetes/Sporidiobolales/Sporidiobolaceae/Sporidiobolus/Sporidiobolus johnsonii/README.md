@@ -1,5 +1,4 @@
-Sporidiobolus johnsonii Nyland, 1950 SPECIES
-=======
+# Sporidiobolus johnsonii Nyland, 1950 SPECIES
 
 #### Status
 ACCEPTED

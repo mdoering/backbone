@@ -1,5 +1,4 @@
-Cyclogramma Perty, 1849 GENUS
-=======
+# Cyclogramma Perty, 1849 GENUS
 
 #### Status
 ACCEPTED

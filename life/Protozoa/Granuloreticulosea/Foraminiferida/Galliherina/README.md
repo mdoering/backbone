@@ -1,5 +1,4 @@
-Galliherina Kleinpell & Tipton, 1980 GENUS
-=======
+# Galliherina Kleinpell & Tipton, 1980 GENUS
 
 #### Status
 ACCEPTED

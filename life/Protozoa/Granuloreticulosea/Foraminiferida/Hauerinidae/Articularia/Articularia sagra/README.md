@@ -1,5 +1,4 @@
-Articularia sagra (d'Orbigny, 1839) SPECIES
-=======
+# Articularia sagra (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

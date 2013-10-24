@@ -1,5 +1,4 @@
-Oidium tenerum (Sumst.) Linder SPECIES
-=======
+# Oidium tenerum (Sumst.) Linder SPECIES
 
 #### Status
 ACCEPTED

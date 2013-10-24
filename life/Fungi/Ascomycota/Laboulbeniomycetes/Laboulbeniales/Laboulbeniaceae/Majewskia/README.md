@@ -1,5 +1,4 @@
-Majewskia Y.B. Lee & K. Sugiy. GENUS
-=======
+# Majewskia Y.B. Lee & K. Sugiy. GENUS
 
 #### Status
 ACCEPTED

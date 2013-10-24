@@ -1,5 +1,4 @@
-Crameria duplex (Cramer, 1964) Lister, 1970 SPECIES
-=======
+# Crameria duplex (Cramer, 1964) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

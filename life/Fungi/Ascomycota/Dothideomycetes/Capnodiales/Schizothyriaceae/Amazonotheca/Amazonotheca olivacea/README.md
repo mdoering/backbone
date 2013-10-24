@@ -1,5 +1,4 @@
-Amazonotheca olivacea Bat., Cavalc. & O.B. Mello SPECIES
-=======
+# Amazonotheca olivacea Bat., Cavalc. & O.B. Mello SPECIES
 
 #### Status
 ACCEPTED

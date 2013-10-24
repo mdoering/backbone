@@ -1,5 +1,4 @@
-Verrucaria scotodes Nyl. SPECIES
-=======
+# Verrucaria scotodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

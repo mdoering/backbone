@@ -1,5 +1,4 @@
-Tubercularia baeomyces (L. f.) Baumbg. SPECIES
-=======
+# Tubercularia baeomyces (L. f.) Baumbg. SPECIES
 
 #### Status
 ACCEPTED

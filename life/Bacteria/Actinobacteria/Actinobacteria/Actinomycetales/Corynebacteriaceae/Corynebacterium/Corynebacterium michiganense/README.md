@@ -1,8 +1,7 @@
-Mycobacterium insidiosum (McCulloch, 1925) Krasil'nikov, 1941 SPECIES
-=======
+# Corynebacterium michiganense (Smith, 1910) Jensen, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Coniothecium corticola Bubák SPECIES
-=======
+# Coniothecium corticola Bubák SPECIES
 
 #### Status
 ACCEPTED

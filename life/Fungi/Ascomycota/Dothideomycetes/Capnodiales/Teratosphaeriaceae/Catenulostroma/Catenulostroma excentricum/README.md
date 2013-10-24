@@ -1,14 +1,13 @@
-Trimmatostroma excentricum B. Sutton & Ganap., 1978 SPECIES
-=======
+# Catenulostroma excentricum (B. Sutton & Ganap.) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 16(4): 529 (1978)
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 10 (2007)
 
 #### Original name
 Trimmatostroma excentricum B. Sutton & Ganap., 1978

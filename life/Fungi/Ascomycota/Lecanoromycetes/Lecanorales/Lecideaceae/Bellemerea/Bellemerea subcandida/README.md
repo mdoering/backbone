@@ -1,14 +1,13 @@
-Lecanora subcandida (Arnold) Lettau SPECIES
-=======
+# Bellemerea subcandida (Arnold) Hafellner & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Clauzade & Roux, Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 134 (1984)
 
 #### Original name
 Aspicilia cinereorufescens f. subcandida Arnold

@@ -1,17 +1,16 @@
-Septoria lobeliae var. lobeliae VARIETY
-=======
+# Septoria lobeliae Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Rep. N. Y. St. Mus. 24: 87 (1872)
 
 #### Original name
-Septoria lobeliae var. lobeliae
+Septoria lobeliae Peck, 1872
 
 ### Remarks
 null

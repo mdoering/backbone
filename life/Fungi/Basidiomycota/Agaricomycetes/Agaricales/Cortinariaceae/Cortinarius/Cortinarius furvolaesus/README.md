@@ -1,5 +1,4 @@
-Cortinarius furvolaesus H. Lindstr. SPECIES
-=======
+# Cortinarius furvolaesus H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

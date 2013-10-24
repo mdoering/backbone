@@ -1,5 +1,4 @@
-Gyraria GENUS
-=======
+# Gyraria GENUS
 
 #### Status
 ACCEPTED

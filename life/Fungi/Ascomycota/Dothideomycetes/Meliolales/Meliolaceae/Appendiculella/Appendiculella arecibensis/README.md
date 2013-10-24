@@ -1,5 +1,4 @@
-Appendiculella arecibensis (F. Stevens) Toro SPECIES
-=======
+# Appendiculella arecibensis (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia flocculosa anon. SPECIES
-=======
+# Puccinia flocculosa anon. SPECIES
 
 #### Status
 ACCEPTED

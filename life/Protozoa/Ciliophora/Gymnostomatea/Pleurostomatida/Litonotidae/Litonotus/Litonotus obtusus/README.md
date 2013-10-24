@@ -1,5 +1,4 @@
-Litonotus obtusus Maupas, 1888 SPECIES
-=======
+# Litonotus obtusus Maupas, 1888 SPECIES
 
 #### Status
 ACCEPTED

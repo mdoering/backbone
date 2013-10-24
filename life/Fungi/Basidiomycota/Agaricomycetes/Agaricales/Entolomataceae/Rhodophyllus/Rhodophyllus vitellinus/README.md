@@ -1,5 +1,4 @@
-Rhodophyllus vitellinus Singer SPECIES
-=======
+# Rhodophyllus vitellinus Singer SPECIES
 
 #### Status
 ACCEPTED

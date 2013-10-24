@@ -1,5 +1,4 @@
-Okridoligotriletes Alyushinskii et al., 1957 GENUS
-=======
+# Okridoligotriletes Alyushinskii et al., 1957 GENUS
 
 #### Status
 ACCEPTED

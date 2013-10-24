@@ -1,5 +1,4 @@
-Spiromyces minutus R.K. Benj., 1963 SPECIES
-=======
+# Spiromyces minutus R.K. Benj., 1963 SPECIES
 
 #### Status
 ACCEPTED

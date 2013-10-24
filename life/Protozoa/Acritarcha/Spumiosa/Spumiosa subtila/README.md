@@ -1,5 +1,4 @@
-Spumiosa subtila Chepikova, 1971 SPECIES
-=======
+# Spumiosa subtila Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

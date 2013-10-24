@@ -1,5 +1,4 @@
-Polymeridium (Müll. Arg.) R.C. Harris GENUS
-=======
+# Polymeridium (Müll. Arg.) R.C. Harris GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis capparicola Bat. & A.F. Vital SPECIES
-=======
+# Irenopsis capparicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

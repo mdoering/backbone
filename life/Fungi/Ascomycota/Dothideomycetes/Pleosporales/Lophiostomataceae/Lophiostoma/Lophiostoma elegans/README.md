@@ -1,5 +1,4 @@
-Lophiostoma elegans (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma elegans (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

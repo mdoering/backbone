@@ -1,5 +1,4 @@
-Dendrocladium guadelupense (Lév.) Lloyd SPECIES
-=======
+# Dendrocladium guadelupense (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

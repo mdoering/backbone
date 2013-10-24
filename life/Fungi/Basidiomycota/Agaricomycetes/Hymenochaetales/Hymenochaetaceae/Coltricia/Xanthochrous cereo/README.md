@@ -1,5 +1,4 @@
-Xanthochrous cereo Berk. SPECIES
-=======
+# Xanthochrous cereo Berk. SPECIES
 
 #### Status
 ACCEPTED

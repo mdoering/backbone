@@ -1,17 +1,16 @@
-Diplodia xanthoxyli Henn. SPECIES
-=======
+# Diplodia zanthoxyli Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 137 (1902)
 
 #### Original name
-Diplodia xanthoxyli Henn.
+Diplodia zanthoxyli Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schulzeria revocans (Cooke & Massee) Sacc. SPECIES
-=======
+# Schulzeria revocans (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

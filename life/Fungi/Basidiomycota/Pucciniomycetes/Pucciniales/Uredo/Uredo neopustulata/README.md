@@ -1,5 +1,4 @@
-Uredo neopustulata Cummins SPECIES
-=======
+# Uredo neopustulata Cummins SPECIES
 
 #### Status
 ACCEPTED

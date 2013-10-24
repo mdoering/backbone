@@ -1,5 +1,4 @@
-Aecidium leucanthemi DC. SPECIES
-=======
+# Aecidium leucanthemi DC. SPECIES
 
 #### Status
 ACCEPTED

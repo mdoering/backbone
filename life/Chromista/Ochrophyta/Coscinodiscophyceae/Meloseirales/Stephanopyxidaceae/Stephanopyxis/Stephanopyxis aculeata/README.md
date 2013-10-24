@@ -1,5 +1,4 @@
-Stephanopyxis aculeata Ehrenberg, 1845 SPECIES
-=======
+# Stephanopyxis aculeata Ehrenberg, 1845 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephrocybe fibrillosa (Singer) Raithelh. SPECIES
-=======
+# Tephrocybe fibrillosa (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

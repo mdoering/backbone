@@ -1,5 +1,4 @@
-Lepiota olivascens (Singer & M.M. Moser) Contu SPECIES
-=======
+# Lepiota olivascens (Singer & M.M. Moser) Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix candelii P. González SPECIES
-=======
+# Calothrix candelii P. González SPECIES
 
 #### Status
 ACCEPTED

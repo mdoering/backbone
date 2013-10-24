@@ -1,5 +1,4 @@
-Gyalecta persooniana Ach. SPECIES
-=======
+# Gyalecta persooniana Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea thysaniza Nyl. SPECIES
-=======
+# Lecidea thysaniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

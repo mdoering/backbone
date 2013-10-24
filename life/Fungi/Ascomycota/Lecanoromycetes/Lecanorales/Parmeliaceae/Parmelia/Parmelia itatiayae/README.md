@@ -1,5 +1,4 @@
-Parmelia itatiayae Zahlbr. SPECIES
-=======
+# Parmelia itatiayae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

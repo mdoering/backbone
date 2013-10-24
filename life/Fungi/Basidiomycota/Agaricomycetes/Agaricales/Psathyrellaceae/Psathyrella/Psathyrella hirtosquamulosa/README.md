@@ -1,5 +1,4 @@
-Psathyrella hirtosquamulosa (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella hirtosquamulosa (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

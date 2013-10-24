@@ -1,5 +1,4 @@
-Lichen stellatus Relhan SPECIES
-=======
+# Lichen stellatus Relhan SPECIES
 
 #### Status
 ACCEPTED

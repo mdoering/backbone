@@ -1,5 +1,4 @@
-Zoothamnium kentii Grenfell, 1884 SPECIES
-=======
+# Zoothamnium kentii Grenfell, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus ramosii Bres. SPECIES
-=======
+# Pleurotus ramosii Bres. SPECIES
 
 #### Status
 ACCEPTED

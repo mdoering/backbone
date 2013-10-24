@@ -1,5 +1,4 @@
-Pleospora polytrichia Tul. SPECIES
-=======
+# Pleospora polytrichia Tul. SPECIES
 
 #### Status
 ACCEPTED

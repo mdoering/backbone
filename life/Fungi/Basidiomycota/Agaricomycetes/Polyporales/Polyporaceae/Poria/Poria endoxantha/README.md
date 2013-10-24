@@ -1,5 +1,4 @@
-Poria endoxantha Petch SPECIES
-=======
+# Poria endoxantha Petch SPECIES
 
 #### Status
 ACCEPTED

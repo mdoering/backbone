@@ -1,5 +1,4 @@
-Coniella fragariae (Oudem.) B. Sutton, 1977 SPECIES
-=======
+# Coniella fragariae (Oudem.) B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED

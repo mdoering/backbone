@@ -1,5 +1,4 @@
-Lecanora kotovii (Oxner) Cretz. SPECIES
-=======
+# Lecanora kotovii (Oxner) Cretz. SPECIES
 
 #### Status
 ACCEPTED

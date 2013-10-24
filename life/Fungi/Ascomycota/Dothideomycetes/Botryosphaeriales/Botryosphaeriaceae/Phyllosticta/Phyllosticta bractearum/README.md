@@ -1,5 +1,4 @@
-Phyllosticta bractearum Oudem. SPECIES
-=======
+# Phyllosticta bractearum Oudem. SPECIES
 
 #### Status
 ACCEPTED

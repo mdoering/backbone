@@ -1,5 +1,4 @@
-Pseudohiatula panamensis Singer SPECIES
-=======
+# Pseudohiatula panamensis Singer SPECIES
 
 #### Status
 ACCEPTED

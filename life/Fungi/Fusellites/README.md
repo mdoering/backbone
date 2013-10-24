@@ -1,5 +1,4 @@
-Fusellites Babajan & Tasl. GENUS
-=======
+# Fusellites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

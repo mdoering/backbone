@@ -1,5 +1,4 @@
-Spirulina labyrinthiformis (Linnaeus) Gomont, 1892 SPECIES
-=======
+# Spirulina labyrinthiformis (Linnaeus) Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

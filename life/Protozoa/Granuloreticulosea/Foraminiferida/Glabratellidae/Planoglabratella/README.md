@@ -1,5 +1,4 @@
-Planoglabratella Seiglie & Bermudez, 1965 GENUS
-=======
+# Planoglabratella Seiglie & Bermudez, 1965 GENUS
 
 #### Status
 ACCEPTED

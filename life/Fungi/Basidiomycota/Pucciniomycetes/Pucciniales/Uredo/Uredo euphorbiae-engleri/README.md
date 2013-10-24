@@ -1,5 +1,4 @@
-Uredo euphorbiae-engleri Henn. SPECIES
-=======
+# Uredo euphorbiae-engleri Henn. SPECIES
 
 #### Status
 ACCEPTED

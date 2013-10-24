@@ -1,5 +1,4 @@
-Sargassum micracantha SPECIES
-=======
+# Sargassum micracantha SPECIES
 
 #### Status
 ACCEPTED

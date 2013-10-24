@@ -1,5 +1,4 @@
-Conexibacter woesei Monciardini et al., 2003 SPECIES
-=======
+# Conexibacter woesei Monciardini et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

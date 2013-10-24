@@ -1,5 +1,4 @@
-Pyrenula hyalospora (Nyl.) Tuck. SPECIES
-=======
+# Pyrenula hyalospora (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

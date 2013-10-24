@@ -1,5 +1,4 @@
-Crepidotus parietalis E. Horak, 1978 SPECIES
-=======
+# Crepidotus parietalis E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca collybiiformis Murrill SPECIES
-=======
+# Melanoleuca collybiiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliomyces elegans Lév. SPECIES
-=======
+# Heliomyces elegans Lév. SPECIES
 
 #### Status
 ACCEPTED

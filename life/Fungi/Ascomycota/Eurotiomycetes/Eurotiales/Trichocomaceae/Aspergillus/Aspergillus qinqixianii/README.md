@@ -1,5 +1,4 @@
-Aspergillus qinqixianii Y. Horie, Abliz & R.Y. Li SPECIES
-=======
+# Aspergillus qinqixianii Y. Horie, Abliz & R.Y. Li SPECIES
 
 #### Status
 ACCEPTED

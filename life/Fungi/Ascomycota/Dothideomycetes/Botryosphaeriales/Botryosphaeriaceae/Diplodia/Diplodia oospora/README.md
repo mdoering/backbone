@@ -1,5 +1,4 @@
-Diplodia oospora Berk. SPECIES
-=======
+# Diplodia oospora Berk. SPECIES
 
 #### Status
 ACCEPTED

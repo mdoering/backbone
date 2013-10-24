@@ -1,5 +1,4 @@
-Agaricus aulacergates Berk. & Broome SPECIES
-=======
+# Agaricus aulacergates Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

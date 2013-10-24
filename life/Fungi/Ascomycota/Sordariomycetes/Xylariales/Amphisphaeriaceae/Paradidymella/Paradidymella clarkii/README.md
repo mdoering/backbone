@@ -1,5 +1,4 @@
-Paradidymella clarkii D. Hawksw. & Sivan., 1977 SPECIES
-=======
+# Paradidymella clarkii D. Hawksw. & Sivan., 1977 SPECIES
 
 #### Status
 ACCEPTED

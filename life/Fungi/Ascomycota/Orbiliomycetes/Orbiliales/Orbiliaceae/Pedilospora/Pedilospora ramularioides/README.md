@@ -1,5 +1,4 @@
-Pedilospora ramularioides Bubák SPECIES
-=======
+# Pedilospora ramularioides Bubák SPECIES
 
 #### Status
 ACCEPTED

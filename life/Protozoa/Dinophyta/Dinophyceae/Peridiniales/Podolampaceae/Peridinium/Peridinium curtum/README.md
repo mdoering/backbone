@@ -1,5 +1,4 @@
-Peridinium curtum Balech, 1958 SPECIES
-=======
+# Peridinium curtum Balech, 1958 SPECIES
 
 #### Status
 ACCEPTED

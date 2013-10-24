@@ -1,5 +1,4 @@
-Endocarpon elegans (Wallr.) Lönnr. SPECIES
-=======
+# Endocarpon elegans (Wallr.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrrhospora subcinnabarina (Tønsberg) Hafellner SPECIES
-=======
+# Pyrrhospora subcinnabarina (Tønsberg) Hafellner SPECIES
 
 #### Status
 ACCEPTED

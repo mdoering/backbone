@@ -1,5 +1,4 @@
-Bovista spinulosa Peck SPECIES
-=======
+# Bovista spinulosa Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum foetidum Heinem. SPECIES
-=======
+# Leccinum foetidum Heinem. SPECIES
 
 #### Status
 ACCEPTED

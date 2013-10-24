@@ -1,5 +1,4 @@
-Agaricus tomentosulus Peck SPECIES
-=======
+# Agaricus tomentosulus Peck SPECIES
 
 #### Status
 ACCEPTED

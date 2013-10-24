@@ -1,5 +1,4 @@
-Pharcidia pelvetiae G.K. Sutherl., 1915 SPECIES
-=======
+# Pharcidia pelvetiae G.K. Sutherl., 1915 SPECIES
 
 #### Status
 ACCEPTED

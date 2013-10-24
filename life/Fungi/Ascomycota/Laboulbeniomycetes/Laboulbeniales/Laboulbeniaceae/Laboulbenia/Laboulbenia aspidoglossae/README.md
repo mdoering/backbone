@@ -1,5 +1,4 @@
-Laboulbenia aspidoglossae Thaxt. SPECIES
-=======
+# Laboulbenia aspidoglossae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

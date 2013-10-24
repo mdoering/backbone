@@ -1,5 +1,4 @@
-Sporopodium miradorense SPECIES
-=======
+# Sporopodium miradorense SPECIES
 
 #### Status
 ACCEPTED

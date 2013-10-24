@@ -1,5 +1,4 @@
-Sigmoilopsis schlumbergi SPECIES
-=======
+# Sigmoilopsis schlumbergi SPECIES
 
 #### Status
 ACCEPTED

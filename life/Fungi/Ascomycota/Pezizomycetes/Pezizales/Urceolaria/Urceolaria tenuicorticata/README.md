@@ -1,5 +1,4 @@
-Urceolaria tenuicorticata Motyka, 1996 SPECIES
-=======
+# Urceolaria tenuicorticata Motyka, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramarteilia Ginsburger-Vogel, Desportes & Zerbib, 1976 GENUS
-=======
+# Paramarteilia Ginsburger-Vogel, Desportes & Zerbib, 1976 GENUS
 
 #### Status
 ACCEPTED

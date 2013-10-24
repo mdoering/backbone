@@ -1,5 +1,4 @@
-Arthrosporium Sacc. GENUS
-=======
+# Arthrosporium Sacc. GENUS
 
 #### Status
 ACCEPTED

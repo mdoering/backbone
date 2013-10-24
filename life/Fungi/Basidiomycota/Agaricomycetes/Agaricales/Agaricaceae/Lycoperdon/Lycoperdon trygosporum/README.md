@@ -1,5 +1,4 @@
-Lycoperdon trygosporum Veull. SPECIES
-=======
+# Lycoperdon trygosporum Veull. SPECIES
 
 #### Status
 ACCEPTED

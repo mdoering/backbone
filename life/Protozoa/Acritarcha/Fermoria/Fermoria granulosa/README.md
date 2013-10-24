@@ -1,5 +1,4 @@
-Fermoria granulosa Chapman, 1935 SPECIES
-=======
+# Fermoria granulosa Chapman, 1935 SPECIES
 
 #### Status
 ACCEPTED

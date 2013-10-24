@@ -1,5 +1,4 @@
-Cortinarius napus f. napus FORM
-=======
+# Cortinarius napus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 263 (1838)
 
 #### Original name
-Cortinarius napus f. napus
+Cortinarius napus Fr.
 
 ### Remarks
 null

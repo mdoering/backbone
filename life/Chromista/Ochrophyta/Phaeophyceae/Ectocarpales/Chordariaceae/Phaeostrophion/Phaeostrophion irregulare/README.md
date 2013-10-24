@@ -1,5 +1,4 @@
-Phaeostrophion irregulare Setchell & N.L. Gardner SPECIES
-=======
+# Phaeostrophion irregulare Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

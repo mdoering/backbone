@@ -1,5 +1,4 @@
-Patellaria polychroma Müll. Arg. SPECIES
-=======
+# Patellaria polychroma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

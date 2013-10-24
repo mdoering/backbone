@@ -1,17 +1,16 @@
-Trichophyton megnini R. Blanch. SPECIES
-=======
+# Trichophyton megninii R. Blanch., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Bouchard, Traité Path. Gen. (Paris) 2: 915 (1895)
 
 #### Original name
-Trichophyton megnini R. Blanch.
+Trichophyton megninii R. Blanch., 1895
 
 ### Remarks
 null

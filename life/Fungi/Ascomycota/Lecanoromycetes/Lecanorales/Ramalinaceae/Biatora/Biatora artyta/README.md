@@ -1,5 +1,4 @@
-Biatora artyta Tuck. SPECIES
-=======
+# Biatora artyta Tuck. SPECIES
 
 #### Status
 ACCEPTED

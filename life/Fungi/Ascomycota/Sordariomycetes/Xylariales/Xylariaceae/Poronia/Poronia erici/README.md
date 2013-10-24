@@ -1,5 +1,4 @@
-Poronia erici Lohmeyer & Benkert SPECIES
-=======
+# Poronia erici Lohmeyer & Benkert SPECIES
 
 #### Status
 ACCEPTED

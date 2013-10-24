@@ -1,5 +1,4 @@
-Feldmannia formosana (Yamada) Itono SPECIES
-=======
+# Feldmannia formosana (Yamada) Itono SPECIES
 
 #### Status
 ACCEPTED

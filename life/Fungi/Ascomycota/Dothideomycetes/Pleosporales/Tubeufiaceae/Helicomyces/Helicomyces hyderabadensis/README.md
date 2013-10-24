@@ -1,17 +1,16 @@
-Helicomyces hyderabadense P.Rag. Rao & D. Rao SPECIES
-=======
+# Helicomyces hyderabadensis P.Rag. Rao & D. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 24: 28 (1964)
 
 #### Original name
-Helicomyces hyderabadense P.Rag. Rao & D. Rao
+Helicomyces hyderabadensis P.Rag. Rao & D. Rao
 
 ### Remarks
 null

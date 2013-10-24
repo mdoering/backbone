@@ -1,5 +1,4 @@
-Psilosphaeria astrocarya (Cooke) Cooke SPECIES
-=======
+# Psilosphaeria astrocarya (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

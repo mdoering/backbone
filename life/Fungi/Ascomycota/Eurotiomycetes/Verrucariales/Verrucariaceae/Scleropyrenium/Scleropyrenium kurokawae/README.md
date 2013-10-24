@@ -1,5 +1,4 @@
-Scleropyrenium kurokawae H. Harada SPECIES
-=======
+# Scleropyrenium kurokawae H. Harada SPECIES
 
 #### Status
 ACCEPTED

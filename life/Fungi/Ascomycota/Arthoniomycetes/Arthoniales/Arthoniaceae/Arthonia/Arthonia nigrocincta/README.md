@@ -1,5 +1,4 @@
-Arthonia nigrocincta C. Knight & Mitt. SPECIES
-=======
+# Arthonia nigrocincta C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

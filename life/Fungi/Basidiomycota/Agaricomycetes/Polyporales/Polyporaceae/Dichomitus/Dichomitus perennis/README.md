@@ -1,5 +1,4 @@
-Dichomitus perennis Ryvarden SPECIES
-=======
+# Dichomitus perennis Ryvarden SPECIES
 
 #### Status
 ACCEPTED

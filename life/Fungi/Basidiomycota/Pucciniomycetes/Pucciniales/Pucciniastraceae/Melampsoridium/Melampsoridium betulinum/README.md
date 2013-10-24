@@ -1,17 +1,16 @@
-Uredo populina var. betulina Pers. VARIETY
-=======
+# Melampsoridium betulinum (Pers.) Kleb., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 9: 21 (1899)
 
 #### Original name
-null
+Uredo populina Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rodwayella Spooner GENUS
-=======
+# Rodwayella Spooner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoporus carpatorossicus Pilát SPECIES
-=======
+# Leptoporus carpatorossicus Pilát SPECIES
 
 #### Status
 ACCEPTED

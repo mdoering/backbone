@@ -1,5 +1,4 @@
-Myelochroa macrogalbinica Divakar, Upreti & Elix SPECIES
-=======
+# Myelochroa macrogalbinica Divakar, Upreti & Elix SPECIES
 
 #### Status
 ACCEPTED

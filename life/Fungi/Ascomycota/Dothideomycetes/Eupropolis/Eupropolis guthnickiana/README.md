@@ -1,5 +1,4 @@
-Eupropolis guthnickiana De Not. SPECIES
-=======
+# Eupropolis guthnickiana De Not. SPECIES
 
 #### Status
 ACCEPTED

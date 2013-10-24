@@ -1,5 +1,4 @@
-Septoria schizeilematis Petr. SPECIES
-=======
+# Septoria schizeilematis Petr. SPECIES
 
 #### Status
 ACCEPTED

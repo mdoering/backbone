@@ -1,5 +1,4 @@
-Asteroma inconspicuum (Cavara) B. Sutton SPECIES
-=======
+# Asteroma inconspicuum (Cavara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

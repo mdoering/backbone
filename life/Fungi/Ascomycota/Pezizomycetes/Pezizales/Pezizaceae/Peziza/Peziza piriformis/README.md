@@ -1,5 +1,4 @@
-Peziza piriformis (Hedw.) Fr. SPECIES
-=======
+# Peziza piriformis (Hedw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

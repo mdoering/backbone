@@ -1,5 +1,4 @@
-Ramularia nivea Kabát & Bubák SPECIES
-=======
+# Ramularia nivea Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

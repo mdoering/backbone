@@ -1,14 +1,13 @@
-Ascidium xanthostromizum Nyl. SPECIES
-=======
+# Ocellularia xanthostromiza (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 20 (1891)
+Cat. Lich. Univers. 2: 604 (1923)
 
 #### Original name
 Ascidium xanthostromizum Nyl.

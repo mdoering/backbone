@@ -1,5 +1,4 @@
-Gyalideopsis floridae Etayo & Diederich SPECIES
-=======
+# Gyalideopsis floridae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber argenteum Gilkey SPECIES
-=======
+# Tuber argenteum Gilkey SPECIES
 
 #### Status
 ACCEPTED

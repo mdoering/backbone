@@ -1,5 +1,4 @@
-Pertusaria impressula Müll. Arg. SPECIES
-=======
+# Pertusaria impressula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

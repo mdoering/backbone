@@ -1,17 +1,16 @@
-Lentinopanus Pilát GENUS
-=======
+# Panus E.M. Fries, 1838 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 72 (1941)
+Epicr. syst. mycol. (Upsaliae) 396 (1838)
 
 #### Original name
-Lentinopanus Pilát
+Panus E.M. Fries, 1838
 
 ### Remarks
 null

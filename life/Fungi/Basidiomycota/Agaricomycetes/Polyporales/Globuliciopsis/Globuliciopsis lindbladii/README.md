@@ -1,5 +1,4 @@
-Globuliciopsis lindbladii Hjortstam & Ryvarden, 2007 SPECIES
-=======
+# Globuliciopsis lindbladii Hjortstam & Ryvarden, 2007 SPECIES
 
 #### Status
 ACCEPTED

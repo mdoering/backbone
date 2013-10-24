@@ -1,5 +1,4 @@
-Trametes benevestita Corner SPECIES
-=======
+# Trametes benevestita Corner SPECIES
 
 #### Status
 ACCEPTED

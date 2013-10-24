@@ -1,5 +1,4 @@
-Hemicorynespora fusispora Subram. SPECIES
-=======
+# Hemicorynespora fusispora Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia filicina (Müll. Arg.) SPECIES
-=======
+# Bacidia filicina (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

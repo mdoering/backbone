@@ -1,5 +1,4 @@
-Aglaospora irregularis J. Schröt. SPECIES
-=======
+# Aglaospora irregularis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

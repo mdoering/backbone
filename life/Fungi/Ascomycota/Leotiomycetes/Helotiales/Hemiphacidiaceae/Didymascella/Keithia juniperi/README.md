@@ -1,5 +1,4 @@
-Keithia juniperi J.K. Mill. SPECIES
-=======
+# Keithia juniperi J.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Virgulina davisi Chapman & Parr, 1931 SPECIES
-=======
+# Fursenkoina davisi (Chapman & Parr, 1931) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

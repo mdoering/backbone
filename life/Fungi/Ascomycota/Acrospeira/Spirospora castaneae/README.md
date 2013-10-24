@@ -1,5 +1,4 @@
-Spirospora castaneae L. Mangin & Vincens SPECIES
-=======
+# Spirospora castaneae L. Mangin & Vincens SPECIES
 
 #### Status
 ACCEPTED

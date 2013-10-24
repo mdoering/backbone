@@ -1,5 +1,4 @@
-Rinodina nigrella SPECIES
-=======
+# Rinodina nigrella SPECIES
 
 #### Status
 ACCEPTED

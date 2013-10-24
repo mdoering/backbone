@@ -1,8 +1,7 @@
-Hincksia breviarticulata (J. Agardh) P.C. Silva SPECIES
-=======
+# Asteronema breviarticulatum (J. Agardh) Ouriques & Bouzon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

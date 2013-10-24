@@ -1,5 +1,4 @@
-Leptosphaeria superficialis Hazsl. SPECIES
-=======
+# Leptosphaeria superficialis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

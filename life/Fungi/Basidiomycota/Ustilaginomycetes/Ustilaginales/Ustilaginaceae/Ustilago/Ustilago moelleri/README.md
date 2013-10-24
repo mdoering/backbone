@@ -1,17 +1,16 @@
-Ustilago molleri Bref. SPECIES
-=======
+# Ustilago moelleri Bref. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Unters. Gesammtgeb. Mykol. 12: 132 (1895)
 
 #### Original name
-Ustilago molleri Bref.
+Ustilago moelleri Bref.
 
 ### Remarks
 null

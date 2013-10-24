@@ -1,5 +1,4 @@
-Discoaster gemmeus Stradner, 1959 SPECIES
-=======
+# Discoaster gemmeus Stradner, 1959 SPECIES
 
 #### Status
 ACCEPTED

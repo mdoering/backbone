@@ -1,5 +1,4 @@
-Scopulariopsis finkii Sartory & R. Sartory ex Vuill. SPECIES
-=======
+# Scopulariopsis finkii Sartory & R. Sartory ex Vuill. SPECIES
 
 #### Status
 ACCEPTED

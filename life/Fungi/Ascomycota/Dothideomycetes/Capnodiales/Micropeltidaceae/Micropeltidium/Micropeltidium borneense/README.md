@@ -1,5 +1,4 @@
-Micropeltidium borneense (P. Syd. & Syd.) Bat. SPECIES
-=======
+# Micropeltidium borneense (P. Syd. & Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

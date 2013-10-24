@@ -1,5 +1,4 @@
-Lactarius goossensiae Beeli SPECIES
-=======
+# Lactarius goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

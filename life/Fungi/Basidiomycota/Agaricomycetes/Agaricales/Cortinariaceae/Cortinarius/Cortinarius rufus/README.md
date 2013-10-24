@@ -1,5 +1,4 @@
-Cortinarius rufus M.M. Moser SPECIES
-=======
+# Cortinarius rufus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peridinella C.A. Kofoid & J.R. Michener, 1911 GENUS
-=======
+# Peridiniella Kofoid & Michener, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Mus. comp. Zool. Harvard, 54, 279.
 
 #### Original name
 null

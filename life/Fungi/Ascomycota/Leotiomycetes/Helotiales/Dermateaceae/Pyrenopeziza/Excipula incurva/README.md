@@ -1,5 +1,4 @@
-Excipula incurva Cooke SPECIES
-=======
+# Excipula incurva Cooke SPECIES
 
 #### Status
 ACCEPTED

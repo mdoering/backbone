@@ -1,5 +1,4 @@
-Cystidiodendron gossypinum Rick SPECIES
-=======
+# Cystidiodendron gossypinum Rick SPECIES
 
 #### Status
 ACCEPTED

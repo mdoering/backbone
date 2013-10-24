@@ -1,5 +1,4 @@
-Meliola orchidacearum Cif. SPECIES
-=======
+# Meliola orchidacearum Cif. SPECIES
 
 #### Status
 ACCEPTED

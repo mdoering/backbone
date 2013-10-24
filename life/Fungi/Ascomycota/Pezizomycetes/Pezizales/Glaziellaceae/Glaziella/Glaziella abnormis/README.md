@@ -1,5 +1,4 @@
-Glaziella abnormis (Berk.) Cooke SPECIES
-=======
+# Glaziella abnormis (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

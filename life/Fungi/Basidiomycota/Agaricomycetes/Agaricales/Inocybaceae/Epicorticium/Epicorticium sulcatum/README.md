@@ -1,5 +1,4 @@
-Epicorticium sulcatum (Velen.) Velen. SPECIES
-=======
+# Epicorticium sulcatum (Velen.) Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia opuntioides var. opuntioides VARIETY
-=======
+# Parmelia opuntioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miss. Sc. Cap Horn, Lich. 158 (1888)
 
 #### Original name
-Parmelia opuntioides var. opuntioides
+Parmelia opuntioides Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pionnotes GENUS
-=======
+# Pionnotes GENUS
 
 #### Status
 ACCEPTED

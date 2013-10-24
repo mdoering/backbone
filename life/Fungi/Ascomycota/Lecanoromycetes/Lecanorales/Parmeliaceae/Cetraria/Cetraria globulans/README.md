@@ -1,5 +1,4 @@
-Cetraria globulans (Nyl. ex Hue) Zahlbr. SPECIES
-=======
+# Cetraria globulans (Nyl. ex Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

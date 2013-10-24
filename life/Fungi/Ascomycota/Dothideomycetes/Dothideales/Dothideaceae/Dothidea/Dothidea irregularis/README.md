@@ -1,5 +1,4 @@
-Dothidea irregularis G.H. Otth SPECIES
-=======
+# Dothidea irregularis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

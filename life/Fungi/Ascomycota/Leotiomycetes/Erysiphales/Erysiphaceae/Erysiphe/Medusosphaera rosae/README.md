@@ -1,5 +1,4 @@
-Medusosphaera rosae Golovin & Gamalizk. SPECIES
-=======
+# Medusosphaera rosae Golovin & Gamalizk. SPECIES
 
 #### Status
 ACCEPTED

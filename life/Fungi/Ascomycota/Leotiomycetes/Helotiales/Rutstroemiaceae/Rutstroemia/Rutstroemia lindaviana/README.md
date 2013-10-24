@@ -1,14 +1,13 @@
-Lanzia lindaviana (Kirschst.) M.P. Sharma, 1985 SPECIES
-=======
+# Rutstroemia lindaviana (Kirschst.) Dennis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sharma & Sharma, Int. J. Mycol. Lichenol. 2(1): 108 (1985)
+British Cup Fungi & their Allies 65 (1960)
 
 #### Original name
 Sclerotinia lindaviana Kirschst., 1906

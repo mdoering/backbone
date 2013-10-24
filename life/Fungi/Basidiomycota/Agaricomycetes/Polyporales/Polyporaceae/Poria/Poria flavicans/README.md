@@ -1,14 +1,13 @@
-Polyporus flavicans (P. Karst.) Romell, 1911 SPECIES
-=======
+# Poria flavicans (P. Karst.) Sacc. & P. Syd., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 11: 25 (1911)
+Syll. fung. (Abellini) 14: 188 (1896)
 
 #### Original name
 Physisporus flavicans P. Karst., 1896

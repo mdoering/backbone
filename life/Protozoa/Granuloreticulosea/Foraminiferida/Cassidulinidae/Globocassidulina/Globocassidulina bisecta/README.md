@@ -1,5 +1,4 @@
-Globocassidulina bisecta Nomura, 1983 SPECIES
-=======
+# Globocassidulina bisecta Nomura, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta lysimachiae Oudem. SPECIES
-=======
+# Ascochyta lysimachiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

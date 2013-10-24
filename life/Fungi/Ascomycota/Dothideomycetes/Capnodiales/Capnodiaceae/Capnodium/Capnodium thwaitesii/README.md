@@ -1,5 +1,4 @@
-Capnodium thwaitesii Berk. SPECIES
-=======
+# Capnodium thwaitesii Berk. SPECIES
 
 #### Status
 ACCEPTED

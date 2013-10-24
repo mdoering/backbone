@@ -1,5 +1,4 @@
-Enterographa foliicola Matzer & Lücking SPECIES
-=======
+# Enterographa foliicola Matzer & Lücking SPECIES
 
 #### Status
 ACCEPTED

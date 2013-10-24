@@ -1,5 +1,4 @@
-Rubroporus aurantiaca Ryvarden, 2007 SPECIES
-=======
+# Rubroporus aurantiaca Ryvarden, 2007 SPECIES
 
 #### Status
 ACCEPTED

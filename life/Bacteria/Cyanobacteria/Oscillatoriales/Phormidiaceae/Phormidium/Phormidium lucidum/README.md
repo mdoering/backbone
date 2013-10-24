@@ -1,5 +1,4 @@
-Phormidium lucidum var. amoenum (Kützing) Playfair VARIETY
-=======
+# Phormidium lucidum Kützing ex Gomont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mahabalella B. Sutton & S.D. Patil GENUS
-=======
+# Mahabalella B. Sutton & S.D. Patil GENUS
 
 #### Status
 ACCEPTED

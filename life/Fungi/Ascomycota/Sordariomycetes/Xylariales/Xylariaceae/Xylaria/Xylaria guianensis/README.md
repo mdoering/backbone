@@ -1,5 +1,4 @@
-Xylaria guianensis (Mont.) Fr. SPECIES
-=======
+# Xylaria guianensis (Mont.) Fr. SPECIES
 
 #### Status
 ACCEPTED

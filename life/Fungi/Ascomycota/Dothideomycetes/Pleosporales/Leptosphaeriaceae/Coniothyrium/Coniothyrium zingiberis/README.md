@@ -1,5 +1,4 @@
-Coniothyrium zingiberis F. Stevens & Atienza SPECIES
-=======
+# Coniothyrium zingiberis F. Stevens & Atienza SPECIES
 
 #### Status
 ACCEPTED

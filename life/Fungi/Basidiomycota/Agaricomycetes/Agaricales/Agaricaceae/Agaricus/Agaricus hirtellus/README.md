@@ -1,5 +1,4 @@
-Agaricus hirtellus Fr. SPECIES
-=======
+# Agaricus hirtellus Fr. SPECIES
 
 #### Status
 ACCEPTED

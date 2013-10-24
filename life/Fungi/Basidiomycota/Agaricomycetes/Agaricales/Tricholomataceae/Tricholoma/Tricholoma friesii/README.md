@@ -1,5 +1,4 @@
-Tricholoma friesii Bres. SPECIES
-=======
+# Tricholoma friesii Bres. SPECIES
 
 #### Status
 ACCEPTED

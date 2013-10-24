@@ -1,5 +1,4 @@
-Caronia silvestrii Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
-=======
+# Caronia silvestrii Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemmatomyces panamensis Thaxt. SPECIES
-=======
+# Stemmatomyces panamensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

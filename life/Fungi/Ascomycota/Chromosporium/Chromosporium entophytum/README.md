@@ -1,5 +1,4 @@
-Chromosporium entophytum (Corda) Sacc. SPECIES
-=======
+# Chromosporium entophytum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

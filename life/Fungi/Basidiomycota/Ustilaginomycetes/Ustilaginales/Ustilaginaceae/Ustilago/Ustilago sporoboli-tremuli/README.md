@@ -1,5 +1,4 @@
-Ustilago sporoboli-tremuli T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Ustilago sporoboli-tremuli T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

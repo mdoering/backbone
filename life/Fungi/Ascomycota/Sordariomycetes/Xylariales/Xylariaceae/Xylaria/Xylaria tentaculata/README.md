@@ -1,5 +1,4 @@
-Xylaria tentaculata Berk. & Broome SPECIES
-=======
+# Xylaria tentaculata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

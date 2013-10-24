@@ -1,5 +1,4 @@
-Gluconacetobacter europaeus (Sievers et al., 1992) Yamada et al., 1998 SPECIES
-=======
+# Gluconacetobacter europaeus (Sievers et al., 1992) Yamada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

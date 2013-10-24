@@ -1,5 +1,4 @@
-Citromyces rubescens Sopp SPECIES
-=======
+# Citromyces rubescens Sopp SPECIES
 
 #### Status
 ACCEPTED

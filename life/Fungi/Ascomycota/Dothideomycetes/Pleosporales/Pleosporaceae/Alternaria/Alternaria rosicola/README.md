@@ -1,5 +1,4 @@
-Alternaria rosicola (V.G. Rao) T.Y. Zhang & Y.L. Guo SPECIES
-=======
+# Alternaria rosicola (V.G. Rao) T.Y. Zhang & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeostagonospora muhlenbergiae Punith., 1981 SPECIES
-=======
+# Clypeostagonospora muhlenbergiae Punith., 1981 SPECIES
 
 #### Status
 ACCEPTED

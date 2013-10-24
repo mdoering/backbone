@@ -1,17 +1,16 @@
-Uredo colebrookiae Barclay SPECIES
-=======
+# Olivea colebrookiana Thirum. & Yadav, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 8: 144 (1955)
 
 #### Original name
-Uredo colebrookiae Barclay
+Olivea colebrookiana Thirum. & Yadav, 1956
 
 ### Remarks
 null

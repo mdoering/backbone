@@ -1,8 +1,7 @@
-Gonostomatidae Small & Lynn, 1985 FAMILY
-=======
+# Gonostomidae Culberson, 1986 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

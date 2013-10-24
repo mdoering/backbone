@@ -1,5 +1,4 @@
-Phyllosticta polygoni-avicularis Petr. SPECIES
-=======
+# Phyllosticta polygoni-avicularis Petr. SPECIES
 
 #### Status
 ACCEPTED

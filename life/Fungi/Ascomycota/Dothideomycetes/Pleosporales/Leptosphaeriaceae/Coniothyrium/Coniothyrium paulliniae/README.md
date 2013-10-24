@@ -1,5 +1,4 @@
-Coniothyrium paulliniae Bat. & J.L. Bezerra SPECIES
-=======
+# Coniothyrium paulliniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

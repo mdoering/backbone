@@ -1,5 +1,4 @@
-Caloplaca durietzii H. Magn. SPECIES
-=======
+# Caloplaca durietzii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

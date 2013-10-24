@@ -1,5 +1,4 @@
-Colwellia piezophila Nogi et al., 2004 SPECIES
-=======
+# Colwellia piezophila Nogi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

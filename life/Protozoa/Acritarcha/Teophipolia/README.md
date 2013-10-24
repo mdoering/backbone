@@ -1,5 +1,4 @@
-Teophipolia V.V. Kirjanov in B.M. Keller & A. Yu. Rozanov, 1979 GENUS
-=======
+# Teophipolia V.V. Kirjanov in B.M. Keller & A. Yu. Rozanov, 1979 GENUS
 
 #### Status
 ACCEPTED

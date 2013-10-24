@@ -1,8 +1,7 @@
-Oscillatoria terebriformis var. beggiatoiformis Grunow VARIETY
-=======
+# Oscillatoria beggiatoiformis (Grunow) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

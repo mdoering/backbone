@@ -1,5 +1,4 @@
-Lophidium scorpii Fabre SPECIES
-=======
+# Lophidium scorpii Fabre SPECIES
 
 #### Status
 ACCEPTED

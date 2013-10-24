@@ -1,5 +1,4 @@
-Planococcaceae FAMILY
-=======
+# Planococcaceae FAMILY
 
 #### Status
 ACCEPTED

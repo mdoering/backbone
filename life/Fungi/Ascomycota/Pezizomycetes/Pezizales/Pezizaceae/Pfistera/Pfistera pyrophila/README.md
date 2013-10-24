@@ -1,5 +1,4 @@
-Pfistera pyrophila Korf & W.Y. Zhuang SPECIES
-=======
+# Pfistera pyrophila Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria occultata Fr. SPECIES
-=======
+# Sphaeria occultata Fr. SPECIES
 
 #### Status
 ACCEPTED

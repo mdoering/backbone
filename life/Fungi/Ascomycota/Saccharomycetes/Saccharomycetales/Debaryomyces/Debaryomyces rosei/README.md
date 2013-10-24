@@ -1,5 +1,4 @@
-Debaryomyces rosei (Guillierm.) Kudryavtsev SPECIES
-=======
+# Debaryomyces rosei (Guillierm.) Kudryavtsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neopeckia Sacc. GENUS
-=======
+# Neopeckia Sacc. GENUS
 
 #### Status
 ACCEPTED

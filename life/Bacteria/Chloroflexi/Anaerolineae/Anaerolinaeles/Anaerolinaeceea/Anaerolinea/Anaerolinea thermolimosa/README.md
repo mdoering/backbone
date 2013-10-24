@@ -1,5 +1,4 @@
-Anaerolinea thermolimosa Yamada et al., 2006 SPECIES
-=======
+# Anaerolinea thermolimosa Yamada et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

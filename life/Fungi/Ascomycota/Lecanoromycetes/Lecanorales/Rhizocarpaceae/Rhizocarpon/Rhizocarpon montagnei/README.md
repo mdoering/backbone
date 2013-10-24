@@ -1,5 +1,4 @@
-Rhizocarpon montagnei Körb. SPECIES
-=======
+# Rhizocarpon montagnei Körb. SPECIES
 
 #### Status
 ACCEPTED

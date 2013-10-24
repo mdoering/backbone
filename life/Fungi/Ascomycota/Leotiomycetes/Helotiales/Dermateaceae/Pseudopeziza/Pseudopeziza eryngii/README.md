@@ -1,5 +1,4 @@
-Pseudopeziza eryngii Viégas SPECIES
-=======
+# Pseudopeziza eryngii Viégas SPECIES
 
 #### Status
 ACCEPTED

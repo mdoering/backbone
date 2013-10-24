@@ -1,5 +1,4 @@
-Pterygiopsis convoluta Henssen SPECIES
-=======
+# Pterygiopsis convoluta Henssen SPECIES
 
 #### Status
 ACCEPTED

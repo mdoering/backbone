@@ -1,5 +1,4 @@
-Puccinia ranunculi A. Blytt SPECIES
-=======
+# Puccinia ranunculi A. Blytt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbe eichelbaumiana Henn. SPECIES
-=======
+# Sphaerostilbe eichelbaumiana Henn. SPECIES
 
 #### Status
 ACCEPTED

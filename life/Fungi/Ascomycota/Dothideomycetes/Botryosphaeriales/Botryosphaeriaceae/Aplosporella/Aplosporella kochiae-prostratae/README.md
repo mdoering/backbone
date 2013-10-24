@@ -1,17 +1,16 @@
-Aplosporella kochiae-prostrata Savul. & Sandu SPECIES
-=======
+# Aplosporella kochiae-prostratae Savul. & Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 73: 100 (1933)
 
 #### Original name
-Aplosporella kochiae-prostrata Savul. & Sandu
+Aplosporella kochiae-prostratae Savul. & Sandu
 
 ### Remarks
 null

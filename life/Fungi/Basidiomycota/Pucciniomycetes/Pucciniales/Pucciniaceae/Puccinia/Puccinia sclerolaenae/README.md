@@ -1,5 +1,4 @@
-Puccinia sclerolaenae Massee SPECIES
-=======
+# Puccinia sclerolaenae Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia chaetomioides Griffiths SPECIES
-=======
+# Sporormia chaetomioides Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia aurea Fr. SPECIES
-=======
+# Parmelia aurea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Odontia pruni f. pruni FORM
-=======
+# Odontia pruni SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-in Rabenhorst, Klotzsch Herb. Myc. no. 1915 (1851)
+null
 
 #### Original name
-Odontia pruni f. pruni
+null
 
 ### Remarks
 null

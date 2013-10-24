@@ -1,5 +1,4 @@
-Amerodothis molluginis (Höhn.) Theiss. & Syd. SPECIES
-=======
+# Amerodothis molluginis (Höhn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

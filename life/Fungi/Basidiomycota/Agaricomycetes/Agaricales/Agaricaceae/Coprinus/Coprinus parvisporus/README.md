@@ -1,5 +1,4 @@
-Coprinus parvisporus Buller SPECIES
-=======
+# Coprinus parvisporus Buller SPECIES
 
 #### Status
 ACCEPTED

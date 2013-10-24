@@ -1,5 +1,4 @@
-Sargassum bryantii Setchell & Gardner SPECIES
-=======
+# Sargassum bryantii Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

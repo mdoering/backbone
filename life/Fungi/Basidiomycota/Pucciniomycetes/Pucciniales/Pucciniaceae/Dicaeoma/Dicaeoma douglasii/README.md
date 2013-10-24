@@ -1,5 +1,4 @@
-Dicaeoma douglasii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma douglasii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

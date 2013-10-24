@@ -1,5 +1,4 @@
-Lyonella Sydow, 1925 GENUS
-=======
+# Lyonella Sydow, 1925 GENUS
 
 #### Status
 ACCEPTED

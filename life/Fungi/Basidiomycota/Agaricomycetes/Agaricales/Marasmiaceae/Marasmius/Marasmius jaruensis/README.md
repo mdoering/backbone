@@ -1,5 +1,4 @@
-Marasmius jaruensis Capelari & Maziero SPECIES
-=======
+# Marasmius jaruensis Capelari & Maziero SPECIES
 
 #### Status
 ACCEPTED

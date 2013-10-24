@@ -1,5 +1,4 @@
-Squamaria GENUS
-=======
+# Squamaria GENUS
 
 #### Status
 ACCEPTED

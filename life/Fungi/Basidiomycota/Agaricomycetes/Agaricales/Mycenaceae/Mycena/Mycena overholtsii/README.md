@@ -1,5 +1,4 @@
-Mycena overholtsii A.H. Sm. & Solheim, 1953 SPECIES
-=======
+# Mycena overholtsii A.H. Sm. & Solheim, 1953 SPECIES
 
 #### Status
 ACCEPTED

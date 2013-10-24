@@ -1,5 +1,4 @@
-Lepiota roseifulva Murrill SPECIES
-=======
+# Lepiota roseifulva Murrill SPECIES
 
 #### Status
 ACCEPTED

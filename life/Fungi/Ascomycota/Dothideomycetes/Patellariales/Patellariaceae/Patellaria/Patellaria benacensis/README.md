@@ -1,5 +1,4 @@
-Patellaria benacensis (A. Massal.) Trevis. SPECIES
-=======
+# Patellaria benacensis (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

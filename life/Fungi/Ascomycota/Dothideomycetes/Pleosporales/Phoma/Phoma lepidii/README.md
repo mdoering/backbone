@@ -1,5 +1,4 @@
-Phoma lepidii (Sacc.) Allesch. SPECIES
-=======
+# Phoma lepidii (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

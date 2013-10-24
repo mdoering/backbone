@@ -1,5 +1,4 @@
-Lachnea epixyla Bacc. SPECIES
-=======
+# Lachnea epixyla Bacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta catalpae Ellis & G. Martin SPECIES
-=======
+# Phyllosticta catalpae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

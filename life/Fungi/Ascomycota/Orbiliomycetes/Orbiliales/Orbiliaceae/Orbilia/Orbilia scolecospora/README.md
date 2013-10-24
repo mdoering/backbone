@@ -1,5 +1,4 @@
-Orbilia scolecospora (G.W. Beaton) Baral SPECIES
-=======
+# Orbilia scolecospora (G.W. Beaton) Baral SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria homoeophylla (Nyl.) C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria homoeophylla (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

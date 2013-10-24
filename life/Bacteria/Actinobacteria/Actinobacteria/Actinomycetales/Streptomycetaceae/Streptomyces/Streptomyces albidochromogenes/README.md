@@ -1,5 +1,4 @@
-Streptomyces albidochromogenes Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces albidochromogenes Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

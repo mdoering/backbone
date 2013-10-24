@@ -1,17 +1,16 @@
-Clavulina copiosa-cystidiata R.H. Petersen SPECIES
-=======
+# Clavulina copiosocystidiata R.H. Petersen, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 236: 59 (1988)
 
 #### Original name
-Clavulina copiosa-cystidiata R.H. Petersen
+Clavulina copiosocystidiata R.H. Petersen, 1988
 
 ### Remarks
 null

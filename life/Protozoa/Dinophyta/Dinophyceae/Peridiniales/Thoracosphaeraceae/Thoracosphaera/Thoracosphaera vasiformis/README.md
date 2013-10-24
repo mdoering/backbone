@@ -1,5 +1,4 @@
-Thoracosphaera vasiformis Chongyou Wang SPECIES
-=======
+# Thoracosphaera vasiformis Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

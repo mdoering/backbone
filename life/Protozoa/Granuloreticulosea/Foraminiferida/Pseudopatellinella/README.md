@@ -1,5 +1,4 @@
-Pseudopatellinella Takayanagi, 1960 GENUS
-=======
+# Pseudopatellinella Takayanagi, 1960 GENUS
 
 #### Status
 ACCEPTED

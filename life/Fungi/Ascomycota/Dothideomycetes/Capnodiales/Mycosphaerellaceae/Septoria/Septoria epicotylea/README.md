@@ -1,5 +1,4 @@
-Septoria epicotylea Sacc. SPECIES
-=======
+# Septoria epicotylea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pandani Tilak SPECIES
-=======
+# Mycosphaerella pandani Tilak SPECIES
 
 #### Status
 ACCEPTED

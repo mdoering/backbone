@@ -1,5 +1,4 @@
-Dothidasteromella parvispora (Luttr. & Muthappa) Inácio & P.F. Cannon SPECIES
-=======
+# Dothidasteromella parvispora (Luttr. & Muthappa) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

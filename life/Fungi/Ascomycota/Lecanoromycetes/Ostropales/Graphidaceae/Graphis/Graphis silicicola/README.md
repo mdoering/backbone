@@ -1,5 +1,4 @@
-Graphis silicicola Redinger SPECIES
-=======
+# Graphis silicicola Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon cirrhatum Bull. SPECIES
-=======
+# Hypoxylon cirrhatum Bull. SPECIES
 
 #### Status
 ACCEPTED

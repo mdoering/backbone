@@ -1,5 +1,4 @@
-Vitalia rickiana (Theiss.) Bat. & Cif. SPECIES
-=======
+# Vitalia rickiana (Theiss.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

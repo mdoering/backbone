@@ -1,5 +1,4 @@
-Ophiobolus trechisporus Ellis & Everh. SPECIES
-=======
+# Ophiobolus trechisporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monographella maydis E. Müll. & Samuels SPECIES
-=======
+# Monographella maydis E. Müll. & Samuels SPECIES
 
 #### Status
 ACCEPTED

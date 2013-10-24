@@ -1,5 +1,4 @@
-Pseudodiplodia thymi (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia thymi (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

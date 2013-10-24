@@ -1,14 +1,13 @@
-Clavaria afflata Lagger, 1836 SPECIES
-=======
+# Lentaria afflata (Lagger) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Sporovykh Rastenii Kazakhstana [Cryptogamic Flora of Kazakhstan], 7, [Fungi Imperfecti, Melanconiales] (Alma-Ata) (Alma-Ata) 19: 231 (1836)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 438 (1950)
 
 #### Original name
 Clavaria afflata Lagger, 1836

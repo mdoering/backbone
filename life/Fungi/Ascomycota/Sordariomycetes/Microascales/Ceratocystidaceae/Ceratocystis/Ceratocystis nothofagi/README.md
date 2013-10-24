@@ -1,14 +1,13 @@
-Ophiostoma nothofagi (Butin) Rulamort, 1986 SPECIES
-=======
+# Ceratocystis nothofagi Butin, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. 17: 192 (1986)
+in Butin & Aquilar, Palaeontologische Zeitschrift 109(1): 84 (1984)
 
 #### Original name
 Ceratocystis nothofagi Butin, 1984

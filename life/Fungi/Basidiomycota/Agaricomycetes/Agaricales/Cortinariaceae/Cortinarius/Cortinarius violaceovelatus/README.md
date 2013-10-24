@@ -1,5 +1,4 @@
-Cortinarius violaceovelatus D.A. Reid & Rob. Henry, 1961 SPECIES
-=======
+# Cortinarius violaceovelatus D.A. Reid & Rob. Henry, 1961 SPECIES
 
 #### Status
 ACCEPTED

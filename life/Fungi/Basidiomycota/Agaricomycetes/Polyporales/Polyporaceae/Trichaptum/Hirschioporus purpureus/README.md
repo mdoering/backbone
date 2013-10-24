@@ -1,14 +1,13 @@
-Trichaptum purpureum (Yasuda) Imazeki, 1989 SPECIES
-=======
+# Hirschioporus purpureus (Yasuda) Imazeki, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Colored Illustrations of Mushrooms of Japan (Osaka), Vol. <b>2</b> 160 (1989)
+Mycol. Fl. Japan 2(4): 260 (1955)
 
 #### Original name
 Irpex purpureus Yasuda, 1919

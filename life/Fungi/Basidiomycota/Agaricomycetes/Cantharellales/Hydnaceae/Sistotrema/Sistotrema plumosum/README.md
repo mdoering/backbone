@@ -1,5 +1,4 @@
-Sistotrema plumosum Pers. SPECIES
-=======
+# Sistotrema plumosum Pers. SPECIES
 
 #### Status
 ACCEPTED

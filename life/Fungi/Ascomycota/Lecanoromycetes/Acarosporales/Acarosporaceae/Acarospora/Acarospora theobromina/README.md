@@ -1,5 +1,4 @@
-Acarospora theobromina Hue SPECIES
-=======
+# Acarospora theobromina Hue SPECIES
 
 #### Status
 ACCEPTED

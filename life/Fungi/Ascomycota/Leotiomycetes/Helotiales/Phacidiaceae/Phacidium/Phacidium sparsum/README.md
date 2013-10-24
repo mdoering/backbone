@@ -1,5 +1,4 @@
-Phacidium sparsum Peck SPECIES
-=======
+# Phacidium sparsum Peck SPECIES
 
 #### Status
 ACCEPTED

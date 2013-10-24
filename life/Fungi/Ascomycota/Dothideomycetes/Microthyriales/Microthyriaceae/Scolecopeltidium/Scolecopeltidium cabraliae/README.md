@@ -1,5 +1,4 @@
-Scolecopeltidium cabraliae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium cabraliae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

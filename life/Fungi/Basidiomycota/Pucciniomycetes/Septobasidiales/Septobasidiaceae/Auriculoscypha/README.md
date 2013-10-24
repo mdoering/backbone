@@ -1,5 +1,4 @@
-Auriculoscypha D.A. Reid & Manim. GENUS
-=======
+# Auriculoscypha D.A. Reid & Manim. GENUS
 
 #### Status
 ACCEPTED

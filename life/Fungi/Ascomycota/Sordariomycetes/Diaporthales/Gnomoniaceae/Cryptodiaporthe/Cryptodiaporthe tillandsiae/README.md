@@ -1,5 +1,4 @@
-Cryptodiaporthe tillandsiae (Speg.) Wehm. SPECIES
-=======
+# Cryptodiaporthe tillandsiae (Speg.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

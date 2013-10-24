@@ -1,5 +1,4 @@
-Dicaeoma delphinii (Dietel & Holw.) Kuntze SPECIES
-=======
+# Dicaeoma delphinii (Dietel & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

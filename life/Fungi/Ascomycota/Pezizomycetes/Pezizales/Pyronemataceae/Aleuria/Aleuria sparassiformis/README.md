@@ -1,5 +1,4 @@
-Aleuria sparassiformis Henn. SPECIES
-=======
+# Aleuria sparassiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

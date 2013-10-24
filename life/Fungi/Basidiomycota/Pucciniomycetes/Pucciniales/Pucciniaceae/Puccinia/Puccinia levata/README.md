@@ -1,5 +1,4 @@
-Puccinia levata J.F. Hennen & Hodges SPECIES
-=======
+# Puccinia levata J.F. Hennen & Hodges SPECIES
 
 #### Status
 ACCEPTED

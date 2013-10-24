@@ -1,5 +1,4 @@
-Sclerotinia adusta P. Karst. SPECIES
-=======
+# Sclerotinia adusta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

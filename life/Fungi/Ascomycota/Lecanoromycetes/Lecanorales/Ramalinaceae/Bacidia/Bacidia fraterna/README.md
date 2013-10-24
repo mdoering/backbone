@@ -1,5 +1,4 @@
-Bacidia fraterna Anzi SPECIES
-=======
+# Bacidia fraterna Anzi SPECIES
 
 #### Status
 ACCEPTED

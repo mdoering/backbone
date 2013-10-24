@@ -1,5 +1,4 @@
-Mycoderma malti-juniperini Desm. SPECIES
-=======
+# Mycoderma malti-juniperini Desm. SPECIES
 
 #### Status
 ACCEPTED

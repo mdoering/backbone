@@ -1,14 +1,13 @@
-Peckiella polyporina (Peck) Sacc., 1891 SPECIES
-=======
+# Hypomyces polyporinus Peck, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 945 (1891)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 84 (1874)
 
 #### Original name
 Hypomyces polyporinus Peck, 1874

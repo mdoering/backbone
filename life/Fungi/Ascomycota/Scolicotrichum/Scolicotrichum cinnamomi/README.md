@@ -1,5 +1,4 @@
-Scolicotrichum cinnamomi Racib. SPECIES
-=======
+# Scolicotrichum cinnamomi Racib. SPECIES
 
 #### Status
 ACCEPTED

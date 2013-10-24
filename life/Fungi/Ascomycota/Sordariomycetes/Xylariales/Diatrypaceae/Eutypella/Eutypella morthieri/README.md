@@ -1,5 +1,4 @@
-Eutypella morthieri Sacc. SPECIES
-=======
+# Eutypella morthieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

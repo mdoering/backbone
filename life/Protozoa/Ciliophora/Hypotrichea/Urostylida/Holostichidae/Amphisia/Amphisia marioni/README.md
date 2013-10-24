@@ -1,5 +1,4 @@
-Amphisia marioni SPECIES
-=======
+# Amphisia marioni SPECIES
 
 #### Status
 ACCEPTED

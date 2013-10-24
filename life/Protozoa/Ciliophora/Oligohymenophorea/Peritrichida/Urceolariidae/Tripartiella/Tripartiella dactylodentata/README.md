@@ -1,5 +1,4 @@
-Tripartiella dactylodentata Al-Rasheid, Ali, Sakranc, Abdel Bakic & Abdel Ghaffar, 2000 SPECIES
-=======
+# Tripartiella dactylodentata Al-Rasheid, Ali, Sakranc, Abdel Bakic & Abdel Ghaffar, 2000 SPECIES
 
 #### Status
 ACCEPTED

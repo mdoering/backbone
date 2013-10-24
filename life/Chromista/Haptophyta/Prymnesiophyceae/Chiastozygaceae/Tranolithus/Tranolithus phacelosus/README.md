@@ -1,5 +1,4 @@
-Tranolithus phacelosus Stover, 1966 SPECIES
-=======
+# Tranolithus phacelosus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

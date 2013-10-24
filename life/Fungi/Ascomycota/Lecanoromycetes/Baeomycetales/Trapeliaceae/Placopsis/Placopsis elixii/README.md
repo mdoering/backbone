@@ -1,5 +1,4 @@
-Placopsis elixii D. J. Galloway SPECIES
-=======
+# Placopsis elixii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

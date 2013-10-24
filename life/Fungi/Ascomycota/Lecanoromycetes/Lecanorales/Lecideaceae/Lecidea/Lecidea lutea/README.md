@@ -1,5 +1,4 @@
-Lecidea lutea SPECIES
-=======
+# Lecidea lutea SPECIES
 
 #### Status
 ACCEPTED

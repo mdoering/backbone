@@ -1,5 +1,4 @@
-Phoma donacella (Thüm.) Sacc. SPECIES
-=======
+# Phoma donacella (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

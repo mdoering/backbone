@@ -1,5 +1,4 @@
-Russula primaverna Fatto SPECIES
-=======
+# Russula primaverna Fatto SPECIES
 
 #### Status
 ACCEPTED

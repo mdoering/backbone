@@ -1,5 +1,4 @@
-Meliola capnodioides Thüm. SPECIES
-=======
+# Meliola capnodioides Thüm. SPECIES
 
 #### Status
 ACCEPTED

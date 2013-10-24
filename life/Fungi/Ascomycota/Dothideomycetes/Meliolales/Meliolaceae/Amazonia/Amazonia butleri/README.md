@@ -1,5 +1,4 @@
-Amazonia butleri (Syd. & P. Syd.) F. Stevens SPECIES
-=======
+# Amazonia butleri (Syd. & P. Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

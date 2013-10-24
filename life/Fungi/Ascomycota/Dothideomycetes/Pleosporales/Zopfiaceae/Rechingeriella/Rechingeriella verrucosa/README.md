@@ -1,5 +1,4 @@
-Rechingeriella verrucosa (Urries) Petr. SPECIES
-=======
+# Rechingeriella verrucosa (Urries) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peccania kansana (Tuck.) Forssell SPECIES
-=======
+# Peccania kansana (Tuck.) Forssell SPECIES
 
 #### Status
 ACCEPTED

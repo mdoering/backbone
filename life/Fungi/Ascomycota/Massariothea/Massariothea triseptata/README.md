@@ -1,5 +1,4 @@
-Massariothea triseptata Alcorn, 1993 SPECIES
-=======
+# Massariothea triseptata Alcorn, 1993 SPECIES
 
 #### Status
 ACCEPTED

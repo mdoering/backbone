@@ -1,5 +1,4 @@
-Leptonia mycenoides Velen. SPECIES
-=======
+# Leptonia mycenoides Velen. SPECIES
 
 #### Status
 ACCEPTED

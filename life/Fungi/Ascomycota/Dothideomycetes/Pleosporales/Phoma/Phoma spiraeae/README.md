@@ -1,5 +1,4 @@
-Phoma spiraeae Desm. SPECIES
-=======
+# Phoma spiraeae Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria ferryi Quél. & Fautrey SPECIES
-=======
+# Pistillaria ferryi Quél. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis tabernaemontanifolii Bat. SPECIES
-=======
+# Micropeltis tabernaemontanifolii Bat. SPECIES
 
 #### Status
 ACCEPTED

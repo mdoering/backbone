@@ -1,5 +1,4 @@
-Leccinum alboroseolum (J. Blum) Lannoy & Estadès SPECIES
-=======
+# Leccinum alboroseolum (J. Blum) Lannoy & Estadès SPECIES
 
 #### Status
 ACCEPTED

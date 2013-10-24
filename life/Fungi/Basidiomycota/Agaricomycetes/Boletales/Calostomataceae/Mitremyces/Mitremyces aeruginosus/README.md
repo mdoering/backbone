@@ -1,5 +1,4 @@
-Mitremyces aeruginosus (Massee) Sacc. SPECIES
-=======
+# Mitremyces aeruginosus (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

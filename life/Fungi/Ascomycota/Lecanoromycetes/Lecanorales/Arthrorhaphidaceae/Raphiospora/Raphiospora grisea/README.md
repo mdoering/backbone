@@ -1,5 +1,4 @@
-Raphiospora grisea Th. Fr. SPECIES
-=======
+# Raphiospora grisea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

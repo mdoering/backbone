@@ -1,5 +1,4 @@
-Lachnum dasiphorae (Raitv.) Raitv. SPECIES
-=======
+# Lachnum dasiphorae (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

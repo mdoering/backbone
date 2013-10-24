@@ -1,5 +1,4 @@
-Clitocybe steppicola Singer SPECIES
-=======
+# Clitocybe steppicola Singer SPECIES
 
 #### Status
 ACCEPTED

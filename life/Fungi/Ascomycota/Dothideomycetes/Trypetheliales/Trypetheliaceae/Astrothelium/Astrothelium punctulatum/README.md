@@ -1,5 +1,4 @@
-Astrothelium punctulatum Malme SPECIES
-=======
+# Astrothelium punctulatum Malme SPECIES
 
 #### Status
 ACCEPTED

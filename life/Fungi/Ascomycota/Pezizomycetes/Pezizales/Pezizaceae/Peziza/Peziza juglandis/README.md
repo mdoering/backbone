@@ -1,5 +1,4 @@
-Peziza juglandis Preuss SPECIES
-=======
+# Peziza juglandis Preuss SPECIES
 
 #### Status
 ACCEPTED

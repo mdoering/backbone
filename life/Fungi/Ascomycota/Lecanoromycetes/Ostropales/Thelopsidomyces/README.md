@@ -1,5 +1,4 @@
-Thelopsidomyces GENUS
-=======
+# Thelopsidomyces GENUS
 
 #### Status
 ACCEPTED

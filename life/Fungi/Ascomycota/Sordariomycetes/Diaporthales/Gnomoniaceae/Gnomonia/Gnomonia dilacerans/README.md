@@ -1,5 +1,4 @@
-Gnomonia dilacerans Rehm SPECIES
-=======
+# Gnomonia dilacerans Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitaria pubescens (Schwein.) E.-J. Gilbert SPECIES
-=======
+# Amanitaria pubescens (Schwein.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

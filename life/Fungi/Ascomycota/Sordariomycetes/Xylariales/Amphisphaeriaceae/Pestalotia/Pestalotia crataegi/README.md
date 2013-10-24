@@ -1,5 +1,4 @@
-Pestalotia crataegi Ellis & Everh. SPECIES
-=======
+# Pestalotia crataegi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Selenidium caulleryi Brasil, 1907 SPECIES
-=======
+# Selenidioides caulleryi Brasil, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

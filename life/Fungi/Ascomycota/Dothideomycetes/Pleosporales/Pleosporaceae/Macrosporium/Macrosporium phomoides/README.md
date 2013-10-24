@@ -1,5 +1,4 @@
-Macrosporium phomoides Thüm. SPECIES
-=======
+# Macrosporium phomoides Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulveroboletus corrugatus (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Pulveroboletus corrugatus (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

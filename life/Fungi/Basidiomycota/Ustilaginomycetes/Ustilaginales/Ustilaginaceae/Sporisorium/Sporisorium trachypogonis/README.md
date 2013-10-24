@@ -1,5 +1,4 @@
-Sporisorium trachypogonis (Zundel) Vánky SPECIES
-=======
+# Sporisorium trachypogonis (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

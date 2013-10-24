@@ -1,17 +1,16 @@
-Cladonia peltastica var. peltastica (Nyl.) Müll. Arg. VARIETY
-=======
+# Cladonia peltastica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 63: 260 (1880)
+null
 
 #### Original name
-Cladonia peltastica var. peltastica (Nyl.) Müll. Arg.
+null
 
 ### Remarks
 null

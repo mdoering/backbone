@@ -1,5 +1,4 @@
-Helotium polystichi E.K. Cash SPECIES
-=======
+# Helotium polystichi E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

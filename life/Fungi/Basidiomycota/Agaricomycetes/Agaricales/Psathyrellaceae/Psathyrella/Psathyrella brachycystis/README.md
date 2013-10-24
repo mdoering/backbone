@@ -1,5 +1,4 @@
-Psathyrella brachycystis A.H. Sm. SPECIES
-=======
+# Psathyrella brachycystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

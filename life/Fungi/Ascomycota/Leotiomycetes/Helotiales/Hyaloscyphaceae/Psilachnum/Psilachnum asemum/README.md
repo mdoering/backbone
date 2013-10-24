@@ -1,17 +1,16 @@
-Lachnum helotioides var. helotioides VARIETY
-=======
+# Psilachnum asemum (W. Phillips) Dennis, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 17(2): 326 (1963)
 
 #### Original name
-Lachnum helotioides var. helotioides
+Lachnella asema W. Phillips, 1891
 
 ### Remarks
 null

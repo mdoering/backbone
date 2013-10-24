@@ -1,5 +1,4 @@
-Trogia caryotae Pat. SPECIES
-=======
+# Trogia caryotae Pat. SPECIES
 
 #### Status
 ACCEPTED

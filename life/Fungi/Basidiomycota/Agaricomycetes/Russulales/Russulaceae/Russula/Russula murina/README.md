@@ -1,5 +1,4 @@
-Russula murina Burl. SPECIES
-=======
+# Russula murina Burl. SPECIES
 
 #### Status
 ACCEPTED

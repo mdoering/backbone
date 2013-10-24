@@ -1,5 +1,4 @@
-"Globigerina trilocularis D' Orbigny" SPECIES
-=======
+# "Globigerina trilocularis D' Orbigny" SPECIES
 
 #### Status
 ACCEPTED

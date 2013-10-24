@@ -1,5 +1,4 @@
-Archidiscus Haeckel, 1887 GENUS
-=======
+# Archidiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

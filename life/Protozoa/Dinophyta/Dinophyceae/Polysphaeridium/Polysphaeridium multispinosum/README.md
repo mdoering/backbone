@@ -1,5 +1,4 @@
-Polysphaeridium multispinosum R. J. Davey SPECIES
-=======
+# Polysphaeridium multispinosum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pulchrifolia (Peck) Murrill SPECIES
-=======
+# Mycena pulchrifolia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium rigidum Schwein. SPECIES
-=======
+# Podosporium rigidum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber nigrum Allioni {?} SPECIES
-=======
+# Tuber nigrum Allioni {?} SPECIES
 
 #### Status
 ACCEPTED

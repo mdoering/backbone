@@ -1,5 +1,4 @@
-Asterina cuticulosa Cooke SPECIES
-=======
+# Asterina cuticulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

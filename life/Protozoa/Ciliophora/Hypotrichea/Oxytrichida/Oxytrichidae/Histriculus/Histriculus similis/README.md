@@ -1,8 +1,7 @@
-Histrio similis Quennerstedt, 1867 SPECIES
-=======
+# Histriculus similis (Quennerstedt, 1867) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

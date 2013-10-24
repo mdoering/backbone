@@ -1,5 +1,4 @@
-Lipomyces doorenjongii Van der Walt & M.T. Sm., 1999 SPECIES
-=======
+# Lipomyces doorenjongii Van der Walt & M.T. Sm., 1999 SPECIES
 
 #### Status
 ACCEPTED

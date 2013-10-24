@@ -1,5 +1,4 @@
-Alytosporium jubatum (Link) Steud. SPECIES
-=======
+# Alytosporium jubatum (Link) Steud. SPECIES
 
 #### Status
 ACCEPTED

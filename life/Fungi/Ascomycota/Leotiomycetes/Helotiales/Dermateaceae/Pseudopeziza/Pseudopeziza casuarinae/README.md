@@ -1,5 +1,4 @@
-Pseudopeziza casuarinae Rodway SPECIES
-=======
+# Pseudopeziza casuarinae Rodway SPECIES
 
 #### Status
 ACCEPTED

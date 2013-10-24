@@ -1,5 +1,4 @@
-Russula coccinea Massee SPECIES
-=======
+# Russula coccinea Massee SPECIES
 
 #### Status
 ACCEPTED

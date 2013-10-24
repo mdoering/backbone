@@ -1,5 +1,4 @@
-Pleospora cistorum Rolland SPECIES
-=======
+# Pleospora cistorum Rolland SPECIES
 
 #### Status
 ACCEPTED

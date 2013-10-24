@@ -1,5 +1,4 @@
-Bovistina GENUS
-=======
+# Bovistina GENUS
 
 #### Status
 ACCEPTED

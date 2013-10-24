@@ -1,5 +1,4 @@
-Pratella pratensis (Schaeff.) Gillet SPECIES
-=======
+# Pratella pratensis (Schaeff.) Gillet SPECIES
 
 #### Status
 ACCEPTED

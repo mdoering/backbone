@@ -1,5 +1,4 @@
-Stilbothamnium usneoides Syd. & P. Syd. SPECIES
-=======
+# Stilbothamnium usneoides Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

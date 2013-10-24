@@ -1,5 +1,4 @@
-Pleospora werthiana Henn. SPECIES
-=======
+# Pleospora werthiana Henn. SPECIES
 
 #### Status
 ACCEPTED

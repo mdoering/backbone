@@ -1,5 +1,4 @@
-Pachysphaeridium balticum (Eisenack, 1951) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium balticum (Eisenack, 1951) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

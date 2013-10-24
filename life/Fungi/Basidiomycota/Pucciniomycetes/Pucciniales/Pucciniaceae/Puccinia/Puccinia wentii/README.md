@@ -1,5 +1,4 @@
-Puccinia wentii Gäum. SPECIES
-=======
+# Puccinia wentii Gäum. SPECIES
 
 #### Status
 ACCEPTED

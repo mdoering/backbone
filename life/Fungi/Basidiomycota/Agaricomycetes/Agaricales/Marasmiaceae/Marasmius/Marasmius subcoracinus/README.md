@@ -1,5 +1,4 @@
-Marasmius subcoracinus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius subcoracinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

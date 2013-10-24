@@ -1,5 +1,4 @@
-Botryosphaeria phyllachoroidea Penz. & Sacc. SPECIES
-=======
+# Botryosphaeria phyllachoroidea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

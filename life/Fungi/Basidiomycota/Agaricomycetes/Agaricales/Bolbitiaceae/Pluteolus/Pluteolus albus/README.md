@@ -1,5 +1,4 @@
-Pluteolus albus (Peck) Murrill SPECIES
-=======
+# Pluteolus albus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fomes mangrovicus Imazeki, 1941 SPECIES
-=======
+# Phellinus mangrovicus (Imazeki) Imazeki, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Gov. Forest Exp. St. Tokyo 57: 114 (1952)
 
 #### Original name
-null
+Fomes mangrovicus Imazeki, 1941
 
 ### Remarks
 null

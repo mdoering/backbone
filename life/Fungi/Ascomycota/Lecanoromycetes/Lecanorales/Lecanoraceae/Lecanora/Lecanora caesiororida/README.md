@@ -1,5 +1,4 @@
-Lecanora caesiororida Zahlbr. SPECIES
-=======
+# Lecanora caesiororida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

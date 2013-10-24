@@ -1,5 +1,4 @@
-Arthonia phaeonephela Nyl. SPECIES
-=======
+# Arthonia phaeonephela Nyl. SPECIES
 
 #### Status
 ACCEPTED

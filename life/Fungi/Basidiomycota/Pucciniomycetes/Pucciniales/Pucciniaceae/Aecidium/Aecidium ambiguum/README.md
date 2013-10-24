@@ -1,5 +1,4 @@
-Aecidium ambiguum Alb. & Schwein. SPECIES
-=======
+# Aecidium ambiguum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

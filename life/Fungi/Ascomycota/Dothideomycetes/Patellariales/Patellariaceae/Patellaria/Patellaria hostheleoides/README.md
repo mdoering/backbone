@@ -1,5 +1,4 @@
-Patellaria hostheleoides (Nyl.) SPECIES
-=======
+# Patellaria hostheleoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

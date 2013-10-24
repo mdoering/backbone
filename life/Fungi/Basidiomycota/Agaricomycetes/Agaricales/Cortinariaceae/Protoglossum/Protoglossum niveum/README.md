@@ -1,14 +1,13 @@
-Hymenogaster niveus Vittad., 1831 SPECIES
-=======
+# Protoglossum niveum (Vittad.) T.W. May, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Tuberac. (Milano) 24 (1831)
+Muelleria 8(3): 287 (1995)
 
 #### Original name
 Hymenogaster niveus Vittad., 1831

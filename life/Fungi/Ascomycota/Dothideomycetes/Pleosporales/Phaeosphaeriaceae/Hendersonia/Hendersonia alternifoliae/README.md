@@ -1,5 +1,4 @@
-Hendersonia alternifoliae Ellis & Everh. SPECIES
-=======
+# Hendersonia alternifoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

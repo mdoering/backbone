@@ -1,5 +1,4 @@
-Lepiota earochroa (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota earochroa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

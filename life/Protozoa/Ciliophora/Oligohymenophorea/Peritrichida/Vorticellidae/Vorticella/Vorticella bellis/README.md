@@ -1,5 +1,4 @@
-Vorticella bellis Muller, 1773 SPECIES
-=======
+# Vorticella bellis Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

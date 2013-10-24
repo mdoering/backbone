@@ -1,5 +1,4 @@
-Nonomuraea kuesteri Kämpfer et al., 2005 SPECIES
-=======
+# Nonomuraea kuesteri Kämpfer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

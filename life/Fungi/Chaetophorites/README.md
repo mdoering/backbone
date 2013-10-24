@@ -1,5 +1,4 @@
-Chaetophorites Pratje, 1922 GENUS
-=======
+# Chaetophorites Pratje, 1922 GENUS
 
 #### Status
 ACCEPTED

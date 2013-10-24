@@ -1,5 +1,4 @@
-Gloeosporium camphorae Sacc. SPECIES
-=======
+# Gloeosporium camphorae Sacc. SPECIES
 
 #### Status
 ACCEPTED

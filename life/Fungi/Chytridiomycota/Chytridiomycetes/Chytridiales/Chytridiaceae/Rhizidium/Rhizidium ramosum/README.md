@@ -1,5 +1,4 @@
-Rhizidium ramosum Sparrow SPECIES
-=======
+# Rhizidium ramosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

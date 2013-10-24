@@ -1,5 +1,4 @@
-Paulia gibbosa Henssen SPECIES
-=======
+# Paulia gibbosa Henssen SPECIES
 
 #### Status
 ACCEPTED

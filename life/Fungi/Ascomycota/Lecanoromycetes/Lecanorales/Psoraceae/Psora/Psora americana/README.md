@@ -1,5 +1,4 @@
-Psora americana B. de Lesd. SPECIES
-=======
+# Psora americana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

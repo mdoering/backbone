@@ -1,5 +1,4 @@
-Spermatodium juglandis (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium juglandis (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

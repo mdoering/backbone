@@ -1,5 +1,4 @@
-Pluteus caeruleovirescens Pilát SPECIES
-=======
+# Pluteus caeruleovirescens Pilát SPECIES
 
 #### Status
 ACCEPTED

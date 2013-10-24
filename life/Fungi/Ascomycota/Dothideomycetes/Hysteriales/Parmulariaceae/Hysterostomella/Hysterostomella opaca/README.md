@@ -1,17 +1,16 @@
-Hysterostomina opaca Syd., 1924 SPECIES
-=======
+# Hysterostomella opaca (Syd.) Doidge, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bothalia 4(4): 870 (1948)
 
 #### Original name
-null
+Hysterostomina opaca Syd., 1924
 
 ### Remarks
 null

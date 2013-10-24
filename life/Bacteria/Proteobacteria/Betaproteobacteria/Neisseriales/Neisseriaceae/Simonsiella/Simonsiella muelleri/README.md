@@ -1,11 +1,10 @@
-Caryophanon muelleri (Schmid, 1922) Peshkoff, 1948 SPECIES
-=======
+# Simonsiella muelleri Schmid, 1922 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

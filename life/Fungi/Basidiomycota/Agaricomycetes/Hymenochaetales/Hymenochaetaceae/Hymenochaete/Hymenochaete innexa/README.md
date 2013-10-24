@@ -1,5 +1,4 @@
-Hymenochaete innexa G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete innexa G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

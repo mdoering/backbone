@@ -1,5 +1,4 @@
-Asteridiella obesula (Speg.) Hansf. SPECIES
-=======
+# Asteridiella obesula (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

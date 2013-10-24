@@ -1,5 +1,4 @@
-Lenticulina curvisepta (Seguenza) SPECIES
-=======
+# Lenticulina curvisepta (Seguenza) SPECIES
 
 #### Status
 ACCEPTED

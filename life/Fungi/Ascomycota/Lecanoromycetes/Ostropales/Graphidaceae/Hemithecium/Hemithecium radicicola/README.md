@@ -1,14 +1,13 @@
-Graphina radicicola A.W. Archer SPECIES
-=======
+# Hemithecium radicicola (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 77: 169 (2001)
+Telopea 11(1): 75 (2005)
 
 #### Original name
 Graphina radicicola A.W. Archer

@@ -1,5 +1,4 @@
-Lophodiacrodium monomorphum (Timofeev, 1959) Downie & Sarjeant SPECIES
-=======
+# Lophodiacrodium monomorphum (Timofeev, 1959) Downie & Sarjeant SPECIES
 
 #### Status
 ACCEPTED

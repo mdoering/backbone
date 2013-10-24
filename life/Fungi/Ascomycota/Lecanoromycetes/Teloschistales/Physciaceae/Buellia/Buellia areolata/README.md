@@ -1,5 +1,4 @@
-Buellia areolata Zahlbr. SPECIES
-=======
+# Buellia areolata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

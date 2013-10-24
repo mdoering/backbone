@@ -1,5 +1,4 @@
-Asellaria caulleryi R.A. Poiss., 1932 SPECIES
-=======
+# Asellaria caulleryi R.A. Poiss., 1932 SPECIES
 
 #### Status
 ACCEPTED

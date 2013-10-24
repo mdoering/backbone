@@ -1,5 +1,4 @@
-Lactarius cinereus var. cinereus VARIETY
-=======
+# Lactarius cinereus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. 24: 73 (1872)
 
 #### Original name
-Lactarius cinereus var. cinereus
+Lactarius cinereus Peck
 
 ### Remarks
 null

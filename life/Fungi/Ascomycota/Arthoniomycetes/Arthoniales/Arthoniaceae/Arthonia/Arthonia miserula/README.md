@@ -1,5 +1,4 @@
-Arthonia miserula Nyl. SPECIES
-=======
+# Arthonia miserula Nyl. SPECIES
 
 #### Status
 ACCEPTED

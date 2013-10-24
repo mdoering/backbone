@@ -1,5 +1,4 @@
-Textularia hystrix Jones, 1994 SPECIES
-=======
+# Textularia hystrix Jones, 1994 SPECIES
 
 #### Status
 ACCEPTED

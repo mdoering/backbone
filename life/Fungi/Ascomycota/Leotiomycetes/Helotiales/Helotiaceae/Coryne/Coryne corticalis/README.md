@@ -1,5 +1,4 @@
-Coryne corticalis Fuckel SPECIES
-=======
+# Coryne corticalis Fuckel SPECIES
 
 #### Status
 ACCEPTED

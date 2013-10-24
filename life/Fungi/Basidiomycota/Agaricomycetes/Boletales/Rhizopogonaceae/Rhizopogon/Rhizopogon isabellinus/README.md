@@ -1,5 +1,4 @@
-Rhizopogon isabellinus A.H. Sm. SPECIES
-=======
+# Rhizopogon isabellinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

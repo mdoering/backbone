@@ -1,5 +1,4 @@
-Ornithocercus bilobatus Rampi SPECIES
-=======
+# Ornithocercus bilobatus Rampi SPECIES
 
 #### Status
 ACCEPTED

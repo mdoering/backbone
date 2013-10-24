@@ -1,5 +1,4 @@
-Sphaeronaema parasiticum Voglino SPECIES
-=======
+# Sphaeronaema parasiticum Voglino SPECIES
 
 #### Status
 ACCEPTED

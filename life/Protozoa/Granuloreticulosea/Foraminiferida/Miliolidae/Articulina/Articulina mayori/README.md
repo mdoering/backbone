@@ -1,5 +1,4 @@
-Articulina mayori SPECIES
-=======
+# Articulina mayori SPECIES
 
 #### Status
 ACCEPTED

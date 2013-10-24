@@ -1,5 +1,4 @@
-Lepra rubens (Weigel) Willd. SPECIES
-=======
+# Lepra rubens (Weigel) Willd. SPECIES
 
 #### Status
 ACCEPTED

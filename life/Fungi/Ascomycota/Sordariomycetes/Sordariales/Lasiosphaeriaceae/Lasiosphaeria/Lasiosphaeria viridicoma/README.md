@@ -1,5 +1,4 @@
-Lasiosphaeria viridicoma (Cooke & Peck) Sacc. SPECIES
-=======
+# Lasiosphaeria viridicoma (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula betulae (Westend.) Pennycook SPECIES
-=======
+# Discula betulae (Westend.) Pennycook SPECIES
 
 #### Status
 ACCEPTED

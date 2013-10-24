@@ -1,5 +1,4 @@
-Diatrypella obscurata (Schwein.) Ellis SPECIES
-=======
+# Diatrypella obscurata (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus peltatus (Scop.) Pers. SPECIES
-=======
+# Polyporus peltatus (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

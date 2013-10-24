@@ -1,5 +1,4 @@
-Chaetomium piluliferum J. Daniels, 1961 SPECIES
-=======
+# Chaetomium piluliferum J. Daniels, 1961 SPECIES
 
 #### Status
 ACCEPTED

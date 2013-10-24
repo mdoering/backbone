@@ -1,5 +1,4 @@
-Boletellus dicymbophilus Fulgenzi & T.W. Henkel SPECIES
-=======
+# Boletellus dicymbophilus Fulgenzi & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

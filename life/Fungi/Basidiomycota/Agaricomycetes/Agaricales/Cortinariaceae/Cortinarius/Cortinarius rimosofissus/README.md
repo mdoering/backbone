@@ -1,5 +1,4 @@
-Cortinarius rimosofissus Rob. Henry SPECIES
-=======
+# Cortinarius rimosofissus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

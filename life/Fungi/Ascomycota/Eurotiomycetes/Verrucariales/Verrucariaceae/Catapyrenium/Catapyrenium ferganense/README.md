@@ -1,5 +1,4 @@
-Catapyrenium ferganense (Tomin) Baibul. SPECIES
-=======
+# Catapyrenium ferganense (Tomin) Baibul. SPECIES
 
 #### Status
 ACCEPTED

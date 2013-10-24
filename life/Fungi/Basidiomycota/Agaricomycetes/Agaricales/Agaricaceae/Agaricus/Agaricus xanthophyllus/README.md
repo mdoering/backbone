@@ -1,5 +1,4 @@
-Agaricus xanthophyllus Berk. SPECIES
-=======
+# Agaricus xanthophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

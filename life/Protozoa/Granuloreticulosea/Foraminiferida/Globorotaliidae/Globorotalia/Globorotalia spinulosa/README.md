@@ -1,5 +1,4 @@
-Globorotalia spinulosa Cushman, 1927 SPECIES
-=======
+# Globorotalia spinulosa Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

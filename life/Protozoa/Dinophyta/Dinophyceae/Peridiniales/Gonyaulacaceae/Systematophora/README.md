@@ -1,14 +1,13 @@
-Polystephanosphaera W.A.S. Sarjeant, 1960 GENUS
-=======
+# Systematophora Klement, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Geol. Mag. 97: 140.
+Palaeontographica (A) 114: 61.
 
 #### Original name
 null

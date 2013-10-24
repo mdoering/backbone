@@ -1,5 +1,4 @@
-Agaricus terrenus Pers. SPECIES
-=======
+# Agaricus terrenus Pers. SPECIES
 
 #### Status
 ACCEPTED

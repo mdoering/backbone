@@ -1,5 +1,4 @@
-Phyllachora barringtoniicola K.D. Hyde & C.A. Pearce, 1993 SPECIES
-=======
+# Phyllachora barringtoniicola K.D. Hyde & C.A. Pearce, 1993 SPECIES
 
 #### Status
 DOUBTFUL

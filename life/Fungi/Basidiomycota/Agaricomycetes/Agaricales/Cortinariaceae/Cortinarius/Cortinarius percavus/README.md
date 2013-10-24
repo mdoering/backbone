@@ -1,5 +1,4 @@
-Cortinarius percavus J. Favre SPECIES
-=======
+# Cortinarius percavus J. Favre SPECIES
 
 #### Status
 ACCEPTED

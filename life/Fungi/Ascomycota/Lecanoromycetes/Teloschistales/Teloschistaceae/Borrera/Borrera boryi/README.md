@@ -1,5 +1,4 @@
-Borrera boryi Fée SPECIES
-=======
+# Borrera boryi Fée SPECIES
 
 #### Status
 ACCEPTED

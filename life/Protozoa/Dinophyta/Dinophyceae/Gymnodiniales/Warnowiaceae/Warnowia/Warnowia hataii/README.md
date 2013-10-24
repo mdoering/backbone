@@ -1,5 +1,4 @@
-Warnowia hataii (Kofoid & Swezy) Schiller, 1933 SPECIES
-=======
+# Warnowia hataii (Kofoid & Swezy) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

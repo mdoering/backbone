@@ -1,5 +1,4 @@
-Amplectella collaria (Brandt) Kofoid & Campbell, 1929 SPECIES
-=======
+# Amplectella collaria (Brandt) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

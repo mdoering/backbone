@@ -1,5 +1,4 @@
-Paramecium nephridiatum Gelei, 1925 SPECIES
-=======
+# Paramecium nephridiatum Gelei, 1925 SPECIES
 
 #### Status
 ACCEPTED

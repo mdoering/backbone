@@ -1,5 +1,4 @@
-Pertusaria glaucella Müll. Arg. SPECIES
-=======
+# Pertusaria glaucella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

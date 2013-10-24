@@ -1,17 +1,16 @@
-Splanchnonema dasylirionis A.W. Ramaley SPECIES
-=======
+# Splanchnonema dasylirii A.W. Ramaley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aliso 14(2): 148 (1995)
 
 #### Original name
-Splanchnonema dasylirionis A.W. Ramaley
+Splanchnonema dasylirii A.W. Ramaley
 
 ### Remarks
 null

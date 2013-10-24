@@ -1,5 +1,4 @@
-Lecidea subtesselata Nyl. SPECIES
-=======
+# Lecidea subtesselata Nyl. SPECIES
 
 #### Status
 ACCEPTED

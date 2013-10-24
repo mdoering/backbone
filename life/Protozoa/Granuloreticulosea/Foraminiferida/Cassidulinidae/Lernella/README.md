@@ -1,5 +1,4 @@
-Lernella Saidova, 1975 GENUS
-=======
+# Lernella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis tortuosa Fée SPECIES
-=======
+# Graphis tortuosa Fée SPECIES
 
 #### Status
 ACCEPTED

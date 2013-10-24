@@ -1,5 +1,4 @@
-Pyrenocollema tichothecioides (Arnold) R.C. Harris SPECIES
-=======
+# Pyrenocollema tichothecioides (Arnold) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

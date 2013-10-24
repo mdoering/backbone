@@ -1,5 +1,4 @@
-Blepharisma dawsoni SPECIES
-=======
+# Blepharisma dawsoni SPECIES
 
 #### Status
 ACCEPTED

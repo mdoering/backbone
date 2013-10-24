@@ -1,5 +1,4 @@
-Rectipilus bavaricus Agerer, 1973 SPECIES
-=======
+# Rectipilus bavaricus Agerer, 1973 SPECIES
 
 #### Status
 ACCEPTED

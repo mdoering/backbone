@@ -1,5 +1,4 @@
-Gloeosporium chrysanthemi Hori SPECIES
-=======
+# Gloeosporium chrysanthemi Hori SPECIES
 
 #### Status
 ACCEPTED

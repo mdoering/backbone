@@ -1,5 +1,4 @@
-Entoloma romagnesii Noordel., 1979 SPECIES
-=======
+# Entoloma romagnesii Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

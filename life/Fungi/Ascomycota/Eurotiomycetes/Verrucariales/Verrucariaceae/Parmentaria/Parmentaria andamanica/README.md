@@ -1,5 +1,4 @@
-Parmentaria andamanica Ajay Singh SPECIES
-=======
+# Parmentaria andamanica Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

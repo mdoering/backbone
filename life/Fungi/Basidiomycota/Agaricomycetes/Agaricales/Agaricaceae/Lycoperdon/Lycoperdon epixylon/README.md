@@ -1,5 +1,4 @@
-Lycoperdon epixylon Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon epixylon Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

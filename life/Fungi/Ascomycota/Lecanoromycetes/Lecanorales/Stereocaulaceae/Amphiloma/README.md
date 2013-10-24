@@ -1,5 +1,4 @@
-Amphiloma GENUS
-=======
+# Amphiloma GENUS
 
 #### Status
 ACCEPTED

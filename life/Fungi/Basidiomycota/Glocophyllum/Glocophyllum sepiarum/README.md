@@ -1,5 +1,4 @@
-Glocophyllum sepiarum (Fr.) Karst. SPECIES
-=======
+# Glocophyllum sepiarum (Fr.) Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia pumilio (Kalchbr.) Sacc. SPECIES
-=======
+# Omphalia pumilio (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

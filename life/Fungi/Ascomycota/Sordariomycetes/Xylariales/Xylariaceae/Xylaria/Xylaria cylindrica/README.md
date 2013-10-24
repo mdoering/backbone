@@ -1,5 +1,4 @@
-Xylaria cylindrica Ellis & Everh. SPECIES
-=======
+# Xylaria cylindrica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

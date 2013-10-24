@@ -1,5 +1,4 @@
-Baltisphaeridium setigerum N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium setigerum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum minimum var. minimum VARIETY
-=======
+# Stilbum minimum Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stilbum minimum var. minimum
+Stilbum minimum Tode
 
 ### Remarks
 null

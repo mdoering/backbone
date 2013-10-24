@@ -1,5 +1,4 @@
-Sciniatosporium utahense (Sacc.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium utahense (Sacc.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

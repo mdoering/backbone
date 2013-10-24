@@ -1,5 +1,4 @@
-Verrucisporota daviesiae (Cooke & Massee) Beilharz & Pascoe SPECIES
-=======
+# Verrucisporota daviesiae (Cooke & Massee) Beilharz & Pascoe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina grata (Berk.) Kuntze SPECIES
-=======
+# Calycina grata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

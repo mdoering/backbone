@@ -1,5 +1,4 @@
-Planctomyces gracilis Hortob. SPECIES
-=======
+# Planctomyces gracilis Hortob. SPECIES
 
 #### Status
 ACCEPTED

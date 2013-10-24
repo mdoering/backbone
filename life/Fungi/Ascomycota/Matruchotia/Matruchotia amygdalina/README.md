@@ -1,5 +1,4 @@
-Matruchotia amygdalina Rick SPECIES
-=======
+# Matruchotia amygdalina Rick SPECIES
 
 #### Status
 ACCEPTED

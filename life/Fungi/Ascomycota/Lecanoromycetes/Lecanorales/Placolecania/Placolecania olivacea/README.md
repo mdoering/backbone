@@ -1,5 +1,4 @@
-Placolecania olivacea (Dufour) P. Cout. SPECIES
-=======
+# Placolecania olivacea (Dufour) P. Cout. SPECIES
 
 #### Status
 ACCEPTED

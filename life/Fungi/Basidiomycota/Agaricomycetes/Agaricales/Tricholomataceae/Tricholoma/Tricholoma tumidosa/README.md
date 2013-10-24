@@ -1,5 +1,4 @@
-Tricholoma tumidosa (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma tumidosa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

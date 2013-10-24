@@ -1,5 +1,4 @@
-Rhizocarpon merrillii Lynge SPECIES
-=======
+# Rhizocarpon merrillii Lynge SPECIES
 
 #### Status
 ACCEPTED

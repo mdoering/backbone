@@ -1,5 +1,4 @@
-Annulohypoxylon apiahynum (Speg.) Hladki & A.I. Romero, 2009 SPECIES
-=======
+# Annulohypoxylon apiahynum (Speg.) Hladki & A.I. Romero, 2009 SPECIES
 
 #### Status
 ACCEPTED

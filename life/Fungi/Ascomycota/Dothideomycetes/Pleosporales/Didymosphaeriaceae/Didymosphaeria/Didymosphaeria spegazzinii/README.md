@@ -1,5 +1,4 @@
-Didymosphaeria spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Didymosphaeria spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

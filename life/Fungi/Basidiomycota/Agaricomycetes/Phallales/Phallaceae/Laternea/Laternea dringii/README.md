@@ -1,5 +1,4 @@
-Laternea dringii A. López, D. Martínez & J. García SPECIES
-=======
+# Laternea dringii A. López, D. Martínez & J. García SPECIES
 
 #### Status
 ACCEPTED

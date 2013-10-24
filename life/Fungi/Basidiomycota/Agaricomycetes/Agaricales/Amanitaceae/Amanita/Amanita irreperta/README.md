@@ -1,5 +1,4 @@
-Amanita irreperta E.-J. Gilbert SPECIES
-=======
+# Amanita irreperta E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygramaricium GENUS
-=======
+# Hygramaricium GENUS
 
 #### Status
 ACCEPTED

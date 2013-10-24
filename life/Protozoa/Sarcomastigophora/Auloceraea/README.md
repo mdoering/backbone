@@ -1,5 +1,4 @@
-Auloceraea Haeckel, 1887 GENUS
-=======
+# Auloceraea Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

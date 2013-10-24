@@ -1,5 +1,4 @@
-Sphaerella grandispora (Bubák) Sacc. & Traverso SPECIES
-=======
+# Sphaerella grandispora (Bubák) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

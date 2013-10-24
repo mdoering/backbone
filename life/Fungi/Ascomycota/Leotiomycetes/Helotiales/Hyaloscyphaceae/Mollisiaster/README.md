@@ -1,5 +1,4 @@
-Mollisiaster GENUS
-=======
+# Mollisiaster GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Endocladis Clem. & Shear GENUS
-=======
+# Endoramularia Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 198, 384 (1931)
+Annls mycol. 21(3/4): 290 (1923)
 
 #### Original name
-Endocladis Clem. & Shear
+Endoramularia Petr.
 
 ### Remarks
 null

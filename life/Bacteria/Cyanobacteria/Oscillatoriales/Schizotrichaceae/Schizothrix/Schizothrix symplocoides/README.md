@@ -1,5 +1,4 @@
-Schizothrix symplocoides (Gardner) Geitler SPECIES
-=======
+# Schizothrix symplocoides (Gardner) Geitler SPECIES
 
 #### Status
 ACCEPTED

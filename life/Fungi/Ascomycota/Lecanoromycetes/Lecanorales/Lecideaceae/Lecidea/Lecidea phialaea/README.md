@@ -1,5 +1,4 @@
-Lecidea phialaea Norman SPECIES
-=======
+# Lecidea phialaea Norman SPECIES
 
 #### Status
 ACCEPTED

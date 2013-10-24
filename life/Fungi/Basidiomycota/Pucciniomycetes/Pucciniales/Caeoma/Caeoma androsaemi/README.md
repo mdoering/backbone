@@ -1,5 +1,4 @@
-Caeoma androsaemi J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Caeoma androsaemi J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus subingratus (Dennis) Singer SPECIES
-=======
+# Marasmiellus subingratus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

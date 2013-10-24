@@ -1,5 +1,4 @@
-Metacineta mystacina (Ehr.) SPECIES
-=======
+# Metacineta mystacina (Ehr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia carissae S. Ahmad SPECIES
-=======
+# Diplodia carissae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

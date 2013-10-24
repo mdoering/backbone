@@ -1,5 +1,4 @@
-Helminthosporium zombaense B. Sutton SPECIES
-=======
+# Helminthosporium zombaense B. Sutton SPECIES
 
 #### Status
 ACCEPTED

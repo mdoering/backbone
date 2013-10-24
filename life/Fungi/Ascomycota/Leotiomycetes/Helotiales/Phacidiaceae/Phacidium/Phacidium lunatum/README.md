@@ -1,17 +1,16 @@
-Ceuthospora lunata Shear, 1902 SPECIES
-=======
+# Phacidium lunatum DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 38 (1983)
 
 #### Original name
-Ceuthospora lunata Shear, 1902
+Phacidium lunatum DiCosmo, Nag Raj & W.B. Kendr., 1983
 
 ### Remarks
 null

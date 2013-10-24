@@ -1,5 +1,4 @@
-Arualis carolinensis Katz, 1980 SPECIES
-=======
+# Arualis carolinensis Katz, 1980 SPECIES
 
 #### Status
 ACCEPTED

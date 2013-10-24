@@ -1,5 +1,4 @@
-Thamnolecania subvermicularis Asahina SPECIES
-=======
+# Thamnolecania subvermicularis Asahina SPECIES
 
 #### Status
 ACCEPTED

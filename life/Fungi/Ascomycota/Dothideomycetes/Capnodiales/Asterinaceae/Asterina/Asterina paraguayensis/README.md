@@ -1,5 +1,4 @@
-Asterina paraguayensis Speg. SPECIES
-=======
+# Asterina paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

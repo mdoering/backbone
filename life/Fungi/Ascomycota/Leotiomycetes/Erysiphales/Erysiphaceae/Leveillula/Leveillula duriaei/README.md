@@ -1,5 +1,4 @@
-Leveillula duriaei (Lév.) U. Braun SPECIES
-=======
+# Leveillula duriaei (Lév.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

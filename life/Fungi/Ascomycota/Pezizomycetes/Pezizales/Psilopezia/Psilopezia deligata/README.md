@@ -1,5 +1,4 @@
-Psilopezia deligata (Peck) Seaver SPECIES
-=======
+# Psilopezia deligata (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina hexagrammi Zhukov, 1964 SPECIES
-=======
+# Trichodina hexagrammi Zhukov, 1964 SPECIES
 
 #### Status
 ACCEPTED

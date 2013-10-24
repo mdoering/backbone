@@ -1,5 +1,4 @@
-Buellia buellioides (Metzler) Buschardt SPECIES
-=======
+# Buellia buellioides (Metzler) Buschardt SPECIES
 
 #### Status
 ACCEPTED

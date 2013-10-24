@@ -1,14 +1,13 @@
-Calenia microcarpa Vezda SPECIES
-=======
+# Gyalectidium microcarpum (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Folia geobot. phytotax. 14: 55 (1979)
+in Ferraro, Lücking & Sérusiaux, J. Linn. Soc. , Bot. 137(3): 339 (2001)
 
 #### Original name
 Calenia microcarpa Vezda

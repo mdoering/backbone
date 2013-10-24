@@ -1,5 +1,4 @@
-Phlyctema kochiae SPECIES
-=======
+# Phlyctema kochiae SPECIES
 
 #### Status
 ACCEPTED

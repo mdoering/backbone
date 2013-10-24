@@ -1,5 +1,4 @@
-Tricholoma fissilifolium Corner SPECIES
-=======
+# Tricholoma fissilifolium Corner SPECIES
 
 #### Status
 ACCEPTED

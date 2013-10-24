@@ -1,5 +1,4 @@
-Coprinus pallidipygatus Bogart SPECIES
-=======
+# Coprinus pallidipygatus Bogart SPECIES
 
 #### Status
 ACCEPTED

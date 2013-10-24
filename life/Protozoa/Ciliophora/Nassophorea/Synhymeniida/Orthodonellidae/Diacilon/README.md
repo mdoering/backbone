@@ -1,5 +1,4 @@
-Diacilon GENUS
-=======
+# Diacilon GENUS
 
 #### Status
 ACCEPTED

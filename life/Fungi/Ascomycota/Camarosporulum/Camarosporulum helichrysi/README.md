@@ -1,5 +1,4 @@
-Camarosporulum helichrysi (Pass.) Tassi SPECIES
-=======
+# Camarosporulum helichrysi (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

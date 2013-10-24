@@ -1,5 +1,4 @@
-Lichen dendritiferus Vill. SPECIES
-=======
+# Lichen dendritiferus Vill. SPECIES
 
 #### Status
 ACCEPTED

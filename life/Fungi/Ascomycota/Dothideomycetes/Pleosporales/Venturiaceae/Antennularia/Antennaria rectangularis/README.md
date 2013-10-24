@@ -1,5 +1,4 @@
-Antennaria rectangularis Sacc. SPECIES
-=======
+# Antennaria rectangularis Sacc. SPECIES
 
 #### Status
 ACCEPTED

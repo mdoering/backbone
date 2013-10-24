@@ -1,14 +1,13 @@
-Dactylella ellipsospora (Preuss) Grove, 1886 SPECIES
-=======
+# Monacrosporium ellipsosporum (Preuss) R.C. Cooke & C.H. Dickinson, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 4: 194 (1886)
+Trans. Br. mycol. Soc. 48: 622 (1965)
 
 #### Original name
 Menispora ellipsospora Preuss, 1848

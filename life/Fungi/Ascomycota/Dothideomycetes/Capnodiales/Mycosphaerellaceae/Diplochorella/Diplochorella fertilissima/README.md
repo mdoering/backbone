@@ -1,5 +1,4 @@
-Diplochorella fertilissima Syd. & P. Syd., 1913 SPECIES
-=======
+# Diplochorella fertilissima Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

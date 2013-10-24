@@ -1,5 +1,4 @@
-Aspergillus sartoryi Syd. SPECIES
-=======
+# Aspergillus sartoryi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporites T. van der Hammen, 1954 GENUS
-=======
+# Diporites T. van der Hammen, 1954 GENUS
 
 #### Status
 ACCEPTED

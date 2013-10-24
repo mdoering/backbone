@@ -1,5 +1,4 @@
-Passalora colocasiae (Höhn.) U. Braun SPECIES
-=======
+# Passalora colocasiae (Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

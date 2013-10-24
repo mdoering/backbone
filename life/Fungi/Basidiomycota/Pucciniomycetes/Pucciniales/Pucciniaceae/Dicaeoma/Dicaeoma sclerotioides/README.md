@@ -1,14 +1,13 @@
-Dicaeoma sclerotiodes (Durieu) Kuntze SPECIES
-=======
+# Dicaeoma sclerotioides (Durieu) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 470 (1898)
 
 #### Original name
 Puccinia sclerotioides Durieu & Mont.

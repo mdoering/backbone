@@ -1,5 +1,4 @@
-Basidiolum Cienk. GENUS
-=======
+# Basidiolum Cienk. GENUS
 
 #### Status
 ACCEPTED

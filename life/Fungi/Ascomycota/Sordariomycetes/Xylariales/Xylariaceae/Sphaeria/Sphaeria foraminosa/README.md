@@ -1,5 +1,4 @@
-Sphaeria foraminosa Pers. SPECIES
-=======
+# Sphaeria foraminosa Pers. SPECIES
 
 #### Status
 ACCEPTED

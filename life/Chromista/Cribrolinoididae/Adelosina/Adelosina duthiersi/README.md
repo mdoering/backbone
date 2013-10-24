@@ -1,5 +1,4 @@
-Adelosina duthiersi var. separans Wiesner, 1923 VARIETY
-=======
+# Adelosina duthiersi Schlumberger, 1886 SPECIES
 
 #### Status
 ACCEPTED

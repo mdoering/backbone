@@ -1,5 +1,4 @@
-Coleosporium merrillii Henn. SPECIES
-=======
+# Coleosporium merrillii Henn. SPECIES
 
 #### Status
 ACCEPTED

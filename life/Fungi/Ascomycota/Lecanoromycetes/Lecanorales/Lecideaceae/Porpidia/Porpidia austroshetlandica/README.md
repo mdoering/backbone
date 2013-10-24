@@ -1,5 +1,4 @@
-Porpidia austroshetlandica Hertel SPECIES
-=======
+# Porpidia austroshetlandica Hertel SPECIES
 
 #### Status
 ACCEPTED

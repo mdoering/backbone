@@ -1,14 +1,13 @@
-Cercospora kurimensis Fukui, 1933 SPECIES
-=======
+# Pseudocercospora kurimensis (Fukui) U. Braun, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Mie Imp. Coll. Agric. & For. 3: 13 (1933)
+Sydowia 48(2): 213 (1996)
 
 #### Original name
 Cercospora kurimensis Fukui, 1933

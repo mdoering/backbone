@@ -1,5 +1,4 @@
-Usnea andina Motyka SPECIES
-=======
+# Usnea andina Motyka SPECIES
 
 #### Status
 ACCEPTED

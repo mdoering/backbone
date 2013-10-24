@@ -1,5 +1,4 @@
-Gibberidea pruni-avium (Allesch.) Kuntze SPECIES
-=======
+# Gibberidea pruni-avium (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stysanus cybosporus D. Sacc., 1904 SPECIES
-=======
+# Stysanus cybosporus D. Sacc., 1904 SPECIES
 
 #### Status
 ACCEPTED

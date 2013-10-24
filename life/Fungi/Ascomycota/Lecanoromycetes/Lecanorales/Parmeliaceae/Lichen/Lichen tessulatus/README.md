@@ -1,5 +1,4 @@
-Lichen tessulatus Ach. SPECIES
-=======
+# Lichen tessulatus Ach. SPECIES
 
 #### Status
 ACCEPTED

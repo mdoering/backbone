@@ -1,5 +1,4 @@
-Agaricus endochorda Berk. & Broome SPECIES
-=======
+# Agaricus endochorda Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

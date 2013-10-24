@@ -1,5 +1,4 @@
-Rhabdospora solidaginis (Cooke & Ellis) Sacc. SPECIES
-=======
+# Rhabdospora solidaginis (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

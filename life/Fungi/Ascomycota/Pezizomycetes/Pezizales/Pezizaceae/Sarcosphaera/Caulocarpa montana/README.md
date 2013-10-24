@@ -1,5 +1,4 @@
-Caulocarpa montana Gilkey SPECIES
-=======
+# Caulocarpa montana Gilkey SPECIES
 
 #### Status
 ACCEPTED

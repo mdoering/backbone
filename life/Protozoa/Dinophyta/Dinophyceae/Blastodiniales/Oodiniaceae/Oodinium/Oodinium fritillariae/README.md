@@ -1,5 +1,4 @@
-Oodinium fritillariae Chatton, 1912 SPECIES
-=======
+# Oodinium fritillariae Chatton, 1912 SPECIES
 
 #### Status
 ACCEPTED

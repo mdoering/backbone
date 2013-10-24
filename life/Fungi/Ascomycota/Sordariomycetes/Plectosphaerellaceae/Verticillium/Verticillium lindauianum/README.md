@@ -1,5 +1,4 @@
-Verticillium lindauianum Bubák, 1914 SPECIES
-=======
+# Verticillium lindauianum Bubák, 1914 SPECIES
 
 #### Status
 ACCEPTED

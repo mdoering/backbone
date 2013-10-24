@@ -1,5 +1,4 @@
-Acinetobacter gerneri Carr et al., 2003 SPECIES
-=======
+# Acinetobacter gerneri Carr et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

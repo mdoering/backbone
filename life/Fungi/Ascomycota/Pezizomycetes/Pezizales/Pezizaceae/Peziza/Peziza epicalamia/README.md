@@ -1,5 +1,4 @@
-Peziza epicalamia Fuckel SPECIES
-=======
+# Peziza epicalamia Fuckel SPECIES
 
 #### Status
 ACCEPTED

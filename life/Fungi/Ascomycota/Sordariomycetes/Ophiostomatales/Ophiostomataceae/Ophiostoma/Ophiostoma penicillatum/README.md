@@ -1,14 +1,13 @@
-Ceratocystis penicillata (Grosmann) C. Moreau, 1952 SPECIES
-=======
+# Ophiostoma penicillatum (Grosmann) Siemaszko, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
+Pl. Polon. 7(no. 3): 24 (1939)
 
 #### Original name
 Ceratostomella penicillata Grosmann, 1932

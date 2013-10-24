@@ -1,5 +1,4 @@
-Helotium roseorubrum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium roseorubrum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoblastus omurae M. Satô SPECIES
-=======
+# Mycoblastus omurae M. Satô SPECIES
 
 #### Status
 ACCEPTED

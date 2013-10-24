@@ -1,5 +1,4 @@
-Mycena flavifolia Peck SPECIES
-=======
+# Mycena flavifolia Peck SPECIES
 
 #### Status
 ACCEPTED

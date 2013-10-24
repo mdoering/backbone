@@ -1,5 +1,4 @@
-Asterionella madagascariensis var. tibiiformis Manguin VARIETY
-=======
+# Asterionella madagascariensis Manguin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeugrhabdotus erectus (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1965 SPECIES
-=======
+# Zeugrhabdotus erectus (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1965 SPECIES
 
 #### Status
 ACCEPTED

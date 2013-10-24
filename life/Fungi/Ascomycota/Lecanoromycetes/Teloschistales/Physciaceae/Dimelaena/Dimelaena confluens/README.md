@@ -1,5 +1,4 @@
-Dimelaena confluens (Fr.) Trevis. SPECIES
-=======
+# Dimelaena confluens (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

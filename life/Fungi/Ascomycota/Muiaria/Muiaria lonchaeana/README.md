@@ -1,5 +1,4 @@
-Muiaria lonchaeana Thaxt. SPECIES
-=======
+# Muiaria lonchaeana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

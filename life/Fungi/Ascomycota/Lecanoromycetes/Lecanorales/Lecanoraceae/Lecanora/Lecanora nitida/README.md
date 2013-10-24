@@ -1,5 +1,4 @@
-Lecanora nitida Colmeiro SPECIES
-=======
+# Lecanora nitida Colmeiro SPECIES
 
 #### Status
 ACCEPTED

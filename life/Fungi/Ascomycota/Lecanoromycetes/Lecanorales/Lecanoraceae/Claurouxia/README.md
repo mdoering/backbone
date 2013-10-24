@@ -1,5 +1,4 @@
-Claurouxia D. Hawksw. GENUS
-=======
+# Claurouxia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

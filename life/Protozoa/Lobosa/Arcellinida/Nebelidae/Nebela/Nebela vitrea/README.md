@@ -1,5 +1,4 @@
-Nebela vitrea Penard SPECIES
-=======
+# Nebela vitrea Penard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synhymenia agamalievi (Deroux, 1978) Jankowski, 1992 SPECIES
-=======
+# Synhymenia agamalievi (Deroux, 1978) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

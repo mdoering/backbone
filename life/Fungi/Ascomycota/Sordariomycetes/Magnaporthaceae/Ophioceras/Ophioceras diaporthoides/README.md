@@ -1,5 +1,4 @@
-Ophioceras diaporthoides Sacc. & Paol. SPECIES
-=======
+# Ophioceras diaporthoides Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

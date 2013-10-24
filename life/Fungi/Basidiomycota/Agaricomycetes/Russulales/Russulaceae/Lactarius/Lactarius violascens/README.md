@@ -1,17 +1,16 @@
-Agaricus violescens J. Otto SPECIES
-=======
+# Lactarius violascens (J. Otto) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 342 (1838)
 
 #### Original name
-Agaricus violescens J. Otto
+Agaricus violascens J. Otto, 1816
 
 ### Remarks
 null

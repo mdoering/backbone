@@ -1,5 +1,4 @@
-Basipetospora G.T. Cole & W.B. Kendr. GENUS
-=======
+# Basipetospora G.T. Cole & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

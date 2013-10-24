@@ -1,5 +1,4 @@
-Trichosporum fertile J. Lindau SPECIES
-=======
+# Trichosporum fertile J. Lindau SPECIES
 
 #### Status
 ACCEPTED

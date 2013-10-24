@@ -1,5 +1,4 @@
-Melanelia substygia (Räsänen) Essl. SPECIES
-=======
+# Melanelia substygia (Räsänen) Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria euthelia Nyl. SPECIES
-=======
+# Verrucaria euthelia Nyl. SPECIES
 
 #### Status
 ACCEPTED

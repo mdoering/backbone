@@ -1,5 +1,4 @@
-Heliodinium Alberti GENUS
-=======
+# Heliodinium Alberti GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polythelis sexlocularis (Müll. Arg.) Clem. SPECIES
-=======
+# Polypyrenula sexlocularis (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Gen. Fung. (Minneapolis) 341 (1906)
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 165 (1985)
 
 #### Original name
 Microthelia sexlocularis Müll. Arg.

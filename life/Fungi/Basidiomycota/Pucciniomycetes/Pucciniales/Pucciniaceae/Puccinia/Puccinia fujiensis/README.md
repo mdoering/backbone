@@ -1,5 +1,4 @@
-Puccinia fujiensis S. Ito SPECIES
-=======
+# Puccinia fujiensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

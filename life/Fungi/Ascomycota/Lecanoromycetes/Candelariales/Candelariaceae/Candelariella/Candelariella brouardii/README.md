@@ -1,5 +1,4 @@
-Candelariella brouardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Candelariella brouardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

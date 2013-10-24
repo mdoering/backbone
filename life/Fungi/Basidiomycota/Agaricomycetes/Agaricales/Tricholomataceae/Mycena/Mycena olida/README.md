@@ -1,11 +1,10 @@
-Mycena gypsea sensu J. Lange SPECIES
-=======
+# Mycena olida Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

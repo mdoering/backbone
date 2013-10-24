@@ -1,5 +1,4 @@
-Kolkwitziella Lindemann, 1919 GENUS
-=======
+# Kolkwitziella Lindemann, 1919 GENUS
 
 #### Status
 ACCEPTED

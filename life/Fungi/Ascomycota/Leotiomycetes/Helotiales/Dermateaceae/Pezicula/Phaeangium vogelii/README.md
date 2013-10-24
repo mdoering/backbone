@@ -1,5 +1,4 @@
-Phaeangium vogelii Henn. SPECIES
-=======
+# Phaeangium vogelii Henn. SPECIES
 
 #### Status
 ACCEPTED

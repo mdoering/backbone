@@ -1,5 +1,4 @@
-Leptorhaphis lucida Körb. SPECIES
-=======
+# Leptorhaphis lucida Körb. SPECIES
 
 #### Status
 ACCEPTED

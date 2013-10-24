@@ -1,5 +1,4 @@
-Unguiculariopsis triregia S.Y. Kondr. & D.J. Galloway, 1995 SPECIES
-=======
+# Unguiculariopsis triregia S.Y. Kondr. & D.J. Galloway, 1995 SPECIES
 
 #### Status
 ACCEPTED

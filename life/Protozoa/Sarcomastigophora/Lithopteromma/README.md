@@ -1,5 +1,4 @@
-Lithopteromma Haeckel, 1887 GENUS
-=======
+# Lithopteromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

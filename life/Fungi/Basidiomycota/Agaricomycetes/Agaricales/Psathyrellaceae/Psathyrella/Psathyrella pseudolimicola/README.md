@@ -1,5 +1,4 @@
-Psathyrella pseudolimicola A.H. Sm. SPECIES
-=======
+# Psathyrella pseudolimicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

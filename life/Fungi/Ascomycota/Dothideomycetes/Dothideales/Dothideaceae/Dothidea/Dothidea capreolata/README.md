@@ -1,5 +1,4 @@
-Dothidea capreolata Schwein. SPECIES
-=======
+# Dothidea capreolata Schwein. SPECIES
 
 #### Status
 ACCEPTED

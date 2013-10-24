@@ -1,5 +1,4 @@
-Spathidium turgitorum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Spathidium turgitorum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

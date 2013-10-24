@@ -1,5 +1,4 @@
-Polyedrosphaeridium lateratum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Polyedrosphaeridium lateratum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta italica (Traverso) Ishiy. SPECIES
-=======
+# Ascochyta italica (Traverso) Ishiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrausta diniasalis Npv SPECIES
-=======
+# Pyrausta diniasalis Npv SPECIES
 
 #### Status
 ACCEPTED

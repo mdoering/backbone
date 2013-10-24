@@ -1,5 +1,4 @@
-Coryneliospora rapaneicola D.A. Reid, 1975 SPECIES
-=======
+# Coryneliospora rapaneicola D.A. Reid, 1975 SPECIES
 
 #### Status
 ACCEPTED

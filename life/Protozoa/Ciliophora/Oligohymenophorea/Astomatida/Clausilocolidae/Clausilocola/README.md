@@ -1,5 +1,4 @@
-Clausilocola Lom, 1959 GENUS
-=======
+# Clausilocola Lom, 1959 GENUS
 
 #### Status
 ACCEPTED

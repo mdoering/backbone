@@ -1,5 +1,4 @@
-Lichen mesenteriformis Wulfen SPECIES
-=======
+# Lichen mesenteriformis Wulfen SPECIES
 
 #### Status
 ACCEPTED

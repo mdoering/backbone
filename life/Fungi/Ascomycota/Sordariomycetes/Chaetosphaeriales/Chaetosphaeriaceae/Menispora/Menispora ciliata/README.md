@@ -1,14 +1,13 @@
-Erionema ciliatum (Corda) Maire, 1906 SPECIES
-=======
+# Menispora ciliata Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 4(4): 329 (1906)
+Icon. fung. (Prague) 1: 16 (1837)
 
 #### Original name
 Menispora ciliata Corda, 1837

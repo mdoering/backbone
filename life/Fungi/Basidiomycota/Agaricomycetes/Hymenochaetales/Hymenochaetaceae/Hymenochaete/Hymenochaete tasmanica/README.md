@@ -1,5 +1,4 @@
-Hymenochaete tasmanica Massee, 1890 SPECIES
-=======
+# Hymenochaete tasmanica Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

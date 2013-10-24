@@ -1,5 +1,4 @@
-Tomentellina radiosoides Rick SPECIES
-=======
+# Tomentellina radiosoides Rick SPECIES
 
 #### Status
 ACCEPTED

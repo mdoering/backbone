@@ -1,5 +1,4 @@
-Daedalea plumbea Lév. SPECIES
-=======
+# Daedalea plumbea Lév. SPECIES
 
 #### Status
 ACCEPTED

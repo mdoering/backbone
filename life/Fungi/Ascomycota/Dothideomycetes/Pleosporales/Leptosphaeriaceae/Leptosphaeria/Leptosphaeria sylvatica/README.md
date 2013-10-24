@@ -1,5 +1,4 @@
-Leptosphaeria sylvatica Pass. SPECIES
-=======
+# Leptosphaeria sylvatica Pass. SPECIES
 
 #### Status
 ACCEPTED

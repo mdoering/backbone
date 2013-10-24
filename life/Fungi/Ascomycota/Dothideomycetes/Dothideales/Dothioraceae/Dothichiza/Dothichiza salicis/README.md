@@ -1,5 +1,4 @@
-Dothichiza salicis (Died.) Petr. SPECIES
-=======
+# Dothichiza salicis (Died.) Petr. SPECIES
 
 #### Status
 ACCEPTED

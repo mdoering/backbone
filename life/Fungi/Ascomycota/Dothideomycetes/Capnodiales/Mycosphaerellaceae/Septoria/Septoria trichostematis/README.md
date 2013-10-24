@@ -1,5 +1,4 @@
-Septoria trichostematis Peck SPECIES
-=======
+# Septoria trichostematis Peck SPECIES
 
 #### Status
 ACCEPTED

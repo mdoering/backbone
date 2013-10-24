@@ -1,5 +1,4 @@
-Aenigmatomyces R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Aenigmatomyces R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

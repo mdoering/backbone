@@ -1,5 +1,4 @@
-Hypoderma typhinum Kuntze SPECIES
-=======
+# Hypoderma typhinum Kuntze SPECIES
 
 #### Status
 ACCEPTED

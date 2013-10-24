@@ -1,5 +1,4 @@
-Simblum periphragmaticum Corda SPECIES
-=======
+# Simblum periphragmaticum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endodermophyton tropicalis Castell. & Chalm. SPECIES
-=======
+# Endodermophyton tropicalis Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

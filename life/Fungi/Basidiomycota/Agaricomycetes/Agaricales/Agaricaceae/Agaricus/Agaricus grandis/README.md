@@ -1,5 +1,4 @@
-Agaricus grandis subsp. grandis SUBSPECIES
-=======
+# Agaricus grandis Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus grandis subsp. grandis
+Agaricus grandis Pers.
 
 ### Remarks
 null

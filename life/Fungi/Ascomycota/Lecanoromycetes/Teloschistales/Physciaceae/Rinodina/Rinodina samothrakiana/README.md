@@ -1,5 +1,4 @@
-Rinodina samothrakiana Szatala SPECIES
-=======
+# Rinodina samothrakiana Szatala SPECIES
 
 #### Status
 ACCEPTED

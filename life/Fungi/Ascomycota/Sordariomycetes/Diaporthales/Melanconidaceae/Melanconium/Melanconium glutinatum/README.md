@@ -1,5 +1,4 @@
-Melanconium glutinatum (Corda) Rabenh. SPECIES
-=======
+# Melanconium glutinatum (Corda) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

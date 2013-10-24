@@ -1,5 +1,4 @@
-Pistillaria fuscipes (Pers.) Corner SPECIES
-=======
+# Pistillaria fuscipes (Pers.) Corner SPECIES
 
 #### Status
 ACCEPTED

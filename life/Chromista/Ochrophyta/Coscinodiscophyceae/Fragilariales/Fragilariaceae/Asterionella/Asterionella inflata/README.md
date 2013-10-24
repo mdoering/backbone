@@ -1,5 +1,4 @@
-Asterionella inflata Heib. SPECIES
-=======
+# Asterionella inflata Heib. SPECIES
 
 #### Status
 ACCEPTED

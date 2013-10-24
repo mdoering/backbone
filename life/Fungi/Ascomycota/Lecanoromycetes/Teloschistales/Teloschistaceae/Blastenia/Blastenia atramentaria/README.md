@@ -1,5 +1,4 @@
-Blastenia atramentaria (Hue) Zahlbr. SPECIES
-=======
+# Blastenia atramentaria (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

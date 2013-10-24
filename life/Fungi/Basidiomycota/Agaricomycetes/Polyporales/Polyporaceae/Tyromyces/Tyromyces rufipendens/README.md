@@ -1,5 +1,4 @@
-Tyromyces rufipendens Corner SPECIES
-=======
+# Tyromyces rufipendens Corner SPECIES
 
 #### Status
 ACCEPTED

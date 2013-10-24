@@ -1,5 +1,4 @@
-Pseudonocardia spinosispora Lee et al., 2002 SPECIES
-=======
+# Pseudonocardia spinosispora Lee et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

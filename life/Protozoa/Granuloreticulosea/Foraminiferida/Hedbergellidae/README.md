@@ -1,5 +1,4 @@
-Hedbergellidae FAMILY
-=======
+# Hedbergellidae FAMILY
 
 #### Status
 ACCEPTED

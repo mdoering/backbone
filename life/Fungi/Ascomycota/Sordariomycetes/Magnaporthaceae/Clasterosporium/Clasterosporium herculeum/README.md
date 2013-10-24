@@ -1,5 +1,4 @@
-Clasterosporium herculeum Ellis SPECIES
-=======
+# Clasterosporium herculeum Ellis SPECIES
 
 #### Status
 ACCEPTED

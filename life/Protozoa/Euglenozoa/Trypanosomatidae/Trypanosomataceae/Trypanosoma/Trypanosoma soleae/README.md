@@ -1,5 +1,4 @@
-Trypanosoma soleae Laveran & Mesnil, 1901 SPECIES
-=======
+# Trypanosoma soleae Laveran & Mesnil, 1901 SPECIES
 
 #### Status
 ACCEPTED

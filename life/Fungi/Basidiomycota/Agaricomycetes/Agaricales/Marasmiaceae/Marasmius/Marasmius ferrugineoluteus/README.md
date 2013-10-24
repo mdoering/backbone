@@ -1,5 +1,4 @@
-Marasmius ferrugineoluteus Beeli SPECIES
-=======
+# Marasmius ferrugineoluteus Beeli SPECIES
 
 #### Status
 ACCEPTED

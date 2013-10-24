@@ -1,5 +1,4 @@
-Trichophyton circonvolutum Sabour., 1910 SPECIES
-=======
+# Trichophyton circonvolutum Sabour., 1910 SPECIES
 
 #### Status
 ACCEPTED

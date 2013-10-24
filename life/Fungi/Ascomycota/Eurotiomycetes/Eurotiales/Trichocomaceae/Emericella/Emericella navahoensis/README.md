@@ -1,8 +1,7 @@
-Aspergillus navahoensis M. Chr. & States, 1982 SPECIES
-=======
+# Emericella navahoensis M. Chr. & States, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 74(2): 226 (1982)
 
 #### Original name
-Aspergillus navahoensis M. Chr. & States, 1982
+Emericella navahoensis M. Chr. & States, 1982
 
 ### Remarks
 null

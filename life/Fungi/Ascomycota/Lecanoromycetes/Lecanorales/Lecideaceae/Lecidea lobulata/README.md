@@ -1,5 +1,4 @@
-Lecidea lobulata (Flörke) Hue SPECIES
-=======
+# Lecidea lobulata (Flörke) Hue SPECIES
 
 #### Status
 ACCEPTED

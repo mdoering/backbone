@@ -1,5 +1,4 @@
-Volvariopsis fimetaria Murrill SPECIES
-=======
+# Volvariopsis fimetaria Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanconiella nyssagena Ellis & Everh. SPECIES
-=======
+# Melanconiella nyssogena Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 8: 18 (1902)
 
 #### Original name
-Melanconiella nyssagena Ellis & Everh.
+Melanconiella nyssogena Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fermentotrichon intermeditium SPECIES
-=======
+# Fermentotrichon intermeditium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria viridis (Schreb.) Schaer. SPECIES
-=======
+# Lepraria viridis (Schreb.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

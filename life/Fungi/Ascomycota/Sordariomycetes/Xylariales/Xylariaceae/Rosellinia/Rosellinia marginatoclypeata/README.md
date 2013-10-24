@@ -1,5 +1,4 @@
-Rosellinia marginatoclypeata Penz. & Sacc. SPECIES
-=======
+# Rosellinia marginatoclypeata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

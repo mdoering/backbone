@@ -1,5 +1,4 @@
-Gymnochilus flocculosus Earle SPECIES
-=======
+# Gymnochilus flocculosus Earle SPECIES
 
 #### Status
 ACCEPTED

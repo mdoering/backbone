@@ -1,5 +1,4 @@
-Mollisia microstigme Pass. SPECIES
-=======
+# Mollisia microstigme Pass. SPECIES
 
 #### Status
 ACCEPTED

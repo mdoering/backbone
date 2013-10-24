@@ -1,5 +1,4 @@
-Epichloë glyceriae Schardl & Leuchtm. SPECIES
-=======
+# Epichloë glyceriae Schardl & Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

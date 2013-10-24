@@ -1,5 +1,4 @@
-Psathyrella renispora A.H. Sm. SPECIES
-=======
+# Psathyrella renispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

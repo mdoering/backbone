@@ -1,5 +1,4 @@
-Diplophlyctis J. Schröt. GENUS
-=======
+# Diplophlyctis J. Schröt. GENUS
 
 #### Status
 ACCEPTED

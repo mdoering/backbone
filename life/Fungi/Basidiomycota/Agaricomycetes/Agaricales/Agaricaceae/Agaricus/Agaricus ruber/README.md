@@ -1,5 +1,4 @@
-Agaricus ruber Cooke & Massee SPECIES
-=======
+# Agaricus ruber Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium sonomense (Tuck.) Herre SPECIES
-=======
+# Placynthium sonomense (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

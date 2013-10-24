@@ -1,5 +1,4 @@
-Ramularia violae-tricoloris Thüm. SPECIES
-=======
+# Ramularia violae-tricoloris Thüm. SPECIES
 
 #### Status
 ACCEPTED

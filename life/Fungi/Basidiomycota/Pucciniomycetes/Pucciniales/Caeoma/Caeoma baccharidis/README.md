@@ -1,5 +1,4 @@
-Caeoma baccharidis (Lév.) Dietel & Neger SPECIES
-=======
+# Caeoma baccharidis (Lév.) Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

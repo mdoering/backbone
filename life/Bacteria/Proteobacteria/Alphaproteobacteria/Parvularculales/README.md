@@ -1,5 +1,4 @@
-Parvularculales ORDER
-=======
+# Parvularculales ORDER
 
 #### Status
 ACCEPTED

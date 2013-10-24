@@ -1,5 +1,4 @@
-Lichenostigma gracilis Calat., Nav.-Ros. & Hafellner SPECIES
-=======
+# Lichenostigma gracilis Calat., Nav.-Ros. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

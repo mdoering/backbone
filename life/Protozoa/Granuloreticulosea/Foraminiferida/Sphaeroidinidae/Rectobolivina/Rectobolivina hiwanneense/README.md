@@ -1,5 +1,4 @@
-Rectobolivina hiwanneense SPECIES
-=======
+# Rectobolivina hiwanneense SPECIES
 
 #### Status
 ACCEPTED

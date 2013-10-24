@@ -1,5 +1,4 @@
-Dothiorella nucis Fairm. SPECIES
-=======
+# Dothiorella nucis Fairm. SPECIES
 
 #### Status
 ACCEPTED

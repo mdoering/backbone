@@ -1,5 +1,4 @@
-Sclerotium fasciculatum Schumach. SPECIES
-=======
+# Sclerotium fasciculatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

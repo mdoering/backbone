@@ -1,5 +1,4 @@
-Pertusaria valdiviana Messuti & A.W. Archer SPECIES
-=======
+# Pertusaria valdiviana Messuti & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

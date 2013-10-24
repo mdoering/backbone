@@ -1,5 +1,4 @@
-Uromyces tener J. Schröt. SPECIES
-=======
+# Uromyces tener J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

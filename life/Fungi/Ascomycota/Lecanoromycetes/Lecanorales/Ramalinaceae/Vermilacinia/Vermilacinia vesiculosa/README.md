@@ -1,5 +1,4 @@
-Vermilacinia vesiculosa Spjut SPECIES
-=======
+# Vermilacinia vesiculosa Spjut SPECIES
 
 #### Status
 ACCEPTED

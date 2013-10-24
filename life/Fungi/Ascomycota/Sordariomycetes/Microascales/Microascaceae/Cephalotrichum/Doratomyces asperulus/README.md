@@ -1,5 +1,4 @@
-Doratomyces asperulus J.E. Wright & S. Marchand, 1972 SPECIES
-=======
+# Doratomyces asperulus J.E. Wright & S. Marchand, 1972 SPECIES
 
 #### Status
 ACCEPTED

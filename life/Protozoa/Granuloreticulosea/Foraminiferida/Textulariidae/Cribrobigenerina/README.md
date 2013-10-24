@@ -1,5 +1,4 @@
-Cribrobigenerina Andersen, 1961 GENUS
-=======
+# Cribrobigenerina Andersen, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella tylophorae Subhedar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella tylophorae Subhedar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

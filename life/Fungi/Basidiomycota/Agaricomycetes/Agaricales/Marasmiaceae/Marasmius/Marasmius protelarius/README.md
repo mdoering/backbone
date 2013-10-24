@@ -1,5 +1,4 @@
-Marasmius protelarius Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius protelarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

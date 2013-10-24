@@ -1,14 +1,13 @@
-Agaricus limonellus Peck, 1878 SPECIES
-=======
+# Pholiota limonella (Peck) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 33 (1878)
+Syll. fung. (Abellini) 5: 753 (1887)
 
 #### Original name
 Agaricus limonellus Peck, 1878

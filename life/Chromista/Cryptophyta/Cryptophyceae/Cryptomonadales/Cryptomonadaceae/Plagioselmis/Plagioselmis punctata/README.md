@@ -1,5 +1,4 @@
-Plagioselmis punctata R. W. Butcher SPECIES
-=======
+# Plagioselmis punctata R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium thripidum Petch SPECIES
-=======
+# Cephalosporium thripidum Petch SPECIES
 
 #### Status
 ACCEPTED

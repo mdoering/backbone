@@ -1,5 +1,4 @@
-Pluricellaesporites elongatus S.K. Srivast. SPECIES
-=======
+# Pluricellaesporites elongatus S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

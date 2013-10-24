@@ -1,5 +1,4 @@
-Myriotrema subdactyliferum Sipman SPECIES
-=======
+# Myriotrema subdactyliferum Sipman SPECIES
 
 #### Status
 ACCEPTED

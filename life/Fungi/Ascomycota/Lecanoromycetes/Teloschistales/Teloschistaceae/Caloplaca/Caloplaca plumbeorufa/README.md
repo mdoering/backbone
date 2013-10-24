@@ -1,5 +1,4 @@
-Caloplaca plumbeorufa (Nyl.) Jatta SPECIES
-=======
+# Caloplaca plumbeorufa (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Exserohilum parlierensis W.Q. Chen & Michailides SPECIES
-=======
+# Exserohilum parlierense W.Q. Chen & Michailides SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chen, Ntahimpera, Morgan & Michailides, Mycotaxon 83: 153 (2002)
 
 #### Original name
-Exserohilum parlierensis W.Q. Chen & Michailides
+Exserohilum parlierense W.Q. Chen & Michailides
 
 ### Remarks
 null

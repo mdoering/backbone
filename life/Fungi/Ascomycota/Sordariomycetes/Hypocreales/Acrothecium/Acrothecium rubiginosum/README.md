@@ -1,5 +1,4 @@
-Acrothecium rubiginosum Roldan SPECIES
-=======
+# Acrothecium rubiginosum Roldan SPECIES
 
 #### Status
 ACCEPTED

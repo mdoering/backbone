@@ -1,5 +1,4 @@
-Bacidia serrana Malme SPECIES
-=======
+# Bacidia serrana Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reussellidae Cushman, 1933 FAMILY
-=======
+# Reussellidae Cushman, 1933 FAMILY
 
 #### Status
 ACCEPTED

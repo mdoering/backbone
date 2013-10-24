@@ -1,5 +1,4 @@
-Sphaeria sacculus Schwein. SPECIES
-=======
+# Sphaeria sacculus Schwein. SPECIES
 
 #### Status
 ACCEPTED

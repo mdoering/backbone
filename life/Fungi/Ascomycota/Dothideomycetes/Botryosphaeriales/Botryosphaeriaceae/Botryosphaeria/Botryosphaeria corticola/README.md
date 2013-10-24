@@ -1,5 +1,4 @@
-Botryosphaeria corticola A.J.L. Phillips, A. Alves & J. Luque, 2004 SPECIES
-=======
+# Botryosphaeria corticola A.J.L. Phillips, A. Alves & J. Luque, 2004 SPECIES
 
 #### Status
 ACCEPTED

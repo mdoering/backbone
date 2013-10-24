@@ -1,5 +1,4 @@
-Gloeosporium cavarae (Montemart.) Sacc. & P. Syd. SPECIES
-=======
+# Gloeosporium cavarae (Montemart.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

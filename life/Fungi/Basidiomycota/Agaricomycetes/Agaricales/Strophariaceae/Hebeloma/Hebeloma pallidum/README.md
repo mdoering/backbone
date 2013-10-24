@@ -1,5 +1,4 @@
-Hebeloma pallidum Malençon SPECIES
-=======
+# Hebeloma pallidum Malençon SPECIES
 
 #### Status
 ACCEPTED

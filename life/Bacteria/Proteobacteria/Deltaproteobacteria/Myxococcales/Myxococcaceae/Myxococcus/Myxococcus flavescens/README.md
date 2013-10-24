@@ -1,5 +1,4 @@
-Myxococcus flavescens Yamanaka et al., 1990 SPECIES
-=======
+# Myxococcus flavescens Yamanaka et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

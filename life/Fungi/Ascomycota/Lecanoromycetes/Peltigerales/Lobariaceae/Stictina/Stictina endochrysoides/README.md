@@ -1,5 +1,4 @@
-Stictina endochrysoides Müll. Arg. SPECIES
-=======
+# Stictina endochrysoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

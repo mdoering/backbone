@@ -1,5 +1,4 @@
-Uncinula aspera var. aspera VARIETY
-=======
+# Uncinula aspera Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uncinula aspera var. aspera
+Uncinula aspera Doidge
 
 ### Remarks
 null

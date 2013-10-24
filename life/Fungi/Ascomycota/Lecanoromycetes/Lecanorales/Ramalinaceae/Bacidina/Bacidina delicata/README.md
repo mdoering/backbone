@@ -1,17 +1,16 @@
-Woessia delicata (Larbal. ex Leight.) Sérus. & Diederich SPECIES
-=======
+# Bacidina delicata (Larbal. ex Leight.) V. Wirth & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Boom, Sérusiaux, Diederich, Brand, Aptroot & Spier, Lejeunia, n. s. 158: 38 (1998)
+null
 
 #### Original name
-Lecidea effusa var. delicata Larbal. ex Leight.
+null
 
 ### Remarks
 null

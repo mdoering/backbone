@@ -1,8 +1,7 @@
-Coniothyrium amaranti (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Coniothyrium amaranthi (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Bulbothrix continua (Lynge) Hale SPECIES
-=======
+# Bulbothrix continua (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

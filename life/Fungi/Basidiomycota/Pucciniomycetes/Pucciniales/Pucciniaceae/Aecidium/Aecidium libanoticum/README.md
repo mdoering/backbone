@@ -1,5 +1,4 @@
-Aecidium libanoticum Magnus SPECIES
-=======
+# Aecidium libanoticum Magnus SPECIES
 
 #### Status
 ACCEPTED

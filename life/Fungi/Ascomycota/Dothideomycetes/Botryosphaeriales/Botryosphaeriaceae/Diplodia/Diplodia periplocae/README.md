@@ -1,5 +1,4 @@
-Diplodia periplocae Berl. & Bres. SPECIES
-=======
+# Diplodia periplocae Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Domasia quadrispinosa Hill, 1974 SPECIES
-=======
+# Domasia quadrispinosa Hill, 1974 SPECIES
 
 #### Status
 ACCEPTED

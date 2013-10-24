@@ -1,5 +1,4 @@
-Sphaeria vinosa Kunze SPECIES
-=======
+# Sphaeria vinosa Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma malayanum Steyaert SPECIES
-=======
+# Ganoderma malayanum Steyaert SPECIES
 
 #### Status
 ACCEPTED

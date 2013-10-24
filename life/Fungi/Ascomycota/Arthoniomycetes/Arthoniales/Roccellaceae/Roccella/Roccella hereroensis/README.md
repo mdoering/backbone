@@ -1,5 +1,4 @@
-Roccella hereroensis Vain. SPECIES
-=======
+# Roccella hereroensis Vain. SPECIES
 
 #### Status
 ACCEPTED

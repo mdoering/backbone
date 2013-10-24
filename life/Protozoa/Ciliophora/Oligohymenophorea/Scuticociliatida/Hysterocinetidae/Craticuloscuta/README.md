@@ -1,5 +1,4 @@
-Craticuloscuta Kozloff, 1965 GENUS
-=======
+# Craticuloscuta Kozloff, 1965 GENUS
 
 #### Status
 ACCEPTED

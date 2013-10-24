@@ -1,8 +1,7 @@
-Heterothrix solida Vischer SPECIES
-=======
+# Xanthonema solidum (Vischer) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

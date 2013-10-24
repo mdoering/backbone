@@ -1,5 +1,4 @@
-Sargassum horridulum Grunow SPECIES
-=======
+# Sargassum horridulum Grunow SPECIES
 
 #### Status
 ACCEPTED

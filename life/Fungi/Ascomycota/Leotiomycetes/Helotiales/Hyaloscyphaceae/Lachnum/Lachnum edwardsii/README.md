@@ -1,5 +1,4 @@
-Lachnum edwardsii J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Lachnum edwardsii J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

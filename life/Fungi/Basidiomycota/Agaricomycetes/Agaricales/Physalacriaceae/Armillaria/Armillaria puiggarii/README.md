@@ -1,5 +1,4 @@
-Armillaria puiggarii Speg. SPECIES
-=======
+# Armillaria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

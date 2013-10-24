@@ -1,8 +1,7 @@
-Rivularia intermedia Lemmermann SPECIES
-=======
+# Gloeotrichia longiarticulata G.S. West SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Xylographa atrocyanea Fuckel SPECIES
-=======
+# Xylographa atrocyanea Fuckel SPECIES
 
 #### Status
 ACCEPTED

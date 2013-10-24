@@ -1,14 +1,13 @@
-Praeoglobobulimina GENUS
-=======
+# Praeglobobulimina Hofker, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Monogr. Siboga Exped. , 4a, 248.
 
 #### Original name
 null

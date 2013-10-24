@@ -1,5 +1,4 @@
-Catapyrenium imitans Breuss SPECIES
-=======
+# Catapyrenium imitans Breuss SPECIES
 
 #### Status
 ACCEPTED

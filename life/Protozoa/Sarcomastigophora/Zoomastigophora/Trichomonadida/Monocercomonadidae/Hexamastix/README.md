@@ -1,5 +1,4 @@
-Hexamastix Alexeieff, 1912 GENUS
-=======
+# Hexamastix Alexeieff, 1912 GENUS
 
 #### Status
 ACCEPTED

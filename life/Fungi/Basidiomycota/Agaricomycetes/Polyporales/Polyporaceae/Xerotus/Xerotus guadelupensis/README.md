@@ -1,17 +1,16 @@
-Xerotus guadalupensis Pat. SPECIES
-=======
+# Xerotus guadelupensis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 15: 195 (1899)
 
 #### Original name
-Xerotus guadalupensis Pat.
+Xerotus guadelupensis Pat.
 
 ### Remarks
 null

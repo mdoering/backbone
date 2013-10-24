@@ -1,5 +1,4 @@
-Dichantharellus brunnescens Corner, 1976 SPECIES
-=======
+# Dichantharellus brunnescens Corner, 1976 SPECIES
 
 #### Status
 ACCEPTED

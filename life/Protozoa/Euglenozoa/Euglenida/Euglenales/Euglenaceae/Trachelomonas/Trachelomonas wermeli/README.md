@@ -1,5 +1,4 @@
-Trachelomonas wermeli var. paludosa Skvortsov VARIETY
-=======
+# Trachelomonas wermeli SPECIES
 
 #### Status
 ACCEPTED

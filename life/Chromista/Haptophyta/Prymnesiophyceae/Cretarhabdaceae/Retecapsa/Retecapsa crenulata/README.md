@@ -1,5 +1,4 @@
-Retecapsa crenulata SPECIES
-=======
+# Retecapsa crenulata SPECIES
 
 #### Status
 ACCEPTED

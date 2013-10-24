@@ -1,5 +1,4 @@
-Geopyxis striatospora Maubl. & Roger SPECIES
-=======
+# Geopyxis striatospora Maubl. & Roger SPECIES
 
 #### Status
 ACCEPTED

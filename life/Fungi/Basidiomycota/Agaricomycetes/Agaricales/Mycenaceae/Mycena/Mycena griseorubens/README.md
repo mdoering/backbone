@@ -1,5 +1,4 @@
-Mycena griseorubens Mont. SPECIES
-=======
+# Mycena griseorubens Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus phalliger Pat. SPECIES
-=======
+# Pleurotus phalliger Pat. SPECIES
 
 #### Status
 ACCEPTED

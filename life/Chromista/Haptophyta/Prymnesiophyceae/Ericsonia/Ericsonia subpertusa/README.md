@@ -1,5 +1,4 @@
-Ericsonia subpertusa W.W. Hay & H.P. Mohler SPECIES
-=======
+# Ericsonia subpertusa W.W. Hay & H.P. Mohler SPECIES
 
 #### Status
 ACCEPTED

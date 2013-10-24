@@ -1,5 +1,4 @@
-Agaricus cupularis Bull. ex Pers. SPECIES
-=======
+# Agaricus cupularis Bull. ex Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cortinaria SPECIES
-=======
+# Cortinarius cortinaria SPECIES
 
 #### Status
 ACCEPTED

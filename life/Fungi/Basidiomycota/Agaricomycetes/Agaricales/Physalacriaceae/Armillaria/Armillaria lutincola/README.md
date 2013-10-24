@@ -1,5 +1,4 @@
-Armillaria lutincola Lasch SPECIES
-=======
+# Armillaria lutincola Lasch SPECIES
 
 #### Status
 ACCEPTED

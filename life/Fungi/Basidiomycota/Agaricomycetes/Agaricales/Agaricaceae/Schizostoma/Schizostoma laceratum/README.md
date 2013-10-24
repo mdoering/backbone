@@ -1,17 +1,16 @@
-Tulostoma laceratum var. laceratum Ehrenb. ex Fr. VARIETY
-=======
+# Schizostoma laceratum (Ehrenb. ex Fr.) Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 43 (1829)
+Annls Sci. Nat. , Bot. , sér. 3 5: 163 (1846)
 
 #### Original name
-Tulostoma laceratum var. laceratum Ehrenb. ex Fr.
+Tulostoma laceratum Ehrenb. ex Fr., 1829
 
 ### Remarks
 null

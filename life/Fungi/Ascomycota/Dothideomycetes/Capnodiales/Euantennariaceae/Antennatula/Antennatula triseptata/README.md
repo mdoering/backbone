@@ -1,5 +1,4 @@
-Antennatula triseptata S. Hughes, 1974 SPECIES
-=======
+# Antennatula triseptata S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

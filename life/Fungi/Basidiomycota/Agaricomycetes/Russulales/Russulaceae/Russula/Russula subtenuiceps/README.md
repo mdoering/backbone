@@ -1,5 +1,4 @@
-Russula subtenuiceps Fatto SPECIES
-=======
+# Russula subtenuiceps Fatto SPECIES
 
 #### Status
 ACCEPTED

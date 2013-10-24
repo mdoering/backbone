@@ -1,5 +1,4 @@
-Puccinia marisci-sieberiani Sawada SPECIES
-=======
+# Puccinia marisci-sieberiani Sawada SPECIES
 
 #### Status
 ACCEPTED

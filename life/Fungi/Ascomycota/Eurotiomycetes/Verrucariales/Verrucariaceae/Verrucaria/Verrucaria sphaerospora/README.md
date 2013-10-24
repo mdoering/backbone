@@ -1,5 +1,4 @@
-Verrucaria sphaerospora Anzi SPECIES
-=======
+# Verrucaria sphaerospora Anzi SPECIES
 
 #### Status
 ACCEPTED

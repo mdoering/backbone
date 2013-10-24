@@ -1,5 +1,4 @@
-Agaricus sulphuratus Batsch SPECIES
-=======
+# Agaricus sulphuratus Batsch SPECIES
 
 #### Status
 ACCEPTED

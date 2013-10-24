@@ -1,5 +1,4 @@
-Sphaerocista oculata Preuss SPECIES
-=======
+# Sphaerocista oculata Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimorphomyces tuzsonii (Bánhegyi) I.I. Tav. SPECIES
-=======
+# Dimorphomyces tuzsonii (Bánhegyi) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

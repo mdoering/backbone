@@ -1,14 +1,13 @@
-Cytidia hakgallae (Berk. & Broome) G.W. Martin, 1942 SPECIES
-=======
+# Aleurocystis hakgallae (Berk. & Broome) G. Cunn., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 160 (1942)
+Trans. Roy. Soc. New Zealand 84(2): 235 (1956)
 
 #### Original name
 null

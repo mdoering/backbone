@@ -1,5 +1,4 @@
-Vorticella pyrum Mereschkowsky, 1879 SPECIES
-=======
+# Vorticella pyrum Mereschkowsky, 1879 SPECIES
 
 #### Status
 ACCEPTED

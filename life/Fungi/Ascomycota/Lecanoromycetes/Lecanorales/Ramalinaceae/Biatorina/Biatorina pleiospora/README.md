@@ -1,5 +1,4 @@
-Biatorina pleiospora J. Steiner SPECIES
-=======
+# Biatorina pleiospora J. Steiner SPECIES
 
 #### Status
 ACCEPTED

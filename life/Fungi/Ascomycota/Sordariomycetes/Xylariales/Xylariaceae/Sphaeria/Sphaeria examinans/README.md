@@ -1,5 +1,4 @@
-Sphaeria examinans Berk. SPECIES
-=======
+# Sphaeria examinans Berk. SPECIES
 
 #### Status
 ACCEPTED

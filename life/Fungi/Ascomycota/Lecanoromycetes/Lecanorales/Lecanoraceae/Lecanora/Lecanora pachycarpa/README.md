@@ -1,5 +1,4 @@
-Lecanora pachycarpa Samp. SPECIES
-=======
+# Lecanora pachycarpa Samp. SPECIES
 
 #### Status
 ACCEPTED

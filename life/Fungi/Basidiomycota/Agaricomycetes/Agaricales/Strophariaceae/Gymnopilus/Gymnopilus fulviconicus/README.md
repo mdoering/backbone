@@ -1,5 +1,4 @@
-Gymnopilus fulviconicus Murrill SPECIES
-=======
+# Gymnopilus fulviconicus Murrill SPECIES
 
 #### Status
 ACCEPTED

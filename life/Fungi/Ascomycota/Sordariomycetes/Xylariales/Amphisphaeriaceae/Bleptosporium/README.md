@@ -1,17 +1,16 @@
-Monochaetina Subram. GENUS
-=======
+# Bleptosporium Steyaert GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Natl. Inst. Sci. India, B, Biol. Sci. 27: 241 (1961)
+Darwiniana 12: 171 (1961)
 
 #### Original name
-Monochaetina Subram.
+Bleptosporium Steyaert
 
 ### Remarks
 null

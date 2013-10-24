@@ -1,5 +1,4 @@
-Galatheammina tetraeda Tendal, 1972 SPECIES
-=======
+# Galatheammina tetraeda Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

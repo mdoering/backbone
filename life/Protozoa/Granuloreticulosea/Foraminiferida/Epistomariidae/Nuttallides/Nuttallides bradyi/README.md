@@ -1,8 +1,7 @@
-Osangulariella bradyi (Earland, 1934) SPECIES
-=======
+# Nuttallides bradyi (Earland, 1934) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

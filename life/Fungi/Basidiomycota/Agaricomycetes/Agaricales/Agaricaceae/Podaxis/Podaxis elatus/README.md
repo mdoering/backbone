@@ -1,8 +1,7 @@
-Podaxon elatus Welw. & Curr. SPECIES
-=======
+# Podaxis elatus Welw. & Curr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon elatus Welw. & Curr.
+Podaxis elatus Welw. & Curr.
 
 ### Remarks
 null

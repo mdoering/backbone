@@ -1,5 +1,4 @@
-Togninia reniformis (Richon) Berl. SPECIES
-=======
+# Togninia reniformis (Richon) Berl. SPECIES
 
 #### Status
 ACCEPTED

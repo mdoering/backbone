@@ -1,17 +1,16 @@
-Meliola dracenae-terniflorae Hosag. SPECIES
-=======
+# Meliola dracaenae-terniflorae Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meliolales of India (Calcutta) 183 (1996)
 
 #### Original name
-Meliola dracenae-terniflorae Hosag.
+Meliola dracaenae-terniflorae Hosag.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Tricholoma cerinum var. cerinum VARIETY
-=======
+# Calocybe chrysenteron (Bull.) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 133 (1871)
+Sydowia 15: 47 (1962)
 
 #### Original name
-Tricholoma cerinum var. cerinum
+Agaricus chrysenteron Bull., 1792
 
 ### Remarks
 null

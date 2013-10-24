@@ -1,5 +1,4 @@
-Kyphomyces devexirostris (Speg.) I.I. Tav. SPECIES
-=======
+# Kyphomyces devexirostris (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

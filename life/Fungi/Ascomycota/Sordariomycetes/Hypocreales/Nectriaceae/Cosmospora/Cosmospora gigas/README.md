@@ -1,5 +1,4 @@
-Cosmospora gigas J. Luo & W.Y. Zhuang SPECIES
-=======
+# Cosmospora gigas J. Luo & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

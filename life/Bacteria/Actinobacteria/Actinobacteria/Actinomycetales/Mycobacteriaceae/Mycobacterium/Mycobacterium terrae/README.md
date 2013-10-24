@@ -1,5 +1,4 @@
-Mycobacterium terrae Wayne, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium terrae Wayne, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

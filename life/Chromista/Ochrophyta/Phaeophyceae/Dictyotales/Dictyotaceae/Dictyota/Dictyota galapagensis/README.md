@@ -1,5 +1,4 @@
-Dictyota galapagensis (Farlow) De Clerck, 2006 SPECIES
-=======
+# Dictyota galapagensis (Farlow) De Clerck, 2006 SPECIES
 
 #### Status
 ACCEPTED

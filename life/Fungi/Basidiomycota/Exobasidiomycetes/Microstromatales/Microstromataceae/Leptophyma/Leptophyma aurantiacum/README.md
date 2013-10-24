@@ -1,5 +1,4 @@
-Leptophyma aurantiacum (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Leptophyma aurantiacum (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

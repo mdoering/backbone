@@ -1,5 +1,4 @@
-Alepiella Golemansky, 1970 GENUS
-=======
+# Alepiella Golemansky, 1970 GENUS
 
 #### Status
 ACCEPTED

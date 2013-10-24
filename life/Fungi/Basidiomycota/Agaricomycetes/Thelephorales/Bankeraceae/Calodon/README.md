@@ -1,5 +1,4 @@
-Calodon GENUS
-=======
+# Calodon GENUS
 
 #### Status
 ACCEPTED

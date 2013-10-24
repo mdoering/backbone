@@ -1,5 +1,4 @@
-Succinispira Janssen & O'Farrell, 1999 GENUS
-=======
+# Succinispira Janssen & O'Farrell, 1999 GENUS
 
 #### Status
 ACCEPTED

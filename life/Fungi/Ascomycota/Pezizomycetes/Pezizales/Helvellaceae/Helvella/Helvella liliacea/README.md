@@ -1,5 +1,4 @@
-Helvella liliacea Wulfen SPECIES
-=======
+# Helvella liliacea Wulfen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus fusidens Kahl, 1926 SPECIES
-=======
+# Lionotus fusidens Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

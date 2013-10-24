@@ -1,5 +1,4 @@
-Nodosaria glabra d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria glabra d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

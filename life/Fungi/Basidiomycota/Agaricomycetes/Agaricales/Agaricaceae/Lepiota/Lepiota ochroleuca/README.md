@@ -1,5 +1,4 @@
-Lepiota ochroleuca Lucand SPECIES
-=======
+# Lepiota ochroleuca Lucand SPECIES
 
 #### Status
 ACCEPTED

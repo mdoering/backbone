@@ -1,5 +1,4 @@
-Phyllosticta phytoptorum Bubák SPECIES
-=======
+# Phyllosticta phytoptorum Bubák SPECIES
 
 #### Status
 ACCEPTED

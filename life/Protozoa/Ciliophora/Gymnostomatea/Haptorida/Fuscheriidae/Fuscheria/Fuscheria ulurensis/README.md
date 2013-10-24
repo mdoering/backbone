@@ -1,5 +1,4 @@
-Fuscheria ulurensis Foissner & Gabilondo in Gabilondo & Foissner, 2009 SPECIES
-=======
+# Fuscheria ulurensis Foissner & Gabilondo in Gabilondo & Foissner, 2009 SPECIES
 
 #### Status
 ACCEPTED

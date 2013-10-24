@@ -1,5 +1,4 @@
-Venturia arctostaphyli Cooke & Harkn. SPECIES
-=======
+# Venturia arctostaphyli Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

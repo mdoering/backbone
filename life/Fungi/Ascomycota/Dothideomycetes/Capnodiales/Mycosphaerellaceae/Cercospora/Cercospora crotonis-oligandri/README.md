@@ -1,5 +1,4 @@
-Cercospora crotonis-oligandri J.M. Yen & Gilles SPECIES
-=======
+# Cercospora crotonis-oligandri J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtosphaera aculeata (Kamptner) A. Kleijne SPECIES
-=======
+# Cyrtosphaera aculeata (Kamptner) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

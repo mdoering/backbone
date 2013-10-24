@@ -1,5 +1,4 @@
-Pseudophragmotrichum cubense W.P. Wu, B. Sutton & Gange, 1998 SPECIES
-=======
+# Pseudophragmotrichum cubense W.P. Wu, B. Sutton & Gange, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geoglossum glabrum var. minor Cooke, 1879 VARIETY
-=======
+# Geoglossum cookeanum Nannf., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 46): 61 (1879)
+Arch. für Botanik 20: 22 (1942)
 
 #### Original name
-Geoglossum glabrum var. minor Cooke, 1879
+Geoglossum cookeanum Nannf., 1942
 
 ### Remarks
 null

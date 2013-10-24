@@ -1,17 +1,16 @@
-Rinodina archaeoides H. Magn. SPECIES
-=======
+# Rinodina olivaceobrunnea C. W. Dodge & G. E. Baker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 25: 659 (1938)
 
 #### Original name
-null
+Rinodina olivaceobrunnea C. W. Dodge & G. E. Baker
 
 ### Remarks
 null

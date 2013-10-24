@@ -1,5 +1,4 @@
-Chaenotheca benearnensis Vezda & Vivant SPECIES
-=======
+# Chaenotheca benearnensis Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

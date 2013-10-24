@@ -1,5 +1,4 @@
-Rinodina virella SPECIES
-=======
+# Rinodina virella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bhatiella morphysae Setna, 1931 SPECIES
-=======
+# Bhatiella marphysae Setna, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

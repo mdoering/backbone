@@ -1,5 +1,4 @@
-Nereia Zanardini, 1846 GENUS
-=======
+# Nereia Zanardini, 1846 GENUS
 
 #### Status
 ACCEPTED

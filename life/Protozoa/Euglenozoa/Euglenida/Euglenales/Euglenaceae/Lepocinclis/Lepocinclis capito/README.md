@@ -1,5 +1,4 @@
-Lepocinclis capito Wehrle SPECIES
-=======
+# Lepocinclis capito Wehrle SPECIES
 
 #### Status
 ACCEPTED

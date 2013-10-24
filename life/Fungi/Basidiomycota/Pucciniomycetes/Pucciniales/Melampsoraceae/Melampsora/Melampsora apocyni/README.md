@@ -1,5 +1,4 @@
-Melampsora apocyni Tranzschel SPECIES
-=======
+# Melampsora apocyni Tranzschel SPECIES
 
 #### Status
 ACCEPTED

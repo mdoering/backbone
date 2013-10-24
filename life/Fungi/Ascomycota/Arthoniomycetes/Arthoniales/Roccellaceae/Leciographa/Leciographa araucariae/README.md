@@ -1,5 +1,4 @@
-Leciographa araucariae Rehm SPECIES
-=======
+# Leciographa araucariae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen rutilans Ach. SPECIES
-=======
+# Lichen rutilans Ach. SPECIES
 
 #### Status
 ACCEPTED

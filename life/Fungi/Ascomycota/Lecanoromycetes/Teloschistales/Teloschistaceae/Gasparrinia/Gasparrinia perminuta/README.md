@@ -1,5 +1,4 @@
-Gasparrinia perminuta (Mereschk.) Oxner SPECIES
-=======
+# Gasparrinia perminuta (Mereschk.) Oxner SPECIES
 
 #### Status
 ACCEPTED

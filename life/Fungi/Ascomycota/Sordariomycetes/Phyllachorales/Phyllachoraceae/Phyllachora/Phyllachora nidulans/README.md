@@ -1,5 +1,4 @@
-Phyllachora nidulans var. nidulans VARIETY
-=======
+# Phyllachora nidulans SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 7: 176 (1891)
+null
 
 #### Original name
-Phyllachora nidulans var. nidulans
+null
 
 ### Remarks
 null

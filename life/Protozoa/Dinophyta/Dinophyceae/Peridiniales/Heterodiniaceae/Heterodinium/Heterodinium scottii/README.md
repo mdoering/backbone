@@ -1,5 +1,4 @@
-Heterodinium scottii Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium scottii Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

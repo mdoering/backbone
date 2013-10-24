@@ -1,5 +1,4 @@
-Agaricus glauconitens Fr. SPECIES
-=======
+# Agaricus glauconitens Fr. SPECIES
 
 #### Status
 ACCEPTED

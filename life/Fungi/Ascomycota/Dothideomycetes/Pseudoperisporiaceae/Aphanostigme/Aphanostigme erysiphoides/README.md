@@ -1,5 +1,4 @@
-Aphanostigme erysiphoides (Rehm) E. Müll. SPECIES
-=======
+# Aphanostigme erysiphoides (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

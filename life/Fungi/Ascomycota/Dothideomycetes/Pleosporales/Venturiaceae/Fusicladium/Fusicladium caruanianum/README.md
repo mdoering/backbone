@@ -1,5 +1,4 @@
-Fusicladium caruanianum Sacc. SPECIES
-=======
+# Fusicladium caruanianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyrobolus Kuntze GENUS
-=======
+# Eurotium Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 868 (1891)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 31 (1809)
 
 #### Original name
-Pyrobolus Kuntze
+Eurotium Link
 
 ### Remarks
 null

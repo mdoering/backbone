@@ -1,5 +1,4 @@
-Verrucaria sphenospora Nyl. SPECIES
-=======
+# Verrucaria sphenospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

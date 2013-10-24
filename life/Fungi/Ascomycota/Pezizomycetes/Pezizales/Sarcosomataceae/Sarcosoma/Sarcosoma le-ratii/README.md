@@ -1,5 +1,4 @@
-Sarcosoma le-ratii Pat. SPECIES
-=======
+# Sarcosoma le-ratii Pat. SPECIES
 
 #### Status
 ACCEPTED

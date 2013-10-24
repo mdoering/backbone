@@ -1,8 +1,7 @@
-Lobaria calycaris (L.) Hoffm. SPECIES
-=======
+# Lobaria calicaris (L.) Hoffm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

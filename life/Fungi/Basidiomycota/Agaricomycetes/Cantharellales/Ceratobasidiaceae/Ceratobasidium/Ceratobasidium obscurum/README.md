@@ -1,14 +1,13 @@
-Thanatephorus obscurus (D.P. Rogers) P. Roberts, 1998 SPECIES
-=======
+# Ceratobasidium obscurum D.P. Rogers, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 102(9): 1074 (1998)
+Univ. Iowa Stud. nat. Hist. 17(1): 6 (1935)
 
 #### Original name
 Ceratobasidium obscurum D.P. Rogers, 1935

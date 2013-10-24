@@ -1,5 +1,4 @@
-Parmelia dodapetta (Hale & Patw.) D.D. Awasthi SPECIES
-=======
+# Parmelia dodapetta (Hale & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

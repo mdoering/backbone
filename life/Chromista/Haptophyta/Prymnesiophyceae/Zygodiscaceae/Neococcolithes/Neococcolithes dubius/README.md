@@ -1,8 +1,7 @@
-Neococcolithes pyramidus (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
-=======
+# Neococcolithes dubius (Deflandre, 1954) Black, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Parapolyporites Tanai GENUS
-=======
+# Parapolyporites Tanai GENUS
 
 #### Status
 ACCEPTED

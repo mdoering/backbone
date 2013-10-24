@@ -1,5 +1,4 @@
-Campanella tenuitunicata Singer SPECIES
-=======
+# Campanella tenuitunicata Singer SPECIES
 
 #### Status
 ACCEPTED

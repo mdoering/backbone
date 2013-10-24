@@ -1,5 +1,4 @@
-Fusella patellata (Bonord.) Sacc. SPECIES
-=======
+# Fusella patellata (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

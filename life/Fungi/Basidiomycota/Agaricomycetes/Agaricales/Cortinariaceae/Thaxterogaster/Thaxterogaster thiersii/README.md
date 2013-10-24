@@ -1,5 +1,4 @@
-Thaxterogaster thiersii Calhoun SPECIES
-=======
+# Thaxterogaster thiersii Calhoun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces falcatus Thaxt. SPECIES
-=======
+# Dimeromyces falcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

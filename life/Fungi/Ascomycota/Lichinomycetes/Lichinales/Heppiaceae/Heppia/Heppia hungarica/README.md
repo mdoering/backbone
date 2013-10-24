@@ -1,5 +1,4 @@
-Heppia hungarica Sántha SPECIES
-=======
+# Heppia hungarica Sántha SPECIES
 
 #### Status
 ACCEPTED

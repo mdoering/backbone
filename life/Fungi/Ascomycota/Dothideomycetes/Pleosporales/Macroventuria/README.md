@@ -1,5 +1,4 @@
-Macroventuria Aa GENUS
-=======
+# Macroventuria Aa GENUS
 
 #### Status
 ACCEPTED

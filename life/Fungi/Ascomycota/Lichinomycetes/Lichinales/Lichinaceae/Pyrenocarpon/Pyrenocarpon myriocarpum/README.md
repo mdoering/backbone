@@ -1,5 +1,4 @@
-Pyrenocarpon myriocarpum (Hepp ex Lönnr.) Trevis. SPECIES
-=======
+# Pyrenocarpon myriocarpum (Hepp ex Lönnr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

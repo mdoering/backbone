@@ -1,5 +1,4 @@
-Parmelia deminuta Hue SPECIES
-=======
+# Parmelia deminuta Hue SPECIES
 
 #### Status
 ACCEPTED

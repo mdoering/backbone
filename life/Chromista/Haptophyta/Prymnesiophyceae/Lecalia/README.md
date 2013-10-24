@@ -1,5 +1,4 @@
-Lecalia A.R. Loeblich Jr. & H. Tappan, 1963 GENUS
-=======
+# Lecalia A.R. Loeblich Jr. & H. Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

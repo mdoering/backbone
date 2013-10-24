@@ -1,5 +1,4 @@
-Entyloma atlanticum Massenot SPECIES
-=======
+# Entyloma atlanticum Massenot SPECIES
 
 #### Status
 ACCEPTED

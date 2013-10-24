@@ -1,5 +1,4 @@
-Tapellaria similis Kalb SPECIES
-=======
+# Tapellaria similis Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichococcus pasteurii (Schink, 1985) Liu et al., 2002 SPECIES
-=======
+# Trichococcus pasteurii (Schink, 1985) Liu et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

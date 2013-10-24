@@ -1,5 +1,4 @@
-Gloeosporium capsularum Cooke & Harkn. SPECIES
-=======
+# Gloeosporium capsularum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

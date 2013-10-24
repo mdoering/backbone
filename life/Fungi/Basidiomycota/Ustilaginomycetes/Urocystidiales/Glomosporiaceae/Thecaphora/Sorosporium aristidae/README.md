@@ -1,5 +1,4 @@
-Sorosporium aristidae Neger SPECIES
-=======
+# Sorosporium aristidae Neger SPECIES
 
 #### Status
 ACCEPTED

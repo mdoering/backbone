@@ -1,17 +1,16 @@
-Exobasidium vaccinii andromedae (P. Karst.) P. Karst., 1882 INFRASPECIFIC_NAME
-=======
+# Exobasidium karstenii Sacc. & Trotter, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 420 (1912)
 
 #### Original name
-Exobasidium andromedae P. Karst., 1878
+Exobasidium karstenii Sacc. & Trotter, 1912
 
 ### Remarks
 null

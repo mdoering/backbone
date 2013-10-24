@@ -1,5 +1,4 @@
-Gloeosporium crotonis Delacr. SPECIES
-=======
+# Gloeosporium crotonis Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilosticta laurincola (Rehm) Bat. & J.L. Bezerra SPECIES
-=======
+# Spilosticta laurincola (Rehm) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

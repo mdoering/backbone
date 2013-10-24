@@ -1,5 +1,4 @@
-Cystidiodontia Hjortstam GENUS
-=======
+# Cystidiodontia Hjortstam GENUS
 
 #### Status
 ACCEPTED

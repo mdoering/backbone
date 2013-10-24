@@ -1,17 +1,16 @@
-Teratosphaeria parkiiaffinis (Crous & M.J. Wingf.) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella parkiiaffinis Crous & M.J. Wingf., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Summerell, Carnegie, Mohammed, Himaman & Groenewald, Fungal Diversity 26(1): 168 (2007)
 
 #### Original name
-null
+Mycosphaerella parkiiaffinis Crous & M.J. Wingf., 2007
 
 ### Remarks
 null

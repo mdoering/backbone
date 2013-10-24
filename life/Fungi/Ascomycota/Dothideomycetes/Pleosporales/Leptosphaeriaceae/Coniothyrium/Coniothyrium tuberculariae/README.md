@@ -1,5 +1,4 @@
-Coniothyrium tuberculariae Pass. SPECIES
-=======
+# Coniothyrium tuberculariae Pass. SPECIES
 
 #### Status
 ACCEPTED

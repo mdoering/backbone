@@ -1,11 +1,10 @@
-Odontella subaequa Kützing, 1844 SPECIES
-=======
+# Biddulphia subaequa (Kützing) Ralfs in Pritchard, 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

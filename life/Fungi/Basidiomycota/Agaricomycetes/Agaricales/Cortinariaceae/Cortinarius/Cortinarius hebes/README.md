@@ -1,5 +1,4 @@
-Cortinarius hebes E. Horak SPECIES
-=======
+# Cortinarius hebes E. Horak SPECIES
 
 #### Status
 ACCEPTED

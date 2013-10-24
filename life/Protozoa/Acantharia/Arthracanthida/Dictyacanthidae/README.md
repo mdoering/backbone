@@ -1,5 +1,4 @@
-Dictyacanthidae Schewiakoff, 1926 FAMILY
-=======
+# Dictyacanthidae Schewiakoff, 1926 FAMILY
 
 #### Status
 ACCEPTED

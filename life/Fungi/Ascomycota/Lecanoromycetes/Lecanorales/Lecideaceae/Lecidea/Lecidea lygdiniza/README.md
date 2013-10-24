@@ -1,5 +1,4 @@
-Lecidea lygdiniza Nyl. SPECIES
-=======
+# Lecidea lygdiniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

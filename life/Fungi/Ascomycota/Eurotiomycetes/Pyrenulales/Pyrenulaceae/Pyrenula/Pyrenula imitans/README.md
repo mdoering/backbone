@@ -1,5 +1,4 @@
-Pyrenula imitans (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula imitans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

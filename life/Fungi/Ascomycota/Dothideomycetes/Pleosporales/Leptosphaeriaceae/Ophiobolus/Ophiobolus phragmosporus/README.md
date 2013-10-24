@@ -1,5 +1,4 @@
-Ophiobolus phragmosporus Speg. SPECIES
-=======
+# Ophiobolus phragmosporus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria planktonica SPECIES
-=======
+# Oscillatoria planktonica SPECIES
 
 #### Status
 ACCEPTED

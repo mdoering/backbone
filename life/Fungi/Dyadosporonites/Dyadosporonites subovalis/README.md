@@ -1,5 +1,4 @@
-Dyadosporonites subovalis Sheffy & Dilcher SPECIES
-=======
+# Dyadosporonites subovalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

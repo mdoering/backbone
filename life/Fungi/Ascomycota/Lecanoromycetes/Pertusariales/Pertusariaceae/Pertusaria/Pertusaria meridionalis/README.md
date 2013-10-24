@@ -1,5 +1,4 @@
-Pertusaria meridionalis var. meridionalis VARIETY
-=======
+# Pertusaria meridionalis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 64: 515 (1881)
 
 #### Original name
-Pertusaria meridionalis var. meridionalis
+Pertusaria meridionalis Müll. Arg.
 
 ### Remarks
 null

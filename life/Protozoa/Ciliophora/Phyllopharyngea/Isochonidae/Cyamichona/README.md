@@ -1,5 +1,4 @@
-Cyamichona Jankowski, 1971 GENUS
-=======
+# Cyamichona Jankowski, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ochraceofulva (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora ochraceofulva (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

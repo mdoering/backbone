@@ -1,5 +1,4 @@
-Striglia aurea (Pers.) Kuntze SPECIES
-=======
+# Striglia aurea (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitroporata armata Lopukhin, 1966 SPECIES
-=======
+# Mitroporata armata Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

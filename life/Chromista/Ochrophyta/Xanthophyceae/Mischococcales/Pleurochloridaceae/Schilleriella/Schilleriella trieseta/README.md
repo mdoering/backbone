@@ -1,5 +1,4 @@
-Schilleriella trieseta (J. Schiller) Pascher SPECIES
-=======
+# Schilleriella trieseta (J. Schiller) Pascher SPECIES
 
 #### Status
 ACCEPTED

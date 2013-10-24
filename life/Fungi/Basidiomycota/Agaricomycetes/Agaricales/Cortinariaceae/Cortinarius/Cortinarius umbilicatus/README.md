@@ -1,5 +1,4 @@
-Cortinarius umbilicatus P. Karst. SPECIES
-=======
+# Cortinarius umbilicatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

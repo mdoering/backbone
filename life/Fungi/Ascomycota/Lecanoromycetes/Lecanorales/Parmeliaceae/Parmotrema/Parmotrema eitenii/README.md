@@ -1,5 +1,4 @@
-Parmotrema eitenii Marcelli & Benatti SPECIES
-=======
+# Parmotrema eitenii Marcelli & Benatti SPECIES
 
 #### Status
 ACCEPTED

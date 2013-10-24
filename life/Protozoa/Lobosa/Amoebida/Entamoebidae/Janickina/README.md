@@ -1,5 +1,4 @@
-Janickina Chatton, 1953 GENUS
-=======
+# Janickina Chatton, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeotrema foraminulosum (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeotrema foraminulosum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

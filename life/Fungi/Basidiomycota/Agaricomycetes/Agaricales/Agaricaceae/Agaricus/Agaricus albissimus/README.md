@@ -1,5 +1,4 @@
-Agaricus albissimus Peck SPECIES
-=======
+# Agaricus albissimus Peck SPECIES
 
 #### Status
 ACCEPTED

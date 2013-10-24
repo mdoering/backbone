@@ -1,5 +1,4 @@
-Humaria pangerangensis Henn. & E. Nyman SPECIES
-=======
+# Humaria pangerangensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

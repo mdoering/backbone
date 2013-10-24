@@ -1,5 +1,4 @@
-Leptasteromella GENUS
-=======
+# Leptasteromella GENUS
 
 #### Status
 ACCEPTED

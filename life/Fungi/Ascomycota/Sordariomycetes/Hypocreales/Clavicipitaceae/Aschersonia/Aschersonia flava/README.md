@@ -1,5 +1,4 @@
-Aschersonia flava Petch SPECIES
-=======
+# Aschersonia flava Petch SPECIES
 
 #### Status
 ACCEPTED

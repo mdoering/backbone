@@ -1,5 +1,4 @@
-Penicillium emodense Udagawa SPECIES
-=======
+# Penicillium emodense Udagawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria praelucida (Kremp.) Müll. Arg. SPECIES
-=======
+# Patellaria praelucida (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

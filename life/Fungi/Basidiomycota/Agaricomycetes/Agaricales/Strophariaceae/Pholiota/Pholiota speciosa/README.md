@@ -1,5 +1,4 @@
-Pholiota speciosa Clem. SPECIES
-=======
+# Pholiota speciosa Clem. SPECIES
 
 #### Status
 ACCEPTED

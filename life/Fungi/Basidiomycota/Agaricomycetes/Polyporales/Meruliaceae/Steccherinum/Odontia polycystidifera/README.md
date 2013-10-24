@@ -1,5 +1,4 @@
-Odontia polycystidifera Rick SPECIES
-=======
+# Odontia polycystidifera Rick SPECIES
 
 #### Status
 ACCEPTED

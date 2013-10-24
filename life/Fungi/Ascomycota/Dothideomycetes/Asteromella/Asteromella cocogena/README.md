@@ -1,5 +1,4 @@
-Asteromella cocogena Boerema, Loer. & Hamers SPECIES
-=======
+# Asteromella cocogena Boerema, Loer. & Hamers SPECIES
 
 #### Status
 ACCEPTED

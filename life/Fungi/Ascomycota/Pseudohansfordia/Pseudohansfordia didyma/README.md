@@ -1,5 +1,4 @@
-Pseudohansfordia didyma (Deighton & Piroz.) de Hoog SPECIES
-=======
+# Pseudohansfordia didyma (Deighton & Piroz.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

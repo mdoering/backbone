@@ -1,5 +1,4 @@
-Hygrocybe pumanquensis Singer SPECIES
-=======
+# Hygrocybe pumanquensis Singer SPECIES
 
 #### Status
 ACCEPTED

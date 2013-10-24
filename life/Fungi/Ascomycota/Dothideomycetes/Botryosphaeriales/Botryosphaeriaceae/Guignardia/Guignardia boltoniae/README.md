@@ -1,5 +1,4 @@
-Guignardia boltoniae Dearn. & Barthol. SPECIES
-=======
+# Guignardia boltoniae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

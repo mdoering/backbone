@@ -1,5 +1,4 @@
-Tylopilus ferrugineus Watling & N.M. Greg. SPECIES
-=======
+# Tylopilus ferrugineus Watling & N.M. Greg. SPECIES
 
 #### Status
 ACCEPTED

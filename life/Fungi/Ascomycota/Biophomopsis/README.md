@@ -1,5 +1,4 @@
-Biophomopsis Petr. GENUS
-=======
+# Biophomopsis Petr. GENUS
 
 #### Status
 ACCEPTED

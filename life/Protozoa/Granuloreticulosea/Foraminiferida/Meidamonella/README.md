@@ -1,5 +1,4 @@
-Meidamonella Loeblich & Tappan, 1986 GENUS
-=======
+# Meidamonella Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

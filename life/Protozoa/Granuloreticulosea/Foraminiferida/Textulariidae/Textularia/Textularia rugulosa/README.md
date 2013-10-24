@@ -1,8 +1,7 @@
-Gaudryina rugulosa Cushman, 1932 SPECIES
-=======
+# Textularia rugulosa (Cushman, 1932) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

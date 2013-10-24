@@ -1,5 +1,4 @@
-Lenticulina dorso-costata (Cushman) SPECIES
-=======
+# Lenticulina dorso-costata (Cushman) SPECIES
 
 #### Status
 ACCEPTED

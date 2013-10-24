@@ -1,5 +1,4 @@
-Euglena chlamydophora Mainx SPECIES
-=======
+# Euglena chlamydophora Mainx SPECIES
 
 #### Status
 ACCEPTED

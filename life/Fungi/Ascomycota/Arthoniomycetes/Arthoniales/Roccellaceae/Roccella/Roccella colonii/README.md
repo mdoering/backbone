@@ -1,5 +1,4 @@
-Roccella colonii Follmann SPECIES
-=======
+# Roccella colonii Follmann SPECIES
 
 #### Status
 ACCEPTED

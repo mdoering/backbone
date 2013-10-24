@@ -1,5 +1,4 @@
-Leucogaster meridionalis G.W. Beaton, Pegler & T.W.K. Young, 1985 SPECIES
-=======
+# Leucogaster meridionalis G.W. Beaton, Pegler & T.W.K. Young, 1985 SPECIES
 
 #### Status
 ACCEPTED

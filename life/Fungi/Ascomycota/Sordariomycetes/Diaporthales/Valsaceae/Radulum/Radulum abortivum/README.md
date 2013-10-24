@@ -1,5 +1,4 @@
-Radulum abortivum Rick SPECIES
-=======
+# Radulum abortivum Rick SPECIES
 
 #### Status
 ACCEPTED

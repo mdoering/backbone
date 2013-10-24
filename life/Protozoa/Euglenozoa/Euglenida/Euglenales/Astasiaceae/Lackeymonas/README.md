@@ -1,5 +1,4 @@
-Lackeymonas Skvortzov GENUS
-=======
+# Lackeymonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

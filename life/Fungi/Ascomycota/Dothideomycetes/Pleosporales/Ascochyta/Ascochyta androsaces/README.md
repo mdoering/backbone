@@ -1,8 +1,7 @@
-Ascochyta androsaceae T.M. Achundov SPECIES
-=======
+# Ascochyta androsaces T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta androsaceae T.M. Achundov
+Ascochyta androsaces T.M. Achundov
 
 ### Remarks
 null

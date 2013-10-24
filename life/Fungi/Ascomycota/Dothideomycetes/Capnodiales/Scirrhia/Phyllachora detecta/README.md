@@ -1,5 +1,4 @@
-Phyllachora detecta Petr., 1948 SPECIES
-=======
+# Phyllachora detecta Petr., 1948 SPECIES
 
 #### Status
 DOUBTFUL

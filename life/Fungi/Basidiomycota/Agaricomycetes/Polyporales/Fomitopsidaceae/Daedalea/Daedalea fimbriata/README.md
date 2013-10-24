@@ -1,5 +1,4 @@
-Daedalea fimbriata Schleich. SPECIES
-=======
+# Daedalea fimbriata Schleich. SPECIES
 
 #### Status
 ACCEPTED

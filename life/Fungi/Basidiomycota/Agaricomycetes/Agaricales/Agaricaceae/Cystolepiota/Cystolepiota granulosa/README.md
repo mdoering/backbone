@@ -1,5 +1,4 @@
-Cystolepiota granulosa (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Cystolepiota granulosa (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

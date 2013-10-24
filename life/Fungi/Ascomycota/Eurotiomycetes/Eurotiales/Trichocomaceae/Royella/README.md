@@ -1,5 +1,4 @@
-Royella GENUS
-=======
+# Royella GENUS
 
 #### Status
 ACCEPTED

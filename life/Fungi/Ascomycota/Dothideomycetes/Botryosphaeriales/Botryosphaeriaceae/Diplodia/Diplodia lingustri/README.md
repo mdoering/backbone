@@ -1,5 +1,4 @@
-Diplodia lingustri anon. SPECIES
-=======
+# Diplodia lingustri anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepidonectria chilensis Speg. SPECIES
-=======
+# Lepidonectria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

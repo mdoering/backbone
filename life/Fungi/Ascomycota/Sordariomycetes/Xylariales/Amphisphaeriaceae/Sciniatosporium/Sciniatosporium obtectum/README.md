@@ -1,5 +1,4 @@
-Sciniatosporium obtectum (Petr. & Esfand.) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium obtectum (Petr. & Esfand.) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

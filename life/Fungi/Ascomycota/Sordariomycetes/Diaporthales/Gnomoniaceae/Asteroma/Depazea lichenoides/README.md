@@ -1,17 +1,16 @@
-Depazea lichenoides var. lichenoides VARIETY
-=======
+# Depazea lichenoides (Sowerby) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fl. Crypt. Louvain 124 (1835)
 
 #### Original name
-null
+Sphaeria lichenoides DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cristulospora L.F. Khodzhaeva & I.V. Issi GENUS
-=======
+# Cristulospora L.F. Khodzhaeva & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

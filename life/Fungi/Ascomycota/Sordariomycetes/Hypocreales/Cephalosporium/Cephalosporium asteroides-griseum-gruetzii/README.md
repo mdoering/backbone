@@ -1,8 +1,7 @@
-Cephalosporium asteroides-griseum-grutzmanii Benedek SPECIES
-=======
+# Cephalosporium asteroides-griseum-gruetzii Benedek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cephalosporium asteroides-griseum-grutzmanii Benedek
+Cephalosporium asteroides-griseum-gruetzii Benedek
 
 ### Remarks
 null

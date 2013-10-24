@@ -1,5 +1,4 @@
-Ocellularia aurulenta Hale SPECIES
-=======
+# Ocellularia aurulenta Hale SPECIES
 
 #### Status
 ACCEPTED

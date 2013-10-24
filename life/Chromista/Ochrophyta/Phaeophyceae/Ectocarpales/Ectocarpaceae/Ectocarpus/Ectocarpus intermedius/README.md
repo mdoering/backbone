@@ -1,5 +1,4 @@
-Ectocarpus intermedius Kützing, 1843 SPECIES
-=======
+# Ectocarpus intermedius Kützing, 1843 SPECIES
 
 #### Status
 ACCEPTED

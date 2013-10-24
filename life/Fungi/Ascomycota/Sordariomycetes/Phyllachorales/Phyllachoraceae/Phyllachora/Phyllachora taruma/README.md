@@ -1,17 +1,16 @@
-Linochora viticis Cif., 1962 SPECIES
-=======
+# Phyllachora taruma Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 19: 111 (1962)
+Anal. Soc. cient. argent. 19: 94 (1885)
 
 #### Original name
-Linochora viticis Cif., 1962
+Phyllachora taruma Speg., 1885
 
 ### Remarks
 null

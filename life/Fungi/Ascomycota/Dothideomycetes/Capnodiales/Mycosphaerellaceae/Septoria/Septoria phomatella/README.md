@@ -1,5 +1,4 @@
-Septoria phomatella Sacc. SPECIES
-=======
+# Septoria phomatella Sacc. SPECIES
 
 #### Status
 ACCEPTED

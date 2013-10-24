@@ -1,5 +1,4 @@
-Delastreopsis oligosperma (Tul. & C. Tul.) Mattir. SPECIES
-=======
+# Delastreopsis oligosperma (Tul. & C. Tul.) Mattir. SPECIES
 
 #### Status
 ACCEPTED

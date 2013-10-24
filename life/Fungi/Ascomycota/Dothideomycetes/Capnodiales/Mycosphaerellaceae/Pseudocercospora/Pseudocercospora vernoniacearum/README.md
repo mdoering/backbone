@@ -1,5 +1,4 @@
-Pseudocercospora vernoniacearum D.N. Shukla, A.K. Singh, P. Kumar & Kamal SPECIES
-=======
+# Pseudocercospora vernoniacearum D.N. Shukla, A.K. Singh, P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

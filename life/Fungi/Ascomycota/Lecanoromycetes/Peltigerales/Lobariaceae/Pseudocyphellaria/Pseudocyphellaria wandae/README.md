@@ -1,5 +1,4 @@
-Pseudocyphellaria wandae D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria wandae D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

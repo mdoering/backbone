@@ -1,5 +1,4 @@
-Manglicola Kohlm. & E. Kohlm. GENUS
-=======
+# Manglicola Kohlm. & E. Kohlm. GENUS
 
 #### Status
 ACCEPTED

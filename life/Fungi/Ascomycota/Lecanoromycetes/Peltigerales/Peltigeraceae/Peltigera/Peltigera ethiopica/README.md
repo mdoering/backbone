@@ -1,5 +1,4 @@
-Peltigera ethiopica C.W. Dodge SPECIES
-=======
+# Peltigera ethiopica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

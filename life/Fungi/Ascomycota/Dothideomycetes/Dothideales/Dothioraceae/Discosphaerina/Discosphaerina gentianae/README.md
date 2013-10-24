@@ -1,5 +1,4 @@
-Discosphaerina gentianae (Briard & Har.) Petr. SPECIES
-=======
+# Discosphaerina gentianae (Briard & Har.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astracturium Haeckel, 1887 GENUS
-=======
+# Astracturium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

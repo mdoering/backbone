@@ -1,5 +1,4 @@
-Cryptococcus fermentans (Mrak & McClung) C.E. Skinner & Bouth. SPECIES
-=======
+# Cryptococcus fermentans (Mrak & McClung) C.E. Skinner & Bouth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces splendens A. Blytt SPECIES
-=======
+# Uromyces splendens A. Blytt SPECIES
 
 #### Status
 ACCEPTED

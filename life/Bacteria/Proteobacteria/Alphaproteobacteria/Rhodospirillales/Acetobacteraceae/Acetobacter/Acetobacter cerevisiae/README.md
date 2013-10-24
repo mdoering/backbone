@@ -1,5 +1,4 @@
-Acetobacter cerevisiae Cleenwerck et al., 2002 SPECIES
-=======
+# Acetobacter cerevisiae Cleenwerck et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

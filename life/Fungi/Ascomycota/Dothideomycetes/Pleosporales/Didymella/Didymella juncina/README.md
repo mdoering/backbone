@@ -1,5 +1,4 @@
-Didymella juncina (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Didymella juncina (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

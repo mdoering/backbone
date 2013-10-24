@@ -1,5 +1,4 @@
-Tubaria confragosa (Fr.) Harmaja, 1978 SPECIES
-=======
+# Tubaria confragosa (Fr.) Harmaja, 1978 SPECIES
 
 #### Status
 ACCEPTED

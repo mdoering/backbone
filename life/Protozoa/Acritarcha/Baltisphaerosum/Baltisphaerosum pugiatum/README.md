@@ -1,5 +1,4 @@
-Baltisphaerosum pugiatum Playford & Martin, 1984 SPECIES
-=======
+# Baltisphaerosum pugiatum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

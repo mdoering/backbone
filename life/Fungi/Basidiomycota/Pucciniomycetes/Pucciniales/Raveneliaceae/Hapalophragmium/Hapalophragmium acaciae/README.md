@@ -1,5 +1,4 @@
-Hapalophragmium acaciae Bacc., 1916 SPECIES
-=======
+# Hapalophragmium acaciae Bacc., 1916 SPECIES
 
 #### Status
 ACCEPTED

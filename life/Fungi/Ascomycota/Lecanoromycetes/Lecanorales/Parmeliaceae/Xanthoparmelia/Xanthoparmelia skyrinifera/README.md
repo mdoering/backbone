@@ -1,5 +1,4 @@
-Xanthoparmelia skyrinifera Hale SPECIES
-=======
+# Xanthoparmelia skyrinifera Hale SPECIES
 
 #### Status
 ACCEPTED

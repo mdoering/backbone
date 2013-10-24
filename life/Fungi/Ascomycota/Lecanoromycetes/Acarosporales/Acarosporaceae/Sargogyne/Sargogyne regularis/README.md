@@ -1,5 +1,4 @@
-Sargogyne regularis Körb. SPECIES
-=======
+# Sargogyne regularis Körb. SPECIES
 
 #### Status
 ACCEPTED

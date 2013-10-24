@@ -1,5 +1,4 @@
-Allelochaeta gaubae Petr. SPECIES
-=======
+# Allelochaeta gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

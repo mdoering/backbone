@@ -1,17 +1,16 @@
-Ulvella tessellata (Hook. f. & Harv.) Zahlbr., 1922 SPECIES
-=======
+# Mastodia tessellata (Hook. f. & Harv.) Hook. f. & Harv., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 52 (1922)
+Bot. Antarc. Voy. (1847)
 
 #### Original name
-null
+Mastodia tessellata (Hook. f. & Harv.) Hook. f. & Harv., 1847
 
 ### Remarks
 null

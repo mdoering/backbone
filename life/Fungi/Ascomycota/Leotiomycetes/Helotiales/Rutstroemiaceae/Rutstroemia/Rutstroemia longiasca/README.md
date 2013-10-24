@@ -1,5 +1,4 @@
-Rutstroemia longiasca (Cavara) W.L. White SPECIES
-=======
+# Rutstroemia longiasca (Cavara) W.L. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella fusispora I. Hino & Katum. SPECIES
-=======
+# Gibberella fusispora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

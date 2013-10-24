@@ -1,14 +1,13 @@
-Tolyposporidium evernium (Syd.) Thirum. & Neerg., 1978 SPECIES
-=======
+# Tolyposporium evernium Syd., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(3): 180 (1978)
+Annls mycol. 37(4/5): 443 (1939)
 
 #### Original name
 Tolyposporium evernium Syd., 1939

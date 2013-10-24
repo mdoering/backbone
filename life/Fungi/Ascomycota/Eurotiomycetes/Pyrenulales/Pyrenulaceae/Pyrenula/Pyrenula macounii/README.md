@@ -1,5 +1,4 @@
-Pyrenula macounii R.C. Harris SPECIES
-=======
+# Pyrenula macounii R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

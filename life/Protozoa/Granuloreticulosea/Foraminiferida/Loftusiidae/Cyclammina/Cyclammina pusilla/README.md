@@ -1,5 +1,4 @@
-Cyclammina pusilla SPECIES
-=======
+# Cyclammina pusilla SPECIES
 
 #### Status
 ACCEPTED

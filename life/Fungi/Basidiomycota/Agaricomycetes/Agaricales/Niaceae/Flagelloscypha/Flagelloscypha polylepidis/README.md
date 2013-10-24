@@ -1,5 +1,4 @@
-Flagelloscypha polylepidis D.A. Reid SPECIES
-=======
+# Flagelloscypha polylepidis D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilosace subliquescens (Schumach.) Kuntze SPECIES
-=======
+# Pilosace subliquescens (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

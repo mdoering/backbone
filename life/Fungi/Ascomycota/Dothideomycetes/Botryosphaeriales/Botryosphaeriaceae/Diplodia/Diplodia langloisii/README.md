@@ -1,5 +1,4 @@
-Diplodia langloisii Sacc. & P. Syd. SPECIES
-=======
+# Diplodia langloisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

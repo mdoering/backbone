@@ -1,5 +1,4 @@
-Reophax echinatus Saidova, 1975 SPECIES
-=======
+# Reophax echinatus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

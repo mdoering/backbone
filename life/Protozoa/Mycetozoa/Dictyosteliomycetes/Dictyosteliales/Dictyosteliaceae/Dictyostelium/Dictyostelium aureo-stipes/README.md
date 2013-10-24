@@ -1,5 +1,4 @@
-Dictyostelium aureo-stipes Cavender, Raper & Norberg SPECIES
-=======
+# Dictyostelium aureo-stipes Cavender, Raper & Norberg SPECIES
 
 #### Status
 ACCEPTED

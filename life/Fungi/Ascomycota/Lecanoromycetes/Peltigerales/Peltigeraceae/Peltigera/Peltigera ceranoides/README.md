@@ -1,5 +1,4 @@
-Peltigera ceranoides (Lam.) Spreng. SPECIES
-=======
+# Peltigera ceranoides (Lam.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

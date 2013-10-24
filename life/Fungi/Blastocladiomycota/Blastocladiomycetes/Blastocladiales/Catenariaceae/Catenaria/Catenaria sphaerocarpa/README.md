@@ -1,5 +1,4 @@
-Catenaria sphaerocarpa Karling, 1938 SPECIES
-=======
+# Catenaria sphaerocarpa Karling, 1938 SPECIES
 
 #### Status
 ACCEPTED

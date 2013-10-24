@@ -1,5 +1,4 @@
-Invertocysta L.E.Edwards, 1985 GENUS
-=======
+# Invertocysta L.E.Edwards, 1985 GENUS
 
 #### Status
 ACCEPTED

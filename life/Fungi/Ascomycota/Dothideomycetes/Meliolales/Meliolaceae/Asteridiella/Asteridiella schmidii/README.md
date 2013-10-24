@@ -1,5 +1,4 @@
-Asteridiella schmidii B. Huguenin SPECIES
-=======
+# Asteridiella schmidii B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

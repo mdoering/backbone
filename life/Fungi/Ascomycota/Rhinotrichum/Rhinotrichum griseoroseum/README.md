@@ -1,5 +1,4 @@
-Rhinotrichum griseoroseum Marchion. SPECIES
-=======
+# Rhinotrichum griseoroseum Marchion. SPECIES
 
 #### Status
 ACCEPTED

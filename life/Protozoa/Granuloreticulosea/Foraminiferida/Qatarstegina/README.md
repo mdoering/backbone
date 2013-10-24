@@ -1,5 +1,4 @@
-Qatarstegina Boukhary, Hewaidy & Al-Hitmi, 1996 GENUS
-=======
+# Qatarstegina Boukhary, Hewaidy & Al-Hitmi, 1996 GENUS
 
 #### Status
 ACCEPTED

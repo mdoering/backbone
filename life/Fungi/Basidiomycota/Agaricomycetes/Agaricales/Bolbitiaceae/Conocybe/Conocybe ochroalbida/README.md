@@ -1,5 +1,4 @@
-Conocybe ochroalbida Hauskn. SPECIES
-=======
+# Conocybe ochroalbida Hauskn. SPECIES
 
 #### Status
 ACCEPTED

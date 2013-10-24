@@ -1,5 +1,4 @@
-Phaeographis balansana Müll. Arg. SPECIES
-=======
+# Phaeographis balansana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

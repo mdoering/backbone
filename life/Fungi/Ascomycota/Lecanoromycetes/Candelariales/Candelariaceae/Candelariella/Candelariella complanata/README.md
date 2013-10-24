@@ -1,5 +1,4 @@
-Candelariella complanata M. Westb. SPECIES
-=======
+# Candelariella complanata M. Westb. SPECIES
 
 #### Status
 ACCEPTED

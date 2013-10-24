@@ -1,5 +1,4 @@
-Peridermium thomsonii Berk. SPECIES
-=======
+# Peridermium thomsonii Berk. SPECIES
 
 #### Status
 ACCEPTED

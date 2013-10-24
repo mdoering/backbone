@@ -1,5 +1,4 @@
-Bactrodesmium coryphae Syd. SPECIES
-=======
+# Bactrodesmium coryphae Syd. SPECIES
 
 #### Status
 ACCEPTED

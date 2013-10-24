@@ -1,5 +1,4 @@
-Stigmina deflectens (P. Karst.) M.B. Ellis, 1959 SPECIES
-=======
+# Stigmina deflectens (P. Karst.) M.B. Ellis, 1959 SPECIES
 
 #### Status
 ACCEPTED

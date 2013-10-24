@@ -1,5 +1,4 @@
-Leptorhaphis oleae (A. Massal.) Körb. SPECIES
-=======
+# Leptorhaphis oleae (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

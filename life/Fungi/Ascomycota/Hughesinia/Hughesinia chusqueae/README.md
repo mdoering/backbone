@@ -1,5 +1,4 @@
-Hughesinia chusqueae J.C. Lindq. & Gamundí, 1970 SPECIES
-=======
+# Hughesinia chusqueae J.C. Lindq. & Gamundí, 1970 SPECIES
 
 #### Status
 ACCEPTED

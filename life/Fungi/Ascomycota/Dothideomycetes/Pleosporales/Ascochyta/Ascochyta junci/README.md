@@ -1,5 +1,4 @@
-Ascochyta junci (Oudem.) Melnik SPECIES
-=======
+# Ascochyta junci (Oudem.) Melnik SPECIES
 
 #### Status
 ACCEPTED

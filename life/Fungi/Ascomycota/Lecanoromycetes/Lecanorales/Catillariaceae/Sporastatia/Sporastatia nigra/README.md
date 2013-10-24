@@ -1,5 +1,4 @@
-Sporastatia nigra C.W. Dodge SPECIES
-=======
+# Sporastatia nigra C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Uredo aloës Cooke SPECIES
-=======
+# Uromyces aloës (Cooke) Magnus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Grevillea 20(no. 93): 16 (1891)
+Ber. dt. bot. Ges. 10: 48 (1892)
 
 #### Original name
 Uredo aloës Cooke

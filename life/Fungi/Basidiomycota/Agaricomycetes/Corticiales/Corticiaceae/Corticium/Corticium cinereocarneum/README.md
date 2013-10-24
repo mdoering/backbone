@@ -1,5 +1,4 @@
-Corticium cinereocarneum Henn. SPECIES
-=======
+# Corticium cinereocarneum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chryseomonas Holmes et al., 1986 GENUS
-=======
+# Chryseomonas Holmes et al., 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cypriani Gillet SPECIES
-=======
+# Russula cypriani Gillet SPECIES
 
 #### Status
 ACCEPTED

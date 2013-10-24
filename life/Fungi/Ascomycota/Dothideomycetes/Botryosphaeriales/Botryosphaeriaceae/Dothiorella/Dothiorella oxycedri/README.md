@@ -1,5 +1,4 @@
-Dothiorella oxycedri Maire SPECIES
-=======
+# Dothiorella oxycedri Maire SPECIES
 
 #### Status
 ACCEPTED

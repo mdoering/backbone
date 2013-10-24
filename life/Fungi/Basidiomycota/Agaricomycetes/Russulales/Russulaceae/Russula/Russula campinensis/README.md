@@ -1,5 +1,4 @@
-Russula campinensis (Singer) T.W. Henkel, Aime & S.L. Mill. SPECIES
-=======
+# Russula campinensis (Singer) T.W. Henkel, Aime & S.L. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cystoderma jasonis var. lilacipes (Harmaja) I. Saar, 2009 VARIETY
-=======
+# Cystoderma lilacipes Harmaja, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 18(1): 29 (1978)
 
 #### Original name
-null
+Cystoderma lilacipes Harmaja, 1978
 
 ### Remarks
 null

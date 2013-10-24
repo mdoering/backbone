@@ -1,5 +1,4 @@
-Darluca hypocreoides Fuckel SPECIES
-=======
+# Darluca hypocreoides Fuckel SPECIES
 
 #### Status
 ACCEPTED

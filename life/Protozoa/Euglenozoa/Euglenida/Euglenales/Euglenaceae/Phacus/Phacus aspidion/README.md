@@ -1,5 +1,4 @@
-Phacus aspidion Pochmann SPECIES
-=======
+# Phacus aspidion Pochmann SPECIES
 
 #### Status
 ACCEPTED

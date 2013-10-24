@@ -1,5 +1,4 @@
-Gordonia sputi (Tsukamura, 1978) Stackebrandt et al., 1989 SPECIES
-=======
+# Gordonia sputi (Tsukamura, 1978) Stackebrandt et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

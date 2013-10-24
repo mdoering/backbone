@@ -1,5 +1,4 @@
-Chlorangium affine (Eversm.) Rabenh. SPECIES
-=======
+# Chlorangium affine (Eversm.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

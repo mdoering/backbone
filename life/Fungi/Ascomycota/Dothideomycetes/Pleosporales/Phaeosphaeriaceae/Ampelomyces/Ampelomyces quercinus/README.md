@@ -1,17 +1,16 @@
-Phoma fungicola Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Ampelomyces quercinus (Syd.) Rudakov, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 13(2): 109 (1979)
 
 #### Original name
-null
+Cicinobolus quercinus Syd., 1915
 
 ### Remarks
 null

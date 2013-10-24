@@ -1,5 +1,4 @@
-Cystolepiota aureola Raithelh. SPECIES
-=======
+# Cystolepiota aureola Raithelh. SPECIES
 
 #### Status
 ACCEPTED

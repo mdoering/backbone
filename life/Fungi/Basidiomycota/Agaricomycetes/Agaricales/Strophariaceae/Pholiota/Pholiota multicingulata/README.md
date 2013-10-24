@@ -1,17 +1,16 @@
-Pholiota multicingulata var. multicingulata E. Horak VARIETY
-=======
+# Pholiota multicingulata E. Horak, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Aust. J. Bot. , Suppl. Ser. 10: 33 (1983)
 
 #### Original name
-Pholiota multicingulata var. multicingulata E. Horak
+Pholiota multicingulata E. Horak, 1983
 
 ### Remarks
 null

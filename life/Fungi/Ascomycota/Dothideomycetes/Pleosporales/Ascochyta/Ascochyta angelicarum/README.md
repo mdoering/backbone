@@ -1,5 +1,4 @@
-Ascochyta angelicarum Chevassut SPECIES
-=======
+# Ascochyta angelicarum Chevassut SPECIES
 
 #### Status
 ACCEPTED

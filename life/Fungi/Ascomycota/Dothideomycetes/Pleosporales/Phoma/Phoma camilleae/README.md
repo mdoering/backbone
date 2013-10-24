@@ -1,5 +1,4 @@
-Phoma camilleae Cooke SPECIES
-=======
+# Phoma camilleae Cooke SPECIES
 
 #### Status
 ACCEPTED

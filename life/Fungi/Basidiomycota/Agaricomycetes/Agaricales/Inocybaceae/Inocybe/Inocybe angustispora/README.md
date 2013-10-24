@@ -1,5 +1,4 @@
-Inocybe angustispora Bessette & Fatto SPECIES
-=======
+# Inocybe angustispora Bessette & Fatto SPECIES
 
 #### Status
 ACCEPTED

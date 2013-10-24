@@ -1,5 +1,4 @@
-Paxillus maculatus Velen. SPECIES
-=======
+# Paxillus maculatus Velen. SPECIES
 
 #### Status
 ACCEPTED

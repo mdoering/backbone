@@ -1,5 +1,4 @@
-Lactarius nominabilis Britzelm. SPECIES
-=======
+# Lactarius nominabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

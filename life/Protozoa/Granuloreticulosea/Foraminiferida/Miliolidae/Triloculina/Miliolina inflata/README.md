@@ -1,8 +1,7 @@
-Miliolina inflata var. trigonina Wiesner, 1923 VARIETY
-=======
+# Miliolina inflata (d’Orbigny, 1826) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

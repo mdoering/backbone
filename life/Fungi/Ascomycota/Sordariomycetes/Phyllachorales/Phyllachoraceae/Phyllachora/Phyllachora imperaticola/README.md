@@ -1,5 +1,4 @@
-Phyllachora imperaticola Sawada, 1959 SPECIES
-=======
+# Phyllachora imperaticola Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

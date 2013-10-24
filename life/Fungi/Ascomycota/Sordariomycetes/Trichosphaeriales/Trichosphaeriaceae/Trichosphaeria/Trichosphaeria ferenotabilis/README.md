@@ -1,5 +1,4 @@
-Trichosphaeria ferenotabilis Sivan. & W.H. Hsieh SPECIES
-=======
+# Trichosphaeria ferenotabilis Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

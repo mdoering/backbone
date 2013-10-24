@@ -1,5 +1,4 @@
-Flammula punctata Cleland SPECIES
-=======
+# Flammula punctata Cleland SPECIES
 
 #### Status
 ACCEPTED

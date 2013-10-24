@@ -1,5 +1,4 @@
-Lophosphaeridium vacuolum Hu Yunxu, 1986 SPECIES
-=======
+# Lophosphaeridium vacuolum Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

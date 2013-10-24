@@ -1,14 +1,13 @@
-Pestalotiopsis batatae (Ellis & Everh.) G.C. Zhao & N. Li SPECIES
-=======
+# Pestalotiopsis batatas (Ellis & Everh.) G.C. Zhao & N. Li SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Northeast Forestry University 23(4): 22 (1995)
 
 #### Original name
 Pestalotia batatas Ellis & Everh.

@@ -1,5 +1,4 @@
-Lecanora chloroleprosa (Vain.) H. Magn. SPECIES
-=======
+# Lecanora chloroleprosa (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

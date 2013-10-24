@@ -1,5 +1,4 @@
-Collema trachselii Flot. SPECIES
-=======
+# Collema trachselii Flot. SPECIES
 
 #### Status
 ACCEPTED

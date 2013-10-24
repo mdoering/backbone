@@ -1,5 +1,4 @@
-Sphaerostylidium caudatum (Reinsch) Berl. & De Toni SPECIES
-=======
+# Sphaerostylidium caudatum (Reinsch) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

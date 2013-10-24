@@ -1,5 +1,4 @@
-Hongia Lee et al., 2000 GENUS
-=======
+# Hongia Lee et al., 2000 GENUS
 
 #### Status
 ACCEPTED

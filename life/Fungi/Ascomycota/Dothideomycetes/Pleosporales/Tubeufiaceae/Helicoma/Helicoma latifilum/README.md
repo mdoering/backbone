@@ -1,5 +1,4 @@
-Helicoma latifilum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma latifilum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

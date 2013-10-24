@@ -1,5 +1,4 @@
-Hystrichaspis Haeckel, 1887 GENUS
-=======
+# Hystrichaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

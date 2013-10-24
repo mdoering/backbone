@@ -1,5 +1,4 @@
-Arthopyrenia cinerascens A. Massal. SPECIES
-=======
+# Arthopyrenia cinerascens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

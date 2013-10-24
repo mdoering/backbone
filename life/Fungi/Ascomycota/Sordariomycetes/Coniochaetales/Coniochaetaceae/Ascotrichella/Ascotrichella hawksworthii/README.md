@@ -1,5 +1,4 @@
-Ascotrichella hawksworthii Valldos. & Guarro, 1988 SPECIES
-=======
+# Ascotrichella hawksworthii Valldos. & Guarro, 1988 SPECIES
 
 #### Status
 ACCEPTED

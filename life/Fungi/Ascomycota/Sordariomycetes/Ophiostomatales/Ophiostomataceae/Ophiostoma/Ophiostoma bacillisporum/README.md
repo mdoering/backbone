@@ -1,17 +1,16 @@
-Ceratocystis bacillospora Butin & G. Zimm. SPECIES
-=======
+# Ophiostoma bacillisporum (Butin & G. Zimm.) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 76(2): 297 (1984)
 
 #### Original name
-Ceratocystis bacillospora Butin & G. Zimm.
+Ceratocystis bacillispora Butin & G. Zimm., 1972
 
 ### Remarks
 null

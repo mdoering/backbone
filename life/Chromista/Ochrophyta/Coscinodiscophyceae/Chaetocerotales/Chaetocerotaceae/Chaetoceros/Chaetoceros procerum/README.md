@@ -1,5 +1,4 @@
-Chaetoceros procerum Schütt, 1895 SPECIES
-=======
+# Chaetoceros procerum Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

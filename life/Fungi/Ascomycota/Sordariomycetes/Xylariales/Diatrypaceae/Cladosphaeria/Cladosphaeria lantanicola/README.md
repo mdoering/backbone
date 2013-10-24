@@ -1,5 +1,4 @@
-Cladosphaeria lantanicola G.H. Otth SPECIES
-=======
+# Cladosphaeria lantanicola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostoma tenuis Fauré-Fremiet, 1958 SPECIES
-=======
+# Condylostoma tenuis Fauré-Fremiet, 1958 SPECIES
 
 #### Status
 ACCEPTED

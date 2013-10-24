@@ -1,5 +1,4 @@
-Geoscypha schroeteri Rehm SPECIES
-=======
+# Geoscypha schroeteri Rehm SPECIES
 
 #### Status
 ACCEPTED

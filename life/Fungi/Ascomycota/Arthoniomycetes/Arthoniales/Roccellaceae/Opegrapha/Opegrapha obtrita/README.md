@@ -1,5 +1,4 @@
-Opegrapha obtrita (Fée) Mont. SPECIES
-=======
+# Opegrapha obtrita (Fée) Mont. SPECIES
 
 #### Status
 ACCEPTED

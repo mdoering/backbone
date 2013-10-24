@@ -1,17 +1,16 @@
-Hyalotexis Syd. GENUS
-=======
+# Hyalosphaera F. Stevens, 1917 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(3/6): 326 (1925)
+Trans. Ill. St. Acad. Sci. 10: 172 (1917)
 
 #### Original name
-Hyalotexis Syd.
+Hyalosphaera F. Stevens, 1917
 
 ### Remarks
 null

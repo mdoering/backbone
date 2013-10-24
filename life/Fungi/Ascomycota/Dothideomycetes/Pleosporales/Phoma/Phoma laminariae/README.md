@@ -1,5 +1,4 @@
-Phoma laminariae Cooke & Massee, 1890 SPECIES
-=======
+# Phoma laminariae Cooke & Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Berkleasmium minutissimum (Peck) R.T. Moore SPECIES
-=======
+# Berkleasmium minutissimum (Peck) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

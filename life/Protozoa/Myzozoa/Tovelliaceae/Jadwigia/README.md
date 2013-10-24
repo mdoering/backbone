@@ -1,5 +1,4 @@
-Jadwigia Moestrup, Lindberg & Daugbjerg, 2005 GENUS
-=======
+# Jadwigia Moestrup, Lindberg & Daugbjerg, 2005 GENUS
 
 #### Status
 ACCEPTED

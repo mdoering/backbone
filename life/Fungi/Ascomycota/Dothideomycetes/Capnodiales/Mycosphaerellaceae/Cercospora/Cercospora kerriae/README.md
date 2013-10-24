@@ -1,5 +1,4 @@
-Cercospora kerriae Togashi SPECIES
-=======
+# Cercospora kerriae Togashi SPECIES
 
 #### Status
 ACCEPTED

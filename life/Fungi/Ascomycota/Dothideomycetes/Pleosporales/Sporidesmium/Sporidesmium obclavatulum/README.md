@@ -1,5 +1,4 @@
-Sporidesmium obclavatulum (Bubák & Syd.) Subram. SPECIES
-=======
+# Sporidesmium obclavatulum (Bubák & Syd.) Subram. SPECIES
 
 #### Status
 ACCEPTED

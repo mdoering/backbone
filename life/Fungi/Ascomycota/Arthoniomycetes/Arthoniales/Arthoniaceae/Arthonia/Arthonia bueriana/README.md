@@ -1,5 +1,4 @@
-Arthonia bueriana (J. Lahm) Zahlbr. SPECIES
-=======
+# Arthonia bueriana (J. Lahm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

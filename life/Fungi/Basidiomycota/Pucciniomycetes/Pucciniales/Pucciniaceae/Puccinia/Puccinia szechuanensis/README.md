@@ -1,5 +1,4 @@
-Puccinia szechuanensis Jørst. SPECIES
-=======
+# Puccinia szechuanensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

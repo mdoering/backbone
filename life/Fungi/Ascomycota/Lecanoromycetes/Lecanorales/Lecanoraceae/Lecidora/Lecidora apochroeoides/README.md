@@ -1,5 +1,4 @@
-Lecidora apochroeoides (Vain.) Motyka SPECIES
-=======
+# Lecidora apochroeoides (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

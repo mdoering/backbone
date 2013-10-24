@@ -1,5 +1,4 @@
-Hebelomatis minus (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis minus (Bruchet) Locq. SPECIES
 
 #### Status
 ACCEPTED

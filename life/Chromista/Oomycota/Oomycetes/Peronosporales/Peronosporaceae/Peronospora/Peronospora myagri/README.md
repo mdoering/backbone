@@ -1,5 +1,4 @@
-Peronospora myagri Mayor SPECIES
-=======
+# Peronospora myagri Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenaspora batava R. Heim & Le Gal, 1936 SPECIES
-=======
+# Selenaspora batava R. Heim & Le Gal, 1936 SPECIES
 
 #### Status
 ACCEPTED

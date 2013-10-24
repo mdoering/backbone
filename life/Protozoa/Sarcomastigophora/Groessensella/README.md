@@ -1,5 +1,4 @@
-Groessensella Strank in Somerville & Strank, 1984 GENUS
-=======
+# Groessensella Strank in Somerville & Strank, 1984 GENUS
 
 #### Status
 ACCEPTED

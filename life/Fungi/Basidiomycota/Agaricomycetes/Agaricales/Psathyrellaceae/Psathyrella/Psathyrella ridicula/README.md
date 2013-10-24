@@ -1,5 +1,4 @@
-Psathyrella ridicula Kits van Wav. SPECIES
-=======
+# Psathyrella ridicula Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

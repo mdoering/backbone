@@ -1,5 +1,4 @@
-Gymnosporangium bermudianum Earle, 1893 SPECIES
-=======
+# Gymnosporangium bermudianum Earle, 1893 SPECIES
 
 #### Status
 ACCEPTED

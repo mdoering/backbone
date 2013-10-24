@@ -1,5 +1,4 @@
-Bacidia heterochroa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia heterochroa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

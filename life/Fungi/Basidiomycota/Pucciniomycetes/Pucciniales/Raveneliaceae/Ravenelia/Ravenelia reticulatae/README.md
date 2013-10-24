@@ -1,5 +1,4 @@
-Ravenelia reticulatae Long SPECIES
-=======
+# Ravenelia reticulatae Long SPECIES
 
 #### Status
 ACCEPTED

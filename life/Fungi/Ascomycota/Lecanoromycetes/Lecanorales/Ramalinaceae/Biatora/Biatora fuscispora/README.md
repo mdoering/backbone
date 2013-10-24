@@ -1,5 +1,4 @@
-Biatora fuscispora SPECIES
-=======
+# Biatora fuscispora SPECIES
 
 #### Status
 ACCEPTED

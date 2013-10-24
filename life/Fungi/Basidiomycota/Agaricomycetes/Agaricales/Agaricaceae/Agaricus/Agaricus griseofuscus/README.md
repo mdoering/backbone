@@ -1,5 +1,4 @@
-Agaricus griseofuscus DC. SPECIES
-=======
+# Agaricus griseofuscus DC. SPECIES
 
 #### Status
 ACCEPTED

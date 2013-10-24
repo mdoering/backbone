@@ -1,5 +1,4 @@
-Trichodermia rosea Hoffm. SPECIES
-=======
+# Trichodermia rosea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

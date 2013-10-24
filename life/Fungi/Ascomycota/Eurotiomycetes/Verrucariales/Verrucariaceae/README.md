@@ -1,17 +1,16 @@
-Dermatocarpon miniatum var. complicatum (Lightf.) Th. Fr. VARIETY
-=======
+# Verrucariaceae Zenker FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 354 (1861)
+in Goebel & Kunze, Pharmaceutische Waarenkunde (Eisenach) 123 (1827)
 
 #### Original name
-Lichen miniatus var. complicatus Lightf.
+Verrucariaceae Zenker
 
 ### Remarks
 null

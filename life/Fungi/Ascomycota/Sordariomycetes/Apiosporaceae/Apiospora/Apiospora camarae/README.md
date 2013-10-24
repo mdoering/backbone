@@ -1,5 +1,4 @@
-Apiospora camarae M.T. Lucas SPECIES
-=======
+# Apiospora camarae M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

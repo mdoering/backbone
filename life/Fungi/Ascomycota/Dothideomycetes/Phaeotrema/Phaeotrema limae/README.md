@@ -1,5 +1,4 @@
-Phaeotrema limae (Vain.) Zahlbr. SPECIES
-=======
+# Phaeotrema limae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

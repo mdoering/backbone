@@ -1,17 +1,16 @@
-Odontia palmae Rick, 1959 SPECIES
-=======
+# Hyphodontia microspora J. Erikss. & Hjortstam, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 163 (1959)
+Cortic. N. Eur. (Oslo) 4: 651 (1976)
 
 #### Original name
-Odontia palmae Rick, 1959
+Hyphodontia microspora J. Erikss. & Hjortstam, 1976
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Jaraia Nemec GENUS
-=======
+# Jaraia Nemec GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella acutipila (P. Karst.) W. Phillips, 1887 SPECIES
-=======
+# Albotricha acutipila (P. Karst.) Raitv., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 252 (1887)
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 40 (1970)
 
 #### Original name
 null

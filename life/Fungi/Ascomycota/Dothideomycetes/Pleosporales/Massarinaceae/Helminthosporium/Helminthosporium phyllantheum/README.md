@@ -1,17 +1,16 @@
-Helmisporium phyllantheum Sacc. SPECIES
-=======
+# Helminthosporium phyllantheum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 91 (1917)
 
 #### Original name
-Helmisporium phyllantheum Sacc.
+Helminthosporium phyllantheum Sacc.
 
 ### Remarks
 null

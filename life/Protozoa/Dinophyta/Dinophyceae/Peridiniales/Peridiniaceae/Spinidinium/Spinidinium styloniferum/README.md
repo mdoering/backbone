@@ -1,5 +1,4 @@
-Spinidinium styloniferum Cookson & Eisenack, 1962 SPECIES
-=======
+# Spinidinium styloniferum Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

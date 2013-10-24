@@ -1,5 +1,4 @@
-Myxophora placynthii Nik. Hoffm. & Hafellner, 2000 SPECIES
-=======
+# Myxophora placynthii Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
 ACCEPTED

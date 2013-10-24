@@ -1,5 +1,4 @@
-Tintinnus vitreus Brandt, 1896 SPECIES
-=======
+# Tintinnus vitreus Brandt, 1896 SPECIES
 
 #### Status
 DOUBTFUL

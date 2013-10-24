@@ -1,5 +1,4 @@
-Psathyrella lionella A. Pearson ex Pegler SPECIES
-=======
+# Psathyrella lionella A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

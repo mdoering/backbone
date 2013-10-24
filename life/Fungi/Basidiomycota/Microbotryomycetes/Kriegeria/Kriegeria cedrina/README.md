@@ -1,5 +1,4 @@
-Kriegeria cedrina (Cooke) Seaver SPECIES
-=======
+# Kriegeria cedrina (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

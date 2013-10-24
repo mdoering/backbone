@@ -1,14 +1,13 @@
-Corticium coprophilum Wakef., 1916 SPECIES
-=======
+# Cristinia coprophila (Wakef.) Hjortstam, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 47: 407 (1993)
 
 #### Original name
 null

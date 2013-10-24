@@ -1,17 +1,16 @@
-Anaptychiomyces E.A. Thomas GENUS
-=======
+# Anaptychia Körb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grundriss Krypt. -Kunde 197 (1848)
 
 #### Original name
-Anaptychiomyces E.A. Thomas
+Anaptychia Körb.
 
 ### Remarks
 null

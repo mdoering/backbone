@@ -1,5 +1,4 @@
-Microsphaera rhododendri (Jacz.) Bunkina SPECIES
-=======
+# Microsphaera rhododendri (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

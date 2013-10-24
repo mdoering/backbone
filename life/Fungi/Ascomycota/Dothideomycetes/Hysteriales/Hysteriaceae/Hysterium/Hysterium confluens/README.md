@@ -1,5 +1,4 @@
-Hysterium confluens Schwein. SPECIES
-=======
+# Hysterium confluens Schwein. SPECIES
 
 #### Status
 ACCEPTED

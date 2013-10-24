@@ -1,5 +1,4 @@
-Rosellinia picacea Massee SPECIES
-=======
+# Rosellinia picacea Massee SPECIES
 
 #### Status
 ACCEPTED

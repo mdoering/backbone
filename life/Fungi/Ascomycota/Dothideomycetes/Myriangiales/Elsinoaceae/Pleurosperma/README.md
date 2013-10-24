@@ -1,5 +1,4 @@
-Pleurosperma GENUS
-=======
+# Pleurosperma GENUS
 
 #### Status
 ACCEPTED

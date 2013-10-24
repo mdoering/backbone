@@ -1,5 +1,4 @@
-Bottaria himalayensis Räsänen SPECIES
-=======
+# Bottaria himalayensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

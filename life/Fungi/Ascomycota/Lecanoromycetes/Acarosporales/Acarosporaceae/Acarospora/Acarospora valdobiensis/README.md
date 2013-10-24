@@ -1,5 +1,4 @@
-Acarospora valdobiensis Bagl. & Carestia SPECIES
-=======
+# Acarospora valdobiensis Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wallodinium krutzschii (Alberti, 1961) Habib, 1972 SPECIES
-=======
+# Wallodinium krutzschii (Alberti, 1961) Habib, 1972 SPECIES
 
 #### Status
 ACCEPTED

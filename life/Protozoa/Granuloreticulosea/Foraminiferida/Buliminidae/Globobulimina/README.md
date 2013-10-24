@@ -1,14 +1,13 @@
-Globulimina GENUS
-=======
+# Globobulimina Cushman, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Cushman Lab. Foraminif. Res. , 3, 67.
 
 #### Original name
 null

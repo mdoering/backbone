@@ -1,5 +1,4 @@
-Diplodia koelreuteriae var. koelreuteriae Sacc. VARIETY
-=======
+# Diplodia koelreuteriae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 60 (1880)
 
 #### Original name
-Diplodia koelreuteriae var. koelreuteriae Sacc.
+Diplodia koelreuteriae Sacc.
 
 ### Remarks
 null

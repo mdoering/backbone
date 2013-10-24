@@ -1,8 +1,7 @@
-Babesiosoma rubrimarense Saunders, 1960 SPECIES
-=======
+# Haemohormidium rubrimarensis (Saunders, 1960) Laird & Bullock, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

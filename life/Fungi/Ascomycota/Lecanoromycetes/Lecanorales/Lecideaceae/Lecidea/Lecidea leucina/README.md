@@ -1,5 +1,4 @@
-Lecidea leucina (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecidea leucina (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schoenus G. Cunn., 1930 SPECIES
-=======
+# Puccinia schoenus G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces pasteurianus subsp. pasteurianus SUBSPECIES
-=======
+# Saccharomyces pasteurianus Reess SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Saccharomyces pasteurianus subsp. pasteurianus
+Saccharomyces pasteurianus Reess
 
 ### Remarks
 null

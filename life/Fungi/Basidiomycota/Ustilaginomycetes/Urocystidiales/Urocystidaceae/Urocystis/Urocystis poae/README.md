@@ -1,14 +1,13 @@
-Tuburcinia poae Liro, 1922 SPECIES
-=======
+# Urocystis poae (Liro) Padwick & A. Khan, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 22 (1922)
+Mycol. Pap. 10: 2 (1944)
 
 #### Original name
 Tuburcinia poae Liro, 1922

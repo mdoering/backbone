@@ -1,5 +1,4 @@
-Meliola nashii Hansf. SPECIES
-=======
+# Meliola nashii Hansf. SPECIES
 
 #### Status
 ACCEPTED

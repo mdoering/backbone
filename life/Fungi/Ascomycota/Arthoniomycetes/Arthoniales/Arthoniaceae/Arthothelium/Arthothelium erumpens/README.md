@@ -1,5 +1,4 @@
-Arthothelium erumpens Müll. Arg. SPECIES
-=======
+# Arthothelium erumpens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

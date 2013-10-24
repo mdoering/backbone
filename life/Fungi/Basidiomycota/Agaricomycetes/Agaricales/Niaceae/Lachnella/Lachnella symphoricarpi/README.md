@@ -1,5 +1,4 @@
-Lachnella symphoricarpi Ellis & Everh. SPECIES
-=======
+# Lachnella symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

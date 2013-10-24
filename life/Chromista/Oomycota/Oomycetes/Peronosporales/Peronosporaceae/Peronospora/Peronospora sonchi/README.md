@@ -1,5 +1,4 @@
-Peronospora sonchi Haponenko {?} SPECIES
-=======
+# Peronospora sonchi Haponenko {?} SPECIES
 
 #### Status
 ACCEPTED

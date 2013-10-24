@@ -1,8 +1,7 @@
-Phomopsis zizyphina Ponnappa SPECIES
-=======
+# Phomopsis ziziphina Ponnappa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phomopsis zizyphina Ponnappa
+Phomopsis ziziphina Ponnappa
 
 ### Remarks
 null

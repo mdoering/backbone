@@ -1,5 +1,4 @@
-Lecidea sympecta Nyl. SPECIES
-=======
+# Lecidea sympecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

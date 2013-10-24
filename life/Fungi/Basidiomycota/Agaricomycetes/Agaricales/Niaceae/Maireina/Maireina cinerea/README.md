@@ -1,5 +1,4 @@
-Maireina cinerea (Burt) W.B. Cooke SPECIES
-=======
+# Maireina cinerea (Burt) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

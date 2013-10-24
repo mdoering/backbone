@@ -1,5 +1,4 @@
-Agaricus bibula Quél. SPECIES
-=======
+# Agaricus bibula Quél. SPECIES
 
 #### Status
 ACCEPTED

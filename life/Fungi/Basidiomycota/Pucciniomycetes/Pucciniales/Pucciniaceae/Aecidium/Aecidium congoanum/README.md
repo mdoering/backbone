@@ -1,5 +1,4 @@
-Aecidium congoanum Henn. SPECIES
-=======
+# Aecidium congoanum Henn. SPECIES
 
 #### Status
 ACCEPTED

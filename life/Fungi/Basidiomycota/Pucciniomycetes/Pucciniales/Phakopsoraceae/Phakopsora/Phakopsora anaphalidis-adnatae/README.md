@@ -1,5 +1,4 @@
-Phakopsora anaphalidis-adnatae Khalid & S.H. Iqbal SPECIES
-=======
+# Phakopsora anaphalidis-adnatae Khalid & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

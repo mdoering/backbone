@@ -1,5 +1,4 @@
-Nosema tyriae SPECIES
-=======
+# Nosema tyriae SPECIES
 
 #### Status
 ACCEPTED

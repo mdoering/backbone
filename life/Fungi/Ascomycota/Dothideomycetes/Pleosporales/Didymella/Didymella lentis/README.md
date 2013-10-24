@@ -1,17 +1,16 @@
-Ascochyta lentis Vassiljevsky, 1940 SPECIES
-=======
+# Didymella lentis W.J. Kaiser, B.C. Wang & J.D. Rogers, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 358 (1940)
+Pl. Dis. 81(7): 815 (1997)
 
 #### Original name
-Ascochyta lentis Vassiljevsky, 1940
+Didymella lentis W.J. Kaiser, B.C. Wang & J.D. Rogers, 1997
 
 ### Remarks
 null

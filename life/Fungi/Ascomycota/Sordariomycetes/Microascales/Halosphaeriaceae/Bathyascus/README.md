@@ -1,5 +1,4 @@
-Bathyascus Kohlm. GENUS
-=======
+# Bathyascus Kohlm. GENUS
 
 #### Status
 ACCEPTED

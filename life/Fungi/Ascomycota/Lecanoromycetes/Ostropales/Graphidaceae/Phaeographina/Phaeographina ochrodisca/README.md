@@ -1,5 +1,4 @@
-Phaeographina ochrodisca SPECIES
-=======
+# Phaeographina ochrodisca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea hedinii H. Magn. SPECIES
-=======
+# Lecidea hedinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

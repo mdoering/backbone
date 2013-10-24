@@ -1,5 +1,4 @@
-Cothurnia truncata SPECIES
-=======
+# Cothurnia truncata SPECIES
 
 #### Status
 ACCEPTED

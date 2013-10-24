@@ -1,5 +1,4 @@
-Catillaria bistorta SPECIES
-=======
+# Catillaria bistorta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella B. Sutton GENUS
-=======
+# Endophragmiella B. Sutton GENUS
 
 #### Status
 ACCEPTED

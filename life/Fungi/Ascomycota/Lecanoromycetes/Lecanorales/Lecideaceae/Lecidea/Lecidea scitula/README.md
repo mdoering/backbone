@@ -1,5 +1,4 @@
-Lecidea scitula Tuck. SPECIES
-=======
+# Lecidea scitula Tuck. SPECIES
 
 #### Status
 ACCEPTED

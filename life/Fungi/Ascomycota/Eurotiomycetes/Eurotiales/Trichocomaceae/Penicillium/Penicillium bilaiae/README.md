@@ -1,17 +1,16 @@
-Penicillium bilaji Chalab. SPECIES
-=======
+# Penicillium bilaiae Chalab., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 6: 165 (1950)
 
 #### Original name
-Penicillium bilaji Chalab.
+Penicillium bilaiae Chalab., 1950
 
 ### Remarks
 null

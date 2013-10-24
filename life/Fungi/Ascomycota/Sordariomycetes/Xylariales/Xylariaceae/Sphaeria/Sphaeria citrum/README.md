@@ -1,5 +1,4 @@
-Sphaeria citrum Wallr. SPECIES
-=======
+# Sphaeria citrum Wallr. SPECIES
 
 #### Status
 ACCEPTED

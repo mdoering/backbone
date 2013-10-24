@@ -1,5 +1,4 @@
-Fomes tenax (Lév.) Sacc. SPECIES
-=======
+# Fomes tenax (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

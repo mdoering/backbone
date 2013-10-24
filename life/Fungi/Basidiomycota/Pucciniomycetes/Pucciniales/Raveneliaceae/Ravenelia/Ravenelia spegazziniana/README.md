@@ -1,17 +1,16 @@
-Ravenelia siliquae Long, 1903 SPECIES
-=======
+# Ravenelia spegazziniana J.C. Lindq., 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 35: 118 (1903)
+Boln Soc. argent. Bot. 1: 300 (1946)
 
 #### Original name
-Ravenelia siliquae Long, 1903
+Ravenelia spegazziniana J.C. Lindq., 1946
 
 ### Remarks
 null

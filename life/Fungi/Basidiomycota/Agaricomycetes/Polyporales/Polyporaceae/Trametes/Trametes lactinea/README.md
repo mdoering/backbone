@@ -1,11 +1,10 @@
-Trametes lactinea var. lactinea VARIETY
-=======
+# Trametes lactinea (Berk.) Sacc., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 6: 343 (1888)

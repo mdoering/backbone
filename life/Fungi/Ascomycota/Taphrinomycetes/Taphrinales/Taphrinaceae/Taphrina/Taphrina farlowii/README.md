@@ -1,14 +1,13 @@
-Exoascus farlowii (Sadeb.) Sacc., 1892 SPECIES
-=======
+# Taphrina farlowii Sadeb., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 70 (1892)
+Jahrb. Hamburg. Wissensch. Anst. 8: 61 (1890)
 
 #### Original name
 Taphrina farlowii Sadeb., 1890

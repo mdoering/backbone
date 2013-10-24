@@ -1,5 +1,4 @@
-Parmeliella symptychia SPECIES
-=======
+# Parmeliella symptychia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peritrachelina joidesa Bukry & Bramlette, 1968 SPECIES
-=======
+# Peritrachelina joidesa Bukry & Bramlette, 1968 SPECIES
 
 #### Status
 ACCEPTED

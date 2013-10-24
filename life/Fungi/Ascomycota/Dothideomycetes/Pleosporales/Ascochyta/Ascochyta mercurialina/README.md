@@ -1,5 +1,4 @@
-Ascochyta mercurialina Caball. SPECIES
-=======
+# Ascochyta mercurialina Caball. SPECIES
 
 #### Status
 ACCEPTED

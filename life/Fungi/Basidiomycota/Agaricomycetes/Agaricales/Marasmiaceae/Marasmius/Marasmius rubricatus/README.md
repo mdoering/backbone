@@ -1,5 +1,4 @@
-Marasmius rubricatus (Berk. & Broome) Massee SPECIES
-=======
+# Marasmius rubricatus (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

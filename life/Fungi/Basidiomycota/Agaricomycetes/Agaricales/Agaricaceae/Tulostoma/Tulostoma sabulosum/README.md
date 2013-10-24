@@ -1,5 +1,4 @@
-Tulostoma sabulosum B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Tulostoma sabulosum B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

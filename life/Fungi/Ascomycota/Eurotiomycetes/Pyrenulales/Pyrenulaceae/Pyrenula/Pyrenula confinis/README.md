@@ -1,14 +1,13 @@
-Verrucaria confinis Nyl. SPECIES
-=======
+# Pyrenula confinis (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 3: 173 (1855)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 109 (1995)
 
 #### Original name
 Verrucaria confinis Nyl.

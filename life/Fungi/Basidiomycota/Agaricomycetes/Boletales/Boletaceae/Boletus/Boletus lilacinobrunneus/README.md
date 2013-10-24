@@ -1,5 +1,4 @@
-Boletus lilacinobrunneus Cleland SPECIES
-=======
+# Boletus lilacinobrunneus Cleland SPECIES
 
 #### Status
 ACCEPTED

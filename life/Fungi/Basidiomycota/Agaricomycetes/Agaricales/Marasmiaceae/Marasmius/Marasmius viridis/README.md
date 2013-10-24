@@ -1,5 +1,4 @@
-Marasmius viridis Desjardin & E. Horak SPECIES
-=======
+# Marasmius viridis Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

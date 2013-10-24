@@ -1,5 +1,4 @@
-Biatorellopsis cerebriformis (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Biatorellopsis cerebriformis (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria herbiphorbicola E.G. Simmons SPECIES
-=======
+# Alternaria herbiphorbicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

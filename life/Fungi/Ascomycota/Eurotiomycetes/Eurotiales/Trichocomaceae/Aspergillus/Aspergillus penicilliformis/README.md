@@ -1,5 +1,4 @@
-Aspergillus penicilliformis Kamyschko, 1963 SPECIES
-=======
+# Aspergillus penicilliformis Kamyschko, 1963 SPECIES
 
 #### Status
 ACCEPTED

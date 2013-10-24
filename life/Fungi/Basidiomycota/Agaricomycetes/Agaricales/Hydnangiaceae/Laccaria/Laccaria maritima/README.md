@@ -1,14 +1,13 @@
-Laccaria trullisata subsp. maritima (Theodor.) O. Andersson SUBSPECIES
-=======
+# Laccaria maritima (Theodor.) Singer ex Huhtinen, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 2: 23-27 (1950)
+Fungi Canadenses, Ottawa 319: 1 (1987)
 
 #### Original name
 Hygrophorus maritimus Theodor., 1936

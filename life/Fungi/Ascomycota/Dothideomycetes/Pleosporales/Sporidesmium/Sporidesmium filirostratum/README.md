@@ -1,5 +1,4 @@
-Sporidesmium filirostratum Cabello, Cazau & Aramb. SPECIES
-=======
+# Sporidesmium filirostratum Cabello, Cazau & Aramb. SPECIES
 
 #### Status
 ACCEPTED

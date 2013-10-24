@@ -1,5 +1,4 @@
-Spermatodium cinerescens (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium cinerescens (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

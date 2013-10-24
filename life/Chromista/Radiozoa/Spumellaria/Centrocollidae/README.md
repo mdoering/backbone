@@ -1,5 +1,4 @@
-Centrocollidae FAMILY
-=======
+# Centrocollidae FAMILY
 
 #### Status
 ACCEPTED

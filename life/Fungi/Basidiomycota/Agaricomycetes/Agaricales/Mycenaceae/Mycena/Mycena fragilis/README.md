@@ -1,5 +1,4 @@
-Mycena fragilis Velen. SPECIES
-=======
+# Mycena fragilis Velen. SPECIES
 
 #### Status
 ACCEPTED

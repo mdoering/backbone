@@ -1,14 +1,13 @@
-Trichoderma flavofuscum (J.H. Mill., Giddens & A.A. Foster) Bissett, 1992 SPECIES
-=======
+# Gliocladium flavofuscum J.H. Mill., Giddens & A.A. Foster, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 69(11): 2385 (1992)
+Mycologia 49(6): 793 (1958)
 
 #### Original name
 Gliocladium flavofuscum J.H. Mill., Giddens & A.A. Foster, 1958

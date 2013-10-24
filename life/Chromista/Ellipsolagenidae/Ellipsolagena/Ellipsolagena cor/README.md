@@ -1,5 +1,4 @@
-Ellipsolagena cor Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena cor Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

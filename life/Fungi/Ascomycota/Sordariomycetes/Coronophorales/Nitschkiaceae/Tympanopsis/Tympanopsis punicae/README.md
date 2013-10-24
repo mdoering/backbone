@@ -1,5 +1,4 @@
-Tympanopsis punicae Bale SPECIES
-=======
+# Tympanopsis punicae Bale SPECIES
 
 #### Status
 ACCEPTED

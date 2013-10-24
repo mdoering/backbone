@@ -1,5 +1,4 @@
-Sheariella carbonacea Petr., 1952 SPECIES
-=======
+# Sheariella carbonacea Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

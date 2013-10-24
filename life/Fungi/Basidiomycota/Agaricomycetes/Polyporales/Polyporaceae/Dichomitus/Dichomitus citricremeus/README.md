@@ -1,5 +1,4 @@
-Dichomitus citricremeus Masuka & Ryvarden SPECIES
-=======
+# Dichomitus citricremeus Masuka & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

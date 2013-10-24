@@ -1,14 +1,13 @@
-Bodinia balcanea (Castell.) M. Ota & Langeron, 1923 SPECIES
-=======
+# Trichophyton balcaneum Castell., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Parasit. hum. comp. 1: 329 (1923)
+J. Trop. Med. Hyg. 22: 174 (1919)
 
 #### Original name
 Trichophyton balcaneum Castell., 1919

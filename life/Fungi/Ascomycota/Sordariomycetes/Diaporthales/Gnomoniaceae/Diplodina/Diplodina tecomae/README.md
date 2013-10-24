@@ -1,5 +1,4 @@
-Diplodina tecomae S. Ahmad & Arshad SPECIES
-=======
+# Diplodina tecomae S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

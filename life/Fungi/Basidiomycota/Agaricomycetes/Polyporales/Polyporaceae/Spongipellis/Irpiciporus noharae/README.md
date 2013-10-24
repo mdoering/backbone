@@ -1,5 +1,4 @@
-Irpiciporus noharae Murrill SPECIES
-=======
+# Irpiciporus noharae Murrill SPECIES
 
 #### Status
 ACCEPTED

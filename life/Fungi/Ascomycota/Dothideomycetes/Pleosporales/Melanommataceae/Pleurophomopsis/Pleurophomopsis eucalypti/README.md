@@ -1,5 +1,4 @@
-Pleurophomopsis eucalypti Petr. SPECIES
-=======
+# Pleurophomopsis eucalypti Petr. SPECIES
 
 #### Status
 ACCEPTED

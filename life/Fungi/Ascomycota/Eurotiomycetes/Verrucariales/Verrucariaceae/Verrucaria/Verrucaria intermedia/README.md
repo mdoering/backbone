@@ -1,5 +1,4 @@
-Verrucaria intermedia (Th. Fr.) Vain. SPECIES
-=======
+# Verrucaria intermedia (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Actinocephalus Kützing, 1843 GENUS
-=======
+# Hydrocoleum Kuetzing Ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phyc. Gen. , p. 190.
+Ann. Sci. Nat. Bot. , ser. 7, 15: 332.
 
 #### Original name
 null

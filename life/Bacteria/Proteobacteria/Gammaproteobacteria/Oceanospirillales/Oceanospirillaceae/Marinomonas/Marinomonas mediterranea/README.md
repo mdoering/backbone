@@ -1,5 +1,4 @@
-Marinomonas mediterranea Solano & Sanchez-Amat, 1999 SPECIES
-=======
+# Marinomonas mediterranea Solano & Sanchez-Amat, 1999 SPECIES
 
 #### Status
 ACCEPTED

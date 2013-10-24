@@ -1,5 +1,4 @@
-Rhabdospora fraxinicola Sousa da Câmara SPECIES
-=======
+# Rhabdospora fraxinicola Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

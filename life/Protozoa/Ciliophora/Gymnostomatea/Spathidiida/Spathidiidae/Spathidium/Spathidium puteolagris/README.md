@@ -1,5 +1,4 @@
-Spathidium puteolagris SPECIES
-=======
+# Spathidium puteolagris SPECIES
 
 #### Status
 ACCEPTED

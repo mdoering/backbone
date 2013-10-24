@@ -1,17 +1,16 @@
-Diderma simplex var. applanatum Y. Yamam. VARIETY
-=======
+# Diderma simplex (J. Schröt.) G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 284 (1998)
+Monogr. Mycetozoa (London), Edn 2 107 (1911)
 
 #### Original name
-Diderma simplex var. applanatum Y. Yamam.
+Chondrioderma simplex J. Schröt., 1885
 
 ### Remarks
 null

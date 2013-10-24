@@ -1,5 +1,4 @@
-Collybia accommodans Schulzer SPECIES
-=======
+# Collybia accommodans Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Centropyxidae FAMILY
-=======
+# Centropyxidae FAMILY
 
 #### Status
 ACCEPTED

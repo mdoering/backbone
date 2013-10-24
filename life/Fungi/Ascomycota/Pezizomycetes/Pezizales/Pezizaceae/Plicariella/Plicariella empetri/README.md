@@ -1,5 +1,4 @@
-Plicariella empetri (Rostr.) P. Larsen SPECIES
-=======
+# Plicariella empetri (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

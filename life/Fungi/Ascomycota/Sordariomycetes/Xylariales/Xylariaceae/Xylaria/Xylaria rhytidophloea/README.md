@@ -1,5 +1,4 @@
-Xylaria rhytidophloea Mont. SPECIES
-=======
+# Xylaria rhytidophloea Mont. SPECIES
 
 #### Status
 ACCEPTED

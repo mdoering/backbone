@@ -1,17 +1,16 @@
-Ascochyta salicorniae f. salicorniae Magnus FORM
-=======
+# Stagonosporopsis salicorniae (Magnus) Died. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Ascochyta salicorniae f. salicorniae Magnus
+Ascochyta salicorniae Magnus, 1902
 
 ### Remarks
 null

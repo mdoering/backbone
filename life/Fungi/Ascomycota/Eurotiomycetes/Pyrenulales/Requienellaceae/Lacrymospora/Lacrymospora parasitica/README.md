@@ -1,5 +1,4 @@
-Lacrymospora parasitica Aptroot SPECIES
-=======
+# Lacrymospora parasitica Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium tetrasporellum (Nyl.) Räsänen SPECIES
-=======
+# Placodium tetrasporellum (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

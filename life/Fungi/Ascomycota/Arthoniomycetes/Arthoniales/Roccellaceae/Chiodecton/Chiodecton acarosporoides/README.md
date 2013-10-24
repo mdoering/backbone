@@ -1,5 +1,4 @@
-Chiodecton acarosporoides C.W. Dodge SPECIES
-=======
+# Chiodecton acarosporoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

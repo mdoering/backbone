@@ -1,5 +1,4 @@
-Gloeosporium rhinanthi P. Karst. & Har. SPECIES
-=======
+# Gloeosporium rhinanthi P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

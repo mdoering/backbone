@@ -1,5 +1,4 @@
-Fusarium torulosum (Berk. & M.A. Curtis) Nirenberg, 1995 SPECIES
-=======
+# Fusarium torulosum (Berk. & M.A. Curtis) Nirenberg, 1995 SPECIES
 
 #### Status
 ACCEPTED

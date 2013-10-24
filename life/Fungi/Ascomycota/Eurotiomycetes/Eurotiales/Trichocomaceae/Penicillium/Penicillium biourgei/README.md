@@ -1,5 +1,4 @@
-Penicillium biourgei G. Arnaud SPECIES
-=======
+# Penicillium biourgei G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

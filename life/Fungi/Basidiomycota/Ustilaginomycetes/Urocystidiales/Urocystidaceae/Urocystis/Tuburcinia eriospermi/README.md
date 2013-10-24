@@ -1,5 +1,4 @@
-Tuburcinia eriospermi Syd. {?} SPECIES
-=======
+# Tuburcinia eriospermi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

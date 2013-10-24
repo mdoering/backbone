@@ -1,5 +1,4 @@
-Diderma geasteroides W. Phillips SPECIES
-=======
+# Diderma geasteroides W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria subvelutina Singer SPECIES
-=======
+# Naucoria subvelutina Singer SPECIES
 
 #### Status
 ACCEPTED

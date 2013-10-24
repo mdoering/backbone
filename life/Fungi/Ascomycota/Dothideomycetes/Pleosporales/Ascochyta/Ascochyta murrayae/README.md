@@ -1,5 +1,4 @@
-Ascochyta murrayae M.S. Ali, Saikia & N. Ahmed SPECIES
-=======
+# Ascochyta murrayae M.S. Ali, Saikia & N. Ahmed SPECIES
 
 #### Status
 ACCEPTED

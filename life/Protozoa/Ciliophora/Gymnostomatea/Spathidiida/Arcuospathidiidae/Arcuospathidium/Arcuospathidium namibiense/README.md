@@ -1,5 +1,4 @@
-Arcuospathidium namibiense subsp. namibiense SUBSPECIES
-=======
+# Arcuospathidium namibiense Foissner, Agatha & Berger SPECIES
 
 #### Status
 ACCEPTED

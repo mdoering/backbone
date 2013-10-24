@@ -1,14 +1,13 @@
-Neofuscelia neodelisei (Elix) Essl. SPECIES
-=======
+# Xanthoparmelia neodelisei (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 89(4): 298 (1987)
+Taxon 53(4): 969 (2004)
 
 #### Original name
 Parmelia neodelisei Elix

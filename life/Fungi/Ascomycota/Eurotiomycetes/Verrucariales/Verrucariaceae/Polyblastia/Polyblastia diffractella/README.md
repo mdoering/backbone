@@ -1,8 +1,7 @@
-Polyblastia difractella (Nyl.) Trevis. SPECIES
-=======
+# Polyblastia diffractella (Nyl.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria difractella Nyl.
+Verrucaria diffractella Nyl.
 
 ### Remarks
 null

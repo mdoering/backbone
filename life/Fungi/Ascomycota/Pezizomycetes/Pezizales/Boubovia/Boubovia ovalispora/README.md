@@ -1,5 +1,4 @@
-Boubovia ovalispora (Boud.) SPECIES
-=======
+# Boubovia ovalispora (Boud.) SPECIES
 
 #### Status
 ACCEPTED

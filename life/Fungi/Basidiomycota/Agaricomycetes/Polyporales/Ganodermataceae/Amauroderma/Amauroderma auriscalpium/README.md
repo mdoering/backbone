@@ -1,14 +1,13 @@
-Polyporus auriscalpium Pers., 1827 SPECIES
-=======
+# Amauroderma auriscalpium (Pers.) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Voy. Uranie. Bot. 5: 169 (1827)
+Brotéria, sér. bot. 18: 131 (1920)
 
 #### Original name
 Polyporus auriscalpium Pers., 1827

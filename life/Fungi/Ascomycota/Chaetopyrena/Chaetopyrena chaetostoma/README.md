@@ -1,5 +1,4 @@
-Chaetopyrena chaetostoma Sacc. SPECIES
-=======
+# Chaetopyrena chaetostoma Sacc. SPECIES
 
 #### Status
 ACCEPTED

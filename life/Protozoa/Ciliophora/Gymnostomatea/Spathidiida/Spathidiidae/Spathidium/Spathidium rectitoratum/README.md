@@ -1,5 +1,4 @@
-Spathidium rectitoratum subsp. rectitoratum SUBSPECIES
-=======
+# Spathidium rectitoratum (Kahl, 1930) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
 ACCEPTED

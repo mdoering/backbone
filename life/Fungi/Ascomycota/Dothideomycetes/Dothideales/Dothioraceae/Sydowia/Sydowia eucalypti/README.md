@@ -1,17 +1,16 @@
-Sphaerulina eucalypti Verwoerd & du Plessis, 1931 SPECIES
-=======
+# Sydowia eucalypti (Verwoerd & du Plessis) Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Groenewald, Wingfield & Aptroot, Sydowia 55(2): 143 (2003)
 
 #### Original name
-null
+Sphaerulina eucalypti Verwoerd & du Plessis, 1931
 
 ### Remarks
 null

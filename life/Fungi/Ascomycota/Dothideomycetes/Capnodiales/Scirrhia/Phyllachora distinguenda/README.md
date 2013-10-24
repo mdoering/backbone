@@ -1,5 +1,4 @@
-Phyllachora distinguenda Rehm, 1897 SPECIES
-=======
+# Phyllachora distinguenda Rehm, 1897 SPECIES
 
 #### Status
 DOUBTFUL

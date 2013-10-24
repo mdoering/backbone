@@ -1,5 +1,4 @@
-Heppia meiolepis Cromb. SPECIES
-=======
+# Heppia meiolepis Cromb. SPECIES
 
 #### Status
 ACCEPTED

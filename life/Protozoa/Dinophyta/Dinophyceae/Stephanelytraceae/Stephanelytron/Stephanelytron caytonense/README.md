@@ -1,5 +1,4 @@
-Stephanelytron caytonense Sarjeant, 1961 SPECIES
-=======
+# Stephanelytron caytonense Sarjeant, 1961 SPECIES
 
 #### Status
 ACCEPTED

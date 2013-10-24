@@ -1,17 +1,16 @@
-Diplodia capparidis Koshk. & Frolov SPECIES
-=======
+# Diplodia capparis Koshk. & Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 124 (1973)
 
 #### Original name
-Diplodia capparidis Koshk. & Frolov
+Diplodia capparis Koshk. & Frolov
 
 ### Remarks
 null

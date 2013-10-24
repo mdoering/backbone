@@ -1,5 +1,4 @@
-Naucoria christinae (Fr.) Sacc. SPECIES
-=======
+# Naucoria christinae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plenotrichopsis Bat. GENUS
-=======
+# Plenotrichopsis Bat. GENUS
 
 #### Status
 ACCEPTED

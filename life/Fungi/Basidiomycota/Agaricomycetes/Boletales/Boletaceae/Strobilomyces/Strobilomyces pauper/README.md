@@ -1,5 +1,4 @@
-Strobilomyces pauper Singer SPECIES
-=======
+# Strobilomyces pauper Singer SPECIES
 
 #### Status
 ACCEPTED

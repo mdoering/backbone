@@ -1,5 +1,4 @@
-Lasiothelebolus oblongisporus Kimbr. & Luck-Allen SPECIES
-=======
+# Lasiothelebolus oblongisporus Kimbr. & Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

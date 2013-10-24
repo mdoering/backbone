@@ -1,5 +1,4 @@
-Fibulomyces canadensis Jülich, 1972 SPECIES
-=======
+# Fibulomyces canadensis Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

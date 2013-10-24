@@ -1,5 +1,4 @@
-Sporidesmium asterinum (Cooke) M.B. Ellis SPECIES
-=======
+# Sporidesmium asterinum (Cooke) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

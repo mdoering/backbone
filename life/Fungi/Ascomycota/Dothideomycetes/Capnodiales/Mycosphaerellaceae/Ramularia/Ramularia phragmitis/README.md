@@ -1,5 +1,4 @@
-Ramularia phragmitis Nagorny SPECIES
-=======
+# Ramularia phragmitis Nagorny SPECIES
 
 #### Status
 ACCEPTED

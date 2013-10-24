@@ -1,5 +1,4 @@
-Phacellium geranii (Voglino) U. Braun SPECIES
-=======
+# Phacellium geranii (Voglino) U. Braun SPECIES
 
 #### Status
 ACCEPTED

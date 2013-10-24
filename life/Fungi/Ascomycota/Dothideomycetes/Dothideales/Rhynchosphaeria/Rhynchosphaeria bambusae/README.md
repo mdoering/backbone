@@ -1,5 +1,4 @@
-Rhynchosphaeria bambusae Teng SPECIES
-=======
+# Rhynchosphaeria bambusae Teng SPECIES
 
 #### Status
 ACCEPTED

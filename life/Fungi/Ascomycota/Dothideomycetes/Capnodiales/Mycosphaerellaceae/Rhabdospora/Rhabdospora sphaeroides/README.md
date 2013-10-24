@@ -1,5 +1,4 @@
-Rhabdospora sphaeroides Pass. SPECIES
-=======
+# Rhabdospora sphaeroides Pass. SPECIES
 
 #### Status
 ACCEPTED

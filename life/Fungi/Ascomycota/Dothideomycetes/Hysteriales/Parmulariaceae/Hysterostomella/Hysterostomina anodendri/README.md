@@ -1,5 +1,4 @@
-Hysterostomina anodendri Hansf. SPECIES
-=======
+# Hysterostomina anodendri Hansf. SPECIES
 
 #### Status
 ACCEPTED

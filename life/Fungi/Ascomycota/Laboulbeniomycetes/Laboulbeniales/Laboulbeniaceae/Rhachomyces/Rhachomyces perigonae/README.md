@@ -1,5 +1,4 @@
-Rhachomyces perigonae Thaxt. SPECIES
-=======
+# Rhachomyces perigonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

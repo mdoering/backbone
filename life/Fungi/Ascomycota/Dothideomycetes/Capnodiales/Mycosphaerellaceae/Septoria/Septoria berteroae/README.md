@@ -1,5 +1,4 @@
-Septoria berteroae Thüm. SPECIES
-=======
+# Septoria berteroae Thüm. SPECIES
 
 #### Status
 ACCEPTED

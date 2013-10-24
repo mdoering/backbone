@@ -1,5 +1,4 @@
-Gnomonia epidermidis Feltgen SPECIES
-=======
+# Gnomonia epidermidis Feltgen SPECIES
 
 #### Status
 ACCEPTED

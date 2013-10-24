@@ -1,5 +1,4 @@
-Baltisphaeridium tylacanthum Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium tylacanthum Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

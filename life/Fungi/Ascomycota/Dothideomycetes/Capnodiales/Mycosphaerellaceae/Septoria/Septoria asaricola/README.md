@@ -1,5 +1,4 @@
-Septoria asaricola Allesch. SPECIES
-=======
+# Septoria asaricola Allesch. SPECIES
 
 #### Status
 ACCEPTED

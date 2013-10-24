@@ -1,5 +1,4 @@
-Lisea tibouchinae Rehm SPECIES
-=======
+# Lisea tibouchinae Rehm SPECIES
 
 #### Status
 ACCEPTED

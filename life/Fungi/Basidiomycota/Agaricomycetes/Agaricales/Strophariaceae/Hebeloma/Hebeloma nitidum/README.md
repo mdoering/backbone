@@ -1,5 +1,4 @@
-Hebeloma nitidum Hesler SPECIES
-=======
+# Hebeloma nitidum Hesler SPECIES
 
 #### Status
 ACCEPTED

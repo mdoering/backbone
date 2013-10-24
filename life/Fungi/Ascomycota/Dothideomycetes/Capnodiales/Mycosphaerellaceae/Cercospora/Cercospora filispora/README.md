@@ -1,5 +1,4 @@
-Cercospora filispora Peck SPECIES
-=======
+# Cercospora filispora Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium amphigenum Hazsl. SPECIES
-=======
+# Aecidium amphigenum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

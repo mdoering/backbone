@@ -1,5 +1,4 @@
-Nostoc gunnerae Reinke ex Merker SPECIES
-=======
+# Nostoc gunnerae Reinke ex Merker SPECIES
 
 #### Status
 ACCEPTED

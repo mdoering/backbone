@@ -1,17 +1,16 @@
-Ascocoma eucalypti var. didymospora H.J. Swart VARIETY
-=======
+# Ascocoma eucalypti (Hansf.) H.J. Swart, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 87(4): 607 (1987)
 
 #### Original name
-Ascocoma eucalypti var. didymospora H.J. Swart
+Pseudopeziza eucalypti Hansf., 1956
 
 ### Remarks
 null

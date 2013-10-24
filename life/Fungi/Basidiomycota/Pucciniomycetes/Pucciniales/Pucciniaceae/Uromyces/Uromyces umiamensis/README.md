@@ -1,5 +1,4 @@
-Uromyces umiamensis Berndt & Baiswar SPECIES
-=======
+# Uromyces umiamensis Berndt & Baiswar SPECIES
 
 #### Status
 ACCEPTED

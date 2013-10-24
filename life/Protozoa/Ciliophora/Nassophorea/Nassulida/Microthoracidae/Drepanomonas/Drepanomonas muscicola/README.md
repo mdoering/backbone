@@ -1,5 +1,4 @@
-Drepanomonas muscicola Foissner, 1987 SPECIES
-=======
+# Drepanomonas muscicola Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

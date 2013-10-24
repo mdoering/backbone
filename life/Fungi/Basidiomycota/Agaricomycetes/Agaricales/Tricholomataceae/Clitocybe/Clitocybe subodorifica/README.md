@@ -1,5 +1,4 @@
-Clitocybe subodorifica Peck SPECIES
-=======
+# Clitocybe subodorifica Peck SPECIES
 
 #### Status
 ACCEPTED

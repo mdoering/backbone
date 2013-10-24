@@ -1,5 +1,4 @@
-Gloeothece goeppertiana (Hilse) Forti SPECIES
-=======
+# Gloeothece goeppertiana (Hilse) Forti SPECIES
 
 #### Status
 ACCEPTED

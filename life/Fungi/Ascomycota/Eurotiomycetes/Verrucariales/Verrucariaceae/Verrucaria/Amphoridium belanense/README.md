@@ -1,5 +1,4 @@
-Amphoridium belanense (Servít) Servít SPECIES
-=======
+# Amphoridium belanense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

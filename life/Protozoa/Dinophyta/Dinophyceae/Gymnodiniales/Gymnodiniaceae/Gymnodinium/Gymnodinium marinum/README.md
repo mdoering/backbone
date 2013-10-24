@@ -1,5 +1,4 @@
-Gymnodinium marinum Saville-Kent SPECIES
-=======
+# Gymnodinium marinum Saville-Kent SPECIES
 
 #### Status
 ACCEPTED

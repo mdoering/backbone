@@ -1,5 +1,4 @@
-Autoicomyces chinensis D.H. Ye & Y.H. Shen SPECIES
-=======
+# Autoicomyces chinensis D.H. Ye & Y.H. Shen SPECIES
 
 #### Status
 ACCEPTED

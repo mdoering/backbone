@@ -1,5 +1,4 @@
-Dasyscyphella longistipitata Hosoya SPECIES
-=======
+# Dasyscyphella longistipitata Hosoya SPECIES
 
 #### Status
 ACCEPTED

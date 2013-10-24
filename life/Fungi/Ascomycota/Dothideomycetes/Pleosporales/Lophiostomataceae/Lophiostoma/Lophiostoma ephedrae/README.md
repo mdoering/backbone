@@ -1,5 +1,4 @@
-Lophiostoma ephedrae Hollós SPECIES
-=======
+# Lophiostoma ephedrae Hollós SPECIES
 
 #### Status
 ACCEPTED

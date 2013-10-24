@@ -1,5 +1,4 @@
-Scleroderris lobata Cash SPECIES
-=======
+# Scleroderris lobata Cash SPECIES
 
 #### Status
 ACCEPTED

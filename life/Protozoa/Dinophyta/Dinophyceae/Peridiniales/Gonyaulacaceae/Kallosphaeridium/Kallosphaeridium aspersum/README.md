@@ -1,5 +1,4 @@
-Kallosphaeridium aspersum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Kallosphaeridium aspersum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

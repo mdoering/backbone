@@ -1,5 +1,4 @@
-Hystrichosphaeridium salpingophorum Deflandre, 1935 SPECIES
-=======
+# Hystrichosphaeridium salpingophorum Deflandre, 1935 SPECIES
 
 #### Status
 ACCEPTED

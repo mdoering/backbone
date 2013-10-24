@@ -1,5 +1,4 @@
-Piricauda vulcanensis Mercado, Guarro & Heredia SPECIES
-=======
+# Piricauda vulcanensis Mercado, Guarro & Heredia SPECIES
 
 #### Status
 ACCEPTED

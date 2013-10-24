@@ -1,5 +1,4 @@
-Heterosporium polymorphum Nicolas & Aggéry SPECIES
-=======
+# Heterosporium polymorphum Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

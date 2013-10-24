@@ -1,5 +1,4 @@
-Clitopilus undulatus (Bull.) SPECIES
-=======
+# Clitopilus undulatus (Bull.) SPECIES
 
 #### Status
 ACCEPTED

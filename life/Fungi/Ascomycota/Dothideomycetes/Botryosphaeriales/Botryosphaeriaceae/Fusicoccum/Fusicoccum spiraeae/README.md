@@ -1,5 +1,4 @@
-Fusicoccum spiraeae Mitrosh. SPECIES
-=======
+# Fusicoccum spiraeae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

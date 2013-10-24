@@ -1,5 +1,4 @@
-Grosmannia grandifoliae (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Grosmannia grandifoliae (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

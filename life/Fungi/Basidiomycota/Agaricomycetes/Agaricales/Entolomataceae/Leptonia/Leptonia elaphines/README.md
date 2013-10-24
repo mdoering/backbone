@@ -1,5 +1,4 @@
-Leptonia elaphines (Berk. & Broome) Pegler SPECIES
-=======
+# Leptonia elaphines (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

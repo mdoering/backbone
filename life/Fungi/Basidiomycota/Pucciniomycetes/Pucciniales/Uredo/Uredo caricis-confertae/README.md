@@ -1,5 +1,4 @@
-Uredo caricis-confertae Gjaerum SPECIES
-=======
+# Uredo caricis-confertae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon fragillimum (Rehm) J.H. Mill. SPECIES
-=======
+# Hypoxylon fragillimum (Rehm) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

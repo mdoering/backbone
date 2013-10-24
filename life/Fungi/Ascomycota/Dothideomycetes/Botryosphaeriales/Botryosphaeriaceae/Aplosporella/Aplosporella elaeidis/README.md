@@ -1,5 +1,4 @@
-Aplosporella elaeidis Pat. & Har. SPECIES
-=======
+# Aplosporella elaeidis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

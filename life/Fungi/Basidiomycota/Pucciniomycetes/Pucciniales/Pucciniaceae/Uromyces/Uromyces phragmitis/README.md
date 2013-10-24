@@ -1,5 +1,4 @@
-Uromyces phragmitis (Schumach.) SPECIES
-=======
+# Uromyces phragmitis (Schumach.) SPECIES
 
 #### Status
 ACCEPTED

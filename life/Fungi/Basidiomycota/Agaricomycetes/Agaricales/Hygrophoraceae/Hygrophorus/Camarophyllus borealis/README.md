@@ -1,5 +1,4 @@
-Camarophyllus borealis (Peck) Murrill SPECIES
-=======
+# Camarophyllus borealis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

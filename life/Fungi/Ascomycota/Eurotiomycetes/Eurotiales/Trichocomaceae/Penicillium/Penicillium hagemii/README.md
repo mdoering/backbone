@@ -1,5 +1,4 @@
-Penicillium hagemii K.M. Zalessky SPECIES
-=======
+# Penicillium hagemii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

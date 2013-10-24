@@ -1,5 +1,4 @@
-Phyllachora connari Syd. & P. Syd., 1914 SPECIES
-=======
+# Phyllachora connari Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

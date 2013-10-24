@@ -1,5 +1,4 @@
-Coniothyrium chimonanthi Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Coniothyrium chimonanthi Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lobulatus Lév. SPECIES
-=======
+# Agaricus lobulatus Lév. SPECIES
 
 #### Status
 ACCEPTED

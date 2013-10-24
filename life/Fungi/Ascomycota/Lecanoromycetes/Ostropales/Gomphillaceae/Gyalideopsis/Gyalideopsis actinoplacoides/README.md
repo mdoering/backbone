@@ -1,5 +1,4 @@
-Gyalideopsis actinoplacoides Lücking SPECIES
-=======
+# Gyalideopsis actinoplacoides Lücking SPECIES
 
 #### Status
 ACCEPTED

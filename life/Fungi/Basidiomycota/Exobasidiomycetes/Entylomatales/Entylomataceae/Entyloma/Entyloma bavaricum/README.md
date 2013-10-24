@@ -1,5 +1,4 @@
-Entyloma bavaricum Syd. SPECIES
-=======
+# Entyloma bavaricum Syd. SPECIES
 
 #### Status
 ACCEPTED

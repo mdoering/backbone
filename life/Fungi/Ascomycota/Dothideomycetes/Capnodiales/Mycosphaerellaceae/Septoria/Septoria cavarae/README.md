@@ -1,5 +1,4 @@
-Septoria cavarae Frandsen SPECIES
-=======
+# Septoria cavarae Frandsen SPECIES
 
 #### Status
 ACCEPTED

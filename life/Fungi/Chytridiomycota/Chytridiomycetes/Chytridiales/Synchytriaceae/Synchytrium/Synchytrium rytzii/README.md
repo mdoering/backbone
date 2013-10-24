@@ -1,5 +1,4 @@
-Synchytrium rytzii Syd. SPECIES
-=======
+# Synchytrium rytzii Syd. SPECIES
 
 #### Status
 ACCEPTED

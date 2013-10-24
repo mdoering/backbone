@@ -1,5 +1,4 @@
-Distothelia isthmospora Aptroot SPECIES
-=======
+# Distothelia isthmospora Aptroot SPECIES
 
 #### Status
 ACCEPTED

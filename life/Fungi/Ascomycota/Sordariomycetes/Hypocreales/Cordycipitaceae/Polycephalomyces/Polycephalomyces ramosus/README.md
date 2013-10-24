@@ -1,14 +1,13 @@
-Botryonipha kervillei (Quél.) Kuntze, 1891 SPECIES
-=======
+# Polycephalomyces ramosus (Peck) Mains, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 845 (1891)
+Mycologia 40(4): 414 (1948)
 
 #### Original name
 null

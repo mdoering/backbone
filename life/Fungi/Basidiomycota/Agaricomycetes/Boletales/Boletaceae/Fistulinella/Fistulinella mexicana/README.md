@@ -1,14 +1,13 @@
-Mucilopilus mexicanus (Guzmán) Wolfe, 1982 SPECIES
-=======
+# Fistulinella mexicana Guzmán, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 74(1): 39 (1982)
+Boletín de la Sociedad Mexicana de Micología 8: 54 (1974)
 
 #### Original name
 Fistulinella mexicana Guzmán, 1974

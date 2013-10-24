@@ -1,5 +1,4 @@
-Anaptychia pseudoroemeri D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Anaptychia pseudoroemeri D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

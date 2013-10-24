@@ -1,5 +1,4 @@
-Durella coriariae Pass. SPECIES
-=======
+# Durella coriariae Pass. SPECIES
 
 #### Status
 ACCEPTED

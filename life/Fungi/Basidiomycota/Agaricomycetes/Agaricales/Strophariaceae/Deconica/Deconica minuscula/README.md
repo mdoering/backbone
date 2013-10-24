@@ -1,5 +1,4 @@
-Deconica minuscula Wichanský SPECIES
-=======
+# Deconica minuscula Wichanský SPECIES
 
 #### Status
 ACCEPTED

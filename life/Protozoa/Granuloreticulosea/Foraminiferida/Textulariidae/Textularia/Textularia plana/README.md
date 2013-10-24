@@ -1,5 +1,4 @@
-Textularia plana d'Orbigny, 1852 SPECIES
-=======
+# Textularia plana d'Orbigny, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria tinctoriae Dearn. & House SPECIES
-=======
+# Septoria tinctoriae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mesophellia novae-zelandiae G. Cunn., 1940 SPECIES
-=======
+# Malajczukia novae-zelandiae (G. Cunn.) Trappe & Castellano, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Sci. Technol. , ser. B 22: 124 (1940)
+Aust. Syst. Bot. 5(5): 625 (1992)
 
 #### Original name
 Mesophellia novae-zelandiae G. Cunn., 1940

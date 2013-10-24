@@ -1,5 +1,4 @@
-Leptolyngbya notatum (Schmidle) Anagnostidis & Komarek SPECIES
-=======
+# Leptolyngbya notatum (Schmidle) Anagnostidis & Komarek SPECIES
 
 #### Status
 ACCEPTED

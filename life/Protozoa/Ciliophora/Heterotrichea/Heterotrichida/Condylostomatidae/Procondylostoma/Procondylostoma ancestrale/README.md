@@ -1,8 +1,7 @@
-Condylostoma ancestralis Villeneuve-Brachon, 1940 SPECIES
-=======
+# Procondylostoma ancestrale (Villeneuve-Brachon, 1940) Jankowski, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

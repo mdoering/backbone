@@ -1,17 +1,16 @@
-Agaricus lividus var. lividus VARIETY
-=======
+# Russula heterophylla (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 352 (1838)
 
 #### Original name
-Agaricus lividus var. lividus
+Agaricus furcatus Pers.
 
 ### Remarks
 null

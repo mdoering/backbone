@@ -1,5 +1,4 @@
-Humaria diluta (Fr.) Sacc. SPECIES
-=======
+# Humaria diluta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

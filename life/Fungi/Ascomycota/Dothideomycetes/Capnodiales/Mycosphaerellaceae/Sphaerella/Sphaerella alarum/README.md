@@ -1,5 +1,4 @@
-Sphaerella alarum Ellis & Halst. SPECIES
-=======
+# Sphaerella alarum Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

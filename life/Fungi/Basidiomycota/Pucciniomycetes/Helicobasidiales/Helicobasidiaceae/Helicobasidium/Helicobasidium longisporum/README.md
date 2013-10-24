@@ -1,5 +1,4 @@
-Helicobasidium longisporum Wakef., 1917 SPECIES
-=======
+# Helicobasidium longisporum Wakef., 1917 SPECIES
 
 #### Status
 ACCEPTED

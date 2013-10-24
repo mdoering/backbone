@@ -1,5 +1,4 @@
-Nannoconus quadricanalis SPECIES
-=======
+# Nannoconus quadricanalis SPECIES
 
 #### Status
 ACCEPTED

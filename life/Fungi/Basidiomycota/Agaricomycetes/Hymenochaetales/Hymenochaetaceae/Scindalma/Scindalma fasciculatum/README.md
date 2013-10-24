@@ -1,5 +1,4 @@
-Scindalma fasciculatum (Pat.) Kuntze SPECIES
-=======
+# Scindalma fasciculatum (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

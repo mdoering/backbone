@@ -1,5 +1,4 @@
-Hendersonia gleditschiae f. gleditschiae FORM
-=======
+# Hendersonia gleditschiae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia gleditschiae f. gleditschiae
+Hendersonia gleditschiae J. Kickx f.
 
 ### Remarks
 null

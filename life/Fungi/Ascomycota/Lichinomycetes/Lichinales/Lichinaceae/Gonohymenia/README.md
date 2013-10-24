@@ -1,5 +1,4 @@
-Gonohymenia GENUS
-=======
+# Gonohymenia GENUS
 
 #### Status
 ACCEPTED

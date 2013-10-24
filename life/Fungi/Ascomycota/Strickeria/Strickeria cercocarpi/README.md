@@ -1,5 +1,4 @@
-Strickeria cercocarpi Tracy & Earle SPECIES
-=======
+# Strickeria cercocarpi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

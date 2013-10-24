@@ -1,5 +1,4 @@
-Zignoëlla nitidula Sacc. SPECIES
-=======
+# Zignoëlla nitidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

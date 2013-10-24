@@ -1,5 +1,4 @@
-Gymnosporium fulvum Berk. & M.A. Curtis SPECIES
-=======
+# Gymnosporium fulvum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

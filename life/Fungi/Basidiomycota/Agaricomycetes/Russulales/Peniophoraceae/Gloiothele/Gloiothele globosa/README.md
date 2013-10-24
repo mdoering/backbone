@@ -1,5 +1,4 @@
-Gloiothele globosa Sheng H. Wu, 1996 SPECIES
-=======
+# Gloiothele globosa Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

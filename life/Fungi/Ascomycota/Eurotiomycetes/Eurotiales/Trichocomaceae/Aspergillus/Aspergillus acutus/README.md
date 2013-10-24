@@ -1,5 +1,4 @@
-Aspergillus acutus Blaser SPECIES
-=======
+# Aspergillus acutus Blaser SPECIES
 
 #### Status
 ACCEPTED

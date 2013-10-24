@@ -1,5 +1,4 @@
-Helicodendron articulatum Glen Bott, 1955 SPECIES
-=======
+# Helicodendron articulatum Glen Bott, 1955 SPECIES
 
 #### Status
 ACCEPTED

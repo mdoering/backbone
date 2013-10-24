@@ -1,5 +1,4 @@
-Tetramelas granulosus (Darb.) A. Nordin SPECIES
-=======
+# Tetramelas granulosus (Darb.) A. Nordin SPECIES
 
 #### Status
 ACCEPTED

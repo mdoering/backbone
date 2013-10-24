@@ -1,5 +1,4 @@
-Geleia decolor (Kahl, 1933) Foissner, 1998 SPECIES
-=======
+# Geleia decolor (Kahl, 1933) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

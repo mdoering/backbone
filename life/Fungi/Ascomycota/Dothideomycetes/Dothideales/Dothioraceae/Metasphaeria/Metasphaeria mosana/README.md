@@ -1,5 +1,4 @@
-Metasphaeria mosana Mouton, 1887 SPECIES
-=======
+# Metasphaeria mosana Mouton, 1887 SPECIES
 
 #### Status
 ACCEPTED

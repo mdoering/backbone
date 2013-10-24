@@ -1,5 +1,4 @@
-Boletus vinaceobasis A.H. Sm. & Thiers SPECIES
-=======
+# Boletus vinaceobasis A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

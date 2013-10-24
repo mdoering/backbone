@@ -1,5 +1,4 @@
-Sympodioplanus R.C. Sinclair & Boshoff GENUS
-=======
+# Sympodioplanus R.C. Sinclair & Boshoff GENUS
 
 #### Status
 ACCEPTED

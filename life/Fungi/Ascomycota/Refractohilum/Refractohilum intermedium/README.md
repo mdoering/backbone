@@ -1,5 +1,4 @@
-Refractohilum intermedium Cl. Roux & Etayo SPECIES
-=======
+# Refractohilum intermedium Cl. Roux & Etayo SPECIES
 
 #### Status
 ACCEPTED

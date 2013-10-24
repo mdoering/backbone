@@ -1,5 +1,4 @@
-Dinamoebales ORDER
-=======
+# Dinamoebales ORDER
 
 #### Status
 ACCEPTED

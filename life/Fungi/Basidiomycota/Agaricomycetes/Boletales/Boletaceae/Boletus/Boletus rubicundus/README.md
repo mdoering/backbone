@@ -1,5 +1,4 @@
-Boletus rubicundus Maire SPECIES
-=======
+# Boletus rubicundus Maire SPECIES
 
 #### Status
 ACCEPTED

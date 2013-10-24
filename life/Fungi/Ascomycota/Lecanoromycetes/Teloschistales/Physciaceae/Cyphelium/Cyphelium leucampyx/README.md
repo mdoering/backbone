@@ -1,5 +1,4 @@
-Cyphelium leucampyx SPECIES
-=======
+# Cyphelium leucampyx SPECIES
 
 #### Status
 ACCEPTED

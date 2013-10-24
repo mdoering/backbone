@@ -1,5 +1,4 @@
-Lingulina inarimensis Buchner, 1942 SPECIES
-=======
+# Lingulina inarimensis Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

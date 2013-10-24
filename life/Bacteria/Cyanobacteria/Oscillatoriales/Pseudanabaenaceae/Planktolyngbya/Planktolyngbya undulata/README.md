@@ -1,5 +1,4 @@
-Planktolyngbya undulata J. Komárek & H. Kling SPECIES
-=======
+# Planktolyngbya undulata J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

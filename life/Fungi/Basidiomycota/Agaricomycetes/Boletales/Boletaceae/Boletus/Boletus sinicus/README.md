@@ -1,5 +1,4 @@
-Boletus sinicus W.F. Chiu SPECIES
-=======
+# Boletus sinicus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

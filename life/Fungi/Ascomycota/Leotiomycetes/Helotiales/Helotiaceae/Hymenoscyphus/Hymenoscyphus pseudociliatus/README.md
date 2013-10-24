@@ -1,14 +1,13 @@
-Helotium pseudociliatum W. Phillips, 1886 SPECIES
-=======
+# Hymenoscyphus pseudociliatus (W. Phillips) S.E. Carp., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 73): 17 (1886)
+Mem. N. Y. bot. Gdn 33: 247 (1981)
 
 #### Original name
 Helotium pseudociliatum W. Phillips, 1886

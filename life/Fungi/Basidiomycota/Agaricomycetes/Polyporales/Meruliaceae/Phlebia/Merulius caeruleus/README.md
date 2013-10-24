@@ -1,5 +1,4 @@
-Merulius caeruleus (Pers.) Fr. SPECIES
-=======
+# Merulius caeruleus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

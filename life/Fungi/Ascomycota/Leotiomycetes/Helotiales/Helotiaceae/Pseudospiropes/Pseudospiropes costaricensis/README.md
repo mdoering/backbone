@@ -1,14 +1,13 @@
-Pleurophragmium costaricensis E.F. Morris, 1972 SPECIES
-=======
+# Pseudospiropes costaricensis (E.F. Morris) de Hoog & Arx, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 64(4): 893 (1972)
+Kavaka 1: 59 (1973)
 
 #### Original name
 Pleurophragmium costaricensis E.F. Morris, 1972

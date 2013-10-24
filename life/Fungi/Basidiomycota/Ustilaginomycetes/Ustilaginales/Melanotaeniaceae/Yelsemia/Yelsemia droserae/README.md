@@ -1,5 +1,4 @@
-Yelsemia droserae R.G. Shivas, Vánky & Athip., 2006 SPECIES
-=======
+# Yelsemia droserae R.G. Shivas, Vánky & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

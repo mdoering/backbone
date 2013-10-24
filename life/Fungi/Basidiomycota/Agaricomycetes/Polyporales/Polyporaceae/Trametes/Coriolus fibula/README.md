@@ -1,17 +1,16 @@
-Polystictus fibula var. fibula VARIETY
-=======
+# Coriolus fibula (Fr.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 81 (1886)
+Enchir. fung. (Paris) 175 (1886)
 
 #### Original name
-Polystictus fibula var. fibula
+Polyporus fibula Fr., 1874
 
 ### Remarks
 null

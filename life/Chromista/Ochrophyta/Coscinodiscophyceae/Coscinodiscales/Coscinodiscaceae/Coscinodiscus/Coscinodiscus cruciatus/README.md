@@ -1,5 +1,4 @@
-Coscinodiscus cruciatus (Ehrenberg) Kützing, 1844 SPECIES
-=======
+# Coscinodiscus cruciatus (Ehrenberg) Kützing, 1844 SPECIES
 
 #### Status
 ACCEPTED

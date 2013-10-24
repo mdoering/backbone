@@ -1,5 +1,4 @@
-Pseudocercospora myrtacearum (A.N. Rai, B. Rai & Kamal) U. Braun SPECIES
-=======
+# Pseudocercospora myrtacearum (A.N. Rai, B. Rai & Kamal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

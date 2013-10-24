@@ -1,5 +1,4 @@
-Pertusaria oblongata Müll. Arg. SPECIES
-=======
+# Pertusaria oblongata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

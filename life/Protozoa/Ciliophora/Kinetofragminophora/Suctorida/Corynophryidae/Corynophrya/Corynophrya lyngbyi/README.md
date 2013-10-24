@@ -1,8 +1,7 @@
-Acineta lyngbyi Ehrenberg, 1834 SPECIES
-=======
+# Corynophrya lyngbyi (Ehrenberg, 1834) Curds, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Aecidium oxyacanthae Pers. SPECIES
-=======
+# Aecidium oxyacanthae Pers. SPECIES
 
 #### Status
 ACCEPTED

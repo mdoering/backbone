@@ -1,5 +1,4 @@
-Agaricus naevius J.F. Gmel. SPECIES
-=======
+# Agaricus naevius J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

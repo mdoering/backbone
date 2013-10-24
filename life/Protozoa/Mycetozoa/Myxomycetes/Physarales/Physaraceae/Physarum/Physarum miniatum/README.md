@@ -1,5 +1,4 @@
-Physarum miniatum Nann.-Bremek., 1989 SPECIES
-=======
+# Physarum miniatum Nann.-Bremek., 1989 SPECIES
 
 #### Status
 ACCEPTED

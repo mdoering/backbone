@@ -1,5 +1,4 @@
-Spathidium hyalinum Dujardin, 1841 SPECIES
-=======
+# Spathidium hyalinum Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma laurina Thüm. SPECIES
-=======
+# Phoma laurina Thüm. SPECIES
 
 #### Status
 ACCEPTED

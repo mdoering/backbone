@@ -1,5 +1,4 @@
-Tomentella variecolor Malençon, 1952 SPECIES
-=======
+# Tomentella variecolor Malençon, 1952 SPECIES
 
 #### Status
 ACCEPTED

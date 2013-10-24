@@ -1,5 +1,4 @@
-Potridiscus polymorphus Döbbeler & Triebel, 2000 SPECIES
-=======
+# Potridiscus polymorphus Döbbeler & Triebel, 2000 SPECIES
 
 #### Status
 ACCEPTED

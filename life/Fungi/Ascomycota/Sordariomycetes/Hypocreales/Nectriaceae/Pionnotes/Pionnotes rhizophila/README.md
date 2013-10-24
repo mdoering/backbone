@@ -1,17 +1,16 @@
-Fusisporium rhizophilum Westend. SPECIES
-=======
+# Pionnotes rhizophila (Corda) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 727 (1886)
 
 #### Original name
-null
+Fusarium rhizophilum Cooke
 
 ### Remarks
 null

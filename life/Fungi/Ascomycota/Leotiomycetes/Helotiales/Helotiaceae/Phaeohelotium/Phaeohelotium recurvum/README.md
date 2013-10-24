@@ -1,5 +1,4 @@
-Phaeohelotium recurvum (Rodway) Dennis SPECIES
-=======
+# Phaeohelotium recurvum (Rodway) Dennis SPECIES
 
 #### Status
 ACCEPTED

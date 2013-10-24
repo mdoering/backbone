@@ -1,5 +1,4 @@
-Ascochyta arundinariae Gonz. Frag. SPECIES
-=======
+# Ascochyta arundinariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

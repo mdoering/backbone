@@ -1,5 +1,4 @@
-Aphelidium A. Scherffel, 1925 GENUS
-=======
+# Aphelidium A. Scherffel, 1925 GENUS
 
 #### Status
 ACCEPTED

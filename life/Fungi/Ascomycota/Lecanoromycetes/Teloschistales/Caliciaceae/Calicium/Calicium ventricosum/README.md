@@ -1,5 +1,4 @@
-Calicium ventricosum Ach. SPECIES
-=======
+# Calicium ventricosum Ach. SPECIES
 
 #### Status
 ACCEPTED

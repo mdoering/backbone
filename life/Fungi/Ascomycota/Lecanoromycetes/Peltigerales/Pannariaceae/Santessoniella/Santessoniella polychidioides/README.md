@@ -1,5 +1,4 @@
-Santessoniella polychidioides (Zahlbr.) Henssen SPECIES
-=======
+# Santessoniella polychidioides (Zahlbr.) Henssen SPECIES
 
 #### Status
 ACCEPTED

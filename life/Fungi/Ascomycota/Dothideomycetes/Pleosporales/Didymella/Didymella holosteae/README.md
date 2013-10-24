@@ -1,5 +1,4 @@
-Didymella holosteae Syd., 1924 SPECIES
-=======
+# Didymella holosteae Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

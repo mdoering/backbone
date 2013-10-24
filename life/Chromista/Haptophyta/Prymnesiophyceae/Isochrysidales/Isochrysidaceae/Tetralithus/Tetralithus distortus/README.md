@@ -1,5 +1,4 @@
-Tetralithus distortus J.B. Risatti SPECIES
-=======
+# Tetralithus distortus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

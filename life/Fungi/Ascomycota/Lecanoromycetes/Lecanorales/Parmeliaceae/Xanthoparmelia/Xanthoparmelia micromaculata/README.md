@@ -1,5 +1,4 @@
-Xanthoparmelia micromaculata Elix SPECIES
-=======
+# Xanthoparmelia micromaculata Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pyrospermus Bull. SPECIES
-=======
+# Agaricus pyrospermus Bull. SPECIES
 
 #### Status
 ACCEPTED

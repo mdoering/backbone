@@ -1,14 +1,13 @@
-Helotium rickenii (A.H. Sm.) Redhead, 1982 SPECIES
-=======
+# Hemimycena rickenii (A.H. Sm.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+Sydowia 15: 60 (1962)
 
 #### Original name
 Mycena rickenii A.H. Sm., 1947

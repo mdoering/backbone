@@ -1,5 +1,4 @@
-Puccinia globulariae DC. SPECIES
-=======
+# Puccinia globulariae DC. SPECIES
 
 #### Status
 ACCEPTED

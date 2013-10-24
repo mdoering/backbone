@@ -1,5 +1,4 @@
-Graphina rugulosa (Fée) Müll. Arg. SPECIES
-=======
+# Graphina rugulosa (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

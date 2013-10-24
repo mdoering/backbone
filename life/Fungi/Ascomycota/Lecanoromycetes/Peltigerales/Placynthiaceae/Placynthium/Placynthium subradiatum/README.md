@@ -1,17 +1,16 @@
-Placynthium subradiatum f. subradiatum FORM
-=======
+# Placynthium subradiatum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 67: 240 (1884)
 
 #### Original name
-Placynthium subradiatum f. subradiatum
+Pannaria subradiata Nyl.
 
 ### Remarks
 null

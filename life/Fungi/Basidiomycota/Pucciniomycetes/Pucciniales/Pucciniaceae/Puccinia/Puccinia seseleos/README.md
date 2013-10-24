@@ -1,5 +1,4 @@
-Puccinia seseleos f. sp FORM
-=======
+# Puccinia seseleos A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Uredineana 3: 61 (1951)
 
 #### Original name
-Puccinia seseleos f. sp
+Puccinia seseleos A.L. Guyot
 
 ### Remarks
 null

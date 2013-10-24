@@ -1,5 +1,4 @@
-Cladosporiella cercosporicola Deighton, 1965 SPECIES
-=======
+# Cladosporiella cercosporicola Deighton, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanoplasma beckeri Burreson, 1979 SPECIES
-=======
+# Trypanoplasma beckeri Burreson, 1979 SPECIES
 
 #### Status
 ACCEPTED

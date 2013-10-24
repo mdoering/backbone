@@ -1,5 +1,4 @@
-Callosphaera GENUS
-=======
+# Callosphaera GENUS
 
 #### Status
 ACCEPTED

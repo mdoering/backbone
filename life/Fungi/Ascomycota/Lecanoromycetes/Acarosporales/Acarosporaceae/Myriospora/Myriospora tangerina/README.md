@@ -1,8 +1,7 @@
-Silobia tangerina M. Westb. & Wedin SPECIES
-=======
+# Myriospora tangerina (M. Westb. & Wedin) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

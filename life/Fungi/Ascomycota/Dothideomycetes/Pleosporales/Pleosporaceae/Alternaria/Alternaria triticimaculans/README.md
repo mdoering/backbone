@@ -1,5 +1,4 @@
-Alternaria triticimaculans E.G. Simmons & Perelló, 1994 SPECIES
-=======
+# Alternaria triticimaculans E.G. Simmons & Perelló, 1994 SPECIES
 
 #### Status
 ACCEPTED

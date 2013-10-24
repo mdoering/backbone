@@ -1,5 +1,4 @@
-Cephalosporiopsis simplex (Matsush.) Samuels SPECIES
-=======
+# Cephalosporiopsis simplex (Matsush.) Samuels SPECIES
 
 #### Status
 ACCEPTED

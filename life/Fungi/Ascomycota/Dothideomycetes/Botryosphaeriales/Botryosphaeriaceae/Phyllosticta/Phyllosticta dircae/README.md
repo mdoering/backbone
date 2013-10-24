@@ -1,5 +1,4 @@
-Phyllosticta dircae Ellis & Dearn. SPECIES
-=======
+# Phyllosticta dircae Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

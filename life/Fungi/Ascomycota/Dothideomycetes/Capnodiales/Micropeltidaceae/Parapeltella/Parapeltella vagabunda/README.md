@@ -1,5 +1,4 @@
-Parapeltella vagabunda (Speg.) Bat. SPECIES
-=======
+# Parapeltella vagabunda (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

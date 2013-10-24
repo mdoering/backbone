@@ -1,5 +1,4 @@
-Mycena conspersa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena conspersa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

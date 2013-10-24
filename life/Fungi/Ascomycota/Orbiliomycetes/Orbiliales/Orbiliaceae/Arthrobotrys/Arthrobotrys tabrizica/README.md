@@ -1,5 +1,4 @@
-Arthrobotrys tabrizica (Mekht.) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys tabrizica (Mekht.) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capitulariella Pascher, 1944 GENUS
-=======
+# Capitulariella Pascher, 1944 GENUS
 
 #### Status
 ACCEPTED

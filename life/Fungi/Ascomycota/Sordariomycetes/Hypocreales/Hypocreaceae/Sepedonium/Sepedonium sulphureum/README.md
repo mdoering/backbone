@@ -1,5 +1,4 @@
-Sepedonium sulphureum Speg. SPECIES
-=======
+# Sepedonium sulphureum Speg. SPECIES
 
 #### Status
 ACCEPTED

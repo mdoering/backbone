@@ -1,14 +1,13 @@
-Lagenidium destruens Sparrow, 1950 SPECIES
-=======
+# Cornumyces destruens (Sparrow) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Wash. Acad. Sci. 40: 54 (1950)
+Straminipilous Fungi (Dordrecht) 327 (2001)
 
 #### Original name
 Lagenidium destruens Sparrow, 1950

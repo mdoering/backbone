@@ -1,5 +1,4 @@
-Hypoxylon eterio (Berk. & Broome) Sacc. SPECIES
-=======
+# Hypoxylon eterio (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

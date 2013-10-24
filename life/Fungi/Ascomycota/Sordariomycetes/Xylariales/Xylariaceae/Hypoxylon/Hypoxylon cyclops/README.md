@@ -1,5 +1,4 @@
-Hypoxylon cyclops Mont. SPECIES
-=======
+# Hypoxylon cyclops Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocordyceps gryllotalpae (Kobayasi) Petch SPECIES
-=======
+# Ophiocordyceps gryllotalpae (Kobayasi) Petch SPECIES
 
 #### Status
 ACCEPTED

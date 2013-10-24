@@ -1,8 +1,7 @@
-Sigmoilina schlumbergeri Silvestri, 1904 SPECIES
-=======
+# Sigmoilopsis schlumbergeri (Silvestri, 1904) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

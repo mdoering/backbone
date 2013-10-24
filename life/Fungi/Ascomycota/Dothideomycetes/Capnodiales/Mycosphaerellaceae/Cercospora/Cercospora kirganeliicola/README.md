@@ -1,5 +1,4 @@
-Cercospora kirganeliicola R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora kirganeliicola R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

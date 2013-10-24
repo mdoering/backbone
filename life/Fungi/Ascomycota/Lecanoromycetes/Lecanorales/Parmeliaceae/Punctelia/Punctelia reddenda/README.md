@@ -1,14 +1,13 @@
-Parmelia reddenda Stirt. SPECIES
-=======
+# Punctelia reddenda (Stirt.) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. Natural. 4: 298 (1878)
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
 Parmelia reddenda Stirt.

@@ -1,5 +1,4 @@
-Bacillus subtilis subsp. subtilis SUBSPECIES
-=======
+# Bacillus subtilis Cohen, 1872 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Coniochaeta proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

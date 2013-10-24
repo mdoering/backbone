@@ -1,5 +1,4 @@
-Uredo enceliae-tomentosae Maire SPECIES
-=======
+# Uredo enceliae-tomentosae Maire SPECIES
 
 #### Status
 ACCEPTED

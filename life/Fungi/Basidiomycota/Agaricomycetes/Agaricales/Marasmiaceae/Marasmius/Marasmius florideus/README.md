@@ -1,5 +1,4 @@
-Marasmius florideus Berk. & Broome SPECIES
-=======
+# Marasmius florideus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria panicivora R. Sprague SPECIES
-=======
+# Septoria panicivora R. Sprague SPECIES
 
 #### Status
 ACCEPTED

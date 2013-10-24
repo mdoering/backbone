@@ -1,5 +1,4 @@
-Marinomonas basaltis Chang, Roh, Kim, Nam, Yoon, Oh & Bae, 2008 SPECIES
-=======
+# Marinomonas basaltis Chang, Roh, Kim, Nam, Yoon, Oh & Bae, 2008 SPECIES
 
 #### Status
 ACCEPTED

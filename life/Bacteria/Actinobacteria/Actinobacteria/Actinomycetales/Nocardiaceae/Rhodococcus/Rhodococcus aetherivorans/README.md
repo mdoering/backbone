@@ -1,5 +1,4 @@
-Rhodococcus aetherivorans Goodfellow et al., 2004 SPECIES
-=======
+# Rhodococcus aetherivorans Goodfellow et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

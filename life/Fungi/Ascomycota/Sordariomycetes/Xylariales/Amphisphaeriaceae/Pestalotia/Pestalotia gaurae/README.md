@@ -1,5 +1,4 @@
-Pestalotia gaurae Guba SPECIES
-=======
+# Pestalotia gaurae Guba SPECIES
 
 #### Status
 ACCEPTED

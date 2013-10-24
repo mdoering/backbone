@@ -1,5 +1,4 @@
-Esslingeriana Hale & M.J. Lai GENUS
-=======
+# Esslingeriana Hale & M.J. Lai GENUS
 
 #### Status
 ACCEPTED

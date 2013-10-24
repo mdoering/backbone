@@ -1,5 +1,4 @@
-Graphina discoides (Stirt.) Zahlbr. SPECIES
-=======
+# Graphina discoides (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

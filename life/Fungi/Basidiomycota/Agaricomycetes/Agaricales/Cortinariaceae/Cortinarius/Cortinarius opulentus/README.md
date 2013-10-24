@@ -1,5 +1,4 @@
-Cortinarius opulentus M.M. Moser SPECIES
-=======
+# Cortinarius opulentus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

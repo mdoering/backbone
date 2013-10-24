@@ -1,17 +1,16 @@
-Puccinia helicotrichi Jørst. SPECIES
-=======
+# Puccinia helictotrichi Jørst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 4(5): 349 (1959)
 
 #### Original name
-Puccinia helicotrichi Jørst.
+Puccinia helictotrichi Jørst.
 
 ### Remarks
 null

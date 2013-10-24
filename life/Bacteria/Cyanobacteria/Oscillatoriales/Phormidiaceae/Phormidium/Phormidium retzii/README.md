@@ -1,5 +1,4 @@
-Phormidium retzii (C. Agardh) Gomont SPECIES
-=======
+# Phormidium retzii (C. Agardh) Gomont SPECIES
 
 #### Status
 ACCEPTED

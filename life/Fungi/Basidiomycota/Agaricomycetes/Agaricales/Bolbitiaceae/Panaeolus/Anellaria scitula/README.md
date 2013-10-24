@@ -1,5 +1,4 @@
-Anellaria scitula (Massee) Sacc. SPECIES
-=======
+# Anellaria scitula (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

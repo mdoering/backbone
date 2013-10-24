@@ -1,5 +1,4 @@
-Scindalma hylochare (Speg.) Kuntze SPECIES
-=======
+# Scindalma hylochare (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

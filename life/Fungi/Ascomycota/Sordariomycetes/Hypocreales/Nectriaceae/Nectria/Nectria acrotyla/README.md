@@ -1,5 +1,4 @@
-Nectria acrotyla Brayford & Samuels, 1993 SPECIES
-=======
+# Nectria acrotyla Brayford & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

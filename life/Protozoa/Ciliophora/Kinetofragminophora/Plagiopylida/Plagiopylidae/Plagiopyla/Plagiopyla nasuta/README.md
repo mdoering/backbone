@@ -1,5 +1,4 @@
-Plagiopyla nasuta subsp. wetzeli Kahl, 1935 SUBSPECIES
-=======
+# Plagiopyla nasuta Stein, 1860 SPECIES
 
 #### Status
 ACCEPTED

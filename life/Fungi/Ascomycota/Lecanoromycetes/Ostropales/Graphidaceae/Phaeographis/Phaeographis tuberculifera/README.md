@@ -1,5 +1,4 @@
-Phaeographis tuberculifera A. W. Archer SPECIES
-=======
+# Phaeographis tuberculifera A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

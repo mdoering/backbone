@@ -1,17 +1,16 @@
-Verrucaria santessonii Erichsen SPECIES
-=======
+# Verrucaria ditmarsica Erichsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39: 138 (1941)
+Schr. naturw. Ver. Schles. -Holst. 22: 90 (1937)
 
 #### Original name
-Verrucaria santessonii Erichsen
+Verrucaria ditmarsica Erichsen
 
 ### Remarks
 null

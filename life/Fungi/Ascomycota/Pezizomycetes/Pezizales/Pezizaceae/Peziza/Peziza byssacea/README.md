@@ -1,5 +1,4 @@
-Peziza byssacea P. Karst. SPECIES
-=======
+# Peziza byssacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

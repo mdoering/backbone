@@ -1,5 +1,4 @@
-Puccinia mania G. Cunn., 1930 SPECIES
-=======
+# Puccinia mania G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

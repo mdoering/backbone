@@ -1,5 +1,4 @@
-Lecidea cechumena var. cechumena Ach. VARIETY
-=======
+# Lecidea cechumena Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea cechumena var. cechumena Ach.
+Lecidea cechumena Taylor
 
 ### Remarks
 null

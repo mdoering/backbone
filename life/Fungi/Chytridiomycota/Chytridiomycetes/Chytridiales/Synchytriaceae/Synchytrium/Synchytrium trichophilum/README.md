@@ -1,5 +1,4 @@
-Synchytrium trichophilum Correns & Tobler SPECIES
-=======
+# Synchytrium trichophilum Correns & Tobler SPECIES
 
 #### Status
 ACCEPTED

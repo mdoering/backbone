@@ -1,5 +1,4 @@
-Phyllosticta caprifolii (Opiz) Sacc. SPECIES
-=======
+# Phyllosticta caprifolii (Opiz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

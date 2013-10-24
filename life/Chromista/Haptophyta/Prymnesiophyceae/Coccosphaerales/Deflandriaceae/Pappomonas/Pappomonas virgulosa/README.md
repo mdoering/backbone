@@ -1,5 +1,4 @@
-Pappomonas virgulosa Manton & Sutherland, 1975 SPECIES
-=======
+# Pappomonas virgulosa Manton & Sutherland, 1975 SPECIES
 
 #### Status
 ACCEPTED

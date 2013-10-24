@@ -1,5 +1,4 @@
-Lichen muscigenus SPECIES
-=======
+# Lichen muscigenus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microtheliopsidomyces Cif. & Tomas. GENUS
-=======
+# Microtheliopsis Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 61 (1953)
+Flora, Jena 73: 195 (1890)
 
 #### Original name
-Microtheliopsidomyces Cif. & Tomas.
+Microtheliopsis Müll. Arg.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Passalora fuligniosa (Ellis & Kellerm.) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora fuliginosa (Ellis & Kellerm.) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+CBS Diversity Ser. (Utrecht) 64: 412 (1997)
 
 #### Original name
 Cercospora fuliginosa Ellis & Kellerm.

@@ -1,5 +1,4 @@
-Cercosporella palustris R. Sprague SPECIES
-=======
+# Cercosporella palustris R. Sprague SPECIES
 
 #### Status
 ACCEPTED

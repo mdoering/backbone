@@ -1,5 +1,4 @@
-Sphaeropyle mespilus Dreyer, 1889 SPECIES
-=======
+# Sphaeropyle mespilus Dreyer, 1889 SPECIES
 
 #### Status
 ACCEPTED

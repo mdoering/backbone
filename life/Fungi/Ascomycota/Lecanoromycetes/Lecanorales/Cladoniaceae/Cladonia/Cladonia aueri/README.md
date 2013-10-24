@@ -1,5 +1,4 @@
-Cladonia aueri f. aueri FORM
-=======
+# Cladonia aueri Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 53 (1932)
 
 #### Original name
-Cladonia aueri f. aueri
+Cladonia aueri Räsänen
 
 ### Remarks
 null

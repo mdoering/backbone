@@ -1,5 +1,4 @@
-Pollaccia peucedani (Ellis & Holw.) Deighton SPECIES
-=======
+# Pollaccia peucedani (Ellis & Holw.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia fuscata Largent SPECIES
-=======
+# Leptonia fuscata Largent SPECIES
 
 #### Status
 ACCEPTED

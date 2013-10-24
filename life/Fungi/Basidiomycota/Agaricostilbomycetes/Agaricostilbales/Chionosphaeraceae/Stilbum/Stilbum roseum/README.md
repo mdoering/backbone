@@ -1,5 +1,4 @@
-Stilbum roseum Schwein. SPECIES
-=======
+# Stilbum roseum Schwein. SPECIES
 
 #### Status
 ACCEPTED

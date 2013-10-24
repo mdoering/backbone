@@ -1,5 +1,4 @@
-Balantidium gyranus Kellicott, 1888 SPECIES
-=======
+# Balantidium gyranus Kellicott, 1888 SPECIES
 
 #### Status
 ACCEPTED

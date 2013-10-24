@@ -1,5 +1,4 @@
-Hypomyces tubericola (Schwein.) Sacc. SPECIES
-=======
+# Hypomyces tubericola (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

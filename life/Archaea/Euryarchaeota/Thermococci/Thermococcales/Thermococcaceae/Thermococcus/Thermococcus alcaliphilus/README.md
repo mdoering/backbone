@@ -1,5 +1,4 @@
-Thermococcus alcaliphilus Keller et al., 1997 SPECIES
-=======
+# Thermococcus alcaliphilus Keller et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

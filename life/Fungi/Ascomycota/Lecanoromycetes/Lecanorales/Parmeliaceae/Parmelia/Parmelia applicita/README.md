@@ -1,5 +1,4 @@
-Parmelia applicita Hale SPECIES
-=======
+# Parmelia applicita Hale SPECIES
 
 #### Status
 ACCEPTED

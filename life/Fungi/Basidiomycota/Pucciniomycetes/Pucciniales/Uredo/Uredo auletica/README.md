@@ -1,5 +1,4 @@
-Uredo auletica Speg. SPECIES
-=======
+# Uredo auletica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps sichuanensis Z.Q. Liang & Bo Wang SPECIES
-=======
+# Cordyceps sichuanensis Z.Q. Liang & Bo Wang SPECIES
 
 #### Status
 ACCEPTED

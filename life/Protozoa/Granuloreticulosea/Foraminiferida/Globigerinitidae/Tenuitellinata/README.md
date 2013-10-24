@@ -1,5 +1,4 @@
-Tenuitellinata Li Qianyu, 1987 GENUS
-=======
+# Tenuitellinata Li Qianyu, 1987 GENUS
 
 #### Status
 ACCEPTED

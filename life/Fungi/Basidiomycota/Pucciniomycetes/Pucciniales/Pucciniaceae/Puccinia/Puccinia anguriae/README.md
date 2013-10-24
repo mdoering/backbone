@@ -1,5 +1,4 @@
-Puccinia anguriae Arthur & Cummins SPECIES
-=======
+# Puccinia anguriae Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

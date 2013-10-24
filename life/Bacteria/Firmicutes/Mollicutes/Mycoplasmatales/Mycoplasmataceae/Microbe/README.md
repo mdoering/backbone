@@ -1,5 +1,4 @@
-Microbe GENUS
-=======
+# Microbe GENUS
 
 #### Status
 ACCEPTED

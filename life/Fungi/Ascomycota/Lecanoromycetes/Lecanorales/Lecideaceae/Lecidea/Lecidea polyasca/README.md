@@ -1,5 +1,4 @@
-Lecidea polyasca SPECIES
-=======
+# Lecidea polyasca SPECIES
 
 #### Status
 ACCEPTED

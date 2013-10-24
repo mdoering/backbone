@@ -1,17 +1,16 @@
-Agaricus picreus var. picreus Pers. VARIETY
-=======
+# Gymnopilus picreus (Pers.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 32: 400 (1879)
 
 #### Original name
-Agaricus picreus var. picreus Pers.
+Agaricus picreus Pers., 1798
 
 ### Remarks
 null

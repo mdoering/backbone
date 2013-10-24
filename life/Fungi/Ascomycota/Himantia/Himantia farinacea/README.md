@@ -1,5 +1,4 @@
-Himantia farinacea Pers. SPECIES
-=======
+# Himantia farinacea Pers. SPECIES
 
 #### Status
 ACCEPTED

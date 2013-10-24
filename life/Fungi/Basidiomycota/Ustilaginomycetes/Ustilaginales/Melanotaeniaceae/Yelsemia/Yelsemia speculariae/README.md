@@ -1,14 +1,13 @@
-Ustilago speculariae J.A. Stev., 1946 SPECIES
-=======
+# Yelsemia speculariae (J.A. Stev.) Vánky & R. Bauer, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 38(5): 525 (1946)
+Mycotaxon 81: 428 (2002)
 
 #### Original name
 Ustilago speculariae J.A. Stev., 1946

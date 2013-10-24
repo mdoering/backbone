@@ -1,5 +1,4 @@
-Oidium cerasi Jacz. SPECIES
-=======
+# Oidium cerasi Jacz. SPECIES
 
 #### Status
 ACCEPTED

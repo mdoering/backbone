@@ -1,5 +1,4 @@
-Saccardomyces mirabilis Petr. & Cif. SPECIES
-=======
+# Saccardomyces mirabilis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

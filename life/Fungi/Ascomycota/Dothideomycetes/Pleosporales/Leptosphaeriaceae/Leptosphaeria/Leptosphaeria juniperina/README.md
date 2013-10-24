@@ -1,5 +1,4 @@
-Leptosphaeria juniperina Hazsl. SPECIES
-=======
+# Leptosphaeria juniperina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

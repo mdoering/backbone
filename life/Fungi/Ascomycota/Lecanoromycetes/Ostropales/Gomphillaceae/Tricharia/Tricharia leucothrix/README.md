@@ -1,5 +1,4 @@
-Tricharia leucothrix Fée SPECIES
-=======
+# Tricharia leucothrix Fée SPECIES
 
 #### Status
 ACCEPTED

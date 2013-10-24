@@ -1,5 +1,4 @@
-Daedalea latemarginata Rick SPECIES
-=======
+# Daedalea latemarginata Rick SPECIES
 
 #### Status
 ACCEPTED

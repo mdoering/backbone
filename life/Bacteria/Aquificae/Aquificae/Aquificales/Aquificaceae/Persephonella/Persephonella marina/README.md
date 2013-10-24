@@ -1,5 +1,4 @@
-Persephonella marina Götz et al., 2002 SPECIES
-=======
+# Persephonella marina Götz et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

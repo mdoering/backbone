@@ -1,5 +1,4 @@
-Sphaeronaema fraxini Peck SPECIES
-=======
+# Sphaeronaema fraxini Peck SPECIES
 
 #### Status
 ACCEPTED

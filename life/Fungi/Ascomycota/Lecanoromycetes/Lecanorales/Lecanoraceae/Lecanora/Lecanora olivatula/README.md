@@ -1,5 +1,4 @@
-Lecanora olivatula Motyka SPECIES
-=======
+# Lecanora olivatula Motyka SPECIES
 
 #### Status
 ACCEPTED

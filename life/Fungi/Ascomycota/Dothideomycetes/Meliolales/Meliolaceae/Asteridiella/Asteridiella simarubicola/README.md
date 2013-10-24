@@ -1,5 +1,4 @@
-Asteridiella simarubicola Hansf. SPECIES
-=======
+# Asteridiella simarubicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

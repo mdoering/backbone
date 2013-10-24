@@ -1,8 +1,7 @@
-Phytophthora spinosa var. spinosa Fell & Master, 1975 VARIETY
-=======
+# Halophytophthora spinosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

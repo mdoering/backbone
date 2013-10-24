@@ -1,5 +1,4 @@
-Cosmospora stegonsporii Rossman, Farr & Akulov SPECIES
-=======
+# Cosmospora stegonsporii Rossman, Farr & Akulov SPECIES
 
 #### Status
 ACCEPTED

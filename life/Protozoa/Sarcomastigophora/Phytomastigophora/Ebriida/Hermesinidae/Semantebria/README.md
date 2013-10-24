@@ -1,5 +1,4 @@
-Semantebria Frenguelli, 1940 GENUS
-=======
+# Semantebria Frenguelli, 1940 GENUS
 
 #### Status
 ACCEPTED

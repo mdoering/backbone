@@ -1,17 +1,16 @@
-Neottiosporis Clem. & Shear GENUS
-=======
+# Neottiosporella Höhn. ex Falck GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 400 (1931)
+Mykol. Untersuch. Ber. 1: 345 (1923)
 
 #### Original name
-Neottiosporis Clem. & Shear
+Neottiosporella Höhn. ex Falck
 
 ### Remarks
 null

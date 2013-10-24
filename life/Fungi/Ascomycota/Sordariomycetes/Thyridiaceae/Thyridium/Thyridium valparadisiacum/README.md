@@ -1,5 +1,4 @@
-Thyridium valparadisiacum Speg. SPECIES
-=======
+# Thyridium valparadisiacum Speg. SPECIES
 
 #### Status
 ACCEPTED

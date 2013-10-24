@@ -1,5 +1,4 @@
-Blastenia GENUS
-=======
+# Blastenia GENUS
 
 #### Status
 ACCEPTED

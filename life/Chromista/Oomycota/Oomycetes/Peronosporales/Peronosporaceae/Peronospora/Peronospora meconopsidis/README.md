@@ -1,5 +1,4 @@
-Peronospora meconopsidis Mayor SPECIES
-=======
+# Peronospora meconopsidis Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tromera perfidiosa (Nyl.) Räsänen SPECIES
-=======
+# Tromera perfidiosa (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

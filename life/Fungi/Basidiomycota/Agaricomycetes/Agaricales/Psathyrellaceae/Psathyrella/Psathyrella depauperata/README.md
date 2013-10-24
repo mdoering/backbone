@@ -1,5 +1,4 @@
-Psathyrella depauperata A.H. Sm. SPECIES
-=======
+# Psathyrella depauperata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

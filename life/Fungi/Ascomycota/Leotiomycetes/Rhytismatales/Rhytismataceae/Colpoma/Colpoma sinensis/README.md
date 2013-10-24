@@ -1,5 +1,4 @@
-Colpoma sinensis C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Colpoma sinensis C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

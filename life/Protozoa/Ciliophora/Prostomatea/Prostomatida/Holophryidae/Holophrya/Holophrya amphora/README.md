@@ -1,5 +1,4 @@
-Holophrya amphora Kahl, 1926 SPECIES
-=======
+# Holophrya amphora Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

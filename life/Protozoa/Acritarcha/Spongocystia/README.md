@@ -1,5 +1,4 @@
-Spongocystia K.L. Segroves, 1967 GENUS
-=======
+# Spongocystia K.L. Segroves, 1967 GENUS
 
 #### Status
 ACCEPTED

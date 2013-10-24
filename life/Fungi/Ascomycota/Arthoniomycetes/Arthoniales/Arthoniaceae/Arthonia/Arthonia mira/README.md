@@ -1,5 +1,4 @@
-Arthonia mira R. Sant. SPECIES
-=======
+# Arthonia mira R. Sant. SPECIES
 
 #### Status
 ACCEPTED

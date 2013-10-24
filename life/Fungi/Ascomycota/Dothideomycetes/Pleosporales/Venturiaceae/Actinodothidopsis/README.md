@@ -1,5 +1,4 @@
-Actinodothidopsis GENUS
-=======
+# Actinodothidopsis GENUS
 
 #### Status
 ACCEPTED

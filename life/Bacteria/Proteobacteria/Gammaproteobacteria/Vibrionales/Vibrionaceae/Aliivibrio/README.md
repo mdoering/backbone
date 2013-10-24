@@ -1,5 +1,4 @@
-Aliivibrio Urbanczyk, Ast, Higgins, Carson & Dunlap, 2007 GENUS
-=======
+# Aliivibrio Urbanczyk, Ast, Higgins, Carson & Dunlap, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria ybbsitzensis Strasser SPECIES
-=======
+# Trematosphaeria ybbsitzensis Strasser SPECIES
 
 #### Status
 ACCEPTED

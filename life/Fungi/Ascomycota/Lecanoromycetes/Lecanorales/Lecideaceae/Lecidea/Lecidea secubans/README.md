@@ -1,5 +1,4 @@
-Lecidea secubans Stirt. SPECIES
-=======
+# Lecidea secubans Stirt. SPECIES
 
 #### Status
 ACCEPTED

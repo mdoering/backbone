@@ -1,5 +1,4 @@
-Sphaeria crassicollis De Not. SPECIES
-=======
+# Sphaeria crassicollis De Not. SPECIES
 
 #### Status
 ACCEPTED

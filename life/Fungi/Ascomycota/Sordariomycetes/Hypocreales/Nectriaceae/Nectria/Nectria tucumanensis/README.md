@@ -1,5 +1,4 @@
-Nectria tucumanensis Speg. SPECIES
-=======
+# Nectria tucumanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

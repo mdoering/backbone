@@ -1,5 +1,4 @@
-Seimatosporiella salvadorae Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Seimatosporiella salvadorae Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

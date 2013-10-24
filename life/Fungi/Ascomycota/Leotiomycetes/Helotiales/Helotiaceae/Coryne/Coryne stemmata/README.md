@@ -1,5 +1,4 @@
-Coryne stemmata P. Karst. SPECIES
-=======
+# Coryne stemmata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

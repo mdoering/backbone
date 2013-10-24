@@ -1,17 +1,16 @@
-Lepiota ignicolor f. ignicolor FORM
-=======
+# Lepiota castanea Quél., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 2(8-10): 3 (1892)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 9: 661 (1881)
 
 #### Original name
-Lepiota ignicolor f. ignicolor
+Lepiota castanea Quél., 1881
 
 ### Remarks
 null

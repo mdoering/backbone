@@ -1,5 +1,4 @@
-Entomophthora exitialis I.M. Hall & P.H. Dunn, 1957 SPECIES
-=======
+# Entomophthora exitialis I.M. Hall & P.H. Dunn, 1957 SPECIES
 
 #### Status
 ACCEPTED

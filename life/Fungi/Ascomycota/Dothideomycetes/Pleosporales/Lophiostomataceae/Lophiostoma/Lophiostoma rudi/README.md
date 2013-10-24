@@ -1,5 +1,4 @@
-Lophiostoma rudi Ellis & Everh. SPECIES
-=======
+# Lophiostoma rudi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucodictyidae FAMILY
-=======
+# Leucodictyidae FAMILY
 
 #### Status
 ACCEPTED

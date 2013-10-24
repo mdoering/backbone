@@ -1,14 +1,13 @@
-Neofuscelia perrugata (Nyl.) Elix SPECIES
-=======
+# Xanthoparmelia perrugata (Nyl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australasian Lichenology 51: 8 (2002)
+Taxon 53(4): 969 (2004)
 
 #### Original name
 Parmelia perrugata Nyl.

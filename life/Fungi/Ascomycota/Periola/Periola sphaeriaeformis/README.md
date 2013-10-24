@@ -1,5 +1,4 @@
-Periola sphaeriaeformis Mont. SPECIES
-=======
+# Periola sphaeriaeformis Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium leproplocinum Werner & Cain SPECIES
-=======
+# Chaetomium leproplocinum Werner & Cain SPECIES
 
 #### Status
 ACCEPTED

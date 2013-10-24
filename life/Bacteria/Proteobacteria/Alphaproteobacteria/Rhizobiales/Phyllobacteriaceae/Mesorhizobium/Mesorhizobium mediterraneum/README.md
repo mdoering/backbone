@@ -1,8 +1,7 @@
-Rhizobium mediterraneum Nour et al., 1995 SPECIES
-=======
+# Mesorhizobium mediterraneum (Nour et al., 1995) Jarvis et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

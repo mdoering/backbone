@@ -1,17 +1,16 @@
-Urnularia boreella P. Karst. SPECIES
-=======
+# Urnularia borealis P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Enum. Fungorum et Myxomycetum in Lappio orientali (1866)
 
 #### Original name
-Urnularia boreella P. Karst.
+Urnularia borealis P. Karst.
 
 ### Remarks
 null

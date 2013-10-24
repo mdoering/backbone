@@ -1,5 +1,4 @@
-Secoliga abscondita J. Lahm ex Arnold SPECIES
-=======
+# Secoliga abscondita J. Lahm ex Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora benacensis (A. Massal.) Jatta SPECIES
-=======
+# Lecanora benacensis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

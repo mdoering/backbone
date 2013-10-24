@@ -1,5 +1,4 @@
-Trichasterina goniothalamicola B. Song SPECIES
-=======
+# Trichasterina goniothalamicola B. Song SPECIES
 
 #### Status
 ACCEPTED

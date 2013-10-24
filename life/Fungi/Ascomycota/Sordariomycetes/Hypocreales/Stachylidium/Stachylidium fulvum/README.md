@@ -1,5 +1,4 @@
-Stachylidium fulvum Schwein. SPECIES
-=======
+# Stachylidium fulvum Schwein. SPECIES
 
 #### Status
 ACCEPTED

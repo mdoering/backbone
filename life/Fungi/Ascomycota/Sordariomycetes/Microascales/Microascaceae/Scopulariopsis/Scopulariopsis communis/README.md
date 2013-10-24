@@ -1,5 +1,4 @@
-Scopulariopsis communis Bainier SPECIES
-=======
+# Scopulariopsis communis Bainier SPECIES
 
 #### Status
 ACCEPTED

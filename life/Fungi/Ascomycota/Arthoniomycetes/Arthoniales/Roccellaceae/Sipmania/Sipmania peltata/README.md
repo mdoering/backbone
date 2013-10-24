@@ -1,5 +1,4 @@
-Sipmania peltata Egea & Torrente SPECIES
-=======
+# Sipmania peltata Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

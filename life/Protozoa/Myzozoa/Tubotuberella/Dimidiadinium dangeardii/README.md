@@ -1,5 +1,4 @@
-Dimidiadinium dangeardii (Sarjeant, 1968) Brideaux, 1977 SPECIES
-=======
+# Dimidiadinium dangeardii (Sarjeant, 1968) Brideaux, 1977 SPECIES
 
 #### Status
 DOUBTFUL

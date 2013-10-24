@@ -1,5 +1,4 @@
-Elsinoë tylophorae Hansf. SPECIES
-=======
+# Elsinoë tylophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

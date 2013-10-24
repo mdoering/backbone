@@ -1,5 +1,4 @@
-Uredo lipocarphae Syd. & P. Syd. SPECIES
-=======
+# Uredo lipocarphae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glandulina suezensis McCulloch, 1977 SPECIES
-=======
+# Glandulina suezensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylosporium occultum var. occultum VARIETY
-=======
+# Dactylosporium occultum (Ces.) Cif. & Vegni SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Riv. Patol. veg. , Pavia, sér. 3 3: 207 (1963)
 
 #### Original name
-Dactylosporium occultum var. occultum
+Cladosporium occultum Ces.
 
 ### Remarks
 null

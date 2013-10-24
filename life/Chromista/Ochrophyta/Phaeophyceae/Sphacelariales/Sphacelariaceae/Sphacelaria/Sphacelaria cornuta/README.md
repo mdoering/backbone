@@ -1,5 +1,4 @@
-Sphacelaria cornuta Sauvageau SPECIES
-=======
+# Sphacelaria cornuta Sauvageau SPECIES
 
 #### Status
 ACCEPTED

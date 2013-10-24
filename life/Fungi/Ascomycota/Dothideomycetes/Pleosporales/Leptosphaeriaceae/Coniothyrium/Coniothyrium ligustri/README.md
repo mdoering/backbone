@@ -1,5 +1,4 @@
-Coniothyrium ligustri Brunaud SPECIES
-=======
+# Coniothyrium ligustri Brunaud SPECIES
 
 #### Status
 ACCEPTED

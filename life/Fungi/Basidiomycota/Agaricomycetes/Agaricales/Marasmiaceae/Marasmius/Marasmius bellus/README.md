@@ -1,14 +1,13 @@
-Chamaeceras bellus (Berk.) Kuntze, 1898 SPECIES
-=======
+# Marasmius bellus Berk., 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 455 (1898)
+Hooker's J. Bot. Kew Gard. Misc. 8: 139 (1856)
 
 #### Original name
 Marasmius bellus Berk., 1856

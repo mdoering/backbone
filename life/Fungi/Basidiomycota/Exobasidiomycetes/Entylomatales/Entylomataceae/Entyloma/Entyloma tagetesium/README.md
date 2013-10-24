@@ -1,5 +1,4 @@
-Entyloma tagetesium Zundel SPECIES
-=======
+# Entyloma tagetesium Zundel SPECIES
 
 #### Status
 ACCEPTED

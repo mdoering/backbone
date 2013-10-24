@@ -1,5 +1,4 @@
-Lachnum gracillimum Raitv. SPECIES
-=======
+# Lachnum gracillimum Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma staphyleae Gucevic SPECIES
-=======
+# Dendrophoma staphyleae Gucevic SPECIES
 
 #### Status
 ACCEPTED

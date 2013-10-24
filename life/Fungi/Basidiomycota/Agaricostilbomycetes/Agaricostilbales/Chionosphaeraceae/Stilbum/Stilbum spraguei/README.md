@@ -1,5 +1,4 @@
-Stilbum spraguei Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

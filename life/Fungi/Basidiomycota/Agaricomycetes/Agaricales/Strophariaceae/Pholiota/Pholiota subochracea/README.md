@@ -1,17 +1,16 @@
-Flammula inopus (Fr.) Quél. SPECIES
-=======
+# Pholiota subochracea (A.H. Sm.) A.H. Sm. & Hesler, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 821 (1887)
+The North American species of Pholiota 153 (1968)
 
 #### Original name
-Agaricus inopus Fr.
+Hypholoma subochracea A.H. Sm., 1944
 
 ### Remarks
 null

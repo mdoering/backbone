@@ -1,5 +1,4 @@
-Coniothyrium moricola S. Ahmad SPECIES
-=======
+# Coniothyrium moricola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

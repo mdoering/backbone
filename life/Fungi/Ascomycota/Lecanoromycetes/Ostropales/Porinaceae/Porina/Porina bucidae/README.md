@@ -1,5 +1,4 @@
-Porina bucidae Vain. SPECIES
-=======
+# Porina bucidae Vain. SPECIES
 
 #### Status
 ACCEPTED

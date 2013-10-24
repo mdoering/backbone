@@ -1,5 +1,4 @@
-Leptonia multicolor (Murrill) Murrill SPECIES
-=======
+# Leptonia multicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

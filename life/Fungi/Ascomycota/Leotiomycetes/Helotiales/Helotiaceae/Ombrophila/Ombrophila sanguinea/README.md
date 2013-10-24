@@ -1,5 +1,4 @@
-Ombrophila sanguinea Rehm SPECIES
-=======
+# Ombrophila sanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

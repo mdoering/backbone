@@ -1,5 +1,4 @@
-Boletus frustosus Snell & E.A. Dick SPECIES
-=======
+# Boletus frustosus Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

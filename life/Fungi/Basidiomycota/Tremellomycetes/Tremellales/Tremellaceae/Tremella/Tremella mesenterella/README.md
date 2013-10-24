@@ -1,5 +1,4 @@
-Tremella mesenterella Bandoni & Ginns SPECIES
-=======
+# Tremella mesenterella Bandoni & Ginns SPECIES
 
 #### Status
 ACCEPTED

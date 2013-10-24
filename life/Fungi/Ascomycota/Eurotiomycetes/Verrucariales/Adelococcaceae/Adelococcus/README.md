@@ -1,5 +1,4 @@
-Adelococcus Theiss. & Syd. GENUS
-=======
+# Adelococcus Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ornithocercus australis Wood, 1963 SPECIES
-=======
+# Ornithocercus australis Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

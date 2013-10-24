@@ -1,5 +1,4 @@
-Endothia viridistroma Wehm. SPECIES
-=======
+# Endothia viridistroma Wehm. SPECIES
 
 #### Status
 ACCEPTED

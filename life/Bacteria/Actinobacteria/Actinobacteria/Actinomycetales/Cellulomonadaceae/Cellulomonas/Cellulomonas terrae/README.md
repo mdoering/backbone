@@ -1,5 +1,4 @@
-Cellulomonas terrae An et al., 2005 SPECIES
-=======
+# Cellulomonas terrae An et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

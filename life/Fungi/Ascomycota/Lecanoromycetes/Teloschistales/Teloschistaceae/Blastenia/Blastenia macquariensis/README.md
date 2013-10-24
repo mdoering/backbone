@@ -1,5 +1,4 @@
-Blastenia macquariensis C.W. Dodge SPECIES
-=======
+# Blastenia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

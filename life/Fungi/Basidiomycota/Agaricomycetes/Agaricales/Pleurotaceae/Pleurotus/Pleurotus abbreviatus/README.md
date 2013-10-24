@@ -1,5 +1,4 @@
-Pleurotus abbreviatus (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus abbreviatus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

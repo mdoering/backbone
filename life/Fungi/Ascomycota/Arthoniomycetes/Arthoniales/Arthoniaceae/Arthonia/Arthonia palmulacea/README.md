@@ -1,14 +1,13 @@
-Eremothecella palmulacea (Müll. Arg.) Sérus. SPECIES
-=======
+# Arthonia palmulacea (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Ascom. 11(1): 43 (1992)
+Symb. bot. upsal. 12(no. 1): 87 (1952)
 
 #### Original name
 Arthoniopsis palmulacea Müll. Arg.

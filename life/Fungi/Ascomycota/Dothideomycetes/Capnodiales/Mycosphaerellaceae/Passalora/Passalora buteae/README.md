@@ -1,5 +1,4 @@
-Passalora buteae (Kamal, B.K. Gupta & C. Gupta) U. Braun & Crous SPECIES
-=======
+# Passalora buteae (Kamal, B.K. Gupta & C. Gupta) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

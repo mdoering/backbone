@@ -1,5 +1,4 @@
-Alectinella Revets, 1996 GENUS
-=======
+# Alectinella Revets, 1996 GENUS
 
 #### Status
 ACCEPTED

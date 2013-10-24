@@ -1,5 +1,4 @@
-Puccinia aphanicondra Lindr. SPECIES
-=======
+# Puccinia aphanicondra Lindr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma paradoxa Kabát & Bubák SPECIES
-=======
+# Phoma paradoxa Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

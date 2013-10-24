@@ -1,5 +1,4 @@
-Dothidella stuebelii Henn. SPECIES
-=======
+# Dothidella stuebelii Henn. SPECIES
 
 #### Status
 ACCEPTED

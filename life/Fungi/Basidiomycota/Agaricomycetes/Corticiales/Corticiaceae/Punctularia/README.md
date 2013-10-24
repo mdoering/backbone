@@ -1,17 +1,16 @@
-Auricula Lloyd, 1922 GENUS
-=======
+# Punctularia Patouillard, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1152 (1922)
+in Patouillard & Lagerheim, Bull. Herb. Boissier 3: 57 (1895)
 
 #### Original name
-Auricula Lloyd, 1922
+Punctularia Patouillard, 1895
 
 ### Remarks
 null

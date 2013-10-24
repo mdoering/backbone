@@ -1,5 +1,4 @@
-Patellaria globulosa (Flörke) Müll. Arg. SPECIES
-=======
+# Patellaria globulosa (Flörke) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

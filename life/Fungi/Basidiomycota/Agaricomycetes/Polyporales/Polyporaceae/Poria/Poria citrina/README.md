@@ -1,5 +1,4 @@
-Poria citrina Rick SPECIES
-=======
+# Poria citrina Rick SPECIES
 
 #### Status
 ACCEPTED

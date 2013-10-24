@@ -1,5 +1,4 @@
-Phomatospora errabunda Petr. & Cif. SPECIES
-=======
+# Phomatospora errabunda Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotheciopsis decipiens var. decipiens VARIETY
-=======
+# Psorotheciopsis decipiens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 39: 217 (1900)
 
 #### Original name
-Psorotheciopsis decipiens var. decipiens
+Psorotheciopsis decipiens Rehm
 
 ### Remarks
 null

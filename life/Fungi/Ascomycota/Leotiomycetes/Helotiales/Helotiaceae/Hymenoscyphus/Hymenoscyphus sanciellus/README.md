@@ -1,5 +1,4 @@
-Hymenoscyphus sanciellus (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus sanciellus (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

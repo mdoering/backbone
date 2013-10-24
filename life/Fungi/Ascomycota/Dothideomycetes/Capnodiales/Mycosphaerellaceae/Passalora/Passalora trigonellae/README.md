@@ -1,5 +1,4 @@
-Passalora trigonellae (S.K. Singh, Arch. Singh & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora trigonellae (S.K. Singh, Arch. Singh & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

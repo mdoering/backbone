@@ -1,5 +1,4 @@
-Allothyrium marcgraviae Syd., 1939 SPECIES
-=======
+# Allothyrium marcgraviae Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

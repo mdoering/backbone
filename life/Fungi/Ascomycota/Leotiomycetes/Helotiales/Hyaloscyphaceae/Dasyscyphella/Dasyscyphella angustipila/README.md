@@ -1,5 +1,4 @@
-Dasyscyphella angustipila Raitv. SPECIES
-=======
+# Dasyscyphella angustipila Raitv. SPECIES
 
 #### Status
 ACCEPTED

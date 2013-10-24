@@ -1,5 +1,4 @@
-Trematosphaeria seminuda De Not. SPECIES
-=======
+# Trematosphaeria seminuda De Not. SPECIES
 
 #### Status
 ACCEPTED

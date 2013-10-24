@@ -1,5 +1,4 @@
-Preussia punctata (Auersw.) Cain SPECIES
-=======
+# Preussia punctata (Auersw.) Cain SPECIES
 
 #### Status
 ACCEPTED

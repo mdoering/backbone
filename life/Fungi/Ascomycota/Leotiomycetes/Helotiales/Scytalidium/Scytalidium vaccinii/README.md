@@ -1,5 +1,4 @@
-Scytalidium vaccinii Dalpé, Litten & Sigler, 1989 SPECIES
-=======
+# Scytalidium vaccinii Dalpé, Litten & Sigler, 1989 SPECIES
 
 #### Status
 ACCEPTED

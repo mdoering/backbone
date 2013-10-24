@@ -1,5 +1,4 @@
-Phlyctema johnstonii Berk. & Broome, 1852 SPECIES
-=======
+# Phlyctema johnstonii Berk. & Broome, 1852 SPECIES
 
 #### Status
 ACCEPTED

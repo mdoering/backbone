@@ -1,5 +1,4 @@
-Leptosphaeria ramalinae (Desm.) Sacc. SPECIES
-=======
+# Leptosphaeria ramalinae (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

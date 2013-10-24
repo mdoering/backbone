@@ -1,5 +1,4 @@
-Chaetosphaeria iquitosensis (Theiss.) Theiss. SPECIES
-=======
+# Chaetosphaeria iquitosensis (Theiss.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

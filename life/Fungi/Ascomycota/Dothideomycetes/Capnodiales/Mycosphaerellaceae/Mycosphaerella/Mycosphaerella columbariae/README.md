@@ -1,5 +1,4 @@
-Mycosphaerella columbariae Feltgen SPECIES
-=======
+# Mycosphaerella columbariae Feltgen SPECIES
 
 #### Status
 ACCEPTED

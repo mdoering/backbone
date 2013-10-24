@@ -1,5 +1,4 @@
-Stagonospora danthoniae-frigidae Petr. SPECIES
-=======
+# Stagonospora danthoniae-frigidae Petr. SPECIES
 
 #### Status
 ACCEPTED

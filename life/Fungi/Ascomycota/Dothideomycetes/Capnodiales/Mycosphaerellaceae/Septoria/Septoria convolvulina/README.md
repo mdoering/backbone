@@ -1,5 +1,4 @@
-Septoria convolvulina Speg. SPECIES
-=======
+# Septoria convolvulina Speg. SPECIES
 
 #### Status
 ACCEPTED

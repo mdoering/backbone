@@ -1,5 +1,4 @@
-Vorticella chlorelligera subsp. chlorelligera SUBSPECIES
-=======
+# Vorticella chlorelligera SPECIES
 
 #### Status
 ACCEPTED

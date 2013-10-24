@@ -1,5 +1,4 @@
-Rhinothrix antennata Kahl, 1926 SPECIES
-=======
+# Rhinothrix antennata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

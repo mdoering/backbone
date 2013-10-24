@@ -1,5 +1,4 @@
-Sphaeria celtidis Har. & Briard SPECIES
-=======
+# Sphaeria celtidis Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

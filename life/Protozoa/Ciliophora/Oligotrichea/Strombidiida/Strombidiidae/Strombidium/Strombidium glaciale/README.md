@@ -1,5 +1,4 @@
-Strombidium glaciale Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Strombidium glaciale Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

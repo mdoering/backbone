@@ -1,5 +1,4 @@
-Boletus guadalupensis Pat. SPECIES
-=======
+# Boletus guadalupensis Pat. SPECIES
 
 #### Status
 ACCEPTED

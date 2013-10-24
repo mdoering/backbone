@@ -1,5 +1,4 @@
-Endosporostilbe corticola M. Morelet SPECIES
-=======
+# Endosporostilbe corticola M. Morelet SPECIES
 
 #### Status
 ACCEPTED

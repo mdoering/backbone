@@ -1,5 +1,4 @@
-Lepiota xanthophylloides Singer SPECIES
-=======
+# Lepiota xanthophylloides Singer SPECIES
 
 #### Status
 ACCEPTED

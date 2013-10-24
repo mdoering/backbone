@@ -1,5 +1,4 @@
-Atkinsonella Diehl, 1950 GENUS
-=======
+# Atkinsonella Diehl, 1950 GENUS
 
 #### Status
 ACCEPTED

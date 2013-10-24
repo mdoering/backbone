@@ -1,5 +1,4 @@
-Dasyscyphus rhododendri (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus rhododendri (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

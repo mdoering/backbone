@@ -1,5 +1,4 @@
-Cortinarius suppariger M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius suppariger M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

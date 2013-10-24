@@ -1,5 +1,4 @@
-Macrophoma crataegi Politis SPECIES
-=======
+# Macrophoma crataegi Politis SPECIES
 
 #### Status
 ACCEPTED

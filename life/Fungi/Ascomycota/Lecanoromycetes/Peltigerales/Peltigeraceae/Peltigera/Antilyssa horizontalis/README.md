@@ -1,5 +1,4 @@
-Antilyssa horizontalis SPECIES
-=======
+# Antilyssa horizontalis SPECIES
 
 #### Status
 ACCEPTED

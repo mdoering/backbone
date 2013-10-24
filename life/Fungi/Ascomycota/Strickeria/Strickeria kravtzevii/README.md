@@ -1,5 +1,4 @@
-Strickeria kravtzevii Schwarzman SPECIES
-=======
+# Strickeria kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

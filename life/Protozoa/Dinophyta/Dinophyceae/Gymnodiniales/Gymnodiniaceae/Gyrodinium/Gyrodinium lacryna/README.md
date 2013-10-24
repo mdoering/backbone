@@ -1,5 +1,4 @@
-Gyrodinium lacryna SPECIES
-=======
+# Gyrodinium lacryna SPECIES
 
 #### Status
 ACCEPTED

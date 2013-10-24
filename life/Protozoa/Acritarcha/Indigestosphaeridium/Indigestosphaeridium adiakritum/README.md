@@ -1,5 +1,4 @@
-Indigestosphaeridium adiakritum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Indigestosphaeridium adiakritum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

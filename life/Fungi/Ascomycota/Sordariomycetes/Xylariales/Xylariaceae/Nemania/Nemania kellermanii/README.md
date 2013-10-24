@@ -1,17 +1,16 @@
-Hypoxylon kellermani Rehm SPECIES
-=======
+# Nemania kellermanii (Rehm) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 74(1-2): 98 (2002)
 
 #### Original name
-Hypoxylon kellermani Rehm
+Hypoxylon kellermanii Rehm, 1908
 
 ### Remarks
 null

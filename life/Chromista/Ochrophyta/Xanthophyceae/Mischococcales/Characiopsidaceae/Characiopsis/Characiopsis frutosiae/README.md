@@ -1,5 +1,4 @@
-Characiopsis frutosiae H. N. Pizarro SPECIES
-=======
+# Characiopsis frutosiae H. N. Pizarro SPECIES
 
 #### Status
 ACCEPTED

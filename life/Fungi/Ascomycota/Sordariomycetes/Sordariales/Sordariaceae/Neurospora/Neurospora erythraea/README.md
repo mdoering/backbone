@@ -1,5 +1,4 @@
-Neurospora erythraea (Möller) Shear & B.O. Dodge SPECIES
-=======
+# Neurospora erythraea (Möller) Shear & B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

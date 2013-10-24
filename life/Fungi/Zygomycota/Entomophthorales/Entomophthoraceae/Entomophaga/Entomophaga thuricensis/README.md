@@ -1,5 +1,4 @@
-Entomophaga thuricensis S. Keller SPECIES
-=======
+# Entomophaga thuricensis S. Keller SPECIES
 
 #### Status
 ACCEPTED

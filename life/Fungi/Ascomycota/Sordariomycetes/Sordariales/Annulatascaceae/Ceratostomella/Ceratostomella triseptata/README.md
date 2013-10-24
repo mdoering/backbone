@@ -1,5 +1,4 @@
-Ceratostomella triseptata Petr. SPECIES
-=======
+# Ceratostomella triseptata Petr. SPECIES
 
 #### Status
 ACCEPTED

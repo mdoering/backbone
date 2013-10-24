@@ -1,5 +1,4 @@
-Stigmella montellica Sacc. SPECIES
-=======
+# Stigmella montellica Sacc. SPECIES
 
 #### Status
 ACCEPTED

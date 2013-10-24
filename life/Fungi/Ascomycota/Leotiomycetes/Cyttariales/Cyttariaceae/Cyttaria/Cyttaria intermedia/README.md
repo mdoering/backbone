@@ -1,5 +1,4 @@
-Cyttaria intermedia Palm SPECIES
-=======
+# Cyttaria intermedia Palm SPECIES
 
 #### Status
 ACCEPTED

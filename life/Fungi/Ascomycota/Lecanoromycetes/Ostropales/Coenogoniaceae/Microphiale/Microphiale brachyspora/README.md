@@ -1,5 +1,4 @@
-Microphiale brachyspora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Microphiale brachyspora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entolomina paludosa G. Arnaud, 1951 SPECIES
-=======
+# Entolomina paludosa G. Arnaud, 1951 SPECIES
 
 #### Status
 ACCEPTED

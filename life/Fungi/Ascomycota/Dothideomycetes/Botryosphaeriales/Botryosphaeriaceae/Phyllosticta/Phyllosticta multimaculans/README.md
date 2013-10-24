@@ -1,5 +1,4 @@
-Phyllosticta multimaculans Kobay. {?} SPECIES
-=======
+# Phyllosticta multimaculans Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

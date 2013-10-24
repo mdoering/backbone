@@ -1,5 +1,4 @@
-Agarbacterium GENUS
-=======
+# Agarbacterium GENUS
 
 #### Status
 ACCEPTED

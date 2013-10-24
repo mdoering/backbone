@@ -1,5 +1,4 @@
-Septoria kellermaniana Thüm. SPECIES
-=======
+# Septoria kellermaniana Thüm. SPECIES
 
 #### Status
 ACCEPTED

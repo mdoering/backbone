@@ -1,5 +1,4 @@
-Klebsiella singaporensis Li et al., 2004 SPECIES
-=======
+# Klebsiella singaporensis Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

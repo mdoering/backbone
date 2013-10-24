@@ -1,5 +1,4 @@
-Macrophoma mimuli Wehm. SPECIES
-=======
+# Macrophoma mimuli Wehm. SPECIES
 
 #### Status
 ACCEPTED

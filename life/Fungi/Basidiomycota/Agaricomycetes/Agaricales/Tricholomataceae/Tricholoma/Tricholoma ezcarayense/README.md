@@ -1,5 +1,4 @@
-Tricholoma ezcarayense C.E. Hermos. & Jul. Sánchez SPECIES
-=======
+# Tricholoma ezcarayense C.E. Hermos. & Jul. Sánchez SPECIES
 
 #### Status
 ACCEPTED

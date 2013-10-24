@@ -1,5 +1,4 @@
-Sethophormididae Haeckel, 1881 FAMILY
-=======
+# Sethophormididae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

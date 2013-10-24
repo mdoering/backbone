@@ -1,5 +1,4 @@
-Sawadaea kovaliana V.P. Heluta SPECIES
-=======
+# Sawadaea kovaliana V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitetras dutertrei (Pantocsek & Tempère) De Toni SPECIES
-=======
+# Amphitetras dutertrei (Pantocsek & Tempère) De Toni SPECIES
 
 #### Status
 ACCEPTED

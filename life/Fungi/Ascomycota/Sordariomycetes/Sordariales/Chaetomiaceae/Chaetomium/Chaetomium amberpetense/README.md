@@ -1,5 +1,4 @@
-Chaetomium amberpetense P.Rama Rao & Ram Reddy SPECIES
-=======
+# Chaetomium amberpetense P.Rama Rao & Ram Reddy SPECIES
 
 #### Status
 ACCEPTED

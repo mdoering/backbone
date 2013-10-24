@@ -1,5 +1,4 @@
-Dothioropsis corni Riedl, 1974 SPECIES
-=======
+# Dothioropsis corni Riedl, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma estonicum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma estonicum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

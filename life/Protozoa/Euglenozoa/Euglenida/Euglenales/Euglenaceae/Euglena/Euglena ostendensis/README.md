@@ -1,5 +1,4 @@
-Euglena ostendensis Kufferath, 1950 SPECIES
-=======
+# Euglena ostendensis Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

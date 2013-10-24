@@ -1,5 +1,4 @@
-Fomitopsis fraxineus (Bull.) SPECIES
-=======
+# Fomitopsis fraxineus (Bull.) SPECIES
 
 #### Status
 ACCEPTED

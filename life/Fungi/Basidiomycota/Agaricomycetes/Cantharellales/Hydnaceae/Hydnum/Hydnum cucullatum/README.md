@@ -1,5 +1,4 @@
-Hydnum cucullatum Har. & Pat. SPECIES
-=======
+# Hydnum cucullatum Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stellopeltis vismiae (Bat. & A.F. Vital) Bat. & A.F. Vital SPECIES
-=======
+# Stellopeltis vismiae (Bat. & A.F. Vital) Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

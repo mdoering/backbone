@@ -1,5 +1,4 @@
-Entyloma salicis P. Karst. SPECIES
-=======
+# Entyloma salicis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

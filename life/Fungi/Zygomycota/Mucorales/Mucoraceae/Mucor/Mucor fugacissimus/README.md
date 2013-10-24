@@ -1,5 +1,4 @@
-Mucor fugacissimus Schrank SPECIES
-=======
+# Mucor fugacissimus Schrank SPECIES
 
 #### Status
 ACCEPTED

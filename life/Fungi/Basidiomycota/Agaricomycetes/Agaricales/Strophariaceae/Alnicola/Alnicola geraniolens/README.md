@@ -1,5 +1,4 @@
-Alnicola geraniolens Courtec. SPECIES
-=======
+# Alnicola geraniolens Courtec. SPECIES
 
 #### Status
 ACCEPTED

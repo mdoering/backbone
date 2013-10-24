@@ -1,5 +1,4 @@
-Russula crassotunicata Singer SPECIES
-=======
+# Russula crassotunicata Singer SPECIES
 
 #### Status
 ACCEPTED

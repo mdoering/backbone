@@ -1,5 +1,4 @@
-Balladyna tarennae Eboh & Cain SPECIES
-=======
+# Balladyna tarennae Eboh & Cain SPECIES
 
 #### Status
 ACCEPTED

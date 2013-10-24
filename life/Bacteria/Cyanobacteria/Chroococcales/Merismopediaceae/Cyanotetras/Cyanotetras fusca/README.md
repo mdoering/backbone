@@ -1,5 +1,4 @@
-Cyanotetras fusca F. Hindák SPECIES
-=======
+# Cyanotetras fusca F. Hindák SPECIES
 
 #### Status
 ACCEPTED

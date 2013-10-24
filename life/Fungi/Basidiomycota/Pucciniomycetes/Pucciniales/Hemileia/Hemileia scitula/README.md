@@ -1,5 +1,4 @@
-Hemileia scitula Syd. SPECIES
-=======
+# Hemileia scitula Syd. SPECIES
 
 #### Status
 ACCEPTED

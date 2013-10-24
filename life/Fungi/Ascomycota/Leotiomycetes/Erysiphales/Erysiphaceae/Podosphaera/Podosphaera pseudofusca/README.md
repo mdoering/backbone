@@ -1,5 +1,4 @@
-Podosphaera pseudofusca (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera pseudofusca (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

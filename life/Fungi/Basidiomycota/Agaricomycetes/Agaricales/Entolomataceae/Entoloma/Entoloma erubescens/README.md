@@ -1,5 +1,4 @@
-Entoloma erubescens E. Horak SPECIES
-=======
+# Entoloma erubescens E. Horak SPECIES
 
 #### Status
 ACCEPTED

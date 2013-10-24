@@ -1,5 +1,4 @@
-Uromyces sophorae-vicilfoliae F.L. Tai SPECIES
-=======
+# Uromyces sophorae-vicilfoliae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

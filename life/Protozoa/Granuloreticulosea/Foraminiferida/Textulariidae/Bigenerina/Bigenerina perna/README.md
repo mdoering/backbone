@@ -1,5 +1,4 @@
-Bigenerina perna SPECIES
-=======
+# Bigenerina perna SPECIES
 
 #### Status
 ACCEPTED

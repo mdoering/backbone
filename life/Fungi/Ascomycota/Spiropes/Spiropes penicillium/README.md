@@ -1,5 +1,4 @@
-Spiropes penicillium (Speg.) M.B. Ellis SPECIES
-=======
+# Spiropes penicillium (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

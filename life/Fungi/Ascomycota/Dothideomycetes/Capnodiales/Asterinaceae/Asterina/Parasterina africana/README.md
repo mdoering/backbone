@@ -1,5 +1,4 @@
-Parasterina africana Van der Byl SPECIES
-=======
+# Parasterina africana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

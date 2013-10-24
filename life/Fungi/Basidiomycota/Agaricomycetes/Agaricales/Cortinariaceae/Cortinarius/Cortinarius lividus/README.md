@@ -1,5 +1,4 @@
-Cortinarius lividus M.M. Moser SPECIES
-=======
+# Cortinarius lividus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

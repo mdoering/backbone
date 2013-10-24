@@ -1,5 +1,4 @@
-Phyllactinia papayae Wang SPECIES
-=======
+# Phyllactinia papayae Wang SPECIES
 
 #### Status
 ACCEPTED

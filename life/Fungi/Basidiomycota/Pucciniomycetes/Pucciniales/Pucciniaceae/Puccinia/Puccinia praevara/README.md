@@ -1,5 +1,4 @@
-Puccinia praevara H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia praevara H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

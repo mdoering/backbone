@@ -1,5 +1,4 @@
-Coscinodiscus velatus A. Schmidt SPECIES
-=======
+# Coscinodiscus velatus A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

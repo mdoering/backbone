@@ -1,5 +1,4 @@
-Colletotrichum imantophylli Verpl. & Claess. SPECIES
-=======
+# Colletotrichum imantophylli Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

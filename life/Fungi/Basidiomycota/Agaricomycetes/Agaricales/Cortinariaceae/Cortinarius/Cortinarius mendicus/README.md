@@ -1,5 +1,4 @@
-Cortinarius mendicus M.M. Moser SPECIES
-=======
+# Cortinarius mendicus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasmenia hypoxantha (Berk. & Broome) Hansf. SPECIES
-=======
+# Lasmenia hypoxantha (Berk. & Broome) Hansf. SPECIES
 
 #### Status
 ACCEPTED

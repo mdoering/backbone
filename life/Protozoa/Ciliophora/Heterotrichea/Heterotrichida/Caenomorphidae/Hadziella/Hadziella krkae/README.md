@@ -1,5 +1,4 @@
-Hadziella krkae Bole, 1992 SPECIES
-=======
+# Hadziella krkae Bole, 1992 SPECIES
 
 #### Status
 ACCEPTED

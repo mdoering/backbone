@@ -1,5 +1,4 @@
-Melampsora dupiasii Durrieu SPECIES
-=======
+# Melampsora dupiasii Durrieu SPECIES
 
 #### Status
 ACCEPTED

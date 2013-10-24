@@ -1,5 +1,4 @@
-Guignardia podocarpi Crous, 1996 SPECIES
-=======
+# Guignardia podocarpi Crous, 1996 SPECIES
 
 #### Status
 ACCEPTED

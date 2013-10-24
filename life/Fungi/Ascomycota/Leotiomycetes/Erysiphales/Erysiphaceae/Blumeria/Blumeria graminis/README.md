@@ -1,17 +1,16 @@
-Erysiphe graminis f. sp FORM
-=======
+# Blumeria graminis (DC.) Speer, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 27(21-26): 2 (1975)
 
 #### Original name
-Erysiphe graminis f. sp
+Erysiphe graminis DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Botrytis cinereoglauca Ellis & Kellerm. SPECIES
-=======
+# Botrytis cinereoglauca Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

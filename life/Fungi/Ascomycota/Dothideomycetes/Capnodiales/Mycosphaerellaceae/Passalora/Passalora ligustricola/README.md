@@ -1,5 +1,4 @@
-Passalora ligustricola Y.L. Guo SPECIES
-=======
+# Passalora ligustricola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

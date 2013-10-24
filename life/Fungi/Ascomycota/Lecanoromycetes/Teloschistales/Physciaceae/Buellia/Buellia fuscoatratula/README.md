@@ -1,5 +1,4 @@
-Buellia fuscoatratula Zahlbr. SPECIES
-=======
+# Buellia fuscoatratula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

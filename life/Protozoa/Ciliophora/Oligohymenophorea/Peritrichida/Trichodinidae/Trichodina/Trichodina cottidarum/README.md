@@ -1,5 +1,4 @@
-Trichodina cottidarum Dogiel, 1948 SPECIES
-=======
+# Trichodina cottidarum Dogiel, 1948 SPECIES
 
 #### Status
 ACCEPTED

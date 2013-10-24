@@ -1,5 +1,4 @@
-Synchytrium rhynchosiae Lingappa SPECIES
-=======
+# Synchytrium rhynchosiae Lingappa SPECIES
 
 #### Status
 ACCEPTED

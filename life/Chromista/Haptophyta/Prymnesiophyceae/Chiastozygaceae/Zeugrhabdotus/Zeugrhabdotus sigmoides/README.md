@@ -1,5 +1,4 @@
-Zeugrhabdotus sigmoides SPECIES
-=======
+# Zeugrhabdotus sigmoides SPECIES
 
 #### Status
 ACCEPTED

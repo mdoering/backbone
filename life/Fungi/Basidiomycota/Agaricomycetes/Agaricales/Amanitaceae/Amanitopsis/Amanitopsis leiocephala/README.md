@@ -1,8 +1,7 @@
-Amanitopsis lejocephala (DC.) Sacc. SPECIES
-=======
+# Amanitopsis leiocephala (DC.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

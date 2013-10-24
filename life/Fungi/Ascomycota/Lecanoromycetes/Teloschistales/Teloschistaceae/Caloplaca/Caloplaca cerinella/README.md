@@ -1,14 +1,13 @@
-Callopisma cerinellum (Nyl.) Walt. Watson SPECIES
-=======
+# Caloplaca cerinella (Nyl.) Flagey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 68: 505 (1885)
+in Battandier & Trabut, Fl. Algér. crypt. 2(1): 31 (1896)
 
 #### Original name
 Lecanora cerinella Flörke

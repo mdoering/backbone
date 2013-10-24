@@ -1,5 +1,4 @@
-Tremella glauca Pers. SPECIES
-=======
+# Tremella glauca Pers. SPECIES
 
 #### Status
 ACCEPTED

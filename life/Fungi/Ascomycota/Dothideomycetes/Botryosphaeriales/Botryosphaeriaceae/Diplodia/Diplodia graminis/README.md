@@ -1,5 +1,4 @@
-Diplodia graminis SPECIES
-=======
+# Diplodia graminis SPECIES
 
 #### Status
 ACCEPTED

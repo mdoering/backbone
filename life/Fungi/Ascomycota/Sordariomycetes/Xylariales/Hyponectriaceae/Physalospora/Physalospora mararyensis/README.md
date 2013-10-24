@@ -1,5 +1,4 @@
-Physalospora mararyensis Henn. SPECIES
-=======
+# Physalospora mararyensis Henn. SPECIES
 
 #### Status
 ACCEPTED

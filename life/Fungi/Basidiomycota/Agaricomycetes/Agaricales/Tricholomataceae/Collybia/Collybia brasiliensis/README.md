@@ -1,5 +1,4 @@
-Collybia brasiliensis (Berk. & Mont.) Dennis SPECIES
-=======
+# Collybia brasiliensis (Berk. & Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

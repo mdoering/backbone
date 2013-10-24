@@ -1,5 +1,4 @@
-Chaetomium pallidum Ellis & Everh. SPECIES
-=======
+# Chaetomium pallidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

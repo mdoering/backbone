@@ -1,5 +1,4 @@
-Entyloma aschersonii (Ule) Woronin SPECIES
-=======
+# Entyloma aschersonii (Ule) Woronin SPECIES
 
 #### Status
 ACCEPTED

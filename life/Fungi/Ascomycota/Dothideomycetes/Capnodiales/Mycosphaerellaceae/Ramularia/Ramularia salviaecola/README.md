@@ -1,5 +1,4 @@
-Ramularia salviaecola Lobik SPECIES
-=======
+# Ramularia salviaecola Lobik SPECIES
 
 #### Status
 ACCEPTED

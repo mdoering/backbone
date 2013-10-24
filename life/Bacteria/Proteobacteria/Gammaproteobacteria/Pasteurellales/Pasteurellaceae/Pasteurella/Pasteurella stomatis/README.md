@@ -1,5 +1,4 @@
-Pasteurella stomatis Mutters et al., 1985 SPECIES
-=======
+# Pasteurella stomatis Mutters et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

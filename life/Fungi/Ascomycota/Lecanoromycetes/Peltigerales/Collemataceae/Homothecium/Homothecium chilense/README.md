@@ -1,5 +1,4 @@
-Homothecium chilense (Räsänen) Henssen SPECIES
-=======
+# Homothecium chilense (Räsänen) Henssen SPECIES
 
 #### Status
 ACCEPTED

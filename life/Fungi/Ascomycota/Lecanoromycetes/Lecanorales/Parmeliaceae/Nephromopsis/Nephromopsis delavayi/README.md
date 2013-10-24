@@ -1,5 +1,4 @@
-Nephromopsis delavayi Hue SPECIES
-=======
+# Nephromopsis delavayi Hue SPECIES
 
 #### Status
 ACCEPTED

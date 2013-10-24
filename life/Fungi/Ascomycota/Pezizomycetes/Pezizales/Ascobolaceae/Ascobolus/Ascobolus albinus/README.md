@@ -1,5 +1,4 @@
-Ascobolus albinus Seaver SPECIES
-=======
+# Ascobolus albinus Seaver SPECIES
 
 #### Status
 ACCEPTED

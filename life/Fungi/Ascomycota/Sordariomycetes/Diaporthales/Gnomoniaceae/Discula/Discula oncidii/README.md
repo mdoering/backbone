@@ -1,5 +1,4 @@
-Discula oncidii Oudem. SPECIES
-=======
+# Discula oncidii Oudem. SPECIES
 
 #### Status
 ACCEPTED

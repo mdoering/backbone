@@ -1,14 +1,13 @@
-Chaetotrichum trichophilum (F. Stevens) Petr., 1951 SPECIES
-=======
+# Pseudocercospora trichophila (F. Stevens) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5: 38 (1951)
+Mycol. Pap. 140: 106 (1976)
 
 #### Original name
 Cercospora trichophila F. Stevens, 1917

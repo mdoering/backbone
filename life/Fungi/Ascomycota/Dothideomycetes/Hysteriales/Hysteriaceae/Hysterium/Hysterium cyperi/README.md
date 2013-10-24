@@ -1,5 +1,4 @@
-Hysterium cyperi Engelhard SPECIES
-=======
+# Hysterium cyperi Engelhard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora anemones Ellis & Kellerm. SPECIES
-=======
+# Phloeospora anemones Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

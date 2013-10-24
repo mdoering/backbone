@@ -1,5 +1,4 @@
-Agaricus matutinus Schumach. SPECIES
-=======
+# Agaricus matutinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

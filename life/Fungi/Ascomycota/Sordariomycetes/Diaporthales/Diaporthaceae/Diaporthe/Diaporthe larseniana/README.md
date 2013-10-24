@@ -1,5 +1,4 @@
-Diaporthe larseniana Munk SPECIES
-=======
+# Diaporthe larseniana Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria bresadolae Teterevn. SPECIES
-=======
+# Septoria bresadolae Teterevn. SPECIES
 
 #### Status
 ACCEPTED

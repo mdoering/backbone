@@ -1,8 +1,7 @@
-Dinema griseolum Perty SPECIES
-=======
+# Dinematomonas griseola (Perty) Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

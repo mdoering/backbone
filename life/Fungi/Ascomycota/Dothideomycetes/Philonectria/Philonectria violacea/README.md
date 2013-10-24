@@ -1,5 +1,4 @@
-Philonectria violacea Hansf. SPECIES
-=======
+# Philonectria violacea Hansf. SPECIES
 
 #### Status
 ACCEPTED

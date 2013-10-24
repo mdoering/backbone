@@ -1,14 +1,13 @@
-Tuburcinia lithophragmatis var. heucherae (Garrett) Cif., 1963 VARIETY
-=======
+# Urocystis heucherae Garrett, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 25: 151 (1933)
 
 #### Original name
 Urocystis heucherae Garrett, 1933

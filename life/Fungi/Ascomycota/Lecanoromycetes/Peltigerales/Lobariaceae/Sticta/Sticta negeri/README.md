@@ -1,5 +1,4 @@
-Sticta negeri Vain. SPECIES
-=======
+# Sticta negeri Vain. SPECIES
 
 #### Status
 ACCEPTED

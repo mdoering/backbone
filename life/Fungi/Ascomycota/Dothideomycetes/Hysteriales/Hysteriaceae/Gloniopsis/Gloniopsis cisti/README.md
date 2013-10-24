@@ -1,5 +1,4 @@
-Gloniopsis cisti Rehm SPECIES
-=======
+# Gloniopsis cisti Rehm SPECIES
 
 #### Status
 ACCEPTED

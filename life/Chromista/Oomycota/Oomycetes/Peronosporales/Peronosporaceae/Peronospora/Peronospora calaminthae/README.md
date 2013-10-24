@@ -1,5 +1,4 @@
-Peronospora calaminthae Fuckel SPECIES
-=======
+# Peronospora calaminthae Fuckel SPECIES
 
 #### Status
 ACCEPTED

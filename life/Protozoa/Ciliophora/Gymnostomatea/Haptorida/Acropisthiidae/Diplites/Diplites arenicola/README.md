@@ -1,5 +1,4 @@
-Diplites arenicola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Diplites arenicola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

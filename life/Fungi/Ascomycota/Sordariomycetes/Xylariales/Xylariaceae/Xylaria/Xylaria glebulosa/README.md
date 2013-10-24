@@ -1,5 +1,4 @@
-Xylaria glebulosa (Ces.) Y.M. Ju & J.D. Rogers SPECIES
-=======
+# Xylaria glebulosa (Ces.) Y.M. Ju & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

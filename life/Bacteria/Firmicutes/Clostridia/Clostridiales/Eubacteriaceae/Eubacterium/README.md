@@ -1,5 +1,4 @@
-Eubacterium Prevot, 1938 GENUS
-=======
+# Eubacterium Prevot, 1938 GENUS
 
 #### Status
 ACCEPTED

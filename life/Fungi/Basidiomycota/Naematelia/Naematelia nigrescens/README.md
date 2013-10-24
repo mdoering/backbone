@@ -1,5 +1,4 @@
-Naematelia nigrescens Mont. SPECIES
-=======
+# Naematelia nigrescens Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petraphera L.A. Nagy, 1974 GENUS
-=======
+# Petraphera L.A. Nagy, 1974 GENUS
 
 #### Status
 ACCEPTED

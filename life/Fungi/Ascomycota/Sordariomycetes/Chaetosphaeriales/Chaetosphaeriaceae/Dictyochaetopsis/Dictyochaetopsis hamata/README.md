@@ -1,14 +1,13 @@
-Dictyochaeta hamata Kuthub. & Nawawi, 1990 SPECIES
-=======
+# Dictyochaetopsis hamata (Kuthub. & Nawawi) Whitton, McKenzie & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 94(6): 840 (1990)
+Fungal Diversity 4: 156 (2000)
 
 #### Original name
 Dictyochaeta hamata Kuthub. & Nawawi, 1990

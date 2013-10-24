@@ -1,5 +1,4 @@
-Asperococcus pusillus SPECIES
-=======
+# Asperococcus pusillus SPECIES
 
 #### Status
 ACCEPTED

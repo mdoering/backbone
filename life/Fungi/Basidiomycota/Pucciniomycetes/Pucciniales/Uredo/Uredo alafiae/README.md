@@ -1,5 +1,4 @@
-Uredo alafiae Cummins & Gopalkr. SPECIES
-=======
+# Uredo alafiae Cummins & Gopalkr. SPECIES
 
 #### Status
 ACCEPTED

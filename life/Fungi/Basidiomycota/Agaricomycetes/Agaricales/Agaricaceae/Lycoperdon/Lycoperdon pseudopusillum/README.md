@@ -1,5 +1,4 @@
-Lycoperdon pseudopusillum Hollós SPECIES
-=======
+# Lycoperdon pseudopusillum Hollós SPECIES
 
 #### Status
 ACCEPTED

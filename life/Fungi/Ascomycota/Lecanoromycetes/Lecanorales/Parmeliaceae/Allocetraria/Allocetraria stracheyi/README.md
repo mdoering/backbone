@@ -1,14 +1,13 @@
-Evernia stracheyi C. Bab. SPECIES
-=======
+# Allocetraria stracheyi (Bab.) Kurok. & M.J. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 17(2): 62 (1991)
 
 #### Original name
 Evernia stracheyi C. Bab.

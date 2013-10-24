@@ -1,5 +1,4 @@
-Lepiota jubilaei Joss. SPECIES
-=======
+# Lepiota jubilaei Joss. SPECIES
 
 #### Status
 ACCEPTED

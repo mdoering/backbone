@@ -1,5 +1,4 @@
-Ophionectria conoidea Rehm SPECIES
-=======
+# Ophionectria conoidea Rehm SPECIES
 
 #### Status
 ACCEPTED

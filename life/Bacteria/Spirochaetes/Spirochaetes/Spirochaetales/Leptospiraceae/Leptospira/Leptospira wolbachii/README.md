@@ -1,5 +1,4 @@
-Leptospira wolbachii Yasuda et al., 1987 SPECIES
-=======
+# Leptospira wolbachii Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

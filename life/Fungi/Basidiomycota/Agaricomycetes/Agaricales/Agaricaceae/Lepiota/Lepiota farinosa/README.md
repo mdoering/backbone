@@ -1,5 +1,4 @@
-Lepiota farinosa Peck SPECIES
-=======
+# Lepiota farinosa Peck SPECIES
 
 #### Status
 ACCEPTED

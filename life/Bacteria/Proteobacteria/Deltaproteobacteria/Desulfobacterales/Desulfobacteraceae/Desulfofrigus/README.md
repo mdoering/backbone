@@ -1,5 +1,4 @@
-Desulfofrigus Knoblauch et al., 1999 GENUS
-=======
+# Desulfofrigus Knoblauch et al., 1999 GENUS
 
 #### Status
 ACCEPTED

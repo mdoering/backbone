@@ -1,5 +1,4 @@
-Asterothyrium vezdae Flakus & Lücking SPECIES
-=======
+# Asterothyrium vezdae Flakus & Lücking SPECIES
 
 #### Status
 ACCEPTED

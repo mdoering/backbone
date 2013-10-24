@@ -1,5 +1,4 @@
-Reticulosphaera K.G. Grell, 1989 GENUS
-=======
+# Reticulosphaera K.G. Grell, 1989 GENUS
 
 #### Status
 ACCEPTED

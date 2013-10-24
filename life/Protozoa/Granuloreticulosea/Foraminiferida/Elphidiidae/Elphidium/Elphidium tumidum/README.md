@@ -1,5 +1,4 @@
-Elphidium tumidum Natland, 1938 SPECIES
-=======
+# Elphidium tumidum Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

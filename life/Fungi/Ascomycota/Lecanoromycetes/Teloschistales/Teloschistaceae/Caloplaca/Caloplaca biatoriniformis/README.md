@@ -1,5 +1,4 @@
-Caloplaca biatoriniformis Zahlbr. SPECIES
-=======
+# Caloplaca biatoriniformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

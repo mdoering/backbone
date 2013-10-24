@@ -1,5 +1,4 @@
-Pyrrhoglossum ferruginatum (Lloyd) Singer SPECIES
-=======
+# Pyrrhoglossum ferruginatum (Lloyd) Singer SPECIES
 
 #### Status
 ACCEPTED

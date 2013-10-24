@@ -1,5 +1,4 @@
-Pertusaria wallamanensis Elix & A.W. Archer SPECIES
-=======
+# Pertusaria wallamanensis Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium usambarense (Vezda & Farkas) Lücking & kalb SPECIES
-=======
+# Coenogonium usambarense (Vezda & Farkas) Lücking & kalb SPECIES
 
 #### Status
 ACCEPTED

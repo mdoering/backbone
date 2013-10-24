@@ -1,5 +1,4 @@
-Puccinia stizolophi P. Syd. & Syd. SPECIES
-=======
+# Puccinia stizolophi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

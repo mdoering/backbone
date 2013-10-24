@@ -1,5 +1,4 @@
-Torula obvia F.C. Harrison SPECIES
-=======
+# Torula obvia F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

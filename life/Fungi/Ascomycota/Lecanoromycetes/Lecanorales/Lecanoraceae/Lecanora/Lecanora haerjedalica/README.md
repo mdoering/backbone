@@ -1,5 +1,4 @@
-Lecanora haerjedalica H. Magn. SPECIES
-=======
+# Lecanora haerjedalica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

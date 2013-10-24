@@ -1,5 +1,4 @@
-Hygrophorus subvirgineus Henn. SPECIES
-=======
+# Hygrophorus subvirgineus Henn. SPECIES
 
 #### Status
 ACCEPTED

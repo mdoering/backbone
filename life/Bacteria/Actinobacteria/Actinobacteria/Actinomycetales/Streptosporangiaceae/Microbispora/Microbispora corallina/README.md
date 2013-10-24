@@ -1,5 +1,4 @@
-Microbispora corallina Nakajima et al., 1999 SPECIES
-=======
+# Microbispora corallina Nakajima et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma lixivium (Fr.) P. Karst. SPECIES
-=======
+# Tricholoma lixivium (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

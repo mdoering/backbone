@@ -1,5 +1,4 @@
-Ceratium ehrenbergii Kofoid, 1907 SPECIES
-=======
+# Ceratium ehrenbergii Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

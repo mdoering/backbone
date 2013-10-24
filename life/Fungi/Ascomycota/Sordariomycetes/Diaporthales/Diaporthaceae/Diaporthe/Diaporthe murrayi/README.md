@@ -1,5 +1,4 @@
-Diaporthe murrayi (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe murrayi (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

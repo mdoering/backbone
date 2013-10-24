@@ -1,5 +1,4 @@
-Pluteus sapiicola Singer SPECIES
-=======
+# Pluteus sapiicola Singer SPECIES
 
 #### Status
 ACCEPTED

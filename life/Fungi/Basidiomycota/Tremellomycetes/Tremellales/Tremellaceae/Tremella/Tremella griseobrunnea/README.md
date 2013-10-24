@@ -1,5 +1,4 @@
-Tremella griseobrunnea Chee J. Chen SPECIES
-=======
+# Tremella griseobrunnea Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus juniperinus Murrill, 1908 SPECIES
-=======
+# Inonotus juniperinus Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED

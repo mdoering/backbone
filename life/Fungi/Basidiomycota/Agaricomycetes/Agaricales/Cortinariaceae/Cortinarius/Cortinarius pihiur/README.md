@@ -1,5 +1,4 @@
-Cortinarius pihiur Speg. SPECIES
-=======
+# Cortinarius pihiur Speg. SPECIES
 
 #### Status
 ACCEPTED

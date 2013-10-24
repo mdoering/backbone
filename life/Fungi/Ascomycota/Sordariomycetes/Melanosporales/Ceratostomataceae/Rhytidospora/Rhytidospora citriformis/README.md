@@ -1,5 +1,4 @@
-Rhytidospora citriformis Valldos. & Guarro SPECIES
-=======
+# Rhytidospora citriformis Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

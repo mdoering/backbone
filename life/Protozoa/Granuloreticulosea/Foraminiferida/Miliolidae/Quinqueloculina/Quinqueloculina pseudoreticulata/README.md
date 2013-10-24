@@ -1,5 +1,4 @@
-Quinqueloculina pseudoreticulata Parr SPECIES
-=======
+# Quinqueloculina pseudoreticulata Parr SPECIES
 
 #### Status
 ACCEPTED

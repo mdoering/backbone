@@ -1,5 +1,4 @@
-Lecanora rhizophora (Delise) Müll. Arg. SPECIES
-=======
+# Lecanora rhizophora (Delise) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

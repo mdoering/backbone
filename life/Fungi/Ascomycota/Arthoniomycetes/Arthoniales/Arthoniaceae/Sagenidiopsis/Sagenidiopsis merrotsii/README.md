@@ -1,5 +1,4 @@
-Sagenidiopsis merrotsii R. W. Rogers & Hafellner SPECIES
-=======
+# Sagenidiopsis merrotsii R. W. Rogers & Hafellner SPECIES
 
 #### Status
 ACCEPTED

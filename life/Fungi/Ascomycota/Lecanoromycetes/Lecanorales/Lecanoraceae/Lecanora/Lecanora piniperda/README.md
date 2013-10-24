@@ -1,5 +1,4 @@
-Lecanora piniperda var. piniperda VARIETY
-=======
+# Lecanora piniperda Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora piniperda var. piniperda
+null
 
 ### Remarks
 null

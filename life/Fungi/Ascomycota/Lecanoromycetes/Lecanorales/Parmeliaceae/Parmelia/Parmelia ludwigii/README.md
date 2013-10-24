@@ -1,5 +1,4 @@
-Parmelia ludwigii Spreng. SPECIES
-=======
+# Parmelia ludwigii Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorea GENUS
-=======
+# Chlorea GENUS
 
 #### Status
 ACCEPTED

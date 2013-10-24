@@ -1,5 +1,4 @@
-Cephalosporium cordoniforme Simões SPECIES
-=======
+# Cephalosporium cordoniforme Simões SPECIES
 
 #### Status
 ACCEPTED

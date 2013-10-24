@@ -1,5 +1,4 @@
-Ophryoglena catenula SPECIES
-=======
+# Ophryoglena catenula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anzia electra Rikkinen & Poinar SPECIES
-=======
+# Anzia electra Rikkinen & Poinar SPECIES
 
 #### Status
 ACCEPTED

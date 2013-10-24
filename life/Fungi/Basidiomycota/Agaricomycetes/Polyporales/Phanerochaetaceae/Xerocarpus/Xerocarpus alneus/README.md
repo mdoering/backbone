@@ -1,5 +1,4 @@
-Xerocarpus alneus (Fr.) P. Karst. SPECIES
-=======
+# Xerocarpus alneus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

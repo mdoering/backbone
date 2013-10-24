@@ -1,5 +1,4 @@
-Ascochyta pallor Berk. SPECIES
-=======
+# Ascochyta pallor Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus cristatus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus cristatus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

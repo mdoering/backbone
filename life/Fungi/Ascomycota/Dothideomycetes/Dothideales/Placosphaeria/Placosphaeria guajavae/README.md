@@ -1,5 +1,4 @@
-Placosphaeria guajavae Bat. SPECIES
-=======
+# Placosphaeria guajavae Bat. SPECIES
 
 #### Status
 ACCEPTED

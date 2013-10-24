@@ -1,17 +1,16 @@
-Leptonia solstitialis var. africana Sacc. VARIETY
-=======
+# Entoloma solstitiale (Fr.) Noordel., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(4): 505 (1980)
 
 #### Original name
-Leptonia solstitialis var. africana Sacc.
+Agaricus solstitialis Fr., 1838
 
 ### Remarks
 null

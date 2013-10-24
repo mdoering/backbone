@@ -1,5 +1,4 @@
-Sorosporium contortum Griffiths SPECIES
-=======
+# Sorosporium contortum Griffiths SPECIES
 
 #### Status
 ACCEPTED

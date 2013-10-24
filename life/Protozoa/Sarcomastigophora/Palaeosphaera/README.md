@@ -1,5 +1,4 @@
-Palaeosphaera Renz, 1990 GENUS
-=======
+# Palaeosphaera Renz, 1990 GENUS
 
 #### Status
 ACCEPTED

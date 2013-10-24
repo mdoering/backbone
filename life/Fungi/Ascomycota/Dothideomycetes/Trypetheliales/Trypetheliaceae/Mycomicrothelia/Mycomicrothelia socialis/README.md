@@ -1,5 +1,4 @@
-Mycomicrothelia socialis (Zahlbr.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia socialis (Zahlbr.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes succinea Conwentz {?} SPECIES
-=======
+# Trametes succinea Conwentz {?} SPECIES
 
 #### Status
 ACCEPTED

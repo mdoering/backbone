@@ -1,5 +1,4 @@
-Endoreticulatus durforti A. Martinez M., C.P. Vivares & G. Bouix SPECIES
-=======
+# Endoreticulatus durforti A. Martinez M., C.P. Vivares & G. Bouix SPECIES
 
 #### Status
 ACCEPTED

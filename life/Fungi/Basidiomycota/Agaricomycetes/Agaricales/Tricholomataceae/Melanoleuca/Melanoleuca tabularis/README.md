@@ -1,5 +1,4 @@
-Melanoleuca tabularis (Pers.) Konrad SPECIES
-=======
+# Melanoleuca tabularis (Pers.) Konrad SPECIES
 
 #### Status
 ACCEPTED

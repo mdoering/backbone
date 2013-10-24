@@ -1,5 +1,4 @@
-Leptosphaeria zeae-maydis Saccas SPECIES
-=======
+# Leptosphaeria zeae-maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

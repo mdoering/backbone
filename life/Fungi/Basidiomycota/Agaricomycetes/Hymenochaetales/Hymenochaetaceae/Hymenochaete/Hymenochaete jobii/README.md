@@ -1,5 +1,4 @@
-Hymenochaete jobii Parmasto, 2001 SPECIES
-=======
+# Hymenochaete jobii Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

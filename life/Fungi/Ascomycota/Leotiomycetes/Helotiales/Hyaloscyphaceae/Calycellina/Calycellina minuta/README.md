@@ -1,5 +1,4 @@
-Calycellina minuta K.S. Thind & M.P. Sharma SPECIES
-=======
+# Calycellina minuta K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

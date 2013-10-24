@@ -1,5 +1,4 @@
-Meliola amadelpha Syd. SPECIES
-=======
+# Meliola amadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

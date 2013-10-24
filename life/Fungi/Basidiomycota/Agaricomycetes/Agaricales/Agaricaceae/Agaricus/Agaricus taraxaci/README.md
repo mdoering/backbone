@@ -1,5 +1,4 @@
-Agaricus taraxaci Krombh. SPECIES
-=======
+# Agaricus taraxaci Krombh. SPECIES
 
 #### Status
 ACCEPTED

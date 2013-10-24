@@ -1,5 +1,4 @@
-Tympanis hainanensis S.H. Ou SPECIES
-=======
+# Tympanis hainanensis S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

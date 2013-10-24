@@ -1,14 +1,13 @@
-Isoachlya monilifera (de Bary) Kaufman, 1921 SPECIES
-=======
+# Saprolegnia monilifera de Bary, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 8: 231 (1921)
+Bot. Ztg. 46(40): 629 (1888)
 
 #### Original name
 Saprolegnia monilifera de Bary, 1888

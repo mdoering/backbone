@@ -1,5 +1,4 @@
-Cryptochilum boreale Hentschel, 1924 SPECIES
-=======
+# Cryptochilum boreale Hentschel, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ustilago isoetis Rostr. SPECIES
-=======
+# Ustilago isoëtis Rostr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago isoetis Rostr.
+Ustilago isoëtis Rostr.
 
 ### Remarks
 null

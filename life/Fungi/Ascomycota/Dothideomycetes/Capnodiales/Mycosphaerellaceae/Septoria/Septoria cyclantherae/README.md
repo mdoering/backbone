@@ -1,5 +1,4 @@
-Septoria cyclantherae Speg. SPECIES
-=======
+# Septoria cyclantherae Speg. SPECIES
 
 #### Status
 ACCEPTED

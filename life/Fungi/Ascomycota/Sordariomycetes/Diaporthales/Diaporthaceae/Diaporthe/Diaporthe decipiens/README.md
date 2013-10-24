@@ -1,5 +1,4 @@
-Diaporthe decipiens Sacc. SPECIES
-=======
+# Diaporthe decipiens Sacc. SPECIES
 
 #### Status
 ACCEPTED

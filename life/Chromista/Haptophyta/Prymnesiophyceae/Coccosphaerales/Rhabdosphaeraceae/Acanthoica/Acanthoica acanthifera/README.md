@@ -1,5 +1,4 @@
-Acanthoica acanthifera Lohmann SPECIES
-=======
+# Acanthoica acanthifera Lohmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium orchidiphilum K. Schub. & U. Braun, 2004 SPECIES
-=======
+# Cladosporium orchidiphilum K. Schub. & U. Braun, 2004 SPECIES
 
 #### Status
 ACCEPTED

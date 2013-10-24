@@ -1,17 +1,16 @@
-Bacidia affinis var. affinis VARIETY
-=======
+# Bacidia subincompta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 53: 472 (1870)
 
 #### Original name
-Bacidia affinis var. affinis
+Lecidea subincompta Nyl.
 
 ### Remarks
 null

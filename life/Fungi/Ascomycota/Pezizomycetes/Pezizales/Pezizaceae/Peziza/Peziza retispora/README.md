@@ -1,5 +1,4 @@
-Peziza retispora Rifai SPECIES
-=======
+# Peziza retispora Rifai SPECIES
 
 #### Status
 ACCEPTED

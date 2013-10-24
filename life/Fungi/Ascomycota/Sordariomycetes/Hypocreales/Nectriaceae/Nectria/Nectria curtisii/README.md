@@ -1,5 +1,4 @@
-Nectria curtisii Berk. SPECIES
-=======
+# Nectria curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

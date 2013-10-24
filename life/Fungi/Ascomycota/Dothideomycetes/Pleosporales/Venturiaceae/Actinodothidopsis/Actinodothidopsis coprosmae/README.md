@@ -1,5 +1,4 @@
-Actinodothidopsis coprosmae F. Stevens SPECIES
-=======
+# Actinodothidopsis coprosmae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

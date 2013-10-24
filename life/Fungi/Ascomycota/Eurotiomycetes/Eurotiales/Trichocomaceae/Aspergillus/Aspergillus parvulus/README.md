@@ -1,5 +1,4 @@
-Aspergillus parvulus G. Sm., 1961 SPECIES
-=======
+# Aspergillus parvulus G. Sm., 1961 SPECIES
 
 #### Status
 ACCEPTED

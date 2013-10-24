@@ -1,5 +1,4 @@
-Leptographium pruni Masuya & M.J. Wingf. SPECIES
-=======
+# Leptographium pruni Masuya & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

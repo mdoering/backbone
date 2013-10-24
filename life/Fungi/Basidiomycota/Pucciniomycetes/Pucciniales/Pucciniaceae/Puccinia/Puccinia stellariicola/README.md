@@ -1,5 +1,4 @@
-Puccinia stellariicola Cummins SPECIES
-=======
+# Puccinia stellariicola Cummins SPECIES
 
 #### Status
 ACCEPTED

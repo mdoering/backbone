@@ -1,5 +1,4 @@
-Rhopalomyces weirianus Syd. SPECIES
-=======
+# Rhopalomyces weirianus Syd. SPECIES
 
 #### Status
 ACCEPTED

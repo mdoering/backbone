@@ -1,5 +1,4 @@
-Omphalia ulmariae Velen. SPECIES
-=======
+# Omphalia ulmariae Velen. SPECIES
 
 #### Status
 ACCEPTED

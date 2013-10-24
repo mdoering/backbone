@@ -1,5 +1,4 @@
-Graphis leucopepla Tuck. SPECIES
-=======
+# Graphis leucopepla Tuck. SPECIES
 
 #### Status
 ACCEPTED

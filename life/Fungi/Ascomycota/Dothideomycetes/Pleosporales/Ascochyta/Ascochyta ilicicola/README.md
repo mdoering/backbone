@@ -1,5 +1,4 @@
-Ascochyta ilicicola Politis SPECIES
-=======
+# Ascochyta ilicicola Politis SPECIES
 
 #### Status
 ACCEPTED

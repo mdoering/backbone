@@ -1,5 +1,4 @@
-Verrucaria schleicheri (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria schleicheri (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

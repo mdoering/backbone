@@ -1,5 +1,4 @@
-Cylindrosporium cervinum (Speg.) J. Schröt. SPECIES
-=======
+# Cylindrosporium cervinum (Speg.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

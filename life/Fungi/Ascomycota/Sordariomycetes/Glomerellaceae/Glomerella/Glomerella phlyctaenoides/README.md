@@ -1,5 +1,4 @@
-Glomerella phlyctaenoides (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Glomerella phlyctaenoides (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyperphyscia confusa Essl. C. A. Morse & S. Leavitt SPECIES
-=======
+# Hyperphyscia confusa Essl. C. A. Morse & S. Leavitt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces berulae-scirpi Kleb. SPECIES
-=======
+# Uromyces berulae-scirpi Kleb. SPECIES
 
 #### Status
 ACCEPTED

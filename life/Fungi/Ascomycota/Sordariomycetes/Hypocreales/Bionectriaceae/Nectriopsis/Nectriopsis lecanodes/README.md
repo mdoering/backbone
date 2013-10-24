@@ -1,17 +1,16 @@
-Nectria lecanodes var. euryspora Vouaux VARIETY
-=======
+# Nectriopsis lecanodes (Ces.) Diederich & Schroers, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sérusiaux, Diederich, Brand & van den Boom, Lejeunia, n. s. 162: 56 (1999)
 
 #### Original name
-Nectria lecanodes var. euryspora Vouaux
+Nectria lecanodes Ces., 1863
 
 ### Remarks
 null

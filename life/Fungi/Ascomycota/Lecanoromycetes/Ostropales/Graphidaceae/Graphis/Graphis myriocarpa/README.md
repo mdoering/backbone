@@ -1,5 +1,4 @@
-Graphis myriocarpa var. myriocarpa VARIETY
-=======
+# Graphis myriocarpa Trevis. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis myriocarpa var. myriocarpa
+Graphis myriocarpa Trevis.
 
 ### Remarks
 null

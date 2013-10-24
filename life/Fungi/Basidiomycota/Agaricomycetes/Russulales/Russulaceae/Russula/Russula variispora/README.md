@@ -1,5 +1,4 @@
-Russula variispora T. Lebel SPECIES
-=======
+# Russula variispora T. Lebel SPECIES
 
 #### Status
 ACCEPTED

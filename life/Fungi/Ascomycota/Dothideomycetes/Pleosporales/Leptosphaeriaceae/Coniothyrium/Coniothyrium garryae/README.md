@@ -1,5 +1,4 @@
-Coniothyrium garryae Nann. SPECIES
-=======
+# Coniothyrium garryae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora daturicola (Speg.) Vassiljevsky SPECIES
-=======
+# Cercospora daturicola (Speg.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

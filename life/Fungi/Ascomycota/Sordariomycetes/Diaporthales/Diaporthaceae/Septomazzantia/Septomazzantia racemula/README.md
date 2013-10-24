@@ -1,5 +1,4 @@
-Septomazzantia racemula (Cooke & Peck) Lar.N. Vassiljeva SPECIES
-=======
+# Septomazzantia racemula (Cooke & Peck) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

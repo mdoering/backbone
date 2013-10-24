@@ -1,5 +1,4 @@
-Pelagophyceae CLASS
-=======
+# Pelagophyceae CLASS
 
 #### Status
 ACCEPTED

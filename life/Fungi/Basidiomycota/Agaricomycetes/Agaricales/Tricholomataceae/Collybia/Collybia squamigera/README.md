@@ -1,5 +1,4 @@
-Collybia squamigera (Murrill) Murrill SPECIES
-=======
+# Collybia squamigera (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

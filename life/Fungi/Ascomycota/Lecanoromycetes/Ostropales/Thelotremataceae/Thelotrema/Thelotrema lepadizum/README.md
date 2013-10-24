@@ -1,5 +1,4 @@
-Thelotrema lepadizum Nyl. SPECIES
-=======
+# Thelotrema lepadizum Nyl. SPECIES
 
 #### Status
 ACCEPTED

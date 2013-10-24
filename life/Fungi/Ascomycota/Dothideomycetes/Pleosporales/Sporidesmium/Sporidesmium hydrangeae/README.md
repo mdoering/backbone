@@ -1,5 +1,4 @@
-Sporidesmium hydrangeae Thüm. SPECIES
-=======
+# Sporidesmium hydrangeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

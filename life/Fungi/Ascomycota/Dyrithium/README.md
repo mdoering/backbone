@@ -1,5 +1,4 @@
-Dyrithium M.E. Barr GENUS
-=======
+# Dyrithium M.E. Barr GENUS
 
 #### Status
 ACCEPTED

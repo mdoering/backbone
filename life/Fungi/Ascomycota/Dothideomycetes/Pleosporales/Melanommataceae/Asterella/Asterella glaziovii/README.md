@@ -1,5 +1,4 @@
-Asterella glaziovii Henn. SPECIES
-=======
+# Asterella glaziovii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria subdenudata Peck SPECIES
-=======
+# Sphaeria subdenudata Peck SPECIES
 
 #### Status
 ACCEPTED

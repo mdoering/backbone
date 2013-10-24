@@ -1,17 +1,16 @@
-Melanconium pini var. inaequale Corda VARIETY
-=======
+# Endomelanconium pini (Corda) Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 3, tab. 1:41 (1837)
+Annls mycol. 38(2/4): 206 (1940)
 
 #### Original name
-Melanconium pini var. inaequale Corda
+Melanconium pini Corda, 1837
 
 ### Remarks
 null

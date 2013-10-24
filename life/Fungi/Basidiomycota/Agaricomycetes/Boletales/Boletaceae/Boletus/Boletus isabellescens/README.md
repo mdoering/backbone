@@ -1,5 +1,4 @@
-Boletus isabellescens (Murrill) Murrill SPECIES
-=======
+# Boletus isabellescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

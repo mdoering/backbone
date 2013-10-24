@@ -1,5 +1,4 @@
-Rhabdolithina P.Reinhardt, 1967 GENUS
-=======
+# Rhabdolithina P.Reinhardt, 1967 GENUS
 
 #### Status
 ACCEPTED

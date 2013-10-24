@@ -1,5 +1,4 @@
-Strigula lamellosa Zahlbr. SPECIES
-=======
+# Strigula lamellosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

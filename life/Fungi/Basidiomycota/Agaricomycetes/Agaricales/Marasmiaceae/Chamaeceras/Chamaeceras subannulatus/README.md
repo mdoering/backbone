@@ -1,5 +1,4 @@
-Chamaeceras subannulatus (Trog) Kuntze SPECIES
-=======
+# Chamaeceras subannulatus (Trog) Kuntze SPECIES
 
 #### Status
 ACCEPTED

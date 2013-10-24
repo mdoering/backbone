@@ -1,5 +1,4 @@
-Nectria oculata Höhn. SPECIES
-=======
+# Nectria oculata Höhn. SPECIES
 
 #### Status
 ACCEPTED

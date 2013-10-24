@@ -1,5 +1,4 @@
-Rarobacter Yamamoto et al., 1988 GENUS
-=======
+# Rarobacter Yamamoto et al., 1988 GENUS
 
 #### Status
 ACCEPTED

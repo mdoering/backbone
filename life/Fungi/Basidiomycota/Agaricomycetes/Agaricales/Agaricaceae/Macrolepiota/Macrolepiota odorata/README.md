@@ -1,5 +1,4 @@
-Macrolepiota odorata Heinem. SPECIES
-=======
+# Macrolepiota odorata Heinem. SPECIES
 
 #### Status
 ACCEPTED

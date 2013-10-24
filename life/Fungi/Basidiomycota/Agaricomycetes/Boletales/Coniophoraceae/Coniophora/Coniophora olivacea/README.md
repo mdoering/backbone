@@ -1,17 +1,16 @@
-Thelephora olivacea var. olivacea VARIETY
-=======
+# Coniophora olivacea (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 197 (1828)
+in Rysslands, Finlands ochden Scand. Halföns Hattssvampar 2: 162 (1879)
 
 #### Original name
-Hypochnus olivaceus Fr., 1818
+Coniophora olivacea (Fr.) P. Karst., 1879
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystictus juruensis (Henn.) Lloyd SPECIES
-=======
+# Polystictus juruensis (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces simulans Peck SPECIES
-=======
+# Uromyces simulans Peck SPECIES
 
 #### Status
 ACCEPTED

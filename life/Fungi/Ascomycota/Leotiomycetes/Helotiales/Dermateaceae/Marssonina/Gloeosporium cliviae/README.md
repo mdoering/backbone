@@ -1,5 +1,4 @@
-Gloeosporium cliviae Bond.-Mont. SPECIES
-=======
+# Gloeosporium cliviae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

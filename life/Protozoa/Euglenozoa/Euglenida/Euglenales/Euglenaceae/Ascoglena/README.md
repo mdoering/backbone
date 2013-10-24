@@ -1,5 +1,4 @@
-Ascoglena Stein, 1878 GENUS
-=======
+# Ascoglena Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

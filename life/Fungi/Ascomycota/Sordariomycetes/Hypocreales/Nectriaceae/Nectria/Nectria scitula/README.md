@@ -1,5 +1,4 @@
-Nectria scitula Syd. SPECIES
-=======
+# Nectria scitula Syd. SPECIES
 
 #### Status
 ACCEPTED

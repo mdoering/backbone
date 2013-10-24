@@ -1,5 +1,4 @@
-Leucopaxillus lentus (Sacc.) Courtec. SPECIES
-=======
+# Leucopaxillus lentus (Sacc.) Courtec. SPECIES
 
 #### Status
 ACCEPTED

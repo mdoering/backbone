@@ -1,17 +1,16 @@
-Hymenochaete mougeotii f. murashkinskyi (Pilát) Litsch. FORM
-=======
+# Hymenochaete mougeotii (Fr.) Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. Sinicae, Bot. 2: 43 (1937)
+J. Linn. Soc. , Bot. 27: 111 (1890)
 
 #### Original name
-Hymenochaete murashkinskyi Pilát
+Thelephora mougeotii Fr., 1828
 
 ### Remarks
 null

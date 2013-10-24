@@ -1,5 +1,4 @@
-Endothia macrospora Kobay. {?} & Kaz. Itô SPECIES
-=======
+# Endothia macrospora Kobay. {?} & Kaz. Itô SPECIES
 
 #### Status
 ACCEPTED

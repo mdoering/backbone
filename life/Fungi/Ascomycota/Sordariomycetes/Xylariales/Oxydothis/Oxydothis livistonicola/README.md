@@ -1,5 +1,4 @@
-Oxydothis livistonicola K.D. Hyde SPECIES
-=======
+# Oxydothis livistonicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

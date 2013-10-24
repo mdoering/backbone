@@ -1,5 +1,4 @@
-Ustilaginoidea flavonigrescens (Berk. & M.A. Curtis) Henn. SPECIES
-=======
+# Ustilaginoidea flavonigrescens (Berk. & M.A. Curtis) Henn. SPECIES
 
 #### Status
 ACCEPTED

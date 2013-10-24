@@ -1,5 +1,4 @@
-Phormidium biforme Schwabe SPECIES
-=======
+# Phormidium biforme Schwabe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achaetomium J.N. Rai, J.P. Tewari & Mukerji GENUS
-=======
+# Achaetomium J.N. Rai, J.P. Tewari & Mukerji GENUS
 
 #### Status
 ACCEPTED

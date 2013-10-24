@@ -1,5 +1,4 @@
-Rotiferophthora prolata Glockling SPECIES
-=======
+# Rotiferophthora prolata Glockling SPECIES
 
 #### Status
 ACCEPTED

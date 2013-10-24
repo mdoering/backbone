@@ -1,5 +1,4 @@
-Coronocladia GENUS
-=======
+# Coronocladia GENUS
 
 #### Status
 ACCEPTED

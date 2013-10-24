@@ -1,5 +1,4 @@
-Globigerinita humilis Brady SPECIES
-=======
+# Globigerinita humilis Brady SPECIES
 
 #### Status
 ACCEPTED

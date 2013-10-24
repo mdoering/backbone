@@ -1,5 +1,4 @@
-Phylloporus sulphureus (Berk.) Singer SPECIES
-=======
+# Phylloporus sulphureus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

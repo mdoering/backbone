@@ -1,5 +1,4 @@
-Trichaptum flavum (Jungh.) G. Cunn. SPECIES
-=======
+# Trichaptum flavum (Jungh.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

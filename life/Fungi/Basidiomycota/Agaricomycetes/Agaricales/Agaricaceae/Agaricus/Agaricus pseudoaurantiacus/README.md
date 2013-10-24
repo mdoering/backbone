@@ -1,5 +1,4 @@
-Agaricus pseudoaurantiacus Iordanov {?}, Vanev & Fakirova SPECIES
-=======
+# Agaricus pseudoaurantiacus Iordanov {?}, Vanev & Fakirova SPECIES
 
 #### Status
 ACCEPTED

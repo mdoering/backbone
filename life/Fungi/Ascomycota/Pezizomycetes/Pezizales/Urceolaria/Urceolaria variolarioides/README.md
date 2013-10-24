@@ -1,5 +1,4 @@
-Urceolaria variolarioides Pers. SPECIES
-=======
+# Urceolaria variolarioides Pers. SPECIES
 
 #### Status
 ACCEPTED

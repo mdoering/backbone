@@ -1,17 +1,16 @@
-Corticium gemmiferum thymicola Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Coronicium thymicola (Bourdot & Galzin) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 8(3): 301 (1975)
 
 #### Original name
-null
+Corticium gemmiferum thymicola Bourdot & Galzin, 1928
 
 ### Remarks
 null

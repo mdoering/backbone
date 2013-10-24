@@ -1,5 +1,4 @@
-Phyllosticta muehlenbeckiana Caball. SPECIES
-=======
+# Phyllosticta muehlenbeckiana Caball. SPECIES
 
 #### Status
 ACCEPTED

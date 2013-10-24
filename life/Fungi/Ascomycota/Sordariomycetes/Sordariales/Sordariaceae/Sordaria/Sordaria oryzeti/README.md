@@ -1,5 +1,4 @@
-Sordaria oryzeti Sacc. SPECIES
-=======
+# Sordaria oryzeti Sacc. SPECIES
 
 #### Status
 ACCEPTED

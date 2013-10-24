@@ -1,5 +1,4 @@
-Aecidiolum tussilaginis Sacc. SPECIES
-=======
+# Aecidiolum tussilaginis Sacc. SPECIES
 
 #### Status
 ACCEPTED

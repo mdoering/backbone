@@ -1,5 +1,4 @@
-Caloplaca praeruptorum Poelt & Hinter. SPECIES
-=======
+# Caloplaca praeruptorum Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

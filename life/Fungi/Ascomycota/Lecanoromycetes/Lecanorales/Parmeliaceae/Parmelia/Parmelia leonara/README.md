@@ -1,5 +1,4 @@
-Parmelia leonara Spreng. SPECIES
-=======
+# Parmelia leonara Spreng. SPECIES
 
 #### Status
 ACCEPTED

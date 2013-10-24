@@ -1,5 +1,4 @@
-Maribacter ulvicola Nedashkovskaya et al., 2004 SPECIES
-=======
+# Maribacter ulvicola Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

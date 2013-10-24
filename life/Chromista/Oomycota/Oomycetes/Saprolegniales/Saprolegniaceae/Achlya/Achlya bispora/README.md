@@ -1,5 +1,4 @@
-Achlya bispora (Couch) Langsam, 1986 SPECIES
-=======
+# Achlya bispora (Couch) Langsam, 1986 SPECIES
 
 #### Status
 ACCEPTED

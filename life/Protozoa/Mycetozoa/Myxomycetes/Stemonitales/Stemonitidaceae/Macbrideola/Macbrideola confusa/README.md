@@ -1,5 +1,4 @@
-Macbrideola confusa Nann.-Bremek. & Y. Yamam., 1983 SPECIES
-=======
+# Macbrideola confusa Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
 ACCEPTED

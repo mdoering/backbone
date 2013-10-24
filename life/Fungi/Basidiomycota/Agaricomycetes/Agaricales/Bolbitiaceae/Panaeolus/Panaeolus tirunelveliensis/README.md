@@ -1,5 +1,4 @@
-Panaeolus tirunelveliensis (Natarajan & Raman) Ew. Gerhardt SPECIES
-=======
+# Panaeolus tirunelveliensis (Natarajan & Raman) Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

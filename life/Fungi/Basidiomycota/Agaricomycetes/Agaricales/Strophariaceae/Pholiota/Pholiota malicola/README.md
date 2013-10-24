@@ -1,14 +1,13 @@
-Flammula malicola Kauffman, 1926 SPECIES
-=======
+# Pholiota malicola (Kauffman) A.H. Sm., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 13: 24 (1926)
+Annls mycol. 32(5-6): 480 (1934)
 
 #### Original name
 Flammula malicola Kauffman, 1926

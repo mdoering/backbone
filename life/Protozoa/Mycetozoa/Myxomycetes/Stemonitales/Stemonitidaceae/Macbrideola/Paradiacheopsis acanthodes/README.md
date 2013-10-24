@@ -1,14 +1,13 @@
-Comatricha acanthodes Alexop., 1958 SPECIES
-=======
+# Paradiacheopsis acanthodes (Alexop.) Nann.-Bremek., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(1): 53 (1958)
+in Nannenga-Bremekamp & Yamamoto, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 70: 209 (1986)
 
 #### Original name
 Comatricha acanthodes Alexop., 1958

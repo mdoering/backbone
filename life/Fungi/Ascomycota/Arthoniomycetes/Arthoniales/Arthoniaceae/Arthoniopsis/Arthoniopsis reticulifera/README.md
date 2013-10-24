@@ -1,5 +1,4 @@
-Arthoniopsis reticulifera (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis reticulifera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

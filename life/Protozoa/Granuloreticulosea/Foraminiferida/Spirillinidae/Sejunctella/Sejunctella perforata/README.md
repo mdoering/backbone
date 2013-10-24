@@ -1,5 +1,4 @@
-Sejunctella perforata Yassini & Jones, 1995 SPECIES
-=======
+# Sejunctella perforata Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

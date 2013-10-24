@@ -1,17 +1,16 @@
-Diderma carneum var. album Nann.-Bremek. & Loer. VARIETY
-=======
+# Diderma carneum Nann.-Bremek., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 84(2): 240 (1981)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 71(2): 198 (1968)
 
 #### Original name
-Diderma carneum var. album Nann.-Bremek. & Loer.
+Diderma carneum Nann.-Bremek., 1968
 
 ### Remarks
 null

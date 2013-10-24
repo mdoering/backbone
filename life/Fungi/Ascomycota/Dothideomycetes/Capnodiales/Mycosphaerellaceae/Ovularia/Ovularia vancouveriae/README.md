@@ -1,5 +1,4 @@
-Ovularia vancouveriae Ellis & Everh. SPECIES
-=======
+# Ovularia vancouveriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

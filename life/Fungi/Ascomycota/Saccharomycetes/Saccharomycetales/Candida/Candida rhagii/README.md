@@ -1,5 +1,4 @@
-Candida rhagii (Diddens & Lodder) Jurzitza, Kühlw. & Kreger-van Rij, 1960 SPECIES
-=======
+# Candida rhagii (Diddens & Lodder) Jurzitza, Kühlw. & Kreger-van Rij, 1960 SPECIES
 
 #### Status
 ACCEPTED

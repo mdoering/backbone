@@ -1,5 +1,4 @@
-Desmazieria combeoides (Nyl.) Follmann & Huneck SPECIES
-=======
+# Desmazieria combeoides (Nyl.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

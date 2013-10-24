@@ -1,5 +1,4 @@
-Aurantimonas litoralis Anderson, Dick, Chu, Brauer, Cho & Tebo, 2009 SPECIES
-=======
+# Aurantimonas litoralis Anderson, Dick, Chu, Brauer, Cho & Tebo, 2009 SPECIES
 
 #### Status
 ACCEPTED

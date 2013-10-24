@@ -1,5 +1,4 @@
-Balansia borealis Tranzschel SPECIES
-=======
+# Balansia borealis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gyrophila equestris var. aurata (Paulet) Quél., 1886 VARIETY
-=======
+# Tricholoma equestre (L. Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

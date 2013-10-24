@@ -1,5 +1,4 @@
-Rhabdospora vorosii Negru SPECIES
-=======
+# Rhabdospora vorosii Negru SPECIES
 
 #### Status
 ACCEPTED

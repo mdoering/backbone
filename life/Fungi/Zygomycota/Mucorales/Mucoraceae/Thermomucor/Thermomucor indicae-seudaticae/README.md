@@ -1,17 +1,16 @@
-Mucor indicae-seudaticae Schipper, Samson & Stalpers, 1976 SPECIES
-=======
+# Thermomucor indicae-seudaticae Subrahm., B.S. Mehrotra & Thirum., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Georgia J. Sci. 35(1): 1 (1977)
 
 #### Original name
-null
+Thermomucor indicae-seudaticae Subrahm., B.S. Mehrotra & Thirum., 1977
 
 ### Remarks
 null

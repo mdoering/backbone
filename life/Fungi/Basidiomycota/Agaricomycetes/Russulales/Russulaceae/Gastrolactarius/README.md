@@ -1,5 +1,4 @@
-Gastrolactarius R. Heim ex J.M. Vidal GENUS
-=======
+# Gastrolactarius R. Heim ex J.M. Vidal GENUS
 
 #### Status
 ACCEPTED

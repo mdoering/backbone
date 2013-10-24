@@ -1,5 +1,4 @@
-Xylaria portentosa (Mont.) Mont. SPECIES
-=======
+# Xylaria portentosa (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

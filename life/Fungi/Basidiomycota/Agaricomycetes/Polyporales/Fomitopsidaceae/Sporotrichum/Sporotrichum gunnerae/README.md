@@ -1,5 +1,4 @@
-Sporotrichum gunnerae Oudem. SPECIES
-=======
+# Sporotrichum gunnerae Oudem. SPECIES
 
 #### Status
 ACCEPTED

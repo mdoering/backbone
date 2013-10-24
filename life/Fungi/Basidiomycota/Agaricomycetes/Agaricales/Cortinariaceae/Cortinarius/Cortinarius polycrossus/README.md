@@ -1,5 +1,4 @@
-Cortinarius polycrossus Rob. Henry SPECIES
-=======
+# Cortinarius polycrossus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

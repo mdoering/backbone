@@ -1,5 +1,4 @@
-Colletotrichum latium J.Yi Li & X.M. Wang SPECIES
-=======
+# Colletotrichum latium J.Yi Li & X.M. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis euphorbiae Sawada, 1959 SPECIES
-=======
+# Phomopsis euphorbiae Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

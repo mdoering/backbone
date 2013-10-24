@@ -1,5 +1,4 @@
-Gallionellaceae FAMILY
-=======
+# Gallionellaceae FAMILY
 
 #### Status
 ACCEPTED

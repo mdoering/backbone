@@ -1,5 +1,4 @@
-Erysiphe rubi Fuckel SPECIES
-=======
+# Erysiphe rubi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia mahoniae Cummins SPECIES
-=======
+# Puccinia mahoniae Cummins SPECIES
 
 #### Status
 ACCEPTED

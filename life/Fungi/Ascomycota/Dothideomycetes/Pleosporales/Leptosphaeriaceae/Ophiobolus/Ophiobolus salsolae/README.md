@@ -1,5 +1,4 @@
-Ophiobolus salsolae Urries SPECIES
-=======
+# Ophiobolus salsolae Urries SPECIES
 
 #### Status
 ACCEPTED

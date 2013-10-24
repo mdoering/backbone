@@ -1,5 +1,4 @@
-Cortinarius sublargus Jul. Schäff. SPECIES
-=======
+# Cortinarius sublargus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

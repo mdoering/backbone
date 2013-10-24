@@ -1,5 +1,4 @@
-Cortinarius suaveolens Bataille & Joachim SPECIES
-=======
+# Cortinarius suaveolens Bataille & Joachim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gomphidius ochraceus subsp. superiorensis (Kauffman & A.H. Sm.) Singer SUBSPECIES
-=======
+# Chroogomphus superiorensis (Kauffman & A.H. Sm.) Singer, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41: 472 (1949)
+Agaric. mod. Tax. (Vaduz), Edn 3 697 (1975)
 
 #### Original name
 Gomphidius superiorensis Kauffman & A.H. Sm., 1933

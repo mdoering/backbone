@@ -1,5 +1,4 @@
-Cadophora fastigiata Lagerb. & Melin, 1927 SPECIES
-=======
+# Cadophora fastigiata Lagerb. & Melin, 1927 SPECIES
 
 #### Status
 ACCEPTED

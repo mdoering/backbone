@@ -1,5 +1,4 @@
-Ramalina capensis Th. Fr. SPECIES
-=======
+# Ramalina capensis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium senseletii Bhat & B. Sutton, 1985 SPECIES
-=======
+# Helminthosporium senseletii Bhat & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

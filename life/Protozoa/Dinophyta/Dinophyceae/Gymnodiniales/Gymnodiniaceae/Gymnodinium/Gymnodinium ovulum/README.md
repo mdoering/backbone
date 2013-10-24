@@ -1,5 +1,4 @@
-Gymnodinium ovulum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium ovulum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

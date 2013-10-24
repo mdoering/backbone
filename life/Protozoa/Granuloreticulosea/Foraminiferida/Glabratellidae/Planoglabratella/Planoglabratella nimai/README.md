@@ -1,5 +1,4 @@
-Planoglabratella nimai Yassini & Jones, 1995 SPECIES
-=======
+# Planoglabratella nimai Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

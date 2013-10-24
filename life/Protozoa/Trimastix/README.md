@@ -1,5 +1,4 @@
-Trimastix W.S.Kent GENUS
-=======
+# Trimastix W.S.Kent GENUS
 
 #### Status
 ACCEPTED

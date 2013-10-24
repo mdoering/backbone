@@ -1,5 +1,4 @@
-Ophioidina Mingazzini, 1891 GENUS
-=======
+# Ophioidina Mingazzini, 1891 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asiamoeba Telford, 1988 GENUS
-=======
+# Asiamoeba Telford, 1988 GENUS
 
 #### Status
 ACCEPTED

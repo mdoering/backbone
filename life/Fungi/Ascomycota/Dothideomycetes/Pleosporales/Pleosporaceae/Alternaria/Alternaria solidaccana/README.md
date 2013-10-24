@@ -1,5 +1,4 @@
-Alternaria solidaccana E.G. Simmons SPECIES
-=======
+# Alternaria solidaccana E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

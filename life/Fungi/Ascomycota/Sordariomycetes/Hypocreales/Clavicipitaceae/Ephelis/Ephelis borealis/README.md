@@ -1,5 +1,4 @@
-Ephelis borealis Ellis & Everh. SPECIES
-=======
+# Ephelis borealis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

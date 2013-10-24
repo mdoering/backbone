@@ -1,5 +1,4 @@
-Pocillaria areolata (Berk.) Kuntze SPECIES
-=======
+# Pocillaria areolata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera urticae Velen. SPECIES
-=======
+# Galera urticae Velen. SPECIES
 
 #### Status
 ACCEPTED

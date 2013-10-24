@@ -1,5 +1,4 @@
-Diloma primitiva (Worsley, 1971) Wind & Cepek, 1979 SPECIES
-=======
+# Diloma primitiva (Worsley, 1971) Wind & Cepek, 1979 SPECIES
 
 #### Status
 ACCEPTED

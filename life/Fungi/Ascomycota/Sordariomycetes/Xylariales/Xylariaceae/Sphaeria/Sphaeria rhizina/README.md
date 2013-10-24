@@ -1,5 +1,4 @@
-Sphaeria rhizina Schwein. SPECIES
-=======
+# Sphaeria rhizina Schwein. SPECIES
 
 #### Status
 ACCEPTED

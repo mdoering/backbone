@@ -1,5 +1,4 @@
-Tapesia tenebrosa (P. Karst.) Nannf. SPECIES
-=======
+# Tapesia tenebrosa (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

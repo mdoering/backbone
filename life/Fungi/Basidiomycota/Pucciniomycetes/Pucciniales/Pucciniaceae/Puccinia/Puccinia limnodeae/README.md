@@ -1,5 +1,4 @@
-Puccinia limnodeae Cummins SPECIES
-=======
+# Puccinia limnodeae Cummins SPECIES
 
 #### Status
 ACCEPTED

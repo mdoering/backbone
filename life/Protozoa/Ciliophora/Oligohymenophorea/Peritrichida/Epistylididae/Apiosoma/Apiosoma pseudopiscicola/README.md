@@ -1,5 +1,4 @@
-Apiosoma pseudopiscicola SPECIES
-=======
+# Apiosoma pseudopiscicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sowerbyella laevispora W.Y. Zhuang, 2009 SPECIES
-=======
+# Sowerbyella laevispora W.Y. Zhuang, 2009 SPECIES
 
 #### Status
 ACCEPTED

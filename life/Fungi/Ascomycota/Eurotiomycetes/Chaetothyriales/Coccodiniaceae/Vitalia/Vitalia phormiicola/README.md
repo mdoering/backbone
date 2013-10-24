@@ -1,5 +1,4 @@
-Vitalia phormiicola Bat., Nascim. & Cif. SPECIES
-=======
+# Vitalia phormiicola Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

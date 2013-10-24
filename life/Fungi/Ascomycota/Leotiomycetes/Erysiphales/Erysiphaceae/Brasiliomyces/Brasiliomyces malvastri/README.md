@@ -1,5 +1,4 @@
-Brasiliomyces malvastri Viégas, 1944 SPECIES
-=======
+# Brasiliomyces malvastri Viégas, 1944 SPECIES
 
 #### Status
 ACCEPTED

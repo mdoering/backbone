@@ -1,5 +1,4 @@
-Selenophoma desmazieri (Sacc.) Jørst. SPECIES
-=======
+# Selenophoma desmazieri (Sacc.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

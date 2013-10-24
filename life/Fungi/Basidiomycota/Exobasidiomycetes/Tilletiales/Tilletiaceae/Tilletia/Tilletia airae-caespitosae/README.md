@@ -1,5 +1,4 @@
-Tilletia airae-caespitosae Lindr. SPECIES
-=======
+# Tilletia airae-caespitosae Lindr. SPECIES
 
 #### Status
 ACCEPTED

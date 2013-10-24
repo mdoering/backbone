@@ -1,5 +1,4 @@
-Agaricus ferrugineus Pers. SPECIES
-=======
+# Agaricus ferrugineus Pers. SPECIES
 
 #### Status
 ACCEPTED

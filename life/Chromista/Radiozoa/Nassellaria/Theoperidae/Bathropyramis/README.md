@@ -1,5 +1,4 @@
-Bathropyramis Haeckel, 1881 GENUS
-=======
+# Bathropyramis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

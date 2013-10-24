@@ -1,17 +1,16 @@
-Vampirella Pénard, 1890 GENUS
-=======
+# Vampyrella Cienkowsky, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau Ver. Naturk. , 43, 69.
+Arch. Micr. Anat. , Bonn, 1865, 218.
 
 #### Original name
-null
+Vampyrella Cienkowsky, 1865
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridium spinosum (Volkova, 1969) Moczydlowska, 1991 SPECIES
-=======
+# Asteridium spinosum (Volkova, 1969) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

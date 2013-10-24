@@ -1,5 +1,4 @@
-Hesperomyces Thaxt. GENUS
-=======
+# Hesperomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

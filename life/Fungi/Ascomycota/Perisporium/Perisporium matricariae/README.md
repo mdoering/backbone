@@ -1,5 +1,4 @@
-Perisporium matricariae Richon SPECIES
-=======
+# Perisporium matricariae Richon SPECIES
 
 #### Status
 ACCEPTED

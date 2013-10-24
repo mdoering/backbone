@@ -1,17 +1,16 @@
-Drechslera siccans (Drechsler) Shoemaker, 1959 SPECIES
-=======
+# Pyrenophora lolii Dovaston, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 37: 881 (1959)
+Trans. Br. mycol. Soc. 31: 251 (1948)
 
 #### Original name
-Helminthosporium siccans Drechsler, 1923
+Pyrenophora lolii Dovaston, 1948
 
 ### Remarks
 null

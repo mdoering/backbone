@@ -1,5 +1,4 @@
-Platysma placorodium (Ach.) H. Olivier SPECIES
-=======
+# Platysma placorodium (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

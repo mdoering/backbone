@@ -1,5 +1,4 @@
-Camarosporium gnidii Nann. SPECIES
-=======
+# Camarosporium gnidii Nann. SPECIES
 
 #### Status
 ACCEPTED

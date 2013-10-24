@@ -1,14 +1,13 @@
-Phomatospora ovalis (Pass.) Sacc., 1882 SPECIES
-=======
+# Mycosticta ovalis (Pass.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 16(1/2): 36 (1918)
 
 #### Original name
 Sphaeria ovalis Pass., 1872

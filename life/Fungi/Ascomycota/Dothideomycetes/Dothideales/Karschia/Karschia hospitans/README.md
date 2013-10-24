@@ -1,5 +1,4 @@
-Karschia hospitans (Th. Fr.) Keissl. SPECIES
-=======
+# Karschia hospitans (Th. Fr.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

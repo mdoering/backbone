@@ -1,5 +1,4 @@
-Phoma polymorpha Verona SPECIES
-=======
+# Phoma polymorpha Verona SPECIES
 
 #### Status
 ACCEPTED

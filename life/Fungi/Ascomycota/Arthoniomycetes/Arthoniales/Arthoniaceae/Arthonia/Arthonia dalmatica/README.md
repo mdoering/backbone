@@ -1,5 +1,4 @@
-Arthonia dalmatica Zahlbr. SPECIES
-=======
+# Arthonia dalmatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

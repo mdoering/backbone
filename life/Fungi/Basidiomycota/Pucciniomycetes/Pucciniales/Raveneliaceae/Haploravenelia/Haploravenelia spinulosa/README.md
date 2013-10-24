@@ -1,5 +1,4 @@
-Haploravenelia spinulosa (Dietel & Holw.) Syd. SPECIES
-=======
+# Haploravenelia spinulosa (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

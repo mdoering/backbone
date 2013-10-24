@@ -1,5 +1,4 @@
-Pseudohyperammina Crespin, 1958 GENUS
-=======
+# Pseudohyperammina Crespin, 1958 GENUS
 
 #### Status
 ACCEPTED

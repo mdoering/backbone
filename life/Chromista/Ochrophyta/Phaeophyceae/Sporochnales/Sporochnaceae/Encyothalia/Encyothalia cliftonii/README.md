@@ -1,5 +1,4 @@
-Encyothalia cliftonii Harvey SPECIES
-=======
+# Encyothalia cliftonii Harvey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum cinereobadium Fr. SPECIES
-=======
+# Stereum cinereobadium Fr. SPECIES
 
 #### Status
 ACCEPTED

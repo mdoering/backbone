@@ -1,5 +1,4 @@
-Nucellosphaeridium magnum P. K. Maithy SPECIES
-=======
+# Nucellosphaeridium magnum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

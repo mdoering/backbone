@@ -1,5 +1,4 @@
-Tintinnopsis tenuis Hada, 1932 SPECIES
-=======
+# Tintinnopsis tenuis Hada, 1932 SPECIES
 
 #### Status
 ACCEPTED

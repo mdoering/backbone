@@ -1,5 +1,4 @@
-Stentor acrobaticus Silén, 1948 SPECIES
-=======
+# Stentor acrobaticus Silén, 1948 SPECIES
 
 #### Status
 ACCEPTED

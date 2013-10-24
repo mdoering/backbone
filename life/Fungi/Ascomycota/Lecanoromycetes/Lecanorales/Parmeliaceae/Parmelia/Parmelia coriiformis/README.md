@@ -1,5 +1,4 @@
-Parmelia coriiformis (Wulfen) Ach. SPECIES
-=======
+# Parmelia coriiformis (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

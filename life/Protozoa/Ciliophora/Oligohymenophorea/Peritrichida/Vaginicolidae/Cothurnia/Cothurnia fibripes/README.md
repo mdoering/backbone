@@ -1,5 +1,4 @@
-Cothurnia fibripes Kahl, 1933 SPECIES
-=======
+# Cothurnia fibripes Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

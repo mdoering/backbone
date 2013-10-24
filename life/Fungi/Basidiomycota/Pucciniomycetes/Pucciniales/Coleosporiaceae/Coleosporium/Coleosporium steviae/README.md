@@ -1,5 +1,4 @@
-Coleosporium steviae Arthur SPECIES
-=======
+# Coleosporium steviae Arthur SPECIES
 
 #### Status
 ACCEPTED

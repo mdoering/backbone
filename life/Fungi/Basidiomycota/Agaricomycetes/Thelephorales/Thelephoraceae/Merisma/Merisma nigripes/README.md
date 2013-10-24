@@ -1,5 +1,4 @@
-Merisma nigripes Schwein. SPECIES
-=======
+# Merisma nigripes Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus fuscoalbus Sowerby SPECIES
-=======
+# Boletus fuscoalbus Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithomyces variegatae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces variegatae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

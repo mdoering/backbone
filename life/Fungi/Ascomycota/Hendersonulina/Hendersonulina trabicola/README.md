@@ -1,5 +1,4 @@
-Hendersonulina trabicola (Sacc.) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Hendersonulina trabicola (Sacc.) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

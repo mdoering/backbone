@@ -1,5 +1,4 @@
-Arachnocalpis Haeckel, 1881 GENUS
-=======
+# Arachnocalpis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

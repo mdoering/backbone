@@ -1,5 +1,4 @@
-Puccinia lagunensis Jørst. SPECIES
-=======
+# Puccinia lagunensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

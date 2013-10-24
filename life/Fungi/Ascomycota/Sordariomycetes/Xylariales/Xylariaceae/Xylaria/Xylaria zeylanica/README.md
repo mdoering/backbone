@@ -1,5 +1,4 @@
-Xylaria zeylanica Berk. SPECIES
-=======
+# Xylaria zeylanica Berk. SPECIES
 
 #### Status
 ACCEPTED

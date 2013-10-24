@@ -1,17 +1,16 @@
-Berlesiella nigerrima var. nigerrima VARIETY
-=======
+# Capronia nigerrima (R.R. Bloxam) M.E. Barr, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 10: 7 (1888)
+Mycotaxon 41(2): 431 (1991)
 
 #### Original name
-Berlesiella nigerrima var. nigerrima
+Sphaeria nigerrima R.R. Bloxam, 1859
 
 ### Remarks
 null

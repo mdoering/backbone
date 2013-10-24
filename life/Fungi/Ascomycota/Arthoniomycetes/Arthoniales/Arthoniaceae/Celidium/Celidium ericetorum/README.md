@@ -1,5 +1,4 @@
-Celidium ericetorum (Flot.) Rehm SPECIES
-=======
+# Celidium ericetorum (Flot.) Rehm SPECIES
 
 #### Status
 ACCEPTED

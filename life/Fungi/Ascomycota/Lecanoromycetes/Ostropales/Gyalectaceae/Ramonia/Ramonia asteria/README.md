@@ -1,5 +1,4 @@
-Ramonia asteria Tuck. SPECIES
-=======
+# Ramonia asteria Tuck. SPECIES
 
 #### Status
 ACCEPTED

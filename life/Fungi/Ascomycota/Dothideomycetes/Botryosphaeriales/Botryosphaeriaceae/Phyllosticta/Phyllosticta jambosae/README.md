@@ -1,5 +1,4 @@
-Phyllosticta jambosae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta jambosae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rooseveltiana Murrill SPECIES
-=======
+# Russula rooseveltiana Murrill SPECIES
 
 #### Status
 ACCEPTED

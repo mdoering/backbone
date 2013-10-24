@@ -1,5 +1,4 @@
-Cyanodermatium violaceum Geitler SPECIES
-=======
+# Cyanodermatium violaceum Geitler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piersonia GENUS
-=======
+# Piersonia GENUS
 
 #### Status
 ACCEPTED

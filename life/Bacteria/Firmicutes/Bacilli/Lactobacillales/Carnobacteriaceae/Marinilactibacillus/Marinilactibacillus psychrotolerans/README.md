@@ -1,5 +1,4 @@
-Marinilactibacillus psychrotolerans Ishikawa et al., 2003 SPECIES
-=======
+# Marinilactibacillus psychrotolerans Ishikawa et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

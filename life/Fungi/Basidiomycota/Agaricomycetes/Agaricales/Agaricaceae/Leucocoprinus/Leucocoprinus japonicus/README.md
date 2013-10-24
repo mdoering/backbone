@@ -1,5 +1,4 @@
-Leucocoprinus japonicus (Kawam. ex Hongo) S. Ito SPECIES
-=======
+# Leucocoprinus japonicus (Kawam. ex Hongo) S. Ito SPECIES
 
 #### Status
 ACCEPTED

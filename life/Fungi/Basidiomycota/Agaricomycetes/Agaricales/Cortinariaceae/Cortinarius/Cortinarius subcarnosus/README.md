@@ -1,5 +1,4 @@
-Cortinarius subcarnosus Britzelm. SPECIES
-=======
+# Cortinarius subcarnosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

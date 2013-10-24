@@ -1,5 +1,4 @@
-Opegrapha subrimalis Nyl. SPECIES
-=======
+# Opegrapha subrimalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

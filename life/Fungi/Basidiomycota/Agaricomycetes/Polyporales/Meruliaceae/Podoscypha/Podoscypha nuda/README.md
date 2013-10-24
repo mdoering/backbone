@@ -1,5 +1,4 @@
-Podoscypha nuda Boidin, 1966 SPECIES
-=======
+# Podoscypha nuda Boidin, 1966 SPECIES
 
 #### Status
 ACCEPTED

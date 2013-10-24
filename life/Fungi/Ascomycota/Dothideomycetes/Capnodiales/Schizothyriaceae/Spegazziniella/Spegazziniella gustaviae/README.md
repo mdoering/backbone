@@ -1,5 +1,4 @@
-Spegazziniella gustaviae Bat. & Nascim. SPECIES
-=======
+# Spegazziniella gustaviae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

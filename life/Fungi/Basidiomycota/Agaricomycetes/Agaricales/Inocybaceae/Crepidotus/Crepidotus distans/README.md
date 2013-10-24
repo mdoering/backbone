@@ -1,5 +1,4 @@
-Crepidotus distans Peck SPECIES
-=======
+# Crepidotus distans Peck SPECIES
 
 #### Status
 ACCEPTED

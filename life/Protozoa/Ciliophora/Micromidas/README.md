@@ -1,5 +1,4 @@
-Micromidas Delphy, 1938 GENUS
-=======
+# Micromidas Delphy, 1938 GENUS
 
 #### Status
 ACCEPTED

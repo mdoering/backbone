@@ -1,8 +1,7 @@
-Biatora apochroceella (Nyl.) Arnold SPECIES
-=======
+# Biatora apochroeella (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

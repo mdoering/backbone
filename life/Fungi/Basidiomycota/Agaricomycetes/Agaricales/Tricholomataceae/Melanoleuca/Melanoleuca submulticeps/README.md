@@ -1,5 +1,4 @@
-Melanoleuca submulticeps Murrill SPECIES
-=======
+# Melanoleuca submulticeps Murrill SPECIES
 
 #### Status
 ACCEPTED

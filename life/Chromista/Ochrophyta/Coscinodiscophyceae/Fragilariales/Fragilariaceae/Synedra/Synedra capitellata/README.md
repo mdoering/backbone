@@ -1,5 +1,4 @@
-Synedra capitellata Grunow SPECIES
-=======
+# Synedra capitellata Grunow SPECIES
 
 #### Status
 ACCEPTED

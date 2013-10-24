@@ -1,5 +1,4 @@
-Laestadia coptis (Schwein.) Ellis & Everh. SPECIES
-=======
+# Laestadia coptis (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus roseodiscoideus Bon & Chevassut SPECIES
-=======
+# Hygrophorus roseodiscoideus Bon & Chevassut SPECIES
 
 #### Status
 ACCEPTED

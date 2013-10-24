@@ -1,5 +1,4 @@
-Hypoxylon hyperythrum Mont. SPECIES
-=======
+# Hypoxylon hyperythrum Mont. SPECIES
 
 #### Status
 ACCEPTED

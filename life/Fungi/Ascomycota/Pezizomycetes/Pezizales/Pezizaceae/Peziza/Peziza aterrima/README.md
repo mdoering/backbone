@@ -1,5 +1,4 @@
-Peziza aterrima Lasch SPECIES
-=======
+# Peziza aterrima Lasch SPECIES
 
 #### Status
 ACCEPTED

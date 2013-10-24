@@ -1,8 +1,7 @@
-Steiniella mitra Schutt SPECIES
-=======
+# Schuettiella mitra (Schütt) E. Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

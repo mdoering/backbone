@@ -1,5 +1,4 @@
-Photobacterium GENUS
-=======
+# Photobacterium GENUS
 
 #### Status
 ACCEPTED

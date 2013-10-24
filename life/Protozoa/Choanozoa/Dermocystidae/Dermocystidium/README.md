@@ -1,5 +1,4 @@
-Dermocystidium Pérez GENUS
-=======
+# Dermocystidium Pérez GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanocapsa albida Zeller SPECIES
-=======
+# Aphanocapsa albida Zeller SPECIES
 
 #### Status
 ACCEPTED

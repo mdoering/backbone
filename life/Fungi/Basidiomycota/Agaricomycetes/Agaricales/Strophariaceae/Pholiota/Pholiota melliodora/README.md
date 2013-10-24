@@ -1,5 +1,4 @@
-Pholiota melliodora A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota melliodora A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

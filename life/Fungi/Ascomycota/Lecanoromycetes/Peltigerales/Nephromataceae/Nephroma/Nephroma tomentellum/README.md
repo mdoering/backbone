@@ -1,5 +1,4 @@
-Nephroma tomentellum Inumaru SPECIES
-=======
+# Nephroma tomentellum Inumaru SPECIES
 
 #### Status
 ACCEPTED

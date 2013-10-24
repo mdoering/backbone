@@ -1,5 +1,4 @@
-Entoloma xylophilum Speg. SPECIES
-=======
+# Entoloma xylophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

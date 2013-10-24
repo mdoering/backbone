@@ -1,5 +1,4 @@
-Tracheloraphis haloetes Borror, 1973 SPECIES
-=======
+# Tracheloraphis haloetes Borror, 1973 SPECIES
 
 #### Status
 ACCEPTED

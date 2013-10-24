@@ -1,5 +1,4 @@
-Inocybe conveniens Schulzer SPECIES
-=======
+# Inocybe conveniens Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora thamnoliicola Ihlen SPECIES
-=======
+# Cercidospora thamnoliicola Ihlen SPECIES
 
 #### Status
 ACCEPTED

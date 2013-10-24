@@ -1,5 +1,4 @@
-Pezicula pumilionis Rehm SPECIES
-=======
+# Pezicula pumilionis Rehm SPECIES
 
 #### Status
 ACCEPTED

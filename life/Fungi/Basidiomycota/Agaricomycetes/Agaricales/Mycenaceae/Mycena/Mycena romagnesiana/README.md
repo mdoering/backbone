@@ -1,5 +1,4 @@
-Mycena romagnesiana Maas Geest. SPECIES
-=======
+# Mycena romagnesiana Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

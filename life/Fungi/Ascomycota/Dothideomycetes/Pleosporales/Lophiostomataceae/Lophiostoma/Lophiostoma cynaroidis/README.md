@@ -1,5 +1,4 @@
-Lophiostoma cynaroidis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Lophiostoma cynaroidis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

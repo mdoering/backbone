@@ -1,5 +1,4 @@
-Oothecium macarangae Petr. SPECIES
-=======
+# Oothecium macarangae Petr. SPECIES
 
 #### Status
 ACCEPTED

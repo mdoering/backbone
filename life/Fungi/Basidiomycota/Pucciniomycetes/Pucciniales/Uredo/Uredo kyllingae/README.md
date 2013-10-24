@@ -1,5 +1,4 @@
-Uredo kyllingae var. kyllingae VARIETY
-=======
+# Uredo kyllingae Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 35: 256 (1896)
 
 #### Original name
-Uredo kyllingae var. kyllingae
+Uredo kyllingae Henn.
 
 ### Remarks
 null

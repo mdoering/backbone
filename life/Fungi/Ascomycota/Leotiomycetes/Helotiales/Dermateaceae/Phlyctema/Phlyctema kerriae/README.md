@@ -1,5 +1,4 @@
-Phlyctema kerriae P. Karst. SPECIES
-=======
+# Phlyctema kerriae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

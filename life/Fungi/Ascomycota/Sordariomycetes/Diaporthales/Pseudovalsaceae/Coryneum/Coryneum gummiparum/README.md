@@ -1,5 +1,4 @@
-Coryneum gummiparum Oudem. SPECIES
-=======
+# Coryneum gummiparum Oudem. SPECIES
 
 #### Status
 ACCEPTED

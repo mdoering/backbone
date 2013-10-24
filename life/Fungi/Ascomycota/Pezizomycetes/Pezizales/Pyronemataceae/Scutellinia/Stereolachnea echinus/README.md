@@ -1,5 +1,4 @@
-Stereolachnea echinus Höhn. SPECIES
-=======
+# Stereolachnea echinus Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltina GENUS
-=======
+# Stomiopeltina GENUS
 
 #### Status
 ACCEPTED

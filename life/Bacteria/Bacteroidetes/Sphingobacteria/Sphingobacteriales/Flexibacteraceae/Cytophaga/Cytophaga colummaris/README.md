@@ -1,5 +1,4 @@
-Cytophaga colummaris SPECIES
-=======
+# Cytophaga colummaris SPECIES
 
 #### Status
 ACCEPTED

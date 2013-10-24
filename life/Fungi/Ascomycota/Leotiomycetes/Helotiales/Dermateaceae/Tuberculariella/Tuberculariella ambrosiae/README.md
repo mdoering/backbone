@@ -1,5 +1,4 @@
-Tuberculariella ambrosiae A. Funk SPECIES
-=======
+# Tuberculariella ambrosiae A. Funk SPECIES
 
 #### Status
 ACCEPTED

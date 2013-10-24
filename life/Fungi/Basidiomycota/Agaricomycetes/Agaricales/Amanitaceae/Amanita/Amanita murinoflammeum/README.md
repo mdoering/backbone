@@ -1,5 +1,4 @@
-Amanita murinoflammeum Tulloss, A.M. Young & A.E. Wood SPECIES
-=======
+# Amanita murinoflammeum Tulloss, A.M. Young & A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

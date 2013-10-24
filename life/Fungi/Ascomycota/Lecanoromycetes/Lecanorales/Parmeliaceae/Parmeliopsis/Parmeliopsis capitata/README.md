@@ -1,5 +1,4 @@
-Parmeliopsis capitata R. C. Harris SPECIES
-=======
+# Parmeliopsis capitata R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

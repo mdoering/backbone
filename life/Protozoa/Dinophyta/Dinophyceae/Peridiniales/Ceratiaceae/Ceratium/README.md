@@ -1,14 +1,13 @@
-Hirundinella J.B.G. Bory de St.-Vincent, 1827 GENUS
-=======
+# Ceratium Schrank, 1793 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ency. Méth. (Zooph. ), 455.
+Naturforscher, 17, 34.
 
 #### Original name
 null

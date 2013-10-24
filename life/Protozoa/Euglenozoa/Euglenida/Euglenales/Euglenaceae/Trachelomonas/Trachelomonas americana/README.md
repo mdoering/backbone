@@ -1,5 +1,4 @@
-Trachelomonas americana Lemmermann SPECIES
-=======
+# Trachelomonas americana Lemmermann SPECIES
 
 #### Status
 ACCEPTED

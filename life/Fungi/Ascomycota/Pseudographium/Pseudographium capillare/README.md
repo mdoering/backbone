@@ -1,5 +1,4 @@
-Pseudographium capillare (Ellis & Harkn.) Jacz. SPECIES
-=======
+# Pseudographium capillare (Ellis & Harkn.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

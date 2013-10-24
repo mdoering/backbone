@@ -1,17 +1,16 @@
-Mucor griseoochraceus Naumov, 1915 SPECIES
-=======
+# Mucor mucedo Fresen., 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Mykol. 1: 7 (1850)
 
 #### Original name
-null
+Mucor mucedo Fresen., 1850
 
 ### Remarks
 null

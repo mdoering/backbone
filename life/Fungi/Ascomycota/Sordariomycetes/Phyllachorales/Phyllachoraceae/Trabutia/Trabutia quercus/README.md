@@ -1,5 +1,4 @@
-Trabutia quercus (F. Stevens) Petr. SPECIES
-=======
+# Trabutia quercus (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

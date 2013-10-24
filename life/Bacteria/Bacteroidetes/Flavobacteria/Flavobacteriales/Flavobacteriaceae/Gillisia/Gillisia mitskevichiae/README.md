@@ -1,5 +1,4 @@
-Gillisia mitskevichiae Nedashkovskaya et al., 2005 SPECIES
-=======
+# Gillisia mitskevichiae Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

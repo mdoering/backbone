@@ -1,5 +1,4 @@
-Dictyopsophosphaera Naumova, 1964 GENUS
-=======
+# Dictyopsophosphaera Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

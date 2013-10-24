@@ -1,5 +1,4 @@
-Parmelia skultii Hale SPECIES
-=======
+# Parmelia skultii Hale SPECIES
 
 #### Status
 ACCEPTED

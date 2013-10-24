@@ -1,5 +1,4 @@
-Epipyxis diplostoma (Jane) Hilliard & Asmund SPECIES
-=======
+# Epipyxis diplostoma (Jane) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

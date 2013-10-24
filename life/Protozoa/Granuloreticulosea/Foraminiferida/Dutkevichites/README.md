@@ -1,5 +1,4 @@
-Dutkevichites Davydov, 1984 GENUS
-=======
+# Dutkevichites Davydov, 1984 GENUS
 
 #### Status
 ACCEPTED

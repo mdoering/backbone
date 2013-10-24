@@ -1,5 +1,4 @@
-Aposphaeria mucifera (Berk.) Sacc. SPECIES
-=======
+# Aposphaeria mucifera (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

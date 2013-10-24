@@ -1,5 +1,4 @@
-Lecanora connectens J. Steiner SPECIES
-=======
+# Lecanora connectens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha mollisiaeformis Velen. SPECIES
-=======
+# Hyaloscypha mollisiaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

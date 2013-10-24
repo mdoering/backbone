@@ -1,5 +1,4 @@
-Scolecopeltidium saccoglottidis Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium saccoglottidis Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

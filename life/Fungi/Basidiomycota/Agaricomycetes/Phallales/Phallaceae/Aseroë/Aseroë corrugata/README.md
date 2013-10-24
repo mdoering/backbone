@@ -1,5 +1,4 @@
-Aseroë corrugata Colenso SPECIES
-=======
+# Aseroë corrugata Colenso SPECIES
 
 #### Status
 ACCEPTED

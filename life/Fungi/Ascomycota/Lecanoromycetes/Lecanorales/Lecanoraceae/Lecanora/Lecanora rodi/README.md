@@ -1,5 +1,4 @@
-Lecanora rodi Szatala SPECIES
-=======
+# Lecanora rodi Szatala SPECIES
 
 #### Status
 ACCEPTED

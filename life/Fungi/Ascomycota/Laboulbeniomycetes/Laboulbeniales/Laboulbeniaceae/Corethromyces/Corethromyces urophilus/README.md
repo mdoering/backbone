@@ -1,5 +1,4 @@
-Corethromyces urophilus Thaxt. SPECIES
-=======
+# Corethromyces urophilus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnophialophora S. Hughes GENUS
-=======
+# Capnophialophora S. Hughes GENUS
 
 #### Status
 ACCEPTED

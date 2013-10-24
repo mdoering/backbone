@@ -1,5 +1,4 @@
-Polymorphinella vaginulinaeformis Cushman & Hanzawa, 1936 SPECIES
-=======
+# Polymorphinella vaginulinaeformis Cushman & Hanzawa, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium thermosuccinogenes Drent et al., 1995 SPECIES
-=======
+# Clostridium thermosuccinogenes Drent et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

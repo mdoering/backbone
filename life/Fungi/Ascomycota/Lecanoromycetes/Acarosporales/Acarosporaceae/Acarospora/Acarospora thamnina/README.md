@@ -1,5 +1,4 @@
-Acarospora thamnina (Tuck.) Herre SPECIES
-=======
+# Acarospora thamnina (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira echinata H. J. Semina SPECIES
-=======
+# Thalassiosira echinata H. J. Semina SPECIES
 
 #### Status
 ACCEPTED

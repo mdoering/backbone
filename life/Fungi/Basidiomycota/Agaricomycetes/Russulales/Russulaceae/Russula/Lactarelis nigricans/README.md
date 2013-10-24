@@ -1,5 +1,4 @@
-Lactarelis nigricans (Bull.) Earle SPECIES
-=======
+# Lactarelis nigricans (Bull.) Earle SPECIES
 
 #### Status
 ACCEPTED

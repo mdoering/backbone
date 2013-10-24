@@ -1,5 +1,4 @@
-Guignardia rugosa T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Guignardia rugosa T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

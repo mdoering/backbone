@@ -1,5 +1,4 @@
-Verticicladiella S. Hughes, 1953 GENUS
-=======
+# Verticicladiella S. Hughes, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius herbisedus Velen. SPECIES
-=======
+# Marasmius herbisedus Velen. SPECIES
 
 #### Status
 ACCEPTED

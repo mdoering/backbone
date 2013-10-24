@@ -1,5 +1,4 @@
-Buellia inordinata (Hue) Darb. SPECIES
-=======
+# Buellia inordinata (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

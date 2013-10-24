@@ -1,5 +1,4 @@
-Saccharomyces reessii G. David SPECIES
-=======
+# Saccharomyces reessii G. David SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megaspora rimisorediata Valadbeigi & A. Nordin SPECIES
-=======
+# Megaspora rimisorediata Valadbeigi & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

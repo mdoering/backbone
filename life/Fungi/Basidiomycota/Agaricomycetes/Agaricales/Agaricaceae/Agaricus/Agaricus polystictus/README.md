@@ -1,5 +1,4 @@
-Agaricus polystictus Berk. SPECIES
-=======
+# Agaricus polystictus Berk. SPECIES
 
 #### Status
 ACCEPTED

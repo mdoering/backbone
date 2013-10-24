@@ -1,5 +1,4 @@
-Ganoderma arcuatum Bres. SPECIES
-=======
+# Ganoderma arcuatum Bres. SPECIES
 
 #### Status
 ACCEPTED

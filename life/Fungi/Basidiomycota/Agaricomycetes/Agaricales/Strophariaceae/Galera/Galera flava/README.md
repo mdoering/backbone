@@ -1,5 +1,4 @@
-Galera flava Peck SPECIES
-=======
+# Galera flava Peck SPECIES
 
 #### Status
 ACCEPTED

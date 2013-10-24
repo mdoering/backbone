@@ -1,5 +1,4 @@
-Septoria primulae Buckn., 1885 SPECIES
-=======
+# Septoria primulae Buckn., 1885 SPECIES
 
 #### Status
 ACCEPTED

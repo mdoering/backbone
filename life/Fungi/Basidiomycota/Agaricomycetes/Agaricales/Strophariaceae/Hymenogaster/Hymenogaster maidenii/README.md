@@ -1,17 +1,16 @@
-Hymenogaster maideni Rodway SPECIES
-=======
+# Hymenogaster maidenii Rodway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Proc. R. Soc. Tasm. (1921)
 
 #### Original name
-Hymenogaster maideni Rodway
+Hymenogaster maidenii Rodway
 
 ### Remarks
 null

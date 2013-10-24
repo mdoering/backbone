@@ -1,5 +1,4 @@
-Leptosphaeria junciseda P. Karst. SPECIES
-=======
+# Leptosphaeria junciseda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

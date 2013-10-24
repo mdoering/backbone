@@ -1,5 +1,4 @@
-Actinomadura salmonea Preobrazhenskaya et al., 1975 SPECIES
-=======
+# Actinomadura salmonea Preobrazhenskaya et al., 1975 SPECIES
 
 #### Status
 ACCEPTED

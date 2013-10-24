@@ -1,5 +1,4 @@
-Boletus regius SPECIES
-=======
+# Boletus regius SPECIES
 
 #### Status
 DOUBTFUL

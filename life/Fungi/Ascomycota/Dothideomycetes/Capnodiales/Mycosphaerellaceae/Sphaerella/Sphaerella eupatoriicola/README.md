@@ -1,14 +1,13 @@
-Sphaerella eupatoricola (Höhn.) Sacc. SPECIES
-=======
+# Sphaerella eupatoriicola (Höhn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Strasser, Syll. fung. (Abellini) 24(2): 857 (1928)
 
 #### Original name
 Mycosphaerella eupatoricola Höhn.

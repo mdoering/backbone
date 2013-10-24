@@ -1,5 +1,4 @@
-Clitocybe goossensiae Beeli SPECIES
-=======
+# Clitocybe goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

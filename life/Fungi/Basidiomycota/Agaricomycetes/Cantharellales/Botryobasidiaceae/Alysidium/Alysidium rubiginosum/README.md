@@ -1,5 +1,4 @@
-Alysidium rubiginosum (Rivolta) Kuntze SPECIES
-=======
+# Alysidium rubiginosum (Rivolta) Kuntze SPECIES
 
 #### Status
 ACCEPTED

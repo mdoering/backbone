@@ -1,5 +1,4 @@
-Isaria abutii Lloyd SPECIES
-=======
+# Isaria abutii Lloyd SPECIES
 
 #### Status
 ACCEPTED

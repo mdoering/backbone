@@ -1,5 +1,4 @@
-Diporotheca litseae M.S. Patil SPECIES
-=======
+# Diporotheca litseae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

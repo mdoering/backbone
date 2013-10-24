@@ -1,5 +1,4 @@
-Stellechinatum wenlockium (Dorning, 1981) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Stellechinatum wenlockium (Dorning, 1981) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

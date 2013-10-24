@@ -1,5 +1,4 @@
-Lagena lateralis (Cushman, 1913) SPECIES
-=======
+# Lagena lateralis (Cushman, 1913) SPECIES
 
 #### Status
 ACCEPTED

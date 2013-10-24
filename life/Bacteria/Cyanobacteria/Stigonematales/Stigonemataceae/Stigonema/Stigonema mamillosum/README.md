@@ -1,8 +1,7 @@
-Bangia mamillosa Lyngbye SPECIES
-=======
+# Stigonema mamillosum (Lyngbye) C. Agardh ex Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

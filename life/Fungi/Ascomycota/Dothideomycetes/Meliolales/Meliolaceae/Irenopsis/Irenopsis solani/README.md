@@ -1,5 +1,4 @@
-Irenopsis solani (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis solani (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

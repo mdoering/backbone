@@ -1,17 +1,16 @@
-Cladonia formosana var. formosana VARIETY
-=======
+# Cladonia fruticulosa Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 17: 485 (1941)
+Verh. zool. -bot. Ges. Wien 30: 331 (1882)
 
 #### Original name
-Cladonia formosana var. formosana
+Cladonia fruticulosa Kremp.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius diagnitus Rob. Henry SPECIES
-=======
+# Cortinarius diagnitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

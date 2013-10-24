@@ -1,5 +1,4 @@
-Cladonia krogiana Løfall & Timdal SPECIES
-=======
+# Cladonia krogiana Løfall & Timdal SPECIES
 
 #### Status
 ACCEPTED

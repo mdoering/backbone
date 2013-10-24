@@ -1,5 +1,4 @@
-Dictyostelium roseum Tiegh., 1880 SPECIES
-=======
+# Dictyostelium roseum Tiegh., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus pinus Golubev & Pfeiffer SPECIES
-=======
+# Cryptococcus pinus Golubev & Pfeiffer SPECIES
 
 #### Status
 ACCEPTED

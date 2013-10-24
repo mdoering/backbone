@@ -1,5 +1,4 @@
-Puccinia tornata Arthur & Holw. SPECIES
-=======
+# Puccinia tornata Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

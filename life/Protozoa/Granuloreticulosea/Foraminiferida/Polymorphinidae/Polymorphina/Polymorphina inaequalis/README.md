@@ -1,5 +1,4 @@
-Polymorphina inaequalis d'Orbigny, 1852 SPECIES
-=======
+# Polymorphina inaequalis d'Orbigny, 1852 SPECIES
 
 #### Status
 ACCEPTED

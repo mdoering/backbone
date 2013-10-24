@@ -1,5 +1,4 @@
-Crepidotus apodus Capelari, 2006 SPECIES
-=======
+# Crepidotus apodus Capelari, 2006 SPECIES
 
 #### Status
 ACCEPTED

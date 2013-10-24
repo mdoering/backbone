@@ -1,5 +1,4 @@
-Nephroma areolatum P. James & F. J. White SPECIES
-=======
+# Nephroma areolatum P. James & F. J. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium gleditschiae Therry SPECIES
-=======
+# Fusarium gleditschiae Therry SPECIES
 
 #### Status
 ACCEPTED

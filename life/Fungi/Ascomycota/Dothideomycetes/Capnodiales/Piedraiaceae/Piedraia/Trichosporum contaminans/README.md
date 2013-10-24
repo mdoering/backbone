@@ -1,5 +1,4 @@
-Trichosporum contaminans Oudem. SPECIES
-=======
+# Trichosporum contaminans Oudem. SPECIES
 
 #### Status
 ACCEPTED

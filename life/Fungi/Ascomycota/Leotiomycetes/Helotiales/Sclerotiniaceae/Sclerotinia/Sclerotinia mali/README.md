@@ -1,5 +1,4 @@
-Sclerotinia mali Takah. SPECIES
-=======
+# Sclerotinia mali Takah. SPECIES
 
 #### Status
 ACCEPTED

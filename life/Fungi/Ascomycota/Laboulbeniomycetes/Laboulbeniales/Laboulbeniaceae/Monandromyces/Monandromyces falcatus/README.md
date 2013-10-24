@@ -1,5 +1,4 @@
-Monandromyces falcatus R.K. Benj., 1999 SPECIES
-=======
+# Monandromyces falcatus R.K. Benj., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanosoma aulopi Mackerras & Mackerras, 1925 SPECIES
-=======
+# Trypanosoma aulopi Mackerras & Mackerras, 1925 SPECIES
 
 #### Status
 ACCEPTED

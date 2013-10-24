@@ -1,5 +1,4 @@
-Catillaria kivakkensis Vain. SPECIES
-=======
+# Catillaria kivakkensis Vain. SPECIES
 
 #### Status
 ACCEPTED

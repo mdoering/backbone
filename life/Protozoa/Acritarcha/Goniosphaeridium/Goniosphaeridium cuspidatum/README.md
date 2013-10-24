@@ -1,5 +1,4 @@
-Goniosphaeridium cuspidatum (B. V. Timofeev) P. Pittau SPECIES
-=======
+# Goniosphaeridium cuspidatum (B. V. Timofeev) P. Pittau SPECIES
 
 #### Status
 ACCEPTED

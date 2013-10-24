@@ -1,5 +1,4 @@
-Pseudomonas halophila Fendrich, 1989 SPECIES
-=======
+# Pseudomonas halophila Fendrich, 1989 SPECIES
 
 #### Status
 ACCEPTED

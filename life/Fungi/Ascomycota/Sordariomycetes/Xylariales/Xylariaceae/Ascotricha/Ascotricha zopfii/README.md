@@ -1,5 +1,4 @@
-Ascotricha zopfii (Boulanger) Peyronel SPECIES
-=======
+# Ascotricha zopfii (Boulanger) Peyronel SPECIES
 
 #### Status
 ACCEPTED

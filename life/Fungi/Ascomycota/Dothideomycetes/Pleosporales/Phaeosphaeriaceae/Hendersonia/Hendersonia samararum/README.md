@@ -1,5 +1,4 @@
-Hendersonia samararum Brunaud SPECIES
-=======
+# Hendersonia samararum Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hygrotrama albipes Singer, 1973 SPECIES
-=======
+# Camarophyllopsis albipes (Singer) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 7: 4 (1973)
+Biblthca Mycol. 192: 73 (2002)
 
 #### Original name
 Hygrotrama albipes Singer, 1973

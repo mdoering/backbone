@@ -1,5 +1,4 @@
-Parmelia carporrhizans SPECIES
-=======
+# Parmelia carporrhizans SPECIES
 
 #### Status
 ACCEPTED

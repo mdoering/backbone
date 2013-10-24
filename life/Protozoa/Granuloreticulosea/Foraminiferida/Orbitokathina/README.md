@@ -1,5 +1,4 @@
-Orbitokathina Hottinger, 1966 GENUS
-=======
+# Orbitokathina Hottinger, 1966 GENUS
 
 #### Status
 ACCEPTED

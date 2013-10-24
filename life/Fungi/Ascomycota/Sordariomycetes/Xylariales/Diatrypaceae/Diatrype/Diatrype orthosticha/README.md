@@ -1,5 +1,4 @@
-Diatrype orthosticha Mont. SPECIES
-=======
+# Diatrype orthosticha Mont. SPECIES
 
 #### Status
 ACCEPTED

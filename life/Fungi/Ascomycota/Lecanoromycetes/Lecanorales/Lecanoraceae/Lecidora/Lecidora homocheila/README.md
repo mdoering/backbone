@@ -1,5 +1,4 @@
-Lecidora homocheila (Vain.) Motyka SPECIES
-=======
+# Lecidora homocheila (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

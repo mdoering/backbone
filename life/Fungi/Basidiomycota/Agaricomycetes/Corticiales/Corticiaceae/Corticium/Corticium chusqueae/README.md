@@ -1,5 +1,4 @@
-Corticium chusqueae Pat. SPECIES
-=======
+# Corticium chusqueae Pat. SPECIES
 
 #### Status
 ACCEPTED

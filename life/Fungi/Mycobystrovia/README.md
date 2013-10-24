@@ -1,5 +1,4 @@
-Mycobystrovia Goujet & Locq. GENUS
-=======
+# Mycobystrovia Goujet & Locq. GENUS
 
 #### Status
 ACCEPTED

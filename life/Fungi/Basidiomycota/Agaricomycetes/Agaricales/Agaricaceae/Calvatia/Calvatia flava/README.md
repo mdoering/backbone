@@ -1,5 +1,4 @@
-Calvatia flava (Massee) Kreisel SPECIES
-=======
+# Calvatia flava (Massee) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeus olympius Minter & Diam., 1987 SPECIES
-=======
+# Zeus olympius Minter & Diam., 1987 SPECIES
 
 #### Status
 ACCEPTED

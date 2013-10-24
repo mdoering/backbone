@@ -1,5 +1,4 @@
-Nolanea multiformis Peck SPECIES
-=======
+# Nolanea multiformis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermiculariella poiophila Speg. SPECIES
-=======
+# Vermiculariella poiophila Speg. SPECIES
 
 #### Status
 ACCEPTED

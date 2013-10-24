@@ -1,5 +1,4 @@
-Parmelia mutata f. mutata FORM
-=======
+# Parmelia mutata Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia mutata f. mutata
+Parmelia mutata Vain.
 
 ### Remarks
 null

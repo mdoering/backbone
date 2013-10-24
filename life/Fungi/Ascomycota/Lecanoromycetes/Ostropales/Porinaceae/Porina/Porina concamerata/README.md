@@ -1,5 +1,4 @@
-Porina concamerata (Stirt.) Zahlbr. SPECIES
-=======
+# Porina concamerata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus auratocephalus Ellis SPECIES
-=======
+# Agaricus auratocephalus Ellis SPECIES
 
 #### Status
 ACCEPTED

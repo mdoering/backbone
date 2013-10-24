@@ -1,5 +1,4 @@
-Parmelia reagens (Servít) Gyeln. SPECIES
-=======
+# Parmelia reagens (Servít) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

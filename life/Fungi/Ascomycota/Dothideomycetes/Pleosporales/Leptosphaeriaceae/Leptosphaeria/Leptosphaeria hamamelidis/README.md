@@ -1,5 +1,4 @@
-Leptosphaeria hamamelidis Fairm. SPECIES
-=======
+# Leptosphaeria hamamelidis Fairm. SPECIES
 
 #### Status
 ACCEPTED

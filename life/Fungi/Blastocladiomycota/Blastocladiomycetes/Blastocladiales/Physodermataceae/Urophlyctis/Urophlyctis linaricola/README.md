@@ -1,5 +1,4 @@
-Urophlyctis linaricola Speg. SPECIES
-=======
+# Urophlyctis linaricola Speg. SPECIES
 
 #### Status
 ACCEPTED

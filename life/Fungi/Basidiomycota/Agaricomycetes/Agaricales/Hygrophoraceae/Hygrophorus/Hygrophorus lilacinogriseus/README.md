@@ -1,5 +1,4 @@
-Hygrophorus lilacinogriseus Hongo SPECIES
-=======
+# Hygrophorus lilacinogriseus Hongo SPECIES
 
 #### Status
 ACCEPTED

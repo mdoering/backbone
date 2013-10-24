@@ -1,5 +1,4 @@
-Cercospora scrophulariae (Moesz) Chupp SPECIES
-=======
+# Cercospora scrophulariae (Moesz) Chupp SPECIES
 
 #### Status
 ACCEPTED

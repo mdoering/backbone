@@ -1,5 +1,4 @@
-Piricaudiopsis rosae Kai Zhang & X.G. Zhang SPECIES
-=======
+# Piricaudiopsis rosae Kai Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

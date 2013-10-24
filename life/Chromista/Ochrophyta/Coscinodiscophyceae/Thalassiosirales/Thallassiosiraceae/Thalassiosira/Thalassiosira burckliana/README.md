@@ -1,5 +1,4 @@
-Thalassiosira burckliana H. J. Schrader SPECIES
-=======
+# Thalassiosira burckliana H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

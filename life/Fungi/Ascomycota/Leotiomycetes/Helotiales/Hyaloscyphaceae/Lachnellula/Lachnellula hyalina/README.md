@@ -1,5 +1,4 @@
-Lachnellula hyalina Dharne, 1965 SPECIES
-=======
+# Lachnellula hyalina Dharne, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gliomastix atrogriseum (Panas.) Borowska, 1986 SPECIES
-=======
+# Acremonium atrogriseum (Panas.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska, Grzyby (Mycota) 16: 69 (1986)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 89 (1971)
 
 #### Original name
 Phaeoscopulariopsis atrogrisea Panas., 1964

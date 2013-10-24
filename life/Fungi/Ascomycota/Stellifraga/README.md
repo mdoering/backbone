@@ -1,5 +1,4 @@
-Stellifraga Alstrup & Olech GENUS
-=======
+# Stellifraga Alstrup & Olech GENUS
 
 #### Status
 ACCEPTED

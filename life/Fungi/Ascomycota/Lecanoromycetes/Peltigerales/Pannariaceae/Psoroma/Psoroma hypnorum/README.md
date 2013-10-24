@@ -1,17 +1,16 @@
-Psoroma hypnorum var. hypnorum VARIETY
-=======
+# Psoroma hypnorum (Vahl) Gray SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nat. Arr. Brit. Pl. (London) 2: 321 (1821)
 
 #### Original name
-Psoroma hypnorum var. hypnorum
+Lichen hypnorum Vahl
 
 ### Remarks
 null

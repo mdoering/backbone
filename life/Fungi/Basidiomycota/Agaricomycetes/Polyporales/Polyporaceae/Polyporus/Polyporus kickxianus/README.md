@@ -1,5 +1,4 @@
-Polyporus kickxianus Lév. SPECIES
-=======
+# Polyporus kickxianus Lév. SPECIES
 
 #### Status
 ACCEPTED

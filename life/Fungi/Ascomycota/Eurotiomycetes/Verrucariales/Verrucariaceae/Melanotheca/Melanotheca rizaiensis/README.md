@@ -1,5 +1,4 @@
-Melanotheca rizaiensis SPECIES
-=======
+# Melanotheca rizaiensis SPECIES
 
 #### Status
 ACCEPTED

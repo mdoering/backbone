@@ -1,5 +1,4 @@
-Didymosphaeria schroeteri Niessl SPECIES
-=======
+# Didymosphaeria schroeteri Niessl SPECIES
 
 #### Status
 ACCEPTED

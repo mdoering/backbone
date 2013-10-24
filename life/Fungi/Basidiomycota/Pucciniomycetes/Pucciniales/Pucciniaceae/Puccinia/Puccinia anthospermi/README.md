@@ -1,5 +1,4 @@
-Puccinia anthospermi Syd. SPECIES
-=======
+# Puccinia anthospermi Syd. SPECIES
 
 #### Status
 ACCEPTED

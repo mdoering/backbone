@@ -1,5 +1,4 @@
-Stachylidium agaricinum Fr. SPECIES
-=======
+# Stachylidium agaricinum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces tristaniae Corner SPECIES
-=======
+# Tyromyces tristaniae Corner SPECIES
 
 #### Status
 ACCEPTED

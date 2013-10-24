@@ -1,11 +1,10 @@
-Moraxella lwoffi Audureau, 1940 SPECIES
-=======
+# Acinetobacter lwoffii (Audureau, 1940) Brisou and Prévot, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

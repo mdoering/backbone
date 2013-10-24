@@ -1,5 +1,4 @@
-Pithya microspora Velen. SPECIES
-=======
+# Pithya microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

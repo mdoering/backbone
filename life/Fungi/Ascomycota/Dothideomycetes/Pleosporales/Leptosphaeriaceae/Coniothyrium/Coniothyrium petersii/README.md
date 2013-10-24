@@ -1,5 +1,4 @@
-Coniothyrium petersii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Coniothyrium petersii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

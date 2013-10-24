@@ -1,5 +1,4 @@
-Lecidea merrillii H. Magn. SPECIES
-=======
+# Lecidea merrillii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaediscidae Cushman, 1928 FAMILY
-=======
+# Archaediscidae Cushman, 1928 FAMILY
 
 #### Status
 ACCEPTED

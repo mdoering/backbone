@@ -1,5 +1,4 @@
-Asproinocybe brunneolilacina Thoen, 1977 SPECIES
-=======
+# Asproinocybe brunneolilacina Thoen, 1977 SPECIES
 
 #### Status
 ACCEPTED

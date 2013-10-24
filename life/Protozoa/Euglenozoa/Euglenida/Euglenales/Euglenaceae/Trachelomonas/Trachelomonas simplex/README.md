@@ -1,5 +1,4 @@
-Trachelomonas simplex Roll SPECIES
-=======
+# Trachelomonas simplex Roll SPECIES
 
 #### Status
 ACCEPTED

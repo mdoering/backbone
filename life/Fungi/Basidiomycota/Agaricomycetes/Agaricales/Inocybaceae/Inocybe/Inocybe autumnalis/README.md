@@ -1,5 +1,4 @@
-Inocybe autumnalis Velen. SPECIES
-=======
+# Inocybe autumnalis Velen. SPECIES
 
 #### Status
 ACCEPTED

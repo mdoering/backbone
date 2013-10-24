@@ -1,5 +1,4 @@
-Entoloma tectum E. Horak, 2008 SPECIES
-=======
+# Entoloma tectum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

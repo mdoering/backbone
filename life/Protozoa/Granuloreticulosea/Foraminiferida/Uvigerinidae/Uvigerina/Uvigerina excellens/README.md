@@ -1,5 +1,4 @@
-Uvigerina excellens Todd, 1948 SPECIES
-=======
+# Uvigerina excellens Todd, 1948 SPECIES
 
 #### Status
 ACCEPTED

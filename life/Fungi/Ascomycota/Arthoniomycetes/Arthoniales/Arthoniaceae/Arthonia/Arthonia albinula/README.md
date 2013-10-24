@@ -1,5 +1,4 @@
-Arthonia albinula Nyl. SPECIES
-=======
+# Arthonia albinula Nyl. SPECIES
 
 #### Status
 ACCEPTED

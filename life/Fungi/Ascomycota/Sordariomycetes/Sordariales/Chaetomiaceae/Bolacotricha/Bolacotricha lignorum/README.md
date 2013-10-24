@@ -1,5 +1,4 @@
-Bolacotricha lignorum Fautrey & Roum. SPECIES
-=======
+# Bolacotricha lignorum Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

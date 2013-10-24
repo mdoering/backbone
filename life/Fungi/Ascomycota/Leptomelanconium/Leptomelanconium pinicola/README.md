@@ -1,5 +1,4 @@
-Leptomelanconium pinicola (Berk. & M.A. Curtis) R.S. Hunt SPECIES
-=======
+# Leptomelanconium pinicola (Berk. & M.A. Curtis) R.S. Hunt SPECIES
 
 #### Status
 ACCEPTED

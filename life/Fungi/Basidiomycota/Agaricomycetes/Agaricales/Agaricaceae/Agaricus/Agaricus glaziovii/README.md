@@ -1,5 +1,4 @@
-Agaricus glaziovii Berk. SPECIES
-=======
+# Agaricus glaziovii Berk. SPECIES
 
 #### Status
 ACCEPTED

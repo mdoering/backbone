@@ -1,5 +1,4 @@
-Pyrenula segregata (Nyl.) Müll. Arg., 1887 SPECIES
-=======
+# Pyrenula segregata (Nyl.) Müll. Arg., 1887 SPECIES
 
 #### Status
 DOUBTFUL

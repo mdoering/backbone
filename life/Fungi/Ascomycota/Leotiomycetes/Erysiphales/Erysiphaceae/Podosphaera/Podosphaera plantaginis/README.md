@@ -1,14 +1,13 @@
-Sphaerotheca plantaginis (Castagne) L. Junell, 1966 SPECIES
-=======
+# Podosphaera plantaginis (Castagne) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 60: 382 (1966)
+Schlechtendalia 4: 31 (2000)
 
 #### Original name
 Erysiphe plantaginis Castagne, 1845

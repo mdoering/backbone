@@ -1,5 +1,4 @@
-Omphalopsis pusillissima (Peck) Murrill SPECIES
-=======
+# Omphalopsis pusillissima (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

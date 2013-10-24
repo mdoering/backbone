@@ -1,5 +1,4 @@
-Penicillium elongatum Bainier SPECIES
-=======
+# Penicillium elongatum Bainier SPECIES
 
 #### Status
 ACCEPTED

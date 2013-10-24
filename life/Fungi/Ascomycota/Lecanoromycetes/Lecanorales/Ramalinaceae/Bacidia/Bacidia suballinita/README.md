@@ -1,5 +1,4 @@
-Bacidia suballinita (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia suballinita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

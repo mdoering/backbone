@@ -1,5 +1,4 @@
-Lichen tegularis Ehrh. SPECIES
-=======
+# Lichen tegularis Ehrh. SPECIES
 
 #### Status
 ACCEPTED

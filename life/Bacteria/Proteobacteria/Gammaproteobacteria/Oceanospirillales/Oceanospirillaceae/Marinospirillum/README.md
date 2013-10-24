@@ -1,5 +1,4 @@
-Marinospirillum Satomi, Kimura, Hayashi, Shouzen, Okuzumi & Fujii, 1998 GENUS
-=======
+# Marinospirillum Satomi, Kimura, Hayashi, Shouzen, Okuzumi & Fujii, 1998 GENUS
 
 #### Status
 ACCEPTED

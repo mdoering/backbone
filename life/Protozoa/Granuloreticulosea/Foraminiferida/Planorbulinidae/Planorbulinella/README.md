@@ -1,5 +1,4 @@
-Planorbulinella Cushman, 1927 GENUS
-=======
+# Planorbulinella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leesella P.R. Bown & T. Dunkley Jones, 2006 GENUS
-=======
+# Leesella P.R. Bown & T. Dunkley Jones, 2006 GENUS
 
 #### Status
 ACCEPTED

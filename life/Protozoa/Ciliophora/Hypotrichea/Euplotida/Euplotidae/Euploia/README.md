@@ -1,5 +1,4 @@
-Euploia Lohmann, 1921 GENUS
-=======
+# Euploia Lohmann, 1921 GENUS
 
 #### Status
 ACCEPTED

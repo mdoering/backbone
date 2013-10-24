@@ -1,5 +1,4 @@
-Polyetron myrtaceicola Bat. & Peres, 1963 SPECIES
-=======
+# Polyetron myrtaceicola Bat. & Peres, 1963 SPECIES
 
 #### Status
 ACCEPTED

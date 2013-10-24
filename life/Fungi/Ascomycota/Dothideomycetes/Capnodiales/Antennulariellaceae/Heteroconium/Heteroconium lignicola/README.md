@@ -1,17 +1,16 @@
-Heteroconium lignicolum Panwar & Chouhan SPECIES
-=======
+# Heteroconium lignicola Panwar & Chouhan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 46(22): 786 (1977)
 
 #### Original name
-Heteroconium lignicolum Panwar & Chouhan
+Heteroconium lignicola Panwar & Chouhan
 
 ### Remarks
 null

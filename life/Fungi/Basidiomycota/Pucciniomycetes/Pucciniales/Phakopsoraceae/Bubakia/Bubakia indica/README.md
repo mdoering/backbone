@@ -1,5 +1,4 @@
-Bubakia indica T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Bubakia indica T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

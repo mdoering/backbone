@@ -1,5 +1,4 @@
-Selenita Pawlowski & Lee, 1991 GENUS
-=======
+# Selenita Pawlowski & Lee, 1991 GENUS
 
 #### Status
 ACCEPTED

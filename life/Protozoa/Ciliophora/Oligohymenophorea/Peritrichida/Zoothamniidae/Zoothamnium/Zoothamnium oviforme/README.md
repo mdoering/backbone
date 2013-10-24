@@ -1,5 +1,4 @@
-Zoothamnium oviforme Sommer, 1951 SPECIES
-=======
+# Zoothamnium oviforme Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

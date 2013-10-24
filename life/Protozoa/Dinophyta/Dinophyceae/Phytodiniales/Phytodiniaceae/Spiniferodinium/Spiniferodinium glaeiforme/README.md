@@ -1,5 +1,4 @@
-Spiniferodinium glaeiforme Horiguchi & Chihara, 1987 SPECIES
-=======
+# Spiniferodinium glaeiforme Horiguchi & Chihara, 1987 SPECIES
 
 #### Status
 ACCEPTED

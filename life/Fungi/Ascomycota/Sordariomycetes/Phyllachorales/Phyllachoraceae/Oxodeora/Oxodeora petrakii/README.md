@@ -1,17 +1,16 @@
-Phyllachora petrakii Cif., 1932 SPECIES
-=======
+# Oxodeora petrakii (Cif.) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3/4): 243 (1932)
+Mycol. Pap. 175: 75 (1999)
 
 #### Original name
-Phyllachora petrakii Cif., 1932
+Bagnisiopsis petrakii Cif., 1932
 
 ### Remarks
 null

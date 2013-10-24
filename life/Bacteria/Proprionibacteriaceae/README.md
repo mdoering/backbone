@@ -1,5 +1,4 @@
-Proprionibacteriaceae FAMILY
-=======
+# Proprionibacteriaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor obvelatus Retz. SPECIES
-=======
+# Mucor obvelatus Retz. SPECIES
 
 #### Status
 ACCEPTED

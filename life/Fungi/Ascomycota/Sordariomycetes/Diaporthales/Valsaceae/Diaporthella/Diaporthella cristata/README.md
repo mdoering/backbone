@@ -1,5 +1,4 @@
-Diaporthella cristata (Fr.) Petr. SPECIES
-=======
+# Diaporthella cristata (Fr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

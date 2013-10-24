@@ -1,5 +1,4 @@
-Lecanactis ravenelii (Tuck.) R.C. Harris SPECIES
-=======
+# Lecanactis ravenelii (Tuck.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

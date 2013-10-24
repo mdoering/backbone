@@ -1,17 +1,16 @@
-Phyllachora capparidis J.A. Stev. SPECIES
-=======
+# Phyllachora capparis J.A. Stev., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contrib. Reed Herb. 23: 194 (1975)
 
 #### Original name
-Phyllachora capparidis J.A. Stev.
+Trabutia conspicua Chardón, 1927
 
 ### Remarks
 null

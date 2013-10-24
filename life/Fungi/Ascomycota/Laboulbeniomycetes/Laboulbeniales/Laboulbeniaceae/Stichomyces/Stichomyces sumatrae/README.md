@@ -1,5 +1,4 @@
-Stichomyces sumatrae Thaxt. SPECIES
-=======
+# Stichomyces sumatrae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

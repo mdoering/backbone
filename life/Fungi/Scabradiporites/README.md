@@ -1,5 +1,4 @@
-Scabradiporites Y.K. Mathur GENUS
-=======
+# Scabradiporites Y.K. Mathur GENUS
 
 #### Status
 ACCEPTED

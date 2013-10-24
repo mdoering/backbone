@@ -1,5 +1,4 @@
-Elmerococcum GENUS
-=======
+# Elmerococcum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerogaster compactus (Tul. & C. Tul.) Sacc., 1895 SPECIES
-=======
+# Sclerogaster compactus (Tul. & C. Tul.) Sacc., 1895 SPECIES
 
 #### Status
 ACCEPTED

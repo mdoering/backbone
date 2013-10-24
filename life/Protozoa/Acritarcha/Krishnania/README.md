@@ -1,5 +1,4 @@
-Krishnania M.R. Sahni & R.N. Shrivastava, 1954 GENUS
-=======
+# Krishnania M.R. Sahni & R.N. Shrivastava, 1954 GENUS
 
 #### Status
 ACCEPTED

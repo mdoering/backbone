@@ -1,5 +1,4 @@
-Tetrapisispora fleetii Kurtzman, Statzell & Fell, 2004 SPECIES
-=======
+# Tetrapisispora fleetii Kurtzman, Statzell & Fell, 2004 SPECIES
 
 #### Status
 ACCEPTED

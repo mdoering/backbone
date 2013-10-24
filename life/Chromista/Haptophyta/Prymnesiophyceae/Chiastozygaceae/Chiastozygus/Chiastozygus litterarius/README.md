@@ -1,5 +1,4 @@
-Chiastozygus litterarius (Gorka, 1957) Manivit, 1971 SPECIES
-=======
+# Chiastozygus litterarius (Gorka, 1957) Manivit, 1971 SPECIES
 
 #### Status
 ACCEPTED

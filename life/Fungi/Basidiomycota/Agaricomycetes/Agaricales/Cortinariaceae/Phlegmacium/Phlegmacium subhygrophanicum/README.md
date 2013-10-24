@@ -1,5 +1,4 @@
-Phlegmacium subhygrophanicum M.M. Moser SPECIES
-=======
+# Phlegmacium subhygrophanicum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brucella ovis Buddle, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Brucella ovis Buddle, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

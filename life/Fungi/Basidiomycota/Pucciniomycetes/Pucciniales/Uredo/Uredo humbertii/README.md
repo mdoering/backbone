@@ -1,5 +1,4 @@
-Uredo humbertii Maire SPECIES
-=======
+# Uredo humbertii Maire SPECIES
 
 #### Status
 ACCEPTED

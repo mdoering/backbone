@@ -1,5 +1,4 @@
-Entoloma avellaneosquamosum Hesler SPECIES
-=======
+# Entoloma avellaneosquamosum Hesler SPECIES
 
 #### Status
 ACCEPTED

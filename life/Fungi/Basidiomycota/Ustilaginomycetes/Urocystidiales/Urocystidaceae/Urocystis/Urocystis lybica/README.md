@@ -1,5 +1,4 @@
-Urocystis lybica Trotter SPECIES
-=======
+# Urocystis lybica Trotter SPECIES
 
 #### Status
 ACCEPTED

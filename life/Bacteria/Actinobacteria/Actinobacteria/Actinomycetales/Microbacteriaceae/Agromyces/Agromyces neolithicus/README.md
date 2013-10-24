@@ -1,5 +1,4 @@
-Agromyces neolithicus Jurado et al., 2005 SPECIES
-=======
+# Agromyces neolithicus Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

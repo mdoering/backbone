@@ -1,5 +1,4 @@
-Skyttea hawksworthii Diederich SPECIES
-=======
+# Skyttea hawksworthii Diederich SPECIES
 
 #### Status
 ACCEPTED

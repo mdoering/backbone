@@ -1,17 +1,16 @@
-Roesleria pallida var. pallida VARIETY
-=======
+# Roesleria subterranea (Weinm.) Redhead, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 826 (1889)
+Can. J. Bot. 62(12): 2516 (1985)
 
 #### Original name
-Roesleria pallida var. pallida
+Pilacre subterranea Weinm., 1832
 
 ### Remarks
 null

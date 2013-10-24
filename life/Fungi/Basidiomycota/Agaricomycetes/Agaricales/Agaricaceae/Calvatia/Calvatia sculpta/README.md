@@ -1,14 +1,13 @@
-Lycoperdon sculptum Harkn., 1885 SPECIES
-=======
+# Calvatia sculpta (Harkn.) Lloyd, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Calif. Acad. Sci. 1(3): 160 (1885)
+Mycol. Writ. 203 (1904)
 
 #### Original name
 Lycoperdon sculptum Harkn., 1885

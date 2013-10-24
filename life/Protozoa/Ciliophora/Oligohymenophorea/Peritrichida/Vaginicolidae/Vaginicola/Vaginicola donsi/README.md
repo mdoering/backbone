@@ -1,5 +1,4 @@
-Vaginicola donsi Kahl, 1935 SPECIES
-=======
+# Vaginicola donsi Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

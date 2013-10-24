@@ -1,5 +1,4 @@
-Aulographum donacicola Speg. SPECIES
-=======
+# Aulographum donacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

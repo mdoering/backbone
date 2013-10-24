@@ -1,5 +1,4 @@
-Boletus minutus W.F. Chiu SPECIES
-=======
+# Boletus minutus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

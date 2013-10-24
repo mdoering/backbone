@@ -1,5 +1,4 @@
-Ustilago triodiae Vánky, 1997 SPECIES
-=======
+# Ustilago triodiae Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

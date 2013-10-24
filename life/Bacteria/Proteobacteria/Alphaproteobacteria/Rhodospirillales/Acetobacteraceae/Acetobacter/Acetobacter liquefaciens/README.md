@@ -1,5 +1,4 @@
-Acetobacter liquefaciens (Asai, 1935) Yamada & Tahara, 1984 SPECIES
-=======
+# Acetobacter liquefaciens (Asai, 1935) Yamada & Tahara, 1984 SPECIES
 
 #### Status
 ACCEPTED

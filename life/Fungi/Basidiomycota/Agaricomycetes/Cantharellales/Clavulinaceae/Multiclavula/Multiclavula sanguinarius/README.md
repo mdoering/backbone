@@ -1,5 +1,4 @@
-Multiclavula sanguinarius (L.) Norman SPECIES
-=======
+# Multiclavula sanguinarius (L.) Norman SPECIES
 
 #### Status
 ACCEPTED

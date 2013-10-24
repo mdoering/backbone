@@ -1,5 +1,4 @@
-Schizoxylon pruiniferum Sherwood SPECIES
-=======
+# Schizoxylon pruiniferum Sherwood SPECIES
 
 #### Status
 ACCEPTED

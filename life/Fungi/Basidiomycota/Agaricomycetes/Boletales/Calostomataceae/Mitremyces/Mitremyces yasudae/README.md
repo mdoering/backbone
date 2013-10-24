@@ -1,5 +1,4 @@
-Mitremyces yasudae Lloyd SPECIES
-=======
+# Mitremyces yasudae Lloyd SPECIES
 
 #### Status
 ACCEPTED

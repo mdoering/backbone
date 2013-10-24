@@ -1,5 +1,4 @@
-Chaetomella viridiolivacea Torrend SPECIES
-=======
+# Chaetomella viridiolivacea Torrend SPECIES
 
 #### Status
 ACCEPTED

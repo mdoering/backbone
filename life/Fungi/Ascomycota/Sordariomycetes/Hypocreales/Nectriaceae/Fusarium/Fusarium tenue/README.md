@@ -1,5 +1,4 @@
-Fusarium tenue Corda SPECIES
-=======
+# Fusarium tenue Corda SPECIES
 
 #### Status
 ACCEPTED

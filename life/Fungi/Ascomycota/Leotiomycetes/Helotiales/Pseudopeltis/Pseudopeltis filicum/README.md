@@ -1,5 +1,4 @@
-Pseudopeltis filicum L. Holm & K. Holm, 1978 SPECIES
-=======
+# Pseudopeltis filicum L. Holm & K. Holm, 1978 SPECIES
 
 #### Status
 ACCEPTED

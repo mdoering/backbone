@@ -1,5 +1,4 @@
-Cystopage ellipsospora Drechsler, 1955 SPECIES
-=======
+# Cystopage ellipsospora Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

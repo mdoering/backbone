@@ -1,5 +1,4 @@
-Legeriomyces aenigmaticus Lichtw. & M.C. Williams, 1983 SPECIES
-=======
+# Legeriomyces aenigmaticus Lichtw. & M.C. Williams, 1983 SPECIES
 
 #### Status
 ACCEPTED

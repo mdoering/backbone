@@ -1,5 +1,4 @@
-Ebriophyceae CLASS
-=======
+# Ebriophyceae CLASS
 
 #### Status
 ACCEPTED

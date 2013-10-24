@@ -1,5 +1,4 @@
-Mycena longicrinita Singer SPECIES
-=======
+# Mycena longicrinita Singer SPECIES
 
 #### Status
 ACCEPTED

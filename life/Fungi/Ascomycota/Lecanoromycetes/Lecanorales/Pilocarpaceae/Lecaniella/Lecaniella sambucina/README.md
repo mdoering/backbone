@@ -1,5 +1,4 @@
-Lecaniella sambucina (Körb.) Jatta SPECIES
-=======
+# Lecaniella sambucina (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

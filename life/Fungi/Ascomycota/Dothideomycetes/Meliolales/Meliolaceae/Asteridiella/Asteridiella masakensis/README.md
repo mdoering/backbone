@@ -1,5 +1,4 @@
-Asteridiella masakensis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella masakensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

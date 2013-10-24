@@ -1,5 +1,4 @@
-Nectria sinensis Teng SPECIES
-=======
+# Nectria sinensis Teng SPECIES
 
 #### Status
 ACCEPTED

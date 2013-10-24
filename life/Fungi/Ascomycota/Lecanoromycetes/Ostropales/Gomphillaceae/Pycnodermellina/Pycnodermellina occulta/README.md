@@ -1,5 +1,4 @@
-Pycnodermellina occulta Bat. & H. Maia SPECIES
-=======
+# Pycnodermellina occulta Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

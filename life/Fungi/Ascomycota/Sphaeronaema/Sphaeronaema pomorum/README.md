@@ -1,5 +1,4 @@
-Sphaeronaema pomorum Shear SPECIES
-=======
+# Sphaeronaema pomorum Shear SPECIES
 
 #### Status
 ACCEPTED

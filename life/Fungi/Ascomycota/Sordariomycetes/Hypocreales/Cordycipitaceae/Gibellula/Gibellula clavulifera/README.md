@@ -1,17 +1,16 @@
-Gibellula clavulifera subsp. clavulifera SUBSPECIES
-=======
+# Gibellula clavulifera (Petch) Samson & H.C. Evans, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 80(2): 131 (1977)
 
 #### Original name
-null
+Spicaria clavulifera Petch, 1932
 
 ### Remarks
 null

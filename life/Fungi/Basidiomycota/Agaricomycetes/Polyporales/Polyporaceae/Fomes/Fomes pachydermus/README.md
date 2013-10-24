@@ -1,5 +1,4 @@
-Fomes pachydermus Bres. SPECIES
-=======
+# Fomes pachydermus Bres. SPECIES
 
 #### Status
 ACCEPTED

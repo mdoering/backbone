@@ -1,5 +1,4 @@
-Lecidea crocantha (Nyl.) Hue SPECIES
-=======
+# Lecidea crocantha (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

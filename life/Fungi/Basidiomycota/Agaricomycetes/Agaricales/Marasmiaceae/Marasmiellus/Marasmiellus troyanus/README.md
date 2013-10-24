@@ -1,5 +1,4 @@
-Marasmiellus troyanus (Murrill) Dennis SPECIES
-=======
+# Marasmiellus troyanus (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

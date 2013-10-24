@@ -1,5 +1,4 @@
-Arthonia subcaesia C.W. Dodge SPECIES
-=======
+# Arthonia subcaesia C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

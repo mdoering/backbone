@@ -1,5 +1,4 @@
-Botrytis stellata Desm. SPECIES
-=======
+# Botrytis stellata Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma leoninum Velen. SPECIES
-=======
+# Tricholoma leoninum Velen. SPECIES
 
 #### Status
 ACCEPTED

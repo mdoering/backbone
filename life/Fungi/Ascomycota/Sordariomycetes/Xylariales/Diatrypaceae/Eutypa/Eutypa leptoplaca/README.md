@@ -1,14 +1,13 @@
-Sphaeria milliaria var. leptoplaca Mont. VARIETY
-=======
+# Eutypa leptoplaca (Mont.) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 2(3): 347 (1987)
 
 #### Original name
 Sphaeria milliaria var. leptoplaca Mont.

@@ -1,5 +1,4 @@
-Porina glaucopallida Vain. SPECIES
-=======
+# Porina glaucopallida Vain. SPECIES
 
 #### Status
 ACCEPTED

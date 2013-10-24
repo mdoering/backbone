@@ -1,5 +1,4 @@
-Wagneria Alenitzin, 1873 GENUS
-=======
+# Wagneria Alenitzin, 1873 GENUS
 
 #### Status
 ACCEPTED

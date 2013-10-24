@@ -1,5 +1,4 @@
-Peridermium corruscans Fr. SPECIES
-=======
+# Peridermium corruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

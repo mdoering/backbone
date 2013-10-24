@@ -1,5 +1,4 @@
-Ascopolyporus polyporoides Möller SPECIES
-=======
+# Ascopolyporus polyporoides Möller SPECIES
 
 #### Status
 ACCEPTED

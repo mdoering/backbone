@@ -1,5 +1,4 @@
-Stigmina henningsiana (Sacc.) Bat. SPECIES
-=======
+# Stigmina henningsiana (Sacc.) Bat. SPECIES
 
 #### Status
 ACCEPTED

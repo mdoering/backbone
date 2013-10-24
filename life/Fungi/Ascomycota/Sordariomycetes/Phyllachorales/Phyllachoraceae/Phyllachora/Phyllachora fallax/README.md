@@ -1,17 +1,16 @@
-Phyllachora bromi var. andropogonis Sacc., 1914 VARIETY
-=======
+# Phyllachora fallax Sacc., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(3): 285 (1914)
+Nuovo Giorn. Bot. Ital. 8: 117 (1876)
 
 #### Original name
-Phyllachora bromi var. andropogonis Sacc., 1914
+Phyllachora fallax Sacc., 1876
 
 ### Remarks
 null

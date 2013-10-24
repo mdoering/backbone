@@ -1,5 +1,4 @@
-Lepiota sulphurea Rawla SPECIES
-=======
+# Lepiota sulphurea Rawla SPECIES
 
 #### Status
 ACCEPTED

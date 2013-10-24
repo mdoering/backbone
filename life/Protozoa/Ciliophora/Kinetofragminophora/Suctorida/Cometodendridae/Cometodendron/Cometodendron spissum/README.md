@@ -1,5 +1,4 @@
-Cometodendron spissum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron spissum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

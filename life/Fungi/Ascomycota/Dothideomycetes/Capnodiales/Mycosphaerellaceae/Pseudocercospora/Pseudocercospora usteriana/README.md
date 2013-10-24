@@ -1,5 +1,4 @@
-Pseudocercospora usteriana (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora usteriana (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

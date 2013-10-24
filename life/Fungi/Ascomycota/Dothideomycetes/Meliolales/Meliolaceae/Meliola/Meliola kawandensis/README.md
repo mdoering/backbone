@@ -1,5 +1,4 @@
-Meliola kawandensis Hansf., 1957 SPECIES
-=======
+# Meliola kawandensis Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

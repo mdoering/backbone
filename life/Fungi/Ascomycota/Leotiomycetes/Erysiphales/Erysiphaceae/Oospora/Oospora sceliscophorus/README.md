@@ -1,5 +1,4 @@
-Oospora sceliscophorus Fairm. SPECIES
-=======
+# Oospora sceliscophorus Fairm. SPECIES
 
 #### Status
 ACCEPTED

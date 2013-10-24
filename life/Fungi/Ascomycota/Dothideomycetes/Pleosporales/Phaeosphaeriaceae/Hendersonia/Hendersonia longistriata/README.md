@@ -1,5 +1,4 @@
-Hendersonia longistriata Hansf. SPECIES
-=======
+# Hendersonia longistriata Hansf. SPECIES
 
 #### Status
 ACCEPTED

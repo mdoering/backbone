@@ -1,5 +1,4 @@
-Samara ribes Benth. & Hook.f. ex Kurz SPECIES
-=======
+# Samara ribes Benth. & Hook.f. ex Kurz SPECIES
 
 #### Status
 ACCEPTED

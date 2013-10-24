@@ -1,5 +1,4 @@
-Septoria acruriana Henn. SPECIES
-=======
+# Septoria acruriana Henn. SPECIES
 
 #### Status
 ACCEPTED

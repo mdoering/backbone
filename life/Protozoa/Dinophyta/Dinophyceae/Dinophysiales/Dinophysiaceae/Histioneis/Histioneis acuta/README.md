@@ -1,5 +1,4 @@
-Histioneis acuta Böhm, 1931 SPECIES
-=======
+# Histioneis acuta Böhm, 1931 SPECIES
 
 #### Status
 ACCEPTED

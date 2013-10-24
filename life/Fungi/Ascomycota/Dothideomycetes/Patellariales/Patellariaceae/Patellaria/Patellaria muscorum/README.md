@@ -1,5 +1,4 @@
-Patellaria muscorum (Wulfen) Wibel SPECIES
-=======
+# Patellaria muscorum (Wulfen) Wibel SPECIES
 
 #### Status
 ACCEPTED

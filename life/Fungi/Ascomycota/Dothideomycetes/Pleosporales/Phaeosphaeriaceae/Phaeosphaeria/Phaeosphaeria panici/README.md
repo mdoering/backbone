@@ -1,5 +1,4 @@
-Phaeosphaeria panici (P. Syd.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria panici (P. Syd.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

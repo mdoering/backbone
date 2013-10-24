@@ -1,5 +1,4 @@
-Puccinia culmicola Dietel SPECIES
-=======
+# Puccinia culmicola Dietel SPECIES
 
 #### Status
 ACCEPTED

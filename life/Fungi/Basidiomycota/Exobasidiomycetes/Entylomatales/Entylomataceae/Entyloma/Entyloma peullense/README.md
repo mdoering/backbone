@@ -1,5 +1,4 @@
-Entyloma peullense J.C. Lindq. SPECIES
-=======
+# Entyloma peullense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

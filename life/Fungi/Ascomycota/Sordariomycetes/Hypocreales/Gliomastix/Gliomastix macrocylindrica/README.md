@@ -1,5 +1,4 @@
-Gliomastix macrocylindrica K. Matsush. & Matsush. SPECIES
-=======
+# Gliomastix macrocylindrica K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

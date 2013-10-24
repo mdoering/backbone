@@ -1,5 +1,4 @@
-Lyngbya hemensii K. Cholnoky-Pfannkuche SPECIES
-=======
+# Lyngbya hemensii K. Cholnoky-Pfannkuche SPECIES
 
 #### Status
 ACCEPTED

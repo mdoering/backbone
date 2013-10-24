@@ -1,5 +1,4 @@
-Pseudophacidium ilicis Rehm SPECIES
-=======
+# Pseudophacidium ilicis Rehm SPECIES
 
 #### Status
 ACCEPTED

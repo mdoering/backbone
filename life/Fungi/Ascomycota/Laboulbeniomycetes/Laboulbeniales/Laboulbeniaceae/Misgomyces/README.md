@@ -1,5 +1,4 @@
-Misgomyces Thaxt. GENUS
-=======
+# Misgomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

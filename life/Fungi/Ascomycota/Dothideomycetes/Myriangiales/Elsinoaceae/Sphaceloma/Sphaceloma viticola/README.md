@@ -1,5 +1,4 @@
-Sphaceloma viticola Sawada ex Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma viticola Sawada ex Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

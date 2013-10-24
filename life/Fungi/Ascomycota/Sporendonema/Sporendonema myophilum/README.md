@@ -1,5 +1,4 @@
-Sporendonema myophilum Sacc. SPECIES
-=======
+# Sporendonema myophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta stenotaphricola Bat. SPECIES
-=======
+# Phyllosticta stenotaphricola Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syringopharynx pterotrachaeae Collin, 1914 SPECIES
-=======
+# Syringopharynx pterotrachaeae Collin, 1914 SPECIES
 
 #### Status
 ACCEPTED

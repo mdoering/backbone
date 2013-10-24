@@ -1,5 +1,4 @@
-Penicillium pittii Quintan., 1985 SPECIES
-=======
+# Penicillium pittii Quintan., 1985 SPECIES
 
 #### Status
 ACCEPTED

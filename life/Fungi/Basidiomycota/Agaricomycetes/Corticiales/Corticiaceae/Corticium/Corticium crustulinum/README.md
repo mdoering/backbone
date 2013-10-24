@@ -1,5 +1,4 @@
-Corticium crustulinum Burt SPECIES
-=======
+# Corticium crustulinum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hornellia R. Subrahmanyan, 1954 GENUS
-=======
+# Chattonella B. Biecheler, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Zool. exp. gén. , 78, 79.
 
 #### Original name
 null

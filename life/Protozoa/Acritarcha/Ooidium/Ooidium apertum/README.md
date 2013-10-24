@@ -1,5 +1,4 @@
-Ooidium apertum Konzalova, 1972 SPECIES
-=======
+# Ooidium apertum Konzalova, 1972 SPECIES
 
 #### Status
 ACCEPTED

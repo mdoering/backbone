@@ -1,5 +1,4 @@
-Passalora avicularis (G. Winter) Crous, U. Braun & M.J. Morris SPECIES
-=======
+# Passalora avicularis (G. Winter) Crous, U. Braun & M.J. Morris SPECIES
 
 #### Status
 ACCEPTED

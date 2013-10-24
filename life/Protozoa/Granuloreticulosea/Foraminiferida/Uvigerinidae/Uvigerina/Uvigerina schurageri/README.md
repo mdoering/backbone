@@ -1,5 +1,4 @@
-Uvigerina schurageri Brady SPECIES
-=======
+# Uvigerina schurageri Brady SPECIES
 
 #### Status
 ACCEPTED

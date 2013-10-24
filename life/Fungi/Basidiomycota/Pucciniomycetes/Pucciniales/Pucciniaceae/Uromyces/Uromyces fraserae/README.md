@@ -1,5 +1,4 @@
-Uromyces fraserae Arthur & Ricker SPECIES
-=======
+# Uromyces fraserae Arthur & Ricker SPECIES
 
 #### Status
 ACCEPTED

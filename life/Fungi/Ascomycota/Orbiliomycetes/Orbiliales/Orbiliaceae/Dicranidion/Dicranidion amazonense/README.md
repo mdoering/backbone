@@ -1,5 +1,4 @@
-Dicranidion amazonense Matsush. SPECIES
-=======
+# Dicranidion amazonense Matsush. SPECIES
 
 #### Status
 ACCEPTED

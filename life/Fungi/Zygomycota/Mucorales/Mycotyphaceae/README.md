@@ -1,5 +1,4 @@
-Mycotyphaceae FAMILY
-=======
+# Mycotyphaceae FAMILY
 
 #### Status
 ACCEPTED

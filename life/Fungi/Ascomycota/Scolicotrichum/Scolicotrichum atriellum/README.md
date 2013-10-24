@@ -1,5 +1,4 @@
-Scolicotrichum atriellum Cooke & Massee SPECIES
-=======
+# Scolicotrichum atriellum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora lividonigricans Tuck. SPECIES
-=======
+# Biatora lividonigricans Tuck. SPECIES
 
 #### Status
 ACCEPTED

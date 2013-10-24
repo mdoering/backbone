@@ -1,5 +1,4 @@
-Verrucocladosporium roccellae U. Braun, Diederich & Heuchert, 2009 SPECIES
-=======
+# Verrucocladosporium roccellae U. Braun, Diederich & Heuchert, 2009 SPECIES
 
 #### Status
 ACCEPTED

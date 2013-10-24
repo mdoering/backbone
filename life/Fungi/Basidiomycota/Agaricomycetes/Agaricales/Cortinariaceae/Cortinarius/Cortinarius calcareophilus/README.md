@@ -1,5 +1,4 @@
-Cortinarius calcareophilus Bidaud SPECIES
-=======
+# Cortinarius calcareophilus Bidaud SPECIES
 
 #### Status
 ACCEPTED

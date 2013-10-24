@@ -1,5 +1,4 @@
-Macrophoma passiflorae McAlpine SPECIES
-=======
+# Macrophoma passiflorae McAlpine SPECIES
 
 #### Status
 ACCEPTED

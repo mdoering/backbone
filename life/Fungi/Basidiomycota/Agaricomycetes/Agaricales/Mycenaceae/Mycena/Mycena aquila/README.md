@@ -1,5 +1,4 @@
-Mycena aquila Métrod SPECIES
-=======
+# Mycena aquila Métrod SPECIES
 
 #### Status
 ACCEPTED

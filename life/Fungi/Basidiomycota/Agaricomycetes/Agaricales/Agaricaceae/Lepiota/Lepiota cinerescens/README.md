@@ -1,5 +1,4 @@
-Lepiota cinerescens Speg. SPECIES
-=======
+# Lepiota cinerescens Speg. SPECIES
 
 #### Status
 ACCEPTED

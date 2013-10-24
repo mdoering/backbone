@@ -1,5 +1,4 @@
-Sphaeria squamata Cooke & Ellis SPECIES
-=======
+# Sphaeria squamata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrenella Gochenaur, 1981 GENUS
-=======
+# Cyrenella Gochenaur, 1981 GENUS
 
 #### Status
 ACCEPTED

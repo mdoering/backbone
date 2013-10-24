@@ -1,5 +1,4 @@
-Arthroxylaria elegans Seifert & W. Gams, 2002 SPECIES
-=======
+# Arthroxylaria elegans Seifert & W. Gams, 2002 SPECIES
 
 #### Status
 ACCEPTED

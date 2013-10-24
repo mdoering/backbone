@@ -1,5 +1,4 @@
-Chalara aeruginosa Höhn. SPECIES
-=======
+# Chalara aeruginosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

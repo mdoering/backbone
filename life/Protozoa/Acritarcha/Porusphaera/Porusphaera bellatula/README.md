@@ -1,5 +1,4 @@
-Porusphaera bellatula Jiabo, 1978 SPECIES
-=======
+# Porusphaera bellatula Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

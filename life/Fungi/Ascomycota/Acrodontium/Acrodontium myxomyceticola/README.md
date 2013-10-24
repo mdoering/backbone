@@ -1,5 +1,4 @@
-Acrodontium myxomyceticola J.L. Crane & Schokn. SPECIES
-=======
+# Acrodontium myxomyceticola J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

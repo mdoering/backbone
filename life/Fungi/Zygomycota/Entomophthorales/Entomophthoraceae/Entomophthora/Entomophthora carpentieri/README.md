@@ -1,5 +1,4 @@
-Entomophthora carpentieri Giard SPECIES
-=======
+# Entomophthora carpentieri Giard SPECIES
 
 #### Status
 ACCEPTED

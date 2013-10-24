@@ -1,5 +1,4 @@
-Psathyrella palmigena (Berk. & M.A. Curtis) Guzmán SPECIES
-=======
+# Psathyrella palmigena (Berk. & M.A. Curtis) Guzmán SPECIES
 
 #### Status
 ACCEPTED

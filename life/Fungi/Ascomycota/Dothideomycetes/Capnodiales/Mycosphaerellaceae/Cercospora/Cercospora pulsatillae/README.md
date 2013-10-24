@@ -1,5 +1,4 @@
-Cercospora pulsatillae Clem. SPECIES
-=======
+# Cercospora pulsatillae Clem. SPECIES
 
 #### Status
 ACCEPTED

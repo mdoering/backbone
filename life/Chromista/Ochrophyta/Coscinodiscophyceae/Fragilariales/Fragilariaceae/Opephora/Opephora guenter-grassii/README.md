@@ -1,5 +1,4 @@
-Opephora guenter-grassii (A. Witkowski & H. Lange-Bertalot) K. Sabbe & W. Wyverman SPECIES
-=======
+# Opephora guenter-grassii (A. Witkowski & H. Lange-Bertalot) K. Sabbe & W. Wyverman SPECIES
 
 #### Status
 ACCEPTED

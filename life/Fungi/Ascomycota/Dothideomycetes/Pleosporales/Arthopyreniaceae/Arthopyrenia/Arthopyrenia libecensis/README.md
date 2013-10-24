@@ -1,5 +1,4 @@
-Arthopyrenia libecensis Erichsen SPECIES
-=======
+# Arthopyrenia libecensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

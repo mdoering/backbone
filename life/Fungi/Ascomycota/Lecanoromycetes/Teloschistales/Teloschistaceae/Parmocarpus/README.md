@@ -1,5 +1,4 @@
-Parmocarpus GENUS
-=======
+# Parmocarpus GENUS
 
 #### Status
 ACCEPTED

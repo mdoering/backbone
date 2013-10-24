@@ -1,5 +1,4 @@
-Passalora hydrocotyles (Ellis & Everh.) U. Braun, Delhey & Kiehr SPECIES
-=======
+# Passalora hydrocotyles (Ellis & Everh.) U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

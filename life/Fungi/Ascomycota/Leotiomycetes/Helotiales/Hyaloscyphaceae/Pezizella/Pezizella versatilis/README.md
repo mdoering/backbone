@@ -1,5 +1,4 @@
-Pezizella versatilis (Fr.) Sacc. SPECIES
-=======
+# Pezizella versatilis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

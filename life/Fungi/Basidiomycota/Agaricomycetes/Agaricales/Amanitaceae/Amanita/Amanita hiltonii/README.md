@@ -1,5 +1,4 @@
-Amanita hiltonii D.A. Reid SPECIES
-=======
+# Amanita hiltonii D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus tricolor (Lév.) Cooke SPECIES
-=======
+# Polystictus tricolor (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

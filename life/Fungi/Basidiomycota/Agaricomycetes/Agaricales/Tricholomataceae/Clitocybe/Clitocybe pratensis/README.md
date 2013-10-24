@@ -1,5 +1,4 @@
-Clitocybe pratensis Velen. SPECIES
-=======
+# Clitocybe pratensis Velen. SPECIES
 
 #### Status
 ACCEPTED

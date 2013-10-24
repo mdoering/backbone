@@ -1,5 +1,4 @@
-Clitocybe pallidipes H.E. Bigelow SPECIES
-=======
+# Clitocybe pallidipes H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

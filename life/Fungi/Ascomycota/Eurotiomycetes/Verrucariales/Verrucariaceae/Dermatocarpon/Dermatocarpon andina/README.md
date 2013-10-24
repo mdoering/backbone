@@ -1,5 +1,4 @@
-Dermatocarpon andina (Räsänen) Räsänen SPECIES
-=======
+# Dermatocarpon andina (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria nitida var. nitida VARIETY
-=======
+# Verrucaria nitida Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria nitida var. nitida
+Verrucaria nitida Nyl.
 
 ### Remarks
 null

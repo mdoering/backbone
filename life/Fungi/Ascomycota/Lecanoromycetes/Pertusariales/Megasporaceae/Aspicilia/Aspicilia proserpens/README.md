@@ -1,5 +1,4 @@
-Aspicilia proserpens (Nyl.) Hue SPECIES
-=======
+# Aspicilia proserpens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

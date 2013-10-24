@@ -1,5 +1,4 @@
-Entoloma conicoumbonatum Hesler SPECIES
-=======
+# Entoloma conicoumbonatum Hesler SPECIES
 
 #### Status
 ACCEPTED

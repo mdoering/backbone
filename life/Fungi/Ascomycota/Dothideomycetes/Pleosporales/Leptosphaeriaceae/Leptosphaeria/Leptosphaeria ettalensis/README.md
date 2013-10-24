@@ -1,5 +1,4 @@
-Leptosphaeria ettalensis Allesch. SPECIES
-=======
+# Leptosphaeria ettalensis Allesch. SPECIES
 
 #### Status
 ACCEPTED

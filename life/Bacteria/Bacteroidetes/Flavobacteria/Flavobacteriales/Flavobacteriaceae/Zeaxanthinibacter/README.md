@@ -1,5 +1,4 @@
-Zeaxanthinibacter Asker, Beppu & Ueda, 2007 GENUS
-=======
+# Zeaxanthinibacter Asker, Beppu & Ueda, 2007 GENUS
 
 #### Status
 ACCEPTED

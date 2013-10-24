@@ -1,5 +1,4 @@
-Arthonia endoxantha (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia endoxantha (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

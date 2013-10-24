@@ -1,5 +1,4 @@
-Lophomarginata izhorica Fanderflit in N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Lophomarginata izhorica Fanderflit in N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

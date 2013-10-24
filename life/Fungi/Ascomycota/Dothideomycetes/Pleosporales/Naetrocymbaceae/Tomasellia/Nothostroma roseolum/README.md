@@ -1,5 +1,4 @@
-Nothostroma roseolum (Müll. Arg.) Clem. SPECIES
-=======
+# Nothostroma roseolum (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

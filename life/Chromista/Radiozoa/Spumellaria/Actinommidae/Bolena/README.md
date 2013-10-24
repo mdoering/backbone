@@ -1,5 +1,4 @@
-Bolena GENUS
-=======
+# Bolena GENUS
 
 #### Status
 ACCEPTED

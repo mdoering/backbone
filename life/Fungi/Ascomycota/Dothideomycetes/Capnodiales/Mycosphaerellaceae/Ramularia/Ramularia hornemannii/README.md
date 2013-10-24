@@ -1,8 +1,7 @@
-Ramularia hornemanni Lindr. SPECIES
-=======
+# Ramularia hornemannii Lindr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramularia hornemanni Lindr.
+Ramularia hornemannii Lindr.
 
 ### Remarks
 null

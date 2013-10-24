@@ -1,17 +1,16 @@
-Acerviclypeatus poriformans Hanlin, 1990 SPECIES
-=======
+# Ophiodothella vaccinii Boyd, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 37: 381 (1990)
+Mycologia 26: 465 (1934)
 
 #### Original name
-Acerviclypeatus poriformans Hanlin, 1990
+Ophiodothella vaccinii Boyd, 1934
 
 ### Remarks
 null

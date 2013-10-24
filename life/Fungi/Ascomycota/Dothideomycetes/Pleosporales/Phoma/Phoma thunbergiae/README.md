@@ -1,5 +1,4 @@
-Phoma thunbergiae Tassi SPECIES
-=======
+# Phoma thunbergiae Tassi SPECIES
 
 #### Status
 ACCEPTED

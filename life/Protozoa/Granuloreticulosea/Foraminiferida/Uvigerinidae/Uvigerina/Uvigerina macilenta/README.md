@@ -1,5 +1,4 @@
-Uvigerina macilenta Chapman, W D & Parr, W J SPECIES
-=======
+# Uvigerina macilenta Chapman, W D & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

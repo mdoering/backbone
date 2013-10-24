@@ -1,5 +1,4 @@
-Sargassum oligocystum var. bernardium Grunow VARIETY
-=======
+# Sargassum oligocystum Montagne SPECIES
 
 #### Status
 ACCEPTED

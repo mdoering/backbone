@@ -1,5 +1,4 @@
-Nectria phialotrichi Rogerson & Samuels SPECIES
-=======
+# Nectria phialotrichi Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

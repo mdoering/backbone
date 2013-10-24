@@ -1,5 +1,4 @@
-Opegrapha reticulata DC. SPECIES
-=======
+# Opegrapha reticulata DC. SPECIES
 
 #### Status
 ACCEPTED

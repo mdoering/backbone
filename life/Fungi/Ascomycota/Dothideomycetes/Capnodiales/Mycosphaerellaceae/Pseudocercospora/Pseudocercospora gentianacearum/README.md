@@ -1,5 +1,4 @@
-Pseudocercospora gentianacearum H.S. Rao, A.S. Moses & P.N. Singh SPECIES
-=======
+# Pseudocercospora gentianacearum H.S. Rao, A.S. Moses & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes durissimus Lloyd SPECIES
-=======
+# Fomes durissimus Lloyd SPECIES
 
 #### Status
 ACCEPTED

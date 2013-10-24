@@ -1,5 +1,4 @@
-Lembosia piriensis Doidge SPECIES
-=======
+# Lembosia piriensis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago ornata Tracy & Earle SPECIES
-=======
+# Ustilago ornata Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cytospora rubescens f. rubescens FORM
-=======
+# Valsaria insitiva (Tode) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 542 (1823)
+Comm. Soc. crittog. Ital. 1: 205 (1863)
 
 #### Original name
-Cytospora rubescens f. rubescens
+Sphaeria insitiva Tode, 1791
 
 ### Remarks
 null

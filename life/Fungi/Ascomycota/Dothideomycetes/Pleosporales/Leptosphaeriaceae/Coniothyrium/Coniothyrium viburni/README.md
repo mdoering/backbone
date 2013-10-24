@@ -1,5 +1,4 @@
-Coniothyrium viburni Died. SPECIES
-=======
+# Coniothyrium viburni Died. SPECIES
 
 #### Status
 ACCEPTED

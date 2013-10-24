@@ -1,5 +1,4 @@
-Laschia ledermannii Syd. {?} SPECIES
-=======
+# Laschia ledermannii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

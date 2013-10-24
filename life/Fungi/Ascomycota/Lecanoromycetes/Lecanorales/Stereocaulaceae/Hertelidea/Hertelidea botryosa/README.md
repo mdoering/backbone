@@ -1,14 +1,13 @@
-Biatora botryosa Fr. SPECIES
-=======
+# Hertelidea botryosa (Fr.) Printzen & Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. Vetensk-Acad. Nya Handl. 268 (1822)
+Biblthca Lichenol. 88: 542 (2004)
 
 #### Original name
 Biatora botryosa Fr.

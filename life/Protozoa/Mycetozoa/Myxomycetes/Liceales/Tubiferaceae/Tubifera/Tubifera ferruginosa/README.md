@@ -1,17 +1,16 @@
-Tubulina fragiformis var. clavata (Schrad.) Pers. VARIETY
-=======
+# Tubifera ferruginosa (Batsch) J.F. Gmel., 1792 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 30 (1800)
+in Linnaeus, K. svenska Vetensk-Akad. Handl. 2: 1472 (1791)
 
 #### Original name
-Licea clavata Schrad., 1797
+Stemonitis ferruginosa Batsch, 1786
 
 ### Remarks
 null

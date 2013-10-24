@@ -1,5 +1,4 @@
-Helicoverpa rubrescens Npv SPECIES
-=======
+# Helicoverpa rubrescens Npv SPECIES
 
 #### Status
 ACCEPTED

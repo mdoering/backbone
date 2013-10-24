@@ -1,5 +1,4 @@
-Puccinia clara H.S. Jacks. SPECIES
-=======
+# Puccinia clara H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

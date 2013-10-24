@@ -1,5 +1,4 @@
-Parmelia lojkana Gyeln. SPECIES
-=======
+# Parmelia lojkana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

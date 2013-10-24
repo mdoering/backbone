@@ -1,5 +1,4 @@
-Lecidea pungens f. pungens FORM
-=======
+# Lecidea pungens (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea pungens f. pungens
+Biatora pungens Körb.
 
 ### Remarks
 null

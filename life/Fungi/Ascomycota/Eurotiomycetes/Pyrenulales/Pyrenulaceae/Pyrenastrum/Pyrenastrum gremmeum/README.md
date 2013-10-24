@@ -1,5 +1,4 @@
-Pyrenastrum gremmeum Tuck. SPECIES
-=======
+# Pyrenastrum gremmeum Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutula aggregata Bagl. & Carestia SPECIES
-=======
+# Scutula aggregata Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

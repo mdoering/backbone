@@ -1,5 +1,4 @@
-Buscalionia Sambo GENUS
-=======
+# Buscalionia Sambo GENUS
 
 #### Status
 ACCEPTED

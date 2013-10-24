@@ -1,5 +1,4 @@
-Lophocapsa Haeckel, 1881 GENUS
-=======
+# Lophocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus macrosporus Bonord. SPECIES
-=======
+# Aspergillus macrosporus Bonord. SPECIES
 
 #### Status
 ACCEPTED

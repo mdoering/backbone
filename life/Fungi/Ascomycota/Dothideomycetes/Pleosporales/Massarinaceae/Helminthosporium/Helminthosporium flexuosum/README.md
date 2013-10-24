@@ -1,17 +1,16 @@
-Helmisporium flexuosum Corda SPECIES
-=======
+# Helminthosporium flexuosum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 13 (1837)
 
 #### Original name
-Helmisporium flexuosum Corda
+Helminthosporium flexuosum Corda
 
 ### Remarks
 null

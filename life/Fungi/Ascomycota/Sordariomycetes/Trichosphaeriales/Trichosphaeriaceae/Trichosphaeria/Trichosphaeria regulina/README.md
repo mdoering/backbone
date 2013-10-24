@@ -1,5 +1,4 @@
-Trichosphaeria regulina (Berk. & Broome) Sacc. SPECIES
-=======
+# Trichosphaeria regulina (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

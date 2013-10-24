@@ -1,5 +1,4 @@
-Microphiale subdiluta (Malme) Zahlbr. SPECIES
-=======
+# Microphiale subdiluta (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

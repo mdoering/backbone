@@ -1,5 +1,4 @@
-Morchella acuminata J. Kickx f. SPECIES
-=======
+# Morchella acuminata J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

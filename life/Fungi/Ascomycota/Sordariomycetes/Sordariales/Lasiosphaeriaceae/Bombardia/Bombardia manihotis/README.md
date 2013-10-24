@@ -1,5 +1,4 @@
-Bombardia manihotis Fernier SPECIES
-=======
+# Bombardia manihotis Fernier SPECIES
 
 #### Status
 ACCEPTED

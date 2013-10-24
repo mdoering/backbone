@@ -1,5 +1,4 @@
-Pseudopiptoporus Ryvarden GENUS
-=======
+# Pseudopiptoporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia percava Cleland SPECIES
-=======
+# Collybia percava Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora corollae Tranzschel, 1895 SPECIES
-=======
+# Peronospora corollae Tranzschel, 1895 SPECIES
 
 #### Status
 ACCEPTED

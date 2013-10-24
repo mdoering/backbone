@@ -1,8 +1,7 @@
-Sporochnus gracilis J. Agardh SPECIES
-=======
+# Sporochnus comosus C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

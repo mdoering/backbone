@@ -1,5 +1,4 @@
-Pseudocercospora zelkovae (Hori) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora zelkovae (Hori) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia cinnamomescens Raitv. SPECIES
-=======
+# Exidia cinnamomescens Raitv. SPECIES
 
 #### Status
 ACCEPTED

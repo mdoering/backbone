@@ -1,8 +1,7 @@
-Catillaria yezoënsis Zahlbr. SPECIES
-=======
+# Catillaria yezoensis Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catillaria yezoënsis Zahlbr.
+Catillaria yezoensis Zahlbr.
 
 ### Remarks
 null

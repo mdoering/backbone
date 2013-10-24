@@ -1,5 +1,4 @@
-Valsaria oleifera (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Valsaria oleifera (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

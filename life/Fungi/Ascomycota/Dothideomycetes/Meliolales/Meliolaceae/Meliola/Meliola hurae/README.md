@@ -1,5 +1,4 @@
-Meliola hurae Syd. SPECIES
-=======
+# Meliola hurae Syd. SPECIES
 
 #### Status
 ACCEPTED

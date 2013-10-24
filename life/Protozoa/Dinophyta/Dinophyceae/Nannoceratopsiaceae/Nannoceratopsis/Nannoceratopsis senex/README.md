@@ -1,5 +1,4 @@
-Nannoceratopsis senex van Helden, 1977 SPECIES
-=======
+# Nannoceratopsis senex van Helden, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius adhaerens R. Heim, 1938 SPECIES
-=======
+# Lactarius adhaerens R. Heim, 1938 SPECIES
 
 #### Status
 ACCEPTED

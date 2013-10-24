@@ -1,5 +1,4 @@
-Geastrum schweinitzii var. schweinitzii VARIETY
-=======
+# Geastrum schweinitzii (Berk. & M.A. Curtis) Zeller SPECIES
 
 #### Status
 ACCEPTED

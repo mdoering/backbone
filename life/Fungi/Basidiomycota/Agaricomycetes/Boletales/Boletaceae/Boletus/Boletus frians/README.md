@@ -1,5 +1,4 @@
-Boletus frians Corner SPECIES
-=======
+# Boletus frians Corner SPECIES
 
 #### Status
 ACCEPTED

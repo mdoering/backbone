@@ -1,5 +1,4 @@
-Verrucaria heteroclita (Ach.) Spreng. SPECIES
-=======
+# Verrucaria heteroclita (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

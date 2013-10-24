@@ -1,5 +1,4 @@
-Daedalopsis tenuis (Hook. ex Fr.) Imaz. SPECIES
-=======
+# Daedalopsis tenuis (Hook. ex Fr.) Imaz. SPECIES
 
 #### Status
 ACCEPTED

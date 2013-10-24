@@ -1,5 +1,4 @@
-Helicoma palmigenum (Penz. & Sacc.) Linder SPECIES
-=======
+# Helicoma palmigenum (Penz. & Sacc.) Linder SPECIES
 
 #### Status
 ACCEPTED

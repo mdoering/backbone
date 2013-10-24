@@ -1,5 +1,4 @@
-Coniothyrium globiparum Bubák SPECIES
-=======
+# Coniothyrium globiparum Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria compar Fr. SPECIES
-=======
+# Sphaeria compar Fr. SPECIES
 
 #### Status
 ACCEPTED

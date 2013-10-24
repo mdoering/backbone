@@ -1,5 +1,4 @@
-Arachnion bovista Mont., 1834 SPECIES
-=======
+# Arachnion bovista Mont., 1834 SPECIES
 
 #### Status
 ACCEPTED

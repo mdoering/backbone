@@ -1,5 +1,4 @@
-Tympanis saligna Tode, 1790 SPECIES
-=======
+# Tympanis saligna Tode, 1790 SPECIES
 
 #### Status
 ACCEPTED

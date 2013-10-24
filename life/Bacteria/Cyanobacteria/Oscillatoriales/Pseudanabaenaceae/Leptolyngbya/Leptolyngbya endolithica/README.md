@@ -1,8 +1,7 @@
-Plectonema endolithicum Ercegovic, 1932 SPECIES
-=======
+# Leptolyngbya endolithica (Ercegovic) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Mycena aculeata Maas Geest. SPECIES
-=======
+# Mycena aculeata Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium ambiens Berk. & Broome SPECIES
-=======
+# Corticium ambiens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

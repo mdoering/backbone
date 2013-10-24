@@ -1,5 +1,4 @@
-Bathelium duplex (Fée) C.W. Dodge SPECIES
-=======
+# Bathelium duplex (Fée) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

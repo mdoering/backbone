@@ -1,5 +1,4 @@
-Sorosporium sulcati M.S. Patil SPECIES
-=======
+# Sorosporium sulcati M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella versicolor Sw. SPECIES
-=======
+# Helvella versicolor Sw. SPECIES
 
 #### Status
 ACCEPTED

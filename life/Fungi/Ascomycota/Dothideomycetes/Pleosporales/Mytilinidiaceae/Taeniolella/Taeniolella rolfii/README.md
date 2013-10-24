@@ -1,5 +1,4 @@
-Taeniolella rolfii Diederich & Zhurb., 1997 SPECIES
-=======
+# Taeniolella rolfii Diederich & Zhurb., 1997 SPECIES
 
 #### Status
 ACCEPTED

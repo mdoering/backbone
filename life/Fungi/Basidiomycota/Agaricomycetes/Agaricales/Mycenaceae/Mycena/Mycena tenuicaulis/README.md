@@ -1,5 +1,4 @@
-Mycena tenuicaulis Maas Geest. & E. Horak SPECIES
-=======
+# Mycena tenuicaulis Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

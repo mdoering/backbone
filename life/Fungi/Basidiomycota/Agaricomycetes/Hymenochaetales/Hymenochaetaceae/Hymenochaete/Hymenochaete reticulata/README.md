@@ -1,5 +1,4 @@
-Hymenochaete reticulata Parmasto, 2001 SPECIES
-=======
+# Hymenochaete reticulata Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

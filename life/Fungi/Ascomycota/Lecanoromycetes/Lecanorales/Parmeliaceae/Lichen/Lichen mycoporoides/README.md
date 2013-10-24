@@ -1,5 +1,4 @@
-Lichen mycoporoides Ehrh. SPECIES
-=======
+# Lichen mycoporoides Ehrh. SPECIES
 
 #### Status
 ACCEPTED

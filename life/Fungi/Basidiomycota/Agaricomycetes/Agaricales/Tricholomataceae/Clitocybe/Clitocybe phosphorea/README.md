@@ -1,8 +1,7 @@
-Flammula phosphorea (Battarra) Iordanov {?}, Vanev & Fakirova, 1979 SPECIES
-=======
+# Clitocybe phosphorea Battarra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

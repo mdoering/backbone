@@ -1,5 +1,4 @@
-Parmelia baumgartneri Zahlbr. SPECIES
-=======
+# Parmelia baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

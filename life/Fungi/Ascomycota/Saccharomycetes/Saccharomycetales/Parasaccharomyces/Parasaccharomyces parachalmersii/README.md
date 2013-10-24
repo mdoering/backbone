@@ -1,5 +1,4 @@
-Parasaccharomyces parachalmersii (Castell. & Chalm.) C.W. Dodge SPECIES
-=======
+# Parasaccharomyces parachalmersii (Castell. & Chalm.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

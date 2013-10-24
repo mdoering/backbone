@@ -1,5 +1,4 @@
-Goniochloris contorta (Bourrelly) Ettl SPECIES
-=======
+# Goniochloris contorta (Bourrelly) Ettl SPECIES
 
 #### Status
 ACCEPTED

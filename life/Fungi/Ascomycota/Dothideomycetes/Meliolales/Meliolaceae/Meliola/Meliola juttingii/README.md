@@ -1,5 +1,4 @@
-Meliola juttingii Hansf. SPECIES
-=======
+# Meliola juttingii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca polygoni-senticosi (Henn.) Miyabe & Takah. SPECIES
-=======
+# Sphacelotheca polygoni-senticosi (Henn.) Miyabe & Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora ochroleuca Fr. SPECIES
-=======
+# Thelephora ochroleuca Fr. SPECIES
 
 #### Status
 ACCEPTED

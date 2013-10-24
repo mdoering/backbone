@@ -1,5 +1,4 @@
-Gyrophthorus perforans Hafellner & Sancho, 1990 SPECIES
-=======
+# Gyrophthorus perforans Hafellner & Sancho, 1990 SPECIES
 
 #### Status
 ACCEPTED

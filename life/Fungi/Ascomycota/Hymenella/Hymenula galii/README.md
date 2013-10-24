@@ -1,5 +1,4 @@
-Hymenula galii Peck SPECIES
-=======
+# Hymenula galii Peck SPECIES
 
 #### Status
 ACCEPTED

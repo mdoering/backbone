@@ -1,5 +1,4 @@
-Diplodia polymorpha De Not. SPECIES
-=======
+# Diplodia polymorpha De Not. SPECIES
 
 #### Status
 ACCEPTED

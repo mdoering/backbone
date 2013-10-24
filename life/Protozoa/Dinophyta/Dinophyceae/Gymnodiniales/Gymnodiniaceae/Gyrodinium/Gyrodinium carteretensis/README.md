@@ -1,5 +1,4 @@
-Gyrodinium carteretensis SPECIES
-=======
+# Gyrodinium carteretensis SPECIES
 
 #### Status
 ACCEPTED

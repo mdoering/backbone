@@ -1,5 +1,4 @@
-Bacidia catocarpina Zahlbr. SPECIES
-=======
+# Bacidia catocarpina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

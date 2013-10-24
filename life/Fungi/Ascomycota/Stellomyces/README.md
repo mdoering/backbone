@@ -1,5 +1,4 @@
-Stellomyces Morgan-Jones, R.C. Sinclair & Eicker GENUS
-=======
+# Stellomyces Morgan-Jones, R.C. Sinclair & Eicker GENUS
 
 #### Status
 ACCEPTED

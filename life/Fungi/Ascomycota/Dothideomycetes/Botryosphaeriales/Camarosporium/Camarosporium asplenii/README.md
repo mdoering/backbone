@@ -1,5 +1,4 @@
-Camarosporium asplenii Siemaszko SPECIES
-=======
+# Camarosporium asplenii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

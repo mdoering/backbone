@@ -1,5 +1,4 @@
-Perisporium ammophilae Durieu & Mont. SPECIES
-=======
+# Perisporium ammophilae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

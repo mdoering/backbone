@@ -1,5 +1,4 @@
-Urophlyctis hymenoxidis Speg. SPECIES
-=======
+# Urophlyctis hymenoxidis Speg. SPECIES
 
 #### Status
 ACCEPTED

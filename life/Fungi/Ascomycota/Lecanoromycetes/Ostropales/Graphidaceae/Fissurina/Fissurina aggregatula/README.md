@@ -1,5 +1,4 @@
-Fissurina aggregatula Common & Lücking SPECIES
-=======
+# Fissurina aggregatula Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

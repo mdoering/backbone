@@ -1,5 +1,4 @@
-Rhodotorula cresolica Middelhoven & Spaaij SPECIES
-=======
+# Rhodotorula cresolica Middelhoven & Spaaij SPECIES
 
 #### Status
 ACCEPTED

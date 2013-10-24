@@ -1,5 +1,4 @@
-Podospora minicauda Faurel & Locq.-Lin., 1978 SPECIES
-=======
+# Podospora minicauda Faurel & Locq.-Lin., 1978 SPECIES
 
 #### Status
 ACCEPTED

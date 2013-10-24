@@ -1,5 +1,4 @@
-Protoperidinium jusiformis Balech SPECIES
-=======
+# Protoperidinium jusiformis Balech SPECIES
 
 #### Status
 ACCEPTED

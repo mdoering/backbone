@@ -1,5 +1,4 @@
-Gyroidina broeckhiana SPECIES
-=======
+# Gyroidina broeckhiana SPECIES
 
 #### Status
 ACCEPTED

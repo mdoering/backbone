@@ -1,5 +1,4 @@
-Lecidea subrubella Nyl. SPECIES
-=======
+# Lecidea subrubella Nyl. SPECIES
 
 #### Status
 ACCEPTED

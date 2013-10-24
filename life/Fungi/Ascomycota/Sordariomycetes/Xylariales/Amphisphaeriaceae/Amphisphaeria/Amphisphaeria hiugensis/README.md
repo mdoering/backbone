@@ -1,5 +1,4 @@
-Amphisphaeria hiugensis I. Hino & Katum. SPECIES
-=======
+# Amphisphaeria hiugensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

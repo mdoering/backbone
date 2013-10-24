@@ -1,5 +1,4 @@
-Urceolaria ocellulata (Ach.) Röhl. SPECIES
-=======
+# Urceolaria ocellulata (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

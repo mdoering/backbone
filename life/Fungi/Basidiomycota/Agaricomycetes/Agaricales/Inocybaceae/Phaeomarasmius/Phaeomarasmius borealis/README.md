@@ -1,5 +1,4 @@
-Phaeomarasmius borealis Rald SPECIES
-=======
+# Phaeomarasmius borealis Rald SPECIES
 
 #### Status
 ACCEPTED

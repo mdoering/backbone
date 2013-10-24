@@ -1,5 +1,4 @@
-Peltigera microphylla f. microphylla FORM
-=======
+# Peltigera microphylla (Anders) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

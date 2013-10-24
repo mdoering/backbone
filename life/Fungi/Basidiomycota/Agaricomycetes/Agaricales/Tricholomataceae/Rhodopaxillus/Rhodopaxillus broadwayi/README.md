@@ -1,5 +1,4 @@
-Rhodopaxillus broadwayi (Murrill) Singer SPECIES
-=======
+# Rhodopaxillus broadwayi (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

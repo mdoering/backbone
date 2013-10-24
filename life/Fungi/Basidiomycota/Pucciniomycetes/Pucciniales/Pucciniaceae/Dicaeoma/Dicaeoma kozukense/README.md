@@ -1,5 +1,4 @@
-Dicaeoma kozukense (Dietel) Syd. SPECIES
-=======
+# Dicaeoma kozukense (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

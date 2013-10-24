@@ -1,5 +1,4 @@
-Baltisphaeridium paucispinum (Deunff, 1954 ex Deunff, 1961) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium paucispinum (Deunff, 1954 ex Deunff, 1961) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Greletia ovalispora (Grelet) Donadini SPECIES
-=======
+# Greletia ovalispora (Grelet) Donadini SPECIES
 
 #### Status
 ACCEPTED

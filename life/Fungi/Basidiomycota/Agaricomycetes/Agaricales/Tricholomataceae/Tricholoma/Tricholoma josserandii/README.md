@@ -1,5 +1,4 @@
-Tricholoma josserandii Bon SPECIES
-=======
+# Tricholoma josserandii Bon SPECIES
 
 #### Status
 ACCEPTED

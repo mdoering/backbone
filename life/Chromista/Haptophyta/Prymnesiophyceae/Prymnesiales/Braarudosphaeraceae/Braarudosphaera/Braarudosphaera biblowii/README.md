@@ -1,5 +1,4 @@
-Braarudosphaera biblowii (Gran & Braarud) Deflandre SPECIES
-=======
+# Braarudosphaera biblowii (Gran & Braarud) Deflandre SPECIES
 
 #### Status
 ACCEPTED

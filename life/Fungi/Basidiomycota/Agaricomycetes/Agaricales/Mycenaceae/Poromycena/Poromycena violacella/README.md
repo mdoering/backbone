@@ -1,5 +1,4 @@
-Poromycena violacella (Speg.) Singer SPECIES
-=======
+# Poromycena violacella (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

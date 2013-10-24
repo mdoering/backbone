@@ -1,14 +1,13 @@
-Pocillaria ciliata (Lév.) Kuntze, 1891 SPECIES
-=======
+# Panus ciliatus (Lév.) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 865 (1891)
+Mycotaxon 54: 148 (1995)
 
 #### Original name
 Lentinus ciliatus Lév., 1844

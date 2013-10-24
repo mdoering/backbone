@@ -1,5 +1,4 @@
-Gymnoascus arxii Cano & Guarro, 1989 SPECIES
-=======
+# Gymnoascus arxii Cano & Guarro, 1989 SPECIES
 
 #### Status
 ACCEPTED

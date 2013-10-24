@@ -1,5 +1,4 @@
-Collybia cinnamomifolia Gillet SPECIES
-=======
+# Collybia cinnamomifolia Gillet SPECIES
 
 #### Status
 ACCEPTED

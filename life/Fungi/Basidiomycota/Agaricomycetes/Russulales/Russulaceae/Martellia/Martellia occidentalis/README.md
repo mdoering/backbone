@@ -1,5 +1,4 @@
-Martellia occidentalis Singer & A.H. Sm. SPECIES
-=======
+# Martellia occidentalis Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella annulata (Holmsk.) Sacc. SPECIES
-=======
+# Lachnella annulata (Holmsk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

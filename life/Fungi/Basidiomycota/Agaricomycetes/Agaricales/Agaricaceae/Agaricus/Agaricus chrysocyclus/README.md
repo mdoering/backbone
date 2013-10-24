@@ -1,5 +1,4 @@
-Agaricus chrysocyclus Berk. & Broome SPECIES
-=======
+# Agaricus chrysocyclus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

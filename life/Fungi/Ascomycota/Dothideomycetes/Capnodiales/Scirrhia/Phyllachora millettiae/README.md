@@ -1,8 +1,7 @@
-Phyllachora millettiae-rubiginosae Hosag. & A. Pande, 1985 SPECIES
-=======
+# Phyllachora millettiae Henn., 1900 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,17 +1,16 @@
-Rimelia stictica Louwhoff & Elix SPECIES
-=======
+# Parmotrema sticticum (Louwhoff & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 68: 452 (1998)
+Mycologia 97(1): 158 (2005)
 
 #### Original name
-Rimelia stictica Louwhoff & Elix
+Parmelia borreri (Sm.) Turner
 
 ### Remarks
 null

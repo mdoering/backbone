@@ -1,5 +1,4 @@
-Agaricus comatellus Peck SPECIES
-=======
+# Agaricus comatellus Peck SPECIES
 
 #### Status
 ACCEPTED

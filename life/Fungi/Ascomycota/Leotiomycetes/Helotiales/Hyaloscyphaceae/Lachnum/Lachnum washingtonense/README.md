@@ -1,5 +1,4 @@
-Lachnum washingtonense (Dennis) Nannf. SPECIES
-=======
+# Lachnum washingtonense (Dennis) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus subrufobrunneus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus subrufobrunneus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

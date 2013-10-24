@@ -1,5 +1,4 @@
-Phyllosticta chionanthi Thüm. SPECIES
-=======
+# Phyllosticta chionanthi Thüm. SPECIES
 
 #### Status
 ACCEPTED

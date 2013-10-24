@@ -1,5 +1,4 @@
-Lecanostictopsis B. Sutton & Crous GENUS
-=======
+# Lecanostictopsis B. Sutton & Crous GENUS
 
 #### Status
 ACCEPTED

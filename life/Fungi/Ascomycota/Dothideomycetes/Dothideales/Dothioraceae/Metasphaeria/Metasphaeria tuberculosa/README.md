@@ -1,5 +1,4 @@
-Metasphaeria tuberculosa I. Hino & Katum. SPECIES
-=======
+# Metasphaeria tuberculosa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

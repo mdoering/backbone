@@ -1,5 +1,4 @@
-Phyllosticta mespilicola Rota-Rossi SPECIES
-=======
+# Phyllosticta mespilicola Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

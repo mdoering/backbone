@@ -1,5 +1,4 @@
-Arachnophora hughesii R.F. Castañeda & Guarro SPECIES
-=======
+# Arachnophora hughesii R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

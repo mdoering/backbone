@@ -1,5 +1,4 @@
-Phakopsora pavida Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora pavida Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

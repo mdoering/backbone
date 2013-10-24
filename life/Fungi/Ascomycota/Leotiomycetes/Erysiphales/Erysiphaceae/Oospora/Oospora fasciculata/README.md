@@ -1,5 +1,4 @@
-Oospora fasciculata (Berk.) Sacc. & Voglino SPECIES
-=======
+# Oospora fasciculata (Berk.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

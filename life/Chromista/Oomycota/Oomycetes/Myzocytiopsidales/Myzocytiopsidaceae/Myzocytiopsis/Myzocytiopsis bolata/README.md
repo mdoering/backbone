@@ -1,5 +1,4 @@
-Myzocytiopsis bolata Glockling, 2001 SPECIES
-=======
+# Myzocytiopsis bolata Glockling, 2001 SPECIES
 
 #### Status
 ACCEPTED

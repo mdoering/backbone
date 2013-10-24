@@ -1,5 +1,4 @@
-Amblyospora dyxenoides A.W. Sweeney, M.F. Graham & E.I. Hazard SPECIES
-=======
+# Amblyospora dyxenoides A.W. Sweeney, M.F. Graham & E.I. Hazard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria stellatarum anon. SPECIES
-=======
+# Septoria stellatarum anon. SPECIES
 
 #### Status
 ACCEPTED

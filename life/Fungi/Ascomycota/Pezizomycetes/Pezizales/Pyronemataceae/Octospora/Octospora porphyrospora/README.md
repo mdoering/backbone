@@ -1,5 +1,4 @@
-Octospora porphyrospora Hedw. SPECIES
-=======
+# Octospora porphyrospora Hedw. SPECIES
 
 #### Status
 ACCEPTED

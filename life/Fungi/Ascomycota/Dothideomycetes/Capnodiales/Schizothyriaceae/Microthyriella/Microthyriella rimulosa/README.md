@@ -1,5 +1,4 @@
-Microthyriella rimulosa (Speg.) Theiss. SPECIES
-=======
+# Microthyriella rimulosa (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

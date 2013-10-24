@@ -1,5 +1,4 @@
-Phacidium integerrimum Fr. SPECIES
-=======
+# Phacidium integerrimum Fr. SPECIES
 
 #### Status
 ACCEPTED

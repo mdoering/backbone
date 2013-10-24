@@ -1,5 +1,4 @@
-Laboulbenia hageni Thaxt. SPECIES
-=======
+# Laboulbenia hageni Thaxt. SPECIES
 
 #### Status
 ACCEPTED

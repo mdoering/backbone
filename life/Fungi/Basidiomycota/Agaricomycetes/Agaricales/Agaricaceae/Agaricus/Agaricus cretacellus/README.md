@@ -1,5 +1,4 @@
-Agaricus cretacellus G.F. Atk. SPECIES
-=======
+# Agaricus cretacellus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

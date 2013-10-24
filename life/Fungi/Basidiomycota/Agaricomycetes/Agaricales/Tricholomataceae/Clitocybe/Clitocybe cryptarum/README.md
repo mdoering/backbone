@@ -1,5 +1,4 @@
-Clitocybe cryptarum (Letell.) Massee SPECIES
-=======
+# Clitocybe cryptarum (Letell.) Massee SPECIES
 
 #### Status
 ACCEPTED

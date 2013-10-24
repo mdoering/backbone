@@ -1,5 +1,4 @@
-Cyathus jiayuguanensis J. Yu, T.X. Zhou & L.Z. Zhao SPECIES
-=======
+# Cyathus jiayuguanensis J. Yu, T.X. Zhou & L.Z. Zhao SPECIES
 
 #### Status
 ACCEPTED

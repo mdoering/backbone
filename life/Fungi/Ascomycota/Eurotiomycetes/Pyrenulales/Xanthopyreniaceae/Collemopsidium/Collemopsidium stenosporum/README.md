@@ -1,5 +1,4 @@
-Collemopsidium stenosporum Samp. SPECIES
-=======
+# Collemopsidium stenosporum Samp. SPECIES
 
 #### Status
 ACCEPTED

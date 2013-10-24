@@ -1,5 +1,4 @@
-Lecidea maurula (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea maurula (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

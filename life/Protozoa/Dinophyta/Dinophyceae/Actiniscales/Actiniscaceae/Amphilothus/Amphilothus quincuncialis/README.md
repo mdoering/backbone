@@ -1,5 +1,4 @@
-Amphilothus quincuncialis Kofoid, 1907 SPECIES
-=======
+# Amphilothus quincuncialis Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

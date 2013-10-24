@@ -1,5 +1,4 @@
-Trialetes Naumova GENUS
-=======
+# Trialetes Naumova GENUS
 
 #### Status
 ACCEPTED

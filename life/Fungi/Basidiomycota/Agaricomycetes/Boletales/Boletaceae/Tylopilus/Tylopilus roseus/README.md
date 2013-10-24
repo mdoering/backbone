@@ -1,5 +1,4 @@
-Tylopilus roseus (G. Winter) Henn. SPECIES
-=======
+# Tylopilus roseus (G. Winter) Henn. SPECIES
 
 #### Status
 ACCEPTED

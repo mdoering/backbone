@@ -1,17 +1,16 @@
-Holcomyces Lindau GENUS
-=======
+# Diplodia Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 45: 155 (1904)
+in Montagne, Annls Sci. Nat. , Bot. , sér. 2 1: 302 (1834)
 
 #### Original name
-Holcomyces Lindau
+Diplodia Fr.
 
 ### Remarks
 null

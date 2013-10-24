@@ -1,5 +1,4 @@
-Trichophaea fuscoatra var. fuscoatra VARIETY
-=======
+# Trichophaea fuscoatra (Rebent.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichophaea fuscoatra var. fuscoatra
+Peziza fuscoatra Rebent.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cothurnia cyathiforme SPECIES
-=======
+# Cothurnia cyathiforme SPECIES
 
 #### Status
 ACCEPTED

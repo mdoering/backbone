@@ -1,5 +1,4 @@
-Hygrocybe citrinofusca (J. Favre) Bon SPECIES
-=======
+# Hygrocybe citrinofusca (J. Favre) Bon SPECIES
 
 #### Status
 ACCEPTED

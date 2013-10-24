@@ -1,5 +1,4 @@
-Neococcomyces erumpens C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Neococcomyces erumpens C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

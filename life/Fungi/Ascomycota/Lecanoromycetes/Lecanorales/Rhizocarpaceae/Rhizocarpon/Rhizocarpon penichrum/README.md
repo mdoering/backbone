@@ -1,5 +1,4 @@
-Rhizocarpon penichrum (Tuck.) G. Merr. SPECIES
-=======
+# Rhizocarpon penichrum (Tuck.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

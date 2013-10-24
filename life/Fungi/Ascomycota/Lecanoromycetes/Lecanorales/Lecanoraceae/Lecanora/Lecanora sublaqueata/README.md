@@ -1,5 +1,4 @@
-Lecanora sublaqueata H. Magn. SPECIES
-=======
+# Lecanora sublaqueata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria wattakakae Pandotra & Ganguly SPECIES
-=======
+# Septoria wattakakae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma punctulata Cooke SPECIES
-=======
+# Phoma punctulata Cooke SPECIES
 
 #### Status
 ACCEPTED

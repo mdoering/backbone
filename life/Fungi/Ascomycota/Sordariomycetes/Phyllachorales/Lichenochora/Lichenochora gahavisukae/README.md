@@ -1,5 +1,4 @@
-Lichenochora gahavisukae Diederich, 1997 SPECIES
-=======
+# Lichenochora gahavisukae Diederich, 1997 SPECIES
 
 #### Status
 ACCEPTED

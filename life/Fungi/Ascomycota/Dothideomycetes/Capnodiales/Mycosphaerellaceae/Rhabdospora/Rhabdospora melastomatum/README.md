@@ -1,5 +1,4 @@
-Rhabdospora melastomatum Lév. SPECIES
-=======
+# Rhabdospora melastomatum Lév. SPECIES
 
 #### Status
 ACCEPTED

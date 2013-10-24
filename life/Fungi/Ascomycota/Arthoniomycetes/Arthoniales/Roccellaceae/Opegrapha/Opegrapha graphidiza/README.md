@@ -1,5 +1,4 @@
-Opegrapha graphidiza Nyl. SPECIES
-=======
+# Opegrapha graphidiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

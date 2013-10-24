@@ -1,5 +1,4 @@
-Olpidium sphaeritae P.A. Dang. SPECIES
-=======
+# Olpidium sphaeritae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

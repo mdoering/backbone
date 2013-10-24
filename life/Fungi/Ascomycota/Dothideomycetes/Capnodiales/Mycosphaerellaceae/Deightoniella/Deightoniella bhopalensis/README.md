@@ -1,5 +1,4 @@
-Deightoniella bhopalensis Satya SPECIES
-=======
+# Deightoniella bhopalensis Satya SPECIES
 
 #### Status
 ACCEPTED

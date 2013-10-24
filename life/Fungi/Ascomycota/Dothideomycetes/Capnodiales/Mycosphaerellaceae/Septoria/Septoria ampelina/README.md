@@ -1,5 +1,4 @@
-Septoria ampelina Viala & Ravaz SPECIES
-=======
+# Septoria ampelina Viala & Ravaz SPECIES
 
 #### Status
 ACCEPTED

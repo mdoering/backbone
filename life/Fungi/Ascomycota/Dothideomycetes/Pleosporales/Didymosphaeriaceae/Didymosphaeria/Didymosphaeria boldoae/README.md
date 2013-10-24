@@ -1,5 +1,4 @@
-Didymosphaeria boldoae Speg. SPECIES
-=======
+# Didymosphaeria boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

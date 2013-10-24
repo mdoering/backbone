@@ -1,5 +1,4 @@
-Ramularia cervina var. cervina VARIETY
-=======
+# Ramularia cervina Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Decades Mycologicae Italicae no. 107 (1879)
 
 #### Original name
-Ramularia cervina var. cervina
+Ramularia cervina Speg.
 
 ### Remarks
 null

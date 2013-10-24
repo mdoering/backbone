@@ -1,5 +1,4 @@
-Hysterium variabile Cooke & Peck SPECIES
-=======
+# Hysterium variabile Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

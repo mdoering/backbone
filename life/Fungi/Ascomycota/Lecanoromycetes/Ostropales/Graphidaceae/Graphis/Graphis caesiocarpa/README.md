@@ -1,5 +1,4 @@
-Graphis caesiocarpa Redinger SPECIES
-=======
+# Graphis caesiocarpa Redinger SPECIES
 
 #### Status
 ACCEPTED

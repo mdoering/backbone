@@ -1,5 +1,4 @@
-Lactarius constans J.E. Lange ex Romagn. SPECIES
-=======
+# Lactarius constans J.E. Lange ex Romagn. SPECIES
 
 #### Status
 ACCEPTED

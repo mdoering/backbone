@@ -1,5 +1,4 @@
-Oidiopsis papaveris Sawada SPECIES
-=======
+# Oidiopsis papaveris Sawada SPECIES
 
 #### Status
 ACCEPTED

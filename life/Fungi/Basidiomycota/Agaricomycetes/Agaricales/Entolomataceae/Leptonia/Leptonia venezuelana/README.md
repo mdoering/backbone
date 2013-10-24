@@ -1,5 +1,4 @@
-Leptonia venezuelana Dennis SPECIES
-=======
+# Leptonia venezuelana Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urosporium curvatum Fingerh. SPECIES
-=======
+# Urosporium curvatum Fingerh. SPECIES
 
 #### Status
 ACCEPTED

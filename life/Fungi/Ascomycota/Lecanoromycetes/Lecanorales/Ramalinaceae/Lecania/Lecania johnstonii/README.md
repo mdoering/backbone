@@ -1,17 +1,16 @@
-Lecania johnstoni C.W. Dodge SPECIES
-=======
+# Lecania johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Res. Exped. Rep. , Ser. B 7: 180 (1948)
 
 #### Original name
-Lecania johnstoni C.W. Dodge
+Lecania johnstonii C.W. Dodge
 
 ### Remarks
 null

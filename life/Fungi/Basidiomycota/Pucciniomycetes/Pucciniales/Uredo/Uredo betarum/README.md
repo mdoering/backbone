@@ -1,5 +1,4 @@
-Uredo betarum SPECIES
-=======
+# Uredo betarum SPECIES
 
 #### Status
 ACCEPTED

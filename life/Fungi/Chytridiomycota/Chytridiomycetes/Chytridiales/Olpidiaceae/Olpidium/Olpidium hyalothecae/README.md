@@ -1,5 +1,4 @@
-Olpidium hyalothecae Scherff. SPECIES
-=======
+# Olpidium hyalothecae Scherff. SPECIES
 
 #### Status
 ACCEPTED

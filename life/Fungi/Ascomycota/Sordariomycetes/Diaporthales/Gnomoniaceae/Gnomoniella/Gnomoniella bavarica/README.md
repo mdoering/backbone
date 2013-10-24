@@ -1,5 +1,4 @@
-Gnomoniella bavarica Kirschst. SPECIES
-=======
+# Gnomoniella bavarica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

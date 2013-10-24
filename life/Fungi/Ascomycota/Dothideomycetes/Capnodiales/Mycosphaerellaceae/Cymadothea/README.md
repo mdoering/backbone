@@ -1,5 +1,4 @@
-Cymadothea F.A. Wolf, 1935 GENUS
-=======
+# Cymadothea F.A. Wolf, 1935 GENUS
 
 #### Status
 ACCEPTED

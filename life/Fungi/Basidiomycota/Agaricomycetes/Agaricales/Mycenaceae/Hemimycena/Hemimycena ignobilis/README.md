@@ -1,5 +1,4 @@
-Hemimycena ignobilis Joss. ex Bon SPECIES
-=======
+# Hemimycena ignobilis Joss. ex Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina superfraxinea Follmann & Sánchez-Pinto SPECIES
-=======
+# Ramalina superfraxinea Follmann & Sánchez-Pinto SPECIES
 
 #### Status
 ACCEPTED

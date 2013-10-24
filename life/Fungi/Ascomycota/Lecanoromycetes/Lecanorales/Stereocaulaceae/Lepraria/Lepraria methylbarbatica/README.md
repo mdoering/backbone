@@ -1,5 +1,4 @@
-Lepraria methylbarbatica Elix SPECIES
-=======
+# Lepraria methylbarbatica Elix SPECIES
 
 #### Status
 ACCEPTED

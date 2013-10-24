@@ -1,5 +1,4 @@
-Camarosporium podocarpi Gucevic SPECIES
-=======
+# Camarosporium podocarpi Gucevic SPECIES
 
 #### Status
 ACCEPTED

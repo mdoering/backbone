@@ -1,5 +1,4 @@
-Sphaeria aurantiaca Schumach. SPECIES
-=======
+# Sphaeria aurantiaca Schumach. SPECIES
 
 #### Status
 ACCEPTED

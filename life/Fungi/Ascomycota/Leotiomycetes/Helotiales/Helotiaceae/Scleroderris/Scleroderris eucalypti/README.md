@@ -1,5 +1,4 @@
-Scleroderris eucalypti (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Scleroderris eucalypti (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

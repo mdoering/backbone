@@ -1,11 +1,10 @@
-Globorotalia truncatulinoides subsp. truncatulinoides SUBSPECIES
-=======
+# Globorotalia truncatulinoides (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+World Register of Marine Species
 
 #### Published in
 null

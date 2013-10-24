@@ -1,5 +1,4 @@
-Pleospora aculeorum Berl. SPECIES
-=======
+# Pleospora aculeorum Berl. SPECIES
 
 #### Status
 ACCEPTED

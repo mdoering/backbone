@@ -1,5 +1,4 @@
-Tilletia goloskokovii Schwarzman SPECIES
-=======
+# Tilletia goloskokovii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

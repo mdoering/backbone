@@ -1,5 +1,4 @@
-Citromyces griseus Sopp SPECIES
-=======
+# Citromyces griseus Sopp SPECIES
 
 #### Status
 ACCEPTED

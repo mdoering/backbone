@@ -1,5 +1,4 @@
-Ophiobolus sarothamni Feltgen SPECIES
-=======
+# Ophiobolus sarothamni Feltgen SPECIES
 
 #### Status
 ACCEPTED

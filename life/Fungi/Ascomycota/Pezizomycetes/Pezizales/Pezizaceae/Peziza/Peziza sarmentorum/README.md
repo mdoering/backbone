@@ -1,17 +1,16 @@
-Peziza sarmentorum var. sarmentorum VARIETY
-=======
+# Peziza sarmentorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peziza sarmentorum Berk. & Broome
 
 ### Remarks
 null

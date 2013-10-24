@@ -1,5 +1,4 @@
-Coleopuccinia kunmingensis F.L. Tai, 1948 SPECIES
-=======
+# Coleopuccinia kunmingensis F.L. Tai, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massalongia griseolobulata Øvstedal SPECIES
-=======
+# Massalongia griseolobulata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

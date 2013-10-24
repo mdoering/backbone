@@ -1,5 +1,4 @@
-Odontotrema diffindens Rehm SPECIES
-=======
+# Odontotrema diffindens Rehm SPECIES
 
 #### Status
 ACCEPTED

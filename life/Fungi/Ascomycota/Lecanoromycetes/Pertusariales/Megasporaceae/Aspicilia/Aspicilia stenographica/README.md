@@ -1,5 +1,4 @@
-Aspicilia stenographica Motyka SPECIES
-=======
+# Aspicilia stenographica Motyka SPECIES
 
 #### Status
 ACCEPTED

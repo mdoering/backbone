@@ -1,5 +1,4 @@
-Parmelia roccella (L.) Ach. SPECIES
-=======
+# Parmelia roccella (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

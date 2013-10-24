@@ -1,5 +1,4 @@
-Catocarpus dendriticus (Hoffm.) M. Choisy ex Werner SPECIES
-=======
+# Catocarpus dendriticus (Hoffm.) M. Choisy ex Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kotlabaea spaniosa (K.B. Khare) K.B. Khare SPECIES
-=======
+# Kotlabaea spaniosa (K.B. Khare) K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

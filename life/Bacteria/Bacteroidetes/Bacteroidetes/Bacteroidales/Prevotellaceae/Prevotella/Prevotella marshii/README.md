@@ -1,5 +1,4 @@
-Prevotella marshii Downes et al., 2005 SPECIES
-=======
+# Prevotella marshii Downes et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

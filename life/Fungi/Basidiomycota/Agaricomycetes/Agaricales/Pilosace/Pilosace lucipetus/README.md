@@ -1,5 +1,4 @@
-Pilosace lucipetus (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace lucipetus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

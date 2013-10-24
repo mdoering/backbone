@@ -1,5 +1,4 @@
-Pyxine pungens Zahlbr. SPECIES
-=======
+# Pyxine pungens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

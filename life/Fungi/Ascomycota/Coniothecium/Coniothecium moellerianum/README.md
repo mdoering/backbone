@@ -1,5 +1,4 @@
-Coniothecium moellerianum Thüm. SPECIES
-=======
+# Coniothecium moellerianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

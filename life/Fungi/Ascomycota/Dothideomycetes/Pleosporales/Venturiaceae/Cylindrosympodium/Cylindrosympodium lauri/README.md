@@ -1,5 +1,4 @@
-Cylindrosympodium lauri Crous & R.F. Castañeda SPECIES
-=======
+# Cylindrosympodium lauri Crous & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

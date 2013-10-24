@@ -1,5 +1,4 @@
-Sclerodermataceae FAMILY
-=======
+# Sclerodermataceae FAMILY
 
 #### Status
 ACCEPTED

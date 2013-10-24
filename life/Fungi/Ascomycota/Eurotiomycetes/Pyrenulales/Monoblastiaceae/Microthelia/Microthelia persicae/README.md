@@ -1,5 +1,4 @@
-Microthelia persicae (Pass.) Kuntze SPECIES
-=======
+# Microthelia persicae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

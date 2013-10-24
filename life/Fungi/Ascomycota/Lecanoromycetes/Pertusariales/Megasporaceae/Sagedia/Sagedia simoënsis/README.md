@@ -1,17 +1,16 @@
-Aspicilia simoënsis f. simoënsis FORM
-=======
+# Sagedia simoënsis (Räsänen) A. Nordin, S. Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Aspicilia simoënsis f. simoënsis
+null
 
 ### Remarks
 null

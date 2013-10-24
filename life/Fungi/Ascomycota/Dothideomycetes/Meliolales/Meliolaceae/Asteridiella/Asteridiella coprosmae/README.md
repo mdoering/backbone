@@ -1,5 +1,4 @@
-Asteridiella coprosmae Hansf., 1957 SPECIES
-=======
+# Asteridiella coprosmae Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

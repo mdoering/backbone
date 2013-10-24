@@ -1,8 +1,7 @@
-Liebmannia major P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Liebmannia leveillei J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

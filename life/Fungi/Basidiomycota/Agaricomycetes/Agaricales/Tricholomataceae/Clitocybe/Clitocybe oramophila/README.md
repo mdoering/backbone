@@ -1,5 +1,4 @@
-Clitocybe oramophila H.E. Bigelow SPECIES
-=======
+# Clitocybe oramophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella yaoundeana Mossebo & Pegler SPECIES
-=======
+# Psathyrella yaoundeana Mossebo & Pegler SPECIES
 
 #### Status
 ACCEPTED

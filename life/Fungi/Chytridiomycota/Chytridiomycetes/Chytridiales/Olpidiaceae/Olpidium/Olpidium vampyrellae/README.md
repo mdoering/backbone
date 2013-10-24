@@ -1,5 +1,4 @@
-Olpidium vampyrellae Scherff. SPECIES
-=======
+# Olpidium vampyrellae Scherff. SPECIES
 
 #### Status
 ACCEPTED

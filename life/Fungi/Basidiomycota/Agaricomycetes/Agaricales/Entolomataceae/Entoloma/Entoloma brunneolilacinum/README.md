@@ -1,5 +1,4 @@
-Entoloma brunneolilacinum E. Horak, 1973 SPECIES
-=======
+# Entoloma brunneolilacinum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

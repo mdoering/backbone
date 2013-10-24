@@ -1,5 +1,4 @@
-Leiosphaeridia complicata L.A. Sergeeva, 1976 SPECIES
-=======
+# Leiosphaeridia complicata L.A. Sergeeva, 1976 SPECIES
 
 #### Status
 ACCEPTED

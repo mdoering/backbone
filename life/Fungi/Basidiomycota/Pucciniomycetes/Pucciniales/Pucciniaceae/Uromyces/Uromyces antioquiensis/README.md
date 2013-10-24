@@ -1,5 +1,4 @@
-Uromyces antioquiensis Mayor SPECIES
-=======
+# Uromyces antioquiensis Mayor SPECIES
 
 #### Status
 ACCEPTED

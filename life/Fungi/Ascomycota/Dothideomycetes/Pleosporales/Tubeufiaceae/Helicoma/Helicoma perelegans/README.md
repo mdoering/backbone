@@ -1,5 +1,4 @@
-Helicoma perelegans Thaxt. ex Linder, 1929 SPECIES
-=======
+# Helicoma perelegans Thaxt. ex Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

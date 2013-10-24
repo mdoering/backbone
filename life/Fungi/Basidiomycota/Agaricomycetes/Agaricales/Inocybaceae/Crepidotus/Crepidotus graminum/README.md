@@ -1,5 +1,4 @@
-Crepidotus graminum Velen. SPECIES
-=======
+# Crepidotus graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

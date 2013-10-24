@@ -1,5 +1,4 @@
-Neoclitocybe alba (Velen.) Singer SPECIES
-=======
+# Neoclitocybe alba (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

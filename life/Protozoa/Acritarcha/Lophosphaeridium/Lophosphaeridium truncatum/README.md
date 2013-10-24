@@ -1,5 +1,4 @@
-Lophosphaeridium truncatum Volkova, 1969 SPECIES
-=======
+# Lophosphaeridium truncatum Volkova, 1969 SPECIES
 
 #### Status
 ACCEPTED

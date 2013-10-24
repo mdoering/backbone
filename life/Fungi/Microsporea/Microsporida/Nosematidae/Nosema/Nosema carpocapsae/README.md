@@ -1,5 +1,4 @@
-Nosema carpocapsae SPECIES
-=======
+# Nosema carpocapsae SPECIES
 
 #### Status
 ACCEPTED

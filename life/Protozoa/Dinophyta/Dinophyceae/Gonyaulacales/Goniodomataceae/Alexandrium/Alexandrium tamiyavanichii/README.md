@@ -1,5 +1,4 @@
-Alexandrium tamiyavanichii Balech, 1994 SPECIES
-=======
+# Alexandrium tamiyavanichii Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

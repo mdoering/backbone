@@ -1,5 +1,4 @@
-Melanopsamma hyalodidyma Cooke SPECIES
-=======
+# Melanopsamma hyalodidyma Cooke SPECIES
 
 #### Status
 ACCEPTED

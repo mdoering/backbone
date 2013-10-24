@@ -1,5 +1,4 @@
-Ustilago sinkiangensis Y.C. Wang SPECIES
-=======
+# Ustilago sinkiangensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

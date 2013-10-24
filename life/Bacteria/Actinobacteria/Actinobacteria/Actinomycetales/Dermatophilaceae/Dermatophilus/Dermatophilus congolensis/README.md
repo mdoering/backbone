@@ -1,11 +1,10 @@
-Streptothrix bovis Snijders & Jansen, 1955 SPECIES
-=======
+# Dermatophilus congolensis (van Saceghem, 1915) Gordon, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

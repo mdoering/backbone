@@ -1,14 +1,13 @@
-Pyrenula oxyspora Müll. Arg. SPECIES
-=======
+# Pyrenula oxysporiza Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 456 (1895)
+Cat. Lich. Univers. 1: 499 (1922)
 
 #### Original name
 Pyrenula oxyspora Müll. Arg.

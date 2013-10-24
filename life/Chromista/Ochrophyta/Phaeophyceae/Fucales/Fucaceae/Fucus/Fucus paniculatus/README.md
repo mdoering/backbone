@@ -1,5 +1,4 @@
-Fucus paniculatus Turner SPECIES
-=======
+# Fucus paniculatus Turner SPECIES
 
 #### Status
 ACCEPTED

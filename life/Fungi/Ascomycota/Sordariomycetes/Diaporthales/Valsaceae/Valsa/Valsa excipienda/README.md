@@ -1,5 +1,4 @@
-Valsa excipienda P. Karst. SPECIES
-=======
+# Valsa excipienda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

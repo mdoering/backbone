@@ -1,5 +1,4 @@
-Gibberella sacchari Speg. SPECIES
-=======
+# Gibberella sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

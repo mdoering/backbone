@@ -1,5 +1,4 @@
-Torula farinacea Preuss SPECIES
-=======
+# Torula farinacea Preuss SPECIES
 
 #### Status
 ACCEPTED

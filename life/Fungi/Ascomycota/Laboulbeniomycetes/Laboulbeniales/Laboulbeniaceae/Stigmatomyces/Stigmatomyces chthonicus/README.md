@@ -1,5 +1,4 @@
-Stigmatomyces chthonicus Huldén SPECIES
-=======
+# Stigmatomyces chthonicus Huldén SPECIES
 
 #### Status
 ACCEPTED

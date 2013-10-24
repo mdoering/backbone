@@ -1,5 +1,4 @@
-Phyllachora canarii Henn., 1908 SPECIES
-=======
+# Phyllachora canarii Henn., 1908 SPECIES
 
 #### Status
 DOUBTFUL

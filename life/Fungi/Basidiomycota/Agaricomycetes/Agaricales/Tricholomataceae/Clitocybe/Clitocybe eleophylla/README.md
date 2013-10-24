@@ -1,5 +1,4 @@
-Clitocybe eleophylla Corner SPECIES
-=======
+# Clitocybe eleophylla Corner SPECIES
 
 #### Status
 ACCEPTED

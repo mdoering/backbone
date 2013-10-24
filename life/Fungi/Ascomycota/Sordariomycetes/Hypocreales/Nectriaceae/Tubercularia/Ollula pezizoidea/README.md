@@ -1,5 +1,4 @@
-Ollula pezizoidea Lév. SPECIES
-=======
+# Ollula pezizoidea Lév. SPECIES
 
 #### Status
 ACCEPTED

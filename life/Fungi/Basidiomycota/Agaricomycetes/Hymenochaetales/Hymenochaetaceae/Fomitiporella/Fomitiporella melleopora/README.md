@@ -1,5 +1,4 @@
-Fomitiporella melleopora Murrill SPECIES
-=======
+# Fomitiporella melleopora Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solosympodiella inaequiseptata Matsush. SPECIES
-=======
+# Solosympodiella inaequiseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

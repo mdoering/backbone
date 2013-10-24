@@ -1,5 +1,4 @@
-Lepocinclis paxilliformis Playfair SPECIES
-=======
+# Lepocinclis paxilliformis Playfair SPECIES
 
 #### Status
 ACCEPTED

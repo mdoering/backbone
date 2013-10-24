@@ -1,5 +1,4 @@
-Oscillatoria annae Van Goor SPECIES
-=======
+# Oscillatoria annae Van Goor SPECIES
 
 #### Status
 ACCEPTED

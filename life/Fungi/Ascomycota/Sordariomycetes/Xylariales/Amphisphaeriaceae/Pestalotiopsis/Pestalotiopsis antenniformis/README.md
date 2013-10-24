@@ -1,14 +1,13 @@
-Pestalotia antenniformis B.J. Murray, 1926 SPECIES
-=======
+# Pestalotiopsis antenniformis (B.J. Murray) Y.X. Chen, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 57: 222 (1926)
+Journal of Guangxi Agricultural University 13: 117 (1994)
 
 #### Original name
 Pestalotia antenniformis B.J. Murray, 1926

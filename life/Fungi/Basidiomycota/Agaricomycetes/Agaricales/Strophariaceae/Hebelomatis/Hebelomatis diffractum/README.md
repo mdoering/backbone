@@ -1,5 +1,4 @@
-Hebelomatis diffractum (Fr.) Locq. SPECIES
-=======
+# Hebelomatis diffractum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

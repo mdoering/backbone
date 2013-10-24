@@ -1,5 +1,4 @@
-Exobasidium butleri Syd. & P. Syd. SPECIES
-=======
+# Exobasidium butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

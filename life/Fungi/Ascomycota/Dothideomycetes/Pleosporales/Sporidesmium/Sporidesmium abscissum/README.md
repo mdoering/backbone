@@ -1,5 +1,4 @@
-Sporidesmium abscissum Matsush. SPECIES
-=======
+# Sporidesmium abscissum Matsush. SPECIES
 
 #### Status
 ACCEPTED

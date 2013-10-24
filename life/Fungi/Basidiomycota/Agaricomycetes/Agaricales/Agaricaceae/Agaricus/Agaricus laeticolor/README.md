@@ -1,5 +1,4 @@
-Agaricus laeticolor Kalchbr. SPECIES
-=======
+# Agaricus laeticolor Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

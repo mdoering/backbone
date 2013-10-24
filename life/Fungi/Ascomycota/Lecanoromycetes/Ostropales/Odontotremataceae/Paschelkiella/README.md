@@ -1,5 +1,4 @@
-Paschelkiella Sherwood GENUS
-=======
+# Paschelkiella Sherwood GENUS
 
 #### Status
 ACCEPTED

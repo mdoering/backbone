@@ -1,5 +1,4 @@
-Phyllachora epicladii (Cooke & Massee) Arx, 1957 SPECIES
-=======
+# Phyllachora epicladii (Cooke & Massee) Arx, 1957 SPECIES
 
 #### Status
 DOUBTFUL

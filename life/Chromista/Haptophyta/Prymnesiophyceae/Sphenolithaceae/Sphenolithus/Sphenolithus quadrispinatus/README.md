@@ -1,5 +1,4 @@
-Sphenolithus quadrispinatus Perch-Nielsen, 1980 SPECIES
-=======
+# Sphenolithus quadrispinatus Perch-Nielsen, 1980 SPECIES
 
 #### Status
 ACCEPTED

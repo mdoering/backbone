@@ -1,5 +1,4 @@
-Coniothyrium ohiense (Ellis & Everh.) Kuntze SPECIES
-=======
+# Coniothyrium ohiense (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

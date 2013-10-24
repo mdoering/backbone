@@ -1,8 +1,7 @@
-Gloeosporium theobromicolum Vincens SPECIES
-=======
+# Gloeosporium theobromicola Vincens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium theobromicolum Vincens
+Gloeosporium theobromicola Vincens
 
 ### Remarks
 null

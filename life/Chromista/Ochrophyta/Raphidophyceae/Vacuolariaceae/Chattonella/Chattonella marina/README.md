@@ -1,5 +1,4 @@
-Chattonella marina (Subrahmanyan) Hara & Chihara SPECIES
-=======
+# Chattonella marina (Subrahmanyan) Hara & Chihara SPECIES
 
 #### Status
 ACCEPTED

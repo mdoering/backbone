@@ -1,5 +1,4 @@
-Saccharomyces zimmeri C.W. Dodge SPECIES
-=======
+# Saccharomyces zimmeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

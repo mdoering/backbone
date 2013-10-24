@@ -1,5 +1,4 @@
-Meliola macrocarpa Mont. SPECIES
-=======
+# Meliola macrocarpa Mont. SPECIES
 
 #### Status
 ACCEPTED

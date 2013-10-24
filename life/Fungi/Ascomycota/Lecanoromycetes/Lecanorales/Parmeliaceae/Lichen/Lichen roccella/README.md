@@ -1,5 +1,4 @@
-Lichen roccella L. SPECIES
-=======
+# Lichen roccella L. SPECIES
 
 #### Status
 ACCEPTED

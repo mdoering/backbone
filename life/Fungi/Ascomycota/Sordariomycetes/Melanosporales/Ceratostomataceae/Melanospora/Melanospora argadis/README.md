@@ -1,5 +1,4 @@
-Melanospora argadis Czerepan. SPECIES
-=======
+# Melanospora argadis Czerepan. SPECIES
 
 #### Status
 ACCEPTED

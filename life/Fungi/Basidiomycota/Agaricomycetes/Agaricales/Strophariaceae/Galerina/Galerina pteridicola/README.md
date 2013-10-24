@@ -1,5 +1,4 @@
-Galerina pteridicola A.H. Sm. SPECIES
-=======
+# Galerina pteridicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

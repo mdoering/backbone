@@ -1,5 +1,4 @@
-Phoma salsa Sacc. SPECIES
-=======
+# Phoma salsa Sacc. SPECIES
 
 #### Status
 ACCEPTED

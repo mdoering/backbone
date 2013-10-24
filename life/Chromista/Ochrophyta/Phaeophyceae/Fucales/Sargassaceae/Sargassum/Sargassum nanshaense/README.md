@@ -1,5 +1,4 @@
-Sargassum nanshaense C.K.Tseng & Lu SPECIES
-=======
+# Sargassum nanshaense C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

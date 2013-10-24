@@ -1,5 +1,4 @@
-Uredo sonchi-arvencis Sawada SPECIES
-=======
+# Uredo sonchi-arvencis Sawada SPECIES
 
 #### Status
 ACCEPTED

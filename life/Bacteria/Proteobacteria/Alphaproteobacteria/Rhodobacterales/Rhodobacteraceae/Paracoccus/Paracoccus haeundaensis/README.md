@@ -1,5 +1,4 @@
-Paracoccus haeundaensis Lee et al., 2004 SPECIES
-=======
+# Paracoccus haeundaensis Lee et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

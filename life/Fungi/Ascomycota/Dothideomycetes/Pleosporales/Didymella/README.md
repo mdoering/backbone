@@ -1,17 +1,16 @@
-Arcangelia Sacc. GENUS
-=======
+# Didymella Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 5: 115 (1890)
+Michelia 2(no. 6): 57 (1880)
 
 #### Original name
-Arcangelia Sacc.
+Didymella Sacc.
 
 ### Remarks
 null

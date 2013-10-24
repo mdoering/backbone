@@ -1,5 +1,4 @@
-Diplodia clandestina f. clandestina FORM
-=======
+# Diplodia clandestina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora Algéricae 1: 575 (1849)
 
 #### Original name
-Diplodia clandestina f. clandestina
+Diplodia clandestina Durieu & Mont.
 
 ### Remarks
 null

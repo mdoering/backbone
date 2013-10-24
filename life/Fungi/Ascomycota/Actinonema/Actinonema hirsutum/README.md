@@ -1,5 +1,4 @@
-Actinonema hirsutum Speg. SPECIES
-=======
+# Actinonema hirsutum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora retinens (Nyl.) Motyka SPECIES
-=======
+# Lecanora retinens (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

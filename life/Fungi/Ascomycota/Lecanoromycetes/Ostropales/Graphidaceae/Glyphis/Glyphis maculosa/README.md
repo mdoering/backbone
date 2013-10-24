@@ -1,5 +1,4 @@
-Glyphis maculosa Fr. SPECIES
-=======
+# Glyphis maculosa Fr. SPECIES
 
 #### Status
 ACCEPTED

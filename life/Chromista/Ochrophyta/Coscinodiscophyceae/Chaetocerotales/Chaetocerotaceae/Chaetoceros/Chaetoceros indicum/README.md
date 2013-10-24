@@ -1,5 +1,4 @@
-Chaetoceros indicum Karsten SPECIES
-=======
+# Chaetoceros indicum Karsten SPECIES
 
 #### Status
 ACCEPTED

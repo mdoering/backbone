@@ -1,5 +1,4 @@
-Exobasidium uvae-ursi (Maire) Juel SPECIES
-=======
+# Exobasidium uvae-ursi (Maire) Juel SPECIES
 
 #### Status
 ACCEPTED

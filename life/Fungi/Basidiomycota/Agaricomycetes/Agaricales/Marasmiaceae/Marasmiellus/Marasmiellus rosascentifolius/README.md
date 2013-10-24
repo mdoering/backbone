@@ -1,5 +1,4 @@
-Marasmiellus rosascentifolius Singer SPECIES
-=======
+# Marasmiellus rosascentifolius Singer SPECIES
 
 #### Status
 ACCEPTED

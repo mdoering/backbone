@@ -1,5 +1,4 @@
-Capnodium baccharidis var. globosum Bat. & Cif. VARIETY
-=======
+# Capnodium baccharidis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Capnodium baccharidis var. globosum Bat. & Cif.
+Capnodium baccharidis Bat. & Cif.
 
 ### Remarks
 null

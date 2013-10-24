@@ -1,5 +1,4 @@
-Gasparrinia arnoldii var. arnoldii VARIETY
-=======
+# Gasparrinia arnoldii SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Tab. Opred. Rodov Vidov Semeistva Kaloplakovykh (Caloplacaceae Zahlbr. ) Flory Lishainikov SSSR (Kiev) 31 (1990)
+null
 
 #### Original name
-Gasparrinia arnoldii var. arnoldii
+null
 
 ### Remarks
 null

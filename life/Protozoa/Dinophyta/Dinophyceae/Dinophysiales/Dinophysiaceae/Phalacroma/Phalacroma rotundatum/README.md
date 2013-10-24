@@ -1,11 +1,10 @@
-Phalacroma rudgei Murray & Whitting, 1899 SPECIES
-=======
+# Phalacroma rotundatum (Claparéde & Lachmann) Kofoid & Michener SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

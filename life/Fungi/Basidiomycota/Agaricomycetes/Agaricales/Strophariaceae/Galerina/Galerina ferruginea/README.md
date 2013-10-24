@@ -1,5 +1,4 @@
-Galerina ferruginea A.H. Sm. SPECIES
-=======
+# Galerina ferruginea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

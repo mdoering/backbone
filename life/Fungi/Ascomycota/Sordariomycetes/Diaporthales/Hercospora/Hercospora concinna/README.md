@@ -1,5 +1,4 @@
-Hercospora concinna Petr. SPECIES
-=======
+# Hercospora concinna Petr. SPECIES
 
 #### Status
 ACCEPTED

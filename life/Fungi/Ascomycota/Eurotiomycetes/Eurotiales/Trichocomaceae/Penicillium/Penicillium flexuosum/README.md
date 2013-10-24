@@ -1,5 +1,4 @@
-Penicillium flexuosum Preuss SPECIES
-=======
+# Penicillium flexuosum Preuss SPECIES
 
 #### Status
 ACCEPTED

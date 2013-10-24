@@ -1,5 +1,4 @@
-Seimatosporium monochaetoides (Speg.) B. Sutton SPECIES
-=======
+# Seimatosporium monochaetoides (Speg.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

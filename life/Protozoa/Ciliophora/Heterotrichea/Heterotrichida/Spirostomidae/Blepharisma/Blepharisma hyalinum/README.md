@@ -1,5 +1,4 @@
-Blepharisma hyalinum Perty, 1852 SPECIES
-=======
+# Blepharisma hyalinum Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

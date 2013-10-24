@@ -1,5 +1,4 @@
-Stichotricha multinucleata SPECIES
-=======
+# Stichotricha multinucleata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma siolmatrae Speg. SPECIES
-=======
+# Phoma siolmatrae Speg. SPECIES
 
 #### Status
 ACCEPTED

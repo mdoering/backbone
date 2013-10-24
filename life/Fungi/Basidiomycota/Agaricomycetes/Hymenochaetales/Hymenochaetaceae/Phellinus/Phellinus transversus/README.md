@@ -1,5 +1,4 @@
-Phellinus transversus Corner SPECIES
-=======
+# Phellinus transversus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta celastri Ellis & Everh. SPECIES
-=======
+# Phyllosticta celastri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

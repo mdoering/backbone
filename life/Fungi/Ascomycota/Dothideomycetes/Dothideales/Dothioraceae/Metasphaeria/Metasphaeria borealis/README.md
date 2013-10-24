@@ -1,5 +1,4 @@
-Metasphaeria borealis Rostr. SPECIES
-=======
+# Metasphaeria borealis Rostr. SPECIES
 
 #### Status
 ACCEPTED

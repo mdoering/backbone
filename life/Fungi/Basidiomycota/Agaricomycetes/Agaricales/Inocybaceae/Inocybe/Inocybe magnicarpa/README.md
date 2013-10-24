@@ -1,5 +1,4 @@
-Inocybe magnicarpa Takah. Kobay. SPECIES
-=======
+# Inocybe magnicarpa Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo albiziae Henn. SPECIES
-=======
+# Uredo albiziae Henn. SPECIES
 
 #### Status
 ACCEPTED

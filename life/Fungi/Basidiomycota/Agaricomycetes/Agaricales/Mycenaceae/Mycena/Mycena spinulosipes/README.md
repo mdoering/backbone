@@ -1,5 +1,4 @@
-Mycena spinulosipes Robich SPECIES
-=======
+# Mycena spinulosipes Robich SPECIES
 
 #### Status
 ACCEPTED

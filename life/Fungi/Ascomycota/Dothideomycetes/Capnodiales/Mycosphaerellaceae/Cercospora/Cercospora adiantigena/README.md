@@ -1,5 +1,4 @@
-Cercospora adiantigena U. Braun & Crous SPECIES
-=======
+# Cercospora adiantigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

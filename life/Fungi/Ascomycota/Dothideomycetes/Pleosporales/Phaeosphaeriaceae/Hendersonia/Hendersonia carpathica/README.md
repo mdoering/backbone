@@ -1,5 +1,4 @@
-Hendersonia carpathica (Bäumler) Kuntze SPECIES
-=======
+# Hendersonia carpathica (Bäumler) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongatractus Haeckel, 1887 GENUS
-=======
+# Spongatractus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

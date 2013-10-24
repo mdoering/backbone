@@ -1,5 +1,4 @@
-Nymanomyces xolismae E.K. Cash SPECIES
-=======
+# Nymanomyces xolismae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

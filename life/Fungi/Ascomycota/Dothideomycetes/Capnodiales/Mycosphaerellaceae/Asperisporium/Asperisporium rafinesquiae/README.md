@@ -1,5 +1,4 @@
-Asperisporium rafinesquiae (Harkn.) U. Braun & Crous SPECIES
-=======
+# Asperisporium rafinesquiae (Harkn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia sarothamni Velen. SPECIES
-=======
+# Tapesia sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

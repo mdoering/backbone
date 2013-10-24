@@ -1,5 +1,4 @@
-Strongylium atrum Link SPECIES
-=======
+# Strongylium atrum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium capsulatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium capsulatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

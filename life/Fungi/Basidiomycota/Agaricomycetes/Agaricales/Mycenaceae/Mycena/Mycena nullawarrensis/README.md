@@ -1,5 +1,4 @@
-Mycena nullawarrensis Grgur. SPECIES
-=======
+# Mycena nullawarrensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

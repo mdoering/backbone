@@ -1,5 +1,4 @@
-Verrucaria melaleuca (Ach.) Ach. SPECIES
-=======
+# Verrucaria melaleuca (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

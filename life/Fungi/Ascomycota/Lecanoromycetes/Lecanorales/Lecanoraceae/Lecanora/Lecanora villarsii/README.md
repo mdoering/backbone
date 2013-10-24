@@ -1,5 +1,4 @@
-Lecanora villarsii Ach. SPECIES
-=======
+# Lecanora villarsii Ach. SPECIES
 
 #### Status
 ACCEPTED

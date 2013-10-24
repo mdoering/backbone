@@ -1,5 +1,4 @@
-Clathrus mauritianus (Lloyd) Dring SPECIES
-=======
+# Clathrus mauritianus (Lloyd) Dring SPECIES
 
 #### Status
 ACCEPTED

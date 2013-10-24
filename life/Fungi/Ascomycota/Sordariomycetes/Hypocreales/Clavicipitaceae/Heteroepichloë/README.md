@@ -1,5 +1,4 @@
-Heteroepichloë E. Tanaka, C. Tanaka, Gafur & Tsuda GENUS
-=======
+# Heteroepichloë E. Tanaka, C. Tanaka, Gafur & Tsuda GENUS
 
 #### Status
 ACCEPTED

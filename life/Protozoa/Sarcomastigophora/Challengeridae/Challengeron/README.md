@@ -1,5 +1,4 @@
-Challengeron Murray, 1879 GENUS
-=======
+# Challengeron Murray, 1879 GENUS
 
 #### Status
 ACCEPTED

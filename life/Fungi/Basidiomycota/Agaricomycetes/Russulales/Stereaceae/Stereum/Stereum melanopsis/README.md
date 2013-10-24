@@ -1,5 +1,4 @@
-Stereum melanopsis Sacc. & P. Syd. SPECIES
-=======
+# Stereum melanopsis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

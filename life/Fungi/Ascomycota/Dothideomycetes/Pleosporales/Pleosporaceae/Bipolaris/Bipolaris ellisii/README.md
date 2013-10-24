@@ -1,5 +1,4 @@
-Bipolaris ellisii (Danquah) Alcorn SPECIES
-=======
+# Bipolaris ellisii (Danquah) Alcorn SPECIES
 
 #### Status
 ACCEPTED

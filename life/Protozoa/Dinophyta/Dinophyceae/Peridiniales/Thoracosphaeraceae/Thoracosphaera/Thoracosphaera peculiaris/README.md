@@ -1,5 +1,4 @@
-Thoracosphaera peculiaris Chongyou Wang SPECIES
-=======
+# Thoracosphaera peculiaris Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

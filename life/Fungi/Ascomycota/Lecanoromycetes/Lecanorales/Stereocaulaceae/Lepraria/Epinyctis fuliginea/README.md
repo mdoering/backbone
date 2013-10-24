@@ -1,5 +1,4 @@
-Epinyctis fuliginea (Ach.) Wallr. SPECIES
-=======
+# Epinyctis fuliginea (Ach.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

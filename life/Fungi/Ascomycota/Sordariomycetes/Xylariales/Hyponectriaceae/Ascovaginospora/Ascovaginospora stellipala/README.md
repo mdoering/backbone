@@ -1,5 +1,4 @@
-Ascovaginospora stellipala Fallah, Shearer & W.D. Chen, 1997 SPECIES
-=======
+# Ascovaginospora stellipala Fallah, Shearer & W.D. Chen, 1997 SPECIES
 
 #### Status
 ACCEPTED

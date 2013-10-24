@@ -1,5 +1,4 @@
-Lecanora destituta SPECIES
-=======
+# Lecanora destituta SPECIES
 
 #### Status
 ACCEPTED

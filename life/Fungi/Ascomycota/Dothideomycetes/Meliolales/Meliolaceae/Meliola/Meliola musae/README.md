@@ -1,5 +1,4 @@
-Meliola musae (Kunze) Mont. SPECIES
-=======
+# Meliola musae (Kunze) Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta stokesiae Miura SPECIES
-=======
+# Phyllosticta stokesiae Miura SPECIES
 
 #### Status
 ACCEPTED

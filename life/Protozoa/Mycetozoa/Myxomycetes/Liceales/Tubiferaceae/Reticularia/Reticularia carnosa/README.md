@@ -1,5 +1,4 @@
-Reticularia carnosa Bull. SPECIES
-=======
+# Reticularia carnosa Bull. SPECIES
 
 #### Status
 ACCEPTED

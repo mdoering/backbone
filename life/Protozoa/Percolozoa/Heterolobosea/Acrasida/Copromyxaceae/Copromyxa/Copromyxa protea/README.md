@@ -1,5 +1,4 @@
-Copromyxa protea (Fayod) Zopf SPECIES
-=======
+# Copromyxa protea (Fayod) Zopf SPECIES
 
 #### Status
 ACCEPTED

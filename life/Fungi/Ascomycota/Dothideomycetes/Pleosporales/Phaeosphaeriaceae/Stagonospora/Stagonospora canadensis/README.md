@@ -1,5 +1,4 @@
-Stagonospora canadensis H.C. Greene SPECIES
-=======
+# Stagonospora canadensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

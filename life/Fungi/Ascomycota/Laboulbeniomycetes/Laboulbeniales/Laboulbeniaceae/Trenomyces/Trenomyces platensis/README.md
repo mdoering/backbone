@@ -1,5 +1,4 @@
-Trenomyces platensis Speg. SPECIES
-=======
+# Trenomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus membranaceus Massee SPECIES
-=======
+# Pleurotus membranaceus Massee SPECIES
 
 #### Status
 ACCEPTED

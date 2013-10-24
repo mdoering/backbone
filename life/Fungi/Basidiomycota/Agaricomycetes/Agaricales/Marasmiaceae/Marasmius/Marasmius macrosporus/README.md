@@ -1,5 +1,4 @@
-Marasmius macrosporus M. Zang SPECIES
-=======
+# Marasmius macrosporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveolina d'Orbigny, 1826 GENUS
-=======
+# Alveolina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

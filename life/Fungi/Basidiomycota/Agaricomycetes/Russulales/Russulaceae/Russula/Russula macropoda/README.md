@@ -1,5 +1,4 @@
-Russula macropoda Singer SPECIES
-=======
+# Russula macropoda Singer SPECIES
 
 #### Status
 ACCEPTED

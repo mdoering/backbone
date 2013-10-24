@@ -1,17 +1,16 @@
-Rhizocarpon chionophilum var. chionophilum VARIETY
-=======
+# Rhizocarpon alpicola (Anzi) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flecht. Europ. 22: no. 618 (1861)
 
 #### Original name
-Rhizocarpon chionophilum var. chionophilum
+Lecidea atrovirens var. alpicola Wahlenb.
 
 ### Remarks
 null

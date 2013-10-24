@@ -1,5 +1,4 @@
-Tremella boninensis (Kobayasi) S. Ito & S. Imai SPECIES
-=======
+# Tremella boninensis (Kobayasi) S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

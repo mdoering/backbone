@@ -1,5 +1,4 @@
-Verrucaria nigroumbrina f. nigroumbrina Servít FORM
-=======
+# Verrucaria nigroumbrina Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria nigroumbrina f. nigroumbrina Servít
+Verrucaria nigroumbrina Servít
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bolbitius contribulans Britzelm. SPECIES
-=======
+# Bolbitius contribulans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

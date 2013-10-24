@@ -1,5 +1,4 @@
-Chrysopora Pascher, 1925 GENUS
-=======
+# Chrysopora Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

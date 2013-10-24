@@ -1,5 +1,4 @@
-Acanthodesmia vinculata Mueller, 1858 SPECIES
-=======
+# Acanthodesmia vinculata Mueller, 1858 SPECIES
 
 #### Status
 ACCEPTED

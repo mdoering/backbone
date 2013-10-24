@@ -1,5 +1,4 @@
-Puccinia heribaudiana Har. SPECIES
-=======
+# Puccinia heribaudiana Har. SPECIES
 
 #### Status
 ACCEPTED

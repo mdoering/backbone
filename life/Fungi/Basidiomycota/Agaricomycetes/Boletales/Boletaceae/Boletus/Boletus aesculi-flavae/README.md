@@ -1,5 +1,4 @@
-Boletus aesculi-flavae Schwein. SPECIES
-=======
+# Boletus aesculi-flavae Schwein. SPECIES
 
 #### Status
 ACCEPTED

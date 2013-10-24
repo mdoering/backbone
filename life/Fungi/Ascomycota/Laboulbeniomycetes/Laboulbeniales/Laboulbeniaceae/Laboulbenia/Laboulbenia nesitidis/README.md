@@ -1,5 +1,4 @@
-Laboulbenia nesitidis Balazuc SPECIES
-=======
+# Laboulbenia nesitidis Balazuc SPECIES
 
 #### Status
 ACCEPTED

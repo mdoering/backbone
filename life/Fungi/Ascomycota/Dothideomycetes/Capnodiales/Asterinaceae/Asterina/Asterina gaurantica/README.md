@@ -1,5 +1,4 @@
-Asterina gaurantica Speg. SPECIES
-=======
+# Asterina gaurantica Speg. SPECIES
 
 #### Status
 ACCEPTED

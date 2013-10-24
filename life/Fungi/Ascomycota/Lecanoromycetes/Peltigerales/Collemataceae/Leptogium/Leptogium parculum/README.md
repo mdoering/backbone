@@ -1,5 +1,4 @@
-Leptogium parculum Nyl. SPECIES
-=======
+# Leptogium parculum Nyl. SPECIES
 
 #### Status
 ACCEPTED

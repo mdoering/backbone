@@ -1,5 +1,4 @@
-Cryptococcus arboriformis Sugita, M. Takash., Sano, Nishim., Kinebuchi, S. Yamag. & Osanai SPECIES
-=======
+# Cryptococcus arboriformis Sugita, M. Takash., Sano, Nishim., Kinebuchi, S. Yamag. & Osanai SPECIES
 
 #### Status
 ACCEPTED

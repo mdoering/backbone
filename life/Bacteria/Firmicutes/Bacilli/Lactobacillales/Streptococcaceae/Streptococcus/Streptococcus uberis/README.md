@@ -1,5 +1,4 @@
-Streptococcus uberis Diernhofer, 1932 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus uberis Diernhofer, 1932 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

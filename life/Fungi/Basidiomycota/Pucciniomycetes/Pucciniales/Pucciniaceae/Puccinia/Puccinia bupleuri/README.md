@@ -1,17 +1,16 @@
-Aecidium falcariae bupleuri-falcati DC., 1815 INFRASPECIFIC_NAME
-=======
+# Puccinia bupleuri (Opiz) F. Rudolphi, 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 4: 514 (1829)
 
 #### Original name
-null
+Aecidium bupleuri Opiz, 1852
 
 ### Remarks
 null

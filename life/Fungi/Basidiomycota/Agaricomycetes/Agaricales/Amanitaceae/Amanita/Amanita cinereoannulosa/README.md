@@ -1,5 +1,4 @@
-Amanita cinereoannulosa Cleland SPECIES
-=======
+# Amanita cinereoannulosa Cleland SPECIES
 
 #### Status
 ACCEPTED

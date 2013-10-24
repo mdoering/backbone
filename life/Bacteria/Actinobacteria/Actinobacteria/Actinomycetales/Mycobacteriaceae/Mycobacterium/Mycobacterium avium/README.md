@@ -1,5 +1,4 @@
-Mycobacterium avium subsp. avium Chester, 1901 SUBSPECIES
-=======
+# Mycobacterium avium Chester, 1901 SPECIES
 
 #### Status
 ACCEPTED

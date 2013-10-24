@@ -1,5 +1,4 @@
-Pleospora lactucicola Ellis & Everh. SPECIES
-=======
+# Pleospora lactucicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

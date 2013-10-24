@@ -1,5 +1,4 @@
-Pleurotus hyacinthus Corner, 1981 SPECIES
-=======
+# Pleurotus hyacinthus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

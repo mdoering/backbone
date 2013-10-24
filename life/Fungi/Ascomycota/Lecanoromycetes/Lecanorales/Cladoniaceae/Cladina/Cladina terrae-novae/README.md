@@ -1,5 +1,4 @@
-Cladina terrae-novae f. terrae-novae FORM
-=======
+# Cladina terrae-novae (Ahti) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bryologist 73(3): 511 (1970)
 
 #### Original name
-Cladina terrae-novae f. terrae-novae
+Cladonia terrae-novae Ahti
 
 ### Remarks
 null

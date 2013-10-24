@@ -1,5 +1,4 @@
-Pleurophragmium arecae Matsush. SPECIES
-=======
+# Pleurophragmium arecae Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus subauratus (Ellis) Dennis SPECIES
-=======
+# Dasyscyphus subauratus (Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

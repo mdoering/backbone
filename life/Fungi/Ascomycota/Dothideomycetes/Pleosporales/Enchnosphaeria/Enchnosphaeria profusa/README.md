@@ -1,5 +1,4 @@
-Enchnosphaeria profusa Syd. SPECIES
-=======
+# Enchnosphaeria profusa Syd. SPECIES
 
 #### Status
 ACCEPTED

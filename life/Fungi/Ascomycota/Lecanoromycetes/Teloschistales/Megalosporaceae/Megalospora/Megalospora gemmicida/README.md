@@ -1,5 +1,4 @@
-Megalospora gemmicida Naumov SPECIES
-=======
+# Megalospora gemmicida Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cenangium aggregatum (Lasch) Fuckel, 1870 SPECIES
-=======
+# Leptosphaeria aggregata (Lasch) O.E. Erikss., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Non-lichenized Pyrenomycetes of Sweden (Lund) 7 (1992)
 
 #### Original name
-null
+Sphaeria aggregata Lasch, 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psorella delusa (Nyl.) Müll. Arg. SPECIES
-=======
+# Psorella delusa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

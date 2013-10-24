@@ -1,5 +1,4 @@
-Phoma caperatae Vouaux SPECIES
-=======
+# Phoma caperatae Vouaux SPECIES
 
 #### Status
 ACCEPTED

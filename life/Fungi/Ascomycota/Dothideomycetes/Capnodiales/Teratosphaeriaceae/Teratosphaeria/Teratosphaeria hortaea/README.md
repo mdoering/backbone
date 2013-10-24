@@ -1,5 +1,4 @@
-Teratosphaeria hortaea Crous & M.J. Wingf., 2009 SPECIES
-=======
+# Teratosphaeria hortaea Crous & M.J. Wingf., 2009 SPECIES
 
 #### Status
 ACCEPTED

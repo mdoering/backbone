@@ -1,5 +1,4 @@
-Sphaeria carectorum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria carectorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

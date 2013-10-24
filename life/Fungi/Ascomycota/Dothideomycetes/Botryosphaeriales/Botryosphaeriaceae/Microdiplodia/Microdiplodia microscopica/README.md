@@ -1,5 +1,4 @@
-Microdiplodia microscopica (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Microdiplodia microscopica (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

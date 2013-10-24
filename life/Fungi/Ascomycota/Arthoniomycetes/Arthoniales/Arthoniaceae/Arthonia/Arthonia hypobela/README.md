@@ -1,5 +1,4 @@
-Arthonia hypobela Nyl. SPECIES
-=======
+# Arthonia hypobela Nyl. SPECIES
 
 #### Status
 ACCEPTED

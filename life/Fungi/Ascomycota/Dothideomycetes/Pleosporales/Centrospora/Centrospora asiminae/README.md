@@ -1,5 +1,4 @@
-Centrospora asiminae (Ellis & Kellerm.) Deighton SPECIES
-=======
+# Centrospora asiminae (Ellis & Kellerm.) Deighton SPECIES
 
 #### Status
 ACCEPTED

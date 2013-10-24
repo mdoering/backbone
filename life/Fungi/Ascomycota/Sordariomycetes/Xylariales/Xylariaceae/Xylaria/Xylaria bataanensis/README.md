@@ -1,5 +1,4 @@
-Xylaria bataanensis Henn. SPECIES
-=======
+# Xylaria bataanensis Henn. SPECIES
 
 #### Status
 ACCEPTED

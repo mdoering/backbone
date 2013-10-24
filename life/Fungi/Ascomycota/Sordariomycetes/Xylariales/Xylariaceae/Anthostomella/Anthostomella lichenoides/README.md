@@ -1,5 +1,4 @@
-Anthostomella lichenoides Rehm SPECIES
-=======
+# Anthostomella lichenoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium kalopanacis Gornostai SPECIES
-=======
+# Helminthosporium kalopanacis Gornostai SPECIES
 
 #### Status
 ACCEPTED

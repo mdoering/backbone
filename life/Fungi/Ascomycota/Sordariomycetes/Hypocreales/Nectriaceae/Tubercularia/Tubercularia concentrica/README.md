@@ -1,5 +1,4 @@
-Tubercularia concentrica Mont. & Fr. SPECIES
-=======
+# Tubercularia concentrica Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora quercus Sacc. SPECIES
-=======
+# Cytospora quercus Sacc. SPECIES
 
 #### Status
 ACCEPTED

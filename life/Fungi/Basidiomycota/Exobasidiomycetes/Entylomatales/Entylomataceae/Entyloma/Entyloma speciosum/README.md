@@ -1,5 +1,4 @@
-Entyloma speciosum J. Schröt. & Henn. SPECIES
-=======
+# Entyloma speciosum J. Schröt. & Henn. SPECIES
 
 #### Status
 ACCEPTED

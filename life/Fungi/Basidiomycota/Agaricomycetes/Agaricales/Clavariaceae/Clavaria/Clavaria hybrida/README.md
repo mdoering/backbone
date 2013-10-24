@@ -1,5 +1,4 @@
-Clavaria hybrida Bull. SPECIES
-=======
+# Clavaria hybrida Bull. SPECIES
 
 #### Status
 ACCEPTED

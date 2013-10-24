@@ -1,5 +1,4 @@
-Pertusaria weberi Elix & A.W. Archer SPECIES
-=======
+# Pertusaria weberi Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

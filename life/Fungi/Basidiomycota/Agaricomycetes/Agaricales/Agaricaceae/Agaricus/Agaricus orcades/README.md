@@ -1,5 +1,4 @@
-Agaricus orcades Sw. SPECIES
-=======
+# Agaricus orcades Sw. SPECIES
 
 #### Status
 ACCEPTED

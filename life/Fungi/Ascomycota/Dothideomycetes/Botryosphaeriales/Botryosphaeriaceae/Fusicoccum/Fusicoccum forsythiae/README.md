@@ -1,5 +1,4 @@
-Fusicoccum forsythiae Died. SPECIES
-=======
+# Fusicoccum forsythiae Died. SPECIES
 
 #### Status
 ACCEPTED

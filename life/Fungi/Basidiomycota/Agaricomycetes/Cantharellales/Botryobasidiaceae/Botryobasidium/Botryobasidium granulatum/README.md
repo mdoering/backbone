@@ -1,5 +1,4 @@
-Botryobasidium granulatum (Bref.) Donk SPECIES
-=======
+# Botryobasidium granulatum (Bref.) Donk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyriatella congregata Hochg. & Gottsb., 1989 SPECIES
-=======
+# Arcyriatella congregata Hochg. & Gottsb., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mapea Boedijn GENUS
-=======
+# Telomapea G.F. Laundon GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 50: 351 (1967)
 
 #### Original name
-Mapea Boedijn
+Telomapea G.F. Laundon
 
 ### Remarks
 null

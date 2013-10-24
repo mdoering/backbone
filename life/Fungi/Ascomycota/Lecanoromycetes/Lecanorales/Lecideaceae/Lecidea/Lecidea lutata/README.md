@@ -1,5 +1,4 @@
-Lecidea lutata Stizenb. SPECIES
-=======
+# Lecidea lutata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

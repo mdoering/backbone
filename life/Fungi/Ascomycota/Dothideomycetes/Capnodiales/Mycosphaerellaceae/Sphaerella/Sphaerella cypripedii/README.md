@@ -1,5 +1,4 @@
-Sphaerella cypripedii Peck SPECIES
-=======
+# Sphaerella cypripedii Peck SPECIES
 
 #### Status
 ACCEPTED

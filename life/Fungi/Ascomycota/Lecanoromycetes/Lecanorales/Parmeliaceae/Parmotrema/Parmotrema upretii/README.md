@@ -1,5 +1,4 @@
-Parmotrema upretii Divakar SPECIES
-=======
+# Parmotrema upretii Divakar SPECIES
 
 #### Status
 ACCEPTED

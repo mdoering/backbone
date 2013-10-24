@@ -1,5 +1,4 @@
-Pseudocercospora adianti (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora adianti (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

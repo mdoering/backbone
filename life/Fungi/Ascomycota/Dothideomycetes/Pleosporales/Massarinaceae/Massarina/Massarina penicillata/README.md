@@ -1,5 +1,4 @@
-Massarina penicillata (Sacc.) Sacc. SPECIES
-=======
+# Massarina penicillata (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

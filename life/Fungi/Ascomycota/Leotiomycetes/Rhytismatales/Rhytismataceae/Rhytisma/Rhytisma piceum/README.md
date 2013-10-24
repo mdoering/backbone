@@ -1,5 +1,4 @@
-Rhytisma piceum Berk. SPECIES
-=======
+# Rhytisma piceum Berk. SPECIES
 
 #### Status
 ACCEPTED

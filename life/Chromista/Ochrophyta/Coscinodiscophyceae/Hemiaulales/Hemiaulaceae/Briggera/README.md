@@ -1,5 +1,4 @@
-Briggera R.Ross & P.A.Sims, 1985 GENUS
-=======
+# Briggera R.Ross & P.A.Sims, 1985 GENUS
 
 #### Status
 ACCEPTED

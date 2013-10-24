@@ -1,5 +1,4 @@
-Polyporus fuscocinereus Pat. SPECIES
-=======
+# Polyporus fuscocinereus Pat. SPECIES
 
 #### Status
 ACCEPTED

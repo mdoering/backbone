@@ -1,5 +1,4 @@
-Placodium luteominimum Tuck. SPECIES
-=======
+# Placodium luteominimum Tuck. SPECIES
 
 #### Status
 ACCEPTED

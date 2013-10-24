@@ -1,5 +1,4 @@
-Arthonia subramulosa Müll. Arg. SPECIES
-=======
+# Arthonia subramulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

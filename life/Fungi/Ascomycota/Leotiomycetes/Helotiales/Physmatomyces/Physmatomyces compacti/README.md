@@ -1,5 +1,4 @@
-Physmatomyces compacti E.A. Thomas ex Cif. & Tomas., 1953 SPECIES
-=======
+# Physmatomyces compacti E.A. Thomas ex Cif. & Tomas., 1953 SPECIES
 
 #### Status
 ACCEPTED

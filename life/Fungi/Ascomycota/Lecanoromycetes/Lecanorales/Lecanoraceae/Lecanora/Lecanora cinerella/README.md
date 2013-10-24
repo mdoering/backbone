@@ -1,5 +1,4 @@
-Lecanora cinerella (Flörke) Rabenh. SPECIES
-=======
+# Lecanora cinerella (Flörke) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

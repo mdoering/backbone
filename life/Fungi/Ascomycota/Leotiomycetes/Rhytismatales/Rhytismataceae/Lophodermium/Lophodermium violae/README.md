@@ -1,5 +1,4 @@
-Lophodermium violae Arx SPECIES
-=======
+# Lophodermium violae Arx SPECIES
 
 #### Status
 ACCEPTED

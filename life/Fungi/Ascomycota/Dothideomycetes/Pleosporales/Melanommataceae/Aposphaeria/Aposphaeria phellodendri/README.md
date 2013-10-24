@@ -1,5 +1,4 @@
-Aposphaeria phellodendri Gucevic SPECIES
-=======
+# Aposphaeria phellodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

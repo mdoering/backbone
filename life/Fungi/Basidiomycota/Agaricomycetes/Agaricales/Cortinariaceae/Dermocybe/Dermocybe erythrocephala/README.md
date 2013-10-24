@@ -1,5 +1,4 @@
-Dermocybe erythrocephala (Dennis) M.M. Moser SPECIES
-=======
+# Dermocybe erythrocephala (Dennis) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

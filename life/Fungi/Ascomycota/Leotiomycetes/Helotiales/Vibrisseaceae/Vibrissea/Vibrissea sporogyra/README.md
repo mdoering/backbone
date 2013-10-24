@@ -1,14 +1,13 @@
-Apostemidium sporogyrum Ingold, 1954 SPECIES
-=======
+# Vibrissea sporogyra (Ingold) A. Sánchez, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 37(1): 13 (1954)
+in Sánchez & Korf, Mycologia 58(5): 734 (1966)
 
 #### Original name
 Apostemidium sporogyrum Ingold, 1954

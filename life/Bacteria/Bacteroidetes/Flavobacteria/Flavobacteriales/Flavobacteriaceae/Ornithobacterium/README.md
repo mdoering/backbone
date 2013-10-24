@@ -1,5 +1,4 @@
-Ornithobacterium Vandamme, Segers, Vancanneyt, van Hove, Mutters, Hommez, Dewhirst, Paster, Kersters, Falsen, Devriese, Bisgaard, Hinz & Mannheim, 1994 GENUS
-=======
+# Ornithobacterium Vandamme, Segers, Vancanneyt, van Hove, Mutters, Hommez, Dewhirst, Paster, Kersters, Falsen, Devriese, Bisgaard, Hinz & Mannheim, 1994 GENUS
 
 #### Status
 ACCEPTED

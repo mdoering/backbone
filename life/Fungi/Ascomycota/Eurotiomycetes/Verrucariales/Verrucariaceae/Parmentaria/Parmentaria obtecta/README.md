@@ -1,5 +1,4 @@
-Parmentaria obtecta Zahlbr. SPECIES
-=======
+# Parmentaria obtecta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

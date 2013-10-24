@@ -1,17 +1,16 @@
-Aecidium salicorniatum Link SPECIES
-=======
+# Caeoma salicorniatum Link SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Caeoma salicorniatum Link
 
 ### Remarks
 null

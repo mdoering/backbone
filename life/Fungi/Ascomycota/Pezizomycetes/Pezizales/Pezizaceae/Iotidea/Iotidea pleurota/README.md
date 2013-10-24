@@ -1,5 +1,4 @@
-Iotidea pleurota W. Phillips SPECIES
-=======
+# Iotidea pleurota W. Phillips SPECIES
 
 #### Status
 ACCEPTED

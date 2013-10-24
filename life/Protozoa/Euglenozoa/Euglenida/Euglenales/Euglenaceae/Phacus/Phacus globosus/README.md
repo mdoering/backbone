@@ -1,5 +1,4 @@
-Phacus globosus Pochmann SPECIES
-=======
+# Phacus globosus Pochmann SPECIES
 
 #### Status
 ACCEPTED

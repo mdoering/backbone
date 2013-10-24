@@ -1,5 +1,4 @@
-Rhodosporidium toruloides Banno, 1967 SPECIES
-=======
+# Rhodosporidium toruloides Banno, 1967 SPECIES
 
 #### Status
 ACCEPTED

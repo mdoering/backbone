@@ -1,17 +1,16 @@
-Ophiognomonia alni-viridis (Podl. & Svrcek) Sogonov, 2008 SPECIES
-=======
+# Gnomonia alni-viridis Podl. & Svrcek, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 24(3): 129 (1970)
 
 #### Original name
-null
+Gnomonia alni-viridis Podl. & Svrcek, 1970
 
 ### Remarks
 null

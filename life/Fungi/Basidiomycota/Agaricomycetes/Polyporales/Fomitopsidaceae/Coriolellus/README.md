@@ -1,5 +1,4 @@
-Coriolellus GENUS
-=======
+# Coriolellus GENUS
 
 #### Status
 ACCEPTED

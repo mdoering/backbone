@@ -1,17 +1,16 @@
-Sceptromyces opizi Corda SPECIES
-=======
+# Sceptromyces opizii Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(11): 7 (1831)
 
 #### Original name
-Sceptromyces opizi Corda
+Sceptromyces opizii Corda
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma fragilum Largent & Aime SPECIES
-=======
+# Entoloma fragilum Largent & Aime SPECIES
 
 #### Status
 ACCEPTED

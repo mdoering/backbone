@@ -1,5 +1,4 @@
-Platystomum fraxinicola C. Moreau SPECIES
-=======
+# Platystomum fraxinicola C. Moreau SPECIES
 
 #### Status
 ACCEPTED

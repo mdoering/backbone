@@ -1,5 +1,4 @@
-Phoma corrientina Speg. SPECIES
-=======
+# Phoma corrientina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidium dangeardii Serbinow SPECIES
-=======
+# Phlyctidium dangeardii Serbinow SPECIES
 
 #### Status
 ACCEPTED

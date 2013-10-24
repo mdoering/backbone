@@ -1,5 +1,4 @@
-Mantoscyphidia Yankovskij, 1980 GENUS
-=======
+# Mantoscyphidia Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

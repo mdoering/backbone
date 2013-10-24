@@ -1,5 +1,4 @@
-Spongodiscus Ehrenberg, 1854 GENUS
-=======
+# Spongodiscus Ehrenberg, 1854 GENUS
 
 #### Status
 ACCEPTED

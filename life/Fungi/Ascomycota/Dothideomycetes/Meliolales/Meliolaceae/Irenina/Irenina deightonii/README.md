@@ -1,5 +1,4 @@
-Irenina deightonii Hansf. SPECIES
-=======
+# Irenina deightonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

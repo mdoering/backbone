@@ -1,5 +1,4 @@
-Galerina lurida A.E. Wood SPECIES
-=======
+# Galerina lurida A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

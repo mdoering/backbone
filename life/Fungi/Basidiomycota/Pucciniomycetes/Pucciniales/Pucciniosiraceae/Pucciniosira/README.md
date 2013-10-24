@@ -1,17 +1,16 @@
-Aecidiella Ellis & Kelsey GENUS
-=======
+# Pucciniosira Lagerh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 24: 208 (1897)
+Ber. dt. bot. Ges. 9: 344 (1892)
 
 #### Original name
-Aecidiella Ellis & Kelsey
+Pucciniosira Lagerh.
 
 ### Remarks
 null

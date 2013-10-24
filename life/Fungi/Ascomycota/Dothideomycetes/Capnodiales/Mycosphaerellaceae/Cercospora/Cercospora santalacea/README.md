@@ -1,5 +1,4 @@
-Cercospora santalacea K.R.G. Nair SPECIES
-=======
+# Cercospora santalacea K.R.G. Nair SPECIES
 
 #### Status
 ACCEPTED

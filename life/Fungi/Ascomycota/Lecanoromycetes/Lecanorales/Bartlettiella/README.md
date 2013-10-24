@@ -1,5 +1,4 @@
-Bartlettiella D.J. Galloway & P.M. Jørg. GENUS
-=======
+# Bartlettiella D.J. Galloway & P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

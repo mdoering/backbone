@@ -1,5 +1,4 @@
-Crustoderma patricium (G. Cunn.) Nakasone SPECIES
-=======
+# Crustoderma patricium (G. Cunn.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

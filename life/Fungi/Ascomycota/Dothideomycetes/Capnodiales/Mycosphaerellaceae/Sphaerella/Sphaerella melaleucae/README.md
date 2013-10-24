@@ -1,5 +1,4 @@
-Sphaerella melaleucae Berk. SPECIES
-=======
+# Sphaerella melaleucae Berk. SPECIES
 
 #### Status
 ACCEPTED

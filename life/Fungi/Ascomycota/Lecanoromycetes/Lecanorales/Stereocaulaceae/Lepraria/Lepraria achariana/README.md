@@ -1,5 +1,4 @@
-Lepraria achariana Flakus & Kukwa SPECIES
-=======
+# Lepraria achariana Flakus & Kukwa SPECIES
 
 #### Status
 ACCEPTED

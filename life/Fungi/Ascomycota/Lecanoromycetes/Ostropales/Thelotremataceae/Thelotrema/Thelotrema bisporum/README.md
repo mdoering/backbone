@@ -1,5 +1,4 @@
-Thelotrema bisporum Nyl. SPECIES
-=======
+# Thelotrema bisporum Nyl. SPECIES
 
 #### Status
 ACCEPTED

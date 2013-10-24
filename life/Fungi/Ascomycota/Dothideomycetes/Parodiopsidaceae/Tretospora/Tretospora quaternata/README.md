@@ -1,14 +1,13 @@
-Torula quaternata Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Tretospora quaternata (Berk. & M.A. Curtis) J.L. Crane & Schokn., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schoknecht & Crane, Can. J. Bot. 62(5): 1097 (1984)
 
 #### Original name
 Torula quaternata Berk. & M.A. Curtis, 1874

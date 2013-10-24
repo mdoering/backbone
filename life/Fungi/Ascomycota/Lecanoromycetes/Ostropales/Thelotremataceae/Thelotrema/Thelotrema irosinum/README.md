@@ -1,5 +1,4 @@
-Thelotrema irosinum Vain. SPECIES
-=======
+# Thelotrema irosinum Vain. SPECIES
 
 #### Status
 ACCEPTED

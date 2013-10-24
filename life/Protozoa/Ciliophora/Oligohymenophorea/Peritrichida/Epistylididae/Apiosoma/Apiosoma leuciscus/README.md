@@ -1,5 +1,4 @@
-Apiosoma leuciscus SPECIES
-=======
+# Apiosoma leuciscus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina cytisi (Hollós) U. Braun SPECIES
-=======
+# Stigmina cytisi (Hollós) U. Braun SPECIES
 
 #### Status
 ACCEPTED

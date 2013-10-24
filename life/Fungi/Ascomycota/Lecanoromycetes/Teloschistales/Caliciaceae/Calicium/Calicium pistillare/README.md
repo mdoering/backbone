@@ -1,5 +1,4 @@
-Calicium pistillare Ach. SPECIES
-=======
+# Calicium pistillare Ach. SPECIES
 
 #### Status
 ACCEPTED

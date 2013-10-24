@@ -1,5 +1,4 @@
-Aecidium quitense H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium quitense H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

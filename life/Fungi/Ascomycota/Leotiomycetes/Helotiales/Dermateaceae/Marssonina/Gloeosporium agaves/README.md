@@ -1,5 +1,4 @@
-Gloeosporium agaves Syd. & P. Syd. SPECIES
-=======
+# Gloeosporium agaves Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

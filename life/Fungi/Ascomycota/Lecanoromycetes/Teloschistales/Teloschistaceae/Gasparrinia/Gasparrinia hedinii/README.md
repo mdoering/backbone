@@ -1,5 +1,4 @@
-Gasparrinia hedinii (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Gasparrinia hedinii (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusoma veratri Allesch. SPECIES
-=======
+# Fusoma veratri Allesch. SPECIES
 
 #### Status
 ACCEPTED

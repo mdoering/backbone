@@ -1,5 +1,4 @@
-Ellipsoglandulina Silvestri, 1900 GENUS
-=======
+# Ellipsoglandulina Silvestri, 1900 GENUS
 
 #### Status
 ACCEPTED

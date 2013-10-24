@@ -1,5 +1,4 @@
-Paryphydria GENUS
-=======
+# Paryphydria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocarpon serusiauxii Ertz & Diederich SPECIES
-=======
+# Plectocarpon serusiauxii Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium junci F. Lamb. & Fautrey SPECIES
-=======
+# Macrosporium junci F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

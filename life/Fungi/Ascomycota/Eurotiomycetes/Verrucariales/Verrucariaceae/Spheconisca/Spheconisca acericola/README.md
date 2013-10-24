@@ -1,5 +1,4 @@
-Spheconisca acericola SPECIES
-=======
+# Spheconisca acericola SPECIES
 
 #### Status
 ACCEPTED

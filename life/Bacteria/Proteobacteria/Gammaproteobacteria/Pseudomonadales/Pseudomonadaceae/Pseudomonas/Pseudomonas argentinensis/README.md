@@ -1,5 +1,4 @@
-Pseudomonas argentinensis Peix et al., 2005 SPECIES
-=======
+# Pseudomonas argentinensis Peix et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

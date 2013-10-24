@@ -1,5 +1,4 @@
-Ariefia paradoxa Jacz. SPECIES
-=======
+# Ariefia paradoxa Jacz. SPECIES
 
 #### Status
 ACCEPTED

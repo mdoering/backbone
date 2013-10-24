@@ -1,5 +1,4 @@
-Multipartis ripliensis J.B. Risatti SPECIES
-=======
+# Multipartis ripliensis J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

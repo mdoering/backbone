@@ -1,5 +1,4 @@
-Gymnodinium vorticella Stein SPECIES
-=======
+# Gymnodinium vorticella Stein SPECIES
 
 #### Status
 ACCEPTED

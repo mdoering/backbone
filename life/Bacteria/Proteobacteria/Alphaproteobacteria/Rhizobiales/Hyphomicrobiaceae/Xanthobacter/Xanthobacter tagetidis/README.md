@@ -1,5 +1,4 @@
-Xanthobacter tagetidis Padden et al., 1997 SPECIES
-=======
+# Xanthobacter tagetidis Padden et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

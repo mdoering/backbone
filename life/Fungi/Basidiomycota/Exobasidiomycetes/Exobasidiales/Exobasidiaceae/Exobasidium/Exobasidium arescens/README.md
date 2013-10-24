@@ -1,5 +1,4 @@
-Exobasidium arescens Nannf., 1981 SPECIES
-=======
+# Exobasidium arescens Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

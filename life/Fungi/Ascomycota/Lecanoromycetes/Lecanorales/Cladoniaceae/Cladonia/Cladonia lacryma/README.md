@@ -1,5 +1,4 @@
-Cladonia lacryma S. Hammer SPECIES
-=======
+# Cladonia lacryma S. Hammer SPECIES
 
 #### Status
 ACCEPTED

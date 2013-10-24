@@ -1,5 +1,4 @@
-Puccinia ateridoi Unamuno SPECIES
-=======
+# Puccinia ateridoi Unamuno SPECIES
 
 #### Status
 ACCEPTED

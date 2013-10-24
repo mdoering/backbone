@@ -1,5 +1,4 @@
-Nonion affinis SPECIES
-=======
+# Nonion affinis SPECIES
 
 #### Status
 ACCEPTED

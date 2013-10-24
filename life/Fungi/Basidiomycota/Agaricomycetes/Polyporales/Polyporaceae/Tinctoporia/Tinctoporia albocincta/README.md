@@ -1,5 +1,4 @@
-Tinctoporia albocincta (Cooke & Massee) Murrill SPECIES
-=======
+# Tinctoporia albocincta (Cooke & Massee) Murrill SPECIES
 
 #### Status
 ACCEPTED

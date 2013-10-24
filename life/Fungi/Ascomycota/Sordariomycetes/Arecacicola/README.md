@@ -1,5 +1,4 @@
-Arecacicola Joanne E. Taylor, J. Fröhl. & K.D. Hyde GENUS
-=======
+# Arecacicola Joanne E. Taylor, J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

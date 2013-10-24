@@ -1,5 +1,4 @@
-Graphina orientalis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina orientalis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

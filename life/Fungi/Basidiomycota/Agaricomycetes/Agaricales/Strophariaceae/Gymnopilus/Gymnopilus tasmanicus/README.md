@@ -1,5 +1,4 @@
-Gymnopilus tasmanicus B.J. Rees SPECIES
-=======
+# Gymnopilus tasmanicus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

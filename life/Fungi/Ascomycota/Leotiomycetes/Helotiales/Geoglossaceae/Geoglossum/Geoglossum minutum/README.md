@@ -1,5 +1,4 @@
-Geoglossum minutum (Sowerby) Gray SPECIES
-=======
+# Geoglossum minutum (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

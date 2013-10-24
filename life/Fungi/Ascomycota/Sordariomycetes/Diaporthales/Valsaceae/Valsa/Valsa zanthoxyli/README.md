@@ -1,8 +1,7 @@
-Valsa xanthoxyli Peck SPECIES
-=======
+# Valsa zanthoxyli Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa xanthoxyli Peck
+Valsa zanthoxyli Peck
 
 ### Remarks
 null

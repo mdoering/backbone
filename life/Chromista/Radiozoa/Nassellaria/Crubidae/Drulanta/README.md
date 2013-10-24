@@ -1,5 +1,4 @@
-Drulanta Yeh, 1987 GENUS
-=======
+# Drulanta Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

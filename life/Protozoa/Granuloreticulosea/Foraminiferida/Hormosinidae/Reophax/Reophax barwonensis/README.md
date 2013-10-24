@@ -1,5 +1,4 @@
-Reophax barwonensis Collins, 1974 SPECIES
-=======
+# Reophax barwonensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

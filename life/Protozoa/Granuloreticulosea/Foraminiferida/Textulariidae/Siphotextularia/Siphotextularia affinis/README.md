@@ -1,5 +1,4 @@
-Siphotextularia affinis (Fornasini) SPECIES
-=======
+# Siphotextularia affinis (Fornasini) SPECIES
 
 #### Status
 ACCEPTED

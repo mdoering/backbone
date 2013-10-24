@@ -1,5 +1,4 @@
-Segestrella bayrhofferi (Körb.) Zwackh SPECIES
-=======
+# Segestrella bayrhofferi (Körb.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

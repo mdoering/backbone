@@ -1,5 +1,4 @@
-Pachyospora cinerascens (Schaer.) A. Massal. SPECIES
-=======
+# Pachyospora cinerascens (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

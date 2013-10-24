@@ -1,5 +1,4 @@
-Plicaria lacustris Velen. SPECIES
-=======
+# Plicaria lacustris Velen. SPECIES
 
 #### Status
 ACCEPTED

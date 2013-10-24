@@ -1,5 +1,4 @@
-Cyathus scutellaris Schumach. SPECIES
-=======
+# Cyathus scutellaris Schumach. SPECIES
 
 #### Status
 ACCEPTED

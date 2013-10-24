@@ -1,14 +1,13 @@
-Leptopodia albella (Quél.) Boud., 1907 SPECIES
-=======
+# Helvella albella Quél., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 24(2): 621 (1896)
 
 #### Original name
 Helvella albella Quél., 1896

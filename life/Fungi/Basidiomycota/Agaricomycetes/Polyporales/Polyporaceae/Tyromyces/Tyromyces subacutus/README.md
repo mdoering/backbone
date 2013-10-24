@@ -1,5 +1,4 @@
-Tyromyces subacutus (Murrill) Ryvarden SPECIES
-=======
+# Tyromyces subacutus (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetobacter pasteurianus subsp. pasteurianus SUBSPECIES
-=======
+# Acetobacter pasteurianus (Hansen, 1879) Beijerinck & Folpmers, 1916 SPECIES
 
 #### Status
 ACCEPTED

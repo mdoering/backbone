@@ -1,5 +1,4 @@
-Schizostoma rigense Kirschst. SPECIES
-=======
+# Schizostoma rigense Kirschst. SPECIES
 
 #### Status
 ACCEPTED

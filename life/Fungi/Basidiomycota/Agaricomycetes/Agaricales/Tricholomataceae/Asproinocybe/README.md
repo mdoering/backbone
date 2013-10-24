@@ -1,5 +1,4 @@
-Asproinocybe R. Heim GENUS
-=======
+# Asproinocybe R. Heim GENUS
 
 #### Status
 ACCEPTED

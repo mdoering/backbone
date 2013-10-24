@@ -1,5 +1,4 @@
-Chaetomium ludhianense Kang SPECIES
-=======
+# Chaetomium ludhianense Kang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeopycnis aeruginascens Petr., 1925 SPECIES
-=======
+# Clypeopycnis aeruginascens Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

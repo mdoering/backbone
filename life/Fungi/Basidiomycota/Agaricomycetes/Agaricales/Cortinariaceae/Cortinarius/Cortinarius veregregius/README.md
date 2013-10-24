@@ -1,5 +1,4 @@
-Cortinarius veregregius Rob. Henry SPECIES
-=======
+# Cortinarius veregregius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

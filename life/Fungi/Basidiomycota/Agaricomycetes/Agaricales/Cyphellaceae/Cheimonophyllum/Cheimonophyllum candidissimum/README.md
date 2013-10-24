@@ -1,14 +1,13 @@
-Agaricus candidissimus Berk. & M.A. Curtis, 1859 SPECIES
-=======
+# Cheimonophyllum candidissimum (Berk. & M.A. Curtis) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 4: 288 (1859)
+Sydowia 9: 417 (1955)
 
 #### Original name
 Agaricus candidissimus Berk. & M.A. Curtis, 1859

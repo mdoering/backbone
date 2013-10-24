@@ -1,5 +1,4 @@
-Agaricus marginellus Pers. SPECIES
-=======
+# Agaricus marginellus Pers. SPECIES
 
 #### Status
 ACCEPTED

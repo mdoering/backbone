@@ -1,5 +1,4 @@
-Kreyella minuta Foissner, 1979 SPECIES
-=======
+# Kreyella minuta Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

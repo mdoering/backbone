@@ -1,5 +1,4 @@
-Stauroforma R.Flower, V.Jones & Round GENUS
-=======
+# Stauroforma R.Flower, V.Jones & Round GENUS
 
 #### Status
 ACCEPTED

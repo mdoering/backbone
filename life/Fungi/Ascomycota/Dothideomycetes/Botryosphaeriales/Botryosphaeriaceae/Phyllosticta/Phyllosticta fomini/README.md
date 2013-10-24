@@ -1,5 +1,4 @@
-Phyllosticta fomini Girz. SPECIES
-=======
+# Phyllosticta fomini Girz. SPECIES
 
 #### Status
 ACCEPTED

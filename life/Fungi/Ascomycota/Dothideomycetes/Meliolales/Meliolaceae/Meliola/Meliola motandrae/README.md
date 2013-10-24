@@ -1,5 +1,4 @@
-Meliola motandrae Hansf., 1941 SPECIES
-=======
+# Meliola motandrae Hansf., 1941 SPECIES
 
 #### Status
 ACCEPTED

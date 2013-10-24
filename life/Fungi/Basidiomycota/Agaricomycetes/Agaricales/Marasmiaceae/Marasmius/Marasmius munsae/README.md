@@ -1,5 +1,4 @@
-Marasmius munsae Henn. SPECIES
-=======
+# Marasmius munsae Henn. SPECIES
 
 #### Status
 ACCEPTED

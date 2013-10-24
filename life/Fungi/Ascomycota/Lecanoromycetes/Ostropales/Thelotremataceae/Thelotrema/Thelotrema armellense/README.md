@@ -1,5 +1,4 @@
-Thelotrema armellense Patw., Sethy & Nagarkar SPECIES
-=======
+# Thelotrema armellense Patw., Sethy & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

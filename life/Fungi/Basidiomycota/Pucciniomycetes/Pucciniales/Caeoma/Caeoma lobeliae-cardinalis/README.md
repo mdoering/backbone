@@ -1,5 +1,4 @@
-Caeoma lobeliae-cardinalis Schwein. SPECIES
-=======
+# Caeoma lobeliae-cardinalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

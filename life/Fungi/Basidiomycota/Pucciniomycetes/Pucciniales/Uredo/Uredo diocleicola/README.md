@@ -1,5 +1,4 @@
-Uredo diocleicola F. Kern & Thurst. SPECIES
-=======
+# Uredo diocleicola F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

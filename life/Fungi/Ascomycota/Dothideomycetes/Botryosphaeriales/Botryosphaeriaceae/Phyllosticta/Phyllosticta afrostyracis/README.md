@@ -1,5 +1,4 @@
-Phyllosticta afrostyracis C. Moreau SPECIES
-=======
+# Phyllosticta afrostyracis C. Moreau SPECIES
 
 #### Status
 ACCEPTED

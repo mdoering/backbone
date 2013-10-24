@@ -1,5 +1,4 @@
-Lecanora laurensii (B. de Lesd.) Croz. SPECIES
-=======
+# Lecanora laurensii (B. de Lesd.) Croz. SPECIES
 
 #### Status
 ACCEPTED

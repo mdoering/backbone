@@ -1,5 +1,4 @@
-Gymnopus alpinus (Vilgalys & O.K. Mill.) Antonín & Noordel., 1997 SPECIES
-=======
+# Gymnopus alpinus (Vilgalys & O.K. Mill.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

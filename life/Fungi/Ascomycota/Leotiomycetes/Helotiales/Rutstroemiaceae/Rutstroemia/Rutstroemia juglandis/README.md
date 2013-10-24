@@ -1,5 +1,4 @@
-Rutstroemia juglandis Raitv. SPECIES
-=======
+# Rutstroemia juglandis Raitv. SPECIES
 
 #### Status
 ACCEPTED

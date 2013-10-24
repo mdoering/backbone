@@ -1,5 +1,4 @@
-Podospora ostlingospora Cain SPECIES
-=======
+# Podospora ostlingospora Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius austrolimonius var. austrolimonius VARIETY
-=======
+# Cortinarius austrolimonius M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 52: 454 (1975)
 
 #### Original name
-Cortinarius austrolimonius var. austrolimonius
+Cortinarius austrolimonius M.M. Moser & E. Horak
 
 ### Remarks
 null

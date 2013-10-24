@@ -1,5 +1,4 @@
-Phaeothyrium pulchellum Petr., 1947 SPECIES
-=======
+# Phaeothyrium pulchellum Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

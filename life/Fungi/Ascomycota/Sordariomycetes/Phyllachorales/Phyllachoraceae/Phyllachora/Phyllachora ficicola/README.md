@@ -1,5 +1,4 @@
-Phyllachora ficicola Allesch. & Henn., 1897 SPECIES
-=======
+# Phyllachora ficicola Allesch. & Henn., 1897 SPECIES
 
 #### Status
 ACCEPTED

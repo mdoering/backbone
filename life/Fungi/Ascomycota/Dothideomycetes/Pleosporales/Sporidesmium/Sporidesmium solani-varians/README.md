@@ -1,5 +1,4 @@
-Sporidesmium solani-varians Vanha SPECIES
-=======
+# Sporidesmium solani-varians Vanha SPECIES
 
 #### Status
 ACCEPTED

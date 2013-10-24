@@ -1,5 +1,4 @@
-Sphaerella maculans Auersw. SPECIES
-=======
+# Sphaerella maculans Auersw. SPECIES
 
 #### Status
 ACCEPTED

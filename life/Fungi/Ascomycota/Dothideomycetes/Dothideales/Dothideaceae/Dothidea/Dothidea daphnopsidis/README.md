@@ -1,5 +1,4 @@
-Dothidea daphnopsidis Henn. SPECIES
-=======
+# Dothidea daphnopsidis Henn. SPECIES
 
 #### Status
 ACCEPTED

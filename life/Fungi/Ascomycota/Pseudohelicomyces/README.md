@@ -1,5 +1,4 @@
-Pseudohelicomyces Garnica & E. Valenz. GENUS
-=======
+# Pseudohelicomyces Garnica & E. Valenz. GENUS
 
 #### Status
 ACCEPTED

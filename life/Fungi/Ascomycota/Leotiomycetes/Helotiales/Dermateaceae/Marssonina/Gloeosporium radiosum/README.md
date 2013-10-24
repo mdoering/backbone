@@ -1,5 +1,4 @@
-Gloeosporium radiosum Rostr. SPECIES
-=======
+# Gloeosporium radiosum Rostr. SPECIES
 
 #### Status
 ACCEPTED

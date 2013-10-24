@@ -1,5 +1,4 @@
-Peziza humicola (Boud.) Sacc. & Traverso SPECIES
-=======
+# Peziza humicola (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteraulacaceae FAMILY
-=======
+# Heteraulacaceae FAMILY
 
 #### Status
 ACCEPTED

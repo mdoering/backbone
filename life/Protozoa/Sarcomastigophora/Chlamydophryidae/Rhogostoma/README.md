@@ -1,5 +1,4 @@
-Rhogostoma Belar, 1921 GENUS
-=======
+# Rhogostoma Belar, 1921 GENUS
 
 #### Status
 ACCEPTED

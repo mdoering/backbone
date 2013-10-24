@@ -1,5 +1,4 @@
-Aecidium pyrolatum Schwein. SPECIES
-=======
+# Aecidium pyrolatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

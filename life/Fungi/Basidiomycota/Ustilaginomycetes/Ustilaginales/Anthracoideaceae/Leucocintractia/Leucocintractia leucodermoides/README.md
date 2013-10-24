@@ -1,5 +1,4 @@
-Leucocintractia leucodermoides M. Piepenbr. & Begerow, 2000 SPECIES
-=======
+# Leucocintractia leucodermoides M. Piepenbr. & Begerow, 2000 SPECIES
 
 #### Status
 ACCEPTED

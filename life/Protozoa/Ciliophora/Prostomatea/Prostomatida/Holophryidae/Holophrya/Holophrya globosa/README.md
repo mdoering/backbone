@@ -1,5 +1,4 @@
-Holophrya globosa Fromentel, 1876 SPECIES
-=======
+# Holophrya globosa Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

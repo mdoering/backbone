@@ -1,5 +1,4 @@
-Niptera arctica Rehm SPECIES
-=======
+# Niptera arctica Rehm SPECIES
 
 #### Status
 ACCEPTED

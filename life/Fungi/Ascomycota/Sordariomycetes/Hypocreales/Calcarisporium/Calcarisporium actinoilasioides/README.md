@@ -1,5 +1,4 @@
-Calcarisporium actinoilasioides Preuss SPECIES
-=======
+# Calcarisporium actinoilasioides Preuss SPECIES
 
 #### Status
 ACCEPTED

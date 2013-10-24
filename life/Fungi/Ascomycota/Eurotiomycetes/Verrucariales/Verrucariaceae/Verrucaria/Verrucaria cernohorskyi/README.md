@@ -1,5 +1,4 @@
-Verrucaria cernohorskyi Servít SPECIES
-=======
+# Verrucaria cernohorskyi Servít SPECIES
 
 #### Status
 ACCEPTED

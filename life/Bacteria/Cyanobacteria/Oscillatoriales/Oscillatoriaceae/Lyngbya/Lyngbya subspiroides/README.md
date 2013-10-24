@@ -1,5 +1,4 @@
-Lyngbya subspiroides J. Copeland SPECIES
-=======
+# Lyngbya subspiroides J. Copeland SPECIES
 
 #### Status
 ACCEPTED

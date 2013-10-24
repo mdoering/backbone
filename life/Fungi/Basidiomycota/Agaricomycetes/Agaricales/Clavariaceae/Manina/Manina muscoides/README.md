@@ -1,5 +1,4 @@
-Manina muscoides Scop. SPECIES
-=======
+# Manina muscoides Scop. SPECIES
 
 #### Status
 ACCEPTED

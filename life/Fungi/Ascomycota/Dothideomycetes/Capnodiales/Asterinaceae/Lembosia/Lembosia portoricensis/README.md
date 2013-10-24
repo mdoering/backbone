@@ -1,5 +1,4 @@
-Lembosia portoricensis R.W. Ryan SPECIES
-=======
+# Lembosia portoricensis R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

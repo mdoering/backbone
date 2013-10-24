@@ -1,5 +1,4 @@
-Lecidea atrocervina Vain. SPECIES
-=======
+# Lecidea atrocervina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium glucanicum Halleck {?} SPECIES
-=======
+# Sclerotium glucanicum Halleck {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora maackiae Tak. Kobay. SPECIES
-=======
+# Stagonospora maackiae Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

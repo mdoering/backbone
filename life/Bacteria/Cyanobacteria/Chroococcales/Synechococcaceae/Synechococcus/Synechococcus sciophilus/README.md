@@ -1,5 +1,4 @@
-Synechococcus sciophilus Skuja SPECIES
-=======
+# Synechococcus sciophilus Skuja SPECIES
 
 #### Status
 ACCEPTED

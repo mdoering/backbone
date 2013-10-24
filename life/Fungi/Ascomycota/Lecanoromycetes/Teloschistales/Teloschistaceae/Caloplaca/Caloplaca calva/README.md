@@ -1,5 +1,4 @@
-Caloplaca calva (Dicks.) Kieffer SPECIES
-=======
+# Caloplaca calva (Dicks.) Kieffer SPECIES
 
 #### Status
 ACCEPTED

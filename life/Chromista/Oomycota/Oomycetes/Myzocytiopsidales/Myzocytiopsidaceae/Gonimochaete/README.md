@@ -1,5 +1,4 @@
-Gonimochaete Drechsler GENUS
-=======
+# Gonimochaete Drechsler GENUS
 
 #### Status
 ACCEPTED

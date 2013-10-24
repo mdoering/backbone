@@ -1,5 +1,4 @@
-Clavulinopsis carneola Corner SPECIES
-=======
+# Clavulinopsis carneola Corner SPECIES
 
 #### Status
 ACCEPTED

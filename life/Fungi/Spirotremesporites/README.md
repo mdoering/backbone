@@ -1,5 +1,4 @@
-Spirotremesporites Dueñas GENUS
-=======
+# Spirotremesporites Dueñas GENUS
 
 #### Status
 ACCEPTED

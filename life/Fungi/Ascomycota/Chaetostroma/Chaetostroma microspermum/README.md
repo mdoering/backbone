@@ -1,5 +1,4 @@
-Chaetostroma microspermum Speg. SPECIES
-=======
+# Chaetostroma microspermum Speg. SPECIES
 
 #### Status
 ACCEPTED

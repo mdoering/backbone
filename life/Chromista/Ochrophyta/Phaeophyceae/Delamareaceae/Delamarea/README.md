@@ -1,5 +1,4 @@
-Delamarea Hariot, 1889 GENUS
-=======
+# Delamarea Hariot, 1889 GENUS
 
 #### Status
 ACCEPTED

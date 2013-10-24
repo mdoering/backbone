@@ -1,5 +1,4 @@
-Aecidium mirabilis Dietel & Holw. SPECIES
-=======
+# Aecidium mirabilis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

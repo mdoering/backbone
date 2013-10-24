@@ -1,5 +1,4 @@
-Albatrellus subrubescens (Murrill) Pouzar SPECIES
-=======
+# Albatrellus subrubescens (Murrill) Pouzar SPECIES
 
 #### Status
 ACCEPTED

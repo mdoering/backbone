@@ -1,5 +1,4 @@
-Armillaria sinapina Bérubé & Dessur., 1988 SPECIES
-=======
+# Armillaria sinapina Bérubé & Dessur., 1988 SPECIES
 
 #### Status
 ACCEPTED

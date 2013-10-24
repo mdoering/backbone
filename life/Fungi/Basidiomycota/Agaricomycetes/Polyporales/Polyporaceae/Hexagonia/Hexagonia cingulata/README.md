@@ -1,5 +1,4 @@
-Hexagonia cingulata Lév. SPECIES
-=======
+# Hexagonia cingulata Lév. SPECIES
 
 #### Status
 ACCEPTED

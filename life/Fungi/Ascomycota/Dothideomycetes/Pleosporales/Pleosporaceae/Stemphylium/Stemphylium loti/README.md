@@ -1,5 +1,4 @@
-Stemphylium loti J.H. Graham, 1953 SPECIES
-=======
+# Stemphylium loti J.H. Graham, 1953 SPECIES
 
 #### Status
 ACCEPTED

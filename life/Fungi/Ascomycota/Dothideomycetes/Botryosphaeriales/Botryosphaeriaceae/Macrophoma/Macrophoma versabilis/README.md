@@ -1,5 +1,4 @@
-Macrophoma versabilis Peck SPECIES
-=======
+# Macrophoma versabilis Peck SPECIES
 
 #### Status
 ACCEPTED

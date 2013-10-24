@@ -1,5 +1,4 @@
-Schizodiocrodium prolongatum (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Schizodiocrodium prolongatum (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 DOUBTFUL

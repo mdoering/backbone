@@ -1,5 +1,4 @@
-Eriopezia cupularum Velen. SPECIES
-=======
+# Eriopezia cupularum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora betulae P. Karst. SPECIES
-=======
+# Dothiora betulae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

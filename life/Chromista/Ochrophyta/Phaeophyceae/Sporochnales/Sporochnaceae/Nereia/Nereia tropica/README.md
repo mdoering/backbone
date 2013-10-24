@@ -1,5 +1,4 @@
-Nereia tropica (W.R. Taylor) W.R. Taylor SPECIES
-=======
+# Nereia tropica (W.R. Taylor) W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

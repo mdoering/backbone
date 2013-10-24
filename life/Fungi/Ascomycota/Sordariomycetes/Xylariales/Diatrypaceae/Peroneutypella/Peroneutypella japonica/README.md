@@ -1,5 +1,4 @@
-Peroneutypella japonica Syd. & P. Syd. SPECIES
-=======
+# Peroneutypella japonica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

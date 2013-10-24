@@ -1,5 +1,4 @@
-Coniothyrium lathyri Potebnia SPECIES
-=======
+# Coniothyrium lathyri Potebnia SPECIES
 
 #### Status
 ACCEPTED

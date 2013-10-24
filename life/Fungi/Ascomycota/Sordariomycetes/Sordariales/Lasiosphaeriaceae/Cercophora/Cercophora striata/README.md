@@ -1,5 +1,4 @@
-Cercophora striata (Ellis & Everh.) N. Lundq. SPECIES
-=======
+# Cercophora striata (Ellis & Everh.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

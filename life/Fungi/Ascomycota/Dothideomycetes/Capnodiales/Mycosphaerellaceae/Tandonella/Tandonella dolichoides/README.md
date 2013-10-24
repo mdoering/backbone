@@ -1,5 +1,4 @@
-Tandonella dolichoides N. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Tandonella dolichoides N. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

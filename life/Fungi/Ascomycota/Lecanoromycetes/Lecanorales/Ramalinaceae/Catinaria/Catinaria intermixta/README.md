@@ -1,5 +1,4 @@
-Catinaria intermixta (Nyl.) P. James SPECIES
-=======
+# Catinaria intermixta (Nyl.) P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eurotium tomentosum Kuntze SPECIES
-=======
+# Eurotium tomentosum Kuntze SPECIES
 
 #### Status
 ACCEPTED

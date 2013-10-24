@@ -1,17 +1,16 @@
-Xerocomus davidicola M. Zang SPECIES
-=======
+# Xerocomus davidiicola M. Zang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zang, Chen & Sittigul, Fungal Science, Taipei 14(1, 2): 22 (1999)
 
 #### Original name
-Xerocomus davidicola M. Zang
+Xerocomus davidiicola M. Zang
 
 ### Remarks
 null

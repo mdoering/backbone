@@ -1,5 +1,4 @@
-Periaster GENUS
-=======
+# Periaster GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora dendrobii Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora dendrobii Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

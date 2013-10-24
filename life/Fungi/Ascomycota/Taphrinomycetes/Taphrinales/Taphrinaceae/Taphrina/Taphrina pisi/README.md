@@ -1,5 +1,4 @@
-Taphrina pisi Kusano SPECIES
-=======
+# Taphrina pisi Kusano SPECIES
 
 #### Status
 ACCEPTED

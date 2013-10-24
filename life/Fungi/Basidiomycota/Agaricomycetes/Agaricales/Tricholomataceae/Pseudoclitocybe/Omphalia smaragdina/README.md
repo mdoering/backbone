@@ -1,5 +1,4 @@
-Omphalia smaragdina Berk. SPECIES
-=======
+# Omphalia smaragdina Berk. SPECIES
 
 #### Status
 ACCEPTED

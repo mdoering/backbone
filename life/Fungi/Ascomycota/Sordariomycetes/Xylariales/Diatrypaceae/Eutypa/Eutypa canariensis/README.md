@@ -1,5 +1,4 @@
-Eutypa canariensis Petr. SPECIES
-=======
+# Eutypa canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

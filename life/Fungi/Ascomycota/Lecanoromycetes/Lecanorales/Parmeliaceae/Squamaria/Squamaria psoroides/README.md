@@ -1,5 +1,4 @@
-Squamaria psoroides Tomin SPECIES
-=======
+# Squamaria psoroides Tomin SPECIES
 
 #### Status
 ACCEPTED

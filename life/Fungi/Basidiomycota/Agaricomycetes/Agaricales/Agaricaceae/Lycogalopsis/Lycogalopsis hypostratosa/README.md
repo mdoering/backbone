@@ -1,5 +1,4 @@
-Lycogalopsis hypostratosa Rick SPECIES
-=======
+# Lycogalopsis hypostratosa Rick SPECIES
 
 #### Status
 ACCEPTED

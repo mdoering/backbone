@@ -1,5 +1,4 @@
-Lanzia kosciuszkoensis J.A. Simpson & Grgur. SPECIES
-=======
+# Lanzia kosciuszkoensis J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

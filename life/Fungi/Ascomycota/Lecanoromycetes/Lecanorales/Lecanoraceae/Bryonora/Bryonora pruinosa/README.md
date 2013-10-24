@@ -1,5 +1,4 @@
-Bryonora pruinosa (Th. Fr.) Holt.-Hartw. SPECIES
-=======
+# Bryonora pruinosa (Th. Fr.) Holt.-Hartw. SPECIES
 
 #### Status
 ACCEPTED

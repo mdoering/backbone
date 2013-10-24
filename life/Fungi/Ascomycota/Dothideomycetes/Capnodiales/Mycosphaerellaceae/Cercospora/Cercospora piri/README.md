@@ -1,5 +1,4 @@
-Cercospora piri Farl. SPECIES
-=======
+# Cercospora piri Farl. SPECIES
 
 #### Status
 ACCEPTED

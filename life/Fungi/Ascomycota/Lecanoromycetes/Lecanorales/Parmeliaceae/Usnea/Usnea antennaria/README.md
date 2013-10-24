@@ -1,5 +1,4 @@
-Usnea antennaria Nees & Flot. SPECIES
-=======
+# Usnea antennaria Nees & Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Opegrapha platygraphoides Müll. Arg. SPECIES
-=======
+# Lecanactis platygraphoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 32: 132 (1893)
+Cat. Lich. Univers. 2: 541 (1923)
 
 #### Original name
 Opegrapha platygraphoides Müll. Arg.

@@ -1,5 +1,4 @@
-Meliola pradosiae Bat. SPECIES
-=======
+# Meliola pradosiae Bat. SPECIES
 
 #### Status
 ACCEPTED

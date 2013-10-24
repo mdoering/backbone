@@ -1,5 +1,4 @@
-Lecanora orbiculata (Darb.) Zahlbr. SPECIES
-=======
+# Lecanora orbiculata (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

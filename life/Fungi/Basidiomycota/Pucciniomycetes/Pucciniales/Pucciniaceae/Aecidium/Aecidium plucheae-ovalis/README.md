@@ -1,5 +1,4 @@
-Aecidium plucheae-ovalis Syd. & P. Syd. SPECIES
-=======
+# Aecidium plucheae-ovalis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia furfuracea (Roth) P. Karst., 1871 SPECIES
-=======
+# Encoelia furfuracea (Roth) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

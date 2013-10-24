@@ -1,5 +1,4 @@
-Microthyriella guareae Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella guareae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

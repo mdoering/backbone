@@ -1,5 +1,4 @@
-Phacus pusillus Lemmermann, 1910 SPECIES
-=======
+# Phacus pusillus Lemmermann, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synalissa vulgaris Thwaites SPECIES
-=======
+# Synalissa vulgaris Thwaites SPECIES
 
 #### Status
 ACCEPTED

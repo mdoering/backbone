@@ -1,5 +1,4 @@
-Phaeocalicium mildeanum (Körb.) SPECIES
-=======
+# Phaeocalicium mildeanum (Körb.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta charticola Tassi SPECIES
-=======
+# Ascochyta charticola Tassi SPECIES
 
 #### Status
 ACCEPTED

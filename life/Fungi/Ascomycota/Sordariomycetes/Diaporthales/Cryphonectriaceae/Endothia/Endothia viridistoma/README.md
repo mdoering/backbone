@@ -1,5 +1,4 @@
-Endothia viridistoma SPECIES
-=======
+# Endothia viridistoma SPECIES
 
 #### Status
 ACCEPTED

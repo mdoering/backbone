@@ -1,5 +1,4 @@
-Physarum corrugatum Link SPECIES
-=======
+# Physarum corrugatum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria stuppea Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria stuppea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea altissima H. Magn. SPECIES
-=======
+# Lecidea altissima H. Magn. SPECIES
 
 #### Status
 ACCEPTED

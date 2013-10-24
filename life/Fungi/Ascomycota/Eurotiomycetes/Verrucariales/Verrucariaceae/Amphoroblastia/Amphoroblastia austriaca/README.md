@@ -1,5 +1,4 @@
-Amphoroblastia austriaca (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia austriaca (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

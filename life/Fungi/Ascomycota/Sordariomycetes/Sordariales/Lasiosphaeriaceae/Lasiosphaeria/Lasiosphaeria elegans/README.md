@@ -1,5 +1,4 @@
-Lasiosphaeria elegans Mont. SPECIES
-=======
+# Lasiosphaeria elegans Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemaspora brachyspora Berk. & M.A. Curtis SPECIES
-=======
+# Naemaspora brachyspora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

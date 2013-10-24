@@ -1,5 +1,4 @@
-Erineum cinchonae Schltdl. SPECIES
-=======
+# Erineum cinchonae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

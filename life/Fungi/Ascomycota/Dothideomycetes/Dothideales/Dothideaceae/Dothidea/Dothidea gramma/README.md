@@ -1,5 +1,4 @@
-Dothidea gramma Schwein. SPECIES
-=======
+# Dothidea gramma Schwein. SPECIES
 
 #### Status
 ACCEPTED

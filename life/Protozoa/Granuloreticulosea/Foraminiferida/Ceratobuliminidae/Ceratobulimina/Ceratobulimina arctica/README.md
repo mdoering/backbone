@@ -1,5 +1,4 @@
-Ceratobulimina arctica Green, 1959 SPECIES
-=======
+# Ceratobulimina arctica Green, 1959 SPECIES
 
 #### Status
 ACCEPTED

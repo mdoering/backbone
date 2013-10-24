@@ -1,5 +1,4 @@
-Microdiplodia frangulae Allesch., 1901 SPECIES
-=======
+# Microdiplodia frangulae Allesch., 1901 SPECIES
 
 #### Status
 ACCEPTED

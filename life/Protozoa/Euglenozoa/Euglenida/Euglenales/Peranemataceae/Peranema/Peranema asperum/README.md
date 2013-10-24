@@ -1,5 +1,4 @@
-Peranema asperum var. rectangulare Playfair VARIETY
-=======
+# Peranema asperum Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca intercedens var. intercedens VARIETY
-=======
+# Caloplaca intercedens (Trevis.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

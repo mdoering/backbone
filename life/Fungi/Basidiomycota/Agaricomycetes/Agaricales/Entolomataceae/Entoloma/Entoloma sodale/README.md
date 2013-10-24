@@ -1,17 +1,16 @@
-Rhodophyllus sodalis var. sodalis VARIETY
-=======
+# Entoloma sodale Kühner & Romagn. ex Noordel., 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 205 (1955)
+Int. J. Mycol. Lichenol. 1(1): 58 (1982)
 
 #### Original name
-Rhodophyllus sodalis var. sodalis
+Entoloma sodale Kühner & Romagn. ex Noordel., 1982
 
 ### Remarks
 null

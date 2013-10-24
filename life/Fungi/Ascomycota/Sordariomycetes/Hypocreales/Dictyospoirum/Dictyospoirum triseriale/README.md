@@ -1,5 +1,4 @@
-Dictyospoirum triseriale Matsushima SPECIES
-=======
+# Dictyospoirum triseriale Matsushima SPECIES
 
 #### Status
 ACCEPTED

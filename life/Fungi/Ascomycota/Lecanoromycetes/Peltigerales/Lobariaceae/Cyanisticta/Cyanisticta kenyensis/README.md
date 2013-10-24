@@ -1,5 +1,4 @@
-Cyanisticta kenyensis C.W. Dodge SPECIES
-=======
+# Cyanisticta kenyensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

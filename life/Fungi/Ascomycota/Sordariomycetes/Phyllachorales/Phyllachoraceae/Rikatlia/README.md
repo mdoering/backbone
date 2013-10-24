@@ -1,5 +1,4 @@
-Rikatlia P.F. Cannon GENUS
-=======
+# Rikatlia P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

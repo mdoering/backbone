@@ -1,5 +1,4 @@
-Schizopelte californica Th. Fr. SPECIES
-=======
+# Schizopelte californica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

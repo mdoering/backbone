@@ -1,5 +1,4 @@
-Catopyrenium GENUS
-=======
+# Catopyrenium GENUS
 
 #### Status
 ACCEPTED

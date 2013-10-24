@@ -1,5 +1,4 @@
-Puccinia cirsiorum SPECIES
-=======
+# Puccinia cirsiorum SPECIES
 
 #### Status
 ACCEPTED

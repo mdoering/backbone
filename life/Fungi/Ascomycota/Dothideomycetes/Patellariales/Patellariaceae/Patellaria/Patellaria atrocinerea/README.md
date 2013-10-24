@@ -1,5 +1,4 @@
-Patellaria atrocinerea Trevis. SPECIES
-=======
+# Patellaria atrocinerea Trevis. SPECIES
 
 #### Status
 ACCEPTED

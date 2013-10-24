@@ -1,5 +1,4 @@
-Biatora britannica Printzen, Lumbsch & Orange, 2001 SPECIES
-=======
+# Biatora britannica Printzen, Lumbsch & Orange, 2001 SPECIES
 
 #### Status
 DOUBTFUL

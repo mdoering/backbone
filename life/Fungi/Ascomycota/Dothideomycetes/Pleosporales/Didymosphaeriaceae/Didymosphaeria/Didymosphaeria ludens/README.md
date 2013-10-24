@@ -1,5 +1,4 @@
-Didymosphaeria ludens (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Didymosphaeria ludens (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

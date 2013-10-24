@@ -1,17 +1,16 @@
-Myxormia Berk. & Broome GENUS
-=======
+# Myrothecium Tode GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 457 (1850)
+Fung. mecklenb. sel. (Lüneburg) 1: 25 (1790)
 
 #### Original name
-Myxormia Berk. & Broome
+Myrothecium Tode
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aplosporella rosarum (Cooke & Ellis) Petr. SPECIES
-=======
+# Aplosporella rosarum (Cooke & Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

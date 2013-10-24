@@ -1,5 +1,4 @@
-Irenina pipturi Hansf. SPECIES
-=======
+# Irenina pipturi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia kerriae Petr. SPECIES
-=======
+# Hendersonia kerriae Petr. SPECIES
 
 #### Status
 ACCEPTED

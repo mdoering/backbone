@@ -1,5 +1,4 @@
-Alnicola ramulosa Takah. Kobayashi SPECIES
-=======
+# Alnicola ramulosa Takah. Kobayashi SPECIES
 
 #### Status
 ACCEPTED

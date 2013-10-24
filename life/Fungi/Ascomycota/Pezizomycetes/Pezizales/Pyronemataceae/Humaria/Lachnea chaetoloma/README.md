@@ -1,5 +1,4 @@
-Lachnea chaetoloma (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Lachnea chaetoloma (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

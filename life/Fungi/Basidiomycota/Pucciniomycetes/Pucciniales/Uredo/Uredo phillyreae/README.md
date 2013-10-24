@@ -1,5 +1,4 @@
-Uredo phillyreae Cooke SPECIES
-=======
+# Uredo phillyreae Cooke SPECIES
 
 #### Status
 ACCEPTED

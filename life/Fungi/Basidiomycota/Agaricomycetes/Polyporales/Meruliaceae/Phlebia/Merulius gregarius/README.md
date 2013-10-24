@@ -1,5 +1,4 @@
-Merulius gregarius Spreng. SPECIES
-=======
+# Merulius gregarius Spreng. SPECIES
 
 #### Status
 ACCEPTED

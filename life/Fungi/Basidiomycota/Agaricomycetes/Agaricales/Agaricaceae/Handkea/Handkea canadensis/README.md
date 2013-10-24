@@ -1,5 +1,4 @@
-Handkea canadensis Kreisel SPECIES
-=======
+# Handkea canadensis Kreisel SPECIES
 
 #### Status
 ACCEPTED

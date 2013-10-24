@@ -1,5 +1,4 @@
-Metacystis truncata Cohn, 1866 SPECIES
-=======
+# Metacystis truncata Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

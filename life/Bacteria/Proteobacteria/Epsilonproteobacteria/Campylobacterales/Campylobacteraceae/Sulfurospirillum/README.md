@@ -1,5 +1,4 @@
-Sulfurospirillum Schumacher, Kroneck & Pfennig, 1993 GENUS
-=======
+# Sulfurospirillum Schumacher, Kroneck & Pfennig, 1993 GENUS
 
 #### Status
 ACCEPTED

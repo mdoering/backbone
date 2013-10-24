@@ -1,17 +1,16 @@
-Jundzillia Racib. ex L.F. Celak. GENUS
-=======
+# Amaurochaete Rostaf. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Naturwiss. Landesdurchf. Böhmen 7(5): 45 (1893)
+Vers. Syst. Mycetozoen (Strassburg) 8 (1873)
 
 #### Original name
-Jundzillia Racib. ex L.F. Celak.
+Amaurochaete Rostaf.
 
 ### Remarks
 null

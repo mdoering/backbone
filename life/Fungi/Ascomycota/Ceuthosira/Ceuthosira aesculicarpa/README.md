@@ -1,17 +1,16 @@
-Coleophoma aesculicarpa (Petr.) Nag Raj, 1978 SPECIES
-=======
+# Ceuthosira aesculicarpa Petr., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sydow, Annls mycol. 22(3/6): 265 (1924)
 
 #### Original name
-null
+Ceuthosira aesculicarpa Petr., 1924
 
 ### Remarks
 null

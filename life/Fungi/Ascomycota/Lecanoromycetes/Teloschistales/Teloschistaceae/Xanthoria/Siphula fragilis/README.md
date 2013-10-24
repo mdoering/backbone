@@ -1,5 +1,4 @@
-Siphula fragilis (Hook. f. & Taylor) J.S. Murray SPECIES
-=======
+# Siphula fragilis (Hook. f. & Taylor) J.S. Murray SPECIES
 
 #### Status
 DOUBTFUL

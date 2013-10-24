@@ -1,5 +1,4 @@
-Cladonia albonigra Brodo & Ahti SPECIES
-=======
+# Cladonia albonigra Brodo & Ahti SPECIES
 
 #### Status
 ACCEPTED

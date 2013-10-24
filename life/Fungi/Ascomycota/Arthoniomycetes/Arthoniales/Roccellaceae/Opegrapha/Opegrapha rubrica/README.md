@@ -1,5 +1,4 @@
-Opegrapha rubrica (C. Knight) Müll. Arg. SPECIES
-=======
+# Opegrapha rubrica (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

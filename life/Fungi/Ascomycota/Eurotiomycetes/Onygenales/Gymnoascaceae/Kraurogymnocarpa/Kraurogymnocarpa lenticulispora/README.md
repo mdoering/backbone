@@ -1,17 +1,16 @@
-Kraurogymnocarpa lenticulospora Udagawa & Uchiy. SPECIES
-=======
+# Kraurogymnocarpa lenticulispora Udagawa & Uchiy., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 40(3): 278 (1999)
 
 #### Original name
-Kraurogymnocarpa lenticulospora Udagawa & Uchiy.
+Kraurogymnocarpa lenticulispora Udagawa & Uchiy., 1999
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schizotrichum lobeliae McAlpine, 1903 SPECIES
-=======
+# Schizotrichum lobeliae McAlpine, 1903 SPECIES
 
 #### Status
 ACCEPTED

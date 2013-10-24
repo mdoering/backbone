@@ -1,5 +1,4 @@
-Acanthostigma crastophilum Sacc. & Fautrey SPECIES
-=======
+# Acanthostigma crastophilum Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

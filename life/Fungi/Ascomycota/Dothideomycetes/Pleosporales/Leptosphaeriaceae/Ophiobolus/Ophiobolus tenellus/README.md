@@ -1,17 +1,16 @@
-Ophiobolus tenellus var. tenellus (Auersw.) Sacc. VARIETY
-=======
+# Ophiobolus tenellus (Auersw.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 346 (1883)
 
 #### Original name
-Ophiobolus tenellus var. tenellus (Auersw.) Sacc.
+Rhaphidophora tenella Auersw., 1868
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kalmusia coffeicola Speg. SPECIES
-=======
+# Kalmusia coffeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

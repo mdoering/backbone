@@ -1,5 +1,4 @@
-Psalliota burkillii Massee SPECIES
-=======
+# Psalliota burkillii Massee SPECIES
 
 #### Status
 ACCEPTED

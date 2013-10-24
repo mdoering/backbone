@@ -1,5 +1,4 @@
-Physcia tribacoides Nyl. SPECIES
-=======
+# Physcia tribacoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

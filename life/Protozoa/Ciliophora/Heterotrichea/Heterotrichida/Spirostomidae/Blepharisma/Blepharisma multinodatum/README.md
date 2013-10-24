@@ -1,5 +1,4 @@
-Blepharisma multinodatum Hirshfield, Isquith & Bhandary, 1965 SPECIES
-=======
+# Blepharisma multinodatum Hirshfield, Isquith & Bhandary, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia amblystoma Berl. & F. Sacc., 1889 SPECIES
-=======
+# Rosellinia amblystoma Berl. & F. Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

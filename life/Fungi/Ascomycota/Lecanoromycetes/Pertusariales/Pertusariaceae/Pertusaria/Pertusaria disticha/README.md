@@ -1,5 +1,4 @@
-Pertusaria disticha Erichsen SPECIES
-=======
+# Pertusaria disticha Erichsen SPECIES
 
 #### Status
 ACCEPTED

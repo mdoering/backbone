@@ -1,5 +1,4 @@
-Mycena purpureofusca (Peck) Sacc. SPECIES
-=======
+# Mycena purpureofusca (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Calonectria flavida var. aurantiorufa Sacc. VARIETY
-=======
+# Lasionectria flavida (Corda) Cooke, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 12(no. 64): 112 (1884)
 
 #### Original name
-Calonectria flavida var. aurantiorufa Sacc.
+Sphaeria flavida Corda, 1840
 
 ### Remarks
 null

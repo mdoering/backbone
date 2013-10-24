@@ -1,5 +1,4 @@
-Aposphaeria suberina Sacc. SPECIES
-=======
+# Aposphaeria suberina Sacc. SPECIES
 
 #### Status
 ACCEPTED

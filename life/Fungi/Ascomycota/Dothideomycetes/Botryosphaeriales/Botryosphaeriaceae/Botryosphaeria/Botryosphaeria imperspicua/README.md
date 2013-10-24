@@ -1,5 +1,4 @@
-Botryosphaeria imperspicua Pass. SPECIES
-=======
+# Botryosphaeria imperspicua Pass. SPECIES
 
 #### Status
 ACCEPTED

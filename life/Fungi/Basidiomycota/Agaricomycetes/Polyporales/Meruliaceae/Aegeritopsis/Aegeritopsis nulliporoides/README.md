@@ -1,17 +1,16 @@
-Aegeritopsis nulliporioides Höhn. SPECIES
-=======
+# Aegeritopsis nulliporoides Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 1(6): 532 (1903)
 
 #### Original name
-Aegeritopsis nulliporioides Höhn.
+Aegeritopsis nulliporoides Höhn.
 
 ### Remarks
 null

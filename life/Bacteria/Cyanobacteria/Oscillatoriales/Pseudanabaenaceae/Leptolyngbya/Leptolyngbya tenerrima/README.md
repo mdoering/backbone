@@ -1,5 +1,4 @@
-Leptolyngbya tenerrima (Kützing ex Hansgirg) Komárek, 2001 SPECIES
-=======
+# Leptolyngbya tenerrima (Kützing ex Hansgirg) Komárek, 2001 SPECIES
 
 #### Status
 ACCEPTED

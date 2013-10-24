@@ -1,5 +1,4 @@
-Russula tomentosa Buyck SPECIES
-=======
+# Russula tomentosa Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Folliculina violacea Giard, 1888 SPECIES
-=======
+# Orthofolliculina violacea (Giard, 1888) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

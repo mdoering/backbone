@@ -1,5 +1,4 @@
-Panus troglodytes Fr. SPECIES
-=======
+# Panus troglodytes Fr. SPECIES
 
 #### Status
 ACCEPTED

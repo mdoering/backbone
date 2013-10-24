@@ -1,5 +1,4 @@
-Persicobacter psychrovividus Muramatsu, Takahashi, Kaneyasu, Iino, Suzuki & Nakagawa, 2010 SPECIES
-=======
+# Persicobacter psychrovividus Muramatsu, Takahashi, Kaneyasu, Iino, Suzuki & Nakagawa, 2010 SPECIES
 
 #### Status
 ACCEPTED

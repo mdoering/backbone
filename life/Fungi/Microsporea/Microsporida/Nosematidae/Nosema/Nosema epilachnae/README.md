@@ -1,5 +1,4 @@
-Nosema epilachnae SPECIES
-=======
+# Nosema epilachnae SPECIES
 
 #### Status
 ACCEPTED

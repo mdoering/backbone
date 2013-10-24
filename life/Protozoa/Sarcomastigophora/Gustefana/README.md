@@ -1,5 +1,4 @@
-Gustefana Kozur, 1993 GENUS
-=======
+# Gustefana Kozur, 1993 GENUS
 
 #### Status
 ACCEPTED

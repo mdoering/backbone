@@ -1,5 +1,4 @@
-Ceratomyces ansatus Thaxt. SPECIES
-=======
+# Ceratomyces ansatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

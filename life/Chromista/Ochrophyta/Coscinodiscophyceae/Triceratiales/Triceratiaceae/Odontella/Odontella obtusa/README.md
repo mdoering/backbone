@@ -1,8 +1,7 @@
-Odontella aurita var. obtusa (Kütz.) VARIETY
-=======
+# Odontella obtusa Kütz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

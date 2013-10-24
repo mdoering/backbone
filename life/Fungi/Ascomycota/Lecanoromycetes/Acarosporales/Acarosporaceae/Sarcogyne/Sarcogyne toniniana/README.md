@@ -1,5 +1,4 @@
-Sarcogyne toniniana (A. Massal.) Jatta SPECIES
-=======
+# Sarcogyne toniniana (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

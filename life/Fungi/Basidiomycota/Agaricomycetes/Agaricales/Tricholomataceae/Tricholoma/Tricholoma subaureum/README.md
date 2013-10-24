@@ -1,5 +1,4 @@
-Tricholoma subaureum Ovrebo SPECIES
-=======
+# Tricholoma subaureum Ovrebo SPECIES
 
 #### Status
 ACCEPTED

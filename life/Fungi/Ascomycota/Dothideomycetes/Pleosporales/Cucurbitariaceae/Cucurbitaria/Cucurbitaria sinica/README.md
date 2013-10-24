@@ -1,5 +1,4 @@
-Cucurbitaria sinica Teng SPECIES
-=======
+# Cucurbitaria sinica Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma tomentosolilacinum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma tomentosolilacinum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

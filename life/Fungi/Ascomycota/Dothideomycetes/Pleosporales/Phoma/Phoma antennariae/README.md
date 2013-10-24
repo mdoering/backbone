@@ -1,5 +1,4 @@
-Phoma antennariae Clem. SPECIES
-=======
+# Phoma antennariae Clem. SPECIES
 
 #### Status
 ACCEPTED

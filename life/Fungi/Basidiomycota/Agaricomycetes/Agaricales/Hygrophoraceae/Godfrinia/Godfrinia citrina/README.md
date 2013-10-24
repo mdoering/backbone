@@ -1,5 +1,4 @@
-Godfrinia citrina (Rea) Herink SPECIES
-=======
+# Godfrinia citrina (Rea) Herink SPECIES
 
 #### Status
 ACCEPTED

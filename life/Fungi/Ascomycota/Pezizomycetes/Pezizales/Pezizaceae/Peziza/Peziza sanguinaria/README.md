@@ -1,5 +1,4 @@
-Peziza sanguinaria Cooke SPECIES
-=======
+# Peziza sanguinaria Cooke SPECIES
 
 #### Status
 ACCEPTED

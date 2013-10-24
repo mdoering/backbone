@@ -1,5 +1,4 @@
-Buellia afra (Sitzenb.) Vain. SPECIES
-=======
+# Buellia afra (Sitzenb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

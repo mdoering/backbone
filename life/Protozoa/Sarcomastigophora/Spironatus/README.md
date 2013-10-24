@@ -1,5 +1,4 @@
-Spironatus Bykova & Ptushkina, 1980 GENUS
-=======
+# Spironatus Bykova & Ptushkina, 1980 GENUS
 
 #### Status
 ACCEPTED

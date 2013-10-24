@@ -1,5 +1,4 @@
-Dasyscyphella Tranzschel, 1898 GENUS
-=======
+# Dasyscyphella Tranzschel, 1898 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia viridis Hale SPECIES
-=======
+# Xanthoparmelia viridis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe petrakiana Sacc. SPECIES
-=======
+# Diaporthe petrakiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Hydrogenomonas flava Niklewski, 1910 SPECIES
-=======
+# Hydrogenophaga flava (Niklewski, 1910) Willems et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

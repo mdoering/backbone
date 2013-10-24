@@ -1,17 +1,16 @@
-Hypochnus albo-cinctus Mont. SPECIES
-=======
+# Hypochnus albocinctus Mont., 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 8: 361 (1837)
 
 #### Original name
-Hypochnus albo-cinctus Mont.
+Hypochnus albocinctus Mont., 1837
 
 ### Remarks
 null

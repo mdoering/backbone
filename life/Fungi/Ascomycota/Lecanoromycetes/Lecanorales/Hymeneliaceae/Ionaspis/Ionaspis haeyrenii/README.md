@@ -1,5 +1,4 @@
-Ionaspis haeyrenii Räsänen SPECIES
-=======
+# Ionaspis haeyrenii Räsänen SPECIES
 
 #### Status
 ACCEPTED

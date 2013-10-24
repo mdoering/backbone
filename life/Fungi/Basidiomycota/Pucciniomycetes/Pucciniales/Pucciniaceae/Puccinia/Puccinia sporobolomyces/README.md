@@ -1,5 +1,4 @@
-Puccinia sporobolomyces Arthur SPECIES
-=======
+# Puccinia sporobolomyces Arthur SPECIES
 
 #### Status
 ACCEPTED

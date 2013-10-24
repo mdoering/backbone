@@ -1,5 +1,4 @@
-Cortinarius navisporus Rob. Henry SPECIES
-=======
+# Cortinarius navisporus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

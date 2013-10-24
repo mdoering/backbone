@@ -1,5 +1,4 @@
-Myxocephala GENUS
-=======
+# Myxocephala GENUS
 
 #### Status
 ACCEPTED

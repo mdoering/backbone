@@ -1,5 +1,4 @@
-Leptosphaeria coronillae Moesz SPECIES
-=======
+# Leptosphaeria coronillae Moesz SPECIES
 
 #### Status
 ACCEPTED

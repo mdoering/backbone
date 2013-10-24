@@ -1,5 +1,4 @@
-Erysiphe rubiae H.D. Shin & Y.J. La SPECIES
-=======
+# Erysiphe rubiae H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

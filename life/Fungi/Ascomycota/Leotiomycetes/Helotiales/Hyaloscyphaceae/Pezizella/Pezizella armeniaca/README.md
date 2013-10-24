@@ -1,5 +1,4 @@
-Pezizella armeniaca Penz. & Sacc. SPECIES
-=======
+# Pezizella armeniaca Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

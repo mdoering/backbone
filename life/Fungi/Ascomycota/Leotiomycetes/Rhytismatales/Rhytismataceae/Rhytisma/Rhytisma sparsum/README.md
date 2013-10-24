@@ -1,5 +1,4 @@
-Rhytisma sparsum Peck & Cooke SPECIES
-=======
+# Rhytisma sparsum Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

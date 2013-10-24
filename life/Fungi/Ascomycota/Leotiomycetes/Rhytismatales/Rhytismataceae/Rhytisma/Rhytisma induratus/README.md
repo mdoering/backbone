@@ -1,5 +1,4 @@
-Rhytisma induratus Heer SPECIES
-=======
+# Rhytisma induratus Heer SPECIES
 
 #### Status
 ACCEPTED

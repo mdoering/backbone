@@ -1,5 +1,4 @@
-Phyllitis Kützing, 1843 GENUS
-=======
+# Phyllitis Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

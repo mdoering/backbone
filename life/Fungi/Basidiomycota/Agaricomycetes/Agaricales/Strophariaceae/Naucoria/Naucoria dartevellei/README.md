@@ -1,5 +1,4 @@
-Naucoria dartevellei Beeli SPECIES
-=======
+# Naucoria dartevellei Beeli SPECIES
 
 #### Status
 ACCEPTED

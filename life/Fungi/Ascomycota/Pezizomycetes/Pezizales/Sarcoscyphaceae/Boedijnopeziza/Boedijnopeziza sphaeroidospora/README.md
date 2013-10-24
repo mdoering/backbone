@@ -1,5 +1,4 @@
-Boedijnopeziza sphaeroidospora Y. Otani SPECIES
-=======
+# Boedijnopeziza sphaeroidospora Y. Otani SPECIES
 
 #### Status
 ACCEPTED

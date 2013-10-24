@@ -1,14 +1,13 @@
-Graphium rivulorum (Peyronel) Goid. SPECIES
-=======
+# Cladographium rivulorum Peyronel, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annali Bot. , Roma 21(1): 45 (1935)
+Nuovo Giorn. Bot. Ital. , N. S. 25: (1918)
 
 #### Original name
 Cladographium rivulorum Peyronel, 1918

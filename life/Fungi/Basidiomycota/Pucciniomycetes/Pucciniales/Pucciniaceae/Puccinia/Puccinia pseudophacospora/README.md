@@ -1,5 +1,4 @@
-Puccinia pseudophacospora Speg. SPECIES
-=======
+# Puccinia pseudophacospora Speg. SPECIES
 
 #### Status
 ACCEPTED

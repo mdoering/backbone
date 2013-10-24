@@ -1,5 +1,4 @@
-Coccidinium duboscquii Chatton & Biecheler SPECIES
-=======
+# Coccidinium duboscquii Chatton & Biecheler SPECIES
 
 #### Status
 ACCEPTED

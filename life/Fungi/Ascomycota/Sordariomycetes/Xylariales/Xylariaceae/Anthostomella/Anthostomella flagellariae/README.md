@@ -1,14 +1,13 @@
-Anthostoma flagellariae Rehm, 1914 SPECIES
-=======
+# Anthostomella flagellariae (Rehm) B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(1-2): 259 (2000)
 
 #### Original name
 Anthostoma flagellariae Rehm, 1914

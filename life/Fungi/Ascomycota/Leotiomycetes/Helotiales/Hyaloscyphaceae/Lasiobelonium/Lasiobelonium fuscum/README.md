@@ -1,14 +1,13 @@
-Perrotia fusca E. Müll. & Dennis, 1959 SPECIES
-=======
+# Lasiobelonium fuscum (E. Müll. & Dennis) Raitv., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 13: 46 (1959)
+Scripta Mycol. , Tartu 9: 119 (1980)
 
 #### Original name
 Perrotia fusca E. Müll. & Dennis, 1959

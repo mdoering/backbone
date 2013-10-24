@@ -1,5 +1,4 @@
-Waitea nuda Clémençon, 1990 SPECIES
-=======
+# Waitea nuda Clémençon, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroporus umbrinisquamosus Murrill SPECIES
-=======
+# Gyroporus umbrinisquamosus Murrill SPECIES
 
 #### Status
 ACCEPTED

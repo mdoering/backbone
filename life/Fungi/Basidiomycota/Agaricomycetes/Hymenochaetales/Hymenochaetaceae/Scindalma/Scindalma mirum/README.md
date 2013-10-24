@@ -1,5 +1,4 @@
-Scindalma mirum (Kalchbr.) Kuntze SPECIES
-=======
+# Scindalma mirum (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

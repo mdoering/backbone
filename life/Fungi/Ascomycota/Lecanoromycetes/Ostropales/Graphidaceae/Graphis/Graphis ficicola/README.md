@@ -1,5 +1,4 @@
-Graphis ficicola Vain. SPECIES
-=======
+# Graphis ficicola Vain. SPECIES
 
 #### Status
 ACCEPTED

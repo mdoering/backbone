@@ -1,5 +1,4 @@
-Marasmius flavellus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Marasmius flavellus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tillina campyla Stokes, 1886 SPECIES
-=======
+# Dexiostoma campylum (Stokes, 1886) Jankowski, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

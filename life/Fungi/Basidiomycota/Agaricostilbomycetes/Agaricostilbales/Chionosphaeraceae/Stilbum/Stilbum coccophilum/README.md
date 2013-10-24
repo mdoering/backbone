@@ -1,5 +1,4 @@
-Stilbum coccophilum Sacc. SPECIES
-=======
+# Stilbum coccophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

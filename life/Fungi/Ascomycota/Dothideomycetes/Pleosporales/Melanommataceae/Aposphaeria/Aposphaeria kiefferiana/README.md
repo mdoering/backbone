@@ -1,5 +1,4 @@
-Aposphaeria kiefferiana Trotter SPECIES
-=======
+# Aposphaeria kiefferiana Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon atropurpureum var. atropurpureum Tode VARIETY
-=======
+# Nemania atropurpurea (Fr.) Pouzar, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 39(1): 19 (1985)
 
 #### Original name
-Hypoxylon atropurpureum var. atropurpureum Tode
+Sphaeria atropurpurea Fr., 1815
 
 ### Remarks
 null

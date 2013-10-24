@@ -1,5 +1,4 @@
-Anguloplanina ovata Sah, Maithy & Bhargava, 1977 SPECIES
-=======
+# Anguloplanina ovata Sah, Maithy & Bhargava, 1977 SPECIES
 
 #### Status
 ACCEPTED

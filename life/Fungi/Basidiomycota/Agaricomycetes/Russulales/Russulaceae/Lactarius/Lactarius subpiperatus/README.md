@@ -1,5 +1,4 @@
-Lactarius subpiperatus Hongo SPECIES
-=======
+# Lactarius subpiperatus Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davisomycella intermedia C.L. Hou, J. Gao & M. Piepenbr., 2006 SPECIES
-=======
+# Davisomycella intermedia C.L. Hou, J. Gao & M. Piepenbr., 2006 SPECIES
 
 #### Status
 ACCEPTED

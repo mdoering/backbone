@@ -1,5 +1,4 @@
-Pleuropedium multiseptatum Marvanová & Descals, 1996 SPECIES
-=======
+# Pleuropedium multiseptatum Marvanová & Descals, 1996 SPECIES
 
 #### Status
 ACCEPTED

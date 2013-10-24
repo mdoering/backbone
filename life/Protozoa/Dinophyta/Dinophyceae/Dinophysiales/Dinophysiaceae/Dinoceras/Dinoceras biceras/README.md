@@ -1,5 +1,4 @@
-Dinoceras biceras Schiller SPECIES
-=======
+# Dinoceras biceras Schiller SPECIES
 
 #### Status
 ACCEPTED

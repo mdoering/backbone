@@ -1,5 +1,4 @@
-Sordaria tamaensis Ts. Watan. SPECIES
-=======
+# Sordaria tamaensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia geographicola (Arnold) H. Olivier SPECIES
-=======
+# Arthopyrenia geographicola (Arnold) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

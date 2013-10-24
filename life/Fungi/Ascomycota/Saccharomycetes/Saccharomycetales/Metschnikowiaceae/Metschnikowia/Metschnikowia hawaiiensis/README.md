@@ -1,5 +1,4 @@
-Metschnikowia hawaiiensis Lachance, Starmer & Phaff, 1990 SPECIES
-=======
+# Metschnikowia hawaiiensis Lachance, Starmer & Phaff, 1990 SPECIES
 
 #### Status
 ACCEPTED

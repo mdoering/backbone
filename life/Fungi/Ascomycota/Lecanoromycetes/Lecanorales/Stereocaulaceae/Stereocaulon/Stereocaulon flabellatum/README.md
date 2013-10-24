@@ -1,5 +1,4 @@
-Stereocaulon flabellatum Mineta SPECIES
-=======
+# Stereocaulon flabellatum Mineta SPECIES
 
 #### Status
 ACCEPTED

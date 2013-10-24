@@ -1,5 +1,4 @@
-Stagonospora cryptotaeniae H.C. Greene SPECIES
-=======
+# Stagonospora cryptotaeniae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

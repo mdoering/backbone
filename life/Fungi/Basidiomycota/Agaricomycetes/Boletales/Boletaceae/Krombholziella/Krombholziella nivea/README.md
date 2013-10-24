@@ -1,5 +1,4 @@
-Krombholziella nivea (Fr.) Alessio SPECIES
-=======
+# Krombholziella nivea (Fr.) Alessio SPECIES
 
 #### Status
 ACCEPTED

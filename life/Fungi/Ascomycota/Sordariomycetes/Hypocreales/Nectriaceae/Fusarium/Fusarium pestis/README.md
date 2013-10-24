@@ -1,5 +1,4 @@
-Fusarium pestis Sorauer SPECIES
-=======
+# Fusarium pestis Sorauer SPECIES
 
 #### Status
 ACCEPTED

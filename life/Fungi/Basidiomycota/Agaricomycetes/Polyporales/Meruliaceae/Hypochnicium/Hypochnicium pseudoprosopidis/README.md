@@ -1,5 +1,4 @@
-Hypochnicium pseudoprosopidis Boidin & Gilles SPECIES
-=======
+# Hypochnicium pseudoprosopidis Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

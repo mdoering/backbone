@@ -1,5 +1,4 @@
-Lecidella goniophila var. goniophila VARIETY
-=======
+# Lecidella goniophila (Flörke) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidella goniophila var. goniophila
+Lecidea goniophila Flörke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Porina gigantospora Vain. SPECIES
-=======
+# Porina gigantospora Vain. SPECIES
 
 #### Status
 ACCEPTED

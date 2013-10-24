@@ -1,5 +1,4 @@
-Astrosphaeriella malayensis K.D. Hyde & J. Fröhl., 1998 SPECIES
-=======
+# Astrosphaeriella malayensis K.D. Hyde & J. Fröhl., 1998 SPECIES
 
 #### Status
 ACCEPTED

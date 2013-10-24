@@ -1,5 +1,4 @@
-Passalora tabebuiae (J.J. Muchovej & F.A. Ferreira) U. Braun & Crous SPECIES
-=======
+# Passalora tabebuiae (J.J. Muchovej & F.A. Ferreira) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

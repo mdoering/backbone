@@ -1,5 +1,4 @@
-Hormothamnium solutum Bornet & Grunow SPECIES
-=======
+# Hormothamnium solutum Bornet & Grunow SPECIES
 
 #### Status
 ACCEPTED

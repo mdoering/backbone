@@ -1,5 +1,4 @@
-Hemithecium stictilabiatum (Patw. & C.R. Kulk.) Chitale & Makhija SPECIES
-=======
+# Hemithecium stictilabiatum (Patw. & C.R. Kulk.) Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

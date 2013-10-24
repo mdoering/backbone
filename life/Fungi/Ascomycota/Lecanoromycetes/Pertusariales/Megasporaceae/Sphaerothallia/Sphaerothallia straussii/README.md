@@ -1,5 +1,4 @@
-Sphaerothallia straussii (J. Steiner) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia straussii (J. Steiner) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

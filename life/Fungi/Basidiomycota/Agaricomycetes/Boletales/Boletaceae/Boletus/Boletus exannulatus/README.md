@@ -1,5 +1,4 @@
-Boletus exannulatus Britzelm. SPECIES
-=======
+# Boletus exannulatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

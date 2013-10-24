@@ -1,5 +1,4 @@
-Bacidia nanipara (Stizenb.) Lettau SPECIES
-=======
+# Bacidia nanipara (Stizenb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

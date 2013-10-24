@@ -1,5 +1,4 @@
-Gyraria ferruginea (Sm.) Gray SPECIES
-=======
+# Gyraria ferruginea (Sm.) Gray SPECIES
 
 #### Status
 ACCEPTED

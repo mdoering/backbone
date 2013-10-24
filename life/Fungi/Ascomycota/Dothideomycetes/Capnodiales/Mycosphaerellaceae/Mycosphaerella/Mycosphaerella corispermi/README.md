@@ -1,5 +1,4 @@
-Mycosphaerella corispermi Lobik SPECIES
-=======
+# Mycosphaerella corispermi Lobik SPECIES
 
 #### Status
 ACCEPTED

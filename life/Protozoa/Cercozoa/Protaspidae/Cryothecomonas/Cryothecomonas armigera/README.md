@@ -1,5 +1,4 @@
-Cryothecomonas armigera Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
-=======
+# Cryothecomonas armigera Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
 
 #### Status
 ACCEPTED

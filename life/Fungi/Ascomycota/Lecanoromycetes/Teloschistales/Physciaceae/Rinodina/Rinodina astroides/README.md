@@ -1,5 +1,4 @@
-Rinodina astroides Galløe SPECIES
-=======
+# Rinodina astroides Galløe SPECIES
 
 #### Status
 ACCEPTED

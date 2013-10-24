@@ -1,5 +1,4 @@
-Meridion C.Agardh, 1824 GENUS
-=======
+# Meridion C.Agardh, 1824 GENUS
 
 #### Status
 ACCEPTED

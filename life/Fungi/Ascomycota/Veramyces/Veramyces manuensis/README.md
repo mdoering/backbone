@@ -1,5 +1,4 @@
-Veramyces manuensis Matsush., 1993 SPECIES
-=======
+# Veramyces manuensis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma artemisiae Pass. SPECIES
-=======
+# Hypholoma artemisiae Pass. SPECIES
 
 #### Status
 ACCEPTED

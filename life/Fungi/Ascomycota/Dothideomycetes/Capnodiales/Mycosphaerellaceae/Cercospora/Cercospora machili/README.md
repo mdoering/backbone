@@ -1,5 +1,4 @@
-Cercospora machili Sawada SPECIES
-=======
+# Cercospora machili Sawada SPECIES
 
 #### Status
 ACCEPTED

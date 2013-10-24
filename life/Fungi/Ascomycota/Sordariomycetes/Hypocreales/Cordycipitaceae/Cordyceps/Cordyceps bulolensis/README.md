@@ -1,5 +1,4 @@
-Cordyceps bulolensis Kobayasi SPECIES
-=======
+# Cordyceps bulolensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

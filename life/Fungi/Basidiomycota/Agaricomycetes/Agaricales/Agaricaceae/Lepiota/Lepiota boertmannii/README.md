@@ -1,14 +1,13 @@
-Echinoderma boertmannii (Knudsen) Bon, 1991 SPECIES
-=======
+# Lepiota boertmannii Knudsen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. , mém. hors sér. 21(no. 82): 62 (1991)
+Bot. Tidsskr. 75(2-3): 150 (1980)
 
 #### Original name
 Lepiota boertmannii Knudsen, 1980

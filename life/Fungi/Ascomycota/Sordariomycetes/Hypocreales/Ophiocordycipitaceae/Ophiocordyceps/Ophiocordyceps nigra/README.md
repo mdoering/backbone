@@ -1,5 +1,4 @@
-Ophiocordyceps nigra (Samson, H.C. Evans & Hoekstra) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps nigra (Samson, H.C. Evans & Hoekstra) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

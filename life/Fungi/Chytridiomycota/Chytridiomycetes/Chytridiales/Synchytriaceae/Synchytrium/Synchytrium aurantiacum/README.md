@@ -1,5 +1,4 @@
-Synchytrium aurantiacum G. Tobler SPECIES
-=======
+# Synchytrium aurantiacum G. Tobler SPECIES
 
 #### Status
 ACCEPTED

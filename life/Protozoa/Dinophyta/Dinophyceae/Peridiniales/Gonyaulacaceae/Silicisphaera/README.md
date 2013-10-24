@@ -1,5 +1,4 @@
-Silicisphaera R.J. Davey & J.P. Verdier, 1976 GENUS
-=======
+# Silicisphaera R.J. Davey & J.P. Verdier, 1976 GENUS
 
 #### Status
 ACCEPTED

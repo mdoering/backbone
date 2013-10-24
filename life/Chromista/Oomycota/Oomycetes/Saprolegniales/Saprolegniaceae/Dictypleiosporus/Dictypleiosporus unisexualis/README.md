@@ -1,5 +1,4 @@
-Dictypleiosporus unisexualis Gandhe, 2006 SPECIES
-=======
+# Dictypleiosporus unisexualis Gandhe, 2006 SPECIES
 
 #### Status
 ACCEPTED

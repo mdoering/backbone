@@ -1,5 +1,4 @@
-Domingoella Petr. & Cif. GENUS
-=======
+# Domingoella Petr. & Cif. GENUS
 
 #### Status
 ACCEPTED

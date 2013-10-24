@@ -1,5 +1,4 @@
-Ramaria sclerocarnosa R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria sclerocarnosa R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

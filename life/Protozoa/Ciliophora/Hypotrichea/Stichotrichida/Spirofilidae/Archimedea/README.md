@@ -1,5 +1,4 @@
-Archimedea Hudson, 1875 GENUS
-=======
+# Archimedea Hudson, 1875 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe croceolutea (Hongo) Hongo SPECIES
-=======
+# Hygrocybe croceolutea (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

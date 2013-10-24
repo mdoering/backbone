@@ -1,5 +1,4 @@
-Rhabdospora eupyrena (Sacc. & Thüm.) Sacc. SPECIES
-=======
+# Rhabdospora eupyrena (Sacc. & Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

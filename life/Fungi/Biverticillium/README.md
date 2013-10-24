@@ -1,5 +1,4 @@
-Biverticillium GENUS
-=======
+# Biverticillium GENUS
 
 #### Status
 ACCEPTED

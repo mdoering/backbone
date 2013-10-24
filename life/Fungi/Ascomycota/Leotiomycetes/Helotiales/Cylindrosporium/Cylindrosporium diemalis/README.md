@@ -1,5 +1,4 @@
-Cylindrosporium diemalis B.B. Higgins SPECIES
-=======
+# Cylindrosporium diemalis B.B. Higgins SPECIES
 
 #### Status
 ACCEPTED

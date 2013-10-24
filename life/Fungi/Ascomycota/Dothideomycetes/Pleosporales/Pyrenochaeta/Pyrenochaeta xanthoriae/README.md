@@ -1,5 +1,4 @@
-Pyrenochaeta xanthoriae Diederich SPECIES
-=======
+# Pyrenochaeta xanthoriae Diederich SPECIES
 
 #### Status
 ACCEPTED

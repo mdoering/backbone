@@ -1,5 +1,4 @@
-Gyalideopsis laevithallina Lücking SPECIES
-=======
+# Gyalideopsis laevithallina Lücking SPECIES
 
 #### Status
 ACCEPTED

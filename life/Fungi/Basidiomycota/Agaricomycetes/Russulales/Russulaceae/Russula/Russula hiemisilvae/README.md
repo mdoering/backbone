@@ -1,5 +1,4 @@
-Russula hiemisilvae Buyck SPECIES
-=======
+# Russula hiemisilvae Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces symphiostemi Speg. SPECIES
-=======
+# Uromyces symphiostemi Speg. SPECIES
 
 #### Status
 ACCEPTED

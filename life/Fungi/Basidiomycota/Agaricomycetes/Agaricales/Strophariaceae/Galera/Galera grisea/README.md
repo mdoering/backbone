@@ -1,5 +1,4 @@
-Galera grisea Rick SPECIES
-=======
+# Galera grisea Rick SPECIES
 
 #### Status
 ACCEPTED

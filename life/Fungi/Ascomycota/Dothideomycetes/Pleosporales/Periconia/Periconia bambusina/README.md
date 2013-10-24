@@ -1,5 +1,4 @@
-Periconia bambusina S.H. Ou SPECIES
-=======
+# Periconia bambusina S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

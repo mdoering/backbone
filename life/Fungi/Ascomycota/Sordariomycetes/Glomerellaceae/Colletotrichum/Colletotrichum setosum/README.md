@@ -1,5 +1,4 @@
-Colletotrichum setosum F. Patt. SPECIES
-=======
+# Colletotrichum setosum F. Patt. SPECIES
 
 #### Status
 ACCEPTED

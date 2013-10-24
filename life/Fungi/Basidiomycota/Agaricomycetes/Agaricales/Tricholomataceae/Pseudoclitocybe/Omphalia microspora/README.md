@@ -1,5 +1,4 @@
-Omphalia microspora Bres. SPECIES
-=======
+# Omphalia microspora Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta juliflorae Ellis & Barthol. SPECIES
-=======
+# Phyllosticta juliflorae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

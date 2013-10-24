@@ -1,5 +1,4 @@
-Rhytisma spurcarium Berk. & Broome SPECIES
-=======
+# Rhytisma spurcarium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

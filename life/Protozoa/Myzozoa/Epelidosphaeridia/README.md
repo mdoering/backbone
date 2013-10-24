@@ -1,5 +1,4 @@
-Epelidosphaeridia Davey GENUS
-=======
+# Epelidosphaeridia Davey GENUS
 
 #### Status
 ACCEPTED

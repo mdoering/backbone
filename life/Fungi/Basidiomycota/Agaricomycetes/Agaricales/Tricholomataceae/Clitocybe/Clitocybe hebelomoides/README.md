@@ -1,5 +1,4 @@
-Clitocybe hebelomoides Lamoure SPECIES
-=======
+# Clitocybe hebelomoides Lamoure SPECIES
 
 #### Status
 ACCEPTED

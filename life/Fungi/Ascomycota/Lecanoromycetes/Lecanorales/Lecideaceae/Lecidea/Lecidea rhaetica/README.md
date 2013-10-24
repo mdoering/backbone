@@ -1,5 +1,4 @@
-Lecidea rhaetica f. rhaetica FORM
-=======
+# Lecidea rhaetica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea rhaetica f. rhaetica
+Lecidea rhaetica Th. Fr.
 
 ### Remarks
 null

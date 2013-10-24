@@ -1,5 +1,4 @@
-Spathidium viride Penard, 1922 SPECIES
-=======
+# Spathidium viride Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

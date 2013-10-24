@@ -1,5 +1,4 @@
-Dentostomina aguayoi SPECIES
-=======
+# Dentostomina aguayoi SPECIES
 
 #### Status
 ACCEPTED

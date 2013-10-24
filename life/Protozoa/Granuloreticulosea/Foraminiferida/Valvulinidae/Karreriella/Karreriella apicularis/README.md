@@ -1,5 +1,4 @@
-Karreriella apicularis SPECIES
-=======
+# Karreriella apicularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbeniomycetes Engl. CLASS
-=======
+# Laboulbeniomycetes Engl. CLASS
 
 #### Status
 ACCEPTED

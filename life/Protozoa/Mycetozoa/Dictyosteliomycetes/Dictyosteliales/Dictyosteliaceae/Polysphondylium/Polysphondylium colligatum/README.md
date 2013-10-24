@@ -1,5 +1,4 @@
-Polysphondylium colligatum Vadell & Cavender, 1998 SPECIES
-=======
+# Polysphondylium colligatum Vadell & Cavender, 1998 SPECIES
 
 #### Status
 ACCEPTED

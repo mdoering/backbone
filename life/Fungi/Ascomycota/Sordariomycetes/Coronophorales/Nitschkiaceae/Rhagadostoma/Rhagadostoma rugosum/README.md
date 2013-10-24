@@ -1,5 +1,4 @@
-Rhagadostoma rugosum Nav.-Ros. & Hladún, 1994 SPECIES
-=======
+# Rhagadostoma rugosum Nav.-Ros. & Hladún, 1994 SPECIES
 
 #### Status
 ACCEPTED

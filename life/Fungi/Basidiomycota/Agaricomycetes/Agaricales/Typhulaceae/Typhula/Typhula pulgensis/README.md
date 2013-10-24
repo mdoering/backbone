@@ -1,17 +1,16 @@
-Typhula pungens Khurana SPECIES
-=======
+# Typhula pulgensis Khurana, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 72(4): 723 (1980)
 
 #### Original name
-Typhula pungens Khurana
+Typhula pulgensis Khurana, 1980
 
 ### Remarks
 null

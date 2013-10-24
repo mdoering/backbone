@@ -1,5 +1,4 @@
-Sphaerella asphodelina Alcalde SPECIES
-=======
+# Sphaerella asphodelina Alcalde SPECIES
 
 #### Status
 ACCEPTED

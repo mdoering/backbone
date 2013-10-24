@@ -1,5 +1,4 @@
-Urceolaria danubica Motyka SPECIES
-=======
+# Urceolaria danubica Motyka SPECIES
 
 #### Status
 ACCEPTED

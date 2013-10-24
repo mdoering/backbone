@@ -1,5 +1,4 @@
-Meliola sapotacearum Mig. Rodr. & Camino SPECIES
-=======
+# Meliola sapotacearum Mig. Rodr. & Camino SPECIES
 
 #### Status
 ACCEPTED

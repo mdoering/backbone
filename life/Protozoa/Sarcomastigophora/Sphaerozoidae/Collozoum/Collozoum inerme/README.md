@@ -1,5 +1,4 @@
-Collozoum inerme J. Müller SPECIES
-=======
+# Collozoum inerme J. Müller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe gallophila Ellis SPECIES
-=======
+# Diaporthe gallophila Ellis SPECIES
 
 #### Status
 ACCEPTED

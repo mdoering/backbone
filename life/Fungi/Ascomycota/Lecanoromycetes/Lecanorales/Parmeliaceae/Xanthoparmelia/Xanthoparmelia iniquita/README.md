@@ -1,17 +1,16 @@
-Xanthoparmelia subfuscescens (Nyl.) Hale SPECIES
-=======
+# Xanthoparmelia iniquita Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 489 (1974)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 270 (1986)
 
 #### Original name
-Parmelia subfuscescens Nyl.
+Xanthoparmelia iniquita Elix & J. Johnst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neottiospora umbelliferarum H.C. Greene SPECIES
-=======
+# Neottiospora umbelliferarum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

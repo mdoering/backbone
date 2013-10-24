@@ -1,5 +1,4 @@
-Puccinia mysorensis Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Puccinia mysorensis Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

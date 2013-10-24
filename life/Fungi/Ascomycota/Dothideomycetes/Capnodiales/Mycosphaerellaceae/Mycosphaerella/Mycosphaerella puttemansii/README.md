@@ -1,5 +1,4 @@
-Mycosphaerella puttemansii Henn. SPECIES
-=======
+# Mycosphaerella puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

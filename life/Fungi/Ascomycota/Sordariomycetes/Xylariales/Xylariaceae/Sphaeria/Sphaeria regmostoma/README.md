@@ -1,5 +1,4 @@
-Sphaeria regmostoma Fr. SPECIES
-=======
+# Sphaeria regmostoma Fr. SPECIES
 
 #### Status
 ACCEPTED

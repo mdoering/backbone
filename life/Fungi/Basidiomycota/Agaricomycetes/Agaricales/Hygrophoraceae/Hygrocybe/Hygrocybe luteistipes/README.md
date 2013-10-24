@@ -1,5 +1,4 @@
-Hygrocybe luteistipes (Dennis) S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe luteistipes (Dennis) S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

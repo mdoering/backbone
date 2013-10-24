@@ -1,14 +1,13 @@
-Sphaeria zanthoxyli Lév., 1846 SPECIES
-=======
+# Phyllachora zanthoxyli (Lév.) Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 261 (1846)
+Grevillea 13(no. 67): 63 (1885)
 
 #### Original name
 Sphaeria zanthoxyli Lév., 1846

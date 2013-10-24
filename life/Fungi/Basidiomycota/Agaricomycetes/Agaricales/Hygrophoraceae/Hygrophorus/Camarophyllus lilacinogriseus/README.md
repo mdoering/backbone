@@ -1,5 +1,4 @@
-Camarophyllus lilacinogriseus (Hongo) Hongo SPECIES
-=======
+# Camarophyllus lilacinogriseus (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

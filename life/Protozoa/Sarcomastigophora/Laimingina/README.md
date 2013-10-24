@@ -1,5 +1,4 @@
-Laimingina Kleinpell & Tipton in Kleinpell, 1980 GENUS
-=======
+# Laimingina Kleinpell & Tipton in Kleinpell, 1980 GENUS
 
 #### Status
 ACCEPTED

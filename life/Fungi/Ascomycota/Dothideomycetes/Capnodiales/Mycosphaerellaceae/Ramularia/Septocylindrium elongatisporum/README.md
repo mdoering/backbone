@@ -1,5 +1,4 @@
-Septocylindrium elongatisporum (Berk. & Broome) Sacc. SPECIES
-=======
+# Septocylindrium elongatisporum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria melanodon (Fr.) Sacc. SPECIES
-=======
+# Humaria melanodon (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

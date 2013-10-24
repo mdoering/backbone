@@ -1,17 +1,16 @@
-Lasiophoma Naumov GENUS
-=======
+# Pyrenochaeta De Notaris, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Zap. Ural'sk. Obc. Ljubit. Estestv. 35(11-12): 30 (1916)
+null
 
 #### Original name
-Lasiophoma Naumov
+null
 
 ### Remarks
 null

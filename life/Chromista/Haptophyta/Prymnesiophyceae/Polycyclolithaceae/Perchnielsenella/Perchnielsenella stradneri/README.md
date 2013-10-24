@@ -1,5 +1,4 @@
-Perchnielsenella stradneri SPECIES
-=======
+# Perchnielsenella stradneri SPECIES
 
 #### Status
 ACCEPTED

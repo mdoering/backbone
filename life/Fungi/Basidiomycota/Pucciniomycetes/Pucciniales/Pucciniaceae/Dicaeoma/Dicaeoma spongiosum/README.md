@@ -1,5 +1,4 @@
-Dicaeoma spongiosum (Berk. & Broome) Kuntze SPECIES
-=======
+# Dicaeoma spongiosum (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

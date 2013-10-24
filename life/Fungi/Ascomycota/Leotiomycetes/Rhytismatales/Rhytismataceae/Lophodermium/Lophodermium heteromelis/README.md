@@ -1,14 +1,13 @@
-Hypoderma heteromelis W. Phillips & Harkn., 1884 SPECIES
-=======
+# Lophodermium heteromelis (W. Phillips & Harkn.) Ellis & Everh., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 65): 23 (1884)
+N. Amer. Pyren. (Newfield) 718 (1892)
 
 #### Original name
 Hypoderma heteromelis W. Phillips & Harkn., 1884

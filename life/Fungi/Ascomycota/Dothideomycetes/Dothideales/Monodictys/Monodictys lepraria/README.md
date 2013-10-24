@@ -1,14 +1,13 @@
-Sporidesmium lepraria Berk., 1853 SPECIES
-=======
+# Monodictys lepraria (Berk.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 5: 43 (1853)
+More Dematiaceous Hyphomycetes (Kew) 44 (1976)
 
 #### Original name
 Sporidesmium lepraria Berk., 1853

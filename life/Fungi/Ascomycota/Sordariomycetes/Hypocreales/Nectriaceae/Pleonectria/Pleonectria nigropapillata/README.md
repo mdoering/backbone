@@ -1,5 +1,4 @@
-Pleonectria nigropapillata Starbäck SPECIES
-=======
+# Pleonectria nigropapillata Starbäck SPECIES
 
 #### Status
 ACCEPTED

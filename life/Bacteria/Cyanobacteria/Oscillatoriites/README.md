@@ -1,5 +1,4 @@
-Oscillatoriites M.D. Zalessky, 1926 GENUS
-=======
+# Oscillatoriites M.D. Zalessky, 1926 GENUS
 
 #### Status
 ACCEPTED

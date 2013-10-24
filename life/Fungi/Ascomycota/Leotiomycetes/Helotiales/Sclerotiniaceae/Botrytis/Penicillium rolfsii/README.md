@@ -1,5 +1,4 @@
-Penicillium rolfsii Thom, 1930 SPECIES
-=======
+# Penicillium rolfsii Thom, 1930 SPECIES
 
 #### Status
 DOUBTFUL

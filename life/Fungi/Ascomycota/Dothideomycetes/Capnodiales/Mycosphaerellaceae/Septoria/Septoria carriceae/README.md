@@ -1,5 +1,4 @@
-Septoria carriceae SPECIES
-=======
+# Septoria carriceae SPECIES
 
 #### Status
 ACCEPTED

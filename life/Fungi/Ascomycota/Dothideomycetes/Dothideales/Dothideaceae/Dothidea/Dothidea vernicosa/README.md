@@ -1,5 +1,4 @@
-Dothidea vernicosa (DC.) Fr. SPECIES
-=======
+# Dothidea vernicosa (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

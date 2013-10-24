@@ -1,5 +1,4 @@
-Cytosporella celtidis M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Cytosporella celtidis M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

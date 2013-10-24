@@ -1,5 +1,4 @@
-Catenosynnema Kodsueb, K.D. Hyde & W.H. Ho GENUS
-=======
+# Catenosynnema Kodsueb, K.D. Hyde & W.H. Ho GENUS
 
 #### Status
 ACCEPTED

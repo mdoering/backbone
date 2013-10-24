@@ -1,5 +1,4 @@
-Trichoderma petersenii Samuels, Dodd & Schroers SPECIES
-=======
+# Trichoderma petersenii Samuels, Dodd & Schroers SPECIES
 
 #### Status
 ACCEPTED

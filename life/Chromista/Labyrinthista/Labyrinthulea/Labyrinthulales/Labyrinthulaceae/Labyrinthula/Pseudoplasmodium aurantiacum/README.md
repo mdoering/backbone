@@ -1,5 +1,4 @@
-Pseudoplasmodium aurantiacum Molisch SPECIES
-=======
+# Pseudoplasmodium aurantiacum Molisch SPECIES
 
 #### Status
 ACCEPTED

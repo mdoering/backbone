@@ -1,5 +1,4 @@
-Flammula spinulifera Murrill SPECIES
-=======
+# Flammula spinulifera Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia variolans Harkn. SPECIES
-=======
+# Puccinia variolans Harkn. SPECIES
 
 #### Status
 ACCEPTED

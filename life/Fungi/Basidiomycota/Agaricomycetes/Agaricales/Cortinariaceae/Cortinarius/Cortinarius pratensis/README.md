@@ -1,17 +1,16 @@
-Cortinarius pratensis f. salicis-herbaceae Bon & Cheype FORM
-=======
+# Cortinarius pratensis (Bon & Gaugué) Høil., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bon, Bull. trimest. Féd. Mycol. Dauphiné-Savoie 39(no. 154): 26 (1999)
+Op. bot. 71: 86 (1984)
 
 #### Original name
-Cortinarius pratensis f. salicis-herbaceae Bon & Cheype
+Dermocybe pratensis Bon & Gaugué, 1975
 
 ### Remarks
 null

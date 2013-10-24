@@ -1,17 +1,16 @@
-Gyrophila carnea (Bull.) Quél., 1886 SPECIES
-=======
+# Calocybe carnea (Bull.) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 5: 42 (1962)
 
 #### Original name
-null
+Agaricus carneus Bull., 1792
 
 ### Remarks
 null

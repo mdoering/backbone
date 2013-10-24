@@ -1,5 +1,4 @@
-Euglena cantabrica Pringsheim SPECIES
-=======
+# Euglena cantabrica Pringsheim SPECIES
 
 #### Status
 ACCEPTED

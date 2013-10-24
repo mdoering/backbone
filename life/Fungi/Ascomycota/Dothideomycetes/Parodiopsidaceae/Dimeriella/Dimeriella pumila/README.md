@@ -1,5 +1,4 @@
-Dimeriella pumila Petr. SPECIES
-=======
+# Dimeriella pumila Petr. SPECIES
 
 #### Status
 ACCEPTED

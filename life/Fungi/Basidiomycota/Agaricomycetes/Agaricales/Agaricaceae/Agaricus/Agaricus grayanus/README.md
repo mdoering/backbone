@@ -1,5 +1,4 @@
-Agaricus grayanus Peck SPECIES
-=======
+# Agaricus grayanus Peck SPECIES
 
 #### Status
 ACCEPTED

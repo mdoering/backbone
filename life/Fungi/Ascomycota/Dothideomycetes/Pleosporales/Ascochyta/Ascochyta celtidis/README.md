@@ -1,5 +1,4 @@
-Ascochyta celtidis Hollós SPECIES
-=======
+# Ascochyta celtidis Hollós SPECIES
 
 #### Status
 ACCEPTED

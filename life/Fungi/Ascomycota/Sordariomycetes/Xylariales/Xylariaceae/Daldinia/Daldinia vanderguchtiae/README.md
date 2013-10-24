@@ -1,17 +1,16 @@
-Daldinia venderguchtiae M. Stadler, Wollw. & Briegert SPECIES
-=======
+# Daldinia vanderguchtiae M. Stadler, Wollw. & Briegert, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Stadler, Wollweber, Jäger, Briegert, Venturella, Castro & Tichy, Mycol. Res. 108(3): 268 (2004)
 
 #### Original name
-Daldinia venderguchtiae M. Stadler, Wollw. & Briegert
+Daldinia vanderguchtiae M. Stadler, Wollw. & Briegert, 2004
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercosporella proliferans anon. SPECIES
-=======
+# Cercosporella proliferans anon. SPECIES
 
 #### Status
 ACCEPTED

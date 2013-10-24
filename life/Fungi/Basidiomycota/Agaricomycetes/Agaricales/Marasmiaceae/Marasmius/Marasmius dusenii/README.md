@@ -1,5 +1,4 @@
-Marasmius dusenii Henn. SPECIES
-=======
+# Marasmius dusenii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megascina GENUS
-=======
+# Megascina GENUS
 
 #### Status
 ACCEPTED

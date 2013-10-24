@@ -1,5 +1,4 @@
-Trachelomonas conica var. granulata Playfair VARIETY
-=======
+# Trachelomonas conica Playfair SPECIES
 
 #### Status
 ACCEPTED

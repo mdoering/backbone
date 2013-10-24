@@ -1,5 +1,4 @@
-Heliomyces terrestris Murrill SPECIES
-=======
+# Heliomyces terrestris Murrill SPECIES
 
 #### Status
 ACCEPTED

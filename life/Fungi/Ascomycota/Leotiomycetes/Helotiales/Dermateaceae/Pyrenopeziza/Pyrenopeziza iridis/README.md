@@ -1,5 +1,4 @@
-Pyrenopeziza iridis (Rehm) Nannf. SPECIES
-=======
+# Pyrenopeziza iridis (Rehm) Nannf. SPECIES
 
 #### Status
 ACCEPTED

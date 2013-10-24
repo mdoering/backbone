@@ -1,5 +1,4 @@
-Pezizella excavata (Saut.) Sacc. SPECIES
-=======
+# Pezizella excavata (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

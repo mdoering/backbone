@@ -1,5 +1,4 @@
-Cercospora confusa G.F. Atk. SPECIES
-=======
+# Cercospora confusa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

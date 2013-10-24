@@ -1,5 +1,4 @@
-Puccinia baccharidis-sparteae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia baccharidis-sparteae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

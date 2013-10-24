@@ -1,5 +1,4 @@
-Rickia euzerconalis Thaxt. SPECIES
-=======
+# Rickia euzerconalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

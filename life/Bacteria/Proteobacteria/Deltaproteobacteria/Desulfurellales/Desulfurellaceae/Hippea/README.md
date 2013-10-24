@@ -1,5 +1,4 @@
-Hippea Miroshnichenko, Rainey, Rhode & Bonch-Osmolovskaya, 1999 GENUS
-=======
+# Hippea Miroshnichenko, Rainey, Rhode & Bonch-Osmolovskaya, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium turbatum Westling, 1911 SPECIES
-=======
+# Penicillium turbatum Westling, 1911 SPECIES
 
 #### Status
 ACCEPTED

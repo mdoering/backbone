@@ -1,5 +1,4 @@
-Kuehneola malvicola Arthur SPECIES
-=======
+# Kuehneola malvicola Arthur SPECIES
 
 #### Status
 ACCEPTED

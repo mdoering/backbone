@@ -1,5 +1,4 @@
-Phyllachora lapponica Petr., 1936 SPECIES
-=======
+# Phyllachora lapponica Petr., 1936 SPECIES
 
 #### Status
 ACCEPTED

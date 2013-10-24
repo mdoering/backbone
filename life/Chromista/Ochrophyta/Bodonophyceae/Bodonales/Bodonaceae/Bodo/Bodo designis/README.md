@@ -1,5 +1,4 @@
-Bodo designis Skuja SPECIES
-=======
+# Bodo designis Skuja SPECIES
 
 #### Status
 ACCEPTED

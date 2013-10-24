@@ -1,5 +1,4 @@
-Allophylaria cordobensis Speg. SPECIES
-=======
+# Allophylaria cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

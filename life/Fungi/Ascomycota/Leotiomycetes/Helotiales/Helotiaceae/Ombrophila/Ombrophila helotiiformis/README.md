@@ -1,5 +1,4 @@
-Ombrophila helotiiformis Velen. SPECIES
-=======
+# Ombrophila helotiiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium verrucosum Dube & Makhija SPECIES
-=======
+# Leptogium verrucosum Dube & Makhija SPECIES
 
 #### Status
 ACCEPTED

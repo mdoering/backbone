@@ -1,5 +1,4 @@
-Opegrapha crassilabra Mont. & Bosch SPECIES
-=======
+# Opegrapha crassilabra Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

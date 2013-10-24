@@ -1,5 +1,4 @@
-Leptonia pallida Egeland SPECIES
-=======
+# Leptonia pallida Egeland SPECIES
 
 #### Status
 ACCEPTED

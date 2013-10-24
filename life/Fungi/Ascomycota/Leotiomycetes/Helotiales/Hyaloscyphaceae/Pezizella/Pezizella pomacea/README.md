@@ -1,5 +1,4 @@
-Pezizella pomacea Velen. SPECIES
-=======
+# Pezizella pomacea Velen. SPECIES
 
 #### Status
 ACCEPTED

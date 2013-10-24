@@ -1,5 +1,4 @@
-Clavaria dozyi Lév. SPECIES
-=======
+# Clavaria dozyi Lév. SPECIES
 
 #### Status
 ACCEPTED

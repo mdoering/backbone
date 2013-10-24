@@ -1,5 +1,4 @@
-Microglabratella tabaensis Pawlowski & Lee, 1991 SPECIES
-=======
+# Microglabratella tabaensis Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

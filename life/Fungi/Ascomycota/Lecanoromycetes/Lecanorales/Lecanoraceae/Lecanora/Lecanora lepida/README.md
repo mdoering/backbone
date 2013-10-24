@@ -1,5 +1,4 @@
-Lecanora lepida SPECIES
-=======
+# Lecanora lepida SPECIES
 
 #### Status
 ACCEPTED

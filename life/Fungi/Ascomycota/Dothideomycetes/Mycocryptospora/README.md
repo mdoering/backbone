@@ -1,5 +1,4 @@
-Mycocryptospora J. Reid & C. Booth GENUS
-=======
+# Mycocryptospora J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

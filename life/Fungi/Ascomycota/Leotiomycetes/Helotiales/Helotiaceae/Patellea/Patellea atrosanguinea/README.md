@@ -1,5 +1,4 @@
-Patellea atrosanguinea (Fuckel) Kirschst. SPECIES
-=======
+# Patellea atrosanguinea (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

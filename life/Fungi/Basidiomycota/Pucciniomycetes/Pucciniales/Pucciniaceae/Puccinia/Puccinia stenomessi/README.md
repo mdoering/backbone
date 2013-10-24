@@ -1,5 +1,4 @@
-Puccinia stenomessi Jørst. SPECIES
-=======
+# Puccinia stenomessi Jørst. SPECIES
 
 #### Status
 ACCEPTED

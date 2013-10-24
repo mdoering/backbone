@@ -1,5 +1,4 @@
-Asteromella nigrescens (Bonar & W.B. Cooke) Aa & Vanev SPECIES
-=======
+# Asteromella nigrescens (Bonar & W.B. Cooke) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

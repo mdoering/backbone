@@ -1,5 +1,4 @@
-Catharinia gregaria McAlpine SPECIES
-=======
+# Catharinia gregaria McAlpine SPECIES
 
 #### Status
 ACCEPTED

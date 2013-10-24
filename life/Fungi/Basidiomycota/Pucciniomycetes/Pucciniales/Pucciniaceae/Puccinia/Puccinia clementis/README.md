@@ -1,5 +1,4 @@
-Puccinia clementis Garrett SPECIES
-=======
+# Puccinia clementis Garrett SPECIES
 
 #### Status
 ACCEPTED

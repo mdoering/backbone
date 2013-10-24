@@ -1,5 +1,4 @@
-Trochammina bursaria Chapman, 1933 SPECIES
-=======
+# Trochammina bursaria Chapman, 1933 SPECIES
 
 #### Status
 ACCEPTED

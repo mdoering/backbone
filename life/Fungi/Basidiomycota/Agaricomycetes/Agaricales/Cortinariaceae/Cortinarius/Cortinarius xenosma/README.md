@@ -1,5 +1,4 @@
-Cortinarius xenosma Soop, 2003 SPECIES
-=======
+# Cortinarius xenosma Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

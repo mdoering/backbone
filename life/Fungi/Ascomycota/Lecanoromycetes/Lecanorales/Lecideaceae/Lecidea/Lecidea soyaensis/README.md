@@ -1,5 +1,4 @@
-Lecidea soyaensis May. Inoue SPECIES
-=======
+# Lecidea soyaensis May. Inoue SPECIES
 
 #### Status
 ACCEPTED

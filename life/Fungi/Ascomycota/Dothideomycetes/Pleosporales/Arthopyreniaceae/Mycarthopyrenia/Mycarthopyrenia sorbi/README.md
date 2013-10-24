@@ -1,5 +1,4 @@
-Mycarthopyrenia sorbi Keissl. SPECIES
-=======
+# Mycarthopyrenia sorbi Keissl. SPECIES
 
 #### Status
 ACCEPTED

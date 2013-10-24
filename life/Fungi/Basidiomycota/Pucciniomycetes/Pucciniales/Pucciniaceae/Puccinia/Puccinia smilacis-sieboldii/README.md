@@ -1,5 +1,4 @@
-Puccinia smilacis-sieboldii Hirats. f. SPECIES
-=======
+# Puccinia smilacis-sieboldii Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

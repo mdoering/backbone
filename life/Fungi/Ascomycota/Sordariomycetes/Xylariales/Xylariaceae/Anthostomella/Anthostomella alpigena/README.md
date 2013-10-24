@@ -1,5 +1,4 @@
-Anthostomella alpigena (Fuckel) P.M.D. Martin SPECIES
-=======
+# Anthostomella alpigena (Fuckel) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

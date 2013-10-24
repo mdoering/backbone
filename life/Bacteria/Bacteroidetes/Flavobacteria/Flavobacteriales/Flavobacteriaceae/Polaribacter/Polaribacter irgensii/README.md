@@ -1,5 +1,4 @@
-Polaribacter irgensii Gosink et al., 1998 SPECIES
-=======
+# Polaribacter irgensii Gosink et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

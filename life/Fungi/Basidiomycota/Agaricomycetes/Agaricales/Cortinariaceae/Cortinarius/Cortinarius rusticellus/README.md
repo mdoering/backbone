@@ -1,5 +1,4 @@
-Cortinarius rusticellus J. Favre SPECIES
-=======
+# Cortinarius rusticellus J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachysphaeridium dalkiense Nautiyal, 1988 SPECIES
-=======
+# Trachysphaeridium dalkiense Nautiyal, 1988 SPECIES
 
 #### Status
 ACCEPTED

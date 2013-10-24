@@ -1,5 +1,4 @@
-Eiffellithus turriseiffelii (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1965 SPECIES
-=======
+# Eiffellithus turriseiffelii (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1965 SPECIES
 
 #### Status
 ACCEPTED

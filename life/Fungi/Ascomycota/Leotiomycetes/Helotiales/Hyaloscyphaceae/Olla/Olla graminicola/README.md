@@ -1,5 +1,4 @@
-Olla graminicola (Raitv.) Raitv. SPECIES
-=======
+# Olla graminicola (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

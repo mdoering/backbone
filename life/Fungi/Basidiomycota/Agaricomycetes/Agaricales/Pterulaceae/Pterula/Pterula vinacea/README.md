@@ -1,5 +1,4 @@
-Pterula vinacea Corner, 1950 SPECIES
-=======
+# Pterula vinacea Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia atropurpurea Chardón SPECIES
-=======
+# Guignardia atropurpurea Chardón SPECIES
 
 #### Status
 ACCEPTED

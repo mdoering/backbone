@@ -1,5 +1,4 @@
-Hygrocybe nivosa var. nivosa (Berk. & Broome) Leelav., Manim. & Arnolds VARIETY
-=======
+# Hygrocybe nivosa (Berk. & Broome) Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

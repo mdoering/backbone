@@ -1,5 +1,4 @@
-Scutellinia beatricis Svrcek SPECIES
-=======
+# Scutellinia beatricis Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trullula vanillae Henn. SPECIES
-=======
+# Trullula vanillae Henn. SPECIES
 
 #### Status
 ACCEPTED

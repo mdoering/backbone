@@ -1,5 +1,4 @@
-Mitrula sphaerocephala Bres. SPECIES
-=======
+# Mitrula sphaerocephala Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbeniopsis Thaxt. GENUS
-=======
+# Laboulbeniopsis Thaxt. GENUS
 
 #### Status
 ACCEPTED

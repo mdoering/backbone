@@ -1,5 +1,4 @@
-Venturia furcata Fautrey SPECIES
-=======
+# Venturia furcata Fautrey SPECIES
 
 #### Status
 ACCEPTED

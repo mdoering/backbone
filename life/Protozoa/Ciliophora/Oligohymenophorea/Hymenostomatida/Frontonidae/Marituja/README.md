@@ -1,5 +1,4 @@
-Marituja Gajevskaia, 1928 GENUS
-=======
+# Marituja Gajevskaia, 1928 GENUS
 
 #### Status
 ACCEPTED

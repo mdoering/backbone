@@ -1,5 +1,4 @@
-Gyalorhethium rarispiniferum Xu Wanhong, 2001 SPECIES
-=======
+# Gyalorhethium rarispiniferum Xu Wanhong, 2001 SPECIES
 
 #### Status
 ACCEPTED

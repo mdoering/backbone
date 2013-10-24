@@ -1,5 +1,4 @@
-Vitreoscillaceae FAMILY
-=======
+# Vitreoscillaceae FAMILY
 
 #### Status
 ACCEPTED

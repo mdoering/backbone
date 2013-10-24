@@ -1,5 +1,4 @@
-Cryptosphaeria sepulta (Nitschke) Sacc. SPECIES
-=======
+# Cryptosphaeria sepulta (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

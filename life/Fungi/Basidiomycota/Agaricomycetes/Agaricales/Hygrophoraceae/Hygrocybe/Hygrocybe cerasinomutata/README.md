@@ -1,5 +1,4 @@
-Hygrocybe cerasinomutata A.M. Young SPECIES
-=======
+# Hygrocybe cerasinomutata A.M. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Merulius tremellosus var. tremellosus VARIETY
-=======
+# Merulius tremellosus Schrad., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Spicil. Fl. Germ. 1: 139 (1794)
 
 #### Original name
-Merulius tremellosus var. tremellosus
+Merulius tremellosus Schrad., 1794
 
 ### Remarks
 null

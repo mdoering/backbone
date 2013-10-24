@@ -1,5 +1,4 @@
-Leptosphaerulina coccispora (Norman) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaerulina coccispora (Norman) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

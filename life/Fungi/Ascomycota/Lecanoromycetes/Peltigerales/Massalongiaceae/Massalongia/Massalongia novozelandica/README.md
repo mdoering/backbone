@@ -1,5 +1,4 @@
-Massalongia novozelandica C.W. Dodge SPECIES
-=======
+# Massalongia novozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

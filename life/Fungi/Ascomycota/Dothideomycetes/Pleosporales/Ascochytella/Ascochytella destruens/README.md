@@ -1,5 +1,4 @@
-Ascochytella destruens (McAlpine) Tassi SPECIES
-=======
+# Ascochytella destruens (McAlpine) Tassi SPECIES
 
 #### Status
 ACCEPTED

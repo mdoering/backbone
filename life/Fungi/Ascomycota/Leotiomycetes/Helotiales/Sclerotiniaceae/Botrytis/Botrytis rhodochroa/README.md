@@ -1,5 +1,4 @@
-Botrytis rhodochroa (Link) Sacc. SPECIES
-=======
+# Botrytis rhodochroa (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

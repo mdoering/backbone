@@ -1,5 +1,4 @@
-Meliola callista Rehm SPECIES
-=======
+# Meliola callista Rehm SPECIES
 
 #### Status
 ACCEPTED

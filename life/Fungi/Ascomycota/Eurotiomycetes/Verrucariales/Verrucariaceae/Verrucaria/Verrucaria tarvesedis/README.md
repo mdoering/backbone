@@ -1,5 +1,4 @@
-Verrucaria tarvesedis (Anzi) Garov. SPECIES
-=======
+# Verrucaria tarvesedis (Anzi) Garov. SPECIES
 
 #### Status
 ACCEPTED

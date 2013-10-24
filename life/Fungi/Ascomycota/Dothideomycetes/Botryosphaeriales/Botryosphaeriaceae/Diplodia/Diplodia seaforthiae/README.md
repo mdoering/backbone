@@ -1,5 +1,4 @@
-Diplodia seaforthiae Henn. SPECIES
-=======
+# Diplodia seaforthiae Henn. SPECIES
 
 #### Status
 ACCEPTED

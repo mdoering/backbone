@@ -1,5 +1,4 @@
-Lobaria picta SPECIES
-=======
+# Lobaria picta SPECIES
 
 #### Status
 ACCEPTED

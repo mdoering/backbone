@@ -1,5 +1,4 @@
-Lithostromation deflandrei (Stradner, 1959) Perch-Nielsen, 1984 SPECIES
-=======
+# Lithostromation deflandrei (Stradner, 1959) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

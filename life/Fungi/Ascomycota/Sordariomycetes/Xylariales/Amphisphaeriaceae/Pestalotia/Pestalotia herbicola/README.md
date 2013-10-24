@@ -1,5 +1,4 @@
-Pestalotia herbicola Sacc. SPECIES
-=======
+# Pestalotia herbicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

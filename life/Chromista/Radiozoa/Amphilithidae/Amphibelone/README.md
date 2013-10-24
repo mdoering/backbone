@@ -1,5 +1,4 @@
-Amphibelone Haeckel, 1862 GENUS
-=======
+# Amphibelone Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterogloea endochloris (Pascher) Pascher SPECIES
-=======
+# Heterogloea endochloris (Pascher) Pascher SPECIES
 
 #### Status
 ACCEPTED

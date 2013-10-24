@@ -1,5 +1,4 @@
-Stilbocrea intermedia (Ferd. & Winge) Seaver SPECIES
-=======
+# Stilbocrea intermedia (Ferd. & Winge) Seaver SPECIES
 
 #### Status
 ACCEPTED

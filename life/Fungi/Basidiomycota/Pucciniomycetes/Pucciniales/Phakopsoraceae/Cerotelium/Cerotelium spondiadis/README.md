@@ -1,5 +1,4 @@
-Cerotelium spondiadis (Petch) Arthur SPECIES
-=======
+# Cerotelium spondiadis (Petch) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pocsia septemseptata Vezda SPECIES
-=======
+# Phylloblastia septemseptata (Vezda) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

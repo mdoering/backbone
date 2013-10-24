@@ -1,5 +1,4 @@
-Diatrype pythodes Berk. & Broome SPECIES
-=======
+# Diatrype pythodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

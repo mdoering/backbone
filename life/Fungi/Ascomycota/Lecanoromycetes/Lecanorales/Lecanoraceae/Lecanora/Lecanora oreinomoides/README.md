@@ -1,5 +1,4 @@
-Lecanora oreinomoides H. Magn. SPECIES
-=======
+# Lecanora oreinomoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

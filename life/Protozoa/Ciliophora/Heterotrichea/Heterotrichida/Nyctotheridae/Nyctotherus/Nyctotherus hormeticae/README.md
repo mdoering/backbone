@@ -1,5 +1,4 @@
-Nyctotherus hormeticae Carini, 1937 SPECIES
-=======
+# Nyctotherus hormeticae Carini, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis oblonga (Massenot) H. Zogg SPECIES
-=======
+# Urocystis oblonga (Massenot) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramaria pancaribbea var. zealandica R.H. Petersen VARIETY
-=======
+# Ramaria pancaribbea R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-DSIR Bulletin 236: 99 (1988)
+Biblthca Mycol. 79: 88 (1981)
 
 #### Original name
-Ramaria pancaribbea var. zealandica R.H. Petersen
+Ramaria pancaribbea R.H. Petersen, 1981
 
 ### Remarks
 null

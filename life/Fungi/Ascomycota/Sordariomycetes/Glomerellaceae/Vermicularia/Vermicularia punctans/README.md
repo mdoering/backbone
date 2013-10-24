@@ -1,5 +1,4 @@
-Vermicularia punctans Schwein. SPECIES
-=======
+# Vermicularia punctans Schwein. SPECIES
 
 #### Status
 ACCEPTED

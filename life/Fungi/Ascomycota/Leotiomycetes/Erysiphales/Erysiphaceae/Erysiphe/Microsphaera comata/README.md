@@ -1,5 +1,4 @@
-Microsphaera comata (Wallr.) Lév. SPECIES
-=======
+# Microsphaera comata (Wallr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

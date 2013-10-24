@@ -1,5 +1,4 @@
-Mycobacterium pyrenivorans Derz et al., 2004 SPECIES
-=======
+# Mycobacterium pyrenivorans Derz et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

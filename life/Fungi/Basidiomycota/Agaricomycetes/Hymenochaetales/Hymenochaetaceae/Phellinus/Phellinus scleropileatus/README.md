@@ -1,5 +1,4 @@
-Phellinus scleropileatus X.L. Zeng, 1987 SPECIES
-=======
+# Phellinus scleropileatus X.L. Zeng, 1987 SPECIES
 
 #### Status
 ACCEPTED

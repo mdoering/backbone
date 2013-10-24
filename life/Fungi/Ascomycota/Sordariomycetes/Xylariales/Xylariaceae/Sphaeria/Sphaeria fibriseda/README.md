@@ -1,5 +1,4 @@
-Sphaeria fibriseda Schwein. SPECIES
-=======
+# Sphaeria fibriseda Schwein. SPECIES
 
 #### Status
 ACCEPTED

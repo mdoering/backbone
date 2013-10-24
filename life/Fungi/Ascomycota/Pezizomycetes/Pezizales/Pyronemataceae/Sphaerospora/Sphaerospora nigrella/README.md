@@ -1,5 +1,4 @@
-Sphaerospora nigrella (Pers.) SPECIES
-=======
+# Sphaerospora nigrella (Pers.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laetinaevia bresadolae (Rehm) Petr. SPECIES
-=======
+# Laetinaevia bresadolae (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus tabulaeformis Berk. SPECIES
-=======
+# Polyporus tabulaeformis Berk. SPECIES
 
 #### Status
 ACCEPTED

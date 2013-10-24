@@ -1,5 +1,4 @@
-Parmelia servitiana Gyeln. SPECIES
-=======
+# Parmelia servitiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia collybioides Henn. SPECIES
-=======
+# Omphalia collybioides Henn. SPECIES
 
 #### Status
 ACCEPTED

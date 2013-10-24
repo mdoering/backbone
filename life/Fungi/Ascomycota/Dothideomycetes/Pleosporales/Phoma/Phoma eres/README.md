@@ -1,5 +1,4 @@
-Phoma eres Sacc. SPECIES
-=======
+# Phoma eres Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella pseudofulvescens A.H. Sm. SPECIES
-=======
+# Psathyrella pseudofulvescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

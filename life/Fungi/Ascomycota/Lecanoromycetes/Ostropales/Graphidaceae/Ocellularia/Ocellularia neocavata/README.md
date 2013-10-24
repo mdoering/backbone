@@ -1,5 +1,4 @@
-Ocellularia neocavata Hale SPECIES
-=======
+# Ocellularia neocavata Hale SPECIES
 
 #### Status
 ACCEPTED

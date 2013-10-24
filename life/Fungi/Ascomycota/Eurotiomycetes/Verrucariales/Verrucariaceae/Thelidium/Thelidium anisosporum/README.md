@@ -1,5 +1,4 @@
-Thelidium anisosporum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Thelidium anisosporum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

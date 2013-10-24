@@ -1,5 +1,4 @@
-Aecidium celmisiae-discoloris G. Cunn., 1924 SPECIES
-=======
+# Aecidium celmisiae-discoloris G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

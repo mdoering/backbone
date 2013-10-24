@@ -1,5 +1,4 @@
-Aecidium chrysophaeum Syd. SPECIES
-=======
+# Aecidium chrysophaeum Syd. SPECIES
 
 #### Status
 ACCEPTED

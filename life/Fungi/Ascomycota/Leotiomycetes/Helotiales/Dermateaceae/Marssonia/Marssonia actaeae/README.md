@@ -1,5 +1,4 @@
-Marssonia actaeae Bres. SPECIES
-=======
+# Marssonia actaeae Bres. SPECIES
 
 #### Status
 ACCEPTED

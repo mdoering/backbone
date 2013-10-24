@@ -1,5 +1,4 @@
-Porina mahuana C.W. Dodge SPECIES
-=======
+# Porina mahuana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

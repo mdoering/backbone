@@ -1,5 +1,4 @@
-Dermatocarpon ruiz-lealii Räsänen SPECIES
-=======
+# Dermatocarpon ruiz-lealii Räsänen SPECIES
 
 #### Status
 ACCEPTED

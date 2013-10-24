@@ -1,5 +1,4 @@
-Isabelidinium acuminatum (Cookson & Eisenack, 1958) Stover & Evitt, 1978 SPECIES
-=======
+# Isabelidinium acuminatum (Cookson & Eisenack, 1958) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

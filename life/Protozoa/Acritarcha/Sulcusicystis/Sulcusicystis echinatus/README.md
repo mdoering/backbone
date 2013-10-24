@@ -1,5 +1,4 @@
-Sulcusicystis echinatus Bai Yunhong in Bai Yunhong et al., 1983 SPECIES
-=======
+# Sulcusicystis echinatus Bai Yunhong in Bai Yunhong et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

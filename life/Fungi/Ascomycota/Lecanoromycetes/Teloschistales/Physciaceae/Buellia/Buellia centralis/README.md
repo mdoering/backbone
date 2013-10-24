@@ -1,5 +1,4 @@
-Buellia centralis H. Magn. SPECIES
-=======
+# Buellia centralis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

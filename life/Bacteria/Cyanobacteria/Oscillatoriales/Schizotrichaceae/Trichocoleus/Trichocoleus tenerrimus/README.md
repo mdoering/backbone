@@ -1,5 +1,4 @@
-Trichocoleus tenerrimus (Gomont) Anagnostidis, 2001 SPECIES
-=======
+# Trichocoleus tenerrimus (Gomont) Anagnostidis, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neosphaeropsis polonica Petr. SPECIES
-=======
+# Neosphaeropsis polonica Petr. SPECIES
 
 #### Status
 ACCEPTED

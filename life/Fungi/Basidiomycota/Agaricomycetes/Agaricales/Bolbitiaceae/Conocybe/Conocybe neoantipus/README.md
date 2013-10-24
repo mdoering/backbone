@@ -1,17 +1,16 @@
-Conocybe neoantipus var. tucumana Singer & Hauskn. VARIETY
-=======
+# Conocybe neoantipus (G.F. Atk.) Singer, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Syst. Evol. 159(1-2): 115 (1988)
+Annls mycol. 34: 433 (1936)
 
 #### Original name
-Conocybe neoantipus var. tucumana Singer & Hauskn.
+Galerula neoantipus G.F. Atk., 1918
 
 ### Remarks
 null

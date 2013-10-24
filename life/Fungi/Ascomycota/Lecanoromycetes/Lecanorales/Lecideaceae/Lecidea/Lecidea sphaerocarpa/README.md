@@ -1,5 +1,4 @@
-Lecidea sphaerocarpa Bagl. & Carestia SPECIES
-=======
+# Lecidea sphaerocarpa Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

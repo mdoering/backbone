@@ -1,5 +1,4 @@
-Candelariopsis pruinosa (Körb.) Szatala SPECIES
-=======
+# Candelariopsis pruinosa (Körb.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria maingayana Müll. Arg. SPECIES
-=======
+# Patellaria maingayana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

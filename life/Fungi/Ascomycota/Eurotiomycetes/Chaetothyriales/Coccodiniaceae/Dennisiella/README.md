@@ -1,5 +1,4 @@
-Dennisiella Bat. & Cif. GENUS
-=======
+# Dennisiella Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

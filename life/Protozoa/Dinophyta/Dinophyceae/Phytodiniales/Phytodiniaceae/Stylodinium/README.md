@@ -1,14 +1,13 @@
-Glenobacadinium Baumeister in Popovsky & Pfiester, 1990 GENUS
-=======
+# Stylodinium Klebs, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. Naturh. -med. Ver. Heidelberg, (N. S. ) 11, 410, 445.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Desetangsia epilobii (Wallr.) Nieuwl. SPECIES
-=======
+# Desetangsia epilobii (Wallr.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

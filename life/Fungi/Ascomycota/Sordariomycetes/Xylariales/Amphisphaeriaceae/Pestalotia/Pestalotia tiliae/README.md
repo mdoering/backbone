@@ -1,5 +1,4 @@
-Pestalotia tiliae Guba SPECIES
-=======
+# Pestalotia tiliae Guba SPECIES
 
 #### Status
 ACCEPTED

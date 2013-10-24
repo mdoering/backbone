@@ -1,5 +1,4 @@
-Coniothyrium hortense Sacc. & Malbr. SPECIES
-=======
+# Coniothyrium hortense Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

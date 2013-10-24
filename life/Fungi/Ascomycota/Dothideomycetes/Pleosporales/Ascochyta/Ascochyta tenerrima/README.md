@@ -1,17 +1,16 @@
-Phyllosticta vulgaris f. vulgaris FORM
-=======
+# Ascochyta tenerrima Sacc. & Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 622 (1882)
 
 #### Original name
-Phyllosticta vulgaris f. vulgaris
+Ascochyta tenerrima Sacc. & Roum., 1882
 
 ### Remarks
 null

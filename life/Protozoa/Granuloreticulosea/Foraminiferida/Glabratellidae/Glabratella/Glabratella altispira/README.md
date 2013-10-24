@@ -1,5 +1,4 @@
-Glabratella altispira SPECIES
-=======
+# Glabratella altispira SPECIES
 
 #### Status
 ACCEPTED

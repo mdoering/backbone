@@ -1,5 +1,4 @@
-Acarospora depressa H. Magn. SPECIES
-=======
+# Acarospora depressa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

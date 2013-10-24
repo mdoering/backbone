@@ -1,5 +1,4 @@
-Phoma hispalensis Bubák & Gonz. Frag. SPECIES
-=======
+# Phoma hispalensis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

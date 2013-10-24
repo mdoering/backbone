@@ -1,5 +1,4 @@
-Hypholoma madeodiscum (Peck) Sacc. SPECIES
-=======
+# Hypholoma madeodiscum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alliatinella panayensis (McCulloch, 1977) SPECIES
-=======
+# Alliatinella panayensis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

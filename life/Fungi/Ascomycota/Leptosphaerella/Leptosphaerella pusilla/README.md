@@ -1,5 +1,4 @@
-Leptosphaerella pusilla Speg. SPECIES
-=======
+# Leptosphaerella pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

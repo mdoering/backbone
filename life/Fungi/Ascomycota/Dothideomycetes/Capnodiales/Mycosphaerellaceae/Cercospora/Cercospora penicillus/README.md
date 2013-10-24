@@ -1,5 +1,4 @@
-Cercospora penicillus Ellis & Everh. SPECIES
-=======
+# Cercospora penicillus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

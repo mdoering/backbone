@@ -1,5 +1,4 @@
-Aspicilia lacanosa Mereschk. SPECIES
-=======
+# Aspicilia lacanosa Mereschk. SPECIES
 
 #### Status
 ACCEPTED

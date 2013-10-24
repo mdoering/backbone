@@ -1,5 +1,4 @@
-Phomopsis sclerotioides Kesteren, 1967 SPECIES
-=======
+# Phomopsis sclerotioides Kesteren, 1967 SPECIES
 
 #### Status
 ACCEPTED

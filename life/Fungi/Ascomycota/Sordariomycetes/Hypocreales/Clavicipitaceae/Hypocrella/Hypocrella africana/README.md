@@ -1,5 +1,4 @@
-Hypocrella africana Hywel-Jones & Samuels SPECIES
-=======
+# Hypocrella africana Hywel-Jones & Samuels SPECIES
 
 #### Status
 ACCEPTED

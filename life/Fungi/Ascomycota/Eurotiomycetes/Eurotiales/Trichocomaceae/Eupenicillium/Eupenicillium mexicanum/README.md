@@ -1,5 +1,4 @@
-Eupenicillium mexicanum Paden SPECIES
-=======
+# Eupenicillium mexicanum Paden SPECIES
 
 #### Status
 ACCEPTED

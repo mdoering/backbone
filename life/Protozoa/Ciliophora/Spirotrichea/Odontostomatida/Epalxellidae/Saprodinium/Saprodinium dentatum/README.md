@@ -1,8 +1,7 @@
-Discomorpha dentata Lauterborn, 1901 SPECIES
-=======
+# Saprodinium dentatum (Lauterborn, 1901) Lauterborn, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

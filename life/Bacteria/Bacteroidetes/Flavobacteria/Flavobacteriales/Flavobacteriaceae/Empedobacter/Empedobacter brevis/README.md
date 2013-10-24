@@ -1,11 +1,10 @@
-Flavobacterium brevis (Lustig, 1890) Bergey et al., 1923 SPECIES
-=======
+# Empedobacter brevis (Holmes & Owen, 1982) Vandamme et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

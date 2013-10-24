@@ -1,14 +1,13 @@
-Vermiculariopsiella ludoviciana (J.L. Crane & Schokn.) R.F. Castañeda, Cano & Guarro, 1997 SPECIES
-=======
+# Menisporopsis ludoviciana (J.L. Crane & Schokn.) P.M. Kirk & B. Sutton, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 64: 338 (1997)
+Trans. Br. mycol. Soc. 85(4): 717 (1986)
 
 #### Original name
 Chaetopsina ludoviciana J.L. Crane & Schokn., 1982

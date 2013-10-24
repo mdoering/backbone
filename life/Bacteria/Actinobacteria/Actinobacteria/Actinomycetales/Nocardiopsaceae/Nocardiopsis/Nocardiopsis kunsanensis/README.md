@@ -1,5 +1,4 @@
-Nocardiopsis kunsanensis Chun et al., 2000 SPECIES
-=======
+# Nocardiopsis kunsanensis Chun et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

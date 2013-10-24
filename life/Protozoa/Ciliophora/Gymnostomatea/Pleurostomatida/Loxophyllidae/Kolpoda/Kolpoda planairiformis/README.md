@@ -1,5 +1,4 @@
-Kolpoda planairiformis Bory, 1824 SPECIES
-=======
+# Kolpoda planairiformis Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

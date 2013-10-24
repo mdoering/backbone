@@ -1,5 +1,4 @@
-Mallomonas urnaformis Precott SPECIES
-=======
+# Mallomonas urnaformis Precott SPECIES
 
 #### Status
 ACCEPTED

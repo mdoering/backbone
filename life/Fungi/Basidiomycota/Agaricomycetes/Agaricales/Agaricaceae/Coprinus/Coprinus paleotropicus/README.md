@@ -1,5 +1,4 @@
-Coprinus paleotropicus Redhead & Pegler SPECIES
-=======
+# Coprinus paleotropicus Redhead & Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia leptospora Zahlbr. SPECIES
-=======
+# Ocellularia leptospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

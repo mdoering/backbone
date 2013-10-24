@@ -1,5 +1,4 @@
-Vestergrenia daphniphylli T. Kobay. {?} SPECIES
-=======
+# Vestergrenia daphniphylli T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

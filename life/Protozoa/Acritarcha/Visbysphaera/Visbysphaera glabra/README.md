@@ -1,5 +1,4 @@
-Visbysphaera glabra Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Visbysphaera glabra Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

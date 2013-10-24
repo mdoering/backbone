@@ -1,5 +1,4 @@
-Rhizoclosmatium hyalinum Karling, 1968 SPECIES
-=======
+# Rhizoclosmatium hyalinum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

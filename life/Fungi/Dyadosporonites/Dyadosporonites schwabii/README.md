@@ -1,5 +1,4 @@
-Dyadosporonites schwabii Elsik SPECIES
-=======
+# Dyadosporonites schwabii Elsik SPECIES
 
 #### Status
 ACCEPTED

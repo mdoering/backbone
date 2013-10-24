@@ -1,5 +1,4 @@
-Irpex fomentarius Mont. SPECIES
-=======
+# Irpex fomentarius Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus blanditus Corner SPECIES
-=======
+# Boletus blanditus Corner SPECIES
 
 #### Status
 ACCEPTED

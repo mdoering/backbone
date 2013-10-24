@@ -1,5 +1,4 @@
-Aeromonas culicicola Pidiyar et al., 2002 SPECIES
-=======
+# Aeromonas culicicola Pidiyar et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

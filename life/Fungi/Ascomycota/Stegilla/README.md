@@ -1,5 +1,4 @@
-Stegilla Rchb. GENUS
-=======
+# Stegilla Rchb. GENUS
 
 #### Status
 ACCEPTED

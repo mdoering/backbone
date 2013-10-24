@@ -1,5 +1,4 @@
-Ustilago davisii Liro, 1924 SPECIES
-=======
+# Ustilago davisii Liro, 1924 SPECIES
 
 #### Status
 ACCEPTED

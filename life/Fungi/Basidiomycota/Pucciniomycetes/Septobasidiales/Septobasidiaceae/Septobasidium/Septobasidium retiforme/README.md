@@ -1,5 +1,4 @@
-Septobasidium retiforme (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Septobasidium retiforme (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

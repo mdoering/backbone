@@ -1,5 +1,4 @@
-Cyathus granulifer Nees SPECIES
-=======
+# Cyathus granulifer Nees SPECIES
 
 #### Status
 ACCEPTED

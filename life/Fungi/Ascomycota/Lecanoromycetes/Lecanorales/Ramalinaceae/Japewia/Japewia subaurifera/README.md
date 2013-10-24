@@ -1,5 +1,4 @@
-Japewia subaurifera Muhr & Tønsberg SPECIES
-=======
+# Japewia subaurifera Muhr & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

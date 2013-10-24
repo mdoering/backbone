@@ -1,5 +1,4 @@
-Blastenia subferruginea (Nyl.) Müll. Arg. SPECIES
-=======
+# Blastenia subferruginea (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus similis Lloyd SPECIES
-=======
+# Polystictus similis Lloyd SPECIES
 
 #### Status
 ACCEPTED

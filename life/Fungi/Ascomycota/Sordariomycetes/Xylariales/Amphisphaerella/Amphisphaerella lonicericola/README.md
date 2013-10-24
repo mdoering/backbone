@@ -1,5 +1,4 @@
-Amphisphaerella lonicericola (Z.Q. Yuan & Z.Y. Zhao) Lar.N. Vassiljeva SPECIES
-=======
+# Amphisphaerella lonicericola (Z.Q. Yuan & Z.Y. Zhao) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

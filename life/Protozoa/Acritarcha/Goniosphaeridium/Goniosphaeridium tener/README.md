@@ -1,5 +1,4 @@
-Goniosphaeridium tener Timofeev, 1959 ex Elaouad-Debbaj, 1988 SPECIES
-=======
+# Goniosphaeridium tener Timofeev, 1959 ex Elaouad-Debbaj, 1988 SPECIES
 
 #### Status
 ACCEPTED

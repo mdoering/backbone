@@ -1,5 +1,4 @@
-Euplotidium prosaltans Tuffrau, 1985 SPECIES
-=======
+# Euplotidium prosaltans Tuffrau, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora laricis Wehm. SPECIES
-=======
+# Physalospora laricis Wehm. SPECIES
 
 #### Status
 ACCEPTED

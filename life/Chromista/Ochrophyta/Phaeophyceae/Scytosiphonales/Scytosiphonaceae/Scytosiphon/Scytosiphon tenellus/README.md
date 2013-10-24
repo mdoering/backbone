@@ -1,5 +1,4 @@
-Scytosiphon tenellus Kogame SPECIES
-=======
+# Scytosiphon tenellus Kogame SPECIES
 
 #### Status
 ACCEPTED

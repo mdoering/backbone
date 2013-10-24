@@ -1,5 +1,4 @@
-Hydrometrospora symmetrica J. Gönczöl & Révay, 1985 SPECIES
-=======
+# Hydrometrospora symmetrica J. Gönczöl & Révay, 1985 SPECIES
 
 #### Status
 ACCEPTED

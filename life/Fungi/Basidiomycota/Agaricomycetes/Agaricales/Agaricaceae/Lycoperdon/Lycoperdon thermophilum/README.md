@@ -1,5 +1,4 @@
-Lycoperdon thermophilum Velen. SPECIES
-=======
+# Lycoperdon thermophilum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus terrestris var. terrestris VARIETY
-=======
+# Aspergillus terrestris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspergillus terrestris var. terrestris
+Aspergillus terrestris
 
 ### Remarks
 null

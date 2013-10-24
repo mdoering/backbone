@@ -1,5 +1,4 @@
-Trichopeziza vitricolor (Berk. & Broome) Sacc. SPECIES
-=======
+# Trichopeziza vitricolor (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

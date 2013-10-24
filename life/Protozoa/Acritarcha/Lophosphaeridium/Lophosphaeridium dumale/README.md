@@ -1,5 +1,4 @@
-Lophosphaeridium dumale Playford, 1977 SPECIES
-=======
+# Lophosphaeridium dumale Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia myricae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia myricae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

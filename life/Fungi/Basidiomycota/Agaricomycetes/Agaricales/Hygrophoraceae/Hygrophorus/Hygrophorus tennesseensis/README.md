@@ -1,5 +1,4 @@
-Hygrophorus tennesseensis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus tennesseensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

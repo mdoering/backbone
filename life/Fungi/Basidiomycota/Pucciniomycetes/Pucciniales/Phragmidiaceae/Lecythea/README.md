@@ -1,5 +1,4 @@
-Lecythea GENUS
-=======
+# Lecythea GENUS
 
 #### Status
 ACCEPTED

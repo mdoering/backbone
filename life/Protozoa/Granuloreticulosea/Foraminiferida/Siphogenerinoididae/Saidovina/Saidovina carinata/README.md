@@ -1,8 +1,7 @@
-Bolivina karreriana var. carinata Millett, 1900 VARIETY
-=======
+# Saidovina carinata (Millett, 1900) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

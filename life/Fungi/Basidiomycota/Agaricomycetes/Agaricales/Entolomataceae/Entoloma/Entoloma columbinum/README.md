@@ -1,5 +1,4 @@
-Entoloma columbinum Corner & E. Horak SPECIES
-=======
+# Entoloma columbinum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta rigidula Delise SPECIES
-=======
+# Sticta rigidula Delise SPECIES
 
 #### Status
 ACCEPTED

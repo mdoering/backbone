@@ -1,5 +1,4 @@
-Pyrenula shirleyana (Müll. Arg.) Aptroot SPECIES
-=======
+# Pyrenula shirleyana (Müll. Arg.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

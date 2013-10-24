@@ -1,5 +1,4 @@
-Stilbospora ceratospora De Not. SPECIES
-=======
+# Stilbospora ceratospora De Not. SPECIES
 
 #### Status
 ACCEPTED

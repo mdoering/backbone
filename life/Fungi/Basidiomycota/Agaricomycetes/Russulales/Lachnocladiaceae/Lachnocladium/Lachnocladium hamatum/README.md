@@ -1,5 +1,4 @@
-Lachnocladium hamatum Henn. SPECIES
-=======
+# Lachnocladium hamatum Henn. SPECIES
 
 #### Status
 ACCEPTED

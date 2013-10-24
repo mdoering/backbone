@@ -1,5 +1,4 @@
-Exobasidium javanicum Racib. SPECIES
-=======
+# Exobasidium javanicum Racib. SPECIES
 
 #### Status
 ACCEPTED

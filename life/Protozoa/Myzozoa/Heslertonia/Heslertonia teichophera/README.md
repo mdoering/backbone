@@ -1,5 +1,4 @@
-Heslertonia teichophera (Sarjeant, 1961) Sarjeant, 1976 SPECIES
-=======
+# Heslertonia teichophera (Sarjeant, 1961) Sarjeant, 1976 SPECIES
 
 #### Status
 ACCEPTED

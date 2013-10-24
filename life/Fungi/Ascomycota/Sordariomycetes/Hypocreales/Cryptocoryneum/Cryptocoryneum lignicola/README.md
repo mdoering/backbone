@@ -1,5 +1,4 @@
-Cryptocoryneum lignicola Prostak. & Marzina SPECIES
-=======
+# Cryptocoryneum lignicola Prostak. & Marzina SPECIES
 
 #### Status
 ACCEPTED

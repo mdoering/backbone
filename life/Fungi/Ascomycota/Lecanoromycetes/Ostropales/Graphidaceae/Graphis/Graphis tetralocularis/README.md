@@ -1,5 +1,4 @@
-Graphis tetralocularis C. Bock & M. Hauck SPECIES
-=======
+# Graphis tetralocularis C. Bock & M. Hauck SPECIES
 
 #### Status
 ACCEPTED

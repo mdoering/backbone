@@ -1,5 +1,4 @@
-Typhula subfasciculata Ellis & Everh. SPECIES
-=======
+# Typhula subfasciculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

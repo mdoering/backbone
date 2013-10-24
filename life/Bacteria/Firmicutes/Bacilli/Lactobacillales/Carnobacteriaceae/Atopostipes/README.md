@@ -1,5 +1,4 @@
-Atopostipes Cotta, Whitehead, Collins & Lawson, 2004 GENUS
-=======
+# Atopostipes Cotta, Whitehead, Collins & Lawson, 2004 GENUS
 
 #### Status
 ACCEPTED

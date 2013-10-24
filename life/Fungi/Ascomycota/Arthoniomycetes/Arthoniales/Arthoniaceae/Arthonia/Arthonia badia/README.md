@@ -1,5 +1,4 @@
-Arthonia badia Wedin & Hafellner SPECIES
-=======
+# Arthonia badia Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

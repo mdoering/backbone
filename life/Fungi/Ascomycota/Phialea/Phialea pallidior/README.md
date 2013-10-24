@@ -1,5 +1,4 @@
-Phialea pallidior Sacc. SPECIES
-=======
+# Phialea pallidior Sacc. SPECIES
 
 #### Status
 ACCEPTED

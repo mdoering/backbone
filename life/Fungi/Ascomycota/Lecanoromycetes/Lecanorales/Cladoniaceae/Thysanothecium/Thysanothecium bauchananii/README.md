@@ -1,5 +1,4 @@
-Thysanothecium bauchananii C. Knight SPECIES
-=======
+# Thysanothecium bauchananii C. Knight SPECIES
 
 #### Status
 ACCEPTED

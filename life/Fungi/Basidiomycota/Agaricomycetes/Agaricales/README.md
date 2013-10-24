@@ -1,5 +1,4 @@
-Agaricales Underw. ORDER
-=======
+# Agaricales Underw. ORDER
 
 #### Status
 ACCEPTED

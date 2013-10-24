@@ -1,5 +1,4 @@
-Hypocrea incarnata Pat. & Har. SPECIES
-=======
+# Hypocrea incarnata Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

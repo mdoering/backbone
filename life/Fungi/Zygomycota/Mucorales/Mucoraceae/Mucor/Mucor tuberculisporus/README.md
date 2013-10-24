@@ -1,17 +1,16 @@
-Mucor heterosporus var. heterosporus VARIETY
-=======
+# Mucor tuberculisporus Schipper, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(4): 199 (1892)
+Stud. Mycol. 17: 23 (1978)
 
 #### Original name
-Mucor heterosporus var. heterosporus
+Mucor tuberculisporus Schipper, 1978
 
 ### Remarks
 null

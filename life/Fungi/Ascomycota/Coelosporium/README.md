@@ -1,5 +1,4 @@
-Coelosporium Link GENUS
-=======
+# Coelosporium Link GENUS
 
 #### Status
 ACCEPTED

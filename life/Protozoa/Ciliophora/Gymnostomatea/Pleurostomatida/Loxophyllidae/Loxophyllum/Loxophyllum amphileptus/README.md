@@ -1,5 +1,4 @@
-Loxophyllum amphileptus SPECIES
-=======
+# Loxophyllum amphileptus SPECIES
 
 #### Status
 ACCEPTED

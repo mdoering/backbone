@@ -1,5 +1,4 @@
-Sagittaria australis Pomp & Wilbert, 1988 SPECIES
-=======
+# Sagittaria australis Pomp & Wilbert, 1988 SPECIES
 
 #### Status
 ACCEPTED

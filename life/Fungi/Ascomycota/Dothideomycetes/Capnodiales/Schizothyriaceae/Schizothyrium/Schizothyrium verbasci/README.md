@@ -1,5 +1,4 @@
-Schizothyrium verbasci (Schwein.) Sacc. SPECIES
-=======
+# Schizothyrium verbasci (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

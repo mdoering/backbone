@@ -1,5 +1,4 @@
-Fragilaria venter Ehrenberg SPECIES
-=======
+# Fragilaria venter Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe oreades Murrill SPECIES
-=======
+# Clitocybe oreades Murrill SPECIES
 
 #### Status
 ACCEPTED

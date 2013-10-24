@@ -1,5 +1,4 @@
-Phyllosticta hesleri Dearn. SPECIES
-=======
+# Phyllosticta hesleri Dearn. SPECIES
 
 #### Status
 ACCEPTED

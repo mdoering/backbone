@@ -1,5 +1,4 @@
-Pseudomeliola rolliniae Rehm SPECIES
-=======
+# Pseudomeliola rolliniae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypha bombycina Pers. SPECIES
-=======
+# Hypha bombycina Pers. SPECIES
 
 #### Status
 ACCEPTED

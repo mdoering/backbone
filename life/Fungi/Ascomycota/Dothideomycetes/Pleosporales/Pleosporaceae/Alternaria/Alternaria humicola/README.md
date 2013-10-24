@@ -1,5 +1,4 @@
-Alternaria humicola var. humicola VARIETY
-=======
+# Alternaria humicola Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Arch. Néerlandaises des Sc. exacts et nat. 7: 292 (1902)
 
 #### Original name
-Alternaria humicola var. humicola
+Alternaria humicola Oudem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thaptospora atrobrunnea B. Sutton & Pascoe, 1987 SPECIES
-=======
+# Thaptospora atrobrunnea B. Sutton & Pascoe, 1987 SPECIES
 
 #### Status
 ACCEPTED

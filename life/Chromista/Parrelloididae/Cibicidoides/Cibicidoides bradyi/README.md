@@ -1,8 +1,7 @@
-Truncatulina bradyi Trauth, 1918 SPECIES
-=======
+# Cibicidoides bradyi (Trauth, 1918) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

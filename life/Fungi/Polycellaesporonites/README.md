@@ -1,5 +1,4 @@
-Polycellaesporonites A. Chandra, R.K. Saxena & Setty GENUS
-=======
+# Polycellaesporonites A. Chandra, R.K. Saxena & Setty GENUS
 
 #### Status
 ACCEPTED

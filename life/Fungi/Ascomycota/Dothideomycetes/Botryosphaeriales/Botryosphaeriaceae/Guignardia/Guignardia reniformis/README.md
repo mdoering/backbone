@@ -1,5 +1,4 @@
-Guignardia reniformis Prill. & Delacr. SPECIES
-=======
+# Guignardia reniformis Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

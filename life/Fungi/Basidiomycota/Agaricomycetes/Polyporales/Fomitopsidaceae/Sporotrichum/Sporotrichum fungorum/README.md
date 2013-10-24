@@ -1,5 +1,4 @@
-Sporotrichum fungorum Link SPECIES
-=======
+# Sporotrichum fungorum Link SPECIES
 
 #### Status
 ACCEPTED

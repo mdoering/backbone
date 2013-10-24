@@ -1,5 +1,4 @@
-Prospodium araguatum F. Kern & Thurst. SPECIES
-=======
+# Prospodium araguatum F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

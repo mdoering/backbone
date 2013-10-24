@@ -1,5 +1,4 @@
-Coniothyrinula ucrainica Petr. SPECIES
-=======
+# Coniothyrinula ucrainica Petr. SPECIES
 
 #### Status
 ACCEPTED

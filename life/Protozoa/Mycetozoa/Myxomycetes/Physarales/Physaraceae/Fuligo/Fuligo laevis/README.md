@@ -1,8 +1,7 @@
-Fuligo septica laevis (Pers.) R.E. Fr., 1912 INFRASPECIFIC_NAME
-=======
+# Fuligo laevis Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

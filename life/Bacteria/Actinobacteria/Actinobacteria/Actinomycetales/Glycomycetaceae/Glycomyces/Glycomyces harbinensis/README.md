@@ -1,5 +1,4 @@
-Glycomyces harbinensis Labeda et al., 1985 SPECIES
-=======
+# Glycomyces harbinensis Labeda et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

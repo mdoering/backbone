@@ -1,17 +1,16 @@
-Endococcus haplosporus Th. Fr. & Almq., 1867 SPECIES
-=======
+# Rosellinula haplospora (Th. Fr. & Almq.) R. Sant., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Eriksson & Hawksworth, Syst. Ascom. 5(2): 311 (1986)
 
 #### Original name
-null
+Endococcus haplospora Th. Fr. & Almq.
 
 ### Remarks
 null

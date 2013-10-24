@@ -1,5 +1,4 @@
-Chaetosphaeria pulchriseta S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
-=======
+# Chaetosphaeria pulchriseta S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
 
 #### Status
 ACCEPTED

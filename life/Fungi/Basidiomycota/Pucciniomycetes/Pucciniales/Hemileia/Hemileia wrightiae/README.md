@@ -1,5 +1,4 @@
-Hemileia wrightiae (Racib.) Racib. SPECIES
-=======
+# Hemileia wrightiae (Racib.) Racib. SPECIES
 
 #### Status
 ACCEPTED

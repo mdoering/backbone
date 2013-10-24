@@ -1,5 +1,4 @@
-Flammula brunneodisca Peck SPECIES
-=======
+# Flammula brunneodisca Peck SPECIES
 
 #### Status
 ACCEPTED

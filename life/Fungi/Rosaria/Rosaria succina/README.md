@@ -1,5 +1,4 @@
-Rosaria succina Dörfelt, A.R. Schmidt & J. Wunderl. SPECIES
-=======
+# Rosaria succina Dörfelt, A.R. Schmidt & J. Wunderl. SPECIES
 
 #### Status
 ACCEPTED

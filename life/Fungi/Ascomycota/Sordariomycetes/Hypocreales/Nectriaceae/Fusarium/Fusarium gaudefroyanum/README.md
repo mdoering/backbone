@@ -1,5 +1,4 @@
-Fusarium gaudefroyanum Sacc. SPECIES
-=======
+# Fusarium gaudefroyanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta leucosticta C. Massal. SPECIES
-=======
+# Phyllosticta leucosticta C. Massal. SPECIES
 
 #### Status
 ACCEPTED

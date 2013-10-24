@@ -1,5 +1,4 @@
-Hydrocoleum homoetrichum Kuetzing Ex Gomont, 1892 SPECIES
-=======
+# Hydrocoleum homoetrichum Kuetzing Ex Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

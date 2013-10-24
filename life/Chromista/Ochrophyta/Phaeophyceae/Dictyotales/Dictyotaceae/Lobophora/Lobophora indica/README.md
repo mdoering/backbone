@@ -1,5 +1,4 @@
-Lobophora indica V. Krishnamurthy & M. Baluswami SPECIES
-=======
+# Lobophora indica V. Krishnamurthy & M. Baluswami SPECIES
 
 #### Status
 ACCEPTED

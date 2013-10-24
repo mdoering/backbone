@@ -1,5 +1,4 @@
-Ceratocystis torticiliata Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis torticiliata Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

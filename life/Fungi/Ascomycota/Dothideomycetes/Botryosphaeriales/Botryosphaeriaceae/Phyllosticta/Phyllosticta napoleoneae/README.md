@@ -1,5 +1,4 @@
-Phyllosticta napoleoneae Thüm. SPECIES
-=======
+# Phyllosticta napoleoneae Thüm. SPECIES
 
 #### Status
 ACCEPTED

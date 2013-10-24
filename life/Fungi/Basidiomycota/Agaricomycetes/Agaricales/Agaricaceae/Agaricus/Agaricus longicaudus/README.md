@@ -1,5 +1,4 @@
-Agaricus longicaudus var. longicaudus Pers. VARIETY
-=======
+# Agaricus longicaudus Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 332 (1801)
 
 #### Original name
-Agaricus longicaudus var. longicaudus Pers.
+Agaricus longicaudus Schumach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gambierdiscus Adachi & Fukuyo, 1979 GENUS
-=======
+# Gambierdiscus Adachi & Fukuyo, 1979 GENUS
 
 #### Status
 ACCEPTED

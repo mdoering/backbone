@@ -1,5 +1,4 @@
-Lindauella Rehm GENUS
-=======
+# Lindauella Rehm GENUS
 
 #### Status
 ACCEPTED

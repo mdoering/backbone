@@ -1,5 +1,4 @@
-Stereocaulon vimineum Th. Fr. SPECIES
-=======
+# Stereocaulon vimineum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

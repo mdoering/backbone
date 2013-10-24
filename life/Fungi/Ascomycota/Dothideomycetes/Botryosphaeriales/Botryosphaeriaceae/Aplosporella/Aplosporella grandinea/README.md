@@ -1,5 +1,4 @@
-Aplosporella grandinea Ellis & Everh. SPECIES
-=======
+# Aplosporella grandinea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

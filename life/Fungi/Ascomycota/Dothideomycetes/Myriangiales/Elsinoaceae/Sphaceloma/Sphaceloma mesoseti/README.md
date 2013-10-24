@@ -1,5 +1,4 @@
-Sphaceloma mesoseti Zundel SPECIES
-=======
+# Sphaceloma mesoseti Zundel SPECIES
 
 #### Status
 ACCEPTED

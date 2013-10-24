@@ -1,5 +1,4 @@
-Squamaria concolor (Ramond) Nyl. SPECIES
-=======
+# Squamaria concolor (Ramond) Nyl. SPECIES
 
 #### Status
 ACCEPTED

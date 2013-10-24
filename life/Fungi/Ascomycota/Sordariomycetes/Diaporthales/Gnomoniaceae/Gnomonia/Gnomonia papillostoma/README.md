@@ -1,5 +1,4 @@
-Gnomonia papillostoma Dearn. & House SPECIES
-=======
+# Gnomonia papillostoma Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

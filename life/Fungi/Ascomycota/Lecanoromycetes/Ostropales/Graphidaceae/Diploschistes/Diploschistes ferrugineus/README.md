@@ -1,5 +1,4 @@
-Diploschistes ferrugineus (Harm.) Zahlbr. SPECIES
-=======
+# Diploschistes ferrugineus (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

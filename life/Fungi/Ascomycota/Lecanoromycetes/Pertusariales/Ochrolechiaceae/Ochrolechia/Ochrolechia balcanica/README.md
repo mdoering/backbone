@@ -1,5 +1,4 @@
-Ochrolechia balcanica Verseghy SPECIES
-=======
+# Ochrolechia balcanica Verseghy SPECIES
 
 #### Status
 ACCEPTED

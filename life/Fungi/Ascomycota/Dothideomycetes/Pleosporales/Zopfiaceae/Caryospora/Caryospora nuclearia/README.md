@@ -1,5 +1,4 @@
-Caryospora nuclearia (De Not.) Thüm. SPECIES
-=======
+# Caryospora nuclearia (De Not.) Thüm. SPECIES
 
 #### Status
 ACCEPTED

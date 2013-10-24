@@ -1,5 +1,4 @@
-Calicium peraffine Speg. SPECIES
-=======
+# Calicium peraffine Speg. SPECIES
 
 #### Status
 ACCEPTED

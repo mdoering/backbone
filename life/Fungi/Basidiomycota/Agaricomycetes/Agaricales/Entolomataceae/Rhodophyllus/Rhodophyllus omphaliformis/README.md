@@ -1,5 +1,4 @@
-Rhodophyllus omphaliformis Romagn. SPECIES
-=======
+# Rhodophyllus omphaliformis Romagn. SPECIES
 
 #### Status
 ACCEPTED

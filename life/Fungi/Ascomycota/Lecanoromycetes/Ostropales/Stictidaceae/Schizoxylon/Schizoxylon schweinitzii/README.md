@@ -1,5 +1,4 @@
-Schizoxylon schweinitzii Sherwood SPECIES
-=======
+# Schizoxylon schweinitzii Sherwood SPECIES
 
 #### Status
 ACCEPTED

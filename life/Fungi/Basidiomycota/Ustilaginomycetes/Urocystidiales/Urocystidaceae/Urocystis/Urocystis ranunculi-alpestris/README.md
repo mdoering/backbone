@@ -1,5 +1,4 @@
-Urocystis ranunculi-alpestris Hruby SPECIES
-=======
+# Urocystis ranunculi-alpestris Hruby SPECIES
 
 #### Status
 ACCEPTED

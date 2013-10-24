@@ -1,17 +1,16 @@
-Coelomomyces azerbajdzanicus E.S. Kuprian. & Koval SPECIES
-=======
+# Coelomomyces azerbaijanicus E.S. Kuprian. & Koval SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Koval' & Kupriyanova, Mikol. Fitopatol. 20(2): 99 (1986)
 
 #### Original name
-Coelomomyces azerbajdzanicus E.S. Kuprian. & Koval
+Coelomomyces azerbaijanicus E.S. Kuprian. & Koval
 
 ### Remarks
 null

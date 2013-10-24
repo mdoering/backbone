@@ -1,5 +1,4 @@
-Dothiorella hawaiensis Petr. SPECIES
-=======
+# Dothiorella hawaiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

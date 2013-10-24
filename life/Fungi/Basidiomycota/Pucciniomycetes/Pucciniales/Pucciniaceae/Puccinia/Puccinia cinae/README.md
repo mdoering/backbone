@@ -1,5 +1,4 @@
-Puccinia cinae Tranzschel & Kuprev. SPECIES
-=======
+# Puccinia cinae Tranzschel & Kuprev. SPECIES
 
 #### Status
 ACCEPTED

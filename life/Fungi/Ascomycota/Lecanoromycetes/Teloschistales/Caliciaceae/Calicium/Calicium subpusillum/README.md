@@ -1,5 +1,4 @@
-Calicium subpusillum f. subpusillum FORM
-=======
+# Calicium subpusillum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 57(1): 50 (1927)
+null
 
 #### Original name
-Calicium subpusillum f. subpusillum
+null
 
 ### Remarks
 null

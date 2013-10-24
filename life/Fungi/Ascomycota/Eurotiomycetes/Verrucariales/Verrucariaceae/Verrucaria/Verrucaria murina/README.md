@@ -1,17 +1,16 @@
-Verrucaria murina f. murina FORM
-=======
+# Verrucaria murina Leight. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brit. Sp. Ang. Lich. 59 (1851)
 
 #### Original name
-Verrucaria murina f. murina
+Verrucaria murina Leight.
 
 ### Remarks
 null

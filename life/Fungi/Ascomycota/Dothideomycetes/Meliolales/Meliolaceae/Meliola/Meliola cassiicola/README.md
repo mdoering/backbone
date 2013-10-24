@@ -1,5 +1,4 @@
-Meliola cassiicola Hansf. SPECIES
-=======
+# Meliola cassiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

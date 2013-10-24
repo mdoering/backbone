@@ -1,5 +1,4 @@
-Sphacelotheca andropteri Zambett. SPECIES
-=======
+# Sphacelotheca andropteri Zambett. SPECIES
 
 #### Status
 ACCEPTED

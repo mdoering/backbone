@@ -1,5 +1,4 @@
-Trichodina synaptae SPECIES
-=======
+# Trichodina synaptae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascochyta molleriana G. Winter SPECIES
-=======
+# Ascochyta moelleriana G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 26 (1884)
 
 #### Original name
-Ascochyta molleriana G. Winter
+Ascochyta moelleriana G. Winter, 1884
 
 ### Remarks
 null

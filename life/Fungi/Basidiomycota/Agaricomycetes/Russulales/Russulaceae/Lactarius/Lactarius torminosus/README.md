@@ -1,17 +1,16 @@
-Lactarius torminosus var. torminosus VARIETY
-=======
+# Lactarius torminosus (Schaeff.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nat. Arr. Brit. Pl. (London) 1: 623 (1821)
 
 #### Original name
-Lactarius torminosus var. torminosus
+Agaricus torminosus Schaeff., 1774
 
 ### Remarks
 null

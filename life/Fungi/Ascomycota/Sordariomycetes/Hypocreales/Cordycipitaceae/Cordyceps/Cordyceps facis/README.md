@@ -1,5 +1,4 @@
-Cordyceps facis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps facis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

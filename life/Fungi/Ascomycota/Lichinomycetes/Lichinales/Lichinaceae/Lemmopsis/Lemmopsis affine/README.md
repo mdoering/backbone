@@ -1,5 +1,4 @@
-Lemmopsis affine Samp. SPECIES
-=======
+# Lemmopsis affine Samp. SPECIES
 
 #### Status
 ACCEPTED

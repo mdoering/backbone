@@ -1,5 +1,4 @@
-Sarcoscypha carminea Pat. SPECIES
-=======
+# Sarcoscypha carminea Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago elegans Griffiths SPECIES
-=======
+# Ustilago elegans Griffiths SPECIES
 
 #### Status
 ACCEPTED

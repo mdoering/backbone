@@ -1,5 +1,4 @@
-Cortinarius phaeoruber Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius phaeoruber Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

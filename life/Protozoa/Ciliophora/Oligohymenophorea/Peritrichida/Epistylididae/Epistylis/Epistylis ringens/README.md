@@ -1,5 +1,4 @@
-Epistylis ringens Fromentel, 1876 SPECIES
-=======
+# Epistylis ringens Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

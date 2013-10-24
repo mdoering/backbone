@@ -1,5 +1,4 @@
-Cantharellus carneoflavus Corner SPECIES
-=======
+# Cantharellus carneoflavus Corner SPECIES
 
 #### Status
 ACCEPTED

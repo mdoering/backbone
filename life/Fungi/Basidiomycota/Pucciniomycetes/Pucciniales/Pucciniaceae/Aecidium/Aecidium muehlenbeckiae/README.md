@@ -1,5 +1,4 @@
-Aecidium muehlenbeckiae H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium muehlenbeckiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysamoeba Klebs, 1892 GENUS
-=======
+# Chrysamoeba Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

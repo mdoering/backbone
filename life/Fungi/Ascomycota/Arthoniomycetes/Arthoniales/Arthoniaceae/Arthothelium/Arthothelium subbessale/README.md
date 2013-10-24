@@ -1,5 +1,4 @@
-Arthothelium subbessale (Nyl.) Makhija & Patw. SPECIES
-=======
+# Arthothelium subbessale (Nyl.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muiaria armata Thaxt. SPECIES
-=======
+# Muiaria armata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

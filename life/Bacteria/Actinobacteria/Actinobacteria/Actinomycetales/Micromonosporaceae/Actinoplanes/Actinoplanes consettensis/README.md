@@ -1,5 +1,4 @@
-Actinoplanes consettensis Goodfellow et al., 1990 SPECIES
-=======
+# Actinoplanes consettensis Goodfellow et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

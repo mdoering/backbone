@@ -1,5 +1,4 @@
-Aragonella Thalmann, 1942 GENUS
-=======
+# Aragonella Thalmann, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterospora Saint-Joseph, 1907 GENUS
-=======
+# Heterospora Saint-Joseph, 1907 GENUS
 
 #### Status
 ACCEPTED

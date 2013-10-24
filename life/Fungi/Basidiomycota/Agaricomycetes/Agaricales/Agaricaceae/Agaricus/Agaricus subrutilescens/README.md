@@ -1,5 +1,4 @@
-Agaricus subrutilescens (Kauffman) Hotson & D.E. Stuntz, 1938 SPECIES
-=======
+# Agaricus subrutilescens (Kauffman) Hotson & D.E. Stuntz, 1938 SPECIES
 
 #### Status
 ACCEPTED

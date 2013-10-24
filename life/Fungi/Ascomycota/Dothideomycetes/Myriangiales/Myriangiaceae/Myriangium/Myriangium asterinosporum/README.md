@@ -1,5 +1,4 @@
-Myriangium asterinosporum (Ellis & Everh.) J.H. Mill. SPECIES
-=======
+# Myriangium asterinosporum (Ellis & Everh.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

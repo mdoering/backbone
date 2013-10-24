@@ -1,5 +1,4 @@
-Dictyocha apiculata var. inermis (Lemmermann) Deflandre VARIETY
-=======
+# Dictyocha apiculata SPECIES
 
 #### Status
 ACCEPTED

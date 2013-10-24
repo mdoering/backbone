@@ -1,5 +1,4 @@
-Rotaliatina naticoides (Stache) SPECIES
-=======
+# Rotaliatina naticoides (Stache) SPECIES
 
 #### Status
 ACCEPTED

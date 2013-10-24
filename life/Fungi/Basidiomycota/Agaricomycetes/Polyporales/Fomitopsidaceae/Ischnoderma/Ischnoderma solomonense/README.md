@@ -1,17 +1,16 @@
-Ischnoderma solomonense var. solomonense VARIETY
-=======
+# Ischnoderma solomonense Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 96: 82 (1989)
 
 #### Original name
-Ischnoderma solomonense var. solomonense
+Ischnoderma solomonense Corner, 1989
 
 ### Remarks
 null

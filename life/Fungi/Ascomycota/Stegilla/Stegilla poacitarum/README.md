@@ -1,5 +1,4 @@
-Stegilla poacitarum Heer SPECIES
-=======
+# Stegilla poacitarum Heer SPECIES
 
 #### Status
 ACCEPTED

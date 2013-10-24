@@ -1,5 +1,4 @@
-Schistophrya Kahl, 1933 GENUS
-=======
+# Schistophrya Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanithermus profundus Miroshnichenko et al., 2003 SPECIES
-=======
+# Oceanithermus profundus Miroshnichenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

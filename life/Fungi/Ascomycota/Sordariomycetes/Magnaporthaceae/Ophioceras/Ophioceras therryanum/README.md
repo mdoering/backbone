@@ -1,5 +1,4 @@
-Ophioceras therryanum (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Ophioceras therryanum (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

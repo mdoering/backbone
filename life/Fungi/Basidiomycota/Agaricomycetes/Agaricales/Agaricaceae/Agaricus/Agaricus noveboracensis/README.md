@@ -1,5 +1,4 @@
-Agaricus noveboracensis Peck SPECIES
-=======
+# Agaricus noveboracensis Peck SPECIES
 
 #### Status
 ACCEPTED

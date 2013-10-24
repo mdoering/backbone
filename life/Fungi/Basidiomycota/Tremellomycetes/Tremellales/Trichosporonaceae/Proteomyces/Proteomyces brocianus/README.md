@@ -1,5 +1,4 @@
-Proteomyces brocianus (Pinoy) C.W. Dodge SPECIES
-=======
+# Proteomyces brocianus (Pinoy) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora davidiicola C. Nakash., H. Horie & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora davidiicola C. Nakash., H. Horie & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

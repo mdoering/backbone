@@ -1,5 +1,4 @@
-Salmonella nyanza SPECIES
-=======
+# Salmonella nyanza SPECIES
 
 #### Status
 ACCEPTED

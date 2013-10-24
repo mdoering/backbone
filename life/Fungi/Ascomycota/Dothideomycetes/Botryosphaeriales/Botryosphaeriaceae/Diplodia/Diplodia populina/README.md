@@ -1,5 +1,4 @@
-Diplodia populina Fuckel, 1870 SPECIES
-=======
+# Diplodia populina Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

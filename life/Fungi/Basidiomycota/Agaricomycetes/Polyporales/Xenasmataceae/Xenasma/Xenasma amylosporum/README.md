@@ -1,5 +1,4 @@
-Xenasma amylosporum Parmasto SPECIES
-=======
+# Xenasma amylosporum Parmasto SPECIES
 
 #### Status
 ACCEPTED

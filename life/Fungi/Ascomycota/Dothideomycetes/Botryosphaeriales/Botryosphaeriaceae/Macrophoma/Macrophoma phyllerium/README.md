@@ -1,5 +1,4 @@
-Macrophoma phyllerium Allesch. SPECIES
-=======
+# Macrophoma phyllerium Allesch. SPECIES
 
 #### Status
 ACCEPTED

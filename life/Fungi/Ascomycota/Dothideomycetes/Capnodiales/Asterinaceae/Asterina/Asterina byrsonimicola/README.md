@@ -1,5 +1,4 @@
-Asterina byrsonimicola Henn. SPECIES
-=======
+# Asterina byrsonimicola Henn. SPECIES
 
 #### Status
 ACCEPTED

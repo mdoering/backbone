@@ -1,5 +1,4 @@
-Leucosporium vesiculiferum Corda SPECIES
-=======
+# Leucosporium vesiculiferum Corda SPECIES
 
 #### Status
 ACCEPTED

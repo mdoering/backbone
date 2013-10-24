@@ -1,5 +1,4 @@
-Marasmius troyanus Murrill SPECIES
-=======
+# Marasmius troyanus Murrill SPECIES
 
 #### Status
 ACCEPTED

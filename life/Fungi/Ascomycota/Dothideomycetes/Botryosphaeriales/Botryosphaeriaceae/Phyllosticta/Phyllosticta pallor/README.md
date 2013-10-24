@@ -1,5 +1,4 @@
-Phyllosticta pallor (Berk.) Oudem. SPECIES
-=======
+# Phyllosticta pallor (Berk.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

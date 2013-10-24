@@ -1,5 +1,4 @@
-Puccinia smilacis-kraussianae J.M. Yen SPECIES
-=======
+# Puccinia smilacis-kraussianae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tokophrya foecunda SPECIES
-=======
+# Tokophrya foecunda SPECIES
 
 #### Status
 ACCEPTED

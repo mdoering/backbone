@@ -1,5 +1,4 @@
-Neocallimastix hurleyensis Theodorou & J. Webb, 1991 SPECIES
-=======
+# Neocallimastix hurleyensis Theodorou & J. Webb, 1991 SPECIES
 
 #### Status
 ACCEPTED

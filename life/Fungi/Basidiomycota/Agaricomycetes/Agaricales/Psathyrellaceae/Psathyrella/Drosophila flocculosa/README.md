@@ -1,5 +1,4 @@
-Drosophila flocculosa anon. SPECIES
-=======
+# Drosophila flocculosa anon. SPECIES
 
 #### Status
 ACCEPTED

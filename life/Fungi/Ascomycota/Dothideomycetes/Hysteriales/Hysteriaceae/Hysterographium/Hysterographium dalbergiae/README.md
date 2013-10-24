@@ -1,5 +1,4 @@
-Hysterographium dalbergiae S. Ahmad SPECIES
-=======
+# Hysterographium dalbergiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

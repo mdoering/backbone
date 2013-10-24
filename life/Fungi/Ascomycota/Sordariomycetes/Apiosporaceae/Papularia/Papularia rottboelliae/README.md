@@ -1,5 +1,4 @@
-Papularia rottboelliae Höhn. SPECIES
-=======
+# Papularia rottboelliae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius basivinosus M.M. Moser SPECIES
-=======
+# Cortinarius basivinosus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

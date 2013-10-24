@@ -1,5 +1,4 @@
-Phyllachora vernicosa Speg., 1908 SPECIES
-=======
+# Phyllachora vernicosa Speg., 1908 SPECIES
 
 #### Status
 DOUBTFUL

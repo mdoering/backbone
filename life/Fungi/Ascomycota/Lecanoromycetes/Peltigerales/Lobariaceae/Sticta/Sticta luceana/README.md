@@ -1,5 +1,4 @@
-Sticta luceana Hampe SPECIES
-=======
+# Sticta luceana Hampe SPECIES
 
 #### Status
 ACCEPTED

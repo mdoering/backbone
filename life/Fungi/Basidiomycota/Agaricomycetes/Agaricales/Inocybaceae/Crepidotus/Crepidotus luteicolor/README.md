@@ -1,5 +1,4 @@
-Crepidotus luteicolor Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus luteicolor Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

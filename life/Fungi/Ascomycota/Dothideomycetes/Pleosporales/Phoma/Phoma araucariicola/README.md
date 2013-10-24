@@ -1,5 +1,4 @@
-Phoma araucariicola Bat. & A.F. Vital SPECIES
-=======
+# Phoma araucariicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

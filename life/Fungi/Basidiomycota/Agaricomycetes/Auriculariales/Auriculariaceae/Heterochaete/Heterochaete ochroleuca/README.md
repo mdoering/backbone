@@ -1,5 +1,4 @@
-Heterochaete ochroleuca Pat. SPECIES
-=======
+# Heterochaete ochroleuca Pat. SPECIES
 
 #### Status
 ACCEPTED

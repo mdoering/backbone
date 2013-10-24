@@ -1,5 +1,4 @@
-Trametes ornata (Peck) Pilát SPECIES
-=======
+# Trametes ornata (Peck) Pilát SPECIES
 
 #### Status
 ACCEPTED

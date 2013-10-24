@@ -1,5 +1,4 @@
-Spumella Cienkowski, 1870 GENUS
-=======
+# Spumella Cienkowski, 1870 GENUS
 
 #### Status
 ACCEPTED

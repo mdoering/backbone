@@ -1,5 +1,4 @@
-Galerina subtibiicystis Singer SPECIES
-=======
+# Galerina subtibiicystis Singer SPECIES
 
 #### Status
 ACCEPTED

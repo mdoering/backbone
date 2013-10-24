@@ -1,5 +1,4 @@
-Hypocrea aurantiistroma Overton SPECIES
-=======
+# Hypocrea aurantiistroma Overton SPECIES
 
 #### Status
 ACCEPTED

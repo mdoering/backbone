@@ -1,5 +1,4 @@
-Thiersteinia ecclesiastica S.W. Wise & D.K. Watkins SPECIES
-=======
+# Thiersteinia ecclesiastica S.W. Wise & D.K. Watkins SPECIES
 
 #### Status
 ACCEPTED

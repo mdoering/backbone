@@ -1,5 +1,4 @@
-Acanthocircus Squinabol, 1903 GENUS
-=======
+# Acanthocircus Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

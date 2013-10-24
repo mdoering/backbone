@@ -1,5 +1,4 @@
-Bapalmuia consanguinea (Müll. Arg.) Kalb & Lücking SPECIES
-=======
+# Bapalmuia consanguinea (Müll. Arg.) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

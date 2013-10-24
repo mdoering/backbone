@@ -1,5 +1,4 @@
-Valsa subscripta (Fr.) Cooke SPECIES
-=======
+# Valsa subscripta (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

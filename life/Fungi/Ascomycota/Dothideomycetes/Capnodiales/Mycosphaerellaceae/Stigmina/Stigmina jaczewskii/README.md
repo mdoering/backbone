@@ -1,5 +1,4 @@
-Stigmina jaczewskii B. Sutton SPECIES
-=======
+# Stigmina jaczewskii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

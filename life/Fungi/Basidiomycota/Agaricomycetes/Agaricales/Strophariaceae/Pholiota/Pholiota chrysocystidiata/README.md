@@ -1,5 +1,4 @@
-Pholiota chrysocystidiata Singer SPECIES
-=======
+# Pholiota chrysocystidiata Singer SPECIES
 
 #### Status
 ACCEPTED

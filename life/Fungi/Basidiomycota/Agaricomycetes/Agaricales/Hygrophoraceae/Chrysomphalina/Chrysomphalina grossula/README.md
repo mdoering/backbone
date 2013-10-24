@@ -1,17 +1,16 @@
-Omphalia bibula var. citricolor Rolland VARIETY
-=======
+# Chrysomphalina grossula (Pers.) Norvell, Redhead & Ammirati, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 50: 380 (1994)
 
 #### Original name
-Omphalia bibula var. citricolor Rolland
+Agaricus grossulus Pers., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clitocybe rancida H.E. Bigelow SPECIES
-=======
+# Clitocybe rancida H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

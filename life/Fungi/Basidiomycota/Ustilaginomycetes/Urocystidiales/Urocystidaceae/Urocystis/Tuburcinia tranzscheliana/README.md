@@ -1,5 +1,4 @@
-Tuburcinia tranzscheliana Lavrov SPECIES
-=======
+# Tuburcinia tranzscheliana Lavrov SPECIES
 
 #### Status
 ACCEPTED

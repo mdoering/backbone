@@ -1,5 +1,4 @@
-Lactarius pseudofallax A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius pseudofallax A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

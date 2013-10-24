@@ -1,5 +1,4 @@
-Globigerina aequilateralis Brady SPECIES
-=======
+# Globigerina aequilateralis Brady SPECIES
 
 #### Status
 ACCEPTED

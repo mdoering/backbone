@@ -1,5 +1,4 @@
-Sphinctrina gummae Berk. & Mont. SPECIES
-=======
+# Sphinctrina gummae Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplosporella aquifolii (Westend.) Rupprecht SPECIES
-=======
+# Haplosporella aquifolii (Westend.) Rupprecht SPECIES
 
 #### Status
 DOUBTFUL

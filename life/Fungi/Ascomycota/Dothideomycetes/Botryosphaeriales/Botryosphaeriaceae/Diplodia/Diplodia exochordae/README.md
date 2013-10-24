@@ -1,5 +1,4 @@
-Diplodia exochordae Henn. SPECIES
-=======
+# Diplodia exochordae Henn. SPECIES
 
 #### Status
 ACCEPTED

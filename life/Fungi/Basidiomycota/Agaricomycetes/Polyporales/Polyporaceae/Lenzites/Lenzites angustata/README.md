@@ -1,5 +1,4 @@
-Lenzites angustata Schulz {?} SPECIES
-=======
+# Lenzites angustata Schulz {?} SPECIES
 
 #### Status
 ACCEPTED

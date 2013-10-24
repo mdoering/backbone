@@ -1,5 +1,4 @@
-Coniosporium agaves Pass. SPECIES
-=======
+# Coniosporium agaves Pass. SPECIES
 
 #### Status
 ACCEPTED

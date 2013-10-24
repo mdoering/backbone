@@ -1,5 +1,4 @@
-Cercospora vagnerae Clem. & E.S. Clem. SPECIES
-=======
+# Cercospora vagnerae Clem. & E.S. Clem. SPECIES
 
 #### Status
 ACCEPTED

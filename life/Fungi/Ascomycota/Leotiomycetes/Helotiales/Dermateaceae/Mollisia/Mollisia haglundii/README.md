@@ -1,8 +1,7 @@
-Mollisia haglundi Rehm SPECIES
-=======
+# Mollisia haglundii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mollisia haglundi Rehm
+Mollisia haglundii Rehm
 
 ### Remarks
 null

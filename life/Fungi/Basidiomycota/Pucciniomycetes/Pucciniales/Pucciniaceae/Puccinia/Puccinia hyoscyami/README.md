@@ -1,5 +1,4 @@
-Puccinia hyoscyami Magnus SPECIES
-=======
+# Puccinia hyoscyami Magnus SPECIES
 
 #### Status
 ACCEPTED

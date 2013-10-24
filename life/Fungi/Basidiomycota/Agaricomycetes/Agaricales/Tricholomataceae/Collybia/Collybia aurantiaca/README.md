@@ -1,5 +1,4 @@
-Collybia aurantiaca (Murrill) Murrill SPECIES
-=======
+# Collybia aurantiaca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

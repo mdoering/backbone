@@ -1,5 +1,4 @@
-Aleurina americana W.Y. Zhuang & Korf SPECIES
-=======
+# Aleurina americana W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

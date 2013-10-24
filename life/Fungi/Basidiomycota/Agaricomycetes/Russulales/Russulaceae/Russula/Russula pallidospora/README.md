@@ -1,5 +1,4 @@
-Russula pallidospora J. Blum ex Romagn. SPECIES
-=======
+# Russula pallidospora J. Blum ex Romagn. SPECIES
 
 #### Status
 ACCEPTED

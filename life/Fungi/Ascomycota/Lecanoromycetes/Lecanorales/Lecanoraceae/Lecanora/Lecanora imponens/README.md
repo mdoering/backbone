@@ -1,5 +1,4 @@
-Lecanora imponens Stizenb. SPECIES
-=======
+# Lecanora imponens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

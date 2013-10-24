@@ -1,5 +1,4 @@
-Coleroa maydicola Saccas SPECIES
-=======
+# Coleroa maydicola Saccas SPECIES
 
 #### Status
 ACCEPTED

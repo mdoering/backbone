@@ -1,5 +1,4 @@
-Galerula hemisphaerica Murrill SPECIES
-=======
+# Galerula hemisphaerica Murrill SPECIES
 
 #### Status
 ACCEPTED

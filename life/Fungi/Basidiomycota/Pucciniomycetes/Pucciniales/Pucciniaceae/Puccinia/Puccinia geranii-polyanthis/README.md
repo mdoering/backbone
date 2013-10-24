@@ -1,5 +1,4 @@
-Puccinia geranii-polyanthis J.Y. Zhuang SPECIES
-=======
+# Puccinia geranii-polyanthis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

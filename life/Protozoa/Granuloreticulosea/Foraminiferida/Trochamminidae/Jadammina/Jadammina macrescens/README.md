@@ -1,5 +1,4 @@
-Jadammina macrescens (Brady, 1870) SPECIES
-=======
+# Jadammina macrescens (Brady, 1870) SPECIES
 
 #### Status
 ACCEPTED

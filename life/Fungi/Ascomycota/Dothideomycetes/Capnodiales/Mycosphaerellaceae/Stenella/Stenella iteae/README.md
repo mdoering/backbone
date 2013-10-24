@@ -1,5 +1,4 @@
-Stenella iteae R. Kirschner SPECIES
-=======
+# Stenella iteae R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

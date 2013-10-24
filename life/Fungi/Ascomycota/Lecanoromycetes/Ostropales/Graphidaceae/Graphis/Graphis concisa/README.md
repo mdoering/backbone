@@ -1,5 +1,4 @@
-Graphis concisa Kremp. SPECIES
-=======
+# Graphis concisa Kremp. SPECIES
 
 #### Status
 ACCEPTED

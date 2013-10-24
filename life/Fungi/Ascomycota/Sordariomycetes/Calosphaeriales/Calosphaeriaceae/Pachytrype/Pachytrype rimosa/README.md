@@ -1,5 +1,4 @@
-Pachytrype rimosa F.A. Fernández, J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña SPECIES
-=======
+# Pachytrype rimosa F.A. Fernández, J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña SPECIES
 
 #### Status
 ACCEPTED

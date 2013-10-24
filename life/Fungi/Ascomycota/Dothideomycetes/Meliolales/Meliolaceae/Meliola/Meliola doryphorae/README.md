@@ -1,5 +1,4 @@
-Meliola doryphorae Hansf. SPECIES
-=======
+# Meliola doryphorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

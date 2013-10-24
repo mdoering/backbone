@@ -1,5 +1,4 @@
-Psoroma squamulatum (Nyl.) Harm. SPECIES
-=======
+# Psoroma squamulatum (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

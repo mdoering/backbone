@@ -1,5 +1,4 @@
-Heterothecium nannarium Tuck. SPECIES
-=======
+# Heterothecium nannarium Tuck. SPECIES
 
 #### Status
 ACCEPTED

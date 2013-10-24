@@ -1,5 +1,4 @@
-Striatotheca acutiuscula Burmann, 1970 SPECIES
-=======
+# Striatotheca acutiuscula Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

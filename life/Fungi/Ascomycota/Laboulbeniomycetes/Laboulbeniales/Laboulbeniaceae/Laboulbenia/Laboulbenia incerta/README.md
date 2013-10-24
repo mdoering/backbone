@@ -1,5 +1,4 @@
-Laboulbenia incerta Thaxt. SPECIES
-=======
+# Laboulbenia incerta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

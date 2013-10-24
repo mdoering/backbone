@@ -1,8 +1,7 @@
-Nodosaria semirugosa d'Orbigny, 1846 SPECIES
-=======
+# Grigelis semirugosus (d'Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

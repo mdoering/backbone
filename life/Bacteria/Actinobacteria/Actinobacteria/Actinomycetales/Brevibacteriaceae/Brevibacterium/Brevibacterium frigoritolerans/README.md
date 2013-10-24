@@ -1,5 +1,4 @@
-Brevibacterium frigoritolerans Delaporte and Sasson, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium frigoritolerans Delaporte and Sasson, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

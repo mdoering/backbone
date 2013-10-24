@@ -1,5 +1,4 @@
-Botryosphaeria tiliacea Petr., 1916 SPECIES
-=======
+# Botryosphaeria tiliacea Petr., 1916 SPECIES
 
 #### Status
 ACCEPTED

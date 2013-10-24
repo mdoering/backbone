@@ -1,14 +1,13 @@
-Peziza patula Pers., 1801 SPECIES
-=======
+# Mitrophora patula (Pers.) Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 654 (1801)
+null
 
 #### Original name
 Peziza patula Pers., 1801

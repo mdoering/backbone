@@ -1,5 +1,4 @@
-Pseudocercospora tetraulaciicola U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora tetraulaciicola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma subaustrale Murrill SPECIES
-=======
+# Hebeloma subaustrale Murrill SPECIES
 
 #### Status
 ACCEPTED

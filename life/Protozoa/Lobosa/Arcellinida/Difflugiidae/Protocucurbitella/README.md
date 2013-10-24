@@ -1,5 +1,4 @@
-Protocucurbitella Gauthier-Lièvre & Thomas, 1960 GENUS
-=======
+# Protocucurbitella Gauthier-Lièvre & Thomas, 1960 GENUS
 
 #### Status
 ACCEPTED

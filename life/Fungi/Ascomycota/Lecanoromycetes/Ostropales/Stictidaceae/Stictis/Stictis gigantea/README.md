@@ -1,5 +1,4 @@
-Stictis gigantea Sherwood SPECIES
-=======
+# Stictis gigantea Sherwood SPECIES
 
 #### Status
 ACCEPTED

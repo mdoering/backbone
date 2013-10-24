@@ -1,5 +1,4 @@
-Hegermila octopartita Raitv. & Järv, 1995 SPECIES
-=======
+# Hegermila octopartita Raitv. & Järv, 1995 SPECIES
 
 #### Status
 ACCEPTED

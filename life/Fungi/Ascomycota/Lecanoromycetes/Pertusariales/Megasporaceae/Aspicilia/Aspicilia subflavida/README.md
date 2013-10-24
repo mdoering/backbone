@@ -1,5 +1,4 @@
-Aspicilia subflavida (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia subflavida (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

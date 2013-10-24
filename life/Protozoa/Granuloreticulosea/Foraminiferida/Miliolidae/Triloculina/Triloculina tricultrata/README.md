@@ -1,5 +1,4 @@
-Triloculina tricultrata Carter SPECIES
-=======
+# Triloculina tricultrata Carter SPECIES
 
 #### Status
 ACCEPTED

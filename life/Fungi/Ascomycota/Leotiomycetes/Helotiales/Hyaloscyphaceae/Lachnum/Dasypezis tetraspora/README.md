@@ -1,5 +1,4 @@
-Dasypezis tetraspora (Feltgen) Höhn. SPECIES
-=======
+# Dasypezis tetraspora (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

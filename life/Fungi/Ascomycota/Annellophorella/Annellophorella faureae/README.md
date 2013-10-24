@@ -1,5 +1,4 @@
-Annellophorella faureae (Henn.) M.B. Ellis SPECIES
-=======
+# Annellophorella faureae (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

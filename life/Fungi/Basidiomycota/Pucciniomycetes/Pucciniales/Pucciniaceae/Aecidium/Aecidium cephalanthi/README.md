@@ -1,5 +1,4 @@
-Aecidium cephalanthi Seym. SPECIES
-=======
+# Aecidium cephalanthi Seym. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula setacea Müll. Arg. SPECIES
-=======
+# Strigula setacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

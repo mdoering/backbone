@@ -1,5 +1,4 @@
-Roccellomyces fuciformis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Roccellomyces fuciformis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium loburare P.H. Campbell, 1973 SPECIES
-=======
+# Gymnodinium loburare P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

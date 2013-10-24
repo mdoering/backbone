@@ -1,5 +1,4 @@
-Phyllachora manaosensis Henn., 1904 SPECIES
-=======
+# Phyllachora manaosensis Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

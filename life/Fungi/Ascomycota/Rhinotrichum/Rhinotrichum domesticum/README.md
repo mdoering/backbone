@@ -1,5 +1,4 @@
-Rhinotrichum domesticum Balf.-Browne SPECIES
-=======
+# Rhinotrichum domesticum Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

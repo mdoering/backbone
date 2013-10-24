@@ -1,5 +1,4 @@
-Phyllachora syntherismae Sawada, 1944 SPECIES
-=======
+# Phyllachora syntherismae Sawada, 1944 SPECIES
 
 #### Status
 DOUBTFUL

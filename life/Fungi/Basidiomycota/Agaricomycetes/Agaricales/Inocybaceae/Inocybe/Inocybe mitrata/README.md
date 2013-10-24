@@ -1,5 +1,4 @@
-Inocybe mitrata P. Karst. SPECIES
-=======
+# Inocybe mitrata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

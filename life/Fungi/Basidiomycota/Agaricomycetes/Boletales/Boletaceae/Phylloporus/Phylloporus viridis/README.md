@@ -1,5 +1,4 @@
-Phylloporus viridis (Berk.) Singer SPECIES
-=======
+# Phylloporus viridis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena chrysites Maas Geest. & de Meijer SPECIES
-=======
+# Mycena chrysites Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

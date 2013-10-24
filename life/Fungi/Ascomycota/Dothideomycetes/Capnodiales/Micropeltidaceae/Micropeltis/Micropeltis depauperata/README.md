@@ -1,5 +1,4 @@
-Micropeltis depauperata Sacc. & Berl. SPECIES
-=======
+# Micropeltis depauperata Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

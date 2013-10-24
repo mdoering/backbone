@@ -1,5 +1,4 @@
-Leptosphaeria mesoedema (Berk. & M.A. Curtis) M.B. Ellis & Everh. SPECIES
-=======
+# Leptosphaeria mesoedema (Berk. & M.A. Curtis) M.B. Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa arnoldii Rehm SPECIES
-=======
+# Leciographa arnoldii Rehm SPECIES
 
 #### Status
 ACCEPTED

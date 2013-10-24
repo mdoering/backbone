@@ -1,5 +1,4 @@
-Chaetoplea apicirubida M.E. Barr SPECIES
-=======
+# Chaetoplea apicirubida M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

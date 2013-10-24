@@ -1,5 +1,4 @@
-Lembosina quercina (Ellis & G. Martin) Arx SPECIES
-=======
+# Lembosina quercina (Ellis & G. Martin) Arx SPECIES
 
 #### Status
 ACCEPTED

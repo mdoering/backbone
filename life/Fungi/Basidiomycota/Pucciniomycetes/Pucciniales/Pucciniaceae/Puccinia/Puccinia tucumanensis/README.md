@@ -1,5 +1,4 @@
-Puccinia tucumanensis (Speg.) Arthur SPECIES
-=======
+# Puccinia tucumanensis (Speg.) Arthur SPECIES
 
 #### Status
 ACCEPTED

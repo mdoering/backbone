@@ -1,5 +1,4 @@
-Phoma coriariae Speg. SPECIES
-=======
+# Phoma coriariae Speg. SPECIES
 
 #### Status
 ACCEPTED

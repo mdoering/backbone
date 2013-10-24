@@ -1,5 +1,4 @@
-Leotia unctuosa (Batsch) Fr. SPECIES
-=======
+# Leotia unctuosa (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

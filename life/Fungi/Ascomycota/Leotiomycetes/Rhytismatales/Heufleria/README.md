@@ -1,5 +1,4 @@
-Heufleria Auerswald, 1869 GENUS
-=======
+# Heufleria Auerswald, 1869 GENUS
 
 #### Status
 ACCEPTED

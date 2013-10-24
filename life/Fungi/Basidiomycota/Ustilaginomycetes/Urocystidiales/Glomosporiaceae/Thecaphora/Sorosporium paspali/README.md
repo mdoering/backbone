@@ -1,5 +1,4 @@
-Sorosporium paspali McAlpine SPECIES
-=======
+# Sorosporium paspali McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium sideritis (Tuck.) Fink SPECIES
-=======
+# Placodium sideritis (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

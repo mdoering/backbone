@@ -1,5 +1,4 @@
-Arthuriomyces Cummins & Y. Hirats. GENUS
-=======
+# Arthuriomyces Cummins & Y. Hirats. GENUS
 
 #### Status
 ACCEPTED

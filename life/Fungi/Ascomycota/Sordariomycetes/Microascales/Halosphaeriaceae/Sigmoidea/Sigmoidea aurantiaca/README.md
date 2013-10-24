@@ -1,5 +1,4 @@
-Sigmoidea aurantiaca Descals, 1982 SPECIES
-=======
+# Sigmoidea aurantiaca Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

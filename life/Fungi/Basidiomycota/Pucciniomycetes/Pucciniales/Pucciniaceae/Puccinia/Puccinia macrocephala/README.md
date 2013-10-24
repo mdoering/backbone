@@ -1,5 +1,4 @@
-Puccinia macrocephala Speg. SPECIES
-=======
+# Puccinia macrocephala Speg. SPECIES
 
 #### Status
 ACCEPTED

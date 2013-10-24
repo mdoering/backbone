@@ -1,5 +1,4 @@
-Dactylaria plovercovensis Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria plovercovensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus pulvinatus (Pers.) Fr. SPECIES
-=======
+# Pleurotus pulvinatus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

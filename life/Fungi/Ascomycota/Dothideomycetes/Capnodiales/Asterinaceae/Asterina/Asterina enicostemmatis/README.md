@@ -1,5 +1,4 @@
-Asterina enicostemmatis Hosag. & Chandraprabha, 2009 SPECIES
-=======
+# Asterina enicostemmatis Hosag. & Chandraprabha, 2009 SPECIES
 
 #### Status
 ACCEPTED

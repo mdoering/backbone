@@ -1,5 +1,4 @@
-Ophiobolus jacobaeae Oudem. SPECIES
-=======
+# Ophiobolus jacobaeae Oudem. SPECIES
 
 #### Status
 ACCEPTED

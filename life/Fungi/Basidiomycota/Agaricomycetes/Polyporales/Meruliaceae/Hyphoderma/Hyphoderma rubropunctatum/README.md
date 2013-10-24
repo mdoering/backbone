@@ -1,5 +1,4 @@
-Hyphoderma rubropunctatum Warcup & P.H.B. Talbot, 1965 SPECIES
-=======
+# Hyphoderma rubropunctatum Warcup & P.H.B. Talbot, 1965 SPECIES
 
 #### Status
 ACCEPTED

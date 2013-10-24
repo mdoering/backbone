@@ -1,5 +1,4 @@
-Tricholoma centurio (Kalchbr.) Sacc. SPECIES
-=======
+# Tricholoma centurio (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

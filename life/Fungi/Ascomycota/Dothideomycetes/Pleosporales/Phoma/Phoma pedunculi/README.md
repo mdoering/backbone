@@ -1,5 +1,4 @@
-Phoma pedunculi Ellis & Everh. SPECIES
-=======
+# Phoma pedunculi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

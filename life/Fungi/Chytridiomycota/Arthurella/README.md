@@ -1,5 +1,4 @@
-Arthurella Zebrowski, 1936 GENUS
-=======
+# Arthurella Zebrowski, 1936 GENUS
 
 #### Status
 ACCEPTED

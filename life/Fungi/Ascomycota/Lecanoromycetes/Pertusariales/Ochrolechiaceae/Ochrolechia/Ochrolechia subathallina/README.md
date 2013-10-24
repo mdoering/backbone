@@ -1,5 +1,4 @@
-Ochrolechia subathallina H. Magn. SPECIES
-=======
+# Ochrolechia subathallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

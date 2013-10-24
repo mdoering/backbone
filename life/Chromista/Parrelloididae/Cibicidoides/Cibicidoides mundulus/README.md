@@ -1,8 +1,7 @@
-Truncatulina mundula Brady, Parker & Jones, 1888 SPECIES
-=======
+# Cibicidoides mundulus (Brady, Parker & Jones, 1888) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

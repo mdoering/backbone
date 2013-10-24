@@ -1,5 +1,4 @@
-Geastrum ovalisporum Calonge & Mor.-Arr. SPECIES
-=======
+# Geastrum ovalisporum Calonge & Mor.-Arr. SPECIES
 
 #### Status
 ACCEPTED

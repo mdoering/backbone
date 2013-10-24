@@ -1,5 +1,4 @@
-Colletotrichum eucalypti Bitanc. SPECIES
-=======
+# Colletotrichum eucalypti Bitanc. SPECIES
 
 #### Status
 ACCEPTED

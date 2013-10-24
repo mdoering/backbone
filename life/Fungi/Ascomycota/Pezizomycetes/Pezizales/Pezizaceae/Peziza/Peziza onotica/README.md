@@ -1,5 +1,4 @@
-Peziza onotica var. onotica VARIETY
-=======
+# Peziza onotica ß onotica Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 637 (1801)
 
 #### Original name
-null
+Peziza onotica ß onotica Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nectria subbotryosa Höhn. SPECIES
-=======
+# Nectria subbotryosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

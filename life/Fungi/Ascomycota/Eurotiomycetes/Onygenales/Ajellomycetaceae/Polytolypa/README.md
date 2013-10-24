@@ -1,5 +1,4 @@
-Polytolypa J.A. Scott & Malloch GENUS
-=======
+# Polytolypa J.A. Scott & Malloch GENUS
 
 #### Status
 ACCEPTED

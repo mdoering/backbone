@@ -1,5 +1,4 @@
-Phaeoseptoria urvilleana (Speg.) R. Sprague SPECIES
-=======
+# Phaeoseptoria urvilleana (Speg.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

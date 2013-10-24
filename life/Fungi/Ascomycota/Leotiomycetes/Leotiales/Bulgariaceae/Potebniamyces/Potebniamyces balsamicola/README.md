@@ -1,17 +1,16 @@
-Phacidium balsamicola (Smerlis) DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
-=======
+# Potebniamyces balsamicola Smerlis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 61(1): 37 (1983)
+null
 
 #### Original name
-Potebniamyces balsamicola Smerlis, 1962
+null
 
 ### Remarks
 null

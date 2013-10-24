@@ -1,5 +1,4 @@
-Albugo cladothricis G.W. Wilson SPECIES
-=======
+# Albugo cladothricis G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

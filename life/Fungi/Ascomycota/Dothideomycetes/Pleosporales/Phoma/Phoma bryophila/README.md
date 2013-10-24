@@ -1,5 +1,4 @@
-Phoma bryophila Racov. SPECIES
-=======
+# Phoma bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

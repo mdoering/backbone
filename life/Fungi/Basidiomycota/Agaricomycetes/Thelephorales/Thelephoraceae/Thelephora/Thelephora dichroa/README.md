@@ -1,5 +1,4 @@
-Thelephora dichroa Pers. SPECIES
-=======
+# Thelephora dichroa Pers. SPECIES
 
 #### Status
 ACCEPTED

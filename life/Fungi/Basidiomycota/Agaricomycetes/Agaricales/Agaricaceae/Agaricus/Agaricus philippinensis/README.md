@@ -1,5 +1,4 @@
-Agaricus philippinensis Berk. SPECIES
-=======
+# Agaricus philippinensis Berk. SPECIES
 
 #### Status
 ACCEPTED

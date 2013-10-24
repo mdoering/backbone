@@ -1,17 +1,16 @@
-Lecanora cavicola var. cavicola VARIETY
-=======
+# Lecanora cavicola Creveld SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Lichenol. 17: 273 (1981)
 
 #### Original name
-Lecanora cavicola var. cavicola
+Lecanora cavicola Creveld
 
 ### Remarks
 null

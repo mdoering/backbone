@@ -1,5 +1,4 @@
-Hymenoscyphus macrosporus (Rostr.) Kuntze SPECIES
-=======
+# Hymenoscyphus macrosporus (Rostr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

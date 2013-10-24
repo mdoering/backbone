@@ -1,5 +1,4 @@
-Geobacter bemidjiensis Nevin et al., 2005 SPECIES
-=======
+# Geobacter bemidjiensis Nevin et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

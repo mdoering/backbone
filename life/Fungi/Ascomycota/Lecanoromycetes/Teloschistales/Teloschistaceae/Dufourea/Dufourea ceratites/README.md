@@ -1,5 +1,4 @@
-Dufourea ceratites (Wahlenb.) Sommerf. SPECIES
-=======
+# Dufourea ceratites (Wahlenb.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED

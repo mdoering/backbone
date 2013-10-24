@@ -1,5 +1,4 @@
-Lecidella subauriculata SPECIES
-=======
+# Lecidella subauriculata SPECIES
 
 #### Status
 ACCEPTED

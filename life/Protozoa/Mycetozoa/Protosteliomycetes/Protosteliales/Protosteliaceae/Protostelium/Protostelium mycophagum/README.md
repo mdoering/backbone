@@ -1,17 +1,16 @@
-Protostelium mycophagum var. crassipes L.S. Olive & Stoian. VARIETY
-=======
+# Protostelium mycophagum L.S. Olive & Stoian., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 56(9): 981 (1969)
+Bull. Torrey bot. Club 87: 12 (1960)
 
 #### Original name
-Protostelium mycophagum var. crassipes L.S. Olive & Stoian.
+Protostelium mycophagum L.S. Olive & Stoian., 1960
 
 ### Remarks
 null

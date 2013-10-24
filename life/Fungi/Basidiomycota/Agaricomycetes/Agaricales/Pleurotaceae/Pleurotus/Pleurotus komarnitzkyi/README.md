@@ -1,5 +1,4 @@
-Pleurotus komarnitzkyi Vassilkov SPECIES
-=======
+# Pleurotus komarnitzkyi Vassilkov SPECIES
 
 #### Status
 ACCEPTED

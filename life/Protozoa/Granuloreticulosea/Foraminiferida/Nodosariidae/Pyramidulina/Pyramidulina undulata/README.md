@@ -1,8 +1,7 @@
-Nodosaria undulata d’Orbigny, 1902 SPECIES
-=======
+# Pyramidulina undulata (d'Orbigny in Fornasini, 1902) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

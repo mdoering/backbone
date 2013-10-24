@@ -1,5 +1,4 @@
-Orygmatosphaeridium vulgarum Maithy, 1975 SPECIES
-=======
+# Orygmatosphaeridium vulgarum Maithy, 1975 SPECIES
 
 #### Status
 ACCEPTED

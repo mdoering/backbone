@@ -1,5 +1,4 @@
-Scriniocassis dictyotus (Cookson & Eisenack, 1960) Beju, 1971 SPECIES
-=======
+# Scriniocassis dictyotus (Cookson & Eisenack, 1960) Beju, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dipospyris Haeckel, 1887 GENUS
-=======
+# Dipodospyris Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Rep. Voy. Challenger, Zool. , 18 (2), 1024, 1036.
+Jena. Z. , 15, 441.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Emericellopsis donezkii Beliakova, 1974 SPECIES
-=======
+# Emericellopsis donezkii Beliakova, 1974 SPECIES
 
 #### Status
 ACCEPTED

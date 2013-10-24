@@ -1,5 +1,4 @@
-Coccidioides pyogenes Rixford & Gilchrist SPECIES
-=======
+# Coccidioides pyogenes Rixford & Gilchrist SPECIES
 
 #### Status
 ACCEPTED

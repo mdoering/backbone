@@ -1,5 +1,4 @@
-Bolivina transluscens SPECIES
-=======
+# Bolivina transluscens SPECIES
 
 #### Status
 ACCEPTED

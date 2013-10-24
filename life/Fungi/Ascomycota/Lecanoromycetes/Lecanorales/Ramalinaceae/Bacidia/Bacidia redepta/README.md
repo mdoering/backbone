@@ -1,5 +1,4 @@
-Bacidia redepta (Stirt.) Zahlbr. SPECIES
-=======
+# Bacidia redepta (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

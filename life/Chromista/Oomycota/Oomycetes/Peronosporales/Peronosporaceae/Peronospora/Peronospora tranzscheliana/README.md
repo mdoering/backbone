@@ -1,5 +1,4 @@
-Peronospora tranzscheliana Bakhtin SPECIES
-=======
+# Peronospora tranzscheliana Bakhtin SPECIES
 
 #### Status
 ACCEPTED

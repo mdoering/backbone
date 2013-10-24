@@ -1,5 +1,4 @@
-Cercospora pittospori Plakidas SPECIES
-=======
+# Cercospora pittospori Plakidas SPECIES
 
 #### Status
 ACCEPTED

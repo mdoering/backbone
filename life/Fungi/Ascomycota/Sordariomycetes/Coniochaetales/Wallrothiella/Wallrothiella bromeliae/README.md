@@ -1,5 +1,4 @@
-Wallrothiella bromeliae Rehm SPECIES
-=======
+# Wallrothiella bromeliae Rehm SPECIES
 
 #### Status
 ACCEPTED

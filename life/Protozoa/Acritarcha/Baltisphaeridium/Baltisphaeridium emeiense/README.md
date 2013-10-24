@@ -1,5 +1,4 @@
-Baltisphaeridium emeiense Wang & Chen in Wang & Chen, 1987 SPECIES
-=======
+# Baltisphaeridium emeiense Wang & Chen in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

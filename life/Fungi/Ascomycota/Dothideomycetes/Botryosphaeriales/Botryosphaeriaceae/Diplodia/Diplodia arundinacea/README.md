@@ -1,5 +1,4 @@
-Diplodia arundinacea Durieu & Mont. SPECIES
-=======
+# Diplodia arundinacea Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

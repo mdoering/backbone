@@ -1,17 +1,16 @@
-Puccinia saxifragae var. saxifragae VARIETY
-=======
+# Puccinia saxifragae Schltdl., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. berol. (Berlin) 2: 134 (1824)
 
 #### Original name
-Puccinia saxifragae var. saxifragae
+Puccinia saxifragae Schltdl., 1824
 
 ### Remarks
 null

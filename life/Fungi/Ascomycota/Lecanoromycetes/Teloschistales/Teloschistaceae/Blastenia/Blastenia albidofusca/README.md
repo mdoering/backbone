@@ -1,5 +1,4 @@
-Blastenia albidofusca (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia albidofusca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

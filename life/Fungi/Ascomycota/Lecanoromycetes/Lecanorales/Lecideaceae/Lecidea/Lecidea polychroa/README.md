@@ -1,5 +1,4 @@
-Lecidea polychroa Hue SPECIES
-=======
+# Lecidea polychroa Hue SPECIES
 
 #### Status
 ACCEPTED

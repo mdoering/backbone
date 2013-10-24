@@ -1,5 +1,4 @@
-Passalora eugeniae Crous SPECIES
-=======
+# Passalora eugeniae Crous SPECIES
 
 #### Status
 ACCEPTED

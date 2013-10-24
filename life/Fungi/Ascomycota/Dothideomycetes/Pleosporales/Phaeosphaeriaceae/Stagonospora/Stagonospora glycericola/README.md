@@ -1,5 +1,4 @@
-Stagonospora glycericola R. Sprague SPECIES
-=======
+# Stagonospora glycericola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

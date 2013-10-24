@@ -1,5 +1,4 @@
-Erythrobacter Shiba & Simidu, 1982 GENUS
-=======
+# Erythrobacter Shiba & Simidu, 1982 GENUS
 
 #### Status
 ACCEPTED

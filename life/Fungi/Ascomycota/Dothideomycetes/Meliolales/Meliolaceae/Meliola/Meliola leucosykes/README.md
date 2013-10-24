@@ -1,5 +1,4 @@
-Meliola leucosykes H.S. Yates SPECIES
-=======
+# Meliola leucosykes H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

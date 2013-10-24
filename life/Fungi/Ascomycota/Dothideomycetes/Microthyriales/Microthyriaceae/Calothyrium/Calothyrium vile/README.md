@@ -1,5 +1,4 @@
-Calothyrium vile Syd. SPECIES
-=======
+# Calothyrium vile Syd. SPECIES
 
 #### Status
 ACCEPTED

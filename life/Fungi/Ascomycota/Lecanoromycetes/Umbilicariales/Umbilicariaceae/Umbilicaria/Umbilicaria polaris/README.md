@@ -1,5 +1,4 @@
-Umbilicaria polaris SPECIES
-=======
+# Umbilicaria polaris SPECIES
 
 #### Status
 ACCEPTED

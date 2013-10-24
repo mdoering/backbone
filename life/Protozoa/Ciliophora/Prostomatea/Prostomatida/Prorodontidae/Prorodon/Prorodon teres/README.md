@@ -1,5 +1,4 @@
-Prorodon teres subsp. teres SUBSPECIES
-=======
+# Prorodon teres (Ehrenberg, 1834) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

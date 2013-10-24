@@ -1,5 +1,4 @@
-Muricauda Bruns et al., 2001 GENUS
-=======
+# Muricauda Bruns et al., 2001 GENUS
 
 #### Status
 ACCEPTED

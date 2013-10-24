@@ -1,5 +1,4 @@
-Cercospora garugae G.P. Agarwal & Hasija SPECIES
-=======
+# Cercospora garugae G.P. Agarwal & Hasija SPECIES
 
 #### Status
 ACCEPTED

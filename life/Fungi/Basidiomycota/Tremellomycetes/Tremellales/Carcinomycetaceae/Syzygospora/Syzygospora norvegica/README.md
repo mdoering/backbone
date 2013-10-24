@@ -1,14 +1,13 @@
-Christiansenia norvegica (Ginns) F. Rath, 1991 SPECIES
-=======
+# Syzygospora norvegica Ginns, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Soc. ital. Sci. nat. Mus. Civico Storia nat. Milano 132(2): 21 (1991)
+Mycologia 78(4): 630 (1986)
 
 #### Original name
 Syzygospora norvegica Ginns, 1986

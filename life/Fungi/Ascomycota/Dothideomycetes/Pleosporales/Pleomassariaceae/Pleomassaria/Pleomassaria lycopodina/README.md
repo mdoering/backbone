@@ -1,5 +1,4 @@
-Pleomassaria lycopodina (P. Karst.) SPECIES
-=======
+# Pleomassaria lycopodina (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

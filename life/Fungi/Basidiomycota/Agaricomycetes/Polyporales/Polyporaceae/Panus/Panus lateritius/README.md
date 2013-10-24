@@ -1,5 +1,4 @@
-Panus lateritius Sacc. SPECIES
-=======
+# Panus lateritius Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zanclospora novae-zelandiae S. Hughes & W.B. Kendr., 1965 SPECIES
-=======
+# Zanclospora novae-zelandiae S. Hughes & W.B. Kendr., 1965 SPECIES
 
 #### Status
 ACCEPTED

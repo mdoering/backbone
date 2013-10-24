@@ -1,5 +1,4 @@
-Aecidium diospyri-hispidae Viégas SPECIES
-=======
+# Aecidium diospyri-hispidae Viégas SPECIES
 
 #### Status
 ACCEPTED

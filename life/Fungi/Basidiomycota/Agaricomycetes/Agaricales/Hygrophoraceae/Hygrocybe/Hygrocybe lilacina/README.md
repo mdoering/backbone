@@ -1,14 +1,13 @@
-Omphalia lilacina (C. Laest.) P. Karst., 1879 SPECIES
-=======
+# Hygrocybe lilacina (C. Laest.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 32: 133 (1879)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 64 (1967)
 
 #### Original name
 Agaricus lilacinus Lasch, 1828

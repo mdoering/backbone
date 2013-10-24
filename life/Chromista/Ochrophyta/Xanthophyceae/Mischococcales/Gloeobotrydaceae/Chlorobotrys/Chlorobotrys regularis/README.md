@@ -1,5 +1,4 @@
-Chlorobotrys regularis (W. West) Bohlin SPECIES
-=======
+# Chlorobotrys regularis (W. West) Bohlin SPECIES
 
 #### Status
 ACCEPTED

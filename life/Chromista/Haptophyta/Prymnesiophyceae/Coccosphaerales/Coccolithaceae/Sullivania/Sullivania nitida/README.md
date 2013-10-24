@@ -1,5 +1,4 @@
-Sullivania nitida (Perch-Nielsen) O. Varol SPECIES
-=======
+# Sullivania nitida (Perch-Nielsen) O. Varol SPECIES
 
 #### Status
 ACCEPTED

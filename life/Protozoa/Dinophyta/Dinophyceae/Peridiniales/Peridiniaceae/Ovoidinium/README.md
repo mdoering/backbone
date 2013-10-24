@@ -1,14 +1,13 @@
-Evittia S.A.J. Pocock, 1972 GENUS
-=======
+# Ovoidinium R.J.Davey, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palaeontographica (B) 137: 93.
+Bull. Br. Mus. Nat. Hist. (Geol. ) 18: 351.
 
 #### Original name
 null

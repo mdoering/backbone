@@ -1,5 +1,4 @@
-Russula munia Buyck SPECIES
-=======
+# Russula munia Buyck SPECIES
 
 #### Status
 ACCEPTED

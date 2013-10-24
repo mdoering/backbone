@@ -1,5 +1,4 @@
-Arthonia sordaria Körb. SPECIES
-=======
+# Arthonia sordaria Körb. SPECIES
 
 #### Status
 ACCEPTED

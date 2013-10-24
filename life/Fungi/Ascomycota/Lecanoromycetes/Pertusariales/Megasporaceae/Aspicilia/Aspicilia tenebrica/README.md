@@ -1,5 +1,4 @@
-Aspicilia tenebrica (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia tenebrica (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

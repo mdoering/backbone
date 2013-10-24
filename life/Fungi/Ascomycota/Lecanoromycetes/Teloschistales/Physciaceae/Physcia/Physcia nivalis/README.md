@@ -1,5 +1,4 @@
-Physcia nivalis DC. SPECIES
-=======
+# Physcia nivalis DC. SPECIES
 
 #### Status
 ACCEPTED

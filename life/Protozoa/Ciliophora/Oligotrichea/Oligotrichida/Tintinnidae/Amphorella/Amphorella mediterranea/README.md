@@ -1,5 +1,4 @@
-Amphorella mediterranea Mereschkowsky SPECIES
-=======
+# Amphorella mediterranea Mereschkowsky SPECIES
 
 #### Status
 ACCEPTED

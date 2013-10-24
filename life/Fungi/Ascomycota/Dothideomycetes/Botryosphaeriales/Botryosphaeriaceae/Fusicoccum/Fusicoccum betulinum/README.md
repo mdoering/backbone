@@ -1,5 +1,4 @@
-Fusicoccum betulinum Laubert SPECIES
-=======
+# Fusicoccum betulinum Laubert SPECIES
 
 #### Status
 ACCEPTED

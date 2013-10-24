@@ -1,5 +1,4 @@
-Schizotrichum McAlpine GENUS
-=======
+# Schizotrichum McAlpine GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum hypochnoides (Corda) Bonord. SPECIES
-=======
+# Rhinotrichum hypochnoides (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

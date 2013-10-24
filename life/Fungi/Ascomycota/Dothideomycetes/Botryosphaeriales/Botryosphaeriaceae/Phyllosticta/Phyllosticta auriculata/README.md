@@ -1,5 +1,4 @@
-Phyllosticta auriculata Kalchbr. & Cooke SPECIES
-=======
+# Phyllosticta auriculata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

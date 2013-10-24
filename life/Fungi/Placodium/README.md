@@ -1,5 +1,4 @@
-Placodium Hill, 1773 GENUS
-=======
+# Placodium Hill, 1773 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta glynneae Sawada SPECIES
-=======
+# Phyllosticta glynneae Sawada SPECIES
 
 #### Status
 ACCEPTED

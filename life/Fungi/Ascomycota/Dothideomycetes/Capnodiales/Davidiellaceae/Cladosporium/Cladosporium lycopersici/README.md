@@ -1,5 +1,4 @@
-Cladosporium lycopersici Plowr. SPECIES
-=======
+# Cladosporium lycopersici Plowr. SPECIES
 
 #### Status
 ACCEPTED

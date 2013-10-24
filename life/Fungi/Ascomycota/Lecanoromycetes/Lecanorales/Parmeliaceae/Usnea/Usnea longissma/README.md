@@ -1,5 +1,4 @@
-Usnea longissma Ach. SPECIES
-=======
+# Usnea longissma Ach. SPECIES
 
 #### Status
 ACCEPTED

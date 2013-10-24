@@ -1,5 +1,4 @@
-Lecanora phryganitis Tuck. SPECIES
-=======
+# Lecanora phryganitis Tuck. SPECIES
 
 #### Status
 ACCEPTED

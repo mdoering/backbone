@@ -1,5 +1,4 @@
-Phyllachora melastomatis (Kunze ex Fr.) Sacc., 1883 SPECIES
-=======
+# Phyllachora melastomatis (Kunze ex Fr.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

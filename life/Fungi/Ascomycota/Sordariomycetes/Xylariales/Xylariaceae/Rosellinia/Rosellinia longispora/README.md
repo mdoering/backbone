@@ -1,5 +1,4 @@
-Rosellinia longispora Rick, 1932 SPECIES
-=======
+# Rosellinia longispora Rick, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vampyrellidium pallidum Zopf SPECIES
-=======
+# Vampyrellidium pallidum Zopf SPECIES
 
 #### Status
 ACCEPTED

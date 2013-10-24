@@ -1,5 +1,4 @@
-Agaricus phosphorus Berk. SPECIES
-=======
+# Agaricus phosphorus Berk. SPECIES
 
 #### Status
 ACCEPTED

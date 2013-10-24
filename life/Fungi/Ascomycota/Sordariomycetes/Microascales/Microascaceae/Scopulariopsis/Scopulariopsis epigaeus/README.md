@@ -1,5 +1,4 @@
-Scopulariopsis epigaeus (Motta) Coudert SPECIES
-=======
+# Scopulariopsis epigaeus (Motta) Coudert SPECIES
 
 #### Status
 ACCEPTED

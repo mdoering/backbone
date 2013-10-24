@@ -1,5 +1,4 @@
-Sarcinella bignoniacearum Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
-=======
+# Sarcinella bignoniacearum Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

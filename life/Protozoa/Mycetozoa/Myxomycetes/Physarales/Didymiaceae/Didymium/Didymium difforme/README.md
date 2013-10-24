@@ -1,17 +1,16 @@
-Didymium difforme var. repandum G. Lister VARIETY
-=======
+# Didymium difforme (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 59: 91 (1921)
+Nat. Arr. Brit. Pl. (London) 1: 571 (1821)
 
 #### Original name
-Didymium difforme var. repandum G. Lister
+Diderma difforme Pers., 1797
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Saccharomyces microspora Hansf. SPECIES
-=======
+# Saccharomyces microspora Hansf. SPECIES
 
 #### Status
 ACCEPTED

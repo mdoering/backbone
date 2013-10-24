@@ -1,5 +1,4 @@
-Peniophora oxydata (Rick) Rick SPECIES
-=======
+# Peniophora oxydata (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

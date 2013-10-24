@@ -1,5 +1,4 @@
-Clathrus treubii Lloyd SPECIES
-=======
+# Clathrus treubii Lloyd SPECIES
 
 #### Status
 ACCEPTED

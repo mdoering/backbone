@@ -1,5 +1,4 @@
-Asterostroma fulvum Romell SPECIES
-=======
+# Asterostroma fulvum Romell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia elongata Thaxt. SPECIES
-=======
+# Laboulbenia elongata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

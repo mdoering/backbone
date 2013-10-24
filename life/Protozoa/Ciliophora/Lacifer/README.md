@@ -1,5 +1,4 @@
-Lacifer Yankovskij, 1979 GENUS
-=======
+# Lacifer Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus martynii Dennis SPECIES
-=======
+# Marasmiellus martynii Dennis SPECIES
 
 #### Status
 ACCEPTED

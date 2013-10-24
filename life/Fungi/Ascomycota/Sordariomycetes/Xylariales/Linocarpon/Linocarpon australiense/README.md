@@ -1,5 +1,4 @@
-Linocarpon australiense K.D. Hyde SPECIES
-=======
+# Linocarpon australiense K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

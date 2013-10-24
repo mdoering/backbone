@@ -1,5 +1,4 @@
-Globoturborotalita Hofker, 1976 GENUS
-=======
+# Globoturborotalita Hofker, 1976 GENUS
 
 #### Status
 ACCEPTED

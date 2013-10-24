@@ -1,5 +1,4 @@
-Polyblastia obscurata SPECIES
-=======
+# Polyblastia obscurata SPECIES
 
 #### Status
 ACCEPTED

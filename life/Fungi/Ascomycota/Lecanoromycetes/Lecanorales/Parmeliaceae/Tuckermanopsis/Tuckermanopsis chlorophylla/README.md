@@ -1,14 +1,13 @@
-Platysma chlorophyllum (Willd.) Vain. SPECIES
-=======
+# Tuckermanopsis chlorophylla (Willd.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 6: 121 (1881)
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
 Lichen chlorophyllus Willd.

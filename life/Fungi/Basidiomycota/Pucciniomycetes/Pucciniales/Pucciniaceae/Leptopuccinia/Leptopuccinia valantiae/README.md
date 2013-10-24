@@ -1,5 +1,4 @@
-Leptopuccinia valantiae (Pers.) Syd. SPECIES
-=======
+# Leptopuccinia valantiae (Pers.) Syd. SPECIES
 
 #### Status
 ACCEPTED

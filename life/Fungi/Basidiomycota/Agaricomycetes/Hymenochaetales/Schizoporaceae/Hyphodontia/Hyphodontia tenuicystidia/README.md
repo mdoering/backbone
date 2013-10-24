@@ -1,17 +1,16 @@
-Xylodon tenuicystidius (Hjortstam & Ryvarden) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia tenuicystidia Hjortstam & Ryvarden, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 558 (1986)
 
 #### Original name
-null
+Hyphodontia tenuicystidia Hjortstam & Ryvarden, 1987
 
 ### Remarks
 null

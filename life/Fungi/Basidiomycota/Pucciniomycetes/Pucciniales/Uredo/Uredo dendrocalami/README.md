@@ -1,5 +1,4 @@
-Uredo dendrocalami Petch SPECIES
-=======
+# Uredo dendrocalami Petch SPECIES
 
 #### Status
 ACCEPTED

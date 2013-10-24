@@ -1,5 +1,4 @@
-Uromyces dietelianus Pazschke SPECIES
-=======
+# Uromyces dietelianus Pazschke SPECIES
 
 #### Status
 ACCEPTED

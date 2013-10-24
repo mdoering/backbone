@@ -1,5 +1,4 @@
-Rhizocarpon parapetraeum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon parapetraeum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

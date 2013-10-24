@@ -1,5 +1,4 @@
-Protaspis obliqua Larsen & Patterson, 1990 SPECIES
-=======
+# Protaspis obliqua Larsen & Patterson, 1990 SPECIES
 
 #### Status
 DOUBTFUL

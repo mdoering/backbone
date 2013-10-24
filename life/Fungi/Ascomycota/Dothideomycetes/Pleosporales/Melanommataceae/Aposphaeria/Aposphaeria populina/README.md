@@ -1,5 +1,4 @@
-Aposphaeria populina Died., 1912 SPECIES
-=======
+# Aposphaeria populina Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

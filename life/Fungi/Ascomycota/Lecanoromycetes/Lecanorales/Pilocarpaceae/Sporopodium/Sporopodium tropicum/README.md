@@ -1,5 +1,4 @@
-Sporopodium tropicum J. Hedrick SPECIES
-=======
+# Sporopodium tropicum J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

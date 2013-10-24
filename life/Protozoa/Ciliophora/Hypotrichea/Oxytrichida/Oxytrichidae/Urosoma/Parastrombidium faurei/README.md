@@ -1,5 +1,4 @@
-Parastrombidium faurei (Kahl, 1932) Maeda, 1986 SPECIES
-=======
+# Parastrombidium faurei (Kahl, 1932) Maeda, 1986 SPECIES
 
 #### Status
 DOUBTFUL

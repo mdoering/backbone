@@ -1,5 +1,4 @@
-Rhizophydium tubulatum S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium tubulatum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

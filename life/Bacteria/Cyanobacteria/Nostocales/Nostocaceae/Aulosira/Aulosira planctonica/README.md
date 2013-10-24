@@ -1,5 +1,4 @@
-Aulosira planctonica Elenkin SPECIES
-=======
+# Aulosira planctonica Elenkin SPECIES
 
 #### Status
 ACCEPTED

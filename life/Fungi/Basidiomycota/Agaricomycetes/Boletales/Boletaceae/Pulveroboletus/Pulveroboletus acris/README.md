@@ -1,5 +1,4 @@
-Pulveroboletus acris Heinem. SPECIES
-=======
+# Pulveroboletus acris Heinem. SPECIES
 
 #### Status
 ACCEPTED

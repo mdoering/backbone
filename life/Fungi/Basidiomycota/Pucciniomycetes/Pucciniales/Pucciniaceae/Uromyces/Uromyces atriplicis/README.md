@@ -1,5 +1,4 @@
-Uromyces atriplicis McAlpine SPECIES
-=======
+# Uromyces atriplicis McAlpine SPECIES
 
 #### Status
 ACCEPTED

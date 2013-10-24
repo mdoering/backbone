@@ -1,5 +1,4 @@
-Microcoleus salinus (Kützing) Montagne SPECIES
-=======
+# Microcoleus salinus (Kützing) Montagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella bisbyi (B. Sutton) S. Hughes SPECIES
-=======
+# Endophragmiella bisbyi (B. Sutton) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

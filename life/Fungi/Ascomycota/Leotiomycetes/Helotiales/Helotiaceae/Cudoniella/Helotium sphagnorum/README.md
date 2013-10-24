@@ -1,5 +1,4 @@
-Helotium sphagnorum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium sphagnorum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplanes ozeensis Kobayasi SPECIES
-=======
+# Aplanes ozeensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Otomyces Wreden, 1874 GENUS
-=======
+# Aspergillus E.M. Fries, 1832 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 13: 16 (1809)
 
 #### Original name
-Otomyces Wreden, 1874
+Aspergillus E.M. Fries, 1832
 
 ### Remarks
 null

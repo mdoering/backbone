@@ -1,5 +1,4 @@
-Thalmannammina Pokorny, 1951 GENUS
-=======
+# Thalmannammina Pokorny, 1951 GENUS
 
 #### Status
 ACCEPTED

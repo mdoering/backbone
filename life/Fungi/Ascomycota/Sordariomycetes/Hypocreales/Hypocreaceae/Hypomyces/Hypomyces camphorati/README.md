@@ -1,5 +1,4 @@
-Hypomyces camphorati Peck SPECIES
-=======
+# Hypomyces camphorati Peck SPECIES
 
 #### Status
 ACCEPTED

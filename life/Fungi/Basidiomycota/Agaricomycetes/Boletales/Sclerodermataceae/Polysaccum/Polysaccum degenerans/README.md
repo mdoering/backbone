@@ -1,5 +1,4 @@
-Polysaccum degenerans Fr. SPECIES
-=======
+# Polysaccum degenerans Fr. SPECIES
 
 #### Status
 ACCEPTED

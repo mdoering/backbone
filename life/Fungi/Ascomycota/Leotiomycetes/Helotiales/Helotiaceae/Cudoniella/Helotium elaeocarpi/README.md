@@ -1,5 +1,4 @@
-Helotium elaeocarpi Dennis, 1961 SPECIES
-=======
+# Helotium elaeocarpi Dennis, 1961 SPECIES
 
 #### Status
 ACCEPTED

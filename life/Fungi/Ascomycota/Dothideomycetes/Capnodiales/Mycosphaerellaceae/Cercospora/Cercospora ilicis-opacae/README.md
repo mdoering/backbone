@@ -1,5 +1,4 @@
-Cercospora ilicis-opacae Chupp SPECIES
-=======
+# Cercospora ilicis-opacae Chupp SPECIES
 
 #### Status
 ACCEPTED

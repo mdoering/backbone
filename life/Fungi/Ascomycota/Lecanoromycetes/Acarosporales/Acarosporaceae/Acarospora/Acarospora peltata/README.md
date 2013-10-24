@@ -1,5 +1,4 @@
-Acarospora peltata Hasse SPECIES
-=======
+# Acarospora peltata Hasse SPECIES
 
 #### Status
 ACCEPTED

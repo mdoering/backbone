@@ -1,5 +1,4 @@
-Lecidea hilariella Vain. SPECIES
-=======
+# Lecidea hilariella Vain. SPECIES
 
 #### Status
 ACCEPTED

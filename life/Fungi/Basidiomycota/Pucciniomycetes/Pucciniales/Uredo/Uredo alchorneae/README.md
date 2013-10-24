@@ -1,5 +1,4 @@
-Uredo alchorneae Henn. SPECIES
-=======
+# Uredo alchorneae Henn. SPECIES
 
 #### Status
 ACCEPTED

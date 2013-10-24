@@ -1,5 +1,4 @@
-Spiniferopsis He, 1984 GENUS
-=======
+# Spiniferopsis He, 1984 GENUS
 
 #### Status
 ACCEPTED

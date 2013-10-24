@@ -1,5 +1,4 @@
-Ustilago nakanishikii Henn. SPECIES
-=======
+# Ustilago nakanishikii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium rosae-omeiensis S.X. Wei SPECIES
-=======
+# Phragmidium rosae-omeiensis S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

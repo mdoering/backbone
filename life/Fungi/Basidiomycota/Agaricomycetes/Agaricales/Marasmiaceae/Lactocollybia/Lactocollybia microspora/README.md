@@ -1,5 +1,4 @@
-Lactocollybia microspora Singer, 1962 SPECIES
-=======
+# Lactocollybia microspora Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED

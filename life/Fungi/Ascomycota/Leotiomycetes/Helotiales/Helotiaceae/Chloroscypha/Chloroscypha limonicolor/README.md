@@ -1,5 +1,4 @@
-Chloroscypha limonicolor (Bres.) Dennis SPECIES
-=======
+# Chloroscypha limonicolor (Bres.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon silvaticum Wettst. SPECIES
-=======
+# Lycoperdon silvaticum Wettst. SPECIES
 
 #### Status
 ACCEPTED

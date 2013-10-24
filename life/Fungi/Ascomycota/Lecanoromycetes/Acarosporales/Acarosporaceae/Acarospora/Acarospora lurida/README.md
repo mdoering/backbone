@@ -1,5 +1,4 @@
-Acarospora lurida H. Magn. SPECIES
-=======
+# Acarospora lurida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

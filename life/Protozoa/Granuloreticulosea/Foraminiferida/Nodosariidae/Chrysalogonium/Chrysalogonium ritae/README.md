@@ -1,5 +1,4 @@
-Chrysalogonium ritae SPECIES
-=======
+# Chrysalogonium ritae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton chosenicum Takah. {?} SPECIES
-=======
+# Trichophyton chosenicum Takah. {?} SPECIES
 
 #### Status
 ACCEPTED

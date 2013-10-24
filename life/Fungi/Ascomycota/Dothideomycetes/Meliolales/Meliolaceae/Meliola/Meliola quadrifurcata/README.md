@@ -1,5 +1,4 @@
-Meliola quadrifurcata Rehm SPECIES
-=======
+# Meliola quadrifurcata Rehm SPECIES
 
 #### Status
 ACCEPTED

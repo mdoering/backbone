@@ -1,5 +1,4 @@
-Palaeoperidinium granulatum C. Singh SPECIES
-=======
+# Palaeoperidinium granulatum C. Singh SPECIES
 
 #### Status
 ACCEPTED

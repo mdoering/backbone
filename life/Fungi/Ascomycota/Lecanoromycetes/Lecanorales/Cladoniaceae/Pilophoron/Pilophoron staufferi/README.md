@@ -1,5 +1,4 @@
-Pilophoron staufferi M. Satô SPECIES
-=======
+# Pilophoron staufferi M. Satô SPECIES
 
 #### Status
 ACCEPTED

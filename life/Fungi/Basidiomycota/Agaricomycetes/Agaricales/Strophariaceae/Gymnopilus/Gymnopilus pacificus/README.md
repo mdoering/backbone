@@ -1,5 +1,4 @@
-Gymnopilus pacificus Hesler SPECIES
-=======
+# Gymnopilus pacificus Hesler SPECIES
 
 #### Status
 ACCEPTED

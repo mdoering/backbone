@@ -1,5 +1,4 @@
-Septoria epigejos Thüm. SPECIES
-=======
+# Septoria epigejos Thüm. SPECIES
 
 #### Status
 ACCEPTED

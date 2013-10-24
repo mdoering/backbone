@@ -1,5 +1,4 @@
-Dichaena corylea Fr. SPECIES
-=======
+# Dichaena corylea Fr. SPECIES
 
 #### Status
 ACCEPTED

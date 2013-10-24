@@ -1,5 +1,4 @@
-Amanita perniciosa Lam. SPECIES
-=======
+# Amanita perniciosa Lam. SPECIES
 
 #### Status
 ACCEPTED

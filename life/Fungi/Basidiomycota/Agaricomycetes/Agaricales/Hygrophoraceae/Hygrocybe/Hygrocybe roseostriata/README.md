@@ -1,5 +1,4 @@
-Hygrocybe roseostriata (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe roseostriata (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus necans Massee SPECIES
-=======
+# Rhizopus necans Massee SPECIES
 
 #### Status
 ACCEPTED

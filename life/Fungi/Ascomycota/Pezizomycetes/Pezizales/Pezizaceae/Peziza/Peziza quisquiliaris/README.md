@@ -1,5 +1,4 @@
-Peziza quisquiliaris P. Karst. SPECIES
-=======
+# Peziza quisquiliaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

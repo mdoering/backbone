@@ -1,14 +1,13 @@
-Endophyllum emasculatum Arthur & Cummins, 1937 SPECIES
-=======
+# Dietelia emasculata (Arthur & Cummins) Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 61: 475 (1937)
+Fl. Neotrop. , Monogr. 24: 18 (1980)
 
 #### Original name
 Endophyllum emasculatum Arthur & Cummins, 1937

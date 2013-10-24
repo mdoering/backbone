@@ -1,5 +1,4 @@
-Epistylis colisarum SPECIES
-=======
+# Epistylis colisarum SPECIES
 
 #### Status
 ACCEPTED

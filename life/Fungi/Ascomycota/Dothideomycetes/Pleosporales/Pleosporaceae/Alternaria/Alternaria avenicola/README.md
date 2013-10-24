@@ -1,5 +1,4 @@
-Alternaria avenicola E.G. Simmons SPECIES
-=======
+# Alternaria avenicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

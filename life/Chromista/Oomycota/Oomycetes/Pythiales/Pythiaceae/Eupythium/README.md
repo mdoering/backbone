@@ -1,5 +1,4 @@
-Eupythium GENUS
-=======
+# Eupythium GENUS
 
 #### Status
 ACCEPTED

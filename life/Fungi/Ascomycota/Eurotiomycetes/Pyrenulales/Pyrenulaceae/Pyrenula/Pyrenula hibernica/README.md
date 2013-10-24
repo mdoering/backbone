@@ -1,14 +1,13 @@
-Nephroma lusitanicum f. hibernicum (Nyl.) R. Sant. FORM
-=======
+# Pyrenula hibernica (Nyl.) Aptroot & Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Etayo & Aptroot, Lichenologist 35(3): 235 (2003)
 
 #### Original name
 Verrucaria hibernica Servít

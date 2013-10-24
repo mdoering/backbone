@@ -1,5 +1,4 @@
-Harpakter G.J.Burch GENUS
-=======
+# Harpakter G.J.Burch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia hypoclistoides SPECIES
-=======
+# Parmelia hypoclistoides SPECIES
 
 #### Status
 ACCEPTED

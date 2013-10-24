@@ -1,5 +1,4 @@
-Medusomyces gisevii J. Lindau SPECIES
-=======
+# Medusomyces gisevii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

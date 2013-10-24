@@ -1,5 +1,4 @@
-Tapesia ochroleuca Velen. SPECIES
-=======
+# Tapesia ochroleuca Velen. SPECIES
 
 #### Status
 ACCEPTED

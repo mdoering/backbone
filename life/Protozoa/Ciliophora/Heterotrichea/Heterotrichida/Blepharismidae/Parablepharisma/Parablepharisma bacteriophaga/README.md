@@ -1,5 +1,4 @@
-Parablepharisma bacteriophaga Villeneuve-Brachon, 1940 SPECIES
-=======
+# Parablepharisma bacteriophaga Villeneuve-Brachon, 1940 SPECIES
 
 #### Status
 ACCEPTED

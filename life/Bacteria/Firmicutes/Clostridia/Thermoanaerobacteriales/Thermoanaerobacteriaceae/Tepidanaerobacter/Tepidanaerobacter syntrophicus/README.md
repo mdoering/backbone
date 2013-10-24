@@ -1,5 +1,4 @@
-Tepidanaerobacter syntrophicus Sekiguchi et al., 2006 SPECIES
-=======
+# Tepidanaerobacter syntrophicus Sekiguchi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

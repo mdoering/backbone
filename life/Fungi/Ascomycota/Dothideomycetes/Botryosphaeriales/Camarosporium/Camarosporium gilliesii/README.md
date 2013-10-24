@@ -1,5 +1,4 @@
-Camarosporium gilliesii Gucevic SPECIES
-=======
+# Camarosporium gilliesii Gucevic SPECIES
 
 #### Status
 ACCEPTED

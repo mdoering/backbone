@@ -1,17 +1,16 @@
-Triblidium pandani Pat., 1906 SPECIES
-=======
+# Aulacostroma magnesii Inácio & Minter, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+IMI Descr. Fungi Bact. 145(nos 1441-1450): [15] (2002)
 
 #### Original name
-null
+Triblidium pandani Pat.
 
 ### Remarks
 null

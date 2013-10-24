@@ -1,5 +1,4 @@
-Mitoplistophora Codreanu GENUS
-=======
+# Mitoplistophora Codreanu GENUS
 
 #### Status
 ACCEPTED

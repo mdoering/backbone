@@ -1,5 +1,4 @@
-Buellia diorista (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia diorista (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

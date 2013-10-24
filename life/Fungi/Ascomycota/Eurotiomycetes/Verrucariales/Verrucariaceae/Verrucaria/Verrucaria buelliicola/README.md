@@ -1,5 +1,4 @@
-Verrucaria buelliicola P. M. McCarthy SPECIES
-=======
+# Verrucaria buelliicola P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

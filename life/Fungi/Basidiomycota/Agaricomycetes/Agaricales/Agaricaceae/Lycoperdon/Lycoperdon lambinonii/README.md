@@ -1,17 +1,16 @@
-Lycoperdon lambinonii var. quercetorum Kreisel, 1976 VARIETY
-=======
+# Lycoperdon lambinonii Demoulin, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. , Sp. Nov. , Beih. 87(1-2): 99 (1976)
+Lejeunia, n. s. 62: 13 (1972)
 
 #### Original name
-Lycoperdon lambinonii var. quercetorum Kreisel, 1976
+Lycoperdon lambinonii Demoulin, 1972
 
 ### Remarks
 null

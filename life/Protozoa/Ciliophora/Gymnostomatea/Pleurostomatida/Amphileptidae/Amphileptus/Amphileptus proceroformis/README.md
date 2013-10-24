@@ -1,5 +1,4 @@
-Amphileptus proceroformis Song & Wilbert SPECIES
-=======
+# Amphileptus proceroformis Song & Wilbert SPECIES
 
 #### Status
 ACCEPTED

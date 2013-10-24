@@ -1,5 +1,4 @@
-Delpontia pulchella Penz. & Sacc. SPECIES
-=======
+# Delpontia pulchella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

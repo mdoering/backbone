@@ -1,17 +1,16 @@
-Physarum polycephalum subsp. polycephalum SUBSPECIES
-=======
+# Physarum polycephalum Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schr. naturf. Ges. Leipzig 1: 62 (1822)
 
 #### Original name
-null
+Physarum polycephalum Schwein., 1822
 
 ### Remarks
 null

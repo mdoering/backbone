@@ -1,5 +1,4 @@
-Gymnopilus satur Kühner SPECIES
-=======
+# Gymnopilus satur Kühner SPECIES
 
 #### Status
 ACCEPTED

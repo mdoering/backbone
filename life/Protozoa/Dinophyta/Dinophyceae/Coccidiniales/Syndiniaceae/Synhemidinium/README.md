@@ -1,5 +1,4 @@
-Synhemidinium Chatton, 1952 GENUS
-=======
+# Synhemidinium Chatton, 1952 GENUS
 
 #### Status
 ACCEPTED

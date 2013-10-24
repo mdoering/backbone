@@ -1,5 +1,4 @@
-Poria inconstans P. Karst. SPECIES
-=======
+# Poria inconstans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

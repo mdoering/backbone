@@ -1,5 +1,4 @@
-Lecidea constrictula Stirt. SPECIES
-=======
+# Lecidea constrictula Stirt. SPECIES
 
 #### Status
 ACCEPTED

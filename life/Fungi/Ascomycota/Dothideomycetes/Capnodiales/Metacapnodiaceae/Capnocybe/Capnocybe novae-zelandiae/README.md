@@ -1,5 +1,4 @@
-Capnocybe novae-zelandiae S. Hughes, 1966 SPECIES
-=======
+# Capnocybe novae-zelandiae S. Hughes, 1966 SPECIES
 
 #### Status
 ACCEPTED

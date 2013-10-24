@@ -1,5 +1,4 @@
-Hiatula luteola Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula luteola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

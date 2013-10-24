@@ -1,5 +1,4 @@
-Tyromyces perpusillus Corner SPECIES
-=======
+# Tyromyces perpusillus Corner SPECIES
 
 #### Status
 ACCEPTED

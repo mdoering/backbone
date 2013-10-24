@@ -1,5 +1,4 @@
-Pterula intermedia Dogma, 1966 SPECIES
-=======
+# Pterula intermedia Dogma, 1966 SPECIES
 
 #### Status
 ACCEPTED

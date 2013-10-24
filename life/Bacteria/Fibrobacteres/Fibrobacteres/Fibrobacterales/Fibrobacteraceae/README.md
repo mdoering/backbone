@@ -1,5 +1,4 @@
-Fibrobacteraceae FAMILY
-=======
+# Fibrobacteraceae FAMILY
 
 #### Status
 ACCEPTED

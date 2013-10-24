@@ -1,5 +1,4 @@
-Monilia diffusa Ellis & Everh. SPECIES
-=======
+# Monilia diffusa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

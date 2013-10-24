@@ -1,5 +1,4 @@
-Lyngbya pellucida I. Umezaki SPECIES
-=======
+# Lyngbya pellucida I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

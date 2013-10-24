@@ -1,5 +1,4 @@
-Phyllachora globispora Speg., 1909 SPECIES
-=======
+# Phyllachora globispora Speg., 1909 SPECIES
 
 #### Status
 DOUBTFUL

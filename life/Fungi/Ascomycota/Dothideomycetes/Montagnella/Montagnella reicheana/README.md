@@ -1,5 +1,4 @@
-Montagnella reicheana Henn. SPECIES
-=======
+# Montagnella reicheana Henn. SPECIES
 
 #### Status
 ACCEPTED

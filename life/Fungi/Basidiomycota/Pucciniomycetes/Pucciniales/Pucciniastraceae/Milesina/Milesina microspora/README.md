@@ -1,5 +1,4 @@
-Milesina microspora Hirats. SPECIES
-=======
+# Milesina microspora Hirats. SPECIES
 
 #### Status
 ACCEPTED

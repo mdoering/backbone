@@ -1,5 +1,4 @@
-Nolanea staritzii Henn. SPECIES
-=======
+# Nolanea staritzii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia syringae Oudem. SPECIES
-=======
+# Vermicularia syringae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces albus P. Crouan & H. Crouan SPECIES
-=======
+# Hypomyces albus P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

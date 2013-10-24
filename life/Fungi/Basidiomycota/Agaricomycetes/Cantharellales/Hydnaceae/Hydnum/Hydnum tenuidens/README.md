@@ -1,5 +1,4 @@
-Hydnum tenuidens Rick SPECIES
-=======
+# Hydnum tenuidens Rick SPECIES
 
 #### Status
 ACCEPTED

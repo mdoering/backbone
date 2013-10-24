@@ -1,5 +1,4 @@
-Boletus viscosus A. Venturi SPECIES
-=======
+# Boletus viscosus A. Venturi SPECIES
 
 #### Status
 ACCEPTED

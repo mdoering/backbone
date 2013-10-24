@@ -1,5 +1,4 @@
-Pseudodiaporthe GENUS
-=======
+# Pseudodiaporthe GENUS
 
 #### Status
 ACCEPTED

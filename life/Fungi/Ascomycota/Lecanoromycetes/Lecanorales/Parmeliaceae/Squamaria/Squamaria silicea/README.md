@@ -1,5 +1,4 @@
-Squamaria silicea f. silicea FORM
-=======
+# Squamaria silicea Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria silicea f. silicea
+Squamaria silicea Gyeln.
 
 ### Remarks
 null

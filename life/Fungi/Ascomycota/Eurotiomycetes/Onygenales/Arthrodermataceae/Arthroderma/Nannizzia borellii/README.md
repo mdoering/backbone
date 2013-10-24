@@ -1,14 +1,13 @@
-Arthroderma borellii (Moraes, A.A. Padhye & Ajello) A.A. Padhye, Weitzman, McGinnis & Ajello, 1986 SPECIES
-=======
+# Nannizzia borellii Moraes, A.A. Padhye & Ajello, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Weitzman, Mycotaxon 25(2): 513 (1986)
+Mycologia 67(6): 1112 (1976)
 
 #### Original name
 Nannizzia borellii Moraes, A.A. Padhye & Ajello, 1976

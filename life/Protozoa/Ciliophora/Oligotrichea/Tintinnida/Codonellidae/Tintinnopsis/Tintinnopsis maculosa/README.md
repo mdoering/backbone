@@ -1,5 +1,4 @@
-Tintinnopsis maculosa Mansfeld, 1923 SPECIES
-=======
+# Tintinnopsis maculosa Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

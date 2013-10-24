@@ -1,17 +1,16 @@
-Malmgrenia laatokkaënsis Vain. SPECIES
-=======
+# Malmgrenia laatokkensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 12(1): (1939)
 
 #### Original name
-Malmgrenia laatokkaënsis Vain.
+Malmgrenia laatokkensis Vain.
 
 ### Remarks
 null

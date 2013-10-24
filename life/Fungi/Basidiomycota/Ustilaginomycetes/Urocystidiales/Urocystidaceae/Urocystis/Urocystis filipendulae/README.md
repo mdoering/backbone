@@ -1,17 +1,16 @@
-Tuburcinia filipendulae (Tul. & C. Tul.) Liro, 1922 SPECIES
-=======
+# Urocystis filipendulae (Tul. & C. Tul.) J. Schröt., 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 87 (1922)
+Ann. Rep. Nat. Mus. Canada, 1952-53 48: 7 (1870)
 
 #### Original name
-Polycystis filipendulae Tul. & C. Tul., 1854
+Urocystis filipendulae (Tul. & C. Tul.) J. Schröt., 1870
 
 ### Remarks
 null

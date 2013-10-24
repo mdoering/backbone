@@ -1,5 +1,4 @@
-Rinodina ascociscana (Tuck.) Tuck. SPECIES
-=======
+# Rinodina ascociscana (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

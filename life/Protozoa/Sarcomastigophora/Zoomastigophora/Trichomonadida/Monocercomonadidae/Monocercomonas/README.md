@@ -1,17 +1,16 @@
-Eutrichomastix Kofoid & Swezy, 1915 GENUS
-=======
+# Monocercomonas Grassi, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Proc. Amer. Acad. Arts Sci. , 51, 344, 345.
+Gazzetta Med. Ital. Lombard, 39, no. 45, 446.
 
 #### Original name
-Trichomastix
+null
 
 ### Remarks
 null

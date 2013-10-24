@@ -1,5 +1,4 @@
-Echinoplaca diffluens (Müll. Arg.) R. Sant. SPECIES
-=======
+# Echinoplaca diffluens (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

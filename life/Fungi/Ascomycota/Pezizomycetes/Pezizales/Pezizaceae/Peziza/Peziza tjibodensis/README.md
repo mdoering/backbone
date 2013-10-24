@@ -1,5 +1,4 @@
-Peziza tjibodensis (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Peziza tjibodensis (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

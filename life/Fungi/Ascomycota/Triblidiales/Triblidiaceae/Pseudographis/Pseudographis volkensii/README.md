@@ -1,5 +1,4 @@
-Pseudographis volkensii Henn. SPECIES
-=======
+# Pseudographis volkensii Henn. SPECIES
 
 #### Status
 ACCEPTED

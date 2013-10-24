@@ -1,5 +1,4 @@
-Junghuhnia chlamydospora Ryvarden SPECIES
-=======
+# Junghuhnia chlamydospora Ryvarden SPECIES
 
 #### Status
 ACCEPTED

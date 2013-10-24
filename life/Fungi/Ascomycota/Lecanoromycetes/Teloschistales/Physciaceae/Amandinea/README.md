@@ -1,5 +1,4 @@
-Amandinea M. Choisy ex Scheidegger & M. Mayrhofer, 1993 GENUS
-=======
+# Amandinea M. Choisy ex Scheidegger & M. Mayrhofer, 1993 GENUS
 
 #### Status
 ACCEPTED

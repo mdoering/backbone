@@ -1,5 +1,4 @@
-Rhysotheca australis (Speg.) G.W. Wilson SPECIES
-=======
+# Rhysotheca australis (Speg.) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

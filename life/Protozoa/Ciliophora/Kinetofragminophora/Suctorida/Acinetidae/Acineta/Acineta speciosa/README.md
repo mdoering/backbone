@@ -1,5 +1,4 @@
-Acineta speciosa Maskell, 1887 SPECIES
-=======
+# Acineta speciosa Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

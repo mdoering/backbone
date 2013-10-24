@@ -1,5 +1,4 @@
-Lecidea parva H. Magn. SPECIES
-=======
+# Lecidea parva H. Magn. SPECIES
 
 #### Status
 ACCEPTED

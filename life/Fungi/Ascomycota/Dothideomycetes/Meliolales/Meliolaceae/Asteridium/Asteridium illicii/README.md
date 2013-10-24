@@ -1,5 +1,4 @@
-Asteridium illicii Tracy & Earle SPECIES
-=======
+# Asteridium illicii Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

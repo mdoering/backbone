@@ -1,5 +1,4 @@
-Amanita subvolvata C.S. Bi SPECIES
-=======
+# Amanita subvolvata C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

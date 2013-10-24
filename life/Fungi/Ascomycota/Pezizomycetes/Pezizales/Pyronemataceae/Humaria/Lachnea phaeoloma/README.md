@@ -1,5 +1,4 @@
-Lachnea phaeoloma (Wallr.) Sacc. SPECIES
-=======
+# Lachnea phaeoloma (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

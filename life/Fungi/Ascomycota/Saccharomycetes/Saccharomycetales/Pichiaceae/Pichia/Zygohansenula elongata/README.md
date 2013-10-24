@@ -1,5 +1,4 @@
-Zygohansenula elongata Krassiln. SPECIES
-=======
+# Zygohansenula elongata Krassiln. SPECIES
 
 #### Status
 ACCEPTED

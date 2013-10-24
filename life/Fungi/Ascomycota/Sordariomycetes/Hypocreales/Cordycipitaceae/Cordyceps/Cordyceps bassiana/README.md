@@ -1,5 +1,4 @@
-Cordyceps bassiana Z.Z. Li, C.R. Li, B. Huang & M.Z. Fan SPECIES
-=======
+# Cordyceps bassiana Z.Z. Li, C.R. Li, B. Huang & M.Z. Fan SPECIES
 
 #### Status
 ACCEPTED

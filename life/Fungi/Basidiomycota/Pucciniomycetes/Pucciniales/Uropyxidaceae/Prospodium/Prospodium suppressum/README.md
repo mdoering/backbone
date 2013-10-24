@@ -1,5 +1,4 @@
-Prospodium suppressum Arthur SPECIES
-=======
+# Prospodium suppressum Arthur SPECIES
 
 #### Status
 ACCEPTED

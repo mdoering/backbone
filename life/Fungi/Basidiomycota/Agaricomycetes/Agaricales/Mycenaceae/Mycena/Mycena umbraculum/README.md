@@ -1,5 +1,4 @@
-Mycena umbraculum Klotzsch SPECIES
-=======
+# Mycena umbraculum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

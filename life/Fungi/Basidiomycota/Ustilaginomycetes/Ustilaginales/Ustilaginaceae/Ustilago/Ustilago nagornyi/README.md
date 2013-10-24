@@ -1,5 +1,4 @@
-Ustilago nagornyi Uljan. SPECIES
-=======
+# Ustilago nagornyi Uljan. SPECIES
 
 #### Status
 ACCEPTED

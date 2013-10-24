@@ -1,14 +1,13 @@
-Tubercularia mycophila Mont. & Fr. SPECIES
-=======
+# Pactilia mycophila (Mont. & Fr.) Mont. & Fr., 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Montagne, Annls Sci. Nat. , Bot. , sér. 2 8: 365 (1837)
 
 #### Original name
 Tubercularia mycophila Mont. & Fr.

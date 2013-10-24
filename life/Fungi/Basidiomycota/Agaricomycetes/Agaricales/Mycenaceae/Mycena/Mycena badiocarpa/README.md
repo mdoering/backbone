@@ -1,5 +1,4 @@
-Mycena badiocarpa Pegler SPECIES
-=======
+# Mycena badiocarpa Pegler SPECIES
 
 #### Status
 ACCEPTED

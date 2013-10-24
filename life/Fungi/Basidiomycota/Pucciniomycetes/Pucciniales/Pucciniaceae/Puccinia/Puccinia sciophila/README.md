@@ -1,5 +1,4 @@
-Puccinia sciophila Syd. SPECIES
-=======
+# Puccinia sciophila Syd. SPECIES
 
 #### Status
 ACCEPTED

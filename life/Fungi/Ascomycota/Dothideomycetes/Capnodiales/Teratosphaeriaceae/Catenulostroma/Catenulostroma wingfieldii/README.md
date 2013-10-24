@@ -1,17 +1,16 @@
-Teratosphaeria wingfieldii (Crous) Crous, 2009 SPECIES
-=======
+# Catenulostroma wingfieldii Crous, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 20: 67 (2008)
 
 #### Original name
-null
+Catenulostroma wingfieldii Crous, 2008
 
 ### Remarks
 null

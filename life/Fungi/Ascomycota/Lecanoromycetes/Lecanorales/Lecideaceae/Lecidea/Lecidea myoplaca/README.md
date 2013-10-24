@@ -1,5 +1,4 @@
-Lecidea myoplaca Zahlbr. SPECIES
-=======
+# Lecidea myoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

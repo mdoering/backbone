@@ -1,17 +1,16 @@
-Genistella microspora M. Gauthier, 1960 SPECIES
-=======
+# Gauthieromyces microsporus Lichtw., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trav. Lab. Hydrobiol. Piscic. Univ. Grenoble 50-51: 227 (1960)
+Mycotaxon 17: 213 (1983)
 
 #### Original name
-Genistella microspora M. Gauthier, 1960
+Gauthieromyces microsporus Lichtw., 1983
 
 ### Remarks
 null

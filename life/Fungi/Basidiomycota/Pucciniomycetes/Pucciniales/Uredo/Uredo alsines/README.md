@@ -1,5 +1,4 @@
-Uredo alsines Schumach. SPECIES
-=======
+# Uredo alsines Schumach. SPECIES
 
 #### Status
 ACCEPTED

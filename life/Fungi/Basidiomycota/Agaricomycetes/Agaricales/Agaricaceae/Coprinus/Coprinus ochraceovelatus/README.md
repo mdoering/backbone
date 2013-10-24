@@ -1,5 +1,4 @@
-Coprinus ochraceovelatus R.F.O. Kemp SPECIES
-=======
+# Coprinus ochraceovelatus R.F.O. Kemp SPECIES
 
 #### Status
 ACCEPTED

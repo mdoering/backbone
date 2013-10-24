@@ -1,5 +1,4 @@
-Triramulispora bulbophorum T. Matsushima SPECIES
-=======
+# Triramulispora bulbophorum T. Matsushima SPECIES
 
 #### Status
 ACCEPTED

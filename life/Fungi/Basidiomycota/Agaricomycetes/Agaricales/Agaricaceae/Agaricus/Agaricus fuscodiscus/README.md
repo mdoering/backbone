@@ -1,5 +1,4 @@
-Agaricus fuscodiscus Peck SPECIES
-=======
+# Agaricus fuscodiscus Peck SPECIES
 
 #### Status
 ACCEPTED

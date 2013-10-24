@@ -1,5 +1,4 @@
-Septogloeum propinquum (Bubák & Vleugel) Wollenw. SPECIES
-=======
+# Septogloeum propinquum (Bubák & Vleugel) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

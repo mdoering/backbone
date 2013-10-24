@@ -1,5 +1,4 @@
-Pseudocercosporella aspidii (Bres.) U. Braun SPECIES
-=======
+# Pseudocercosporella aspidii (Bres.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

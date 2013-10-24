@@ -1,5 +1,4 @@
-Chroococcus sarcinoides Huber SPECIES
-=======
+# Chroococcus sarcinoides Huber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrites sinuatus (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites sinuatus (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

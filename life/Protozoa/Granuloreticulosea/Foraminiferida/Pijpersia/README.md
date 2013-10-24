@@ -1,17 +1,16 @@
-Ruttenia Pijpers, 1933 GENUS
-=======
+# Pijpersia Thalman, 1954 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Contr. Cushman Lab. Foraminif. Res. , 9, 30.
+Contr. Cushman Fdn, 5, (4) 153.
 
 #### Original name
-Bonairea Pijpers, 1933
+Ruttenia Pijpers, 1933
 
 ### Remarks
 null

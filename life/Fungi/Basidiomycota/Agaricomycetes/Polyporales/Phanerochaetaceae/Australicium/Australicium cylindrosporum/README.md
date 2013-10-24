@@ -1,5 +1,4 @@
-Australicium cylindrosporum Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Australicium cylindrosporum Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

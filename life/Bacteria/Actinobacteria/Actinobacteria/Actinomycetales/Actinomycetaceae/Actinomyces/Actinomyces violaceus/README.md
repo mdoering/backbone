@@ -1,5 +1,4 @@
-Actinomyces violaceus SPECIES
-=======
+# Actinomyces violaceus SPECIES
 
 #### Status
 ACCEPTED

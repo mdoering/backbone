@@ -1,5 +1,4 @@
-Tubercularia saligna Alb. & Schwein. SPECIES
-=======
+# Tubercularia saligna Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

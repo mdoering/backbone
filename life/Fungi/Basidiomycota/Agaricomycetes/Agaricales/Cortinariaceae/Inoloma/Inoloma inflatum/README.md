@@ -1,5 +1,4 @@
-Inoloma inflatum Velen. SPECIES
-=======
+# Inoloma inflatum Velen. SPECIES
 
 #### Status
 ACCEPTED

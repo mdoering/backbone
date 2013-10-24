@@ -1,5 +1,4 @@
-Alternaria cardiospermi Canonaco SPECIES
-=======
+# Alternaria cardiospermi Canonaco SPECIES
 
 #### Status
 ACCEPTED

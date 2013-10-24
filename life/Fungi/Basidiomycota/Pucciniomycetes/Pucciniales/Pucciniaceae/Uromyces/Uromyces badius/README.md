@@ -1,5 +1,4 @@
-Uromyces badius Syd. & P. Syd. SPECIES
-=======
+# Uromyces badius Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

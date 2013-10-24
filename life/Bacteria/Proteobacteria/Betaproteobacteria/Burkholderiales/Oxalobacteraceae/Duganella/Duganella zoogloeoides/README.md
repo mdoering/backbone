@@ -1,5 +1,4 @@
-Duganella zoogloeoides Hiraishi et al., 1997 SPECIES
-=======
+# Duganella zoogloeoides Hiraishi et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

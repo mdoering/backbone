@@ -1,5 +1,4 @@
-Chaetomium fusiforme Chivers, 1912 SPECIES
-=======
+# Chaetomium fusiforme Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED

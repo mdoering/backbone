@@ -1,5 +1,4 @@
-Rhynchophoma retroflexa Georgescu & Badea SPECIES
-=======
+# Rhynchophoma retroflexa Georgescu & Badea SPECIES
 
 #### Status
 ACCEPTED

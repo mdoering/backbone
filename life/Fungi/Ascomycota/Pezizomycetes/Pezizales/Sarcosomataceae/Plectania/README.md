@@ -1,17 +1,16 @@
-Gloeocalyx Massee GENUS
-=======
+# Plectania Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Misc. Inf. , Kew 155 (1901)
+null
 
 #### Original name
-Gloeocalyx Massee
+null
 
 ### Remarks
 null

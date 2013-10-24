@@ -1,5 +1,4 @@
-Lecidea saubinctii Schaer. SPECIES
-=======
+# Lecidea saubinctii Schaer. SPECIES
 
 #### Status
 ACCEPTED

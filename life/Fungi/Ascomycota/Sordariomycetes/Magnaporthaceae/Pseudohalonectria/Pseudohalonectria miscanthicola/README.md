@@ -1,5 +1,4 @@
-Pseudohalonectria miscanthicola Shenoy, Jeewon & K.D. Hyde, 2005 SPECIES
-=======
+# Pseudohalonectria miscanthicola Shenoy, Jeewon & K.D. Hyde, 2005 SPECIES
 
 #### Status
 ACCEPTED

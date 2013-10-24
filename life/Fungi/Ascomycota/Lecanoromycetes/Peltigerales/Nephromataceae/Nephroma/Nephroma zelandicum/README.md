@@ -1,5 +1,4 @@
-Nephroma zelandicum Gyeln. SPECIES
-=======
+# Nephroma zelandicum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

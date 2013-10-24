@@ -1,5 +1,4 @@
-Mytilidion GENUS
-=======
+# Mytilidion GENUS
 
 #### Status
 ACCEPTED

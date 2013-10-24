@@ -1,5 +1,4 @@
-Dimeromyces hyperacanthae Thaxt. SPECIES
-=======
+# Dimeromyces hyperacanthae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

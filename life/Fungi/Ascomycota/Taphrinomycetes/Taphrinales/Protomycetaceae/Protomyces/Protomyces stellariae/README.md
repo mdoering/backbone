@@ -1,5 +1,4 @@
-Protomyces stellariae f. stellariae FORM
-=======
+# Protomyces stellariae Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protomyces stellariae f. stellariae
+Protomyces stellariae Fuckel
 
 ### Remarks
 null

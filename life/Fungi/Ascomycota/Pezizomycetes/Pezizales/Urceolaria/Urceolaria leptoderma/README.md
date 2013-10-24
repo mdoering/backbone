@@ -1,5 +1,4 @@
-Urceolaria leptoderma Motyka SPECIES
-=======
+# Urceolaria leptoderma Motyka SPECIES
 
 #### Status
 ACCEPTED

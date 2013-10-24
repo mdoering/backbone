@@ -1,5 +1,4 @@
-Triblastula O. Wetzel, 1933 GENUS
-=======
+# Triblastula O. Wetzel, 1933 GENUS
 
 #### Status
 ACCEPTED

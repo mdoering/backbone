@@ -1,5 +1,4 @@
-Clathroporina wainiana Zahlbr. SPECIES
-=======
+# Clathroporina wainiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

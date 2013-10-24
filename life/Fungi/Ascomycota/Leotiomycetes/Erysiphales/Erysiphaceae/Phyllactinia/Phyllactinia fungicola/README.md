@@ -1,5 +1,4 @@
-Phyllactinia fungicola (Schulzer) Sacc. SPECIES
-=======
+# Phyllactinia fungicola (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

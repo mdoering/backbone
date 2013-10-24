@@ -1,5 +1,4 @@
-Kazachstania hellenica Nisiotou & Nychas, 2008 SPECIES
-=======
+# Kazachstania hellenica Nisiotou & Nychas, 2008 SPECIES
 
 #### Status
 ACCEPTED

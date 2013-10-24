@@ -1,5 +1,4 @@
-Meliola heterotricha Syd. & P. Syd. SPECIES
-=======
+# Meliola heterotricha Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

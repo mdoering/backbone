@@ -1,17 +1,16 @@
-Coscinedia A. Massal. GENUS
-=======
+# Myriotrema Fée, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 257 (1860)
+Essai Crypt. Exot. (Paris) 1: xlix, 103 (1825)
 
 #### Original name
-Coscinedia A. Massal.
+Myriotrema Fée, 1824
 
 ### Remarks
 null

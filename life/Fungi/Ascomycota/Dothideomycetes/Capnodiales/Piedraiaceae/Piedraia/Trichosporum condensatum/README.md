@@ -1,5 +1,4 @@
-Trichosporum condensatum G. Cochet SPECIES
-=======
+# Trichosporum condensatum G. Cochet SPECIES
 
 #### Status
 ACCEPTED

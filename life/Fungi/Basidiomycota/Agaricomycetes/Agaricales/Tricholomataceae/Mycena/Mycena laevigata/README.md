@@ -1,5 +1,4 @@
-Mycena laevigata (Lasch Fr.) Gillet SPECIES
-=======
+# Mycena laevigata (Lasch Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

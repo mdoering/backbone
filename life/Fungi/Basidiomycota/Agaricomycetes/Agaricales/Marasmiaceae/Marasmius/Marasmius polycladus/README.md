@@ -1,5 +1,4 @@
-Marasmius polycladus Mont. SPECIES
-=======
+# Marasmius polycladus Mont. SPECIES
 
 #### Status
 ACCEPTED

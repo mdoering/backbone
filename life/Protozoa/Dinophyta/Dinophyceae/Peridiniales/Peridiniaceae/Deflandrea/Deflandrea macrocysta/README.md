@@ -1,5 +1,4 @@
-Deflandrea macrocysta Cookson & Eisenack SPECIES
-=======
+# Deflandrea macrocysta Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus subavellaneus Murrill SPECIES
-=======
+# Gymnopus subavellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

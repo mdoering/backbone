@@ -1,5 +1,4 @@
-Chrysodesmis gloeophila Starmach SPECIES
-=======
+# Chrysodesmis gloeophila Starmach SPECIES
 
 #### Status
 ACCEPTED

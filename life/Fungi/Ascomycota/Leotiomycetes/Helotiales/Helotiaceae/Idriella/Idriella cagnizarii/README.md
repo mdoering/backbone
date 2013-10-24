@@ -1,5 +1,4 @@
-Idriella cagnizarii R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Idriella cagnizarii R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

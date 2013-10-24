@@ -1,5 +1,4 @@
-Entonaema liquescens Möller SPECIES
-=======
+# Entonaema liquescens Möller SPECIES
 
 #### Status
 ACCEPTED

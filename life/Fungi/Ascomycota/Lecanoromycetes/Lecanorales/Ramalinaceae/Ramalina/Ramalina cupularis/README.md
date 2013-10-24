@@ -1,5 +1,4 @@
-Ramalina cupularis Krog & P. James SPECIES
-=======
+# Ramalina cupularis Krog & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Napicladium pusillum Cavara SPECIES
-=======
+# Napicladium pusillum Cavara SPECIES
 
 #### Status
 ACCEPTED

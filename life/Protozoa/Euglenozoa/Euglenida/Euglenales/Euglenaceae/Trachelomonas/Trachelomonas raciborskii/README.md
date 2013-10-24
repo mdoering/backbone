@@ -1,5 +1,4 @@
-Trachelomonas raciborskii var. minor Skvortzov VARIETY
-=======
+# Trachelomonas raciborskii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

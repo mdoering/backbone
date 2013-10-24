@@ -1,5 +1,4 @@
-Devriesia thermodurans N.L. Nick., Seifert & Corlett, 2004 SPECIES
-=======
+# Devriesia thermodurans N.L. Nick., Seifert & Corlett, 2004 SPECIES
 
 #### Status
 ACCEPTED

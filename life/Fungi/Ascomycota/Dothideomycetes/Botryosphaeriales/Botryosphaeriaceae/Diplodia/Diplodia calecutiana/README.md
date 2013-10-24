@@ -1,5 +1,4 @@
-Diplodia calecutiana Tassi SPECIES
-=======
+# Diplodia calecutiana Tassi SPECIES
 
 #### Status
 ACCEPTED

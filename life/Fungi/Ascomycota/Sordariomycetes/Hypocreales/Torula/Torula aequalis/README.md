@@ -1,5 +1,4 @@
-Torula aequalis Berk. & M.A. Curtis SPECIES
-=======
+# Torula aequalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna sanjosensis Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna sanjosensis Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

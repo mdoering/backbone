@@ -1,5 +1,4 @@
-Ramalina subbreviuscula Asahina SPECIES
-=======
+# Ramalina subbreviuscula Asahina SPECIES
 
 #### Status
 ACCEPTED

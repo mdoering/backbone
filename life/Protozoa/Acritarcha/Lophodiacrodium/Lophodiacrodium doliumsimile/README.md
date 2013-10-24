@@ -1,5 +1,4 @@
-Lophodiacrodium doliumsimile Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium doliumsimile Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

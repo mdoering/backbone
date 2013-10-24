@@ -1,5 +1,4 @@
-Odontotrema minor anon. SPECIES
-=======
+# Odontotrema minor anon. SPECIES
 
 #### Status
 ACCEPTED

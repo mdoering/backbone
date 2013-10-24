@@ -1,5 +1,4 @@
-Irenina cassiicola Bat. & J. Silva SPECIES
-=======
+# Irenina cassiicola Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

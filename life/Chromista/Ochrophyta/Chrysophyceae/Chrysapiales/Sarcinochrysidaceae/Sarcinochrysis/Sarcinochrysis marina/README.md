@@ -1,5 +1,4 @@
-Sarcinochrysis marina var. filamentosa C. Billard VARIETY
-=======
+# Sarcinochrysis marina Geitler SPECIES
 
 #### Status
 ACCEPTED

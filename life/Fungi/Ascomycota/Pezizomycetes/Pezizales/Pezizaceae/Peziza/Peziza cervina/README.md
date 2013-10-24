@@ -1,5 +1,4 @@
-Peziza cervina (Fuckel) Sacc. SPECIES
-=======
+# Peziza cervina (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

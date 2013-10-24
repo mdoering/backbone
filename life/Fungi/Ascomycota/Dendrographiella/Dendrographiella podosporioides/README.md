@@ -1,5 +1,4 @@
-Dendrographiella podosporioides Agnihothr., 1972 SPECIES
-=======
+# Dendrographiella podosporioides Agnihothr., 1972 SPECIES
 
 #### Status
 ACCEPTED

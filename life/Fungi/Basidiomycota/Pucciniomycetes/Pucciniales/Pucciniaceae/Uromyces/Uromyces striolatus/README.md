@@ -1,5 +1,4 @@
-Uromyces striolatus Tranzschel, 1910 SPECIES
-=======
+# Uromyces striolatus Tranzschel, 1910 SPECIES
 
 #### Status
 ACCEPTED

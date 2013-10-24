@@ -1,5 +1,4 @@
-Sporobolomyces coprophilus Sugiy. & Goto SPECIES
-=======
+# Sporobolomyces coprophilus Sugiy. & Goto SPECIES
 
 #### Status
 ACCEPTED

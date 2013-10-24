@@ -1,5 +1,4 @@
-Lingulina lagenoides Buchner, 1942 SPECIES
-=======
+# Lingulina lagenoides Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

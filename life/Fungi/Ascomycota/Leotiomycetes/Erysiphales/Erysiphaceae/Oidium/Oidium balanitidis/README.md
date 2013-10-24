@@ -1,5 +1,4 @@
-Oidium balanitidis Bagyan., Srinivasulu & C. Ramesh SPECIES
-=======
+# Oidium balanitidis Bagyan., Srinivasulu & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha abieticola Henn. & Shirai SPECIES
-=======
+# Dasyscyphus abieticola Henn. & Shirai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha abieticola Henn. & Shirai
+Dasyscyphus abieticola Henn. & Shirai
 
 ### Remarks
 null

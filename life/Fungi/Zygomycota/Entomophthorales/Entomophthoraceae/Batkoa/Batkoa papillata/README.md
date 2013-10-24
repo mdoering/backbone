@@ -1,14 +1,13 @@
-Entomophthora papillata (Thaxt.) Sacc. & Traverso, 1910 SPECIES
-=======
+# Batkoa papillata (Thaxt.) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 34(2): 446 (1989)
 
 #### Original name
 Empusa papillata Thaxt., 1888

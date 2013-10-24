@@ -1,5 +1,4 @@
-Panus murinus Bres. SPECIES
-=======
+# Panus murinus Bres. SPECIES
 
 #### Status
 ACCEPTED

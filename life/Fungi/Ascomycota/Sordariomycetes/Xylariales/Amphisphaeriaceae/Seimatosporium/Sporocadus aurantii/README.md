@@ -1,5 +1,4 @@
-Sporocadus aurantii Garov. SPECIES
-=======
+# Sporocadus aurantii Garov. SPECIES
 
 #### Status
 ACCEPTED

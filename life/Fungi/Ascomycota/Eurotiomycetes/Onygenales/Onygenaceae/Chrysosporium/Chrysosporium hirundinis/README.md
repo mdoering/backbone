@@ -1,17 +1,16 @@
-Chrysosporium hirundo Sharapov SPECIES
-=======
+# Chrysosporium hirundinis Sharapov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 15: 141 (1978)
 
 #### Original name
-Chrysosporium hirundo Sharapov
+Chrysosporium hirundinis Sharapov
 
 ### Remarks
 null

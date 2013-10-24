@@ -1,5 +1,4 @@
-Mycena caerulea Voglino SPECIES
-=======
+# Mycena caerulea Voglino SPECIES
 
 #### Status
 ACCEPTED

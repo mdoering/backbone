@@ -1,5 +1,4 @@
-Pezicula conigena (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Pezicula conigena (W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

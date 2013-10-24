@@ -1,5 +1,4 @@
-Clitocybe profundidisca H.E. Bigelow SPECIES
-=======
+# Clitocybe profundidisca H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

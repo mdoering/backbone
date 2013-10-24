@@ -1,5 +1,4 @@
-Volvariella clarkeae Grgur. SPECIES
-=======
+# Volvariella clarkeae Grgur. SPECIES
 
 #### Status
 ACCEPTED

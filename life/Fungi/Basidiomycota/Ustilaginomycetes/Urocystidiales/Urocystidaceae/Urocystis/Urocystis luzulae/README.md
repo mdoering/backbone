@@ -1,5 +1,4 @@
-Urocystis luzulae J. Schröt. SPECIES
-=======
+# Urocystis luzulae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

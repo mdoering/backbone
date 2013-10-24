@@ -1,5 +1,4 @@
-Ciboria suspecta Velen. SPECIES
-=======
+# Ciboria suspecta Velen. SPECIES
 
 #### Status
 ACCEPTED

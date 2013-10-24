@@ -1,5 +1,4 @@
-Synechococcus amethystinus J. J. Copeland SPECIES
-=======
+# Synechococcus amethystinus J. J. Copeland SPECIES
 
 #### Status
 ACCEPTED

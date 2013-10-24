@@ -1,5 +1,4 @@
-Polyporus auriculiformis Jungh. ex Lév. SPECIES
-=======
+# Polyporus auriculiformis Jungh. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

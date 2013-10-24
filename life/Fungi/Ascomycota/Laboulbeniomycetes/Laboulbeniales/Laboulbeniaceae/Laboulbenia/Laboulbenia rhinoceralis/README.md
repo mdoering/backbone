@@ -1,5 +1,4 @@
-Laboulbenia rhinoceralis Thaxt. SPECIES
-=======
+# Laboulbenia rhinoceralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

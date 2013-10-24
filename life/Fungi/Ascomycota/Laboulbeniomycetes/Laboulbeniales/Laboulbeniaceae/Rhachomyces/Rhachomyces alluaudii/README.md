@@ -1,17 +1,16 @@
-Rhachomyces alluatidi Balazuc SPECIES
-=======
+# Rhachomyces alluaudii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 38(5): 218 (1975)
 
 #### Original name
-Rhachomyces alluatidi Balazuc
+Rhachomyces alluaudii Balazuc
 
 ### Remarks
 null

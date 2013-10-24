@@ -1,5 +1,4 @@
-Cronartium opheliae (Syd. & P. Syd.) Faull SPECIES
-=======
+# Cronartium opheliae (Syd. & P. Syd.) Faull SPECIES
 
 #### Status
 ACCEPTED

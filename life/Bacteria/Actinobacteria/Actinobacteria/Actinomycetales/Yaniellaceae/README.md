@@ -1,5 +1,4 @@
-Yaniellaceae Li, Zhi & Euzeby, 2008 FAMILY
-=======
+# Yaniellaceae Li, Zhi & Euzeby, 2008 FAMILY
 
 #### Status
 ACCEPTED

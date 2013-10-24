@@ -1,5 +1,4 @@
-Phialea longipes (Cooke & Peck) Sacc. SPECIES
-=======
+# Phialea longipes (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

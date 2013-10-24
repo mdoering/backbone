@@ -1,5 +1,4 @@
-Heliophryidae FAMILY
-=======
+# Heliophryidae FAMILY
 
 #### Status
 ACCEPTED

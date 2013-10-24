@@ -1,5 +1,4 @@
-Lecidea maunakeae H. Magn. SPECIES
-=======
+# Lecidea maunakeae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

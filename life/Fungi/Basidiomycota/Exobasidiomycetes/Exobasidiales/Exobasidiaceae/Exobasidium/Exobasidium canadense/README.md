@@ -1,5 +1,4 @@
-Exobasidium canadense Savile SPECIES
-=======
+# Exobasidium canadense Savile SPECIES
 
 #### Status
 ACCEPTED

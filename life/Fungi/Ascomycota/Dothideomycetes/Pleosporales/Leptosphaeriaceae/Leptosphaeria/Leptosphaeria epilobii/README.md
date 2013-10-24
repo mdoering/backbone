@@ -1,17 +1,16 @@
-Nodulosphaeria epilobii (E. Müll.) L. Holm, 1957 SPECIES
-=======
+# Leptosphaeria epilobii E. Müll., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 14(no. 3): 91 (1957)
+Sydowia 4: 303 (1950)
 
 #### Original name
-Leptosphaeria epilobii E. Müll., 1950
+Leptosphaeria multiseptata var. alpina Rehm, 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnopus fimetarius Murrill SPECIES
-=======
+# Gymnopus fimetarius Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus aurantiobrunnellus M.A. Ismail, Abdel-Sater & Zohri SPECIES
-=======
+# Aspergillus aurantiobrunnellus M.A. Ismail, Abdel-Sater & Zohri SPECIES
 
 #### Status
 ACCEPTED

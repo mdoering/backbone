@@ -1,17 +1,16 @@
-Xylaria carpophila var. carpophila VARIETY
-=======
+# Xylaria carpophila (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
 
 #### Original name
-Xylaria carpophila var. carpophila
+Sphaeria carpophila Pers., 1796
 
 ### Remarks
 null

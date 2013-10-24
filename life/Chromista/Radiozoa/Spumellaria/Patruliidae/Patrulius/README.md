@@ -1,5 +1,4 @@
-Patrulius Dumitrica, 1989 GENUS
-=======
+# Patrulius Dumitrica, 1989 GENUS
 
 #### Status
 ACCEPTED

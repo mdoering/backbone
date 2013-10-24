@@ -1,5 +1,4 @@
-Placodium sophodes SPECIES
-=======
+# Placodium sophodes SPECIES
 
 #### Status
 ACCEPTED

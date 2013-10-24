@@ -1,17 +1,16 @@
-Parmelia xanthomyela f. xanthomyela FORM
-=======
+# Hypotrachyna endochlora (Leight.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 34 (1975)
 
 #### Original name
-Parmelia xanthomyela f. xanthomyela
+Parmelia endochlora Leight.
 
 ### Remarks
 null

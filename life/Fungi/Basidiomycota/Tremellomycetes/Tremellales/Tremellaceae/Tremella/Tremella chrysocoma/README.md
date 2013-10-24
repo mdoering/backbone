@@ -1,5 +1,4 @@
-Tremella chrysocoma Bull. SPECIES
-=======
+# Tremella chrysocoma Bull. SPECIES
 
 #### Status
 ACCEPTED

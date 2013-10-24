@@ -1,5 +1,4 @@
-Diplodina punctulata Pat. SPECIES
-=======
+# Diplodina punctulata Pat. SPECIES
 
 #### Status
 ACCEPTED

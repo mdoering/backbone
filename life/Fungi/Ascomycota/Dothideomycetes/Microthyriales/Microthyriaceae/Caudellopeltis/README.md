@@ -1,5 +1,4 @@
-Caudellopeltis GENUS
-=======
+# Caudellopeltis GENUS
 
 #### Status
 ACCEPTED

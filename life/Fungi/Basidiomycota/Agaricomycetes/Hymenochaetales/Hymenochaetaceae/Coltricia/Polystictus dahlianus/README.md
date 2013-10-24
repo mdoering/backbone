@@ -1,5 +1,4 @@
-Polystictus dahlianus Henn. SPECIES
-=======
+# Polystictus dahlianus Henn. SPECIES
 
 #### Status
 ACCEPTED

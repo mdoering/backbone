@@ -1,5 +1,4 @@
-Alternaria nelumbicola T.Y. Zhang SPECIES
-=======
+# Alternaria nelumbicola T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

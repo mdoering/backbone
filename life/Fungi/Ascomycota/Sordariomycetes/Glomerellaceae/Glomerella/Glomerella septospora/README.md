@@ -1,5 +1,4 @@
-Glomerella septospora Sivan. & W.H. Hsieh, 1993 SPECIES
-=======
+# Glomerella septospora Sivan. & W.H. Hsieh, 1993 SPECIES
 
 #### Status
 ACCEPTED

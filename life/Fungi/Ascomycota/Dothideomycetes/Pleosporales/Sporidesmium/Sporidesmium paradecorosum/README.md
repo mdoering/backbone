@@ -1,5 +1,4 @@
-Sporidesmium paradecorosum Dulym., W.P. Wu & Peerally SPECIES
-=======
+# Sporidesmium paradecorosum Dulym., W.P. Wu & Peerally SPECIES
 
 #### Status
 ACCEPTED

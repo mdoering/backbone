@@ -1,5 +1,4 @@
-Trichosporon wieringae Middelhoven SPECIES
-=======
+# Trichosporon wieringae Middelhoven SPECIES
 
 #### Status
 ACCEPTED

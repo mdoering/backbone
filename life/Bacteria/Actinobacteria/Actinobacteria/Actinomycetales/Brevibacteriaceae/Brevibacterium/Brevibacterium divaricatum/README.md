@@ -1,5 +1,4 @@
-Brevibacterium divaricatum Su and Yamada, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium divaricatum Su and Yamada, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

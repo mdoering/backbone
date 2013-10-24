@@ -1,5 +1,4 @@
-Septoria ranojevici Bubák SPECIES
-=======
+# Septoria ranojevici Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gymnosporangium idetae G. Yamada & Hara, 1916 SPECIES
-=======
+# Gymnosporangium amelanchieris E. Fisch. ex F. Kern, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Bot. 1: 711 (1909)
 
 #### Original name
-Gymnosporangium idetae G. Yamada & Hara, 1916
+Gymnosporangium amelanchieris E. Fisch. ex F. Kern, 1909
 
 ### Remarks
 null

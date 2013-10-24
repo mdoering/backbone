@@ -1,5 +1,4 @@
-Collybia oregonensis A.H. Sm. SPECIES
-=======
+# Collybia oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

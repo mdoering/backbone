@@ -1,5 +1,4 @@
-Septoria apatela Allesch. SPECIES
-=======
+# Septoria apatela Allesch. SPECIES
 
 #### Status
 ACCEPTED

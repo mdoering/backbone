@@ -1,5 +1,4 @@
-Kamaina Solovieva, 1996 GENUS
-=======
+# Kamaina Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

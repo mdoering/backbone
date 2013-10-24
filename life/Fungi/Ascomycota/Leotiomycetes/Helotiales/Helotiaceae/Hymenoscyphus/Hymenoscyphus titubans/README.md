@@ -1,5 +1,4 @@
-Hymenoscyphus titubans (Mont.) Dennis SPECIES
-=======
+# Hymenoscyphus titubans (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

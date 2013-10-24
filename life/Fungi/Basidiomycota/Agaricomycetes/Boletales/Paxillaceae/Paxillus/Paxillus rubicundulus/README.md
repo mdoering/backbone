@@ -1,17 +1,16 @@
-Paxillus filamentosus SPECIES
-=======
+# Paxillus rubicundulus P.D. Orton, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 29: 110 (1969)
 
 #### Original name
-Paxillus filamentosus
+Paxillus rubicundulus P.D. Orton, 1969
 
 ### Remarks
 null

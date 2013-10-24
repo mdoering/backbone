@@ -1,5 +1,4 @@
-Biddulphia sculpta (Shadbolt) Van Heurck, 1885 SPECIES
-=======
+# Biddulphia sculpta (Shadbolt) Van Heurck, 1885 SPECIES
 
 #### Status
 ACCEPTED

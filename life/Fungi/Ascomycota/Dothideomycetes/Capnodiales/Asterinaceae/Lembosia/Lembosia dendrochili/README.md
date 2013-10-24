@@ -1,5 +1,4 @@
-Lembosia dendrochili Lév. SPECIES
-=======
+# Lembosia dendrochili Lév. SPECIES
 
 #### Status
 ACCEPTED

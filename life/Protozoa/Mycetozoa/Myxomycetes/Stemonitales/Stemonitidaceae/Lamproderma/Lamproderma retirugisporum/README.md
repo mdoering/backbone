@@ -1,5 +1,4 @@
-Lamproderma retirugisporum G. Moreno, H. Singer, Illana & A. Sánchez, 2003 SPECIES
-=======
+# Lamproderma retirugisporum G. Moreno, H. Singer, Illana & A. Sánchez, 2003 SPECIES
 
 #### Status
 ACCEPTED

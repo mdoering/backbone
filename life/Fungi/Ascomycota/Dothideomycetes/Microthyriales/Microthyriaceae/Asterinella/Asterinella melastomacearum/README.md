@@ -1,5 +1,4 @@
-Asterinella melastomacearum R.W. Ryan SPECIES
-=======
+# Asterinella melastomacearum R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina murorum SPECIES
-=======
+# Rinodina murorum SPECIES
 
 #### Status
 ACCEPTED

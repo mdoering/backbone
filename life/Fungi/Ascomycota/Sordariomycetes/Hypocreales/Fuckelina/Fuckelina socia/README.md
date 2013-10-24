@@ -1,5 +1,4 @@
-Fuckelina socia Sacc. SPECIES
-=======
+# Fuckelina socia Sacc. SPECIES
 
 #### Status
 ACCEPTED

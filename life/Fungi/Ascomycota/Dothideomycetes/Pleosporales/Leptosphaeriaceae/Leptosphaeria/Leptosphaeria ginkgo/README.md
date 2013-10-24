@@ -1,5 +1,4 @@
-Leptosphaeria ginkgo Gucevic SPECIES
-=======
+# Leptosphaeria ginkgo Gucevic SPECIES
 
 #### Status
 ACCEPTED

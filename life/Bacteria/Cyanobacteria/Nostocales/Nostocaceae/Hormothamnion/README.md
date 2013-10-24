@@ -1,5 +1,4 @@
-Hormothamnion Grunow, 1888 GENUS
-=======
+# Hormothamnion Grunow, 1888 GENUS
 
 #### Status
 ACCEPTED

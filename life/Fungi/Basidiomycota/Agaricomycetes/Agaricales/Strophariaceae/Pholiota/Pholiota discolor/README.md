@@ -1,5 +1,4 @@
-Pholiota discolor var. discolor VARIETY
-=======
+# Pholiota discolor Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. Reg. Univ. St. N. Y. 25: 78 (1873)
 
 #### Original name
-Pholiota discolor var. discolor
+Pholiota discolor Peck
 
 ### Remarks
 null

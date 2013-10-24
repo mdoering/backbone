@@ -1,5 +1,4 @@
-Pseudobradyina Reitlinger, 1950 GENUS
-=======
+# Pseudobradyina Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

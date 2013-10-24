@@ -1,5 +1,4 @@
-Harmoniella chrysocephalus V.N. Boriss., 1981 SPECIES
-=======
+# Harmoniella chrysocephalus V.N. Boriss., 1981 SPECIES
 
 #### Status
 ACCEPTED

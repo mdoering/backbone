@@ -1,5 +1,4 @@
-Anatolinites reklawensis Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites reklawensis Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

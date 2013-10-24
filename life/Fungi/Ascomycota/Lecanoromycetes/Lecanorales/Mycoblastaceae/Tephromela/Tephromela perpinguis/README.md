@@ -1,5 +1,4 @@
-Tephromela perpinguis Motyka SPECIES
-=======
+# Tephromela perpinguis Motyka SPECIES
 
 #### Status
 ACCEPTED

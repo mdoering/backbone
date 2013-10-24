@@ -1,5 +1,4 @@
-Mallomonas eoa Takahashi SPECIES
-=======
+# Mallomonas eoa Takahashi SPECIES
 
 #### Status
 ACCEPTED

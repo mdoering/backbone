@@ -1,5 +1,4 @@
-Taphrina thaxteri Mix SPECIES
-=======
+# Taphrina thaxteri Mix SPECIES
 
 #### Status
 ACCEPTED

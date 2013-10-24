@@ -1,5 +1,4 @@
-Cortinarius capraginicolor Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius capraginicolor Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

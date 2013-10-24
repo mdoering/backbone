@@ -1,5 +1,4 @@
-Phyllosticta atrozonata W. Voss SPECIES
-=======
+# Phyllosticta atrozonata W. Voss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Characiopsis avis Pascher SPECIES
-=======
+# Characiopsis avis Pascher SPECIES
 
 #### Status
 ACCEPTED

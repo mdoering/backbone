@@ -1,5 +1,4 @@
-Deinococcus radiophilus (ex Lewis, 1973) Brooks & Murray, 1981 SPECIES
-=======
+# Deinococcus radiophilus (ex Lewis, 1973) Brooks & Murray, 1981 SPECIES
 
 #### Status
 ACCEPTED

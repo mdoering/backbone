@@ -1,5 +1,4 @@
-Uredo acaciae-bursariae Cummins SPECIES
-=======
+# Uredo acaciae-bursariae Cummins SPECIES
 
 #### Status
 ACCEPTED

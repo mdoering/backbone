@@ -1,5 +1,4 @@
-Lactarius purgatorii Singer SPECIES
-=======
+# Lactarius purgatorii Singer SPECIES
 
 #### Status
 ACCEPTED

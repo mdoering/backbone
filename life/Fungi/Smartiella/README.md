@@ -1,5 +1,4 @@
-Smartiella ined. GENUS
-=======
+# Smartiella ined. GENUS
 
 #### Status
 ACCEPTED

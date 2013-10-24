@@ -1,5 +1,4 @@
-Inocybe hydrocybiformis (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe hydrocybiformis (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

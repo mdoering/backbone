@@ -1,5 +1,4 @@
-Tremella boletiformis Engl. SPECIES
-=======
+# Tremella boletiformis Engl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia bidentis Verpl. & Van den Broecke SPECIES
-=======
+# Vermicularia bidentis Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

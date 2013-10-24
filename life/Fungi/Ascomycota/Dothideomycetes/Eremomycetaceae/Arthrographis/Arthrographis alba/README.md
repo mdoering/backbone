@@ -1,5 +1,4 @@
-Arthrographis alba Gené, Ulfig & Guarro, 1996 SPECIES
-=======
+# Arthrographis alba Gené, Ulfig & Guarro, 1996 SPECIES
 
 #### Status
 ACCEPTED

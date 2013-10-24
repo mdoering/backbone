@@ -1,5 +1,4 @@
-Phaeomyces dubiosus E. Horak, 2005 SPECIES
-=======
+# Phaeomyces dubiosus E. Horak, 2005 SPECIES
 
 #### Status
 ACCEPTED

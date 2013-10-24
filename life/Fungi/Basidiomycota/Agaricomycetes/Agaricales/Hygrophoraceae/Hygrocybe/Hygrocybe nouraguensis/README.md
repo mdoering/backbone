@@ -1,5 +1,4 @@
-Hygrocybe nouraguensis Courtec. SPECIES
-=======
+# Hygrocybe nouraguensis Courtec. SPECIES
 
 #### Status
 ACCEPTED

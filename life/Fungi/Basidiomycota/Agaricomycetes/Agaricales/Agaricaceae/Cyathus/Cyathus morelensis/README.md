@@ -1,5 +1,4 @@
-Cyathus morelensis C.L. Gómez & Pérez-Silva SPECIES
-=======
+# Cyathus morelensis C.L. Gómez & Pérez-Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidium astrantiae Wallr. SPECIES
-=======
+# Phlyctidium astrantiae Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tenuirica wadeiae Playford & Wicander, 1988 SPECIES
-=======
+# Tenuirica wadeiae Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

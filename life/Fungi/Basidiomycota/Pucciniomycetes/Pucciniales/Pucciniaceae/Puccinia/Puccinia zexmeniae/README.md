@@ -1,5 +1,4 @@
-Puccinia zexmeniae Dietel & Holw. SPECIES
-=======
+# Puccinia zexmeniae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

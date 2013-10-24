@@ -1,8 +1,7 @@
-Ascospora sileneae (Niessl) G. Winter SPECIES
-=======
+# Ascospora silenes (Niessl) G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

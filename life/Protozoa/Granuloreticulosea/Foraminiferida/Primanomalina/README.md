@@ -1,5 +1,4 @@
-Primanomalina Bugrova, 1990 GENUS
-=======
+# Primanomalina Bugrova, 1990 GENUS
 
 #### Status
 ACCEPTED

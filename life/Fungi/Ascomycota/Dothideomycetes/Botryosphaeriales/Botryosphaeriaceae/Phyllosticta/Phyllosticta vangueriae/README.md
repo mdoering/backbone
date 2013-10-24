@@ -1,5 +1,4 @@
-Phyllosticta vangueriae Cejp SPECIES
-=======
+# Phyllosticta vangueriae Cejp SPECIES
 
 #### Status
 ACCEPTED

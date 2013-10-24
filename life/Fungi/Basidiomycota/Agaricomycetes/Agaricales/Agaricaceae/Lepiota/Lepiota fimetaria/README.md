@@ -1,5 +1,4 @@
-Lepiota fimetaria (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota fimetaria (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

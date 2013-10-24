@@ -1,5 +1,4 @@
-Lambertella pallidispora Dumont SPECIES
-=======
+# Lambertella pallidispora Dumont SPECIES
 
 #### Status
 ACCEPTED

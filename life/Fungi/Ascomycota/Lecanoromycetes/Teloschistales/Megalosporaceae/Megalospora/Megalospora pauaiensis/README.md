@@ -1,5 +1,4 @@
-Megalospora pauaiensis (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora pauaiensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

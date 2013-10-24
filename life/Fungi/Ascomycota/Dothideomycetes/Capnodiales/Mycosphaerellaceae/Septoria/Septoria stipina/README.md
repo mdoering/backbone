@@ -1,5 +1,4 @@
-Septoria stipina Died. SPECIES
-=======
+# Septoria stipina Died. SPECIES
 
 #### Status
 ACCEPTED

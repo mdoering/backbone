@@ -1,5 +1,4 @@
-Pterygium posterulum Nyl. SPECIES
-=======
+# Pterygium posterulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

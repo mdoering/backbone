@@ -1,5 +1,4 @@
-Amanita smithiana Bas SPECIES
-=======
+# Amanita smithiana Bas SPECIES
 
 #### Status
 ACCEPTED

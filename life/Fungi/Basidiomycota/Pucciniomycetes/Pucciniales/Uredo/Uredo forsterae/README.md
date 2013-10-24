@@ -1,5 +1,4 @@
-Uredo forsterae G. Cunn., 1924 SPECIES
-=======
+# Uredo forsterae G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

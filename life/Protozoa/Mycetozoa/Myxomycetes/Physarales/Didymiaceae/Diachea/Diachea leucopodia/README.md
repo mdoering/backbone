@@ -1,8 +1,7 @@
-Stemonitis leucopodia (Bull.) DC., 1805 SPECIES
-=======
+# Diachea leucopodia (Bull.) Rostaf., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

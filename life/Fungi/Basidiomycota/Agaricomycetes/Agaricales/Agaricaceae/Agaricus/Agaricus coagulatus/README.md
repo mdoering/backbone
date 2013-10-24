@@ -1,5 +1,4 @@
-Agaricus coagulatus Berk. & Broome SPECIES
-=======
+# Agaricus coagulatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

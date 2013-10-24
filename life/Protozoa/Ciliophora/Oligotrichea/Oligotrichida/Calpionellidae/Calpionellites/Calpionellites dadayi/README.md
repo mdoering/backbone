@@ -1,5 +1,4 @@
-Calpionellites dadayi SPECIES
-=======
+# Calpionellites dadayi SPECIES
 
 #### Status
 ACCEPTED

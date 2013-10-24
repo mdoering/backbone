@@ -1,17 +1,16 @@
-Lepiota permixta var. brasiliensis Rick VARIETY
-=======
+# Macrolepiota fuliginosa (Barla) Bon, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 7(nos 27-28): 20 (1977)
 
 #### Original name
-Lepiota permixta var. brasiliensis Rick
+Lepiota procera var. fuliginosa Barla, 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia sublugubris C.W. Dodge SPECIES
-=======
+# Parmelia sublugubris C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

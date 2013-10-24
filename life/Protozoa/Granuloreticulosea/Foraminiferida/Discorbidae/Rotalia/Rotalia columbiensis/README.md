@@ -1,5 +1,4 @@
-Rotalia columbiensis SPECIES
-=======
+# Rotalia columbiensis SPECIES
 
 #### Status
 ACCEPTED

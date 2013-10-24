@@ -1,5 +1,4 @@
-Bullaria barbatula (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
-=======
+# Bullaria barbatula (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

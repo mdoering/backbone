@@ -1,5 +1,4 @@
-Nyctomyces divaricatus Göpp. & J.A. Menge SPECIES
-=======
+# Nyctomyces divaricatus Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

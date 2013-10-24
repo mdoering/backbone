@@ -1,17 +1,16 @@
-Leucoagaricus crystallifer var. crystallifer VARIETY
-=======
+# Leucoagaricus crystallifer Vellinga, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 17(3): 475 (2000)
 
 #### Original name
-null
+Leucoagaricus crystallifer Vellinga, 2000
 
 ### Remarks
 null
