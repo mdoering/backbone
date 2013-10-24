@@ -1,17 +1,16 @@
-Hyaloscypha alniseda Velen., 1934 SPECIES
-=======
+# Hyaloscypha fuckelii Nannf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 283 (1934)
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(2): 273 (1932)
 
 #### Original name
-Hyaloscypha alniseda Velen., 1934
+Hyaloscypha fuckelii Nannf.
 
 ### Remarks
 null

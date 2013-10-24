@@ -1,5 +1,4 @@
-Emblemospora ditrema Jeng & J.C. Krug, 1976 SPECIES
-=======
+# Emblemospora ditrema Jeng & J.C. Krug, 1976 SPECIES
 
 #### Status
 ACCEPTED

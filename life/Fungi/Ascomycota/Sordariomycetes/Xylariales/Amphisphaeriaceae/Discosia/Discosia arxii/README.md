@@ -1,5 +1,4 @@
-Discosia arxii Vanev SPECIES
-=======
+# Discosia arxii Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe fuscocinnamomea Singer SPECIES
-=======
+# Inocybe fuscocinnamomea Singer SPECIES
 
 #### Status
 ACCEPTED

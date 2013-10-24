@@ -1,5 +1,4 @@
-Phoma phlomidigena Bubák SPECIES
-=======
+# Phoma phlomidigena Bubák SPECIES
 
 #### Status
 ACCEPTED

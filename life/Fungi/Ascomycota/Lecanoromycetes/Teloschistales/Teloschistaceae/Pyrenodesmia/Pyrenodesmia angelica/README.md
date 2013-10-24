@@ -1,5 +1,4 @@
-Pyrenodesmia angelica B. de Lesd. SPECIES
-=======
+# Pyrenodesmia angelica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

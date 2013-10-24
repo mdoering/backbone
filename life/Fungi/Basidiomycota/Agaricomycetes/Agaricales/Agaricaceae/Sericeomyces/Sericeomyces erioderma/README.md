@@ -1,5 +1,4 @@
-Sericeomyces erioderma (Malençon) Contu SPECIES
-=======
+# Sericeomyces erioderma (Malençon) Contu SPECIES
 
 #### Status
 ACCEPTED

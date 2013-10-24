@@ -1,5 +1,4 @@
-Sirocrocis stibica Kütz. SPECIES
-=======
+# Sirocrocis stibica Kütz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geotrichum nyabisi (Mattlet) Basgal SPECIES
-=======
+# Geotrichum nyabisi (Mattlet) Basgal SPECIES
 
 #### Status
 ACCEPTED

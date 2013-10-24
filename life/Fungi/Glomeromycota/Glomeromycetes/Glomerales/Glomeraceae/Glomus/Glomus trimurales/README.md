@@ -1,5 +1,4 @@
-Glomus trimurales Koske & Halvorson, 1990 SPECIES
-=======
+# Glomus trimurales Koske & Halvorson, 1990 SPECIES
 
 #### Status
 ACCEPTED

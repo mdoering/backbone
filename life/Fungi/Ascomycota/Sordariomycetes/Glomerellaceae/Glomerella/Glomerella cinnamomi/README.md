@@ -1,5 +1,4 @@
-Glomerella cinnamomi Yoshino SPECIES
-=======
+# Glomerella cinnamomi Yoshino SPECIES
 
 #### Status
 ACCEPTED

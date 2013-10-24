@@ -1,5 +1,4 @@
-Thuramminopsis Haeusler, 1883 GENUS
-=======
+# Thuramminopsis Haeusler, 1883 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia exigua Cooke SPECIES
-=======
+# Hendersonia exigua Cooke SPECIES
 
 #### Status
 ACCEPTED

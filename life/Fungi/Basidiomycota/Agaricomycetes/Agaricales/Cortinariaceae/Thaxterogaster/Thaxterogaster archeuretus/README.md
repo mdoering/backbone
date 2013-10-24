@@ -1,5 +1,4 @@
-Thaxterogaster archeuretus Halling SPECIES
-=======
+# Thaxterogaster archeuretus Halling SPECIES
 
 #### Status
 ACCEPTED

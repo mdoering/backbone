@@ -1,5 +1,4 @@
-Pithyella anonyma (Rehm) Korf & W.Y. Zhuang SPECIES
-=======
+# Pithyella anonyma (Rehm) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

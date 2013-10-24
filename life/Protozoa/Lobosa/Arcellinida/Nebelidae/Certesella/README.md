@@ -1,5 +1,4 @@
-Certesella Loeblich & Tappan, 1961 GENUS
-=======
+# Certesella Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

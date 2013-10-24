@@ -1,5 +1,4 @@
-Peronospora stachydis Syd. SPECIES
-=======
+# Peronospora stachydis Syd. SPECIES
 
 #### Status
 ACCEPTED

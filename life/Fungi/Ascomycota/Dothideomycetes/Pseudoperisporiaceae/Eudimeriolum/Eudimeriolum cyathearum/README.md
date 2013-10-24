@@ -1,5 +1,4 @@
-Eudimeriolum cyathearum (Syd. & P. Syd.) Samuels & Rogerson SPECIES
-=======
+# Eudimeriolum cyathearum (Syd. & P. Syd.) Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

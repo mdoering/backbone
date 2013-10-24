@@ -1,5 +1,4 @@
-Camarosporium erianthi Bubák & Serebrian. SPECIES
-=======
+# Camarosporium erianthi Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

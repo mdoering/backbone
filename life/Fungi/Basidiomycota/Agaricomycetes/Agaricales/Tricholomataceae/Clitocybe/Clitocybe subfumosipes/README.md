@@ -1,5 +1,4 @@
-Clitocybe subfumosipes Murrill SPECIES
-=======
+# Clitocybe subfumosipes Murrill SPECIES
 
 #### Status
 ACCEPTED

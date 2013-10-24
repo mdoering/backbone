@@ -1,5 +1,4 @@
-Clypeolum loranthi P. Karst. & Har. SPECIES
-=======
+# Clypeolum loranthi P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

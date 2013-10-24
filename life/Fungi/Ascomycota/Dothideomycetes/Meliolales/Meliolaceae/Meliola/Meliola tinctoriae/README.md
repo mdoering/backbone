@@ -1,5 +1,4 @@
-Meliola tinctoriae Mibey SPECIES
-=======
+# Meliola tinctoriae Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenomonas quadrangularis var. cruciformis Playfair VARIETY
-=======
+# Sphenomonas quadrangularis Stein SPECIES
 
 #### Status
 ACCEPTED

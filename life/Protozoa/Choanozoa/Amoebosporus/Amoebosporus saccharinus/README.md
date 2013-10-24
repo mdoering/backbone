@@ -1,5 +1,4 @@
-Amoebosporus saccharinus Ivimey Cook, 1932 SPECIES
-=======
+# Amoebosporus saccharinus Ivimey Cook, 1932 SPECIES
 
 #### Status
 ACCEPTED

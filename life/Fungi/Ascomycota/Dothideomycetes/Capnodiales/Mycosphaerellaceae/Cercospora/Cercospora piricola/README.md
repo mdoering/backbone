@@ -1,5 +1,4 @@
-Cercospora piricola Sawada SPECIES
-=======
+# Cercospora piricola Sawada SPECIES
 
 #### Status
 ACCEPTED

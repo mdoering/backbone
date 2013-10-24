@@ -1,5 +1,4 @@
-Rosalina anomala Terquem, 1875 SPECIES
-=======
+# Rosalina anomala Terquem, 1875 SPECIES
 
 #### Status
 ACCEPTED

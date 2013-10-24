@@ -1,5 +1,4 @@
-Proteophiala Cif. GENUS
-=======
+# Proteophiala Cif. GENUS
 
 #### Status
 ACCEPTED

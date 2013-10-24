@@ -1,5 +1,4 @@
-Lecidella sabuletorum (Fr.) Körb. SPECIES
-=======
+# Lecidella sabuletorum (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

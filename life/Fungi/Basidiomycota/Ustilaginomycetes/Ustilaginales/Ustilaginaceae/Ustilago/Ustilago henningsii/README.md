@@ -1,5 +1,4 @@
-Ustilago henningsii Sacc. & P. Syd. SPECIES
-=======
+# Ustilago henningsii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

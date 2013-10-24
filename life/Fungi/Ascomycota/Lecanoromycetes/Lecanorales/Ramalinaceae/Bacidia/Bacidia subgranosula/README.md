@@ -1,5 +1,4 @@
-Bacidia subgranosula SPECIES
-=======
+# Bacidia subgranosula SPECIES
 
 #### Status
 ACCEPTED

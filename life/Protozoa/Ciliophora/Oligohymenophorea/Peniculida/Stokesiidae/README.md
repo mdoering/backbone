@@ -1,5 +1,4 @@
-Stokesiidae Roque, 1961 FAMILY
-=======
+# Stokesiidae Roque, 1961 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mendicodinium woodhamense Drugg, 1978 SPECIES
-=======
+# Mendicodinium woodhamense Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

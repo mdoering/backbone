@@ -1,5 +1,4 @@
-Verrucaria howensis P. M. McCarthy SPECIES
-=======
+# Verrucaria howensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

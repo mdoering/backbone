@@ -1,17 +1,16 @@
-Gymnopuccinia K. Ramakr. GENUS
-=======
+# Didymopsorella Thirum. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 34: 141 (1951)
+Sci. Cult. 16: 210 (1950)
 
 #### Original name
-Gymnopuccinia K. Ramakr.
+Didymopsorella Thirum.
 
 ### Remarks
 null

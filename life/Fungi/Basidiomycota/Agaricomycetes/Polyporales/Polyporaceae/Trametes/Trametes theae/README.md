@@ -1,5 +1,4 @@
-Trametes theae Zimm. SPECIES
-=======
+# Trametes theae Zimm. SPECIES
 
 #### Status
 ACCEPTED

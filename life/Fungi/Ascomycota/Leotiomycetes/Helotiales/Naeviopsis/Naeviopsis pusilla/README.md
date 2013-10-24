@@ -1,14 +1,13 @@
-Calloria pusilla Speg., 1879 SPECIES
-=======
+# Naeviopsis pusilla (Speg.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 473 (1879)
+Beih. Willdenowia 9: 81 (1976)
 
 #### Original name
 Calloria pusilla Speg., 1879

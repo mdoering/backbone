@@ -1,5 +1,4 @@
-Phyllosticta khandalensis V.G. Rao SPECIES
-=======
+# Phyllosticta khandalensis V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

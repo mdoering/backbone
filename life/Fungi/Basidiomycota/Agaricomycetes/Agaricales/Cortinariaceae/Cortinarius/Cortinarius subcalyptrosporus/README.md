@@ -1,5 +1,4 @@
-Cortinarius subcalyptrosporus M.M. Moser, 1987 SPECIES
-=======
+# Cortinarius subcalyptrosporus M.M. Moser, 1987 SPECIES
 
 #### Status
 ACCEPTED

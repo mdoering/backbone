@@ -1,5 +1,4 @@
-Neotrichophyton flavum (E. Bodin) Castell. & Chalm. SPECIES
-=======
+# Neotrichophyton flavum (E. Bodin) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

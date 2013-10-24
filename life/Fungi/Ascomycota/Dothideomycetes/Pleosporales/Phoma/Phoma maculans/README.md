@@ -1,5 +1,4 @@
-Phoma maculans (Lév.) Sacc. SPECIES
-=======
+# Phoma maculans (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

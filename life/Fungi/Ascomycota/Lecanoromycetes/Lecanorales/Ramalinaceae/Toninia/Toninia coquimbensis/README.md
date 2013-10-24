@@ -1,5 +1,4 @@
-Toninia coquimbensis (Zahlbr.) Kotlov SPECIES
-=======
+# Toninia coquimbensis (Zahlbr.) Kotlov SPECIES
 
 #### Status
 ACCEPTED

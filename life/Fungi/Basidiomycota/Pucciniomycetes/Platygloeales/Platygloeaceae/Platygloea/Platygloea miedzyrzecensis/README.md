@@ -1,5 +1,4 @@
-Platygloea miedzyrzecensis Bres. SPECIES
-=======
+# Platygloea miedzyrzecensis Bres. SPECIES
 
 #### Status
 ACCEPTED

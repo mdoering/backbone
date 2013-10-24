@@ -1,5 +1,4 @@
-Hypholoma agaves Maire SPECIES
-=======
+# Hypholoma agaves Maire SPECIES
 
 #### Status
 ACCEPTED

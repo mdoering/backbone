@@ -1,11 +1,10 @@
-Ceratium furca var. furca VARIETY
-=======
+# Ceratium furca (Ehrenberg) Claparéde & Lachmann SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

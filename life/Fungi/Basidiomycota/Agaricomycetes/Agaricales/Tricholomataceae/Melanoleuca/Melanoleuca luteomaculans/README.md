@@ -1,5 +1,4 @@
-Melanoleuca luteomaculans (G.F. Atk.) Murrill SPECIES
-=======
+# Melanoleuca luteomaculans (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

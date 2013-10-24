@@ -1,5 +1,4 @@
-Allocetraria globulans (Nyl. ex Hue) A. Thell & Randlane SPECIES
-=======
+# Allocetraria globulans (Nyl. ex Hue) A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED

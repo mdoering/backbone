@@ -1,5 +1,4 @@
-Acanthamoeba rhysodes (Singh, 1953) SPECIES
-=======
+# Acanthamoeba rhysodes (Singh, 1953) SPECIES
 
 #### Status
 ACCEPTED

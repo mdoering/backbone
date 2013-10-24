@@ -1,5 +1,4 @@
-Bacidia rizalensis (Vain.) SPECIES
-=======
+# Bacidia rizalensis (Vain.) SPECIES
 
 #### Status
 ACCEPTED

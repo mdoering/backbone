@@ -1,5 +1,4 @@
-Sclerotium aesculi Schwein., 1832 SPECIES
-=======
+# Sclerotium aesculi Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria reyesii Sacc. SPECIES
-=======
+# Metasphaeria reyesii Sacc. SPECIES
 
 #### Status
 ACCEPTED

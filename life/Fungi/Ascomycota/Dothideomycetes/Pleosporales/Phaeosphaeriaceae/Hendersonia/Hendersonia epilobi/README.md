@@ -1,5 +1,4 @@
-Hendersonia epilobi Fautrey SPECIES
-=======
+# Hendersonia epilobi Fautrey SPECIES
 
 #### Status
 ACCEPTED

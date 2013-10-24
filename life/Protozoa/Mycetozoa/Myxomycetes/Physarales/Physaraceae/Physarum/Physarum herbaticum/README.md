@@ -1,5 +1,4 @@
-Physarum herbaticum Shuang L. Chen & Yu Li, 2000 SPECIES
-=======
+# Physarum herbaticum Shuang L. Chen & Yu Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

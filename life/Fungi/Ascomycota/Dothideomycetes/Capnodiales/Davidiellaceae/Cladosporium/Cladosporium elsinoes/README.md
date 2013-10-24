@@ -1,5 +1,4 @@
-Cladosporium elsinoes H.C. Greene SPECIES
-=======
+# Cladosporium elsinoes H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

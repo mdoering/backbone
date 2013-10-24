@@ -1,5 +1,4 @@
-Arxiella terrestris Papendorf, 1967 SPECIES
-=======
+# Arxiella terrestris Papendorf, 1967 SPECIES
 
 #### Status
 ACCEPTED

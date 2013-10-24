@@ -1,5 +1,4 @@
-Dactylospora protothallina (Anzi) Hafellner SPECIES
-=======
+# Dactylospora protothallina (Anzi) Hafellner SPECIES
 
 #### Status
 ACCEPTED

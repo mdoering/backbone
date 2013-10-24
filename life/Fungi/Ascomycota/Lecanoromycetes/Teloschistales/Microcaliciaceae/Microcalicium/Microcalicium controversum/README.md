@@ -1,5 +1,4 @@
-Microcalicium controversum Tibell SPECIES
-=======
+# Microcalicium controversum Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothamnidium GENUS
-=======
+# Bulbothamnidium GENUS
 
 #### Status
 ACCEPTED

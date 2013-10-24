@@ -1,5 +1,4 @@
-Lecanora taurica Motyka SPECIES
-=======
+# Lecanora taurica Motyka SPECIES
 
 #### Status
 ACCEPTED

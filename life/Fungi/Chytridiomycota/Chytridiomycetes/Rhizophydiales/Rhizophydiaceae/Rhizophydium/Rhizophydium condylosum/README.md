@@ -1,5 +1,4 @@
-Rhizophydium condylosum Karling, 1968 SPECIES
-=======
+# Rhizophydium condylosum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

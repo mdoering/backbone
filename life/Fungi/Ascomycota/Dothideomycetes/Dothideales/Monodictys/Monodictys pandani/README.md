@@ -1,5 +1,4 @@
-Monodictys pandani Matsush. SPECIES
-=======
+# Monodictys pandani Matsush. SPECIES
 
 #### Status
 ACCEPTED

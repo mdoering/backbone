@@ -1,5 +1,4 @@
-Cenchridinium Ehrenberg GENUS
-=======
+# Cenchridinium Ehrenberg GENUS
 
 #### Status
 ACCEPTED

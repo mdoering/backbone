@@ -1,5 +1,4 @@
-Erinella GENUS
-=======
+# Erinella GENUS
 
 #### Status
 ACCEPTED

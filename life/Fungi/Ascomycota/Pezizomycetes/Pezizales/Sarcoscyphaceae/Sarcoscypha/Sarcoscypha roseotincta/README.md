@@ -1,5 +1,4 @@
-Sarcoscypha roseotincta Clem. SPECIES
-=======
+# Sarcoscypha roseotincta Clem. SPECIES
 
 #### Status
 ACCEPTED

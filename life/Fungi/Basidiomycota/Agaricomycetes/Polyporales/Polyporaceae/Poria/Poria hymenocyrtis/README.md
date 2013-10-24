@@ -1,5 +1,4 @@
-Poria hymenocyrtis SPECIES
-=======
+# Poria hymenocyrtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordatella Petrova in Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Cordatella Petrova in Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

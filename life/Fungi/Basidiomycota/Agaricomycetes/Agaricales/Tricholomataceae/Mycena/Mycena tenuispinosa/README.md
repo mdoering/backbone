@@ -1,5 +1,4 @@
-Mycena tenuispinosa J. Favre SPECIES
-=======
+# Mycena tenuispinosa J. Favre SPECIES
 
 #### Status
 ACCEPTED

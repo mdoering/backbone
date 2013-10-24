@@ -1,17 +1,16 @@
-Blastenia wilsoni C.W. Dodge SPECIES
-=======
+# Blastenia wilsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 226 (1948)
 
 #### Original name
-Blastenia wilsoni C.W. Dodge
+Blastenia wilsonii C.W. Dodge
 
 ### Remarks
 null

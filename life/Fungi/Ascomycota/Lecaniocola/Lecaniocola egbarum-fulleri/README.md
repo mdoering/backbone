@@ -1,5 +1,4 @@
-Lecaniocola egbarum-fulleri Brain SPECIES
-=======
+# Lecaniocola egbarum-fulleri Brain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium jatrophicola J.C. Lindq. SPECIES
-=======
+# Aecidium jatrophicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

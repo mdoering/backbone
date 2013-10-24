@@ -1,5 +1,4 @@
-Hypocrea chionea Ellis & Everh. SPECIES
-=======
+# Hypocrea chionea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

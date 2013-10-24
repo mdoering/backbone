@@ -1,5 +1,4 @@
-Micropeltis pseudo-ostiolata Bat. SPECIES
-=======
+# Micropeltis pseudo-ostiolata Bat. SPECIES
 
 #### Status
 ACCEPTED

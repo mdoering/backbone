@@ -1,5 +1,4 @@
-Neogyromitra brunnea (Underw.) Herter SPECIES
-=======
+# Neogyromitra brunnea (Underw.) Herter SPECIES
 
 #### Status
 ACCEPTED

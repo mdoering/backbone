@@ -1,5 +1,4 @@
-Tilletia euphorbiae L.W. Lenz SPECIES
-=======
+# Tilletia euphorbiae L.W. Lenz SPECIES
 
 #### Status
 ACCEPTED

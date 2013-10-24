@@ -1,5 +1,4 @@
-Cortinarius leochrous Jul. Schäff. SPECIES
-=======
+# Cortinarius leochrous Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

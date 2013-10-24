@@ -1,5 +1,4 @@
-Cercospora olivacea G.H. Otth SPECIES
-=======
+# Cercospora olivacea G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

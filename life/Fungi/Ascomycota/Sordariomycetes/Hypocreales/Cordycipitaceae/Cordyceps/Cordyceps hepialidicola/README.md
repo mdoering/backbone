@@ -1,5 +1,4 @@
-Cordyceps hepialidicola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps hepialidicola Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

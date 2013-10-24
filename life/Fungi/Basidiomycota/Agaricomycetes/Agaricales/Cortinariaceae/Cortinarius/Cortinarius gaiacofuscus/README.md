@@ -1,5 +1,4 @@
-Cortinarius gaiacofuscus Rob. Henry SPECIES
-=======
+# Cortinarius gaiacofuscus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

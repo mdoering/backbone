@@ -1,5 +1,4 @@
-Sphaerella cyparissiae Pass. SPECIES
-=======
+# Sphaerella cyparissiae Pass. SPECIES
 
 #### Status
 ACCEPTED

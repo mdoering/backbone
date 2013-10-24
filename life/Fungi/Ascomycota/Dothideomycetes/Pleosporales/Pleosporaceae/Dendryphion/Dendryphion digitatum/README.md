@@ -1,5 +1,4 @@
-Dendryphion digitatum Subram. SPECIES
-=======
+# Dendryphion digitatum Subram. SPECIES
 
 #### Status
 ACCEPTED

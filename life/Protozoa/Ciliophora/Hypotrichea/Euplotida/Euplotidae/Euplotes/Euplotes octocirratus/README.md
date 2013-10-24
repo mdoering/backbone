@@ -1,5 +1,4 @@
-Euplotes octocirratus Agamaliev, 1967 SPECIES
-=======
+# Euplotes octocirratus Agamaliev, 1967 SPECIES
 
 #### Status
 ACCEPTED

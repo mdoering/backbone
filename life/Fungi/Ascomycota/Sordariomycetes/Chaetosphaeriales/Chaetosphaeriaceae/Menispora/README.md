@@ -1,17 +1,16 @@
-Ciliofusa Clem. & Shear GENUS
-=======
+# Menispora Persoon, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 225, 404 (1931)
+null
 
 #### Original name
-Ciliofusa Clem. & Shear
+null
 
 ### Remarks
 null

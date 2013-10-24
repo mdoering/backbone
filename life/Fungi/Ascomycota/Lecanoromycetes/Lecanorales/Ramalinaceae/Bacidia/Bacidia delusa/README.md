@@ -1,5 +1,4 @@
-Bacidia delusa (Nyl.) Hellb. SPECIES
-=======
+# Bacidia delusa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

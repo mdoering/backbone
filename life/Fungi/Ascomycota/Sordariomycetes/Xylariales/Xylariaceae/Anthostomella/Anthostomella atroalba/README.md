@@ -1,5 +1,4 @@
-Anthostomella atroalba Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
-=======
+# Anthostomella atroalba Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
 
 #### Status
 ACCEPTED

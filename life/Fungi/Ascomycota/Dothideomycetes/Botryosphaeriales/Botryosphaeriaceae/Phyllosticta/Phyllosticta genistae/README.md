@@ -1,5 +1,4 @@
-Phyllosticta genistae I.E. Brezhnev SPECIES
-=======
+# Phyllosticta genistae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

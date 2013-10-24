@@ -1,17 +1,16 @@
-Sclerotiopsis Spegazzini, 1882 GENUS
-=======
+# Helotiales Nannf. ORDER
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 4. 8(2): 68 (1932)
 
 #### Original name
-null
+Helotiales Nannf.
 
 ### Remarks
 null

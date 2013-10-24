@@ -1,5 +1,4 @@
-Biatora hypopta SPECIES
-=======
+# Biatora hypopta SPECIES
 
 #### Status
 ACCEPTED

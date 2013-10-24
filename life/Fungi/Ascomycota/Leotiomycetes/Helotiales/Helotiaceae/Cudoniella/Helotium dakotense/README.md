@@ -1,5 +1,4 @@
-Helotium dakotense (Rehm) Seaver SPECIES
-=======
+# Helotium dakotense (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Poria cinereoumbrina Henn., 1908 SPECIES
-=======
+# Loweporus tephroporus (Mont.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Voeltzkow, Reise Ostafr. , Syst. Arbeit. 3: 19 (1908)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 416 (1980)
 
 #### Original name
-Poria cinereoumbrina Henn., 1908
+Polyporus tephroporus Mont., 1845
 
 ### Remarks
 null

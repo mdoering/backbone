@@ -1,17 +1,16 @@
-Solenia hydnoidea Berk. & Broome SPECIES
-=======
+# Solenia hydnoides Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 74 (1875)
 
 #### Original name
-Solenia hydnoidea Berk. & Broome
+Solenia hydnoides Berk. & Broome
 
 ### Remarks
 null

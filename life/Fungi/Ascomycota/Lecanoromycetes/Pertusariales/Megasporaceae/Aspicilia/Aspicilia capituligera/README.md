@@ -1,5 +1,4 @@
-Aspicilia capituligera (Poelt) Poelt SPECIES
-=======
+# Aspicilia capituligera (Poelt) Poelt SPECIES
 
 #### Status
 ACCEPTED

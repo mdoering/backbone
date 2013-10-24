@@ -1,5 +1,4 @@
-Trichopezizella paradoxa Raitv. SPECIES
-=======
+# Trichopezizella paradoxa Raitv. SPECIES
 
 #### Status
 ACCEPTED

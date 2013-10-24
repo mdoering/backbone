@@ -1,5 +1,4 @@
-Xylomites maculifer Heer SPECIES
-=======
+# Xylomites maculifer Heer SPECIES
 
 #### Status
 ACCEPTED

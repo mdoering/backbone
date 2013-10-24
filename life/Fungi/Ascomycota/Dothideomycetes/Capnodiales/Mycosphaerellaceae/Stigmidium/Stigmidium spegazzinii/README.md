@@ -1,5 +1,4 @@
-Stigmidium spegazzinii Etayo, 2008 SPECIES
-=======
+# Stigmidium spegazzinii Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thamnochrolechia Aptroot & Sipman GENUS
-=======
+# Thamnochrolechia Aptroot & Sipman GENUS
 
 #### Status
 ACCEPTED

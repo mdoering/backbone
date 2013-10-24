@@ -1,5 +1,4 @@
-Argillotuba vermiformis (Goës, 1896) SPECIES
-=======
+# Argillotuba vermiformis (Goës, 1896) SPECIES
 
 #### Status
 ACCEPTED

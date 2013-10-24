@@ -1,5 +1,4 @@
-Hymenoscyphus tener (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus tener (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia laurina Mont. SPECIES
-=======
+# Pestalotia laurina Mont. SPECIES
 
 #### Status
 ACCEPTED

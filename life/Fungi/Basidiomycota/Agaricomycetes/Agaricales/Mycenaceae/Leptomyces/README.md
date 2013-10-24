@@ -1,5 +1,4 @@
-Leptomyces GENUS
-=======
+# Leptomyces GENUS
 
 #### Status
 ACCEPTED

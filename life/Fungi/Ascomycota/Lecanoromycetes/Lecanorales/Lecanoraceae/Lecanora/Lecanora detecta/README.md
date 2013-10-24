@@ -1,5 +1,4 @@
-Lecanora detecta SPECIES
-=======
+# Lecanora detecta SPECIES
 
 #### Status
 ACCEPTED

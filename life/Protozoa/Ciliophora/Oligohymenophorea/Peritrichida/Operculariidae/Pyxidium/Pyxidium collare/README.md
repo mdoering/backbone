@@ -1,8 +1,7 @@
-Pyxidiella collare (Kahl, 1935) Corliss, 1960 SPECIES
-=======
+# Pyxidium collare Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

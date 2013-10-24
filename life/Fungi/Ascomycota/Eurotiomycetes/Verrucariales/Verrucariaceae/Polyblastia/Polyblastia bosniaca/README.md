@@ -1,5 +1,4 @@
-Polyblastia bosniaca Zahlbr. SPECIES
-=======
+# Polyblastia bosniaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

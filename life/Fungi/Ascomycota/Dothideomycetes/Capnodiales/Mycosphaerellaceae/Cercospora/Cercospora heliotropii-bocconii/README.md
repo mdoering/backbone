@@ -1,17 +1,16 @@
-Cercospora heliotropii-bocconi Scalia SPECIES
-=======
+# Cercospora heliotropii-bocconii Scalia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Giorn. di Sci. Natur. , Catania, IV 15: 15 (1902)
 
 #### Original name
-Cercospora heliotropii-bocconi Scalia
+Cercospora heliotropii-bocconii Scalia
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudomonas multiresinivorans Mohn et al., 1999 SPECIES
-=======
+# Pseudomonas multiresinivorans Mohn et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

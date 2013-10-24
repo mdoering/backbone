@@ -1,5 +1,4 @@
-Psathyrella janauariensis Singer SPECIES
-=======
+# Psathyrella janauariensis Singer SPECIES
 
 #### Status
 ACCEPTED

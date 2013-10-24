@@ -1,8 +1,7 @@
-Peltigera dolichorhiza f. pseudocrispoides Gyeln. FORM
-=======
+# Peltigera dolichorhiza (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

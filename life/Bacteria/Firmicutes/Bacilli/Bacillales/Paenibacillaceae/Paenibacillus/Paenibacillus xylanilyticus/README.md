@@ -1,5 +1,4 @@
-Paenibacillus xylanilyticus Rivas et al., 2005 SPECIES
-=======
+# Paenibacillus xylanilyticus Rivas et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

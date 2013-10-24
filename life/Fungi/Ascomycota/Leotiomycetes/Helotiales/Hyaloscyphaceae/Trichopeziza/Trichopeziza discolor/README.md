@@ -1,5 +1,4 @@
-Trichopeziza discolor (Mouton) Raitv. SPECIES
-=======
+# Trichopeziza discolor (Mouton) Raitv. SPECIES
 
 #### Status
 ACCEPTED

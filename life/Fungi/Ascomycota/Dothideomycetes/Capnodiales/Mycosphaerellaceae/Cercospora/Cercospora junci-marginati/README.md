@@ -1,5 +1,4 @@
-Cercospora junci-marginati U. Braun SPECIES
-=======
+# Cercospora junci-marginati U. Braun SPECIES
 
 #### Status
 ACCEPTED

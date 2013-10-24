@@ -1,5 +1,4 @@
-Cryomyces Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri GENUS
-=======
+# Cryomyces Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri GENUS
 
 #### Status
 ACCEPTED

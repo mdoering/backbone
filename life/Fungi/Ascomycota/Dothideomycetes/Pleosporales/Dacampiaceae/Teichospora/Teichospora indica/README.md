@@ -1,5 +1,4 @@
-Teichospora indica Tandon & Bilgrami SPECIES
-=======
+# Teichospora indica Tandon & Bilgrami SPECIES
 
 #### Status
 ACCEPTED

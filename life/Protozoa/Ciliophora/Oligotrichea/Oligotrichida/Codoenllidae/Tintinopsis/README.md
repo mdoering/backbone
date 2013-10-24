@@ -1,5 +1,4 @@
-Tintinopsis GENUS
-=======
+# Tintinopsis GENUS
 
 #### Status
 ACCEPTED

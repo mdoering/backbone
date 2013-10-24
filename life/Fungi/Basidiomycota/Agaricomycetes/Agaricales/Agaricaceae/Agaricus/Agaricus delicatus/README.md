@@ -1,5 +1,4 @@
-Agaricus delicatus Batsch SPECIES
-=======
+# Agaricus delicatus Batsch SPECIES
 
 #### Status
 ACCEPTED

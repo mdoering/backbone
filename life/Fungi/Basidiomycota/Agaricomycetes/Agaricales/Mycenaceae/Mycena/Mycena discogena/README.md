@@ -1,5 +1,4 @@
-Mycena discogena Singer SPECIES
-=======
+# Mycena discogena Singer SPECIES
 
 #### Status
 ACCEPTED

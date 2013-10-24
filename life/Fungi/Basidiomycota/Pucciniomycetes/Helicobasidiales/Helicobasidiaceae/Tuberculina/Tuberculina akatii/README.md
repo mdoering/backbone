@@ -1,5 +1,4 @@
-Tuberculina akatii Petr. SPECIES
-=======
+# Tuberculina akatii Petr. SPECIES
 
 #### Status
 ACCEPTED

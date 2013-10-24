@@ -1,5 +1,4 @@
-Ammodiscus incertus SPECIES
-=======
+# Ammodiscus incertus SPECIES
 
 #### Status
 ACCEPTED

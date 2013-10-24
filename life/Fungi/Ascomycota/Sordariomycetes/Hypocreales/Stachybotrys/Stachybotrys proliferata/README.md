@@ -1,5 +1,4 @@
-Stachybotrys proliferata K.G. Karand., S.M. Kulk. & Patw. SPECIES
-=======
+# Stachybotrys proliferata K.G. Karand., S.M. Kulk. & Patw. SPECIES
 
 #### Status
 ACCEPTED

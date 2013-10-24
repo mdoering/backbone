@@ -1,5 +1,4 @@
-Patellaria lepidora (Ach.) DC. SPECIES
-=======
+# Patellaria lepidora (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

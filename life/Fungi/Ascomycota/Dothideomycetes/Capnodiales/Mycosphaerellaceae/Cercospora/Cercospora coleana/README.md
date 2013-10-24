@@ -1,17 +1,16 @@
-Cercospora coleiana J.M. Yen & Lim SPECIES
-=======
+# Cercospora coleana J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 85(4): 465 (1969)
 
 #### Original name
-Cercospora coleiana J.M. Yen & Lim
+Cercospora coleana J.M. Yen & Lim
 
 ### Remarks
 null

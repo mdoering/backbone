@@ -1,5 +1,4 @@
-Aspergillus duricaulis Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus duricaulis Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

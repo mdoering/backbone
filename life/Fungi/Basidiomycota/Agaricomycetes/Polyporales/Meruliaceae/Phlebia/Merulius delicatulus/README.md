@@ -1,5 +1,4 @@
-Merulius delicatulus Rebent. SPECIES
-=======
+# Merulius delicatulus Rebent. SPECIES
 
 #### Status
 ACCEPTED

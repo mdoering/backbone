@@ -1,5 +1,4 @@
-Microbotryodiplodia minor (Berl. & Bres.) Zambett. SPECIES
-=======
+# Microbotryodiplodia minor (Berl. & Bres.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

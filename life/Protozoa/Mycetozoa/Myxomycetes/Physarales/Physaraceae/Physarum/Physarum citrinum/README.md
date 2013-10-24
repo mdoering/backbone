@@ -1,17 +1,16 @@
-Physarum leveillei var. auripes Berl. VARIETY
-=======
+# Physarum citrinum Schumach., 1803 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 201 (1803)
 
 #### Original name
-Physarum leveillei var. auripes Berl.
+Physarum citrinum Schumach., 1803
 
 ### Remarks
 null

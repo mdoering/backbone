@@ -1,5 +1,4 @@
-Pertusaria salacinifera Messuti & A. W. Archer SPECIES
-=======
+# Pertusaria salacinifera Messuti & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

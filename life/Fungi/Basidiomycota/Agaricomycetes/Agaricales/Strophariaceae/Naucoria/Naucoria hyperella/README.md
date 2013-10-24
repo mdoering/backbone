@@ -1,5 +1,4 @@
-Naucoria hyperella (Fr.) Sacc. SPECIES
-=======
+# Naucoria hyperella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

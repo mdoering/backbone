@@ -1,5 +1,4 @@
-Dimeromyces longitarsi Thaxt. SPECIES
-=======
+# Dimeromyces longitarsi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

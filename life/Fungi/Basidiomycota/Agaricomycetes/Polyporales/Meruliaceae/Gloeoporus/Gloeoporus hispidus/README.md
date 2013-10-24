@@ -1,14 +1,13 @@
-Tyromyces hispidus (Corner) T. Hatt., 2001 SPECIES
-=======
+# Gloeoporus hispidus Corner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 42(5): 429 (2001)
+Beih. Nova Hedwigia 96: 52 (1989)
 
 #### Original name
 Gloeoporus hispidus Corner, 1989

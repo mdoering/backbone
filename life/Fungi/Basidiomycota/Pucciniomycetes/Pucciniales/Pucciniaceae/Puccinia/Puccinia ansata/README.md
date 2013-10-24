@@ -1,5 +1,4 @@
-Puccinia ansata Lindr. SPECIES
-=======
+# Puccinia ansata Lindr. SPECIES
 
 #### Status
 ACCEPTED

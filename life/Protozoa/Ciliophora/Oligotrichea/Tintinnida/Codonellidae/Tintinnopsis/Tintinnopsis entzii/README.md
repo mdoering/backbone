@@ -1,5 +1,4 @@
-Tintinnopsis entzii Daday, 1892 SPECIES
-=======
+# Tintinnopsis entzii Daday, 1892 SPECIES
 
 #### Status
 ACCEPTED

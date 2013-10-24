@@ -1,5 +1,4 @@
-Opisthiotricha Perty, 1852 GENUS
-=======
+# Opisthiotricha Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

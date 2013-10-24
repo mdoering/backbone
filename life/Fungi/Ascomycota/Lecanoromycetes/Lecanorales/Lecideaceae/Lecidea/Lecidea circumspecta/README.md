@@ -1,5 +1,4 @@
-Lecidea circumspecta (Vain.) Hedl. SPECIES
-=======
+# Lecidea circumspecta (Vain.) Hedl. SPECIES
 
 #### Status
 ACCEPTED

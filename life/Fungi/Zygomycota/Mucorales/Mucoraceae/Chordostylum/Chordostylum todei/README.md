@@ -1,5 +1,4 @@
-Chordostylum todei Corda SPECIES
-=======
+# Chordostylum todei Corda SPECIES
 
 #### Status
 ACCEPTED

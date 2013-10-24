@@ -1,17 +1,16 @@
-Physalidium Mosca GENUS
-=======
+# Physalidiella Rulamort GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Allionia 11: 78 (1965)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 21: 512 (1990)
 
 #### Original name
-Physalidium Mosca
+Physalidiella Rulamort
 
 ### Remarks
 null

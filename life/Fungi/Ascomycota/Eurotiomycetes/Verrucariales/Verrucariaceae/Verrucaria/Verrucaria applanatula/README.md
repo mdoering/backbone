@@ -1,5 +1,4 @@
-Verrucaria applanatula H. Magn. SPECIES
-=======
+# Verrucaria applanatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

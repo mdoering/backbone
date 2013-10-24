@@ -1,5 +1,4 @@
-Euplotopsis nana (Jones & Owen, 1974) Borror & Hill, 1995 SPECIES
-=======
+# Euplotopsis nana (Jones & Owen, 1974) Borror & Hill, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora hiratsukana Togashi SPECIES
-=======
+# Stagonospora hiratsukana Togashi SPECIES
 
 #### Status
 ACCEPTED

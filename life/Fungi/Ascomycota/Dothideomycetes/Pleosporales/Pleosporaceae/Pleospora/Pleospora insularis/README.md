@@ -1,5 +1,4 @@
-Pleospora insularis Speg. SPECIES
-=======
+# Pleospora insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

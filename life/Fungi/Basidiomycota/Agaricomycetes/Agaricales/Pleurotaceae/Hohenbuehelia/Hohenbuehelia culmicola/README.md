@@ -1,17 +1,16 @@
-Acanthocystis petaloides var. macrospora Bon, 1970 VARIETY
-=======
+# Hohenbuehelia culmicola Bon, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 86(1): 165 (1970)
+Fieldiana, Bot. 21: 39 (1989)
 
 #### Original name
-Acanthocystis petaloides var. macrospora Bon, 1970
+Hohenbuehelia culmicola Bon, 1980
 
 ### Remarks
 null

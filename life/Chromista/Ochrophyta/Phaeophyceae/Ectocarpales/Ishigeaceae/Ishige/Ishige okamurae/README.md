@@ -1,5 +1,4 @@
-Ishige okamurae Yendo SPECIES
-=======
+# Ishige okamurae Yendo SPECIES
 
 #### Status
 ACCEPTED

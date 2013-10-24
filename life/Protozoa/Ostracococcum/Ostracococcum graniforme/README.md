@@ -1,5 +1,4 @@
-Ostracococcum graniforme Wallr. SPECIES
-=======
+# Ostracococcum graniforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

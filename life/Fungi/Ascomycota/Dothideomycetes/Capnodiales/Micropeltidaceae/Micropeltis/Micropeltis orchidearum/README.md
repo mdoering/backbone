@@ -1,5 +1,4 @@
-Micropeltis orchidearum Henn. SPECIES
-=======
+# Micropeltis orchidearum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon echinella (Pat.) S. Ahmad SPECIES
-=======
+# Lycoperdon echinella (Pat.) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

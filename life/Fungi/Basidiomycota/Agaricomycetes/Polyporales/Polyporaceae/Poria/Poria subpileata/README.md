@@ -1,5 +1,4 @@
-Poria subpileata Weinm. SPECIES
-=======
+# Poria subpileata Weinm. SPECIES
 
 #### Status
 ACCEPTED

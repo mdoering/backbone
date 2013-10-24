@@ -1,5 +1,4 @@
-Archaeosemantidae Kozur & Mostler, 1981 FAMILY
-=======
+# Archaeosemantidae Kozur & Mostler, 1981 FAMILY
 
 #### Status
 ACCEPTED

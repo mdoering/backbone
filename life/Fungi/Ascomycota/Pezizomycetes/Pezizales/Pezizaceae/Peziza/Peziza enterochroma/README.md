@@ -1,5 +1,4 @@
-Peziza enterochroma Peck SPECIES
-=======
+# Peziza enterochroma Peck SPECIES
 
 #### Status
 ACCEPTED

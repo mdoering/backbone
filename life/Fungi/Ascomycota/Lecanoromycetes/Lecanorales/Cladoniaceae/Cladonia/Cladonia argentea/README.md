@@ -1,5 +1,4 @@
-Cladonia argentea (Ahti) Ahti & DePriest SPECIES
-=======
+# Cladonia argentea (Ahti) Ahti & DePriest SPECIES
 
 #### Status
 ACCEPTED

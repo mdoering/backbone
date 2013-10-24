@@ -1,5 +1,4 @@
-Lentinus erosus Lloyd SPECIES
-=======
+# Lentinus erosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

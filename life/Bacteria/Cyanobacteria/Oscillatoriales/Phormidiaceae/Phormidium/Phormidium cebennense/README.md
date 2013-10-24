@@ -1,5 +1,4 @@
-Phormidium cebennense Gomont SPECIES
-=======
+# Phormidium cebennense Gomont SPECIES
 
 #### Status
 ACCEPTED

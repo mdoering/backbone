@@ -1,5 +1,4 @@
-Heterodinium asymmetricum Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium asymmetricum Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

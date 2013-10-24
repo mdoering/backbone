@@ -1,5 +1,4 @@
-Anthostomella xuanenensis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
-=======
+# Anthostomella xuanenensis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
 
 #### Status
 ACCEPTED

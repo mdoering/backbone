@@ -1,5 +1,4 @@
-Epistylis harpacticola Kahl, 1933 SPECIES
-=======
+# Epistylis harpacticola Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

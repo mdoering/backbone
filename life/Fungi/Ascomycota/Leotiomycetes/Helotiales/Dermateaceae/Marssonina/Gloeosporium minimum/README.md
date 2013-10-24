@@ -1,5 +1,4 @@
-Gloeosporium minimum P. Karst. & Har. SPECIES
-=======
+# Gloeosporium minimum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

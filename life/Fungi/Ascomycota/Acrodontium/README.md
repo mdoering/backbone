@@ -1,5 +1,4 @@
-Acrodontium de Hoog, 1972 GENUS
-=======
+# Acrodontium de Hoog, 1972 GENUS
 
 #### Status
 ACCEPTED

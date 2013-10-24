@@ -1,5 +1,4 @@
-Uromyces lespedezae (Schwein.) Peck SPECIES
-=======
+# Uromyces lespedezae (Schwein.) Peck SPECIES
 
 #### Status
 ACCEPTED

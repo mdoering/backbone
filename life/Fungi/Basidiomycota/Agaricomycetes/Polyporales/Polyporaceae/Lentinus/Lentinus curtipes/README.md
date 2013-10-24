@@ -1,5 +1,4 @@
-Lentinus curtipes Massee SPECIES
-=======
+# Lentinus curtipes Massee SPECIES
 
 #### Status
 ACCEPTED

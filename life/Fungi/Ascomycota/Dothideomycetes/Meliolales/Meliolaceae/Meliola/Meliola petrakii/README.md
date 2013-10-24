@@ -1,5 +1,4 @@
-Meliola petrakii F. Stevens & Roldan SPECIES
-=======
+# Meliola petrakii F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

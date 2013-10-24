@@ -1,5 +1,4 @@
-Agaricus flos G. Mey. SPECIES
-=======
+# Agaricus flos G. Mey. SPECIES
 
 #### Status
 ACCEPTED

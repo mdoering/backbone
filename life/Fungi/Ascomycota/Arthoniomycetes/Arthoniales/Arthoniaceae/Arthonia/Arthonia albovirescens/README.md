@@ -1,5 +1,4 @@
-Arthonia albovirescens Nyl. SPECIES
-=======
+# Arthonia albovirescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

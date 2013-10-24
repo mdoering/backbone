@@ -1,5 +1,4 @@
-Trinacria coronata O. Witt SPECIES
-=======
+# Trinacria coronata O. Witt SPECIES
 
 #### Status
 ACCEPTED

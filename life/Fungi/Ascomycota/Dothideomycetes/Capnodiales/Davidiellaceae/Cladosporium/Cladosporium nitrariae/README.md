@@ -1,5 +1,4 @@
-Cladosporium nitrariae Dumitras & Bontea, 1967 SPECIES
-=======
+# Cladosporium nitrariae Dumitras & Bontea, 1967 SPECIES
 
 #### Status
 ACCEPTED

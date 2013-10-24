@@ -1,5 +1,4 @@
-Leptosporopsis rostrupii (Ferd. & Winge) Clem. & Shear SPECIES
-=======
+# Leptosporopsis rostrupii (Ferd. & Winge) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

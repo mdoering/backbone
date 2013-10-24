@@ -1,5 +1,4 @@
-Fayodia tenuisperma Singer SPECIES
-=======
+# Fayodia tenuisperma Singer SPECIES
 
 #### Status
 ACCEPTED

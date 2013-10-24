@@ -1,5 +1,4 @@
-Abaphospora valdiviensis (Speg.) Kirschst. SPECIES
-=======
+# Abaphospora valdiviensis (Speg.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

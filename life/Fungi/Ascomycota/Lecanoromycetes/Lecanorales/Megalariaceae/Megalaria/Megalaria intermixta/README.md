@@ -1,17 +1,16 @@
-Catillaria intermixta f. intermixta FORM
-=======
+# Megalaria intermixta (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 20: 455 (1870)
+Biblthca Lichenol. 95: 312 (2007)
 
 #### Original name
-Catillaria intermixta f. intermixta
+Lecidea intermixta Nyl.
 
 ### Remarks
 null

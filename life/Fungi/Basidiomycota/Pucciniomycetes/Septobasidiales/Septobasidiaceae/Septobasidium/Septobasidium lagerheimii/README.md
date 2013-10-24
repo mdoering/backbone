@@ -1,5 +1,4 @@
-Septobasidium lagerheimii Couch SPECIES
-=======
+# Septobasidium lagerheimii Couch SPECIES
 
 #### Status
 ACCEPTED

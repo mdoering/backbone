@@ -1,5 +1,4 @@
-Lecanora amabilis B. de Lesd. SPECIES
-=======
+# Lecanora amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

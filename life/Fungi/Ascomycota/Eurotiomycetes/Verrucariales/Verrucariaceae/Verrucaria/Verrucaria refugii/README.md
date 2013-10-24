@@ -1,5 +1,4 @@
-Verrucaria refugii Servít SPECIES
-=======
+# Verrucaria refugii Servít SPECIES
 
 #### Status
 ACCEPTED

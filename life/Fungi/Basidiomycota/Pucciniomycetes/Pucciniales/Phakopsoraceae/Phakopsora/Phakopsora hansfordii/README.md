@@ -1,5 +1,4 @@
-Phakopsora hansfordii Cummins SPECIES
-=======
+# Phakopsora hansfordii Cummins SPECIES
 
 #### Status
 ACCEPTED

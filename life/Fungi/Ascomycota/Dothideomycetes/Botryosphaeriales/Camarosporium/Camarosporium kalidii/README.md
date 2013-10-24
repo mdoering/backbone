@@ -1,5 +1,4 @@
-Camarosporium kalidii Woron. SPECIES
-=======
+# Camarosporium kalidii Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria muralis f. muralis FORM
-=======
+# Squamaria muralis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria muralis f. muralis
+null
 
 ### Remarks
 null

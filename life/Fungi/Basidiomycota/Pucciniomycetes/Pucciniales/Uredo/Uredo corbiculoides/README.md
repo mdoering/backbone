@@ -1,5 +1,4 @@
-Uredo corbiculoides Cummins SPECIES
-=======
+# Uredo corbiculoides Cummins SPECIES
 
 #### Status
 ACCEPTED

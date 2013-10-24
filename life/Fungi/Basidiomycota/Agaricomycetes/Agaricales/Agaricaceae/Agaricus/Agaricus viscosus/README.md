@@ -1,5 +1,4 @@
-Agaricus viscosus J.F. Gmel. SPECIES
-=======
+# Agaricus viscosus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

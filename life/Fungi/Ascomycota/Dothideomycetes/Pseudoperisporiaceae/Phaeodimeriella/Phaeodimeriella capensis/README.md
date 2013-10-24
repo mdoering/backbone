@@ -1,5 +1,4 @@
-Phaeodimeriella capensis Doidge SPECIES
-=======
+# Phaeodimeriella capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

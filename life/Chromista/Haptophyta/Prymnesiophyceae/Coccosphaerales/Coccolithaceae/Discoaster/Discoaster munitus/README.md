@@ -1,5 +1,4 @@
-Discoaster munitus Stradner, 1961 SPECIES
-=======
+# Discoaster munitus Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

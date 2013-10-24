@@ -1,5 +1,4 @@
-Lepiota leontoderes (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota leontoderes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

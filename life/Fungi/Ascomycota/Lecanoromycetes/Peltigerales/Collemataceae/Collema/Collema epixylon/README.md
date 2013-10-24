@@ -1,5 +1,4 @@
-Collema epixylon Reich. {?} SPECIES
-=======
+# Collema epixylon Reich. {?} SPECIES
 
 #### Status
 ACCEPTED

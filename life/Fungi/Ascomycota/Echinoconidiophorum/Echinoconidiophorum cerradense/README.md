@@ -1,5 +1,4 @@
-Echinoconidiophorum cerradense Pereira-Carvalho & Dianese SPECIES
-=======
+# Echinoconidiophorum cerradense Pereira-Carvalho & Dianese SPECIES
 
 #### Status
 ACCEPTED

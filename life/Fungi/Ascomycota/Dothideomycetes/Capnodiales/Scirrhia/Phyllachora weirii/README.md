@@ -1,8 +1,7 @@
-Phyllachora isletica Petr., 1954 SPECIES
-=======
+# Phyllachora weirii (Chardón) P.F. Cannon, 1991 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Excipulina patella Höhn. SPECIES
-=======
+# Excipulina patella Höhn. SPECIES
 
 #### Status
 ACCEPTED

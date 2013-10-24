@@ -1,17 +1,16 @@
-Pseudocercospora actinostemmae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora actinostemmatis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 2(2): 88 (1987)
 
 #### Original name
-Pseudocercospora actinostemmae Sawada ex Goh & W.H. Hsieh
+Pseudocercospora actinostemmatis Sawada ex Goh & W.H. Hsieh
 
 ### Remarks
 null

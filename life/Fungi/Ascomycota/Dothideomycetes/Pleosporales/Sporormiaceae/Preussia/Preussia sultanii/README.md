@@ -1,5 +1,4 @@
-Preussia sultanii (Sultana & Malik) Guarro SPECIES
-=======
+# Preussia sultanii (Sultana & Malik) Guarro SPECIES
 
 #### Status
 ACCEPTED

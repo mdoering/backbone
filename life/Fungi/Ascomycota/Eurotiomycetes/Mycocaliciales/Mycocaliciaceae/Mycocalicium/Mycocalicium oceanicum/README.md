@@ -1,5 +1,4 @@
-Mycocalicium oceanicum Räsänen SPECIES
-=======
+# Mycocalicium oceanicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

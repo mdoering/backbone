@@ -1,5 +1,4 @@
-Winwaloeusia J. Deunff, 1977 GENUS
-=======
+# Winwaloeusia J. Deunff, 1977 GENUS
 
 #### Status
 ACCEPTED

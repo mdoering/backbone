@@ -1,5 +1,4 @@
-Mollisia alabamensis Ellis & Everh. SPECIES
-=======
+# Mollisia alabamensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

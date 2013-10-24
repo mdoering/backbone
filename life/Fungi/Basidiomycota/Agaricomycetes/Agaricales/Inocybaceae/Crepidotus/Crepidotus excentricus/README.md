@@ -1,5 +1,4 @@
-Crepidotus excentricus Murrill SPECIES
-=======
+# Crepidotus excentricus Murrill SPECIES
 
 #### Status
 ACCEPTED

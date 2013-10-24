@@ -1,5 +1,4 @@
-Asterolampraceae Smith FAMILY
-=======
+# Asterolampraceae Smith FAMILY
 
 #### Status
 ACCEPTED

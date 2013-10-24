@@ -1,5 +1,4 @@
-Opegrapha thuretii Hepp SPECIES
-=======
+# Opegrapha thuretii Hepp SPECIES
 
 #### Status
 ACCEPTED

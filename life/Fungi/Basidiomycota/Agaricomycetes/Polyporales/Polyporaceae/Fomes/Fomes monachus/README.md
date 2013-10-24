@@ -1,5 +1,4 @@
-Fomes monachus (Speg.) Speg. SPECIES
-=======
+# Fomes monachus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

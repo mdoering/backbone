@@ -1,5 +1,4 @@
-Arachnopeziza ruborum (Cooke & W. Phillips) Rehm SPECIES
-=======
+# Arachnopeziza ruborum (Cooke & W. Phillips) Rehm SPECIES
 
 #### Status
 ACCEPTED

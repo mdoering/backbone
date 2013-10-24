@@ -1,11 +1,10 @@
-Tricholoma atrosquamosum var. atrosquamosum VARIETY
-=======
+# Tricholoma atrosquamosum (Chevall.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null

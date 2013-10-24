@@ -1,5 +1,4 @@
-Seimatosporium piceae G.Z. Wang SPECIES
-=======
+# Seimatosporium piceae G.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

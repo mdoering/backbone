@@ -1,5 +1,4 @@
-Cylindrospermopsis cuspis J. Komárek & H. Kling SPECIES
-=======
+# Cylindrospermopsis cuspis J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

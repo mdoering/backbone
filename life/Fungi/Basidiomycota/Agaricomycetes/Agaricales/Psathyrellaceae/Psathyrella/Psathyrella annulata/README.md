@@ -1,5 +1,4 @@
-Psathyrella annulata A.H. Sm. SPECIES
-=======
+# Psathyrella annulata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

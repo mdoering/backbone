@@ -1,5 +1,4 @@
-Xanthoparmelia neopropaguloides Hale SPECIES
-=======
+# Xanthoparmelia neopropaguloides Hale SPECIES
 
 #### Status
 ACCEPTED

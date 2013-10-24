@@ -1,5 +1,4 @@
-Corynascus glaber ined. SPECIES
-=======
+# Corynascus glaber ined. SPECIES
 
 #### Status
 ACCEPTED

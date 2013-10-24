@@ -1,5 +1,4 @@
-Verrucaria leioplacoides Vain. SPECIES
-=======
+# Verrucaria leioplacoides Vain. SPECIES
 
 #### Status
 ACCEPTED

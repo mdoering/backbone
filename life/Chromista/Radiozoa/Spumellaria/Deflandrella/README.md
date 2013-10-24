@@ -1,5 +1,4 @@
-Deflandrella Loeblich & Tappan, 1961 GENUS
-=======
+# Deflandrella Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

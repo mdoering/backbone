@@ -1,5 +1,4 @@
-Mycosphaerella cupaniae (Rehm) Arx SPECIES
-=======
+# Mycosphaerella cupaniae (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

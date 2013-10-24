@@ -1,5 +1,4 @@
-Cellularia polita (Fr.) Kuntze SPECIES
-=======
+# Cellularia polita (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

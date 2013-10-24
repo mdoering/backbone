@@ -1,5 +1,4 @@
-Macrophoma aromatica Sacc. SPECIES
-=======
+# Macrophoma aromatica Sacc. SPECIES
 
 #### Status
 ACCEPTED

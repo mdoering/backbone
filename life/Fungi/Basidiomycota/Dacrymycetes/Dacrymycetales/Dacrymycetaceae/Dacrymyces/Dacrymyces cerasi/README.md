@@ -1,5 +1,4 @@
-Dacrymyces cerasi Lib. SPECIES
-=======
+# Dacrymyces cerasi Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Retiarius superficiaris D.L. Olivier, 1978 SPECIES
-=======
+# Retiarius superficiaris D.L. Olivier, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinobryon vorax Kent SPECIES
-=======
+# Dinobryon vorax Kent SPECIES
 
 #### Status
 ACCEPTED

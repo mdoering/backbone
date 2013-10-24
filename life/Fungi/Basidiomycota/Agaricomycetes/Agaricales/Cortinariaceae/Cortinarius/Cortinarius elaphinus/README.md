@@ -1,5 +1,4 @@
-Cortinarius elaphinus M.M. Moser SPECIES
-=======
+# Cortinarius elaphinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

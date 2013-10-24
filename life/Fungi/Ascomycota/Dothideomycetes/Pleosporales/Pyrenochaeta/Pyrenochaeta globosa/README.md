@@ -1,5 +1,4 @@
-Pyrenochaeta globosa Ts. Watan. SPECIES
-=======
+# Pyrenochaeta globosa Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

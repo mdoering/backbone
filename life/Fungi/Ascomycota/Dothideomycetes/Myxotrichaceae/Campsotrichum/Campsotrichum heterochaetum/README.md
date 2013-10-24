@@ -1,5 +1,4 @@
-Campsotrichum heterochaetum Sacc. SPECIES
-=======
+# Campsotrichum heterochaetum Sacc. SPECIES
 
 #### Status
 ACCEPTED

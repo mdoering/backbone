@@ -1,5 +1,4 @@
-Ramaria aureofulva Corner, 1970 SPECIES
-=======
+# Ramaria aureofulva Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

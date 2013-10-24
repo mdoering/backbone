@@ -1,14 +1,13 @@
-Antrodia primaeva Renvall & Niemelä, 1992 SPECIES
-=======
+# Pilatoporus primaevus (Renvall & Niemelä) Spirin, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 32(1): 30 (1992)
+in Spirin, Zmitrovich & Wasser, Mycotaxon 97: 78 (2006)
 
 #### Original name
 Antrodia primaeva Renvall & Niemelä, 1992

@@ -1,5 +1,4 @@
-Cylindrocarpon austrodestructans Brayford & Samuels SPECIES
-=======
+# Cylindrocarpon austrodestructans Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaucoma vorax Kidder, Lilly & Claff, 1940 SPECIES
-=======
+# Glaucoma vorax Kidder, Lilly & Claff, 1940 SPECIES
 
 #### Status
 ACCEPTED

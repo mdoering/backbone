@@ -1,5 +1,4 @@
-Diderma sphaeroidale (Bull.) Kuntze SPECIES
-=======
+# Diderma sphaeroidale (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

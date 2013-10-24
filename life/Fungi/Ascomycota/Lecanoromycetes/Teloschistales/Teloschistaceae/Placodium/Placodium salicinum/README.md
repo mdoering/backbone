@@ -1,5 +1,4 @@
-Placodium salicinum (Schrad.) Szatala SPECIES
-=======
+# Placodium salicinum (Schrad.) Szatala SPECIES
 
 #### Status
 ACCEPTED

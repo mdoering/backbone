@@ -1,5 +1,4 @@
-Agaricus gratiosus Lasch SPECIES
-=======
+# Agaricus gratiosus Lasch SPECIES
 
 #### Status
 ACCEPTED

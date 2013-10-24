@@ -1,5 +1,4 @@
-Asterina lonchocarpi (Bat. & Maia) SPECIES
-=======
+# Asterina lonchocarpi (Bat. & Maia) SPECIES
 
 #### Status
 ACCEPTED

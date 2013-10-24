@@ -1,5 +1,4 @@
-Sphaerella ceriospora Auersw. SPECIES
-=======
+# Sphaerella ceriospora Auersw. SPECIES
 
 #### Status
 ACCEPTED

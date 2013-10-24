@@ -1,5 +1,4 @@
-Tintinnus angustatus SPECIES
-=======
+# Tintinnus angustatus SPECIES
 
 #### Status
 ACCEPTED

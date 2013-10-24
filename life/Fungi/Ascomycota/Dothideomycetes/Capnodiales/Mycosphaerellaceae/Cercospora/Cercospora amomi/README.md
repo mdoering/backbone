@@ -1,5 +1,4 @@
-Cercospora amomi A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora amomi A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

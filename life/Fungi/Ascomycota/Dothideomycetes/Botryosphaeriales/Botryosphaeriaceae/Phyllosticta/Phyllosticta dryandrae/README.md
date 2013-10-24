@@ -1,5 +1,4 @@
-Phyllosticta dryandrae Henn. SPECIES
-=======
+# Phyllosticta dryandrae Henn. SPECIES
 
 #### Status
 ACCEPTED

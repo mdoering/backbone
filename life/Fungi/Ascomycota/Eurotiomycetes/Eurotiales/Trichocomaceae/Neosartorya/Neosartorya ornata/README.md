@@ -1,5 +1,4 @@
-Neosartorya ornata Malloch & Cain SPECIES
-=======
+# Neosartorya ornata Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

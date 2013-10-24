@@ -1,5 +1,4 @@
-Sphaerella quercina Jacz. SPECIES
-=======
+# Sphaerella quercina Jacz. SPECIES
 
 #### Status
 ACCEPTED

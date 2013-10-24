@@ -1,5 +1,4 @@
-Speira latebrosa Bizz. SPECIES
-=======
+# Speira latebrosa Bizz. SPECIES
 
 #### Status
 ACCEPTED

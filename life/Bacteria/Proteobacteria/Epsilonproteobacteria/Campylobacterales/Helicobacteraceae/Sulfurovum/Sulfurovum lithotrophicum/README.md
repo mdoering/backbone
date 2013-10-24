@@ -1,5 +1,4 @@
-Sulfurovum lithotrophicum Inagaki et al., 2004 SPECIES
-=======
+# Sulfurovum lithotrophicum Inagaki et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

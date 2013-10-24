@@ -1,5 +1,4 @@
-Scutellinia pseudomargaritacea Le Gal SPECIES
-=======
+# Scutellinia pseudomargaritacea Le Gal SPECIES
 
 #### Status
 ACCEPTED

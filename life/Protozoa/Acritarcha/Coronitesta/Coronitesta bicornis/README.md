@@ -1,5 +1,4 @@
-Coronitesta bicornis Uutela & Tynni, 1991 SPECIES
-=======
+# Coronitesta bicornis Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

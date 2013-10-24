@@ -1,5 +1,4 @@
-Stilbum crystallinum Corda SPECIES
-=======
+# Stilbum crystallinum Corda SPECIES
 
 #### Status
 ACCEPTED

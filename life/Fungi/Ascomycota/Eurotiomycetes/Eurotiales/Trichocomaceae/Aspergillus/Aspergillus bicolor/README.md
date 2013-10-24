@@ -1,5 +1,4 @@
-Aspergillus bicolor M. Chr. & States, 1978 SPECIES
-=======
+# Aspergillus bicolor M. Chr. & States, 1978 SPECIES
 
 #### Status
 ACCEPTED

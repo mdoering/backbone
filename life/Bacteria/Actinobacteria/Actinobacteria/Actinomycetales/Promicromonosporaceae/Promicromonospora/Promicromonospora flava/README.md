@@ -1,5 +1,4 @@
-Promicromonospora flava Jiang, Wiese, Cao, Xu, Imhoff & Jiang, 2009 SPECIES
-=======
+# Promicromonospora flava Jiang, Wiese, Cao, Xu, Imhoff & Jiang, 2009 SPECIES
 
 #### Status
 ACCEPTED

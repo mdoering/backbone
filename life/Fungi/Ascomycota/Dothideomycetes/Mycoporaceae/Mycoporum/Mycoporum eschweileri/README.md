@@ -1,14 +1,13 @@
-Tomasellia eschweileri (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Mycoporum eschweileri (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tucker & Harris, Bryologist 83(1): 19 (1980)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 69 (1995)
 
 #### Original name
 Mycoporellum eschweileri Müll. Arg.

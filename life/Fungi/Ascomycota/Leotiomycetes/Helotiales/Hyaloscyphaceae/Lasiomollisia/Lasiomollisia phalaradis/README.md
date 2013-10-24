@@ -1,5 +1,4 @@
-Lasiomollisia phalaradis Raitv. & Vesterh., 2006 SPECIES
-=======
+# Lasiomollisia phalaradis Raitv. & Vesterh., 2006 SPECIES
 
 #### Status
 ACCEPTED

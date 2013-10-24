@@ -1,5 +1,4 @@
-Verrucaria subjunctiva Nyl. SPECIES
-=======
+# Verrucaria subjunctiva Nyl. SPECIES
 
 #### Status
 ACCEPTED

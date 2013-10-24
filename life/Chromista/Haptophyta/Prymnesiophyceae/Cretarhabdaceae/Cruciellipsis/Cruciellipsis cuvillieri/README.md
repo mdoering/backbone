@@ -1,5 +1,4 @@
-Cruciellipsis cuvillieri (Manivit, 1966) Thierstein, 1971 SPECIES
-=======
+# Cruciellipsis cuvillieri (Manivit, 1966) Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

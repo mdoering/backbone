@@ -1,5 +1,4 @@
-Phyllosticta ormocarpi Bres. SPECIES
-=======
+# Phyllosticta ormocarpi Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum geminum var. geminum VARIETY
-=======
+# Lyophyllum geminum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 18(2): 414 (1983)
 
 #### Original name
-Lyophyllum geminum var. geminum
+Lyophyllum geminum Clémençon & A.H. Sm.
 
 ### Remarks
 null

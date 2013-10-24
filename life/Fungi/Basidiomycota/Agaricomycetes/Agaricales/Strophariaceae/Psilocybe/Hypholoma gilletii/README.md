@@ -1,5 +1,4 @@
-Hypholoma gilletii (Fr.) Gillet SPECIES
-=======
+# Hypholoma gilletii (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

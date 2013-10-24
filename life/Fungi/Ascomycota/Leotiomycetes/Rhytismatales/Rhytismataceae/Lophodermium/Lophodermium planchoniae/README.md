@@ -1,5 +1,4 @@
-Lophodermium planchoniae Rehm SPECIES
-=======
+# Lophodermium planchoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

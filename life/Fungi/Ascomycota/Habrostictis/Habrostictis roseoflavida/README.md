@@ -1,5 +1,4 @@
-Habrostictis roseoflavida (Rehm) Höhn. SPECIES
-=======
+# Habrostictis roseoflavida (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

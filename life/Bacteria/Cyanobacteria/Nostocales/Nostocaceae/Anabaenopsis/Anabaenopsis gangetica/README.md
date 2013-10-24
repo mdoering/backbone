@@ -1,5 +1,4 @@
-Anabaenopsis gangetica G. U. Nair SPECIES
-=======
+# Anabaenopsis gangetica G. U. Nair SPECIES
 
 #### Status
 ACCEPTED

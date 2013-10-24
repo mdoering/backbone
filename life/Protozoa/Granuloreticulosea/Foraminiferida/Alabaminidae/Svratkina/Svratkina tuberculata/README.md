@@ -1,8 +1,7 @@
-Discorbina tuberculata Balkwill & Wright, 1885 SPECIES
-=======
+# Svratkina tuberculata (Balkwill & Wright, 1885) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

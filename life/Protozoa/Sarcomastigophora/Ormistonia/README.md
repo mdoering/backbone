@@ -1,5 +1,4 @@
-Ormistonia Li, 1994 GENUS
-=======
+# Ormistonia Li, 1994 GENUS
 
 #### Status
 ACCEPTED

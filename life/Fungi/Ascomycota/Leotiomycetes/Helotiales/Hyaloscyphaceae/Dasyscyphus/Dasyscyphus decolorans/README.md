@@ -1,8 +1,7 @@
-Dasyscypha decolorans (Wallr.) Sacc. SPECIES
-=======
+# Dasyscyphus decolorans (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

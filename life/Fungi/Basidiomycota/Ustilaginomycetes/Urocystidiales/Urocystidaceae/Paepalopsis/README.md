@@ -1,5 +1,4 @@
-Paepalopsis J.G. Kühn GENUS
-=======
+# Paepalopsis J.G. Kühn GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe putilla Bres., 1884 SPECIES
-=======
+# Inocybe putilla Bres., 1884 SPECIES
 
 #### Status
 ACCEPTED

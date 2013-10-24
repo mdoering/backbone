@@ -1,14 +1,13 @@
-Pleotrachelus bornovanus Sahtiy., 1962 SPECIES
-=======
+# Olpidium bornovanus (Sahtiy.) Karling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Chytridiomycet. Iconogr. (New York) 16 (1977)
 
 #### Original name
 Pleotrachelus bornovanus Sahtiy., 1962

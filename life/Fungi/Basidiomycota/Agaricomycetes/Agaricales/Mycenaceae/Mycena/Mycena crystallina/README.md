@@ -1,5 +1,4 @@
-Mycena crystallina Velen. SPECIES
-=======
+# Mycena crystallina Velen. SPECIES
 
 #### Status
 ACCEPTED

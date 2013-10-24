@@ -1,5 +1,4 @@
-Dothiorella endorrhodia Berl. SPECIES
-=======
+# Dothiorella endorrhodia Berl. SPECIES
 
 #### Status
 ACCEPTED

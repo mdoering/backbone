@@ -1,5 +1,4 @@
-Phacus hispidulus var. glabrus Deflandre VARIETY
-=======
+# Phacus hispidulus (Eichwald) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

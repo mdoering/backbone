@@ -1,5 +1,4 @@
-Lentinus ochraceofuscus (G. Mey.) SPECIES
-=======
+# Lentinus ochraceofuscus (G. Mey.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanothece heterospora Rabenhorst SPECIES
-=======
+# Aphanothece heterospora Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

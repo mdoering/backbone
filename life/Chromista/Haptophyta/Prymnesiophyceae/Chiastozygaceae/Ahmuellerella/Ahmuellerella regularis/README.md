@@ -1,5 +1,4 @@
-Ahmuellerella regularis SPECIES
-=======
+# Ahmuellerella regularis SPECIES
 
 #### Status
 ACCEPTED

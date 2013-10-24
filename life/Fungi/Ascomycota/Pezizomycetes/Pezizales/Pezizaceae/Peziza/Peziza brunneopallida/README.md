@@ -1,5 +1,4 @@
-Peziza brunneopallida P. Crouan & H. Crouan SPECIES
-=======
+# Peziza brunneopallida P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

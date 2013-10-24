@@ -1,5 +1,4 @@
-Actinothecium guaraniticum Speg. SPECIES
-=======
+# Actinothecium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

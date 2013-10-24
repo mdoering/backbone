@@ -1,5 +1,4 @@
-Trimmatostroma fructicola (Sacc.) Sacc. SPECIES
-=======
+# Trimmatostroma fructicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

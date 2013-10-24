@@ -1,5 +1,4 @@
-Marasmiellus cinchonensis Dennis SPECIES
-=======
+# Marasmiellus cinchonensis Dennis SPECIES
 
 #### Status
 ACCEPTED

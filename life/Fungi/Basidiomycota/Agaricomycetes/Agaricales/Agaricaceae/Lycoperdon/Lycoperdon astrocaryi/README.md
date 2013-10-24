@@ -1,5 +1,4 @@
-Lycoperdon astrocaryi Berk. & Cooke SPECIES
-=======
+# Lycoperdon astrocaryi Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

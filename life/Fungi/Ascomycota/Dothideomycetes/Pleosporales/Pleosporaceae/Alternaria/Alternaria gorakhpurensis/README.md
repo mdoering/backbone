@@ -1,5 +1,4 @@
-Alternaria gorakhpurensis R. Dubey, S.K. Singh & Kamal SPECIES
-=======
+# Alternaria gorakhpurensis R. Dubey, S.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

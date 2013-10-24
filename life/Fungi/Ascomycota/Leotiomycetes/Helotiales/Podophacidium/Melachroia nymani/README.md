@@ -1,5 +1,4 @@
-Melachroia nymani Starbäck SPECIES
-=======
+# Melachroia nymani Starbäck SPECIES
 
 #### Status
 ACCEPTED

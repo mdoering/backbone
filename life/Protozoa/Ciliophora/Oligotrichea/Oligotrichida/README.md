@@ -1,5 +1,4 @@
-Oligotrichida Bütschli, 1887 ORDER
-=======
+# Oligotrichida Bütschli, 1887 ORDER
 
 #### Status
 ACCEPTED

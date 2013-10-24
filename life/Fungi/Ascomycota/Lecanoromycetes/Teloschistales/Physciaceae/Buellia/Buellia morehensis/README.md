@@ -1,5 +1,4 @@
-Buellia morehensis Kr.P. Singh & S.R. Singh SPECIES
-=======
+# Buellia morehensis Kr.P. Singh & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

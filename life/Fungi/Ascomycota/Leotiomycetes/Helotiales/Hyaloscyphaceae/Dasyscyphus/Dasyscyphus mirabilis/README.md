@@ -1,17 +1,16 @@
-Dasyscypha mirabilis Rehm SPECIES
-=======
+# Dasyscyphus mirabilis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ade, Hedwigia 64: 310 (1923)
 
 #### Original name
-Dasyscypha mirabilis Rehm
+Dasyscyphus mirabilis Rehm
 
 ### Remarks
 null

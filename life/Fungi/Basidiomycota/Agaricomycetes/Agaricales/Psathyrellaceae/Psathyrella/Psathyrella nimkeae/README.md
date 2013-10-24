@@ -1,5 +1,4 @@
-Psathyrella nimkeae A.H. Sm. SPECIES
-=======
+# Psathyrella nimkeae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

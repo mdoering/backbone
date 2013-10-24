@@ -1,17 +1,16 @@
-Parmelia arnoldii f. arnoldii FORM
-=======
+# Parmotrema arnoldii (Du Rietz) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Natur. 62: 80 (1924)
+Phytologia 28: 335 (1974)
 
 #### Original name
-Parmelia arnoldii f. arnoldii
+Parmelia arnoldii Du Rietz
 
 ### Remarks
 null

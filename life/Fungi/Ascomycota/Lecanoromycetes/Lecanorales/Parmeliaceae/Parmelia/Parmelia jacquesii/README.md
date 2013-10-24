@@ -1,5 +1,4 @@
-Parmelia jacquesii Werner SPECIES
-=======
+# Parmelia jacquesii Werner SPECIES
 
 #### Status
 ACCEPTED

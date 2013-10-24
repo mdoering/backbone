@@ -1,14 +1,13 @@
-Rhodophyllus tenellus J. Favre, 1948 SPECIES
-=======
+# Entoloma tenellum (J. Favre) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mat. fl. crypt. Suisse 10(3): 212 (1948)
+Persoonia 10(2): 256 (1979)
 
 #### Original name
 Rhodophyllus tenellus J. Favre, 1948

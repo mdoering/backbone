@@ -1,5 +1,4 @@
-Sphaeria lignitum Heer SPECIES
-=======
+# Sphaeria lignitum Heer SPECIES
 
 #### Status
 ACCEPTED

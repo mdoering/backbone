@@ -1,14 +1,13 @@
-Hymenoscyphus phialea (Vahl) Arnolds SPECIES
-=======
+# Hymenoscyphus phiala (Vahl) Arnolds SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Coolia 26(Suppl. ): 314 (1984)
 
 #### Original name
 Peziza phiala Vahl

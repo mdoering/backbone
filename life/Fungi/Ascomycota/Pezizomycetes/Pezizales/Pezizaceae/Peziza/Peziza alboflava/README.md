@@ -1,5 +1,4 @@
-Peziza alboflava Saut. SPECIES
-=======
+# Peziza alboflava Saut. SPECIES
 
 #### Status
 ACCEPTED

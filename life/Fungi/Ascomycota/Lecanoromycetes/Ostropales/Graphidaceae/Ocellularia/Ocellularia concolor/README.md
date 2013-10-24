@@ -1,14 +1,13 @@
-Thelotrema concolor (Meyen & Flot.) Vain. SPECIES
-=======
+# Ocellularia concolor Meyen & Flot. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 191 (1921)
+Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. , Suppl. 1 19: 230 (1843)
 
 #### Original name
 Ocellularia concolor Meyen & Flot.

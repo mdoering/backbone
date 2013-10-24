@@ -1,5 +1,4 @@
-Stephanodiscus dzhilindus G. K. Khursevich SPECIES
-=======
+# Stephanodiscus dzhilindus G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

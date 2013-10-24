@@ -1,5 +1,4 @@
-Cladonia lutescens Ahti, Upreti & Nayaka SPECIES
-=======
+# Cladonia lutescens Ahti, Upreti & Nayaka SPECIES
 
 #### Status
 ACCEPTED

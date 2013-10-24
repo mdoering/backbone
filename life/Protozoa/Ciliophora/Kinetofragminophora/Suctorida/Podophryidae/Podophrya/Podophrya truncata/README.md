@@ -1,5 +1,4 @@
-Podophrya truncata SPECIES
-=======
+# Podophrya truncata SPECIES
 
 #### Status
 ACCEPTED

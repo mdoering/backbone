@@ -1,5 +1,4 @@
-Bacidia malaccensis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia malaccensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

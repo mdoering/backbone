@@ -1,5 +1,4 @@
-Teichospora turkestanica (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
-=======
+# Teichospora turkestanica (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
 
 #### Status
 ACCEPTED

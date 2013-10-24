@@ -1,5 +1,4 @@
-Cortinarius spodoleucus M.M. Moser SPECIES
-=======
+# Cortinarius spodoleucus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

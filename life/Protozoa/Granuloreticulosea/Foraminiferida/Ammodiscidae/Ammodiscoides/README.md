@@ -1,5 +1,4 @@
-Ammodiscoides Cushman, 1909 GENUS
-=======
+# Ammodiscoides Cushman, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerebrina Patterson, 1986 GENUS
-=======
+# Cerebrina Patterson, 1986 GENUS
 
 #### Status
 ACCEPTED

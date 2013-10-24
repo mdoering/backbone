@@ -1,5 +1,4 @@
-Aecidium mitellae Ellis & Everh. SPECIES
-=======
+# Aecidium mitellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia cincta Fuckel SPECIES
-=======
+# Diplodia cincta Fuckel SPECIES
 
 #### Status
 ACCEPTED

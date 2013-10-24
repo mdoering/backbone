@@ -1,5 +1,4 @@
-Epipolaeum quitense (Petr.) E. Müll. SPECIES
-=======
+# Epipolaeum quitense (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

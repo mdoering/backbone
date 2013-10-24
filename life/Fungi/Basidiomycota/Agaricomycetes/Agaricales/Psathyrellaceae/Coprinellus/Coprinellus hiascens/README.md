@@ -1,14 +1,13 @@
-Agaricus hiascens Fr., 1821 SPECIES
-=======
+# Coprinellus hiascens (Fr.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 303 (1821)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
 Agaricus hiascens Fr., 1821

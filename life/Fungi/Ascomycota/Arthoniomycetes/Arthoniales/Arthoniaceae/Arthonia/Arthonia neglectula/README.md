@@ -1,14 +1,13 @@
-Conida neglectula (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Arthonia neglectula Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 18: 188 (1905)
+Flora, Jena 57: 13 (1874)
 
 #### Original name
 Arthonia neglectula Nyl.

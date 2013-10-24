@@ -1,5 +1,4 @@
-Asteronia (Sacc.) Henn. GENUS
-=======
+# Asteronia (Sacc.) Henn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tholomantha Haeckel, 1887 GENUS
-=======
+# Tholomantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

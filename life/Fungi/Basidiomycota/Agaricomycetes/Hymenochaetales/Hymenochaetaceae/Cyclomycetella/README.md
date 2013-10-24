@@ -1,5 +1,4 @@
-Cyclomycetella GENUS
-=======
+# Cyclomycetella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium phorkorium Norris, 1961 SPECIES
-=======
+# Gyrodinium phorkorium Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

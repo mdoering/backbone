@@ -1,5 +1,4 @@
-Chaetomium arachnoides Massee & E.S. Salmon, 1902 SPECIES
-=======
+# Chaetomium arachnoides Massee & E.S. Salmon, 1902 SPECIES
 
 #### Status
 ACCEPTED

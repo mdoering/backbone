@@ -1,5 +1,4 @@
-Myceliophthora hinnulea Awao & Udagawa, 1983 SPECIES
-=======
+# Myceliophthora hinnulea Awao & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

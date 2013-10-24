@@ -1,5 +1,4 @@
-Lambertella spadiceoatra (Mont.) Dumont SPECIES
-=======
+# Lambertella spadiceoatra (Mont.) Dumont SPECIES
 
 #### Status
 ACCEPTED

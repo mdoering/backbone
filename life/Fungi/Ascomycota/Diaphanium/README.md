@@ -1,5 +1,4 @@
-Diaphanium Fr. GENUS
-=======
+# Diaphanium Fr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatidium praepallens Nyl. SPECIES
-=======
+# Stigmatidium praepallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

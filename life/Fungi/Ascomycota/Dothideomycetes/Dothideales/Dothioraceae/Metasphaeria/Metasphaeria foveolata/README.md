@@ -1,5 +1,4 @@
-Metasphaeria foveolata Speg. SPECIES
-=======
+# Metasphaeria foveolata Speg. SPECIES
 
 #### Status
 ACCEPTED

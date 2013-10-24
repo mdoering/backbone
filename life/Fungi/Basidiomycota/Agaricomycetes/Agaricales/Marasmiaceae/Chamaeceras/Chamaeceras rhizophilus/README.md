@@ -1,5 +1,4 @@
-Chamaeceras rhizophilus (V. Brig.) Kuntze SPECIES
-=======
+# Chamaeceras rhizophilus (V. Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pertusaria confusa A. W. Archer SPECIES
-=======
+# Pertusaria clarkeana A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 41(1): 224 (1991)
+in Elix, Malcolm & Archer, Mycotaxon 53: 280 (1995)
 
 #### Original name
 Pertusaria confusa A. W. Archer

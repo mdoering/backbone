@@ -1,5 +1,4 @@
-Amphisolenia inflata Murray & Whitting SPECIES
-=======
+# Amphisolenia inflata Murray & Whitting SPECIES
 
 #### Status
 ACCEPTED

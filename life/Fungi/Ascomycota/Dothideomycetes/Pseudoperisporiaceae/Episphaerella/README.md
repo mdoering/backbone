@@ -1,5 +1,4 @@
-Episphaerella Petr. GENUS
-=======
+# Episphaerella Petr. GENUS
 
 #### Status
 ACCEPTED

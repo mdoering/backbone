@@ -1,5 +1,4 @@
-Hendersonia cornicola (DC.) Curr. SPECIES
-=======
+# Hendersonia cornicola (DC.) Curr. SPECIES
 
 #### Status
 ACCEPTED

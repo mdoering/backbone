@@ -1,5 +1,4 @@
-Stephanocystis Trevisan, 1843 GENUS
-=======
+# Stephanocystis Trevisan, 1843 GENUS
 
 #### Status
 ACCEPTED

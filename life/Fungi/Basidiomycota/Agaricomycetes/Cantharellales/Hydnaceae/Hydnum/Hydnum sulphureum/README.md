@@ -1,5 +1,4 @@
-Hydnum sulphureum Schwein. SPECIES
-=======
+# Hydnum sulphureum Schwein. SPECIES
 
 #### Status
 ACCEPTED

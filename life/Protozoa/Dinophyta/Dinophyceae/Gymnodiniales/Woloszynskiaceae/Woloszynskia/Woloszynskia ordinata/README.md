@@ -1,8 +1,7 @@
-Gymnodinium ordinatum var. sparsum Popovsky VARIETY
-=======
+# Woloszynskia ordinata (Skuja) Thompson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

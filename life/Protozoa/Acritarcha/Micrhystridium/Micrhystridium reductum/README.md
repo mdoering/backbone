@@ -1,5 +1,4 @@
-Micrhystridium reductum (Valensi, 1953) Courtinat, 1983 SPECIES
-=======
+# Micrhystridium reductum (Valensi, 1953) Courtinat, 1983 SPECIES
 
 #### Status
 ACCEPTED

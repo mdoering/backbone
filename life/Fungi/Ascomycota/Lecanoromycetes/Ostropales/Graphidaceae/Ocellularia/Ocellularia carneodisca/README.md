@@ -1,5 +1,4 @@
-Ocellularia carneodisca Hale SPECIES
-=======
+# Ocellularia carneodisca Hale SPECIES
 
 #### Status
 ACCEPTED

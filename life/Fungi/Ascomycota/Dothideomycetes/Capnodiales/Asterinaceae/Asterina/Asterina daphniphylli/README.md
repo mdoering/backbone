@@ -1,5 +1,4 @@
-Asterina daphniphylli W. Yamam. SPECIES
-=======
+# Asterina daphniphylli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

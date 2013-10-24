@@ -1,5 +1,4 @@
-Aecidium colchici-aurei Ulbr. SPECIES
-=======
+# Aecidium colchici-aurei Ulbr. SPECIES
 
 #### Status
 ACCEPTED

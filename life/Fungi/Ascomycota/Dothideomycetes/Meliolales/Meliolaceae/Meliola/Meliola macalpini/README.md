@@ -1,5 +1,4 @@
-Meliola macalpini Sacc. & P. Syd. SPECIES
-=======
+# Meliola macalpini Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

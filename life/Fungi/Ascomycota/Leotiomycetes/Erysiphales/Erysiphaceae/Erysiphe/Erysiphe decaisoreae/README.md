@@ -1,5 +1,4 @@
-Erysiphe decaisoreae (F.L. Tai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe decaisoreae (F.L. Tai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

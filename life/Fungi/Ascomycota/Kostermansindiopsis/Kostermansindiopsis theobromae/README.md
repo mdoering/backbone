@@ -1,5 +1,4 @@
-Kostermansindiopsis theobromae R.F. Castañeda, 1986 SPECIES
-=======
+# Kostermansindiopsis theobromae R.F. Castañeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

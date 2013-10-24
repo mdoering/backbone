@@ -1,5 +1,4 @@
-Phyllosticta ambiguella Sacc. SPECIES
-=======
+# Phyllosticta ambiguella Sacc. SPECIES
 
 #### Status
 ACCEPTED

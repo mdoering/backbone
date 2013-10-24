@@ -1,5 +1,4 @@
-Kurssanovia Kravtzev, 1955 GENUS
-=======
+# Kurssanovia Kravtzev, 1955 GENUS
 
 #### Status
 ACCEPTED

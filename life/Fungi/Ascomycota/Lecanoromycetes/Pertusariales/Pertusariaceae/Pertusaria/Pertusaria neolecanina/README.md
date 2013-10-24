@@ -1,5 +1,4 @@
-Pertusaria neolecanina Lumbsch & T. H. Nash SPECIES
-=======
+# Pertusaria neolecanina Lumbsch & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

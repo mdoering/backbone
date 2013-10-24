@@ -1,5 +1,4 @@
-Dematium fungorum Pers. SPECIES
-=======
+# Dematium fungorum Pers. SPECIES
 
 #### Status
 ACCEPTED

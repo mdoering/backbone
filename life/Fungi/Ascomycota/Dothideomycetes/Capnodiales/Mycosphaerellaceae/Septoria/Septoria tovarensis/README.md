@@ -1,5 +1,4 @@
-Septoria tovarensis Syd. SPECIES
-=======
+# Septoria tovarensis Syd. SPECIES
 
 #### Status
 ACCEPTED

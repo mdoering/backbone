@@ -1,5 +1,4 @@
-Dothiorella everhartii Sacc. & P. Syd. SPECIES
-=======
+# Dothiorella everhartii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria litchicola Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria litchicola Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

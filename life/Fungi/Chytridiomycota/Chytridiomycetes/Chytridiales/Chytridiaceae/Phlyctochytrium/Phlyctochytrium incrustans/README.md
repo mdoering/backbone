@@ -1,5 +1,4 @@
-Phlyctochytrium incrustans Sparrow & Lange SPECIES
-=======
+# Phlyctochytrium incrustans Sparrow & Lange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exophiala moniliae de Hoog, 1977 SPECIES
-=======
+# Exophiala moniliae de Hoog, 1977 SPECIES
 
 #### Status
 ACCEPTED

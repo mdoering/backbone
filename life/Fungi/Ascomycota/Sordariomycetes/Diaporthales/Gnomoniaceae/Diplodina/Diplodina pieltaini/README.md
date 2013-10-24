@@ -1,5 +1,4 @@
-Diplodina pieltaini Unamuno SPECIES
-=======
+# Diplodina pieltaini Unamuno SPECIES
 
 #### Status
 ACCEPTED

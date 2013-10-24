@@ -1,5 +1,4 @@
-Lecidea tenella Müll. Arg. SPECIES
-=======
+# Lecidea tenella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

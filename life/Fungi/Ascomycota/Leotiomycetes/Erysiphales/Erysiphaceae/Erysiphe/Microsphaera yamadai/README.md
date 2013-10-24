@@ -1,5 +1,4 @@
-Microsphaera yamadai Syd. SPECIES
-=======
+# Microsphaera yamadai Syd. SPECIES
 
 #### Status
 ACCEPTED

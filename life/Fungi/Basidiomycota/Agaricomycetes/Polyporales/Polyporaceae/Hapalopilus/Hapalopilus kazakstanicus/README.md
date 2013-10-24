@@ -1,5 +1,4 @@
-Hapalopilus kazakstanicus (Pilát) Bondartsev & Singer SPECIES
-=======
+# Hapalopilus kazakstanicus (Pilát) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

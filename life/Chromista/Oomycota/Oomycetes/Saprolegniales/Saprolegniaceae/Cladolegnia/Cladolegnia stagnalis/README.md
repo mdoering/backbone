@@ -1,5 +1,4 @@
-Cladolegnia stagnalis (Tiesenh.) Johannes SPECIES
-=======
+# Cladolegnia stagnalis (Tiesenh.) Johannes SPECIES
 
 #### Status
 ACCEPTED

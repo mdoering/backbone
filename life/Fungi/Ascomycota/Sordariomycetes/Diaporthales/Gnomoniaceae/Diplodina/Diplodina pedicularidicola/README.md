@@ -1,5 +1,4 @@
-Diplodina pedicularidicola Murashk. SPECIES
-=======
+# Diplodina pedicularidicola Murashk. SPECIES
 
 #### Status
 ACCEPTED

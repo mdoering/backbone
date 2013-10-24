@@ -1,5 +1,4 @@
-Agaricus balansae Speg. SPECIES
-=======
+# Agaricus balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paulia salevensis (Müll. Arg.) M. Schultz SPECIES
-=======
+# Paulia salevensis (Müll. Arg.) M. Schultz SPECIES
 
 #### Status
 ACCEPTED

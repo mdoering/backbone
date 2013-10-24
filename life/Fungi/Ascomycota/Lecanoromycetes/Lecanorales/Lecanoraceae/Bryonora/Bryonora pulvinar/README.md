@@ -1,5 +1,4 @@
-Bryonora pulvinar var. microspora Poelt & Obermayer VARIETY
-=======
+# Bryonora pulvinar Poelt & Obermayer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Hedwigia, Beih. 53(1-2): 16 (1991)
+Nova Hedwigia, Beih. 53(1-2): 15 (1991)
 
 #### Original name
-Bryonora pulvinar var. microspora Poelt & Obermayer
+Bryonora pulvinar Poelt & Obermayer
 
 ### Remarks
 null

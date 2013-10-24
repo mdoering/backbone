@@ -1,5 +1,4 @@
-Dictyoarthrinium quadratum S. Hughes, 1952 SPECIES
-=======
+# Dictyoarthrinium quadratum S. Hughes, 1952 SPECIES
 
 #### Status
 ACCEPTED

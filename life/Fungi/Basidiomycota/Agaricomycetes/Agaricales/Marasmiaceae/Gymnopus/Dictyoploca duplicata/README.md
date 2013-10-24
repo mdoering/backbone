@@ -1,5 +1,4 @@
-Dictyoploca duplicata Otieno SPECIES
-=======
+# Dictyoploca duplicata Otieno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiomicrospira chilensis Brinkhoff et al., 1999 SPECIES
-=======
+# Thiomicrospira chilensis Brinkhoff et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

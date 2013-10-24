@@ -1,5 +1,4 @@
-Flammula aureobrunnea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Flammula aureobrunnea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

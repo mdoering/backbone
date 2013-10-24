@@ -1,5 +1,4 @@
-Herpobasidium Lind, 1908 GENUS
-=======
+# Herpobasidium Lind, 1908 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stromatinia serica (M.A. Keay) L.M. Kohn, 1979 SPECIES
-=======
+# Sclerotinia serica M.A. Keay, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 69(8): 886 (1979)
+J. Bot. , London 75: 132 (1937)
 
 #### Original name
 Sclerotinia serica M.A. Keay, 1937

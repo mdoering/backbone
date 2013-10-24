@@ -1,5 +1,4 @@
-Puccinia schweinfurthii (Henn.) Magnus SPECIES
-=======
+# Puccinia schweinfurthii (Henn.) Magnus SPECIES
 
 #### Status
 ACCEPTED

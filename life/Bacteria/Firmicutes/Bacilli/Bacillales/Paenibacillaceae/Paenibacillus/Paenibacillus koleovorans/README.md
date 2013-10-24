@@ -1,5 +1,4 @@
-Paenibacillus koleovorans Takeda et al., 2002 SPECIES
-=======
+# Paenibacillus koleovorans Takeda et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

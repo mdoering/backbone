@@ -1,5 +1,4 @@
-Tomaculoides lucidum Loeblich & Tappan, 1963 SPECIES
-=======
+# Tomaculoides lucidum Loeblich & Tappan, 1963 SPECIES
 
 #### Status
 ACCEPTED

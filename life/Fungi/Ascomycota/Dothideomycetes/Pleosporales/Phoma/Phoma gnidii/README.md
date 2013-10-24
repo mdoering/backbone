@@ -1,5 +1,4 @@
-Phoma gnidii Brunaud SPECIES
-=======
+# Phoma gnidii Brunaud SPECIES
 
 #### Status
 ACCEPTED

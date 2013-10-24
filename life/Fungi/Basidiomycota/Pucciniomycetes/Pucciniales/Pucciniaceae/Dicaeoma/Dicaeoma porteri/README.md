@@ -1,5 +1,4 @@
-Dicaeoma porteri (Peck) Kuntze SPECIES
-=======
+# Dicaeoma porteri (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

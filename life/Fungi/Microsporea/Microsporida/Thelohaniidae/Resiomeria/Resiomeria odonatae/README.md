@@ -1,5 +1,4 @@
-Resiomeria odonatae J.I.R. Larsson SPECIES
-=======
+# Resiomeria odonatae J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

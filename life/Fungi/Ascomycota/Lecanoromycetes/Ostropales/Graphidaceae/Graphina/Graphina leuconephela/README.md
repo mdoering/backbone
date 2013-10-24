@@ -1,5 +1,4 @@
-Graphina leuconephela (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina leuconephela (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chamaesiphon pseudopolymorphus F.E. Fritsch SPECIES
-=======
+# Stichosiphon pseudopolymorphus (Fritsch) Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

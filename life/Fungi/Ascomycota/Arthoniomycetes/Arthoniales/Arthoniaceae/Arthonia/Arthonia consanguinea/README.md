@@ -1,5 +1,4 @@
-Arthonia consanguinea (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia consanguinea (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

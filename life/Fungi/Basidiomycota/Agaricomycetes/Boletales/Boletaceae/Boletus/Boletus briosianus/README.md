@@ -1,5 +1,4 @@
-Boletus briosianus Farneti SPECIES
-=======
+# Boletus briosianus Farneti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria contorta Rick SPECIES
-=======
+# Plicaria contorta Rick SPECIES
 
 #### Status
 ACCEPTED

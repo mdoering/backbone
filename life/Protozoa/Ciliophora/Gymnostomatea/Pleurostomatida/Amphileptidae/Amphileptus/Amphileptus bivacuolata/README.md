@@ -1,5 +1,4 @@
-Amphileptus bivacuolata SPECIES
-=======
+# Amphileptus bivacuolata SPECIES
 
 #### Status
 ACCEPTED

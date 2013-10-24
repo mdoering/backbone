@@ -1,14 +1,13 @@
-Tricornella GENUS
-=======
+# Tricoronella Blatterer & Foissner, 1988 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stapfia No. 17: 56.
 
 #### Original name
 null

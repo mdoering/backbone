@@ -1,5 +1,4 @@
-Turneriella Levett et al., 2005 GENUS
-=======
+# Turneriella Levett et al., 2005 GENUS
 
 #### Status
 ACCEPTED

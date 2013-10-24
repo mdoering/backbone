@@ -1,5 +1,4 @@
-Aulosphaera Haeckel, 1860 GENUS
-=======
+# Aulosphaera Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia aspicilioidea Zahlbr. SPECIES
-=======
+# Blastenia aspicilioidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

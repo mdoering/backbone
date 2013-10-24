@@ -1,5 +1,4 @@
-Reyesiella GENUS
-=======
+# Reyesiella GENUS
 
 #### Status
 ACCEPTED

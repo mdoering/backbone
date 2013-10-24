@@ -1,8 +1,7 @@
-Arcosoma discorniger (Hsiung, 1928) Jankowski, 1967 SPECIES
-=======
+# Arcosoma dicorniger (Hsiung, 1928) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

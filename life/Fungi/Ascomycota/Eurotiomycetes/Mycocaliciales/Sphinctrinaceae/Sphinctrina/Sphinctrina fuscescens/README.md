@@ -1,5 +1,4 @@
-Sphinctrina fuscescens Nyl. SPECIES
-=======
+# Sphinctrina fuscescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

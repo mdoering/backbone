@@ -1,5 +1,4 @@
-Lophiella Sacc. GENUS
-=======
+# Lophiella Sacc. GENUS
 
 #### Status
 ACCEPTED

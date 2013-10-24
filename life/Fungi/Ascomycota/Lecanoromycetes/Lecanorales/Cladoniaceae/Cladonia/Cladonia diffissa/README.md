@@ -1,5 +1,4 @@
-Cladonia diffissa F. Wilson SPECIES
-=======
+# Cladonia diffissa F. Wilson SPECIES
 
 #### Status
 ACCEPTED

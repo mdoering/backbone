@@ -1,5 +1,4 @@
-Asteromella aterrima Petr. SPECIES
-=======
+# Asteromella aterrima Petr. SPECIES
 
 #### Status
 ACCEPTED

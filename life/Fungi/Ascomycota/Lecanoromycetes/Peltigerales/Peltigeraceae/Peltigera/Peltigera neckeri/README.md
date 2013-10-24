@@ -1,17 +1,16 @@
-Peltigera polydactyla f. microcarpa (Ach.) Mérat FORM
-=======
+# Peltigera neckeri Hepp ex Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(2): 370 (1862)
 
 #### Original name
-Peltidea polydactyla var. microcarpa Ach.
+Peltigera neckeri Hepp ex Müll. Arg.
 
 ### Remarks
 null

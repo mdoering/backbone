@@ -1,5 +1,4 @@
-Hastigerinoides GENUS
-=======
+# Hastigerinoides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pruni-avium Allesch. SPECIES
-=======
+# Phyllosticta pruni-avium Allesch. SPECIES
 
 #### Status
 ACCEPTED

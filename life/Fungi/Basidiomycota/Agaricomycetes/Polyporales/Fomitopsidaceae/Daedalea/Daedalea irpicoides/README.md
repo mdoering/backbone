@@ -1,5 +1,4 @@
-Daedalea irpicoides Henn. SPECIES
-=======
+# Daedalea irpicoides Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius ludovicianus (Murrill) Singer SPECIES
-=======
+# Marasmius ludovicianus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

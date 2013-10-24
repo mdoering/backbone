@@ -1,5 +1,4 @@
-Coscinodiscus perminutus Rattray, 1850 SPECIES
-=======
+# Coscinodiscus perminutus Rattray, 1850 SPECIES
 
 #### Status
 ACCEPTED

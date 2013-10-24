@@ -1,5 +1,4 @@
-Ophiocytium ilkae (Istvanffi) Heering SPECIES
-=======
+# Ophiocytium ilkae (Istvanffi) Heering SPECIES
 
 #### Status
 ACCEPTED

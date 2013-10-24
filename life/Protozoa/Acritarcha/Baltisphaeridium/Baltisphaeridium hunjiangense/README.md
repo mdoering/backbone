@@ -1,5 +1,4 @@
-Baltisphaeridium hunjiangense Yin Leiming, 1995 SPECIES
-=======
+# Baltisphaeridium hunjiangense Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

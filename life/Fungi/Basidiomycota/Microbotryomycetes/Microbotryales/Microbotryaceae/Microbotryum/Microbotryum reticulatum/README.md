@@ -1,14 +1,13 @@
-Ustilago reticulata Liro, 1924 SPECIES
-=======
+# Microbotryum reticulatum (Liro) R. Bauer & Oberw., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 17(1): 20 (1924)
+in Bauer, Oberwinkler & Vánky, Can. J. Bot. 75(8): 1311 (1997)
 
 #### Original name
 Ustilago reticulata Liro, 1924

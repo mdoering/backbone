@@ -1,5 +1,4 @@
-Glycomyces tenuis Evtushenko et al., 1991 SPECIES
-=======
+# Glycomyces tenuis Evtushenko et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

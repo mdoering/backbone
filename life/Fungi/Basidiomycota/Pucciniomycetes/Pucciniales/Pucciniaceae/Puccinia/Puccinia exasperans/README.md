@@ -1,5 +1,4 @@
-Puccinia exasperans Holw. SPECIES
-=======
+# Puccinia exasperans Holw. SPECIES
 
 #### Status
 ACCEPTED

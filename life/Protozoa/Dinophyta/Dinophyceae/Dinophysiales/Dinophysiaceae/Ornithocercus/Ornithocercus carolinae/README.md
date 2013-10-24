@@ -1,5 +1,4 @@
-Ornithocercus carolinae Kofoid SPECIES
-=======
+# Ornithocercus carolinae Kofoid SPECIES
 
 #### Status
 ACCEPTED

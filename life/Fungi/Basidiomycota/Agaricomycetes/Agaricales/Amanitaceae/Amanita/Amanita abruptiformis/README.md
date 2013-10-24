@@ -1,5 +1,4 @@
-Amanita abruptiformis (Murrill) Murrill SPECIES
-=======
+# Amanita abruptiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

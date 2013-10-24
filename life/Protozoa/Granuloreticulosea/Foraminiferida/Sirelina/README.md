@@ -1,5 +1,4 @@
-Sirelina Meric & Inan, 1998 GENUS
-=======
+# Sirelina Meric & Inan, 1998 GENUS
 
 #### Status
 ACCEPTED

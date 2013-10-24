@@ -1,5 +1,4 @@
-Lobaria dictyophora (Müll. Arg.) D.J. Galloway SPECIES
-=======
+# Lobaria dictyophora (Müll. Arg.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

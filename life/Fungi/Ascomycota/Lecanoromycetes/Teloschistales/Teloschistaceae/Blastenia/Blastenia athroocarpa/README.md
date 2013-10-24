@@ -1,5 +1,4 @@
-Blastenia athroocarpa (Anzi) Arnold SPECIES
-=======
+# Blastenia athroocarpa (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

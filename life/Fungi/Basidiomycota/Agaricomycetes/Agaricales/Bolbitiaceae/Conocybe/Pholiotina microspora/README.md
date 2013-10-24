@@ -1,5 +1,4 @@
-Pholiotina microspora Singer SPECIES
-=======
+# Pholiotina microspora Singer SPECIES
 
 #### Status
 ACCEPTED

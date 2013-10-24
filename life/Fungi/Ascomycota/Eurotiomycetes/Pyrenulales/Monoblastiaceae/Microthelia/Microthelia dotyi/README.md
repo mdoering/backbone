@@ -1,5 +1,4 @@
-Microthelia dotyi Herre SPECIES
-=======
+# Microthelia dotyi Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus oculatus (Murrill) Singer SPECIES
-=======
+# Hydropus oculatus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

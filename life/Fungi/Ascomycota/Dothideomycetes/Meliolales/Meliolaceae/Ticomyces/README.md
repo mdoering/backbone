@@ -1,5 +1,4 @@
-Ticomyces Toro GENUS
-=======
+# Ticomyces Toro GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia praelata (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia praelata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium eucalyptorum Turconi SPECIES
-=======
+# Gloeosporium eucalyptorum Turconi SPECIES
 
 #### Status
 ACCEPTED

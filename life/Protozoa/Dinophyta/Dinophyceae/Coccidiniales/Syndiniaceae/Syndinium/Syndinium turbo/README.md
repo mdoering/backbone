@@ -1,5 +1,4 @@
-Syndinium turbo Chatton SPECIES
-=======
+# Syndinium turbo Chatton SPECIES
 
 #### Status
 ACCEPTED

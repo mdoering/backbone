@@ -1,5 +1,4 @@
-Verticillium rubrum Baquis SPECIES
-=======
+# Verticillium rubrum Baquis SPECIES
 
 #### Status
 ACCEPTED

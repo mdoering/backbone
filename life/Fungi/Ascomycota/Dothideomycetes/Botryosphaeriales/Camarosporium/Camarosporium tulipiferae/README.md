@@ -1,5 +1,4 @@
-Camarosporium tulipiferae Died. SPECIES
-=======
+# Camarosporium tulipiferae Died. SPECIES
 
 #### Status
 ACCEPTED

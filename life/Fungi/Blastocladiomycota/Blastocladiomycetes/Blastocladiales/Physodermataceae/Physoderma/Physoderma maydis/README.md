@@ -1,17 +1,16 @@
-Physoderma zeae-maydis F.J.F. Shaw, 1912 SPECIES
-=======
+# Physoderma maydis (Miyabe) Miyabe, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow & Butler, Annls mycol. 10: 243-280 (1912)
+in Ideta, Handbook of Plant Dis. Japan, Ed. 4 114 (1909)
 
 #### Original name
-Physoderma zeae-maydis F.J.F. Shaw, 1912
+Cladochytrium maydis Miyabe, 1903
 
 ### Remarks
 null

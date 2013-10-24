@@ -1,5 +1,4 @@
-Camptomyces falcatus Thaxt., 1926 SPECIES
-=======
+# Camptomyces falcatus Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

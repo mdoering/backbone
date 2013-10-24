@@ -1,5 +1,4 @@
-Mycosphaerella heimioides Crous & M.J. Wingf., 1997 SPECIES
-=======
+# Mycosphaerella heimioides Crous & M.J. Wingf., 1997 SPECIES
 
 #### Status
 ACCEPTED

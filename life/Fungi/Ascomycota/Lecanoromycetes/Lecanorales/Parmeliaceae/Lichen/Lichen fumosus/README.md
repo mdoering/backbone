@@ -1,5 +1,4 @@
-Lichen fumosus Hoffm. SPECIES
-=======
+# Lichen fumosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

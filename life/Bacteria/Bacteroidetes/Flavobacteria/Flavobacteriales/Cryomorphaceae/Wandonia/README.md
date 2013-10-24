@@ -1,5 +1,4 @@
-Wandonia Lee, Choi, Moon, Ahn, Lee, Jung, Jeon, Whang, Kahng, 2010 GENUS
-=======
+# Wandonia Lee, Choi, Moon, Ahn, Lee, Jung, Jeon, Whang, Kahng, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocreopsis amplectens T.W. May & P.R. Johnst., 2007 SPECIES
-=======
+# Hypocreopsis amplectens T.W. May & P.R. Johnst., 2007 SPECIES
 
 #### Status
 ACCEPTED

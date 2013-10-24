@@ -1,5 +1,4 @@
-Guignardia albicans Rehm SPECIES
-=======
+# Guignardia albicans Rehm SPECIES
 
 #### Status
 ACCEPTED

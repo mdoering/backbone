@@ -1,5 +1,4 @@
-Gloeosporium taxi (Duby) P. Karst. & Har. SPECIES
-=======
+# Gloeosporium taxi (Duby) P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

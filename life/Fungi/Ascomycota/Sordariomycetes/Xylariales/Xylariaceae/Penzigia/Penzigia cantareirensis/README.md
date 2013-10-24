@@ -1,5 +1,4 @@
-Penzigia cantareirensis (Henn.) J.H. Mill. SPECIES
-=======
+# Penzigia cantareirensis (Henn.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

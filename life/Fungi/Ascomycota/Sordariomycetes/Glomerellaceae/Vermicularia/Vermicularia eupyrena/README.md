@@ -1,5 +1,4 @@
-Vermicularia eupyrena Sacc. SPECIES
-=======
+# Vermicularia eupyrena Sacc. SPECIES
 
 #### Status
 ACCEPTED

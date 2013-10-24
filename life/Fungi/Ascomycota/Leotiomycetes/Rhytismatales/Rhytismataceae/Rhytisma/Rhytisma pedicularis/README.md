@@ -1,5 +1,4 @@
-Rhytisma pedicularis (DC.) Rehm SPECIES
-=======
+# Rhytisma pedicularis (DC.) Rehm SPECIES
 
 #### Status
 ACCEPTED

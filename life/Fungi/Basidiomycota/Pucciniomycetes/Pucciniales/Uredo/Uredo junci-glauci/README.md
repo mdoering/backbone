@@ -1,5 +1,4 @@
-Uredo junci-glauci Tranzschel SPECIES
-=======
+# Uredo junci-glauci Tranzschel SPECIES
 
 #### Status
 ACCEPTED

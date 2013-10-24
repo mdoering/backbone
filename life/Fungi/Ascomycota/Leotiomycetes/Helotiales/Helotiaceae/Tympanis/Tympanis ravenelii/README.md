@@ -1,5 +1,4 @@
-Tympanis ravenelii Berk. SPECIES
-=======
+# Tympanis ravenelii Berk. SPECIES
 
 #### Status
 ACCEPTED

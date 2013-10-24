@@ -1,5 +1,4 @@
-Janetia matsushimae Subram. SPECIES
-=======
+# Janetia matsushimae Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Josefpoeltia S.Y. Kondr. & Kärnefelt GENUS
-=======
+# Josefpoeltia S.Y. Kondr. & Kärnefelt GENUS
 
 #### Status
 ACCEPTED

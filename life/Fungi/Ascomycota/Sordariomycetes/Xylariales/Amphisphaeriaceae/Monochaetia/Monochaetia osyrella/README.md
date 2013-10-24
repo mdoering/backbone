@@ -1,5 +1,4 @@
-Monochaetia osyrella (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia osyrella (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

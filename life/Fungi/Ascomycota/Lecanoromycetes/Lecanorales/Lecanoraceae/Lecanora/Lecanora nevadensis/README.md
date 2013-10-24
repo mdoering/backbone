@@ -1,5 +1,4 @@
-Lecanora nevadensis H. Magn. SPECIES
-=======
+# Lecanora nevadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

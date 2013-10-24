@@ -1,5 +1,4 @@
-Otidea luculenta (Cooke) SPECIES
-=======
+# Otidea luculenta (Cooke) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe forabilis f. forabilis FORM
-=======
+# Diaporthe forabilis Nitschke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diaporthe forabilis f. forabilis
+Diaporthe forabilis Nitschke
 
 ### Remarks
 null

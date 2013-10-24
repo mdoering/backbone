@@ -1,5 +1,4 @@
-Amphidiniella Horiguchi, 1995 GENUS
-=======
+# Amphidiniella Horiguchi, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia coronata f. coronata Fée FORM
-=======
+# Bulbothrix coronata (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 480 (1974)
 
 #### Original name
-Parmelia coronata f. coronata Fée
+Parmelia coronata Fée
 
 ### Remarks
 null

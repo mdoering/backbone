@@ -1,5 +1,4 @@
-Lachnella sambucina Losa SPECIES
-=======
+# Lachnella sambucina Losa SPECIES
 
 #### Status
 ACCEPTED

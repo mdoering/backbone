@@ -1,5 +1,4 @@
-Hemimycena truncicola Singer SPECIES
-=======
+# Hemimycena truncicola Singer SPECIES
 
 #### Status
 ACCEPTED

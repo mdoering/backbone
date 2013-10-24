@@ -1,5 +1,4 @@
-Dactylaria filiformis R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Dactylaria filiformis R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

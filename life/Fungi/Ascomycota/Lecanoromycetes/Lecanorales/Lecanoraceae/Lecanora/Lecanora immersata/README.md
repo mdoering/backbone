@@ -1,5 +1,4 @@
-Lecanora immersata SPECIES
-=======
+# Lecanora immersata SPECIES
 
 #### Status
 ACCEPTED

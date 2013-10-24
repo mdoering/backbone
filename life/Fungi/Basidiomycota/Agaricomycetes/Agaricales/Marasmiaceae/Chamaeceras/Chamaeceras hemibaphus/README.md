@@ -1,5 +1,4 @@
-Chamaeceras hemibaphus (Berk. & Broome) Kuntze SPECIES
-=======
+# Chamaeceras hemibaphus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus corticalis Desm. SPECIES
-=======
+# Agaricus corticalis Desm. SPECIES
 
 #### Status
 ACCEPTED

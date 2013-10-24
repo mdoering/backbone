@@ -1,5 +1,4 @@
-Pyricularia luzulae Ondrej SPECIES
-=======
+# Pyricularia luzulae Ondrej SPECIES
 
 #### Status
 ACCEPTED

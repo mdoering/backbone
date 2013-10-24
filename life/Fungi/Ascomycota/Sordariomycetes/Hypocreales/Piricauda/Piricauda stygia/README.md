@@ -1,5 +1,4 @@
-Piricauda stygia (Berk. & M.A. Curtis) R.T. Moore SPECIES
-=======
+# Piricauda stygia (Berk. & M.A. Curtis) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

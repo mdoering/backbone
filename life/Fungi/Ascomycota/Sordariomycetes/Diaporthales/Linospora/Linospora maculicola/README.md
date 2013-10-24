@@ -1,5 +1,4 @@
-Linospora maculicola Pat. SPECIES
-=======
+# Linospora maculicola Pat. SPECIES
 
 #### Status
 ACCEPTED

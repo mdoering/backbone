@@ -1,5 +1,4 @@
-Puccinia alamedensis J.W. Baxter SPECIES
-=======
+# Puccinia alamedensis J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

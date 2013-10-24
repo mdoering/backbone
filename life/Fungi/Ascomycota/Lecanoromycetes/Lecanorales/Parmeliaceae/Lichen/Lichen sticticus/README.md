@@ -1,5 +1,4 @@
-Lichen sticticus Ach. SPECIES
-=======
+# Lichen sticticus Ach. SPECIES
 
 #### Status
 ACCEPTED

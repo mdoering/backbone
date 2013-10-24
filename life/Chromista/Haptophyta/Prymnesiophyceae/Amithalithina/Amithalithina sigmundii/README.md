@@ -1,5 +1,4 @@
-Amithalithina sigmundii J.J. Pospichal & S.W. Wise SPECIES
-=======
+# Amithalithina sigmundii J.J. Pospichal & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

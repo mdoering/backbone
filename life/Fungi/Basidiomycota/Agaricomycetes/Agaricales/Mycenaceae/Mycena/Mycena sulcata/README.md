@@ -1,5 +1,4 @@
-Mycena sulcata Velen. SPECIES
-=======
+# Mycena sulcata Velen. SPECIES
 
 #### Status
 ACCEPTED

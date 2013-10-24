@@ -1,5 +1,4 @@
-Entylomella pfaffii (Bubák) Höhn. SPECIES
-=======
+# Entylomella pfaffii (Bubák) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subhirtella Bon SPECIES
-=======
+# Inocybe subhirtella Bon SPECIES
 
 #### Status
 ACCEPTED

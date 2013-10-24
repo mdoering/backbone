@@ -1,5 +1,4 @@
-Coccidioides posadasii M.C. Fisher, G.L. Koenig, T.J. White & J.W. Taylor SPECIES
-=======
+# Coccidioides posadasii M.C. Fisher, G.L. Koenig, T.J. White & J.W. Taylor SPECIES
 
 #### Status
 ACCEPTED

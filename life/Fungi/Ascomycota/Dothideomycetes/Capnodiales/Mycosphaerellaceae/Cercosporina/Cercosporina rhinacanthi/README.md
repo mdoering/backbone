@@ -1,14 +1,13 @@
-Cercosporina rhynacanthi (Höhn.) Sacc. SPECIES
-=======
+# Cercosporina rhinacanthi (Höhn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 25: 917 (1931)
 
 #### Original name
 Cercospora rhynacanthi Höhn.

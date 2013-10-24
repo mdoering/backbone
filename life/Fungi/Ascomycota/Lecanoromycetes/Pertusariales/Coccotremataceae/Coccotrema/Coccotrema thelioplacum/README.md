@@ -1,5 +1,4 @@
-Coccotrema thelioplacum (Nyl.) Imshaug SPECIES
-=======
+# Coccotrema thelioplacum (Nyl.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella porteana (Sacc.) Aa SPECIES
-=======
+# Asteromella porteana (Sacc.) Aa SPECIES
 
 #### Status
 ACCEPTED

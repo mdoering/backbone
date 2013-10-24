@@ -1,14 +1,13 @@
-Trichosporiella sporotrichoides Oorschot, 1980 SPECIES
-=======
+# Trichosporon sporotrichoides (Oorschot) Oorschot & de Hoog, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 20: 66 (1980)
+Antonie van Leeuwenhoek 47(4): 364 (1981)
 
 #### Original name
 Trichosporiella sporotrichoides Oorschot, 1980

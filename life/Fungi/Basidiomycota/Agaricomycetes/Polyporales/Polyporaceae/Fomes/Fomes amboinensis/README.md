@@ -1,5 +1,4 @@
-Fomes amboinensis (Lam.) Cooke SPECIES
-=======
+# Fomes amboinensis (Lam.) Cooke SPECIES
 
 #### Status
 ACCEPTED

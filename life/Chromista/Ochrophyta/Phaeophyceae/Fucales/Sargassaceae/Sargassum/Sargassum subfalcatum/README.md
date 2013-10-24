@@ -1,5 +1,4 @@
-Sargassum subfalcatum Sonder SPECIES
-=======
+# Sargassum subfalcatum Sonder SPECIES
 
 #### Status
 ACCEPTED

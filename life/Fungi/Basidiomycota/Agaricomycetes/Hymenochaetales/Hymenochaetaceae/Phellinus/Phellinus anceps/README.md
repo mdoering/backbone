@@ -1,5 +1,4 @@
-Phellinus anceps Corner SPECIES
-=======
+# Phellinus anceps Corner SPECIES
 
 #### Status
 ACCEPTED

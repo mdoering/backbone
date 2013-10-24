@@ -1,5 +1,4 @@
-Rinodina chionea Th. Fr. SPECIES
-=======
+# Rinodina chionea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

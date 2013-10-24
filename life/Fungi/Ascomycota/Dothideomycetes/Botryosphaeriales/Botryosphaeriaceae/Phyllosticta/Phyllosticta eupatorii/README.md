@@ -1,5 +1,4 @@
-Phyllosticta eupatorii Allesch. SPECIES
-=======
+# Phyllosticta eupatorii Allesch. SPECIES
 
 #### Status
 ACCEPTED

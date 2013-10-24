@@ -1,5 +1,4 @@
-Russula sapinea Sarnari SPECIES
-=======
+# Russula sapinea Sarnari SPECIES
 
 #### Status
 ACCEPTED

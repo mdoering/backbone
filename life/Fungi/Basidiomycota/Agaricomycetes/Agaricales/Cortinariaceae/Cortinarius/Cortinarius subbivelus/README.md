@@ -1,5 +1,4 @@
-Cortinarius subbivelus Kauffman SPECIES
-=======
+# Cortinarius subbivelus Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis mosquitensis Tuck. SPECIES
-=======
+# Graphis mosquitensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

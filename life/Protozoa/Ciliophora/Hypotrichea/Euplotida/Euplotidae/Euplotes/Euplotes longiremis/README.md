@@ -1,5 +1,4 @@
-Euplotes longiremis SPECIES
-=======
+# Euplotes longiremis SPECIES
 
 #### Status
 ACCEPTED

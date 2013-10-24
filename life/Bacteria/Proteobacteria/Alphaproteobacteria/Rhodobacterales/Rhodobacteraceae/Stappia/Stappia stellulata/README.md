@@ -1,14 +1,13 @@
-Agrobacterium stellulatum (ex Stapp & Knösel, 1954) Rüger & Höfle, 1992 SPECIES
-=======
+# Stappia stellulata (Rüger & Höfle, 1992) Uchino et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ruger, H. J. , and Hofle, M. G. "Marine star-shaped-aggregate-forming bacteria: Agrobacterium atlanticum sp. nov. ; Agrobacterium meteori sp. nov. ; Agrobacterium ferrugineum sp. nov. , nom. rev. ; Agrobacterium gelatinovorum sp. nov. , nom. rev. ; and Agrobacterium stellulatum sp. nov. , nom. rev. " Int. J. Syst. Bacteriol. (1992) 42:133-143.
 
 #### Original name
 null

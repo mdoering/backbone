@@ -1,5 +1,4 @@
-Periconiella araliacearum G.F. Laundon, 1972 SPECIES
-=======
+# Periconiella araliacearum G.F. Laundon, 1972 SPECIES
 
 #### Status
 ACCEPTED

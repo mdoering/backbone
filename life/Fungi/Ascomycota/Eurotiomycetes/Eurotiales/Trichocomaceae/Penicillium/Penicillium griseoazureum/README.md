@@ -1,5 +1,4 @@
-Penicillium griseoazureum Moreau & V. Moreau SPECIES
-=======
+# Penicillium griseoazureum Moreau & V. Moreau SPECIES
 
 #### Status
 ACCEPTED

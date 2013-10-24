@@ -1,5 +1,4 @@
-Cercospora antirrhini A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora antirrhini A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

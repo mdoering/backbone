@@ -1,5 +1,4 @@
-Phragmidium rosae-arkansanae Dietel SPECIES
-=======
+# Phragmidium rosae-arkansanae Dietel SPECIES
 
 #### Status
 ACCEPTED

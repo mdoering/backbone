@@ -1,5 +1,4 @@
-Isochona tisbica Jankowski, in press SPECIES
-=======
+# Isochona tisbica Jankowski, in press SPECIES
 
 #### Status
 ACCEPTED

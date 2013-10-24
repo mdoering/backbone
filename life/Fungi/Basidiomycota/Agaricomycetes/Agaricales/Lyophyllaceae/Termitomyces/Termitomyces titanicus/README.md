@@ -1,5 +1,4 @@
-Termitomyces titanicus Pegler & Piearce SPECIES
-=======
+# Termitomyces titanicus Pegler & Piearce SPECIES
 
 #### Status
 ACCEPTED

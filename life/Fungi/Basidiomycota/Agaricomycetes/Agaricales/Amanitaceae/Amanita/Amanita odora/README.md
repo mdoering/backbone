@@ -1,5 +1,4 @@
-Amanita odora Lam. SPECIES
-=======
+# Amanita odora Lam. SPECIES
 
 #### Status
 ACCEPTED

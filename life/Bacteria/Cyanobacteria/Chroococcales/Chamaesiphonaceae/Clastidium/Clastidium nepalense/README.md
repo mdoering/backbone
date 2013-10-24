@@ -1,5 +1,4 @@
-Clastidium nepalense M. Watanabe & Komárek SPECIES
-=======
+# Clastidium nepalense M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

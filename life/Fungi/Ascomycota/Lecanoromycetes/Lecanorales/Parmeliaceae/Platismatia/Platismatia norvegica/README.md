@@ -1,17 +1,16 @@
-Cetraria norvegica f. norvegica FORM
-=======
+# Platismatia norvegica (Lynge) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. U. S. natnl. Herb. 34: 534 (1968)
 
 #### Original name
-Cetraria norvegica f. norvegica
+Cetraria lanosa f. norvegica Lynge
 
 ### Remarks
 null

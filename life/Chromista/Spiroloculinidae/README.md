@@ -1,5 +1,4 @@
-Spiroloculinidae Wiesner, 1920 FAMILY
-=======
+# Spiroloculinidae Wiesner, 1920 FAMILY
 
 #### Status
 ACCEPTED

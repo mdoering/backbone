@@ -1,5 +1,4 @@
-Pharcidia rhizophora Vain. SPECIES
-=======
+# Pharcidia rhizophora Vain. SPECIES
 
 #### Status
 ACCEPTED

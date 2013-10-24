@@ -1,5 +1,4 @@
-Diplodinula soeia (Tassi) Tassi SPECIES
-=======
+# Diplodinula soeia (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

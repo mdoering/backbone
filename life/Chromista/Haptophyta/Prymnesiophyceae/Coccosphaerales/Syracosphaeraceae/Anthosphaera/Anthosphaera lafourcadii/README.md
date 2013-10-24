@@ -1,5 +1,4 @@
-Anthosphaera lafourcadii (Lecal) Kleijne, 1991 SPECIES
-=======
+# Anthosphaera lafourcadii (Lecal) Kleijne, 1991 SPECIES
 
 #### Status
 ACCEPTED

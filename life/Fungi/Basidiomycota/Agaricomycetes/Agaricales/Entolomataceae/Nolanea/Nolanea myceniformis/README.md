@@ -1,5 +1,4 @@
-Nolanea myceniformis Murrill SPECIES
-=======
+# Nolanea myceniformis Murrill SPECIES
 
 #### Status
 ACCEPTED

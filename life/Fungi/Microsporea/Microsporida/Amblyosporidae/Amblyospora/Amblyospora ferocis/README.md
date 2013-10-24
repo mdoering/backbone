@@ -1,5 +1,4 @@
-Amblyospora ferocis SPECIES
-=======
+# Amblyospora ferocis SPECIES
 
 #### Status
 ACCEPTED

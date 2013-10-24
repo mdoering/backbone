@@ -1,17 +1,16 @@
-Geaster australis Reader {?} SPECIES
-=======
+# Geastrum australis Berk., 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora Tasman. 265 (1859)
 
 #### Original name
-Geaster australis Reader {?}
+Geastrum australis Berk., 1859
 
 ### Remarks
 null

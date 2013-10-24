@@ -1,5 +1,4 @@
-Septoria fragariaecola Lobik SPECIES
-=======
+# Septoria fragariaecola Lobik SPECIES
 
 #### Status
 ACCEPTED

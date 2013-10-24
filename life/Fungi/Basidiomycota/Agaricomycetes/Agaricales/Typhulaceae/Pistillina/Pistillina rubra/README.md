@@ -1,5 +1,4 @@
-Pistillina rubra Fautrey & Ferry SPECIES
-=======
+# Pistillina rubra Fautrey & Ferry SPECIES
 
 #### Status
 ACCEPTED

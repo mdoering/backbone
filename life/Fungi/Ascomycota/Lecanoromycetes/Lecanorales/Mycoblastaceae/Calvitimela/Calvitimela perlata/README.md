@@ -1,14 +1,13 @@
-Tephromela perlata Haugan & Timdal SPECIES
-=======
+# Calvitimela perlata (Haugan & Timdal) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Graphis Scripta 6(1): 22 (1994)
+in Santesson, Moberg, Nordin, Tønsberg & Vitikainen, Lichen-Forming and Lichenicolous Fungi of Fennoscandia 73 (2004)
 
 #### Original name
 Tephromela perlata Haugan & Timdal

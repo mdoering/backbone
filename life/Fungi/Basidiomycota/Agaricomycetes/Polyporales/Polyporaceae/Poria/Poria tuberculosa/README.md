@@ -1,5 +1,4 @@
-Poria tuberculosa Pers. SPECIES
-=======
+# Poria tuberculosa Pers. SPECIES
 
 #### Status
 ACCEPTED

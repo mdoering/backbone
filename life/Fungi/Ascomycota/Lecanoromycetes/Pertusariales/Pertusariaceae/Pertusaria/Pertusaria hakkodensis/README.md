@@ -1,5 +1,4 @@
-Pertusaria hakkodensis Räsänen SPECIES
-=======
+# Pertusaria hakkodensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

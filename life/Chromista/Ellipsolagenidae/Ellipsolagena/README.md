@@ -1,5 +1,4 @@
-Ellipsolagena Silvestri, 1923 GENUS
-=======
+# Ellipsolagena Silvestri, 1923 GENUS
 
 #### Status
 ACCEPTED

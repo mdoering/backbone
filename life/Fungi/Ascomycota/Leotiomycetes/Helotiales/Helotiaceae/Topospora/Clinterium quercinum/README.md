@@ -1,5 +1,4 @@
-Clinterium quercinum Bonord. SPECIES
-=======
+# Clinterium quercinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

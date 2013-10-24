@@ -1,14 +1,13 @@
-Gibberidea ravenelli (Cooke & Massee) Kuntze SPECIES
-=======
+# Gibberidea ravenelii (Cooke & Massee) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 481 (1898)
 
 #### Original name
 Cucurbitaria ravenelii Cooke & Massee

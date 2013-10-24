@@ -1,5 +1,4 @@
-Bifidobacterium pseudolongum subsp. pseudolongum Mitsuoka, 1969 SUBSPECIES
-=======
+# Bifidobacterium pseudolongum Mitsuoka, 1969 SPECIES
 
 #### Status
 ACCEPTED

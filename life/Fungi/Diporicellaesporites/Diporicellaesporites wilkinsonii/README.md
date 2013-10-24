@@ -1,5 +1,4 @@
-Diporicellaesporites wilkinsonii R.K. Saxena & N.K. Misra SPECIES
-=======
+# Diporicellaesporites wilkinsonii R.K. Saxena & N.K. Misra SPECIES
 
 #### Status
 ACCEPTED

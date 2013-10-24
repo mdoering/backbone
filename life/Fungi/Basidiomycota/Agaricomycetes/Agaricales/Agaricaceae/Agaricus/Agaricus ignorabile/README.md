@@ -1,5 +1,4 @@
-Agaricus ignorabile Britzelm. SPECIES
-=======
+# Agaricus ignorabile Britzelm. SPECIES
 
 #### Status
 ACCEPTED

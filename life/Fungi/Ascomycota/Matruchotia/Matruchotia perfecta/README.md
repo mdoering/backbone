@@ -1,5 +1,4 @@
-Matruchotia perfecta Rick SPECIES
-=======
+# Matruchotia perfecta Rick SPECIES
 
 #### Status
 ACCEPTED

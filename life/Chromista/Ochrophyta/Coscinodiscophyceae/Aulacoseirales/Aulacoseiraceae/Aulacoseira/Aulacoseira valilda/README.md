@@ -1,5 +1,4 @@
-Aulacoseira valilda (Grunow) Krammer SPECIES
-=======
+# Aulacoseira valilda (Grunow) Krammer SPECIES
 
 #### Status
 ACCEPTED

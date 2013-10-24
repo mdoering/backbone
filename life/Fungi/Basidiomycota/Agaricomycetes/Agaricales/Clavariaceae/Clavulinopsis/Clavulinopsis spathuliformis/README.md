@@ -1,5 +1,4 @@
-Clavulinopsis spathuliformis (Bres.) Corner SPECIES
-=======
+# Clavulinopsis spathuliformis (Bres.) Corner SPECIES
 
 #### Status
 ACCEPTED

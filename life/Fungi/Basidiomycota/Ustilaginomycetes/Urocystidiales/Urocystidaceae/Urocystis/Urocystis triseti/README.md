@@ -1,5 +1,4 @@
-Urocystis triseti (Cif.) Zundel SPECIES
-=======
+# Urocystis triseti (Cif.) Zundel SPECIES
 
 #### Status
 ACCEPTED

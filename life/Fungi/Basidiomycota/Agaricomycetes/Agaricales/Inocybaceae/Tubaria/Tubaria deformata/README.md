@@ -1,5 +1,4 @@
-Tubaria deformata Peck SPECIES
-=======
+# Tubaria deformata Peck SPECIES
 
 #### Status
 ACCEPTED

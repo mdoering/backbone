@@ -1,5 +1,4 @@
-Gyrophragmium Mont. GENUS
-=======
+# Gyrophragmium Mont. GENUS
 
 #### Status
 ACCEPTED

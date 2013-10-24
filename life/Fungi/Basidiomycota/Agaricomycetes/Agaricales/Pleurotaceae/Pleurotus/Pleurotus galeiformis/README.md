@@ -1,5 +1,4 @@
-Pleurotus galeiformis (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus galeiformis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

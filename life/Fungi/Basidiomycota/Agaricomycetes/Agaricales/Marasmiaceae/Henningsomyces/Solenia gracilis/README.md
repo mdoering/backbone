@@ -1,5 +1,4 @@
-Solenia gracilis Copel. SPECIES
-=======
+# Solenia gracilis Copel. SPECIES
 
 #### Status
 ACCEPTED

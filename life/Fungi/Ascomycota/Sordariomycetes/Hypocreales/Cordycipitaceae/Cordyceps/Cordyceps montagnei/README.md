@@ -1,5 +1,4 @@
-Cordyceps montagnei Berk. & M.A. Curtis SPECIES
-=======
+# Cordyceps montagnei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

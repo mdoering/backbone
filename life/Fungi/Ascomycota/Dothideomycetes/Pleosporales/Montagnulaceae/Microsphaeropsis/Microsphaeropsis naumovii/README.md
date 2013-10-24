@@ -1,5 +1,4 @@
-Microsphaeropsis naumovii (Gucevic) Vanev & Aa SPECIES
-=======
+# Microsphaeropsis naumovii (Gucevic) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

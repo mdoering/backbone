@@ -1,5 +1,4 @@
-Bankera cinerea (Bull.) Rauschert SPECIES
-=======
+# Bankera cinerea (Bull.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

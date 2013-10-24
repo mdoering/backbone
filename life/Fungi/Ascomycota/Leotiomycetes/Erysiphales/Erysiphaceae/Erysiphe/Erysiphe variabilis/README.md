@@ -1,5 +1,4 @@
-Erysiphe variabilis (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe variabilis (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

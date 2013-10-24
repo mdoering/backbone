@@ -1,5 +1,4 @@
-Tarzetta (Cooke) Lambotte, 1888 GENUS
-=======
+# Tarzetta (Cooke) Lambotte, 1888 GENUS
 
 #### Status
 ACCEPTED

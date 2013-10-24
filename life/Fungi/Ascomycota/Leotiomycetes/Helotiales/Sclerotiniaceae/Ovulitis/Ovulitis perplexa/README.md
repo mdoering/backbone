@@ -1,5 +1,4 @@
-Ovulitis perplexa N.F. Buchw. SPECIES
-=======
+# Ovulitis perplexa N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

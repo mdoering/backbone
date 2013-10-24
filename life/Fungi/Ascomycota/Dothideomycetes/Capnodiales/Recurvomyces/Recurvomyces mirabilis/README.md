@@ -1,5 +1,4 @@
-Recurvomyces mirabilis Selbmann & de Hoog, 2008 SPECIES
-=======
+# Recurvomyces mirabilis Selbmann & de Hoog, 2008 SPECIES
 
 #### Status
 ACCEPTED

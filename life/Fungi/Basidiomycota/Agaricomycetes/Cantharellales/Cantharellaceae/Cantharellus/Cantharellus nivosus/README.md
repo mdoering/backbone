@@ -1,5 +1,4 @@
-Cantharellus nivosus Berk. & M.A. Curtis SPECIES
-=======
+# Cantharellus nivosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

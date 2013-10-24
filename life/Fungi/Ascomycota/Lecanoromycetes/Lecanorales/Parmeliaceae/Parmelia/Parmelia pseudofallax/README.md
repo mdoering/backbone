@@ -1,5 +1,4 @@
-Parmelia pseudofallax Gyeln. SPECIES
-=======
+# Parmelia pseudofallax Gyeln. SPECIES
 
 #### Status
 ACCEPTED

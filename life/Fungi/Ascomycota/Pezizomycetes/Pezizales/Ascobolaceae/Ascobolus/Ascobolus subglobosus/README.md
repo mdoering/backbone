@@ -1,5 +1,4 @@
-Ascobolus subglobosus Seaver SPECIES
-=======
+# Ascobolus subglobosus Seaver SPECIES
 
 #### Status
 ACCEPTED

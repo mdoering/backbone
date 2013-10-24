@@ -1,5 +1,4 @@
-Cytosporella rhododendri Ferraris SPECIES
-=======
+# Cytosporella rhododendri Ferraris SPECIES
 
 #### Status
 ACCEPTED

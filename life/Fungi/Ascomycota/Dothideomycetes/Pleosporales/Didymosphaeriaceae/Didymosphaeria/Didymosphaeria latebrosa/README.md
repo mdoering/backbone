@@ -1,5 +1,4 @@
-Didymosphaeria latebrosa Mouton SPECIES
-=======
+# Didymosphaeria latebrosa Mouton SPECIES
 
 #### Status
 ACCEPTED

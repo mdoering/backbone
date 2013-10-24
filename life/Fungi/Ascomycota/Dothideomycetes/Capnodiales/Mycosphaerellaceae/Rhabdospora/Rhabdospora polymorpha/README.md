@@ -1,5 +1,4 @@
-Rhabdospora polymorpha Müll. Arg. SPECIES
-=======
+# Rhabdospora polymorpha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

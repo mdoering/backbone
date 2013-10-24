@@ -1,5 +1,4 @@
-Aplosporella avellanae Oudem. SPECIES
-=======
+# Aplosporella avellanae Oudem. SPECIES
 
 #### Status
 ACCEPTED

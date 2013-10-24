@@ -1,5 +1,4 @@
-Puccinia oriciae J.M. Yen & Gilles SPECIES
-=======
+# Puccinia oriciae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

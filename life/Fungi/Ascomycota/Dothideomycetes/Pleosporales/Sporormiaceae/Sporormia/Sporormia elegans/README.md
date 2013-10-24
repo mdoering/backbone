@@ -1,5 +1,4 @@
-Sporormia elegans Zukal SPECIES
-=======
+# Sporormia elegans Zukal SPECIES
 
 #### Status
 ACCEPTED

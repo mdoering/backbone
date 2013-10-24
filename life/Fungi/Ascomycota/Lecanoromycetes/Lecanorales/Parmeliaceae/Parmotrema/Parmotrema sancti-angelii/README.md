@@ -1,14 +1,13 @@
-Parmelia sancti-angelii Lynge SPECIES
-=======
+# Parmotrema sancti-angelii (Lynge) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 13(13): 35 (1914)
+Phytologia 28: 339 (1974)
 
 #### Original name
 Parmelia sancti-angelii Lynge

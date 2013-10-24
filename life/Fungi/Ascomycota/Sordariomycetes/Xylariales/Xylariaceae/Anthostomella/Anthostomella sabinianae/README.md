@@ -1,17 +1,16 @@
-Anthostomella sabiniana S.M. Francis SPECIES
-=======
+# Anthostomella sabinianae S.M. Francis, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 139: 83 (1975)
 
 #### Original name
-Anthostomella sabiniana S.M. Francis
+Anthostomella sabinianae S.M. Francis, 1975
 
 ### Remarks
 null

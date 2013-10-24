@@ -1,5 +1,4 @@
-Marssonia capsulicola Rostr. SPECIES
-=======
+# Marssonia capsulicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

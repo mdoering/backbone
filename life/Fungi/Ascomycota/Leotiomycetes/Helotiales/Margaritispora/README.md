@@ -1,5 +1,4 @@
-Margaritispora Ingold, 1942 GENUS
-=======
+# Margaritispora Ingold, 1942 GENUS
 
 #### Status
 ACCEPTED

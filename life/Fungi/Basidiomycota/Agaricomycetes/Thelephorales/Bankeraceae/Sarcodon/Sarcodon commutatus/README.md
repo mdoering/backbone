@@ -1,17 +1,16 @@
-Sarcodon commutatum Bourdot & Galzin SPECIES
-=======
+# Sarcodon commutatus Bourdot & Galzin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 40(2): 109 (1924)
 
 #### Original name
-Sarcodon commutatum Bourdot & Galzin
+Sarcodon commutatus Bourdot & Galzin
 
 ### Remarks
 null

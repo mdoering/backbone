@@ -1,5 +1,4 @@
-Corticium roridum Speg. SPECIES
-=======
+# Corticium roridum Speg. SPECIES
 
 #### Status
 ACCEPTED

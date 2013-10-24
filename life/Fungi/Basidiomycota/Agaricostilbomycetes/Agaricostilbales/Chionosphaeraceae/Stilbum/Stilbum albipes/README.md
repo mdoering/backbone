@@ -1,5 +1,4 @@
-Stilbum albipes Massee SPECIES
-=======
+# Stilbum albipes Massee SPECIES
 
 #### Status
 ACCEPTED

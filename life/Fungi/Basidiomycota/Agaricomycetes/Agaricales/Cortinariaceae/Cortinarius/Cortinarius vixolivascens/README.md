@@ -1,5 +1,4 @@
-Cortinarius vixolivascens Rob. Henry SPECIES
-=======
+# Cortinarius vixolivascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

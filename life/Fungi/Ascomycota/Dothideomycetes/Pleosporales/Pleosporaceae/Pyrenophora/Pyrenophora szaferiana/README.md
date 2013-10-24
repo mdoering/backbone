@@ -1,5 +1,4 @@
-Pyrenophora szaferiana Moesz SPECIES
-=======
+# Pyrenophora szaferiana Moesz SPECIES
 
 #### Status
 ACCEPTED

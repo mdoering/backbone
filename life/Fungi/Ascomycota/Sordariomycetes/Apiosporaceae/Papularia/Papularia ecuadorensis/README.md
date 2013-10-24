@@ -1,5 +1,4 @@
-Papularia ecuadorensis Petr., 1950 SPECIES
-=======
+# Papularia ecuadorensis Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

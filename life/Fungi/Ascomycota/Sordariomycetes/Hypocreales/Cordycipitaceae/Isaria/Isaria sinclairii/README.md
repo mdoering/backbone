@@ -1,5 +1,4 @@
-Isaria sinclairii (Berk.) Lloyd, 1923 SPECIES
-=======
+# Isaria sinclairii (Berk.) Lloyd, 1923 SPECIES
 
 #### Status
 ACCEPTED

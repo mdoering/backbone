@@ -1,5 +1,4 @@
-Candelariella minuta Reichert & Galun SPECIES
-=======
+# Candelariella minuta Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

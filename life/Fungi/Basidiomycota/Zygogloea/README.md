@@ -1,5 +1,4 @@
-Zygogloea P. Roberts GENUS
-=======
+# Zygogloea P. Roberts GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora pini Fuckel SPECIES
-=======
+# Cytospora pini Fuckel SPECIES
 
 #### Status
 ACCEPTED

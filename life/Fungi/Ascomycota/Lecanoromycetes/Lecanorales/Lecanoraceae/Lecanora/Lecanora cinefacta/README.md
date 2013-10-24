@@ -1,5 +1,4 @@
-Lecanora cinefacta Stizenb. SPECIES
-=======
+# Lecanora cinefacta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

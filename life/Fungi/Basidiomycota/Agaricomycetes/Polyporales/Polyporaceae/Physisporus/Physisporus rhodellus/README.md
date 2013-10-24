@@ -1,5 +1,4 @@
-Physisporus rhodellus (Fr.) Gillet SPECIES
-=======
+# Physisporus rhodellus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

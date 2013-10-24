@@ -1,5 +1,4 @@
-Hydrocoryne neocaledonica A. Couté, G. Tell & Y. Thérézien SPECIES
-=======
+# Hydrocoryne neocaledonica A. Couté, G. Tell & Y. Thérézien SPECIES
 
 #### Status
 ACCEPTED

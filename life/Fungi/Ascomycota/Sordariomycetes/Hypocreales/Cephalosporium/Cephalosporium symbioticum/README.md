@@ -1,5 +1,4 @@
-Cephalosporium symbioticum Pinkerton SPECIES
-=======
+# Cephalosporium symbioticum Pinkerton SPECIES
 
 #### Status
 ACCEPTED

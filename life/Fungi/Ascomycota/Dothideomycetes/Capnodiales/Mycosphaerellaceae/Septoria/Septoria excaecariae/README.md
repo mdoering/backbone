@@ -1,5 +1,4 @@
-Septoria excaecariae Speg. SPECIES
-=======
+# Septoria excaecariae Speg. SPECIES
 
 #### Status
 ACCEPTED

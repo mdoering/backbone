@@ -1,5 +1,4 @@
-Naviculopsis americana D. Bukry SPECIES
-=======
+# Naviculopsis americana D. Bukry SPECIES
 
 #### Status
 ACCEPTED

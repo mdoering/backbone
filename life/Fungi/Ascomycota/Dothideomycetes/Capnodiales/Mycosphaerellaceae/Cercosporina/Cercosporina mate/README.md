@@ -1,5 +1,4 @@
-Cercosporina mate Speg. SPECIES
-=======
+# Cercosporina mate Speg. SPECIES
 
 #### Status
 ACCEPTED

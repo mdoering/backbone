@@ -1,5 +1,4 @@
-Curvularia senegarensis (Speg.) Subramanian SPECIES
-=======
+# Curvularia senegarensis (Speg.) Subramanian SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchostoma rhytidosporum Penz. & Sacc. SPECIES
-=======
+# Rhynchostoma rhytidosporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

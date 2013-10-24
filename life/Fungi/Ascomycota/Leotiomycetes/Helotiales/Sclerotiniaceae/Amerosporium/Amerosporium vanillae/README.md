@@ -1,5 +1,4 @@
-Amerosporium vanillae Henn. SPECIES
-=======
+# Amerosporium vanillae Henn. SPECIES
 
 #### Status
 ACCEPTED

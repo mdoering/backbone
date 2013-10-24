@@ -1,5 +1,4 @@
-Geitlerinema carotinosum (Geitler) Anagnostidis SPECIES
-=======
+# Geitlerinema carotinosum (Geitler) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

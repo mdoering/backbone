@@ -1,5 +1,4 @@
-Mycosphaerella isoplexidis Petr. SPECIES
-=======
+# Mycosphaerella isoplexidis Petr. SPECIES
 
 #### Status
 ACCEPTED

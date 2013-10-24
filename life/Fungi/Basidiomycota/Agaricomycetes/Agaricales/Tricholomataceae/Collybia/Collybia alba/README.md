@@ -1,5 +1,4 @@
-Collybia alba Peck SPECIES
-=======
+# Collybia alba Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Opisthomitus Duboscq & Grassé, 1934 GENUS
-=======
+# Microrhopalodina Grassi & Foa, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Zool. exp. gén. Paris, 75, 615.
+Atti Accad. Lincei, Rend. , (5) 20 (1), 730.
 
 #### Original name
 null

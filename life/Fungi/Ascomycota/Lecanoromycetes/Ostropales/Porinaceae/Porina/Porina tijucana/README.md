@@ -1,5 +1,4 @@
-Porina tijucana Müll. Arg. SPECIES
-=======
+# Porina tijucana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

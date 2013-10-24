@@ -1,5 +1,4 @@
-Biatora sarcodea (Nyl.) Arnold SPECIES
-=======
+# Biatora sarcodea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

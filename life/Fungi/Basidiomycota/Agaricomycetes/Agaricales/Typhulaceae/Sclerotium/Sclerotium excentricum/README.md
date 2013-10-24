@@ -1,5 +1,4 @@
-Sclerotium excentricum Fr. SPECIES
-=======
+# Sclerotium excentricum Fr. SPECIES
 
 #### Status
 ACCEPTED

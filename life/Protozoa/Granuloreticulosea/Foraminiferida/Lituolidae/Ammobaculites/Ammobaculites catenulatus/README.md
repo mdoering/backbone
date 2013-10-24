@@ -1,5 +1,4 @@
-Ammobaculites catenulatus Cushman & McCulloch, 1939 SPECIES
-=======
+# Ammobaculites catenulatus Cushman & McCulloch, 1939 SPECIES
 
 #### Status
 ACCEPTED

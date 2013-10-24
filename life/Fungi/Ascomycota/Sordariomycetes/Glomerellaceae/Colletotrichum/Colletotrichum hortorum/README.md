@@ -1,5 +1,4 @@
-Colletotrichum hortorum Av.-Saccá SPECIES
-=======
+# Colletotrichum hortorum Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

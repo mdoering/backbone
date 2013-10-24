@@ -1,5 +1,4 @@
-Uredo terminaliae Henn. SPECIES
-=======
+# Uredo terminaliae Henn. SPECIES
 
 #### Status
 ACCEPTED

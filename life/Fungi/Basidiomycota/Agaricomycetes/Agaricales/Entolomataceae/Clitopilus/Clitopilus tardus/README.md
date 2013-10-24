@@ -1,5 +1,4 @@
-Clitopilus tardus (Peck) Peck SPECIES
-=======
+# Clitopilus tardus (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

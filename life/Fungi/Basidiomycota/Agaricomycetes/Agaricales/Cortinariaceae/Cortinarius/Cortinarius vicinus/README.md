@@ -1,5 +1,4 @@
-Cortinarius vicinus Bidaud, Consiglio, D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius vicinus Bidaud, Consiglio, D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

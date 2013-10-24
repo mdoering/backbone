@@ -1,5 +1,4 @@
-Gyalideopsis pallida Lücking SPECIES
-=======
+# Gyalideopsis pallida Lücking SPECIES
 
 #### Status
 ACCEPTED

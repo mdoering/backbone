@@ -1,5 +1,4 @@
-Echinoplaca streimannii Sérus. SPECIES
-=======
+# Echinoplaca streimannii Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora vegae Malme SPECIES
-=======
+# Lecanora vegae Malme SPECIES
 
 #### Status
 ACCEPTED

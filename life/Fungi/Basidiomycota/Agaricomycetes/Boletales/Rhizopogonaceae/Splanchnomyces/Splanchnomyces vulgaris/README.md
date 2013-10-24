@@ -1,5 +1,4 @@
-Splanchnomyces vulgaris Corda SPECIES
-=======
+# Splanchnomyces vulgaris Corda SPECIES
 
 #### Status
 ACCEPTED

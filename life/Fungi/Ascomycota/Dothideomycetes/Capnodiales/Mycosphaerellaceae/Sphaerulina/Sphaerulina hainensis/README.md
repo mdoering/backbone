@@ -1,5 +1,4 @@
-Sphaerulina hainensis Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerulina hainensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha laxifila R.K. Chopra & T.N. Lakh., 1992 SPECIES
-=======
+# Comatricha laxifila R.K. Chopra & T.N. Lakh., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta helianthi Abramov SPECIES
-=======
+# Ascochyta helianthi Abramov SPECIES
 
 #### Status
 ACCEPTED

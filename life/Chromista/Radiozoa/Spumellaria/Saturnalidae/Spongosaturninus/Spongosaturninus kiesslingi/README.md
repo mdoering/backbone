@@ -1,5 +1,4 @@
-Spongosaturninus kiesslingi SPECIES
-=======
+# Spongosaturninus kiesslingi SPECIES
 
 #### Status
 ACCEPTED

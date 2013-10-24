@@ -1,5 +1,4 @@
-Naumovia Kurtzman, 2003 GENUS
-=======
+# Naumovia Kurtzman, 2003 GENUS
 
 #### Status
 ACCEPTED

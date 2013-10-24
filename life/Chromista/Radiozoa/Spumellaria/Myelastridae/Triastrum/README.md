@@ -1,5 +1,4 @@
-Triastrum Cleve, 1902 GENUS
-=======
+# Triastrum Cleve, 1902 GENUS
 
 #### Status
 ACCEPTED

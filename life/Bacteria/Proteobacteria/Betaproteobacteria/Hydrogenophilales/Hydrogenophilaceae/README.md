@@ -1,5 +1,4 @@
-Hydrogenophilaceae FAMILY
-=======
+# Hydrogenophilaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus paludum (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus paludum (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

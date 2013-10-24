@@ -1,5 +1,4 @@
-Septoria urgineae Pass. & Beltr. SPECIES
-=======
+# Septoria urgineae Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

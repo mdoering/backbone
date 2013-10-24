@@ -1,5 +1,4 @@
-Mallomonas rhapaloides Conrad SPECIES
-=======
+# Mallomonas rhapaloides Conrad SPECIES
 
 #### Status
 ACCEPTED

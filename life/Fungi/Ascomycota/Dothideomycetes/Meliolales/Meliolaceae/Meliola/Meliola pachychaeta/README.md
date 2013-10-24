@@ -1,5 +1,4 @@
-Meliola pachychaeta Syd. SPECIES
-=======
+# Meliola pachychaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

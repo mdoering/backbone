@@ -1,5 +1,4 @@
-Diploderma suberosum Cooke & Massee SPECIES
-=======
+# Diploderma suberosum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

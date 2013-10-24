@@ -1,5 +1,4 @@
-Sinoboletus magnisporus M. Zang & C.M. Chen, 1998 SPECIES
-=======
+# Sinoboletus magnisporus M. Zang & C.M. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

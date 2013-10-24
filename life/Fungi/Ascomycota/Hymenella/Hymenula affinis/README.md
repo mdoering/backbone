@@ -1,5 +1,4 @@
-Hymenula affinis (Fautrey & Lambotte) Wollenw. SPECIES
-=======
+# Hymenula affinis (Fautrey & Lambotte) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

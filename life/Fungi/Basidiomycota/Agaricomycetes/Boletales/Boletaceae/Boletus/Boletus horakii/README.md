@@ -1,5 +1,4 @@
-Boletus horakii T.N. Lakh. & R. Sharma SPECIES
-=======
+# Boletus horakii T.N. Lakh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

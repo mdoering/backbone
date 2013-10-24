@@ -1,5 +1,4 @@
-Porina GENUS
-=======
+# Porina GENUS
 
 #### Status
 ACCEPTED

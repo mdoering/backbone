@@ -1,5 +1,4 @@
-Melampsora bigelowii Thüm. SPECIES
-=======
+# Melampsora bigelowii Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomonilia R.F. Castañeda, Heredia & R.M. Arias GENUS
-=======
+# Phaeomonilia R.F. Castañeda, Heredia & R.M. Arias GENUS
 
 #### Status
 ACCEPTED

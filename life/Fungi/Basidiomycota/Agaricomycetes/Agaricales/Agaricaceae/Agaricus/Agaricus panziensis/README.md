@@ -1,5 +1,4 @@
-Agaricus panziensis Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus panziensis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

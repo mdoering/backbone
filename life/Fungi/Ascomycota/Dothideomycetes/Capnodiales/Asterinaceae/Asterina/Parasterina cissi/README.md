@@ -1,5 +1,4 @@
-Parasterina cissi (S. Hughes) Bat. & H. Maia SPECIES
-=======
+# Parasterina cissi (S. Hughes) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

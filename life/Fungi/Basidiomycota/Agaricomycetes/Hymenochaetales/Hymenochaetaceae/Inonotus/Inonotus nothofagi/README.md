@@ -1,17 +1,16 @@
-Polyporus radiatus subsp. radiatus SUBSPECIES
-=======
+# Inonotus nothofagi G. Cunn., 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 78: 1 (1948)
 
 #### Original name
-null
+Inonotus nothofagi G. Cunn., 1948
 
 ### Remarks
 null

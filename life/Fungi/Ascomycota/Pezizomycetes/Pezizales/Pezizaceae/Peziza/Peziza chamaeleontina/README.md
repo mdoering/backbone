@@ -1,5 +1,4 @@
-Peziza chamaeleontina Peck SPECIES
-=======
+# Peziza chamaeleontina Peck SPECIES
 
 #### Status
 ACCEPTED

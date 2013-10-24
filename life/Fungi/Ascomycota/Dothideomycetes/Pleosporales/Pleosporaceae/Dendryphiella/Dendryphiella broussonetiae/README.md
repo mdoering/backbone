@@ -1,5 +1,4 @@
-Dendryphiella broussonetiae Y.L. Guo & Z.Y. Zhang SPECIES
-=======
+# Dendryphiella broussonetiae Y.L. Guo & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium deplanatum Fr. SPECIES
-=======
+# Cryptosporium deplanatum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia pulla var. pulla VARIETY
-=======
+# Collybia pulla (Schaeff.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomycètes (Alençon) 317 (1876)
 
 #### Original name
-Collybia pulla var. pulla
+Agaricus pullus Batsch, 1783
 
 ### Remarks
 null

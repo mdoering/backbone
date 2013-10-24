@@ -1,5 +1,4 @@
-Phyllosticta theobromae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phyllosticta theobromae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

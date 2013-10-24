@@ -1,5 +1,4 @@
-Entoloma subeccentricum W.M. Zhang SPECIES
-=======
+# Entoloma subeccentricum W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

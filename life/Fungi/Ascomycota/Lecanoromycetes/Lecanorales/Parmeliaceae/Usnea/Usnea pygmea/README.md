@@ -1,5 +1,4 @@
-Usnea pygmea Motyka SPECIES
-=======
+# Usnea pygmea Motyka SPECIES
 
 #### Status
 ACCEPTED

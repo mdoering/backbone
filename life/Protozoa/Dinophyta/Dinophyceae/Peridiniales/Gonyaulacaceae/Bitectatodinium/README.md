@@ -1,14 +1,13 @@
-Caledonidinium Reid, 1974 GENUS
-=======
+# Bitectatodinium G.J.Wilson, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Nova Hedwigia 25: 589.
+N. Z. Jl Geol. Geophys. 16: 351.
 
 #### Original name
 null

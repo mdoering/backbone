@@ -1,5 +1,4 @@
-Graphium pistillarioides Speg. SPECIES
-=======
+# Graphium pistillarioides Speg. SPECIES
 
 #### Status
 ACCEPTED

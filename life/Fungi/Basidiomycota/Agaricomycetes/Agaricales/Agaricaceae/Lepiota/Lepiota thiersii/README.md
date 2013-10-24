@@ -1,5 +1,4 @@
-Lepiota thiersii Sundb. SPECIES
-=======
+# Lepiota thiersii Sundb. SPECIES
 
 #### Status
 ACCEPTED

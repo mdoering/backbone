@@ -1,5 +1,4 @@
-Paracoccus halophilus Liu, Wang, Liu, Dai, Liu & Liu, 2008 SPECIES
-=======
+# Paracoccus halophilus Liu, Wang, Liu, Dai, Liu & Liu, 2008 SPECIES
 
 #### Status
 ACCEPTED

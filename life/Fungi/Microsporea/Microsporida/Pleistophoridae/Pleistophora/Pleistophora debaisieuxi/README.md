@@ -1,5 +1,4 @@
-Pleistophora debaisieuxi Jírovec SPECIES
-=======
+# Pleistophora debaisieuxi Jírovec SPECIES
 
 #### Status
 ACCEPTED

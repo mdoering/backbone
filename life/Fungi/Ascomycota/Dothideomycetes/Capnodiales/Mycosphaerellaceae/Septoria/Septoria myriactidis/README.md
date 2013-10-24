@@ -1,5 +1,4 @@
-Septoria myriactidis Syd. SPECIES
-=======
+# Septoria myriactidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia subpulverulenta Szatala SPECIES
-=======
+# Physcia subpulverulenta Szatala SPECIES
 
 #### Status
 ACCEPTED

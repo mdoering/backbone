@@ -1,5 +1,4 @@
-Goniomorpha Yin Leiming, 1986 GENUS
-=======
+# Goniomorpha Yin Leiming, 1986 GENUS
 
 #### Status
 ACCEPTED

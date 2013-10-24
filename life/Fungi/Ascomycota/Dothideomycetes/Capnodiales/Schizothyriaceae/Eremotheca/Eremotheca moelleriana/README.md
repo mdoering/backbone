@@ -1,14 +1,13 @@
-Eremotheca molleriana (Sacc.) Petr. SPECIES
-=======
+# Eremotheca moelleriana (Sacc.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 27: 353 (1929)
 
 #### Original name
 Micropeltis moelleriana Sacc.

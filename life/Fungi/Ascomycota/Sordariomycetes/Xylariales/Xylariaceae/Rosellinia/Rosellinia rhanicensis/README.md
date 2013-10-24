@@ -1,5 +1,4 @@
-Rosellinia rhanicensis Petr. SPECIES
-=======
+# Rosellinia rhanicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

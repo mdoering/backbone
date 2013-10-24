@@ -1,5 +1,4 @@
-Arthonia obtrita Fée SPECIES
-=======
+# Arthonia obtrita Fée SPECIES
 
 #### Status
 ACCEPTED

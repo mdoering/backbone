@@ -1,5 +1,4 @@
-Tylopilus niger (Heinem. & Gooss.-Font.) Wolfe SPECIES
-=======
+# Tylopilus niger (Heinem. & Gooss.-Font.) Wolfe SPECIES
 
 #### Status
 ACCEPTED

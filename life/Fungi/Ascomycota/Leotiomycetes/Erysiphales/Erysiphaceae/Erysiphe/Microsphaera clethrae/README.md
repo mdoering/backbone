@@ -1,5 +1,4 @@
-Microsphaera clethrae U. Braun SPECIES
-=======
+# Microsphaera clethrae U. Braun SPECIES
 
 #### Status
 ACCEPTED

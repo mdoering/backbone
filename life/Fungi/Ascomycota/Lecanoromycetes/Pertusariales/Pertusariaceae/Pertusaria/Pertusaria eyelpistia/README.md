@@ -1,5 +1,4 @@
-Pertusaria eyelpistia A. Massal. SPECIES
-=======
+# Pertusaria eyelpistia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aecidium rhamnatum Link SPECIES
-=======
+# Aecidium frangulae Schumach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 225 (1803)
 
 #### Original name
-null
+Aecidium frangulae Schumach.
 
 ### Remarks
 null

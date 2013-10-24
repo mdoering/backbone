@@ -1,5 +1,4 @@
-Tapesia cembricola Rehm SPECIES
-=======
+# Tapesia cembricola Rehm SPECIES
 
 #### Status
 ACCEPTED

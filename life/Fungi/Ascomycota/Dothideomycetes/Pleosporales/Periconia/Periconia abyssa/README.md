@@ -1,5 +1,4 @@
-Periconia abyssa Kohlm., 1977 SPECIES
-=======
+# Periconia abyssa Kohlm., 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe tehuelches Speg. SPECIES
-=======
+# Clitocybe tehuelches Speg. SPECIES
 
 #### Status
 ACCEPTED

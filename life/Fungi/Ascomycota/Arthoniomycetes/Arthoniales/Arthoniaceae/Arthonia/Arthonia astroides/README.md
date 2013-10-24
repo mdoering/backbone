@@ -1,5 +1,4 @@
-Arthonia astroides f. astroides FORM
-=======
+# Arthonia astroides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia astroides f. astroides
+null
 
 ### Remarks
 null

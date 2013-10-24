@@ -1,14 +1,13 @@
-Septoria thecicola var. scapicola P. Karst. VARIETY
-=======
+# Leptochlamys scapicola (P. Karst.) Died., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(5/6): 299 (1921)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Hyalosphaera ciliata Rossman, 1987 SPECIES
-=======
+# Hyalosphaera ciliata Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

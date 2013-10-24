@@ -1,14 +1,13 @@
-Beauveria dependens (Limber) Saccas, 1948 SPECIES
-=======
+# Tritirachium dependens Limber, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 13: 64 (1948)
+Mycologia 32: 26 (1940)
 
 #### Original name
 Tritirachium dependens Limber, 1940

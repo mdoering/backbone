@@ -1,5 +1,4 @@
-Lecanidion argyrioides (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Lecanidion argyrioides (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

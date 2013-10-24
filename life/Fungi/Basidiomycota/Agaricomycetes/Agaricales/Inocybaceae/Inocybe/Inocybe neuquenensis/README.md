@@ -1,5 +1,4 @@
-Inocybe neuquenensis Singer SPECIES
-=======
+# Inocybe neuquenensis Singer SPECIES
 
 #### Status
 ACCEPTED

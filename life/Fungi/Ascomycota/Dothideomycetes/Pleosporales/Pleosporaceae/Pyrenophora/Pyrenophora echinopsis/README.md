@@ -1,5 +1,4 @@
-Pyrenophora echinopsis (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Pyrenophora echinopsis (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

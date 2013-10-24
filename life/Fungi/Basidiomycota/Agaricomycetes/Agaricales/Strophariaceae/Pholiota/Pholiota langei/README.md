@@ -1,5 +1,4 @@
-Pholiota langei Singer SPECIES
-=======
+# Pholiota langei Singer SPECIES
 
 #### Status
 ACCEPTED

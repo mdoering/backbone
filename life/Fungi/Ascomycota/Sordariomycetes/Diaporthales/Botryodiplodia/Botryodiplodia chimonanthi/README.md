@@ -1,5 +1,4 @@
-Botryodiplodia chimonanthi (Tassi) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia chimonanthi (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

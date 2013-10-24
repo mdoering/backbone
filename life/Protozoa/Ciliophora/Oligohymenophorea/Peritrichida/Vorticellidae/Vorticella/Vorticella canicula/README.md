@@ -1,5 +1,4 @@
-Vorticella canicula Müller, 1786 SPECIES
-=======
+# Vorticella canicula Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

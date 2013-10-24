@@ -1,5 +1,4 @@
-Clavaria atra J.F. Gmel. SPECIES
-=======
+# Clavaria atra J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

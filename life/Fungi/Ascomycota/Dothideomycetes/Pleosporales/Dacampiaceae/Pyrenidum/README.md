@@ -1,5 +1,4 @@
-Pyrenidum GENUS
-=======
+# Pyrenidum GENUS
 
 #### Status
 ACCEPTED

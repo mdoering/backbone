@@ -1,5 +1,4 @@
-Globocassidulina minuta (Cushman, 1933) SPECIES
-=======
+# Globocassidulina minuta (Cushman, 1933) SPECIES
 
 #### Status
 ACCEPTED

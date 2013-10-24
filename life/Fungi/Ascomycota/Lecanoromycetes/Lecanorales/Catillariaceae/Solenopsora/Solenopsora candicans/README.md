@@ -1,14 +1,13 @@
-Amphiloma candicans (Dicks.) Körb. SPECIES
-=======
+# Solenopsora candicans (Dicks.) J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 65: 288 (1915)
 
 #### Original name
 Lichen candicans Dicks.

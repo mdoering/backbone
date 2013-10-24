@@ -1,5 +1,4 @@
-Trachelomonas skujae Skvortzov SPECIES
-=======
+# Trachelomonas skujae Skvortzov SPECIES
 
 #### Status
 ACCEPTED

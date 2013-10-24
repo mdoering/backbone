@@ -1,5 +1,4 @@
-Crepidotus leucochrysos Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus leucochrysos Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

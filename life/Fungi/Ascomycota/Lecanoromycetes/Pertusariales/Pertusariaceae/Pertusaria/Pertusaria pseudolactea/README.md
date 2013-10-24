@@ -1,5 +1,4 @@
-Pertusaria pseudolactea Erichsen SPECIES
-=======
+# Pertusaria pseudolactea Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nowakowskiella endogena Const. SPECIES
-=======
+# Nowakowskiella endogena Const. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brucea Rikkinen, 2003 GENUS
-=======
+# Brucea Rikkinen, 2003 GENUS
 
 #### Status
 ACCEPTED

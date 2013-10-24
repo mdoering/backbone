@@ -1,5 +1,4 @@
-Rhytisma pruni E. Müll. SPECIES
-=======
+# Rhytisma pruni E. Müll. SPECIES
 
 #### Status
 ACCEPTED

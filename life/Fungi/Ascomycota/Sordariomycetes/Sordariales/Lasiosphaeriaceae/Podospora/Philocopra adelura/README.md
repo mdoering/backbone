@@ -1,5 +1,4 @@
-Philocopra adelura (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Philocopra adelura (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

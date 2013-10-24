@@ -1,5 +1,4 @@
-Leptosphaeria chaetostoma Sacc. SPECIES
-=======
+# Leptosphaeria chaetostoma Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyomyces bisterigmata (Boidin & Gilles) Hjortstam & Ryvarden SPECIES
-=======
+# Lyomyces bisterigmata (Boidin & Gilles) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

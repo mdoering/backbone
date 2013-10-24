@@ -1,5 +1,4 @@
-Harpidium rutilans Körb. SPECIES
-=======
+# Harpidium rutilans Körb. SPECIES
 
 #### Status
 ACCEPTED

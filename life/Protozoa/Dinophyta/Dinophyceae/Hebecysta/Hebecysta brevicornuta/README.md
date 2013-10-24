@@ -1,5 +1,4 @@
-Hebecysta brevicornuta Bujak & Fisher, 1976 SPECIES
-=======
+# Hebecysta brevicornuta Bujak & Fisher, 1976 SPECIES
 
 #### Status
 ACCEPTED

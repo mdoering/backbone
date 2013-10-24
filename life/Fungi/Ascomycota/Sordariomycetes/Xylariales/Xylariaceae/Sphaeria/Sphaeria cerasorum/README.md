@@ -1,5 +1,4 @@
-Sphaeria cerasorum Fr. SPECIES
-=======
+# Sphaeria cerasorum Fr. SPECIES
 
 #### Status
 ACCEPTED

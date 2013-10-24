@@ -1,5 +1,4 @@
-Helotium erraticum W.L. White SPECIES
-=======
+# Helotium erraticum W.L. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetomium semen-citrulli Sergeeva SPECIES
-=======
+# Chaetomium semenis-citrulli Sergeeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 11: 113 (1956)
 
 #### Original name
-Chaetomium semen-citrulli Sergeeva
+Chaetomium semenis-citrulli Sergeeva
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russuliopsis lineata Velen. SPECIES
-=======
+# Russuliopsis lineata Velen. SPECIES
 
 #### Status
 ACCEPTED

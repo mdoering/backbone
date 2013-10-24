@@ -1,5 +1,4 @@
-Puccinia chondroderma Lindr. SPECIES
-=======
+# Puccinia chondroderma Lindr. SPECIES
 
 #### Status
 ACCEPTED

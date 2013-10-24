@@ -1,5 +1,4 @@
-Cladochytrium pulposum A. Fisch. SPECIES
-=======
+# Cladochytrium pulposum A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

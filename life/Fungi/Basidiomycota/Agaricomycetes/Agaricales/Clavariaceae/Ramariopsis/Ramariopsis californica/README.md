@@ -1,14 +1,13 @@
-Clavulinopsis californica (R.H. Petersen) Jülich, 1985 SPECIES
-=======
+# Ramariopsis californica R.H. Petersen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 2(1): 121 (1985)
+Mycologia 61: 553 (1969)
 
 #### Original name
 Ramariopsis californica R.H. Petersen, 1969

@@ -1,5 +1,4 @@
-Phoma araucariae Traverso, 1900 SPECIES
-=======
+# Phoma araucariae Traverso, 1900 SPECIES
 
 #### Status
 ACCEPTED

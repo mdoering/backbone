@@ -1,17 +1,16 @@
-Plagiostoma castanicola Fakirova SPECIES
-=======
+# Plagiostoma castaneicola Fakirova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 5(3): 209 (1992)
 
 #### Original name
-Plagiostoma castanicola Fakirova
+Plagiostoma castaneicola Fakirova
 
 ### Remarks
 null

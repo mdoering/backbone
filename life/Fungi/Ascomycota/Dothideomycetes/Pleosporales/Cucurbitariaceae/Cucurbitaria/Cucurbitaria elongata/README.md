@@ -1,17 +1,16 @@
-Sphaeria elongata var. elongata VARIETY
-=======
+# Cucurbitaria elongata (Fr.) Grev., 1826 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. crypt. fl. (Edinburgh) 4(37-48): pl. 195 (1826)
 
 #### Original name
-Sphaeria elongata var. elongata
+Sphaeria elongata Fr., 1815
 
 ### Remarks
 null

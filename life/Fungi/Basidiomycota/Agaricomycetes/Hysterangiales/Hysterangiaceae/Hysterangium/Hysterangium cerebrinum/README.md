@@ -1,5 +1,4 @@
-Hysterangium cerebrinum (Lloyd) Lloyd SPECIES
-=======
+# Hysterangium cerebrinum (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca allanii Zahlbr. SPECIES
-=======
+# Caloplaca allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

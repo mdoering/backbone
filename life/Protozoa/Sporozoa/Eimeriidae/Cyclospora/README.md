@@ -1,5 +1,4 @@
-Cyclospora Schneider, 1881 GENUS
-=======
+# Cyclospora Schneider, 1881 GENUS
 
 #### Status
 ACCEPTED

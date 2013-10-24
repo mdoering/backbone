@@ -1,5 +1,4 @@
-Sorosphaera veronicae J. Schröt., 1886 SPECIES
-=======
+# Sorosphaera veronicae J. Schröt., 1886 SPECIES
 
 #### Status
 ACCEPTED

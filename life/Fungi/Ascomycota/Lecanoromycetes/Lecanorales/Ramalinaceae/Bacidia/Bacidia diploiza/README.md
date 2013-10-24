@@ -1,5 +1,4 @@
-Bacidia diploiza (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia diploiza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

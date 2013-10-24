@@ -1,5 +1,4 @@
-Chaetocypha straminea (J. Schröt.) Kuntze SPECIES
-=======
+# Chaetocypha straminea (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

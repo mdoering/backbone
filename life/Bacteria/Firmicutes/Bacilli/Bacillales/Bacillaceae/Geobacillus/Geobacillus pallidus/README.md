@@ -1,8 +1,7 @@
-Bacillus pallidus Scholz et al., 1988 SPECIES
-=======
+# Geobacillus pallidus (Scholz et al., 1988) Banat et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

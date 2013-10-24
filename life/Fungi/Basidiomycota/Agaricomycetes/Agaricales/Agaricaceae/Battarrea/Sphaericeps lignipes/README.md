@@ -1,5 +1,4 @@
-Sphaericeps lignipes Welw. & Curr. SPECIES
-=======
+# Sphaericeps lignipes Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

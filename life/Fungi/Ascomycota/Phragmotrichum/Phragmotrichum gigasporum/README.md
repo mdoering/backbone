@@ -1,5 +1,4 @@
-Phragmotrichum gigasporum Schulzer SPECIES
-=======
+# Phragmotrichum gigasporum Schulzer SPECIES
 
 #### Status
 ACCEPTED

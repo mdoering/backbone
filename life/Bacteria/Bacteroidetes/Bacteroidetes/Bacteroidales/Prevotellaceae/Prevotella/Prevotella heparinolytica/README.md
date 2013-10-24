@@ -1,8 +1,7 @@
-Bacteroides heparinolyticus Okuda et al., 1985 SPECIES
-=======
+# Prevotella heparinolytica (Okuda et al., 1985) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

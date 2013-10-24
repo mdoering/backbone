@@ -1,5 +1,4 @@
-Enterographa extenuata (Nyl.) Redinger SPECIES
-=======
+# Enterographa extenuata (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

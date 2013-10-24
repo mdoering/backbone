@@ -1,5 +1,4 @@
-Valsaria complexa (Mont.) Sacc. SPECIES
-=======
+# Valsaria complexa (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

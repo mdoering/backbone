@@ -1,5 +1,4 @@
-Hymenochaete gladiola G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete gladiola G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

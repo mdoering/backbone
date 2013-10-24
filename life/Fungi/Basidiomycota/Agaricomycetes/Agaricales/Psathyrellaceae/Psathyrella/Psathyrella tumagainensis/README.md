@@ -1,5 +1,4 @@
-Psathyrella tumagainensis V.L. Wells & Kempton SPECIES
-=======
+# Psathyrella tumagainensis V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

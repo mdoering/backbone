@@ -1,5 +1,4 @@
-Kolpoda lenter (Müller) Bory SPECIES
-=======
+# Kolpoda lenter (Müller) Bory SPECIES
 
 #### Status
 ACCEPTED

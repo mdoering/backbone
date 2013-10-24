@@ -1,5 +1,4 @@
-Stereum bufonium (Pers.) Sacc. SPECIES
-=======
+# Stereum bufonium (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

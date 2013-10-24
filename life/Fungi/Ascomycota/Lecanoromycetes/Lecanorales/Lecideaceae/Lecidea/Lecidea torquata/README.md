@@ -1,5 +1,4 @@
-Lecidea torquata (Fr.) Almb. SPECIES
-=======
+# Lecidea torquata (Fr.) Almb. SPECIES
 
 #### Status
 ACCEPTED

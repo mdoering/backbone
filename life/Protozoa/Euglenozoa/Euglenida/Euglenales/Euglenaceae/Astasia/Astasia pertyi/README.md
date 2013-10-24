@@ -1,5 +1,4 @@
-Astasia pertyi E. G. Pringsheim & R. Hovasse SPECIES
-=======
+# Astasia pertyi E. G. Pringsheim & R. Hovasse SPECIES
 
 #### Status
 ACCEPTED

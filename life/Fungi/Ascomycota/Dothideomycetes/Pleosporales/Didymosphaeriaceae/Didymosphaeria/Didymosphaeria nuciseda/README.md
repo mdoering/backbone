@@ -1,5 +1,4 @@
-Didymosphaeria nuciseda Fairm. SPECIES
-=======
+# Didymosphaeria nuciseda Fairm. SPECIES
 
 #### Status
 ACCEPTED

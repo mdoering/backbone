@@ -1,17 +1,16 @@
-Siphula roccellaeformis Nyl. SPECIES
-=======
+# Siphula roccelliformis Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichens of New Zealand (Wellington) 15 (1888)
 
 #### Original name
-Siphula roccellaeformis Nyl.
+Siphula roccelliformis Nyl.
 
 ### Remarks
 null

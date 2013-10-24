@@ -1,5 +1,4 @@
-Saccobolus globuliferellus Seaver, 1928 SPECIES
-=======
+# Saccobolus globuliferellus Seaver, 1928 SPECIES
 
 #### Status
 ACCEPTED

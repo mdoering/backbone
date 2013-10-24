@@ -1,5 +1,4 @@
-Trochammina nitida SPECIES
-=======
+# Trochammina nitida SPECIES
 
 #### Status
 ACCEPTED

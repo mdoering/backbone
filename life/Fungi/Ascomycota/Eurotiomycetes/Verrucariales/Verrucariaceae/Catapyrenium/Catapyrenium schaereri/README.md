@@ -1,5 +1,4 @@
-Catapyrenium schaereri (Fr.) R. Sant. SPECIES
-=======
+# Catapyrenium schaereri (Fr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

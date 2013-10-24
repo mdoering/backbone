@@ -1,5 +1,4 @@
-Dendrosarcus carpini Paulet SPECIES
-=======
+# Dendrosarcus carpini Paulet SPECIES
 
 #### Status
 ACCEPTED

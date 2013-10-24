@@ -1,14 +1,13 @@
-Graphis paradoxica A.W. Archer SPECIES
-=======
+# Fissurina paradoxica (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 80: 367 (2001)
+Telopea 11(1): 71 (2005)
 
 #### Original name
 Graphis paradoxica A.W. Archer

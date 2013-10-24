@@ -1,5 +1,4 @@
-Massaria ligustri Jacz. SPECIES
-=======
+# Massaria ligustri Jacz. SPECIES
 
 #### Status
 ACCEPTED

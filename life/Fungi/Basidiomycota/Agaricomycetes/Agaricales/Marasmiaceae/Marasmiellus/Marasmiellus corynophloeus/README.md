@@ -1,5 +1,4 @@
-Marasmiellus corynophloeus Singer SPECIES
-=======
+# Marasmiellus corynophloeus Singer SPECIES
 
 #### Status
 ACCEPTED

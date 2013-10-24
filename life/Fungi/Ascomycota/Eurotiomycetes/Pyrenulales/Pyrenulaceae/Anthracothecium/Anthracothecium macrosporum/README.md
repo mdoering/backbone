@@ -1,14 +1,13 @@
-Verrucaria macrospora Hepp SPECIES
-=======
+# Anthracothecium macrosporum (Hepp) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 43: 44 (1880)
 
 #### Original name
 Verrucaria macrospora Hepp

@@ -1,5 +1,4 @@
-Sclerotinia tiliae J.M. Reade SPECIES
-=======
+# Sclerotinia tiliae J.M. Reade SPECIES
 
 #### Status
 ACCEPTED

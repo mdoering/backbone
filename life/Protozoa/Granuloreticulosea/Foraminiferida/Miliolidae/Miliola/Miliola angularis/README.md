@@ -1,5 +1,4 @@
-Miliola angularis (Howchin) SPECIES
-=======
+# Miliola angularis (Howchin) SPECIES
 
 #### Status
 ACCEPTED

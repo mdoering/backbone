@@ -1,5 +1,4 @@
-Polyporus ochrogilvus Lloyd SPECIES
-=======
+# Polyporus ochrogilvus Lloyd SPECIES
 
 #### Status
 ACCEPTED

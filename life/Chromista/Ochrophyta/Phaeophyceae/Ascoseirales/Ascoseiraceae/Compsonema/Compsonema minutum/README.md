@@ -1,5 +1,4 @@
-Compsonema minutum (C. Agardh) Kornmann SPECIES
-=======
+# Compsonema minutum (C. Agardh) Kornmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora intermedia Desm. SPECIES
-=======
+# Thelephora intermedia Desm. SPECIES
 
 #### Status
 ACCEPTED

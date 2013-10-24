@@ -1,5 +1,4 @@
-Rhexoacrodictys queenslandica (Matsush.) W.A. Baker & Morgan-Jones SPECIES
-=======
+# Rhexoacrodictys queenslandica (Matsush.) W.A. Baker & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

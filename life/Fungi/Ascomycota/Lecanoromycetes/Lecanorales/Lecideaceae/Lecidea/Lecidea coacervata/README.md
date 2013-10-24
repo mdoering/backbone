@@ -1,5 +1,4 @@
-Lecidea coacervata Tav. SPECIES
-=======
+# Lecidea coacervata Tav. SPECIES
 
 #### Status
 ACCEPTED

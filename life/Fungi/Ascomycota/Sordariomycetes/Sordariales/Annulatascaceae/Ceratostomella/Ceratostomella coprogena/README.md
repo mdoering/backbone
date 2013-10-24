@@ -1,5 +1,4 @@
-Ceratostomella coprogena Massee SPECIES
-=======
+# Ceratostomella coprogena Massee SPECIES
 
 #### Status
 ACCEPTED

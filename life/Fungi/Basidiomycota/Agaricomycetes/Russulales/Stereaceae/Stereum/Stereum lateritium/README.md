@@ -1,5 +1,4 @@
-Stereum lateritium Kalchbr. SPECIES
-=======
+# Stereum lateritium Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spicaria griseola Sacc., 1881 SPECIES
-=======
+# Spicaria griseola Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermilacinia robusta (R. Howe) Spjut & Hale SPECIES
-=======
+# Vermilacinia robusta (R. Howe) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

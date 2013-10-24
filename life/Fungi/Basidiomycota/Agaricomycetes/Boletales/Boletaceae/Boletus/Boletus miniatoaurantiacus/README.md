@@ -1,5 +1,4 @@
-Boletus miniatoaurantiacus C.S. Bi & Loh SPECIES
-=======
+# Boletus miniatoaurantiacus C.S. Bi & Loh SPECIES
 
 #### Status
 ACCEPTED

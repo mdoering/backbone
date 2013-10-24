@@ -1,17 +1,16 @@
-Prolisea Clem. GENUS
-=======
+# Cercidospora Körb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 78, 282 (1931)
+Parerga lichenol. (Breslau) 465 (1865)
 
 #### Original name
-Prolisea Clem.
+Cercidospora Körb.
 
 ### Remarks
 null

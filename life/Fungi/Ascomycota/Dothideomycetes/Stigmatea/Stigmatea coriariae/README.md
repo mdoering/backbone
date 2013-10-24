@@ -1,5 +1,4 @@
-Stigmatea coriariae Mont. SPECIES
-=======
+# Stigmatea coriariae Mont. SPECIES
 
 #### Status
 ACCEPTED

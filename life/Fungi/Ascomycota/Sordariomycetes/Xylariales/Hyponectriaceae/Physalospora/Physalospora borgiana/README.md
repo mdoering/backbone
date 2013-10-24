@@ -1,5 +1,4 @@
-Physalospora borgiana Sacc. SPECIES
-=======
+# Physalospora borgiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

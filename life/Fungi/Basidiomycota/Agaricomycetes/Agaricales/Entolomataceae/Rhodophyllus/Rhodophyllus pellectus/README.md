@@ -1,5 +1,4 @@
-Rhodophyllus pellectus E. Horak SPECIES
-=======
+# Rhodophyllus pellectus E. Horak SPECIES
 
 #### Status
 ACCEPTED

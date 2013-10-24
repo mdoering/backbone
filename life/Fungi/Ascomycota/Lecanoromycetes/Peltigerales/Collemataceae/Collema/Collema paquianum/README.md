@@ -1,5 +1,4 @@
-Collema paquianum Harm. SPECIES
-=======
+# Collema paquianum Harm. SPECIES
 
 #### Status
 ACCEPTED

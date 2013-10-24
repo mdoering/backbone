@@ -1,5 +1,4 @@
-Sphaeria segna Cooke & Ellis SPECIES
-=======
+# Sphaeria segna Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

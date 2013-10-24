@@ -1,5 +1,4 @@
-Diplocystis P. Cleve, 1901 GENUS
-=======
+# Diplocystis P. Cleve, 1901 GENUS
 
 #### Status
 ACCEPTED

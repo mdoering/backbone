@@ -1,5 +1,4 @@
-Cetraria ramulosa (Hook. f.) Tuck. SPECIES
-=======
+# Cetraria ramulosa (Hook. f.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

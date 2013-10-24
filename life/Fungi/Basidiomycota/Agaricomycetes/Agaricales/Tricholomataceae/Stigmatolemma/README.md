@@ -1,5 +1,4 @@
-Stigmatolemma GENUS
-=======
+# Stigmatolemma GENUS
 
 #### Status
 ACCEPTED

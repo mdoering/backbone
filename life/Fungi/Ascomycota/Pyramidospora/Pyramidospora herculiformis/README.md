@@ -1,5 +1,4 @@
-Pyramidospora herculiformis N. Singh SPECIES
-=======
+# Pyramidospora herculiformis N. Singh SPECIES
 
 #### Status
 ACCEPTED

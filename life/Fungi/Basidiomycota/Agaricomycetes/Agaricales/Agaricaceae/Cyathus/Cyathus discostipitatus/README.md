@@ -1,5 +1,4 @@
-Cyathus discostipitatus B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus discostipitatus B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

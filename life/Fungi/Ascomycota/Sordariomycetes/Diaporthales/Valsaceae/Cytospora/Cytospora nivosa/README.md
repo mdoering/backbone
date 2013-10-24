@@ -1,5 +1,4 @@
-Cytospora nivosa Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora nivosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

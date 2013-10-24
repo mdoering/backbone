@@ -1,5 +1,4 @@
-Zoothamnium affine subsp. affine SUBSPECIES
-=======
+# Zoothamnium affine Stein, 1854 SPECIES
 
 #### Status
 ACCEPTED

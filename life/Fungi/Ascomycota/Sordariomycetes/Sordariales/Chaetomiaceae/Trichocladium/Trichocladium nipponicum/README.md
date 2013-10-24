@@ -1,5 +1,4 @@
-Trichocladium nipponicum K. Matsush. & Matsush. SPECIES
-=======
+# Trichocladium nipponicum K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

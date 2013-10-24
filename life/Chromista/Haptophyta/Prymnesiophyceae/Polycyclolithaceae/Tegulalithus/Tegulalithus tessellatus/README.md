@@ -1,5 +1,4 @@
-Tegulalithus tessellatus SPECIES
-=======
+# Tegulalithus tessellatus SPECIES
 
 #### Status
 ACCEPTED

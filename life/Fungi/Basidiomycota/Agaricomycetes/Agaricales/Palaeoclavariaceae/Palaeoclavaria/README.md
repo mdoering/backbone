@@ -1,5 +1,4 @@
-Palaeoclavaria Poinar & A.E. Br. GENUS
-=======
+# Palaeoclavaria Poinar & A.E. Br. GENUS
 
 #### Status
 ACCEPTED

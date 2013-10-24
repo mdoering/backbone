@@ -1,5 +1,4 @@
-Micrhystridium patentissimum Timofeev, 1959 ex Deflandre & Deflandre-Rigaud, 1965 SPECIES
-=======
+# Micrhystridium patentissimum Timofeev, 1959 ex Deflandre & Deflandre-Rigaud, 1965 SPECIES
 
 #### Status
 ACCEPTED

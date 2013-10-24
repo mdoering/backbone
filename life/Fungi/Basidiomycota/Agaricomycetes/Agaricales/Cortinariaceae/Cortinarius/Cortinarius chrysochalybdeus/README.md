@@ -1,5 +1,4 @@
-Cortinarius chrysochalybdeus Gasparini SPECIES
-=======
+# Cortinarius chrysochalybdeus Gasparini SPECIES
 
 #### Status
 ACCEPTED

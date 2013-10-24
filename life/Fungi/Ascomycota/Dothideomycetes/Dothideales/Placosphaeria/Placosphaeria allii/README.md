@@ -1,5 +1,4 @@
-Placosphaeria allii P. Karst. & Har. SPECIES
-=======
+# Placosphaeria allii P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteroseptata E.F. Morris GENUS
-=======
+# Heteroseptata E.F. Morris GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Calothyriopeltis capparidis Sawada & W. Yamam. SPECIES
-=======
+# Calothyriopeltis capparis Sawada & W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calothyriopeltis capparidis Sawada & W. Yamam.
+Calothyriopeltis capparis Sawada & W. Yamam.
 
 ### Remarks
 null

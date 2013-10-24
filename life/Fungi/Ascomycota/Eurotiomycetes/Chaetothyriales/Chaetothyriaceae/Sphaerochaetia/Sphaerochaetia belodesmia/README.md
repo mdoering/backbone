@@ -1,5 +1,4 @@
-Sphaerochaetia belodesmia Bat., J.L. Bezerra & Castr. SPECIES
-=======
+# Sphaerochaetia belodesmia Bat., J.L. Bezerra & Castr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormothamnium GENUS
-=======
+# Hormothamnium GENUS
 
 #### Status
 ACCEPTED

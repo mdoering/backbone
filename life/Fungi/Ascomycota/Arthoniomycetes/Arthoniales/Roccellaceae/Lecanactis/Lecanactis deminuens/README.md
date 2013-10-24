@@ -1,5 +1,4 @@
-Lecanactis deminuens f. deminuens FORM
-=======
+# Lecanactis deminuens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Tidsskr. 29: 121 (1909)
 
 #### Original name
-Lecanactis deminuens f. deminuens
+Lecidea deminuescens Nyl.
 
 ### Remarks
 null

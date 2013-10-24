@@ -1,5 +1,4 @@
-Platypeltella smilacis Petr., 1929 SPECIES
-=======
+# Platypeltella smilacis Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

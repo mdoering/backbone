@@ -1,5 +1,4 @@
-Coprinellus pallidissimus (Romagn.) P. Roux, Guy Garcia & S. Roux SPECIES
-=======
+# Coprinellus pallidissimus (Romagn.) P. Roux, Guy Garcia & S. Roux SPECIES
 
 #### Status
 ACCEPTED

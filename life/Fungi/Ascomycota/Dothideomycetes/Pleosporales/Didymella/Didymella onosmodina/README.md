@@ -1,5 +1,4 @@
-Didymella onosmodina (Peck & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella onosmodina (Peck & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

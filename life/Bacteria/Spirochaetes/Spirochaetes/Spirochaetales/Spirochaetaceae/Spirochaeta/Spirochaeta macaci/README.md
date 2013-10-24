@@ -1,5 +1,4 @@
-Spirochaeta macaci SPECIES
-=======
+# Spirochaeta macaci SPECIES
 
 #### Status
 ACCEPTED

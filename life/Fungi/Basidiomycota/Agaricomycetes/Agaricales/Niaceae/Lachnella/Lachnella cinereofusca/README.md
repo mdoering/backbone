@@ -1,5 +1,4 @@
-Lachnella cinereofusca (Schwein.) Sacc. SPECIES
-=======
+# Lachnella cinereofusca (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

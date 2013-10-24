@@ -1,5 +1,4 @@
-Caloplaca likensis Zahlbr. SPECIES
-=======
+# Caloplaca likensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

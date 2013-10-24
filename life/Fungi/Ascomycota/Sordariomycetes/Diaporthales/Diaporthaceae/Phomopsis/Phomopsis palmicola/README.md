@@ -1,5 +1,4 @@
-Phomopsis palmicola f. palmicola FORM
-=======
+# Phomopsis palmicola (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phomopsis palmicola f. palmicola
+Phoma palmicola G. Winter
 
 ### Remarks
 null

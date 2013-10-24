@@ -1,5 +1,4 @@
-Erineum passiflorae-luteae Schwein. SPECIES
-=======
+# Erineum passiflorae-luteae Schwein. SPECIES
 
 #### Status
 ACCEPTED

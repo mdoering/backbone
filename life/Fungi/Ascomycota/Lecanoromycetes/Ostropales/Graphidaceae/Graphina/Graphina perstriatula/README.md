@@ -1,5 +1,4 @@
-Graphina perstriatula (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina perstriatula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus reniformis F.S. Castracane, 1886 SPECIES
-=======
+# Coscinodiscus reniformis F.S. Castracane, 1886 SPECIES
 
 #### Status
 ACCEPTED

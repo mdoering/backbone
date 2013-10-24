@@ -1,5 +1,4 @@
-Belonium sulphureotinctum Rehm SPECIES
-=======
+# Belonium sulphureotinctum Rehm SPECIES
 
 #### Status
 ACCEPTED

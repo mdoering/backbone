@@ -1,5 +1,4 @@
-Endothyridae Brady, 1884 FAMILY
-=======
+# Endothyridae Brady, 1884 FAMILY
 
 #### Status
 ACCEPTED

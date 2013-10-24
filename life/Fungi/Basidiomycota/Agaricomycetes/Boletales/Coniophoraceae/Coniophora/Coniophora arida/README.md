@@ -1,17 +1,16 @@
-Coniophora betulae subsp. betulae SUBSPECIES
-=======
+# Coniophora arida (Fr.) P. Karst., 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 174 (1896)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 9: 370 (1868)
 
 #### Original name
-Coniophora betulae subsp. betulae
+Thelephora arida Fr., 1828
 
 ### Remarks
 null

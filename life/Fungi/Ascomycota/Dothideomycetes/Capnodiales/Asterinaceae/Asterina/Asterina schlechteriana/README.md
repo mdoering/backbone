@@ -1,5 +1,4 @@
-Asterina schlechteriana Syd. SPECIES
-=======
+# Asterina schlechteriana Syd. SPECIES
 
 #### Status
 ACCEPTED

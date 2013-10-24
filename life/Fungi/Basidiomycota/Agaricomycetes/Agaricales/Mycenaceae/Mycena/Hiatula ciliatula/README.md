@@ -1,5 +1,4 @@
-Hiatula ciliatula Fr. SPECIES
-=======
+# Hiatula ciliatula Fr. SPECIES
 
 #### Status
 ACCEPTED

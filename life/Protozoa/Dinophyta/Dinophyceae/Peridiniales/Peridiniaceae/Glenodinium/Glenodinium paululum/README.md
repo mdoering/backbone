@@ -1,5 +1,4 @@
-Glenodinium paululum Lindernann SPECIES
-=======
+# Glenodinium paululum Lindernann SPECIES
 
 #### Status
 ACCEPTED

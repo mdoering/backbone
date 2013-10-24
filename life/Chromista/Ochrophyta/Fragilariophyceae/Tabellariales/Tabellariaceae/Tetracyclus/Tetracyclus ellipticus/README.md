@@ -1,5 +1,4 @@
-Tetracyclus ellipticus (Ehrenberg) Grunow SPECIES
-=======
+# Tetracyclus ellipticus (Ehrenberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

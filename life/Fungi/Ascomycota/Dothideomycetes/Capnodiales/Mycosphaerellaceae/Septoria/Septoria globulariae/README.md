@@ -1,5 +1,4 @@
-Septoria globulariae Sacc. SPECIES
-=======
+# Septoria globulariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

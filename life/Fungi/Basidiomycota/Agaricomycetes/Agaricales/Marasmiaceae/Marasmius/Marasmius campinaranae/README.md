@@ -1,5 +1,4 @@
-Marasmius campinaranae Singer SPECIES
-=======
+# Marasmius campinaranae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca pulchrevirens (Anzi) Jatta SPECIES
-=======
+# Caloplaca pulchrevirens (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

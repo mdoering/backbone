@@ -1,5 +1,4 @@
-Torula sphaeriaeformis Berk. & Broome SPECIES
-=======
+# Torula sphaeriaeformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

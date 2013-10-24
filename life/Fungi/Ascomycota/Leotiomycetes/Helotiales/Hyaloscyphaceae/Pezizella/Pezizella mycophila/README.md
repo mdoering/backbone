@@ -1,5 +1,4 @@
-Pezizella mycophila (Fr.) Sacc. SPECIES
-=======
+# Pezizella mycophila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

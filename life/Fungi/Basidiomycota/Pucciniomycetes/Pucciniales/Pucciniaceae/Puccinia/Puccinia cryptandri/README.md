@@ -1,5 +1,4 @@
-Puccinia cryptandri var. cryptandri VARIETY
-=======
+# Puccinia cryptandri Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Erythea 5: 47 (1897)
 
 #### Original name
-Puccinia cryptandri var. cryptandri
+Puccinia cryptandri Ellis & Barthol.
 
 ### Remarks
 null

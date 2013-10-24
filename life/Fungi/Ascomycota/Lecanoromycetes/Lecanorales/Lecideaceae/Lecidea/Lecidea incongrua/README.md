@@ -1,5 +1,4 @@
-Lecidea incongrua f. incongrua FORM
-=======
+# Lecidea incongrua Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea incongrua f. incongrua
+Lecidea incongrua Nyl.
 
 ### Remarks
 null

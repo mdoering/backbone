@@ -1,5 +1,4 @@
-Diplodia lyciella Sacc. SPECIES
-=======
+# Diplodia lyciella Sacc. SPECIES
 
 #### Status
 ACCEPTED

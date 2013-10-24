@@ -1,5 +1,4 @@
-Lecidea claudeliana Harm. SPECIES
-=======
+# Lecidea claudeliana Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyriella parenchymatica (Doidge) Doidge SPECIES
-=======
+# Phragmothyriella parenchymatica (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

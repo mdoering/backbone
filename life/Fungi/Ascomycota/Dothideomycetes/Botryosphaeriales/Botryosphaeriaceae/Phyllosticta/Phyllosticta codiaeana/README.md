@@ -1,5 +1,4 @@
-Phyllosticta codiaeana Sacc. SPECIES
-=======
+# Phyllosticta codiaeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrionora R.C. Harris GENUS
-=======
+# Myrionora R.C. Harris GENUS
 
 #### Status
 ACCEPTED

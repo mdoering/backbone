@@ -1,5 +1,4 @@
-Jansia rugosa Penz. SPECIES
-=======
+# Jansia rugosa Penz. SPECIES
 
 #### Status
 ACCEPTED

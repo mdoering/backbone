@@ -1,5 +1,4 @@
-Leptonia eccilioides Sacc. SPECIES
-=======
+# Leptonia eccilioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

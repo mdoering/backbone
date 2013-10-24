@@ -1,5 +1,4 @@
-Fusarium phacidioideum Dearn. SPECIES
-=======
+# Fusarium phacidioideum Dearn. SPECIES
 
 #### Status
 ACCEPTED

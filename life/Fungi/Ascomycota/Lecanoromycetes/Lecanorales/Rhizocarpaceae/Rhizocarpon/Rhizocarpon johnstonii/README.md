@@ -1,17 +1,16 @@
-Rhizocarpon johnstoni C.W. Dodge SPECIES
-=======
+# Rhizocarpon johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 118 (1948)
 
 #### Original name
-Rhizocarpon johnstoni C.W. Dodge
+Rhizocarpon johnstonii C.W. Dodge
 
 ### Remarks
 null

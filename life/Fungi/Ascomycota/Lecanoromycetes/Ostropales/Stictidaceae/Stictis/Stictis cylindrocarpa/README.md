@@ -1,5 +1,4 @@
-Stictis cylindrocarpa Peck SPECIES
-=======
+# Stictis cylindrocarpa Peck SPECIES
 
 #### Status
 ACCEPTED

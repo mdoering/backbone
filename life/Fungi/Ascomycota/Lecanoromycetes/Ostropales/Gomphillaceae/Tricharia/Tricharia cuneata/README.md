@@ -1,5 +1,4 @@
-Tricharia cuneata L. I. Ferraro & Lücking SPECIES
-=======
+# Tricharia cuneata L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus nivosus (Berk.) Singer SPECIES
-=======
+# Marasmiellus nivosus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

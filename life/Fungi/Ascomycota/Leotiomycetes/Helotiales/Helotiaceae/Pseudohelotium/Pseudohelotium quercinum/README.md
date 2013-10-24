@@ -1,5 +1,4 @@
-Pseudohelotium quercinum Keissl. SPECIES
-=======
+# Pseudohelotium quercinum Keissl. SPECIES
 
 #### Status
 ACCEPTED

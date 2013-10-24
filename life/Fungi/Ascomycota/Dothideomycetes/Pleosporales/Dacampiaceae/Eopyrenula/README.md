@@ -1,5 +1,4 @@
-Eopyrenula R.C. Harris GENUS
-=======
+# Eopyrenula R.C. Harris GENUS
 
 #### Status
 ACCEPTED

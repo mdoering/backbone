@@ -1,5 +1,4 @@
-Verrucaria maurospila Nyl. SPECIES
-=======
+# Verrucaria maurospila Nyl. SPECIES
 
 #### Status
 ACCEPTED

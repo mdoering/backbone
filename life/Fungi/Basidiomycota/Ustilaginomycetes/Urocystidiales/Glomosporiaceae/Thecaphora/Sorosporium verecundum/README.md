@@ -1,5 +1,4 @@
-Sorosporium verecundum (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sorosporium verecundum (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

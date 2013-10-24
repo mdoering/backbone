@@ -1,5 +1,4 @@
-Heterococcus curvatus Pitschmann SPECIES
-=======
+# Heterococcus curvatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

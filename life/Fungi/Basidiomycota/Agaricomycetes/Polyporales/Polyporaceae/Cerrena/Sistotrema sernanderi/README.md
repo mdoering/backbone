@@ -1,8 +1,7 @@
-Sistotrema coroniferum var. sernanderi (Litsch.) Krieglst., 1999 VARIETY
-=======
+# Sistotrema sernanderi (Litsch.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

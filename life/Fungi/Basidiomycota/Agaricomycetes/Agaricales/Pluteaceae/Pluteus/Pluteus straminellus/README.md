@@ -1,5 +1,4 @@
-Pluteus straminellus Rick SPECIES
-=======
+# Pluteus straminellus Rick SPECIES
 
 #### Status
 ACCEPTED

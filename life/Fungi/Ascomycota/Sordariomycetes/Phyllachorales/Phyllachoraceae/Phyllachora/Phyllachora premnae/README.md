@@ -1,5 +1,4 @@
-Phyllachora premnae Syd. & P. Syd., 1914 SPECIES
-=======
+# Phyllachora premnae Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

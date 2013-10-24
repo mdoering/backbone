@@ -1,5 +1,4 @@
-Haemogregarina leptocotti Hill & Hendrickson, 1991 SPECIES
-=======
+# Haemogregarina leptocotti Hill & Hendrickson, 1991 SPECIES
 
 #### Status
 ACCEPTED

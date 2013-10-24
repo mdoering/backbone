@@ -1,5 +1,4 @@
-Coprinus spiralis Mont. SPECIES
-=======
+# Coprinus spiralis Mont. SPECIES
 
 #### Status
 ACCEPTED

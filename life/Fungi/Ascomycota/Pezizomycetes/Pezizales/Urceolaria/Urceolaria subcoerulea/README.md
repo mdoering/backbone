@@ -1,5 +1,4 @@
-Urceolaria subcoerulea Delise SPECIES
-=======
+# Urceolaria subcoerulea Delise SPECIES
 
 #### Status
 ACCEPTED

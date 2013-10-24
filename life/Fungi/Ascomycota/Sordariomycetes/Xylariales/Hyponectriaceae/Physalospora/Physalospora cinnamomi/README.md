@@ -1,5 +1,4 @@
-Physalospora cinnamomi Sousa da Câmara SPECIES
-=======
+# Physalospora cinnamomi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius microrotalis Singer SPECIES
-=======
+# Marasmius microrotalis Singer SPECIES
 
 #### Status
 ACCEPTED

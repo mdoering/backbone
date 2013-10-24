@@ -1,5 +1,4 @@
-Exoascus aceris Dearn. & Barthol. SPECIES
-=======
+# Exoascus aceris Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha mirabilis R.K. Benj. & Poitras, 1950 SPECIES
-=======
+# Comatricha mirabilis R.K. Benj. & Poitras, 1950 SPECIES
 
 #### Status
 ACCEPTED

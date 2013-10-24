@@ -1,5 +1,4 @@
-Sticta elaphocera (Nyl.) Stizenb. SPECIES
-=======
+# Sticta elaphocera (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

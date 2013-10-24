@@ -1,5 +1,4 @@
-Tetrahymena paravorax Corliss, 1957 SPECIES
-=======
+# Tetrahymena paravorax Corliss, 1957 SPECIES
 
 #### Status
 ACCEPTED

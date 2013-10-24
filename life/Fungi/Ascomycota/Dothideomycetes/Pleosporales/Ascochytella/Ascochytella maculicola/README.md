@@ -1,5 +1,4 @@
-Ascochytella maculicola (G. Winter) Tassi SPECIES
-=======
+# Ascochytella maculicola (G. Winter) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus isabellinus Batsch SPECIES
-=======
+# Agaricus isabellinus Batsch SPECIES
 
 #### Status
 ACCEPTED

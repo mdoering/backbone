@@ -1,5 +1,4 @@
-Periholosticha sylvatica Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
-=======
+# Periholosticha sylvatica Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytella sedi (Allesch.) Petr. SPECIES
-=======
+# Ascochytella sedi (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea subconica Murrill SPECIES
-=======
+# Nolanea subconica Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium ailanthi (Ranoj. & Bubák) Sacc. SPECIES
-=======
+# Graphium ailanthi (Ranoj. & Bubák) Sacc. SPECIES
 
 #### Status
 ACCEPTED

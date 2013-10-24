@@ -1,5 +1,4 @@
-Tulostoma verrucosum Morgan SPECIES
-=======
+# Tulostoma verrucosum Morgan SPECIES
 
 #### Status
 ACCEPTED

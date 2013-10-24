@@ -1,5 +1,4 @@
-Uredo sagamiensis Hirats. f. & S. Uchida SPECIES
-=======
+# Uredo sagamiensis Hirats. f. & S. Uchida SPECIES
 
 #### Status
 ACCEPTED

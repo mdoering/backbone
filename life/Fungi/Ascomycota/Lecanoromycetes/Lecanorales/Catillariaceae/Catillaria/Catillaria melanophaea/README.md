@@ -1,5 +1,4 @@
-Catillaria melanophaea (Anzi) Lettau SPECIES
-=======
+# Catillaria melanophaea (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

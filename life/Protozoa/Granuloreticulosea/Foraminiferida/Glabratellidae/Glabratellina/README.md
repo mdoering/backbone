@@ -1,14 +1,13 @@
-Sabinina McCulloch, 1981 GENUS
-=======
+# Glabratellina Seiglie & Bermudez, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geos 12: 39.
 
 #### Original name
 null

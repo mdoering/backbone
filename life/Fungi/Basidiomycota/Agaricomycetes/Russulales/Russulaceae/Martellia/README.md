@@ -1,5 +1,4 @@
-Martellia GENUS
-=======
+# Martellia GENUS
 
 #### Status
 ACCEPTED

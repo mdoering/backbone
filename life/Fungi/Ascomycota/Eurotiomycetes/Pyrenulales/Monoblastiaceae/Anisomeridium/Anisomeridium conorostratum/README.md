@@ -1,5 +1,4 @@
-Anisomeridium conorostratum Aptroot SPECIES
-=======
+# Anisomeridium conorostratum Aptroot SPECIES
 
 #### Status
 ACCEPTED

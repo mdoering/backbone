@@ -1,17 +1,16 @@
-Caloplaca erythrocarpia f. erythrocarpia FORM
-=======
+# Caloplaca arenaria (Pers.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16: 387 (1862)
 
 #### Original name
-Caloplaca erythrocarpia f. erythrocarpia
+Lichen arenarius Pers.
 
 ### Remarks
 null

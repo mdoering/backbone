@@ -1,5 +1,4 @@
-Pyrenotheca stictica Fr. SPECIES
-=======
+# Pyrenotheca stictica Fr. SPECIES
 
 #### Status
 ACCEPTED

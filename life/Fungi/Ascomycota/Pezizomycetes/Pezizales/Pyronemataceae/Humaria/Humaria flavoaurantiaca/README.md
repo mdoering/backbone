@@ -1,5 +1,4 @@
-Humaria flavoaurantiaca Rehm SPECIES
-=======
+# Humaria flavoaurantiaca Rehm SPECIES
 
 #### Status
 ACCEPTED

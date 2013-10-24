@@ -1,5 +1,4 @@
-Thelephora applanata Schrad. ex J.F. Gmel. SPECIES
-=======
+# Thelephora applanata Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Concavella Lipps, 1965 GENUS
-=======
+# Concavella Lipps, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora spathulata Liberato & McTaggart SPECIES
-=======
+# Cercospora spathulata Liberato & McTaggart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria cylindrorostra T.Y. Zhang SPECIES
-=======
+# Alternaria cylindrorostra T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

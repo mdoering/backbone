@@ -1,5 +1,4 @@
-Vaginicola gigantea subsp. gigantea SUBSPECIES
-=======
+# Vaginicola gigantea D'Udekem, 1862 SPECIES
 
 #### Status
 ACCEPTED

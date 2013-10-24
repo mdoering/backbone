@@ -1,5 +1,4 @@
-Sporidesmium ulmicola Sacc. SPECIES
-=======
+# Sporidesmium ulmicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

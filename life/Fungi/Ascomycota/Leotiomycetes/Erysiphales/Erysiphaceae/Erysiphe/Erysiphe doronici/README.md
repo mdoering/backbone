@@ -1,5 +1,4 @@
-Erysiphe doronici Duby SPECIES
-=======
+# Erysiphe doronici Duby SPECIES
 
 #### Status
 ACCEPTED

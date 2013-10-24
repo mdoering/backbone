@@ -1,5 +1,4 @@
-Cucurbitaria thujana (Rehm) Kuntze SPECIES
-=======
+# Cucurbitaria thujana (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

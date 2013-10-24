@@ -1,5 +1,4 @@
-Arachnomyces kanei Gibas, Sigler & Summerb. SPECIES
-=======
+# Arachnomyces kanei Gibas, Sigler & Summerb. SPECIES
 
 #### Status
 ACCEPTED

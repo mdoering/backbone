@@ -1,14 +1,13 @@
-Sphaerella alnicola Peck, 1887 SPECIES
-=======
+# Mycosphaerella alnicola (Peck) House, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 233-234: 25 (1921)
 
 #### Original name
 Sphaerella alnicola Peck, 1887

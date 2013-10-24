@@ -1,5 +1,4 @@
-Asterina prataprajii Hosag., P.J. Robin & Archana, 2010 SPECIES
-=======
+# Asterina prataprajii Hosag., P.J. Robin & Archana, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pneumocystis jiroveci Frenkel SPECIES
-=======
+# Pneumocystis jirovecii Frenkel, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+National Cancer Institute Monograph 43: 16 (1976)
 
 #### Original name
-Pneumocystis jiroveci Frenkel
+Pneumocystis jirovecii Frenkel, 1976
 
 ### Remarks
 null

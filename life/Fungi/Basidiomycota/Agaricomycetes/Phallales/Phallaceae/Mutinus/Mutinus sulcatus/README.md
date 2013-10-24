@@ -1,5 +1,4 @@
-Mutinus sulcatus Cooke & Massee SPECIES
-=======
+# Mutinus sulcatus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

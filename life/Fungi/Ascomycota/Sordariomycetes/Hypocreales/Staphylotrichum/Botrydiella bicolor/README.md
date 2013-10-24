@@ -1,5 +1,4 @@
-Botrydiella bicolor Badura SPECIES
-=======
+# Botrydiella bicolor Badura SPECIES
 
 #### Status
 ACCEPTED

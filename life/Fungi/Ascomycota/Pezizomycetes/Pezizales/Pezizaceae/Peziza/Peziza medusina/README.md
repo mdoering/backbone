@@ -1,5 +1,4 @@
-Peziza medusina Speg. SPECIES
-=======
+# Peziza medusina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia auricularis (Werner) S.Y. Kondr. SPECIES
-=======
+# Aspicilia auricularis (Werner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

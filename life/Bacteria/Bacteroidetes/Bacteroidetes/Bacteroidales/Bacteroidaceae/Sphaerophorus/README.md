@@ -1,5 +1,4 @@
-Sphaerophorus Prévot, 1938 GENUS
-=======
+# Sphaerophorus Prévot, 1938 GENUS
 
 #### Status
 ACCEPTED

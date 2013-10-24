@@ -1,5 +1,4 @@
-Sclerophyton insularum A.W. Archer SPECIES
-=======
+# Sclerophyton insularum A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

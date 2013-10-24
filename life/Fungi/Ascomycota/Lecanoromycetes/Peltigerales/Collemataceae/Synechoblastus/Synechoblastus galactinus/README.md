@@ -1,5 +1,4 @@
-Synechoblastus galactinus Müll. Arg. SPECIES
-=======
+# Synechoblastus galactinus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

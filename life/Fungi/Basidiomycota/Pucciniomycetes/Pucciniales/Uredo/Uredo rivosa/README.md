@@ -1,5 +1,4 @@
-Uredo rivosa Link SPECIES
-=======
+# Uredo rivosa Link SPECIES
 
 #### Status
 ACCEPTED

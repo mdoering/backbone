@@ -1,5 +1,4 @@
-Myriogloea abbreviata Kylin SPECIES
-=======
+# Myriogloea abbreviata Kylin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudokephyrion spirale G. Schmid SPECIES
-=======
+# Pseudokephyrion spirale G. Schmid SPECIES
 
 #### Status
 ACCEPTED

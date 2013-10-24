@@ -1,8 +1,7 @@
-Aggregata caprellae (Frenzel, 1885) SPECIES
-=======
+# Cephaloidophora caprellae (Frenzel, 1885) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

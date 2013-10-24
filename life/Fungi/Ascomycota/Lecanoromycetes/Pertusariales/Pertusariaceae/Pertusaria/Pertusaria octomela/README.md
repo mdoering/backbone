@@ -1,5 +1,4 @@
-Pertusaria octomela (Norman) Erichsen SPECIES
-=======
+# Pertusaria octomela (Norman) Erichsen SPECIES
 
 #### Status
 ACCEPTED

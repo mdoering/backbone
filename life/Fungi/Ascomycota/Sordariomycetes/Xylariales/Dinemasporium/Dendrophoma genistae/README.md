@@ -1,5 +1,4 @@
-Dendrophoma genistae Gonz. Frag. SPECIES
-=======
+# Dendrophoma genistae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

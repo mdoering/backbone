@@ -1,17 +1,16 @@
-Phoma musae C.W. Carp., 1919 SPECIES
-=======
+# Guignardia musae Racib., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report Hawaii agric. Exp. Stn. 2: 39 (1919)
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 3: 388 (1909)
 
 #### Original name
-Phoma musae C.W. Carp., 1919
+Guignardia musae Racib., 1909
 
 ### Remarks
 null

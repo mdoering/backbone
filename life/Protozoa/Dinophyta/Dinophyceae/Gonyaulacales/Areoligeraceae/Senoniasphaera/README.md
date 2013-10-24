@@ -1,5 +1,4 @@
-Senoniasphaera R.F.A. Clarke & J.P. Verdier, 1967 GENUS
-=======
+# Senoniasphaera R.F.A. Clarke & J.P. Verdier, 1967 GENUS
 
 #### Status
 ACCEPTED

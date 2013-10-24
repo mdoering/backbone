@@ -1,5 +1,4 @@
-Haemophilus haemolyticus Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Haemophilus haemolyticus Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

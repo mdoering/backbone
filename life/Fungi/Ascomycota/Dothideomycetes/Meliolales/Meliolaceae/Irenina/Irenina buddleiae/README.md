@@ -1,5 +1,4 @@
-Irenina buddleiae Hansf. SPECIES
-=======
+# Irenina buddleiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

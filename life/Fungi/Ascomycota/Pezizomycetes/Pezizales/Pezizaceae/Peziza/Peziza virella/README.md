@@ -1,5 +1,4 @@
-Peziza virella P. Karst. SPECIES
-=======
+# Peziza virella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

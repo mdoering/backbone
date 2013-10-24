@@ -1,5 +1,4 @@
-Gyrophora tylorrhiza (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora tylorrhiza (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

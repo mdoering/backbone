@@ -1,8 +1,7 @@
-Desmarestia willii Reinsch SPECIES
-=======
+# Desmarestia confervoides (Bory de Saint-Vincent) M.E. Ramírez & A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

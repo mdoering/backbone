@@ -1,5 +1,4 @@
-Psathyra lucipeta Berk. & Broome SPECIES
-=======
+# Psathyra lucipeta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

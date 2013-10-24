@@ -1,5 +1,4 @@
-Didymella taxi Oudem., 1898 SPECIES
-=======
+# Didymella taxi Oudem., 1898 SPECIES
 
 #### Status
 ACCEPTED

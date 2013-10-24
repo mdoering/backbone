@@ -1,5 +1,4 @@
-Hypocrea coprosmae Dingley, 1952 SPECIES
-=======
+# Hypocrea coprosmae Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

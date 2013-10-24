@@ -1,5 +1,4 @@
-Mycena incurvipes Métrod SPECIES
-=======
+# Mycena incurvipes Métrod SPECIES
 
 #### Status
 ACCEPTED

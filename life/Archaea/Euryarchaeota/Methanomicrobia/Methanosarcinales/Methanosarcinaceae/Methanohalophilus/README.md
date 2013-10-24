@@ -1,5 +1,4 @@
-Methanohalophilus Paterek & Smith, 1988 GENUS
-=======
+# Methanohalophilus Paterek & Smith, 1988 GENUS
 
 #### Status
 ACCEPTED

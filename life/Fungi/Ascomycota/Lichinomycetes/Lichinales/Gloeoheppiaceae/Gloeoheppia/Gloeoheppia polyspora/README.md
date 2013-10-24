@@ -1,5 +1,4 @@
-Gloeoheppia polyspora Henssen SPECIES
-=======
+# Gloeoheppia polyspora Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lagenula fructicola (Pat.) G. Arnaud, 1930 SPECIES
-=======
+# Coryneliospora fructicola (Pat.) Fitzp., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 39(4): 485 (1947)
 
 #### Original name
 Capnodium fructicola Pat.

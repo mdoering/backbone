@@ -1,5 +1,4 @@
-Pannaria decipiens P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Pannaria decipiens P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

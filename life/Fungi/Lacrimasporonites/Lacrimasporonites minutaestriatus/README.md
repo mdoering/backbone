@@ -1,5 +1,4 @@
-Lacrimasporonites minutaestriatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Lacrimasporonites minutaestriatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

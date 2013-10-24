@@ -1,5 +1,4 @@
-Citromicrobium GENUS
-=======
+# Citromicrobium GENUS
 
 #### Status
 ACCEPTED

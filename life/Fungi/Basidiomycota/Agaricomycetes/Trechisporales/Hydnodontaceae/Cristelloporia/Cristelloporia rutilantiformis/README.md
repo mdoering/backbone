@@ -1,5 +1,4 @@
-Cristelloporia rutilantiformis (Murrill) T. Hatt. SPECIES
-=======
+# Cristelloporia rutilantiformis (Murrill) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

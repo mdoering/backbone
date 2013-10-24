@@ -1,17 +1,16 @@
-Leptosphaeria clypeosphaerioides Sacc. SPECIES
-=======
+# Metasphaeria clypeosphaerioides E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Metasphaeria clypeosphaerioides E. Bommer, M. Rousseau & Sacc., 1891
 
 ### Remarks
 null

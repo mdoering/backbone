@@ -1,5 +1,4 @@
-Leptothyrium cupaniae Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium cupaniae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

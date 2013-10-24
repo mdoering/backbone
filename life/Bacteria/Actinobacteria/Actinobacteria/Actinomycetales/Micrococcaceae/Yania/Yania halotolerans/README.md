@@ -1,5 +1,4 @@
-Yania halotolerans Li et al., 2004 SPECIES
-=======
+# Yania halotolerans Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

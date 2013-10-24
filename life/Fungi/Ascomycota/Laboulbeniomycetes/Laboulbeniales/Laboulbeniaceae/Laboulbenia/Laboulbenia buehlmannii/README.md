@@ -1,5 +1,4 @@
-Laboulbenia buehlmannii Poelt SPECIES
-=======
+# Laboulbenia buehlmannii Poelt SPECIES
 
 #### Status
 ACCEPTED

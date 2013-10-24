@@ -1,5 +1,4 @@
-Centrospora macrospora (Osterw.) Neerg. SPECIES
-=======
+# Centrospora macrospora (Osterw.) Neerg. SPECIES
 
 #### Status
 ACCEPTED

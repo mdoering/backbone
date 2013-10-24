@@ -1,5 +1,4 @@
-Sporidesmium nigroascus B. Sutton SPECIES
-=======
+# Sporidesmium nigroascus B. Sutton SPECIES
 
 #### Status
 ACCEPTED

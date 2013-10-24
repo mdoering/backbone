@@ -1,5 +1,4 @@
-Paruroleptus magnificus Kahl, 1932 SPECIES
-=======
+# Paruroleptus magnificus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria autumnalis C. Agardh SPECIES
-=======
+# Oscillatoria autumnalis C. Agardh SPECIES
 
 #### Status
 ACCEPTED

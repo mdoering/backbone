@@ -1,5 +1,4 @@
-Cardiobacterium valvarum Han et al., 2004 SPECIES
-=======
+# Cardiobacterium valvarum Han et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

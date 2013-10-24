@@ -1,5 +1,4 @@
-Galera hanzlina Velen. SPECIES
-=======
+# Galera hanzlina Velen. SPECIES
 
 #### Status
 ACCEPTED

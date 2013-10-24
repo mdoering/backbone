@@ -1,5 +1,4 @@
-Aspidisca heterotrichus SPECIES
-=======
+# Aspidisca heterotrichus SPECIES
 
 #### Status
 ACCEPTED

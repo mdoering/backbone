@@ -1,17 +1,16 @@
-Lanzia gleni M.P. Sharma SPECIES
-=======
+# Lanzia glenii M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sharma & Sharma, Annals of Biology, Ludhiana 3(1): 84 (1987)
 
 #### Original name
-Lanzia gleni M.P. Sharma
+Lanzia glenii M.P. Sharma
 
 ### Remarks
 null

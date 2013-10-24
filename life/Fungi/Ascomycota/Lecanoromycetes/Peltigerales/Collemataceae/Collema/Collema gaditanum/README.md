@@ -1,5 +1,4 @@
-Collema gaditanum Colmeiro SPECIES
-=======
+# Collema gaditanum Colmeiro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia sylvatica Flagey SPECIES
-=======
+# Aspicilia sylvatica Flagey SPECIES
 
 #### Status
 ACCEPTED

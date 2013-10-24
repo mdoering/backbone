@@ -1,5 +1,4 @@
-Polyporus pullus Mont. & Berk. SPECIES
-=======
+# Polyporus pullus Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED

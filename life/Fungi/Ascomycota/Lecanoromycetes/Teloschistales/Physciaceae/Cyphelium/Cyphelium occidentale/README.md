@@ -1,5 +1,4 @@
-Cyphelium occidentale Herre SPECIES
-=======
+# Cyphelium occidentale Herre SPECIES
 
 #### Status
 ACCEPTED

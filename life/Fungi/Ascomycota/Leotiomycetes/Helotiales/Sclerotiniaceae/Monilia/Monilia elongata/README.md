@@ -1,5 +1,4 @@
-Monilia elongata (Mattlet) Brumpt SPECIES
-=======
+# Monilia elongata (Mattlet) Brumpt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticularia nigra Bull. SPECIES
-=======
+# Reticularia nigra Bull. SPECIES
 
 #### Status
 ACCEPTED

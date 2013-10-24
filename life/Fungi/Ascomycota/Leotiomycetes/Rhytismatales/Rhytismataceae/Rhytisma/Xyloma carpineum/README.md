@@ -1,5 +1,4 @@
-Xyloma carpineum Schwein. SPECIES
-=======
+# Xyloma carpineum Schwein. SPECIES
 
 #### Status
 ACCEPTED

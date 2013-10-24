@@ -1,5 +1,4 @@
-Phaeosaccardinula canthii (Hansf.) Hansf. SPECIES
-=======
+# Phaeosaccardinula canthii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

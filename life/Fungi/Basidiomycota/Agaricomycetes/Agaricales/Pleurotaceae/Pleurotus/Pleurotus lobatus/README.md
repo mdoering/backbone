@@ -1,5 +1,4 @@
-Pleurotus lobatus Henn. SPECIES
-=======
+# Pleurotus lobatus Henn. SPECIES
 
 #### Status
 ACCEPTED

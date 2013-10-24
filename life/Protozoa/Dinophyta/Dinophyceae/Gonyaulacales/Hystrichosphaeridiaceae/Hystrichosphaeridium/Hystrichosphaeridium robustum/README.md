@@ -1,5 +1,4 @@
-Hystrichosphaeridium robustum SPECIES
-=======
+# Hystrichosphaeridium robustum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia platani Biv. SPECIES
-=======
+# Puccinia platani Biv. SPECIES
 
 #### Status
 ACCEPTED

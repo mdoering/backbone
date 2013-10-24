@@ -1,5 +1,4 @@
-Monoicomyces trypetae Thaxt. SPECIES
-=======
+# Monoicomyces trypetae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rimelia clavulifera (Räsänen) Kurok. SPECIES
-=======
+# Rimelia clavulifera (Räsänen) Kurok. SPECIES
 
 #### Status
 ACCEPTED

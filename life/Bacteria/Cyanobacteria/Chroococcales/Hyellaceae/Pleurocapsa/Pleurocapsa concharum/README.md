@@ -1,5 +1,4 @@
-Pleurocapsa concharum Hansgirg SPECIES
-=======
+# Pleurocapsa concharum Hansgirg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella turkmenica Soprunov SPECIES
-=======
+# Dactylella turkmenica Soprunov SPECIES
 
 #### Status
 ACCEPTED

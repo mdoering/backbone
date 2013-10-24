@@ -1,8 +1,7 @@
-Lyngbya gardneri Geitler SPECIES
-=======
+# Heteroleibleinia gardneri (Geitler) Anagnostidis & Komárekk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

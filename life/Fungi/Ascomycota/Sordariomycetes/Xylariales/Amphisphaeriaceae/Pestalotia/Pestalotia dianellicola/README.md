@@ -1,5 +1,4 @@
-Pestalotia dianellicola Sawada SPECIES
-=======
+# Pestalotia dianellicola Sawada SPECIES
 
 #### Status
 ACCEPTED

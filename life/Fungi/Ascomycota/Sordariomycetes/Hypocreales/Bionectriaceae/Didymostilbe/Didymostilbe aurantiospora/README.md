@@ -1,5 +1,4 @@
-Didymostilbe aurantiospora Seifert & G. Okada, 1985 SPECIES
-=======
+# Didymostilbe aurantiospora Seifert & G. Okada, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeoporthe bambusae (Pat.) Höhn. SPECIES
-=======
+# Clypeoporthe bambusae (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

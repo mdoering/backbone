@@ -1,5 +1,4 @@
-Trochila cerastiorum De Not. SPECIES
-=======
+# Trochila cerastiorum De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corniculariella populi DiCosmo SPECIES
-=======
+# Corniculariella populi DiCosmo SPECIES
 
 #### Status
 ACCEPTED

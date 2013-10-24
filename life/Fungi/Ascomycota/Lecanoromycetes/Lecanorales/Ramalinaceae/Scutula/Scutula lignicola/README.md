@@ -1,5 +1,4 @@
-Scutula lignicola Velen. SPECIES
-=======
+# Scutula lignicola Velen. SPECIES
 
 #### Status
 ACCEPTED

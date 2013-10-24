@@ -1,5 +1,4 @@
-Psora subrubiformis (Vain.) Timdal SPECIES
-=======
+# Psora subrubiformis (Vain.) Timdal SPECIES
 
 #### Status
 ACCEPTED

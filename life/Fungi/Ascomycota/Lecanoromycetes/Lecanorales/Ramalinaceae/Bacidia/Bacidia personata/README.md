@@ -1,5 +1,4 @@
-Bacidia personata Malme SPECIES
-=======
+# Bacidia personata Malme SPECIES
 
 #### Status
 ACCEPTED

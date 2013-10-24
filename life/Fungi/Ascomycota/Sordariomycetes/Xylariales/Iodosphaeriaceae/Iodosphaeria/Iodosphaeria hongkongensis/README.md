@@ -1,5 +1,4 @@
-Iodosphaeria hongkongensis Joanne E. Taylor & K.D. Hyde SPECIES
-=======
+# Iodosphaeria hongkongensis Joanne E. Taylor & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

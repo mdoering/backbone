@@ -1,5 +1,4 @@
-Armillaria contorticystis A.H. Sm. SPECIES
-=======
+# Armillaria contorticystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

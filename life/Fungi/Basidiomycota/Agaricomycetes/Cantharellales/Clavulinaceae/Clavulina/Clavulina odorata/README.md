@@ -1,5 +1,4 @@
-Clavulina odorata P. Karst. SPECIES
-=======
+# Clavulina odorata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

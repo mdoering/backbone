@@ -1,5 +1,4 @@
-Pyrenopsis leprosa Anzi SPECIES
-=======
+# Pyrenopsis leprosa Anzi SPECIES
 
 #### Status
 ACCEPTED

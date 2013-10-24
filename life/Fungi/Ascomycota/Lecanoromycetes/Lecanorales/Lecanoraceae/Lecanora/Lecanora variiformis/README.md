@@ -1,8 +1,7 @@
-Lecanora variaeformis Bagl. SPECIES
-=======
+# Lecanora variiformis Bagl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora variaeformis Bagl.
+Lecanora variiformis Bagl.
 
 ### Remarks
 null

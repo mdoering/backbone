@@ -1,5 +1,4 @@
-Peziza porioides Alb. & Schwein. SPECIES
-=======
+# Peziza porioides Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

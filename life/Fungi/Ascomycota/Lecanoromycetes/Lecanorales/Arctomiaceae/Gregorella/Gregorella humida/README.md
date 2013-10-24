@@ -1,14 +1,13 @@
-Biatora humida Kullh. SPECIES
-=======
+# Gregorella humida (Kullh.) Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 274 (1871)
+in Lumbsch, Prado & Kantvilas, Lichenologist 37(4): 300 (2005)
 
 #### Original name
 Biatora humida Kullh.

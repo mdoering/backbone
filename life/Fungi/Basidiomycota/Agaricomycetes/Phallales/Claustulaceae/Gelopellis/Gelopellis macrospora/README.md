@@ -1,5 +1,4 @@
-Gelopellis macrospora Zeller, 1939 SPECIES
-=======
+# Gelopellis macrospora Zeller, 1939 SPECIES
 
 #### Status
 ACCEPTED

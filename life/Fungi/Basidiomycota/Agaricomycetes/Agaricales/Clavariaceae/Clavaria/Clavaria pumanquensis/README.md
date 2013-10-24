@@ -1,5 +1,4 @@
-Clavaria pumanquensis Lazo SPECIES
-=======
+# Clavaria pumanquensis Lazo SPECIES
 
 #### Status
 ACCEPTED

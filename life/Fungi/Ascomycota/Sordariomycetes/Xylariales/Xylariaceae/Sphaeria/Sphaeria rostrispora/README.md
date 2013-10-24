@@ -1,8 +1,7 @@
-Sphaeria rostraspora W.R. Gerard SPECIES
-=======
+# Sphaeria rostrispora W.R. Gerard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria rostraspora W.R. Gerard
+Sphaeria rostrispora W.R. Gerard
 
 ### Remarks
 null

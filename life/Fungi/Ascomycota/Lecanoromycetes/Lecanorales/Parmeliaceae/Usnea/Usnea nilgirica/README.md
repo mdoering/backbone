@@ -1,5 +1,4 @@
-Usnea nilgirica G. Awasthi SPECIES
-=======
+# Usnea nilgirica G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

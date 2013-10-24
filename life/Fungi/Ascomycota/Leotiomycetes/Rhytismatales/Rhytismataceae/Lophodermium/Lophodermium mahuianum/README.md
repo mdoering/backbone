@@ -1,5 +1,4 @@
-Lophodermium mahuianum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium mahuianum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

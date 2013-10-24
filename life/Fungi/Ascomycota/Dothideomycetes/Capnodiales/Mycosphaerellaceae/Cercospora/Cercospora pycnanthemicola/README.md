@@ -1,5 +1,4 @@
-Cercospora pycnanthemicola Munjal, Lall & Chona SPECIES
-=======
+# Cercospora pycnanthemicola Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

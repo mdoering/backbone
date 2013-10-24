@@ -1,17 +1,16 @@
-Pocillaria veraecrucis (Berk.) Kuntze SPECIES
-=======
+# Nothopanus hygrophanus (Mont.) Singer, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 23: 247 (1969)
 
 #### Original name
-Lentinus verae-crucis Berk., 1868
+Panus hygrophanus Mont., 1854
 
 ### Remarks
 null

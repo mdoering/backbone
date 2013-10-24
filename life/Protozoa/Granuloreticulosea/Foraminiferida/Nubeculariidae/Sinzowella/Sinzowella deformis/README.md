@@ -1,5 +1,4 @@
-Sinzowella deformis (Karrer & Sinzow, 1877) SPECIES
-=======
+# Sinzowella deformis (Karrer & Sinzow, 1877) SPECIES
 
 #### Status
 ACCEPTED

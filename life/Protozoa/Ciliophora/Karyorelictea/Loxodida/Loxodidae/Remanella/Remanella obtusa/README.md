@@ -1,5 +1,4 @@
-Remanella obtusa Faure-Fremiet, 1951 SPECIES
-=======
+# Remanella obtusa Faure-Fremiet, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus pallidofulvellus (Murrill) Overh. SPECIES
-=======
+# Polyporus pallidofulvellus (Murrill) Overh. SPECIES
 
 #### Status
 ACCEPTED

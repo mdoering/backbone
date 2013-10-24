@@ -1,17 +1,16 @@
-Xenosphaeria Trevis. GENUS
-=======
+# Dacampia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Consp. Verruc. 18 (1860)
+Lecidea Hookeri 7 (1853)
 
 #### Original name
-Xenosphaeria Trevis.
+Dacampia A. Massal.
 
 ### Remarks
 null

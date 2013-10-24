@@ -1,5 +1,4 @@
-Ramalina bermudiana Stirt. SPECIES
-=======
+# Ramalina bermudiana Stirt. SPECIES
 
 #### Status
 ACCEPTED

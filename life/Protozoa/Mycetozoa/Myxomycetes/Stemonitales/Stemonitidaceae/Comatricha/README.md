@@ -1,17 +1,16 @@
-Comatrichoides Hertel GENUS
-=======
+# Comatricha Preuss GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dusenia 7(no. 6): 347 (1956)
+Linnaea 24: 140 (1851)
 
 #### Original name
-Comatrichoides Hertel
+Comatricha Preuss
 
 ### Remarks
 null

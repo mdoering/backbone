@@ -1,5 +1,4 @@
-Acinetobacter junii Bouvet & Grimont, 1986 SPECIES
-=======
+# Acinetobacter junii Bouvet & Grimont, 1986 SPECIES
 
 #### Status
 ACCEPTED

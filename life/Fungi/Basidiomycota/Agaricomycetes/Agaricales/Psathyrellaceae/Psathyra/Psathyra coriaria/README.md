@@ -1,5 +1,4 @@
-Psathyra coriaria (Panizzi) Singer SPECIES
-=======
+# Psathyra coriaria (Panizzi) Singer SPECIES
 
 #### Status
 ACCEPTED

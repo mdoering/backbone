@@ -1,5 +1,4 @@
-Synchytrium galii Rytz SPECIES
-=======
+# Synchytrium galii Rytz SPECIES
 
 #### Status
 ACCEPTED

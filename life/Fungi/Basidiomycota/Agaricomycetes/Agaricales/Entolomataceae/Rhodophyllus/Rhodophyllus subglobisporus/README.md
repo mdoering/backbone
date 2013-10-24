@@ -1,5 +1,4 @@
-Rhodophyllus subglobisporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus subglobisporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

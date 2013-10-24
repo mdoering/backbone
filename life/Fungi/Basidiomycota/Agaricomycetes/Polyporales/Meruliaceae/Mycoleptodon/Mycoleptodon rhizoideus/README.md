@@ -1,5 +1,4 @@
-Mycoleptodon rhizoideus Pilát SPECIES
-=======
+# Mycoleptodon rhizoideus Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites chaiffetzii Elsik SPECIES
-=======
+# Hypoxylonites chaiffetzii Elsik SPECIES
 
 #### Status
 ACCEPTED

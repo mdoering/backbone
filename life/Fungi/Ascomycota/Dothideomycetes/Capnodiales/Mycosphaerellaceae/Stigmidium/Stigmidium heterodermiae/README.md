@@ -1,5 +1,4 @@
-Stigmidium heterodermiae Etayo SPECIES
-=======
+# Stigmidium heterodermiae Etayo SPECIES
 
 #### Status
 ACCEPTED

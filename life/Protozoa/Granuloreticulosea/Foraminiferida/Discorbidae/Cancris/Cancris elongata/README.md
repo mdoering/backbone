@@ -1,5 +1,4 @@
-Cancris elongata SPECIES
-=======
+# Cancris elongata SPECIES
 
 #### Status
 ACCEPTED

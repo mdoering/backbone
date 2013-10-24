@@ -1,5 +1,4 @@
-Psathyrella albescens Hesler & A.H. Sm. SPECIES
-=======
+# Psathyrella albescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

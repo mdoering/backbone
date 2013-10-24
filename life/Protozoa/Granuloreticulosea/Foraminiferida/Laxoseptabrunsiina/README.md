@@ -1,5 +1,4 @@
-Laxoseptabrunsiina Vachard, 1978 GENUS
-=======
+# Laxoseptabrunsiina Vachard, 1978 GENUS
 
 #### Status
 ACCEPTED

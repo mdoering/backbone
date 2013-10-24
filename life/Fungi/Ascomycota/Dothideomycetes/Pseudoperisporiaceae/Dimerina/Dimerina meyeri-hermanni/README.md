@@ -1,5 +1,4 @@
-Dimerina meyeri-hermanni (Henn.) Theiss. SPECIES
-=======
+# Dimerina meyeri-hermanni (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

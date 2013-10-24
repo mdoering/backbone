@@ -1,5 +1,4 @@
-Verrucaria murorum (Arnold) Lindau SPECIES
-=======
+# Verrucaria murorum (Arnold) Lindau SPECIES
 
 #### Status
 ACCEPTED

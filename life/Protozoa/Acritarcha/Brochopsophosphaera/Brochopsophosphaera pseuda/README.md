@@ -1,5 +1,4 @@
-Brochopsophosphaera pseuda Shepeleva, 1963 SPECIES
-=======
+# Brochopsophosphaera pseuda Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

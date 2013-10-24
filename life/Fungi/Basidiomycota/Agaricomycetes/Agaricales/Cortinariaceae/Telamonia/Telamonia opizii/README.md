@@ -1,5 +1,4 @@
-Telamonia opizii Velen. SPECIES
-=======
+# Telamonia opizii Velen. SPECIES
 
 #### Status
 ACCEPTED

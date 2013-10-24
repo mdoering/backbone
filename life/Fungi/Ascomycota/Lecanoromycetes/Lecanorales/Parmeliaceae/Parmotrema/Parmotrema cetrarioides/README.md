@@ -1,5 +1,4 @@
-Parmotrema cetrarioides SPECIES
-=======
+# Parmotrema cetrarioides SPECIES
 
 #### Status
 ACCEPTED

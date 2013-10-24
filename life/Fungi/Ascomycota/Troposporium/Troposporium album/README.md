@@ -1,5 +1,4 @@
-Troposporium album Harkn., 1884 SPECIES
-=======
+# Troposporium album Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

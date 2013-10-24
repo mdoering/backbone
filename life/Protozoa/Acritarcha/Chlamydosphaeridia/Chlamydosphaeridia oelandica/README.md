@@ -1,5 +1,4 @@
-Chlamydosphaeridia oelandica Eisenack, 1974 SPECIES
-=======
+# Chlamydosphaeridia oelandica Eisenack, 1974 SPECIES
 
 #### Status
 ACCEPTED

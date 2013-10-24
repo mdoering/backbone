@@ -1,5 +1,4 @@
-Podosordaria phoenicea J.C. Krug & Cain SPECIES
-=======
+# Podosordaria phoenicea J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

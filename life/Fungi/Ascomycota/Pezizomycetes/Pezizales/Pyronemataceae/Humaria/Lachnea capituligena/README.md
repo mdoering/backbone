@@ -1,5 +1,4 @@
-Lachnea capituligena Starbäck SPECIES
-=======
+# Lachnea capituligena Starbäck SPECIES
 
 #### Status
 ACCEPTED

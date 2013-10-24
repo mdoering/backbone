@@ -1,5 +1,4 @@
-Hydrophilomyces major Thaxt. SPECIES
-=======
+# Hydrophilomyces major Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgonisphaeridium antiquum Loeblich & Tappan, 1978 SPECIES
-=======
+# Gorgonisphaeridium antiquum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

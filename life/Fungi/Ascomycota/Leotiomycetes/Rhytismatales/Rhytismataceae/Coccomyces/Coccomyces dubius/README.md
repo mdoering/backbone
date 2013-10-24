@@ -1,5 +1,4 @@
-Coccomyces dubius Rehm SPECIES
-=======
+# Coccomyces dubius Rehm SPECIES
 
 #### Status
 ACCEPTED

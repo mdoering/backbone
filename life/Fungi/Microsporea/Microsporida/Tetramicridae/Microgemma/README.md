@@ -1,5 +1,4 @@
-Microgemma Ralphs & Matthews GENUS
-=======
+# Microgemma Ralphs & Matthews GENUS
 
 #### Status
 ACCEPTED

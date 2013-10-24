@@ -1,5 +1,4 @@
-Caloplaca lapicida (Arnold) H. Magn. SPECIES
-=======
+# Caloplaca lapicida (Arnold) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscyphus densissima Feltgen SPECIES
-=======
+# Dasyscyphus densissimus Feltgen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 190 (1939)
 
 #### Original name
-Dasyscyphus densissima Feltgen
+Dasyscyphus densissimus Feltgen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Collybia nivosula Berk. SPECIES
-=======
+# Collybia nivosula Berk. SPECIES
 
 #### Status
 ACCEPTED

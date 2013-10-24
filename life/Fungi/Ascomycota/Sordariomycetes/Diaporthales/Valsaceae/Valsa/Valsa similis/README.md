@@ -1,5 +1,4 @@
-Valsa similis Nitschke SPECIES
-=======
+# Valsa similis Nitschke SPECIES
 
 #### Status
 ACCEPTED

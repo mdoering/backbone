@@ -1,5 +1,4 @@
-Calyptella epibrya Singer, 1973 SPECIES
-=======
+# Calyptella epibrya Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

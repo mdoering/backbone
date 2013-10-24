@@ -1,14 +1,13 @@
-Bilimbia gabrielis (Müll. Arg.) Szatala SPECIES
-=======
+# Loflammia gabrielis (Müll. Arg.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 7: 43 (1956)
+Folia geobot. phytotax. 21(2): 216 (1986)
 
 #### Original name
 Bacidia gabrielis Müll. Arg.

@@ -1,14 +1,13 @@
-Russula laurocerasi var. fragrantissima (Romagn.) Bon, 1986 VARIETY
-=======
+# Russula fragrantissima Romagn., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 17(no. 65): 56 (1986)
+Les Russules d'Europe et d'Afrique du Nord (Vaduz), Réimpression supplémentée. With an English translation of the keys by R. W. G. Dennis 350 (1967)
 
 #### Original name
 Russula fragrantissima Romagn., 1967

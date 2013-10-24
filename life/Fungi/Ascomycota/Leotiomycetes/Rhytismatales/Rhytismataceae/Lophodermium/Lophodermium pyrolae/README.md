@@ -1,5 +1,4 @@
-Lophodermium pyrolae Parmelee, 1958 SPECIES
-=======
+# Lophodermium pyrolae Parmelee, 1958 SPECIES
 
 #### Status
 ACCEPTED

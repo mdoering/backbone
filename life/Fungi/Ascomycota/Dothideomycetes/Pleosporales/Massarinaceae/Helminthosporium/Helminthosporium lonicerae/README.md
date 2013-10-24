@@ -1,5 +1,4 @@
-Helminthosporium lonicerae Viégas SPECIES
-=======
+# Helminthosporium lonicerae Viégas SPECIES
 
 #### Status
 ACCEPTED

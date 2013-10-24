@@ -1,5 +1,4 @@
-Dictyocysta occidentalis Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta occidentalis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

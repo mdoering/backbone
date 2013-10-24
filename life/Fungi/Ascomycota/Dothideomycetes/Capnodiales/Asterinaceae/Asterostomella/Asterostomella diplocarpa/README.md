@@ -1,5 +1,4 @@
-Asterostomella diplocarpa M.L. Farr SPECIES
-=======
+# Asterostomella diplocarpa M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

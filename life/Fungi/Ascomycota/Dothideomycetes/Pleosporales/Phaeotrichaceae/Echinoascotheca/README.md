@@ -1,5 +1,4 @@
-Echinoascotheca Matsush. GENUS
-=======
+# Echinoascotheca Matsush. GENUS
 
 #### Status
 ACCEPTED

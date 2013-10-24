@@ -1,5 +1,4 @@
-Phyllocratera papuana Sérus. & Aptroot, 1997 SPECIES
-=======
+# Phyllocratera papuana Sérus. & Aptroot, 1997 SPECIES
 
 #### Status
 ACCEPTED

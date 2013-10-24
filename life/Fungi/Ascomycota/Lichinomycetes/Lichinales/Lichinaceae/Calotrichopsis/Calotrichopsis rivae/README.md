@@ -1,5 +1,4 @@
-Calotrichopsis rivae Sambo SPECIES
-=======
+# Calotrichopsis rivae Sambo SPECIES
 
 #### Status
 ACCEPTED

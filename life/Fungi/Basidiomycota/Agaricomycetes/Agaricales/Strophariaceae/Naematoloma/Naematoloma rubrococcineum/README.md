@@ -1,17 +1,16 @@
-Nematoloma rubrococcineum Balletto SPECIES
-=======
+# Naematoloma rubrococcineum Balletto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 87: 217 (1967)
 
 #### Original name
-Nematoloma rubrococcineum Balletto
+Naematoloma rubrococcineum Balletto
 
 ### Remarks
 null

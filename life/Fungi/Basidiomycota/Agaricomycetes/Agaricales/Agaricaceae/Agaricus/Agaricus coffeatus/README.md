@@ -1,5 +1,4 @@
-Agaricus coffeatus Fr. SPECIES
-=======
+# Agaricus coffeatus Fr. SPECIES
 
 #### Status
 ACCEPTED

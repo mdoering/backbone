@@ -1,5 +1,4 @@
-Cercospora baroipurensis Purkay. & Mallik SPECIES
-=======
+# Cercospora baroipurensis Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

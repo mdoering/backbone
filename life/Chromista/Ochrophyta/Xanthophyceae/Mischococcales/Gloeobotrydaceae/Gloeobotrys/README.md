@@ -1,5 +1,4 @@
-Gloeobotrys A. Pascher, 1930 GENUS
-=======
+# Gloeobotrys A. Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

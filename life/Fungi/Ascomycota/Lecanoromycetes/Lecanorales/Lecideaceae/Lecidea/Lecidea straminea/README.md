@@ -1,5 +1,4 @@
-Lecidea straminea Anzi SPECIES
-=======
+# Lecidea straminea Anzi SPECIES
 
 #### Status
 ACCEPTED

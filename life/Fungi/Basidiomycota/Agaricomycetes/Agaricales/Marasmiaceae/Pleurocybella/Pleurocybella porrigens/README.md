@@ -1,17 +1,16 @@
-Agaricus porrigens var. porrigens VARIETY
-=======
+# Pleurocybella porrigens (Pers.) Singer, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 34(1): 81 (1942)
 
 #### Original name
-null
+Agaricus porrigens Pers., 1796
 
 ### Remarks
 null

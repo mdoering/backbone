@@ -1,5 +1,4 @@
-Balladynopsis entebbeensis (Hansf.) Petr. SPECIES
-=======
+# Balladynopsis entebbeensis (Hansf.) Petr. SPECIES
 
 #### Status
 ACCEPTED

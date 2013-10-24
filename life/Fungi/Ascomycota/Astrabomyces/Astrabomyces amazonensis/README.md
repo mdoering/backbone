@@ -1,5 +1,4 @@
-Astrabomyces amazonensis Bat. & Cavalc. SPECIES
-=======
+# Astrabomyces amazonensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

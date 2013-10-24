@@ -1,5 +1,4 @@
-Cryptodiaporthe apiculata (Wallr.) Petr. SPECIES
-=======
+# Cryptodiaporthe apiculata (Wallr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

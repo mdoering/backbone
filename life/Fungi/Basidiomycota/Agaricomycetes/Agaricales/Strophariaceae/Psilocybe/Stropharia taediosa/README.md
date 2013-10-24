@@ -1,5 +1,4 @@
-Stropharia taediosa (Kalchbr.) D.A. Reid SPECIES
-=======
+# Stropharia taediosa (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

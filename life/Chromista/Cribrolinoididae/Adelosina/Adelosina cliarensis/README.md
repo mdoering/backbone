@@ -1,8 +1,7 @@
-Miliolina cliarensis Heron-Allen & Earland, 1930 SPECIES
-=======
+# Adelosina cliarensis (Heron-Allen & Earland, 1930) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

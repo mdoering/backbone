@@ -1,5 +1,4 @@
-Eiffellithus vonsalisiae SPECIES
-=======
+# Eiffellithus vonsalisiae SPECIES
 
 #### Status
 ACCEPTED

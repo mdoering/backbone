@@ -1,5 +1,4 @@
-Biatora fusca var. fusca VARIETY
-=======
+# Biatora fusca Nägeli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora fusca var. fusca
+Biatora fusca Nägeli
 
 ### Remarks
 null

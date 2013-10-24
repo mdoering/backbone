@@ -1,5 +1,4 @@
-Trichosporum binucleatum P. Karst. SPECIES
-=======
+# Trichosporum binucleatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

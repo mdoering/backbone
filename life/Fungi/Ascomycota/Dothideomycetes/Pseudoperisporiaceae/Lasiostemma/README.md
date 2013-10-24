@@ -1,17 +1,16 @@
-Lasiostemmella Petr. GENUS
-=======
+# Lasiostemma Theiss., Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 376 (1950)
+in Sydow & Sydow, Annls mycol. 15(3/4): 218 (1917)
 
 #### Original name
-Lasiostemmella Petr.
+Lasiostemma Theiss., Syd. & P. Syd.
 
 ### Remarks
 null

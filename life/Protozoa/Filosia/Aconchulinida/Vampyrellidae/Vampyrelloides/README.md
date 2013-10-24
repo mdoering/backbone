@@ -1,5 +1,4 @@
-Vampyrelloides Schepotieff GENUS
-=======
+# Vampyrelloides Schepotieff GENUS
 
 #### Status
 ACCEPTED

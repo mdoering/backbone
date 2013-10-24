@@ -1,5 +1,4 @@
-Trenomyces thaxteri Eichler {?} SPECIES
-=======
+# Trenomyces thaxteri Eichler {?} SPECIES
 
 #### Status
 ACCEPTED

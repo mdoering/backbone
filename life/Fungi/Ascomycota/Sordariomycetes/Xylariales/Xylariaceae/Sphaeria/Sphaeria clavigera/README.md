@@ -1,5 +1,4 @@
-Sphaeria clavigera Cooke & Ellis SPECIES
-=======
+# Sphaeria clavigera Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

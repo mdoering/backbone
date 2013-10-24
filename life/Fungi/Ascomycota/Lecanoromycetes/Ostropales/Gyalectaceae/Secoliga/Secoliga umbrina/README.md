@@ -1,5 +1,4 @@
-Secoliga umbrina (Ach.) Stizenb. SPECIES
-=======
+# Secoliga umbrina (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

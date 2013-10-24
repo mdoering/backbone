@@ -1,5 +1,4 @@
-Agrocybe tunicola Grgur. SPECIES
-=======
+# Agrocybe tunicola Grgur. SPECIES
 
 #### Status
 ACCEPTED

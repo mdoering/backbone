@@ -1,5 +1,4 @@
-Phyllosticta ellisii Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

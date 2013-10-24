@@ -1,5 +1,4 @@
-Penicillium candidofulvum Dierckx SPECIES
-=======
+# Penicillium candidofulvum Dierckx SPECIES
 
 #### Status
 ACCEPTED

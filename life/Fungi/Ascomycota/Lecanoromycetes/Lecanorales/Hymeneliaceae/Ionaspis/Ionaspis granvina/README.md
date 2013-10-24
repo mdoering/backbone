@@ -1,5 +1,4 @@
-Ionaspis granvina Hav. SPECIES
-=======
+# Ionaspis granvina Hav. SPECIES
 
 #### Status
 ACCEPTED

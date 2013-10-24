@@ -1,5 +1,4 @@
-Podospora multicaudiculata Cailleux SPECIES
-=======
+# Podospora multicaudiculata Cailleux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eustilbum rehmianum Rabenh. SPECIES
-=======
+# Eustilbum rehmianum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

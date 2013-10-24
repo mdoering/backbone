@@ -1,5 +1,4 @@
-Verrucaria apomelaena var. apomelaena VARIETY
-=======
+# Verrucaria apomelaena Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria apomelaena var. apomelaena
+Verrucaria apomelaena Hepp
 
 ### Remarks
 null

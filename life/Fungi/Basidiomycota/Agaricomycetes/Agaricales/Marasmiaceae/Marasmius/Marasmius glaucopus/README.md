@@ -1,5 +1,4 @@
-Marasmius glaucopus (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Marasmius glaucopus (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

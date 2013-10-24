@@ -1,5 +1,4 @@
-Leucoagaricus majusculus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus majusculus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

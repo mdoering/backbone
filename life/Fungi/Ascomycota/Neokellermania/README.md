@@ -1,5 +1,4 @@
-Neokellermania GENUS
-=======
+# Neokellermania GENUS
 
 #### Status
 ACCEPTED

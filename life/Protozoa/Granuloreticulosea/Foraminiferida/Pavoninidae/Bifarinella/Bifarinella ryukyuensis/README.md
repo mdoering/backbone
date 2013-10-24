@@ -1,5 +1,4 @@
-Bifarinella ryukyuensis Cushman & Hanzawa, 1936 SPECIES
-=======
+# Bifarinella ryukyuensis Cushman & Hanzawa, 1936 SPECIES
 
 #### Status
 ACCEPTED

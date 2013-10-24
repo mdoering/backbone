@@ -1,5 +1,4 @@
-Streptomyces sanglieri Manfio et al., 2003 SPECIES
-=======
+# Streptomyces sanglieri Manfio et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

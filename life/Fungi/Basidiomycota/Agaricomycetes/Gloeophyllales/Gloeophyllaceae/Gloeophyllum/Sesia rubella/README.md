@@ -1,5 +1,4 @@
-Sesia rubella (Peck) Kuntze SPECIES
-=======
+# Sesia rubella (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

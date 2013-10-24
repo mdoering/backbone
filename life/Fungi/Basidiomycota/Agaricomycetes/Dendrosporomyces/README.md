@@ -1,5 +1,4 @@
-Dendrosporomyces Nawawi, J. Webster & R.A. Davey GENUS
-=======
+# Dendrosporomyces Nawawi, J. Webster & R.A. Davey GENUS
 
 #### Status
 ACCEPTED

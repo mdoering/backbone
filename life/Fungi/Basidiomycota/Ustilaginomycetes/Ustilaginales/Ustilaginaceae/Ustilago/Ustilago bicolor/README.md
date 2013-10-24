@@ -1,5 +1,4 @@
-Ustilago bicolor (Hirschh.) Hirschh. SPECIES
-=======
+# Ustilago bicolor (Hirschh.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED

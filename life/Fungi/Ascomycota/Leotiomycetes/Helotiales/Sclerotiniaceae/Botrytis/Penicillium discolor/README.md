@@ -1,5 +1,4 @@
-Penicillium discolor Frisvad & Samson, 1997 SPECIES
-=======
+# Penicillium discolor Frisvad & Samson, 1997 SPECIES
 
 #### Status
 DOUBTFUL

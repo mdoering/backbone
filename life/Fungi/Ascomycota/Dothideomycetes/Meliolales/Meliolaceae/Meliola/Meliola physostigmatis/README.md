@@ -1,5 +1,4 @@
-Meliola physostigmatis Hansf. & Deighton SPECIES
-=======
+# Meliola physostigmatis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

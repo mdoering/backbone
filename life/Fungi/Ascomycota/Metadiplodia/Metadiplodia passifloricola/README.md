@@ -1,5 +1,4 @@
-Metadiplodia passifloricola (Henn.) Zambett. SPECIES
-=======
+# Metadiplodia passifloricola (Henn.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

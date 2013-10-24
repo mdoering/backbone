@@ -1,5 +1,4 @@
-Leptosphaeria fusispora f. fusispora FORM
-=======
+# Leptosphaeria fusispora Niessl SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria fusispora f. fusispora
+Leptosphaeria fusispora Niessl
 
 ### Remarks
 null

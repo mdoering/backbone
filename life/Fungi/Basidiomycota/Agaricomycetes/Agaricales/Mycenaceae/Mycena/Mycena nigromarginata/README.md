@@ -1,5 +1,4 @@
-Mycena nigromarginata Métrod SPECIES
-=======
+# Mycena nigromarginata Métrod SPECIES
 
 #### Status
 ACCEPTED

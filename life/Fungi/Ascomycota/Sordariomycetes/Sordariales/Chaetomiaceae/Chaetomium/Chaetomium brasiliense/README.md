@@ -1,17 +1,16 @@
-Chaetomium alba-arenulum L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium brasiliense Bat. & Pontual, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of the Chaetomiaceae (U. S. Army Research and Development Service) 10 (1963)
+Bol. Secr. Agric. (Pernambuco) 15: 70 (1948)
 
 #### Original name
-Chaetomium alba-arenulum L.M. Ames, 1963
+Chaetomium brasiliense Bat. & Pontual, 1948
 
 ### Remarks
 null

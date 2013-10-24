@@ -1,5 +1,4 @@
-Pestalotia vismiae Petr. SPECIES
-=======
+# Pestalotia vismiae Petr. SPECIES
 
 #### Status
 ACCEPTED

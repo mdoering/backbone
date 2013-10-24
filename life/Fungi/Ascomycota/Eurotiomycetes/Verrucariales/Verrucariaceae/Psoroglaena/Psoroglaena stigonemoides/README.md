@@ -1,14 +1,13 @@
-Leucocarpia stigonemoides (Orange) Hafellner & Kalb SPECIES
-=======
+# Psoroglaena stigonemoides (Orange) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herzogia 9(1-2): 70 (1992)
+Biblthca Lichenol. 57: 203 (1995)
 
 #### Original name
 Macentina stigonemoides Orange

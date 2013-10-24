@@ -1,5 +1,4 @@
-Anaptychia albidiflava Kurok. SPECIES
-=======
+# Anaptychia albidiflava Kurok. SPECIES
 
 #### Status
 ACCEPTED

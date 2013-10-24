@@ -1,5 +1,4 @@
-Cercospora cynarae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora cynarae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

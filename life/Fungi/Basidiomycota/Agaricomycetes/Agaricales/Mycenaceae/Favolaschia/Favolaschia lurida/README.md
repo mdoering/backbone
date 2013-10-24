@@ -1,5 +1,4 @@
-Favolaschia lurida (Ces.) Kuntze SPECIES
-=======
+# Favolaschia lurida (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

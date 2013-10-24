@@ -1,5 +1,4 @@
-Polyporus hookerianus Sacc. & Trotter SPECIES
-=======
+# Polyporus hookerianus Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

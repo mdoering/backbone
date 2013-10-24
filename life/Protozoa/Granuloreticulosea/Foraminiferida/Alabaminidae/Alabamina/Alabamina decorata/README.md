@@ -1,5 +1,4 @@
-Alabamina decorata SPECIES
-=======
+# Alabamina decorata SPECIES
 
 #### Status
 ACCEPTED

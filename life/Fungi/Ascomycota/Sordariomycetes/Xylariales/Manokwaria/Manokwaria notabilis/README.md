@@ -1,5 +1,4 @@
-Manokwaria notabilis K.D. Hyde, 1993 SPECIES
-=======
+# Manokwaria notabilis K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

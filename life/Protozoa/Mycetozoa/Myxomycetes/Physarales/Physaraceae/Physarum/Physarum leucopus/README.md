@@ -1,14 +1,13 @@
-Didymium squamulosum var. leucopus (Link) Berl. VARIETY
-=======
+# Physarum leucopus Link, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 160 (1874)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 27 (1809)
 
 #### Original name
 Physarum leucopus Link, 1809

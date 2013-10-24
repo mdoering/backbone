@@ -1,5 +1,4 @@
-Cryptomonas pyrenoidifera Geitler SPECIES
-=======
+# Cryptomonas pyrenoidifera Geitler SPECIES
 
 #### Status
 ACCEPTED

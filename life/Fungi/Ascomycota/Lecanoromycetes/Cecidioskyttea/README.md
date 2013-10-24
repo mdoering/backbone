@@ -1,5 +1,4 @@
-Cecidioskyttea Etayo GENUS
-=======
+# Cecidioskyttea Etayo GENUS
 
 #### Status
 ACCEPTED

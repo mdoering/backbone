@@ -1,5 +1,4 @@
-Russula californinensis SPECIES
-=======
+# Russula californinensis SPECIES
 
 #### Status
 ACCEPTED

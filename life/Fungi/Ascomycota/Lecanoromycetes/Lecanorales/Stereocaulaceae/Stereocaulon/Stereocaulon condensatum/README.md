@@ -1,17 +1,16 @@
-Stereocaulon condensatum f. condensatum FORM
-=======
+# Stereocaulon condensatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil (1796)
 
 #### Original name
-Stereocaulon condensatum f. condensatum
+Stereocaulon condensatum Hoffm.
 
 ### Remarks
 null

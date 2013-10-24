@@ -1,5 +1,4 @@
-Aplosporella lilacis Petr. SPECIES
-=======
+# Aplosporella lilacis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces fuscatus Arthur SPECIES
-=======
+# Uromyces fuscatus Arthur SPECIES
 
 #### Status
 ACCEPTED

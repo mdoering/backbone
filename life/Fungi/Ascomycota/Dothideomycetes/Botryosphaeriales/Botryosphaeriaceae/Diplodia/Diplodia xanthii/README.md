@@ -1,5 +1,4 @@
-Diplodia xanthii S. Ahmad SPECIES
-=======
+# Diplodia xanthii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius montellicus Sacc. & P. Syd. SPECIES
-=======
+# Cortinarius montellicus Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

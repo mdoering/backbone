@@ -1,5 +1,4 @@
-Colpoma deustum Sherwood, 1979 SPECIES
-=======
+# Colpoma deustum Sherwood, 1979 SPECIES
 
 #### Status
 ACCEPTED

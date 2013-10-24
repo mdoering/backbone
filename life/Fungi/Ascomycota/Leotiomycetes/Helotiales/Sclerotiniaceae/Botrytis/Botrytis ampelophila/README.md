@@ -1,5 +1,4 @@
-Botrytis ampelophila Speg. SPECIES
-=======
+# Botrytis ampelophila Speg. SPECIES
 
 #### Status
 ACCEPTED

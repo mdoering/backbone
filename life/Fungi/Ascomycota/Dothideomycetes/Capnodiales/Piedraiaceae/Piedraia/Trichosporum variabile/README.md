@@ -1,5 +1,4 @@
-Trichosporum variabile Peck SPECIES
-=======
+# Trichosporum variabile Peck SPECIES
 
 #### Status
 ACCEPTED

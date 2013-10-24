@@ -1,5 +1,4 @@
-Cryptosporella paucispora (Peck) Berl. & Voglino SPECIES
-=======
+# Cryptosporella paucispora (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

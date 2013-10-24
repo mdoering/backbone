@@ -1,5 +1,4 @@
-Curvularia fallax Boedijn, 1933 SPECIES
-=======
+# Curvularia fallax Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED

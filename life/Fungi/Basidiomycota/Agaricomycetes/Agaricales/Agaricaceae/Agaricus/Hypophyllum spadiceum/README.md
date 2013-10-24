@@ -1,5 +1,4 @@
-Hypophyllum spadiceum Paulet SPECIES
-=======
+# Hypophyllum spadiceum Paulet SPECIES
 
 #### Status
 ACCEPTED

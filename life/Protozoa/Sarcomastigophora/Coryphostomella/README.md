@@ -1,5 +1,4 @@
-Coryphostomella Gawor-Biedowa, 1987 GENUS
-=======
+# Coryphostomella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

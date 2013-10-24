@@ -1,5 +1,4 @@
-Sargassum sullivanii G.C. Trono SPECIES
-=======
+# Sargassum sullivanii G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

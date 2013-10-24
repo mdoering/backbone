@@ -1,5 +1,4 @@
-Physcia kalbii Moberg SPECIES
-=======
+# Physcia kalbii Moberg SPECIES
 
 #### Status
 ACCEPTED

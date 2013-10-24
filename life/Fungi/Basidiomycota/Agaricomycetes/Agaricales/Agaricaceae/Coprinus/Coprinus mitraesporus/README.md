@@ -1,5 +1,4 @@
-Coprinus mitraesporus Bohus SPECIES
-=======
+# Coprinus mitraesporus Bohus SPECIES
 
 #### Status
 ACCEPTED

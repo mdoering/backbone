@@ -1,5 +1,4 @@
-Cetraria potaninii Oxner SPECIES
-=======
+# Cetraria potaninii Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma membranaceum Long & S. Ahmad SPECIES
-=======
+# Tulostoma membranaceum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

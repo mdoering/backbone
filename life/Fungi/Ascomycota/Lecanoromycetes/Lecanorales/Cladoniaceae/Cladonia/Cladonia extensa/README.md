@@ -1,5 +1,4 @@
-Cladonia extensa var. cylindrica Schaer. VARIETY
-=======
+# Cladonia extensa Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia extensa var. cylindrica Schaer.
+Cladonia extensa Hoffm.
 
 ### Remarks
 null

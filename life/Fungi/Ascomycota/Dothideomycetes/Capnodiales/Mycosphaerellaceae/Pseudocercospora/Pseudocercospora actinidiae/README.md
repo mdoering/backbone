@@ -1,5 +1,4 @@
-Pseudocercospora actinidiae Deighton SPECIES
-=======
+# Pseudocercospora actinidiae Deighton SPECIES
 
 #### Status
 ACCEPTED

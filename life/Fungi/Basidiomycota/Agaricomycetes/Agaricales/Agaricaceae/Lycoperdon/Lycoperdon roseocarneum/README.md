@@ -1,5 +1,4 @@
-Lycoperdon roseocarneum Beeli SPECIES
-=======
+# Lycoperdon roseocarneum Beeli SPECIES
 
 #### Status
 ACCEPTED

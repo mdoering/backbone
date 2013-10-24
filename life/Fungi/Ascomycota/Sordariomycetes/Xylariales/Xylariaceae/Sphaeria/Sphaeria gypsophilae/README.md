@@ -1,5 +1,4 @@
-Sphaeria gypsophilae Lasch SPECIES
-=======
+# Sphaeria gypsophilae Lasch SPECIES
 
 #### Status
 ACCEPTED

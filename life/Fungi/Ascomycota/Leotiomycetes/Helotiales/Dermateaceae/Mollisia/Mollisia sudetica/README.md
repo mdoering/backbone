@@ -1,5 +1,4 @@
-Mollisia sudetica J. Schröt. SPECIES
-=======
+# Mollisia sudetica J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

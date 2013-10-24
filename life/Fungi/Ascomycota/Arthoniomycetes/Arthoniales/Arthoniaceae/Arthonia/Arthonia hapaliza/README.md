@@ -1,5 +1,4 @@
-Arthonia hapaliza Nyl. SPECIES
-=======
+# Arthonia hapaliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum niveum Caruso SPECIES
-=======
+# Microsporum niveum Caruso SPECIES
 
 #### Status
 ACCEPTED

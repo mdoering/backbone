@@ -1,5 +1,4 @@
-Catillaria bryophila (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria bryophila (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

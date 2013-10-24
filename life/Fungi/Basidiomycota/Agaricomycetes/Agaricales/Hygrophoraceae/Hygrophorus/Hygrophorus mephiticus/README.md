@@ -1,5 +1,4 @@
-Hygrophorus mephiticus Peck SPECIES
-=======
+# Hygrophorus mephiticus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora combreti M.B. Ellis SPECIES
-=======
+# Corynespora combreti M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces bannaensis F.Y. Bai & J.H. Zhao SPECIES
-=======
+# Sporobolomyces bannaensis F.Y. Bai & J.H. Zhao SPECIES
 
 #### Status
 ACCEPTED

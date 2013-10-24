@@ -1,5 +1,4 @@
-Psathyrella asperella Quél. SPECIES
-=======
+# Psathyrella asperella Quél. SPECIES
 
 #### Status
 ACCEPTED

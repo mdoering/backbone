@@ -1,5 +1,4 @@
-Tilletia makutensis Thirum. & Safeeulla SPECIES
-=======
+# Tilletia makutensis Thirum. & Safeeulla SPECIES
 
 #### Status
 ACCEPTED

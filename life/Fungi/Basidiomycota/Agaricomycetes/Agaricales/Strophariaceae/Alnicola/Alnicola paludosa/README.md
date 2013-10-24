@@ -1,5 +1,4 @@
-Alnicola paludosa (Peck) Singer SPECIES
-=======
+# Alnicola paludosa (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

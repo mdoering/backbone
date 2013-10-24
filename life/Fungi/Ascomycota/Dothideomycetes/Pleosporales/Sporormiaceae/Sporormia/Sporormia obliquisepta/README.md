@@ -1,5 +1,4 @@
-Sporormia obliquisepta Speg. SPECIES
-=======
+# Sporormia obliquisepta Speg. SPECIES
 
 #### Status
 ACCEPTED

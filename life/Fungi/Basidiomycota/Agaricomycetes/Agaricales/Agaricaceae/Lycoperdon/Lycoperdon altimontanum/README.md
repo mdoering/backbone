@@ -1,5 +1,4 @@
-Lycoperdon altimontanum Kreisel SPECIES
-=======
+# Lycoperdon altimontanum Kreisel SPECIES
 
 #### Status
 ACCEPTED

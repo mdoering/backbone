@@ -1,5 +1,4 @@
-Grandinia cinereoviolacea Henn. SPECIES
-=======
+# Grandinia cinereoviolacea Henn. SPECIES
 
 #### Status
 ACCEPTED

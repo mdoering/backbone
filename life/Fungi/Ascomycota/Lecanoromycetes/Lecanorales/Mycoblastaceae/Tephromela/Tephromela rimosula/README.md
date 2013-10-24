@@ -1,5 +1,4 @@
-Tephromela rimosula Øvstedal SPECIES
-=======
+# Tephromela rimosula Øvstedal SPECIES
 
 #### Status
 ACCEPTED

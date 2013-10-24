@@ -1,5 +1,4 @@
-Stemonaria laxa Nann.-Bremek. & Y. Yamam., 1984 SPECIES
-=======
+# Stemonaria laxa Nann.-Bremek. & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED

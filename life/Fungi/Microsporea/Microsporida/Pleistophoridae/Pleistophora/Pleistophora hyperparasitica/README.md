@@ -1,5 +1,4 @@
-Pleistophora hyperparasitica Codreanu-Bälcescu & Codreanu SPECIES
-=======
+# Pleistophora hyperparasitica Codreanu-Bälcescu & Codreanu SPECIES
 
 #### Status
 ACCEPTED

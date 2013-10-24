@@ -1,5 +1,4 @@
-Orygmatosphaeridium inconspicuum Pykhova, 1969 ex Fensome et al., 1990 SPECIES
-=======
+# Orygmatosphaeridium inconspicuum Pykhova, 1969 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

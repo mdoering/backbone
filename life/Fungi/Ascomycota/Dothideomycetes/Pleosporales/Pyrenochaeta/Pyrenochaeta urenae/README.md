@@ -1,5 +1,4 @@
-Pyrenochaeta urenae R.S. Mathur & R.P. Singh SPECIES
-=======
+# Pyrenochaeta urenae R.S. Mathur & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

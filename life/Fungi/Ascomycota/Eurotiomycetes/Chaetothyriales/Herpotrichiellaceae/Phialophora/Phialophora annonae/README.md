@@ -1,5 +1,4 @@
-Phialophora annonae Bat. & C. Ram SPECIES
-=======
+# Phialophora annonae Bat. & C. Ram SPECIES
 
 #### Status
 ACCEPTED

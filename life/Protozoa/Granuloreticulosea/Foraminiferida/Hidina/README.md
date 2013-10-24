@@ -1,5 +1,4 @@
-Hidina Cheorghian, Iva & Gheorghian, 1967 GENUS
-=======
+# Hidina Cheorghian, Iva & Gheorghian, 1967 GENUS
 
 #### Status
 ACCEPTED

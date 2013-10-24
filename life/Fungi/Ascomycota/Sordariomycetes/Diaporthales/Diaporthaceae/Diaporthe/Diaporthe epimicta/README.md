@@ -1,5 +1,4 @@
-Diaporthe epimicta Ellis & Everh. SPECIES
-=======
+# Diaporthe epimicta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

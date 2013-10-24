@@ -1,5 +1,4 @@
-Misgomyces perigonae Thaxt. SPECIES
-=======
+# Misgomyces perigonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

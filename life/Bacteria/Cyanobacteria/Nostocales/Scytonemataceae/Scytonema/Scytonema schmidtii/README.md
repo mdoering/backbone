@@ -1,5 +1,4 @@
-Scytonema schmidtii Gomont SPECIES
-=======
+# Scytonema schmidtii Gomont SPECIES
 
 #### Status
 ACCEPTED

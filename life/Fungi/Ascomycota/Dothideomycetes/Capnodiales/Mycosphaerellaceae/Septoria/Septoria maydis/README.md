@@ -1,5 +1,4 @@
-Septoria maydis var. maydis VARIETY
-=======
+# Septoria maydis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria maydis var. maydis
+Septoria maydis Schulzer & Sacc.
 
 ### Remarks
 null

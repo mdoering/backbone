@@ -1,5 +1,4 @@
-Saccardoella separans M.E. Barr SPECIES
-=======
+# Saccardoella separans M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

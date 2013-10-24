@@ -1,5 +1,4 @@
-Martellia mediterranea G. Moreno, R. Galán & Montecchi SPECIES
-=======
+# Martellia mediterranea G. Moreno, R. Galán & Montecchi SPECIES
 
 #### Status
 ACCEPTED

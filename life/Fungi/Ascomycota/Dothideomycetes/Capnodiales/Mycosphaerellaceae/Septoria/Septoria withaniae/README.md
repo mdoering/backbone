@@ -1,5 +1,4 @@
-Septoria withaniae Rayss SPECIES
-=======
+# Septoria withaniae Rayss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baeomyces caesiopruinosus (Anzi) Jatta SPECIES
-=======
+# Baeomyces caesiopruinosus (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

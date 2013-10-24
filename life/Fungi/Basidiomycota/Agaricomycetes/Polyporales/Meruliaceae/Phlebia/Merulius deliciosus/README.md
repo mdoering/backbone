@@ -1,5 +1,4 @@
-Merulius deliciosus F. Brig. SPECIES
-=======
+# Merulius deliciosus F. Brig. SPECIES
 
 #### Status
 ACCEPTED

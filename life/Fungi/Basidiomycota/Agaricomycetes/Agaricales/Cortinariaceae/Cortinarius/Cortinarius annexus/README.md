@@ -1,5 +1,4 @@
-Cortinarius annexus Britzelm. SPECIES
-=======
+# Cortinarius annexus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

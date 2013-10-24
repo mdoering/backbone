@@ -1,5 +1,4 @@
-Thermosediminibacter oceani Lee et al., 2006 SPECIES
-=======
+# Thermosediminibacter oceani Lee et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora baccharidis Ellis SPECIES
-=======
+# Stagonospora baccharidis Ellis SPECIES
 
 #### Status
 ACCEPTED

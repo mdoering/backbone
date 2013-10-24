@@ -1,5 +1,4 @@
-Puccinia aberrans Peck SPECIES
-=======
+# Puccinia aberrans Peck SPECIES
 
 #### Status
 ACCEPTED

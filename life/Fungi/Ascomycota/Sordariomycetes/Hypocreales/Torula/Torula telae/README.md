@@ -1,5 +1,4 @@
-Torula telae Sacc. SPECIES
-=======
+# Torula telae Sacc. SPECIES
 
 #### Status
 ACCEPTED

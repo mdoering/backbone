@@ -1,5 +1,4 @@
-Eutypella amorphae Ellis & Everh. SPECIES
-=======
+# Eutypella amorphae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ustilago butleri Syd. & P. Syd., 1906 SPECIES
-=======
+# Farysia butleri (Syd. & P. Syd.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow & Butler, Annls mycol. 4: 424 (1906)
+Annls mycol. 42 (1919)
 
 #### Original name
 Ustilago butleri Syd. & P. Syd., 1906

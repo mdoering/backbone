@@ -1,5 +1,4 @@
-Ceratostomella microcarpa P. Karst. SPECIES
-=======
+# Ceratostomella microcarpa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

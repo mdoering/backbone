@@ -1,5 +1,4 @@
-Beggiatoa Trevisan, 1845 GENUS
-=======
+# Beggiatoa Trevisan, 1845 GENUS
 
 #### Status
 ACCEPTED

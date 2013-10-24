@@ -1,5 +1,4 @@
-Cryptovalsa corylina anon. SPECIES
-=======
+# Cryptovalsa corylina anon. SPECIES
 
 #### Status
 ACCEPTED

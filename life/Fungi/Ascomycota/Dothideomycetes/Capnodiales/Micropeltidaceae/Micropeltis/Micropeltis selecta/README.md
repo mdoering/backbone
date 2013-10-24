@@ -1,5 +1,4 @@
-Micropeltis selecta Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis selecta Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia potentillae Schwarzman SPECIES
-=======
+# Diplodia potentillae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

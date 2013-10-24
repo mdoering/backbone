@@ -1,14 +1,13 @@
-Crustomyces stratosus (Burds. & Nakasone) Hjortstam, 1995 SPECIES
-=======
+# Hypochnicium stratosum Burds. & Nakasone, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 185 (1995)
+Mycotaxon 17: 261 (1983)
 
 #### Original name
 Hypochnicium stratosum Burds. & Nakasone, 1983

@@ -1,5 +1,4 @@
-Gymnodinium pallidum Skuja SPECIES
-=======
+# Gymnodinium pallidum Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpoda edaphoni Foissner, 1980 SPECIES
-=======
+# Colpoda edaphoni Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

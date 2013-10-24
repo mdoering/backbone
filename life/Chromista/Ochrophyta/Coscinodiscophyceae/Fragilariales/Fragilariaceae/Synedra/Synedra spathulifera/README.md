@@ -1,5 +1,4 @@
-Synedra spathulifera Grunow SPECIES
-=======
+# Synedra spathulifera Grunow SPECIES
 
 #### Status
 ACCEPTED

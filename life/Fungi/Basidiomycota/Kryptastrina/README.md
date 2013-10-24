@@ -1,5 +1,4 @@
-Kryptastrina Oberw. GENUS
-=======
+# Kryptastrina Oberw. GENUS
 
 #### Status
 ACCEPTED

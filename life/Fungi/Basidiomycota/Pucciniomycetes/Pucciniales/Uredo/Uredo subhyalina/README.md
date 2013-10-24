@@ -1,5 +1,4 @@
-Uredo subhyalina Speg. SPECIES
-=======
+# Uredo subhyalina Speg. SPECIES
 
 #### Status
 ACCEPTED

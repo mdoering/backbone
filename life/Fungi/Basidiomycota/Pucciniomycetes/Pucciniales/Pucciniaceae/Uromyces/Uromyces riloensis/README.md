@@ -1,5 +1,4 @@
-Uromyces riloensis Hinkova SPECIES
-=======
+# Uromyces riloensis Hinkova SPECIES
 
 #### Status
 ACCEPTED

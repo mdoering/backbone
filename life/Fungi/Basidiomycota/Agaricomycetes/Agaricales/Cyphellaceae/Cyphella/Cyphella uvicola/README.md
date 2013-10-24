@@ -1,5 +1,4 @@
-Cyphella uvicola Speg. SPECIES
-=======
+# Cyphella uvicola Speg. SPECIES
 
 #### Status
 ACCEPTED

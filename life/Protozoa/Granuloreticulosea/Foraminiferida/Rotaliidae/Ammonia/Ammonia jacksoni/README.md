@@ -1,5 +1,4 @@
-Ammonia jacksoni SPECIES
-=======
+# Ammonia jacksoni SPECIES
 
 #### Status
 ACCEPTED

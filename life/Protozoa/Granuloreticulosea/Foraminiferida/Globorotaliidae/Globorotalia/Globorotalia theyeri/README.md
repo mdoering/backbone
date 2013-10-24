@@ -1,5 +1,4 @@
-Globorotalia theyeri Fleisher, 1974 SPECIES
-=======
+# Globorotalia theyeri Fleisher, 1974 SPECIES
 
 #### Status
 ACCEPTED

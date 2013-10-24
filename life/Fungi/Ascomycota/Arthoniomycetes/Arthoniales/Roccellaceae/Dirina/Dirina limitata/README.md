@@ -1,5 +1,4 @@
-Dirina limitata Nyl. SPECIES
-=======
+# Dirina limitata Nyl. SPECIES
 
 #### Status
 ACCEPTED

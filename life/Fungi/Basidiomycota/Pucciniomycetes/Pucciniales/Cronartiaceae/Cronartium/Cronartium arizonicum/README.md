@@ -1,5 +1,4 @@
-Cronartium arizonicum Cummins, 1984 SPECIES
-=======
+# Cronartium arizonicum Cummins, 1984 SPECIES
 
 #### Status
 ACCEPTED

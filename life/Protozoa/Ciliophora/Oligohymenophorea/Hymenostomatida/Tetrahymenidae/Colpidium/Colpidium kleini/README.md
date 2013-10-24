@@ -1,8 +1,7 @@
-Colpidium uncinatum Fernandez-Faliano & Ruiz, 1972 SPECIES
-=======
+# Colpidium kleini Foissner, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

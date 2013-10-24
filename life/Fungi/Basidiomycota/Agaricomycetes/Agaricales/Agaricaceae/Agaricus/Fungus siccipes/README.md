@@ -1,5 +1,4 @@
-Fungus siccipes (P. Karst.) Kuntze SPECIES
-=======
+# Fungus siccipes (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

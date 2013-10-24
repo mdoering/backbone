@@ -1,5 +1,4 @@
-Aspidopyrenis insignis (Vain.) Clem. & Shear SPECIES
-=======
+# Aspidopyrenis insignis (Vain.) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

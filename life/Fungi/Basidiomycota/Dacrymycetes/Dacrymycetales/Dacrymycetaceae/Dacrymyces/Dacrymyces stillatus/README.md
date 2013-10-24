@@ -1,17 +1,16 @@
-Dacrymyces abietinus var. abietinus VARIETY
-=======
+# Dacrymyces stillatus Nees, 1816 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(2532): 400 (1888)
+Syst. Pilze (Würzburg) 89 (1816)
 
 #### Original name
-Dacrymyces abietinus var. abietinus
+Dacrymyces stillatus Nees, 1816
 
 ### Remarks
 null

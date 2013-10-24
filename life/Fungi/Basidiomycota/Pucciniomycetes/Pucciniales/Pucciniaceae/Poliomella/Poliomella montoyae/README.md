@@ -1,5 +1,4 @@
-Poliomella montoyae (Mayor) Syd. SPECIES
-=======
+# Poliomella montoyae (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

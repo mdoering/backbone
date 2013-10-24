@@ -1,5 +1,4 @@
-Dendrophoma corticalis Woron. SPECIES
-=======
+# Dendrophoma corticalis Woron. SPECIES
 
 #### Status
 ACCEPTED

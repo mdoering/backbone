@@ -1,5 +1,4 @@
-Roseibacillus Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 GENUS
-=======
+# Roseibacillus Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 GENUS
 
 #### Status
 ACCEPTED

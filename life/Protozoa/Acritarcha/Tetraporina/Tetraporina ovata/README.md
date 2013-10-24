@@ -1,5 +1,4 @@
-Tetraporina ovata Kondratyev, 1963 SPECIES
-=======
+# Tetraporina ovata Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

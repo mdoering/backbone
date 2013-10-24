@@ -1,5 +1,4 @@
-Leptosporella andina Chardón SPECIES
-=======
+# Leptosporella andina Chardón SPECIES
 
 #### Status
 ACCEPTED

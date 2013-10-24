@@ -1,5 +1,4 @@
-Diaporthe hypospilina Sacc. & Flageolet SPECIES
-=======
+# Diaporthe hypospilina Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

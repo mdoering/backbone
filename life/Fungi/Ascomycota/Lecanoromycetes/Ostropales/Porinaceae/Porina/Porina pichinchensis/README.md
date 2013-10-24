@@ -1,5 +1,4 @@
-Porina pichinchensis Lücking SPECIES
-=======
+# Porina pichinchensis Lücking SPECIES
 
 #### Status
 ACCEPTED

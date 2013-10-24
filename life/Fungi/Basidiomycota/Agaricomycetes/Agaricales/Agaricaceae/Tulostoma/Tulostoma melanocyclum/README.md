@@ -1,5 +1,4 @@
-Tulostoma melanocyclum Bres., 1904 SPECIES
-=======
+# Tulostoma melanocyclum Bres., 1904 SPECIES
 
 #### Status
 ACCEPTED

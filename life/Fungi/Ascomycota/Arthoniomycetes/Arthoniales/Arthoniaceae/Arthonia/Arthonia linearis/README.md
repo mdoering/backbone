@@ -1,5 +1,4 @@
-Arthonia linearis Kremp. SPECIES
-=======
+# Arthonia linearis Kremp. SPECIES
 
 #### Status
 ACCEPTED

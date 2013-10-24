@@ -1,5 +1,4 @@
-Cortinarius triumphalis Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius triumphalis Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

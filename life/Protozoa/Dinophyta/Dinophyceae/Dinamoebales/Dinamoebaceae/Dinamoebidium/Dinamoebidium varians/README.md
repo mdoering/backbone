@@ -1,5 +1,4 @@
-Dinamoebidium varians Pascher SPECIES
-=======
+# Dinamoebidium varians Pascher SPECIES
 
 #### Status
 ACCEPTED

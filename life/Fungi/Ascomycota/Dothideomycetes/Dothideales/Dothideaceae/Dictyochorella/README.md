@@ -1,5 +1,4 @@
-Dictyochorella Theiss. & Syd. GENUS
-=======
+# Dictyochorella Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

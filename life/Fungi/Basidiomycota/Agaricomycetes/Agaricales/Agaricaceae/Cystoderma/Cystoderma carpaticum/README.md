@@ -1,5 +1,4 @@
-Cystoderma carpaticum M.M. Moser SPECIES
-=======
+# Cystoderma carpaticum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

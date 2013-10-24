@@ -1,5 +1,4 @@
-Chaetomium histoplasmoides Carris & Glawe SPECIES
-=======
+# Chaetomium histoplasmoides Carris & Glawe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromocytospora ricinella Speg. SPECIES
-=======
+# Chromocytospora ricinella Speg. SPECIES
 
 #### Status
 ACCEPTED

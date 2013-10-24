@@ -1,5 +1,4 @@
-Embolidium norvegicum (Vain.) Vain. SPECIES
-=======
+# Embolidium norvegicum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

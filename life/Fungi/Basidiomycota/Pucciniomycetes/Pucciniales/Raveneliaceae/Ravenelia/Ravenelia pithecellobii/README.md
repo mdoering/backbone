@@ -1,17 +1,16 @@
-Ravenelia pithecolobii Arthur SPECIES
-=======
+# Ravenelia pithecellobii Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 39: 394 (1905)
 
 #### Original name
-Ravenelia pithecolobii Arthur
+Ravenelia pithecellobii Arthur
 
 ### Remarks
 null

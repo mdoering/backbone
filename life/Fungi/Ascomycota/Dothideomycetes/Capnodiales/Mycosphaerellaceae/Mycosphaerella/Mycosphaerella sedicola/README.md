@@ -1,5 +1,4 @@
-Mycosphaerella sedicola Petr. SPECIES
-=======
+# Mycosphaerella sedicola Petr. SPECIES
 
 #### Status
 ACCEPTED

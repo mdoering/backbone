@@ -1,5 +1,4 @@
-Pluteus xylophilus var. tucumanensis Singer VARIETY
-=======
+# Pluteus xylophilus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 405 (1951)
 
 #### Original name
-Pluteus xylophilus var. tucumanensis Singer
+Entoloma xylophilum Speg.
 
 ### Remarks
 null

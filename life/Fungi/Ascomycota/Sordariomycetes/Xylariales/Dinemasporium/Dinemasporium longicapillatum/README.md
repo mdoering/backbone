@@ -1,5 +1,4 @@
-Dinemasporium longicapillatum Y. Yamag. & Masuma SPECIES
-=======
+# Dinemasporium longicapillatum Y. Yamag. & Masuma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculina fulgurata Schlumberger, 1883 SPECIES
-=======
+# Triloculina fulgurata Schlumberger, 1883 SPECIES
 
 #### Status
 ACCEPTED

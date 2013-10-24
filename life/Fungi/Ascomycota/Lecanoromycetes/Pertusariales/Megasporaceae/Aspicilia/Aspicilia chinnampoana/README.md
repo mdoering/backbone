@@ -1,5 +1,4 @@
-Aspicilia chinnampoana Hue SPECIES
-=======
+# Aspicilia chinnampoana Hue SPECIES
 
 #### Status
 ACCEPTED

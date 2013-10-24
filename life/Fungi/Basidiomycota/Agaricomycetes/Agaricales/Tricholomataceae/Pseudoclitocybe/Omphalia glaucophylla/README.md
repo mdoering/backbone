@@ -1,5 +1,4 @@
-Omphalia glaucophylla (Lasch) Sacc. SPECIES
-=======
+# Omphalia glaucophylla (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

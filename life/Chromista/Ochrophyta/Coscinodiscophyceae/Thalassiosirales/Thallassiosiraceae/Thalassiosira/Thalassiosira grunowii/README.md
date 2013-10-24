@@ -1,5 +1,4 @@
-Thalassiosira grunowii F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira grunowii F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

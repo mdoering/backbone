@@ -1,5 +1,4 @@
-Dictyochaeta lunulospora (Hewings & J.L. Crane) Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta lunulospora (Hewings & J.L. Crane) Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

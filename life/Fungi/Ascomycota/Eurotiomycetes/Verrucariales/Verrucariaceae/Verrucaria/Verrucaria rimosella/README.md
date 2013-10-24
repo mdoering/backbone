@@ -1,5 +1,4 @@
-Verrucaria rimosella Nyl. SPECIES
-=======
+# Verrucaria rimosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

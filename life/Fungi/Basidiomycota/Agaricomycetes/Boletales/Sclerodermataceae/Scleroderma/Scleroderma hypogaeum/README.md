@@ -1,17 +1,16 @@
-Scleroderma hypogaeum var. hypogaeum Zeller VARIETY
-=======
+# Scleroderma hypogaeum Zeller, 1922 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 14(4): 193 (1922)
 
 #### Original name
-Scleroderma hypogaeum var. hypogaeum Zeller
+Scleroderma hypogaeum Zeller, 1922
 
 ### Remarks
 null

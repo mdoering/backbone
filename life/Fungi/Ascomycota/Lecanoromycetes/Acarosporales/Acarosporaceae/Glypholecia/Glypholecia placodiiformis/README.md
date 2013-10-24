@@ -1,5 +1,4 @@
-Glypholecia placodiiformis Nyl. SPECIES
-=======
+# Glypholecia placodiiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

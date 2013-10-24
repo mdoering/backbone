@@ -1,5 +1,4 @@
-Penicillium mycetomi Neveu-Lem. SPECIES
-=======
+# Penicillium mycetomi Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum gangeticum Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum gangeticum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

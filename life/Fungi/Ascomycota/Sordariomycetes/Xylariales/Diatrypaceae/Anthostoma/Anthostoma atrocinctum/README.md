@@ -1,5 +1,4 @@
-Anthostoma atrocinctum Rick SPECIES
-=======
+# Anthostoma atrocinctum Rick SPECIES
 
 #### Status
 ACCEPTED

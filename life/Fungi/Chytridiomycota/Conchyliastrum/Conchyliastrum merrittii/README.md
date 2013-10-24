@@ -1,5 +1,4 @@
-Conchyliastrum merrittii Zebrowski SPECIES
-=======
+# Conchyliastrum merrittii Zebrowski SPECIES
 
 #### Status
 ACCEPTED

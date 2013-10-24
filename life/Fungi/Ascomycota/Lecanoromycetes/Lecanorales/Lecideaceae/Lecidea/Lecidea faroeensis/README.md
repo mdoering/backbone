@@ -1,5 +1,4 @@
-Lecidea faroeensis Nyl. SPECIES
-=======
+# Lecidea faroeensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

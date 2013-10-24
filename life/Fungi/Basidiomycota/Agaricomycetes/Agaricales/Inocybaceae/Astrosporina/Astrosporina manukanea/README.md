@@ -1,5 +1,4 @@
-Astrosporina manukanea E. Horak, 1978 SPECIES
-=======
+# Astrosporina manukanea E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea plantaginicola Speg. SPECIES
-=======
+# Stigmatea plantaginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovularia epilobii Lindr. SPECIES
-=======
+# Ovularia epilobii Lindr. SPECIES
 
 #### Status
 ACCEPTED

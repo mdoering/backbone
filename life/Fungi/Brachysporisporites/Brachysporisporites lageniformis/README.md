@@ -1,5 +1,4 @@
-Brachysporisporites lageniformis Z.C. Song SPECIES
-=======
+# Brachysporisporites lageniformis Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

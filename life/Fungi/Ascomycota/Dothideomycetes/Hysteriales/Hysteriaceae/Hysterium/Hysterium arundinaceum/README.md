@@ -1,5 +1,4 @@
-Hysterium arundinaceum SPECIES
-=======
+# Hysterium arundinaceum SPECIES
 
 #### Status
 ACCEPTED

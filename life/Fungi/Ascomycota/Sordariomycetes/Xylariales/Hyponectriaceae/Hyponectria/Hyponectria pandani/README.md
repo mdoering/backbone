@@ -1,5 +1,4 @@
-Hyponectria pandani Racib. SPECIES
-=======
+# Hyponectria pandani Racib. SPECIES
 
 #### Status
 ACCEPTED

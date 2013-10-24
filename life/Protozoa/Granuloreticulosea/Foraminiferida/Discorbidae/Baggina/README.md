@@ -1,5 +1,4 @@
-Baggina Cushman, 1926 GENUS
-=======
+# Baggina Cushman, 1926 GENUS
 
 #### Status
 ACCEPTED

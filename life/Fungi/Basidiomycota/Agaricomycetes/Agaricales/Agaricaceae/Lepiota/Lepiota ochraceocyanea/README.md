@@ -1,5 +1,4 @@
-Lepiota ochraceocyanea Kühner SPECIES
-=======
+# Lepiota ochraceocyanea Kühner SPECIES
 
 #### Status
 ACCEPTED

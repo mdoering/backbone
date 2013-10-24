@@ -1,5 +1,4 @@
-Placosphaeria coronillae Sacc. SPECIES
-=======
+# Placosphaeria coronillae Sacc. SPECIES
 
 #### Status
 ACCEPTED

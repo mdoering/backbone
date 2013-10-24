@@ -1,5 +1,4 @@
-Coccomyces mucronatus Korf & W.Y. Zhuang, 1985 SPECIES
-=======
+# Coccomyces mucronatus Korf & W.Y. Zhuang, 1985 SPECIES
 
 #### Status
 ACCEPTED

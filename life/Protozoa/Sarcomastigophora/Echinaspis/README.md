@@ -1,5 +1,4 @@
-Echinaspis Haeckel, 1881 GENUS
-=======
+# Echinaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

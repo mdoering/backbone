@@ -1,5 +1,4 @@
-Cytospora polygoni-baldschuanici Sandu, A. Lazar & Hatmanu SPECIES
-=======
+# Cytospora polygoni-baldschuanici Sandu, A. Lazar & Hatmanu SPECIES
 
 #### Status
 ACCEPTED

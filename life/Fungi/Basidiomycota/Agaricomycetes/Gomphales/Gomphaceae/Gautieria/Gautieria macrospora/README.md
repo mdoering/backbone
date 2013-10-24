@@ -1,5 +1,4 @@
-Gautieria macrospora G. Cunn. SPECIES
-=======
+# Gautieria macrospora G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

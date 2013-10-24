@@ -1,5 +1,4 @@
-Tilachlidium pinnatum Preuss, 1851 SPECIES
-=======
+# Tilachlidium pinnatum Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED

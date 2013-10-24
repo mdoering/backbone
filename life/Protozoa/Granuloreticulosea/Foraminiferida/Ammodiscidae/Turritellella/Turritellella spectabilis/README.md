@@ -1,5 +1,4 @@
-Turritellella spectabilis (Brady, 1881) SPECIES
-=======
+# Turritellella spectabilis (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

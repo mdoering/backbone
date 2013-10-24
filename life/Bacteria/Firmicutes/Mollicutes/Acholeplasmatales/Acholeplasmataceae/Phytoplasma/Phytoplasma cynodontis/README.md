@@ -1,5 +1,4 @@
-Phytoplasma cynodontis Marcone et al., 2004. SPECIES
-=======
+# Phytoplasma cynodontis Marcone et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

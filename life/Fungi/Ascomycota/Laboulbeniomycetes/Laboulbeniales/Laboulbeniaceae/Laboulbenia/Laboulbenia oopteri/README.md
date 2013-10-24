@@ -1,5 +1,4 @@
-Laboulbenia oopteri Thaxt., 1902 SPECIES
-=======
+# Laboulbenia oopteri Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza greinichii Petr. SPECIES
-=======
+# Pyrenopeziza greinichii Petr. SPECIES
 
 #### Status
 ACCEPTED

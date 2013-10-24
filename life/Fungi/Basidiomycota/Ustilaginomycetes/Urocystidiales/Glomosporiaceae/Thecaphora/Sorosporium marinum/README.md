@@ -1,17 +1,16 @@
-Sorosporium marina Kund. & M.S. Patil SPECIES
-=======
+# Sorosporium marinum Kund. & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 36(3): 521 (1983)
 
 #### Original name
-Sorosporium marina Kund. & M.S. Patil
+Sorosporium marinum Kund. & M.S. Patil
 
 ### Remarks
 null

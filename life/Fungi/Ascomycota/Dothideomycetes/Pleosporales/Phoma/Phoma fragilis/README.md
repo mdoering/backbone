@@ -1,5 +1,4 @@
-Phoma fragilis (Mont.) Sacc. SPECIES
-=======
+# Phoma fragilis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

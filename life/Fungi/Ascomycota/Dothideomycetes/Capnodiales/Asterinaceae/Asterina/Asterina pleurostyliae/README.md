@@ -1,5 +1,4 @@
-Asterina pleurostyliae Berk. & Broome SPECIES
-=======
+# Asterina pleurostyliae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

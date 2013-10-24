@@ -1,5 +1,4 @@
-Uromyces pozoae Dietel & Neger SPECIES
-=======
+# Uromyces pozoae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

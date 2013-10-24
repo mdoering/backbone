@@ -1,5 +1,4 @@
-Uredo ilicis Castagne SPECIES
-=======
+# Uredo ilicis Castagne SPECIES
 
 #### Status
 ACCEPTED

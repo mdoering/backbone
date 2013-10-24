@@ -1,5 +1,4 @@
-Amanita mira Corner & Bas SPECIES
-=======
+# Amanita mira Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

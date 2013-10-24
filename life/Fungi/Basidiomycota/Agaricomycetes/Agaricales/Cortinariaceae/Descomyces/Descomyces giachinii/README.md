@@ -1,5 +1,4 @@
-Descomyces giachinii Trappe, V.L. Oliveira, Castellano & Claridge, 2000 SPECIES
-=======
+# Descomyces giachinii Trappe, V.L. Oliveira, Castellano & Claridge, 2000 SPECIES
 
 #### Status
 ACCEPTED

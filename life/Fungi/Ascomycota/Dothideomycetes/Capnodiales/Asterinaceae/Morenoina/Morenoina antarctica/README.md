@@ -1,14 +1,13 @@
-Morenoella antarctica Speg., 1888 SPECIES
-=======
+# Morenoina antarctica (Speg.) Theiss., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 240 (1888)
+Annls mycol. 11(5): 434 (1913)
 
 #### Original name
 Morenoella antarctica Speg., 1888

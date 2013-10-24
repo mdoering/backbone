@@ -1,5 +1,4 @@
-Daedalea lenzitiformis Ces. SPECIES
-=======
+# Daedalea lenzitiformis Ces. SPECIES
 
 #### Status
 ACCEPTED

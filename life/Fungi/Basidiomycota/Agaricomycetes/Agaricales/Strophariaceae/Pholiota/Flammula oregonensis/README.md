@@ -1,5 +1,4 @@
-Flammula oregonensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula oregonensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

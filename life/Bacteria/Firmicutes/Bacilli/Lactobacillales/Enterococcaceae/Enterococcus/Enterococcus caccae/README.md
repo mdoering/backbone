@@ -1,5 +1,4 @@
-Enterococcus caccae Carvalho et al., 2006 SPECIES
-=======
+# Enterococcus caccae Carvalho et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

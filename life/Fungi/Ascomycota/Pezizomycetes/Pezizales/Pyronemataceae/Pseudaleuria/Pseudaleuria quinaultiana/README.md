@@ -1,5 +1,4 @@
-Pseudaleuria quinaultiana Lusk, 1987 SPECIES
-=======
+# Pseudaleuria quinaultiana Lusk, 1987 SPECIES
 
 #### Status
 ACCEPTED

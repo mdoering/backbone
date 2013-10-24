@@ -1,5 +1,4 @@
-Agaricus rufolanosus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus rufolanosus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

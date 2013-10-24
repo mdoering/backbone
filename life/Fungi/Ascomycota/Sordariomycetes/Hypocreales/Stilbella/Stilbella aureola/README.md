@@ -1,5 +1,4 @@
-Stilbella aureola (Sacc.) Lindau SPECIES
-=======
+# Stilbella aureola (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

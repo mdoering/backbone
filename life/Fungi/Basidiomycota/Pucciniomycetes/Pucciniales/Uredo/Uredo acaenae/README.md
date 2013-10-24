@@ -1,5 +1,4 @@
-Uredo acaenae Ellis SPECIES
-=======
+# Uredo acaenae Ellis SPECIES
 
 #### Status
 ACCEPTED

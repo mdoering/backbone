@@ -1,8 +1,7 @@
-Selenocystis foliata (Ray, 1930) Dibb, 1938 SPECIES
-=======
+# Selenidium foliatum Ray, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

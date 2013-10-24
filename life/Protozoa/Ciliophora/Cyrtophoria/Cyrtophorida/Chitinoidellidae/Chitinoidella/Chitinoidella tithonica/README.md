@@ -1,5 +1,4 @@
-Chitinoidella tithonica Borza, 1969 SPECIES
-=======
+# Chitinoidella tithonica Borza, 1969 SPECIES
 
 #### Status
 ACCEPTED

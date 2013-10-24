@@ -1,17 +1,16 @@
-Polyporus campbelli Berk. SPECIES
-=======
+# Amylosporus campbellii (Berk.) Ryvarden, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 24: 217 (1977)
 
 #### Original name
-Polyporus campbelli Berk.
+Polyporus campbellii Berk., 1854
 
 ### Remarks
 null

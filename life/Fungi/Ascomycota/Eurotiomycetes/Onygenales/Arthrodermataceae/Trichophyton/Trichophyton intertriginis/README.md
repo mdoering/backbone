@@ -1,5 +1,4 @@
-Trichophyton intertriginis Sabour. SPECIES
-=======
+# Trichophyton intertriginis Sabour. SPECIES
 
 #### Status
 ACCEPTED

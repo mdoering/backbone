@@ -1,5 +1,4 @@
-Coniothyrium stipaenum Unamuno SPECIES
-=======
+# Coniothyrium stipaenum Unamuno SPECIES
 
 #### Status
 ACCEPTED

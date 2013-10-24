@@ -1,5 +1,4 @@
-Dimerium stevensii Garman SPECIES
-=======
+# Dimerium stevensii Garman SPECIES
 
 #### Status
 ACCEPTED

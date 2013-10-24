@@ -1,5 +1,4 @@
-Cryptomonas chrysoidea R. W. Butcher SPECIES
-=======
+# Cryptomonas chrysoidea R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

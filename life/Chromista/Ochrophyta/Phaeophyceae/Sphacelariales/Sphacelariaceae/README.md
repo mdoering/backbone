@@ -1,5 +1,4 @@
-Sphacelariaceae Decaisne, 1842 FAMILY
-=======
+# Sphacelariaceae Decaisne, 1842 FAMILY
 
 #### Status
 ACCEPTED

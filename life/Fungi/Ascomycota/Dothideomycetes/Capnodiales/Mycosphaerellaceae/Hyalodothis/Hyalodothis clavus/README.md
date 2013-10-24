@@ -1,5 +1,4 @@
-Hyalodothis clavus Pat. & Har. SPECIES
-=======
+# Hyalodothis clavus Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

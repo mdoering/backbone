@@ -1,5 +1,4 @@
-Mucor therma-aerospera Subrahm. & Mehreta {?} ined. SPECIES
-=======
+# Mucor therma-aerospera Subrahm. & Mehreta {?} ined. SPECIES
 
 #### Status
 ACCEPTED

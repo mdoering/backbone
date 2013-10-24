@@ -1,5 +1,4 @@
-Spirillina margaritifera var. semiornata Millett, 1903 VARIETY
-=======
+# Spirillina margaritifera Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

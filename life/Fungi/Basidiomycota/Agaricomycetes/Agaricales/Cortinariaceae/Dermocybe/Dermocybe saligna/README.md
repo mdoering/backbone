@@ -1,5 +1,4 @@
-Dermocybe saligna M.M. Moser & Gerw. Keller SPECIES
-=======
+# Dermocybe saligna M.M. Moser & Gerw. Keller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barubia Vezda GENUS
-=======
+# Barubia Vezda GENUS
 
 #### Status
 ACCEPTED

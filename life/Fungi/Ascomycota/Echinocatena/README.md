@@ -1,5 +1,4 @@
-Echinocatena R. Campb. & B. Sutton GENUS
-=======
+# Echinocatena R. Campb. & B. Sutton GENUS
 
 #### Status
 ACCEPTED

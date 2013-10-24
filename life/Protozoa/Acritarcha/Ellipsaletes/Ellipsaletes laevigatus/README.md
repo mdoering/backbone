@@ -1,5 +1,4 @@
-Ellipsaletes laevigatus Cramer, 1966 SPECIES
-=======
+# Ellipsaletes laevigatus Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

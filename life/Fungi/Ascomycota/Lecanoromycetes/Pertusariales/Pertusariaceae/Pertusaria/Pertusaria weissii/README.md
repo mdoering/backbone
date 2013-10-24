@@ -1,5 +1,4 @@
-Pertusaria weissii Körb. SPECIES
-=======
+# Pertusaria weissii Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosphaera orientalis Black, 1971 SPECIES
-=======
+# Helicosphaera orientalis Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

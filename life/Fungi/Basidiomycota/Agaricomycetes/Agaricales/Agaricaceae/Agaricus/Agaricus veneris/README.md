@@ -1,5 +1,4 @@
-Agaricus veneris (R. Heim & G. Becker) Bon SPECIES
-=======
+# Agaricus veneris (R. Heim & G. Becker) Bon SPECIES
 
 #### Status
 ACCEPTED

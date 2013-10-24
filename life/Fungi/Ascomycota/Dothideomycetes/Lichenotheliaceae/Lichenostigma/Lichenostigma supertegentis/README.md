@@ -1,5 +1,4 @@
-Lichenostigma supertegentis Ihlen & R. Sant. SPECIES
-=======
+# Lichenostigma supertegentis Ihlen & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

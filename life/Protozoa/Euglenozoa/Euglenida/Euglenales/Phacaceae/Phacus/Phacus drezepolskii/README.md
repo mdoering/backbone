@@ -1,5 +1,4 @@
-Phacus drezepolskii Stawinski SPECIES
-=======
+# Phacus drezepolskii Stawinski SPECIES
 
 #### Status
 ACCEPTED

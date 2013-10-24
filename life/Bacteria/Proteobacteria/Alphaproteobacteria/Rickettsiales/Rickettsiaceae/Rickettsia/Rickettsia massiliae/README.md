@@ -1,5 +1,4 @@
-Rickettsia massiliae Beati & Raoult, 1993 SPECIES
-=======
+# Rickettsia massiliae Beati & Raoult, 1993 SPECIES
 
 #### Status
 ACCEPTED

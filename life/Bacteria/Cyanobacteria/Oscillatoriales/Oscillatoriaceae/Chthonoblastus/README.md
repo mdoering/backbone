@@ -1,5 +1,4 @@
-Chthonoblastus Kützing, 1843 GENUS
-=======
+# Chthonoblastus Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

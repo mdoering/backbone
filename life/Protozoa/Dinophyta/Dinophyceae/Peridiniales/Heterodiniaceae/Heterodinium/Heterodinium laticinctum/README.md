@@ -1,5 +1,4 @@
-Heterodinium laticinctum Kofoid, 1907 SPECIES
-=======
+# Heterodinium laticinctum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

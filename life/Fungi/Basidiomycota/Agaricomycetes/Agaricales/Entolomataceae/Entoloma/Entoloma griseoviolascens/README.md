@@ -1,5 +1,4 @@
-Entoloma griseoviolascens Manim. & Noordel. SPECIES
-=======
+# Entoloma griseoviolascens Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

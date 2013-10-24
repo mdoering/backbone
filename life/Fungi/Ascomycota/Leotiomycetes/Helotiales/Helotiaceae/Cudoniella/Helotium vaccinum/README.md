@@ -1,5 +1,4 @@
-Helotium vaccinum (Schumach.) Fr. SPECIES
-=======
+# Helotium vaccinum (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

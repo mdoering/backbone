@@ -1,5 +1,4 @@
-Physciopsis syncolla SPECIES
-=======
+# Physciopsis syncolla SPECIES
 
 #### Status
 ACCEPTED

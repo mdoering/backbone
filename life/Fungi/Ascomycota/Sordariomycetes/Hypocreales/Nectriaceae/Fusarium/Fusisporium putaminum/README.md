@@ -1,5 +1,4 @@
-Fusisporium putaminum Thüm. SPECIES
-=======
+# Fusisporium putaminum Thüm. SPECIES
 
 #### Status
 ACCEPTED

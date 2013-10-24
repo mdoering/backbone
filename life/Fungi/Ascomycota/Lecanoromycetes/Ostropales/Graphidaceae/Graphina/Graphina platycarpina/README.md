@@ -1,5 +1,4 @@
-Graphina platycarpina Zahlbr. SPECIES
-=======
+# Graphina platycarpina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

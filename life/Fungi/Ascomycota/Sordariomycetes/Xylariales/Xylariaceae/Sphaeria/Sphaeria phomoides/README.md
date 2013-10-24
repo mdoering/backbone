@@ -1,5 +1,4 @@
-Sphaeria phomoides P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria phomoides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

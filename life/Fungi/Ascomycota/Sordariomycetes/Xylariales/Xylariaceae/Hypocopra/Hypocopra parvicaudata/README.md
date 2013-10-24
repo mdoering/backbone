@@ -1,5 +1,4 @@
-Hypocopra parvicaudata Speg. SPECIES
-=======
+# Hypocopra parvicaudata Speg. SPECIES
 
 #### Status
 ACCEPTED

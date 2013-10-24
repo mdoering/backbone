@@ -1,5 +1,4 @@
-Stegonsporium chenopodii Vasyag. SPECIES
-=======
+# Stegonsporium chenopodii Vasyag. SPECIES
 
 #### Status
 ACCEPTED

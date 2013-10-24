@@ -1,5 +1,4 @@
-Loeblichopsis spiculifera Hofker, 1978 SPECIES
-=======
+# Loeblichopsis spiculifera Hofker, 1978 SPECIES
 
 #### Status
 ACCEPTED

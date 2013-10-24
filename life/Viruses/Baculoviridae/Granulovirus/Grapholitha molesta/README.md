@@ -1,5 +1,4 @@
-Grapholitha molesta GV SPECIES
-=======
+# Grapholitha molesta GV SPECIES
 
 #### Status
 ACCEPTED

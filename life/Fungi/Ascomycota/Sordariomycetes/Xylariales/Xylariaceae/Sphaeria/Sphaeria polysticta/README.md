@@ -1,5 +1,4 @@
-Sphaeria polysticta Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria polysticta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

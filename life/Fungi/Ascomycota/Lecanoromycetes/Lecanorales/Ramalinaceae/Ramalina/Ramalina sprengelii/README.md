@@ -1,5 +1,4 @@
-Ramalina sprengelii Krog & Swinscow SPECIES
-=======
+# Ramalina sprengelii Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

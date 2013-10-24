@@ -1,5 +1,4 @@
-Lecidea cuticula Fée SPECIES
-=======
+# Lecidea cuticula Fée SPECIES
 
 #### Status
 ACCEPTED

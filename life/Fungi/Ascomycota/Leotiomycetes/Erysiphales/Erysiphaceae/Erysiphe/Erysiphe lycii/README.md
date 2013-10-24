@@ -1,8 +1,7 @@
-Arthrocladia lycii (Lasch) Golovin, 1956 SPECIES
-=======
+# Erysiphe lycii Lasch, 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

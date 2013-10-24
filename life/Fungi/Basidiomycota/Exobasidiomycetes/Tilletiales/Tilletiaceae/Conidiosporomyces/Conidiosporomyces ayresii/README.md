@@ -1,14 +1,13 @@
-Tilletia ayresii Berk., 1899 SPECIES
-=======
+# Conidiosporomyces ayresii (Berk.) Vánky & R. Bauer, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 153-154: 146 (1899)
+Mycotaxon 43: 429 (1992)
 
 #### Original name
 Tilletia ayresii Berk., 1899

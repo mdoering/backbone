@@ -1,5 +1,4 @@
-Angulogerina Cushman, 1927 GENUS
-=======
+# Angulogerina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

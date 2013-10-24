@@ -1,5 +1,4 @@
-Heraldoa GENUS
-=======
+# Heraldoa GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria microcarpa (Nyl.) Nyl. SPECIES
-=======
+# Pertusaria microcarpa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

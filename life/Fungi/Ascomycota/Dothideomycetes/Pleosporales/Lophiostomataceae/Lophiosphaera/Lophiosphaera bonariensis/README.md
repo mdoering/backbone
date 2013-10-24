@@ -1,5 +1,4 @@
-Lophiosphaera bonariensis Speg. SPECIES
-=======
+# Lophiosphaera bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria tribacia SPECIES
-=======
+# Squamaria tribacia SPECIES
 
 #### Status
 ACCEPTED

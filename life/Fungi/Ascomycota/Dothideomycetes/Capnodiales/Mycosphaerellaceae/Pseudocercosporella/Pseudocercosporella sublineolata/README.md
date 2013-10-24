@@ -1,5 +1,4 @@
-Pseudocercosporella sublineolata (Thüm.) U. Braun SPECIES
-=======
+# Pseudocercosporella sublineolata (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

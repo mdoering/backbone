@@ -1,5 +1,4 @@
-Partisaniidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Partisaniidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

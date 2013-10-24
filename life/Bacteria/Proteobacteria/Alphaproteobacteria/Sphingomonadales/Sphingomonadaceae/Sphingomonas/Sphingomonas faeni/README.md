@@ -1,5 +1,4 @@
-Sphingomonas faeni Busse et al., 2003 SPECIES
-=======
+# Sphingomonas faeni Busse et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

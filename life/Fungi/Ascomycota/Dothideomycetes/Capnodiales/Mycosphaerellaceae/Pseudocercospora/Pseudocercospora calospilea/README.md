@@ -1,5 +1,4 @@
-Pseudocercospora calospilea (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora calospilea (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

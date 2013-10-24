@@ -1,5 +1,4 @@
-Bloxamia foliicola Yun L. Liu & Z.Y. Zhang SPECIES
-=======
+# Bloxamia foliicola Yun L. Liu & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulatascus tropicalis Ranghoo & K.D. Hyde SPECIES
-=======
+# Annulatascus tropicalis Ranghoo & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

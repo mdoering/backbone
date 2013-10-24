@@ -1,5 +1,4 @@
-Protomycopsis phaseoli (Patel, Y.S. Kulk. & G.W. Dhande) K. Ramakr. & Subram., 1956 SPECIES
-=======
+# Protomycopsis phaseoli (Patel, Y.S. Kulk. & G.W. Dhande) K. Ramakr. & Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

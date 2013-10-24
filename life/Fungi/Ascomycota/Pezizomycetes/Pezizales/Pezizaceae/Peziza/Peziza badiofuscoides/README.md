@@ -1,5 +1,4 @@
-Peziza badiofuscoides Donadini SPECIES
-=======
+# Peziza badiofuscoides Donadini SPECIES
 
 #### Status
 ACCEPTED

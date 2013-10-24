@@ -1,5 +1,4 @@
-Thelotrema antoninii Purvis & P. James SPECIES
-=======
+# Thelotrema antoninii Purvis & P. James SPECIES
 
 #### Status
 ACCEPTED

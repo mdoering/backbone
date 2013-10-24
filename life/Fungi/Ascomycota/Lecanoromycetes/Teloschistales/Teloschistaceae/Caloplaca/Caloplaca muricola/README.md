@@ -1,5 +1,4 @@
-Caloplaca muricola H. Magn. SPECIES
-=======
+# Caloplaca muricola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

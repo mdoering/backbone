@@ -1,5 +1,4 @@
-Ceratosphaeria aparaphysata Feltgen SPECIES
-=======
+# Ceratosphaeria aparaphysata Feltgen SPECIES
 
 #### Status
 ACCEPTED

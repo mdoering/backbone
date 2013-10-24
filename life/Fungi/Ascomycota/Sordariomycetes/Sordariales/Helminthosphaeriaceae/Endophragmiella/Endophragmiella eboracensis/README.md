@@ -1,5 +1,4 @@
-Endophragmiella eboracensis B. Sutton, 1975 SPECIES
-=======
+# Endophragmiella eboracensis B. Sutton, 1975 SPECIES
 
 #### Status
 ACCEPTED

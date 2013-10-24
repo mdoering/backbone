@@ -1,5 +1,4 @@
-Cordyceps heteropoda Kobayasi SPECIES
-=======
+# Cordyceps heteropoda Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichiella Petrak, 1914 GENUS
-=======
+# Herpotrichiella Petrak, 1914 GENUS
 
 #### Status
 ACCEPTED

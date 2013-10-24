@@ -1,5 +1,4 @@
-Stictis minuscula P. Karst. SPECIES
-=======
+# Stictis minuscula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

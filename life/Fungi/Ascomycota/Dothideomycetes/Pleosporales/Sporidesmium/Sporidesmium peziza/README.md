@@ -1,5 +1,4 @@
-Sporidesmium peziza Cooke & Ellis SPECIES
-=======
+# Sporidesmium peziza Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

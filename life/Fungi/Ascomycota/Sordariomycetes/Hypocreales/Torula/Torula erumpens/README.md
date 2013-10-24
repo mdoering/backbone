@@ -1,5 +1,4 @@
-Torula erumpens Ellis & Everh. SPECIES
-=======
+# Torula erumpens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

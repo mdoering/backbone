@@ -1,5 +1,4 @@
-Amanita gayana (Mont.) Sacc. SPECIES
-=======
+# Amanita gayana (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

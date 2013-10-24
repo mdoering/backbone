@@ -1,5 +1,4 @@
-Bovista nuciformis Wallr. SPECIES
-=======
+# Bovista nuciformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

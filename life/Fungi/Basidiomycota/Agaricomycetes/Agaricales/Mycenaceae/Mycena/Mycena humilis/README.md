@@ -1,5 +1,4 @@
-Mycena humilis Rick SPECIES
-=======
+# Mycena humilis Rick SPECIES
 
 #### Status
 ACCEPTED

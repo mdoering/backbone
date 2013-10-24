@@ -1,5 +1,4 @@
-Periconiella verrucosa E.L. Stewart & Corden SPECIES
-=======
+# Periconiella verrucosa E.L. Stewart & Corden SPECIES
 
 #### Status
 ACCEPTED

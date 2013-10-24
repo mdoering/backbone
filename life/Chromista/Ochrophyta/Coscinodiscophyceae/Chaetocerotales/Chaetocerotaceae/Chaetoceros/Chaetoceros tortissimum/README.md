@@ -1,5 +1,4 @@
-Chaetoceros tortissimum Gran SPECIES
-=======
+# Chaetoceros tortissimum Gran SPECIES
 
 #### Status
 ACCEPTED

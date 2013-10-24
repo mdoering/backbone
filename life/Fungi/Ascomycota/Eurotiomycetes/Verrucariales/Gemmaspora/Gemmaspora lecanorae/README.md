@@ -1,14 +1,13 @@
-Adelococcus lecanorae Werner SPECIES
-=======
+# Gemmaspora lecanorae (Werner) D. Hawksw. & Halici SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Fr. , Let. bot. 110(7-8): 315 (1964)
+Lichenologist 39(2): 122 (2007)
 
 #### Original name
 Adelococcus lecanorae Werner

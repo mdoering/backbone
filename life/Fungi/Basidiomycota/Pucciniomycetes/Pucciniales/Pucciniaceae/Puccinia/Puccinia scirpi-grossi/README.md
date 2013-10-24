@@ -1,5 +1,4 @@
-Puccinia scirpi-grossi Syd. SPECIES
-=======
+# Puccinia scirpi-grossi Syd. SPECIES
 
 #### Status
 ACCEPTED

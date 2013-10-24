@@ -1,14 +1,13 @@
-Hyponectria cooptera (Desm.) M.E. Barr SPECIES
-=======
+# Hyponectria cooperta (Desm.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 69(5): 960 (1977)
 
 #### Original name
 Sphaeria cooperta Desm.

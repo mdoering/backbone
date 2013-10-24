@@ -1,5 +1,4 @@
-Diaporthe tetraspora Sacc. SPECIES
-=======
+# Diaporthe tetraspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

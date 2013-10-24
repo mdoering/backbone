@@ -1,5 +1,4 @@
-Sphaerella fendleri (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella fendleri (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

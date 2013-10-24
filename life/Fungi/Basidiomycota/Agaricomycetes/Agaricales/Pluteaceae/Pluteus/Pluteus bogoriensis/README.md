@@ -1,5 +1,4 @@
-Pluteus bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Pluteus bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma papaveris Sousa da Câmara SPECIES
-=======
+# Macrophoma papaveris Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

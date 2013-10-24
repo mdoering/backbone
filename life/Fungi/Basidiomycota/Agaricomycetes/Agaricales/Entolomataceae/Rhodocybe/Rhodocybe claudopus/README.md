@@ -1,5 +1,4 @@
-Rhodocybe claudopus Singer ex T.J. Baroni SPECIES
-=======
+# Rhodocybe claudopus Singer ex T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

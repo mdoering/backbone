@@ -1,5 +1,4 @@
-Heterochaete verruculosa (F.H. Møller) Bodman SPECIES
-=======
+# Heterochaete verruculosa (F.H. Møller) Bodman SPECIES
 
 #### Status
 ACCEPTED

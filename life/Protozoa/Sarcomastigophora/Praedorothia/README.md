@@ -1,5 +1,4 @@
-Praedorothia Desai & Banner, 1987 GENUS
-=======
+# Praedorothia Desai & Banner, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrogenophaga atypica Kämpfer et al., 2005 SPECIES
-=======
+# Hydrogenophaga atypica Kämpfer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

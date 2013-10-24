@@ -1,5 +1,4 @@
-Puccinia chaerophyllina Syd. & P. Syd. SPECIES
-=======
+# Puccinia chaerophyllina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

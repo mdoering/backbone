@@ -1,14 +1,13 @@
-Sphaeria pupula Fr. SPECIES
-=======
+# Splanchnonema pupula (Fr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 484 (1823)
+Revis. gen. pl. (Leipzig) 3(2): 531 (1898)
 
 #### Original name
 Sphaeria pupula Fr.

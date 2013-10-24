@@ -1,5 +1,4 @@
-Pseudozonosphaeridium fenxiangense Zhong Guofang, 1978 SPECIES
-=======
+# Pseudozonosphaeridium fenxiangense Zhong Guofang, 1978 SPECIES
 
 #### Status
 ACCEPTED

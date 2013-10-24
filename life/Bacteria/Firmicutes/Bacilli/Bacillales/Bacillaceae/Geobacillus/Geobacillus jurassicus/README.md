@@ -1,5 +1,4 @@
-Geobacillus jurassicus Nazina et al., 2005 SPECIES
-=======
+# Geobacillus jurassicus Nazina et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

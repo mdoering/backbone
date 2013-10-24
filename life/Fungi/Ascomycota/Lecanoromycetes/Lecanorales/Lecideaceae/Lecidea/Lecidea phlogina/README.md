@@ -1,5 +1,4 @@
-Lecidea phlogina (Ach.) Hue SPECIES
-=======
+# Lecidea phlogina (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

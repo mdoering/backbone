@@ -1,5 +1,4 @@
-Asterina koshunensis Sawada SPECIES
-=======
+# Asterina koshunensis Sawada SPECIES
 
 #### Status
 ACCEPTED

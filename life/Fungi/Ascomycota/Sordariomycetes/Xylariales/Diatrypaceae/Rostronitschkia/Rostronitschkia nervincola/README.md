@@ -1,17 +1,16 @@
-Nitschkia nervincola Rehm, 1919 SPECIES
-=======
+# Rostronitschkia nervincola Fitzp., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 11(4): 166 (1919)
 
 #### Original name
-null
+Rostronitschkia nervincola Fitzp., 1919
 
 ### Remarks
 null

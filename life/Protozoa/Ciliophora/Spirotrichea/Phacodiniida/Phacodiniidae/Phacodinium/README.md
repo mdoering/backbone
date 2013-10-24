@@ -1,5 +1,4 @@
-Phacodinium Prowazek, 1900 GENUS
-=======
+# Phacodinium Prowazek, 1900 GENUS
 
 #### Status
 ACCEPTED

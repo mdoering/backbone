@@ -1,5 +1,4 @@
-Sclerotium brassicae var. brassicae VARIETY
-=======
+# Sclerotium brassicae (Lib.) Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 1: 95 (1797)
+Icon. fung. (Prague) 3: 18, tab. 3:49 (1839)
 
 #### Original name
-Sclerotium brassicae var. brassicae
+Perisporium brassicae Lib.
 
 ### Remarks
 null

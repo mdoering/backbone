@@ -1,5 +1,4 @@
-Phialosporostilbe turbinata Mercado & J. Mena, 1985 SPECIES
-=======
+# Phialosporostilbe turbinata Mercado & J. Mena, 1985 SPECIES
 
 #### Status
 ACCEPTED

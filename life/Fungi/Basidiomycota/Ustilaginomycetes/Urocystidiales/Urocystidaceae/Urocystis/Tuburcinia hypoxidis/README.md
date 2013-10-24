@@ -1,5 +1,4 @@
-Tuburcinia hypoxidis (Thaxt.) Liro SPECIES
-=======
+# Tuburcinia hypoxidis (Thaxt.) Liro SPECIES
 
 #### Status
 ACCEPTED

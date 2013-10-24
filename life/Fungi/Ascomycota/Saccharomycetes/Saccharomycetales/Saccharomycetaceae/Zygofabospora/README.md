@@ -1,5 +1,4 @@
-Zygofabospora GENUS
-=======
+# Zygofabospora GENUS
 
 #### Status
 ACCEPTED

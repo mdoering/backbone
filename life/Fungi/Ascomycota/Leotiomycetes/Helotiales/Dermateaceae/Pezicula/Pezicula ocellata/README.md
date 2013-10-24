@@ -1,17 +1,16 @@
-Ocellaria aurea var. aurea VARIETY
-=======
+# Pezicula ocellata (Pers.) Seaver, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Inoperculates) 345 (1951)
 
 #### Original name
-Ocellaria aurea var. aurea
+null
 
 ### Remarks
 null

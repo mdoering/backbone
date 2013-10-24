@@ -1,5 +1,4 @@
-Valsa lupini Cooke & Harkn. SPECIES
-=======
+# Valsa lupini Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

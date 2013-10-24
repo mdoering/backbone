@@ -1,14 +1,13 @@
-Mycosphaerella acervata (Ellis & Everh.) M.E. Barr, 1972 SPECIES
-=======
+# Planistromella acervata (Ellis & Everh.) M.E. Barr, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Univ. Mich. Herb. 9(8): 596 (1972)
+in Barr, Huhndorf & Rogerson, Mycotaxon 60: 434 (1996)
 
 #### Original name
 Diatrype acervata Ellis & Everh., 1888

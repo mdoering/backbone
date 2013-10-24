@@ -1,5 +1,4 @@
-Leptosphaeria promontorii Sacc. SPECIES
-=======
+# Leptosphaeria promontorii Sacc. SPECIES
 
 #### Status
 ACCEPTED

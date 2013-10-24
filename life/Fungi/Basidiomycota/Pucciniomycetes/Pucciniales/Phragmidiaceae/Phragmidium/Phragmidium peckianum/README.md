@@ -1,5 +1,4 @@
-Phragmidium peckianum Arthur SPECIES
-=======
+# Phragmidium peckianum Arthur SPECIES
 
 #### Status
 ACCEPTED

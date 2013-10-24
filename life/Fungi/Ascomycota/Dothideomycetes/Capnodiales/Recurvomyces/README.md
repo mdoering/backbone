@@ -1,5 +1,4 @@
-Recurvomyces GENUS
-=======
+# Recurvomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euzodiomyces lathrobii Thaxt., 1900 SPECIES
-=======
+# Euzodiomyces lathrobii Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

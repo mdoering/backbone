@@ -1,5 +1,4 @@
-Trichosphaeria corynephora (Cooke) Sacc. SPECIES
-=======
+# Trichosphaeria corynephora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

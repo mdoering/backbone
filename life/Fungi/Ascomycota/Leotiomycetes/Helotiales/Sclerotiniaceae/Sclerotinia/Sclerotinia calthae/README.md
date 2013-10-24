@@ -1,5 +1,4 @@
-Sclerotinia calthae anon. SPECIES
-=======
+# Sclerotinia calthae anon. SPECIES
 
 #### Status
 ACCEPTED

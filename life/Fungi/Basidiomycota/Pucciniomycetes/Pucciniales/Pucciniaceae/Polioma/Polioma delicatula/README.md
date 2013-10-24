@@ -1,5 +1,4 @@
-Polioma delicatula Arthur SPECIES
-=======
+# Polioma delicatula Arthur SPECIES
 
 #### Status
 ACCEPTED

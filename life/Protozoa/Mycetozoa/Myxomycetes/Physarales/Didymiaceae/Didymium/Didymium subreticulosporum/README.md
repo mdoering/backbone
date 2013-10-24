@@ -1,5 +1,4 @@
-Didymium subreticulosporum Oltra, G. Moreno & Illana, 1996 SPECIES
-=======
+# Didymium subreticulosporum Oltra, G. Moreno & Illana, 1996 SPECIES
 
 #### Status
 ACCEPTED

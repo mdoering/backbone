@@ -1,5 +1,4 @@
-Lecidea conferenda f. conferenda FORM
-=======
+# Lecidea conferenda Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea conferenda f. conferenda
+Lecidea conferenda Nyl.
 
 ### Remarks
 null

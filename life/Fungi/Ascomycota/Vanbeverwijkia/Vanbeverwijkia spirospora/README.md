@@ -1,5 +1,4 @@
-Vanbeverwijkia spirospora Agnihothr., 1961 SPECIES
-=======
+# Vanbeverwijkia spirospora Agnihothr., 1961 SPECIES
 
 #### Status
 ACCEPTED

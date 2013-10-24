@@ -1,5 +1,4 @@
-Alias GENUS
-=======
+# Alias GENUS
 
 #### Status
 ACCEPTED

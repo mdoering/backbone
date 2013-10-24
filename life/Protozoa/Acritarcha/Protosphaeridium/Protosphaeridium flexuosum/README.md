@@ -1,5 +1,4 @@
-Protosphaeridium flexuosum Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium flexuosum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

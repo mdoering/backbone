@@ -1,5 +1,4 @@
-Lapidopiscum Deflandre, 1958 GENUS
-=======
+# Lapidopiscum Deflandre, 1958 GENUS
 
 #### Status
 ACCEPTED

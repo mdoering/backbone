@@ -1,5 +1,4 @@
-Russula cessans A. Pearson, 1950 SPECIES
-=======
+# Russula cessans A. Pearson, 1950 SPECIES
 
 #### Status
 ACCEPTED

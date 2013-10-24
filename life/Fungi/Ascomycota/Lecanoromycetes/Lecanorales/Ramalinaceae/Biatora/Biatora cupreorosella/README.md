@@ -1,5 +1,4 @@
-Biatora cupreorosella (Nyl.) SPECIES
-=======
+# Biatora cupreorosella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

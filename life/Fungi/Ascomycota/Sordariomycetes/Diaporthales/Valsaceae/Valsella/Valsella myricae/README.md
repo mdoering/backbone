@@ -1,5 +1,4 @@
-Valsella myricae Bres. SPECIES
-=======
+# Valsella myricae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus mediterraneensis Jacquet. & J. Blum SPECIES
-=======
+# Boletus mediterraneensis Jacquet. & J. Blum SPECIES
 
 #### Status
 ACCEPTED

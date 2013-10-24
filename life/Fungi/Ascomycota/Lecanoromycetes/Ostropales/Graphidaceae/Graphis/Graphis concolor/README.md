@@ -1,5 +1,4 @@
-Graphis concolor Nyl. SPECIES
-=======
+# Graphis concolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

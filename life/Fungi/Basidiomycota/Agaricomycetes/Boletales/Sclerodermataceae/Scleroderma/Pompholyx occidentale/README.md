@@ -1,5 +1,4 @@
-Pompholyx occidentale Zeller SPECIES
-=======
+# Pompholyx occidentale Zeller SPECIES
 
 #### Status
 ACCEPTED

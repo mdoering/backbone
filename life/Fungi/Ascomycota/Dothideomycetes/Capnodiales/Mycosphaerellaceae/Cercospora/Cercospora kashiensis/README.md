@@ -1,5 +1,4 @@
-Cercospora kashiensis Bharadwaj SPECIES
-=======
+# Cercospora kashiensis Bharadwaj SPECIES
 
 #### Status
 ACCEPTED

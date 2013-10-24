@@ -1,5 +1,4 @@
-Diplodina aternensis Curzi & Barbaini SPECIES
-=======
+# Diplodina aternensis Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alistipes finegoldii Rautio et al., 2003 SPECIES
-=======
+# Alistipes finegoldii Rautio et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

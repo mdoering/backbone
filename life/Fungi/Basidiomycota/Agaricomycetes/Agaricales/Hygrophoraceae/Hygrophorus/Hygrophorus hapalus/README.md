@@ -1,5 +1,4 @@
-Hygrophorus hapalus Berk. & Broome SPECIES
-=======
+# Hygrophorus hapalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

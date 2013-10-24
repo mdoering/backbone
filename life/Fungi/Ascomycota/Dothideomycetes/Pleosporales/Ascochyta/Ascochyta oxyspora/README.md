@@ -1,5 +1,4 @@
-Ascochyta oxyspora Tassi SPECIES
-=======
+# Ascochyta oxyspora Tassi SPECIES
 
 #### Status
 ACCEPTED

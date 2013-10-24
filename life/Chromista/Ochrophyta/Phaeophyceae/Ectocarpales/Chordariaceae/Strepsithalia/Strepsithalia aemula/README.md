@@ -1,5 +1,4 @@
-Strepsithalia aemula Womersley & Skinner SPECIES
-=======
+# Strepsithalia aemula Womersley & Skinner SPECIES
 
 #### Status
 ACCEPTED

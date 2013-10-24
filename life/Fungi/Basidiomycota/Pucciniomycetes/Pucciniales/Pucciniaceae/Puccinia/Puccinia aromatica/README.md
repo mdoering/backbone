@@ -1,5 +1,4 @@
-Puccinia aromatica Bubák, 1902 SPECIES
-=======
+# Puccinia aromatica Bubák, 1902 SPECIES
 
 #### Status
 ACCEPTED

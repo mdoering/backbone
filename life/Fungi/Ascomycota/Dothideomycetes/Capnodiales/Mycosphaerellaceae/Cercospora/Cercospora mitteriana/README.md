@@ -1,5 +1,4 @@
-Cercospora mitteriana Syd. SPECIES
-=======
+# Cercospora mitteriana Syd. SPECIES
 
 #### Status
 ACCEPTED

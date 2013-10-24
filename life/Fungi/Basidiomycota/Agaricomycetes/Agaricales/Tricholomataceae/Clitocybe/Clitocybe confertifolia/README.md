@@ -1,5 +1,4 @@
-Clitocybe confertifolia (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe confertifolia (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

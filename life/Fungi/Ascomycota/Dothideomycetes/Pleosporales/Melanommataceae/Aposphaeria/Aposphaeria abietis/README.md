@@ -1,5 +1,4 @@
-Aposphaeria abietis Brunaud SPECIES
-=======
+# Aposphaeria abietis Brunaud SPECIES
 
 #### Status
 ACCEPTED

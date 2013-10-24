@@ -1,5 +1,4 @@
-Pestalotia taphrinicola Ellis & Everh. SPECIES
-=======
+# Pestalotia taphrinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flavobacterium gillisiae McCammon & Bowman, 2000 SPECIES
-=======
+# Flavobacterium gillisiae McCammon & Bowman, 2000 SPECIES
 
 #### Status
 ACCEPTED

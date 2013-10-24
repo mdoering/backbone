@@ -1,5 +1,4 @@
-Poria fasciculata Burt SPECIES
-=======
+# Poria fasciculata Burt SPECIES
 
 #### Status
 ACCEPTED

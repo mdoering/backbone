@@ -1,5 +1,4 @@
-Sphaeria querceticola P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria querceticola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

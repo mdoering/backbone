@@ -1,5 +1,4 @@
-Septoria heraclei-plantani Maire SPECIES
-=======
+# Septoria heraclei-plantani Maire SPECIES
 
 #### Status
 ACCEPTED

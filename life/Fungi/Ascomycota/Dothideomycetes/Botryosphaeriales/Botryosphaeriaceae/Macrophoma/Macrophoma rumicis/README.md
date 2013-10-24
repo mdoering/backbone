@@ -1,5 +1,4 @@
-Macrophoma rumicis Petr. SPECIES
-=======
+# Macrophoma rumicis Petr. SPECIES
 
 #### Status
 ACCEPTED

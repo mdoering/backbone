@@ -1,14 +1,13 @@
-Thelotrema holosporum Harm. SPECIES
-=======
+# Ocellularia holospora (Harm.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Séanc. Soc. Sci. Nancy, Sér. 3 13: 48 (1912)
+Cat. Lich. Univers. 2: 593 (1923)
 
 #### Original name
 Thelotrema holosporum Harm.

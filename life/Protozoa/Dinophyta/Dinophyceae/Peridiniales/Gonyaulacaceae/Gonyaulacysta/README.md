@@ -1,5 +1,4 @@
-Gonyaulacysta Deflandre, 1964 GENUS
-=======
+# Gonyaulacysta Deflandre, 1964 GENUS
 
 #### Status
 ACCEPTED

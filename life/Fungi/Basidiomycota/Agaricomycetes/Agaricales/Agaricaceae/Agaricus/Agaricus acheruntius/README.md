@@ -1,17 +1,16 @@
-Paxillus acheruntius f. acheruntius FORM
-=======
+# Agaricus acheruntius Humb., 1793 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Friberg. Spec. (Berlin) 73 (1793)
 
 #### Original name
-Paxillus acheruntius f. acheruntius
+Agaricus acheruntius Humb., 1793
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Isariopsis grayiana Ellis SPECIES
-=======
+# Isariopsis grayiana Ellis SPECIES
 
 #### Status
 ACCEPTED

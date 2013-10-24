@@ -1,5 +1,4 @@
-Scleroderma tuberosum Spreng. SPECIES
-=======
+# Scleroderma tuberosum Spreng. SPECIES
 
 #### Status
 ACCEPTED

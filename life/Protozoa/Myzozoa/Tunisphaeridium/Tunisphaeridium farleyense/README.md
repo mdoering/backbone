@@ -1,5 +1,4 @@
-Tunisphaeridium farleyense Dorning & Harvey, 1999 SPECIES
-=======
+# Tunisphaeridium farleyense Dorning & Harvey, 1999 SPECIES
 
 #### Status
 ACCEPTED

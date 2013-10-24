@@ -1,5 +1,4 @@
-Xylographa disseminata Willey SPECIES
-=======
+# Xylographa disseminata Willey SPECIES
 
 #### Status
 ACCEPTED

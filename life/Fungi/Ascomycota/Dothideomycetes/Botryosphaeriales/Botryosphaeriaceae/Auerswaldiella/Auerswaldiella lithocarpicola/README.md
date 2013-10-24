@@ -1,5 +1,4 @@
-Auerswaldiella lithocarpicola Sivan. & W.H. Hsieh SPECIES
-=======
+# Auerswaldiella lithocarpicola Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

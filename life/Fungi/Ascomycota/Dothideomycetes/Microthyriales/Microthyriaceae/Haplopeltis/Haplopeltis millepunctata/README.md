@@ -1,5 +1,4 @@
-Haplopeltis millepunctata (Penz. & Sacc.) Theiss. SPECIES
-=======
+# Haplopeltis millepunctata (Penz. & Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

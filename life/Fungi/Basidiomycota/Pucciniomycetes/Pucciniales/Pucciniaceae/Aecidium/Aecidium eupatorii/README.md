@@ -1,5 +1,4 @@
-Aecidium eupatorii Dietel SPECIES
-=======
+# Aecidium eupatorii Dietel SPECIES
 
 #### Status
 ACCEPTED

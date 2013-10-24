@@ -1,5 +1,4 @@
-Pyrenotea GENUS
-=======
+# Pyrenotea GENUS
 
 #### Status
 ACCEPTED

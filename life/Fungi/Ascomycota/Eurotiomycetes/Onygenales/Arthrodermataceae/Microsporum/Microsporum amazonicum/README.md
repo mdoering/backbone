@@ -1,5 +1,4 @@
-Microsporum amazonicum Moraes, Borelli & Feo, 1967 SPECIES
-=======
+# Microsporum amazonicum Moraes, Borelli & Feo, 1967 SPECIES
 
 #### Status
 ACCEPTED

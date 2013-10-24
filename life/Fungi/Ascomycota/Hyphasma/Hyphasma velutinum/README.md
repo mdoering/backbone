@@ -1,5 +1,4 @@
-Hyphasma velutinum (L.) Rebent. SPECIES
-=======
+# Hyphasma velutinum (L.) Rebent. SPECIES
 
 #### Status
 ACCEPTED

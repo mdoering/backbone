@@ -1,5 +1,4 @@
-Phragmotrichum acerinum Fr. SPECIES
-=======
+# Phragmotrichum acerinum Fr. SPECIES
 
 #### Status
 ACCEPTED

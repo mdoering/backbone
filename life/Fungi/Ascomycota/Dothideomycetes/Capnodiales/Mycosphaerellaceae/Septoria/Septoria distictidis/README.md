@@ -1,5 +1,4 @@
-Septoria distictidis Viégas SPECIES
-=======
+# Septoria distictidis Viégas SPECIES
 
 #### Status
 ACCEPTED

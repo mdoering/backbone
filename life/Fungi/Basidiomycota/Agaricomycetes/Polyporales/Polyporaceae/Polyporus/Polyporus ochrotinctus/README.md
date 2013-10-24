@@ -1,5 +1,4 @@
-Polyporus ochrotinctus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus ochrotinctus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

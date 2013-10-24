@@ -1,5 +1,4 @@
-Psathyrella superiorensis A.H. Sm. SPECIES
-=======
+# Psathyrella superiorensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

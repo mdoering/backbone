@@ -1,5 +1,4 @@
-Blepharisma seculum Isquith, Repak & Hirshfield, 1965 SPECIES
-=======
+# Blepharisma seculum Isquith, Repak & Hirshfield, 1965 SPECIES
 
 #### Status
 ACCEPTED

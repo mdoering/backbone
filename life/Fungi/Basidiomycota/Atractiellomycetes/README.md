@@ -1,5 +1,4 @@
-Atractiellomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
-=======
+# Atractiellomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
 
 #### Status
 ACCEPTED

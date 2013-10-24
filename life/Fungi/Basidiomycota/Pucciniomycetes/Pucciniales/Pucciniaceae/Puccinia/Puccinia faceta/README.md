@@ -1,5 +1,4 @@
-Puccinia faceta Syd. SPECIES
-=======
+# Puccinia faceta Syd. SPECIES
 
 #### Status
 ACCEPTED

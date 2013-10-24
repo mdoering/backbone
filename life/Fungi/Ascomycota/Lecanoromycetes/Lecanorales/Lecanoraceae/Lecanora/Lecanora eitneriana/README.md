@@ -1,5 +1,4 @@
-Lecanora eitneriana Zahlbr. SPECIES
-=======
+# Lecanora eitneriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

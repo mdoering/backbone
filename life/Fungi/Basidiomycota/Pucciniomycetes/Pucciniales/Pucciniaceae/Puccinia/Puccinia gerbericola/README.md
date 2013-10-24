@@ -1,5 +1,4 @@
-Puccinia gerbericola Doidge SPECIES
-=======
+# Puccinia gerbericola Doidge SPECIES
 
 #### Status
 ACCEPTED

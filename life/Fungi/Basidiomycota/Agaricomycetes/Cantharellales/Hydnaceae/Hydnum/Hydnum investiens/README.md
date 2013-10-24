@@ -1,14 +1,13 @@
-Steccherinum investiens (Berk.) Boedijn, 1951 SPECIES
-=======
+# Hydnum investiens Berk., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5: 213 (1951)
+Hooker's J. Bot. Kew Gard. Misc. 4: 57 (1845)
 
 #### Original name
 Hydnum investiens Berk., 1845

@@ -1,5 +1,4 @@
-Tremella mucoroidea Pat. SPECIES
-=======
+# Tremella mucoroidea Pat. SPECIES
 
 #### Status
 ACCEPTED

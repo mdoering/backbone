@@ -1,5 +1,4 @@
-Schewiakoffia Corliss, 1960 GENUS
-=======
+# Schewiakoffia Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

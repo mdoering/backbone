@@ -1,5 +1,4 @@
-Mycena ochraceocinerea Murrill SPECIES
-=======
+# Mycena ochraceocinerea Murrill SPECIES
 
 #### Status
 ACCEPTED

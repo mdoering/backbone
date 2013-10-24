@@ -1,5 +1,4 @@
-Bryoria indonesica (P.M. Jørg.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria indonesica (P.M. Jørg.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amauroderma hongkongense L. Fan & B. Liu SPECIES
-=======
+# Amauroderma hongkongense L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

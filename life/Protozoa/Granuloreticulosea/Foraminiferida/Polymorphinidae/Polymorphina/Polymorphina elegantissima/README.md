@@ -1,5 +1,4 @@
-Polymorphina elegantissima Jones & Parker SPECIES
-=======
+# Polymorphina elegantissima Jones & Parker SPECIES
 
 #### Status
 ACCEPTED

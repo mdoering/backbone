@@ -1,5 +1,4 @@
-Hygrophorus albofuscus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus albofuscus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

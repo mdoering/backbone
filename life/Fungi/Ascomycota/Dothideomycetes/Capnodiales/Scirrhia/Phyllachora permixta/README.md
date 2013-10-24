@@ -1,5 +1,4 @@
-Phyllachora permixta Syd. & P. Syd., 1911 SPECIES
-=======
+# Phyllachora permixta Syd. & P. Syd., 1911 SPECIES
 
 #### Status
 DOUBTFUL

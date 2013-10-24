@@ -1,5 +1,4 @@
-Conocybe robertii Singer & Hauskn. SPECIES
-=======
+# Conocybe robertii Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

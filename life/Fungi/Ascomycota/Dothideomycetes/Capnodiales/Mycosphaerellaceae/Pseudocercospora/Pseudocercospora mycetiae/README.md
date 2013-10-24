@@ -1,5 +1,4 @@
-Pseudocercospora mycetiae Y.L. Guo SPECIES
-=======
+# Pseudocercospora mycetiae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

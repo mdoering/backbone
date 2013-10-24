@@ -1,5 +1,4 @@
-Sphaeria tageticola Schwein. SPECIES
-=======
+# Sphaeria tageticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoenterolobium Goos GENUS
-=======
+# Mycoenterolobium Goos GENUS
 
 #### Status
 ACCEPTED

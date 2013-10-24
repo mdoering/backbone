@@ -1,5 +1,4 @@
-Nodulosphaeria monticola (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Nodulosphaeria monticola (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

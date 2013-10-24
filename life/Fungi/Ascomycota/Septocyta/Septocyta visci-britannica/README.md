@@ -1,17 +1,16 @@
-Septocyta visci-britannicae Punith. & Spooner SPECIES
-=======
+# Septocyta visci-britannica Punith. & Spooner, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 57(3): 543 (2002)
 
 #### Original name
-Septocyta visci-britannicae Punith. & Spooner
+Septocyta visci-britannica Punith. & Spooner, 2002
 
 ### Remarks
 null

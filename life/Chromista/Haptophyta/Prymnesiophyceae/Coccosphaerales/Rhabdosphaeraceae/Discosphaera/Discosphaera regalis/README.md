@@ -1,5 +1,4 @@
-Discosphaera regalis K. R. Gaarder SPECIES
-=======
+# Discosphaera regalis K. R. Gaarder SPECIES
 
 #### Status
 ACCEPTED

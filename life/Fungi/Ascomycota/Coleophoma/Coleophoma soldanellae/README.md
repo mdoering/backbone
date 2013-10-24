@@ -1,5 +1,4 @@
-Coleophoma soldanellae Petr. SPECIES
-=======
+# Coleophoma soldanellae Petr. SPECIES
 
 #### Status
 ACCEPTED

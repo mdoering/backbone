@@ -1,5 +1,4 @@
-Cercospora herpestica Petr. & Cif. SPECIES
-=======
+# Cercospora herpestica Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

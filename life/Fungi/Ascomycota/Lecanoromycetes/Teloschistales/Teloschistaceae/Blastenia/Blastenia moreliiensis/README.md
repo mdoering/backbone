@@ -1,5 +1,4 @@
-Blastenia moreliiensis B. de Lesd. SPECIES
-=======
+# Blastenia moreliiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

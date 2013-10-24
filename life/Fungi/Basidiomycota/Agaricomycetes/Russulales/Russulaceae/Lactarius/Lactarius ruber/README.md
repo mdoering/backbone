@@ -1,5 +1,4 @@
-Lactarius ruber Gray SPECIES
-=======
+# Lactarius ruber Gray SPECIES
 
 #### Status
 ACCEPTED

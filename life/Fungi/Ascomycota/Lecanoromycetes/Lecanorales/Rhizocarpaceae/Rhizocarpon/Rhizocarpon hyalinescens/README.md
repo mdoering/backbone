@@ -1,5 +1,4 @@
-Rhizocarpon hyalinescens Vain. SPECIES
-=======
+# Rhizocarpon hyalinescens Vain. SPECIES
 
 #### Status
 ACCEPTED

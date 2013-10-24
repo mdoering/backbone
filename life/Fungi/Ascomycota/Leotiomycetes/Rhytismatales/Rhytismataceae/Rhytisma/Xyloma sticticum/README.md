@@ -1,5 +1,4 @@
-Xyloma sticticum Mart. SPECIES
-=======
+# Xyloma sticticum Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryochiton Döbbeler & Poelt GENUS
-=======
+# Bryochiton Döbbeler & Poelt GENUS
 
 #### Status
 ACCEPTED

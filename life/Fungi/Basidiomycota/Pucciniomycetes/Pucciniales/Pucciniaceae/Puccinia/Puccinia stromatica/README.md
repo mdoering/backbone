@@ -1,5 +1,4 @@
-Puccinia stromatica Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia stromatica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

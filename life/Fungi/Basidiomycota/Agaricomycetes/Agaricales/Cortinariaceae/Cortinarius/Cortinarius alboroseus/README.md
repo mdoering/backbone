@@ -1,14 +1,13 @@
-Cuphocybe alborosea R. Heim, 1951 SPECIES
-=======
+# Cortinarius alboroseus (R. Heim) Peintner, E. Horak, M.M. Moser & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 16(2): 8 (1951)
+Mycotaxon 83: 448 (2002)
 
 #### Original name
 Cuphocybe alborosea R. Heim, 1951

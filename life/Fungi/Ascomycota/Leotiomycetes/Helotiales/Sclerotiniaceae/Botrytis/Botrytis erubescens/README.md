@@ -1,5 +1,4 @@
-Botrytis erubescens (Schwein.) Sacc. SPECIES
-=======
+# Botrytis erubescens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

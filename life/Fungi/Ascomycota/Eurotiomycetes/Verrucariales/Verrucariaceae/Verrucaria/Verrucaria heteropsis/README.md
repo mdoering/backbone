@@ -1,5 +1,4 @@
-Verrucaria heteropsis Nyl. SPECIES
-=======
+# Verrucaria heteropsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

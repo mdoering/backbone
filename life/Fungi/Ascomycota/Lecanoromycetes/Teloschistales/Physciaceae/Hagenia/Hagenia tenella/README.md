@@ -1,5 +1,4 @@
-Hagenia tenella SPECIES
-=======
+# Hagenia tenella SPECIES
 
 #### Status
 ACCEPTED

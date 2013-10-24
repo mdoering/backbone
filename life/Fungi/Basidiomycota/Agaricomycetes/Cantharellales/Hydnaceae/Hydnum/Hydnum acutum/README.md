@@ -1,5 +1,4 @@
-Hydnum acutum Pers. SPECIES
-=======
+# Hydnum acutum Pers. SPECIES
 
 #### Status
 ACCEPTED

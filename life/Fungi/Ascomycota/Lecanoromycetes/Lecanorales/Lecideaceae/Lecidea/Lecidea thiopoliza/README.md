@@ -1,5 +1,4 @@
-Lecidea thiopoliza Nyl. SPECIES
-=======
+# Lecidea thiopoliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

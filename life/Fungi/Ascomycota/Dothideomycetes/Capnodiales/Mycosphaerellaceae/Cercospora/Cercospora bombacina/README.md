@@ -1,5 +1,4 @@
-Cercospora bombacina T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cercospora bombacina T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

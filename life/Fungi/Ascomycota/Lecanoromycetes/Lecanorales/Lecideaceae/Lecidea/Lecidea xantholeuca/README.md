@@ -1,5 +1,4 @@
-Lecidea xantholeuca Müll. Arg. SPECIES
-=======
+# Lecidea xantholeuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

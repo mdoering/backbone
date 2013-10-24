@@ -1,5 +1,4 @@
-Synchytrium atylosiae (Petch) Gäum. SPECIES
-=======
+# Synchytrium atylosiae (Petch) Gäum. SPECIES
 
 #### Status
 ACCEPTED

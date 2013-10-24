@@ -1,5 +1,4 @@
-Cercospora fagopyri Nakata & S. Takim. SPECIES
-=======
+# Cercospora fagopyri Nakata & S. Takim. SPECIES
 
 #### Status
 ACCEPTED

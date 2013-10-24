@@ -1,5 +1,4 @@
-Sphagnicola rivularis Velen. SPECIES
-=======
+# Sphagnicola rivularis Velen. SPECIES
 
 #### Status
 ACCEPTED

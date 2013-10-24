@@ -1,5 +1,4 @@
-Hostuviroid: GENUS
-=======
+# Hostuviroid: GENUS
 
 #### Status
 ACCEPTED

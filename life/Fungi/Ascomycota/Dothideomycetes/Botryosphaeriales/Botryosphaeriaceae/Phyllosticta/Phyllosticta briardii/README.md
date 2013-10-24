@@ -1,17 +1,16 @@
-Phyllosticta briardii var. briardii VARIETY
-=======
+# Phyllosticta briardii Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 109 (1884)
 
 #### Original name
-Phyllosticta briardii var. briardii
+Phyllosticta briardii Sacc., 1884
 
 ### Remarks
 null

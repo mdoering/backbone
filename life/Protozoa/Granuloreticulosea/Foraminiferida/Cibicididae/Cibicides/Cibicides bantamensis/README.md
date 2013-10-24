@@ -1,5 +1,4 @@
-Cibicides bantamensis LeRoy, 1941 SPECIES
-=======
+# Cibicides bantamensis LeRoy, 1941 SPECIES
 
 #### Status
 ACCEPTED

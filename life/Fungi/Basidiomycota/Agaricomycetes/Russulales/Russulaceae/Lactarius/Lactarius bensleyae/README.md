@@ -1,5 +1,4 @@
-Lactarius bensleyae Burl. SPECIES
-=======
+# Lactarius bensleyae Burl. SPECIES
 
 #### Status
 ACCEPTED

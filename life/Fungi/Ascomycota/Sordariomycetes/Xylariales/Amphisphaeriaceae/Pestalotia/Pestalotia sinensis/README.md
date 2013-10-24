@@ -1,5 +1,4 @@
-Pestalotia sinensis C.I. Chen SPECIES
-=======
+# Pestalotia sinensis C.I. Chen SPECIES
 
 #### Status
 ACCEPTED

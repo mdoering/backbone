@@ -1,5 +1,4 @@
-Isaria nipponica Kobayasi SPECIES
-=======
+# Isaria nipponica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

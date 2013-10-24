@@ -1,5 +1,4 @@
-Lentinus catervarius Berk. & Broome SPECIES
-=======
+# Lentinus catervarius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

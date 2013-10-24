@@ -1,5 +1,4 @@
-Actinopolysporaceae Zhi, Li & Stackebrandt, 2009 FAMILY
-=======
+# Actinopolysporaceae Zhi, Li & Stackebrandt, 2009 FAMILY
 
 #### Status
 ACCEPTED

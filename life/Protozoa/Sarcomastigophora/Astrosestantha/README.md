@@ -1,5 +1,4 @@
-Astrosestantha Haeckel, 1887 GENUS
-=======
+# Astrosestantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma euonymi Bres. & Schmor. SPECIES
-=======
+# Macrophoma euonymi Bres. & Schmor. SPECIES
 
 #### Status
 ACCEPTED

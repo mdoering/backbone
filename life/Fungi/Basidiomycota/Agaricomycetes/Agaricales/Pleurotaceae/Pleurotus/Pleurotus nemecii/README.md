@@ -1,5 +1,4 @@
-Pleurotus nemecii Pilát SPECIES
-=======
+# Pleurotus nemecii Pilát SPECIES
 
 #### Status
 ACCEPTED

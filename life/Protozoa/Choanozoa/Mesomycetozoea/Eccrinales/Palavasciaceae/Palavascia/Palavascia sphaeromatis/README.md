@@ -1,17 +1,16 @@
-Palavascia sphaeromae Tuzet & Manier SPECIES
-=======
+# Palavascia sphaeromatis Tuzet & Manier ex Manier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 95 (1968)
 
 #### Original name
-Palavascia sphaeromae Tuzet & Manier
+Palavascia sphaeromatis Tuzet & Manier ex Manier, 1968
 
 ### Remarks
 null

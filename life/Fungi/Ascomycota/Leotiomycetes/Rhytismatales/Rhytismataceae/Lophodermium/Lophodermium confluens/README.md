@@ -1,5 +1,4 @@
-Lophodermium confluens Y.R. Lin, C.L. Hou & W.F. Zheng SPECIES
-=======
+# Lophodermium confluens Y.R. Lin, C.L. Hou & W.F. Zheng SPECIES
 
 #### Status
 ACCEPTED

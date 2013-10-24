@@ -1,5 +1,4 @@
-Gorgonisphaeridium ohioense (Winslow, 1962) Wicander, 1974 SPECIES
-=======
+# Gorgonisphaeridium ohioense (Winslow, 1962) Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

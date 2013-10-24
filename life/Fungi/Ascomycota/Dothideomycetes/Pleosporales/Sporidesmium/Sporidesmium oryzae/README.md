@@ -1,5 +1,4 @@
-Sporidesmium oryzae Hara SPECIES
-=======
+# Sporidesmium oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

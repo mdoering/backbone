@@ -1,5 +1,4 @@
-Entophlyctis sphaerioides S.N. Dasgupta & R. John SPECIES
-=======
+# Entophlyctis sphaerioides S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

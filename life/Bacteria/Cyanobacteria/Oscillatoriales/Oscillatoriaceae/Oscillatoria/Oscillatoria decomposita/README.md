@@ -1,5 +1,4 @@
-Oscillatoria decomposita Trentepohl SPECIES
-=======
+# Oscillatoria decomposita Trentepohl SPECIES
 
 #### Status
 ACCEPTED

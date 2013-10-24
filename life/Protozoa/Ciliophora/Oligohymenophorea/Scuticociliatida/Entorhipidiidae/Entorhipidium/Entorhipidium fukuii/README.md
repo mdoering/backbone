@@ -1,5 +1,4 @@
-Entorhipidium fukuii Uyemura, 1934 SPECIES
-=======
+# Entorhipidium fukuii Uyemura, 1934 SPECIES
 
 #### Status
 ACCEPTED

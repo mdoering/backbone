@@ -1,5 +1,4 @@
-Locellina acetabulosa (Sowerby) Sacc. SPECIES
-=======
+# Locellina acetabulosa (Sowerby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

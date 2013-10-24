@@ -1,5 +1,4 @@
-Hexotricha Conn & Edmondson, 1918 GENUS
-=======
+# Hexotricha Conn & Edmondson, 1918 GENUS
 
 #### Status
 ACCEPTED

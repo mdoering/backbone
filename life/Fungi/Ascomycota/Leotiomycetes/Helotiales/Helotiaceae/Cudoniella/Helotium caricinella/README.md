@@ -1,5 +1,4 @@
-Helotium caricinella Peck SPECIES
-=======
+# Helotium caricinella Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haematomma ochroleucum var. ochroleucum VARIETY
-=======
+# Haematomma ochroleucum (Neck.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 4(4): 299 (1970)
+null
 
 #### Original name
-Haematomma ochroleucum var. ochroleucum
+null
 
 ### Remarks
 null

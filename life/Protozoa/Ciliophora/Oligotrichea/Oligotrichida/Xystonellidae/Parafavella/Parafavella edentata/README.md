@@ -1,5 +1,4 @@
-Parafavella edentata (Brandt, 1896) SPECIES
-=======
+# Parafavella edentata (Brandt, 1896) SPECIES
 
 #### Status
 ACCEPTED

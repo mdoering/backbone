@@ -1,5 +1,4 @@
-Pithomyces obscuriseptatus Matsush. SPECIES
-=======
+# Pithomyces obscuriseptatus Matsush. SPECIES
 
 #### Status
 ACCEPTED

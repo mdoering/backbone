@@ -1,5 +1,4 @@
-Rhabdospora helleborina Sacc. SPECIES
-=======
+# Rhabdospora helleborina Sacc. SPECIES
 
 #### Status
 ACCEPTED

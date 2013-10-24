@@ -1,5 +1,4 @@
-Hydrocybe microsporus Singer SPECIES
-=======
+# Hydrocybe microsporus Singer SPECIES
 
 #### Status
 ACCEPTED

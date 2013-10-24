@@ -1,5 +1,4 @@
-Biatora luteorufula Tuck. SPECIES
-=======
+# Biatora luteorufula Tuck. SPECIES
 
 #### Status
 ACCEPTED

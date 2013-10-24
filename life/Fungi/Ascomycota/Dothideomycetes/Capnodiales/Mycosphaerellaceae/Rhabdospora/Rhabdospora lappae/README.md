@@ -1,5 +1,4 @@
-Rhabdospora lappae Feurich SPECIES
-=======
+# Rhabdospora lappae Feurich SPECIES
 
 #### Status
 ACCEPTED

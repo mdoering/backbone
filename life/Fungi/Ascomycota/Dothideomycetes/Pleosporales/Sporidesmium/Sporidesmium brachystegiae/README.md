@@ -1,5 +1,4 @@
-Sporidesmium brachystegiae Deighton SPECIES
-=======
+# Sporidesmium brachystegiae Deighton SPECIES
 
 #### Status
 ACCEPTED

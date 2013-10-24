@@ -1,5 +1,4 @@
-Mycena pilosa Métrod SPECIES
-=======
+# Mycena pilosa Métrod SPECIES
 
 #### Status
 ACCEPTED

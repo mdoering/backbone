@@ -1,5 +1,4 @@
-Trictyopus Bütschli, 1881 GENUS
-=======
+# Trictyopus Bütschli, 1881 GENUS
 
 #### Status
 ACCEPTED

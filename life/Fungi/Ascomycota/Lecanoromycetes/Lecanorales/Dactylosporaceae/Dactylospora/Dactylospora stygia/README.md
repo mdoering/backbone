@@ -1,5 +1,4 @@
-Karschia nigerrima var. nigerrima VARIETY
-=======
+# Dactylospora stygia (Berk. & M.A. Curtis) Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 8: 780 (1889)
+Nova Hedwigia, Beih. 62: 137 (1979)
 
 #### Original name
-Karschia nigerrima var. nigerrima
+null
 
 ### Remarks
 null

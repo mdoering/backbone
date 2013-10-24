@@ -1,5 +1,4 @@
-Ramariopsis lentofragilis SPECIES
-=======
+# Ramariopsis lentofragilis SPECIES
 
 #### Status
 ACCEPTED

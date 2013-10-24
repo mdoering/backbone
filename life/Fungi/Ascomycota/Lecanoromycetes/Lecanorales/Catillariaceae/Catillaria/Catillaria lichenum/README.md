@@ -1,5 +1,4 @@
-Catillaria lichenum anon. SPECIES
-=======
+# Catillaria lichenum anon. SPECIES
 
 #### Status
 ACCEPTED

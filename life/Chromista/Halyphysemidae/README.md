@@ -1,5 +1,4 @@
-Halyphysemidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Halyphysemidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

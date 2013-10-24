@@ -1,5 +1,4 @@
-Graphis castanopsidis Zahlbr. SPECIES
-=======
+# Graphis castanopsidis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

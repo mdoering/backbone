@@ -1,5 +1,4 @@
-Tubercularia rhodophila Pass. SPECIES
-=======
+# Tubercularia rhodophila Pass. SPECIES
 
 #### Status
 ACCEPTED

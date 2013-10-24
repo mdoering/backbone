@@ -1,5 +1,4 @@
-Sarcographina sandwicensis Zahlbr. SPECIES
-=======
+# Sarcographina sandwicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

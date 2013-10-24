@@ -1,5 +1,4 @@
-Agaricus henriettae W.G. Sm. SPECIES
-=======
+# Agaricus henriettae W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

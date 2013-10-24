@@ -1,5 +1,4 @@
-Marasmiellus distantifolius (Murrill) Singer SPECIES
-=======
+# Marasmiellus distantifolius (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

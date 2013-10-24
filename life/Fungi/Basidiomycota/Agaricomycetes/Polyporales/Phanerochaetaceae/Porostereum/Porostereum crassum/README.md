@@ -1,17 +1,16 @@
-Thelephora vinosa var. vinosa VARIETY
-=======
+# Porostereum crassum (Lév.) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 578 (1801)
+Syn. Fung. (Oslo) 4: 29 (1990)
 
 #### Original name
-Thelephora vinosa var. vinosa
+Thelephora crassa Lév., 1844
 
 ### Remarks
 null

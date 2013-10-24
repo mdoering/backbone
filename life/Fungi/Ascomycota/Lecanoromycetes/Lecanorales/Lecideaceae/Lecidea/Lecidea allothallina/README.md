@@ -1,5 +1,4 @@
-Lecidea allothallina Nyl. SPECIES
-=======
+# Lecidea allothallina Nyl. SPECIES
 
 #### Status
 ACCEPTED

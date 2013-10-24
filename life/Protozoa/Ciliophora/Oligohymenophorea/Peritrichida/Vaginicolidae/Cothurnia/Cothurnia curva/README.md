@@ -1,5 +1,4 @@
-Cothurnia curva Stein, 1867 SPECIES
-=======
+# Cothurnia curva Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

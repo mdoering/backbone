@@ -1,5 +1,4 @@
-Lecidea subinvoluta Müll. Arg. SPECIES
-=======
+# Lecidea subinvoluta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

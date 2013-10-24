@@ -1,5 +1,4 @@
-Pseudocercospora leguminum (Chupp & Linder) Deighton SPECIES
-=======
+# Pseudocercospora leguminum (Chupp & Linder) Deighton SPECIES
 
 #### Status
 ACCEPTED

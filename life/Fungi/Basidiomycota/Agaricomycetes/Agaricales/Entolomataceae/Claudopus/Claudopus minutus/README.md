@@ -1,5 +1,4 @@
-Claudopus minutus Velen. SPECIES
-=======
+# Claudopus minutus Velen. SPECIES
 
 #### Status
 ACCEPTED

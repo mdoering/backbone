@@ -1,5 +1,4 @@
-Neopeckia rhodostoma Syd. & P. Syd. SPECIES
-=======
+# Neopeckia rhodostoma Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

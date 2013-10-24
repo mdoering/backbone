@@ -1,5 +1,4 @@
-Dactylellina ferox (Onofri & S. Tosi) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Dactylellina ferox (Onofri & S. Tosi) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

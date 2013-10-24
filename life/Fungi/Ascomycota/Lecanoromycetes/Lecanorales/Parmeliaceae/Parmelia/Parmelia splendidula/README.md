@@ -1,5 +1,4 @@
-Parmelia splendidula Nyl. SPECIES
-=======
+# Parmelia splendidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

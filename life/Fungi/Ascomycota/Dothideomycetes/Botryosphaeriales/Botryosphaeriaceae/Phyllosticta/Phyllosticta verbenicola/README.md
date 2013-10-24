@@ -1,5 +1,4 @@
-Phyllosticta verbenicola G. Martin SPECIES
-=======
+# Phyllosticta verbenicola G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia bicolor (Berk. & Broome) Cooke & Massee SPECIES
-=======
+# Zythia bicolor (Berk. & Broome) Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

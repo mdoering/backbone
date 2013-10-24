@@ -1,5 +1,4 @@
-Pseudovalsa cotoneastri Vasyag. SPECIES
-=======
+# Pseudovalsa cotoneastri Vasyag. SPECIES
 
 #### Status
 ACCEPTED

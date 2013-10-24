@@ -1,5 +1,4 @@
-Aecidium rubromaculans E. West SPECIES
-=======
+# Aecidium rubromaculans E. West SPECIES
 
 #### Status
 ACCEPTED

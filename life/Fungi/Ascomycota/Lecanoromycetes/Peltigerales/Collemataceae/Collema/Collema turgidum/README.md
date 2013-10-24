@@ -1,5 +1,4 @@
-Collema turgidum SPECIES
-=======
+# Collema turgidum SPECIES
 
 #### Status
 ACCEPTED

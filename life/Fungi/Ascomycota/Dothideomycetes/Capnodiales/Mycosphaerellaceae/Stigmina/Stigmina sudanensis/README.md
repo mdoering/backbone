@@ -1,5 +1,4 @@
-Stigmina sudanensis M.B. Ellis SPECIES
-=======
+# Stigmina sudanensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

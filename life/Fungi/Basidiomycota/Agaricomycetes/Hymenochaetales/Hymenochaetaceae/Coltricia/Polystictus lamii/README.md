@@ -1,5 +1,4 @@
-Polystictus lamii Lloyd SPECIES
-=======
+# Polystictus lamii Lloyd SPECIES
 
 #### Status
 ACCEPTED

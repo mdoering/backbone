@@ -1,5 +1,4 @@
-Opegrapha phegospila Nyl. SPECIES
-=======
+# Opegrapha phegospila Nyl. SPECIES
 
 #### Status
 ACCEPTED

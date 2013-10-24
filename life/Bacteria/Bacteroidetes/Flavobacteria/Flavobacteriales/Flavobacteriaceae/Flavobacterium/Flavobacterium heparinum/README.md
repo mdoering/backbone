@@ -1,8 +1,7 @@
-Sphingobacterium heparinum (Payza & Korn, 1956) Takeuchi & Yokota, 1993 SPECIES
-=======
+# Flavobacterium heparinum Payza and Korn, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

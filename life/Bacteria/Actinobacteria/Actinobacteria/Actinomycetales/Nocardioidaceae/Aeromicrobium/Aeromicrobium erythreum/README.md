@@ -1,5 +1,4 @@
-Aeromicrobium erythreum Miller et al., 1991 SPECIES
-=======
+# Aeromicrobium erythreum Miller et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

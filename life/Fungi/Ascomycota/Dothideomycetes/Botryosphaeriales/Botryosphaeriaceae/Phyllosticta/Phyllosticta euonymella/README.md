@@ -1,8 +1,7 @@
-Phyllosticta evonymella Sacc. SPECIES
-=======
+# Phyllosticta euonymella Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta evonymella Sacc.
+Phyllosticta euonymella Sacc.
 
 ### Remarks
 null

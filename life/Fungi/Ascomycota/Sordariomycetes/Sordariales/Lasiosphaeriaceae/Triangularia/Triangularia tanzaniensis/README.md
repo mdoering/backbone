@@ -1,5 +1,4 @@
-Triangularia tanzaniensis R.S. Khan & J.C. Krug, 1990 SPECIES
-=======
+# Triangularia tanzaniensis R.S. Khan & J.C. Krug, 1990 SPECIES
 
 #### Status
 ACCEPTED

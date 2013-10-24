@@ -1,17 +1,16 @@
-Camarosporium dianthicolum Petr. SPECIES
-=======
+# Camarosporium dianthicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 50: 481 (1940)
 
 #### Original name
-Camarosporium dianthicolum Petr.
+Camarosporium dianthicola Petr.
 
 ### Remarks
 null

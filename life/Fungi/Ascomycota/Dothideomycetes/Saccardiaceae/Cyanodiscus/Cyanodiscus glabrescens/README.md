@@ -1,5 +1,4 @@
-Cyanodiscus glabrescens H.D. Gómez, 1998 SPECIES
-=======
+# Cyanodiscus glabrescens H.D. Gómez, 1998 SPECIES
 
 #### Status
 ACCEPTED

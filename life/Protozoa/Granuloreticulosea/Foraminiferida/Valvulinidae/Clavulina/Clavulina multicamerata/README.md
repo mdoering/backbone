@@ -1,5 +1,4 @@
-Clavulina multicamerata Chapman SPECIES
-=======
+# Clavulina multicamerata Chapman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Meliola camellicola W. Yamam. SPECIES
-=======
+# Meliola camelliicola W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola camellicola W. Yamam.
+Meliola camelliicola W. Yamam.
 
 ### Remarks
 null

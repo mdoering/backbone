@@ -1,5 +1,4 @@
-Placodium arnoldianum M. Choisy SPECIES
-=======
+# Placodium arnoldianum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

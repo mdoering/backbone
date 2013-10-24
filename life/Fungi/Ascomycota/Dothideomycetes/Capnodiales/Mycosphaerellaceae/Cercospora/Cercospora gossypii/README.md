@@ -1,5 +1,4 @@
-Cercospora gossypii Lall, H.S. Gill & Munjal SPECIES
-=======
+# Cercospora gossypii Lall, H.S. Gill & Munjal SPECIES
 
 #### Status
 ACCEPTED

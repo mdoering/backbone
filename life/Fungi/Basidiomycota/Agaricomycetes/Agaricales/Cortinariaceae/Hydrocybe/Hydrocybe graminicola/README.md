@@ -1,5 +1,4 @@
-Hydrocybe graminicola Velen. SPECIES
-=======
+# Hydrocybe graminicola Velen. SPECIES
 
 #### Status
 ACCEPTED

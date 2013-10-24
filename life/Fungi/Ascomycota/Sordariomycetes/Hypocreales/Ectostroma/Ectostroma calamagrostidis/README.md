@@ -1,5 +1,4 @@
-Ectostroma calamagrostidis Naumov SPECIES
-=======
+# Ectostroma calamagrostidis Naumov SPECIES
 
 #### Status
 ACCEPTED

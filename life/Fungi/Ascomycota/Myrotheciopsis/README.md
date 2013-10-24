@@ -1,5 +1,4 @@
-Myrotheciopsis ined. GENUS
-=======
+# Myrotheciopsis ined. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha serpiginosa (Chevall.) Sacc. & Traverso SPECIES
-=======
+# Rhizomorpha serpiginosa (Chevall.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pleromatis Speg. SPECIES
-=======
+# Phyllosticta pleromatis Speg. SPECIES
 
 #### Status
 ACCEPTED

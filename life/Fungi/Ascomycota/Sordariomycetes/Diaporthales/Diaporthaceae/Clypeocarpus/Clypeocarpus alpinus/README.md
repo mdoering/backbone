@@ -1,5 +1,4 @@
-Clypeocarpus alpinus Kirschst. SPECIES
-=======
+# Clypeocarpus alpinus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

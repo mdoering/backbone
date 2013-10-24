@@ -1,5 +1,4 @@
-Cortinarius psittacinus M.M. Moser SPECIES
-=======
+# Cortinarius psittacinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

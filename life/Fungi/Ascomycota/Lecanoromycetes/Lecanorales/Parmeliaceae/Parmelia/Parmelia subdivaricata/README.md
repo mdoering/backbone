@@ -1,5 +1,4 @@
-Parmelia subdivaricata Asahina SPECIES
-=======
+# Parmelia subdivaricata Asahina SPECIES
 
 #### Status
 ACCEPTED

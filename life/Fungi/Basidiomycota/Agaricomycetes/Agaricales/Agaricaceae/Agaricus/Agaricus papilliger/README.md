@@ -1,5 +1,4 @@
-Agaricus papilliger J.F. Gmel. SPECIES
-=======
+# Agaricus papilliger J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

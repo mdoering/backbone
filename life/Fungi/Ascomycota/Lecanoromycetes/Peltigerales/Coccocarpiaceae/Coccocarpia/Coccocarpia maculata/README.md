@@ -1,5 +1,4 @@
-Coccocarpia maculata C.W. Dodge SPECIES
-=======
+# Coccocarpia maculata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

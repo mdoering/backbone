@@ -1,5 +1,4 @@
-Botryosphaeria carpini Sacc. SPECIES
-=======
+# Botryosphaeria carpini Sacc. SPECIES
 
 #### Status
 ACCEPTED

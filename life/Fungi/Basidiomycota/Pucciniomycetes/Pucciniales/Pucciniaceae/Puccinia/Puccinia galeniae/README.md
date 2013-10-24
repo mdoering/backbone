@@ -1,5 +1,4 @@
-Puccinia galeniae Dietel SPECIES
-=======
+# Puccinia galeniae Dietel SPECIES
 
 #### Status
 ACCEPTED

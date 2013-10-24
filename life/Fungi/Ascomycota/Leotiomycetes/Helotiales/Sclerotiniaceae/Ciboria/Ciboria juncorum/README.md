@@ -1,14 +1,13 @@
-Gloeotinia juncorum (Velen.) Baral, 1985 SPECIES
-=======
+# Ciboria juncorum Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 17 (1985)
+Monogr. Discom. Bohem. (Prague) 220 (1934)
 
 #### Original name
 Ciboria juncorum Velen., 1934

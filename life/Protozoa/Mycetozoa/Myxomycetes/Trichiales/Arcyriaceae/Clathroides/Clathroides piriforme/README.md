@@ -1,5 +1,4 @@
-Clathroides piriforme Haller SPECIES
-=======
+# Clathroides piriforme Haller SPECIES
 
 #### Status
 ACCEPTED

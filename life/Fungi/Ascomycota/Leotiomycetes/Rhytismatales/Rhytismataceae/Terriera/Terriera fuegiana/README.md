@@ -1,14 +1,13 @@
-Hypoderma fuegianum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Terriera fuegiana (Speg.) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Mycol. Pap. 176: 127 (2001)
 
 #### Original name
 Lophodermium fuegianum Speg., 1888

@@ -1,5 +1,4 @@
-Astrothelium sulphureum Nyl. SPECIES
-=======
+# Astrothelium sulphureum Nyl. SPECIES
 
 #### Status
 ACCEPTED

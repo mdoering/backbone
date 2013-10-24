@@ -1,5 +1,4 @@
-Olpidium hantzschiae Skvortsov SPECIES
-=======
+# Olpidium hantzschiae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

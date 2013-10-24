@@ -1,5 +1,4 @@
-Cerotelium piperinum Syd. SPECIES
-=======
+# Cerotelium piperinum Syd. SPECIES
 
 #### Status
 ACCEPTED

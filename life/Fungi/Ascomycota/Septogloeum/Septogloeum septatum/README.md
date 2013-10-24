@@ -1,5 +1,4 @@
-Septogloeum septatum (Romell) Magnus SPECIES
-=======
+# Septogloeum septatum (Romell) Magnus SPECIES
 
 #### Status
 ACCEPTED

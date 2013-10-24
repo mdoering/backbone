@@ -1,5 +1,4 @@
-Aecidium sphaeralceanum Sacc. & Trotter SPECIES
-=======
+# Aecidium sphaeralceanum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

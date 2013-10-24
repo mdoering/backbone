@@ -1,5 +1,4 @@
-Otidea rainierensis Kanouse SPECIES
-=======
+# Otidea rainierensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

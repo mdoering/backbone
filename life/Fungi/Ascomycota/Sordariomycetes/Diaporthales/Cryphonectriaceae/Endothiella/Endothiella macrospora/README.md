@@ -1,5 +1,4 @@
-Endothiella macrospora Kobay. {?} SPECIES
-=======
+# Endothiella macrospora Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

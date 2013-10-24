@@ -1,5 +1,4 @@
-Eotuberitina Miklukho-Maklay, 1958 GENUS
-=======
+# Eotuberitina Miklukho-Maklay, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geosmithia flava M. Kolarík, Kubátová & Pažoutová, 2004 SPECIES
-=======
+# Geosmithia flava M. Kolarík, Kubátová & Pažoutová, 2004 SPECIES
 
 #### Status
 ACCEPTED

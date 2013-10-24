@@ -1,14 +1,13 @@
-Microporus leporinus (Fr.) Kuntze, 1898 SPECIES
-=======
+# Inonotus leporinus (Fr.) Gilb. & Ryvarden, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
+Syn. Fung. (Oslo) 6: 328 (1993)
 
 #### Original name
 Polyporus leporinus Fr., 1852

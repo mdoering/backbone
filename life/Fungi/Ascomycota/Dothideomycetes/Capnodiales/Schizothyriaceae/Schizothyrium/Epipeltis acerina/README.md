@@ -1,5 +1,4 @@
-Epipeltis acerina Theiss. SPECIES
-=======
+# Epipeltis acerina Theiss. SPECIES
 
 #### Status
 ACCEPTED

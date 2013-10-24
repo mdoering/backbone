@@ -1,14 +1,13 @@
-Crocynia rigidula B. de Lesd. SPECIES
-=======
+# Lepraria rigidula (B. de Lesd.) Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hue, Bull. Soc. bot. Fr. 71: 331-332 (1924)
+Sommerfeltia 14: 205 (1992)
 
 #### Original name
 Crocynia rigidula B. de Lesd.

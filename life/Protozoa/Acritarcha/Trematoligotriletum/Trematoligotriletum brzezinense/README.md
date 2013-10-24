@@ -1,5 +1,4 @@
-Trematoligotriletum brzezinense Jagielska, 1962 SPECIES
-=======
+# Trematoligotriletum brzezinense Jagielska, 1962 SPECIES
 
 #### Status
 ACCEPTED

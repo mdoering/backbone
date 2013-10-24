@@ -1,5 +1,4 @@
-Haplocarpon convexum (Fr.) M. Choisy SPECIES
-=======
+# Haplocarpon convexum (Fr.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

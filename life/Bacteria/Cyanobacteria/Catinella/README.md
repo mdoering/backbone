@@ -1,5 +1,4 @@
-Catinella H.D. Pflug, 1966 GENUS
-=======
+# Catinella H.D. Pflug, 1966 GENUS
 
 #### Status
 ACCEPTED

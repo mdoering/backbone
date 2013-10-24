@@ -1,5 +1,4 @@
-Sphaerella plegmariae Ces. SPECIES
-=======
+# Sphaerella plegmariae Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola gregoriana var. confusa Cif. VARIETY
-=======
+# Meliola gregoriana F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycopath. Mycol. appl. 7: 133 (1954)
+Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 39 (1925)
 
 #### Original name
-Meliola gregoriana var. confusa Cif.
+Meliola gregoriana F. Stevens
 
 ### Remarks
 null

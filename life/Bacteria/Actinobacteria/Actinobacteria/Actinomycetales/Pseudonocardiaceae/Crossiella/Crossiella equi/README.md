@@ -1,5 +1,4 @@
-Crossiella equi Donahue et al., 2002 SPECIES
-=======
+# Crossiella equi Donahue et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

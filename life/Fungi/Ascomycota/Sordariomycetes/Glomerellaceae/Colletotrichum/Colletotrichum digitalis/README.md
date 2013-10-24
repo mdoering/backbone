@@ -1,5 +1,4 @@
-Colletotrichum digitalis (Rostr.) Moesz SPECIES
-=======
+# Colletotrichum digitalis (Rostr.) Moesz SPECIES
 
 #### Status
 ACCEPTED

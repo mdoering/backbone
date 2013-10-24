@@ -1,5 +1,4 @@
-Vorticella microstomata Ehrenberg SPECIES
-=======
+# Vorticella microstomata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

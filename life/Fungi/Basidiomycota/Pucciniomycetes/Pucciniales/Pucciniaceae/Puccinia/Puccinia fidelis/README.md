@@ -1,5 +1,4 @@
-Puccinia fidelis Arthur SPECIES
-=======
+# Puccinia fidelis Arthur SPECIES
 
 #### Status
 ACCEPTED

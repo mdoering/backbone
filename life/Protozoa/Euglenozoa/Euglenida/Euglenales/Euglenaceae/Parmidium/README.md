@@ -1,5 +1,4 @@
-Parmidium Christen, 1962 GENUS
-=======
+# Parmidium Christen, 1962 GENUS
 
 #### Status
 ACCEPTED

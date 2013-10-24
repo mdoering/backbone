@@ -1,5 +1,4 @@
-Agaricus microvolvatulus Heinem. SPECIES
-=======
+# Agaricus microvolvatulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

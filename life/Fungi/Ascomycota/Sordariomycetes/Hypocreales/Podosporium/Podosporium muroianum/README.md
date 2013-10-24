@@ -1,5 +1,4 @@
-Podosporium muroianum I. Hino & Katum. SPECIES
-=======
+# Podosporium muroianum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

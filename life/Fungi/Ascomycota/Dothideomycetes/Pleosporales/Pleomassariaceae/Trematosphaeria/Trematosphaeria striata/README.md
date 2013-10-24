@@ -1,5 +1,4 @@
-Trematosphaeria striata (Niessl) L. Holm SPECIES
-=======
+# Trematosphaeria striata (Niessl) L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea coprodes (Körb.) SPECIES
-=======
+# Lecidea coprodes (Körb.) SPECIES
 
 #### Status
 ACCEPTED

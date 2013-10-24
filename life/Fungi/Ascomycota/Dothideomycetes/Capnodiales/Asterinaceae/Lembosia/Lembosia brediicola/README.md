@@ -1,5 +1,4 @@
-Lembosia brediicola B. Song & T.H. Li SPECIES
-=======
+# Lembosia brediicola B. Song & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

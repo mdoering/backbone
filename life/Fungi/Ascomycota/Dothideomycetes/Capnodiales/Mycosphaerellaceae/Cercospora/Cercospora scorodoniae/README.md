@@ -1,5 +1,4 @@
-Cercospora scorodoniae Unamuno SPECIES
-=======
+# Cercospora scorodoniae Unamuno SPECIES
 
 #### Status
 ACCEPTED

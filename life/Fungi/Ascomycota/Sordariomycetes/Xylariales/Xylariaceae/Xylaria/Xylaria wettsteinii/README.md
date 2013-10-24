@@ -1,5 +1,4 @@
-Xylaria wettsteinii Theiss. SPECIES
-=======
+# Xylaria wettsteinii Theiss. SPECIES
 
 #### Status
 ACCEPTED

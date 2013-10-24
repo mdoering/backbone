@@ -1,11 +1,10 @@
-Pseudobacterium thetaiotaomicron (Distaso, 1912) Krasil'nikov, 1949 SPECIES
-=======
+# Bacteroides thetaiotaomicron (Distaso, 1912) Castellani and Chalmers, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

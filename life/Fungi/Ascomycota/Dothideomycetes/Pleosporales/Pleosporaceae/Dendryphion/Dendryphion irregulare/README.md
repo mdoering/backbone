@@ -1,5 +1,4 @@
-Dendryphion irregulare Preuss SPECIES
-=======
+# Dendryphion irregulare Preuss SPECIES
 
 #### Status
 ACCEPTED

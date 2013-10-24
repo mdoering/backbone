@@ -1,5 +1,4 @@
-Phormidium priestleyi F. E. Fritsch SPECIES
-=======
+# Phormidium priestleyi F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

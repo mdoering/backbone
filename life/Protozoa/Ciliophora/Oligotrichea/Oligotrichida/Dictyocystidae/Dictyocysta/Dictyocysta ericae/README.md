@@ -1,5 +1,4 @@
-Dictyocysta ericae SPECIES
-=======
+# Dictyocysta ericae SPECIES
 
 #### Status
 ACCEPTED

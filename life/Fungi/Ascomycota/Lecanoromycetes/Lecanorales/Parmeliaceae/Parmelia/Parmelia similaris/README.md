@@ -1,5 +1,4 @@
-Parmelia similaris (Hoffm.) Ach. SPECIES
-=======
+# Parmelia similaris (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

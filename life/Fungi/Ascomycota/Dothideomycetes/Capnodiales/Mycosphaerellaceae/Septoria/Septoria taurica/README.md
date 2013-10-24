@@ -1,5 +1,4 @@
-Septoria taurica Gucevic SPECIES
-=======
+# Septoria taurica Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium glyptopterum Balech, 1973 SPECIES
-=======
+# Protoperidinium glyptopterum Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

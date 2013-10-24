@@ -1,17 +1,16 @@
-Chionosphaera phylaciicola (Seifert & Bandoni) R. Kirschner & Oberw., 2001 SPECIES
-=======
+# Fibulostilbum phylaciicola Seifert & Bandoni, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Soc. argent. Bot. 28(1-4): 215 (1992)
 
 #### Original name
-null
+Fibulostilbum phylaciicola Seifert & Bandoni, 1992
 
 ### Remarks
 null

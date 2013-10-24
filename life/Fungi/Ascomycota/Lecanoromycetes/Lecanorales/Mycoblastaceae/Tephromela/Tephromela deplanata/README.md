@@ -1,5 +1,4 @@
-Tephromela deplanata (J. Steiner) Motyka SPECIES
-=======
+# Tephromela deplanata (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

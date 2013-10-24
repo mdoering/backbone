@@ -1,5 +1,4 @@
-Lecanora luteorufa J. Steiner SPECIES
-=======
+# Lecanora luteorufa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

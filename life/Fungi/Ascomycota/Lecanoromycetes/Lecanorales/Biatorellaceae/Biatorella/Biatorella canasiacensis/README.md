@@ -1,5 +1,4 @@
-Biatorella canasiacensis (Hue) H. Olivier SPECIES
-=======
+# Biatorella canasiacensis (Hue) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

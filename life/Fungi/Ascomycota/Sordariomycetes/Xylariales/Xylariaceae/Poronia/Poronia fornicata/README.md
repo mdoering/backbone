@@ -1,5 +1,4 @@
-Poronia fornicata Möller SPECIES
-=======
+# Poronia fornicata Möller SPECIES
 
 #### Status
 ACCEPTED

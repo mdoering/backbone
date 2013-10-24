@@ -1,5 +1,4 @@
-Brunaudia abietis (Richon) Kuntze SPECIES
-=======
+# Brunaudia abietis (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

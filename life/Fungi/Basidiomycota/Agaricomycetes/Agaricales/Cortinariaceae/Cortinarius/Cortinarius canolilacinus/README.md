@@ -1,5 +1,4 @@
-Cortinarius canolilacinus Britzelm. SPECIES
-=======
+# Cortinarius canolilacinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

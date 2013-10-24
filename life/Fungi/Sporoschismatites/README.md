@@ -1,5 +1,4 @@
-Sporoschismatites Babajan & Tasl. GENUS
-=======
+# Sporoschismatites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete fuscoviolascens (Mont.) Van der Byl SPECIES
-=======
+# Hymenochaete fuscoviolascens (Mont.) Van der Byl SPECIES
 
 #### Status
 ACCEPTED

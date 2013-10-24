@@ -1,5 +1,4 @@
-Ustalia ochracea (Hepp) Mont. & Bosch SPECIES
-=======
+# Ustalia ochracea (Hepp) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

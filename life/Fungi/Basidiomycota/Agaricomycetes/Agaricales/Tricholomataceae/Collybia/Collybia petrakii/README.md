@@ -1,5 +1,4 @@
-Collybia petrakii Hruby SPECIES
-=======
+# Collybia petrakii Hruby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aromatica Tassi SPECIES
-=======
+# Phyllosticta aromatica Tassi SPECIES
 
 #### Status
 ACCEPTED

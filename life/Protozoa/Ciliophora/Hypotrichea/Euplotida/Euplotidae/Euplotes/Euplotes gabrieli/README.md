@@ -1,5 +1,4 @@
-Euplotes gabrieli SPECIES
-=======
+# Euplotes gabrieli SPECIES
 
 #### Status
 ACCEPTED

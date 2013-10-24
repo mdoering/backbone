@@ -1,5 +1,4 @@
-Stilbum Tode, 1790 GENUS
-=======
+# Stilbum Tode, 1790 GENUS
 
 #### Status
 ACCEPTED

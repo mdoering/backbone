@@ -1,5 +1,4 @@
-Rhizoctonia grisea (J.A. Stev.) Matz SPECIES
-=======
+# Rhizoctonia grisea (J.A. Stev.) Matz SPECIES
 
 #### Status
 ACCEPTED

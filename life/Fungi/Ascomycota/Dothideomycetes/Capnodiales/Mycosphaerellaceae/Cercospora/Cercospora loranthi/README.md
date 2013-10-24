@@ -1,5 +1,4 @@
-Cercospora loranthi McAlpine SPECIES
-=======
+# Cercospora loranthi McAlpine SPECIES
 
 #### Status
 ACCEPTED

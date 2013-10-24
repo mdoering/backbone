@@ -1,5 +1,4 @@
-Phaeaspis GENUS
-=======
+# Phaeaspis GENUS
 
 #### Status
 ACCEPTED

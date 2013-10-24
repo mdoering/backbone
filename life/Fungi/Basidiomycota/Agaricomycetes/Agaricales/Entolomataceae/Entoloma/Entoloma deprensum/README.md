@@ -1,5 +1,4 @@
-Entoloma deprensum E. Horak, 2008 SPECIES
-=======
+# Entoloma deprensum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

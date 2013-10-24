@@ -1,5 +1,4 @@
-Sphaeromonas E. Liebet. GENUS
-=======
+# Sphaeromonas E. Liebet. GENUS
 
 #### Status
 ACCEPTED

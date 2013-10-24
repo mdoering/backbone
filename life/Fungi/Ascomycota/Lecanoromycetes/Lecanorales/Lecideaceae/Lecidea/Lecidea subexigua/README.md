@@ -1,5 +1,4 @@
-Lecidea subexigua Vain. SPECIES
-=======
+# Lecidea subexigua Vain. SPECIES
 
 #### Status
 ACCEPTED

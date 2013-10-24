@@ -1,5 +1,4 @@
-Llimoniella caloplacae S.Y. Kondr. & Khodos. SPECIES
-=======
+# Llimoniella caloplacae S.Y. Kondr. & Khodos. SPECIES
 
 #### Status
 ACCEPTED

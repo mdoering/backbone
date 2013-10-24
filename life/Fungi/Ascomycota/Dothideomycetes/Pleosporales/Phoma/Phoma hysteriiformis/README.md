@@ -1,5 +1,4 @@
-Phoma hysteriiformis Cooke SPECIES
-=======
+# Phoma hysteriiformis Cooke SPECIES
 
 #### Status
 ACCEPTED

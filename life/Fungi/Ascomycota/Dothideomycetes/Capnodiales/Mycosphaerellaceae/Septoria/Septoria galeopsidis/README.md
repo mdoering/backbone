@@ -1,5 +1,4 @@
-Septoria galeopsidis Westend., 1857 SPECIES
-=======
+# Septoria galeopsidis Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boveria tapetis Delphy, 1938 SPECIES
-=======
+# Boveria tapetis Delphy, 1938 SPECIES
 
 #### Status
 ACCEPTED

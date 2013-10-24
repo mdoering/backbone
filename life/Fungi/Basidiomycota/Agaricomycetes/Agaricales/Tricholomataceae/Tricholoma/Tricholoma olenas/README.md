@@ -1,5 +1,4 @@
-Tricholoma olenas SPECIES
-=======
+# Tricholoma olenas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium intermixtum McAlpine SPECIES
-=======
+# Gloeosporium intermixtum McAlpine SPECIES
 
 #### Status
 ACCEPTED

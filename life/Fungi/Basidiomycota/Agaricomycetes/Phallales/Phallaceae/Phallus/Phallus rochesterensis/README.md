@@ -1,5 +1,4 @@
-Phallus rochesterensis Lloyd SPECIES
-=======
+# Phallus rochesterensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

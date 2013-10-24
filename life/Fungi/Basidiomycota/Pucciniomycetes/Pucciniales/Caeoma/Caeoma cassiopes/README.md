@@ -1,17 +1,16 @@
-Caeoma cassiopae P.E. Crane SPECIES
-=======
+# Caeoma cassiopes P.E. Crane SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 95(1): 156 (2003)
 
 #### Original name
-Caeoma cassiopae P.E. Crane
+Caeoma cassiopes P.E. Crane
 
 ### Remarks
 null

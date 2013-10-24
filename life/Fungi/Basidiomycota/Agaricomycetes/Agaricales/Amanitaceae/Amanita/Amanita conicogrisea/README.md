@@ -1,5 +1,4 @@
-Amanita conicogrisea A.E. Wood SPECIES
-=======
+# Amanita conicogrisea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

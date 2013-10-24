@@ -1,5 +1,4 @@
-Chaetomium microsporum Speg. SPECIES
-=======
+# Chaetomium microsporum Speg. SPECIES
 
 #### Status
 ACCEPTED

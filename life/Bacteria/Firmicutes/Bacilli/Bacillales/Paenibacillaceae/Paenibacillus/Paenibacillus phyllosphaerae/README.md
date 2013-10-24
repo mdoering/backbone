@@ -1,5 +1,4 @@
-Paenibacillus phyllosphaerae Rivas et al., 2005 SPECIES
-=======
+# Paenibacillus phyllosphaerae Rivas et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

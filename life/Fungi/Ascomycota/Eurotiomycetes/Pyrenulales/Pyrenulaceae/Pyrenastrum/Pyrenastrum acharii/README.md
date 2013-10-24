@@ -1,5 +1,4 @@
-Pyrenastrum acharii Mont. SPECIES
-=======
+# Pyrenastrum acharii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium fumigatum Burt SPECIES
-=======
+# Septobasidium fumigatum Burt SPECIES
 
 #### Status
 ACCEPTED

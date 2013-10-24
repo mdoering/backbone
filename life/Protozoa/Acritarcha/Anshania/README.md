@@ -1,5 +1,4 @@
-Anshania O.-Y. Shu, 1979 GENUS
-=======
+# Anshania O.-Y. Shu, 1979 GENUS
 
 #### Status
 ACCEPTED

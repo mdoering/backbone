@@ -1,5 +1,4 @@
-Aporomyces subulatus Thaxt., 1931 SPECIES
-=======
+# Aporomyces subulatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

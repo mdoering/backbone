@@ -1,5 +1,4 @@
-Ophiobolus trichisporus Ellis & Everh., 1890 SPECIES
-=======
+# Ophiobolus trichisporus Ellis & Everh., 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium frederici (Kalb) Kalb & Lücking SPECIES
-=======
+# Coenogonium frederici (Kalb) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

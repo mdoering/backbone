@@ -1,5 +1,4 @@
-Dictyopteris diaphana W.R. Taylor SPECIES
-=======
+# Dictyopteris diaphana W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

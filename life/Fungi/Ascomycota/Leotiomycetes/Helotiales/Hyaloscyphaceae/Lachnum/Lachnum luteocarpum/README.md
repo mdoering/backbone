@@ -1,5 +1,4 @@
-Lachnum luteocarpum M.P. Sharma SPECIES
-=======
+# Lachnum luteocarpum M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

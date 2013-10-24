@@ -1,5 +1,4 @@
-Clavicorona amazonensis Corner SPECIES
-=======
+# Clavicorona amazonensis Corner SPECIES
 
 #### Status
 ACCEPTED

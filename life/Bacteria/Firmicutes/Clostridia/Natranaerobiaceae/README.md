@@ -1,5 +1,4 @@
-Natranaerobiaceae FAMILY
-=======
+# Natranaerobiaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochilioides littoralis Jankowski, 1967 SPECIES
-=======
+# Trochilioides littoralis Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

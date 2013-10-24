@@ -1,5 +1,4 @@
-Biatoridium elegans (Hepp) Reinke SPECIES
-=======
+# Biatoridium elegans (Hepp) Reinke SPECIES
 
 #### Status
 ACCEPTED

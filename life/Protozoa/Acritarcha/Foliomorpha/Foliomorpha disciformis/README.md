@@ -1,5 +1,4 @@
-Foliomorpha disciformis Yan Yuzhong, 1985 SPECIES
-=======
+# Foliomorpha disciformis Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

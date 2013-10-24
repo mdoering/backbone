@@ -1,5 +1,4 @@
-Glomus glomerulatum Sieverd., 1987 SPECIES
-=======
+# Glomus glomerulatum Sieverd., 1987 SPECIES
 
 #### Status
 ACCEPTED

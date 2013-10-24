@@ -1,5 +1,4 @@
-Jannaschia rubra Macián et al., 2005 SPECIES
-=======
+# Jannaschia rubra Macián et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

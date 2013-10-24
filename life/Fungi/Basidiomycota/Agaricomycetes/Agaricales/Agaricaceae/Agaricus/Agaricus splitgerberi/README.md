@@ -1,5 +1,4 @@
-Agaricus splitgerberi Mont. SPECIES
-=======
+# Agaricus splitgerberi Mont. SPECIES
 
 #### Status
 ACCEPTED

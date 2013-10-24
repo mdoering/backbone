@@ -1,5 +1,4 @@
-Heterocapsa F. Stein, 1883 GENUS
-=======
+# Heterocapsa F. Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

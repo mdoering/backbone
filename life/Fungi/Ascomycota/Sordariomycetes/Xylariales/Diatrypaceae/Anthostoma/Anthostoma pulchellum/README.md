@@ -1,5 +1,4 @@
-Anthostoma pulchellum Schulzer ex Hazsl. SPECIES
-=======
+# Anthostoma pulchellum Schulzer ex Hazsl. SPECIES
 
 #### Status
 ACCEPTED

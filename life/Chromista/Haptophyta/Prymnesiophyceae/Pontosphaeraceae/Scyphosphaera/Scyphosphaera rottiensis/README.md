@@ -1,5 +1,4 @@
-Scyphosphaera rottiensis Jafar, 1975 SPECIES
-=======
+# Scyphosphaera rottiensis Jafar, 1975 SPECIES
 
 #### Status
 ACCEPTED

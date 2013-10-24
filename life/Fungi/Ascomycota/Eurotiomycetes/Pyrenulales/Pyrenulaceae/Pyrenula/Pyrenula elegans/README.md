@@ -1,5 +1,4 @@
-Pyrenula elegans Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula elegans Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coltricia fonsecoensis W.B. Cooke & Bonar SPECIES
-=======
+# Coltricia fonsecoensis W.B. Cooke & Bonar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus biskeletalis Corner, 1984 SPECIES
-=======
+# Polyporus biskeletalis Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

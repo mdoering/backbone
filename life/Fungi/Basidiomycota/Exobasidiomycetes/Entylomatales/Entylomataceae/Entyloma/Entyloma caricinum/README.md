@@ -1,5 +1,4 @@
-Entyloma caricinum Rostr. SPECIES
-=======
+# Entyloma caricinum Rostr. SPECIES
 
 #### Status
 ACCEPTED

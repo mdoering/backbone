@@ -1,5 +1,4 @@
-Ogataea naganishii (K. Kodama) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea naganishii (K. Kodama) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

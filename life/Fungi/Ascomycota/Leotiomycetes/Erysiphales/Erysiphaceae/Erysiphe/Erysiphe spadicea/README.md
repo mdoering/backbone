@@ -1,5 +1,4 @@
-Erysiphe spadicea Berk. & M.A. Curtis SPECIES
-=======
+# Erysiphe spadicea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

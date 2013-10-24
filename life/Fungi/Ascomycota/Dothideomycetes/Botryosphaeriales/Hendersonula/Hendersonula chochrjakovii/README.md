@@ -1,5 +1,4 @@
-Hendersonula chochrjakovii Hüseyin SPECIES
-=======
+# Hendersonula chochrjakovii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

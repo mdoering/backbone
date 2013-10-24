@@ -1,5 +1,4 @@
-Asterina pouzolziicola Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina pouzolziicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypha sulphurea Nees SPECIES
-=======
+# Hypha sulphurea Nees SPECIES
 
 #### Status
 ACCEPTED

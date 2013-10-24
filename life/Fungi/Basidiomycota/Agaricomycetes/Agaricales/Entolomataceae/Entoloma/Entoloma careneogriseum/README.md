@@ -1,5 +1,4 @@
-Entoloma careneogriseum (Berk. & Br.) Noordel., 1987 SPECIES
-=======
+# Entoloma careneogriseum (Berk. & Br.) Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

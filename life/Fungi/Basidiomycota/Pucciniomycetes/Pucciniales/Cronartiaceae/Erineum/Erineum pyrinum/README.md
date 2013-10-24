@@ -1,5 +1,4 @@
-Erineum pyrinum Pers. SPECIES
-=======
+# Erineum pyrinum Pers. SPECIES
 
 #### Status
 ACCEPTED

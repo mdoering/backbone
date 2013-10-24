@@ -1,14 +1,13 @@
-Auerswaldia merrillii Henn., 1908 SPECIES
-=======
+# Sphaerodothis merrillii (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 47: 255 (1908)
+Annls mycol. 13(5/6): 578 (1915)
 
 #### Original name
 Auerswaldia merrillii Henn., 1908

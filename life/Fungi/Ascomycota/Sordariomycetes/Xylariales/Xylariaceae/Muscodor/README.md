@@ -1,5 +1,4 @@
-Muscodor Worapong, Strobel & W.M. Hess GENUS
-=======
+# Muscodor Worapong, Strobel & W.M. Hess GENUS
 
 #### Status
 ACCEPTED

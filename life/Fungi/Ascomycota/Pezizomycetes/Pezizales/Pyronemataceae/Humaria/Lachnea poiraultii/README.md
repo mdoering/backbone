@@ -1,5 +1,4 @@
-Lachnea poiraultii Boud. SPECIES
-=======
+# Lachnea poiraultii Boud. SPECIES
 
 #### Status
 ACCEPTED

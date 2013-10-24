@@ -1,14 +1,13 @@
-Hypodermella punctata Darker, 1932 SPECIES
-=======
+# Lirula punctata (Darker) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Arnold Arbor. 1: 48 (1932)
+Can. J. Bot. 45: 1422 (1967)
 
 #### Original name
 Hypodermella punctata Darker, 1932

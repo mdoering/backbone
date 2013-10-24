@@ -1,5 +1,4 @@
-Boletus undulatus Schwein. SPECIES
-=======
+# Boletus undulatus Schwein. SPECIES
 
 #### Status
 ACCEPTED

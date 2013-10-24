@@ -1,5 +1,4 @@
-Alternaria arachidis R.L. Kulk. SPECIES
-=======
+# Alternaria arachidis R.L. Kulk. SPECIES
 
 #### Status
 ACCEPTED

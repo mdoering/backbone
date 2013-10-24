@@ -1,14 +1,13 @@
-Atractobolus flavovirens (Bres.) Kuntze, 1898 SPECIES
-=======
+# Lachnellula flavovirens (Bres.) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 445 (1898)
+Persoonia 2(2): 184 (1962)
 
 #### Original name
 Dasyscyphus flavovirens Bres., 1892

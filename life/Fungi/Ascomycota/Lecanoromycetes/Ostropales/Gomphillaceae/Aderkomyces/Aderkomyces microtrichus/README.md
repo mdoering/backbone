@@ -1,5 +1,4 @@
-Aderkomyces microtrichus (Lücking & Kalb) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces microtrichus (Lücking & Kalb) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

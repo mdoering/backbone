@@ -1,5 +1,4 @@
-Pistillaria tenera Corner SPECIES
-=======
+# Pistillaria tenera Corner SPECIES
 
 #### Status
 ACCEPTED

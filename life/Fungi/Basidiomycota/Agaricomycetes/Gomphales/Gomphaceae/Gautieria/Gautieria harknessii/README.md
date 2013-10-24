@@ -1,5 +1,4 @@
-Gautieria harknessii Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria harknessii Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

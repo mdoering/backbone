@@ -1,5 +1,4 @@
-Alnicola lignicola Singer SPECIES
-=======
+# Alnicola lignicola Singer SPECIES
 
 #### Status
 ACCEPTED

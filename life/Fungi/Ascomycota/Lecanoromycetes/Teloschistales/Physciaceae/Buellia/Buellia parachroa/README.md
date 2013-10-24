@@ -1,5 +1,4 @@
-Buellia parachroa Vain. SPECIES
-=======
+# Buellia parachroa Vain. SPECIES
 
 #### Status
 ACCEPTED

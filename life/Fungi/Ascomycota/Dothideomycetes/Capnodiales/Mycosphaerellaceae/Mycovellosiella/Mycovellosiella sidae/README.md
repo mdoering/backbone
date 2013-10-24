@@ -1,5 +1,4 @@
-Mycovellosiella sidae (Olive) Deighton SPECIES
-=======
+# Mycovellosiella sidae (Olive) Deighton SPECIES
 
 #### Status
 ACCEPTED

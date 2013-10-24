@@ -1,5 +1,4 @@
-Nidularia byssiseda Jungh. SPECIES
-=======
+# Nidularia byssiseda Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia roseotecta Homchant. & Coppins SPECIES
-=======
+# Ocellularia roseotecta Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

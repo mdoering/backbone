@@ -1,5 +1,4 @@
-Parapeltella rosacearum Bat. SPECIES
-=======
+# Parapeltella rosacearum Bat. SPECIES
 
 #### Status
 ACCEPTED

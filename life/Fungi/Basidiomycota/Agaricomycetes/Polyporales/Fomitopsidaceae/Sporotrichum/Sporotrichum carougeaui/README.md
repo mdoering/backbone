@@ -1,5 +1,4 @@
-Sporotrichum carougeaui Langeron SPECIES
-=======
+# Sporotrichum carougeaui Langeron SPECIES
 
 #### Status
 ACCEPTED

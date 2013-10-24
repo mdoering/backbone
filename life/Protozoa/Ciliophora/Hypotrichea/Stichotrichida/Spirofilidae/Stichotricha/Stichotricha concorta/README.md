@@ -1,5 +1,4 @@
-Stichotricha concorta SPECIES
-=======
+# Stichotricha concorta SPECIES
 
 #### Status
 ACCEPTED

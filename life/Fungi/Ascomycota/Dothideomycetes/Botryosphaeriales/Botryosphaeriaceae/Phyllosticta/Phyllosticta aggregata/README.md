@@ -1,5 +1,4 @@
-Phyllosticta aggregata Mig. SPECIES
-=======
+# Phyllosticta aggregata Mig. SPECIES
 
 #### Status
 ACCEPTED

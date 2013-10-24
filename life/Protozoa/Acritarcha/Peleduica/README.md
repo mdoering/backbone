@@ -1,5 +1,4 @@
-Peleduica V.G. Pjatiletov, 1980 GENUS
-=======
+# Peleduica V.G. Pjatiletov, 1980 GENUS
 
 #### Status
 ACCEPTED

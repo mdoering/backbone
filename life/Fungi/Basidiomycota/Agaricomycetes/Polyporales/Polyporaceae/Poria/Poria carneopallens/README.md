@@ -1,5 +1,4 @@
-Poria carneopallens var. carneopallens VARIETY
-=======
+# Poria carneopallens (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 6: 302 (1888)
 
 #### Original name
-Poria carneopallens var. carneopallens
+Polyporus carneopallens Berk.
 
 ### Remarks
 null

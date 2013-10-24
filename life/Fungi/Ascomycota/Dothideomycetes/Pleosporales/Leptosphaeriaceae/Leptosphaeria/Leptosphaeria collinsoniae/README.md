@@ -1,5 +1,4 @@
-Leptosphaeria collinsoniae Dearn. & House, 1921 SPECIES
-=======
+# Leptosphaeria collinsoniae Dearn. & House, 1921 SPECIES
 
 #### Status
 ACCEPTED

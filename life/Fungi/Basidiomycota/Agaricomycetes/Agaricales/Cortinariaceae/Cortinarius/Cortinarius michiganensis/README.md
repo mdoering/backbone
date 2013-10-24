@@ -1,5 +1,4 @@
-Cortinarius michiganensis Kauffman SPECIES
-=======
+# Cortinarius michiganensis Kauffman SPECIES
 
 #### Status
 ACCEPTED

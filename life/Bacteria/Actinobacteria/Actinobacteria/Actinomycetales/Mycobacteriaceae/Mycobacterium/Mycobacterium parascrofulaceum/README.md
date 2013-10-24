@@ -1,5 +1,4 @@
-Mycobacterium parascrofulaceum Turenne et al., 2004 SPECIES
-=======
+# Mycobacterium parascrofulaceum Turenne et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

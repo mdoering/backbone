@@ -1,5 +1,4 @@
-Helcococcus ovis Collins et al., 1999 SPECIES
-=======
+# Helcococcus ovis Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

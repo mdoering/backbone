@@ -1,5 +1,4 @@
-Pestalotia anthurii Henn. SPECIES
-=======
+# Pestalotia anthurii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepista procera Sacc. SPECIES
-=======
+# Lepista procera Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pholiota glutinosa var. glutinosa (Massee) E. Horak VARIETY
-=======
+# Pholiota glutinosa (Massee) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 426 (1971)
 
 #### Original name
-Pholiota glutinosa var. glutinosa (Massee) E. Horak
+Hypholoma glutinosum Massee, 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetomium orientum D.K. Saha SPECIES
-=======
+# Chaetomium orientum D.K. Saha SPECIES
 
 #### Status
 ACCEPTED

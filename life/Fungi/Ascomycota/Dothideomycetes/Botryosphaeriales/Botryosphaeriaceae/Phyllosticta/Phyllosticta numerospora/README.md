@@ -1,5 +1,4 @@
-Phyllosticta numerospora H.C. Greene SPECIES
-=======
+# Phyllosticta numerospora H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

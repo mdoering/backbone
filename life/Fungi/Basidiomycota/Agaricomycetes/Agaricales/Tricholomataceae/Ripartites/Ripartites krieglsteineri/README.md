@@ -1,5 +1,4 @@
-Ripartites krieglsteineri Enderle & Bon, 1990 SPECIES
-=======
+# Ripartites krieglsteineri Enderle & Bon, 1990 SPECIES
 
 #### Status
 ACCEPTED

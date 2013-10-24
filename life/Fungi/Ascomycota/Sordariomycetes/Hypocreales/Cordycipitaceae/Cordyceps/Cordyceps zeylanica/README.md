@@ -1,5 +1,4 @@
-Cordyceps zeylanica Berk. SPECIES
-=======
+# Cordyceps zeylanica Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peccania minuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Peccania minuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

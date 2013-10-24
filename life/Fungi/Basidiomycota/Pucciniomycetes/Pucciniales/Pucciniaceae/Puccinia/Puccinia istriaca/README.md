@@ -1,5 +1,4 @@
-Puccinia istriaca Syd. SPECIES
-=======
+# Puccinia istriaca Syd. SPECIES
 
 #### Status
 ACCEPTED

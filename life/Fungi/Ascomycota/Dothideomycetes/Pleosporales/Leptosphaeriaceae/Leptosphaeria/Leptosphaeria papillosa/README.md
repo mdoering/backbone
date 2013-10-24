@@ -1,5 +1,4 @@
-Leptosphaeria papillosa Sousa da Câmara SPECIES
-=======
+# Leptosphaeria papillosa Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Menegazzia pertusa f. pertusa FORM
-=======
+# Menegazzia terebrata (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neagenea Lich 1 (1854)
 
 #### Original name
-Parmelia pertusa Schaer.
+Lobaria terebrata Hoffm.
 
 ### Remarks
 null

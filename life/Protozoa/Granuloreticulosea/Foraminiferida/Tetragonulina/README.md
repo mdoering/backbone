@@ -1,5 +1,4 @@
-Tetragonulina Seguenza, 1862 GENUS
-=======
+# Tetragonulina Seguenza, 1862 GENUS
 
 #### Status
 ACCEPTED

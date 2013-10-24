@@ -1,5 +1,4 @@
-Cyanobasidium GENUS
-=======
+# Cyanobasidium GENUS
 
 #### Status
 ACCEPTED

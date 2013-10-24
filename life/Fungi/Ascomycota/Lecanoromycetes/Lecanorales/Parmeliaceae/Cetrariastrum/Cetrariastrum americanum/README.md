@@ -1,5 +1,4 @@
-Cetrariastrum americanum (Meyen & Flot.) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum americanum (Meyen & Flot.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

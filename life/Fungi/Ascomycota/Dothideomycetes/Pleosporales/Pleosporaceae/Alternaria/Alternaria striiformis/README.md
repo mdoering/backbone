@@ -1,14 +1,13 @@
-Alternaria striaeformis (Syd.) P. Joly SPECIES
-=======
+# Alternaria striiformis (Syd.) P. Joly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Le Genre Alternaria (Encycl. Mycol. ) 216 (1964)
 
 #### Original name
 Macrosporium striiformis Syd.

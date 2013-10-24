@@ -1,5 +1,4 @@
-Myxotrichella GENUS
-=======
+# Myxotrichella GENUS
 
 #### Status
 ACCEPTED

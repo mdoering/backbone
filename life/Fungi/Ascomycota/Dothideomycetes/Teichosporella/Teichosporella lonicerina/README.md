@@ -1,5 +1,4 @@
-Teichosporella lonicerina Fairm. SPECIES
-=======
+# Teichosporella lonicerina Fairm. SPECIES
 
 #### Status
 ACCEPTED

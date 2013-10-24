@@ -1,5 +1,4 @@
-Ascochyta dolomitica Kabát & Bubák SPECIES
-=======
+# Ascochyta dolomitica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

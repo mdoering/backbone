@@ -1,5 +1,4 @@
-Lophosphaeridium grumosum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Lophosphaeridium grumosum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

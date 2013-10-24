@@ -1,5 +1,4 @@
-Puccinia crepidis-pygmaeae Gaillard SPECIES
-=======
+# Puccinia crepidis-pygmaeae Gaillard SPECIES
 
 #### Status
 ACCEPTED

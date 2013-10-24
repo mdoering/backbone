@@ -1,5 +1,4 @@
-Cylindrocarpon magnusianum Wollenw., 1928 SPECIES
-=======
+# Cylindrocarpon magnusianum Wollenw., 1928 SPECIES
 
 #### Status
 ACCEPTED

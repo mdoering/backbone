@@ -1,5 +1,4 @@
-Allomyces kniepii Sörgel SPECIES
-=======
+# Allomyces kniepii Sörgel SPECIES
 
 #### Status
 ACCEPTED

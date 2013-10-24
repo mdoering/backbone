@@ -1,5 +1,4 @@
-Platygrapha banksiae Müll. Arg. SPECIES
-=======
+# Platygrapha banksiae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

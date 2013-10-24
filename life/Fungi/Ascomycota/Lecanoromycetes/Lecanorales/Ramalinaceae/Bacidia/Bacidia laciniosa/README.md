@@ -1,5 +1,4 @@
-Bacidia laciniosa Swinscow & Krog SPECIES
-=======
+# Bacidia laciniosa Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

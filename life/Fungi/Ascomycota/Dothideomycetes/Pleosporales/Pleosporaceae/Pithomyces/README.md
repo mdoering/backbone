@@ -1,17 +1,16 @@
-Neomichelia Penz. & Sacc. GENUS
-=======
+# Pithomyces Berkeley & Broome, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Malpighia 15: 246 (1901)
+null
 
 #### Original name
-Neomichelia Penz. & Sacc.
+null
 
 ### Remarks
 null

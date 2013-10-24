@@ -1,5 +1,4 @@
-Boletus oregonensis Murrill SPECIES
-=======
+# Boletus oregonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

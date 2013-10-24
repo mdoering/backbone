@@ -1,5 +1,4 @@
-Salpingella subconica Kofoid & Campbell, 1929 SPECIES
-=======
+# Salpingella subconica Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flabellospora verticillata Alas., 1968 SPECIES
-=======
+# Flabellospora verticillata Alas., 1968 SPECIES
 
 #### Status
 ACCEPTED

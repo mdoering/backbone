@@ -1,5 +1,4 @@
-Sphaeropezia bambusina Hara SPECIES
-=======
+# Sphaeropezia bambusina Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraheliophrya Yankovskii, 1978 GENUS
-=======
+# Paraheliophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

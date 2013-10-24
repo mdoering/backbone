@@ -1,5 +1,4 @@
-Athelopsis pausiaca (Liberta) Parmasto SPECIES
-=======
+# Athelopsis pausiaca (Liberta) Parmasto SPECIES
 
 #### Status
 ACCEPTED

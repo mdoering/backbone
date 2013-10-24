@@ -1,5 +1,4 @@
-Verrucaria subcinerea Nyl. SPECIES
-=======
+# Verrucaria subcinerea Nyl. SPECIES
 
 #### Status
 ACCEPTED

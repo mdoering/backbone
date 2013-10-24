@@ -1,5 +1,4 @@
-Bacillus globisporus Larkin & Stokes, 1967 SPECIES
-=======
+# Bacillus globisporus Larkin & Stokes, 1967 SPECIES
 
 #### Status
 ACCEPTED

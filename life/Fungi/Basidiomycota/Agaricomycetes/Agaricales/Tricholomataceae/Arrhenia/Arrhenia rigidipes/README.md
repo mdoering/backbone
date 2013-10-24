@@ -1,14 +1,13 @@
-Omphalina rigidipes Lamoure, 1982 SPECIES
-=======
+# Arrhenia rigidipes (Lamoure) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arctic and Alpine Mycology (Seattle), First International Symposium on Arcto-Alpine Mycology, 1980 207 (1982)
+Mycotaxon 83: 48 (2002)
 
 #### Original name
 Omphalina rigidipes Lamoure, 1982

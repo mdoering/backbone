@@ -1,5 +1,4 @@
-Thermacetogenium Hattori, Kamagata, Hanada & Shoun, 2000 GENUS
-=======
+# Thermacetogenium Hattori, Kamagata, Hanada & Shoun, 2000 GENUS
 
 #### Status
 ACCEPTED

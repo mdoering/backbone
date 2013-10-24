@@ -1,5 +1,4 @@
-Sphaeria deperdita Heer SPECIES
-=======
+# Sphaeria deperdita Heer SPECIES
 
 #### Status
 ACCEPTED

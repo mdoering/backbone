@@ -1,5 +1,4 @@
-Laestadia cicutae (Kirchn.) Sacc. SPECIES
-=======
+# Laestadia cicutae (Kirchn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

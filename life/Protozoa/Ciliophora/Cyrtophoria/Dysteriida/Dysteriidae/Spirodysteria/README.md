@@ -1,5 +1,4 @@
-Spirodysteria GENUS
-=======
+# Spirodysteria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidiidae Galloway, 1933 FAMILY
-=======
+# Elphidiidae Galloway, 1933 FAMILY
 
 #### Status
 ACCEPTED

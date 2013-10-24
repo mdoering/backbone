@@ -1,5 +1,4 @@
-Crepidotus milleri Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus milleri Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

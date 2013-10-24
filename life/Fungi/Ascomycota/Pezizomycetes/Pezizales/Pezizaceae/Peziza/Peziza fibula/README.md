@@ -1,5 +1,4 @@
-Peziza fibula Pers. SPECIES
-=======
+# Peziza fibula Pers. SPECIES
 
 #### Status
 ACCEPTED

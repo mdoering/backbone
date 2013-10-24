@@ -1,5 +1,4 @@
-Cortinarius holoxanthus (M.M. Moser & I. Gruber) Nezdojm. SPECIES
-=======
+# Cortinarius holoxanthus (M.M. Moser & I. Gruber) Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

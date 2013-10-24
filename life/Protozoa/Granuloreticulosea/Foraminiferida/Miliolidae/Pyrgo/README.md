@@ -1,14 +1,13 @@
-Pirgo Defrance, 1826 GENUS
-=======
+# Pyrgo Defrance, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dict. Sci. Nat. , 41, 129.
+Dict. Sci. Nat. , 32, 273.
 
 #### Original name
 null

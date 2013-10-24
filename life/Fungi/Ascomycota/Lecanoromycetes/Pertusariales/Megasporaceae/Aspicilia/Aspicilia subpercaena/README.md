@@ -1,5 +1,4 @@
-Aspicilia subpercaena Szatala SPECIES
-=======
+# Aspicilia subpercaena Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas inflata var. crenulatocollis Skvortzov VARIETY
-=======
+# Trachelomonas inflata Skvortzov SPECIES
 
 #### Status
 ACCEPTED

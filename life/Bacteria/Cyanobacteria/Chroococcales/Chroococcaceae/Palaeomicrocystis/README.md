@@ -1,5 +1,4 @@
-Palaeomicrocystis K.B. Korde, 1955 GENUS
-=======
+# Palaeomicrocystis K.B. Korde, 1955 GENUS
 
 #### Status
 ACCEPTED

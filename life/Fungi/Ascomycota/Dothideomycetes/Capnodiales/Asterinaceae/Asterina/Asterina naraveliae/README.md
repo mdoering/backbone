@@ -1,5 +1,4 @@
-Asterina naraveliae Hosag., C.K. Biju & D.K. Agarwal SPECIES
-=======
+# Asterina naraveliae Hosag., C.K. Biju & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

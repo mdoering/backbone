@@ -1,5 +1,4 @@
-Ophioceras majusculum Penz. & Sacc. SPECIES
-=======
+# Ophioceras majusculum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

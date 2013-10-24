@@ -1,5 +1,4 @@
-Erysiphe katumotoi (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe katumotoi (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

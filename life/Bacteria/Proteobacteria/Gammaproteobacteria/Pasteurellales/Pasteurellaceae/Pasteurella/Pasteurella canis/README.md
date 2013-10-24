@@ -1,5 +1,4 @@
-Pasteurella canis Mutters et al., 1985 SPECIES
-=======
+# Pasteurella canis Mutters et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

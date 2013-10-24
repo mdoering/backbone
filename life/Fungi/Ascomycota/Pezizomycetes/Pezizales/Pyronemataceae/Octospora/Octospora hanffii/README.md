@@ -1,5 +1,4 @@
-Octospora hanffii (Benkert) Yei Z. Wang SPECIES
-=======
+# Octospora hanffii (Benkert) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

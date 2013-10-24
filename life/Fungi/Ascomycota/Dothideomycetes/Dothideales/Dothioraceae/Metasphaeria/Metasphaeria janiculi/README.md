@@ -1,5 +1,4 @@
-Metasphaeria janiculi Pass. SPECIES
-=======
+# Metasphaeria janiculi Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza aurea Sowerby SPECIES
-=======
+# Peziza aurea Sowerby SPECIES
 
 #### Status
 ACCEPTED

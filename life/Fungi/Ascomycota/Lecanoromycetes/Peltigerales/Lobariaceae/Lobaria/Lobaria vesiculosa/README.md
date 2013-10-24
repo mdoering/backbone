@@ -1,5 +1,4 @@
-Lobaria vesiculosa anon. SPECIES
-=======
+# Lobaria vesiculosa anon. SPECIES
 
 #### Status
 ACCEPTED

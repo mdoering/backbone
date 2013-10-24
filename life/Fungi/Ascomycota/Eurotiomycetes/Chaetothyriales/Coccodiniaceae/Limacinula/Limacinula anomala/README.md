@@ -1,5 +1,4 @@
-Limacinula anomala (Cooke & Harkn.) D.R. Reynolds SPECIES
-=======
+# Limacinula anomala (Cooke & Harkn.) D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

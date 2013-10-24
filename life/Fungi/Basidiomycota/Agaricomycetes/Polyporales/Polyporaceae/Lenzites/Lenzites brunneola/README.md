@@ -1,5 +1,4 @@
-Lenzites brunneola Berk. SPECIES
-=======
+# Lenzites brunneola Berk. SPECIES
 
 #### Status
 ACCEPTED

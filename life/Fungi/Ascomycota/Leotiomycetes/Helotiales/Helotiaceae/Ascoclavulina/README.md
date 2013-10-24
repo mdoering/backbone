@@ -1,5 +1,4 @@
-Ascoclavulina Y. Otani GENUS
-=======
+# Ascoclavulina Y. Otani GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladynastrum anacardii Bat. & A.F. Vital SPECIES
-=======
+# Balladynastrum anacardii Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

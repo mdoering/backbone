@@ -1,17 +1,16 @@
-Agaricus parasiticus var. parasiticus VARIETY
-=======
+# Asterophora parasitica (Bull. ex Pers.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 171 (1951)
 
 #### Original name
-null
+Agaricus parasiticus Bull. ex Pers., 1801
 
 ### Remarks
 null

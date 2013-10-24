@@ -1,5 +1,4 @@
-Geoglossum viscosulum (Hazsl.) Sacc. SPECIES
-=======
+# Geoglossum viscosulum (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodiopsis microspora Sacc. SPECIES
-=======
+# Diplodiopsis microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

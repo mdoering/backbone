@@ -1,5 +1,4 @@
-Caeoma ligustri (Rabenh.) G. Winter SPECIES
-=======
+# Caeoma ligustri (Rabenh.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

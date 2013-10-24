@@ -1,5 +1,4 @@
-Didymoporisporonites Sheffy & Dilcher GENUS
-=======
+# Didymoporisporonites Sheffy & Dilcher GENUS
 
 #### Status
 ACCEPTED

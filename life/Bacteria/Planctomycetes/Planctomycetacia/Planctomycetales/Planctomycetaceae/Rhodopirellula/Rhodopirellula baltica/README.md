@@ -1,5 +1,4 @@
-Rhodopirellula baltica Schlesner et al., 2004 SPECIES
-=======
+# Rhodopirellula baltica Schlesner et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Setosynnema isthmosporum D.E. Shaw & B. Sutton, 1985 SPECIES
-=======
+# Setosynnema isthmosporum D.E. Shaw & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

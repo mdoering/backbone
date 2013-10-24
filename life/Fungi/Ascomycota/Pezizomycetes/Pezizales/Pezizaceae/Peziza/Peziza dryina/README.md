@@ -1,5 +1,4 @@
-Peziza dryina P. Karst. SPECIES
-=======
+# Peziza dryina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

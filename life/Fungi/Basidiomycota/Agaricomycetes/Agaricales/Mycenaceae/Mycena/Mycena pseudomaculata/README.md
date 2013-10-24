@@ -1,5 +1,4 @@
-Mycena pseudomaculata (Kalamees) Kalamees SPECIES
-=======
+# Mycena pseudomaculata (Kalamees) Kalamees SPECIES
 
 #### Status
 ACCEPTED

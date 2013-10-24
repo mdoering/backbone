@@ -1,5 +1,4 @@
-Sphaeria subsalsa P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria subsalsa P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

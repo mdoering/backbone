@@ -1,14 +1,13 @@
-Pseudothyridaria insitiva Petr., 1925 SPECIES
-=======
+# Valsaria petrakii Spooner, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(1/2): 36 (1925)
+Trans. Br. mycol. Soc. 86(3): 408 (1986)
 
 #### Original name
 Pseudothyridaria insitiva Petr., 1925

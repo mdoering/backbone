@@ -1,5 +1,4 @@
-Fusicoccum pyrorum Chupp & Clapp SPECIES
-=======
+# Fusicoccum pyrorum Chupp & Clapp SPECIES
 
 #### Status
 ACCEPTED

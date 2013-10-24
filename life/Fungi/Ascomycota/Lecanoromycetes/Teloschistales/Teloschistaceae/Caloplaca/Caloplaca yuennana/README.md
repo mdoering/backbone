@@ -1,5 +1,4 @@
-Caloplaca yuennana (Zahlbr.) Poelt & Hinter. SPECIES
-=======
+# Caloplaca yuennana (Zahlbr.) Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

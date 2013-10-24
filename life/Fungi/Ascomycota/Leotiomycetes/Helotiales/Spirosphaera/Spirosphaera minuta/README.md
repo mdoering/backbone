@@ -1,5 +1,4 @@
-Spirosphaera minuta Hennebert, 1968 SPECIES
-=======
+# Spirosphaera minuta Hennebert, 1968 SPECIES
 
 #### Status
 ACCEPTED

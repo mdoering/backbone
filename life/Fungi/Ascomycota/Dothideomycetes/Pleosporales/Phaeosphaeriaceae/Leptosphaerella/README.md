@@ -1,5 +1,4 @@
-Leptosphaerella GENUS
-=======
+# Leptosphaerella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium variabile var. variabile VARIETY
-=======
+# Placodium variabile SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium variabile var. variabile
+null
 
 ### Remarks
 null

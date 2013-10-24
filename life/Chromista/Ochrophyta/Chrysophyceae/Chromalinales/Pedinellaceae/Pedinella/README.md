@@ -1,5 +1,4 @@
-Pedinella Wyssotzki, 1887 GENUS
-=======
+# Pedinella Wyssotzki, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella ambigua Grunow SPECIES
-=======
+# Cyclotella ambigua Grunow SPECIES
 
 #### Status
 ACCEPTED

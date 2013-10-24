@@ -1,5 +1,4 @@
-Clavaria polymorpha var. rufa O.F. Müll. VARIETY
-=======
+# Clavaria polymorpha O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fl. Danic. 5 (1766)
+Fl. Danic. 5: tab. 775: 2 (1777)
 
 #### Original name
-Clavaria polymorpha var. rufa O.F. Müll.
+Clavaria polymorpha O.F. Müll.
 
 ### Remarks
 null

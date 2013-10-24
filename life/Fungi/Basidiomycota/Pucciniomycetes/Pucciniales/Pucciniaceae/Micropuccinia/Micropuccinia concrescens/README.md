@@ -1,5 +1,4 @@
-Micropuccinia concrescens (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia concrescens (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

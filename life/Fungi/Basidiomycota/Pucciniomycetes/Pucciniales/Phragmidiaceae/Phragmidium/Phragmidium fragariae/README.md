@@ -1,17 +1,16 @@
-Aregma obtusata Fr. SPECIES
-=======
+# Phragmidium fragariae G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Pilze 228 (1884)
 
 #### Original name
-Aregma obtusata Fr.
+Phragmidium fragariae G. Winter, 1884
 
 ### Remarks
 null

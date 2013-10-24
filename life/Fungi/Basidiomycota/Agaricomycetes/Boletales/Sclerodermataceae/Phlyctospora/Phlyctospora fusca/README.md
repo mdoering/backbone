@@ -1,5 +1,4 @@
-Phlyctospora fusca Corda SPECIES
-=======
+# Phlyctospora fusca Corda SPECIES
 
 #### Status
 ACCEPTED

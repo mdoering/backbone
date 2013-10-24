@@ -1,14 +1,13 @@
-Sticta glaucescens Kremp. SPECIES
-=======
+# Pseudocyphellaria glaucescens (Kremp.) Imshaug SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 334 (1880)
+Adapt. Antarct. Ecosys. 964 (1977)
 
 #### Original name
 Sticta glaucescens Kremp.

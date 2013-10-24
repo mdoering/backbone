@@ -1,5 +1,4 @@
-Puccinia dioscoreae Kom. SPECIES
-=======
+# Puccinia dioscoreae Kom. SPECIES
 
 #### Status
 ACCEPTED

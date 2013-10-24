@@ -1,5 +1,4 @@
-Sphaerella impatientina (Syd. & Hara) Sacc. SPECIES
-=======
+# Sphaerella impatientina (Syd. & Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

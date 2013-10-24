@@ -1,5 +1,4 @@
-Sclerotinia rhododendri E. Fisch. ex Wahrlich SPECIES
-=======
+# Sclerotinia rhododendri E. Fisch. ex Wahrlich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fimetaria (Murrill) Singer SPECIES
-=======
+# Mycena fimetaria (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

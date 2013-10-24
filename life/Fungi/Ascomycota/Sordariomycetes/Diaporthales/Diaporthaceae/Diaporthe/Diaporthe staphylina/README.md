@@ -1,5 +1,4 @@
-Diaporthe staphylina Ellis & Everh. SPECIES
-=======
+# Diaporthe staphylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

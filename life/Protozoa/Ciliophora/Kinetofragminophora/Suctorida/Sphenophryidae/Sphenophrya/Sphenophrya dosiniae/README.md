@@ -1,5 +1,4 @@
-Sphenophrya dosiniae Chatton & Lwoff, 1921 SPECIES
-=======
+# Sphenophrya dosiniae Chatton & Lwoff, 1921 SPECIES
 
 #### Status
 ACCEPTED

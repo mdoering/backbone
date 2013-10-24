@@ -1,5 +1,4 @@
-Phyllostictina steironematis (Dearn. & House) Petr. SPECIES
-=======
+# Phyllostictina steironematis (Dearn. & House) Petr. SPECIES
 
 #### Status
 ACCEPTED

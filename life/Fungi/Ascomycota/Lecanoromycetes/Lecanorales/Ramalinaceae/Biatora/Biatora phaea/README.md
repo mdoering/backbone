@@ -1,5 +1,4 @@
-Biatora phaea Flot. SPECIES
-=======
+# Biatora phaea Flot. SPECIES
 
 #### Status
 ACCEPTED

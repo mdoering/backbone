@@ -1,5 +1,4 @@
-Gloeosporium sansevieriae Verwoerd & du Plessis SPECIES
-=======
+# Gloeosporium sansevieriae Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

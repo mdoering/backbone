@@ -1,5 +1,4 @@
-Caloplaca crocodes (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca crocodes (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

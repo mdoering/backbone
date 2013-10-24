@@ -1,5 +1,4 @@
-Marasmius eligmophyllus De Seynes SPECIES
-=======
+# Marasmius eligmophyllus De Seynes SPECIES
 
 #### Status
 ACCEPTED

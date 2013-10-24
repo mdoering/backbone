@@ -1,5 +1,4 @@
-Septogloeum maculans Harkn. SPECIES
-=======
+# Septogloeum maculans Harkn. SPECIES
 
 #### Status
 ACCEPTED

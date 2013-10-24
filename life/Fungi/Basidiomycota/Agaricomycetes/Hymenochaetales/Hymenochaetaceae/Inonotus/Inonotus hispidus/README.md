@@ -1,17 +1,16 @@
-Xanthochrous hispidus f. hispidus FORM
-=======
+# Inonotus hispidus (Bull.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13: 199 (1897)
+Meddn Soc. Fauna Flora fenn. 5: 39 (1879)
 
 #### Original name
-Xanthochrous hispidus f. hispidus
+Boletus hispidus Bull., 1784
 
 ### Remarks
 null

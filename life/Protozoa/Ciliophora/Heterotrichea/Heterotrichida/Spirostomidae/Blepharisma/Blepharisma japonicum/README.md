@@ -1,5 +1,4 @@
-Blepharisma japonicum (Suzuki, 1954) Bhandary, 1962 SPECIES
-=======
+# Blepharisma japonicum (Suzuki, 1954) Bhandary, 1962 SPECIES
 
 #### Status
 ACCEPTED

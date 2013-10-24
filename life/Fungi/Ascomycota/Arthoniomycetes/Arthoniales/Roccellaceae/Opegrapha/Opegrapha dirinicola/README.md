@@ -1,5 +1,4 @@
-Opegrapha dirinicola Fink SPECIES
-=======
+# Opegrapha dirinicola Fink SPECIES
 
 #### Status
 ACCEPTED

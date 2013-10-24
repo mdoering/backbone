@@ -1,5 +1,4 @@
-Aposphaeria protea Peyronel SPECIES
-=======
+# Aposphaeria protea Peyronel SPECIES
 
 #### Status
 ACCEPTED

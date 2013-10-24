@@ -1,5 +1,4 @@
-Ceratosphaeria obliquata Feltgen SPECIES
-=======
+# Ceratosphaeria obliquata Feltgen SPECIES
 
 #### Status
 ACCEPTED

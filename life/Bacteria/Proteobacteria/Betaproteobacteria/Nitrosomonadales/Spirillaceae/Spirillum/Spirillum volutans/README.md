@@ -1,5 +1,4 @@
-Spirillum volutans Ehrenberg, 1832 (Approved Lists, 1980) SPECIES
-=======
+# Spirillum volutans Ehrenberg, 1832 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

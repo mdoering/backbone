@@ -1,5 +1,4 @@
-Phyllosticta lactucicola Hara & Ogawa SPECIES
-=======
+# Phyllosticta lactucicola Hara & Ogawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius washingtonensis Penn. SPECIES
-=======
+# Marasmius washingtonensis Penn. SPECIES
 
 #### Status
 ACCEPTED

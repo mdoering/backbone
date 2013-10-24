@@ -1,5 +1,4 @@
-Colispora elongata Marvanová, 1988 SPECIES
-=======
+# Colispora elongata Marvanová, 1988 SPECIES
 
 #### Status
 ACCEPTED

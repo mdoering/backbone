@@ -1,5 +1,4 @@
-Balantidium aragaoi Cunha & Muniz, 1927 SPECIES
-=======
+# Balantidium aragaoi Cunha & Muniz, 1927 SPECIES
 
 #### Status
 ACCEPTED

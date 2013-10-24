@@ -1,5 +1,4 @@
-Entoloma mongolicum Hauskn., Noordel. & Karasch SPECIES
-=======
+# Entoloma mongolicum Hauskn., Noordel. & Karasch SPECIES
 
 #### Status
 ACCEPTED

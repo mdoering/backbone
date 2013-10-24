@@ -1,5 +1,4 @@
-Lecanora tabidella Nyl. SPECIES
-=======
+# Lecanora tabidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

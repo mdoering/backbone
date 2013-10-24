@@ -1,5 +1,4 @@
-Mysticella striata (Schütt) M.C.Carbonell-Moore, 1994 SPECIES
-=======
+# Mysticella striata (Schütt) M.C.Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster wemmelensis Achuthan & Stradner, 1969 SPECIES
-=======
+# Discoaster wemmelensis Achuthan & Stradner, 1969 SPECIES
 
 #### Status
 ACCEPTED

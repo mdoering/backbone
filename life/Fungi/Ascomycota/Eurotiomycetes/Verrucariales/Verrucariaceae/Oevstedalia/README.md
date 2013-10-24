@@ -1,5 +1,4 @@
-Oevstedalia Ertz & Diederich GENUS
-=======
+# Oevstedalia Ertz & Diederich GENUS
 
 #### Status
 ACCEPTED

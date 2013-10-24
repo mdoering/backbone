@@ -1,5 +1,4 @@
-Lenzites yoshinagae Lloyd SPECIES
-=======
+# Lenzites yoshinagae Lloyd SPECIES
 
 #### Status
 ACCEPTED

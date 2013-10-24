@@ -1,5 +1,4 @@
-Paramecium africanum Dragesco, 1970 SPECIES
-=======
+# Paramecium africanum Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

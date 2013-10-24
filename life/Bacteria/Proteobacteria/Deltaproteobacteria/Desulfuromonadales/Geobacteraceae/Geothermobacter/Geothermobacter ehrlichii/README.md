@@ -1,5 +1,4 @@
-Geothermobacter ehrlichii Kashefi et al., 2005 SPECIES
-=======
+# Geothermobacter ehrlichii Kashefi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

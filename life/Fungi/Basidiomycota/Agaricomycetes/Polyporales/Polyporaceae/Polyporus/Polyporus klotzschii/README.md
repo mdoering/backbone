@@ -1,5 +1,4 @@
-Polyporus klotzschii Berk. SPECIES
-=======
+# Polyporus klotzschii Berk. SPECIES
 
 #### Status
 ACCEPTED

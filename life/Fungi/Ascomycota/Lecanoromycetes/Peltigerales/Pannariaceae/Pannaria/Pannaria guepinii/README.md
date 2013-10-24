@@ -1,14 +1,13 @@
-Pannaria guepini (Delise) Tuck. SPECIES
-=======
+# Pannaria guepinii (Delise) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Genera Lichenum: An arrangement of the North America lichens 51 (1872)
 
 #### Original name
 Endocarpon guepinii Delise

@@ -1,5 +1,4 @@
-Schizoblastosporon chiloense C. Ramírez & Gonzáles SPECIES
-=======
+# Schizoblastosporon chiloense C. Ramírez & Gonzáles SPECIES
 
 #### Status
 ACCEPTED

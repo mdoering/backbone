@@ -1,5 +1,4 @@
-Allapsa Howe, Bass, Vickerman, Chao & Cavalier-Smith, 2009 GENUS
-=======
+# Allapsa Howe, Bass, Vickerman, Chao & Cavalier-Smith, 2009 GENUS
 
 #### Status
 ACCEPTED

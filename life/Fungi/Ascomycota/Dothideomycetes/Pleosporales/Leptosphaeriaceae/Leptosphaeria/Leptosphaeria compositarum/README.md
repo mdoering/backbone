@@ -1,5 +1,4 @@
-Leptosphaeria compositarum E. Müll. SPECIES
-=======
+# Leptosphaeria compositarum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

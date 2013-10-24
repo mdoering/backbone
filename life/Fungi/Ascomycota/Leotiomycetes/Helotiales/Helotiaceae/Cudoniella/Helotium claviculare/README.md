@@ -1,5 +1,4 @@
-Helotium claviculare Wallr. SPECIES
-=======
+# Helotium claviculare Wallr. SPECIES
 
 #### Status
 ACCEPTED

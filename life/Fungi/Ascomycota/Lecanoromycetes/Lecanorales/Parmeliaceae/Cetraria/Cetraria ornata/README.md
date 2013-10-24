@@ -1,5 +1,4 @@
-Cetraria ornata Müll. Arg. SPECIES
-=======
+# Cetraria ornata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

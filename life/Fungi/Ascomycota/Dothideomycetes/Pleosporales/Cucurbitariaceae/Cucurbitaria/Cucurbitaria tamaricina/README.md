@@ -1,5 +1,4 @@
-Cucurbitaria tamaricina Smyk SPECIES
-=======
+# Cucurbitaria tamaricina Smyk SPECIES
 
 #### Status
 ACCEPTED

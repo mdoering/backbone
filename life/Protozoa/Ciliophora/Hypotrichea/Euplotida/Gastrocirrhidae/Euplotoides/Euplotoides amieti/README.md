@@ -1,8 +1,7 @@
-Euplotes amieti Dragesco, 1970 SPECIES
-=======
+# Euplotoides amieti (Dragesco, 1970) Borror & Hill, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

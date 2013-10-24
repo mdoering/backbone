@@ -1,5 +1,4 @@
-Valsa coenobitica Nitschke SPECIES
-=======
+# Valsa coenobitica Nitschke SPECIES
 
 #### Status
 ACCEPTED

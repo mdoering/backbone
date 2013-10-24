@@ -1,5 +1,4 @@
-Coniothyrium ononidis (Allesch.) Petr. SPECIES
-=======
+# Coniothyrium ononidis (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeobotrys chlorinus var. major J.A. Rino VARIETY
-=======
+# Gloeobotrys chlorinus Pascher SPECIES
 
 #### Status
 ACCEPTED

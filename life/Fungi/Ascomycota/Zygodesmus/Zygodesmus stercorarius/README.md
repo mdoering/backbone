@@ -1,5 +1,4 @@
-Zygodesmus stercorarius P. Karst. SPECIES
-=======
+# Zygodesmus stercorarius P. Karst. SPECIES
 
 #### Status
 ACCEPTED

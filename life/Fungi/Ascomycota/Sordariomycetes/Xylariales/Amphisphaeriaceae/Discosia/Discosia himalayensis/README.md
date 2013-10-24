@@ -1,5 +1,4 @@
-Discosia himalayensis Died. SPECIES
-=======
+# Discosia himalayensis Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella siplei (C. W. Dodge & G. E. Baker) Mas. Inoue SPECIES
-=======
+# Lecidella siplei (C. W. Dodge & G. E. Baker) Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

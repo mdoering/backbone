@@ -1,14 +1,13 @@
-Cercospora withaniae Syd. & P. Syd., 1912 SPECIES
-=======
+# Pseudocercospora withaniae (Syd. & P. Syd.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(5): 444 (1912)
+Mycol. Pap. 140: 155 (1976)
 
 #### Original name
 Cercospora withaniae Syd. & P. Syd., 1912

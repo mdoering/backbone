@@ -1,5 +1,4 @@
-Cortinarius picosporus M.M. Moser SPECIES
-=======
+# Cortinarius picosporus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

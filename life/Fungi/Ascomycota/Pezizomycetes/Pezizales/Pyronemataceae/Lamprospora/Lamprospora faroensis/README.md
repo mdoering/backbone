@@ -1,5 +1,4 @@
-Lamprospora faroensis Benkert, 1987 SPECIES
-=======
+# Lamprospora faroensis Benkert, 1987 SPECIES
 
 #### Status
 ACCEPTED

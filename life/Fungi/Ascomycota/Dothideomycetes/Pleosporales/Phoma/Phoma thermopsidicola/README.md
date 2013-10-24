@@ -1,5 +1,4 @@
-Phoma thermopsidicola Henn. SPECIES
-=======
+# Phoma thermopsidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

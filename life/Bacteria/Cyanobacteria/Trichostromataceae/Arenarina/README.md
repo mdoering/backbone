@@ -1,5 +1,4 @@
-Arenarina A.G. Vologdin, 1962 GENUS
-=======
+# Arenarina A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

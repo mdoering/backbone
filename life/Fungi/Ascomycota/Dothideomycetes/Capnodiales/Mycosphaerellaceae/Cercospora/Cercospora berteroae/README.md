@@ -1,5 +1,4 @@
-Cercospora berteroae Hollós, 1907 SPECIES
-=======
+# Cercospora berteroae Hollós, 1907 SPECIES
 
 #### Status
 ACCEPTED

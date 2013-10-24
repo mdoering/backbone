@@ -1,5 +1,4 @@
-Cercospora hedericola (Heald & F.A. Wolf) U. Braun SPECIES
-=======
+# Cercospora hedericola (Heald & F.A. Wolf) U. Braun SPECIES
 
 #### Status
 ACCEPTED

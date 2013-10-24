@@ -1,5 +1,4 @@
-Mycosphaerella yaku-insularia Ts. Kobay. SPECIES
-=======
+# Mycosphaerella yaku-insularia Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

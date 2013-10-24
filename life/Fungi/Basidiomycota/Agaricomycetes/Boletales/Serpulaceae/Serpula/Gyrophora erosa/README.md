@@ -1,17 +1,16 @@
-Gyrophora erosa var. erosa VARIETY
-=======
+# Gyrophora erosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora erosa var. erosa
+null
 
 ### Remarks
 null

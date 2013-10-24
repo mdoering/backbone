@@ -1,17 +1,16 @@
-Amphisphaeria culmicola melanommoides Speg., 1878 INFRASPECIFIC_NAME
-=======
+# Amphisphaeria melanommoides (Speg.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 5): 455 (1878)
 
 #### Original name
-null
+Amphisphaeria melanommoides (Speg.) Sacc., 1878
 
 ### Remarks
 null

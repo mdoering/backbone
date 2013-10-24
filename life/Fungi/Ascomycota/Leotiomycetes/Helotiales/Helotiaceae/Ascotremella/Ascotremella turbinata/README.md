@@ -1,5 +1,4 @@
-Ascotremella turbinata Seaver SPECIES
-=======
+# Ascotremella turbinata Seaver SPECIES
 
 #### Status
 ACCEPTED

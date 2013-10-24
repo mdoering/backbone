@@ -1,17 +1,16 @@
-Pyrenopeziza moutoni Rehm SPECIES
-=======
+# Pyrenopeziza moutonii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia, Beibl. 38: 244 (1899)
 
 #### Original name
-Pyrenopeziza moutoni Rehm
+Pyrenopeziza moutonii Rehm
 
 ### Remarks
 null

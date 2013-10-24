@@ -1,5 +1,4 @@
-Hypotrachyna kriegeri Marcelli & C.H. Ribeiro SPECIES
-=======
+# Hypotrachyna kriegeri Marcelli & C.H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

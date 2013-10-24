@@ -1,5 +1,4 @@
-Oomyces barbeyi Roum. SPECIES
-=======
+# Oomyces barbeyi Roum. SPECIES
 
 #### Status
 ACCEPTED

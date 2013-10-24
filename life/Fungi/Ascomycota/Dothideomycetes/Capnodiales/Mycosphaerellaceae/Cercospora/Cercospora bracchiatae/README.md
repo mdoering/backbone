@@ -1,5 +1,4 @@
-Cercospora bracchiatae Hidayat, Meeboon & K.D. Hyde SPECIES
-=======
+# Cercospora bracchiatae Hidayat, Meeboon & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia longocarpi Marchal & Steyaert SPECIES
-=======
+# Laestadia longocarpi Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

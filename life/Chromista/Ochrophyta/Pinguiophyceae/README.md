@@ -1,5 +1,4 @@
-Pinguiophyceae CLASS
-=======
+# Pinguiophyceae CLASS
 
 #### Status
 ACCEPTED

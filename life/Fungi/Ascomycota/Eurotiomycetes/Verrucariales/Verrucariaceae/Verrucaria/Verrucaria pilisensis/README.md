@@ -1,5 +1,4 @@
-Verrucaria pilisensis Servít SPECIES
-=======
+# Verrucaria pilisensis Servít SPECIES
 
 #### Status
 ACCEPTED

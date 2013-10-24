@@ -1,5 +1,4 @@
-Psathyrella borgensis Kits van Wav., 1987 SPECIES
-=======
+# Psathyrella borgensis Kits van Wav., 1987 SPECIES
 
 #### Status
 ACCEPTED

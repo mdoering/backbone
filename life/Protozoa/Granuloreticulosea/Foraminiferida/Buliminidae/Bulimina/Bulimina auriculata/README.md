@@ -1,5 +1,4 @@
-Bulimina auriculata Bailey SPECIES
-=======
+# Bulimina auriculata Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Andreula Kahl, 1934 GENUS
-=======
+# Andreula Kahl, 1934 GENUS
 
 #### Status
 ACCEPTED

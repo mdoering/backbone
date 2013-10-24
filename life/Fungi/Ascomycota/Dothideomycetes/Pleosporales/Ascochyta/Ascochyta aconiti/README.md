@@ -1,5 +1,4 @@
-Ascochyta aconiti Sandu SPECIES
-=======
+# Ascochyta aconiti Sandu SPECIES
 
 #### Status
 ACCEPTED

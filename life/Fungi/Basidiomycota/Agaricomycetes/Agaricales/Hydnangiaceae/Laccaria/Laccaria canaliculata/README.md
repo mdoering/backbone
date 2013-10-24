@@ -1,17 +1,16 @@
-Agaricus canaliculatus Cooke & Massee, 1889 SPECIES
-=======
+# Laccaria canaliculata (Sacc.) Massee, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 85): 2 (1889)
+Trans. & Proc. New Zealand Inst. 31: 328 (1899)
 
 #### Original name
-Agaricus canaliculatus Cooke & Massee, 1889
+Clitocybe canaliculata Sacc., 1891
 
 ### Remarks
 null

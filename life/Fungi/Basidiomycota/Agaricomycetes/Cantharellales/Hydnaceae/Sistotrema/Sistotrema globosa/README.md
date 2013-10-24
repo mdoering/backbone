@@ -1,5 +1,4 @@
-Sistotrema globosa Gresl., 2001 SPECIES
-=======
+# Sistotrema globosa Gresl., 2001 SPECIES
 
 #### Status
 ACCEPTED

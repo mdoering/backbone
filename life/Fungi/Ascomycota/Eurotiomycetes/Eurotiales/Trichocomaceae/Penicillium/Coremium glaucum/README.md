@@ -1,5 +1,4 @@
-Coremium glaucum var. glaucum VARIETY
-=======
+# Coremium glaucum Link SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 19 (1809)
 
 #### Original name
-Coremium glaucum var. glaucum
+Coremium glaucum Link
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Astrosestomma Haeckel, 1887 GENUS
-=======
+# Astrosestomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

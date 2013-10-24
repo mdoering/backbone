@@ -1,5 +1,4 @@
-Aphysa ugandensis Syd. SPECIES
-=======
+# Aphysa ugandensis Syd. SPECIES
 
 #### Status
 ACCEPTED

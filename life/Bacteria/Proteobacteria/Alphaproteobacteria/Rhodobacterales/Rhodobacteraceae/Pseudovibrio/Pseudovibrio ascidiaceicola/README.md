@@ -1,5 +1,4 @@
-Pseudovibrio ascidiaceicola Fukunaga et al., 2006 SPECIES
-=======
+# Pseudovibrio ascidiaceicola Fukunaga et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

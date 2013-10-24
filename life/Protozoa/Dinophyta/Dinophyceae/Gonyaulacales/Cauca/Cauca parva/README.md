@@ -1,5 +1,4 @@
-Cauca parva (Alberti, 1961) Davey & Verdier SPECIES
-=======
+# Cauca parva (Alberti, 1961) Davey & Verdier SPECIES
 
 #### Status
 ACCEPTED

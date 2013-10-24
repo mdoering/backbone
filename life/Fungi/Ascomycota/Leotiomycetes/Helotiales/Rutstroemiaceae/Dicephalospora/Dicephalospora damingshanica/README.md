@@ -1,5 +1,4 @@
-Dicephalospora damingshanica W.Y. Zhuang, 1999 SPECIES
-=======
+# Dicephalospora damingshanica W.Y. Zhuang, 1999 SPECIES
 
 #### Status
 ACCEPTED

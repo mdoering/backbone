@@ -1,5 +1,4 @@
-Rhizophydium patellarium Erh. Scholz, 1958 SPECIES
-=======
+# Rhizophydium patellarium Erh. Scholz, 1958 SPECIES
 
 #### Status
 ACCEPTED

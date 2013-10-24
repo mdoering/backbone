@@ -1,5 +1,4 @@
-Calocybe bipigmentata Singer SPECIES
-=======
+# Calocybe bipigmentata Singer SPECIES
 
 #### Status
 ACCEPTED

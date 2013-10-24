@@ -1,5 +1,4 @@
-Filisphaeridium castaninum (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium castaninum (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

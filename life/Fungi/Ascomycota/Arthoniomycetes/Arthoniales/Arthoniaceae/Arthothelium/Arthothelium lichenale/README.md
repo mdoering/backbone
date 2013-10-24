@@ -1,14 +1,13 @@
-Arthothelium lichenalis (Peck) M.E. Barr SPECIES
-=======
+# Arthothelium lichenale (Peck) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Barr, Rogerson, Smith & Haines, Bull. N. Y. St. Mus. 28 (1986)
 
 #### Original name
 Sphaeria lichenalis Peck

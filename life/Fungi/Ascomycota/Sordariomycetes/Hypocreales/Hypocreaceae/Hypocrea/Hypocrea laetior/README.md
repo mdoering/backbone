@@ -1,5 +1,4 @@
-Hypocrea laetior Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea laetior Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella pascuorum Fautrey SPECIES
-=======
+# Sphaerella pascuorum Fautrey SPECIES
 
 #### Status
 ACCEPTED

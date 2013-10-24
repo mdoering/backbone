@@ -1,5 +1,4 @@
-Belonidium chusqueae Pat. SPECIES
-=======
+# Belonidium chusqueae Pat. SPECIES
 
 #### Status
 ACCEPTED

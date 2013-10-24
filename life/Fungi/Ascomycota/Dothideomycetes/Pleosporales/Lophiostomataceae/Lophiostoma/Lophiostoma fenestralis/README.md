@@ -1,5 +1,4 @@
-Lophiostoma fenestralis Cooke & Ellis SPECIES
-=======
+# Lophiostoma fenestralis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

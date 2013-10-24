@@ -1,5 +1,4 @@
-Cortinarius aurantioferreus Soop, 2001 SPECIES
-=======
+# Cortinarius aurantioferreus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

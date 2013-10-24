@@ -1,5 +1,4 @@
-Natronincola histidinovorans Zhilina et al., 1999 SPECIES
-=======
+# Natronincola histidinovorans Zhilina et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium fuscoluteum SPECIES
-=======
+# Lopadium fuscoluteum SPECIES
 
 #### Status
 ACCEPTED

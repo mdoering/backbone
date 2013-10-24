@@ -1,5 +1,4 @@
-Coprinus plutonius Mont. SPECIES
-=======
+# Coprinus plutonius Mont. SPECIES
 
 #### Status
 ACCEPTED

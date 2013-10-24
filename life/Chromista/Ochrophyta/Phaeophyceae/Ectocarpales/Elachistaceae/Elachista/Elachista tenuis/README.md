@@ -1,5 +1,4 @@
-Elachista tenuis Yamada SPECIES
-=======
+# Elachista tenuis Yamada SPECIES
 
 #### Status
 ACCEPTED

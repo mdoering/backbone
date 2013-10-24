@@ -1,5 +1,4 @@
-Aegeritospira tortuosa ined. SPECIES
-=======
+# Aegeritospira tortuosa ined. SPECIES
 
 #### Status
 ACCEPTED

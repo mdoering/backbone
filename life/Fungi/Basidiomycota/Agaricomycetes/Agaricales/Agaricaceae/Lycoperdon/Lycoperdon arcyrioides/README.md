@@ -1,5 +1,4 @@
-Lycoperdon arcyrioides Henn. & E. Nyman SPECIES
-=======
+# Lycoperdon arcyrioides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

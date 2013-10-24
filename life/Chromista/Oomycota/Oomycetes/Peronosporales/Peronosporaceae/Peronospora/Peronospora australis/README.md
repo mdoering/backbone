@@ -1,5 +1,4 @@
-Peronospora australis Speg. SPECIES
-=======
+# Peronospora australis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mauritiae F. Stevens SPECIES
-=======
+# Meliola mauritiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

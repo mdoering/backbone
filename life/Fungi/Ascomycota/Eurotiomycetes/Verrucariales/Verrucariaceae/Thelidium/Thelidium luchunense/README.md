@@ -1,5 +1,4 @@
-Thelidium luchunense H. Harada & Li S. Wang SPECIES
-=======
+# Thelidium luchunense H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

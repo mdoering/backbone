@@ -1,5 +1,4 @@
-Peltigera lepidophora f. lepidophora FORM
-=======
+# Peltigera lepidophora (Nyl.) Bitter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ber. dt. bot. Ges. 22: 251 (1904)
 
 #### Original name
-Peltigera lepidophora f. lepidophora
+Peltigera canina var. lepidophora Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes tyromycoides Ryvarden, 2000 SPECIES
-=======
+# Trametes tyromycoides Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

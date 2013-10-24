@@ -1,5 +1,4 @@
-Chaetomium subspinale Chivers SPECIES
-=======
+# Chaetomium subspinale Chivers SPECIES
 
 #### Status
 ACCEPTED

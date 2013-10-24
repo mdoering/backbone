@@ -1,5 +1,4 @@
-Hymenoscyphus autumnalis (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus autumnalis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

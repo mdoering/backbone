@@ -1,5 +1,4 @@
-Cryptosporium ferrugineum Bonord. SPECIES
-=======
+# Cryptosporium ferrugineum Bonord. SPECIES
 
 #### Status
 ACCEPTED

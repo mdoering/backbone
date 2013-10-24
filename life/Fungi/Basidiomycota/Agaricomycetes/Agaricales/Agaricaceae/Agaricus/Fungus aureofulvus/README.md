@@ -1,5 +1,4 @@
-Fungus aureofulvus (Berk.) Kuntze SPECIES
-=======
+# Fungus aureofulvus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

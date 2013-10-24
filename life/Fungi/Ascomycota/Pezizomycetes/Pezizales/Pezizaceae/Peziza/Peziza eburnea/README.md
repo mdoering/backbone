@@ -1,5 +1,4 @@
-Peziza eburnea var. eburnea Roberge VARIETY
-=======
+# Peziza eburnea Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza eburnea var. eburnea Roberge
+Peziza eburnea Desm.
 
 ### Remarks
 null

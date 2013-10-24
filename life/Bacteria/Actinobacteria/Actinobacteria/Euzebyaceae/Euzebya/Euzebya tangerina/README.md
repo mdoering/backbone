@@ -1,5 +1,4 @@
-Euzebya tangerina Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2010 SPECIES
-=======
+# Euzebya tangerina Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2010 SPECIES
 
 #### Status
 ACCEPTED

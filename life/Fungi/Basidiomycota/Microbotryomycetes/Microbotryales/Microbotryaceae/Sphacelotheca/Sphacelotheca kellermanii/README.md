@@ -1,17 +1,16 @@
-Sphacelotheca kellermannii G.P. Clinton & Zundel SPECIES
-=======
+# Sphacelotheca kellermanii G.P. Clinton & Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 22(3): 142 (1930)
 
 #### Original name
-Sphacelotheca kellermannii G.P. Clinton & Zundel
+Sphacelotheca kellermanii G.P. Clinton & Zundel
 
 ### Remarks
 null

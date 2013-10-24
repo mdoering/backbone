@@ -1,5 +1,4 @@
-Russula cyanescens var. cyanescens VARIETY
-=======
+# Russula cyanescens J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula cyanescens var. cyanescens
+Russula cyanescens J. Kickx f.
 
 ### Remarks
 null

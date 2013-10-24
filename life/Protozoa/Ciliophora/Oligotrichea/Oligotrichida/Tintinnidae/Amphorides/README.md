@@ -1,5 +1,4 @@
-Amphorides Strand, 1929 GENUS
-=======
+# Amphorides Strand, 1929 GENUS
 
 #### Status
 ACCEPTED

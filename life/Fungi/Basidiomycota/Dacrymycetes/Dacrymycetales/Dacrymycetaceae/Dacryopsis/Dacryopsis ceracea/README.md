@@ -1,5 +1,4 @@
-Dacryopsis ceracea Coker SPECIES
-=======
+# Dacryopsis ceracea Coker SPECIES
 
 #### Status
 ACCEPTED

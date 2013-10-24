@@ -1,5 +1,4 @@
-Cerasibacillus quisquiliarum Nakamura et al., 2004 SPECIES
-=======
+# Cerasibacillus quisquiliarum Nakamura et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

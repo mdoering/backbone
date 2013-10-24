@@ -1,8 +1,7 @@
-Mycosphaerella ushuvaiensis (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella ushuwaiensis (Speg.) Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

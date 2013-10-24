@@ -1,5 +1,4 @@
-Phoma luengoi Unamuno SPECIES
-=======
+# Phoma luengoi Unamuno SPECIES
 
 #### Status
 ACCEPTED

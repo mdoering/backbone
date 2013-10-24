@@ -1,5 +1,4 @@
-Psora pulcherrima SPECIES
-=======
+# Psora pulcherrima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria umbilicariae (Linds.) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaeria umbilicariae (Linds.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

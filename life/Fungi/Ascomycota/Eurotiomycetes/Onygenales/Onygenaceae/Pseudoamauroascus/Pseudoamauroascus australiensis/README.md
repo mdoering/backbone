@@ -1,5 +1,4 @@
-Pseudoamauroascus australiensis Cano, M. Solé & Guarro, 2002 SPECIES
-=======
+# Pseudoamauroascus australiensis Cano, M. Solé & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

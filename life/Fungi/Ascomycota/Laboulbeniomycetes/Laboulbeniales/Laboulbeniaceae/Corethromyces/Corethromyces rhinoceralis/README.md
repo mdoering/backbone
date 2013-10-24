@@ -1,5 +1,4 @@
-Corethromyces rhinoceralis Thaxt. SPECIES
-=======
+# Corethromyces rhinoceralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

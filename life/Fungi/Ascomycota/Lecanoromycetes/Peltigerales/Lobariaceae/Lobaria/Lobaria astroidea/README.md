@@ -1,5 +1,4 @@
-Lobaria astroidea (Bagl.) Hepp SPECIES
-=======
+# Lobaria astroidea (Bagl.) Hepp SPECIES
 
 #### Status
 ACCEPTED

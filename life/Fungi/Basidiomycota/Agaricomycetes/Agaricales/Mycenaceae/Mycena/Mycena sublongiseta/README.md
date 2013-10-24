@@ -1,5 +1,4 @@
-Mycena sublongiseta Z.S. Bi SPECIES
-=======
+# Mycena sublongiseta Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen pullus Neck. SPECIES
-=======
+# Lichen pullus Neck. SPECIES
 
 #### Status
 ACCEPTED

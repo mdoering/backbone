@@ -1,14 +1,13 @@
-Lachnobolus trechisporus (T. Macbr. & G.W. Martin) Lado, 2001 SPECIES
-=======
+# Amaurochaete trechispora T. Macbr. & G.W. Martin, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 49 (2001)
+in Martin, J. Wash. Acad. Sci. 22(4): 89 (1932)
 
 #### Original name
 Amaurochaete trechispora T. Macbr. & G.W. Martin, 1932

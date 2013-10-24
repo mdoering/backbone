@@ -1,5 +1,4 @@
-Asteromella baldensis (C. Massal.) H. Ruppr. SPECIES
-=======
+# Asteromella baldensis (C. Massal.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

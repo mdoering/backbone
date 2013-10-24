@@ -1,5 +1,4 @@
-Lecanora ochrostomoides Nyl. SPECIES
-=======
+# Lecanora ochrostomoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

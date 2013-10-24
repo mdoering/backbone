@@ -1,5 +1,4 @@
-Asteridiella hydrangeae (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella hydrangeae (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

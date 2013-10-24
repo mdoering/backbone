@@ -1,5 +1,4 @@
-Nodaviridae FAMILY
-=======
+# Nodaviridae FAMILY
 
 #### Status
 ACCEPTED

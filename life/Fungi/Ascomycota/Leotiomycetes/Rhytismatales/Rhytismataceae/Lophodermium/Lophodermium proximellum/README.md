@@ -1,5 +1,4 @@
-Lophodermium proximellum Mouton SPECIES
-=======
+# Lophodermium proximellum Mouton SPECIES
 
 #### Status
 ACCEPTED

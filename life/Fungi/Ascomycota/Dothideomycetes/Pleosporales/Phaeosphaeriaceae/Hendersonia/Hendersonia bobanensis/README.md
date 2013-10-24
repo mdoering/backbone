@@ -1,5 +1,4 @@
-Hendersonia bobanensis Bubák SPECIES
-=======
+# Hendersonia bobanensis Bubák SPECIES
 
 #### Status
 ACCEPTED

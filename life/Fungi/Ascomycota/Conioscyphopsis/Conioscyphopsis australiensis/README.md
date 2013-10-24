@@ -1,5 +1,4 @@
-Conioscyphopsis australiensis Goh & K.D. Hyde, 1998 SPECIES
-=======
+# Conioscyphopsis australiensis Goh & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

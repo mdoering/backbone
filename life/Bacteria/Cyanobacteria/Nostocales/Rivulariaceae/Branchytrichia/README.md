@@ -1,5 +1,4 @@
-Branchytrichia GENUS
-=======
+# Branchytrichia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistella GENUS
-=======
+# Diploschistella GENUS
 
 #### Status
 ACCEPTED

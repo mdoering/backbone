@@ -1,5 +1,4 @@
-Xylaria pterula Bertault SPECIES
-=======
+# Xylaria pterula Bertault SPECIES
 
 #### Status
 ACCEPTED

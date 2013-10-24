@@ -1,17 +1,16 @@
-Endogone aurantiaca Blaszk., 1997 SPECIES
-=======
+# Cordana pauciseptata Preuss, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 63: 133 (1997)
+Linnaea 24: 129 (1851)
 
 #### Original name
-Endogone aurantiaca Blaszk., 1997
+Cordana pauciseptata Preuss, 1851
 
 ### Remarks
 null

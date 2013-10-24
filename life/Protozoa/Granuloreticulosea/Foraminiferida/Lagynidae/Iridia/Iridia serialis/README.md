@@ -1,5 +1,4 @@
-Iridia serialis SPECIES
-=======
+# Iridia serialis SPECIES
 
 #### Status
 ACCEPTED

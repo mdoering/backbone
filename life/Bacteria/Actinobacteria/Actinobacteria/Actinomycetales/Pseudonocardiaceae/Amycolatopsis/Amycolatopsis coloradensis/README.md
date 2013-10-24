@@ -1,5 +1,4 @@
-Amycolatopsis coloradensis Labeda, 1995 SPECIES
-=======
+# Amycolatopsis coloradensis Labeda, 1995 SPECIES
 
 #### Status
 ACCEPTED

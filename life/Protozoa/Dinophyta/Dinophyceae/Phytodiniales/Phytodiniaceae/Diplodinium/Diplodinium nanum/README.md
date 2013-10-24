@@ -1,5 +1,4 @@
-Diplodinium nanum S. Imai SPECIES
-=======
+# Diplodinium nanum S. Imai SPECIES
 
 #### Status
 ACCEPTED

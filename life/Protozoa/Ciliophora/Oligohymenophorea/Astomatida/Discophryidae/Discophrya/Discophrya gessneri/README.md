@@ -1,5 +1,4 @@
-Discophrya gessneri Matthes, 1954 SPECIES
-=======
+# Discophrya gessneri Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

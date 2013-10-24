@@ -1,5 +1,4 @@
-Pandora borea (M.Z. Fan & Z.Z. Li) Z.Z. Li, B. Huang & M.Z. Fan, 1997 SPECIES
-=======
+# Pandora borea (M.Z. Fan & Z.Z. Li) Z.Z. Li, B. Huang & M.Z. Fan, 1997 SPECIES
 
 #### Status
 ACCEPTED

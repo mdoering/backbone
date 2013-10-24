@@ -1,5 +1,4 @@
-Dinemasporiella hispidula (Fr.) Bubák & Kabát SPECIES
-=======
+# Dinemasporiella hispidula (Fr.) Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

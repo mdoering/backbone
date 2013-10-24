@@ -1,17 +1,16 @@
-Puccinia fergussonii var. fergussonii VARIETY
-=======
+# Puccinia fergussonii Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Mag. nat. Hist. , Ser. 4 15: 35 (1875)
 
 #### Original name
-Puccinia fergussonii var. fergussonii
+Puccinia fergussonii Berk. & Broome, 1875
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Valsa capistraria De Not. SPECIES
-=======
+# Valsa capistraria De Not. SPECIES
 
 #### Status
 ACCEPTED

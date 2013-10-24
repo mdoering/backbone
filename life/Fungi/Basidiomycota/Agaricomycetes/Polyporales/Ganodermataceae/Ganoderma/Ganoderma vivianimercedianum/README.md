@@ -1,5 +1,4 @@
-Ganoderma vivianimercedianum Torres-Torres SPECIES
-=======
+# Ganoderma vivianimercedianum Torres-Torres SPECIES
 
 #### Status
 ACCEPTED

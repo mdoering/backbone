@@ -1,5 +1,4 @@
-Xanthoparmelia joranadae (T.H. Nash) Egan SPECIES
-=======
+# Xanthoparmelia joranadae (T.H. Nash) Egan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia aveyronensis B. de Lesd. SPECIES
-=======
+# Crocynia aveyronensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

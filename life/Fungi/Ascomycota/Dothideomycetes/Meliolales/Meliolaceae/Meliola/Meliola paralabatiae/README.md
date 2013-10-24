@@ -1,5 +1,4 @@
-Meliola paralabatiae Cif. SPECIES
-=======
+# Meliola paralabatiae Cif. SPECIES
 
 #### Status
 ACCEPTED

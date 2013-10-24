@@ -1,5 +1,4 @@
-Lachnella cyathea Velen. SPECIES
-=======
+# Lachnella cyathea Velen. SPECIES
 
 #### Status
 ACCEPTED

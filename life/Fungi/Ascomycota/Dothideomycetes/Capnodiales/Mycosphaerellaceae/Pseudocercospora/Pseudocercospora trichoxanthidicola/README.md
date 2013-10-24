@@ -1,5 +1,4 @@
-Pseudocercospora trichoxanthidicola Kamal, A.N. Rai & A.S. Moses SPECIES
-=======
+# Pseudocercospora trichoxanthidicola Kamal, A.N. Rai & A.S. Moses SPECIES
 
 #### Status
 ACCEPTED

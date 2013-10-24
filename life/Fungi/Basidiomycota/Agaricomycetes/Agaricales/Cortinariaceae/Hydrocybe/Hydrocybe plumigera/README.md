@@ -1,5 +1,4 @@
-Hydrocybe plumigera (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe plumigera (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

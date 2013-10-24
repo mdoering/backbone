@@ -1,5 +1,4 @@
-Herminiimonas fonticola Fernandes et al., 2005 SPECIES
-=======
+# Herminiimonas fonticola Fernandes et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

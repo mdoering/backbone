@@ -1,5 +1,4 @@
-Schizothyrium bambusellum Rehm SPECIES
-=======
+# Schizothyrium bambusellum Rehm SPECIES
 
 #### Status
 ACCEPTED

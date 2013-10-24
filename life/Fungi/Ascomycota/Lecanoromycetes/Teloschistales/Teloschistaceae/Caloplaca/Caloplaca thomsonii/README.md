@@ -1,5 +1,4 @@
-Caloplaca thomsonii Zahlbr. SPECIES
-=======
+# Caloplaca thomsonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

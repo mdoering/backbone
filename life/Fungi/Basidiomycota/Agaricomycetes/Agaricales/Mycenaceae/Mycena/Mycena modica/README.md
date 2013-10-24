@@ -1,5 +1,4 @@
-Mycena modica Maas Geest. & de Meijer SPECIES
-=======
+# Mycena modica Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

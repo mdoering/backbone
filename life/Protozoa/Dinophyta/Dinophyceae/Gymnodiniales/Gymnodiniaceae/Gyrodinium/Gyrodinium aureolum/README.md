@@ -1,5 +1,4 @@
-Gyrodinium aureolum Hulburt, 1957 SPECIES
-=======
+# Gyrodinium aureolum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

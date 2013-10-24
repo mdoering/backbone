@@ -1,5 +1,4 @@
-Phormidium dictyothallum Skuja SPECIES
-=======
+# Phormidium dictyothallum Skuja SPECIES
 
 #### Status
 ACCEPTED

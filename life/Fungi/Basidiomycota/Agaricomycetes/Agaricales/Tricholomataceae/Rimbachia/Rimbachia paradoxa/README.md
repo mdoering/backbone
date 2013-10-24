@@ -1,5 +1,4 @@
-Rimbachia paradoxa Pat., 1891 SPECIES
-=======
+# Rimbachia paradoxa Pat., 1891 SPECIES
 
 #### Status
 ACCEPTED

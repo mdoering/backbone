@@ -1,5 +1,4 @@
-Cercospora glochidionis Sawada SPECIES
-=======
+# Cercospora glochidionis Sawada SPECIES
 
 #### Status
 ACCEPTED

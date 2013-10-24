@@ -1,5 +1,4 @@
-Lecanora clavulata Motyka SPECIES
-=======
+# Lecanora clavulata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium affine Corda SPECIES
-=======
+# Chaetomium affine Corda SPECIES
 
 #### Status
 ACCEPTED

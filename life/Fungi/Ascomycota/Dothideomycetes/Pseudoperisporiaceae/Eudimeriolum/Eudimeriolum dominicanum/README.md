@@ -1,5 +1,4 @@
-Eudimeriolum dominicanum (Toro) Toro SPECIES
-=======
+# Eudimeriolum dominicanum (Toro) Toro SPECIES
 
 #### Status
 ACCEPTED

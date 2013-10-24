@@ -1,5 +1,4 @@
-Chamaeota tropica Pegler, 1983 SPECIES
-=======
+# Chamaeota tropica Pegler, 1983 SPECIES
 
 #### Status
 ACCEPTED

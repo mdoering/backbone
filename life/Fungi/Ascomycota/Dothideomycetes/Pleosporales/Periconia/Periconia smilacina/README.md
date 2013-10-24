@@ -1,5 +1,4 @@
-Periconia smilacina Thüm. SPECIES
-=======
+# Periconia smilacina Thüm. SPECIES
 
 #### Status
 ACCEPTED

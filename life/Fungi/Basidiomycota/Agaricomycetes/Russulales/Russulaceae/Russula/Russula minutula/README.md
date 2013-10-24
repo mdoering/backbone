@@ -1,17 +1,16 @@
-Russula minutula var. minutula VARIETY
-=======
+# Russula minutula Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ceské Houby 1: 133 (1920)
 
 #### Original name
-Russula minutula var. minutula
+Russula minutula Velen., 1920
 
 ### Remarks
 null

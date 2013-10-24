@@ -1,5 +1,4 @@
-Dicaeoma caricis-filicinae (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma caricis-filicinae (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

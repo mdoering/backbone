@@ -1,5 +1,4 @@
-Coniothyrium peplis A.L. Sm. & Ramsb. SPECIES
-=======
+# Coniothyrium peplis A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

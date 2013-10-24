@@ -1,5 +1,4 @@
-Diaporthe libera Höhn. SPECIES
-=======
+# Diaporthe libera Höhn. SPECIES
 
 #### Status
 ACCEPTED

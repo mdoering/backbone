@@ -1,5 +1,4 @@
-Peniophora filamentosa (Berk. & M.A. Curtis) Moffatt SPECIES
-=======
+# Peniophora filamentosa (Berk. & M.A. Curtis) Moffatt SPECIES
 
 #### Status
 ACCEPTED

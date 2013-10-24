@@ -1,5 +1,4 @@
-Copromyxella filamentosa Raper, Worley & Kurzynski, 1978 SPECIES
-=======
+# Copromyxella filamentosa Raper, Worley & Kurzynski, 1978 SPECIES
 
 #### Status
 ACCEPTED

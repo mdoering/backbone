@@ -1,5 +1,4 @@
-Ascochyta arophila Sacc. SPECIES
-=======
+# Ascochyta arophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

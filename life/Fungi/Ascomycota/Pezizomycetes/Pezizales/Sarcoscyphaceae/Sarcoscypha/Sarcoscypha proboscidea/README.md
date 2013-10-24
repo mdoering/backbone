@@ -1,5 +1,4 @@
-Sarcoscypha proboscidea (Wallr.) Sacc. SPECIES
-=======
+# Sarcoscypha proboscidea (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

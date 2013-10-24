@@ -1,5 +1,4 @@
-Solenia araneosa (Bourdot & Galzin) W.B. Cooke SPECIES
-=======
+# Solenia araneosa (Bourdot & Galzin) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

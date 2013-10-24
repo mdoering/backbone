@@ -1,5 +1,4 @@
-Polyporus aquosus Henn. SPECIES
-=======
+# Polyporus aquosus Henn. SPECIES
 
 #### Status
 ACCEPTED

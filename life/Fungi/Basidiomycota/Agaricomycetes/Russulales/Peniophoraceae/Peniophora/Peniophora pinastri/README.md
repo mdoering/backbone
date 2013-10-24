@@ -1,5 +1,4 @@
-Peniophora pinastri Bourdot & Maire SPECIES
-=======
+# Peniophora pinastri Bourdot & Maire SPECIES
 
 #### Status
 ACCEPTED

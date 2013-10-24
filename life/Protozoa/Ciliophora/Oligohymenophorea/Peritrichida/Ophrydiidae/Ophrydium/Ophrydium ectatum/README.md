@@ -1,5 +1,4 @@
-Ophrydium ectatum SPECIES
-=======
+# Ophrydium ectatum SPECIES
 
 #### Status
 ACCEPTED

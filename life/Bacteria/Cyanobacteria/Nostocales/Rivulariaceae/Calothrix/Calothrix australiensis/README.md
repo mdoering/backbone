@@ -1,5 +1,4 @@
-Calothrix australiensis A.M. Scott & Prescott SPECIES
-=======
+# Calothrix australiensis A.M. Scott & Prescott SPECIES
 
 #### Status
 ACCEPTED

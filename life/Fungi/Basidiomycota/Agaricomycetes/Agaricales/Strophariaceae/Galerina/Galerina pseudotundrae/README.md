@@ -1,5 +1,4 @@
-Galerina pseudotundrae Kühner, 1973 SPECIES
-=======
+# Galerina pseudotundrae Kühner, 1973 SPECIES
 
 #### Status
 ACCEPTED

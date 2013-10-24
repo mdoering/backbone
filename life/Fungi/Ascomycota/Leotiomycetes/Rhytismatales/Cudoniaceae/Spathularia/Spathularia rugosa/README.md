@@ -1,5 +1,4 @@
-Spathularia rugosa Peck SPECIES
-=======
+# Spathularia rugosa Peck SPECIES
 
 #### Status
 ACCEPTED

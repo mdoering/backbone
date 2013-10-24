@@ -1,5 +1,4 @@
-Agaricus amabilis Berk. SPECIES
-=======
+# Agaricus amabilis Berk. SPECIES
 
 #### Status
 ACCEPTED

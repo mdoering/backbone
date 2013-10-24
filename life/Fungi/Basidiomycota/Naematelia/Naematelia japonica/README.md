@@ -1,5 +1,4 @@
-Naematelia japonica Lloyd SPECIES
-=======
+# Naematelia japonica Lloyd SPECIES
 
 #### Status
 ACCEPTED

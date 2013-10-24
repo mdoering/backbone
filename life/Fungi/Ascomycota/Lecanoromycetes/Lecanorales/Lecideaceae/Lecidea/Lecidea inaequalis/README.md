@@ -1,5 +1,4 @@
-Lecidea inaequalis H. Magn. SPECIES
-=======
+# Lecidea inaequalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

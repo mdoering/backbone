@@ -1,11 +1,10 @@
-Ascocyclus ramosus Waern, 1952 SPECIES
-=======
+# Ascocyclus orbicularis (J. Agardh) Kjellman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

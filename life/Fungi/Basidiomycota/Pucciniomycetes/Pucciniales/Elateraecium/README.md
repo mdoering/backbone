@@ -1,5 +1,4 @@
-Elateraecium Thirum., F. Kern & B.V. Patil GENUS
-=======
+# Elateraecium Thirum., F. Kern & B.V. Patil GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia rubinella (Nyl.) P. Karst. SPECIES
-=======
+# Orbilia rubinella (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

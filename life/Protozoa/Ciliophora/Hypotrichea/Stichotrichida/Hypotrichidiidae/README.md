@@ -1,5 +1,4 @@
-Hypotrichidiidae FAMILY
-=======
+# Hypotrichidiidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca ossicola Lynge SPECIES
-=======
+# Caloplaca ossicola Lynge SPECIES
 
 #### Status
 ACCEPTED

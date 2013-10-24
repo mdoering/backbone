@@ -1,5 +1,4 @@
-Phomopsis aegles Traverso SPECIES
-=======
+# Phomopsis aegles Traverso SPECIES
 
 #### Status
 ACCEPTED

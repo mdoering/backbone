@@ -1,5 +1,4 @@
-Entoloma leuconitens Noordel. & Polemis SPECIES
-=======
+# Entoloma leuconitens Noordel. & Polemis SPECIES
 
 #### Status
 ACCEPTED

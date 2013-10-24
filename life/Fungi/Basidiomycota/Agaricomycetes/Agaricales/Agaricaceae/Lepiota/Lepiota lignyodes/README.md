@@ -1,5 +1,4 @@
-Lepiota lignyodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota lignyodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

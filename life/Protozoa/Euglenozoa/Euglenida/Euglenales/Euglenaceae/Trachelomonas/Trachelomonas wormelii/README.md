@@ -1,5 +1,4 @@
-Trachelomonas wormelii var. paludosa Skvortsov VARIETY
-=======
+# Trachelomonas wormelii SPECIES
 
 #### Status
 ACCEPTED

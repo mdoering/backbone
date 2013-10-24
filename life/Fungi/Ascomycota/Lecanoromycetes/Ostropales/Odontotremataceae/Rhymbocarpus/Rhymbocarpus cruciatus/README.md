@@ -1,14 +1,13 @@
-Skyttea cruciata Sherwood, D. Hawksw. & Coppins SPECIES
-=======
+# Rhymbocarpus cruciatus (Sherwood, D. Hawksw. & Coppins) Etayo & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 75(3): 484 (1981)
+in Diederich & Etayo, Lichenologist 32(5): 464 (1998)
 
 #### Original name
 Skyttea cruciata Sherwood, D. Hawksw. & Coppins

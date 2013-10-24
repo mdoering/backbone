@@ -1,5 +1,4 @@
-Puccinia patriniae-gibbosae Miura SPECIES
-=======
+# Puccinia patriniae-gibbosae Miura SPECIES
 
 #### Status
 ACCEPTED

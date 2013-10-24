@@ -1,5 +1,4 @@
-Lecania racovitzae (Vain.) Darb. SPECIES
-=======
+# Lecania racovitzae (Vain.) Darb. SPECIES
 
 #### Status
 ACCEPTED

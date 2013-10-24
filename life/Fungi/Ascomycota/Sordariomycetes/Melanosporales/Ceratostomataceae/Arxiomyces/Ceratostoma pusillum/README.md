@@ -1,5 +1,4 @@
-Ceratostoma pusillum Fuckel SPECIES
-=======
+# Ceratostoma pusillum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylographa orientalis Navrotska SPECIES
-=======
+# Xylographa orientalis Navrotska SPECIES
 
 #### Status
 ACCEPTED

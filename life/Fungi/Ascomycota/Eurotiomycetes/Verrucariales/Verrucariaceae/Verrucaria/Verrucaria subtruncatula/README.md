@@ -1,5 +1,4 @@
-Verrucaria subtruncatula B. de Lesd. SPECIES
-=======
+# Verrucaria subtruncatula B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea ciliifera Motyka SPECIES
-=======
+# Usnea ciliifera Motyka SPECIES
 
 #### Status
 ACCEPTED

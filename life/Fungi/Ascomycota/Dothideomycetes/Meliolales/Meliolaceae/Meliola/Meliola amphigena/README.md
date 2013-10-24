@@ -1,5 +1,4 @@
-Meliola amphigena var. rondeletiae F. Stevens & Tehon VARIETY
-=======
+# Meliola amphigena F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia 9: 39 (1955)
+Mycologia 18(1): 16 (1926)
 
 #### Original name
-Meliola amphigena var. rondeletiae F. Stevens & Tehon
+Meliola amphigena F. Stevens & Tehon
 
 ### Remarks
 null

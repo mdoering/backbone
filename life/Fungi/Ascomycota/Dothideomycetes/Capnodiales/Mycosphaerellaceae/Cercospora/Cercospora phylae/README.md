@@ -1,5 +1,4 @@
-Cercospora phylae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora phylae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lantanae-verae Trotter SPECIES
-=======
+# Phyllosticta lantanae-verae Trotter SPECIES
 
 #### Status
 ACCEPTED

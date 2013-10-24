@@ -1,5 +1,4 @@
-Chrysolepidomonas dendrolepidota M. C. Peters & R. A. Andersen SPECIES
-=======
+# Chrysolepidomonas dendrolepidota M. C. Peters & R. A. Andersen SPECIES
 
 #### Status
 ACCEPTED

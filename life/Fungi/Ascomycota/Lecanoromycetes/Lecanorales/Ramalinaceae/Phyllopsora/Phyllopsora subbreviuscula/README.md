@@ -1,5 +1,4 @@
-Phyllopsora subbreviuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Phyllopsora subbreviuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

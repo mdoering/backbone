@@ -1,5 +1,4 @@
-Psathyrella incrustans A.H. Sm. SPECIES
-=======
+# Psathyrella incrustans A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

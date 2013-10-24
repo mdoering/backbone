@@ -1,5 +1,4 @@
-Sporidesmium bifasciatum R.F. Castañeda SPECIES
-=======
+# Sporidesmium bifasciatum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

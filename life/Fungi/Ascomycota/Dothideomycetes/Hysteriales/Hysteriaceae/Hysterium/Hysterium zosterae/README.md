@@ -1,5 +1,4 @@
-Hysterium zosterae Schmalh. SPECIES
-=======
+# Hysterium zosterae Schmalh. SPECIES
 
 #### Status
 ACCEPTED

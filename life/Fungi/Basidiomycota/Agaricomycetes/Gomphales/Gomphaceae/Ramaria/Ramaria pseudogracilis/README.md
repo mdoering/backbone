@@ -1,5 +1,4 @@
-Ramaria pseudogracilis R.H. Petersen, 1975 SPECIES
-=======
+# Ramaria pseudogracilis R.H. Petersen, 1975 SPECIES
 
 #### Status
 ACCEPTED

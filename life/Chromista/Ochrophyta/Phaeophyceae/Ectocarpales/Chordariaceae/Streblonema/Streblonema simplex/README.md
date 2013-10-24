@@ -1,5 +1,4 @@
-Streblonema simplex (Crouan & Crouan) Holmes & Batters SPECIES
-=======
+# Streblonema simplex (Crouan & Crouan) Holmes & Batters SPECIES
 
 #### Status
 ACCEPTED

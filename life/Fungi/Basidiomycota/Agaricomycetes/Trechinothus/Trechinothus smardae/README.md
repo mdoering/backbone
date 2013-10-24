@@ -1,14 +1,13 @@
-Tomentella smardae Pilát, 1942 SPECIES
-=======
+# Trechinothus smardae (Pilát) E.C. Martini & Trichies, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Bot. Cechoslav. 5: 75 (1942)
+Mycotaxon 90(2): 262 (2004)
 
 #### Original name
 Tomentella smardae Pilát, 1942

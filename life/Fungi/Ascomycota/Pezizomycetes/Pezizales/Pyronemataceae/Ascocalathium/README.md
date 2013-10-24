@@ -1,5 +1,4 @@
-Ascocalathium Eidam ex J. Schröt. GENUS
-=======
+# Ascocalathium Eidam ex J. Schröt. GENUS
 
 #### Status
 ACCEPTED

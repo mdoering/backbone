@@ -1,5 +1,4 @@
-Urceolaria pappilaris SPECIES
-=======
+# Urceolaria pappilaris SPECIES
 
 #### Status
 ACCEPTED

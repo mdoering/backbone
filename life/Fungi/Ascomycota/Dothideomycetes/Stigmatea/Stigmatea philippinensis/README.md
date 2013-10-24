@@ -1,5 +1,4 @@
-Stigmatea philippinensis H.S. Yates SPECIES
-=======
+# Stigmatea philippinensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

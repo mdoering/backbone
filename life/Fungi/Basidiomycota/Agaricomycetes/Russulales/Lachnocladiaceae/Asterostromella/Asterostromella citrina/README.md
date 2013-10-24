@@ -1,5 +1,4 @@
-Asterostromella citrina Rick SPECIES
-=======
+# Asterostromella citrina Rick SPECIES
 
 #### Status
 ACCEPTED

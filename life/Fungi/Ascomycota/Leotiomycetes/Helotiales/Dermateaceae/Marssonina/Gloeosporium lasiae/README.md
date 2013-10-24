@@ -1,5 +1,4 @@
-Gloeosporium lasiae Henn. SPECIES
-=======
+# Gloeosporium lasiae Henn. SPECIES
 
 #### Status
 ACCEPTED

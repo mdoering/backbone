@@ -1,5 +1,4 @@
-Pleospora alliaria Nevod. SPECIES
-=======
+# Pleospora alliaria Nevod. SPECIES
 
 #### Status
 ACCEPTED

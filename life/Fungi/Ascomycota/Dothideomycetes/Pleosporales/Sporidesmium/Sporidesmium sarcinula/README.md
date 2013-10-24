@@ -1,5 +1,4 @@
-Sporidesmium sarcinula Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium sarcinula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

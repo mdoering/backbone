@@ -1,5 +1,4 @@
-Hypotrachynicola Etayo GENUS
-=======
+# Hypotrachynicola Etayo GENUS
 
 #### Status
 ACCEPTED

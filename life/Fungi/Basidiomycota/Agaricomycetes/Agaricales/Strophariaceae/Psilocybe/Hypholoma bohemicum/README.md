@@ -1,5 +1,4 @@
-Hypholoma bohemicum Velen. SPECIES
-=======
+# Hypholoma bohemicum Velen. SPECIES
 
 #### Status
 ACCEPTED

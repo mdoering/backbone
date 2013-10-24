@@ -1,5 +1,4 @@
-Lophodermium sabinae Fautrey SPECIES
-=======
+# Lophodermium sabinae Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansiopsis schumanniana (Henn.) Höhn. SPECIES
-=======
+# Balansiopsis schumanniana (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

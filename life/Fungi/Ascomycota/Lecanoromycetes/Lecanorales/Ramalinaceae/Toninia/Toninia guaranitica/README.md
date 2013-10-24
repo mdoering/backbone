@@ -1,5 +1,4 @@
-Toninia guaranitica Malme SPECIES
-=======
+# Toninia guaranitica Malme SPECIES
 
 #### Status
 ACCEPTED

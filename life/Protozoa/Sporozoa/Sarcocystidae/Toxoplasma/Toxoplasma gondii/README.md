@@ -1,5 +1,4 @@
-Toxoplasma gondii (Nicolle & Manceaux, 1908) SPECIES
-=======
+# Toxoplasma gondii (Nicolle & Manceaux, 1908) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trematosphaeria phaeospora (E. Müll.) L. Holm, 1957 SPECIES
-=======
+# Massariosphaeria phaeospora (E. Müll.) Crivelli, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 14(no. 3): 165 (1957)
+Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 141 (1983)
 
 #### Original name
 Leptosphaeria phaeospora E. Müll., 1950

@@ -1,5 +1,4 @@
-Caloplaca orichalcea (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca orichalcea (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrodochium subaffine Sacc. & Penz. SPECIES
-=======
+# Dendrodochium subaffine Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

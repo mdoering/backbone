@@ -1,5 +1,4 @@
-Umbilicaria herrei Frey SPECIES
-=======
+# Umbilicaria herrei Frey SPECIES
 
 #### Status
 ACCEPTED

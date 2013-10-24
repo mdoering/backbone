@@ -1,5 +1,4 @@
-Sarcopodium variegatum Fuckel SPECIES
-=======
+# Sarcopodium variegatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

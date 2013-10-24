@@ -1,14 +1,13 @@
-Ombrophila sydowiana Rehm, 1884 SPECIES
-=======
+# Rutstroemia sydowiana (Rehm) W.L. White, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 4: 200 (1941)
 
 #### Original name
 Ombrophila sydowiana Rehm, 1884

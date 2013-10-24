@@ -1,5 +1,4 @@
-Penicillium hypomycetis Sacc., 1886 SPECIES
-=======
+# Penicillium hypomycetis Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

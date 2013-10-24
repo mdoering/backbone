@@ -1,5 +1,4 @@
-Phyllachora elliptica (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora elliptica (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Caedibacter varicaedens Quackenbush, 1982 SPECIES
-=======
+# Caedibacter varicaedens Quackenbush, 1982 SPECIES
 
 #### Status
 ACCEPTED

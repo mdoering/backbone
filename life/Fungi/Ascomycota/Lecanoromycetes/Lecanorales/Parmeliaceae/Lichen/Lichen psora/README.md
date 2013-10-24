@@ -1,5 +1,4 @@
-Lichen psora SPECIES
-=======
+# Lichen psora SPECIES
 
 #### Status
 ACCEPTED

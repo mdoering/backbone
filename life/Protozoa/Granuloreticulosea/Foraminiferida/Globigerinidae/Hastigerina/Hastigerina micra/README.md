@@ -1,5 +1,4 @@
-Hastigerina micra SPECIES
-=======
+# Hastigerina micra SPECIES
 
 #### Status
 ACCEPTED

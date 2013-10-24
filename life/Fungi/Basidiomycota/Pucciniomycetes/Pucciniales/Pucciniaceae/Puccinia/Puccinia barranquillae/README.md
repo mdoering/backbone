@@ -1,5 +1,4 @@
-Puccinia barranquillae Mayor SPECIES
-=======
+# Puccinia barranquillae Mayor SPECIES
 
 #### Status
 ACCEPTED

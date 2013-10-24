@@ -1,5 +1,4 @@
-Hymenoscyphus malloti (T.S. Ramakr. & Sriniv.) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus malloti (T.S. Ramakr. & Sriniv.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

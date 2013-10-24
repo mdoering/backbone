@@ -1,5 +1,4 @@
-Lyngbya purpurea (Hooker & Harvey) Gomont SPECIES
-=======
+# Lyngbya purpurea (Hooker & Harvey) Gomont SPECIES
 
 #### Status
 ACCEPTED

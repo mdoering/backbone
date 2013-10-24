@@ -1,5 +1,4 @@
-Cortinarius sergianus Bidaud & Eyssart. SPECIES
-=======
+# Cortinarius sergianus Bidaud & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

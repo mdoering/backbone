@@ -1,5 +1,4 @@
-Nectriella papyrogena Sacc. & Penz. SPECIES
-=======
+# Nectriella papyrogena Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

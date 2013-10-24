@@ -1,17 +1,16 @@
-Coprinus plicatilis var. plicatilis (Curtis) Fr. VARIETY
-=======
+# Parasola plicatilis (Curtis) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 252 (1838)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
-Coprinus plicatilis var. plicatilis (Curtis) Fr.
+Agaricus plicatilis Curtis, 1787
 
 ### Remarks
 null

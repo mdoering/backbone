@@ -1,5 +1,4 @@
-Entomophthora rimosa Sorokin ex J. Schröt. SPECIES
-=======
+# Entomophthora rimosa Sorokin ex J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

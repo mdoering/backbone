@@ -1,5 +1,4 @@
-Leptorhaphis longispora (P. Crouan & H. Crouan) Boistel SPECIES
-=======
+# Leptorhaphis longispora (P. Crouan & H. Crouan) Boistel SPECIES
 
 #### Status
 ACCEPTED

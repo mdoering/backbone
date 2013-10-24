@@ -1,5 +1,4 @@
-Stictina carpolomoides (Nyl.) Nyl. SPECIES
-=======
+# Stictina carpolomoides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

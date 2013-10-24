@@ -1,5 +1,4 @@
-Sporidesmium velutinum Cooke SPECIES
-=======
+# Sporidesmium velutinum Cooke SPECIES
 
 #### Status
 ACCEPTED

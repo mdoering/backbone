@@ -1,5 +1,4 @@
-Lecanora squamulata (Hue) Zahlbr. SPECIES
-=======
+# Lecanora squamulata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria lusitanica (Niessl) Berl. & Voglino SPECIES
-=======
+# Didymosphaeria lusitanica (Niessl) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

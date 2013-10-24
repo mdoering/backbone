@@ -1,5 +1,4 @@
-Graphis decolorascens Nyl. SPECIES
-=======
+# Graphis decolorascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

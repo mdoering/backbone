@@ -1,5 +1,4 @@
-Chaetaspis stenochlaenae Syd. & P. Syd., 1917 SPECIES
-=======
+# Chaetaspis stenochlaenae Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

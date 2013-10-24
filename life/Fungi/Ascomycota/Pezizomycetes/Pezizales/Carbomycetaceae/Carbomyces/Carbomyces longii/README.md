@@ -1,5 +1,4 @@
-Carbomyces longii Gilkey, 1954 SPECIES
-=======
+# Carbomyces longii Gilkey, 1954 SPECIES
 
 #### Status
 ACCEPTED

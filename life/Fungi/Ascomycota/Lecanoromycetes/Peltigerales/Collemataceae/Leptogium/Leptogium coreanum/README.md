@@ -1,5 +1,4 @@
-Leptogium coreanum B. de Lesd. SPECIES
-=======
+# Leptogium coreanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

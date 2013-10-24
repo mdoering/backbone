@@ -1,5 +1,4 @@
-Baeomyces cupreus Müll. Arg. SPECIES
-=======
+# Baeomyces cupreus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum erythyrinicola (V.G. Rao & Subhedar) M.P. Sharma SPECIES
-=======
+# Lachnum erythyrinicola (V.G. Rao & Subhedar) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

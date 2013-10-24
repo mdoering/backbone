@@ -1,5 +1,4 @@
-Podospora prethopodalis Cain, 1962 SPECIES
-=======
+# Podospora prethopodalis Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

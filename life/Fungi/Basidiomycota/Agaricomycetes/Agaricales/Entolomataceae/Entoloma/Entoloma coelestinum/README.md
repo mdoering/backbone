@@ -1,17 +1,16 @@
-Nolanea coelestina var. coelestina VARIETY
-=======
+# Entoloma coelestinum (Fr.) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 536 (1875)
+Nova Hedwigia, Beih. 23: 111 (1967)
 
 #### Original name
-Nolanea coelestina var. coelestina
+Agaricus coelestinus Fr., 1838
 
 ### Remarks
 null

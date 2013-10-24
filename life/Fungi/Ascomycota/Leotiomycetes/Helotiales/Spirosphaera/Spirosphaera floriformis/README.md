@@ -1,17 +1,16 @@
-Spirosphaera floriforme Beverw. SPECIES
-=======
+# Spirosphaera floriformis Beverw., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 36(2): 121 (1953)
 
 #### Original name
-Spirosphaera floriforme Beverw.
+Spirosphaera floriformis Beverw., 1953
 
 ### Remarks
 null

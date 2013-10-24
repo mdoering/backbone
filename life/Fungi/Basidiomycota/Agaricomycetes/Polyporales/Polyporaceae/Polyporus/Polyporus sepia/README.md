@@ -1,5 +1,4 @@
-Polyporus sepia Lloyd SPECIES
-=======
+# Polyporus sepia Lloyd SPECIES
 
 #### Status
 ACCEPTED

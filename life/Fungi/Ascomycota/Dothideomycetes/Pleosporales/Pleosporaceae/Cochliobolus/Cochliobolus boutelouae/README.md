@@ -1,5 +1,4 @@
-Cochliobolus boutelouae R. Sprague SPECIES
-=======
+# Cochliobolus boutelouae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella betulae Velen. SPECIES
-=======
+# Pezizella betulae Velen. SPECIES
 
 #### Status
 ACCEPTED

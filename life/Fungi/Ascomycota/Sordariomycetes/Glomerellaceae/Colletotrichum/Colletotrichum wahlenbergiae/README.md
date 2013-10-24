@@ -1,5 +1,4 @@
-Colletotrichum wahlenbergiae Duke SPECIES
-=======
+# Colletotrichum wahlenbergiae Duke SPECIES
 
 #### Status
 ACCEPTED

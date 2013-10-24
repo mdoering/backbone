@@ -1,5 +1,4 @@
-Isaria edwalliana Henn. SPECIES
-=======
+# Isaria edwalliana Henn. SPECIES
 
 #### Status
 ACCEPTED

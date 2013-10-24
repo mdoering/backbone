@@ -1,5 +1,4 @@
-Duboscqia sidae Jirovec SPECIES
-=======
+# Duboscqia sidae Jirovec SPECIES
 
 #### Status
 ACCEPTED

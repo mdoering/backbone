@@ -1,14 +1,13 @@
-Graphis subcontexta Nyl. SPECIES
-=======
+# Fissurina subcontexta (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 118 (1868)
+Lich. Nov. Zeland. 125 (1888)
 
 #### Original name
 Graphis subcontexta Nyl.

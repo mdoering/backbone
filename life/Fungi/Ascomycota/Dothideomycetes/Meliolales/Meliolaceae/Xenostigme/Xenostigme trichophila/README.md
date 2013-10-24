@@ -1,5 +1,4 @@
-Xenostigme trichophila Syd., 1930 SPECIES
-=======
+# Xenostigme trichophila Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota nudipes Peck SPECIES
-=======
+# Lepiota nudipes Peck SPECIES
 
 #### Status
 ACCEPTED

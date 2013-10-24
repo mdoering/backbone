@@ -1,5 +1,4 @@
-Puccinia joerstadiana J.C. Lindq. SPECIES
-=======
+# Puccinia joerstadiana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium novemseptatum (Vain.) R.C. Harris SPECIES
-=======
+# Anthracothecium novemseptatum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

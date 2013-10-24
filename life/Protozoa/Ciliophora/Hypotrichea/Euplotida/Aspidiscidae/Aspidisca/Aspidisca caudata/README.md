@@ -1,5 +1,4 @@
-Aspidisca caudata Vacelet, 1961 SPECIES
-=======
+# Aspidisca caudata Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

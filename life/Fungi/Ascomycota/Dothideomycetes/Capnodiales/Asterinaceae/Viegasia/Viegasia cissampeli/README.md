@@ -1,14 +1,13 @@
-Schneepia cissampeli Hansf., 1946 SPECIES
-=======
+# Viegasia cissampeli (Hansf.) Bat., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 157: 194 (1946)
+Karmannyi Opredelitel' Gribov. Vip. 2. Muchnisto-Rosyanye Griby 18: 32 (1951)
 
 #### Original name
 Schneepia cissampeli Hansf., 1946

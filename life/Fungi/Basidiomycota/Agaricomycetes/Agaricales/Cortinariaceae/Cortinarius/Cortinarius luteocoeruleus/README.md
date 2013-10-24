@@ -1,5 +1,4 @@
-Cortinarius luteocoeruleus M.M. Moser SPECIES
-=======
+# Cortinarius luteocoeruleus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

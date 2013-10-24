@@ -1,14 +1,13 @@
-Alectoria subdivergens Å.E. Dahl SPECIES
-=======
+# Nodobryoria subdivergens (Å. E. Dahl) Common & Brodo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 98(2): 198 (1995)
 
 #### Original name
 Alectoria subdivergens Å.E. Dahl

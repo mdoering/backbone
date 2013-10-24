@@ -1,5 +1,4 @@
-Microsphaeropsis centaureae Morgan-Jones SPECIES
-=======
+# Microsphaeropsis centaureae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

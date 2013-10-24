@@ -1,5 +1,4 @@
-Micrococcus beta SPECIES
-=======
+# Micrococcus beta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltosphaeria pustulans Frolov SPECIES
-=======
+# Peltosphaeria pustulans Frolov SPECIES
 
 #### Status
 ACCEPTED

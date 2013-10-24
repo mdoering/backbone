@@ -1,5 +1,4 @@
-Lecanora bagliettoana Jatta SPECIES
-=======
+# Lecanora bagliettoana Jatta SPECIES
 
 #### Status
 ACCEPTED

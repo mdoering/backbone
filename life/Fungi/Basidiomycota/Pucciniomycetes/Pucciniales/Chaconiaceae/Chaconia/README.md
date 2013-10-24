@@ -1,17 +1,16 @@
-Desmotelium Syd. GENUS
-=======
+# Chaconia Juel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 252 (1937)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 23(no. 10): 12 (1897)
 
 #### Original name
-Desmotelium Syd.
+Chaconia Juel
 
 ### Remarks
 null

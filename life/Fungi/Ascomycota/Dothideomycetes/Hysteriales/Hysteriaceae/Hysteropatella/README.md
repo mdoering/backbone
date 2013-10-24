@@ -1,5 +1,4 @@
-Hysteropatella Rehm GENUS
-=======
+# Hysteropatella Rehm GENUS
 
 #### Status
 ACCEPTED

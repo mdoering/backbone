@@ -1,5 +1,4 @@
-Dematium sparsum Fr. SPECIES
-=======
+# Dematium sparsum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporidium GENUS
-=======
+# Gymnosporidium GENUS
 
 #### Status
 ACCEPTED

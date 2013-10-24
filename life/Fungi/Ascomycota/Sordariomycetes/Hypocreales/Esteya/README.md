@@ -1,5 +1,4 @@
-Esteya J.Y. Liou, J.Y. Shih & Tzean GENUS
-=======
+# Esteya J.Y. Liou, J.Y. Shih & Tzean GENUS
 
 #### Status
 ACCEPTED

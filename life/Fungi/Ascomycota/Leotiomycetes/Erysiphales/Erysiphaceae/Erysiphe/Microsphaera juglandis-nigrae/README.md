@@ -1,5 +1,4 @@
-Microsphaera juglandis-nigrae U. Braun SPECIES
-=======
+# Microsphaera juglandis-nigrae U. Braun SPECIES
 
 #### Status
 ACCEPTED

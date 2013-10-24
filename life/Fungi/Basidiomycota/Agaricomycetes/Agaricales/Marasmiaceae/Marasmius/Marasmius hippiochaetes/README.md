@@ -1,5 +1,4 @@
-Marasmius hippiochaetes Berk. SPECIES
-=======
+# Marasmius hippiochaetes Berk. SPECIES
 
 #### Status
 ACCEPTED

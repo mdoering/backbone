@@ -1,5 +1,4 @@
-Rhizopogon vinicolor A.H. Sm., 1966 SPECIES
-=======
+# Rhizopogon vinicolor A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED

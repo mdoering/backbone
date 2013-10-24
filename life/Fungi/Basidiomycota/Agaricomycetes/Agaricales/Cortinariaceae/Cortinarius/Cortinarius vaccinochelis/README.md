@@ -1,5 +1,4 @@
-Cortinarius vaccinochelis Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius vaccinochelis Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

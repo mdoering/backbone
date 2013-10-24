@@ -1,5 +1,4 @@
-Didymella vlachii Bubák SPECIES
-=======
+# Didymella vlachii Bubák SPECIES
 
 #### Status
 ACCEPTED

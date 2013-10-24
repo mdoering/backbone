@@ -1,5 +1,4 @@
-Cortinarius cisticola Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius cisticola Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia subaquila Nyl. SPECIES
-=======
+# Physcia subaquila Nyl. SPECIES
 
 #### Status
 ACCEPTED

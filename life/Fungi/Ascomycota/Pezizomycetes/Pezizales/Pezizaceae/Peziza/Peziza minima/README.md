@@ -1,5 +1,4 @@
-Peziza minima Fr. SPECIES
-=======
+# Peziza minima Fr. SPECIES
 
 #### Status
 ACCEPTED

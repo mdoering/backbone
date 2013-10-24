@@ -1,5 +1,4 @@
-Asterina gopalkrishnanii L.N. Nair & V.P. Kaul SPECIES
-=======
+# Asterina gopalkrishnanii L.N. Nair & V.P. Kaul SPECIES
 
 #### Status
 ACCEPTED

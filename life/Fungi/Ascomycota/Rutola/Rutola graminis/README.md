@@ -1,17 +1,16 @@
-Torula graminis var. graminis VARIETY
-=======
+# Rutola graminis (Desm.) J.L. Crane & Schokn., 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 55(24): 3015 (1978)
 
 #### Original name
-Torula graminis var. graminis
+Torula graminis Desm., 1826
 
 ### Remarks
 null

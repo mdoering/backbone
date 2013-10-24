@@ -1,17 +1,16 @@
-Gyalecta carneolutea f. carneolutea FORM
-=======
+# Cryptolechia carneolutea (Turner) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Wetter. Gesellsch. Ges. Naturk. 13 (1853)
 
 #### Original name
-Gyalecta carneolutea f. carneolutea
+Lichen carneoluteus (Turner) Sm.
 
 ### Remarks
 null

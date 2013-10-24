@@ -1,5 +1,4 @@
-Rhodophyllus acutoconicus Hongo SPECIES
-=======
+# Rhodophyllus acutoconicus Hongo SPECIES
 
 #### Status
 ACCEPTED

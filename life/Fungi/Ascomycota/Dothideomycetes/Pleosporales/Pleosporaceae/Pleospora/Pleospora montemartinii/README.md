@@ -1,8 +1,7 @@
-Pleospora montemartini Caracc. SPECIES
-=======
+# Pleospora montemartinii Caracc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora montemartini Caracc.
+Pleospora montemartinii Caracc.
 
 ### Remarks
 null

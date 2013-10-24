@@ -1,5 +1,4 @@
-Schizoxylon yuccae Maubl. SPECIES
-=======
+# Schizoxylon yuccae Maubl. SPECIES
 
 #### Status
 ACCEPTED

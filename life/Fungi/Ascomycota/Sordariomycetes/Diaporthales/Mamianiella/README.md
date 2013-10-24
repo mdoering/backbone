@@ -1,5 +1,4 @@
-Mamianiella Höhn. GENUS
-=======
+# Mamianiella Höhn. GENUS
 
 #### Status
 ACCEPTED

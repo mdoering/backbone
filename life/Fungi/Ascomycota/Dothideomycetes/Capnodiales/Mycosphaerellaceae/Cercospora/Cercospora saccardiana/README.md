@@ -1,5 +1,4 @@
-Cercospora saccardiana Scalia SPECIES
-=======
+# Cercospora saccardiana Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus velutinoaffinis Singer SPECIES
-=======
+# Crepidotus velutinoaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

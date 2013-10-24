@@ -1,5 +1,4 @@
-Subathua balcanica (N. Balte) A. K. Khanna & H. P. Singh SPECIES
-=======
+# Subathua balcanica (N. Balte) A. K. Khanna & H. P. Singh SPECIES
 
 #### Status
 ACCEPTED

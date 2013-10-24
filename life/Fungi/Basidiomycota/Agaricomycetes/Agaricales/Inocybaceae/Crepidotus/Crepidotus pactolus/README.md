@@ -1,5 +1,4 @@
-Crepidotus pactolus Cooke ex Pilát SPECIES
-=======
+# Crepidotus pactolus Cooke ex Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina abbreviata Lemmermann SPECIES
-=======
+# Spirulina abbreviata Lemmermann SPECIES
 
 #### Status
 ACCEPTED

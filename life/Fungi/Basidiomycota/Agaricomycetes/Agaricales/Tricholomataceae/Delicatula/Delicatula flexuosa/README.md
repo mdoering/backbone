@@ -1,5 +1,4 @@
-Delicatula flexuosa Velen. SPECIES
-=======
+# Delicatula flexuosa Velen. SPECIES
 
 #### Status
 ACCEPTED

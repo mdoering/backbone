@@ -1,5 +1,4 @@
-Haplographites cateniger Félix SPECIES
-=======
+# Haplographites cateniger Félix SPECIES
 
 #### Status
 ACCEPTED

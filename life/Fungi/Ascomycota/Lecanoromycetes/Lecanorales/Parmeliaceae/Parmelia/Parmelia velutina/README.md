@@ -1,5 +1,4 @@
-Parmelia velutina Zahlbr. SPECIES
-=======
+# Parmelia velutina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

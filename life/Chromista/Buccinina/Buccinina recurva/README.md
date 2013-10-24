@@ -1,5 +1,4 @@
-Buccinina recurva Costa, 1861 SPECIES
-=======
+# Buccinina recurva Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

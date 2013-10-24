@@ -1,8 +1,7 @@
-Heteropatellina frustratiformis McCulloch, 1977 SPECIES
-=======
+# Ungulatelloides frustratiformis (McCulloch, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

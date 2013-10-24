@@ -1,5 +1,4 @@
-Lecidella schistiseda (Zahlbr.) Hertel SPECIES
-=======
+# Lecidella schistiseda (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

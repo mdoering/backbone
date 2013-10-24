@@ -1,5 +1,4 @@
-Rosellinia gravesii Sacc. SPECIES
-=======
+# Rosellinia gravesii Sacc. SPECIES
 
 #### Status
 ACCEPTED

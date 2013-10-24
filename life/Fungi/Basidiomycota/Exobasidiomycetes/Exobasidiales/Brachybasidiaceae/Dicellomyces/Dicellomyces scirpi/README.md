@@ -1,5 +1,4 @@
-Dicellomyces scirpi Raitv., 1968 SPECIES
-=======
+# Dicellomyces scirpi Raitv., 1968 SPECIES
 
 #### Status
 ACCEPTED

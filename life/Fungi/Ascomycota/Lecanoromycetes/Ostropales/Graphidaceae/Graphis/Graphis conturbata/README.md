@@ -1,17 +1,16 @@
-Graphis intricata f. intricata FORM
-=======
+# Graphis conturbata Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Graphis intricata f. intricata
+Graphis conturbata Kremp.
 
 ### Remarks
 null

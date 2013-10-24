@@ -1,5 +1,4 @@
-Buellia longispora Scheid. SPECIES
-=======
+# Buellia longispora Scheid. SPECIES
 
 #### Status
 ACCEPTED

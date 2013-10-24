@@ -1,5 +1,4 @@
-Fusarium carpineum Davis SPECIES
-=======
+# Fusarium carpineum Davis SPECIES
 
 #### Status
 ACCEPTED

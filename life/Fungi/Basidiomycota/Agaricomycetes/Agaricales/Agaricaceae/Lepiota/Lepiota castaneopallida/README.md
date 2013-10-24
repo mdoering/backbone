@@ -1,5 +1,4 @@
-Lepiota castaneopallida Damblon & Lambinon SPECIES
-=======
+# Lepiota castaneopallida Damblon & Lambinon SPECIES
 
 #### Status
 ACCEPTED

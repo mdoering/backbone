@@ -1,5 +1,4 @@
-Balladyna sydowii Petr. SPECIES
-=======
+# Balladyna sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

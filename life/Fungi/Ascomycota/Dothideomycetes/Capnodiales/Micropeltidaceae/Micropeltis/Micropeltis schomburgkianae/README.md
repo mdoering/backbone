@@ -1,5 +1,4 @@
-Micropeltis schomburgkianae Bat. SPECIES
-=======
+# Micropeltis schomburgkianae Bat. SPECIES
 
 #### Status
 ACCEPTED

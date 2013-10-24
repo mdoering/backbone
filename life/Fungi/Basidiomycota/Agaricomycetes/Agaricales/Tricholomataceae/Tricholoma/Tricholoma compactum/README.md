@@ -1,5 +1,4 @@
-Tricholoma compactum (Fr.) P. Karst. SPECIES
-=======
+# Tricholoma compactum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

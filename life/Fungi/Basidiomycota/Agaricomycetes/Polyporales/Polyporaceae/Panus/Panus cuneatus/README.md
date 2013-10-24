@@ -1,5 +1,4 @@
-Panus cuneatus Mont. SPECIES
-=======
+# Panus cuneatus Mont. SPECIES
 
 #### Status
 ACCEPTED

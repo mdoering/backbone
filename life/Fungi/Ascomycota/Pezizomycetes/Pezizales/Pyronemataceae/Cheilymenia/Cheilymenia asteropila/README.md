@@ -1,5 +1,4 @@
-Cheilymenia asteropila J. Moravec SPECIES
-=======
+# Cheilymenia asteropila J. Moravec SPECIES
 
 #### Status
 ACCEPTED

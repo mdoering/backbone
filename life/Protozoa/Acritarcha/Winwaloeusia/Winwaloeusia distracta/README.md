@@ -1,5 +1,4 @@
-Winwaloeusia distracta (Deunff, 1966) Deunff, 1977 SPECIES
-=======
+# Winwaloeusia distracta (Deunff, 1966) Deunff, 1977 SPECIES
 
 #### Status
 ACCEPTED

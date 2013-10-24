@@ -1,5 +1,4 @@
-Gloniella microtheca (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Gloniella microtheca (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

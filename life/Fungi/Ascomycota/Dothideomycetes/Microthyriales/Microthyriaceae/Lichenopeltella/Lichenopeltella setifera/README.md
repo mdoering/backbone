@@ -1,5 +1,4 @@
-Lichenopeltella setifera Matzer SPECIES
-=======
+# Lichenopeltella setifera Matzer SPECIES
 
 #### Status
 ACCEPTED

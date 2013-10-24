@@ -1,5 +1,4 @@
-Ceratostomella fuscolutea Rehm SPECIES
-=======
+# Ceratostomella fuscolutea Rehm SPECIES
 
 #### Status
 ACCEPTED

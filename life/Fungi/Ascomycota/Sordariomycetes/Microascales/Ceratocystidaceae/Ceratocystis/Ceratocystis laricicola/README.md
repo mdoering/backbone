@@ -1,5 +1,4 @@
-Ceratocystis laricicola Redfern & Minter, 1987 SPECIES
-=======
+# Ceratocystis laricicola Redfern & Minter, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma balanitis Ciccar. SPECIES
-=======
+# Phoma balanitis Ciccar. SPECIES
 
 #### Status
 ACCEPTED

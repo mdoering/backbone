@@ -1,5 +1,4 @@
-Gonatophragmiella didymospora R. Kumar, A.N. Rai & Kamal, 1994 SPECIES
-=======
+# Gonatophragmiella didymospora R. Kumar, A.N. Rai & Kamal, 1994 SPECIES
 
 #### Status
 ACCEPTED

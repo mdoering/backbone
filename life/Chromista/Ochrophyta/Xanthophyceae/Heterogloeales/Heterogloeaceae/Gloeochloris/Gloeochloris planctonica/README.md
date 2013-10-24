@@ -1,5 +1,4 @@
-Gloeochloris planctonica Pascher SPECIES
-=======
+# Gloeochloris planctonica Pascher SPECIES
 
 #### Status
 ACCEPTED

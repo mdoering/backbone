@@ -1,5 +1,4 @@
-Laboulbenia beckeri Balazuc SPECIES
-=======
+# Laboulbenia beckeri Balazuc SPECIES
 
 #### Status
 ACCEPTED

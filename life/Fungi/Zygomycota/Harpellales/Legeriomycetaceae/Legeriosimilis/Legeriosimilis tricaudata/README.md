@@ -1,5 +1,4 @@
-Legeriosimilis tricaudata M.C. Williams, Lichtw., M.M. White & J.K. Misra, 1999 SPECIES
-=======
+# Legeriosimilis tricaudata M.C. Williams, Lichtw., M.M. White & J.K. Misra, 1999 SPECIES
 
 #### Status
 ACCEPTED

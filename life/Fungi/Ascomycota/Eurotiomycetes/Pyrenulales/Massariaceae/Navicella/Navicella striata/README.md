@@ -1,5 +1,4 @@
-Navicella striata (Sacc.) Kuntze SPECIES
-=======
+# Navicella striata (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidora hypoptoides (Nyl.) Motyka SPECIES
-=======
+# Lecidora hypoptoides (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

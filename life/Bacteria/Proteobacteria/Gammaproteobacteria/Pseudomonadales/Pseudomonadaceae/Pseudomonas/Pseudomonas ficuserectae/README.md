@@ -1,5 +1,4 @@
-Pseudomonas ficuserectae Goto, 1983 SPECIES
-=======
+# Pseudomonas ficuserectae Goto, 1983 SPECIES
 
 #### Status
 ACCEPTED

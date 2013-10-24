@@ -1,5 +1,4 @@
-Sinophysis stenosoma M. Hoppenrath SPECIES
-=======
+# Sinophysis stenosoma M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

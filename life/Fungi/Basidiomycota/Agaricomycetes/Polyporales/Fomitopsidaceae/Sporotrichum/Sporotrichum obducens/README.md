@@ -1,5 +1,4 @@
-Sporotrichum obducens Link SPECIES
-=======
+# Sporotrichum obducens Link SPECIES
 
 #### Status
 ACCEPTED

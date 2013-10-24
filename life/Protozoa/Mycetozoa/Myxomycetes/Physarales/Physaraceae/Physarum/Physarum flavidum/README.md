@@ -1,8 +1,7 @@
-Lignydium flavidum (Peck) Kuntze, 1898 SPECIES
-=======
+# Physarum flavidum (Peck) Peck, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Didymium flavidum Peck, 1876
 
 ### Remarks
 null

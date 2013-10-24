@@ -1,5 +1,4 @@
-Tylopilus albofarinaceus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Tylopilus albofarinaceus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

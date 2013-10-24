@@ -1,5 +1,4 @@
-Auriscalpium dissectum Maas Geest. & Rammeloo, 1979 SPECIES
-=======
+# Auriscalpium dissectum Maas Geest. & Rammeloo, 1979 SPECIES
 
 #### Status
 ACCEPTED

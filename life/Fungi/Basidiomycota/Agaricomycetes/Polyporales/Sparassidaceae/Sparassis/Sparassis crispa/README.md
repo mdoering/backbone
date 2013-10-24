@@ -1,17 +1,16 @@
-Merisma crispum (Wulfen) Ehrenb., 1818 SPECIES
-=======
+# Sparassis crispa (Wulfen) Fr., 1821 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 1: 465 (1821)
 
 #### Original name
-null
+Clavaria crispa (Scop.) Sacc., 1910
 
 ### Remarks
 null

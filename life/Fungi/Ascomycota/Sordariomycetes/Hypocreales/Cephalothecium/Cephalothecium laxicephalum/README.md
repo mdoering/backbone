@@ -1,5 +1,4 @@
-Cephalothecium laxicephalum Kamyschko SPECIES
-=======
+# Cephalothecium laxicephalum Kamyschko SPECIES
 
 #### Status
 ACCEPTED

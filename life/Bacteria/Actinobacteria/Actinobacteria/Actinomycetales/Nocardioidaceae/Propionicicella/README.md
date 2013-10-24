@@ -1,5 +1,4 @@
-Propionicicella Bae, Moe, Yan, Tiago, da Costa & Rainey, 2006 GENUS
-=======
+# Propionicicella Bae, Moe, Yan, Tiago, da Costa & Rainey, 2006 GENUS
 
 #### Status
 ACCEPTED

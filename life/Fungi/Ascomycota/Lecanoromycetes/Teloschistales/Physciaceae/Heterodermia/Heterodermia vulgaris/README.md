@@ -1,5 +1,4 @@
-Heterodermia vulgaris (Vain.) Follmann & Redón SPECIES
-=======
+# Heterodermia vulgaris (Vain.) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

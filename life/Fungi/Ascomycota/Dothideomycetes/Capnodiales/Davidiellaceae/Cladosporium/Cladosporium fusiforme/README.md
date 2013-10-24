@@ -1,5 +1,4 @@
-Cladosporium fusiforme Zalar, de Hoog & Gunde-Cim. SPECIES
-=======
+# Cladosporium fusiforme Zalar, de Hoog & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

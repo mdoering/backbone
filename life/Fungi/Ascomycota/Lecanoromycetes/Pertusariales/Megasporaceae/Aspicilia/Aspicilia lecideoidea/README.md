@@ -1,5 +1,4 @@
-Aspicilia lecideoidea Hue SPECIES
-=======
+# Aspicilia lecideoidea Hue SPECIES
 
 #### Status
 ACCEPTED

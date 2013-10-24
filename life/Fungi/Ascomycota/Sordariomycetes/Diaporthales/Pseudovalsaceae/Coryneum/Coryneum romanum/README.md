@@ -1,5 +1,4 @@
-Coryneum romanum D. Sacc. SPECIES
-=======
+# Coryneum romanum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

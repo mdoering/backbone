@@ -1,5 +1,4 @@
-Anomalinoides semicribratus (Beckmann, 1954) SPECIES
-=======
+# Anomalinoides semicribratus (Beckmann, 1954) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis tetraspora F. Stevens & Manter SPECIES
-=======
+# Micropeltis tetraspora F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

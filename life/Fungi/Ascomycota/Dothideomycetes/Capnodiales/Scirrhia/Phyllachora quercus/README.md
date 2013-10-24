@@ -1,5 +1,4 @@
-Phyllachora quercus A.K. Kar & S.K. Gupta, 1981 SPECIES
-=======
+# Phyllachora quercus A.K. Kar & S.K. Gupta, 1981 SPECIES
 
 #### Status
 DOUBTFUL

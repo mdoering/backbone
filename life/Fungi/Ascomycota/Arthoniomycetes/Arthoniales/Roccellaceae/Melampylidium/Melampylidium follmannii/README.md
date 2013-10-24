@@ -1,5 +1,4 @@
-Melampylidium follmannii C.W. Dodge SPECIES
-=======
+# Melampylidium follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

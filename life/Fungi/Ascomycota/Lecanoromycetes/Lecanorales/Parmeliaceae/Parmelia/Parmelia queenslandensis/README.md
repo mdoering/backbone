@@ -1,5 +1,4 @@
-Parmelia queenslandensis Hale SPECIES
-=======
+# Parmelia queenslandensis Hale SPECIES
 
 #### Status
 ACCEPTED

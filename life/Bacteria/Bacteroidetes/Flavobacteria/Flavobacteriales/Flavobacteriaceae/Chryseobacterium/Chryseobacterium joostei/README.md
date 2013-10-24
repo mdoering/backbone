@@ -1,5 +1,4 @@
-Chryseobacterium joostei Hugo et al., 2003 SPECIES
-=======
+# Chryseobacterium joostei Hugo et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

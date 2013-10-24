@@ -1,5 +1,4 @@
-Tricholoma portentiferum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma portentiferum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

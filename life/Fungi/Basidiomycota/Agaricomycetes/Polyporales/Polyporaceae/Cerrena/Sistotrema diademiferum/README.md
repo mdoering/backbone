@@ -1,5 +1,4 @@
-Sistotrema diademiferum (Bourdot & Galzin) Donk, 1956 SPECIES
-=======
+# Sistotrema diademiferum (Bourdot & Galzin) Donk, 1956 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Glyphis subtorquescens Nyl. SPECIES
-=======
+# Glyphis subtorquescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

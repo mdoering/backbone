@@ -1,5 +1,4 @@
-Desulfonatronum cooperativum Zhilina et al., 2005 SPECIES
-=======
+# Desulfonatronum cooperativum Zhilina et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

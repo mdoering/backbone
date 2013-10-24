@@ -1,5 +1,4 @@
-Marasmiellus brunneocarpus Har. Takah. SPECIES
-=======
+# Marasmiellus brunneocarpus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

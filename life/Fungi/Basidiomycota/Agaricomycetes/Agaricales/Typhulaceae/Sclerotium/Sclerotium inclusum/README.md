@@ -1,5 +1,4 @@
-Sclerotium inclusum J.C. Schmidt & Kunze SPECIES
-=======
+# Sclerotium inclusum J.C. Schmidt & Kunze SPECIES
 
 #### Status
 ACCEPTED

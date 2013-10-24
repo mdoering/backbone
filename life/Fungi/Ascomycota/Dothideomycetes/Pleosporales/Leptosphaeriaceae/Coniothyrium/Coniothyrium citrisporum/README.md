@@ -1,5 +1,4 @@
-Coniothyrium citrisporum (Speg.) Kuntze SPECIES
-=======
+# Coniothyrium citrisporum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

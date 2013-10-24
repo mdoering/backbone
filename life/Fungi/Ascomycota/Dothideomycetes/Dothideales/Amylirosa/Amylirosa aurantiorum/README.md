@@ -1,5 +1,4 @@
-Amylirosa aurantiorum Speg., 1921 SPECIES
-=======
+# Amylirosa aurantiorum Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

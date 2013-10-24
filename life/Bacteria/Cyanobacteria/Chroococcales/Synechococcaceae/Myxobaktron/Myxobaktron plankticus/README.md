@@ -1,5 +1,4 @@
-Myxobaktron plankticus G.B. McGregor SPECIES
-=======
+# Myxobaktron plankticus G.B. McGregor SPECIES
 
 #### Status
 ACCEPTED

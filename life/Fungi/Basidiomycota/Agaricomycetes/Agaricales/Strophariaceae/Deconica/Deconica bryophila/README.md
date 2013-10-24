@@ -1,5 +1,4 @@
-Deconica bryophila Peck SPECIES
-=======
+# Deconica bryophila Peck SPECIES
 
 #### Status
 ACCEPTED

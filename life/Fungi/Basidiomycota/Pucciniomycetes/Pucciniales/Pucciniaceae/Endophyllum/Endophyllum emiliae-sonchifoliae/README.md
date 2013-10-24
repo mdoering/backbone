@@ -1,5 +1,4 @@
-Endophyllum emiliae-sonchifoliae Nag Raj, Govindu & Thirum., 1972 SPECIES
-=======
+# Endophyllum emiliae-sonchifoliae Nag Raj, Govindu & Thirum., 1972 SPECIES
 
 #### Status
 ACCEPTED

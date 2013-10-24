@@ -1,5 +1,4 @@
-Isaria gracilis Vosseler SPECIES
-=======
+# Isaria gracilis Vosseler SPECIES
 
 #### Status
 ACCEPTED

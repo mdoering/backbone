@@ -1,5 +1,4 @@
-Penzigomyces obovatus (Matsush.) Subram. SPECIES
-=======
+# Penzigomyces obovatus (Matsush.) Subram. SPECIES
 
 #### Status
 ACCEPTED

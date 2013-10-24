@@ -1,14 +1,13 @@
-Ampullina nigrella (Fr.) Quél., 1875 SPECIES
-=======
+# Didymella nigrella (Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 524 (1875)
+Syll. fung. (Abellini) 2: XLIV (1883)
 
 #### Original name
 Sphaeria nigrella (Auersw.) Fr., 1815

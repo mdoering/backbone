@@ -1,5 +1,4 @@
-Uredo geitonoplesii McAlpine SPECIES
-=======
+# Uredo geitonoplesii McAlpine SPECIES
 
 #### Status
 ACCEPTED

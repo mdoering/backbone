@@ -1,5 +1,4 @@
-Aspergillus cavernicola Lörinczi SPECIES
-=======
+# Aspergillus cavernicola Lörinczi SPECIES
 
 #### Status
 ACCEPTED

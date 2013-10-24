@@ -1,8 +1,7 @@
-Microdiplodia spiraecola Dearn. & House SPECIES
-=======
+# Microdiplodia spiraeicola Dearn. & House SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microdiplodia spiraecola Dearn. & House
+Microdiplodia spiraeicola Dearn. & House
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena sordida Velen. SPECIES
-=======
+# Mycena sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripartiella melanogrammi Stein G., 1961 SPECIES
-=======
+# Tripartiella melanogrammi Stein G., 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diplodia caffera Matsush. SPECIES
-=======
+# Diplodia caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 9 (1996)
 
 #### Original name
-Diplodia caffera Matsush.
+Diplodia caffra Matsush.
 
 ### Remarks
 null

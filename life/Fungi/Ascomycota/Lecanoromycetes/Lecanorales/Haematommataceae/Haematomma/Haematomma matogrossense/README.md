@@ -1,5 +1,4 @@
-Haematomma matogrossense Kalb & Staiger SPECIES
-=======
+# Haematomma matogrossense Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

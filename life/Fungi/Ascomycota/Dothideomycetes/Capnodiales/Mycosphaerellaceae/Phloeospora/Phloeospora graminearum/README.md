@@ -1,5 +1,4 @@
-Phloeospora graminearum R. Sprague & Hardison SPECIES
-=======
+# Phloeospora graminearum R. Sprague & Hardison SPECIES
 
 #### Status
 ACCEPTED

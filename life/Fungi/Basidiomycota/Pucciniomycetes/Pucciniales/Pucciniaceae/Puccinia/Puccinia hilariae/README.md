@@ -1,5 +1,4 @@
-Puccinia hilariae Cummins SPECIES
-=======
+# Puccinia hilariae Cummins SPECIES
 
 #### Status
 ACCEPTED

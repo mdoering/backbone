@@ -1,5 +1,4 @@
-Laestadia abietella-sibirica Schwarzman & Tartenova SPECIES
-=======
+# Laestadia abietella-sibirica Schwarzman & Tartenova SPECIES
 
 #### Status
 ACCEPTED

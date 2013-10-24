@@ -1,17 +1,16 @@
-Bryoria trichodes subsp. trichodes SUBSPECIES
-=======
+# Bryoria trichodes (Michx.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Op. bot. 42: 78 (1977)
 
 #### Original name
-Bryoria trichodes subsp. trichodes
+Setaria trichodes Michx.
 
 ### Remarks
 null

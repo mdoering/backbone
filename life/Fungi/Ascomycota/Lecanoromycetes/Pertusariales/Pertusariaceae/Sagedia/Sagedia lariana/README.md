@@ -1,5 +1,4 @@
-Sagedia lariana (A. Massal.) Anzi SPECIES
-=======
+# Sagedia lariana (A. Massal.) Anzi SPECIES
 
 #### Status
 ACCEPTED

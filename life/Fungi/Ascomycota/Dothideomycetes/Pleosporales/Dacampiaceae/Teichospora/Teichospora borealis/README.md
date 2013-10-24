@@ -1,5 +1,4 @@
-Teichospora borealis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Teichospora borealis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

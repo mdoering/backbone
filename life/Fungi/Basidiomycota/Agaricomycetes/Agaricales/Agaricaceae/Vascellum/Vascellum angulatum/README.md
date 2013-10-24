@@ -1,5 +1,4 @@
-Vascellum angulatum (Dissing & M. Lange) P. Ponce de León SPECIES
-=======
+# Vascellum angulatum (Dissing & M. Lange) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

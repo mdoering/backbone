@@ -1,5 +1,4 @@
-Dasyscyphus triseptatus Dennis SPECIES
-=======
+# Dasyscyphus triseptatus Dennis SPECIES
 
 #### Status
 ACCEPTED

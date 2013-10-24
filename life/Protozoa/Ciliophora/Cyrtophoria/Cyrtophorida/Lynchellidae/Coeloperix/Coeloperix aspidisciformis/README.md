@@ -1,5 +1,4 @@
-Coeloperix aspidisciformis (Kahl, 1933) Gong & Song, 2004 SPECIES
-=======
+# Coeloperix aspidisciformis (Kahl, 1933) Gong & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

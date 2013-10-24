@@ -1,5 +1,4 @@
-Puccinia insolita Syd. SPECIES
-=======
+# Puccinia insolita Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muyocopron vaccinii (De Not.) Sacc. SPECIES
-=======
+# Muyocopron vaccinii (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

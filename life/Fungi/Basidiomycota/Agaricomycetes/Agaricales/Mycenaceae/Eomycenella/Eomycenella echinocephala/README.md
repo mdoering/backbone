@@ -1,5 +1,4 @@
-Eomycenella echinocephala G.F. Atk. SPECIES
-=======
+# Eomycenella echinocephala G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

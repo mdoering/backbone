@@ -1,5 +1,4 @@
-Xylaria coprophila Wehm. SPECIES
-=======
+# Xylaria coprophila Wehm. SPECIES
 
 #### Status
 ACCEPTED

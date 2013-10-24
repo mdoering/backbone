@@ -1,5 +1,4 @@
-Valensiella groenlandica (M. Smelror) N. E. Poulsen SPECIES
-=======
+# Valensiella groenlandica (M. Smelror) N. E. Poulsen SPECIES
 
 #### Status
 ACCEPTED

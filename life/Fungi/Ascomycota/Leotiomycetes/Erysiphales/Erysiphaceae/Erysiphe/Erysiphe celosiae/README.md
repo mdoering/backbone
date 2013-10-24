@@ -1,5 +1,4 @@
-Erysiphe celosiae Tanda SPECIES
-=======
+# Erysiphe celosiae Tanda SPECIES
 
 #### Status
 ACCEPTED

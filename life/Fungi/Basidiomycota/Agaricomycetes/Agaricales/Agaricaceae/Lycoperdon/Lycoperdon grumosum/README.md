@@ -1,5 +1,4 @@
-Lycoperdon grumosum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon grumosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

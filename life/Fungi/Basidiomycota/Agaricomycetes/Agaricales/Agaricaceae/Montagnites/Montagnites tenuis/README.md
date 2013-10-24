@@ -1,5 +1,4 @@
-Montagnites tenuis Pat. SPECIES
-=======
+# Montagnites tenuis Pat. SPECIES
 
 #### Status
 ACCEPTED

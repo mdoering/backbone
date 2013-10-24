@@ -1,5 +1,4 @@
-Schismatomma lecanoroides (Fée) Zahlbr. SPECIES
-=======
+# Schismatomma lecanoroides (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

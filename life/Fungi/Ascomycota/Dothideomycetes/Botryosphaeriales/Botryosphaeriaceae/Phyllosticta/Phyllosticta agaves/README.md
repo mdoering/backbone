@@ -1,5 +1,4 @@
-Phyllosticta agaves Sawada SPECIES
-=======
+# Phyllosticta agaves Sawada SPECIES
 
 #### Status
 ACCEPTED

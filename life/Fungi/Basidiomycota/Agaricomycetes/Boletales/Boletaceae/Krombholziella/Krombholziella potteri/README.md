@@ -1,5 +1,4 @@
-Krombholziella potteri (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella potteri (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

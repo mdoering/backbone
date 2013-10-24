@@ -1,5 +1,4 @@
-Pyrenula macrospora (Degel.) Coppins & P. James, 1980 SPECIES
-=======
+# Pyrenula macrospora (Degel.) Coppins & P. James, 1980 SPECIES
 
 #### Status
 DOUBTFUL

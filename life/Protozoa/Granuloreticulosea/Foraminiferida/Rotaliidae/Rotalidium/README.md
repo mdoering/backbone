@@ -1,5 +1,4 @@
-Rotalidium Asano, 1936 GENUS
-=======
+# Rotalidium Asano, 1936 GENUS
 
 #### Status
 ACCEPTED

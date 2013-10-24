@@ -1,5 +1,4 @@
-Asteridium citricola McAlpine SPECIES
-=======
+# Asteridium citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

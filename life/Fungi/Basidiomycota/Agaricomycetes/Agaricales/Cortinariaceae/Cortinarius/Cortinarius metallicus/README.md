@@ -1,5 +1,4 @@
-Cortinarius metallicus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius metallicus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

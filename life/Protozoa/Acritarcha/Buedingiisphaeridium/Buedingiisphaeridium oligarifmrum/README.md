@@ -1,5 +1,4 @@
-Buedingiisphaeridium oligarifmrum (Chibrikova, 1972) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium oligarifmrum (Chibrikova, 1972) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

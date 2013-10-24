@@ -1,5 +1,4 @@
-Clitopilus conissans Peck SPECIES
-=======
+# Clitopilus conissans Peck SPECIES
 
 #### Status
 ACCEPTED

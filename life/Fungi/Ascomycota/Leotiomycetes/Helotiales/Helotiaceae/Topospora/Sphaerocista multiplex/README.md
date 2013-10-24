@@ -1,5 +1,4 @@
-Sphaerocista multiplex Preuss SPECIES
-=======
+# Sphaerocista multiplex Preuss SPECIES
 
 #### Status
 ACCEPTED

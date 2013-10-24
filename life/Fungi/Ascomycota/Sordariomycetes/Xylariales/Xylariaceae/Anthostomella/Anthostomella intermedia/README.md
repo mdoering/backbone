@@ -1,5 +1,4 @@
-Anthostomella intermedia Sacc. SPECIES
-=======
+# Anthostomella intermedia Sacc. SPECIES
 
 #### Status
 ACCEPTED

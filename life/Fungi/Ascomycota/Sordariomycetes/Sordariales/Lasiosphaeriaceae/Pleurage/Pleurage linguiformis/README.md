@@ -1,5 +1,4 @@
-Pleurage linguiformis (Cain) C. Moreau SPECIES
-=======
+# Pleurage linguiformis (Cain) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

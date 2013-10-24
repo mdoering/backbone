@@ -1,5 +1,4 @@
-Coronasclerotes polygonalis Stach & Pickh. SPECIES
-=======
+# Coronasclerotes polygonalis Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

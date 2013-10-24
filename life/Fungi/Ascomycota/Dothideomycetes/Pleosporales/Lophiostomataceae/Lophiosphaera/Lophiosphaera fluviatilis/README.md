@@ -1,5 +1,4 @@
-Lophiosphaera fluviatilis Ellis & Everh. SPECIES
-=======
+# Lophiosphaera fluviatilis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

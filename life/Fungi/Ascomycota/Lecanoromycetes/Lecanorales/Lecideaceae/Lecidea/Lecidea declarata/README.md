@@ -1,5 +1,4 @@
-Lecidea declarata (Nyl.) Hue SPECIES
-=======
+# Lecidea declarata (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

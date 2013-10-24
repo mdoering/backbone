@@ -1,5 +1,4 @@
-Neoquinqueloculina GENUS
-=======
+# Neoquinqueloculina GENUS
 
 #### Status
 ACCEPTED

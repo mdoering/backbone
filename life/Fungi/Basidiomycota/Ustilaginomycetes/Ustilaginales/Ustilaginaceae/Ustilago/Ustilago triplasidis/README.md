@@ -1,5 +1,4 @@
-Ustilago triplasidis Ellis & Everh. SPECIES
-=======
+# Ustilago triplasidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

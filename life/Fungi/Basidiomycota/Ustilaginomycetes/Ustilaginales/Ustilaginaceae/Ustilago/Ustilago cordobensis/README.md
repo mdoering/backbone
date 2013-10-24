@@ -1,5 +1,4 @@
-Ustilago cordobensis Speg. SPECIES
-=======
+# Ustilago cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria tunicata Müll. Arg. SPECIES
-=======
+# Verrucaria tunicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

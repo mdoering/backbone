@@ -1,5 +1,4 @@
-Erythrobacter citreus Denner et al., 2002 SPECIES
-=======
+# Erythrobacter citreus Denner et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

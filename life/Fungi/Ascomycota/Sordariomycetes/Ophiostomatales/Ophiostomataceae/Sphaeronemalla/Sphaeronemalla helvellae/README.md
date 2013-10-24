@@ -1,5 +1,4 @@
-Sphaeronemalla helvellae (P. A. Karsten) P. A. Karsten SPECIES
-=======
+# Sphaeronemalla helvellae (P. A. Karsten) P. A. Karsten SPECIES
 
 #### Status
 ACCEPTED

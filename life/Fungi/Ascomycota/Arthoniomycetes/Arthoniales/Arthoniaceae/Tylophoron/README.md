@@ -1,17 +1,16 @@
-Thylophoron Nylander, 1862 GENUS
-=======
+# Tylophoron Nyl. ex Stizenb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. Tät. St Gall. naturw. Ges. 117 (1862)
 
 #### Original name
-null
+Tylophoron Nyl. ex Stizenb.
 
 ### Remarks
 null

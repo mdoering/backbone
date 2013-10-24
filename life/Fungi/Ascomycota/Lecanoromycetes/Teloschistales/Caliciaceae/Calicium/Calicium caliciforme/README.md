@@ -1,5 +1,4 @@
-Calicium caliciforme Flot. SPECIES
-=======
+# Calicium caliciforme Flot. SPECIES
 
 #### Status
 ACCEPTED

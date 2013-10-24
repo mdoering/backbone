@@ -1,5 +1,4 @@
-Aspicilia griseola (Th. Fr.) Hellb. SPECIES
-=======
+# Aspicilia griseola (Th. Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naetrocymbe massalongiana (Hepp) R.C. Harris SPECIES
-=======
+# Naetrocymbe massalongiana (Hepp) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

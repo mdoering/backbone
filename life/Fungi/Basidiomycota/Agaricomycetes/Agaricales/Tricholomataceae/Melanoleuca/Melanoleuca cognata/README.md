@@ -1,17 +1,16 @@
-Tricholoma arcuatum var. arcuatum VARIETY
-=======
+# Melanoleuca cognata (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Tricholoma arcuatum var. arcuatum
+null
 
 ### Remarks
 null

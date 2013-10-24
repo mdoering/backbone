@@ -1,5 +1,4 @@
-Epistylis fugitans Kellicott, 1884 SPECIES
-=======
+# Epistylis fugitans Kellicott, 1884 SPECIES
 
 #### Status
 ACCEPTED

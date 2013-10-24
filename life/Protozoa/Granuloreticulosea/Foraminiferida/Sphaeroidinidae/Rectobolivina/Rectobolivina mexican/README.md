@@ -1,5 +1,4 @@
-Rectobolivina mexican Cushman SPECIES
-=======
+# Rectobolivina mexican Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermotoga elfii Ravot et al., 1995 SPECIES
-=======
+# Thermotoga elfii Ravot et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe laevigata (P. Karst.) P. Karst. SPECIES
-=======
+# Inocybe laevigata (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

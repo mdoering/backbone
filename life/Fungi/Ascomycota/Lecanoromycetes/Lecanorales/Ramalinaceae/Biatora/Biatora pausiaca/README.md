@@ -1,5 +1,4 @@
-Biatora pausiaca Printzen & Tønsberg SPECIES
-=======
+# Biatora pausiaca Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

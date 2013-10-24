@@ -1,5 +1,4 @@
-Clitocybe olivaceifulva Corner SPECIES
-=======
+# Clitocybe olivaceifulva Corner SPECIES
 
 #### Status
 ACCEPTED

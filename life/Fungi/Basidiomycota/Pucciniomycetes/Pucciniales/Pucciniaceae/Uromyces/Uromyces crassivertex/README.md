@@ -1,5 +1,4 @@
-Uromyces crassivertex Dietel SPECIES
-=======
+# Uromyces crassivertex Dietel SPECIES
 
 #### Status
 ACCEPTED

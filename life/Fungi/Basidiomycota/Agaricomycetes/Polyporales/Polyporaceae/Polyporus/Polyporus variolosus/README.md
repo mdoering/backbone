@@ -1,5 +1,4 @@
-Polyporus variolosus Berk. & Broome SPECIES
-=======
+# Polyporus variolosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

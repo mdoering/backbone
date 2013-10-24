@@ -1,5 +1,4 @@
-Coccolarcus Haeckel, 1887 GENUS
-=======
+# Coccolarcus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

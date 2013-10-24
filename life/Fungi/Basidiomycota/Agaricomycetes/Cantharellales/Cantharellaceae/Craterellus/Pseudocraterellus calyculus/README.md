@@ -1,14 +1,13 @@
-Craterellus calyculus (Berk. & M.A. Curtis) Burt, 1914 SPECIES
-=======
+# Pseudocraterellus calyculus (Berk. & M.A. Curtis) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 1: 338 (1914)
+Persoonia 2(2): 124 (1962)
 
 #### Original name
 Stereum calyculus Berk. & M.A. Curtis, 1849

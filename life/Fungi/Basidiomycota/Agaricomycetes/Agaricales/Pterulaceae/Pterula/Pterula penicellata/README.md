@@ -1,5 +1,4 @@
-Pterula penicellata Berk. SPECIES
-=======
+# Pterula penicellata Berk. SPECIES
 
 #### Status
 ACCEPTED

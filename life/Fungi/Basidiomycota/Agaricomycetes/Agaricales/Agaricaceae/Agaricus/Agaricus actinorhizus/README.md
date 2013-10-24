@@ -1,5 +1,4 @@
-Agaricus actinorhizus Mont. SPECIES
-=======
+# Agaricus actinorhizus Mont. SPECIES
 
 #### Status
 ACCEPTED

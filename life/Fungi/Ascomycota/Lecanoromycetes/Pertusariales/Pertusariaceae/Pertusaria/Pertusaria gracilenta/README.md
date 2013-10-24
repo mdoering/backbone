@@ -1,5 +1,4 @@
-Pertusaria gracilenta SPECIES
-=======
+# Pertusaria gracilenta SPECIES
 
 #### Status
 ACCEPTED

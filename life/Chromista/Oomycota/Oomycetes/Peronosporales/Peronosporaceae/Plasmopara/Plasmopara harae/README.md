@@ -1,5 +1,4 @@
-Plasmopara harae S. Ito & Muray. SPECIES
-=======
+# Plasmopara harae S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

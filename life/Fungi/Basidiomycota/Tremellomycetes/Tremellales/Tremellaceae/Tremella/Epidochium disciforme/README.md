@@ -1,5 +1,4 @@
-Epidochium disciforme (Fr.) Sacc. SPECIES
-=======
+# Epidochium disciforme (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposporina uredinicola Höhn., 1912 SPECIES
-=======
+# Triposporina uredinicola Höhn., 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monacrosporium megasporum Boedijn SPECIES
-=======
+# Monacrosporium megasporum Boedijn SPECIES
 
 #### Status
 ACCEPTED

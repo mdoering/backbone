@@ -1,5 +1,4 @@
-Glenodinium ostenfeldii Paulsen SPECIES
-=======
+# Glenodinium ostenfeldii Paulsen SPECIES
 
 #### Status
 ACCEPTED

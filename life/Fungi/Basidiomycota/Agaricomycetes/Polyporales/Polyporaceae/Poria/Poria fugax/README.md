@@ -1,5 +1,4 @@
-Poria fugax Pers. SPECIES
-=======
+# Poria fugax Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leifsonia aurea Reddy et al., 2003 SPECIES
-=======
+# Leifsonia aurea Reddy et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

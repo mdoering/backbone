@@ -1,5 +1,4 @@
-Omphalina subfumosa (H.E. Bigelow) Harmaja SPECIES
-=======
+# Omphalina subfumosa (H.E. Bigelow) Harmaja SPECIES
 
 #### Status
 ACCEPTED

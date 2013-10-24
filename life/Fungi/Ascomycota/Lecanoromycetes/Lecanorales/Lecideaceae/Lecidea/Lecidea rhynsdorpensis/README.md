@@ -1,5 +1,4 @@
-Lecidea rhynsdorpensis Zahlbr. SPECIES
-=======
+# Lecidea rhynsdorpensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

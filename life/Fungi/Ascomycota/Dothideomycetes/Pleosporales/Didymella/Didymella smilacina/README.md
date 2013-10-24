@@ -1,5 +1,4 @@
-Didymella smilacina Bat. & Peres SPECIES
-=======
+# Didymella smilacina Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barrmaelia rhamnicola Rappaz, 1995 SPECIES
-=======
+# Barrmaelia rhamnicola Rappaz, 1995 SPECIES
 
 #### Status
 ACCEPTED

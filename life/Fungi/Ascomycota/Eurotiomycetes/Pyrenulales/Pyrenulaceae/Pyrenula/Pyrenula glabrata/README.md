@@ -1,5 +1,4 @@
-Pyrenula glabrata (Ach.) A. Massal. SPECIES
-=======
+# Pyrenula glabrata (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

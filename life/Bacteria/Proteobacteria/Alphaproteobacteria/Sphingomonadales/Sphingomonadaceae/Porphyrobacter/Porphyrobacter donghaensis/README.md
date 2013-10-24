@@ -1,5 +1,4 @@
-Porphyrobacter donghaensis Yoon et al., 2004 SPECIES
-=======
+# Porphyrobacter donghaensis Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

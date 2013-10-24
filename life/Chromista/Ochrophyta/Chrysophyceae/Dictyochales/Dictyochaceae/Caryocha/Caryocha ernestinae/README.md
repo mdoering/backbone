@@ -1,5 +1,4 @@
-Caryocha ernestinae (A. Bachmann) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha ernestinae (A. Bachmann) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

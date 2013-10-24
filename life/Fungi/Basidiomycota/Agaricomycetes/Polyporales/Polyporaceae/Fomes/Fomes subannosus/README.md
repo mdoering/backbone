@@ -1,5 +1,4 @@
-Fomes subannosus Bres. SPECIES
-=======
+# Fomes subannosus Bres. SPECIES
 
 #### Status
 ACCEPTED

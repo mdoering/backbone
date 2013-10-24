@@ -1,5 +1,4 @@
-Russula pallescens P. Karst. SPECIES
-=======
+# Russula pallescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

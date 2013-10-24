@@ -1,5 +1,4 @@
-Pyxine chrysantha Vain. SPECIES
-=======
+# Pyxine chrysantha Vain. SPECIES
 
 #### Status
 ACCEPTED

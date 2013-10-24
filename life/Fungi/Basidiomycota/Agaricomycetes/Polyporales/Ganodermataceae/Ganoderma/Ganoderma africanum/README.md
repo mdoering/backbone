@@ -1,5 +1,4 @@
-Ganoderma africanum (Lloyd) Doidge SPECIES
-=======
+# Ganoderma africanum (Lloyd) Doidge SPECIES
 
 #### Status
 ACCEPTED

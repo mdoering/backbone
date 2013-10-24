@@ -1,5 +1,4 @@
-Lophodermium richeae Petr., 1954 SPECIES
-=======
+# Lophodermium richeae Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

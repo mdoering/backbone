@@ -1,5 +1,4 @@
-Lentinus fuscus Lloyd SPECIES
-=======
+# Lentinus fuscus Lloyd SPECIES
 
 #### Status
 ACCEPTED

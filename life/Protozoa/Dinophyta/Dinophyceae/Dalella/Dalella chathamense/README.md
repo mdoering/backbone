@@ -1,5 +1,4 @@
-Dalella chathamense A. McMinn & X. Sun, 1994 SPECIES
-=======
+# Dalella chathamense A. McMinn & X. Sun, 1994 SPECIES
 
 #### Status
 ACCEPTED

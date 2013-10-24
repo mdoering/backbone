@@ -1,5 +1,4 @@
-Litoricola Kim et al., 2007 GENUS
-=======
+# Litoricola Kim et al., 2007 GENUS
 
 #### Status
 ACCEPTED

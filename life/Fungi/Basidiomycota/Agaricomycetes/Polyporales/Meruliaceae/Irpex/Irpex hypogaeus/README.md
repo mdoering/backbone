@@ -1,5 +1,4 @@
-Irpex hypogaeus Fuckel SPECIES
-=======
+# Irpex hypogaeus Fuckel SPECIES
 
 #### Status
 ACCEPTED

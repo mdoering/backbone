@@ -1,5 +1,4 @@
-Lecanora scrobiculata Motyka SPECIES
-=======
+# Lecanora scrobiculata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium irregulare W.J. Koch, 1957 SPECIES
-=======
+# Phlyctochytrium irregulare W.J. Koch, 1957 SPECIES
 
 #### Status
 ACCEPTED

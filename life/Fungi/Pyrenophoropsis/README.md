@@ -1,5 +1,4 @@
-Pyrenophoropsis C. Ramesh GENUS
-=======
+# Pyrenophoropsis C. Ramesh GENUS
 
 #### Status
 ACCEPTED

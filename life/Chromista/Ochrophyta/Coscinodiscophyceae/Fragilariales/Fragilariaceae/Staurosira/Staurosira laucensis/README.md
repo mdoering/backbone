@@ -1,5 +1,4 @@
-Staurosira laucensis var. vulpina Lange-Bertalot & U.Rumrich VARIETY
-=======
+# Staurosira laucensis Lange-Bertalot & U.Rumrich SPECIES
 
 #### Status
 ACCEPTED

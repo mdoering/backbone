@@ -1,5 +1,4 @@
-Pegidia Heron-Allen & Earland, 1928 GENUS
-=======
+# Pegidia Heron-Allen & Earland, 1928 GENUS
 
 #### Status
 ACCEPTED

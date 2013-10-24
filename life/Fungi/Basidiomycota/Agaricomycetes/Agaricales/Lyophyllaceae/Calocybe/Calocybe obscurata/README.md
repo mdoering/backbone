@@ -1,5 +1,4 @@
-Calocybe obscurata (P. Karst.) Arnolds SPECIES
-=======
+# Calocybe obscurata (P. Karst.) Arnolds SPECIES
 
 #### Status
 ACCEPTED

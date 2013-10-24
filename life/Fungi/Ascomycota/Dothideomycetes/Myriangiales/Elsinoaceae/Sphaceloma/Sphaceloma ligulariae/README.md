@@ -1,5 +1,4 @@
-Sphaceloma ligulariae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma ligulariae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

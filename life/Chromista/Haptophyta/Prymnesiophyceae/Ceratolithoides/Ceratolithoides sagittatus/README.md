@@ -1,5 +1,4 @@
-Ceratolithoides sagittatus SPECIES
-=======
+# Ceratolithoides sagittatus SPECIES
 
 #### Status
 ACCEPTED

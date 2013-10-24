@@ -1,5 +1,4 @@
-Trichoglossum qingchengense W.Y. Zhuang SPECIES
-=======
+# Trichoglossum qingchengense W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

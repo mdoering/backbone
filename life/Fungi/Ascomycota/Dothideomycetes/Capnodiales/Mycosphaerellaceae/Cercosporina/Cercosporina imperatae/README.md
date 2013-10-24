@@ -1,5 +1,4 @@
-Cercosporina imperatae Syd. & P. Syd. SPECIES
-=======
+# Cercosporina imperatae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Antennellina J.M. Mend. GENUS
-=======
+# Scorias Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 55 (1925)
+null
 
 #### Original name
-Antennellina J.M. Mend.
+Scorias Fr.
 
 ### Remarks
 null

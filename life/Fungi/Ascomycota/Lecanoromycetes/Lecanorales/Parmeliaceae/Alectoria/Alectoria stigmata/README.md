@@ -1,5 +1,4 @@
-Alectoria stigmata Bystrek SPECIES
-=======
+# Alectoria stigmata Bystrek SPECIES
 
 #### Status
 ACCEPTED

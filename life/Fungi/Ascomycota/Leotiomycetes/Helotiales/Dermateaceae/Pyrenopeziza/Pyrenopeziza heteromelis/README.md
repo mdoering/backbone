@@ -1,5 +1,4 @@
-Pyrenopeziza heteromelis W. Phillips & Harkn. SPECIES
-=======
+# Pyrenopeziza heteromelis W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia coelosporium (Fr.) E.W. Mason & M.B. Ellis SPECIES
-=======
+# Periconia coelosporium (Fr.) E.W. Mason & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

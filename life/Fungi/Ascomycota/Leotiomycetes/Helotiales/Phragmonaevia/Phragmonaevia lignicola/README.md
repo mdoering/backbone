@@ -1,5 +1,4 @@
-Phragmonaevia lignicola Vouaux SPECIES
-=======
+# Phragmonaevia lignicola Vouaux SPECIES
 
 #### Status
 ACCEPTED

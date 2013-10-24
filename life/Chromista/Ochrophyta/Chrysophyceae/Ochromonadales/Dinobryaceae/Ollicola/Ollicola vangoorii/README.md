@@ -1,8 +1,7 @@
-Calycomonas vangoorii (W. Conrad) J.W.G. Lund SPECIES
-=======
+# Ollicola vangoorii (W. Conrad) Vørs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

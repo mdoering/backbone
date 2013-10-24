@@ -1,5 +1,4 @@
-Bullaria insulana (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria insulana (Arthur) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

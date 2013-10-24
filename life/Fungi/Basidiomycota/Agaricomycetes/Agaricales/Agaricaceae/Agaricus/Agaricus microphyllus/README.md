@@ -1,5 +1,4 @@
-Agaricus microphyllus Corda SPECIES
-=======
+# Agaricus microphyllus Corda SPECIES
 
 #### Status
 ACCEPTED

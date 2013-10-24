@@ -1,5 +1,4 @@
-Lecanora borealis Flot. SPECIES
-=======
+# Lecanora borealis Flot. SPECIES
 
 #### Status
 ACCEPTED

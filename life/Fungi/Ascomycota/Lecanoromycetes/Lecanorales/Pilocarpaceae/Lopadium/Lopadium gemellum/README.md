@@ -1,5 +1,4 @@
-Lopadium gemellum (Anzi) Jatta SPECIES
-=======
+# Lopadium gemellum (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

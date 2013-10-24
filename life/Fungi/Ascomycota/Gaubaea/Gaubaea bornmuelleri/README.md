@@ -1,5 +1,4 @@
-Gaubaea bornmuelleri (Magnus) Petr. SPECIES
-=======
+# Gaubaea bornmuelleri (Magnus) Petr. SPECIES
 
 #### Status
 ACCEPTED

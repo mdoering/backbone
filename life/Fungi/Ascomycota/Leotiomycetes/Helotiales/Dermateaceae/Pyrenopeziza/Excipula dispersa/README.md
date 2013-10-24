@@ -1,5 +1,4 @@
-Excipula dispersa Lév. SPECIES
-=======
+# Excipula dispersa Lév. SPECIES
 
 #### Status
 ACCEPTED

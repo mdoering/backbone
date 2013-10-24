@@ -1,5 +1,4 @@
-Phoma macropyrena Thüm. SPECIES
-=======
+# Phoma macropyrena Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paleocystophora B.C. Parker & E.Y. Dawson, 1965 GENUS
-=======
+# Paleocystophora B.C. Parker & E.Y. Dawson, 1965 GENUS
 
 #### Status
 ACCEPTED

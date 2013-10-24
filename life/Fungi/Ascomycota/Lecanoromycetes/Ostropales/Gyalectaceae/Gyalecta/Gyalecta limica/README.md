@@ -1,5 +1,4 @@
-Gyalecta limica Samp. SPECIES
-=======
+# Gyalecta limica Samp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synandromyces geniculatus Thaxt., 1912 SPECIES
-=======
+# Synandromyces geniculatus Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

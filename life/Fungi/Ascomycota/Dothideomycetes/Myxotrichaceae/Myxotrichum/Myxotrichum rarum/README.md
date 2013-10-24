@@ -1,5 +1,4 @@
-Myxotrichum rarum Fr. SPECIES
-=======
+# Myxotrichum rarum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplographium tenuissimum (Corda) Grove SPECIES
-=======
+# Haplographium tenuissimum (Corda) Grove SPECIES
 
 #### Status
 ACCEPTED

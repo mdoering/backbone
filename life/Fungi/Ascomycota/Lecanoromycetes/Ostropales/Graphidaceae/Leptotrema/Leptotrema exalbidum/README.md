@@ -1,5 +1,4 @@
-Leptotrema exalbidum (Stirt.) Zahlbr. SPECIES
-=======
+# Leptotrema exalbidum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

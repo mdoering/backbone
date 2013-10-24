@@ -1,5 +1,4 @@
-Alternaria melongenae Rangaswami & Samb. SPECIES
-=======
+# Alternaria melongenae Rangaswami & Samb. SPECIES
 
 #### Status
 ACCEPTED

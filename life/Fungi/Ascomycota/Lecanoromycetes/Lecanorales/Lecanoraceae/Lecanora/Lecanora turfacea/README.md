@@ -1,5 +1,4 @@
-Lecanora turfacea Wahlenb. SPECIES
-=======
+# Lecanora turfacea Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

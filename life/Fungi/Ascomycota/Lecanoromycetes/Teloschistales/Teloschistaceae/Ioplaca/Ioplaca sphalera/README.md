@@ -1,5 +1,4 @@
-Ioplaca sphalera Poelt SPECIES
-=======
+# Ioplaca sphalera Poelt SPECIES
 
 #### Status
 ACCEPTED

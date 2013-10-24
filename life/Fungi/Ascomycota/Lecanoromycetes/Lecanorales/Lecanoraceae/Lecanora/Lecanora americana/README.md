@@ -1,17 +1,16 @@
-Lecanora conizaea var. americana B. de Lesd. VARIETY
-=======
+# Lecanora americana (B. de Lesd.) Printzen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 10: 469 (1940)
 
 #### Original name
-null
+Aspicilia americana B. de Lesd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia aethionematis Koshk. SPECIES
-=======
+# Puccinia aethionematis Koshk. SPECIES
 
 #### Status
 ACCEPTED

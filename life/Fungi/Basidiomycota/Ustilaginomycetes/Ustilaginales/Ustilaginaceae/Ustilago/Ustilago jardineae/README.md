@@ -1,5 +1,4 @@
-Ustilago jardineae (Zambett.) Vánky SPECIES
-=======
+# Ustilago jardineae (Zambett.) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dearnessii Sacc. SPECIES
-=======
+# Phyllosticta dearnessii Sacc. SPECIES
 
 #### Status
 ACCEPTED

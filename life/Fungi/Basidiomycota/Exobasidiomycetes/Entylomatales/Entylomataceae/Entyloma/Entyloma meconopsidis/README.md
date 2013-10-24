@@ -1,5 +1,4 @@
-Entyloma meconopsidis Durrieu SPECIES
-=======
+# Entyloma meconopsidis Durrieu SPECIES
 
 #### Status
 ACCEPTED

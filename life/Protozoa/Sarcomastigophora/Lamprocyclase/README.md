@@ -1,5 +1,4 @@
-Lamprocyclase GENUS
-=======
+# Lamprocyclase GENUS
 
 #### Status
 ACCEPTED

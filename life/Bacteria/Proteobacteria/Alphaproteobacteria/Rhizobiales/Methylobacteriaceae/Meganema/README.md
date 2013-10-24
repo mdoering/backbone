@@ -1,5 +1,4 @@
-Meganema Thomsen et al., 2006 GENUS
-=======
+# Meganema Thomsen et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvaria castanea Massee SPECIES
-=======
+# Volvaria castanea Massee SPECIES
 
 #### Status
 ACCEPTED

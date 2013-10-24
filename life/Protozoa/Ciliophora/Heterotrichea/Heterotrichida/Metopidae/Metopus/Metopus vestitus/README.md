@@ -1,5 +1,4 @@
-Metopus vestitus Kahl, 1932 SPECIES
-=======
+# Metopus vestitus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerina galactis (Ellis & Everh.) Theiss. SPECIES
-=======
+# Dimerina galactis (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

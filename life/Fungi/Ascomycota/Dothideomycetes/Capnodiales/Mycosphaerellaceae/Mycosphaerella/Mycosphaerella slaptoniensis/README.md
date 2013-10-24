@@ -1,5 +1,4 @@
-Mycosphaerella slaptoniensis D. Hawksw. & Sivan., 1975 SPECIES
-=======
+# Mycosphaerella slaptoniensis D. Hawksw. & Sivan., 1975 SPECIES
 
 #### Status
 ACCEPTED

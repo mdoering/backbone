@@ -1,5 +1,4 @@
-Biggaria bermudensis (Biggar & Wenrich, 1932) Aescht, 2001 SPECIES
-=======
+# Biggaria bermudensis (Biggar & Wenrich, 1932) Aescht, 2001 SPECIES
 
 #### Status
 ACCEPTED

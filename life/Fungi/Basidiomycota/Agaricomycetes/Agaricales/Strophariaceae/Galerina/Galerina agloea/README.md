@@ -1,5 +1,4 @@
-Galerina agloea A.H. Sm. & Singer SPECIES
-=======
+# Galerina agloea A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosporangium erraticum (H.S. Jacks. & Holw.) Syd. SPECIES
-=======
+# Eriosporangium erraticum (H.S. Jacks. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

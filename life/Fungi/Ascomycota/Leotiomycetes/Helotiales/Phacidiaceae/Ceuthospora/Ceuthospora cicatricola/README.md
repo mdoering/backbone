@@ -1,5 +1,4 @@
-Ceuthospora cicatricola Höhn. SPECIES
-=======
+# Ceuthospora cicatricola Höhn. SPECIES
 
 #### Status
 ACCEPTED

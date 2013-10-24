@@ -1,5 +1,4 @@
-Macrophoma quercicola Togashi SPECIES
-=======
+# Macrophoma quercicola Togashi SPECIES
 
 #### Status
 ACCEPTED

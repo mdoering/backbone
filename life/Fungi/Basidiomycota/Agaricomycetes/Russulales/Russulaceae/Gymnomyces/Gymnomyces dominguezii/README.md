@@ -1,5 +1,4 @@
-Gymnomyces dominguezii Mor.-Arr., J. Gómez & Calonge SPECIES
-=======
+# Gymnomyces dominguezii Mor.-Arr., J. Gómez & Calonge SPECIES
 
 #### Status
 ACCEPTED

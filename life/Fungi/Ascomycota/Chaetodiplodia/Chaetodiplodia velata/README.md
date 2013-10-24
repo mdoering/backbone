@@ -1,5 +1,4 @@
-Chaetodiplodia velata Rota-Rossi SPECIES
-=======
+# Chaetodiplodia velata Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

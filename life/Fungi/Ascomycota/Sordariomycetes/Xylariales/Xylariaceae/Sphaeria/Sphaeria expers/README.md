@@ -1,5 +1,4 @@
-Sphaeria expers Schwein. SPECIES
-=======
+# Sphaeria expers Schwein. SPECIES
 
 #### Status
 ACCEPTED

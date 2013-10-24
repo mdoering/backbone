@@ -1,5 +1,4 @@
-Corythodinium recurvum (Kofoid & Michener, 1911) F.J.R. Taylor, 1976 SPECIES
-=======
+# Corythodinium recurvum (Kofoid & Michener, 1911) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

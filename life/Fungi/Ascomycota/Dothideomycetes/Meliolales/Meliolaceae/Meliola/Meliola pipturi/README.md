@@ -1,5 +1,4 @@
-Meliola pipturi (Hansf.) Cif. SPECIES
-=======
+# Meliola pipturi (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

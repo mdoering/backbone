@@ -1,5 +1,4 @@
-Mycoblastus dendrophorus (Vain.) Zahlbr. SPECIES
-=======
+# Mycoblastus dendrophorus (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

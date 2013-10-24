@@ -1,5 +1,4 @@
-Entophysalis violacea Weber-van Bosse SPECIES
-=======
+# Entophysalis violacea Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

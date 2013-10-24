@@ -1,5 +1,4 @@
-Sporidesmium digitatum Cooke SPECIES
-=======
+# Sporidesmium digitatum Cooke SPECIES
 
 #### Status
 ACCEPTED

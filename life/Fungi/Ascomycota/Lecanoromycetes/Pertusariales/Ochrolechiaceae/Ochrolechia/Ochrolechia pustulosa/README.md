@@ -1,5 +1,4 @@
-Ochrolechia pustulosa Verseghy SPECIES
-=======
+# Ochrolechia pustulosa Verseghy SPECIES
 
 #### Status
 ACCEPTED

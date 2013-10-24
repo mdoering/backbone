@@ -1,5 +1,4 @@
-Sporisorium anthracoideisporum Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium anthracoideisporum Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

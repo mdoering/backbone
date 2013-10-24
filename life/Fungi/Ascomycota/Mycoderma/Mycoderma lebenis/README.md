@@ -1,5 +1,4 @@
-Mycoderma lebenis Rist & Khoury SPECIES
-=======
+# Mycoderma lebenis Rist & Khoury SPECIES
 
 #### Status
 ACCEPTED

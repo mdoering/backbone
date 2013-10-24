@@ -1,5 +1,4 @@
-Micrhystridium longispinosum SPECIES
-=======
+# Micrhystridium longispinosum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobolus pilosus (J. Schröt.) Kimbr. SPECIES
-=======
+# Trichobolus pilosus (J. Schröt.) Kimbr. SPECIES
 
 #### Status
 ACCEPTED

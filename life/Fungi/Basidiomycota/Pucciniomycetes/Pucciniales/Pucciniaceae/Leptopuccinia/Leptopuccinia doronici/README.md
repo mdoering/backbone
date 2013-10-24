@@ -1,5 +1,4 @@
-Leptopuccinia doronici (Niessl) Syd. SPECIES
-=======
+# Leptopuccinia doronici (Niessl) Syd. SPECIES
 
 #### Status
 ACCEPTED

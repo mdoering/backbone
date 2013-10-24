@@ -1,5 +1,4 @@
-Phyllosticta lonicerae Westend., 1851 SPECIES
-=======
+# Phyllosticta lonicerae Westend., 1851 SPECIES
 
 #### Status
 ACCEPTED

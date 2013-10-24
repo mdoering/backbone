@@ -1,5 +1,4 @@
-Trimanicula Dumitrica, 1991 GENUS
-=======
+# Trimanicula Dumitrica, 1991 GENUS
 
 #### Status
 ACCEPTED

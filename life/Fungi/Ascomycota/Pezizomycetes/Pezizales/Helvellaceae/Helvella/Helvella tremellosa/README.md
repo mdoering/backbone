@@ -1,5 +1,4 @@
-Helvella tremellosa Krombh. SPECIES
-=======
+# Helvella tremellosa Krombh. SPECIES
 
 #### Status
 ACCEPTED

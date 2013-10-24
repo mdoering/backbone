@@ -1,5 +1,4 @@
-Ustilago royleani Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Ustilago royleani Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

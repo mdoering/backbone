@@ -1,5 +1,4 @@
-Opegrapha farinacea Fée SPECIES
-=======
+# Opegrapha farinacea Fée SPECIES
 
 #### Status
 ACCEPTED

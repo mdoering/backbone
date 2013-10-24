@@ -1,5 +1,4 @@
-Brachysporiopsis chinensis Yanna, W.H. Ho & K.D. Hyde, 2004 SPECIES
-=======
+# Brachysporiopsis chinensis Yanna, W.H. Ho & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

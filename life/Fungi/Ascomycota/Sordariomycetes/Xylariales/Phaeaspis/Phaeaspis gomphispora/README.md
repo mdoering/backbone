@@ -1,5 +1,4 @@
-Phaeaspis gomphispora (Berk. & Broome) Clem. & Shear SPECIES
-=======
+# Phaeaspis gomphispora (Berk. & Broome) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

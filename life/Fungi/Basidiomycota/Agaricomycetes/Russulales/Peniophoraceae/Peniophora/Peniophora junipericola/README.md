@@ -1,5 +1,4 @@
-Peniophora junipericola J. Erikss., 1950 SPECIES
-=======
+# Peniophora junipericola J. Erikss., 1950 SPECIES
 
 #### Status
 ACCEPTED

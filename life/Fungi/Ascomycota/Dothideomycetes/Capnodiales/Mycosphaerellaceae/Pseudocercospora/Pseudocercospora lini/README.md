@@ -1,5 +1,4 @@
-Pseudocercospora lini (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora lini (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora exochordae Chupp & J.A. Stev. SPECIES
-=======
+# Cercospora exochordae Chupp & J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hamatocanthoscypha minutissima (Velen.) Raitv. SPECIES
-=======
+# Hamatocanthoscypha minutissima (Velen.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

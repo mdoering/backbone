@@ -1,5 +1,4 @@
-Microcoleus repens Harvey SPECIES
-=======
+# Microcoleus repens Harvey SPECIES
 
 #### Status
 ACCEPTED

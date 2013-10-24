@@ -1,5 +1,4 @@
-Dicaeoma limosae (Magnus) Syd. SPECIES
-=======
+# Dicaeoma limosae (Magnus) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus cystidiosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus cystidiosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

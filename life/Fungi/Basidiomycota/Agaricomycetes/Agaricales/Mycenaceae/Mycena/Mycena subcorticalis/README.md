@@ -1,5 +1,4 @@
-Mycena subcorticalis (Cooke & Massee) Sacc. SPECIES
-=======
+# Mycena subcorticalis (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

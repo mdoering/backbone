@@ -1,5 +1,4 @@
-Diclonomyces eumicrophilus Thaxt., 1931 SPECIES
-=======
+# Diclonomyces eumicrophilus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

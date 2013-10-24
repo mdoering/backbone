@@ -1,5 +1,4 @@
-Humaria araneosa Fuckel SPECIES
-=======
+# Humaria araneosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

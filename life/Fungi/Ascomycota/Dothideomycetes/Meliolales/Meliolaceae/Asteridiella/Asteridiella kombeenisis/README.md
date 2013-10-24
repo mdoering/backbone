@@ -1,5 +1,4 @@
-Asteridiella kombeenisis Hosag. SPECIES
-=======
+# Asteridiella kombeenisis Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium uliginosum Matthies et al., 2001 SPECIES
-=======
+# Clostridium uliginosum Matthies et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

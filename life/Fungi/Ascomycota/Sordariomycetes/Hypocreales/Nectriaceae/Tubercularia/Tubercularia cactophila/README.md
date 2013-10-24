@@ -1,5 +1,4 @@
-Tubercularia cactophila Speg. SPECIES
-=======
+# Tubercularia cactophila Speg. SPECIES
 
 #### Status
 ACCEPTED

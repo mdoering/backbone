@@ -1,5 +1,4 @@
-Pannaria subfusca P. M. Jørg. SPECIES
-=======
+# Pannaria subfusca P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

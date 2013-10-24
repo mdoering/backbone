@@ -1,5 +1,4 @@
-Nanicella Henbest, 1935 GENUS
-=======
+# Nanicella Henbest, 1935 GENUS
 
 #### Status
 ACCEPTED

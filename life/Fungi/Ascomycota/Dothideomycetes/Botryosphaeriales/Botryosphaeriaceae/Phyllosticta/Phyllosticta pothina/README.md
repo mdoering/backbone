@@ -1,5 +1,4 @@
-Phyllosticta pothina V.G. Rao SPECIES
-=======
+# Phyllosticta pothina V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

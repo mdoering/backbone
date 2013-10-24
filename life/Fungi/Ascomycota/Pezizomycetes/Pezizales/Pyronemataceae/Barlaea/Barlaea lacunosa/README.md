@@ -1,5 +1,4 @@
-Barlaea lacunosa Ellis & Everh. SPECIES
-=======
+# Barlaea lacunosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

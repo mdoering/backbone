@@ -1,5 +1,4 @@
-Fayodia campanella E. Horak SPECIES
-=======
+# Fayodia campanella E. Horak SPECIES
 
 #### Status
 ACCEPTED

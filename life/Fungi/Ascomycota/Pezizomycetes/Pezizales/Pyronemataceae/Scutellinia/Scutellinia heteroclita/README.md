@@ -1,5 +1,4 @@
-Scutellinia heteroclita Le Gal SPECIES
-=======
+# Scutellinia heteroclita Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia oligospora Vezda SPECIES
-=======
+# Arthonia oligospora Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Colletotrichum capparidis Hasija SPECIES
-=======
+# Colletotrichum capparis Hasija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 31(3): 107 (1962)
 
 #### Original name
-Colletotrichum capparidis Hasija
+Colletotrichum capparis Hasija
 
 ### Remarks
 null

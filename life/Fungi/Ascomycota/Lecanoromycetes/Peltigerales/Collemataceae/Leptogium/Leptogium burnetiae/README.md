@@ -1,5 +1,4 @@
-Leptogium burnetiae C. W. Dodge SPECIES
-=======
+# Leptogium burnetiae C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

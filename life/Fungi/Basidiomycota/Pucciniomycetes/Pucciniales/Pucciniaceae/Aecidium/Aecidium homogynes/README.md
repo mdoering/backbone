@@ -1,5 +1,4 @@
-Aecidium homogynes Schrad. SPECIES
-=======
+# Aecidium homogynes Schrad. SPECIES
 
 #### Status
 ACCEPTED

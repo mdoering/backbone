@@ -1,5 +1,4 @@
-Hebeloma sarcophyllum (Peck) Sacc. SPECIES
-=======
+# Hebeloma sarcophyllum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

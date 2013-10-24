@@ -1,5 +1,4 @@
-Lecidea chondrospora SPECIES
-=======
+# Lecidea chondrospora SPECIES
 
 #### Status
 ACCEPTED

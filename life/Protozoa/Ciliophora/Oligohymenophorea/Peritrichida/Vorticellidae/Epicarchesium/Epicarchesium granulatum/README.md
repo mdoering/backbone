@@ -1,5 +1,4 @@
-Epicarchesium granulatum (Kellicott, 1887) Jankowski, 1985 SPECIES
-=======
+# Epicarchesium granulatum (Kellicott, 1887) Jankowski, 1985 SPECIES
 
 #### Status
 ACCEPTED

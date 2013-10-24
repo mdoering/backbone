@@ -1,5 +1,4 @@
-Clavaria villosa Schrad. SPECIES
-=======
+# Clavaria villosa Schrad. SPECIES
 
 #### Status
 ACCEPTED

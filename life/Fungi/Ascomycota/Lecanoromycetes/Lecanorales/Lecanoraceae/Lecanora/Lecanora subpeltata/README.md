@@ -1,5 +1,4 @@
-Lecanora subpeltata Lynge SPECIES
-=======
+# Lecanora subpeltata Lynge SPECIES
 
 #### Status
 ACCEPTED

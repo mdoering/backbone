@@ -1,5 +1,4 @@
-Verrucaria zlichovensis Servít SPECIES
-=======
+# Verrucaria zlichovensis Servít SPECIES
 
 #### Status
 ACCEPTED

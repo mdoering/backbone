@@ -1,5 +1,4 @@
-Aspicilia lactea var. lactea VARIETY
-=======
+# Aspicilia lactea A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia lactea var. lactea
+Aspicilia lactea A. Massal.
 
 ### Remarks
 null

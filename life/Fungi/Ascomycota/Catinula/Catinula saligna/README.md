@@ -1,5 +1,4 @@
-Catinula saligna Ellis & Everh. SPECIES
-=======
+# Catinula saligna Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eccilia decurrens (Velen.) Pilát SPECIES
-=======
+# Eccilia decurrens (Velen.) Pilát SPECIES
 
 #### Status
 ACCEPTED

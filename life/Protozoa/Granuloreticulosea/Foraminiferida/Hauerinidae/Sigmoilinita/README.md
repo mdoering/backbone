@@ -1,5 +1,4 @@
-Sigmoilinita Seiglie, 1965 GENUS
-=======
+# Sigmoilinita Seiglie, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces trichoclines Henn. SPECIES
-=======
+# Uromyces trichoclines Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaetogonyaulax arctica (Wiggins, 1973) Stover & Evitt, 1978 SPECIES
-=======
+# Rhaetogonyaulax arctica (Wiggins, 1973) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

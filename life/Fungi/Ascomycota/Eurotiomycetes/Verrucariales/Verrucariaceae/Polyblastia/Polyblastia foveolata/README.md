@@ -1,5 +1,4 @@
-Polyblastia foveolata Arnold SPECIES
-=======
+# Polyblastia foveolata Arnold SPECIES
 
 #### Status
 ACCEPTED

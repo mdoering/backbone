@@ -1,5 +1,4 @@
-Entonema penetrans Reinsch SPECIES
-=======
+# Entonema penetrans Reinsch SPECIES
 
 #### Status
 ACCEPTED

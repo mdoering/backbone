@@ -1,5 +1,4 @@
-Xylaria fragariaeformis Speg. SPECIES
-=======
+# Xylaria fragariaeformis Speg. SPECIES
 
 #### Status
 ACCEPTED

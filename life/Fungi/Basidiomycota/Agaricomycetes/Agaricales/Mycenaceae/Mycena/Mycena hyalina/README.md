@@ -1,5 +1,4 @@
-Mycena hyalina A. Pearson SPECIES
-=======
+# Mycena hyalina A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereogloeocystidium citrinum Rick SPECIES
-=======
+# Stereogloeocystidium citrinum Rick SPECIES
 
 #### Status
 ACCEPTED

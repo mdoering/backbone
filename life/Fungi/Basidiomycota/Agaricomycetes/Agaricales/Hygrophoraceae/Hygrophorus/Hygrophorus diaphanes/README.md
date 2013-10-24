@@ -1,5 +1,4 @@
-Hygrophorus diaphanes Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus diaphanes Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria scalaris (Durieu & Mont.) Sacc. SPECIES
-=======
+# Metasphaeria scalaris (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

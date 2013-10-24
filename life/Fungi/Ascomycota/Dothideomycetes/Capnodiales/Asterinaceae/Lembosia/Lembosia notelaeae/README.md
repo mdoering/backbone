@@ -1,5 +1,4 @@
-Lembosia notelaeae Hansf. SPECIES
-=======
+# Lembosia notelaeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

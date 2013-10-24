@@ -1,5 +1,4 @@
-Graphis longispora D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Graphis longispora D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

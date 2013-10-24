@@ -1,5 +1,4 @@
-Trichothyrium consors (Rehm) Theiss. SPECIES
-=======
+# Trichothyrium consors (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

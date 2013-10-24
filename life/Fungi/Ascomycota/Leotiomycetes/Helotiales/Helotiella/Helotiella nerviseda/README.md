@@ -1,5 +1,4 @@
-Helotiella nerviseda Rehm SPECIES
-=======
+# Helotiella nerviseda Rehm SPECIES
 
 #### Status
 ACCEPTED

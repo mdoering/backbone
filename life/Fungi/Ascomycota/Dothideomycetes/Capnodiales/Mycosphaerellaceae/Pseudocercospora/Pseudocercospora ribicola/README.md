@@ -1,5 +1,4 @@
-Pseudocercospora ribicola (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora ribicola (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

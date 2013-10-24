@@ -1,5 +1,4 @@
-Parmelia rosea f. rosea Gyeln. FORM
-=======
+# Parmelia rosea Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia rosea f. rosea Gyeln.
+Parmelia rosea Gyeln.
 
 ### Remarks
 null

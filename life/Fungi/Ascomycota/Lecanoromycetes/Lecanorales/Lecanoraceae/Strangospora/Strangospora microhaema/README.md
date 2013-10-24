@@ -1,14 +1,13 @@
-Biatorella microhaema Norman SPECIES
-=======
+# Strangospora microhaema (Norman) R. A. Anderson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rehm, Bot. Notiser 99 (1865)
+Bryologist 78(1): 55 (1975)
 
 #### Original name
 Biatorella microhaema Norman

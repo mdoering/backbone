@@ -1,5 +1,4 @@
-Scutellinia furcatopila J. Moravec SPECIES
-=======
+# Scutellinia furcatopila J. Moravec SPECIES
 
 #### Status
 ACCEPTED

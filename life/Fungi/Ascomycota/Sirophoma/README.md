@@ -1,5 +1,4 @@
-Sirophoma Höhn. GENUS
-=======
+# Sirophoma Höhn. GENUS
 
 #### Status
 ACCEPTED

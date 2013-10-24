@@ -1,5 +1,4 @@
-Aplosporella cumulata Allesch. SPECIES
-=======
+# Aplosporella cumulata Allesch. SPECIES
 
 #### Status
 ACCEPTED

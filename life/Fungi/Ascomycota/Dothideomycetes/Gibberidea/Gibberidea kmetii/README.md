@@ -1,5 +1,4 @@
-Gibberidea kmetii (Bäumler) Kuntze SPECIES
-=======
+# Gibberidea kmetii (Bäumler) Kuntze SPECIES
 
 #### Status
 ACCEPTED

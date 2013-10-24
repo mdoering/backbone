@@ -1,5 +1,4 @@
-Physarum thejoteum Fr. SPECIES
-=======
+# Physarum thejoteum Fr. SPECIES
 
 #### Status
 ACCEPTED

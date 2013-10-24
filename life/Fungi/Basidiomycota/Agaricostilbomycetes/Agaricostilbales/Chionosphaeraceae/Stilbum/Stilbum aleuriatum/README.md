@@ -1,5 +1,4 @@
-Stilbum aleuriatum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum aleuriatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

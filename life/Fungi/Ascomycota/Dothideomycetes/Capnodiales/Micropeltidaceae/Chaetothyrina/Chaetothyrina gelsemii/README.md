@@ -1,8 +1,7 @@
-Chaetothyrina gelsemiae (Bat. & C.A.A. Costa) Arx SPECIES
-=======
+# Chaetothyrina gelsemii (Bat. & C.A.A. Costa) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

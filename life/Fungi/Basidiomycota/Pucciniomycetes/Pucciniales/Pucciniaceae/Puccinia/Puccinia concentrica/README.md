@@ -1,5 +1,4 @@
-Puccinia concentrica Schwein. SPECIES
-=======
+# Puccinia concentrica Schwein. SPECIES
 
 #### Status
 ACCEPTED

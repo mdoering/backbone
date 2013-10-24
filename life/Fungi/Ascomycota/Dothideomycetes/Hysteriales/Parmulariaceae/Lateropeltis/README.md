@@ -1,5 +1,4 @@
-Lateropeltis GENUS
-=======
+# Lateropeltis GENUS
 
 #### Status
 ACCEPTED

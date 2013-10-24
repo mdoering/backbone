@@ -1,5 +1,4 @@
-Asteridium dispersum Speg. SPECIES
-=======
+# Asteridium dispersum Speg. SPECIES
 
 #### Status
 ACCEPTED

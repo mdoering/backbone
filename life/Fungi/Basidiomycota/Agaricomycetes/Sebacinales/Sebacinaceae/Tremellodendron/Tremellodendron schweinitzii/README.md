@@ -1,5 +1,4 @@
-Tremellodendron schweinitzii (Peck) G.F. Atk. SPECIES
-=======
+# Tremellodendron schweinitzii (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora diapensiae Rehm SPECIES
-=======
+# Physalospora diapensiae Rehm SPECIES
 
 #### Status
 ACCEPTED

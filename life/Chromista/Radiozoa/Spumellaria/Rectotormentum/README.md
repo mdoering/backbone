@@ -1,5 +1,4 @@
-Rectotormentum Nazarov & Ormiston, 1985 GENUS
-=======
+# Rectotormentum Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

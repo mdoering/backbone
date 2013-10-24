@@ -1,5 +1,4 @@
-Dothiorella piri Aderh. SPECIES
-=======
+# Dothiorella piri Aderh. SPECIES
 
 #### Status
 ACCEPTED

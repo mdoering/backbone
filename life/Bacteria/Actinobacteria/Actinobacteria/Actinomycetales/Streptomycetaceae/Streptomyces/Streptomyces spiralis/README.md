@@ -1,8 +1,7 @@
-Elytrosporangium spirale Falcão de Morais, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces spiralis (Falcão de Morais, 1970) Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stemonitis trichia Roth SPECIES
-=======
+# Stemonitis trichia Roth SPECIES
 
 #### Status
 ACCEPTED

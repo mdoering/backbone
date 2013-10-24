@@ -1,5 +1,4 @@
-Agaricus porcellanus Schaeff. SPECIES
-=======
+# Agaricus porcellanus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

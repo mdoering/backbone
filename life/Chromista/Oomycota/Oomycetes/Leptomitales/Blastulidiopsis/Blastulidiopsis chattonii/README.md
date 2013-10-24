@@ -1,17 +1,16 @@
-Blastulidiopsis chattoni Sigot SPECIES
-=======
+# Blastulidiopsis chattonii Sigot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. hebd. Séanc. Mém. Soc. Biol. 108: 27 (1931)
 
 #### Original name
-Blastulidiopsis chattoni Sigot
+Blastulidiopsis chattonii Sigot
 
 ### Remarks
 null

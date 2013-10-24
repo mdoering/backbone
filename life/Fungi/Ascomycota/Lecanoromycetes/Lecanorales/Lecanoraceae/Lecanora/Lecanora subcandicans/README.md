@@ -1,5 +1,4 @@
-Lecanora subcandicans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora subcandicans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

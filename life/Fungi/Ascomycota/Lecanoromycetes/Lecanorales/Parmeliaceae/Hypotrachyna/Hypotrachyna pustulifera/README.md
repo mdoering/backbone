@@ -1,17 +1,16 @@
-Parmelia pustulifera Hale SPECIES
-=======
+# Hypotrachyna pustulifera (Hale) Skorepa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 53(6): 445 (1983)
 
 #### Original name
-null
+Parmelia pustulifera Hale
 
 ### Remarks
 null

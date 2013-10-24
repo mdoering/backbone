@@ -1,5 +1,4 @@
-Hypocrella insignis Syd. SPECIES
-=======
+# Hypocrella insignis Syd. SPECIES
 
 #### Status
 ACCEPTED

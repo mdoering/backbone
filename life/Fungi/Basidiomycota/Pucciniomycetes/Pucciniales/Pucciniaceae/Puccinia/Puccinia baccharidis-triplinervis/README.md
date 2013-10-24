@@ -1,5 +1,4 @@
-Puccinia baccharidis-triplinervis Henn. SPECIES
-=======
+# Puccinia baccharidis-triplinervis Henn. SPECIES
 
 #### Status
 ACCEPTED

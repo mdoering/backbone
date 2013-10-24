@@ -1,5 +1,4 @@
-Acanthostigmina Höhn. GENUS
-=======
+# Acanthostigmina Höhn. GENUS
 
 #### Status
 ACCEPTED

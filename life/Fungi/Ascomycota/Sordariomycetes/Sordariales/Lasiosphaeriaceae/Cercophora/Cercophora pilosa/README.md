@@ -1,5 +1,4 @@
-Cercophora pilosa Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora pilosa Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

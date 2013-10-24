@@ -1,5 +1,4 @@
-Isaria radians Berk. SPECIES
-=======
+# Isaria radians Berk. SPECIES
 
 #### Status
 ACCEPTED

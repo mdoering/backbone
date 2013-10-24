@@ -1,5 +1,4 @@
-Binucleospora A.M. Bronnvall & J.I.R. Larsson GENUS
-=======
+# Binucleospora A.M. Bronnvall & J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

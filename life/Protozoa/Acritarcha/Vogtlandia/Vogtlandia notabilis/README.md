@@ -1,5 +1,4 @@
-Vogtlandia notabilis Volkova, 1990 SPECIES
-=======
+# Vogtlandia notabilis Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

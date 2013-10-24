@@ -1,5 +1,4 @@
-Cylindrosporium aroniae Sacc. SPECIES
-=======
+# Cylindrosporium aroniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

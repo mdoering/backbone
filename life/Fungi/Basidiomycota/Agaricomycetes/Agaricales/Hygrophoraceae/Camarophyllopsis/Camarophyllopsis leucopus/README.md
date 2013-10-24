@@ -1,14 +1,13 @@
-Hygrotrama leucopus Singer, 1973 SPECIES
-=======
+# Camarophyllopsis leucopus (Singer) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 7: 3 (1973)
+Biblthca Mycol. 192: 75 (2002)
 
 #### Original name
 Hygrotrama leucopus Singer, 1973

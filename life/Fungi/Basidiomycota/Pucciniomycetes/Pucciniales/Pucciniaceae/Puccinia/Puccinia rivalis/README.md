@@ -1,5 +1,4 @@
-Puccinia rivalis Gäum. SPECIES
-=======
+# Puccinia rivalis Gäum. SPECIES
 
 #### Status
 ACCEPTED

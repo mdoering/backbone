@@ -1,5 +1,4 @@
-Lecanora syernaiae H. Magn. SPECIES
-=======
+# Lecanora syernaiae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

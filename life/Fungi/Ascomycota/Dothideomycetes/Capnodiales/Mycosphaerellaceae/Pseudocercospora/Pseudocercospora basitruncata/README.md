@@ -1,5 +1,4 @@
-Pseudocercospora basitruncata Crous SPECIES
-=======
+# Pseudocercospora basitruncata Crous SPECIES
 
 #### Status
 ACCEPTED

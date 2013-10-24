@@ -1,5 +1,4 @@
-Sphaerella malinverniana Catt. SPECIES
-=======
+# Sphaerella malinverniana Catt. SPECIES
 
 #### Status
 ACCEPTED

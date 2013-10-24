@@ -1,5 +1,4 @@
-Placodium dispersum (Pers.) Gray SPECIES
-=======
+# Placodium dispersum (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

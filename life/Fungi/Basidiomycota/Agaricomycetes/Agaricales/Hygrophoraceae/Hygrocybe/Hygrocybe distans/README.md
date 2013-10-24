@@ -1,5 +1,4 @@
-Hygrocybe distans (Berk.) Bon & Chevassut SPECIES
-=======
+# Hygrocybe distans (Berk.) Bon & Chevassut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum clavatum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum clavatum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

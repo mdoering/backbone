@@ -1,5 +1,4 @@
-Hygromitra GENUS
-=======
+# Hygromitra GENUS
 
 #### Status
 ACCEPTED

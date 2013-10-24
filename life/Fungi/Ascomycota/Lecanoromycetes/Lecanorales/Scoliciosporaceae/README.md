@@ -1,5 +1,4 @@
-Scoliciosporaceae Hafellner FAMILY
-=======
+# Scoliciosporaceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

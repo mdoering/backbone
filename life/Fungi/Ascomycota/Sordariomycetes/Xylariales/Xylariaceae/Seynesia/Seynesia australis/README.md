@@ -1,5 +1,4 @@
-Seynesia australis Speg. SPECIES
-=======
+# Seynesia australis Speg. SPECIES
 
 #### Status
 ACCEPTED

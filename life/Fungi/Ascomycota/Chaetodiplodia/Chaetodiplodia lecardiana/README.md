@@ -1,5 +1,4 @@
-Chaetodiplodia lecardiana Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Chaetodiplodia lecardiana Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

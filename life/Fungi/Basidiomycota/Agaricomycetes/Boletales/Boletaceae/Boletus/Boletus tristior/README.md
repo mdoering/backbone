@@ -1,5 +1,4 @@
-Boletus tristior Corner SPECIES
-=======
+# Boletus tristior Corner SPECIES
 
 #### Status
 ACCEPTED

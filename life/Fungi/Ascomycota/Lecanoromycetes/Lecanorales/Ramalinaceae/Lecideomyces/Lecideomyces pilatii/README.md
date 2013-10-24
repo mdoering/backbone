@@ -1,5 +1,4 @@
-Lecideomyces pilatii E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Lecideomyces pilatii E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

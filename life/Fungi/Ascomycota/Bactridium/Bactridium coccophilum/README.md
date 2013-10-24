@@ -1,5 +1,4 @@
-Bactridium coccophilum Sawada SPECIES
-=======
+# Bactridium coccophilum Sawada SPECIES
 
 #### Status
 ACCEPTED

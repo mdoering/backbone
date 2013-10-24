@@ -1,5 +1,4 @@
-Rimaleptus canadensis Vdacny & Foissner, 2011 SPECIES
-=======
+# Rimaleptus canadensis Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

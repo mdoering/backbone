@@ -1,5 +1,4 @@
-Chaetomidium triangulare Stchigel & Guarro, 2004 SPECIES
-=======
+# Chaetomidium triangulare Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

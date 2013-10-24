@@ -1,5 +1,4 @@
-Delicatula vernalis Velen. SPECIES
-=======
+# Delicatula vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

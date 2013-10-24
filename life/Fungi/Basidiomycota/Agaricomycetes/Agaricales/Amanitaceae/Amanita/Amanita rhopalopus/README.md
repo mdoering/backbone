@@ -1,5 +1,4 @@
-Amanita rhopalopus Bas SPECIES
-=======
+# Amanita rhopalopus Bas SPECIES
 
 #### Status
 ACCEPTED

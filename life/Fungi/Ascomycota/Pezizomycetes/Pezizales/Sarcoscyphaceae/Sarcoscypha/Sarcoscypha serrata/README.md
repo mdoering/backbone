@@ -1,5 +1,4 @@
-Sarcoscypha serrata (Le Gal) Eckblad SPECIES
-=======
+# Sarcoscypha serrata (Le Gal) Eckblad SPECIES
 
 #### Status
 ACCEPTED

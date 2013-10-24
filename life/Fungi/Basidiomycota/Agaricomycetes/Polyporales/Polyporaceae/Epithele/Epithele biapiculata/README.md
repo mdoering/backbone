@@ -1,5 +1,4 @@
-Epithele biapiculata Hjortstam SPECIES
-=======
+# Epithele biapiculata Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium cinereum Rivolta SPECIES
-=======
+# Coremium cinereum Rivolta SPECIES
 
 #### Status
 ACCEPTED

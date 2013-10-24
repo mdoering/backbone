@@ -1,5 +1,4 @@
-Alinostoma Jankowski in Small & Lynn, 1985 GENUS
-=======
+# Alinostoma Jankowski in Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

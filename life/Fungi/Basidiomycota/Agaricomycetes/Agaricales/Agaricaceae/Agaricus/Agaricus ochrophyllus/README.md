@@ -1,5 +1,4 @@
-Agaricus ochrophyllus Cooke & Massee SPECIES
-=======
+# Agaricus ochrophyllus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

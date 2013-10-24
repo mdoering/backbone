@@ -1,5 +1,4 @@
-Coniothyrium abnorme Sacc. SPECIES
-=======
+# Coniothyrium abnorme Sacc. SPECIES
 
 #### Status
 ACCEPTED

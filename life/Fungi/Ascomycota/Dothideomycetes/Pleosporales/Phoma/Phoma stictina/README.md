@@ -1,5 +1,4 @@
-Phoma stictina Sacc. SPECIES
-=======
+# Phoma stictina Sacc. SPECIES
 
 #### Status
 ACCEPTED

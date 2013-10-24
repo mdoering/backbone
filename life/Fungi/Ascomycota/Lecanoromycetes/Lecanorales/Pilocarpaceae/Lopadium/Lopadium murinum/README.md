@@ -1,5 +1,4 @@
-Lopadium murinum Zahlbr. SPECIES
-=======
+# Lopadium murinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

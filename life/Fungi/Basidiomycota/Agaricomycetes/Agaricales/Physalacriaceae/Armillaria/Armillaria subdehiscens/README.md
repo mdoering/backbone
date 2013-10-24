@@ -1,5 +1,4 @@
-Armillaria subdehiscens (Britzelm.) Sacc. SPECIES
-=======
+# Armillaria subdehiscens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

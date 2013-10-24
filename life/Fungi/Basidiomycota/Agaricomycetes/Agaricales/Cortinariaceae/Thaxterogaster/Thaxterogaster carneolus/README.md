@@ -1,17 +1,16 @@
-Thaxterogaster carneolum E. Horak SPECIES
-=======
+# Thaxterogaster carneolus E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 43: 102 (1973)
 
 #### Original name
-Thaxterogaster carneolum E. Horak
+Thaxterogaster carneolus E. Horak
 
 ### Remarks
 null

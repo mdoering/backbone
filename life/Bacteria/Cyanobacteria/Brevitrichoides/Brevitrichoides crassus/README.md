@@ -1,5 +1,4 @@
-Brevitrichoides crassus (Xing Yusheng & Liu, 1978) Zang Wen-long, 1992 SPECIES
-=======
+# Brevitrichoides crassus (Xing Yusheng & Liu, 1978) Zang Wen-long, 1992 SPECIES
 
 #### Status
 ACCEPTED

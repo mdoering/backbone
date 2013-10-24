@@ -1,5 +1,4 @@
-Entoloma naranjanum Dennis SPECIES
-=======
+# Entoloma naranjanum Dennis SPECIES
 
 #### Status
 ACCEPTED

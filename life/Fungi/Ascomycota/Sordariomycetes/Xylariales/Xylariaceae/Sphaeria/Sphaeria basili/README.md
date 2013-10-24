@@ -1,5 +1,4 @@
-Sphaeria basili Taylor SPECIES
-=======
+# Sphaeria basili Taylor SPECIES
 
 #### Status
 ACCEPTED

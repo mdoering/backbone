@@ -1,5 +1,4 @@
-Clitocybe murina H.E. Bigelow SPECIES
-=======
+# Clitocybe murina H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

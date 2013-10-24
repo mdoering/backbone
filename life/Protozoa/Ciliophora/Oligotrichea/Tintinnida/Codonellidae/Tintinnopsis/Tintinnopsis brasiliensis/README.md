@@ -1,5 +1,4 @@
-Tintinnopsis brasiliensis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis brasiliensis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

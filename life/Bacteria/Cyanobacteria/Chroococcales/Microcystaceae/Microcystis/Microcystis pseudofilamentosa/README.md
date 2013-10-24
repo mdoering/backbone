@@ -1,5 +1,4 @@
-Microcystis pseudofilamentosa Crow SPECIES
-=======
+# Microcystis pseudofilamentosa Crow SPECIES
 
 #### Status
 ACCEPTED

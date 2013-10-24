@@ -1,5 +1,4 @@
-Balantidioides dragescoi Foissner, Adam & Foissner, 1982 SPECIES
-=======
+# Balantidioides dragescoi Foissner, Adam & Foissner, 1982 SPECIES
 
 #### Status
 ACCEPTED

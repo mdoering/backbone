@@ -1,5 +1,4 @@
-Craspedodiscus excavatus SPECIES
-=======
+# Craspedodiscus excavatus SPECIES
 
 #### Status
 ACCEPTED

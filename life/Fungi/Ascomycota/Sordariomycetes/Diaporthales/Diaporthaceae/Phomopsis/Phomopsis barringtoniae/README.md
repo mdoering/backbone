@@ -1,5 +1,4 @@
-Phomopsis barringtoniae Kamal & R.P. Singh SPECIES
-=======
+# Phomopsis barringtoniae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

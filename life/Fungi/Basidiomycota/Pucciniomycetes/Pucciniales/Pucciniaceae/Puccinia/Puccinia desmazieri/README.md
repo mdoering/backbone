@@ -1,17 +1,16 @@
-Puccinia desmazieresi Const. SPECIES
-=======
+# Puccinia desmazieri Const. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(3/4): 251 (1916)
 
 #### Original name
-Puccinia desmazieresi Const.
+Puccinia desmazieri Const.
 
 ### Remarks
 null

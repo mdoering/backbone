@@ -1,5 +1,4 @@
-Fusiformisporites taiwanensis T.C. Huang SPECIES
-=======
+# Fusiformisporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

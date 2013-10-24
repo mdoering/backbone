@@ -1,5 +1,4 @@
-Laboulbenia vailatii W. Rossi & Santam. SPECIES
-=======
+# Laboulbenia vailatii W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

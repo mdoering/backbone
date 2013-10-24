@@ -1,5 +1,4 @@
-Dinophysis rete Sournia, 1973 SPECIES
-=======
+# Dinophysis rete Sournia, 1973 SPECIES
 
 #### Status
 ACCEPTED

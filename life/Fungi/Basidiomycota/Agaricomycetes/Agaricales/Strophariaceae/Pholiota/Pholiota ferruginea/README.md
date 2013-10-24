@@ -1,5 +1,4 @@
-Pholiota ferruginea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota ferruginea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

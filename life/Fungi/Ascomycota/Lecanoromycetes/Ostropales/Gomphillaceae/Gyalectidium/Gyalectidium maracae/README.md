@@ -1,5 +1,4 @@
-Gyalectidium maracae Lücking SPECIES
-=======
+# Gyalectidium maracae Lücking SPECIES
 
 #### Status
 ACCEPTED

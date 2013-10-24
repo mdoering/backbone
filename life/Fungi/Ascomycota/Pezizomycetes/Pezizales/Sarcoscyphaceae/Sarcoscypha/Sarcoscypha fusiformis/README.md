@@ -1,5 +1,4 @@
-Sarcoscypha fusiformis Velen. SPECIES
-=======
+# Sarcoscypha fusiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

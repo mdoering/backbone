@@ -1,5 +1,4 @@
-Mycosphaerella shawii Arx & J.L. Bezerra SPECIES
-=======
+# Mycosphaerella shawii Arx & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

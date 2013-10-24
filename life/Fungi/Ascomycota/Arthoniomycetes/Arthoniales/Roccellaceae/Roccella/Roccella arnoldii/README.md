@@ -1,5 +1,4 @@
-Roccella arnoldii Vain. SPECIES
-=======
+# Roccella arnoldii Vain. SPECIES
 
 #### Status
 ACCEPTED

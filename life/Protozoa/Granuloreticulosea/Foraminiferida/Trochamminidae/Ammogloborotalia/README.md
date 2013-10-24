@@ -1,5 +1,4 @@
-Ammogloborotalia Zheng, 2001 GENUS
-=======
+# Ammogloborotalia Zheng, 2001 GENUS
 
 #### Status
 ACCEPTED

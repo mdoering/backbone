@@ -1,17 +1,16 @@
-Boletellus lignicolus K.W. Yeh & Z.C. Chen SPECIES
-=======
+# Boletellus lignicola K.W. Yeh & Z.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 1(2): 72 (1985)
 
 #### Original name
-Boletellus lignicolus K.W. Yeh & Z.C. Chen
+Boletellus lignicola K.W. Yeh & Z.C. Chen
 
 ### Remarks
 null

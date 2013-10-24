@@ -1,5 +1,4 @@
-Beltraniella patilii K.G. Karand. & Patw. SPECIES
-=======
+# Beltraniella patilii K.G. Karand. & Patw. SPECIES
 
 #### Status
 ACCEPTED

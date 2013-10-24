@@ -1,5 +1,4 @@
-Verrucariales Mattick ex D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Verrucariales Mattick ex D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

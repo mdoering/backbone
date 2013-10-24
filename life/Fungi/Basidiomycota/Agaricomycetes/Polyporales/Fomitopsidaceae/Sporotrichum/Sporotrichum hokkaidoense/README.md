@@ -1,5 +1,4 @@
-Sporotrichum hokkaidoense Kobayasi SPECIES
-=======
+# Sporotrichum hokkaidoense Kobayasi SPECIES
 
 #### Status
 ACCEPTED

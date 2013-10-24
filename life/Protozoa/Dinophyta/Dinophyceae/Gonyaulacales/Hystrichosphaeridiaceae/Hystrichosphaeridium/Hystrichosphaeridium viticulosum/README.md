@@ -1,5 +1,4 @@
-Hystrichosphaeridium viticulosum Andreeva, 1966 SPECIES
-=======
+# Hystrichosphaeridium viticulosum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

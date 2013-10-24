@@ -1,17 +1,16 @@
-Mucor plasmaticus var. microsporus Naumov VARIETY
-=======
+# Mucor plasmaticus Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opred. Mukor. , Edn 2 48 (1935)
+Annls Sci. Nat. , Bot. , sér. 6 1: 33 (1875)
 
 #### Original name
-Mucor plasmaticus var. microsporus Naumov
+Mucor plasmaticus Tiegh., 1875
 
 ### Remarks
 null

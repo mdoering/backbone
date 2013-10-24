@@ -1,5 +1,4 @@
-Phomopsis fatsiae-japonicae Petr. SPECIES
-=======
+# Phomopsis fatsiae-japonicae Petr. SPECIES
 
 #### Status
 ACCEPTED

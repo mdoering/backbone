@@ -1,5 +1,4 @@
-Sphaeria glaucina Fr. SPECIES
-=======
+# Sphaeria glaucina Fr. SPECIES
 
 #### Status
 ACCEPTED

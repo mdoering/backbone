@@ -1,5 +1,4 @@
-Nephroma dalmaticum Gyeln. SPECIES
-=======
+# Nephroma dalmaticum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

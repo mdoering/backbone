@@ -1,5 +1,4 @@
-Gymnosporangium speciosum Peck, 1879 SPECIES
-=======
+# Gymnosporangium speciosum Peck, 1879 SPECIES
 
 #### Status
 ACCEPTED

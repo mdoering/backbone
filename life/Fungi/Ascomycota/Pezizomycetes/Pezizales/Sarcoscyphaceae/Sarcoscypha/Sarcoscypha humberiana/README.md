@@ -1,5 +1,4 @@
-Sarcoscypha humberiana F.A. Harr. SPECIES
-=======
+# Sarcoscypha humberiana F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

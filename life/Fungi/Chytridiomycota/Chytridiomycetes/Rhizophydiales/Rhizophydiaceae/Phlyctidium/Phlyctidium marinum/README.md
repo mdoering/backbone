@@ -1,5 +1,4 @@
-Phlyctidium marinum Karling SPECIES
-=======
+# Phlyctidium marinum Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pholidotopsis Earle GENUS
-=======
+# Galerina Earle GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 443 (1909)
+Bulletin of the New York Botanical Garden 5: 423 (1909)
 
 #### Original name
-Pholidotopsis Earle
+Galerina Earle
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea torvula Nyl. SPECIES
-=======
+# Lecidea torvula Nyl. SPECIES
 
 #### Status
 ACCEPTED

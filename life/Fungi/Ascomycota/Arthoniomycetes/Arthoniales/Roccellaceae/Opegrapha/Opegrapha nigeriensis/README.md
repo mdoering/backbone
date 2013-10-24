@@ -1,5 +1,4 @@
-Opegrapha nigeriensis C.W. Dodge SPECIES
-=======
+# Opegrapha nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

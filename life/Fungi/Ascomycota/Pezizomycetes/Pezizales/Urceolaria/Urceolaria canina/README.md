@@ -1,5 +1,4 @@
-Urceolaria canina (Räsänen) Motyka SPECIES
-=======
+# Urceolaria canina (Räsänen) Motyka SPECIES
 
 #### Status
 ACCEPTED

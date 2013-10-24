@@ -1,14 +1,13 @@
-Dialonectria fuliginea (Berk. & Broome) Cooke SPECIES
-=======
+# Dialonectria fuliginosa (Berk. & Broome) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 12(no. 64): 110 (1884)
 
 #### Original name
 Nectria fuliginosa Berk. & Broome

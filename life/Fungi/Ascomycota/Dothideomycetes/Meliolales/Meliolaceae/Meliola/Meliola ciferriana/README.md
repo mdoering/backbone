@@ -1,5 +1,4 @@
-Meliola ciferriana Petr. SPECIES
-=======
+# Meliola ciferriana Petr. SPECIES
 
 #### Status
 ACCEPTED

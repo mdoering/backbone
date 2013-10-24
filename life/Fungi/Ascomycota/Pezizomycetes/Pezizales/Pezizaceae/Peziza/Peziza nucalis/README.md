@@ -1,5 +1,4 @@
-Peziza nucalis Saut. SPECIES
-=======
+# Peziza nucalis Saut. SPECIES
 
 #### Status
 ACCEPTED

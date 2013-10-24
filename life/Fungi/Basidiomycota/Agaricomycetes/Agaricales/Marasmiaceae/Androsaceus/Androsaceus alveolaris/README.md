@@ -1,5 +1,4 @@
-Androsaceus alveolaris (Cleland) Cleland SPECIES
-=======
+# Androsaceus alveolaris (Cleland) Cleland SPECIES
 
 #### Status
 ACCEPTED

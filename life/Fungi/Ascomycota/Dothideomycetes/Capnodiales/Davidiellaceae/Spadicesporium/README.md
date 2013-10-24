@@ -1,5 +1,4 @@
-Spadicesporium GENUS
-=======
+# Spadicesporium GENUS
 
 #### Status
 ACCEPTED

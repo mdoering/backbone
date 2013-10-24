@@ -1,5 +1,4 @@
-Daedalea aethalodes (Mont.) Rajchenb. SPECIES
-=======
+# Daedalea aethalodes (Mont.) Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

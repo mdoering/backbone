@@ -1,5 +1,4 @@
-Rhynchosphaeria sepulta Petch SPECIES
-=======
+# Rhynchosphaeria sepulta Petch SPECIES
 
 #### Status
 ACCEPTED

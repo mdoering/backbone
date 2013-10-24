@@ -1,5 +1,4 @@
-Lichinella americana Henssen SPECIES
-=======
+# Lichinella americana Henssen SPECIES
 
 #### Status
 ACCEPTED

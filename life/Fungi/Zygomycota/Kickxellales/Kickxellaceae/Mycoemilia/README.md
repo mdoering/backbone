@@ -1,5 +1,4 @@
-Mycoemilia Kurihara, Degawa & Tokumasu, 2004 GENUS
-=======
+# Mycoemilia Kurihara, Degawa & Tokumasu, 2004 GENUS
 
 #### Status
 ACCEPTED

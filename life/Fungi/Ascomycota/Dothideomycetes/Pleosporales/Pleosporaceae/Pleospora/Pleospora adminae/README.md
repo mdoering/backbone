@@ -1,5 +1,4 @@
-Pleospora adminae Rieuf SPECIES
-=======
+# Pleospora adminae Rieuf SPECIES
 
 #### Status
 ACCEPTED

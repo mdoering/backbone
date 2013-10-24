@@ -1,5 +1,4 @@
-Mycosphaerella wagnerae Earle SPECIES
-=======
+# Mycosphaerella wagnerae Earle SPECIES
 
 #### Status
 ACCEPTED

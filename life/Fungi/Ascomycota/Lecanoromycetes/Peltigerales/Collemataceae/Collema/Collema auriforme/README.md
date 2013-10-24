@@ -1,17 +1,16 @@
-Collema auriculatum f. auriculatum FORM
-=======
+# Collema auriforme (With.) Coppins & J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Laundon, Lichenologist 16(3): 228 (1984)
 
 #### Original name
-Collema auriculatum f. auriculatum
+null
 
 ### Remarks
 null

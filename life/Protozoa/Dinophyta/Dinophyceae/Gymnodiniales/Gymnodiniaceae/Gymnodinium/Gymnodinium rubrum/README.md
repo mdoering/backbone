@@ -1,5 +1,4 @@
-Gymnodinium rubrum Koifoid & Swezy SPECIES
-=======
+# Gymnodinium rubrum Koifoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

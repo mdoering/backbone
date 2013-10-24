@@ -1,5 +1,4 @@
-Typhula ilicis Bertault, 1976 SPECIES
-=======
+# Typhula ilicis Bertault, 1976 SPECIES
 
 #### Status
 ACCEPTED

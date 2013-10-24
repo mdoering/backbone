@@ -1,5 +1,4 @@
-Discoxylaria J.C. Lindq. & J.E. Wright GENUS
-=======
+# Discoxylaria J.C. Lindq. & J.E. Wright GENUS
 
 #### Status
 ACCEPTED

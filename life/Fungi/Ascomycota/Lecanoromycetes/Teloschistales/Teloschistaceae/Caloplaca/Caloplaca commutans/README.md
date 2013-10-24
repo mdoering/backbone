@@ -1,5 +1,4 @@
-Caloplaca commutans (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca commutans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

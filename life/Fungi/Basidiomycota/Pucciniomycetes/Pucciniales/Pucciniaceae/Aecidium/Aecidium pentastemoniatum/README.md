@@ -1,5 +1,4 @@
-Aecidium pentastemoniatum Schwein. SPECIES
-=======
+# Aecidium pentastemoniatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

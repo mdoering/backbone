@@ -1,5 +1,4 @@
-Hypoxylon castorea anon. SPECIES
-=======
+# Hypoxylon castorea anon. SPECIES
 
 #### Status
 ACCEPTED

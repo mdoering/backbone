@@ -1,5 +1,4 @@
-Ramichloridium matsushimae de Hoog SPECIES
-=======
+# Ramichloridium matsushimae de Hoog SPECIES
 
 #### Status
 ACCEPTED

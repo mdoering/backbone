@@ -1,5 +1,4 @@
-Parmelia pachyspora Hale SPECIES
-=======
+# Parmelia pachyspora Hale SPECIES
 
 #### Status
 ACCEPTED

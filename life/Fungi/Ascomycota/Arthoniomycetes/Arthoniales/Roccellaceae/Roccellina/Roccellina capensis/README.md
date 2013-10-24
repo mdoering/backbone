@@ -1,5 +1,4 @@
-Roccellina capensis (Nyl. ex Stizenb.) Tehler SPECIES
-=======
+# Roccellina capensis (Nyl. ex Stizenb.) Tehler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacoseira baicalensis (Skvortzov) SPECIES
-=======
+# Aulacoseira baicalensis (Skvortzov) SPECIES
 
 #### Status
 ACCEPTED

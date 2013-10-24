@@ -1,5 +1,4 @@
-Patella miniata (Clem.) Seaver SPECIES
-=======
+# Patella miniata (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

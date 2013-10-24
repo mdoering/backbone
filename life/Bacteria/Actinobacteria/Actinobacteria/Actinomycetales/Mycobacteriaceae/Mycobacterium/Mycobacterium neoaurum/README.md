@@ -1,5 +1,4 @@
-Mycobacterium neoaurum Tsukamura, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium neoaurum Tsukamura, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

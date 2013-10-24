@@ -1,5 +1,4 @@
-Coniothyrium cookei Tassi SPECIES
-=======
+# Coniothyrium cookei Tassi SPECIES
 
 #### Status
 ACCEPTED

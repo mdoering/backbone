@@ -1,5 +1,4 @@
-Cortinarius hircinosmus Moënne-Locc. SPECIES
-=======
+# Cortinarius hircinosmus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peyronellaea australis Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma nigricans P.R. Johnst. & Boerema, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 19(4): 394 (1982)
 
 #### Original name
-null
+Phoma nigricans P.R. Johnst. & Boerema, 1982
 
 ### Remarks
 null

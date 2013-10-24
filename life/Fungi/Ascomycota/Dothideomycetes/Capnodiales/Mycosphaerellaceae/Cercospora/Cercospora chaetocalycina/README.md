@@ -1,5 +1,4 @@
-Cercospora chaetocalycina Petr. & Cif. SPECIES
-=======
+# Cercospora chaetocalycina Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

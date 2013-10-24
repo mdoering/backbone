@@ -1,5 +1,4 @@
-Placosphaeria tiglii Henn. SPECIES
-=======
+# Placosphaeria tiglii Henn. SPECIES
 
 #### Status
 ACCEPTED

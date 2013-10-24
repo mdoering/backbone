@@ -1,5 +1,4 @@
-Mycovellosiella gorakhpurensis P. Kumar & Kamal SPECIES
-=======
+# Mycovellosiella gorakhpurensis P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

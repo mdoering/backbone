@@ -1,5 +1,4 @@
-Pezizella atomaria Starbäck SPECIES
-=======
+# Pezizella atomaria Starbäck SPECIES
 
 #### Status
 ACCEPTED

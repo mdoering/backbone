@@ -1,5 +1,4 @@
-Patellaria indigotica Cooke & Peck SPECIES
-=======
+# Patellaria indigotica Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

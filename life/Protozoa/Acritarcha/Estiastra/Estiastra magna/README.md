@@ -1,5 +1,4 @@
-Estiastra magna Eisenack, 1959 SPECIES
-=======
+# Estiastra magna Eisenack, 1959 SPECIES
 
 #### Status
 ACCEPTED

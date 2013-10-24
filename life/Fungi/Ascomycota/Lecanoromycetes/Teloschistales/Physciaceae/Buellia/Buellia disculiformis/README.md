@@ -1,5 +1,4 @@
-Buellia disculiformis (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia disculiformis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

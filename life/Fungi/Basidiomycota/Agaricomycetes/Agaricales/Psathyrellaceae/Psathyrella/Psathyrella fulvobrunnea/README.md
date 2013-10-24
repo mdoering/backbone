@@ -1,5 +1,4 @@
-Psathyrella fulvobrunnea A.H. Sm. SPECIES
-=======
+# Psathyrella fulvobrunnea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

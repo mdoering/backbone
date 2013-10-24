@@ -1,5 +1,4 @@
-Joerstadia alchemillae (Bacc.) Gjaerum & Cummins, 1982 SPECIES
-=======
+# Joerstadia alchemillae (Bacc.) Gjaerum & Cummins, 1982 SPECIES
 
 #### Status
 ACCEPTED

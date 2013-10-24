@@ -1,5 +1,4 @@
-Stigmatomyces compressus Thaxt. SPECIES
-=======
+# Stigmatomyces compressus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

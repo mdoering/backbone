@@ -1,5 +1,4 @@
-Uromyces libycus Trotter SPECIES
-=======
+# Uromyces libycus Trotter SPECIES
 
 #### Status
 ACCEPTED

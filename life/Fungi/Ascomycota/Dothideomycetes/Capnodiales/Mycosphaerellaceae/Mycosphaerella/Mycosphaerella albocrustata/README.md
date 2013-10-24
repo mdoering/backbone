@@ -1,5 +1,4 @@
-Mycosphaerella albocrustata (Schwein.) Crous & Corlett SPECIES
-=======
+# Mycosphaerella albocrustata (Schwein.) Crous & Corlett SPECIES
 
 #### Status
 ACCEPTED

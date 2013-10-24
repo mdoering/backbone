@@ -1,5 +1,4 @@
-Napora Pessagno, 1977 GENUS
-=======
+# Napora Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

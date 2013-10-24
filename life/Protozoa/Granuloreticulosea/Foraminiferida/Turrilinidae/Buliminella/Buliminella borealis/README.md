@@ -1,5 +1,4 @@
-Buliminella borealis Haynes, 1973 SPECIES
-=======
+# Buliminella borealis Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thalloidima granulosum Szat. SPECIES
-=======
+# Toninia weberi Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 118 (1991)
 
 #### Original name
-null
+Thalloidima granulosa Szatala
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella coolabuniaensis G.S. Pegg & Carnegie SPECIES
-=======
+# Mycosphaerella coolabuniaensis G.S. Pegg & Carnegie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora arridens Stizenb. SPECIES
-=======
+# Lecanora arridens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

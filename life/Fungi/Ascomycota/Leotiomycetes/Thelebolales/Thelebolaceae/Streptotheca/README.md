@@ -1,5 +1,4 @@
-Streptotheca GENUS
-=======
+# Streptotheca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proterythropsis crassicaudata Kofoid & Swezy SPECIES
-=======
+# Proterythropsis crassicaudata Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

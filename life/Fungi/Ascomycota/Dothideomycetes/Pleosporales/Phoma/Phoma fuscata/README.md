@@ -1,5 +1,4 @@
-Phoma fuscata (Bonord.) Sacc. SPECIES
-=======
+# Phoma fuscata (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbinaria vulgaris J. Agardh SPECIES
-=======
+# Turbinaria vulgaris J. Agardh SPECIES
 
 #### Status
 ACCEPTED

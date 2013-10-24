@@ -1,5 +1,4 @@
-Leucopaxillus salmonifolius M.M. Moser & Lamoure SPECIES
-=======
+# Leucopaxillus salmonifolius M.M. Moser & Lamoure SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aiacapiiae Speg. SPECIES
-=======
+# Cortinarius aiacapiiae Speg. SPECIES
 
 #### Status
 ACCEPTED

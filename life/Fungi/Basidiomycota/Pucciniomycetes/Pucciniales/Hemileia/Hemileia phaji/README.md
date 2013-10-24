@@ -1,5 +1,4 @@
-Hemileia phaji (Racib.) P. Syd. & Syd. SPECIES
-=======
+# Hemileia phaji (Racib.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

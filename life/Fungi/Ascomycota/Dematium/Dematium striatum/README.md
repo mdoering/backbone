@@ -1,5 +1,4 @@
-Dematium striatum (Pers.) Link SPECIES
-=======
+# Dematium striatum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

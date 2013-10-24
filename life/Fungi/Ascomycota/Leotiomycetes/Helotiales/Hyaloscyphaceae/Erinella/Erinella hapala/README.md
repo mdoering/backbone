@@ -1,5 +1,4 @@
-Erinella hapala (Berk. & Broome) Sacc. SPECIES
-=======
+# Erinella hapala (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

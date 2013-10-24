@@ -1,5 +1,4 @@
-Phanerochaete brunnea Sheng H. Wu, 1990 SPECIES
-=======
+# Phanerochaete brunnea Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

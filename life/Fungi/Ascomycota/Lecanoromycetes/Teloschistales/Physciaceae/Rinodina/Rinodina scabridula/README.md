@@ -1,5 +1,4 @@
-Rinodina scabridula Matzer & H. Mayrhofer SPECIES
-=======
+# Rinodina scabridula Matzer & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

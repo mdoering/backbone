@@ -1,5 +1,4 @@
-Micrantholithus brevis SPECIES
-=======
+# Micrantholithus brevis SPECIES
 
 #### Status
 ACCEPTED

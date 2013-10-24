@@ -1,5 +1,4 @@
-Cercospora triumfettigena J.M. Yen & Gilles SPECIES
-=======
+# Cercospora triumfettigena J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

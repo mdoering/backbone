@@ -1,5 +1,4 @@
-Euglena purpurea Mainx SPECIES
-=======
+# Euglena purpurea Mainx SPECIES
 
 #### Status
 ACCEPTED

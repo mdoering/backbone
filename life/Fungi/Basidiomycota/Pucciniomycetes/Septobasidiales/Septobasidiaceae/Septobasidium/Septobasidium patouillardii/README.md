@@ -1,5 +1,4 @@
-Septobasidium patouillardii Burt SPECIES
-=======
+# Septobasidium patouillardii Burt SPECIES
 
 #### Status
 ACCEPTED

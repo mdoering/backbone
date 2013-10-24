@@ -1,5 +1,4 @@
-Ceratomyces furcatus Thaxt. SPECIES
-=======
+# Ceratomyces furcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

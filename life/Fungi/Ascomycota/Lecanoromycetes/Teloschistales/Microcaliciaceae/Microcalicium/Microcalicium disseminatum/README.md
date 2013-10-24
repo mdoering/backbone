@@ -1,17 +1,16 @@
-Calicium disseminatum var. disseminatum VARIETY
-=======
+# Microcalicium disseminatum (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 57(no. 1): 77 (1927)
 
 #### Original name
-null
+Cyphelium disseminatum Ach.
 
 ### Remarks
 null

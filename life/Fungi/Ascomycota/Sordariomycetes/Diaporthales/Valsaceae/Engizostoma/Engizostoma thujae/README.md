@@ -1,5 +1,4 @@
-Engizostoma thujae (Peck) Kuntze SPECIES
-=======
+# Engizostoma thujae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

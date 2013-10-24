@@ -1,17 +1,16 @@
-Phyllosticta grossulariae var. grossulariae VARIETY
-=======
+# Mycosphaerella ribis (Fuckel) Lindau, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Phyllosticta grossulariae var. grossulariae
+Sphaerella ribis Fuckel, 1870
 
 ### Remarks
 null

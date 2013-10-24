@@ -1,5 +1,4 @@
-Phyllosticta pteleicola Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta pteleicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

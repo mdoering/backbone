@@ -1,5 +1,4 @@
-Meliola monnieriae F. Stevens SPECIES
-=======
+# Meliola monnieriae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

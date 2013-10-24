@@ -1,5 +1,4 @@
-Aecidium desmium M.A. Curtis & Broome SPECIES
-=======
+# Aecidium desmium M.A. Curtis & Broome SPECIES
 
 #### Status
 ACCEPTED

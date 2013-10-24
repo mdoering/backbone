@@ -1,5 +1,4 @@
-Sclerophthora lolii R.G. Kenneth, 1964 SPECIES
-=======
+# Sclerophthora lolii R.G. Kenneth, 1964 SPECIES
 
 #### Status
 ACCEPTED

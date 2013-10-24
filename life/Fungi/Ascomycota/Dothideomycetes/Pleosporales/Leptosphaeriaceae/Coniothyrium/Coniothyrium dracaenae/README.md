@@ -1,5 +1,4 @@
-Coniothyrium dracaenae F. Stevens & Weedon, 1925 SPECIES
-=======
+# Coniothyrium dracaenae F. Stevens & Weedon, 1925 SPECIES
 
 #### Status
 ACCEPTED

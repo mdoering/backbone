@@ -1,5 +1,4 @@
-Hendersonia minutula Durieu & Lév. SPECIES
-=======
+# Hendersonia minutula Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

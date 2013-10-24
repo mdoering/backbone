@@ -1,5 +1,4 @@
-Duboscquella tintinnicola (Lohmann) Chatton SPECIES
-=======
+# Duboscquella tintinnicola (Lohmann) Chatton SPECIES
 
 #### Status
 ACCEPTED

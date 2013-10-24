@@ -1,5 +1,4 @@
-Winogradskyella arenosi Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
-=======
+# Winogradskyella arenosi Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
 
 #### Status
 ACCEPTED

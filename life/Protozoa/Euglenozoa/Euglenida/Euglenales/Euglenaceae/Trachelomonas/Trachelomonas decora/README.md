@@ -1,5 +1,4 @@
-Trachelomonas decora Deflandre SPECIES
-=======
+# Trachelomonas decora Deflandre SPECIES
 
 #### Status
 ACCEPTED

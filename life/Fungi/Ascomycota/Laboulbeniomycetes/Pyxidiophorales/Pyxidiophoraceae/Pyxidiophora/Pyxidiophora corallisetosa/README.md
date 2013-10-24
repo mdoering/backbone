@@ -1,5 +1,4 @@
-Pyxidiophora corallisetosa R. Kirschner SPECIES
-=======
+# Pyxidiophora corallisetosa R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

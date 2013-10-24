@@ -1,5 +1,4 @@
-Aecidium orbiculare Barclay SPECIES
-=======
+# Aecidium orbiculare Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora elephantopi Ellis & Everh. SPECIES
-=======
+# Cercospora elephantopi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

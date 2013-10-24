@@ -1,5 +1,4 @@
-Xanthoparmelia boonahensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia boonahensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

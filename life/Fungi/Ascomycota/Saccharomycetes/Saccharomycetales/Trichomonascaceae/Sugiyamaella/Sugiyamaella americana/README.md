@@ -1,5 +1,4 @@
-Sugiyamaella americana Kurtzman, 2007 SPECIES
-=======
+# Sugiyamaella americana Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

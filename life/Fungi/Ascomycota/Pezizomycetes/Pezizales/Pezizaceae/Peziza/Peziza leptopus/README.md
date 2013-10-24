@@ -1,5 +1,4 @@
-Peziza leptopus Pers. SPECIES
-=======
+# Peziza leptopus Pers. SPECIES
 
 #### Status
 ACCEPTED

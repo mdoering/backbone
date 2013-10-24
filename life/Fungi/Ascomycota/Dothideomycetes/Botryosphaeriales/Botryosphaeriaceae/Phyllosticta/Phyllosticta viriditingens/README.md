@@ -1,5 +1,4 @@
-Phyllosticta viriditingens Ferraris SPECIES
-=======
+# Phyllosticta viriditingens Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Japewiella pacifica Printzen SPECIES
-=======
+# Japewiella pacifica Printzen SPECIES
 
 #### Status
 ACCEPTED

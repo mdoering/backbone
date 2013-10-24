@@ -1,5 +1,4 @@
-Byssoloma multipunctata Lücking SPECIES
-=======
+# Byssoloma multipunctata Lücking SPECIES
 
 #### Status
 ACCEPTED

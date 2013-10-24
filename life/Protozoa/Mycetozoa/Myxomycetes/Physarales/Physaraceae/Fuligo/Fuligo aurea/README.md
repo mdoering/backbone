@@ -1,14 +1,13 @@
-Erionema aureum Penz., 1898 SPECIES
-=======
+# Fuligo aurea (Penz.) Y. Yamam., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myxomyc. Fl. Buitenzorg 37 (1898)
+The Myxomycete Biota of Japan (Tokyo) 390 (1998)
 
 #### Original name
 Erionema aureum Penz., 1898

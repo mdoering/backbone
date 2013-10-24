@@ -1,14 +1,13 @@
-Coniochaetidium boothii (Manohar. & P.Rama Rao) Arx, 1975 SPECIES
-=======
+# Coniochaeta boothii (Manohar. & P.Rama Rao) Dania García, Stchigel & Guarro, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 8: 26 (1975)
+in García, Stchigel, Cano, Calduch, Hawksworth & Guarro, Mycol. Res. 110(11): 1284 (2006)
 
 #### Original name
 Thielavia boothii Manohar. & P.Rama Rao, 1973

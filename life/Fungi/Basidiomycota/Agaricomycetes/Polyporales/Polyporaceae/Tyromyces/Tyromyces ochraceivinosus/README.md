@@ -1,5 +1,4 @@
-Tyromyces ochraceivinosus Corner SPECIES
-=======
+# Tyromyces ochraceivinosus Corner SPECIES
 
 #### Status
 ACCEPTED

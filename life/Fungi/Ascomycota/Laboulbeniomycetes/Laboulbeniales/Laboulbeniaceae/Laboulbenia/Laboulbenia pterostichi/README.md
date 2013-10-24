@@ -1,5 +1,4 @@
-Laboulbenia pterostichi subsp. pterostichi SUBSPECIES
-=======
+# Laboulbenia pterostichi Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia pterostichi subsp. pterostichi
+Laboulbenia pterostichi Thaxt.
 
 ### Remarks
 null

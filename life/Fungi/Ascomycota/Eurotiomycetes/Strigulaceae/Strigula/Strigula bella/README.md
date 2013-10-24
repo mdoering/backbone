@@ -1,5 +1,4 @@
-Strigula bella G. Thor, Lücking & Tat. Matsumoto SPECIES
-=======
+# Strigula bella G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

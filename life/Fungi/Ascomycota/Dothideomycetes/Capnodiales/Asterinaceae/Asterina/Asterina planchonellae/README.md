@@ -1,5 +1,4 @@
-Asterina planchonellae Hansf. SPECIES
-=======
+# Asterina planchonellae Hansf. SPECIES
 
 #### Status
 ACCEPTED

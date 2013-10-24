@@ -1,5 +1,4 @@
-Caeoma pinitorqum G. Winter SPECIES
-=======
+# Caeoma pinitorqum G. Winter SPECIES
 
 #### Status
 ACCEPTED

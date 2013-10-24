@@ -1,5 +1,4 @@
-Phacotrum cantharellum (Ach.) Gray SPECIES
-=======
+# Phacotrum cantharellum (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

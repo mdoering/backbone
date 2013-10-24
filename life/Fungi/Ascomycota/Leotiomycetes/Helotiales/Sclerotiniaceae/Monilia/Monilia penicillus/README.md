@@ -1,5 +1,4 @@
-Monilia penicillus Pers. SPECIES
-=======
+# Monilia penicillus Pers. SPECIES
 
 #### Status
 ACCEPTED

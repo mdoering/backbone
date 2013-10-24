@@ -1,5 +1,4 @@
-Holophaga foetida Liesack et al., 1995 SPECIES
-=======
+# Holophaga foetida Liesack et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

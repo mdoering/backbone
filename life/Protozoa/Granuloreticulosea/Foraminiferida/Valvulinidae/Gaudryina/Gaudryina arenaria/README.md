@@ -1,5 +1,4 @@
-Gaudryina arenaria SPECIES
-=======
+# Gaudryina arenaria SPECIES
 
 #### Status
 ACCEPTED

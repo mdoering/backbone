@@ -1,5 +1,4 @@
-Lahmiomyces Cif. & Tomas. GENUS
-=======
+# Lahmiomyces Cif. & Tomas. GENUS
 
 #### Status
 ACCEPTED

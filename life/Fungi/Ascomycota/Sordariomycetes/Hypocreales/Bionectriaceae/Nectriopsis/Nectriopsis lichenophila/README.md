@@ -1,5 +1,4 @@
-Nectriopsis lichenophila (Speg.) Etayo SPECIES
-=======
+# Nectriopsis lichenophila (Speg.) Etayo SPECIES
 
 #### Status
 ACCEPTED

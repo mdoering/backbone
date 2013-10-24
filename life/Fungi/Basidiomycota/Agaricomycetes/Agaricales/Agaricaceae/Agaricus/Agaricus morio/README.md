@@ -1,5 +1,4 @@
-Agaricus morio Fr. SPECIES
-=======
+# Agaricus morio Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium sphaeriaceum Ellis SPECIES
-=======
+# Hysterium sphaeriaceum Ellis SPECIES
 
 #### Status
 ACCEPTED

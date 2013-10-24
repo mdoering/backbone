@@ -1,5 +1,4 @@
-Sarcoscypha emarginata (Berk. & Broome) F.A. Harr. SPECIES
-=======
+# Sarcoscypha emarginata (Berk. & Broome) F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

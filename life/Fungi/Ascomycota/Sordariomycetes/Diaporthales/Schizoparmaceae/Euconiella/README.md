@@ -1,5 +1,4 @@
-Euconiella Petrak & Sydow, 1927 GENUS
-=======
+# Euconiella Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

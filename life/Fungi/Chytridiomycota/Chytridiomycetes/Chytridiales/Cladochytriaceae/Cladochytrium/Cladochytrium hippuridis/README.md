@@ -1,5 +1,4 @@
-Cladochytrium hippuridis De Wild. SPECIES
-=======
+# Cladochytrium hippuridis De Wild. SPECIES
 
 #### Status
 ACCEPTED

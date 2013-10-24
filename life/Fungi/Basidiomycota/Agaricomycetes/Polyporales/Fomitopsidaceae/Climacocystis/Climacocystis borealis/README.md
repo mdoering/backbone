@@ -1,17 +1,16 @@
-Polyporus ambiens (P. Karst.) Sacc. & Trotter, 1912 SPECIES
-=======
+# Climacocystis borealis (Fr.) Kotl. & Pouzar, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 12: 103 (1958)
 
 #### Original name
-null
+Polyporus borealis Fr., 1821
 
 ### Remarks
 null

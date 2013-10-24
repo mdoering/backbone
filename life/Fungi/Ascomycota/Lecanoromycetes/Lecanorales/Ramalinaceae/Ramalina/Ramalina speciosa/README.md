@@ -1,5 +1,4 @@
-Ramalina speciosa (Müll. Arg.) Vain. SPECIES
-=======
+# Ramalina speciosa (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

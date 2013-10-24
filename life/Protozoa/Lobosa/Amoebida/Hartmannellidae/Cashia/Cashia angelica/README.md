@@ -1,5 +1,4 @@
-Cashia angelica (Bovee, 1972) SPECIES
-=======
+# Cashia angelica (Bovee, 1972) SPECIES
 
 #### Status
 ACCEPTED

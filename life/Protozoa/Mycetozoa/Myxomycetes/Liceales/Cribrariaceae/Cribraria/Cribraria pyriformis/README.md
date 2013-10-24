@@ -1,5 +1,4 @@
-Cribraria pyriformis Schrad. SPECIES
-=======
+# Cribraria pyriformis Schrad. SPECIES
 
 #### Status
 ACCEPTED

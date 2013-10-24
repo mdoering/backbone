@@ -1,5 +1,4 @@
-Parmelia honoluluana Gyeln. SPECIES
-=======
+# Parmelia honoluluana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

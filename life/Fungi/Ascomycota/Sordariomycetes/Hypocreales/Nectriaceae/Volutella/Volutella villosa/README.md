@@ -1,5 +1,4 @@
-Volutella villosa (Fresen.) Sacc. SPECIES
-=======
+# Volutella villosa (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

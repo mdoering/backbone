@@ -1,5 +1,4 @@
-Phyllosticta wikstroemiae Sawada SPECIES
-=======
+# Phyllosticta wikstroemiae Sawada SPECIES
 
 #### Status
 ACCEPTED

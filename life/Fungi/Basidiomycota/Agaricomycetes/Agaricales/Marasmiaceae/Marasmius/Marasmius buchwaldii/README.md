@@ -1,5 +1,4 @@
-Marasmius buchwaldii Henn. SPECIES
-=======
+# Marasmius buchwaldii Henn. SPECIES
 
 #### Status
 ACCEPTED

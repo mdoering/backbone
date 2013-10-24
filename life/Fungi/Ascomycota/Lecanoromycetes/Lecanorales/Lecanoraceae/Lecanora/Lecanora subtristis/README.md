@@ -1,5 +1,4 @@
-Lecanora subtristis Nyl. SPECIES
-=======
+# Lecanora subtristis Nyl. SPECIES
 
 #### Status
 ACCEPTED

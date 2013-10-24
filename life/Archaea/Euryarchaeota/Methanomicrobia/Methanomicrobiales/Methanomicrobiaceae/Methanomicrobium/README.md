@@ -1,5 +1,4 @@
-Methanomicrobium Balch & Wolfe, 1981 GENUS
-=======
+# Methanomicrobium Balch & Wolfe, 1981 GENUS
 
 #### Status
 ACCEPTED

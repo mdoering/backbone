@@ -1,5 +1,4 @@
-Septoriella oleae Sarej. SPECIES
-=======
+# Septoriella oleae Sarej. SPECIES
 
 #### Status
 ACCEPTED

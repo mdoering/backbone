@@ -1,17 +1,16 @@
-Meliola ambigua var. caseariicola Cif. VARIETY
-=======
+# Meliola ambigua Pat. & Gaillard, 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 7: 93 (1954)
+Bull. Soc. mycol. Fr. 4(2): 104 (1888)
 
 #### Original name
-Meliola ambigua var. caseariicola Cif.
+Meliola ambigua Pat. & Gaillard, 1888
 
 ### Remarks
 null

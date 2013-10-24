@@ -1,5 +1,4 @@
-Verrucaria inconspicua (J. Lahm) Nyl. SPECIES
-=======
+# Verrucaria inconspicua (J. Lahm) Nyl. SPECIES
 
 #### Status
 ACCEPTED

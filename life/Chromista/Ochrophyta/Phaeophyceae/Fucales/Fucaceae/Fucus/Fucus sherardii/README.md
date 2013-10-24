@@ -1,5 +1,4 @@
-Fucus sherardii SPECIES
-=======
+# Fucus sherardii SPECIES
 
 #### Status
 ACCEPTED

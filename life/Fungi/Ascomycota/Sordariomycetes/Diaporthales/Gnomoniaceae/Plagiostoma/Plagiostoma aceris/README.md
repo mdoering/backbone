@@ -1,5 +1,4 @@
-Plagiostoma aceris Petr. SPECIES
-=======
+# Plagiostoma aceris Petr. SPECIES
 
 #### Status
 ACCEPTED

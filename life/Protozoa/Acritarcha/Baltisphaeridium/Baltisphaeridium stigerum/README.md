@@ -1,5 +1,4 @@
-Baltisphaeridium stigerum N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium stigerum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

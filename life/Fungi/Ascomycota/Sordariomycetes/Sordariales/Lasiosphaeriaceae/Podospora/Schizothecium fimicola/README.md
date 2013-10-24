@@ -1,17 +1,16 @@
-Schizothecium fimicolum Corda SPECIES
-=======
+# Schizothecium fimicola Corda, 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 2: 29 (1838)
 
 #### Original name
-Schizothecium fimicolum Corda
+Schizothecium fimicola Corda, 1838
 
 ### Remarks
 null

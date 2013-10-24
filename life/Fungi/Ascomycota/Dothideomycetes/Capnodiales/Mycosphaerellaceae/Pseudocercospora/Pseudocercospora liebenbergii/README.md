@@ -1,5 +1,4 @@
-Pseudocercospora liebenbergii (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora liebenbergii (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

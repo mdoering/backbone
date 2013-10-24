@@ -1,5 +1,4 @@
-Tamarina Petrova, 1981 GENUS
-=======
+# Tamarina Petrova, 1981 GENUS
 
 #### Status
 ACCEPTED

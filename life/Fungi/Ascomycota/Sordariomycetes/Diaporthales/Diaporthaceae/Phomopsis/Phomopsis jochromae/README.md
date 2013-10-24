@@ -1,5 +1,4 @@
-Phomopsis jochromae Gonz. Frag. SPECIES
-=======
+# Phomopsis jochromae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

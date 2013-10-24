@@ -1,14 +1,13 @@
-Coprinus bipellis Romagn., 1976 SPECIES
-=======
+# Coprinellus bipellis (Romagn.) P. Roux, Guy Garcia & Borgarino, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 92: 198 (1976)
+in Roux, Mille et Un Champignons 13 (2006)
 
 #### Original name
 Coprinus bipellis Romagn., 1976

@@ -1,5 +1,4 @@
-Ramularia cortusae Petr. SPECIES
-=======
+# Ramularia cortusae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lyngei Degel. SPECIES
-=======
+# Lecidea lyngei Degel. SPECIES
 
 #### Status
 ACCEPTED

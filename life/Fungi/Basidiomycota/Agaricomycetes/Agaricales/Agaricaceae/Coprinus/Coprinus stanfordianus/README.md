@@ -1,5 +1,4 @@
-Coprinus stanfordianus Copel. SPECIES
-=======
+# Coprinus stanfordianus Copel. SPECIES
 
 #### Status
 ACCEPTED

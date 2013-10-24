@@ -1,5 +1,4 @@
-Parmelia myriocarpa (Asahina) J.D. Zhao SPECIES
-=======
+# Parmelia myriocarpa (Asahina) J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

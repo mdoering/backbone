@@ -1,5 +1,4 @@
-Puccinia halosciadis Heikinh. SPECIES
-=======
+# Puccinia halosciadis Heikinh. SPECIES
 
 #### Status
 ACCEPTED

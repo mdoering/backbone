@@ -1,5 +1,4 @@
-Dimerosporium subpilosum G. Winter SPECIES
-=======
+# Dimerosporium subpilosum G. Winter SPECIES
 
 #### Status
 ACCEPTED

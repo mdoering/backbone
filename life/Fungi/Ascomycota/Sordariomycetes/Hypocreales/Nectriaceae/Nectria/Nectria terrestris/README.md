@@ -1,5 +1,4 @@
-Nectria terrestris P. Crouan & H. Crouan SPECIES
-=======
+# Nectria terrestris P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

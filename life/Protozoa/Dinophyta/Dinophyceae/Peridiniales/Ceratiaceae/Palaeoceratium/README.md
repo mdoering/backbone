@@ -1,5 +1,4 @@
-Palaeoceratium O. Wetzel, 1948 GENUS
-=======
+# Palaeoceratium O. Wetzel, 1948 GENUS
 
 #### Status
 ACCEPTED

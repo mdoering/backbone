@@ -1,5 +1,4 @@
-Lecanora triguttulata Jatta SPECIES
-=======
+# Lecanora triguttulata Jatta SPECIES
 
 #### Status
 ACCEPTED

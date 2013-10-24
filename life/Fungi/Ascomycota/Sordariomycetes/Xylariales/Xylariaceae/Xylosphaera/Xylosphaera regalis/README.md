@@ -1,5 +1,4 @@
-Xylosphaera regalis (Cooke) Dennis SPECIES
-=======
+# Xylosphaera regalis (Cooke) Dennis SPECIES
 
 #### Status
 ACCEPTED

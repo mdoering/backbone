@@ -1,5 +1,4 @@
-Trichobelonium transiens Velen. SPECIES
-=======
+# Trichobelonium transiens Velen. SPECIES
 
 #### Status
 ACCEPTED

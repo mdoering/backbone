@@ -1,5 +1,4 @@
-Byssosphaeria luteobasis Ellis, 1879 SPECIES
-=======
+# Byssosphaeria luteobasis Ellis, 1879 SPECIES
 
 #### Status
 ACCEPTED

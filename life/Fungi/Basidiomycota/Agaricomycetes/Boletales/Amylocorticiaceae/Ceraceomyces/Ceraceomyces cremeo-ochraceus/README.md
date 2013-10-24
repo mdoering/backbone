@@ -1,5 +1,4 @@
-Ceraceomyces cremeo-ochraceus Hjortstam, 1983 SPECIES
-=======
+# Ceraceomyces cremeo-ochraceus Hjortstam, 1983 SPECIES
 
 #### Status
 ACCEPTED

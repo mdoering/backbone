@@ -1,5 +1,4 @@
-Leotia atra Weinm., 1856 SPECIES
-=======
+# Leotia atra Weinm., 1856 SPECIES
 
 #### Status
 ACCEPTED

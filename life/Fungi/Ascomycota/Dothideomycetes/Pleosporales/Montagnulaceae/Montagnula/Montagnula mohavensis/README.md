@@ -1,5 +1,4 @@
-Montagnula mohavensis A.W. Ramaley & M.E. Barr SPECIES
-=======
+# Montagnula mohavensis A.W. Ramaley & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

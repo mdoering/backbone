@@ -1,5 +1,4 @@
-Thozetella havanensis R.F. Castañeda, 1984 SPECIES
-=======
+# Thozetella havanensis R.F. Castañeda, 1984 SPECIES
 
 #### Status
 ACCEPTED

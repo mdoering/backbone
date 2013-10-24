@@ -1,5 +1,4 @@
-Pseudocercosporella smithii (Petr.) U. Braun SPECIES
-=======
+# Pseudocercosporella smithii (Petr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

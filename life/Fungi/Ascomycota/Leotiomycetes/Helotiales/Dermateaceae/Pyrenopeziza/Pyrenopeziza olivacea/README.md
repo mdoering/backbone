@@ -1,5 +1,4 @@
-Pyrenopeziza olivacea Speg. SPECIES
-=======
+# Pyrenopeziza olivacea Speg. SPECIES
 
 #### Status
 ACCEPTED

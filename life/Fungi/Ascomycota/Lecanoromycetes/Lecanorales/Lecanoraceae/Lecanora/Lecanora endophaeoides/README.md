@@ -1,5 +1,4 @@
-Lecanora endophaeoides Hue SPECIES
-=======
+# Lecanora endophaeoides Hue SPECIES
 
 #### Status
 ACCEPTED

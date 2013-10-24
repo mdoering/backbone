@@ -1,14 +1,13 @@
-Leptodinium J. Cachon & M. Cachon, 1969 GENUS
-=======
+# Cachonodinium A.R.Loeblich, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Protistologica 5: 18.
+null
 
 #### Original name
 null

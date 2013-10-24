@@ -1,5 +1,4 @@
-Strombomonas helicaudata Balech & Dastugue SPECIES
-=======
+# Strombomonas helicaudata Balech & Dastugue SPECIES
 
 #### Status
 ACCEPTED

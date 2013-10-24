@@ -1,5 +1,4 @@
-Telamonia brevipes Velen. SPECIES
-=======
+# Telamonia brevipes Velen. SPECIES
 
 #### Status
 ACCEPTED

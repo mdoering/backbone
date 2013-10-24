@@ -1,5 +1,4 @@
-Candida pomicola Kurtzman, Robnett & Yarrow, 2001 SPECIES
-=======
+# Candida pomicola Kurtzman, Robnett & Yarrow, 2001 SPECIES
 
 #### Status
 ACCEPTED

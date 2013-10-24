@@ -1,5 +1,4 @@
-Gymnochlora stellata K. Ishida & Y. Hara SPECIES
-=======
+# Gymnochlora stellata K. Ishida & Y. Hara SPECIES
 
 #### Status
 ACCEPTED

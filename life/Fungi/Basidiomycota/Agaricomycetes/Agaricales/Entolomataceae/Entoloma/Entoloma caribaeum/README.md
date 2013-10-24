@@ -1,5 +1,4 @@
-Entoloma caribaeum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma caribaeum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

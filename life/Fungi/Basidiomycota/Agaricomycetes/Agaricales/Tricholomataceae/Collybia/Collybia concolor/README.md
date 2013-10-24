@@ -1,5 +1,4 @@
-Collybia concolor Del. {?} SPECIES
-=======
+# Collybia concolor Del. {?} SPECIES
 
 #### Status
 ACCEPTED

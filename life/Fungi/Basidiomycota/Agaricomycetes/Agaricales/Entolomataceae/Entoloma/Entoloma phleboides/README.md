@@ -1,5 +1,4 @@
-Entoloma phleboides (Romagn.) E. Horak SPECIES
-=======
+# Entoloma phleboides (Romagn.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

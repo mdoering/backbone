@@ -1,5 +1,4 @@
-Roccellina exspectata Tehler SPECIES
-=======
+# Roccellina exspectata Tehler SPECIES
 
 #### Status
 ACCEPTED

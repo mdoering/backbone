@@ -1,5 +1,4 @@
-Cribrogenerina Schubert, 1908 GENUS
-=======
+# Cribrogenerina Schubert, 1908 GENUS
 
 #### Status
 ACCEPTED

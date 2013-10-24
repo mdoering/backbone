@@ -1,5 +1,4 @@
-Pustularia velata Le Gal SPECIES
-=======
+# Pustularia velata Le Gal SPECIES
 
 #### Status
 ACCEPTED

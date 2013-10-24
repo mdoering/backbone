@@ -1,5 +1,4 @@
-Lecidea transilvanica Nyl. SPECIES
-=======
+# Lecidea transilvanica Nyl. SPECIES
 
 #### Status
 ACCEPTED

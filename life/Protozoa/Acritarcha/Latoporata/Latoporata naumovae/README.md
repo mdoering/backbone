@@ -1,5 +1,4 @@
-Latoporata naumovae Lopukhin, 1966 SPECIES
-=======
+# Latoporata naumovae Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

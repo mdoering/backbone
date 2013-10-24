@@ -1,5 +1,4 @@
-Physalospora obtegens Rehm SPECIES
-=======
+# Physalospora obtegens Rehm SPECIES
 
 #### Status
 ACCEPTED

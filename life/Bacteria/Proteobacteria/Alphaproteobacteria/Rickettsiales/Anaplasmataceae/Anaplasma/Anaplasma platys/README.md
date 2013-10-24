@@ -1,5 +1,4 @@
-Anaplasma platys Dumler et al., 2001 SPECIES
-=======
+# Anaplasma platys Dumler et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

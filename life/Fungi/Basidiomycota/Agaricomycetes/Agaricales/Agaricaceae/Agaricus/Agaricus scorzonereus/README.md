@@ -1,5 +1,4 @@
-Agaricus scorzonereus Batsch SPECIES
-=======
+# Agaricus scorzonereus Batsch SPECIES
 
 #### Status
 ACCEPTED

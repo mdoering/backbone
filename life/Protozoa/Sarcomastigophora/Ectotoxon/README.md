@@ -1,5 +1,4 @@
-Ectotoxon Sugiyama, 1994 GENUS
-=======
+# Ectotoxon Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

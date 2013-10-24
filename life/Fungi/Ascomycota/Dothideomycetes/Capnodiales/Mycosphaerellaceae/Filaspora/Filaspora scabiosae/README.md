@@ -1,5 +1,4 @@
-Filaspora scabiosae (Fautrey) Kuntze SPECIES
-=======
+# Filaspora scabiosae (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

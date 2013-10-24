@@ -1,5 +1,4 @@
-Phyllosticta perseae Ellis & G. Martin SPECIES
-=======
+# Phyllosticta perseae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

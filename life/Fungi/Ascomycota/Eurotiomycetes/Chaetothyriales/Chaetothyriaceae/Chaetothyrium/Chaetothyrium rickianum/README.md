@@ -1,5 +1,4 @@
-Chaetothyrium rickianum Theiss. SPECIES
-=======
+# Chaetothyrium rickianum Theiss. SPECIES
 
 #### Status
 ACCEPTED

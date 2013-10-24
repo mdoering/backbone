@@ -1,5 +1,4 @@
-Coprinus gigasporus Massee SPECIES
-=======
+# Coprinus gigasporus Massee SPECIES
 
 #### Status
 ACCEPTED

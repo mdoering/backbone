@@ -1,5 +1,4 @@
-Xanthoparmelia vicaria Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia vicaria Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

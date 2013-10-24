@@ -1,5 +1,4 @@
-Uroleptus ruber SPECIES
-=======
+# Uroleptus ruber SPECIES
 
 #### Status
 ACCEPTED

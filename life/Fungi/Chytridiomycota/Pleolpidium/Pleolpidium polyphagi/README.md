@@ -1,5 +1,4 @@
-Pleolpidium polyphagi Sparrow SPECIES
-=======
+# Pleolpidium polyphagi Sparrow SPECIES
 
 #### Status
 ACCEPTED

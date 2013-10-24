@@ -1,5 +1,4 @@
-Graphis subasahinae Nagarkar & Patw. SPECIES
-=======
+# Graphis subasahinae Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

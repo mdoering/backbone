@@ -1,5 +1,4 @@
-Boletus sinapicolor f. sinapicolor FORM
-=======
+# Boletus sinapicolor Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Boletus in Malaysia (Singapore) 124 (1972)
 
 #### Original name
-Boletus sinapicolor f. sinapicolor
+Boletus sinapicolor Corner
 
 ### Remarks
 null

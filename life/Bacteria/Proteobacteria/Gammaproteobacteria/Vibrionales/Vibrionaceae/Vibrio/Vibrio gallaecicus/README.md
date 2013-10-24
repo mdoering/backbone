@@ -1,5 +1,4 @@
-Vibrio gallaecicus Beaz-Hidalgo, Doce, Pascual, Toranzo & Romalde, 2009 SPECIES
-=======
+# Vibrio gallaecicus Beaz-Hidalgo, Doce, Pascual, Toranzo & Romalde, 2009 SPECIES
 
 #### Status
 ACCEPTED

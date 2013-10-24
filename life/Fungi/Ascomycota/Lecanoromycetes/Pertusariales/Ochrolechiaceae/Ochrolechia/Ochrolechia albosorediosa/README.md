@@ -1,5 +1,4 @@
-Ochrolechia albosorediosa Gyeln. SPECIES
-=======
+# Ochrolechia albosorediosa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithostrobus argus Ehrenberg, 1873 SPECIES
-=======
+# Lithostrobus argus Ehrenberg, 1873 SPECIES
 
 #### Status
 ACCEPTED

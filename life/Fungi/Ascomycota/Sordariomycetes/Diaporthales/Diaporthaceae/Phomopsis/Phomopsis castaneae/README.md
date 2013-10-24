@@ -1,5 +1,4 @@
-Phomopsis castaneae Woron. SPECIES
-=======
+# Phomopsis castaneae Woron. SPECIES
 
 #### Status
 ACCEPTED

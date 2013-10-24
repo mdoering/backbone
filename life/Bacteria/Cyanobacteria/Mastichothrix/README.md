@@ -1,5 +1,4 @@
-Mastichothrix Kützing, 1843 GENUS
-=======
+# Mastichothrix Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

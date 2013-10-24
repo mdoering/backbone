@@ -1,5 +1,4 @@
-Rhizopogon ochroleucus A.H. Sm. SPECIES
-=======
+# Rhizopogon ochroleucus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

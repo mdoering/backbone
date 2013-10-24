@@ -1,5 +1,4 @@
-Rinodina elaeoplaca SPECIES
-=======
+# Rinodina elaeoplaca SPECIES
 
 #### Status
 ACCEPTED

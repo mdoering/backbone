@@ -1,5 +1,4 @@
-Phaeographis convariata (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeographis convariata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

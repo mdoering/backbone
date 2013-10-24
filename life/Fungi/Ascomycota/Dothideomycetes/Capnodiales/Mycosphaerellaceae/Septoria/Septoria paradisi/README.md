@@ -1,5 +1,4 @@
-Septoria paradisi B. Sutton & Pascoe SPECIES
-=======
+# Septoria paradisi B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium pterospermum Cooke & Massee SPECIES
-=======
+# Coniosporium pterospermum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

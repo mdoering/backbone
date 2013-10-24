@@ -1,5 +1,4 @@
-Octospora pleurozii Eckblad SPECIES
-=======
+# Octospora pleurozii Eckblad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora gypsoides (Henrici & Gardner {?} ) Sartory SPECIES
-=======
+# Oospora gypsoides (Henrici & Gardner {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

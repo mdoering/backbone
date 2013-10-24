@@ -1,5 +1,4 @@
-Aposphaeria caulina P. Karst. SPECIES
-=======
+# Aposphaeria caulina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

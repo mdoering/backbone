@@ -1,5 +1,4 @@
-Phaeothecoidea proteae Crous, 2008 SPECIES
-=======
+# Phaeothecoidea proteae Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

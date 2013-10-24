@@ -1,5 +1,4 @@
-Phoma dipsacina Bubák SPECIES
-=======
+# Phoma dipsacina Bubák SPECIES
 
 #### Status
 ACCEPTED

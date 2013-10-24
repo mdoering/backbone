@@ -1,5 +1,4 @@
-Phoma obtusispora Ranoj. & Bubák SPECIES
-=======
+# Phoma obtusispora Ranoj. & Bubák SPECIES
 
 #### Status
 ACCEPTED

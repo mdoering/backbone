@@ -1,5 +1,4 @@
-Blastenia handelii Zahlbr. SPECIES
-=======
+# Blastenia handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

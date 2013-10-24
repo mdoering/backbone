@@ -1,5 +1,4 @@
-Puccinia sogdiana Kom. SPECIES
-=======
+# Puccinia sogdiana Kom. SPECIES
 
 #### Status
 ACCEPTED

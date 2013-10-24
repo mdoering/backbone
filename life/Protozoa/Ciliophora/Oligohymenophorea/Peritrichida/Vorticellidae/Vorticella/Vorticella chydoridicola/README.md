@@ -1,5 +1,4 @@
-Vorticella chydoridicola Sramek-Husek, 1946 SPECIES
-=======
+# Vorticella chydoridicola Sramek-Husek, 1946 SPECIES
 
 #### Status
 ACCEPTED

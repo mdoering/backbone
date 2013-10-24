@@ -1,5 +1,4 @@
-Omphalia incerta (Feltgen) Sacc. & Trotter SPECIES
-=======
+# Omphalia incerta (Feltgen) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

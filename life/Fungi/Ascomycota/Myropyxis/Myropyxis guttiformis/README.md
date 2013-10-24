@@ -1,5 +1,4 @@
-Myropyxis guttiformis P. Karst. SPECIES
-=======
+# Myropyxis guttiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

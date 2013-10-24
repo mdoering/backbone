@@ -1,5 +1,4 @@
-Tapesia daedalea (Schwein.) Sacc. SPECIES
-=======
+# Tapesia daedalea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

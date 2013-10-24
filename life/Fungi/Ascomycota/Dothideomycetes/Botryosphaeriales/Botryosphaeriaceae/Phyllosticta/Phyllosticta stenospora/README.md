@@ -1,5 +1,4 @@
-Phyllosticta stenospora (McAlpine) McAlpine SPECIES
-=======
+# Phyllosticta stenospora (McAlpine) McAlpine SPECIES
 
 #### Status
 ACCEPTED

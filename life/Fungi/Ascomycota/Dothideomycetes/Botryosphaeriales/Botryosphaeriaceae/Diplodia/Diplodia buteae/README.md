@@ -1,5 +1,4 @@
-Diplodia buteae S. Ahmad SPECIES
-=======
+# Diplodia buteae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

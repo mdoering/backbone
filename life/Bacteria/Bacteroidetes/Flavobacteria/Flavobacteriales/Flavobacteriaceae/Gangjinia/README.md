@@ -1,5 +1,4 @@
-Gangjinia Lee, Moon, Park, Lee, Jung, Kim, Kim & Kahng, 2011 GENUS
-=======
+# Gangjinia Lee, Moon, Park, Lee, Jung, Kim, Kim & Kahng, 2011 GENUS
 
 #### Status
 ACCEPTED

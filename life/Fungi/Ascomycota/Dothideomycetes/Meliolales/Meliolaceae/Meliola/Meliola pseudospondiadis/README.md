@@ -1,5 +1,4 @@
-Meliola pseudospondiadis Hansf. & Deighton SPECIES
-=======
+# Meliola pseudospondiadis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

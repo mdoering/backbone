@@ -1,5 +1,4 @@
-Aecidium saxifragarum W. Voss SPECIES
-=======
+# Aecidium saxifragarum W. Voss SPECIES
 
 #### Status
 ACCEPTED

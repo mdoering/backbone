@@ -1,5 +1,4 @@
-Nectria coccorum Speg. SPECIES
-=======
+# Nectria coccorum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella amazonica Thaxt. SPECIES
-=======
+# Peyritschiella amazonica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

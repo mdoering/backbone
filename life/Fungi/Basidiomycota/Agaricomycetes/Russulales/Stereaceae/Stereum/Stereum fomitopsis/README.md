@@ -1,5 +1,4 @@
-Stereum fomitopsis Lloyd SPECIES
-=======
+# Stereum fomitopsis Lloyd SPECIES
 
 #### Status
 ACCEPTED

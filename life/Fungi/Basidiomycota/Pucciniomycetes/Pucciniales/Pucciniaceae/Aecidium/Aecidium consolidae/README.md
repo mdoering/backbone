@@ -1,5 +1,4 @@
-Aecidium consolidae Katajev SPECIES
-=======
+# Aecidium consolidae Katajev SPECIES
 
 #### Status
 ACCEPTED

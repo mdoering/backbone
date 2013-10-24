@@ -1,5 +1,4 @@
-Ammonidium pequenhum (Cramer & Díez, 1972) Sarjeant & Vavrdová SPECIES
-=======
+# Ammonidium pequenhum (Cramer & Díez, 1972) Sarjeant & Vavrdová SPECIES
 
 #### Status
 ACCEPTED

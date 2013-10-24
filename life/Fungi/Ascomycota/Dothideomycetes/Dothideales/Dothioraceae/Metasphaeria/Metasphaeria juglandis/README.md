@@ -1,5 +1,4 @@
-Metasphaeria juglandis (A. Massal.) Vain. SPECIES
-=======
+# Metasphaeria juglandis (A. Massal.) Vain. SPECIES
 
 #### Status
 ACCEPTED

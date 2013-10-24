@@ -1,5 +1,4 @@
-Bombardia nigropapillata Kirschst. SPECIES
-=======
+# Bombardia nigropapillata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

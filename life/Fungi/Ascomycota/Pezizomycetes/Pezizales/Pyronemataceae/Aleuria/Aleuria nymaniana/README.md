@@ -1,5 +1,4 @@
-Aleuria nymaniana Henn. SPECIES
-=======
+# Aleuria nymaniana Henn. SPECIES
 
 #### Status
 ACCEPTED

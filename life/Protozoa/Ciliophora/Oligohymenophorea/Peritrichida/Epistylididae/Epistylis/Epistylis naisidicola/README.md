@@ -1,5 +1,4 @@
-Epistylis naisidicola Dumas, 1930 SPECIES
-=======
+# Epistylis naisidicola Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

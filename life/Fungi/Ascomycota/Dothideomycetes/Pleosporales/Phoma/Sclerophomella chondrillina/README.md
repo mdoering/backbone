@@ -1,5 +1,4 @@
-Sclerophomella chondrillina Petr. SPECIES
-=======
+# Sclerophomella chondrillina Petr. SPECIES
 
 #### Status
 ACCEPTED

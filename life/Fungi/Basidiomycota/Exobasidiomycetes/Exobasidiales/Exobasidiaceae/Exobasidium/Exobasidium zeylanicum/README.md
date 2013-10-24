@@ -1,5 +1,4 @@
-Exobasidium zeylanicum Petch SPECIES
-=======
+# Exobasidium zeylanicum Petch SPECIES
 
 #### Status
 ACCEPTED

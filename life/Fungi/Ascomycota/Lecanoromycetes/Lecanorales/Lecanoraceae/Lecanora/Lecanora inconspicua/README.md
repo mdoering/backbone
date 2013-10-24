@@ -1,5 +1,4 @@
-Lecanora inconspicua H. Magn. SPECIES
-=======
+# Lecanora inconspicua H. Magn. SPECIES
 
 #### Status
 ACCEPTED

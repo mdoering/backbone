@@ -1,14 +1,13 @@
-Hebelomatis dunense (L. Corb. & R. Heim) Locq., 1979 SPECIES
-=======
+# Hebeloma dunense L. Corb. & R. Heim, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. , 3. Cortinariales-A. 130 (1979)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 40: 166 (1929)
 
 #### Original name
 Hebeloma dunense L. Corb. & R. Heim, 1929

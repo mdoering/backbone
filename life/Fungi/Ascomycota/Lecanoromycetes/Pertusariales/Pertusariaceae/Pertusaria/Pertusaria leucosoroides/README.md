@@ -1,5 +1,4 @@
-Pertusaria leucosoroides var. leucosoroides VARIETY
-=======
+# Pertusaria leucosoroides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria leucosoroides var. leucosoroides
+Pertusaria leucosoroides Nyl.
 
 ### Remarks
 null

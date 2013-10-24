@@ -1,17 +1,16 @@
-Puytoracia Raabe, 1972 GENUS
-=======
+# Eminothigma Corliss, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Protozool. 10: 168.
+The ciliated Protozoa. Characterization, classification and guide to the literature. 2nd revised Pergamon Press, Oxford, New York etc. : 268.
 
 #### Original name
-null
+Puytoracia Raabe, 1972
 
 ### Remarks
 null

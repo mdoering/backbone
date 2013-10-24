@@ -1,17 +1,16 @@
-Septocylindrium bonordenii var. bonordenii VARIETY
-=======
+# Ramularia septata (Bonord.) Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 223 (1886)
+Annls mycol. 14(5): 350 (1916)
 
 #### Original name
-Septocylindrium bonordenii var. bonordenii
+Cylindrium septatum Bonord., 1851
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia viburnicola J.Y. Zhuang SPECIES
-=======
+# Puccinia viburnicola J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

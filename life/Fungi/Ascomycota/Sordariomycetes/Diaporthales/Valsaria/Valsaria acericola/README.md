@@ -1,5 +1,4 @@
-Valsaria acericola Fairm. SPECIES
-=======
+# Valsaria acericola Fairm. SPECIES
 
 #### Status
 ACCEPTED

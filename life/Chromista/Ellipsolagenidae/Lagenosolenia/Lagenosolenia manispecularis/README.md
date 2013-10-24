@@ -1,5 +1,4 @@
-Lagenosolenia manispecularis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia manispecularis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

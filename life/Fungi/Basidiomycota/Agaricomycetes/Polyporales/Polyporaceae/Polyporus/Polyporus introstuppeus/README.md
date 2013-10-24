@@ -1,5 +1,4 @@
-Polyporus introstuppeus Berk. & Cooke SPECIES
-=======
+# Polyporus introstuppeus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha nigricans Velen. SPECIES
-=======
+# Dasyscyphus nigricans Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 240 (1934)
 
 #### Original name
-Dasyscypha nigricans Velen.
+Dasyscyphus nigricans Velen.
 
 ### Remarks
 null

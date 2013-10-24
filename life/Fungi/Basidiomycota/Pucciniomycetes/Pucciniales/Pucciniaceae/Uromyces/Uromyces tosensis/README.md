@@ -1,5 +1,4 @@
-Uromyces tosensis Henn. SPECIES
-=======
+# Uromyces tosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

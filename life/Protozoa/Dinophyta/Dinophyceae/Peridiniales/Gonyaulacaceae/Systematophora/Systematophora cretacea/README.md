@@ -1,5 +1,4 @@
-Systematophora cretacea R. J. Davey SPECIES
-=======
+# Systematophora cretacea R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

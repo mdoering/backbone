@@ -1,5 +1,4 @@
-Nonionina elegans Williamson, 1858 SPECIES
-=======
+# Nonionina elegans Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

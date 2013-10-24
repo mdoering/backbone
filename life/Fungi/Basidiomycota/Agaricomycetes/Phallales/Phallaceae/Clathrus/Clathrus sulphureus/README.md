@@ -1,5 +1,4 @@
-Clathrus sulphureus Lilj. SPECIES
-=======
+# Clathrus sulphureus Lilj. SPECIES
 
 #### Status
 ACCEPTED

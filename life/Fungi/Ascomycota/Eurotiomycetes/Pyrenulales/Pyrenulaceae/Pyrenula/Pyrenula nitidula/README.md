@@ -1,5 +1,4 @@
-Pyrenula nitidula (Bres.) R. C. Harris SPECIES
-=======
+# Pyrenula nitidula (Bres.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

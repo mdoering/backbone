@@ -1,5 +1,4 @@
-Dictyota squamaria (S. G. Gmelin) Poiret SPECIES
-=======
+# Dictyota squamaria (S. G. Gmelin) Poiret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum decolorans Cooke SPECIES
-=======
+# Rhinotrichum decolorans Cooke SPECIES
 
 #### Status
 ACCEPTED

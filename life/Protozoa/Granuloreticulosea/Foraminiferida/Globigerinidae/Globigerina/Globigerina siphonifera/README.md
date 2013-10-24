@@ -1,5 +1,4 @@
-"Globigerina siphonifera (D' Orbigny) " SPECIES
-=======
+# "Globigerina siphonifera (D' Orbigny) " SPECIES
 
 #### Status
 ACCEPTED

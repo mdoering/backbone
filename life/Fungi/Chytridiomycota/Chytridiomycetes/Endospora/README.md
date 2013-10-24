@@ -1,5 +1,4 @@
-Endospora Scherffel, 1925 GENUS
-=======
+# Endospora Scherffel, 1925 GENUS
 
 #### Status
 ACCEPTED

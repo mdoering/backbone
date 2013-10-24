@@ -1,5 +1,4 @@
-Penicillium ribium Frisvad, Larsen, Dalsgaard, Seifert, Louis-Seize, Lyhne, Jarvis, Fettinger & Overy SPECIES
-=======
+# Penicillium ribium Frisvad, Larsen, Dalsgaard, Seifert, Louis-Seize, Lyhne, Jarvis, Fettinger & Overy SPECIES
 
 #### Status
 ACCEPTED

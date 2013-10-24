@@ -1,5 +1,4 @@
-Leucoagaricus exannulatus var. exannulatus VARIETY
-=======
+# Leucoagaricus exannulatus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Sydowia 7: 68 (1973)
 
 #### Original name
-Leucoagaricus exannulatus var. exannulatus
+Leucoagaricus exannulatus Singer
 
 ### Remarks
 null

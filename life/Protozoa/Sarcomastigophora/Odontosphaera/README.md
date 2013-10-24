@@ -1,5 +1,4 @@
-Odontosphaera Haeckel, 1887 GENUS
-=======
+# Odontosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

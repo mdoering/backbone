@@ -1,5 +1,4 @@
-Dendrosarcus arenarius (Lasch) Kuntze SPECIES
-=======
+# Dendrosarcus arenarius (Lasch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

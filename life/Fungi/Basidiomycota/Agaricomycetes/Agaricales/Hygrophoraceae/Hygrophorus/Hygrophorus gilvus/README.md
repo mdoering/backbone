@@ -1,5 +1,4 @@
-Hygrophorus gilvus Kalchbr. SPECIES
-=======
+# Hygrophorus gilvus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

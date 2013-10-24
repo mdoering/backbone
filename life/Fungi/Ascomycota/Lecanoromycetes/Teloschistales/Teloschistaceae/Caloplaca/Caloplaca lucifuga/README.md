@@ -1,5 +1,4 @@
-Caloplaca lucifuga G. Thor SPECIES
-=======
+# Caloplaca lucifuga G. Thor SPECIES
 
 #### Status
 ACCEPTED

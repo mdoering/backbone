@@ -1,5 +1,4 @@
-Nephromopsis stracheyi (C. Bab.) Müll. Arg. SPECIES
-=======
+# Nephromopsis stracheyi (C. Bab.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

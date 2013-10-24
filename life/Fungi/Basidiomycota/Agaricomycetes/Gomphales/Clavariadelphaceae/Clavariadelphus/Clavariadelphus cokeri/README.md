@@ -1,5 +1,4 @@
-Clavariadelphus cokeri V.L. Wells & Kempton, 1968 SPECIES
-=======
+# Clavariadelphus cokeri V.L. Wells & Kempton, 1968 SPECIES
 
 #### Status
 ACCEPTED

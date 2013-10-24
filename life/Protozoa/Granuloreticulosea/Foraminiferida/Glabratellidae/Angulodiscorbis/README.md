@@ -1,5 +1,4 @@
-Angulodiscorbis Uchio, 1952 GENUS
-=======
+# Angulodiscorbis Uchio, 1952 GENUS
 
 #### Status
 ACCEPTED

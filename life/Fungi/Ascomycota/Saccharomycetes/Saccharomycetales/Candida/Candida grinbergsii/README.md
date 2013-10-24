@@ -1,17 +1,16 @@
-Candida grinsbergsii Kurtzman SPECIES
-=======
+# Candida grinbergsii Kurtzman, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 7(6): 1056 (2007)
 
 #### Original name
-Candida grinsbergsii Kurtzman
+Candida grinbergsii Kurtzman, 2007
 
 ### Remarks
 null

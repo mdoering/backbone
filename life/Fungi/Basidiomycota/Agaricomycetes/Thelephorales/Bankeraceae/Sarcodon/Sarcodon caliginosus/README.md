@@ -1,5 +1,4 @@
-Sarcodon caliginosus Maas Geest., 1974 SPECIES
-=======
+# Sarcodon caliginosus Maas Geest., 1974 SPECIES
 
 #### Status
 ACCEPTED

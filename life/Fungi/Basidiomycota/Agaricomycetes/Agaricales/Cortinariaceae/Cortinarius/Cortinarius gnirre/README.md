@@ -1,5 +1,4 @@
-Cortinarius gnirre Garrido & M.M. Moser SPECIES
-=======
+# Cortinarius gnirre Garrido & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

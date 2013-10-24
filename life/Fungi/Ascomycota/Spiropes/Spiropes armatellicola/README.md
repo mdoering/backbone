@@ -1,5 +1,4 @@
-Spiropes armatellicola Hosag., C.K. Biju, T.K. Abraham & D.K. Agarwal SPECIES
-=======
+# Spiropes armatellicola Hosag., C.K. Biju, T.K. Abraham & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

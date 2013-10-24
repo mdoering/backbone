@@ -1,5 +1,4 @@
-Arthonia miltina Kremp. SPECIES
-=======
+# Arthonia miltina Kremp. SPECIES
 
 #### Status
 ACCEPTED

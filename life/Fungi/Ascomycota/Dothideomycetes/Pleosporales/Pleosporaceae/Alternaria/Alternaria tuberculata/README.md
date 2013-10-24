@@ -1,5 +1,4 @@
-Alternaria tuberculata M. Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria tuberculata M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

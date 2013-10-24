@@ -1,5 +1,4 @@
-Apiospora carbonacea Rehm SPECIES
-=======
+# Apiospora carbonacea Rehm SPECIES
 
 #### Status
 ACCEPTED

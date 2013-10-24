@@ -1,5 +1,4 @@
-Aspicilia exuberans (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia exuberans (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

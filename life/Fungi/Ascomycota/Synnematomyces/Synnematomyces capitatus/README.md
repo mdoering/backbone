@@ -1,17 +1,16 @@
-Synnematomyces capitata Kobayasi SPECIES
-=======
+# Synnematomyces capitatus Kobayasi, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 56(9): 287 (1981)
 
 #### Original name
-Synnematomyces capitata Kobayasi
+Synnematomyces capitatus Kobayasi, 1981
 
 ### Remarks
 null

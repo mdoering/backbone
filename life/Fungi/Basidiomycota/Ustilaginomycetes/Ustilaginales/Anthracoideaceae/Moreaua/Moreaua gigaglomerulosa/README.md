@@ -1,5 +1,4 @@
-Moreaua gigaglomerulosa Vánky, 2002 SPECIES
-=======
+# Moreaua gigaglomerulosa Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

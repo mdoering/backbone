@@ -1,5 +1,4 @@
-Entoloma illicibile (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma illicibile (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

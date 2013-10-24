@@ -1,17 +1,16 @@
-Leptonia parva var. parva VARIETY
-=======
+# Leptonia parva Peck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Leptonia parva Peck
 
 ### Remarks
 null

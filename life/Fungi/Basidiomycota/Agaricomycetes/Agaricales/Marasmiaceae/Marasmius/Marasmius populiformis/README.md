@@ -1,5 +1,4 @@
-Marasmius populiformis Berk. SPECIES
-=======
+# Marasmius populiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

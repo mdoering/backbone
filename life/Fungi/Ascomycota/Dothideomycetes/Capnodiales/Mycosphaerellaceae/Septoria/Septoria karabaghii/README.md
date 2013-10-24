@@ -1,5 +1,4 @@
-Septoria karabaghii D.N. Babajan & Husseinova SPECIES
-=======
+# Septoria karabaghii D.N. Babajan & Husseinova SPECIES
 
 #### Status
 ACCEPTED

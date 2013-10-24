@@ -1,5 +1,4 @@
-Ciboria ludmilae Velen. SPECIES
-=======
+# Ciboria ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

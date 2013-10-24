@@ -1,5 +1,4 @@
-Collemopsis obtenebrans Nyl. SPECIES
-=======
+# Collemopsis obtenebrans Nyl. SPECIES
 
 #### Status
 ACCEPTED

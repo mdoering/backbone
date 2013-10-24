@@ -1,5 +1,4 @@
-Colonnaria truncata Raf. SPECIES
-=======
+# Colonnaria truncata Raf. SPECIES
 
 #### Status
 ACCEPTED

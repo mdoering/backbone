@@ -1,5 +1,4 @@
-Trichodina sinonovaculae Xu, Song & Warren, 1999 SPECIES
-=======
+# Trichodina sinonovaculae Xu, Song & Warren, 1999 SPECIES
 
 #### Status
 ACCEPTED

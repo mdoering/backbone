@@ -1,5 +1,4 @@
-Rhizocarpon formosum Oxner SPECIES
-=======
+# Rhizocarpon formosum Oxner SPECIES
 
 #### Status
 ACCEPTED

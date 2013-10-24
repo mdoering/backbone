@@ -1,5 +1,4 @@
-Phlyctema semiannulata Bubák & Serebrian. SPECIES
-=======
+# Phlyctema semiannulata Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

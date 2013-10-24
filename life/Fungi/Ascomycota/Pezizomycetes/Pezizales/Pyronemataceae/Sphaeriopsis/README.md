@@ -1,5 +1,4 @@
-Sphaeriopsis Geyl. GENUS
-=======
+# Sphaeriopsis Geyl. GENUS
 
 #### Status
 ACCEPTED

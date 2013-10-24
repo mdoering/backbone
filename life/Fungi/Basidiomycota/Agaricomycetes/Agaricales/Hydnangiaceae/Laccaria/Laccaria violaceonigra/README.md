@@ -1,5 +1,4 @@
-Laccaria violaceonigra G. Stev., 1964 SPECIES
-=======
+# Laccaria violaceonigra G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

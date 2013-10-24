@@ -1,5 +1,4 @@
-Dicellaesporites ellipticus K.P. Jain & R.K. Kar SPECIES
-=======
+# Dicellaesporites ellipticus K.P. Jain & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius polycladoides Singer SPECIES
-=======
+# Marasmius polycladoides Singer SPECIES
 
 #### Status
 ACCEPTED

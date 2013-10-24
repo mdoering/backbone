@@ -1,5 +1,4 @@
-Peroneutypella arecae Syd. & P. Syd. SPECIES
-=======
+# Peroneutypella arecae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

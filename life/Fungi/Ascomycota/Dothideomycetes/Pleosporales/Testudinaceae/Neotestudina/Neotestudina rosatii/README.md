@@ -1,17 +1,16 @@
-Pseudodelitschia corianderi J.N. Kapoor, Bahl & S.P. Lal SPECIES
-=======
+# Neotestudina rosatii Segretain & Destombes, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 253: 2579 (1961)
 
 #### Original name
-Pseudodelitschia corianderi J.N. Kapoor, Bahl & S.P. Lal
+Neotestudina rosatii Segretain & Destombes, 1961
 
 ### Remarks
 null

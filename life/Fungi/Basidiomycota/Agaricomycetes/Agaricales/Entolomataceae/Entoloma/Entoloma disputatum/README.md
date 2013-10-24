@@ -1,5 +1,4 @@
-Entoloma disputatum E. Horak SPECIES
-=======
+# Entoloma disputatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

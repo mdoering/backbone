@@ -1,5 +1,4 @@
-Agaricus obliquus Fr. SPECIES
-=======
+# Agaricus obliquus Fr. SPECIES
 
 #### Status
 ACCEPTED

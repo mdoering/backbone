@@ -1,5 +1,4 @@
-Aporospora J.C. Krug & Jeng GENUS
-=======
+# Aporospora J.C. Krug & Jeng GENUS
 
 #### Status
 ACCEPTED

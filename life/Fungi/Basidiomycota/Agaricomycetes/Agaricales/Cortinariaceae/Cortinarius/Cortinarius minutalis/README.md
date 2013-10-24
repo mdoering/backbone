@@ -1,5 +1,4 @@
-Cortinarius minutalis Lamoure SPECIES
-=======
+# Cortinarius minutalis Lamoure SPECIES
 
 #### Status
 ACCEPTED

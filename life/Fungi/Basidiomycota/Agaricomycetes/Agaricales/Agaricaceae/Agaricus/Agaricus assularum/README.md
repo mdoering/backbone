@@ -1,5 +1,4 @@
-Agaricus assularum Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus assularum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

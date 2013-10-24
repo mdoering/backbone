@@ -1,5 +1,4 @@
-Scyphosphaera galeana Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera galeana Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

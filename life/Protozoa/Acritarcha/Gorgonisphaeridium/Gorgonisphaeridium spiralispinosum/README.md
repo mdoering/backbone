@@ -1,5 +1,4 @@
-Gorgonisphaeridium spiralispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Gorgonisphaeridium spiralispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

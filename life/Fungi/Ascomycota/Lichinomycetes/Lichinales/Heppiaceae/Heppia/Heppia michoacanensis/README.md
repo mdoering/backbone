@@ -1,5 +1,4 @@
-Heppia michoacanensis B. de Lesd. SPECIES
-=======
+# Heppia michoacanensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

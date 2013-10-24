@@ -1,5 +1,4 @@
-Hymenochaete microspora A.L. Welden ex J.C. Léger, 1990 SPECIES
-=======
+# Hymenochaete microspora A.L. Welden ex J.C. Léger, 1990 SPECIES
 
 #### Status
 ACCEPTED

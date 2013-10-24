@@ -1,5 +1,4 @@
-Boletus coffeatus (A.H. Sm. & Thiers) Hlavácek SPECIES
-=======
+# Boletus coffeatus (A.H. Sm. & Thiers) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

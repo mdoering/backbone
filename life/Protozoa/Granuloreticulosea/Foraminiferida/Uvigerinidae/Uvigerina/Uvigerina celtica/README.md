@@ -1,5 +1,4 @@
-Uvigerina celtica Schönfeld, 2006 SPECIES
-=======
+# Uvigerina celtica Schönfeld, 2006 SPECIES
 
 #### Status
 ACCEPTED

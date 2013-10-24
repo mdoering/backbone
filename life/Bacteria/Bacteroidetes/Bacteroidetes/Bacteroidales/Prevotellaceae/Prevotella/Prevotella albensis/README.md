@@ -1,5 +1,4 @@
-Prevotella albensis Avgustin et al., 1997 SPECIES
-=======
+# Prevotella albensis Avgustin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

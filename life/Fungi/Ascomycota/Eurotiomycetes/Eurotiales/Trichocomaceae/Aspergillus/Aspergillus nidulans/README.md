@@ -1,17 +1,16 @@
-Emericella nidulans var. nidulans VARIETY
-=======
+# Aspergillus nidulans (Eidam) G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 184: 137 (1927)
+null
 
 #### Original name
-Emericella nidulans var. nidulans
+null
 
 ### Remarks
 null

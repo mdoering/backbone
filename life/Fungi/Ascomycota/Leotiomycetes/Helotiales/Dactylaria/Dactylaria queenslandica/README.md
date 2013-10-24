@@ -1,5 +1,4 @@
-Dactylaria queenslandica Matsush. SPECIES
-=======
+# Dactylaria queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

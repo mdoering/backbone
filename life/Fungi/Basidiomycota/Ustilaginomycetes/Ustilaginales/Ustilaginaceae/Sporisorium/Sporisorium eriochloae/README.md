@@ -1,5 +1,4 @@
-Sporisorium eriochloae Vánky SPECIES
-=======
+# Sporisorium eriochloae Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus unranked Annularia Schulzer SPECIES
-=======
+# Agaricus unranked Annularia Schulzer SPECIES
 
 #### Status
 ACCEPTED

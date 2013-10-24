@@ -1,5 +1,4 @@
-Polygaster E.M. Fries, 1823 GENUS
-=======
+# Polygaster E.M. Fries, 1823 GENUS
 
 #### Status
 ACCEPTED

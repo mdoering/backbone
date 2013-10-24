@@ -1,5 +1,4 @@
-Astrocystella Cognetti de Martiis, 1918 GENUS
-=======
+# Astrocystella Cognetti de Martiis, 1918 GENUS
 
 #### Status
 ACCEPTED

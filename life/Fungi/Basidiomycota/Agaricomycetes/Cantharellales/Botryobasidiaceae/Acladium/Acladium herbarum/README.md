@@ -1,5 +1,4 @@
-Acladium herbarum Link SPECIES
-=======
+# Acladium herbarum Link SPECIES
 
 #### Status
 ACCEPTED

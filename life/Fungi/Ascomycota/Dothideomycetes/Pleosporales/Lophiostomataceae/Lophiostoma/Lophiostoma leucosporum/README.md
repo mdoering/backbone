@@ -1,5 +1,4 @@
-Lophiostoma leucosporum Nitschke SPECIES
-=======
+# Lophiostoma leucosporum Nitschke SPECIES
 
 #### Status
 ACCEPTED

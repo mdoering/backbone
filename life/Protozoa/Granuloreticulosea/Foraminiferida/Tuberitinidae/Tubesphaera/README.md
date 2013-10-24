@@ -1,5 +1,4 @@
-Tubesphaera Vachard, 1994 GENUS
-=======
+# Tubesphaera Vachard, 1994 GENUS
 
 #### Status
 ACCEPTED

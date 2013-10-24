@@ -1,14 +1,13 @@
-Macrophoma juniperina Peck, 1913 SPECIES
-=======
+# Botryodiplodia juniperina (Peck) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. , Beih. 42: 142 (1927)
 
 #### Original name
 Macrophoma juniperina Peck, 1913

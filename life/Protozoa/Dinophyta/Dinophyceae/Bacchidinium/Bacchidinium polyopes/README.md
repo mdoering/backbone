@@ -1,5 +1,4 @@
-Bacchidinium polyopes (Cookson & Eisenack) R. J. Davey SPECIES
-=======
+# Bacchidinium polyopes (Cookson & Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta thermopsidis Solheim SPECIES
-=======
+# Ascochyta thermopsidis Solheim SPECIES
 
 #### Status
 ACCEPTED

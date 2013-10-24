@@ -1,5 +1,4 @@
-Oospora vinosella Sacc. SPECIES
-=======
+# Oospora vinosella Sacc. SPECIES
 
 #### Status
 ACCEPTED

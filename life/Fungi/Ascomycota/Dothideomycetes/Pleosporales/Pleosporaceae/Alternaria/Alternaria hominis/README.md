@@ -1,5 +1,4 @@
-Alternaria hominis A. Agostini & Tredici SPECIES
-=======
+# Alternaria hominis A. Agostini & Tredici SPECIES
 
 #### Status
 ACCEPTED

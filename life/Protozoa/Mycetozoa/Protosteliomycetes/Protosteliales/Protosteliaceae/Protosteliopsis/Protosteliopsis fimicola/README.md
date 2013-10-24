@@ -1,14 +1,13 @@
-Protostelium fimicola L.S. Olive, 1962 SPECIES
-=======
+# Protosteliopsis fimicola (L.S. Olive) L.S. Olive & Stoian., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 49(3): 301 (1962)
+Mycologia 58(3): 454 (1966)
 
 #### Original name
 Protostelium fimicola L.S. Olive, 1962

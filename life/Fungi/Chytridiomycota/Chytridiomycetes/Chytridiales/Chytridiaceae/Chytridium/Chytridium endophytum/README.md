@@ -1,5 +1,4 @@
-Chytridium endophytum A. Braun SPECIES
-=======
+# Chytridium endophytum A. Braun SPECIES
 
 #### Status
 ACCEPTED

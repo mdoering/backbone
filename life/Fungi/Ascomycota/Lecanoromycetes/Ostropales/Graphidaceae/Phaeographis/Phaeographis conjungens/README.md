@@ -1,5 +1,4 @@
-Phaeographis conjungens Zahlbr. SPECIES
-=======
+# Phaeographis conjungens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

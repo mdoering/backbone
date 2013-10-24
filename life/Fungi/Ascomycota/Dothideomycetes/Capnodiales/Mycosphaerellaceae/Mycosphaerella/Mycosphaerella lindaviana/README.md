@@ -1,5 +1,4 @@
-Mycosphaerella lindaviana Staritz SPECIES
-=======
+# Mycosphaerella lindaviana Staritz SPECIES
 
 #### Status
 ACCEPTED

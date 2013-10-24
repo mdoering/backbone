@@ -1,5 +1,4 @@
-Cytospora diatrypelloidea G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Cytospora diatrypelloidea G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

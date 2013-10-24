@@ -1,5 +1,4 @@
-Decaisnella peniophora (Cooke) M.E. Barr & Boise SPECIES
-=======
+# Decaisnella peniophora (Cooke) M.E. Barr & Boise SPECIES
 
 #### Status
 ACCEPTED

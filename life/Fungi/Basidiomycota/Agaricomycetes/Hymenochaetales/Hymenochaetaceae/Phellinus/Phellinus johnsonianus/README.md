@@ -1,5 +1,4 @@
-Phellinus johnsonianus (Murrill) Ryvarden SPECIES
-=======
+# Phellinus johnsonianus (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

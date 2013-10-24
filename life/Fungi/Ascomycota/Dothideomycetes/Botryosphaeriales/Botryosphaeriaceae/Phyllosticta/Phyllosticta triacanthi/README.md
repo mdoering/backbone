@@ -1,5 +1,4 @@
-Phyllosticta triacanthi Sacc. SPECIES
-=======
+# Phyllosticta triacanthi Sacc. SPECIES
 
 #### Status
 ACCEPTED

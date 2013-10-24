@@ -1,17 +1,16 @@
-Lecanora camptidia Tuck. SPECIES
-=======
+# Caloplaca camptidia (Tuck.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 83 (1930)
 
 #### Original name
-null
+Lecanora camptidia Tuck.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tromera resinae var. resinae VARIETY
-=======
+# Tromera resinae (Nyl.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Parerga lichenol. (Breslau) (1865)
 
 #### Original name
-Tromera resinae var. resinae
+Lecidea resinae Fr.
 
 ### Remarks
 null

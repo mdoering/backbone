@@ -1,5 +1,4 @@
-Platygrapha squamigera Kremp. SPECIES
-=======
+# Platygrapha squamigera Kremp. SPECIES
 
 #### Status
 ACCEPTED

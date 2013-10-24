@@ -1,5 +1,4 @@
-Macrophoma porteri Speg. SPECIES
-=======
+# Macrophoma porteri Speg. SPECIES
 
 #### Status
 ACCEPTED

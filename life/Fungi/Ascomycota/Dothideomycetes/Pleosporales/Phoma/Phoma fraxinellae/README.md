@@ -1,5 +1,4 @@
-Phoma fraxinellae Tassi SPECIES
-=======
+# Phoma fraxinellae Tassi SPECIES
 
 #### Status
 ACCEPTED

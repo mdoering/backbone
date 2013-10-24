@@ -1,5 +1,4 @@
-Physarum plicatum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
-=======
+# Physarum plicatum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

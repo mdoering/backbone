@@ -1,5 +1,4 @@
-Limacium fuscoalbum (Lasch) P. Kumm. SPECIES
-=======
+# Limacium fuscoalbum (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

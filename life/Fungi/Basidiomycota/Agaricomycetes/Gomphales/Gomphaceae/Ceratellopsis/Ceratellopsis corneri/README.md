@@ -1,5 +1,4 @@
-Ceratellopsis corneri Berthier, 1974 SPECIES
-=======
+# Ceratellopsis corneri Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Athelopsis virescens Hallenb. & Hjortstam, 1996 SPECIES
-=======
+# Athelopsis virescens Hallenb. & Hjortstam, 1996 SPECIES
 
 #### Status
 ACCEPTED

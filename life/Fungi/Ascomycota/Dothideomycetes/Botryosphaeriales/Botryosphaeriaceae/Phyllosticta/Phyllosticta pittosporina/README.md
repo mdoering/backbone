@@ -1,5 +1,4 @@
-Phyllosticta pittosporina (Sousa da Câmara) Dennis SPECIES
-=======
+# Phyllosticta pittosporina (Sousa da Câmara) Dennis SPECIES
 
 #### Status
 ACCEPTED

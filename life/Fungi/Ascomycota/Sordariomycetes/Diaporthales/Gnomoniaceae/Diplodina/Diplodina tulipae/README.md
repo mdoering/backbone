@@ -1,5 +1,4 @@
-Diplodina tulipae Hollós SPECIES
-=======
+# Diplodina tulipae Hollós SPECIES
 
 #### Status
 ACCEPTED

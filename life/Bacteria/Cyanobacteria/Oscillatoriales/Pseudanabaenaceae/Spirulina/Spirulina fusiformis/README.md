@@ -1,5 +1,4 @@
-Spirulina fusiformis Voronikhin SPECIES
-=======
+# Spirulina fusiformis Voronikhin SPECIES
 
 #### Status
 ACCEPTED

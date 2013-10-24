@@ -1,5 +1,4 @@
-Naemospora persicina Fresen. SPECIES
-=======
+# Naemospora persicina Fresen. SPECIES
 
 #### Status
 ACCEPTED

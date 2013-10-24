@@ -1,5 +1,4 @@
-Coniothyrium rugulosum (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium rugulosum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplosporea CLASS
-=======
+# Haplosporea CLASS
 
 #### Status
 ACCEPTED

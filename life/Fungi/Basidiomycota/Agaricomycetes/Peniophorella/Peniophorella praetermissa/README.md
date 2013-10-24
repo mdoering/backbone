@@ -1,14 +1,13 @@
-Gloeocystidium tenue subsp. praetermissum (P. Karst.) Bourdot & Galzin SUBSPECIES
-=======
+# Peniophorella praetermissa (P. Karst.) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 256 (1928)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 Peniophora praetermissa P. Karst., 1889

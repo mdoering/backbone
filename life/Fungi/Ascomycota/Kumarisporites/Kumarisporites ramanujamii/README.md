@@ -1,5 +1,4 @@
-Kumarisporites ramanujamii (P. Kumar) Kalgutkar & Janson. SPECIES
-=======
+# Kumarisporites ramanujamii (P. Kumar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

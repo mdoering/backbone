@@ -1,5 +1,4 @@
-Maribacter antarticus Zhang, Hwang, Kang & Cho, 2009 SPECIES
-=======
+# Maribacter antarticus Zhang, Hwang, Kang & Cho, 2009 SPECIES
 
 #### Status
 ACCEPTED

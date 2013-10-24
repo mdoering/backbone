@@ -1,5 +1,4 @@
-Strickeria kochii Körb., 1865 SPECIES
-=======
+# Strickeria kochii Körb., 1865 SPECIES
 
 #### Status
 ACCEPTED

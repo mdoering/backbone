@@ -1,5 +1,4 @@
-Bryometopus edaphonus Foissner, 1980 SPECIES
-=======
+# Bryometopus edaphonus Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bibanasiella ramispora R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Bibanasiella ramispora R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

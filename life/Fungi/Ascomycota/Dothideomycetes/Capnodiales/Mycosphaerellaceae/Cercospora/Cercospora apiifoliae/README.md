@@ -1,5 +1,4 @@
-Cercospora apiifoliae Tharp SPECIES
-=======
+# Cercospora apiifoliae Tharp SPECIES
 
 #### Status
 ACCEPTED

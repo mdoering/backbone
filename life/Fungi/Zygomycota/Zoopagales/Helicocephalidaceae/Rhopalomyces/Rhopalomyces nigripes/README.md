@@ -1,5 +1,4 @@
-Rhopalomyces nigripes Costantin SPECIES
-=======
+# Rhopalomyces nigripes Costantin SPECIES
 
 #### Status
 ACCEPTED

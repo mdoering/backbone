@@ -1,5 +1,4 @@
-Agaricus chama Bosc SPECIES
-=======
+# Agaricus chama Bosc SPECIES
 
 #### Status
 ACCEPTED

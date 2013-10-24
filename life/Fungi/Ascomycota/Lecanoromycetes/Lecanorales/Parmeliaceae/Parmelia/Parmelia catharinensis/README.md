@@ -1,5 +1,4 @@
-Parmelia catharinensis f. catharinensis FORM
-=======
+# Parmelia catharinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia catharinensis f. catharinensis
+Parmelia catharinensis Müll. Arg.
 
 ### Remarks
 null

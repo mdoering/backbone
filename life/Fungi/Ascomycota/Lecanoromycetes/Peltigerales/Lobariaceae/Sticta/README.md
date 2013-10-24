@@ -1,17 +1,16 @@
-Dysticta Clem. GENUS
-=======
+# Sticta (Schreber) Acharius, 1803 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 81, 175 (1909)
+Method. Lich. 275 (1803)
 
 #### Original name
-Dysticta Clem.
+null
 
 ### Remarks
 null

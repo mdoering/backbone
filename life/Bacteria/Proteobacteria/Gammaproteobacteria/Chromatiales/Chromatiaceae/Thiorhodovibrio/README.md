@@ -1,5 +1,4 @@
-Thiorhodovibrio Overmann, Fischer & Pfennig, 1993 GENUS
-=======
+# Thiorhodovibrio Overmann, Fischer & Pfennig, 1993 GENUS
 
 #### Status
 ACCEPTED

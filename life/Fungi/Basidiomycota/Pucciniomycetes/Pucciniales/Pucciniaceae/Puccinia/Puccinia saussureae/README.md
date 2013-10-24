@@ -1,5 +1,4 @@
-Puccinia saussureae Thüm. SPECIES
-=======
+# Puccinia saussureae Thüm. SPECIES
 
 #### Status
 ACCEPTED

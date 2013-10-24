@@ -1,17 +1,16 @@
-Byssitheca Bonord. GENUS
-=======
+# Rosellinia De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. naturforsch. Ges. Halle 8: 82, 156 (1864)
+G. bot. ital. 1(1): 334 (1844)
 
 #### Original name
-Byssitheca Bonord.
+Rosellinia De Not.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyoneurum californicum Ruprecht SPECIES
-=======
+# Dictyoneurum californicum Ruprecht SPECIES
 
 #### Status
 ACCEPTED

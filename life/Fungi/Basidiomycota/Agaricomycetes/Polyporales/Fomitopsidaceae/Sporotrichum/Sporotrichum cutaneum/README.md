@@ -1,5 +1,4 @@
-Sporotrichum cutaneum Schabinski SPECIES
-=======
+# Sporotrichum cutaneum Schabinski SPECIES
 
 #### Status
 ACCEPTED

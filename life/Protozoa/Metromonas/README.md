@@ -1,5 +1,4 @@
-Metromonas Larsen & Patterson, 1990 GENUS
-=======
+# Metromonas Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

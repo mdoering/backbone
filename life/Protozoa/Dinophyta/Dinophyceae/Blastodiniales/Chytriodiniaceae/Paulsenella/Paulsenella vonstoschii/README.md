@@ -1,5 +1,4 @@
-Paulsenella vonstoschii G. Drebes & E. Schnepf SPECIES
-=======
+# Paulsenella vonstoschii G. Drebes & E. Schnepf SPECIES
 
 #### Status
 ACCEPTED

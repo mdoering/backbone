@@ -1,5 +1,4 @@
-Rectoammodiscus Rauzer-Chernousova, 1993 GENUS
-=======
+# Rectoammodiscus Rauzer-Chernousova, 1993 GENUS
 
 #### Status
 ACCEPTED

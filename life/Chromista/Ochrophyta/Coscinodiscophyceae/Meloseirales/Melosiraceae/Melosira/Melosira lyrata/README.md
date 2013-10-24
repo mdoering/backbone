@@ -1,5 +1,4 @@
-Melosira lyrata var. lacustris Grunow VARIETY
-=======
+# Melosira lyrata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

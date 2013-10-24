@@ -1,5 +1,4 @@
-Ustilago setariae-mombassanae L. Ling SPECIES
-=======
+# Ustilago setariae-mombassanae L. Ling SPECIES
 
 #### Status
 ACCEPTED

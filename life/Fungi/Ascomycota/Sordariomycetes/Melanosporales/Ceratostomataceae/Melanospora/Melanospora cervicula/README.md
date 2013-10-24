@@ -1,5 +1,4 @@
-Melanospora cervicula Hotson SPECIES
-=======
+# Melanospora cervicula Hotson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cervinicoccineus Corner SPECIES
-=======
+# Boletus cervinicoccineus Corner SPECIES
 
 #### Status
 ACCEPTED

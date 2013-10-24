@@ -1,5 +1,4 @@
-Ocellularia crassula (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia crassula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

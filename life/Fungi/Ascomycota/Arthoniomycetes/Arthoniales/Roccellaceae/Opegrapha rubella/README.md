@@ -1,5 +1,4 @@
-Opegrapha rubella Pers. SPECIES
-=======
+# Opegrapha rubella Pers. SPECIES
 
 #### Status
 ACCEPTED

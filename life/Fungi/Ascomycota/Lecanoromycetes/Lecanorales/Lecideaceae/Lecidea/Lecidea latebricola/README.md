@@ -1,5 +1,4 @@
-Lecidea latebricola Erichsen SPECIES
-=======
+# Lecidea latebricola Erichsen SPECIES
 
 #### Status
 ACCEPTED

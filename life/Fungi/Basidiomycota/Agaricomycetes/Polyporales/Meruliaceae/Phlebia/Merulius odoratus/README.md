@@ -1,5 +1,4 @@
-Merulius odoratus Schwein. SPECIES
-=======
+# Merulius odoratus Schwein. SPECIES
 
 #### Status
 ACCEPTED

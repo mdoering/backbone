@@ -1,14 +1,13 @@
-Buellia megapotamica Malme SPECIES
-=======
+# Fluctua megapotamica (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 208 (2000)
 
 #### Original name
 Buellia megapotamica Malme

@@ -1,5 +1,4 @@
-Psilocybe albofimbriata (Rick) Singer SPECIES
-=======
+# Psilocybe albofimbriata (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

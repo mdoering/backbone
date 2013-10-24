@@ -1,5 +1,4 @@
-Favolus favularis (Fr.) Sacc. SPECIES
-=======
+# Favolus favularis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

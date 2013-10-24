@@ -1,5 +1,4 @@
-Cortinarius oregonensis A.H. Sm. SPECIES
-=======
+# Cortinarius oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

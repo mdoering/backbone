@@ -1,5 +1,4 @@
-Naucoria umbrina Bres. SPECIES
-=======
+# Naucoria umbrina Bres. SPECIES
 
 #### Status
 ACCEPTED

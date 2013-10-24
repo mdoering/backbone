@@ -1,8 +1,7 @@
-Steinia tetracirrata Gellert, 1942 SPECIES
-=======
+# Cyrtohymena tetracirrata (Gellert, 1942) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

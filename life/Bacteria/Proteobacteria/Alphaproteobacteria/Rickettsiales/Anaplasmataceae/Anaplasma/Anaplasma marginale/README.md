@@ -1,11 +1,10 @@
-Anaplasma argentium Lignières, 1914 SPECIES
-=======
+# Anaplasma marginale Theiler, 1910 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

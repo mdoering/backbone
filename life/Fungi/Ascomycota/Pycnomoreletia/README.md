@@ -1,5 +1,4 @@
-Pycnomoreletia Rulamort GENUS
-=======
+# Pycnomoreletia Rulamort GENUS
 
 #### Status
 ACCEPTED

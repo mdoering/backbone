@@ -1,5 +1,4 @@
-Ommatomyces Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
-=======
+# Ommatomyces Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

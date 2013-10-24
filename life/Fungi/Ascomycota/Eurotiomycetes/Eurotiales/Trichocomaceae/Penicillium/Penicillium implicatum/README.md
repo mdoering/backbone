@@ -1,17 +1,16 @@
-Penicillium implicatum var. implicatum Biourge VARIETY
-=======
+# Penicillium implicatum Biourge, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 La Cellule 33(1): 278 (1923)
 
 #### Original name
-Penicillium implicatum var. implicatum Biourge
+Penicillium implicatum Biourge, 1923
 
 ### Remarks
 null

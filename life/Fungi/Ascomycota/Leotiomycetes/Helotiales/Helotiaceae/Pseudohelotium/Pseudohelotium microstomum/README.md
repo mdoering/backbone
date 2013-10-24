@@ -1,5 +1,4 @@
-Pseudohelotium microstomum (Wallr.) Sacc. SPECIES
-=======
+# Pseudohelotium microstomum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

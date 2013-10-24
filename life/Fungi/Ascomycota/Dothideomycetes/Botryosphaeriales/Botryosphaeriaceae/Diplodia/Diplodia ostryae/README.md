@@ -1,5 +1,4 @@
-Diplodia ostryae Syd. SPECIES
-=======
+# Diplodia ostryae Syd. SPECIES
 
 #### Status
 ACCEPTED

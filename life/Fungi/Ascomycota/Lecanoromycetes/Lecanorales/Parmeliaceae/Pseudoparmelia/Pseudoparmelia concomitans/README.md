@@ -1,5 +1,4 @@
-Pseudoparmelia concomitans Hale SPECIES
-=======
+# Pseudoparmelia concomitans Hale SPECIES
 
 #### Status
 ACCEPTED

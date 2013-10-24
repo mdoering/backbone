@@ -1,5 +1,4 @@
-Opegrapha macrospora (Bagl. & Carestia) Jatta SPECIES
-=======
+# Opegrapha macrospora (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

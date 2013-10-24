@@ -1,5 +1,4 @@
-Psathyrella houghtonensis A.H. Sm. SPECIES
-=======
+# Psathyrella houghtonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

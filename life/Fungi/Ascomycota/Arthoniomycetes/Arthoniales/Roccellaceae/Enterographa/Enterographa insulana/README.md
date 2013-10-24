@@ -1,5 +1,4 @@
-Enterographa insulana Tav. SPECIES
-=======
+# Enterographa insulana Tav. SPECIES
 
 #### Status
 ACCEPTED

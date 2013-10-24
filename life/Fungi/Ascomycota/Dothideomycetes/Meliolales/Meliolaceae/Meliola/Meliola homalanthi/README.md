@@ -1,5 +1,4 @@
-Meliola homalanthi Boedijn SPECIES
-=======
+# Meliola homalanthi Boedijn SPECIES
 
 #### Status
 ACCEPTED

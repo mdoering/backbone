@@ -1,17 +1,16 @@
-Dasyscypha virginea SPECIES
-=======
+# Lachnum brevipilosum Baral, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 74 (1985)
 
 #### Original name
-Dasyscypha virginea
+Dasyscyphus brevipilus Le Gal, 1939
 
 ### Remarks
 null

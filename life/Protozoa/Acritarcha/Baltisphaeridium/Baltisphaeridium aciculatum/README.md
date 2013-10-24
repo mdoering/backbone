@@ -1,5 +1,4 @@
-Baltisphaeridium aciculatum Orlowska-Zwolinska, 1979 SPECIES
-=======
+# Baltisphaeridium aciculatum Orlowska-Zwolinska, 1979 SPECIES
 
 #### Status
 ACCEPTED

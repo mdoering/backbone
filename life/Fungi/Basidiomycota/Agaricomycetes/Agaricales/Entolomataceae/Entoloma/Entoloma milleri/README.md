@@ -1,5 +1,4 @@
-Entoloma milleri Noordel. SPECIES
-=======
+# Entoloma milleri Noordel. SPECIES
 
 #### Status
 ACCEPTED

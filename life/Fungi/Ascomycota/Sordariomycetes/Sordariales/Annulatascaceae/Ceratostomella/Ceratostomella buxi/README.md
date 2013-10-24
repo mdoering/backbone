@@ -1,5 +1,4 @@
-Ceratostomella buxi Borissov SPECIES
-=======
+# Ceratostomella buxi Borissov SPECIES
 
 #### Status
 ACCEPTED

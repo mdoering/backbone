@@ -1,5 +1,4 @@
-Thermofilaceae Burggraf, Huber & Stetter, 1997 FAMILY
-=======
+# Thermofilaceae Burggraf, Huber & Stetter, 1997 FAMILY
 
 #### Status
 ACCEPTED

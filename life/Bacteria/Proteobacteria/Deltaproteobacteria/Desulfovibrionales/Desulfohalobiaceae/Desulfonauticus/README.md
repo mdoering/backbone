@@ -1,5 +1,4 @@
-Desulfonauticus Audiffrin et al., 2003 GENUS
-=======
+# Desulfonauticus Audiffrin et al., 2003 GENUS
 
 #### Status
 ACCEPTED

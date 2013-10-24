@@ -1,5 +1,4 @@
-Ladogella intermedia Parsons & Anderson, 2000 SPECIES
-=======
+# Ladogella intermedia Parsons & Anderson, 2000 SPECIES
 
 #### Status
 ACCEPTED

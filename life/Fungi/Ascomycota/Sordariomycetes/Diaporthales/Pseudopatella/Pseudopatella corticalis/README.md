@@ -1,5 +1,4 @@
-Pseudopatella corticalis E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Pseudopatella corticalis E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

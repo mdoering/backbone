@@ -1,5 +1,4 @@
-Trametes subocellata Lloyd SPECIES
-=======
+# Trametes subocellata Lloyd SPECIES
 
 #### Status
 ACCEPTED

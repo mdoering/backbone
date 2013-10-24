@@ -1,5 +1,4 @@
-Boletellus rubrolutescens Heinem. & Rammeloo SPECIES
-=======
+# Boletellus rubrolutescens Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

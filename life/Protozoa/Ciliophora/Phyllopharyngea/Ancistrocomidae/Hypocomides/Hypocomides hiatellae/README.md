@@ -1,5 +1,4 @@
-Hypocomides hiatellae Fenchel, 1965 SPECIES
-=======
+# Hypocomides hiatellae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

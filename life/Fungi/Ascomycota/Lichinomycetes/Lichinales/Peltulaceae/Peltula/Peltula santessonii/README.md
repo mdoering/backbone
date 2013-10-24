@@ -1,5 +1,4 @@
-Peltula santessonii Swinscow & Krog SPECIES
-=======
+# Peltula santessonii Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phycolapathum debile Kützing SPECIES
-=======
+# Phycolapathum debile Kützing SPECIES
 
 #### Status
 ACCEPTED

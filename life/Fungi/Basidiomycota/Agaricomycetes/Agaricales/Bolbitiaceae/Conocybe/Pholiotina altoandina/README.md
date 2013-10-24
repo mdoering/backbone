@@ -1,5 +1,4 @@
-Pholiotina altoandina Singer SPECIES
-=======
+# Pholiotina altoandina Singer SPECIES
 
 #### Status
 ACCEPTED

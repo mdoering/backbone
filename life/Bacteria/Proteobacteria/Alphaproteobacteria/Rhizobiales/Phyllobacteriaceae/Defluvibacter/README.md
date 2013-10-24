@@ -1,5 +1,4 @@
-Defluvibacter Fritsche et al., 1999 GENUS
-=======
+# Defluvibacter Fritsche et al., 1999 GENUS
 
 #### Status
 ACCEPTED

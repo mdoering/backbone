@@ -1,5 +1,4 @@
-Inocybe punctata (Fr.) P. Karst. SPECIES
-=======
+# Inocybe punctata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

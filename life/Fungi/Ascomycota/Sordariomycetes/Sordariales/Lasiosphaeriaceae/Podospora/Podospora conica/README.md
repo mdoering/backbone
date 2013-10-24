@@ -1,17 +1,16 @@
-Sordaria curvula f. coronata (G. Winter) Massee & Crossl. FORM
-=======
+# Podospora conica (Fuckel) A.E. Bell & Mahoney, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 87(3): 379 (1995)
 
 #### Original name
-Sordaria curvula var. coronata G. Winter, 1873
+Cercophora conica Fuckel, 1870
 
 ### Remarks
 null

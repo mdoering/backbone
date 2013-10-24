@@ -1,5 +1,4 @@
-Ascochyta cypripedii H.C. Greene SPECIES
-=======
+# Ascochyta cypripedii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liasidium variabile Drugg, 1978 SPECIES
-=======
+# Liasidium variabile Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

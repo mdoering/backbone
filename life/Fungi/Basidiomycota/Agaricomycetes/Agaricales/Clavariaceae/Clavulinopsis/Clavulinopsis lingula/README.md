@@ -1,5 +1,4 @@
-Clavulinopsis lingula var. lingula VARIETY
-=======
+# Clavulinopsis lingula Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 33: 66 (1970)
 
 #### Original name
-Clavulinopsis lingula var. lingula
+Clavulinopsis lingula Corner
 
 ### Remarks
 null

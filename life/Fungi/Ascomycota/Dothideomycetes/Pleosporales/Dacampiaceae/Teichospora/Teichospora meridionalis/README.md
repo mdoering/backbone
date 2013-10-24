@@ -1,5 +1,4 @@
-Teichospora meridionalis G. Arnaud SPECIES
-=======
+# Teichospora meridionalis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratosphaeria pruni Popuschoj SPECIES
-=======
+# Ceratosphaeria pruni Popuschoj SPECIES
 
 #### Status
 ACCEPTED

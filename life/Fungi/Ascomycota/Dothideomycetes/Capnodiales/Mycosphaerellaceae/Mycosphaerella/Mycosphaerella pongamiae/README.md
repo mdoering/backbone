@@ -1,14 +1,13 @@
-Mycosphaerella pongamieae (Racib.) Sivan. SPECIES
-=======
+# Mycosphaerella pongamiae (Racib.) Sivan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 84(3): 363 (1985)
 
 #### Original name
 Stigmatea pongamiae Racib.

@@ -1,17 +1,16 @@
-Septoria socia f. catalaunica Gonz. Frag. FORM
-=======
+# Septoria socia Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Parm. Sept. no. 74 (1879)
 
 #### Original name
-Septoria socia f. catalaunica Gonz. Frag.
+Septoria socia Pass., 1879
 
 ### Remarks
 null

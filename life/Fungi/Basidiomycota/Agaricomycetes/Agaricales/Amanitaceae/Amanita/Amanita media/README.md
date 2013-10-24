@@ -1,5 +1,4 @@
-Amanita media D.T. Jenkins SPECIES
-=======
+# Amanita media D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

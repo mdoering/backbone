@@ -1,5 +1,4 @@
-Lycoperdon colossus A. Kawam. SPECIES
-=======
+# Lycoperdon colossus A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

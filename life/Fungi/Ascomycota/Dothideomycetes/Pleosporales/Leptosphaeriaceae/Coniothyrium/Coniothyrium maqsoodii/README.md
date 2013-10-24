@@ -1,5 +1,4 @@
-Coniothyrium maqsoodii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium maqsoodii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium monticolae F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Aecidium monticolae F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

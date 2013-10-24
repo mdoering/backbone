@@ -1,5 +1,4 @@
-Dendrothele tuberculata Gresl. & Rajchenb., 1998 SPECIES
-=======
+# Dendrothele tuberculata Gresl. & Rajchenb., 1998 SPECIES
 
 #### Status
 ACCEPTED

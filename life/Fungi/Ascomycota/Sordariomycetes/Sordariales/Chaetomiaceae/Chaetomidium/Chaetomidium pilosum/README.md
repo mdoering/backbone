@@ -1,17 +1,16 @@
-Thielavia californica Malloch & Benny, 1973 SPECIES
-=======
+# Chaetomidium pilosum (C. Booth & Shipton) Arx, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(3): 651 (1973)
+Stud. Mycol. 8: 16 (1975)
 
 #### Original name
-Thielavia californica Malloch & Benny, 1973
+Thielavia pilosa C. Booth & Shipton, 1966
 
 ### Remarks
 null

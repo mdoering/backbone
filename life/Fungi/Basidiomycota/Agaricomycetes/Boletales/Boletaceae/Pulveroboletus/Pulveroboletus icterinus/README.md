@@ -1,5 +1,4 @@
-Pulveroboletus icterinus (Pat. & C.F. Baker) Watling SPECIES
-=======
+# Pulveroboletus icterinus (Pat. & C.F. Baker) Watling SPECIES
 
 #### Status
 ACCEPTED

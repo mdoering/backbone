@@ -1,5 +1,4 @@
-Coscinodiscus obovatus Castracane SPECIES
-=======
+# Coscinodiscus obovatus Castracane SPECIES
 
 #### Status
 ACCEPTED

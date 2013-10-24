@@ -1,5 +1,4 @@
-Laboulbenia antarctiae Speg. SPECIES
-=======
+# Laboulbenia antarctiae Speg. SPECIES
 
 #### Status
 ACCEPTED

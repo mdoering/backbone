@@ -1,5 +1,4 @@
-Septoria scirpicola Hollós SPECIES
-=======
+# Septoria scirpicola Hollós SPECIES
 
 #### Status
 ACCEPTED

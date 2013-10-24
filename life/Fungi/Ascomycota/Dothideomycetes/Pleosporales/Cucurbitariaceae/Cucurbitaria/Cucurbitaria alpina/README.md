@@ -1,5 +1,4 @@
-Cucurbitaria alpina (G. Winter) Kuntze SPECIES
-=======
+# Cucurbitaria alpina (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rhoadsiae (Murrill) Murrill SPECIES
-=======
+# Boletus rhoadsiae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia craniformis (Schw.) Fr. SPECIES
-=======
+# Calvatia craniformis (Schw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

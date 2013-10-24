@@ -1,5 +1,4 @@
-Microphiale microspora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Microphiale microspora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

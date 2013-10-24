@@ -1,14 +1,13 @@
-Ascolacicola austriaca Réblová, Winka & Jaklitsch, 2001 SPECIES
-=======
+# Ascitendus austriacus (Réblová, Winka & Jaklitsch) J. Campb. & Shearer, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Réblová & Winka, Mycologia 93(3): 486 (2001)
+Mycologia 96(4): 829 (2004)
 
 #### Original name
 Ascolacicola austriaca Réblová, Winka & Jaklitsch, 2001

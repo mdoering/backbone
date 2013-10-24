@@ -1,5 +1,4 @@
-Excipula strigosa De Not. SPECIES
-=======
+# Excipula strigosa De Not. SPECIES
 
 #### Status
 ACCEPTED

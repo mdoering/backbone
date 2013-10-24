@@ -1,5 +1,4 @@
-Lambertellinia scutuloides Korf & Lizon, 1994 SPECIES
-=======
+# Lambertellinia scutuloides Korf & Lizon, 1994 SPECIES
 
 #### Status
 ACCEPTED

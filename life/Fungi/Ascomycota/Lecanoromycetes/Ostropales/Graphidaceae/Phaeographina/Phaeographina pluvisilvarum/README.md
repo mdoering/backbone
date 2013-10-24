@@ -1,5 +1,4 @@
-Phaeographina pluvisilvarum SPECIES
-=======
+# Phaeographina pluvisilvarum SPECIES
 
 #### Status
 ACCEPTED

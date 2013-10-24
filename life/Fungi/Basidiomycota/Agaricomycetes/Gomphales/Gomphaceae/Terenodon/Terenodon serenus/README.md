@@ -1,5 +1,4 @@
-Terenodon serenus Maas Geest., 1971 SPECIES
-=======
+# Terenodon serenus Maas Geest., 1971 SPECIES
 
 #### Status
 ACCEPTED

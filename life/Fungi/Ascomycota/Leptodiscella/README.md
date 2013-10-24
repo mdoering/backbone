@@ -1,5 +1,4 @@
-Leptodiscella Papendorf, 1969 GENUS
-=======
+# Leptodiscella Papendorf, 1969 GENUS
 
 #### Status
 ACCEPTED

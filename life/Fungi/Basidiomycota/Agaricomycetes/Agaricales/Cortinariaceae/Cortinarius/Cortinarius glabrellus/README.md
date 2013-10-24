@@ -1,5 +1,4 @@
-Cortinarius glabrellus Kauffman SPECIES
-=======
+# Cortinarius glabrellus Kauffman SPECIES
 
 #### Status
 ACCEPTED

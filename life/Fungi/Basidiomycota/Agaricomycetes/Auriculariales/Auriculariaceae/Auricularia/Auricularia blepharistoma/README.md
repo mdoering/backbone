@@ -1,5 +1,4 @@
-Auricularia blepharistoma (Berk. & M.A. Curtis) Farl. SPECIES
-=======
+# Auricularia blepharistoma (Berk. & M.A. Curtis) Farl. SPECIES
 
 #### Status
 ACCEPTED

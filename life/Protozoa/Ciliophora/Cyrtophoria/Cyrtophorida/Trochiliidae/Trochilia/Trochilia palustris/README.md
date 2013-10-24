@@ -1,5 +1,4 @@
-Trochilia palustris Stein, 1859 SPECIES
-=======
+# Trochilia palustris Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

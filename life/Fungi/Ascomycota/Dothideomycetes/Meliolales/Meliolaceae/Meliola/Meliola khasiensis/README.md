@@ -1,5 +1,4 @@
-Meliola khasiensis (Hansf.) Hansf. SPECIES
-=======
+# Meliola khasiensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

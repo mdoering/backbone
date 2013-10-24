@@ -1,5 +1,4 @@
-Russula salmonicolor (Romagn.) Reumaux SPECIES
-=======
+# Russula salmonicolor (Romagn.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

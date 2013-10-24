@@ -1,5 +1,4 @@
-Puccinia troglodytes Lindr. SPECIES
-=======
+# Puccinia troglodytes Lindr. SPECIES
 
 #### Status
 ACCEPTED

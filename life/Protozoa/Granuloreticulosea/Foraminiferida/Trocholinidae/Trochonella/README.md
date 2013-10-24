@@ -1,5 +1,4 @@
-Trochonella Kristan, 1957 GENUS
-=======
+# Trochonella Kristan, 1957 GENUS
 
 #### Status
 ACCEPTED

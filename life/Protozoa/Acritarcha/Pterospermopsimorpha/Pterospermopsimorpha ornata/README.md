@@ -1,5 +1,4 @@
-Pterospermopsimorpha ornata Tynni & Uutela, 1984 SPECIES
-=======
+# Pterospermopsimorpha ornata Tynni & Uutela, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria elongatocompressa Schwein. SPECIES
-=======
+# Sphaeria elongatocompressa Schwein. SPECIES
 
 #### Status
 ACCEPTED

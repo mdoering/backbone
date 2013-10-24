@@ -1,5 +1,4 @@
-Thyronectria inconspicua Döbbeler SPECIES
-=======
+# Thyronectria inconspicua Döbbeler SPECIES
 
 #### Status
 ACCEPTED

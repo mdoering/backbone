@@ -1,17 +1,16 @@
-Dictyuchus sterile Coker SPECIES
-=======
+# Dictyuchus sterilis Coker, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Saprolegniaceae with notes on other water molds 151 (1923)
 
 #### Original name
-Dictyuchus sterile Coker
+Dictyuchus sterilis Coker, 1923
 
 ### Remarks
 null

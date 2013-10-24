@@ -1,5 +1,4 @@
-Microglossum longisporum E.J. Durand SPECIES
-=======
+# Microglossum longisporum E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

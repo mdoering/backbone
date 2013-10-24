@@ -1,5 +1,4 @@
-Dactylospora mediterranea Sarrión & Hafellner SPECIES
-=======
+# Dactylospora mediterranea Sarrión & Hafellner SPECIES
 
 #### Status
 ACCEPTED

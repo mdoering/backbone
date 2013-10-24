@@ -1,5 +1,4 @@
-Castoreum camphoratum Trappe & Malajczuk, 1988 SPECIES
-=======
+# Castoreum camphoratum Trappe & Malajczuk, 1988 SPECIES
 
 #### Status
 ACCEPTED

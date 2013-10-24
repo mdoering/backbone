@@ -1,5 +1,4 @@
-Squamella spumosa S. Hammer SPECIES
-=======
+# Squamella spumosa S. Hammer SPECIES
 
 #### Status
 ACCEPTED

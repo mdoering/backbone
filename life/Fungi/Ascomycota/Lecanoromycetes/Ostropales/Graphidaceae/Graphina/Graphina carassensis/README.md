@@ -1,5 +1,4 @@
-Graphina carassensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina carassensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

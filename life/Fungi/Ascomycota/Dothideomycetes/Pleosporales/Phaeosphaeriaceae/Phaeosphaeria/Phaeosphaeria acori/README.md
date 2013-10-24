@@ -1,5 +1,4 @@
-Phaeosphaeria acori H.C. Greene SPECIES
-=======
+# Phaeosphaeria acori H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

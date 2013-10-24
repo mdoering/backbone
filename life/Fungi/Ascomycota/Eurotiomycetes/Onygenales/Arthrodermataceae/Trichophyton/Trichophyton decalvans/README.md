@@ -1,5 +1,4 @@
-Trichophyton decalvans Malmsten SPECIES
-=======
+# Trichophyton decalvans Malmsten SPECIES
 
 #### Status
 ACCEPTED

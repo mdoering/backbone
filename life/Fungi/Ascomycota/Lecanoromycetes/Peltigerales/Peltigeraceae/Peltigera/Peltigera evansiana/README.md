@@ -1,5 +1,4 @@
-Peltigera evansiana Gyeln. SPECIES
-=======
+# Peltigera evansiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

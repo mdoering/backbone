@@ -1,5 +1,4 @@
-Pseudopeziza astragali Syd. SPECIES
-=======
+# Pseudopeziza astragali Syd. SPECIES
 
 #### Status
 ACCEPTED

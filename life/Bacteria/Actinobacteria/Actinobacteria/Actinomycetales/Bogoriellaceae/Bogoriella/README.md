@@ -1,5 +1,4 @@
-Bogoriella Groth et al., 1997 GENUS
-=======
+# Bogoriella Groth et al., 1997 GENUS
 
 #### Status
 ACCEPTED

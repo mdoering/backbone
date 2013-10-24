@@ -1,5 +1,4 @@
-Diplodia consociata Berk. & M.A. Curtis SPECIES
-=======
+# Diplodia consociata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

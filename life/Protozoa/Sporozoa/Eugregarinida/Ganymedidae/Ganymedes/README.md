@@ -1,5 +1,4 @@
-Ganymedes Huxley, 1910 GENUS
-=======
+# Ganymedes Huxley, 1910 GENUS
 
 #### Status
 ACCEPTED

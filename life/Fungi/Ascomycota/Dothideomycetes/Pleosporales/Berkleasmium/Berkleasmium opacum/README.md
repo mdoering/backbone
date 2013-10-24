@@ -1,5 +1,4 @@
-Berkleasmium opacum R.T. Moore SPECIES
-=======
+# Berkleasmium opacum R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

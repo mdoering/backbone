@@ -1,5 +1,4 @@
-Diederimyces fuscideae Etayo SPECIES
-=======
+# Diederimyces fuscideae Etayo SPECIES
 
 #### Status
 ACCEPTED

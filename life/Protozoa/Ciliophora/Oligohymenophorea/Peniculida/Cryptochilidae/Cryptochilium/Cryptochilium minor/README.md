@@ -1,5 +1,4 @@
-Cryptochilium minor SPECIES
-=======
+# Cryptochilium minor SPECIES
 
 #### Status
 ACCEPTED

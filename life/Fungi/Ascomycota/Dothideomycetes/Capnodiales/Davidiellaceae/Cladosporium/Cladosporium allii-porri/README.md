@@ -1,14 +1,13 @@
-Heterosporium allii-porri (Sacc. & Briard) Arx, 1981 SPECIES
-=======
+# Cladosporium allii-porri (Sacc. & Briard) Boerema, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 305 (1981)
+Meded. -pziektenk. Dienst, Wageningen 152: 15 (1978)
 
 #### Original name
 Heterosporium ornithogali var. allii-porri Sacc. & Briard, 1886

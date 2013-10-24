@@ -1,5 +1,4 @@
-Aecidium batesianum Barthol. SPECIES
-=======
+# Aecidium batesianum Barthol. SPECIES
 
 #### Status
 ACCEPTED

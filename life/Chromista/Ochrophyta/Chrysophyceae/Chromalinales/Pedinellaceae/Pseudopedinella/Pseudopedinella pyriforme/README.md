@@ -1,5 +1,4 @@
-Pseudopedinella pyriforme N. Carter SPECIES
-=======
+# Pseudopedinella pyriforme N. Carter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora izuohshimensis C. Nakash., H. Horie & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora izuohshimensis C. Nakash., H. Horie & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

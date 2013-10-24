@@ -1,5 +1,4 @@
-Nectriella resinae (Fr.) Sacc. SPECIES
-=======
+# Nectriella resinae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

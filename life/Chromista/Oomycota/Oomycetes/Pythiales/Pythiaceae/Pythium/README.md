@@ -1,17 +1,16 @@
-Artotrogus Montagne, 1845 GENUS
-=======
+# Pythium Pringsheim, 1858 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Gard. Chron. , London 5: 640 (1845)
+Jb. wiss. Bot. 1: 304 (1858)
 
 #### Original name
-Artotrogus Montagne, 1845
+Pythium Pringsheim, 1858
 
 ### Remarks
 null

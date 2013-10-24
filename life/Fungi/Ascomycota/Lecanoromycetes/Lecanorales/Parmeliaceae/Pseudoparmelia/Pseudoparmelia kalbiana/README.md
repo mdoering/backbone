@@ -1,5 +1,4 @@
-Pseudoparmelia kalbiana Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia kalbiana Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

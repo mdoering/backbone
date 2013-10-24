@@ -1,5 +1,4 @@
-Verrucaria alboatra var. alboatra VARIETY
-=======
+# Verrucaria alboatra Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria alboatra var. alboatra
+Verrucaria alboatra Kremp.
 
 ### Remarks
 null

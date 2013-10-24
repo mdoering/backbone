@@ -1,5 +1,4 @@
-Amerosporium cervinum SPECIES
-=======
+# Amerosporium cervinum SPECIES
 
 #### Status
 ACCEPTED

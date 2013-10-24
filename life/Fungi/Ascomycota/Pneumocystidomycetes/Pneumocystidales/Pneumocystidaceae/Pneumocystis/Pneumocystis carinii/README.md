@@ -1,5 +1,4 @@
-Pneumocystis carinii P. Delanoë & Delanoë, 1912 SPECIES
-=======
+# Pneumocystis carinii P. Delanoë & Delanoë, 1912 SPECIES
 
 #### Status
 ACCEPTED

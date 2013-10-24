@@ -1,5 +1,4 @@
-Lecidea alboatra SPECIES
-=======
+# Lecidea alboatra SPECIES
 
 #### Status
 ACCEPTED

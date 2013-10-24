@@ -1,5 +1,4 @@
-Spadicoides pyriformis B. Sutton SPECIES
-=======
+# Spadicoides pyriformis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

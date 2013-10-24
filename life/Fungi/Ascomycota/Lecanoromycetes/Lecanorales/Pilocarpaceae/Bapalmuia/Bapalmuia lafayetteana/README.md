@@ -1,17 +1,16 @@
-Bacidia lafayettiana Vain. SPECIES
-=======
+# Bapalmuia lafayetteana (Vain.) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kalb, Lücking & Sérusiaux, Mycotaxon 75: 295 (2000)
 
 #### Original name
-Bacidia lafayettiana Vain.
+Bacidia lafayetteana Vain.
 
 ### Remarks
 null

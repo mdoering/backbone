@@ -1,5 +1,4 @@
-Lembosia ilicis Tracy & Earle SPECIES
-=======
+# Lembosia ilicis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

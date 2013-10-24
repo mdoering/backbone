@@ -1,5 +1,4 @@
-Leiosphaerella hyperborea (P. Karst.) E. Müll. SPECIES
-=======
+# Leiosphaerella hyperborea (P. Karst.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

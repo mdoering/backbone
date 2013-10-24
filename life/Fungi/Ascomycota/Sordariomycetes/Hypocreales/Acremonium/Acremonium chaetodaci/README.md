@@ -1,17 +1,16 @@
-Acremonium chaetodasci Sawada SPECIES
-=======
+# Acremonium chaetodaci Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 183 (1959)
 
 #### Original name
-Acremonium chaetodasci Sawada
+Acremonium chaetodaci Sawada
 
 ### Remarks
 null

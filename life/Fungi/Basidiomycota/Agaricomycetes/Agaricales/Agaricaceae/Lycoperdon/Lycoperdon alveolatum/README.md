@@ -1,5 +1,4 @@
-Lycoperdon alveolatum Lév. SPECIES
-=======
+# Lycoperdon alveolatum Lév. SPECIES
 
 #### Status
 ACCEPTED

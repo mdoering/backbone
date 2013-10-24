@@ -1,5 +1,4 @@
-Stegobolus korupensis Frisch SPECIES
-=======
+# Stegobolus korupensis Frisch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria syringae (Schwein.) Cooke SPECIES
-=======
+# Botryosphaeria syringae (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

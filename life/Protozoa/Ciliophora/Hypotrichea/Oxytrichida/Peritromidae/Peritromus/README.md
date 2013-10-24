@@ -1,5 +1,4 @@
-Peritromus Stein, 1863 GENUS
-=======
+# Peritromus Stein, 1863 GENUS
 
 #### Status
 ACCEPTED

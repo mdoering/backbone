@@ -1,5 +1,4 @@
-Uredo panici-villosi Petch SPECIES
-=======
+# Uredo panici-villosi Petch SPECIES
 
 #### Status
 ACCEPTED

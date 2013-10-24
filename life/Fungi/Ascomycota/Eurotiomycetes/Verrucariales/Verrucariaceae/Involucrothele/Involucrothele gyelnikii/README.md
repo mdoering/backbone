@@ -1,14 +1,13 @@
-Involucrothele gyelniki (Servít) Servít SPECIES
-=======
+# Involucrothele gyelnikii (Servít) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 172 (1954)
 
 #### Original name
 Thelidium gyelnikii Servít

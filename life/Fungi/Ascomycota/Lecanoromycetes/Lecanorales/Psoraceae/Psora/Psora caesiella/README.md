@@ -1,5 +1,4 @@
-Psora caesiella SPECIES
-=======
+# Psora caesiella SPECIES
 
 #### Status
 ACCEPTED

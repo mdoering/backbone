@@ -1,5 +1,4 @@
-Camarophyllus cereopallidus Clémençon SPECIES
-=======
+# Camarophyllus cereopallidus Clémençon SPECIES
 
 #### Status
 ACCEPTED

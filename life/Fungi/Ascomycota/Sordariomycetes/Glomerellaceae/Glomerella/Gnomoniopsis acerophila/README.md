@@ -1,5 +1,4 @@
-Gnomoniopsis acerophila Dearn. & House SPECIES
-=======
+# Gnomoniopsis acerophila Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

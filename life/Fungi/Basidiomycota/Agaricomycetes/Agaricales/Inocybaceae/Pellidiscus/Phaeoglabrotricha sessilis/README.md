@@ -1,5 +1,4 @@
-Phaeoglabrotricha sessilis (Burt) W.B. Cooke SPECIES
-=======
+# Phaeoglabrotricha sessilis (Burt) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo hyperici-frondosi (Schwein.) Arthur SPECIES
-=======
+# Nigredo hyperici-frondosi (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

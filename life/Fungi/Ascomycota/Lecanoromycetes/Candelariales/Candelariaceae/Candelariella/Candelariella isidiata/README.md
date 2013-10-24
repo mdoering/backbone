@@ -1,5 +1,4 @@
-Candelariella isidiata H. Magn. SPECIES
-=======
+# Candelariella isidiata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora laterifolia (Gris.) Kuntze SPECIES
-=======
+# Phyllachora laterifolia (Gris.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

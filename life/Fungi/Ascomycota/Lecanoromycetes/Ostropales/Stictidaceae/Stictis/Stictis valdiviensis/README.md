@@ -1,5 +1,4 @@
-Stictis valdiviensis Speg. SPECIES
-=======
+# Stictis valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema leptocarpoides SPECIES
-=======
+# Thelotrema leptocarpoides SPECIES
 
 #### Status
 ACCEPTED

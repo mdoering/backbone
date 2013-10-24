@@ -1,5 +1,4 @@
-Polyporus oblinitus Berk. SPECIES
-=======
+# Polyporus oblinitus Berk. SPECIES
 
 #### Status
 ACCEPTED

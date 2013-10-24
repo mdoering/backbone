@@ -1,5 +1,4 @@
-Multiplicisphaeridium dikranon Vecoli, 1999 SPECIES
-=======
+# Multiplicisphaeridium dikranon Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

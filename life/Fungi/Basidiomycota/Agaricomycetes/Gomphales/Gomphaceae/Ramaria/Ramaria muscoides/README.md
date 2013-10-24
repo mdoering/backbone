@@ -1,5 +1,4 @@
-Ramaria muscoides Holmsk. SPECIES
-=======
+# Ramaria muscoides Holmsk. SPECIES
 
 #### Status
 ACCEPTED

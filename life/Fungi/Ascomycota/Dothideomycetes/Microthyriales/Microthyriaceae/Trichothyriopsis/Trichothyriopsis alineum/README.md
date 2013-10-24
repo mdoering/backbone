@@ -1,5 +1,4 @@
-Trichothyriopsis alineum Bat., 1951 SPECIES
-=======
+# Trichothyriopsis alineum Bat., 1951 SPECIES
 
 #### Status
 ACCEPTED

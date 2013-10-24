@@ -1,5 +1,4 @@
-Craterellus turbinatus Burt SPECIES
-=======
+# Craterellus turbinatus Burt SPECIES
 
 #### Status
 ACCEPTED

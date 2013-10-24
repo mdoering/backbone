@@ -1,5 +1,4 @@
-Stagonospora lambottiana Sacc. SPECIES
-=======
+# Stagonospora lambottiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria rubella Pers. SPECIES
-=======
+# Poria rubella Pers. SPECIES
 
 #### Status
 ACCEPTED

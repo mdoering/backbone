@@ -1,5 +1,4 @@
-Graphis deformis Fée SPECIES
-=======
+# Graphis deformis Fée SPECIES
 
 #### Status
 ACCEPTED

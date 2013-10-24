@@ -1,14 +1,13 @@
-Triphragmiopsis laricinum (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Triphragmiopsis laricina (W.F. Chiu) F.L. Tai, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. sinicorum 754 (1979)
 
 #### Original name
 Triphragmium laricinum W.F. Chiu, 1955

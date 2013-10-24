@@ -1,5 +1,4 @@
-Thyronectroidea Seaver GENUS
-=======
+# Thyronectroidea Seaver GENUS
 
 #### Status
 ACCEPTED

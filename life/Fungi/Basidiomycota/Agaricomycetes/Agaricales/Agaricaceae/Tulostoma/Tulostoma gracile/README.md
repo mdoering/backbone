@@ -1,5 +1,4 @@
-Tulostoma gracile V.S. White SPECIES
-=======
+# Tulostoma gracile V.S. White SPECIES
 
 #### Status
 ACCEPTED

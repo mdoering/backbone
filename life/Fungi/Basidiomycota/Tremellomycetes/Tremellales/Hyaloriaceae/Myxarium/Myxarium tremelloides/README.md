@@ -1,5 +1,4 @@
-Myxarium tremelloides (L.S. Olive) Wojewoda SPECIES
-=======
+# Myxarium tremelloides (L.S. Olive) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

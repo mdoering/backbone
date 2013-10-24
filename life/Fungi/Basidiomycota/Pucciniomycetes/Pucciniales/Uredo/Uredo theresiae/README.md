@@ -1,5 +1,4 @@
-Uredo theresiae Neger SPECIES
-=======
+# Uredo theresiae Neger SPECIES
 
 #### Status
 ACCEPTED

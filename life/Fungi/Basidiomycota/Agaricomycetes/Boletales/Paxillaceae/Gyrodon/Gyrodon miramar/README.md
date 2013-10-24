@@ -1,5 +1,4 @@
-Gyrodon miramar (Rolland) Sacc. & Trotter SPECIES
-=======
+# Gyrodon miramar (Rolland) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

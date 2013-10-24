@@ -1,5 +1,4 @@
-Pestalotia melaleucae C.C. Chen SPECIES
-=======
+# Pestalotia melaleucae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

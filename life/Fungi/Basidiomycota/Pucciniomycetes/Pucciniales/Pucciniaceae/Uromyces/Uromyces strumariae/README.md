@@ -1,5 +1,4 @@
-Uromyces strumariae A.R. Wood, 2002 SPECIES
-=======
+# Uromyces strumariae A.R. Wood, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Flammula sapinea var. sapinea VARIETY
-=======
+# Gymnopilus sapineus (Fr.) Murrill, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 2: 56 (1889)
+Mycologia 4(5): 254 (1912)
 
 #### Original name
-Flammula sapinea var. sapinea
+Agaricus sapineus Fr., 1821
 
 ### Remarks
 null

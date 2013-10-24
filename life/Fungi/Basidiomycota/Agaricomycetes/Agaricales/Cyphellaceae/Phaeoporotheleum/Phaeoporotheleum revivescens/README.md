@@ -1,14 +1,13 @@
-Porotheleum revivescens Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Phaeoporotheleum revivescens (Berk. & M.A. Curtis) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 324 (1868)
+Beih. Sydowia 4: 129 (1961)
 
 #### Original name
 Porotheleum revivescens Berk. & M.A. Curtis, 1868

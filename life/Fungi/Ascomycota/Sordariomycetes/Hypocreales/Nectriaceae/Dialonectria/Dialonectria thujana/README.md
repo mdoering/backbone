@@ -1,5 +1,4 @@
-Dialonectria thujana (Rehm) Cooke SPECIES
-=======
+# Dialonectria thujana (Rehm) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Podaxon arabicus Pat. SPECIES
-=======
+# Podaxis arabicus Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon arabicus Pat.
+Podaxis arabicus Pat.
 
 ### Remarks
 null

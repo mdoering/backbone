@@ -1,5 +1,4 @@
-Tintinnus apertus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus apertus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

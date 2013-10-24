@@ -1,5 +1,4 @@
-Hypha globosa (Humb.) Pers. SPECIES
-=======
+# Hypha globosa (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

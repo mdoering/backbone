@@ -1,5 +1,4 @@
-Placographa hysterella Nyl. SPECIES
-=======
+# Placographa hysterella Nyl. SPECIES
 
 #### Status
 ACCEPTED

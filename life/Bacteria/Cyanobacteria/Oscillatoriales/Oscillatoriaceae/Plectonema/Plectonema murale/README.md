@@ -1,5 +1,4 @@
-Plectonema murale Gardner SPECIES
-=======
+# Plectonema murale Gardner SPECIES
 
 #### Status
 ACCEPTED

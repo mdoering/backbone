@@ -1,5 +1,4 @@
-Myrmaecium insidens (Schwein.) Sacc. SPECIES
-=======
+# Myrmaecium insidens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

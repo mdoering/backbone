@@ -1,5 +1,4 @@
-Clavaria nivea Humb. SPECIES
-=======
+# Clavaria nivea Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus phaeolepis Pers. SPECIES
-=======
+# Agaricus phaeolepis Pers. SPECIES
 
 #### Status
 ACCEPTED

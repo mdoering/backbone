@@ -1,5 +1,4 @@
-Marasmius centroamericanus Singer SPECIES
-=======
+# Marasmius centroamericanus Singer SPECIES
 
 #### Status
 ACCEPTED

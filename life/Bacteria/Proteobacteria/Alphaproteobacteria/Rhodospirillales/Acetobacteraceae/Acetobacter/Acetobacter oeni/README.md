@@ -1,5 +1,4 @@
-Acetobacter oeni Silva et al., 2006 SPECIES
-=======
+# Acetobacter oeni Silva et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

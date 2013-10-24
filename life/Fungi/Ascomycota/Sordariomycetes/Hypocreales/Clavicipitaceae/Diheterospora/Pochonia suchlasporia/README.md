@@ -1,5 +1,4 @@
-Pochonia suchlasporia var. suchlasporia (W. Gams & Dackman) Zare & W. Gams, 2001 VARIETY
-=======
+# Pochonia suchlasporia (W. Gams & Dackman) Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 73(1-2): 67 (2001)
+null
 
 #### Original name
-Pochonia suchlasporia var. suchlasporia (W. Gams & Dackman) Zare & W. Gams, 2001
+null
 
 ### Remarks
 null

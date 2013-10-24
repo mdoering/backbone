@@ -1,5 +1,4 @@
-Eutypa palmensis Urries SPECIES
-=======
+# Eutypa palmensis Urries SPECIES
 
 #### Status
 ACCEPTED

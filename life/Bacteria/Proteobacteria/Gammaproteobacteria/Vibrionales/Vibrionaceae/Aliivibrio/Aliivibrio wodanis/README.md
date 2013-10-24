@@ -1,5 +1,4 @@
-Aliivibrio wodanis Lunder, Sorum, Holstad, Steigerwalt, Mowinckel & Brenner, 2000 SPECIES
-=======
+# Aliivibrio wodanis Lunder, Sorum, Holstad, Steigerwalt, Mowinckel & Brenner, 2000 SPECIES
 
 #### Status
 ACCEPTED

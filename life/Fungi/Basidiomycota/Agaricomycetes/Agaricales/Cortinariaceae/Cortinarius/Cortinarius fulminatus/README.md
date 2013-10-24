@@ -1,5 +1,4 @@
-Cortinarius fulminatus Reumaux SPECIES
-=======
+# Cortinarius fulminatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

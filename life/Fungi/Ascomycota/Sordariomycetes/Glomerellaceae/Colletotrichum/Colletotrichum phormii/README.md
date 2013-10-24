@@ -1,5 +1,4 @@
-Colletotrichum phormii (Henn.) D.F. Farr & Rossman SPECIES
-=======
+# Colletotrichum phormii (Henn.) D.F. Farr & Rossman SPECIES
 
 #### Status
 ACCEPTED

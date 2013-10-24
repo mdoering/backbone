@@ -1,5 +1,4 @@
-Sphaeria polygoni-sagittati Schwein. SPECIES
-=======
+# Sphaeria polygoni-sagittati Schwein. SPECIES
 
 #### Status
 ACCEPTED

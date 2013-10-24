@@ -1,5 +1,4 @@
-Trichoconis malloti (Sacc.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis malloti (Sacc.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

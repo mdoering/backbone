@@ -1,5 +1,4 @@
-Grantarhabdus meddii Black, 1971 SPECIES
-=======
+# Grantarhabdus meddii Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

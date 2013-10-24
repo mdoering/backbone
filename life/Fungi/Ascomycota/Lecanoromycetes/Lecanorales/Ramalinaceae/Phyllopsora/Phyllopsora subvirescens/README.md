@@ -1,5 +1,4 @@
-Phyllopsora subvirescens (Nyl.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora subvirescens (Nyl.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

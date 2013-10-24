@@ -1,5 +1,4 @@
-Alectoria viridescens var. viridescens VARIETY
-=======
+# Alectoria viridescens Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria viridescens var. viridescens
+Alectoria viridescens Gyeln.
 
 ### Remarks
 null

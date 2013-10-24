@@ -1,5 +1,4 @@
-Russula variecolor J. Blum SPECIES
-=======
+# Russula variecolor J. Blum SPECIES
 
 #### Status
 ACCEPTED

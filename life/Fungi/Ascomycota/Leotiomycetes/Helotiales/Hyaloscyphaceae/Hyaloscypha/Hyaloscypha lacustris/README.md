@@ -1,5 +1,4 @@
-Hyaloscypha lacustris Velen. SPECIES
-=======
+# Hyaloscypha lacustris Velen. SPECIES
 
 #### Status
 ACCEPTED

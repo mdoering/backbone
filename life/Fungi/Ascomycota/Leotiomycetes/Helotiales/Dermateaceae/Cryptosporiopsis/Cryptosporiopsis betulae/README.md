@@ -1,5 +1,4 @@
-Cryptosporiopsis betulae H. Ruppr. SPECIES
-=======
+# Cryptosporiopsis betulae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

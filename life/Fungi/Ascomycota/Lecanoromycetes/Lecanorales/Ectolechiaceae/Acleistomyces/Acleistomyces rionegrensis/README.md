@@ -1,5 +1,4 @@
-Acleistomyces rionegrensis Bat., H. Maia & Peres SPECIES
-=======
+# Acleistomyces rionegrensis Bat., H. Maia & Peres SPECIES
 
 #### Status
 ACCEPTED

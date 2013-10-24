@@ -1,5 +1,4 @@
-Piezobacter Takai, Miyazaki, Hirayama, Nakagawa, Querellou & Godfroy, 2009 GENUS
-=======
+# Piezobacter Takai, Miyazaki, Hirayama, Nakagawa, Querellou & Godfroy, 2009 GENUS
 
 #### Status
 ACCEPTED

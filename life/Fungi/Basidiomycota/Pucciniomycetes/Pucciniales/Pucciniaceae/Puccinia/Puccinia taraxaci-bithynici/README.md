@@ -1,5 +1,4 @@
-Puccinia taraxaci-bithynici Maire SPECIES
-=======
+# Puccinia taraxaci-bithynici Maire SPECIES
 
 #### Status
 ACCEPTED

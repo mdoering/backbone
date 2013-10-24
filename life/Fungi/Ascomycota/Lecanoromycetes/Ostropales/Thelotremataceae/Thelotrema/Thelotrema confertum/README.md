@@ -1,5 +1,4 @@
-Thelotrema confertum Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema confertum Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium protractum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium protractum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annularia sansibarensis Henn. SPECIES
-=======
+# Annularia sansibarensis Henn. SPECIES
 
 #### Status
 ACCEPTED

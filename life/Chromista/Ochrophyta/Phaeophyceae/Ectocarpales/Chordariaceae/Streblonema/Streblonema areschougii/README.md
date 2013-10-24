@@ -1,5 +1,4 @@
-Streblonema areschougii Batters SPECIES
-=======
+# Streblonema areschougii Batters SPECIES
 
 #### Status
 ACCEPTED

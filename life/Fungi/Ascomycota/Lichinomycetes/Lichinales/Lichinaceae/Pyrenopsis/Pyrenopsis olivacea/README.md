@@ -1,5 +1,4 @@
-Pyrenopsis olivacea Vain. SPECIES
-=======
+# Pyrenopsis olivacea Vain. SPECIES
 
 #### Status
 ACCEPTED

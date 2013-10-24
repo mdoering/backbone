@@ -1,5 +1,4 @@
-Lagenidium globosum Lindst. SPECIES
-=======
+# Lagenidium globosum Lindst. SPECIES
 
 #### Status
 ACCEPTED

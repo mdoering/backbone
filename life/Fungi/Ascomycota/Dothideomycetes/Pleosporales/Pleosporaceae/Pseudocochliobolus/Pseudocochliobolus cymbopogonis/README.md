@@ -1,5 +1,4 @@
-Pseudocochliobolus cymbopogonis anon. SPECIES
-=======
+# Pseudocochliobolus cymbopogonis anon. SPECIES
 
 #### Status
 ACCEPTED

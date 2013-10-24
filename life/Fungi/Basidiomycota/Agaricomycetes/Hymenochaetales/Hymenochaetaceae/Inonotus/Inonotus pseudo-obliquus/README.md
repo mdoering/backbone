@@ -1,5 +1,4 @@
-Inonotus pseudo-obliquus (Pilát) Pilát SPECIES
-=======
+# Inonotus pseudo-obliquus (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

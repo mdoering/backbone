@@ -1,5 +1,4 @@
-Myriactula haydeni SPECIES
-=======
+# Myriactula haydeni SPECIES
 
 #### Status
 ACCEPTED

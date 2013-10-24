@@ -1,5 +1,4 @@
-Cortinarius kiambramensis Grgur. SPECIES
-=======
+# Cortinarius kiambramensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

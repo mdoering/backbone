@@ -1,5 +1,4 @@
-Asterina marmellensis (Henn.) Theiss. SPECIES
-=======
+# Asterina marmellensis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

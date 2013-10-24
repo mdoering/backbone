@@ -1,5 +1,4 @@
-Sphaerella albocrustata Schwein. SPECIES
-=======
+# Sphaerella albocrustata Schwein. SPECIES
 
 #### Status
 ACCEPTED

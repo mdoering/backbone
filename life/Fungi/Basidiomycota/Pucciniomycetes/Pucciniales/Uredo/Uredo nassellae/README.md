@@ -1,5 +1,4 @@
-Uredo nassellae H.C. Greene & Cummins SPECIES
-=======
+# Uredo nassellae H.C. Greene & Cummins SPECIES
 
 #### Status
 ACCEPTED

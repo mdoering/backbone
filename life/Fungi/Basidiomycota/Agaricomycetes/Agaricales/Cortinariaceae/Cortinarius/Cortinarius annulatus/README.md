@@ -1,5 +1,4 @@
-Cortinarius annulatus (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius annulatus (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

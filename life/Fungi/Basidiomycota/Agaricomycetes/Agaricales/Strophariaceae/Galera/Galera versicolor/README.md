@@ -1,5 +1,4 @@
-Galera versicolor Peck SPECIES
-=======
+# Galera versicolor Peck SPECIES
 
 #### Status
 ACCEPTED

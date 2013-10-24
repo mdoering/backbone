@@ -1,5 +1,4 @@
-Phoma radiata (Preuss) Sacc. SPECIES
-=======
+# Phoma radiata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

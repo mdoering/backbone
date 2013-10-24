@@ -1,5 +1,4 @@
-Atkinsiella dubia (D. Atkins) Vishniac SPECIES
-=======
+# Atkinsiella dubia (D. Atkins) Vishniac SPECIES
 
 #### Status
 ACCEPTED

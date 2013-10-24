@@ -1,5 +1,4 @@
-Sporhaplus H.B.P. Upadhyay GENUS
-=======
+# Sporhaplus H.B.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

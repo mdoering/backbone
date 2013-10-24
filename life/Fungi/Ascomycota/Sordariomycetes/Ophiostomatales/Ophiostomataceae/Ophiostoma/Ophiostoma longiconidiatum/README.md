@@ -1,5 +1,4 @@
-Ophiostoma longiconidiatum Kamgan Nkuekam, K. Jacobs & Jol. Roux SPECIES
-=======
+# Ophiostoma longiconidiatum Kamgan Nkuekam, K. Jacobs & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

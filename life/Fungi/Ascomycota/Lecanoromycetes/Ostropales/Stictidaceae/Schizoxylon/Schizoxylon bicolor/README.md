@@ -1,5 +1,4 @@
-Schizoxylon bicolor Ellis & Everh. SPECIES
-=======
+# Schizoxylon bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

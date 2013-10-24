@@ -1,5 +1,4 @@
-Alectoria vulpina (L.) Mudd SPECIES
-=======
+# Alectoria vulpina (L.) Mudd SPECIES
 
 #### Status
 ACCEPTED

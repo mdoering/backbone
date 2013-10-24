@@ -1,5 +1,4 @@
-Nephromopsis ornata (Müll. Arg.) Hue SPECIES
-=======
+# Nephromopsis ornata (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

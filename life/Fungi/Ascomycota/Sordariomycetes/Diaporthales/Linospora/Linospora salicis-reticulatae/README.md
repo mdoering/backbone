@@ -1,5 +1,4 @@
-Linospora salicis-reticulatae M. Monod SPECIES
-=======
+# Linospora salicis-reticulatae M. Monod SPECIES
 
 #### Status
 ACCEPTED

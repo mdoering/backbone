@@ -1,17 +1,16 @@
-Ciglides Chevall. GENUS
-=======
+# Gymnosporangium R. Hedw. ex DC. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. gén. env. Paris (Paris) 1: 384 (1826)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 216 (1805)
 
 #### Original name
-Ciglides Chevall.
+Gymnosporangium R. Hedw. ex DC.
 
 ### Remarks
 null

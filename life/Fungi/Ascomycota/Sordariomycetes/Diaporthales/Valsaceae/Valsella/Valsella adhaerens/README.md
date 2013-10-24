@@ -1,14 +1,13 @@
-Valsa auerswaldii f. adhaerens (Fuckel) Petr., 1925 FORM
-=======
+# Valsella adhaerens Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 65: 243 (1925)
+Jb. nassau. Ver. Naturk. 27-28: (1873)
 
 #### Original name
 Valsella adhaerens Fuckel, 1874

@@ -1,5 +1,4 @@
-Parvibrachiale Sugiyama, 1997 GENUS
-=======
+# Parvibrachiale Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

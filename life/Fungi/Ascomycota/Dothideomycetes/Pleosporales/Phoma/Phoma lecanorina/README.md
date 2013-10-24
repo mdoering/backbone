@@ -1,5 +1,4 @@
-Phoma lecanorina Diederich SPECIES
-=======
+# Phoma lecanorina Diederich SPECIES
 
 #### Status
 ACCEPTED

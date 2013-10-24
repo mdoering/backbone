@@ -1,5 +1,4 @@
-Strombidium buehringae Busch, 1921 SPECIES
-=======
+# Strombidium buehringae Busch, 1921 SPECIES
 
 #### Status
 ACCEPTED

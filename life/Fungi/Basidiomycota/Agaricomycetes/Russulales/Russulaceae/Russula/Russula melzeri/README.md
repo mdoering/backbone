@@ -1,5 +1,4 @@
-Russula melzeri Zvára, 1927 SPECIES
-=======
+# Russula melzeri Zvára, 1927 SPECIES
 
 #### Status
 ACCEPTED

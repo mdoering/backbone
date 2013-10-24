@@ -1,5 +1,4 @@
-Hendersonia coriariae Brunaud SPECIES
-=======
+# Hendersonia coriariae Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremellodon aurantiacum Massee SPECIES
-=======
+# Tremellodon aurantiacum Massee SPECIES
 
 #### Status
 ACCEPTED

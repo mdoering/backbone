@@ -1,5 +1,4 @@
-Ascochyta solidaginis (Thüm.) Keissl. SPECIES
-=======
+# Ascochyta solidaginis (Thüm.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

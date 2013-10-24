@@ -1,5 +1,4 @@
-Epistylis invaginata Claparède & Lachmann, 1858 SPECIES
-=======
+# Epistylis invaginata Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

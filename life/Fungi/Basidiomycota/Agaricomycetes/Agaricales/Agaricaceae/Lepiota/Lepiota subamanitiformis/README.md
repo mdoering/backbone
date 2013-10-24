@@ -1,5 +1,4 @@
-Lepiota subamanitiformis Dennis SPECIES
-=======
+# Lepiota subamanitiformis Dennis SPECIES
 
 #### Status
 ACCEPTED

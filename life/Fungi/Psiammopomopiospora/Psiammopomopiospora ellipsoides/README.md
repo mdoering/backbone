@@ -1,5 +1,4 @@
-Psiammopomopiospora ellipsoides Sal.-Cheb. & Locq. SPECIES
-=======
+# Psiammopomopiospora ellipsoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

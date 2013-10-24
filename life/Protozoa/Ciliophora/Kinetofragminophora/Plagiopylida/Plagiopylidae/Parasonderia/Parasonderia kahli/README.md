@@ -1,5 +1,4 @@
-Parasonderia kahli (Faure-Fremiet, 1973) Jankowski, 2007 SPECIES
-=======
+# Parasonderia kahli (Faure-Fremiet, 1973) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

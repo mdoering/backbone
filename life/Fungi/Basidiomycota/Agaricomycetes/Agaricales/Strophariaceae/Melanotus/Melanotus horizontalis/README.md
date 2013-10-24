@@ -1,17 +1,16 @@
-Psilocybe hepatochrous (Berk.) M. Lago & M.L. Castro, 2004 SPECIES
-=======
+# Melanotus horizontalis (Bull.) P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 41(3): 595 (1984)
 
 #### Original name
-null
+Agaricus horizontalis Bull., 1788
 
 ### Remarks
 null

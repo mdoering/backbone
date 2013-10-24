@@ -1,5 +1,4 @@
-Rhizopogon subcroceus A.H. Sm. SPECIES
-=======
+# Rhizopogon subcroceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

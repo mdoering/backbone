@@ -1,5 +1,4 @@
-Mycena osmundicola Langge SPECIES
-=======
+# Mycena osmundicola Langge SPECIES
 
 #### Status
 ACCEPTED

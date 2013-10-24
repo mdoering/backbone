@@ -1,5 +1,4 @@
-Gerronema flammeum Singer SPECIES
-=======
+# Gerronema flammeum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora peltata var. laevior (Nyl.) Stizenb. VARIETY
-=======
+# Rhizoplaca peltata (Ramond) Leuckert & Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 28(1): 73 (1977)
 
 #### Original name
-Squamaria peltata var. laevior Nyl.
+Lichen peltatus Ramond
 
 ### Remarks
 null

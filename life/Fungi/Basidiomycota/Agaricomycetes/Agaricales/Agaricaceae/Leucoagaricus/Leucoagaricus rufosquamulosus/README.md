@@ -1,5 +1,4 @@
-Leucoagaricus rufosquamulosus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus rufosquamulosus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

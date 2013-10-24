@@ -1,5 +1,4 @@
-Agaricus paxillus Fr. SPECIES
-=======
+# Agaricus paxillus Fr. SPECIES
 
 #### Status
 ACCEPTED

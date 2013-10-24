@@ -1,5 +1,4 @@
-Botryodiplodia spiraeae Oudem. SPECIES
-=======
+# Botryodiplodia spiraeae Oudem. SPECIES
 
 #### Status
 ACCEPTED

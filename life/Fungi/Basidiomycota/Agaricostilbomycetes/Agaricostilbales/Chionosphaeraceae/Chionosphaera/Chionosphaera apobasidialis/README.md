@@ -1,5 +1,4 @@
-Chionosphaera apobasidialis D.E. Cox, 1976 SPECIES
-=======
+# Chionosphaera apobasidialis D.E. Cox, 1976 SPECIES
 
 #### Status
 ACCEPTED

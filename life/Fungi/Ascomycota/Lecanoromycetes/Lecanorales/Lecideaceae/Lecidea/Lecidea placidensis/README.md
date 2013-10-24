@@ -1,5 +1,4 @@
-Lecidea placidensis H. Magn. SPECIES
-=======
+# Lecidea placidensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

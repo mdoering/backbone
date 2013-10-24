@@ -1,5 +1,4 @@
-Limboria constellata Ach. SPECIES
-=======
+# Limboria constellata Ach. SPECIES
 
 #### Status
 ACCEPTED

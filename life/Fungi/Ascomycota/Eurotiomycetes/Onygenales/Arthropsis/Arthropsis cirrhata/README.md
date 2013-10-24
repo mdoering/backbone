@@ -1,5 +1,4 @@
-Arthropsis cirrhata Oorschot & de Hoog, 1984 SPECIES
-=======
+# Arthropsis cirrhata Oorschot & de Hoog, 1984 SPECIES
 
 #### Status
 ACCEPTED

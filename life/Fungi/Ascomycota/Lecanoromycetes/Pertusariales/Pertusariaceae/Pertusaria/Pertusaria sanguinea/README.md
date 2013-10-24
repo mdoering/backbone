@@ -1,5 +1,4 @@
-Pertusaria sanguinea Räsänen SPECIES
-=======
+# Pertusaria sanguinea Räsänen SPECIES
 
 #### Status
 ACCEPTED

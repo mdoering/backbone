@@ -1,5 +1,4 @@
-Boletopsis fulvescens Smotl. SPECIES
-=======
+# Boletopsis fulvescens Smotl. SPECIES
 
 #### Status
 ACCEPTED

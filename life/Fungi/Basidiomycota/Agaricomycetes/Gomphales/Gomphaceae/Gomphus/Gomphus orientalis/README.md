@@ -1,5 +1,4 @@
-Gomphus orientalis R.H. Petersen & M. Zang SPECIES
-=======
+# Gomphus orientalis R.H. Petersen & M. Zang SPECIES
 
 #### Status
 ACCEPTED

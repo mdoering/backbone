@@ -1,5 +1,4 @@
-Aecidium disciforme McAlpine, 1906 SPECIES
-=======
+# Aecidium disciforme McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

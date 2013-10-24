@@ -1,5 +1,4 @@
-Aecidium brevius Barclay SPECIES
-=======
+# Aecidium brevius Barclay SPECIES
 
 #### Status
 ACCEPTED

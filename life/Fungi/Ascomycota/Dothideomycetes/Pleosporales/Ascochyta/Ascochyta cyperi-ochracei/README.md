@@ -1,5 +1,4 @@
-Ascochyta cyperi-ochracei Punith. SPECIES
-=======
+# Ascochyta cyperi-ochracei Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora carbonaria Velen. SPECIES
-=======
+# Thelephora carbonaria Velen. SPECIES
 
 #### Status
 ACCEPTED

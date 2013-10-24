@@ -1,5 +1,4 @@
-Spermatodium cinnamomeum (Mont.) Trevis. SPECIES
-=======
+# Spermatodium cinnamomeum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

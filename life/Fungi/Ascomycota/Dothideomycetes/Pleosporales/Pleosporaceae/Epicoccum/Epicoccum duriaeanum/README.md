@@ -1,5 +1,4 @@
-Epicoccum duriaeanum Mont. SPECIES
-=======
+# Epicoccum duriaeanum Mont. SPECIES
 
 #### Status
 ACCEPTED

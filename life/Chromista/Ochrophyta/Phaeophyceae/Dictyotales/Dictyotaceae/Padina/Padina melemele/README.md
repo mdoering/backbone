@@ -1,5 +1,4 @@
-Padina melemele Abbott & Magruder SPECIES
-=======
+# Padina melemele Abbott & Magruder SPECIES
 
 #### Status
 ACCEPTED

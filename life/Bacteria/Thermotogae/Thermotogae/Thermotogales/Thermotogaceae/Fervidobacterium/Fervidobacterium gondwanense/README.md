@@ -1,5 +1,4 @@
-Fervidobacterium gondwanense Andrews & Patel, 1996 SPECIES
-=======
+# Fervidobacterium gondwanense Andrews & Patel, 1996 SPECIES
 
 #### Status
 ACCEPTED

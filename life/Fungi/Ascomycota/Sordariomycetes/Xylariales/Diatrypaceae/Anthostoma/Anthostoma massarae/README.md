@@ -1,5 +1,4 @@
-Anthostoma massarae (De Not.) Sacc. SPECIES
-=======
+# Anthostoma massarae (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

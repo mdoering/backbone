@@ -1,5 +1,4 @@
-Microbotryum lagerheimii Denchev, 2007 SPECIES
-=======
+# Microbotryum lagerheimii Denchev, 2007 SPECIES
 
 #### Status
 ACCEPTED

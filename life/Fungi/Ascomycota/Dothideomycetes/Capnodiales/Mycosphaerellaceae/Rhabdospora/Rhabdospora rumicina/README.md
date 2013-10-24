@@ -1,5 +1,4 @@
-Rhabdospora rumicina S. Ahmad SPECIES
-=======
+# Rhabdospora rumicina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

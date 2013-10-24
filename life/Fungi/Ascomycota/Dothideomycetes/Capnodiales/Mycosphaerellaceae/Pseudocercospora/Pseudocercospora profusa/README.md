@@ -1,5 +1,4 @@
-Pseudocercospora profusa (Syd. & P. Syd.) Deighton SPECIES
-=======
+# Pseudocercospora profusa (Syd. & P. Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

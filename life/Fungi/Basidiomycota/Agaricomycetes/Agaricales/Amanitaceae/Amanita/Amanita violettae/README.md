@@ -1,5 +1,4 @@
-Amanita violettae Tulloss SPECIES
-=======
+# Amanita violettae Tulloss SPECIES
 
 #### Status
 ACCEPTED

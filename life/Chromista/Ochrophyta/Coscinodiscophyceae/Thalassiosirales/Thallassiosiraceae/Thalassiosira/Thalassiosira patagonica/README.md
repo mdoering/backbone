@@ -1,5 +1,4 @@
-Thalassiosira patagonica N. Maidana SPECIES
-=======
+# Thalassiosira patagonica N. Maidana SPECIES
 
 #### Status
 ACCEPTED

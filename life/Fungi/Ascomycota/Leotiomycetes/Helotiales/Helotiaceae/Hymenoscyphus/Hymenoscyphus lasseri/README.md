@@ -1,5 +1,4 @@
-Hymenoscyphus lasseri (Dennis) Dennis SPECIES
-=======
+# Hymenoscyphus lasseri (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

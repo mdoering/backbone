@@ -1,5 +1,4 @@
-Fomes pachyotis (Speg.) Speg. SPECIES
-=======
+# Fomes pachyotis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

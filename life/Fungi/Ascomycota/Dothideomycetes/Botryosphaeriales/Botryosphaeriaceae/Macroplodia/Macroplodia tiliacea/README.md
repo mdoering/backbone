@@ -1,5 +1,4 @@
-Macroplodia tiliacea (Peck) Kuntze SPECIES
-=======
+# Macroplodia tiliacea (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

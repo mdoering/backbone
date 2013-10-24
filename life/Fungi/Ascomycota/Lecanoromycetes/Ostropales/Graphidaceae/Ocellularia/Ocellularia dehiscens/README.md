@@ -1,14 +1,13 @@
-Thelotrema dehiscens Leight. SPECIES
-=======
+# Ocellularia dehiscens (Leight.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London 25: 448 (1866)
+Cat. Lich. Univers. 2: 588 (1923)
 
 #### Original name
 Thelotrema dehiscens Leight.

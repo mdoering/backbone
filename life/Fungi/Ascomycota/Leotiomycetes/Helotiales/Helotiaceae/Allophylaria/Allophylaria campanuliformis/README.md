@@ -1,14 +1,13 @@
-Helotium campanulaeforme (Fuckel) Fuckel SPECIES
-=======
+# Allophylaria campanuliformis (Fuckel) Svrcek, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 43(4): 224 (1989)
 
 #### Original name
 null

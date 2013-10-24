@@ -1,5 +1,4 @@
-Xerocomus hortonii (A.H. Sm. & Thiers) Manfr. Binder & Besl SPECIES
-=======
+# Xerocomus hortonii (A.H. Sm. & Thiers) Manfr. Binder & Besl SPECIES
 
 #### Status
 ACCEPTED

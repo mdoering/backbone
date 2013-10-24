@@ -1,5 +1,4 @@
-Trichophyton verrucosum var. verrucosum VARIETY
-=======
+# Trichophyton verrucosum E. Bodin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Les Champignons parasites de l'homme et des animaux domestiques 121 (1902)
 
 #### Original name
-Trichophyton verrucosum var. verrucosum
+Trichophyton verrucosum E. Bodin
 
 ### Remarks
 null

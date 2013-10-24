@@ -1,5 +1,4 @@
-Ascochyta solani-nigri Died. SPECIES
-=======
+# Ascochyta solani-nigri Died. SPECIES
 
 #### Status
 ACCEPTED

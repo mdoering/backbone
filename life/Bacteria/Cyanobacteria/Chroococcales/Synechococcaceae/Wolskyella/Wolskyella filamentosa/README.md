@@ -1,5 +1,4 @@
-Wolskyella filamentosa Claus SPECIES
-=======
+# Wolskyella filamentosa Claus SPECIES
 
 #### Status
 ACCEPTED

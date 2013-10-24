@@ -1,5 +1,4 @@
-Aposphaeria taquarae Viégas SPECIES
-=======
+# Aposphaeria taquarae Viégas SPECIES
 
 #### Status
 ACCEPTED

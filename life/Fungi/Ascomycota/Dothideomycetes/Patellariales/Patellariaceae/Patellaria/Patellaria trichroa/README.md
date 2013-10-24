@@ -1,5 +1,4 @@
-Patellaria trichroa (Nyl.) SPECIES
-=======
+# Patellaria trichroa (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

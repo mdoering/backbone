@@ -1,5 +1,4 @@
-Hypochnus subzygodesmoides Rick SPECIES
-=======
+# Hypochnus subzygodesmoides Rick SPECIES
 
 #### Status
 ACCEPTED

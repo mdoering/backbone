@@ -1,5 +1,4 @@
-Psathyrella segregis Singer SPECIES
-=======
+# Psathyrella segregis Singer SPECIES
 
 #### Status
 ACCEPTED

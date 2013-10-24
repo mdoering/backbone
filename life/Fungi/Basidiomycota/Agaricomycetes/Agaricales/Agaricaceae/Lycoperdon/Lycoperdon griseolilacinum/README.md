@@ -1,5 +1,4 @@
-Lycoperdon griseolilacinum Henn. SPECIES
-=======
+# Lycoperdon griseolilacinum Henn. SPECIES
 
 #### Status
 ACCEPTED

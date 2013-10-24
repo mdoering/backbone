@@ -1,5 +1,4 @@
-Wehmeyera J. Reid & C. Booth GENUS
-=======
+# Wehmeyera J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

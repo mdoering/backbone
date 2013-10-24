@@ -1,17 +1,16 @@
-Dithozetia Clem. & Shear GENUS
-=======
+# Didymothozetia Rangel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 401 (1931)
+in Maublanc & Rangel, Boln Agric. , São Paulo 16: 325 (1915)
 
 #### Original name
-Dithozetia Clem. & Shear
+Didymothozetia Rangel
 
 ### Remarks
 null

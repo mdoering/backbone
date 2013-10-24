@@ -1,5 +1,4 @@
-Pseudocercospora mannanorensis Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Pseudocercospora mannanorensis Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

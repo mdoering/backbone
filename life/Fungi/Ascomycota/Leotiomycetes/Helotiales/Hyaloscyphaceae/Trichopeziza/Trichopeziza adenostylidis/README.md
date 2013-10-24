@@ -1,5 +1,4 @@
-Trichopeziza adenostylidis (Rehm) Raitv. SPECIES
-=======
+# Trichopeziza adenostylidis (Rehm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

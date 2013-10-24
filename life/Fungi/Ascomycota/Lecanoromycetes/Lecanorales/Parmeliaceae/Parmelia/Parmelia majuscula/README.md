@@ -1,5 +1,4 @@
-Parmelia majuscula Zahlbr. SPECIES
-=======
+# Parmelia majuscula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

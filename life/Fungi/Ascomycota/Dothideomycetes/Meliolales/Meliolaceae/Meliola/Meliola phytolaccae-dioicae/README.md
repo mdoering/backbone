@@ -1,5 +1,4 @@
-Meliola phytolaccae-dioicae Hansf. SPECIES
-=======
+# Meliola phytolaccae-dioicae Hansf. SPECIES
 
 #### Status
 ACCEPTED

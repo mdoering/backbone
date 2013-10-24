@@ -1,5 +1,4 @@
-Melanomma mate Speg. SPECIES
-=======
+# Melanomma mate Speg. SPECIES
 
 #### Status
 ACCEPTED

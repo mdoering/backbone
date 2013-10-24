@@ -1,5 +1,4 @@
-Crinipellis filiformis G. Stev., 1964 SPECIES
-=======
+# Crinipellis filiformis G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

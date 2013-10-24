@@ -1,5 +1,4 @@
-Leptogium filicinellum (Nyl.) Hellb. SPECIES
-=======
+# Leptogium filicinellum (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoalteromonas maricaloris Ivanova et al., 2002 SPECIES
-=======
+# Pseudoalteromonas maricaloris Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

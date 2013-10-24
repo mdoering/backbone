@@ -1,5 +1,4 @@
-Fusidium pallidum (Thüm.) Sacc. SPECIES
-=======
+# Fusidium pallidum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

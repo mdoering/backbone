@@ -1,5 +1,4 @@
-Trichopeltheca stevensii S. Hughes, 1966 SPECIES
-=======
+# Trichopeltheca stevensii S. Hughes, 1966 SPECIES
 
 #### Status
 ACCEPTED

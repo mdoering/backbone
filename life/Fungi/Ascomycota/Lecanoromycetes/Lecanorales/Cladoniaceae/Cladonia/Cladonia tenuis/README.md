@@ -1,5 +1,4 @@
-Cladonia tenuis f. tenuis FORM
-=======
+# Cladonia tenuis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia tenuis f. tenuis
+null
 
 ### Remarks
 null

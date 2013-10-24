@@ -1,5 +1,4 @@
-Septobasidium schweinitzii Burt, 1916 SPECIES
-=======
+# Septobasidium schweinitzii Burt, 1916 SPECIES
 
 #### Status
 ACCEPTED

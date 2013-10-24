@@ -1,14 +1,13 @@
-Polyporus substuppeus Berk. & Cooke, 1877 SPECIES
-=======
+# Protomerulius substuppeus (Berk. & Cooke) Ryvarden, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 15: 380 (1877)
+Syn. Fung. (Oslo) 5: 212 (1991)
 
 #### Original name
 Polyporus substuppeus Berk. & Cooke, 1877

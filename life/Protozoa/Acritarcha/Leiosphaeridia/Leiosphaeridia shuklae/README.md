@@ -1,5 +1,4 @@
-Leiosphaeridia shuklae Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia shuklae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

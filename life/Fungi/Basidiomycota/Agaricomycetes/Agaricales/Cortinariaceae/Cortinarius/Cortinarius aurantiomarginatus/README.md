@@ -1,5 +1,4 @@
-Cortinarius aurantiomarginatus Jul. Schäff. ex M.M. Moser SPECIES
-=======
+# Cortinarius aurantiomarginatus Jul. Schäff. ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

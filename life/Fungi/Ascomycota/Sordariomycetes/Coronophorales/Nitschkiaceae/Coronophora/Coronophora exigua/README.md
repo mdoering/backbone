@@ -1,5 +1,4 @@
-Coronophora exigua Teng SPECIES
-=======
+# Coronophora exigua Teng SPECIES
 
 #### Status
 ACCEPTED

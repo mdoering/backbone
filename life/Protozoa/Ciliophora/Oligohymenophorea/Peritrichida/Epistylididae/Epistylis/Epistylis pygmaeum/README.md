@@ -1,8 +1,7 @@
-Scyphidia pyriformis Perty, 1852 SPECIES
-=======
+# Epistylis pygmaeum (Ehrenberg, 1838) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

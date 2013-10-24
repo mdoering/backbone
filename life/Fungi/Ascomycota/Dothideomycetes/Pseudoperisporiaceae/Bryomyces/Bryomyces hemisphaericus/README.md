@@ -1,5 +1,4 @@
-Bryomyces hemisphaericus Döbbeler, 1978 SPECIES
-=======
+# Bryomyces hemisphaericus Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

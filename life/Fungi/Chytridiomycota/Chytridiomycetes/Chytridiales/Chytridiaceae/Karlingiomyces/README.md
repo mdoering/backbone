@@ -1,5 +1,4 @@
-Karlingiomyces Sparrow GENUS
-=======
+# Karlingiomyces Sparrow GENUS
 
 #### Status
 ACCEPTED

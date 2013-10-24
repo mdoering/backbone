@@ -1,5 +1,4 @@
-Lacrymaria coniformis Bürger, 1908 SPECIES
-=======
+# Lacrymaria coniformis Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

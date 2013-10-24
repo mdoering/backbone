@@ -1,5 +1,4 @@
-Samara floribunda Benth. & Hook.f. ex Kurz SPECIES
-=======
+# Samara floribunda Benth. & Hook.f. ex Kurz SPECIES
 
 #### Status
 ACCEPTED

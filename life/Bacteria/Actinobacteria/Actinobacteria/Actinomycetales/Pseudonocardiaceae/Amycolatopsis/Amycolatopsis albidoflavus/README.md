@@ -1,5 +1,4 @@
-Amycolatopsis albidoflavus Lee & Hah, 2001 SPECIES
-=======
+# Amycolatopsis albidoflavus Lee & Hah, 2001 SPECIES
 
 #### Status
 ACCEPTED

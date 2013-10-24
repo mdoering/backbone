@@ -1,5 +1,4 @@
-Balladynella amazonica (Höhn.) Theiss. & Syd. SPECIES
-=======
+# Balladynella amazonica (Höhn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

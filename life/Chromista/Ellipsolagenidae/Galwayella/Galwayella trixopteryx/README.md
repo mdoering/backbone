@@ -1,5 +1,4 @@
-Galwayella trixopteryx Loeblich & Tappan, 1994 SPECIES
-=======
+# Galwayella trixopteryx Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnidiopeltis Bat. & C.A.A. Costa GENUS
-=======
+# Pycnidiopeltis Bat. & C.A.A. Costa GENUS
 
 #### Status
 ACCEPTED

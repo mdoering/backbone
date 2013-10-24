@@ -1,5 +1,4 @@
-Cladonia pseudogymnopoda subsp. pseudogymnopoda SUBSPECIES
-=======
+# Cladonia pseudogymnopoda Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 45(9): 259 (1970)
 
 #### Original name
-Cladonia pseudogymnopoda subsp. pseudogymnopoda
+Cladonia pseudogymnopoda Asahina
 
 ### Remarks
 null

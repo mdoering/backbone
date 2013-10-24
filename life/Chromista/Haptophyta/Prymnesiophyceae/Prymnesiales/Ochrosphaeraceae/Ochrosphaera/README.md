@@ -1,5 +1,4 @@
-Ochrosphaera Schussnig, 1930 GENUS
-=======
+# Ochrosphaera Schussnig, 1930 GENUS
 
 #### Status
 ACCEPTED

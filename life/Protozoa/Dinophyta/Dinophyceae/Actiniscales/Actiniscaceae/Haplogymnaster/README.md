@@ -1,5 +1,4 @@
-Haplogymnaster Alvira & Hovasse, 1975 GENUS
-=======
+# Haplogymnaster Alvira & Hovasse, 1975 GENUS
 
 #### Status
 ACCEPTED

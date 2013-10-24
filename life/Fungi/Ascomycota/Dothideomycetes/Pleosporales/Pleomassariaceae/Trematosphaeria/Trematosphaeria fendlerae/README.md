@@ -1,5 +1,4 @@
-Trematosphaeria fendlerae Tracy & Earle SPECIES
-=======
+# Trematosphaeria fendlerae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

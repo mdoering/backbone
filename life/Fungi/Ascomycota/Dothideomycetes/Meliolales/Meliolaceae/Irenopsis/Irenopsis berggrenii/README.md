@@ -1,5 +1,4 @@
-Irenopsis berggrenii var. berggrenii VARIETY
-=======
+# Irenopsis berggrenii Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 165: 166 (1955)
 
 #### Original name
-Irenopsis berggrenii var. berggrenii
+Irenopsis berggrenii Hansf.
 
 ### Remarks
 null

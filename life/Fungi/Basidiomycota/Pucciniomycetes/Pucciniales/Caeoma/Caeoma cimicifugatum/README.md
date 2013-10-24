@@ -1,5 +1,4 @@
-Caeoma cimicifugatum Schwein. SPECIES
-=======
+# Caeoma cimicifugatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

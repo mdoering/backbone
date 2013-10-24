@@ -1,5 +1,4 @@
-Massariosphaeria vitalbae (Niessl) Ahn & Shearer, 1998 SPECIES
-=======
+# Massariosphaeria vitalbae (Niessl) Ahn & Shearer, 1998 SPECIES
 
 #### Status
 ACCEPTED

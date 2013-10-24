@@ -1,5 +1,4 @@
-Gremmeniella M. Morelet, 1969 GENUS
-=======
+# Gremmeniella M. Morelet, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria santosii Argüello & A. Crespo SPECIES
-=======
+# Lepraria santosii Argüello & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

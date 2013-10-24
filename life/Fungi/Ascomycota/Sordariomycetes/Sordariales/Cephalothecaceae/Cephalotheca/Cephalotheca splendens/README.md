@@ -1,5 +1,4 @@
-Cephalotheca splendens Udagawa & Y. Horie SPECIES
-=======
+# Cephalotheca splendens Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

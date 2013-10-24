@@ -1,5 +1,4 @@
-Aspicilia anamyloidea (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia anamyloidea (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

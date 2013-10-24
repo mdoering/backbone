@@ -1,5 +1,4 @@
-Sphaeria collumiae Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria collumiae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

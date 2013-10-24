@@ -1,5 +1,4 @@
-Isidium phragmeum Röhling SPECIES
-=======
+# Isidium phragmeum Röhling SPECIES
 
 #### Status
 ACCEPTED

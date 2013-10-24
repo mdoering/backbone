@@ -1,5 +1,4 @@
-Uredo lippiae Dietel & Holw. SPECIES
-=======
+# Uredo lippiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hexagonia cognata (Berk.) Teixeira, 1994 SPECIES
-=======
+# Mollicarpus cognatus (Berk.) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletim da Chácara Botânica de Itu 1: 56 (1994)
+Can. J. Bot. 62(3): 72 (1984)
 
 #### Original name
 Trametes cognata Berk., 1877

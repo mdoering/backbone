@@ -1,5 +1,4 @@
-Ectostroma lilacis Chevall. SPECIES
-=======
+# Ectostroma lilacis Chevall. SPECIES
 
 #### Status
 ACCEPTED

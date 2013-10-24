@@ -1,5 +1,4 @@
-Stenosemella oliva SPECIES
-=======
+# Stenosemella oliva SPECIES
 
 #### Status
 ACCEPTED

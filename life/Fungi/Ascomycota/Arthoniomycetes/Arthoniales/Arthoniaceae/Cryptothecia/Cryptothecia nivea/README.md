@@ -1,5 +1,4 @@
-Cryptothecia nivea Groenh. SPECIES
-=======
+# Cryptothecia nivea Groenh. SPECIES
 
 #### Status
 ACCEPTED

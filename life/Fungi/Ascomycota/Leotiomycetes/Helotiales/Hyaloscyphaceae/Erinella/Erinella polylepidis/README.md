@@ -1,5 +1,4 @@
-Erinella polylepidis Pat. SPECIES
-=======
+# Erinella polylepidis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia thallophila P. Karst. SPECIES
-=======
+# Mollisia thallophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

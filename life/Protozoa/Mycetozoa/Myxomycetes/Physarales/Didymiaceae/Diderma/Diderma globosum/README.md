@@ -1,17 +1,16 @@
-Diderma globosum var. roseum Nann.-Bremek. & Y. Yamam. VARIETY
-=======
+# Diderma globosum Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 90(3): 321 (1987)
+Neues Mag. Bot. 1: 89 (1794)
 
 #### Original name
-Diderma globosum var. roseum Nann.-Bremek. & Y. Yamam.
+Diderma globosum Pers., 1794
 
 ### Remarks
 null

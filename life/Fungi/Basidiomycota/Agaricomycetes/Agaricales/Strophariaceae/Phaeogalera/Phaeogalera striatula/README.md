@@ -1,5 +1,4 @@
-Phaeogalera striatula (A.H. Sm. & Hesler) Lanzoni SPECIES
-=======
+# Phaeogalera striatula (A.H. Sm. & Hesler) Lanzoni SPECIES
 
 #### Status
 ACCEPTED

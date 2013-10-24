@@ -1,5 +1,4 @@
-Phyllachora dendrocalami Awati & U.K. Kulk., 1972 SPECIES
-=======
+# Phyllachora dendrocalami Awati & U.K. Kulk., 1972 SPECIES
 
 #### Status
 ACCEPTED

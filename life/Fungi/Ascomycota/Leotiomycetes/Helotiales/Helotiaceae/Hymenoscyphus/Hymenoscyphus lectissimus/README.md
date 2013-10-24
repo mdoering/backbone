@@ -1,5 +1,4 @@
-Hymenoscyphus lectissimus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus lectissimus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

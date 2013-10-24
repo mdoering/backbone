@@ -1,5 +1,4 @@
-Cercidospora cephalodiorum Triebel & Grube SPECIES
-=======
+# Cercidospora cephalodiorum Triebel & Grube SPECIES
 
 #### Status
 ACCEPTED

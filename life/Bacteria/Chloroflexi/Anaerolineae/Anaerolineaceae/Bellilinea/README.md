@@ -1,5 +1,4 @@
-Bellilinea Yamada et al., 2007 GENUS
-=======
+# Bellilinea Yamada et al., 2007 GENUS
 
 #### Status
 ACCEPTED

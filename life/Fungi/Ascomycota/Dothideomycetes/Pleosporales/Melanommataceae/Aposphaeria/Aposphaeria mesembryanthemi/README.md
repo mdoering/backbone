@@ -1,5 +1,4 @@
-Aposphaeria mesembryanthemi M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Aposphaeria mesembryanthemi M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

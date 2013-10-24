@@ -1,5 +1,4 @@
-Gyalideopsis graminicola Vezda & Kantvilas SPECIES
-=======
+# Gyalideopsis graminicola Vezda & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

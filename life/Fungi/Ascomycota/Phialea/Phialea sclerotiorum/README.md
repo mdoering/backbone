@@ -1,5 +1,4 @@
-Phialea sclerotiorum Gillet SPECIES
-=======
+# Phialea sclerotiorum Gillet SPECIES
 
 #### Status
 ACCEPTED

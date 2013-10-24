@@ -1,5 +1,4 @@
-Ocellularia americana Hale SPECIES
-=======
+# Ocellularia americana Hale SPECIES
 
 #### Status
 ACCEPTED

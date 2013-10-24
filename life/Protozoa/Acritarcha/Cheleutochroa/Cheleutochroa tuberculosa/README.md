@@ -1,5 +1,4 @@
-Cheleutochroa tuberculosa Uutela & Tynni, 1991 SPECIES
-=======
+# Cheleutochroa tuberculosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

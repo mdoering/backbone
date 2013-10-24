@@ -1,5 +1,4 @@
-Rhabdospora arctii Politis SPECIES
-=======
+# Rhabdospora arctii Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria denudata Velen. SPECIES
-=======
+# Naucoria denudata Velen. SPECIES
 
 #### Status
 ACCEPTED

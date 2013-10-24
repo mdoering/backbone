@@ -1,5 +1,4 @@
-Placosphaeria asphodeli Brunaud SPECIES
-=======
+# Placosphaeria asphodeli Brunaud SPECIES
 
 #### Status
 ACCEPTED

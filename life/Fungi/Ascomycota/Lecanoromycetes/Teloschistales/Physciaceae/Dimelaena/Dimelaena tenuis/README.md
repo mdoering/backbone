@@ -1,17 +1,16 @@
-Rinodina diffractella Müll. Arg. SPECIES
-=======
+# Dimelaena tenuis (Müll. Arg.) H. Mayrhofer & Wippel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 3: 364 (1895)
+in Mayrhofer, Matzer, Wippel & Elix, Mycotaxon 58: 304 (1996)
 
 #### Original name
-Rinodina diffractella Müll. Arg.
+Catolechia tenuis Müll. Arg.
 
 ### Remarks
 null

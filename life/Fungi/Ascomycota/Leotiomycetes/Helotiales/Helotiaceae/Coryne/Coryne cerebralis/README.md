@@ -1,5 +1,4 @@
-Coryne cerebralis Velen. SPECIES
-=======
+# Coryne cerebralis Velen. SPECIES
 
 #### Status
 ACCEPTED

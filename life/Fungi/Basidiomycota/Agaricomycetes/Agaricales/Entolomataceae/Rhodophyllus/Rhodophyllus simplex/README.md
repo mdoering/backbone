@@ -1,5 +1,4 @@
-Rhodophyllus simplex Romagn. SPECIES
-=======
+# Rhodophyllus simplex Romagn. SPECIES
 
 #### Status
 ACCEPTED

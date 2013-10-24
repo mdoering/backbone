@@ -1,5 +1,4 @@
-Psathyrella albidocinerea (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella albidocinerea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

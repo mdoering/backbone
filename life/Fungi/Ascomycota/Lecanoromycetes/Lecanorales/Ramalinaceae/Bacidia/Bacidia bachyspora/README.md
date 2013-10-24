@@ -1,5 +1,4 @@
-Bacidia bachyspora SPECIES
-=======
+# Bacidia bachyspora SPECIES
 
 #### Status
 ACCEPTED

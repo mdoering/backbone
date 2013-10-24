@@ -1,5 +1,4 @@
-Caloplaca marchantii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca marchantii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

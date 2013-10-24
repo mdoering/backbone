@@ -1,5 +1,4 @@
-Marispirillum Lai, Yuan, Gu & Shao, 2009 GENUS
-=======
+# Marispirillum Lai, Yuan, Gu & Shao, 2009 GENUS
 
 #### Status
 ACCEPTED

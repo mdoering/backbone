@@ -1,5 +1,4 @@
-Stachybotrys terrestris J.H. Kong & T.Y. Zhang SPECIES
-=======
+# Stachybotrys terrestris J.H. Kong & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

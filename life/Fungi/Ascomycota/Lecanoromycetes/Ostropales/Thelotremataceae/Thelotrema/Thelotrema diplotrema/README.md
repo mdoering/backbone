@@ -1,5 +1,4 @@
-Thelotrema diplotrema Nyl. SPECIES
-=======
+# Thelotrema diplotrema Nyl. SPECIES
 
 #### Status
 ACCEPTED

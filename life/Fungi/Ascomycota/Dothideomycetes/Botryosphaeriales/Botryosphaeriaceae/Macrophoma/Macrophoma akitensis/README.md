@@ -1,5 +1,4 @@
-Macrophoma akitensis Togashi & Tsukam. SPECIES
-=======
+# Macrophoma akitensis Togashi & Tsukam. SPECIES
 
 #### Status
 ACCEPTED

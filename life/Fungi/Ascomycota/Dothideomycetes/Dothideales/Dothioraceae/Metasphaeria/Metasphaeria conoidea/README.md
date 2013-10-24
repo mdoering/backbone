@@ -1,5 +1,4 @@
-Metasphaeria conoidea Sacc. SPECIES
-=======
+# Metasphaeria conoidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

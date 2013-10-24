@@ -1,5 +1,4 @@
-Pterocorythium Haeckel, 1881 GENUS
-=======
+# Pterocorythium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

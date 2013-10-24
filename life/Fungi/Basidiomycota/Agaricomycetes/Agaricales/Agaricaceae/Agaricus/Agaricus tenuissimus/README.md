@@ -1,5 +1,4 @@
-Agaricus tenuissimus Schwein. SPECIES
-=======
+# Agaricus tenuissimus Schwein. SPECIES
 
 #### Status
 ACCEPTED

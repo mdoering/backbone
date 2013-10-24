@@ -1,5 +1,4 @@
-Trichodina canton SPECIES
-=======
+# Trichodina canton SPECIES
 
 #### Status
 ACCEPTED

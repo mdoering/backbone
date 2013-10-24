@@ -1,17 +1,16 @@
-Phoma citricarpa var. citricarpa McAlpine VARIETY
-=======
+# Guignardia citricarpa Kiely, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus Diseases of Citrus trees in Australia 21 (1899)
+Proc. Linn. Soc. N. S. W. 73: 259 (1948)
 
 #### Original name
-Phoma citricarpa var. citricarpa McAlpine
+Guignardia citricarpa Kiely, 1948
 
 ### Remarks
 null

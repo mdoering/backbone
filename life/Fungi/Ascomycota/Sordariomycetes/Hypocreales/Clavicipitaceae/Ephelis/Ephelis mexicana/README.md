@@ -1,5 +1,4 @@
-Ephelis mexicana Fr., 1868 SPECIES
-=======
+# Ephelis mexicana Fr., 1868 SPECIES
 
 #### Status
 ACCEPTED

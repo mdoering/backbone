@@ -1,5 +1,4 @@
-Stenosemella steinii Jörgensen SPECIES
-=======
+# Stenosemella steinii Jörgensen SPECIES
 
 #### Status
 ACCEPTED

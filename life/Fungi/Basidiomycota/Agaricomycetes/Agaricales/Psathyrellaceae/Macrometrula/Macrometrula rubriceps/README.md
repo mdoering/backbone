@@ -1,14 +1,13 @@
-Chitonia rubriceps (Cooke & Massee) Sacc., 1887 SPECIES
-=======
+# Macrometrula rubriceps (Cooke & Massee) Donk & Singer, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 992 (1887)
+Mycologia 40(2): 264 (1948)
 
 #### Original name
 Agaricus rubriceps Cooke & Massee, 1887

@@ -1,5 +1,4 @@
-Irene mendonciae Hansf. SPECIES
-=======
+# Irene mendonciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

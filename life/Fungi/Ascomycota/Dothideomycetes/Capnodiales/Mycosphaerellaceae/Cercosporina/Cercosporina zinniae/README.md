@@ -1,5 +1,4 @@
-Cercosporina zinniae Takah. & Yosh. SPECIES
-=======
+# Cercosporina zinniae Takah. & Yosh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea endochrysea Stirt. SPECIES
-=======
+# Usnea endochrysea Stirt. SPECIES
 
 #### Status
 ACCEPTED

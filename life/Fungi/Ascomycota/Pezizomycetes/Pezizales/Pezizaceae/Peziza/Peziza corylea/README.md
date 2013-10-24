@@ -1,5 +1,4 @@
-Peziza corylea Rebent. SPECIES
-=======
+# Peziza corylea Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria adoxae Fuckel, 1874 SPECIES
-=======
+# Septoria adoxae Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium montagnei Castagne SPECIES
-=======
+# Coniothyrium montagnei Castagne SPECIES
 
 #### Status
 ACCEPTED

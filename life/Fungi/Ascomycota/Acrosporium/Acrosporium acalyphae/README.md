@@ -1,5 +1,4 @@
-Acrosporium acalyphae (Chidd.) Subram. SPECIES
-=======
+# Acrosporium acalyphae (Chidd.) Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus plumbeotinctus Kauffman SPECIES
-=======
+# Boletus plumbeotinctus Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fusoideus Pat. SPECIES
-=======
+# Agaricus fusoideus Pat. SPECIES
 
 #### Status
 ACCEPTED

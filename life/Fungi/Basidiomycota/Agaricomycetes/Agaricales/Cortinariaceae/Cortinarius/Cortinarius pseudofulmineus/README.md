@@ -1,5 +1,4 @@
-Cortinarius pseudofulmineus Rob. Henry SPECIES
-=======
+# Cortinarius pseudofulmineus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

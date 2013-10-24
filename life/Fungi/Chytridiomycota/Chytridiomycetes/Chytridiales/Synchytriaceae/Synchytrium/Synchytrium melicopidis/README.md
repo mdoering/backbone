@@ -1,5 +1,4 @@
-Synchytrium melicopidis Cooke & Massee, 1892 SPECIES
-=======
+# Synchytrium melicopidis Cooke & Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

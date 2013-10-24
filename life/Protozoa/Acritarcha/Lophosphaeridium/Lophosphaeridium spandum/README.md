@@ -1,5 +1,4 @@
-Lophosphaeridium spandum German, 1974 SPECIES
-=======
+# Lophosphaeridium spandum German, 1974 SPECIES
 
 #### Status
 ACCEPTED

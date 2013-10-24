@@ -1,5 +1,4 @@
-Custingophora undulatistipes Pinnoi, 2003 SPECIES
-=======
+# Custingophora undulatistipes Pinnoi, 2003 SPECIES
 
 #### Status
 ACCEPTED

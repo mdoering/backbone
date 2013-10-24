@@ -1,5 +1,4 @@
-Pluteus kobayasii Hongo SPECIES
-=======
+# Pluteus kobayasii Hongo SPECIES
 
 #### Status
 ACCEPTED

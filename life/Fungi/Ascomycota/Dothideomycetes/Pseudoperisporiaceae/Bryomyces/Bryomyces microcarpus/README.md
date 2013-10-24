@@ -1,5 +1,4 @@
-Bryomyces microcarpus var. microcarpus VARIETY
-=======
+# Bryomyces microcarpus Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mitt. bot. StSamml. , Münch. 14: 247 (1978)
 
 #### Original name
-Bryomyces microcarpus var. microcarpus
+Bryomyces microcarpus Döbbeler, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelidium pryenophorum SPECIES
-=======
+# Thelidium pryenophorum SPECIES
 
 #### Status
 ACCEPTED

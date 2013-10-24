@@ -1,5 +1,4 @@
-Sphaeria sclerotium Schwein. SPECIES
-=======
+# Sphaeria sclerotium Schwein. SPECIES
 
 #### Status
 ACCEPTED

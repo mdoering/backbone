@@ -1,5 +1,4 @@
-Puccinia oblongatoides Cummins SPECIES
-=======
+# Puccinia oblongatoides Cummins SPECIES
 
 #### Status
 ACCEPTED

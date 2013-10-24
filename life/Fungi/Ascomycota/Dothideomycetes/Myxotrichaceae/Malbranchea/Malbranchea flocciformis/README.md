@@ -1,5 +1,4 @@
-Malbranchea flocciformis Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Malbranchea flocciformis Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

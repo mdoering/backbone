@@ -1,5 +1,4 @@
-Boletus flexuosipes Peck SPECIES
-=======
+# Boletus flexuosipes Peck SPECIES
 
 #### Status
 ACCEPTED

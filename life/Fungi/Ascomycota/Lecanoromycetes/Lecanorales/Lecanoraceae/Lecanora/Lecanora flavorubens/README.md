@@ -1,5 +1,4 @@
-Lecanora flavorubens (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Lecanora flavorubens (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

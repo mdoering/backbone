@@ -1,5 +1,4 @@
-Gloeocapsa fusco-lutea (Nägeli) Kützing SPECIES
-=======
+# Gloeocapsa fusco-lutea (Nägeli) Kützing SPECIES
 
 #### Status
 ACCEPTED

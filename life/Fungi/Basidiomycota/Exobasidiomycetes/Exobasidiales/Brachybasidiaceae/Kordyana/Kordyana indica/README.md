@@ -1,5 +1,4 @@
-Kordyana indica Gäum., 1922 SPECIES
-=======
+# Kordyana indica Gäum., 1922 SPECIES
 
 #### Status
 ACCEPTED

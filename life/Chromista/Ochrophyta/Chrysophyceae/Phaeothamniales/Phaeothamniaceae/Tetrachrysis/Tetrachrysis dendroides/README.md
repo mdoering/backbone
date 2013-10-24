@@ -1,5 +1,4 @@
-Tetrachrysis dendroides A.J. Dop SPECIES
-=======
+# Tetrachrysis dendroides A.J. Dop SPECIES
 
 #### Status
 ACCEPTED

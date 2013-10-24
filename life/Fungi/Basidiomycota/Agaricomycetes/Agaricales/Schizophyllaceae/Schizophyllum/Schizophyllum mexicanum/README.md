@@ -1,5 +1,4 @@
-Schizophyllum mexicanum Pat. SPECIES
-=======
+# Schizophyllum mexicanum Pat. SPECIES
 
 #### Status
 ACCEPTED

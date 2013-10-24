@@ -1,14 +1,13 @@
-Catacauma infectorium (Cooke) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora infectoria Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 384 (1915)
+Grevillea 13(no. 67): 63 (1885)
 
 #### Original name
 Phyllachora infectoria Cooke, 1885

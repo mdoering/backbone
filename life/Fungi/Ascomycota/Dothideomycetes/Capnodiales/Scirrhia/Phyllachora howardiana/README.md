@@ -1,5 +1,4 @@
-Phyllachora howardiana Petr., 1929 SPECIES
-=======
+# Phyllachora howardiana Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

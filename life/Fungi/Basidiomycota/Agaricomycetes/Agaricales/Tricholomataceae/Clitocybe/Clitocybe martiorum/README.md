@@ -1,14 +1,13 @@
-Lepista martiorum (J. Favre) Bon, 1993 SPECIES
-=======
+# Clitocybe martiorum J. Favre, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 22(no. 88): 46 (1993)
+Bull. Suisse Myco. 34(11): 169 (1956)
 
 #### Original name
 Clitocybe martiorum J. Favre, 1956

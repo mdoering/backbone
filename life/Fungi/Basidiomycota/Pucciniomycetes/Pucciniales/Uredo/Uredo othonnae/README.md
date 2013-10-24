@@ -1,5 +1,4 @@
-Uredo othonnae Jørst. SPECIES
-=======
+# Uredo othonnae Jørst. SPECIES
 
 #### Status
 ACCEPTED

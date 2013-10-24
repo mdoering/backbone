@@ -1,5 +1,4 @@
-Micropeltis similis Syd. SPECIES
-=======
+# Micropeltis similis Syd. SPECIES
 
 #### Status
 ACCEPTED

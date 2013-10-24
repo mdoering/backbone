@@ -1,5 +1,4 @@
-Coniothyrium borbonicum Thüm. SPECIES
-=======
+# Coniothyrium borbonicum Thüm. SPECIES
 
 #### Status
 ACCEPTED

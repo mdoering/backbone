@@ -1,5 +1,4 @@
-Hygrocybe reidii Kühner, 1976 SPECIES
-=======
+# Hygrocybe reidii Kühner, 1976 SPECIES
 
 #### Status
 ACCEPTED

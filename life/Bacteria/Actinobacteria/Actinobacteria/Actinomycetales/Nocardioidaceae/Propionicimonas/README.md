@@ -1,5 +1,4 @@
-Propionicimonas Akasaka et al., 2003 GENUS
-=======
+# Propionicimonas Akasaka et al., 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilia mautneri Nann. SPECIES
-=======
+# Monilia mautneri Nann. SPECIES
 
 #### Status
 ACCEPTED

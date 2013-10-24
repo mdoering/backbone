@@ -1,5 +1,4 @@
-Tubercularia celastri Schwein. SPECIES
-=======
+# Tubercularia celastri Schwein. SPECIES
 
 #### Status
 ACCEPTED

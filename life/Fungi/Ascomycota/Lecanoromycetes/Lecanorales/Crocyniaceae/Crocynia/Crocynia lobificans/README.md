@@ -1,5 +1,4 @@
-Crocynia lobificans Hue SPECIES
-=======
+# Crocynia lobificans Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muscodor roseus Worapong, Strobel & W.M. Hess, 2002 SPECIES
-=======
+# Muscodor roseus Worapong, Strobel & W.M. Hess, 2002 SPECIES
 
 #### Status
 ACCEPTED

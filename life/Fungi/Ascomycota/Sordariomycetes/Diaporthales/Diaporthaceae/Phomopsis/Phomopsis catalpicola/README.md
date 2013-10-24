@@ -1,5 +1,4 @@
-Phomopsis catalpicola Alcalde SPECIES
-=======
+# Phomopsis catalpicola Alcalde SPECIES
 
 #### Status
 ACCEPTED

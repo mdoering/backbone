@@ -1,5 +1,4 @@
-Xylaria patagonica Cromb. SPECIES
-=======
+# Xylaria patagonica Cromb. SPECIES
 
 #### Status
 ACCEPTED

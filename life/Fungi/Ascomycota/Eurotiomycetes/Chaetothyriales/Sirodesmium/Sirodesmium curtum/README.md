@@ -1,5 +1,4 @@
-Sirodesmium curtum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sirodesmium curtum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

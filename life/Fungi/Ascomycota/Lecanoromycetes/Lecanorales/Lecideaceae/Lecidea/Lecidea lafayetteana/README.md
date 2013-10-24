@@ -1,17 +1,16 @@
-Lecidea lafayettiana Vain. SPECIES
-=======
+# Lecidea lafayetteana Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 7(2): 14 (1890)
 
 #### Original name
-Lecidea lafayettiana Vain.
+Lecidea lafayetteana Vain.
 
 ### Remarks
 null

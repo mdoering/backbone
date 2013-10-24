@@ -1,5 +1,4 @@
-Mycobacterium nebraskense Mohamed et al., 2004 SPECIES
-=======
+# Mycobacterium nebraskense Mohamed et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

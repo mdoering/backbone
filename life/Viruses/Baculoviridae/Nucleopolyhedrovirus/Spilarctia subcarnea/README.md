@@ -1,5 +1,4 @@
-Spilarctia subcarnea Npv SPECIES
-=======
+# Spilarctia subcarnea Npv SPECIES
 
 #### Status
 ACCEPTED

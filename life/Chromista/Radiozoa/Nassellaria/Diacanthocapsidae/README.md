@@ -1,5 +1,4 @@
-Diacanthocapsidae O'Dogherty, 1994 FAMILY
-=======
+# Diacanthocapsidae O'Dogherty, 1994 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kalometopia Bramy, 1962 GENUS
-=======
+# Kalometopia Bramy, 1962 GENUS
 
 #### Status
 ACCEPTED

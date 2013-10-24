@@ -1,5 +1,4 @@
-Thecaphora cirsii Boud. SPECIES
-=======
+# Thecaphora cirsii Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmosphaerostylus Ruest, 1892 GENUS
-=======
+# Stigmosphaerostylus Ruest, 1892 GENUS
 
 #### Status
 ACCEPTED

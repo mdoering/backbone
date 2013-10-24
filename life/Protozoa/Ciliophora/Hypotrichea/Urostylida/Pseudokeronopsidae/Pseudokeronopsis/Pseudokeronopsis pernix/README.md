@@ -1,8 +1,7 @@
-Keronopsis pernix Wrzesniowski, 1877 SPECIES
-=======
+# Pseudokeronopsis pernix Wrzesniowski, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

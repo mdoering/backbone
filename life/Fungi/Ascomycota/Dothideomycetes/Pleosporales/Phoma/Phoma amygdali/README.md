@@ -1,5 +1,4 @@
-Phoma amygdali Oudem. SPECIES
-=======
+# Phoma amygdali Oudem. SPECIES
 
 #### Status
 ACCEPTED

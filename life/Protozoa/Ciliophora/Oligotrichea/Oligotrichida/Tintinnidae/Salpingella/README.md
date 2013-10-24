@@ -1,5 +1,4 @@
-Salpingella Jörgensen, 1924 GENUS
-=======
+# Salpingella Jörgensen, 1924 GENUS
 
 #### Status
 ACCEPTED

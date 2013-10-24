@@ -1,17 +1,16 @@
-Craterellus cornucopioides var. cornucopioides VARIETY
-=======
+# Craterellus cornucopioides (L.) Pers., 1825 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycol. eur. (Erlanga) 2: 5 (1825)
 
 #### Original name
-Craterellus cornucopioides var. cornucopioides
+Peziza cornucopioides L., 1753
 
 ### Remarks
 null

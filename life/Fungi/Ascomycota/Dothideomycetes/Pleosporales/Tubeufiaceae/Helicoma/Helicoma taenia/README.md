@@ -1,5 +1,4 @@
-Helicoma taenia R.T. Moore SPECIES
-=======
+# Helicoma taenia R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

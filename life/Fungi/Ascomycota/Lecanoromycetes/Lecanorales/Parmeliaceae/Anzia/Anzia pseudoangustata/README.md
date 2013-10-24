@@ -1,5 +1,4 @@
-Anzia pseudoangustata Yoshim. & Sipman SPECIES
-=======
+# Anzia pseudoangustata Yoshim. & Sipman SPECIES
 
 #### Status
 ACCEPTED

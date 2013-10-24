@@ -1,5 +1,4 @@
-Phomatospora caricicola Petr. SPECIES
-=======
+# Phomatospora caricicola Petr. SPECIES
 
 #### Status
 ACCEPTED

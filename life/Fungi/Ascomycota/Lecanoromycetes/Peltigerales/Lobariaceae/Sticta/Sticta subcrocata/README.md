@@ -1,5 +1,4 @@
-Sticta subcrocata Gyeln. SPECIES
-=======
+# Sticta subcrocata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

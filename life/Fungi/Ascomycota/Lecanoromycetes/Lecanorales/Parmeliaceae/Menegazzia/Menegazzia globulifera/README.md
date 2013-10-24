@@ -1,5 +1,4 @@
-Menegazzia globulifera R. Sant. SPECIES
-=======
+# Menegazzia globulifera R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria rubiginosa A.L. Sm. SPECIES
-=======
+# Calonectria rubiginosa A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

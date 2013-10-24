@@ -1,5 +1,4 @@
-Hyponectria contecta (Desm.) Höhn. SPECIES
-=======
+# Hyponectria contecta (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

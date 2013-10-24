@@ -1,5 +1,4 @@
-Pseudocercosporidium Deighton, 1973 GENUS
-=======
+# Pseudocercosporidium Deighton, 1973 GENUS
 
 #### Status
 ACCEPTED

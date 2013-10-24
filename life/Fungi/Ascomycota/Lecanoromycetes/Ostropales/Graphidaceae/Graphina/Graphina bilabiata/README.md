@@ -1,5 +1,4 @@
-Graphina bilabiata (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina bilabiata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

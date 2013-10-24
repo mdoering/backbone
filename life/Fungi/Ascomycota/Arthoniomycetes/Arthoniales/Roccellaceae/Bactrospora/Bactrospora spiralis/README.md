@@ -1,5 +1,4 @@
-Bactrospora spiralis Egea & Torrente SPECIES
-=======
+# Bactrospora spiralis Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladobotryum multiseptatum de Hoog, 1978 SPECIES
-=======
+# Cladobotryum multiseptatum de Hoog, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeoscenidiidae Riedel, 1967 FAMILY
-=======
+# Palaeoscenidiidae Riedel, 1967 FAMILY
 
 #### Status
 ACCEPTED

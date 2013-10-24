@@ -1,14 +1,13 @@
-Carnoya capitata (Marchal) Dewèvre, 1893 SPECIES
-=======
+# Mortierella capitata Marchal, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 22(no. 101): 5 (1893)
+Bull. Soc. R. Bot. Belg. , sér. 2 29: 134 (1891)
 
 #### Original name
 Mortierella capitata Marchal, 1891

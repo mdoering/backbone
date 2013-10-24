@@ -1,5 +1,4 @@
-Scolicotrichum euphorbiae Tracy & Earle SPECIES
-=======
+# Scolicotrichum euphorbiae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

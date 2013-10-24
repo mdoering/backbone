@@ -1,5 +1,4 @@
-Folliculina stylifer SPECIES
-=======
+# Folliculina stylifer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola bwaniana Mibey SPECIES
-=======
+# Meliola bwaniana Mibey SPECIES
 
 #### Status
 ACCEPTED

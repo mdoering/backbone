@@ -1,5 +1,4 @@
-Stigmina piliostigmatis M.B. Ellis SPECIES
-=======
+# Stigmina piliostigmatis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

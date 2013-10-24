@@ -1,5 +1,4 @@
-Teichospora oleicola Pass. & Beltr. SPECIES
-=======
+# Teichospora oleicola Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

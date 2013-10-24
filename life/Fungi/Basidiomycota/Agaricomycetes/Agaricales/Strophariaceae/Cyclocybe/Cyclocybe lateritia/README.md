@@ -1,5 +1,4 @@
-Cyclocybe lateritia Velen. SPECIES
-=======
+# Cyclocybe lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

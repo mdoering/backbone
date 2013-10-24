@@ -1,5 +1,4 @@
-Gnomonia oharana Y. Nisik. & H. Matsumoto SPECIES
-=======
+# Gnomonia oharana Y. Nisik. & H. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

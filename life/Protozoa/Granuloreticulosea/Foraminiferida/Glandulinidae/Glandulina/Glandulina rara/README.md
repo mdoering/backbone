@@ -1,5 +1,4 @@
-Glandulina rara McCulloch, 1977 SPECIES
-=======
+# Glandulina rara McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

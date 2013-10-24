@@ -1,5 +1,4 @@
-Staurolithites mielnicensis SPECIES
-=======
+# Staurolithites mielnicensis SPECIES
 
 #### Status
 ACCEPTED

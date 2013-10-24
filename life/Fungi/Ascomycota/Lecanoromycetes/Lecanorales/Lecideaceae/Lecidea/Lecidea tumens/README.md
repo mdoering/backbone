@@ -1,5 +1,4 @@
-Lecidea tumens Werner SPECIES
-=======
+# Lecidea tumens Werner SPECIES
 
 #### Status
 ACCEPTED

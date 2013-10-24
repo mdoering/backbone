@@ -1,5 +1,4 @@
-Lecanora endochroma Fée SPECIES
-=======
+# Lecanora endochroma Fée SPECIES
 
 #### Status
 ACCEPTED

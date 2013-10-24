@@ -1,5 +1,4 @@
-Flagelloscypha malmei W.B. Cooke SPECIES
-=======
+# Flagelloscypha malmei W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

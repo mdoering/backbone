@@ -1,14 +1,13 @@
-Sphaerella pinastri (DC.) Cooke, 1871 SPECIES
-=======
+# Guignardia pinastri (DC.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2757 (1871)
+null
 
 #### Original name
 Sphaeria pinastri DC., 1815

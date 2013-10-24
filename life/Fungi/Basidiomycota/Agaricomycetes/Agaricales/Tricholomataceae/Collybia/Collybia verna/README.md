@@ -1,5 +1,4 @@
-Collybia verna Ryman SPECIES
-=======
+# Collybia verna Ryman SPECIES
 
 #### Status
 ACCEPTED

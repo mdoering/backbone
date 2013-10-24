@@ -1,5 +1,4 @@
-Stereocladium tyroliense Vain. SPECIES
-=======
+# Stereocladium tyroliense Vain. SPECIES
 
 #### Status
 ACCEPTED

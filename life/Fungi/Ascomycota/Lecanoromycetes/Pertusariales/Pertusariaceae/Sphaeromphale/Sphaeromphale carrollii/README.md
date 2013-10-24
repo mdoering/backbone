@@ -1,5 +1,4 @@
-Sphaeromphale carrollii Mudd SPECIES
-=======
+# Sphaeromphale carrollii Mudd SPECIES
 
 #### Status
 ACCEPTED

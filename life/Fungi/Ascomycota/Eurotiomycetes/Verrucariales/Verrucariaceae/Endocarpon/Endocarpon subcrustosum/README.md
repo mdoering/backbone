@@ -1,5 +1,4 @@
-Endocarpon subcrustosum (Nyl.) Stizenb. SPECIES
-=======
+# Endocarpon subcrustosum (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

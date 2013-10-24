@@ -1,5 +1,4 @@
-Pluteus salmoneus Sathe & S.M. Kulk. SPECIES
-=======
+# Pluteus salmoneus Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

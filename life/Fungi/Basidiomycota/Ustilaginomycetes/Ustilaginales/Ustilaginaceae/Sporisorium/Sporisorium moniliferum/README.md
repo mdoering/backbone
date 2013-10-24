@@ -1,5 +1,4 @@
-Sporisorium moniliferum (Ellis & Everh.) L. Guo, 1990 SPECIES
-=======
+# Sporisorium moniliferum (Ellis & Everh.) L. Guo, 1990 SPECIES
 
 #### Status
 ACCEPTED

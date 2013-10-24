@@ -1,5 +1,4 @@
-Clitocybe oligophylla Singer SPECIES
-=======
+# Clitocybe oligophylla Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma abundans (Peck) Arthur & Fromme SPECIES
-=======
+# Dicaeoma abundans (Peck) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naevia punctiformis Beltr. SPECIES
-=======
+# Naevia punctiformis Beltr. SPECIES
 
 #### Status
 ACCEPTED

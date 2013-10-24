@@ -1,5 +1,4 @@
-Hebeloma urbanicola A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma urbanicola A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

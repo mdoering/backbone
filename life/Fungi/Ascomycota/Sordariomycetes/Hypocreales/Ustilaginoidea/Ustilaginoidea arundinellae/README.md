@@ -1,17 +1,16 @@
-Ustilaginoidea arundinella Henn. SPECIES
-=======
+# Ustilaginoidea arundinellae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 37: 157 (1905)
 
 #### Original name
-Ustilaginoidea arundinella Henn.
+Ustilaginoidea arundinellae Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thyrinula eucalypti (Cooke & Massee) H.J. Swart SPECIES
-=======
+# Thyrinula eucalypti (Cooke & Massee) H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

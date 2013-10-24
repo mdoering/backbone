@@ -1,5 +1,4 @@
-Pleurochloris lobata Pascher SPECIES
-=======
+# Pleurochloris lobata Pascher SPECIES
 
 #### Status
 ACCEPTED

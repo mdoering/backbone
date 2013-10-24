@@ -1,5 +1,4 @@
-Lepiota ananya T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota ananya T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

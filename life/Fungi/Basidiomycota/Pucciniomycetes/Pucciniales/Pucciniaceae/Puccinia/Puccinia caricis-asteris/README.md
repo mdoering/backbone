@@ -1,5 +1,4 @@
-Puccinia caricis-asteris Arthur SPECIES
-=======
+# Puccinia caricis-asteris Arthur SPECIES
 
 #### Status
 ACCEPTED

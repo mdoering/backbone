@@ -1,5 +1,4 @@
-Podosporium parasiticum G. Winter SPECIES
-=======
+# Podosporium parasiticum G. Winter SPECIES
 
 #### Status
 ACCEPTED

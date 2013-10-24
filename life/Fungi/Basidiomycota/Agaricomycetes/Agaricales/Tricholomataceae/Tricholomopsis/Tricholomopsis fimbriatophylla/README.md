@@ -1,5 +1,4 @@
-Tricholomopsis fimbriatophylla (Kauffman) Singer SPECIES
-=======
+# Tricholomopsis fimbriatophylla (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buchnera Munson et al., 1991 GENUS
-=======
+# Buchnera Munson et al., 1991 GENUS
 
 #### Status
 ACCEPTED

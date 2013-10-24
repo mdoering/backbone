@@ -1,14 +1,13 @@
-Lachnea ochroleuca (Bres.) Sacc., 1889 SPECIES
-=======
+# Tricharina ochroleuca (Bres.) Eckblad, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 182 (1889)
+Nytt Mag. Bot. 15(1-2): 61 (1968)
 
 #### Original name
 Peziza ochroleuca Bres., 1887

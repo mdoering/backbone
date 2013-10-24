@@ -1,5 +1,4 @@
-Mycoplasma buteonis Poveda et al., 1994 SPECIES
-=======
+# Mycoplasma buteonis Poveda et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

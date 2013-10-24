@@ -1,5 +1,4 @@
-Scutula stereocaulorum (Anzi) Körb. SPECIES
-=======
+# Scutula stereocaulorum (Anzi) Körb. SPECIES
 
 #### Status
 ACCEPTED

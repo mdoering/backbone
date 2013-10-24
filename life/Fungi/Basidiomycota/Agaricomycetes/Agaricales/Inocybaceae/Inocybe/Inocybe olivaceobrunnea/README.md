@@ -1,5 +1,4 @@
-Inocybe olivaceobrunnea J. Favre ex Kuyper, 1986 SPECIES
-=======
+# Inocybe olivaceobrunnea J. Favre ex Kuyper, 1986 SPECIES
 
 #### Status
 ACCEPTED

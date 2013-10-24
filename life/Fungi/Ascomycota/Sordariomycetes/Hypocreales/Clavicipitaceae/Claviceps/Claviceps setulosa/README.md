@@ -1,5 +1,4 @@
-Claviceps setulosa (Quél.) Sacc. SPECIES
-=======
+# Claviceps setulosa (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

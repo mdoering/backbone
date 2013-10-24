@@ -1,5 +1,4 @@
-Aecidium spinicola Doidge SPECIES
-=======
+# Aecidium spinicola Doidge SPECIES
 
 #### Status
 ACCEPTED

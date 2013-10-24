@@ -1,5 +1,4 @@
-Pentalamina corona H.J. Marchant SPECIES
-=======
+# Pentalamina corona H.J. Marchant SPECIES
 
 #### Status
 ACCEPTED

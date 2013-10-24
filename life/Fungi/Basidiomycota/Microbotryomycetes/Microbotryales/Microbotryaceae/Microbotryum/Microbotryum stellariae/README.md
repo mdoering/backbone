@@ -1,14 +1,13 @@
-Farinaria stellariae Sowerby, 1803 SPECIES
-=======
+# Microbotryum stellariae (Sowerby) G. Deml & Oberw., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (London) 3: pl. 396:1 (1803)
+Phytopath. Z. 104(4): 354 (1982)
 
 #### Original name
 Farinaria stellariae Sowerby, 1803

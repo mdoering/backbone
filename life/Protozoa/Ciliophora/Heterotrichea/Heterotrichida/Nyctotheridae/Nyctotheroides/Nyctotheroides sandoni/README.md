@@ -1,5 +1,4 @@
-Nyctotheroides sandoni Earl, 1970 SPECIES
-=======
+# Nyctotheroides sandoni Earl, 1970 SPECIES
 
 #### Status
 ACCEPTED

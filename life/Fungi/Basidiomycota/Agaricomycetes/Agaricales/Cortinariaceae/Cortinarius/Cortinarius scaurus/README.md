@@ -1,17 +1,16 @@
-Cortinarius scaurus subsp. scaurus SUBSPECIES
-=======
+# Cortinarius scaurus (Fr. Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 268 (1838)
+null
 
 #### Original name
-Cortinarius scaurus subsp. scaurus
+null
 
 ### Remarks
 null

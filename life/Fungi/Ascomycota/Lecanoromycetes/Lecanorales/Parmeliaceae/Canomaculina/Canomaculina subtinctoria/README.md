@@ -1,17 +1,16 @@
-Parmelia subtinctorum Zahlbr. SPECIES
-=======
+# Canomaculina subtinctoria (Zahlbr.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 65: 477 (1997)
 
 #### Original name
-null
+Parmelia subtinctoria Zahlbr.
 
 ### Remarks
 null

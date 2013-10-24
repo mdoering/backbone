@@ -1,5 +1,4 @@
-Sphaeria leprantha Fr. SPECIES
-=======
+# Sphaeria leprantha Fr. SPECIES
 
 #### Status
 ACCEPTED

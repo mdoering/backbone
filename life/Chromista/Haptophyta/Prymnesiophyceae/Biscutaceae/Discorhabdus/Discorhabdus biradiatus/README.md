@@ -1,5 +1,4 @@
-Discorhabdus biradiatus SPECIES
-=======
+# Discorhabdus biradiatus SPECIES
 
 #### Status
 ACCEPTED

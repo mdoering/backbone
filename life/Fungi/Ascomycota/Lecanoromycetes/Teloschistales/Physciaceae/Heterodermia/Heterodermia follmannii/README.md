@@ -1,5 +1,4 @@
-Heterodermia follmannii Sipman SPECIES
-=======
+# Heterodermia follmannii Sipman SPECIES
 
 #### Status
 ACCEPTED

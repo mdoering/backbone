@@ -1,5 +1,4 @@
-Collema ferax Durieu & Mont. SPECIES
-=======
+# Collema ferax Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

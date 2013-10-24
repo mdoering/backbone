@@ -1,14 +1,13 @@
-Oligoporus immitis (Peck) Niemelä, 2005 SPECIES
-=======
+# Tyromyces immitis (Peck) Bondartsev, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Niemelä, Kinnunen, Larsson Schige & Larsson, Karstenia 45(2): 78 (2005)
+The Bracket Fungi of the European Part of the U. S. S. R. and the Caucasus 228 (1953)
 
 #### Original name
 Polyporus immitis Peck, 1884

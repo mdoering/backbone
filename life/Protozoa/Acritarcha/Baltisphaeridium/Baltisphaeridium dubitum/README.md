@@ -1,5 +1,4 @@
-Baltisphaeridium dubitum Lister, 1970 SPECIES
-=======
+# Baltisphaeridium dubitum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

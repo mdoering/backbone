@@ -1,5 +1,4 @@
-Phyllactinia sinensis Y.N. Yu SPECIES
-=======
+# Phyllactinia sinensis Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachyspiraceae FAMILY
-=======
+# Brachyspiraceae FAMILY
 
 #### Status
 ACCEPTED

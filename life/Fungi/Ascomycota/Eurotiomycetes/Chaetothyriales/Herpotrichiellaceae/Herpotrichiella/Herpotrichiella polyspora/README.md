@@ -1,5 +1,4 @@
-Herpotrichiella polyspora M.E. Barr SPECIES
-=======
+# Herpotrichiella polyspora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

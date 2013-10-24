@@ -1,5 +1,4 @@
-Russula periglypta Berk. & Broome SPECIES
-=======
+# Russula periglypta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

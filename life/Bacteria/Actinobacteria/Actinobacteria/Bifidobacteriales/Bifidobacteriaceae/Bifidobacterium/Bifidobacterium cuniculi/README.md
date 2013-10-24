@@ -1,5 +1,4 @@
-Bifidobacterium cuniculi Scardovi et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium cuniculi Scardovi et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

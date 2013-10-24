@@ -1,17 +1,16 @@
-Fomes applanatus var. applanatus VARIETY
-=======
+# Ganoderma applanatum (Pers.) Pat., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomyc. Eur. (Paris) 143 (1887)
 
 #### Original name
-Fomes applanatus var. applanatus
+Boletus applanatus Pers., 1800
 
 ### Remarks
 null

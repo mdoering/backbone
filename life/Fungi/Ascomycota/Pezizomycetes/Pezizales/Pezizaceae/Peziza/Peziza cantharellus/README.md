@@ -1,5 +1,4 @@
-Peziza cantharellus L. SPECIES
-=======
+# Peziza cantharellus L. SPECIES
 
 #### Status
 ACCEPTED

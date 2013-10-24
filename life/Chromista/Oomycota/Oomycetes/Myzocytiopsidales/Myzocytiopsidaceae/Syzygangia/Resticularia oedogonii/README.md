@@ -1,5 +1,4 @@
-Resticularia oedogonii Skvortsov SPECIES
-=======
+# Resticularia oedogonii Skvortsov SPECIES
 
 #### Status
 ACCEPTED

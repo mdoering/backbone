@@ -1,5 +1,4 @@
-Pseudocercospora astroniicola U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora astroniicola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

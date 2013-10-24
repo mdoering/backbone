@@ -1,5 +1,4 @@
-Fusiformisporites acutus P. Kumar SPECIES
-=======
+# Fusiformisporites acutus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

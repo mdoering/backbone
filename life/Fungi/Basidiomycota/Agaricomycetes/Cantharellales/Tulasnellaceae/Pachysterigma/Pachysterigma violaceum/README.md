@@ -1,5 +1,4 @@
-Pachysterigma violaceum Johan-Olsen SPECIES
-=======
+# Pachysterigma violaceum Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

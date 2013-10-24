@@ -1,14 +1,13 @@
-Polyporus leucomallellus (Murrill) Murrill, 1940 SPECIES
-=======
+# Postia leucomallella (Murrill) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 67: 66 (1940)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
 Tyromyces leucomallellus Murrill, 1940

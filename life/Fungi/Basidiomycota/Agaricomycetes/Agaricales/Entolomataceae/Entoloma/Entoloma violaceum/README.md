@@ -1,5 +1,4 @@
-Entoloma violaceum Murrill SPECIES
-=======
+# Entoloma violaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

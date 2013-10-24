@@ -1,17 +1,16 @@
-Gloeocybe Earle GENUS
-=======
+# Lactarius Persoon, 1797 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 399, 409 (1909)
+Tent. disp. meth. fung. (Lipsiae) 63 (1797)
 
 #### Original name
-Gloeocybe Earle
+Lactarius Persoon, 1797
 
 ### Remarks
 null

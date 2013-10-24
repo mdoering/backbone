@@ -1,5 +1,4 @@
-Hyponectria rubescens (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Hyponectria rubescens (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

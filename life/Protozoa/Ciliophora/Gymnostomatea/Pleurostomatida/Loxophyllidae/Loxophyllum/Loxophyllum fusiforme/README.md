@@ -1,5 +1,4 @@
-Loxophyllum fusiforme SPECIES
-=======
+# Loxophyllum fusiforme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Neosemantis distephanus subsp. distephanus SUBSPECIES
-=======
+# Neosemantis distephanus Popofsky, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

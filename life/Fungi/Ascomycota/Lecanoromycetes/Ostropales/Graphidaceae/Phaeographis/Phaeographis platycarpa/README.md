@@ -1,5 +1,4 @@
-Phaeographis platycarpa var. platycarpa VARIETY
-=======
+# Phaeographis platycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 20: 284 (1894)
 
 #### Original name
-Phaeographis platycarpa var. platycarpa
+Phaeographis platycarpa Müll. Arg.
 
 ### Remarks
 null

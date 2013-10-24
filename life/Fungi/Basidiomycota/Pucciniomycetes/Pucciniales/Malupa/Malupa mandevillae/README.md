@@ -1,5 +1,4 @@
-Malupa mandevillae (Mayor) Buriticá SPECIES
-=======
+# Malupa mandevillae (Mayor) Buriticá SPECIES
 
 #### Status
 ACCEPTED

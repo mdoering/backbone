@@ -1,5 +1,4 @@
-Pseudocercospora lonchitidis (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora lonchitidis (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

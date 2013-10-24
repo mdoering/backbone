@@ -1,5 +1,4 @@
-Rivilata ius Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
-=======
+# Rivilata ius Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
 
 #### Status
 ACCEPTED

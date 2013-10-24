@@ -1,5 +1,4 @@
-Helotium septatum Velen. SPECIES
-=======
+# Helotium septatum Velen. SPECIES
 
 #### Status
 ACCEPTED

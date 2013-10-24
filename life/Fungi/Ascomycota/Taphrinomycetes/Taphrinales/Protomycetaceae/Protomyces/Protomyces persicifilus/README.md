@@ -1,5 +1,4 @@
-Protomyces persicifilus Speg. SPECIES
-=======
+# Protomyces persicifilus Speg. SPECIES
 
 #### Status
 ACCEPTED

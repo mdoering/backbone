@@ -1,5 +1,4 @@
-Schizocladia ischiensis E.C. Henry, Okuda & Kawai SPECIES
-=======
+# Schizocladia ischiensis E.C. Henry, Okuda & Kawai SPECIES
 
 #### Status
 ACCEPTED

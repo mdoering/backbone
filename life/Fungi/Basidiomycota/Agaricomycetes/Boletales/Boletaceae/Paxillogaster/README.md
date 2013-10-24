@@ -1,5 +1,4 @@
-Paxillogaster E. Horak GENUS
-=======
+# Paxillogaster E. Horak GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamulina varians Carter, 1870 SPECIES
-=======
+# Squamulina varians Carter, 1870 SPECIES
 
 #### Status
 ACCEPTED

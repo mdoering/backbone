@@ -1,5 +1,4 @@
-Camarosporium orchidicola E.K. Cash & A.M.J. Watson SPECIES
-=======
+# Camarosporium orchidicola E.K. Cash & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

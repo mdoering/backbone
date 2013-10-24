@@ -1,5 +1,4 @@
-Opegrapha diffusa Chevall. SPECIES
-=======
+# Opegrapha diffusa Chevall. SPECIES
 
 #### Status
 ACCEPTED

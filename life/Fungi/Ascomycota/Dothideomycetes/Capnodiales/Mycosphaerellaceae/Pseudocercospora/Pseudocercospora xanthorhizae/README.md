@@ -1,5 +1,4 @@
-Pseudocercospora xanthorhizae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora xanthorhizae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

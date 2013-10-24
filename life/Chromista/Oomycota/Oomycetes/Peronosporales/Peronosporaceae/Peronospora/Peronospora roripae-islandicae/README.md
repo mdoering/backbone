@@ -1,5 +1,4 @@
-Peronospora roripae-islandicae Gäum. SPECIES
-=======
+# Peronospora roripae-islandicae Gäum. SPECIES
 
 #### Status
 ACCEPTED

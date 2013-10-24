@@ -1,5 +1,4 @@
-Hypochnicium griselliniae (G. Cunn.) Boidin & Gilles SPECIES
-=======
+# Hypochnicium griselliniae (G. Cunn.) Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

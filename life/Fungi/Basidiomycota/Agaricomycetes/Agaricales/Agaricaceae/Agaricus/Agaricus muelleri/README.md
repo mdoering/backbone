@@ -1,5 +1,4 @@
-Agaricus muelleri Berk. SPECIES
-=======
+# Agaricus muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

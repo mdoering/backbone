@@ -1,5 +1,4 @@
-Dicellaesporites elsikii B. Samant SPECIES
-=======
+# Dicellaesporites elsikii B. Samant SPECIES
 
 #### Status
 ACCEPTED

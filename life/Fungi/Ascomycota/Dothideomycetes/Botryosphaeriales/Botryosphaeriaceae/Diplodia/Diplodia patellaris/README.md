@@ -1,5 +1,4 @@
-Diplodia patellaris (Wallr.) Mont. SPECIES
-=======
+# Diplodia patellaris (Wallr.) Mont. SPECIES
 
 #### Status
 ACCEPTED

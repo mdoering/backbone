@@ -1,5 +1,4 @@
-Naucoria albofimbriata Rick SPECIES
-=======
+# Naucoria albofimbriata Rick SPECIES
 
 #### Status
 ACCEPTED

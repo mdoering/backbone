@@ -1,5 +1,4 @@
-Steirochaete ricini Sacc. SPECIES
-=======
+# Steirochaete ricini Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta vinosa Speg. SPECIES
-=======
+# Pyrenochaeta vinosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebomycena madecassensis R. Heim SPECIES
-=======
+# Phlebomycena madecassensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

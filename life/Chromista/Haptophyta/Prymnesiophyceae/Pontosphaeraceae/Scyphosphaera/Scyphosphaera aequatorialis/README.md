@@ -1,5 +1,4 @@
-Scyphosphaera aequatorialis Kamptner, 1963 SPECIES
-=======
+# Scyphosphaera aequatorialis Kamptner, 1963 SPECIES
 
 #### Status
 ACCEPTED

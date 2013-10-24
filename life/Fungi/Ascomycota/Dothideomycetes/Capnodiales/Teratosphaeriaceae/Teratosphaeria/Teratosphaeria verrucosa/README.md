@@ -1,5 +1,4 @@
-Teratosphaeria verrucosa Crous & M.J. Wingf., 2009 SPECIES
-=======
+# Teratosphaeria verrucosa Crous & M.J. Wingf., 2009 SPECIES
 
 #### Status
 ACCEPTED

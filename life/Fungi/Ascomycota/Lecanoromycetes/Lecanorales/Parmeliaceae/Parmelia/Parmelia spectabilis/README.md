@@ -1,5 +1,4 @@
-Parmelia spectabilis Asahina SPECIES
-=======
+# Parmelia spectabilis Asahina SPECIES
 
 #### Status
 ACCEPTED

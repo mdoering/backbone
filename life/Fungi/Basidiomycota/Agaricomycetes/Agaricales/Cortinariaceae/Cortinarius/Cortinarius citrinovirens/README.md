@@ -1,5 +1,4 @@
-Cortinarius citrinovirens Rob. Henry SPECIES
-=======
+# Cortinarius citrinovirens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

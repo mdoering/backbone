@@ -1,5 +1,4 @@
-Hypotrachyna anziaica Hale SPECIES
-=======
+# Hypotrachyna anziaica Hale SPECIES
 
 #### Status
 ACCEPTED

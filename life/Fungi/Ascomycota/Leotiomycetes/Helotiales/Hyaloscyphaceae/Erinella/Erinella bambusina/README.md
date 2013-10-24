@@ -1,5 +1,4 @@
-Erinella bambusina Bres. SPECIES
-=======
+# Erinella bambusina Bres. SPECIES
 
 #### Status
 ACCEPTED

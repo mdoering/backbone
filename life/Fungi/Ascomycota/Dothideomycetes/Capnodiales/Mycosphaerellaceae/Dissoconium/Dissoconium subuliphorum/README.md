@@ -1,5 +1,4 @@
-Dissoconium subuliphorum (Matsush.) R.F. Castañeda SPECIES
-=======
+# Dissoconium subuliphorum (Matsush.) R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

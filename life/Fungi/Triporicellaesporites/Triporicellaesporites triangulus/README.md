@@ -1,5 +1,4 @@
-Triporicellaesporites triangulus P. Ke & Z.Y. Shi SPECIES
-=======
+# Triporicellaesporites triangulus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

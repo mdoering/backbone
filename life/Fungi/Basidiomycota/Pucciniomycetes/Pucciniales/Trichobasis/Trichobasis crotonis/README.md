@@ -1,5 +1,4 @@
-Trichobasis crotonis Cooke SPECIES
-=======
+# Trichobasis crotonis Cooke SPECIES
 
 #### Status
 ACCEPTED

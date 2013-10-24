@@ -1,5 +1,4 @@
-Pleurasiga reynoldsii Throndsen SPECIES
-=======
+# Pleurasiga reynoldsii Throndsen SPECIES
 
 #### Status
 ACCEPTED

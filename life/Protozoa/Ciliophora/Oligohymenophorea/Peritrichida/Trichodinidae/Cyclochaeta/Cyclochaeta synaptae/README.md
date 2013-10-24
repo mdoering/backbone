@@ -1,5 +1,4 @@
-Cyclochaeta synaptae SPECIES
-=======
+# Cyclochaeta synaptae SPECIES
 
 #### Status
 ACCEPTED

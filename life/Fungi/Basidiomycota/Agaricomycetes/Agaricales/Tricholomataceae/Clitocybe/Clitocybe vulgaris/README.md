@@ -1,5 +1,4 @@
-Clitocybe vulgaris Singer SPECIES
-=======
+# Clitocybe vulgaris Singer SPECIES
 
 #### Status
 ACCEPTED

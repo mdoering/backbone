@@ -1,17 +1,16 @@
-Meliola kaveriappai Hosag., C.M. Pillai & Raghu SPECIES
-=======
+# Meliola kaveriappae Hosag., C.M. Pillai & Raghu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Meliolales of India (Calcutta) 232 (1996)
 
 #### Original name
-Meliola kaveriappai Hosag., C.M. Pillai & Raghu
+Meliola kaveriappae Hosag., C.M. Pillai & Raghu
 
 ### Remarks
 null

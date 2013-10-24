@@ -1,5 +1,4 @@
-Xanthoparmelia villamiliana T.H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia villamiliana T.H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tessariae (Speg.) Dietel SPECIES
-=======
+# Puccinia tessariae (Speg.) Dietel SPECIES
 
 #### Status
 ACCEPTED

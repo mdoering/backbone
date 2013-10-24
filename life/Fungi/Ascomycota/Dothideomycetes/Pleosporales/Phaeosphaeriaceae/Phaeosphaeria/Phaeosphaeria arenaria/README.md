@@ -1,5 +1,4 @@
-Phaeosphaeria arenaria (A.L. Guyot) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria arenaria (A.L. Guyot) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

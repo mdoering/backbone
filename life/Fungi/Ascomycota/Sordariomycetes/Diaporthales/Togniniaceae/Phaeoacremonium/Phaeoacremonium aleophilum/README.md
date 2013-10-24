@@ -1,17 +1,16 @@
-Pleurostoma minimum (Tul. & C. Tul.) M.E. Barr, J.D. Rogers & Y.M. Ju, 1993 SPECIES
-=======
+# Phaeoacremonium aleophilum W. Gams, Crous, M.J. Wingf. & Mugnai, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 48: 534 (1993)
+in Crous, Gams, Wingfield & Wyk, Mycologia 88(5): 791 (1996)
 
 #### Original name
-Calosphaeria minima Tul. & C. Tul., 1863
+Phaeoacremonium aleophilum W. Gams, Crous, M.J. Wingf. & Mugnai, 1996
 
 ### Remarks
 null

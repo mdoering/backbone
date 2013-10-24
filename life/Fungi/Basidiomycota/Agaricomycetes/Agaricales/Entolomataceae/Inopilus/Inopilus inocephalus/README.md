@@ -1,5 +1,4 @@
-Inopilus inocephalus (Romagn.) Pegler SPECIES
-=======
+# Inopilus inocephalus (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

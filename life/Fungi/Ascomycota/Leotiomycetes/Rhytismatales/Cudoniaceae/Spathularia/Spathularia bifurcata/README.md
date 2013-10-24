@@ -1,5 +1,4 @@
-Spathularia bifurcata Y. Otani SPECIES
-=======
+# Spathularia bifurcata Y. Otani SPECIES
 
 #### Status
 ACCEPTED

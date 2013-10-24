@@ -1,5 +1,4 @@
-Lichen flavidus Ehrh. SPECIES
-=======
+# Lichen flavidus Ehrh. SPECIES
 
 #### Status
 ACCEPTED

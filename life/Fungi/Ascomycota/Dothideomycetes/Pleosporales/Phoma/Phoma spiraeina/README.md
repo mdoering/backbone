@@ -1,5 +1,4 @@
-Phoma spiraeina Pass. SPECIES
-=======
+# Phoma spiraeina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma laevigatoides f. laevigatoides FORM
-=======
+# Nephroma laevigatoides Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma laevigatoides f. laevigatoides
+Nephroma laevigatoides Gyeln.
 
 ### Remarks
 null

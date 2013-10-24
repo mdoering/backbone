@@ -1,17 +1,16 @@
-Diaporthe sarothamni var. genistae Rehm VARIETY
-=======
+# Diaporthe genistae Rehm, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 11: 152 (1913)
 
 #### Original name
-Diaporthe sarothamni var. genistae Rehm
+Diaporthe genistae Rehm, 1913
 
 ### Remarks
 null

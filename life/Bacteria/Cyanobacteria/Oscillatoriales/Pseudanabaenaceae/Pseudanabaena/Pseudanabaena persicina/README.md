@@ -1,5 +1,4 @@
-Pseudanabaena persicina (Reinke) Anagnostidis, 2001 SPECIES
-=======
+# Pseudanabaena persicina (Reinke) Anagnostidis, 2001 SPECIES
 
 #### Status
 ACCEPTED

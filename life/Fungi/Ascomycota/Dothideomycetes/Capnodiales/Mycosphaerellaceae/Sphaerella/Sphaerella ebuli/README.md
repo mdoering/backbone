@@ -1,5 +1,4 @@
-Sphaerella ebuli Richon SPECIES
-=======
+# Sphaerella ebuli Richon SPECIES
 
 #### Status
 ACCEPTED

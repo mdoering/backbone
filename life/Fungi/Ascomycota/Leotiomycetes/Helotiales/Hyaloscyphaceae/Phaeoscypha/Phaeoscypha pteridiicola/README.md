@@ -1,5 +1,4 @@
-Phaeoscypha pteridiicola Raitv. & Schneller SPECIES
-=======
+# Phaeoscypha pteridiicola Raitv. & Schneller SPECIES
 
 #### Status
 ACCEPTED

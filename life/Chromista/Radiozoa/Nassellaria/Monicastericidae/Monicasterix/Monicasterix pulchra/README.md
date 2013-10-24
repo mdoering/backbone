@@ -1,5 +1,4 @@
-Monicasterix pulchra SPECIES
-=======
+# Monicasterix pulchra SPECIES
 
 #### Status
 ACCEPTED

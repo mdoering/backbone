@@ -1,17 +1,16 @@
-Glutinaster Earle GENUS
-=======
+# Tricholoma (E.M. Fries) Staude, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 433 (1909)
+Schwämme Mitteldeutschl. xxviii, 125 (1857)
 
 #### Original name
-Glutinaster Earle
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

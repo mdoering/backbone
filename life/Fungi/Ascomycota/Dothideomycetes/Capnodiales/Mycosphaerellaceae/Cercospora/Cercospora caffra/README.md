@@ -1,5 +1,4 @@
-Cercospora caffra Syd. & P. Syd. SPECIES
-=======
+# Cercospora caffra Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

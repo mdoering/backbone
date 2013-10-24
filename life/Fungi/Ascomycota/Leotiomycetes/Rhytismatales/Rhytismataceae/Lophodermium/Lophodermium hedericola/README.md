@@ -1,5 +1,4 @@
-Lophodermium hedericola S. Ahmad, 1971 SPECIES
-=======
+# Lophodermium hedericola S. Ahmad, 1971 SPECIES
 
 #### Status
 ACCEPTED

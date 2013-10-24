@@ -1,5 +1,4 @@
-Tintinnopsis nordquisti SPECIES
-=======
+# Tintinnopsis nordquisti SPECIES
 
 #### Status
 ACCEPTED

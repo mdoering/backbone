@@ -1,5 +1,4 @@
-Macrosporium sophorae Turconi & Maffei SPECIES
-=======
+# Macrosporium sophorae Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

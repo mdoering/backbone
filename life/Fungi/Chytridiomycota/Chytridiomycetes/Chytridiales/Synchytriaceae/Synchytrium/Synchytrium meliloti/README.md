@@ -1,5 +1,4 @@
-Synchytrium meliloti Lingappa SPECIES
-=======
+# Synchytrium meliloti Lingappa SPECIES
 
 #### Status
 ACCEPTED

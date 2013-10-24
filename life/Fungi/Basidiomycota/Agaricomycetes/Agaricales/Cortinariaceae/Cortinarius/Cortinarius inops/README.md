@@ -1,5 +1,4 @@
-Cortinarius inops J. Favre SPECIES
-=======
+# Cortinarius inops J. Favre SPECIES
 
 #### Status
 ACCEPTED

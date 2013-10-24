@@ -1,5 +1,4 @@
-Cortinarius pseudoprivignus Rob. Henry SPECIES
-=======
+# Cortinarius pseudoprivignus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

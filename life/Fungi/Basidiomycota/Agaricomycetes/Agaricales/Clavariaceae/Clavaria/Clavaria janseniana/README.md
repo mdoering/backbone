@@ -1,8 +1,7 @@
-Clavaria janseana Holterm. SPECIES
-=======
+# Clavaria janseniana Holterm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavaria janseana Holterm.
+Clavaria janseniana Holterm.
 
 ### Remarks
 null

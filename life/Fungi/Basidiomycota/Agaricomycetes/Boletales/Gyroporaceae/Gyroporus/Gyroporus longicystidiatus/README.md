@@ -1,5 +1,4 @@
-Gyroporus longicystidiatus Nagas. & Hongo, 2001 SPECIES
-=======
+# Gyroporus longicystidiatus Nagas. & Hongo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Wanganella Sosnina, 1956 GENUS
-=======
+# Cylindrocolaniella Loeblich & Tappan, 1985 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Kiparisova, Markovski & Radchenko (Eds). Materials on paleontology. New families and Genera. Ministr. Geol. Okran Nedr Moscow: Vses. nauchno-issled. Geol. Inst. (VSEGEI) 12: 15.
+Journal foram. Res. 15 (3): 218.
 
 #### Original name
-null
+Wanganella Sosnina, 1956
 
 ### Remarks
 null

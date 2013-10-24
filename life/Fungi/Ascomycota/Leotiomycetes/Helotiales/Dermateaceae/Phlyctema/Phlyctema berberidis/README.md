@@ -1,5 +1,4 @@
-Phlyctema berberidis Höhn. SPECIES
-=======
+# Phlyctema berberidis Höhn. SPECIES
 
 #### Status
 ACCEPTED

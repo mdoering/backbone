@@ -1,5 +1,4 @@
-Diadema sieversiae (Peck) Huhndorf, 1992 SPECIES
-=======
+# Diadema sieversiae (Peck) Huhndorf, 1992 SPECIES
 
 #### Status
 ACCEPTED

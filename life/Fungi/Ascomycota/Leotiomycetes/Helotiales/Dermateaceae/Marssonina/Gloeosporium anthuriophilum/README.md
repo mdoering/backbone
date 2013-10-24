@@ -1,5 +1,4 @@
-Gloeosporium anthuriophilum Trinchieri SPECIES
-=======
+# Gloeosporium anthuriophilum Trinchieri SPECIES
 
 #### Status
 ACCEPTED

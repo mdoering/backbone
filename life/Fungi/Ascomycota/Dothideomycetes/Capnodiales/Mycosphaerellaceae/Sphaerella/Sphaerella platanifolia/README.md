@@ -1,5 +1,4 @@
-Sphaerella platanifolia Cooke SPECIES
-=======
+# Sphaerella platanifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

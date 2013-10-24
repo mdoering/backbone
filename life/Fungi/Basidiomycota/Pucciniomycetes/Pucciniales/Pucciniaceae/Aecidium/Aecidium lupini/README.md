@@ -1,5 +1,4 @@
-Aecidium lupini Peck SPECIES
-=======
+# Aecidium lupini Peck SPECIES
 
 #### Status
 ACCEPTED

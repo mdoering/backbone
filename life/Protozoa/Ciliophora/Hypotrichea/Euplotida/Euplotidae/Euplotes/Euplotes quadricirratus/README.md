@@ -1,5 +1,4 @@
-Euplotes quadricirratus subsp. quadricirratus SUBSPECIES
-=======
+# Euplotes quadricirratus SPECIES
 
 #### Status
 ACCEPTED

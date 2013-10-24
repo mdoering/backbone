@@ -1,5 +1,4 @@
-Euplotes terricola Penard, 1922 SPECIES
-=======
+# Euplotes terricola Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

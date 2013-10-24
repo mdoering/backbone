@@ -1,5 +1,4 @@
-Lactifluus minimus (W.H. Sm.) Kuntze SPECIES
-=======
+# Lactifluus minimus (W.H. Sm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cacao Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cacao Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gibberidea juniperi E. Müll. & Arx, 1955 SPECIES
-=======
+# Muellerites juniperi (E. Müll. & Arx) L. Holm, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 24: 359 (1955)
+Svensk bot. Tidskr. 62: 231 (1968)
 
 #### Original name
 Gibberidea juniperi E. Müll. & Arx, 1955

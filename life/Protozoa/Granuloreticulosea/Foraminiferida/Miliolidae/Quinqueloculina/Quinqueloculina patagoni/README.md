@@ -1,5 +1,4 @@
-Quinqueloculina patagoni SPECIES
-=======
+# Quinqueloculina patagoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pavlova pinguis J.C. Green SPECIES
-=======
+# Pavlova pinguis J.C. Green SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium vaccinii (Fuckel) Sacc. SPECIES
-=======
+# Cenangium vaccinii (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

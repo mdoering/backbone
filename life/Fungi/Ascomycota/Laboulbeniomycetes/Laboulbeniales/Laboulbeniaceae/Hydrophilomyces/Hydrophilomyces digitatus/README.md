@@ -1,5 +1,4 @@
-Hydrophilomyces digitatus F. Picard SPECIES
-=======
+# Hydrophilomyces digitatus F. Picard SPECIES
 
 #### Status
 ACCEPTED

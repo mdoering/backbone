@@ -1,5 +1,4 @@
-Coelosphaeria subconnata Sacc. SPECIES
-=======
+# Coelosphaeria subconnata Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces seriostriatus Couch & J.B. Davies SPECIES
-=======
+# Coelomomyces seriostriatus Couch & J.B. Davies SPECIES
 
 #### Status
 ACCEPTED

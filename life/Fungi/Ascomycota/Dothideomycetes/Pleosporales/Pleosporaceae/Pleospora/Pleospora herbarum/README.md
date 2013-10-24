@@ -1,17 +1,16 @@
-Sphaeria herbarum f. herbarum FORM
-=======
+# Pleospora herbarum (Pers.) Rabenh., 1854 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 78 (1801)
+Herb. myc. 2: no. 547 (1854)
 
 #### Original name
-Sphaeria herbarum f. herbarum
+Pleospora herbarum (Pers.) Rabenh., 1854
 
 ### Remarks
 null

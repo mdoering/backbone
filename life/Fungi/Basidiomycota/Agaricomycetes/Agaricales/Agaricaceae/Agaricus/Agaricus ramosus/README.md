@@ -1,5 +1,4 @@
-Agaricus ramosus Vet. {?} SPECIES
-=======
+# Agaricus ramosus Vet. {?} SPECIES
 
 #### Status
 ACCEPTED

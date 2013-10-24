@@ -1,5 +1,4 @@
-Marinobacter pelagius Xu, Wu, Wang, Yang, Oren & Wu, 2008 SPECIES
-=======
+# Marinobacter pelagius Xu, Wu, Wang, Yang, Oren & Wu, 2008 SPECIES
 
 #### Status
 ACCEPTED

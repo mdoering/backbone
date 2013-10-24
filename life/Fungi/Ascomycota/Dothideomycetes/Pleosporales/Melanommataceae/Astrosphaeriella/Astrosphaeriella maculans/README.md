@@ -1,5 +1,4 @@
-Astrosphaeriella maculans (Rehm) Aptroot, K.D. Hyde & Joanne E. Taylor SPECIES
-=======
+# Astrosphaeriella maculans (Rehm) Aptroot, K.D. Hyde & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

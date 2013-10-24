@@ -1,5 +1,4 @@
-Pyxine frostii Tuck. SPECIES
-=======
+# Pyxine frostii Tuck. SPECIES
 
 #### Status
 ACCEPTED

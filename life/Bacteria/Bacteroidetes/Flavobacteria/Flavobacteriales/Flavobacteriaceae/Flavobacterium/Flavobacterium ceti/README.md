@@ -1,5 +1,4 @@
-Flavobacterium ceti Vela, Fernandez, Sanchez-Porro, Sierra, Mendez, Arbelo, Ventosa, Dominguez & Fernandez-Garayzabal, 2007 SPECIES
-=======
+# Flavobacterium ceti Vela, Fernandez, Sanchez-Porro, Sierra, Mendez, Arbelo, Ventosa, Dominguez & Fernandez-Garayzabal, 2007 SPECIES
 
 #### Status
 ACCEPTED

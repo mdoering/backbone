@@ -1,5 +1,4 @@
-Phlyctochytrium marilandicum Sparrow SPECIES
-=======
+# Phlyctochytrium marilandicum Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca ambitiosa (Darb.) Zahlbr. SPECIES
-=======
+# Caloplaca ambitiosa (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

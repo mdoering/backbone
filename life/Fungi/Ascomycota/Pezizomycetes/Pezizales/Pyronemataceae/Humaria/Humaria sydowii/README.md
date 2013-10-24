@@ -1,5 +1,4 @@
-Humaria sydowii (Rehm) Sacc. SPECIES
-=======
+# Humaria sydowii (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryometopus sphagni (Penard, 1922) Kahl, 1932 SPECIES
-=======
+# Bryometopus sphagni (Penard, 1922) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

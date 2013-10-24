@@ -1,5 +1,4 @@
-Ephelina viburni (Fuckel) Sacc. SPECIES
-=======
+# Ephelina viburni (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

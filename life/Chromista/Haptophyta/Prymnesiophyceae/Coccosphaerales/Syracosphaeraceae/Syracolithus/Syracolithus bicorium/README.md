@@ -1,5 +1,4 @@
-Syracolithus bicorium A. Kleijne SPECIES
-=======
+# Syracolithus bicorium A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

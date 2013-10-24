@@ -1,5 +1,4 @@
-Diatrype atlantica Lar.N. Vassiljeva SPECIES
-=======
+# Diatrype atlantica Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

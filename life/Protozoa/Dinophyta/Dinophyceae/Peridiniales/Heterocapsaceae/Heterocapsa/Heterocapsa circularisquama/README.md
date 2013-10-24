@@ -1,5 +1,4 @@
-Heterocapsa circularisquama Horiguchi SPECIES
-=======
+# Heterocapsa circularisquama Horiguchi SPECIES
 
 #### Status
 ACCEPTED

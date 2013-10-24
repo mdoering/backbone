@@ -1,5 +1,4 @@
-Scleroderma chrysastrum G.W. Martin SPECIES
-=======
+# Scleroderma chrysastrum G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

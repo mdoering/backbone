@@ -1,5 +1,4 @@
-Sphaceloma pongamiae Wani & Thirum., 1971 SPECIES
-=======
+# Sphaceloma pongamiae Wani & Thirum., 1971 SPECIES
 
 #### Status
 ACCEPTED

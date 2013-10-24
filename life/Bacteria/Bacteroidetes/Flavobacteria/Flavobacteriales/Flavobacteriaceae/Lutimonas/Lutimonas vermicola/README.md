@@ -1,5 +1,4 @@
-Lutimonas vermicola Yang, Choo & Cho, 2007 SPECIES
-=======
+# Lutimonas vermicola Yang, Choo & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

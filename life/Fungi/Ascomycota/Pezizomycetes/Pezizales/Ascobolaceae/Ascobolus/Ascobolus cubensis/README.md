@@ -1,5 +1,4 @@
-Ascobolus cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Ascobolus cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma pertinax (Fr.) Ricken SPECIES
-=======
+# Hypholoma pertinax (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria atrotomentosa Orange & Wolseley SPECIES
-=======
+# Lepraria atrotomentosa Orange & Wolseley SPECIES
 
 #### Status
 ACCEPTED

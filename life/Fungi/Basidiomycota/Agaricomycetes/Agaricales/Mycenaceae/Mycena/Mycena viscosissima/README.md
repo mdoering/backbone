@@ -1,5 +1,4 @@
-Mycena viscosissima Métrod SPECIES
-=======
+# Mycena viscosissima Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fusicladium brevipes Ellis & Everh. SPECIES
-=======
+# Fusicladium brevipus Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 5(2): 69 (1889)
 
 #### Original name
-Fusicladium brevipes Ellis & Everh.
+Fusicladium brevipus Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pirella Bainier, 1882 GENUS
-=======
+# Pirella Bainier, 1882 GENUS
 
 #### Status
 ACCEPTED

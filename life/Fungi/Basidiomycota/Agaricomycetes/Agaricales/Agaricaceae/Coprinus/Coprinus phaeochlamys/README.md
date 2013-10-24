@@ -1,5 +1,4 @@
-Coprinus phaeochlamys Bogart SPECIES
-=======
+# Coprinus phaeochlamys Bogart SPECIES
 
 #### Status
 ACCEPTED

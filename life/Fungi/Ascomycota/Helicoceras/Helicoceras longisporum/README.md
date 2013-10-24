@@ -1,5 +1,4 @@
-Helicoceras longisporum Subram. SPECIES
-=======
+# Helicoceras longisporum Subram. SPECIES
 
 #### Status
 ACCEPTED

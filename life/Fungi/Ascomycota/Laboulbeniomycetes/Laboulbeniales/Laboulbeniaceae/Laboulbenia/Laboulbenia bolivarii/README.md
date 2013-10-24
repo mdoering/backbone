@@ -1,5 +1,4 @@
-Laboulbenia bolivarii Gonz. Frag. SPECIES
-=======
+# Laboulbenia bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

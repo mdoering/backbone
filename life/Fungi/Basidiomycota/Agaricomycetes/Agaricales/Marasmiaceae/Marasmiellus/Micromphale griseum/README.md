@@ -1,5 +1,4 @@
-Micromphale griseum Singer SPECIES
-=======
+# Micromphale griseum Singer SPECIES
 
 #### Status
 ACCEPTED

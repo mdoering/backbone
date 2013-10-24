@@ -1,5 +1,4 @@
-Barakella fortunata Cramer & Díez, 1977 SPECIES
-=======
+# Barakella fortunata Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

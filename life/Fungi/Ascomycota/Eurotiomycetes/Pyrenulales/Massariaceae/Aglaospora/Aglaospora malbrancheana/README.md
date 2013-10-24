@@ -1,5 +1,4 @@
-Aglaospora malbrancheana Sacc. SPECIES
-=======
+# Aglaospora malbrancheana Sacc. SPECIES
 
 #### Status
 ACCEPTED

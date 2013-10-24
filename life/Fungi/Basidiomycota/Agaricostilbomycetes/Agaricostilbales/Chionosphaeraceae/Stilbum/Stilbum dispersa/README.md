@@ -1,5 +1,4 @@
-Stilbum dispersa Kirschst. SPECIES
-=======
+# Stilbum dispersa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

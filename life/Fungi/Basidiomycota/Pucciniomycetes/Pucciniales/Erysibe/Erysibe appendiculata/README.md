@@ -1,5 +1,4 @@
-Erysibe appendiculata Wallr. SPECIES
-=======
+# Erysibe appendiculata Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praetintinnopsella Borza, 1969 GENUS
-=======
+# Praetintinnopsella Borza, 1969 GENUS
 
 #### Status
 ACCEPTED

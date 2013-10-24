@@ -1,5 +1,4 @@
-Cochliomyces trinitatis Thaxt., 1931 SPECIES
-=======
+# Cochliomyces trinitatis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

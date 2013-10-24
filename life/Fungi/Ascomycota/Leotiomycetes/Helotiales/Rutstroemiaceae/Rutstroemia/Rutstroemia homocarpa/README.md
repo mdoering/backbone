@@ -1,5 +1,4 @@
-Rutstroemia homocarpa P. Karst. SPECIES
-=======
+# Rutstroemia homocarpa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporoblastia intermixta (Nyl.) Trevis. SPECIES
-=======
+# Sporoblastia intermixta (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria megalotheca Theiss. SPECIES
-=======
+# Amphisphaeria megalotheca Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena rigidula P. Karst. SPECIES
-=======
+# Mycena rigidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

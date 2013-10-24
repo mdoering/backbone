@@ -1,5 +1,4 @@
-Brochopsophosphaera vitilis Chibrikova, 1972 SPECIES
-=======
+# Brochopsophosphaera vitilis Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

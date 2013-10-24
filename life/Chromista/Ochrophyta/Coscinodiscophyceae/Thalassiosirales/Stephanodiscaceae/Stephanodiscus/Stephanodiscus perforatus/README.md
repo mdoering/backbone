@@ -1,5 +1,4 @@
-Stephanodiscus perforatus Genkal & Kuzmin SPECIES
-=======
+# Stephanodiscus perforatus Genkal & Kuzmin SPECIES
 
 #### Status
 ACCEPTED

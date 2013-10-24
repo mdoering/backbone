@@ -1,5 +1,4 @@
-Fusarium brassicae (Thüm.) Sacc., 1880 SPECIES
-=======
+# Fusarium brassicae (Thüm.) Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

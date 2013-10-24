@@ -1,5 +1,4 @@
-Ascochyta funckiae Bondartsev & Trusova SPECIES
-=======
+# Ascochyta funckiae Bondartsev & Trusova SPECIES
 
 #### Status
 ACCEPTED

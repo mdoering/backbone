@@ -1,5 +1,4 @@
-Uromyces scaevolae G. Cunn., 1930 SPECIES
-=======
+# Uromyces scaevolae G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

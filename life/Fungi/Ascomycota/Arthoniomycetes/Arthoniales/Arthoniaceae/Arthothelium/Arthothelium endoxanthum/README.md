@@ -1,5 +1,4 @@
-Arthothelium endoxanthum Müll. Arg. SPECIES
-=======
+# Arthothelium endoxanthum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

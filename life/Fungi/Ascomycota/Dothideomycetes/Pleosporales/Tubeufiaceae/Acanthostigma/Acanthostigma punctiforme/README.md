@@ -1,5 +1,4 @@
-Acanthostigma punctiforme E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Acanthostigma punctiforme E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

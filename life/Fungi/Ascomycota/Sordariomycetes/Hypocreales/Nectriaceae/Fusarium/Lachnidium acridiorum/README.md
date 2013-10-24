@@ -1,5 +1,4 @@
-Lachnidium acridiorum (Trab.) Giard SPECIES
-=======
+# Lachnidium acridiorum (Trab.) Giard SPECIES
 
 #### Status
 ACCEPTED

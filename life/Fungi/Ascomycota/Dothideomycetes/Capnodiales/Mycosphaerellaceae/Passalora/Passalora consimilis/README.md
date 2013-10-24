@@ -1,5 +1,4 @@
-Passalora consimilis (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora consimilis (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

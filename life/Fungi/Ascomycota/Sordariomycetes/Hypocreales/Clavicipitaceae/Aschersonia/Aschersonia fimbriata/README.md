@@ -1,5 +1,4 @@
-Aschersonia fimbriata Petch SPECIES
-=======
+# Aschersonia fimbriata Petch SPECIES
 
 #### Status
 ACCEPTED

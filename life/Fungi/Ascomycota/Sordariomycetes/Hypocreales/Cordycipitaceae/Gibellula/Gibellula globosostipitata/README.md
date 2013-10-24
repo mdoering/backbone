@@ -1,5 +1,4 @@
-Gibellula globosostipitata Kobayasi & Shimizu SPECIES
-=======
+# Gibellula globosostipitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

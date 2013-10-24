@@ -1,5 +1,4 @@
-Cryptosporium baptisiae Oudem. SPECIES
-=======
+# Cryptosporium baptisiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

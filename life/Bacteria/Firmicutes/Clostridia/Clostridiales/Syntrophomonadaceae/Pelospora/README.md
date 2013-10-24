@@ -1,5 +1,4 @@
-Pelospora Matthies et al., 2000 GENUS
-=======
+# Pelospora Matthies et al., 2000 GENUS
 
 #### Status
 ACCEPTED

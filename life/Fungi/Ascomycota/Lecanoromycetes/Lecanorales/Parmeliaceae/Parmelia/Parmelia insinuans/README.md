@@ -1,5 +1,4 @@
-Parmelia insinuans Nyl. SPECIES
-=======
+# Parmelia insinuans Nyl. SPECIES
 
 #### Status
 ACCEPTED

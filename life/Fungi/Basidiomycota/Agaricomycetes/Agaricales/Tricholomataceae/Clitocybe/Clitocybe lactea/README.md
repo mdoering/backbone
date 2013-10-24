@@ -1,5 +1,4 @@
-Clitocybe lactea Velen. SPECIES
-=======
+# Clitocybe lactea Velen. SPECIES
 
 #### Status
 ACCEPTED

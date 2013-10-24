@@ -1,14 +1,13 @@
-Crocicreas variabile Nograsek & Matzer, 1991 SPECIES
-=======
+# Grahamiella variabile (Nograsek & Matzer) Spooner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 53(3-4): 453 (1991)
+in Pegler, Roberts & Spooner, Mycologist 13(1): 19 (1999)
 
 #### Original name
 Crocicreas variabile Nograsek & Matzer, 1991

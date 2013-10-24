@@ -1,5 +1,4 @@
-Mycoleptodon licentii Pilát SPECIES
-=======
+# Mycoleptodon licentii Pilát SPECIES
 
 #### Status
 ACCEPTED

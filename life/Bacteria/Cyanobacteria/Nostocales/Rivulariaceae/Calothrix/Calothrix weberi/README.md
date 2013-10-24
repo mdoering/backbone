@@ -1,5 +1,4 @@
-Calothrix weberi Schmidle SPECIES
-=======
+# Calothrix weberi Schmidle SPECIES
 
 #### Status
 ACCEPTED

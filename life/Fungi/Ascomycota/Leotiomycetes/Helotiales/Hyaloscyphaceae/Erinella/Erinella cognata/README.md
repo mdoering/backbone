@@ -1,5 +1,4 @@
-Erinella cognata Pat. SPECIES
-=======
+# Erinella cognata Pat. SPECIES
 
 #### Status
 ACCEPTED

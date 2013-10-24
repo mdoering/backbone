@@ -1,5 +1,4 @@
-Sphaerocista alba Preuss SPECIES
-=======
+# Sphaerocista alba Preuss SPECIES
 
 #### Status
 ACCEPTED

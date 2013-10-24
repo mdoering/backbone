@@ -1,5 +1,4 @@
-Coccolithus actinosus L.E. Stover SPECIES
-=======
+# Coccolithus actinosus L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

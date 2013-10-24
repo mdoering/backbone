@@ -1,5 +1,4 @@
-Didymosphaeria victoriensis Sacc. SPECIES
-=======
+# Didymosphaeria victoriensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

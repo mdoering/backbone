@@ -1,5 +1,4 @@
-Uromyces loranthi H.S. Jacks. SPECIES
-=======
+# Uromyces loranthi H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acrosporium pirinum (Ellis & Everh.) Sumst. SPECIES
-=======
+# Acrosporium pyrinum (Ellis & Everh.) Sumst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 5(2): 58 (1913)
 
 #### Original name
 Oidium pyrinum Ellis & Everh.

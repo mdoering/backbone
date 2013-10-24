@@ -1,5 +1,4 @@
-Marasmiellus enodis Singer SPECIES
-=======
+# Marasmiellus enodis Singer SPECIES
 
 #### Status
 ACCEPTED

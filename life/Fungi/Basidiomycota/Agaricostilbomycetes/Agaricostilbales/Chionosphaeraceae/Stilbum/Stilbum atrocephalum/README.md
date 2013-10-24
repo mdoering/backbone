@@ -1,5 +1,4 @@
-Stilbum atrocephalum Ellis SPECIES
-=======
+# Stilbum atrocephalum Ellis SPECIES
 
 #### Status
 ACCEPTED

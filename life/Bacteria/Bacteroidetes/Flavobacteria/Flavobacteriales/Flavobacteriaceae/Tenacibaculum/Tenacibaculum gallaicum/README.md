@@ -1,5 +1,4 @@
-Tenacibaculum gallaicum Pineiro-Vidal, Riaza & Santos, 2008 SPECIES
-=======
+# Tenacibaculum gallaicum Pineiro-Vidal, Riaza & Santos, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelys tarda Quennerstedt, 1869 SPECIES
-=======
+# Enchelys tarda Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

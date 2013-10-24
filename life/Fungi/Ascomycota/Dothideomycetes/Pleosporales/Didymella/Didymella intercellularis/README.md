@@ -1,5 +1,4 @@
-Didymella intercellularis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella intercellularis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

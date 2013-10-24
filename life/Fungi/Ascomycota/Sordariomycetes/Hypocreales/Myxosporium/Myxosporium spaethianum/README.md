@@ -1,5 +1,4 @@
-Myxosporium spaethianum Allesch. SPECIES
-=======
+# Myxosporium spaethianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

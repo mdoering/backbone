@@ -1,5 +1,4 @@
-Phyllachora ulcerata Massee, 1899 SPECIES
-=======
+# Phyllachora ulcerata Massee, 1899 SPECIES
 
 #### Status
 DOUBTFUL

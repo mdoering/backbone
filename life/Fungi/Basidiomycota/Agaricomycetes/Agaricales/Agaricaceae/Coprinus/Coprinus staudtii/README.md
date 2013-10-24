@@ -1,5 +1,4 @@
-Coprinus staudtii Henn. SPECIES
-=======
+# Coprinus staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

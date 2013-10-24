@@ -1,5 +1,4 @@
-Hyaloscypha lycopodii Velen. SPECIES
-=======
+# Hyaloscypha lycopodii Velen. SPECIES
 
 #### Status
 ACCEPTED

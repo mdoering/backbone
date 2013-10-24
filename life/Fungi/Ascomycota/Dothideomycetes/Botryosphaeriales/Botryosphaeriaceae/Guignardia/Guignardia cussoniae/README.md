@@ -1,5 +1,4 @@
-Guignardia cussoniae Crous SPECIES
-=======
+# Guignardia cussoniae Crous SPECIES
 
 #### Status
 ACCEPTED

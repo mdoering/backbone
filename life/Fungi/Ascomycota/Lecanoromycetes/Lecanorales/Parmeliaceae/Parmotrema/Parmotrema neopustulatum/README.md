@@ -1,5 +1,4 @@
-Parmotrema neopustulatum Kurok. SPECIES
-=======
+# Parmotrema neopustulatum Kurok. SPECIES
 
 #### Status
 ACCEPTED

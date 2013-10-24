@@ -1,5 +1,4 @@
-Aecidium trollii A. Blytt SPECIES
-=======
+# Aecidium trollii A. Blytt SPECIES
 
 #### Status
 ACCEPTED

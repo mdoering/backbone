@@ -1,5 +1,4 @@
-Puccinia cumula Arthur & Cummins SPECIES
-=======
+# Puccinia cumula Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

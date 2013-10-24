@@ -1,14 +1,13 @@
-Cystopus swertiae (Berl. & Kom.) Sacc. & Trotter, 1912 SPECIES
-=======
+# Albugo swertiae (Berl. & Kom.) G.W. Wilson, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 72 (1907)
 
 #### Original name
 Cystopus convolvulacearum var. swertiae Berl. & Kom., 1903

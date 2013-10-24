@@ -1,5 +1,4 @@
-Clavaria incurvata Morgan SPECIES
-=======
+# Clavaria incurvata Morgan SPECIES
 
 #### Status
 ACCEPTED

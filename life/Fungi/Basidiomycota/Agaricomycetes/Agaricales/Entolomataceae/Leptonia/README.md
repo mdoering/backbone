@@ -1,5 +1,4 @@
-Leptonia GENUS
-=======
+# Leptonia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota bicolor (Speg.) Singer SPECIES
-=======
+# Pholiota bicolor (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

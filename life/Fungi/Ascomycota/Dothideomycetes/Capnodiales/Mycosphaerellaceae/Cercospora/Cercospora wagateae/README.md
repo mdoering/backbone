@@ -1,5 +1,4 @@
-Cercospora wagateae Thirum. & Govindu SPECIES
-=======
+# Cercospora wagateae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

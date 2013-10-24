@@ -1,5 +1,4 @@
-Crocynia albomarginata Hue SPECIES
-=======
+# Crocynia albomarginata Hue SPECIES
 
 #### Status
 ACCEPTED

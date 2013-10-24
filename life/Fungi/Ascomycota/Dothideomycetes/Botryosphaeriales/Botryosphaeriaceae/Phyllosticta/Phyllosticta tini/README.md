@@ -1,5 +1,4 @@
-Phyllosticta tini Arcang. SPECIES
-=======
+# Phyllosticta tini Arcang. SPECIES
 
 #### Status
 ACCEPTED

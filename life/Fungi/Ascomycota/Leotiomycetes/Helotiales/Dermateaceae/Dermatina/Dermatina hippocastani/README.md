@@ -1,5 +1,4 @@
-Dermatina hippocastani SPECIES
-=======
+# Dermatina hippocastani SPECIES
 
 #### Status
 ACCEPTED

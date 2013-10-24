@@ -1,5 +1,4 @@
-Gloeodontia Boidin GENUS
-=======
+# Gloeodontia Boidin GENUS
 
 #### Status
 ACCEPTED

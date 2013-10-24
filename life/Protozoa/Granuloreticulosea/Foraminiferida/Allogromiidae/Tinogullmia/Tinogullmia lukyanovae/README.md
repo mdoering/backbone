@@ -1,5 +1,4 @@
-Tinogullmia lukyanovae Gooday, Anikeeva & Sergeeva, 2006 SPECIES
-=======
+# Tinogullmia lukyanovae Gooday, Anikeeva & Sergeeva, 2006 SPECIES
 
 #### Status
 ACCEPTED

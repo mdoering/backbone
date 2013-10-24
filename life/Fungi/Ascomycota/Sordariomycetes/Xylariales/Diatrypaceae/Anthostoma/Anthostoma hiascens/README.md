@@ -1,5 +1,4 @@
-Anthostoma hiascens (Fr.) Nitschke SPECIES
-=======
+# Anthostoma hiascens (Fr.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

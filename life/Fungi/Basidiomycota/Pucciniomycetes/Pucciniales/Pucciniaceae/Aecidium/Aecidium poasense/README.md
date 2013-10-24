@@ -1,5 +1,4 @@
-Aecidium poasense Syd. SPECIES
-=======
+# Aecidium poasense Syd. SPECIES
 
 #### Status
 ACCEPTED

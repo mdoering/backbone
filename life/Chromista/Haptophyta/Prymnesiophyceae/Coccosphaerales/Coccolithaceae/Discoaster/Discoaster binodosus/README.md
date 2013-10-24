@@ -1,5 +1,4 @@
-Discoaster binodosus Martini, 1958 SPECIES
-=======
+# Discoaster binodosus Martini, 1958 SPECIES
 
 #### Status
 ACCEPTED

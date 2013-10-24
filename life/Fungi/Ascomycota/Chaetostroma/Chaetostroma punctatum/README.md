@@ -1,5 +1,4 @@
-Chaetostroma punctatum Preuss SPECIES
-=======
+# Chaetostroma punctatum Preuss SPECIES
 
 #### Status
 ACCEPTED

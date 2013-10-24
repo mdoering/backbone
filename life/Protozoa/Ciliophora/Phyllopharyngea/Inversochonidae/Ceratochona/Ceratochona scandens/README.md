@@ -1,5 +1,4 @@
-Ceratochona scandens Jankowski, 1973 SPECIES
-=======
+# Ceratochona scandens Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus papillatus Singer SPECIES
-=======
+# Hydropus papillatus Singer SPECIES
 
 #### Status
 ACCEPTED

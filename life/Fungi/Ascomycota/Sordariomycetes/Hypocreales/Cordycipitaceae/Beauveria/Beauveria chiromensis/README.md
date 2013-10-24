@@ -1,5 +1,4 @@
-Beauveria chiromensis Sawada SPECIES
-=======
+# Beauveria chiromensis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces macnabbii Cummins, 1971 SPECIES
-=======
+# Uromyces macnabbii Cummins, 1971 SPECIES
 
 #### Status
 ACCEPTED

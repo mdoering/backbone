@@ -1,5 +1,4 @@
-Bulborrhizina africana Kurok. SPECIES
-=======
+# Bulborrhizina africana Kurok. SPECIES
 
 #### Status
 ACCEPTED

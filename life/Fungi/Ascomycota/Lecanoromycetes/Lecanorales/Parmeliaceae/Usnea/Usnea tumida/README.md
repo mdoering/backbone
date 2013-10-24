@@ -1,5 +1,4 @@
-Usnea tumida Motyka SPECIES
-=======
+# Usnea tumida Motyka SPECIES
 
 #### Status
 ACCEPTED

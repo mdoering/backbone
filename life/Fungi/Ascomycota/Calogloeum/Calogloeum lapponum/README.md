@@ -1,5 +1,4 @@
-Calogloeum lapponum (Lind) Nannf. SPECIES
-=======
+# Calogloeum lapponum (Lind) Nannf. SPECIES
 
 #### Status
 ACCEPTED

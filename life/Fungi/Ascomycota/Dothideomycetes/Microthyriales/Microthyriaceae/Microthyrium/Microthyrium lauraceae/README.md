@@ -1,5 +1,4 @@
-Microthyrium lauraceae Henn. SPECIES
-=======
+# Microthyrium lauraceae Henn. SPECIES
 
 #### Status
 ACCEPTED

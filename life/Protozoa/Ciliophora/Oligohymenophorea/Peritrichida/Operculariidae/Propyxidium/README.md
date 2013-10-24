@@ -1,5 +1,4 @@
-Propyxidium Corliss, 1979 GENUS
-=======
+# Propyxidium Corliss, 1979 GENUS
 
 #### Status
 ACCEPTED

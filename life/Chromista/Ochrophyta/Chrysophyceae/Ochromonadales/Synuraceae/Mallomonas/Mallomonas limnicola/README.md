@@ -1,5 +1,4 @@
-Mallomonas limnicola J.W.G. Lund SPECIES
-=======
+# Mallomonas limnicola J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

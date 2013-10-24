@@ -1,5 +1,4 @@
-Helotium amplum (Ellis & Everh.) Seaver SPECIES
-=======
+# Helotium amplum (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

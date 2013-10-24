@@ -1,5 +1,4 @@
-Rogellia nectrioidea Döbbeler SPECIES
-=======
+# Rogellia nectrioidea Döbbeler SPECIES
 
 #### Status
 ACCEPTED

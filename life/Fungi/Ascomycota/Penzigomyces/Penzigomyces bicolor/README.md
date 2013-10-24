@@ -1,5 +1,4 @@
-Penzigomyces bicolor (S. Hughes) Subram. SPECIES
-=======
+# Penzigomyces bicolor (S. Hughes) Subram. SPECIES
 
 #### Status
 ACCEPTED

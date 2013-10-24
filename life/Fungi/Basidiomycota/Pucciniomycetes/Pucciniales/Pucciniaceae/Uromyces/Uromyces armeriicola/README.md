@@ -1,5 +1,4 @@
-Uromyces armeriicola Speg. SPECIES
-=======
+# Uromyces armeriicola Speg. SPECIES
 
 #### Status
 ACCEPTED

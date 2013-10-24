@@ -1,14 +1,13 @@
-Aplosporella anonae (Chona & Munjal) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella annonae (Chona & Munjal) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 45: 398 (1992)
 
 #### Original name
 null

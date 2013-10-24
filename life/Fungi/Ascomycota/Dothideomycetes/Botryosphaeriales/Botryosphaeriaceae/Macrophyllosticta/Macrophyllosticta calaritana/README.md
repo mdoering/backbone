@@ -1,5 +1,4 @@
-Macrophyllosticta calaritana (Briosi & Cavara) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta calaritana (Briosi & Cavara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

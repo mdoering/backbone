@@ -1,5 +1,4 @@
-Macrophoma stachydis Politis SPECIES
-=======
+# Macrophoma stachydis Politis SPECIES
 
 #### Status
 ACCEPTED

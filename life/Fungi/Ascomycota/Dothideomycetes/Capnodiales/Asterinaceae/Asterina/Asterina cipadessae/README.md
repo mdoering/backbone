@@ -1,5 +1,4 @@
-Asterina cipadessae H.S. Yates SPECIES
-=======
+# Asterina cipadessae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

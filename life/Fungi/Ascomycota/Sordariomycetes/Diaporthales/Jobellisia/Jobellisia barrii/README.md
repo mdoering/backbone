@@ -1,5 +1,4 @@
-Jobellisia barrii Huhndorf, Lodge & F.A. Fernández SPECIES
-=======
+# Jobellisia barrii Huhndorf, Lodge & F.A. Fernández SPECIES
 
 #### Status
 ACCEPTED

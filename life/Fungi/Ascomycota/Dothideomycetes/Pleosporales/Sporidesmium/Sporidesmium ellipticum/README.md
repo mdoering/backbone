@@ -1,5 +1,4 @@
-Sporidesmium ellipticum Cooke SPECIES
-=======
+# Sporidesmium ellipticum Cooke SPECIES
 
 #### Status
 ACCEPTED

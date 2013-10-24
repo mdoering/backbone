@@ -1,5 +1,4 @@
-Discoaster okadae D. Bukry SPECIES
-=======
+# Discoaster okadae D. Bukry SPECIES
 
 #### Status
 ACCEPTED

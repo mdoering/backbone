@@ -1,5 +1,4 @@
-Triramulispora obclavata Matsush. SPECIES
-=======
+# Triramulispora obclavata Matsush. SPECIES
 
 #### Status
 ACCEPTED

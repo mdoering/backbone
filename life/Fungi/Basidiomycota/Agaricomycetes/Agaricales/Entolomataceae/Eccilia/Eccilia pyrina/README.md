@@ -1,5 +1,4 @@
-Eccilia pyrina Berk. & M.A. Curtis SPECIES
-=======
+# Eccilia pyrina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

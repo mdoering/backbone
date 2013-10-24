@@ -1,5 +1,4 @@
-Tekkeina Farinacci & Yeniay, 1995 GENUS
-=======
+# Tekkeina Farinacci & Yeniay, 1995 GENUS
 
 #### Status
 ACCEPTED

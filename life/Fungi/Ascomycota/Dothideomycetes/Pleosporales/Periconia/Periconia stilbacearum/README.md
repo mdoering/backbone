@@ -1,5 +1,4 @@
-Periconia stilbacearum P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia stilbacearum P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

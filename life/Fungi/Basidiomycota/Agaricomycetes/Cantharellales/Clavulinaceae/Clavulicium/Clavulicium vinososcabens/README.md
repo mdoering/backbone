@@ -1,5 +1,4 @@
-Clavulicium vinososcabens (Burt) Pouzar SPECIES
-=======
+# Clavulicium vinososcabens (Burt) Pouzar SPECIES
 
 #### Status
 ACCEPTED

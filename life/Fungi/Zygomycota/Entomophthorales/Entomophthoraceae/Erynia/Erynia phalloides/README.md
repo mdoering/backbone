@@ -1,14 +1,13 @@
-Zoophthora phalloides A. Batko, 1966 SPECIES
-=======
+# Erynia phalloides (A. Batko) Humber & Ben Ze'ev, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 2: 8 (1966)
+Mycotaxon 13(3): 509 (1981)
 
 #### Original name
 Zoophthora phalloides A. Batko, 1966

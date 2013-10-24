@@ -1,5 +1,4 @@
-Stridiporosporites retistriatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Stridiporosporites retistriatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pellicularia biapiculata D.P. Rogers, 1944 SPECIES
-=======
+# Thanatephorus biapiculatus (D.P. Rogers) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 7(1-4): 71 (1944)
+Mycotaxon 69: 38 (1998)
 
 #### Original name
 Pellicularia biapiculata D.P. Rogers, 1944

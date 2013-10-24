@@ -1,5 +1,4 @@
-Dimeromyces adventitiosus Thaxt. SPECIES
-=======
+# Dimeromyces adventitiosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

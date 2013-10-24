@@ -1,5 +1,4 @@
-Hanzawaia Asano, 1944 GENUS
-=======
+# Hanzawaia Asano, 1944 GENUS
 
 #### Status
 ACCEPTED

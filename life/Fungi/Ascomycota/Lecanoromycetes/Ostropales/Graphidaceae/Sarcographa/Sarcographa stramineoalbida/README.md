@@ -1,8 +1,7 @@
-Sarcographa stramineo-albida Redinger SPECIES
-=======
+# Sarcographa stramineoalbida Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcographa stramineo-albida Redinger
+Sarcographa stramineoalbida Redinger
 
 ### Remarks
 null

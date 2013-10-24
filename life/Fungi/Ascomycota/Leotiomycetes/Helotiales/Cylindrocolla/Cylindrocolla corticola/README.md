@@ -1,5 +1,4 @@
-Cylindrocolla corticola P. Karst. SPECIES
-=======
+# Cylindrocolla corticola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

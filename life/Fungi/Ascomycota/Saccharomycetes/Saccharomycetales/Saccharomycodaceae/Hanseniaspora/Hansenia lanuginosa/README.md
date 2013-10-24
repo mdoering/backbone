@@ -1,5 +1,4 @@
-Hansenia lanuginosa Zopf SPECIES
-=======
+# Hansenia lanuginosa Zopf SPECIES
 
 #### Status
 ACCEPTED

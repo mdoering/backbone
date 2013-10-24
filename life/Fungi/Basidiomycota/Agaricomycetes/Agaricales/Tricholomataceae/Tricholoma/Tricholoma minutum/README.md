@@ -1,5 +1,4 @@
-Tricholoma minutum Corner SPECIES
-=======
+# Tricholoma minutum Corner SPECIES
 
 #### Status
 ACCEPTED

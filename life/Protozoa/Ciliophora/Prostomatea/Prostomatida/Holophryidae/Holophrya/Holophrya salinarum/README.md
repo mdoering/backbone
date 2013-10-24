@@ -1,5 +1,4 @@
-Holophrya salinarum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Holophrya salinarum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

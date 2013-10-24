@@ -1,5 +1,4 @@
-Hyphoderma lintaceum var. lintaceum Wallr. VARIETY
-=======
+# Hyphoderma lintaceum Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. crypt. Germ. (Nürnberg) 2: 579 (1833)
 
 #### Original name
-Hyphoderma lintaceum var. lintaceum Wallr.
+Hyphoderma lintaceum Wallr.
 
 ### Remarks
 null

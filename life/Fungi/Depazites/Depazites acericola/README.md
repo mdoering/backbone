@@ -1,5 +1,4 @@
-Depazites acericola (Saporta) Mesch. SPECIES
-=======
+# Depazites acericola (Saporta) Mesch. SPECIES
 
 #### Status
 ACCEPTED

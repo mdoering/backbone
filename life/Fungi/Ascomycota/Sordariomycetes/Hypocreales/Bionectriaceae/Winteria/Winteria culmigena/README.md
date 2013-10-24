@@ -1,5 +1,4 @@
-Winteria culmigena P. Karst. & Maubl. SPECIES
-=======
+# Winteria culmigena P. Karst. & Maubl. SPECIES
 
 #### Status
 ACCEPTED

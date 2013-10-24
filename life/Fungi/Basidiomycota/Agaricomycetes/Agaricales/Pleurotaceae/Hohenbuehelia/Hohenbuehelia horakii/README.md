@@ -1,14 +1,13 @@
-Claudopus griseus Massee, 1899 SPECIES
-=======
+# Hohenbuehelia horakii Courtec., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 164 (1899)
+Docums Mycol. 14(nos 54-55): 82 (1984)
 
 #### Original name
 Claudopus griseus Massee, 1899

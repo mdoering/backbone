@@ -1,5 +1,4 @@
-Agaricus cespitosus J.F. Gmel. SPECIES
-=======
+# Agaricus cespitosus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthorax sulcatus Engelmann, 1862 SPECIES
-=======
+# Microthorax sulcatus Engelmann, 1862 SPECIES
 
 #### Status
 ACCEPTED

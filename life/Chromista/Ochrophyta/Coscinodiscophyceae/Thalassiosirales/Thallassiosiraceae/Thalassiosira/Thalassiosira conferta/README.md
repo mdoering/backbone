@@ -1,5 +1,4 @@
-Thalassiosira conferta Hasle SPECIES
-=======
+# Thalassiosira conferta Hasle SPECIES
 
 #### Status
 ACCEPTED

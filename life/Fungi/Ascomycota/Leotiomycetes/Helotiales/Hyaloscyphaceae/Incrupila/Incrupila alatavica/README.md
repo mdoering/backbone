@@ -1,5 +1,4 @@
-Incrupila alatavica Raitv. SPECIES
-=======
+# Incrupila alatavica Raitv. SPECIES
 
 #### Status
 ACCEPTED

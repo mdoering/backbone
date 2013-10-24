@@ -1,5 +1,4 @@
-Coralloides hystricis f. hystricis Tourn. ex Fr. FORM
-=======
+# Coralloides hystricis Tourn. ex Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coralloides hystricis f. hystricis Tourn. ex Fr.
+Coralloides hystricis Tourn. ex Fr.
 
 ### Remarks
 null

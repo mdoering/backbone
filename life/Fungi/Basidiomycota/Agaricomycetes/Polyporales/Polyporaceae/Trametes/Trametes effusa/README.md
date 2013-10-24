@@ -1,5 +1,4 @@
-Trametes effusa Speg. SPECIES
-=======
+# Trametes effusa Speg. SPECIES
 
 #### Status
 ACCEPTED

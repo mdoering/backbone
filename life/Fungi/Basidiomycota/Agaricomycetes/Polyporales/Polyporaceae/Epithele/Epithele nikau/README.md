@@ -1,14 +1,13 @@
-Skeletohydnum nikau (G. Cunn.) Jülich, 1979 SPECIES
-=======
+# Epithele nikau G. Cunn., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(3): 331 (1979)
+Trans. Roy. Soc. New Zealand 83: 629 (1956)
 
 #### Original name
 Epithele nikau G. Cunn., 1956

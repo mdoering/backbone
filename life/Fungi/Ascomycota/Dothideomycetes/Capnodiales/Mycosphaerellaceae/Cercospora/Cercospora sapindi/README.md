@@ -1,5 +1,4 @@
-Cercospora sapindi Obreg.-Bot. SPECIES
-=======
+# Cercospora sapindi Obreg.-Bot. SPECIES
 
 #### Status
 ACCEPTED

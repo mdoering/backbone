@@ -1,5 +1,4 @@
-Mycena bulbosa (Cejp) Kühner SPECIES
-=======
+# Mycena bulbosa (Cejp) Kühner SPECIES
 
 #### Status
 ACCEPTED

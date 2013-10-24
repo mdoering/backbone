@@ -1,5 +1,4 @@
-Uronema socialis Penard, 1922 SPECIES
-=======
+# Uronema socialis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

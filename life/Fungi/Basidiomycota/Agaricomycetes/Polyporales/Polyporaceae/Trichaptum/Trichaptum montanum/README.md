@@ -1,5 +1,4 @@
-Trichaptum montanum T. Hatt. SPECIES
-=======
+# Trichaptum montanum T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

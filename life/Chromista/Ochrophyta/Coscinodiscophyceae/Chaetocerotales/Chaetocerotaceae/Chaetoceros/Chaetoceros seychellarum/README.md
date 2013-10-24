@@ -1,5 +1,4 @@
-Chaetoceros seychellarum Karsten SPECIES
-=======
+# Chaetoceros seychellarum Karsten SPECIES
 
 #### Status
 ACCEPTED

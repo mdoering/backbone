@@ -1,5 +1,4 @@
-Graphis caribaea Ach. SPECIES
-=======
+# Graphis caribaea Ach. SPECIES
 
 #### Status
 ACCEPTED

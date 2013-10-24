@@ -1,5 +1,4 @@
-Asteromella atropina (Vassiljevsky) Vanev & Aa SPECIES
-=======
+# Asteromella atropina (Vassiljevsky) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

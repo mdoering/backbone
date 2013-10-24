@@ -1,5 +1,4 @@
-Phormidium usterii Schmidle SPECIES
-=======
+# Phormidium usterii Schmidle SPECIES
 
 #### Status
 ACCEPTED

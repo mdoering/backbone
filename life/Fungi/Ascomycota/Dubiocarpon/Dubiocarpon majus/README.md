@@ -1,17 +1,16 @@
-Dubiocarpon major R.W. Baxter SPECIES
-=======
+# Dubiocarpon majus R.W. Baxter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytomorphology 10: 22 + figs 6-10 (1960)
 
 #### Original name
-Dubiocarpon major R.W. Baxter
+Dubiocarpon majus R.W. Baxter
 
 ### Remarks
 null

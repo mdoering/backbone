@@ -1,5 +1,4 @@
-Cordyceps etenocephala Syd. SPECIES
-=======
+# Cordyceps etenocephala Syd. SPECIES
 
 #### Status
 ACCEPTED

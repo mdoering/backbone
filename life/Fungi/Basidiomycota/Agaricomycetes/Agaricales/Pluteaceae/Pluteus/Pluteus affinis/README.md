@@ -1,5 +1,4 @@
-Pluteus affinis Velen. SPECIES
-=======
+# Pluteus affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

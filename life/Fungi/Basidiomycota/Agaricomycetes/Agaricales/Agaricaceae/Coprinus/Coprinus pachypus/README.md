@@ -1,5 +1,4 @@
-Coprinus pachypus Berk. SPECIES
-=======
+# Coprinus pachypus Berk. SPECIES
 
 #### Status
 ACCEPTED

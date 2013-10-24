@@ -1,5 +1,4 @@
-Macroscyphus cerea (Sowerby) SPECIES
-=======
+# Macroscyphus cerea (Sowerby) SPECIES
 
 #### Status
 ACCEPTED

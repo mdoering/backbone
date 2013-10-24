@@ -1,5 +1,4 @@
-Marasmius gogolensis Henn. SPECIES
-=======
+# Marasmius gogolensis Henn. SPECIES
 
 #### Status
 ACCEPTED

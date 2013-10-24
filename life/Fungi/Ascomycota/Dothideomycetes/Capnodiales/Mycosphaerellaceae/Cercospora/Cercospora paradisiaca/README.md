@@ -1,5 +1,4 @@
-Cercospora paradisiaca Bat. & R. Garnier SPECIES
-=======
+# Cercospora paradisiaca Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

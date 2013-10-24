@@ -1,5 +1,4 @@
-Corticium murinum Berk. & Broome SPECIES
-=======
+# Corticium murinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia pathoides Rehm SPECIES
-=======
+# Lembosia pathoides Rehm SPECIES
 
 #### Status
 ACCEPTED

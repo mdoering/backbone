@@ -1,5 +1,4 @@
-Globoa Bat. & H. Maia GENUS
-=======
+# Globoa Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

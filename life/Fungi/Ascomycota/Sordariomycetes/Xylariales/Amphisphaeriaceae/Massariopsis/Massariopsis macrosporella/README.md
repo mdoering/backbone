@@ -1,5 +1,4 @@
-Massariopsis macrosporella Höhn. SPECIES
-=======
+# Massariopsis macrosporella Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces strauchii Doidge SPECIES
-=======
+# Uromyces strauchii Doidge SPECIES
 
 #### Status
 ACCEPTED

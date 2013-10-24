@@ -1,8 +1,7 @@
-Cystophyllum muricatum var. virgatum (Endlicher & Diesing) J. Agardh VARIETY
-=======
+# Cystoseira trinodis (Forsskål) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

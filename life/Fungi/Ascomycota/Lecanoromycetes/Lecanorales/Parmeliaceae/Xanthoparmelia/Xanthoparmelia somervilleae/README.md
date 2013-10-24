@@ -1,5 +1,4 @@
-Xanthoparmelia somervilleae Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia somervilleae Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globotextularia Eimer & Fickert, 1899 GENUS
-=======
+# Globotextularia Eimer & Fickert, 1899 GENUS
 
 #### Status
 ACCEPTED

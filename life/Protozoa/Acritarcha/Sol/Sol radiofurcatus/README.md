@@ -1,5 +1,4 @@
-Sol radiofurcatus Cramer, 1964 SPECIES
-=======
+# Sol radiofurcatus Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

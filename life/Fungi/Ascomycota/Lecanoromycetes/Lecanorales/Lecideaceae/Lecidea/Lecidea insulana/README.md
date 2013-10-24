@@ -1,5 +1,4 @@
-Lecidea insulana Müll. Arg. SPECIES
-=======
+# Lecidea insulana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

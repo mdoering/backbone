@@ -1,5 +1,4 @@
-Textularia lateralis Lalicker, 1935 SPECIES
-=======
+# Textularia lateralis Lalicker, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria anoista Stirt. SPECIES
-=======
+# Verrucaria anoista Stirt. SPECIES
 
 #### Status
 ACCEPTED

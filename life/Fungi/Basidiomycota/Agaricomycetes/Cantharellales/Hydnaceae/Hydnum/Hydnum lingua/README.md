@@ -1,5 +1,4 @@
-Hydnum lingua Lloyd SPECIES
-=======
+# Hydnum lingua Lloyd SPECIES
 
 #### Status
 ACCEPTED

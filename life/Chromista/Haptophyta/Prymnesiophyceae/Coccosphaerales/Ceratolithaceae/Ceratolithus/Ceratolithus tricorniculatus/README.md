@@ -1,5 +1,4 @@
-Ceratolithus tricorniculatus Gartner, 1967 SPECIES
-=======
+# Ceratolithus tricorniculatus Gartner, 1967 SPECIES
 
 #### Status
 ACCEPTED

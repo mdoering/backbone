@@ -1,5 +1,4 @@
-Amphoridium calcivorum (A. Massal.) Servít SPECIES
-=======
+# Amphoridium calcivorum (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

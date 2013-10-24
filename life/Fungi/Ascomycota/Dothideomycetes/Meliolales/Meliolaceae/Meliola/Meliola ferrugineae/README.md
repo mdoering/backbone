@@ -1,5 +1,4 @@
-Meliola ferrugineae Mibey SPECIES
-=======
+# Meliola ferrugineae Mibey SPECIES
 
 #### Status
 ACCEPTED

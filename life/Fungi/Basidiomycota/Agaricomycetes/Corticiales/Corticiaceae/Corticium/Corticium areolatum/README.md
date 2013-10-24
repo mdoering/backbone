@@ -1,5 +1,4 @@
-Corticium areolatum Bres. SPECIES
-=======
+# Corticium areolatum Bres. SPECIES
 
 #### Status
 ACCEPTED

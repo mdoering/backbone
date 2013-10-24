@@ -1,5 +1,4 @@
-Rosellinia griseocincta Starbäck SPECIES
-=======
+# Rosellinia griseocincta Starbäck SPECIES
 
 #### Status
 ACCEPTED

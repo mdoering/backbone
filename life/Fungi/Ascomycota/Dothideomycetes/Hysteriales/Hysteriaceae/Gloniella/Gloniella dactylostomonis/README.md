@@ -1,5 +1,4 @@
-Gloniella dactylostomonis Rehm SPECIES
-=======
+# Gloniella dactylostomonis Rehm SPECIES
 
 #### Status
 ACCEPTED

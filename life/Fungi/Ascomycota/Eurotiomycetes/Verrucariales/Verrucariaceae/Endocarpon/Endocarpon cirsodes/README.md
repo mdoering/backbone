@@ -1,5 +1,4 @@
-Endocarpon cirsodes Arnold SPECIES
-=======
+# Endocarpon cirsodes Arnold SPECIES
 
 #### Status
 ACCEPTED

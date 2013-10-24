@@ -1,5 +1,4 @@
-Cantharellus aureolus Cooke & Massee SPECIES
-=======
+# Cantharellus aureolus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

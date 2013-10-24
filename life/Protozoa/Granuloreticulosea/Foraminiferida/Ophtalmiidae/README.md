@@ -1,5 +1,4 @@
-Ophtalmiidae FAMILY
-=======
+# Ophtalmiidae FAMILY
 
 #### Status
 ACCEPTED

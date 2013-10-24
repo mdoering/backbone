@@ -1,17 +1,16 @@
-Lactaria praeviscida Murrill SPECIES
-=======
+# Lactarius praeviscidus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 208 (1943)
 
 #### Original name
-Lactaria praeviscida Murrill
+Lactarius praeviscidus Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strickeria floresiana (Speg.) Lindau SPECIES
-=======
+# Strickeria floresiana (Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

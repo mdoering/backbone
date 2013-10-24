@@ -1,5 +1,4 @@
-Porphyrellus indecisus (Peck) E.-J. Gilbert SPECIES
-=======
+# Porphyrellus indecisus (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca diverticulata G. Moreno & Bon SPECIES
-=======
+# Melanoleuca diverticulata G. Moreno & Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete digitata Burt, 1918 SPECIES
-=======
+# Hymenochaete digitata Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

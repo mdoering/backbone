@@ -1,17 +1,16 @@
-Lachnum victoriani S.A. Cantrell & J.H. Haines SPECIES
-=======
+# Lachnum victorianoi S.A. Cantrell & J.H. Haines SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(9): 1083 (1997)
 
 #### Original name
-Lachnum victoriani S.A. Cantrell & J.H. Haines
+Lachnum victorianoi S.A. Cantrell & J.H. Haines
 
 ### Remarks
 null

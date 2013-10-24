@@ -1,5 +1,4 @@
-Isolithus Lulyeva in Lyulyeva, 1989 GENUS
-=======
+# Isolithus Lulyeva in Lyulyeva, 1989 GENUS
 
 #### Status
 ACCEPTED

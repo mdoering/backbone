@@ -1,5 +1,4 @@
-Aecidium ampliatum H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium ampliatum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

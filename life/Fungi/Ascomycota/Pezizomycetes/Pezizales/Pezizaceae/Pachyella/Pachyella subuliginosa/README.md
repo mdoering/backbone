@@ -1,5 +1,4 @@
-Pachyella subuliginosa Donadini SPECIES
-=======
+# Pachyella subuliginosa Donadini SPECIES
 
 #### Status
 ACCEPTED

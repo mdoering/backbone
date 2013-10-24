@@ -1,14 +1,13 @@
-Gephyrorhabdus M.E. Hill, 1976 GENUS
-=======
+# Grantarhabdus M.Black, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palaeontographica (B) 156: 141.
+Proc. Yorks. Geol. Soc. 38: 403.
 
 #### Original name
 null

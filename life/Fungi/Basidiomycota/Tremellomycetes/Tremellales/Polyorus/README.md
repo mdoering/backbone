@@ -1,5 +1,4 @@
-Polyorus P.A. Karsten, 1881 GENUS
-=======
+# Polyorus P.A. Karsten, 1881 GENUS
 
 #### Status
 ACCEPTED

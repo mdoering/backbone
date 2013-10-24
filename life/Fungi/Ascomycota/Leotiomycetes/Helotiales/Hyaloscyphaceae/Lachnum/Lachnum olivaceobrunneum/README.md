@@ -1,5 +1,4 @@
-Lachnum olivaceobrunneum Spooner SPECIES
-=======
+# Lachnum olivaceobrunneum Spooner SPECIES
 
 #### Status
 ACCEPTED

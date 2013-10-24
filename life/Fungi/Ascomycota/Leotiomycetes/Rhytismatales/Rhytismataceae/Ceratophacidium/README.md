@@ -1,5 +1,4 @@
-Ceratophacidium J. Reid & Piroz. GENUS
-=======
+# Ceratophacidium J. Reid & Piroz. GENUS
 
 #### Status
 ACCEPTED

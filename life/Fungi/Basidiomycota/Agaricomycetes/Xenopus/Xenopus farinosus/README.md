@@ -1,5 +1,4 @@
-Xenopus farinosus Penz. & Sacc. SPECIES
-=======
+# Xenopus farinosus Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

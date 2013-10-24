@@ -1,5 +1,4 @@
-Macalpinomyces flaccidus S.H. He & L. Guo SPECIES
-=======
+# Macalpinomyces flaccidus S.H. He & L. Guo SPECIES
 
 #### Status
 ACCEPTED

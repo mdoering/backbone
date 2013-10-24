@@ -1,5 +1,4 @@
-Dimerium pannosum Speg. SPECIES
-=======
+# Dimerium pannosum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinodochium Syd. GENUS
-=======
+# Actinodochium Syd. GENUS
 
 #### Status
 ACCEPTED

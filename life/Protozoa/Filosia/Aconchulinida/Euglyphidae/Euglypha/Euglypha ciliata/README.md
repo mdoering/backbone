@@ -1,5 +1,4 @@
-Euglypha ciliata SPECIES
-=======
+# Euglypha ciliata SPECIES
 
 #### Status
 ACCEPTED

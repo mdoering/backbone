@@ -1,5 +1,4 @@
-Pseudocercosporella flacourtiae Kamal SPECIES
-=======
+# Pseudocercosporella flacourtiae Kamal SPECIES
 
 #### Status
 ACCEPTED

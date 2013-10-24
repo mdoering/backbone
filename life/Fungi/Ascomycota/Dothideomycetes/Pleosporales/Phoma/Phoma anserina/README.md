@@ -1,8 +1,7 @@
-Peyronellaea anserina (Marchal) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma anserina Marchal, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Phoma anserina Marchal, 1891
 
 ### Remarks
 null

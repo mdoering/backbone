@@ -1,5 +1,4 @@
-Hydrocybe constans Murrill SPECIES
-=======
+# Hydrocybe constans Murrill SPECIES
 
 #### Status
 ACCEPTED

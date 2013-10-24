@@ -1,5 +1,4 @@
-Haemogregarina laternae Lebailly, 1904 SPECIES
-=======
+# Haemogregarina laternae Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

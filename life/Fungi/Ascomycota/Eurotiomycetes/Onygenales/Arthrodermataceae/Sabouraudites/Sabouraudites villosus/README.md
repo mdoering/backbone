@@ -1,5 +1,4 @@
-Sabouraudites villosus (Minne) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites villosus (Minne) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

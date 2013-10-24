@@ -1,5 +1,4 @@
-Ramalina obtusata f. obtusata FORM
-=======
+# Ramalina obtusata (Arnold) Bitter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina obtusata f. obtusata
+Ramalina minuscula var. obtusata Arnold
 
 ### Remarks
 null

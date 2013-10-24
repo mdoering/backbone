@@ -1,5 +1,4 @@
-Agaricus tiliophila Peck SPECIES
-=======
+# Agaricus tiliophila Peck SPECIES
 
 #### Status
 ACCEPTED

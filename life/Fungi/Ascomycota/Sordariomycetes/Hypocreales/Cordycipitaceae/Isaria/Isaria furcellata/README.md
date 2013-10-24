@@ -1,5 +1,4 @@
-Isaria furcellata G. Martin SPECIES
-=======
+# Isaria furcellata G. Martin SPECIES
 
 #### Status
 ACCEPTED

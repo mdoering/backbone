@@ -1,5 +1,4 @@
-Microthyrium lagunculariae G. Winter SPECIES
-=======
+# Microthyrium lagunculariae G. Winter SPECIES
 
 #### Status
 ACCEPTED

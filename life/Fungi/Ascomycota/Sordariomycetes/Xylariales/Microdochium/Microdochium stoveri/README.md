@@ -1,5 +1,4 @@
-Microdochium stoveri (C. Booth) Samuels & I.C. Hallett SPECIES
-=======
+# Microdochium stoveri (C. Booth) Samuels & I.C. Hallett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora bryophila (Schaer.) Motyka SPECIES
-=======
+# Lecanora bryophila (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

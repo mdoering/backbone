@@ -1,5 +1,4 @@
-Ramalina allani B. de Lesd. SPECIES
-=======
+# Ramalina allani B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

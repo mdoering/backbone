@@ -1,5 +1,4 @@
-Stilbospora terminaliae S. Hughes SPECIES
-=======
+# Stilbospora terminaliae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pileolaria patzcuarensis (Holw.) Arthur SPECIES
-=======
+# Pileolaria patzcuarensis (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

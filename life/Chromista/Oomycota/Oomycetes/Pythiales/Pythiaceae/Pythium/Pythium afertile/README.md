@@ -1,5 +1,4 @@
-Pythium afertile Kanouse & T. Humphrey, 1928 SPECIES
-=======
+# Pythium afertile Kanouse & T. Humphrey, 1928 SPECIES
 
 #### Status
 ACCEPTED

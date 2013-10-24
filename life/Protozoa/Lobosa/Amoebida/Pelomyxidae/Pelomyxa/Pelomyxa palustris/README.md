@@ -1,5 +1,4 @@
-Pelomyxa palustris Greef SPECIES
-=======
+# Pelomyxa palustris Greef SPECIES
 
 #### Status
 ACCEPTED

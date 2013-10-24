@@ -1,5 +1,4 @@
-Areosphaeridium multicornutum Eaton, 1971 SPECIES
-=======
+# Areosphaeridium multicornutum Eaton, 1971 SPECIES
 
 #### Status
 ACCEPTED

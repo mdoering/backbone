@@ -1,5 +1,4 @@
-Parapeltella pitya (Sacc.) Bat. SPECIES
-=======
+# Parapeltella pitya (Sacc.) Bat. SPECIES
 
 #### Status
 ACCEPTED

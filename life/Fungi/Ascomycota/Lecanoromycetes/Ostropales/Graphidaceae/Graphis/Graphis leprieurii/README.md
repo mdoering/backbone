@@ -1,5 +1,4 @@
-Graphis leprieurii (Mont.) Nyl. SPECIES
-=======
+# Graphis leprieurii (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

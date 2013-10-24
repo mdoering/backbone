@@ -1,5 +1,4 @@
-Permodiscus GENUS
-=======
+# Permodiscus GENUS
 
 #### Status
 ACCEPTED

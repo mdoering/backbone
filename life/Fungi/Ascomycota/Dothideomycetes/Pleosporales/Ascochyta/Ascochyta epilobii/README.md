@@ -1,5 +1,4 @@
-Ascochyta epilobii Oudem., 1902 SPECIES
-=======
+# Ascochyta epilobii Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED

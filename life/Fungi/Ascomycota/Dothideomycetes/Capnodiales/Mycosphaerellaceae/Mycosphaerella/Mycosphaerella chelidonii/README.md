@@ -1,5 +1,4 @@
-Mycosphaerella chelidonii (Fautrey & F. Lamb.) Guyot {?} SPECIES
-=======
+# Mycosphaerella chelidonii (Fautrey & F. Lamb.) Guyot {?} SPECIES
 
 #### Status
 ACCEPTED

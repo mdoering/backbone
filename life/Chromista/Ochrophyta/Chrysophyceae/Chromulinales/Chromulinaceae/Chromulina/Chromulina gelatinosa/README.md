@@ -1,5 +1,4 @@
-Chromulina gelatinosa Cienkowsky SPECIES
-=======
+# Chromulina gelatinosa Cienkowsky SPECIES
 
 #### Status
 ACCEPTED

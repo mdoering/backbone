@@ -1,14 +1,13 @@
-Sphacelotheca elyonuri-candidi (Sacc. & Trotter) Hirschh. SPECIES
-=======
+# Sphacelotheca elionuri-candidi (Sacc. & Trotter) Hirschh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Las Ustilaginales de la Flora Argentina (La Plata) 119 (1986)
 
 #### Original name
 Ustilago elionuri-candidi Speg.

@@ -1,8 +1,7 @@
-Phyllosticta euphorbiaecola Brunaud SPECIES
-=======
+# Phyllosticta euphorbiicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta euphorbiaecola Brunaud
+Phyllosticta euphorbiicola Brunaud
 
 ### Remarks
 null

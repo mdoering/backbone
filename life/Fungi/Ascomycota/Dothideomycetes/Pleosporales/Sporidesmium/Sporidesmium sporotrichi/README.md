@@ -1,5 +1,4 @@
-Sporidesmium sporotrichi Corda SPECIES
-=======
+# Sporidesmium sporotrichi Corda SPECIES
 
 #### Status
 ACCEPTED

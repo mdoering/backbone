@@ -1,5 +1,4 @@
-Dictyothyrium ingae Bat., O.M. Fonseca & Peres SPECIES
-=======
+# Dictyothyrium ingae Bat., O.M. Fonseca & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella rosella Velen. SPECIES
-=======
+# Pezizella rosella Velen. SPECIES
 
 #### Status
 ACCEPTED

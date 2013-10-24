@@ -1,5 +1,4 @@
-Fungus siculus Boccone SPECIES
-=======
+# Fungus siculus Boccone SPECIES
 
 #### Status
 ACCEPTED

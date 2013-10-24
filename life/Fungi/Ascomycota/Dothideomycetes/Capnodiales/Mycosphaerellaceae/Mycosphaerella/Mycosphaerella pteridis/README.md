@@ -1,14 +1,13 @@
-Carlia pteridis (Fr.) Höhn., 1918 SPECIES
-=======
+# Mycosphaerella pteridis (Fr.) J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 63 (1918)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 341 (1894)
 
 #### Original name
 Sphaeria pteridis Rebent., 1804

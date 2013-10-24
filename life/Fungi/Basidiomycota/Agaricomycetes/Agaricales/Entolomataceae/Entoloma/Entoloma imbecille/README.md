@@ -1,17 +1,16 @@
-Entoloma fragile E. Horak, 1973 SPECIES
-=======
+# Entoloma imbecille (E. Horak) E. Horak ex Segedin & Pennycook, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 43: 56 (1973)
+N. Z. Jl Bot. 39(2): 305 (2001)
 
 #### Original name
-Entoloma fragile E. Horak, 1973
+Rhodophyllus imbecillis E. Horak, 1980
 
 ### Remarks
 null

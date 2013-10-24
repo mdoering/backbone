@@ -1,5 +1,4 @@
-Trachysporella wurthii (E. Fisch.) Syd. SPECIES
-=======
+# Trachysporella wurthii (E. Fisch.) Syd. SPECIES
 
 #### Status
 ACCEPTED

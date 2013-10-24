@@ -1,5 +1,4 @@
-Leifsonia aquatica (ex Leifson, 1962) Evtushenko et al., 2000 SPECIES
-=======
+# Leifsonia aquatica (ex Leifson, 1962) Evtushenko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

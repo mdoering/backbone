@@ -1,17 +1,16 @@
-Phyllosticta drymidis Speg. SPECIES
-=======
+# Phyllosticta drimydis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 6: 313 (1899)
 
 #### Original name
-Phyllosticta drymidis Speg.
+Phyllosticta drimydis Speg.
 
 ### Remarks
 null

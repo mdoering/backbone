@@ -1,5 +1,4 @@
-Meliola pequensis Hosag., T.K. Abraham & J.L. Crane SPECIES
-=======
+# Meliola pequensis Hosag., T.K. Abraham & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

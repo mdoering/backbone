@@ -1,5 +1,4 @@
-Lichen candelaris SPECIES
-=======
+# Lichen candelaris SPECIES
 
 #### Status
 ACCEPTED

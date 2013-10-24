@@ -1,5 +1,4 @@
-Trematosphaeria striaspora E. Müll. SPECIES
-=======
+# Trematosphaeria striaspora E. Müll. SPECIES
 
 #### Status
 ACCEPTED

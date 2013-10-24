@@ -1,5 +1,4 @@
-Lecanora johannae Lynge SPECIES
-=======
+# Lecanora johannae Lynge SPECIES
 
 #### Status
 ACCEPTED

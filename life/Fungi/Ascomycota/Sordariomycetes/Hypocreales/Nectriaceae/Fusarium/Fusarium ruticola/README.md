@@ -1,8 +1,7 @@
-Fusarium rutaecola Fautrey & Roum. SPECIES
-=======
+# Fusarium ruticola Fautrey & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium rutaecola Fautrey & Roum.
+Fusarium ruticola Fautrey & Roum.
 
 ### Remarks
 null

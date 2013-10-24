@@ -1,5 +1,4 @@
-Boletus carolinensis Beardslee SPECIES
-=======
+# Boletus carolinensis Beardslee SPECIES
 
 #### Status
 ACCEPTED

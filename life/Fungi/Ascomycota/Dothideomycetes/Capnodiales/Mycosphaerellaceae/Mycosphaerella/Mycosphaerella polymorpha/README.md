@@ -1,5 +1,4 @@
-Mycosphaerella polymorpha D.J. Sm. & C.O. Sm. SPECIES
-=======
+# Mycosphaerella polymorpha D.J. Sm. & C.O. Sm. SPECIES
 
 #### Status
 ACCEPTED

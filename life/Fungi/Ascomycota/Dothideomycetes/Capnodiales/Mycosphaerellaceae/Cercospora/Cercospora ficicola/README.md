@@ -1,5 +1,4 @@
-Cercospora ficicola Bond.-Mont. SPECIES
-=======
+# Cercospora ficicola Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

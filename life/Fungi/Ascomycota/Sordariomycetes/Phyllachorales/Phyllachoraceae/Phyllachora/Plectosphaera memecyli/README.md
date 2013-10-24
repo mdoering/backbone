@@ -1,14 +1,13 @@
-Hyponectria memecyli Petch, 1917 SPECIES
-=======
+# Plectosphaera memecyli (Petch) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 6: 328 (1917)
+Beitr. Kryptfl. Schweiz 11(no. 1): 208 (1954)
 
 #### Original name
 Hyponectria memecyli Petch, 1917

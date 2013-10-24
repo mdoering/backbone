@@ -1,5 +1,4 @@
-Calosphaeria parasitica Fuckel, 1874 SPECIES
-=======
+# Calosphaeria parasitica Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED

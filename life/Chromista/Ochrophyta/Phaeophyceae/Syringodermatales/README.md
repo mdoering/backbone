@@ -1,5 +1,4 @@
-Syringodermatales E.C. Henry, 1984 ORDER
-=======
+# Syringodermatales E.C. Henry, 1984 ORDER
 
 #### Status
 ACCEPTED

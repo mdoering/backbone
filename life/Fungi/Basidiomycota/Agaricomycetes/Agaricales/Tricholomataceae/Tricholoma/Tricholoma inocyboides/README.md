@@ -1,5 +1,4 @@
-Tricholoma inocyboides Corner SPECIES
-=======
+# Tricholoma inocyboides Corner SPECIES
 
 #### Status
 ACCEPTED

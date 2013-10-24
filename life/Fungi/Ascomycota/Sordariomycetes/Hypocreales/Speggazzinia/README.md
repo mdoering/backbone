@@ -1,5 +1,4 @@
-Speggazzinia GENUS
-=======
+# Speggazzinia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia incongrua (Berk.) Pegler SPECIES
-=======
+# Leptonia incongrua (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

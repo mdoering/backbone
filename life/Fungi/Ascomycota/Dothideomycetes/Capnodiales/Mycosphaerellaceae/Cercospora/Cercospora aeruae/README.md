@@ -1,5 +1,4 @@
-Cercospora aeruae R.K. Srivast., Narayan & N. Kumari SPECIES
-=======
+# Cercospora aeruae R.K. Srivast., Narayan & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

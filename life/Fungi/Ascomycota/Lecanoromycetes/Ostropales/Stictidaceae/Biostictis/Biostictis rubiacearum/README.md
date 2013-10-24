@@ -1,14 +1,13 @@
-Stictis rubiacearum Pat. SPECIES
-=======
+# Biostictis rubiacearum (Pat.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 220 (1895)
+Sydowia (1950)
 
 #### Original name
 Stictis rubiacearum Pat.

@@ -1,5 +1,4 @@
-Bryoscyphus aestivalis Gamundí & Spinedi, 1988 SPECIES
-=======
+# Bryoscyphus aestivalis Gamundí & Spinedi, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrera ampullacea (L.) Steud. SPECIES
-=======
+# Borrera ampullacea (L.) Steud. SPECIES
 
 #### Status
 ACCEPTED

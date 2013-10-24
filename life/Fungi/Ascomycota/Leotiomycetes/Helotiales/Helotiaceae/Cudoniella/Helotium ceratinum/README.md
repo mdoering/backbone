@@ -1,5 +1,4 @@
-Helotium ceratinum (Berk.) Dennis SPECIES
-=======
+# Helotium ceratinum (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

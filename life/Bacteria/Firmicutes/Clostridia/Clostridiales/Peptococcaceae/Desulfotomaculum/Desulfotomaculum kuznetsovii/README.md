@@ -1,5 +1,4 @@
-Desulfotomaculum kuznetsovii Nazina et al., 1990 SPECIES
-=======
+# Desulfotomaculum kuznetsovii Nazina et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

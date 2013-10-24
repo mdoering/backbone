@@ -1,5 +1,4 @@
-Polymorphina hordeola SPECIES
-=======
+# Polymorphina hordeola SPECIES
 
 #### Status
 ACCEPTED

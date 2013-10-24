@@ -1,5 +1,4 @@
-Paradentacineta Yankovskii, 1978 GENUS
-=======
+# Paradentacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

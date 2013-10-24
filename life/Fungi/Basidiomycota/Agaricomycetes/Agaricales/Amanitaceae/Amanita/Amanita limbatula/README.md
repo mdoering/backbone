@@ -1,5 +1,4 @@
-Amanita limbatula Bas SPECIES
-=======
+# Amanita limbatula Bas SPECIES
 
 #### Status
 ACCEPTED

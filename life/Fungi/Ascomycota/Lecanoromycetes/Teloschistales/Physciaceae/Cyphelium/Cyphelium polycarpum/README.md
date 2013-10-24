@@ -1,5 +1,4 @@
-Cyphelium polycarpum Zahlbr. SPECIES
-=======
+# Cyphelium polycarpum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

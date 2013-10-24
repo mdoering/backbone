@@ -1,5 +1,4 @@
-Terana subcontinua (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana subcontinua (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta inulicola (Brunaud) Allesch. SPECIES
-=======
+# Phyllosticta inulicola (Brunaud) Allesch. SPECIES
 
 #### Status
 ACCEPTED

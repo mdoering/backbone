@@ -1,5 +1,4 @@
-Boletus corallinus Humb. SPECIES
-=======
+# Boletus corallinus Humb. SPECIES
 
 #### Status
 ACCEPTED

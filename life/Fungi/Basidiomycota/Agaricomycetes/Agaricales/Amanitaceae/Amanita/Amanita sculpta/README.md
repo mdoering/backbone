@@ -1,5 +1,4 @@
-Amanita sculpta Corner & Bas SPECIES
-=======
+# Amanita sculpta Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vertebralina substriata McCulloch, 1977 SPECIES
-=======
+# Vertebralina substriata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sbarbaronis B. de Lesd. SPECIES
-=======
+# Lecidea sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

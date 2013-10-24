@@ -1,5 +1,4 @@
-Diplodina parietariae f. parietariae FORM
-=======
+# Diplodina parietariae Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodina parietariae f. parietariae
+Diplodina parietariae Brunaud
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula albothallina SPECIES
-=======
+# Pyrenula albothallina SPECIES
 
 #### Status
 ACCEPTED

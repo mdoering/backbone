@@ -1,5 +1,4 @@
-Illosporium humigenum Peck & Sacc. SPECIES
-=======
+# Illosporium humigenum Peck & Sacc. SPECIES
 
 #### Status
 ACCEPTED

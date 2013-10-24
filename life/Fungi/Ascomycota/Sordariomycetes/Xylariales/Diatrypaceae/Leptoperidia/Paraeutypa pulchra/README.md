@@ -1,5 +1,4 @@
-Paraeutypa pulchra Subram. & Ananthap. SPECIES
-=======
+# Paraeutypa pulchra Subram. & Ananthap. SPECIES
 
 #### Status
 ACCEPTED

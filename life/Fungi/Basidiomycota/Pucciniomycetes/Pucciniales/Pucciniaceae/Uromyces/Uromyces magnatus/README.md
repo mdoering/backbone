@@ -1,5 +1,4 @@
-Uromyces magnatus Arthur SPECIES
-=======
+# Uromyces magnatus Arthur SPECIES
 
 #### Status
 ACCEPTED

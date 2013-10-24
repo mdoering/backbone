@@ -1,5 +1,4 @@
-Tulostoma recifensis Bat. & A.F. Vital SPECIES
-=======
+# Tulostoma recifensis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

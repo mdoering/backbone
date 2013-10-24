@@ -1,5 +1,4 @@
-Heppia mouretii B. de Lesd. SPECIES
-=======
+# Heppia mouretii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

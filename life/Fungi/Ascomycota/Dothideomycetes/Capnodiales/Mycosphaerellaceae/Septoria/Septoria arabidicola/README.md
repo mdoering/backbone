@@ -1,5 +1,4 @@
-Septoria arabidicola Rostr. SPECIES
-=======
+# Septoria arabidicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

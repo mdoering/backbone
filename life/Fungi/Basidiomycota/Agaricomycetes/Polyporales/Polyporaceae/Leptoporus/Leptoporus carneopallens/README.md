@@ -1,5 +1,4 @@
-Leptoporus carneopallens (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Leptoporus carneopallens (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

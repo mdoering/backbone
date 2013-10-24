@@ -1,14 +1,13 @@
-Normandina simodense (Asahina) Aptroot SPECIES
-=======
+# Normandina simodensis (Asahina) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Willdenowia, Beih. 21(1-2): 265 (1991)
 
 #### Original name
 Heterocarpon simodense Asahina

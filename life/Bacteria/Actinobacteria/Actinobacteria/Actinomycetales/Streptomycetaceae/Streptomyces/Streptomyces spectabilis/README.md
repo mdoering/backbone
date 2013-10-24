@@ -1,5 +1,4 @@
-Streptomyces spectabilis Mason et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces spectabilis Mason et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

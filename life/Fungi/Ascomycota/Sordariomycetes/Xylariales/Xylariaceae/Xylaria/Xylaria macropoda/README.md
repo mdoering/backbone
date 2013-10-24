@@ -1,5 +1,4 @@
-Xylaria macropoda Speg. SPECIES
-=======
+# Xylaria macropoda Speg. SPECIES
 
 #### Status
 ACCEPTED

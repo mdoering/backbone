@@ -1,5 +1,4 @@
-Coniangium spadiceum var. spadiceum VARIETY
-=======
+# Coniangium spadiceum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniangium spadiceum var. spadiceum
+null
 
 ### Remarks
 null

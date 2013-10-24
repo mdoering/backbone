@@ -1,5 +1,4 @@
-Hymenostilbe kedrovensis Koval SPECIES
-=======
+# Hymenostilbe kedrovensis Koval SPECIES
 
 #### Status
 ACCEPTED

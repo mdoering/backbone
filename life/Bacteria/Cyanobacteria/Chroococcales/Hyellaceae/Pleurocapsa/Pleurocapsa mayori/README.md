@@ -1,5 +1,4 @@
-Pleurocapsa mayori Setchell SPECIES
-=======
+# Pleurocapsa mayori Setchell SPECIES
 
 #### Status
 ACCEPTED

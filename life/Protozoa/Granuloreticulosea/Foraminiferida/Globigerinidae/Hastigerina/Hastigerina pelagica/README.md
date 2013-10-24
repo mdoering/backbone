@@ -1,5 +1,4 @@
-Hastigerina pelagica (D'Orbigny) SPECIES
-=======
+# Hastigerina pelagica (D'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

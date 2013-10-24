@@ -1,5 +1,4 @@
-Catapyrenium heppioides (Zahlbr.) J.W. Thomson SPECIES
-=======
+# Catapyrenium heppioides (Zahlbr.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

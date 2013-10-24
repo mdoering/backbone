@@ -1,5 +1,4 @@
-Coryneum concolor Penz. SPECIES
-=======
+# Coryneum concolor Penz. SPECIES
 
 #### Status
 ACCEPTED

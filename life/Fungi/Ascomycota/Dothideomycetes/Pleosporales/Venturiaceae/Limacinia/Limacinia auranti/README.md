@@ -1,5 +1,4 @@
-Limacinia auranti Henn. SPECIES
-=======
+# Limacinia auranti Henn. SPECIES
 
 #### Status
 ACCEPTED

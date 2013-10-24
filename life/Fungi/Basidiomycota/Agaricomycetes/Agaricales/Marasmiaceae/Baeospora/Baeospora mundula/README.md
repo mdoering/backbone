@@ -1,5 +1,4 @@
-Baeospora mundula Singer SPECIES
-=======
+# Baeospora mundula Singer SPECIES
 
 #### Status
 ACCEPTED

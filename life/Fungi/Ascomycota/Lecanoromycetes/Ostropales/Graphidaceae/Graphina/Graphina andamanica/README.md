@@ -1,5 +1,4 @@
-Graphina andamanica Makhija, Adaw. & Patw. SPECIES
-=======
+# Graphina andamanica Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

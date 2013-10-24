@@ -1,5 +1,4 @@
-Periola pubescens Fr. SPECIES
-=======
+# Periola pubescens Fr. SPECIES
 
 #### Status
 ACCEPTED

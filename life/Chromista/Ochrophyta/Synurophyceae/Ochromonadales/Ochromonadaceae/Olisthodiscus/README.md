@@ -1,5 +1,4 @@
-Olisthodiscus Carter, 1937 GENUS
-=======
+# Olisthodiscus Carter, 1937 GENUS
 
 #### Status
 ACCEPTED

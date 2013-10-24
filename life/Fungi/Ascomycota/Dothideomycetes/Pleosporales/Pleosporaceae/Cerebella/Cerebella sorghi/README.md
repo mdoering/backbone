@@ -1,5 +1,4 @@
-Cerebella sorghi Tracy & Earle SPECIES
-=======
+# Cerebella sorghi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichelostroma powellii Bat. & Peres, 1963 SPECIES
-=======
+# Dichelostroma powellii Bat. & Peres, 1963 SPECIES
 
 #### Status
 ACCEPTED

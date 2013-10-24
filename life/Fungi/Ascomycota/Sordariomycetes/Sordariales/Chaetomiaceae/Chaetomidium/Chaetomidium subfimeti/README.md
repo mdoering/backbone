@@ -1,14 +1,13 @@
-Thielavia subfimeti (Seth) Malloch & Cain, 1973 SPECIES
-=======
+# Chaetomidium subfimeti Seth, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(5): 1070 (1973)
+Trans. Br. mycol. Soc. 50: 46 (1967)
 
 #### Original name
 Chaetomidium subfimeti Seth, 1967

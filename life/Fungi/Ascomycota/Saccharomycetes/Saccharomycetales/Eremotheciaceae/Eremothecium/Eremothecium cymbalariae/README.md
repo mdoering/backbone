@@ -1,5 +1,4 @@
-Eremothecium cymbalariae Borzí, 1888 SPECIES
-=======
+# Eremothecium cymbalariae Borzí, 1888 SPECIES
 
 #### Status
 ACCEPTED

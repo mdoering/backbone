@@ -1,14 +1,13 @@
-Rhizonema interruptum (Carmich. ex Hook.) Thwaites SPECIES
-=======
+# Dictyonema interruptum (Carmich. ex Hook.) Parmasto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Smith & Sowerby, Manual of Industrial Microbiology and Biotechnology (Washington) 4: tab. 2454 (1849)
+Nova Hedwigia 29: 122 (1978)
 
 #### Original name
 Calothrix interrupta Carmich. ex Hook.

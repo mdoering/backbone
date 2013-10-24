@@ -1,5 +1,4 @@
-Capillaria phytolaccae Pers. SPECIES
-=======
+# Capillaria phytolaccae Pers. SPECIES
 
 #### Status
 ACCEPTED

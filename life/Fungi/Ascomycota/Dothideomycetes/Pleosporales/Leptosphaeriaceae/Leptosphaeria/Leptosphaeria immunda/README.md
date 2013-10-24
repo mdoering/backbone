@@ -1,5 +1,4 @@
-Leptosphaeria immunda P. Karst. SPECIES
-=======
+# Leptosphaeria immunda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

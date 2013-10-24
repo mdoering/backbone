@@ -1,5 +1,4 @@
-Asterothyrium octomerum R. Sant. SPECIES
-=======
+# Asterothyrium octomerum R. Sant. SPECIES
 
 #### Status
 ACCEPTED

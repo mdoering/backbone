@@ -1,5 +1,4 @@
-Mycena argillascens Mitchel & A.H. Sm. SPECIES
-=======
+# Mycena argillascens Mitchel & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

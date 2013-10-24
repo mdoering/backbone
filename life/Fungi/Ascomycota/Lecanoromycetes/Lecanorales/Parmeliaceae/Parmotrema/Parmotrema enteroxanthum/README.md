@@ -1,5 +1,4 @@
-Parmotrema enteroxanthum Hale SPECIES
-=======
+# Parmotrema enteroxanthum Hale SPECIES
 
 #### Status
 ACCEPTED

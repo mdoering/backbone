@@ -1,5 +1,4 @@
-Sordaria obliquata Auersw. SPECIES
-=======
+# Sordaria obliquata Auersw. SPECIES
 
 #### Status
 ACCEPTED

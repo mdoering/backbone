@@ -1,5 +1,4 @@
-Caloplaca polytropoides Zahlbr. SPECIES
-=======
+# Caloplaca polytropoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

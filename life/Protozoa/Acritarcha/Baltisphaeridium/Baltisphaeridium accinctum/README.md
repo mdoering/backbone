@@ -1,5 +1,4 @@
-Baltisphaeridium accinctum Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium accinctum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

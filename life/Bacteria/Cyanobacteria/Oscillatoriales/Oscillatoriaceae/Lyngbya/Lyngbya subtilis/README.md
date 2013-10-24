@@ -1,5 +1,4 @@
-Lyngbya subtilis W. West SPECIES
-=======
+# Lyngbya subtilis W. West SPECIES
 
 #### Status
 ACCEPTED

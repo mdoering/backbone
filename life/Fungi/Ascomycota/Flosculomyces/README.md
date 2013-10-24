@@ -1,5 +1,4 @@
-Flosculomyces B. Sutton GENUS
-=======
+# Flosculomyces B. Sutton GENUS
 
 #### Status
 ACCEPTED

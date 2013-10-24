@@ -1,5 +1,4 @@
-Orbilia oculifuga var. oculifuga VARIETY
-=======
+# Orbilia oculifuga Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Orbilia oculifuga var. oculifuga
+Orbilia oculifuga Quél.
 
 ### Remarks
 null

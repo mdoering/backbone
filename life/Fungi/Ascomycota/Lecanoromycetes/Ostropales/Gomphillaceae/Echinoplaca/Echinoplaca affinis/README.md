@@ -1,5 +1,4 @@
-Echinoplaca affinis Kalb & Vezda SPECIES
-=======
+# Echinoplaca affinis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

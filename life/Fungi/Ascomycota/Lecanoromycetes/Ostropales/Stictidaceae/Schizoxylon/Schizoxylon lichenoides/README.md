@@ -1,5 +1,4 @@
-Schizoxylon lichenoides Speg. SPECIES
-=======
+# Schizoxylon lichenoides Speg. SPECIES
 
 #### Status
 ACCEPTED

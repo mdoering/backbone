@@ -1,5 +1,4 @@
-Aposphaeria turmalis Ellis & Everh. SPECIES
-=======
+# Aposphaeria turmalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

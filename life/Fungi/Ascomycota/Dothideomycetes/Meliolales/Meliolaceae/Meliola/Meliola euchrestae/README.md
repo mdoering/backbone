@@ -1,5 +1,4 @@
-Meliola euchrestae W. Yamam. SPECIES
-=======
+# Meliola euchrestae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

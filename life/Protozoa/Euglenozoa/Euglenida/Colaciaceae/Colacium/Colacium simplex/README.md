@@ -1,5 +1,4 @@
-Colacium simplex Huber-PeStalozzi SPECIES
-=======
+# Colacium simplex Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphrema GENUS
-=======
+# Gomphrema GENUS
 
 #### Status
 ACCEPTED

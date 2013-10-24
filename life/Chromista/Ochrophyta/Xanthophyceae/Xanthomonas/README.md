@@ -1,5 +1,4 @@
-Xanthomonas R. Scagel & J. Stein, 1961 GENUS
-=======
+# Xanthomonas R. Scagel & J. Stein, 1961 GENUS
 
 #### Status
 ACCEPTED

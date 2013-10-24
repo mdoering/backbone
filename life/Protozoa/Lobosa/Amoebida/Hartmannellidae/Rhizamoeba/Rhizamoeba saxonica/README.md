@@ -1,5 +1,4 @@
-Rhizamoeba saxonica Page, 1974 SPECIES
-=======
+# Rhizamoeba saxonica Page, 1974 SPECIES
 
 #### Status
 ACCEPTED

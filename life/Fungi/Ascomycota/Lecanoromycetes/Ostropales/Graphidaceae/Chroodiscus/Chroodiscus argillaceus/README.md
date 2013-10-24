@@ -1,5 +1,4 @@
-Chroodiscus argillaceus (Müll. Arg.) Lücking & Papong SPECIES
-=======
+# Chroodiscus argillaceus (Müll. Arg.) Lücking & Papong SPECIES
 
 #### Status
 ACCEPTED

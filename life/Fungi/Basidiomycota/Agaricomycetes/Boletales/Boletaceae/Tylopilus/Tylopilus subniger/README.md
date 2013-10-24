@@ -1,5 +1,4 @@
-Tylopilus subniger Singer, J. García & L.D. Gómez SPECIES
-=======
+# Tylopilus subniger Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

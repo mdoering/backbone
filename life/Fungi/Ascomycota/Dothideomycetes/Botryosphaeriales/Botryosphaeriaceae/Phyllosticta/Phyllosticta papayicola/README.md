@@ -1,5 +1,4 @@
-Phyllosticta papayicola Sawada SPECIES
-=======
+# Phyllosticta papayicola Sawada SPECIES
 
 #### Status
 ACCEPTED

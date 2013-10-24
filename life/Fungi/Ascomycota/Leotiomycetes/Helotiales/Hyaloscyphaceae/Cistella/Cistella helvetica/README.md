@@ -1,5 +1,4 @@
-Cistella helvetica Baral SPECIES
-=======
+# Cistella helvetica Baral SPECIES
 
 #### Status
 ACCEPTED

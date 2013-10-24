@@ -1,5 +1,4 @@
-Pleospora stellariae Bubák SPECIES
-=======
+# Pleospora stellariae Bubák SPECIES
 
 #### Status
 ACCEPTED

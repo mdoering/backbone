@@ -1,5 +1,4 @@
-Cymbosphaeridium cariniosum (Cramer, 1964) Jardiné et al., 1972 SPECIES
-=======
+# Cymbosphaeridium cariniosum (Cramer, 1964) Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

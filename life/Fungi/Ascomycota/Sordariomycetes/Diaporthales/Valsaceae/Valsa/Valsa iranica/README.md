@@ -1,5 +1,4 @@
-Valsa iranica Ashkan & Hedjar. SPECIES
-=======
+# Valsa iranica Ashkan & Hedjar. SPECIES
 
 #### Status
 ACCEPTED

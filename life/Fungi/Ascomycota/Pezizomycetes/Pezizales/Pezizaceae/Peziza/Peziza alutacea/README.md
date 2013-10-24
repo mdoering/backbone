@@ -1,5 +1,4 @@
-Peziza alutacea var. alutacea VARIETY
-=======
+# Peziza alutacea Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 431 (1803)
 
 #### Original name
-null
+Peziza alutacea Schumach.
 
 ### Remarks
 null

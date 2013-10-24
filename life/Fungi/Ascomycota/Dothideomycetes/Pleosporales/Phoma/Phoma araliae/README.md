@@ -1,5 +1,4 @@
-Phoma araliae var. araliae VARIETY
-=======
+# Phoma araliae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma araliae var. araliae
+Phoma araliae Cooke & Massee
 
 ### Remarks
 null

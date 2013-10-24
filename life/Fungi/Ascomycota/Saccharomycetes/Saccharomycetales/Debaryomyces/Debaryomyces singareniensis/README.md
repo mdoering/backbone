@@ -1,5 +1,4 @@
-Debaryomyces singareniensis Saluja & G.S. Prasad SPECIES
-=======
+# Debaryomyces singareniensis Saluja & G.S. Prasad SPECIES
 
 #### Status
 ACCEPTED

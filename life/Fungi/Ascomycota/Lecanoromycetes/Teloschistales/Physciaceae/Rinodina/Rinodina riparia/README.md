@@ -1,5 +1,4 @@
-Rinodina riparia Sheard SPECIES
-=======
+# Rinodina riparia Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium hirsutum Sierk SPECIES
-=======
+# Leptogium hirsutum Sierk SPECIES
 
 #### Status
 ACCEPTED

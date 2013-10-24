@@ -1,5 +1,4 @@
-Aspiciliomyces calcareae Cif. & Tomas. SPECIES
-=======
+# Aspiciliomyces calcareae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

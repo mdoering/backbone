@@ -1,5 +1,4 @@
-Phragmopsora epilobii Magnus SPECIES
-=======
+# Phragmopsora epilobii Magnus SPECIES
 
 #### Status
 ACCEPTED

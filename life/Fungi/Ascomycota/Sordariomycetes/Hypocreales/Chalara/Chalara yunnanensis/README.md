@@ -1,5 +1,4 @@
-Chalara yunnanensis W.P. Wu SPECIES
-=======
+# Chalara yunnanensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Titanella intermedia Syd. SPECIES
-=======
+# Titanella intermedia Syd. SPECIES
 
 #### Status
 ACCEPTED

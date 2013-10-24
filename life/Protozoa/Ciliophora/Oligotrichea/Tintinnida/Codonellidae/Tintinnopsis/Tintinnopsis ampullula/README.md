@@ -1,5 +1,4 @@
-Tintinnopsis ampullula Eicher, 1965 SPECIES
-=======
+# Tintinnopsis ampullula Eicher, 1965 SPECIES
 
 #### Status
 ACCEPTED

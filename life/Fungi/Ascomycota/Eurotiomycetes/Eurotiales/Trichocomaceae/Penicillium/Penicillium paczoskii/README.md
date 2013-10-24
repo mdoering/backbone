@@ -1,5 +1,4 @@
-Penicillium paczoskii K.M. Zalessky SPECIES
-=======
+# Penicillium paczoskii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

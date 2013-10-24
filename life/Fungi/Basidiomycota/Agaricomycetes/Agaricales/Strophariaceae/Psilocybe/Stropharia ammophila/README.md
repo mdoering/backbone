@@ -1,5 +1,4 @@
-Stropharia ammophila Naveau SPECIES
-=======
+# Stropharia ammophila Naveau SPECIES
 
 #### Status
 ACCEPTED

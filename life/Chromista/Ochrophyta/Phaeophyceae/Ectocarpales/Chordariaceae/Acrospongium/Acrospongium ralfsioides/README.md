@@ -1,5 +1,4 @@
-Acrospongium ralfsioides Schiffner SPECIES
-=======
+# Acrospongium ralfsioides Schiffner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monas O.F.Müller, 1773 GENUS
-=======
+# Monas O.F.Müller, 1773 GENUS
 
 #### Status
 ACCEPTED

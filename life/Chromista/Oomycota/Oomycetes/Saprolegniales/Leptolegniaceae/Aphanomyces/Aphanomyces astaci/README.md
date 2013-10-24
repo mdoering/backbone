@@ -1,5 +1,4 @@
-Aphanomyces astaci Schikora, 1906 SPECIES
-=======
+# Aphanomyces astaci Schikora, 1906 SPECIES
 
 #### Status
 ACCEPTED

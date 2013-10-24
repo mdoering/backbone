@@ -1,5 +1,4 @@
-Praeglobotruncana Bermudez, 1952 GENUS
-=======
+# Praeglobotruncana Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

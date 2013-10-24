@@ -1,5 +1,4 @@
-Phoma gallicola var. gallicola VARIETY
-=======
+# Phoma gallicola Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma gallicola var. gallicola
+Phoma gallicola Trotter
 
 ### Remarks
 null

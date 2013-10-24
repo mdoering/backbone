@@ -1,5 +1,4 @@
-Cortinarius sebosus A.A. Francis & Bougher SPECIES
-=======
+# Cortinarius sebosus A.A. Francis & Bougher SPECIES
 
 #### Status
 ACCEPTED

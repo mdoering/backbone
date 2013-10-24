@@ -1,5 +1,4 @@
-Clypeococcum cetrariae Hafellner SPECIES
-=======
+# Clypeococcum cetrariae Hafellner SPECIES
 
 #### Status
 ACCEPTED

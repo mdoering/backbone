@@ -1,5 +1,4 @@
-Pleurocytospora vestita Petr., 1923 SPECIES
-=======
+# Pleurocytospora vestita Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

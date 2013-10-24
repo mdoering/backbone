@@ -1,5 +1,4 @@
-Corticium abeuns Burt SPECIES
-=======
+# Corticium abeuns Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ditissima (Syd.) Cummins SPECIES
-=======
+# Uredo ditissima (Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

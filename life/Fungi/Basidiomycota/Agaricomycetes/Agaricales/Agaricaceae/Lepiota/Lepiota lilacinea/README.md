@@ -1,5 +1,4 @@
-Lepiota lilacinea Beeli SPECIES
-=======
+# Lepiota lilacinea Beeli SPECIES
 
 #### Status
 ACCEPTED

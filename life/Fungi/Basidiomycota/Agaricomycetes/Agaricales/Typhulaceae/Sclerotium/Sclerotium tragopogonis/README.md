@@ -1,17 +1,16 @@
-Sclerotium tragopogi Alb. & Schwein. SPECIES
-=======
+# Sclerotium tragopogonis Alb. & Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Consp. fung. (Leipzig) 77 (1805)
 
 #### Original name
-Sclerotium tragopogi Alb. & Schwein.
+Sclerotium tragopogonis Alb. & Schwein.
 
 ### Remarks
 null

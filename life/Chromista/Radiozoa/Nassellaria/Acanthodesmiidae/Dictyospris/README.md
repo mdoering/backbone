@@ -1,5 +1,4 @@
-Dictyospris GENUS
-=======
+# Dictyospris GENUS
 
 #### Status
 ACCEPTED

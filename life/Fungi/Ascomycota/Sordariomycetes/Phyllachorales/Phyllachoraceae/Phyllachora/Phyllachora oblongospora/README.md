@@ -1,5 +1,4 @@
-Phyllachora oblongospora Parbery, 1971 SPECIES
-=======
+# Phyllachora oblongospora Parbery, 1971 SPECIES
 
 #### Status
 ACCEPTED

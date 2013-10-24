@@ -1,5 +1,4 @@
-Melanconium magnoliae Ellis & Everh. SPECIES
-=======
+# Melanconium magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

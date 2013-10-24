@@ -1,5 +1,4 @@
-Parmelia thomsonii SPECIES
-=======
+# Parmelia thomsonii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epiphyma mucunae (Racib.) Syd. & P. Syd. SPECIES
-=======
+# Epiphyma mucunae (Racib.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

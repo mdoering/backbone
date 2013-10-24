@@ -1,5 +1,4 @@
-Entoloma chalybescens Wölfel, Noordel. & Dähncke SPECIES
-=======
+# Entoloma chalybescens Wölfel, Noordel. & Dähncke SPECIES
 
 #### Status
 ACCEPTED

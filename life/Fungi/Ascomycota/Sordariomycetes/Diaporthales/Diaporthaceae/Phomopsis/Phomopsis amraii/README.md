@@ -1,5 +1,4 @@
-Phomopsis amraii M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
-=======
+# Phomopsis amraii M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
 
 #### Status
 ACCEPTED

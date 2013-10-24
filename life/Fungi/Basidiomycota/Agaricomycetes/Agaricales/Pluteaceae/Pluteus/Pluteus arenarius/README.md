@@ -1,5 +1,4 @@
-Pluteus arenarius Pat. SPECIES
-=======
+# Pluteus arenarius Pat. SPECIES
 
 #### Status
 ACCEPTED

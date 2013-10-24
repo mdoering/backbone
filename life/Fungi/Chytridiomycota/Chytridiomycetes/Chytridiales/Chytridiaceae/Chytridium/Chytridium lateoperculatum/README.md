@@ -1,5 +1,4 @@
-Chytridium lateoperculatum Scherff. SPECIES
-=======
+# Chytridium lateoperculatum Scherff. SPECIES
 
 #### Status
 ACCEPTED

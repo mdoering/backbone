@@ -1,5 +1,4 @@
-Ciboria versiforme Rodway SPECIES
-=======
+# Ciboria versiforme Rodway SPECIES
 
 #### Status
 ACCEPTED

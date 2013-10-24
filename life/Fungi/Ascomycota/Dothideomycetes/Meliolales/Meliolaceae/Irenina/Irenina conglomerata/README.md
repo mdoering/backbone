@@ -1,5 +1,4 @@
-Irenina conglomerata (G. Winter) F. Stevens SPECIES
-=======
+# Irenina conglomerata (G. Winter) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

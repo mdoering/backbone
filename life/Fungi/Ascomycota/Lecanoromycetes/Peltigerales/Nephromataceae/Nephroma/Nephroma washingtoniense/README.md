@@ -1,5 +1,4 @@
-Nephroma washingtoniense Gyeln. SPECIES
-=======
+# Nephroma washingtoniense Gyeln. SPECIES
 
 #### Status
 ACCEPTED

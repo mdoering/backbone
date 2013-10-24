@@ -1,14 +1,13 @@
-Didymosphaeria vexata (Sacc.) G. Winter, 1885 SPECIES
-=======
+# Leiosphaerella vexata (Sacc.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 422 (1885)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 674 (1962)
 
 #### Original name
 Didymella vexata Sacc., 1880

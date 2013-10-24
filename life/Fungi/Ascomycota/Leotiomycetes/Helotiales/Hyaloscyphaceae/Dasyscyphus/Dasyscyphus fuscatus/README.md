@@ -1,8 +1,7 @@
-Dasyscypha fuscatus (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus fuscatus (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

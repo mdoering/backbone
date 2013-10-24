@@ -1,17 +1,16 @@
-Collybia nitellina f. nitellina (Fr.) Sacc. FORM
-=======
+# Rhodocybe nitellina (Fr.) Singer, 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 434 (1875)
+Mycologia 38(6): 687 (1947)
 
 #### Original name
-Collybia nitellina f. nitellina (Fr.) Sacc.
+Agaricus nitellinus Fr., 1838
 
 ### Remarks
 null

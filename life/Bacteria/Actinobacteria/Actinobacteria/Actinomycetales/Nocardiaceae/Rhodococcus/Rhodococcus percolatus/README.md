@@ -1,5 +1,4 @@
-Rhodococcus percolatus Briglia et al., 1996 SPECIES
-=======
+# Rhodococcus percolatus Briglia et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

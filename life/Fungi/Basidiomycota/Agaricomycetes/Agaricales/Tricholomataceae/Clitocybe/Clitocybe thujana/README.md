@@ -1,5 +1,4 @@
-Clitocybe thujana H.E. Bigelow SPECIES
-=======
+# Clitocybe thujana H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

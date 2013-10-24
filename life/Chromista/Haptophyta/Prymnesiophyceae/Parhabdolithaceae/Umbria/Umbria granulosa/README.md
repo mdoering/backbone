@@ -1,5 +1,4 @@
-Umbria granulosa subsp. granulosa SUBSPECIES
-=======
+# Umbria granulosa SPECIES
 
 #### Status
 ACCEPTED

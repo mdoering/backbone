@@ -1,5 +1,4 @@
-Lopadium amaurum (Vain.) Riddle SPECIES
-=======
+# Lopadium amaurum (Vain.) Riddle SPECIES
 
 #### Status
 ACCEPTED

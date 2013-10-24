@@ -1,5 +1,4 @@
-Spiroplasma GENUS
-=======
+# Spiroplasma GENUS
 
 #### Status
 ACCEPTED

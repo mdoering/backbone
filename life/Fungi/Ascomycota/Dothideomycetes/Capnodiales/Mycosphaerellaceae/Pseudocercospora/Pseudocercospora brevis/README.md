@@ -1,5 +1,4 @@
-Pseudocercospora brevis B. Sutton SPECIES
-=======
+# Pseudocercospora brevis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

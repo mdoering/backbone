@@ -1,5 +1,4 @@
-Pertusaria miscella A.W. Archer SPECIES
-=======
+# Pertusaria miscella A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

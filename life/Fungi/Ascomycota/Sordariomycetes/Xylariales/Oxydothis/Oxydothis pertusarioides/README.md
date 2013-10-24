@@ -1,5 +1,4 @@
-Oxydothis pertusarioides Rehm SPECIES
-=======
+# Oxydothis pertusarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

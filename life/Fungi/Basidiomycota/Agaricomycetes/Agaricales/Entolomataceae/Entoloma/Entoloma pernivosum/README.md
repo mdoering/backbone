@@ -1,5 +1,4 @@
-Entoloma pernivosum Murrill SPECIES
-=======
+# Entoloma pernivosum Murrill SPECIES
 
 #### Status
 ACCEPTED

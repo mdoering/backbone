@@ -1,5 +1,4 @@
-Chloroflexi CLASS
-=======
+# Chloroflexi CLASS
 
 #### Status
 ACCEPTED

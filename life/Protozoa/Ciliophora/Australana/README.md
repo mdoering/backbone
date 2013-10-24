@@ -1,5 +1,4 @@
-Australana Jankowski, 1986 GENUS
-=======
+# Australana Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella dumetorum E. Bommer & M. Rousseau SPECIES
-=======
+# Cyphella dumetorum E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

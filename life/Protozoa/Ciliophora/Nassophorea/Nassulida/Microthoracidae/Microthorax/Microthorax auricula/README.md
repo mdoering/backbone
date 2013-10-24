@@ -1,5 +1,4 @@
-Microthorax auricula Fabre Dom. SPECIES
-=======
+# Microthorax auricula Fabre Dom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ithyphallus campanulatus (Berk.) Schltdl. SPECIES
-=======
+# Ithyphallus campanulatus (Berk.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

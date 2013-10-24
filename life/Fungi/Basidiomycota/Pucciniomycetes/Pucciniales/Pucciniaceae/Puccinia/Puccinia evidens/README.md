@@ -1,5 +1,4 @@
-Puccinia evidens Harkn. SPECIES
-=======
+# Puccinia evidens Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium granocentricum Cramer & Díez, 1972 SPECIES
-=======
+# Micrhystridium granocentricum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

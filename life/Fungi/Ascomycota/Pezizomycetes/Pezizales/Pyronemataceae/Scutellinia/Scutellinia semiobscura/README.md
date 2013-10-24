@@ -1,5 +1,4 @@
-Scutellinia semiobscura Le Gal SPECIES
-=======
+# Scutellinia semiobscura Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comoclathris depressa (Peck) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris depressa (Peck) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

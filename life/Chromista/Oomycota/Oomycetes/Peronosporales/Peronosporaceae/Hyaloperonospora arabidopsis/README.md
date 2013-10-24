@@ -1,5 +1,4 @@
-Hyaloperonospora arabidopsis SPECIES
-=======
+# Hyaloperonospora arabidopsis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrocystis madeirensis (Henn.) Laessøe & Spooner SPECIES
-=======
+# Astrocystis madeirensis (Henn.) Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

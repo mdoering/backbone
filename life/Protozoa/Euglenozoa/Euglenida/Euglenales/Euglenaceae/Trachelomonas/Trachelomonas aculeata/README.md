@@ -1,5 +1,4 @@
-Trachelomonas aculeata f. brevispinosa Prescott FORM
-=======
+# Trachelomonas aculeata Dolgoff SPECIES
 
 #### Status
 ACCEPTED

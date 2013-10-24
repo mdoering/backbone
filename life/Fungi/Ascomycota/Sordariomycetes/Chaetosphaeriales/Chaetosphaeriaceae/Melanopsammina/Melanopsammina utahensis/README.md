@@ -1,5 +1,4 @@
-Melanopsammina utahensis Petr. SPECIES
-=======
+# Melanopsammina utahensis Petr. SPECIES
 
 #### Status
 ACCEPTED

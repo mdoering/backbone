@@ -1,5 +1,4 @@
-Lecidea injucunda Hue SPECIES
-=======
+# Lecidea injucunda Hue SPECIES
 
 #### Status
 ACCEPTED

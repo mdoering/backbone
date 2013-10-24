@@ -1,5 +1,4 @@
-Leptospora euphrasiae Murashk. SPECIES
-=======
+# Leptospora euphrasiae Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegraphoidea GENUS
-=======
+# Opegraphoidea GENUS
 
 #### Status
 ACCEPTED

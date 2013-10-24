@@ -1,5 +1,4 @@
-Hendersonia longipes Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia longipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

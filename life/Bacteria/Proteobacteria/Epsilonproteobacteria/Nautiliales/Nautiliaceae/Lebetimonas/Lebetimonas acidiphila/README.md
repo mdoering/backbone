@@ -1,5 +1,4 @@
-Lebetimonas acidiphila Takai et al., 2005 SPECIES
-=======
+# Lebetimonas acidiphila Takai et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

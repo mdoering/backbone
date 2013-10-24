@@ -1,5 +1,4 @@
-Cortinarius myxothece E. Horak SPECIES
-=======
+# Cortinarius myxothece E. Horak SPECIES
 
 #### Status
 ACCEPTED

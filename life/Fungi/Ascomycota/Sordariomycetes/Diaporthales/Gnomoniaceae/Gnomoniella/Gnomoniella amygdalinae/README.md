@@ -1,5 +1,4 @@
-Gnomoniella amygdalinae Sacc. SPECIES
-=======
+# Gnomoniella amygdalinae Sacc. SPECIES
 
 #### Status
 ACCEPTED

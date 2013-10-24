@@ -1,5 +1,4 @@
-Micropeltis variabilis Bat. & R. Garnier SPECIES
-=======
+# Micropeltis variabilis Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

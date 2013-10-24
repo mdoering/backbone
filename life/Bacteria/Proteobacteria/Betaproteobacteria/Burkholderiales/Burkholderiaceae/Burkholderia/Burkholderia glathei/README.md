@@ -1,8 +1,7 @@
-Pseudomonas glathei Zolg and Ottow, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia glathei (Zolg & Ottow, 1975) Vandamme et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

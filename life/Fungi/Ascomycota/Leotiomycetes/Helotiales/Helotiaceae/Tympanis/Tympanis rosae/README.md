@@ -1,5 +1,4 @@
-Tympanis rosae P. Karst. SPECIES
-=======
+# Tympanis rosae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

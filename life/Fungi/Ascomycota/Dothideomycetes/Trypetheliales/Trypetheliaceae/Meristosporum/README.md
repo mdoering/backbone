@@ -1,5 +1,4 @@
-Meristosporum GENUS
-=======
+# Meristosporum GENUS
 
 #### Status
 ACCEPTED

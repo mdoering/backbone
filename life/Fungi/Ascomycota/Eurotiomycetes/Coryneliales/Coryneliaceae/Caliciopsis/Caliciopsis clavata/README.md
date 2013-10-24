@@ -1,5 +1,4 @@
-Caliciopsis clavata (Lév.) Fitzp. SPECIES
-=======
+# Caliciopsis clavata (Lév.) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

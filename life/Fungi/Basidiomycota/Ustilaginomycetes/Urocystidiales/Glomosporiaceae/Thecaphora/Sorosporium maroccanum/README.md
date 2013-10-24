@@ -1,5 +1,4 @@
-Sorosporium maroccanum Unamuno SPECIES
-=======
+# Sorosporium maroccanum Unamuno SPECIES
 
 #### Status
 ACCEPTED

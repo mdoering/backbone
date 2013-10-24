@@ -1,14 +1,13 @@
-Triposporina aphanopaga Drechsler, 1937 SPECIES
-=======
+# Tripoconidium aphanophagum (Drechsler) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29(4): 534 (1937)
+Kavaka 5: 95 (1978)
 
 #### Original name
 Triposporina aphanopaga Drechsler, 1937

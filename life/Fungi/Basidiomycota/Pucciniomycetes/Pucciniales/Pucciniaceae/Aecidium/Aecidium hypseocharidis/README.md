@@ -1,5 +1,4 @@
-Aecidium hypseocharidis J.C. Lindq. SPECIES
-=======
+# Aecidium hypseocharidis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

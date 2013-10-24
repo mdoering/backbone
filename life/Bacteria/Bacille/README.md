@@ -1,5 +1,4 @@
-Bacille GENUS
-=======
+# Bacille GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria pilisensis Motyka SPECIES
-=======
+# Urceolaria pilisensis Motyka SPECIES
 
 #### Status
 ACCEPTED

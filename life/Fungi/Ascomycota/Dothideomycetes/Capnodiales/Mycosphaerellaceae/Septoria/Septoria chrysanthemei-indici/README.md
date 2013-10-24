@@ -1,5 +1,4 @@
-Septoria chrysanthemei-indici Bubak & Kabat SPECIES
-=======
+# Septoria chrysanthemei-indici Bubak & Kabat SPECIES
 
 #### Status
 ACCEPTED

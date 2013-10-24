@@ -1,5 +1,4 @@
-Marasmius nymanianus Henn. SPECIES
-=======
+# Marasmius nymanianus Henn. SPECIES
 
 #### Status
 ACCEPTED

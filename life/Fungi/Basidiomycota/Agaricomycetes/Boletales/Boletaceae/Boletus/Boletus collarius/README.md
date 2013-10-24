@@ -1,5 +1,4 @@
-Boletus collarius Pers. SPECIES
-=======
+# Boletus collarius Pers. SPECIES
 
 #### Status
 ACCEPTED

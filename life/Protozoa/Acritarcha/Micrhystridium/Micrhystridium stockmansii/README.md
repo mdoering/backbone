@@ -1,5 +1,4 @@
-Micrhystridium stockmansii Fensome et al., 1990 SPECIES
-=======
+# Micrhystridium stockmansii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella sarracenica Sacc. & Roum. SPECIES
-=======
+# Sphaerella sarracenica Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

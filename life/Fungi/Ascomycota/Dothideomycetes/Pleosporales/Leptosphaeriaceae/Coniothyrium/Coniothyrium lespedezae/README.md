@@ -1,5 +1,4 @@
-Coniothyrium lespedezae (Henn.) Died. SPECIES
-=======
+# Coniothyrium lespedezae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

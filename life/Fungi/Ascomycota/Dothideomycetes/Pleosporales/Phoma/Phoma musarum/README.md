@@ -1,5 +1,4 @@
-Phoma musarum Cooke SPECIES
-=======
+# Phoma musarum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula hibbardae Burl. SPECIES
-=======
+# Russula hibbardae Burl. SPECIES
 
 #### Status
 ACCEPTED

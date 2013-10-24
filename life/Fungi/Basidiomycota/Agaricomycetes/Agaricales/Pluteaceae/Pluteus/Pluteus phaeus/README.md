@@ -1,5 +1,4 @@
-Pluteus phaeus Massee SPECIES
-=======
+# Pluteus phaeus Massee SPECIES
 
 #### Status
 ACCEPTED

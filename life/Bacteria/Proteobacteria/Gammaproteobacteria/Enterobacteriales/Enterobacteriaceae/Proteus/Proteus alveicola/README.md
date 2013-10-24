@@ -1,5 +1,4 @@
-Proteus alveicola SPECIES
-=======
+# Proteus alveicola SPECIES
 
 #### Status
 ACCEPTED

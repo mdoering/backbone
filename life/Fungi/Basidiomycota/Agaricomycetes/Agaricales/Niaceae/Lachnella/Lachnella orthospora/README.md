@@ -1,5 +1,4 @@
-Lachnella orthospora (Bourdot & Galzin) SPECIES
-=======
+# Lachnella orthospora (Bourdot & Galzin) SPECIES
 
 #### Status
 ACCEPTED

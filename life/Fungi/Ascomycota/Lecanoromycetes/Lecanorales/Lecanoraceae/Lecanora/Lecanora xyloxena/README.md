@@ -1,5 +1,4 @@
-Lecanora xyloxena H. Magn. SPECIES
-=======
+# Lecanora xyloxena H. Magn. SPECIES
 
 #### Status
 ACCEPTED

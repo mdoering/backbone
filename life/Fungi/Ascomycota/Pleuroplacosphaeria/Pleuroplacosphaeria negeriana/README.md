@@ -1,5 +1,4 @@
-Pleuroplacosphaeria negeriana Syd., 1928 SPECIES
-=======
+# Pleuroplacosphaeria negeriana Syd., 1928 SPECIES
 
 #### Status
 ACCEPTED

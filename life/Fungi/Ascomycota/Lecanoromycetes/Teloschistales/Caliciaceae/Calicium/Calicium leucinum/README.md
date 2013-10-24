@@ -1,5 +1,4 @@
-Calicium leucinum Müll. Arg. SPECIES
-=======
+# Calicium leucinum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

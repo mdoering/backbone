@@ -1,5 +1,4 @@
-Polymeridium pleurothecium R. C. Harris SPECIES
-=======
+# Polymeridium pleurothecium R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

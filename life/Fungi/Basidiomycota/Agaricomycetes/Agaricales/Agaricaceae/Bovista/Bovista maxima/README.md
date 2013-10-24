@@ -1,5 +1,4 @@
-Bovista maxima Dill. SPECIES
-=======
+# Bovista maxima Dill. SPECIES
 
 #### Status
 ACCEPTED

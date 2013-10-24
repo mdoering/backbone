@@ -1,17 +1,16 @@
-Martellia alveolata (Cooke & Massee) A.H. Sm., 1963 SPECIES
-=======
+# Zelleromyces alveolatus (Singer & A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(6): 630 (1963)
+Mycotaxon 81: 204 (2002)
 
 #### Original name
-Octaviania alveolata Cooke & Massee, 1887
+Gymnomyces alveolatus Singer & A.H. Sm., 1960
 
 ### Remarks
 null

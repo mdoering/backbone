@@ -1,5 +1,4 @@
-Diploschistes centrifugus Groenh. SPECIES
-=======
+# Diploschistes centrifugus Groenh. SPECIES
 
 #### Status
 ACCEPTED

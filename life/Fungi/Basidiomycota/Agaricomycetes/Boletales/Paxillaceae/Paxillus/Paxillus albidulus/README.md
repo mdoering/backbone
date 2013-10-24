@@ -1,5 +1,4 @@
-Paxillus albidulus utara SPECIES
-=======
+# Paxillus albidulus utara SPECIES
 
 #### Status
 ACCEPTED

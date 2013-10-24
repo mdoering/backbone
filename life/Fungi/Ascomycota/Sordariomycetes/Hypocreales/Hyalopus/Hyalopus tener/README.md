@@ -1,5 +1,4 @@
-Hyalopus tener Preuss SPECIES
-=======
+# Hyalopus tener Preuss SPECIES
 
 #### Status
 ACCEPTED

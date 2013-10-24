@@ -1,5 +1,4 @@
-Gasparrinia nideri (J. Steiner) Szatala SPECIES
-=======
+# Gasparrinia nideri (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

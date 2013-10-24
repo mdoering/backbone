@@ -1,5 +1,4 @@
-Psathyra torpens (Fr.) Quél. SPECIES
-=======
+# Psathyra torpens (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

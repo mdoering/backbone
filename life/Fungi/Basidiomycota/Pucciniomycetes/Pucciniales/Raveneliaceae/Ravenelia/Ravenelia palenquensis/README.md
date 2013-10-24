@@ -1,5 +1,4 @@
-Ravenelia palenquensis Berndt SPECIES
-=======
+# Ravenelia palenquensis Berndt SPECIES
 
 #### Status
 ACCEPTED

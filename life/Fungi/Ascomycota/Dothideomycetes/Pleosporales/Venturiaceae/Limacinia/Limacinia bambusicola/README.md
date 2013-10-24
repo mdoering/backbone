@@ -1,5 +1,4 @@
-Limacinia bambusicola I. Hino & Katum. SPECIES
-=======
+# Limacinia bambusicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

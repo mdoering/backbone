@@ -1,5 +1,4 @@
-Asteromella rumicis (Bondartsev) Aa & Vanev SPECIES
-=======
+# Asteromella rumicis (Bondartsev) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

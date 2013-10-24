@@ -1,5 +1,4 @@
-Eutintinnus medius (Kofoid & Campbell, 1929) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus medius (Kofoid & Campbell, 1929) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

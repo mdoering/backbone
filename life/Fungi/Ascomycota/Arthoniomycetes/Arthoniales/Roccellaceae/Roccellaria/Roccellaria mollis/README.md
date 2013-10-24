@@ -1,5 +1,4 @@
-Roccellaria mollis (Hampe) Zahlbr. SPECIES
-=======
+# Roccellaria mollis (Hampe) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

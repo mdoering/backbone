@@ -1,5 +1,4 @@
-Microcystis sanguinea (C. Agardh) Kützing SPECIES
-=======
+# Microcystis sanguinea (C. Agardh) Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium schizostachyfolium Bat. & M.L. Farr SPECIES
-=======
+# Dictyosporium schizostachyfolium Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valvobifarina mackinnonii (Millett, 1900) SPECIES
-=======
+# Valvobifarina mackinnonii (Millett, 1900) SPECIES
 
 #### Status
 ACCEPTED

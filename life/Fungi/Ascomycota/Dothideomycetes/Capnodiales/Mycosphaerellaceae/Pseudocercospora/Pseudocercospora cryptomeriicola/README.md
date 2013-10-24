@@ -1,5 +1,4 @@
-Pseudocercospora cryptomeriicola (Sawada) C. Nakash., Akashi & M. Akiba SPECIES
-=======
+# Pseudocercospora cryptomeriicola (Sawada) C. Nakash., Akashi & M. Akiba SPECIES
 
 #### Status
 ACCEPTED

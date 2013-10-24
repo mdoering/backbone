@@ -1,5 +1,4 @@
-Berkleasmium moriforme (Peck) R.T. Moore SPECIES
-=======
+# Berkleasmium moriforme (Peck) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

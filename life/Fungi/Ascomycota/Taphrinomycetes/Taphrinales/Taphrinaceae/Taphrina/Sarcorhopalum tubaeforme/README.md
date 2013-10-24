@@ -1,17 +1,16 @@
-Sarcorhopalum tubiforme Rabenh. SPECIES
-=======
+# Sarcorhopalum tubaeforme Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Ztg. 9: (1851)
 
 #### Original name
-Sarcorhopalum tubiforme Rabenh.
+Sarcorhopalum tubaeforme Rabenh.
 
 ### Remarks
 null

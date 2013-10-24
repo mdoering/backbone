@@ -1,5 +1,4 @@
-Agaricus lactescens Schrad. SPECIES
-=======
+# Agaricus lactescens Schrad. SPECIES
 
 #### Status
 ACCEPTED

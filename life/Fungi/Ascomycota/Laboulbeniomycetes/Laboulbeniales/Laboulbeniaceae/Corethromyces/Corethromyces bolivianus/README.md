@@ -1,5 +1,4 @@
-Corethromyces bolivianus A. Weir & W. Rossi SPECIES
-=======
+# Corethromyces bolivianus A. Weir & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

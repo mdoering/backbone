@@ -1,5 +1,4 @@
-Pleistophora schaefernai Jírovec SPECIES
-=======
+# Pleistophora schaefernai Jírovec SPECIES
 
 #### Status
 ACCEPTED

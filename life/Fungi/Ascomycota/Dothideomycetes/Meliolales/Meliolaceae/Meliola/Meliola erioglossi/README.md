@@ -1,5 +1,4 @@
-Meliola erioglossi F. Stevens ex Hansf. SPECIES
-=======
+# Meliola erioglossi F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

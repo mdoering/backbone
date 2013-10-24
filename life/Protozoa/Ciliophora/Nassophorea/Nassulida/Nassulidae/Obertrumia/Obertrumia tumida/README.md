@@ -1,5 +1,4 @@
-Obertrumia tumida (Maskell, 1887) Buitkamp, 1977 SPECIES
-=======
+# Obertrumia tumida (Maskell, 1887) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

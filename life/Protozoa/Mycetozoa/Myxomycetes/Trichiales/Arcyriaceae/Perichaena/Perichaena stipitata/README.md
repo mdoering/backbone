@@ -1,5 +1,4 @@
-Perichaena stipitata Lado, Estrada & D. Wrigley, 2009 SPECIES
-=======
+# Perichaena stipitata Lado, Estrada & D. Wrigley, 2009 SPECIES
 
 #### Status
 ACCEPTED

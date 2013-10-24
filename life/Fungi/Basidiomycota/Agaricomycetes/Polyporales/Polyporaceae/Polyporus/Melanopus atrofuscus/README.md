@@ -1,5 +1,4 @@
-Melanopus atrofuscus var. atrofuscus VARIETY
-=======
+# Melanopus atrofuscus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanopus atrofuscus var. atrofuscus
+Melanopus atrofuscus anon.
 
 ### Remarks
 null

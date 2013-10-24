@@ -1,5 +1,4 @@
-Aspidisca bellua SPECIES
-=======
+# Aspidisca bellua SPECIES
 
 #### Status
 ACCEPTED

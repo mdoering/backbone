@@ -1,5 +1,4 @@
-Echinoporia Ryvarden GENUS
-=======
+# Echinoporia Ryvarden GENUS
 
 #### Status
 ACCEPTED

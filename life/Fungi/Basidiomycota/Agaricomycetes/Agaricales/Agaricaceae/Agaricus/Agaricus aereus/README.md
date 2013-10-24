@@ -1,5 +1,4 @@
-Agaricus aereus Pers. SPECIES
-=======
+# Agaricus aereus Pers. SPECIES
 
 #### Status
 ACCEPTED

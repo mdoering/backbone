@@ -1,5 +1,4 @@
-Hypomyces pallidus Petch SPECIES
-=======
+# Hypomyces pallidus Petch SPECIES
 
 #### Status
 ACCEPTED

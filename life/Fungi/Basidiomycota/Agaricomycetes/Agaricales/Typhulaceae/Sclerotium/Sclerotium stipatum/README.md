@@ -1,5 +1,4 @@
-Sclerotium stipatum Fr. SPECIES
-=======
+# Sclerotium stipatum Fr. SPECIES
 
 #### Status
 ACCEPTED

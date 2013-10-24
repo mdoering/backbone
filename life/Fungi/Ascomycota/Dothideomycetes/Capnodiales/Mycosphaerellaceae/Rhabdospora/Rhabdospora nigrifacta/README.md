@@ -1,8 +1,7 @@
-Rhabdospora nigrificans Bubák SPECIES
-=======
+# Rhabdospora nigrifacta Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora nigrificans Bubák
+Rhabdospora nigrifacta Bubák
 
 ### Remarks
 null

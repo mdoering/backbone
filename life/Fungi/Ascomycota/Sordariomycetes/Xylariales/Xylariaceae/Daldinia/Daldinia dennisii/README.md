@@ -1,5 +1,4 @@
-Daldinia dennisii var. dennisii VARIETY
-=======
+# Daldinia dennisii Wollw., J.A. Simpson & M. Stadler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 108(9): 1027 (2004)
+in Stadler, Læssøe, Simpson & Wollweber, Mycol. Res. 108(9): 1027 (2004)
 
 #### Original name
-Daldinia dennisii var. dennisii
+Daldinia dennisii Wollw., J.A. Simpson & M. Stadler
 
 ### Remarks
 null

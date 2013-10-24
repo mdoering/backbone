@@ -1,5 +1,4 @@
-Biloculinella inflata (Wright, 1902) SPECIES
-=======
+# Biloculinella inflata (Wright, 1902) SPECIES
 
 #### Status
 ACCEPTED

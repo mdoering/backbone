@@ -1,5 +1,4 @@
-Monoicomyces amauroderae Thaxt. SPECIES
-=======
+# Monoicomyces amauroderae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

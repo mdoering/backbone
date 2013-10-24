@@ -1,5 +1,4 @@
-Phoma pimeleae Henn. SPECIES
-=======
+# Phoma pimeleae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylofungus Sheng H. Wu GENUS
-=======
+# Amylofungus Sheng H. Wu GENUS
 
 #### Status
 ACCEPTED

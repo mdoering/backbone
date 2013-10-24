@@ -1,5 +1,4 @@
-Stylonychia cornifrons Dumas SPECIES
-=======
+# Stylonychia cornifrons Dumas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus pavonius (Hook.) Murrill SPECIES
-=======
+# Coriolus pavonius (Hook.) Murrill SPECIES
 
 #### Status
 ACCEPTED

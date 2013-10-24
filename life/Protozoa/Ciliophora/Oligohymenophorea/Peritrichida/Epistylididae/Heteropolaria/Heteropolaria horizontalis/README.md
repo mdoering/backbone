@@ -1,8 +1,7 @@
-Epistylis horizontalis Chatton, 1936 SPECIES
-=======
+# Heteropolaria horizontalis (Chatton, 1936) Foissner & Schubert, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

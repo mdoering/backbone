@@ -1,5 +1,4 @@
-Sphaerella subcrassa Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella subcrassa Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

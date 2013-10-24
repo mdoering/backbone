@@ -1,5 +1,4 @@
-Thelephora reticulata Fr. SPECIES
-=======
+# Thelephora reticulata Fr. SPECIES
 
 #### Status
 ACCEPTED

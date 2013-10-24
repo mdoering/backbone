@@ -1,5 +1,4 @@
-Agaricus ardosiaecolor Heinem. SPECIES
-=======
+# Agaricus ardosiaecolor Heinem. SPECIES
 
 #### Status
 ACCEPTED

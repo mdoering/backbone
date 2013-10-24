@@ -1,5 +1,4 @@
-Trichobelonium hercynicum J. Lindau SPECIES
-=======
+# Trichobelonium hercynicum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

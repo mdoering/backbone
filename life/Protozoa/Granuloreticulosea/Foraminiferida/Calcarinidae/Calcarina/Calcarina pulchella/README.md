@@ -1,5 +1,4 @@
-Calcarina pulchella SPECIES
-=======
+# Calcarina pulchella SPECIES
 
 #### Status
 ACCEPTED

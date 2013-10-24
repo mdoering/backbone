@@ -1,5 +1,4 @@
-Mellitiosporiopsis gigantospora (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Mellitiosporiopsis gigantospora (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

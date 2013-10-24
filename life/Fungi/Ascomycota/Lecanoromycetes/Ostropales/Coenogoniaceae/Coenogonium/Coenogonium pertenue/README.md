@@ -1,5 +1,4 @@
-Coenogonium pertenue (Stirt.) Kalb & Lücking SPECIES
-=======
+# Coenogonium pertenue (Stirt.) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

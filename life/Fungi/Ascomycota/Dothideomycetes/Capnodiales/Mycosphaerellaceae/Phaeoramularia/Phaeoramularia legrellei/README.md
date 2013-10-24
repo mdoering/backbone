@@ -1,17 +1,16 @@
-Phaeoramularia legrelleii V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Phaeoramularia legrellei V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 190 (1991)
 
 #### Original name
-Phaeoramularia legrelleii V.G. Rao & B.R.D. Yadav
+Phaeoramularia legrellei V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

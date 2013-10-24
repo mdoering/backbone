@@ -1,5 +1,4 @@
-Roccella teneriffensis Vain. SPECIES
-=======
+# Roccella teneriffensis Vain. SPECIES
 
 #### Status
 ACCEPTED

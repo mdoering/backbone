@@ -1,5 +1,4 @@
-Rimbachia philippensis Lloyd SPECIES
-=======
+# Rimbachia philippensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

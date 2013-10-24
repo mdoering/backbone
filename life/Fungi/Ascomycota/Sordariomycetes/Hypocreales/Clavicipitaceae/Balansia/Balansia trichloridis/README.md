@@ -1,5 +1,4 @@
-Balansia trichloridis Speg. SPECIES
-=======
+# Balansia trichloridis Speg. SPECIES
 
 #### Status
 ACCEPTED

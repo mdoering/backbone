@@ -1,5 +1,4 @@
-Strigula obvelata Vain. SPECIES
-=======
+# Strigula obvelata Vain. SPECIES
 
 #### Status
 ACCEPTED

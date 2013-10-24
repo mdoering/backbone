@@ -1,5 +1,4 @@
-Graphium gracile Peck SPECIES
-=======
+# Graphium gracile Peck SPECIES
 
 #### Status
 ACCEPTED

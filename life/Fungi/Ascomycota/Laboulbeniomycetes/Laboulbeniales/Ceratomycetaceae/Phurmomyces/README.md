@@ -1,5 +1,4 @@
-Phurmomyces Thaxt. GENUS
-=======
+# Phurmomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

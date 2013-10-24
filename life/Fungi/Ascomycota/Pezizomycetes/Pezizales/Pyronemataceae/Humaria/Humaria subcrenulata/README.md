@@ -1,5 +1,4 @@
-Humaria subcrenulata Clem. SPECIES
-=======
+# Humaria subcrenulata Clem. SPECIES
 
 #### Status
 ACCEPTED

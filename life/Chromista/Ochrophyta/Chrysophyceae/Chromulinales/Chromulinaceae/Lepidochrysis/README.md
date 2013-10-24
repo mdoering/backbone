@@ -1,5 +1,4 @@
-Lepidochrysis Ikävalko, Kristiansen & H.A.Thomsen, 1994 GENUS
-=======
+# Lepidochrysis Ikävalko, Kristiansen & H.A.Thomsen, 1994 GENUS
 
 #### Status
 ACCEPTED

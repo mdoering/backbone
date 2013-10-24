@@ -1,5 +1,4 @@
-Uromyces rosicola Ellis & Everh. SPECIES
-=======
+# Uromyces rosicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

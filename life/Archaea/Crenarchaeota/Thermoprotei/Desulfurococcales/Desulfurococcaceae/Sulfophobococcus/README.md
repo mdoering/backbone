@@ -1,5 +1,4 @@
-Sulfophobococcus Hensel, Matussek, Michalke, Tacke, Tindall, Kohlhoff, Siebers & Dielenschneider, 1997 GENUS
-=======
+# Sulfophobococcus Hensel, Matussek, Michalke, Tacke, Tindall, Kohlhoff, Siebers & Dielenschneider, 1997 GENUS
 
 #### Status
 ACCEPTED

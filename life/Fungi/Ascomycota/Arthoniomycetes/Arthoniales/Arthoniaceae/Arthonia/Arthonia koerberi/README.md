@@ -1,5 +1,4 @@
-Arthonia koerberi (J. Lahm) Malbr. SPECIES
-=======
+# Arthonia koerberi (J. Lahm) Malbr. SPECIES
 
 #### Status
 ACCEPTED

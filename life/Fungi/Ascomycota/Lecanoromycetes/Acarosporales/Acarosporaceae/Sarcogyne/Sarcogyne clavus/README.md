@@ -1,17 +1,16 @@
-Biatorella clavus f. clavus FORM
-=======
+# Sarcogyne clavus (DC.) Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschr. Königl. -Baier. Bot. Ges. Regensburg 4: 212 (1861)
 
 #### Original name
-Biatorella clavus f. clavus
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tauya N.G.Klochkova & T.N.Krupnova, 2004 GENUS
-=======
+# Tauya N.G.Klochkova & T.N.Krupnova, 2004 GENUS
 
 #### Status
 ACCEPTED

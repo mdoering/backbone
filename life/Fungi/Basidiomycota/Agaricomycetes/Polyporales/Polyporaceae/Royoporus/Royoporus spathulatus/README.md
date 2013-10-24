@@ -1,17 +1,16 @@
-Polyporus spathulatus var. spathulatus Hook. VARIETY
-=======
+# Royoporus spathulatus (Jungh.) A.B. De, 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 60: 145 (1996)
 
 #### Original name
-Polyporus spathulatus var. spathulatus Hook.
+null
 
 ### Remarks
 null

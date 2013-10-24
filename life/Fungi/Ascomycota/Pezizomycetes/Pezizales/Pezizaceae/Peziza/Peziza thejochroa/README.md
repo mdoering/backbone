@@ -1,5 +1,4 @@
-Peziza thejochroa Pers. SPECIES
-=======
+# Peziza thejochroa Pers. SPECIES
 
 #### Status
 ACCEPTED

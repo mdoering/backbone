@@ -1,5 +1,4 @@
-Lecanora bipruinosa Fink SPECIES
-=======
+# Lecanora bipruinosa Fink SPECIES
 
 #### Status
 ACCEPTED

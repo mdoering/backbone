@@ -1,5 +1,4 @@
-Pseudocyphellaria scabrosa R. Sant. SPECIES
-=======
+# Pseudocyphellaria scabrosa R. Sant. SPECIES
 
 #### Status
 ACCEPTED

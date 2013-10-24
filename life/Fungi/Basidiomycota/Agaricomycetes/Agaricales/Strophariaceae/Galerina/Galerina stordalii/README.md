@@ -1,17 +1,16 @@
-Galerina dimorphocystis var. nexapensis Singer VARIETY
-=======
+# Galerina stordalii A.H. Sm., 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 203 (1964)
 
 #### Original name
-Galerina dimorphocystis var. nexapensis Singer
+Galerina stordalii A.H. Sm., 1964
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dasyscyphella appressa Cash SPECIES
-=======
+# Dasyscyphella appressa Cash SPECIES
 
 #### Status
 ACCEPTED

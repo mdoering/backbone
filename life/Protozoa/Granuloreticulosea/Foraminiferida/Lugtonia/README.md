@@ -1,5 +1,4 @@
-Lugtonia Cummings, 1955 GENUS
-=======
+# Lugtonia Cummings, 1955 GENUS
 
 #### Status
 ACCEPTED

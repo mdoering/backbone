@@ -1,5 +1,4 @@
-Dothiorella juglandaria (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella juglandaria (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

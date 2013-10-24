@@ -1,5 +1,4 @@
-Psathyrella melanophylla Kits van Wav. SPECIES
-=======
+# Psathyrella melanophylla Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

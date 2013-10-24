@@ -1,5 +1,4 @@
-Baltisphaeridium massilum Martin, 1969 SPECIES
-=======
+# Baltisphaeridium massilum Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

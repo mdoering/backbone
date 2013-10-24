@@ -1,5 +1,4 @@
-Pholiota zenkeri Henn. SPECIES
-=======
+# Pholiota zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

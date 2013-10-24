@@ -1,5 +1,4 @@
-Strombidinopsis marina (Fauré-Fremiet, 1910) Alekperov, 2005 SPECIES
-=======
+# Strombidinopsis marina (Fauré-Fremiet, 1910) Alekperov, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus hiratsukae Nagas. SPECIES
-=======
+# Boletus hiratsukae Nagas. SPECIES
 
 #### Status
 ACCEPTED

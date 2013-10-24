@@ -1,5 +1,4 @@
-Ramularia theicola Curzi, 1926 SPECIES
-=======
+# Ramularia theicola Curzi, 1926 SPECIES
 
 #### Status
 ACCEPTED

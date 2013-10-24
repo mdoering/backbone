@@ -1,5 +1,4 @@
-Phomopsis heraclei Lebedeva SPECIES
-=======
+# Phomopsis heraclei Lebedeva SPECIES
 
 #### Status
 ACCEPTED

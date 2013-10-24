@@ -1,17 +1,16 @@
-Catillaria leptocheila var. leptocheila VARIETY
-=======
+# Megalaria leptocheila (Tuck.) Fryday & Lendemer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Catillaria leptocheila var. leptocheila
+null
 
 ### Remarks
 null

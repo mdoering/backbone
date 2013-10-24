@@ -1,5 +1,4 @@
-Camarosporium lycii Sacc. SPECIES
-=======
+# Camarosporium lycii Sacc. SPECIES
 
 #### Status
 ACCEPTED

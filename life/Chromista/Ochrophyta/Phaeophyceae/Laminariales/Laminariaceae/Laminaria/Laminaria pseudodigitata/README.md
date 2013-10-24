@@ -1,5 +1,4 @@
-Laminaria pseudodigitata Lamouroux ex Despréaux SPECIES
-=======
+# Laminaria pseudodigitata Lamouroux ex Despréaux SPECIES
 
 #### Status
 ACCEPTED

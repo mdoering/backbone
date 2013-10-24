@@ -1,17 +1,16 @@
-Homopsella Nyl. GENUS
-=======
+# Porocyphus Körber, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Flora, Jena 70: 129 (1887)
+null
 
 #### Original name
-Homopsella Nyl.
+null
 
 ### Remarks
 null

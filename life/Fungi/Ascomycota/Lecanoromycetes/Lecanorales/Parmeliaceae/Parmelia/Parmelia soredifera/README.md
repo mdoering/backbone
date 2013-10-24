@@ -1,5 +1,4 @@
-Parmelia soredifera R. Sant. SPECIES
-=======
+# Parmelia soredifera R. Sant. SPECIES
 
 #### Status
 ACCEPTED

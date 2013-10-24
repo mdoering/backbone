@@ -1,5 +1,4 @@
-Rhabdospora nubecula (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora nubecula (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pinzolensis Kabát & Bubák SPECIES
-=======
+# Septoria pinzolensis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

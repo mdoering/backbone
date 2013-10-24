@@ -1,5 +1,4 @@
-Hydnum colossum Bres. SPECIES
-=======
+# Hydnum colossum Bres. SPECIES
 
 #### Status
 ACCEPTED

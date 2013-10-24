@@ -1,5 +1,4 @@
-Parasteridiella GENUS
-=======
+# Parasteridiella GENUS
 
 #### Status
 ACCEPTED

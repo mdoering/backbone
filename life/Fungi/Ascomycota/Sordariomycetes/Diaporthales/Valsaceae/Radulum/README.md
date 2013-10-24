@@ -1,5 +1,4 @@
-Radulum GENUS
-=======
+# Radulum GENUS
 
 #### Status
 ACCEPTED

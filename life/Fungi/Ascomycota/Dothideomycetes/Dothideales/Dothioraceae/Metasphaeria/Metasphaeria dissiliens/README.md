@@ -1,5 +1,4 @@
-Metasphaeria dissiliens (Cooke & Ellis) Sacc. SPECIES
-=======
+# Metasphaeria dissiliens (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

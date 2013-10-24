@@ -1,5 +1,4 @@
-Colletotrichum bignoniae-igneae Rangel SPECIES
-=======
+# Colletotrichum bignoniae-igneae Rangel SPECIES
 
 #### Status
 ACCEPTED

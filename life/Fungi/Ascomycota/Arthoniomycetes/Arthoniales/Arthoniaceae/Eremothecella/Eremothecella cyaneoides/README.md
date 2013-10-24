@@ -1,5 +1,4 @@
-Eremothecella cyaneoides Lücking SPECIES
-=======
+# Eremothecella cyaneoides Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera occidentalis (Å. E. Dahl) Kristinsson SPECIES
-=======
+# Peltigera occidentalis (Å. E. Dahl) Kristinsson SPECIES
 
 #### Status
 ACCEPTED

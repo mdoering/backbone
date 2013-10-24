@@ -1,5 +1,4 @@
-Didymaria centaureae Vienn.-Bourg. SPECIES
-=======
+# Didymaria centaureae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

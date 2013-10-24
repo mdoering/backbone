@@ -1,5 +1,4 @@
-Microsporum quinckeanum (Zopf) Guiart & Grigoraki SPECIES
-=======
+# Microsporum quinckeanum (Zopf) Guiart & Grigoraki SPECIES
 
 #### Status
 ACCEPTED

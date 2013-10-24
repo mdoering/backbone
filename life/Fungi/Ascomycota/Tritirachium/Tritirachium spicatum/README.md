@@ -1,5 +1,4 @@
-Tritirachium spicatum (Ferraris) Limber SPECIES
-=======
+# Tritirachium spicatum (Ferraris) Limber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta asarina Naumov SPECIES
-=======
+# Pyrenochaeta asarina Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oropogon granulosus Essl. SPECIES
-=======
+# Oropogon granulosus Essl. SPECIES
 
 #### Status
 ACCEPTED

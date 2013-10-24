@@ -1,5 +1,4 @@
-Helote viridis (Pers.) Hazsl. SPECIES
-=======
+# Helote viridis (Pers.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

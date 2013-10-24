@@ -1,5 +1,4 @@
-Penzigomyces knemae Subram. SPECIES
-=======
+# Penzigomyces knemae Subram. SPECIES
 
 #### Status
 ACCEPTED

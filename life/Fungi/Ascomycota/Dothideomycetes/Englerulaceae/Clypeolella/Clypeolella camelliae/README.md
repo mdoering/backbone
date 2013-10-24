@@ -1,17 +1,16 @@
-Asterina camelliae Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Clypeolella camelliae (Syd., P. Syd. & E.J. Butler) Hansf., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Reinwardtia 3: 127 (1954)
 
 #### Original name
-null
+Asterina camelliae Syd., P. Syd. & E.J. Butler, 1911
 
 ### Remarks
 null

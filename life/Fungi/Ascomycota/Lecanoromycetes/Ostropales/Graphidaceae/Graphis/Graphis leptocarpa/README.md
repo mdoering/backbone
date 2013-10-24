@@ -1,14 +1,13 @@
-Opegrapha leptocarpa (Fée) Mont. SPECIES
-=======
+# Graphis leptocarpa Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: 36, pl. 10, fig. 2 (1825)
 
 #### Original name
 Graphis leptocarpa Fée

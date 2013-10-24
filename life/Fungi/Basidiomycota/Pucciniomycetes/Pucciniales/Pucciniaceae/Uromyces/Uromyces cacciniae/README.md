@@ -1,5 +1,4 @@
-Uromyces cacciniae Jørst. SPECIES
-=======
+# Uromyces cacciniae Jørst. SPECIES
 
 #### Status
 ACCEPTED

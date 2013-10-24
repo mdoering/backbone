@@ -1,5 +1,4 @@
-Miliammina circularis Heron-Allen & Earland, 1930 SPECIES
-=======
+# Miliammina circularis Heron-Allen & Earland, 1930 SPECIES
 
 #### Status
 ACCEPTED

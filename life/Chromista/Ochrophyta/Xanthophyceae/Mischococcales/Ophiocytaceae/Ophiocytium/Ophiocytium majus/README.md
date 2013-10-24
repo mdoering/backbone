@@ -1,5 +1,4 @@
-Ophiocytium majus Nägeli SPECIES
-=======
+# Ophiocytium majus Nägeli SPECIES
 
 #### Status
 ACCEPTED

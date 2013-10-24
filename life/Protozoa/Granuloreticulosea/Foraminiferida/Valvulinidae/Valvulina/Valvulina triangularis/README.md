@@ -1,5 +1,4 @@
-Valvulina triangularis var. polyphragma Goes, 1882 VARIETY
-=======
+# Valvulina triangularis Parker, Jones & Brady, 1865 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella papyrifera Pass. SPECIES
-=======
+# Sphaerella papyrifera Pass. SPECIES
 
 #### Status
 ACCEPTED

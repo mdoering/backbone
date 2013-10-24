@@ -1,5 +1,4 @@
-Batioladinium simplex (H.-S. Yun) J. Jansonius SPECIES
-=======
+# Batioladinium simplex (H.-S. Yun) J. Jansonius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium pulverulentum (Cooke & Massee) Vánky, 1985 SPECIES
-=======
+# Sporisorium pulverulentum (Cooke & Massee) Vánky, 1985 SPECIES
 
 #### Status
 ACCEPTED

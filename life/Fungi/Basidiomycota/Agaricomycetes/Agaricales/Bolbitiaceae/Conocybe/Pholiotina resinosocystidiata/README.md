@@ -1,5 +1,4 @@
-Pholiotina resinosocystidiata E. Horak & Hauskn. SPECIES
-=======
+# Pholiotina resinosocystidiata E. Horak & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

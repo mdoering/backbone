@@ -1,5 +1,4 @@
-Coronellaria lunata Velen. SPECIES
-=======
+# Coronellaria lunata Velen. SPECIES
 
 #### Status
 ACCEPTED

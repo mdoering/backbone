@@ -1,5 +1,4 @@
-Lunospora baldingerae Frandsen SPECIES
-=======
+# Lunospora baldingerae Frandsen SPECIES
 
 #### Status
 ACCEPTED

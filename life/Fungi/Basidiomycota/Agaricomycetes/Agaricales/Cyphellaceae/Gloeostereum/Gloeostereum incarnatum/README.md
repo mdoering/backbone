@@ -1,14 +1,13 @@
-Merulius incarnatus (S. Ito & S. Imai) Spirin & Zmitr., 2004 SPECIES
-=======
+# Gloeostereum incarnatum S. Ito & S. Imai, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 37: 182 (2004)
+Trans. Sapporo nat. Hist. Soc. 13: 11 (1933)
 
 #### Original name
 Gloeostereum incarnatum S. Ito & S. Imai, 1933

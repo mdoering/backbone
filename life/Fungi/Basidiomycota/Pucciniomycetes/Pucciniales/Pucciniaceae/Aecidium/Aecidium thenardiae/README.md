@@ -1,5 +1,4 @@
-Aecidium thenardiae Arthur SPECIES
-=======
+# Aecidium thenardiae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis fournieri Lizano & Lücking SPECIES
-=======
+# Graphis fournieri Lizano & Lücking SPECIES
 
 #### Status
 ACCEPTED

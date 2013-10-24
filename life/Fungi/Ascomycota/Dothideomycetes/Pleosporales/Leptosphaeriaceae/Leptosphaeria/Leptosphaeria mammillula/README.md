@@ -1,5 +1,4 @@
-Leptosphaeria mammillula Anzi SPECIES
-=======
+# Leptosphaeria mammillula Anzi SPECIES
 
 #### Status
 ACCEPTED

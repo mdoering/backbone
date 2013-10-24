@@ -1,5 +1,4 @@
-Polyporus lituarius SPECIES
-=======
+# Polyporus lituarius SPECIES
 
 #### Status
 ACCEPTED

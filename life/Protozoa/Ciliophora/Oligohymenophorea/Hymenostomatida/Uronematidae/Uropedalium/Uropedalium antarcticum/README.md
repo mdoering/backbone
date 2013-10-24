@@ -1,5 +1,4 @@
-Uropedalium antarcticum Thompson, 1972 SPECIES
-=======
+# Uropedalium antarcticum Thompson, 1972 SPECIES
 
 #### Status
 ACCEPTED

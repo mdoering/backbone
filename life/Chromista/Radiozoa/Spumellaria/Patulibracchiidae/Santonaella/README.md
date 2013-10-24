@@ -1,5 +1,4 @@
-Santonaella GENUS
-=======
+# Santonaella GENUS
 
 #### Status
 ACCEPTED

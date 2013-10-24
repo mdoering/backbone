@@ -1,5 +1,4 @@
-Rhabdospora bractearum Mont. SPECIES
-=======
+# Rhabdospora bractearum Mont. SPECIES
 
 #### Status
 ACCEPTED

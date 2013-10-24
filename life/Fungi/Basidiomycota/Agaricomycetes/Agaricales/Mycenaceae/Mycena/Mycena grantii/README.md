@@ -1,5 +1,4 @@
-Mycena grantii Murrill SPECIES
-=======
+# Mycena grantii Murrill SPECIES
 
 #### Status
 ACCEPTED

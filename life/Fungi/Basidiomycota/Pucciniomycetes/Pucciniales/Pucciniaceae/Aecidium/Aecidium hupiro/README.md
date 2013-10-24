@@ -1,5 +1,4 @@
-Aecidium hupiro G. Cunn., 1924 SPECIES
-=======
+# Aecidium hupiro G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

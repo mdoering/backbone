@@ -1,5 +1,4 @@
-Cryptococcus fragicola M. Takash., Sugita, Shinoda & Nakase SPECIES
-=======
+# Cryptococcus fragicola M. Takash., Sugita, Shinoda & Nakase SPECIES
 
 #### Status
 ACCEPTED

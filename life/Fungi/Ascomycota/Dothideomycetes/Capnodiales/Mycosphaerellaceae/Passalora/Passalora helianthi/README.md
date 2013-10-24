@@ -1,5 +1,4 @@
-Passalora helianthi (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora helianthi (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

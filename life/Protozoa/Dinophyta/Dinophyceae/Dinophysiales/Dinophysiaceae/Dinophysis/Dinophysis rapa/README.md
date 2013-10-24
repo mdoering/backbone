@@ -1,5 +1,4 @@
-Dinophysis rapa (Stein, 1883) Balech, 1967 SPECIES
-=======
+# Dinophysis rapa (Stein, 1883) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

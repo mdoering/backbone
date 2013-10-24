@@ -1,5 +1,4 @@
-Heyneckia Lohmann GENUS
-=======
+# Heyneckia Lohmann GENUS
 
 #### Status
 ACCEPTED

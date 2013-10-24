@@ -1,5 +1,4 @@
-Hemigaster Juel, 1895 GENUS
-=======
+# Hemigaster Juel, 1895 GENUS
 
 #### Status
 ACCEPTED

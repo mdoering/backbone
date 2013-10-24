@@ -1,5 +1,4 @@
-Arachnion foetens Speg. SPECIES
-=======
+# Arachnion foetens Speg. SPECIES
 
 #### Status
 ACCEPTED

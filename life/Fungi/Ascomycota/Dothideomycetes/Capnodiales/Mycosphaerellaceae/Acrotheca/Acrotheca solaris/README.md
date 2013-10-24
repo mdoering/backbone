@@ -1,5 +1,4 @@
-Acrotheca solaris Sacc. SPECIES
-=======
+# Acrotheca solaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

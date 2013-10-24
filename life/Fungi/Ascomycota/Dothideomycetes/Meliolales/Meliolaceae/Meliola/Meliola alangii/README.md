@@ -1,17 +1,16 @@
-Meliola alangii var. alangii VARIETY
-=======
+# Meliola alangii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(5): 365 (1916)
 
 #### Original name
-null
+Meliola alangii Syd. & P. Syd.
 
 ### Remarks
 null

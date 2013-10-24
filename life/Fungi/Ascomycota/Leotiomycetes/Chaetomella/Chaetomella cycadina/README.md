@@ -1,5 +1,4 @@
-Chaetomella cycadina R. Rao & Bahekar SPECIES
-=======
+# Chaetomella cycadina R. Rao & Bahekar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Thalassiosira nitzschioides SPECIES
-=======
+# Thalassiosira nidulus (Tempère & Brun in Brun & Tempère) Jousé, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

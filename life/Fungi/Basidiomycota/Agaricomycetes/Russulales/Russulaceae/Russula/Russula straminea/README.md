@@ -1,5 +1,4 @@
-Russula straminea var. straminea VARIETY
-=======
+# Russula straminea Malençon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula straminea var. straminea
+Russula straminea Malençon
 
 ### Remarks
 null

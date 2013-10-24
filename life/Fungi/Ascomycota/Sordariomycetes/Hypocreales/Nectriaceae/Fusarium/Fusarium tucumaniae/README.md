@@ -1,5 +1,4 @@
-Fusarium tucumaniae T. Aoki, O'Donnell, Yosh. Homma & Lattanzi SPECIES
-=======
+# Fusarium tucumaniae T. Aoki, O'Donnell, Yosh. Homma & Lattanzi SPECIES
 
 #### Status
 ACCEPTED

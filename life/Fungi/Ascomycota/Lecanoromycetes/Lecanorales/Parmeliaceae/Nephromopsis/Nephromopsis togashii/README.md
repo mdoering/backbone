@@ -1,14 +1,13 @@
-Cetraria togashii Asahina SPECIES
-=======
+# Nephromopsis togashii (Asahina) A. Thell & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Thell, Randlane, Saag & Kärnefelt, Mycol. Progr. 4(4): 311 (2005)
 
 #### Original name
 Cetraria togashii Asahina

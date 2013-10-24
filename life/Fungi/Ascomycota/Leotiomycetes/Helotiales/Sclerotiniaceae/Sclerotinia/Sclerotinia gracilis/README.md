@@ -1,5 +1,4 @@
-Sclerotinia gracilis Clem. SPECIES
-=======
+# Sclerotinia gracilis Clem. SPECIES
 
 #### Status
 ACCEPTED

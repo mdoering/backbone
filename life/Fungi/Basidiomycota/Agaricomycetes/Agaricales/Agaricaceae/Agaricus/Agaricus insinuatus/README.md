@@ -1,5 +1,4 @@
-Agaricus insinuatus Cooke SPECIES
-=======
+# Agaricus insinuatus Cooke SPECIES
 
 #### Status
 ACCEPTED

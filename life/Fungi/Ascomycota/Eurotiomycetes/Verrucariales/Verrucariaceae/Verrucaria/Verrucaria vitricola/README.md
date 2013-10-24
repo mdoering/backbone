@@ -1,5 +1,4 @@
-Verrucaria vitricola Nyl. SPECIES
-=======
+# Verrucaria vitricola Nyl. SPECIES
 
 #### Status
 ACCEPTED

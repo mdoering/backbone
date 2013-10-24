@@ -1,5 +1,4 @@
-Epidermophyton angustisporum Boedijn SPECIES
-=======
+# Epidermophyton angustisporum Boedijn SPECIES
 
 #### Status
 ACCEPTED

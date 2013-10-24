@@ -1,5 +1,4 @@
-Phyllosticta mangifericola Bat. SPECIES
-=======
+# Phyllosticta mangifericola Bat. SPECIES
 
 #### Status
 ACCEPTED

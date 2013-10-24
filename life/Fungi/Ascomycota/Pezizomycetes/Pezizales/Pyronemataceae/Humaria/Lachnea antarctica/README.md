@@ -1,5 +1,4 @@
-Lachnea antarctica Henn. SPECIES
-=======
+# Lachnea antarctica Henn. SPECIES
 
 #### Status
 ACCEPTED

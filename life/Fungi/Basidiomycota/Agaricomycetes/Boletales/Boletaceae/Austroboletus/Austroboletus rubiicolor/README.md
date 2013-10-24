@@ -1,5 +1,4 @@
-Austroboletus rubiicolor (Corner) E. Horak SPECIES
-=======
+# Austroboletus rubiicolor (Corner) E. Horak SPECIES
 
 #### Status
 ACCEPTED

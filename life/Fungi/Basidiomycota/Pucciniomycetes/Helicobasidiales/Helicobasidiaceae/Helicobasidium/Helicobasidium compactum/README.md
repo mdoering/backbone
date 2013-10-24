@@ -1,5 +1,4 @@
-Helicobasidium compactum Boedijn, 1930 SPECIES
-=======
+# Helicobasidium compactum Boedijn, 1930 SPECIES
 
 #### Status
 ACCEPTED

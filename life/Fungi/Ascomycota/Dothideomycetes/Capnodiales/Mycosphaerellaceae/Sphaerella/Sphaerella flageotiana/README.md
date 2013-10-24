@@ -1,5 +1,4 @@
-Sphaerella flageotiana Sacc. & Traverso SPECIES
-=======
+# Sphaerella flageotiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

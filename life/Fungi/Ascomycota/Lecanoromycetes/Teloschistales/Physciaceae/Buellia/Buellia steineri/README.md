@@ -1,5 +1,4 @@
-Buellia steineri Servít SPECIES
-=======
+# Buellia steineri Servít SPECIES
 
 #### Status
 ACCEPTED

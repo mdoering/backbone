@@ -1,5 +1,4 @@
-Wilcoxina sequoia (W. Phillips) T. Schumach. SPECIES
-=======
+# Wilcoxina sequoia (W. Phillips) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

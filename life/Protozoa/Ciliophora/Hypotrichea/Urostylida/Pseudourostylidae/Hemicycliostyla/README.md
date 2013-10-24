@@ -1,14 +1,13 @@
-Hemicyclostyla Stokes, 1887 GENUS
-=======
+# Hemicycliostyla Stokes, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. R. Micr. Soc. , 1887, 418.
+Proc. Amer. Phil. Soc. , 23, no. 121, 21.
 
 #### Original name
 null

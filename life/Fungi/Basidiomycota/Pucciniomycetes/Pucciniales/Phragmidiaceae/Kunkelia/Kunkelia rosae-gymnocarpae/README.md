@@ -1,5 +1,4 @@
-Kunkelia rosae-gymnocarpae (Dietel) Arthur SPECIES
-=======
+# Kunkelia rosae-gymnocarpae (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

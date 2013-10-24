@@ -1,5 +1,4 @@
-Gassicurtia ferruginascens (Malme) Marbach & Kalb SPECIES
-=======
+# Gassicurtia ferruginascens (Malme) Marbach & Kalb SPECIES
 
 #### Status
 ACCEPTED

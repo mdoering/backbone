@@ -1,5 +1,4 @@
-Cyanisticta piloselloides Räsänen SPECIES
-=======
+# Cyanisticta piloselloides Räsänen SPECIES
 
 #### Status
 ACCEPTED

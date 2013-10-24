@@ -1,5 +1,4 @@
-Morchella miyabeana S. Imai SPECIES
-=======
+# Morchella miyabeana S. Imai SPECIES
 
 #### Status
 ACCEPTED

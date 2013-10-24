@@ -1,5 +1,4 @@
-Sporidesmium faureae Piroz. SPECIES
-=======
+# Sporidesmium faureae Piroz. SPECIES
 
 #### Status
 ACCEPTED

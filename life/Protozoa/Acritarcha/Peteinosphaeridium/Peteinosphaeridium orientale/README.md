@@ -1,5 +1,4 @@
-Peteinosphaeridium orientale Yin Leiming, 1995 SPECIES
-=======
+# Peteinosphaeridium orientale Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

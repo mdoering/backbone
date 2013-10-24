@@ -1,5 +1,4 @@
-Amerosporium incurvum (Cooke) Sacc. SPECIES
-=======
+# Amerosporium incurvum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

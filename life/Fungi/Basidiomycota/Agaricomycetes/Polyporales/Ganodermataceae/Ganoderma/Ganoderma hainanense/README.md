@@ -1,5 +1,4 @@
-Ganoderma hainanense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
-=======
+# Ganoderma hainanense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
 
 #### Status
 ACCEPTED

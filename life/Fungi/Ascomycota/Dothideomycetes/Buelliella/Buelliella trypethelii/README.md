@@ -1,5 +1,4 @@
-Buelliella trypethelii (Tuck.) Fink ex Hafellner SPECIES
-=======
+# Buelliella trypethelii (Tuck.) Fink ex Hafellner SPECIES
 
 #### Status
 ACCEPTED

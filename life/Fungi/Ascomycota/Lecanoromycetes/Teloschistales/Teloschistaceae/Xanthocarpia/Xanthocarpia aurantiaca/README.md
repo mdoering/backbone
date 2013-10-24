@@ -1,5 +1,4 @@
-Xanthocarpia aurantiaca (Lightf.) Samp. SPECIES
-=======
+# Xanthocarpia aurantiaca (Lightf.) Samp. SPECIES
 
 #### Status
 ACCEPTED

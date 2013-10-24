@@ -1,5 +1,4 @@
-Phoma negundinicola var. negundinicola VARIETY
-=======
+# Phoma negundinicola Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotheca universalis no. 2090 (1882)
 
 #### Original name
-Phoma negundinicola var. negundinicola
+Phoma negundinicola Thüm.
 
 ### Remarks
 null

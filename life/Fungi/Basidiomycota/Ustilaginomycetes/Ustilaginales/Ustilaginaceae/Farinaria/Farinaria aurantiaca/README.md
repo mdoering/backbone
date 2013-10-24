@@ -1,5 +1,4 @@
-Farinaria aurantiaca Sowerby SPECIES
-=======
+# Farinaria aurantiaca Sowerby SPECIES
 
 #### Status
 ACCEPTED

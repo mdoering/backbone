@@ -1,5 +1,4 @@
-Lepraria rhodochroa Mont. SPECIES
-=======
+# Lepraria rhodochroa Mont. SPECIES
 
 #### Status
 ACCEPTED

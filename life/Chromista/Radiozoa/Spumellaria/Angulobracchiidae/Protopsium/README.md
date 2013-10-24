@@ -1,5 +1,4 @@
-Protopsium Pessagno & Poisson, 1981 GENUS
-=======
+# Protopsium Pessagno & Poisson, 1981 GENUS
 
 #### Status
 ACCEPTED

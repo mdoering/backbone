@@ -1,5 +1,4 @@
-Spathularia pilatii Velen. SPECIES
-=======
+# Spathularia pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

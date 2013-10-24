@@ -1,5 +1,4 @@
-Pyrenula minutula Müll. Arg. SPECIES
-=======
+# Pyrenula minutula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

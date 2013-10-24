@@ -1,5 +1,4 @@
-Meliola bastardiopsidis Speg. SPECIES
-=======
+# Meliola bastardiopsidis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alnicola striatula (P.D. Orton) Romagn., 1979 SPECIES
-=======
+# Naucoria striatula P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 322 (1960)
 
 #### Original name
-null
+Naucoria striatula P.D. Orton, 1960
 
 ### Remarks
 null

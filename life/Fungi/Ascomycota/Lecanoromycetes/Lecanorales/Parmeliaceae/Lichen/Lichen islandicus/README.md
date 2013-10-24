@@ -1,5 +1,4 @@
-Lichen islandicus var. islandicus L. VARIETY
-=======
+# Lichen islandicus Huds. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen islandicus var. islandicus L.
+Lichen islandicus Huds.
 
 ### Remarks
 null

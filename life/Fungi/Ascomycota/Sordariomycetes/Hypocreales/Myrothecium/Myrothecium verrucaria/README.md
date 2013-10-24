@@ -1,14 +1,13 @@
-Peziza verrucaria Alb. & Schwein. SPECIES
-=======
+# Myrothecium verrucaria (Alb. & Schwein.) Ditmar, 1813 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 340 (1805)
+Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 1-1: 7 (1813)
 
 #### Original name
 Peziza verrucaria Alb. & Schwein.

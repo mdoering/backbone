@@ -1,5 +1,4 @@
-Tilletiella Zambett. GENUS
-=======
+# Tilletiella Zambett. GENUS
 
 #### Status
 ACCEPTED

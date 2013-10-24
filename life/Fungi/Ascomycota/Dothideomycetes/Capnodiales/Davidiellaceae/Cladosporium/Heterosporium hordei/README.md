@@ -1,5 +1,4 @@
-Heterosporium hordei Bubák SPECIES
-=======
+# Heterosporium hordei Bubák SPECIES
 
 #### Status
 ACCEPTED

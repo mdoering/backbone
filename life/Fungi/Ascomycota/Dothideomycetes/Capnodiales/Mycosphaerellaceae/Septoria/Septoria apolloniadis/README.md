@@ -1,5 +1,4 @@
-Septoria apolloniadis Petr. SPECIES
-=======
+# Septoria apolloniadis Petr. SPECIES
 
 #### Status
 ACCEPTED

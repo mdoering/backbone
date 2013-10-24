@@ -1,5 +1,4 @@
-Mycosphaerella chlorina (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella chlorina (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

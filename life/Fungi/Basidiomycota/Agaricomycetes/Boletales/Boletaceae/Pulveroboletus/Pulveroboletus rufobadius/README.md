@@ -1,5 +1,4 @@
-Pulveroboletus rufobadius (Bres.) Singer SPECIES
-=======
+# Pulveroboletus rufobadius (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

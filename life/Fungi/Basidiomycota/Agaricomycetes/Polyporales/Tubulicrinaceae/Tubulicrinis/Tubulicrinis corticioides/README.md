@@ -1,14 +1,13 @@
-Odontia corticioides Overh., 1930 SPECIES
-=======
+# Tubulicrinis corticioides (Overh.) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 22(5): 239 (1930)
+Mycol. Mem. 19: 173 (1993)
 
 #### Original name
 Odontia corticioides Overh., 1930

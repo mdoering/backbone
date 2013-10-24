@@ -1,5 +1,4 @@
-Tricholoma subargillaceum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subargillaceum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

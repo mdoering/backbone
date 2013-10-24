@@ -1,5 +1,4 @@
-Puccinia tetramerii Seym. SPECIES
-=======
+# Puccinia tetramerii Seym. SPECIES
 
 #### Status
 ACCEPTED

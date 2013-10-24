@@ -1,5 +1,4 @@
-Isaria glaucocephala Link SPECIES
-=======
+# Isaria glaucocephala Link SPECIES
 
 #### Status
 ACCEPTED

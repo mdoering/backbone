@@ -1,5 +1,4 @@
-Panaeolus clelandii Ew. Gerhardt SPECIES
-=======
+# Panaeolus clelandii Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

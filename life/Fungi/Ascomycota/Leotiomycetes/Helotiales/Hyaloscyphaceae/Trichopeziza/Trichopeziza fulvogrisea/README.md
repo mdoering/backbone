@@ -1,5 +1,4 @@
-Trichopeziza fulvogrisea (Rehm) Sacc. SPECIES
-=======
+# Trichopeziza fulvogrisea (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe flammuliformis Singer SPECIES
-=======
+# Psilocybe flammuliformis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pseudoromellii J. Blum SPECIES
-=======
+# Russula pseudoromellii J. Blum SPECIES
 
 #### Status
 ACCEPTED

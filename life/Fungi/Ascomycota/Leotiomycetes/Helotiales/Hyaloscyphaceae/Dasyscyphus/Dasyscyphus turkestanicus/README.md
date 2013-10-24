@@ -1,5 +1,4 @@
-Dasyscyphus turkestanicus Raitv. SPECIES
-=======
+# Dasyscyphus turkestanicus Raitv. SPECIES
 
 #### Status
 ACCEPTED

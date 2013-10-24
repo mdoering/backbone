@@ -1,5 +1,4 @@
-Asteromella chamaebuxi Petr. SPECIES
-=======
+# Asteromella chamaebuxi Petr. SPECIES
 
 #### Status
 ACCEPTED

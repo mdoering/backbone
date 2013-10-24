@@ -1,5 +1,4 @@
-Erysiphe corylacearum U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe corylacearum U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

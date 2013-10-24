@@ -1,5 +1,4 @@
-Stictis nigrella Sommerf. SPECIES
-=======
+# Stictis nigrella Sommerf. SPECIES
 
 #### Status
 ACCEPTED

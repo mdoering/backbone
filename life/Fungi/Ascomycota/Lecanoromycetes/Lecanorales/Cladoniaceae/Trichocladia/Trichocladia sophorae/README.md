@@ -1,5 +1,4 @@
-Trichocladia sophorae (Gandara) Y.N. Yu SPECIES
-=======
+# Trichocladia sophorae (Gandara) Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

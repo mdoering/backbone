@@ -1,5 +1,4 @@
-Agaricus marklini Trotter SPECIES
-=======
+# Agaricus marklini Trotter SPECIES
 
 #### Status
 ACCEPTED

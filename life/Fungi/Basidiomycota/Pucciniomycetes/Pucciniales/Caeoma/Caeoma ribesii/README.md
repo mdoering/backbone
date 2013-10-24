@@ -1,5 +1,4 @@
-Caeoma ribesii Link SPECIES
-=======
+# Caeoma ribesii Link SPECIES
 
 #### Status
 ACCEPTED

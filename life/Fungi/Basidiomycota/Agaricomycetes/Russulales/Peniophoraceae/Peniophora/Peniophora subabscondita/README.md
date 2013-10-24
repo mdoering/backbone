@@ -1,5 +1,4 @@
-Peniophora subabscondita (Bres.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora subabscondita (Bres.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

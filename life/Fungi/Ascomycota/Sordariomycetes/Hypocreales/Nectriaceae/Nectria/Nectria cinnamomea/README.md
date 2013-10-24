@@ -1,5 +1,4 @@
-Nectria cinnamomea Brayford & Samuels, 1993 SPECIES
-=======
+# Nectria cinnamomea Brayford & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotetraploa javanica (Rifai, Zainuddin & Cholil) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Pseudotetraploa javanica (Rifai, Zainuddin & Cholil) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

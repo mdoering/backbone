@@ -1,17 +1,16 @@
-Collema quadriloculare var. quadriloculare VARIETY
-=======
+# Collema quadriloculare F. Wilson SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Victorian Nat. 6: 61 (1889)
 
 #### Original name
-Collema quadriloculare var. quadriloculare
+Collema quadriloculare F. Wilson
 
 ### Remarks
 null

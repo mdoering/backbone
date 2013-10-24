@@ -1,5 +1,4 @@
-Nothomitra kovalii Raitv., 1971 SPECIES
-=======
+# Nothomitra kovalii Raitv., 1971 SPECIES
 
 #### Status
 ACCEPTED

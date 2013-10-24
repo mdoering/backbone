@@ -1,5 +1,4 @@
-Lactarius tuomikoskii Kytöv. SPECIES
-=======
+# Lactarius tuomikoskii Kytöv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harposporium drechsleri G.L. Barron SPECIES
-=======
+# Harposporium drechsleri G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

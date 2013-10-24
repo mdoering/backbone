@@ -1,17 +1,16 @@
-Mycelephas robustus (R.F. Castañeda) R.F. Castañeda, 2009 SPECIES
-=======
+# Arnoldiella robusta R.F. Castañeda, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Jardín bot. Nac. , Univ. Habana 5(1): 60 (1984)
 
 #### Original name
-null
+Arnoldiella robusta R.F. Castañeda, 1984
 
 ### Remarks
 null

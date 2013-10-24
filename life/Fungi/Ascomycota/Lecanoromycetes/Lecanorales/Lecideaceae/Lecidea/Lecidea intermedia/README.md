@@ -1,5 +1,4 @@
-Lecidea intermedia Fée SPECIES
-=======
+# Lecidea intermedia Fée SPECIES
 
 #### Status
 ACCEPTED

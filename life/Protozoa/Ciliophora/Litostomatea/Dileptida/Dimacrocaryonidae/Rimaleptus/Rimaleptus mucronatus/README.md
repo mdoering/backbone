@@ -1,5 +1,4 @@
-Rimaleptus mucronatus (Penard, 1922) Vdacny, Orsi, Bourland, Shimano & Foissner, 2011 SPECIES
-=======
+# Rimaleptus mucronatus (Penard, 1922) Vdacny, Orsi, Bourland, Shimano & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galorrheus plumbeus (Bull.) P. Kumm. SPECIES
-=======
+# Galorrheus plumbeus (Bull.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

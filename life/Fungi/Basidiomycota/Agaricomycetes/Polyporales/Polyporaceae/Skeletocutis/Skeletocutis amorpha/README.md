@@ -1,17 +1,16 @@
-Gloeoporus amorphus var. amorphus VARIETY
-=======
+# Skeletocutis amorpha (Fr.) Kotl. & Pouzar, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 6: 202 (1928)
+Ceská Mykol. 12(2): 103 (1958)
 
 #### Original name
-Gloeoporus amorphus var. amorphus
+Polyporus amorphus Fr., 1815
 
 ### Remarks
 null

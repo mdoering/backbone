@@ -1,5 +1,4 @@
-Collybia fragilis R. Heim SPECIES
-=======
+# Collybia fragilis R. Heim SPECIES
 
 #### Status
 ACCEPTED

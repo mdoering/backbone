@@ -1,5 +1,4 @@
-Allarthothelium collosporum (Vain.) Zahlbr. SPECIES
-=======
+# Allarthothelium collosporum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

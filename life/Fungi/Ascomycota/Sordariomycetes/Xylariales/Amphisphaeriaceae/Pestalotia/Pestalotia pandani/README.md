@@ -1,17 +1,16 @@
-Pestalotia pestalozzia Sawada SPECIES
-=======
+# Pestalotia pandani Verona SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Taihoku Soc. Agric. 7: 114 (1942)
 
 #### Original name
-Pestalotia pestalozzia Sawada
+Pestalotia pandani Verona
 
 ### Remarks
 null

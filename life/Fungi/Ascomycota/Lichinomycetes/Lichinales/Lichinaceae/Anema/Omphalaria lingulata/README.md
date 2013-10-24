@@ -1,5 +1,4 @@
-Omphalaria lingulata Tuck. SPECIES
-=======
+# Omphalaria lingulata Tuck. SPECIES
 
 #### Status
 ACCEPTED

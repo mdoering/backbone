@@ -1,5 +1,4 @@
-Valsaria salicina Ellis & Everh. SPECIES
-=======
+# Valsaria salicina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

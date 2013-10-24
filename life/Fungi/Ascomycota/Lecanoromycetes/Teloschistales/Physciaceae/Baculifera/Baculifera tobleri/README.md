@@ -1,14 +1,13 @@
-Buellia tobleri Zahlbr. SPECIES
-=======
+# Baculifera tobleri (Zahlbr.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 146 (2000)
 
 #### Original name
 Buellia tobleri Zahlbr.

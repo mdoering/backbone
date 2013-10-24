@@ -1,5 +1,4 @@
-Kiptophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
-=======
+# Kiptophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

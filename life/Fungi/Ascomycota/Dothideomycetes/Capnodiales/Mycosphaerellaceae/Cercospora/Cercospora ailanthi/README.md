@@ -1,5 +1,4 @@
-Cercospora ailanthi Syd. {?} SPECIES
-=======
+# Cercospora ailanthi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

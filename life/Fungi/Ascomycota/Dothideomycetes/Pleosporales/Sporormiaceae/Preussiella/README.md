@@ -1,5 +1,4 @@
-Preussiella GENUS
-=======
+# Preussiella GENUS
 
 #### Status
 ACCEPTED

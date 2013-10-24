@@ -1,5 +1,4 @@
-Talekpea foeticia Lunghini & Rambelli, 1979 SPECIES
-=======
+# Talekpea foeticia Lunghini & Rambelli, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria maculiformis f. maculiformis FORM
-=======
+# Verrucaria maculiformis Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 41: 303 (1858)
 
 #### Original name
-Verrucaria maculiformis f. maculiformis
+Verrucaria maculiformis Kremp.
 
 ### Remarks
 null

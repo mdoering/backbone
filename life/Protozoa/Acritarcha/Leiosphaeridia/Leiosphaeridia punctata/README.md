@@ -1,5 +1,4 @@
-Leiosphaeridia punctata Kiryanov, 1978 SPECIES
-=======
+# Leiosphaeridia punctata Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

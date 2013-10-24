@@ -1,5 +1,4 @@
-Conidophrys pitelkae Bradbury, 1975 SPECIES
-=======
+# Conidophrys pitelkae Bradbury, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus rufescens Herp. SPECIES
-=======
+# Pluteus rufescens Herp. SPECIES
 
 #### Status
 ACCEPTED

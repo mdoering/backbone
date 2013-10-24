@@ -1,5 +1,4 @@
-Septobasidium flavobrunneum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium flavobrunneum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

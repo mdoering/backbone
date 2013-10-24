@@ -1,5 +1,4 @@
-Psilocybe kashmeriensis S.P. Abraham SPECIES
-=======
+# Psilocybe kashmeriensis S.P. Abraham SPECIES
 
 #### Status
 ACCEPTED

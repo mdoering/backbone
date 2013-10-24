@@ -1,5 +1,4 @@
-Chytridium latipodium S.N. Dasgupta SPECIES
-=======
+# Chytridium latipodium S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

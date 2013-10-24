@@ -1,5 +1,4 @@
-Septoria gurezae Mirakhur, Tahir & A.K. Dhar SPECIES
-=======
+# Septoria gurezae Mirakhur, Tahir & A.K. Dhar SPECIES
 
 #### Status
 ACCEPTED

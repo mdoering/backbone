@@ -1,5 +1,4 @@
-Gloniopsis cookeana (W.R. Gerard) Sacc. SPECIES
-=======
+# Gloniopsis cookeana (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

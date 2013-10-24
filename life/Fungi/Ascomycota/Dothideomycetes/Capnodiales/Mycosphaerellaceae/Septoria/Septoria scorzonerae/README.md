@@ -1,5 +1,4 @@
-Septoria scorzonerae Vasyag. SPECIES
-=======
+# Septoria scorzonerae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

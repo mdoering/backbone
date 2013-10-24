@@ -1,17 +1,16 @@
-Bremiella oenantheae J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara baudysii Skalický, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 8(4): 177 (1954)
 
 #### Original name
-Bremiella oenantheae J.F. Tao & Y. Qin
+Plasmopara baudysii Skalický, 1954
 
 ### Remarks
 null

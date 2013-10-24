@@ -1,5 +1,4 @@
-Echinoplaca amapensis Bat. & Poroca SPECIES
-=======
+# Echinoplaca amapensis Bat. & Poroca SPECIES
 
 #### Status
 ACCEPTED

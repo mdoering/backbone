@@ -1,5 +1,4 @@
-Phoma lanceolata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Phoma lanceolata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

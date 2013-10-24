@@ -1,5 +1,4 @@
-Stegocintractia M. Piepenbr., Begerow & Oberw. GENUS
-=======
+# Stegocintractia M. Piepenbr., Begerow & Oberw. GENUS
 
 #### Status
 ACCEPTED

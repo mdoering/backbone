@@ -1,14 +1,13 @@
-Dactylella dasguptaii (S.K. Shome & U. Shome) de Hoog & Oorschot SPECIES
-=======
+# Dactylella dasguptae (S.K. Shome & U. Shome) de Hoog & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 26: 105 (1985)
 
 #### Original name
 Dactylaria dasguptae S.K. Shome & U. Shome, 1966

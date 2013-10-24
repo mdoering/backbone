@@ -1,5 +1,4 @@
-Diderma calcareum (Rostaf.) Kuntze SPECIES
-=======
+# Diderma calcareum (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

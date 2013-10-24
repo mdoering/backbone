@@ -1,5 +1,4 @@
-Graphis atroalba Kremp. SPECIES
-=======
+# Graphis atroalba Kremp. SPECIES
 
 #### Status
 ACCEPTED

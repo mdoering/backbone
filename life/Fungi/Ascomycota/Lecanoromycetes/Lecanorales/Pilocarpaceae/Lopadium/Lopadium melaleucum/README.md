@@ -1,5 +1,4 @@
-Lopadium melaleucum var. melaleucum VARIETY
-=======
+# Lopadium melaleucum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 64: 107 (1881)
 
 #### Original name
-Lopadium melaleucum var. melaleucum
+Lopadium melaleucum Müll. Arg.
 
 ### Remarks
 null

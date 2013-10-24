@@ -1,5 +1,4 @@
-Phyllostictites Babajan & Tasl. GENUS
-=======
+# Phyllostictites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

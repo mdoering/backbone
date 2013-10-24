@@ -1,5 +1,4 @@
-Gallaicolichen pacificus Sérus. & Lücking, 2007 SPECIES
-=======
+# Gallaicolichen pacificus Sérus. & Lücking, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocomidium fabius Raabe, 1938 SPECIES
-=======
+# Hypocomidium fabius Raabe, 1938 SPECIES
 
 #### Status
 ACCEPTED

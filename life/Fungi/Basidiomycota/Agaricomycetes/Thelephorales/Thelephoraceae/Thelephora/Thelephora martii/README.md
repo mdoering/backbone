@@ -1,5 +1,4 @@
-Thelephora martii Sacc. & D. Sacc. SPECIES
-=======
+# Thelephora martii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synandromyces telephani Thaxt., 1912 SPECIES
-=======
+# Synandromyces telephani Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

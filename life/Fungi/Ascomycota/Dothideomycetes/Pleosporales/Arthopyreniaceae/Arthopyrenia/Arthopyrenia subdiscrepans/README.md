@@ -1,5 +1,4 @@
-Arthopyrenia subdiscrepans (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia subdiscrepans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

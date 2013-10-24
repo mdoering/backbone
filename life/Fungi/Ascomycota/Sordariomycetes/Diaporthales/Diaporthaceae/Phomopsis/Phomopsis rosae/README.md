@@ -1,14 +1,13 @@
-Phoma rosae Schulzer & Sacc., 1884 SPECIES
-=======
+# Phomopsis rosae (Schulzer & Sacc.) Died., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 76 (1884)
+Annls mycol. 9(1): 29 (1911)
 
 #### Original name
 Phoma rosae Schulzer & Sacc., 1884

@@ -1,5 +1,4 @@
-Multispinula quanta Bradford, 1975 SPECIES
-=======
+# Multispinula quanta Bradford, 1975 SPECIES
 
 #### Status
 ACCEPTED

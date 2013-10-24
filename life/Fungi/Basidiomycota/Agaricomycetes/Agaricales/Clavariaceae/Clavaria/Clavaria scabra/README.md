@@ -1,5 +1,4 @@
-Clavaria scabra Berk. SPECIES
-=======
+# Clavaria scabra Berk. SPECIES
 
 #### Status
 ACCEPTED

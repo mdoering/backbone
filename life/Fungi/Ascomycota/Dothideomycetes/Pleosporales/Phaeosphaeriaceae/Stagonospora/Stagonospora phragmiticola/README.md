@@ -1,5 +1,4 @@
-Stagonospora phragmiticola Hansf. SPECIES
-=======
+# Stagonospora phragmiticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

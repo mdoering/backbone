@@ -1,5 +1,4 @@
-Graphis subregularis A.W. Archer SPECIES
-=======
+# Graphis subregularis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

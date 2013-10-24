@@ -1,5 +1,4 @@
-Puccinia nothoscordi H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia nothoscordi H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

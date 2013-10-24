@@ -1,5 +1,4 @@
-Aphanothece karukerae Lami SPECIES
-=======
+# Aphanothece karukerae Lami SPECIES
 
 #### Status
 ACCEPTED

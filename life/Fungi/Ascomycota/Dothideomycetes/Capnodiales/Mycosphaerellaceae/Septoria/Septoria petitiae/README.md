@@ -1,5 +1,4 @@
-Septoria petitiae Garman SPECIES
-=======
+# Septoria petitiae Garman SPECIES
 
 #### Status
 ACCEPTED

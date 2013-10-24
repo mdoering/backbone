@@ -1,5 +1,4 @@
-Obeliospora basispira Nawawi & Kuthub., 1990 SPECIES
-=======
+# Obeliospora basispira Nawawi & Kuthub., 1990 SPECIES
 
 #### Status
 ACCEPTED

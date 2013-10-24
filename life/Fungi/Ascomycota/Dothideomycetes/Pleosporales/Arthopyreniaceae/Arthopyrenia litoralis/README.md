@@ -1,5 +1,4 @@
-Arthopyrenia litoralis Arnold SPECIES
-=======
+# Arthopyrenia litoralis Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia vainioi R. Sant., 1952 SPECIES
-=======
+# Tricharia vainioi R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

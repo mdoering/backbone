@@ -1,5 +1,4 @@
-Craterellus odoratus (Schwein.) Fr. SPECIES
-=======
+# Craterellus odoratus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

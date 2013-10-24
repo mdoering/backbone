@@ -1,5 +1,4 @@
-Geastrum dissimile Bottomley SPECIES
-=======
+# Geastrum dissimile Bottomley SPECIES
 
 #### Status
 ACCEPTED

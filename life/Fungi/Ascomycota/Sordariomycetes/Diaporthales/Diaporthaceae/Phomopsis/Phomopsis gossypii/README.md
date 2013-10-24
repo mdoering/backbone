@@ -1,5 +1,4 @@
-Phomopsis gossypii (Sacc.) Palmateer, K.S. McLean & Morgan-Jones SPECIES
-=======
+# Phomopsis gossypii (Sacc.) Palmateer, K.S. McLean & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

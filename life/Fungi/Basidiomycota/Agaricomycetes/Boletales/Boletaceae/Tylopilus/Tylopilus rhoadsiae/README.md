@@ -1,5 +1,4 @@
-Tylopilus rhoadsiae (Murrill) Murrill SPECIES
-=======
+# Tylopilus rhoadsiae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Penicillium victoriae Svilv., 1936 SPECIES
-=======
+# Paecilomyces victoriae (Svilv.) A.H.S. Br. & G. Sm., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archiv für Hydrobiologie 14(Suppl. 3): 538 (1936)
+Trans. Br. mycol. Soc. 40: 60 (1957)
 
 #### Original name
 Penicillium victoriae Svilv., 1936

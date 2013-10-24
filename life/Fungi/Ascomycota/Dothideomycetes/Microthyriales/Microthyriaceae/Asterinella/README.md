@@ -1,5 +1,4 @@
-Asterinella Theiss. GENUS
-=======
+# Asterinella Theiss. GENUS
 
 #### Status
 ACCEPTED

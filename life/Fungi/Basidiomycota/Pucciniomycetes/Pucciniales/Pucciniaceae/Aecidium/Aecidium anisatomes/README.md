@@ -1,5 +1,4 @@
-Aecidium anisatomes Reichardt SPECIES
-=======
+# Aecidium anisatomes Reichardt SPECIES
 
 #### Status
 ACCEPTED

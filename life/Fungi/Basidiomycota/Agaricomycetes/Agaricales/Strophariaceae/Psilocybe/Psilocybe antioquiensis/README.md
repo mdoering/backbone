@@ -1,5 +1,4 @@
-Psilocybe antioquiensis Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
-=======
+# Psilocybe antioquiensis Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
 
 #### Status
 ACCEPTED

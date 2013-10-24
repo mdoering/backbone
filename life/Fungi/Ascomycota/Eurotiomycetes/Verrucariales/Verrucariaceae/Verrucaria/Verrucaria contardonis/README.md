@@ -1,5 +1,4 @@
-Verrucaria contardonis Servít SPECIES
-=======
+# Verrucaria contardonis Servít SPECIES
 
 #### Status
 ACCEPTED

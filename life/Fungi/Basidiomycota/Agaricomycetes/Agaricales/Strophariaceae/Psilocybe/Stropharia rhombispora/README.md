@@ -1,5 +1,4 @@
-Stropharia rhombispora Höhn. SPECIES
-=======
+# Stropharia rhombispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

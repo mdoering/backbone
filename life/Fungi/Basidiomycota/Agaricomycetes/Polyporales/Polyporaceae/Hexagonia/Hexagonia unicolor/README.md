@@ -1,5 +1,4 @@
-Hexagonia unicolor Fr. SPECIES
-=======
+# Hexagonia unicolor Fr. SPECIES
 
 #### Status
 ACCEPTED

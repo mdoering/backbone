@@ -1,5 +1,4 @@
-Polyporus punicus Kalchbr. SPECIES
-=======
+# Polyporus punicus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

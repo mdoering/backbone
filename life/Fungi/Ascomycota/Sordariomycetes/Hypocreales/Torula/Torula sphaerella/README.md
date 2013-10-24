@@ -1,5 +1,4 @@
-Torula sphaerella Cooke SPECIES
-=======
+# Torula sphaerella Cooke SPECIES
 
 #### Status
 ACCEPTED

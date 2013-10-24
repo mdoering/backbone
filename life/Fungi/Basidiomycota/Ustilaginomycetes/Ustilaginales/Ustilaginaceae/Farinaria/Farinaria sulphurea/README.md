@@ -1,5 +1,4 @@
-Farinaria sulphurea Sowerby SPECIES
-=======
+# Farinaria sulphurea Sowerby SPECIES
 
 #### Status
 ACCEPTED

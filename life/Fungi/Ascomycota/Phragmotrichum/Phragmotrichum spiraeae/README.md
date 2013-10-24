@@ -1,5 +1,4 @@
-Phragmotrichum spiraeae Vestergr. SPECIES
-=======
+# Phragmotrichum spiraeae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

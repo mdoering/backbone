@@ -1,5 +1,4 @@
-Gilmania sawadae (W. Yamam.) Bat. & Cif. SPECIES
-=======
+# Gilmania sawadae (W. Yamam.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

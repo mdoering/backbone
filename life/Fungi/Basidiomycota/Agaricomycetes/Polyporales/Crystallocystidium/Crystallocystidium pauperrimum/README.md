@@ -1,5 +1,4 @@
-Crystallocystidium pauperrimum Rick SPECIES
-=======
+# Crystallocystidium pauperrimum Rick SPECIES
 
 #### Status
 ACCEPTED

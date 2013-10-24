@@ -1,5 +1,4 @@
-Ramularia ranoievichii Karak. SPECIES
-=======
+# Ramularia ranoievichii Karak. SPECIES
 
 #### Status
 ACCEPTED

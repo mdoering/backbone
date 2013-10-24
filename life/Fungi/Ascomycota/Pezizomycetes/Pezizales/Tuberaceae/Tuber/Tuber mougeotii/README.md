@@ -1,5 +1,4 @@
-Tuber mougeotii Quél. SPECIES
-=======
+# Tuber mougeotii Quél. SPECIES
 
 #### Status
 ACCEPTED

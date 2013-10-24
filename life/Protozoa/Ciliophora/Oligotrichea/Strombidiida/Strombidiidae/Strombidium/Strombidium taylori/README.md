@@ -1,5 +1,4 @@
-Strombidium taylori Martin & Montagnes, 1993 SPECIES
-=======
+# Strombidium taylori Martin & Montagnes, 1993 SPECIES
 
 #### Status
 ACCEPTED

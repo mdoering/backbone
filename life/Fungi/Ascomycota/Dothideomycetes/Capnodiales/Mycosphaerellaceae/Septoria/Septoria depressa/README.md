@@ -1,5 +1,4 @@
-Septoria depressa McAlpine SPECIES
-=======
+# Septoria depressa McAlpine SPECIES
 
 #### Status
 ACCEPTED

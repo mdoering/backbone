@@ -1,5 +1,4 @@
-Acarospora epithallina H. Magn. SPECIES
-=======
+# Acarospora epithallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

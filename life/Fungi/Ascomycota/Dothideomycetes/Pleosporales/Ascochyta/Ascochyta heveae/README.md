@@ -1,5 +1,4 @@
-Ascochyta heveae Petch SPECIES
-=======
+# Ascochyta heveae Petch SPECIES
 
 #### Status
 ACCEPTED

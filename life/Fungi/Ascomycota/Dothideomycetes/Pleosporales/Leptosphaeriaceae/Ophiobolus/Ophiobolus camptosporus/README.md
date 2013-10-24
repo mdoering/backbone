@@ -1,5 +1,4 @@
-Ophiobolus camptosporus var. camptosporus VARIETY
-=======
+# Ophiobolus camptosporus Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 2: 344 (1883)
 
 #### Original name
-Ophiobolus camptosporus var. camptosporus
+Ophiobolus camptosporus Sacc.
 
 ### Remarks
 null

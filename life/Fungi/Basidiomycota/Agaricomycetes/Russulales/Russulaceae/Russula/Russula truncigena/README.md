@@ -1,5 +1,4 @@
-Russula truncigena Britzelm. SPECIES
-=======
+# Russula truncigena Britzelm. SPECIES
 
 #### Status
 ACCEPTED

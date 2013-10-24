@@ -1,5 +1,4 @@
-Rimelia albinata K.H. Moon, Kurok. & Kashiw. SPECIES
-=======
+# Rimelia albinata K.H. Moon, Kurok. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

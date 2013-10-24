@@ -1,5 +1,4 @@
-Exidia lagunensis P.W. Graff SPECIES
-=======
+# Exidia lagunensis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

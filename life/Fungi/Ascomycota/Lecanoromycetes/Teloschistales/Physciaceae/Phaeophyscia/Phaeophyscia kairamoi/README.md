@@ -1,17 +1,16 @@
-Physcia karakorina Poelt SPECIES
-=======
+# Phaeophyscia kairamoi (Vain.) Moberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(1): 40 (1977)
 
 #### Original name
-null
+Physcia kairamoi Vain.
 
 ### Remarks
 null

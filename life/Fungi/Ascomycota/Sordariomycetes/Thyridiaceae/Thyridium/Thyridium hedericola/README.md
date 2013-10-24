@@ -1,5 +1,4 @@
-Thyridium hedericola anon. SPECIES
-=======
+# Thyridium hedericola anon. SPECIES
 
 #### Status
 ACCEPTED

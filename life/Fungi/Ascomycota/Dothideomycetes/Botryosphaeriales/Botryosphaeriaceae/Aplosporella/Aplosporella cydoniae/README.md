@@ -1,5 +1,4 @@
-Aplosporella cydoniae (Cooke & Ellis) Petr. SPECIES
-=======
+# Aplosporella cydoniae (Cooke & Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

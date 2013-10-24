@@ -1,5 +1,4 @@
-Cryptococcus sanniei (Cif. & Redaelli) Nann. SPECIES
-=======
+# Cryptococcus sanniei (Cif. & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

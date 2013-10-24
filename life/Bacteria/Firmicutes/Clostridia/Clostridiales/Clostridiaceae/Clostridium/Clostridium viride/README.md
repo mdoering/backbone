@@ -1,5 +1,4 @@
-Clostridium viride Buckel et al., 1995 SPECIES
-=======
+# Clostridium viride Buckel et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

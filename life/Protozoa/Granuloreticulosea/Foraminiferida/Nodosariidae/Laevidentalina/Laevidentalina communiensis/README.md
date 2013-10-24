@@ -1,8 +1,7 @@
-Dentalina communiensis Saidova, 1975 SPECIES
-=======
+# Laevidentalina communiensis (Saidova, 1975) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Gnomoniella indica P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Gnomoniella indica P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

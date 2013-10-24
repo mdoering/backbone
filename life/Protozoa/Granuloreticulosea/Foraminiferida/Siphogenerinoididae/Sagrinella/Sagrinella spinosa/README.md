@@ -1,5 +1,4 @@
-Sagrinella spinosa (Zheng, 1979) SPECIES
-=======
+# Sagrinella spinosa (Zheng, 1979) SPECIES
 
 #### Status
 ACCEPTED

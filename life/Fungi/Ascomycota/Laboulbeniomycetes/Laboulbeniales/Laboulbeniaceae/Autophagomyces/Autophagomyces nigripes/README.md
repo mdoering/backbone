@@ -1,5 +1,4 @@
-Autophagomyces nigripes Thaxt. SPECIES
-=======
+# Autophagomyces nigripes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

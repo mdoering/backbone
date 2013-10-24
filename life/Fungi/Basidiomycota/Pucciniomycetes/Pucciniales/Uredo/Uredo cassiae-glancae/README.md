@@ -1,5 +1,4 @@
-Uredo cassiae-glancae Syd. SPECIES
-=======
+# Uredo cassiae-glancae Syd. SPECIES
 
 #### Status
 ACCEPTED

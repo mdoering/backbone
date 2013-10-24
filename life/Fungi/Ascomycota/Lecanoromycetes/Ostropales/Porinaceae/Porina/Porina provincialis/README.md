@@ -1,5 +1,4 @@
-Porina provincialis (Clauzade & Cl. Roux) Cl. Roux SPECIES
-=======
+# Porina provincialis (Clauzade & Cl. Roux) Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

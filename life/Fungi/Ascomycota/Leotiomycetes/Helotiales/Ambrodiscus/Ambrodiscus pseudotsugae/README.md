@@ -1,5 +1,4 @@
-Ambrodiscus pseudotsugae S.E. Carp., 1988 SPECIES
-=======
+# Ambrodiscus pseudotsugae S.E. Carp., 1988 SPECIES
 
 #### Status
 ACCEPTED

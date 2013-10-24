@@ -1,5 +1,4 @@
-Dictyota littoralis P. Anand SPECIES
-=======
+# Dictyota littoralis P. Anand SPECIES
 
 #### Status
 ACCEPTED

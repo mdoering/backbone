@@ -1,5 +1,4 @@
-Phoma doliolum P. Karst. SPECIES
-=======
+# Phoma doliolum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

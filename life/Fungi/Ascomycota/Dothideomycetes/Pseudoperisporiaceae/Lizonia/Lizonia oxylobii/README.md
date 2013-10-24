@@ -1,5 +1,4 @@
-Lizonia oxylobii Henn. SPECIES
-=======
+# Lizonia oxylobii Henn. SPECIES
 
 #### Status
 ACCEPTED

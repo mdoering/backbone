@@ -1,5 +1,4 @@
-Didonia picea Velen. SPECIES
-=======
+# Didonia picea Velen. SPECIES
 
 #### Status
 ACCEPTED

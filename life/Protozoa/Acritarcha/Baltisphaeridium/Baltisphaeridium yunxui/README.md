@@ -1,5 +1,4 @@
-Baltisphaeridium yunxui Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium yunxui Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

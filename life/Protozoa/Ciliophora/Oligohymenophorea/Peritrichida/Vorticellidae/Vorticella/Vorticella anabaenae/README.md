@@ -1,5 +1,4 @@
-Vorticella anabaenae Ruttner, 1937 SPECIES
-=======
+# Vorticella anabaenae Ruttner, 1937 SPECIES
 
 #### Status
 ACCEPTED

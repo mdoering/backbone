@@ -1,5 +1,4 @@
-Ochrosphaera Sawada, 1959 GENUS
-=======
+# Ochrosphaera Sawada, 1959 GENUS
 
 #### Status
 ACCEPTED

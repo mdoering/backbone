@@ -1,5 +1,4 @@
-Crassiangulina tesselita Jardiné et al., 1972 emend. Wauthoz, Dorning & Le Hérissé, 2003 SPECIES
-=======
+# Crassiangulina tesselita Jardiné et al., 1972 emend. Wauthoz, Dorning & Le Hérissé, 2003 SPECIES
 
 #### Status
 ACCEPTED

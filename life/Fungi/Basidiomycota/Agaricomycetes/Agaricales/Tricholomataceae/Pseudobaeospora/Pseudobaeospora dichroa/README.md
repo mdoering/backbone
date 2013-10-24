@@ -1,5 +1,4 @@
-Pseudobaeospora dichroa f. cystidiata Bas, 2002 FORM
-=======
+# Pseudobaeospora dichroa Bas, 2002 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 18(1): 120 (2002)
+null
 
 #### Original name
-Pseudobaeospora dichroa f. cystidiata Bas, 2002
+null
 
 ### Remarks
 null

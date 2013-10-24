@@ -1,17 +1,16 @@
-Calicium consociatum Nádv. SPECIES
-=======
+# Chaenothecopsis consociata (Nádv.) A. F. W. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. Staatsinst. Allg. Bot. Hamburg 13: 148 (1970)
 
 #### Original name
-null
+Calicium consociatum Nádv.
 
 ### Remarks
 null

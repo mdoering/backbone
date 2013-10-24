@@ -1,5 +1,4 @@
-Phyllosticta garbovskii Gucevic SPECIES
-=======
+# Phyllosticta garbovskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora yuccae-gloriosae Crous, U. Braun & Alfenas SPECIES
-=======
+# Passalora yuccae-gloriosae Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

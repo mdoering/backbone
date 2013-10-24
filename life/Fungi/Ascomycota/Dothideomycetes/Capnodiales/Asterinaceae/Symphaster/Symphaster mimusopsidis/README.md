@@ -1,5 +1,4 @@
-Symphaster mimusopsidis Hosag., Sabeena & D.K. Agarwal, 2009 SPECIES
-=======
+# Symphaster mimusopsidis Hosag., Sabeena & D.K. Agarwal, 2009 SPECIES
 
 #### Status
 ACCEPTED

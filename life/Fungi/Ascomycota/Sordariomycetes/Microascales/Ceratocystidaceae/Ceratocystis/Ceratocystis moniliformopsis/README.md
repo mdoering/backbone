@@ -1,5 +1,4 @@
-Ceratocystis moniliformopsis Z.Q. Yuan & C. Mohammed SPECIES
-=======
+# Ceratocystis moniliformopsis Z.Q. Yuan & C. Mohammed SPECIES
 
 #### Status
 ACCEPTED

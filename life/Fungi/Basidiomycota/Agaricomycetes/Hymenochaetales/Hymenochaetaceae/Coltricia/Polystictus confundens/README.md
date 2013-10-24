@@ -1,5 +1,4 @@
-Polystictus confundens (Ces.) Cooke SPECIES
-=======
+# Polystictus confundens (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

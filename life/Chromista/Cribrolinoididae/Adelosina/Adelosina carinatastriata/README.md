@@ -1,8 +1,7 @@
-Adelosina milletti var. carinatastriata (Wiesner, 1923) VARIETY
-=======
+# Adelosina carinatastriata (Wiesner, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

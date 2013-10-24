@@ -1,5 +1,4 @@
-Xylaria sordida Speg. SPECIES
-=======
+# Xylaria sordida Speg. SPECIES
 
 #### Status
 ACCEPTED

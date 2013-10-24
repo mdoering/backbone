@@ -1,5 +1,4 @@
-Limacium GENUS
-=======
+# Limacium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buedingiisphaeridium balticum Uutela & Tynni, 1991 SPECIES
-=======
+# Buedingiisphaeridium balticum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

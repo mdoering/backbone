@@ -1,5 +1,4 @@
-Puccinia impedita Mains & Holw. SPECIES
-=======
+# Puccinia impedita Mains & Holw. SPECIES
 
 #### Status
 ACCEPTED

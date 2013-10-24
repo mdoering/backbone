@@ -1,5 +1,4 @@
-Secoliga beckhausii (Körb.) Stizenb. SPECIES
-=======
+# Secoliga beckhausii (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

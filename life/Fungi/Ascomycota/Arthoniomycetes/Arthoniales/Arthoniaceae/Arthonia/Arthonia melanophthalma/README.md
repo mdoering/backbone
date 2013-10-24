@@ -1,5 +1,4 @@
-Arthonia melanophthalma Dufour SPECIES
-=======
+# Arthonia melanophthalma Dufour SPECIES
 
 #### Status
 ACCEPTED

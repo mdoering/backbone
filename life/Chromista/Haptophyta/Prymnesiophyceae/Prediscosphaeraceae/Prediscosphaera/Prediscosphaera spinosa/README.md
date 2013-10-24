@@ -1,5 +1,4 @@
-Prediscosphaera spinosa (Bramlette & Martini, 1964) Gartner, 1968 SPECIES
-=======
+# Prediscosphaera spinosa (Bramlette & Martini, 1964) Gartner, 1968 SPECIES
 
 #### Status
 ACCEPTED

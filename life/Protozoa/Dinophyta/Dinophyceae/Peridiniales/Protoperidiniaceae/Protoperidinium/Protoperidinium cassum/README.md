@@ -1,5 +1,4 @@
-Protoperidinium cassum var. decens (E. Balech) E. Balech VARIETY
-=======
+# Protoperidinium cassum (Balech, 1971) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

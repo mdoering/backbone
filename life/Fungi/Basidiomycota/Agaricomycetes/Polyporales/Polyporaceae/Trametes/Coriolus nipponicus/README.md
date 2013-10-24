@@ -1,5 +1,4 @@
-Coriolus nipponicus (Yasuda) R. Sasaki SPECIES
-=======
+# Coriolus nipponicus (Yasuda) R. Sasaki SPECIES
 
 #### Status
 ACCEPTED

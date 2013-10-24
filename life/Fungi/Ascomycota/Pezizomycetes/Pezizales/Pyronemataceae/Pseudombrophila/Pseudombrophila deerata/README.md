@@ -1,5 +1,4 @@
-Pseudombrophila deerata (P. Karst.) Seaver SPECIES
-=======
+# Pseudombrophila deerata (P. Karst.) Seaver SPECIES
 
 #### Status
 ACCEPTED

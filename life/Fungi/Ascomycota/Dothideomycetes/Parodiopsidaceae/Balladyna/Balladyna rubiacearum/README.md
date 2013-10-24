@@ -1,5 +1,4 @@
-Balladyna rubiacearum Hosag. SPECIES
-=======
+# Balladyna rubiacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

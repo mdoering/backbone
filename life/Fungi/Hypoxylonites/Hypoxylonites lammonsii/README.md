@@ -1,5 +1,4 @@
-Hypoxylonites lammonsii Elsik SPECIES
-=======
+# Hypoxylonites lammonsii Elsik SPECIES
 
 #### Status
 ACCEPTED

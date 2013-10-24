@@ -1,5 +1,4 @@
-Nostoc passerinianum (De Notaris) Bornet & Thuret SPECIES
-=======
+# Nostoc passerinianum (De Notaris) Bornet & Thuret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicola minima Fassat., 1967 SPECIES
-=======
+# Humicola minima Fassat., 1967 SPECIES
 
 #### Status
 ACCEPTED

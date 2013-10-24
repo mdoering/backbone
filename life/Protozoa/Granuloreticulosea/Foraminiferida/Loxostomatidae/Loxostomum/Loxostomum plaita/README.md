@@ -1,5 +1,4 @@
-Loxostomum plaita (Carsey) SPECIES
-=======
+# Loxostomum plaita (Carsey) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium rademirici Quintan., 1985 SPECIES
-=======
+# Penicillium rademirici Quintan., 1985 SPECIES
 
 #### Status
 DOUBTFUL

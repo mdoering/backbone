@@ -1,5 +1,4 @@
-Diplophragmia petsamoënsis Vain. SPECIES
-=======
+# Diplophragmia petsamoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

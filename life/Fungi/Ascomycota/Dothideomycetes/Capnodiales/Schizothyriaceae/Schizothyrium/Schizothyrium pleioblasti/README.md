@@ -1,5 +1,4 @@
-Schizothyrium pleioblasti I. Hino & Katum. SPECIES
-=======
+# Schizothyrium pleioblasti I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

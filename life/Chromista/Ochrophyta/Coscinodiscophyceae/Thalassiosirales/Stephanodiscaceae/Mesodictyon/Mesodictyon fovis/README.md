@@ -1,5 +1,4 @@
-Mesodictyon fovis E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
-=======
+# Mesodictyon fovis E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
 
 #### Status
 ACCEPTED

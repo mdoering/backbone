@@ -1,5 +1,4 @@
-Rhizosporium stachyos (Wallr.) Rabenh. SPECIES
-=======
+# Rhizosporium stachyos (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

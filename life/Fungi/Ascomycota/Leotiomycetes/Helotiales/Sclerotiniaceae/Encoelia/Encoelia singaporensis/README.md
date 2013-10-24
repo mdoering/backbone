@@ -1,5 +1,4 @@
-Encoelia singaporensis E.K. Cash & Corner SPECIES
-=======
+# Encoelia singaporensis E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

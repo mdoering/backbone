@@ -1,5 +1,4 @@
-Diaporthe halesiae Ellis & Everh. SPECIES
-=======
+# Diaporthe halesiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora fodiens P. Karst. & Malbr. SPECIES
-=======
+# Teichospora fodiens P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

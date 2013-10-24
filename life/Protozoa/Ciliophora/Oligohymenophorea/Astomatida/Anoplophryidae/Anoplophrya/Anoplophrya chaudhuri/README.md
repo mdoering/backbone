@@ -1,5 +1,4 @@
-Anoplophrya chaudhuri SPECIES
-=======
+# Anoplophrya chaudhuri SPECIES
 
 #### Status
 ACCEPTED

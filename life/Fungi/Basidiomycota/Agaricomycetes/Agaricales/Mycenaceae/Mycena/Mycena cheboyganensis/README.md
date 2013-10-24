@@ -1,5 +1,4 @@
-Mycena cheboyganensis A.H. Sm. SPECIES
-=======
+# Mycena cheboyganensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

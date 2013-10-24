@@ -1,5 +1,4 @@
-Areoligera sentosa Eaton, 1976 SPECIES
-=======
+# Areoligera sentosa Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

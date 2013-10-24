@@ -1,5 +1,4 @@
-Hymenoscyphus fugitivus (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus fugitivus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Variostoma Kristan-Tollmann, 1960 GENUS
-=======
+# Variostoma Kristan-Tollmann, 1960 GENUS
 
 #### Status
 ACCEPTED

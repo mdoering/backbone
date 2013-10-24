@@ -1,5 +1,4 @@
-Anomoporia irpicoides Hjortstam & Ryvarden, 1987 SPECIES
-=======
+# Anomoporia irpicoides Hjortstam & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

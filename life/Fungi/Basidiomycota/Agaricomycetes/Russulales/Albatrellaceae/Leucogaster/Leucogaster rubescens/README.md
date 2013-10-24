@@ -1,5 +1,4 @@
-Leucogaster rubescens Zeller & C.W. Dodge SPECIES
-=======
+# Leucogaster rubescens Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium diploconus Schutt SPECIES
-=======
+# Gymnodinium diploconus Schutt SPECIES
 
 #### Status
 ACCEPTED

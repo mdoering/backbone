@@ -1,5 +1,4 @@
-Marasmius subrhodocephalus Henn. SPECIES
-=======
+# Marasmius subrhodocephalus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma gregaria subsp. gregaria SUBSPECIES
-=======
+# Phoma gregaria Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma gregaria subsp. gregaria
+Phoma gregaria Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatora meadii Tuck. SPECIES
-=======
+# Biatora meadii Tuck. SPECIES
 
 #### Status
 ACCEPTED

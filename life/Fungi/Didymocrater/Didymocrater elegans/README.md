@@ -1,5 +1,4 @@
-Didymocrater elegans Mart. SPECIES
-=======
+# Didymocrater elegans Mart. SPECIES
 
 #### Status
 ACCEPTED

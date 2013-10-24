@@ -1,5 +1,4 @@
-Peziza silvatica Ludw. {?} SPECIES
-=======
+# Peziza silvatica Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

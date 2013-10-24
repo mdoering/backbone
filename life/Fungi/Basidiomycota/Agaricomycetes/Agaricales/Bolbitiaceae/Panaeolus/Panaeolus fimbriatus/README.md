@@ -1,5 +1,4 @@
-Panaeolus fimbriatus A.M. Young SPECIES
-=======
+# Panaeolus fimbriatus A.M. Young SPECIES
 
 #### Status
 ACCEPTED

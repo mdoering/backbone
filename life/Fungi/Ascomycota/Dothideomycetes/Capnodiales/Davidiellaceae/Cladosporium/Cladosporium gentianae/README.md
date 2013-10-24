@@ -1,5 +1,4 @@
-Cladosporium gentianae Lobik SPECIES
-=======
+# Cladosporium gentianae Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sydowina GENUS
-=======
+# Sydowina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium confertum Velen. SPECIES
-=======
+# Helotium confertum Velen. SPECIES
 
 #### Status
 ACCEPTED

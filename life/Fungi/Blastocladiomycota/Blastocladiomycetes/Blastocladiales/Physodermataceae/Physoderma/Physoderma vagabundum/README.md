@@ -1,14 +1,13 @@
-Physoderma vagabunda (Speg.) Karling SPECIES
-=======
+# Physoderma vagabundum (Speg.) Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 13(1): 54 (1950)
 
 #### Original name
 Protomyces vagabundus Speg.

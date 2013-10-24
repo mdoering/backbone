@@ -1,14 +1,13 @@
-Cirsosia manaoensis (Henn.) G. Arnaud SPECIES
-=======
+# Cirsosia manaosensis (Henn.) G. Arnaud, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals d'École National d'Agric. de Montpellier, Série 2 16(1-4): 127 (1918)
 
 #### Original name
 Lembosia manaosensis Henn.

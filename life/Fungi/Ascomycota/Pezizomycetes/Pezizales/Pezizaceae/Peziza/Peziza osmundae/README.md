@@ -1,5 +1,4 @@
-Peziza osmundae Cooke & Ellis SPECIES
-=======
+# Peziza osmundae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

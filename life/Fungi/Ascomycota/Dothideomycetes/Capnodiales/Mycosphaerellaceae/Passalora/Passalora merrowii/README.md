@@ -1,5 +1,4 @@
-Passalora merrowii (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora merrowii (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

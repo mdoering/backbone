@@ -1,5 +1,4 @@
-Sirolpidium H.E. Petersen GENUS
-=======
+# Sirolpidium H.E. Petersen GENUS
 
 #### Status
 ACCEPTED

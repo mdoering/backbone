@@ -1,5 +1,4 @@
-Mycomicrothelia conothelena (Nyl.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia conothelena (Nyl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

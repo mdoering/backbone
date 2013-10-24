@@ -1,5 +1,4 @@
-Filosporella longispora Shearer SPECIES
-=======
+# Filosporella longispora Shearer SPECIES
 
 #### Status
 ACCEPTED

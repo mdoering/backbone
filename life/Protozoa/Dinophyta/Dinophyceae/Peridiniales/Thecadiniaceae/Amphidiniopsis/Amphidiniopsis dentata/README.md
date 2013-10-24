@@ -1,5 +1,4 @@
-Amphidiniopsis dentata M. Hoppenrath SPECIES
-=======
+# Amphidiniopsis dentata M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

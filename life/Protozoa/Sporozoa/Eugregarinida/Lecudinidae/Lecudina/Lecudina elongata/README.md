@@ -1,5 +1,4 @@
-Lecudina elongata Mingazzini, 1891 SPECIES
-=======
+# Lecudina elongata Mingazzini, 1891 SPECIES
 
 #### Status
 ACCEPTED

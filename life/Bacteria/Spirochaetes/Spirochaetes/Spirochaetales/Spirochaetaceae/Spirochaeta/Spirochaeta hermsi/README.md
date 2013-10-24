@@ -1,5 +1,4 @@
-Spirochaeta hermsi SPECIES
-=======
+# Spirochaeta hermsi SPECIES
 
 #### Status
 ACCEPTED

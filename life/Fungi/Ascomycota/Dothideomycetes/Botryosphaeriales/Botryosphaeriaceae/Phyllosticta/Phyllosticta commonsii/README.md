@@ -1,5 +1,4 @@
-Phyllosticta commonsii Ellis & Everh. SPECIES
-=======
+# Phyllosticta commonsii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

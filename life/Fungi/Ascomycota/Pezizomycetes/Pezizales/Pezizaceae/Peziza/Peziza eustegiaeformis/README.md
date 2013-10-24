@@ -1,5 +1,4 @@
-Peziza eustegiaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza eustegiaeformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

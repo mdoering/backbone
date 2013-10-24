@@ -1,5 +1,4 @@
-Dictyosphaera yunnanensis Xing Yusheng, 1982 SPECIES
-=======
+# Dictyosphaera yunnanensis Xing Yusheng, 1982 SPECIES
 
 #### Status
 ACCEPTED

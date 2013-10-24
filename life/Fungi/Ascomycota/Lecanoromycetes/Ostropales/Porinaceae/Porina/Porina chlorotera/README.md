@@ -1,5 +1,4 @@
-Porina chlorotera (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina chlorotera (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichozygospora Lichtw. GENUS
-=======
+# Trichozygospora Lichtw. GENUS
 
 #### Status
 ACCEPTED

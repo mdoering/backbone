@@ -1,17 +1,16 @@
-Pileolaria clemensiae Cummins, 1937 SPECIES
-=======
+# Pileolaria pistaciae F.L. Tai & C.T. Wei, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sinensia, Shanghai 4: 108 (1933)
 
 #### Original name
-null
+Pileolaria pistaciae F.L. Tai & C.T. Wei, 1933
 
 ### Remarks
 null

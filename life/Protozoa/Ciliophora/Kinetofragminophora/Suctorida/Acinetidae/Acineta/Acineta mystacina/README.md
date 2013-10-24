@@ -1,11 +1,10 @@
-Acineta mystacina subsp. mystacina SUBSPECIES
-=======
+# Acineta mystacina Dumas SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

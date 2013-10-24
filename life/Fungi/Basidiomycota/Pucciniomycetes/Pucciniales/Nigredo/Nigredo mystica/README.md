@@ -1,5 +1,4 @@
-Nigredo mystica (Arthur) Arthur SPECIES
-=======
+# Nigredo mystica (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

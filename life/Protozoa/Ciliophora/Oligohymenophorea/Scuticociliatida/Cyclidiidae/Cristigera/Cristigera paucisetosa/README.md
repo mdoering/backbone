@@ -1,5 +1,4 @@
-Cristigera paucisetosa (Gourret & Roeser, 1888) Kahl, 1931 SPECIES
-=======
+# Cristigera paucisetosa (Gourret & Roeser, 1888) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

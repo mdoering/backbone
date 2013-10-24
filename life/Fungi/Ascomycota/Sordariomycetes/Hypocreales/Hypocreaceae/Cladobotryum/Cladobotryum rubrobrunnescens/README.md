@@ -1,5 +1,4 @@
-Cladobotryum rubrobrunnescens Helfer, 1991 SPECIES
-=======
+# Cladobotryum rubrobrunnescens Helfer, 1991 SPECIES
 
 #### Status
 ACCEPTED

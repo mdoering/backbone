@@ -1,5 +1,4 @@
-Teichospora latviae Kirschst. SPECIES
-=======
+# Teichospora latviae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

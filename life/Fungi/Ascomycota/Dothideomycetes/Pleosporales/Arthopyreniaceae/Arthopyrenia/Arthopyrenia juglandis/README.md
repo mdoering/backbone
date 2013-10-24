@@ -1,5 +1,4 @@
-Arthopyrenia juglandis A. Massal. SPECIES
-=======
+# Arthopyrenia juglandis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

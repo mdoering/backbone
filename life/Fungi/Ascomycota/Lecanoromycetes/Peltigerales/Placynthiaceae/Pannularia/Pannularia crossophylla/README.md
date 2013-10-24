@@ -1,5 +1,4 @@
-Pannularia crossophylla (Nyl.) Nyl. SPECIES
-=======
+# Pannularia crossophylla (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypsostroma caimitalense Huhndorf, 1992 SPECIES
-=======
+# Hypsostroma caimitalense Huhndorf, 1992 SPECIES
 
 #### Status
 ACCEPTED

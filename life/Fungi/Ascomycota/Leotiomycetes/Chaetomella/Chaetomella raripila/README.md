@@ -1,5 +1,4 @@
-Chaetomella raripila (Mont.) Sacc. SPECIES
-=======
+# Chaetomella raripila (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valvulineria humilis SPECIES
-=======
+# Valvulineria humilis SPECIES
 
 #### Status
 ACCEPTED

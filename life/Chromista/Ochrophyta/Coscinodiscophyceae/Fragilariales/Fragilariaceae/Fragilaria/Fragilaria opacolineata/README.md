@@ -1,5 +1,4 @@
-Fragilaria opacolineata Lange-Bertalot SPECIES
-=======
+# Fragilaria opacolineata Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

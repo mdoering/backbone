@@ -1,5 +1,4 @@
-Taeniosphaeridium parvum Uutela & Tynni, 1991 SPECIES
-=======
+# Taeniosphaeridium parvum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

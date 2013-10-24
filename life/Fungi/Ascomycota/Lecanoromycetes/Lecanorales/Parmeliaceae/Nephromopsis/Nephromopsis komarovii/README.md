@@ -1,5 +1,4 @@
-Nephromopsis komarovii (Elenkin) J.C. Wei SPECIES
-=======
+# Nephromopsis komarovii (Elenkin) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

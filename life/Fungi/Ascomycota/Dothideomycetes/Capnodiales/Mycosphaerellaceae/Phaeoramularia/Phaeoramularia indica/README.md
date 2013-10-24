@@ -1,5 +1,4 @@
-Phaeoramularia indica S.K. Singh, R.K. Chaudhary & Meenu SPECIES
-=======
+# Phaeoramularia indica S.K. Singh, R.K. Chaudhary & Meenu SPECIES
 
 #### Status
 ACCEPTED

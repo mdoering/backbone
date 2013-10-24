@@ -1,5 +1,4 @@
-Cylindrosporium gei Farl. SPECIES
-=======
+# Cylindrosporium gei Farl. SPECIES
 
 #### Status
 ACCEPTED

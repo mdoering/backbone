@@ -1,5 +1,4 @@
-Stigmina capsularum (Thüm.) Pound & Clem. SPECIES
-=======
+# Stigmina capsularum (Thüm.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

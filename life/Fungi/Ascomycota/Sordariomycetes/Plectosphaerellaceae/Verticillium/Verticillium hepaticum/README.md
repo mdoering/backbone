@@ -1,5 +1,4 @@
-Verticillium hepaticum (Wallr.) Rabenh. SPECIES
-=======
+# Verticillium hepaticum (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

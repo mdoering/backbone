@@ -1,5 +1,4 @@
-Hebeloma araneosa Burds., 1986 SPECIES
-=======
+# Hebeloma araneosa Burds., 1986 SPECIES
 
 #### Status
 ACCEPTED

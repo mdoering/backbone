@@ -1,5 +1,4 @@
-Agaricus rigescens Berk. & Broome SPECIES
-=======
+# Agaricus rigescens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

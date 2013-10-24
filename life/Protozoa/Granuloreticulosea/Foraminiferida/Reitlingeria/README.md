@@ -1,5 +1,4 @@
-Reitlingeria Pronina, 1989 GENUS
-=======
+# Reitlingeria Pronina, 1989 GENUS
 
 #### Status
 ACCEPTED

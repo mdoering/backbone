@@ -1,14 +1,13 @@
-Graphis leiogrammodes Kremp. SPECIES
-=======
+# Phaeographis leiogrammodes (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 23: 397 (1891)
 
 #### Original name
 Graphis leiogrammodes Kremp.

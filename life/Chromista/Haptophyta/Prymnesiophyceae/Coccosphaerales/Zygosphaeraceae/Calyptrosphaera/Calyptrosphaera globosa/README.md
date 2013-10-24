@@ -1,5 +1,4 @@
-Calyptrosphaera globosa Lohman, 1902 SPECIES
-=======
+# Calyptrosphaera globosa Lohman, 1902 SPECIES
 
 #### Status
 ACCEPTED

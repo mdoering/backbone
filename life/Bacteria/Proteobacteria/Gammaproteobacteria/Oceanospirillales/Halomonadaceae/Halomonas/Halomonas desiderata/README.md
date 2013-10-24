@@ -1,5 +1,4 @@
-Halomonas desiderata Berendes et al., 1997 SPECIES
-=======
+# Halomonas desiderata Berendes et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

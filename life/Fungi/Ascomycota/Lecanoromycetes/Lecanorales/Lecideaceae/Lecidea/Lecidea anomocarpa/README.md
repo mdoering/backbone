@@ -1,5 +1,4 @@
-Lecidea anomocarpa Müll. Arg. SPECIES
-=======
+# Lecidea anomocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

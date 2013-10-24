@@ -1,5 +1,4 @@
-Eriosporangium inauditum (H.S. Jacks. & Holw.) Syd. SPECIES
-=======
+# Eriosporangium inauditum (H.S. Jacks. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

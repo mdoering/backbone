@@ -1,5 +1,4 @@
-Hydnum nyssae Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum nyssae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

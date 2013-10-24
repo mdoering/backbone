@@ -1,5 +1,4 @@
-Septoria xanthismatis Dearn. & House SPECIES
-=======
+# Septoria xanthismatis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

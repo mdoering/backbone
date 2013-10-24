@@ -1,5 +1,4 @@
-Lecanora tolypodes Poelt & Vezda SPECIES
-=======
+# Lecanora tolypodes Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

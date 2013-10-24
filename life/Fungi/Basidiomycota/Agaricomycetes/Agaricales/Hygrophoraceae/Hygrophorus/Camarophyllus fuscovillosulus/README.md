@@ -1,5 +1,4 @@
-Camarophyllus fuscovillosulus (S. Imai) S. Ito SPECIES
-=======
+# Camarophyllus fuscovillosulus (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

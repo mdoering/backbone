@@ -1,14 +1,13 @@
-Ophionectria palicoureae Seaver & Whetzel SPECIES
-=======
+# Lillicoa palicoureae (Seaver & Whetzel) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Seaver & Chardón, Scient. Surv. P. Rico 8(1): 45 (1926)
+Mycotaxon 5(1): 59 (1977)
 
 #### Original name
 Ophionectria palicoureae Seaver & Whetzel

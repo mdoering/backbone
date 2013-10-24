@@ -1,5 +1,4 @@
-Plasmopara paulowniae C.C. Chen SPECIES
-=======
+# Plasmopara paulowniae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

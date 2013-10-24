@@ -1,5 +1,4 @@
-Poculum helotioides (Rehm) T. Schumach. & L.M. Kohn SPECIES
-=======
+# Poculum helotioides (Rehm) T. Schumach. & L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

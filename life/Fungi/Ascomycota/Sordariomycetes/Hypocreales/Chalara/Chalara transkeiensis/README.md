@@ -1,5 +1,4 @@
-Chalara transkeiensis Morgan-Jones, J.B. Sinclair & Eicker SPECIES
-=======
+# Chalara transkeiensis Morgan-Jones, J.B. Sinclair & Eicker SPECIES
 
 #### Status
 ACCEPTED

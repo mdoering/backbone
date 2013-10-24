@@ -1,5 +1,4 @@
-Diplodina farnetii Cavara SPECIES
-=======
+# Diplodina farnetii Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium arctostaphyli (Vize) Tassi SPECIES
-=======
+# Coniothyrium arctostaphyli (Vize) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma inulina Sacc. SPECIES
-=======
+# Phoma inulina Sacc. SPECIES
 
 #### Status
 ACCEPTED

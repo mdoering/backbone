@@ -1,5 +1,4 @@
-Dermatocarpon abbayesii B. de Lesd. ex Abbayes SPECIES
-=======
+# Dermatocarpon abbayesii B. de Lesd. ex Abbayes SPECIES
 
 #### Status
 ACCEPTED

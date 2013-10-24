@@ -1,5 +1,4 @@
-Coniosporium miserrimum P. Karst. SPECIES
-=======
+# Coniosporium miserrimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria timidula Th. Fr. & Almq. ex Th. Fr. SPECIES
-=======
+# Catillaria timidula Th. Fr. & Almq. ex Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeogalera subfusispora (F.H. Møller) Bon SPECIES
-=======
+# Phaeogalera subfusispora (F.H. Møller) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pardaminela crassicosta Díez & Cramer, 1976 SPECIES
-=======
+# Pardaminela crassicosta Díez & Cramer, 1976 SPECIES
 
 #### Status
 ACCEPTED

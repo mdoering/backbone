@@ -1,5 +1,4 @@
-Schismatomma squamigerum (Kremp.) Zahlbr. SPECIES
-=======
+# Schismatomma squamigerum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

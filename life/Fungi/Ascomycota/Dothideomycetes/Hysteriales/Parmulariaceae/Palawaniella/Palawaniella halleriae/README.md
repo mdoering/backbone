@@ -1,5 +1,4 @@
-Palawaniella halleriae (Dippen.) Arx, 1962 SPECIES
-=======
+# Palawaniella halleriae (Dippen.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

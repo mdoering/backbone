@@ -1,5 +1,4 @@
-Gnomoniella albomaculans Neger SPECIES
-=======
+# Gnomoniella albomaculans Neger SPECIES
 
 #### Status
 ACCEPTED

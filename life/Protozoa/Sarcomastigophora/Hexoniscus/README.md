@@ -1,5 +1,4 @@
-Hexoniscus Haeckel, 1887 GENUS
-=======
+# Hexoniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

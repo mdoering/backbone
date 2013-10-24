@@ -1,5 +1,4 @@
-Diceras chodatii Reverdin SPECIES
-=======
+# Diceras chodatii Reverdin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia violascens (Cooke & Massee) R.T. Baker SPECIES
-=======
+# Calvatia violascens (Cooke & Massee) R.T. Baker SPECIES
 
 #### Status
 ACCEPTED

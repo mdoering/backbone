@@ -1,5 +1,4 @@
-Hydnellum frondosum K.A. Harrison, 1961 SPECIES
-=======
+# Hydnellum frondosum K.A. Harrison, 1961 SPECIES
 
 #### Status
 ACCEPTED

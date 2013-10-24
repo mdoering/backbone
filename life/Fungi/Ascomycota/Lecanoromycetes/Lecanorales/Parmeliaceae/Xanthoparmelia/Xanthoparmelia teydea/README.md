@@ -1,5 +1,4 @@
-Xanthoparmelia teydea Pérez-Varg., Hern.-Padr. & Elix SPECIES
-=======
+# Xanthoparmelia teydea Pérez-Varg., Hern.-Padr. & Elix SPECIES
 
 #### Status
 ACCEPTED

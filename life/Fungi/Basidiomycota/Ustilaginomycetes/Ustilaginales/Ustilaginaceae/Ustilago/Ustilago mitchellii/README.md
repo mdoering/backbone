@@ -1,5 +1,4 @@
-Ustilago mitchellii Syd. & P. Syd. SPECIES
-=======
+# Ustilago mitchellii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria reticulata Fuckel SPECIES
-=======
+# Plicaria reticulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

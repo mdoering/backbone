@@ -1,5 +1,4 @@
-Stigmidium porinae Matzer SPECIES
-=======
+# Stigmidium porinae Matzer SPECIES
 
 #### Status
 ACCEPTED

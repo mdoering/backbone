@@ -1,5 +1,4 @@
-Gnomonia triostei (Dearn. & House) Dearn. SPECIES
-=======
+# Gnomonia triostei (Dearn. & House) Dearn. SPECIES
 
 #### Status
 ACCEPTED

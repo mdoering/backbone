@@ -1,5 +1,4 @@
-Rhodophyllus gabonicus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus gabonicus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

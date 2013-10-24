@@ -1,5 +1,4 @@
-Rabdiaster Mikrjukov, 1999 GENUS
-=======
+# Rabdiaster Mikrjukov, 1999 GENUS
 
 #### Status
 ACCEPTED

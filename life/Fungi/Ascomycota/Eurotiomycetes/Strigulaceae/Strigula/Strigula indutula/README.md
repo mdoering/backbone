@@ -1,14 +1,13 @@
-Verrucaria inductula Nyl. SPECIES
-=======
+# Strigula indutula (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 157 (1995)
 
 #### Original name
 Verrucaria inductula Nyl.

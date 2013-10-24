@@ -1,5 +1,4 @@
-Haptophrya Stein, 1867 GENUS
-=======
+# Haptophrya Stein, 1867 GENUS
 
 #### Status
 ACCEPTED

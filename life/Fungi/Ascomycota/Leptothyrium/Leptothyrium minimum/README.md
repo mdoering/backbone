@@ -1,5 +1,4 @@
-Leptothyrium minimum Allesch. SPECIES
-=======
+# Leptothyrium minimum Allesch. SPECIES
 
 #### Status
 ACCEPTED

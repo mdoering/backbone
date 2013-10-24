@@ -1,5 +1,4 @@
-Hyphelia aurantia Lib. SPECIES
-=======
+# Hyphelia aurantia Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllomyces multiplex Lloyd SPECIES
-=======
+# Phyllomyces multiplex Lloyd SPECIES
 
 #### Status
 ACCEPTED

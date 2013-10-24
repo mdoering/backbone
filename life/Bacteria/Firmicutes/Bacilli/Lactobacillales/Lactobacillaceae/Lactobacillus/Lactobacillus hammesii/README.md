@@ -1,5 +1,4 @@
-Lactobacillus hammesii Valcheva et al., 2005 SPECIES
-=======
+# Lactobacillus hammesii Valcheva et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

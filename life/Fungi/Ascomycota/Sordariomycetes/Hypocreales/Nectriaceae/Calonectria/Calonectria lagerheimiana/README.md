@@ -1,5 +1,4 @@
-Calonectria lagerheimiana Pat. SPECIES
-=======
+# Calonectria lagerheimiana Pat. SPECIES
 
 #### Status
 ACCEPTED

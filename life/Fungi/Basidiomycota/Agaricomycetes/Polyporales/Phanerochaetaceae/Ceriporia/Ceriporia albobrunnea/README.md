@@ -1,5 +1,4 @@
-Ceriporia albobrunnea Ryvarden & Iturr., 2003 SPECIES
-=======
+# Ceriporia albobrunnea Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

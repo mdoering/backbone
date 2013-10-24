@@ -1,5 +1,4 @@
-Bacidia variegata Zahlbr. SPECIES
-=======
+# Bacidia variegata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

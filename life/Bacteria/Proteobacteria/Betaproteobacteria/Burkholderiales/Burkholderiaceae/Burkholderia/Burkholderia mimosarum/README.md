@@ -1,5 +1,4 @@
-Burkholderia mimosarum Chen et al., 2006 SPECIES
-=======
+# Burkholderia mimosarum Chen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

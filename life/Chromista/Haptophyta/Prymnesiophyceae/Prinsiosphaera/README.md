@@ -1,5 +1,4 @@
-Prinsiosphaera Jafar, 1983 GENUS
-=======
+# Prinsiosphaera Jafar, 1983 GENUS
 
 #### Status
 ACCEPTED

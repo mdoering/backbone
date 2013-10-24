@@ -1,5 +1,4 @@
-Ascochyta patagonica Speg. SPECIES
-=======
+# Ascochyta patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

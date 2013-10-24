@@ -1,5 +1,4 @@
-Trichophyton nodiformans Castell. SPECIES
-=======
+# Trichophyton nodiformans Castell. SPECIES
 
 #### Status
 ACCEPTED

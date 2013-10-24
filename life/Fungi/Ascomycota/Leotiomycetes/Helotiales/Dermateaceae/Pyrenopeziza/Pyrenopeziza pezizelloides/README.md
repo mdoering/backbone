@@ -1,5 +1,4 @@
-Pyrenopeziza pezizelloides Rehm SPECIES
-=======
+# Pyrenopeziza pezizelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

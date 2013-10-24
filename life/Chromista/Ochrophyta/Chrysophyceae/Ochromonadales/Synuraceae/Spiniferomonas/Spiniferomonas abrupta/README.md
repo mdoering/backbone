@@ -1,5 +1,4 @@
-Spiniferomonas abrupta Y. Nielsen SPECIES
-=======
+# Spiniferomonas abrupta Y. Nielsen SPECIES
 
 #### Status
 ACCEPTED

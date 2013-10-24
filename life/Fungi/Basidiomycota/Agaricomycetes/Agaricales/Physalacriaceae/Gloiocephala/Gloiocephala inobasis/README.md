@@ -1,5 +1,4 @@
-Gloiocephala inobasis Singer SPECIES
-=======
+# Gloiocephala inobasis Singer SPECIES
 
 #### Status
 ACCEPTED

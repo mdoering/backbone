@@ -1,5 +1,4 @@
-Septoria persica Sacc. SPECIES
-=======
+# Septoria persica Sacc. SPECIES
 
 #### Status
 ACCEPTED

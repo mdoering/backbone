@@ -1,5 +1,4 @@
-Favolus tenerrimus Berk. SPECIES
-=======
+# Favolus tenerrimus Berk. SPECIES
 
 #### Status
 ACCEPTED

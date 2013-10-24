@@ -1,5 +1,4 @@
-Cladonia cerasphora Vain. SPECIES
-=======
+# Cladonia cerasphora Vain. SPECIES
 
 #### Status
 ACCEPTED

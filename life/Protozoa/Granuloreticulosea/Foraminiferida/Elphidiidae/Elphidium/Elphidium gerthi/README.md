@@ -1,5 +1,4 @@
-Elphidium gerthi Van Voorthuysen, 1957 SPECIES
-=======
+# Elphidium gerthi Van Voorthuysen, 1957 SPECIES
 
 #### Status
 ACCEPTED

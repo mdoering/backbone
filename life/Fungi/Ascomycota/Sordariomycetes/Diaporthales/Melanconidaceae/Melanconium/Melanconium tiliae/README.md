@@ -1,5 +1,4 @@
-Melanconium tiliae Peck SPECIES
-=======
+# Melanconium tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetanaerobacterium elongatum Chen & Dong, 2004 SPECIES
-=======
+# Acetanaerobacterium elongatum Chen & Dong, 2004 SPECIES
 
 #### Status
 ACCEPTED

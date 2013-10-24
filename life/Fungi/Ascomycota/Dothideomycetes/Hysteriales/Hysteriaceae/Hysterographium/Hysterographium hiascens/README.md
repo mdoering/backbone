@@ -1,5 +1,4 @@
-Hysterographium hiascens var. hiascens VARIETY
-=======
+# Hysterographium hiascens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterographium hiascens var. hiascens
+Hysterographium hiascens Rehm
 
 ### Remarks
 null

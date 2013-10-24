@@ -1,5 +1,4 @@
-Peziza gracilis Quél. SPECIES
-=======
+# Peziza gracilis Quél. SPECIES
 
 #### Status
 ACCEPTED

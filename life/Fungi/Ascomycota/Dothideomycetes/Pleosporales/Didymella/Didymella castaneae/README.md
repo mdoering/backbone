@@ -1,5 +1,4 @@
-Didymella castaneae (Tognini) Bubák SPECIES
-=======
+# Didymella castaneae (Tognini) Bubák SPECIES
 
 #### Status
 ACCEPTED

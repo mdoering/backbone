@@ -1,5 +1,4 @@
-Lanzia antarctica Spooner SPECIES
-=======
+# Lanzia antarctica Spooner SPECIES
 
 #### Status
 ACCEPTED

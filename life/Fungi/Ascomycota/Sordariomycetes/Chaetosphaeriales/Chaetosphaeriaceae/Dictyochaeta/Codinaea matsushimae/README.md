@@ -1,5 +1,4 @@
-Codinaea matsushimae Hewings & J.L. Crane SPECIES
-=======
+# Codinaea matsushimae Hewings & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

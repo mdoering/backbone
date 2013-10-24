@@ -1,5 +1,4 @@
-Chaetodiplodina cubensis Bat. & Nascim., 1957 SPECIES
-=======
+# Chaetodiplodina cubensis Bat. & Nascim., 1957 SPECIES
 
 #### Status
 ACCEPTED

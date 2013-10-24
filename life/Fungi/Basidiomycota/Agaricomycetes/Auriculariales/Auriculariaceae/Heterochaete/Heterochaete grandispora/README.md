@@ -1,5 +1,4 @@
-Heterochaete grandispora P.H.B. Talbot SPECIES
-=======
+# Heterochaete grandispora P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

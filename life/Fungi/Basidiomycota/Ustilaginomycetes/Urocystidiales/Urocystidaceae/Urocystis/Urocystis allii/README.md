@@ -1,5 +1,4 @@
-Urocystis allii Schellenb. SPECIES
-=======
+# Urocystis allii Schellenb. SPECIES
 
 #### Status
 ACCEPTED

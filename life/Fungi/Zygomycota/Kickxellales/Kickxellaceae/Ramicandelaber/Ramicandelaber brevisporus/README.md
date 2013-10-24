@@ -1,5 +1,4 @@
-Ramicandelaber brevisporus Kurihara, Degawa & Tokum., 2004 SPECIES
-=======
+# Ramicandelaber brevisporus Kurihara, Degawa & Tokum., 2004 SPECIES
 
 #### Status
 ACCEPTED

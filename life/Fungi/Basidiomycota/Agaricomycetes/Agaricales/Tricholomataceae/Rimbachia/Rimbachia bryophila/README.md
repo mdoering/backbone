@@ -1,14 +1,13 @@
-Leptoglossum bryophilum (Pers.) Ricken, 1915 SPECIES
-=======
+# Rimbachia bryophila (Pers.) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Blätterpilze 1: 6 (1915)
+Can. J. Bot. 62(5): 878 (1984)
 
 #### Original name
 Agaricus bryophilus Pers., 1796

@@ -1,5 +1,4 @@
-Helvella compressa (Snyder) N.S. Weber SPECIES
-=======
+# Helvella compressa (Snyder) N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gnomoniella tubiformis var. tubiformis VARIETY
-=======
+# Gnomoniella tubiformis (Tode) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1: 413 (1882)
+Syll. fung. (Abellini) 1: 413 (1882)
 
 #### Original name
-Gnomoniella tubiformis var. tubiformis
+Sphaeria tubiformis Tode, 1790
 
 ### Remarks
 null

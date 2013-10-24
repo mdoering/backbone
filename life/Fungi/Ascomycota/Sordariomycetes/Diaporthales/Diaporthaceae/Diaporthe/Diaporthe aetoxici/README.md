@@ -1,5 +1,4 @@
-Diaporthe aetoxici Speg. SPECIES
-=======
+# Diaporthe aetoxici Speg. SPECIES
 
 #### Status
 ACCEPTED

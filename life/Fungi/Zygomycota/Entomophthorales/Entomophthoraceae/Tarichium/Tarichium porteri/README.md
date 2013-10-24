@@ -1,5 +1,4 @@
-Tarichium porteri (R.S. Soper) Balazy SPECIES
-=======
+# Tarichium porteri (R.S. Soper) Balazy SPECIES
 
 #### Status
 ACCEPTED

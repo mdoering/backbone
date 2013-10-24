@@ -1,5 +1,4 @@
-Bacidia basalticola Malme SPECIES
-=======
+# Bacidia basalticola Malme SPECIES
 
 #### Status
 ACCEPTED

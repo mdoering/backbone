@@ -1,5 +1,4 @@
-Phialea mellea Rick SPECIES
-=======
+# Phialea mellea Rick SPECIES
 
 #### Status
 ACCEPTED

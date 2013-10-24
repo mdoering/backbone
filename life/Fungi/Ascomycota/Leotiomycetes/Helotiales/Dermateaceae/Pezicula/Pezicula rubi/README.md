@@ -1,17 +1,16 @@
-Pezicula rhabarbarina subsp. rhabarbarina SUBSPECIES
-=======
+# Pezicula rubi (Lib.) Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 183 (1870)
+in Rabenhorst, Fungi europ. exsicc. no. 2122 (1876)
 
 #### Original name
-Pezicula rhabarbarina subsp. rhabarbarina
+null
 
 ### Remarks
 null

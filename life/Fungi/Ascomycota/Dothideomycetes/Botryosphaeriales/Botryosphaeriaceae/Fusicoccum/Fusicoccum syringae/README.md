@@ -1,5 +1,4 @@
-Fusicoccum syringae Sacc. SPECIES
-=======
+# Fusicoccum syringae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteromitidae FAMILY
-=======
+# Heteromitidae FAMILY
 
 #### Status
 ACCEPTED

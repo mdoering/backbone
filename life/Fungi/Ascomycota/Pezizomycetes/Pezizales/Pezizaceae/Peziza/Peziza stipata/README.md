@@ -1,5 +1,4 @@
-Peziza stipata Pers. SPECIES
-=======
+# Peziza stipata Pers. SPECIES
 
 #### Status
 ACCEPTED

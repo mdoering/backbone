@@ -1,5 +1,4 @@
-Lagena advena SPECIES
-=======
+# Lagena advena SPECIES
 
 #### Status
 ACCEPTED

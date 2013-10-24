@@ -1,5 +1,4 @@
-Septoria avenae-barbatae Gonz. Frag. SPECIES
-=======
+# Septoria avenae-barbatae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

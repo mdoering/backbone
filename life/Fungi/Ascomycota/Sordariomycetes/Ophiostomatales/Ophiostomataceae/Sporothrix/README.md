@@ -1,5 +1,4 @@
-Sporothrix Hektoen & C.F. Perkins GENUS
-=======
+# Sporothrix Hektoen & C.F. Perkins GENUS
 
 #### Status
 ACCEPTED

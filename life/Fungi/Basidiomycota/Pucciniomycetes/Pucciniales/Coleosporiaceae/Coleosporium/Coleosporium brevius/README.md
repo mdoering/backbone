@@ -1,5 +1,4 @@
-Coleosporium brevius Barclay SPECIES
-=======
+# Coleosporium brevius Barclay SPECIES
 
 #### Status
 ACCEPTED

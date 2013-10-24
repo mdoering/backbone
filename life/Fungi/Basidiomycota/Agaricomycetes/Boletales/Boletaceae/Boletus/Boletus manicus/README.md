@@ -1,5 +1,4 @@
-Boletus manicus R. Heim SPECIES
-=======
+# Boletus manicus R. Heim SPECIES
 
 #### Status
 ACCEPTED

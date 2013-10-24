@@ -1,5 +1,4 @@
-Cladosporium vagans Desm. SPECIES
-=======
+# Cladosporium vagans Desm. SPECIES
 
 #### Status
 ACCEPTED

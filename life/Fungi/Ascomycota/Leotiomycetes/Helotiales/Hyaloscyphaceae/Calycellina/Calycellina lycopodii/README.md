@@ -1,5 +1,4 @@
-Calycellina lycopodii (Velen.) Svrcek SPECIES
-=======
+# Calycellina lycopodii (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium albidoporum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Bathelium albidoporum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

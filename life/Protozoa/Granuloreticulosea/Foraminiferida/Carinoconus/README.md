@@ -1,5 +1,4 @@
-Carinoconus GENUS
-=======
+# Carinoconus GENUS
 
 #### Status
 ACCEPTED

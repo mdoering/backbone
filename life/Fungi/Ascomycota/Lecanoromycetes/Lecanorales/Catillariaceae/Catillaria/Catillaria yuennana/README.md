@@ -1,8 +1,7 @@
-Catillaria yunnana Zahlbr. SPECIES
-=======
+# Catillaria yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catillaria yunnana Zahlbr.
+Catillaria yuennana Zahlbr.
 
 ### Remarks
 null

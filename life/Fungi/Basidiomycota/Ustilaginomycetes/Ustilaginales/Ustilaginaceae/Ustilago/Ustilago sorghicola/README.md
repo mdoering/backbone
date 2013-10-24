@@ -1,5 +1,4 @@
-Ustilago sorghicola Speg. SPECIES
-=======
+# Ustilago sorghicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subhiascens (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis subhiascens (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

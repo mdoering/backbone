@@ -1,5 +1,4 @@
-Microdiplodia otthiana Tassi SPECIES
-=======
+# Microdiplodia otthiana Tassi SPECIES
 
 #### Status
 ACCEPTED

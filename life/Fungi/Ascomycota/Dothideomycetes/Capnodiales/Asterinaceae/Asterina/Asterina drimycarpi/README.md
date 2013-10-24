@@ -1,5 +1,4 @@
-Asterina drimycarpi A.K. Kar & Maity SPECIES
-=======
+# Asterina drimycarpi A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

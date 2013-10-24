@@ -1,5 +1,4 @@
-Russula amoenata Britzelm. SPECIES
-=======
+# Russula amoenata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

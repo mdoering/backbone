@@ -1,5 +1,4 @@
-Dicaeoma burmeisteri (Speg.) Syd. SPECIES
-=======
+# Dicaeoma burmeisteri (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

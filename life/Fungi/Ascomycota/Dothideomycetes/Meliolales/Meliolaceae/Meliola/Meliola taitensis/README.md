@@ -1,5 +1,4 @@
-Meliola taitensis Mibey & P.F. Cannon SPECIES
-=======
+# Meliola taitensis Mibey & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

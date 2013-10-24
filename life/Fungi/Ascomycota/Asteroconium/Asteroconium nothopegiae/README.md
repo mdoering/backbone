@@ -1,5 +1,4 @@
-Asteroconium nothopegiae T.S. Ramakr., Sriniv. & Sundaram, 1953 SPECIES
-=======
+# Asteroconium nothopegiae T.S. Ramakr., Sriniv. & Sundaram, 1953 SPECIES
 
 #### Status
 ACCEPTED

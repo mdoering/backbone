@@ -1,5 +1,4 @@
-Cortinarius batschii (Humb.) Melot SPECIES
-=======
+# Cortinarius batschii (Humb.) Melot SPECIES
 
 #### Status
 ACCEPTED

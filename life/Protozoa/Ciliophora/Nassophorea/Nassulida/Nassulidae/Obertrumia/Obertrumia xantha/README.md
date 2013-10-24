@@ -1,5 +1,4 @@
-Obertrumia xantha Dragesco & Dragesco-Kernéis, 1991 SPECIES
-=======
+# Obertrumia xantha Dragesco & Dragesco-Kernéis, 1991 SPECIES
 
 #### Status
 ACCEPTED

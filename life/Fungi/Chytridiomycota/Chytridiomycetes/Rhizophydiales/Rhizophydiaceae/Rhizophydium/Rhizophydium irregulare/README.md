@@ -1,5 +1,4 @@
-Rhizophydium irregulare (De Wild.) A. Fisch. SPECIES
-=======
+# Rhizophydium irregulare (De Wild.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

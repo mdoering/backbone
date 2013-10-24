@@ -1,14 +1,13 @@
-Cladosporium monardae H.C. Greene, 1953 SPECIES
-=======
+# Fusicladium monardae (H.C. Greene) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 50: 508 (1953)
+Mycotaxon 92: 71 (2005)
 
 #### Original name
 Cladosporium monardae H.C. Greene, 1953

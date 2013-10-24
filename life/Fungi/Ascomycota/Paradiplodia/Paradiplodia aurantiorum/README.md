@@ -1,14 +1,13 @@
-Pseudodiplodia aurantiorum Speg., 1920 SPECIES
-=======
+# Paradiplodia aurantiorum (Speg.) Clem. & Shear, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 90: 183 (1920)
+Syll. fung. (Abellini) 25: 317 (1931)
 
 #### Original name
 Pseudodiplodia aurantiorum Speg., 1920

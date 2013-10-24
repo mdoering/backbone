@@ -1,5 +1,4 @@
-Agrocybe pascuensis (Murrill) Watling SPECIES
-=======
+# Agrocybe pascuensis (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

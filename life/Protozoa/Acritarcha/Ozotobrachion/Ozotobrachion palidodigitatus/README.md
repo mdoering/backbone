@@ -1,5 +1,4 @@
-Ozotobrachion palidodigitatus (Cramer, 1966 emend. Cramer, 1970) Playford, 1977 SPECIES
-=======
+# Ozotobrachion palidodigitatus (Cramer, 1966 emend. Cramer, 1970) Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

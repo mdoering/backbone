@@ -1,5 +1,4 @@
-Pycnopeziza quisquiliaris (Ellis & Everh.) W.L. White & Whetzel SPECIES
-=======
+# Pycnopeziza quisquiliaris (Ellis & Everh.) W.L. White & Whetzel SPECIES
 
 #### Status
 ACCEPTED

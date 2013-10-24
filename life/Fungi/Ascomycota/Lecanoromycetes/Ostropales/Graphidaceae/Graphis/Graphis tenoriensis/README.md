@@ -1,5 +1,4 @@
-Graphis tenoriensis Chaves & Lücking SPECIES
-=======
+# Graphis tenoriensis Chaves & Lücking SPECIES
 
 #### Status
 ACCEPTED

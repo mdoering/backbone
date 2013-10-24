@@ -1,5 +1,4 @@
-Dicaeoma bartholomewii (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma bartholomewii (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

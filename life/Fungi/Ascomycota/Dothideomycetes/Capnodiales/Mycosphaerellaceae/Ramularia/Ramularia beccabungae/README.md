@@ -1,5 +1,4 @@
-Ramularia beccabungae Fautrey, 1892 SPECIES
-=======
+# Ramularia beccabungae Fautrey, 1892 SPECIES
 
 #### Status
 ACCEPTED

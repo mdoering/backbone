@@ -1,5 +1,4 @@
-Phyllosticta rhodorae (Cooke) SPECIES
-=======
+# Phyllosticta rhodorae (Cooke) SPECIES
 
 #### Status
 ACCEPTED

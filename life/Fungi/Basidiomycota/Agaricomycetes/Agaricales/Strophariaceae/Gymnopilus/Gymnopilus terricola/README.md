@@ -1,5 +1,4 @@
-Gymnopilus terricola K.A. Thomas, Guzm.-Dáv. & Manim. SPECIES
-=======
+# Gymnopilus terricola K.A. Thomas, Guzm.-Dáv. & Manim. SPECIES
 
 #### Status
 ACCEPTED

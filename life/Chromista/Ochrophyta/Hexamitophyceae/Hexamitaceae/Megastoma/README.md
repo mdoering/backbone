@@ -1,5 +1,4 @@
-Megastoma Grassi, 1881 GENUS
-=======
+# Megastoma Grassi, 1881 GENUS
 
 #### Status
 ACCEPTED

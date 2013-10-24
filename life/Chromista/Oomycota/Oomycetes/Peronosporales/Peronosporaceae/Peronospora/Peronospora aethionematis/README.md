@@ -1,5 +1,4 @@
-Peronospora aethionematis Simonyan SPECIES
-=======
+# Peronospora aethionematis Simonyan SPECIES
 
 #### Status
 ACCEPTED

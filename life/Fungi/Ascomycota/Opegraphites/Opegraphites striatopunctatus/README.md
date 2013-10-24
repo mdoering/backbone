@@ -1,5 +1,4 @@
-Opegraphites striatopunctatus Debey & Ettingsh. SPECIES
-=======
+# Opegraphites striatopunctatus Debey & Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

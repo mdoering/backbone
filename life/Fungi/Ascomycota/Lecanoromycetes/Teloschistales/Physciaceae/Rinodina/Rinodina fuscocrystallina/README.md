@@ -1,5 +1,4 @@
-Rinodina fuscocrystallina Aptroot SPECIES
-=======
+# Rinodina fuscocrystallina Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporellum roseolum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mycoporellum roseolum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothrix klementii Hale SPECIES
-=======
+# Bulbothrix klementii Hale SPECIES
 
 #### Status
 ACCEPTED

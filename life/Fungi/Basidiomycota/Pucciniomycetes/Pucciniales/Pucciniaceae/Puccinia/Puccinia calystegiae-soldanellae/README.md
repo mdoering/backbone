@@ -1,5 +1,4 @@
-Puccinia calystegiae-soldanellae Z. Li, F. Nakai & Y. Harada SPECIES
-=======
+# Puccinia calystegiae-soldanellae Z. Li, F. Nakai & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

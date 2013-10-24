@@ -1,5 +1,4 @@
-Sporisorium divisum Vánky SPECIES
-=======
+# Sporisorium divisum Vánky SPECIES
 
 #### Status
 ACCEPTED

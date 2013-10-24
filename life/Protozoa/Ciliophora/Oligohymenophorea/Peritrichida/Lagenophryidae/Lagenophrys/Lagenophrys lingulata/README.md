@@ -1,5 +1,4 @@
-Lagenophrys lingulata Kane, 1965 SPECIES
-=======
+# Lagenophrys lingulata Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

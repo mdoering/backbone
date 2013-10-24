@@ -1,5 +1,4 @@
-Fellhanera tasmanica Lücking & Elix SPECIES
-=======
+# Fellhanera tasmanica Lücking & Elix SPECIES
 
 #### Status
 ACCEPTED

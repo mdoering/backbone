@@ -1,5 +1,4 @@
-Puccinia abei Hirats. SPECIES
-=======
+# Puccinia abei Hirats. SPECIES
 
 #### Status
 ACCEPTED

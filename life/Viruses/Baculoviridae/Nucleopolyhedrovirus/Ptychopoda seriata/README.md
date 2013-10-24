@@ -1,5 +1,4 @@
-Ptychopoda seriata Npv SPECIES
-=======
+# Ptychopoda seriata Npv SPECIES
 
 #### Status
 ACCEPTED

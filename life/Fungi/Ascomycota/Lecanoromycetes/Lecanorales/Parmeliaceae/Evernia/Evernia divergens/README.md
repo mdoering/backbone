@@ -1,5 +1,4 @@
-Evernia divergens (Ach.) Fr. SPECIES
-=======
+# Evernia divergens (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

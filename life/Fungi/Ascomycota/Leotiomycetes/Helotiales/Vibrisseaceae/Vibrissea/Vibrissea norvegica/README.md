@@ -1,14 +1,13 @@
-Apostemidium norvegicum Gremmen, 1958 SPECIES
-=======
+# Vibrissea norvegica (Gremmen) A. Sánchez, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Bot. 6: 12 (1958)
+J. Agric. Univ. Puerto Rico 51: 91 (1967)
 
 #### Original name
 Apostemidium norvegicum Gremmen, 1958

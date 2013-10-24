@@ -1,5 +1,4 @@
-Leptothyrium libertianum (Thüm.) Sacc. SPECIES
-=======
+# Leptothyrium libertianum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haploravenelia schweinfurthii (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Haploravenelia schweinfurthii (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

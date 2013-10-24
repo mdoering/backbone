@@ -1,5 +1,4 @@
-Sphenolithus intercalaris Martini, 1976 SPECIES
-=======
+# Sphenolithus intercalaris Martini, 1976 SPECIES
 
 #### Status
 ACCEPTED

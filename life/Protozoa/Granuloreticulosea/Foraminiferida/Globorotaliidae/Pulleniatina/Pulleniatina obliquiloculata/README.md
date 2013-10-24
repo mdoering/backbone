@@ -1,11 +1,10 @@
-Pulleniatina obliquiloculata subsp. obliquiloculata SUBSPECIES
-=======
+# Pulleniatina obliquiloculata (Parker & Jones, 1862) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+World Register of Marine Species
 
 #### Published in
 null

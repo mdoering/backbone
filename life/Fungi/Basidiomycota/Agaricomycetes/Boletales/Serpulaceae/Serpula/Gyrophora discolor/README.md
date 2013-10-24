@@ -1,5 +1,4 @@
-Gyrophora discolor f. discolor FORM
-=======
+# Gyrophora discolor Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora discolor f. discolor
+Gyrophora discolor Th. Fr.
 
 ### Remarks
 null

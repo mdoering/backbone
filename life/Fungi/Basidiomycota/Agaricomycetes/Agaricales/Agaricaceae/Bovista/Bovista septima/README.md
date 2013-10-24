@@ -1,14 +1,13 @@
-Bovista septina (Lloyd) Kreisel & Calonge SPECIES
-=======
+# Bovista septima (Lloyd) Kreisel & Calonge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. Micol. Madrid 21: 393 (1996)
 
 #### Original name
 Lycoperdon septimum Lloyd

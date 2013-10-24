@@ -1,5 +1,4 @@
-Pertusaria amarescens Nyl. SPECIES
-=======
+# Pertusaria amarescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

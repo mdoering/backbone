@@ -1,5 +1,4 @@
-Trinacrium torulosum Sacc. & Malbr. SPECIES
-=======
+# Trinacrium torulosum Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

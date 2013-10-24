@@ -1,5 +1,4 @@
-Racodium pallidum Schumach. SPECIES
-=======
+# Racodium pallidum Schumach. SPECIES
 
 #### Status
 ACCEPTED

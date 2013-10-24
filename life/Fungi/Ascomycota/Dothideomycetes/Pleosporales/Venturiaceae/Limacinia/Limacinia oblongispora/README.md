@@ -1,5 +1,4 @@
-Limacinia oblongispora Sawada & W. Yamam. SPECIES
-=======
+# Limacinia oblongispora Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

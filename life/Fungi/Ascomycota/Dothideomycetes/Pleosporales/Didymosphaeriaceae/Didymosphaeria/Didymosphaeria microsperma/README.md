@@ -1,5 +1,4 @@
-Didymosphaeria microsperma (Müll. Arg.) D. Hawksw. SPECIES
-=======
+# Didymosphaeria microsperma (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

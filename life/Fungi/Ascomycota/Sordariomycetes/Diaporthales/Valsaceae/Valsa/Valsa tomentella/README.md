@@ -1,5 +1,4 @@
-Valsa tomentella Peck SPECIES
-=======
+# Valsa tomentella Peck SPECIES
 
 #### Status
 ACCEPTED

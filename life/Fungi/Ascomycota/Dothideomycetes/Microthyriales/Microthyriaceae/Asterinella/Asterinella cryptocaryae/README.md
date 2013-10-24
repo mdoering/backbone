@@ -1,5 +1,4 @@
-Asterinella cryptocaryae (Cooke) Theiss. SPECIES
-=======
+# Asterinella cryptocaryae (Cooke) Theiss. SPECIES
 
 #### Status
 ACCEPTED

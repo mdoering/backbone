@@ -1,5 +1,4 @@
-Albotricha hainesii M.L. Wu SPECIES
-=======
+# Albotricha hainesii M.L. Wu SPECIES
 
 #### Status
 ACCEPTED

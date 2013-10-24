@@ -1,5 +1,4 @@
-Filaspora lactucae (Brunaud) Kuntze SPECIES
-=======
+# Filaspora lactucae (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia humicola Vain. SPECIES
-=======
+# Arthopyrenia humicola Vain. SPECIES
 
 #### Status
 ACCEPTED

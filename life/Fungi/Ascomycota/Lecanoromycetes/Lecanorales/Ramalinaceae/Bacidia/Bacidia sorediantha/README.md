@@ -1,5 +1,4 @@
-Bacidia sorediantha Vezda SPECIES
-=======
+# Bacidia sorediantha Vezda SPECIES
 
 #### Status
 ACCEPTED

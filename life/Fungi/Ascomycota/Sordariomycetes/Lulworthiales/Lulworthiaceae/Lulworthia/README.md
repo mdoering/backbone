@@ -1,5 +1,4 @@
-Lulworthia G.K. Sutherl. GENUS
-=======
+# Lulworthia G.K. Sutherl. GENUS
 
 #### Status
 ACCEPTED

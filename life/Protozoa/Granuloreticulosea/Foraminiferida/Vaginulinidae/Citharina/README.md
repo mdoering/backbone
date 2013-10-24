@@ -1,5 +1,4 @@
-Citharina d'Orbigny, 1839 GENUS
-=======
+# Citharina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

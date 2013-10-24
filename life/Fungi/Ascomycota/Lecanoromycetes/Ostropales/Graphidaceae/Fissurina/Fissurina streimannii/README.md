@@ -1,5 +1,4 @@
-Fissurina streimannii (A.W. Archer) A.W. Archer SPECIES
-=======
+# Fissurina streimannii (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

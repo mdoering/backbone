@@ -1,5 +1,4 @@
-Gnomonia fagi Ritschl SPECIES
-=======
+# Gnomonia fagi Ritschl SPECIES
 
 #### Status
 ACCEPTED

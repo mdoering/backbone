@@ -1,5 +1,4 @@
-Hypotrachyna brueggeri C. H. Ribeiro & Marcelli SPECIES
-=======
+# Hypotrachyna brueggeri C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

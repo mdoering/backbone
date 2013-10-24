@@ -1,5 +1,4 @@
-Hendersonia caespitosa Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia caespitosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

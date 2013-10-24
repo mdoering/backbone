@@ -1,17 +1,16 @@
-Pestalotia truncata f. truncata Lév. FORM
-=======
+# Truncatella truncata (Lév.) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 285 (1846)
+Bull. Jard. bot. État Brux. 19: 295 (1949)
 
 #### Original name
-Pestalotia truncata f. truncata Lév.
+Pestalotia truncata Lév., 1846
 
 ### Remarks
 null

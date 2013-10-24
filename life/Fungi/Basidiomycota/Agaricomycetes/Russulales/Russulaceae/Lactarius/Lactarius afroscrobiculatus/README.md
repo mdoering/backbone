@@ -1,5 +1,4 @@
-Lactarius afroscrobiculatus Verbeken & Van Rooij SPECIES
-=======
+# Lactarius afroscrobiculatus Verbeken & Van Rooij SPECIES
 
 #### Status
 ACCEPTED

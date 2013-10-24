@@ -1,5 +1,4 @@
-Pseudographis pumilia Velen. SPECIES
-=======
+# Pseudographis pumilia Velen. SPECIES
 
 #### Status
 ACCEPTED

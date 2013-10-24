@@ -1,5 +1,4 @@
-Usnea australis Fr. SPECIES
-=======
+# Usnea australis Fr. SPECIES
 
 #### Status
 ACCEPTED

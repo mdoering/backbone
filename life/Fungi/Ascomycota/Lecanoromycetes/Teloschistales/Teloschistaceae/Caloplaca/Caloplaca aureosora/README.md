@@ -1,5 +1,4 @@
-Caloplaca aureosora Poelt & Hinter. SPECIES
-=======
+# Caloplaca aureosora Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

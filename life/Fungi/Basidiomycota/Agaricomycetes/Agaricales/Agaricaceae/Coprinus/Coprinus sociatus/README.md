@@ -1,5 +1,4 @@
-Coprinus sociatus (Schumach.) Fr. SPECIES
-=======
+# Coprinus sociatus (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma galinsogae Syd. & P. Syd., 1915 SPECIES
-=======
+# Entyloma galinsogae Syd. & P. Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

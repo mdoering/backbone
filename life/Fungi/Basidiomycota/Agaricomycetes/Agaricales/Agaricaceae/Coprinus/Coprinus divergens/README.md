@@ -1,5 +1,4 @@
-Coprinus divergens Britzelm. SPECIES
-=======
+# Coprinus divergens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

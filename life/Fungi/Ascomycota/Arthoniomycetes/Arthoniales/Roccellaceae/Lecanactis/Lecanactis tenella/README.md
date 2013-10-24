@@ -1,5 +1,4 @@
-Lecanactis tenella (Eschw.) Kremp. SPECIES
-=======
+# Lecanactis tenella (Eschw.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

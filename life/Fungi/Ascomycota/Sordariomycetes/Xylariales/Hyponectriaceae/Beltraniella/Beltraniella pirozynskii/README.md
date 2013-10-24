@@ -1,5 +1,4 @@
-Beltraniella pirozynskii P.M. Kirk, 1981 SPECIES
-=======
+# Beltraniella pirozynskii P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

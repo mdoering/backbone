@@ -1,5 +1,4 @@
-Meliola aceris W. Yamam. SPECIES
-=======
+# Meliola aceris W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

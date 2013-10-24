@@ -1,5 +1,4 @@
-Ustilago bahuichivoensis Durán SPECIES
-=======
+# Ustilago bahuichivoensis Durán SPECIES
 
 #### Status
 ACCEPTED

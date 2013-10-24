@@ -1,5 +1,4 @@
-Dictyota coriacea (Holmes) I.K.Wang, H.-S.Kim & W.J.Lee, 2004 SPECIES
-=======
+# Dictyota coriacea (Holmes) I.K.Wang, H.-S.Kim & W.J.Lee, 2004 SPECIES
 
 #### Status
 ACCEPTED

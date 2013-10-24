@@ -1,5 +1,4 @@
-Trichosporum substrictum P. Karst. SPECIES
-=======
+# Trichosporum substrictum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

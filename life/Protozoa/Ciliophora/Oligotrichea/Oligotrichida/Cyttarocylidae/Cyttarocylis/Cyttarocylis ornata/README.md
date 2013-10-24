@@ -1,5 +1,4 @@
-Cyttarocylis ornata SPECIES
-=======
+# Cyttarocylis ornata SPECIES
 
 #### Status
 ACCEPTED

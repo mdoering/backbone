@@ -1,5 +1,4 @@
-Cassidulina (Burseolina) pacifica Cushman SPECIES
-=======
+# Cassidulina (Burseolina) pacifica Cushman SPECIES
 
 #### Status
 ACCEPTED

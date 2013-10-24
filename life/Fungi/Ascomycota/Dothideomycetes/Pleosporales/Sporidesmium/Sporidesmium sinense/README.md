@@ -1,5 +1,4 @@
-Sporidesmium sinense (W.P. Wu) Iturr., D. Hawksw. & J.L. Crane SPECIES
-=======
+# Sporidesmium sinense (W.P. Wu) Iturr., D. Hawksw. & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

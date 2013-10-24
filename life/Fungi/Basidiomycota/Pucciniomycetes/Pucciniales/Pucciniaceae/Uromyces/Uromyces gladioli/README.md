@@ -1,14 +1,13 @@
-Caeomurus gladioli (Henn.) Kuntze, 1898 SPECIES
-=======
+# Uromyces gladioli Henn., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Hedwigia 34: 326 (1895)
 
 #### Original name
 Uromyces gladioli Henn., 1895

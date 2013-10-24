@@ -1,5 +1,4 @@
-Xylaria quercinophila F. San Martín, J.D. Rogers & P. Lavín, 2001 SPECIES
-=======
+# Xylaria quercinophila F. San Martín, J.D. Rogers & P. Lavín, 2001 SPECIES
 
 #### Status
 ACCEPTED

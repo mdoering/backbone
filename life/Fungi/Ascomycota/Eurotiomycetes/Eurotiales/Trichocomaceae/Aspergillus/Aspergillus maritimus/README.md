@@ -1,5 +1,4 @@
-Aspergillus maritimus Samson & W. Gams, 1986 SPECIES
-=======
+# Aspergillus maritimus Samson & W. Gams, 1986 SPECIES
 
 #### Status
 ACCEPTED

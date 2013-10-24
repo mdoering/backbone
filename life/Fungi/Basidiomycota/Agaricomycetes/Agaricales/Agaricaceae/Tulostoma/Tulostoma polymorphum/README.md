@@ -1,5 +1,4 @@
-Tulostoma polymorphum Long SPECIES
-=======
+# Tulostoma polymorphum Long SPECIES
 
 #### Status
 ACCEPTED

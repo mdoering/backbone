@@ -1,5 +1,4 @@
-Bactrodesmium globosum Hol.-Jech., 1972 SPECIES
-=======
+# Bactrodesmium globosum Hol.-Jech., 1972 SPECIES
 
 #### Status
 ACCEPTED

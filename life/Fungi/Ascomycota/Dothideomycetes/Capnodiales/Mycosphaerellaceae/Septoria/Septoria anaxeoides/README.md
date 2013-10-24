@@ -1,5 +1,4 @@
-Septoria anaxeoides Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Septoria anaxeoides Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

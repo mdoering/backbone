@@ -1,5 +1,4 @@
-Vasicostella singulara Patterson & Richardson, 1987 SPECIES
-=======
+# Vasicostella singulara Patterson & Richardson, 1987 SPECIES
 
 #### Status
 ACCEPTED

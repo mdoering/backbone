@@ -1,5 +1,4 @@
-Russula albiflavescens Murrill SPECIES
-=======
+# Russula albiflavescens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pounanumu G. Cunn. SPECIES
-=======
+# Puccinia pounanumu G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

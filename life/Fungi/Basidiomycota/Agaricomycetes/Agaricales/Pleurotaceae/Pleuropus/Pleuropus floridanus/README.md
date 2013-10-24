@@ -1,5 +1,4 @@
-Pleuropus floridanus Murrill SPECIES
-=======
+# Pleuropus floridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

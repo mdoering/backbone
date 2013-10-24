@@ -1,5 +1,4 @@
-Porina buellioides Vain. SPECIES
-=======
+# Porina buellioides Vain. SPECIES
 
 #### Status
 ACCEPTED

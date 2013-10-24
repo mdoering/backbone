@@ -1,5 +1,4 @@
-Spiroplasma apis Mouches et al., 1984 SPECIES
-=======
+# Spiroplasma apis Mouches et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

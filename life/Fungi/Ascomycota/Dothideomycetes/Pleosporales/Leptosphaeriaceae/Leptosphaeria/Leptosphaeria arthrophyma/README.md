@@ -1,5 +1,4 @@
-Leptosphaeria arthrophyma (Fairm.) L. Holm SPECIES
-=======
+# Leptosphaeria arthrophyma (Fairm.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

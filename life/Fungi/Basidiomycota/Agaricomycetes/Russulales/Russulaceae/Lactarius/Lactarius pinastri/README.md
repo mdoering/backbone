@@ -1,5 +1,4 @@
-Lactarius pinastri Romagn. SPECIES
-=======
+# Lactarius pinastri Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe tanakae Ts. Kobay. & Sakuma SPECIES
-=======
+# Diaporthe tanakae Ts. Kobay. & Sakuma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius brusinae Schulzer SPECIES
-=======
+# Marasmius brusinae Schulzer SPECIES
 
 #### Status
 ACCEPTED

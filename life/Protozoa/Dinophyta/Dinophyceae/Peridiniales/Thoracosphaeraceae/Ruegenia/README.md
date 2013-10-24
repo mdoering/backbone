@@ -1,5 +1,4 @@
-Ruegenia Willems, 1992 GENUS
-=======
+# Ruegenia Willems, 1992 GENUS
 
 #### Status
 ACCEPTED

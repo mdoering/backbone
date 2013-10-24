@@ -1,5 +1,4 @@
-Sebacina polyporophaga Hauerslev SPECIES
-=======
+# Sebacina polyporophaga Hauerslev SPECIES
 
 #### Status
 ACCEPTED

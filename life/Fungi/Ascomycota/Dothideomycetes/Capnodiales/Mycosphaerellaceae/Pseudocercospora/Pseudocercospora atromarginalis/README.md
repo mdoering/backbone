@@ -1,14 +1,13 @@
-Cercospora atromarginalis G.F. Atk., 1892 SPECIES
-=======
+# Pseudocercospora atromarginalis (G.F. Atk.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 8(2): 59 (1892)
+Mycol. Pap. 140: 139 (1976)
 
 #### Original name
 Cercospora atromarginalis G.F. Atk., 1892

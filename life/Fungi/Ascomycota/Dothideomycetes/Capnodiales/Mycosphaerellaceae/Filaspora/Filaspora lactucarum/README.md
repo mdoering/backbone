@@ -1,5 +1,4 @@
-Filaspora lactucarum (Schwein.) Kuntze SPECIES
-=======
+# Filaspora lactucarum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

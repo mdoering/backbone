@@ -1,5 +1,4 @@
-Parmelia lepraeformis SPECIES
-=======
+# Parmelia lepraeformis SPECIES
 
 #### Status
 ACCEPTED

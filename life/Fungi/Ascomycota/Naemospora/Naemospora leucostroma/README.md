@@ -1,5 +1,4 @@
-Naemospora leucostroma Preuss SPECIES
-=======
+# Naemospora leucostroma Preuss SPECIES
 
 #### Status
 ACCEPTED

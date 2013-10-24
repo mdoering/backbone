@@ -1,5 +1,4 @@
-Septoria adhatodae Chona & Munjal SPECIES
-=======
+# Septoria adhatodae Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

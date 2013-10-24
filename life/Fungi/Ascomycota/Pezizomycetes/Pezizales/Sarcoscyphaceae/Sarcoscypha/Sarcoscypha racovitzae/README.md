@@ -1,5 +1,4 @@
-Sarcoscypha racovitzae E. Bommer & M. Rousseau SPECIES
-=======
+# Sarcoscypha racovitzae E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

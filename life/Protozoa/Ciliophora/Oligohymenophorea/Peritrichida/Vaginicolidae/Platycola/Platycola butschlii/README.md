@@ -1,5 +1,4 @@
-Platycola butschlii Nüsslin, 1884 SPECIES
-=======
+# Platycola butschlii Nüsslin, 1884 SPECIES
 
 #### Status
 ACCEPTED

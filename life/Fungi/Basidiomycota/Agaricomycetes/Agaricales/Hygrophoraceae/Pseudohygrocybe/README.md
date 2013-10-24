@@ -1,5 +1,4 @@
-Pseudohygrocybe GENUS
-=======
+# Pseudohygrocybe GENUS
 
 #### Status
 ACCEPTED

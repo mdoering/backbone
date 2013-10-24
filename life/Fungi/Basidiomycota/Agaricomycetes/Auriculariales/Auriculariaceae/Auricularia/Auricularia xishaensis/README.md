@@ -1,5 +1,4 @@
-Auricularia xishaensis L.J. Li SPECIES
-=======
+# Auricularia xishaensis L.J. Li SPECIES
 
 #### Status
 ACCEPTED

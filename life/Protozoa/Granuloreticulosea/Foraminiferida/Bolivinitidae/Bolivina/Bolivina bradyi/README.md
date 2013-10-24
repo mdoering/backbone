@@ -1,5 +1,4 @@
-Bolivina bradyi SPECIES
-=======
+# Bolivina bradyi SPECIES
 
 #### Status
 ACCEPTED

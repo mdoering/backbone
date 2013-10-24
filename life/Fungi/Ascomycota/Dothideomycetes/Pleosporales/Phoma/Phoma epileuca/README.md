@@ -1,5 +1,4 @@
-Phoma epileuca Berk. SPECIES
-=======
+# Phoma epileuca Berk. SPECIES
 
 #### Status
 ACCEPTED

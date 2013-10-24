@@ -1,5 +1,4 @@
-Favolaschia austrocyatheae P.R. Johnst., 2006 SPECIES
-=======
+# Favolaschia austrocyatheae P.R. Johnst., 2006 SPECIES
 
 #### Status
 ACCEPTED

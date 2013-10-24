@@ -1,5 +1,4 @@
-Scytalidium indonesiacum Hedger, Samson & Basuki, 1982 SPECIES
-=======
+# Scytalidium indonesiacum Hedger, Samson & Basuki, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium morbosum var. morbosum VARIETY
-=======
+# Smittium morbosum A.W. Sweeney, 1981 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 77(1): 55 (1981)
+null
 
 #### Original name
-Smittium morbosum var. morbosum
+null
 
 ### Remarks
 null

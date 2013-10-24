@@ -1,14 +1,13 @@
-Rhizopogon violaceus Cooke & Massee, 1892 SPECIES
-=======
+# Gallacea violacea (Cooke & Massee) Lloyd, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 21(no. 97): 1 (1892)
+Mycol. Writ. 7: 1201 (1923)
 
 #### Original name
 Rhizopogon violaceus Cooke & Massee, 1892

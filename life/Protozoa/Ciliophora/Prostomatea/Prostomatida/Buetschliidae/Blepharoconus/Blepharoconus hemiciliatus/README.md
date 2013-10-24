@@ -1,8 +1,7 @@
-Blepharoconus hemiciliatu Gassovsky, 1918 SPECIES
-=======
+# Blepharoconus hemiciliatus Gassovsky, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Psathyrella albanvensis A.H. Sm. SPECIES
-=======
+# Psathyrella albanvensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

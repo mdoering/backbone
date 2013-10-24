@@ -1,5 +1,4 @@
-Uromyces coluteae Arthur SPECIES
-=======
+# Uromyces coluteae Arthur SPECIES
 
 #### Status
 ACCEPTED

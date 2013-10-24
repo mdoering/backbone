@@ -1,5 +1,4 @@
-Gelidibacter salicanalis Bowman & Nichols, 2005 SPECIES
-=======
+# Gelidibacter salicanalis Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

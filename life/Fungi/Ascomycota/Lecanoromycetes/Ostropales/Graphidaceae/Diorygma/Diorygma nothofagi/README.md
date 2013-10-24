@@ -1,17 +1,16 @@
-Diorygma nothofagum (A.W. Archer) A.W. Archer SPECIES
-=======
+# Diorygma nothofagi (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Australasian Lichenology 56: 10 (2005)
 
 #### Original name
-Diorygma nothofagum (A.W. Archer) A.W. Archer
+Graphina nothofagi A.W. Archer
 
 ### Remarks
 null

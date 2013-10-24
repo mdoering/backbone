@@ -1,5 +1,4 @@
-Inocybe aurivenia (Batsch) Bres. SPECIES
-=======
+# Inocybe aurivenia (Batsch) Bres. SPECIES
 
 #### Status
 ACCEPTED

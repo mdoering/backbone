@@ -1,8 +1,7 @@
-Penicillium lilacinoechinulatum S. Abe ex G. Sm., 1963 SPECIES
-=======
+# Penicillium bilaiae Chalab., 1950 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

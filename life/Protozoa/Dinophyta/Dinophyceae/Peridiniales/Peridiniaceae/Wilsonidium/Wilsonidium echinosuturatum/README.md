@@ -1,5 +1,4 @@
-Wilsonidium echinosuturatum (Wilson, 1967) Lentin & Williams SPECIES
-=======
+# Wilsonidium echinosuturatum (Wilson, 1967) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

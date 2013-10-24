@@ -1,5 +1,4 @@
-Tubercularia fusispora Corda SPECIES
-=======
+# Tubercularia fusispora Corda SPECIES
 
 #### Status
 ACCEPTED

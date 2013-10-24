@@ -1,5 +1,4 @@
-Crocynia creticola Hue SPECIES
-=======
+# Crocynia creticola Hue SPECIES
 
 #### Status
 ACCEPTED

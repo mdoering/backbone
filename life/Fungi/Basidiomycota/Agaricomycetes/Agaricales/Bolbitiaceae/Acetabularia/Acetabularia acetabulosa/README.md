@@ -1,5 +1,4 @@
-Acetabularia acetabulosa (Sowerby) Massee SPECIES
-=======
+# Acetabularia acetabulosa (Sowerby) Massee SPECIES
 
 #### Status
 ACCEPTED

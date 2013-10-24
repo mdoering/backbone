@@ -1,5 +1,4 @@
-Trogia pleurotoides Corner SPECIES
-=======
+# Trogia pleurotoides Corner SPECIES
 
 #### Status
 ACCEPTED

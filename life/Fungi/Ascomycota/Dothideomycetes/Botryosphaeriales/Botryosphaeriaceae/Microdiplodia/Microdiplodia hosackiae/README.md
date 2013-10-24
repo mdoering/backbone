@@ -1,5 +1,4 @@
-Microdiplodia hosackiae (Cooke & Harkn.) Bonar SPECIES
-=======
+# Microdiplodia hosackiae (Cooke & Harkn.) Bonar SPECIES
 
 #### Status
 ACCEPTED

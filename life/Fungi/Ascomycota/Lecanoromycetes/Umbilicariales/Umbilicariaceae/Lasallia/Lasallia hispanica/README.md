@@ -1,5 +1,4 @@
-Lasallia hispanica (Frey) Sancho & A. Crespo SPECIES
-=======
+# Lasallia hispanica (Frey) Sancho & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

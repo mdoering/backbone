@@ -1,5 +1,4 @@
-Glomus bagyarasjii V.S. Mehrotra, 1997 SPECIES
-=======
+# Glomus bagyarasjii V.S. Mehrotra, 1997 SPECIES
 
 #### Status
 ACCEPTED

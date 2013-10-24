@@ -1,5 +1,4 @@
-Amanita egreginus A.E. Wood SPECIES
-=======
+# Amanita egreginus A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

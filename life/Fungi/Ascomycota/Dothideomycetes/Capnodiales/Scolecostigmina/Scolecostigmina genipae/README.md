@@ -1,5 +1,4 @@
-Scolecostigmina genipae (Rangel) U. Braun & Crous SPECIES
-=======
+# Scolecostigmina genipae (Rangel) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

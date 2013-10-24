@@ -1,5 +1,4 @@
-Gastrum GENUS
-=======
+# Gastrum GENUS
 
 #### Status
 ACCEPTED

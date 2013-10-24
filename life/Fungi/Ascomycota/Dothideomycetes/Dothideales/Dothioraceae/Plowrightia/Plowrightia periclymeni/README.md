@@ -1,5 +1,4 @@
-Plowrightia periclymeni (Fuckel) Sacc. SPECIES
-=======
+# Plowrightia periclymeni (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

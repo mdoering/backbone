@@ -1,5 +1,4 @@
-Amanita spissa f. spissa FORM
-=======
+# Amanita spissa (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Führ. Pilzk. (Zwickau) 114 (1871)
+null
 
 #### Original name
-Amanita spissa f. spissa
+null
 
 ### Remarks
 null

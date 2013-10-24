@@ -1,5 +1,4 @@
-Melanconites Göpp. GENUS
-=======
+# Melanconites Göpp. GENUS
 
 #### Status
 ACCEPTED

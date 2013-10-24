@@ -1,14 +1,13 @@
-Acanthocystis pruinulosus (Pat. & Demange) Singer SPECIES
-=======
+# Acanthocystis pruinulosa (Pat. & Demange) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
 Calathinus pruinulosus Pat. & Demange

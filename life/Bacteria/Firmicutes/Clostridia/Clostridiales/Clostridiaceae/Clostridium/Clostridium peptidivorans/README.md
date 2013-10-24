@@ -1,5 +1,4 @@
-Clostridium peptidivorans Mechichi et al., 2000 SPECIES
-=======
+# Clostridium peptidivorans Mechichi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

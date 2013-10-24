@@ -1,17 +1,16 @@
-Pseudocercospora pyrosiae Togashi & Katsuki SPECIES
-=======
+# Pseudocercospora pyrrosiae Togashi & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Katsuki, J. Jap. Bot. 28(9): 287 (1953)
 
 #### Original name
-Pseudocercospora pyrosiae Togashi & Katsuki
+Pseudocercospora pyrrosiae Togashi & Katsuki
 
 ### Remarks
 null

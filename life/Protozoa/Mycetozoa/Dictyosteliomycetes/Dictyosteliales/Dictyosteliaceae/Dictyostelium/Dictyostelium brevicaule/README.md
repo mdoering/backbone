@@ -1,5 +1,4 @@
-Dictyostelium brevicaule Olive, 1901 SPECIES
-=======
+# Dictyostelium brevicaule Olive, 1901 SPECIES
 
 #### Status
 ACCEPTED

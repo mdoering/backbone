@@ -1,14 +1,13 @@
-Coelogregarina Ghélélovitch, 1948 GENUS
-=======
+# Mattesia Naville, 1930 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Zool. exp. gén. , 85 (Notes et Rév. ) no. 3, 156.
+Z. Zellforsch. , 11 (2), 378.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Gyrodinium truncus Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium truncus Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

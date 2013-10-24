@@ -1,14 +1,13 @@
-Bilimbia submilliaria (Nyl.) Arnold SPECIES
-=======
+# Micarea submilliaria (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 53: 473 (1870)
+Graphis Scripta 6(1): 37 (1994)
 
 #### Original name
 Lecidea submilliaria Nyl.

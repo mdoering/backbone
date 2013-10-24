@@ -1,5 +1,4 @@
-Idriella amazonica K.F. Rodrigues & Samuels SPECIES
-=======
+# Idriella amazonica K.F. Rodrigues & Samuels SPECIES
 
 #### Status
 ACCEPTED

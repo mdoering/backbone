@@ -1,5 +1,4 @@
-Phaeotrichosphaeria hymenochaeticola Sivan., 1983 SPECIES
-=======
+# Phaeotrichosphaeria hymenochaeticola Sivan., 1983 SPECIES
 
 #### Status
 ACCEPTED

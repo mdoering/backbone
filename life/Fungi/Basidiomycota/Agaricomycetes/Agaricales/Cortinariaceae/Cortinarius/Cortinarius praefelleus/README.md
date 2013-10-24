@@ -1,5 +1,4 @@
-Cortinarius praefelleus Murrill SPECIES
-=======
+# Cortinarius praefelleus Murrill SPECIES
 
 #### Status
 ACCEPTED

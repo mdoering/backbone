@@ -1,17 +1,16 @@
-Hypoxylon entololeucum P.M.D. Martin SPECIES
-=======
+# Hypoxylon entoleucum P.M.D. Martin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jl S. Afr. Bot. 42: 82 (1976)
 
 #### Original name
-Hypoxylon entololeucum P.M.D. Martin
+Hypoxylon entoleucum P.M.D. Martin
 
 ### Remarks
 null

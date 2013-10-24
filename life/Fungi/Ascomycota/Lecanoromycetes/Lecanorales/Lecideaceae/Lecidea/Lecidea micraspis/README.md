@@ -1,5 +1,4 @@
-Lecidea micraspis Vain. SPECIES
-=======
+# Lecidea micraspis Vain. SPECIES
 
 #### Status
 ACCEPTED

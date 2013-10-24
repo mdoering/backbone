@@ -1,17 +1,16 @@
-Pharcidia aggregata (Mudd) Vouaux, 1912 SPECIES
-=======
+# Stigmidium aggregatum (Mudd) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 30: 201 (1975)
 
 #### Original name
-null
+Thelidium aggregatum Mudd, 1861
 
 ### Remarks
 null

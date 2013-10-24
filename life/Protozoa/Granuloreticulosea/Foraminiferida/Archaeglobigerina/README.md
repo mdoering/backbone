@@ -1,5 +1,4 @@
-Archaeglobigerina GENUS
-=======
+# Archaeglobigerina GENUS
 
 #### Status
 ACCEPTED

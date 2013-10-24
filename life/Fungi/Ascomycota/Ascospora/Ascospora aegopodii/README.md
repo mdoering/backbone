@@ -1,5 +1,4 @@
-Ascospora aegopodii Thüm. SPECIES
-=======
+# Ascospora aegopodii Thüm. SPECIES
 
 #### Status
 ACCEPTED

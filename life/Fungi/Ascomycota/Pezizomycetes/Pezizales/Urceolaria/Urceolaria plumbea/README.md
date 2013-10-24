@@ -1,5 +1,4 @@
-Urceolaria plumbea (Ach.) Röhl. SPECIES
-=======
+# Urceolaria plumbea (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

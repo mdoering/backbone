@@ -1,5 +1,4 @@
-Psathyra casea SPECIES
-=======
+# Psathyra casea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus bannaensis Har. Takah. SPECIES
-=======
+# Boletus bannaensis Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

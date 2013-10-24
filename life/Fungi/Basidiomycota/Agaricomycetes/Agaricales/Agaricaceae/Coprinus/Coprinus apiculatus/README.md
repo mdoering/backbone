@@ -1,5 +1,4 @@
-Coprinus apiculatus Peck SPECIES
-=======
+# Coprinus apiculatus Peck SPECIES
 
 #### Status
 ACCEPTED

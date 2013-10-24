@@ -1,5 +1,4 @@
-Physarum crustiforme Speg. SPECIES
-=======
+# Physarum crustiforme Speg. SPECIES
 
 #### Status
 ACCEPTED

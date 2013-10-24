@@ -1,5 +1,4 @@
-Anaptychia heterochroa Vain. SPECIES
-=======
+# Anaptychia heterochroa Vain. SPECIES
 
 #### Status
 ACCEPTED

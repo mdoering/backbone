@@ -1,5 +1,4 @@
-Sporotrichum viridiflavum Sacc. SPECIES
-=======
+# Sporotrichum viridiflavum Sacc. SPECIES
 
 #### Status
 ACCEPTED

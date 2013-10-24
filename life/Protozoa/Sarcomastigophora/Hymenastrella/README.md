@@ -1,5 +1,4 @@
-Hymenastrella Haeckel, 1887 GENUS
-=======
+# Hymenastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

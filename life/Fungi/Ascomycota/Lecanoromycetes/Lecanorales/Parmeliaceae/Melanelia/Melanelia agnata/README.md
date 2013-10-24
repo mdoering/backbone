@@ -1,17 +1,16 @@
-Platysma agnatum Nyl. SPECIES
-=======
+# Melanelia agnata (Nyl.) A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 416 (1995)
 
 #### Original name
-null
+Platysma agnatum Nyl.
 
 ### Remarks
 null

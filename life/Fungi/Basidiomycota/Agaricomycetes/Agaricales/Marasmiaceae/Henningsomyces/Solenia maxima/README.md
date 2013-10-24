@@ -1,5 +1,4 @@
-Solenia maxima Massee SPECIES
-=======
+# Solenia maxima Massee SPECIES
 
 #### Status
 ACCEPTED

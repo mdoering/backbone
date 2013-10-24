@@ -1,5 +1,4 @@
-Diatrype ilicina Lar.N. Vassiljeva & S.L. Stephenson SPECIES
-=======
+# Diatrype ilicina Lar.N. Vassiljeva & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tegoa Bat. & Fonseca GENUS
-=======
+# Tegoa Bat. & Fonseca GENUS
 
 #### Status
 ACCEPTED

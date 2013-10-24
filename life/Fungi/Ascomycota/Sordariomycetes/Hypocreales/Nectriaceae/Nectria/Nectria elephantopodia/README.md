@@ -1,5 +1,4 @@
-Nectria elephantopodia Sawada SPECIES
-=======
+# Nectria elephantopodia Sawada SPECIES
 
 #### Status
 ACCEPTED

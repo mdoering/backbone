@@ -1,14 +1,13 @@
-Suillus prunicolor (Cooke & Massee) Kuntze, 1898 SPECIES
-=======
+# Fistulinella prunicolor (Cooke & Massee) Watling, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Watling & Gregory, Proc. R. Soc. Qd. 100: 17 (1989)
 
 #### Original name
 Boletus prunicolor Cooke & Massee, 1887

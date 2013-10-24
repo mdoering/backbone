@@ -1,5 +1,4 @@
-Dictyocoela gammarellum SPECIES
-=======
+# Dictyocoela gammarellum SPECIES
 
 #### Status
 ACCEPTED

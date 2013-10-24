@@ -1,5 +1,4 @@
-Boletus salitus Vittad. SPECIES
-=======
+# Boletus salitus Vittad. SPECIES
 
 #### Status
 ACCEPTED

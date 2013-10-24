@@ -1,5 +1,4 @@
-Entoloma stellatum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma stellatum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

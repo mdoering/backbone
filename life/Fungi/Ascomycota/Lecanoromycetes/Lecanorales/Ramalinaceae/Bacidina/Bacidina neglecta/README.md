@@ -1,5 +1,4 @@
-Bacidina neglecta (Vezda) Vezda SPECIES
-=======
+# Bacidina neglecta (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

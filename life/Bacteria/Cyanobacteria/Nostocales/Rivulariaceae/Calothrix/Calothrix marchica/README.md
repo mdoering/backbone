@@ -1,5 +1,4 @@
-Calothrix marchica var. intermedia C.B. Rao VARIETY
-=======
+# Calothrix marchica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

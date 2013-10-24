@@ -1,5 +1,4 @@
-Phoma pasteriscus anon. SPECIES
-=======
+# Phoma pasteriscus anon. SPECIES
 
 #### Status
 ACCEPTED

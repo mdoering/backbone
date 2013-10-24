@@ -1,8 +1,7 @@
-Oscillaria tenerrima Kützing SPECIES
-=======
+# Oscillatoria tenerrima (Kützing) Prain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

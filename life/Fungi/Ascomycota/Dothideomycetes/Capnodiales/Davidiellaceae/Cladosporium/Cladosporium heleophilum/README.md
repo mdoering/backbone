@@ -1,5 +1,4 @@
-Cladosporium heleophilum J.C. David, 1997 SPECIES
-=======
+# Cladosporium heleophilum J.C. David, 1997 SPECIES
 
 #### Status
 ACCEPTED

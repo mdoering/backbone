@@ -1,5 +1,4 @@
-Senegalosporites taiwanensis T.C. Huang SPECIES
-=======
+# Senegalosporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

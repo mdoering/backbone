@@ -1,5 +1,4 @@
-Gyrodinium galatheanum (Baarud) Taylor SPECIES
-=======
+# Gyrodinium galatheanum (Baarud) Taylor SPECIES
 
 #### Status
 ACCEPTED

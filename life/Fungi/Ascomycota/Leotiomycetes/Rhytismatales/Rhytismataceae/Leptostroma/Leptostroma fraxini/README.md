@@ -1,5 +1,4 @@
-Leptostroma fraxini Oudem. SPECIES
-=======
+# Leptostroma fraxini Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis condaminea (Fée) A. Massal. SPECIES
-=======
+# Graphis condaminea (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

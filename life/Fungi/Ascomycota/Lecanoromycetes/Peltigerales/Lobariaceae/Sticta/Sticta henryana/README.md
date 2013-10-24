@@ -1,5 +1,4 @@
-Sticta henryana Zahlbr. SPECIES
-=======
+# Sticta henryana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

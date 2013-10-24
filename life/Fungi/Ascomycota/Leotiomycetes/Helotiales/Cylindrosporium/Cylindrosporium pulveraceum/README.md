@@ -1,5 +1,4 @@
-Cylindrosporium pulveraceum (Speg.) Sacc. SPECIES
-=======
+# Cylindrosporium pulveraceum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

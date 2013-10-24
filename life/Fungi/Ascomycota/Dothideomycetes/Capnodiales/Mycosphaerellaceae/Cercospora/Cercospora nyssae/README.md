@@ -1,5 +1,4 @@
-Cercospora nyssae Tharp SPECIES
-=======
+# Cercospora nyssae Tharp SPECIES
 
 #### Status
 ACCEPTED

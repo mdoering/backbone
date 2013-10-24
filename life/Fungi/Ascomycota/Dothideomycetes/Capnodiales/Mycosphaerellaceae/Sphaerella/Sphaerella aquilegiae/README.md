@@ -1,5 +1,4 @@
-Sphaerella aquilegiae Ellis & Galloway SPECIES
-=======
+# Sphaerella aquilegiae Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

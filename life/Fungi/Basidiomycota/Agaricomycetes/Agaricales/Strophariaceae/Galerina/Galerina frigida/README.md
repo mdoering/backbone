@@ -1,5 +1,4 @@
-Galerina frigida V.L. Wells & Kempton SPECIES
-=======
+# Galerina frigida V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

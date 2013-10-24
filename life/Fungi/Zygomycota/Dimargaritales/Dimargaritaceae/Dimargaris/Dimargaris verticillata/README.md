@@ -1,8 +1,7 @@
-Dimargaris verticillata var. verticillata R.K. Benj., 1959 VARIETY
-=======
+# Dimargaris verticillata R.K. Benj., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Aliso 4(2): 374 (1959)
 
 #### Original name
-Dimargaris verticillata var. verticillata R.K. Benj., 1959
+Dimargaris verticillata R.K. Benj., 1959
 
 ### Remarks
 null

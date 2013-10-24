@@ -1,5 +1,4 @@
-Coscinodiscus rotula Grunow, 1878 SPECIES
-=======
+# Coscinodiscus rotula Grunow, 1878 SPECIES
 
 #### Status
 ACCEPTED

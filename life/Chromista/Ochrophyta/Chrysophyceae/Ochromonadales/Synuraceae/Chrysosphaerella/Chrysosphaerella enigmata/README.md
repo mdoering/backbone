@@ -1,5 +1,4 @@
-Chrysosphaerella enigmata (K. H. Nicholls) J. Kristiansen & D. Tong SPECIES
-=======
+# Chrysosphaerella enigmata (K. H. Nicholls) J. Kristiansen & D. Tong SPECIES
 
 #### Status
 ACCEPTED

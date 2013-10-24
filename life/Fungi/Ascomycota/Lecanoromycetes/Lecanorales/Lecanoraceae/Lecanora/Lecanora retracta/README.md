@@ -1,5 +1,4 @@
-Lecanora retracta H. Magn. SPECIES
-=======
+# Lecanora retracta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus oblitus Morgan SPECIES
-=======
+# Agaricus oblitus Morgan SPECIES
 
 #### Status
 ACCEPTED

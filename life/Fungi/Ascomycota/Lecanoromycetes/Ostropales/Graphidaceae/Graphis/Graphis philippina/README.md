@@ -1,5 +1,4 @@
-Graphis philippina Vain. SPECIES
-=======
+# Graphis philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

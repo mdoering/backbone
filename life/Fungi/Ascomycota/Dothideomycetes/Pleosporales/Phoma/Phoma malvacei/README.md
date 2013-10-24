@@ -1,5 +1,4 @@
-Phoma malvacei Brunaud SPECIES
-=======
+# Phoma malvacei Brunaud SPECIES
 
 #### Status
 ACCEPTED

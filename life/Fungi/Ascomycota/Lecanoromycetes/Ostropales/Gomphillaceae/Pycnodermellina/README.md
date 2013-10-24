@@ -1,5 +1,4 @@
-Pycnodermellina GENUS
-=======
+# Pycnodermellina GENUS
 
 #### Status
 ACCEPTED

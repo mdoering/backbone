@@ -1,5 +1,4 @@
-Septoria grewiae Sukapure & Thirum. SPECIES
-=======
+# Septoria grewiae Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

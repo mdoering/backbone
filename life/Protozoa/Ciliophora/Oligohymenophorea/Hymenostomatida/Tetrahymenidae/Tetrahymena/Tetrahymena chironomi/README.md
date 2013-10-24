@@ -1,5 +1,4 @@
-Tetrahymena chironomi Corliss, 1960 SPECIES
-=======
+# Tetrahymena chironomi Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

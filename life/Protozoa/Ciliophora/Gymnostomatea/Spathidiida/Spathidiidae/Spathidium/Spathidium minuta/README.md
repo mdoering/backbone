@@ -1,5 +1,4 @@
-Spathidium minuta subsp. minuta SUBSPECIES
-=======
+# Spathidium minuta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria guaximae Viégas SPECIES
-=======
+# Septoria guaximae Viégas SPECIES
 
 #### Status
 ACCEPTED

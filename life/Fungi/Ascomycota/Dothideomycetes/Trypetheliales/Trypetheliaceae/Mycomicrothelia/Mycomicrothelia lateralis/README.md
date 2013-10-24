@@ -1,5 +1,4 @@
-Mycomicrothelia lateralis Sipman SPECIES
-=======
+# Mycomicrothelia lateralis Sipman SPECIES
 
 #### Status
 ACCEPTED

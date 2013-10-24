@@ -1,5 +1,4 @@
-Pistillaria patouillardii Quél. SPECIES
-=======
+# Pistillaria patouillardii Quél. SPECIES
 
 #### Status
 ACCEPTED

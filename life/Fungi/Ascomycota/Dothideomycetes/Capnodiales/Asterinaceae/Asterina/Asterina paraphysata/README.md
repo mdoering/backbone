@@ -1,5 +1,4 @@
-Asterina paraphysata Starbäck SPECIES
-=======
+# Asterina paraphysata Starbäck SPECIES
 
 #### Status
 ACCEPTED

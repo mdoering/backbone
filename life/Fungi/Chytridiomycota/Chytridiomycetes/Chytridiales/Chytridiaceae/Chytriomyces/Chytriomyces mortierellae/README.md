@@ -1,5 +1,4 @@
-Chytriomyces mortierellae Persiel, 1960 SPECIES
-=======
+# Chytriomyces mortierellae Persiel, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Areolospora S.C. Jong & E.E. Davis GENUS
-=======
+# Areolospora S.C. Jong & E.E. Davis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora subvernalis (Tuck.) Tuck. SPECIES
-=======
+# Biatora subvernalis (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

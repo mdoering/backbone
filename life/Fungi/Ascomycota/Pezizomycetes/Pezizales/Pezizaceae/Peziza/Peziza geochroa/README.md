@@ -1,5 +1,4 @@
-Peziza geochroa Pers. SPECIES
-=======
+# Peziza geochroa Pers. SPECIES
 
 #### Status
 ACCEPTED

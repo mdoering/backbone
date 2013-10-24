@@ -1,5 +1,4 @@
-Ichthyosporidium phymogenes Caullery & Mesnil SPECIES
-=======
+# Ichthyosporidium phymogenes Caullery & Mesnil SPECIES
 
 #### Status
 ACCEPTED

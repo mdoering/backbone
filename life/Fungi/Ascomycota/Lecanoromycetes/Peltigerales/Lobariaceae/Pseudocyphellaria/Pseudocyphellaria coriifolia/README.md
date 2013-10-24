@@ -1,5 +1,4 @@
-Pseudocyphellaria coriifolia var. coriifolia VARIETY
-=======
+# Pseudocyphellaria coriifolia (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 25 (1899)
 
 #### Original name
-Pseudocyphellaria coriifolia var. coriifolia
+Stictina coriifolia Müll. Arg.
 
 ### Remarks
 null

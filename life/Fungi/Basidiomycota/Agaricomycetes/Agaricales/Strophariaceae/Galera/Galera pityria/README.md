@@ -1,5 +1,4 @@
-Galera pityria Fr. SPECIES
-=======
+# Galera pityria Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium densiflorum (L. Ling) Vánky SPECIES
-=======
+# Sporisorium densiflorum (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma eminens (F. Kern) Arthur & F. Kern SPECIES
-=======
+# Dicaeoma eminens (F. Kern) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

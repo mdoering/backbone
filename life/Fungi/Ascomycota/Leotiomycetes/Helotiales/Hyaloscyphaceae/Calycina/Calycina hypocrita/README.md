@@ -1,5 +1,4 @@
-Calycina hypocrita (Hazsl.) Kuntze SPECIES
-=======
+# Calycina hypocrita (Hazsl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

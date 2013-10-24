@@ -1,5 +1,4 @@
-Anthostoma diathrauston Cooke SPECIES
-=======
+# Anthostoma diathrauston Cooke SPECIES
 
 #### Status
 ACCEPTED

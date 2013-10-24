@@ -1,5 +1,4 @@
-Metasphaeria jaceae Feltgen SPECIES
-=======
+# Metasphaeria jaceae Feltgen SPECIES
 
 #### Status
 ACCEPTED

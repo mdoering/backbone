@@ -1,5 +1,4 @@
-Bolbitius glatfelteri Peck SPECIES
-=======
+# Bolbitius glatfelteri Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype radiata Ellis SPECIES
-=======
+# Diatrype radiata Ellis SPECIES
 
 #### Status
 ACCEPTED

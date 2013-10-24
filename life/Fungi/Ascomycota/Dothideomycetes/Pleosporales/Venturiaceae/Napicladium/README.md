@@ -1,5 +1,4 @@
-Napicladium GENUS
-=======
+# Napicladium GENUS
 
 #### Status
 ACCEPTED

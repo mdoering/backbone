@@ -1,5 +1,4 @@
-Microthyrium idaeum Sacc. & Roum. SPECIES
-=======
+# Microthyrium idaeum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

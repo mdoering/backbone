@@ -1,5 +1,4 @@
-Fusarium schawrowi Speschnew SPECIES
-=======
+# Fusarium schawrowi Speschnew SPECIES
 
 #### Status
 ACCEPTED

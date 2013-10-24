@@ -1,5 +1,4 @@
-Lichen coriiformis Wulfen SPECIES
-=======
+# Lichen coriiformis Wulfen SPECIES
 
 #### Status
 ACCEPTED

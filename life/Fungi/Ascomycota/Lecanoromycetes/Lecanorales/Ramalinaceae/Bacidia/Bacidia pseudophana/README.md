@@ -1,5 +1,4 @@
-Bacidia pseudophana (Nyl.) SPECIES
-=======
+# Bacidia pseudophana (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

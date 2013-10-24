@@ -1,5 +1,4 @@
-Umbilicaria americana Poelt & T. H. Nash SPECIES
-=======
+# Umbilicaria americana Poelt & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

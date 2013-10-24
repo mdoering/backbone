@@ -1,5 +1,4 @@
-Lachnum arundinariae E.K. Cash SPECIES
-=======
+# Lachnum arundinariae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

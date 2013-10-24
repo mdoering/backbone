@@ -1,5 +1,4 @@
-Spicaria mucoricola Speg. SPECIES
-=======
+# Spicaria mucoricola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula viscidula Buyck SPECIES
-=======
+# Russula viscidula Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria ahlesiana (Zwackh) Nik. Hoffm. & Hafellner SPECIES
-=======
+# Verrucaria ahlesiana (Zwackh) Nik. Hoffm. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

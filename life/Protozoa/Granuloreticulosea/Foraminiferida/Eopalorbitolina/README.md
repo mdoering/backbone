@@ -1,5 +1,4 @@
-Eopalorbitolina GENUS
-=======
+# Eopalorbitolina GENUS
 
 #### Status
 ACCEPTED

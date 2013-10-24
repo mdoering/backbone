@@ -1,5 +1,4 @@
-Septoria echinopis Bondartsev & Lebedeva SPECIES
-=======
+# Septoria echinopis Bondartsev & Lebedeva SPECIES
 
 #### Status
 ACCEPTED

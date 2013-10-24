@@ -1,5 +1,4 @@
-Bjornbergiella hawaiiensis Bicudo SPECIES
-=======
+# Bjornbergiella hawaiiensis Bicudo SPECIES
 
 #### Status
 ACCEPTED

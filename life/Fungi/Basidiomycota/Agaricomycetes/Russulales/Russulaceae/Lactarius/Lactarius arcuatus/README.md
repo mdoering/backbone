@@ -1,17 +1,16 @@
-Lactaria arcuata Murrill SPECIES
-=======
+# Lactarius arcuatus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33: 440 (1941)
 
 #### Original name
-Lactaria arcuata Murrill
+Lactarius arcuatus Murrill
 
 ### Remarks
 null

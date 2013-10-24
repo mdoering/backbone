@@ -1,5 +1,4 @@
-Macrophoma rumicicola S. Ahmad SPECIES
-=======
+# Macrophoma rumicicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

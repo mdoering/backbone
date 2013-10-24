@@ -1,17 +1,16 @@
-Amanita nivalis f. oreina (J. Favre) Romagn. FORM
-=======
+# Amanita nivalis Grev., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 108(2): 77 (1992)
+null
 
 #### Original name
-Amanita vaginata f. oreina J. Favre
+Amanita nivalis Grev., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pachysporaria turfacea (Wahlenb.) M. Choisy SPECIES
-=======
+# Pachysporaria turfacea (Wahlenb.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

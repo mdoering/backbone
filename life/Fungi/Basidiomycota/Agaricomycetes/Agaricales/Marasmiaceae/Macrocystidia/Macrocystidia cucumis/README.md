@@ -1,17 +1,16 @@
-Macrocystidia cucumis var. cucumis (Pers.) Joss. VARIETY
-=======
+# Macrocystidia cucumis (Pers.) Joss., 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 39(3-4): 373 (1934)
 
 #### Original name
-Macrocystidia cucumis var. cucumis (Pers.) Joss.
+Agaricus cucumis Pers., 1796
 
 ### Remarks
 null

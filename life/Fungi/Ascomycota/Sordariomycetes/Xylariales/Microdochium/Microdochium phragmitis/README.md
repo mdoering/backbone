@@ -1,5 +1,4 @@
-Microdochium phragmitis Syd., 1924 SPECIES
-=======
+# Microdochium phragmitis Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium echinus Müll. Stuttg. SPECIES
-=======
+# Coenogonium echinus Müll. Stuttg. SPECIES
 
 #### Status
 ACCEPTED

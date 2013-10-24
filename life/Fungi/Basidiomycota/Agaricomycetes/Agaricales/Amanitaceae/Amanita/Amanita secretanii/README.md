@@ -1,8 +1,7 @@
-Amanita secretani Gonn. & Rabenh. SPECIES
-=======
+# Amanita secretanii Gonn. & Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita secretani Gonn. & Rabenh.
+Amanita secretanii Gonn. & Rabenh.
 
 ### Remarks
 null

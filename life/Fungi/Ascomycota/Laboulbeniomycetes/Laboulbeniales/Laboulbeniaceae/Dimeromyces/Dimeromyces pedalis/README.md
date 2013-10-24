@@ -1,5 +1,4 @@
-Dimeromyces pedalis Thaxt. SPECIES
-=======
+# Dimeromyces pedalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

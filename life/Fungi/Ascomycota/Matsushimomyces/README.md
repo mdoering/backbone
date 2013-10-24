@@ -1,5 +1,4 @@
-Matsushimomyces V.G. Rao & Varghese GENUS
-=======
+# Matsushimomyces V.G. Rao & Varghese GENUS
 
 #### Status
 ACCEPTED

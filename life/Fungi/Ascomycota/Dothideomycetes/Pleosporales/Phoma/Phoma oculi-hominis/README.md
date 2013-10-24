@@ -1,17 +1,16 @@
-Stagonosporopsis oculo-hominis (Punith.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma oculi-hominis Punith., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 67(1): 142 (1976)
 
 #### Original name
-null
+Phoma oculi-hominis Punith., 1976
 
 ### Remarks
 null

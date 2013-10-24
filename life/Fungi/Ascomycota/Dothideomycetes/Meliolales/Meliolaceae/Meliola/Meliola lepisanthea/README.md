@@ -1,5 +1,4 @@
-Meliola lepisanthea Sacc. SPECIES
-=======
+# Meliola lepisanthea Sacc. SPECIES
 
 #### Status
 ACCEPTED

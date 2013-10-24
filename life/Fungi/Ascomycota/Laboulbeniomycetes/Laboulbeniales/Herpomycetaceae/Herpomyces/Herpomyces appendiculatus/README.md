@@ -1,5 +1,4 @@
-Herpomyces appendiculatus Thaxt. SPECIES
-=======
+# Herpomyces appendiculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

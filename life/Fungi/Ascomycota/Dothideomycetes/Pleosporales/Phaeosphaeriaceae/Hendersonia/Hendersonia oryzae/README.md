@@ -1,5 +1,4 @@
-Hendersonia oryzae I. Miyake SPECIES
-=======
+# Hendersonia oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

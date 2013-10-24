@@ -1,14 +1,13 @@
-Acrospermum dubium Pers., 1797 SPECIES
-=======
+# Coryne dubia (Pers.) Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 92 (1797)
+null
 
 #### Original name
 Acrospermum dubium Pers., 1797

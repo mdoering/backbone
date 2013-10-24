@@ -1,5 +1,4 @@
-Gyrocollema scyphuliferum Vain. SPECIES
-=======
+# Gyrocollema scyphuliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

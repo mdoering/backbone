@@ -1,5 +1,4 @@
-Selenophoma elaeidis Luc SPECIES
-=======
+# Selenophoma elaeidis Luc SPECIES
 
 #### Status
 ACCEPTED

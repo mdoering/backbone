@@ -1,5 +1,4 @@
-Podospora dimorpha A.E. Bell, 2004 SPECIES
-=======
+# Podospora dimorpha A.E. Bell, 2004 SPECIES
 
 #### Status
 ACCEPTED

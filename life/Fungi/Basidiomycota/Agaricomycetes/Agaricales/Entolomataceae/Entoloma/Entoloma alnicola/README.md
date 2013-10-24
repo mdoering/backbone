@@ -1,5 +1,4 @@
-Entoloma alnicola Noordel. & Polemis SPECIES
-=======
+# Entoloma alnicola Noordel. & Polemis SPECIES
 
 #### Status
 ACCEPTED

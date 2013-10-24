@@ -1,5 +1,4 @@
-Pyrenula ciliata Aptroot SPECIES
-=======
+# Pyrenula ciliata Aptroot SPECIES
 
 #### Status
 ACCEPTED

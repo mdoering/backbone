@@ -1,5 +1,4 @@
-Trichoglossum persoonii F.L. Tai SPECIES
-=======
+# Trichoglossum persoonii F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

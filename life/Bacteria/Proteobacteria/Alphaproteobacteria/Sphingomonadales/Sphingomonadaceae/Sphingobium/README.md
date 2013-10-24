@@ -1,5 +1,4 @@
-Sphingobium Takeuchi, Hamana & Hiraishi, 2001 GENUS
-=======
+# Sphingobium Takeuchi, Hamana & Hiraishi, 2001 GENUS
 
 #### Status
 ACCEPTED

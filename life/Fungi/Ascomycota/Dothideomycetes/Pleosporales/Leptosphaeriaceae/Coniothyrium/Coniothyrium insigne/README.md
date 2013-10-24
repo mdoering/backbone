@@ -1,5 +1,4 @@
-Coniothyrium insigne Syd. SPECIES
-=======
+# Coniothyrium insigne Syd. SPECIES
 
 #### Status
 ACCEPTED

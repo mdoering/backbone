@@ -1,5 +1,4 @@
-Phyllosticta bubakiana Syd. SPECIES
-=======
+# Phyllosticta bubakiana Syd. SPECIES
 
 #### Status
 ACCEPTED

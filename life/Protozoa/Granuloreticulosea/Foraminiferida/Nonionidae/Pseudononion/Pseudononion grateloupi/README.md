@@ -1,5 +1,4 @@
-Pseudononion grateloupi SPECIES
-=======
+# Pseudononion grateloupi SPECIES
 
 #### Status
 ACCEPTED

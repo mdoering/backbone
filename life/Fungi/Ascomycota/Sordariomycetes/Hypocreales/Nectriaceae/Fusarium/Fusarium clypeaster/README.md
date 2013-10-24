@@ -1,5 +1,4 @@
-Fusarium clypeaster (Corda) Sacc. SPECIES
-=======
+# Fusarium clypeaster (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

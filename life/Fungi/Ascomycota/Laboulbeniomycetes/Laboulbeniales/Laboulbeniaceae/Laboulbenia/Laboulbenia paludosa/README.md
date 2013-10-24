@@ -1,5 +1,4 @@
-Laboulbenia paludosa F. Picard SPECIES
-=======
+# Laboulbenia paludosa F. Picard SPECIES
 
 #### Status
 ACCEPTED

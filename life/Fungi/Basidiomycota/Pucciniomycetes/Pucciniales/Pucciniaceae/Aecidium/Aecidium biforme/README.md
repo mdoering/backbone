@@ -1,5 +1,4 @@
-Aecidium biforme Peck SPECIES
-=======
+# Aecidium biforme Peck SPECIES
 
 #### Status
 ACCEPTED

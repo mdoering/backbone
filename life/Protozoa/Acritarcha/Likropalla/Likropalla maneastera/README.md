@@ -1,5 +1,4 @@
-Likropalla maneastera Colbath, 1979 SPECIES
-=======
+# Likropalla maneastera Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

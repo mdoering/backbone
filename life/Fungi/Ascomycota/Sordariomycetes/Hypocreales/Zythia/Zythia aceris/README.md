@@ -1,5 +1,4 @@
-Zythia aceris I.E. Brezhnev SPECIES
-=======
+# Zythia aceris I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

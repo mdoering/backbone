@@ -1,5 +1,4 @@
-Blastenia verrucata (Hue) Zahlbr. SPECIES
-=======
+# Blastenia verrucata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

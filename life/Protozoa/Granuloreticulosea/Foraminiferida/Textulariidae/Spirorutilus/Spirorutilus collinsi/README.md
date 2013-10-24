@@ -1,5 +1,4 @@
-Spirorutilus collinsi Clark, 1993 SPECIES
-=======
+# Spirorutilus collinsi Clark, 1993 SPECIES
 
 #### Status
 ACCEPTED

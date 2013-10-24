@@ -1,5 +1,4 @@
-Pestalotia ornithogali Bacc. SPECIES
-=======
+# Pestalotia ornithogali Bacc. SPECIES
 
 #### Status
 ACCEPTED

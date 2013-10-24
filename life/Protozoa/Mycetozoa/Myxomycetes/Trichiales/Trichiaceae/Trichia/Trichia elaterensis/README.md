@@ -1,5 +1,4 @@
-Trichia elaterensis (Mulleavy) Lado, 1997 SPECIES
-=======
+# Trichia elaterensis (Mulleavy) Lado, 1997 SPECIES
 
 #### Status
 ACCEPTED

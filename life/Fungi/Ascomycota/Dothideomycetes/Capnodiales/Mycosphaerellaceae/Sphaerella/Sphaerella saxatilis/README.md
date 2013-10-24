@@ -1,5 +1,4 @@
-Sphaerella saxatilis J. Schröt. SPECIES
-=======
+# Sphaerella saxatilis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

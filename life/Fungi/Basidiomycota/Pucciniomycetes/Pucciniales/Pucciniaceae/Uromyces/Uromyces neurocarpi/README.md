@@ -1,5 +1,4 @@
-Uromyces neurocarpi Dietel SPECIES
-=======
+# Uromyces neurocarpi Dietel SPECIES
 
 #### Status
 ACCEPTED

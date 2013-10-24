@@ -1,5 +1,4 @@
-Cortinarius pseudodaulnoyae Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius pseudodaulnoyae Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ephedrae Trotter SPECIES
-=======
+# Phyllosticta ephedrae Trotter SPECIES
 
 #### Status
 ACCEPTED

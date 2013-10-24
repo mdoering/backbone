@@ -1,5 +1,4 @@
-Oxytricha matritensis SPECIES
-=======
+# Oxytricha matritensis SPECIES
 
 #### Status
 ACCEPTED

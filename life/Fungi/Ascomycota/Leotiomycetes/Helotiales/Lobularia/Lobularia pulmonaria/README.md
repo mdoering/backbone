@@ -1,5 +1,4 @@
-Lobularia pulmonaria SPECIES
-=======
+# Lobularia pulmonaria SPECIES
 
 #### Status
 ACCEPTED

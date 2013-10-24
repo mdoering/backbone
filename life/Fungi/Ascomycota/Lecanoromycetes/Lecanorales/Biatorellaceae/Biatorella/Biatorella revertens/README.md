@@ -1,5 +1,4 @@
-Biatorella revertens (Tuck.) Herre SPECIES
-=======
+# Biatorella revertens (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

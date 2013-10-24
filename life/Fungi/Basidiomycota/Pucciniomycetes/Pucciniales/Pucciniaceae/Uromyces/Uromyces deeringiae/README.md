@@ -1,5 +1,4 @@
-Uromyces deeringiae Syd. & P. Syd. SPECIES
-=======
+# Uromyces deeringiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

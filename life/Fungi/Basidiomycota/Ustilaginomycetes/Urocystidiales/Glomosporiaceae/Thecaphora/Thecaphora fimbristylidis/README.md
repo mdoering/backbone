@@ -1,5 +1,4 @@
-Thecaphora fimbristylidis Mundk. & Thirum. SPECIES
-=======
+# Thecaphora fimbristylidis Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

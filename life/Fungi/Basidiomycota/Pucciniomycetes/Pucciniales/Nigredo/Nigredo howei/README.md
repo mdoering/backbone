@@ -1,5 +1,4 @@
-Nigredo howei (Peck) Arthur SPECIES
-=======
+# Nigredo howei (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

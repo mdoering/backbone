@@ -1,5 +1,4 @@
-Pyrenopsis polycocca (Nyl.) Tuck. SPECIES
-=======
+# Pyrenopsis polycocca (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

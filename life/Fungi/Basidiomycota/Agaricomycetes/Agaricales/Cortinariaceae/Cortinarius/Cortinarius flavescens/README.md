@@ -1,5 +1,4 @@
-Cortinarius flavescens (Cooke) Rob. Henry SPECIES
-=======
+# Cortinarius flavescens (Cooke) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

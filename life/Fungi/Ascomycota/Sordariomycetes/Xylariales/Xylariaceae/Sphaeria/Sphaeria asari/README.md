@@ -1,5 +1,4 @@
-Sphaeria asari Klotzsch SPECIES
-=======
+# Sphaeria asari Klotzsch SPECIES
 
 #### Status
 ACCEPTED

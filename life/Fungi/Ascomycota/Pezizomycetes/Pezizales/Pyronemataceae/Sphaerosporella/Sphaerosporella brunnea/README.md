@@ -1,17 +1,16 @@
-Peziza brunnea var. brunnea Alb. & Schwein., 1805 VARIETY
-=======
+# Sphaerosporella brunnea (Alb. & Schwein.) Svrcek & Kubicka, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 15: 65 (1961)
 
 #### Original name
-null
+Peziza brunnea Alb. & Schwein., 1805
 
 ### Remarks
 null

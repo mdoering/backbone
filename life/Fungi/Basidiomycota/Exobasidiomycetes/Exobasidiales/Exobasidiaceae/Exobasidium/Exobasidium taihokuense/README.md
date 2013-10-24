@@ -1,5 +1,4 @@
-Exobasidium taihokuense Sawada SPECIES
-=======
+# Exobasidium taihokuense Sawada SPECIES
 
 #### Status
 ACCEPTED

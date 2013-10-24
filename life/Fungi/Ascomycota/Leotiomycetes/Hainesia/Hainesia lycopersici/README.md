@@ -1,5 +1,4 @@
-Hainesia lycopersici Speg. SPECIES
-=======
+# Hainesia lycopersici Speg. SPECIES
 
 #### Status
 ACCEPTED

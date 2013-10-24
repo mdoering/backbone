@@ -1,5 +1,4 @@
-Tripospermum fructigenum (Rabenh. ex Sacc. & Trotter) S. Hughes SPECIES
-=======
+# Tripospermum fructigenum (Rabenh. ex Sacc. & Trotter) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

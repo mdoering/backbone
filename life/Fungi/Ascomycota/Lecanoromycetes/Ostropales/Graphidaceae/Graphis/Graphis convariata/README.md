@@ -1,5 +1,4 @@
-Graphis convariata Kremp. SPECIES
-=======
+# Graphis convariata Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrogenospora novae-zelandiae S. Hughes, 1978 SPECIES
-=======
+# Acrogenospora novae-zelandiae S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

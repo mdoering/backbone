@@ -1,5 +1,4 @@
-Piricaudiopsis punicae Kai Zhang & X.G. Zhang SPECIES
-=======
+# Piricaudiopsis punicae Kai Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

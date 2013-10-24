@@ -1,5 +1,4 @@
-Ustilago stipicola Speg. SPECIES
-=======
+# Ustilago stipicola Speg. SPECIES
 
 #### Status
 ACCEPTED

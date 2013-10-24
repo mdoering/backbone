@@ -1,5 +1,4 @@
-Streptomyces griseolosporeus Wellington et al., 1992 SPECIES
-=======
+# Streptomyces griseolosporeus Wellington et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

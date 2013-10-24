@@ -1,5 +1,4 @@
-Abrothallus placophyllus Anzi SPECIES
-=======
+# Abrothallus placophyllus Anzi SPECIES
 
 #### Status
 ACCEPTED

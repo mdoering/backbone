@@ -1,5 +1,4 @@
-Lachnocladium cristatum Lloyd SPECIES
-=======
+# Lachnocladium cristatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea glaucovirescens Vain. SPECIES
-=======
+# Lecidea glaucovirescens Vain. SPECIES
 
 #### Status
 ACCEPTED

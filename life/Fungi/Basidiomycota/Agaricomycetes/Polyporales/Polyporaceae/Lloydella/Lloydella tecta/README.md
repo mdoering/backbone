@@ -1,5 +1,4 @@
-Lloydella tecta Rick SPECIES
-=======
+# Lloydella tecta Rick SPECIES
 
 #### Status
 ACCEPTED

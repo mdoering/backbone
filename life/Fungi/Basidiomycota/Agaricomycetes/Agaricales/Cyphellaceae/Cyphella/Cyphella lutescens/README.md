@@ -1,5 +1,4 @@
-Cyphella lutescens (Pers.) Lloyd SPECIES
-=======
+# Cyphella lutescens (Pers.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora madeirensis Nag Raj SPECIES
-=======
+# Ceuthospora madeirensis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

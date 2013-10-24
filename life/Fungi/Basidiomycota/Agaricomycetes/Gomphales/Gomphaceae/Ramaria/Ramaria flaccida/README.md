@@ -1,17 +1,16 @@
-Ramaria flaccida var. flaccida VARIETY
-=======
+# Ramaria flaccida (Fr.) Bourdot, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vadem. Pilzfr. 254 (1918)
+Rev. Sci. du Bourb. 11: 235 (1898)
 
 #### Original name
-Ramaria flaccida var. flaccida
+Clavaria flaccida Fr., 1821
 
 ### Remarks
 null

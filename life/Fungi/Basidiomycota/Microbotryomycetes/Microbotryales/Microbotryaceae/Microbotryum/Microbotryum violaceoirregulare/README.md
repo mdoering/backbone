@@ -1,14 +1,13 @@
-Ustilago violaceoirregularis Brandenb. & Schwinn, 1974 SPECIES
-=======
+# Microbotryum violaceoirregulare (Brandenb. & Schwinn) G. Deml & Oberw., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 22(3-4): 884 (1974)
+Phytopath. Z. 104(4): 354 (1982)
 
 #### Original name
 Ustilago violaceoirregularis Brandenb. & Schwinn, 1974

@@ -1,5 +1,4 @@
-Leptostromella septorioides Sacc. & Roum., 1882 SPECIES
-=======
+# Leptostromella septorioides Sacc. & Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED

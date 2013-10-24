@@ -1,5 +1,4 @@
-Cellulophaga Johansen, Nielsen & Sjoholm, 1999 GENUS
-=======
+# Cellulophaga Johansen, Nielsen & Sjoholm, 1999 GENUS
 
 #### Status
 ACCEPTED

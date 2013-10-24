@@ -1,5 +1,4 @@
-Leptorhaphis novae-guineae Szatala SPECIES
-=======
+# Leptorhaphis novae-guineae Szatala SPECIES
 
 #### Status
 ACCEPTED

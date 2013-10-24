@@ -1,5 +1,4 @@
-Phlyctis schizospora SPECIES
-=======
+# Phlyctis schizospora SPECIES
 
 #### Status
 ACCEPTED

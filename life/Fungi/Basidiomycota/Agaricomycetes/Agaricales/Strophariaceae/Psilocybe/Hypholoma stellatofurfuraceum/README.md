@@ -1,5 +1,4 @@
-Hypholoma stellatofurfuraceum S. Ito & S. Imai SPECIES
-=======
+# Hypholoma stellatofurfuraceum S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

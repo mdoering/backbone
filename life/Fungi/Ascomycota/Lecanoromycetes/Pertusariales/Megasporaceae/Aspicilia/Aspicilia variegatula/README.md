@@ -1,5 +1,4 @@
-Aspicilia variegatula (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia variegatula (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

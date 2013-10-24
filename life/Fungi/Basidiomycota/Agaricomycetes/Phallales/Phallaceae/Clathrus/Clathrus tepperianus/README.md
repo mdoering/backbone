@@ -1,5 +1,4 @@
-Clathrus tepperianus F. Ludw. SPECIES
-=======
+# Clathrus tepperianus F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

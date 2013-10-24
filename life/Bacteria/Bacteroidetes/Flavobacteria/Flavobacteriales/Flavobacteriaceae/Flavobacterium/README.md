@@ -1,5 +1,4 @@
-Flavobacterium Bergey, Harrison, Breed, Hammer & Huntoon, 1923 GENUS
-=======
+# Flavobacterium Bergey, Harrison, Breed, Hammer & Huntoon, 1923 GENUS
 
 #### Status
 ACCEPTED

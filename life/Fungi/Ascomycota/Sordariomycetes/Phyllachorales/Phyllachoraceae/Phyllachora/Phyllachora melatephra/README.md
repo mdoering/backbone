@@ -1,5 +1,4 @@
-Phyllachora melatephra Syd., 1932 SPECIES
-=======
+# Phyllachora melatephra Syd., 1932 SPECIES
 
 #### Status
 ACCEPTED

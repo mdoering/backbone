@@ -1,17 +1,16 @@
-Schroeteria delastrina var. reticulata Cocc., 1898 VARIETY
-=======
+# Schroeteria delastrina (Tul. & C. Tul.) G. Winter, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(1): 117 (1881)
 
 #### Original name
-Schroeteria delastrina var. reticulata Cocc., 1898
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lampropedia Schroeter, 1886 GENUS
-=======
+# Lampropedia Schroeter, 1886 GENUS
 
 #### Status
 ACCEPTED

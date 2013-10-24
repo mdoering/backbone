@@ -1,5 +1,4 @@
-Ramaria brachypodii Velen. SPECIES
-=======
+# Ramaria brachypodii Velen. SPECIES
 
 #### Status
 ACCEPTED

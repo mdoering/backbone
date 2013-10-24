@@ -1,5 +1,4 @@
-Lecanora carneopallens (Flot.) Motyka SPECIES
-=======
+# Lecanora carneopallens (Flot.) Motyka SPECIES
 
 #### Status
 ACCEPTED

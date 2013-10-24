@@ -1,5 +1,4 @@
-Mycena viscidipes Murrill SPECIES
-=======
+# Mycena viscidipes Murrill SPECIES
 
 #### Status
 ACCEPTED

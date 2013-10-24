@@ -1,11 +1,10 @@
-Gibellula arachnophila f. arachnophila FORM
-=======
+# Torrubiella arachnophila (J.R. Johnst.) Mains, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

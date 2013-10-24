@@ -1,5 +1,4 @@
-Gyroporaceae FAMILY
-=======
+# Gyroporaceae FAMILY
 
 #### Status
 ACCEPTED

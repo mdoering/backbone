@@ -1,5 +1,4 @@
-Mycosphaerella ambiens Starbäck SPECIES
-=======
+# Mycosphaerella ambiens Starbäck SPECIES
 
 #### Status
 ACCEPTED

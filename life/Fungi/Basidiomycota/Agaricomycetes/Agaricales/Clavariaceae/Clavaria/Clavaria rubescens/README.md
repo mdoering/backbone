@@ -1,5 +1,4 @@
-Clavaria rubescens Raf., 1813 SPECIES
-=======
+# Clavaria rubescens Raf., 1813 SPECIES
 
 #### Status
 ACCEPTED

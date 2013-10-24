@@ -1,5 +1,4 @@
-Clauzadea Hafellner & Bellem. GENUS
-=======
+# Clauzadea Hafellner & Bellem. GENUS
 
 #### Status
 ACCEPTED

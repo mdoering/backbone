@@ -1,5 +1,4 @@
-Dothidella elaeocarpi Racib. SPECIES
-=======
+# Dothidella elaeocarpi Racib. SPECIES
 
 #### Status
 ACCEPTED

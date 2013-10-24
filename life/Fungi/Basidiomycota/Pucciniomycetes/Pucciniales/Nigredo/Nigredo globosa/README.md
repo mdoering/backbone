@@ -1,5 +1,4 @@
-Nigredo globosa (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo globosa (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

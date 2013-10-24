@@ -1,5 +1,4 @@
-Psathyrella fontinalis A.H. Sm. SPECIES
-=======
+# Psathyrella fontinalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

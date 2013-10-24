@@ -1,5 +1,4 @@
-Corticium botrytes (Fr.) Quél. SPECIES
-=======
+# Corticium botrytes (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

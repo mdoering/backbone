@@ -1,5 +1,4 @@
-Euglena spiroides Lemmermann SPECIES
-=======
+# Euglena spiroides Lemmermann SPECIES
 
 #### Status
 ACCEPTED

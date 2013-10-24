@@ -1,5 +1,4 @@
-Tricholoma nudus Fr. SPECIES
-=======
+# Tricholoma nudus Fr. SPECIES
 
 #### Status
 ACCEPTED

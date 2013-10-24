@@ -1,5 +1,4 @@
-Cantharellus parilis Weinm. SPECIES
-=======
+# Cantharellus parilis Weinm. SPECIES
 
 #### Status
 ACCEPTED

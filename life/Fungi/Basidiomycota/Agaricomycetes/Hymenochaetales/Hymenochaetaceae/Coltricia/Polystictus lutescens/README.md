@@ -1,5 +1,4 @@
-Polystictus lutescens (Pers.) Fr. SPECIES
-=======
+# Polystictus lutescens (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocystidiellum odontoides Khara SPECIES
-=======
+# Gloeocystidiellum odontoides Khara SPECIES
 
 #### Status
 ACCEPTED

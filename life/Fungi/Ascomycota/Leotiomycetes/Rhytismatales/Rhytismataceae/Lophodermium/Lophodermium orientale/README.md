@@ -1,5 +1,4 @@
-Lophodermium orientale Minter, 1981 SPECIES
-=======
+# Lophodermium orientale Minter, 1981 SPECIES
 
 #### Status
 ACCEPTED

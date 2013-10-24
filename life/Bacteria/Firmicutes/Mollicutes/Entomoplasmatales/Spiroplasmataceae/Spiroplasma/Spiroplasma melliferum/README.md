@@ -1,5 +1,4 @@
-Spiroplasma melliferum Clark et al., 1985 SPECIES
-=======
+# Spiroplasma melliferum Clark et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

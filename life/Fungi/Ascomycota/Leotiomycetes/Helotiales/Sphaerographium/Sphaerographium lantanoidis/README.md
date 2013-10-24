@@ -1,5 +1,4 @@
-Sphaerographium lantanoidis Peck SPECIES
-=======
+# Sphaerographium lantanoidis Peck SPECIES
 
 #### Status
 ACCEPTED

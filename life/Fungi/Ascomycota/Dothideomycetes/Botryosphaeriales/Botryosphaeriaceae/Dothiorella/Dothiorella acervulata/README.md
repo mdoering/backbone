@@ -1,5 +1,4 @@
-Dothiorella acervulata Speg. SPECIES
-=======
+# Dothiorella acervulata Speg. SPECIES
 
 #### Status
 ACCEPTED

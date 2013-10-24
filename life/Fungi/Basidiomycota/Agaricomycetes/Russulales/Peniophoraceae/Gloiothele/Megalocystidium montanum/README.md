@@ -1,5 +1,4 @@
-Megalocystidium montanum Ginns & G.W. Freeman SPECIES
-=======
+# Megalocystidium montanum Ginns & G.W. Freeman SPECIES
 
 #### Status
 ACCEPTED

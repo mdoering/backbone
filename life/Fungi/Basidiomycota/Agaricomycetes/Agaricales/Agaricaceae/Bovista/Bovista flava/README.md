@@ -1,5 +1,4 @@
-Bovista flava (Massee) Kreisel SPECIES
-=======
+# Bovista flava (Massee) Kreisel SPECIES
 
 #### Status
 ACCEPTED

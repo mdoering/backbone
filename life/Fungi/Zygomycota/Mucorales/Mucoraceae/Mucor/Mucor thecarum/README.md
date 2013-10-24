@@ -1,5 +1,4 @@
-Mucor thecarum Röhl. SPECIES
-=======
+# Mucor thecarum Röhl. SPECIES
 
 #### Status
 ACCEPTED

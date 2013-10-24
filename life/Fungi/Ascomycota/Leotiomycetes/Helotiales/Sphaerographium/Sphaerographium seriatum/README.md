@@ -1,5 +1,4 @@
-Sphaerographium seriatum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sphaerographium seriatum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

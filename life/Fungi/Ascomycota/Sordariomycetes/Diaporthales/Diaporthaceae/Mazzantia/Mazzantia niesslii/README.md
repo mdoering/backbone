@@ -1,14 +1,13 @@
-Phyllachora niesslii (Thüm.) Cooke, 1885 SPECIES
-=======
+# Mazzantia niesslii Thüm., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 67 (1885)
+Instituto de Coimbra 28: 26 (1880)
 
 #### Original name
 Mazzantia niesslii Thüm., 1880

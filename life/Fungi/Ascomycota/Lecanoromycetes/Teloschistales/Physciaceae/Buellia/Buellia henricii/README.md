@@ -1,8 +1,7 @@
-Buellia henrici B. de Lesd. SPECIES
-=======
+# Buellia henricii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia henrici B. de Lesd.
+Buellia henricii B. de Lesd.
 
 ### Remarks
 null

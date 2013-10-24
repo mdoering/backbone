@@ -1,5 +1,4 @@
-Lecaniocola conomeli-limbati (ulc) Brain SPECIES
-=======
+# Lecaniocola conomeli-limbati (ulc) Brain SPECIES
 
 #### Status
 ACCEPTED

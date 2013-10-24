@@ -1,5 +1,4 @@
-Clavaria gracilior Britzelm. SPECIES
-=======
+# Clavaria gracilior Britzelm. SPECIES
 
 #### Status
 ACCEPTED

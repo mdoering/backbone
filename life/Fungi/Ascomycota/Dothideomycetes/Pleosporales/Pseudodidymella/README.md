@@ -1,5 +1,4 @@
-Pseudodidymella C.Z. Wei, Y. Harada & Katum. GENUS
-=======
+# Pseudodidymella C.Z. Wei, Y. Harada & Katum. GENUS
 
 #### Status
 ACCEPTED

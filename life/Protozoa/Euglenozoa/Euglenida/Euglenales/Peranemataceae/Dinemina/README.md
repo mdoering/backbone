@@ -1,5 +1,4 @@
-Dinemina Michajow, 1970 GENUS
-=======
+# Dinemina Michajow, 1970 GENUS
 
 #### Status
 ACCEPTED

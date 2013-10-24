@@ -1,14 +1,13 @@
-Pestalotia westerdykiae (Steyaert) Guba, 1961 SPECIES
-=======
+# Pestalotiopsis westerdykiae Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 174 (1961)
+Bull. Jard. bot. État Brux. 14: 329 (1949)
 
 #### Original name
 Pestalotiopsis westerdykiae Steyaert, 1949

@@ -1,5 +1,4 @@
-Sclerotelium GENUS
-=======
+# Sclerotelium GENUS
 
 #### Status
 ACCEPTED

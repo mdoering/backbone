@@ -1,8 +1,7 @@
-Dasyscypha allantospora Tracy & Earle SPECIES
-=======
+# Dasyscyphus allantospora Tracy & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha allantospora Tracy & Earle
+Dasyscyphus allantospora Tracy & Earle
 
 ### Remarks
 null

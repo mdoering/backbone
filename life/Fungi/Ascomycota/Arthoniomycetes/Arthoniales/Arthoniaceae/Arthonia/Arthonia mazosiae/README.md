@@ -1,5 +1,4 @@
-Arthonia mazosiae R. Sant. SPECIES
-=======
+# Arthonia mazosiae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

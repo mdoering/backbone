@@ -1,5 +1,4 @@
-Tremella intumescens Sm. SPECIES
-=======
+# Tremella intumescens Sm. SPECIES
 
 #### Status
 ACCEPTED

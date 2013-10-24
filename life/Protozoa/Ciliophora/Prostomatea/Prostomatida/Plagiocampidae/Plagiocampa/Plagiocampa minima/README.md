@@ -1,5 +1,4 @@
-Plagiocampa minima Kahl, 1927 SPECIES
-=======
+# Plagiocampa minima Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium turgidopilosum L.M. Ames SPECIES
-=======
+# Chaetomium turgidopilosum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

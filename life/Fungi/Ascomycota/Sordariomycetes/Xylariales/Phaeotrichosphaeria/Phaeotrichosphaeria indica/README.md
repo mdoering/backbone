@@ -1,5 +1,4 @@
-Phaeotrichosphaeria indica Sivan. & N.D. Sharma, 1983 SPECIES
-=======
+# Phaeotrichosphaeria indica Sivan. & N.D. Sharma, 1983 SPECIES
 
 #### Status
 ACCEPTED

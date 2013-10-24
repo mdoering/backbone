@@ -1,5 +1,4 @@
-Bryometopus muscicola SPECIES
-=======
+# Bryometopus muscicola SPECIES
 
 #### Status
 ACCEPTED

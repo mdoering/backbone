@@ -1,17 +1,16 @@
-Coniothyrium obionis Jaap SPECIES
-=======
+# Coniothyrium obiones Jaap, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schr. naturw. Ver. Schles. -Holst. 14: 29 (1907)
 
 #### Original name
-Coniothyrium obionis Jaap
+Coniothyrium obiones Jaap, 1907
 
 ### Remarks
 null

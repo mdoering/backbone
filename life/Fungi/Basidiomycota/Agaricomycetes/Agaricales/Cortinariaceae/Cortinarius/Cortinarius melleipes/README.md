@@ -1,5 +1,4 @@
-Cortinarius melleipes (Murrill) Singer SPECIES
-=======
+# Cortinarius melleipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

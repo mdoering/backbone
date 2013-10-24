@@ -1,5 +1,4 @@
-Meliola mandingensis Hansf. SPECIES
-=======
+# Meliola mandingensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

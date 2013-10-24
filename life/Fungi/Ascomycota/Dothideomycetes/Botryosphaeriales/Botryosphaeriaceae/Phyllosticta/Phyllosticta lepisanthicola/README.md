@@ -1,5 +1,4 @@
-Phyllosticta lepisanthicola Subhedar & V.G. Rao SPECIES
-=======
+# Phyllosticta lepisanthicola Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

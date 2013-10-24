@@ -1,5 +1,4 @@
-Heufleridium pentagrasticum Müll. Arg. SPECIES
-=======
+# Heufleridium pentagrasticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

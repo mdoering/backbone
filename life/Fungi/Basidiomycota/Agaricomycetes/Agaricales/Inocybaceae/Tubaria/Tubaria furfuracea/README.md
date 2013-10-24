@@ -1,17 +1,16 @@
-Tubaria hiemalis var. hiemalis VARIETY
-=======
+# Tubaria furfuracea (Pers.) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 3(no. 9): 5 (1973)
+Hyménomycètes (Alençon) 537 (1876)
 
 #### Original name
-Tubaria hiemalis var. hiemalis
+Agaricus furfuraceus Pers., 1801
 
 ### Remarks
 null

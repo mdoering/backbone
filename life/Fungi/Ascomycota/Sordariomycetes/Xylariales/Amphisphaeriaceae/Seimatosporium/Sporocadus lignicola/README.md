@@ -1,5 +1,4 @@
-Sporocadus lignicola Preuss SPECIES
-=======
+# Sporocadus lignicola Preuss SPECIES
 
 #### Status
 ACCEPTED

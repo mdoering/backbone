@@ -1,5 +1,4 @@
-Strangospora senecionis Lambinon & Vezda SPECIES
-=======
+# Strangospora senecionis Lambinon & Vezda SPECIES
 
 #### Status
 ACCEPTED

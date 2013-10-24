@@ -1,14 +1,13 @@
-Phialea pineti (Batsch) Quél., 1880 SPECIES
-=======
+# Pseudohelotium pineti (Batsch) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 298 (1870)
 
 #### Original name
 null

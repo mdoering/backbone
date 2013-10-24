@@ -1,5 +1,4 @@
-Spinosicapsa Ozvoldova, 1975 GENUS
-=======
+# Spinosicapsa Ozvoldova, 1975 GENUS
 
 #### Status
 ACCEPTED

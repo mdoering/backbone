@@ -1,5 +1,4 @@
-Polyplocium patagonicum Singer SPECIES
-=======
+# Polyplocium patagonicum Singer SPECIES
 
 #### Status
 ACCEPTED

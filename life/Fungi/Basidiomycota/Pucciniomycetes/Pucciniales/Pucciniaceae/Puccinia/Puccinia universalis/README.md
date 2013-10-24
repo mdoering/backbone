@@ -1,5 +1,4 @@
-Puccinia universalis Arthur SPECIES
-=======
+# Puccinia universalis Arthur SPECIES
 
 #### Status
 ACCEPTED

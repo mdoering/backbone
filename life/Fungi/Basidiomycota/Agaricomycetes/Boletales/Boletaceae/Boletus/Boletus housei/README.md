@@ -1,5 +1,4 @@
-Boletus housei (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus housei (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

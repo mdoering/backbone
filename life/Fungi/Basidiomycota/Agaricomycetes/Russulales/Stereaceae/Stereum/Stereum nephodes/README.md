@@ -1,5 +1,4 @@
-Stereum nephodes Mont. SPECIES
-=======
+# Stereum nephodes Mont. SPECIES
 
 #### Status
 ACCEPTED

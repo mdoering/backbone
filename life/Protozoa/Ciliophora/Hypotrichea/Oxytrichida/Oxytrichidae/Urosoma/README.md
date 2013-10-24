@@ -1,14 +1,13 @@
-Parastrombidium Borror, 1972 GENUS
-=======
+# Urosoma Kowalewski, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Physiogr. Denkschr. , Warsaw, 2 (teste Wrzesniowski 1883, Biol. Zbl. , 3, 240).
 
 #### Original name
 null

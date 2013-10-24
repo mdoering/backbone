@@ -1,5 +1,4 @@
-Parmelia dictyoidea Hue SPECIES
-=======
+# Parmelia dictyoidea Hue SPECIES
 
 #### Status
 ACCEPTED

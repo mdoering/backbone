@@ -1,5 +1,4 @@
-Placographa felsmanni Stein SPECIES
-=======
+# Placographa felsmanni Stein SPECIES
 
 #### Status
 ACCEPTED

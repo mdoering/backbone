@@ -1,5 +1,4 @@
-Amanita subremota (Cooke & Massee) A.M. Young SPECIES
-=======
+# Amanita subremota (Cooke & Massee) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

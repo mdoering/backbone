@@ -1,5 +1,4 @@
-Patellaria rubellula (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria rubellula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

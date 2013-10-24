@@ -1,5 +1,4 @@
-Leiofusa banderillae Cramer, 1964 SPECIES
-=======
+# Leiofusa banderillae Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

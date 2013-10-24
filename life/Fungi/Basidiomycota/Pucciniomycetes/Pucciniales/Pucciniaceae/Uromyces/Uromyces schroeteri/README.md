@@ -1,5 +1,4 @@
-Uromyces schroeteri De Toni SPECIES
-=======
+# Uromyces schroeteri De Toni SPECIES
 
 #### Status
 ACCEPTED

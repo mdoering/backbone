@@ -1,14 +1,13 @@
-Brachysporium coryneoideum var. proliferum Sacc., E. Bommer & M. Rousseau, 1907 VARIETY
-=======
+# Phragmocephala prolifera (Sacc., M. Rousseau & E. Bommer) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenhorst's Kryptogamenflora (Leipzig) Bd. 1, Abtab. 9, p. 61 (1907)
+N. Z. Jl Bot. 17(2): 164 (1979)
 
 #### Original name
 Brachysporium coryneoideum var. proliferum Sacc., E. Bommer & M. Rousseau, 1907

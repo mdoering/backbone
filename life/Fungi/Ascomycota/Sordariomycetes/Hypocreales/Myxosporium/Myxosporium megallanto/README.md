@@ -1,5 +1,4 @@
-Myxosporium megallanto Dearn. SPECIES
-=======
+# Myxosporium megallanto Dearn. SPECIES
 
 #### Status
 ACCEPTED

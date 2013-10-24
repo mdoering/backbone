@@ -1,5 +1,4 @@
-Caeoma kabatianum Bubák SPECIES
-=======
+# Caeoma kabatianum Bubák SPECIES
 
 #### Status
 ACCEPTED

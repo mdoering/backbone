@@ -1,5 +1,4 @@
-Phoma rhizophorae Tassi SPECIES
-=======
+# Phoma rhizophorae Tassi SPECIES
 
 #### Status
 ACCEPTED

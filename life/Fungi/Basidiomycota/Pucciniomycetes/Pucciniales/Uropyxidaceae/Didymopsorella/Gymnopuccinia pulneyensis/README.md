@@ -1,5 +1,4 @@
-Gymnopuccinia pulneyensis K. Ramakr. SPECIES
-=======
+# Gymnopuccinia pulneyensis K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

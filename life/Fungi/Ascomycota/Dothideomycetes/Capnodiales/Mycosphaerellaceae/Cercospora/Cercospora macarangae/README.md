@@ -1,5 +1,4 @@
-Cercospora macarangae Syd. & P. Syd. SPECIES
-=======
+# Cercospora macarangae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

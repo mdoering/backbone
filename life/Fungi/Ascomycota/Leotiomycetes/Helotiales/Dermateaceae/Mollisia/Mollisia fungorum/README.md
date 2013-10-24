@@ -1,5 +1,4 @@
-Mollisia fungorum (Kirchn.) Rehm, 1891 SPECIES
-=======
+# Mollisia fungorum (Kirchn.) Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED

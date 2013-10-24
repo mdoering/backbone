@@ -1,5 +1,4 @@
-Xerula Maire, 1933 GENUS
-=======
+# Xerula Maire, 1933 GENUS
 
 #### Status
 ACCEPTED

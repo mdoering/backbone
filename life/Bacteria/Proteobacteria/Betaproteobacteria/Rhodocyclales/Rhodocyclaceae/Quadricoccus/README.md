@@ -1,5 +1,4 @@
-Quadricoccus GENUS
-=======
+# Quadricoccus GENUS
 
 #### Status
 ACCEPTED

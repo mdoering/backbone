@@ -1,5 +1,4 @@
-Ophiostoma hyalothecium (R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma hyalothecium (R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

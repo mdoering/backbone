@@ -1,5 +1,4 @@
-Coprinopsis goudensis (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis goudensis (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

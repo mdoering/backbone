@@ -1,5 +1,4 @@
-Agaricus emplastrum Cooke & Massee SPECIES
-=======
+# Agaricus emplastrum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

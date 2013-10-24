@@ -1,5 +1,4 @@
-Uromyces verrucosae-craccae Mayor, 1931 SPECIES
-=======
+# Uromyces verrucosae-craccae Mayor, 1931 SPECIES
 
 #### Status
 ACCEPTED

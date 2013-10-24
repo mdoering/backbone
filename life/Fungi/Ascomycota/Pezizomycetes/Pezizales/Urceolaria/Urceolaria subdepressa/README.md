@@ -1,5 +1,4 @@
-Urceolaria subdepressa (Nyl.) Motyka SPECIES
-=======
+# Urceolaria subdepressa (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

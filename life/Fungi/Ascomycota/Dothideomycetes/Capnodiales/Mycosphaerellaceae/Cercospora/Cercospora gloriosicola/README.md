@@ -1,5 +1,4 @@
-Cercospora gloriosicola J.M. Yen & Lim SPECIES
-=======
+# Cercospora gloriosicola J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alectoria altaica var. altaica VARIETY
-=======
+# Bryoria nadvornikiana (Gyeln.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 122 (1977)
 
 #### Original name
-Alectoria altaica var. altaica
+Alectoria nadvornikiana Gyeln.
 
 ### Remarks
 null

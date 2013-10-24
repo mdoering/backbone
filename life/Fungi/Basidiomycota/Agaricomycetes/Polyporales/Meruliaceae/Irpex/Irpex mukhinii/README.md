@@ -1,5 +1,4 @@
-Irpex mukhinii (Kotir. & Y.C. Dai) Kotir. & Saaren. SPECIES
-=======
+# Irpex mukhinii (Kotir. & Y.C. Dai) Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

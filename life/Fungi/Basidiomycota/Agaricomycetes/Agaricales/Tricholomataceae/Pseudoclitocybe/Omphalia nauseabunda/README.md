@@ -1,5 +1,4 @@
-Omphalia nauseabunda Mont. SPECIES
-=======
+# Omphalia nauseabunda Mont. SPECIES
 
 #### Status
 ACCEPTED

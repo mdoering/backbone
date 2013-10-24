@@ -1,5 +1,4 @@
-Leptosphaeria woodrowi-wilsoni Garb. SPECIES
-=======
+# Leptosphaeria woodrowi-wilsoni Garb. SPECIES
 
 #### Status
 ACCEPTED

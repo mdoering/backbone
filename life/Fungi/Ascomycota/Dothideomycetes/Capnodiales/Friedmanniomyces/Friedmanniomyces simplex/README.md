@@ -1,5 +1,4 @@
-Friedmanniomyces simplex Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri SPECIES
-=======
+# Friedmanniomyces simplex Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri SPECIES
 
 #### Status
 ACCEPTED

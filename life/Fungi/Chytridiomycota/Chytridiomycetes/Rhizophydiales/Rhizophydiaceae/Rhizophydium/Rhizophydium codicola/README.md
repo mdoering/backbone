@@ -1,5 +1,4 @@
-Rhizophydium codicola Zeller SPECIES
-=======
+# Rhizophydium codicola Zeller SPECIES
 
 #### Status
 ACCEPTED

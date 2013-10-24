@@ -1,5 +1,4 @@
-Bertia pulneyensis Subram. & Sekar SPECIES
-=======
+# Bertia pulneyensis Subram. & Sekar SPECIES
 
 #### Status
 ACCEPTED

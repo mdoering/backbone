@@ -1,5 +1,4 @@
-Rhizopogon ellipsosporus Trappe, Castellano & Amar., 2000 SPECIES
-=======
+# Rhizopogon ellipsosporus Trappe, Castellano & Amar., 2000 SPECIES
 
 #### Status
 ACCEPTED

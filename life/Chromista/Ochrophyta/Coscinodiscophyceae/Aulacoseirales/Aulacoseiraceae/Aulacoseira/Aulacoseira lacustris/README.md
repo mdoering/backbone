@@ -1,5 +1,4 @@
-Aulacoseira lacustris (Grunow) Krammer SPECIES
-=======
+# Aulacoseira lacustris (Grunow) Krammer SPECIES
 
 #### Status
 ACCEPTED

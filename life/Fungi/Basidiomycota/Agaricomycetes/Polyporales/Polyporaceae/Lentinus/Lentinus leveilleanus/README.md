@@ -1,5 +1,4 @@
-Lentinus leveilleanus Berk. SPECIES
-=======
+# Lentinus leveilleanus Berk. SPECIES
 
 #### Status
 ACCEPTED

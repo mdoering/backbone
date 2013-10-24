@@ -1,5 +1,4 @@
-Amanitopsis pusilla Peck SPECIES
-=======
+# Amanitopsis pusilla Peck SPECIES
 
 #### Status
 ACCEPTED

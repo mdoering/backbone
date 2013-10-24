@@ -1,5 +1,4 @@
-Mycetocola lacteus Tsukamoto et al., 2001 SPECIES
-=======
+# Mycetocola lacteus Tsukamoto et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

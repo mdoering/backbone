@@ -1,5 +1,4 @@
-Smardaea protea W.Y. Zhuang & Korf SPECIES
-=======
+# Smardaea protea W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

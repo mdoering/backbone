@@ -1,5 +1,4 @@
-Graphis marginata G. Meyen & Flot. SPECIES
-=======
+# Graphis marginata G. Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Favolus sarasini Wakef. SPECIES
-=======
+# Favolus sarasinii Wakef. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wakefield, Massee & Cotton, Vierteljahrsschr. Naturf. Ges. Zürich 61: 629 (1916)
 
 #### Original name
-Favolus sarasini Wakef.
+Favolus sarasinii Wakef.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Camarosporulum deutziae (Tassi) Tassi SPECIES
-=======
+# Camarosporulum deutziae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

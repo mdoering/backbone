@@ -1,5 +1,4 @@
-Russula inedulis Murrill SPECIES
-=======
+# Russula inedulis Murrill SPECIES
 
 #### Status
 ACCEPTED

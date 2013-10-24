@@ -1,5 +1,4 @@
-Omphalia caricicola Lasch SPECIES
-=======
+# Omphalia caricicola Lasch SPECIES
 
 #### Status
 ACCEPTED

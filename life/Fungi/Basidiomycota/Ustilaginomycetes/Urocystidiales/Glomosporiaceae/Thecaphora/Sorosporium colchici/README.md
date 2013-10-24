@@ -1,5 +1,4 @@
-Sorosporium colchici Lib. SPECIES
-=======
+# Sorosporium colchici Lib. SPECIES
 
 #### Status
 ACCEPTED

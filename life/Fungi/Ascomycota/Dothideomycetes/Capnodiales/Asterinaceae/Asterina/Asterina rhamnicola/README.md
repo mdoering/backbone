@@ -1,5 +1,4 @@
-Asterina rhamnicola Doidge SPECIES
-=======
+# Asterina rhamnicola Doidge SPECIES
 
 #### Status
 ACCEPTED

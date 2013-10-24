@@ -1,5 +1,4 @@
-Clitocybe pulchella Speg. SPECIES
-=======
+# Clitocybe pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

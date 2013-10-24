@@ -1,5 +1,4 @@
-Fusarium venenatum Nirenberg, 1995 SPECIES
-=======
+# Fusarium venenatum Nirenberg, 1995 SPECIES
 
 #### Status
 ACCEPTED

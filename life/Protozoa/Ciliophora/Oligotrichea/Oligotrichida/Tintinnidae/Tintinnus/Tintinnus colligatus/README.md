@@ -1,5 +1,4 @@
-Tintinnus colligatus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus colligatus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

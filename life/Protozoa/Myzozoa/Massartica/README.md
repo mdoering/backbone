@@ -1,5 +1,4 @@
-Massartica GENUS
-=======
+# Massartica GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe magnispora (Ellis & Everh.) Sacc. SPECIES
-=======
+# Diaporthe magnispora (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

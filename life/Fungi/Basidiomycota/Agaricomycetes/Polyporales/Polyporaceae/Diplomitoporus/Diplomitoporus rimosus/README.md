@@ -1,14 +1,13 @@
-Poria rimosa Murrill, 1920 SPECIES
-=======
+# Diplomitoporus rimosus (Murrill) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 12(2): 91 (1920)
+Mycotaxon 22(2): 364 (1985)
 
 #### Original name
 Poria rimosa Murrill, 1920

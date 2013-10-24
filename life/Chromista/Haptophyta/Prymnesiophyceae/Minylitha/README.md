@@ -1,5 +1,4 @@
-Minylitha D. Bukry, 1973 GENUS
-=======
+# Minylitha D. Bukry, 1973 GENUS
 
 #### Status
 ACCEPTED

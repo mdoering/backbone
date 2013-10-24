@@ -1,5 +1,4 @@
-Muyocopron umbilicatum var. umbilicatum VARIETY
-=======
+# Muyocopron umbilicatum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 496 (1919)
 
 #### Original name
-Muyocopron umbilicatum var. umbilicatum
+Muyocopron umbilicatum Speg.
 
 ### Remarks
 null

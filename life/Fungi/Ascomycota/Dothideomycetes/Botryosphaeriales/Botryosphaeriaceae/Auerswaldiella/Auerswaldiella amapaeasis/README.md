@@ -1,5 +1,4 @@
-Auerswaldiella amapaeasis Bat. & H. Maia SPECIES
-=======
+# Auerswaldiella amapaeasis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

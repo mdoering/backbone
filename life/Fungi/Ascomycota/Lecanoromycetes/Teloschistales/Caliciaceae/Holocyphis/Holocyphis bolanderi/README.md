@@ -1,5 +1,4 @@
-Holocyphis bolanderi (Tuck.) Clem. SPECIES
-=======
+# Holocyphis bolanderi (Tuck.) Clem. SPECIES
 
 #### Status
 ACCEPTED

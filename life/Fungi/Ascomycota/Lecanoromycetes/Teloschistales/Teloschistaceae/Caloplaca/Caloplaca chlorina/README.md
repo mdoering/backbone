@@ -1,5 +1,4 @@
-Caloplaca chlorina var. chlorina VARIETY
-=======
+# Caloplaca chlorina (Flot.) Sandst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca chlorina var. chlorina
+Zeora cerina var. chlorina Flot.
 
 ### Remarks
 null

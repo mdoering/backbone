@@ -1,5 +1,4 @@
-Phyllachora tijucensis (Rehm) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora tijucensis (Rehm) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

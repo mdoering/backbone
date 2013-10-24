@@ -1,5 +1,4 @@
-Agaricus quercinus Scop. SPECIES
-=======
+# Agaricus quercinus Scop. SPECIES
 
 #### Status
 ACCEPTED

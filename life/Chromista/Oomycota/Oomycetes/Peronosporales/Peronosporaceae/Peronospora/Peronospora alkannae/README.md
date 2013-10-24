@@ -1,5 +1,4 @@
-Peronospora alkannae Vienn.-Bourg. SPECIES
-=======
+# Peronospora alkannae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

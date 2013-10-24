@@ -1,5 +1,4 @@
-Polystictus chacoensis Speg. SPECIES
-=======
+# Polystictus chacoensis Speg. SPECIES
 
 #### Status
 ACCEPTED

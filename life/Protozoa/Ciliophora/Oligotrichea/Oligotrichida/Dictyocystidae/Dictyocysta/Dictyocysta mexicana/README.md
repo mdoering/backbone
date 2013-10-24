@@ -1,5 +1,4 @@
-Dictyocysta mexicana Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta mexicana Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

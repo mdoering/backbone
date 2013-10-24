@@ -1,5 +1,4 @@
-Torrubiella ryogamimontana Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella ryogamimontana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius xestocephaloides Antonín SPECIES
-=======
+# Marasmius xestocephaloides Antonín SPECIES
 
 #### Status
 ACCEPTED

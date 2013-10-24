@@ -1,5 +1,4 @@
-Crinipellis purpurea Singer SPECIES
-=======
+# Crinipellis purpurea Singer SPECIES
 
 #### Status
 ACCEPTED

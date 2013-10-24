@@ -1,5 +1,4 @@
-Stromatostysanus curvus (Wallr.) U. Braun SPECIES
-=======
+# Stromatostysanus curvus (Wallr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

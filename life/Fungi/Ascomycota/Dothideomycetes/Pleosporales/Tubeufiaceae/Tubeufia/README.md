@@ -1,17 +1,16 @@
-Linobolus Syd. & P. Syd. GENUS
-=======
+# Tubeufia Penzig & Saccardo, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 15(3/4): 204 (1917)
+null
 
 #### Original name
-Linobolus Syd. & P. Syd.
+null
 
 ### Remarks
 null

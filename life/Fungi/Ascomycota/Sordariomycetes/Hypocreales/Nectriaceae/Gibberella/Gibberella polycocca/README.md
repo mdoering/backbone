@@ -1,5 +1,4 @@
-Gibberella polycocca (Mont.) Sacc. SPECIES
-=======
+# Gibberella polycocca (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

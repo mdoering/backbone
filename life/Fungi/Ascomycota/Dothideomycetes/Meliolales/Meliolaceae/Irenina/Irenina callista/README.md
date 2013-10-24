@@ -1,5 +1,4 @@
-Irenina callista (Rehm) Hansf. SPECIES
-=======
+# Irenina callista (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

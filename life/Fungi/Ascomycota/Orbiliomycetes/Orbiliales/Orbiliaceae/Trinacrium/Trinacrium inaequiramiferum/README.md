@@ -1,5 +1,4 @@
-Trinacrium inaequiramiferum Matsush. SPECIES
-=======
+# Trinacrium inaequiramiferum Matsush. SPECIES
 
 #### Status
 ACCEPTED

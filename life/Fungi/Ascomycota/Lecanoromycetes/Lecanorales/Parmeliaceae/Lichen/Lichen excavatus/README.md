@@ -1,5 +1,4 @@
-Lichen excavatus Thunb. SPECIES
-=======
+# Lichen excavatus Thunb. SPECIES
 
 #### Status
 ACCEPTED

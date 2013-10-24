@@ -1,5 +1,4 @@
-Nitratireductor kimnyeongensis Kang, Yang & Lee, 2009 SPECIES
-=======
+# Nitratireductor kimnyeongensis Kang, Yang & Lee, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleuroascus nicholsoni Massee & E.S. Salmon SPECIES
-=======
+# Pleuroascus nicholsonii Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. , Lond. 15: 330 (1901)
 
 #### Original name
-Pleuroascus nicholsoni Massee & E.S. Salmon
+Pleuroascus nicholsonii Massee & E.S. Salmon, 1901
 
 ### Remarks
 null

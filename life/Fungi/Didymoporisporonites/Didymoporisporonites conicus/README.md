@@ -1,5 +1,4 @@
-Didymoporisporonites conicus Kalgutkar SPECIES
-=======
+# Didymoporisporonites conicus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

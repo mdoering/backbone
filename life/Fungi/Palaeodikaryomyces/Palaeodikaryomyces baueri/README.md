@@ -1,5 +1,4 @@
-Palaeodikaryomyces baueri Dörfelt SPECIES
-=======
+# Palaeodikaryomyces baueri Dörfelt SPECIES
 
 #### Status
 ACCEPTED

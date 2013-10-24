@@ -1,5 +1,4 @@
-Heterosporium groenlandicum Allesch. SPECIES
-=======
+# Heterosporium groenlandicum Allesch. SPECIES
 
 #### Status
 ACCEPTED

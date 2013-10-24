@@ -1,14 +1,13 @@
-Endococcus sphinctrinoides var. immersae Arnold VARIETY
-=======
+# Zwackhiomyces immersae (Arnold) Grube & Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Grube & Hafellner, Nova Hedwigia 51(3-4): 318 (1990)
 
 #### Original name
 Endococcus sphinctrinoides var. immersae Arnold

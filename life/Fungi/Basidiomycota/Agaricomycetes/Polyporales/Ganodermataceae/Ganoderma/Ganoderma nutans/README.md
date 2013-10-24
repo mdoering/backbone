@@ -1,5 +1,4 @@
-Ganoderma nutans (Fr.) Pat. SPECIES
-=======
+# Ganoderma nutans (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

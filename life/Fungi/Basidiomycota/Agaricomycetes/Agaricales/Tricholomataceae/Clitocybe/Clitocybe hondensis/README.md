@@ -1,5 +1,4 @@
-Clitocybe hondensis Murrill SPECIES
-=======
+# Clitocybe hondensis Murrill SPECIES
 
 #### Status
 ACCEPTED

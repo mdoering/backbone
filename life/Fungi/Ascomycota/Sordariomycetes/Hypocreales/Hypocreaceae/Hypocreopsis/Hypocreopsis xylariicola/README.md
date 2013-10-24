@@ -1,5 +1,4 @@
-Hypocreopsis xylariicola Samuels SPECIES
-=======
+# Hypocreopsis xylariicola Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium garckeanum Henn. SPECIES
-=======
+# Aecidium garckeanum Henn. SPECIES
 
 #### Status
 ACCEPTED

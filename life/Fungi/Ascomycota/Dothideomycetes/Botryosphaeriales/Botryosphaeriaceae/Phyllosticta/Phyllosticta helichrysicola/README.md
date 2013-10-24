@@ -1,5 +1,4 @@
-Phyllosticta helichrysicola Nelen SPECIES
-=======
+# Phyllosticta helichrysicola Nelen SPECIES
 
 #### Status
 ACCEPTED

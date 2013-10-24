@@ -1,5 +1,4 @@
-Prillieuxina calotheca (Pat. & Lagarde) R.W. Ryan SPECIES
-=======
+# Prillieuxina calotheca (Pat. & Lagarde) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

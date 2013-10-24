@@ -1,5 +1,4 @@
-Anomomorpha GENUS
-=======
+# Anomomorpha GENUS
 
 #### Status
 ACCEPTED

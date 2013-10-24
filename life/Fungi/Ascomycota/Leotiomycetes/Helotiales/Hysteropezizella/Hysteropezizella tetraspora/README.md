@@ -1,5 +1,4 @@
-Hysteropezizella tetraspora (Rehm) Défago SPECIES
-=======
+# Hysteropezizella tetraspora (Rehm) Défago SPECIES
 
 #### Status
 ACCEPTED

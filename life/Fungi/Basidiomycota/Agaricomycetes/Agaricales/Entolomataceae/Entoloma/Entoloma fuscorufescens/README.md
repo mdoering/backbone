@@ -1,5 +1,4 @@
-Entoloma fuscorufescens (Speg.) E. Horak SPECIES
-=======
+# Entoloma fuscorufescens (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella pedrosensis (Bubák & Gonz. Frag.) Petr. SPECIES
-=======
+# Dothiorella pedrosensis (Bubák & Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

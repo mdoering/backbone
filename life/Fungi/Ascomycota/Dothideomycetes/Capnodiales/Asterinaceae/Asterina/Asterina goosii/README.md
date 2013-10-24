@@ -1,5 +1,4 @@
-Asterina goosii Hosag. & N.P. Balakr. SPECIES
-=======
+# Asterina goosii Hosag. & N.P. Balakr. SPECIES
 
 #### Status
 ACCEPTED

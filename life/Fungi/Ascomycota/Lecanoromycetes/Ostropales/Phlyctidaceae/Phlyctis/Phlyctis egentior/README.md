@@ -1,5 +1,4 @@
-Phlyctis egentior Nyl. SPECIES
-=======
+# Phlyctis egentior Nyl. SPECIES
 
 #### Status
 ACCEPTED

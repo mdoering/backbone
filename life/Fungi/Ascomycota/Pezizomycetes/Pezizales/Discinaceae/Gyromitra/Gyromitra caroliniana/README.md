@@ -1,5 +1,4 @@
-Gyromitra caroliniana (Bosc) Fr. SPECIES
-=======
+# Gyromitra caroliniana (Bosc) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma acanthina (Sacc. & Roum.) Berl. & Voglino SPECIES
-=======
+# Macrophoma acanthina (Sacc. & Roum.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus bipindiensis Henn. SPECIES
-=======
+# Hygrophorus bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

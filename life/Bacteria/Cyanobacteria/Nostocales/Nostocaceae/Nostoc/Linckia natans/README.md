@@ -1,5 +1,4 @@
-Linckia natans (Hedwig) Lyngbye SPECIES
-=======
+# Linckia natans (Hedwig) Lyngbye SPECIES
 
 #### Status
 DOUBTFUL

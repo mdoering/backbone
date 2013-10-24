@@ -1,5 +1,4 @@
-Diporisporites gunniae (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites gunniae (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

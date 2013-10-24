@@ -1,5 +1,4 @@
-Ochrolechia harmandii var. harmandii VARIETY
-=======
+# Ochrolechia harmandii Verseghy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ochrolechia harmandii var. harmandii
+Ochrolechia harmandii Verseghy
 
 ### Remarks
 null

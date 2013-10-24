@@ -1,5 +1,4 @@
-Septoria debauxii Roum. SPECIES
-=======
+# Septoria debauxii Roum. SPECIES
 
 #### Status
 ACCEPTED

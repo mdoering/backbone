@@ -1,5 +1,4 @@
-Ustilago duriusculae L. Guo SPECIES
-=======
+# Ustilago duriusculae L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoalteromonas ruthenica Ivanova et al., 2002 SPECIES
-=======
+# Pseudoalteromonas ruthenica Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

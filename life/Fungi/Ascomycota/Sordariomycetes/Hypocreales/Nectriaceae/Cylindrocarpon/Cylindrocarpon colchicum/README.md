@@ -1,5 +1,4 @@
-Cylindrocarpon colchicum Kizik. SPECIES
-=======
+# Cylindrocarpon colchicum Kizik. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirneola auriformis (Schwein.) Fr. SPECIES
-=======
+# Hirneola auriformis (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

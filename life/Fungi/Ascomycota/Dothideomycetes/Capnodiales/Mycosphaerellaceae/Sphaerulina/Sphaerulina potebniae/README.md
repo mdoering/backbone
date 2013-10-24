@@ -1,5 +1,4 @@
-Sphaerulina potebniae Sacc. SPECIES
-=======
+# Sphaerulina potebniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

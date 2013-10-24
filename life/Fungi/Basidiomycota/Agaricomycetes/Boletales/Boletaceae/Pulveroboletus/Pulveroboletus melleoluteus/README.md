@@ -1,5 +1,4 @@
-Pulveroboletus melleoluteus Snell, E.A. Dick & Hesler SPECIES
-=======
+# Pulveroboletus melleoluteus Snell, E.A. Dick & Hesler SPECIES
 
 #### Status
 ACCEPTED

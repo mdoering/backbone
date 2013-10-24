@@ -1,5 +1,4 @@
-Hydnum stratosum Berk. SPECIES
-=======
+# Hydnum stratosum Berk. SPECIES
 
 #### Status
 ACCEPTED

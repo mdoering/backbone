@@ -1,5 +1,4 @@
-Balantidium orchestium Watson, 1916 SPECIES
-=======
+# Balantidium orchestium Watson, 1916 SPECIES
 
 #### Status
 ACCEPTED

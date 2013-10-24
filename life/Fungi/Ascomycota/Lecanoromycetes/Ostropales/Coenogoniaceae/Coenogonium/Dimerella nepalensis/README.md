@@ -1,5 +1,4 @@
-Dimerella nepalensis G. Thor & Vezda SPECIES
-=======
+# Dimerella nepalensis G. Thor & Vezda SPECIES
 
 #### Status
 ACCEPTED

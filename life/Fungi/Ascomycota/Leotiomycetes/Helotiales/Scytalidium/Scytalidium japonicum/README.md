@@ -1,5 +1,4 @@
-Scytalidium japonicum Udagawa, K. Tominaga & Hamaoka, 1986 SPECIES
-=======
+# Scytalidium japonicum Udagawa, K. Tominaga & Hamaoka, 1986 SPECIES
 
 #### Status
 ACCEPTED

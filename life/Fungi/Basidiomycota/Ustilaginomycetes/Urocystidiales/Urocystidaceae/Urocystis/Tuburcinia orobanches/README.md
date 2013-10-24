@@ -1,5 +1,4 @@
-Tuburcinia orobanches (Mérat) Fr. SPECIES
-=======
+# Tuburcinia orobanches (Mérat) Fr. SPECIES
 
 #### Status
 ACCEPTED

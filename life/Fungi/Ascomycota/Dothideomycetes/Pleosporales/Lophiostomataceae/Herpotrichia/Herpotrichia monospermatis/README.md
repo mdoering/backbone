@@ -1,17 +1,16 @@
-Herpotrichia monospermae P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Herpotrichia monospermatis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 51(2-3): 159 (1973)
 
 #### Original name
-Herpotrichia monospermae P.G. Sathe & K.M. Mogarkar
+Herpotrichia monospermatis P.G. Sathe & K.M. Mogarkar
 
 ### Remarks
 null

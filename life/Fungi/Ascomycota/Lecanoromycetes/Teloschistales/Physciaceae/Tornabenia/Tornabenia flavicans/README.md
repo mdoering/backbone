@@ -1,5 +1,4 @@
-Tornabenia flavicans f. flavicans FORM
-=======
+# Tornabenia flavicans SPECIES
 
 #### Status
 ACCEPTED

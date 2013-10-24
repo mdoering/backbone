@@ -1,5 +1,4 @@
-Pseudosaccharomyces pastorianus Guillierm. SPECIES
-=======
+# Pseudosaccharomyces pastorianus Guillierm. SPECIES
 
 #### Status
 ACCEPTED

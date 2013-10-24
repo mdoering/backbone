@@ -1,5 +1,4 @@
-Tectella Earle GENUS
-=======
+# Tectella Earle GENUS
 
 #### Status
 ACCEPTED

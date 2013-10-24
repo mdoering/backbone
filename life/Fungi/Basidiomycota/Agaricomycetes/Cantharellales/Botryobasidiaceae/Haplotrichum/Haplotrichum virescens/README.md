@@ -1,5 +1,4 @@
-Haplotrichum virescens Schwein. SPECIES
-=======
+# Haplotrichum virescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

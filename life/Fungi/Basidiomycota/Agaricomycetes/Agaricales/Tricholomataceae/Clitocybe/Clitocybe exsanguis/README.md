@@ -1,5 +1,4 @@
-Clitocybe exsanguis Mont. SPECIES
-=======
+# Clitocybe exsanguis Mont. SPECIES
 
 #### Status
 ACCEPTED

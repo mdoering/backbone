@@ -1,5 +1,4 @@
-Sorosporonites parasiticus X. Mu SPECIES
-=======
+# Sorosporonites parasiticus X. Mu SPECIES
 
 #### Status
 ACCEPTED

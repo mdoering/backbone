@@ -1,5 +1,4 @@
-Dicaeoma karstenii Kuntze SPECIES
-=======
+# Dicaeoma karstenii Kuntze SPECIES
 
 #### Status
 ACCEPTED

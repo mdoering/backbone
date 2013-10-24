@@ -1,5 +1,4 @@
-Stereum nummularium Velen. SPECIES
-=======
+# Stereum nummularium Velen. SPECIES
 
 #### Status
 ACCEPTED

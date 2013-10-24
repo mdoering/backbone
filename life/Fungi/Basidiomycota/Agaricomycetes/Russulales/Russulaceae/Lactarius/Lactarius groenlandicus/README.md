@@ -1,5 +1,4 @@
-Lactarius groenlandicus Terk. SPECIES
-=======
+# Lactarius groenlandicus Terk. SPECIES
 
 #### Status
 ACCEPTED

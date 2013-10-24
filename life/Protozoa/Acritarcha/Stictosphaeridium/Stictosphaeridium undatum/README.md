@@ -1,5 +1,4 @@
-Stictosphaeridium undatum Piskun, 1976 SPECIES
-=======
+# Stictosphaeridium undatum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

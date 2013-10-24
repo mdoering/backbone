@@ -1,5 +1,4 @@
-Cortinarius sinapicolor Cleland, 1933 SPECIES
-=======
+# Cortinarius sinapicolor Cleland, 1933 SPECIES
 
 #### Status
 ACCEPTED

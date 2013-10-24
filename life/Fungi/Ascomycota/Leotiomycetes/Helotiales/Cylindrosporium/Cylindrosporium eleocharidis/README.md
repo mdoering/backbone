@@ -1,5 +1,4 @@
-Cylindrosporium eleocharidis Lentz SPECIES
-=======
+# Cylindrosporium eleocharidis Lentz SPECIES
 
 #### Status
 ACCEPTED

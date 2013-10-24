@@ -1,5 +1,4 @@
-Asteropsis epidendri Gonz. Frag., 1917 SPECIES
-=======
+# Asteropsis epidendri Gonz. Frag., 1917 SPECIES
 
 #### Status
 ACCEPTED

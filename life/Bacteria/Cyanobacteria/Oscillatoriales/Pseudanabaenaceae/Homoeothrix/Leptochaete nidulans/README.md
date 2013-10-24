@@ -1,5 +1,4 @@
-Leptochaete nidulans Hansgirg SPECIES
-=======
+# Leptochaete nidulans Hansgirg SPECIES
 
 #### Status
 DOUBTFUL

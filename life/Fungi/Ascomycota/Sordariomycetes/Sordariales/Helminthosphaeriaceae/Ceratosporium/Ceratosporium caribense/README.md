@@ -1,5 +1,4 @@
-Ceratosporium caribense Hol.-Jech. SPECIES
-=======
+# Ceratosporium caribense Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

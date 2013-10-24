@@ -1,5 +1,4 @@
-Intralichen baccisporus D. Hawksw. & M.S. Cole, 2002 SPECIES
-=======
+# Intralichen baccisporus D. Hawksw. & M.S. Cole, 2002 SPECIES
 
 #### Status
 ACCEPTED

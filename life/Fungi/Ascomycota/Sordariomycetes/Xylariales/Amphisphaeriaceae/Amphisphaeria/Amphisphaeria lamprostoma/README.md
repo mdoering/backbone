@@ -1,5 +1,4 @@
-Amphisphaeria lamprostoma Pass. SPECIES
-=======
+# Amphisphaeria lamprostoma Pass. SPECIES
 
 #### Status
 ACCEPTED

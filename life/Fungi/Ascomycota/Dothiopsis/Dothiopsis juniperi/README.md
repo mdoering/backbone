@@ -1,5 +1,4 @@
-Dothiopsis juniperi (Fr.) P. Karst. SPECIES
-=======
+# Dothiopsis juniperi (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

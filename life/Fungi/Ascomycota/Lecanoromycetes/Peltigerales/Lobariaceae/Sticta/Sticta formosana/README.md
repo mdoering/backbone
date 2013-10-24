@@ -1,5 +1,4 @@
-Sticta formosana Zahlbr. SPECIES
-=======
+# Sticta formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum rubrum Curzi SPECIES
-=======
+# Fusicoccum rubrum Curzi SPECIES
 
 #### Status
 ACCEPTED

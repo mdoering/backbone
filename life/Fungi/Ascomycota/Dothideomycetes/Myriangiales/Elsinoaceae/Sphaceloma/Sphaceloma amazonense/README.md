@@ -1,5 +1,4 @@
-Sphaceloma amazonense Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma amazonense Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora anatolica Petr. SPECIES
-=======
+# Rhabdospora anatolica Petr. SPECIES
 
 #### Status
 ACCEPTED

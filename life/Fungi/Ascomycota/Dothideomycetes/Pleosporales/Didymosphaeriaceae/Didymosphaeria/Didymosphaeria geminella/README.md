@@ -1,5 +1,4 @@
-Didymosphaeria geminella Lettau SPECIES
-=======
+# Didymosphaeria geminella Lettau SPECIES
 
 #### Status
 ACCEPTED

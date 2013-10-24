@@ -1,5 +1,4 @@
-Thelephora ulmicolor Berk. & Broome SPECIES
-=======
+# Thelephora ulmicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

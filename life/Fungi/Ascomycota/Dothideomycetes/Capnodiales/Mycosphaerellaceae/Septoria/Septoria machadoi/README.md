@@ -1,5 +1,4 @@
-Septoria machadoi Sacc. & P. Syd. SPECIES
-=======
+# Septoria machadoi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

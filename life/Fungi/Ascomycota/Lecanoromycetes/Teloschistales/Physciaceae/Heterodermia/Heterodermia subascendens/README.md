@@ -1,5 +1,4 @@
-Heterodermia subascendens (Asahina) Trass SPECIES
-=======
+# Heterodermia subascendens (Asahina) Trass SPECIES
 
 #### Status
 ACCEPTED

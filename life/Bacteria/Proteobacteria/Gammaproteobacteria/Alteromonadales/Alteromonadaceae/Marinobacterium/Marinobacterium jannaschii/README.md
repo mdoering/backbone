@@ -1,8 +1,7 @@
-Oceanospirillum jannaschii Bowditch et al., 1984 SPECIES
-=======
+# Marinobacterium jannaschii (Bowditch et al., 1984) Satomi et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

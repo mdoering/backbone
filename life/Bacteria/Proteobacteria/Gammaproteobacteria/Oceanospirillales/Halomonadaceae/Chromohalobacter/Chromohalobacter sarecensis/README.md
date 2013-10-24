@@ -1,5 +1,4 @@
-Chromohalobacter sarecensis Quillaguamán et al., 2004 SPECIES
-=======
+# Chromohalobacter sarecensis Quillaguamán et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

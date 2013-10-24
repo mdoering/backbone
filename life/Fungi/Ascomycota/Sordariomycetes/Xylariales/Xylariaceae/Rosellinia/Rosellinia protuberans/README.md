@@ -1,5 +1,4 @@
-Rosellinia protuberans P. Karst. SPECIES
-=======
+# Rosellinia protuberans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

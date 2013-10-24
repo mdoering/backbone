@@ -1,5 +1,4 @@
-Arcangeliella dolichocaulis Pegler SPECIES
-=======
+# Arcangeliella dolichocaulis Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora calepinae Gäum. SPECIES
-=======
+# Peronospora calepinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

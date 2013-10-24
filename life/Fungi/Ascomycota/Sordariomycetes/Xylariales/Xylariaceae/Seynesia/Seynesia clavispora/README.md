@@ -1,5 +1,4 @@
-Seynesia clavispora Rehm SPECIES
-=======
+# Seynesia clavispora Rehm SPECIES
 
 #### Status
 ACCEPTED

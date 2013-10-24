@@ -1,5 +1,4 @@
-Hyphoderma nualoloense Gilb. & Hemmes, 2004 SPECIES
-=======
+# Hyphoderma nualoloense Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

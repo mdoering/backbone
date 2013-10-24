@@ -1,5 +1,4 @@
-Phakopsora arthuriana Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora arthuriana Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis agaricina Johnston {?} SPECIES
-=======
+# Botrytis agaricina Johnston {?} SPECIES
 
 #### Status
 ACCEPTED

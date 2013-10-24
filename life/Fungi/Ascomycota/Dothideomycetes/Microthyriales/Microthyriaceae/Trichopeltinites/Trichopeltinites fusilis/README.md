@@ -1,5 +1,4 @@
-Trichopeltinites fusilis Dilcher SPECIES
-=======
+# Trichopeltinites fusilis Dilcher SPECIES
 
 #### Status
 ACCEPTED

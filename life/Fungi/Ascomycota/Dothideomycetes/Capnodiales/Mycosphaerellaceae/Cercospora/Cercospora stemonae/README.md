@@ -1,5 +1,4 @@
-Cercospora stemonae Boedijn SPECIES
-=======
+# Cercospora stemonae Boedijn SPECIES
 
 #### Status
 ACCEPTED

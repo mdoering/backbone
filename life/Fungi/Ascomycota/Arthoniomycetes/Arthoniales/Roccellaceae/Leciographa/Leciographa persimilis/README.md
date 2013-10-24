@@ -1,5 +1,4 @@
-Leciographa persimilis anon. SPECIES
-=======
+# Leciographa persimilis anon. SPECIES
 
 #### Status
 ACCEPTED

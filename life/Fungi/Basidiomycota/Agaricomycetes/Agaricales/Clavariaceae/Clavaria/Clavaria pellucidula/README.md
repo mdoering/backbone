@@ -1,5 +1,4 @@
-Clavaria pellucidula Britzelm. SPECIES
-=======
+# Clavaria pellucidula Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma teucrii Schwein. SPECIES
-=======
+# Caeoma teucrii Schwein. SPECIES
 
 #### Status
 ACCEPTED

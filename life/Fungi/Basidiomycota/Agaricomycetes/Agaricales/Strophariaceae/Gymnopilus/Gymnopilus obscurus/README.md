@@ -1,5 +1,4 @@
-Gymnopilus obscurus Hesler, 1969 SPECIES
-=======
+# Gymnopilus obscurus Hesler, 1969 SPECIES
 
 #### Status
 ACCEPTED

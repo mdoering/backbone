@@ -1,5 +1,4 @@
-Vaginulina margaritifera (Batsch, 1791) SPECIES
-=======
+# Vaginulina margaritifera (Batsch, 1791) SPECIES
 
 #### Status
 ACCEPTED

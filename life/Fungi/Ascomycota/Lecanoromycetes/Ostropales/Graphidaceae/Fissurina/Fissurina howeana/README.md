@@ -1,14 +1,13 @@
-Graphis howeana A.W. Archer SPECIES
-=======
+# Fissurina howeana (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Aust. Syst. Bot. 14(2): 259 (2001)
+Telopea 11(1): 71 (2005)
 
 #### Original name
 Graphis howeana A.W. Archer

@@ -1,5 +1,4 @@
-Lecanora elabens G. Merr. SPECIES
-=======
+# Lecanora elabens G. Merr. SPECIES
 
 #### Status
 ACCEPTED

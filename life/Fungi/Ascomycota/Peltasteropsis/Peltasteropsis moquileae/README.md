@@ -1,5 +1,4 @@
-Peltasteropsis moquileae Bat. & H. Maia SPECIES
-=======
+# Peltasteropsis moquileae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

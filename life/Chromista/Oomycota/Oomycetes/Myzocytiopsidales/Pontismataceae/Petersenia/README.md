@@ -1,5 +1,4 @@
-Petersenia Sparrow, 1934 GENUS
-=======
+# Petersenia Sparrow, 1934 GENUS
 
 #### Status
 ACCEPTED

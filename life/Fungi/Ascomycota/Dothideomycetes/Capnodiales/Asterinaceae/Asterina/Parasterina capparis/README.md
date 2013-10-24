@@ -1,8 +1,7 @@
-Parasterina capparidis (Syd., P. Syd. & E.J. Butler) Bat. & H. Maia SPECIES
-=======
+# Parasterina capparis (Syd., P. Syd. & E.J. Butler) Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

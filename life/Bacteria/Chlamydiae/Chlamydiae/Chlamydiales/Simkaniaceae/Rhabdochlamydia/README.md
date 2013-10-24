@@ -1,5 +1,4 @@
-Rhabdochlamydia GENUS
-=======
+# Rhabdochlamydia GENUS
 
 #### Status
 ACCEPTED

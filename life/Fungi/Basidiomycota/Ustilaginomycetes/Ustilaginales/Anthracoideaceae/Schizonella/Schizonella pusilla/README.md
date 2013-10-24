@@ -1,14 +1,13 @@
-Urocystis pusilla Cooke & Peck, 1872 SPECIES
-=======
+# Schizonella pusilla (Cooke & Peck) Cif., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 29: 20 (1931)
 
 #### Original name
 Urocystis pusilla Cooke & Peck, 1872

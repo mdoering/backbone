@@ -1,5 +1,4 @@
-Stigmatomyces protrudens Thaxt. SPECIES
-=======
+# Stigmatomyces protrudens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

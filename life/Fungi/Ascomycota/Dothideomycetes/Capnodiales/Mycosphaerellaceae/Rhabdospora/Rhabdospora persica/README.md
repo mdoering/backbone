@@ -1,5 +1,4 @@
-Rhabdospora persica (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora persica (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

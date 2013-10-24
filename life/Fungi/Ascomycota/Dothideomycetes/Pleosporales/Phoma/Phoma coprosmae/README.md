@@ -1,5 +1,4 @@
-Phoma coprosmae Tassi SPECIES
-=======
+# Phoma coprosmae Tassi SPECIES
 
 #### Status
 ACCEPTED

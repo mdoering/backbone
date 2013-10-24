@@ -1,5 +1,4 @@
-Pseudouvigerina Cushman, 1927 GENUS
-=======
+# Pseudouvigerina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

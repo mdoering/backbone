@@ -1,5 +1,4 @@
-Macroplodia maertensii (Westend.) Kuntze SPECIES
-=======
+# Macroplodia maertensii (Westend.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

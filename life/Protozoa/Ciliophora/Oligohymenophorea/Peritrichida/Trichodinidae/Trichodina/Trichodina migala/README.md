@@ -1,5 +1,4 @@
-Trichodina migala SPECIES
-=======
+# Trichodina migala SPECIES
 
 #### Status
 ACCEPTED

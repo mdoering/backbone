@@ -1,5 +1,4 @@
-Mucor taeniae Fairm. SPECIES
-=======
+# Mucor taeniae Fairm. SPECIES
 
 #### Status
 ACCEPTED

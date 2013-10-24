@@ -1,5 +1,4 @@
-Chromulina pascheri Hofender SPECIES
-=======
+# Chromulina pascheri Hofender SPECIES
 
 #### Status
 ACCEPTED

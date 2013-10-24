@@ -1,5 +1,4 @@
-Taeniola gyrocera (Corda) Bonord. SPECIES
-=======
+# Taeniola gyrocera (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

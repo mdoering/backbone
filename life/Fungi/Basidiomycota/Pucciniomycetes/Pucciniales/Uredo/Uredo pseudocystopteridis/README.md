@@ -1,5 +1,4 @@
-Uredo pseudocystopteridis Y.Z. Wang & S.X. Wei SPECIES
-=======
+# Uredo pseudocystopteridis Y.Z. Wang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

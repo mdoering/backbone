@@ -1,5 +1,4 @@
-Pholiota coloradensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota coloradensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

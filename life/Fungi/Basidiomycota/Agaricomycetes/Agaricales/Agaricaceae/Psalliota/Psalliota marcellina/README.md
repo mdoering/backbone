@@ -1,5 +1,4 @@
-Psalliota marcellina Rick SPECIES
-=======
+# Psalliota marcellina Rick SPECIES
 
 #### Status
 ACCEPTED

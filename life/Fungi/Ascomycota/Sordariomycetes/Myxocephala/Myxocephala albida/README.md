@@ -1,5 +1,4 @@
-Myxocephala albida G. Weber, Spaaij & Oberw., 1989 SPECIES
-=======
+# Myxocephala albida G. Weber, Spaaij & Oberw., 1989 SPECIES
 
 #### Status
 ACCEPTED

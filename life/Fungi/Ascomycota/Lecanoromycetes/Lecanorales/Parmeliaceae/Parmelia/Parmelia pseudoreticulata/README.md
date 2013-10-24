@@ -1,5 +1,4 @@
-Parmelia pseudoreticulata Tav. SPECIES
-=======
+# Parmelia pseudoreticulata Tav. SPECIES
 
 #### Status
 ACCEPTED

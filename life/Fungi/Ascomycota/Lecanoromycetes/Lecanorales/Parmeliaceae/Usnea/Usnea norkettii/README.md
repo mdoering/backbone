@@ -1,5 +1,4 @@
-Usnea norkettii G. Awasthi SPECIES
-=======
+# Usnea norkettii G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

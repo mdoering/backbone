@@ -1,5 +1,4 @@
-Cyanocatena planctonica Hindák SPECIES
-=======
+# Cyanocatena planctonica Hindák SPECIES
 
 #### Status
 ACCEPTED

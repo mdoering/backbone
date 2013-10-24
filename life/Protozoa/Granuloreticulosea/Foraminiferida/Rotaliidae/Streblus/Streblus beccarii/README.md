@@ -1,5 +1,4 @@
-Streblus beccarii SPECIES
-=======
+# Streblus beccarii SPECIES
 
 #### Status
 ACCEPTED

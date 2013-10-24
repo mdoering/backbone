@@ -1,5 +1,4 @@
-Heterococcus filiformis Pitschmann SPECIES
-=======
+# Heterococcus filiformis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathroporina foliicola Vezda SPECIES
-=======
+# Clathroporina foliicola Vezda SPECIES
 
 #### Status
 ACCEPTED

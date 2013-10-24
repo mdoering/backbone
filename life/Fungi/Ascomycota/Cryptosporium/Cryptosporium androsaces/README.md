@@ -1,5 +1,4 @@
-Cryptosporium androsaces Rostr. SPECIES
-=======
+# Cryptosporium androsaces Rostr. SPECIES
 
 #### Status
 ACCEPTED

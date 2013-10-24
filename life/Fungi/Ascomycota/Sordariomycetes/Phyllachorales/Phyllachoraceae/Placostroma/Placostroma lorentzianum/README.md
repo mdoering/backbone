@@ -1,17 +1,16 @@
-Euryachora lorentziana (Speg.) Cooke, 1885 SPECIES
-=======
+# Placostroma lorentzianum (Speg.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Annls mycol. 13(3/4): 409 (1915)
 
 #### Original name
-Dothidea lorentziana Speg., 1880
+Dothidella lorentziana (Speg.) Speg., 1881
 
 ### Remarks
 null

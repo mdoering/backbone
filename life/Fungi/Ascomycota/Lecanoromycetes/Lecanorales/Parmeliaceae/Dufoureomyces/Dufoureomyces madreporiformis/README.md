@@ -1,5 +1,4 @@
-Dufoureomyces madreporiformis Cif. & Tomas. SPECIES
-=======
+# Dufoureomyces madreporiformis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

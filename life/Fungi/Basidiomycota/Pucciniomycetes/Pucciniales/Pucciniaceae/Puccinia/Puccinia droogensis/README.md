@@ -1,5 +1,4 @@
-Puccinia droogensis E.J. Butler SPECIES
-=======
+# Puccinia droogensis E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

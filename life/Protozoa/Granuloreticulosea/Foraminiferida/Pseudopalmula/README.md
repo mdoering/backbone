@@ -1,5 +1,4 @@
-Pseudopalmula Cushman & Stainbrook, 1943 GENUS
-=======
+# Pseudopalmula Cushman & Stainbrook, 1943 GENUS
 
 #### Status
 ACCEPTED

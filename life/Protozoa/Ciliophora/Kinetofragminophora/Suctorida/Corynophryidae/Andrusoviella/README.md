@@ -1,5 +1,4 @@
-Andrusoviella Dovgal, 2005 GENUS
-=======
+# Andrusoviella Dovgal, 2005 GENUS
 
 #### Status
 ACCEPTED

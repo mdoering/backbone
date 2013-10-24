@@ -1,5 +1,4 @@
-Cryptococcus yarrowii Á. Fonseca & Uden SPECIES
-=======
+# Cryptococcus yarrowii Á. Fonseca & Uden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmotelium Syd. GENUS
-=======
+# Phragmotelium Syd. GENUS
 
 #### Status
 ACCEPTED

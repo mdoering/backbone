@@ -1,5 +1,4 @@
-Neelakesa lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
-=======
+# Neelakesa lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia subsimilis Vezda SPECIES
-=======
+# Bacidia subsimilis Vezda SPECIES
 
 #### Status
 ACCEPTED

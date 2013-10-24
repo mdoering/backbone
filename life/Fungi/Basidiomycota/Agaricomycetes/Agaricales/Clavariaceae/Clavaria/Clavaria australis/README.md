@@ -1,5 +1,4 @@
-Clavaria australis (Coker) Lloyd SPECIES
-=======
+# Clavaria australis (Coker) Lloyd SPECIES
 
 #### Status
 ACCEPTED

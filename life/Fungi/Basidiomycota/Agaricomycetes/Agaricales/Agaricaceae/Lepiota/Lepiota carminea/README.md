@@ -1,5 +1,4 @@
-Lepiota carminea Pat. & Gaillard SPECIES
-=======
+# Lepiota carminea Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

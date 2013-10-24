@@ -1,5 +1,4 @@
-Elaphomyces reticulosporus B.C. Zhang SPECIES
-=======
+# Elaphomyces reticulosporus B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

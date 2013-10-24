@@ -1,5 +1,4 @@
-Entyloma asterisci-maritimi Vánky, 1988 SPECIES
-=======
+# Entyloma asterisci-maritimi Vánky, 1988 SPECIES
 
 #### Status
 ACCEPTED

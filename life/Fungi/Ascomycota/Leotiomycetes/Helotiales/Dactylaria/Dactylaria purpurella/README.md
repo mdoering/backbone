@@ -1,14 +1,13 @@
-Acrothecium purpurellum Sacc., 1877 SPECIES
-=======
+# Dactylaria purpurella (Sacc.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 75 (1877)
+Michelia 2(no. 6): 20 (1880)
 
 #### Original name
 Acrothecium purpurellum Sacc., 1877

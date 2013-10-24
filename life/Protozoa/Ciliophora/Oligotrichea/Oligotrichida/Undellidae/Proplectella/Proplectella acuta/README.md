@@ -1,5 +1,4 @@
-Proplectella acuta Jörgensen, 1924 SPECIES
-=======
+# Proplectella acuta Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

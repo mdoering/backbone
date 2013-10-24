@@ -1,5 +1,4 @@
-Gyalecta radians Vain. SPECIES
-=======
+# Gyalecta radians Vain. SPECIES
 
 #### Status
 ACCEPTED

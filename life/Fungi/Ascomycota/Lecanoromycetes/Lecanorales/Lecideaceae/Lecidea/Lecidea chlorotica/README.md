@@ -1,5 +1,4 @@
-Lecidea chlorotica (Rostr.) Hue SPECIES
-=======
+# Lecidea chlorotica (Rostr.) Hue SPECIES
 
 #### Status
 ACCEPTED

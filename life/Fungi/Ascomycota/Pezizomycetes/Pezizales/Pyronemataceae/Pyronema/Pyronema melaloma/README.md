@@ -1,5 +1,4 @@
-Pyronema melaloma (Fr.) Fuckel SPECIES
-=======
+# Pyronema melaloma (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

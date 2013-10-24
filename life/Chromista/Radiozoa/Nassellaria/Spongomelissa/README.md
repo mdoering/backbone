@@ -1,5 +1,4 @@
-Spongomelissa Haeckel, 1887 GENUS
-=======
+# Spongomelissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

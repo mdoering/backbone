@@ -1,5 +1,4 @@
-Fusarium tunicatum Sherb. SPECIES
-=======
+# Fusarium tunicatum Sherb. SPECIES
 
 #### Status
 ACCEPTED

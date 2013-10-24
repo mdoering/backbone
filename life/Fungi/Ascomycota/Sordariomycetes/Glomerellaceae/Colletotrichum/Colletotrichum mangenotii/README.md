@@ -1,8 +1,7 @@
-Colletotrichum mangenoti Chevaug. SPECIES
-=======
+# Colletotrichum mangenotii Chevaug. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Colletotrichum mangenoti Chevaug.
+Colletotrichum mangenotii Chevaug.
 
 ### Remarks
 null

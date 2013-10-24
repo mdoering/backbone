@@ -1,5 +1,4 @@
-Hypoxylon bresadolae (Theiss.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon bresadolae (Theiss.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

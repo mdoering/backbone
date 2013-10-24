@@ -1,5 +1,4 @@
-Azotococcus GENUS
-=======
+# Azotococcus GENUS
 
 #### Status
 ACCEPTED

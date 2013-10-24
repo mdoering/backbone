@@ -1,5 +1,4 @@
-Hygrophorus caerulescens Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus caerulescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

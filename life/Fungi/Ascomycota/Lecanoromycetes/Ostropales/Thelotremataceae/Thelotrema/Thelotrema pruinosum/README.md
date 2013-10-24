@@ -1,5 +1,4 @@
-Thelotrema pruinosum Clemente SPECIES
-=======
+# Thelotrema pruinosum Clemente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium sedi Jacz. SPECIES
-=======
+# Aecidium sedi Jacz. SPECIES
 
 #### Status
 ACCEPTED

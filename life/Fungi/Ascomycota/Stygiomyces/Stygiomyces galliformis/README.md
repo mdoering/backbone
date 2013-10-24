@@ -1,5 +1,4 @@
-Stygiomyces galliformis Coppins & S.Y. Kondr., 1995 SPECIES
-=======
+# Stygiomyces galliformis Coppins & S.Y. Kondr., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma crepinianum Sacc. & Roum. SPECIES
-=======
+# Entyloma crepinianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

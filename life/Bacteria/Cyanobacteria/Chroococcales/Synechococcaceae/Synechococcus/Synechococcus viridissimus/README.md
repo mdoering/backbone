@@ -1,5 +1,4 @@
-Synechococcus viridissimus Copeland SPECIES
-=======
+# Synechococcus viridissimus Copeland SPECIES
 
 #### Status
 ACCEPTED

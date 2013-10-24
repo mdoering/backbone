@@ -1,8 +1,7 @@
-Hemiophrys lanceolata (Dragesco, 1965) Carey, 1992 SPECIES
-=======
+# Amphileptus lanceolatus Dragesco, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

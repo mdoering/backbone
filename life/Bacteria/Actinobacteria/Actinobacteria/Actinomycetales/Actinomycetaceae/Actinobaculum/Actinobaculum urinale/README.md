@@ -1,5 +1,4 @@
-Actinobaculum urinale Hall et al., 2003 SPECIES
-=======
+# Actinobaculum urinale Hall et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

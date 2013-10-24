@@ -1,5 +1,4 @@
-Gymnopus graveolens (G. Poirault ex Boud.) Antonín & Noordel. SPECIES
-=======
+# Gymnopus graveolens (G. Poirault ex Boud.) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

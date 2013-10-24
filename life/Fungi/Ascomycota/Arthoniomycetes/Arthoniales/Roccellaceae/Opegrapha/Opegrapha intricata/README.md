@@ -1,5 +1,4 @@
-Opegrapha intricata Mont. SPECIES
-=======
+# Opegrapha intricata Mont. SPECIES
 
 #### Status
 ACCEPTED

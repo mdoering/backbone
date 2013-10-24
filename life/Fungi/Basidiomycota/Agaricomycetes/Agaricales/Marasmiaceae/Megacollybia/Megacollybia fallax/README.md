@@ -1,5 +1,4 @@
-Megacollybia fallax (A.H. Sm.) R.H. Petersen & J.L. Mata SPECIES
-=======
+# Megacollybia fallax (A.H. Sm.) R.H. Petersen & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

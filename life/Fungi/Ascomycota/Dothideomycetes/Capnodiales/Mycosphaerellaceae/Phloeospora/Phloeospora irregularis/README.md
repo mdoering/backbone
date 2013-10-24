@@ -1,5 +1,4 @@
-Phloeospora irregularis (Peck) Bubák SPECIES
-=======
+# Phloeospora irregularis (Peck) Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecania dimera (Nyl.) Th. Fr. SPECIES
-=======
+# Lecania dubitans (Nyl.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 293 (1871)
+Monogr. Brit. Lich. 1: 351 (1918)
 
 #### Original name
-Lecanora dimera Nyl.
+Lecidea dubitans Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena geesterani Heykoop, Esteve-Rav. & G. Moreno SPECIES
-=======
+# Mycena geesterani Heykoop, Esteve-Rav. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

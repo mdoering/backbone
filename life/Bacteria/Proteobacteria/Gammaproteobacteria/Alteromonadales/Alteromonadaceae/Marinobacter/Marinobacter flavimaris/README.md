@@ -1,5 +1,4 @@
-Marinobacter flavimaris Yoon et al., 2004 SPECIES
-=======
+# Marinobacter flavimaris Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

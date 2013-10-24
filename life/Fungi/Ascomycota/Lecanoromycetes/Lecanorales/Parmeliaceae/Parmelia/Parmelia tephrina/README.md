@@ -1,5 +1,4 @@
-Parmelia tephrina Hue SPECIES
-=======
+# Parmelia tephrina Hue SPECIES
 
 #### Status
 ACCEPTED

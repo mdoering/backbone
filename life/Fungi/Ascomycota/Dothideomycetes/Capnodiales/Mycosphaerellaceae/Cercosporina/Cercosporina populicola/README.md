@@ -1,5 +1,4 @@
-Cercosporina populicola (Tharp) Sacc. SPECIES
-=======
+# Cercosporina populicola (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

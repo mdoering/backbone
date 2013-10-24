@@ -1,5 +1,4 @@
-Streptomyces labedae Lacey, 1987 SPECIES
-=======
+# Streptomyces labedae Lacey, 1987 SPECIES
 
 #### Status
 ACCEPTED

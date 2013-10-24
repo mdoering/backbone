@@ -1,5 +1,4 @@
-Pestalotia weinmanniae Petr. SPECIES
-=======
+# Pestalotia weinmanniae Petr. SPECIES
 
 #### Status
 ACCEPTED

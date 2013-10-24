@@ -1,5 +1,4 @@
-Coniochaeta ellipsoidea Udagawa, 1967 SPECIES
-=======
+# Coniochaeta ellipsoidea Udagawa, 1967 SPECIES
 
 #### Status
 ACCEPTED

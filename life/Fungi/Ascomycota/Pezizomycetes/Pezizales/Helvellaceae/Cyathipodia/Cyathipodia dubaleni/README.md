@@ -1,5 +1,4 @@
-Cyathipodia dubaleni Boud. SPECIES
-=======
+# Cyathipodia dubaleni Boud. SPECIES
 
 #### Status
 ACCEPTED

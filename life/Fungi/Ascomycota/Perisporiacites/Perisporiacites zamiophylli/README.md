@@ -1,5 +1,4 @@
-Perisporiacites zamiophylli Krassilov SPECIES
-=======
+# Perisporiacites zamiophylli Krassilov SPECIES
 
 #### Status
 ACCEPTED

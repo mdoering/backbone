@@ -1,5 +1,4 @@
-Gautieria retirugosa Fr. SPECIES
-=======
+# Gautieria retirugosa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocyanococcus Kufferath, 1929 GENUS
-=======
+# Heterocyanococcus Kufferath, 1929 GENUS
 
 #### Status
 ACCEPTED

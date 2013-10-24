@@ -1,5 +1,4 @@
-Zopfia rhizophila Rabenh., 1874 SPECIES
-=======
+# Zopfia rhizophila Rabenh., 1874 SPECIES
 
 #### Status
 ACCEPTED

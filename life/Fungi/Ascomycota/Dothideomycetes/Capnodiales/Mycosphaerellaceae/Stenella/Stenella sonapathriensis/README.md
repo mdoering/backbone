@@ -1,5 +1,4 @@
-Stenella sonapathriensis M.K. Khan, M.S. Khan bis & Kamal SPECIES
-=======
+# Stenella sonapathriensis M.K. Khan, M.S. Khan bis & Kamal SPECIES
 
 #### Status
 ACCEPTED

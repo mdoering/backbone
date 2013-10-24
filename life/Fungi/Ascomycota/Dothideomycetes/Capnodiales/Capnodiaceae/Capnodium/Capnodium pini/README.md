@@ -1,5 +1,4 @@
-Capnodium pini Berk. & M.A. Curtis SPECIES
-=======
+# Capnodium pini Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

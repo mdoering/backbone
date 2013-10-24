@@ -1,5 +1,4 @@
-Tricharia melanothrix Fée SPECIES
-=======
+# Tricharia melanothrix Fée SPECIES
 
 #### Status
 ACCEPTED

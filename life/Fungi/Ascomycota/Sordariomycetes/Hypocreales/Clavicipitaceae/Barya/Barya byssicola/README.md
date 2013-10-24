@@ -1,5 +1,4 @@
-Barya byssicola Thaxt. ex Rossman SPECIES
-=======
+# Barya byssicola Thaxt. ex Rossman SPECIES
 
 #### Status
 ACCEPTED

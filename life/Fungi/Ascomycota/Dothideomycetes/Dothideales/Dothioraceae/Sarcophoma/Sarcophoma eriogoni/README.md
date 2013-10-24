@@ -1,5 +1,4 @@
-Sarcophoma eriogoni (Ellis & Everh.) Arx SPECIES
-=======
+# Sarcophoma eriogoni (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

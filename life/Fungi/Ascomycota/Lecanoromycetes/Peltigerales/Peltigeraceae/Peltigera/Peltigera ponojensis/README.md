@@ -1,5 +1,4 @@
-Peltigera ponojensis Gyeln. SPECIES
-=======
+# Peltigera ponojensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

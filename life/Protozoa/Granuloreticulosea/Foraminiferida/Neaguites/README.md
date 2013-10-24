@@ -1,5 +1,4 @@
-Neaguites Andersen, 1984 GENUS
-=======
+# Neaguites Andersen, 1984 GENUS
 
 #### Status
 ACCEPTED

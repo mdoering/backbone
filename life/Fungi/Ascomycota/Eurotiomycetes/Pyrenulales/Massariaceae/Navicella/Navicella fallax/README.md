@@ -1,5 +1,4 @@
-Navicella fallax (Fabre) Kuntze SPECIES
-=======
+# Navicella fallax (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

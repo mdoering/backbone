@@ -1,5 +1,4 @@
-Cerebella anthaenantiae Tracy & Earle SPECIES
-=======
+# Cerebella anthaenantiae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium aciculare C.W. Dodge SPECIES
-=======
+# Trypethelium aciculare C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

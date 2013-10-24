@@ -1,5 +1,4 @@
-Globulina aberrans Velen. SPECIES
-=======
+# Globulina aberrans Velen. SPECIES
 
 #### Status
 ACCEPTED

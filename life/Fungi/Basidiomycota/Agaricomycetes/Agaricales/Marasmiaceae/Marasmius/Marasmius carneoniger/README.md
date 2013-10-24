@@ -1,5 +1,4 @@
-Marasmius carneoniger Corner SPECIES
-=======
+# Marasmius carneoniger Corner SPECIES
 
 #### Status
 ACCEPTED

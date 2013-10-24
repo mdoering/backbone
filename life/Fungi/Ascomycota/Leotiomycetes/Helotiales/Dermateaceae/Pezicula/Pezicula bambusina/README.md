@@ -1,5 +1,4 @@
-Pezicula bambusina Petr. SPECIES
-=======
+# Pezicula bambusina Petr. SPECIES
 
 #### Status
 ACCEPTED

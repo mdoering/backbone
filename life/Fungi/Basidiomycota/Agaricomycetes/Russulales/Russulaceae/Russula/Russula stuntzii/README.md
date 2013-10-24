@@ -1,5 +1,4 @@
-Russula stuntzii Grund SPECIES
-=======
+# Russula stuntzii Grund SPECIES
 
 #### Status
 ACCEPTED

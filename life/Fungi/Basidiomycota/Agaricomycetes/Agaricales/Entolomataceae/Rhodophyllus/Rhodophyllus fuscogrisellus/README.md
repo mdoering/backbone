@@ -1,5 +1,4 @@
-Rhodophyllus fuscogrisellus (Peck) Romagn. SPECIES
-=======
+# Rhodophyllus fuscogrisellus (Peck) Romagn. SPECIES
 
 #### Status
 ACCEPTED

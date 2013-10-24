@@ -1,5 +1,4 @@
-Bacidia arceutinoides (Nyl.) SPECIES
-=======
+# Bacidia arceutinoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

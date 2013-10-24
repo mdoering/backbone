@@ -1,5 +1,4 @@
-Helicomyces microscopicus (Ellis) Pound & Clem. SPECIES
-=======
+# Helicomyces microscopicus (Ellis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

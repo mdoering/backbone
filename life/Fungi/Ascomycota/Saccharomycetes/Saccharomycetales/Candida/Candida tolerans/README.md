@@ -1,5 +1,4 @@
-Candida tolerans Lachance, J.M. Bowles, Starmer & J.S.F. Barker, 1999 SPECIES
-=======
+# Candida tolerans Lachance, J.M. Bowles, Starmer & J.S.F. Barker, 1999 SPECIES
 
 #### Status
 ACCEPTED

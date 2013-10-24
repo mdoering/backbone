@@ -1,14 +1,13 @@
-Auerswaldia palmicola Speg., 1885 SPECIES
-=======
+# Coccostromopsis palmicola (Speg.) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19: 247 (1885)
+Mycol. Pap. 175: 67 (1999)
 
 #### Original name
 Auerswaldia palmicola Speg., 1885

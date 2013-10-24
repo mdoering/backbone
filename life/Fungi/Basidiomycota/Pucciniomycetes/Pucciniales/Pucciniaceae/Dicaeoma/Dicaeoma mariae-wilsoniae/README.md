@@ -1,14 +1,13 @@
-Dicaeoma mariae-wilsoni (Peck) Arthur & F. Kern SPECIES
-=======
+# Dicaeoma mariae-wilsoniae (Peck) Arthur & F. Kern SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(4-5): 280 (1920)
 
 #### Original name
 Aecidium mariae-wilsoniae Peck

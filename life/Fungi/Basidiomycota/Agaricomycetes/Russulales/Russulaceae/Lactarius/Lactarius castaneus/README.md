@@ -1,5 +1,4 @@
-Lactarius castaneus W.F. Chiu SPECIES
-=======
+# Lactarius castaneus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

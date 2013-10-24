@@ -1,5 +1,4 @@
-Pluteus aquosus Singer SPECIES
-=======
+# Pluteus aquosus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leotia geoglossoides Corda SPECIES
-=======
+# Leotia geoglossoides Corda SPECIES
 
 #### Status
 ACCEPTED

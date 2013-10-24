@@ -1,5 +1,4 @@
-Ciboria tropicalis Kanouse SPECIES
-=======
+# Ciboria tropicalis Kanouse SPECIES
 
 #### Status
 ACCEPTED

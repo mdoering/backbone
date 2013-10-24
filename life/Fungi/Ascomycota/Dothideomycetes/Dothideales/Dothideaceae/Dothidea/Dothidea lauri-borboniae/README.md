@@ -1,5 +1,4 @@
-Dothidea lauri-borboniae Schwein. SPECIES
-=======
+# Dothidea lauri-borboniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

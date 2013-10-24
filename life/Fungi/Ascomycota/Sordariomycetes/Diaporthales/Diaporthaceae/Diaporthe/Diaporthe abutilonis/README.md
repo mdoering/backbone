@@ -1,5 +1,4 @@
-Diaporthe abutilonis Speg. SPECIES
-=======
+# Diaporthe abutilonis Speg. SPECIES
 
 #### Status
 ACCEPTED

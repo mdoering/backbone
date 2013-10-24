@@ -1,5 +1,4 @@
-Paratrochammina bermudaensis Bender, 1989 SPECIES
-=======
+# Paratrochammina bermudaensis Bender, 1989 SPECIES
 
 #### Status
 ACCEPTED

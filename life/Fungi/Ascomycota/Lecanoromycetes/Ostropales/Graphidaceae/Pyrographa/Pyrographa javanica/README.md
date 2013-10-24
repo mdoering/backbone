@@ -1,5 +1,4 @@
-Pyrographa javanica A. Massal. SPECIES
-=======
+# Pyrographa javanica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

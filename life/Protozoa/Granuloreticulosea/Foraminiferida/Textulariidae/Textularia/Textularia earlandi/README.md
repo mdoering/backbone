@@ -1,11 +1,10 @@
-Spiroplectinella earlandi (Parker, 1952) SPECIES
-=======
+# Textularia earlandi Parker, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

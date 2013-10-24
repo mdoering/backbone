@@ -1,5 +1,4 @@
-Camarosporium hippophaës Gucevic SPECIES
-=======
+# Camarosporium hippophaës Gucevic SPECIES
 
 #### Status
 ACCEPTED

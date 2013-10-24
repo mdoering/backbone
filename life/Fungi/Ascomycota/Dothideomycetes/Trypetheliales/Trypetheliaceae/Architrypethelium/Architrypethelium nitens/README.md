@@ -1,5 +1,4 @@
-Architrypethelium nitens (Fée) Aptroot SPECIES
-=======
+# Architrypethelium nitens (Fée) Aptroot SPECIES
 
 #### Status
 ACCEPTED

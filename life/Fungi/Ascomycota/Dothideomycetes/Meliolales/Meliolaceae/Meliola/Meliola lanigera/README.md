@@ -1,5 +1,4 @@
-Meliola lanigera Speg. SPECIES
-=======
+# Meliola lanigera Speg. SPECIES
 
 #### Status
 ACCEPTED

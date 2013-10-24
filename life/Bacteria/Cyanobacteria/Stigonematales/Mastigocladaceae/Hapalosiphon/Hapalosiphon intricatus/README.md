@@ -1,5 +1,4 @@
-Hapalosiphon intricatus W. West & G.S. West SPECIES
-=======
+# Hapalosiphon intricatus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

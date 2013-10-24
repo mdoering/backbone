@@ -1,5 +1,4 @@
-Cortinarius indigoverus E. Horak SPECIES
-=======
+# Cortinarius indigoverus E. Horak SPECIES
 
 #### Status
 ACCEPTED

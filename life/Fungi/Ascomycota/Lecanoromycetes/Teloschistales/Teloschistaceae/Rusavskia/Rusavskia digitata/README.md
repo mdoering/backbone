@@ -1,5 +1,4 @@
-Rusavskia digitata (S.Y. Kondr.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia digitata (S.Y. Kondr.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

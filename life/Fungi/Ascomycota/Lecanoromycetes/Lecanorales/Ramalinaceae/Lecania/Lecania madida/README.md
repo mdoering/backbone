@@ -1,5 +1,4 @@
-Lecania madida Reese Naesb. & Vondrák SPECIES
-=======
+# Lecania madida Reese Naesb. & Vondrák SPECIES
 
 #### Status
 ACCEPTED

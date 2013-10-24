@@ -1,5 +1,4 @@
-Cortinarius vinosipes Gasparini SPECIES
-=======
+# Cortinarius vinosipes Gasparini SPECIES
 
 #### Status
 ACCEPTED

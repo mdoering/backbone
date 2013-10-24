@@ -1,5 +1,4 @@
-Phakopsora cheoana Cummins SPECIES
-=======
+# Phakopsora cheoana Cummins SPECIES
 
 #### Status
 ACCEPTED

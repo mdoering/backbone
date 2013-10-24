@@ -1,5 +1,4 @@
-Diderma confluens Rostaf. SPECIES
-=======
+# Diderma confluens Rostaf. SPECIES
 
 #### Status
 ACCEPTED

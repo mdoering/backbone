@@ -1,5 +1,4 @@
-Luciella Mason, Jeong, Litaker, Reece & Steidinger in Mason et al., 2007 GENUS
-=======
+# Luciella Mason, Jeong, Litaker, Reece & Steidinger in Mason et al., 2007 GENUS
 
 #### Status
 ACCEPTED

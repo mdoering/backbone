@@ -1,5 +1,4 @@
-Puccinia garckiana Marchal {?} & Steyaert SPECIES
-=======
+# Puccinia garckiana Marchal {?} & Steyaert SPECIES
 
 #### Status
 ACCEPTED

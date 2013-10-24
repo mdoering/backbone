@@ -1,14 +1,13 @@
-Aureobasidium salmonis (J.W. Carmich.) Borelli, 1969 SPECIES
-=======
+# Exophiala salmonis J.W. Carmich., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Medicina Cutánea, Ibera, Latino Americana 3(6): 588 (1969)
+Sabouraudia 5: 122 (1966)
 
 #### Original name
 Exophiala salmonis J.W. Carmich., 1966

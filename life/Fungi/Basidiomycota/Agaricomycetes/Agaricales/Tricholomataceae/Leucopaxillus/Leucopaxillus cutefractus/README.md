@@ -1,5 +1,4 @@
-Leucopaxillus cutefractus Noordel. SPECIES
-=======
+# Leucopaxillus cutefractus Noordel. SPECIES
 
 #### Status
 ACCEPTED

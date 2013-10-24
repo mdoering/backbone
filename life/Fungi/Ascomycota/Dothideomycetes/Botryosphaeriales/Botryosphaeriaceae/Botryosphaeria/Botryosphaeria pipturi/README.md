@@ -1,5 +1,4 @@
-Botryosphaeria pipturi D.E. Gardner & Hodges SPECIES
-=======
+# Botryosphaeria pipturi D.E. Gardner & Hodges SPECIES
 
 #### Status
 ACCEPTED

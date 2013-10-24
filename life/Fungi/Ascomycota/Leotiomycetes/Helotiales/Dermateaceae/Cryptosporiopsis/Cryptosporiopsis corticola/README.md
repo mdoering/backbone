@@ -1,5 +1,4 @@
-Cryptosporiopsis corticola (Edgerton) Nannf. SPECIES
-=======
+# Cryptosporiopsis corticola (Edgerton) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quadricrura septentrionalis Kaz. Tanaka, K. Hirayama & Sat. Hatak., 2009 SPECIES
-=======
+# Quadricrura septentrionalis Kaz. Tanaka, K. Hirayama & Sat. Hatak., 2009 SPECIES
 
 #### Status
 ACCEPTED

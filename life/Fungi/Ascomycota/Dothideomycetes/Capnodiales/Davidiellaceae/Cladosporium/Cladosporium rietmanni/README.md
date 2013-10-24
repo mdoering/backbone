@@ -1,5 +1,4 @@
-Cladosporium rietmanni Sartory & Syd. SPECIES
-=======
+# Cladosporium rietmanni Sartory & Syd. SPECIES
 
 #### Status
 ACCEPTED

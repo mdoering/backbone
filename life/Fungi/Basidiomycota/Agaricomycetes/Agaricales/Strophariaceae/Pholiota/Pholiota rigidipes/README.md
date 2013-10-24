@@ -1,5 +1,4 @@
-Pholiota rigidipes Peck SPECIES
-=======
+# Pholiota rigidipes Peck SPECIES
 
 #### Status
 ACCEPTED

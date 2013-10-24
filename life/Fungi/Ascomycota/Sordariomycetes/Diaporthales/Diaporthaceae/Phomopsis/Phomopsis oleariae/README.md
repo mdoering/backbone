@@ -1,5 +1,4 @@
-Phomopsis oleariae Grove SPECIES
-=======
+# Phomopsis oleariae Grove SPECIES
 
 #### Status
 ACCEPTED

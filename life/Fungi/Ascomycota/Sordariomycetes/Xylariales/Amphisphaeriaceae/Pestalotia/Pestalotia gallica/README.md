@@ -1,5 +1,4 @@
-Pestalotia gallica Steyaert SPECIES
-=======
+# Pestalotia gallica Steyaert SPECIES
 
 #### Status
 ACCEPTED

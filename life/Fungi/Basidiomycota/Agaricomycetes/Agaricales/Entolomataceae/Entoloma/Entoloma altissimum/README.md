@@ -1,5 +1,4 @@
-Entoloma altissimum (Massee) E. Horak SPECIES
-=======
+# Entoloma altissimum (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

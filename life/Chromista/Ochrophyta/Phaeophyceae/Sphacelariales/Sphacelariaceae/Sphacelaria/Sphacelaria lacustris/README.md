@@ -1,5 +1,4 @@
-Sphacelaria lacustris Schloesser & Blum SPECIES
-=======
+# Sphacelaria lacustris Schloesser & Blum SPECIES
 
 #### Status
 ACCEPTED

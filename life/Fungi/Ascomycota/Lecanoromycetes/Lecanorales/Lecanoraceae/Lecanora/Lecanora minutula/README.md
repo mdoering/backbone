@@ -1,5 +1,4 @@
-Lecanora minutula (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora minutula (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen aureus Lam. SPECIES
-=======
+# Lichen aureus Lam. SPECIES
 
 #### Status
 ACCEPTED

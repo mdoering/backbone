@@ -1,5 +1,4 @@
-Sporisorium penniseti-japonici (Henn.) Vánky SPECIES
-=======
+# Sporisorium penniseti-japonici (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

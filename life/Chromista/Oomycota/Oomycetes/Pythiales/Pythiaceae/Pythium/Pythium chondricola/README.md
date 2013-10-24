@@ -1,5 +1,4 @@
-Pythium chondricola De Cock, 1986 SPECIES
-=======
+# Pythium chondricola De Cock, 1986 SPECIES
 
 #### Status
 ACCEPTED

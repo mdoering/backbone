@@ -1,5 +1,4 @@
-Laboulbenia siagonae F. Picard SPECIES
-=======
+# Laboulbenia siagonae F. Picard SPECIES
 
 #### Status
 ACCEPTED

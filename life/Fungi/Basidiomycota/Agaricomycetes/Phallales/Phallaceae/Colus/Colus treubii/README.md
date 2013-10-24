@@ -1,5 +1,4 @@
-Colus treubii (G.E. Bernard) Reichert SPECIES
-=======
+# Colus treubii (G.E. Bernard) Reichert SPECIES
 
 #### Status
 ACCEPTED

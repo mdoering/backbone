@@ -1,5 +1,4 @@
-Microdiplodia sassafras (Tracy & Earle) Tassi SPECIES
-=======
+# Microdiplodia sassafras (Tracy & Earle) Tassi SPECIES
 
 #### Status
 ACCEPTED

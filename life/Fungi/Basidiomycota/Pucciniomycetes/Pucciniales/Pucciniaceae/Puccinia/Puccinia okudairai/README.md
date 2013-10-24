@@ -1,5 +1,4 @@
-Puccinia okudairai Hirats. f. & Yoshin. SPECIES
-=======
+# Puccinia okudairai Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

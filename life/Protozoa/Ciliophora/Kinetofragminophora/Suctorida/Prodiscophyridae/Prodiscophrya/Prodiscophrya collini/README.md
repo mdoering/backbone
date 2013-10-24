@@ -1,8 +1,7 @@
-Suctorella collini (Root, 1914) ? SPECIES
-=======
+# Prodiscophrya collini (Root, 1914) Kormos, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

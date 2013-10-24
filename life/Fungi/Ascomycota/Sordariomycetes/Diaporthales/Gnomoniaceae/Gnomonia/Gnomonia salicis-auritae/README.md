@@ -1,5 +1,4 @@
-Gnomonia salicis-auritae M. Monod SPECIES
-=======
+# Gnomonia salicis-auritae M. Monod SPECIES
 
 #### Status
 ACCEPTED

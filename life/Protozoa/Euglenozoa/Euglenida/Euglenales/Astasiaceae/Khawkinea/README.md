@@ -1,5 +1,4 @@
-Khawkinea Jahn & McKibben, 1937 GENUS
-=======
+# Khawkinea Jahn & McKibben, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Visbysphaera lamina Mullins, 2004 SPECIES
-=======
+# Visbysphaera lamina Mullins, 2004 SPECIES
 
 #### Status
 ACCEPTED

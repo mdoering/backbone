@@ -1,5 +1,4 @@
-Fusarium capitatum Schwein. SPECIES
-=======
+# Fusarium capitatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

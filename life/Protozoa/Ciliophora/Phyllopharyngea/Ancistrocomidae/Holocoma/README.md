@@ -1,5 +1,4 @@
-Holocoma Chatton & Lwoff, 1950 GENUS
-=======
+# Holocoma Chatton & Lwoff, 1950 GENUS
 
 #### Status
 ACCEPTED

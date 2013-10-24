@@ -1,5 +1,4 @@
-Monilia sidalceae Peck SPECIES
-=======
+# Monilia sidalceae Peck SPECIES
 
 #### Status
 ACCEPTED

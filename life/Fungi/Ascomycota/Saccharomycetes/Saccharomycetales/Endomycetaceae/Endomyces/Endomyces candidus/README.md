@@ -1,5 +1,4 @@
-Endomyces candidus Castell. SPECIES
-=======
+# Endomyces candidus Castell. SPECIES
 
 #### Status
 ACCEPTED

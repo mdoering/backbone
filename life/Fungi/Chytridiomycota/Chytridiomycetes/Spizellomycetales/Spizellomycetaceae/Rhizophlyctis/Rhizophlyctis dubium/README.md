@@ -1,5 +1,4 @@
-Rhizophlyctis dubium De Wild. SPECIES
-=======
+# Rhizophlyctis dubium De Wild. SPECIES
 
 #### Status
 ACCEPTED

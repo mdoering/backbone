@@ -1,5 +1,4 @@
-Pseudobalsamia harknessii (E. Fisch.) Szem. SPECIES
-=======
+# Pseudobalsamia harknessii (E. Fisch.) Szem. SPECIES
 
 #### Status
 ACCEPTED

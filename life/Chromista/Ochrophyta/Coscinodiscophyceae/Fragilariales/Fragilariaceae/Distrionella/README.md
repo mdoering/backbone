@@ -1,5 +1,4 @@
-Distrionella D.M.Williams, 1990 GENUS
-=======
+# Distrionella D.M.Williams, 1990 GENUS
 
 #### Status
 ACCEPTED

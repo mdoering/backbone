@@ -1,5 +1,4 @@
-Glyptoderma R. Heim & Perreau-Bertrand, 1971 GENUS
-=======
+# Glyptoderma R. Heim & Perreau-Bertrand, 1971 GENUS
 
 #### Status
 ACCEPTED

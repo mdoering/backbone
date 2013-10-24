@@ -1,5 +1,4 @@
-Gloniella indica Joshi {?} & Patw. SPECIES
-=======
+# Gloniella indica Joshi {?} & Patw. SPECIES
 
 #### Status
 ACCEPTED

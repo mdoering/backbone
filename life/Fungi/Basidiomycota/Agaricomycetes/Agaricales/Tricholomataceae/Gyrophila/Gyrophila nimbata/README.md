@@ -1,5 +1,4 @@
-Gyrophila nimbata Quél. SPECIES
-=======
+# Gyrophila nimbata Quél. SPECIES
 
 #### Status
 ACCEPTED

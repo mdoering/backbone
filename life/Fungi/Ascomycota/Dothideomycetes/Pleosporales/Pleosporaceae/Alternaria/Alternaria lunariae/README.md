@@ -1,5 +1,4 @@
-Alternaria lunariae (Oudem. & C.J.J. Hall) E.G. Simmons SPECIES
-=======
+# Alternaria lunariae (Oudem. & C.J.J. Hall) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

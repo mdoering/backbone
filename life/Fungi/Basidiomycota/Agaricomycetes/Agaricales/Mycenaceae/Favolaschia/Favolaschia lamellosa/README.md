@@ -1,5 +1,4 @@
-Favolaschia lamellosa (Pat. & Gaillard) Kuntze SPECIES
-=======
+# Favolaschia lamellosa (Pat. & Gaillard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

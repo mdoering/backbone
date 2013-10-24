@@ -1,5 +1,4 @@
-Parmelia tristis (Weber ex F.H. Wigg.) Spreng. SPECIES
-=======
+# Parmelia tristis (Weber ex F.H. Wigg.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

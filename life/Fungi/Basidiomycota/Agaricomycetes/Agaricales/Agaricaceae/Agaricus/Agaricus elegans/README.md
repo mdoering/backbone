@@ -1,5 +1,4 @@
-Agaricus elegans Scop. SPECIES
-=======
+# Agaricus elegans Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus crispatus Thw. SPECIES
-=======
+# Clathrus crispatus Thw. SPECIES
 
 #### Status
 ACCEPTED

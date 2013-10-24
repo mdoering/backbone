@@ -1,5 +1,4 @@
-Chroococcus solitarius Eichler SPECIES
-=======
+# Chroococcus solitarius Eichler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium atrocrustaceum Syd. & P. Syd. SPECIES
-=======
+# Aecidium atrocrustaceum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

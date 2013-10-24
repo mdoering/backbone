@@ -1,5 +1,4 @@
-Anthracoidea andina (Kukkonen) Vánky SPECIES
-=======
+# Anthracoidea andina (Kukkonen) Vánky SPECIES
 
 #### Status
 ACCEPTED

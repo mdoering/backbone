@@ -1,5 +1,4 @@
-Exosporium inversum (Sacc.) M.B. Ellis SPECIES
-=======
+# Exosporium inversum (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

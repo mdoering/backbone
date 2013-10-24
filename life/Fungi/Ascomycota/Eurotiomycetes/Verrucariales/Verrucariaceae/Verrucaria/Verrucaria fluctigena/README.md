@@ -1,5 +1,4 @@
-Verrucaria fluctigena Nyl. SPECIES
-=======
+# Verrucaria fluctigena Nyl. SPECIES
 
 #### Status
 ACCEPTED

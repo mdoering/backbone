@@ -1,5 +1,4 @@
-Pompholyxia Fabre-Domergue, 1886 GENUS
-=======
+# Pompholyxia Fabre-Domergue, 1886 GENUS
 
 #### Status
 ACCEPTED

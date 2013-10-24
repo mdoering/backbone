@@ -1,17 +1,16 @@
-Appendicispora jimgerdemannii Spain, Oehl & Sieverd., 2006 SPECIES
-=======
+# Ambispora jimgerdemannii (Spain, Oehl & Sieverd.) C. Walker, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Spain, Sieverding & Oehl, Mycotaxon 97: 174 (2006)
+Mycol. Res. 112(3): 298 (2008)
 
 #### Original name
-Acaulospora gerdemannii N.C. Schenck & T.H. Nicolson, 1979
+Appendicispora jimgerdemannii Spain, Oehl & Sieverd., 2006
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus supernulus Britzelm. SPECIES
-=======
+# Agaricus supernulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

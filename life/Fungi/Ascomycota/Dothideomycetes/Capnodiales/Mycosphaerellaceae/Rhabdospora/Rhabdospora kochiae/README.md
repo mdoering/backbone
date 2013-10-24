@@ -1,5 +1,4 @@
-Rhabdospora kochiae Hollós SPECIES
-=======
+# Rhabdospora kochiae Hollós SPECIES
 
 #### Status
 ACCEPTED

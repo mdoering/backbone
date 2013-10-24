@@ -1,5 +1,4 @@
-Eudarluca venezuelana Syd. SPECIES
-=======
+# Eudarluca venezuelana Syd. SPECIES
 
 #### Status
 ACCEPTED

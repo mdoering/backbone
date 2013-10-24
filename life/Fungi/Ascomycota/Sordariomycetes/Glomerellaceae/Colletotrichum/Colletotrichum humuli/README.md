@@ -1,5 +1,4 @@
-Colletotrichum humuli Dearn. SPECIES
-=======
+# Colletotrichum humuli Dearn. SPECIES
 
 #### Status
 ACCEPTED

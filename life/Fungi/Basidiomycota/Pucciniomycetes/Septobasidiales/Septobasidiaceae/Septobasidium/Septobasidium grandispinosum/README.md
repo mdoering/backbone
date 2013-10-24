@@ -1,5 +1,4 @@
-Septobasidium grandispinosum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium grandispinosum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

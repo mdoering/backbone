@@ -1,5 +1,4 @@
-Marasmius bonaerensis Speg. SPECIES
-=======
+# Marasmius bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

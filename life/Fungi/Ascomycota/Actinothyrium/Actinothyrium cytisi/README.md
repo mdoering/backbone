@@ -1,5 +1,4 @@
-Actinothyrium cytisi Fuckel SPECIES
-=======
+# Actinothyrium cytisi Fuckel SPECIES
 
 #### Status
 ACCEPTED

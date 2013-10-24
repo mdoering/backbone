@@ -1,5 +1,4 @@
-Dentalinopsis Reuss, 1860 GENUS
-=======
+# Dentalinopsis Reuss, 1860 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerda fixa SPECIES
-=======
+# Gerda fixa SPECIES
 
 #### Status
 ACCEPTED

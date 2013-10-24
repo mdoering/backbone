@@ -1,5 +1,4 @@
-Lacazea ovalis Dragesco, 1960 SPECIES
-=======
+# Lacazea ovalis Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

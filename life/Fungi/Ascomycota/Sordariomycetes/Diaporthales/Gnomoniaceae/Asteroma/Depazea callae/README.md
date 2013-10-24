@@ -1,5 +1,4 @@
-Depazea callae Lasch SPECIES
-=======
+# Depazea callae Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paecilomyces parvus A.H.S. Br. & G. Sm., 1957 SPECIES
-=======
+# Scopulariopsis parva (A.H.S. Br. & G. Sm.) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40: 58 (1957)
+Stud. Mycol. 6: 102 (1974)
 
 #### Original name
 Paecilomyces parvus A.H.S. Br. & G. Sm., 1957

@@ -1,5 +1,4 @@
-Delicatula phyllophila Velen. SPECIES
-=======
+# Delicatula phyllophila Velen. SPECIES
 
 #### Status
 ACCEPTED

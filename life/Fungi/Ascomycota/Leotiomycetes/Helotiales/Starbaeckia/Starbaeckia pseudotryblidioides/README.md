@@ -1,17 +1,16 @@
-Starbaeckia pseudotriblidioides Rehm & Starbäck SPECIES
-=======
+# Starbaeckia pseudotryblidioides Rehm & Starbäck, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 16(no. 3): 11 (1890)
 
 #### Original name
-Starbaeckia pseudotriblidioides Rehm & Starbäck
+Starbaeckia pseudotryblidioides Rehm & Starbäck, 1899
 
 ### Remarks
 null

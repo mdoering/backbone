@@ -1,17 +1,16 @@
-Lophiotrema juniperina Gucevic SPECIES
-=======
+# Lophiotrema juniperinum Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 165 (1970)
 
 #### Original name
-Lophiotrema juniperina Gucevic
+Lophiotrema juniperinum Gucevic
 
 ### Remarks
 null

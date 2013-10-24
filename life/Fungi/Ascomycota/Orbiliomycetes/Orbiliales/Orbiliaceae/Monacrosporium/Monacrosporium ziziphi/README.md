@@ -1,17 +1,16 @@
-Monacrosporium zizyphi Bacc. SPECIES
-=======
+# Monacrosporium ziziphi Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pirotta Ann. Bot. 15: 140 (1917)
 
 #### Original name
-Monacrosporium zizyphi Bacc.
+Monacrosporium ziziphi Bacc.
 
 ### Remarks
 null

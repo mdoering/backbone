@@ -1,14 +1,13 @@
-Tilletia fusca var. patagonica Hirschh., 1942 VARIETY
-=======
+# Tilletia patagonica (Hirschh.) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 89(1): 108 (2004)
 
 #### Original name
 Tilletia fusca var. patagonica Hirschh., 1942

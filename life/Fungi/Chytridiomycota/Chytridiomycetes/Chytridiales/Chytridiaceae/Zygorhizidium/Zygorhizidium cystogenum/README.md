@@ -1,5 +1,4 @@
-Zygorhizidium cystogenum Canter, 1963 SPECIES
-=======
+# Zygorhizidium cystogenum Canter, 1963 SPECIES
 
 #### Status
 ACCEPTED

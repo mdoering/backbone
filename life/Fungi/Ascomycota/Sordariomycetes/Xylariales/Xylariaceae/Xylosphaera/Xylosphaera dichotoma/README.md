@@ -1,5 +1,4 @@
-Xylosphaera dichotoma (Mont.) Dennis SPECIES
-=======
+# Xylosphaera dichotoma (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

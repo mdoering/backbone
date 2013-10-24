@@ -1,5 +1,4 @@
-Meliola castaneifoliae Mibey SPECIES
-=======
+# Meliola castaneifoliae Mibey SPECIES
 
 #### Status
 ACCEPTED

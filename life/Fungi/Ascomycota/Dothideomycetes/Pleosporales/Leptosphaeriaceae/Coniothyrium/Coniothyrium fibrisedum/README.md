@@ -1,5 +1,4 @@
-Coniothyrium fibrisedum (Cooke & Ellis) Kuntze SPECIES
-=======
+# Coniothyrium fibrisedum (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

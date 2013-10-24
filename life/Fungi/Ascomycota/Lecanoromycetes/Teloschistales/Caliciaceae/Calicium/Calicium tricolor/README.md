@@ -1,17 +1,16 @@
-Calicium curtum var. minus F. Wilson VARIETY
-=======
+# Calicium tricolor F. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 28: 366 (1891)
+Victorian Nat. 6: 64 (1889)
 
 #### Original name
-Calicium curtum var. minus F. Wilson
+Calicium tricolor F. Wilson
 
 ### Remarks
 null

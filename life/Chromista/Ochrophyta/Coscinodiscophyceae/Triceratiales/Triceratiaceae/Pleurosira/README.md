@@ -1,5 +1,4 @@
-Pleurosira (Meneghini) Trevisan di San Leon GENUS
-=======
+# Pleurosira (Meneghini) Trevisan di San Leon GENUS
 
 #### Status
 ACCEPTED

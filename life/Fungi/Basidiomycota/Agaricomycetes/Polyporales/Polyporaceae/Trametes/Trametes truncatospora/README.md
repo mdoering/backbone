@@ -1,5 +1,4 @@
-Trametes truncatospora Lloyd SPECIES
-=======
+# Trametes truncatospora Lloyd SPECIES
 
 #### Status
 ACCEPTED

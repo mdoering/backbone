@@ -1,5 +1,4 @@
-Hormiscium sacchari Bonord. SPECIES
-=======
+# Hormiscium sacchari Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya vulgaris Puytorac, 1954 SPECIES
-=======
+# Anoplophrya vulgaris Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea campbelliana Nyl. SPECIES
-=======
+# Mycoblastus campbellianus (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 3 (1926)
 
 #### Original name
 Lecidea campbelliana Nyl.

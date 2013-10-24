@@ -1,5 +1,4 @@
-Ditmaria Lühnemann, 1809 GENUS
-=======
+# Ditmaria Lühnemann, 1809 GENUS
 
 #### Status
 ACCEPTED

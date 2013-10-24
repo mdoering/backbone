@@ -1,17 +1,16 @@
-Cryptosphaeria aurantia Grev., 1823 SPECIES
-=======
+# Hypomyces ochraceus (Pers.) Tul. & C. Tul., 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) pl. 78 (1823)
+Select. fung. carpol. (Paris) 3: 38 (1865)
 
 #### Original name
-Cryptosphaeria aurantia Grev., 1823
+Sphaeria ochracea Wahlenb., 1812
 
 ### Remarks
 null

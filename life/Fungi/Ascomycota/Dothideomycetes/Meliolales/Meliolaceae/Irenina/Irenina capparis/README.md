@@ -1,17 +1,16 @@
-Irenina capparidis Hansf. & Deighton SPECIES
-=======
+# Irenina capparis Hansf. & Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 23: 3 (1948)
 
 #### Original name
-Irenina capparidis Hansf. & Deighton
+Irenina capparis Hansf. & Deighton
 
 ### Remarks
 null

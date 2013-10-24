@@ -1,5 +1,4 @@
-Graphis striata Fée SPECIES
-=======
+# Graphis striata Fée SPECIES
 
 #### Status
 ACCEPTED

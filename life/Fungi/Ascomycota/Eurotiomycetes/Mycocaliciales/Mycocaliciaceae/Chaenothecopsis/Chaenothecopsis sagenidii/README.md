@@ -1,5 +1,4 @@
-Chaenothecopsis sagenidii Tibell SPECIES
-=======
+# Chaenothecopsis sagenidii Tibell SPECIES
 
 #### Status
 ACCEPTED

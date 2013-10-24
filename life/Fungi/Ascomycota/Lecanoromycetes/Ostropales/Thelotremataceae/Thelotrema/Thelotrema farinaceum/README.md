@@ -1,14 +1,13 @@
-Leptotrema farinaceum (C. Knight) Müll. Arg. SPECIES
-=======
+# Thelotrema farinaceum C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 2(App. 1): 74 (1894)
+Trans. New Zealand Inst. 16: 49 (1883)
 
 #### Original name
 Thelotrema farinaceum C. Knight

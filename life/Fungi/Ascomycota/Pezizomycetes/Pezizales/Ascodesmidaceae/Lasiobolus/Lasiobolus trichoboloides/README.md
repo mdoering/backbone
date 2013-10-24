@@ -1,5 +1,4 @@
-Lasiobolus trichoboloides S.R. Khan & J.L. Bezerra, 1975 SPECIES
-=======
+# Lasiobolus trichoboloides S.R. Khan & J.L. Bezerra, 1975 SPECIES
 
 #### Status
 ACCEPTED

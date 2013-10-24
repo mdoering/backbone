@@ -1,17 +1,16 @@
-Genicularia Rifai & R.C. Cooke, 1966 GENUS
-=======
+# Geniculifera Rifai, 1975 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 49: 153 (1966)
+Mycotaxon 2(2): 214 (1975)
 
 #### Original name
-Genicularia Rifai & R.C. Cooke, 1966
+Geniculifera Rifai, 1975
 
 ### Remarks
 null

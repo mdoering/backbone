@@ -1,5 +1,4 @@
-Janetia bacilliformis Gamundí, Aramb. & Giaiotti SPECIES
-=======
+# Janetia bacilliformis Gamundí, Aramb. & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

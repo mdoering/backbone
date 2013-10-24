@@ -1,5 +1,4 @@
-Meliola mori (Catt.) Sacc. SPECIES
-=======
+# Meliola mori (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

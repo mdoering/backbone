@@ -1,5 +1,4 @@
-Ceratosphaeria microspora Pat. SPECIES
-=======
+# Ceratosphaeria microspora Pat. SPECIES
 
 #### Status
 ACCEPTED

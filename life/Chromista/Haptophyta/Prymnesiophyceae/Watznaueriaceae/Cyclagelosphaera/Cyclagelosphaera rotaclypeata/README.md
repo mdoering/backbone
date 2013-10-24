@@ -1,5 +1,4 @@
-Cyclagelosphaera rotaclypeata Bukry, 1969 SPECIES
-=======
+# Cyclagelosphaera rotaclypeata Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

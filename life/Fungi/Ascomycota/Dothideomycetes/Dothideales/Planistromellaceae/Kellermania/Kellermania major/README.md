@@ -1,5 +1,4 @@
-Kellermania major Dearn. & Barthol. SPECIES
-=======
+# Kellermania major Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

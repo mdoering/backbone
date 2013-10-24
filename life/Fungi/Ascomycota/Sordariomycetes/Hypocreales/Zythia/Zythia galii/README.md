@@ -1,5 +1,4 @@
-Zythia galii Oudem. SPECIES
-=======
+# Zythia galii Oudem. SPECIES
 
 #### Status
 ACCEPTED

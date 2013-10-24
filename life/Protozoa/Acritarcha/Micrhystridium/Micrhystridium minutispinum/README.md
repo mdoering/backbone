@@ -1,5 +1,4 @@
-Micrhystridium minutispinum Wall, 1965 SPECIES
-=======
+# Micrhystridium minutispinum Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

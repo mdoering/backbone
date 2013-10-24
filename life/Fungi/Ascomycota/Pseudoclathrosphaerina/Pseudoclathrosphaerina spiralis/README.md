@@ -1,5 +1,4 @@
-Pseudoclathrosphaerina spiralis J.A. Cooper, 2005 SPECIES
-=======
+# Pseudoclathrosphaerina spiralis J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

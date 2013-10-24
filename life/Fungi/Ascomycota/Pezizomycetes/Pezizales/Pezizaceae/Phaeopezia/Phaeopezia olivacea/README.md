@@ -1,5 +1,4 @@
-Phaeopezia olivacea Pat. SPECIES
-=======
+# Phaeopezia olivacea Pat. SPECIES
 
 #### Status
 ACCEPTED

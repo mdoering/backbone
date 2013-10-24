@@ -1,5 +1,4 @@
-Gymnopus dysosmus Polemis & Noordel. SPECIES
-=======
+# Gymnopus dysosmus Polemis & Noordel. SPECIES
 
 #### Status
 ACCEPTED

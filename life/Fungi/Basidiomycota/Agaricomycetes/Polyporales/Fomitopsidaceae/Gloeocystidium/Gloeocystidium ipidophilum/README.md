@@ -1,5 +1,4 @@
-Gloeocystidium ipidophilum Siemaszko SPECIES
-=======
+# Gloeocystidium ipidophilum Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leioderma applanatum D.J. Galloway & P.M. Jørg. SPECIES
-=======
+# Leioderma applanatum D.J. Galloway & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

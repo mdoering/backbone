@@ -1,5 +1,4 @@
-Hymenogaster subochraceus A.H. Sm. SPECIES
-=======
+# Hymenogaster subochraceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

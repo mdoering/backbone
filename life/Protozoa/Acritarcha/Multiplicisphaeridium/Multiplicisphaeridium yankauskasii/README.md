@@ -1,5 +1,4 @@
-Multiplicisphaeridium yankauskasii Fensome et al., 1990 SPECIES
-=======
+# Multiplicisphaeridium yankauskasii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

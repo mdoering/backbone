@@ -1,5 +1,4 @@
-Plicaria alveolata (Rodway) Rifai SPECIES
-=======
+# Plicaria alveolata (Rodway) Rifai SPECIES
 
 #### Status
 ACCEPTED

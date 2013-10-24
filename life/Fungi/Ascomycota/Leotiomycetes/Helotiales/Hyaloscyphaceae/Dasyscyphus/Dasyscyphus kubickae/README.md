@@ -1,5 +1,4 @@
-Dasyscyphus kubickae Svrcek SPECIES
-=======
+# Dasyscyphus kubickae Svrcek SPECIES
 
 #### Status
 ACCEPTED

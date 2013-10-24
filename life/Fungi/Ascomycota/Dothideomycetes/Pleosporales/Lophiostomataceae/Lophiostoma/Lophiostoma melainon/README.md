@@ -1,5 +1,4 @@
-Lophiostoma melainon Rehm SPECIES
-=======
+# Lophiostoma melainon Rehm SPECIES
 
 #### Status
 ACCEPTED

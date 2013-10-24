@@ -1,17 +1,16 @@
-Ramularia ampelophaga Pass., 1876 SPECIES
-=======
+# Elsinoë ampelina Shear, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 19(7): 677 (1929)
 
 #### Original name
-Ramularia ampelophaga Pass., 1876
+Elsinoë ampelina Shear, 1929
 
 ### Remarks
 null

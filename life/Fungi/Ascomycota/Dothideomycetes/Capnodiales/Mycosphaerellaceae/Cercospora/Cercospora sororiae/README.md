@@ -1,5 +1,4 @@
-Cercospora sororiae Tehon SPECIES
-=======
+# Cercospora sororiae Tehon SPECIES
 
 #### Status
 ACCEPTED

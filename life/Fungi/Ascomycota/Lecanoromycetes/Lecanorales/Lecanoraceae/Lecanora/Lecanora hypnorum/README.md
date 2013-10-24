@@ -1,5 +1,4 @@
-Lecanora hypnorum SPECIES
-=======
+# Lecanora hypnorum SPECIES
 
 #### Status
 ACCEPTED

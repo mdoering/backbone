@@ -1,5 +1,4 @@
-Sarcographa cinchonarum Fée SPECIES
-=======
+# Sarcographa cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED

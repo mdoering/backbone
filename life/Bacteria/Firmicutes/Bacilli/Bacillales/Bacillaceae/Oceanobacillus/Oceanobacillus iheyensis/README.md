@@ -1,5 +1,4 @@
-Oceanobacillus iheyensis Lu et al., 2002 SPECIES
-=======
+# Oceanobacillus iheyensis Lu et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

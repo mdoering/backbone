@@ -1,5 +1,4 @@
-Helminthocarponomyces Cif. & Tomas. GENUS
-=======
+# Helminthocarponomyces Cif. & Tomas. GENUS
 
 #### Status
 ACCEPTED

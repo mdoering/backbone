@@ -1,5 +1,4 @@
-Ramularia cynoglossi Lindr., 1902 SPECIES
-=======
+# Ramularia cynoglossi Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

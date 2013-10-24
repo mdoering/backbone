@@ -1,5 +1,4 @@
-Cercospora amurensis Ziling SPECIES
-=======
+# Cercospora amurensis Ziling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius missangoënsis Pat. SPECIES
-=======
+# Marasmius missangoënsis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas laticollis Kotlar SPECIES
-=======
+# Trachelomonas laticollis Kotlar SPECIES
 
 #### Status
 ACCEPTED

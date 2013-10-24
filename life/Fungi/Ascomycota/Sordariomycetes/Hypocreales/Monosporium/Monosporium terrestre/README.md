@@ -1,5 +1,4 @@
-Monosporium terrestre Sacc. SPECIES
-=======
+# Monosporium terrestre Sacc. SPECIES
 
 #### Status
 ACCEPTED

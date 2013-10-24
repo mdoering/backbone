@@ -1,5 +1,4 @@
-Dimerina minutissima (Höhn.) Theiss. SPECIES
-=======
+# Dimerina minutissima (Höhn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

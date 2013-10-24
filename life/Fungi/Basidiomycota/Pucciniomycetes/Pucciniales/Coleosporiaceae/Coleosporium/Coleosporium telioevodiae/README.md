@@ -1,17 +1,16 @@
-Coleosporium telioeuodiae L. Guo SPECIES
-=======
+# Coleosporium telioevodiae L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi and Lichens of Shennongjia. Mycological and Lichenological Expedition to Shennongjia (Beijing) 112 (1989)
 
 #### Original name
-Coleosporium telioeuodiae L. Guo
+Coleosporium euodiae Dietel
 
 ### Remarks
 null

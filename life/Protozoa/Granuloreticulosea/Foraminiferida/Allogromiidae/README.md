@@ -1,5 +1,4 @@
-Allogromiidae Rhumbler, 1904 FAMILY
-=======
+# Allogromiidae Rhumbler, 1904 FAMILY
 
 #### Status
 ACCEPTED

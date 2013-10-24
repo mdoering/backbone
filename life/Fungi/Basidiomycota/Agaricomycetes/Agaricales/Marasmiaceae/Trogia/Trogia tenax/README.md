@@ -1,5 +1,4 @@
-Trogia tenax Corner SPECIES
-=======
+# Trogia tenax Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius tauri Mahiques & Reumaux SPECIES
-=======
+# Cortinarius tauri Mahiques & Reumaux SPECIES
 
 #### Status
 ACCEPTED

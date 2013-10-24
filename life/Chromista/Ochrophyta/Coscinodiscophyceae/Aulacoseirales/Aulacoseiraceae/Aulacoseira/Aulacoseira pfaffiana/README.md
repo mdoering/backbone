@@ -1,5 +1,4 @@
-Aulacoseira pfaffiana (Reinsch) Krammer SPECIES
-=======
+# Aulacoseira pfaffiana (Reinsch) Krammer SPECIES
 
 #### Status
 ACCEPTED

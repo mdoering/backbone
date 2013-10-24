@@ -1,5 +1,4 @@
-Ochrolechia inaequata (Nyl.) Zahlbr. SPECIES
-=======
+# Ochrolechia inaequata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

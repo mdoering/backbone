@@ -1,5 +1,4 @@
-Burkholderia phytofirmans Sessitsch et al., 2005 SPECIES
-=======
+# Burkholderia phytofirmans Sessitsch et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

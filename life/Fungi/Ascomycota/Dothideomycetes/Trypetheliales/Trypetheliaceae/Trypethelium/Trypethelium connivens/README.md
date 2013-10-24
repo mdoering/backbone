@@ -1,5 +1,4 @@
-Trypethelium connivens Nyl. SPECIES
-=======
+# Trypethelium connivens Nyl. SPECIES
 
 #### Status
 ACCEPTED

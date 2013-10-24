@@ -1,5 +1,4 @@
-Peziza caligans Cooke SPECIES
-=======
+# Peziza caligans Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cometodinium G. Deflandre & Courteville, 1940 GENUS
-=======
+# Cometodinium G. Deflandre & Courteville, 1940 GENUS
 
 #### Status
 ACCEPTED

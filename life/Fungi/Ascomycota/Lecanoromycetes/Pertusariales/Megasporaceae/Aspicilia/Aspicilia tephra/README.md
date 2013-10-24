@@ -1,5 +1,4 @@
-Aspicilia tephra Hue SPECIES
-=======
+# Aspicilia tephra Hue SPECIES
 
 #### Status
 ACCEPTED

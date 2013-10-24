@@ -1,5 +1,4 @@
-Stigmatomyces tetrandus SPECIES
-=======
+# Stigmatomyces tetrandus SPECIES
 
 #### Status
 ACCEPTED

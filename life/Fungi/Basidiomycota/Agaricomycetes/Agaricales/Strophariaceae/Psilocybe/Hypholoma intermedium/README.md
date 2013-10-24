@@ -1,5 +1,4 @@
-Hypholoma intermedium Arnolds SPECIES
-=======
+# Hypholoma intermedium Arnolds SPECIES
 
 #### Status
 ACCEPTED

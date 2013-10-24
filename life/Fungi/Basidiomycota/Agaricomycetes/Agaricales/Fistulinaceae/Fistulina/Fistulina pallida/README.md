@@ -1,5 +1,4 @@
-Fistulina pallida Berk. & Ravenel, 1872 SPECIES
-=======
+# Fistulina pallida Berk. & Ravenel, 1872 SPECIES
 
 #### Status
 ACCEPTED

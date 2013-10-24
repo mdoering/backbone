@@ -1,5 +1,4 @@
-Psathyra fasciculata Velen. SPECIES
-=======
+# Psathyra fasciculata Velen. SPECIES
 
 #### Status
 ACCEPTED

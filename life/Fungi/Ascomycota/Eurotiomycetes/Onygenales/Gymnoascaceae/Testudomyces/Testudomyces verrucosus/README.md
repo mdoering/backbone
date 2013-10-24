@@ -1,5 +1,4 @@
-Testudomyces verrucosus M. Solé, Cano & Guarro, 2002 SPECIES
-=======
+# Testudomyces verrucosus M. Solé, Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

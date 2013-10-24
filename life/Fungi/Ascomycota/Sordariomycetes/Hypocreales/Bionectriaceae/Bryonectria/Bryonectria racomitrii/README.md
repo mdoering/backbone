@@ -1,14 +1,13 @@
-Nectria racomitrii Döbbeler & Hertel, 1983 SPECIES
-=======
+# Bryonectria racomitrii (Döbbeler & Hertel) Döbbeler, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 42 (1983)
+Nova Hedwigia 66(3-4): 335 (1998)
 
 #### Original name
 Nectria racomitrii Döbbeler & Hertel, 1983

@@ -1,5 +1,4 @@
-Coniothyrium leucospermi Crous & Denman SPECIES
-=======
+# Coniothyrium leucospermi Crous & Denman SPECIES
 
 #### Status
 ACCEPTED

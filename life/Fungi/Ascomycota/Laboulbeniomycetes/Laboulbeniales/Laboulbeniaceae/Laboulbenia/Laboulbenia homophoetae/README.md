@@ -1,5 +1,4 @@
-Laboulbenia homophoetae Speg. SPECIES
-=======
+# Laboulbenia homophoetae Speg. SPECIES
 
 #### Status
 ACCEPTED

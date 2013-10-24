@@ -1,5 +1,4 @@
-Cercospora fraxinicola Ershad SPECIES
-=======
+# Cercospora fraxinicola Ershad SPECIES
 
 #### Status
 ACCEPTED

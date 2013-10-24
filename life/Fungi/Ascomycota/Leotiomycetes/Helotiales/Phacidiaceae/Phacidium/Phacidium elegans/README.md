@@ -1,5 +1,4 @@
-Phacidium elegans Berk. & M.A. Curtis SPECIES
-=======
+# Phacidium elegans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

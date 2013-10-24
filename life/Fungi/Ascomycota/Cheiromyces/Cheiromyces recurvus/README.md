@@ -1,5 +1,4 @@
-Cheiromyces recurvus V. Rao & de Hoog SPECIES
-=======
+# Cheiromyces recurvus V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella tiliae (F. Rudolphi) Butin & Kehr SPECIES
-=======
+# Asteromella tiliae (F. Rudolphi) Butin & Kehr SPECIES
 
 #### Status
 ACCEPTED

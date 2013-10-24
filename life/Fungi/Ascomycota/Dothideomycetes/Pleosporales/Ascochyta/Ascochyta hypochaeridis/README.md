@@ -1,17 +1,16 @@
-Ascochyta hypochoeridis Oudem. SPECIES
-=======
+# Ascochyta hypochaeridis Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ned. kruidk. Archf 2: 260 (1900)
 
 #### Original name
-Ascochyta hypochoeridis Oudem.
+Ascochyta hypochaeridis Oudem.
 
 ### Remarks
 null

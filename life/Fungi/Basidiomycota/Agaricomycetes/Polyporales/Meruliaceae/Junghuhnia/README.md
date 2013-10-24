@@ -1,17 +1,16 @@
-Laschia Junghuhn, 1838 GENUS
-=======
+# Junghuhnia Corda, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. Batav. Genootsch. Kunst. Wet. 17(2): 74 (1838)
+Anleit. Stud. Mykol. , Prag 195 (1842)
 
 #### Original name
-Laschia Junghuhn, 1838
+Junghuhnia Corda, 1842
 
 ### Remarks
 null

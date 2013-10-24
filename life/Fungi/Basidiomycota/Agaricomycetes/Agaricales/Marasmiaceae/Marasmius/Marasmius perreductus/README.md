@@ -1,5 +1,4 @@
-Marasmius perreductus Singer SPECIES
-=======
+# Marasmius perreductus Singer SPECIES
 
 #### Status
 ACCEPTED

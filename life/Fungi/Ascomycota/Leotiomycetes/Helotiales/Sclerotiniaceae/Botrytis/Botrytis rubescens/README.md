@@ -1,5 +1,4 @@
-Botrytis rubescens Manka & Gierczak SPECIES
-=======
+# Botrytis rubescens Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

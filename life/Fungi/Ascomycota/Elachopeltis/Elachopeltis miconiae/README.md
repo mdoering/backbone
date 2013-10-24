@@ -1,5 +1,4 @@
-Elachopeltis miconiae (M.L. Farr) M.L. Farr SPECIES
-=======
+# Elachopeltis miconiae (M.L. Farr) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

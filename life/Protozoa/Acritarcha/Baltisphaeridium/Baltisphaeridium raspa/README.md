@@ -1,5 +1,4 @@
-Baltisphaeridium raspa F. H. Cramer SPECIES
-=======
+# Baltisphaeridium raspa F. H. Cramer SPECIES
 
 #### Status
 ACCEPTED

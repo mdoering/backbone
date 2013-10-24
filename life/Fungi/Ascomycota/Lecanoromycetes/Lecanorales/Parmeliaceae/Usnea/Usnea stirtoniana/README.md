@@ -1,5 +1,4 @@
-Usnea stirtoniana Zahlbr. SPECIES
-=======
+# Usnea stirtoniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

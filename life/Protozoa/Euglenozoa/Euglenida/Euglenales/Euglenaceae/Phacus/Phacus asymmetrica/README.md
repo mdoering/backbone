@@ -1,5 +1,4 @@
-Phacus asymmetrica Prescott SPECIES
-=======
+# Phacus asymmetrica Prescott SPECIES
 
 #### Status
 ACCEPTED

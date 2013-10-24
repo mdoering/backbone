@@ -1,5 +1,4 @@
-Sphenolithus conspicuus Martini, 1976 SPECIES
-=======
+# Sphenolithus conspicuus Martini, 1976 SPECIES
 
 #### Status
 ACCEPTED

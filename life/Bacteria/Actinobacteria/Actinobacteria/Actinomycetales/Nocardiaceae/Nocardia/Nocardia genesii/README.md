@@ -1,5 +1,4 @@
-Nocardia genesii H.P. Fröes SPECIES
-=======
+# Nocardia genesii H.P. Fröes SPECIES
 
 #### Status
 ACCEPTED

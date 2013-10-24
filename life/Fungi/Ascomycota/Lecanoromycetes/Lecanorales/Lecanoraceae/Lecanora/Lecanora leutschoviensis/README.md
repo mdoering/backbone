@@ -1,5 +1,4 @@
-Lecanora leutschoviensis SPECIES
-=======
+# Lecanora leutschoviensis SPECIES
 
 #### Status
 ACCEPTED

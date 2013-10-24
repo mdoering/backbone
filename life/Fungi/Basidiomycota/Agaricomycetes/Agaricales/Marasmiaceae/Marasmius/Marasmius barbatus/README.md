@@ -1,5 +1,4 @@
-Marasmius barbatus Velen. SPECIES
-=======
+# Marasmius barbatus Velen. SPECIES
 
 #### Status
 ACCEPTED

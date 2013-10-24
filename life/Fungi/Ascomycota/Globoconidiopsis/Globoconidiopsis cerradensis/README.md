@@ -1,5 +1,4 @@
-Globoconidiopsis cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
-=======
+# Globoconidiopsis cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
 
 #### Status
 ACCEPTED

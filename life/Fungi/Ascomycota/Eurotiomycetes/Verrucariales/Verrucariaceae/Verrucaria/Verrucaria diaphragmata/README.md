@@ -1,5 +1,4 @@
-Verrucaria diaphragmata Zschacke SPECIES
-=======
+# Verrucaria diaphragmata Zschacke SPECIES
 
 #### Status
 ACCEPTED

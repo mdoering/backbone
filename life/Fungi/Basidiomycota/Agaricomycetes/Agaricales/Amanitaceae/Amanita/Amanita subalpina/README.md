@@ -1,5 +1,4 @@
-Amanita subalpina M.M. Moser SPECIES
-=======
+# Amanita subalpina M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

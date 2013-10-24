@@ -1,5 +1,4 @@
-Depazea rhynchosiae Thüm. SPECIES
-=======
+# Depazea rhynchosiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aecidiorum Petr. SPECIES
-=======
+# Phyllosticta aecidiorum Petr. SPECIES
 
 #### Status
 ACCEPTED

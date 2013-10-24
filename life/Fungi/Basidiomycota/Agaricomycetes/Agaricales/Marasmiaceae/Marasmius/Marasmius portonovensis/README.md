@@ -1,5 +1,4 @@
-Marasmius portonovensis Singer SPECIES
-=======
+# Marasmius portonovensis Singer SPECIES
 
 #### Status
 ACCEPTED

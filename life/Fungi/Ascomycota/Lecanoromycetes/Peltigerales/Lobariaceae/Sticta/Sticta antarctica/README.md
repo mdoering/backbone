@@ -1,5 +1,4 @@
-Sticta antarctica (Räsänen) Zahlbr. SPECIES
-=======
+# Sticta antarctica (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

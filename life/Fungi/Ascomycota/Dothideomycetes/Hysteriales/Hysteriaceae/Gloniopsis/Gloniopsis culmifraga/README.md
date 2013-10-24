@@ -1,5 +1,4 @@
-Gloniopsis culmifraga (Speg.) Sacc. SPECIES
-=======
+# Gloniopsis culmifraga (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

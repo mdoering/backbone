@@ -1,14 +1,13 @@
-Stegia quercea Fautrey & Lambotte, 1896 SPECIES
-=======
+# Hysterostegiella quercea (Fautrey & Lambotte) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 18: 144 (1896)
+Nova Hedwigia 38: 692 (1983)
 
 #### Original name
 Stegia quercea Fautrey & Lambotte, 1896

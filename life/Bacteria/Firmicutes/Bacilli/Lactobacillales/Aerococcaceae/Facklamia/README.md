@@ -1,5 +1,4 @@
-Facklamia Collins, Falsen, Lemozy, Akervall, Sjoden & Lawson, 1997 GENUS
-=======
+# Facklamia Collins, Falsen, Lemozy, Akervall, Sjoden & Lawson, 1997 GENUS
 
 #### Status
 ACCEPTED

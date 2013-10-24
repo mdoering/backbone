@@ -1,5 +1,4 @@
-Strigula novae-zelandiae (Nag Raj) Sérus. SPECIES
-=======
+# Strigula novae-zelandiae (Nag Raj) Sérus. SPECIES
 
 #### Status
 ACCEPTED

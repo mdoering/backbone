@@ -1,5 +1,4 @@
-Lecanora dancoënsis Vain. SPECIES
-=======
+# Lecanora dancoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

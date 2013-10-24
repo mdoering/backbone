@@ -1,5 +1,4 @@
-Cortinarius argillopallidus Jul. Schäff. SPECIES
-=======
+# Cortinarius argillopallidus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

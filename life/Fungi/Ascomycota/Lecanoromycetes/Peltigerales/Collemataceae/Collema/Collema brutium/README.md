@@ -1,5 +1,4 @@
-Collema brutium (Jatta) Jatta SPECIES
-=======
+# Collema brutium (Jatta) Jatta SPECIES
 
 #### Status
 ACCEPTED

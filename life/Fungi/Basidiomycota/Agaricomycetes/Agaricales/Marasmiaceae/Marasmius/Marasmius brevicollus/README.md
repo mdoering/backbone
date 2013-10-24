@@ -1,5 +1,4 @@
-Marasmius brevicollus Corner SPECIES
-=======
+# Marasmius brevicollus Corner SPECIES
 
 #### Status
 ACCEPTED

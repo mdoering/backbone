@@ -1,5 +1,4 @@
-Dendrophoma sabalicola Gucevic SPECIES
-=======
+# Dendrophoma sabalicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

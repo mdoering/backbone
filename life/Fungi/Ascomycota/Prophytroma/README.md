@@ -1,5 +1,4 @@
-Prophytroma Sorokin GENUS
-=======
+# Prophytroma Sorokin GENUS
 
 #### Status
 ACCEPTED

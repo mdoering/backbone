@@ -1,5 +1,4 @@
-Lichen quercifolius Wulfen SPECIES
-=======
+# Lichen quercifolius Wulfen SPECIES
 
 #### Status
 ACCEPTED

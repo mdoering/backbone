@@ -1,5 +1,4 @@
-Micropeltidium byrsonimicola (Bat.) Bat. SPECIES
-=======
+# Micropeltidium byrsonimicola (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

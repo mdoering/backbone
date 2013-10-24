@@ -1,5 +1,4 @@
-Ramularia filarszkyana Moesz SPECIES
-=======
+# Ramularia filarszkyana Moesz SPECIES
 
 #### Status
 ACCEPTED

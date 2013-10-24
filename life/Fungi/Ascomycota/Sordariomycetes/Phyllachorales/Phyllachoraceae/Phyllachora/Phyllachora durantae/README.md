@@ -1,5 +1,4 @@
-Phyllachora durantae Rehm, 1892 SPECIES
-=======
+# Phyllachora durantae Rehm, 1892 SPECIES
 
 #### Status
 ACCEPTED

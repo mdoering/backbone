@@ -1,8 +1,7 @@
-Microsphaera benzoinis F.L. Tai SPECIES
-=======
+# Microsphaera benzoin F.L. Tai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsphaera benzoinis F.L. Tai
+Microsphaera benzoin F.L. Tai
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acupeina Bronnimann & Zaninetti, 1984 GENUS
-=======
+# Acupeina Bronnimann & Zaninetti, 1984 GENUS
 
 #### Status
 ACCEPTED

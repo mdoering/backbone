@@ -1,5 +1,4 @@
-Shewanella MacDonell & Colwell, 1986 GENUS
-=======
+# Shewanella MacDonell & Colwell, 1986 GENUS
 
 #### Status
 ACCEPTED

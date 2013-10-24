@@ -1,5 +1,4 @@
-Uredo cyperi-tagetiformis Henn. SPECIES
-=======
+# Uredo cyperi-tagetiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

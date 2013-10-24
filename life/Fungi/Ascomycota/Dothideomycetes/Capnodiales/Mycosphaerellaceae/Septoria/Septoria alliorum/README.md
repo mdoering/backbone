@@ -1,5 +1,4 @@
-Septoria alliorum Westend. SPECIES
-=======
+# Septoria alliorum Westend. SPECIES
 
 #### Status
 ACCEPTED

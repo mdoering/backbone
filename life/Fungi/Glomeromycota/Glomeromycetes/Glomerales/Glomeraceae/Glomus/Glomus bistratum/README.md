@@ -1,5 +1,4 @@
-Glomus bistratum Blaszk., D. Redecker, Koegel, Symanczik, Oehl & Kovács SPECIES
-=======
+# Glomus bistratum Blaszk., D. Redecker, Koegel, Symanczik, Oehl & Kovács SPECIES
 
 #### Status
 ACCEPTED

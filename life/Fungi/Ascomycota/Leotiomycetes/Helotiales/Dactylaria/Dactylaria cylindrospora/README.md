@@ -1,5 +1,4 @@
-Dactylaria cylindrospora (Matsush.) R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria cylindrospora (Matsush.) R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

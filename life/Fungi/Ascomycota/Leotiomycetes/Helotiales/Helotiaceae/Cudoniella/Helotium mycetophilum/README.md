@@ -1,5 +1,4 @@
-Helotium mycetophilum Peck SPECIES
-=======
+# Helotium mycetophilum Peck SPECIES
 
 #### Status
 ACCEPTED

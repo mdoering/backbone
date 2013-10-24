@@ -1,11 +1,10 @@
-Melosira subtilis van Goor, 1924 SPECIES
-=======
+# Stephanodiscus subtilis (Goor) A.Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

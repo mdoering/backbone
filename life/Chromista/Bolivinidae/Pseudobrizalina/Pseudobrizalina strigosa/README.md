@@ -1,8 +1,7 @@
-Bolivina lobata var. strigosa Brady, 1884 VARIETY
-=======
+# Pseudobrizalina strigosa (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

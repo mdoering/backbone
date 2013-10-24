@@ -1,5 +1,4 @@
-Acremonium macrocurvum Matsush., 1989 SPECIES
-=======
+# Acremonium macrocurvum Matsush., 1989 SPECIES
 
 #### Status
 ACCEPTED

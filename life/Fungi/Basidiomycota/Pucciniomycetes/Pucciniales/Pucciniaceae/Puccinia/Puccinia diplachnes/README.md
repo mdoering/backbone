@@ -1,5 +1,4 @@
-Puccinia diplachnes Arthur SPECIES
-=======
+# Puccinia diplachnes Arthur SPECIES
 
 #### Status
 ACCEPTED

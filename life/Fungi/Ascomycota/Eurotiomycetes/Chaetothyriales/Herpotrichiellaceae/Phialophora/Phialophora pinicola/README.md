@@ -1,5 +1,4 @@
-Phialophora pinicola Morgan-Jones SPECIES
-=======
+# Phialophora pinicola Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

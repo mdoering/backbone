@@ -1,5 +1,4 @@
-Sporidesmium eucalypticola N.D. Sharma SPECIES
-=======
+# Sporidesmium eucalypticola N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

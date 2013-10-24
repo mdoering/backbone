@@ -1,5 +1,4 @@
-Linocarpon falciformisporum K.D. Hyde SPECIES
-=======
+# Linocarpon falciformisporum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

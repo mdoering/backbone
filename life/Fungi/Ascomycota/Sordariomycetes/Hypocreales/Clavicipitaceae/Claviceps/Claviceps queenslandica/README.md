@@ -1,5 +1,4 @@
-Claviceps queenslandica Langdon SPECIES
-=======
+# Claviceps queenslandica Langdon SPECIES
 
 #### Status
 ACCEPTED

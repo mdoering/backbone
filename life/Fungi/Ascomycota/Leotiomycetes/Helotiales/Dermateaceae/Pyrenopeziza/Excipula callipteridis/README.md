@@ -1,5 +1,4 @@
-Excipula callipteridis Schimp. SPECIES
-=======
+# Excipula callipteridis Schimp. SPECIES
 
 #### Status
 ACCEPTED

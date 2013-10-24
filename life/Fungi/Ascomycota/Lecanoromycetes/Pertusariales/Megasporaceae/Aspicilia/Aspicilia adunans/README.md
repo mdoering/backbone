@@ -1,5 +1,4 @@
-Aspicilia adunans (Nyl.) SPECIES
-=======
+# Aspicilia adunans (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

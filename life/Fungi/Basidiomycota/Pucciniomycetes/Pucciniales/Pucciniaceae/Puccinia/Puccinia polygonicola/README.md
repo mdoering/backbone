@@ -1,5 +1,4 @@
-Puccinia polygonicola F.L. Tai, 1947 SPECIES
-=======
+# Puccinia polygonicola F.L. Tai, 1947 SPECIES
 
 #### Status
 ACCEPTED

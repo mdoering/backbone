@@ -1,5 +1,4 @@
-Puccinia rhaetica E. Fisch. SPECIES
-=======
+# Puccinia rhaetica E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

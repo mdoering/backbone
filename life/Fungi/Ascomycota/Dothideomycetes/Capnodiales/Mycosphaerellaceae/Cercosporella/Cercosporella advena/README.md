@@ -1,5 +1,4 @@
-Cercosporella advena Syd. SPECIES
-=======
+# Cercosporella advena Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria albomarginata (Hue) SPECIES
-=======
+# Lepraria albomarginata (Hue) SPECIES
 
 #### Status
 ACCEPTED

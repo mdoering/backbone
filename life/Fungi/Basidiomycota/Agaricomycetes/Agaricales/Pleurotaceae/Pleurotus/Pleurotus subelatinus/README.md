@@ -1,5 +1,4 @@
-Pleurotus subelatinus Murrill SPECIES
-=======
+# Pleurotus subelatinus Murrill SPECIES
 
 #### Status
 ACCEPTED

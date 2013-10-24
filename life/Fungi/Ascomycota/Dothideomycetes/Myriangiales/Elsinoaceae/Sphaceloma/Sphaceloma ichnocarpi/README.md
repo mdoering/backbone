@@ -1,5 +1,4 @@
-Sphaceloma ichnocarpi Thirum. & Naras., 1970 SPECIES
-=======
+# Sphaceloma ichnocarpi Thirum. & Naras., 1970 SPECIES
 
 #### Status
 ACCEPTED

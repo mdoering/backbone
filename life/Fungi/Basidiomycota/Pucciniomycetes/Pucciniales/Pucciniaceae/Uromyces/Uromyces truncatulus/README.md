@@ -1,5 +1,4 @@
-Uromyces truncatulus Trotter SPECIES
-=======
+# Uromyces truncatulus Trotter SPECIES
 
 #### Status
 ACCEPTED

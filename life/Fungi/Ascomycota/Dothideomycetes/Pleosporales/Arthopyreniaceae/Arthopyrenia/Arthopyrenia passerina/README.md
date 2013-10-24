@@ -1,5 +1,4 @@
-Arthopyrenia passerina Norman SPECIES
-=======
+# Arthopyrenia passerina Norman SPECIES
 
 #### Status
 ACCEPTED

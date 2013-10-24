@@ -1,5 +1,4 @@
-Psathyrella subalpina A.H. Sm. SPECIES
-=======
+# Psathyrella subalpina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

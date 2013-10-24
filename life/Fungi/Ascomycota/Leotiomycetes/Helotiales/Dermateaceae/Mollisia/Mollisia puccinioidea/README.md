@@ -1,5 +1,4 @@
-Mollisia puccinioidea (De Not.) Sacc. SPECIES
-=======
+# Mollisia puccinioidea (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

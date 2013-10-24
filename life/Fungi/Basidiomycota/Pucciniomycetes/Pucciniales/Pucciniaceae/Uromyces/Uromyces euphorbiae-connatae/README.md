@@ -1,5 +1,4 @@
-Uromyces euphorbiae-connatae Speschnew SPECIES
-=======
+# Uromyces euphorbiae-connatae Speschnew SPECIES
 
 #### Status
 ACCEPTED

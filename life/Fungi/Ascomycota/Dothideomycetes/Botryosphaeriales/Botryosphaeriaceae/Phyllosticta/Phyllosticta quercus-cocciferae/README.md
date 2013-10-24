@@ -1,5 +1,4 @@
-Phyllosticta quercus-cocciferae Bubák SPECIES
-=======
+# Phyllosticta quercus-cocciferae Bubák SPECIES
 
 #### Status
 ACCEPTED

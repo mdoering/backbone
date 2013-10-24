@@ -1,5 +1,4 @@
-Passalora weigelicola (H.D. Shin & U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora weigelicola (H.D. Shin & U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

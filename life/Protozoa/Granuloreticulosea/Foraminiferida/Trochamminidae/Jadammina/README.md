@@ -1,5 +1,4 @@
-Jadammina Bartenstein & Brand, 1938 GENUS
-=======
+# Jadammina Bartenstein & Brand, 1938 GENUS
 
 #### Status
 ACCEPTED

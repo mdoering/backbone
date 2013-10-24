@@ -1,5 +1,4 @@
-Sphaerellothecium phaeorrhizae Diederich & Zhurb., 2009 SPECIES
-=======
+# Sphaerellothecium phaeorrhizae Diederich & Zhurb., 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria laxitunicata Tomilin SPECIES
-=======
+# Phaeosphaeria laxitunicata Tomilin SPECIES
 
 #### Status
 ACCEPTED

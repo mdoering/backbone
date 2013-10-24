@@ -1,5 +1,4 @@
-Xylaria grandis Peck SPECIES
-=======
+# Xylaria grandis Peck SPECIES
 
 #### Status
 ACCEPTED

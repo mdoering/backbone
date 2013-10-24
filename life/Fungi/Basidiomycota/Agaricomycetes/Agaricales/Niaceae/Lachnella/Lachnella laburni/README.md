@@ -1,5 +1,4 @@
-Lachnella laburni W. Phillips SPECIES
-=======
+# Lachnella laburni W. Phillips SPECIES
 
 #### Status
 ACCEPTED

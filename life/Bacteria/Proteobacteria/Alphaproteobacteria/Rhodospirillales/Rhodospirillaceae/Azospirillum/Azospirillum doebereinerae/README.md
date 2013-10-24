@@ -1,5 +1,4 @@
-Azospirillum doebereinerae Eckert et al., 2001 SPECIES
-=======
+# Azospirillum doebereinerae Eckert et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

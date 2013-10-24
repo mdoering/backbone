@@ -1,5 +1,4 @@
-Candida stellimalicola M. Suzuki, Nakase & Komag., 1994 SPECIES
-=======
+# Candida stellimalicola M. Suzuki, Nakase & Komag., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium bombycinum SPECIES
-=======
+# Corticium bombycinum SPECIES
 
 #### Status
 ACCEPTED

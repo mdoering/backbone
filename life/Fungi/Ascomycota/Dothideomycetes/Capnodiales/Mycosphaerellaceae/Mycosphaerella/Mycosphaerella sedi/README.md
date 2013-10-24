@@ -1,5 +1,4 @@
-Mycosphaerella sedi Naumov SPECIES
-=======
+# Mycosphaerella sedi Naumov SPECIES
 
 #### Status
 ACCEPTED

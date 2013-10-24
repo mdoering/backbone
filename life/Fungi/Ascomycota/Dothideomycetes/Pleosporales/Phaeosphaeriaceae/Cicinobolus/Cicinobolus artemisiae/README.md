@@ -1,8 +1,7 @@
-Cicinnobolus artemisiae Voglino SPECIES
-=======
+# Cicinobolus artemisiae Voglino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus artemisiae Voglino
+Cicinobolus artemisiae Voglino
 
 ### Remarks
 null

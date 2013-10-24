@@ -1,5 +1,4 @@
-Chaetosphaeria stratosa Réblová SPECIES
-=======
+# Chaetosphaeria stratosa Réblová SPECIES
 
 #### Status
 ACCEPTED

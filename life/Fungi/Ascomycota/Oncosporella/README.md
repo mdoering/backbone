@@ -1,5 +1,4 @@
-Oncosporella P. Karst. GENUS
-=======
+# Oncosporella P. Karst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria subcorticalis P. Karst. SPECIES
-=======
+# Aposphaeria subcorticalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

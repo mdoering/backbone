@@ -1,5 +1,4 @@
-Lichen candelabrum Bory SPECIES
-=======
+# Lichen candelabrum Bory SPECIES
 
 #### Status
 ACCEPTED

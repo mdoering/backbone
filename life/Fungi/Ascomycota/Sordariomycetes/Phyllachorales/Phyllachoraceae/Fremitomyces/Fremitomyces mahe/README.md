@@ -1,5 +1,4 @@
-Fremitomyces mahe P.F. Cannon & H.C. Evans, 1999 SPECIES
-=======
+# Fremitomyces mahe P.F. Cannon & H.C. Evans, 1999 SPECIES
 
 #### Status
 ACCEPTED

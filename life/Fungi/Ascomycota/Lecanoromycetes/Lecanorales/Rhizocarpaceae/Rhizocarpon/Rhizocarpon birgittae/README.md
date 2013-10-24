@@ -1,5 +1,4 @@
-Rhizocarpon birgittae H. Magn. SPECIES
-=======
+# Rhizocarpon birgittae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

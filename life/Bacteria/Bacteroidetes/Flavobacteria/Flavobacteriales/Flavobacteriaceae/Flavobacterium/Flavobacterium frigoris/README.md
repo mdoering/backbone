@@ -1,5 +1,4 @@
-Flavobacterium frigoris Van Trappen et al., 2004 SPECIES
-=======
+# Flavobacterium frigoris Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

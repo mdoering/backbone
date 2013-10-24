@@ -1,14 +1,13 @@
-Naetrocymbe fuscoviridescens (Rehm) Bat. & Cif., 1963 SPECIES
-=======
+# Pleomerium fuscoviridescens (Rehm) Speg., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Physis, Buenos Aires (1918)
 
 #### Original name
 Limacinia fuscoviridescens Rehm, 1901

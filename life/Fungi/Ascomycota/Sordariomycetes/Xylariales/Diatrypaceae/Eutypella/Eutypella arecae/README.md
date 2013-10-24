@@ -1,5 +1,4 @@
-Eutypella arecae (Syd. & P. Syd.) Rappaz SPECIES
-=======
+# Eutypella arecae (Syd. & P. Syd.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

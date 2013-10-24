@@ -1,5 +1,4 @@
-Opercularia hospes SPECIES
-=======
+# Opercularia hospes SPECIES
 
 #### Status
 ACCEPTED

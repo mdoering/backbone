@@ -1,5 +1,4 @@
-Aecidium hiptages Berk. & Broome SPECIES
-=======
+# Aecidium hiptages Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

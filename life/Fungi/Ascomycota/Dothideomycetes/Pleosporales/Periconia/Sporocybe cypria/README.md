@@ -1,5 +1,4 @@
-Sporocybe cypria Nattrass SPECIES
-=======
+# Sporocybe cypria Nattrass SPECIES
 
 #### Status
 ACCEPTED

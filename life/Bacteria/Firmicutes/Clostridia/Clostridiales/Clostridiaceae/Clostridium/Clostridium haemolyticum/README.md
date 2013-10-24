@@ -1,5 +1,4 @@
-Clostridium haemolyticum (Hall, 1929) Scott et al., 1935 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium haemolyticum (Hall, 1929) Scott et al., 1935 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fera Maas Geest. & de Meijer SPECIES
-=======
+# Mycena fera Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

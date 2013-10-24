@@ -1,5 +1,4 @@
-Oidium phlomidis Politis SPECIES
-=======
+# Oidium phlomidis Politis SPECIES
 
 #### Status
 ACCEPTED

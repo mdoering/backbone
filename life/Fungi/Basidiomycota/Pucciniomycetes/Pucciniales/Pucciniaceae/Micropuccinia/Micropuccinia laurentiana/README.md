@@ -1,5 +1,4 @@
-Micropuccinia laurentiana (Trel.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia laurentiana (Trel.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

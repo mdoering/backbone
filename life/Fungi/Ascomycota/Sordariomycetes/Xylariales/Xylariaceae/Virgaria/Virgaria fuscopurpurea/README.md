@@ -1,5 +1,4 @@
-Virgaria fuscopurpurea Berk. & M.A. Curtis SPECIES
-=======
+# Virgaria fuscopurpurea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

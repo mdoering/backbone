@@ -1,5 +1,4 @@
-Paradictyocha Frenguelli, 1940 GENUS
-=======
+# Paradictyocha Frenguelli, 1940 GENUS
 
 #### Status
 ACCEPTED

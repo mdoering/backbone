@@ -1,5 +1,4 @@
-Octospora arvensis (Velen.) Yei Z. Wang SPECIES
-=======
+# Octospora arvensis (Velen.) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen sterilis Ach. SPECIES
-=======
+# Lichen sterilis Ach. SPECIES
 
 #### Status
 ACCEPTED

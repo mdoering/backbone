@@ -1,5 +1,4 @@
-Lecidella decolor (Arnold) Arnold SPECIES
-=======
+# Lecidella decolor (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

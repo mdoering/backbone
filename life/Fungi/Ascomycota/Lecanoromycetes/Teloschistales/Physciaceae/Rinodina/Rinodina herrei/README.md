@@ -1,5 +1,4 @@
-Rinodina herrei H. Magn. SPECIES
-=======
+# Rinodina herrei H. Magn. SPECIES
 
 #### Status
 ACCEPTED

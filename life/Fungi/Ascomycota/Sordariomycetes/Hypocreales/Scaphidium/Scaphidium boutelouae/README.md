@@ -1,5 +1,4 @@
-Scaphidium boutelouae Clem., 1901 SPECIES
-=======
+# Scaphidium boutelouae Clem., 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nivatogastrium sulcatum E. Horak, 1971 SPECIES
-=======
+# Nivatogastrium sulcatum E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

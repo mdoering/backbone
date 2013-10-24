@@ -1,5 +1,4 @@
-Ploesconia subrotundus Dujardin, 1841 SPECIES
-=======
+# Ploesconia subrotundus Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

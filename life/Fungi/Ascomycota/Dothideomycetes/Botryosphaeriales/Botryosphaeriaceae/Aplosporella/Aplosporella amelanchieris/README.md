@@ -1,5 +1,4 @@
-Aplosporella amelanchieris (Dearn.) Petr. & Syd. SPECIES
-=======
+# Aplosporella amelanchieris (Dearn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

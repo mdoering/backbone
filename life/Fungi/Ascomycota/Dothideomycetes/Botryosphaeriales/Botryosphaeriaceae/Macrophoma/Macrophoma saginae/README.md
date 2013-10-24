@@ -1,5 +1,4 @@
-Macrophoma saginae (Rostr.) N.F. Buchw. SPECIES
-=======
+# Macrophoma saginae (Rostr.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

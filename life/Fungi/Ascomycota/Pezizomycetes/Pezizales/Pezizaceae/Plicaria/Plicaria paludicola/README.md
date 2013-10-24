@@ -1,5 +1,4 @@
-Plicaria paludicola anon. SPECIES
-=======
+# Plicaria paludicola anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium oxybaphi F. Patt. SPECIES
-=======
+# Heterosporium oxybaphi F. Patt. SPECIES
 
 #### Status
 ACCEPTED

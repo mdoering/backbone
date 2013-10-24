@@ -1,5 +1,4 @@
-Puccinia ramelianoides Jørst. SPECIES
-=======
+# Puccinia ramelianoides Jørst. SPECIES
 
 #### Status
 ACCEPTED

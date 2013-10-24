@@ -1,5 +1,4 @@
-Amphoridium havaricum (Servít) Servít SPECIES
-=======
+# Amphoridium havaricum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

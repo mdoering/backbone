@@ -1,5 +1,4 @@
-Phoma actinidiae Ablak. & Koval SPECIES
-=======
+# Phoma actinidiae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

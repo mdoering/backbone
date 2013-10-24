@@ -1,17 +1,16 @@
-Cladotrichium elegans Nowakowski SPECIES
-=======
+# Nowakowskiella elegans (Nowak.) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 82 (1893)
 
 #### Original name
-null
+Cladochytrium elegans Nowak., 1877
 
 ### Remarks
 null

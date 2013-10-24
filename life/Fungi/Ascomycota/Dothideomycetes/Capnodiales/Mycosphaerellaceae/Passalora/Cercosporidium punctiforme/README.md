@@ -1,5 +1,4 @@
-Cercosporidium punctiforme (G. Winter) Deighton SPECIES
-=======
+# Cercosporidium punctiforme (G. Winter) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium michelianum (Caldesi) Fr. SPECIES
-=======
+# Corticium michelianum (Caldesi) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catarrhospora splendida Brusse SPECIES
-=======
+# Catarrhospora splendida Brusse SPECIES
 
 #### Status
 ACCEPTED

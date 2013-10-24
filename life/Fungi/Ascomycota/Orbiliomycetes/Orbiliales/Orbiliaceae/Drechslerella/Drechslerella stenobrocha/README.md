@@ -1,5 +1,4 @@
-Drechslerella stenobrocha (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Drechslerella stenobrocha (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

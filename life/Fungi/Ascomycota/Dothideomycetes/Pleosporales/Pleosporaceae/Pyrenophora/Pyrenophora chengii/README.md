@@ -1,5 +1,4 @@
-Pyrenophora chengii Gucevic SPECIES
-=======
+# Pyrenophora chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

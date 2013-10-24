@@ -1,5 +1,4 @@
-Conocybe caeruleobasis Tkalcec, Mesic & Hauskn. SPECIES
-=======
+# Conocybe caeruleobasis Tkalcec, Mesic & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

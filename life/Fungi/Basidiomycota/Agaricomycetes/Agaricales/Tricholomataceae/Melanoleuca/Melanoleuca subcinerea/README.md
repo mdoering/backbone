@@ -1,5 +1,4 @@
-Melanoleuca subcinerea (Peck) Murrill SPECIES
-=======
+# Melanoleuca subcinerea (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

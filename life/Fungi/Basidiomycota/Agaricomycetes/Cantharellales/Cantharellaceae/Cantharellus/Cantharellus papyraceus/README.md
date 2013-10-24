@@ -1,5 +1,4 @@
-Cantharellus papyraceus Durieu & Lév. ex Sacc. SPECIES
-=======
+# Cantharellus papyraceus Durieu & Lév. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

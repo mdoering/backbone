@@ -1,5 +1,4 @@
-Macrophoma pritchardiae (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Macrophoma pritchardiae (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

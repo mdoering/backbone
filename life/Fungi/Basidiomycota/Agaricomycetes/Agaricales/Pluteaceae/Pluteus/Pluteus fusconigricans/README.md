@@ -1,5 +1,4 @@
-Pluteus fusconigricans (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus fusconigricans (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

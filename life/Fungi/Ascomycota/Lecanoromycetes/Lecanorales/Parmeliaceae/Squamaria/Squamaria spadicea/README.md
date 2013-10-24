@@ -1,5 +1,4 @@
-Squamaria spadicea (Flot.) SPECIES
-=======
+# Squamaria spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

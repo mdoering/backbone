@@ -1,5 +1,4 @@
-Tetrapisispora nanseiensis Ueda-Nishim. & Mikata, 1999 SPECIES
-=======
+# Tetrapisispora nanseiensis Ueda-Nishim. & Mikata, 1999 SPECIES
 
 #### Status
 ACCEPTED

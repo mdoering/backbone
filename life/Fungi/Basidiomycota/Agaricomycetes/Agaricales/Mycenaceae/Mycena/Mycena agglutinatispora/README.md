@@ -1,5 +1,4 @@
-Mycena agglutinatispora Métrod SPECIES
-=======
+# Mycena agglutinatispora Métrod SPECIES
 
 #### Status
 ACCEPTED

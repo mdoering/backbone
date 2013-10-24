@@ -1,17 +1,16 @@
-Thaumatonema Lauterborn, 1896 GENUS
-=======
+# Thaumatomastix Lauterborn, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zool. Anz. , 19, 14.
+Z. wiss. Zool. , 65, 375.
 
 #### Original name
-null
+Thaumatonema Lauterborn, 1896
 
 ### Remarks
 null

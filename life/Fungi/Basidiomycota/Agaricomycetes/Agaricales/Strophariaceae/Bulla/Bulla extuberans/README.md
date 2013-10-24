@@ -1,5 +1,4 @@
-Bulla extuberans Battarra ex Earle SPECIES
-=======
+# Bulla extuberans Battarra ex Earle SPECIES
 
 #### Status
 ACCEPTED

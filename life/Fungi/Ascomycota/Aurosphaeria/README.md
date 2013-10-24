@@ -1,5 +1,4 @@
-Aurosphaeria Sun J. Lee, Strobel, Eisenman, Geary, Vargas & S.A. Strobel GENUS
-=======
+# Aurosphaeria Sun J. Lee, Strobel, Eisenman, Geary, Vargas & S.A. Strobel GENUS
 
 #### Status
 ACCEPTED

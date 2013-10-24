@@ -1,5 +1,4 @@
-Plicaria baeomycoides Rehm SPECIES
-=======
+# Plicaria baeomycoides Rehm SPECIES
 
 #### Status
 ACCEPTED

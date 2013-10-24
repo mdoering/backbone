@@ -1,5 +1,4 @@
-Polyporus aculeans Berk. SPECIES
-=======
+# Polyporus aculeans Berk. SPECIES
 
 #### Status
 ACCEPTED

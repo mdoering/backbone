@@ -1,5 +1,4 @@
-Erinella bogoriensis var. bogoriensis VARIETY
-=======
+# Erinella bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erinella bogoriensis var. bogoriensis
+Erinella bogoriensis Henn. & E. Nyman
 
 ### Remarks
 null

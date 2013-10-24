@@ -1,5 +1,4 @@
-Triceratium formosum Brightwell SPECIES
-=======
+# Triceratium formosum Brightwell SPECIES
 
 #### Status
 ACCEPTED

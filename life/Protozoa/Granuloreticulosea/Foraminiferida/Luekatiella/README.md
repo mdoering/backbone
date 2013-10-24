@@ -1,5 +1,4 @@
-Luekatiella Mens & Zhigulina in Zhigulina, 1999 GENUS
-=======
+# Luekatiella Mens & Zhigulina in Zhigulina, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopeltis trinidadensis F. Stevens SPECIES
-=======
+# Gymnopeltis trinidadensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

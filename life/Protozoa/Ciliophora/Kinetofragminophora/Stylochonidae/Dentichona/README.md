@@ -1,5 +1,4 @@
-Dentichona Jankowski, 1973 GENUS
-=======
+# Dentichona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

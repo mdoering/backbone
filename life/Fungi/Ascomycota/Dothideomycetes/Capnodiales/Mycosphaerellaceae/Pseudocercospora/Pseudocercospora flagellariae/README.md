@@ -1,5 +1,4 @@
-Pseudocercospora flagellariae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora flagellariae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

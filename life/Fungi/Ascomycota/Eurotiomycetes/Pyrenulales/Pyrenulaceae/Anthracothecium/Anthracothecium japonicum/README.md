@@ -1,5 +1,4 @@
-Anthracothecium japonicum Kashiw. & Kurok. SPECIES
-=======
+# Anthracothecium japonicum Kashiw. & Kurok. SPECIES
 
 #### Status
 ACCEPTED

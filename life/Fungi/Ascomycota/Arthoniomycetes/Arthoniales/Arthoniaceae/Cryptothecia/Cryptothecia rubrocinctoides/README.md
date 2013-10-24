@@ -1,5 +1,4 @@
-Cryptothecia rubrocinctoides G. Thor SPECIES
-=======
+# Cryptothecia rubrocinctoides G. Thor SPECIES
 
 #### Status
 ACCEPTED

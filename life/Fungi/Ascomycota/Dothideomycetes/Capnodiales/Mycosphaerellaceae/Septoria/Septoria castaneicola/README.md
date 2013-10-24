@@ -1,14 +1,13 @@
-Phloeospora castanicola (Desm.) D. Sacc. SPECIES
-=======
+# Septoria castaneicola Desm., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 8: 26 (1847)
 
 #### Original name
 Septoria castaneicola Desm., 1847

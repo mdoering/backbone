@@ -1,5 +1,4 @@
-Septoria maianthemi Westend. SPECIES
-=======
+# Septoria maianthemi Westend. SPECIES
 
 #### Status
 ACCEPTED

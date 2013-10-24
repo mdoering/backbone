@@ -1,5 +1,4 @@
-Lecanora nigrella SPECIES
-=======
+# Lecanora nigrella SPECIES
 
 #### Status
 ACCEPTED

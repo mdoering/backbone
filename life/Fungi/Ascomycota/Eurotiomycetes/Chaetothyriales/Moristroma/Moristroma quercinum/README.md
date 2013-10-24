@@ -1,5 +1,4 @@
-Moristroma quercinum Nordén, 2005 SPECIES
-=======
+# Moristroma quercinum Nordén, 2005 SPECIES
 
 #### Status
 ACCEPTED

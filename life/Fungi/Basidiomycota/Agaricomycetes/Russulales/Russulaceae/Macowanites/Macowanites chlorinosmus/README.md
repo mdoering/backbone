@@ -1,5 +1,4 @@
-Macowanites chlorinosmus A.H. Sm. & Trappe SPECIES
-=======
+# Macowanites chlorinosmus A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

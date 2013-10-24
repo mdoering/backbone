@@ -1,5 +1,4 @@
-Microsphaeropsis xerotis (Henn.) Aa SPECIES
-=======
+# Microsphaeropsis xerotis (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

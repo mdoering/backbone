@@ -1,5 +1,4 @@
-Arthonia medusula (Pers.) Nyl. SPECIES
-=======
+# Arthonia medusula (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conioloma purpureum Flörke SPECIES
-=======
+# Conioloma purpureum Flörke SPECIES
 
 #### Status
 ACCEPTED

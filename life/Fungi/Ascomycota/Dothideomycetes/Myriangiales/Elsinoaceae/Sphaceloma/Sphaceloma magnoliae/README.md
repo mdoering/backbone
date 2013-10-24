@@ -1,5 +1,4 @@
-Sphaceloma magnoliae Jenkins & J.H. Mill. SPECIES
-=======
+# Sphaceloma magnoliae Jenkins & J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

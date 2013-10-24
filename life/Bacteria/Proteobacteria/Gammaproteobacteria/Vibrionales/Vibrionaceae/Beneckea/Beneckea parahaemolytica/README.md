@@ -1,8 +1,7 @@
-Vibrio parahaemolyticus (Fujino et al., 1951) Sakazaki et al., 1963 (Approved Lists, 1980) SPECIES
-=======
+# Beneckea parahaemolytica (Fujino et al., 1951) Baumann et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

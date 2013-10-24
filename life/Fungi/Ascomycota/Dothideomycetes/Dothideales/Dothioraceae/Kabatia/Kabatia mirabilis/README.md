@@ -1,5 +1,4 @@
-Kabatia mirabilis Bubák SPECIES
-=======
+# Kabatia mirabilis Bubák SPECIES
 
 #### Status
 ACCEPTED

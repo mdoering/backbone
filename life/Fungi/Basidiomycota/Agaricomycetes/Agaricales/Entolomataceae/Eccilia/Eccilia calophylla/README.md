@@ -1,5 +1,4 @@
-Eccilia calophylla (Pers.) Fr. SPECIES
-=======
+# Eccilia calophylla (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

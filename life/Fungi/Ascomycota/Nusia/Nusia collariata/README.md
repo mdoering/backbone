@@ -1,5 +1,4 @@
-Nusia collariata Subram., 1995 SPECIES
-=======
+# Nusia collariata Subram., 1995 SPECIES
 
 #### Status
 ACCEPTED

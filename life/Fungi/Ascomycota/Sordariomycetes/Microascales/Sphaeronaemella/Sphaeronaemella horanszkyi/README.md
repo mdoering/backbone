@@ -1,5 +1,4 @@
-Sphaeronaemella horanszkyi (Tóth) Tóth SPECIES
-=======
+# Sphaeronaemella horanszkyi (Tóth) Tóth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium kufferathii (Stockmans & Willière, 1962) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Polygonium kufferathii (Stockmans & Willière, 1962) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

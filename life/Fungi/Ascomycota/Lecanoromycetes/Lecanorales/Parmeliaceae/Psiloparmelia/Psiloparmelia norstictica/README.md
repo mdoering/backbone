@@ -1,5 +1,4 @@
-Psiloparmelia norstictica Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia norstictica Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

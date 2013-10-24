@@ -1,5 +1,4 @@
-Puccinia wyethiae (Peck) Ellis & Everh. SPECIES
-=======
+# Puccinia wyethiae (Peck) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

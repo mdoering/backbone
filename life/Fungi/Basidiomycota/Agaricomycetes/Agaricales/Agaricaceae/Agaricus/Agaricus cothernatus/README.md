@@ -1,5 +1,4 @@
-Agaricus cothernatus SPECIES
-=======
+# Agaricus cothernatus SPECIES
 
 #### Status
 ACCEPTED

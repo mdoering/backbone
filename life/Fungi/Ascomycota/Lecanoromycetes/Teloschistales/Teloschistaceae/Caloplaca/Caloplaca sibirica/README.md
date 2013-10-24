@@ -1,5 +1,4 @@
-Caloplaca sibirica H. Magn. SPECIES
-=======
+# Caloplaca sibirica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

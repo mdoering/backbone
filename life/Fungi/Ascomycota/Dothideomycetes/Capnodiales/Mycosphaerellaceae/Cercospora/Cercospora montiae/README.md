@@ -1,5 +1,4 @@
-Cercospora montiae Rostr. SPECIES
-=======
+# Cercospora montiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

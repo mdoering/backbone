@@ -1,5 +1,4 @@
-Coenogonium curvulum Zahlbr. SPECIES
-=======
+# Coenogonium curvulum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

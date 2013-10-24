@@ -1,5 +1,4 @@
-Puccinia chrysophylli Grev. SPECIES
-=======
+# Puccinia chrysophylli Grev. SPECIES
 
 #### Status
 ACCEPTED

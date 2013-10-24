@@ -1,5 +1,4 @@
-Sclerotinia secalincola Rehm SPECIES
-=======
+# Sclerotinia secalincola Rehm SPECIES
 
 #### Status
 ACCEPTED

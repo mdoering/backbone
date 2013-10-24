@@ -1,5 +1,4 @@
-Palaeoasterina siwalika S. Mitra, Bera & Manju Banerjee SPECIES
-=======
+# Palaeoasterina siwalika S. Mitra, Bera & Manju Banerjee SPECIES
 
 #### Status
 ACCEPTED

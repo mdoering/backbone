@@ -1,5 +1,4 @@
-Puccinia tsinlingensis Y.C. Wang SPECIES
-=======
+# Puccinia tsinlingensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

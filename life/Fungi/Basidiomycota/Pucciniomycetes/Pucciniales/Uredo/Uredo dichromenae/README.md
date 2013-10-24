@@ -1,5 +1,4 @@
-Uredo dichromenae Arthur SPECIES
-=======
+# Uredo dichromenae Arthur SPECIES
 
 #### Status
 ACCEPTED

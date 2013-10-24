@@ -1,5 +1,4 @@
-Octospora metachromatica Korf SPECIES
-=======
+# Octospora metachromatica Korf SPECIES
 
 #### Status
 ACCEPTED

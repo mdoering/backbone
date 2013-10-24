@@ -1,5 +1,4 @@
-Sporisorium contortum (Griffiths) Vánky SPECIES
-=======
+# Sporisorium contortum (Griffiths) Vánky SPECIES
 
 #### Status
 ACCEPTED

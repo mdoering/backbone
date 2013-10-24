@@ -1,5 +1,4 @@
-Lecidea subclausa (Anzi) Stizenb. SPECIES
-=======
+# Lecidea subclausa (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

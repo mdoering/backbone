@@ -1,5 +1,4 @@
-Biatora abstrusa (Wallr.) Rabenh. SPECIES
-=======
+# Biatora abstrusa (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Myxosporium musae Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Colletotrichum musae (Berk. & M.A. Curtis) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 3(no. 25): 13 (1874)
+Verh. K. Akad. Wet. , tweede sect. 51(3): 107 (1957)
 
 #### Original name
 Myxosporium musae Berk. & M.A. Curtis, 1874

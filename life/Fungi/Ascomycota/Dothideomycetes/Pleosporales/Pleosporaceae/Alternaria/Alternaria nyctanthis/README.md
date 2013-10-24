@@ -1,17 +1,16 @@
-Alternaria nyctanthi K.B. Deshp. & Rajd. SPECIES
-=======
+# Alternaria nyctanthis K.B. Deshp. & Rajd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 23: 277 (1964)
 
 #### Original name
-Alternaria nyctanthi K.B. Deshp. & Rajd.
+Alternaria nyctanthis K.B. Deshp. & Rajd.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Caeoma elephantopodis (Schwein.) Link SPECIES
-=======
+# Caeoma elephantopi (Schwein.) Link SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(2): 20 (1825)
 
 #### Original name
 Uredo elephantopi Henn.

@@ -1,5 +1,4 @@
-Loxocephalidae Jankowksi, 1964 FAMILY
-=======
+# Loxocephalidae Jankowksi, 1964 FAMILY
 
 #### Status
 ACCEPTED

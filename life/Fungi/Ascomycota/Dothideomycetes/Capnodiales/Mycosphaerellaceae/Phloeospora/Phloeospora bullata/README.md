@@ -1,5 +1,4 @@
-Phloeospora bullata (Syd. & P. Syd.) B. Sutton SPECIES
-=======
+# Phloeospora bullata (Syd. & P. Syd.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia brasiliensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia brasiliensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

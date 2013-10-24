@@ -1,5 +1,4 @@
-Dicaeoma exanthemicum (MacOwan) Kuntze SPECIES
-=======
+# Dicaeoma exanthemicum (MacOwan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

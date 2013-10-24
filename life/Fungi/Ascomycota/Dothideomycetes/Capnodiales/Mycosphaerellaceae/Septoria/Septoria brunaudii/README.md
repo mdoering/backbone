@@ -1,5 +1,4 @@
-Septoria brunaudii Sacc. & P. Syd. SPECIES
-=======
+# Septoria brunaudii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

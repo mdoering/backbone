@@ -1,5 +1,4 @@
-Nonionella translucens Cushman, 1933 SPECIES
-=======
+# Nonionella translucens Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

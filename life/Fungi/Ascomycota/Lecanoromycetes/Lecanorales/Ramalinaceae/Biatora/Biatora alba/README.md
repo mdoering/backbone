@@ -1,5 +1,4 @@
-Biatora alba (Schleich.) Hepp SPECIES
-=======
+# Biatora alba (Schleich.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholzia luteopora (Bouchinot) Singer SPECIES
-=======
+# Krombholzia luteopora (Bouchinot) Singer SPECIES
 
 #### Status
 ACCEPTED

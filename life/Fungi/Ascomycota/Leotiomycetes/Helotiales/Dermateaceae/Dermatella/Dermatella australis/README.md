@@ -1,5 +1,4 @@
-Dermatella australis (Rehm) Sacc. SPECIES
-=======
+# Dermatella australis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

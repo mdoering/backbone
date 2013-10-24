@@ -1,5 +1,4 @@
-Parmastomyces deceptivus Corner, 1989 SPECIES
-=======
+# Parmastomyces deceptivus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

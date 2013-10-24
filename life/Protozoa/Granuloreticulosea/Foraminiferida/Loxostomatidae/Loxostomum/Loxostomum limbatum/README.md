@@ -1,5 +1,4 @@
-Loxostomum limbatum SPECIES
-=======
+# Loxostomum limbatum SPECIES
 
 #### Status
 ACCEPTED

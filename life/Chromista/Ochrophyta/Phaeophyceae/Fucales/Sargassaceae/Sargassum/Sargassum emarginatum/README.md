@@ -1,5 +1,4 @@
-Sargassum emarginatum C.K. Tseng & Lu SPECIES
-=======
+# Sargassum emarginatum C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

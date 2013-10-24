@@ -1,5 +1,4 @@
-Lecanora lividocinerea Bagl. SPECIES
-=======
+# Lecanora lividocinerea Bagl. SPECIES
 
 #### Status
 ACCEPTED

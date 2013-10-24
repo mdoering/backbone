@@ -1,17 +1,16 @@
-Phyllosticta limonum M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phyllosticta limoni M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 16(2): 96 (1954)
 
 #### Original name
-Phyllosticta limonum M.T. Lucas & Sousa da Câmara
+Phyllosticta limoni M.T. Lucas & Sousa da Câmara
 
 ### Remarks
 null

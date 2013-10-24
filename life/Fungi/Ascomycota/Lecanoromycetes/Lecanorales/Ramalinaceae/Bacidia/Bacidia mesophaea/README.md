@@ -1,5 +1,4 @@
-Bacidia mesophaea (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia mesophaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

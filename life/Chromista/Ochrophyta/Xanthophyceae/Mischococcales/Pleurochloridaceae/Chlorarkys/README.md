@@ -1,5 +1,4 @@
-Chlorarkys Pascher, 1939 GENUS
-=======
+# Chlorarkys Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

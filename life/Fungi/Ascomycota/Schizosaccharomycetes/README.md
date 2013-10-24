@@ -1,5 +1,4 @@
-Schizosaccharomycetes O.E. Erikss. & Winka CLASS
-=======
+# Schizosaccharomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum cestri Rangel SPECIES
-=======
+# Septogloeum cestri Rangel SPECIES
 
 #### Status
 ACCEPTED

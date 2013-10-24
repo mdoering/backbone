@@ -1,5 +1,4 @@
-Globorotalites GENUS
-=======
+# Globorotalites GENUS
 
 #### Status
 ACCEPTED

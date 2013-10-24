@@ -1,5 +1,4 @@
-Verrucaria bormiensis Servít SPECIES
-=======
+# Verrucaria bormiensis Servít SPECIES
 
 #### Status
 ACCEPTED

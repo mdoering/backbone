@@ -1,5 +1,4 @@
-Sphenomonas teres var. pyriformis Playfair VARIETY
-=======
+# Sphenomonas teres (F. Stein) G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

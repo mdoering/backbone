@@ -1,5 +1,4 @@
-Stenella schizandrae Pavgi & U.P. Singh SPECIES
-=======
+# Stenella schizandrae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

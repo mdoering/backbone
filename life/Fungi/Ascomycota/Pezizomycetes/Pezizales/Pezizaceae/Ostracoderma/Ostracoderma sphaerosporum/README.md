@@ -1,5 +1,4 @@
-Ostracoderma sphaerosporum (Dissing & Lange) Hennebert SPECIES
-=======
+# Ostracoderma sphaerosporum (Dissing & Lange) Hennebert SPECIES
 
 #### Status
 ACCEPTED

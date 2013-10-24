@@ -1,5 +1,4 @@
-Xyloma alneum var. alneum VARIETY
-=======
+# Xyloma alneum Wormsk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 108 (1801)
+null
 
 #### Original name
-Xyloma alneum var. alneum
+Xyloma alneum Wormsk.
 
 ### Remarks
 null

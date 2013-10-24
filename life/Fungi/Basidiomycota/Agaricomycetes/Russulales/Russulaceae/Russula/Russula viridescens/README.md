@@ -1,5 +1,4 @@
-Russula viridescens R. Heim & Gilles SPECIES
-=======
+# Russula viridescens R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

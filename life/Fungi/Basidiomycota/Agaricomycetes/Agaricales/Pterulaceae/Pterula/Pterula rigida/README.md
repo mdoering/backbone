@@ -1,5 +1,4 @@
-Pterula rigida Donk, 1950 SPECIES
-=======
+# Pterula rigida Donk, 1950 SPECIES
 
 #### Status
 ACCEPTED

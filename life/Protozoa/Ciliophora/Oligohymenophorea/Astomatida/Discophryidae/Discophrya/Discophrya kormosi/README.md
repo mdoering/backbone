@@ -1,5 +1,4 @@
-Discophrya kormosi Matthes, 1954 SPECIES
-=======
+# Discophrya kormosi Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

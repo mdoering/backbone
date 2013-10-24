@@ -1,5 +1,4 @@
-Glypholecia scaberrima (Hue) Zahlbr. SPECIES
-=======
+# Glypholecia scaberrima (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

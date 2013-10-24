@@ -1,5 +1,4 @@
-Phacidium ari R. Ludw. SPECIES
-=======
+# Phacidium ari R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

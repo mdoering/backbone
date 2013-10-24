@@ -1,5 +1,4 @@
-Polyporus cadaverinus Schulzer & Kalchbr. SPECIES
-=======
+# Polyporus cadaverinus Schulzer & Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

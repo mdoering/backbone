@@ -1,5 +1,4 @@
-Clathrus camerunensis Henn. SPECIES
-=======
+# Clathrus camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

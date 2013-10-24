@@ -1,8 +1,7 @@
-Globigerinita clarkei (Rögl & Bolli, 1973) SPECIES
-=======
+# Turborotalita clarkei (Roegl & Bolli, 1973) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Marasmius lilacinoalbus var. lilacinoalbus VARIETY
-=======
+# Marasmius lilacinoalbus Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 60(2): 158 (1928)
 
 #### Original name
-Marasmius lilacinoalbus var. lilacinoalbus
+Marasmius lilacinoalbus Beeli
 
 ### Remarks
 null

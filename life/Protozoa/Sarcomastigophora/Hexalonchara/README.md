@@ -1,5 +1,4 @@
-Hexalonchara Haeckel, 1887 GENUS
-=======
+# Hexalonchara Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola whetzelii Hansf. SPECIES
-=======
+# Meliola whetzelii Hansf. SPECIES
 
 #### Status
 ACCEPTED

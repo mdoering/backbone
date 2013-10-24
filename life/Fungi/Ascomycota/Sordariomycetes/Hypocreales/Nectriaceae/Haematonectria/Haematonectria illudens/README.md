@@ -1,14 +1,13 @@
-Nectria illudens Berk., 1855 SPECIES
-=======
+# Haematonectria illudens (Berk.) Samuels & Nirenberg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker Fl. Nov. -Zel. 2: 203 (1855)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 136 (1999)
 
 #### Original name
 Nectria illudens Berk., 1855

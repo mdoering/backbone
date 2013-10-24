@@ -1,5 +1,4 @@
-Boletus fodinalis Humb. SPECIES
-=======
+# Boletus fodinalis Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma caespitosum Trab. SPECIES
-=======
+# Tulostoma caespitosum Trab. SPECIES
 
 #### Status
 ACCEPTED

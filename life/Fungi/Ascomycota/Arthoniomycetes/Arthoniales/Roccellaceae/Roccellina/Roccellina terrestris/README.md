@@ -1,5 +1,4 @@
-Roccellina terrestris Tehler SPECIES
-=======
+# Roccellina terrestris Tehler SPECIES
 
 #### Status
 ACCEPTED

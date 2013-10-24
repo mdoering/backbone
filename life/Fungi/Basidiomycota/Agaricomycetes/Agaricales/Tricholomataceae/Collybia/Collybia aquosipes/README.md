@@ -1,5 +1,4 @@
-Collybia aquosipes (Britzelm.) Lapl. SPECIES
-=======
+# Collybia aquosipes (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

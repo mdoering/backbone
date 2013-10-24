@@ -1,5 +1,4 @@
-Pertusaria hypoxantha Malme SPECIES
-=======
+# Pertusaria hypoxantha Malme SPECIES
 
 #### Status
 ACCEPTED

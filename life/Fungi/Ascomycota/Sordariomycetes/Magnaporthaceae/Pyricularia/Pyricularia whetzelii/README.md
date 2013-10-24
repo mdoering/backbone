@@ -1,5 +1,4 @@
-Pyricularia whetzelii (Chupp) Bat. & R. Garnier SPECIES
-=======
+# Pyricularia whetzelii (Chupp) Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

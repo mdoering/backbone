@@ -1,5 +1,4 @@
-Ascochyta geranii Rabenh. SPECIES
-=======
+# Ascochyta geranii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

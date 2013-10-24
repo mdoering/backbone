@@ -1,5 +1,4 @@
-Mycena dermatogloea Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena dermatogloea Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

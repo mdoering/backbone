@@ -1,14 +1,13 @@
-Phakopsora cameliae (Arthur) Buriticá, 1996 SPECIES
-=======
+# Puccinia cameliae Arthur, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Buriticá & Pardo-Cardona, Revta Acad. colomb. cienc. exact. fís. nat. 20(no. 77): 205 (1996)
+Mycologia 7(5): 227 (1915)
 
 #### Original name
 Puccinia cameliae Arthur, 1915

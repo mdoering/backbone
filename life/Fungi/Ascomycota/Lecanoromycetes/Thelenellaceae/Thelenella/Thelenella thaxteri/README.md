@@ -1,5 +1,4 @@
-Thelenella thaxteri var. thaxteri VARIETY
-=======
+# Thelenella thaxteri Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Amer. Acad. Arts & Sci. 58: 144 (1923)
 
 #### Original name
-Thelenella thaxteri var. thaxteri
+Thelenella thaxteri Vain.
 
 ### Remarks
 null

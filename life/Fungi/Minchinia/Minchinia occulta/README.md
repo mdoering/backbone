@@ -1,5 +1,4 @@
-Minchinia occulta Bearham, Spiers, Raidal, Jones & Nicholls, 2008 SPECIES
-=======
+# Minchinia occulta Bearham, Spiers, Raidal, Jones & Nicholls, 2008 SPECIES
 
 #### Status
 ACCEPTED

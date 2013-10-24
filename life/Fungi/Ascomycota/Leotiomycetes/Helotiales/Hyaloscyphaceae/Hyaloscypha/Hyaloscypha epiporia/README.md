@@ -1,5 +1,4 @@
-Hyaloscypha epiporia Huhtinen, 1990 SPECIES
-=======
+# Hyaloscypha epiporia Huhtinen, 1990 SPECIES
 
 #### Status
 ACCEPTED

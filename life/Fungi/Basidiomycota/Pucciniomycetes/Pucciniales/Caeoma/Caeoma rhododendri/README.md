@@ -1,5 +1,4 @@
-Caeoma rhododendri Link SPECIES
-=======
+# Caeoma rhododendri Link SPECIES
 
 #### Status
 ACCEPTED

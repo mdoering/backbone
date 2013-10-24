@@ -1,5 +1,4 @@
-Cyclotella jonesii R. B. McLaughlin SPECIES
-=======
+# Cyclotella jonesii R. B. McLaughlin SPECIES
 
 #### Status
 ACCEPTED

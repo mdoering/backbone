@@ -1,5 +1,4 @@
-Rivularia lissaviensis (Bornemann) O. Dragastan SPECIES
-=======
+# Rivularia lissaviensis (Bornemann) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella ephedrae (Hollós) Bechet SPECIES
-=======
+# Mycosphaerella ephedrae (Hollós) Bechet SPECIES
 
 #### Status
 ACCEPTED

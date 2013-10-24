@@ -1,5 +1,4 @@
-Phyllosticta tinosporicola Khune SPECIES
-=======
+# Phyllosticta tinosporicola Khune SPECIES
 
 #### Status
 ACCEPTED

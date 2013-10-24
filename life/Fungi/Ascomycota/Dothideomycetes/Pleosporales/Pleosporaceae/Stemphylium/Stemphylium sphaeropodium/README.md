@@ -1,5 +1,4 @@
-Stemphylium sphaeropodium Bonord. SPECIES
-=======
+# Stemphylium sphaeropodium Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum tinosporae Syd. SPECIES
-=======
+# Colletotrichum tinosporae Syd. SPECIES
 
 #### Status
 ACCEPTED

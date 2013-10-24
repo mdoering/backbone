@@ -1,5 +1,4 @@
-Sphaerostilbe hyalina Fuckel SPECIES
-=======
+# Sphaerostilbe hyalina Fuckel SPECIES
 
 #### Status
 ACCEPTED

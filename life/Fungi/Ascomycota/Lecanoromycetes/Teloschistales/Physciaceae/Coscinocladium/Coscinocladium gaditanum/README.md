@@ -1,5 +1,4 @@
-Coscinocladium gaditanum (Clemente) A. Crespo, Llimona & D. Hawksw. SPECIES
-=======
+# Coscinocladium gaditanum (Clemente) A. Crespo, Llimona & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

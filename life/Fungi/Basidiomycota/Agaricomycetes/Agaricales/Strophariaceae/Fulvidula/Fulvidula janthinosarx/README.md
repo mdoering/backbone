@@ -1,5 +1,4 @@
-Fulvidula janthinosarx Singer SPECIES
-=======
+# Fulvidula janthinosarx Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phoma rusci Westend., 1859 SPECIES
-=======
+# Phomopsis rusci (Westend.) Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

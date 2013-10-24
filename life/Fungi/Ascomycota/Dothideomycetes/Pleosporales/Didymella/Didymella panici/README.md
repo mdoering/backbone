@@ -1,5 +1,4 @@
-Didymella panici (F. Stevens) M.E. Barr SPECIES
-=======
+# Didymella panici (F. Stevens) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

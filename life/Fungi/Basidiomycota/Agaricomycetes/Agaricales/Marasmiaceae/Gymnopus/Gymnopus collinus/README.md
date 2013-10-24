@@ -1,5 +1,4 @@
-Gymnopus collinus (Scop.) Gray SPECIES
-=======
+# Gymnopus collinus (Scop.) Gray SPECIES
 
 #### Status
 ACCEPTED

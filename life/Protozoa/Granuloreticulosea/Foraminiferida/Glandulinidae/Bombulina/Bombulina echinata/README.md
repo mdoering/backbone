@@ -1,5 +1,4 @@
-Bombulina echinata (Millett, 1902) SPECIES
-=======
+# Bombulina echinata (Millett, 1902) SPECIES
 
 #### Status
 ACCEPTED

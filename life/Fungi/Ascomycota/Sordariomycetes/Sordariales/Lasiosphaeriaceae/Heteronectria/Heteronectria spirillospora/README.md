@@ -1,5 +1,4 @@
-Heteronectria spirillospora Penz. & Sacc. SPECIES
-=======
+# Heteronectria spirillospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

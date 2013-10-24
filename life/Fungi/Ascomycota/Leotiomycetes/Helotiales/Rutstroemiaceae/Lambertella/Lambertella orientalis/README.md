@@ -1,17 +1,16 @@
-Lambertella orientale M.P. Sharma SPECIES
-=======
+# Lambertella orientalis M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sharma & Sharma, Annals of Biology, Ludhiana 3(1): 85 (1987)
 
 #### Original name
-Lambertella orientale M.P. Sharma
+Lambertella orientalis M.P. Sharma
 
 ### Remarks
 null

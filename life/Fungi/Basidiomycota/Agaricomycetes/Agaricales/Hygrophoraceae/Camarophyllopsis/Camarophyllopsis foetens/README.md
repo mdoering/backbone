@@ -1,17 +1,16 @@
-Omphalia abhorrens (Berk. & Broome) Sacc., 1887 SPECIES
-=======
+# Camarophyllopsis foetens (W. Phillips) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 325 (1887)
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
-Agaricus abhorrens Berk. & Broome, 1879
+Hygrophorus foetens W. Phillips, 1878
 
 ### Remarks
 null

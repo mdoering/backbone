@@ -1,5 +1,4 @@
-Postia amurensis Y.C. Dai & Pentillä SPECIES
-=======
+# Postia amurensis Y.C. Dai & Pentillä SPECIES
 
 #### Status
 ACCEPTED

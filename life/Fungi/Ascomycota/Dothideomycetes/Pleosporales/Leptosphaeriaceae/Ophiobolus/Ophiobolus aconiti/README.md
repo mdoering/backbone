@@ -1,5 +1,4 @@
-Ophiobolus aconiti (Bonord.) Sacc. SPECIES
-=======
+# Ophiobolus aconiti (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

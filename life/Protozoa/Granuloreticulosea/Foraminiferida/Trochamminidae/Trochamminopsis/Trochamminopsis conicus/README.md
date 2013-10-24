@@ -1,5 +1,4 @@
-Trochamminopsis conicus Earland, 1934 SPECIES
-=======
+# Trochamminopsis conicus Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

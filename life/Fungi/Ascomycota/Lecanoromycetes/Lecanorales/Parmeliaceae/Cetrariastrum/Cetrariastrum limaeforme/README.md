@@ -1,5 +1,4 @@
-Cetrariastrum limaeforme (Taylor) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum limaeforme (Taylor) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

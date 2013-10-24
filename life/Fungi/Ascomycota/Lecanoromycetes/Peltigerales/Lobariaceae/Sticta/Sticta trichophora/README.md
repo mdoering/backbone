@@ -1,5 +1,4 @@
-Sticta trichophora Vain. SPECIES
-=======
+# Sticta trichophora Vain. SPECIES
 
 #### Status
 ACCEPTED

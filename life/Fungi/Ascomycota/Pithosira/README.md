@@ -1,5 +1,4 @@
-Pithosira Petr. GENUS
-=======
+# Pithosira Petr. GENUS
 
 #### Status
 ACCEPTED

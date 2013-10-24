@@ -1,5 +1,4 @@
-Heterodermia laciniatula (Kurok.) SPECIES
-=======
+# Heterodermia laciniatula (Kurok.) SPECIES
 
 #### Status
 ACCEPTED

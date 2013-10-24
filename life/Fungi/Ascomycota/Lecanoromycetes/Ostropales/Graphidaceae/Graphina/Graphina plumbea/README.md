@@ -1,5 +1,4 @@
-Graphina plumbea Zahlbr. SPECIES
-=======
+# Graphina plumbea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

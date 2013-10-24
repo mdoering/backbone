@@ -1,5 +1,4 @@
-Blastenia mendax (Ohlert) Lettau SPECIES
-=======
+# Blastenia mendax (Ohlert) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium acerinum Peck SPECIES
-=======
+# Dinemasporium acerinum Peck SPECIES
 
 #### Status
 ACCEPTED

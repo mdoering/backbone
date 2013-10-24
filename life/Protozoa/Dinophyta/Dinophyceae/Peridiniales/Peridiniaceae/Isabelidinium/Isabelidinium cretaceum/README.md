@@ -1,11 +1,10 @@
-Isabelidinium cretaceum subsp. cretaceum SUBSPECIES
-=======
+# Isabelidinium cretaceum (Cookson, 1956) Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

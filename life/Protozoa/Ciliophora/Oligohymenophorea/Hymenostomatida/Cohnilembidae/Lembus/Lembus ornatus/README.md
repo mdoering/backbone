@@ -1,5 +1,4 @@
-Lembus ornatus Smith, 1899 SPECIES
-=======
+# Lembus ornatus Smith, 1899 SPECIES
 
 #### Status
 ACCEPTED

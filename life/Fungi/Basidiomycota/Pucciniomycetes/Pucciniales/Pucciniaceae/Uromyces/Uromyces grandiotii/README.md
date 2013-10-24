@@ -1,5 +1,4 @@
-Uromyces grandiotii Gäum. SPECIES
-=======
+# Uromyces grandiotii Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe cornmeri Watling SPECIES
-=======
+# Conocybe cornmeri Watling SPECIES
 
 #### Status
 ACCEPTED

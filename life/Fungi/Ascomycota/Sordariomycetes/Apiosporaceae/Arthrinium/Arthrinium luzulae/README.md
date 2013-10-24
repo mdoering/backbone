@@ -1,5 +1,4 @@
-Arthrinium luzulae M.B. Ellis SPECIES
-=======
+# Arthrinium luzulae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

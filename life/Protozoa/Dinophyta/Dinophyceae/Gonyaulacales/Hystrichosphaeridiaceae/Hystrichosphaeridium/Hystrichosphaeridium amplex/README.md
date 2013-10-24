@@ -1,5 +1,4 @@
-Hystrichosphaeridium amplex SPECIES
-=======
+# Hystrichosphaeridium amplex SPECIES
 
 #### Status
 ACCEPTED

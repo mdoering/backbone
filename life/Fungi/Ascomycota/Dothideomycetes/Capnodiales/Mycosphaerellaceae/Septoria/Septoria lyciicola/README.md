@@ -1,5 +1,4 @@
-Septoria lyciicola var. lyciicola VARIETY
-=======
+# Septoria lyciicola Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria lyciicola var. lyciicola
+Septoria lyciicola Speg.
 
 ### Remarks
 null

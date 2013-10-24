@@ -1,5 +1,4 @@
-Conocybe velutinomarginata Hauskn. & Zugna SPECIES
-=======
+# Conocybe velutinomarginata Hauskn. & Zugna SPECIES
 
 #### Status
 ACCEPTED

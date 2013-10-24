@@ -1,5 +1,4 @@
-Parmelina nagalandica Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Parmelina nagalandica Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

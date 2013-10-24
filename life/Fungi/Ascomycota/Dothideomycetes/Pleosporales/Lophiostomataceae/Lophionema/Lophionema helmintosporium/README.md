@@ -1,5 +1,4 @@
-Lophionema helmintosporium A.T. Vasconc. SPECIES
-=======
+# Lophionema helmintosporium A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza juglandis Raitv. & H.D. Shin SPECIES
-=======
+# Trichopeziza juglandis Raitv. & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia trachypus Speg. SPECIES
-=======
+# Laboulbenia trachypus Speg. SPECIES
 
 #### Status
 ACCEPTED

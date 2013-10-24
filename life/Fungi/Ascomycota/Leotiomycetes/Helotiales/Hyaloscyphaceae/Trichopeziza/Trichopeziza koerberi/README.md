@@ -1,5 +1,4 @@
-Trichopeziza koerberi (Peyl) Sacc. SPECIES
-=======
+# Trichopeziza koerberi (Peyl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

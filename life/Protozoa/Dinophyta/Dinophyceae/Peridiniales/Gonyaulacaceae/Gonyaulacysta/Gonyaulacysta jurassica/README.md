@@ -1,5 +1,4 @@
-Gonyaulacysta jurassica var. quadrata A. Kumar VARIETY
-=======
+# Gonyaulacysta jurassica (Deflandre, 1938) Norris & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

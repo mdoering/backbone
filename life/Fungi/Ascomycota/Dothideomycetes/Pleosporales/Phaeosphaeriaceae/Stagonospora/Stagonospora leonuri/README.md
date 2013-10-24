@@ -1,5 +1,4 @@
-Stagonospora leonuri (Rostr.) Moesz & Smarods SPECIES
-=======
+# Stagonospora leonuri (Rostr.) Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

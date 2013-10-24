@@ -1,8 +1,7 @@
-Entodiscus sabulonis Powers, 1935 SPECIES
-=======
+# Entodiscus echini (Russo, 1914) Foissner, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

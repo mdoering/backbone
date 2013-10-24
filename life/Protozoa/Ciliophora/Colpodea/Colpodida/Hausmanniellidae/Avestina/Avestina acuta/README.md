@@ -1,8 +1,7 @@
-Colpoda acuta Buitkamp, 1977 SPECIES
-=======
+# Avestina acuta (Buitkamp, 1977) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

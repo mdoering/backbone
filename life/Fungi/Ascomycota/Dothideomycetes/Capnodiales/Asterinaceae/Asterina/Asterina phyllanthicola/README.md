@@ -1,5 +1,4 @@
-Asterina phyllanthicola Suj. Singh SPECIES
-=======
+# Asterina phyllanthicola Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

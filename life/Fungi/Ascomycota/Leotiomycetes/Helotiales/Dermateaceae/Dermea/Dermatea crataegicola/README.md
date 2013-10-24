@@ -1,5 +1,4 @@
-Dermatea crataegicola E.J. Durand SPECIES
-=======
+# Dermatea crataegicola E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

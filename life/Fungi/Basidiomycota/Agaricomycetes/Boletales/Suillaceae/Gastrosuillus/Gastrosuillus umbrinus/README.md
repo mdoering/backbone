@@ -1,5 +1,4 @@
-Gastrosuillus umbrinus Trappe & Castellano SPECIES
-=======
+# Gastrosuillus umbrinus Trappe & Castellano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodosphaera Buchanan, 1918 GENUS
-=======
+# Rhodosphaera Buchanan, 1918 GENUS
 
 #### Status
 ACCEPTED

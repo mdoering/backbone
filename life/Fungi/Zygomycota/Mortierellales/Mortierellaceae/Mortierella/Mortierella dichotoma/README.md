@@ -1,5 +1,4 @@
-Mortierella dichotoma Linnem. ex W. Gams, 1977 SPECIES
-=======
+# Mortierella dichotoma Linnem. ex W. Gams, 1977 SPECIES
 
 #### Status
 ACCEPTED

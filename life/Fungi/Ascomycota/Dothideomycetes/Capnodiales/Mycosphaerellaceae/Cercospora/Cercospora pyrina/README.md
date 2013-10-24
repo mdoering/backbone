@@ -1,5 +1,4 @@
-Cercospora pyrina Ellis & Everh. SPECIES
-=======
+# Cercospora pyrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

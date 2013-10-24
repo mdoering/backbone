@@ -1,5 +1,4 @@
-Sphaerulina serograpta var. serograpta VARIETY
-=======
+# Sphaerulina serograpta (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 187 (1883)
 
 #### Original name
-Sphaerulina serograpta var. serograpta
+Sphaeria serograpta Durieu & Mont.
 
 ### Remarks
 null

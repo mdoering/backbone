@@ -1,5 +1,4 @@
-Atractilina amazoniae Deighton SPECIES
-=======
+# Atractilina amazoniae Deighton SPECIES
 
 #### Status
 ACCEPTED

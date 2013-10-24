@@ -1,5 +1,4 @@
-Phlyctochytrium J. Schröt. GENUS
-=======
+# Phlyctochytrium J. Schröt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella aosimensis I. Hino & Katum., 1956 SPECIES
-=======
+# Astrosphaeriella aosimensis I. Hino & Katum., 1956 SPECIES
 
 #### Status
 ACCEPTED

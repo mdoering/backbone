@@ -1,5 +1,4 @@
-Urophlyctis astomae Rayss SPECIES
-=======
+# Urophlyctis astomae Rayss SPECIES
 
 #### Status
 ACCEPTED

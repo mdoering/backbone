@@ -1,5 +1,4 @@
-Agaricus aureofulvus Berk. SPECIES
-=======
+# Agaricus aureofulvus Berk. SPECIES
 
 #### Status
 ACCEPTED

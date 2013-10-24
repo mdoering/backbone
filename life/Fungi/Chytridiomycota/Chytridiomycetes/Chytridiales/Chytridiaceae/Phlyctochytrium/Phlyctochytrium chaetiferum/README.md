@@ -1,5 +1,4 @@
-Phlyctochytrium chaetiferum Karling, 1937 SPECIES
-=======
+# Phlyctochytrium chaetiferum Karling, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia episphaeria (Desm.) Gunnerb., 1967 SPECIES
-=======
+# Phacellium episphaerium (Desm.) U. Braun, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 61: 129 (1967)
+Nova Hedwigia 50(3-4): 509 (1990)
 
 #### Original name
 Isaria episphaeria Desm., 1843

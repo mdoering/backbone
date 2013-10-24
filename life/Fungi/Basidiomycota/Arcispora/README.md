@@ -1,5 +1,4 @@
-Arcispora Marvanová & Bärl. GENUS
-=======
+# Arcispora Marvanová & Bärl. GENUS
 
 #### Status
 ACCEPTED

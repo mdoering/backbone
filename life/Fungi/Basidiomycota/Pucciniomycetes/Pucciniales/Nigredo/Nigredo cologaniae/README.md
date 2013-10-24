@@ -1,5 +1,4 @@
-Nigredo cologaniae (Arthur) Arthur SPECIES
-=======
+# Nigredo cologaniae (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

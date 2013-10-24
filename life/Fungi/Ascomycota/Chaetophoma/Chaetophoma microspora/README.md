@@ -1,5 +1,4 @@
-Chaetophoma microspora Speg. SPECIES
-=======
+# Chaetophoma microspora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sesia cuticularis (Lév.) Kuntze SPECIES
-=======
+# Sesia cuticularis (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

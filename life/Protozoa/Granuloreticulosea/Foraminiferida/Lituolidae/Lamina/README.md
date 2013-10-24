@@ -1,5 +1,4 @@
-Lamina Voloshina, 1972 GENUS
-=======
+# Lamina Voloshina, 1972 GENUS
 
 #### Status
 ACCEPTED

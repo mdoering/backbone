@@ -1,8 +1,7 @@
-Phyllachora dalbergiae Niessl, 1881 SPECIES
-=======
+# Phyllachora viventis (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

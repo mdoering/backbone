@@ -1,5 +1,4 @@
-Chaetomelasmia komarnitzkyi Annal. SPECIES
-=======
+# Chaetomelasmia komarnitzkyi Annal. SPECIES
 
 #### Status
 ACCEPTED

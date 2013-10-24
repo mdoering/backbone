@@ -1,5 +1,4 @@
-Phoma pruni-domesticae Politis SPECIES
-=======
+# Phoma pruni-domesticae Politis SPECIES
 
 #### Status
 ACCEPTED

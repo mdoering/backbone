@@ -1,5 +1,4 @@
-Cladonia chilensis Räsänen SPECIES
-=======
+# Cladonia chilensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

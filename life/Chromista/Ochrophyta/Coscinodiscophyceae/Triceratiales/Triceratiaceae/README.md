@@ -1,5 +1,4 @@
-Triceratiaceae (Schütt) Lemmermann FAMILY
-=======
+# Triceratiaceae (Schütt) Lemmermann FAMILY
 
 #### Status
 ACCEPTED

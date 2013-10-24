@@ -1,14 +1,13 @@
-Tomentella crinalis var. umbrinospora (M.J. Larsen) Krieglst., 1999 VARIETY
-=======
+# Tomentella umbrinospora M.J. Larsen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 12: 46 (1999)
+Adapt. Antarct. Ecosys. 93: 61 (1963)
 
 #### Original name
 Tomentella umbrinospora M.J. Larsen, 1963

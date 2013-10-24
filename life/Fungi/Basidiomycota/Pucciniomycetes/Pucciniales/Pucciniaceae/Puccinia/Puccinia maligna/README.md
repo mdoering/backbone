@@ -1,5 +1,4 @@
-Puccinia maligna Dietel SPECIES
-=======
+# Puccinia maligna Dietel SPECIES
 
 #### Status
 ACCEPTED

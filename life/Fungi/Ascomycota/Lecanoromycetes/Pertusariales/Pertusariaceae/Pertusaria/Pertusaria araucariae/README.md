@@ -1,5 +1,4 @@
-Pertusaria araucariae Müll. Arg. SPECIES
-=======
+# Pertusaria araucariae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

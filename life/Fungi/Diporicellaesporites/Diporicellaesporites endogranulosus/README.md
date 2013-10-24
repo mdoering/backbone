@@ -1,5 +1,4 @@
-Diporicellaesporites endogranulosus Kemp SPECIES
-=======
+# Diporicellaesporites endogranulosus Kemp SPECIES
 
 #### Status
 ACCEPTED

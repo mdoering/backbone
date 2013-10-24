@@ -1,5 +1,4 @@
-Ombrophila translucens (W.L. White) Baral SPECIES
-=======
+# Ombrophila translucens (W.L. White) Baral SPECIES
 
 #### Status
 ACCEPTED

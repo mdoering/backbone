@@ -1,5 +1,4 @@
-Anguloplanina elliptica Sah, Maithy & Bhargava, 1977 SPECIES
-=======
+# Anguloplanina elliptica Sah, Maithy & Bhargava, 1977 SPECIES
 
 #### Status
 ACCEPTED

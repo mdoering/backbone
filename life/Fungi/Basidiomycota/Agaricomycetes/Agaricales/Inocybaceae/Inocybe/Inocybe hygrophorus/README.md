@@ -1,5 +1,4 @@
-Inocybe hygrophorus Kühner SPECIES
-=======
+# Inocybe hygrophorus Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta ahmadii Punith. SPECIES
-=======
+# Ascochyta ahmadii Punith. SPECIES
 
 #### Status
 ACCEPTED

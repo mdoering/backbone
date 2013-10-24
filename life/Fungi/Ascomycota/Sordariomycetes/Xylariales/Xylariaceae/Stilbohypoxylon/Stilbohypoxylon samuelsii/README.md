@@ -1,5 +1,4 @@
-Stilbohypoxylon samuelsii J.D. Rogers & Y.M. Ju, 1997 SPECIES
-=======
+# Stilbohypoxylon samuelsii J.D. Rogers & Y.M. Ju, 1997 SPECIES
 
 #### Status
 ACCEPTED

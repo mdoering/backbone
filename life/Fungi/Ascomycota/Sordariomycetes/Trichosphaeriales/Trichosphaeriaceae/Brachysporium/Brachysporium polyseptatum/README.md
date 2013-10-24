@@ -1,5 +1,4 @@
-Brachysporium polyseptatum (Preuss) S. Hughes SPECIES
-=======
+# Brachysporium polyseptatum (Preuss) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

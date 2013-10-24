@@ -1,5 +1,4 @@
-Polyporellus annularis (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus annularis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

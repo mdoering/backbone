@@ -1,5 +1,4 @@
-Urceolaria alpina Sommerf. SPECIES
-=======
+# Urceolaria alpina Sommerf. SPECIES
 
 #### Status
 ACCEPTED

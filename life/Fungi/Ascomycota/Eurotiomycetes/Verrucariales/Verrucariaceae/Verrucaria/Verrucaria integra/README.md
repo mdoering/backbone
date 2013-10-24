@@ -1,5 +1,4 @@
-Verrucaria integra var. integra VARIETY
-=======
+# Verrucaria integra SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria integra var. integra
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kellermaniites Babajan & Tasl. GENUS
-=======
+# Kellermaniites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

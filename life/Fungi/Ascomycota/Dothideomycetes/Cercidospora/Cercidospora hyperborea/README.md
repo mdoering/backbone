@@ -1,5 +1,4 @@
-Cercidospora hyperborea (P. Karst.) Kuntze SPECIES
-=======
+# Cercidospora hyperborea (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia multipartita (Müll. Arg.) Ahti SPECIES
-=======
+# Cladonia multipartita (Müll. Arg.) Ahti SPECIES
 
 #### Status
 ACCEPTED

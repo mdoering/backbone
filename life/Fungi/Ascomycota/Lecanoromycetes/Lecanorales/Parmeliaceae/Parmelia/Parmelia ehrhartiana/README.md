@@ -1,5 +1,4 @@
-Parmelia ehrhartiana Flot. SPECIES
-=======
+# Parmelia ehrhartiana Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus degluptus Brumm., 1967 SPECIES
-=======
+# Ascobolus degluptus Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED

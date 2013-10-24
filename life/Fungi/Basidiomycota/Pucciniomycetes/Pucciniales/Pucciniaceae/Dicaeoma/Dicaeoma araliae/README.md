@@ -1,5 +1,4 @@
-Dicaeoma araliae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma araliae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilonia pellicula Desm. SPECIES
-=======
+# Psilonia pellicula Desm. SPECIES
 
 #### Status
 ACCEPTED

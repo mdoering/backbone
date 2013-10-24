@@ -1,5 +1,4 @@
-Hymenogaster levisporus Massee & Rodway ex Rodway SPECIES
-=======
+# Hymenogaster levisporus Massee & Rodway ex Rodway SPECIES
 
 #### Status
 ACCEPTED

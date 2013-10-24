@@ -1,5 +1,4 @@
-Phaeangella heveae Massee SPECIES
-=======
+# Phaeangella heveae Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystospora J.B. Elliott GENUS
-=======
+# Cystospora J.B. Elliott GENUS
 
 #### Status
 ACCEPTED

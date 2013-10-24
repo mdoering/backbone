@@ -1,5 +1,4 @@
-Lecanora sinuosa Herk & Aptroot SPECIES
-=======
+# Lecanora sinuosa Herk & Aptroot SPECIES
 
 #### Status
 ACCEPTED

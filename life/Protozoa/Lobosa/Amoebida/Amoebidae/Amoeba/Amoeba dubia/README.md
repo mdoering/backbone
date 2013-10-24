@@ -1,5 +1,4 @@
-Amoeba dubia Sch. SPECIES
-=======
+# Amoeba dubia Sch. SPECIES
 
 #### Status
 ACCEPTED

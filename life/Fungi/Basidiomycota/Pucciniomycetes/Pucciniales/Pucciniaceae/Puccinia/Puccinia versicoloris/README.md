@@ -1,5 +1,4 @@
-Puccinia versicoloris Semadeni SPECIES
-=======
+# Puccinia versicoloris Semadeni SPECIES
 
 #### Status
 ACCEPTED

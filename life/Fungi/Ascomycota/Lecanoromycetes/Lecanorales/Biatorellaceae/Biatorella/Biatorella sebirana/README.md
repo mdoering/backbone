@@ -1,5 +1,4 @@
-Biatorella sebirana (Vain.) Zahlbr. SPECIES
-=======
+# Biatorella sebirana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

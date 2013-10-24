@@ -1,5 +1,4 @@
-Pertusaria dermatodes Nyl. SPECIES
-=======
+# Pertusaria dermatodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton regulare Sabour. SPECIES
-=======
+# Trichophyton regulare Sabour. SPECIES
 
 #### Status
 ACCEPTED

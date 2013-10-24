@@ -1,5 +1,4 @@
-Clavaria neguelensis Henn. SPECIES
-=======
+# Clavaria neguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

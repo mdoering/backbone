@@ -1,14 +1,13 @@
-Phomopsis minutula (Sacc.) Weindlm. SPECIES
-=======
+# Phoma minutula Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 195 (1966)
+Michelia 2(no. 6): 92 (1880)
 
 #### Original name
 Phoma minutula Sacc., 1880

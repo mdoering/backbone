@@ -1,5 +1,4 @@
-Stigmatomyces dacinus Thaxt. SPECIES
-=======
+# Stigmatomyces dacinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

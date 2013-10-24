@@ -1,5 +1,4 @@
-Lecanora glaucodeella Vain. SPECIES
-=======
+# Lecanora glaucodeella Vain. SPECIES
 
 #### Status
 ACCEPTED

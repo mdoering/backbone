@@ -1,5 +1,4 @@
-Synsphaeridium catenarium Playford in Playford & Dring SPECIES
-=======
+# Synsphaeridium catenarium Playford in Playford & Dring SPECIES
 
 #### Status
 ACCEPTED

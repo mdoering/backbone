@@ -1,5 +1,4 @@
-Peziza russellii Berk. & M.A. Curtis SPECIES
-=======
+# Peziza russellii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

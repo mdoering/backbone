@@ -1,5 +1,4 @@
-Metacystis striata Stokes, 1893 SPECIES
-=======
+# Metacystis striata Stokes, 1893 SPECIES
 
 #### Status
 ACCEPTED

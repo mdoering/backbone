@@ -1,5 +1,4 @@
-Pseudocercospora neodeightonii B. Sutton SPECIES
-=======
+# Pseudocercospora neodeightonii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

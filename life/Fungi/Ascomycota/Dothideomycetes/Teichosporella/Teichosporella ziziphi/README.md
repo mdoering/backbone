@@ -1,8 +1,7 @@
-Teichosporella zizyphi R. Rao & Modak SPECIES
-=======
+# Teichosporella ziziphi R. Rao & Modak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichosporella zizyphi R. Rao & Modak
+Teichosporella ziziphi R. Rao & Modak
 
 ### Remarks
 null

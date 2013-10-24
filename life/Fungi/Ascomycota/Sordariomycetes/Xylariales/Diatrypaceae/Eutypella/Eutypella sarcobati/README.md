@@ -1,5 +1,4 @@
-Eutypella sarcobati Ellis & Everh. SPECIES
-=======
+# Eutypella sarcobati Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupropolis GENUS
-=======
+# Eupropolis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius mucifluoides f. mucifluoides FORM
-=======
+# Cortinarius mucifluoides (Rob. Henry) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 66(3): 156 (1951)
 
 #### Original name
-Cortinarius mucifluoides f. mucifluoides
+Cortinarius elatior f. mucifluoides Rob. Henry
 
 ### Remarks
 null

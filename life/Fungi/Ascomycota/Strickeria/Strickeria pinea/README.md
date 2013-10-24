@@ -1,5 +1,4 @@
-Strickeria pinea (Sacc.) M.E. Barr SPECIES
-=======
+# Strickeria pinea (Sacc.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen globularis Retz. SPECIES
-=======
+# Lichen globularis Retz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina geastericola Hollós SPECIES
-=======
+# Diplodina geastericola Hollós SPECIES
 
 #### Status
 ACCEPTED

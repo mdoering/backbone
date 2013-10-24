@@ -1,5 +1,4 @@
-Graphiothecium parasiticum (Desm.) Sacc. SPECIES
-=======
+# Graphiothecium parasiticum (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

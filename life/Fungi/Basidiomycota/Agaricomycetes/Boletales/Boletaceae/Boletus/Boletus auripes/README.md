@@ -1,5 +1,4 @@
-Boletus auripes var. auripes VARIETY
-=======
+# Boletus auripes Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 50: 107 (1898)
 
 #### Original name
-Boletus auripes var. auripes
+Boletus auripes Peck
 
 ### Remarks
 null

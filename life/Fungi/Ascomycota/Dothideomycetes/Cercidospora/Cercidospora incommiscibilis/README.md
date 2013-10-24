@@ -1,5 +1,4 @@
-Cercidospora incommiscibilis (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora incommiscibilis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

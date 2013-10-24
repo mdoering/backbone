@@ -1,5 +1,4 @@
-Melanconium griseum Schwein. SPECIES
-=======
+# Melanconium griseum Schwein. SPECIES
 
 #### Status
 ACCEPTED

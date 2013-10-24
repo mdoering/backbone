@@ -1,5 +1,4 @@
-Symplassosphaeridium tumidulum Timofeev, 1959 ex Timofeev, 1969 SPECIES
-=======
+# Symplassosphaeridium tumidulum Timofeev, 1959 ex Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

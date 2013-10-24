@@ -1,8 +1,7 @@
-Thoracosphaera narena Kamptner, 1967 SPECIES
-=======
+# Thoracosphaera tuberosa Kamptner, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

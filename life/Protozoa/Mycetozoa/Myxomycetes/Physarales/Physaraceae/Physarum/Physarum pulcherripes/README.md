@@ -1,17 +1,16 @@
-Physarum pulcherripes var. sulcatipes M.L. Farr VARIETY
-=======
+# Physarum pulcherripes Peck, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 31(1-3): 111 (1979)
+Bulletin of the Buffalo Society of Natural History 1(2): 64 (1873)
 
 #### Original name
-Physarum pulcherripes var. sulcatipes M.L. Farr
+Physarum pulcherripes Peck, 1873
 
 ### Remarks
 null

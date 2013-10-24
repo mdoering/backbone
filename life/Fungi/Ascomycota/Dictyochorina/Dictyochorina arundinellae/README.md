@@ -1,5 +1,4 @@
-Dictyochorina arundinellae Chardón, 1932 SPECIES
-=======
+# Dictyochorina arundinellae Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

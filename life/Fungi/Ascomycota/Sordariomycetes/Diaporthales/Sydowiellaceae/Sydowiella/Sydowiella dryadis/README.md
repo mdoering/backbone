@@ -1,5 +1,4 @@
-Sydowiella dryadis Lar.N. Vassiljeva SPECIES
-=======
+# Sydowiella dryadis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

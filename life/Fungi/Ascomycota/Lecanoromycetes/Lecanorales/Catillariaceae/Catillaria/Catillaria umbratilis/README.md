@@ -1,5 +1,4 @@
-Catillaria umbratilis Jatta SPECIES
-=======
+# Catillaria umbratilis Jatta SPECIES
 
 #### Status
 ACCEPTED

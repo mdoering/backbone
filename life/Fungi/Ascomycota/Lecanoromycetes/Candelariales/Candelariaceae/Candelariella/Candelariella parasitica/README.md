@@ -1,5 +1,4 @@
-Candelariella parasitica C.W. Dodge SPECIES
-=======
+# Candelariella parasitica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

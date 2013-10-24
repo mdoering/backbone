@@ -1,5 +1,4 @@
-Chroococcidiopsis umbratilis I. Dor, N. Carl & I. Baldinger SPECIES
-=======
+# Chroococcidiopsis umbratilis I. Dor, N. Carl & I. Baldinger SPECIES
 
 #### Status
 ACCEPTED

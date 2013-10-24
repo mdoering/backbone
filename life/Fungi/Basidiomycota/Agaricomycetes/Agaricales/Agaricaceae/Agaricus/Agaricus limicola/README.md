@@ -1,5 +1,4 @@
-Agaricus limicola Peck SPECIES
-=======
+# Agaricus limicola Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria obscurata (Fr.) Motyka SPECIES
-=======
+# Urceolaria obscurata (Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

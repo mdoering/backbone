@@ -1,5 +1,4 @@
-Heterochaete albida Pat. SPECIES
-=======
+# Heterochaete albida Pat. SPECIES
 
 #### Status
 ACCEPTED

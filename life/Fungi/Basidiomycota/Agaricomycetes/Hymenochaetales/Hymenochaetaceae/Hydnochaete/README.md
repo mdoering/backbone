@@ -1,5 +1,4 @@
-Hydnochaete Bresadola, 1896 GENUS
-=======
+# Hydnochaete Bresadola, 1896 GENUS
 
 #### Status
 ACCEPTED

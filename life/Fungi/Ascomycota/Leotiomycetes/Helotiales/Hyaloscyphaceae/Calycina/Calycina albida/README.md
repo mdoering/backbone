@@ -1,5 +1,4 @@
-Calycina albida (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina albida (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

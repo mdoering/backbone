@@ -1,5 +1,4 @@
-Leotia ambigua Alb. & Schwein. SPECIES
-=======
+# Leotia ambigua Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

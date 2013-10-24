@@ -1,5 +1,4 @@
-Vermispora Deighton & Pirozynski, 1972 GENUS
-=======
+# Vermispora Deighton & Pirozynski, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota subornata Raithelh. SPECIES
-=======
+# Lepiota subornata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

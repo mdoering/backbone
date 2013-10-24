@@ -1,5 +1,4 @@
-Bordetella trematum Vandamme et al., 1996 SPECIES
-=======
+# Bordetella trematum Vandamme et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

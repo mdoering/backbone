@@ -1,5 +1,4 @@
-Clithris rhododendri Rehm SPECIES
-=======
+# Clithris rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

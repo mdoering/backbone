@@ -1,5 +1,4 @@
-Cothurnia vorticelloides Dumas, 1929 SPECIES
-=======
+# Cothurnia vorticelloides Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

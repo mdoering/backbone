@@ -1,5 +1,4 @@
-Tephrophana fibrosipes Métrod SPECIES
-=======
+# Tephrophana fibrosipes Métrod SPECIES
 
 #### Status
 ACCEPTED

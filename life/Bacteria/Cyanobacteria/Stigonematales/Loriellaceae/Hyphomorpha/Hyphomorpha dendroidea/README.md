@@ -1,5 +1,4 @@
-Hyphomorpha dendroidea (Frémy) K. Anagnostidis & J. Komárek SPECIES
-=======
+# Hyphomorpha dendroidea (Frémy) K. Anagnostidis & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

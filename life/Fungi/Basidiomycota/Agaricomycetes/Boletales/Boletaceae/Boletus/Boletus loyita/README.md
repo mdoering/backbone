@@ -1,5 +1,4 @@
-Boletus loyita E. Horak SPECIES
-=======
+# Boletus loyita E. Horak SPECIES
 
 #### Status
 ACCEPTED

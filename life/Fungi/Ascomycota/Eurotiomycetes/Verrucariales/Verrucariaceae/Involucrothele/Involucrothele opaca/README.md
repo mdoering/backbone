@@ -1,5 +1,4 @@
-Involucrothele opaca (J. Lahm) Servít SPECIES
-=======
+# Involucrothele opaca (J. Lahm) Servít SPECIES
 
 #### Status
 ACCEPTED

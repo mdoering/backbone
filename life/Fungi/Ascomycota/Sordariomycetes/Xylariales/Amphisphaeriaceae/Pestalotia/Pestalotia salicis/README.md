@@ -1,5 +1,4 @@
-Pestalotia salicis Sawada SPECIES
-=======
+# Pestalotia salicis Sawada SPECIES
 
 #### Status
 ACCEPTED

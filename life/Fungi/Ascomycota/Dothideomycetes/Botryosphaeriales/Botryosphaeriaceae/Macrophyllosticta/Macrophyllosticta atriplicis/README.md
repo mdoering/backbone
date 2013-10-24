@@ -1,5 +1,4 @@
-Macrophyllosticta atriplicis Dias & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta atriplicis Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ifecysta Jan du Chêne & Adediran, 1985 GENUS
-=======
+# Ifecysta Jan du Chêne & Adediran, 1985 GENUS
 
 #### Status
 ACCEPTED

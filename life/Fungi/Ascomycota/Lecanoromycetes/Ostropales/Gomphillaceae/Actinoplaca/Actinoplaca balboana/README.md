@@ -1,5 +1,4 @@
-Actinoplaca balboana Sambo SPECIES
-=======
+# Actinoplaca balboana Sambo SPECIES
 
 #### Status
 ACCEPTED

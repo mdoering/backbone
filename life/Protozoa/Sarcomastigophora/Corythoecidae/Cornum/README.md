@@ -1,5 +1,4 @@
-Cornum Schwartzapfel & Holdsworth, 1996 GENUS
-=======
+# Cornum Schwartzapfel & Holdsworth, 1996 GENUS
 
 #### Status
 ACCEPTED

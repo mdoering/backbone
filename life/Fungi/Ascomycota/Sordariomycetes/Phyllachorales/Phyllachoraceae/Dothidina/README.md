@@ -1,5 +1,4 @@
-Dothidina GENUS
-=======
+# Dothidina GENUS
 
 #### Status
 ACCEPTED

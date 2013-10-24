@@ -1,5 +1,4 @@
-Clitocybe difformis (Pers.) SPECIES
-=======
+# Clitocybe difformis (Pers.) SPECIES
 
 #### Status
 ACCEPTED

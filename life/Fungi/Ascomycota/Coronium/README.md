@@ -1,5 +1,4 @@
-Coronium Bonorden, 1864 GENUS
-=======
+# Coronium Bonorden, 1864 GENUS
 
 #### Status
 ACCEPTED

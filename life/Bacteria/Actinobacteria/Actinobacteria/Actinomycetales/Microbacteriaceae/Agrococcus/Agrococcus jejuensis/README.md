@@ -1,5 +1,4 @@
-Agrococcus jejuensis Lee, 2008 SPECIES
-=======
+# Agrococcus jejuensis Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

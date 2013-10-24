@@ -1,17 +1,16 @@
-Phomopsis caribaea W.T. Horne, 1922 SPECIES
-=======
+# Diaporthe citri F.A. Wolf, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Res. , Washington 33(7): 625 (1926)
 
 #### Original name
-Phomopsis caribaea W.T. Horne, 1922
+Diaporthe citri F.A. Wolf, 1926
 
 ### Remarks
 null

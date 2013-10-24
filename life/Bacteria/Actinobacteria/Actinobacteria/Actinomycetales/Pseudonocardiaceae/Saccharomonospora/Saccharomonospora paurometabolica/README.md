@@ -1,5 +1,4 @@
-Saccharomonospora paurometabolica Li et al., 2003 SPECIES
-=======
+# Saccharomonospora paurometabolica Li et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

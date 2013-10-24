@@ -1,5 +1,4 @@
-Teichospora antarctica Speg. SPECIES
-=======
+# Teichospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

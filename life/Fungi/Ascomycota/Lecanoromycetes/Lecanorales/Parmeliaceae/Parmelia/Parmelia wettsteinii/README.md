@@ -1,5 +1,4 @@
-Parmelia wettsteinii Zahlbr. SPECIES
-=======
+# Parmelia wettsteinii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

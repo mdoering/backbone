@@ -1,5 +1,4 @@
-Pertusaria polysticta Vain. SPECIES
-=======
+# Pertusaria polysticta Vain. SPECIES
 
 #### Status
 ACCEPTED

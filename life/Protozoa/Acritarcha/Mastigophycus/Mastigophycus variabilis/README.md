@@ -1,5 +1,4 @@
-Mastigophycus variabilis Wang Fuxing & Zhai Yongyun, 1982 SPECIES
-=======
+# Mastigophycus variabilis Wang Fuxing & Zhai Yongyun, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphacelotheca arthraxonis (Pat.) Zundel, 1953 SPECIES
-=======
+# Sporisorium arthraxonis (Pat.) L. Guo, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosystema 2: 221 (1989)
 
 #### Original name
-null
+Ustilago arthraxonis Pat., 1897
 
 ### Remarks
 null

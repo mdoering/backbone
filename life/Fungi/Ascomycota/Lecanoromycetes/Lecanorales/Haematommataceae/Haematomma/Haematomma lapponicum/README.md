@@ -1,5 +1,4 @@
-Haematomma lapponicum SPECIES
-=======
+# Haematomma lapponicum SPECIES
 
 #### Status
 ACCEPTED

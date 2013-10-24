@@ -1,5 +1,4 @@
-Lichen globuliferus (Turner) Sm. SPECIES
-=======
+# Lichen globuliferus (Turner) Sm. SPECIES
 
 #### Status
 ACCEPTED

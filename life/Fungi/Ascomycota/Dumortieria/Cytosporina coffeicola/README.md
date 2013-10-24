@@ -1,5 +1,4 @@
-Cytosporina coffeicola Av.-Saccá SPECIES
-=======
+# Cytosporina coffeicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium belauense A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
-=======
+# Amphidinium belauense A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
 
 #### Status
 ACCEPTED

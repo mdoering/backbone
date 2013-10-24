@@ -1,5 +1,4 @@
-Didymella viridimontana M.E. Barr SPECIES
-=======
+# Didymella viridimontana M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

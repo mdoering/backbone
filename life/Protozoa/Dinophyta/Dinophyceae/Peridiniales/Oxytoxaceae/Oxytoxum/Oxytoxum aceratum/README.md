@@ -1,5 +1,4 @@
-Oxytoxum aceratum Rampi SPECIES
-=======
+# Oxytoxum aceratum Rampi SPECIES
 
 #### Status
 ACCEPTED

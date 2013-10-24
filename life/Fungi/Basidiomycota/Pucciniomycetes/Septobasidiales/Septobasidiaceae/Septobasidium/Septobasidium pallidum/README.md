@@ -1,5 +1,4 @@
-Septobasidium pallidum Couch SPECIES
-=======
+# Septobasidium pallidum Couch SPECIES
 
 #### Status
 ACCEPTED

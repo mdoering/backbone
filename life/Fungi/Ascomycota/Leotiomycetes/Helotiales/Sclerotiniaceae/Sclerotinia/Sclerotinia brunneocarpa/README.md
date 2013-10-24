@@ -1,5 +1,4 @@
-Sclerotinia brunneocarpa F.T. Benn. SPECIES
-=======
+# Sclerotinia brunneocarpa F.T. Benn. SPECIES
 
 #### Status
 ACCEPTED

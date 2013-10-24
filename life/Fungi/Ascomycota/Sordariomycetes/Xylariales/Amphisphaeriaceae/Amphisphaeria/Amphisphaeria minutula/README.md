@@ -1,5 +1,4 @@
-Amphisphaeria minutula I. Hino & Katum. SPECIES
-=======
+# Amphisphaeria minutula I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

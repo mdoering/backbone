@@ -1,14 +1,13 @@
-Daedalea sulphurea Quél., 1894 SPECIES
-=======
+# Sulphurina sulphurea (Quél.) Pilát, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Assoc. Franç. Avancem. Sci. , Congr. 22(2): 487 (1894)
+null
 
 #### Original name
 Daedalea sulphurea Quél., 1894

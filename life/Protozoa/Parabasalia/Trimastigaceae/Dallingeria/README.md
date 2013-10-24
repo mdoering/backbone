@@ -1,5 +1,4 @@
-Dallingeria W.S.Kent GENUS
-=======
+# Dallingeria W.S.Kent GENUS
 
 #### Status
 ACCEPTED

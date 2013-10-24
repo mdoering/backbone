@@ -1,5 +1,4 @@
-Involutina recta Brady, 1870 SPECIES
-=======
+# Involutina recta Brady, 1870 SPECIES
 
 #### Status
 ACCEPTED

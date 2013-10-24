@@ -1,5 +1,4 @@
-Galera umbrina Henn. SPECIES
-=======
+# Galera umbrina Henn. SPECIES
 
 #### Status
 ACCEPTED

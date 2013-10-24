@@ -1,5 +1,4 @@
-Chaetothyrium straussiae J.M. Mend. SPECIES
-=======
+# Chaetothyrium straussiae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

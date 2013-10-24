@@ -1,5 +1,4 @@
-Microdiplodia mimuli Fairm. SPECIES
-=======
+# Microdiplodia mimuli Fairm. SPECIES
 
 #### Status
 ACCEPTED

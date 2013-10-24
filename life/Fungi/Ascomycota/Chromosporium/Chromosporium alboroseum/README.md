@@ -1,5 +1,4 @@
-Chromosporium alboroseum P. Karst. SPECIES
-=======
+# Chromosporium alboroseum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

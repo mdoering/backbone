@@ -1,11 +1,10 @@
-Leangium trevelyani Grev., 1824 SPECIES
-=======
+# Diderma trevelyani (Grev.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

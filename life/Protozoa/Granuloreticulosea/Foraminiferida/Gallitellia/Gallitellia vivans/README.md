@@ -1,5 +1,4 @@
-Gallitellia vivans (Cushman) SPECIES
-=======
+# Gallitellia vivans (Cushman) SPECIES
 
 #### Status
 ACCEPTED

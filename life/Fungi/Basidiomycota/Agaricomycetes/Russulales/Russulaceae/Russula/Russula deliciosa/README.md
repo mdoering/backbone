@@ -1,5 +1,4 @@
-Russula deliciosa Schroeter SPECIES
-=======
+# Russula deliciosa Schroeter SPECIES
 
 #### Status
 ACCEPTED

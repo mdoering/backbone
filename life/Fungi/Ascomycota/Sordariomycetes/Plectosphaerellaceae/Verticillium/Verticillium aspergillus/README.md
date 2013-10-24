@@ -1,5 +1,4 @@
-Verticillium aspergillus Berk. & Broome SPECIES
-=======
+# Verticillium aspergillus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

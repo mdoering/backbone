@@ -1,5 +1,4 @@
-Lasiodiplodia parva A.J.L. Phillips, A. Alves & Crous SPECIES
-=======
+# Lasiodiplodia parva A.J.L. Phillips, A. Alves & Crous SPECIES
 
 #### Status
 ACCEPTED

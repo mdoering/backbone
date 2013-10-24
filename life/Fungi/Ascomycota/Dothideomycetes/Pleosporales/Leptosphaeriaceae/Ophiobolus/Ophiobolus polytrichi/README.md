@@ -1,5 +1,4 @@
-Ophiobolus polytrichi Gucevic SPECIES
-=======
+# Ophiobolus polytrichi Gucevic SPECIES
 
 #### Status
 ACCEPTED

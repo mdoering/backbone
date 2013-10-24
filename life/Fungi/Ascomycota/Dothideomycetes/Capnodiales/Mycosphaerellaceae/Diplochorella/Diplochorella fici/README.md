@@ -1,5 +1,4 @@
-Diplochorella fici Hansf. SPECIES
-=======
+# Diplochorella fici Hansf. SPECIES
 
 #### Status
 ACCEPTED

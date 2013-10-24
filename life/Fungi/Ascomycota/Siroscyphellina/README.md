@@ -1,5 +1,4 @@
-Siroscyphellina Petr. GENUS
-=======
+# Siroscyphellina Petr. GENUS
 
 #### Status
 ACCEPTED

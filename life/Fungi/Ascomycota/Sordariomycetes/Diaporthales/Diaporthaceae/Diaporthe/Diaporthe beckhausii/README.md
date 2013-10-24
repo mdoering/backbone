@@ -1,14 +1,13 @@
-Valsa beckhausii (Nitschke) Cooke SPECIES
-=======
+# Diaporthe beckhausii Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 2: 295 (1870)
 
 #### Original name
 Diaporthe beckhausii Nitschke, 1870

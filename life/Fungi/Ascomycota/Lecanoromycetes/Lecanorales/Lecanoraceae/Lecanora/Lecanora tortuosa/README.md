@@ -1,5 +1,4 @@
-Lecanora tortuosa var. tortuosa VARIETY
-=======
+# Lecanora tortuosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora tortuosa var. tortuosa
+Lecanora tortuosa H. Magn.
 
 ### Remarks
 null

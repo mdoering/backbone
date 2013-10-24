@@ -1,5 +1,4 @@
-Kionochaeta australiensis Goh & K.D. Hyde SPECIES
-=======
+# Kionochaeta australiensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

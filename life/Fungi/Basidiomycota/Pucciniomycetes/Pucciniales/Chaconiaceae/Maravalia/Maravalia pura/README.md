@@ -1,5 +1,4 @@
-Maravalia pura (Syd.) Mains SPECIES
-=======
+# Maravalia pura (Syd.) Mains SPECIES
 
 #### Status
 ACCEPTED

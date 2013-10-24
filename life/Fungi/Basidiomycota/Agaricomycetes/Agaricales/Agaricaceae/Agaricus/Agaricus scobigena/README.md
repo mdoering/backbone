@@ -1,5 +1,4 @@
-Agaricus scobigena Pers. SPECIES
-=======
+# Agaricus scobigena Pers. SPECIES
 
 #### Status
 ACCEPTED

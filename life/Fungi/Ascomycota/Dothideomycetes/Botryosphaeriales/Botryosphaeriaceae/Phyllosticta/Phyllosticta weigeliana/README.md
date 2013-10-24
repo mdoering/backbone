@@ -1,5 +1,4 @@
-Phyllosticta weigeliana Bubák & Kabát SPECIES
-=======
+# Phyllosticta weigeliana Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

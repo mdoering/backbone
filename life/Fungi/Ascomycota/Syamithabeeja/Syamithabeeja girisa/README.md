@@ -1,5 +1,4 @@
-Syamithabeeja girisa Subram. & Natarajan, 1976 SPECIES
-=======
+# Syamithabeeja girisa Subram. & Natarajan, 1976 SPECIES
 
 #### Status
 ACCEPTED

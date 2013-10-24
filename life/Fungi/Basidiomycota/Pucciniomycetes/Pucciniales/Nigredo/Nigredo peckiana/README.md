@@ -1,5 +1,4 @@
-Nigredo peckiana (Farl.) Arthur SPECIES
-=======
+# Nigredo peckiana (Farl.) Arthur SPECIES
 
 #### Status
 ACCEPTED

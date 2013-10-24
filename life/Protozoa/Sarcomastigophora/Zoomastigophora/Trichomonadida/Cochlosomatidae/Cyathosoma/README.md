@@ -1,5 +1,4 @@
-Cyathosoma Tyzzer GENUS
-=======
+# Cyathosoma Tyzzer GENUS
 
 #### Status
 ACCEPTED

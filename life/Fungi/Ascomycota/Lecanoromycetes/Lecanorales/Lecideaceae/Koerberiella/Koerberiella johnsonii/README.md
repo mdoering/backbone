@@ -1,5 +1,4 @@
-Koerberiella johnsonii Motyka SPECIES
-=======
+# Koerberiella johnsonii Motyka SPECIES
 
 #### Status
 ACCEPTED

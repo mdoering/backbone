@@ -1,5 +1,4 @@
-Irene acervata (Ellis & Everh.) Hansf. SPECIES
-=======
+# Irene acervata (Ellis & Everh.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

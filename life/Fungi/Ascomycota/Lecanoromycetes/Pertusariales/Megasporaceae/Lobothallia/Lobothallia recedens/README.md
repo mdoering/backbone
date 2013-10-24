@@ -1,17 +1,16 @@
-Aspicilia bohemica var. bohemica VARIETY
-=======
+# Lobothallia recedens (Taylor) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 162 (1855)
+null
 
 #### Original name
-Aspicilia bohemica var. bohemica
+null
 
 ### Remarks
 null

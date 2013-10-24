@@ -1,5 +1,4 @@
-Astrolonche Haeckel, 1881 GENUS
-=======
+# Astrolonche Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

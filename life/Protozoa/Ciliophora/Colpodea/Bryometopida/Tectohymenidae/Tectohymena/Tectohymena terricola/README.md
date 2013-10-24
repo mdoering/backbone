@@ -1,5 +1,4 @@
-Tectohymena terricola Foissner, 1993 SPECIES
-=======
+# Tectohymena terricola Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

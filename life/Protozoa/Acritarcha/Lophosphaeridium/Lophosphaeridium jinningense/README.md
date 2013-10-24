@@ -1,5 +1,4 @@
-Lophosphaeridium jinningense Tian Chuanrong, 1983 SPECIES
-=======
+# Lophosphaeridium jinningense Tian Chuanrong, 1983 SPECIES
 
 #### Status
 ACCEPTED

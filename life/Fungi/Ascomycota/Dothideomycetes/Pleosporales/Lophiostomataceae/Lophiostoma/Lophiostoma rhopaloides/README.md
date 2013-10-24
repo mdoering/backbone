@@ -1,5 +1,4 @@
-Lophiostoma rhopaloides (Sacc.) Sacc. SPECIES
-=======
+# Lophiostoma rhopaloides (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

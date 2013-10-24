@@ -1,17 +1,16 @@
-Farysizyma itapuensis Landell & P. Valente SPECIES
-=======
+# Farysizyma itapuaensis Landell & P. Valente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Inácio, Landell, Valente, Wang, Wang, Yang, Manson, Lachance, Rosa & Fonseca, FEMS Yeast Res. 8(3): 506 (2008)
 
 #### Original name
-Farysizyma itapuensis Landell & P. Valente
+Farysizyma itapuaensis Landell & P. Valente
 
 ### Remarks
 null

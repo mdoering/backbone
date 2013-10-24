@@ -1,5 +1,4 @@
-Mycena alnicola var. alnicola VARIETY
-=======
+# Mycena alnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 23 (1941)
 
 #### Original name
-Mycena alnicola var. alnicola
+Mycena alnicola A.H. Sm.
 
 ### Remarks
 null

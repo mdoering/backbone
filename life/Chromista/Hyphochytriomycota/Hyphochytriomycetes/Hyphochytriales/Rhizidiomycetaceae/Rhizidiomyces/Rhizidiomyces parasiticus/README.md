@@ -1,5 +1,4 @@
-Rhizidiomyces parasiticus Karling, 1964 SPECIES
-=======
+# Rhizidiomyces parasiticus Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

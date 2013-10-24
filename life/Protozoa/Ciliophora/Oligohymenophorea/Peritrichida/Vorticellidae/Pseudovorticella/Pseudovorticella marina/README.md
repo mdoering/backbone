@@ -1,5 +1,4 @@
-Pseudovorticella marina SPECIES
-=======
+# Pseudovorticella marina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium fuckelii Gjaerum, 1967 SPECIES
-=======
+# Arthrinium fuckelii Gjaerum, 1967 SPECIES
 
 #### Status
 ACCEPTED

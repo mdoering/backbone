@@ -1,5 +1,4 @@
-Gnomonia pleurostyla Auersw. SPECIES
-=======
+# Gnomonia pleurostyla Auersw. SPECIES
 
 #### Status
 ACCEPTED

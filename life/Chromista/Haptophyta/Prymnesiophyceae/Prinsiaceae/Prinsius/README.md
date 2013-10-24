@@ -1,5 +1,4 @@
-Prinsius W.Hay & Mohler, 1967 GENUS
-=======
+# Prinsius W.Hay & Mohler, 1967 GENUS
 
 #### Status
 ACCEPTED

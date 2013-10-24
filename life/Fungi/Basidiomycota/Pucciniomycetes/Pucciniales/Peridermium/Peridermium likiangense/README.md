@@ -1,17 +1,16 @@
-Peridermium likiangensis B. Li SPECIES
-=======
+# Peridermium likiangense B. Li, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Mycol. Sin. , Suppl. 1: 162 (1987)
 
 #### Original name
-Peridermium likiangensis B. Li
+Peridermium likiangense B. Li, 1987
 
 ### Remarks
 null

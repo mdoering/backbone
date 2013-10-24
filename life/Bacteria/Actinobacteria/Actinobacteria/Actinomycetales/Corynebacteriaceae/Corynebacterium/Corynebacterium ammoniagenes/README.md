@@ -1,8 +1,7 @@
-Brevibacterium ammoniagenes (Cooke and Keith, 1927) Breed, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium ammoniagenes (Cooke & Keith, 1927) Collins, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Carinatosphaeridium unicum Eiserhardt, 1984 SPECIES
-=======
+# Carinatosphaeridium unicum Eiserhardt, 1984 SPECIES
 
 #### Status
 ACCEPTED

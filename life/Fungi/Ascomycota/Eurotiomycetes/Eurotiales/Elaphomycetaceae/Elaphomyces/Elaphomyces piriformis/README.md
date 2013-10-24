@@ -1,5 +1,4 @@
-Elaphomyces piriformis Vittad. SPECIES
-=======
+# Elaphomyces piriformis Vittad. SPECIES
 
 #### Status
 ACCEPTED

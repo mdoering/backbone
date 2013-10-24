@@ -1,5 +1,4 @@
-Phaeospora protoblasteniae Alstrup & Olech SPECIES
-=======
+# Phaeospora protoblasteniae Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

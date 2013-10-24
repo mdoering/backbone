@@ -1,5 +1,4 @@
-Psathyra atomacea Murrill SPECIES
-=======
+# Psathyra atomacea Murrill SPECIES
 
 #### Status
 ACCEPTED

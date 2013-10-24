@@ -1,5 +1,4 @@
-Anoplophrya variabilis SPECIES
-=======
+# Anoplophrya variabilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria composita Sowerby SPECIES
-=======
+# Sphaeria composita Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ionaspis aigneri Zahlbr. SPECIES
-=======
+# Ionaspis aigneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

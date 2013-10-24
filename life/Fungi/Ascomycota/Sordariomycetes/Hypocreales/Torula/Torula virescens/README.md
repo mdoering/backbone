@@ -1,5 +1,4 @@
-Torula virescens (Link) Sacc. SPECIES
-=======
+# Torula virescens (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

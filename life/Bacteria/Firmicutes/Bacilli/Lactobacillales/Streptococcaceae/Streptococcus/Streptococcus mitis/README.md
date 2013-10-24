@@ -1,5 +1,4 @@
-Streptococcus mitis Andrewes and Horder, 1906 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus mitis Andrewes and Horder, 1906 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

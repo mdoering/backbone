@@ -1,5 +1,4 @@
-Septoria solani-nigri Scalia SPECIES
-=======
+# Septoria solani-nigri Scalia SPECIES
 
 #### Status
 ACCEPTED

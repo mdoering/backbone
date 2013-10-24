@@ -1,5 +1,4 @@
-Urosporellopsis GENUS
-=======
+# Urosporellopsis GENUS
 
 #### Status
 ACCEPTED

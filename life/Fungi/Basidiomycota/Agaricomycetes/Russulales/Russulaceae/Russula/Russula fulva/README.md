@@ -1,5 +1,4 @@
-Russula fulva J. Blum SPECIES
-=======
+# Russula fulva J. Blum SPECIES
 
 #### Status
 ACCEPTED

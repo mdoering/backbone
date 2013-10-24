@@ -1,5 +1,4 @@
-Phyllosticta glumarum-sorghi Henn. SPECIES
-=======
+# Phyllosticta glumarum-sorghi Henn. SPECIES
 
 #### Status
 ACCEPTED

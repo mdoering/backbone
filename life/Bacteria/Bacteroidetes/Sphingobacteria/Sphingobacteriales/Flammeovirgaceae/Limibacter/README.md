@@ -1,5 +1,4 @@
-Limibacter Yoon, Matsuo, Kasai & Yokota, 2008 GENUS
-=======
+# Limibacter Yoon, Matsuo, Kasai & Yokota, 2008 GENUS
 
 #### Status
 ACCEPTED

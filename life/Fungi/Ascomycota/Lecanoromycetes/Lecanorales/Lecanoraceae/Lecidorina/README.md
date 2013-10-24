@@ -1,5 +1,4 @@
-Lecidorina GENUS
-=======
+# Lecidorina GENUS
 
 #### Status
 ACCEPTED

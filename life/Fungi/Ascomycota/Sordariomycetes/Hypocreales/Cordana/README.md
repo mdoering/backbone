@@ -1,17 +1,16 @@
-Preussiaster Kuntze GENUS
-=======
+# Cordana Preuss GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 849, 867 (1891)
+Linnaea 24: 129 (1851)
 
 #### Original name
-Preussiaster Kuntze
+Cordana Preuss
 
 ### Remarks
 null

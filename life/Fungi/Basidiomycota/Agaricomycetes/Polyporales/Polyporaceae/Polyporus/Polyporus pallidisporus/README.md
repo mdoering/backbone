@@ -1,5 +1,4 @@
-Polyporus pallidisporus Torrend SPECIES
-=======
+# Polyporus pallidisporus Torrend SPECIES
 
 #### Status
 ACCEPTED

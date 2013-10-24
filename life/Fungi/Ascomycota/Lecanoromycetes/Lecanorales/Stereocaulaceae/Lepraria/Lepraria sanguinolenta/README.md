@@ -1,5 +1,4 @@
-Lepraria sanguinolenta Saint-Amans SPECIES
-=======
+# Lepraria sanguinolenta Saint-Amans SPECIES
 
 #### Status
 ACCEPTED

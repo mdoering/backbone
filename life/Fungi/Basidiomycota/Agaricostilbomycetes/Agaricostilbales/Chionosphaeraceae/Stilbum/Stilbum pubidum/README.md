@@ -1,5 +1,4 @@
-Stilbum pubidum Tode SPECIES
-=======
+# Stilbum pubidum Tode SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton farinulentum Sabour. SPECIES
-=======
+# Trichophyton farinulentum Sabour. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trachelomonas urceolata A. Stokes SPECIES
-=======
+# Strombomonas urceolata (A. Stokes) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

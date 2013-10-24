@@ -1,5 +1,4 @@
-Septoria clematidis-rectae Sacc. SPECIES
-=======
+# Septoria clematidis-rectae Sacc. SPECIES
 
 #### Status
 ACCEPTED

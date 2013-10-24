@@ -1,5 +1,4 @@
-Algibacter mikhailovii Nedashkovskaya, Vancanneyt, Kim, Hoste & Bae, 2007 SPECIES
-=======
+# Algibacter mikhailovii Nedashkovskaya, Vancanneyt, Kim, Hoste & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

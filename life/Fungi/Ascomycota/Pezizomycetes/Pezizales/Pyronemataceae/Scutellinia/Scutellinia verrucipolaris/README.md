@@ -1,5 +1,4 @@
-Scutellinia verrucipolaris Denison SPECIES
-=======
+# Scutellinia verrucipolaris Denison SPECIES
 
 #### Status
 ACCEPTED

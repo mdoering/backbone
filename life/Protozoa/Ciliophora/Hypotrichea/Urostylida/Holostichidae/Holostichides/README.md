@@ -1,5 +1,4 @@
-Holostichides Foissner, 1987 GENUS
-=======
+# Holostichides Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

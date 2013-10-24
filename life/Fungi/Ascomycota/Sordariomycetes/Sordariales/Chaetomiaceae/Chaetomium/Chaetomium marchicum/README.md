@@ -1,5 +1,4 @@
-Chaetomium marchicum J. Lindau SPECIES
-=======
+# Chaetomium marchicum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

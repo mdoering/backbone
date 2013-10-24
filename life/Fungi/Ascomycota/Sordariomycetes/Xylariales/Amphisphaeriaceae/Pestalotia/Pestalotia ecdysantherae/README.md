@@ -1,5 +1,4 @@
-Pestalotia ecdysantherae Sawada SPECIES
-=======
+# Pestalotia ecdysantherae Sawada SPECIES
 
 #### Status
 ACCEPTED

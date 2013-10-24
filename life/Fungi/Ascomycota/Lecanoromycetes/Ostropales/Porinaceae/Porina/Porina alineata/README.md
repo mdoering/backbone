@@ -1,5 +1,4 @@
-Porina alineata Malme SPECIES
-=======
+# Porina alineata Malme SPECIES
 
 #### Status
 ACCEPTED

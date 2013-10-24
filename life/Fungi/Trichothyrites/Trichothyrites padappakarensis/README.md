@@ -1,5 +1,4 @@
-Trichothyrites padappakarensis (R.K. Jain & R.C. Gupta) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites padappakarensis (R.K. Jain & R.C. Gupta) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

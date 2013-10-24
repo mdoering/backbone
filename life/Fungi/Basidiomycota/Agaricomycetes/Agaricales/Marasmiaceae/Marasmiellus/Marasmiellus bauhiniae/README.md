@@ -1,5 +1,4 @@
-Marasmiellus bauhiniae Singer SPECIES
-=======
+# Marasmiellus bauhiniae Singer SPECIES
 
 #### Status
 ACCEPTED

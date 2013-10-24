@@ -1,14 +1,13 @@
-Lasiosphaeria caesia (Carmich. ex Curr.) Cooke SPECIES
-=======
+# Trichosphaeria caesia (Carmich. ex Curr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 453 (1882)
 
 #### Original name
 Sphaeria caesia Carmich. ex Curr., 1859

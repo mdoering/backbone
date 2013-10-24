@@ -1,14 +1,13 @@
-Catillaria mirabilis Vezda SPECIES
-=======
+# Bacidina mirabilis (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Folia geobot. phytotax. 15(1): 80 (1980)
+Folia geobot. phytotax. 25(4): 432 (1991)
 
 #### Original name
 Catillaria mirabilis Vezda

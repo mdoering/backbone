@@ -1,5 +1,4 @@
-Streptomyces sodiiphilus Li et al., 2005 SPECIES
-=======
+# Streptomyces sodiiphilus Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

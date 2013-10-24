@@ -1,5 +1,4 @@
-Uredo pitangae Speg. SPECIES
-=======
+# Uredo pitangae Speg. SPECIES
 
 #### Status
 ACCEPTED

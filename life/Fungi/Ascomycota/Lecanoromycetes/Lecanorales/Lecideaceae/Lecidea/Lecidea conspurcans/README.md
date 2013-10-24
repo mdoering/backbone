@@ -1,5 +1,4 @@
-Lecidea conspurcans Mont. SPECIES
-=======
+# Lecidea conspurcans Mont. SPECIES
 
 #### Status
 ACCEPTED

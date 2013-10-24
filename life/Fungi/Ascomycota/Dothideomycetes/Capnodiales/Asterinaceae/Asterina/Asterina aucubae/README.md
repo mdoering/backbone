@@ -1,5 +1,4 @@
-Asterina aucubae Henn. SPECIES
-=======
+# Asterina aucubae Henn. SPECIES
 
 #### Status
 ACCEPTED

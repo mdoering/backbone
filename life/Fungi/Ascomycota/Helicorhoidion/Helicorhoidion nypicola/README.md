@@ -1,5 +1,4 @@
-Helicorhoidion nypicola K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Helicorhoidion nypicola K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia curta Sacc. SPECIES
-=======
+# Pestalotia curta Sacc. SPECIES
 
 #### Status
 ACCEPTED

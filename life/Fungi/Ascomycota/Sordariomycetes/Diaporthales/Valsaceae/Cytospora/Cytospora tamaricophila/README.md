@@ -1,5 +1,4 @@
-Cytospora tamaricophila Maire & Sacc. SPECIES
-=======
+# Cytospora tamaricophila Maire & Sacc. SPECIES
 
 #### Status
 ACCEPTED

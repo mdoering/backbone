@@ -1,5 +1,4 @@
-Heraldoa sideroxyli Bat. & Peres SPECIES
-=======
+# Heraldoa sideroxyli Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

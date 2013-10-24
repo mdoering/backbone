@@ -1,5 +1,4 @@
-Fomes pediformis Fr. SPECIES
-=======
+# Fomes pediformis Fr. SPECIES
 
 #### Status
 ACCEPTED

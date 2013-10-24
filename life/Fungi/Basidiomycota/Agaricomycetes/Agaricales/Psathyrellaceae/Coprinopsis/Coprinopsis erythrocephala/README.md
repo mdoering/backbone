@@ -1,5 +1,4 @@
-Coprinopsis erythrocephala (Lév.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis erythrocephala (Lév.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

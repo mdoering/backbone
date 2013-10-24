@@ -1,5 +1,4 @@
-Diaporthe dircae Ellis & Everh. SPECIES
-=======
+# Diaporthe dircae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

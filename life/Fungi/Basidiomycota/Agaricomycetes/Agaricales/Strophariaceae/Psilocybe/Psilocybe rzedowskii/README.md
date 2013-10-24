@@ -1,5 +1,4 @@
-Psilocybe rzedowskii Guzmán SPECIES
-=======
+# Psilocybe rzedowskii Guzmán SPECIES
 
 #### Status
 ACCEPTED

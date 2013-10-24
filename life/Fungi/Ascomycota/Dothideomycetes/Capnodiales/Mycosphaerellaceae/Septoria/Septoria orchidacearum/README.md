@@ -1,5 +1,4 @@
-Septoria orchidacearum Westend. SPECIES
-=======
+# Septoria orchidacearum Westend. SPECIES
 
 #### Status
 ACCEPTED

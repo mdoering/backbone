@@ -1,5 +1,4 @@
-Hirsutella darwinii H.C. Evans & Samson SPECIES
-=======
+# Hirsutella darwinii H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

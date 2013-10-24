@@ -1,5 +1,4 @@
-Rhabdospora jaapiana Henn. SPECIES
-=======
+# Rhabdospora jaapiana Henn. SPECIES
 
 #### Status
 ACCEPTED

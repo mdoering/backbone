@@ -1,5 +1,4 @@
-Lithodesmium undulatus Ehrenberg SPECIES
-=======
+# Lithodesmium undulatus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

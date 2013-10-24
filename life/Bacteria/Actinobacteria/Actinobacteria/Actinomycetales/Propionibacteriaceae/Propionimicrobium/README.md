@@ -1,5 +1,4 @@
-Propionimicrobium Stackebrandt et al., 2002 GENUS
-=======
+# Propionimicrobium Stackebrandt et al., 2002 GENUS
 
 #### Status
 ACCEPTED

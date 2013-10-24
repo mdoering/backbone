@@ -1,5 +1,4 @@
-Rhynchophoma alni Tognini SPECIES
-=======
+# Rhynchophoma alni Tognini SPECIES
 
 #### Status
 ACCEPTED

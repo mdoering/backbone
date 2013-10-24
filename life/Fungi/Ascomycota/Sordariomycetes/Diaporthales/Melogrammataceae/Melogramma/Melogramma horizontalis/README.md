@@ -1,5 +1,4 @@
-Melogramma horizontalis Berk. & M.A. Curtis SPECIES
-=======
+# Melogramma horizontalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

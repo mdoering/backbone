@@ -1,5 +1,4 @@
-Aecidium gynurae-cernuae Vienn.-Bourg. SPECIES
-=======
+# Aecidium gynurae-cernuae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

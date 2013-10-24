@@ -1,5 +1,4 @@
-Uredo eupatoriorum Mayor SPECIES
-=======
+# Uredo eupatoriorum Mayor SPECIES
 
 #### Status
 ACCEPTED

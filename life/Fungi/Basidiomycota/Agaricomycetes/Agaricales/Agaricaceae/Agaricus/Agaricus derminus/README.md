@@ -1,5 +1,4 @@
-Agaricus derminus Lév. SPECIES
-=======
+# Agaricus derminus Lév. SPECIES
 
 #### Status
 ACCEPTED

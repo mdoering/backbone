@@ -1,5 +1,4 @@
-Agaricus siccipes P. Karst. SPECIES
-=======
+# Agaricus siccipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

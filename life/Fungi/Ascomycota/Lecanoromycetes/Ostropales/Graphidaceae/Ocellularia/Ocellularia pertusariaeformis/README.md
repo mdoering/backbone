@@ -1,5 +1,4 @@
-Ocellularia pertusariaeformis (Leight.) Zahlbr. SPECIES
-=======
+# Ocellularia pertusariaeformis (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium chelones W.R. Gerard SPECIES
-=======
+# Aecidium chelones W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

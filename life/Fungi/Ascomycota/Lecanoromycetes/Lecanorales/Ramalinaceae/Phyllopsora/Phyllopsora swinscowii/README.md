@@ -1,5 +1,4 @@
-Phyllopsora swinscowii Timdal & Krog SPECIES
-=======
+# Phyllopsora swinscowii Timdal & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype annulata Theiss. SPECIES
-=======
+# Diatrype annulata Theiss. SPECIES
 
 #### Status
 ACCEPTED

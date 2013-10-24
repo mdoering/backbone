@@ -1,5 +1,4 @@
-Gloeosporidina cercocarpi (Ellis & Everh.) B. Sutton & Pollack SPECIES
-=======
+# Gloeosporidina cercocarpi (Ellis & Everh.) B. Sutton & Pollack SPECIES
 
 #### Status
 ACCEPTED

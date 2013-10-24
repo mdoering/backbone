@@ -1,5 +1,4 @@
-Mucor vitis Hildebr. SPECIES
-=======
+# Mucor vitis Hildebr. SPECIES
 
 #### Status
 ACCEPTED

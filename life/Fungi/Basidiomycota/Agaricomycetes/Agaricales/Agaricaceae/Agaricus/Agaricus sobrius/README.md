@@ -1,5 +1,4 @@
-Agaricus sobrius (Fr.) Fr. SPECIES
-=======
+# Agaricus sobrius (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

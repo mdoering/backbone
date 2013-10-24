@@ -1,5 +1,4 @@
-Stachycoremium parvulum (Cooke & Ellis) Seifert, 1986 SPECIES
-=======
+# Stachycoremium parvulum (Cooke & Ellis) Seifert, 1986 SPECIES
 
 #### Status
 ACCEPTED

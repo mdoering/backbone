@@ -1,17 +1,16 @@
-Baeomyces rupestris var. rupestris VARIETY
-=======
+# Baeomyces rufus (Huds.) Rebent. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 1: 19 (1794)
+Prodr. fl. neomarch. 315 (1804)
 
 #### Original name
-Baeomyces rupestris var. rupestris
+Lichen rufus J.F. Gmel.
 
 ### Remarks
 null

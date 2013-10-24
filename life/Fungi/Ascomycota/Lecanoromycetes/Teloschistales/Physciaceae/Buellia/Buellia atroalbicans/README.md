@@ -1,5 +1,4 @@
-Buellia atroalbicans (Nyl.) Jatta SPECIES
-=======
+# Buellia atroalbicans (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

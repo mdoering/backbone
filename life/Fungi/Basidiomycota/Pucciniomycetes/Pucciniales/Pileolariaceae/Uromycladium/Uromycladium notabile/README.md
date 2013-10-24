@@ -1,14 +1,13 @@
-Uredo notabilis F. Ludw., 1890 SPECIES
-=======
+# Uromycladium notabile (F. Ludw.) McAlpine, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanisches Centralblatt 43: 6 (1890)
+Rusts of Australia 108 (1906)
 
 #### Original name
 Uredo notabilis F. Ludw., 1890

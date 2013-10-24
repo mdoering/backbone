@@ -1,5 +1,4 @@
-Piricauda cubensis Hol.-Jech. & Mercado SPECIES
-=======
+# Piricauda cubensis Hol.-Jech. & Mercado SPECIES
 
 #### Status
 ACCEPTED

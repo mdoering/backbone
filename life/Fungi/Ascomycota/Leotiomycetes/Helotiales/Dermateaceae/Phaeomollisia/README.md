@@ -1,5 +1,4 @@
-Phaeomollisia T.N. Sieber & Grünig GENUS
-=======
+# Phaeomollisia T.N. Sieber & Grünig GENUS
 
 #### Status
 ACCEPTED

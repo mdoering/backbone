@@ -1,5 +1,4 @@
-Lobaria comorensis (Kremp.) Zahlbr. SPECIES
-=======
+# Lobaria comorensis (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

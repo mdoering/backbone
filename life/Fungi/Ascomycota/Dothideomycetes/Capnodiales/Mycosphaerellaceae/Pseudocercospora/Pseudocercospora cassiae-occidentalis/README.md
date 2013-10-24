@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-occidentalis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora cassiae-occidentalis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

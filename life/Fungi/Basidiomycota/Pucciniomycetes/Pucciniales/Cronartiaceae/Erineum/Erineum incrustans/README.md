@@ -1,5 +1,4 @@
-Erineum incrustans Schltdl. SPECIES
-=======
+# Erineum incrustans Schltdl. SPECIES
 
 #### Status
 ACCEPTED

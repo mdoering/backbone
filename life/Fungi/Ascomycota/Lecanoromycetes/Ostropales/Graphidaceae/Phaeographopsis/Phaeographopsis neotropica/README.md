@@ -1,5 +1,4 @@
-Phaeographopsis neotropica Kalb SPECIES
-=======
+# Phaeographopsis neotropica Kalb SPECIES
 
 #### Status
 ACCEPTED

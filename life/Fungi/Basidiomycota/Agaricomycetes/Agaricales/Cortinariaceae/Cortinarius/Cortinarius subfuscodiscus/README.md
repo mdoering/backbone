@@ -1,5 +1,4 @@
-Cortinarius subfuscodiscus Reumaux SPECIES
-=======
+# Cortinarius subfuscodiscus Reumaux SPECIES
 
 #### Status
 ACCEPTED

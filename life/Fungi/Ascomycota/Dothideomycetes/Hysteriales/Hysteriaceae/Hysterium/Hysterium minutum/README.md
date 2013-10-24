@@ -1,5 +1,4 @@
-Hysterium minutum DC. SPECIES
-=======
+# Hysterium minutum DC. SPECIES
 
 #### Status
 ACCEPTED

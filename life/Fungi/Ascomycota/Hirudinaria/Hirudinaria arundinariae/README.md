@@ -1,5 +1,4 @@
-Hirudinaria arundinariae Hara SPECIES
-=======
+# Hirudinaria arundinariae Hara SPECIES
 
 #### Status
 ACCEPTED

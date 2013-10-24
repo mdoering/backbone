@@ -1,5 +1,4 @@
-Phlebia sublivida Parmasto SPECIES
-=======
+# Phlebia sublivida Parmasto SPECIES
 
 #### Status
 ACCEPTED

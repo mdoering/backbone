@@ -1,5 +1,4 @@
-Dicaeoma tenue (Burill) Kuntze SPECIES
-=======
+# Dicaeoma tenue (Burill) Kuntze SPECIES
 
 #### Status
 ACCEPTED

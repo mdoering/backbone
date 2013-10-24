@@ -1,5 +1,4 @@
-Megalospora queenslandica Sipman SPECIES
-=======
+# Megalospora queenslandica Sipman SPECIES
 
 #### Status
 ACCEPTED

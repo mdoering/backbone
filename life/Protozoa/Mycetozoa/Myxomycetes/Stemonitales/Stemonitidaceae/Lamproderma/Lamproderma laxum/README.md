@@ -1,17 +1,16 @@
-Lamproderma laxa H. Neubert SPECIES
-=======
+# Lamproderma laxum H. Neubert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 46(2): 217 (1980)
 
 #### Original name
-Lamproderma laxa H. Neubert
+Lamproderma laxum H. Neubert, 1980
 
 ### Remarks
 null

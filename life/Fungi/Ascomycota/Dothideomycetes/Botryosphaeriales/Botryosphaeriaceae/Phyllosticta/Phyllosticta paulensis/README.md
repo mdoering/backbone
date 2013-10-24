@@ -1,5 +1,4 @@
-Phyllosticta paulensis Henn. SPECIES
-=======
+# Phyllosticta paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

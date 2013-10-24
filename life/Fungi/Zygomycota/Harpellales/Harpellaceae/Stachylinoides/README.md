@@ -1,5 +1,4 @@
-Stachylinoides Lichtw. & López-Lastra GENUS
-=======
+# Stachylinoides Lichtw. & López-Lastra GENUS
 
 #### Status
 ACCEPTED

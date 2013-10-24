@@ -1,5 +1,4 @@
-Psalliota albovelutina Rick SPECIES
-=======
+# Psalliota albovelutina Rick SPECIES
 
 #### Status
 ACCEPTED

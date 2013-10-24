@@ -1,5 +1,4 @@
-Kriptoseptida GENUS
-=======
+# Kriptoseptida GENUS
 
 #### Status
 ACCEPTED

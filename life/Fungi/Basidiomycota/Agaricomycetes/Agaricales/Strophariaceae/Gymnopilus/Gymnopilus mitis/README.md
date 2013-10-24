@@ -1,5 +1,4 @@
-Gymnopilus mitis Hesler SPECIES
-=======
+# Gymnopilus mitis Hesler SPECIES
 
 #### Status
 ACCEPTED

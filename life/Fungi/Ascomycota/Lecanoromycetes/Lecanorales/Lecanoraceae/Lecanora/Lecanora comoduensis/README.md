@@ -1,5 +1,4 @@
-Lecanora comoduensis T.H. Nash & Hertel SPECIES
-=======
+# Lecanora comoduensis T.H. Nash & Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium daphnidarum H.E. Petersen SPECIES
-=======
+# Pythium daphnidarum H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodictyoconus Butterlin & Moullade, 1968 GENUS
-=======
+# Heterodictyoconus Butterlin & Moullade, 1968 GENUS
 
 #### Status
 ACCEPTED

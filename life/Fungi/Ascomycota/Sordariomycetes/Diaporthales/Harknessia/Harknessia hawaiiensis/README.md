@@ -1,5 +1,4 @@
-Harknessia hawaiiensis F. Stevens & E. Young, 1925 SPECIES
-=======
+# Harknessia hawaiiensis F. Stevens & E. Young, 1925 SPECIES
 
 #### Status
 ACCEPTED

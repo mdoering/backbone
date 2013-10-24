@@ -1,5 +1,4 @@
-Morenoella microscopica Speg. SPECIES
-=======
+# Morenoella microscopica Speg. SPECIES
 
 #### Status
 ACCEPTED

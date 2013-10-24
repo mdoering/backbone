@@ -1,5 +1,4 @@
-Heteroplacidium acervatum (Breuss) Breuss SPECIES
-=======
+# Heteroplacidium acervatum (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

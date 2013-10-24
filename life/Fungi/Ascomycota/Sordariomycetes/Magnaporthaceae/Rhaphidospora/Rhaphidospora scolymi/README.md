@@ -1,5 +1,4 @@
-Rhaphidospora scolymi Mouton SPECIES
-=======
+# Rhaphidospora scolymi Mouton SPECIES
 
 #### Status
 ACCEPTED

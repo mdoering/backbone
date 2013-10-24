@@ -1,5 +1,4 @@
-Delosinella Collins, 1981 GENUS
-=======
+# Delosinella Collins, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora panamensis (F. Stevens & C.J. King) Petr. SPECIES
-=======
+# Pleospora panamensis (F. Stevens & C.J. King) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium laciniariae Arthur SPECIES
-=======
+# Coleosporium laciniariae Arthur SPECIES
 
 #### Status
 ACCEPTED

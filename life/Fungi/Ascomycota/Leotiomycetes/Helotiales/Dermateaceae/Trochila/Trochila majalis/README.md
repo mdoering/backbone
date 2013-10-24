@@ -1,5 +1,4 @@
-Trochila majalis Kirschst. SPECIES
-=======
+# Trochila majalis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

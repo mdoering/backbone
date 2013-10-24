@@ -1,5 +1,4 @@
-Dimeriella erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
-=======
+# Dimeriella erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

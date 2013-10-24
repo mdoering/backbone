@@ -1,5 +1,4 @@
-Anisomeridium hydei Aptroot SPECIES
-=======
+# Anisomeridium hydei Aptroot SPECIES
 
 #### Status
 ACCEPTED

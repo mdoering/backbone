@@ -1,8 +1,7 @@
-Laminaria triplicata Postels & Ruprecht SPECIES
-=======
+# Cymathere triplicata (Postels & Ruprecht) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Rimelia ramescens (Zahlbr.) K.H. Moon & Kurok. SPECIES
-=======
+# Rimelia ramescens (Zahlbr.) K.H. Moon & Kurok. SPECIES
 
 #### Status
 ACCEPTED

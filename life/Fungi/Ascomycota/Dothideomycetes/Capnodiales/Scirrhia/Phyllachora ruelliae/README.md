@@ -1,5 +1,4 @@
-Phyllachora ruelliae Chardón, 1930 SPECIES
-=======
+# Phyllachora ruelliae Chardón, 1930 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Quezelia Faurel & Schotter, 1965 GENUS
-=======
+# Quezelia Faurel & Schotter, 1965 GENUS
 
 #### Status
 ACCEPTED

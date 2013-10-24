@@ -1,5 +1,4 @@
-Entoloma rostellatum Velen. SPECIES
-=======
+# Entoloma rostellatum Velen. SPECIES
 
 #### Status
 ACCEPTED

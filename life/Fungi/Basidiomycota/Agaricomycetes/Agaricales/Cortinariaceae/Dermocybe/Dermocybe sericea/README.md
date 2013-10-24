@@ -1,5 +1,4 @@
-Dermocybe sericea Velen. SPECIES
-=======
+# Dermocybe sericea Velen. SPECIES
 
 #### Status
 ACCEPTED

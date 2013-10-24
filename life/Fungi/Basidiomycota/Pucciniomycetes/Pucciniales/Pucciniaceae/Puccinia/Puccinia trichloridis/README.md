@@ -1,5 +1,4 @@
-Puccinia trichloridis Speg. SPECIES
-=======
+# Puccinia trichloridis Speg. SPECIES
 
 #### Status
 ACCEPTED

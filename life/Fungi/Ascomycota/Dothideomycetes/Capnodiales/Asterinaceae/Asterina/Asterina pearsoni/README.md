@@ -1,5 +1,4 @@
-Asterina pearsoni Ellis & Everh. SPECIES
-=======
+# Asterina pearsoni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

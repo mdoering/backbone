@@ -1,5 +1,4 @@
-Phyllosticta hualtatae Speg. SPECIES
-=======
+# Phyllosticta hualtatae Speg. SPECIES
 
 #### Status
 ACCEPTED

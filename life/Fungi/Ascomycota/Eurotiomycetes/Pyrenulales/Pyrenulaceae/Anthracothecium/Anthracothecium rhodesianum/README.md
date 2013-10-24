@@ -1,5 +1,4 @@
-Anthracothecium rhodesianum C.W. Dodge SPECIES
-=======
+# Anthracothecium rhodesianum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

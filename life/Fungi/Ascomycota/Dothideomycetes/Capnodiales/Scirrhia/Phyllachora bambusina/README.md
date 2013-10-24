@@ -1,8 +1,7 @@
-Phyllachora caespiticia Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora bambusina Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

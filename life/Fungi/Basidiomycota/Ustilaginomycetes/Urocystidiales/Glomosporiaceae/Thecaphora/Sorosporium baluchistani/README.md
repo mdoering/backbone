@@ -1,5 +1,4 @@
-Sorosporium baluchistani S. Ahmad SPECIES
-=======
+# Sorosporium baluchistani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

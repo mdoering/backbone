@@ -1,5 +1,4 @@
-Catenulisporaceae FAMILY
-=======
+# Catenulisporaceae FAMILY
 
 #### Status
 ACCEPTED

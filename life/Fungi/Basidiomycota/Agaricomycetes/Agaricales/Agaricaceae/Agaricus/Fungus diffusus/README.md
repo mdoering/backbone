@@ -1,5 +1,4 @@
-Fungus diffusus (Batsch) Kuntze SPECIES
-=======
+# Fungus diffusus (Batsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

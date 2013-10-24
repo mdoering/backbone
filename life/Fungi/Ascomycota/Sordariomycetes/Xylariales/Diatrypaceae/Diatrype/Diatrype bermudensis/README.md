@@ -1,5 +1,4 @@
-Diatrype bermudensis Rappaz SPECIES
-=======
+# Diatrype bermudensis Rappaz SPECIES
 
 #### Status
 ACCEPTED

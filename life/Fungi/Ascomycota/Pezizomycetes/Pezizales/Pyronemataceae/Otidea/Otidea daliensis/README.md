@@ -1,5 +1,4 @@
-Otidea daliensis W.Y. Zhuang & Korf SPECIES
-=======
+# Otidea daliensis W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma vaccinii Fr. SPECIES
-=======
+# Rhytisma vaccinii Fr. SPECIES
 
 #### Status
 ACCEPTED

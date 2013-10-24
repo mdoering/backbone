@@ -1,14 +1,13 @@
-Sphaerangium magnisporum (E.K. Cash) Seaver, 1951 SPECIES
-=======
+# Mycosphaerangium magnisporum (E.K. Cash) Verkley, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 309 (1951)
+Stud. Mycol. 44: 157 (1999)
 
 #### Original name
 Phaeangium magnisporum E.K. Cash, 1940

@@ -1,5 +1,4 @@
-Sphaeria dasylirii Rabenh. SPECIES
-=======
+# Sphaeria dasylirii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

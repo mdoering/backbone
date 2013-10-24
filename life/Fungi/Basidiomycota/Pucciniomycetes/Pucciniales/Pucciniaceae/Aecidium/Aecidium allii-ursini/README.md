@@ -1,5 +1,4 @@
-Aecidium allii-ursini Pers. SPECIES
-=======
+# Aecidium allii-ursini Pers. SPECIES
 
 #### Status
 ACCEPTED

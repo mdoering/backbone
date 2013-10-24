@@ -1,5 +1,4 @@
-Rickettsia conorii Brumpt, 1932 (Approved Lists, 1980) SPECIES
-=======
+# Rickettsia conorii Brumpt, 1932 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

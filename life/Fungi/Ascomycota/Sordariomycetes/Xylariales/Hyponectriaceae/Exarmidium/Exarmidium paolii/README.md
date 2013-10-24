@@ -1,5 +1,4 @@
-Exarmidium paolii Bacc. SPECIES
-=======
+# Exarmidium paolii Bacc. SPECIES
 
 #### Status
 ACCEPTED

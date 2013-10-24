@@ -1,5 +1,4 @@
-Phomopsis pterocariicola Li Ma, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis pterocariicola Li Ma, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

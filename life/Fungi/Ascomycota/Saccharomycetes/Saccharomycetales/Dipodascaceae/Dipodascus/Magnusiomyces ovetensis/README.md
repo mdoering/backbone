@@ -1,14 +1,13 @@
-Zendera ovetensis (Peláez & C. Ramírez) Redhead & Malloch, 1977 SPECIES
-=======
+# Magnusiomyces ovetensis (Peláez & C. Ramírez) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 55(13): 1707 (1977)
+Stud. Mycol. 50(2): 507 (2004)
 
 #### Original name
 Endomyces ovetensis Peláez & C. Ramírez, 1956

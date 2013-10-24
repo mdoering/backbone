@@ -1,5 +1,4 @@
-Tiphotrocha concava SPECIES
-=======
+# Tiphotrocha concava SPECIES
 
 #### Status
 ACCEPTED

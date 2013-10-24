@@ -1,5 +1,4 @@
-Spongiocirrhus Yankovskij, 1979 GENUS
-=======
+# Spongiocirrhus Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

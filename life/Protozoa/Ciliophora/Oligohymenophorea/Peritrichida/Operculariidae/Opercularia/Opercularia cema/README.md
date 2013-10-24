@@ -1,5 +1,4 @@
-Opercularia cema SPECIES
-=======
+# Opercularia cema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriporia dentipora Ryvarden, 2010 SPECIES
-=======
+# Ceriporia dentipora Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

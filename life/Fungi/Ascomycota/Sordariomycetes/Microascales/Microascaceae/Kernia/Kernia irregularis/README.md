@@ -1,5 +1,4 @@
-Kernia irregularis Lodha SPECIES
-=======
+# Kernia irregularis Lodha SPECIES
 
 #### Status
 ACCEPTED

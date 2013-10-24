@@ -1,5 +1,4 @@
-Sporisorium amaurae Vánky & C. Vánky SPECIES
-=======
+# Sporisorium amaurae Vánky & C. Vánky SPECIES
 
 #### Status
 ACCEPTED

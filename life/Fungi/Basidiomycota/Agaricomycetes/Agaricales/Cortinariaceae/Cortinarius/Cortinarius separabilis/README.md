@@ -1,5 +1,4 @@
-Cortinarius separabilis Britzelm. SPECIES
-=======
+# Cortinarius separabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

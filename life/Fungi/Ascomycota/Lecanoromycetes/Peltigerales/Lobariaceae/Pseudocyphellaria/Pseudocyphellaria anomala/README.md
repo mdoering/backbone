@@ -1,5 +1,4 @@
-Pseudocyphellaria anomala Brodo & Ahti SPECIES
-=======
+# Pseudocyphellaria anomala Brodo & Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium eriosematis Henn. SPECIES
-=======
+# Aecidium eriosematis Henn. SPECIES
 
 #### Status
 ACCEPTED

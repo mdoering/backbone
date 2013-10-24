@@ -1,5 +1,4 @@
-Arcocellulus G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
-=======
+# Arcocellulus G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
 
 #### Status
 ACCEPTED

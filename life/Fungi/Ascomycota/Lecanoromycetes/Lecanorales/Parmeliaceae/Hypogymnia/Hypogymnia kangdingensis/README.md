@@ -1,5 +1,4 @@
-Hypogymnia kangdingensis (J.C. Wei) J.B. Chen & J.C. Wei SPECIES
-=======
+# Hypogymnia kangdingensis (J.C. Wei) J.B. Chen & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

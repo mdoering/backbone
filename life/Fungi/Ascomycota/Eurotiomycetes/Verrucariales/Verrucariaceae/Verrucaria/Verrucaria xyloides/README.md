@@ -1,5 +1,4 @@
-Verrucaria xyloides Kremp. SPECIES
-=======
+# Verrucaria xyloides Kremp. SPECIES
 
 #### Status
 ACCEPTED

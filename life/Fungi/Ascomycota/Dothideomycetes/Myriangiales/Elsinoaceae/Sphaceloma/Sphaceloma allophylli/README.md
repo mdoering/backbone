@@ -1,5 +1,4 @@
-Sphaceloma allophylli Wani, Thirum. & M.D. Whitehead SPECIES
-=======
+# Sphaceloma allophylli Wani, Thirum. & M.D. Whitehead SPECIES
 
 #### Status
 ACCEPTED

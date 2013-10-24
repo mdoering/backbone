@@ -1,5 +1,4 @@
-Parafolliculina violacea Giard, 1888 SPECIES
-=======
+# Parafolliculina violacea Giard, 1888 SPECIES
 
 #### Status
 ACCEPTED

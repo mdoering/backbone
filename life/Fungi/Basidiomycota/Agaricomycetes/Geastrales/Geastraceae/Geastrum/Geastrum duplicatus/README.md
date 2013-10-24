@@ -1,8 +1,7 @@
-Geaster duplicatus Chevall. SPECIES
-=======
+# Geastrum duplicatus Chevall. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster duplicatus Chevall.
+Geastrum duplicatus Chevall.
 
 ### Remarks
 null

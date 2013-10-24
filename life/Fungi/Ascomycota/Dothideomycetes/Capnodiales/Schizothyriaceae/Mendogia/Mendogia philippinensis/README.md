@@ -1,5 +1,4 @@
-Mendogia philippinensis (Syd. & P. Syd.) Arx & E. Müll. SPECIES
-=======
+# Mendogia philippinensis (Syd. & P. Syd.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

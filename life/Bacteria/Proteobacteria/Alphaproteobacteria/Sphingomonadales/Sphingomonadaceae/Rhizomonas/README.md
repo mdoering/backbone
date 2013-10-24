@@ -1,5 +1,4 @@
-Rhizomonas van Bruggen et al., 1990 GENUS
-=======
+# Rhizomonas van Bruggen et al., 1990 GENUS
 
 #### Status
 ACCEPTED

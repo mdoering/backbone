@@ -1,5 +1,4 @@
-Agaricus cultorum Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cultorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

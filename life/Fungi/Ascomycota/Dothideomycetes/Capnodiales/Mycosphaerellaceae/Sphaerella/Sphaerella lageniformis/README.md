@@ -1,5 +1,4 @@
-Sphaerella lageniformis (Rehm) Sacc. SPECIES
-=======
+# Sphaerella lageniformis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina evernia Gutner SPECIES
-=======
+# Phyllostictina evernia Gutner SPECIES
 
 #### Status
 ACCEPTED

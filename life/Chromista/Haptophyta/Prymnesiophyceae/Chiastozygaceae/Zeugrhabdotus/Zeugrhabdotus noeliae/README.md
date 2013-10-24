@@ -1,5 +1,4 @@
-Zeugrhabdotus noeliae Rood et al., 1971 SPECIES
-=======
+# Zeugrhabdotus noeliae Rood et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

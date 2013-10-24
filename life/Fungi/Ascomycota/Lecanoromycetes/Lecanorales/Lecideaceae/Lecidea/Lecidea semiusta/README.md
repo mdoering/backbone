@@ -1,5 +1,4 @@
-Lecidea semiusta Stirt. SPECIES
-=======
+# Lecidea semiusta Stirt. SPECIES
 
 #### Status
 ACCEPTED

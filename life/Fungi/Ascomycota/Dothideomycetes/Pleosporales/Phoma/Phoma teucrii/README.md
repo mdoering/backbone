@@ -1,5 +1,4 @@
-Phoma teucrii Bubák SPECIES
-=======
+# Phoma teucrii Bubák SPECIES
 
 #### Status
 ACCEPTED

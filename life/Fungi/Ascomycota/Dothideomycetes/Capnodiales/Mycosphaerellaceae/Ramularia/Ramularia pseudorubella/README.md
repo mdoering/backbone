@@ -1,5 +1,4 @@
-Ramularia pseudorubella U. Braun SPECIES
-=======
+# Ramularia pseudorubella U. Braun SPECIES
 
 #### Status
 ACCEPTED

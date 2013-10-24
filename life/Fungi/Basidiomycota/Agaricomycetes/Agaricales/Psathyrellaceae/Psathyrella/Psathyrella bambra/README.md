@@ -1,5 +1,4 @@
-Psathyrella bambra Grgur. SPECIES
-=======
+# Psathyrella bambra Grgur. SPECIES
 
 #### Status
 ACCEPTED

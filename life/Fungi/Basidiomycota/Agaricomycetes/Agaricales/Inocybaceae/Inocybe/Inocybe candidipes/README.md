@@ -1,5 +1,4 @@
-Inocybe candidipes Kropp & Matheny SPECIES
-=======
+# Inocybe candidipes Kropp & Matheny SPECIES
 
 #### Status
 ACCEPTED

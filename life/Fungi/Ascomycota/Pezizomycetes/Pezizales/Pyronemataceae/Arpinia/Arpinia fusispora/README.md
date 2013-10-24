@@ -1,5 +1,4 @@
-Arpinia fusispora Hohmeyer SPECIES
-=======
+# Arpinia fusispora Hohmeyer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfovibrio litoralis Sass et al., 1998 SPECIES
-=======
+# Desulfovibrio litoralis Sass et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

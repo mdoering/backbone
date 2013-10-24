@@ -1,5 +1,4 @@
-Rhopalocanium Haeckel, 1881 GENUS
-=======
+# Rhopalocanium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus halmapalus Nielsen et al., 1995 SPECIES
-=======
+# Bacillus halmapalus Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

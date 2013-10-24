@@ -1,5 +1,4 @@
-Baltisphaeridium dilatispinosum Downie, 1963 SPECIES
-=======
+# Baltisphaeridium dilatispinosum Downie, 1963 SPECIES
 
 #### Status
 ACCEPTED

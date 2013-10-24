@@ -1,5 +1,4 @@
-Chaetotheca parasitica Bat. & Cavalc. SPECIES
-=======
+# Chaetotheca parasitica Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

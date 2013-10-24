@@ -1,14 +1,13 @@
-Archaia Agassiz, 1844 GENUS
-=======
+# Archaias de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nom. Zool. (Polyp. ), 3.
+Conch. Syst. , 1, 190.
 
 #### Original name
 null

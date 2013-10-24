@@ -1,5 +1,4 @@
-Cortinarius elegantulus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius elegantulus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

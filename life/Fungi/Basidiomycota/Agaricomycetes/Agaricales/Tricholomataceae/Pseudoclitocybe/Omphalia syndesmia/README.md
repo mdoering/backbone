@@ -1,5 +1,4 @@
-Omphalia syndesmia Kalchbr. SPECIES
-=======
+# Omphalia syndesmia Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

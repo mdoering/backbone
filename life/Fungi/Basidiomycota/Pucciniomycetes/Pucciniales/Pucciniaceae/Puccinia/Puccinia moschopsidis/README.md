@@ -1,5 +1,4 @@
-Puccinia moschopsidis J.C. Lindq. SPECIES
-=======
+# Puccinia moschopsidis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

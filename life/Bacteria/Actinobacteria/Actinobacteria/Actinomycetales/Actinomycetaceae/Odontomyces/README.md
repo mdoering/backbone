@@ -1,5 +1,4 @@
-Odontomyces GENUS
-=======
+# Odontomyces GENUS
 
 #### Status
 ACCEPTED

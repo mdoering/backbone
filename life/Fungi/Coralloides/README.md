@@ -1,5 +1,4 @@
-Coralloides Wulfen, 1776 GENUS
-=======
+# Coralloides Wulfen, 1776 GENUS
 
 #### Status
 ACCEPTED

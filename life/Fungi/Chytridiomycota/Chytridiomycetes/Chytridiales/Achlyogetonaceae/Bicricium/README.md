@@ -1,5 +1,4 @@
-Bicricium Sorokin GENUS
-=======
+# Bicricium Sorokin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea buellina Müll. Arg. SPECIES
-=======
+# Lecidea buellina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

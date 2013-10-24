@@ -1,5 +1,4 @@
-Phaeosphaeria mounceae Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria mounceae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

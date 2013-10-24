@@ -1,17 +1,16 @@
-Omalycus Raf. GENUS
-=======
+# Calvatia E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Précis Découv. Trav. Somiologiques Palermo 52 (1814)
+null
 
 #### Original name
-Omalycus Raf.
+null
 
 ### Remarks
 null

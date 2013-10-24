@@ -1,5 +1,4 @@
-Gastronauta aloisi Oberschmidleitner & Aescht, 1996 SPECIES
-=======
+# Gastronauta aloisi Oberschmidleitner & Aescht, 1996 SPECIES
 
 #### Status
 ACCEPTED

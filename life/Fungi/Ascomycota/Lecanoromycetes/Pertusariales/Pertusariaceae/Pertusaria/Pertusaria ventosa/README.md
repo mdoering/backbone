@@ -1,5 +1,4 @@
-Pertusaria ventosa Malme SPECIES
-=======
+# Pertusaria ventosa Malme SPECIES
 
 #### Status
 ACCEPTED

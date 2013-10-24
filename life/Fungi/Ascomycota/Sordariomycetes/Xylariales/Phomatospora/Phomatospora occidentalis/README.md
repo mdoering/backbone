@@ -1,5 +1,4 @@
-Phomatospora occidentalis P.F. Cannon SPECIES
-=======
+# Phomatospora occidentalis P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

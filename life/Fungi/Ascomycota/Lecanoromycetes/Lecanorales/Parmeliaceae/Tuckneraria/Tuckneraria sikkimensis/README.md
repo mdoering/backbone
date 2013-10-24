@@ -1,5 +1,4 @@
-Tuckneraria sikkimensis Divakar & Upreti SPECIES
-=======
+# Tuckneraria sikkimensis Divakar & Upreti SPECIES
 
 #### Status
 ACCEPTED

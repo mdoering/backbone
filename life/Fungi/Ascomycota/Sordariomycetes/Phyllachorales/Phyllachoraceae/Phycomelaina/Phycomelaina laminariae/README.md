@@ -1,17 +1,16 @@
-Hypoderma laminariae G.K. Sutherl. SPECIES
-=======
+# Phycomelaina laminariae (Rostr.) Kohlm., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-New Phytol. 14: 190 (1915)
+Phytopath. Z. 63: 350 (1968)
 
 #### Original name
-Hypoderma laminariae G.K. Sutherl.
+Dothidella laminariae Rostr., 1895
 
 ### Remarks
 null

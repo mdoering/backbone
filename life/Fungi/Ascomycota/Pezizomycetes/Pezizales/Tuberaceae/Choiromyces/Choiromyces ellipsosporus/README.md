@@ -1,5 +1,4 @@
-Choiromyces ellipsosporus Gilkey SPECIES
-=======
+# Choiromyces ellipsosporus Gilkey SPECIES
 
 #### Status
 ACCEPTED

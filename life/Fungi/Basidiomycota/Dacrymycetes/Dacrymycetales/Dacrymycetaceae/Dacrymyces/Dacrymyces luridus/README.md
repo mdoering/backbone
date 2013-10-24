@@ -1,5 +1,4 @@
-Dacrymyces luridus Holterm. SPECIES
-=======
+# Dacrymyces luridus Holterm. SPECIES
 
 #### Status
 ACCEPTED

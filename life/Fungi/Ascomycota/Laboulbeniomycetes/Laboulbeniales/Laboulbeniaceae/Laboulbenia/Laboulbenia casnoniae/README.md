@@ -1,5 +1,4 @@
-Laboulbenia casnoniae Thaxt., 1891 SPECIES
-=======
+# Laboulbenia casnoniae Thaxt., 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella spartinae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella spartinae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

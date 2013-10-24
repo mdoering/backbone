@@ -1,5 +1,4 @@
-Botryosphaeria atrorufa (Pass.) Weese SPECIES
-=======
+# Botryosphaeria atrorufa (Pass.) Weese SPECIES
 
 #### Status
 ACCEPTED

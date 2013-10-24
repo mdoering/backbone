@@ -1,5 +1,4 @@
-Stilbum capillare Ellis & Everh. SPECIES
-=======
+# Stilbum capillare Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

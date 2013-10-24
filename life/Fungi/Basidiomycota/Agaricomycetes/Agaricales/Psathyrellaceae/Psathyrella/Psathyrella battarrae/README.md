@@ -1,5 +1,4 @@
-Psathyrella battarrae (Fr.) Konrad & Maubl. SPECIES
-=======
+# Psathyrella battarrae (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

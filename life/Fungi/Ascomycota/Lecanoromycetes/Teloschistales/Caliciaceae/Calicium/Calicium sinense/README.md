@@ -1,5 +1,4 @@
-Calicium sinense Zahlbr. SPECIES
-=======
+# Calicium sinense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

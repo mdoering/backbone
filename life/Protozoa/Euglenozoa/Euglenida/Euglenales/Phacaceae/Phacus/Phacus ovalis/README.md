@@ -1,5 +1,4 @@
-Phacus ovalis (Woronichin) Popowa SPECIES
-=======
+# Phacus ovalis (Woronichin) Popowa SPECIES
 
 #### Status
 ACCEPTED

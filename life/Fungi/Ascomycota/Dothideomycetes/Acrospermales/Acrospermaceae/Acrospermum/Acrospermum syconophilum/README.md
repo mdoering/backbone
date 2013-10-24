@@ -1,5 +1,4 @@
-Acrospermum syconophilum Speg. SPECIES
-=======
+# Acrospermum syconophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

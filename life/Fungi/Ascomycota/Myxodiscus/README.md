@@ -1,5 +1,4 @@
-Myxodiscus GENUS
-=======
+# Myxodiscus GENUS
 
 #### Status
 ACCEPTED

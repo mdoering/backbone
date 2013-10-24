@@ -1,5 +1,4 @@
-Catellatospora citrea subsp. citrea Asano & Kawamoto, 1986 SUBSPECIES
-=======
+# Catellatospora citrea Asano & Kawamoto, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aedycia watsonii (Berk.) Kuntze SPECIES
-=======
+# Aedycia watsonii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe medullosa (Bres.) Borovicka SPECIES
-=======
+# Psilocybe medullosa (Bres.) Borovicka SPECIES
 
 #### Status
 ACCEPTED

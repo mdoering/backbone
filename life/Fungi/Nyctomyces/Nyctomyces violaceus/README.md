@@ -1,5 +1,4 @@
-Nyctomyces violaceus Unger SPECIES
-=======
+# Nyctomyces violaceus Unger SPECIES
 
 #### Status
 ACCEPTED

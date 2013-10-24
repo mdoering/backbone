@@ -1,5 +1,4 @@
-Pleonectria affinis Sacc. SPECIES
-=======
+# Pleonectria affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

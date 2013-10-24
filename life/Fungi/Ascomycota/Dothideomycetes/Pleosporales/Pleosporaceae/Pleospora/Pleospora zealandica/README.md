@@ -1,17 +1,16 @@
-Pleospora zelandica (Cooke) Sacc. SPECIES
-=======
+# Pleospora zealandica (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 274 (1883)
 
 #### Original name
-Sphaeria zelandica Cooke
+Sphaeria zealandica Cooke
 
 ### Remarks
 null

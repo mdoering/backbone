@@ -1,5 +1,4 @@
-Facklamia hominis Collins et al., 1997 SPECIES
-=======
+# Facklamia hominis Collins et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

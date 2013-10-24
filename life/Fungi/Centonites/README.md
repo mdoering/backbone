@@ -1,5 +1,4 @@
-Centonites Peppers GENUS
-=======
+# Centonites Peppers GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoclitocybe subnimbata (Rick) Singer SPECIES
-=======
+# Neoclitocybe subnimbata (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

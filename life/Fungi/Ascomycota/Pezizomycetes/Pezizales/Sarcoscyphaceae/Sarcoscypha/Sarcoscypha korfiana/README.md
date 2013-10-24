@@ -1,5 +1,4 @@
-Sarcoscypha korfiana F.A. Harr. SPECIES
-=======
+# Sarcoscypha korfiana F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

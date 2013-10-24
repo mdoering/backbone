@@ -1,5 +1,4 @@
-Clitocybe subfrumentacea (Cleland) Grgur. SPECIES
-=======
+# Clitocybe subfrumentacea (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

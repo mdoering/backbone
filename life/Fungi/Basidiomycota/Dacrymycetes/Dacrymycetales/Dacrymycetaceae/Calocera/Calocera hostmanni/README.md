@@ -1,5 +1,4 @@
-Calocera hostmanni Lév. SPECIES
-=======
+# Calocera hostmanni Lév. SPECIES
 
 #### Status
 ACCEPTED

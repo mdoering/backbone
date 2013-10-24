@@ -1,5 +1,4 @@
-Pyronema mariana Nees SPECIES
-=======
+# Pyronema mariana Nees SPECIES
 
 #### Status
 ACCEPTED

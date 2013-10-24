@@ -1,5 +1,4 @@
-Thelenella luzonensis Räsänen SPECIES
-=======
+# Thelenella luzonensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma moserianum Bon SPECIES
-=======
+# Tricholoma moserianum Bon SPECIES
 
 #### Status
 ACCEPTED

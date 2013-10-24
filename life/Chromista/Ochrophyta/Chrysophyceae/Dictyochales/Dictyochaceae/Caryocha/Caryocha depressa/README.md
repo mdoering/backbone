@@ -1,5 +1,4 @@
-Caryocha depressa (Ehrenberg) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha depressa (Ehrenberg) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyropolyporus praerimosus Murrill SPECIES
-=======
+# Pyropolyporus praerimosus Murrill SPECIES
 
 #### Status
 ACCEPTED

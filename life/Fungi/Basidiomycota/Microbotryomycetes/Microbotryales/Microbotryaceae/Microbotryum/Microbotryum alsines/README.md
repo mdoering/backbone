@@ -1,14 +1,13 @@
-Ustilago alsineae G.P. Clinton & Zundel, 1939 SPECIES
-=======
+# Microbotryum alsines (G.P. Clinton & Zundel) Piatek, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7: 991 (1939)
+Polish Botanical Journal 50(1): 7 (2005)
 
 #### Original name
 Ustilago alsineae G.P. Clinton & Zundel, 1939

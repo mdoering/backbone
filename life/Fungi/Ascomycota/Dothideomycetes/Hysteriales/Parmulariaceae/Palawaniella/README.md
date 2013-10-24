@@ -1,17 +1,16 @@
-Byliana Dippen. GENUS
-=======
+# Palawaniella Doidge GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. Stellenbosch, Reeks A 8A(2): 31 (1930)
+Bothalia 1: 16 (1921)
 
 #### Original name
-Byliana Dippen.
+Palawaniella Doidge
 
 ### Remarks
 null

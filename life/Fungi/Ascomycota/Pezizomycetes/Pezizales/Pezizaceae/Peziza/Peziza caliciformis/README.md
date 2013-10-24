@@ -1,5 +1,4 @@
-Peziza caliciformis Hedw. SPECIES
-=======
+# Peziza caliciformis Hedw. SPECIES
 
 #### Status
 ACCEPTED

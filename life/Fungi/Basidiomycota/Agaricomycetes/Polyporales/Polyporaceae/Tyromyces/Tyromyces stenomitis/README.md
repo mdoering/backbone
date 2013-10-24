@@ -1,5 +1,4 @@
-Tyromyces stenomitis Corner, 1989 SPECIES
-=======
+# Tyromyces stenomitis Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

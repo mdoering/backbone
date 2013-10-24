@@ -1,5 +1,4 @@
-Oceanithermus desulfurans Mori et al., 2004 SPECIES
-=======
+# Oceanithermus desulfurans Mori et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

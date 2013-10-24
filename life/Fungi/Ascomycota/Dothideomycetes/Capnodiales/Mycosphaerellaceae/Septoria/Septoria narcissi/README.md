@@ -1,5 +1,4 @@
-Septoria narcissi Pass. SPECIES
-=======
+# Septoria narcissi Pass. SPECIES
 
 #### Status
 ACCEPTED

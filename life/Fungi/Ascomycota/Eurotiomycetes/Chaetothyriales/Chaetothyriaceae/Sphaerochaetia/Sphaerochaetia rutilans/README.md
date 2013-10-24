@@ -1,5 +1,4 @@
-Sphaerochaetia rutilans Bat., J.L. Bezerra & Meira SPECIES
-=======
+# Sphaerochaetia rutilans Bat., J.L. Bezerra & Meira SPECIES
 
 #### Status
 ACCEPTED

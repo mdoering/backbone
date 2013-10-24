@@ -1,5 +1,4 @@
-Kirschsteiniothelia elaterascus Shearer, 1994 SPECIES
-=======
+# Kirschsteiniothelia elaterascus Shearer, 1994 SPECIES
 
 #### Status
 ACCEPTED

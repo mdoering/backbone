@@ -1,14 +1,13 @@
-Mollisina indica Arendh. & R. Sharma, 1983 SPECIES
-=======
+# Mollisinopsis indica (Arendh. & R. Sharma) Arendh. & R. Sharma, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 17: 492 (1983)
+Mycotaxon 20(2): 666 (1984)
 
 #### Original name
 Mollisina indica Arendh. & R. Sharma, 1983

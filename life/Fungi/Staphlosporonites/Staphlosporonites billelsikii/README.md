@@ -1,5 +1,4 @@
-Staphlosporonites billelsikii Kalgutkar & Janson. SPECIES
-=======
+# Staphlosporonites billelsikii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

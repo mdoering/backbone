@@ -1,5 +1,4 @@
-Curucispora ombrogena K. Ando & Tubaki SPECIES
-=======
+# Curucispora ombrogena K. Ando & Tubaki SPECIES
 
 #### Status
 ACCEPTED

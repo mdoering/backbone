@@ -1,5 +1,4 @@
-Ellipsostyletta Haeckel, 1887 GENUS
-=======
+# Ellipsostyletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

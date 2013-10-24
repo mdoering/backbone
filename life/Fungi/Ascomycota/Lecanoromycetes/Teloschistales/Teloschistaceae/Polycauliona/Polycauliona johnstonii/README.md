@@ -1,17 +1,16 @@
-Polycauliona johnstoni C.W. Dodge SPECIES
-=======
+# Polycauliona johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 239 (1948)
 
 #### Original name
-Polycauliona johnstoni C.W. Dodge
+Polycauliona johnstonii C.W. Dodge
 
 ### Remarks
 null

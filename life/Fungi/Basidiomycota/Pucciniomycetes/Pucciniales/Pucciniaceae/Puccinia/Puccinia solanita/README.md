@@ -1,5 +1,4 @@
-Puccinia solanita (Schwein.) Arthur SPECIES
-=======
+# Puccinia solanita (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

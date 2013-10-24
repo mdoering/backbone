@@ -1,5 +1,4 @@
-Rhizopogon cacao Velen. SPECIES
-=======
+# Rhizopogon cacao Velen. SPECIES
 
 #### Status
 ACCEPTED

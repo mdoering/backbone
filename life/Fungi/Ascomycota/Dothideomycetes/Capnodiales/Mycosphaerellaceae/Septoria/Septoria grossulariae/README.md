@@ -1,5 +1,4 @@
-Septoria grossulariae f. grossulariae FORM
-=======
+# Septoria grossulariae (Lib.) Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Herb. crypt. Belg. no. 944 (1857)
 
 #### Original name
-Septoria grossulariae f. grossulariae
+Ascochyta grossulariae Oudem., 1898
 
 ### Remarks
 null

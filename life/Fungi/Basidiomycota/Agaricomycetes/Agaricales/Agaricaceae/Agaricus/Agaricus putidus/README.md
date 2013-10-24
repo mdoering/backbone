@@ -1,5 +1,4 @@
-Agaricus putidus Weinm., 1836 SPECIES
-=======
+# Agaricus putidus Weinm., 1836 SPECIES
 
 #### Status
 ACCEPTED

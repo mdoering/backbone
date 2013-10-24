@@ -1,5 +1,4 @@
-Eumonoicomyces Thaxt. GENUS
-=======
+# Eumonoicomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

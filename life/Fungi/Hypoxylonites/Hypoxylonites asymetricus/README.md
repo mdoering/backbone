@@ -1,5 +1,4 @@
-Hypoxylonites asymetricus (Sal.-Cheb. & Locq.) Elsik SPECIES
-=======
+# Hypoxylonites asymetricus (Sal.-Cheb. & Locq.) Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia alpicola f. alpicola FORM
-=======
+# Allantoparmelia alpicola (Th. Fr.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 157 (1861)
+Mycotaxon 7(1): 46 (1978)
 
 #### Original name
-Parmelia alpicola f. alpicola
+Parmelia alpicola Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gyalideopsis americana Lücking & W.R. Buck SPECIES
-=======
+# Gyalideopsis americana Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

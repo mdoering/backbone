@@ -1,5 +1,4 @@
-Oxytricha mistacea SPECIES
-=======
+# Oxytricha mistacea SPECIES
 
 #### Status
 ACCEPTED

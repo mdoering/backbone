@@ -1,5 +1,4 @@
-Usnea sulphurascens Motyka SPECIES
-=======
+# Usnea sulphurascens Motyka SPECIES
 
 #### Status
 ACCEPTED

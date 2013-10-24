@@ -1,5 +1,4 @@
-Ophiostoma rollhansenianum J. Reid, Eyjólfsd. & Georg Hausner SPECIES
-=======
+# Ophiostoma rollhansenianum J. Reid, Eyjólfsd. & Georg Hausner SPECIES
 
 #### Status
 ACCEPTED

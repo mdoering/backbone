@@ -1,5 +1,4 @@
-Zoophthora arginis Balazy, 1993 SPECIES
-=======
+# Zoophthora arginis Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

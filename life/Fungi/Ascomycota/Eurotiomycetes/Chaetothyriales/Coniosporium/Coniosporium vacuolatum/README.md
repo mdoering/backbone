@@ -1,5 +1,4 @@
-Coniosporium vacuolatum Sacc. SPECIES
-=======
+# Coniosporium vacuolatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

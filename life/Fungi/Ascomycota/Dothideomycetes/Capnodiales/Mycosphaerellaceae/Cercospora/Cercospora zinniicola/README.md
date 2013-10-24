@@ -1,5 +1,4 @@
-Cercospora zinniicola A. Pande SPECIES
-=======
+# Cercospora zinniicola A. Pande SPECIES
 
 #### Status
 ACCEPTED

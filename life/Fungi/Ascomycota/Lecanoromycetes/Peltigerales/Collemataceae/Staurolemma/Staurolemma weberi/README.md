@@ -1,5 +1,4 @@
-Staurolemma weberi Henssen & P.M. Jørg. SPECIES
-=======
+# Staurolemma weberi Henssen & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

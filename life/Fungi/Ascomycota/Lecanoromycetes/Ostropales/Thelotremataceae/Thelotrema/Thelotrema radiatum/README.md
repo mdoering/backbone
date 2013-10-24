@@ -1,5 +1,4 @@
-Thelotrema radiatum Pers. SPECIES
-=======
+# Thelotrema radiatum Pers. SPECIES
 
 #### Status
 ACCEPTED

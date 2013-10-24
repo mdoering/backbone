@@ -1,5 +1,4 @@
-Puccinia caricis-cernuae Doidge SPECIES
-=======
+# Puccinia caricis-cernuae Doidge SPECIES
 
 #### Status
 ACCEPTED

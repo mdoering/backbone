@@ -1,5 +1,4 @@
-Verrucaria fetivica Kremp. SPECIES
-=======
+# Verrucaria fetivica Kremp. SPECIES
 
 #### Status
 ACCEPTED

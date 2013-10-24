@@ -1,5 +1,4 @@
-Hansfordiellopsis deightonii Bat. & M.P. Herrera SPECIES
-=======
+# Hansfordiellopsis deightonii Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

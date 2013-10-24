@@ -1,5 +1,4 @@
-Uredo zarumae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo zarumae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

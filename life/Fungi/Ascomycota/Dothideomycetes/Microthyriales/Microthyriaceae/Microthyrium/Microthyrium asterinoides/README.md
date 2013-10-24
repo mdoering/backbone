@@ -1,5 +1,4 @@
-Microthyrium asterinoides Pat. SPECIES
-=======
+# Microthyrium asterinoides Pat. SPECIES
 
 #### Status
 ACCEPTED

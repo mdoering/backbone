@@ -1,5 +1,4 @@
-Hydnum bubalinum Pers. SPECIES
-=======
+# Hydnum bubalinum Pers. SPECIES
 
 #### Status
 ACCEPTED

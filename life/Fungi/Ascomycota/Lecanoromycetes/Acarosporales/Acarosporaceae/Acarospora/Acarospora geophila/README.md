@@ -1,5 +1,4 @@
-Acarospora geophila H. Magn. SPECIES
-=======
+# Acarospora geophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

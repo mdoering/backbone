@@ -1,5 +1,4 @@
-Articulospora grandis Greath. SPECIES
-=======
+# Articulospora grandis Greath. SPECIES
 
 #### Status
 ACCEPTED

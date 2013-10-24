@@ -1,5 +1,4 @@
-Cystophora fibrosa Simons SPECIES
-=======
+# Cystophora fibrosa Simons SPECIES
 
 #### Status
 ACCEPTED

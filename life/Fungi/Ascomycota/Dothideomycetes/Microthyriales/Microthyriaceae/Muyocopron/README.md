@@ -1,5 +1,4 @@
-Muyocopron Speg. GENUS
-=======
+# Muyocopron Speg. GENUS
 
 #### Status
 ACCEPTED

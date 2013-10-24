@@ -1,5 +1,4 @@
-Aspergillus montenegroi Y. Horie, Miyaji & Nishim. SPECIES
-=======
+# Aspergillus montenegroi Y. Horie, Miyaji & Nishim. SPECIES
 
 #### Status
 ACCEPTED

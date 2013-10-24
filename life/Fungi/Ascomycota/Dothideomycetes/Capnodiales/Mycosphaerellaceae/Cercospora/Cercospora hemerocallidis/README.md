@@ -1,5 +1,4 @@
-Cercospora hemerocallidis Tehon SPECIES
-=======
+# Cercospora hemerocallidis Tehon SPECIES
 
 #### Status
 ACCEPTED

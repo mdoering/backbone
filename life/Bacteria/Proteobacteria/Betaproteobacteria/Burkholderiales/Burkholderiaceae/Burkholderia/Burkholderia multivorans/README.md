@@ -1,5 +1,4 @@
-Burkholderia multivorans Vandamme et al., 1997 SPECIES
-=======
+# Burkholderia multivorans Vandamme et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

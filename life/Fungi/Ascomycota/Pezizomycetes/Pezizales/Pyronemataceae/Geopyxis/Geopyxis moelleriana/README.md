@@ -1,5 +1,4 @@
-Geopyxis moelleriana Henn. SPECIES
-=======
+# Geopyxis moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kejvia Koshevoj, 1987 GENUS
-=======
+# Kejvia Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

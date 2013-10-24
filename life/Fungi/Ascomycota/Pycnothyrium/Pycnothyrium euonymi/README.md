@@ -1,5 +1,4 @@
-Pycnothyrium euonymi Woron. SPECIES
-=======
+# Pycnothyrium euonymi Woron. SPECIES
 
 #### Status
 ACCEPTED

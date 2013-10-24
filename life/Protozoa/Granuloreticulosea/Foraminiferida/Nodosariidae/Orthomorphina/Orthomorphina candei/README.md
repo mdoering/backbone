@@ -1,5 +1,4 @@
-Orthomorphina candei SPECIES
-=======
+# Orthomorphina candei SPECIES
 
 #### Status
 ACCEPTED

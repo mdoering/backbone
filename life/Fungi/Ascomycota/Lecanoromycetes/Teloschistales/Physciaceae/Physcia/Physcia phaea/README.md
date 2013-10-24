@@ -1,14 +1,13 @@
-Physcia aipolia subsp. phaea (Tuck.) Clauzade & Cl. Roux SUBSPECIES
-=======
+# Physcia phaea (Tuck.) J. W. Thomson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 827 (1985)
+Beih. Nova Hedwigia 7: 54 (1963)
 
 #### Original name
 Parmelia phaea Tuck.

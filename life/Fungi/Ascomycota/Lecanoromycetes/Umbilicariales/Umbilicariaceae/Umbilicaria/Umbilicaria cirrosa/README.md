@@ -1,17 +1,16 @@
-Umbilicaria cirrosa var. cirrosa VARIETY
-=======
+# Umbilicaria cirrosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Umbilicaria cirrosa Hoffm.
 
 ### Remarks
 null

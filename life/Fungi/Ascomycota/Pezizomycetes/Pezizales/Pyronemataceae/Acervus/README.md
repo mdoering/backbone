@@ -1,5 +1,4 @@
-Acervus Kanouse GENUS
-=======
+# Acervus Kanouse GENUS
 
 #### Status
 ACCEPTED

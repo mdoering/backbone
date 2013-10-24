@@ -1,5 +1,4 @@
-Phaeographis eulectra (Tuck.) Zahlbr. SPECIES
-=======
+# Phaeographis eulectra (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

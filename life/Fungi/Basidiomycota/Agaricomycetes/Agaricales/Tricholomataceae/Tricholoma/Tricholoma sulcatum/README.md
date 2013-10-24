@@ -1,5 +1,4 @@
-Tricholoma sulcatum Velen. SPECIES
-=======
+# Tricholoma sulcatum Velen. SPECIES
 
 #### Status
 ACCEPTED

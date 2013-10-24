@@ -1,5 +1,4 @@
-Septoria fairmanii Ellis & Everh. SPECIES
-=======
+# Septoria fairmanii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

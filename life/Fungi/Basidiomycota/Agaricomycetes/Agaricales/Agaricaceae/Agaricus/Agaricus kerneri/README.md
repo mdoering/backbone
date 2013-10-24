@@ -1,5 +1,4 @@
-Agaricus kerneri Wettst. SPECIES
-=======
+# Agaricus kerneri Wettst. SPECIES
 
 #### Status
 ACCEPTED

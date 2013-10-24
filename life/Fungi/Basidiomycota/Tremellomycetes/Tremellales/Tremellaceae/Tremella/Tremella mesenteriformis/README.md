@@ -1,5 +1,4 @@
-Tremella mesenteriformis var. mesenteriformis VARIETY
-=======
+# Tremella mesenteriformis Weber SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Spic. Fl. Goetting. 278 (1778)
 
 #### Original name
-Tremella mesenteriformis var. mesenteriformis
+Tremella mesenteriformis Weber
 
 ### Remarks
 null

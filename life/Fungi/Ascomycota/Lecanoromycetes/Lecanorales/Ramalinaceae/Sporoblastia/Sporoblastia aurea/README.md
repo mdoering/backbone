@@ -1,5 +1,4 @@
-Sporoblastia aurea (Schaer.) Trevis. SPECIES
-=======
+# Sporoblastia aurea (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

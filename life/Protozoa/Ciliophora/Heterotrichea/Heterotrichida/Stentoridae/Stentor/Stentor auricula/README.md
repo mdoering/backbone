@@ -1,5 +1,4 @@
-Stentor auricula Kent, 1881 SPECIES
-=======
+# Stentor auricula Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia janeirensis Riddle SPECIES
-=======
+# Toninia janeirensis Riddle SPECIES
 
 #### Status
 ACCEPTED

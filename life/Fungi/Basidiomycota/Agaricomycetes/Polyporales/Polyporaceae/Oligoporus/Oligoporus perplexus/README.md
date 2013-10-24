@@ -1,5 +1,4 @@
-Oligoporus perplexus (Corner) T. Hatt. SPECIES
-=======
+# Oligoporus perplexus (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

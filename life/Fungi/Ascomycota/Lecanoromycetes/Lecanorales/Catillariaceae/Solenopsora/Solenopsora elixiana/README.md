@@ -1,5 +1,4 @@
-Solenopsora elixiana Verdon & Rambold SPECIES
-=======
+# Solenopsora elixiana Verdon & Rambold SPECIES
 
 #### Status
 ACCEPTED

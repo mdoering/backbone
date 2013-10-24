@@ -1,5 +1,4 @@
-Chromosporium ferrugineum Speg. SPECIES
-=======
+# Chromosporium ferrugineum Speg. SPECIES
 
 #### Status
 ACCEPTED

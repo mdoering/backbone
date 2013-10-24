@@ -1,5 +1,4 @@
-Lecanora reflexa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora reflexa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

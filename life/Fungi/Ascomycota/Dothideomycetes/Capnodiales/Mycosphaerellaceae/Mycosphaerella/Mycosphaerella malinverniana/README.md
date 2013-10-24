@@ -1,5 +1,4 @@
-Mycosphaerella malinverniana (Catt.) I. Miyake SPECIES
-=======
+# Mycosphaerella malinverniana (Catt.) I. Miyake SPECIES
 
 #### Status
 ACCEPTED

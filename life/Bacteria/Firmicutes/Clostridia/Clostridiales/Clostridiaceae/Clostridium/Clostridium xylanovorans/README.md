@@ -1,5 +1,4 @@
-Clostridium xylanovorans Mechichi et al., 2000 SPECIES
-=======
+# Clostridium xylanovorans Mechichi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis rhaphidis Gonz. Frag. SPECIES
-=======
+# Phomopsis rhaphidis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

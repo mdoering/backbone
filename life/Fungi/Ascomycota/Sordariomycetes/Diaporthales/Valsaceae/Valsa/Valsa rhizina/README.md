@@ -1,5 +1,4 @@
-Valsa rhizina (Schwein.) Cooke SPECIES
-=======
+# Valsa rhizina (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

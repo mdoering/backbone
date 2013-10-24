@@ -1,5 +1,4 @@
-Calothyriopsis Höhn. GENUS
-=======
+# Calothyriopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

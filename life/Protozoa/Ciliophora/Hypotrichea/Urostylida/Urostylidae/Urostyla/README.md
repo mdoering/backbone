@@ -1,14 +1,13 @@
-Vrostyla Ehrenberg, 1832 GENUS
-=======
+# Urostyla Ehrenberg, 1830 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Preuss. Akad. Wiss. , 1831, 119.
+Abh. Preuss. Akad. Wiss. , 1830 (1832), 43.
 
 #### Original name
 null

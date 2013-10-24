@@ -1,5 +1,4 @@
-Psilocybe candidipes Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe candidipes Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

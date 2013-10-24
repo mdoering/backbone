@@ -1,5 +1,4 @@
-Lecanora mugosphagneti Poelt & Vezda SPECIES
-=======
+# Lecanora mugosphagneti Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

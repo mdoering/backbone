@@ -1,5 +1,4 @@
-Heterochaete plumulosa Bres. SPECIES
-=======
+# Heterochaete plumulosa Bres. SPECIES
 
 #### Status
 ACCEPTED

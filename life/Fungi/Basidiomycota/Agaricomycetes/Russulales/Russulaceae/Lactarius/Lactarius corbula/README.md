@@ -1,5 +1,4 @@
-Lactarius corbula R. Heim & Gooss.-Font. SPECIES
-=======
+# Lactarius corbula R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

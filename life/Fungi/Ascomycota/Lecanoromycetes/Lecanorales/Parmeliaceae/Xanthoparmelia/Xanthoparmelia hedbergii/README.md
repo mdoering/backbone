@@ -1,5 +1,4 @@
-Xanthoparmelia hedbergii M.D.E. Knox SPECIES
-=======
+# Xanthoparmelia hedbergii M.D.E. Knox SPECIES
 
 #### Status
 ACCEPTED

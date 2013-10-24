@@ -1,17 +1,16 @@
-Peridermium sinensis Y.Z. Wang & L. Guo SPECIES
-=======
+# Peridermium sinense Y.Z. Wang & L. Guo, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Wang, Han, Wei, Guo & Chen, Acta microbiol. sin. 20(1): 22 (1980)
 
 #### Original name
-Peridermium sinensis Y.Z. Wang & L. Guo
+Peridermium sinense Y.Z. Wang & L. Guo, 1980
 
 ### Remarks
 null

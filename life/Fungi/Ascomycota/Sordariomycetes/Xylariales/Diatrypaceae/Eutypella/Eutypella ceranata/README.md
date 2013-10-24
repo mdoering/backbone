@@ -1,5 +1,4 @@
-Eutypella ceranata Fairm. SPECIES
-=======
+# Eutypella ceranata Fairm. SPECIES
 
 #### Status
 ACCEPTED

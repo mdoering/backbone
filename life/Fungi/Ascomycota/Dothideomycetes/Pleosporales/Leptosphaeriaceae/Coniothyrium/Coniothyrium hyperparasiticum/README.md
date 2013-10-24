@@ -1,5 +1,4 @@
-Coniothyrium hyperparasiticum Subhedar & V.G. Rao SPECIES
-=======
+# Coniothyrium hyperparasiticum Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

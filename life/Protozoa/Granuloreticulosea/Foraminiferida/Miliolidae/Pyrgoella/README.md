@@ -1,5 +1,4 @@
-Pyrgoella Cushman & White, 1936 GENUS
-=======
+# Pyrgoella Cushman & White, 1936 GENUS
 
 #### Status
 ACCEPTED

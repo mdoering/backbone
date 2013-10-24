@@ -1,5 +1,4 @@
-Meliola himalayensis J.N. Kapoor SPECIES
-=======
+# Meliola himalayensis J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

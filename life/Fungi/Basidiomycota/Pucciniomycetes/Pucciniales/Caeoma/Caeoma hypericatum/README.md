@@ -1,5 +1,4 @@
-Caeoma hypericatum Link SPECIES
-=======
+# Caeoma hypericatum Link SPECIES
 
 #### Status
 ACCEPTED

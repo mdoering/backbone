@@ -1,5 +1,4 @@
-Oligoporus persicinus (Niemelä & Y.C. Dai) Niemelä SPECIES
-=======
+# Oligoporus persicinus (Niemelä & Y.C. Dai) Niemelä SPECIES
 
 #### Status
 ACCEPTED

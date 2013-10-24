@@ -1,5 +1,4 @@
-Lecidea subreagens H. Magn. SPECIES
-=======
+# Lecidea subreagens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

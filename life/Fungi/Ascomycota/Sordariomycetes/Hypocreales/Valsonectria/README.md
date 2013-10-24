@@ -1,5 +1,4 @@
-Valsonectria Speg. GENUS
-=======
+# Valsonectria Speg. GENUS
 
 #### Status
 ACCEPTED

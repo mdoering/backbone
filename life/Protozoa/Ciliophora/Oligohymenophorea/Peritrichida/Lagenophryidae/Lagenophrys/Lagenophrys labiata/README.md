@@ -1,5 +1,4 @@
-Lagenophrys labiata Stokes, 1887 SPECIES
-=======
+# Lagenophrys labiata Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

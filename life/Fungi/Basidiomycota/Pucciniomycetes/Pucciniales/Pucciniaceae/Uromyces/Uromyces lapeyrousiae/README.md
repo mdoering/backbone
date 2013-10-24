@@ -1,5 +1,4 @@
-Uromyces lapeyrousiae Petr. SPECIES
-=======
+# Uromyces lapeyrousiae Petr. SPECIES
 
 #### Status
 ACCEPTED

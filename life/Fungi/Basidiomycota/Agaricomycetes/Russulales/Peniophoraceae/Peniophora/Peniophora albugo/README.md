@@ -1,5 +1,4 @@
-Peniophora albugo Burt SPECIES
-=======
+# Peniophora albugo Burt SPECIES
 
 #### Status
 ACCEPTED

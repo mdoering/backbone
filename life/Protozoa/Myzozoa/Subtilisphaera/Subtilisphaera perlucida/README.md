@@ -1,5 +1,4 @@
-Subtilisphaera perlucida (Alberti, 1959) Jain & Millepied, 1973 SPECIES
-=======
+# Subtilisphaera perlucida (Alberti, 1959) Jain & Millepied, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora mariae R. Sprague SPECIES
-=======
+# Stagonospora mariae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

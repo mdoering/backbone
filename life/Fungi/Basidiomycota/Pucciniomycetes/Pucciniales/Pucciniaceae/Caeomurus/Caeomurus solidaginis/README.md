@@ -1,5 +1,4 @@
-Caeomurus solidaginis (Sommerf.) Kuntze SPECIES
-=======
+# Caeomurus solidaginis (Sommerf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

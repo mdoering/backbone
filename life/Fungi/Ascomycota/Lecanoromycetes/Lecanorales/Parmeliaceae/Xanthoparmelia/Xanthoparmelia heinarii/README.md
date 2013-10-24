@@ -1,17 +1,16 @@
-Xanthoparmelia heinari Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia heinarii Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 357 (1988)
 
 #### Original name
-Xanthoparmelia heinari Elix & J. Johnst.
+Xanthoparmelia heinarii Elix & J. Johnst.
 
 ### Remarks
 null

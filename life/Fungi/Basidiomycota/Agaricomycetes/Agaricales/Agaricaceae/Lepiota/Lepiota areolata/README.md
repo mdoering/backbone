@@ -1,5 +1,4 @@
-Lepiota areolata Wichanský SPECIES
-=======
+# Lepiota areolata Wichanský SPECIES
 
 #### Status
 ACCEPTED

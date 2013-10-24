@@ -1,5 +1,4 @@
-Phomopsis juglandis anon. SPECIES
-=======
+# Phomopsis juglandis anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leucothallina var. leucothallina VARIETY
-=======
+# Lecidea leucothallina Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea leucothallina var. leucothallina
+Lecidea leucothallina Arnold
 
 ### Remarks
 null

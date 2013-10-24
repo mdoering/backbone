@@ -1,5 +1,4 @@
-Phomatospora canephorae Saccas SPECIES
-=======
+# Phomatospora canephorae Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiaulus peripterus J. Fenner SPECIES
-=======
+# Hemiaulus peripterus J. Fenner SPECIES
 
 #### Status
 ACCEPTED

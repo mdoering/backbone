@@ -1,5 +1,4 @@
-Fungiphrya Foissner, 1999 GENUS
-=======
+# Fungiphrya Foissner, 1999 GENUS
 
 #### Status
 ACCEPTED

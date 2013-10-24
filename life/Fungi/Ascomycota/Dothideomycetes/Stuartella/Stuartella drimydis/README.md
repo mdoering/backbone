@@ -1,17 +1,16 @@
-Stuartella drymidis Rehm SPECIES
-=======
+# Stuartella drimydis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 3 (1899)
 
 #### Original name
-Stuartella drymidis Rehm
+Stuartella drimydis Rehm
 
 ### Remarks
 null

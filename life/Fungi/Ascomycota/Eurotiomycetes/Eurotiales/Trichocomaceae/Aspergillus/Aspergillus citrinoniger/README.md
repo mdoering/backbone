@@ -1,5 +1,4 @@
-Aspergillus citrinoniger Mosseray SPECIES
-=======
+# Aspergillus citrinoniger Mosseray SPECIES
 
 #### Status
 ACCEPTED

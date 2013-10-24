@@ -1,5 +1,4 @@
-Septoria epambrosiae D.F. Farr SPECIES
-=======
+# Septoria epambrosiae D.F. Farr SPECIES
 
 #### Status
 ACCEPTED

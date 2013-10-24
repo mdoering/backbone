@@ -1,5 +1,4 @@
-Psathyrella avellaneifolia var. avellaneifolia VARIETY
-=======
+# Psathyrella avellaneifolia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 117 (1972)
 
 #### Original name
-Psathyrella avellaneifolia var. avellaneifolia
+Psathyrella avellaneifolia A.H. Sm.
 
 ### Remarks
 null

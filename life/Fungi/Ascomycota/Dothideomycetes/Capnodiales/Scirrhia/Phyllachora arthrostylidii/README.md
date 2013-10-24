@@ -1,8 +1,7 @@
-Phyllachora indoccidentalis Cif., 1961 SPECIES
-=======
+# Phyllachora arthrostylidii Petr. & Cif., 1932 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

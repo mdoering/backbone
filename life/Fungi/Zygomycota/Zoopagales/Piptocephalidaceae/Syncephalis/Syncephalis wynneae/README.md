@@ -1,5 +1,4 @@
-Syncephalis wynneae Thaxt., 1897 SPECIES
-=======
+# Syncephalis wynneae Thaxt., 1897 SPECIES
 
 #### Status
 ACCEPTED

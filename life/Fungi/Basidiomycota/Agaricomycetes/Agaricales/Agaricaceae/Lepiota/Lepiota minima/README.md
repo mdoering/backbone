@@ -1,5 +1,4 @@
-Lepiota minima Massee SPECIES
-=======
+# Lepiota minima Massee SPECIES
 
 #### Status
 ACCEPTED

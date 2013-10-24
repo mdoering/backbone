@@ -1,5 +1,4 @@
-Caloplaca ferrugineoides H. Magn. SPECIES
-=======
+# Caloplaca ferrugineoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

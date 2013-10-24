@@ -1,5 +1,4 @@
-Cordyceps nepalensis M. Zang & Kinjo SPECIES
-=======
+# Cordyceps nepalensis M. Zang & Kinjo SPECIES
 
 #### Status
 ACCEPTED

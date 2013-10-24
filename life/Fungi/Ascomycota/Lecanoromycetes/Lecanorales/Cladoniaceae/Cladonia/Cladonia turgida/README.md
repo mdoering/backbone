@@ -1,5 +1,4 @@
-Cladonia turgida var. turgida VARIETY
-=======
+# Cladonia turgida Ehrh. ex Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia turgida var. turgida
+Cladonia turgida Ehrh. ex Hoffm.
 
 ### Remarks
 null

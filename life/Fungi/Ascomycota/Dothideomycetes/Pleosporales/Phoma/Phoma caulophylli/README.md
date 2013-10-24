@@ -1,5 +1,4 @@
-Phoma caulophylli Ellis & Everh. SPECIES
-=======
+# Phoma caulophylli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

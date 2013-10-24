@@ -1,5 +1,4 @@
-Trichosporon scarabaeorum Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon scarabaeorum Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

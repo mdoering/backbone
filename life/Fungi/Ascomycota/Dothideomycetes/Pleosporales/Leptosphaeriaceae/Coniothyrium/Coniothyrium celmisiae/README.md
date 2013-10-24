@@ -1,5 +1,4 @@
-Coniothyrium celmisiae Syd., 1924 SPECIES
-=======
+# Coniothyrium celmisiae Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

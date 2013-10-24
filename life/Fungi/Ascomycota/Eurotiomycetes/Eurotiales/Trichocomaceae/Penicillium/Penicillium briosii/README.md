@@ -1,5 +1,4 @@
-Penicillium briosii Carbone SPECIES
-=======
+# Penicillium briosii Carbone SPECIES
 
 #### Status
 ACCEPTED

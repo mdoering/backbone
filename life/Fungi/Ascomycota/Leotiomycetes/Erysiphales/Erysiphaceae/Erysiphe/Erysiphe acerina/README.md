@@ -1,5 +1,4 @@
-Erysiphe acerina U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe acerina U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

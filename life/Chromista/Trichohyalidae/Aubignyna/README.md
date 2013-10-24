@@ -1,5 +1,4 @@
-Aubignyna Margerel, 1970 GENUS
-=======
+# Aubignyna Margerel, 1970 GENUS
 
 #### Status
 ACCEPTED

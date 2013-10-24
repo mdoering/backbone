@@ -1,5 +1,4 @@
-Cortinarius hinnuleovelatus Reumaux SPECIES
-=======
+# Cortinarius hinnuleovelatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

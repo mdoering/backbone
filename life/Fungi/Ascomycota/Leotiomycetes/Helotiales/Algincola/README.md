@@ -1,5 +1,4 @@
-Algincola Velen. GENUS
-=======
+# Algincola Velen. GENUS
 
 #### Status
 ACCEPTED

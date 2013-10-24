@@ -1,5 +1,4 @@
-Lepiota cingulum Kelderman, 1994 SPECIES
-=======
+# Lepiota cingulum Kelderman, 1994 SPECIES
 
 #### Status
 ACCEPTED

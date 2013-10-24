@@ -1,17 +1,16 @@
-Hartiella Massee GENUS
-=======
+# Calostilbella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 5 (1910)
+Ber. dt. bot. Ges. 37: 160 (1919)
 
 #### Original name
-Hartiella Massee
+Calostilbella Höhn.
 
 ### Remarks
 null

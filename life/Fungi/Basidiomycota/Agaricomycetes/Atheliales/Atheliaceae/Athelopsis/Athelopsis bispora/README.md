@@ -1,14 +1,13 @@
-Sphaerobasidium bisporum Boidin & Gilles, 1989 SPECIES
-=======
+# Athelopsis bispora (Boidin & Gilles) Hjortstam & Ryvarden, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 105(2): 150 (1989)
+Syn. Fung. (Oslo) 23: 57 (2007)
 
 #### Original name
 Sphaerobasidium bisporum Boidin & Gilles, 1989

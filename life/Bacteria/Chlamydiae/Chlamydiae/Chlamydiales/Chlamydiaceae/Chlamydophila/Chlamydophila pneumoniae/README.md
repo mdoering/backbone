@@ -1,8 +1,7 @@
-Chlamydia pneumoniae Grayston et al., 1989 SPECIES
-=======
+# Chlamydophila pneumoniae (Grayston et al., 1989) Everett et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

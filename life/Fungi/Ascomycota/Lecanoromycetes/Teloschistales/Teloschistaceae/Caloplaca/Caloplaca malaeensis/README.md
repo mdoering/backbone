@@ -1,5 +1,4 @@
-Caloplaca malaeensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Caloplaca malaeensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

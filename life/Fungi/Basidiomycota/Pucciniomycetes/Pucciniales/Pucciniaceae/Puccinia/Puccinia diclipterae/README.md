@@ -1,5 +1,4 @@
-Puccinia diclipterae Syd. & P. Syd. SPECIES
-=======
+# Puccinia diclipterae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

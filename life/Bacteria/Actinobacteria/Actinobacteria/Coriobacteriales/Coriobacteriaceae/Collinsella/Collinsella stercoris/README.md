@@ -1,5 +1,4 @@
-Collinsella stercoris Kageyama & Benno, 2000 SPECIES
-=======
+# Collinsella stercoris Kageyama & Benno, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina cinnamomea A.H. Sm. & Singer SPECIES
-=======
+# Galerina cinnamomea A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

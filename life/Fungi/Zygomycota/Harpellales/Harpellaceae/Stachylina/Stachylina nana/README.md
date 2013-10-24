@@ -1,5 +1,4 @@
-Stachylina nana Lichtw., 1984 SPECIES
-=======
+# Stachylina nana Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

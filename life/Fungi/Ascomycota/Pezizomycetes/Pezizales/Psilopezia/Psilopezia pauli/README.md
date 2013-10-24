@@ -1,5 +1,4 @@
-Psilopezia pauli Henn. SPECIES
-=======
+# Psilopezia pauli Henn. SPECIES
 
 #### Status
 ACCEPTED

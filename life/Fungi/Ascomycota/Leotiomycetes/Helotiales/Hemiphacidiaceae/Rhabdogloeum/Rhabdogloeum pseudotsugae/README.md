@@ -1,5 +1,4 @@
-Rhabdogloeum pseudotsugae Syd., 1922 SPECIES
-=======
+# Rhabdogloeum pseudotsugae Syd., 1922 SPECIES
 
 #### Status
 ACCEPTED

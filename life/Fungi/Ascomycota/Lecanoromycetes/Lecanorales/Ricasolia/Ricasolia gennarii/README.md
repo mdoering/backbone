@@ -1,5 +1,4 @@
-Ricasolia gennarii Bagl. SPECIES
-=======
+# Ricasolia gennarii Bagl. SPECIES
 
 #### Status
 ACCEPTED

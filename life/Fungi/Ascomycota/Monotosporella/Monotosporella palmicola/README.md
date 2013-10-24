@@ -1,5 +1,4 @@
-Monotosporella palmicola Yanna & K.D. Hyde SPECIES
-=======
+# Monotosporella palmicola Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

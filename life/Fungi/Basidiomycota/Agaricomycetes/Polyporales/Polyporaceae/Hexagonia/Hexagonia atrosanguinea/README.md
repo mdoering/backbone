@@ -1,5 +1,4 @@
-Hexagonia atrosanguinea Henn. SPECIES
-=======
+# Hexagonia atrosanguinea Henn. SPECIES
 
 #### Status
 ACCEPTED

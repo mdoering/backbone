@@ -1,5 +1,4 @@
-Postia gloeocystidiata Y.L. Wei & Y.C. Dai SPECIES
-=======
+# Postia gloeocystidiata Y.L. Wei & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

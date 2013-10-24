@@ -1,5 +1,4 @@
-Phyllosticta scrophulariae-bosniacae Bubák SPECIES
-=======
+# Phyllosticta scrophulariae-bosniacae Bubák SPECIES
 
 #### Status
 ACCEPTED

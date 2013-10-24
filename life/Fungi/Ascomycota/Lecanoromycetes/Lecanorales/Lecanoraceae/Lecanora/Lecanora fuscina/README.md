@@ -1,5 +1,4 @@
-Lecanora fuscina (Flagey) SPECIES
-=======
+# Lecanora fuscina (Flagey) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza viridinigra Fr. SPECIES
-=======
+# Peziza viridinigra Fr. SPECIES
 
 #### Status
 ACCEPTED

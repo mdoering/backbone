@@ -1,5 +1,4 @@
-Ramalina dendriscoidella Vain. SPECIES
-=======
+# Ramalina dendriscoidella Vain. SPECIES
 
 #### Status
 ACCEPTED

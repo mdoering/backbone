@@ -1,14 +1,13 @@
-Naucoria arboria (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria arborea (Britzelm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 832 (1887)
 
 #### Original name
 Agaricus arboreus Britzelm.

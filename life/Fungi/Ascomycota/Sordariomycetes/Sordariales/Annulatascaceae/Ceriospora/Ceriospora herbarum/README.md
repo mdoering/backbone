@@ -1,5 +1,4 @@
-Ceriospora herbarum Smyk SPECIES
-=======
+# Ceriospora herbarum Smyk SPECIES
 
 #### Status
 ACCEPTED

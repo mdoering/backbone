@@ -1,5 +1,4 @@
-Sporocybe minuta Zimm. SPECIES
-=======
+# Sporocybe minuta Zimm. SPECIES
 
 #### Status
 ACCEPTED

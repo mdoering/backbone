@@ -1,5 +1,4 @@
-Myriotrema subwrightii (Hale) Hale SPECIES
-=======
+# Myriotrema subwrightii (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

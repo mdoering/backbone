@@ -1,5 +1,4 @@
-Aulographum donacis Niessl SPECIES
-=======
+# Aulographum donacis Niessl SPECIES
 
 #### Status
 ACCEPTED

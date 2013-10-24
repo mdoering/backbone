@@ -1,5 +1,4 @@
-Biddulphia moronensis var. nicobarica Grunow VARIETY
-=======
+# Biddulphia moronensis (Greville) T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED

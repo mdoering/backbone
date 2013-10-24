@@ -1,5 +1,4 @@
-Mollisia nigrella Pat. SPECIES
-=======
+# Mollisia nigrella Pat. SPECIES
 
 #### Status
 ACCEPTED

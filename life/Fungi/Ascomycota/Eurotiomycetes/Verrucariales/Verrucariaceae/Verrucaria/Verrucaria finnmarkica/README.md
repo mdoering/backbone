@@ -1,5 +1,4 @@
-Verrucaria finnmarkica Zschacke SPECIES
-=======
+# Verrucaria finnmarkica Zschacke SPECIES
 
 #### Status
 ACCEPTED

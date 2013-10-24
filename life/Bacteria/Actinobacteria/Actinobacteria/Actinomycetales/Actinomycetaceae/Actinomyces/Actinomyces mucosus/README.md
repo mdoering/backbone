@@ -1,5 +1,4 @@
-Actinomyces mucosus Krassiln. SPECIES
-=======
+# Actinomyces mucosus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

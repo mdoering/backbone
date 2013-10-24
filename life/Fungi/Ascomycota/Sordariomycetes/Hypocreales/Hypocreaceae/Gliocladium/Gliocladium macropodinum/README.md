@@ -1,5 +1,4 @@
-Gliocladium macropodinum Marchal SPECIES
-=======
+# Gliocladium macropodinum Marchal SPECIES
 
 #### Status
 ACCEPTED

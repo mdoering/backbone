@@ -1,5 +1,4 @@
-Sphaerella crenata Brunaud SPECIES
-=======
+# Sphaerella crenata Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria circumrubens var. circumrubens VARIETY
-=======
+# Verrucaria circumrubens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria circumrubens var. circumrubens
+null
 
 ### Remarks
 null

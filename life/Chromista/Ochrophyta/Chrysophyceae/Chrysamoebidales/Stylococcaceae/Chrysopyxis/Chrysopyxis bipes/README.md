@@ -1,5 +1,4 @@
-Chrysopyxis bipes F.Stein SPECIES
-=======
+# Chrysopyxis bipes F.Stein SPECIES
 
 #### Status
 ACCEPTED

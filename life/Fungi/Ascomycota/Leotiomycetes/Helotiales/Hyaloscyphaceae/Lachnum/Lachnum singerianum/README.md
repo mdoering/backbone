@@ -1,5 +1,4 @@
-Lachnum singerianum (Dennis) W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Lachnum singerianum (Dennis) W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syzranella Mamet & Pinard, 1992 GENUS
-=======
+# Syzranella Mamet & Pinard, 1992 GENUS
 
 #### Status
 ACCEPTED

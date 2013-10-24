@@ -1,5 +1,4 @@
-Arthrospira jenneri Stizenberger Ex Gomont, 1893 SPECIES
-=======
+# Arthrospira jenneri Stizenberger Ex Gomont, 1893 SPECIES
 
 #### Status
 ACCEPTED

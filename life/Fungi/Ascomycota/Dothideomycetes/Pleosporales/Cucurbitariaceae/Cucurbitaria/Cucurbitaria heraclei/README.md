@@ -1,5 +1,4 @@
-Cucurbitaria heraclei (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Cucurbitaria heraclei (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

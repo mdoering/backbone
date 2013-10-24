@@ -1,5 +1,4 @@
-Phomopsis pavgii D.D. Shukla, V.N. Pathak & M. Rao SPECIES
-=======
+# Phomopsis pavgii D.D. Shukla, V.N. Pathak & M. Rao SPECIES
 
 #### Status
 ACCEPTED

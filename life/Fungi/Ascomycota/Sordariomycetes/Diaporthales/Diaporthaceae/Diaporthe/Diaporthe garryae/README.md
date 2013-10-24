@@ -1,5 +1,4 @@
-Diaporthe garryae Grove, 1933 SPECIES
-=======
+# Diaporthe garryae Grove, 1933 SPECIES
 
 #### Status
 ACCEPTED

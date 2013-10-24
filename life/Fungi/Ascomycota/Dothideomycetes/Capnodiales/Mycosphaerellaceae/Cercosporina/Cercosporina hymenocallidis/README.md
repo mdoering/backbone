@@ -1,5 +1,4 @@
-Cercosporina hymenocallidis (Pat.) Sacc. SPECIES
-=======
+# Cercosporina hymenocallidis (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

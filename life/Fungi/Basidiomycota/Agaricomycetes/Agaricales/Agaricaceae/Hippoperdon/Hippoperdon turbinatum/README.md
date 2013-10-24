@@ -1,5 +1,4 @@
-Hippoperdon turbinatum Mont. SPECIES
-=======
+# Hippoperdon turbinatum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus arenulosus Berk. & M.A. Curtis SPECIES
-=======
+# Pluteus arenulosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

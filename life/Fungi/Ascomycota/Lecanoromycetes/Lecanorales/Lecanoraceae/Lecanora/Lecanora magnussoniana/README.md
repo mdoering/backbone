@@ -1,5 +1,4 @@
-Lecanora magnussoniana Hafellner & Türk SPECIES
-=======
+# Lecanora magnussoniana Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

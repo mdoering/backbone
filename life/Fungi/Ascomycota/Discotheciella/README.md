@@ -1,5 +1,4 @@
-Discotheciella Syd. & P. Syd. GENUS
-=======
+# Discotheciella Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

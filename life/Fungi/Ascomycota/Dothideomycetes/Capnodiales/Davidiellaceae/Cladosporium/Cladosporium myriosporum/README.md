@@ -1,5 +1,4 @@
-Cladosporium myriosporum Ellis & Dearn., 1897 SPECIES
-=======
+# Cladosporium myriosporum Ellis & Dearn., 1897 SPECIES
 
 #### Status
 ACCEPTED

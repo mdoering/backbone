@@ -1,5 +1,4 @@
-Aecidium myricatum Schwein. SPECIES
-=======
+# Aecidium myricatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

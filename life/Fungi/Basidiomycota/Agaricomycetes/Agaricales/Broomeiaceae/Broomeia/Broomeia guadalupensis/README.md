@@ -1,5 +1,4 @@
-Broomeia guadalupensis Lév., 1848 SPECIES
-=======
+# Broomeia guadalupensis Lév., 1848 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta colocasiophila Weedon SPECIES
-=======
+# Phyllosticta colocasiophila Weedon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas sulcata Stokes SPECIES
-=======
+# Petalomonas sulcata Stokes SPECIES
 
 #### Status
 ACCEPTED

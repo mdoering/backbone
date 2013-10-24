@@ -1,5 +1,4 @@
-Megalaria sublivens (Nyl.) D.J. Galloway SPECIES
-=======
+# Megalaria sublivens (Nyl.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

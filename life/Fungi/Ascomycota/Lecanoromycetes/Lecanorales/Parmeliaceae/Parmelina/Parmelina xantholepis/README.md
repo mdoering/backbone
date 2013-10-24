@@ -1,5 +1,4 @@
-Parmelina xantholepis (Mont. & Bosch) Hale SPECIES
-=======
+# Parmelina xantholepis (Mont. & Bosch) Hale SPECIES
 
 #### Status
 ACCEPTED

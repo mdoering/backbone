@@ -1,5 +1,4 @@
-Meliola guareella Hansf. SPECIES
-=======
+# Meliola guareella Hansf. SPECIES
 
 #### Status
 ACCEPTED

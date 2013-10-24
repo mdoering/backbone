@@ -1,5 +1,4 @@
-Coprinus velaris Fr. SPECIES
-=======
+# Coprinus velaris Fr. SPECIES
 
 #### Status
 ACCEPTED

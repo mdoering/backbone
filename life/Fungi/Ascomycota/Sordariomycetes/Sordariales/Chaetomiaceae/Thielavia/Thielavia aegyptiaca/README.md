@@ -1,5 +1,4 @@
-Thielavia aegyptiaca Moustafa & Abdul-Wahid SPECIES
-=======
+# Thielavia aegyptiaca Moustafa & Abdul-Wahid SPECIES
 
 #### Status
 ACCEPTED

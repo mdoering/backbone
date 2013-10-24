@@ -1,5 +1,4 @@
-Coniothecium lenticellarum Syd. SPECIES
-=======
+# Coniothecium lenticellarum Syd. SPECIES
 
 #### Status
 ACCEPTED

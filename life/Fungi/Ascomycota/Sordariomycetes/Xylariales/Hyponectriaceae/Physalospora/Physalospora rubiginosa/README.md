@@ -1,5 +1,4 @@
-Physalospora rubiginosa (Fr.) SPECIES
-=======
+# Physalospora rubiginosa (Fr.) SPECIES
 
 #### Status
 ACCEPTED

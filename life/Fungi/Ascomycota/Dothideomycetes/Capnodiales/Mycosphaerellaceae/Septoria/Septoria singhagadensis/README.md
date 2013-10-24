@@ -1,5 +1,4 @@
-Septoria singhagadensis Patw. & Pande {?} SPECIES
-=======
+# Septoria singhagadensis Patw. & Pande {?} SPECIES
 
 #### Status
 ACCEPTED

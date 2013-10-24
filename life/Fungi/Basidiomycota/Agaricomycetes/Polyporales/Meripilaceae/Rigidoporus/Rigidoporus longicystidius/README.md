@@ -1,5 +1,4 @@
-Rigidoporus longicystidius P.K. Buchanan & Ryvarden, 2000 SPECIES
-=======
+# Rigidoporus longicystidius P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

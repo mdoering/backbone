@@ -1,5 +1,4 @@
-Septoria weiriana Sacc. SPECIES
-=======
+# Septoria weiriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

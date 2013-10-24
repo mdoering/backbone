@@ -1,5 +1,4 @@
-Entyloma spragueanum Zundel SPECIES
-=======
+# Entyloma spragueanum Zundel SPECIES
 
 #### Status
 ACCEPTED

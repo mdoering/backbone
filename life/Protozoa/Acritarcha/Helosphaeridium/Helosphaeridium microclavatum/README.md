@@ -1,5 +1,4 @@
-Helosphaeridium microclavatum Playford in Playford & Dring, 1981 SPECIES
-=======
+# Helosphaeridium microclavatum Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

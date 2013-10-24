@@ -1,5 +1,4 @@
-Uredo mimica Cummins SPECIES
-=======
+# Uredo mimica Cummins SPECIES
 
 #### Status
 ACCEPTED

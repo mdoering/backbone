@@ -1,5 +1,4 @@
-Rhizidium appendiculatum Zopf SPECIES
-=======
+# Rhizidium appendiculatum Zopf SPECIES
 
 #### Status
 ACCEPTED

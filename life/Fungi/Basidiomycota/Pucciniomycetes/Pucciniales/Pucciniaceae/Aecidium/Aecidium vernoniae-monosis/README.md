@@ -1,5 +1,4 @@
-Aecidium vernoniae-monosis Syd. {?} SPECIES
-=======
+# Aecidium vernoniae-monosis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

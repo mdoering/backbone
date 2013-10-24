@@ -1,5 +1,4 @@
-Phyllosticta agnostoica Speg. SPECIES
-=======
+# Phyllosticta agnostoica Speg. SPECIES
 
 #### Status
 ACCEPTED

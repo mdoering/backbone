@@ -1,5 +1,4 @@
-Fragilaria subsalina (Grunov) Lange-Bertalot SPECIES
-=======
+# Fragilaria subsalina (Grunov) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

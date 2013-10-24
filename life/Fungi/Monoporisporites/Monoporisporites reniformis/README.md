@@ -1,5 +1,4 @@
-Monoporisporites reniformis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites reniformis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus parvulus P.-J. Keizer & Uljé SPECIES
-=======
+# Coprinus parvulus P.-J. Keizer & Uljé SPECIES
 
 #### Status
 ACCEPTED

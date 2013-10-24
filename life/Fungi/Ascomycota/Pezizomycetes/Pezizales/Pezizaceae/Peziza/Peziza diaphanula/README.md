@@ -1,5 +1,4 @@
-Peziza diaphanula Cooke SPECIES
-=======
+# Peziza diaphanula Cooke SPECIES
 
 #### Status
 ACCEPTED

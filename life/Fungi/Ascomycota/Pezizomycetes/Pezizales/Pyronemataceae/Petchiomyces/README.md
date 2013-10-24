@@ -1,5 +1,4 @@
-Petchiomyces E. Fisch. & Mattir. GENUS
-=======
+# Petchiomyces E. Fisch. & Mattir. GENUS
 
 #### Status
 ACCEPTED

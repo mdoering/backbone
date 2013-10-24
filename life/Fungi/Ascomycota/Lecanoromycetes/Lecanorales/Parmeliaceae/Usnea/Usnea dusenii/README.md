@@ -1,5 +1,4 @@
-Usnea dusenii Du Rietz SPECIES
-=======
+# Usnea dusenii Du Rietz SPECIES
 
 #### Status
 ACCEPTED

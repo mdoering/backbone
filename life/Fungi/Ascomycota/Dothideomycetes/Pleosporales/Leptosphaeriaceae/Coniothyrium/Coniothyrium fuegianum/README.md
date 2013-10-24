@@ -1,5 +1,4 @@
-Coniothyrium fuegianum Speg. SPECIES
-=======
+# Coniothyrium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

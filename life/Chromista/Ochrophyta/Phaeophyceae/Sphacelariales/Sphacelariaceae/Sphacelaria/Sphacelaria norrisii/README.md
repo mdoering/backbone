@@ -1,5 +1,4 @@
-Sphacelaria norrisii Hollenberg SPECIES
-=======
+# Sphacelaria norrisii Hollenberg SPECIES
 
 #### Status
 ACCEPTED

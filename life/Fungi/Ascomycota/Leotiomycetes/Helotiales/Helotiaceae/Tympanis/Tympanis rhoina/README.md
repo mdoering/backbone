@@ -1,5 +1,4 @@
-Tympanis rhoina J.W. Groves SPECIES
-=======
+# Tympanis rhoina J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

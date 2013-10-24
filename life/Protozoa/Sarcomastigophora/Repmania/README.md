@@ -1,5 +1,4 @@
-Repmania Arapova & Suleimanov, 1966 GENUS
-=======
+# Repmania Arapova & Suleimanov, 1966 GENUS
 
 #### Status
 ACCEPTED

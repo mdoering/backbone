@@ -1,5 +1,4 @@
-Clitocybe columbana Mont. SPECIES
-=======
+# Clitocybe columbana Mont. SPECIES
 
 #### Status
 ACCEPTED

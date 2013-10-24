@@ -1,5 +1,4 @@
-Puccinia aureocrassa Gjaerum SPECIES
-=======
+# Puccinia aureocrassa Gjaerum SPECIES
 
 #### Status
 ACCEPTED

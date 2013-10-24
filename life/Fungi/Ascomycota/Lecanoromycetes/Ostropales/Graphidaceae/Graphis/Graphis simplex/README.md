@@ -1,5 +1,4 @@
-Graphis simplex Vain. SPECIES
-=======
+# Graphis simplex Vain. SPECIES
 
 #### Status
 ACCEPTED

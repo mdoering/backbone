@@ -1,5 +1,4 @@
-Corynespora hemigraphidis J.M. Yen & Lim SPECIES
-=======
+# Corynespora hemigraphidis J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

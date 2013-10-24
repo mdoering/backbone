@@ -1,5 +1,4 @@
-Diplodia theae-sinensis S.Q. Liu & T.Q. Li SPECIES
-=======
+# Diplodia theae-sinensis S.Q. Liu & T.Q. Li SPECIES
 
 #### Status
 ACCEPTED

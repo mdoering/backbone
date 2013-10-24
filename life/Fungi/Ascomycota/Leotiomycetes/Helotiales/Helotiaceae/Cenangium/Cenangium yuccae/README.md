@@ -1,5 +1,4 @@
-Cenangium yuccae Clem. SPECIES
-=======
+# Cenangium yuccae Clem. SPECIES
 
 #### Status
 ACCEPTED

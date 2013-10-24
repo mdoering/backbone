@@ -1,11 +1,10 @@
-Tetraedron enorme enorme (Ralfs) Hansgirg SUBSPECIES
-=======
+# Pseudostaurastrum enorme (J. Ralfs) R. Chodat SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

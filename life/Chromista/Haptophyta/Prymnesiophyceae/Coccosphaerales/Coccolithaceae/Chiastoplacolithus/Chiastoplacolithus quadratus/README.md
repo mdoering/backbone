@@ -1,5 +1,4 @@
-Chiastoplacolithus quadratus (Worsley, 1971) Barrier, 1977 SPECIES
-=======
+# Chiastoplacolithus quadratus (Worsley, 1971) Barrier, 1977 SPECIES
 
 #### Status
 ACCEPTED

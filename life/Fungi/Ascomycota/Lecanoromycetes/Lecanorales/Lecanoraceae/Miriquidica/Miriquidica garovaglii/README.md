@@ -1,8 +1,7 @@
-Biatora aenea (Dufour in Fr.) Elenkin SPECIES
-=======
+# Miriquidica garovaglii (Schaer.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

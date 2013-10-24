@@ -1,5 +1,4 @@
-Platysma populinum (Hoffm.) Frege SPECIES
-=======
+# Platysma populinum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza hazslinskya Cooke SPECIES
-=======
+# Peziza hazslinskya Cooke SPECIES
 
 #### Status
 ACCEPTED

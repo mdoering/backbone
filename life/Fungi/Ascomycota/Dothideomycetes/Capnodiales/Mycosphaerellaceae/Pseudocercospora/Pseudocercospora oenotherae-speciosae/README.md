@@ -1,5 +1,4 @@
-Pseudocercospora oenotherae-speciosae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora oenotherae-speciosae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

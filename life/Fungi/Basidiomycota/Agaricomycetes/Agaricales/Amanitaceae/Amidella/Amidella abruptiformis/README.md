@@ -1,5 +1,4 @@
-Amidella abruptiformis (Murrill) E.-J. Gilbert SPECIES
-=======
+# Amidella abruptiformis (Murrill) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

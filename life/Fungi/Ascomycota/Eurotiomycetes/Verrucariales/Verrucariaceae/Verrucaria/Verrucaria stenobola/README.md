@@ -1,5 +1,4 @@
-Verrucaria stenobola Nyl. SPECIES
-=======
+# Verrucaria stenobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

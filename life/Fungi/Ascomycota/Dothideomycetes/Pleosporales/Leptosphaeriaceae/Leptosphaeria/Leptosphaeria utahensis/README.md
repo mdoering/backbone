@@ -1,5 +1,4 @@
-Leptosphaeria utahensis Ellis & Everh. SPECIES
-=======
+# Leptosphaeria utahensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

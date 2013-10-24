@@ -1,17 +1,16 @@
-Simocybe disseminata var. disseminata VARIETY
-=======
+# Flammulaster disseminatus (E. Horak) E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. criptog. Tierra del Fuego 11(6): 309 (1980)
+N. Z. Jl Bot. 18(2): 179 (1980)
 
 #### Original name
-Simocybe disseminata var. disseminata
+Simocybe disseminata E. Horak, 1980
 
 ### Remarks
 null

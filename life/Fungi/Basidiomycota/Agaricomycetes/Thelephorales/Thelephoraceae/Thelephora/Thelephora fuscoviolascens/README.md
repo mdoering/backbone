@@ -1,5 +1,4 @@
-Thelephora fuscoviolascens Mont. SPECIES
-=======
+# Thelephora fuscoviolascens Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cubodinellum H. Keupp, 1987 GENUS
-=======
+# Cubodinellum H. Keupp, 1987 GENUS
 
 #### Status
 ACCEPTED

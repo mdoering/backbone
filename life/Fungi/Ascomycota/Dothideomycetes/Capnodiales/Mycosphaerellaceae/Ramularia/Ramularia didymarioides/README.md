@@ -1,5 +1,4 @@
-Ramularia didymarioides Briosi & Sacc., 1892 SPECIES
-=======
+# Ramularia didymarioides Briosi & Sacc., 1892 SPECIES
 
 #### Status
 ACCEPTED

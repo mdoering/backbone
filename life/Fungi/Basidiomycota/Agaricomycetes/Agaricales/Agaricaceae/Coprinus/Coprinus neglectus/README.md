@@ -1,5 +1,4 @@
-Coprinus neglectus Reijnders SPECIES
-=======
+# Coprinus neglectus Reijnders SPECIES
 
 #### Status
 ACCEPTED

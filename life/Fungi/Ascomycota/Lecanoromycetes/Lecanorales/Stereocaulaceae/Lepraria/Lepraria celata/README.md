@@ -1,5 +1,4 @@
-Lepraria celata Slav.-Bay. SPECIES
-=======
+# Lepraria celata Slav.-Bay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe praelarinacea SPECIES
-=======
+# Inocybe praelarinacea SPECIES
 
 #### Status
 ACCEPTED

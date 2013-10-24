@@ -1,5 +1,4 @@
-Ramularia kochiae Woron. SPECIES
-=======
+# Ramularia kochiae Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina pandani Tassi SPECIES
-=======
+# Diplodina pandani Tassi SPECIES
 
 #### Status
 ACCEPTED

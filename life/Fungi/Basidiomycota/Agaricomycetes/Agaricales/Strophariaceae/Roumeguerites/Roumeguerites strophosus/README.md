@@ -1,17 +1,16 @@
-Roumeguerites strophosa P. Karst. SPECIES
-=======
+# Roumeguerites strophosus P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 32: xxiv, 452 (1879)
 
 #### Original name
-Roumeguerites strophosa P. Karst.
+Roumeguerites strophosus P. Karst.
 
 ### Remarks
 null

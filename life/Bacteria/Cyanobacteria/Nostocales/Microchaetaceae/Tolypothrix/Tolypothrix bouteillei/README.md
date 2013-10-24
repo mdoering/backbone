@@ -1,8 +1,7 @@
-Hassallia bouteillei (Brébisson & Desmazières) Bornet & Flahault SPECIES
-=======
+# Tolypothrix bouteillei (Brébisson & Desmazières) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

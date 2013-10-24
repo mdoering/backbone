@@ -1,5 +1,4 @@
-Phaeosphaeria tini (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Phaeosphaeria tini (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

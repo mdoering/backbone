@@ -1,14 +1,13 @@
-Terana viticola (Schwein.) Kuntze, 1891 SPECIES
-=======
+# Phanerochaete viticola (Schwein.) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 389 (1967)
 
 #### Original name
 Thelephora viticola Schwein., 1822

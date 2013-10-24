@@ -1,5 +1,4 @@
-Cercospora emmeorrhizae Syd. SPECIES
-=======
+# Cercospora emmeorrhizae Syd. SPECIES
 
 #### Status
 ACCEPTED

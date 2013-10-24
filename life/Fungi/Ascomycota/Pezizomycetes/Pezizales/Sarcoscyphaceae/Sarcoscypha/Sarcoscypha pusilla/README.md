@@ -1,5 +1,4 @@
-Sarcoscypha pusilla Velen. SPECIES
-=======
+# Sarcoscypha pusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

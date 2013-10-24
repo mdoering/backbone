@@ -1,5 +1,4 @@
-Escherichia aurescens SPECIES
-=======
+# Escherichia aurescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hydropus tubaeformis (Beeli) Pegler SPECIES
-=======
+# Hydropus tubiformis (Beeli) Pegler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 10: 260 (1983)
 
 #### Original name
 Lentinus tubaeformis Beeli

@@ -1,5 +1,4 @@
-Sphaeria viticola Schwein. SPECIES
-=======
+# Sphaeria viticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

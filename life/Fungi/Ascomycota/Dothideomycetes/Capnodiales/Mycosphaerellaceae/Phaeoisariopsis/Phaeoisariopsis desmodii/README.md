@@ -1,5 +1,4 @@
-Phaeoisariopsis desmodii Deighton SPECIES
-=======
+# Phaeoisariopsis desmodii Deighton SPECIES
 
 #### Status
 ACCEPTED

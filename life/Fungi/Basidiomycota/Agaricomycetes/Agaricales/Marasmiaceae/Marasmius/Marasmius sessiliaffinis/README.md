@@ -1,5 +1,4 @@
-Marasmius sessiliaffinis Singer SPECIES
-=======
+# Marasmius sessiliaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

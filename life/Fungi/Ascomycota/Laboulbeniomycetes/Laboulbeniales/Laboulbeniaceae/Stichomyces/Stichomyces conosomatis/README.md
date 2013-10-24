@@ -1,17 +1,16 @@
-Stichomyces conosomae Thaxt. SPECIES
-=======
+# Stichomyces conosomatis Thaxt., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts 37: 38 (1901)
 
 #### Original name
-Stichomyces conosomae Thaxt.
+Stichomyces conosomatis Thaxt., 1901
 
 ### Remarks
 null

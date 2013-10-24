@@ -1,8 +1,7 @@
-Phragmidium rosae-dahuricae Miura SPECIES
-=======
+# Phragmidium rosae-davuricae Miura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phragmidium rosae-dahuricae Miura
+Phragmidium rosae-davuricae Miura
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Platychrysis pigra Geitler SPECIES
-=======
+# Platychrysis pigra Geitler SPECIES
 
 #### Status
 ACCEPTED

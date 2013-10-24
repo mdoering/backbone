@@ -1,5 +1,4 @@
-Aecidium antherici Henn. & A. Evans SPECIES
-=======
+# Aecidium antherici Henn. & A. Evans SPECIES
 
 #### Status
 ACCEPTED

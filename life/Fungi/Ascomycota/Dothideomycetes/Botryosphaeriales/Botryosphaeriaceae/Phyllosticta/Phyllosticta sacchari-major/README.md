@@ -1,5 +1,4 @@
-Phyllosticta sacchari-major Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta sacchari-major Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

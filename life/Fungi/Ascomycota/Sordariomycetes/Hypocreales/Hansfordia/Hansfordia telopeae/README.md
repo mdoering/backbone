@@ -1,5 +1,4 @@
-Hansfordia telopeae Hansf. SPECIES
-=======
+# Hansfordia telopeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

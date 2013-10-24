@@ -1,5 +1,4 @@
-Coniothecium jaapii Died. SPECIES
-=======
+# Coniothecium jaapii Died. SPECIES
 
 #### Status
 ACCEPTED

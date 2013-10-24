@@ -1,5 +1,4 @@
-Stereum fallax Pat. SPECIES
-=======
+# Stereum fallax Pat. SPECIES
 
 #### Status
 ACCEPTED

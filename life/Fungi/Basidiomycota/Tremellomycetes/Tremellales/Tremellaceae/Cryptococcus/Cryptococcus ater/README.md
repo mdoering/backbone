@@ -1,5 +1,4 @@
-Cryptococcus ater (W.B. Cooke) Rodr. Mir. SPECIES
-=======
+# Cryptococcus ater (W.B. Cooke) Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

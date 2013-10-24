@@ -1,17 +1,16 @@
-Cuphophyllus pratensis f. pratensis FORM
-=======
+# Hygrocybe pratensis (Pers. Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 14(no. 56): 10 (1985)
+null
 
 #### Original name
-Cuphophyllus pratensis f. pratensis
+null
 
 ### Remarks
 null

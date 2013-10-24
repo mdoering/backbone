@@ -1,5 +1,4 @@
-Omphalia subsericella Romagn. SPECIES
-=======
+# Omphalia subsericella Romagn. SPECIES
 
 #### Status
 ACCEPTED

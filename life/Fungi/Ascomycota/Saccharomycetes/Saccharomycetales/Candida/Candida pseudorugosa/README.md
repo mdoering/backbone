@@ -1,5 +1,4 @@
-Candida pseudorugosa Juan Li, Y.C. Xu & F.Y. Bai SPECIES
-=======
+# Candida pseudorugosa Juan Li, Y.C. Xu & F.Y. Bai SPECIES
 
 #### Status
 ACCEPTED

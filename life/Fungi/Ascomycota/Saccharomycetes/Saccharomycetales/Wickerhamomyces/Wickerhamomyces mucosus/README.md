@@ -1,5 +1,4 @@
-Wickerhamomyces mucosus (Wick. & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces mucosus (Wick. & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

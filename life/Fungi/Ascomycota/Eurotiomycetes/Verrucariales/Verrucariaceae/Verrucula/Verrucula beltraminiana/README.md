@@ -1,5 +1,4 @@
-Verrucula beltraminiana (A. Massal.) J. Steiner SPECIES
-=======
+# Verrucula beltraminiana (A. Massal.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

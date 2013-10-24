@@ -1,5 +1,4 @@
-Parmelia pseudorutidota Asahina SPECIES
-=======
+# Parmelia pseudorutidota Asahina SPECIES
 
 #### Status
 ACCEPTED

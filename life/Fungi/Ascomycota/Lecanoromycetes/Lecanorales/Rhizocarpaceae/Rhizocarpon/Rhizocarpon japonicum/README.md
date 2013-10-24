@@ -1,5 +1,4 @@
-Rhizocarpon japonicum (Räsänen) Räsänen SPECIES
-=======
+# Rhizocarpon japonicum (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma peckii Dearn. & House SPECIES
-=======
+# Hebeloma peckii Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Musaespora Aptroot & Sipman GENUS
-=======
+# Musaespora Aptroot & Sipman GENUS
 
 #### Status
 ACCEPTED

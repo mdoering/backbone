@@ -1,5 +1,4 @@
-Agaricus furfurosus With. SPECIES
-=======
+# Agaricus furfurosus With. SPECIES
 
 #### Status
 ACCEPTED

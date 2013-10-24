@@ -1,5 +1,4 @@
-Omphalia paludosa Velen. SPECIES
-=======
+# Omphalia paludosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium subsphaerosporum Balazy SPECIES
-=======
+# Cephalosporium subsphaerosporum Balazy SPECIES
 
 #### Status
 ACCEPTED

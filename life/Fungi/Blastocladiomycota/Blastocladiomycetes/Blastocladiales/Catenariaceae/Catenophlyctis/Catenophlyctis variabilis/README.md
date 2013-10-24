@@ -1,17 +1,16 @@
-Catenophlyctis variabilis var. olduvaiensis Karling, 1976 VARIETY
-=======
+# Catenophlyctis variabilis (Karling) Karling, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 27(3-4): 756 (1976)
+Am. J. Bot. 52: 134 (1965)
 
 #### Original name
-Catenophlyctis variabilis var. olduvaiensis Karling, 1976
+Phlyctorhiza variabilis Karling, 1947
 
 ### Remarks
 null

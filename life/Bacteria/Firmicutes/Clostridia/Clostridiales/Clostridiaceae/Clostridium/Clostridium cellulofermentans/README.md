@@ -1,5 +1,4 @@
-Clostridium cellulofermentans He et al., 1991 SPECIES
-=======
+# Clostridium cellulofermentans He et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nigrolinearis Okane & Kakish. SPECIES
-=======
+# Puccinia nigrolinearis Okane & Kakish. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lotharingius contractus SPECIES
-=======
+# Lotharingius contractus SPECIES
 
 #### Status
 ACCEPTED

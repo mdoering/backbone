@@ -1,5 +1,4 @@
-Tretopileus sphaerophorus (Berk. & M.A. Curtis) S. Hughes & Deighton, 1960 SPECIES
-=======
+# Tretopileus sphaerophorus (Berk. & M.A. Curtis) S. Hughes & Deighton, 1960 SPECIES
 
 #### Status
 ACCEPTED

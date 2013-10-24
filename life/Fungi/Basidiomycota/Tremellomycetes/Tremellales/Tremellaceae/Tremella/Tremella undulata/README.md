@@ -1,5 +1,4 @@
-Tremella undulata Hoffm. SPECIES
-=======
+# Tremella undulata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

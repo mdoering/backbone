@@ -1,5 +1,4 @@
-Desmarella phalanx SPECIES
-=======
+# Desmarella phalanx SPECIES
 
 #### Status
 ACCEPTED

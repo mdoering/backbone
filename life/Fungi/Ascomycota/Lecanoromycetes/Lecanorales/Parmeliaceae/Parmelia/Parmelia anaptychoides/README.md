@@ -1,5 +1,4 @@
-Parmelia anaptychoides Kurok. SPECIES
-=======
+# Parmelia anaptychoides Kurok. SPECIES
 
 #### Status
 ACCEPTED

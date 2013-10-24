@@ -1,5 +1,4 @@
-Vermicularia kystosa Sousa da Câmara SPECIES
-=======
+# Vermicularia kystosa Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

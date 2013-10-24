@@ -1,5 +1,4 @@
-Daedalea aurea Pers. SPECIES
-=======
+# Daedalea aurea Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteriosira fragilis (Gran) Gran SPECIES
-=======
+# Bacteriosira fragilis (Gran) Gran SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solorinaria (Vain.) Gyeln. GENUS
-=======
+# Solorinaria (Vain.) Gyeln. GENUS
 
 #### Status
 ACCEPTED

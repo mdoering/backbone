@@ -1,5 +1,4 @@
-Leiopsophosphaera corrugata N. Umnova, 1975 SPECIES
-=======
+# Leiopsophosphaera corrugata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

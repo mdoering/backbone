@@ -1,5 +1,4 @@
-Sinoboletus duplicatoporus M. Zang, 1992 SPECIES
-=======
+# Sinoboletus duplicatoporus M. Zang, 1992 SPECIES
 
 #### Status
 ACCEPTED

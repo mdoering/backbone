@@ -1,5 +1,4 @@
-Melanoleuca mirabilis (Bres.) Singer SPECIES
-=======
+# Melanoleuca mirabilis (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

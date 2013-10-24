@@ -1,5 +1,4 @@
-Chaetophoma libanotidis Naumov SPECIES
-=======
+# Chaetophoma libanotidis Naumov SPECIES
 
 #### Status
 ACCEPTED

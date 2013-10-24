@@ -1,5 +1,4 @@
-Diplodia laelio-cattleyae Sibilia SPECIES
-=======
+# Diplodia laelio-cattleyae Sibilia SPECIES
 
 #### Status
 ACCEPTED

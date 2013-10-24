@@ -1,5 +1,4 @@
-Baltisphaeridium peltatum Cramer, 1966 SPECIES
-=======
+# Baltisphaeridium peltatum Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

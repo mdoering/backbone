@@ -1,5 +1,4 @@
-Usnea fusca Motyka SPECIES
-=======
+# Usnea fusca Motyka SPECIES
 
 #### Status
 ACCEPTED

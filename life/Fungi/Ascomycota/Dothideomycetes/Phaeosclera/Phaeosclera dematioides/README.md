@@ -1,5 +1,4 @@
-Phaeosclera dematioides Sigler, Tsuneda & J.W. Carmich., 1981 SPECIES
-=======
+# Phaeosclera dematioides Sigler, Tsuneda & J.W. Carmich., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polysphaeridium punctatum K. P. Jain & P. Millepied SPECIES
-=======
+# Polysphaeridium punctatum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

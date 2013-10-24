@@ -1,5 +1,4 @@
-Sphaeria horrida Schwein. SPECIES
-=======
+# Sphaeria horrida Schwein. SPECIES
 
 #### Status
 ACCEPTED

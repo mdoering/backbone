@@ -1,5 +1,4 @@
-Sorosporium platensis Hirschh. SPECIES
-=======
+# Sorosporium platensis Hirschh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacteriaceae FAMILY
-=======
+# Corynebacteriaceae FAMILY
 
 #### Status
 ACCEPTED

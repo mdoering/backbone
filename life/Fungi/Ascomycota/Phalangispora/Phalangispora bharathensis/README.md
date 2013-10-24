@@ -1,5 +1,4 @@
-Phalangispora bharathensis T.S.K. Prasad & Bhat, 2002 SPECIES
-=======
+# Phalangispora bharathensis T.S.K. Prasad & Bhat, 2002 SPECIES
 
 #### Status
 ACCEPTED

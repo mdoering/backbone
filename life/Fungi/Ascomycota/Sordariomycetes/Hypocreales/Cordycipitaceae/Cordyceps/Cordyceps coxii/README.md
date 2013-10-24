@@ -1,5 +1,4 @@
-Cordyceps coxii Olliff SPECIES
-=======
+# Cordyceps coxii Olliff SPECIES
 
 #### Status
 ACCEPTED

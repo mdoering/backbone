@@ -1,5 +1,4 @@
-Helotium leucopsis (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Helotium leucopsis (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus herradurensis Murrill SPECIES
-=======
+# Agaricus herradurensis Murrill SPECIES
 
 #### Status
 ACCEPTED

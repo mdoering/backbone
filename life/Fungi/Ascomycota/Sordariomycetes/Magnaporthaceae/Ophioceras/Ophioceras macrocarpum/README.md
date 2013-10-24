@@ -1,5 +1,4 @@
-Ophioceras macrocarpum (Sacc.) Sacc. SPECIES
-=======
+# Ophioceras macrocarpum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobacterium Mechichi et al., 1999 GENUS
-=======
+# Sporobacterium Mechichi et al., 1999 GENUS
 
 #### Status
 ACCEPTED

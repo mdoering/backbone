@@ -1,5 +1,4 @@
-Asteridiella voacangae Deighton SPECIES
-=======
+# Asteridiella voacangae Deighton SPECIES
 
 #### Status
 ACCEPTED

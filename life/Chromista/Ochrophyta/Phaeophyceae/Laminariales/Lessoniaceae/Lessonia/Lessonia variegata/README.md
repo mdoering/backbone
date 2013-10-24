@@ -1,5 +1,4 @@
-Lessonia variegata J. Agardh SPECIES
-=======
+# Lessonia variegata J. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus candidus Capelari, 2006 SPECIES
-=======
+# Crepidotus candidus Capelari, 2006 SPECIES
 
 #### Status
 ACCEPTED

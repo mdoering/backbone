@@ -1,5 +1,4 @@
-Diplodiella silenes Hollós SPECIES
-=======
+# Diplodiella silenes Hollós SPECIES
 
 #### Status
 ACCEPTED

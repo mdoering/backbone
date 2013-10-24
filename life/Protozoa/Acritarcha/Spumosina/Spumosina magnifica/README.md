@@ -1,5 +1,4 @@
-Spumosina magnifica Naumova, 1968 SPECIES
-=======
+# Spumosina magnifica Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

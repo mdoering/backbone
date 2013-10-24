@@ -1,5 +1,4 @@
-Lecanora macrospora (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora macrospora (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

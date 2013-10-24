@@ -1,5 +1,4 @@
-Pluteus concentricus E. Horak, 2008 SPECIES
-=======
+# Pluteus concentricus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

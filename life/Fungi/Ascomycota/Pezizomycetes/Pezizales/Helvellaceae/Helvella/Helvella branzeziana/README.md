@@ -1,5 +1,4 @@
-Helvella branzeziana Svrcek & J. Moravec SPECIES
-=======
+# Helvella branzeziana Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camposporium Harkness, 1884 GENUS
-=======
+# Camposporium Harkness, 1884 GENUS
 
 #### Status
 ACCEPTED

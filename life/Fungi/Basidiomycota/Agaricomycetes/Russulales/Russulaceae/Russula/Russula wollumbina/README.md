@@ -1,5 +1,4 @@
-Russula wollumbina Grgur. SPECIES
-=======
+# Russula wollumbina Grgur. SPECIES
 
 #### Status
 ACCEPTED

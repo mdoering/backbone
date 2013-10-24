@@ -1,14 +1,13 @@
-Duportella halimi (Boidin & Lanq.) Hjortstam, 1987 SPECIES
-=======
+# Peniophora halimi Boidin & Lanq., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Windahlia 17: 56 (1987)
+Trav. Mycol. Bull. Soc. Linn. Lyon, Spec. Num. 47 (1974)
 
 #### Original name
 Peniophora halimi Boidin & Lanq., 1974

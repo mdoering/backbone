@@ -1,5 +1,4 @@
-Mucronella pulchra Corner SPECIES
-=======
+# Mucronella pulchra Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea karawajevii Oxner SPECIES
-=======
+# Lecidea karawajevii Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina molholmii C.W. Dodge SPECIES
-=======
+# Rinodina molholmii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

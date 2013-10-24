@@ -1,8 +1,7 @@
-Myriangium zizyphi Tend. SPECIES
-=======
+# Myriangium ziziphi Tend. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myriangium zizyphi Tend.
+Myriangium ziziphi Tend.
 
 ### Remarks
 null

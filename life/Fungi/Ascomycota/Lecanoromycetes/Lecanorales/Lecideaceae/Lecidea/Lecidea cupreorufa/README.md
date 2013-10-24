@@ -1,5 +1,4 @@
-Lecidea cupreorufa Vain. SPECIES
-=======
+# Lecidea cupreorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

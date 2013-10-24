@@ -1,5 +1,4 @@
-Plicaria glacialis Rehm SPECIES
-=======
+# Plicaria glacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

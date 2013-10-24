@@ -1,5 +1,4 @@
-Stylocephalidae FAMILY
-=======
+# Stylocephalidae FAMILY
 
 #### Status
 ACCEPTED

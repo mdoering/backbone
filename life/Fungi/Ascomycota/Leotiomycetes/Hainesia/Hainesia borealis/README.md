@@ -1,5 +1,4 @@
-Hainesia borealis Ellis & Everh., 1889 SPECIES
-=======
+# Hainesia borealis Ellis & Everh., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya subincrustata (F. E. Fritsch & F. Rich) P. A. C. Senna SPECIES
-=======
+# Lyngbya subincrustata (F. E. Fritsch & F. Rich) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

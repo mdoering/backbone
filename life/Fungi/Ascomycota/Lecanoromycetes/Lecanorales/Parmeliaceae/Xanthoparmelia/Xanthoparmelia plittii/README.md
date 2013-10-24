@@ -1,5 +1,4 @@
-Xanthoparmelia plittii (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia plittii (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

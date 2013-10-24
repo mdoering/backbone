@@ -1,5 +1,4 @@
-Omphalina microsperma var. inodora Arnolds VARIETY
-=======
+# Omphalina microsperma Arnolds SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Biblthca Mycol. 90: 421 (1982)
+Biblthca Mycol. 90: 419 (1982)
 
 #### Original name
-Omphalina microsperma var. inodora Arnolds
+Omphalina microsperma Arnolds
 
 ### Remarks
 null

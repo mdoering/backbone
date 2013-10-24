@@ -1,17 +1,16 @@
-Coleodictys Clem. & Shear GENUS
-=======
+# Coleodictyospora Charles GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 218, 398 (1931)
+Phytopathology 19: 1051 (1929)
 
 #### Original name
-Coleodictys Clem. & Shear
+Coleodictyospora Charles
 
 ### Remarks
 null

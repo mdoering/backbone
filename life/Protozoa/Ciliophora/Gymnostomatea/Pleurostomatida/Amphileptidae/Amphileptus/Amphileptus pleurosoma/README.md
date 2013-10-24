@@ -1,5 +1,4 @@
-Amphileptus pleurosoma SPECIES
-=======
+# Amphileptus pleurosoma SPECIES
 
 #### Status
 ACCEPTED

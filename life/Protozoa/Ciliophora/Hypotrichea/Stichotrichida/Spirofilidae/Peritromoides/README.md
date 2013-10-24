@@ -1,5 +1,4 @@
-Peritromoides Bhatia, 1936 GENUS
-=======
+# Peritromoides Bhatia, 1936 GENUS
 
 #### Status
 ACCEPTED

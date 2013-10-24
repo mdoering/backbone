@@ -1,8 +1,7 @@
-Euplotes novemcarinata SPECIES
-=======
+# Euplotes novemcarinatus Wang, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

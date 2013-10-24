@@ -1,5 +1,4 @@
-Calvatia olivacea (Cooke & Massee) Lloyd SPECIES
-=======
+# Calvatia olivacea (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces hepiali Q.T. Chen & R.Q. Dai ex R.Q. Dai, X.M. Li, A.J. Shao, Shu F. Lin, J.L. Lan, Wei H. Chen & C.Y. Shen SPECIES
-=======
+# Paecilomyces hepiali Q.T. Chen & R.Q. Dai ex R.Q. Dai, X.M. Li, A.J. Shao, Shu F. Lin, J.L. Lan, Wei H. Chen & C.Y. Shen SPECIES
 
 #### Status
 ACCEPTED

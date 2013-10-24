@@ -1,5 +1,4 @@
-Pseudovorticella stilleri SPECIES
-=======
+# Pseudovorticella stilleri SPECIES
 
 #### Status
 ACCEPTED

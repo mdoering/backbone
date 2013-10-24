@@ -1,5 +1,4 @@
-Aspicilia inconspicua (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia inconspicua (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

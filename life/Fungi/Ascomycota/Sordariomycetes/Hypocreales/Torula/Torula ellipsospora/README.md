@@ -1,5 +1,4 @@
-Torula ellipsospora Corda SPECIES
-=======
+# Torula ellipsospora Corda SPECIES
 
 #### Status
 ACCEPTED

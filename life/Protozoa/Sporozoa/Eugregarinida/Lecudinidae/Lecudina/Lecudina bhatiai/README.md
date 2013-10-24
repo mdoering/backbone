@@ -1,5 +1,4 @@
-Lecudina bhatiai Levine, 1976 SPECIES
-=======
+# Lecudina bhatiai Levine, 1976 SPECIES
 
 #### Status
 ACCEPTED

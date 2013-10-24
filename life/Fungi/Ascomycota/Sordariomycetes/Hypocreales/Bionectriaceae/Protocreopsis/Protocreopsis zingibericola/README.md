@@ -1,5 +1,4 @@
-Protocreopsis zingibericola Yoshim. Doi, 1977 SPECIES
-=======
+# Protocreopsis zingibericola Yoshim. Doi, 1977 SPECIES
 
 #### Status
 ACCEPTED

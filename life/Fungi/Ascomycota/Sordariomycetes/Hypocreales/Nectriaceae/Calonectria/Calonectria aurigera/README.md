@@ -1,5 +1,4 @@
-Calonectria aurigera (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Calonectria aurigera (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

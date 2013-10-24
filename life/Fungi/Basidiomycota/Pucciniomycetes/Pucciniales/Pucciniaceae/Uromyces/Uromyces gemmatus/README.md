@@ -1,5 +1,4 @@
-Uromyces gemmatus Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces gemmatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

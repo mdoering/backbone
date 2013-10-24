@@ -1,5 +1,4 @@
-Ustilago enneapogonis G.W. Fisch. SPECIES
-=======
+# Ustilago enneapogonis G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

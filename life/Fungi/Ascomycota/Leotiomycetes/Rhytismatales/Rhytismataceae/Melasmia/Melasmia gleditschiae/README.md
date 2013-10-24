@@ -1,5 +1,4 @@
-Melasmia gleditschiae Ellis & Everh. SPECIES
-=======
+# Melasmia gleditschiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

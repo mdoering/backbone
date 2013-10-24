@@ -1,5 +1,4 @@
-Seynesia brosimicola J.A. Stev. SPECIES
-=======
+# Seynesia brosimicola J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

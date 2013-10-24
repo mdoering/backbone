@@ -1,5 +1,4 @@
-Passalora amurensis (Ziling) H.D. Shin & U. Braun SPECIES
-=======
+# Passalora amurensis (Ziling) H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

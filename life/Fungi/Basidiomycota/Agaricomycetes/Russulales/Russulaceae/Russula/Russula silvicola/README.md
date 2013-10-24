@@ -1,5 +1,4 @@
-Russula silvicola Shaffer SPECIES
-=======
+# Russula silvicola Shaffer SPECIES
 
 #### Status
 ACCEPTED

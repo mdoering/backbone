@@ -1,5 +1,4 @@
-Monographos microsporus var. microsporus VARIETY
-=======
+# Monographos microsporus Niessl SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monographos microsporus var. microsporus
+Monographos microsporus Niessl
 
 ### Remarks
 null

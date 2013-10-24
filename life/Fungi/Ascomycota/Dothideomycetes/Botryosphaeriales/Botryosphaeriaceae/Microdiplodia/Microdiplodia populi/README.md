@@ -1,5 +1,4 @@
-Microdiplodia populi Dearn. SPECIES
-=======
+# Microdiplodia populi Dearn. SPECIES
 
 #### Status
 ACCEPTED

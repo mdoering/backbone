@@ -1,5 +1,4 @@
-Botryodiplodia tanaria Sacc. SPECIES
-=======
+# Botryodiplodia tanaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

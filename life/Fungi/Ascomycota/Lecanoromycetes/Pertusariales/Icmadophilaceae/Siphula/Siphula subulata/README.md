@@ -1,5 +1,4 @@
-Siphula subulata Kremp. SPECIES
-=======
+# Siphula subulata Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus introfuscus Petch SPECIES
-=======
+# Polyporus introfuscus Petch SPECIES
 
 #### Status
 ACCEPTED

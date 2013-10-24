@@ -1,5 +1,4 @@
-Physalospora andicola Speg. SPECIES
-=======
+# Physalospora andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

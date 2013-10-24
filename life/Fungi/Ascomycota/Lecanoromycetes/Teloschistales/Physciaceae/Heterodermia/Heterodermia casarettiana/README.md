@@ -1,5 +1,4 @@
-Heterodermia casarettiana (A. Massal.) Trevis. SPECIES
-=======
+# Heterodermia casarettiana (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

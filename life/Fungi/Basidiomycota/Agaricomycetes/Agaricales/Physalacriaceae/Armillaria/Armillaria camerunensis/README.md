@@ -1,5 +1,4 @@
-Armillaria camerunensis (Henn.) Courtec. SPECIES
-=======
+# Armillaria camerunensis (Henn.) Courtec. SPECIES
 
 #### Status
 ACCEPTED

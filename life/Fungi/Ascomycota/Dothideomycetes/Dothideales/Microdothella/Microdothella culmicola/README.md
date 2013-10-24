@@ -1,5 +1,4 @@
-Microdothella culmicola Syd. & P. Syd., 1914 SPECIES
-=======
+# Microdothella culmicola Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

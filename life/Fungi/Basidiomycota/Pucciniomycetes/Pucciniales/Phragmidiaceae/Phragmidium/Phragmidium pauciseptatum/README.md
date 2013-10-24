@@ -1,5 +1,4 @@
-Phragmidium pauciseptatum Durrieu SPECIES
-=======
+# Phragmidium pauciseptatum Durrieu SPECIES
 
 #### Status
 ACCEPTED

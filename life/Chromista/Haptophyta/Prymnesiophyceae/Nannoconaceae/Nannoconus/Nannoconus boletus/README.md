@@ -1,5 +1,4 @@
-Nannoconus boletus Deflandre & Deflandre, 1967 SPECIES
-=======
+# Nannoconus boletus Deflandre & Deflandre, 1967 SPECIES
 
 #### Status
 ACCEPTED

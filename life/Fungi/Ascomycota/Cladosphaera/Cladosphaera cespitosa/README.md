@@ -1,17 +1,16 @@
-Sphaeria caespitosa Tode SPECIES
-=======
+# Cladosphaera cespitosa (Tode) Dumort., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comment. bot. (Tournay) (1822)
 
 #### Original name
-Sphaeria caespitosa Tode
+Sphaeria cespitosa Tode, 1791
 
 ### Remarks
 null

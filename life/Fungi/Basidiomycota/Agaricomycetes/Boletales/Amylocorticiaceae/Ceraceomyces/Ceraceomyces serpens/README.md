@@ -1,17 +1,16 @@
-Byssomerulius serpens f. serpens (Tode) Parmasto FORM
-=======
+# Ceraceomyces serpens (Tode) Ginns, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 16: 384 (1967)
+Can. J. Bot. 54((1-2)): 147 (1976)
 
 #### Original name
-Byssomerulius serpens f. serpens (Tode) Parmasto
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Simblum sphaerocephalum Schltdl. SPECIES
-=======
+# Simblum sphaerocephalum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

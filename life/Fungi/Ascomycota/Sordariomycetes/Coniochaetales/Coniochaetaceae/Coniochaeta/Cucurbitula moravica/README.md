@@ -1,5 +1,4 @@
-Cucurbitula moravica (Petr.) Kirschst. SPECIES
-=======
+# Cucurbitula moravica (Petr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegophora Sydow & P. Sydow, 1916 GENUS
-=======
+# Stegophora Sydow & P. Sydow, 1916 GENUS
 
 #### Status
 ACCEPTED

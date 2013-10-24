@@ -1,5 +1,4 @@
-Cellulomonas hominis Funke et al., 1996 SPECIES
-=======
+# Cellulomonas hominis Funke et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

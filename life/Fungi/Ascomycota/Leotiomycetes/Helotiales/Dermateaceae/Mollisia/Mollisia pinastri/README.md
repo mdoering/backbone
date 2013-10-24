@@ -1,5 +1,4 @@
-Mollisia pinastri (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Mollisia pinastri (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum oldae (Svrcek) Clémençon SPECIES
-=======
+# Lyophyllum oldae (Svrcek) Clémençon SPECIES
 
 #### Status
 ACCEPTED

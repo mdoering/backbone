@@ -1,8 +1,7 @@
-Pavillardinium pacificum Rampi SPECIES
-=======
+# Centrodinium pacificum (Rampi, 1950) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

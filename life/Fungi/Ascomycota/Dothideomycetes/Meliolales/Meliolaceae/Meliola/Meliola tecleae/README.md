@@ -1,5 +1,4 @@
-Meliola tecleae var. tecleae VARIETY
-=======
+# Meliola tecleae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 153: 11 (1941)
 
 #### Original name
-Meliola tecleae var. tecleae
+Meliola tecleae Hansf.
 
 ### Remarks
 null

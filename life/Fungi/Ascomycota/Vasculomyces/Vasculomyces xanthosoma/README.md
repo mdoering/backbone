@@ -1,5 +1,4 @@
-Vasculomyces xanthosoma S.F. Ashby SPECIES
-=======
+# Vasculomyces xanthosoma S.F. Ashby SPECIES
 
 #### Status
 ACCEPTED

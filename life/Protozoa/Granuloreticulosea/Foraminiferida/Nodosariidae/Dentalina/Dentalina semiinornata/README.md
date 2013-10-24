@@ -1,5 +1,4 @@
-Dentalina semiinornata Loeblich & Tappan, 1994 SPECIES
-=======
+# Dentalina semiinornata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

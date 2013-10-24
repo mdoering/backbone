@@ -1,5 +1,4 @@
-Amoebidium australiense Lichtw. & M.C. Williams, 1992 SPECIES
-=======
+# Amoebidium australiense Lichtw. & M.C. Williams, 1992 SPECIES
 
 #### Status
 ACCEPTED

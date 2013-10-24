@@ -1,5 +1,4 @@
-Ampelomyces phlomidis (Dejeva) Rudakov SPECIES
-=======
+# Ampelomyces phlomidis (Dejeva) Rudakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticulofenestra producta (Kamptner) W. Wei & H. R. Thierstein SPECIES
-=======
+# Reticulofenestra producta (Kamptner) W. Wei & H. R. Thierstein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrosporium stachydis f. stachydis FORM
-=======
+# Ramularia stachydis (Pass.) C. Massal., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Accad. Agric. Arti & Commercio di Verona 113 (1889)
 
 #### Original name
-Cylindrosporium stachydis f. stachydis
+Fusidium stachydis Pass., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heliomyces translucens Murrill SPECIES
-=======
+# Heliomyces translucens Murrill SPECIES
 
 #### Status
 ACCEPTED

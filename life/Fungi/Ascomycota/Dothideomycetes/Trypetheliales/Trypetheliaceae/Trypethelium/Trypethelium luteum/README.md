@@ -1,5 +1,4 @@
-Trypethelium luteum Taylor SPECIES
-=======
+# Trypethelium luteum Taylor SPECIES
 
 #### Status
 ACCEPTED

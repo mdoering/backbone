@@ -1,5 +1,4 @@
-Leptosphaeria belamcadae G.M. Chang & P.K. Chi SPECIES
-=======
+# Leptosphaeria belamcadae G.M. Chang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria spegazzinii Vouaux SPECIES
-=======
+# Nectria spegazzinii Vouaux SPECIES
 
 #### Status
 ACCEPTED

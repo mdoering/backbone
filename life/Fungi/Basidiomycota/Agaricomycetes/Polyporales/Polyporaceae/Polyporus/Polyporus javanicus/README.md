@@ -1,5 +1,4 @@
-Polyporus javanicus Pat. SPECIES
-=======
+# Polyporus javanicus Pat. SPECIES
 
 #### Status
 ACCEPTED

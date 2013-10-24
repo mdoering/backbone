@@ -1,5 +1,4 @@
-Mycosphaerella suaedae-australis Hansf., 1954 SPECIES
-=======
+# Mycosphaerella suaedae-australis Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

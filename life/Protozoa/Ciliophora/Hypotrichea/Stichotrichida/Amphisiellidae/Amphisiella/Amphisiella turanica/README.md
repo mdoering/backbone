@@ -1,5 +1,4 @@
-Amphisiella turanica Alekperov & Asadullayeva, 1999 SPECIES
-=======
+# Amphisiella turanica Alekperov & Asadullayeva, 1999 SPECIES
 
 #### Status
 ACCEPTED

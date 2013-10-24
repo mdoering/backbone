@@ -1,5 +1,4 @@
-Fellhanera lisowskii (Vezda) Vezda SPECIES
-=======
+# Fellhanera lisowskii (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

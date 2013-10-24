@@ -1,5 +1,4 @@
-Hypoxylon macromphalum Mont. SPECIES
-=======
+# Hypoxylon macromphalum Mont. SPECIES
 
 #### Status
 ACCEPTED

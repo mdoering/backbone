@@ -1,5 +1,4 @@
-Rhabdospora lentiformis Schulzer & Sacc. SPECIES
-=======
+# Rhabdospora lentiformis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

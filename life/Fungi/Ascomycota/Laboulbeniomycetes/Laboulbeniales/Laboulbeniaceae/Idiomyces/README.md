@@ -1,5 +1,4 @@
-Idiomyces Thaxt. GENUS
-=======
+# Idiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

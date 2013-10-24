@@ -1,5 +1,4 @@
-Stictina fimbriata var. fimbriata VARIETY
-=======
+# Stictina fimbriata (Schaer.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina fimbriata var. fimbriata
+Sticta fimbriata Taylor
 
 ### Remarks
 null

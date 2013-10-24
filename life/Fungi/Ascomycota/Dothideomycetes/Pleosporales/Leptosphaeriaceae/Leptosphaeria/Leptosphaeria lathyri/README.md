@@ -1,5 +1,4 @@
-Leptosphaeria lathyri Fautrey SPECIES
-=======
+# Leptosphaeria lathyri Fautrey SPECIES
 
 #### Status
 ACCEPTED

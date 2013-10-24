@@ -1,5 +1,4 @@
-Aecidium cordiae Henn. SPECIES
-=======
+# Aecidium cordiae Henn. SPECIES
 
 #### Status
 ACCEPTED

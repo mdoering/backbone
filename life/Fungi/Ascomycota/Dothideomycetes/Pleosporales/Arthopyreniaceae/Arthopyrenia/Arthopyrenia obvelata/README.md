@@ -1,5 +1,4 @@
-Arthopyrenia obvelata SPECIES
-=======
+# Arthopyrenia obvelata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bremia taraxaci S. Ito & Tokun. SPECIES
-=======
+# Bremia taraxaci S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

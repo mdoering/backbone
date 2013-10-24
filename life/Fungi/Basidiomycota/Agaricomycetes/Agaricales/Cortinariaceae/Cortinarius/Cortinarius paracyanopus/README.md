@@ -1,5 +1,4 @@
-Cortinarius paracyanopus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius paracyanopus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

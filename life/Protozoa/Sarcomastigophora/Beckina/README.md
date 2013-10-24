@@ -1,5 +1,4 @@
-Beckina Kleinpell & Tipton in Kleinpell, 1980 GENUS
-=======
+# Beckina Kleinpell & Tipton in Kleinpell, 1980 GENUS
 
 #### Status
 ACCEPTED

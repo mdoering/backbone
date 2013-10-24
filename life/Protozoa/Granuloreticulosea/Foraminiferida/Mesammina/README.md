@@ -1,5 +1,4 @@
-Mesammina Pichler, 1971 GENUS
-=======
+# Mesammina Pichler, 1971 GENUS
 
 #### Status
 ACCEPTED

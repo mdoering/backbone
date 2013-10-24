@@ -1,5 +1,4 @@
-Gymnopilus minutosporus Natarajan & Raman SPECIES
-=======
+# Gymnopilus minutosporus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

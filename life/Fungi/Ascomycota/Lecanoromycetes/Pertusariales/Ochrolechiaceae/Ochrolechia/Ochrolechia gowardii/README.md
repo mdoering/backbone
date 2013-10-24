@@ -1,5 +1,4 @@
-Ochrolechia gowardii Brodo SPECIES
-=======
+# Ochrolechia gowardii Brodo SPECIES
 
 #### Status
 ACCEPTED

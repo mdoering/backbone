@@ -1,5 +1,4 @@
-Xanthoparmelia uruguayensis T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia uruguayensis T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

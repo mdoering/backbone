@@ -1,17 +1,16 @@
-Glonium costesi Speg., 1921 SPECIES
-=======
+# Glonium costesii Speg., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 78-79 (1921)
 
 #### Original name
-Glonium costesi Speg., 1921
+Glonium costesii Speg., 1921
 
 ### Remarks
 null

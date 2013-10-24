@@ -1,5 +1,4 @@
-Gloeosporium angelicae Cooke SPECIES
-=======
+# Gloeosporium angelicae Cooke SPECIES
 
 #### Status
 ACCEPTED

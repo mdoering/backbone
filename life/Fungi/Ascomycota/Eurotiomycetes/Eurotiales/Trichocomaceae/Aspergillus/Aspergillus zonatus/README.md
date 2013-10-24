@@ -1,5 +1,4 @@
-Aspergillus zonatus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus zonatus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

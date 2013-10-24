@@ -1,5 +1,4 @@
-Mortierella macrocystopsis W. Gams & Carreiro, 1989 SPECIES
-=======
+# Mortierella macrocystopsis W. Gams & Carreiro, 1989 SPECIES
 
 #### Status
 ACCEPTED

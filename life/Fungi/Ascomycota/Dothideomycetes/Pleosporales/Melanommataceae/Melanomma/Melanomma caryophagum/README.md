@@ -1,5 +1,4 @@
-Melanomma caryophagum (Schwein.) Fairm. SPECIES
-=======
+# Melanomma caryophagum (Schwein.) Fairm. SPECIES
 
 #### Status
 ACCEPTED

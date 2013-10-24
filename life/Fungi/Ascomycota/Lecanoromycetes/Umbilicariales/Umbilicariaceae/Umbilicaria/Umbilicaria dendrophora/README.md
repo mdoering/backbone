@@ -1,5 +1,4 @@
-Umbilicaria dendrophora (Poelt) Hestmark SPECIES
-=======
+# Umbilicaria dendrophora (Poelt) Hestmark SPECIES
 
 #### Status
 ACCEPTED

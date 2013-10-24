@@ -1,5 +1,4 @@
-Xylaria eupiliaca Ces. SPECIES
-=======
+# Xylaria eupiliaca Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola guatteriae Mig. Rodr. SPECIES
-=======
+# Meliola guatteriae Mig. Rodr. SPECIES
 
 #### Status
 ACCEPTED

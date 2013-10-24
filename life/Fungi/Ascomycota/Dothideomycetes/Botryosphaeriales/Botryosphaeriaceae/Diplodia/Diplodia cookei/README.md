@@ -1,5 +1,4 @@
-Diplodia cookei Sacc. & P. Syd. SPECIES
-=======
+# Diplodia cookei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

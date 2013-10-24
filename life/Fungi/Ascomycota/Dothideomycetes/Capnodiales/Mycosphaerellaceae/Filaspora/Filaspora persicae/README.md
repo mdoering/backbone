@@ -1,5 +1,4 @@
-Filaspora persicae (Sacc.) Kuntze SPECIES
-=======
+# Filaspora persicae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

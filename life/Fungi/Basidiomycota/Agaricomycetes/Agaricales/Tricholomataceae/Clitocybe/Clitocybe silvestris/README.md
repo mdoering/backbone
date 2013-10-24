@@ -1,17 +1,16 @@
-Clitocybe silvestre Raithelh. SPECIES
-=======
+# Clitocybe silvestris Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 4(4): 66 (1973)
 
 #### Original name
-Clitocybe silvestre Raithelh.
+Gerronema infundibuliforme Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Conioscyphascus varius Réblová & Seifert, 2004 SPECIES
-=======
+# Conioscyphascus varius Réblová & Seifert, 2004 SPECIES
 
 #### Status
 ACCEPTED

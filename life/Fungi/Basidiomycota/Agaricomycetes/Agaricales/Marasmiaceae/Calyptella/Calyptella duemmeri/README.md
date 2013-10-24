@@ -1,5 +1,4 @@
-Calyptella duemmeri W.B. Cooke SPECIES
-=======
+# Calyptella duemmeri W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

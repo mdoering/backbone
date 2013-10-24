@@ -1,5 +1,4 @@
-Ayalaina Seiglie, 1960 GENUS
-=======
+# Ayalaina Seiglie, 1960 GENUS
 
 #### Status
 ACCEPTED

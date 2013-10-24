@@ -1,5 +1,4 @@
-Rhaphidospora exilis Ces. SPECIES
-=======
+# Rhaphidospora exilis Ces. SPECIES
 
 #### Status
 ACCEPTED

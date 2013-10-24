@@ -1,5 +1,4 @@
-Typhula rubicola Berk. & M.A. Curtis SPECIES
-=======
+# Typhula rubicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

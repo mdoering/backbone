@@ -1,5 +1,4 @@
-Trogia cystidiata Corner SPECIES
-=======
+# Trogia cystidiata Corner SPECIES
 
 #### Status
 ACCEPTED

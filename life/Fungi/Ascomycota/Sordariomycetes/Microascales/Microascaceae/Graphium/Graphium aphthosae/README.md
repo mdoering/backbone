@@ -1,5 +1,4 @@
-Graphium aphthosae Alstrup & D. Hawksw. SPECIES
-=======
+# Graphium aphthosae Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

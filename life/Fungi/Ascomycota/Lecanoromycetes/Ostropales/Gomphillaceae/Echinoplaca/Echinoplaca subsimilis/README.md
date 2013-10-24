@@ -1,5 +1,4 @@
-Echinoplaca subsimilis Kalb & Vezda SPECIES
-=======
+# Echinoplaca subsimilis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

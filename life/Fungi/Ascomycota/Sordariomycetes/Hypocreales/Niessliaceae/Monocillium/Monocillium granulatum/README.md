@@ -1,5 +1,4 @@
-Monocillium granulatum (Fuckel) W. Gams SPECIES
-=======
+# Monocillium granulatum (Fuckel) W. Gams SPECIES
 
 #### Status
 ACCEPTED

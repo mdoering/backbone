@@ -1,5 +1,4 @@
-Mycoarthopyrenia GENUS
-=======
+# Mycoarthopyrenia GENUS
 
 #### Status
 ACCEPTED

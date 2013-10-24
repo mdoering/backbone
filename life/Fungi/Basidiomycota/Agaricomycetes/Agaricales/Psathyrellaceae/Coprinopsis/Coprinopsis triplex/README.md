@@ -1,5 +1,4 @@
-Coprinopsis triplex (P.D. Orton) P. Roux & Guy Garcia, 2006 SPECIES
-=======
+# Coprinopsis triplex (P.D. Orton) P. Roux & Guy Garcia, 2006 SPECIES
 
 #### Status
 ACCEPTED

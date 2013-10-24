@@ -1,5 +1,4 @@
-Spathidium peniculatum Kahl, 1930 SPECIES
-=======
+# Spathidium peniculatum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

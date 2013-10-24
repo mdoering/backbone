@@ -1,5 +1,4 @@
-Englerulaster popowiae Doidge SPECIES
-=======
+# Englerulaster popowiae Doidge SPECIES
 
 #### Status
 ACCEPTED

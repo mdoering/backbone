@@ -1,5 +1,4 @@
-Phaeotrema phaeospermoides (Vain.) Zahlbr. SPECIES
-=======
+# Phaeotrema phaeospermoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

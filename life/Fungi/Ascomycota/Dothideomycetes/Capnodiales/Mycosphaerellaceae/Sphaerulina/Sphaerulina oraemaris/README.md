@@ -1,5 +1,4 @@
-Sphaerulina oraemaris Linder, 1944 SPECIES
-=======
+# Sphaerulina oraemaris Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

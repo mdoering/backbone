@@ -1,5 +1,4 @@
-Holostichides terricola Foissner, 1988 SPECIES
-=======
+# Holostichides terricola Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

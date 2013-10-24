@@ -1,5 +1,4 @@
-Boletus viridis (Heinem. & Gooss.-Font.) Corner SPECIES
-=======
+# Boletus viridis (Heinem. & Gooss.-Font.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria radicescens Nyl. SPECIES
-=======
+# Neocatapyrenium radicescens (Nyl.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 463 (1863)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Verrucaria radicescens Nyl.

@@ -1,5 +1,4 @@
-Tuburcinia phlei Lavrov SPECIES
-=======
+# Tuburcinia phlei Lavrov SPECIES
 
 #### Status
 ACCEPTED

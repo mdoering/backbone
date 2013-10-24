@@ -1,5 +1,4 @@
-Langermannia punctata Rostk. SPECIES
-=======
+# Langermannia punctata Rostk. SPECIES
 
 #### Status
 ACCEPTED

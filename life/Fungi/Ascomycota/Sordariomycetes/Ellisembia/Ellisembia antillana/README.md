@@ -1,5 +1,4 @@
-Ellisembia antillana (R.F. Castañeda & W.B. Kendr.) McKenzie SPECIES
-=======
+# Ellisembia antillana (R.F. Castañeda & W.B. Kendr.) McKenzie SPECIES
 
 #### Status
 ACCEPTED

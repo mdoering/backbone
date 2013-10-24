@@ -1,5 +1,4 @@
-Coprobia striata (K.S. Thind, E.K. Cash & Pr. Singh) Waraitch SPECIES
-=======
+# Coprobia striata (K.S. Thind, E.K. Cash & Pr. Singh) Waraitch SPECIES
 
 #### Status
 ACCEPTED

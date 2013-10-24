@@ -1,5 +1,4 @@
-Metasphaeria daphnes Bäumler SPECIES
-=======
+# Metasphaeria daphnes Bäumler SPECIES
 
 #### Status
 ACCEPTED

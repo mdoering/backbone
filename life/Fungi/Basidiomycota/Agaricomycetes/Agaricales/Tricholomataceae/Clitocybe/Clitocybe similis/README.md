@@ -1,5 +1,4 @@
-Clitocybe similis Rick SPECIES
-=======
+# Clitocybe similis Rick SPECIES
 
 #### Status
 ACCEPTED

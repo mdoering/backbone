@@ -1,5 +1,4 @@
-Thelephora livescens (Bres.) Sacc. & P. Syd. SPECIES
-=======
+# Thelephora livescens (Bres.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

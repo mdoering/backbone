@@ -1,17 +1,16 @@
-Xylaria arbuscula var. plenofissura Y.M. Ju & Tzean VARIETY
-=======
+# Xylaria arbuscula Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Rep. China 1(2): 107 (1985)
+Michelia 1(no. 2): 249 (1878)
 
 #### Original name
-Xylaria arbuscula var. plenofissura Y.M. Ju & Tzean
+Xylaria arbuscula Sacc., 1878
 
 ### Remarks
 null

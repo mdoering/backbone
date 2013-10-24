@@ -1,5 +1,4 @@
-Massaria shearii Petr. SPECIES
-=======
+# Massaria shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

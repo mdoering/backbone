@@ -1,5 +1,4 @@
-Boletus bubalinus Oolbekk. & Duin SPECIES
-=======
+# Boletus bubalinus Oolbekk. & Duin SPECIES
 
 #### Status
 ACCEPTED

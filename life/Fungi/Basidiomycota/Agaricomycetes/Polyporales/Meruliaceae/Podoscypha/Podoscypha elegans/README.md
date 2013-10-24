@@ -1,17 +1,16 @@
-Stereum elegans var. floriforme (Bres.) Rick VARIETY
-=======
+# Podoscypha elegans (G. Mey.) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 69 (1959)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 71 (1900)
 
 #### Original name
-Stereum floriforme Lloyd, 1913
+Thelephora elegans G. Mey., 1818
 
 ### Remarks
 null

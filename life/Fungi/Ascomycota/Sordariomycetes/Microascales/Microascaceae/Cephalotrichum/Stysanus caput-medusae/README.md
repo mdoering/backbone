@@ -1,5 +1,4 @@
-Stysanus caput-medusae Corda SPECIES
-=======
+# Stysanus caput-medusae Corda SPECIES
 
 #### Status
 ACCEPTED

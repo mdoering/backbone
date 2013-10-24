@@ -1,5 +1,4 @@
-Hypoxylon undosum (Lév.) Sacc. SPECIES
-=======
+# Hypoxylon undosum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

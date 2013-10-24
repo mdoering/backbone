@@ -1,5 +1,4 @@
-Sporidesmium occidentale R.F. Castañeda SPECIES
-=======
+# Sporidesmium occidentale R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

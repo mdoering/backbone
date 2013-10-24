@@ -1,5 +1,4 @@
-Strobilurus ohshimae (Hongo) Hongo & Izawa SPECIES
-=======
+# Strobilurus ohshimae (Hongo) Hongo & Izawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus aureus Berk. SPECIES
-=======
+# Polyporus aureus Berk. SPECIES
 
 #### Status
 ACCEPTED

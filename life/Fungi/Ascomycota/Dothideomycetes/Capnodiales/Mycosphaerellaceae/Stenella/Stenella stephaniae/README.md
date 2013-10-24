@@ -1,5 +1,4 @@
-Stenella stephaniae J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Stenella stephaniae J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

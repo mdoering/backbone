@@ -1,5 +1,4 @@
-Galerula filipes G.F. Atk. SPECIES
-=======
+# Galerula filipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

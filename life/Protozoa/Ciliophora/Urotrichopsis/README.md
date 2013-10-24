@@ -1,5 +1,4 @@
-Urotrichopsis Foissner, 1983 GENUS
-=======
+# Urotrichopsis Foissner, 1983 GENUS
 
 #### Status
 ACCEPTED

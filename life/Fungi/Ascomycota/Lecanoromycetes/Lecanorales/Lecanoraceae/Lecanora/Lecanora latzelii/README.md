@@ -1,5 +1,4 @@
-Lecanora latzelii Zahlbr. SPECIES
-=======
+# Lecanora latzelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

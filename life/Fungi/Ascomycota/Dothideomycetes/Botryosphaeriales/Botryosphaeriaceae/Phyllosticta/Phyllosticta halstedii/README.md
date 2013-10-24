@@ -1,5 +1,4 @@
-Phyllosticta halstedii Ellis & Everh. SPECIES
-=======
+# Phyllosticta halstedii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

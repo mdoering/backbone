@@ -1,5 +1,4 @@
-Inocybe mixtiliformis Singer SPECIES
-=======
+# Inocybe mixtiliformis Singer SPECIES
 
 #### Status
 ACCEPTED

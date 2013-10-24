@@ -1,5 +1,4 @@
-Batistina splendida Peres, 1961 SPECIES
-=======
+# Batistina splendida Peres, 1961 SPECIES
 
 #### Status
 ACCEPTED

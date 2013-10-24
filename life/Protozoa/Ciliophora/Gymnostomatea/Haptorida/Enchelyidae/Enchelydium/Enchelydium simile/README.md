@@ -1,5 +1,4 @@
-Enchelydium simile Foissner, 1980 SPECIES
-=======
+# Enchelydium simile Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

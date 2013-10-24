@@ -1,5 +1,4 @@
-Antrodiella serpula (P. Karst.) Spirin & Niemelä SPECIES
-=======
+# Antrodiella serpula (P. Karst.) Spirin & Niemelä SPECIES
 
 #### Status
 ACCEPTED

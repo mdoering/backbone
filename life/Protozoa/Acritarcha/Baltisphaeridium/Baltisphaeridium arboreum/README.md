@@ -1,5 +1,4 @@
-Baltisphaeridium arboreum N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium arboreum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

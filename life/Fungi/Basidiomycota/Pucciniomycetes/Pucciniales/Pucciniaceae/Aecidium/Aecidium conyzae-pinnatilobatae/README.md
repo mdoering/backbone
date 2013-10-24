@@ -1,5 +1,4 @@
-Aecidium conyzae-pinnatilobatae P. Syd. & Syd. SPECIES
-=======
+# Aecidium conyzae-pinnatilobatae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

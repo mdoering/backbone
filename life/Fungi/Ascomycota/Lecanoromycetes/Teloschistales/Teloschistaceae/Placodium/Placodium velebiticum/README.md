@@ -1,5 +1,4 @@
-Placodium velebiticum Zahlbr. SPECIES
-=======
+# Placodium velebiticum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

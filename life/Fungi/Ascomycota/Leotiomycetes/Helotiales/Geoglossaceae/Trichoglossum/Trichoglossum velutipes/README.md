@@ -1,5 +1,4 @@
-Trichoglossum velutipes (Peck) E.J. Durand SPECIES
-=======
+# Trichoglossum velutipes (Peck) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

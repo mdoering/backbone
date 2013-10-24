@@ -1,5 +1,4 @@
-Trichoderma minutisporum Bissett, 1992 SPECIES
-=======
+# Trichoderma minutisporum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

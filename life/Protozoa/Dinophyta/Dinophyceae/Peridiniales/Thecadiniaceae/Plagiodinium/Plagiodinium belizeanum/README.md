@@ -1,5 +1,4 @@
-Plagiodinium belizeanum M. A. Faust & E. Balech SPECIES
-=======
+# Plagiodinium belizeanum M. A. Faust & E. Balech SPECIES
 
 #### Status
 ACCEPTED

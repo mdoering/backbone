@@ -1,5 +1,4 @@
-Coprotus leucopocillum Kimbr., Luck-Allen & Cain, 1972 SPECIES
-=======
+# Coprotus leucopocillum Kimbr., Luck-Allen & Cain, 1972 SPECIES
 
 #### Status
 ACCEPTED

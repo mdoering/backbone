@@ -1,5 +1,4 @@
-Ramalina glaucescens Kremp. SPECIES
-=======
+# Ramalina glaucescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

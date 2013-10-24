@@ -1,5 +1,4 @@
-Ophiobolus tenuis Pass. SPECIES
-=======
+# Ophiobolus tenuis Pass. SPECIES
 
 #### Status
 ACCEPTED

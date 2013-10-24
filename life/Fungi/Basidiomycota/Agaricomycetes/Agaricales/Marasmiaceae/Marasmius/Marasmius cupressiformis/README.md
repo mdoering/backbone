@@ -1,5 +1,4 @@
-Marasmius cupressiformis Berk. SPECIES
-=======
+# Marasmius cupressiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

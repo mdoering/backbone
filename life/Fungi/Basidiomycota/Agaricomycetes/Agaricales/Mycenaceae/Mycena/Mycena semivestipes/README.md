@@ -1,5 +1,4 @@
-Mycena semivestipes (Peck) A.H. Sm. SPECIES
-=======
+# Mycena semivestipes (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

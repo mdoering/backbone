@@ -1,5 +1,4 @@
-Pseudogenea GENUS
-=======
+# Pseudogenea GENUS
 
 #### Status
 ACCEPTED

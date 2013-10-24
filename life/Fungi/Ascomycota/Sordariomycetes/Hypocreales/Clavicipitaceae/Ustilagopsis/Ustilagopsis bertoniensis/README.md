@@ -1,5 +1,4 @@
-Ustilagopsis bertoniensis Speg. SPECIES
-=======
+# Ustilagopsis bertoniensis Speg. SPECIES
 
 #### Status
 ACCEPTED

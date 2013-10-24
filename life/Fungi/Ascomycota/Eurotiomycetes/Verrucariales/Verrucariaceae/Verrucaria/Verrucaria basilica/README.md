@@ -1,5 +1,4 @@
-Verrucaria basilica Kremp. SPECIES
-=======
+# Verrucaria basilica Kremp. SPECIES
 
 #### Status
 ACCEPTED

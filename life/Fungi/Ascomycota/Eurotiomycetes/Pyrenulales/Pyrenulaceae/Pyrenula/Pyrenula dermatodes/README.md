@@ -1,17 +1,16 @@
-Pyrenula occulta var. occulta VARIETY
-=======
+# Pyrenula dermatodes (Borrer) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 2(append. 1): 94 (1894)
+Enum. critic. lich. europ. (Bern) 213 (1850)
 
 #### Original name
-Pyrenula occulta var. occulta
+Verrucaria dermatodes Borrer
 
 ### Remarks
 null

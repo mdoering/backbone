@@ -1,5 +1,4 @@
-Galera vinolenta Berk. SPECIES
-=======
+# Galera vinolenta Berk. SPECIES
 
 #### Status
 ACCEPTED

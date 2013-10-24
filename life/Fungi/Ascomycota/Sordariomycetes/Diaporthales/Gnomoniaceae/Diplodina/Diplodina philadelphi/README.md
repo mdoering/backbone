@@ -1,5 +1,4 @@
-Diplodina philadelphi Ziling SPECIES
-=======
+# Diplodina philadelphi Ziling SPECIES
 
 #### Status
 ACCEPTED

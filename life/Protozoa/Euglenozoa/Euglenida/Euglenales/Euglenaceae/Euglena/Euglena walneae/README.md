@@ -1,5 +1,4 @@
-Euglena walneae B. Zakrys SPECIES
-=======
+# Euglena walneae B. Zakrys SPECIES
 
 #### Status
 ACCEPTED

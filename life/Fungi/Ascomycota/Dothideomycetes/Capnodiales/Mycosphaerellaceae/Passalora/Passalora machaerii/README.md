@@ -1,5 +1,4 @@
-Passalora machaerii A. Hern. Gut. & Dianese SPECIES
-=======
+# Passalora machaerii A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

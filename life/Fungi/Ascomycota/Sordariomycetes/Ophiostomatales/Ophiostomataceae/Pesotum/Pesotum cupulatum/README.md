@@ -1,5 +1,4 @@
-Pesotum cupulatum McNew & T.C. Harr. SPECIES
-=======
+# Pesotum cupulatum McNew & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

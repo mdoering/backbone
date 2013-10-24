@@ -1,5 +1,4 @@
-Pyrenula quassiaecola Fée, 1837 SPECIES
-=======
+# Pyrenula quassiaecola Fée, 1837 SPECIES
 
 #### Status
 DOUBTFUL

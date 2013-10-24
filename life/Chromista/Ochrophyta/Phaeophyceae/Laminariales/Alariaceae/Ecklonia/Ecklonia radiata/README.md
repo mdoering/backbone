@@ -1,8 +1,7 @@
-Ecklonia radiata var. exasperata (Turner) Harvey VARIETY
-=======
+# Ecklonia radiata (C. Agardh) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

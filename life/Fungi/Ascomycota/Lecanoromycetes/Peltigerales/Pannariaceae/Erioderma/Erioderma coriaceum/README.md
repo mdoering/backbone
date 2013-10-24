@@ -1,5 +1,4 @@
-Erioderma coriaceum P.M. Jørg. & Sipman SPECIES
-=======
+# Erioderma coriaceum P.M. Jørg. & Sipman SPECIES
 
 #### Status
 ACCEPTED

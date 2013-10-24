@@ -1,14 +1,13 @@
-Lambertella minutula (Whetzel) Dumont, 1975 SPECIES
-=======
+# Coprotinia minutula Whetzel, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 67(2): 320 (1975)
+Farlowia 1: (1944)
 
 #### Original name
 Coprotinia minutula Whetzel, 1944

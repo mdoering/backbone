@@ -1,5 +1,4 @@
-Laboulbenia axinotomae Speg. SPECIES
-=======
+# Laboulbenia axinotomae Speg. SPECIES
 
 #### Status
 ACCEPTED

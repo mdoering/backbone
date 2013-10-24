@@ -1,5 +1,4 @@
-Massaria vomitoria var. vomitoria VARIETY
-=======
+# Massaria vomitoria Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Massaria vomitoria var. vomitoria
+Massaria vomitoria Berk. & M.A. Curtis
 
 ### Remarks
 null

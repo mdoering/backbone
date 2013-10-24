@@ -1,5 +1,4 @@
-Psoroma flavicans Müll. Arg. SPECIES
-=======
+# Psoroma flavicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

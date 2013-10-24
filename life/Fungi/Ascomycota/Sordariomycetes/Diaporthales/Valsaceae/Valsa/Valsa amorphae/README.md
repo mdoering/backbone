@@ -1,5 +1,4 @@
-Valsa amorphae Ellis & Everh. SPECIES
-=======
+# Valsa amorphae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

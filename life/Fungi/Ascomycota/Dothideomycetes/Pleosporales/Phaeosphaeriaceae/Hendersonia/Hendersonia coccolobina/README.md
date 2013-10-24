@@ -1,5 +1,4 @@
-Hendersonia coccolobina Fairm. SPECIES
-=======
+# Hendersonia coccolobina Fairm. SPECIES
 
 #### Status
 ACCEPTED

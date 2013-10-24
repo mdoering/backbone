@@ -1,5 +1,4 @@
-Pertusaria mankiensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria mankiensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

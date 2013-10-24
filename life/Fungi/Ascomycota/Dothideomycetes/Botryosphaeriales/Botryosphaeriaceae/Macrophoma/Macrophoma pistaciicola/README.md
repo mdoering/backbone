@@ -1,17 +1,16 @@
-Macrophoma pistaciaecola Sousa da Câmara SPECIES
-=======
+# Macrophoma pistaciicola Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 10(4): 297 (1948)
 
 #### Original name
-Macrophoma pistaciaecola Sousa da Câmara
+Macrophoma pistaciicola Sousa da Câmara
 
 ### Remarks
 null

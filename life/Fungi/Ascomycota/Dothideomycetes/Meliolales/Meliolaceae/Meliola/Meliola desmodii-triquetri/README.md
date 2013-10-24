@@ -1,5 +1,4 @@
-Meliola desmodii-triquetri Gawande, D.K. Agarwal & Hosag. SPECIES
-=======
+# Meliola desmodii-triquetri Gawande, D.K. Agarwal & Hosag. SPECIES
 
 #### Status
 ACCEPTED

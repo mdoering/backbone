@@ -1,5 +1,4 @@
-Nocardia kruczakiae Conville et al., 2005 SPECIES
-=======
+# Nocardia kruczakiae Conville et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

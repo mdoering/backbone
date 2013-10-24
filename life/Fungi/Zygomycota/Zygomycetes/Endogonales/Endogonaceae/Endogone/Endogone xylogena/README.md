@@ -1,5 +1,4 @@
-Endogone xylogena J. Schröt. SPECIES
-=======
+# Endogone xylogena J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

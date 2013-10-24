@@ -1,5 +1,4 @@
-Lecanora griseocinera (Räsänen) D.D. Awasthi SPECIES
-=======
+# Lecanora griseocinera (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

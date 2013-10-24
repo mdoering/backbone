@@ -1,14 +1,13 @@
-Nectria ahmadii (Petr.) E. Müll. SPECIES
-=======
+# Pseudonectriella ahmadii Petr., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 13: 128 (1959)
 
 #### Original name
 Pseudonectriella ahmadii Petr., 1959

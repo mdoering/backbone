@@ -1,5 +1,4 @@
-Lecidea aeneola var. aeneola VARIETY
-=======
+# Lecidea aeneola (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea aeneola var. aeneola
+Lecidella aeneola Arnold
 
 ### Remarks
 null

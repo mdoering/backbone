@@ -1,5 +1,4 @@
-Stilbella hyalina (Alb. & Schwein.) Lindau SPECIES
-=======
+# Stilbella hyalina (Alb. & Schwein.) Lindau SPECIES
 
 #### Status
 ACCEPTED

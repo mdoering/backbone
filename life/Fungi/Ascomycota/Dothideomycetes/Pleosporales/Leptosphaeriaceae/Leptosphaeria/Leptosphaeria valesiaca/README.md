@@ -1,5 +1,4 @@
-Leptosphaeria valesiaca H. Wegelin SPECIES
-=======
+# Leptosphaeria valesiaca H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca conglomerata var. conglomerata VARIETY
-=======
+# Caloplaca conglomerata (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca conglomerata var. conglomerata
+Callopisma conglomeratum Bagl.
 
 ### Remarks
 null

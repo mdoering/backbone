@@ -1,5 +1,4 @@
-Cortinarius cremeolina Soop, 2001 SPECIES
-=======
+# Cortinarius cremeolina Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

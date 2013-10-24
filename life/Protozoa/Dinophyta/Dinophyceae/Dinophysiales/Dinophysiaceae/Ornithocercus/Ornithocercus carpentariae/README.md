@@ -1,5 +1,4 @@
-Ornithocercus carpentariae Wood, 1963 SPECIES
-=======
+# Ornithocercus carpentariae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea inconstans Fuckel SPECIES
-=======
+# Dermatea inconstans Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc symbioticum F.V. Wettstein SPECIES
-=======
+# Nostoc symbioticum F.V. Wettstein SPECIES
 
 #### Status
 ACCEPTED

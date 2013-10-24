@@ -1,5 +1,4 @@
-Nectria gedehensis Henn. SPECIES
-=======
+# Nectria gedehensis Henn. SPECIES
 
 #### Status
 ACCEPTED

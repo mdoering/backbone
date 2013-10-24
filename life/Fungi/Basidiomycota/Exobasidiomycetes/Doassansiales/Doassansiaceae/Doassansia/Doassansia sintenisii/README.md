@@ -1,5 +1,4 @@
-Doassansia sintenisii Bres. SPECIES
-=======
+# Doassansia sintenisii Bres. SPECIES
 
 #### Status
 ACCEPTED

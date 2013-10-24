@@ -1,5 +1,4 @@
-Amarrendia nemoribus Bougher & T. Lebel, 2002 SPECIES
-=======
+# Amarrendia nemoribus Bougher & T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

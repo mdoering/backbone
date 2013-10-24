@@ -1,5 +1,4 @@
-Anoplophrya simplex SPECIES
-=======
+# Anoplophrya simplex SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petrakina discoidea M.L. Farr & M.E. Palm SPECIES
-=======
+# Petrakina discoidea M.L. Farr & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

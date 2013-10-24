@@ -1,5 +1,4 @@
-Tuber exiguum R. Hesse SPECIES
-=======
+# Tuber exiguum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

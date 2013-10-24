@@ -1,5 +1,4 @@
-Ramularia castaneae (Sawada) U. Braun SPECIES
-=======
+# Ramularia castaneae (Sawada) U. Braun SPECIES
 
 #### Status
 ACCEPTED

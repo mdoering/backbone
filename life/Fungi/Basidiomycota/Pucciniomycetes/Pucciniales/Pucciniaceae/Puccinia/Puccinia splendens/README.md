@@ -1,5 +1,4 @@
-Puccinia splendens Vize SPECIES
-=======
+# Puccinia splendens Vize SPECIES
 
 #### Status
 ACCEPTED

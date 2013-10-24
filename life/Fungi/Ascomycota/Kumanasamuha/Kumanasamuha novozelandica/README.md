@@ -1,17 +1,16 @@
-Kumanasamuha novae-zelandica I.L. Hunter & W.B. Kendr. SPECIES
-=======
+# Kumanasamuha novozelandica L. Hunter & W.B. Kendr., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 15(3): 585 (1977)
 
 #### Original name
-Kumanasamuha novae-zelandica I.L. Hunter & W.B. Kendr.
+Kumanasamuha novozelandica L. Hunter & W.B. Kendr., 1977
 
 ### Remarks
 null

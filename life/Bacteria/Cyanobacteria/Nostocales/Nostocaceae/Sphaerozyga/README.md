@@ -1,5 +1,4 @@
-Sphaerozyga C.Agardh, 1886 GENUS
-=======
+# Sphaerozyga C.Agardh, 1886 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma abietis-albae Allesch. SPECIES
-=======
+# Phoma abietis-albae Allesch. SPECIES
 
 #### Status
 ACCEPTED

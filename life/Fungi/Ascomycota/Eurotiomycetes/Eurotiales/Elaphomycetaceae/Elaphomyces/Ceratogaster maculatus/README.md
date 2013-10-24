@@ -1,5 +1,4 @@
-Ceratogaster maculatus Corda SPECIES
-=======
+# Ceratogaster maculatus Corda SPECIES
 
 #### Status
 ACCEPTED

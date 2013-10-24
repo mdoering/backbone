@@ -1,5 +1,4 @@
-Caloplaca spotornonis B. de Lesd. SPECIES
-=======
+# Caloplaca spotornonis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

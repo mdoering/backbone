@@ -1,5 +1,4 @@
-Polyporus headinus Berk. SPECIES
-=======
+# Polyporus headinus Berk. SPECIES
 
 #### Status
 ACCEPTED

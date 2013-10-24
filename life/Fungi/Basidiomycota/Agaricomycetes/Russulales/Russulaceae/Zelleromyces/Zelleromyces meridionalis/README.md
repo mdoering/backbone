@@ -1,17 +1,16 @@
-Gymnomyces meridionalis (Calonge, Moreno-Arroyo & J. Gómez) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces meridionalis Calonge, Mor.-Arr. & J. Gómez, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Calonge, Boln Soc. Micol. Madrid 25: 302 (2000)
 
 #### Original name
-null
+Zelleromyces meridionalis Calonge, Mor.-Arr. & J. Gómez, 2000
 
 ### Remarks
 null

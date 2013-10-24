@@ -1,5 +1,4 @@
-Fusarium hakeae Henn. SPECIES
-=======
+# Fusarium hakeae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus neapolitanus (Fr.) Singer SPECIES
-=======
+# Pleurotus neapolitanus (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

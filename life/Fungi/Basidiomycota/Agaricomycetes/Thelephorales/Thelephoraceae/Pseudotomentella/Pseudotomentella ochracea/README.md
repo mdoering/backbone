@@ -1,5 +1,4 @@
-Pseudotomentella ochracea Kõljalg & E. Larss., 1998 SPECIES
-=======
+# Pseudotomentella ochracea Kõljalg & E. Larss., 1998 SPECIES
 
 #### Status
 ACCEPTED

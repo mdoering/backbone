@@ -1,5 +1,4 @@
-Cellularia queletii (Schulzer) Kuntze SPECIES
-=======
+# Cellularia queletii (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

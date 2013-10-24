@@ -1,5 +1,4 @@
-Trypethelium concatervatum (Nyl.) Zahlbr. SPECIES
-=======
+# Trypethelium concatervatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

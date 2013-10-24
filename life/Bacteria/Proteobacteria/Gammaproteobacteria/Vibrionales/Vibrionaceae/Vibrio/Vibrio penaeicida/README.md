@@ -1,5 +1,4 @@
-Vibrio penaeicida Ishimaru et al., 1995 SPECIES
-=======
+# Vibrio penaeicida Ishimaru et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mutinus bovinus Morgan SPECIES
-=======
+# Mutinus bovinus Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus digitatus Rumph. SPECIES
-=======
+# Fungus digitatus Rumph. SPECIES
 
 #### Status
 ACCEPTED

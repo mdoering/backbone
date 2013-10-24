@@ -1,5 +1,4 @@
-Amphorella infundibulum Kofoid & Campbell, 1929 SPECIES
-=======
+# Amphorella infundibulum Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

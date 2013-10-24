@@ -1,5 +1,4 @@
-Chloridella ferruginea Pascher SPECIES
-=======
+# Chloridella ferruginea Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia gayophyti (Vize) Peck SPECIES
-=======
+# Puccinia gayophyti (Vize) Peck SPECIES
 
 #### Status
 ACCEPTED

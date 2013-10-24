@@ -1,5 +1,4 @@
-Retisphaeridium howellii Martin in Martin & Dean, 1983 SPECIES
-=======
+# Retisphaeridium howellii Martin in Martin & Dean, 1983 SPECIES
 
 #### Status
 ACCEPTED

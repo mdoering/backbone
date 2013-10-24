@@ -1,5 +1,4 @@
-Schizothyrella juniperi Siemaszko SPECIES
-=======
+# Schizothyrella juniperi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

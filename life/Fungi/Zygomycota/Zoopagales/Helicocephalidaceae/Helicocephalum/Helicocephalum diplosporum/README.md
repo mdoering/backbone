@@ -1,5 +1,4 @@
-Helicocephalum diplosporum Drechsler SPECIES
-=======
+# Helicocephalum diplosporum Drechsler SPECIES
 
 #### Status
 ACCEPTED

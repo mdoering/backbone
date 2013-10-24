@@ -1,5 +1,4 @@
-Asterina dorsteniae Syd. SPECIES
-=======
+# Asterina dorsteniae Syd. SPECIES
 
 #### Status
 ACCEPTED

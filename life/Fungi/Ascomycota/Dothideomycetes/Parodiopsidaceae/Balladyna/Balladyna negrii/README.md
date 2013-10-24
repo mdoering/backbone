@@ -1,5 +1,4 @@
-Balladyna negrii (E. Castell.) Arx & E. Müll. SPECIES
-=======
+# Balladyna negrii (E. Castell.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

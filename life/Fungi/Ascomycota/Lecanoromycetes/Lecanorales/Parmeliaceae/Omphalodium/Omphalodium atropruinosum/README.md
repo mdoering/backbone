@@ -1,5 +1,4 @@
-Omphalodium atropruinosum (Schaer.) Flot. SPECIES
-=======
+# Omphalodium atropruinosum (Schaer.) Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium socium (Pass. & Beltr.) Kuntze SPECIES
-=======
+# Clisosporium socium (Pass. & Beltr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

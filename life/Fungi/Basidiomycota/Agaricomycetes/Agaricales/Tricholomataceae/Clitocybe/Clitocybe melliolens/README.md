@@ -1,5 +1,4 @@
-Clitocybe melliolens Singer SPECIES
-=======
+# Clitocybe melliolens Singer SPECIES
 
 #### Status
 ACCEPTED

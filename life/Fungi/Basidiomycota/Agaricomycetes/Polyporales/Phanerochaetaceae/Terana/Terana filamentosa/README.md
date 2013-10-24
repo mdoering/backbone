@@ -1,5 +1,4 @@
-Terana filamentosa (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana filamentosa (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

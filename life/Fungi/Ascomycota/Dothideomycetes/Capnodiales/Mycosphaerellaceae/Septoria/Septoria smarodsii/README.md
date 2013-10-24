@@ -1,5 +1,4 @@
-Septoria smarodsii Moesz SPECIES
-=======
+# Septoria smarodsii Moesz SPECIES
 
 #### Status
 ACCEPTED

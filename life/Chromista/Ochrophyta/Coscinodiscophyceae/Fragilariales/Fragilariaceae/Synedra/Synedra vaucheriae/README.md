@@ -1,5 +1,4 @@
-Synedra vaucheriae var. capitellata Kützing VARIETY
-=======
+# Synedra vaucheriae (Kützing) Kützing SPECIES
 
 #### Status
 ACCEPTED

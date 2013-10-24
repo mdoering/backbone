@@ -1,5 +1,4 @@
-Leptographium profanum K. Jacobs, Eckhardt & M.J. Wingf. SPECIES
-=======
+# Leptographium profanum K. Jacobs, Eckhardt & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

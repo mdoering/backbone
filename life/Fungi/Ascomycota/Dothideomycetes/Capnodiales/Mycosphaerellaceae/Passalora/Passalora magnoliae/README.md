@@ -1,14 +1,13 @@
-Cercospora magnoliae Ellis & Harkn., 1881 SPECIES
-=======
+# Passalora magnoliae (Ellis & Harkn.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 8(1): 27 (1881)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 263 (2003)
 
 #### Original name
 Cercospora magnoliae Ellis & Harkn., 1881

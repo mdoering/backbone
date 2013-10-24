@@ -1,5 +1,4 @@
-Boletus vermiculosoides A.H. Sm. & Thiers SPECIES
-=======
+# Boletus vermiculosoides A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

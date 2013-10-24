@@ -1,5 +1,4 @@
-Passalora cyperi (D. Gupta, Padhi & Chowdhry) U. Braun & Crous SPECIES
-=======
+# Passalora cyperi (D. Gupta, Padhi & Chowdhry) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

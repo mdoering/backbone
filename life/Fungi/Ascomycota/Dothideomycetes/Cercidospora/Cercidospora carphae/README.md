@@ -1,5 +1,4 @@
-Cercidospora carphae (Speg.) Kuntze SPECIES
-=======
+# Cercidospora carphae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

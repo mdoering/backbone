@@ -1,5 +1,4 @@
-Arachniopsis albicans Long SPECIES
-=======
+# Arachniopsis albicans Long SPECIES
 
 #### Status
 ACCEPTED

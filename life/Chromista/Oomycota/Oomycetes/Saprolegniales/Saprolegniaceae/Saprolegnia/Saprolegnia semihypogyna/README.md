@@ -1,5 +1,4 @@
-Saprolegnia semihypogyna S. Inaba & Tokum. SPECIES
-=======
+# Saprolegnia semihypogyna S. Inaba & Tokum. SPECIES
 
 #### Status
 ACCEPTED

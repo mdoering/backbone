@@ -1,5 +1,4 @@
-Agaricus argyropotamicus Speg. SPECIES
-=======
+# Agaricus argyropotamicus Speg. SPECIES
 
 #### Status
 ACCEPTED

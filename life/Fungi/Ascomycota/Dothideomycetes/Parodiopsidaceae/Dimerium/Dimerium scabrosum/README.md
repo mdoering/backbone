@@ -1,5 +1,4 @@
-Dimerium scabrosum Syd. {?} SPECIES
-=======
+# Dimerium scabrosum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

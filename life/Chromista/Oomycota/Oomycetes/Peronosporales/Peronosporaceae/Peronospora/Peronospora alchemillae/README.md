@@ -1,5 +1,4 @@
-Peronospora alchemillae G.H. Otth, 1868 SPECIES
-=======
+# Peronospora alchemillae G.H. Otth, 1868 SPECIES
 
 #### Status
 ACCEPTED

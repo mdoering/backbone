@@ -1,5 +1,4 @@
-Teloschistes fasciculatus Hillmann SPECIES
-=======
+# Teloschistes fasciculatus Hillmann SPECIES
 
 #### Status
 ACCEPTED

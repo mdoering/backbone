@@ -1,5 +1,4 @@
-Hemileia smallii Wakef. & Hansf. SPECIES
-=======
+# Hemileia smallii Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellospora projecturata Kramad. & C. Walker, 2000 SPECIES
-=======
+# Scutellospora projecturata Kramad. & C. Walker, 2000 SPECIES
 
 #### Status
 ACCEPTED

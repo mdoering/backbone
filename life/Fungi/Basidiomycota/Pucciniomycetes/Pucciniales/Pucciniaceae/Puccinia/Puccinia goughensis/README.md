@@ -1,5 +1,4 @@
-Puccinia goughensis Jørst. SPECIES
-=======
+# Puccinia goughensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

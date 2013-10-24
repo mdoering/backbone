@@ -1,5 +1,4 @@
-Helotium metrosideri Dennis SPECIES
-=======
+# Helotium metrosideri Dennis SPECIES
 
 #### Status
 ACCEPTED

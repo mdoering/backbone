@@ -1,5 +1,4 @@
-Collema tomentosum Hoffm. SPECIES
-=======
+# Collema tomentosum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septotrichum palmarum Corda SPECIES
-=======
+# Septotrichum palmarum Corda SPECIES
 
 #### Status
 ACCEPTED

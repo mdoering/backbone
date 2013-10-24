@@ -1,5 +1,4 @@
-Verrucaria truncatula Nyl. SPECIES
-=======
+# Verrucaria truncatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

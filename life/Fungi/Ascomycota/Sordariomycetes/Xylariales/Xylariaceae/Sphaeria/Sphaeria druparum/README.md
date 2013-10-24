@@ -1,5 +1,4 @@
-Sphaeria druparum Schwein. SPECIES
-=======
+# Sphaeria druparum Schwein. SPECIES
 
 #### Status
 ACCEPTED

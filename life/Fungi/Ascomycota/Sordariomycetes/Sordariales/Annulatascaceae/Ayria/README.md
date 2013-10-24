@@ -1,5 +1,4 @@
-Ayria Fryar & K.D. Hyde GENUS
-=======
+# Ayria Fryar & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina australiensis Müll. Arg. SPECIES
-=======
+# Rinodina australiensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

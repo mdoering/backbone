@@ -1,5 +1,4 @@
-Calyculosphaeria acaciae Gaikwad SPECIES
-=======
+# Calyculosphaeria acaciae Gaikwad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quantostrobilium mammulatum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1996 SPECIES
-=======
+# Quantostrobilium mammulatum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1996 SPECIES
 
 #### Status
 ACCEPTED

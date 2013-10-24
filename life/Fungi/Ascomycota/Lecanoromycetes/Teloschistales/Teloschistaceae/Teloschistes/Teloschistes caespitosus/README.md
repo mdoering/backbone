@@ -1,5 +1,4 @@
-Teloschistes caespitosus (Müll. Arg.) Poelt SPECIES
-=======
+# Teloschistes caespitosus (Müll. Arg.) Poelt SPECIES
 
 #### Status
 ACCEPTED

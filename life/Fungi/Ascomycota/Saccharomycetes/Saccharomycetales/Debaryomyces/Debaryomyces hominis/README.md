@@ -1,5 +1,4 @@
-Debaryomyces hominis Todd & E.A. Herrm. SPECIES
-=======
+# Debaryomyces hominis Todd & E.A. Herrm. SPECIES
 
 #### Status
 ACCEPTED

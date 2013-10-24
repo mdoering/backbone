@@ -1,5 +1,4 @@
-Entoloma armoricanum Hériveau & Courtec. SPECIES
-=======
+# Entoloma armoricanum Hériveau & Courtec. SPECIES
 
 #### Status
 ACCEPTED

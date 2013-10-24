@@ -1,5 +1,4 @@
-Balantidiopsis bivacuolata SPECIES
-=======
+# Balantidiopsis bivacuolata SPECIES
 
 #### Status
 ACCEPTED

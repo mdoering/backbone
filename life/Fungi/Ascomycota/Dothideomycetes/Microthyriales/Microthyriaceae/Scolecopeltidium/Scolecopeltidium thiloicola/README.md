@@ -1,5 +1,4 @@
-Scolecopeltidium thiloicola Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium thiloicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

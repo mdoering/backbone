@@ -1,14 +1,13 @@
-Marginula Link, 1830 GENUS
-=======
+# Marginulina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Phys. Erdbeschr. , 2 (1), 435.
+Ann. Sci. Nat. , 7 (27), 258.
 
 #### Original name
 null

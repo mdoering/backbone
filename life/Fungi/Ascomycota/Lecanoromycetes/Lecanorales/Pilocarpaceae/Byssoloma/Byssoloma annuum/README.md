@@ -1,14 +1,13 @@
-Bilimbia annua Vain. SPECIES
-=======
+# Byssoloma annuum (Vain.) G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 84 (1921)
+Symb. bot. upsal. 32(no. 3): 29 (2000)
 
 #### Original name
 Bilimbia annua Vain.

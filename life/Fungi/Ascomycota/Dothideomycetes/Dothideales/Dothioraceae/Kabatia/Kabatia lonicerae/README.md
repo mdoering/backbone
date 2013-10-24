@@ -1,5 +1,4 @@
-Kabatia lonicerae var. lonicerae VARIETY
-=======
+# Kabatia lonicerae (Harkn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mitt. bot. Inst. tech. Hochsch. Wien 4: 100 (1927)
 
 #### Original name
-Kabatia lonicerae var. lonicerae
+Gloeosporium lonicerae Ellis
 
 ### Remarks
 null

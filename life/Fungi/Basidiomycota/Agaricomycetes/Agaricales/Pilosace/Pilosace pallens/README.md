@@ -1,5 +1,4 @@
-Pilosace pallens (P. Karst.) Kuntze SPECIES
-=======
+# Pilosace pallens (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

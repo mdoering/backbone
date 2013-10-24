@@ -1,17 +1,16 @@
-Funalia trogii f. trogii FORM
-=======
+# Trametes trogii Berk., 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 62 (1941)
+in Trog, Hist. nat. Iles Canar. (Paris) 2: 52 (1850)
 
 #### Original name
-Funalia trogii f. trogii
+Trametes trogii Berk., 1850
 
 ### Remarks
 null

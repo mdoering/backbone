@@ -1,5 +1,4 @@
-Arthothelium crozalsianum (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Arthothelium crozalsianum (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

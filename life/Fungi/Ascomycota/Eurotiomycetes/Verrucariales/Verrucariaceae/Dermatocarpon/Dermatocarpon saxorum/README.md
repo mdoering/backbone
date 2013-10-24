@@ -1,5 +1,4 @@
-Dermatocarpon saxorum (Chaillet) Trevis. SPECIES
-=======
+# Dermatocarpon saxorum (Chaillet) Trevis. SPECIES
 
 #### Status
 ACCEPTED

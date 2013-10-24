@@ -1,5 +1,4 @@
-Phalangispora nawawii Kuthub., 1987 SPECIES
-=======
+# Phalangispora nawawii Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

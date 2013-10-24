@@ -1,5 +1,4 @@
-Tilletia tripogonis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Tilletia tripogonis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

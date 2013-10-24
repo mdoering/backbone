@@ -1,5 +1,4 @@
-Calloria caulophylli (Ellis & Everh.) Rehm SPECIES
-=======
+# Calloria caulophylli (Ellis & Everh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

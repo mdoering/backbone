@@ -1,5 +1,4 @@
-Waldemaria pernambucensis Bat., H. Maia & Cavalc. SPECIES
-=======
+# Waldemaria pernambucensis Bat., H. Maia & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

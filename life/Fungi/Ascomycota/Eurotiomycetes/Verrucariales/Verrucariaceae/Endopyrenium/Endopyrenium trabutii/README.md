@@ -1,5 +1,4 @@
-Endopyrenium trabutii B. de Lesd. SPECIES
-=======
+# Endopyrenium trabutii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

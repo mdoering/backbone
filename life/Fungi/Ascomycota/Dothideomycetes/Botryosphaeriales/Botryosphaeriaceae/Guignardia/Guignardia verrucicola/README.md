@@ -1,5 +1,4 @@
-Guignardia verrucicola (Wedd.) Keissl. SPECIES
-=======
+# Guignardia verrucicola (Wedd.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

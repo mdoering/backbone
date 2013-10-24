@@ -1,5 +1,4 @@
-Amanita pagetodes D.A. Reid SPECIES
-=======
+# Amanita pagetodes D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

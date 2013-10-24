@@ -1,5 +1,4 @@
-Cercospora mataybae Bat. & Peres SPECIES
-=======
+# Cercospora mataybae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

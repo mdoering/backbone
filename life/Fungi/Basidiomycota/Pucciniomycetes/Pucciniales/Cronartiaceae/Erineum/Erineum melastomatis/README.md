@@ -1,5 +1,4 @@
-Erineum melastomatis Kunze SPECIES
-=======
+# Erineum melastomatis Kunze SPECIES
 
 #### Status
 ACCEPTED

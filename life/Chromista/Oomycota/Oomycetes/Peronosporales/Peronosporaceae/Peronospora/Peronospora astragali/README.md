@@ -1,5 +1,4 @@
-Peronospora astragali Syd. SPECIES
-=======
+# Peronospora astragali Syd. SPECIES
 
 #### Status
 ACCEPTED

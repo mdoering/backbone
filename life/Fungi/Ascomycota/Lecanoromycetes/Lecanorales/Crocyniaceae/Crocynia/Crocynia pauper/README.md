@@ -1,5 +1,4 @@
-Crocynia pauper Hue SPECIES
-=======
+# Crocynia pauper Hue SPECIES
 
 #### Status
 ACCEPTED

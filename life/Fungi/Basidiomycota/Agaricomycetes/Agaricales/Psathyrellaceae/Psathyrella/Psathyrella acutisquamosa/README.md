@@ -1,5 +1,4 @@
-Psathyrella acutisquamosa Dennis SPECIES
-=======
+# Psathyrella acutisquamosa Dennis SPECIES
 
 #### Status
 ACCEPTED

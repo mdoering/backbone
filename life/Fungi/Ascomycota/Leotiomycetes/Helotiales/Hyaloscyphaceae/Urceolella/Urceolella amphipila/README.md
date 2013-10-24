@@ -1,5 +1,4 @@
-Urceolella amphipila Huhtinen SPECIES
-=======
+# Urceolella amphipila Huhtinen SPECIES
 
 #### Status
 ACCEPTED

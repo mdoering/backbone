@@ -1,5 +1,4 @@
-Hygrophorus carneogriseus Malençon SPECIES
-=======
+# Hygrophorus carneogriseus Malençon SPECIES
 
 #### Status
 ACCEPTED

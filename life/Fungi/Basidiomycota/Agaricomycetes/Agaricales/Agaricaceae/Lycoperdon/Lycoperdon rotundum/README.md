@@ -1,5 +1,4 @@
-Lycoperdon rotundum P. Micheli SPECIES
-=======
+# Lycoperdon rotundum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

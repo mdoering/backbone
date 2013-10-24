@@ -1,5 +1,4 @@
-Hebeloma griseocanum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma griseocanum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

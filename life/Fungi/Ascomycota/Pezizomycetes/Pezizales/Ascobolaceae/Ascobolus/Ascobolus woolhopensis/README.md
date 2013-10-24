@@ -1,5 +1,4 @@
-Ascobolus woolhopensis (Renny) SPECIES
-=======
+# Ascobolus woolhopensis (Renny) SPECIES
 
 #### Status
 ACCEPTED

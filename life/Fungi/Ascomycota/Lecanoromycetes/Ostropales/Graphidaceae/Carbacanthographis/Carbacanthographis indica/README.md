@@ -1,5 +1,4 @@
-Carbacanthographis indica B. O. Sharma & Khadilkar SPECIES
-=======
+# Carbacanthographis indica B. O. Sharma & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

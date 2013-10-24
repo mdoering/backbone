@@ -1,5 +1,4 @@
-Pholiota phragmatophylla De Guern. SPECIES
-=======
+# Pholiota phragmatophylla De Guern. SPECIES
 
 #### Status
 ACCEPTED

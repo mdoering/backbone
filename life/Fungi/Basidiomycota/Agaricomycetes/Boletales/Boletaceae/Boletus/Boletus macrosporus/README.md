@@ -1,5 +1,4 @@
-Boletus macrosporus Frost SPECIES
-=======
+# Boletus macrosporus Frost SPECIES
 
 #### Status
 ACCEPTED

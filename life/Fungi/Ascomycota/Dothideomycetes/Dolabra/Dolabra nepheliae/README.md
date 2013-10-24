@@ -1,5 +1,4 @@
-Dolabra nepheliae C. Booth & W.P. Ting, 1964 SPECIES
-=======
+# Dolabra nepheliae C. Booth & W.P. Ting, 1964 SPECIES
 
 #### Status
 ACCEPTED

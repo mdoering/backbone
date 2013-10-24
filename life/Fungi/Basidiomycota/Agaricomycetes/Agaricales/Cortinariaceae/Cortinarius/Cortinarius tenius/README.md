@@ -1,5 +1,4 @@
-Cortinarius tenius M.M. Moser SPECIES
-=======
+# Cortinarius tenius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

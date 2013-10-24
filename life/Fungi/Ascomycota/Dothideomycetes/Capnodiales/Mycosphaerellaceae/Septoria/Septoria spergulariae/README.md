@@ -1,5 +1,4 @@
-Septoria spergulariae Bres. SPECIES
-=======
+# Septoria spergulariae Bres. SPECIES
 
 #### Status
 ACCEPTED

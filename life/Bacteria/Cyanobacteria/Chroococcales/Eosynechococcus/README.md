@@ -1,5 +1,4 @@
-Eosynechococcus Hofmann, 1976 GENUS
-=======
+# Eosynechococcus Hofmann, 1976 GENUS
 
 #### Status
 ACCEPTED

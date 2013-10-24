@@ -1,5 +1,4 @@
-Macrosporium consors (Thüm.) Sacc. SPECIES
-=======
+# Macrosporium consors (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belorussiella GENUS
-=======
+# Belorussiella GENUS
 
 #### Status
 ACCEPTED

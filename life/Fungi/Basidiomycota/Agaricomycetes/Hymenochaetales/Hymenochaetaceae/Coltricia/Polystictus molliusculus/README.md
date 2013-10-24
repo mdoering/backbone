@@ -1,5 +1,4 @@
-Polystictus molliusculus Berk. SPECIES
-=======
+# Polystictus molliusculus Berk. SPECIES
 
 #### Status
 ACCEPTED

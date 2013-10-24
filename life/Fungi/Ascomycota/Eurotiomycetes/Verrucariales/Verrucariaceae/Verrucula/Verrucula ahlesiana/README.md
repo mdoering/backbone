@@ -1,5 +1,4 @@
-Verrucula ahlesiana (Hepp) J. Steiner SPECIES
-=======
+# Verrucula ahlesiana (Hepp) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

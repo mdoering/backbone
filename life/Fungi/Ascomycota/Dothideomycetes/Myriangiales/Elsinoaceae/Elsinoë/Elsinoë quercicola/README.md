@@ -1,5 +1,4 @@
-Elsinoë quercicola Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë quercicola Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

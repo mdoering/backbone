@@ -1,5 +1,4 @@
-Psathyrella populorum Trueblood & A.H. Sm. SPECIES
-=======
+# Psathyrella populorum Trueblood & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

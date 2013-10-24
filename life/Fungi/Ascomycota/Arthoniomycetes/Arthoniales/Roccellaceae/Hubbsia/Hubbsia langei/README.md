@@ -1,5 +1,4 @@
-Hubbsia langei Follmann SPECIES
-=======
+# Hubbsia langei Follmann SPECIES
 
 #### Status
 ACCEPTED

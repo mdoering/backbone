@@ -1,5 +1,4 @@
-Ptychocylis calyx SPECIES
-=======
+# Ptychocylis calyx SPECIES
 
 #### Status
 ACCEPTED

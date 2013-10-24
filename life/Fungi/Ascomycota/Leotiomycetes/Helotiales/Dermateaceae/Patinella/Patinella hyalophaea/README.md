@@ -1,5 +1,4 @@
-Patinella hyalophaea Sacc., 1875 SPECIES
-=======
+# Patinella hyalophaea Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

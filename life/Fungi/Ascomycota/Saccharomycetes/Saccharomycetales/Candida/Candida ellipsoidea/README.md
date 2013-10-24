@@ -1,5 +1,4 @@
-Candida ellipsoidea (Fox) Cif. & Redaelli SPECIES
-=======
+# Candida ellipsoidea (Fox) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

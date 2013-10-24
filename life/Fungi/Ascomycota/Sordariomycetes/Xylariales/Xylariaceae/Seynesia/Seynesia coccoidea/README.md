@@ -1,5 +1,4 @@
-Seynesia coccoidea Henn. SPECIES
-=======
+# Seynesia coccoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

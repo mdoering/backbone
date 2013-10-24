@@ -1,5 +1,4 @@
-Sphaeria sancta Rehm & Thüm. SPECIES
-=======
+# Sphaeria sancta Rehm & Thüm. SPECIES
 
 #### Status
 ACCEPTED

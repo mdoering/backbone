@@ -1,5 +1,4 @@
-Caloplaca gainii (Hue) SPECIES
-=======
+# Caloplaca gainii (Hue) SPECIES
 
 #### Status
 ACCEPTED

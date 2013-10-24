@@ -1,5 +1,4 @@
-Echinoplaca cestri Fée SPECIES
-=======
+# Echinoplaca cestri Fée SPECIES
 
 #### Status
 ACCEPTED

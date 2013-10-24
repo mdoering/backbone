@@ -1,5 +1,4 @@
-Chromocytospora GENUS
-=======
+# Chromocytospora GENUS
 
 #### Status
 ACCEPTED

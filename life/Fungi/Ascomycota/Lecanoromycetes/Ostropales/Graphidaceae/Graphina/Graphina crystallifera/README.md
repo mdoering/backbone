@@ -1,5 +1,4 @@
-Graphina crystallifera Redinger SPECIES
-=======
+# Graphina crystallifera Redinger SPECIES
 
 #### Status
 ACCEPTED

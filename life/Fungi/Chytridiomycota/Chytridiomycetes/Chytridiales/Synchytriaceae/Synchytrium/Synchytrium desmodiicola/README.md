@@ -1,5 +1,4 @@
-Synchytrium desmodiicola Mishra SPECIES
-=======
+# Synchytrium desmodiicola Mishra SPECIES
 
 #### Status
 ACCEPTED

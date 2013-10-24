@@ -1,5 +1,4 @@
-Verrucaria pycnosticta Vain. SPECIES
-=======
+# Verrucaria pycnosticta Vain. SPECIES
 
 #### Status
 ACCEPTED

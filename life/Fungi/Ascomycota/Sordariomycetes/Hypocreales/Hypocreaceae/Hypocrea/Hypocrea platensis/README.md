@@ -1,5 +1,4 @@
-Hypocrea platensis Speg. SPECIES
-=======
+# Hypocrea platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria macrarenula Samuels, 1990 SPECIES
-=======
+# Hydropisphaera macrarenula (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Samuels, Doi & Rogerson, Mem. N. Y. bot. Gdn 59: 83 (1990)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 31 (1999)
 
 #### Original name
 Nectria macrarenula Samuels, 1990

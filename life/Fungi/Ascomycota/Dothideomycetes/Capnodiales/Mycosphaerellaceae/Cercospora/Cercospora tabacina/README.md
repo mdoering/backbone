@@ -1,5 +1,4 @@
-Cercospora tabacina Ellis & Everh. SPECIES
-=======
+# Cercospora tabacina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

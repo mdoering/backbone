@@ -1,17 +1,16 @@
-Hypocreopsis riccioidea (Bolton) P. Karst., 1871 SPECIES
-=======
+# Hypocreopsis lichenoides (Tode) Seaver, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 221 (1871)
+Mycologia 2(2): 82 (1910)
 
 #### Original name
-Sphaeria riccioidea Bolton, 1792
+Acrospermum lichenoides Tode, 1790
 
 ### Remarks
 null

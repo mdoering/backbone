@@ -1,5 +1,4 @@
-Chrysothrix noli-tangere (Mont.) Mont. SPECIES
-=======
+# Chrysothrix noli-tangere (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

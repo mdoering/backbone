@@ -1,5 +1,4 @@
-Rinodina cintrana SPECIES
-=======
+# Rinodina cintrana SPECIES
 
 #### Status
 ACCEPTED

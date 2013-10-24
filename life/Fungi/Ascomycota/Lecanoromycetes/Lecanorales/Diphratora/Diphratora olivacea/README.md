@@ -1,5 +1,4 @@
-Diphratora olivacea (Dufour) Jatta SPECIES
-=======
+# Diphratora olivacea (Dufour) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria faginea (De Not. & Ces.) Massa SPECIES
-=======
+# Lasiosphaeria faginea (De Not. & Ces.) Massa SPECIES
 
 #### Status
 ACCEPTED

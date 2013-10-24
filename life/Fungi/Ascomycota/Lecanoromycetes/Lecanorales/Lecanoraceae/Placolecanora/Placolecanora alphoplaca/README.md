@@ -1,5 +1,4 @@
-Placolecanora alphoplaca (Wahlenb.) Räsänen SPECIES
-=======
+# Placolecanora alphoplaca (Wahlenb.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota spinulosa Harvey SPECIES
-=======
+# Dictyota spinulosa Harvey SPECIES
 
 #### Status
 ACCEPTED

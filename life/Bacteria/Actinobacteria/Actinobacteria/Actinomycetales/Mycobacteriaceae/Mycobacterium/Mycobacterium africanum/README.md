@@ -1,5 +1,4 @@
-Mycobacterium africanum Castets et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium africanum Castets et al., 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

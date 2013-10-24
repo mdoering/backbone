@@ -1,14 +1,13 @@
-Fusicoccum stromaticum Mohali, Slippers & M.J. Wingf., 2006 SPECIES
-=======
+# Pseudofusicoccum stromaticum (Mohali, Slippers & M.J. Wingf.) Mohali, Slippers & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 110(4): 408 (2006)
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 249 (2006)
 
 #### Original name
 Fusicoccum stromaticum Mohali, Slippers & M.J. Wingf., 2006

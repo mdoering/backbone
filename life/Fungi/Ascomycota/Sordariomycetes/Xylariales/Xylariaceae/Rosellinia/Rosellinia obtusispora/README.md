@@ -1,5 +1,4 @@
-Rosellinia obtusispora Penz. & Sacc. SPECIES
-=======
+# Rosellinia obtusispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

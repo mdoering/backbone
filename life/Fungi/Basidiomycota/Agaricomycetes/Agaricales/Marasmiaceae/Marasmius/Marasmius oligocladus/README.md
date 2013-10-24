@@ -1,5 +1,4 @@
-Marasmius oligocladus Singer SPECIES
-=======
+# Marasmius oligocladus Singer SPECIES
 
 #### Status
 ACCEPTED

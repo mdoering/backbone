@@ -1,5 +1,4 @@
-Polyporus daedalea Schwein. ex Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus daedalea Schwein. ex Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

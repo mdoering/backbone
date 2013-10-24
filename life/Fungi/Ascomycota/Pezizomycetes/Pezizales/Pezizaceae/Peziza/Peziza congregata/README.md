@@ -1,5 +1,4 @@
-Peziza congregata (Wakef.) Sacc. SPECIES
-=======
+# Peziza congregata (Wakef.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia cytisicola Hollós SPECIES
-=======
+# Hendersonia cytisicola Hollós SPECIES
 
 #### Status
 ACCEPTED

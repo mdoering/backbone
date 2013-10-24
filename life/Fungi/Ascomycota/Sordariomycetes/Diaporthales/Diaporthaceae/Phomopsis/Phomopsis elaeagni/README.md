@@ -1,5 +1,4 @@
-Phomopsis elaeagni Sandu, 1962 SPECIES
-=======
+# Phomopsis elaeagni Sandu, 1962 SPECIES
 
 #### Status
 ACCEPTED

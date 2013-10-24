@@ -1,5 +1,4 @@
-Puccinia leucanthemi-vernae Gäum. SPECIES
-=======
+# Puccinia leucanthemi-vernae Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe lorillardiana Murrill SPECIES
-=======
+# Inocybe lorillardiana Murrill SPECIES
 
 #### Status
 ACCEPTED

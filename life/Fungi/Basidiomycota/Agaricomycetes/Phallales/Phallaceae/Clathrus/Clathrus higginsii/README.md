@@ -1,5 +1,4 @@
-Clathrus higginsii F.M. Bailey SPECIES
-=======
+# Clathrus higginsii F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

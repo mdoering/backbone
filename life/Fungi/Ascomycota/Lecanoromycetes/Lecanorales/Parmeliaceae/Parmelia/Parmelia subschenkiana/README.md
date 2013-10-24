@@ -1,5 +1,4 @@
-Parmelia subschenkiana Gyeln. SPECIES
-=======
+# Parmelia subschenkiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

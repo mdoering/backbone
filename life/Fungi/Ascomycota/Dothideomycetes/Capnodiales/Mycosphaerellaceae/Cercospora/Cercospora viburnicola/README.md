@@ -1,5 +1,4 @@
-Cercospora viburnicola W.W. Ray SPECIES
-=======
+# Cercospora viburnicola W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

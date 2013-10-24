@@ -1,5 +1,4 @@
-Trichosporon giganteum Unna SPECIES
-=======
+# Trichosporon giganteum Unna SPECIES
 
 #### Status
 ACCEPTED

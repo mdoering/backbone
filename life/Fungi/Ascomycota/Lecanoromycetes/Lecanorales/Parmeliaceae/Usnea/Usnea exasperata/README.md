@@ -1,5 +1,4 @@
-Usnea exasperata (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea exasperata (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

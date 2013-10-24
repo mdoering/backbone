@@ -1,5 +1,4 @@
-Lichenothelia macrocarpa Henssen SPECIES
-=======
+# Lichenothelia macrocarpa Henssen SPECIES
 
 #### Status
 ACCEPTED

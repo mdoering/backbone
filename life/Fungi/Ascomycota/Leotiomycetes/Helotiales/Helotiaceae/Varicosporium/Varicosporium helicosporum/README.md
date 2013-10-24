@@ -1,5 +1,4 @@
-Varicosporium helicosporum Nawawi, 1974 SPECIES
-=======
+# Varicosporium helicosporum Nawawi, 1974 SPECIES
 
 #### Status
 ACCEPTED

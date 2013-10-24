@@ -1,5 +1,4 @@
-Pleurotus facifer Berk. & M.A. Curtis SPECIES
-=======
+# Pleurotus facifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

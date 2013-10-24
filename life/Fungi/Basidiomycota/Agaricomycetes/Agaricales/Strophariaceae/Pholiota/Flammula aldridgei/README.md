@@ -1,5 +1,4 @@
-Flammula aldridgei Massee SPECIES
-=======
+# Flammula aldridgei Massee SPECIES
 
 #### Status
 ACCEPTED

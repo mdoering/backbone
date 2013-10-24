@@ -1,5 +1,4 @@
-Epidermophyton griseum Kesteven SPECIES
-=======
+# Epidermophyton griseum Kesteven SPECIES
 
 #### Status
 ACCEPTED

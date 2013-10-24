@@ -1,5 +1,4 @@
-Plasmopara centaureae-mollis T. Majewski SPECIES
-=======
+# Plasmopara centaureae-mollis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

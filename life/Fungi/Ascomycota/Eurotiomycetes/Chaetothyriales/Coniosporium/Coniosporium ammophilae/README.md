@@ -1,5 +1,4 @@
-Coniosporium ammophilae Jaap SPECIES
-=======
+# Coniosporium ammophilae Jaap SPECIES
 
 #### Status
 ACCEPTED

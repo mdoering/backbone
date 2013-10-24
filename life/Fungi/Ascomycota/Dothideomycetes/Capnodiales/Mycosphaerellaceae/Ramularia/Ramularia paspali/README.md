@@ -1,5 +1,4 @@
-Ramularia paspali (Deighton) U. Braun SPECIES
-=======
+# Ramularia paspali (Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

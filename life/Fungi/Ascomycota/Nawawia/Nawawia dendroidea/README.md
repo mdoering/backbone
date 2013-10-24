@@ -1,5 +1,4 @@
-Nawawia dendroidea K.D. Hyde, Goh & Steinke SPECIES
-=======
+# Nawawia dendroidea K.D. Hyde, Goh & Steinke SPECIES
 
 #### Status
 ACCEPTED

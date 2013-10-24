@@ -1,5 +1,4 @@
-Coriolus simulans (Blonski) P. Karst. SPECIES
-=======
+# Coriolus simulans (Blonski) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

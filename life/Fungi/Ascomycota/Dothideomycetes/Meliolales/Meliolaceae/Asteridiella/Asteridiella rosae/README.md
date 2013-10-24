@@ -1,5 +1,4 @@
-Asteridiella rosae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella rosae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnotrya inordinata Trappe & Castellano SPECIES
-=======
+# Hydnotrya inordinata Trappe & Castellano SPECIES
 
 #### Status
 ACCEPTED

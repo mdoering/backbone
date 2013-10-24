@@ -1,5 +1,4 @@
-Phoma passiflorae Penz. & Sacc. SPECIES
-=======
+# Phoma passiflorae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

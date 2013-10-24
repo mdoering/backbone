@@ -1,5 +1,4 @@
-Lactarius subreticulatus Singer SPECIES
-=======
+# Lactarius subreticulatus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta starbaeckii Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta starbaeckii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

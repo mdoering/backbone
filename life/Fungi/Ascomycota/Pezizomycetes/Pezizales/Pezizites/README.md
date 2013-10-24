@@ -1,5 +1,4 @@
-Pezizites Göpp. & Berendt GENUS
-=======
+# Pezizites Göpp. & Berendt GENUS
 
 #### Status
 ACCEPTED

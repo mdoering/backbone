@@ -1,5 +1,4 @@
-Polyblastia sphinctrina f. sphinctrina FORM
-=======
+# Polyblastia sphinctrina (Ach.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia sphinctrina f. sphinctrina
+Verrucaria sphinctrina (Dufour) Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Koerberiella sprotawensis Motyka SPECIES
-=======
+# Koerberiella sprotawensis Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena splendens P.A. Dangeard SPECIES
-=======
+# Euglena splendens P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

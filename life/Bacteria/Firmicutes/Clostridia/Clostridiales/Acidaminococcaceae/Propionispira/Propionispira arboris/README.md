@@ -1,5 +1,4 @@
-Propionispira arboris Schink et al., 1983 SPECIES
-=======
+# Propionispira arboris Schink et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

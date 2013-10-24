@@ -1,5 +1,4 @@
-Cercospora maesae Hansf. SPECIES
-=======
+# Cercospora maesae Hansf. SPECIES
 
 #### Status
 ACCEPTED

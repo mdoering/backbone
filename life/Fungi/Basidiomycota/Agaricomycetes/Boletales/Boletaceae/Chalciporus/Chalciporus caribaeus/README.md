@@ -1,5 +1,4 @@
-Chalciporus caribaeus Pegler SPECIES
-=======
+# Chalciporus caribaeus Pegler SPECIES
 
 #### Status
 ACCEPTED

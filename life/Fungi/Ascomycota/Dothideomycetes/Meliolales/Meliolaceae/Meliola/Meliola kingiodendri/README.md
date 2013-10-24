@@ -1,5 +1,4 @@
-Meliola kingiodendri Hosag., B.R. Dayal & Goos SPECIES
-=======
+# Meliola kingiodendri Hosag., B.R. Dayal & Goos SPECIES
 
 #### Status
 ACCEPTED

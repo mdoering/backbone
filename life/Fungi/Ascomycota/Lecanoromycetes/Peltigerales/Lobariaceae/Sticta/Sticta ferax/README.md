@@ -1,5 +1,4 @@
-Sticta ferax Müll. Arg. SPECIES
-=======
+# Sticta ferax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

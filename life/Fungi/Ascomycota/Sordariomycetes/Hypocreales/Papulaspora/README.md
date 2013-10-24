@@ -1,17 +1,16 @@
-Papulospora Preuss GENUS
-=======
+# Papulaspora Preuss GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 24: 112 (1851)
 
 #### Original name
-Papulospora Preuss
+Papulaspora Preuss
 
 ### Remarks
 null

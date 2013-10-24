@@ -1,5 +1,4 @@
-Cepadinium S. Duxbury, 1983 GENUS
-=======
+# Cepadinium S. Duxbury, 1983 GENUS
 
 #### Status
 ACCEPTED

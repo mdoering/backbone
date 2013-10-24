@@ -1,5 +1,4 @@
-Stropharia kauffmanii A.H. Sm. SPECIES
-=======
+# Stropharia kauffmanii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

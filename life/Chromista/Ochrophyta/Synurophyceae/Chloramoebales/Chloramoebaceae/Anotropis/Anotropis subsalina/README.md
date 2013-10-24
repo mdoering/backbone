@@ -1,5 +1,4 @@
-Anotropis subsalina Pascher SPECIES
-=======
+# Anotropis subsalina Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonopsis ericae (Rolland) Aebi SPECIES
-=======
+# Belonopsis ericae (Rolland) Aebi SPECIES
 
 #### Status
 ACCEPTED

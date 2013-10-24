@@ -1,5 +1,4 @@
-Rhodocollybia Singer GENUS
-=======
+# Rhodocollybia Singer GENUS
 
 #### Status
 ACCEPTED

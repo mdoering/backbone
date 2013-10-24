@@ -1,5 +1,4 @@
-Paxillus yunnanensis M. Zang SPECIES
-=======
+# Paxillus yunnanensis M. Zang SPECIES
 
 #### Status
 ACCEPTED

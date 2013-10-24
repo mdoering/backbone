@@ -1,5 +1,4 @@
-Cantharellus decurrens Petch SPECIES
-=======
+# Cantharellus decurrens Petch SPECIES
 
 #### Status
 ACCEPTED

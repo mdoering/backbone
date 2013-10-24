@@ -1,5 +1,4 @@
-Verrucaria olivacella Servít SPECIES
-=======
+# Verrucaria olivacella Servít SPECIES
 
 #### Status
 ACCEPTED

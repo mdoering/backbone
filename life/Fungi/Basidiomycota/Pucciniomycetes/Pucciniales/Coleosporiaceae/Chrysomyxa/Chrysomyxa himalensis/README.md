@@ -1,17 +1,16 @@
-Solenodonta himalensis (Barclay) Syd. SPECIES
-=======
+# Chrysomyxa himalensis Barclay, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 174 (1921)
+null
 
 #### Original name
-Chrysomyxa himalensis Barclay, 1890
+null
 
 ### Remarks
 null

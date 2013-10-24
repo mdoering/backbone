@@ -1,5 +1,4 @@
-Caloplaca nigrozonata (Lamy) Zahlbr. SPECIES
-=======
+# Caloplaca nigrozonata (Lamy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

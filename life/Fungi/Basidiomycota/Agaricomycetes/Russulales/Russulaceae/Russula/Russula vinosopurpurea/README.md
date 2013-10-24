@@ -1,5 +1,4 @@
-Russula vinosopurpurea Jul. Schäff., 1938 SPECIES
-=======
+# Russula vinosopurpurea Jul. Schäff., 1938 SPECIES
 
 #### Status
 ACCEPTED

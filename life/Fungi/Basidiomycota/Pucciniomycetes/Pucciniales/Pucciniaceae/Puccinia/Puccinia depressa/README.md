@@ -1,5 +1,4 @@
-Puccinia depressa Dietel & Neger SPECIES
-=======
+# Puccinia depressa Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

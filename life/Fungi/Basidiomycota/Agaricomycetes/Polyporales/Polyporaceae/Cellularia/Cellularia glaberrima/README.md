@@ -1,5 +1,4 @@
-Cellularia glaberrima (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cellularia glaberrima (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

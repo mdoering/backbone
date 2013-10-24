@@ -1,5 +1,4 @@
-Micromyces grandis C.E. Mill. SPECIES
-=======
+# Micromyces grandis C.E. Mill. SPECIES
 
 #### Status
 ACCEPTED

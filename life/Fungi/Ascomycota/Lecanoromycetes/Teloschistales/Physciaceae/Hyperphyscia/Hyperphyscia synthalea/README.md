@@ -1,14 +1,13 @@
-Physcia synthalea C. Knight SPECIES
-=======
+# Hyperphyscia synthalea (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier (1894)
 
 #### Original name
 Physcia synthalea C. Knight

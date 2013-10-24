@@ -1,5 +1,4 @@
-Leptopharynx opaca (Detcheva, 1972) Augustin, Foissner & Adam, 1987 SPECIES
-=======
+# Leptopharynx opaca (Detcheva, 1972) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
 ACCEPTED

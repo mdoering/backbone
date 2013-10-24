@@ -1,5 +1,4 @@
-Burgoa nigra (Hotson) Goid. SPECIES
-=======
+# Burgoa nigra (Hotson) Goid. SPECIES
 
 #### Status
 ACCEPTED

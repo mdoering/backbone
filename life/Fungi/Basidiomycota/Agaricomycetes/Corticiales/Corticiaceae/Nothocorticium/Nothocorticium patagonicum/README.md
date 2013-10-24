@@ -1,5 +1,4 @@
-Nothocorticium patagonicum Gresl. & Rajchenb., 1999 SPECIES
-=======
+# Nothocorticium patagonicum Gresl. & Rajchenb., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora salicina Ellis & Everh. SPECIES
-=======
+# Cercospora salicina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

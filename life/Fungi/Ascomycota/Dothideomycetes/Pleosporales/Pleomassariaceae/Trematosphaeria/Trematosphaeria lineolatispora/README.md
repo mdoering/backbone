@@ -1,5 +1,4 @@
-Trematosphaeria lineolatispora K.D. Hyde SPECIES
-=======
+# Trematosphaeria lineolatispora K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

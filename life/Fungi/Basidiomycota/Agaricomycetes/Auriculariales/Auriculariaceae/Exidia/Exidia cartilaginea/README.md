@@ -1,5 +1,4 @@
-Exidia cartilaginea var. cartilaginea VARIETY
-=======
+# Exidia cartilaginea S. Lundell & Neuhoff SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Pilze Mitteleuropas (Stuttgart) 2: 19 (1935)
 
 #### Original name
-Exidia cartilaginea var. cartilaginea
+Exidia cartilaginea S. Lundell & Neuhoff
 
 ### Remarks
 null

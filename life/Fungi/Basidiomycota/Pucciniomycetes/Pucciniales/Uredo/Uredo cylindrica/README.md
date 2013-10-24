@@ -1,5 +1,4 @@
-Uredo cylindrica F. Strauss SPECIES
-=======
+# Uredo cylindrica F. Strauss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria tuberculosa Vain. SPECIES
-=======
+# Lobaria tuberculosa Vain. SPECIES
 
 #### Status
 ACCEPTED

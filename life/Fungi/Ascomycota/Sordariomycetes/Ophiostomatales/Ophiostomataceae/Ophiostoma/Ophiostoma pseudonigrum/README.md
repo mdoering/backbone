@@ -1,5 +1,4 @@
-Ophiostoma pseudonigrum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
-=======
+# Ophiostoma pseudonigrum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
 
 #### Status
 ACCEPTED

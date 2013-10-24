@@ -1,5 +1,4 @@
-Aecidium saccardianum De Toni SPECIES
-=======
+# Aecidium saccardianum De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glonium pygmaeum P. Karst. SPECIES
-=======
+# Glonium pygmaeum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma yunnanense J.Z. Ying SPECIES
-=======
+# Entoloma yunnanense J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

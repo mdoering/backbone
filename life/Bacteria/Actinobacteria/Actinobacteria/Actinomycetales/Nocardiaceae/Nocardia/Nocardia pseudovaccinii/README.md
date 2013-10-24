@@ -1,5 +1,4 @@
-Nocardia pseudovaccinii Kim et al., 2002 SPECIES
-=======
+# Nocardia pseudovaccinii Kim et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

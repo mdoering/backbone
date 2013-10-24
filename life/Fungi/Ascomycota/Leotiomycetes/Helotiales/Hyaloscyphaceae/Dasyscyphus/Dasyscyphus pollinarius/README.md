@@ -1,5 +1,4 @@
-Dasyscyphus pollinarius (Cooke) Dennis SPECIES
-=======
+# Dasyscyphus pollinarius (Cooke) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina glycyrrhizae Hollós SPECIES
-=======
+# Diplodina glycyrrhizae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea mediella Nyl. SPECIES
-=======
+# Lecidea mediella Nyl. SPECIES
 
 #### Status
 ACCEPTED

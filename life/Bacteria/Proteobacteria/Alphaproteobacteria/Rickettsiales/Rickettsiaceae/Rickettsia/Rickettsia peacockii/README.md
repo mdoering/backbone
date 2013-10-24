@@ -1,5 +1,4 @@
-Rickettsia peacockii Niebylski et al., 1997 SPECIES
-=======
+# Rickettsia peacockii Niebylski et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

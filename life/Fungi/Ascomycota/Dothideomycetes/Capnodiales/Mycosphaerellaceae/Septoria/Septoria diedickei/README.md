@@ -1,5 +1,4 @@
-Septoria diedickei Sacc. & D. Sacc. SPECIES
-=======
+# Septoria diedickei Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

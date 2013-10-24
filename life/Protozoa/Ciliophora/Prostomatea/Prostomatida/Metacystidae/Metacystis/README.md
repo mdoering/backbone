@@ -1,5 +1,4 @@
-Metacystis Cohn, 1866 GENUS
-=======
+# Metacystis Cohn, 1866 GENUS
 
 #### Status
 ACCEPTED

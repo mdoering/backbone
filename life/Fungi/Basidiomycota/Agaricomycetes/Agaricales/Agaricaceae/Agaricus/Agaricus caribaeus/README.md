@@ -1,5 +1,4 @@
-Agaricus caribaeus Pegler SPECIES
-=======
+# Agaricus caribaeus Pegler SPECIES
 
 #### Status
 ACCEPTED

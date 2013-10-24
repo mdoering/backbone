@@ -1,5 +1,4 @@
-Porina multipunctata G. Merr. SPECIES
-=======
+# Porina multipunctata G. Merr. SPECIES
 
 #### Status
 ACCEPTED

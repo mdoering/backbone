@@ -1,5 +1,4 @@
-Thelenidiomyces monosporellae Cif. & Tomas. SPECIES
-=======
+# Thelenidiomyces monosporellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

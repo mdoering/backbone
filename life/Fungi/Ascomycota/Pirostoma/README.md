@@ -1,5 +1,4 @@
-Pirostoma (E.M. Fries) Saccardo, 1896 GENUS
-=======
+# Pirostoma (E.M. Fries) Saccardo, 1896 GENUS
 
 #### Status
 ACCEPTED

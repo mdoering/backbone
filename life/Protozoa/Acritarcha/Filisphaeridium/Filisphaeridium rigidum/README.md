@@ -1,5 +1,4 @@
-Filisphaeridium rigidum (Davey, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium rigidum (Davey, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

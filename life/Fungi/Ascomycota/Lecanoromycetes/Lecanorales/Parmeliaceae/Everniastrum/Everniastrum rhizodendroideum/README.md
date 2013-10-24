@@ -1,5 +1,4 @@
-Everniastrum rhizodendroideum (J.C. Wei & Y.M. Jiang) Sipman SPECIES
-=======
+# Everniastrum rhizodendroideum (J.C. Wei & Y.M. Jiang) Sipman SPECIES
 
 #### Status
 ACCEPTED

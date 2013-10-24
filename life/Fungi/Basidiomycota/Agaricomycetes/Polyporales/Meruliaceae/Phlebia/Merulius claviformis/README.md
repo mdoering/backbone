@@ -1,5 +1,4 @@
-Merulius claviformis Léman SPECIES
-=======
+# Merulius claviformis Léman SPECIES
 
 #### Status
 ACCEPTED

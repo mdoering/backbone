@@ -1,5 +1,4 @@
-Dialonectria mycetophila (Peck) Cooke SPECIES
-=======
+# Dialonectria mycetophila (Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

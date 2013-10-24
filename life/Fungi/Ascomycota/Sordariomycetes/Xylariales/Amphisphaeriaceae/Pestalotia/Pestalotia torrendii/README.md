@@ -1,14 +1,13 @@
-Pestalotiopsis torrendii (J.V. Almeida & Sousa da Câmara) Nag Raj, 1993 SPECIES
-=======
+# Pestalotia torrendii J.V. Almeida & Sousa da Câmara, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 660 (1993)
+Revista Agron. Portug. 3: 255 (1905)
 
 #### Original name
 Pestalotia torrendii J.V. Almeida & Sousa da Câmara, 1905

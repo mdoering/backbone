@@ -1,5 +1,4 @@
-Tricholoma lavendulophyllum F.Q. Yu SPECIES
-=======
+# Tricholoma lavendulophyllum F.Q. Yu SPECIES
 
 #### Status
 ACCEPTED

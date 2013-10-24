@@ -1,14 +1,13 @@
-Pseudocercospora vexillata (J.M. Yen) U. Braun SPECIES
-=======
+# Pseudocercospora vexillatae (J.M. Yen) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Braun, Mouchacca & McKenzie, N. Z. Jl Bot. 37(2): 316 (1999)
 
 #### Original name
 Cercospora vexillatae J.M. Yen

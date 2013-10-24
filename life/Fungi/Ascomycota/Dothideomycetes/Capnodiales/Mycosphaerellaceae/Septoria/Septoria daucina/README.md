@@ -1,5 +1,4 @@
-Septoria daucina Brunaud SPECIES
-=======
+# Septoria daucina Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea dioritica Vain. SPECIES
-=======
+# Lecidea dioritica Vain. SPECIES
 
 #### Status
 ACCEPTED

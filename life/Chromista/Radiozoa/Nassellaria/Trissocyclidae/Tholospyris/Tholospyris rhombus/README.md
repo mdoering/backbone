@@ -1,5 +1,4 @@
-Tholospyris rhombus Goll, 1972 SPECIES
-=======
+# Tholospyris rhombus Goll, 1972 SPECIES
 
 #### Status
 ACCEPTED

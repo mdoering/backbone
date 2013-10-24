@@ -1,5 +1,4 @@
-Caeoma sambuciatum Schwein. SPECIES
-=======
+# Caeoma sambuciatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

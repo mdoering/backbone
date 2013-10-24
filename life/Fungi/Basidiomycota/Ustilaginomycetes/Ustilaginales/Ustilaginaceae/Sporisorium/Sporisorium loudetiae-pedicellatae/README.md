@@ -1,5 +1,4 @@
-Sporisorium loudetiae-pedicellatae Vánky & C. Vánky, 1997 SPECIES
-=======
+# Sporisorium loudetiae-pedicellatae Vánky & C. Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

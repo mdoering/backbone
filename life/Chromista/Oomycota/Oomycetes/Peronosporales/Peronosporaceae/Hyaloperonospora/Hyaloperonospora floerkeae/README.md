@@ -1,14 +1,13 @@
-Peronospora floerkeae Kellerm., 1904 SPECIES
-=======
+# Hyaloperonospora floerkeae (Kellerm.) Constant., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 10: 172 (1904)
+in Constantinescu & Fatehi, Nova Hedwigia 74(3-4): 316 (2002)
 
 #### Original name
 Peronospora floerkeae Kellerm., 1904

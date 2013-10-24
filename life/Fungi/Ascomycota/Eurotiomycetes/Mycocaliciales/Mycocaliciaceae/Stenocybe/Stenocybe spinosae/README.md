@@ -1,5 +1,4 @@
-Stenocybe spinosae Velen. SPECIES
-=======
+# Stenocybe spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

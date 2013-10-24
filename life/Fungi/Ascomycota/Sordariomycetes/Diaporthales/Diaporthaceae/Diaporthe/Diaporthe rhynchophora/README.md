@@ -1,5 +1,4 @@
-Diaporthe rhynchophora Fabre SPECIES
-=======
+# Diaporthe rhynchophora Fabre SPECIES
 
 #### Status
 ACCEPTED

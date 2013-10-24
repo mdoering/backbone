@@ -1,5 +1,4 @@
-Phellinus feneus Corner SPECIES
-=======
+# Phellinus feneus Corner SPECIES
 
 #### Status
 ACCEPTED

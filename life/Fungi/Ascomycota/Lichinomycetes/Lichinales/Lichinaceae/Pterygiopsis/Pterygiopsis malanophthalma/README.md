@@ -1,5 +1,4 @@
-Pterygiopsis malanophthalma Henssen, Büdel & Wessels SPECIES
-=======
+# Pterygiopsis malanophthalma Henssen, Büdel & Wessels SPECIES
 
 #### Status
 ACCEPTED

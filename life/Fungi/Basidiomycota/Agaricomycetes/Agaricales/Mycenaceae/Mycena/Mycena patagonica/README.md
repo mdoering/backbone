@@ -1,5 +1,4 @@
-Mycena patagonica Singer SPECIES
-=======
+# Mycena patagonica Singer SPECIES
 
 #### Status
 ACCEPTED

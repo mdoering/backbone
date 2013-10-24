@@ -1,5 +1,4 @@
-Omphalia telmatiaea (Berk. & Cooke) Sacc. SPECIES
-=======
+# Omphalia telmatiaea (Berk. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

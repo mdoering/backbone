@@ -1,5 +1,4 @@
-Uredo festucae-parmiglumae Chen SPECIES
-=======
+# Uredo festucae-parmiglumae Chen SPECIES
 
 #### Status
 ACCEPTED

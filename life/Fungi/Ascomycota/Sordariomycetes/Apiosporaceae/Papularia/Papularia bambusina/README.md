@@ -1,5 +1,4 @@
-Papularia bambusina (Speg.) Petr. SPECIES
-=======
+# Papularia bambusina (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

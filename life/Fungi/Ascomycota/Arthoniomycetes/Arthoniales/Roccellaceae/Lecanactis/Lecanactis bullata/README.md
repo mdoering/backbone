@@ -1,5 +1,4 @@
-Lecanactis bullata van der Byl SPECIES
-=======
+# Lecanactis bullata van der Byl SPECIES
 
 #### Status
 ACCEPTED

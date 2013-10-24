@@ -1,14 +1,13 @@
-Rhabdogromia Valkanova, 1964 GENUS
-=======
+# Micatuba Avnimelech, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Contr. Cushman Fdn. , 3, 65.
 
 #### Original name
 null

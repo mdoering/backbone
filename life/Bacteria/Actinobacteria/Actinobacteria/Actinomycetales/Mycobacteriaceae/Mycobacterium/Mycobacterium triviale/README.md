@@ -1,5 +1,4 @@
-Mycobacterium triviale Kubica, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium triviale Kubica, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

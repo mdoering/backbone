@@ -1,5 +1,4 @@
-Uredo insularis (Faull) Hirats. f. SPECIES
-=======
+# Uredo insularis (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

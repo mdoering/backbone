@@ -1,5 +1,4 @@
-Boletus nobilissimus Both & R. Riedel SPECIES
-=======
+# Boletus nobilissimus Both & R. Riedel SPECIES
 
 #### Status
 ACCEPTED

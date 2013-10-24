@@ -1,5 +1,4 @@
-Marasmius glabellus f. glabellus FORM
-=======
+# Marasmius glabellus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius glabellus f. glabellus
+Marasmius glabellus Peck
 
 ### Remarks
 null

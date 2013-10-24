@@ -1,5 +1,4 @@
-Nosema nelsoni Sprague SPECIES
-=======
+# Nosema nelsoni Sprague SPECIES
 
 #### Status
 ACCEPTED

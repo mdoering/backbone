@@ -1,5 +1,4 @@
-Achroomyces albidus anon. ined. SPECIES
-=======
+# Achroomyces albidus anon. ined. SPECIES
 
 #### Status
 ACCEPTED

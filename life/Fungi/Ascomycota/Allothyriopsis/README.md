@@ -1,5 +1,4 @@
-Allothyriopsis Bat., Cif. & H. Maia GENUS
-=======
+# Allothyriopsis Bat., Cif. & H. Maia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla naumovii Gucevic SPECIES
-=======
+# Zignoëlla naumovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

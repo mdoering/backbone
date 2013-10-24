@@ -1,17 +1,16 @@
-Hypoxylon juruensis Henn. SPECIES
-=======
+# Hypoxylon ochraceum Henn., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 36: 228 (1897)
 
 #### Original name
-Hypoxylon juruensis Henn.
+Hypoxylon ochraceum Henn., 1897
 
 ### Remarks
 null

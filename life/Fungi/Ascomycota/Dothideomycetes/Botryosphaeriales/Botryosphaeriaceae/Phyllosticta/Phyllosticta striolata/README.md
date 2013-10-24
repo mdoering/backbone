@@ -1,5 +1,4 @@
-Phyllosticta striolata Sacc. SPECIES
-=======
+# Phyllosticta striolata Sacc. SPECIES
 
 #### Status
 ACCEPTED

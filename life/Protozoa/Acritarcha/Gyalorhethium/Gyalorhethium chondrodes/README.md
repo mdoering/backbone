@@ -1,5 +1,4 @@
-Gyalorhethium chondrodes Loeblich & Tappan, 1978 SPECIES
-=======
+# Gyalorhethium chondrodes Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

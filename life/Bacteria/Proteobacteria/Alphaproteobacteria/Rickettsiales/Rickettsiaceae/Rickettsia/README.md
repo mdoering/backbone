@@ -1,5 +1,4 @@
-Rickettsia Rocha Lima, 1916 GENUS
-=======
+# Rickettsia Rocha Lima, 1916 GENUS
 
 #### Status
 ACCEPTED

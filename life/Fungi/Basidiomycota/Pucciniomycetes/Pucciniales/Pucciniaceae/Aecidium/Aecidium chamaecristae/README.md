@@ -1,5 +1,4 @@
-Aecidium chamaecristae Arthur SPECIES
-=======
+# Aecidium chamaecristae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella phyllacteris (Bull.) SPECIES
-=======
+# Tomentella phyllacteris (Bull.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hibisci Henn. SPECIES
-=======
+# Puccinia hibisci Henn. SPECIES
 
 #### Status
 ACCEPTED

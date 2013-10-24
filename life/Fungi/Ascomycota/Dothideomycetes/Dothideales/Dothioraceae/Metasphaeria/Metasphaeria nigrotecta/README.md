@@ -1,5 +1,4 @@
-Metasphaeria nigrotecta Rehm SPECIES
-=======
+# Metasphaeria nigrotecta Rehm SPECIES
 
 #### Status
 ACCEPTED

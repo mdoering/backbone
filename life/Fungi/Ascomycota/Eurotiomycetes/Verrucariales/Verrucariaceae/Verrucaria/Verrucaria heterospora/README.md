@@ -1,5 +1,4 @@
-Verrucaria heterospora Garov. SPECIES
-=======
+# Verrucaria heterospora Garov. SPECIES
 
 #### Status
 ACCEPTED

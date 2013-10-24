@@ -1,5 +1,4 @@
-Graphis microscopica Ehrh. SPECIES
-=======
+# Graphis microscopica Ehrh. SPECIES
 
 #### Status
 ACCEPTED

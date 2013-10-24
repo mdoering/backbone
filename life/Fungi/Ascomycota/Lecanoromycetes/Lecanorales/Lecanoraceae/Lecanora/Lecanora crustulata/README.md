@@ -1,5 +1,4 @@
-Lecanora crustulata SPECIES
-=======
+# Lecanora crustulata SPECIES
 
 #### Status
 ACCEPTED

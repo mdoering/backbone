@@ -1,5 +1,4 @@
-Camarophyllus cremicolor (Murrill) Murrill SPECIES
-=======
+# Camarophyllus cremicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

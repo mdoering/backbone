@@ -1,5 +1,4 @@
-Sphaeria secreta Cooke & Ellis SPECIES
-=======
+# Sphaeria secreta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

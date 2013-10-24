@@ -1,11 +1,10 @@
-Hydrogenomonas facilis Schatz & Bovell, 1952 SPECIES
-=======
+# Acidovorax facilis (Schatz & Bovell, 1952) Willems et al., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

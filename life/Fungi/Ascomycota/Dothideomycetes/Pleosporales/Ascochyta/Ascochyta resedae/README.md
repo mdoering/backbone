@@ -1,5 +1,4 @@
-Ascochyta resedae Bond.-Mont. SPECIES
-=======
+# Ascochyta resedae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flavocetraria minuscula (Elenkin & Savicz) Ahti, Poryadina & Zhurb. SPECIES
-=======
+# Flavocetraria minuscula (Elenkin & Savicz) Ahti, Poryadina & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

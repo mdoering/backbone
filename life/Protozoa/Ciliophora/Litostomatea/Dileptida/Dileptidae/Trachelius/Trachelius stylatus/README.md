@@ -1,5 +1,4 @@
-Trachelius stylatus Schrank, 1803 SPECIES
-=======
+# Trachelius stylatus Schrank, 1803 SPECIES
 
 #### Status
 ACCEPTED

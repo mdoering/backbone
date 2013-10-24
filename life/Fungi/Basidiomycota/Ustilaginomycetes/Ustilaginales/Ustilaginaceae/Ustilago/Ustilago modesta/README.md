@@ -1,5 +1,4 @@
-Ustilago modesta Syd. & P. Syd. SPECIES
-=======
+# Ustilago modesta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

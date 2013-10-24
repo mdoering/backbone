@@ -1,5 +1,4 @@
-Ophrydium Bory de St. Vincent, 1826 GENUS
-=======
+# Ophrydium Bory de St. Vincent, 1826 GENUS
 
 #### Status
 ACCEPTED

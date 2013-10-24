@@ -1,5 +1,4 @@
-Trypethelium peltigereum G. Merr. SPECIES
-=======
+# Trypethelium peltigereum G. Merr. SPECIES
 
 #### Status
 ACCEPTED

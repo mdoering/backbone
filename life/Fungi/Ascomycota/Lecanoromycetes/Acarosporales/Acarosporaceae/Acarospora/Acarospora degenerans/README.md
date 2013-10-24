@@ -1,5 +1,4 @@
-Acarospora degenerans H. Magn. SPECIES
-=======
+# Acarospora degenerans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

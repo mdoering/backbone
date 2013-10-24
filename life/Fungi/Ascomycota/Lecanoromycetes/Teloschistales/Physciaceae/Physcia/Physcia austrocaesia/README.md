@@ -1,5 +1,4 @@
-Physcia austrocaesia Elix SPECIES
-=======
+# Physcia austrocaesia Elix SPECIES
 
 #### Status
 ACCEPTED

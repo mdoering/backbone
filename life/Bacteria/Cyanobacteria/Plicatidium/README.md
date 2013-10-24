@@ -1,5 +1,4 @@
-Plicatidium T.V. Jankauskas, 1980 GENUS
-=======
+# Plicatidium T.V. Jankauskas, 1980 GENUS
 
 #### Status
 ACCEPTED

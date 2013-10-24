@@ -1,5 +1,4 @@
-Cinguloturris getsensis SPECIES
-=======
+# Cinguloturris getsensis SPECIES
 
 #### Status
 ACCEPTED

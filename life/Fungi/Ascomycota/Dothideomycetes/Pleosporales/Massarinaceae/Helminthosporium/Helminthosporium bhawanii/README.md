@@ -1,5 +1,4 @@
-Helminthosporium bhawanii A.P. Misra SPECIES
-=======
+# Helminthosporium bhawanii A.P. Misra SPECIES
 
 #### Status
 ACCEPTED

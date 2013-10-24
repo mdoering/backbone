@@ -1,5 +1,4 @@
-Erysiphe aquilegiae var. aquilegiae VARIETY
-=======
+# Erysiphe aquilegiae DC., 1821 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 105 (1815)
+null
 
 #### Original name
-Erysiphe aquilegiae var. aquilegiae
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tintinnopsis fusiformis Daday, 1892 SPECIES
-=======
+# Tintinnopsis fusiformis Daday, 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota quinamana Dennis SPECIES
-=======
+# Lepiota quinamana Dennis SPECIES
 
 #### Status
 ACCEPTED

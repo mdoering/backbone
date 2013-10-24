@@ -1,5 +1,4 @@
-Cryptococcus jeanselmei Burnier & Langeron SPECIES
-=======
+# Cryptococcus jeanselmei Burnier & Langeron SPECIES
 
 #### Status
 ACCEPTED

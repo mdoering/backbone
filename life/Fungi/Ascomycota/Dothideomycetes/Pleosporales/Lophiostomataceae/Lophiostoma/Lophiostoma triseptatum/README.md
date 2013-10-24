@@ -1,5 +1,4 @@
-Lophiostoma triseptatum Peck SPECIES
-=======
+# Lophiostoma triseptatum Peck SPECIES
 
 #### Status
 ACCEPTED

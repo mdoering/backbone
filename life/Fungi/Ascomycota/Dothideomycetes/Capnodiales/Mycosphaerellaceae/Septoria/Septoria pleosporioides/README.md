@@ -1,5 +1,4 @@
-Septoria pleosporioides SPECIES
-=======
+# Septoria pleosporioides SPECIES
 
 #### Status
 ACCEPTED

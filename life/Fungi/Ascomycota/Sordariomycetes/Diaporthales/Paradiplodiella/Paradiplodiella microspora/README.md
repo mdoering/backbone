@@ -1,5 +1,4 @@
-Paradiplodiella microspora (Sacc.) Zambett. SPECIES
-=======
+# Paradiplodiella microspora (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

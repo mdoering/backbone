@@ -1,5 +1,4 @@
-Buellia cacoti B. de Lesd. SPECIES
-=======
+# Buellia cacoti B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

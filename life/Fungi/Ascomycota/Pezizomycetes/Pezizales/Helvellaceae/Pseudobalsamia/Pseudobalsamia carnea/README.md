@@ -1,5 +1,4 @@
-Pseudobalsamia carnea (Harkn.) Szem. SPECIES
-=======
+# Pseudobalsamia carnea (Harkn.) Szem. SPECIES
 
 #### Status
 ACCEPTED

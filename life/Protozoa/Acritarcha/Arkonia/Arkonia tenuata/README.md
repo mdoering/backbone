@@ -1,5 +1,4 @@
-Arkonia tenuata Burmann, 1970 SPECIES
-=======
+# Arkonia tenuata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

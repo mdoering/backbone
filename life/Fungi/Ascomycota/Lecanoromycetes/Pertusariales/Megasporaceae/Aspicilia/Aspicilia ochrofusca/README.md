@@ -1,5 +1,4 @@
-Aspicilia ochrofusca (Zahlbr.) Motyka SPECIES
-=======
+# Aspicilia ochrofusca (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

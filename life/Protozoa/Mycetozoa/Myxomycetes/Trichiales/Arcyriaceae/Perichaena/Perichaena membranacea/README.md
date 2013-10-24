@@ -1,5 +1,4 @@
-Perichaena membranacea Yu Li, Q. Wang & H.Z. Li, 1990 SPECIES
-=======
+# Perichaena membranacea Yu Li, Q. Wang & H.Z. Li, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizopeltomyces californicae Cif. & Tomas. SPECIES
-=======
+# Schizopeltomyces californicae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

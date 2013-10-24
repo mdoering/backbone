@@ -1,5 +1,4 @@
-Beltrania querna Harkn., 1884 SPECIES
-=======
+# Beltrania querna Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

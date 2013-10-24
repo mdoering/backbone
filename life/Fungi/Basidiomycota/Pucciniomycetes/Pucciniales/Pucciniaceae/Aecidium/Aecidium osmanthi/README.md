@@ -1,5 +1,4 @@
-Aecidium osmanthi Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Aecidium osmanthi Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

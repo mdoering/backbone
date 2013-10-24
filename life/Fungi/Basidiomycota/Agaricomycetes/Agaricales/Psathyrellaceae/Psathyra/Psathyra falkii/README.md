@@ -1,5 +1,4 @@
-Psathyra falkii (Weinm.) P. Karst. SPECIES
-=======
+# Psathyra falkii (Weinm.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

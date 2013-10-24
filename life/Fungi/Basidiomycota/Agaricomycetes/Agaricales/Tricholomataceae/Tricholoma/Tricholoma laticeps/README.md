@@ -1,5 +1,4 @@
-Tricholoma laticeps Kauffman SPECIES
-=======
+# Tricholoma laticeps Kauffman SPECIES
 
 #### Status
 ACCEPTED

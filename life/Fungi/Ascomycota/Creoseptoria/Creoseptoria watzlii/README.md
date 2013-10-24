@@ -1,5 +1,4 @@
-Creoseptoria watzlii Petr., 1937 SPECIES
-=======
+# Creoseptoria watzlii Petr., 1937 SPECIES
 
 #### Status
 ACCEPTED

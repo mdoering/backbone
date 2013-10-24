@@ -1,5 +1,4 @@
-Lizoniella fructigina Syd. SPECIES
-=======
+# Lizoniella fructigina Syd. SPECIES
 
 #### Status
 ACCEPTED

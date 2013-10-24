@@ -1,5 +1,4 @@
-Asteridiella prunicola (Speg.) Hansf. SPECIES
-=======
+# Asteridiella prunicola (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces longicollis Thaxt. SPECIES
-=======
+# Stigmatomyces longicollis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

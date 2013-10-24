@@ -1,5 +1,4 @@
-Fungus annulatus (Krombh.) Kuntze SPECIES
-=======
+# Fungus annulatus (Krombh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

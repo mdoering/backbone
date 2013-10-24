@@ -1,5 +1,4 @@
-Phoma jowana Sacc. SPECIES
-=======
+# Phoma jowana Sacc. SPECIES
 
 #### Status
 ACCEPTED

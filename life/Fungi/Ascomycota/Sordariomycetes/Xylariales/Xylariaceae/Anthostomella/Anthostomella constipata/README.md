@@ -1,5 +1,4 @@
-Anthostomella constipata (Mont.) Sacc. SPECIES
-=======
+# Anthostomella constipata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

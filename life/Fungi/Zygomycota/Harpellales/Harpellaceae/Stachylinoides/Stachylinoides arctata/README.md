@@ -1,5 +1,4 @@
-Stachylinoides arctata Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
-=======
+# Stachylinoides arctata Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

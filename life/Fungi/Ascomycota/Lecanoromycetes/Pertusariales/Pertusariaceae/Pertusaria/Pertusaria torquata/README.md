@@ -1,5 +1,4 @@
-Pertusaria torquata Müll. Arg. SPECIES
-=======
+# Pertusaria torquata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

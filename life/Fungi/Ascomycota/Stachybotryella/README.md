@@ -1,5 +1,4 @@
-Stachybotryella Ellis & Barthol. GENUS
-=======
+# Stachybotryella Ellis & Barthol. GENUS
 
 #### Status
 ACCEPTED

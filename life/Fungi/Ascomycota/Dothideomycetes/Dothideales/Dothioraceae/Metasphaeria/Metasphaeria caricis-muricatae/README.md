@@ -1,5 +1,4 @@
-Metasphaeria caricis-muricatae Petr. SPECIES
-=======
+# Metasphaeria caricis-muricatae Petr. SPECIES
 
 #### Status
 ACCEPTED

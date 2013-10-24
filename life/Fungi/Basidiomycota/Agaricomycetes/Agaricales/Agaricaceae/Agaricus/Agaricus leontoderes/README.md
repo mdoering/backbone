@@ -1,5 +1,4 @@
-Agaricus leontoderes Berk. & Broome SPECIES
-=======
+# Agaricus leontoderes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

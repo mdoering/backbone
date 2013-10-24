@@ -1,5 +1,4 @@
-Helminthosporium obscurum (Corda) Sacc. SPECIES
-=======
+# Helminthosporium obscurum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

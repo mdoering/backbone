@@ -1,5 +1,4 @@
-Cytoplea cinerea (Cooke & Ellis) Petr. & Syd. SPECIES
-=======
+# Cytoplea cinerea (Cooke & Ellis) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

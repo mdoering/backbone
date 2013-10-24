@@ -1,5 +1,4 @@
-Roccellina ochracea Follmann SPECIES
-=======
+# Roccellina ochracea Follmann SPECIES
 
 #### Status
 ACCEPTED

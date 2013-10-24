@@ -1,5 +1,4 @@
-Cyphella infundibuliformis (Alb. & Schwein.) Fr. SPECIES
-=======
+# Cyphella infundibuliformis (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

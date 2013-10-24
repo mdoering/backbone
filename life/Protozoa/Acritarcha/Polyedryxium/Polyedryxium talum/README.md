@@ -1,5 +1,4 @@
-Polyedryxium talum Deunff, 1971 SPECIES
-=======
+# Polyedryxium talum Deunff, 1971 SPECIES
 
 #### Status
 ACCEPTED

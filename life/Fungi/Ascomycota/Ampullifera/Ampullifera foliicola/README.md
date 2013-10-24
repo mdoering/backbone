@@ -1,5 +1,4 @@
-Ampullifera foliicola Deighton, 1960 SPECIES
-=======
+# Ampullifera foliicola Deighton, 1960 SPECIES
 
 #### Status
 ACCEPTED

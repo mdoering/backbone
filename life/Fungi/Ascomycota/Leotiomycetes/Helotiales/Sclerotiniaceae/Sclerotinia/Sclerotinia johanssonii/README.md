@@ -1,5 +1,4 @@
-Sclerotinia johanssonii Starbäck SPECIES
-=======
+# Sclerotinia johanssonii Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta microspora (Müll. Arg.) Vain. SPECIES
-=======
+# Gyalecta microspora (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

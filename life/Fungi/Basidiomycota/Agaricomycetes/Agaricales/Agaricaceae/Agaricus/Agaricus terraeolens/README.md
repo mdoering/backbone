@@ -1,5 +1,4 @@
-Agaricus terraeolens Peck SPECIES
-=======
+# Agaricus terraeolens Peck SPECIES
 
 #### Status
 ACCEPTED

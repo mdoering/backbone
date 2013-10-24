@@ -1,5 +1,4 @@
-Chaetomium nozdrenkoae Sergeeva, 1961 SPECIES
-=======
+# Chaetomium nozdrenkoae Sergeeva, 1961 SPECIES
 
 #### Status
 ACCEPTED

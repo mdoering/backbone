@@ -1,14 +1,13 @@
-Campanella dendrophora Singer, 1955 SPECIES
-=======
+# Tetrapyrgos dendrophora (Singer) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47(5): 763 (1955)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Campanella dendrophora Singer, 1955

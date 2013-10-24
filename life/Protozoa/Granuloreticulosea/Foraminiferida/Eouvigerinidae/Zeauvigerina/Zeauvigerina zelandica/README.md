@@ -1,5 +1,4 @@
-Zeauvigerina zelandica Finlay, 1939 SPECIES
-=======
+# Zeauvigerina zelandica Finlay, 1939 SPECIES
 
 #### Status
 ACCEPTED

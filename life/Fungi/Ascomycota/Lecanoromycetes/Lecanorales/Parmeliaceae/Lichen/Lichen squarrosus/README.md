@@ -1,5 +1,4 @@
-Lichen squarrosus Pers. SPECIES
-=======
+# Lichen squarrosus Pers. SPECIES
 
 #### Status
 ACCEPTED

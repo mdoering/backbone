@@ -1,5 +1,4 @@
-Camarosporium orni Henn., 1903 SPECIES
-=======
+# Camarosporium orni Henn., 1903 SPECIES
 
 #### Status
 ACCEPTED

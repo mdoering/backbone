@@ -1,5 +1,4 @@
-Marasmius insignis Hino {?} SPECIES
-=======
+# Marasmius insignis Hino {?} SPECIES
 
 #### Status
 ACCEPTED

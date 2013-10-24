@@ -1,8 +1,7 @@
-Leptogium lafayettianum Vain. SPECIES
-=======
+# Leptogium lafayetteanum Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptogium lafayettianum Vain.
+Leptogium lafayetteanum Vain.
 
 ### Remarks
 null

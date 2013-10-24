@@ -1,5 +1,4 @@
-Amanitopsis beckeri (Huijsman) Wasser SPECIES
-=======
+# Amanitopsis beckeri (Huijsman) Wasser SPECIES
 
 #### Status
 ACCEPTED

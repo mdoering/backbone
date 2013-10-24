@@ -1,5 +1,4 @@
-Psathyra microsperma Peck SPECIES
-=======
+# Psathyra microsperma Peck SPECIES
 
 #### Status
 ACCEPTED

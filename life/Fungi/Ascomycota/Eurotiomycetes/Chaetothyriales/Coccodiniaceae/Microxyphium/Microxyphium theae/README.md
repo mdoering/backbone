@@ -1,5 +1,4 @@
-Microxyphium theae J.F.H. Beyma SPECIES
-=======
+# Microxyphium theae J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

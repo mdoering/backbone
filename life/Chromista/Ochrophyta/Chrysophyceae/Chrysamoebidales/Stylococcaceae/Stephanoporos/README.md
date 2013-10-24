@@ -1,5 +1,4 @@
-Stephanoporos W.Conrad & Pascher, 1940 GENUS
-=======
+# Stephanoporos W.Conrad & Pascher, 1940 GENUS
 
 #### Status
 ACCEPTED

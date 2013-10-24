@@ -1,5 +1,4 @@
-Glomerella mutabilis SPECIES
-=======
+# Glomerella mutabilis SPECIES
 
 #### Status
 ACCEPTED

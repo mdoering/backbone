@@ -1,5 +1,4 @@
-Sphaerella maturna Sacc. SPECIES
-=======
+# Sphaerella maturna Sacc. SPECIES
 
 #### Status
 ACCEPTED

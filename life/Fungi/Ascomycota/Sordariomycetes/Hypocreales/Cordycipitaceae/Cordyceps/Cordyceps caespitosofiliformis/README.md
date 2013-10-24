@@ -1,5 +1,4 @@
-Cordyceps caespitosofiliformis Henn. SPECIES
-=======
+# Cordyceps caespitosofiliformis Henn. SPECIES
 
 #### Status
 ACCEPTED

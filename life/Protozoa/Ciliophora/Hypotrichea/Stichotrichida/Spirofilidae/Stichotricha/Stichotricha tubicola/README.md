@@ -1,8 +1,7 @@
-Spirofilopsis tubicola Gruber, 1879 SPECIES
-=======
+# Stichotricha tubicola (Gruber, 1880) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

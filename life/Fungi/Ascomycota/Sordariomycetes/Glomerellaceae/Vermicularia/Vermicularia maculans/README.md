@@ -1,5 +1,4 @@
-Vermicularia maculans Desm. SPECIES
-=======
+# Vermicularia maculans Desm. SPECIES
 
 #### Status
 ACCEPTED

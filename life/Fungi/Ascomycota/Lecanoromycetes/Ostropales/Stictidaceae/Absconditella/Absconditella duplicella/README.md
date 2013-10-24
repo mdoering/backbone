@@ -1,5 +1,4 @@
-Absconditella duplicella (Nyl.) Rossman SPECIES
-=======
+# Absconditella duplicella (Nyl.) Rossman SPECIES
 
 #### Status
 ACCEPTED

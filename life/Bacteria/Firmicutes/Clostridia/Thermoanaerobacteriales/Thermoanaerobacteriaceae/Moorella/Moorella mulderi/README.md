@@ -1,5 +1,4 @@
-Moorella mulderi Balk et al., 2005 SPECIES
-=======
+# Moorella mulderi Balk et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

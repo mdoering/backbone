@@ -1,5 +1,4 @@
-Xanthoparmelia oblisata A. Fletcher & Hale SPECIES
-=======
+# Xanthoparmelia oblisata A. Fletcher & Hale SPECIES
 
 #### Status
 ACCEPTED

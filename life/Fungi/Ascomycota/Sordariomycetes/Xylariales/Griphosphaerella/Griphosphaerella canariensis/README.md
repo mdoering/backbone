@@ -1,5 +1,4 @@
-Griphosphaerella canariensis Petr. SPECIES
-=======
+# Griphosphaerella canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

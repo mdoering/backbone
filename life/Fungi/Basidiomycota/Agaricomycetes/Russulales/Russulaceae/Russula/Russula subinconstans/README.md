@@ -1,5 +1,4 @@
-Russula subinconstans Murrill SPECIES
-=======
+# Russula subinconstans Murrill SPECIES
 
 #### Status
 ACCEPTED

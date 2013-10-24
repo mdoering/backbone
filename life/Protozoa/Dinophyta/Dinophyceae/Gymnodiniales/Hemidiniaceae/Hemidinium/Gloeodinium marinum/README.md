@@ -1,5 +1,4 @@
-Gloeodinium marinum Bouquaheux SPECIES
-=======
+# Gloeodinium marinum Bouquaheux SPECIES
 
 #### Status
 ACCEPTED

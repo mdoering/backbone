@@ -1,5 +1,4 @@
-Flagelloscypha trachychaeta (Ellis & Everh.) W.B. Cooke SPECIES
-=======
+# Flagelloscypha trachychaeta (Ellis & Everh.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

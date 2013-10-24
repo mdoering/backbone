@@ -1,5 +1,4 @@
-Rhizidium schenkii P.A. Dang. SPECIES
-=======
+# Rhizidium schenkii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

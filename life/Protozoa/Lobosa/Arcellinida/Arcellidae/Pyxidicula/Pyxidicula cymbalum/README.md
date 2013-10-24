@@ -1,5 +1,4 @@
-Pyxidicula cymbalum Penard, 1902 SPECIES
-=======
+# Pyxidicula cymbalum Penard, 1902 SPECIES
 
 #### Status
 ACCEPTED

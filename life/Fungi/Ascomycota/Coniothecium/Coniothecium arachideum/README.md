@@ -1,5 +1,4 @@
-Coniothecium arachideum Lucks {?} SPECIES
-=======
+# Coniothecium arachideum Lucks {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora bromi A.L. Sm. & Ramsb. SPECIES
-=======
+# Stagonospora bromi A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

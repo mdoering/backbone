@@ -1,5 +1,4 @@
-Chionomyces ontariensis Matsush. SPECIES
-=======
+# Chionomyces ontariensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

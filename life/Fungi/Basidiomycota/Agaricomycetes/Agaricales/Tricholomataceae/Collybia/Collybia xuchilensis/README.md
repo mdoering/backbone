@@ -1,5 +1,4 @@
-Collybia xuchilensis (Murrill) Murrill SPECIES
-=======
+# Collybia xuchilensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

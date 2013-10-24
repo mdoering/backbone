@@ -1,5 +1,4 @@
-Agaricus muscorum Schumach. SPECIES
-=======
+# Agaricus muscorum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torulomyces ovatus K. Ando & Nawawi SPECIES
-=======
+# Torulomyces ovatus K. Ando & Nawawi SPECIES
 
 #### Status
 ACCEPTED

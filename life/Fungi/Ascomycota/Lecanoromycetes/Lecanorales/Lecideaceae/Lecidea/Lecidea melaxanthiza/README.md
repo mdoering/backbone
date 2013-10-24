@@ -1,5 +1,4 @@
-Lecidea melaxanthiza Nyl. SPECIES
-=======
+# Lecidea melaxanthiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

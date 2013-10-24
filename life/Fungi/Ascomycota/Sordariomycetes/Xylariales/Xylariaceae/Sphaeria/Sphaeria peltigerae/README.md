@@ -1,5 +1,4 @@
-Sphaeria peltigerae Fuckel SPECIES
-=======
+# Sphaeria peltigerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum minimum Bolton SPECIES
-=======
+# Hydnum minimum Bolton SPECIES
 
 #### Status
 ACCEPTED

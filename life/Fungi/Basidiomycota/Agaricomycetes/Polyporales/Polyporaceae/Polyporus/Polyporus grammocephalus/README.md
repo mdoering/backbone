@@ -1,17 +1,16 @@
-Favolus moluccensis var. moluccensis VARIETY
-=======
+# Polyporus grammocephalus Berk., 1842 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 20: 365 (1843)
+Hooker's J. Bot. Kew Gard. Misc. 1: 1184 (1842)
 
 #### Original name
-Favolus moluccensis var. moluccensis
+Polyporus grammocephalus Berk., 1842
 
 ### Remarks
 null

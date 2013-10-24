@@ -1,5 +1,4 @@
-Agaricus erythrogrammus Berk. & Broome SPECIES
-=======
+# Agaricus erythrogrammus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

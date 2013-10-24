@@ -1,17 +1,16 @@
-Boydia A.L. Sm. GENUS
-=======
+# Vialaea Saccardo, 1896 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Trans. Br. mycol. Soc. 6: 151 (1919)
+null
 
 #### Original name
-Boydia A.L. Sm.
+null
 
 ### Remarks
 null

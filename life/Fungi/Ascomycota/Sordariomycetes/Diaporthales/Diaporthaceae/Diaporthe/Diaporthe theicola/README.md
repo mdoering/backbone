@@ -1,5 +1,4 @@
-Diaporthe theicola Curzi SPECIES
-=======
+# Diaporthe theicola Curzi SPECIES
 
 #### Status
 ACCEPTED

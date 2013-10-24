@@ -1,5 +1,4 @@
-Sphaerella litseae Berk. & Broome SPECIES
-=======
+# Sphaerella litseae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

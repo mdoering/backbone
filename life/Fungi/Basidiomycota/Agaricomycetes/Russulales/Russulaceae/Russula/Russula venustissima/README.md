@@ -1,5 +1,4 @@
-Russula venustissima Carteret & Reumaux SPECIES
-=======
+# Russula venustissima Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

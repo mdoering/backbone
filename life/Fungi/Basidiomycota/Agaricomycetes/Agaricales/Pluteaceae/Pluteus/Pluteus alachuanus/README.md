@@ -1,5 +1,4 @@
-Pluteus alachuanus Murrill SPECIES
-=======
+# Pluteus alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

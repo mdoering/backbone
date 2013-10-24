@@ -1,5 +1,4 @@
-Pilgeriella Henn. GENUS
-=======
+# Pilgeriella Henn. GENUS
 
 #### Status
 ACCEPTED

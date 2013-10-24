@@ -1,5 +1,4 @@
-Gonyaulax eisenacki SPECIES
-=======
+# Gonyaulax eisenacki SPECIES
 
 #### Status
 ACCEPTED

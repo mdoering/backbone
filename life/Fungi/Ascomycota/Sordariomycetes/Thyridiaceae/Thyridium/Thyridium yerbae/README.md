@@ -1,5 +1,4 @@
-Thyridium yerbae Speg. SPECIES
-=======
+# Thyridium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

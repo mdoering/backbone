@@ -1,5 +1,4 @@
-Rinodina norrlandica H. Magn. SPECIES
-=======
+# Rinodina norrlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

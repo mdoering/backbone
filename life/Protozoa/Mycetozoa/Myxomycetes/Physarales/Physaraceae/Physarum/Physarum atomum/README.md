@@ -1,5 +1,4 @@
-Physarum atomum Carm. {?} SPECIES
-=======
+# Physarum atomum Carm. {?} SPECIES
 
 #### Status
 ACCEPTED

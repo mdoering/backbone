@@ -1,5 +1,4 @@
-Amphiloma leucoxanthum Müll. Arg. SPECIES
-=======
+# Amphiloma leucoxanthum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

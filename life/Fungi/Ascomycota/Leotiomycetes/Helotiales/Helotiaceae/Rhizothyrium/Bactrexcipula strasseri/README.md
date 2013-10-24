@@ -1,5 +1,4 @@
-Bactrexcipula strasseri Höhn. SPECIES
-=======
+# Bactrexcipula strasseri Höhn. SPECIES
 
 #### Status
 ACCEPTED

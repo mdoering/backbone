@@ -1,5 +1,4 @@
-Mazosia papercula var. macrospora Bat. & H. Maia VARIETY
-=======
+# Mazosia papercula anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 5: 436 (1967)
+null
 
 #### Original name
-Mazosia papercula var. macrospora Bat. & H. Maia
+Mazosia papercula anon.
 
 ### Remarks
 null

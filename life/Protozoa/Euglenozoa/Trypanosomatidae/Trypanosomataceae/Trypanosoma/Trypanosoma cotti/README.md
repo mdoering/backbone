@@ -1,5 +1,4 @@
-Trypanosoma cotti Brumpt & Lebailly, 1904 SPECIES
-=======
+# Trypanosoma cotti Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

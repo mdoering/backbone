@@ -1,5 +1,4 @@
-Madsenia indomita (Madsen, 1931) Kahl, 1934 SPECIES
-=======
+# Madsenia indomita (Madsen, 1931) Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

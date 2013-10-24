@@ -1,5 +1,4 @@
-Cortinarius dactylodermus Rob. Henry SPECIES
-=======
+# Cortinarius dactylodermus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

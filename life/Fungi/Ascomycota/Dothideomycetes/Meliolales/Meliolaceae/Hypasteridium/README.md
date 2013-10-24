@@ -1,5 +1,4 @@
-Hypasteridium Speg. GENUS
-=======
+# Hypasteridium Speg. GENUS
 
 #### Status
 ACCEPTED

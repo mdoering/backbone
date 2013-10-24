@@ -1,5 +1,4 @@
-Peltella vaccinii (De Not.) F. Stevens SPECIES
-=======
+# Peltella vaccinii (De Not.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protostichocapsa Empson-Morin, 1982 GENUS
-=======
+# Protostichocapsa Empson-Morin, 1982 GENUS
 
 #### Status
 ACCEPTED

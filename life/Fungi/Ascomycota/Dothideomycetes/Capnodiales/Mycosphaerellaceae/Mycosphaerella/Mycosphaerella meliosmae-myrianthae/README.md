@@ -1,5 +1,4 @@
-Mycosphaerella meliosmae-myrianthae Hara SPECIES
-=======
+# Mycosphaerella meliosmae-myrianthae Hara SPECIES
 
 #### Status
 ACCEPTED

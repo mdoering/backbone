@@ -1,5 +1,4 @@
-Trachelomonas rolli Deflandre SPECIES
-=======
+# Trachelomonas rolli Deflandre SPECIES
 
 #### Status
 ACCEPTED

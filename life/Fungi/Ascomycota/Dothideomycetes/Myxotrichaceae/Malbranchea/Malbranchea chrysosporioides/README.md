@@ -1,5 +1,4 @@
-Malbranchea chrysosporioides Sigler & J.W. Carmich. SPECIES
-=======
+# Malbranchea chrysosporioides Sigler & J.W. Carmich. SPECIES
 
 #### Status
 ACCEPTED

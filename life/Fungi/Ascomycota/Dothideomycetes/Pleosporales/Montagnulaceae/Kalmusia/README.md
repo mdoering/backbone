@@ -1,17 +1,16 @@
-Diapleella Munk GENUS
-=======
+# Kalmusia Niessl, 1872 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Dansk bot. Ark. 15(no. 2): 74 (1953)
+null
 
 #### Original name
-Diapleella Munk
+null
 
 ### Remarks
 null

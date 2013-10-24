@@ -1,5 +1,4 @@
-Sphaeria fici-tenuinervis Ettingsh. SPECIES
-=======
+# Sphaeria fici-tenuinervis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

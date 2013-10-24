@@ -1,5 +1,4 @@
-Cladonia rugulosa Ahti SPECIES
-=======
+# Cladonia rugulosa Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocollybia pandipes Halling & J.L. Mata SPECIES
-=======
+# Rhodocollybia pandipes Halling & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

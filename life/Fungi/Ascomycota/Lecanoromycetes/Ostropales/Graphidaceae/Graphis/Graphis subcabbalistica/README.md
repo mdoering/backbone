@@ -1,5 +1,4 @@
-Graphis subcabbalistica Vain. SPECIES
-=======
+# Graphis subcabbalistica Vain. SPECIES
 
 #### Status
 ACCEPTED

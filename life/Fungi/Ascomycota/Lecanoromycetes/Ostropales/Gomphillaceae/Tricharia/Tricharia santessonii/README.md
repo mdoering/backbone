@@ -1,5 +1,4 @@
-Tricharia santessonii D. Hawksw. SPECIES
-=======
+# Tricharia santessonii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

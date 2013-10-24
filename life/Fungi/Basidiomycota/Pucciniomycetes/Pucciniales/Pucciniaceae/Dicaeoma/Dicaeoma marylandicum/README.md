@@ -1,5 +1,4 @@
-Dicaeoma marylandicum (Lindr.) Arthur SPECIES
-=======
+# Dicaeoma marylandicum (Lindr.) Arthur SPECIES
 
 #### Status
 ACCEPTED

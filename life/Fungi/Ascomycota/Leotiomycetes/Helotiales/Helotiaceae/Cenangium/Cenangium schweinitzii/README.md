@@ -1,5 +1,4 @@
-Cenangium schweinitzii Sacc. SPECIES
-=======
+# Cenangium schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

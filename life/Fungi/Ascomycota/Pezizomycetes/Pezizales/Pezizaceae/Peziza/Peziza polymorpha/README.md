@@ -1,5 +1,4 @@
-Peziza polymorpha Lightf. SPECIES
-=======
+# Peziza polymorpha Lightf. SPECIES
 
 #### Status
 ACCEPTED

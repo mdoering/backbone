@@ -1,5 +1,4 @@
-Thelotrema crassisporum Mangold SPECIES
-=======
+# Thelotrema crassisporum Mangold SPECIES
 
 #### Status
 ACCEPTED

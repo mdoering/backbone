@@ -1,5 +1,4 @@
-Hydrogenobaculum Stöhr et al., 2001 GENUS
-=======
+# Hydrogenobaculum Stöhr et al., 2001 GENUS
 
 #### Status
 ACCEPTED

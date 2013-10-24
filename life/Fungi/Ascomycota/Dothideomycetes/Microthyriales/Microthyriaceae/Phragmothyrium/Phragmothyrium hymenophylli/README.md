@@ -1,5 +1,4 @@
-Phragmothyrium hymenophylli (Pat.) Höhn. SPECIES
-=======
+# Phragmothyrium hymenophylli (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

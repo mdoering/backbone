@@ -1,5 +1,4 @@
-Pythium hemmianum M. Takah. SPECIES
-=======
+# Pythium hemmianum M. Takah. SPECIES
 
 #### Status
 ACCEPTED

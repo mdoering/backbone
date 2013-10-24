@@ -1,5 +1,4 @@
-Cercoseptoria andropogonis H.C. Greene SPECIES
-=======
+# Cercoseptoria andropogonis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

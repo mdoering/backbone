@@ -1,5 +1,4 @@
-Amanita areolata T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita areolata T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum camelliae Massee SPECIES
-=======
+# Coryneum camelliae Massee SPECIES
 
 #### Status
 ACCEPTED

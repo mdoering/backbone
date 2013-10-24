@@ -1,5 +1,4 @@
-Arundinula hapalogaster Hibbits, 1979 SPECIES
-=======
+# Arundinula hapalogaster Hibbits, 1979 SPECIES
 
 #### Status
 ACCEPTED

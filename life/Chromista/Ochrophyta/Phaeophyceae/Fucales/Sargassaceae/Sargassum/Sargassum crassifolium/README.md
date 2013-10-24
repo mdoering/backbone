@@ -1,5 +1,4 @@
-Sargassum crassifolium var. samoensis Grunow VARIETY
-=======
+# Sargassum crassifolium J. Agardh SPECIES
 
 #### Status
 ACCEPTED

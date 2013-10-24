@@ -1,5 +1,4 @@
-Collema turneri Taylor ex Hook. f. SPECIES
-=======
+# Collema turneri Taylor ex Hook. f. SPECIES
 
 #### Status
 ACCEPTED

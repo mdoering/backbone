@@ -1,5 +1,4 @@
-Diplodia nematospora Sacc. SPECIES
-=======
+# Diplodia nematospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

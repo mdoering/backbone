@@ -1,5 +1,4 @@
-Meliola merrillii Syd. & P. Syd. SPECIES
-=======
+# Meliola merrillii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridinium palatinum Lauterbom SPECIES
-=======
+# Peridinium palatinum Lauterbom SPECIES
 
 #### Status
 ACCEPTED

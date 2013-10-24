@@ -1,5 +1,4 @@
-Planktomyces GENUS
-=======
+# Planktomyces GENUS
 
 #### Status
 ACCEPTED

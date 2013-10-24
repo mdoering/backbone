@@ -1,5 +1,4 @@
-Pluteus floridantis Murrill SPECIES
-=======
+# Pluteus floridantis Murrill SPECIES
 
 #### Status
 ACCEPTED

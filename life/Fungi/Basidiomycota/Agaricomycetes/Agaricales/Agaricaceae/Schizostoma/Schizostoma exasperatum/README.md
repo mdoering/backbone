@@ -1,5 +1,4 @@
-Schizostoma exasperatum (Mont.) Lév. SPECIES
-=======
+# Schizostoma exasperatum (Mont.) Lév. SPECIES
 
 #### Status
 ACCEPTED

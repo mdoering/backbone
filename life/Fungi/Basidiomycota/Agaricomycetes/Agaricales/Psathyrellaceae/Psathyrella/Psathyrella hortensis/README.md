@@ -1,5 +1,4 @@
-Psathyrella hortensis A.H. Sm. SPECIES
-=======
+# Psathyrella hortensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

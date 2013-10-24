@@ -1,5 +1,4 @@
-Lichen gypseus Vill. SPECIES
-=======
+# Lichen gypseus Vill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium baudysianum Sacc. SPECIES
-=======
+# Cylindrosporium baudysianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

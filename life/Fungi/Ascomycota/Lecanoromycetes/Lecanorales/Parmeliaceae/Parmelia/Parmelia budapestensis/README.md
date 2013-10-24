@@ -1,8 +1,7 @@
-Parmelia budapestinensis Gyeln. SPECIES
-=======
+# Parmelia budapestensis Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia budapestinensis Gyeln.
+Parmelia budapestensis Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxohyella cavanillesiana Gonzalez Guerrero SPECIES
-=======
+# Myxohyella cavanillesiana Gonzalez Guerrero SPECIES
 
 #### Status
 ACCEPTED

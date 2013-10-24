@@ -1,5 +1,4 @@
-Micrhystridium brevispinosum (Sarjeant, 1961) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium brevispinosum (Sarjeant, 1961) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

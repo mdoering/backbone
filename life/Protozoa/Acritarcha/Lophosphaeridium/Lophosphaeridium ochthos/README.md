@@ -1,5 +1,4 @@
-Lophosphaeridium ochthos Wicander & Wood, 1981 SPECIES
-=======
+# Lophosphaeridium ochthos Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

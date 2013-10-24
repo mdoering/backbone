@@ -1,5 +1,4 @@
-Lophidium ruborum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Lophidium ruborum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

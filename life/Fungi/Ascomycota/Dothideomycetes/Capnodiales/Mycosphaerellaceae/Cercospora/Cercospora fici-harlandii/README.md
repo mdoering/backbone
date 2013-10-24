@@ -1,5 +1,4 @@
-Cercospora fici-harlandii Sawada SPECIES
-=======
+# Cercospora fici-harlandii Sawada SPECIES
 
 #### Status
 ACCEPTED

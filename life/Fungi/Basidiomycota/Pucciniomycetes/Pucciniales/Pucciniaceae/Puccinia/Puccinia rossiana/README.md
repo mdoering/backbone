@@ -1,5 +1,4 @@
-Puccinia rossiana (Sacc.) Lagerh. SPECIES
-=======
+# Puccinia rossiana (Sacc.) Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacterium Breed, 1953 GENUS
-=======
+# Brevibacterium Breed, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium memorandum (Penz. & Sacc.) M.B. Ellis SPECIES
-=======
+# Coniosporium memorandum (Penz. & Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

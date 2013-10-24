@@ -1,17 +1,16 @@
-Tricladium gracile var. gracile Ingold VARIETY
-=======
+# Tricladium gracile Ingold, 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 27: 39 (1944)
 
 #### Original name
-Tricladium gracile var. gracile Ingold
+Tricladium gracile Ingold, 1944
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discula graminum (Rostr.) Arx SPECIES
-=======
+# Discula graminum (Rostr.) Arx SPECIES
 
 #### Status
 ACCEPTED

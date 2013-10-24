@@ -1,5 +1,4 @@
-Ragnhildiana cyathulae F. Stevens & Solheim SPECIES
-=======
+# Ragnhildiana cyathulae F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

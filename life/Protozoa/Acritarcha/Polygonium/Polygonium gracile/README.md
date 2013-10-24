@@ -1,5 +1,4 @@
-Polygonium gracile Vavrdová, 1966 emend. Jacobson & Achab, 1985 emend. Sarjeant & Stancliffe, 1996 SPECIES
-=======
+# Polygonium gracile Vavrdová, 1966 emend. Jacobson & Achab, 1985 emend. Sarjeant & Stancliffe, 1996 SPECIES
 
 #### Status
 ACCEPTED

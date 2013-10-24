@@ -1,5 +1,4 @@
-Strumella atra (Schwein.) Sacc. SPECIES
-=======
+# Strumella atra (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

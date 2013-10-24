@@ -1,5 +1,4 @@
-Prolisea exiguella (Nyl.) Clem. SPECIES
-=======
+# Prolisea exiguella (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

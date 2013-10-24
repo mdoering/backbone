@@ -1,8 +1,7 @@
-Scolecopeltis theisseni Rick SPECIES
-=======
+# Scolecopeltis theissenii Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Scolecopeltis theisseni Rick
+Scolecopeltis theissenii Rick
 
 ### Remarks
 null

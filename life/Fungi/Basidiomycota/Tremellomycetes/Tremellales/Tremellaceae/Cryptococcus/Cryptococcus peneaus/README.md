@@ -1,5 +1,4 @@
-Cryptococcus peneaus (Phaff, Mrak & O.B. Williams) M. Takash., Sugita, Shinoda & Nakase SPECIES
-=======
+# Cryptococcus peneaus (Phaff, Mrak & O.B. Williams) M. Takash., Sugita, Shinoda & Nakase SPECIES
 
 #### Status
 ACCEPTED

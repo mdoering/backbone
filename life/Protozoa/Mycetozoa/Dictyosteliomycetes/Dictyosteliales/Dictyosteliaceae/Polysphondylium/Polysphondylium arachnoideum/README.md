@@ -1,5 +1,4 @@
-Polysphondylium arachnoideum Vadell & Cavender, 2007 SPECIES
-=======
+# Polysphondylium arachnoideum Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium morsus-ranae Bonord. SPECIES
-=======
+# Trichothecium morsus-ranae Bonord. SPECIES
 
 #### Status
 ACCEPTED

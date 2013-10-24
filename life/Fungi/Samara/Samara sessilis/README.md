@@ -1,5 +1,4 @@
-Samara sessilis Buch.-Ham. ex D.Don SPECIES
-=======
+# Samara sessilis Buch.-Ham. ex D.Don SPECIES
 
 #### Status
 ACCEPTED

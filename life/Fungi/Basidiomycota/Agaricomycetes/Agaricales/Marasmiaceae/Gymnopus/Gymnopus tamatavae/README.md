@@ -1,5 +1,4 @@
-Gymnopus tamatavae (Bouriquet) Antonín, Buyck & Randrian. SPECIES
-=======
+# Gymnopus tamatavae (Bouriquet) Antonín, Buyck & Randrian. SPECIES
 
 #### Status
 ACCEPTED

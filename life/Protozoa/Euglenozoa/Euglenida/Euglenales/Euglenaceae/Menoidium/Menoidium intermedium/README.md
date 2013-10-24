@@ -1,5 +1,4 @@
-Menoidium intermedium Pringsheim SPECIES
-=======
+# Menoidium intermedium Pringsheim SPECIES
 
 #### Status
 ACCEPTED

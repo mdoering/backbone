@@ -1,5 +1,4 @@
-Sphinctrina obducta Nyl. SPECIES
-=======
+# Sphinctrina obducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

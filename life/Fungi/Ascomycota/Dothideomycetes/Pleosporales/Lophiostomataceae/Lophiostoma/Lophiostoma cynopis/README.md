@@ -1,5 +1,4 @@
-Lophiostoma cynopis (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma cynopis (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

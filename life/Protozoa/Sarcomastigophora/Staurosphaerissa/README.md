@@ -1,5 +1,4 @@
-Staurosphaerissa Haeckel, 1887 GENUS
-=======
+# Staurosphaerissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

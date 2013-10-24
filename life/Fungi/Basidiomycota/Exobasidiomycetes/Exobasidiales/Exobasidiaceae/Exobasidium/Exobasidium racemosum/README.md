@@ -1,5 +1,4 @@
-Exobasidium racemosum Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium racemosum Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

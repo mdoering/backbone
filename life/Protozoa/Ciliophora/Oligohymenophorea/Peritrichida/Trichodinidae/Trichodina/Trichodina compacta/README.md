@@ -1,5 +1,4 @@
-Trichodina compacta SPECIES
-=======
+# Trichodina compacta SPECIES
 
 #### Status
 ACCEPTED

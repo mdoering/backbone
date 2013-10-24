@@ -1,5 +1,4 @@
-Mollisia hypnina Quél. SPECIES
-=======
+# Mollisia hypnina Quél. SPECIES
 
 #### Status
 ACCEPTED

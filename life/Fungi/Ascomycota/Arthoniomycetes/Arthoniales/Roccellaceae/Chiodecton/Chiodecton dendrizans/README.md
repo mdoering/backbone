@@ -1,5 +1,4 @@
-Chiodecton dendrizans Nyl. SPECIES
-=======
+# Chiodecton dendrizans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor ferrugineus Link SPECIES
-=======
+# Mucor ferrugineus Link SPECIES
 
 #### Status
 ACCEPTED

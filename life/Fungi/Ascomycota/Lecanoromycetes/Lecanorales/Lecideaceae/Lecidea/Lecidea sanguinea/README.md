@@ -1,5 +1,4 @@
-Lecidea sanguinea Fée SPECIES
-=======
+# Lecidea sanguinea Fée SPECIES
 
 #### Status
 ACCEPTED

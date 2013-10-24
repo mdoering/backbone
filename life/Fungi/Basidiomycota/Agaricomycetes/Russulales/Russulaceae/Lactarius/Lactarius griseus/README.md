@@ -1,5 +1,4 @@
-Lactarius griseus Peck SPECIES
-=======
+# Lactarius griseus Peck SPECIES
 
 #### Status
 ACCEPTED

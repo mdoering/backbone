@@ -1,5 +1,4 @@
-Stigmatomyces octheroideae Thaxt. SPECIES
-=======
+# Stigmatomyces octheroideae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Iodophanus granulipolaris Kimbr. SPECIES
-=======
+# Iodophanus granulipolaris Kimbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octotympanum Haeckel, 1887 GENUS
-=======
+# Octotympanum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

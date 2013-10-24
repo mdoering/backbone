@@ -1,5 +1,4 @@
-Dicaeoma fastidiosum (De Toni & Sacc.) Kuntze SPECIES
-=======
+# Dicaeoma fastidiosum (De Toni & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

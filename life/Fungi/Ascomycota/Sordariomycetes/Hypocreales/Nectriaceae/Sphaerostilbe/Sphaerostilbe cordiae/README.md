@@ -1,5 +1,4 @@
-Sphaerostilbe cordiae Rehm SPECIES
-=======
+# Sphaerostilbe cordiae Rehm SPECIES
 
 #### Status
 ACCEPTED

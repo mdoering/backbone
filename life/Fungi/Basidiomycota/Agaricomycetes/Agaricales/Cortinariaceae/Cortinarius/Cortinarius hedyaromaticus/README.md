@@ -1,5 +1,4 @@
-Cortinarius hedyaromaticus C. Cripps & O.K. Mill. SPECIES
-=======
+# Cortinarius hedyaromaticus C. Cripps & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

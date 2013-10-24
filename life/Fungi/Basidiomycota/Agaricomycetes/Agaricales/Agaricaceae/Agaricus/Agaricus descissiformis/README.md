@@ -1,5 +1,4 @@
-Agaricus descissiformis Schulzer SPECIES
-=======
+# Agaricus descissiformis Schulzer SPECIES
 
 #### Status
 ACCEPTED

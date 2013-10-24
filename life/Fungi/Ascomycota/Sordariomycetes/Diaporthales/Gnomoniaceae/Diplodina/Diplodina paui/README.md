@@ -1,5 +1,4 @@
-Diplodina paui Gonz. Frag. SPECIES
-=======
+# Diplodina paui Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

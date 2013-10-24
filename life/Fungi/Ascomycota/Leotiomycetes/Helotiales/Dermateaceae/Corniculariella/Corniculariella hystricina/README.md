@@ -1,5 +1,4 @@
-Corniculariella hystricina (Ellis) DiCosmo SPECIES
-=======
+# Corniculariella hystricina (Ellis) DiCosmo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasallia caroliniana (Tuck.) Davydov, Peršoh & Rambold SPECIES
-=======
+# Lasallia caroliniana (Tuck.) Davydov, Peršoh & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria rhododendri Henn. SPECIES
-=======
+# Leptosphaeria rhododendri Henn. SPECIES
 
 #### Status
 ACCEPTED

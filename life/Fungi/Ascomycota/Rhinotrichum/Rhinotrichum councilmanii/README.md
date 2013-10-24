@@ -1,5 +1,4 @@
-Rhinotrichum councilmanii (Wolbach, Sisson & Meier) M. Ota SPECIES
-=======
+# Rhinotrichum councilmanii (Wolbach, Sisson & Meier) M. Ota SPECIES
 
 #### Status
 ACCEPTED

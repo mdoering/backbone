@@ -1,5 +1,4 @@
-Coelographium (Sacc.) Gäum. GENUS
-=======
+# Coelographium (Sacc.) Gäum. GENUS
 
 #### Status
 ACCEPTED

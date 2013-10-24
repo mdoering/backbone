@@ -1,5 +1,4 @@
-Induratia apiospora Samuels, E. Müll. & Petrini, 1987 SPECIES
-=======
+# Induratia apiospora Samuels, E. Müll. & Petrini, 1987 SPECIES
 
 #### Status
 ACCEPTED

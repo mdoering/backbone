@@ -1,5 +1,4 @@
-Hemipholiota GENUS
-=======
+# Hemipholiota GENUS
 
 #### Status
 ACCEPTED

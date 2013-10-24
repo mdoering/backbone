@@ -1,5 +1,4 @@
-Macrophoma rosae Edward et al. {?} SPECIES
-=======
+# Macrophoma rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena lata D.O. Svirenko SPECIES
-=======
+# Euglena lata D.O. Svirenko SPECIES
 
 #### Status
 ACCEPTED

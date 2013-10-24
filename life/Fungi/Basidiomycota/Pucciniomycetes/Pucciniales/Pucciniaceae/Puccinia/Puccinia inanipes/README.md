@@ -1,5 +1,4 @@
-Puccinia inanipes Dietel & Holw. SPECIES
-=======
+# Puccinia inanipes Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

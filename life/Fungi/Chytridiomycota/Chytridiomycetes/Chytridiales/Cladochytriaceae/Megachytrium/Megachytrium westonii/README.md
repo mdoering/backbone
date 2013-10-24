@@ -1,5 +1,4 @@
-Megachytrium westonii Sparrow, 1931 SPECIES
-=======
+# Megachytrium westonii Sparrow, 1931 SPECIES
 
 #### Status
 ACCEPTED

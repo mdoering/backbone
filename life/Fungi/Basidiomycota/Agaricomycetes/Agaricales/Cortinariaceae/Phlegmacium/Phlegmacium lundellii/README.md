@@ -1,5 +1,4 @@
-Phlegmacium lundellii M.M. Moser SPECIES
-=======
+# Phlegmacium lundellii M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

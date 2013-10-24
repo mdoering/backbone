@@ -1,5 +1,4 @@
-Ionomidotis irregularis (Schwein.) E.J. Durand SPECIES
-=======
+# Ionomidotis irregularis (Schwein.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

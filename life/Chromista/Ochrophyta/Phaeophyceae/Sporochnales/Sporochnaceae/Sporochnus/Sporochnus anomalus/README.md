@@ -1,11 +1,10 @@
-Fucus gaertneri S.G.Gmelin, 1768 SPECIES
-=======
+# Sporochnus anomalus (Pallas) M.J. Wynne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

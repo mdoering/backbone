@@ -1,5 +1,4 @@
-Microsporum pertenue Plant {?} SPECIES
-=======
+# Microsporum pertenue Plant {?} SPECIES
 
 #### Status
 ACCEPTED

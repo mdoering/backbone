@@ -1,17 +1,16 @@
-Caerulicium Jülich GENUS
-=======
+# Byssocorticium Bondartsev & Singer, 1944 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Biblthca Mycol. 85: 395 (1982)
+null
 
 #### Original name
-Caerulicium Jülich
+null
 
 ### Remarks
 null

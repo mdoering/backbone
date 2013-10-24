@@ -1,5 +1,4 @@
-Gibberidea protracta (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea protracta (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

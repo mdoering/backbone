@@ -1,5 +1,4 @@
-Teloschistes sennii var. sennii VARIETY
-=======
+# Teloschistes sennii Sambo SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teloschistes sennii var. sennii
+Teloschistes sennii Sambo
 
 ### Remarks
 null

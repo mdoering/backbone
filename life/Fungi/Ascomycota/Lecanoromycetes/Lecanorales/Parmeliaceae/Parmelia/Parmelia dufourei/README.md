@@ -1,5 +1,4 @@
-Parmelia dufourei Fr. SPECIES
-=======
+# Parmelia dufourei Fr. SPECIES
 
 #### Status
 ACCEPTED

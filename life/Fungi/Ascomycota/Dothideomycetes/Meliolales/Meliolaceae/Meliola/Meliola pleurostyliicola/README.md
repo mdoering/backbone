@@ -1,17 +1,16 @@
-Meliola pleurostylicola Hosag. & T. Sabu SPECIES
-=======
+# Meliola pleurostyliicola Hosag. & T. Sabu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Archana & Agarwal, Indian Phytopath. 60(2): 242 (2007)
 
 #### Original name
-Meliola pleurostylicola Hosag. & T. Sabu
+Meliola pleurostyliicola Hosag. & T. Sabu
 
 ### Remarks
 null

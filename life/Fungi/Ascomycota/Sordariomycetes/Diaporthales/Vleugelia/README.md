@@ -1,5 +1,4 @@
-Vleugelia J. Reid & C. Booth GENUS
-=======
+# Vleugelia J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

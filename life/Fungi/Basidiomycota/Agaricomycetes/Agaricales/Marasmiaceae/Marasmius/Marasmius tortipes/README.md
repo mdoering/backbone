@@ -1,5 +1,4 @@
-Marasmius tortipes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius tortipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

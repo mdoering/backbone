@@ -1,5 +1,4 @@
-Meliola dentifera Syd. & P. Syd. SPECIES
-=======
+# Meliola dentifera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

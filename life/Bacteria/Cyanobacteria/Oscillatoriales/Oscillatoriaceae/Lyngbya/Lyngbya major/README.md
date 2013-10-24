@@ -1,5 +1,4 @@
-Lyngbya major Meneghini SPECIES
-=======
+# Lyngbya major Meneghini SPECIES
 
 #### Status
 ACCEPTED

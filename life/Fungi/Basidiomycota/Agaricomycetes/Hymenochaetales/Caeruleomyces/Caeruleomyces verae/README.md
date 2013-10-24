@@ -1,5 +1,4 @@
-Caeruleomyces verae Stalpers, 2000 SPECIES
-=======
+# Caeruleomyces verae Stalpers, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra turbinata Müller, 1786 SPECIES
-=======
+# Leucophra turbinata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

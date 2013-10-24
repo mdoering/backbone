@@ -1,5 +1,4 @@
-Phomopsis oryzae Punith., 1975 SPECIES
-=======
+# Phomopsis oryzae Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

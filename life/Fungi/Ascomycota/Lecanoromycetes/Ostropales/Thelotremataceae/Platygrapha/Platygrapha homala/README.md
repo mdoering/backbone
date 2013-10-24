@@ -1,5 +1,4 @@
-Platygrapha homala Stirt. SPECIES
-=======
+# Platygrapha homala Stirt. SPECIES
 
 #### Status
 ACCEPTED

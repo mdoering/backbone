@@ -1,5 +1,4 @@
-Phyllosticta yugokwa Sawada SPECIES
-=======
+# Phyllosticta yugokwa Sawada SPECIES
 
 #### Status
 ACCEPTED

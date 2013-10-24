@@ -1,5 +1,4 @@
-Cystobasidium hypogymniicola Diederich & Ahti, 1996 SPECIES
-=======
+# Cystobasidium hypogymniicola Diederich & Ahti, 1996 SPECIES
 
 #### Status
 ACCEPTED

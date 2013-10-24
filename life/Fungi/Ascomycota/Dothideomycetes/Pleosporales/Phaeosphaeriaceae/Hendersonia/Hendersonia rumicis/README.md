@@ -1,5 +1,4 @@
-Hendersonia rumicis Losa SPECIES
-=======
+# Hendersonia rumicis Losa SPECIES
 
 #### Status
 ACCEPTED

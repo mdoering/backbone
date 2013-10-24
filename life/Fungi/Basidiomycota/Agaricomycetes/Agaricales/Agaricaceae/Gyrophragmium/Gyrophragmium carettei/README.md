@@ -1,5 +1,4 @@
-Gyrophragmium carettei Speg. SPECIES
-=======
+# Gyrophragmium carettei Speg. SPECIES
 
 #### Status
 ACCEPTED

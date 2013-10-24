@@ -1,5 +1,4 @@
-Sarcoxylon aurantiacum Pat. SPECIES
-=======
+# Sarcoxylon aurantiacum Pat. SPECIES
 
 #### Status
 ACCEPTED

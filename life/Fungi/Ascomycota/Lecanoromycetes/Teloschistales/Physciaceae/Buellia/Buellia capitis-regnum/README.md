@@ -1,5 +1,4 @@
-Buellia capitis-regnum SPECIES
-=======
+# Buellia capitis-regnum SPECIES
 
 #### Status
 ACCEPTED

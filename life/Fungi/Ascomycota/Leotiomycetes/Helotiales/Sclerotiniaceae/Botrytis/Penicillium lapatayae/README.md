@@ -1,5 +1,4 @@
-Penicillium lapatayae C. Ramírez, 1985 SPECIES
-=======
+# Penicillium lapatayae C. Ramírez, 1985 SPECIES
 
 #### Status
 DOUBTFUL

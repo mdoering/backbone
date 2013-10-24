@@ -1,5 +1,4 @@
-Rhizocarpon massalongoi (Körb.) Malme SPECIES
-=======
+# Rhizocarpon massalongoi (Körb.) Malme SPECIES
 
 #### Status
 ACCEPTED

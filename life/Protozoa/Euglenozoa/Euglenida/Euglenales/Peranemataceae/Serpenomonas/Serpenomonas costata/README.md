@@ -1,5 +1,4 @@
-Serpenomonas costata R. E. Triemer SPECIES
-=======
+# Serpenomonas costata R. E. Triemer SPECIES
 
 #### Status
 ACCEPTED

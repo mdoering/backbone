@@ -1,5 +1,4 @@
-Lecanora crassescens SPECIES
-=======
+# Lecanora crassescens SPECIES
 
 #### Status
 ACCEPTED

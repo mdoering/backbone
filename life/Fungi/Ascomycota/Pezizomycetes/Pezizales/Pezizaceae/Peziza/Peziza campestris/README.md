@@ -1,5 +1,4 @@
-Peziza campestris P. Crouan & H. Crouan SPECIES
-=======
+# Peziza campestris P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

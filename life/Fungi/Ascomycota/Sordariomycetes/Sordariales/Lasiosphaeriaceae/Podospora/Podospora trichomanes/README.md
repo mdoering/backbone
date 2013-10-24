@@ -1,5 +1,4 @@
-Podospora trichomanes N. Lundq. SPECIES
-=======
+# Podospora trichomanes N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

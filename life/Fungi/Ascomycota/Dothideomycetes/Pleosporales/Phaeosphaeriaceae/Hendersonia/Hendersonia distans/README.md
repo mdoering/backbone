@@ -1,5 +1,4 @@
-Hendersonia distans Brunaud SPECIES
-=======
+# Hendersonia distans Brunaud SPECIES
 
 #### Status
 ACCEPTED

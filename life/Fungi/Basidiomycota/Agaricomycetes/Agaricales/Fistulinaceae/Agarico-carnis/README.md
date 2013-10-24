@@ -1,5 +1,4 @@
-Agarico-carnis GENUS
-=======
+# Agarico-carnis GENUS
 
 #### Status
 ACCEPTED

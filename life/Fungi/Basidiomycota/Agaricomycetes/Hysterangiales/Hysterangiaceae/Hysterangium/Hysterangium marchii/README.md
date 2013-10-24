@@ -1,5 +1,4 @@
-Hysterangium marchii Bres. SPECIES
-=======
+# Hysterangium marchii Bres. SPECIES
 
 #### Status
 ACCEPTED

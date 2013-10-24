@@ -1,5 +1,4 @@
-Strumella coryneoidea Sacc. & G. Winter SPECIES
-=======
+# Strumella coryneoidea Sacc. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis coronella Costantin SPECIES
-=======
+# Sterigmatocystis coronella Costantin SPECIES
 
 #### Status
 ACCEPTED

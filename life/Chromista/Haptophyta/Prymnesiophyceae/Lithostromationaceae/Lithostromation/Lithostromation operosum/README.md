@@ -1,5 +1,4 @@
-Lithostromation operosum (Deflandre, 1954) Bybell, 1975 SPECIES
-=======
+# Lithostromation operosum (Deflandre, 1954) Bybell, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea granulata H. Magn. SPECIES
-=======
+# Lecidea granulata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

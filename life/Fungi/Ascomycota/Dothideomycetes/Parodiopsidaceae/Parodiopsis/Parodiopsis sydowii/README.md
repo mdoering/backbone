@@ -1,5 +1,4 @@
-Parodiopsis sydowii Petr. SPECIES
-=======
+# Parodiopsis sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

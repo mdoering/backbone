@@ -1,5 +1,4 @@
-Ramaria bonii Estrada, 1995 SPECIES
-=======
+# Ramaria bonii Estrada, 1995 SPECIES
 
 #### Status
 ACCEPTED

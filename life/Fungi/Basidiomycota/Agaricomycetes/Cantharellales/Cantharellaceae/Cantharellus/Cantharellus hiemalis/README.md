@@ -1,5 +1,4 @@
-Cantharellus hiemalis Velen. SPECIES
-=======
+# Cantharellus hiemalis Velen. SPECIES
 
 #### Status
 ACCEPTED

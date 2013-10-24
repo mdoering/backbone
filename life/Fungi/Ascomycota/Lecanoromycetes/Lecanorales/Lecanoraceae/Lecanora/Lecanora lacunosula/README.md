@@ -1,5 +1,4 @@
-Lecanora lacunosula (Mereschk.) Zahlbr. SPECIES
-=======
+# Lecanora lacunosula (Mereschk.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

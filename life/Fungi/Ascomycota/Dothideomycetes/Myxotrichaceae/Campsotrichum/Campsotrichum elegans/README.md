@@ -1,5 +1,4 @@
-Campsotrichum elegans Penz. & Sacc. SPECIES
-=======
+# Campsotrichum elegans Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

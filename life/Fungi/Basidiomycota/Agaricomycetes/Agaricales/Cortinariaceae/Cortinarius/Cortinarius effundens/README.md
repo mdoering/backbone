@@ -1,5 +1,4 @@
-Cortinarius effundens M.M. Moser, E. Horak & Singer SPECIES
-=======
+# Cortinarius effundens M.M. Moser, E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

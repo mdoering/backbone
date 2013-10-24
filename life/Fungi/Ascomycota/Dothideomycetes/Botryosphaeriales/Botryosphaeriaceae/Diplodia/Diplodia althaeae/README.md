@@ -1,5 +1,4 @@
-Diplodia althaeae Speg. SPECIES
-=======
+# Diplodia althaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

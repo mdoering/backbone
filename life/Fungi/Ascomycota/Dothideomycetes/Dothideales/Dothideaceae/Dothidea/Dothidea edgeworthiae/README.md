@@ -1,5 +1,4 @@
-Dothidea edgeworthiae Syd. & P. Syd. SPECIES
-=======
+# Dothidea edgeworthiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

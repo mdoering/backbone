@@ -1,5 +1,4 @@
-Stokesiella acuminata (A.Stokes) Lemmermann SPECIES
-=======
+# Stokesiella acuminata (A.Stokes) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

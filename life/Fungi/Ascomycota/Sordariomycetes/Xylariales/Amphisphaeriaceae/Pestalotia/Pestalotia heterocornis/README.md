@@ -1,14 +1,13 @@
-Pestalotiopsis heterocornis (Guba) Y.X. Chen SPECIES
-=======
+# Pestalotia heterocornis Guba, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Monochaetia and Pestalotia 125 (1961)
 
 #### Original name
 Pestalotia heterocornis Guba, 1961

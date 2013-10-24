@@ -1,5 +1,4 @@
-Septoria allii-striatelli Speg. SPECIES
-=======
+# Septoria allii-striatelli Speg. SPECIES
 
 #### Status
 ACCEPTED

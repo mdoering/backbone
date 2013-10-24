@@ -1,5 +1,4 @@
-Ellipsoidina antillea SPECIES
-=======
+# Ellipsoidina antillea SPECIES
 
 #### Status
 ACCEPTED

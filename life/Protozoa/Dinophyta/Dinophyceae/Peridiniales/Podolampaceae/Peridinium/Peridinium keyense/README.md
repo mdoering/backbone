@@ -1,5 +1,4 @@
-Peridinium keyense Nygaard SPECIES
-=======
+# Peridinium keyense Nygaard SPECIES
 
 #### Status
 ACCEPTED

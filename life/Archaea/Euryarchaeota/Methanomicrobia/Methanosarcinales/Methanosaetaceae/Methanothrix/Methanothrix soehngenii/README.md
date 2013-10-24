@@ -1,5 +1,4 @@
-Methanothrix soehngenii Huser et al., 1983 SPECIES
-=======
+# Methanothrix soehngenii Huser et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

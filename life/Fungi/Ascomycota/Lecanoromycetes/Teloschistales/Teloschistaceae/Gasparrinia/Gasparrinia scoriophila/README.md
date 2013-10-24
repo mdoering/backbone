@@ -1,5 +1,4 @@
-Gasparrinia scoriophila (A. Massal.) C.W. Dodge SPECIES
-=======
+# Gasparrinia scoriophila (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

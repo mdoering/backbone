@@ -1,5 +1,4 @@
-Tulostoma beccarianum Bres. SPECIES
-=======
+# Tulostoma beccarianum Bres. SPECIES
 
 #### Status
 ACCEPTED

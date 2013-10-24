@@ -1,17 +1,16 @@
-Corticium amylaceum var. amylaceum VARIETY
-=======
+# Corticium amylaceum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 259 (1911)
+null
 
 #### Original name
-Corticium amylaceum var. amylaceum
+null
 
 ### Remarks
 null

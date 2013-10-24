@@ -1,5 +1,4 @@
-Cortinarius maxistriatulus Rob. Henry SPECIES
-=======
+# Cortinarius maxistriatulus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

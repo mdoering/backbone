@@ -1,5 +1,4 @@
-Trypethelium sprengelii var. sprengelii VARIETY
-=======
+# Trypethelium sprengelii Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. 306 (1810)
 
 #### Original name
-Trypethelium sprengelii var. sprengelii
+Trypethelium sprengelii Ach.
 
 ### Remarks
 null

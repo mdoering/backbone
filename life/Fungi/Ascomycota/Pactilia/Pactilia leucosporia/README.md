@@ -1,5 +1,4 @@
-Pactilia leucosporia (Corda) Fr. SPECIES
-=======
+# Pactilia leucosporia (Corda) Fr. SPECIES
 
 #### Status
 ACCEPTED

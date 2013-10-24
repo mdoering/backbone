@@ -1,5 +1,4 @@
-Lepiota violaceosquarrosa Beeli SPECIES
-=======
+# Lepiota violaceosquarrosa Beeli SPECIES
 
 #### Status
 ACCEPTED

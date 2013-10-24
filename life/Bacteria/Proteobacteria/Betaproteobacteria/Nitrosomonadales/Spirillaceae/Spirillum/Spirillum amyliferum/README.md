@@ -1,5 +1,4 @@
-Spirillum amyliferum SPECIES
-=======
+# Spirillum amyliferum SPECIES
 
 #### Status
 ACCEPTED

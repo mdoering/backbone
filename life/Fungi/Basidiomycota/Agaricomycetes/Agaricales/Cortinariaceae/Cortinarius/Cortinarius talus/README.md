@@ -1,17 +1,16 @@
-Cortinarius ochropallidus var. ochropallidus VARIETY
-=======
+# Cortinarius talus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 52(2): 151 (1936)
+Epicr. syst. mycol. (Upsaliae) 263 (1838)
 
 #### Original name
-Cortinarius ochropallidus var. ochropallidus
+Cortinarius talus Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octomyxa achlyae Couch, J. Leitn. & Whiffen, 1939 SPECIES
-=======
+# Octomyxa achlyae Couch, J. Leitn. & Whiffen, 1939 SPECIES
 
 #### Status
 ACCEPTED

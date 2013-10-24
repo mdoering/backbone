@@ -1,5 +1,4 @@
-Sphaeria rufofusca Fr. SPECIES
-=======
+# Sphaeria rufofusca Fr. SPECIES
 
 #### Status
 ACCEPTED

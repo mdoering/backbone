@@ -1,14 +1,13 @@
-Gloeosporium fructigenum f. limetticola (R.E. Clausen) G.J.M. Gorter, 1962 FORM
-=======
+# Gloeosporium limetticola R.E. Clausen, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 7(4): 777 (1962)
+Phytopathology 2: 231 (1912)
 
 #### Original name
 Gloeosporium limetticola R.E. Clausen, 1912

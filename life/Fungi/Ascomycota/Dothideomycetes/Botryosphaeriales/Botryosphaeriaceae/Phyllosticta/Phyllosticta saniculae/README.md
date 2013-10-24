@@ -1,5 +1,4 @@
-Phyllosticta saniculae Brunaud SPECIES
-=======
+# Phyllosticta saniculae Brunaud SPECIES
 
 #### Status
 ACCEPTED

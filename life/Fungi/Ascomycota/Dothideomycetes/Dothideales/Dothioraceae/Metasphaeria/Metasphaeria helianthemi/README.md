@@ -1,5 +1,4 @@
-Metasphaeria helianthemi (Auersw.) Sacc. SPECIES
-=======
+# Metasphaeria helianthemi (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

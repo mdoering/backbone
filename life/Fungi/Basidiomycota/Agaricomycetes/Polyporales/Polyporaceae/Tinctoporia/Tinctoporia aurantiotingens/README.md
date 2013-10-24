@@ -1,5 +1,4 @@
-Tinctoporia aurantiotingens (Ellis & T. Macbr.) Murrill SPECIES
-=======
+# Tinctoporia aurantiotingens (Ellis & T. Macbr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

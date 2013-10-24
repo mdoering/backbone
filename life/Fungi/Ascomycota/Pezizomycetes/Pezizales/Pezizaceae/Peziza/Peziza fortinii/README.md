@@ -1,17 +1,16 @@
-Peziza fortini Bellem. & Mel.-Howell SPECIES
-=======
+# Peziza fortinii Bellem. & Mel.-Howell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 40(1): 4 (1976)
 
 #### Original name
-Peziza fortini Bellem. & Mel.-Howell
+Peziza fortinii Bellem. & Mel.-Howell
 
 ### Remarks
 null

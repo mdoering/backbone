@@ -1,5 +1,4 @@
-Marasmius pallescens Murrill SPECIES
-=======
+# Marasmius pallescens Murrill SPECIES
 
 #### Status
 ACCEPTED

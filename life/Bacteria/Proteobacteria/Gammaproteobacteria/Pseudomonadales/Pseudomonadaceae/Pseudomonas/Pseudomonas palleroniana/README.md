@@ -1,5 +1,4 @@
-Pseudomonas palleroniana Gardan et al., 2002 SPECIES
-=======
+# Pseudomonas palleroniana Gardan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

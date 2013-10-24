@@ -1,5 +1,4 @@
-Cortinarius violaceocalcarius Rob. Henry SPECIES
-=======
+# Cortinarius violaceocalcarius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

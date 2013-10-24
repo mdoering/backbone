@@ -1,5 +1,4 @@
-Xylomites aceris-decipientis Ettingsh. SPECIES
-=======
+# Xylomites aceris-decipientis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

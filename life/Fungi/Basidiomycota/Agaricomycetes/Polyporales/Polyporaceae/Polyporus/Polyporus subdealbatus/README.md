@@ -1,5 +1,4 @@
-Polyporus subdealbatus Murrill SPECIES
-=======
+# Polyporus subdealbatus Murrill SPECIES
 
 #### Status
 ACCEPTED

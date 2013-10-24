@@ -1,5 +1,4 @@
-Lecanora tenebrica var. tenebrica VARIETY
-=======
+# Lecanora tenebrica H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora tenebrica var. tenebrica
+Lecanora tenebrica H. Magn.
 
 ### Remarks
 null

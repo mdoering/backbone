@@ -1,5 +1,4 @@
-Distopyrenis americana Aptroot SPECIES
-=======
+# Distopyrenis americana Aptroot SPECIES
 
 #### Status
 ACCEPTED

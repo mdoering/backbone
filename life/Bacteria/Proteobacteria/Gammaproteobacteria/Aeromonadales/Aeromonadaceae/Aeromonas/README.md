@@ -1,5 +1,4 @@
-Aeromonas GENUS
-=======
+# Aeromonas GENUS
 
 #### Status
 ACCEPTED

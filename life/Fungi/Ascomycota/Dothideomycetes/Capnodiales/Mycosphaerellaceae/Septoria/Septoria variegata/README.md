@@ -1,5 +1,4 @@
-Septoria variegata Vize SPECIES
-=======
+# Septoria variegata Vize SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosoma lopuchinae SPECIES
-=======
+# Apiosoma lopuchinae SPECIES
 
 #### Status
 ACCEPTED

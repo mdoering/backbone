@@ -1,5 +1,4 @@
-Aplosporella eriobotryae (Speg.) Petr. & Syd. SPECIES
-=======
+# Aplosporella eriobotryae (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

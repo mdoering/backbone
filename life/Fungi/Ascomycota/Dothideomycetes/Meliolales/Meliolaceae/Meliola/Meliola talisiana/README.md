@@ -1,5 +1,4 @@
-Meliola talisiana Bat. & H. Maia SPECIES
-=======
+# Meliola talisiana Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echidnodella camphorae (Earle) Theiss. & Syd. SPECIES
-=======
+# Echidnodella camphorae (Earle) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

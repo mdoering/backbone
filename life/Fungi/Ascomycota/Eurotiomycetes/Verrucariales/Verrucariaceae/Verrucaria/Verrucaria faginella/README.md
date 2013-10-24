@@ -1,5 +1,4 @@
-Verrucaria faginella Nyl. SPECIES
-=======
+# Verrucaria faginella Nyl. SPECIES
 
 #### Status
 ACCEPTED

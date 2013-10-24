@@ -1,5 +1,4 @@
-Lichen lygodes Ach. SPECIES
-=======
+# Lichen lygodes Ach. SPECIES
 
 #### Status
 ACCEPTED

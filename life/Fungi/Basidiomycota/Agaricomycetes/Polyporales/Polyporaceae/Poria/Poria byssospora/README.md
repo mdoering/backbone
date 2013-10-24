@@ -1,5 +1,4 @@
-Poria byssospora Rick SPECIES
-=======
+# Poria byssospora Rick SPECIES
 
 #### Status
 ACCEPTED

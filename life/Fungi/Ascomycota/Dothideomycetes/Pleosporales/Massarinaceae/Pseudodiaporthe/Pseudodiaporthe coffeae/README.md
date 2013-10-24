@@ -1,5 +1,4 @@
-Pseudodiaporthe coffeae Speg. SPECIES
-=======
+# Pseudodiaporthe coffeae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella tremniacensis (A. Massal.) Lettau SPECIES
-=======
+# Candelariella tremniacensis (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia oxyspora Berk. SPECIES
-=======
+# Aschersonia oxyspora Berk. SPECIES
 
 #### Status
 ACCEPTED

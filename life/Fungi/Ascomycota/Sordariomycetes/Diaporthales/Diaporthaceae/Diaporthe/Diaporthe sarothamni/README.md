@@ -1,17 +1,16 @@
-Diaporthe sarothamni var. sarothamni VARIETY
-=======
+# Diaporthe sarothamni Auersw. ex Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 304 (1870)
+Pyrenomycetes Germanici 2: 304 (1870)
 
 #### Original name
-Diaporthe sarothamni var. sarothamni
+Valsaria sarothamni Auersw.
 
 ### Remarks
 null

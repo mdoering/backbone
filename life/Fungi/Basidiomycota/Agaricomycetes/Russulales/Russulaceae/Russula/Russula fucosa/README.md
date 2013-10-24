@@ -1,5 +1,4 @@
-Russula fucosa Burl. SPECIES
-=======
+# Russula fucosa Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora carnea (Rossi-Doria) Sartory SPECIES
-=======
+# Oospora carnea (Rossi-Doria) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria caudata P. Karst. SPECIES
-=======
+# Septoria caudata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

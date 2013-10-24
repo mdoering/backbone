@@ -1,5 +1,4 @@
-Asteromella bupleuri (Fuckel) Aa SPECIES
-=======
+# Asteromella bupleuri (Fuckel) Aa SPECIES
 
 #### Status
 ACCEPTED

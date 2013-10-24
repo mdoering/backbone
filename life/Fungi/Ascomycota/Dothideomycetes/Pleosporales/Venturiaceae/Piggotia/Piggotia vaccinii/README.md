@@ -1,5 +1,4 @@
-Piggotia vaccinii Davis SPECIES
-=======
+# Piggotia vaccinii Davis SPECIES
 
 #### Status
 ACCEPTED

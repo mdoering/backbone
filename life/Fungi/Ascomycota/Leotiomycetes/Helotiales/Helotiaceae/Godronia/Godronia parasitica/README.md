@@ -1,5 +1,4 @@
-Godronia parasitica Seaver SPECIES
-=======
+# Godronia parasitica Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtophoria CLASS
-=======
+# Cyrtophoria CLASS
 
 #### Status
 ACCEPTED

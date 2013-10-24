@@ -1,5 +1,4 @@
-Caloplaca nubigena var. nubigena VARIETY
-=======
+# Caloplaca nubigena (Kremp.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Monoporisporites traversii (V.S. Ediger & Alisan) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites traversei (V.S. Ediger & Alisan) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 183 (2000)
 
 #### Original name
 Lacrimasporonites traversei V.S. Ediger & Alisan

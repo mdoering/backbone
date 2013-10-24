@@ -1,5 +1,4 @@
-Stelliferidium velatum Vecoli, 1996 SPECIES
-=======
+# Stelliferidium velatum Vecoli, 1996 SPECIES
 
 #### Status
 ACCEPTED

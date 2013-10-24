@@ -1,5 +1,4 @@
-Ceratostomella mali Ellis & Everh. SPECIES
-=======
+# Ceratostomella mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

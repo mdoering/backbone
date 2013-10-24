@@ -1,5 +1,4 @@
-Urostyla elongata Stokes, 1891 SPECIES
-=======
+# Urostyla elongata Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

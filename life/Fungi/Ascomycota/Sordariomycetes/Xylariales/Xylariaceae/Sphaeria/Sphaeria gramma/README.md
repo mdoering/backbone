@@ -1,5 +1,4 @@
-Sphaeria gramma Schwein. SPECIES
-=======
+# Sphaeria gramma Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta biguttulata E.Y. Daniels SPECIES
-=======
+# Ascochyta biguttulata E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

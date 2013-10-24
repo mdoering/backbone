@@ -1,5 +1,4 @@
-Naucoria pampeana var. pampeana VARIETY
-=======
+# Naucoria pampeana SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naucoria pampeana var. pampeana
+Naucoria pampeana
 
 ### Remarks
 null

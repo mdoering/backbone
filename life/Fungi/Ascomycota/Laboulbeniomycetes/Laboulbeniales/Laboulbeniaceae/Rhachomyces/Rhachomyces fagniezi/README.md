@@ -1,5 +1,4 @@
-Rhachomyces fagniezi F. Picard SPECIES
-=======
+# Rhachomyces fagniezi F. Picard SPECIES
 
 #### Status
 ACCEPTED

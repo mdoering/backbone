@@ -1,5 +1,4 @@
-Aspicilia elfvingii SPECIES
-=======
+# Aspicilia elfvingii SPECIES
 
 #### Status
 ACCEPTED

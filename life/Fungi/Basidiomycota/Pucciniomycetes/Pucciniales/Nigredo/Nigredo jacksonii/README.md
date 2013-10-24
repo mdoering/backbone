@@ -1,5 +1,4 @@
-Nigredo jacksonii (Arthur & Fromme) Arthur SPECIES
-=======
+# Nigredo jacksonii (Arthur & Fromme) Arthur SPECIES
 
 #### Status
 ACCEPTED

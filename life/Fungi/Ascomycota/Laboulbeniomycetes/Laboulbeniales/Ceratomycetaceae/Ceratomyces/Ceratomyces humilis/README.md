@@ -1,5 +1,4 @@
-Ceratomyces humilis Thaxt. SPECIES
-=======
+# Ceratomyces humilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

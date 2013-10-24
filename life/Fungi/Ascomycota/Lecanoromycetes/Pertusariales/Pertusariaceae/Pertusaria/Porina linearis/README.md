@@ -1,8 +1,7 @@
-Verrucaria linearis Leight., 1851 SPECIES
-=======
+# Porina linearis (Leight.) Zahlbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

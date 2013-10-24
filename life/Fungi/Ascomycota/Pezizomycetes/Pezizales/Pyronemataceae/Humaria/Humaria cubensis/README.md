@@ -1,5 +1,4 @@
-Humaria cubensis (Berk. & M.A. Curtis) K.S. Thind & Sethi {?} SPECIES
-=======
+# Humaria cubensis (Berk. & M.A. Curtis) K.S. Thind & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

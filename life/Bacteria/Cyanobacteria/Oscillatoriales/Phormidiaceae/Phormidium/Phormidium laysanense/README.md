@@ -1,5 +1,4 @@
-Phormidium laysanense Lemmermann SPECIES
-=======
+# Phormidium laysanense Lemmermann SPECIES
 
 #### Status
 ACCEPTED

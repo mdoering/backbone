@@ -1,8 +1,7 @@
-Cibicides refulgens var. corticatus Earland, 1934 VARIETY
-=======
+# Cibicides corticatus Earland, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

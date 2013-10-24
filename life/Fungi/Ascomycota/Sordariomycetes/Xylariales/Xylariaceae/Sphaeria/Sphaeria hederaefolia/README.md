@@ -1,5 +1,4 @@
-Sphaeria hederaefolia Cooke SPECIES
-=======
+# Sphaeria hederaefolia Cooke SPECIES
 
 #### Status
 ACCEPTED

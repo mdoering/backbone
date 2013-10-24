@@ -1,17 +1,16 @@
-Phyllosticta anemonis Ellis & Everh. SPECIES
-=======
+# Phyllosticta anemones Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 356 (1894)
 
 #### Original name
-Phyllosticta anemonis Ellis & Everh.
+Phyllosticta anemones Ellis & Everh.
 
 ### Remarks
 null

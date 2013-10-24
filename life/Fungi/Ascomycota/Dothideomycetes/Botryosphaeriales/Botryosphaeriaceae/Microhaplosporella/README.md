@@ -1,5 +1,4 @@
-Microhaplosporella GENUS
-=======
+# Microhaplosporella GENUS
 
 #### Status
 ACCEPTED

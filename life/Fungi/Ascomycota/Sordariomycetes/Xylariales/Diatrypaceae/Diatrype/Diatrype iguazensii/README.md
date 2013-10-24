@@ -1,5 +1,4 @@
-Diatrype iguazensii Carmarán & L.N. Vassiljeva SPECIES
-=======
+# Diatrype iguazensii Carmarán & L.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

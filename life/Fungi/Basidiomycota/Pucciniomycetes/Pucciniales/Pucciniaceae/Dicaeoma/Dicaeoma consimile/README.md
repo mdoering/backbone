@@ -1,5 +1,4 @@
-Dicaeoma consimile (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma consimile (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

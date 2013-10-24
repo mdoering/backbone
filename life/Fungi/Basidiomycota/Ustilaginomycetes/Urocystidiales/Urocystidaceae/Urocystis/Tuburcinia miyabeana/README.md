@@ -1,5 +1,4 @@
-Tuburcinia miyabeana (Togashi & Onuma) Togashi SPECIES
-=======
+# Tuburcinia miyabeana (Togashi & Onuma) Togashi SPECIES
 
 #### Status
 ACCEPTED

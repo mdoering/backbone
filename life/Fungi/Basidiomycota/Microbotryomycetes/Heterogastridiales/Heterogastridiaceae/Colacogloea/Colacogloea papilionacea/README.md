@@ -1,5 +1,4 @@
-Colacogloea papilionacea R. Kirschner & Oberw., 1999 SPECIES
-=======
+# Colacogloea papilionacea R. Kirschner & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

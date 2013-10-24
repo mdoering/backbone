@@ -1,5 +1,4 @@
-Gloeosporium miltoniae Verpl. & Claess. SPECIES
-=======
+# Gloeosporium miltoniae Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

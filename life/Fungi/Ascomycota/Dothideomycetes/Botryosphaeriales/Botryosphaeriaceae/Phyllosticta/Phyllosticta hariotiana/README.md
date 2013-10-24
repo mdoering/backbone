@@ -1,5 +1,4 @@
-Phyllosticta hariotiana Sacc. SPECIES
-=======
+# Phyllosticta hariotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

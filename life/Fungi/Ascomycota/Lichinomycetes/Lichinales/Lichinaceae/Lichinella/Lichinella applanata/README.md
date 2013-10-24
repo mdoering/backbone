@@ -1,5 +1,4 @@
-Lichinella applanata Henssen SPECIES
-=======
+# Lichinella applanata Henssen SPECIES
 
 #### Status
 ACCEPTED

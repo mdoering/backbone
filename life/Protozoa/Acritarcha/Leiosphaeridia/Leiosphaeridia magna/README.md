@@ -1,5 +1,4 @@
-Leiosphaeridia magna Bharadwaj et al., 1971 SPECIES
-=======
+# Leiosphaeridia magna Bharadwaj et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

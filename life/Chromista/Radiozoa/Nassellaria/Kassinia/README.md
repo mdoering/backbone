@@ -1,14 +1,13 @@
-Kassina GENUS
-=======
+# Kassinia Khabakov, 1937 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-null
+Annu. Soc. paléont. Russe, 11, 110.
 
 #### Original name
 null

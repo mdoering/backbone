@@ -1,5 +1,4 @@
-Rhizidium chaetophorae De Wild. SPECIES
-=======
+# Rhizidium chaetophorae De Wild. SPECIES
 
 #### Status
 ACCEPTED

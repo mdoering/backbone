@@ -1,5 +1,4 @@
-Alectoria irvingii Llano SPECIES
-=======
+# Alectoria irvingii Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella himalayana R.K. Chaudhary, Kharwar & Budathoki SPECIES
-=======
+# Appendiculella himalayana R.K. Chaudhary, Kharwar & Budathoki SPECIES
 
 #### Status
 ACCEPTED

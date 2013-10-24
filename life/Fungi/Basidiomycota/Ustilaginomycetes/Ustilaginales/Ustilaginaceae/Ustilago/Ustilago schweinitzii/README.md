@@ -1,5 +1,4 @@
-Ustilago schweinitzii Tul. & C. Tul. SPECIES
-=======
+# Ustilago schweinitzii Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

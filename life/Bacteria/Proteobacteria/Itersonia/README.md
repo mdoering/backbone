@@ -1,5 +1,4 @@
-Itersonia Rippel & Flehmig GENUS
-=======
+# Itersonia Rippel & Flehmig GENUS
 
 #### Status
 ACCEPTED

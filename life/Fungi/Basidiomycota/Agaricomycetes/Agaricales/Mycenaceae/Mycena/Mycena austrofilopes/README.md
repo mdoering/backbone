@@ -1,5 +1,4 @@
-Mycena austrofilopes var. austrofilopes VARIETY
-=======
+# Mycena austrofilopes Grgur. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Larger Fungi of South Australia (Adelaide) 273 (1997)
 
 #### Original name
-Mycena austrofilopes var. austrofilopes
+Mycena austrofilopes Grgur.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Homostegia symploci Racib. SPECIES
-=======
+# Homostegia symploci Racib. SPECIES
 
 #### Status
 ACCEPTED

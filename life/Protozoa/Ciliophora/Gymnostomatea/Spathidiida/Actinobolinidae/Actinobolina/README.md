@@ -1,5 +1,4 @@
-Actinobolina Strand, 1928 GENUS
-=======
+# Actinobolina Strand, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opisthostyla Stokes, 1886 GENUS
-=======
+# Opisthostyla Stokes, 1886 GENUS
 
 #### Status
 ACCEPTED

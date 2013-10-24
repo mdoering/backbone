@@ -1,5 +1,4 @@
-Psora californica Timdal SPECIES
-=======
+# Psora californica Timdal SPECIES
 
 #### Status
 ACCEPTED

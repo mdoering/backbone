@@ -1,5 +1,4 @@
-Phyllosticta bracteophila Ferraris SPECIES
-=======
+# Phyllosticta bracteophila Ferraris SPECIES
 
 #### Status
 ACCEPTED

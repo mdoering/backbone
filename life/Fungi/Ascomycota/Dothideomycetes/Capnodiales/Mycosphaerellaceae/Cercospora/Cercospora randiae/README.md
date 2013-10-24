@@ -1,5 +1,4 @@
-Cercospora randiae Thirum. & Govindu SPECIES
-=======
+# Cercospora randiae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

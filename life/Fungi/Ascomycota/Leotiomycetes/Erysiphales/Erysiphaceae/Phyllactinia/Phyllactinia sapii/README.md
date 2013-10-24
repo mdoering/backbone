@@ -1,5 +1,4 @@
-Phyllactinia sapii Sawada SPECIES
-=======
+# Phyllactinia sapii Sawada SPECIES
 
 #### Status
 ACCEPTED

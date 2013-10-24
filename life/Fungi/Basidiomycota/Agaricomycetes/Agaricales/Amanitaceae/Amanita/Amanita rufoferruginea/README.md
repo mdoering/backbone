@@ -1,5 +1,4 @@
-Amanita rufoferruginea Hongo SPECIES
-=======
+# Amanita rufoferruginea Hongo SPECIES
 
 #### Status
 ACCEPTED

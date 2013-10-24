@@ -1,5 +1,4 @@
-Caloplaca aegatica Giralt, Nimis & Poelt SPECIES
-=======
+# Caloplaca aegatica Giralt, Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

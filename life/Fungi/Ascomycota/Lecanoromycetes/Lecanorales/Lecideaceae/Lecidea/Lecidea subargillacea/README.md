@@ -1,5 +1,4 @@
-Lecidea subargillacea C. Knight SPECIES
-=======
+# Lecidea subargillacea C. Knight SPECIES
 
 #### Status
 ACCEPTED

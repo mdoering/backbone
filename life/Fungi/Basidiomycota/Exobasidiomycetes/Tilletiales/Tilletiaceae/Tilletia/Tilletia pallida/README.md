@@ -1,5 +1,4 @@
-Tilletia pallida G.W. Fisch. SPECIES
-=======
+# Tilletia pallida G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

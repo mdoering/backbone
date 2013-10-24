@@ -1,5 +1,4 @@
-Actinomyces hongkongensis Woo et al., 2004 SPECIES
-=======
+# Actinomyces hongkongensis Woo et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

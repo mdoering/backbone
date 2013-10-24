@@ -1,5 +1,4 @@
-Cercospora celosiicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
-=======
+# Cercospora celosiicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

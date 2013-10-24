@@ -1,5 +1,4 @@
-Cookeina indica Pfister & R. Kaushal SPECIES
-=======
+# Cookeina indica Pfister & R. Kaushal SPECIES
 
 #### Status
 ACCEPTED

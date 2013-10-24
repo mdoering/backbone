@@ -1,5 +1,4 @@
-Marasmius obliquus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius obliquus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

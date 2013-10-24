@@ -1,5 +1,4 @@
-Phyllosticta potentillica Sacc. SPECIES
-=======
+# Phyllosticta potentillica Sacc. SPECIES
 
 #### Status
 ACCEPTED

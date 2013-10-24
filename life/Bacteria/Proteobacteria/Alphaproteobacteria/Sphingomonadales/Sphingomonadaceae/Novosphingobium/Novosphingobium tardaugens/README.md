@@ -1,5 +1,4 @@
-Novosphingobium tardaugens Fujii et al., 2003 SPECIES
-=======
+# Novosphingobium tardaugens Fujii et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

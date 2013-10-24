@@ -1,5 +1,4 @@
-Parmentaria indica Upreti & Ajay Singh SPECIES
-=======
+# Parmentaria indica Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

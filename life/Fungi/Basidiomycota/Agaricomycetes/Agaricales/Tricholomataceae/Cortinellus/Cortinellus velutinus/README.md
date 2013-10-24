@@ -1,5 +1,4 @@
-Cortinellus velutinus Beeli SPECIES
-=======
+# Cortinellus velutinus Beeli SPECIES
 
 #### Status
 ACCEPTED

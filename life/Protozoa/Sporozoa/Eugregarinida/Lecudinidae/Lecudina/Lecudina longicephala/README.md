@@ -1,5 +1,4 @@
-Lecudina longicephala Ganapati, 1946 SPECIES
-=======
+# Lecudina longicephala Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiotoma györyana SPECIES
-=======
+# Plagiotoma györyana SPECIES
 
 #### Status
 ACCEPTED

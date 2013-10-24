@@ -1,5 +1,4 @@
-Dicaeoma tripustulatum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma tripustulatum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

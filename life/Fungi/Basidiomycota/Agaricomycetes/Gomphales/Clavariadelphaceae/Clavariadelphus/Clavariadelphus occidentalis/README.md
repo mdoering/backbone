@@ -1,5 +1,4 @@
-Clavariadelphus occidentalis Methven, 1989 SPECIES
-=======
+# Clavariadelphus occidentalis Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

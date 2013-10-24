@@ -1,5 +1,4 @@
-Pertusaria dacica Erichsen SPECIES
-=======
+# Pertusaria dacica Erichsen SPECIES
 
 #### Status
 ACCEPTED

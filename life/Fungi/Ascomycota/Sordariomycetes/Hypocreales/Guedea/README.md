@@ -1,5 +1,4 @@
-Guedea Rambelli & Bartoli GENUS
-=======
+# Guedea Rambelli & Bartoli GENUS
 
 #### Status
 ACCEPTED

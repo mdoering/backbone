@@ -1,5 +1,4 @@
-Coelocarpon palustris Velen. SPECIES
-=======
+# Coelocarpon palustris Velen. SPECIES
 
 #### Status
 ACCEPTED

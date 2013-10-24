@@ -1,5 +1,4 @@
-Lecidea obsessa Zahlbr. SPECIES
-=======
+# Lecidea obsessa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

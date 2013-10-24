@@ -1,5 +1,4 @@
-Gloeosporium carthami (Fukui) Hori & Hemmi SPECIES
-=======
+# Gloeosporium carthami (Fukui) Hori & Hemmi SPECIES
 
 #### Status
 ACCEPTED

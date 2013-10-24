@@ -1,5 +1,4 @@
-Blepharocysta denticulata Nie, 1939 SPECIES
-=======
+# Blepharocysta denticulata Nie, 1939 SPECIES
 
 #### Status
 ACCEPTED

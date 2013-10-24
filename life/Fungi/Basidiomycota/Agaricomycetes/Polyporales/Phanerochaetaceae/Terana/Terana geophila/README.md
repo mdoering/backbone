@@ -1,5 +1,4 @@
-Terana geophila (Durieu & Mont.) Kuntze SPECIES
-=======
+# Terana geophila (Durieu & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

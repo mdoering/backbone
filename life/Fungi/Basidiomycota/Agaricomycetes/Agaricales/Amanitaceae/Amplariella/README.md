@@ -1,5 +1,4 @@
-Amplariella GENUS
-=======
+# Amplariella GENUS
 
 #### Status
 ACCEPTED

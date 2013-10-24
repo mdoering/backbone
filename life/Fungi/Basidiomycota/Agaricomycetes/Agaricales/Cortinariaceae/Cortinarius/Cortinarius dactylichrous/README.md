@@ -1,5 +1,4 @@
-Cortinarius dactylichrous M.M. Moser SPECIES
-=======
+# Cortinarius dactylichrous M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

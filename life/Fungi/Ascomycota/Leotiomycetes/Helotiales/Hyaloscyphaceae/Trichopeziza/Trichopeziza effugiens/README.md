@@ -1,5 +1,4 @@
-Trichopeziza effugiens (Roberge ex Desm.) Le Gal SPECIES
-=======
+# Trichopeziza effugiens (Roberge ex Desm.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

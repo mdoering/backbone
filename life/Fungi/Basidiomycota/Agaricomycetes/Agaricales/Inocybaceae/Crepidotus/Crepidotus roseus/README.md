@@ -1,5 +1,4 @@
-Crepidotus roseus Singer SPECIES
-=======
+# Crepidotus roseus Singer SPECIES
 
 #### Status
 ACCEPTED

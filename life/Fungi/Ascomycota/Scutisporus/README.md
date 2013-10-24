@@ -1,5 +1,4 @@
-Scutisporus K. Ando & Tubaki GENUS
-=======
+# Scutisporus K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus leucopodius Pers. SPECIES
-=======
+# Boletus leucopodius Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phloeospora sydowiana Allesch., 1897 SPECIES
-=======
+# Septoria sydowiana (Allesch.) Died., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 444 (1914)
 
 #### Original name
 Phloeospora sydowiana Allesch., 1897

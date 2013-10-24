@@ -1,8 +1,7 @@
-Rhizocarpon umbricolum Räsänen SPECIES
-=======
+# Rhizocarpon umbricola Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon umbricolum Räsänen
+Rhizocarpon umbricola Räsänen
 
 ### Remarks
 null

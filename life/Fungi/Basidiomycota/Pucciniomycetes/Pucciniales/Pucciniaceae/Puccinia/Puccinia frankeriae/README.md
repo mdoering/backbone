@@ -1,5 +1,4 @@
-Puccinia frankeriae Link SPECIES
-=======
+# Puccinia frankeriae Link SPECIES
 
 #### Status
 ACCEPTED

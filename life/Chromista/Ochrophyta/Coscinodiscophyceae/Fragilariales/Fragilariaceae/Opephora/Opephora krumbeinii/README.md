@@ -1,5 +1,4 @@
-Opephora krumbeinii A. Witkowski, Witak & K. Stachura SPECIES
-=======
+# Opephora krumbeinii A. Witkowski, Witak & K. Stachura SPECIES
 
 #### Status
 ACCEPTED

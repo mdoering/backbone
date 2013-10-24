@@ -1,5 +1,4 @@
-Epipolaeum lepontinum (E. Müll.) E. Müll. SPECIES
-=======
+# Epipolaeum lepontinum (E. Müll.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

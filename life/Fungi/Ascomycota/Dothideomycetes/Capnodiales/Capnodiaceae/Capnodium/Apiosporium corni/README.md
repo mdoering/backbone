@@ -1,5 +1,4 @@
-Apiosporium corni Wallr. SPECIES
-=======
+# Apiosporium corni Wallr. SPECIES
 
 #### Status
 ACCEPTED

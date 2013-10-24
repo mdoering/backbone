@@ -1,5 +1,4 @@
-Chaetophoma stromaticola Speg. SPECIES
-=======
+# Chaetophoma stromaticola Speg. SPECIES
 
 #### Status
 ACCEPTED

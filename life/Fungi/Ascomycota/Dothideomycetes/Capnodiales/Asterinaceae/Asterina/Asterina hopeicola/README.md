@@ -1,5 +1,4 @@
-Asterina hopeicola Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina hopeicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

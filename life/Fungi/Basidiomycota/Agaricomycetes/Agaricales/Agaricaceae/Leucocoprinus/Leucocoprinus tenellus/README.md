@@ -1,14 +1,13 @@
-Lepiota tenella Boud., 1905 SPECIES
-=======
+# Leucocoprinus tenellus (Boud.) Locq., 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Mycol. (Paris) 1: pl. 18 (1905)
+Bull. Soc. linn. Lyon 12: 95 (1943)
 
 #### Original name
 Lepiota tenella Boud., 1905

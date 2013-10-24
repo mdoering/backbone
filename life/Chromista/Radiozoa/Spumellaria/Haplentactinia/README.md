@@ -1,5 +1,4 @@
-Haplentactinia Foreman, 1963 GENUS
-=======
+# Haplentactinia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

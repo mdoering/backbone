@@ -1,5 +1,4 @@
-Rhexocercosporidium panacis Reeleder, 2007 SPECIES
-=======
+# Rhexocercosporidium panacis Reeleder, 2007 SPECIES
 
 #### Status
 ACCEPTED

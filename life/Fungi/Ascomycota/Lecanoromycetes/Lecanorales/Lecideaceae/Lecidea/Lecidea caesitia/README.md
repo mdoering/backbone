@@ -1,5 +1,4 @@
-Lecidea caesitia Nyl. SPECIES
-=======
+# Lecidea caesitia Nyl. SPECIES
 
 #### Status
 ACCEPTED

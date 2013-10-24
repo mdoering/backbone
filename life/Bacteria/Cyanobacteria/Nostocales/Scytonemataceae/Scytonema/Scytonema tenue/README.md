@@ -1,5 +1,4 @@
-Scytonema tenue Gardner SPECIES
-=======
+# Scytonema tenue Gardner SPECIES
 
 #### Status
 ACCEPTED

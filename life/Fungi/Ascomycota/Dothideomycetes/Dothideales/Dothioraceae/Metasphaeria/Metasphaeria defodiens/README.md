@@ -1,5 +1,4 @@
-Metasphaeria defodiens (Ellis) Sacc. SPECIES
-=======
+# Metasphaeria defodiens (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

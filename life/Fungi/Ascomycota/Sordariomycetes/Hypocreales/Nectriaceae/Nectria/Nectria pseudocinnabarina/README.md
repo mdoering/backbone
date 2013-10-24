@@ -1,5 +1,4 @@
-Nectria pseudocinnabarina Rossman SPECIES
-=======
+# Nectria pseudocinnabarina Rossman SPECIES
 
 #### Status
 ACCEPTED

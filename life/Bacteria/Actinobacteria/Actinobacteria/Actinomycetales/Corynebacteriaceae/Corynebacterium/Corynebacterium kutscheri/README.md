@@ -1,11 +1,10 @@
-Corynebacterium murium Bergey et al., 1923 SPECIES
-=======
+# Corynebacterium kutscheri (Migula, 1900) Bergey et al., 1925 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

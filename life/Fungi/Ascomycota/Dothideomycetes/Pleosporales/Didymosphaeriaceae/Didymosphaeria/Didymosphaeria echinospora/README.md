@@ -1,5 +1,4 @@
-Didymosphaeria echinospora Faurel & Schotter SPECIES
-=======
+# Didymosphaeria echinospora Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

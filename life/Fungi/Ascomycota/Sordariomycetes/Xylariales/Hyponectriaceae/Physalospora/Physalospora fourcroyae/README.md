@@ -1,5 +1,4 @@
-Physalospora fourcroyae Henn. SPECIES
-=======
+# Physalospora fourcroyae Henn. SPECIES
 
 #### Status
 ACCEPTED

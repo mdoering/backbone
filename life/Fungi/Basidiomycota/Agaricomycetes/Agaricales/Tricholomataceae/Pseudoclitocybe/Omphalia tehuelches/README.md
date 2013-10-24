@@ -1,5 +1,4 @@
-Omphalia tehuelches Speg. SPECIES
-=======
+# Omphalia tehuelches Speg. SPECIES
 
 #### Status
 ACCEPTED

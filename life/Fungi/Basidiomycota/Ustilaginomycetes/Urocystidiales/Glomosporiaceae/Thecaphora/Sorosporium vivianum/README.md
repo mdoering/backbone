@@ -1,5 +1,4 @@
-Sorosporium vivianum J. Schröt. SPECIES
-=======
+# Sorosporium vivianum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

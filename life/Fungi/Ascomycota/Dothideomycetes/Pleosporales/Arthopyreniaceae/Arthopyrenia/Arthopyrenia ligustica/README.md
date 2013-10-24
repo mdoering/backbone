@@ -1,5 +1,4 @@
-Arthopyrenia ligustica (A. Massal.) Zahlbr. SPECIES
-=======
+# Arthopyrenia ligustica (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

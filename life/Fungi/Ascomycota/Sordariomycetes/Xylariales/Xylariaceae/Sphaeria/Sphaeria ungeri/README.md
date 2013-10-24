@@ -1,5 +1,4 @@
-Sphaeria ungeri Ettingsh. SPECIES
-=======
+# Sphaeria ungeri Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

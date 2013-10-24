@@ -1,5 +1,4 @@
-Asteromella heringeri Bat. & J.L. Bezerra SPECIES
-=======
+# Asteromella heringeri Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta queenslandiae Henn. SPECIES
-=======
+# Coniochaeta queenslandiae Henn. SPECIES
 
 #### Status
 ACCEPTED

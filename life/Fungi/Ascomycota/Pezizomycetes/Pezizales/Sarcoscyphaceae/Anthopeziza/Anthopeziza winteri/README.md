@@ -1,5 +1,4 @@
-Anthopeziza winteri Wettst. SPECIES
-=======
+# Anthopeziza winteri Wettst. SPECIES
 
 #### Status
 ACCEPTED

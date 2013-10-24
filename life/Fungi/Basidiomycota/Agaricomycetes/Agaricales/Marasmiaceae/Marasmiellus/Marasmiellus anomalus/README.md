@@ -1,5 +1,4 @@
-Marasmiellus anomalus (Dennis) Dennis SPECIES
-=======
+# Marasmiellus anomalus (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

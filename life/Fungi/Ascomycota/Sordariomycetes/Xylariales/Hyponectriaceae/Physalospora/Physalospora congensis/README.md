@@ -1,5 +1,4 @@
-Physalospora congensis Henn. SPECIES
-=======
+# Physalospora congensis Henn. SPECIES
 
 #### Status
 ACCEPTED

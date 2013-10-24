@@ -1,5 +1,4 @@
-Uredo arnicae-scorpioidis DC. SPECIES
-=======
+# Uredo arnicae-scorpioidis DC. SPECIES
 
 #### Status
 ACCEPTED

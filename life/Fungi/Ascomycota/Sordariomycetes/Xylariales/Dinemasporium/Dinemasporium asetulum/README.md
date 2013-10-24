@@ -1,17 +1,16 @@
-Dinemasporium asetulus J.X. Duan & W.P. Wu SPECIES
-=======
+# Dinemasporium asetulum J.X. Duan & W.P. Wu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Duan, Liu & Wu, Fungal Diversity 26(1): 207 (2007)
 
 #### Original name
-Dinemasporium asetulus J.X. Duan & W.P. Wu
+Dinemasporium asetulum J.X. Duan & W.P. Wu
 
 ### Remarks
 null

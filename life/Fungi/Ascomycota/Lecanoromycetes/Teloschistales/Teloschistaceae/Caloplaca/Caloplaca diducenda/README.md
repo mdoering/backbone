@@ -1,5 +1,4 @@
-Caloplaca diducenda (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca diducenda (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

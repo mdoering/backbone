@@ -1,5 +1,4 @@
-Fellomyces distylii Hamam., Kuroy. & Nakase SPECIES
-=======
+# Fellomyces distylii Hamam., Kuroy. & Nakase SPECIES
 
 #### Status
 ACCEPTED

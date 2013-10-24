@@ -1,5 +1,4 @@
-Melastiza kumouensis K.B. Khare SPECIES
-=======
+# Melastiza kumouensis K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

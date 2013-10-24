@@ -1,5 +1,4 @@
-Stephanodiscus omarensis I. A. Kuptsova SPECIES
-=======
+# Stephanodiscus omarensis I. A. Kuptsova SPECIES
 
 #### Status
 ACCEPTED

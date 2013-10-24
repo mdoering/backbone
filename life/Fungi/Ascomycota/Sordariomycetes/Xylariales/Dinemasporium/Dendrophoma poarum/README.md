@@ -1,5 +1,4 @@
-Dendrophoma poarum Ellis & Dearn., 1897 SPECIES
-=======
+# Dendrophoma poarum Ellis & Dearn., 1897 SPECIES
 
 #### Status
 ACCEPTED

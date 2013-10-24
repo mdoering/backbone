@@ -1,5 +1,4 @@
-Arcangeliella occidentalis (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella occidentalis (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

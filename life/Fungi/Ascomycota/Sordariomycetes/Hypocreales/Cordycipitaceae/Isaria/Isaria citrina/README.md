@@ -1,5 +1,4 @@
-Isaria citrina Pers., 1801 SPECIES
-=======
+# Isaria citrina Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

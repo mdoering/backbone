@@ -1,8 +1,7 @@
-Scelobelonium subgen. Saccardo von Höhnel, 1905 GENUS
-=======
+# Crocicreas E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

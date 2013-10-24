@@ -1,17 +1,16 @@
-Leptopterygium Zahlbr. GENUS
-=======
+# Zahlbrucknerella Herre GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Handel-Mazzetti, Symb. Sin. 3: 74 (1930)
+J. Wash. Acad. Sci. 2: 384 (1912)
 
 #### Original name
-Leptopterygium Zahlbr.
+Zahlbrucknerella Herre
 
 ### Remarks
 null

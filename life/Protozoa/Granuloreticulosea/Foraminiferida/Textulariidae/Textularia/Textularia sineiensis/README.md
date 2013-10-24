@@ -1,5 +1,4 @@
-Textularia sineiensis Nakamura SPECIES
-=======
+# Textularia sineiensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

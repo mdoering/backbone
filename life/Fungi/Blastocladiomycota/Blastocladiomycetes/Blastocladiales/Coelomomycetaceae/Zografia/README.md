@@ -1,5 +1,4 @@
-Zografia GENUS
-=======
+# Zografia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia defeta Hale SPECIES
-=======
+# Parmelia defeta Hale SPECIES
 
 #### Status
 ACCEPTED

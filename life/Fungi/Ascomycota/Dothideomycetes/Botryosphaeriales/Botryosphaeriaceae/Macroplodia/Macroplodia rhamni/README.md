@@ -1,5 +1,4 @@
-Macroplodia rhamni (Cooke) Kuntze SPECIES
-=======
+# Macroplodia rhamni (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

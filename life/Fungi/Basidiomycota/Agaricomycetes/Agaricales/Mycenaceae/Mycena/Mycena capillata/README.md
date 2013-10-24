@@ -1,5 +1,4 @@
-Mycena capillata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena capillata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

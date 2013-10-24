@@ -1,5 +1,4 @@
-Atopospora araucariae Butin SPECIES
-=======
+# Atopospora araucariae Butin SPECIES
 
 #### Status
 ACCEPTED

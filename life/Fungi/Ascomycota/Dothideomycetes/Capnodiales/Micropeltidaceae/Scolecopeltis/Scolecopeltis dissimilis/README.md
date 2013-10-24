@@ -1,5 +1,4 @@
-Scolecopeltis dissimilis Rehm SPECIES
-=======
+# Scolecopeltis dissimilis Rehm SPECIES
 
 #### Status
 ACCEPTED

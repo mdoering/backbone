@@ -1,5 +1,4 @@
-Clitocybe gerardiana var. gerardiana Peck VARIETY
-=======
+# Clitocybe gerardiana Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe gerardiana var. gerardiana Peck
+Clitocybe gerardiana Peck
 
 ### Remarks
 null

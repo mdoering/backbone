@@ -1,5 +1,4 @@
-Peziza flavobrunnescens (Donadini) Donadini SPECIES
-=======
+# Peziza flavobrunnescens (Donadini) Donadini SPECIES
 
 #### Status
 ACCEPTED

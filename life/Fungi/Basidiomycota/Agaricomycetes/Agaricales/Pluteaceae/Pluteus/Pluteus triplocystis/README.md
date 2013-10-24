@@ -1,5 +1,4 @@
-Pluteus triplocystis Singer SPECIES
-=======
+# Pluteus triplocystis Singer SPECIES
 
 #### Status
 ACCEPTED

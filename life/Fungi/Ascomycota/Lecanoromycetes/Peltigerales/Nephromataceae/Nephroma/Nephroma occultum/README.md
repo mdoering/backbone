@@ -1,5 +1,4 @@
-Nephroma occultum Wetmore SPECIES
-=======
+# Nephroma occultum Wetmore SPECIES
 
 #### Status
 ACCEPTED

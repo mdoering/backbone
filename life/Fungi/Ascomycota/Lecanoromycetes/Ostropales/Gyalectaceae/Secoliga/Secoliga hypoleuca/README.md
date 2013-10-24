@@ -1,5 +1,4 @@
-Secoliga hypoleuca (Ach.) M. Choisy SPECIES
-=======
+# Secoliga hypoleuca (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

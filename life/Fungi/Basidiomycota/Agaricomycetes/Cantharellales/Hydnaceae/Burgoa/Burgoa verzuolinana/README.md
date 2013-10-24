@@ -1,5 +1,4 @@
-Burgoa verzuolinana SPECIES
-=======
+# Burgoa verzuolinana SPECIES
 
 #### Status
 ACCEPTED

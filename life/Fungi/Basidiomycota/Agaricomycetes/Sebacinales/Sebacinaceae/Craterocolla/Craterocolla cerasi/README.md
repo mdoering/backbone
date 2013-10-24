@@ -1,14 +1,13 @@
-Sphaeria cerasi Schumach., 1834 SPECIES
-=======
+# Craterocolla cerasi (Schumach.) Bref., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 6: 778 (1888)
 
 #### Original name
 Sphaeria cerasi Schumach., 1834

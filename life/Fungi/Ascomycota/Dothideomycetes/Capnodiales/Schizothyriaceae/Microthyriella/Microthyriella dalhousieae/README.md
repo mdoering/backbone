@@ -1,5 +1,4 @@
-Microthyriella dalhousieae Hansf. SPECIES
-=======
+# Microthyriella dalhousieae Hansf. SPECIES
 
 #### Status
 ACCEPTED

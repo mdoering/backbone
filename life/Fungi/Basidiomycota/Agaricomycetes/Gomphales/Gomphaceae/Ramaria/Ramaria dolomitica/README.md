@@ -1,5 +1,4 @@
-Ramaria dolomitica Franchi & M. Marchetti, 2000 SPECIES
-=======
+# Ramaria dolomitica Franchi & M. Marchetti, 2000 SPECIES
 
 #### Status
 ACCEPTED

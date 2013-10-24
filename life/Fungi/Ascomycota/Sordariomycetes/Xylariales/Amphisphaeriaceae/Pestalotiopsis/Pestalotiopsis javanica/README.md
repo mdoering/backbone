@@ -1,5 +1,4 @@
-Pestalotiopsis javanica (Guba) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis javanica (Guba) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

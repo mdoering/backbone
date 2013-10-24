@@ -1,5 +1,4 @@
-Collybia spuria subsp. spuria Bres. SUBSPECIES
-=======
+# Collybia spuria Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia spuria subsp. spuria Bres.
+Collybia spuria Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ovicola Michajlow, 1965 GENUS
-=======
+# Ovicola Michajlow, 1965 GENUS
 
 #### Status
 ACCEPTED

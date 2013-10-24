@@ -1,5 +1,4 @@
-Torula phragmitis Opiz SPECIES
-=======
+# Torula phragmitis Opiz SPECIES
 
 #### Status
 ACCEPTED

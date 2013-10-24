@@ -1,5 +1,4 @@
-Porina javanica (Hepp) Overeem SPECIES
-=======
+# Porina javanica (Hepp) Overeem SPECIES
 
 #### Status
 ACCEPTED

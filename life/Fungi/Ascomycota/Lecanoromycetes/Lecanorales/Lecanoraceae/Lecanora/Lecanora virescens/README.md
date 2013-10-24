@@ -1,5 +1,4 @@
-Lecanora virescens Tomin SPECIES
-=======
+# Lecanora virescens Tomin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aletes pollenisimilis U. Horst SPECIES
-=======
+# Aletes pollenisimilis U. Horst SPECIES
 
 #### Status
 ACCEPTED

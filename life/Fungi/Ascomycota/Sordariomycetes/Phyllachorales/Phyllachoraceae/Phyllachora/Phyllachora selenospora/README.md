@@ -1,17 +1,16 @@
-Catacauma semilunata Chardón SPECIES
-=======
+# Phyllachora selenospora Speg., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 544 (1889)
 
 #### Original name
-Catacauma semilunata Chardón
+Phyllachora selenospora Speg., 1889
 
 ### Remarks
 null

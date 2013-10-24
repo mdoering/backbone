@@ -1,5 +1,4 @@
-Gloeosporium japonicum Hemmi SPECIES
-=======
+# Gloeosporium japonicum Hemmi SPECIES
 
 #### Status
 ACCEPTED

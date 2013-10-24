@@ -1,17 +1,16 @@
-Typhula traillii Berk. & Cooke SPECIES
-=======
+# Typhula trailii Berk. & Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 15: 391 (1877)
 
 #### Original name
-Typhula traillii Berk. & Cooke
+Typhula trailii Berk. & Cooke
 
 ### Remarks
 null

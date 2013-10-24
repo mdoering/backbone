@@ -1,5 +1,4 @@
-Chamaeceras viridifuscus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras viridifuscus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

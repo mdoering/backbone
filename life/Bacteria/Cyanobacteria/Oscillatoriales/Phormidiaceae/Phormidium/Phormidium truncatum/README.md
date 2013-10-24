@@ -1,5 +1,4 @@
-Phormidium truncatum Lemmermann SPECIES
-=======
+# Phormidium truncatum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

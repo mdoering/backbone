@@ -1,17 +1,16 @@
-Rechingeria Servít GENUS
-=======
+# Lichinella Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln naturh. Mus. Wien 46: 80 (1931)
+Flora, Jena 56: 195 (1873)
 
 #### Original name
-Rechingeria Servít
+Lichinella Nyl.
 
 ### Remarks
 null

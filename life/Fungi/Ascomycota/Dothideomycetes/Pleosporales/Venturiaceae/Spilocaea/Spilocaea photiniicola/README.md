@@ -1,14 +1,13 @@
-Spilocaea photinicola (McClain) M.B. Ellis SPECIES
-=======
+# Spilocaea photiniicola (McClain) M.B. Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 112 (1976)
 
 #### Original name
 Fusicladium photinicola McClain

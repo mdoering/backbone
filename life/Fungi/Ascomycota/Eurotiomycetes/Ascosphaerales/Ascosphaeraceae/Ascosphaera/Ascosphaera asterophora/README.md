@@ -1,5 +1,4 @@
-Ascosphaera asterophora Skou, 1982 SPECIES
-=======
+# Ascosphaera asterophora Skou, 1982 SPECIES
 
 #### Status
 ACCEPTED

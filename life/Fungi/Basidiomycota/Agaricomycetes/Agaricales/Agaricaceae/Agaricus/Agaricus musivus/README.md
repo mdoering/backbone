@@ -1,5 +1,4 @@
-Agaricus musivus Fr. SPECIES
-=======
+# Agaricus musivus Fr. SPECIES
 
 #### Status
 ACCEPTED

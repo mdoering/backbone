@@ -1,5 +1,4 @@
-Tricornispora GENUS
-=======
+# Tricornispora GENUS
 
 #### Status
 ACCEPTED

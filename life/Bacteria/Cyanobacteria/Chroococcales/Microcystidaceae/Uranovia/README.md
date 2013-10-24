@@ -1,5 +1,4 @@
-Uranovia K.B.Korde GENUS
-=======
+# Uranovia K.B.Korde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia loculata Mont. SPECIES
-=======
+# Diplodia loculata Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium diospyri Pat. SPECIES
-=======
+# Lophodermium diospyri Pat. SPECIES
 
 #### Status
 ACCEPTED

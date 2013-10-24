@@ -1,5 +1,4 @@
-Boletus amygdalinus (Thiers) Thiers SPECIES
-=======
+# Boletus amygdalinus (Thiers) Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon arenarium (Hampe) Zahlbr. SPECIES
-=======
+# Endocarpon arenarium (Hampe) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

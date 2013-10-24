@@ -1,5 +1,4 @@
-Lecanora pruinella SPECIES
-=======
+# Lecanora pruinella SPECIES
 
 #### Status
 ACCEPTED

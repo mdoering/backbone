@@ -1,5 +1,4 @@
-Lethariicola sipei Grummann SPECIES
-=======
+# Lethariicola sipei Grummann SPECIES
 
 #### Status
 ACCEPTED

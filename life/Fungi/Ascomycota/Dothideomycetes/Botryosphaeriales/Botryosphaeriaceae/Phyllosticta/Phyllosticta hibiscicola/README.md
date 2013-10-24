@@ -1,5 +1,4 @@
-Phyllosticta hibiscicola Sawada SPECIES
-=======
+# Phyllosticta hibiscicola Sawada SPECIES
 
 #### Status
 ACCEPTED

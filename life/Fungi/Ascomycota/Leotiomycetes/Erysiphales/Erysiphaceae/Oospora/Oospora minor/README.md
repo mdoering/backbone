@@ -1,5 +1,4 @@
-Oospora minor Delitsch SPECIES
-=======
+# Oospora minor Delitsch SPECIES
 
 #### Status
 ACCEPTED

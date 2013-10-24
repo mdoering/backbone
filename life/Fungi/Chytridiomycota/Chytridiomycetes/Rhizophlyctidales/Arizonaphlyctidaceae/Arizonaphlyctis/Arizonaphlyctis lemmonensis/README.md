@@ -1,5 +1,4 @@
-Arizonaphlyctis lemmonensis Letcher, 2008 SPECIES
-=======
+# Arizonaphlyctis lemmonensis Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED

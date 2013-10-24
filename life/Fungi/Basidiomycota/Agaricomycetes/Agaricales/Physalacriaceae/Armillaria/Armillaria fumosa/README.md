@@ -1,5 +1,4 @@
-Armillaria fumosa Kile & Watling SPECIES
-=======
+# Armillaria fumosa Kile & Watling SPECIES
 
 #### Status
 ACCEPTED

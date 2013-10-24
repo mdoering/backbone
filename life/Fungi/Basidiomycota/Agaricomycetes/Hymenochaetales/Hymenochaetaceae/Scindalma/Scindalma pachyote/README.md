@@ -1,5 +1,4 @@
-Scindalma pachyote (Speg.) Kuntze SPECIES
-=======
+# Scindalma pachyote (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

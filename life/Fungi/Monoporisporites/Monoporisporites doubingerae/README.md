@@ -1,5 +1,4 @@
-Monoporisporites doubingerae Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites doubingerae Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

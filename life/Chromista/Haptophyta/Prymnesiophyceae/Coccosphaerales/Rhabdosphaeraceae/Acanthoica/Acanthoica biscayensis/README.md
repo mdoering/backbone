@@ -1,5 +1,4 @@
-Acanthoica biscayensis A. Kleijne SPECIES
-=======
+# Acanthoica biscayensis A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

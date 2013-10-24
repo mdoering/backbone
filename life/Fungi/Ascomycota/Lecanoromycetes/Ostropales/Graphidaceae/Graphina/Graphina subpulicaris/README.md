@@ -1,5 +1,4 @@
-Graphina subpulicaris Zahlbr. SPECIES
-=======
+# Graphina subpulicaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

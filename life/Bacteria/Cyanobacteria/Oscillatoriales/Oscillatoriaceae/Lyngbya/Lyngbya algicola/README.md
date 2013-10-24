@@ -1,5 +1,4 @@
-Lyngbya algicola L. Hoffmann SPECIES
-=======
+# Lyngbya algicola L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

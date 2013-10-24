@@ -1,5 +1,4 @@
-Mycosphaerella ixorae Bat. & Peres SPECIES
-=======
+# Mycosphaerella ixorae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

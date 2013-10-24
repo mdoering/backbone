@@ -1,5 +1,4 @@
-Zignoëlla matthiolae Cooke SPECIES
-=======
+# Zignoëlla matthiolae Cooke SPECIES
 
 #### Status
 ACCEPTED

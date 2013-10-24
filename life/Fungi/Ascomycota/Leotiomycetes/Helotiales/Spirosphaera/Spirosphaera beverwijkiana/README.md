@@ -1,5 +1,4 @@
-Spirosphaera beverwijkiana Hennebert, 1968 SPECIES
-=======
+# Spirosphaera beverwijkiana Hennebert, 1968 SPECIES
 
 #### Status
 ACCEPTED

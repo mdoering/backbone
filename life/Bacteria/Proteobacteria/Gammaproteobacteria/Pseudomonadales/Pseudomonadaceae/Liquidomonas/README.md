@@ -1,5 +1,4 @@
-Liquidomonas GENUS
-=======
+# Liquidomonas GENUS
 
 #### Status
 ACCEPTED

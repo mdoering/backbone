@@ -1,5 +1,4 @@
-Gulosibacter molinativorax Manaia et al., 2004 SPECIES
-=======
+# Gulosibacter molinativorax Manaia et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

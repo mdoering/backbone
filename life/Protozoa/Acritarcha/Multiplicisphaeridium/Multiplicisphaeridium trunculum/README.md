@@ -1,5 +1,4 @@
-Multiplicisphaeridium trunculum Wicander & Loeblich, 1977 SPECIES
-=======
+# Multiplicisphaeridium trunculum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

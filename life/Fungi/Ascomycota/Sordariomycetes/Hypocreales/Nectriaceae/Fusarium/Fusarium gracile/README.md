@@ -1,5 +1,4 @@
-Fusarium gracile McAlpine SPECIES
-=======
+# Fusarium gracile McAlpine SPECIES
 
 #### Status
 ACCEPTED

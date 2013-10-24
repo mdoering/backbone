@@ -1,5 +1,4 @@
-Hendersonia bicolor Pat. SPECIES
-=======
+# Hendersonia bicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

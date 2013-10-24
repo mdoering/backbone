@@ -1,5 +1,4 @@
-Candelabrum macrosporum Matsush. SPECIES
-=======
+# Candelabrum macrosporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

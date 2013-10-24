@@ -1,5 +1,4 @@
-Claussenomyces simplex Gamundí SPECIES
-=======
+# Claussenomyces simplex Gamundí SPECIES
 
 #### Status
 ACCEPTED

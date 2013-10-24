@@ -1,5 +1,4 @@
-Cryptomyces betuli (Alb. & Schwein.) Fr. SPECIES
-=======
+# Cryptomyces betuli (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

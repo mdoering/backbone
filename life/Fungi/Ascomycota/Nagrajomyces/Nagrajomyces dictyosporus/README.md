@@ -1,5 +1,4 @@
-Nagrajomyces dictyosporus Melnik, 1984 SPECIES
-=======
+# Nagrajomyces dictyosporus Melnik, 1984 SPECIES
 
 #### Status
 ACCEPTED

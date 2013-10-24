@@ -1,5 +1,4 @@
-Meliola sclerochitonicola Hansf. SPECIES
-=======
+# Meliola sclerochitonicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

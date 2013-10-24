@@ -1,5 +1,4 @@
-Erioderma javanicum Vain. SPECIES
-=======
+# Erioderma javanicum Vain. SPECIES
 
 #### Status
 ACCEPTED

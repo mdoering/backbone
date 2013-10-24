@@ -1,5 +1,4 @@
-Entyloma novae-zelandiae McKenzie & Vánky, 1995 SPECIES
-=======
+# Entyloma novae-zelandiae McKenzie & Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

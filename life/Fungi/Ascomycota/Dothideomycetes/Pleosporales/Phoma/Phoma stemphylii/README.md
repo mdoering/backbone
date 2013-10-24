@@ -1,5 +1,4 @@
-Phoma stemphylii Gonz. Frag. SPECIES
-=======
+# Phoma stemphylii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

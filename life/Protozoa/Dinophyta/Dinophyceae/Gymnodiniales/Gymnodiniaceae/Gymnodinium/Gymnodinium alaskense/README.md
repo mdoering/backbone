@@ -1,5 +1,4 @@
-Gymnodinium alaskense Bursa, 1963 SPECIES
-=======
+# Gymnodinium alaskense Bursa, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma dennisii E. Horak SPECIES
-=======
+# Entoloma dennisii E. Horak SPECIES
 
 #### Status
 ACCEPTED

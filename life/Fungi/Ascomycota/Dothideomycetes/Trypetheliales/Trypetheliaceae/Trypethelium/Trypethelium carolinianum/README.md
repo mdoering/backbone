@@ -1,5 +1,4 @@
-Trypethelium carolinianum Tuck. SPECIES
-=======
+# Trypethelium carolinianum Tuck. SPECIES
 
 #### Status
 ACCEPTED

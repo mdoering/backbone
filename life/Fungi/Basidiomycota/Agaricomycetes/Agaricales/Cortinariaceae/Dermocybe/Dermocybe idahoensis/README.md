@@ -1,5 +1,4 @@
-Dermocybe idahoensis (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe idahoensis (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

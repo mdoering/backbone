@@ -1,5 +1,4 @@
-Ceratomyces melanocerus (Speg.) Thaxt. SPECIES
-=======
+# Ceratomyces melanocerus (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

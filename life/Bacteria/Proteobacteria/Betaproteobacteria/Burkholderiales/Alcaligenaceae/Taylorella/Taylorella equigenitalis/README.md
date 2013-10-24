@@ -1,8 +1,7 @@
-Haemophilus equigenitalis Taylor et al., 1983 SPECIES
-=======
+# Taylorella equigenitalis (Taylor et al., 1983) Sugimoto et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

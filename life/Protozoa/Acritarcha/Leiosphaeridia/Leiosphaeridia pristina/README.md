@@ -1,5 +1,4 @@
-Leiosphaeridia pristina (Salujha, Rehman & Arora, 1971) Eisenack et al., 1979 SPECIES
-=======
+# Leiosphaeridia pristina (Salujha, Rehman & Arora, 1971) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

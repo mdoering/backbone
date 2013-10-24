@@ -1,5 +1,4 @@
-Stenotrophomonas rhizophila Wolf et al., 2002 SPECIES
-=======
+# Stenotrophomonas rhizophila Wolf et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

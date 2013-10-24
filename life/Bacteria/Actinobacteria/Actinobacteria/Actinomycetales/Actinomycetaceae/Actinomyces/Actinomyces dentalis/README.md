@@ -1,5 +1,4 @@
-Actinomyces dentalis Hall et al., 2005 SPECIES
-=======
+# Actinomyces dentalis Hall et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

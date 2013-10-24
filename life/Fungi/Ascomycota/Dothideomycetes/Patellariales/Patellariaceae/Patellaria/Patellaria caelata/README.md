@@ -1,5 +1,4 @@
-Patellaria caelata (Hoffm.) Wallr. SPECIES
-=======
+# Patellaria caelata (Hoffm.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

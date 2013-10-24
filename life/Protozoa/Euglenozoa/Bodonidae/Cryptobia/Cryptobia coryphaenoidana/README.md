@@ -1,5 +1,4 @@
-Cryptobia coryphaenoidana Noble, 1968 SPECIES
-=======
+# Cryptobia coryphaenoidana Noble, 1968 SPECIES
 
 #### Status
 ACCEPTED

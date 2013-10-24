@@ -1,5 +1,4 @@
-Glonium incrustans De Not. SPECIES
-=======
+# Glonium incrustans De Not. SPECIES
 
 #### Status
 ACCEPTED

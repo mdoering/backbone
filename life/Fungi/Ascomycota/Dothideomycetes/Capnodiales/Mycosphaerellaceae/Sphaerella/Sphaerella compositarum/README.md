@@ -1,5 +1,4 @@
-Sphaerella compositarum Auersw. SPECIES
-=======
+# Sphaerella compositarum Auersw. SPECIES
 
 #### Status
 ACCEPTED

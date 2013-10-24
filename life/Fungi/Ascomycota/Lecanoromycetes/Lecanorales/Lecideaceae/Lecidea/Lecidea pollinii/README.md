@@ -1,5 +1,4 @@
-Lecidea pollinii (A. Massal.) Hue SPECIES
-=======
+# Lecidea pollinii (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

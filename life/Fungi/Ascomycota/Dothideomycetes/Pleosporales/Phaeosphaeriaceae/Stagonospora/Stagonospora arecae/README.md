@@ -1,5 +1,4 @@
-Stagonospora arecae Died. SPECIES
-=======
+# Stagonospora arecae Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema minutum (Hale) Hale SPECIES
-=======
+# Myriotrema minutum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella americanicola (Gucevic) Vanev & Aa SPECIES
-=======
+# Asteromella americanicola (Gucevic) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

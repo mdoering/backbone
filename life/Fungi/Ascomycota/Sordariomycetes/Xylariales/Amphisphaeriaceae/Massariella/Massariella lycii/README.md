@@ -1,5 +1,4 @@
-Massariella lycii Hazsl. SPECIES
-=======
+# Massariella lycii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

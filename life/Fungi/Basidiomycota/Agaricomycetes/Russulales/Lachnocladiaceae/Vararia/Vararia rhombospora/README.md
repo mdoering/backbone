@@ -1,5 +1,4 @@
-Vararia rhombospora Boidin & Lanq., 1977 SPECIES
-=======
+# Vararia rhombospora Boidin & Lanq., 1977 SPECIES
 
 #### Status
 ACCEPTED

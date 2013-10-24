@@ -1,5 +1,4 @@
-Plicariella fuliginea Rehm SPECIES
-=======
+# Plicariella fuliginea Rehm SPECIES
 
 #### Status
 ACCEPTED

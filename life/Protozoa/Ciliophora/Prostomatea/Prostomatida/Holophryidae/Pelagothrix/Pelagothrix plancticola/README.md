@@ -1,5 +1,4 @@
-Pelagothrix plancticola Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Pelagothrix plancticola Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

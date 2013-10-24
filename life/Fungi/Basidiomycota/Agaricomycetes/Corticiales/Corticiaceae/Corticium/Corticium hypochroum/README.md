@@ -1,5 +1,4 @@
-Corticium hypochroum Petch SPECIES
-=======
+# Corticium hypochroum Petch SPECIES
 
 #### Status
 ACCEPTED

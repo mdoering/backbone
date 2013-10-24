@@ -1,5 +1,4 @@
-Inocybe echinospora Egeland SPECIES
-=======
+# Inocybe echinospora Egeland SPECIES
 
 #### Status
 ACCEPTED

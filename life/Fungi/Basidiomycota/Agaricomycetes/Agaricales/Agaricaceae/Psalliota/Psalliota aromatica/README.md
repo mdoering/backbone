@@ -1,5 +1,4 @@
-Psalliota aromatica Velen. SPECIES
-=======
+# Psalliota aromatica Velen. SPECIES
 
 #### Status
 ACCEPTED

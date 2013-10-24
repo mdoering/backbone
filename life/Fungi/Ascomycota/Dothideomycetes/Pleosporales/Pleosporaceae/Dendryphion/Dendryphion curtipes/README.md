@@ -1,5 +1,4 @@
-Dendryphion curtipes Ellis & Barthol. SPECIES
-=======
+# Dendryphion curtipes Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

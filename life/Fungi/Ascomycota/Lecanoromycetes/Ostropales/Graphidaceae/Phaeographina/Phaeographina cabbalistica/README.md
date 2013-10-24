@@ -1,5 +1,4 @@
-Phaeographina cabbalistica (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographina cabbalistica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

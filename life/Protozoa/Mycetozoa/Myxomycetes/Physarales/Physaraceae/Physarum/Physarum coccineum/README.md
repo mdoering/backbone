@@ -1,5 +1,4 @@
-Physarum coccineum Fr. SPECIES
-=======
+# Physarum coccineum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis gelidoides I.M. Lamb SPECIES
-=======
+# Placopsis gelidoides I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

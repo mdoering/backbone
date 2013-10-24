@@ -1,5 +1,4 @@
-Eupoikilofusa parvuligranosa Loeblich & Tappan, 1978 SPECIES
-=======
+# Eupoikilofusa parvuligranosa Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus glauconiveus Samson & W. Gams SPECIES
-=======
+# Aspergillus glauconiveus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

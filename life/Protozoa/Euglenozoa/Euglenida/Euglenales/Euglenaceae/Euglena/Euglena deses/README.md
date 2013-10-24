@@ -1,5 +1,4 @@
-Euglena deses var. vermiformis VARIETY
-=======
+# Euglena deses Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

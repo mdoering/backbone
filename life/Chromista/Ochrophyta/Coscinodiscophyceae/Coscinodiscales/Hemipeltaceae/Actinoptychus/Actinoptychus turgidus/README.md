@@ -1,5 +1,4 @@
-Actinoptychus turgidus (J.A.Tempère & J.-J.Brun) J.A.Tempère & J.-J.Brun, 1892 SPECIES
-=======
+# Actinoptychus turgidus (J.A.Tempère & J.-J.Brun) J.A.Tempère & J.-J.Brun, 1892 SPECIES
 
 #### Status
 ACCEPTED

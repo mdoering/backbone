@@ -1,5 +1,4 @@
-Caloplaca nashii Nav.-Ros., Gaya & Hladún SPECIES
-=======
+# Caloplaca nashii Nav.-Ros., Gaya & Hladún SPECIES
 
 #### Status
 ACCEPTED

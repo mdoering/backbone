@@ -1,5 +1,4 @@
-Dothiorella catalpae Schwarzman SPECIES
-=======
+# Dothiorella catalpae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

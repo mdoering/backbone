@@ -1,5 +1,4 @@
-Graphina heterospora J. Steiner SPECIES
-=======
+# Graphina heterospora J. Steiner SPECIES
 
 #### Status
 ACCEPTED

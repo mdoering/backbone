@@ -1,5 +1,4 @@
-Lobaria lobulata Yoshim. SPECIES
-=======
+# Lobaria lobulata Yoshim. SPECIES
 
 #### Status
 ACCEPTED

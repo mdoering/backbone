@@ -1,5 +1,4 @@
-Maylisoriidae Bykova, 1961 FAMILY
-=======
+# Maylisoriidae Bykova, 1961 FAMILY
 
 #### Status
 ACCEPTED

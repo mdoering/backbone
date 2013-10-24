@@ -1,5 +1,4 @@
-Halosiphon Jaasund, 1957 GENUS
-=======
+# Halosiphon Jaasund, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratrochammina globorotaliformis (Zheng, 1988) SPECIES
-=======
+# Paratrochammina globorotaliformis (Zheng, 1988) SPECIES
 
 #### Status
 ACCEPTED

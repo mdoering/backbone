@@ -1,5 +1,4 @@
-Vaginicola vorticella SPECIES
-=======
+# Vaginicola vorticella SPECIES
 
 #### Status
 ACCEPTED

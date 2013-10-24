@@ -1,5 +1,4 @@
-Rhabdospora magna Sacc. SPECIES
-=======
+# Rhabdospora magna Sacc. SPECIES
 
 #### Status
 ACCEPTED

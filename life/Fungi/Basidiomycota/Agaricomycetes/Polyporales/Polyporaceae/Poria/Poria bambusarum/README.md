@@ -1,5 +1,4 @@
-Poria bambusarum Rick SPECIES
-=======
+# Poria bambusarum Rick SPECIES
 
 #### Status
 ACCEPTED

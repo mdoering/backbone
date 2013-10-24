@@ -1,5 +1,4 @@
-Lichenoconium Petr. & Syd. GENUS
-=======
+# Lichenoconium Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

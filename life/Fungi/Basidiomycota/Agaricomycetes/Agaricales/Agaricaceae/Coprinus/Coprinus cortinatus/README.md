@@ -1,5 +1,4 @@
-Coprinus cortinatus J.E. Lange, 1915 SPECIES
-=======
+# Coprinus cortinatus J.E. Lange, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria spilomatica (Schaer.) Trevis. SPECIES
-=======
+# Urceolaria spilomatica (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

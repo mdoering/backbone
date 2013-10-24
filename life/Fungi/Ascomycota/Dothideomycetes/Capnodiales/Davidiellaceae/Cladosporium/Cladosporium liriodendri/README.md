@@ -1,5 +1,4 @@
-Cladosporium liriodendri K. Schub. & U. Braun SPECIES
-=======
+# Cladosporium liriodendri K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

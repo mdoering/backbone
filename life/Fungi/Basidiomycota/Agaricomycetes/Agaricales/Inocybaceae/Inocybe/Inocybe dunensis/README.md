@@ -1,17 +1,16 @@
-Inocybe maritima var. maritima VARIETY
-=======
+# Inocybe dunensis P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 32: 457 (1879)
+Trans. Br. mycol. Soc. 43(2): 277 (1960)
 
 #### Original name
-Inocybe maritima var. maritima
+Inocybe dunensis P.D. Orton, 1960
 
 ### Remarks
 null

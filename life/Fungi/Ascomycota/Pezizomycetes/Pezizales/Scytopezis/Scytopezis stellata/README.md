@@ -1,5 +1,4 @@
-Scytopezis stellata Clem. SPECIES
-=======
+# Scytopezis stellata Clem. SPECIES
 
 #### Status
 ACCEPTED

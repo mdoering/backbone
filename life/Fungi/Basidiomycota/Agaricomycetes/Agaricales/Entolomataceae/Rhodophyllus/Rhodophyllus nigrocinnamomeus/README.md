@@ -1,5 +1,4 @@
-Rhodophyllus nigrocinnamomeus (Kalchbr. & Schulzer) J. Favre SPECIES
-=======
+# Rhodophyllus nigrocinnamomeus (Kalchbr. & Schulzer) J. Favre SPECIES
 
 #### Status
 ACCEPTED

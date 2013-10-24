@@ -1,5 +1,4 @@
-Boletus woodiae (Murrill) Murrill SPECIES
-=======
+# Boletus woodiae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

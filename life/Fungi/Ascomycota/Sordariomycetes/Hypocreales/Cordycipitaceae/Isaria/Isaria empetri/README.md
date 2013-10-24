@@ -1,5 +1,4 @@
-Isaria empetri Lind SPECIES
-=======
+# Isaria empetri Lind SPECIES
 
 #### Status
 ACCEPTED

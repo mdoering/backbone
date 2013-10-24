@@ -1,5 +1,4 @@
-Camarosporium comari Henn. SPECIES
-=======
+# Camarosporium comari Henn. SPECIES
 
 #### Status
 ACCEPTED

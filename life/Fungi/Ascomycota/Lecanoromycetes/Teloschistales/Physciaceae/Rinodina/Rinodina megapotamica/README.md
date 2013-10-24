@@ -1,5 +1,4 @@
-Rinodina megapotamica H. Magn. SPECIES
-=======
+# Rinodina megapotamica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

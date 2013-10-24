@@ -1,17 +1,16 @@
-Myriogonium odontiae Cain, 1948 SPECIES
-=======
+# Helicogonium odontiae (Cain) Baral, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 69(1-2): 46 (1999)
 
 #### Original name
-null
+Myriogonium odontiae Cain, 1948
 
 ### Remarks
 null

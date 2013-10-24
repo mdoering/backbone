@@ -1,8 +1,7 @@
-Aureobacterium liquefaciens (ex Orla-Jensen, 1919) Collins et al., 1983 SPECIES
-=======
+# Microbacterium liquefaciens (Collins et al., 1983) Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

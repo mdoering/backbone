@@ -1,5 +1,4 @@
-Cucumifora Mikhailova, 1986 GENUS
-=======
+# Cucumifora Mikhailova, 1986 GENUS
 
 #### Status
 ACCEPTED

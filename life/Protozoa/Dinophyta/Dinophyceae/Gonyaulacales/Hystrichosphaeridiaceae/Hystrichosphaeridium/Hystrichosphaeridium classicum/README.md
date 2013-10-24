@@ -1,5 +1,4 @@
-Hystrichosphaeridium classicum Deunff, 1967 SPECIES
-=======
+# Hystrichosphaeridium classicum Deunff, 1967 SPECIES
 
 #### Status
 ACCEPTED

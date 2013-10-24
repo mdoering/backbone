@@ -1,5 +1,4 @@
-Diaphanium lacteum Fr. SPECIES
-=======
+# Diaphanium lacteum Fr. SPECIES
 
 #### Status
 ACCEPTED

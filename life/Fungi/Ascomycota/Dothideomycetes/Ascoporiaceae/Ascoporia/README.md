@@ -1,5 +1,4 @@
-Ascoporia GENUS
-=======
+# Ascoporia GENUS
 
 #### Status
 ACCEPTED

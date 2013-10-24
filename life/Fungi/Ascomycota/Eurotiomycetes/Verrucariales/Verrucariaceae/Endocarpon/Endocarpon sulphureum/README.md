@@ -1,5 +1,4 @@
-Endocarpon sulphureum Taylor SPECIES
-=======
+# Endocarpon sulphureum Taylor SPECIES
 
 #### Status
 ACCEPTED

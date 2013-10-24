@@ -1,5 +1,4 @@
-Gloeosporium euonymicola Sousa da Câmara SPECIES
-=======
+# Gloeosporium euonymicola Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Oligoporus caesioflavus (Pat.) Baltazar, Michels & Log.-Leite, 2008 SPECIES
-=======
+# Tyromyces caesioflavus (Pat.) J. Carranza, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 104: 210 (2008)
+Mycotaxon 15: 405 (1982)
 
 #### Original name
 Polyporus caesioflavus Pat., 1892

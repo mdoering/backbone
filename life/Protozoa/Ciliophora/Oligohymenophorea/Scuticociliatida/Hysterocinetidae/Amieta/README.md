@@ -1,5 +1,4 @@
-Amieta Ngassam & Grain, 1998 GENUS
-=======
+# Amieta Ngassam & Grain, 1998 GENUS
 
 #### Status
 ACCEPTED

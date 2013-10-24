@@ -1,5 +1,4 @@
-Pseudocercospora richardsoniae Crous & M.P.S. Câmara SPECIES
-=======
+# Pseudocercospora richardsoniae Crous & M.P.S. Câmara SPECIES
 
 #### Status
 ACCEPTED

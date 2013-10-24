@@ -1,5 +1,4 @@
-Peziza prassinula P. Karst. SPECIES
-=======
+# Peziza prassinula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

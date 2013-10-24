@@ -1,5 +1,4 @@
-Ascochyta celosiae Nelen SPECIES
-=======
+# Ascochyta celosiae Nelen SPECIES
 
 #### Status
 ACCEPTED

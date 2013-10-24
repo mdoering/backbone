@@ -1,5 +1,4 @@
-Aecidium solani Mont. SPECIES
-=======
+# Aecidium solani Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia microcarpa Erichsen ex Keissl. SPECIES
-=======
+# Arthopyrenia microcarpa Erichsen ex Keissl. SPECIES
 
 #### Status
 ACCEPTED

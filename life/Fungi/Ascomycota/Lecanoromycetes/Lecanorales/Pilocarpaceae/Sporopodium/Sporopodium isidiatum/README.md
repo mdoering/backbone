@@ -1,5 +1,4 @@
-Sporopodium isidiatum Sérus. & Lücking SPECIES
-=======
+# Sporopodium isidiatum Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

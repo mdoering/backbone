@@ -1,5 +1,4 @@
-Porina ginsbergeri Zahlbr. SPECIES
-=======
+# Porina ginsbergeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

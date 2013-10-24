@@ -1,5 +1,4 @@
-Diplodina iridis Pass. SPECIES
-=======
+# Diplodina iridis Pass. SPECIES
 
 #### Status
 ACCEPTED

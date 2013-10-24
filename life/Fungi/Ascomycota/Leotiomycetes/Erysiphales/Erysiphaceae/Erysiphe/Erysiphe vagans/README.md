@@ -1,5 +1,4 @@
-Erysiphe vagans Biv. SPECIES
-=======
+# Erysiphe vagans Biv. SPECIES
 
 #### Status
 ACCEPTED

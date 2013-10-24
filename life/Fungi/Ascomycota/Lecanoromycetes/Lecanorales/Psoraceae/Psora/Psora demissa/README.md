@@ -1,5 +1,4 @@
-Psora demissa Hepp SPECIES
-=======
+# Psora demissa Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium subglobosum Cooke & Ravenel SPECIES
-=======
+# Macrosporium subglobosum Cooke & Ravenel SPECIES
 
 #### Status
 ACCEPTED

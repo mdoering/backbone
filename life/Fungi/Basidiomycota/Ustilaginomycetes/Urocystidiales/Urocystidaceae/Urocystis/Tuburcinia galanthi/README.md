@@ -1,5 +1,4 @@
-Tuburcinia galanthi (H. Pape) Liro SPECIES
-=======
+# Tuburcinia galanthi (H. Pape) Liro SPECIES
 
 #### Status
 ACCEPTED

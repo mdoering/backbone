@@ -1,5 +1,4 @@
-Aecidium compositarum var. compositarum VARIETY
-=======
+# Aecidium compositarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. crypt. erlang. (Nürnberg) 314 (1817)
 
 #### Original name
-Aecidium compositarum var. compositarum
+Aecidium compositarum Rabenh.
 
 ### Remarks
 null

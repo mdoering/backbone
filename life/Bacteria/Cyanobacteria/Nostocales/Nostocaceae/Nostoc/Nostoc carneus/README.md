@@ -1,5 +1,4 @@
-Nostoc carneus C. Agardh ex Bornet & Flahault SPECIES
-=======
+# Nostoc carneus C. Agardh ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

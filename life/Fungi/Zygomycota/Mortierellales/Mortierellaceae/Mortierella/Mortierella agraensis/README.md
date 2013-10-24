@@ -1,5 +1,4 @@
-Mortierella agraensis B.S. Mehrotra & Baijal SPECIES
-=======
+# Mortierella agraensis B.S. Mehrotra & Baijal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia australasica (D. J. Galloway) Filson SPECIES
-=======
+# Xanthoparmelia australasica D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 30(5): 519 (1982)
+N. Z. Jl Bot. 18(4): 531 (1981)
 
 #### Original name
 Xanthoparmelia australasica D. J. Galloway

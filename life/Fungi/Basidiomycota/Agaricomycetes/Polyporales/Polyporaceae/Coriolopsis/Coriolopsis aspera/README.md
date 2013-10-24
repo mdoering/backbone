@@ -1,17 +1,16 @@
-Polystictus konigii (Berk.) Cooke SPECIES
-=======
+# Coriolopsis aspera (Jungh.) Teng, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Chung-kuo Ti Chen-chun, [Fungi of China] 759 (1963)
 
 #### Original name
-Polyporus koenigii Berk., 1839
+Polyporus asper Jungh., 1838
 
 ### Remarks
 null

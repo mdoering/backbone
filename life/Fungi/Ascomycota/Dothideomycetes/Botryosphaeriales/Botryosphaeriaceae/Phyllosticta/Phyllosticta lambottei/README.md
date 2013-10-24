@@ -1,5 +1,4 @@
-Phyllosticta lambottei Allesch. SPECIES
-=======
+# Phyllosticta lambottei Allesch. SPECIES
 
 #### Status
 ACCEPTED

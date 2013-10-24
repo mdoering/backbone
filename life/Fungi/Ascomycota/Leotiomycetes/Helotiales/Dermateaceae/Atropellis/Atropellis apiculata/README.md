@@ -1,5 +1,4 @@
-Atropellis apiculata M.L. Lohman, E.K. Cash & R.W. Davidson SPECIES
-=======
+# Atropellis apiculata M.L. Lohman, E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

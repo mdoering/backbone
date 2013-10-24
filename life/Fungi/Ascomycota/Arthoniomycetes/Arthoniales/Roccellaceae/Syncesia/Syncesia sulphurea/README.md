@@ -1,5 +1,4 @@
-Syncesia sulphurea (Vain.) Tehler SPECIES
-=======
+# Syncesia sulphurea (Vain.) Tehler SPECIES
 
 #### Status
 ACCEPTED

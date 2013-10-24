@@ -1,5 +1,4 @@
-Aecidium crepidicola Ellis & Galloway SPECIES
-=======
+# Aecidium crepidicola Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Osmoporus odoratus f. odoratus FORM
-=======
+# Gloeophyllum odoratum (Wulfen) Imazeki, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(1): 67 (1944)
+Bull. Tokyo Sci. Mus. 6: 75 (1943)
 
 #### Original name
-Osmoporus odoratus f. odoratus
+Boletus odoratus Wulfen, 1788
 
 ### Remarks
 null

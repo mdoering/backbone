@@ -1,5 +1,4 @@
-Lecanora werneri Bertrand {?} SPECIES
-=======
+# Lecanora werneri Bertrand {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmocephala elegans R.F. Castañeda, 1985 SPECIES
-=======
+# Phragmocephala elegans R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

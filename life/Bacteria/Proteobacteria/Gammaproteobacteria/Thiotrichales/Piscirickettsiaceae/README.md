@@ -1,5 +1,4 @@
-Piscirickettsiaceae FAMILY
-=======
+# Piscirickettsiaceae FAMILY
 
 #### Status
 ACCEPTED

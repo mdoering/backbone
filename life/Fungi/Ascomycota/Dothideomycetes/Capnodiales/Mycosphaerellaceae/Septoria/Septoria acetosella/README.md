@@ -1,5 +1,4 @@
-Septoria acetosella Dearn. & House SPECIES
-=======
+# Septoria acetosella Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

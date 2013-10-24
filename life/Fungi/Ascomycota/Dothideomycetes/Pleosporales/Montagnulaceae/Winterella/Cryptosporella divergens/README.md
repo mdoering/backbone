@@ -1,5 +1,4 @@
-Cryptosporella divergens (Schwein.) Berl. & Voglino SPECIES
-=======
+# Cryptosporella divergens (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

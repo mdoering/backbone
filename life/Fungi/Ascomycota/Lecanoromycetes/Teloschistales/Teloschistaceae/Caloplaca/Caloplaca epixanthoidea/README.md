@@ -1,5 +1,4 @@
-Caloplaca epixanthoidea (Räsänen) Zahlbr. SPECIES
-=======
+# Caloplaca epixanthoidea (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

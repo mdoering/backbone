@@ -1,5 +1,4 @@
-Stenotrophomonas acidaminiphila Assih et al., 2002 SPECIES
-=======
+# Stenotrophomonas acidaminiphila Assih et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

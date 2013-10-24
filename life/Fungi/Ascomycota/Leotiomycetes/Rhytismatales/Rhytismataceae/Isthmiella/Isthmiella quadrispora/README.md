@@ -1,5 +1,4 @@
-Isthmiella quadrispora Ziller, 1968 SPECIES
-=======
+# Isthmiella quadrispora Ziller, 1968 SPECIES
 
 #### Status
 ACCEPTED

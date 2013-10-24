@@ -1,5 +1,4 @@
-Ciboria alnetorum Velen. SPECIES
-=======
+# Ciboria alnetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

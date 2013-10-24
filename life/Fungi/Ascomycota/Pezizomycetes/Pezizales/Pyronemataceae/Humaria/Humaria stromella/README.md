@@ -1,5 +1,4 @@
-Humaria stromella Cooke & W. Phillips, 1891 SPECIES
-=======
+# Humaria stromella Cooke & W. Phillips, 1891 SPECIES
 
 #### Status
 ACCEPTED

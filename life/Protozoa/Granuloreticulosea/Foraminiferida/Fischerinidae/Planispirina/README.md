@@ -1,5 +1,4 @@
-Planispirina Seguenza, 1880 GENUS
-=======
+# Planispirina Seguenza, 1880 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia limasepta Luck-Allen & Cain SPECIES
-=======
+# Delitschia limasepta Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

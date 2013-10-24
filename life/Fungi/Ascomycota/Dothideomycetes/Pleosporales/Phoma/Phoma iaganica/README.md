@@ -1,5 +1,4 @@
-Phoma iaganica Speg. SPECIES
-=======
+# Phoma iaganica Speg. SPECIES
 
 #### Status
 ACCEPTED

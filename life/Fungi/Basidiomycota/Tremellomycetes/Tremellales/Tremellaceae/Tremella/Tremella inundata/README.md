@@ -1,5 +1,4 @@
-Tremella inundata anon. SPECIES
-=======
+# Tremella inundata anon. SPECIES
 
 #### Status
 ACCEPTED

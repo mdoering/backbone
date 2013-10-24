@@ -1,5 +1,4 @@
-Graphis humilis Vain. SPECIES
-=======
+# Graphis humilis Vain. SPECIES
 
 #### Status
 ACCEPTED

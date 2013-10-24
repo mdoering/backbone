@@ -1,5 +1,4 @@
-Dactylella stenobrocha Drechsler SPECIES
-=======
+# Dactylella stenobrocha Drechsler SPECIES
 
 #### Status
 ACCEPTED

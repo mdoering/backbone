@@ -1,17 +1,16 @@
-Mycophycophila Cribb & J.W. Cribb GENUS
-=======
+# Chadefaudia Feldm.-Maz. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Queensland Papers (Botany) 4: 42 (1960)
+Rev. gén. Bot. 64: 150 (1957)
 
 #### Original name
-Mycophycophila Cribb & J.W. Cribb
+Chadefaudia Feldm.-Maz.
 
 ### Remarks
 null

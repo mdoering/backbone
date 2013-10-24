@@ -1,17 +1,16 @@
-Phomopsis litchi-chinensis T.P. Devi & Chowdhry SPECIES
-=======
+# Phomopsis litchii-chinensis T.P. Devi & Chowdhry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 57(4): 504 (2004)
 
 #### Original name
-Phomopsis litchi-chinensis T.P. Devi & Chowdhry
+Phomopsis litchii-chinensis T.P. Devi & Chowdhry
 
 ### Remarks
 null

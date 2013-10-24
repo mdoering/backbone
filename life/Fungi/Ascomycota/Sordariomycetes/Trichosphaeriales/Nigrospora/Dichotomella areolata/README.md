@@ -1,5 +1,4 @@
-Dichotomella areolata Sacc. SPECIES
-=======
+# Dichotomella areolata Sacc. SPECIES
 
 #### Status
 ACCEPTED

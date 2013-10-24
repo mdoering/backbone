@@ -1,5 +1,4 @@
-Verrucaria zamenhofiana Clauzade & Cl. Roux SPECIES
-=======
+# Verrucaria zamenhofiana Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

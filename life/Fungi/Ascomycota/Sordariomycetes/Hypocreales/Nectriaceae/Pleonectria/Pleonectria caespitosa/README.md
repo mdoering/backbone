@@ -1,5 +1,4 @@
-Pleonectria caespitosa (Speg.) Wollenw. SPECIES
-=======
+# Pleonectria caespitosa (Speg.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

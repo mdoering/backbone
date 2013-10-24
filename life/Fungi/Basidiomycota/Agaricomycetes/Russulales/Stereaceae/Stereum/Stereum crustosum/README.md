@@ -1,5 +1,4 @@
-Stereum crustosum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Stereum crustosum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

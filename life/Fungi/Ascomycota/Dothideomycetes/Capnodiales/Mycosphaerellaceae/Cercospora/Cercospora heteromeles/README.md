@@ -1,5 +1,4 @@
-Cercospora heteromeles Harkn. SPECIES
-=======
+# Cercospora heteromeles Harkn. SPECIES
 
 #### Status
 ACCEPTED

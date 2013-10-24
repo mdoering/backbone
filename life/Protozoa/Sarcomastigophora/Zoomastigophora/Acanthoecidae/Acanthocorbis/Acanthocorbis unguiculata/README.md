@@ -1,8 +1,7 @@
-Acanthoecopsis unguiculata Thomsen, 1973 SPECIES
-=======
+# Acanthocorbis unguiculata (Thomsen, 1973) Hara & Takahashi, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

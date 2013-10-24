@@ -1,5 +1,4 @@
-Macrophoma pentatropidis S. Ahmad SPECIES
-=======
+# Macrophoma pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

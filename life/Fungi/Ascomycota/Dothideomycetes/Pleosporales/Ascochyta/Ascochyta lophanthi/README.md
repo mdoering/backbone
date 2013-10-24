@@ -1,5 +1,4 @@
-Ascochyta lophanthi var. lophanthi VARIETY
-=======
+# Ascochyta lophanthi Davis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta lophanthi var. lophanthi
+Ascochyta lophanthi Davis
 
 ### Remarks
 null

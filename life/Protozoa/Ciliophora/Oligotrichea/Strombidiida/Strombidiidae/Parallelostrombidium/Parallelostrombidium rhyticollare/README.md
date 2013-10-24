@@ -1,8 +1,7 @@
-Strombidium rhyticollare Corliss & Snyder, 1986 SPECIES
-=======
+# Parallelostrombidium rhyticollare (Corliss & Snyder, 1986) Agatha, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

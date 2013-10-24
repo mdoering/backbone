@@ -1,5 +1,4 @@
-Glenodinium ulinginosum SPECIES
-=======
+# Glenodinium ulinginosum SPECIES
 
 #### Status
 ACCEPTED

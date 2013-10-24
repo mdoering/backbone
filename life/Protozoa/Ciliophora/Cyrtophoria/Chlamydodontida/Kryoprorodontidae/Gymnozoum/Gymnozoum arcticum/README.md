@@ -1,5 +1,4 @@
-Gymnozoum arcticum Alekperov & Mamajeva, 1992 SPECIES
-=======
+# Gymnozoum arcticum Alekperov & Mamajeva, 1992 SPECIES
 
 #### Status
 ACCEPTED

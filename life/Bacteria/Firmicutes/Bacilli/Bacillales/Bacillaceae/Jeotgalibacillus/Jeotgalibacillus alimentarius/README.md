@@ -1,5 +1,4 @@
-Jeotgalibacillus alimentarius Yoon et al., 2001 SPECIES
-=======
+# Jeotgalibacillus alimentarius Yoon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma clarusproprietas Dhingra SPECIES
-=======
+# Hyphoderma clarusproprietas Dhingra SPECIES
 
 #### Status
 ACCEPTED

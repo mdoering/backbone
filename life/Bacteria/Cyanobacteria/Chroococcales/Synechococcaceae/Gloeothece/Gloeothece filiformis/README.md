@@ -1,5 +1,4 @@
-Gloeothece filiformis C.L. Sant'Anna, L.H.Z. Branco & S.M.F. Silva SPECIES
-=======
+# Gloeothece filiformis C.L. Sant'Anna, L.H.Z. Branco & S.M.F. Silva SPECIES
 
 #### Status
 ACCEPTED

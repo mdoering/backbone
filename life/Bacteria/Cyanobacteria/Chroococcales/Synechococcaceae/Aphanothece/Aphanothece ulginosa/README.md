@@ -1,5 +1,4 @@
-Aphanothece ulginosa W. R. Taylor SPECIES
-=======
+# Aphanothece ulginosa W. R. Taylor SPECIES
 
 #### Status
 ACCEPTED

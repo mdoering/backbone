@@ -1,5 +1,4 @@
-Gomphidius borealis O.K. Mill., Aime & Peintner, 2002 SPECIES
-=======
+# Gomphidius borealis O.K. Mill., Aime & Peintner, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrospermum caucasicum Woronichin SPECIES
-=======
+# Cylindrospermum caucasicum Woronichin SPECIES
 
 #### Status
 ACCEPTED

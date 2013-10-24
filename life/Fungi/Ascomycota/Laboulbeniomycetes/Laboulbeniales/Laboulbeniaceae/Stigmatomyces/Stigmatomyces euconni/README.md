@@ -1,5 +1,4 @@
-Stigmatomyces euconni F. Picard SPECIES
-=======
+# Stigmatomyces euconni F. Picard SPECIES
 
 #### Status
 ACCEPTED

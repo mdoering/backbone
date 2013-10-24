@@ -1,5 +1,4 @@
-Calocera guepinia Holterm. SPECIES
-=======
+# Calocera guepinia Holterm. SPECIES
 
 #### Status
 ACCEPTED

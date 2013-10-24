@@ -1,8 +1,7 @@
-Rhinocladiella cellaris (Pers.) M.B. Ellis, 1971 SPECIES
-=======
+# Rhinocladiella ellisii D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

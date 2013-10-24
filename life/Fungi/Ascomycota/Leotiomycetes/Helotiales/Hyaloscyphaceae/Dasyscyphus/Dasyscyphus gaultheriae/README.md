@@ -1,8 +1,7 @@
-Dasyscypha gaultheriae (Ellis & Everh.) SPECIES
-=======
+# Dasyscyphus gaultheriae (Ellis & Everh.) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

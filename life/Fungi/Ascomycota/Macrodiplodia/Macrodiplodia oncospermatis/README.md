@@ -1,5 +1,4 @@
-Macrodiplodia oncospermatis (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Macrodiplodia oncospermatis (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

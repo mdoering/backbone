@@ -1,5 +1,4 @@
-Textularia sanyaensis Sun, 1993 SPECIES
-=======
+# Textularia sanyaensis Sun, 1993 SPECIES
 
 #### Status
 ACCEPTED

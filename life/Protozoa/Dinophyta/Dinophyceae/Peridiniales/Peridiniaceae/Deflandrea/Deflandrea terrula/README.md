@@ -1,5 +1,4 @@
-Deflandrea terrula R. J. Davey SPECIES
-=======
+# Deflandrea terrula R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium juncacearum Höhn. SPECIES
-=======
+# Amerosporium juncacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

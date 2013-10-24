@@ -1,5 +1,4 @@
-Godronia menziesiae J.W. Groves SPECIES
-=======
+# Godronia menziesiae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

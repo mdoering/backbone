@@ -1,5 +1,4 @@
-Lophomarginata variabilis Naumova in Pykhova, 1969 SPECIES
-=======
+# Lophomarginata variabilis Naumova in Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

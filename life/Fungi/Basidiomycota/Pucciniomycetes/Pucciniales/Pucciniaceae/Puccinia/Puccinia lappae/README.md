@@ -1,5 +1,4 @@
-Puccinia lappae Castagne SPECIES
-=======
+# Puccinia lappae Castagne SPECIES
 
 #### Status
 ACCEPTED

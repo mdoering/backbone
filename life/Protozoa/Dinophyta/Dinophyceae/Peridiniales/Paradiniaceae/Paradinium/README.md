@@ -1,5 +1,4 @@
-Paradinium Chatton GENUS
-=======
+# Paradinium Chatton GENUS
 
 #### Status
 ACCEPTED

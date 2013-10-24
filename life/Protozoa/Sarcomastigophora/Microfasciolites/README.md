@@ -1,5 +1,4 @@
-Microfasciolites Gaemers, 1978 GENUS
-=======
+# Microfasciolites Gaemers, 1978 GENUS
 
 #### Status
 ACCEPTED

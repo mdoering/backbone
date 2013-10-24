@@ -1,5 +1,4 @@
-Dothidea maculicola E. Bommer & M. Rousseau SPECIES
-=======
+# Dothidea maculicola E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

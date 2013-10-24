@@ -1,5 +1,4 @@
-Fugomyces Sigler GENUS
-=======
+# Fugomyces Sigler GENUS
 
 #### Status
 ACCEPTED

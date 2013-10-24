@@ -1,5 +1,4 @@
-Cercospora bagdogrensis A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora bagdogrensis A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

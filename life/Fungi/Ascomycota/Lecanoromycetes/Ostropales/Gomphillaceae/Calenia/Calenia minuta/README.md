@@ -1,5 +1,4 @@
-Calenia minuta Lücking SPECIES
-=======
+# Calenia minuta Lücking SPECIES
 
 #### Status
 ACCEPTED

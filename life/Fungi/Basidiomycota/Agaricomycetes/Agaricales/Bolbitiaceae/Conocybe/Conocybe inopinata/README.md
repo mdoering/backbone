@@ -1,5 +1,4 @@
-Conocybe inopinata Hauskn. & Contu SPECIES
-=======
+# Conocybe inopinata Hauskn. & Contu SPECIES
 
 #### Status
 ACCEPTED

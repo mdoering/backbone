@@ -1,5 +1,4 @@
-Hohenbuehelia aciculospora R.H. Petersen, 1985 SPECIES
-=======
+# Hohenbuehelia aciculospora R.H. Petersen, 1985 SPECIES
 
 #### Status
 ACCEPTED

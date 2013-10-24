@@ -1,5 +1,4 @@
-Cortinarius quaerendus Rob. Henry SPECIES
-=======
+# Cortinarius quaerendus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otthiella cassiae Tilak SPECIES
-=======
+# Otthiella cassiae Tilak SPECIES
 
 #### Status
 ACCEPTED

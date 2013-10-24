@@ -1,5 +1,4 @@
-Dyadosporites acutus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites acutus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

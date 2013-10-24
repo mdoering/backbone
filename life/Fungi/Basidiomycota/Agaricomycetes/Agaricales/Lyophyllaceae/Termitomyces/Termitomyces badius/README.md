@@ -1,5 +1,4 @@
-Termitomyces badius Otieno SPECIES
-=======
+# Termitomyces badius Otieno SPECIES
 
 #### Status
 ACCEPTED

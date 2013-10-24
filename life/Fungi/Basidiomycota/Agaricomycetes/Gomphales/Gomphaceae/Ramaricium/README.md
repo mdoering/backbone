@@ -1,5 +1,4 @@
-Ramaricium J. Erikss. GENUS
-=======
+# Ramaricium J. Erikss. GENUS
 
 #### Status
 ACCEPTED

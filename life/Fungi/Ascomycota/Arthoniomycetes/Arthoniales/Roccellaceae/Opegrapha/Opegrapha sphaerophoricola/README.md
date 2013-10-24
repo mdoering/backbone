@@ -1,5 +1,4 @@
-Opegrapha sphaerophoricola Isbrand & Alstrup SPECIES
-=======
+# Opegrapha sphaerophoricola Isbrand & Alstrup SPECIES
 
 #### Status
 ACCEPTED

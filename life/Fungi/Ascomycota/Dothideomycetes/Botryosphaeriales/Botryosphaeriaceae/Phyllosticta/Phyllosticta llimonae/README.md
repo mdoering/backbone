@@ -1,5 +1,4 @@
-Phyllosticta llimonae Bertault SPECIES
-=======
+# Phyllosticta llimonae Bertault SPECIES
 
 #### Status
 ACCEPTED

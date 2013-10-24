@@ -1,5 +1,4 @@
-Botryophoma populicola (P. Karst.) Höhn. SPECIES
-=======
+# Botryophoma populicola (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

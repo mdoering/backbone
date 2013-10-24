@@ -1,5 +1,4 @@
-Physcia subpicta Nyl. SPECIES
-=======
+# Physcia subpicta Nyl. SPECIES
 
 #### Status
 ACCEPTED

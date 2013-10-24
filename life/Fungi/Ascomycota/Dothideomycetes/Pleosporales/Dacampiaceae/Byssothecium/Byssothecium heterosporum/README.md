@@ -1,5 +1,4 @@
-Byssothecium heterosporum Niessl SPECIES
-=======
+# Byssothecium heterosporum Niessl SPECIES
 
 #### Status
 ACCEPTED

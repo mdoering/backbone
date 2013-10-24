@@ -1,5 +1,4 @@
-Marasmius squamifolius (Murrill) Sacc. & Trotter SPECIES
-=======
+# Marasmius squamifolius (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

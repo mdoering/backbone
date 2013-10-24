@@ -1,5 +1,4 @@
-Vesiculosphaerina punctata Lopukhin, 1974 SPECIES
-=======
+# Vesiculosphaerina punctata Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

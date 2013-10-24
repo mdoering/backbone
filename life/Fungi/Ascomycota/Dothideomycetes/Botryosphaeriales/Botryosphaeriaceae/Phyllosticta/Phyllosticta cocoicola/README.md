@@ -1,5 +1,4 @@
-Phyllosticta cocoicola (Bat.) Sivan. SPECIES
-=======
+# Phyllosticta cocoicola (Bat.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora deustata A. Massal. SPECIES
-=======
+# Biatora deustata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

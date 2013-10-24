@@ -1,5 +1,4 @@
-Biatora conglomerata (Fr.) Heyd. {?} SPECIES
-=======
+# Biatora conglomerata (Fr.) Heyd. {?} SPECIES
 
 #### Status
 ACCEPTED

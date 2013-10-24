@@ -1,5 +1,4 @@
-Clostridium schirmacherense Alam et al., 2006 SPECIES
-=======
+# Clostridium schirmacherense Alam et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

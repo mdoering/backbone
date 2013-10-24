@@ -1,17 +1,16 @@
-Macrosporium ramulosum var. ramulosum VARIETY
-=======
+# Alternaria ramulosa (Sacc.) P. Joly, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Le Genre Alternaria (Encycl. Mycol. ) 33: 213 (1964)
 
 #### Original name
-Macrosporium ramulosum var. ramulosum
+Stemphylium ramulosum Sacc., 1878
 
 ### Remarks
 null

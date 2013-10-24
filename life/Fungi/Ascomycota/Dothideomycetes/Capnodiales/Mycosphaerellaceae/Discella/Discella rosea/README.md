@@ -1,5 +1,4 @@
-Discella rosea F. Lamb. & Fautrey SPECIES
-=======
+# Discella rosea F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

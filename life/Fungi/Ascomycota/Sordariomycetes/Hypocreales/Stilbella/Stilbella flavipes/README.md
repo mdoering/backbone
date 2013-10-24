@@ -1,5 +1,4 @@
-Stilbella flavipes (Peck) Seifert, 1985 SPECIES
-=======
+# Stilbella flavipes (Peck) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

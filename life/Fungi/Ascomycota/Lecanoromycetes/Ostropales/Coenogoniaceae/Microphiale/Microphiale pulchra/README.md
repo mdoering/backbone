@@ -1,5 +1,4 @@
-Microphiale pulchra (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Microphiale pulchra (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

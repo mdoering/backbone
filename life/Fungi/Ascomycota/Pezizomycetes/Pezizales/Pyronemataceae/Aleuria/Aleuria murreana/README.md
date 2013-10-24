@@ -1,5 +1,4 @@
-Aleuria murreana S. Ahmad SPECIES
-=======
+# Aleuria murreana S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

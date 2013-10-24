@@ -1,5 +1,4 @@
-Endococcus alectoriae (D. Hawksw.) D. Hawksw. SPECIES
-=======
+# Endococcus alectoriae (D. Hawksw.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

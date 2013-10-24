@@ -1,5 +1,4 @@
-Apteodinium tectatum Piasecki, 1980 SPECIES
-=======
+# Apteodinium tectatum Piasecki, 1980 SPECIES
 
 #### Status
 ACCEPTED

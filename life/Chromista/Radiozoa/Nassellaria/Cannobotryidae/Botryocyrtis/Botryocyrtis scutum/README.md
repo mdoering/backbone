@@ -1,5 +1,4 @@
-Botryocyrtis scutum (Harting) Nigrini, 1967 SPECIES
-=======
+# Botryocyrtis scutum (Harting) Nigrini, 1967 SPECIES
 
 #### Status
 ACCEPTED

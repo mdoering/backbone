@@ -1,5 +1,4 @@
-Hypocrella marostroma SPECIES
-=======
+# Hypocrella marostroma SPECIES
 
 #### Status
 ACCEPTED

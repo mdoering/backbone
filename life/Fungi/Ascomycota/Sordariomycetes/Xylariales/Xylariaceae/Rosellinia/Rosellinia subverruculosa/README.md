@@ -1,5 +1,4 @@
-Rosellinia subverruculosa Rehm SPECIES
-=======
+# Rosellinia subverruculosa Rehm SPECIES
 
 #### Status
 ACCEPTED

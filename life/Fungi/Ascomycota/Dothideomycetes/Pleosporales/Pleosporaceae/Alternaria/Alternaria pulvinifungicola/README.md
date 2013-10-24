@@ -1,5 +1,4 @@
-Alternaria pulvinifungicola E.G. Simmons SPECIES
-=======
+# Alternaria pulvinifungicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

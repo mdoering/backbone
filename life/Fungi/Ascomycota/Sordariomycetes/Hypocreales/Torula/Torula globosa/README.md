@@ -1,5 +1,4 @@
-Torula globosa H.C. Olson & B.W. Hammer SPECIES
-=======
+# Torula globosa H.C. Olson & B.W. Hammer SPECIES
 
 #### Status
 ACCEPTED

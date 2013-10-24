@@ -1,5 +1,4 @@
-Hyalodendron clematidis Hansf. SPECIES
-=======
+# Hyalodendron clematidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

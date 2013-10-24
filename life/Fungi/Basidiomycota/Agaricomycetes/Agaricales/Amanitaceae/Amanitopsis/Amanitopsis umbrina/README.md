@@ -1,5 +1,4 @@
-Amanitopsis umbrina E.-J. Gilbert SPECIES
-=======
+# Amanitopsis umbrina E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

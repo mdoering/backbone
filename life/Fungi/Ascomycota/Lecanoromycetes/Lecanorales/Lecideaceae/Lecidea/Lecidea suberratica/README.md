@@ -1,5 +1,4 @@
-Lecidea suberratica J. Lowe SPECIES
-=======
+# Lecidea suberratica J. Lowe SPECIES
 
 #### Status
 ACCEPTED

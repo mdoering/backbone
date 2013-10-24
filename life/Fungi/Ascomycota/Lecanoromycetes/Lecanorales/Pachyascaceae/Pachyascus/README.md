@@ -1,5 +1,4 @@
-Pachyascus Poelt & Hertel, 1968 GENUS
-=======
+# Pachyascus Poelt & Hertel, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena mustea Har. Takah. SPECIES
-=======
+# Mycena mustea Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

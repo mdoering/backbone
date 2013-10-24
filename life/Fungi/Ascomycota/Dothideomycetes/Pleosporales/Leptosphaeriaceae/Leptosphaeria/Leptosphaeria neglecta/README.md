@@ -1,5 +1,4 @@
-Leptosphaeria neglecta Niessl SPECIES
-=======
+# Leptosphaeria neglecta Niessl SPECIES
 
 #### Status
 ACCEPTED

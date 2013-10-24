@@ -1,17 +1,16 @@
-Aschizotrichum Rieuf GENUS
-=======
+# Wiesneriomyces Koord. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cah. Rech. agron. , Rabat 15: 61 (1962)
+Verh. K. Akad. Wet. , tweede sect. 13: 246 (1907)
 
 #### Original name
-Aschizotrichum Rieuf
+Wiesneriomyces Koord.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fucus undulatus J. Gmelin SPECIES
-=======
+# Fucus undulatus J. Gmelin SPECIES
 
 #### Status
 ACCEPTED

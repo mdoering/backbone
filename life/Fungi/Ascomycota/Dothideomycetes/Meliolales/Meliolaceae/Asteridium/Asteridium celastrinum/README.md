@@ -1,5 +1,4 @@
-Asteridium celastrinum Tassi SPECIES
-=======
+# Asteridium celastrinum Tassi SPECIES
 
 #### Status
 ACCEPTED

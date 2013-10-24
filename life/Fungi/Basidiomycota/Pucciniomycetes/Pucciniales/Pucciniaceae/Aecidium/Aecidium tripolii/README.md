@@ -1,5 +1,4 @@
-Aecidium tripolii Oudem. SPECIES
-=======
+# Aecidium tripolii Oudem. SPECIES
 
 #### Status
 ACCEPTED

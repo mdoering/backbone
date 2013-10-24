@@ -1,5 +1,4 @@
-Hendersonia osteospermi Wakef. SPECIES
-=======
+# Hendersonia osteospermi Wakef. SPECIES
 
 #### Status
 ACCEPTED

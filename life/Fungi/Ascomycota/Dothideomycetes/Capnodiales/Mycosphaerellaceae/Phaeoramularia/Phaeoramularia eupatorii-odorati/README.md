@@ -1,5 +1,4 @@
-Phaeoramularia eupatorii-odorati (J.M. Yen) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia eupatorii-odorati (J.M. Yen) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

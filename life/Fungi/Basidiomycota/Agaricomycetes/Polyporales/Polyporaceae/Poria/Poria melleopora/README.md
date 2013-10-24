@@ -1,5 +1,4 @@
-Poria melleopora (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria melleopora (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

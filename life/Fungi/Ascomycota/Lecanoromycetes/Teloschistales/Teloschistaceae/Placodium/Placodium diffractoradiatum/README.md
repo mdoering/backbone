@@ -1,5 +1,4 @@
-Placodium diffractoradiatum B. de Lesd. SPECIES
-=======
+# Placodium diffractoradiatum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

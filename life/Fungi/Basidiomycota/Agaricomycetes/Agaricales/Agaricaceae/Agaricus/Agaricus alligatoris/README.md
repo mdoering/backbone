@@ -1,17 +1,16 @@
-Agaricus aligatoris Hlavácek SPECIES
-=======
+# Agaricus alligatoris Hlavácek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mykologický Sborník 64(4): 115 (1987)
 
 #### Original name
-Agaricus aligatoris Hlavácek
+Agaricus alligatoris Hlavácek
 
 ### Remarks
 null

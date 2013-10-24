@@ -1,5 +1,4 @@
-Amycolatopsis benzoatilytica Majumdar et al., 2006 SPECIES
-=======
+# Amycolatopsis benzoatilytica Majumdar et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

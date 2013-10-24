@@ -1,5 +1,4 @@
-Septonema curtum Berk. & M.A. Curtis SPECIES
-=======
+# Septonema curtum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

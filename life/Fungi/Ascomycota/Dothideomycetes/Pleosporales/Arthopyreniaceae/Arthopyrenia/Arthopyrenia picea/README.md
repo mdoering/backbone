@@ -1,5 +1,4 @@
-Arthopyrenia picea Shirley SPECIES
-=======
+# Arthopyrenia picea Shirley SPECIES
 
 #### Status
 ACCEPTED

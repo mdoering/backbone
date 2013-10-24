@@ -1,5 +1,4 @@
-Reduviasporonites qingfengensis (Z.C. Song & H.C. Luo) Z.C. Song SPECIES
-=======
+# Reduviasporonites qingfengensis (Z.C. Song & H.C. Luo) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

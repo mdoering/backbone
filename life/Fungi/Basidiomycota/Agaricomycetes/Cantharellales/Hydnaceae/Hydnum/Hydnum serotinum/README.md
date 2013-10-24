@@ -1,5 +1,4 @@
-Hydnum serotinum C.E. Martin SPECIES
-=======
+# Hydnum serotinum C.E. Martin SPECIES
 
 #### Status
 ACCEPTED

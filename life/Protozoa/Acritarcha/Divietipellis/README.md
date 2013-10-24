@@ -1,5 +1,4 @@
-Divietipellis Wicander GENUS
-=======
+# Divietipellis Wicander GENUS
 
 #### Status
 ACCEPTED

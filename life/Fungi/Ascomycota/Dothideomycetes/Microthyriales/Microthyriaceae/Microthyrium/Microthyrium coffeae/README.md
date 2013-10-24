@@ -1,5 +1,4 @@
-Microthyrium coffeae Henn. SPECIES
-=======
+# Microthyrium coffeae Henn. SPECIES
 
 #### Status
 ACCEPTED

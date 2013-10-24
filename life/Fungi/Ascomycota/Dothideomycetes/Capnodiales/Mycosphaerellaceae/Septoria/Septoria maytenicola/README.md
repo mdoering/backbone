@@ -1,5 +1,4 @@
-Septoria maytenicola Speg. SPECIES
-=======
+# Septoria maytenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

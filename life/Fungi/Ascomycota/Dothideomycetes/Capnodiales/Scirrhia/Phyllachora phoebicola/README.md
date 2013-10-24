@@ -1,5 +1,4 @@
-Phyllachora phoebicola Speg., 1912 SPECIES
-=======
+# Phyllachora phoebicola Speg., 1912 SPECIES
 
 #### Status
 DOUBTFUL

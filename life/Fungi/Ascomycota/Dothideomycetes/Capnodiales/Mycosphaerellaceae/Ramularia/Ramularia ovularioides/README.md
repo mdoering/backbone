@@ -1,5 +1,4 @@
-Ramularia ovularioides H.C. Greene SPECIES
-=======
+# Ramularia ovularioides H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

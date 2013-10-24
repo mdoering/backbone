@@ -1,5 +1,4 @@
-Parmelia brunnea (Sw.) Ach. SPECIES
-=======
+# Parmelia brunnea (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

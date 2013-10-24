@@ -1,5 +1,4 @@
-Thallochrysidaceae FAMILY
-=======
+# Thallochrysidaceae FAMILY
 
 #### Status
 ACCEPTED

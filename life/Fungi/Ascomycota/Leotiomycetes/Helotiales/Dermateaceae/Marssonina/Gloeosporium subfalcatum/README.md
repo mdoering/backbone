@@ -1,5 +1,4 @@
-Gloeosporium subfalcatum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Gloeosporium subfalcatum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

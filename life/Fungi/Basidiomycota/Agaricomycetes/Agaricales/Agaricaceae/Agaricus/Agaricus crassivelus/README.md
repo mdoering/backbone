@@ -1,5 +1,4 @@
-Agaricus crassivelus Speg. SPECIES
-=======
+# Agaricus crassivelus Speg. SPECIES
 
 #### Status
 ACCEPTED

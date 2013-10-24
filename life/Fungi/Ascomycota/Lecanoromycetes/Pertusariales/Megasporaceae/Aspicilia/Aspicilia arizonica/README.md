@@ -1,5 +1,4 @@
-Aspicilia arizonica Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia arizonica Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

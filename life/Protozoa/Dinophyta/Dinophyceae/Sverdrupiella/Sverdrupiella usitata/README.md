@@ -1,5 +1,4 @@
-Sverdrupiella usitata Bujak & Fisher, 1976 SPECIES
-=======
+# Sverdrupiella usitata Bujak & Fisher, 1976 SPECIES
 
 #### Status
 ACCEPTED

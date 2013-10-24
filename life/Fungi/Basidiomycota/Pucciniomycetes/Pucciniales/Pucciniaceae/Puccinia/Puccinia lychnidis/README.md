@@ -1,5 +1,4 @@
-Puccinia lychnidis DC. SPECIES
-=======
+# Puccinia lychnidis DC. SPECIES
 
 #### Status
 ACCEPTED

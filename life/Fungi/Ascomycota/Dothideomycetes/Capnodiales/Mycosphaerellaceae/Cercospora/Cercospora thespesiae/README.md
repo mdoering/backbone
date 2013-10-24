@@ -1,5 +1,4 @@
-Cercospora thespesiae Suj. Singh SPECIES
-=======
+# Cercospora thespesiae Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

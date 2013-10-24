@@ -1,5 +1,4 @@
-Echinichona Jankowski, 1973 GENUS
-=======
+# Echinichona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

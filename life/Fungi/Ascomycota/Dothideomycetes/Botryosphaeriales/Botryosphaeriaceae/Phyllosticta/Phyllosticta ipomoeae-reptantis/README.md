@@ -1,5 +1,4 @@
-Phyllosticta ipomoeae-reptantis Sawada SPECIES
-=======
+# Phyllosticta ipomoeae-reptantis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Merulius mucor (Batsch) Spreng., 1827 SPECIES
-=======
+# Mycena mucor (Batsch) Quél., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. veg. , Edn 16 4(1): 467 (1827)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 436 (1875)
 
 #### Original name
 Agaricus mucor Batsch, 1786

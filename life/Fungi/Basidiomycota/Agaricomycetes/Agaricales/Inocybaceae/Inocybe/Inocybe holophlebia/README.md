@@ -1,5 +1,4 @@
-Inocybe holophlebia (Berk.) Sacc. SPECIES
-=======
+# Inocybe holophlebia (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

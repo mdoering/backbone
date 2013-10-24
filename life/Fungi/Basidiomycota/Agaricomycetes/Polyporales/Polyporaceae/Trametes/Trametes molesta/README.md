@@ -1,5 +1,4 @@
-Trametes molesta Corner SPECIES
-=======
+# Trametes molesta Corner SPECIES
 
 #### Status
 ACCEPTED

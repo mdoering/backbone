@@ -1,5 +1,4 @@
-Lactarius vestipes Velen. SPECIES
-=======
+# Lactarius vestipes Velen. SPECIES
 
 #### Status
 ACCEPTED

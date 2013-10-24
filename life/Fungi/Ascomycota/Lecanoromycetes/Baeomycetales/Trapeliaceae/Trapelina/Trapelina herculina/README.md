@@ -1,5 +1,4 @@
-Trapelina herculina Motyka SPECIES
-=======
+# Trapelina herculina Motyka SPECIES
 
 #### Status
 ACCEPTED

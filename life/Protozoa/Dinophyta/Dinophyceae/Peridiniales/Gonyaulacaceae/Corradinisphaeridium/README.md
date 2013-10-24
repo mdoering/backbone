@@ -1,5 +1,4 @@
-Corradinisphaeridium Masure, 1986 GENUS
-=======
+# Corradinisphaeridium Masure, 1986 GENUS
 
 #### Status
 ACCEPTED

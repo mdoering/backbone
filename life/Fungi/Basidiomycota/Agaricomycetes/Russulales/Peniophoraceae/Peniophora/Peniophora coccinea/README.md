@@ -1,5 +1,4 @@
-Peniophora coccinea Höhn. & Litsch. SPECIES
-=======
+# Peniophora coccinea Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

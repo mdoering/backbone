@@ -1,5 +1,4 @@
-Mycosphaerella lycii (Ellis & Everh.) Miles SPECIES
-=======
+# Mycosphaerella lycii (Ellis & Everh.) Miles SPECIES
 
 #### Status
 ACCEPTED

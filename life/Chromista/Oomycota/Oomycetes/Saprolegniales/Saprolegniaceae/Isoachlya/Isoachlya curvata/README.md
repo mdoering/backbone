@@ -1,5 +1,4 @@
-Isoachlya curvata (Minden) Cejp SPECIES
-=======
+# Isoachlya curvata (Minden) Cejp SPECIES
 
 #### Status
 ACCEPTED

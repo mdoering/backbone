@@ -1,5 +1,4 @@
-Pezomela Syd. GENUS
-=======
+# Pezomela Syd. GENUS
 
 #### Status
 ACCEPTED

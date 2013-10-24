@@ -1,5 +1,4 @@
-Stenotrophomonas nitritireducens Finkmann et al., 2000 SPECIES
-=======
+# Stenotrophomonas nitritireducens Finkmann et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

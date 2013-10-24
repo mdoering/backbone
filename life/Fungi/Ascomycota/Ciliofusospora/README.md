@@ -1,5 +1,4 @@
-Ciliofusospora Bat. & J.L. Bezerra GENUS
-=======
+# Ciliofusospora Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

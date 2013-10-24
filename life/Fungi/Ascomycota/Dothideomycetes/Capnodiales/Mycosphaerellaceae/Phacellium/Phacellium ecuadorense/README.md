@@ -1,5 +1,4 @@
-Phacellium ecuadorense (Syd.) U. Braun SPECIES
-=======
+# Phacellium ecuadorense (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

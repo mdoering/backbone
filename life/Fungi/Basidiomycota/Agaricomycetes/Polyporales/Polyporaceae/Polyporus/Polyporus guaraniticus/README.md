@@ -1,5 +1,4 @@
-Polyporus guaraniticus Speg. SPECIES
-=======
+# Polyporus guaraniticus Speg. SPECIES
 
 #### Status
 ACCEPTED

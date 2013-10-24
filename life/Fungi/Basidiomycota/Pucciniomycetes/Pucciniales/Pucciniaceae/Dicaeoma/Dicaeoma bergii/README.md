@@ -1,5 +1,4 @@
-Dicaeoma bergii (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma bergii (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium fulvum (Sopp) Sacc. SPECIES
-=======
+# Penicillium fulvum (Sopp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

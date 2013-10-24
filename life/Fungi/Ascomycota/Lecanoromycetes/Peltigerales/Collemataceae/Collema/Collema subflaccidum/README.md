@@ -1,5 +1,4 @@
-Collema subflaccidum Degel. SPECIES
-=======
+# Collema subflaccidum Degel. SPECIES
 
 #### Status
 ACCEPTED

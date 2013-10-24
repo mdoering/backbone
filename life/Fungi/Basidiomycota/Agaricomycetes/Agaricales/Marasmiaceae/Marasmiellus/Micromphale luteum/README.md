@@ -1,8 +1,7 @@
-Micromphale lutea Dennis SPECIES
-=======
+# Micromphale luteum Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micromphale lutea Dennis
+Micromphale luteum Dennis
 
 ### Remarks
 null

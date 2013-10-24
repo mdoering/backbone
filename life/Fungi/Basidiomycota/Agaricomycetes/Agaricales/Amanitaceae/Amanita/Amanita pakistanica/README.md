@@ -1,5 +1,4 @@
-Amanita pakistanica Tulloss, S.H. Iqbal & Khalid SPECIES
-=======
+# Amanita pakistanica Tulloss, S.H. Iqbal & Khalid SPECIES
 
 #### Status
 ACCEPTED

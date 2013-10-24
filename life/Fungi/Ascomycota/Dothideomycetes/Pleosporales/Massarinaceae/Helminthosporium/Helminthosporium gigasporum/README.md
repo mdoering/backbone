@@ -1,17 +1,16 @@
-Helmisporium gigasporum Berk. & Broome SPECIES
-=======
+# Helminthosporium gigasporum Shirouzu & Y. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycoscience 45(1): 19 (2004)
 
 #### Original name
-Helmisporium gigasporum Berk. & Broome
+Helminthosporium gigasporum Shirouzu & Y. Harada
 
 ### Remarks
 null

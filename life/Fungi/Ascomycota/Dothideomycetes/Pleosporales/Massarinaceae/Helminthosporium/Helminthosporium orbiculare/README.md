@@ -1,5 +1,4 @@
-Helminthosporium orbiculare Lév. SPECIES
-=======
+# Helminthosporium orbiculare Lév. SPECIES
 
 #### Status
 ACCEPTED

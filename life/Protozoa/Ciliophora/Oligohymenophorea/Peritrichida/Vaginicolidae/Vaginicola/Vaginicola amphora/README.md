@@ -1,5 +1,4 @@
-Vaginicola amphora Swarczewsky, 1930 SPECIES
-=======
+# Vaginicola amphora Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sacbiosa SPECIES
-=======
+# Usnea sacbiosa SPECIES
 
 #### Status
 ACCEPTED

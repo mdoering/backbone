@@ -1,5 +1,4 @@
-Tremella pulvinalis Kobayasi SPECIES
-=======
+# Tremella pulvinalis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

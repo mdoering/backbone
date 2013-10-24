@@ -1,5 +1,4 @@
-Diderma reticulosporum Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
-=======
+# Diderma reticulosporum Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
 
 #### Status
 ACCEPTED

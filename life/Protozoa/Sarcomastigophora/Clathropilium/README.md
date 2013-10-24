@@ -1,5 +1,4 @@
-Clathropilium Haeckel, 1881 GENUS
-=======
+# Clathropilium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia suffulta Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia suffulta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

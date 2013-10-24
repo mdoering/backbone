@@ -1,5 +1,4 @@
-Tricholoma rhizoideum A.H. Sm. SPECIES
-=======
+# Tricholoma rhizoideum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

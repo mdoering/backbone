@@ -1,5 +1,4 @@
-Ascochyta aphyllanthis Henn. SPECIES
-=======
+# Ascochyta aphyllanthis Henn. SPECIES
 
 #### Status
 ACCEPTED

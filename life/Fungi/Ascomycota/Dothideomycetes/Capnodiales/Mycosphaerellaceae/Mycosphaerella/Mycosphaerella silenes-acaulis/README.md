@@ -1,14 +1,13 @@
-Sphaerella silenes-acaulis Maire, 1907 SPECIES
-=======
+# Mycosphaerella silenes-acaulis (Maire) Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 1: 319 (1947)
 
 #### Original name
 Sphaerella silenes-acaulis Maire, 1907

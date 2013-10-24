@@ -1,14 +1,13 @@
-Ombrophila setulata Dearn. & House, 1925 SPECIES
-=======
+# Torrendiella setulata (Dearn. & House) R. Galán & J.T. Palmer, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 266: 60 (1925)
+Mycotaxon 48: 236 (1993)
 
 #### Original name
 Ombrophila setulata Dearn. & House, 1925

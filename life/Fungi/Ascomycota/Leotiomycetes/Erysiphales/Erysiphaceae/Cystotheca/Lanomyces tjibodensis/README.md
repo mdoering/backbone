@@ -1,5 +1,4 @@
-Lanomyces tjibodensis Gäum. SPECIES
-=======
+# Lanomyces tjibodensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

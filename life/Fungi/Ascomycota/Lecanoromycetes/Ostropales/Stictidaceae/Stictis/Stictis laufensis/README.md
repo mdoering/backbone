@@ -1,5 +1,4 @@
-Stictis laufensis Schmid-Heckel SPECIES
-=======
+# Stictis laufensis Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

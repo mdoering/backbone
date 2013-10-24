@@ -1,17 +1,16 @@
-Lecanora badia var. badia VARIETY
-=======
+# Protoparmelia badia (Hoffm.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 407 (1810)
+Beih. Nova Hedwigia 79: 292 (1984)
 
 #### Original name
-Lecanora badia var. badia
+Verrucaria badia Hoffm.
 
 ### Remarks
 null

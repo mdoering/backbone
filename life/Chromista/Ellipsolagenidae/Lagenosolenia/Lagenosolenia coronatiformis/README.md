@@ -1,5 +1,4 @@
-Lagenosolenia coronatiformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia coronatiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

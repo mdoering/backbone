@@ -1,5 +1,4 @@
-Agaricus balchaschensis Samgina & G.A. Nam SPECIES
-=======
+# Agaricus balchaschensis Samgina & G.A. Nam SPECIES
 
 #### Status
 ACCEPTED

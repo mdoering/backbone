@@ -1,5 +1,4 @@
-Gloeophyllum ferrugineum F.C. Harrison SPECIES
-=======
+# Gloeophyllum ferrugineum F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

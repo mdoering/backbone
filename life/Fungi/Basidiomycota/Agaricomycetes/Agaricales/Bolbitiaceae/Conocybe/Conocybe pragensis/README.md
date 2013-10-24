@@ -1,5 +1,4 @@
-Conocybe pragensis Hauskn. SPECIES
-=======
+# Conocybe pragensis Hauskn. SPECIES
 
 #### Status
 ACCEPTED

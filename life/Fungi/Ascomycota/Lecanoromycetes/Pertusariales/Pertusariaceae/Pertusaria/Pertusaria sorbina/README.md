@@ -1,5 +1,4 @@
-Pertusaria sorbina Eitner SPECIES
-=======
+# Pertusaria sorbina Eitner SPECIES
 
 #### Status
 ACCEPTED

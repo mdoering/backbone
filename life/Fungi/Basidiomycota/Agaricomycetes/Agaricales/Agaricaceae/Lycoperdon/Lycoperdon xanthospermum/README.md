@@ -1,5 +1,4 @@
-Lycoperdon xanthospermum Berk. SPECIES
-=======
+# Lycoperdon xanthospermum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium variabile Bonord. SPECIES
-=======
+# Stegonsporium variabile Bonord. SPECIES
 
 #### Status
 ACCEPTED

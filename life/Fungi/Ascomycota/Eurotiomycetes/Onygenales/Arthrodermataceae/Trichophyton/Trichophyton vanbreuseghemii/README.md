@@ -1,5 +1,4 @@
-Trichophyton vanbreuseghemii Rioux, Jarry & Juminer, 1965 SPECIES
-=======
+# Trichophyton vanbreuseghemii Rioux, Jarry & Juminer, 1965 SPECIES
 
 #### Status
 ACCEPTED

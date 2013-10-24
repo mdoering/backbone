@@ -1,5 +1,4 @@
-Lentomitella unipretoriae M.J. Wingf., Marincowitz & Crous SPECIES
-=======
+# Lentomitella unipretoriae M.J. Wingf., Marincowitz & Crous SPECIES
 
 #### Status
 ACCEPTED

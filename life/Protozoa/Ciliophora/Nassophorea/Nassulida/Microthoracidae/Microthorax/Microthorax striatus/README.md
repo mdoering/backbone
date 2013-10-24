@@ -1,5 +1,4 @@
-Microthorax striatus Fromentel, 1876 SPECIES
-=======
+# Microthorax striatus Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

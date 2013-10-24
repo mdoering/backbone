@@ -1,5 +1,4 @@
-Leptosphaeria exocarpogena Fairm. SPECIES
-=======
+# Leptosphaeria exocarpogena Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis gramineum anon. SPECIES
-=======
+# Stictis gramineum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria perdicina Velen. SPECIES
-=======
+# Plicaria perdicina Velen. SPECIES
 
 #### Status
 ACCEPTED

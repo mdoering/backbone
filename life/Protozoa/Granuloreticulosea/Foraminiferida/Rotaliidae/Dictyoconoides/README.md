@@ -1,5 +1,4 @@
-Dictyoconoides Nuttall, 1925 GENUS
-=======
+# Dictyoconoides Nuttall, 1925 GENUS
 
 #### Status
 ACCEPTED

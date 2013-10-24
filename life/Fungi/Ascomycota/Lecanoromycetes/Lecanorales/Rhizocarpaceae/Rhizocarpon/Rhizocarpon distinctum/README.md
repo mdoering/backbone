@@ -1,5 +1,4 @@
-Rhizocarpon distinctum var. distinctum VARIETY
-=======
+# Rhizocarpon distinctum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. Scand. (Uppsala) 1: 625 (1874)
 
 #### Original name
-Rhizocarpon distinctum var. distinctum
+Rhizocarpon distinctum Th. Fr.
 
 ### Remarks
 null

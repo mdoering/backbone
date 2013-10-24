@@ -1,5 +1,4 @@
-Iridea Stackhouse, 1816 GENUS
-=======
+# Iridea Stackhouse, 1816 GENUS
 
 #### Status
 ACCEPTED

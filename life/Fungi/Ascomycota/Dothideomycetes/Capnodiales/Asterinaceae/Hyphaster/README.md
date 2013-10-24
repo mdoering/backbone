@@ -1,5 +1,4 @@
-Hyphaster GENUS
-=======
+# Hyphaster GENUS
 
 #### Status
 ACCEPTED

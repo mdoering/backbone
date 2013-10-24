@@ -1,5 +1,4 @@
-Aecidium lycopi W.R. Gerard SPECIES
-=======
+# Aecidium lycopi W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

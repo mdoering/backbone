@@ -1,5 +1,4 @@
-Didinium peyrefittense SPECIES
-=======
+# Didinium peyrefittense SPECIES
 
 #### Status
 ACCEPTED

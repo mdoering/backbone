@@ -1,5 +1,4 @@
-Lachnum agaricinum Retz., 1795 SPECIES
-=======
+# Lachnum agaricinum Retz., 1795 SPECIES
 
 #### Status
 ACCEPTED

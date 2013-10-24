@@ -1,5 +1,4 @@
-Hypotrachyna stictifera Kurok. & K. H. Moon SPECIES
-=======
+# Hypotrachyna stictifera Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium saccharicola F. Stevens SPECIES
-=======
+# Arthrinium saccharicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

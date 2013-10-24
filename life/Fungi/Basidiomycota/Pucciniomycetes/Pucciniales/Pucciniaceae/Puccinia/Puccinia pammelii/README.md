@@ -1,5 +1,4 @@
-Puccinia pammelii Arthur SPECIES
-=======
+# Puccinia pammelii Arthur SPECIES
 
 #### Status
 ACCEPTED

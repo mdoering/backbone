@@ -1,5 +1,4 @@
-Gyalectaceae Stizenb. FAMILY
-=======
+# Gyalectaceae Stizenb. FAMILY
 
 #### Status
 ACCEPTED

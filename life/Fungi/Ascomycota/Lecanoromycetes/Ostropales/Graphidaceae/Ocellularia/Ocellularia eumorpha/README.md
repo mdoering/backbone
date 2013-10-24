@@ -1,14 +1,13 @@
-Thelotrema eumorphum Stirt. SPECIES
-=======
+# Ocellularia eumorpha (Stirt.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Phil. Soc. Glasgow 10: 158 (1877)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema eumorphum Stirt.

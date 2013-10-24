@@ -1,5 +1,4 @@
-Leiosphaeridia desma (Yin Leiming & Li Zaiping, 1978) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia desma (Yin Leiming & Li Zaiping, 1978) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

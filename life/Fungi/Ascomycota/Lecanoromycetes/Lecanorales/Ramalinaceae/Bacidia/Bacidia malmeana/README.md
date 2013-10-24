@@ -1,5 +1,4 @@
-Bacidia malmeana Zahlbr. SPECIES
-=======
+# Bacidia malmeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

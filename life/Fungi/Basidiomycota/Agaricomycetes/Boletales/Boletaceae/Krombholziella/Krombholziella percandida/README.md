@@ -1,5 +1,4 @@
-Krombholziella percandida (Vassilkov) utara SPECIES
-=======
+# Krombholziella percandida (Vassilkov) utara SPECIES
 
 #### Status
 ACCEPTED

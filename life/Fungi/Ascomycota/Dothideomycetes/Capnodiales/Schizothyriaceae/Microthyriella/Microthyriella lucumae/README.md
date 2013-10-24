@@ -1,5 +1,4 @@
-Microthyriella lucumae (Bat.) Bat. SPECIES
-=======
+# Microthyriella lucumae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

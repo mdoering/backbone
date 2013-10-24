@@ -1,5 +1,4 @@
-Rhizobacter Goto & Kuwata, 1988 GENUS
-=======
+# Rhizobacter Goto & Kuwata, 1988 GENUS
 
 #### Status
 ACCEPTED

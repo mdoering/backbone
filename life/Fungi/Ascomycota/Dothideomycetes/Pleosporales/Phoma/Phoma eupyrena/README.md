@@ -1,5 +1,4 @@
-Phoma eupyrena Sacc., 1879 SPECIES
-=======
+# Phoma eupyrena Sacc., 1879 SPECIES
 
 #### Status
 ACCEPTED

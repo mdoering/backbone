@@ -1,5 +1,4 @@
-Dicaeoma rhynchosiae (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma rhynchosiae (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

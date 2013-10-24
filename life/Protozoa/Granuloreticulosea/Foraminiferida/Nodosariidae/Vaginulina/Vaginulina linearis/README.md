@@ -1,5 +1,4 @@
-Vaginulina linearis (Montagu) SPECIES
-=======
+# Vaginulina linearis (Montagu) SPECIES
 
 #### Status
 ACCEPTED

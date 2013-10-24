@@ -1,8 +1,7 @@
-Dictyota rugulosa A.H.S.Lucas, 1935 SPECIES
-=======
+# Rugulopteryx marginata (J.V.Lamouroux) De Clerck & Coppejans, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

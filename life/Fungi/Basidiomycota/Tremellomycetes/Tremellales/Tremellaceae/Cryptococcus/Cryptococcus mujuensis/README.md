@@ -1,5 +1,4 @@
-Cryptococcus mujuensis K.S. Shin & Y.H. Park SPECIES
-=======
+# Cryptococcus mujuensis K.S. Shin & Y.H. Park SPECIES
 
 #### Status
 ACCEPTED

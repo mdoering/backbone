@@ -1,5 +1,4 @@
-Derxomyces simaoensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces simaoensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distolomyces fijianus Thaxt., 1931 SPECIES
-=======
+# Distolomyces fijianus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synhymenia Jankowski, 1967 GENUS
-=======
+# Synhymenia Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

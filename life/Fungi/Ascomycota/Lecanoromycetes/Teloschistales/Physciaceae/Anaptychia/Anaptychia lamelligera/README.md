@@ -1,5 +1,4 @@
-Anaptychia lamelligera (Taylor) Kurok. SPECIES
-=======
+# Anaptychia lamelligera (Taylor) Kurok. SPECIES
 
 #### Status
 ACCEPTED

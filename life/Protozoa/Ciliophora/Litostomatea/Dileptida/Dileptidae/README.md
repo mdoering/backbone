@@ -1,5 +1,4 @@
-Dileptidae FAMILY
-=======
+# Dileptidae FAMILY
 
 #### Status
 ACCEPTED

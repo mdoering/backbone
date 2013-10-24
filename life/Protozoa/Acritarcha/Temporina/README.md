@@ -1,5 +1,4 @@
-Temporina S.C.D. Sah & R.K. Kar, 1974 GENUS
-=======
+# Temporina S.C.D. Sah & R.K. Kar, 1974 GENUS
 
 #### Status
 ACCEPTED

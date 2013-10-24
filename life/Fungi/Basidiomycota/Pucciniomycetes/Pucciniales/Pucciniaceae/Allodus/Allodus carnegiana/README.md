@@ -1,5 +1,4 @@
-Allodus carnegiana (Arthur) Orton SPECIES
-=======
+# Allodus carnegiana (Arthur) Orton SPECIES
 
 #### Status
 ACCEPTED

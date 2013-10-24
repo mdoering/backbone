@@ -1,5 +1,4 @@
-Bipolaris pluriseptata (Khetarpal, R. Nath & S.P. Lal) Alcorn SPECIES
-=======
+# Bipolaris pluriseptata (Khetarpal, R. Nath & S.P. Lal) Alcorn SPECIES
 
 #### Status
 ACCEPTED

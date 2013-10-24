@@ -1,5 +1,4 @@
-Cercospora comari Peck, 1885 SPECIES
-=======
+# Cercospora comari Peck, 1885 SPECIES
 
 #### Status
 ACCEPTED

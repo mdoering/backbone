@@ -1,5 +1,4 @@
-Ditremis macrospora Makhija & Patw. SPECIES
-=======
+# Ditremis macrospora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

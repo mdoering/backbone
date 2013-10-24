@@ -1,5 +1,4 @@
-Melanomphalia cortinarioides Singer SPECIES
-=======
+# Melanomphalia cortinarioides Singer SPECIES
 
 #### Status
 ACCEPTED

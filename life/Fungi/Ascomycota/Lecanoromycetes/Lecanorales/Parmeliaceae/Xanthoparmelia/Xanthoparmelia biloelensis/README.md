@@ -1,5 +1,4 @@
-Xanthoparmelia biloelensis Elix SPECIES
-=======
+# Xanthoparmelia biloelensis Elix SPECIES
 
 #### Status
 ACCEPTED

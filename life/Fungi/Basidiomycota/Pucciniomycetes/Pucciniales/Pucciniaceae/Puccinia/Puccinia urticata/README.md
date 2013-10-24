@@ -1,17 +1,16 @@
-Puccinia caricis f. sp FORM
-=======
+# Puccinia urticata F. Kern, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitteilungen der Aargauischen Naturforschenden Gesellschaft 17: 64 (1925)
+null
 
 #### Original name
-Puccinia caricis f. sp
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo setariae Speg. SPECIES
-=======
+# Uredo setariae Speg. SPECIES
 
 #### Status
 ACCEPTED

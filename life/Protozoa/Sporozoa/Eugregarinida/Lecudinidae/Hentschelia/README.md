@@ -1,14 +1,13 @@
-Henschelia Mackinnon & Ray, 1931 GENUS
-=======
+# Hentschelia Mackinnon & Ray, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Quart. J. Micr. Sci. , 74, 439.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Caliciopsis veillonii B. Huguenin SPECIES
-=======
+# Caliciopsis veillonii B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

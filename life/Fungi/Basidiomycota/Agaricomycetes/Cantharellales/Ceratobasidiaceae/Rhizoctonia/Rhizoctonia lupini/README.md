@@ -1,5 +1,4 @@
-Rhizoctonia lupini E. Castell. SPECIES
-=======
+# Rhizoctonia lupini E. Castell. SPECIES
 
 #### Status
 ACCEPTED

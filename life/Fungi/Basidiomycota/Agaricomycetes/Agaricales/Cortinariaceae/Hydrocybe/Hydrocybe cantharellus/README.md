@@ -1,5 +1,4 @@
-Hydrocybe cantharellus anon. SPECIES
-=======
+# Hydrocybe cantharellus anon. SPECIES
 
 #### Status
 ACCEPTED

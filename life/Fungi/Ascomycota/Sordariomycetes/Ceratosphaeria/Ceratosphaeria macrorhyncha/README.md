@@ -1,5 +1,4 @@
-Ceratosphaeria macrorhyncha Gaja SPECIES
-=======
+# Ceratosphaeria macrorhyncha Gaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius poecilus Berk. SPECIES
-=======
+# Marasmius poecilus Berk. SPECIES
 
 #### Status
 ACCEPTED

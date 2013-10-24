@@ -1,17 +1,16 @@
-Alboleptonia omphaliformis (Romagn.) P.D. Orton SPECIES
-=======
+# Entoloma percandidum Noordel., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 2(2): 161 (1982)
 
 #### Original name
-Rhodophyllus omphaliiformis Romagn., 1954
+Rhodophyllus omphaliformis Romagn.
 
 ### Remarks
 null

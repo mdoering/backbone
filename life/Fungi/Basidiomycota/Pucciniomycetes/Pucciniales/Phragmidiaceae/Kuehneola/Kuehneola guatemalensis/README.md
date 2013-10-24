@@ -1,5 +1,4 @@
-Kuehneola guatemalensis Cummins SPECIES
-=======
+# Kuehneola guatemalensis Cummins SPECIES
 
 #### Status
 ACCEPTED

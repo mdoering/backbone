@@ -1,5 +1,4 @@
-Phialophora oxyspora W. Gams, 1976 SPECIES
-=======
+# Phialophora oxyspora W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paradiacheopsis synsporos (Alexop.) Nann.-Bremek. SPECIES
-=======
+# Macbrideola synsporos (Alexop.) Alexop., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 70(2): 209 (1967)
+Mycologia 59(1): 115 (1967)
 
 #### Original name
 Comatricha synsporos Alexop., 1958

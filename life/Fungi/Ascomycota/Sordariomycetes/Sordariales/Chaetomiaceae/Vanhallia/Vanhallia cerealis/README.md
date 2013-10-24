@@ -1,5 +1,4 @@
-Vanhallia cerealis L. Marchand SPECIES
-=======
+# Vanhallia cerealis L. Marchand SPECIES
 
 #### Status
 ACCEPTED

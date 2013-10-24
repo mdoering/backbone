@@ -1,5 +1,4 @@
-Dothiora cellulosa Wallr. SPECIES
-=======
+# Dothiora cellulosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

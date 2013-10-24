@@ -1,5 +1,4 @@
-Asteroma equiseti Grognot SPECIES
-=======
+# Asteroma equiseti Grognot SPECIES
 
 #### Status
 ACCEPTED

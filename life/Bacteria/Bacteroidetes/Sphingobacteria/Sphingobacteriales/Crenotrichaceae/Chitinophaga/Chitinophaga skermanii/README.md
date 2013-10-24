@@ -1,5 +1,4 @@
-Chitinophaga skermanii Kämpfer et al., 2006 SPECIES
-=======
+# Chitinophaga skermanii Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

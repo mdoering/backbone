@@ -1,5 +1,4 @@
-Stomiopeltis batistae Arx SPECIES
-=======
+# Stomiopeltis batistae Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporophlyctis chinensis Sparrow, 1960 SPECIES
-=======
+# Sporophlyctis chinensis Sparrow, 1960 SPECIES
 
 #### Status
 ACCEPTED

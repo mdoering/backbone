@@ -1,5 +1,4 @@
-Pertusaria perrimosa Nyl. SPECIES
-=======
+# Pertusaria perrimosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

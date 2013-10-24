@@ -1,5 +1,4 @@
-Pertusaria entophaea Mont. SPECIES
-=======
+# Pertusaria entophaea Mont. SPECIES
 
 #### Status
 ACCEPTED

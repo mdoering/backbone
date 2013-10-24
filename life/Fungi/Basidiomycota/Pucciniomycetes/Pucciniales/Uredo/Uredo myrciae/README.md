@@ -1,5 +1,4 @@
-Uredo myrciae Mayor SPECIES
-=======
+# Uredo myrciae Mayor SPECIES
 
 #### Status
 ACCEPTED

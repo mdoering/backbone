@@ -1,5 +1,4 @@
-Scutellospora nodosa Blaszk., 1991 SPECIES
-=======
+# Scutellospora nodosa Blaszk., 1991 SPECIES
 
 #### Status
 ACCEPTED

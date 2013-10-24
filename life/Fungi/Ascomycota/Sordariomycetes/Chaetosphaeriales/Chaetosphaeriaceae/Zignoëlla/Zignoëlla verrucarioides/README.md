@@ -1,5 +1,4 @@
-Zignoëlla verrucarioides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Zignoëlla verrucarioides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

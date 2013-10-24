@@ -1,5 +1,4 @@
-Bellemerella ritae Pérez-Ortega & T. Sprib. SPECIES
-=======
+# Bellemerella ritae Pérez-Ortega & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

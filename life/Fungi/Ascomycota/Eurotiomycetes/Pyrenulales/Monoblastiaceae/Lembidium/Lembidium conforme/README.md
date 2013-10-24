@@ -1,5 +1,4 @@
-Lembidium conforme Arnold SPECIES
-=======
+# Lembidium conforme Arnold SPECIES
 
 #### Status
 ACCEPTED

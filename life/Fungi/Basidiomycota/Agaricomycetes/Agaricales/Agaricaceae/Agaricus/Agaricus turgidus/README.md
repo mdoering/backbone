@@ -1,5 +1,4 @@
-Agaricus turgidus Grev. SPECIES
-=======
+# Agaricus turgidus Grev. SPECIES
 
 #### Status
 ACCEPTED

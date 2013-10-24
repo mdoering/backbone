@@ -1,5 +1,4 @@
-Inocybe argillacea (Pers.) Singer SPECIES
-=======
+# Inocybe argillacea (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

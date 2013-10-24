@@ -1,5 +1,4 @@
-Rosellinia formosana Y.M. Ju & J.D. Rogers, 1999 SPECIES
-=======
+# Rosellinia formosana Y.M. Ju & J.D. Rogers, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora papillosa G.F. Atk. SPECIES
-=======
+# Cercospora papillosa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

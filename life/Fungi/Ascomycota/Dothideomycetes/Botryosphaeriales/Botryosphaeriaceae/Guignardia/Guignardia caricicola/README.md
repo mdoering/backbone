@@ -1,14 +1,13 @@
-Sphaerella caricicola Fuckel, 1870 SPECIES
-=======
+# Guignardia caricicola (Fuckel) Vasyag., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 101 (1870)
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 26 (1987)
 
 #### Original name
 Sphaerella caricicola Fuckel, 1870

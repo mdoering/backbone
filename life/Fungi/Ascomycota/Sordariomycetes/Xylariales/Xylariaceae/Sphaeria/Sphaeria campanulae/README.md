@@ -1,5 +1,4 @@
-Sphaeria campanulae Klotzsch SPECIES
-=======
+# Sphaeria campanulae Klotzsch SPECIES
 
 #### Status
 ACCEPTED

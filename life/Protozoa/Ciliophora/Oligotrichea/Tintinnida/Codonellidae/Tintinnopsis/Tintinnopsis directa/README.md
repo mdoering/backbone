@@ -1,5 +1,4 @@
-Tintinnopsis directa Hada, 1932 SPECIES
-=======
+# Tintinnopsis directa Hada, 1932 SPECIES
 
 #### Status
 ACCEPTED

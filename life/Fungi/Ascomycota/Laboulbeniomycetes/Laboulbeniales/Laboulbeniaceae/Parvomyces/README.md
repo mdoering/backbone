@@ -1,5 +1,4 @@
-Parvomyces Santam. GENUS
-=======
+# Parvomyces Santam. GENUS
 
 #### Status
 ACCEPTED

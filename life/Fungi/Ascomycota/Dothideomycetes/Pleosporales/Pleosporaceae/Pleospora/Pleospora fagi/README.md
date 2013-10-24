@@ -1,5 +1,4 @@
-Pleospora fagi Lind SPECIES
-=======
+# Pleospora fagi Lind SPECIES
 
 #### Status
 ACCEPTED

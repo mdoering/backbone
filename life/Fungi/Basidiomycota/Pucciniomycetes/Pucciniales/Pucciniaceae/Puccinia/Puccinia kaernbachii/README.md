@@ -1,5 +1,4 @@
-Puccinia kaernbachii (Henn.) Arthur SPECIES
-=======
+# Puccinia kaernbachii (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

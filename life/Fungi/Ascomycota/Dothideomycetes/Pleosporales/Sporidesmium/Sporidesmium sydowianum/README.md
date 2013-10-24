@@ -1,5 +1,4 @@
-Sporidesmium sydowianum Allesch. SPECIES
-=======
+# Sporidesmium sydowianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mabirensis Hansf. SPECIES
-=======
+# Meliola mabirensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

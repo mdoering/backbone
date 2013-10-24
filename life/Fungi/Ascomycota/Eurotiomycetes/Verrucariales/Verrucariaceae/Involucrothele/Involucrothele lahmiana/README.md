@@ -1,5 +1,4 @@
-Involucrothele lahmiana (Lojka ex Zschacke) J. Nowak & Tobol. SPECIES
-=======
+# Involucrothele lahmiana (Lojka ex Zschacke) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

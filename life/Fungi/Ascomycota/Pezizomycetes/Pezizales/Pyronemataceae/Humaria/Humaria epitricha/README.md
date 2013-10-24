@@ -1,5 +1,4 @@
-Humaria epitricha (Berk.) Sacc. SPECIES
-=======
+# Humaria epitricha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

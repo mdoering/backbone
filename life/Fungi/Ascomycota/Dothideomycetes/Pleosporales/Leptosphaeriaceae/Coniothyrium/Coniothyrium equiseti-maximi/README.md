@@ -1,17 +1,16 @@
-Coniothyrium equiseti-maximae Manoliu & Mititme {?} SPECIES
-=======
+# Coniothyrium equiseti-maximi Manoliu & Mititme {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. , Sp. Nov. , Beih. 87(1-2): 142 (1976)
 
 #### Original name
-Coniothyrium equiseti-maximae Manoliu & Mititme {?}
+Coniothyrium equiseti-maximi Manoliu & Mititme {?}
 
 ### Remarks
 null

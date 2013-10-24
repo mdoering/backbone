@@ -1,5 +1,4 @@
-Sporoblastia pyrophthalma (Mont.) Trevis. SPECIES
-=======
+# Sporoblastia pyrophthalma (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

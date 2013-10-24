@@ -1,5 +1,4 @@
-Entoloma subgoniosporum (Speg.) E. Horak SPECIES
-=======
+# Entoloma subgoniosporum (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

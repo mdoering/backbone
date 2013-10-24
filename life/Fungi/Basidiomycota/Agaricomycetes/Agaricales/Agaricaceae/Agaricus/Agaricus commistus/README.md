@@ -1,5 +1,4 @@
-Agaricus commistus Pers. SPECIES
-=======
+# Agaricus commistus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema stramineum Vain. SPECIES
-=======
+# Ocellularia straminea (Vain.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 181 (1921)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema stramineum Vain.

@@ -1,5 +1,4 @@
-Calyculosphaeria pezizoidea (Pat. & Gaillard) Fitzp. SPECIES
-=======
+# Calyculosphaeria pezizoidea (Pat. & Gaillard) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

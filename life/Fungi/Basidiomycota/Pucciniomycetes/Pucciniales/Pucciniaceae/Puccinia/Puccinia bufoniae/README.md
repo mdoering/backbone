@@ -1,5 +1,4 @@
-Puccinia bufoniae Petr. & I. Lohwag SPECIES
-=======
+# Puccinia bufoniae Petr. & I. Lohwag SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria stachytarpheticola E.G. Simmons, 2007 SPECIES
-=======
+# Alternaria stachytarpheticola E.G. Simmons, 2007 SPECIES
 
 #### Status
 ACCEPTED

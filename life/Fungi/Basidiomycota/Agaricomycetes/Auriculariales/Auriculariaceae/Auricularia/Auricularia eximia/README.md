@@ -1,5 +1,4 @@
-Auricularia eximia (Berk. & Cooke) Kobayasi SPECIES
-=======
+# Auricularia eximia (Berk. & Cooke) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

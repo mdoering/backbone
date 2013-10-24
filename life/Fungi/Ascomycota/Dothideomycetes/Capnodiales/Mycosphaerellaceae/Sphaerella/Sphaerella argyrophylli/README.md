@@ -1,5 +1,4 @@
-Sphaerella argyrophylli Bubák SPECIES
-=======
+# Sphaerella argyrophylli Bubák SPECIES
 
 #### Status
 ACCEPTED

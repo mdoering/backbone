@@ -1,5 +1,4 @@
-Puccinia nyasalandica Cummins SPECIES
-=======
+# Puccinia nyasalandica Cummins SPECIES
 
 #### Status
 ACCEPTED

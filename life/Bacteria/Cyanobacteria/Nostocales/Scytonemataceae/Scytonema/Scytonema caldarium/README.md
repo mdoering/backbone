@@ -1,5 +1,4 @@
-Scytonema caldarium Setchell SPECIES
-=======
+# Scytonema caldarium Setchell SPECIES
 
 #### Status
 ACCEPTED

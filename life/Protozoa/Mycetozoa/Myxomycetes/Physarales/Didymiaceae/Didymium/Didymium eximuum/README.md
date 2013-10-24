@@ -1,5 +1,4 @@
-Didymium eximuum Peck, 1879 SPECIES
-=======
+# Didymium eximuum Peck, 1879 SPECIES
 
 #### Status
 ACCEPTED

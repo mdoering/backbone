@@ -1,17 +1,16 @@
-Zoopage planera Drechsler SPECIES
-=======
+# Zoopage phanera Drechsler, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 27(1): 30 (1935)
 
 #### Original name
-Zoopage planera Drechsler
+Zoopage phanera Drechsler, 1935
 
 ### Remarks
 null

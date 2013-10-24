@@ -1,5 +1,4 @@
-Poria pellicula Jungh. SPECIES
-=======
+# Poria pellicula Jungh. SPECIES
 
 #### Status
 ACCEPTED

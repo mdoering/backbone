@@ -1,5 +1,4 @@
-Pseudocercospora puerariina (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora puerariina (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

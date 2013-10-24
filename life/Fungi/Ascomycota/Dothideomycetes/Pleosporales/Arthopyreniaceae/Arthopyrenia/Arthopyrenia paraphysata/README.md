@@ -1,5 +1,4 @@
-Arthopyrenia paraphysata Zahlbr. SPECIES
-=======
+# Arthopyrenia paraphysata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

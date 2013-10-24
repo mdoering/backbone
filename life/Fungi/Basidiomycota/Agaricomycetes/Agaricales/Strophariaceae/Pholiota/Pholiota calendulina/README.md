@@ -1,5 +1,4 @@
-Pholiota calendulina Singer SPECIES
-=======
+# Pholiota calendulina Singer SPECIES
 
 #### Status
 ACCEPTED

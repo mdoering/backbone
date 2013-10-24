@@ -1,5 +1,4 @@
-Seynesia scutellum Syd. & P. Syd. SPECIES
-=======
+# Seynesia scutellum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

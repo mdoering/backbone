@@ -1,5 +1,4 @@
-Agaricus velenovskyi Pilát SPECIES
-=======
+# Agaricus velenovskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroma cartilagineum (Ach.) Rabenh. SPECIES
-=======
+# Psoroma cartilagineum (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

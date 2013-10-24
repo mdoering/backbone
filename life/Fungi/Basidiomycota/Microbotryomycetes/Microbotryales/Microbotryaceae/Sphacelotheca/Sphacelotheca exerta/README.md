@@ -1,5 +1,4 @@
-Sphacelotheca exerta (McAlpine) Cif. SPECIES
-=======
+# Sphacelotheca exerta (McAlpine) Cif. SPECIES
 
 #### Status
 ACCEPTED

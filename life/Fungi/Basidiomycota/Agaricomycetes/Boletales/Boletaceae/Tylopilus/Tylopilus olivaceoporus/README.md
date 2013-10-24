@@ -1,5 +1,4 @@
-Tylopilus olivaceoporus Watling SPECIES
-=======
+# Tylopilus olivaceoporus Watling SPECIES
 
 #### Status
 ACCEPTED

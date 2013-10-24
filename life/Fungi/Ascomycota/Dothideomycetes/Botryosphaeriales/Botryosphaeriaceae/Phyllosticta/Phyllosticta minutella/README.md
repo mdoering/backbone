@@ -1,5 +1,4 @@
-Phyllosticta minutella Bubák & Dearn. SPECIES
-=======
+# Phyllosticta minutella Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

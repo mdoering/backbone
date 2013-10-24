@@ -1,5 +1,4 @@
-Psathyrella lactobrunnescens A.H. Sm. SPECIES
-=======
+# Psathyrella lactobrunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

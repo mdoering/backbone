@@ -1,5 +1,4 @@
-Cryptothecia lunulata (Zahlbr.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia lunulata (Zahlbr.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

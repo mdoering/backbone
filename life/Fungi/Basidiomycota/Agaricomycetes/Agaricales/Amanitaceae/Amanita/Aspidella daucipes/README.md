@@ -1,5 +1,4 @@
-Aspidella daucipes (Berk. & Mont.) E.-J. Gilbert SPECIES
-=======
+# Aspidella daucipes (Berk. & Mont.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

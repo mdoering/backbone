@@ -1,5 +1,4 @@
-Mycena setulosipes Robich SPECIES
-=======
+# Mycena setulosipes Robich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria ramulariae (Wollenw.) E. Müll., 1962 SPECIES
-=======
+# Nectria ramulariae (Wollenw.) E. Müll., 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krispiromyces T.N. Taylor, Hass & W. Remy GENUS
-=======
+# Krispiromyces T.N. Taylor, Hass & W. Remy GENUS
 
 #### Status
 ACCEPTED

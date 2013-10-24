@@ -1,5 +1,4 @@
-Polyporus hookeri Lloyd SPECIES
-=======
+# Polyporus hookeri Lloyd SPECIES
 
 #### Status
 ACCEPTED

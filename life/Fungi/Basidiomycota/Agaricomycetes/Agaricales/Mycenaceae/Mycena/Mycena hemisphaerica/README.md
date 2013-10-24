@@ -1,5 +1,4 @@
-Mycena hemisphaerica Peck SPECIES
-=======
+# Mycena hemisphaerica Peck SPECIES
 
 #### Status
 ACCEPTED

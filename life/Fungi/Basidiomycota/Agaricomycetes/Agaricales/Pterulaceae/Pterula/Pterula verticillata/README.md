@@ -1,5 +1,4 @@
-Pterula verticillata Corner, 1950 SPECIES
-=======
+# Pterula verticillata Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa japonica Miyabe & Hemmi, 1917 SPECIES
-=======
+# Valsa japonica Miyabe & Hemmi, 1917 SPECIES
 
 #### Status
 ACCEPTED

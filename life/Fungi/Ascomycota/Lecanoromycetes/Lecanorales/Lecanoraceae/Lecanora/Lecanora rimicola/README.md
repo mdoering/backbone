@@ -1,5 +1,4 @@
-Lecanora rimicola H. Magn. SPECIES
-=======
+# Lecanora rimicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

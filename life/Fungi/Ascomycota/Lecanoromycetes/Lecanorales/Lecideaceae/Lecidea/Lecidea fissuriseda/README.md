@@ -1,5 +1,4 @@
-Lecidea fissuriseda Poelt SPECIES
-=======
+# Lecidea fissuriseda Poelt SPECIES
 
 #### Status
 ACCEPTED

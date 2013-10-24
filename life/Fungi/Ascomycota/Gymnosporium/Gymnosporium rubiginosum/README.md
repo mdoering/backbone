@@ -1,5 +1,4 @@
-Gymnosporium rubiginosum Carm. {?} SPECIES
-=======
+# Gymnosporium rubiginosum Carm. {?} SPECIES
 
 #### Status
 ACCEPTED

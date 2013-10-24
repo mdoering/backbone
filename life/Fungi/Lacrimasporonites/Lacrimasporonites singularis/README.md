@@ -1,5 +1,4 @@
-Lacrimasporonites singularis Sheffy & Dilcher SPECIES
-=======
+# Lacrimasporonites singularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

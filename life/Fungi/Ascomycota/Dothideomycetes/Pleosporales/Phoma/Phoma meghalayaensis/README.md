@@ -1,17 +1,16 @@
-Phoma meghalayansis R.C. Srivast. & S. Das SPECIES
-=======
+# Phoma meghalayaensis R.C. Srivast. & S. Das SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Arch. Protistenk. 123(3): 324 (1980)
 
 #### Original name
-Phoma meghalayansis R.C. Srivast. & S. Das
+Phoma meghalayaensis R.C. Srivast. & S. Das
 
 ### Remarks
 null

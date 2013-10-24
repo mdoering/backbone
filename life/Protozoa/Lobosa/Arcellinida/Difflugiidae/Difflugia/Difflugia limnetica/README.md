@@ -1,5 +1,4 @@
-Difflugia limnetica SPECIES
-=======
+# Difflugia limnetica SPECIES
 
 #### Status
 ACCEPTED

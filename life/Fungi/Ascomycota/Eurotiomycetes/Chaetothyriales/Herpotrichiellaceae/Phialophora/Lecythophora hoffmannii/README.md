@@ -1,14 +1,13 @@
-Phialophora hoffmannii (J.F.H. Beyma) Schol-Schwarz, 1970 SPECIES
-=======
+# Lecythophora hoffmannii (J.F.H. Beyma) W. Gams & McGinnis, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(1): 79 (1970)
+Mycologia 75(6): 985 (1983)
 
 #### Original name
 Margarinomyces hoffmannii J.F.H. Beyma, 1938

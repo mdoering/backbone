@@ -1,5 +1,4 @@
-Xanthoparmelia psornorstictica Hale SPECIES
-=======
+# Xanthoparmelia psornorstictica Hale SPECIES
 
 #### Status
 ACCEPTED

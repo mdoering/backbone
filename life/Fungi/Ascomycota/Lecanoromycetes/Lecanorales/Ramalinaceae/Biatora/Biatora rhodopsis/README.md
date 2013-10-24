@@ -1,5 +1,4 @@
-Biatora rhodopsis Tuck. SPECIES
-=======
+# Biatora rhodopsis Tuck. SPECIES
 
 #### Status
 ACCEPTED

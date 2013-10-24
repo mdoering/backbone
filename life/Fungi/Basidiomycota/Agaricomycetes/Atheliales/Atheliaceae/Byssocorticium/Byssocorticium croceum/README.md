@@ -1,5 +1,4 @@
-Byssocorticium croceum (Kunze) Bondartsev & Singer SPECIES
-=======
+# Byssocorticium croceum (Kunze) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

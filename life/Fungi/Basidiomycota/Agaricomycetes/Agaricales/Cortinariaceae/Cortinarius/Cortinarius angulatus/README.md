@@ -1,5 +1,4 @@
-Cortinarius angulatus b gracilescens Fr. SPECIES
-=======
+# Cortinarius angulatus b gracilescens Fr. SPECIES
 
 #### Status
 ACCEPTED

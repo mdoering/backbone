@@ -1,5 +1,4 @@
-Puccinia stipae-sibiricae subsp. stipae-sibiricae SUBSPECIES
-=======
+# Puccinia stipae-sibiricae S. Ito SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia stipae-sibiricae subsp. stipae-sibiricae
+Puccinia stipae-sibiricae S. Ito
 
 ### Remarks
 null

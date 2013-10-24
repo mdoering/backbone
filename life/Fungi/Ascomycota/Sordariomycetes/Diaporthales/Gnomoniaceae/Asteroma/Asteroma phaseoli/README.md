@@ -1,5 +1,4 @@
-Asteroma phaseoli Brunaud SPECIES
-=======
+# Asteroma phaseoli Brunaud SPECIES
 
 #### Status
 ACCEPTED

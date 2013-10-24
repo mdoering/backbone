@@ -1,5 +1,4 @@
-Pseudoalteromonas issachenkonii Ivanova et al., 2002 SPECIES
-=======
+# Pseudoalteromonas issachenkonii Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

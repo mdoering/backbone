@@ -1,5 +1,4 @@
-Clasterosporium nitens (Schwein.) Sacc. SPECIES
-=======
+# Clasterosporium nitens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

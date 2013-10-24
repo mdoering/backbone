@@ -1,5 +1,4 @@
-Tyromyces bibulus (Pers.) Bondartsev & Singer SPECIES
-=======
+# Tyromyces bibulus (Pers.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

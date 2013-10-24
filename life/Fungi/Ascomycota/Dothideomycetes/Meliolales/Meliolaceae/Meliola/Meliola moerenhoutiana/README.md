@@ -1,5 +1,4 @@
-Meliola moerenhoutiana Mont. SPECIES
-=======
+# Meliola moerenhoutiana Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitrichum sacchari Spreng. SPECIES
-=======
+# Amphitrichum sacchari Spreng. SPECIES
 
 #### Status
 ACCEPTED

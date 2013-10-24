@@ -1,5 +1,4 @@
-Scolecostigmina tirumalensis (U. Braun & Bagyan.) U. Braun SPECIES
-=======
+# Scolecostigmina tirumalensis (U. Braun & Bagyan.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia helicteres F. Stevens SPECIES
-=======
+# Guignardia helicteres F. Stevens SPECIES
 
 #### Status
 ACCEPTED

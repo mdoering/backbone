@@ -1,8 +1,7 @@
-Rhizophlyctis costatus K. Konno SPECIES
-=======
+# Rhizophlyctis costata K. Konno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizophlyctis costatus K. Konno
+Rhizophlyctis costata K. Konno
 
 ### Remarks
 null

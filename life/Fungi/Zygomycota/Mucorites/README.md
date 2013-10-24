@@ -1,5 +1,4 @@
-Mucorites T.N. Hermann in B.S. Sokolov, 1979 GENUS
-=======
+# Mucorites T.N. Hermann in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

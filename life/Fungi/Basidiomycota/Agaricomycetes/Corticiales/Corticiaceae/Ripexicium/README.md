@@ -1,5 +1,4 @@
-Ripexicium Hjortstam GENUS
-=======
+# Ripexicium Hjortstam GENUS
 
 #### Status
 ACCEPTED

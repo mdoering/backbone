@@ -1,5 +1,4 @@
-Asterina ramularis Ellis SPECIES
-=======
+# Asterina ramularis Ellis SPECIES
 
 #### Status
 ACCEPTED

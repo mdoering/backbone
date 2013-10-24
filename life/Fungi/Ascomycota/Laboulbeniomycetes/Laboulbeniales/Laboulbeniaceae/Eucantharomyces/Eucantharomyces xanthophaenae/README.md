@@ -1,5 +1,4 @@
-Eucantharomyces xanthophaenae Thaxt. SPECIES
-=======
+# Eucantharomyces xanthophaenae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

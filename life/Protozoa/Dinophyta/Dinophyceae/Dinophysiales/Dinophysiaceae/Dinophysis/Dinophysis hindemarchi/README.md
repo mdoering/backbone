@@ -1,5 +1,4 @@
-Dinophysis hindemarchi (Schütt) Abd SPECIES
-=======
+# Dinophysis hindemarchi (Schütt) Abd SPECIES
 
 #### Status
 ACCEPTED

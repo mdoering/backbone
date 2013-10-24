@@ -1,5 +1,4 @@
-Seimatosporium pezizoides (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Seimatosporium pezizoides (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

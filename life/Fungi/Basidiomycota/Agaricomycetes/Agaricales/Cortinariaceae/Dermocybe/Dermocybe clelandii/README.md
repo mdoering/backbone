@@ -1,5 +1,4 @@
-Dermocybe clelandii (A.H. Sm.) Grgur. SPECIES
-=======
+# Dermocybe clelandii (A.H. Sm.) Grgur. SPECIES
 
 #### Status
 ACCEPTED

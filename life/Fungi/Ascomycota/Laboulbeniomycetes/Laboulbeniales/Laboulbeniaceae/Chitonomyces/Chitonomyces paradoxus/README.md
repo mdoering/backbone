@@ -1,14 +1,13 @@
-Heimatomyces paradoxus Peyr., 1873 SPECIES
-=======
+# Chitonomyces paradoxus (Peyr.) Thaxt., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 68: (1873)
+Mem. Amer. Acad. Arts, ser. 2 285 (1896)
 
 #### Original name
 Heimatomyces paradoxus Peyr., 1873

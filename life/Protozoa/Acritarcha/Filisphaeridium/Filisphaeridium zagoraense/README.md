@@ -1,5 +1,4 @@
-Filisphaeridium zagoraense (Elaouad-Debbaj, 1988) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium zagoraense (Elaouad-Debbaj, 1988) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporodum stemonitideum De Not. SPECIES
-=======
+# Sporodum stemonitideum De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria chionanthi J.H. Mill. & G.E. Thomps. SPECIES
-=======
+# Didymosphaeria chionanthi J.H. Mill. & G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

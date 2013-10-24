@@ -1,5 +1,4 @@
-Gnomonia cingulata Beck, 1926 SPECIES
-=======
+# Gnomonia cingulata Beck, 1926 SPECIES
 
 #### Status
 ACCEPTED

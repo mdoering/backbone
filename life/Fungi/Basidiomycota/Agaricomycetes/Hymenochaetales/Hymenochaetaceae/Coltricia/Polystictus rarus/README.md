@@ -1,5 +1,4 @@
-Polystictus rarus Lloyd SPECIES
-=======
+# Polystictus rarus Lloyd SPECIES
 
 #### Status
 ACCEPTED

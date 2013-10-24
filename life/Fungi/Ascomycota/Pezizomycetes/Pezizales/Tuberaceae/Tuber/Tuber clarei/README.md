@@ -1,5 +1,4 @@
-Tuber clarei Gilkey SPECIES
-=======
+# Tuber clarei Gilkey SPECIES
 
 #### Status
 ACCEPTED

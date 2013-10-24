@@ -1,5 +1,4 @@
-Lactella chaetarthriae Maessen SPECIES
-=======
+# Lactella chaetarthriae Maessen SPECIES
 
 #### Status
 ACCEPTED

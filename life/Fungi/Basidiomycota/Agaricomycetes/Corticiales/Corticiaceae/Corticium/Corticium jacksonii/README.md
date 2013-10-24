@@ -1,5 +1,4 @@
-Corticium jacksonii Hjortstam, 1998 SPECIES
-=======
+# Corticium jacksonii Hjortstam, 1998 SPECIES
 
 #### Status
 ACCEPTED

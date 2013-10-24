@@ -1,5 +1,4 @@
-Peziza cupula Batsch SPECIES
-=======
+# Peziza cupula Batsch SPECIES
 
 #### Status
 ACCEPTED

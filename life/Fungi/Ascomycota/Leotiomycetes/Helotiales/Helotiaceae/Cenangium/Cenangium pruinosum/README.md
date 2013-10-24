@@ -1,5 +1,4 @@
-Cenangium pruinosum (Ellis & Everh.) Seaver SPECIES
-=======
+# Cenangium pruinosum (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

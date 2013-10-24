@@ -1,5 +1,4 @@
-Rugidinium undulatum Pocock & Sarjeant, 1972 SPECIES
-=======
+# Rugidinium undulatum Pocock & Sarjeant, 1972 SPECIES
 
 #### Status
 ACCEPTED

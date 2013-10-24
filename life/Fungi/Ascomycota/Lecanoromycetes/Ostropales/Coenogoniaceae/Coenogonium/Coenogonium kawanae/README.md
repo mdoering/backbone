@@ -1,5 +1,4 @@
-Coenogonium kawanae (H. Harada & Vezda) H. Harada & Lumbsch SPECIES
-=======
+# Coenogonium kawanae (H. Harada & Vezda) H. Harada & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stysanus graminum (Cooke & Massee) SPECIES
-=======
+# Stysanus graminum (Cooke & Massee) SPECIES
 
 #### Status
 ACCEPTED

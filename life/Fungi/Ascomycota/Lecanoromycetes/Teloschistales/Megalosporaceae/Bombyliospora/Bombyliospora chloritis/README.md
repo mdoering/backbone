@@ -1,5 +1,4 @@
-Bombyliospora chloritis (Tuck.) Zahlbr. SPECIES
-=======
+# Bombyliospora chloritis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

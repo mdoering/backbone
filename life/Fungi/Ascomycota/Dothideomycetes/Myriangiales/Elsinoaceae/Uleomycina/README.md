@@ -1,5 +1,4 @@
-Uleomycina GENUS
-=======
+# Uleomycina GENUS
 
 #### Status
 ACCEPTED

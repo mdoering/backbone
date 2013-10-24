@@ -1,5 +1,4 @@
-Asyncosmium Turner, 1991 GENUS
-=======
+# Asyncosmium Turner, 1991 GENUS
 
 #### Status
 ACCEPTED

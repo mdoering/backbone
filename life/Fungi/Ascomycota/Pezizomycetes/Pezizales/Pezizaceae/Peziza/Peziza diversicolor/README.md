@@ -1,5 +1,4 @@
-Peziza diversicolor Fr. SPECIES
-=======
+# Peziza diversicolor Fr. SPECIES
 
 #### Status
 ACCEPTED

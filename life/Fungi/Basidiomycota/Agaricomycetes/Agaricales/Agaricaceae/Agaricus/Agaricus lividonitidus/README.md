@@ -1,5 +1,4 @@
-Agaricus lividonitidus (F.H. Møller) Pilát SPECIES
-=======
+# Agaricus lividonitidus (F.H. Møller) Pilát SPECIES
 
 #### Status
 ACCEPTED

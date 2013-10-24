@@ -1,5 +1,4 @@
-Asterostroma corticola Massee SPECIES
-=======
+# Asterostroma corticola Massee SPECIES
 
 #### Status
 ACCEPTED

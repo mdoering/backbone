@@ -1,5 +1,4 @@
-Spadicesporium bifurcatum-majus V.N. Boriss. & Dvoïnos SPECIES
-=======
+# Spadicesporium bifurcatum-majus V.N. Boriss. & Dvoïnos SPECIES
 
 #### Status
 ACCEPTED

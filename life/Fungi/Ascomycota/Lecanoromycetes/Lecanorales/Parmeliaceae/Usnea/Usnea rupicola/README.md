@@ -1,5 +1,4 @@
-Usnea rupicola Nádv. SPECIES
-=======
+# Usnea rupicola Nádv. SPECIES
 
 #### Status
 ACCEPTED

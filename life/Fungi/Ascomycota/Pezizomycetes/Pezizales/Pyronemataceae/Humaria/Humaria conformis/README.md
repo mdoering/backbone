@@ -1,5 +1,4 @@
-Humaria conformis Rehm SPECIES
-=======
+# Humaria conformis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora iwatensis S. Ito & Muray. SPECIES
-=======
+# Peronospora iwatensis S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

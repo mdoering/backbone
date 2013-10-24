@@ -1,5 +1,4 @@
-Septoria chamaerhodis Murashk. SPECIES
-=======
+# Septoria chamaerhodis Murashk. SPECIES
 
 #### Status
 ACCEPTED

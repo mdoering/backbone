@@ -1,14 +1,13 @@
-Helicosporium hendrickxii Hansf., 1945 SPECIES
-=======
+# Hiospira hendrickxii (Hansf.) R.T. Moore, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Inst. nat. Étude agron. Congo belge, Sér. sci. 2: 52 (1945)
+Trans. Br. mycol. Soc. 45: 145 (1962)
 
 #### Original name
 Helicosporium hendrickxii Hansf., 1945

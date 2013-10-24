@@ -1,5 +1,4 @@
-Alectoria ruwenzoriensis D. Hawksw. SPECIES
-=======
+# Alectoria ruwenzoriensis D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

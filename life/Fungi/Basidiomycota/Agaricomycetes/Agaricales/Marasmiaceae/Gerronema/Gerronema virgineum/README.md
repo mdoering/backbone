@@ -1,5 +1,4 @@
-Gerronema virgineum Pegler SPECIES
-=======
+# Gerronema virgineum Pegler SPECIES
 
 #### Status
 ACCEPTED

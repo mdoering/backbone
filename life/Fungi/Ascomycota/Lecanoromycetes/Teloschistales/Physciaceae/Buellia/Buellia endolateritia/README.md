@@ -1,5 +1,4 @@
-Buellia endolateritia Zahlbr. SPECIES
-=======
+# Buellia endolateritia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

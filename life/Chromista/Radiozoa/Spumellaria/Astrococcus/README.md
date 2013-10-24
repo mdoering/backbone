@@ -1,5 +1,4 @@
-Astrococcus Greeff, 1873 GENUS
-=======
+# Astrococcus Greeff, 1873 GENUS
 
 #### Status
 ACCEPTED

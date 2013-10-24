@@ -1,5 +1,4 @@
-Galera griseoisabellina (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Galera griseoisabellina (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

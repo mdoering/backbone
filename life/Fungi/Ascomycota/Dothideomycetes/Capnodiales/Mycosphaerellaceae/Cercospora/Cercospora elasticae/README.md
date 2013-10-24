@@ -1,5 +1,4 @@
-Cercospora elasticae Zimm. SPECIES
-=======
+# Cercospora elasticae Zimm. SPECIES
 
 #### Status
 ACCEPTED

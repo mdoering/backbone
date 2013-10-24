@@ -1,5 +1,4 @@
-Agrocybe hesleri Watling SPECIES
-=======
+# Agrocybe hesleri Watling SPECIES
 
 #### Status
 ACCEPTED

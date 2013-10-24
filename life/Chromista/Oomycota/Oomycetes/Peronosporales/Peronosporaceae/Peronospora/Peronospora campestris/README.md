@@ -1,5 +1,4 @@
-Peronospora campestris Gäum., 1923 SPECIES
-=======
+# Peronospora campestris Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

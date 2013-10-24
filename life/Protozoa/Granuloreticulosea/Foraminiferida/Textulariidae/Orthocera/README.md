@@ -1,5 +1,4 @@
-Orthocera Modeer, 1796 GENUS
-=======
+# Orthocera Modeer, 1796 GENUS
 
 #### Status
 ACCEPTED

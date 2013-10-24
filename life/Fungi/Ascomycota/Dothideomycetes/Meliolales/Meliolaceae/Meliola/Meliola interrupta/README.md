@@ -1,5 +1,4 @@
-Meliola interrupta Hansf. & Deighton SPECIES
-=======
+# Meliola interrupta Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

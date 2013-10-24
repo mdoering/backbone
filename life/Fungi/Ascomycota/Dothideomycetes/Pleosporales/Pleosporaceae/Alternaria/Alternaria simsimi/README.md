@@ -1,5 +1,4 @@
-Alternaria simsimi E.G. Simmons SPECIES
-=======
+# Alternaria simsimi E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

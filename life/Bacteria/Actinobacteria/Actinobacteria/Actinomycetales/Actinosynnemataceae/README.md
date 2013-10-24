@@ -1,5 +1,4 @@
-Actinosynnemataceae FAMILY
-=======
+# Actinosynnemataceae FAMILY
 
 #### Status
 ACCEPTED

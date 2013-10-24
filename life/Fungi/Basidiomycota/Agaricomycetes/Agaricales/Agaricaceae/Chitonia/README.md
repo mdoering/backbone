@@ -1,5 +1,4 @@
-Chitonia GENUS
-=======
+# Chitonia GENUS
 
 #### Status
 ACCEPTED

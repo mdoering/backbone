@@ -1,5 +1,4 @@
-Acaulospora splendida Sieverd., Chaverri & I. Rojas, 1988 SPECIES
-=======
+# Acaulospora splendida Sieverd., Chaverri & I. Rojas, 1988 SPECIES
 
 #### Status
 ACCEPTED

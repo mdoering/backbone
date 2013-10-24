@@ -1,5 +1,4 @@
-Stereum popyrinum Mont. SPECIES
-=======
+# Stereum popyrinum Mont. SPECIES
 
 #### Status
 ACCEPTED

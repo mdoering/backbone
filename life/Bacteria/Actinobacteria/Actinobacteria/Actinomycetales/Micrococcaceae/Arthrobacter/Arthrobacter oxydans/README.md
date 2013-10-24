@@ -1,5 +1,4 @@
-Arthrobacter oxydans Sguros, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter oxydans Sguros, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

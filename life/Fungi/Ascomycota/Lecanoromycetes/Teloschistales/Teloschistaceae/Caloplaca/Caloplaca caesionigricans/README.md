@@ -1,5 +1,4 @@
-Caloplaca caesionigricans (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca caesionigricans (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

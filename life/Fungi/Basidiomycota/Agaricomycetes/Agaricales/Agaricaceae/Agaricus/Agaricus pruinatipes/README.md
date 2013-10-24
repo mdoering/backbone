@@ -1,5 +1,4 @@
-Agaricus pruinatipes Peck SPECIES
-=======
+# Agaricus pruinatipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca auratopruinosa Sambo SPECIES
-=======
+# Caloplaca auratopruinosa Sambo SPECIES
 
 #### Status
 ACCEPTED

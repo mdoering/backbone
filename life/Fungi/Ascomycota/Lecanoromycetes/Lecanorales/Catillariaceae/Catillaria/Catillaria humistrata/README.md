@@ -1,5 +1,4 @@
-Catillaria humistrata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria humistrata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

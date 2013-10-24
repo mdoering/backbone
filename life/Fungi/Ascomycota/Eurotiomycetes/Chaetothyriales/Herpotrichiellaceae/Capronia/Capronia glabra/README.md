@@ -1,5 +1,4 @@
-Capronia glabra W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Capronia glabra W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea villosissima Scop. SPECIES
-=======
+# Usnea villosissima Scop. SPECIES
 
 #### Status
 ACCEPTED

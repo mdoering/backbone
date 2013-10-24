@@ -1,5 +1,4 @@
-Pseudofavolus cucullatus (Mont.) Pat. SPECIES
-=======
+# Pseudofavolus cucullatus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

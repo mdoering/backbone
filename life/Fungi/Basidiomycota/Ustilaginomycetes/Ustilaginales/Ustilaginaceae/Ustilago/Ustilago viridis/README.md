@@ -1,5 +1,4 @@
-Ustilago viridis Ellis & Everh. SPECIES
-=======
+# Ustilago viridis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

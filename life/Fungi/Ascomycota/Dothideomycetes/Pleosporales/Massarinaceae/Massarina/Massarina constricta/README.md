@@ -1,5 +1,4 @@
-Massarina constricta Kaz. Tanaka & Y. Harada, 2003 SPECIES
-=======
+# Massarina constricta Kaz. Tanaka & Y. Harada, 2003 SPECIES
 
 #### Status
 ACCEPTED

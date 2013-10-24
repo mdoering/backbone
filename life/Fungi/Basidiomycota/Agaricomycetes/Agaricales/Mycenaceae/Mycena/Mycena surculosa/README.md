@@ -1,5 +1,4 @@
-Mycena surculosa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena surculosa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

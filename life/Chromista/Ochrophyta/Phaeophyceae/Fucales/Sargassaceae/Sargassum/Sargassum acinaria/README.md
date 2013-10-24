@@ -1,11 +1,10 @@
-Sargassum acinaria var. humile Grunow, 1884 VARIETY
-=======
+# Sargassum acinaria C.Agardh, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

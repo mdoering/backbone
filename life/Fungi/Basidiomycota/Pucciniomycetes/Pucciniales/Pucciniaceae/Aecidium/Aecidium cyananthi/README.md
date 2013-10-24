@@ -1,5 +1,4 @@
-Aecidium cyananthi J.Y. Zhuang SPECIES
-=======
+# Aecidium cyananthi J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

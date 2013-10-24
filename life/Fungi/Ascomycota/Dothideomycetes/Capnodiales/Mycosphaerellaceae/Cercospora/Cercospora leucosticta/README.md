@@ -1,5 +1,4 @@
-Cercospora leucosticta Ellis & Everh. SPECIES
-=======
+# Cercospora leucosticta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

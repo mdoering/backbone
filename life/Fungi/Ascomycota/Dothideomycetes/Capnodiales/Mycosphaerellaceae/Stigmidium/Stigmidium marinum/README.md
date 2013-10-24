@@ -1,17 +1,16 @@
-Arthopyrenia marina f. marina FORM
-=======
+# Stigmidium marinum (Deakin) Swinscow, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 3: 62 (1965)
 
 #### Original name
-Arthopyrenia marina f. marina
+Mycosphaerella marina Deakin
 
 ### Remarks
 null

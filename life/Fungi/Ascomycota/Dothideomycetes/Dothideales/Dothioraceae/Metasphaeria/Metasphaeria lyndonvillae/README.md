@@ -1,5 +1,4 @@
-Metasphaeria lyndonvillae Fairm. SPECIES
-=======
+# Metasphaeria lyndonvillae Fairm. SPECIES
 
 #### Status
 ACCEPTED

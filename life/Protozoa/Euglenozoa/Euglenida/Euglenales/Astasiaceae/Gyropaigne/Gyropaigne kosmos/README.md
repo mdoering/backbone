@@ -1,5 +1,4 @@
-Gyropaigne kosmos Skuja SPECIES
-=======
+# Gyropaigne kosmos Skuja SPECIES
 
 #### Status
 ACCEPTED

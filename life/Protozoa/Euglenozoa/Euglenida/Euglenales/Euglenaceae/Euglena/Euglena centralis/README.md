@@ -1,5 +1,4 @@
-Euglena centralis Z. X. Shi SPECIES
-=======
+# Euglena centralis Z. X. Shi SPECIES
 
 #### Status
 ACCEPTED

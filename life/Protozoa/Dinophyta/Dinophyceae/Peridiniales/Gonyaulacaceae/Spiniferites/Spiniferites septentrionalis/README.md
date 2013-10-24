@@ -1,5 +1,4 @@
-Spiniferites septentrionalis Harland, 1977 SPECIES
-=======
+# Spiniferites septentrionalis Harland, 1977 SPECIES
 
 #### Status
 ACCEPTED

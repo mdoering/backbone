@@ -1,5 +1,4 @@
-Pseudocercospora premnicola (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora premnicola (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

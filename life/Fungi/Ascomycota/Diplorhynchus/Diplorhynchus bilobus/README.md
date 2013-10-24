@@ -1,17 +1,16 @@
-Diplorhynchus biloba G. Arnaud SPECIES
-=======
+# Diplorhynchus bilobus G. Arnaud, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 68: 207 (1952)
 
 #### Original name
-Diplorhynchus biloba G. Arnaud
+Diplorhynchus bilobus G. Arnaud, 1952
 
 ### Remarks
 null

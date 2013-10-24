@@ -1,5 +1,4 @@
-Mycosphaerella alsophila (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella alsophila (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

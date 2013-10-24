@@ -1,5 +1,4 @@
-Gelatinosporium uncinatum A. Funk SPECIES
-=======
+# Gelatinosporium uncinatum A. Funk SPECIES
 
 #### Status
 ACCEPTED

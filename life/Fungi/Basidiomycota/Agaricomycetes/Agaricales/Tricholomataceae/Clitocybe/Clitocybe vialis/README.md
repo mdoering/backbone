@@ -1,5 +1,4 @@
-Clitocybe vialis Murrill SPECIES
-=======
+# Clitocybe vialis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella mastixiae Hosag. & Raghu SPECIES
-=======
+# Asteridiella mastixiae Hosag. & Raghu SPECIES
 
 #### Status
 ACCEPTED

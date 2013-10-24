@@ -1,5 +1,4 @@
-Phyllosticta trollii f. trollii FORM
-=======
+# Phyllosticta trollii Trail SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Crypt. Soc. Scot. 43 (1889)
 
 #### Original name
-Phyllosticta trollii f. trollii
+Phyllosticta trollii Trail
 
 ### Remarks
 null

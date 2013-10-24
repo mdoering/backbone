@@ -1,5 +1,4 @@
-Pyrenula bicuspidata Müll. Arg. SPECIES
-=======
+# Pyrenula bicuspidata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

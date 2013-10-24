@@ -1,5 +1,4 @@
-Almophrya de Puytorac & Dragesco, 1968 GENUS
-=======
+# Almophrya de Puytorac & Dragesco, 1968 GENUS
 
 #### Status
 ACCEPTED

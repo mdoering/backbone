@@ -1,5 +1,4 @@
-Inocybe oreina J. Favre SPECIES
-=======
+# Inocybe oreina J. Favre SPECIES
 
 #### Status
 ACCEPTED

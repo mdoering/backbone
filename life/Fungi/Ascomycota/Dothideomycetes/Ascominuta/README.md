@@ -1,5 +1,4 @@
-Ascominuta Ranghoo & K.D. Hyde GENUS
-=======
+# Ascominuta Ranghoo & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

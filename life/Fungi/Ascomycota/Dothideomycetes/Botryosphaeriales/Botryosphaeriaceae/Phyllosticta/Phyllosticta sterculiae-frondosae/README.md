@@ -1,5 +1,4 @@
-Phyllosticta sterculiae-frondosae H. Mori SPECIES
-=======
+# Phyllosticta sterculiae-frondosae H. Mori SPECIES
 
 #### Status
 ACCEPTED

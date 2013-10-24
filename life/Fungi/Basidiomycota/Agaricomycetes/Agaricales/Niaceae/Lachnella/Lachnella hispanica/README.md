@@ -1,5 +1,4 @@
-Lachnella hispanica Cooke & W. Phillips SPECIES
-=======
+# Lachnella hispanica Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

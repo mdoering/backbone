@@ -1,8 +1,7 @@
-Peltigera körilsi-csomae Gyeln. SPECIES
-=======
+# Peltigera koeroesi-csomae Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera körilsi-csomae Gyeln.
+Peltigera koeroesi-csomae Gyeln.
 
 ### Remarks
 null

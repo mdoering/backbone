@@ -1,5 +1,4 @@
-Phytophthora canavaliae Hara SPECIES
-=======
+# Phytophthora canavaliae Hara SPECIES
 
 #### Status
 ACCEPTED

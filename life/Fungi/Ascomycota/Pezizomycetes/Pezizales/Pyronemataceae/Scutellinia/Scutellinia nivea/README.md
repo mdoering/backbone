@@ -1,5 +1,4 @@
-Scutellinia nivea T. Schumach. SPECIES
-=======
+# Scutellinia nivea T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

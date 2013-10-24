@@ -1,5 +1,4 @@
-Exobasidium perenne N.L. Nick. SPECIES
-=======
+# Exobasidium perenne N.L. Nick. SPECIES
 
 #### Status
 ACCEPTED

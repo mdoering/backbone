@@ -1,5 +1,4 @@
-Trichophyton vinosum Sabour. SPECIES
-=======
+# Trichophyton vinosum Sabour. SPECIES
 
 #### Status
 ACCEPTED

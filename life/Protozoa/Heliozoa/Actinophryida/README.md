@@ -1,5 +1,4 @@
-Actinophryida ORDER
-=======
+# Actinophryida ORDER
 
 #### Status
 ACCEPTED

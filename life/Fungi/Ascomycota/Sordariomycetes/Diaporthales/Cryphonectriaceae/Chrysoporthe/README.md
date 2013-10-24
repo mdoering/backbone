@@ -1,5 +1,4 @@
-Chrysoporthe Gryzenh. & M.J. Wingf. GENUS
-=======
+# Chrysoporthe Gryzenh. & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

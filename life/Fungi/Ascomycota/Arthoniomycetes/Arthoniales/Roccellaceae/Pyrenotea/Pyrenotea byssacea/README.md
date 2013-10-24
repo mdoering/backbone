@@ -1,5 +1,4 @@
-Pyrenotea byssacea (Weigel) Körb. SPECIES
-=======
+# Pyrenotea byssacea (Weigel) Körb. SPECIES
 
 #### Status
 ACCEPTED

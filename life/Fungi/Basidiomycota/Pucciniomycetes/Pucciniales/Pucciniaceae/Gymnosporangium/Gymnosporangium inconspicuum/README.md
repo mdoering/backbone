@@ -1,5 +1,4 @@
-Gymnosporangium inconspicuum F. Kern, 1907 SPECIES
-=======
+# Gymnosporangium inconspicuum F. Kern, 1907 SPECIES
 
 #### Status
 ACCEPTED

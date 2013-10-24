@@ -1,5 +1,4 @@
-Estiastra rugosa Wicander, 1974 SPECIES
-=======
+# Estiastra rugosa Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

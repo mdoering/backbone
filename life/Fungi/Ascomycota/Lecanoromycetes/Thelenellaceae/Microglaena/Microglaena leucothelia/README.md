@@ -1,5 +1,4 @@
-Microglaena leucothelia (Anzi) Arnold SPECIES
-=======
+# Microglaena leucothelia (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

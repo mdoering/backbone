@@ -1,5 +1,4 @@
-Lecidella spectabilis (Flörke) Körb. SPECIES
-=======
+# Lecidella spectabilis (Flörke) Körb. SPECIES
 
 #### Status
 ACCEPTED

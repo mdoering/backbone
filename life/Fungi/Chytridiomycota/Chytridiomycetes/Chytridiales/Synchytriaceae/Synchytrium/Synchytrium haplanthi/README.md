@@ -1,5 +1,4 @@
-Synchytrium haplanthi S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium haplanthi S.D. Patil & Mahab. SPECIES
 
 #### Status
 ACCEPTED

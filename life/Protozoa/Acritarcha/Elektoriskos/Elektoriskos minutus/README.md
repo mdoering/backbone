@@ -1,5 +1,4 @@
-Elektoriskos minutus Li Jun & Wang Yi, 1997 SPECIES
-=======
+# Elektoriskos minutus Li Jun & Wang Yi, 1997 SPECIES
 
 #### Status
 ACCEPTED

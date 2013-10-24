@@ -1,5 +1,4 @@
-Taphrina flavorubra W.W. Ray, 1939 SPECIES
-=======
+# Taphrina flavorubra W.W. Ray, 1939 SPECIES
 
 #### Status
 ACCEPTED

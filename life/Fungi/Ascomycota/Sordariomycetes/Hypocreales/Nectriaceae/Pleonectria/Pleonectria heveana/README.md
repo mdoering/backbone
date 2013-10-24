@@ -1,5 +1,4 @@
-Pleonectria heveana Sacc. SPECIES
-=======
+# Pleonectria heveana Sacc. SPECIES
 
 #### Status
 ACCEPTED

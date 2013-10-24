@@ -1,5 +1,4 @@
-Pleolpidium blastocladiae Minden SPECIES
-=======
+# Pleolpidium blastocladiae Minden SPECIES
 
 #### Status
 ACCEPTED

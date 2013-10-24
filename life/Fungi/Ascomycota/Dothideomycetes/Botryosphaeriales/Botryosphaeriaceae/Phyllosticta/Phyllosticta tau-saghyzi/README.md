@@ -1,5 +1,4 @@
-Phyllosticta tau-saghyzi Cherem. SPECIES
-=======
+# Phyllosticta tau-saghyzi Cherem. SPECIES
 
 #### Status
 ACCEPTED

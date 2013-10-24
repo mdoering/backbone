@@ -1,5 +1,4 @@
-Landsburgia quercifolia J.D. Hooker & Harvey SPECIES
-=======
+# Landsburgia quercifolia J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

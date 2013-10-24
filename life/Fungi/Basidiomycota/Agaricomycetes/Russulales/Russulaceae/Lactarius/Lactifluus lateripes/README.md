@@ -1,5 +1,4 @@
-Lactifluus lateripes (Desm.) Kuntze SPECIES
-=======
+# Lactifluus lateripes (Desm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

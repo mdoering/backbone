@@ -1,5 +1,4 @@
-Pluteus ferrugineus Henn. & E. Nyman SPECIES
-=======
+# Pluteus ferrugineus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

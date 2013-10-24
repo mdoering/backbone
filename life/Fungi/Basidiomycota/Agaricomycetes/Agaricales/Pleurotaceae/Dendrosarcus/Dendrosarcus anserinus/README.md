@@ -1,5 +1,4 @@
-Dendrosarcus anserinus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus anserinus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

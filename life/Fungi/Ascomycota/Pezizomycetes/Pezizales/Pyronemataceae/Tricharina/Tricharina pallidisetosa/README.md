@@ -1,5 +1,4 @@
-Tricharina pallidisetosa (E.K. Cash) K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Tricharina pallidisetosa (E.K. Cash) K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

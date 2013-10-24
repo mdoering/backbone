@@ -1,5 +1,4 @@
-Ramularia calcea (Desm.) Ces., 1852 SPECIES
-=======
+# Ramularia calcea (Desm.) Ces., 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema betaniae Hale SPECIES
-=======
+# Parmotrema betaniae Hale SPECIES
 
 #### Status
 ACCEPTED

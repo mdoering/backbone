@@ -1,5 +1,4 @@
-Metasphaeria janus (Berk. & M.A. Curtis) Berl. SPECIES
-=======
+# Metasphaeria janus (Berk. & M.A. Curtis) Berl. SPECIES
 
 #### Status
 ACCEPTED

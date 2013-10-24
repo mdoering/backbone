@@ -1,5 +1,4 @@
-Nitrosomonas Winogradsky, 1892 GENUS
-=======
+# Nitrosomonas Winogradsky, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema cryptotrema Nyl. SPECIES
-=======
+# Ocellularia cryptotrema (Nyl.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 318 (1867)
+Lichenes Neotropici (Neumarkt), Fascicle <b>VII</b> (nos 251-300) no. 283 (1983)
 
 #### Original name
 Thelotrema cryptotrema Nyl.

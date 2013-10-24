@@ -1,5 +1,4 @@
-Cercospora rautensis C. Massal., 1909 SPECIES
-=======
+# Cercospora rautensis C. Massal., 1909 SPECIES
 
 #### Status
 ACCEPTED

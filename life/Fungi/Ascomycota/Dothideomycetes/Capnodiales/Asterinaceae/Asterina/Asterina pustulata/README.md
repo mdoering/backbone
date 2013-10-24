@@ -1,5 +1,4 @@
-Asterina pustulata Ellis SPECIES
-=======
+# Asterina pustulata Ellis SPECIES
 
 #### Status
 ACCEPTED

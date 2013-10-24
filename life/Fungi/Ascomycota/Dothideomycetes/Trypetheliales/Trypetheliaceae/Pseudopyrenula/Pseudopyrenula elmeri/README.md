@@ -1,5 +1,4 @@
-Pseudopyrenula elmeri Vain. SPECIES
-=======
+# Pseudopyrenula elmeri Vain. SPECIES
 
 #### Status
 ACCEPTED

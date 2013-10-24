@@ -1,5 +1,4 @@
-Pseudocercospora palicoureina (Petr. & Cif.) U. Braun SPECIES
-=======
+# Pseudocercospora palicoureina (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

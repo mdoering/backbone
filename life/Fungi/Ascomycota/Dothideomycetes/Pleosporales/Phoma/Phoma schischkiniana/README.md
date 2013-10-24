@@ -1,5 +1,4 @@
-Phoma schischkiniana Gucevic SPECIES
-=======
+# Phoma schischkiniana Gucevic SPECIES
 
 #### Status
 ACCEPTED

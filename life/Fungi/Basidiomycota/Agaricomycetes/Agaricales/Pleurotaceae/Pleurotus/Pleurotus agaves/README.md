@@ -1,5 +1,4 @@
-Pleurotus agaves Dennis SPECIES
-=======
+# Pleurotus agaves Dennis SPECIES
 
 #### Status
 ACCEPTED

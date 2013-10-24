@@ -1,5 +1,4 @@
-Archaeococcus Lopuchin GENUS
-=======
+# Archaeococcus Lopuchin GENUS
 
 #### Status
 ACCEPTED

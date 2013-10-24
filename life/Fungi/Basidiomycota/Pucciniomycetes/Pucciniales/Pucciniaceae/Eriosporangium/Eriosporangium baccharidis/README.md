@@ -1,5 +1,4 @@
-Eriosporangium baccharidis (Lév.) Bert. {?} SPECIES
-=======
+# Eriosporangium baccharidis (Lév.) Bert. {?} SPECIES
 
 #### Status
 ACCEPTED

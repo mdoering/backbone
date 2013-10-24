@@ -1,5 +1,4 @@
-Rhodosticta coluteae Bremer SPECIES
-=======
+# Rhodosticta coluteae Bremer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphasma fimicola Rebent. SPECIES
-=======
+# Hyphasma fimicola Rebent. SPECIES
 
 #### Status
 ACCEPTED

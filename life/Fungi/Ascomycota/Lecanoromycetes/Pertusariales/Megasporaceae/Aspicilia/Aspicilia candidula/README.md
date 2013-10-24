@@ -1,5 +1,4 @@
-Aspicilia candidula Motyka SPECIES
-=======
+# Aspicilia candidula Motyka SPECIES
 
 #### Status
 ACCEPTED

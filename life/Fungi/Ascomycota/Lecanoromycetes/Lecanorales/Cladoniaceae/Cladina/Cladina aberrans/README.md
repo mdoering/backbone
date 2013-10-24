@@ -1,5 +1,4 @@
-Cladina aberrans (Abbayes) Hale & W.L. Culb. SPECIES
-=======
+# Cladina aberrans (Abbayes) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

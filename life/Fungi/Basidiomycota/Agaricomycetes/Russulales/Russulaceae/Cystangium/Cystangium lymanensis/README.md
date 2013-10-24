@@ -1,14 +1,13 @@
-Macowanites lymanensis Cázares & Trappe, 1991 SPECIES
-=======
+# Cystangium lymanensis (Cázares & Trappe) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 42: 335 (1991)
+Mycotaxon 81: 197 (2002)
 
 #### Original name
 Macowanites lymanensis Cázares & Trappe, 1991

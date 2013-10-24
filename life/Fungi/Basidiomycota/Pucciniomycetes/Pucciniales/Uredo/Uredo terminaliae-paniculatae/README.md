@@ -1,5 +1,4 @@
-Uredo terminaliae-paniculatae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Uredo terminaliae-paniculatae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

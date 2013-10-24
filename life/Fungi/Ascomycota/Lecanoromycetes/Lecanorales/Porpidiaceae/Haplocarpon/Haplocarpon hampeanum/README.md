@@ -1,5 +1,4 @@
-Haplocarpon hampeanum (Hepp) M. Choisy SPECIES
-=======
+# Haplocarpon hampeanum (Hepp) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

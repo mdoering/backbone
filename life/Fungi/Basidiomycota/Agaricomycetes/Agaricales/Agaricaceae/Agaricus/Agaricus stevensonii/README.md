@@ -1,5 +1,4 @@
-Agaricus stevensonii Berk. & Broome SPECIES
-=======
+# Agaricus stevensonii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

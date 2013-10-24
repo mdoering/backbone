@@ -1,5 +1,4 @@
-Helotium melanopus Pers. SPECIES
-=======
+# Helotium melanopus Pers. SPECIES
 
 #### Status
 ACCEPTED

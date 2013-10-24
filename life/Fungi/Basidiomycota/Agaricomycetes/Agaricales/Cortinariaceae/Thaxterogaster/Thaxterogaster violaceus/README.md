@@ -1,5 +1,4 @@
-Thaxterogaster violaceus Singer SPECIES
-=======
+# Thaxterogaster violaceus Singer SPECIES
 
 #### Status
 ACCEPTED

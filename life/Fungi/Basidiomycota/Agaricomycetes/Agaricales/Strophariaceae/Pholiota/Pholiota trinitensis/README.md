@@ -1,5 +1,4 @@
-Pholiota trinitensis Dennis SPECIES
-=======
+# Pholiota trinitensis Dennis SPECIES
 
 #### Status
 ACCEPTED

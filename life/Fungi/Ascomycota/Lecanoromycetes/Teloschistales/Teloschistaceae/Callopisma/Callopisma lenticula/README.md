@@ -1,5 +1,4 @@
-Callopisma lenticula F. Wilson SPECIES
-=======
+# Callopisma lenticula F. Wilson SPECIES
 
 #### Status
 ACCEPTED

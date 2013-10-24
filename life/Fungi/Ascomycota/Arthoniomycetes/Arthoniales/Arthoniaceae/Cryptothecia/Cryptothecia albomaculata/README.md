@@ -1,5 +1,4 @@
-Cryptothecia albomaculata Makhija & Patw. SPECIES
-=======
+# Cryptothecia albomaculata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

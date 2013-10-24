@@ -1,5 +1,4 @@
-Lecidea endogonia Nyl. SPECIES
-=======
+# Lecidea endogonia Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria concinna Erichsen SPECIES
-=======
+# Pertusaria concinna Erichsen SPECIES
 
 #### Status
 ACCEPTED

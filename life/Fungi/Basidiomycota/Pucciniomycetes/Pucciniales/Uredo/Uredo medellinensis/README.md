@@ -1,5 +1,4 @@
-Uredo medellinensis Pardo-Card. SPECIES
-=======
+# Uredo medellinensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

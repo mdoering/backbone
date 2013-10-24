@@ -1,5 +1,4 @@
-Ceratomyces denticulatus Thaxt. SPECIES
-=======
+# Ceratomyces denticulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis sitiana Vain. SPECIES
-=======
+# Graphis sitiana Vain. SPECIES
 
 #### Status
 ACCEPTED

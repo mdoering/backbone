@@ -1,5 +1,4 @@
-Coniochaeta phalacrocarpa G.C. Carroll & Munk SPECIES
-=======
+# Coniochaeta phalacrocarpa G.C. Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula conimbricensis Thüm. SPECIES
-=======
+# Torula conimbricensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Illosporium maculicolum Sacc. SPECIES
-=======
+# Illosporium maculicola Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Illosporium maculicolum Sacc.
+Illosporium maculicola Sacc.
 
 ### Remarks
 null

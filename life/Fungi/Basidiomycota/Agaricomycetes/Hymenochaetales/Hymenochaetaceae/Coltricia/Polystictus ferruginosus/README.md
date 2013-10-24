@@ -1,5 +1,4 @@
-Polystictus ferruginosus Lloyd SPECIES
-=======
+# Polystictus ferruginosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

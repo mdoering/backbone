@@ -1,5 +1,4 @@
-Sargassum minimum Tseng & Lu, 2004 SPECIES
-=======
+# Sargassum minimum Tseng & Lu, 2004 SPECIES
 
 #### Status
 ACCEPTED

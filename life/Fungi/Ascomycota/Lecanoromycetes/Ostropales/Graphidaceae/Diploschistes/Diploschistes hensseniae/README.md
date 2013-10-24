@@ -1,5 +1,4 @@
-Diploschistes hensseniae Lumbsch & Elix SPECIES
-=======
+# Diploschistes hensseniae Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

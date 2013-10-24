@@ -1,5 +1,4 @@
-Trematosphaeria fraxinicola Sacc. & P. Syd. SPECIES
-=======
+# Trematosphaeria fraxinicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

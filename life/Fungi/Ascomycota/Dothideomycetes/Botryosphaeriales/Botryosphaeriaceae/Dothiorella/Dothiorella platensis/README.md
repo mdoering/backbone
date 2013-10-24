@@ -1,5 +1,4 @@
-Dothiorella platensis Speg. SPECIES
-=======
+# Dothiorella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

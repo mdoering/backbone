@@ -1,5 +1,4 @@
-Fragilaria hirosakiensis T. Kanaya SPECIES
-=======
+# Fragilaria hirosakiensis T. Kanaya SPECIES
 
 #### Status
 ACCEPTED

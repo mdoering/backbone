@@ -1,5 +1,4 @@
-Marasmiellus platyhyphes Singer SPECIES
-=======
+# Marasmiellus platyhyphes Singer SPECIES
 
 #### Status
 ACCEPTED

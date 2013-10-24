@@ -1,5 +1,4 @@
-Pezizella myricae Rehm SPECIES
-=======
+# Pezizella myricae Rehm SPECIES
 
 #### Status
 ACCEPTED

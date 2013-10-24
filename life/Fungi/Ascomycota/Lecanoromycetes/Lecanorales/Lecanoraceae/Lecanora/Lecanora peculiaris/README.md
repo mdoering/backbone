@@ -1,5 +1,4 @@
-Lecanora peculiaris Zahlbr. SPECIES
-=======
+# Lecanora peculiaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

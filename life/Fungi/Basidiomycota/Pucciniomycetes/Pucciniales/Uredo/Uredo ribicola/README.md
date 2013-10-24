@@ -1,5 +1,4 @@
-Uredo ribicola Cooke & Ellis SPECIES
-=======
+# Uredo ribicola Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia ranunculi-lyallii Dearn. & Barthol. SPECIES
-=======
+# Ramularia ranunculi-lyallii Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

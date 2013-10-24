@@ -1,5 +1,4 @@
-Boletus cheoi W.F. Chiu SPECIES
-=======
+# Boletus cheoi W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

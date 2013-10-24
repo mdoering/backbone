@@ -1,5 +1,4 @@
-Praequinqueloculina Ma Wan Lac, 1982 GENUS
-=======
+# Praequinqueloculina Ma Wan Lac, 1982 GENUS
 
 #### Status
 ACCEPTED

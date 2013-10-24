@@ -1,5 +1,4 @@
-Entyloma occultum Cif. SPECIES
-=======
+# Entyloma occultum Cif. SPECIES
 
 #### Status
 ACCEPTED

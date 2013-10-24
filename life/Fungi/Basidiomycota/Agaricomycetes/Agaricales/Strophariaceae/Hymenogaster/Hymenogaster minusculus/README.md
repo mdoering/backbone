@@ -1,5 +1,4 @@
-Hymenogaster minusculus Soehner SPECIES
-=======
+# Hymenogaster minusculus Soehner SPECIES
 
 #### Status
 ACCEPTED

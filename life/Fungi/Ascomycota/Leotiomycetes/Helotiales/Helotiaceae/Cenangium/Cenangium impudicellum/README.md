@@ -1,5 +1,4 @@
-Cenangium impudicellum P. Karst. SPECIES
-=======
+# Cenangium impudicellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

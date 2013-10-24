@@ -1,5 +1,4 @@
-Fungus fabaceus (Berk.) Kuntze SPECIES
-=======
+# Fungus fabaceus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria fuscocincta Werner SPECIES
-=======
+# Verrucaria fuscocincta Werner SPECIES
 
 #### Status
 ACCEPTED

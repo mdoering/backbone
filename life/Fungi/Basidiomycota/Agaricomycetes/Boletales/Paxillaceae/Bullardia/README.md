@@ -1,5 +1,4 @@
-Bullardia GENUS
-=======
+# Bullardia GENUS
 
 #### Status
 ACCEPTED

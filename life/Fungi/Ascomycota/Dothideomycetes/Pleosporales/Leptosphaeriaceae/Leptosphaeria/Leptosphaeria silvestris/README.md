@@ -1,5 +1,4 @@
-Leptosphaeria silvestris Feltgen SPECIES
-=======
+# Leptosphaeria silvestris Feltgen SPECIES
 
 #### Status
 ACCEPTED

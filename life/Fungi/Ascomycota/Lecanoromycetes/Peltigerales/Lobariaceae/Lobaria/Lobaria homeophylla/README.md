@@ -1,5 +1,4 @@
-Lobaria homeophylla (Nyl.) Hellb. SPECIES
-=======
+# Lobaria homeophylla (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

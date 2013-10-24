@@ -1,5 +1,4 @@
-Psora caradocensis Mudd SPECIES
-=======
+# Psora caradocensis Mudd SPECIES
 
 #### Status
 ACCEPTED

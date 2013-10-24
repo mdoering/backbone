@@ -1,5 +1,4 @@
-Leptographium hughesii K. Jacobs, M.J. Wingf. & T.C. Harr. SPECIES
-=======
+# Leptographium hughesii K. Jacobs, M.J. Wingf. & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria romeana B. de Lesd. SPECIES
-=======
+# Verrucaria romeana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

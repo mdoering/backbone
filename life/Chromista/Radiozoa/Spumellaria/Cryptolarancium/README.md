@@ -1,5 +1,4 @@
-Cryptolarancium GENUS
-=======
+# Cryptolarancium GENUS
 
 #### Status
 ACCEPTED

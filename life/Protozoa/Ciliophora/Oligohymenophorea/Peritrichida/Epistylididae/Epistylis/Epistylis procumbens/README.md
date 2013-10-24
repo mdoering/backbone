@@ -1,8 +1,7 @@
-Epistylis rotans Svec, 1897 SPECIES
-=======
+# Epistylis procumbens Zacharias, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

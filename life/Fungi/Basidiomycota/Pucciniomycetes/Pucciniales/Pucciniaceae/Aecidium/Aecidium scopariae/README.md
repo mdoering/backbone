@@ -1,5 +1,4 @@
-Aecidium scopariae Wakef. & Hansf. SPECIES
-=======
+# Aecidium scopariae Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

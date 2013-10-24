@@ -1,5 +1,4 @@
-Bolivina inflata SPECIES
-=======
+# Bolivina inflata SPECIES
 
 #### Status
 ACCEPTED

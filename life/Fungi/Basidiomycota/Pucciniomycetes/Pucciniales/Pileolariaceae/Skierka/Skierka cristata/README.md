@@ -1,17 +1,16 @@
-Ctenoderma cristata (Speg.) Syd. & P. Syd. SPECIES
-=======
+# Skierka cristata Mains, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 31: 182 (1939)
 
 #### Original name
-Uredo cristata Speg., 1884
+Skierka cristata Mains, 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Camarosporium teucrii Celotti SPECIES
-=======
+# Camarosporium teucrii Celotti SPECIES
 
 #### Status
 ACCEPTED

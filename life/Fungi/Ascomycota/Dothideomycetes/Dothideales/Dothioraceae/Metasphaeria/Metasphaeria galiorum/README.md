@@ -1,5 +1,4 @@
-Metasphaeria galiorum (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Metasphaeria galiorum (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

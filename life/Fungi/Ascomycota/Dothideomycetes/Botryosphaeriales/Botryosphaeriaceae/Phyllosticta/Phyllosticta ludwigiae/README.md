@@ -1,5 +1,4 @@
-Phyllosticta ludwigiae Peck SPECIES
-=======
+# Phyllosticta ludwigiae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptella gibbosa (Lév.) Quél. SPECIES
-=======
+# Calyptella gibbosa (Lév.) Quél. SPECIES
 
 #### Status
 ACCEPTED

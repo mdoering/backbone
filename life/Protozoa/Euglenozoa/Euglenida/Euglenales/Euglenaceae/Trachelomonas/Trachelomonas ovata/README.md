@@ -1,5 +1,4 @@
-Trachelomonas ovata Roll SPECIES
-=======
+# Trachelomonas ovata Roll SPECIES
 
 #### Status
 ACCEPTED

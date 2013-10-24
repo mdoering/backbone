@@ -1,5 +1,4 @@
-Chaetomella longiseta Delacr. SPECIES
-=======
+# Chaetomella longiseta Delacr. SPECIES
 
 #### Status
 ACCEPTED

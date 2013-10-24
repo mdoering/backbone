@@ -1,5 +1,4 @@
-Rileya piceae A. Funk, 1979 SPECIES
-=======
+# Rileya piceae A. Funk, 1979 SPECIES
 
 #### Status
 ACCEPTED

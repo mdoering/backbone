@@ -1,5 +1,4 @@
-Entoloma vinaceocontusum (T.J. Baroni) Esteve-Rav. & A. Ortega SPECIES
-=======
+# Entoloma vinaceocontusum (T.J. Baroni) Esteve-Rav. & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

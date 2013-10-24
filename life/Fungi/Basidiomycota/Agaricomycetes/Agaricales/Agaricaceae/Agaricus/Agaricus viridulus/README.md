@@ -1,5 +1,4 @@
-Agaricus viridulus Schwein. SPECIES
-=======
+# Agaricus viridulus Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium cognitum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium cognitum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

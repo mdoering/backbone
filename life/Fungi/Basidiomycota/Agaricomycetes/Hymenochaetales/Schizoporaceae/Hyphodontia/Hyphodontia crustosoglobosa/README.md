@@ -1,17 +1,16 @@
-Xylodon crustosoglobosus (Hallenb. & Hjortstam) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia crustosoglobosa Hallenb. & Hjortstam, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 57: 119 (1996)
 
 #### Original name
-null
+Hyphodontia crustosoglobosa Hallenb. & Hjortstam, 1996
 
 ### Remarks
 null

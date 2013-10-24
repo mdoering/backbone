@@ -1,5 +1,4 @@
-Ustilago paspali Speg. SPECIES
-=======
+# Ustilago paspali Speg. SPECIES
 
 #### Status
 ACCEPTED

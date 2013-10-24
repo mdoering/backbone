@@ -1,5 +1,4 @@
-Metopus acutus Kahl, 1932 SPECIES
-=======
+# Metopus acutus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

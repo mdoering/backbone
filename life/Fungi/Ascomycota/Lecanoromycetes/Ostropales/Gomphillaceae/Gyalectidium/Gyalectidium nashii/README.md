@@ -1,5 +1,4 @@
-Gyalectidium nashii Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium nashii Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

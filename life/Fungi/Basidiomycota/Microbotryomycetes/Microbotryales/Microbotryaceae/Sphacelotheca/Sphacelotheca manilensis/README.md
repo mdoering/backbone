@@ -1,5 +1,4 @@
-Sphacelotheca manilensis (Syd. & P. Syd.) L. Ling SPECIES
-=======
+# Sphacelotheca manilensis (Syd. & P. Syd.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

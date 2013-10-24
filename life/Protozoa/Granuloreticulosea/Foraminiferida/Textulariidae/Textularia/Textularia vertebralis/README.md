@@ -1,5 +1,4 @@
-Textularia vertebralis Cushman SPECIES
-=======
+# Textularia vertebralis Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hypocoma acinetarum Collin, 1907 SPECIES
-=======
+# Enigmocoma acinetarum (Collin, 1907) Jankowski, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

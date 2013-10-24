@@ -1,5 +1,4 @@
-Thelephora palmetto Raddi SPECIES
-=======
+# Thelephora palmetto Raddi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium tenupariete Pitt SPECIES
-=======
+# Penicillium tenupariete Pitt SPECIES
 
 #### Status
 ACCEPTED

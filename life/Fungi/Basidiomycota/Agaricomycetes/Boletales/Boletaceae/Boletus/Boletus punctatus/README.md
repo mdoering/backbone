@@ -1,5 +1,4 @@
-Boletus punctatus With. SPECIES
-=======
+# Boletus punctatus With. SPECIES
 
 #### Status
 ACCEPTED

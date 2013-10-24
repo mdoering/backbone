@@ -1,17 +1,16 @@
-Russula velenovskyi f. velenovskyi FORM
-=======
+# Russula velenovskyi Melzer & Zvára, 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Arch. Prírodov. Výzk. Cech. 17: 92 (1927)
 
 #### Original name
-Russula velenovskyi f. velenovskyi
+Russula velenovskyi Melzer & Zvára, 1927
 
 ### Remarks
 null

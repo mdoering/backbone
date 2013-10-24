@@ -1,5 +1,4 @@
-Corticium dovrense Jørst. & Pilát SPECIES
-=======
+# Corticium dovrense Jørst. & Pilát SPECIES
 
 #### Status
 ACCEPTED

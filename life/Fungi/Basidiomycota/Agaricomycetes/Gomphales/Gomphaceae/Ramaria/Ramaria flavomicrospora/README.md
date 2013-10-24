@@ -1,5 +1,4 @@
-Ramaria flavomicrospora R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria flavomicrospora R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella horakiana Raithelh. SPECIES
-=======
+# Psathyrella horakiana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

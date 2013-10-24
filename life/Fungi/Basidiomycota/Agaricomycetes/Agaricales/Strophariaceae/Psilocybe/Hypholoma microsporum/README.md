@@ -1,5 +1,4 @@
-Hypholoma microsporum Sacc. SPECIES
-=======
+# Hypholoma microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirosporium stylidii M.B. Ellis SPECIES
-=======
+# Sirosporium stylidii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

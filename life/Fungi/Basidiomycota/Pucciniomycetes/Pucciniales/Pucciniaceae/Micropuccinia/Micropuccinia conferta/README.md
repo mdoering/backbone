@@ -1,5 +1,4 @@
-Micropuccinia conferta (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia conferta (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

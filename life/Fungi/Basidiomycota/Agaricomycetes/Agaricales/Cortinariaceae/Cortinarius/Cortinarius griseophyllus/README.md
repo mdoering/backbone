@@ -1,5 +1,4 @@
-Cortinarius griseophyllus Reumaux SPECIES
-=======
+# Cortinarius griseophyllus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus munsae Henn. SPECIES
-=======
+# Polyporus munsae Henn. SPECIES
 
 #### Status
 ACCEPTED

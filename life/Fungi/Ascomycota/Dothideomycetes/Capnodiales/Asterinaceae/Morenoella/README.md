@@ -1,5 +1,4 @@
-Morenoella GENUS
-=======
+# Morenoella GENUS
 
 #### Status
 ACCEPTED

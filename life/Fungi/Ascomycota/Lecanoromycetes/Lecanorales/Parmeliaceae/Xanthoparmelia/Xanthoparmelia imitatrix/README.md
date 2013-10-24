@@ -1,17 +1,16 @@
-Parmelia imitatrix var. imitatrix Taylor VARIETY
-=======
+# Xanthoparmelia imitatrix (Taylor) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 6: 161 (1847)
+Taxon 53(4): 968 (2004)
 
 #### Original name
-Parmelia imitatrix var. imitatrix Taylor
+Parmelia imitatrix Taylor
 
 ### Remarks
 null

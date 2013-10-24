@@ -1,14 +1,13 @@
-Lepteutypa indica (Punith.) Arx, 1970 SPECIES
-=======
+# Ellurema indica (Punith.) Nag Raj & W.B. Kendr., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Lehr) 118 (1970)
+Sydowia 38: 180 (1986)
 
 #### Original name
 null

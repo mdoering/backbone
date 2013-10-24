@@ -1,5 +1,4 @@
-Svratkina croatanensis SPECIES
-=======
+# Svratkina croatanensis SPECIES
 
 #### Status
 ACCEPTED

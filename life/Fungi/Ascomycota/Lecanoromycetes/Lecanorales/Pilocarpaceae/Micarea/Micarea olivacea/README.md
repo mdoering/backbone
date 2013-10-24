@@ -1,5 +1,4 @@
-Micarea olivacea Coppins SPECIES
-=======
+# Micarea olivacea Coppins SPECIES
 
 #### Status
 ACCEPTED

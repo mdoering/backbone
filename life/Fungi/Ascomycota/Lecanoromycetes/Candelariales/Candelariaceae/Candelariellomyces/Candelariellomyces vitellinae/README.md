@@ -1,5 +1,4 @@
-Candelariellomyces vitellinae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Candelariellomyces vitellinae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

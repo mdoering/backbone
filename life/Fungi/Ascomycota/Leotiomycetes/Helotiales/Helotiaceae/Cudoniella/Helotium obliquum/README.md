@@ -1,5 +1,4 @@
-Helotium obliquum Velen. SPECIES
-=======
+# Helotium obliquum Velen. SPECIES
 
 #### Status
 ACCEPTED

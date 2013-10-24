@@ -1,5 +1,4 @@
-Phalacroma praetextum Kofoid & Michener, 1911 SPECIES
-=======
+# Phalacroma praetextum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 DOUBTFUL

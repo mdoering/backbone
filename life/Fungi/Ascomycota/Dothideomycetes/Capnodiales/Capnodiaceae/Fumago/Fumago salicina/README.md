@@ -1,14 +1,13 @@
-Sporotrichum salicinum (Pers.) Fr., 1832 SPECIES
-=======
+# Fumago salicina (Pers.) Tul. & C. Tul. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 421 (1832)
+null
 
 #### Original name
 Dematium salicinum Pers., 1801

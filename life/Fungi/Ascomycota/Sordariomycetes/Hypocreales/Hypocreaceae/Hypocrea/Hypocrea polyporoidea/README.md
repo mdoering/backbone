@@ -1,5 +1,4 @@
-Hypocrea polyporoidea Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea polyporoidea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

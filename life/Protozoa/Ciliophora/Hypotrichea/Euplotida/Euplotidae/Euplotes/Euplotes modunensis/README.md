@@ -1,5 +1,4 @@
-Euplotes modunensis SPECIES
-=======
+# Euplotes modunensis SPECIES
 
 #### Status
 ACCEPTED

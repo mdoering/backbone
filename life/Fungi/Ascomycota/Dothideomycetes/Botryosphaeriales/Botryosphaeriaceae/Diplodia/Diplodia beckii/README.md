@@ -1,5 +1,4 @@
-Diplodia beckii Bäumler SPECIES
-=======
+# Diplodia beckii Bäumler SPECIES
 
 #### Status
 ACCEPTED

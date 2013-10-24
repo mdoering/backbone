@@ -1,5 +1,4 @@
-Trachyoligotriletes gyratus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
-=======
+# Trachyoligotriletes gyratus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

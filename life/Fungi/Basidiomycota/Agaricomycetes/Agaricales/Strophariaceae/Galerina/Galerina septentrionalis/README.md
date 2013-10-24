@@ -1,5 +1,4 @@
-Galerina septentrionalis A.H. Sm., 1964 SPECIES
-=======
+# Galerina septentrionalis A.H. Sm., 1964 SPECIES
 
 #### Status
 ACCEPTED

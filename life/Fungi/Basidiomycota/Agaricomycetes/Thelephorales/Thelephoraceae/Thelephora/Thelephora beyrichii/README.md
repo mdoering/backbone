@@ -1,5 +1,4 @@
-Thelephora beyrichii Fr. SPECIES
-=======
+# Thelephora beyrichii Fr. SPECIES
 
 #### Status
 ACCEPTED

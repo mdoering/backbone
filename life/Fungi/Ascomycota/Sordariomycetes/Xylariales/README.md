@@ -1,5 +1,4 @@
-Xylariales Nannf. ORDER
-=======
+# Xylariales Nannf. ORDER
 
 #### Status
 ACCEPTED

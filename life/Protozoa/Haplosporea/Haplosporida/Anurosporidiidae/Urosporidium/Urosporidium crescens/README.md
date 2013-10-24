@@ -1,5 +1,4 @@
-Urosporidium crescens SPECIES
-=======
+# Urosporidium crescens SPECIES
 
 #### Status
 ACCEPTED

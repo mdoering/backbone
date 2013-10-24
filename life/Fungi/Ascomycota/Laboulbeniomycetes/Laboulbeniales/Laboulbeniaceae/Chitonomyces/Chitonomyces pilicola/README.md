@@ -1,5 +1,4 @@
-Chitonomyces pilicola Thaxt. SPECIES
-=======
+# Chitonomyces pilicola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

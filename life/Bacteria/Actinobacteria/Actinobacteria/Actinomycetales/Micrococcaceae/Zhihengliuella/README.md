@@ -1,5 +1,4 @@
-Zhihengliuella Zhang, Schuman, Yu, Liu, Zhang, Xu, Stackebrandt, Jiang & Li, 2007 GENUS
-=======
+# Zhihengliuella Zhang, Schuman, Yu, Liu, Zhang, Xu, Stackebrandt, Jiang & Li, 2007 GENUS
 
 #### Status
 ACCEPTED

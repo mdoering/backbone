@@ -1,5 +1,4 @@
-Sphacelotheca cymbopogonis Yen {?} SPECIES
-=======
+# Sphacelotheca cymbopogonis Yen {?} SPECIES
 
 #### Status
 ACCEPTED

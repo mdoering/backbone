@@ -1,5 +1,4 @@
-Mycocalicium calicioides (Nádv.) Tibell SPECIES
-=======
+# Mycocalicium calicioides (Nádv.) Tibell SPECIES
 
 #### Status
 ACCEPTED

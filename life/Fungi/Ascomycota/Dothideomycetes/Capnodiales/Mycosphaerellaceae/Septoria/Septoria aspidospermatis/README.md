@@ -1,5 +1,4 @@
-Septoria aspidospermatis Bat. & Peres SPECIES
-=======
+# Septoria aspidospermatis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

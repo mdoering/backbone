@@ -1,5 +1,4 @@
-Spilomium ramalinae Olive SPECIES
-=======
+# Spilomium ramalinae Olive SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma ecuadorense Syd. SPECIES
-=======
+# Entyloma ecuadorense Syd. SPECIES
 
 #### Status
 ACCEPTED

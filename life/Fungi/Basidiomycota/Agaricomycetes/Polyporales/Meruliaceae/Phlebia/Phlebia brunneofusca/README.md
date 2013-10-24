@@ -1,5 +1,4 @@
-Phlebia brunneofusca (Hjortstam & Ryvarden) Nakasone & Gilb. SPECIES
-=======
+# Phlebia brunneofusca (Hjortstam & Ryvarden) Nakasone & Gilb. SPECIES
 
 #### Status
 ACCEPTED

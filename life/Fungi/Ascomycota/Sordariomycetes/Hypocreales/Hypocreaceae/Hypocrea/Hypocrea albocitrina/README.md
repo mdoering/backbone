@@ -1,5 +1,4 @@
-Hypocrea albocitrina Yoshim. Doi SPECIES
-=======
+# Hypocrea albocitrina Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menisporopsis pleiosetosa V. Rao & de Hoog SPECIES
-=======
+# Menisporopsis pleiosetosa V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

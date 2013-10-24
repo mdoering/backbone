@@ -1,5 +1,4 @@
-Macrolepiota Singer, 1948 GENUS
-=======
+# Macrolepiota Singer, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia samarae (Schwein.) Kuntze SPECIES
-=======
+# Macroplodia samarae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

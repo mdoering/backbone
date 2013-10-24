@@ -1,5 +1,4 @@
-Cucurbitaria offuscata (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria offuscata (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

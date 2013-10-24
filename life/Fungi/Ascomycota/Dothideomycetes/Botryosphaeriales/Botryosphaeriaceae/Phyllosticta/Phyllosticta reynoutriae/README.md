@@ -1,5 +1,4 @@
-Phyllosticta reynoutriae Sawada SPECIES
-=======
+# Phyllosticta reynoutriae Sawada SPECIES
 
 #### Status
 ACCEPTED

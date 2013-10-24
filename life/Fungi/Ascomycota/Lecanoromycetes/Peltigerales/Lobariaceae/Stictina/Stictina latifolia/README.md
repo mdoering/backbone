@@ -1,5 +1,4 @@
-Stictina latifolia Stizenb. SPECIES
-=======
+# Stictina latifolia Stizenb. SPECIES
 
 #### Status
 ACCEPTED

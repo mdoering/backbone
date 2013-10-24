@@ -1,5 +1,4 @@
-Streptomonospora salina Cui et al., 2001 SPECIES
-=======
+# Streptomonospora salina Cui et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

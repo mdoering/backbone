@@ -1,14 +1,13 @@
-Trichothyrina pinophylla (Höhn.) Petr., 1950 SPECIES
-=======
+# Lichenopeltella pinophylla (Höhn.) P.M. Kirk & Minter, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 168 (1950)
+IMI Descr. Fungi Bact. 174(nos 1731-1740): [9] (2007)
 
 #### Original name
 Leptopeltella pinophylla Höhn., 1917

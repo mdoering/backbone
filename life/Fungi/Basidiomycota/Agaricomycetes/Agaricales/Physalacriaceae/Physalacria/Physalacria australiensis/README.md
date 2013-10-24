@@ -1,5 +1,4 @@
-Physalacria australiensis Corner, 1950 SPECIES
-=======
+# Physalacria australiensis Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

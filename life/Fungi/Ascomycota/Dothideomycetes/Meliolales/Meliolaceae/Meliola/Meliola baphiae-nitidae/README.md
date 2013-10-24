@@ -1,5 +1,4 @@
-Meliola baphiae-nitidae var. baphiae-nitidae VARIETY
-=======
+# Meliola baphiae-nitidae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 33 (1948)
 
 #### Original name
-Meliola baphiae-nitidae var. baphiae-nitidae
+Meliola baphiae-nitidae Hansf. & Deighton
 
 ### Remarks
 null

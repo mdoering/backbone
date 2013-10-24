@@ -1,5 +1,4 @@
-Lycoperdon citrinum Berk. & Broome SPECIES
-=======
+# Lycoperdon citrinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

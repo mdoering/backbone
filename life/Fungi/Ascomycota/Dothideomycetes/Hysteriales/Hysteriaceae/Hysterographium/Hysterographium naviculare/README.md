@@ -1,5 +1,4 @@
-Hysterographium naviculare P. Karst. SPECIES
-=======
+# Hysterographium naviculare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

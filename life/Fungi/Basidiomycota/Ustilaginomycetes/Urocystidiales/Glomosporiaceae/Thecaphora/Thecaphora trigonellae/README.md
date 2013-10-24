@@ -1,5 +1,4 @@
-Thecaphora trigonellae Schwarzman SPECIES
-=======
+# Thecaphora trigonellae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

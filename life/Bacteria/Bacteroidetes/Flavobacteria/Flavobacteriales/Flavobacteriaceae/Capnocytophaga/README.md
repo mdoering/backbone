@@ -1,5 +1,4 @@
-Capnocytophaga Leadbetter, Holt & Socransky, 1979 GENUS
-=======
+# Capnocytophaga Leadbetter, Holt & Socransky, 1979 GENUS
 
 #### Status
 ACCEPTED

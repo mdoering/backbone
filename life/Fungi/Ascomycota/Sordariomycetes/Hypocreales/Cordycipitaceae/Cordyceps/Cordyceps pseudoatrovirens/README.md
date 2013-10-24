@@ -1,5 +1,4 @@
-Cordyceps pseudoatrovirens Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps pseudoatrovirens Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

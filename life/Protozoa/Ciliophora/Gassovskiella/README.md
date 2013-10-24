@@ -1,5 +1,4 @@
-Gassovskiella Grain, 1994 GENUS
-=======
+# Gassovskiella Grain, 1994 GENUS
 
 #### Status
 ACCEPTED

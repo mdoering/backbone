@@ -1,5 +1,4 @@
-Pythium oryzae S. Ito & Tokun. SPECIES
-=======
+# Pythium oryzae S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

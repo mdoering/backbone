@@ -1,5 +1,4 @@
-Graphis orientalis Vain. SPECIES
-=======
+# Graphis orientalis Vain. SPECIES
 
 #### Status
 ACCEPTED

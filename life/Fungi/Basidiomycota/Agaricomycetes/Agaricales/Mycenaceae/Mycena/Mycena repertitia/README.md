@@ -1,5 +1,4 @@
-Mycena repertitia Massee SPECIES
-=======
+# Mycena repertitia Massee SPECIES
 
 #### Status
 ACCEPTED

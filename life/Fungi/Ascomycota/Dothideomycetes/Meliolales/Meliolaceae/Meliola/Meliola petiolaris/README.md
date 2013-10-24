@@ -1,5 +1,4 @@
-Meliola petiolaris Petr. SPECIES
-=======
+# Meliola petiolaris Petr. SPECIES
 
 #### Status
 ACCEPTED

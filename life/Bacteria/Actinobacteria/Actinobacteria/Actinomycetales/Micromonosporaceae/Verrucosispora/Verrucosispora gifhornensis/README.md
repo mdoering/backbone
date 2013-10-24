@@ -1,5 +1,4 @@
-Verrucosispora gifhornensis Rheims et al., 1998 SPECIES
-=======
+# Verrucosispora gifhornensis Rheims et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

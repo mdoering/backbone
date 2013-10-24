@@ -1,5 +1,4 @@
-Thecaphora ruppiae Setch. SPECIES
-=======
+# Thecaphora ruppiae Setch. SPECIES
 
 #### Status
 ACCEPTED

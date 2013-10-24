@@ -1,17 +1,16 @@
-Trichothelium pallidesetum Lücking SPECIES
-=======
+# Trichothelium pallidisetum Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 66(3-4): 401 (1998)
 
 #### Original name
-Trichothelium pallidesetum Lücking
+Trichothelium pallidisetum Lücking
 
 ### Remarks
 null

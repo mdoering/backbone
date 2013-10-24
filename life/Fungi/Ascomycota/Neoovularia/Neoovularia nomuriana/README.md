@@ -1,5 +1,4 @@
-Neoovularia nomuriana (Sacc.) U. Braun, 1992 SPECIES
-=======
+# Neoovularia nomuriana (Sacc.) U. Braun, 1992 SPECIES
 
 #### Status
 ACCEPTED

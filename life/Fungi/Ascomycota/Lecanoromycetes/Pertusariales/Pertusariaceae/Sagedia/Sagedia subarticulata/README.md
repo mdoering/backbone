@@ -1,5 +1,4 @@
-Sagedia subarticulata Arnold SPECIES
-=======
+# Sagedia subarticulata Arnold SPECIES
 
 #### Status
 ACCEPTED

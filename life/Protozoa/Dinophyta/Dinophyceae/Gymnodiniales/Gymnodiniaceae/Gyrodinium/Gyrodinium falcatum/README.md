@@ -1,5 +1,4 @@
-Gyrodinium falcatum Kofoid & Swezy SPECIES
-=======
+# Gyrodinium falcatum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

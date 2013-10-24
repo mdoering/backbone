@@ -1,5 +1,4 @@
-Auricularia lenta Fr. SPECIES
-=======
+# Auricularia lenta Fr. SPECIES
 
 #### Status
 ACCEPTED

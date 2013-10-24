@@ -1,5 +1,4 @@
-Nephlyctis transformans (Ellis & Everh.) Arthur SPECIES
-=======
+# Nephlyctis transformans (Ellis & Everh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia sparassa f. sparassa FORM
-=======
+# Cladonia sparassa (Ach.) Hampe SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Linnaea 25: 712 (1852)
 
 #### Original name
-Cladonia sparassa f. sparassa
+Baeomyces sparassus Ach.
 
 ### Remarks
 null

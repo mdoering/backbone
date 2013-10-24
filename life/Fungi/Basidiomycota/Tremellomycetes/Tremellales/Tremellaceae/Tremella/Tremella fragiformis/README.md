@@ -1,5 +1,4 @@
-Tremella fragiformis Pers. SPECIES
-=======
+# Tremella fragiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

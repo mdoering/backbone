@@ -1,5 +1,4 @@
-Cyathella Rafinesque, 1815 GENUS
-=======
+# Cyathella Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

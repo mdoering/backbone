@@ -1,5 +1,4 @@
-Dictyophora lutea Liou & L. Hwang SPECIES
-=======
+# Dictyophora lutea Liou & L. Hwang SPECIES
 
 #### Status
 ACCEPTED

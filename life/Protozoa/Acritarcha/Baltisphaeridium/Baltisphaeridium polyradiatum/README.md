@@ -1,5 +1,4 @@
-Baltisphaeridium polyradiatum (Andreeva, 1966) N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium polyradiatum (Andreeva, 1966) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

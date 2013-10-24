@@ -1,5 +1,4 @@
-Ustilago quitensis Lagerh. SPECIES
-=======
+# Ustilago quitensis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

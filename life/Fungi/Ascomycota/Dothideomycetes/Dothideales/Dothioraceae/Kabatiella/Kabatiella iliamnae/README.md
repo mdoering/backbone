@@ -1,5 +1,4 @@
-Kabatiella iliamnae (W.B. Cooke & C.G. Shaw) Arx SPECIES
-=======
+# Kabatiella iliamnae (W.B. Cooke & C.G. Shaw) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces tomentosus (Fr.) Berk. SPECIES
-=======
+# Hypomyces tomentosus (Fr.) Berk. SPECIES
 
 #### Status
 ACCEPTED

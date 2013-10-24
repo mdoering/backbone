@@ -1,5 +1,4 @@
-Siluania Karpov, 1998 GENUS
-=======
+# Siluania Karpov, 1998 GENUS
 
 #### Status
 ACCEPTED

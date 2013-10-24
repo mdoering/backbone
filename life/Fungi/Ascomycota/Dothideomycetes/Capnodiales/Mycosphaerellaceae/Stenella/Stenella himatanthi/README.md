@@ -1,17 +1,16 @@
-Stenella hiamanthi U. Braun & F.O. Freire SPECIES
-=======
+# Stenella himatanthi U. Braun & F.O. Freire SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 25(3): 240 (2004)
 
 #### Original name
-Stenella hiamanthi U. Braun & F.O. Freire
+Stenella himatanthi U. Braun & F.O. Freire
 
 ### Remarks
 null

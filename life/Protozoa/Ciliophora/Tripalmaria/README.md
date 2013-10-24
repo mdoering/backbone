@@ -1,5 +1,4 @@
-Tripalmaria Gasskovsky, 1919 GENUS
-=======
+# Tripalmaria Gasskovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

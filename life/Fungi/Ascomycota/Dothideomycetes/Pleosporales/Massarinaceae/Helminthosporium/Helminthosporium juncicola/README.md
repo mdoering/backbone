@@ -1,5 +1,4 @@
-Helminthosporium juncicola Rabenh. SPECIES
-=======
+# Helminthosporium juncicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

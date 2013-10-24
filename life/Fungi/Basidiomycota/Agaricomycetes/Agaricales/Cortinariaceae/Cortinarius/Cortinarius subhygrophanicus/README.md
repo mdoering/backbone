@@ -1,5 +1,4 @@
-Cortinarius subhygrophanicus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius subhygrophanicus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

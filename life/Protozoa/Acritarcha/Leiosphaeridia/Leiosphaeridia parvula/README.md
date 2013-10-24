@@ -1,5 +1,4 @@
-Leiosphaeridia parvula (Timofeev, 1966) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia parvula (Timofeev, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

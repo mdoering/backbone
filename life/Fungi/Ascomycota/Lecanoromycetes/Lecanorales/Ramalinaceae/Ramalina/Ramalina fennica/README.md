@@ -1,5 +1,4 @@
-Ramalina fennica SPECIES
-=======
+# Ramalina fennica SPECIES
 
 #### Status
 ACCEPTED

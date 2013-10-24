@@ -1,5 +1,4 @@
-Pluteus nigrolineatus Murrill SPECIES
-=======
+# Pluteus nigrolineatus Murrill SPECIES
 
 #### Status
 ACCEPTED

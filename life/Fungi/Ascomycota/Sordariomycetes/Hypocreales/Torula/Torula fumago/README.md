@@ -1,5 +1,4 @@
-Torula fumago Chevall. SPECIES
-=======
+# Torula fumago Chevall. SPECIES
 
 #### Status
 ACCEPTED

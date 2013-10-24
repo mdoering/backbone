@@ -1,5 +1,4 @@
-Peziza soleniiforme Ellis & Everh. SPECIES
-=======
+# Peziza soleniiforme Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

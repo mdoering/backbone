@@ -1,5 +1,4 @@
-Cercospora artemisiae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora artemisiae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectonema norvegicum Gomont SPECIES
-=======
+# Plectonema norvegicum Gomont SPECIES
 
 #### Status
 ACCEPTED

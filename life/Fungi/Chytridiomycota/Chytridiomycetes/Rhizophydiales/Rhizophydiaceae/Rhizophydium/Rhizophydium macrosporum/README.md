@@ -1,5 +1,4 @@
-Rhizophydium macrosporum Karling SPECIES
-=======
+# Rhizophydium macrosporum Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora halesiicola U. Braun, D.F. Farr & Minnis, 2009 SPECIES
-=======
+# Passalora halesiicola U. Braun, D.F. Farr & Minnis, 2009 SPECIES
 
 #### Status
 ACCEPTED

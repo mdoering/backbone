@@ -1,5 +1,4 @@
-Phomopsis perseae Zerova, 1940 SPECIES
-=======
+# Phomopsis perseae Zerova, 1940 SPECIES
 
 #### Status
 ACCEPTED

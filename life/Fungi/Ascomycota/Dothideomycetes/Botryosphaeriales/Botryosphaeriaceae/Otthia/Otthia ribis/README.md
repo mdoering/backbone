@@ -1,5 +1,4 @@
-Otthia ribis Tracy & Earle SPECIES
-=======
+# Otthia ribis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

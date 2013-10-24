@@ -1,5 +1,4 @@
-Lecanora beccarii (Bagl.) Stizenb. SPECIES
-=======
+# Lecanora beccarii (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

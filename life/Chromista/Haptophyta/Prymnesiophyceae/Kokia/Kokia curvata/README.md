@@ -1,5 +1,4 @@
-Kokia curvata SPECIES
-=======
+# Kokia curvata SPECIES
 
 #### Status
 ACCEPTED

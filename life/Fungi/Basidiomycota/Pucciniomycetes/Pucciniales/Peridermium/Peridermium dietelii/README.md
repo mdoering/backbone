@@ -1,17 +1,16 @@
-Peridermium dieteli G.H. Wagner SPECIES
-=======
+# Peridermium dietelii G.H. Wagner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 6: 10 (1896)
 
 #### Original name
-Peridermium dieteli G.H. Wagner
+Peridermium dietelii G.H. Wagner
 
 ### Remarks
 null

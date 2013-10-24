@@ -1,5 +1,4 @@
-Macrophoma luffae Kavkas. SPECIES
-=======
+# Macrophoma luffae Kavkas. SPECIES
 
 #### Status
 ACCEPTED

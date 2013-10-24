@@ -1,5 +1,4 @@
-Hygrocybe viridis Capelari & Maziero, 1988 SPECIES
-=======
+# Hygrocybe viridis Capelari & Maziero, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pyrethri Bres. & Krieg., 1897 SPECIES
-=======
+# Septoria pyrethri Bres. & Krieg., 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula conica (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula conica (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

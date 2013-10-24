@@ -1,5 +1,4 @@
-Phyllosticta aesculana Oudem. SPECIES
-=======
+# Phyllosticta aesculana Oudem. SPECIES
 
 #### Status
 ACCEPTED

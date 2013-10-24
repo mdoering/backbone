@@ -1,5 +1,4 @@
-Catillaria mexicana B. de Lesd. SPECIES
-=======
+# Catillaria mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

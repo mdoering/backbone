@@ -1,5 +1,4 @@
-Cladonia norikurensis Asahina SPECIES
-=======
+# Cladonia norikurensis Asahina SPECIES
 
 #### Status
 ACCEPTED

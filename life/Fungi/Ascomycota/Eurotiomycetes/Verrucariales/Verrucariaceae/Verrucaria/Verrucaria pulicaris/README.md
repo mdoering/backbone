@@ -1,5 +1,4 @@
-Verrucaria pulicaris (Hoffm.) Willd. SPECIES
-=======
+# Verrucaria pulicaris (Hoffm.) Willd. SPECIES
 
 #### Status
 ACCEPTED

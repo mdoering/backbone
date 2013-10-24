@@ -1,17 +1,16 @@
-Russula melliolens f. melliolens FORM
-=======
+# Russula melliolens Quél., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Compt. Rend. Assoc. Franç. Avancem. Sci. 30: (1902)
 
 #### Original name
-Russula melliolens f. melliolens
+Russula melliolens Quél., 1902
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe arthrocystis Kühner SPECIES
-=======
+# Inocybe arthrocystis Kühner SPECIES
 
 #### Status
 ACCEPTED

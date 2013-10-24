@@ -1,5 +1,4 @@
-Coelomomyces couchii Nolan & B. Taylor SPECIES
-=======
+# Coelomomyces couchii Nolan & B. Taylor SPECIES
 
 #### Status
 ACCEPTED

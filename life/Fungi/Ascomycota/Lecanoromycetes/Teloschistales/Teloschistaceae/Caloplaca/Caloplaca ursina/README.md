@@ -1,5 +1,4 @@
-Caloplaca ursina Lynge SPECIES
-=======
+# Caloplaca ursina Lynge SPECIES
 
 #### Status
 ACCEPTED

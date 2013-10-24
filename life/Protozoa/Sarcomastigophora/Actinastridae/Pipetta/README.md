@@ -1,5 +1,4 @@
-Pipetta Haeckel, 1887 GENUS
-=======
+# Pipetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

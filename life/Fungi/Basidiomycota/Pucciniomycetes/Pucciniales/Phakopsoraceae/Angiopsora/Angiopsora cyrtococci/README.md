@@ -1,5 +1,4 @@
-Angiopsora cyrtococci T.S. Ramakr. & Sundaram SPECIES
-=======
+# Angiopsora cyrtococci T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

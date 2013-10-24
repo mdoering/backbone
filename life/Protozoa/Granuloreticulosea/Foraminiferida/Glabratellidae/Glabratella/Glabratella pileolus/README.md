@@ -1,5 +1,4 @@
-Glabratella pileolus SPECIES
-=======
+# Glabratella pileolus SPECIES
 
 #### Status
 ACCEPTED

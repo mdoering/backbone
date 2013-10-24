@@ -1,5 +1,4 @@
-Candelasphaeridium J. Deunff, 1978 GENUS
-=======
+# Candelasphaeridium J. Deunff, 1978 GENUS
 
 #### Status
 ACCEPTED

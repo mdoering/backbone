@@ -1,5 +1,4 @@
-Septoria asplenii Ellis & Everh. SPECIES
-=======
+# Septoria asplenii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

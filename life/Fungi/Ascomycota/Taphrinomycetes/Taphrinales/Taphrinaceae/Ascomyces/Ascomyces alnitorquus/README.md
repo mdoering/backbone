@@ -1,5 +1,4 @@
-Ascomyces alnitorquus (Tul.) SPECIES
-=======
+# Ascomyces alnitorquus (Tul.) SPECIES
 
 #### Status
 ACCEPTED

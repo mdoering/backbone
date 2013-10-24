@@ -1,5 +1,4 @@
-Stictina impressa (Hook. f. & Taylor) Müll. Arg. SPECIES
-=======
+# Stictina impressa (Hook. f. & Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

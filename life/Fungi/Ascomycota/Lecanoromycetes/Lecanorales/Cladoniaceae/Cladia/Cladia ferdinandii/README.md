@@ -1,14 +1,13 @@
-Clathrina ferdinandii (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Cladia ferdinandii (Müll. Arg.) Filson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 80 (1883)
+Victorian Nat. 87: 325 (1970)
 
 #### Original name
 Cladonia ferdinandii Müll. Arg.

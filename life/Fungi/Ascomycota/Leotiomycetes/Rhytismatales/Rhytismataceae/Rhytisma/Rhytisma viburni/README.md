@@ -1,5 +1,4 @@
-Rhytisma viburni Henn. SPECIES
-=======
+# Rhytisma viburni Henn. SPECIES
 
 #### Status
 ACCEPTED

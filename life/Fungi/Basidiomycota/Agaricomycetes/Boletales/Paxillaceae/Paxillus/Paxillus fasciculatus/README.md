@@ -1,5 +1,4 @@
-Paxillus fasciculatus Pegler SPECIES
-=======
+# Paxillus fasciculatus Pegler SPECIES
 
 #### Status
 ACCEPTED

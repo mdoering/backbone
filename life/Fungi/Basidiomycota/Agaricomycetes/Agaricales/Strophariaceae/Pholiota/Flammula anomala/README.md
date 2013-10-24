@@ -1,5 +1,4 @@
-Flammula anomala Peck SPECIES
-=======
+# Flammula anomala Peck SPECIES
 
 #### Status
 ACCEPTED

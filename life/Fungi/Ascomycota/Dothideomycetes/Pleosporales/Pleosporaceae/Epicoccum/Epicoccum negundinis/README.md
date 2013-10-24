@@ -1,5 +1,4 @@
-Epicoccum negundinis G.H. Otth SPECIES
-=======
+# Epicoccum negundinis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

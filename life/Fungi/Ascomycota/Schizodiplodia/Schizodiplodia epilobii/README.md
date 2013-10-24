@@ -1,5 +1,4 @@
-Schizodiplodia epilobii (Brunaud) Zambett. SPECIES
-=======
+# Schizodiplodia epilobii (Brunaud) Zambett. SPECIES
 
 #### Status
 ACCEPTED

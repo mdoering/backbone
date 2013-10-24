@@ -1,5 +1,4 @@
-Inifatiella R.F. Castañeda GENUS
-=======
+# Inifatiella R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

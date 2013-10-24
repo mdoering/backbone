@@ -1,5 +1,4 @@
-Cortinarius armillariopsis Rob. Henry SPECIES
-=======
+# Cortinarius armillariopsis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scopellopsis GENUS
-=======
+# Scopellopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe chrysocystidiata Singer SPECIES
-=======
+# Psilocybe chrysocystidiata Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea fleischeriana Henn. SPECIES
-=======
+# Lachnea fleischeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

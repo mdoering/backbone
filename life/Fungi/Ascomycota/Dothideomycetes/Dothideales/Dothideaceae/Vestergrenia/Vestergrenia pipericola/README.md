@@ -1,5 +1,4 @@
-Vestergrenia pipericola (F. Stevens) Petr. SPECIES
-=======
+# Vestergrenia pipericola (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

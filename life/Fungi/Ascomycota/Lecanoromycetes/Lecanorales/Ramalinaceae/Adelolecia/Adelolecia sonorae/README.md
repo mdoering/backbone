@@ -1,5 +1,4 @@
-Adelolecia sonorae Hertel SPECIES
-=======
+# Adelolecia sonorae Hertel SPECIES
 
 #### Status
 ACCEPTED

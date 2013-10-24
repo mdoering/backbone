@@ -1,5 +1,4 @@
-Cordyceps rubra Möller SPECIES
-=======
+# Cordyceps rubra Möller SPECIES
 
 #### Status
 ACCEPTED

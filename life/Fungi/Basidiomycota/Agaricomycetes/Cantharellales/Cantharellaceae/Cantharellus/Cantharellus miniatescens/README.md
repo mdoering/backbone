@@ -1,5 +1,4 @@
-Cantharellus miniatescens Heinem., 1958 SPECIES
-=======
+# Cantharellus miniatescens Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

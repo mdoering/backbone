@@ -1,5 +1,4 @@
-Lachnella ansonbarishii Agerer SPECIES
-=======
+# Lachnella ansonbarishii Agerer SPECIES
 
 #### Status
 ACCEPTED

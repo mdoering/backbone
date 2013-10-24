@@ -1,5 +1,4 @@
-Hysterangium cinereum Harkn. SPECIES
-=======
+# Hysterangium cinereum Harkn. SPECIES
 
 #### Status
 ACCEPTED

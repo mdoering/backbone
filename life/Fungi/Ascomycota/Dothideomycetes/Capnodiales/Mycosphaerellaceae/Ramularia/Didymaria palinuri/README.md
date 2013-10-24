@@ -1,5 +1,4 @@
-Didymaria palinuri Sordi SPECIES
-=======
+# Didymaria palinuri Sordi SPECIES
 
 #### Status
 ACCEPTED

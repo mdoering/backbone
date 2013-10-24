@@ -1,5 +1,4 @@
-Leiosphaeridia telmatica Sarjeant & Strachan, 1968 SPECIES
-=======
+# Leiosphaeridia telmatica Sarjeant & Strachan, 1968 SPECIES
 
 #### Status
 ACCEPTED

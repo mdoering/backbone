@@ -1,5 +1,4 @@
-Lycoperdon rugosum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon rugosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

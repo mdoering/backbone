@@ -1,5 +1,4 @@
-Ophiostoma japonicum Yamaoka & M.J. Wingf. SPECIES
-=======
+# Ophiostoma japonicum Yamaoka & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

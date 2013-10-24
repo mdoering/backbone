@@ -1,5 +1,4 @@
-Hendersonia atragenes Jacz. SPECIES
-=======
+# Hendersonia atragenes Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sclerotinia aucupariae F. Ludw. SPECIES
-=======
+# Monilinia aucupariae (F. Ludw.) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 37(6): 672 (1945)
 
 #### Original name
 Sclerotinia aucupariae F. Ludw.

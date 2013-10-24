@@ -1,5 +1,4 @@
-Rhodocollybia subsulcatipes (A.H. Sm.) Lennox SPECIES
-=======
+# Rhodocollybia subsulcatipes (A.H. Sm.) Lennox SPECIES
 
 #### Status
 ACCEPTED

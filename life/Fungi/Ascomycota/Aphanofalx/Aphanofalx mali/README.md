@@ -1,5 +1,4 @@
-Aphanofalx mali B. Sutton, 1986 SPECIES
-=======
+# Aphanofalx mali B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma sibthorpii Politis SPECIES
-=======
+# Phoma sibthorpii Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linhartia hoehnelii Rehm SPECIES
-=======
+# Linhartia hoehnelii Rehm SPECIES
 
 #### Status
 ACCEPTED

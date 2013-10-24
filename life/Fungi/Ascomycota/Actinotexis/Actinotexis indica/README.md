@@ -1,5 +1,4 @@
-Actinotexis indica S.K. Bose SPECIES
-=======
+# Actinotexis indica S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

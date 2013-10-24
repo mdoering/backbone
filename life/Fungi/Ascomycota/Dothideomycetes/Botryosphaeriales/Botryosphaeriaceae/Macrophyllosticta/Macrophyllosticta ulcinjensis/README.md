@@ -1,5 +1,4 @@
-Macrophyllosticta ulcinjensis M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta ulcinjensis M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

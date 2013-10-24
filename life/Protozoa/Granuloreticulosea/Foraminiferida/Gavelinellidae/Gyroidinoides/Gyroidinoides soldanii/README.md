@@ -1,8 +1,7 @@
-Hansenisca soldanii d'Orbigny, 1826 SPECIES
-=======
+# Gyroidinoides soldanii (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

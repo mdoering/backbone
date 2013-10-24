@@ -1,5 +1,4 @@
-Fusarium arcuatum var. arcuatum VARIETY
-=======
+# Fusarium arcuatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium arcuatum var. arcuatum
+Fusarium arcuatum Berk. & M.A. Curtis
 
 ### Remarks
 null

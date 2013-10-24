@@ -1,5 +1,4 @@
-Laboulbenia trechiphila Speg. SPECIES
-=======
+# Laboulbenia trechiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

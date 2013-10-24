@@ -1,14 +1,13 @@
-Merismodes melleus (Burt) Singer SPECIES
-=======
+# Merismodes mellea (Burt) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agaric. mod. Tax. (Vaduz), Edn 3 665 (1975)
 
 #### Original name
 Cyphella mellea Burt

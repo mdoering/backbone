@@ -1,5 +1,4 @@
-Naucoria cauliphila Velen. SPECIES
-=======
+# Naucoria cauliphila Velen. SPECIES
 
 #### Status
 ACCEPTED

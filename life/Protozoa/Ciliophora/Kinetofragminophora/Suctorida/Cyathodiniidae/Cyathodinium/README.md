@@ -1,5 +1,4 @@
-Cyathodinium Cunha, 1914 GENUS
-=======
+# Cyathodinium Cunha, 1914 GENUS
 
 #### Status
 ACCEPTED

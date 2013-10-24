@@ -1,5 +1,4 @@
-Tricholoma enudatum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma enudatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

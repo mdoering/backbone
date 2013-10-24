@@ -1,5 +1,4 @@
-Buellia malmei var. malmei VARIETY
-=======
+# Buellia malmei Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia malmei var. malmei
+Buellia malmei Lynge
 
 ### Remarks
 null

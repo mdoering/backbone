@@ -1,14 +1,13 @@
-Setchelliella G. De Toni, 1936 GENUS
-=======
+# Scytonematopsis E.I.Kiseleva, 1930 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Noter. nom. alg. 8: 6.
+Zurn. Russk. Bot. Obsc. 15: 174.
 
 #### Original name
 null

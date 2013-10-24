@@ -1,5 +1,4 @@
-Tricholoma subfusipes Kozina & Bon SPECIES
-=======
+# Tricholoma subfusipes Kozina & Bon SPECIES
 
 #### Status
 ACCEPTED

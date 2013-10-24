@@ -1,5 +1,4 @@
-Clitocybe coloradensis Murrill SPECIES
-=======
+# Clitocybe coloradensis Murrill SPECIES
 
 #### Status
 ACCEPTED

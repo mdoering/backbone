@@ -1,5 +1,4 @@
-Thecaphora heliopsidis Durán SPECIES
-=======
+# Thecaphora heliopsidis Durán SPECIES
 
 #### Status
 ACCEPTED

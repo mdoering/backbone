@@ -1,17 +1,16 @@
-Gomezina Chardón & Toro GENUS
-=======
+# Aphanostigme Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph Univ. Puerto Rico, Series B 2: 111 (1934)
+Annls mycol. 24(5/6): 368 (1926)
 
 #### Original name
-Gomezina Chardón & Toro
+Aphanostigme Syd.
 
 ### Remarks
 null

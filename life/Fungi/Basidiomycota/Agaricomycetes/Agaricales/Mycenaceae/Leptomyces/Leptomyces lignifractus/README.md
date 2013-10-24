@@ -1,5 +1,4 @@
-Leptomyces lignifractus (Mont.) Mont. SPECIES
-=======
+# Leptomyces lignifractus (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

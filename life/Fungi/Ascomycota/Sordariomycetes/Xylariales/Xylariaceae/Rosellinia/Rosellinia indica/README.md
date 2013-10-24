@@ -1,5 +1,4 @@
-Rosellinia indica Dargan & K.S. Thind SPECIES
-=======
+# Rosellinia indica Dargan & K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

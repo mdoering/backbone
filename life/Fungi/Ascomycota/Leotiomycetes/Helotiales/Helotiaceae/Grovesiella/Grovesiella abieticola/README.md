@@ -1,5 +1,4 @@
-Grovesiella abieticola (Zeller & Goodd.) M. Morelet & Gremmen, 1969 SPECIES
-=======
+# Grovesiella abieticola (Zeller & Goodd.) M. Morelet & Gremmen, 1969 SPECIES
 
 #### Status
 ACCEPTED

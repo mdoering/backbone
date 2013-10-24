@@ -1,5 +1,4 @@
-Lecanora coronulans Nyl. SPECIES
-=======
+# Lecanora coronulans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe stemmata (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe stemmata (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

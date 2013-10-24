@@ -1,5 +1,4 @@
-Lecidea acerviformis B.J. Murray SPECIES
-=======
+# Lecidea acerviformis B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

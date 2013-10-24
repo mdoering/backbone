@@ -1,5 +1,4 @@
-Rudoloculina hooperi Guilbault & Patterson, 1998 SPECIES
-=======
+# Rudoloculina hooperi Guilbault & Patterson, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena steloides L. Canabaeus SPECIES
-=======
+# Anabaena steloides L. Canabaeus SPECIES
 
 #### Status
 ACCEPTED

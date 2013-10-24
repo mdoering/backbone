@@ -1,5 +1,4 @@
-Melanomma aurantiiphila Speg. SPECIES
-=======
+# Melanomma aurantiiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

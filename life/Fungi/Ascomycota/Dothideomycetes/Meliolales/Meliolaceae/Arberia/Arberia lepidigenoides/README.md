@@ -1,5 +1,4 @@
-Arberia lepidigenoides (Ellis & Everh.) Nieuwl. SPECIES
-=======
+# Arberia lepidigenoides (Ellis & Everh.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

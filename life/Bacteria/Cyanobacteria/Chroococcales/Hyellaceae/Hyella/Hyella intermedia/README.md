@@ -1,5 +1,4 @@
-Hyella intermedia Varma & Mitra SPECIES
-=======
+# Hyella intermedia Varma & Mitra SPECIES
 
 #### Status
 ACCEPTED

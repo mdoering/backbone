@@ -1,5 +1,4 @@
-Entoloma brunneoserrulatum Eyssart. & Noordel. SPECIES
-=======
+# Entoloma brunneoserrulatum Eyssart. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

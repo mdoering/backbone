@@ -1,5 +1,4 @@
-Micropeltis duoquadrimera Bat., R. Garnier & O.M. Fonseca SPECIES
-=======
+# Micropeltis duoquadrimera Bat., R. Garnier & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

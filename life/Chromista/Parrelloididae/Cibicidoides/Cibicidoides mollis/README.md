@@ -1,5 +1,4 @@
-Cibicidoides mollis (Phleger & Parker, 1951) SPECIES
-=======
+# Cibicidoides mollis (Phleger & Parker, 1951) SPECIES
 
 #### Status
 ACCEPTED

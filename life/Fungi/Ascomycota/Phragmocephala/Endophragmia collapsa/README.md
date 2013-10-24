@@ -1,5 +1,4 @@
-Endophragmia collapsa B. Sutton SPECIES
-=======
+# Endophragmia collapsa B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Relicina clarkensis Elix & J. Johnst. SPECIES
-=======
+# Relicina clarkensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

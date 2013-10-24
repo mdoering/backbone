@@ -1,5 +1,4 @@
-Leucocoprinus austrofragilis Aberdeen SPECIES
-=======
+# Leucocoprinus austrofragilis Aberdeen SPECIES
 
 #### Status
 ACCEPTED

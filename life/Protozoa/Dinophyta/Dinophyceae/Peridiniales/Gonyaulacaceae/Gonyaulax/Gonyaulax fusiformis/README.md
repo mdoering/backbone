@@ -1,5 +1,4 @@
-Gonyaulax fusiformis Graham SPECIES
-=======
+# Gonyaulax fusiformis Graham SPECIES
 
 #### Status
 ACCEPTED

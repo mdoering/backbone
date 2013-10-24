@@ -1,5 +1,4 @@
-Pseudocercospora sieberiana Raghu Ram & Mallaiah SPECIES
-=======
+# Pseudocercospora sieberiana Raghu Ram & Mallaiah SPECIES
 
 #### Status
 ACCEPTED

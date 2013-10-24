@@ -1,5 +1,4 @@
-Cercospora raipurensis S. Chowdhury SPECIES
-=======
+# Cercospora raipurensis S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

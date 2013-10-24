@@ -1,5 +1,4 @@
-Geoglossum heuflerianum F.M. Bailey SPECIES
-=======
+# Geoglossum heuflerianum F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterocapsa Chu, 1952 GENUS
-=======
+# Asterocapsa Chu, 1952 GENUS
 
 #### Status
 ACCEPTED

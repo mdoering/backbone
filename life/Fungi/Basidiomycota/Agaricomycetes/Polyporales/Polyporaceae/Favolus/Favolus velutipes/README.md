@@ -1,5 +1,4 @@
-Favolus velutipes Fr. SPECIES
-=======
+# Favolus velutipes Fr. SPECIES
 
 #### Status
 ACCEPTED

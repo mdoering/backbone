@@ -1,14 +1,13 @@
-Volvaria diplasia (Berk. & Broome) Sacc., 1887 SPECIES
-=======
+# Volvariella diplasia (Berk. & Broome) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 658 (1887)
+Lilloa 22: 401 (1951)
 
 #### Original name
 Agaricus diplasius Berk. & Broome, 1868

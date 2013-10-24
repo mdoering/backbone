@@ -1,5 +1,4 @@
-Mycovellosiella terminaliae Kharwar & R.K. Singh SPECIES
-=======
+# Mycovellosiella terminaliae Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia aucubae Gutner SPECIES
-=======
+# Pestalotia aucubae Gutner SPECIES
 
 #### Status
 ACCEPTED

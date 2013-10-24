@@ -1,8 +1,7 @@
-Nassula heterovesiculata Gelei, 1939 SPECIES
-=======
+# Synhymenia heterovesiculata (Gelei, 1939) Jankowski, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

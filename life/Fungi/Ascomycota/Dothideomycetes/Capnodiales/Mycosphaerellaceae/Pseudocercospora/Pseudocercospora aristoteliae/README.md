@@ -1,14 +1,13 @@
-Cercospora aristoteliae Cooke, 1890 SPECIES
-=======
+# Pseudocercospora aristoteliae (Cooke) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 89): 4 (1890)
+Mycol. Pap. 140: 139 (1976)
 
 #### Original name
 Cercospora aristoteliae Cooke, 1890

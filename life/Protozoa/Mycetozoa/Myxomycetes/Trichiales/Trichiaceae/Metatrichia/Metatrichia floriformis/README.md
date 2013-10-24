@@ -1,17 +1,16 @@
-Trichia botrytis lateritia (Lév.) Lister, 1894 INFRASPECIFIC_NAME
-=======
+# Metatrichia floriformis (Schwein.) Nann.-Bremek., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 88(1): 127 (1985)
 
 #### Original name
-null
+Craterium floriforme Schwein., 1832
 
 ### Remarks
 null

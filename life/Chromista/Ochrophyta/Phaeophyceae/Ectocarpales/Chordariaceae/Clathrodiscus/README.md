@@ -1,5 +1,4 @@
-Clathrodiscus Hamel, 1935 GENUS
-=======
+# Clathrodiscus Hamel, 1935 GENUS
 
 #### Status
 ACCEPTED

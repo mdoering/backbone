@@ -1,5 +1,4 @@
-Aecidium culcitii Jørst. SPECIES
-=======
+# Aecidium culcitii Jørst. SPECIES
 
 #### Status
 ACCEPTED

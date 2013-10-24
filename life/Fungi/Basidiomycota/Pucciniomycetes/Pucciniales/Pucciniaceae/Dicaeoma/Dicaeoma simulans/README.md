@@ -1,5 +1,4 @@
-Dicaeoma simulans (Peck) Arthur & Fromme SPECIES
-=======
+# Dicaeoma simulans (Peck) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

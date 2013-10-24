@@ -1,5 +1,4 @@
-Ascochyta osmundae H.C. Greene SPECIES
-=======
+# Ascochyta osmundae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

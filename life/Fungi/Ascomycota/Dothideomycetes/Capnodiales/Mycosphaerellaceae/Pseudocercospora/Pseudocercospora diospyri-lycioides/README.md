@@ -1,5 +1,4 @@
-Pseudocercospora diospyri-lycioides Crous & U. Braun SPECIES
-=======
+# Pseudocercospora diospyri-lycioides Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

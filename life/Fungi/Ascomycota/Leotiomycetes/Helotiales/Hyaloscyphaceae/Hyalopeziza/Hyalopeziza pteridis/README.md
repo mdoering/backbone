@@ -1,5 +1,4 @@
-Hyalopeziza pteridis Kanouse SPECIES
-=======
+# Hyalopeziza pteridis Kanouse SPECIES
 
 #### Status
 ACCEPTED

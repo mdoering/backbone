@@ -1,5 +1,4 @@
-Meliola costaricensis (F. Stevens) Cif. SPECIES
-=======
+# Meliola costaricensis (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

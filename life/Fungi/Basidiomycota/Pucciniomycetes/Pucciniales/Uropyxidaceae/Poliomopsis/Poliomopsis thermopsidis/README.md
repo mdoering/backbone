@@ -1,5 +1,4 @@
-Poliomopsis thermopsidis A.W. Ramaley, 1987 SPECIES
-=======
+# Poliomopsis thermopsidis A.W. Ramaley, 1987 SPECIES
 
 #### Status
 ACCEPTED

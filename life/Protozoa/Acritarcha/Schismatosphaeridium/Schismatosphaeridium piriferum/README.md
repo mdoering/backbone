@@ -1,5 +1,4 @@
-Schismatosphaeridium piriferum N. Umnova, 1975 SPECIES
-=======
+# Schismatosphaeridium piriferum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

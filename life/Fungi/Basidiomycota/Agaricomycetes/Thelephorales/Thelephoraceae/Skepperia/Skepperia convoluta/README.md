@@ -1,5 +1,4 @@
-Skepperia convoluta Berk., 1857 SPECIES
-=======
+# Skepperia convoluta Berk., 1857 SPECIES
 
 #### Status
 ACCEPTED

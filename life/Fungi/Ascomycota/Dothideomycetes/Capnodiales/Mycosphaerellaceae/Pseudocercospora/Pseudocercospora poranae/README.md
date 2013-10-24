@@ -1,5 +1,4 @@
-Pseudocercospora poranae (Suj. Singh) A.K. Das & Chattopadh. SPECIES
-=======
+# Pseudocercospora poranae (Suj. Singh) A.K. Das & Chattopadh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla palmicola Henn. SPECIES
-=======
+# Zignoëlla palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

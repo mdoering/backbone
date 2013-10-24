@@ -1,5 +1,4 @@
-Asteroma euphorbiae Fuckel SPECIES
-=======
+# Asteroma euphorbiae Fuckel SPECIES
 
 #### Status
 ACCEPTED

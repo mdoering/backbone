@@ -1,5 +1,4 @@
-Tuberculostoma GENUS
-=======
+# Tuberculostoma GENUS
 
 #### Status
 ACCEPTED

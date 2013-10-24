@@ -1,5 +1,4 @@
-Scriniodinium ceratophorum Cookson & Eisenack SPECIES
-=======
+# Scriniodinium ceratophorum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

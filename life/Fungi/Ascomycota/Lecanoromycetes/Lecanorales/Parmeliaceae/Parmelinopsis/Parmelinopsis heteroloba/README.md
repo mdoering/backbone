@@ -1,5 +1,4 @@
-Parmelinopsis heteroloba (Zahlbr.) Elix & Hale SPECIES
-=======
+# Parmelinopsis heteroloba (Zahlbr.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

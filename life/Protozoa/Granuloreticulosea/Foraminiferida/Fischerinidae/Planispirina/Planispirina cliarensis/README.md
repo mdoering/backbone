@@ -1,5 +1,4 @@
-Planispirina cliarensis Heron-Allen & Earland, 1913 SPECIES
-=======
+# Planispirina cliarensis Heron-Allen & Earland, 1913 SPECIES
 
 #### Status
 ACCEPTED

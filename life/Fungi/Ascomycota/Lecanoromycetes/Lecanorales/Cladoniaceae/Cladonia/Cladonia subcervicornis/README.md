@@ -1,14 +1,13 @@
-Cladonia cervicornis var. subcervicornis Vain. VARIETY
-=======
+# Cladonia subcervicornis (Vain.) Kernst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Eur. Clad. 15 (1900)
 
 #### Original name
 Cladonia cervicornis var. subcervicornis Vain.

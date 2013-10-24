@@ -1,5 +1,4 @@
-Clitocybe isabellina Corner SPECIES
-=======
+# Clitocybe isabellina Corner SPECIES
 
 #### Status
 ACCEPTED

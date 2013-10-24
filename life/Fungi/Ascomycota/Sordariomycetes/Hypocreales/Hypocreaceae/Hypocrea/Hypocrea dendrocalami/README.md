@@ -1,17 +1,16 @@
-Hypocrea dendrocalamae S.D. Patil & M.S. Patil SPECIES
-=======
+# Hypocrea dendrocalami S.D. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 36(4): 636 (1983)
 
 #### Original name
-Hypocrea dendrocalamae S.D. Patil & M.S. Patil
+Hypocrea dendrocalami S.D. Patil & M.S. Patil
 
 ### Remarks
 null

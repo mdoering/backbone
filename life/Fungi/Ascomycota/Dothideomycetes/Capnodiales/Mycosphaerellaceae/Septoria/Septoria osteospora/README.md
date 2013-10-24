@@ -1,5 +1,4 @@
-Septoria osteospora Briard SPECIES
-=======
+# Septoria osteospora Briard SPECIES
 
 #### Status
 ACCEPTED

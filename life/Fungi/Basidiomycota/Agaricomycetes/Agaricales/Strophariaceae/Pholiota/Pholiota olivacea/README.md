@@ -1,5 +1,4 @@
-Pholiota olivacea (Maire & Malençon) Bon SPECIES
-=======
+# Pholiota olivacea (Maire & Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

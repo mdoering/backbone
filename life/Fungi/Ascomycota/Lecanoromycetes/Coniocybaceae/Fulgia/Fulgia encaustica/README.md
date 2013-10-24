@@ -1,5 +1,4 @@
-Fulgia encaustica Chevall. SPECIES
-=======
+# Fulgia encaustica Chevall. SPECIES
 
 #### Status
 ACCEPTED

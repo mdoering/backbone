@@ -1,5 +1,4 @@
-Foveoletisporonites Ramanujam & Rao GENUS
-=======
+# Foveoletisporonites Ramanujam & Rao GENUS
 
 #### Status
 ACCEPTED

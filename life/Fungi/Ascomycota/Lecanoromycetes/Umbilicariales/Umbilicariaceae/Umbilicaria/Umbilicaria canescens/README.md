@@ -1,5 +1,4 @@
-Umbilicaria canescens (Dombr.) Dombr. SPECIES
-=======
+# Umbilicaria canescens (Dombr.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

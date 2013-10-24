@@ -1,5 +1,4 @@
-Nectria importata Rehm SPECIES
-=======
+# Nectria importata Rehm SPECIES
 
 #### Status
 ACCEPTED

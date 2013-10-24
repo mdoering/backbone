@@ -1,5 +1,4 @@
-Alcaligenes GENUS
-=======
+# Alcaligenes GENUS
 
 #### Status
 ACCEPTED

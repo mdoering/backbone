@@ -1,5 +1,4 @@
-Sphaeria reniformis Richon SPECIES
-=======
+# Sphaeria reniformis Richon SPECIES
 
 #### Status
 ACCEPTED

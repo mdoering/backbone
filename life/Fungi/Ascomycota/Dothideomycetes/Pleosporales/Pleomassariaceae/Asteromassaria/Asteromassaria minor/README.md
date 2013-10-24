@@ -1,5 +1,4 @@
-Asteromassaria minor (Peck) M.E. Barr SPECIES
-=======
+# Asteromassaria minor (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

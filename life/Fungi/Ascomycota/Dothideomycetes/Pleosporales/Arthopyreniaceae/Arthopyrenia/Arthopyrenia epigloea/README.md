@@ -1,5 +1,4 @@
-Arthopyrenia epigloea (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia epigloea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

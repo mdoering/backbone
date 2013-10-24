@@ -1,5 +1,4 @@
-Depazea tiliae Lasch SPECIES
-=======
+# Depazea tiliae Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora psychotriicola (Chupp & Doidge) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora psychotriicola (Chupp & Doidge) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium asperum Sacc. & Schulzer SPECIES
-=======
+# Clasterosporium asperum Sacc. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

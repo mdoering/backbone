@@ -1,5 +1,4 @@
-Stylacontarium Popofsky, 1912 GENUS
-=======
+# Stylacontarium Popofsky, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutella ramosa Mains SPECIES
-=======
+# Hirsutella ramosa Mains SPECIES
 
 #### Status
 ACCEPTED

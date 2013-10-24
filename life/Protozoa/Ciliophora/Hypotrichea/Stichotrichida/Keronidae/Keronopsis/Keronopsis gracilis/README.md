@@ -1,5 +1,4 @@
-Keronopsis gracilis Kahl, 1932 SPECIES
-=======
+# Keronopsis gracilis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

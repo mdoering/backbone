@@ -1,5 +1,4 @@
-Sphaeria hendersoniae Ellis SPECIES
-=======
+# Sphaeria hendersoniae Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota fuscosquamea (Peck) Sacc. SPECIES
-=======
+# Lepiota fuscosquamea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproderma gulielmae Meyl., 1919 SPECIES
-=======
+# Lamproderma gulielmae Meyl., 1919 SPECIES
 
 #### Status
 ACCEPTED

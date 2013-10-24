@@ -1,5 +1,4 @@
-Scolicotrichum smaragdinum Bonord. SPECIES
-=======
+# Scolicotrichum smaragdinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

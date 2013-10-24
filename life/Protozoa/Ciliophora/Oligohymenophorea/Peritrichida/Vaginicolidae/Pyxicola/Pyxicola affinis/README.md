@@ -1,5 +1,4 @@
-Pyxicola affinis Kent, 1882 SPECIES
-=======
+# Pyxicola affinis Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

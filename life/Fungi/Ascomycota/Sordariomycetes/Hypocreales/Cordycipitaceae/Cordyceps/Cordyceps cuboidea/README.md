@@ -1,5 +1,4 @@
-Cordyceps cuboidea Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps cuboidea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

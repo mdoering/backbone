@@ -1,5 +1,4 @@
-Polysaccammina Scott, 1976 GENUS
-=======
+# Polysaccammina Scott, 1976 GENUS
 
 #### Status
 ACCEPTED

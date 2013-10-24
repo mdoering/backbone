@@ -1,5 +1,4 @@
-Deconica fuegiana E. Horak SPECIES
-=======
+# Deconica fuegiana E. Horak SPECIES
 
 #### Status
 ACCEPTED

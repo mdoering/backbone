@@ -1,5 +1,4 @@
-Ampelomyces uncinulae (Fautrey) Rudakov SPECIES
-=======
+# Ampelomyces uncinulae (Fautrey) Rudakov SPECIES
 
 #### Status
 ACCEPTED

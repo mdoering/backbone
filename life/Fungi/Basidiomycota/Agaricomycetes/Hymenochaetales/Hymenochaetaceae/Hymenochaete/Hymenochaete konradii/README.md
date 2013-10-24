@@ -1,14 +1,13 @@
-Hymenochaete tabacina var. konradii Pilát, 1930 VARIETY
-=======
+# Hymenochaete konradii (Pilát) J.C. Léger, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 70: 110 (1930)
+Cryptog. Mycol. 6(2): 145 (1985)
 
 #### Original name
 Hymenochaete tabacina var. konradii Pilát, 1930

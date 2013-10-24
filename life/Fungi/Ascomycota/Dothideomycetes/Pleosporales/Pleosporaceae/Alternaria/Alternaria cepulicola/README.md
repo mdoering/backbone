@@ -1,5 +1,4 @@
-Alternaria cepulicola V.G. Rao SPECIES
-=======
+# Alternaria cepulicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

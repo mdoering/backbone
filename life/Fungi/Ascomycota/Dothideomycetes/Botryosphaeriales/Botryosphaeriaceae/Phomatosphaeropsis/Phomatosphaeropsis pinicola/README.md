@@ -1,5 +1,4 @@
-Phomatosphaeropsis pinicola Ribaldi, 1953 SPECIES
-=======
+# Phomatosphaeropsis pinicola Ribaldi, 1953 SPECIES
 
 #### Status
 ACCEPTED

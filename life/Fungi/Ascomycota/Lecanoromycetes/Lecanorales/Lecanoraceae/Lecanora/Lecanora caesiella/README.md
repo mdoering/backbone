@@ -1,5 +1,4 @@
-Lecanora caesiella Körb. SPECIES
-=======
+# Lecanora caesiella Körb. SPECIES
 
 #### Status
 ACCEPTED

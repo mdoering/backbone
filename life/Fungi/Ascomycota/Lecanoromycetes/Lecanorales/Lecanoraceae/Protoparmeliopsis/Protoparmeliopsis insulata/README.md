@@ -1,5 +1,4 @@
-Protoparmeliopsis insulata SPECIES
-=======
+# Protoparmeliopsis insulata SPECIES
 
 #### Status
 ACCEPTED

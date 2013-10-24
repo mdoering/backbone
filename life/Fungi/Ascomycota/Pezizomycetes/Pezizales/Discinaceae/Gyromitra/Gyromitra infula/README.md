@@ -1,17 +1,16 @@
-Helvella infula var. infula VARIETY
-=======
+# Gyromitra infula (Schaeff.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enchir. fung. (Paris) 272 (1886)
 
 #### Original name
-Helvella infula var. infula
+Helvella infula Schaeff., 1774
 
 ### Remarks
 null

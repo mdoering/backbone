@@ -1,5 +1,4 @@
-Splanchnonema thujinum (Peck) M.E. Barr SPECIES
-=======
+# Splanchnonema thujinum (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

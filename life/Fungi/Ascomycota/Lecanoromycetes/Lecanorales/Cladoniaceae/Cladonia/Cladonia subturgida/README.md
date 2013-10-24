@@ -1,5 +1,4 @@
-Cladonia subturgida Samp. SPECIES
-=======
+# Cladonia subturgida Samp. SPECIES
 
 #### Status
 ACCEPTED

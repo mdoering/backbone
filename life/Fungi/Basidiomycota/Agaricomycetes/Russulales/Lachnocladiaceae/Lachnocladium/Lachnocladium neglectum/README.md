@@ -1,5 +1,4 @@
-Lachnocladium neglectum Massee SPECIES
-=======
+# Lachnocladium neglectum Massee SPECIES
 
 #### Status
 ACCEPTED

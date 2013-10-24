@@ -1,5 +1,4 @@
-Lecanactis subabietina Coppins & P. James SPECIES
-=======
+# Lecanactis subabietina Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

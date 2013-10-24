@@ -1,14 +1,13 @@
-Rhizidiomycopsis saprophytica Karling, 1968 SPECIES
-=======
+# Rhizidiomyces saprophyticus (Karling) Karling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 20: 137 (1968)
+Chytridiomycet. Iconogr. (New York) 394 (1977)
 
 #### Original name
 Rhizidiomycopsis saprophytica Karling, 1968

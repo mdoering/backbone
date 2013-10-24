@@ -1,5 +1,4 @@
-Coleosporium anemones Y. Ono, Adhikari & Rajbh. SPECIES
-=======
+# Coleosporium anemones Y. Ono, Adhikari & Rajbh. SPECIES
 
 #### Status
 ACCEPTED

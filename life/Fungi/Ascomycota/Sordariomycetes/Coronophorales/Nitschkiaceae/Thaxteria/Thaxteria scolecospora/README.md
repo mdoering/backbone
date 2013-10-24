@@ -1,5 +1,4 @@
-Thaxteria scolecospora Petr. SPECIES
-=======
+# Thaxteria scolecospora Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerotelium galactiae Salazar-Yepes & A.A. Carvalho SPECIES
-=======
+# Cerotelium galactiae Salazar-Yepes & A.A. Carvalho SPECIES
 
 #### Status
 ACCEPTED

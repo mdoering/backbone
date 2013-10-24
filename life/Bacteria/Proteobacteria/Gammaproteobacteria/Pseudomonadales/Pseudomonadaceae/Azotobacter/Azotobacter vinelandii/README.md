@@ -1,5 +1,4 @@
-Azotobacter vinelandii Lipman, 1903 (Approved Lists, 1980) SPECIES
-=======
+# Azotobacter vinelandii Lipman, 1903 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

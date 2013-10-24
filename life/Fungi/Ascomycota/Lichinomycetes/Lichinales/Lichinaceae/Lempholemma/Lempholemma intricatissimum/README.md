@@ -1,5 +1,4 @@
-Lempholemma intricatissimum (J. Steiner) Zahlbr. SPECIES
-=======
+# Lempholemma intricatissimum (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

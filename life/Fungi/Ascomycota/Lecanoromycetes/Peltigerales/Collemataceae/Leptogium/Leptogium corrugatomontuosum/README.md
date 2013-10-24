@@ -1,5 +1,4 @@
-Leptogium corrugatomontuosum Couderc SPECIES
-=======
+# Leptogium corrugatomontuosum Couderc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita canescens D.T. Jenkins SPECIES
-=======
+# Amanita canescens D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

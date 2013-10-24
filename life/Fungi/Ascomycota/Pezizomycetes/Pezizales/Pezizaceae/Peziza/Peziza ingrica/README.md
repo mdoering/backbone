@@ -1,5 +1,4 @@
-Peziza ingrica Weinm. SPECIES
-=======
+# Peziza ingrica Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Straticonophyton H.J. Hofmann, 1978 GENUS
-=======
+# Straticonophyton H.J. Hofmann, 1978 GENUS
 
 #### Status
 ACCEPTED

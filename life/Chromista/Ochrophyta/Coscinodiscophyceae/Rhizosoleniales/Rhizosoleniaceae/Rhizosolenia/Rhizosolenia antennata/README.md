@@ -1,8 +1,7 @@
-Rhizosolenia antennula f. semispina FORM
-=======
+# Rhizosolenia antennata (Ehrenberg) Brown SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

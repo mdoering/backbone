@@ -1,5 +1,4 @@
-Clostridium tetanomorphum (ex Bulloch et al., 1919) Wilde et al., 1989 SPECIES
-=======
+# Clostridium tetanomorphum (ex Bulloch et al., 1919) Wilde et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

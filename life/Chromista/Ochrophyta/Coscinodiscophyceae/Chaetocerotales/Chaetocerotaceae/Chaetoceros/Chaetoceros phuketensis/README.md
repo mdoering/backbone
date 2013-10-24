@@ -1,5 +1,4 @@
-Chaetoceros phuketensis J.E.B. Rines, P. Boonruang & E.C. Theriot, 2000 SPECIES
-=======
+# Chaetoceros phuketensis J.E.B. Rines, P. Boonruang & E.C. Theriot, 2000 SPECIES
 
 #### Status
 ACCEPTED

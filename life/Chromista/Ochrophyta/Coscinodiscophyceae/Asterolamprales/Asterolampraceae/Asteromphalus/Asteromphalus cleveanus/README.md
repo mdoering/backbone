@@ -1,5 +1,4 @@
-Asteromphalus cleveanus Grunow SPECIES
-=======
+# Asteromphalus cleveanus Grunow SPECIES
 
 #### Status
 ACCEPTED

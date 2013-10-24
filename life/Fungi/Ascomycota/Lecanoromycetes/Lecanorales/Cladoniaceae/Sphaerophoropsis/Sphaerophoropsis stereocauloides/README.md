@@ -1,5 +1,4 @@
-Sphaerophoropsis stereocauloides Vain. SPECIES
-=======
+# Sphaerophoropsis stereocauloides Vain. SPECIES
 
 #### Status
 ACCEPTED

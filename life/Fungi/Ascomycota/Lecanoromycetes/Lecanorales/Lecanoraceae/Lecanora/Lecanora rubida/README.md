@@ -1,5 +1,4 @@
-Lecanora rubida V. Wirth SPECIES
-=======
+# Lecanora rubida V. Wirth SPECIES
 
 #### Status
 ACCEPTED

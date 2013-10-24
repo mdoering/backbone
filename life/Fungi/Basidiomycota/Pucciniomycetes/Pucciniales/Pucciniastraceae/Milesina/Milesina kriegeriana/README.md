@@ -1,14 +1,13 @@
-Milesia kriegeriana (Magnus) Arthur, 1915 SPECIES
-=======
+# Milesina kriegeriana (Magnus) Magnus, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 7(4): 176 (1915)
+Bull. Inst. bot. Univ. Belgrade 27: 325 (1909)
 
 #### Original name
 Melampsorella kriegeriana Magnus, 1901

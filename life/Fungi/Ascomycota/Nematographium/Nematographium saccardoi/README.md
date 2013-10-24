@@ -1,14 +1,13 @@
-Graphium saccardoi Peyronel SPECIES
-=======
+# Nematographium saccardoi (Peyronel) Goid., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annali Bot. , Roma 21(1): 46 (1935)
 
 #### Original name
 Graphium saccardoi Peyronel

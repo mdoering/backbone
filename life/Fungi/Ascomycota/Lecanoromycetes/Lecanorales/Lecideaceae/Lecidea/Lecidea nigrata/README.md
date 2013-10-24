@@ -1,5 +1,4 @@
-Lecidea nigrata (Müll. Arg.) Vain. SPECIES
-=======
+# Lecidea nigrata (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

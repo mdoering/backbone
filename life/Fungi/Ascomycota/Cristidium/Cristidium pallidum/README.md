@@ -1,5 +1,4 @@
-Cristidium pallidum R. Sant. SPECIES
-=======
+# Cristidium pallidum R. Sant. SPECIES
 
 #### Status
 ACCEPTED

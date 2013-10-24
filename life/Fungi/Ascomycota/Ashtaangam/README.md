@@ -1,5 +1,4 @@
-Ashtaangam Subram. GENUS
-=======
+# Ashtaangam Subram. GENUS
 
 #### Status
 ACCEPTED

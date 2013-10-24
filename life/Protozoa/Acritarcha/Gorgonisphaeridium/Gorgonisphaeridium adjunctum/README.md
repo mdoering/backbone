@@ -1,5 +1,4 @@
-Gorgonisphaeridium adjunctum Wicander & Wood, 1997 SPECIES
-=======
+# Gorgonisphaeridium adjunctum Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

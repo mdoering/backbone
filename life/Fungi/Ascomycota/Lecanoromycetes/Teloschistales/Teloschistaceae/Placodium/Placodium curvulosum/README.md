@@ -1,5 +1,4 @@
-Placodium curvulosum Norman SPECIES
-=======
+# Placodium curvulosum Norman SPECIES
 
 #### Status
 ACCEPTED

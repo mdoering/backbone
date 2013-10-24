@@ -1,5 +1,4 @@
-Alariaceae Setchell & Gardner, 1925 FAMILY
-=======
+# Alariaceae Setchell & Gardner, 1925 FAMILY
 
 #### Status
 ACCEPTED

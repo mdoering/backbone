@@ -1,5 +1,4 @@
-Halophytophthora exoprolifera H.H. Ho, Nakagiri & S.Y. Newell, 1992 SPECIES
-=======
+# Halophytophthora exoprolifera H.H. Ho, Nakagiri & S.Y. Newell, 1992 SPECIES
 
 #### Status
 ACCEPTED

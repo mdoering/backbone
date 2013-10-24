@@ -1,5 +1,4 @@
-Pseudocercospora nesaeae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora nesaeae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

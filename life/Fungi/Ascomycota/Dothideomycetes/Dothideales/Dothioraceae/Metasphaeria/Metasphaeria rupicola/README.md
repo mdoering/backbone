@@ -1,5 +1,4 @@
-Metasphaeria rupicola (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria rupicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

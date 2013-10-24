@@ -1,5 +1,4 @@
-Discocephalus grandis Dragesco, 1954 SPECIES
-=======
+# Discocephalus grandis Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

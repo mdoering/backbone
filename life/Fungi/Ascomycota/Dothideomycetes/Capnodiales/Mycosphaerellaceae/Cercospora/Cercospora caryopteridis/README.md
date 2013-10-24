@@ -1,17 +1,16 @@
-Cercospora caryopterii R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
-=======
+# Cercospora caryopteridis R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 147 (1965)
 
 #### Original name
-Cercospora caryopterii R.S. Mathur, L.S. Chauhan & S.C. Verma
+Cercospora caryopteridis R.S. Mathur, L.S. Chauhan & S.C. Verma
 
 ### Remarks
 null

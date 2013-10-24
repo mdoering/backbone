@@ -1,5 +1,4 @@
-Cordyceps formicivora J. Schröt. SPECIES
-=======
+# Cordyceps formicivora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

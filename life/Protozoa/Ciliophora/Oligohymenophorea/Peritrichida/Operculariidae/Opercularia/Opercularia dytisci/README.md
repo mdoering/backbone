@@ -1,5 +1,4 @@
-Opercularia dytisci SPECIES
-=======
+# Opercularia dytisci SPECIES
 
 #### Status
 ACCEPTED

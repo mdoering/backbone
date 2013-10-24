@@ -1,5 +1,4 @@
-Boletus nobilis Peck SPECIES
-=======
+# Boletus nobilis Peck SPECIES
 
 #### Status
 ACCEPTED

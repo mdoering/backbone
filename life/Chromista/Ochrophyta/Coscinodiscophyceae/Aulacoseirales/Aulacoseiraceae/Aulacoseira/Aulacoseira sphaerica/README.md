@@ -1,5 +1,4 @@
-Aulacoseira sphaerica (Héribaud-Joseph) Simonsen SPECIES
-=======
+# Aulacoseira sphaerica (Héribaud-Joseph) Simonsen SPECIES
 
 #### Status
 ACCEPTED

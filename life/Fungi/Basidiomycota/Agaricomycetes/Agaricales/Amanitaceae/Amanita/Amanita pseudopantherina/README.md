@@ -1,5 +1,4 @@
-Amanita pseudopantherina Zhu L. Yang SPECIES
-=======
+# Amanita pseudopantherina Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

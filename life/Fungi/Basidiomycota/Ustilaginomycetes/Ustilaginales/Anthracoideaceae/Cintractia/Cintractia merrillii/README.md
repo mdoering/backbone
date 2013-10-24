@@ -1,5 +1,4 @@
-Cintractia merrillii Henn. SPECIES
-=======
+# Cintractia merrillii Henn. SPECIES
 
 #### Status
 ACCEPTED

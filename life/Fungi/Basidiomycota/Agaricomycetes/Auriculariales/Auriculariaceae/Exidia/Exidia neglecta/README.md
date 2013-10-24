@@ -1,5 +1,4 @@
-Exidia neglecta J. Schröt. SPECIES
-=======
+# Exidia neglecta J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

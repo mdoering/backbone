@@ -1,5 +1,4 @@
-Calothyriella GENUS
-=======
+# Calothyriella GENUS
 
 #### Status
 ACCEPTED

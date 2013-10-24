@@ -1,5 +1,4 @@
-Drepanopeziza verrucispora Baral & E. Weber SPECIES
-=======
+# Drepanopeziza verrucispora Baral & E. Weber SPECIES
 
 #### Status
 ACCEPTED

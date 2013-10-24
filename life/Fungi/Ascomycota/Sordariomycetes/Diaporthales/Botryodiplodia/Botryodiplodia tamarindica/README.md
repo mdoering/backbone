@@ -1,5 +1,4 @@
-Botryodiplodia tamarindica (Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia tamarindica (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

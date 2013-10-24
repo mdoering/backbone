@@ -1,5 +1,4 @@
-Graphis mexicana (Hale) Kalb, Lücking & Lumbsch SPECIES
-=======
+# Graphis mexicana (Hale) Kalb, Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysolykos gracilis J.W.G.Lund SPECIES
-=======
+# Chrysolykos gracilis J.W.G.Lund SPECIES
 
 #### Status
 ACCEPTED

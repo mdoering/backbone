@@ -1,5 +1,4 @@
-Physarum subnutans Y. Yamam., 2000 SPECIES
-=======
+# Physarum subnutans Y. Yamam., 2000 SPECIES
 
 #### Status
 ACCEPTED

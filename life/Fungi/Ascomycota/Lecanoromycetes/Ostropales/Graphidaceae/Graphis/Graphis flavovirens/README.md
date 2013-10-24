@@ -1,5 +1,4 @@
-Graphis flavovirens Makhija & Adaw. SPECIES
-=======
+# Graphis flavovirens Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

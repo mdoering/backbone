@@ -1,5 +1,4 @@
-Diaporthe chrysoides (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Diaporthe chrysoides (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora bambergeri Körb. SPECIES
-=======
+# Lecanora bambergeri Körb. SPECIES
 
 #### Status
 ACCEPTED

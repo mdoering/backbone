@@ -1,5 +1,4 @@
-Lecidea pseudogranulosa Coppins & P. James SPECIES
-=======
+# Lecidea pseudogranulosa Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

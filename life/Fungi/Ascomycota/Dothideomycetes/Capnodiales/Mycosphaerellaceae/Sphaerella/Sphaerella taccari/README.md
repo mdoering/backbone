@@ -1,5 +1,4 @@
-Sphaerella taccari Speg. SPECIES
-=======
+# Sphaerella taccari Speg. SPECIES
 
 #### Status
 ACCEPTED

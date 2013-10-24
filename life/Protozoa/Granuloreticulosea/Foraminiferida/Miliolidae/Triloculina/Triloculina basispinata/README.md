@@ -1,5 +1,4 @@
-Triloculina basispinata Zhang, 1988 SPECIES
-=======
+# Triloculina basispinata Zhang, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton schoneleinii (Lebert) Langeron & Wilochevitch SPECIES
-=======
+# Trichophyton schoneleinii (Lebert) Langeron & Wilochevitch SPECIES
 
 #### Status
 ACCEPTED

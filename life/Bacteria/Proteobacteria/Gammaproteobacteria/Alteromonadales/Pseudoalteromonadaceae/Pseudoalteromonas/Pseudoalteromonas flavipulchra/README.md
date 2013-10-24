@@ -1,5 +1,4 @@
-Pseudoalteromonas flavipulchra Ivanova et al., 2002 SPECIES
-=======
+# Pseudoalteromonas flavipulchra Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

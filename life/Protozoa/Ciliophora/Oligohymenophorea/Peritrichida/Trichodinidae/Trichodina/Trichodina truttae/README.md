@@ -1,5 +1,4 @@
-Trichodina truttae SPECIES
-=======
+# Trichodina truttae SPECIES
 
 #### Status
 ACCEPTED

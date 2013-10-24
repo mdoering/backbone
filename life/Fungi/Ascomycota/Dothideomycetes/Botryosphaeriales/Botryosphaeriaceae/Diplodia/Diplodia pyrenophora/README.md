@@ -1,17 +1,16 @@
-Dothiorella pyrenophora var. pyrenophora VARIETY
-=======
+# Diplodia pyrenophora (Berk. ex Sacc.) Crous & M.E. Palm, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 51(2): 170 (1999)
 
 #### Original name
-null
+Botryodiplodia pyrenophora Berk. ex Sacc., 1884
 
 ### Remarks
 null

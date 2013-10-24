@@ -1,5 +1,4 @@
-Plectronidium minor Nag Raj, Seshadri & Rangaswami SPECIES
-=======
+# Plectronidium minor Nag Raj, Seshadri & Rangaswami SPECIES
 
 #### Status
 ACCEPTED

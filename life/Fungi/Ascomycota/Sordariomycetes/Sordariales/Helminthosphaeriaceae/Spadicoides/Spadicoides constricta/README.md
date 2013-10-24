@@ -1,5 +1,4 @@
-Spadicoides constricta C.J.K. Wang & B. Sutton SPECIES
-=======
+# Spadicoides constricta C.J.K. Wang & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

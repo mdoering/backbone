@@ -1,5 +1,4 @@
-Leptoniella validipes (Peck) Murrill SPECIES
-=======
+# Leptoniella validipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta londonensis Bubák & Dearn. SPECIES
-=======
+# Ascochyta londonensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catinaster altus (Müller, 1974) Perch-Nielsen, 1984 SPECIES
-=======
+# Catinaster altus (Müller, 1974) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

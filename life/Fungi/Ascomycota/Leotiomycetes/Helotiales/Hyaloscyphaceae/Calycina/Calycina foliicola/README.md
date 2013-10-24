@@ -1,5 +1,4 @@
-Calycina foliicola (J. Schröt.) Kuntze SPECIES
-=======
+# Calycina foliicola (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

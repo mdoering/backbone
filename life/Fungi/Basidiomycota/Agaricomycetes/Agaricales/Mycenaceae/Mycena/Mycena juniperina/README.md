@@ -1,5 +1,4 @@
-Mycena juniperina Aronsen SPECIES
-=======
+# Mycena juniperina Aronsen SPECIES
 
 #### Status
 ACCEPTED

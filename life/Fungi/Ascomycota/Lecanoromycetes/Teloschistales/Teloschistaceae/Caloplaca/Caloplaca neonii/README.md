@@ -1,5 +1,4 @@
-Caloplaca neonii SPECIES
-=======
+# Caloplaca neonii SPECIES
 
 #### Status
 ACCEPTED

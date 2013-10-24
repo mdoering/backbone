@@ -1,5 +1,4 @@
-Auritella aureoplumosa (Watling) Matheny & Bougher, 2006 SPECIES
-=======
+# Auritella aureoplumosa (Watling) Matheny & Bougher, 2006 SPECIES
 
 #### Status
 ACCEPTED

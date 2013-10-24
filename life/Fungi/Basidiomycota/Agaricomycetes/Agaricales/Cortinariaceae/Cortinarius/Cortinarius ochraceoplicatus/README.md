@@ -1,5 +1,4 @@
-Cortinarius ochraceoplicatus Reumaux SPECIES
-=======
+# Cortinarius ochraceoplicatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

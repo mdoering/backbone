@@ -1,5 +1,4 @@
-Rugaecaulis Lom & de Puytorac, 1994 GENUS
-=======
+# Rugaecaulis Lom & de Puytorac, 1994 GENUS
 
 #### Status
 ACCEPTED

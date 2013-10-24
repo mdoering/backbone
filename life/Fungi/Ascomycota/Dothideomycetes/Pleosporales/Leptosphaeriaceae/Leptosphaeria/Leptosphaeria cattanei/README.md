@@ -1,5 +1,4 @@
-Leptosphaeria cattanei Thüm. SPECIES
-=======
+# Leptosphaeria cattanei Thüm. SPECIES
 
 #### Status
 ACCEPTED

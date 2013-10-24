@@ -1,5 +1,4 @@
-Hendersonia taphrinicola Tracy & Earle SPECIES
-=======
+# Hendersonia taphrinicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

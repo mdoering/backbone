@@ -1,5 +1,4 @@
-Physarum dispersum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
-=======
+# Physarum dispersum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

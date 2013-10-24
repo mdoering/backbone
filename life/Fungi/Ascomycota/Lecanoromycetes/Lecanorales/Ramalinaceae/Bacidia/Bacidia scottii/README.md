@@ -1,5 +1,4 @@
-Bacidia scottii (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia scottii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

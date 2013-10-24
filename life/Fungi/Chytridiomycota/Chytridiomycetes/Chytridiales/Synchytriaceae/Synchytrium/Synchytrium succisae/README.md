@@ -1,5 +1,4 @@
-Synchytrium succisae de Bary & Woronin, 1863 SPECIES
-=======
+# Synchytrium succisae de Bary & Woronin, 1863 SPECIES
 
 #### Status
 ACCEPTED

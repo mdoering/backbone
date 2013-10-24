@@ -1,5 +1,4 @@
-Panaeolus obtusisporus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus obtusisporus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella astragali (Curr.) Tomilin SPECIES
-=======
+# Mycosphaerella astragali (Curr.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

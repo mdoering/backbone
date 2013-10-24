@@ -1,5 +1,4 @@
-Fusidium salmonicolor (Berk. & M.A. Curtis) Wollenw. SPECIES
-=======
+# Fusidium salmonicolor (Berk. & M.A. Curtis) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

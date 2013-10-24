@@ -1,5 +1,4 @@
-Puccinia franseriae Syd. & P. Syd. SPECIES
-=======
+# Puccinia franseriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

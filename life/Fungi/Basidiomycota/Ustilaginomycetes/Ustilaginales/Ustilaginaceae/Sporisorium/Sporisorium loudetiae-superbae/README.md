@@ -1,5 +1,4 @@
-Sporisorium loudetiae-superbae (L. Ling) Vánky SPECIES
-=======
+# Sporisorium loudetiae-superbae (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

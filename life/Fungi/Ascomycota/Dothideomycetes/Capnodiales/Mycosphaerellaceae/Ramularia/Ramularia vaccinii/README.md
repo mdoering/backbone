@@ -1,5 +1,4 @@
-Ramularia vaccinii Peck SPECIES
-=======
+# Ramularia vaccinii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena clavularis (Batsch Fr.) Sacc. SPECIES
-=======
+# Mycena clavularis (Batsch Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

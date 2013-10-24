@@ -1,5 +1,4 @@
-Septoria polygoni-lapathifolii Van der Byl SPECIES
-=======
+# Septoria polygoni-lapathifolii Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrella langloisii (Ellis & Everh.) Sacc. SPECIES
-=======
+# Leptothyrella langloisii (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

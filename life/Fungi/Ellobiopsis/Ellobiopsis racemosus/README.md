@@ -1,5 +1,4 @@
-Ellobiopsis racemosus Coutière SPECIES
-=======
+# Ellobiopsis racemosus Coutière SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia rubropulchra (Degel.) Moberg SPECIES
-=======
+# Physcia rubropulchra (Degel.) Moberg SPECIES
 
 #### Status
 ACCEPTED

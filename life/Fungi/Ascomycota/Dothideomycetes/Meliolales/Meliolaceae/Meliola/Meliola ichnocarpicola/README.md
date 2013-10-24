@@ -1,5 +1,4 @@
-Meliola ichnocarpicola Hansf. SPECIES
-=======
+# Meliola ichnocarpicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

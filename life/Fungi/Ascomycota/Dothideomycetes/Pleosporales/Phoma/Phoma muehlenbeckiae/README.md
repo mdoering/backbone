@@ -1,5 +1,4 @@
-Phoma muehlenbeckiae Cooke & Massee SPECIES
-=======
+# Phoma muehlenbeckiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

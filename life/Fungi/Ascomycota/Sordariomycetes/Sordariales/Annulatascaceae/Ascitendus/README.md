@@ -1,5 +1,4 @@
-Ascitendus J. Campb. & Shearer GENUS
-=======
+# Ascitendus J. Campb. & Shearer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelohania giardi Henneguy SPECIES
-=======
+# Thelohania giardi Henneguy SPECIES
 
 #### Status
 ACCEPTED

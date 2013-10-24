@@ -1,5 +1,4 @@
-Histobalantium GENUS
-=======
+# Histobalantium GENUS
 
 #### Status
 ACCEPTED

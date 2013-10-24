@@ -1,17 +1,16 @@
-Pholiotina striaepes (Cooke) M.M. Moser, 1967 SPECIES
-=======
+# Conocybe striaepes (Cooke) S. Lundell, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Exsiccati Suecici 41-42: 2049 (1953)
 
 #### Original name
-null
+Agaricus striaepes Cooke, 1885
 
 ### Remarks
 null

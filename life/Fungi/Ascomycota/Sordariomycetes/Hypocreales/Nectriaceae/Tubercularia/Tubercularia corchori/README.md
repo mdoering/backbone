@@ -1,5 +1,4 @@
-Tubercularia corchori Preuss SPECIES
-=======
+# Tubercularia corchori Preuss SPECIES
 
 #### Status
 ACCEPTED

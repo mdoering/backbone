@@ -1,5 +1,4 @@
-Parmelia caesiella SPECIES
-=======
+# Parmelia caesiella SPECIES
 
 #### Status
 ACCEPTED

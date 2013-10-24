@@ -1,5 +1,4 @@
-Agaricus nimbiferus Britzelm. SPECIES
-=======
+# Agaricus nimbiferus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

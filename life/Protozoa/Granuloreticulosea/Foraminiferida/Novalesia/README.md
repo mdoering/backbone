@@ -1,5 +1,4 @@
-Novalesia Magniez, 1974 GENUS
-=======
+# Novalesia Magniez, 1974 GENUS
 
 #### Status
 ACCEPTED

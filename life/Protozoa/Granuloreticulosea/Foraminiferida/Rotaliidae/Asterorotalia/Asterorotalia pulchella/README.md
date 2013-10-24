@@ -1,8 +1,7 @@
-Rotalia pulchella (d’Orbigny, 1839) SPECIES
-=======
+# Asterorotalia pulchella (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

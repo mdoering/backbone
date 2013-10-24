@@ -1,5 +1,4 @@
-Rhachomyces calypso Balazuc SPECIES
-=======
+# Rhachomyces calypso Balazuc SPECIES
 
 #### Status
 ACCEPTED

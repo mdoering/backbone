@@ -1,5 +1,4 @@
-Marasmius senescens Petch SPECIES
-=======
+# Marasmius senescens Petch SPECIES
 
 #### Status
 ACCEPTED

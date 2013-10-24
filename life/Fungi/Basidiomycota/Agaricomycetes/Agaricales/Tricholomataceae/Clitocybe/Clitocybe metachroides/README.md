@@ -1,5 +1,4 @@
-Clitocybe metachroides Harmaja SPECIES
-=======
+# Clitocybe metachroides Harmaja SPECIES
 
 #### Status
 ACCEPTED

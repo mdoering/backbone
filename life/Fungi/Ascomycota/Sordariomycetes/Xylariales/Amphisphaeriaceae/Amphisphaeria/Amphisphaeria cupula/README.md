@@ -1,5 +1,4 @@
-Amphisphaeria cupula (Ellis) Schrantz SPECIES
-=======
+# Amphisphaeria cupula (Ellis) Schrantz SPECIES
 
 #### Status
 ACCEPTED

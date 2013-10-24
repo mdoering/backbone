@@ -1,5 +1,4 @@
-Caeoma caryophyllacearum Link SPECIES
-=======
+# Caeoma caryophyllacearum Link SPECIES
 
 #### Status
 ACCEPTED

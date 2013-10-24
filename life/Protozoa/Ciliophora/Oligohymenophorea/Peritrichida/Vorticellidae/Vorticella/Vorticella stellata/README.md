@@ -1,5 +1,4 @@
-Vorticella stellata Linnaeus, 1767 SPECIES
-=======
+# Vorticella stellata Linnaeus, 1767 SPECIES
 
 #### Status
 ACCEPTED

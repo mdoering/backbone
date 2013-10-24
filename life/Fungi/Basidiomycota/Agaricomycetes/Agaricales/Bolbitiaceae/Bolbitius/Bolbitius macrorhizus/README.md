@@ -1,5 +1,4 @@
-Bolbitius macrorhizus Berk. & Mont. SPECIES
-=======
+# Bolbitius macrorhizus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

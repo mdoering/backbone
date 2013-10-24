@@ -1,5 +1,4 @@
-Cintractia albidi Ito SPECIES
-=======
+# Cintractia albidi Ito SPECIES
 
 #### Status
 ACCEPTED

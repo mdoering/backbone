@@ -1,5 +1,4 @@
-Chondromyces apiculatus Thaxter, 1897 (Approved Lists, 1980) SPECIES
-=======
+# Chondromyces apiculatus Thaxter, 1897 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

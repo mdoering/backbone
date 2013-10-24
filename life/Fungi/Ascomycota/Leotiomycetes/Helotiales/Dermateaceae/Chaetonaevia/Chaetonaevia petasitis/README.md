@@ -1,5 +1,4 @@
-Chaetonaevia petasitis Svrcek, 1976 SPECIES
-=======
+# Chaetonaevia petasitis Svrcek, 1976 SPECIES
 
 #### Status
 ACCEPTED

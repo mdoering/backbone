@@ -1,5 +1,4 @@
-Hymenochaete boltonii (Sacc.) Cooke SPECIES
-=======
+# Hymenochaete boltonii (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

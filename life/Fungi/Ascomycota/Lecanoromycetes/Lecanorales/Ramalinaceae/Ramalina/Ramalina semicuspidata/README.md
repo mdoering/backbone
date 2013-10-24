@@ -1,5 +1,4 @@
-Ramalina semicuspidata (Räsänen) Sheard SPECIES
-=======
+# Ramalina semicuspidata (Räsänen) Sheard SPECIES
 
 #### Status
 ACCEPTED

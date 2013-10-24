@@ -1,5 +1,4 @@
-Pleospora hoehneliana Petr. SPECIES
-=======
+# Pleospora hoehneliana Petr. SPECIES
 
 #### Status
 ACCEPTED

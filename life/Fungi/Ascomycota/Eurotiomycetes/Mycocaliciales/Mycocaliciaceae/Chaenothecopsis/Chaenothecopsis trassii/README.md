@@ -1,5 +1,4 @@
-Chaenothecopsis trassii Titov SPECIES
-=======
+# Chaenothecopsis trassii Titov SPECIES
 
 #### Status
 ACCEPTED

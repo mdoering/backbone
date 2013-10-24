@@ -1,5 +1,4 @@
-Ceratium lanceolatum Kofoid, 1907 SPECIES
-=======
+# Ceratium lanceolatum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

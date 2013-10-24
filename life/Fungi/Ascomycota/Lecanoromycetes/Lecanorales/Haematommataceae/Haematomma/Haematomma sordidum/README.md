@@ -1,5 +1,4 @@
-Haematomma sordidum C.W. Dodge SPECIES
-=======
+# Haematomma sordidum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

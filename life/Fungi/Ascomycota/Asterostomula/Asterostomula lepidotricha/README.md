@@ -1,5 +1,4 @@
-Asterostomula lepidotricha Theiss. SPECIES
-=======
+# Asterostomula lepidotricha Theiss. SPECIES
 
 #### Status
 ACCEPTED

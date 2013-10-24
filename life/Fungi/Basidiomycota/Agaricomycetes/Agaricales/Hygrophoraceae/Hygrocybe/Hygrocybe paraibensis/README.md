@@ -1,5 +1,4 @@
-Hygrocybe paraibensis Singer SPECIES
-=======
+# Hygrocybe paraibensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anisonema proggeobium SPECIES
-=======
+# Anisonema proggeobium SPECIES
 
 #### Status
 ACCEPTED

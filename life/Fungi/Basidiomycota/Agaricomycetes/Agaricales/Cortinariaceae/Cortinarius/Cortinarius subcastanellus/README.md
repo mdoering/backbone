@@ -1,17 +1,16 @@
-Cortinarius subcastanella E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius subcastanellus E. Horak, Peintner, M.M. Moser & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Peintner, Horak, Moser & Vilgalys, Mycotaxon 83: 450 (2002)
 
 #### Original name
-Cortinarius subcastanella E. Horak, Peintner, M.M. Moser & Vilgalys
+Rozites castanella E. Horak & G.M. Taylor
 
 ### Remarks
 null

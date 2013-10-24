@@ -1,5 +1,4 @@
-Thelephora ribesia Fr. SPECIES
-=======
+# Thelephora ribesia Fr. SPECIES
 
 #### Status
 ACCEPTED

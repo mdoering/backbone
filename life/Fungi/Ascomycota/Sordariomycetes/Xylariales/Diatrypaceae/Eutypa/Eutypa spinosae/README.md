@@ -1,5 +1,4 @@
-Eutypa spinosae Rieuf SPECIES
-=======
+# Eutypa spinosae Rieuf SPECIES
 
 #### Status
 ACCEPTED

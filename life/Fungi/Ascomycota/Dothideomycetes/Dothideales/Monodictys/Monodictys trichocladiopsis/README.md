@@ -1,5 +1,4 @@
-Monodictys trichocladiopsis Goh & K.D. Hyde SPECIES
-=======
+# Monodictys trichocladiopsis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

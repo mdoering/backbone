@@ -1,5 +1,4 @@
-Tephromela ocellata (J. Steiner) Motyka SPECIES
-=======
+# Tephromela ocellata (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

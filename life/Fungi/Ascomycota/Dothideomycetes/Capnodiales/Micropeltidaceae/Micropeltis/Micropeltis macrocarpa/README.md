@@ -1,5 +1,4 @@
-Micropeltis macrocarpa Bat. & Peres SPECIES
-=======
+# Micropeltis macrocarpa Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

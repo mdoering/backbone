@@ -1,5 +1,4 @@
-Myxofusicoccum tumescens Died. SPECIES
-=======
+# Myxofusicoccum tumescens Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius griseoviolaceus A.H. Sm. SPECIES
-=======
+# Cortinarius griseoviolaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

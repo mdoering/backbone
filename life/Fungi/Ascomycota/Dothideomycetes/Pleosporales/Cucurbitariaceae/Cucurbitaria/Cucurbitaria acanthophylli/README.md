@@ -1,5 +1,4 @@
-Cucurbitaria acanthophylli Bubák SPECIES
-=======
+# Cucurbitaria acanthophylli Bubák SPECIES
 
 #### Status
 ACCEPTED

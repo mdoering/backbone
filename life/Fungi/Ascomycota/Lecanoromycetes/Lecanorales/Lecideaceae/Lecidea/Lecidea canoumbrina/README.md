@@ -1,5 +1,4 @@
-Lecidea canoumbrina Vain. SPECIES
-=======
+# Lecidea canoumbrina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora opaca H. Wegelin SPECIES
-=======
+# Pleospora opaca H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

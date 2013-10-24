@@ -1,5 +1,4 @@
-Scrippsiella caponii T. Horiguchi & R. N. Pienaar SPECIES
-=======
+# Scrippsiella caponii T. Horiguchi & R. N. Pienaar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum pineum Sacc. SPECIES
-=======
+# Epicoccum pineum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius flavus Reumaux SPECIES
-=======
+# Cortinarius flavus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenangium aestivum Rabenh. SPECIES
-=======
+# Hymenangium aestivum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

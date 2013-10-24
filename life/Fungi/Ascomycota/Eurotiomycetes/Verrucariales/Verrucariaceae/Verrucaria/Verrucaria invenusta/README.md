@@ -1,5 +1,4 @@
-Verrucaria invenusta H. Magn. SPECIES
-=======
+# Verrucaria invenusta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

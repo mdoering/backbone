@@ -1,5 +1,4 @@
-Microstroma cycadis Allesch. SPECIES
-=======
+# Microstroma cycadis Allesch. SPECIES
 
 #### Status
 ACCEPTED

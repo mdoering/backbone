@@ -1,5 +1,4 @@
-Entoloma ceratopus E. Horak SPECIES
-=======
+# Entoloma ceratopus E. Horak SPECIES
 
 #### Status
 ACCEPTED

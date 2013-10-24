@@ -1,17 +1,16 @@
-Mycophaga F. Stevens, 1924 GENUS
-=======
+# Hyaloderma Spegazzini, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 8: 197 (1924)
+Anal. Soc. cient. argent. 17(3): 131 (1884)
 
 #### Original name
-Mycophaga F. Stevens, 1924
+Hyaloderma Spegazzini, 1884
 
 ### Remarks
 null

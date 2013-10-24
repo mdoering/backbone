@@ -1,5 +1,4 @@
-Scutellinia decipiens Le Gal, 1966 SPECIES
-=======
+# Scutellinia decipiens Le Gal, 1966 SPECIES
 
 #### Status
 ACCEPTED

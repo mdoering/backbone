@@ -1,5 +1,4 @@
-Ectothiorhodospira marismortui Oren et al., 1990 SPECIES
-=======
+# Ectothiorhodospira marismortui Oren et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

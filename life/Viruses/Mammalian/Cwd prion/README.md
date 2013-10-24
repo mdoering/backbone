@@ -1,5 +1,4 @@
-Cwd prion (Chronic wasting disease) SPECIES
-=======
+# Cwd prion (Chronic wasting disease) SPECIES
 
 #### Status
 ACCEPTED

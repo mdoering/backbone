@@ -1,5 +1,4 @@
-Lachnum fulvogriseum Rehm SPECIES
-=======
+# Lachnum fulvogriseum Rehm SPECIES
 
 #### Status
 ACCEPTED

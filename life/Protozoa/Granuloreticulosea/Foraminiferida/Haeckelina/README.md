@@ -1,5 +1,4 @@
-Haeckelina Bessels, 1875 GENUS
-=======
+# Haeckelina Bessels, 1875 GENUS
 
 #### Status
 ACCEPTED

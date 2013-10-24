@@ -1,5 +1,4 @@
-Hincksia thyrsoidea (Børgesen) P.C. Silva SPECIES
-=======
+# Hincksia thyrsoidea (Børgesen) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

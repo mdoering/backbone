@@ -1,5 +1,4 @@
-Mycelithe Gasp. GENUS
-=======
+# Mycelithe Gasp. GENUS
 
 #### Status
 ACCEPTED

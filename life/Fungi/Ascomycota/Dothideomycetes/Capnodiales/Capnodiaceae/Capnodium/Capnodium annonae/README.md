@@ -1,17 +1,16 @@
-Capnodium anonae Pat. SPECIES
-=======
+# Capnodium annonae Pat., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 20(3): 135 (1904)
 
 #### Original name
-Capnodium anonae Pat.
+Capnodium annonae Pat., 1904
 
 ### Remarks
 null

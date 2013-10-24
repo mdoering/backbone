@@ -1,5 +1,4 @@
-Aecidium jericosensis Pardo-Card. SPECIES
-=======
+# Aecidium jericosensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

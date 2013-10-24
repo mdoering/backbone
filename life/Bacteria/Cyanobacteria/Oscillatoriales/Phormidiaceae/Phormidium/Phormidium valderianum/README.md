@@ -1,5 +1,4 @@
-Phormidium valderianum (Delponte) Gomont SPECIES
-=======
+# Phormidium valderianum (Delponte) Gomont SPECIES
 
 #### Status
 ACCEPTED

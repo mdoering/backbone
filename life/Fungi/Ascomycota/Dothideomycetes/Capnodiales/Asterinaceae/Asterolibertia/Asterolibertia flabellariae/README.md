@@ -1,5 +1,4 @@
-Asterolibertia flabellariae Hansf. SPECIES
-=======
+# Asterolibertia flabellariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

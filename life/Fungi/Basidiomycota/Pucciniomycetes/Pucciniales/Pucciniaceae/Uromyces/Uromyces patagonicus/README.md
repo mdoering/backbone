@@ -1,5 +1,4 @@
-Uromyces patagonicus Speg. SPECIES
-=======
+# Uromyces patagonicus Speg. SPECIES
 
 #### Status
 ACCEPTED

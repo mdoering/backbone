@@ -1,14 +1,13 @@
-Orbilia luteorubella f. pellucida (Velen.) Svrcek, 1948 FORM
-=======
+# Orbilia pellucida Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 96 (1934)
 
 #### Original name
 Orbilia pellucida Velen., 1934

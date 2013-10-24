@@ -1,5 +1,4 @@
-Protoparmelia cupreobadia (Nyl.) Poelt SPECIES
-=======
+# Protoparmelia cupreobadia (Nyl.) Poelt SPECIES
 
 #### Status
 ACCEPTED

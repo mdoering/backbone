@@ -1,5 +1,4 @@
-Catillaria griseofuscescens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria griseofuscescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

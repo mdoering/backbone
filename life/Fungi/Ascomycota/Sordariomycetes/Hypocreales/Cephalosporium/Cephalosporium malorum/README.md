@@ -1,5 +1,4 @@
-Cephalosporium malorum Kidd & Beaumont SPECIES
-=======
+# Cephalosporium malorum Kidd & Beaumont SPECIES
 
 #### Status
 ACCEPTED

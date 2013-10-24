@@ -1,5 +1,4 @@
-Sphaerophragmium quadricellulare Alcorn & J. Walker, 1996 SPECIES
-=======
+# Sphaerophragmium quadricellulare Alcorn & J. Walker, 1996 SPECIES
 
 #### Status
 ACCEPTED

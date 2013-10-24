@@ -1,5 +1,4 @@
-Gomphus guadelupensis (Pat.) D.A. Reid SPECIES
-=======
+# Gomphus guadelupensis (Pat.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

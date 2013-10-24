@@ -1,5 +1,4 @@
-Puccinia bahamensis (Arthur) Sacc. & Trotter SPECIES
-=======
+# Puccinia bahamensis (Arthur) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium chrysophylli Thaung, 1974 SPECIES
-=======
+# Cladosporium chrysophylli Thaung, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeria uberiformis Kunze, 1823 SPECIES
-=======
+# Topospora uberiformis (Fr.) Fr., 1848 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 2: 40 (1823)
+Fung. Natal. 33 (1848)
 
 #### Original name
 Sphaeria uberiformis Kunze, 1823

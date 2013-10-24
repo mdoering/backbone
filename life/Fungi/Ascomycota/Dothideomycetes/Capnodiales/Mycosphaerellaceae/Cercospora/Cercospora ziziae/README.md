@@ -1,5 +1,4 @@
-Cercospora ziziae Ellis & Everh. SPECIES
-=======
+# Cercospora ziziae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

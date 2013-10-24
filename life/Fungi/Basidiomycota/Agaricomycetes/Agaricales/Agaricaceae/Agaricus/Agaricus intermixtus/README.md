@@ -1,5 +1,4 @@
-Agaricus intermixtus Berk. & Broome SPECIES
-=======
+# Agaricus intermixtus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

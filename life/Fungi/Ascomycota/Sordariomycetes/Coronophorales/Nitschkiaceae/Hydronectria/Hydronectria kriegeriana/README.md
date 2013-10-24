@@ -1,5 +1,4 @@
-Hydronectria kriegeriana Kirschst., 1925 SPECIES
-=======
+# Hydronectria kriegeriana Kirschst., 1925 SPECIES
 
 #### Status
 ACCEPTED

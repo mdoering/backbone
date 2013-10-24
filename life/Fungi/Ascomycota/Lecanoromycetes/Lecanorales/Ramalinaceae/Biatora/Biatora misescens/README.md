@@ -1,5 +1,4 @@
-Biatora misescens (Nyl.) Hellb. SPECIES
-=======
+# Biatora misescens (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

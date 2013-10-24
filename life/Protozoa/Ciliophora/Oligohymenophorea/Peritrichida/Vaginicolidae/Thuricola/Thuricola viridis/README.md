@@ -1,5 +1,4 @@
-Thuricola viridis Sommer, 1951 SPECIES
-=======
+# Thuricola viridis Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

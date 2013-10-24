@@ -1,5 +1,4 @@
-Rhabdospora aristidae Koshk. & Frolov SPECIES
-=======
+# Rhabdospora aristidae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

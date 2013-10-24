@@ -1,5 +1,4 @@
-Opegrapha exornata Zahlbr. SPECIES
-=======
+# Opegrapha exornata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

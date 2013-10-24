@@ -1,14 +1,13 @@
-Cibalocoryne barlae (Boud.) S. Imai, 1942 SPECIES
-=======
+# Geoglossum barlae Boud., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 56: 526 (1942)
+Bull. Soc. mycol. Fr. 4: 76 (1889)
 
 #### Original name
 Geoglossum barlae Boud., 1889

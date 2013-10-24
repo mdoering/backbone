@@ -1,5 +1,4 @@
-Stauroptera Haeckel, 1881 GENUS
-=======
+# Stauroptera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

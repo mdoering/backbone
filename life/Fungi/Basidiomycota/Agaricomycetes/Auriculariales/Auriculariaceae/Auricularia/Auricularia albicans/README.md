@@ -1,5 +1,4 @@
-Auricularia albicans Berk. SPECIES
-=======
+# Auricularia albicans Berk. SPECIES
 
 #### Status
 ACCEPTED

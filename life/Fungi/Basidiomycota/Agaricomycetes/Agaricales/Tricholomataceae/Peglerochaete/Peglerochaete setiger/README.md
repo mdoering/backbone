@@ -1,5 +1,4 @@
-Peglerochaete setiger Sarwal & Locq., 1983 SPECIES
-=======
+# Peglerochaete setiger Sarwal & Locq., 1983 SPECIES
 
 #### Status
 ACCEPTED

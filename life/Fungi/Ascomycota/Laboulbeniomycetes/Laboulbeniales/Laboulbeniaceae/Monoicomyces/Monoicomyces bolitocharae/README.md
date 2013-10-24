@@ -1,5 +1,4 @@
-Monoicomyces bolitocharae T. Majewski SPECIES
-=======
+# Monoicomyces bolitocharae T. Majewski SPECIES
 
 #### Status
 ACCEPTED

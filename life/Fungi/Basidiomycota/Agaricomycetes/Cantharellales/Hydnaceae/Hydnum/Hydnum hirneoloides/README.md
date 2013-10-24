@@ -1,5 +1,4 @@
-Hydnum hirneoloides Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum hirneoloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

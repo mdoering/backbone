@@ -1,5 +1,4 @@
-Buellia dobrogensis Codor. SPECIES
-=======
+# Buellia dobrogensis Codor. SPECIES
 
 #### Status
 ACCEPTED

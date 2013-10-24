@@ -1,5 +1,4 @@
-Pholiota cruentata (Cooke & W.G. Sm.) Sacc. SPECIES
-=======
+# Pholiota cruentata (Cooke & W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

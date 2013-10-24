@@ -1,17 +1,16 @@
-Niesslella Speg. GENUS
-=======
+# Sporormiella Ellis & Everhart, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Anal. Soc. cient. argent. 9 (in tabula) (1880)
+null
 
 #### Original name
-Niesslella Speg.
+null
 
 ### Remarks
 null

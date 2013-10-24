@@ -1,5 +1,4 @@
-Leptosphaeria williamsii Hansf. SPECIES
-=======
+# Leptosphaeria williamsii Hansf. SPECIES
 
 #### Status
 ACCEPTED

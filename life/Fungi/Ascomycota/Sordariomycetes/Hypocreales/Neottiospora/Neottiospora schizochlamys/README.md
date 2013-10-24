@@ -1,5 +1,4 @@
-Neottiospora schizochlamys Ferd. & Winge SPECIES
-=======
+# Neottiospora schizochlamys Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius molochinus (Fr.) P. Karst. SPECIES
-=======
+# Marasmius molochinus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

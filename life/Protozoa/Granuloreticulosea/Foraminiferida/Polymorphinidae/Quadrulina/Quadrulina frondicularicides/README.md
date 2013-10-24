@@ -1,5 +1,4 @@
-Quadrulina frondicularicides (Chapman, 1894) SPECIES
-=======
+# Quadrulina frondicularicides (Chapman, 1894) SPECIES
 
 #### Status
 ACCEPTED

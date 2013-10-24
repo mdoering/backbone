@@ -1,5 +1,4 @@
-Caldariomyces GENUS
-=======
+# Caldariomyces GENUS
 
 #### Status
 ACCEPTED

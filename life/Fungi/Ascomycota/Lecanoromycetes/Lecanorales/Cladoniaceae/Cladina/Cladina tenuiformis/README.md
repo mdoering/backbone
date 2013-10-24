@@ -1,5 +1,4 @@
-Cladina tenuiformis (Ahti) Trass SPECIES
-=======
+# Cladina tenuiformis (Ahti) Trass SPECIES
 
 #### Status
 ACCEPTED

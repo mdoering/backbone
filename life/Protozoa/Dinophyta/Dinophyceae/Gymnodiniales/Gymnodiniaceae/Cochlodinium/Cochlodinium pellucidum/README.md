@@ -1,5 +1,4 @@
-Cochlodinium pellucidum Lohmann SPECIES
-=======
+# Cochlodinium pellucidum Lohmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis bicolor Müll. Arg. SPECIES
-=======
+# Phaeographis bicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

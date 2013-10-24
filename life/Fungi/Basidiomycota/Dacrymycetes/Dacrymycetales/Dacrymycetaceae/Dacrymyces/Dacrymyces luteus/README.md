@@ -1,5 +1,4 @@
-Dacrymyces luteus Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Dacrymyces luteus Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

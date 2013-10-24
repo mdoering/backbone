@@ -1,5 +1,4 @@
-Heppia uraguayensis Räsänen SPECIES
-=======
+# Heppia uraguayensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

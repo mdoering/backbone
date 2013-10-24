@@ -1,5 +1,4 @@
-Acetabula macropus (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Acetabula macropus (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

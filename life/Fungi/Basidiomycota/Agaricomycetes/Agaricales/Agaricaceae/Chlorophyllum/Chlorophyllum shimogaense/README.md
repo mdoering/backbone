@@ -1,5 +1,4 @@
-Chlorophyllum shimogaense Sathe & S.M. Kulk. SPECIES
-=======
+# Chlorophyllum shimogaense Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ochraceosquamulosus Heinem. SPECIES
-=======
+# Agaricus ochraceosquamulosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

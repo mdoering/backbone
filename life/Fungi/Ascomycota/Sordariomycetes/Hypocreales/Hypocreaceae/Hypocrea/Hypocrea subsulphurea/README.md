@@ -1,5 +1,4 @@
-Hypocrea subsulphurea Syd. {?} SPECIES
-=======
+# Hypocrea subsulphurea Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

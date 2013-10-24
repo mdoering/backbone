@@ -1,5 +1,4 @@
-Litosphaeridium arundum (Eisenack & Cookson) R. J. Davey SPECIES
-=======
+# Litosphaeridium arundum (Eisenack & Cookson) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

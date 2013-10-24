@@ -1,5 +1,4 @@
-Entoloma necopinatum E. Horak SPECIES
-=======
+# Entoloma necopinatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius calobates Kalchbr. SPECIES
-=======
+# Marasmius calobates Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

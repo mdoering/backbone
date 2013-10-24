@@ -1,5 +1,4 @@
-Lecanora pseudogangaleoides subsp. verdonii Lumbsch SUBSPECIES
-=======
+# Lecanora pseudogangaleoides Lumbsch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 27(3): 165 (1995)
+Lichenologist 27(3): 162 (1995)
 
 #### Original name
-Lecanora pseudogangaleoides subsp. verdonii Lumbsch
+Lecanora pseudogangaleoides Lumbsch
 
 ### Remarks
 null

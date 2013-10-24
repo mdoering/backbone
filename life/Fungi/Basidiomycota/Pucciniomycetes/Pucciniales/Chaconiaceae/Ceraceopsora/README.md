@@ -1,5 +1,4 @@
-Ceraceopsora Kakish., T. Sato & S. Sato GENUS
-=======
+# Ceraceopsora Kakish., T. Sato & S. Sato GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeogalera nybergii (A.H. Sm.) Bon SPECIES
-=======
+# Phaeogalera nybergii (A.H. Sm.) Bon SPECIES
 
 #### Status
 ACCEPTED

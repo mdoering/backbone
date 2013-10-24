@@ -1,5 +1,4 @@
-Helenina anderseni (Warren) SPECIES
-=======
+# Helenina anderseni (Warren) SPECIES
 
 #### Status
 ACCEPTED

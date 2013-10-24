@@ -1,5 +1,4 @@
-Leptopuccinia asteris-alpini (P. Syd. & Syd.) Syd. SPECIES
-=======
+# Leptopuccinia asteris-alpini (P. Syd. & Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

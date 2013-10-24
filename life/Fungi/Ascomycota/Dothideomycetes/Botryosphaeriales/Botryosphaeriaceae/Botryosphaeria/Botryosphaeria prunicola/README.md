@@ -1,5 +1,4 @@
-Botryosphaeria prunicola Rehm SPECIES
-=======
+# Botryosphaeria prunicola Rehm SPECIES
 
 #### Status
 ACCEPTED

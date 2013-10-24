@@ -1,5 +1,4 @@
-Heterosphaeridium I.C.Cookson & A.Eisenack, 1969 GENUS
-=======
+# Heterosphaeridium I.C.Cookson & A.Eisenack, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa cryptococcoides Kützing SPECIES
-=======
+# Gloeocapsa cryptococcoides Kützing SPECIES
 
 #### Status
 ACCEPTED

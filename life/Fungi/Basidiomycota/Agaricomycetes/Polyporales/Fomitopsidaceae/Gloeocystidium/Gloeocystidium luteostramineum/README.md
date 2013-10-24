@@ -1,5 +1,4 @@
-Gloeocystidium luteostramineum Rick SPECIES
-=======
+# Gloeocystidium luteostramineum Rick SPECIES
 
 #### Status
 ACCEPTED

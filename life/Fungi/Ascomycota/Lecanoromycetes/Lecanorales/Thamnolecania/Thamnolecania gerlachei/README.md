@@ -1,5 +1,4 @@
-Thamnolecania gerlachei (Vain.) Gyeln. SPECIES
-=======
+# Thamnolecania gerlachei (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

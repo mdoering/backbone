@@ -1,5 +1,4 @@
-Gymnographopsis follmannii C.W. Dodge SPECIES
-=======
+# Gymnographopsis follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

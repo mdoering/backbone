@@ -1,5 +1,4 @@
-Ganodermites libycus A. Fleischm., M. Krings, H. Mayr & Agerer SPECIES
-=======
+# Ganodermites libycus A. Fleischm., M. Krings, H. Mayr & Agerer SPECIES
 
 #### Status
 ACCEPTED

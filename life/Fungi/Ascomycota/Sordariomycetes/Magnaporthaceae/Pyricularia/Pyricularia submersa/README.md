@@ -1,14 +1,13 @@
-Dactylella submersa (Ingold) Sv. Nilsson SPECIES
-=======
+# Pyricularia submersa Ingold, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 115: 78 (1962)
+Trans. Br. mycol. Soc. 27: 46 (1944)
 
 #### Original name
 Pyricularia submersa Ingold, 1944

@@ -1,5 +1,4 @@
-Hygrocybe vallomarginata A.M. Young SPECIES
-=======
+# Hygrocybe vallomarginata A.M. Young SPECIES
 
 #### Status
 ACCEPTED

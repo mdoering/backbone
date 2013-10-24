@@ -1,5 +1,4 @@
-Pouzarella celata Mazzer SPECIES
-=======
+# Pouzarella celata Mazzer SPECIES
 
 #### Status
 ACCEPTED

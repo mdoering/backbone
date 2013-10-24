@@ -1,5 +1,4 @@
-Fragilaria mesolepta Rabenhorst SPECIES
-=======
+# Fragilaria mesolepta Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

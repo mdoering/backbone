@@ -1,5 +1,4 @@
-Myxofusicoccum peckianum (Dearn. & House) Petr. SPECIES
-=======
+# Myxofusicoccum peckianum (Dearn. & House) Petr. SPECIES
 
 #### Status
 ACCEPTED

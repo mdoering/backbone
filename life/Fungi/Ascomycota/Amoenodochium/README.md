@@ -1,5 +1,4 @@
-Amoenodochium Peláez & R.F. Castañeda GENUS
-=======
+# Amoenodochium Peláez & R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

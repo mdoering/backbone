@@ -1,17 +1,16 @@
-Cephalosporium gordoni Mücke & Obenhaus SPECIES
-=======
+# Cephalosporium gordonii Mücke & Obenhaus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Arch. Mikrobiol. 33: 282 (1959)
 
 #### Original name
-Cephalosporium gordoni Mücke & Obenhaus
+Cephalosporium gordonii Mücke & Obenhaus
 
 ### Remarks
 null

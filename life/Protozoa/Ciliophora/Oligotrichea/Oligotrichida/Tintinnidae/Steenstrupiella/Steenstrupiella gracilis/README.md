@@ -1,5 +1,4 @@
-Steenstrupiella gracilis (Jörgensen, 1924) Kofoid & Campbell, 1929 SPECIES
-=======
+# Steenstrupiella gracilis (Jörgensen, 1924) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

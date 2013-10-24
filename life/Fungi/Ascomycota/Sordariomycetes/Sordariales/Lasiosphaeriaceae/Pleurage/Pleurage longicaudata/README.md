@@ -1,5 +1,4 @@
-Pleurage longicaudata Griffiths SPECIES
-=======
+# Pleurage longicaudata Griffiths SPECIES
 
 #### Status
 ACCEPTED

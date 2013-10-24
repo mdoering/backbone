@@ -1,17 +1,16 @@
-Pyrenophora secalis M.D. Whitehead & J. Dicks., 1952 SPECIES
-=======
+# Pyrenophora japonica S. Ito & Kurib., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 44(6): 752 (1952)
+Proceedings of the Imper. Acad. Tokyo 6(8): 353 (1930)
 
 #### Original name
-Pyrenophora secalis M.D. Whitehead & J. Dicks., 1952
+Pyrenophora japonica S. Ito & Kurib., 1930
 
 ### Remarks
 null

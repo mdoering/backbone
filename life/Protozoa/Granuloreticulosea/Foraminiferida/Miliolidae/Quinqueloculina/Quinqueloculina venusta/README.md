@@ -1,5 +1,4 @@
-Quinqueloculina venusta SPECIES
-=======
+# Quinqueloculina venusta SPECIES
 
 #### Status
 ACCEPTED

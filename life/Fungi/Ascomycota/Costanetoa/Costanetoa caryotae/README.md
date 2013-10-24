@@ -1,5 +1,4 @@
-Costanetoa caryotae Bat. & J.L. Bezerra, 1963 SPECIES
-=======
+# Costanetoa caryotae Bat. & J.L. Bezerra, 1963 SPECIES
 
 #### Status
 ACCEPTED

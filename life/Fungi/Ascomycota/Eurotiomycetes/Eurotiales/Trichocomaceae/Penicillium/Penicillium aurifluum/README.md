@@ -1,5 +1,4 @@
-Penicillium aurifluum Biourge SPECIES
-=======
+# Penicillium aurifluum Biourge SPECIES
 
 #### Status
 ACCEPTED

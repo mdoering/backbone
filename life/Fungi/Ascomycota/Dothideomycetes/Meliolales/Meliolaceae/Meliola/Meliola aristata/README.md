@@ -1,5 +1,4 @@
-Meliola aristata Toro SPECIES
-=======
+# Meliola aristata Toro SPECIES
 
 #### Status
 ACCEPTED

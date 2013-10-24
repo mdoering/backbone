@@ -1,5 +1,4 @@
-Acarospora truncata Körb. SPECIES
-=======
+# Acarospora truncata Körb. SPECIES
 
 #### Status
 ACCEPTED

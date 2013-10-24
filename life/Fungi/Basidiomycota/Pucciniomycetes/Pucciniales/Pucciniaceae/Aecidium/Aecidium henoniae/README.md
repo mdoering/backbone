@@ -1,5 +1,4 @@
-Aecidium henoniae Vienn.-Bourg. SPECIES
-=======
+# Aecidium henoniae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

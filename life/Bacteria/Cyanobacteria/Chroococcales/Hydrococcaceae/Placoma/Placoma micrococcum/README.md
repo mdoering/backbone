@@ -1,8 +1,7 @@
-Oncobyrsa adriatica var. micrococca Hansgirg VARIETY
-=======
+# Placoma micrococcum (Hansgirg) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

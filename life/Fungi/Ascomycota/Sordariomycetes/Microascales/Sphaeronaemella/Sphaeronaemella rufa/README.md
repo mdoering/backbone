@@ -1,5 +1,4 @@
-Sphaeronaemella rufa (Fr.) Sacc. SPECIES
-=======
+# Sphaeronaemella rufa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

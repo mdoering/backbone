@@ -1,5 +1,4 @@
-Ophiostoma longicollum Masuya, 1998 SPECIES
-=======
+# Ophiostoma longicollum Masuya, 1998 SPECIES
 
 #### Status
 ACCEPTED

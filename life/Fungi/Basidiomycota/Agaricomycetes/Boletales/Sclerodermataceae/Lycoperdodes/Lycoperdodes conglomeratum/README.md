@@ -1,5 +1,4 @@
-Lycoperdodes conglomeratum (Fr.) Kuntze SPECIES
-=======
+# Lycoperdodes conglomeratum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

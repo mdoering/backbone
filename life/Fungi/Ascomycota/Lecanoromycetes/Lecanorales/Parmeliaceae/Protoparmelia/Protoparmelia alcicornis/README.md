@@ -1,5 +1,4 @@
-Protoparmelia alcicornis P.M. Jørg. & R.S. Poulsen SPECIES
-=======
+# Protoparmelia alcicornis P.M. Jørg. & R.S. Poulsen SPECIES
 
 #### Status
 ACCEPTED

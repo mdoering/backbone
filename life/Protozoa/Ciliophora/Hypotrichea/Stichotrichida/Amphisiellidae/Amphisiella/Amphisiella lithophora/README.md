@@ -1,5 +1,4 @@
-Amphisiella lithophora Faure-Fremiet, 1954 SPECIES
-=======
+# Amphisiella lithophora Faure-Fremiet, 1954 SPECIES
 
 #### Status
 ACCEPTED

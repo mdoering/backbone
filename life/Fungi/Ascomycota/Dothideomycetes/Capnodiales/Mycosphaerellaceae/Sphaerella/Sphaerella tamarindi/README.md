@@ -1,5 +1,4 @@
-Sphaerella tamarindi (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella tamarindi (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

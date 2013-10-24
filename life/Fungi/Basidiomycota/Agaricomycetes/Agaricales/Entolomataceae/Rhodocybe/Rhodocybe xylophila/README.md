@@ -1,5 +1,4 @@
-Rhodocybe xylophila Vassilkov SPECIES
-=======
+# Rhodocybe xylophila Vassilkov SPECIES
 
 #### Status
 ACCEPTED

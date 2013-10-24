@@ -1,5 +1,4 @@
-Biatora declinis Tuck. SPECIES
-=======
+# Biatora declinis Tuck. SPECIES
 
 #### Status
 ACCEPTED

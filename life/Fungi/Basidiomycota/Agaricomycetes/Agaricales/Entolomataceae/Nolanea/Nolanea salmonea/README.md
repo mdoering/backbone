@@ -1,5 +1,4 @@
-Nolanea salmonea (Peck) Pomerl. SPECIES
-=======
+# Nolanea salmonea (Peck) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

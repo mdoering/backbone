@@ -1,5 +1,4 @@
-Anabaena fuellebornii Schmidle, 1902 SPECIES
-=======
+# Anabaena fuellebornii Schmidle, 1902 SPECIES
 
 #### Status
 ACCEPTED

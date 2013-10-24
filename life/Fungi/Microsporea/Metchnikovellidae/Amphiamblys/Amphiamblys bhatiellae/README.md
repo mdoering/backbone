@@ -1,5 +1,4 @@
-Amphiamblys bhatiellae Ormières, Loubès & Maurand SPECIES
-=======
+# Amphiamblys bhatiellae Ormières, Loubès & Maurand SPECIES
 
 #### Status
 ACCEPTED

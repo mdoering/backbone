@@ -1,5 +1,4 @@
-Involucrothele corticola (H. Magn.) Servít SPECIES
-=======
+# Involucrothele corticola (H. Magn.) Servít SPECIES
 
 #### Status
 ACCEPTED

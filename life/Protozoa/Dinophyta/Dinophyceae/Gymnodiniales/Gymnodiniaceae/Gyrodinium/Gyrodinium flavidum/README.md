@@ -1,5 +1,4 @@
-Gyrodinium flavidum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium flavidum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

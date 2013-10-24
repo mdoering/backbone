@@ -1,5 +1,4 @@
-Zythia fructicola Syd. SPECIES
-=======
+# Zythia fructicola Syd. SPECIES
 
 #### Status
 ACCEPTED

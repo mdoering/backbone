@@ -1,5 +1,4 @@
-Paecilomyces saturatus (Nakaz., Y. Takeda & Suematsu) Samson & Houbraken SPECIES
-=======
+# Paecilomyces saturatus (Nakaz., Y. Takeda & Suematsu) Samson & Houbraken SPECIES
 
 #### Status
 ACCEPTED

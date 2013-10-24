@@ -1,5 +1,4 @@
-Fuscoporia longisetulosa (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
-=======
+# Fuscoporia longisetulosa (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

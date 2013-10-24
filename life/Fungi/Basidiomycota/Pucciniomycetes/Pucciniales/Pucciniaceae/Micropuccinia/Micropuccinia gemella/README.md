@@ -1,5 +1,4 @@
-Micropuccinia gemella (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia gemella (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

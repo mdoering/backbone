@@ -1,5 +1,4 @@
-Armichona insecta Jankowski, 1973 SPECIES
-=======
+# Armichona insecta Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

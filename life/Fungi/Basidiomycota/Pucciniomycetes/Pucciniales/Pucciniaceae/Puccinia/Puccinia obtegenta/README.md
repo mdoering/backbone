@@ -1,5 +1,4 @@
-Puccinia obtegenta Tul. {?} SPECIES
-=======
+# Puccinia obtegenta Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

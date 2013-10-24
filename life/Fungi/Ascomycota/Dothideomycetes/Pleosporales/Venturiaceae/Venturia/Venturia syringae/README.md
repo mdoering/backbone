@@ -1,5 +1,4 @@
-Venturia syringae (Syd.) M.E. Barr SPECIES
-=======
+# Venturia syringae (Syd.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

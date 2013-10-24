@@ -1,5 +1,4 @@
-Cortinarius macropus (Fr.) Fr. SPECIES
-=======
+# Cortinarius macropus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

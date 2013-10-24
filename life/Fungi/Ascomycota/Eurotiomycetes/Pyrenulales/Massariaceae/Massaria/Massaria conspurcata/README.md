@@ -1,5 +1,4 @@
-Massaria conspurcata (Wallr.) Sacc. SPECIES
-=======
+# Massaria conspurcata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

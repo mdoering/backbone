@@ -1,5 +1,4 @@
-Cellularia cookei (Berk.) Kuntze SPECIES
-=======
+# Cellularia cookei (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

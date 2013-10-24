@@ -1,5 +1,4 @@
-Clavaria rivalis Britzelm. SPECIES
-=======
+# Clavaria rivalis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

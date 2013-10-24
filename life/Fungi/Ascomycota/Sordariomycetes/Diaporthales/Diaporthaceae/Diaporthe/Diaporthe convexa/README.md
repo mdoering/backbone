@@ -1,5 +1,4 @@
-Diaporthe convexa (Preuss) Sacc. SPECIES
-=======
+# Diaporthe convexa (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

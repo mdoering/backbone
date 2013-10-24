@@ -1,5 +1,4 @@
-Chaetophoma musae Cooke SPECIES
-=======
+# Chaetophoma musae Cooke SPECIES
 
 #### Status
 ACCEPTED

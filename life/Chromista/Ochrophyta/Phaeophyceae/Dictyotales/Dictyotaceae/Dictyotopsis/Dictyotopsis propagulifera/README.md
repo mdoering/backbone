@@ -1,5 +1,4 @@
-Dictyotopsis propagulifera Troll SPECIES
-=======
+# Dictyotopsis propagulifera Troll SPECIES
 
 #### Status
 ACCEPTED

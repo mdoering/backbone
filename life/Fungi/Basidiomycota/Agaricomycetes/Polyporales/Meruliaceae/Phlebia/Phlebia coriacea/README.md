@@ -1,5 +1,4 @@
-Phlebia coriacea Berk. SPECIES
-=======
+# Phlebia coriacea Berk. SPECIES
 
 #### Status
 ACCEPTED

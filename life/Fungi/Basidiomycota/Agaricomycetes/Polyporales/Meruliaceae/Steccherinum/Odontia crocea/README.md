@@ -1,5 +1,4 @@
-Odontia crocea var. crocea VARIETY
-=======
+# Odontia crocea Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Writ. 4: 11 (1914)
 
 #### Original name
-Odontia crocea var. crocea
+Odontia crocea Lloyd
 
 ### Remarks
 null

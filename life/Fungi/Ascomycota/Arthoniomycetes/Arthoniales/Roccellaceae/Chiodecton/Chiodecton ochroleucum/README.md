@@ -1,5 +1,4 @@
-Chiodecton ochroleucum Zahlbr. SPECIES
-=======
+# Chiodecton ochroleucum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

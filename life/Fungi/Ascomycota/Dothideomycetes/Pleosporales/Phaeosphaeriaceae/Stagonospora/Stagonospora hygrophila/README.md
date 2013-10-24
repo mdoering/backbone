@@ -1,5 +1,4 @@
-Stagonospora hygrophila var. hygrophila VARIETY
-=======
+# Stagonospora hygrophila Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stagonospora hygrophila var. hygrophila
+Stagonospora hygrophila Sacc.
 
 ### Remarks
 null

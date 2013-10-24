@@ -1,5 +1,4 @@
-Euglena guttula var. elongata VARIETY
-=======
+# Euglena guttula Playfair SPECIES
 
 #### Status
 ACCEPTED

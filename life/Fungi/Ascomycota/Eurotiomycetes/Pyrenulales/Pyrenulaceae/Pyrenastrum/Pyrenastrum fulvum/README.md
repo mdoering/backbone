@@ -1,5 +1,4 @@
-Pyrenastrum fulvum Malme SPECIES
-=======
+# Pyrenastrum fulvum Malme SPECIES
 
 #### Status
 ACCEPTED

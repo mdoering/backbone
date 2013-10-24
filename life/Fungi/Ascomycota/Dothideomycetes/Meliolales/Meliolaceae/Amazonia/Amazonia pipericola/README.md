@@ -1,5 +1,4 @@
-Amazonia pipericola Bat. & Taltasse SPECIES
-=======
+# Amazonia pipericola Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

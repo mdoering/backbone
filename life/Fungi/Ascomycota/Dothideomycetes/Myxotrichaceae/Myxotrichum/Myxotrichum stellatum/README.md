@@ -1,5 +1,4 @@
-Myxotrichum stellatum Udagawa & Uchiy. SPECIES
-=======
+# Myxotrichum stellatum Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

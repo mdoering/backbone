@@ -1,5 +1,4 @@
-Agaricus molochinus Fr. SPECIES
-=======
+# Agaricus molochinus Fr. SPECIES
 
 #### Status
 ACCEPTED

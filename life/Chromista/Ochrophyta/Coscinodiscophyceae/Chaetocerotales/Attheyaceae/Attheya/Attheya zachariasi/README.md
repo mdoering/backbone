@@ -1,5 +1,4 @@
-Attheya zachariasi Brun SPECIES
-=======
+# Attheya zachariasi Brun SPECIES
 
 #### Status
 ACCEPTED

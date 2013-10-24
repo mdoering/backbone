@@ -1,5 +1,4 @@
-Elsinoë tephrosiae Hansf. SPECIES
-=======
+# Elsinoë tephrosiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

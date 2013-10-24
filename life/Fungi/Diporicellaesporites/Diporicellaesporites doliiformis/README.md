@@ -1,5 +1,4 @@
-Diporicellaesporites doliiformis Kalgutkar SPECIES
-=======
+# Diporicellaesporites doliiformis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

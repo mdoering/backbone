@@ -1,5 +1,4 @@
-Trogia pusilla Corner SPECIES
-=======
+# Trogia pusilla Corner SPECIES
 
 #### Status
 ACCEPTED

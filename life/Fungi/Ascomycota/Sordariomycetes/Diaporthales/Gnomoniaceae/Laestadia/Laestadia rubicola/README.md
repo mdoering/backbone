@@ -1,5 +1,4 @@
-Laestadia rubicola Ellis & Everh. SPECIES
-=======
+# Laestadia rubicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

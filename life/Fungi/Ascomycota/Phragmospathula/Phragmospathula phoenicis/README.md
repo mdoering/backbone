@@ -1,5 +1,4 @@
-Phragmospathula phoenicis Subram. & N.G. Nair, 1966 SPECIES
-=======
+# Phragmospathula phoenicis Subram. & N.G. Nair, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps bothriochloae Tanda & Y. Muray. SPECIES
-=======
+# Claviceps bothriochloae Tanda & Y. Muray. SPECIES
 
 #### Status
 ACCEPTED

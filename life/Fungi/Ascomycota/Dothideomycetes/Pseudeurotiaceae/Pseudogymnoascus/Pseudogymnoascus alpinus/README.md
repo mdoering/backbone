@@ -1,14 +1,13 @@
-Gymnostellatospora alpina (E. Müll. & Arx) Udagawa, 1997 SPECIES
-=======
+# Pseudogymnoascus alpinus E. Müll. & Arx, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nippon Kingakukai Kaiho 38(3): 155 (1997)
+Sydowia 35: 135 (1982)
 
 #### Original name
 Pseudogymnoascus alpinus E. Müll. & Arx, 1982

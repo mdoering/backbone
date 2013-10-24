@@ -1,17 +1,16 @@
-Massarina sanguineoostiolata Aptroot, J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Massarina sanguineo-ostiolata Aptroot, J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(1-2): 229 (2000)
 
 #### Original name
-null
+Massarina sanguineo-ostiolata Aptroot, J. Fröhl. & K.D. Hyde, 2000
 
 ### Remarks
 null

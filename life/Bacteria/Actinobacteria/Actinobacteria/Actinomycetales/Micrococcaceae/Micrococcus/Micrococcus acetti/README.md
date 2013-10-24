@@ -1,5 +1,4 @@
-Micrococcus acetti SPECIES
-=======
+# Micrococcus acetti SPECIES
 
 #### Status
 ACCEPTED

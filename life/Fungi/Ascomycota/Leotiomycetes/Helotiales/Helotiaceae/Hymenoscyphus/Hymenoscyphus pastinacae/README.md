@@ -1,5 +1,4 @@
-Hymenoscyphus pastinacae (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus pastinacae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

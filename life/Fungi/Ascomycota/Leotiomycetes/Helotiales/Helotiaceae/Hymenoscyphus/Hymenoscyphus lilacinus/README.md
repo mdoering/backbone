@@ -1,5 +1,4 @@
-Hymenoscyphus lilacinus (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus lilacinus (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

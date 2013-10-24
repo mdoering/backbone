@@ -1,5 +1,4 @@
-Glugea plecoglossi SPECIES
-=======
+# Glugea plecoglossi SPECIES
 
 #### Status
 ACCEPTED

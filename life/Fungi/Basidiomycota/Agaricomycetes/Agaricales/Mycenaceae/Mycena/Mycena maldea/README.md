@@ -1,5 +1,4 @@
-Mycena maldea Grgur. SPECIES
-=======
+# Mycena maldea Grgur. SPECIES
 
 #### Status
 ACCEPTED

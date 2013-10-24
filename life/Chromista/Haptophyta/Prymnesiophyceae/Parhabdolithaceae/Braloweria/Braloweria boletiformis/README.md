@@ -1,5 +1,4 @@
-Braloweria boletiformis SPECIES
-=======
+# Braloweria boletiformis SPECIES
 
 #### Status
 ACCEPTED

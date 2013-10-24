@@ -1,14 +1,13 @@
-Oxneria weberii (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Oxneria weberi (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 60(4): 432 (2003)
 
 #### Original name
 Xanthoria weberi S.Y. Kondr. & Kärnefelt

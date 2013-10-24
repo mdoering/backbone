@@ -1,5 +1,4 @@
-Lepidophyton Trib. GENUS
-=======
+# Lepidophyton Trib. GENUS
 
 #### Status
 ACCEPTED

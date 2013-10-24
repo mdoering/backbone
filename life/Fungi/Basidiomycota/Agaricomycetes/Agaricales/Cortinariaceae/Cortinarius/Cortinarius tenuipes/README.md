@@ -1,5 +1,4 @@
-Cortinarius tenuipes (Hongo) Hongo SPECIES
-=======
+# Cortinarius tenuipes (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

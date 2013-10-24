@@ -1,5 +1,4 @@
-Stagonospora diospyri Tassi SPECIES
-=======
+# Stagonospora diospyri Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sarcodon cristatus (Bres.) Coker, 1939 SPECIES
-=======
+# Hydnellum cristatum (Bres.) Stalpers, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 55: 374 (1939)
+Stud. Mycol. 35: 26 (1993)
 
 #### Original name
 Hydnum cristatum G.F. Atk., 1902

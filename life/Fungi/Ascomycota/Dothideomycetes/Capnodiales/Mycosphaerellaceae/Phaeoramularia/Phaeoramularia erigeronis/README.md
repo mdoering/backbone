@@ -1,5 +1,4 @@
-Phaeoramularia erigeronis R.K. Chaudhary, S.K. Singh & P.N. Singh SPECIES
-=======
+# Phaeoramularia erigeronis R.K. Chaudhary, S.K. Singh & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

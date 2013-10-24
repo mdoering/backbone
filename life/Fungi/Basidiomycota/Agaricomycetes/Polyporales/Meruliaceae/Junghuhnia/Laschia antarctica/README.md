@@ -1,5 +1,4 @@
-Laschia antarctica Speg. SPECIES
-=======
+# Laschia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

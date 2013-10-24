@@ -1,5 +1,4 @@
-Cantharellus bonarii Morse SPECIES
-=======
+# Cantharellus bonarii Morse SPECIES
 
 #### Status
 ACCEPTED

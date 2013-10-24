@@ -1,5 +1,4 @@
-Lecanora molariformis Lynge SPECIES
-=======
+# Lecanora molariformis Lynge SPECIES
 
 #### Status
 ACCEPTED

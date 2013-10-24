@@ -1,5 +1,4 @@
-Uredo asperata Berk. & M.A. Curtis SPECIES
-=======
+# Uredo asperata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

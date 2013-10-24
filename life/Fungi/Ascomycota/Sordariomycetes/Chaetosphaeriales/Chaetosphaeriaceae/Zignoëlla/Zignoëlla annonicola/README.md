@@ -1,17 +1,16 @@
-Zignoëlla anonicola Speg. SPECIES
-=======
+# Zignoëlla annonicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 19(12): 376 (1909)
 
 #### Original name
-Zignoëlla anonicola Speg.
+Zignoëlla annonicola Speg.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Heterothecium parabolum (Nyl.) Müll. Arg. SPECIES
-=======
+# Letrouitia parabola (Nyl.) R. Sant. & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 9: 80 (1887)
+in Hafellner & Bellemère, Nova Hedwigia 35(2 & 3): 281 (1982)
 
 #### Original name
 Lecidea parabola Nyl.

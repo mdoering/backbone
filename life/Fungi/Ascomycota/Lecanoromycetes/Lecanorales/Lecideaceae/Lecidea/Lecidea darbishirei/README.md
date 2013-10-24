@@ -1,5 +1,4 @@
-Lecidea darbishirei Zahlbr. SPECIES
-=======
+# Lecidea darbishirei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

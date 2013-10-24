@@ -1,5 +1,4 @@
-Aspidicopsis Ghosh, 1921 GENUS
-=======
+# Aspidicopsis Ghosh, 1921 GENUS
 
 #### Status
 ACCEPTED

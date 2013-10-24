@@ -1,5 +1,4 @@
-Ocellularia thryptica Hale SPECIES
-=======
+# Ocellularia thryptica Hale SPECIES
 
 #### Status
 ACCEPTED

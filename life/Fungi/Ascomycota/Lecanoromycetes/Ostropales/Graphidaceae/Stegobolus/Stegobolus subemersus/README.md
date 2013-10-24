@@ -1,14 +1,13 @@
-Ocellularia subemersa Müll. Arg. SPECIES
-=======
+# Stegobolus subemersus (Müll. Arg.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Frisch & Kalb, Biblthca Lichenol. 92: 492 (2006)
 
 #### Original name
 Ocellularia subemersa Müll. Arg.

@@ -1,5 +1,4 @@
-Pestalozzina pistaciae Gucevic SPECIES
-=======
+# Pestalozzina pistaciae Gucevic SPECIES
 
 #### Status
 ACCEPTED

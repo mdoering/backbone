@@ -1,5 +1,4 @@
-Bacidia artytoides (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia artytoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

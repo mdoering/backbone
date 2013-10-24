@@ -1,5 +1,4 @@
-Graphis maligna Nyl. SPECIES
-=======
+# Graphis maligna Nyl. SPECIES
 
 #### Status
 ACCEPTED

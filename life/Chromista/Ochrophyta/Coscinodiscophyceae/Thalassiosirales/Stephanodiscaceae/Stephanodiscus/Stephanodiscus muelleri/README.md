@@ -1,5 +1,4 @@
-Stephanodiscus muelleri R. Klee & S. J. Casper SPECIES
-=======
+# Stephanodiscus muelleri R. Klee & S. J. Casper SPECIES
 
 #### Status
 ACCEPTED

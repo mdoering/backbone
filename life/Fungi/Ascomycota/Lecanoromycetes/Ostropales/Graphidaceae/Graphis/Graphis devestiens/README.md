@@ -1,5 +1,4 @@
-Graphis devestiens Nyl. SPECIES
-=======
+# Graphis devestiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

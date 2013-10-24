@@ -1,5 +1,4 @@
-Phoma philadelphi Cooke SPECIES
-=======
+# Phoma philadelphi Cooke SPECIES
 
 #### Status
 ACCEPTED

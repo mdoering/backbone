@@ -1,5 +1,4 @@
-Stigmopeltis ilicis Bat. & Peres SPECIES
-=======
+# Stigmopeltis ilicis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium ellipticum Downie, 1982 SPECIES
-=======
+# Micrhystridium ellipticum Downie, 1982 SPECIES
 
 #### Status
 ACCEPTED

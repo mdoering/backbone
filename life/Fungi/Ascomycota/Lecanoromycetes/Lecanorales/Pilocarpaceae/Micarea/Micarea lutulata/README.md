@@ -1,17 +1,16 @@
-Lecidea antillarum var. antillarum VARIETY
-=======
+# Micarea lutulata (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+in Hawksworth, James & Coppins, Lichenologist 12(1): 107 (1980)
 
 #### Original name
-Lecidea antillarum var. antillarum
+Lecidea lutulata Nyl.
 
 ### Remarks
 null

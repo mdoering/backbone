@@ -1,5 +1,4 @@
-Hygrophorus purpureofolius H.E. Bigelow SPECIES
-=======
+# Hygrophorus purpureofolius H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

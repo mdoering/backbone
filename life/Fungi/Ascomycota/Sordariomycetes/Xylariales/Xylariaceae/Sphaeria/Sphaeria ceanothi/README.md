@@ -1,5 +1,4 @@
-Sphaeria ceanothi Cooke & Harkn. SPECIES
-=======
+# Sphaeria ceanothi Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

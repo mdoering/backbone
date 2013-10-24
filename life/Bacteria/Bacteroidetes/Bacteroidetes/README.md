@@ -1,5 +1,4 @@
-Bacteroidetes CLASS
-=======
+# Bacteroidetes CLASS
 
 #### Status
 ACCEPTED

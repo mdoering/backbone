@@ -1,5 +1,4 @@
-Hercospora tiliacea (Ellis) Sacc. SPECIES
-=======
+# Hercospora tiliacea (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

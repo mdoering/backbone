@@ -1,5 +1,4 @@
-Polystictus prosector Lloyd SPECIES
-=======
+# Polystictus prosector Lloyd SPECIES
 
 #### Status
 ACCEPTED

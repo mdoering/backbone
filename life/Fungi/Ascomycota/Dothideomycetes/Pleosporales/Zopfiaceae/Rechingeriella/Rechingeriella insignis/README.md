@@ -1,14 +1,13 @@
-Zopfia insignis (Petr.) D. Hawksw. & C. Booth, 1974 SPECIES
-=======
+# Rechingeriella insignis Petr., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 135: 19 (1974)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 50: 465 (1940)
 
 #### Original name
 Rechingeriella insignis Petr., 1940

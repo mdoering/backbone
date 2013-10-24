@@ -1,5 +1,4 @@
-Puccinia cupheae Holw. SPECIES
-=======
+# Puccinia cupheae Holw. SPECIES
 
 #### Status
 ACCEPTED

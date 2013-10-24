@@ -1,5 +1,4 @@
-Blastocladia incrassata Indoh SPECIES
-=======
+# Blastocladia incrassata Indoh SPECIES
 
 #### Status
 ACCEPTED

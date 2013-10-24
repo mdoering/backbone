@@ -1,5 +1,4 @@
-Microthyrium litorale Speg. SPECIES
-=======
+# Microthyrium litorale Speg. SPECIES
 
 #### Status
 ACCEPTED

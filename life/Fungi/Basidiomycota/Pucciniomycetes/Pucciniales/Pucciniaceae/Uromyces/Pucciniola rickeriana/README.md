@@ -1,5 +1,4 @@
-Pucciniola rickeriana (Arthur) Arthur SPECIES
-=======
+# Pucciniola rickeriana (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

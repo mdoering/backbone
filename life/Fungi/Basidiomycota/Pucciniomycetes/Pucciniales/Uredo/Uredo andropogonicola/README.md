@@ -1,5 +1,4 @@
-Uredo andropogonicola Speg. SPECIES
-=======
+# Uredo andropogonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

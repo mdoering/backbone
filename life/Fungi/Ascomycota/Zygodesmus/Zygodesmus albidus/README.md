@@ -1,5 +1,4 @@
-Zygodesmus albidus Ellis & Halst. SPECIES
-=======
+# Zygodesmus albidus Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

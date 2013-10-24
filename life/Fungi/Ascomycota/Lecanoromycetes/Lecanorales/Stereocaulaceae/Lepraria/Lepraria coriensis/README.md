@@ -1,14 +1,13 @@
-Crocynia coriensis Hue SPECIES
-=======
+# Lepraria coriensis (Hue) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 71: 386 (1924)
+Herzogia 17: 28 (2004)
 
 #### Original name
 Crocynia coriensis Hue

@@ -1,5 +1,4 @@
-Ballocephala pedicellata Pohlad & E.C. Bernard, 1978 SPECIES
-=======
+# Ballocephala pedicellata Pohlad & E.C. Bernard, 1978 SPECIES
 
 #### Status
 ACCEPTED

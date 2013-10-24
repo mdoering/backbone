@@ -1,5 +1,4 @@
-Ovulariopsis eliadei Negru SPECIES
-=======
+# Ovulariopsis eliadei Negru SPECIES
 
 #### Status
 ACCEPTED

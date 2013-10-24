@@ -1,17 +1,16 @@
-Achroomyces arrhytidae M.S. Patil, Kund. & Nanaware SPECIES
-=======
+# Achroomyces arrhytidiae (L.S. Olive) Wojewoda, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora Polska, Grzyby (Mycota) 8: 245 (1977)
 
 #### Original name
-Achroomyces arrhytidae M.S. Patil, Kund. & Nanaware
+Platygloea arrhytidiae L.S. Olive, 1951
 
 ### Remarks
 null

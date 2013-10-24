@@ -1,5 +1,4 @@
-Valsa clausa Cooke & Ellis SPECIES
-=======
+# Valsa clausa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

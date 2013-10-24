@@ -1,14 +1,13 @@
-Dactylaria ampulliforme (Tubaki) G.C. Bhatt & W.B. Kendr. SPECIES
-=======
+# Isthmolongispora ampulliformis (Tubaki) de Hoog & Hennebert, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(3): 346 (1983)
 
 #### Original name
 Diplorhinotrichum ampulliforme Tubaki, 1958

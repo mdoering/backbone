@@ -1,5 +1,4 @@
-Penicillium gracilentum Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Penicillium gracilentum Udagawa & Y. Horie, 1973 SPECIES
 
 #### Status
 DOUBTFUL

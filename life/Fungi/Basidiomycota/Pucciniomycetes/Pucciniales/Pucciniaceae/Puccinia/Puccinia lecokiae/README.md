@@ -1,5 +1,4 @@
-Puccinia lecokiae Kotschy {?} SPECIES
-=======
+# Puccinia lecokiae Kotschy {?} SPECIES
 
 #### Status
 ACCEPTED

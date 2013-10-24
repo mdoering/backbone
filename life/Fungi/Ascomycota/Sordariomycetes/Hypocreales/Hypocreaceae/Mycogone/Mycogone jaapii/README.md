@@ -1,5 +1,4 @@
-Mycogone jaapii J. Lindau SPECIES
-=======
+# Mycogone jaapii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

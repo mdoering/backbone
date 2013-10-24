@@ -1,17 +1,16 @@
-Haplographium chlorocephalum var. chlorocephalum VARIETY
-=======
+# Graphiopsis chlorocephala Trail, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. 10: 75 (1889)
 
 #### Original name
-null
+Graphiopsis chlorocephala Trail, 1889
 
 ### Remarks
 null

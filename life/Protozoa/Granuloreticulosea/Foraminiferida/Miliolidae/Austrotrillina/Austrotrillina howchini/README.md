@@ -1,5 +1,4 @@
-Austrotrillina howchini (Schlumberger) SPECIES
-=======
+# Austrotrillina howchini (Schlumberger) SPECIES
 
 #### Status
 ACCEPTED

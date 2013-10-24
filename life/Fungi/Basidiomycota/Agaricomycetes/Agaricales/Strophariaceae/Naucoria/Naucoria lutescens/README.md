@@ -1,5 +1,4 @@
-Naucoria lutescens Velen. SPECIES
-=======
+# Naucoria lutescens Velen. SPECIES
 
 #### Status
 ACCEPTED

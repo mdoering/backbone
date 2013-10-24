@@ -1,5 +1,4 @@
-Endocarpon vagans Nyl. SPECIES
-=======
+# Endocarpon vagans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichokolpoma rigaudiae Deflandre & Cookson, 1955 SPECIES
-=======
+# Hystrichokolpoma rigaudiae Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

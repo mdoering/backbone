@@ -1,5 +1,4 @@
-Hygrophoraceae Lotsy FAMILY
-=======
+# Hygrophoraceae Lotsy FAMILY
 
 #### Status
 ACCEPTED

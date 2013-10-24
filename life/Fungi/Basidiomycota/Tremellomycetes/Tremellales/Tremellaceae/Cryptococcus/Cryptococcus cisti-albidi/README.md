@@ -1,17 +1,16 @@
-Cryptococcus cistialbidi Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
-=======
+# Cryptococcus cisti-albidi Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Inácio, Portugal, Spencer-Martins & Fonseca, FEMS Yeast Res. 5(12): 1177 (2005)
 
 #### Original name
-Cryptococcus cistialbidi Á. Fonseca, J. Inácio & Spenc.-Mart.
+Cryptococcus cisti-albidi Á. Fonseca, J. Inácio & Spenc.-Mart.
 
 ### Remarks
 null

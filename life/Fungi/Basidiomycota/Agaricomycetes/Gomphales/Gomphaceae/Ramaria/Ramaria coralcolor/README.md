@@ -1,5 +1,4 @@
-Ramaria coralcolor (Coker) R.H. Petersen SPECIES
-=======
+# Ramaria coralcolor (Coker) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

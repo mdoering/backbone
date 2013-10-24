@@ -1,5 +1,4 @@
-Arcyria flexuosa Rabenh. SPECIES
-=======
+# Arcyria flexuosa Rabenh. SPECIES
 
 #### Status
 ACCEPTED

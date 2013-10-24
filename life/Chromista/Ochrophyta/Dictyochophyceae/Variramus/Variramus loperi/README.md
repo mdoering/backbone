@@ -1,5 +1,4 @@
-Variramus loperi McCartney, S.W. Wise, D.M. Harwood & R. Gersonde SPECIES
-=======
+# Variramus loperi McCartney, S.W. Wise, D.M. Harwood & R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

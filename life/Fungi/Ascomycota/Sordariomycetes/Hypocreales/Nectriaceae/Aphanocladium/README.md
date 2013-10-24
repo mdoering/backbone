@@ -1,5 +1,4 @@
-Aphanocladium W. Gams, 1971 GENUS
-=======
+# Aphanocladium W. Gams, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus umbraculum Klotzsch SPECIES
-=======
+# Agaricus umbraculum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

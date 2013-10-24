@@ -1,14 +1,13 @@
-Uredo circaeae Schumach., 1803 SPECIES
-=======
+# Pucciniastrum circaeae (Schumach.) Speg., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 228 (1803)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 763 (1888)
 
 #### Original name
 Uredo circaeae Schumach., 1803

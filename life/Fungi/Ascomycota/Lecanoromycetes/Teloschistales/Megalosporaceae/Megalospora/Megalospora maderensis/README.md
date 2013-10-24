@@ -1,5 +1,4 @@
-Megalospora maderensis (Kremp.) Sipman SPECIES
-=======
+# Megalospora maderensis (Kremp.) Sipman SPECIES
 
 #### Status
 ACCEPTED

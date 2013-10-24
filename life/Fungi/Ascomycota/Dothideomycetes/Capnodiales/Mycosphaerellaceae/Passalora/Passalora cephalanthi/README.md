@@ -1,5 +1,4 @@
-Passalora cephalanthi (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Passalora cephalanthi (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

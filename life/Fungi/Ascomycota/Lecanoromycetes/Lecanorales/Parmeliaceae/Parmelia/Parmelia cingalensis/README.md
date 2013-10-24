@@ -1,5 +1,4 @@
-Parmelia cingalensis Stirt. SPECIES
-=======
+# Parmelia cingalensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

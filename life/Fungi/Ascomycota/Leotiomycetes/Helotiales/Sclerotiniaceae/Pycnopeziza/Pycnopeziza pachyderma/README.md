@@ -1,14 +1,13 @@
-Ciboria pachyderma Rehm, 1893 SPECIES
-=======
+# Pycnopeziza pachyderma (Rehm) W.L. White & Whetzel, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 758 (1893)
+Mycologia 32: 617 (1940)
 
 #### Original name
 Ciboria pachyderma Rehm, 1893

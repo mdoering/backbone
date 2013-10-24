@@ -1,5 +1,4 @@
-Ectostroma mulgedii Thüm. SPECIES
-=======
+# Ectostroma mulgedii Thüm. SPECIES
 
 #### Status
 ACCEPTED

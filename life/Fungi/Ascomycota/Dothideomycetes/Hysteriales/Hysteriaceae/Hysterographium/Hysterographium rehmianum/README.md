@@ -1,5 +1,4 @@
-Hysterographium rehmianum Sacc. SPECIES
-=======
+# Hysterographium rehmianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

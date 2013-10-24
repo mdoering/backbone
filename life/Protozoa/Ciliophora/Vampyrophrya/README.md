@@ -1,5 +1,4 @@
-Vampyrophrya GENUS
-=======
+# Vampyrophrya GENUS
 
 #### Status
 ACCEPTED

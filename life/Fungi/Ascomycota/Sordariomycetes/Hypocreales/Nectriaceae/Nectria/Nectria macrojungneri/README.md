@@ -1,5 +1,4 @@
-Nectria macrojungneri Samuels SPECIES
-=======
+# Nectria macrojungneri Samuels SPECIES
 
 #### Status
 ACCEPTED

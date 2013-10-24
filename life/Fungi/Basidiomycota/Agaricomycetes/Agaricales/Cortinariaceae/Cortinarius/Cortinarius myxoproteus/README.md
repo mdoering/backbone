@@ -1,5 +1,4 @@
-Cortinarius myxoproteus Rob. Henry SPECIES
-=======
+# Cortinarius myxoproteus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

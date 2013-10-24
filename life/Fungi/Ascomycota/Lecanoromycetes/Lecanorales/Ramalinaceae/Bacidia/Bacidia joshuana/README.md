@@ -1,5 +1,4 @@
-Bacidia joshuana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia joshuana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

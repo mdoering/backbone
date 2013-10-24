@@ -1,5 +1,4 @@
-Cenomyce tenella Delise SPECIES
-=======
+# Cenomyce tenella Delise SPECIES
 
 #### Status
 ACCEPTED

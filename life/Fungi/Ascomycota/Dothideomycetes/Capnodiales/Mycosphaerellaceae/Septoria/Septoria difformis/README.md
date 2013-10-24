@@ -1,5 +1,4 @@
-Septoria difformis Cooke & Peck SPECIES
-=======
+# Septoria difformis Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

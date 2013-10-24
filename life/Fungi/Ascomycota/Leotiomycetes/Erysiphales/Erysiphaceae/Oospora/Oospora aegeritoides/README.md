@@ -1,5 +1,4 @@
-Oospora aegeritoides P. Karst. SPECIES
-=======
+# Oospora aegeritoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

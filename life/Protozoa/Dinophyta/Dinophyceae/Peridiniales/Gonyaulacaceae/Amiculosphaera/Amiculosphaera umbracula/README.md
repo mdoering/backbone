@@ -1,5 +1,4 @@
-Amiculosphaera umbracula R. Harland SPECIES
-=======
+# Amiculosphaera umbracula R. Harland SPECIES
 
 #### Status
 ACCEPTED

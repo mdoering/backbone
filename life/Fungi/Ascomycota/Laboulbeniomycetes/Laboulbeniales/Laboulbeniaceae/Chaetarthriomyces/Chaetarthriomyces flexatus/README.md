@@ -1,5 +1,4 @@
-Chaetarthriomyces flexatus Thaxt., 1931 SPECIES
-=======
+# Chaetarthriomyces flexatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

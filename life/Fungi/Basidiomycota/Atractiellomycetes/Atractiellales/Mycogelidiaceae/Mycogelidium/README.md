@@ -1,5 +1,4 @@
-Mycogelidium W.Y. Zhuang GENUS
-=======
+# Mycogelidium W.Y. Zhuang GENUS
 
 #### Status
 ACCEPTED

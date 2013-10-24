@@ -1,5 +1,4 @@
-Septoria fuchsiae Roum. SPECIES
-=======
+# Septoria fuchsiae Roum. SPECIES
 
 #### Status
 ACCEPTED

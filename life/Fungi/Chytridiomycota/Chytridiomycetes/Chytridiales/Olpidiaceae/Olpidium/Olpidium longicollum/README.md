@@ -1,5 +1,4 @@
-Olpidium longicollum Uebelm. SPECIES
-=======
+# Olpidium longicollum Uebelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe araucana Singer SPECIES
-=======
+# Hygrocybe araucana Singer SPECIES
 
 #### Status
 ACCEPTED

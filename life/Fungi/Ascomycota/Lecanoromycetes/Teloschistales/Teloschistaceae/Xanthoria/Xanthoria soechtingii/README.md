@@ -1,17 +1,16 @@
-Xanthoria soechtingi S.Y. Kondr. SPECIES
-=======
+# Xanthoria soechtingii S.Y. Kondr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 89: 261 (2000)
 
 #### Original name
-Xanthoria soechtingi S.Y. Kondr.
+Xanthoria soechtingii S.Y. Kondr.
 
 ### Remarks
 null

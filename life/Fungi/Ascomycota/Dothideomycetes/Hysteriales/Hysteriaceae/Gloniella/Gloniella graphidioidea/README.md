@@ -1,5 +1,4 @@
-Gloniella graphidioidea Rehm SPECIES
-=======
+# Gloniella graphidioidea Rehm SPECIES
 
 #### Status
 ACCEPTED

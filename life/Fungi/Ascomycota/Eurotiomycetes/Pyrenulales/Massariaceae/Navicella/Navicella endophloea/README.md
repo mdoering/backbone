@@ -1,5 +1,4 @@
-Navicella endophloea (Pass.) Kuntze SPECIES
-=======
+# Navicella endophloea (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

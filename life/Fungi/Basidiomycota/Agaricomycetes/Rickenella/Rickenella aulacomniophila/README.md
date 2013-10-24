@@ -1,5 +1,4 @@
-Rickenella aulacomniophila G. Kost SPECIES
-=======
+# Rickenella aulacomniophila G. Kost SPECIES
 
 #### Status
 ACCEPTED

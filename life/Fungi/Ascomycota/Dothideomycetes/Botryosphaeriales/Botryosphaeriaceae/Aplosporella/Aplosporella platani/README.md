@@ -1,5 +1,4 @@
-Aplosporella platani (Peck) Petr. SPECIES
-=======
+# Aplosporella platani (Peck) Petr. SPECIES
 
 #### Status
 ACCEPTED

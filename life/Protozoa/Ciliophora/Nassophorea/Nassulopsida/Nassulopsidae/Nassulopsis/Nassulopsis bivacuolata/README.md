@@ -1,5 +1,4 @@
-Nassulopsis bivacuolata (Sramek-Husek, 1946) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Nassulopsis bivacuolata (Sramek-Husek, 1946) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia peruensis (Ach.) Nyl. SPECIES
-=======
+# Physcia peruensis (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

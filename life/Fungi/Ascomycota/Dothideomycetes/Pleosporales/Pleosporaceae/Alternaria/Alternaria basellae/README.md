@@ -1,5 +1,4 @@
-Alternaria basellae T.Y. Zhang SPECIES
-=======
+# Alternaria basellae T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

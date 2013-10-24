@@ -1,5 +1,4 @@
-Lecidea cocoës SPECIES
-=======
+# Lecidea cocoës SPECIES
 
 #### Status
 ACCEPTED

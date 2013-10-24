@@ -1,14 +1,13 @@
-Monilia mycophila Sacc. SPECIES
-=======
+# Nematogonum mycophilum (Sacc.) Rogerson & W. Gams, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Walker & Minter, Trans. Br. mycol. Soc. 77(2): 306 (1981)
 
 #### Original name
 Monilia mycophila Sacc.

@@ -1,5 +1,4 @@
-Fungus virginianus Pluk. {?} SPECIES
-=======
+# Fungus virginianus Pluk. {?} SPECIES
 
 #### Status
 ACCEPTED

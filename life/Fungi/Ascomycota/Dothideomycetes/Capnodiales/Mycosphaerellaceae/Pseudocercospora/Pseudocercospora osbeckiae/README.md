@@ -1,5 +1,4 @@
-Pseudocercospora osbeckiae (Chona, Lall & Munjal) Kamal, M.K. Khan & R.K. Verma SPECIES
-=======
+# Pseudocercospora osbeckiae (Chona, Lall & Munjal) Kamal, M.K. Khan & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

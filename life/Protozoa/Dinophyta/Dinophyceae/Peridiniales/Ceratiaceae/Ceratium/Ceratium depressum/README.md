@@ -1,5 +1,4 @@
-Ceratium depressum Gourret, 1883 SPECIES
-=======
+# Ceratium depressum Gourret, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria aracearum Henn. SPECIES
-=======
+# Nectria aracearum Henn. SPECIES
 
 #### Status
 ACCEPTED

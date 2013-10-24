@@ -1,8 +1,7 @@
-Porina thelotrematoides (Zenker) Fée SPECIES
-=======
+# Ocellularia thelotrematoides Zenker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

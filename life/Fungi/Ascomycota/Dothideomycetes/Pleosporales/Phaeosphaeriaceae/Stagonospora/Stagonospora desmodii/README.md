@@ -1,5 +1,4 @@
-Stagonospora desmodii Ellis & Everh. SPECIES
-=======
+# Stagonospora desmodii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

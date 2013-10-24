@@ -1,5 +1,4 @@
-Plicariella trachycarpa (Curr.) SPECIES
-=======
+# Plicariella trachycarpa (Curr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces thermovulgaris Henssen, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces thermovulgaris Henssen, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

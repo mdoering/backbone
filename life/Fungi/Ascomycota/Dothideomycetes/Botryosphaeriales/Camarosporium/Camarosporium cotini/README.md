@@ -1,5 +1,4 @@
-Camarosporium cotini Sandu SPECIES
-=======
+# Camarosporium cotini Sandu SPECIES
 
 #### Status
 ACCEPTED

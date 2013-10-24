@@ -1,5 +1,4 @@
-Hypocrea seppoi Jaklitsch SPECIES
-=======
+# Hypocrea seppoi Jaklitsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscypha echinulatus (Rehm) Sacc. SPECIES
-=======
+# Lachnum echinulatum Rehm, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Zweite Auflage. Vol. <b>1</b>. 3. Abth: Ascomyceten: Hysteriaceen und Discomyceten 876 (1893)
 
 #### Original name
 Lachnum echinulatum Rehm, 1893

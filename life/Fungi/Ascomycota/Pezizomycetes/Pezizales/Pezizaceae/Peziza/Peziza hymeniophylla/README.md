@@ -1,5 +1,4 @@
-Peziza hymeniophylla SPECIES
-=======
+# Peziza hymeniophylla SPECIES
 
 #### Status
 ACCEPTED

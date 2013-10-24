@@ -1,5 +1,4 @@
-Lobotheca Vavrdová, 1986 GENUS
-=======
+# Lobotheca Vavrdová, 1986 GENUS
 
 #### Status
 ACCEPTED

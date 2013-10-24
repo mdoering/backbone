@@ -1,5 +1,4 @@
-Botryotinia Whetzel GENUS
-=======
+# Botryotinia Whetzel GENUS
 
 #### Status
 ACCEPTED

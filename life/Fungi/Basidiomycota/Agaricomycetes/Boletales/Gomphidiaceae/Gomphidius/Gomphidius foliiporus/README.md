@@ -1,5 +1,4 @@
-Gomphidius foliiporus Murrill SPECIES
-=======
+# Gomphidius foliiporus Murrill SPECIES
 
 #### Status
 ACCEPTED

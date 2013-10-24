@@ -1,5 +1,4 @@
-Sigmophrya de Puytorac, 1971 GENUS
-=======
+# Sigmophrya de Puytorac, 1971 GENUS
 
 #### Status
 ACCEPTED

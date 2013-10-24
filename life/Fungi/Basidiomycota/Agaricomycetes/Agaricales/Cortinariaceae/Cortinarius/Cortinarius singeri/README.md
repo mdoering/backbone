@@ -1,5 +1,4 @@
-Cortinarius singeri M.M. Moser SPECIES
-=======
+# Cortinarius singeri M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

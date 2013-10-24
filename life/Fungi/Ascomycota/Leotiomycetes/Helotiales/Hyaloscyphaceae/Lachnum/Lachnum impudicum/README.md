@@ -1,5 +1,4 @@
-Lachnum impudicum Baral SPECIES
-=======
+# Lachnum impudicum Baral SPECIES
 
 #### Status
 ACCEPTED

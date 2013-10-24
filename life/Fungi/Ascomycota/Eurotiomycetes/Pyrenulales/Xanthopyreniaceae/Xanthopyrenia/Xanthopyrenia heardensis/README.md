@@ -1,5 +1,4 @@
-Xanthopyrenia heardensis C.W. Dodge & E.D. Rudolph SPECIES
-=======
+# Xanthopyrenia heardensis C.W. Dodge & E.D. Rudolph SPECIES
 
 #### Status
 ACCEPTED

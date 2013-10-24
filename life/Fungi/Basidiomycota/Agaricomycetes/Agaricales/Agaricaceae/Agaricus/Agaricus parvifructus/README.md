@@ -1,5 +1,4 @@
-Agaricus parvifructus Peck SPECIES
-=======
+# Agaricus parvifructus Peck SPECIES
 
 #### Status
 ACCEPTED

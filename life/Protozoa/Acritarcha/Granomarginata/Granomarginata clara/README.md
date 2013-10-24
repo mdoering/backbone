@@ -1,5 +1,4 @@
-Granomarginata clara Venkatachala et al., 1974 SPECIES
-=======
+# Granomarginata clara Venkatachala et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

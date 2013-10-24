@@ -1,5 +1,4 @@
-Ectocarpus lepasicola Noda SPECIES
-=======
+# Ectocarpus lepasicola Noda SPECIES
 
 #### Status
 ACCEPTED

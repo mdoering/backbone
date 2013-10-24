@@ -1,5 +1,4 @@
-Trametes brastagii Corner SPECIES
-=======
+# Trametes brastagii Corner SPECIES
 
 #### Status
 ACCEPTED

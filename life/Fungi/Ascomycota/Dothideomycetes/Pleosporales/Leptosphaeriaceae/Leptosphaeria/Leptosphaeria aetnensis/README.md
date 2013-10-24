@@ -1,5 +1,4 @@
-Leptosphaeria aetnensis Scalia SPECIES
-=======
+# Leptosphaeria aetnensis Scalia SPECIES
 
 #### Status
 ACCEPTED

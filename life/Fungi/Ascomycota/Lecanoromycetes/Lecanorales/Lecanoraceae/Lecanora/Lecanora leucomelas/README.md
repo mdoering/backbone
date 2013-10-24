@@ -1,5 +1,4 @@
-Lecanora leucomelas Krempelh. SPECIES
-=======
+# Lecanora leucomelas Krempelh. SPECIES
 
 #### Status
 ACCEPTED

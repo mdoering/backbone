@@ -1,5 +1,4 @@
-Synura adamsii G.M. Smith SPECIES
-=======
+# Synura adamsii G.M. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meriderma cribrarioides (Fr.) Mar. Mey. & Poulain, 2011 SPECIES
-=======
+# Meriderma cribrarioides (Fr.) Mar. Mey. & Poulain, 2011 SPECIES
 
 #### Status
 ACCEPTED

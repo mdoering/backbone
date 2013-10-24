@@ -1,5 +1,4 @@
-Trichochora marginata (Theiss.) Theiss. & Syd. SPECIES
-=======
+# Trichochora marginata (Theiss.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

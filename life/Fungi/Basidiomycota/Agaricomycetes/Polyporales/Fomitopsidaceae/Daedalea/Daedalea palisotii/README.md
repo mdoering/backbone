@@ -1,17 +1,16 @@
-Daedalea palisoti Fr. SPECIES
-=======
+# Daedalea palisotii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 1: 335 (1821)
 
 #### Original name
-Daedalea palisoti Fr.
+Daedalea palisotii Fr.
 
 ### Remarks
 null

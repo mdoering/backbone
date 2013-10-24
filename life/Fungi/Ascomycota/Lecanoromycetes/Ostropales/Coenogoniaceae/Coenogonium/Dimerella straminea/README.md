@@ -1,5 +1,4 @@
-Dimerella straminea Aptroot & Seaward SPECIES
-=======
+# Dimerella straminea Aptroot & Seaward SPECIES
 
 #### Status
 ACCEPTED

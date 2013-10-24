@@ -1,5 +1,4 @@
-Axisporonites indicus (P. Kumar) Kalgutkar & Janson. SPECIES
-=======
+# Axisporonites indicus (P. Kumar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

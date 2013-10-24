@@ -1,5 +1,4 @@
-Coniothecium persicae Speg. SPECIES
-=======
+# Coniothecium persicae Speg. SPECIES
 
 #### Status
 ACCEPTED

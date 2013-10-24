@@ -1,5 +1,4 @@
-Panellus jalapensis Murrill SPECIES
-=======
+# Panellus jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

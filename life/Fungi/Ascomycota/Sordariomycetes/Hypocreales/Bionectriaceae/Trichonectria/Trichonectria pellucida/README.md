@@ -1,5 +1,4 @@
-Trichonectria pellucida Döbbeler SPECIES
-=======
+# Trichonectria pellucida Döbbeler SPECIES
 
 #### Status
 ACCEPTED

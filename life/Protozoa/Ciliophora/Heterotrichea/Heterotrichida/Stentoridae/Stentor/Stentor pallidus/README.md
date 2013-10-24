@@ -1,5 +1,4 @@
-Stentor pallidus Foissner, 1980 SPECIES
-=======
+# Stentor pallidus Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

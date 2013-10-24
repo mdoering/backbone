@@ -1,5 +1,4 @@
-Laboulbenia subpunctata Thaxt. SPECIES
-=======
+# Laboulbenia subpunctata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis bougainvillae Wood, 1963 SPECIES
-=======
+# Histioneis bougainvillae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

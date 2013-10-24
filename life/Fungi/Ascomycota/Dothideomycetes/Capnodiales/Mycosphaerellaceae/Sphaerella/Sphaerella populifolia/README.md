@@ -1,5 +1,4 @@
-Sphaerella populifolia Cooke SPECIES
-=======
+# Sphaerella populifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium ostendatum (Kremp.) Müll. Arg. SPECIES
-=======
+# Bathelium ostendatum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

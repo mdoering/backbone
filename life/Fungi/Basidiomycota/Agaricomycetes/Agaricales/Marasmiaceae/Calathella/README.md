@@ -1,5 +1,4 @@
-Calathella D.A. Reid, 1964 GENUS
-=======
+# Calathella D.A. Reid, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia polygoni Rabenh. SPECIES
-=======
+# Hendersonia polygoni Rabenh. SPECIES
 
 #### Status
 ACCEPTED

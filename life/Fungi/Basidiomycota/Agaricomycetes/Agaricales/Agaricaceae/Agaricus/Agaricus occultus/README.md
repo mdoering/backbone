@@ -1,5 +1,4 @@
-Agaricus occultus Britzelm. SPECIES
-=======
+# Agaricus occultus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

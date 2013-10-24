@@ -1,5 +1,4 @@
-Dictyoploca madecassensis (R. Heim) R. Heim SPECIES
-=======
+# Dictyoploca madecassensis (R. Heim) R. Heim SPECIES
 
 #### Status
 ACCEPTED

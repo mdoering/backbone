@@ -1,5 +1,4 @@
-Leptosphaeromma Haeckel, 1887 GENUS
-=======
+# Leptosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

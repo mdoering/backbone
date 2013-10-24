@@ -1,5 +1,4 @@
-Bubakia stratosa (Cooke) Dietel SPECIES
-=======
+# Bubakia stratosa (Cooke) Dietel SPECIES
 
 #### Status
 ACCEPTED

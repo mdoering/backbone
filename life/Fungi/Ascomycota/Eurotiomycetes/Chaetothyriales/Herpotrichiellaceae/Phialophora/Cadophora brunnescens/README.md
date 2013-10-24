@@ -1,5 +1,4 @@
-Cadophora brunnescens R.W. Davidson SPECIES
-=======
+# Cadophora brunnescens R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophthalmina kilianensis f. planispirata Rhumbler, 1936 FORM
-=======
+# Ophthalmina kilianensis Rhumbler, 1936 SPECIES
 
 #### Status
 ACCEPTED

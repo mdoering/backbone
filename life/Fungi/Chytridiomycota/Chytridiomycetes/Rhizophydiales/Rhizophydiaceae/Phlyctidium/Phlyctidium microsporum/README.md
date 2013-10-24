@@ -1,5 +1,4 @@
-Phlyctidium microsporum (Nowak.) J. Schröt. SPECIES
-=======
+# Phlyctidium microsporum (Nowak.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

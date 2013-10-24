@@ -1,5 +1,4 @@
-Lambertella agaricicola (Berk. & Broome) Dumont SPECIES
-=======
+# Lambertella agaricicola (Berk. & Broome) Dumont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubiporus eastwoodiae (Murrill) S. Imai SPECIES
-=======
+# Tubiporus eastwoodiae (Murrill) S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus dryinus f. dryinus FORM
-=======
+# Dasyscyphus dryinus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscyphus dryinus f. dryinus
+Peziza dryina P. Karst.
 
 ### Remarks
 null

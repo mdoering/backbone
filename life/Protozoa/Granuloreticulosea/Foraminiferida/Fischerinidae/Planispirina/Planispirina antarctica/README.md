@@ -1,5 +1,4 @@
-Planispirina antarctica Chapman, 1909 SPECIES
-=======
+# Planispirina antarctica Chapman, 1909 SPECIES
 
 #### Status
 ACCEPTED

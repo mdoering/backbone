@@ -1,5 +1,4 @@
-Porina howeana P. M. McCarthy SPECIES
-=======
+# Porina howeana P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

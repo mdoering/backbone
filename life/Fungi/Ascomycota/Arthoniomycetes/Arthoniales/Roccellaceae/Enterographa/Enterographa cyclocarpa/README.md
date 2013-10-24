@@ -1,5 +1,4 @@
-Enterographa cyclocarpa (Zahlbr.) Redinger SPECIES
-=======
+# Enterographa cyclocarpa (Zahlbr.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia violascens Flot. SPECIES
-=======
+# Arthonia violascens Flot. SPECIES
 
 #### Status
 ACCEPTED

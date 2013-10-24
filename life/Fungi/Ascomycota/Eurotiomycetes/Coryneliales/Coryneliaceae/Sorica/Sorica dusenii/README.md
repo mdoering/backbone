@@ -1,5 +1,4 @@
-Sorica dusenii Giesenh. SPECIES
-=======
+# Sorica dusenii Giesenh. SPECIES
 
 #### Status
 ACCEPTED

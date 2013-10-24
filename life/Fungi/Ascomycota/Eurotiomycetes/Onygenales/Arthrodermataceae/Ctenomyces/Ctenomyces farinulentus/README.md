@@ -1,5 +1,4 @@
-Ctenomyces farinulentus (Sabour.) Nann. SPECIES
-=======
+# Ctenomyces farinulentus (Sabour.) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema rugatum Hook. f. & Taylor SPECIES
-=======
+# Collema rugatum Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

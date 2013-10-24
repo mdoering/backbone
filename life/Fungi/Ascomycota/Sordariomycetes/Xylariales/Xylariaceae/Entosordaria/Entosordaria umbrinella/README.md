@@ -1,5 +1,4 @@
-Entosordaria umbrinella (De Not.) Höhn. SPECIES
-=======
+# Entosordaria umbrinella (De Not.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

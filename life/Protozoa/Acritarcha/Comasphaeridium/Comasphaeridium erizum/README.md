@@ -1,5 +1,4 @@
-Comasphaeridium erizum (Cramer, Díez, Rodriguez & Fombella, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium erizum (Cramer, Díez, Rodriguez & Fombella, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

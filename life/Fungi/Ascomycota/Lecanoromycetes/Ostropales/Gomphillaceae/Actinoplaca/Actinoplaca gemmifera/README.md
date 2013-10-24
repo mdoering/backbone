@@ -1,5 +1,4 @@
-Actinoplaca gemmifera (Lücking) Lücking, Sérus. & Vezda SPECIES
-=======
+# Actinoplaca gemmifera (Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

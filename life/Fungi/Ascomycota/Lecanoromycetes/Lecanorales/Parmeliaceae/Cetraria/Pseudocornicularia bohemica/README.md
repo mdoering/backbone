@@ -1,5 +1,4 @@
-Pseudocornicularia bohemica (Anders) Gyeln. SPECIES
-=======
+# Pseudocornicularia bohemica (Anders) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

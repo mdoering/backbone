@@ -1,5 +1,4 @@
-Inocybe sterlingii Peck SPECIES
-=======
+# Inocybe sterlingii Peck SPECIES
 
 #### Status
 ACCEPTED

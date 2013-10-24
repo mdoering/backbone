@@ -1,5 +1,4 @@
-Schulzeria septentrionalis P. Karst. SPECIES
-=======
+# Schulzeria septentrionalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

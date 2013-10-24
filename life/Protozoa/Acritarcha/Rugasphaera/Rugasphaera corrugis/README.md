@@ -1,5 +1,4 @@
-Rugasphaera corrugis Jiabo, 1978 SPECIES
-=======
+# Rugasphaera corrugis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

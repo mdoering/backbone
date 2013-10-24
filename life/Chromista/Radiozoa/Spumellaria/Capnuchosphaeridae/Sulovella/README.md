@@ -1,5 +1,4 @@
-Sulovella GENUS
-=======
+# Sulovella GENUS
 
 #### Status
 ACCEPTED

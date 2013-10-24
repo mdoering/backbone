@@ -1,5 +1,4 @@
-Baflavia GENUS
-=======
+# Baflavia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subramanella arecae H.C. Srivast., Zakia & Govindar. SPECIES
-=======
+# Subramanella arecae H.C. Srivast., Zakia & Govindar. SPECIES
 
 #### Status
 ACCEPTED

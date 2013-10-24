@@ -1,5 +1,4 @@
-Sphaerella triseti Speg. SPECIES
-=======
+# Sphaerella triseti Speg. SPECIES
 
 #### Status
 ACCEPTED

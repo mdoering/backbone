@@ -1,5 +1,4 @@
-Epistylis stenostoma SPECIES
-=======
+# Epistylis stenostoma SPECIES
 
 #### Status
 ACCEPTED

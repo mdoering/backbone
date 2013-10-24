@@ -1,5 +1,4 @@
-Thelotrema exalbidum Stirt. SPECIES
-=======
+# Thelotrema exalbidum Stirt. SPECIES
 
 #### Status
 ACCEPTED

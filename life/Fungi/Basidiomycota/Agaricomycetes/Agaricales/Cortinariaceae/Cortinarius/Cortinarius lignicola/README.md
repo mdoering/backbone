@@ -1,17 +1,16 @@
-Cortinarius lignicolus Bidaud SPECIES
-=======
+# Cortinarius lignicola Bidaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Meyzieu) 6: 190 (1994)
 
 #### Original name
-Cortinarius lignicolus Bidaud
+Cortinarius lignicola Bidaud
 
 ### Remarks
 null

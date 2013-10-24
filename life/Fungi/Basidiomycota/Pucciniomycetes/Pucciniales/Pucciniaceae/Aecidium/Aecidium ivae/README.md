@@ -1,5 +1,4 @@
-Aecidium ivae H.S. Jacks. SPECIES
-=======
+# Aecidium ivae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

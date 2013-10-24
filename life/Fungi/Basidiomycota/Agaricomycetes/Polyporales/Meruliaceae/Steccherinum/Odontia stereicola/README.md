@@ -1,5 +1,4 @@
-Odontia stereicola Bres. SPECIES
-=======
+# Odontia stereicola Bres. SPECIES
 
 #### Status
 ACCEPTED

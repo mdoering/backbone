@@ -1,5 +1,4 @@
-Phellodon implicatus R.E. Baird & S.R. Khan, 1986 SPECIES
-=======
+# Phellodon implicatus R.E. Baird & S.R. Khan, 1986 SPECIES
 
 #### Status
 ACCEPTED

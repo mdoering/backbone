@@ -1,5 +1,4 @@
-Umbilicaria cerebriformis C.W. Dodge & G.E. Baker SPECIES
-=======
+# Umbilicaria cerebriformis C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

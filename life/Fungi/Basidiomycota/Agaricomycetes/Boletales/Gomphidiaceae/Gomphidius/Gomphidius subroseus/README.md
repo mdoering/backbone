@@ -1,5 +1,4 @@
-Gomphidius subroseus var. subroseus VARIETY
-=======
+# Gomphidius subroseus Kauffman SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 17(3): 120 (1925)
 
 #### Original name
-Gomphidius subroseus var. subroseus
+Gomphidius subroseus Kauffman
 
 ### Remarks
 null

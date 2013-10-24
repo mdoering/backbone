@@ -1,5 +1,4 @@
-Phyllosticta caryotae C.I. Chen SPECIES
-=======
+# Phyllosticta caryotae C.I. Chen SPECIES
 
 #### Status
 ACCEPTED

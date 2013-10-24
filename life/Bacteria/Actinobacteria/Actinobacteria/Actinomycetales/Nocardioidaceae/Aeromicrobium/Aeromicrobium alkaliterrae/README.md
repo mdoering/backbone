@@ -1,5 +1,4 @@
-Aeromicrobium alkaliterrae Yoon et al., 2005 SPECIES
-=======
+# Aeromicrobium alkaliterrae Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

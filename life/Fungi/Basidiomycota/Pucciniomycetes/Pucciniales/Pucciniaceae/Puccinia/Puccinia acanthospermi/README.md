@@ -1,5 +1,4 @@
-Puccinia acanthospermi Henn. SPECIES
-=======
+# Puccinia acanthospermi Henn. SPECIES
 
 #### Status
 ACCEPTED

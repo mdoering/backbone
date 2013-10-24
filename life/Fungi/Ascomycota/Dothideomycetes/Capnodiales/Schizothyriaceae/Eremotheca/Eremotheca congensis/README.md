@@ -1,5 +1,4 @@
-Eremotheca congensis Hansf. SPECIES
-=======
+# Eremotheca congensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

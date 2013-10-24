@@ -1,5 +1,4 @@
-Coniunctiophycus Zhang Yun, 1981 GENUS
-=======
+# Coniunctiophycus Zhang Yun, 1981 GENUS
 
 #### Status
 ACCEPTED

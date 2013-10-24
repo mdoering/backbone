@@ -1,5 +1,4 @@
-Parasterina rigida Doidge SPECIES
-=======
+# Parasterina rigida Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius distans Peck SPECIES
-=======
+# Lactarius distans Peck SPECIES
 
 #### Status
 ACCEPTED

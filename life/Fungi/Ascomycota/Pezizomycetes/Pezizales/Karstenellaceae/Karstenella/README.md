@@ -1,5 +1,4 @@
-Karstenella Harmaja GENUS
-=======
+# Karstenella Harmaja GENUS
 
 #### Status
 ACCEPTED

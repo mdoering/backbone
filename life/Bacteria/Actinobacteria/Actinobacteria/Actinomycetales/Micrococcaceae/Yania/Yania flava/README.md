@@ -1,5 +1,4 @@
-Yania flava Li et al., 2005 SPECIES
-=======
+# Yania flava Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrothrix flagelliramosa Aramb., Cabello & Cazau SPECIES
-=======
+# Gyrothrix flagelliramosa Aramb., Cabello & Cazau SPECIES
 
 #### Status
 ACCEPTED

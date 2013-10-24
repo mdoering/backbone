@@ -1,5 +1,4 @@
-Ramalina denticulata var. denticulata VARIETY
-=======
+# Ramalina denticulata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina denticulata var. denticulata
+Ramalina denticulata Nyl.
 
 ### Remarks
 null

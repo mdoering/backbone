@@ -1,5 +1,4 @@
-Russula henningsii Sacc. & P. Syd. SPECIES
-=======
+# Russula henningsii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

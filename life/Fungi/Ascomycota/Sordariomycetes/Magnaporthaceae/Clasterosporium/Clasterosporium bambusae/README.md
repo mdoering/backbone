@@ -1,5 +1,4 @@
-Clasterosporium bambusae Saikia & A.K. Sarbhoy SPECIES
-=======
+# Clasterosporium bambusae Saikia & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

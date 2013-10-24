@@ -1,5 +1,4 @@
-Phakopsora melanotes Syd. & P. Syd. SPECIES
-=======
+# Phakopsora melanotes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

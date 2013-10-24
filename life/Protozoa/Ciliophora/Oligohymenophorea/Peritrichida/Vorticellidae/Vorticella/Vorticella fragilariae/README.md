@@ -1,5 +1,4 @@
-Vorticella fragilariae Ruttner, 1937 SPECIES
-=======
+# Vorticella fragilariae Ruttner, 1937 SPECIES
 
 #### Status
 ACCEPTED

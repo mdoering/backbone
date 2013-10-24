@@ -1,14 +1,13 @@
-Polystictus sector var. sector VARIETY
-=======
+# Trichaptum sector (Ehrenb.) Kreisel, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 285 (1888)
+Monografias, Ciencias, Univ. Habana, Ser. 4 16: 84 (1971)
 
 #### Original name
 Boletus sector Ehrenb., 1820

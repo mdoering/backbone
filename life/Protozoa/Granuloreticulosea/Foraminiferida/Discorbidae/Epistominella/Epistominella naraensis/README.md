@@ -1,5 +1,4 @@
-Epistominella naraensis (Kuwano, 1962) SPECIES
-=======
+# Epistominella naraensis (Kuwano, 1962) SPECIES
 
 #### Status
 ACCEPTED

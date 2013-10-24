@@ -1,5 +1,4 @@
-Psathyrella atomatoides (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella atomatoides (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

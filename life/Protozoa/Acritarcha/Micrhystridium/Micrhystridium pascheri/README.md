@@ -1,5 +1,4 @@
-Micrhystridium pascheri Stockmans & Willière, 1962 SPECIES
-=======
+# Micrhystridium pascheri Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

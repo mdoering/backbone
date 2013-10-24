@@ -1,5 +1,4 @@
-Eutypa allamandae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Eutypa allamandae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

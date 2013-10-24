@@ -1,5 +1,4 @@
-Claviceps hirtella Langdon SPECIES
-=======
+# Claviceps hirtella Langdon SPECIES
 
 #### Status
 ACCEPTED

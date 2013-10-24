@@ -1,5 +1,4 @@
-Sclerophoma punctiformis (Desm.) Höhn. SPECIES
-=======
+# Sclerophoma punctiformis (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

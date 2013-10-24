@@ -1,5 +1,4 @@
-Hendersonia ruscicola (Rabenh.) Sacc. SPECIES
-=======
+# Hendersonia ruscicola (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonatorrhodiella eximia Höhn. SPECIES
-=======
+# Gonatorrhodiella eximia Höhn. SPECIES
 
 #### Status
 ACCEPTED

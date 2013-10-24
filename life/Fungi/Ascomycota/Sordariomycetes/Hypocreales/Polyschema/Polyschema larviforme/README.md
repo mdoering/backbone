@@ -1,14 +1,13 @@
-Polyschema larviformis (Fairm.) M.B. Ellis SPECIES
-=======
+# Polyschema larviforme (Fairm.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 372 (1976)
 
 #### Original name
 Clasterosporium larviforme Fairm., 1922

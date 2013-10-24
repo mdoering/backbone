@@ -1,5 +1,4 @@
-Gloeotrichia flagelliformis Gardner SPECIES
-=======
+# Gloeotrichia flagelliformis Gardner SPECIES
 
 #### Status
 ACCEPTED

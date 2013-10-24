@@ -1,5 +1,4 @@
-Baltisphaeridium echinulatum Burmann, 1970 SPECIES
-=======
+# Baltisphaeridium echinulatum Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

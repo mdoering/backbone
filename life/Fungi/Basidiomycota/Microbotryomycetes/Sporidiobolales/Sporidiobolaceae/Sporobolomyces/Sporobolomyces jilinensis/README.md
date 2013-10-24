@@ -1,5 +1,4 @@
-Sporobolomyces jilinensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Sporobolomyces jilinensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

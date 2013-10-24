@@ -1,5 +1,4 @@
-Stalpersia Parmasto GENUS
-=======
+# Stalpersia Parmasto GENUS
 
 #### Status
 ACCEPTED

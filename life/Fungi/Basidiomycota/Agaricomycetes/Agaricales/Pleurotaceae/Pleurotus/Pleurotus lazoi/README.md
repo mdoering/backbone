@@ -1,5 +1,4 @@
-Pleurotus lazoi Donoso, 1981 SPECIES
-=======
+# Pleurotus lazoi Donoso, 1981 SPECIES
 
 #### Status
 ACCEPTED

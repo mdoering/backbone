@@ -1,5 +1,4 @@
-Pluteus subgriseibrunneus Murrill SPECIES
-=======
+# Pluteus subgriseibrunneus Murrill SPECIES
 
 #### Status
 ACCEPTED

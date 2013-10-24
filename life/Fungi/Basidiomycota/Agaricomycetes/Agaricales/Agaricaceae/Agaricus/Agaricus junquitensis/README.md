@@ -1,5 +1,4 @@
-Agaricus junquitensis Heinem. SPECIES
-=======
+# Agaricus junquitensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

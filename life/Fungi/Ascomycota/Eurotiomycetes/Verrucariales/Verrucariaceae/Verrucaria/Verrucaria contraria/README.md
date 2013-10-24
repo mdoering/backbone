@@ -1,5 +1,4 @@
-Verrucaria contraria H. Magn. SPECIES
-=======
+# Verrucaria contraria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria cupressiformis f. cupressiformis FORM
-=======
+# Xylaria cupressiformis Becc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria cupressiformis f. cupressiformis
+Xylaria cupressiformis Becc.
 
 ### Remarks
 null

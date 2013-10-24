@@ -1,5 +1,4 @@
-Zoothamnium helicaecola Dumas, 1929 SPECIES
-=======
+# Zoothamnium helicaecola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

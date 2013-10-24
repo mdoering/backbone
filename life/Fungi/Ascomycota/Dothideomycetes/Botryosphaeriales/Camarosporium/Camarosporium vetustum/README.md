@@ -1,5 +1,4 @@
-Camarosporium vetustum Ellis & Everh. SPECIES
-=======
+# Camarosporium vetustum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

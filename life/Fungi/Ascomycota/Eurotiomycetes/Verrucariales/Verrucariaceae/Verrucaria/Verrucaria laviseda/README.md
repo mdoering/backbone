@@ -1,5 +1,4 @@
-Verrucaria laviseda Zahlbr. SPECIES
-=======
+# Verrucaria laviseda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria sanguinescens SPECIES
-=======
+# Pertusaria sanguinescens SPECIES
 
 #### Status
 ACCEPTED

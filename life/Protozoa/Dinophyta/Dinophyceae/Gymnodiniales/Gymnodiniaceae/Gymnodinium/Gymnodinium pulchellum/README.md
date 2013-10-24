@@ -1,5 +1,4 @@
-Gymnodinium pulchellum J. Larsen SPECIES
-=======
+# Gymnodinium pulchellum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

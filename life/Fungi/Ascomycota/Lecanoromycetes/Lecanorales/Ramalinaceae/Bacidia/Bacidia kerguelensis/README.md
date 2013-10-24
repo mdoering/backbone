@@ -1,5 +1,4 @@
-Bacidia kerguelensis C.W. Dodge SPECIES
-=======
+# Bacidia kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

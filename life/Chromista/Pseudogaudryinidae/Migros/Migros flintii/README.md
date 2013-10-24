@@ -1,5 +1,4 @@
-Migros flintii (Cushman, 1911) SPECIES
-=======
+# Migros flintii (Cushman, 1911) SPECIES
 
 #### Status
 ACCEPTED

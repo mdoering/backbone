@@ -1,8 +1,7 @@
-Diaporthe niessleana Sacc. SPECIES
-=======
+# Diaporthe niessliana Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diaporthe niessleana Sacc.
+Diaporthe niessliana Sacc.
 
 ### Remarks
 null

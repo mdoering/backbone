@@ -1,5 +1,4 @@
-Meliola phaeomaculans Mibey & P.F. Cannon SPECIES
-=======
+# Meliola phaeomaculans Mibey & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

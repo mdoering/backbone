@@ -1,5 +1,4 @@
-Tricholoma scabrum L.M. Dufour SPECIES
-=======
+# Tricholoma scabrum L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

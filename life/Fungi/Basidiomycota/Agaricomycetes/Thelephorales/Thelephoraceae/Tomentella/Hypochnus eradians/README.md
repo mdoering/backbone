@@ -1,5 +1,4 @@
-Hypochnus eradians (Fr.) Bres. SPECIES
-=======
+# Hypochnus eradians (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

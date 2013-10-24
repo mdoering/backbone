@@ -1,5 +1,4 @@
-Stigmatomyces macrandrus Thaxt. SPECIES
-=======
+# Stigmatomyces macrandrus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

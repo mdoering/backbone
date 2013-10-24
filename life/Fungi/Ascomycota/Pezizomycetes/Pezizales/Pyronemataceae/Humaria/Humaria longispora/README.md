@@ -1,5 +1,4 @@
-Humaria longispora Maire SPECIES
-=======
+# Humaria longispora Maire SPECIES
 
 #### Status
 ACCEPTED

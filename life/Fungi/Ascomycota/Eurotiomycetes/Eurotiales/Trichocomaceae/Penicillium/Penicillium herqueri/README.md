@@ -1,5 +1,4 @@
-Penicillium herqueri var. herqueri VARIETY
-=======
+# Penicillium herqueri Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 28: 121, tab. 7 (1912)
 
 #### Original name
-Penicillium herqueri var. herqueri
+Penicillium herqueri Bainier & Sartory
 
 ### Remarks
 null

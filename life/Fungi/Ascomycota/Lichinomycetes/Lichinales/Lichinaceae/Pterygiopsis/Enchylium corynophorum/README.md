@@ -1,5 +1,4 @@
-Enchylium corynophorum Schwend. SPECIES
-=======
+# Enchylium corynophorum Schwend. SPECIES
 
 #### Status
 ACCEPTED

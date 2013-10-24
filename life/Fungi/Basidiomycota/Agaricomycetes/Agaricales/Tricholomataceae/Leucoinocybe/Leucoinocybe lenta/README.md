@@ -1,14 +1,13 @@
-Mycena lenta Maire, 1928 SPECIES
-=======
+# Leucoinocybe lenta (Maire) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 114 (1943)
 
 #### Original name
 Mycena lenta Maire, 1928

@@ -1,5 +1,4 @@
-Petrimonas sulfuriphila Grabowski et al., 2005 SPECIES
-=======
+# Petrimonas sulfuriphila Grabowski et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

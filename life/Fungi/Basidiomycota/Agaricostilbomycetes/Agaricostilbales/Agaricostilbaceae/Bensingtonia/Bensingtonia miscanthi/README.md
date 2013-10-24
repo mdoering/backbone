@@ -1,5 +1,4 @@
-Bensingtonia miscanthi (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
-=======
+# Bensingtonia miscanthi (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
 
 #### Status
 ACCEPTED

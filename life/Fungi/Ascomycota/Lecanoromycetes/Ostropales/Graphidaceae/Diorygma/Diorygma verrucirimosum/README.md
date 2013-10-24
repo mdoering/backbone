@@ -1,5 +1,4 @@
-Diorygma verrucirimosum B.O. Sharma & Makhija SPECIES
-=======
+# Diorygma verrucirimosum B.O. Sharma & Makhija SPECIES
 
 #### Status
 ACCEPTED

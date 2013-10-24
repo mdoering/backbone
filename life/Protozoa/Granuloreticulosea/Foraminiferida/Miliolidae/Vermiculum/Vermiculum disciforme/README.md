@@ -1,5 +1,4 @@
-Vermiculum disciforme Macgillivray, 1843 SPECIES
-=======
+# Vermiculum disciforme Macgillivray, 1843 SPECIES
 
 #### Status
 ACCEPTED

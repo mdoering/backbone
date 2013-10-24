@@ -1,14 +1,13 @@
-Pseudallescheria angustum (Malloch & Cain) McGinnis, A.A. Padhye & Ajello SPECIES
-=======
+# Pseudallescheria angusta (Malloch & Cain) McGinnis, A.A. Padhye & Ajello, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 14(1): 97 (1982)
 
 #### Original name
 Petriellidium angustum Malloch & Cain, 1972

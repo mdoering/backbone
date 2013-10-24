@@ -1,5 +1,4 @@
-Rhachomyces aphaenopsis var. aphaenopsis VARIETY
-=======
+# Rhachomyces aphaenopsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhachomyces aphaenopsis var. aphaenopsis
+Rhachomyces aphaenopsis Thaxt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calycomonas wulffii Conrad & Kufferath SPECIES
-=======
+# Calycomonas wulffii Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

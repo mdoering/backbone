@@ -1,5 +1,4 @@
-Stilostomella antillea (Cushman, 1923) SPECIES
-=======
+# Stilostomella antillea (Cushman, 1923) SPECIES
 
 #### Status
 ACCEPTED

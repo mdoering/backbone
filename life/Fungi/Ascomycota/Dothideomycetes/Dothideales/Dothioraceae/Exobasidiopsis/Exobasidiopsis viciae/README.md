@@ -1,5 +1,4 @@
-Exobasidiopsis viciae Karak. SPECIES
-=======
+# Exobasidiopsis viciae Karak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporella carnea Ellis & Everh. SPECIES
-=======
+# Cytosporella carnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

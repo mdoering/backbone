@@ -1,5 +1,4 @@
-Dichaena smilacina Schwein. SPECIES
-=======
+# Dichaena smilacina Schwein. SPECIES
 
 #### Status
 ACCEPTED

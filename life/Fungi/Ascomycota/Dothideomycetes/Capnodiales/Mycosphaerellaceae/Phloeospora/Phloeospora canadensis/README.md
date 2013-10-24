@@ -1,5 +1,4 @@
-Phloeospora canadensis Bubák & Dearn. SPECIES
-=======
+# Phloeospora canadensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

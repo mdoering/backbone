@@ -1,5 +1,4 @@
-Sphaeria bicuspidata Cooke & Harkn. SPECIES
-=======
+# Sphaeria bicuspidata Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

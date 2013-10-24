@@ -1,5 +1,4 @@
-Quinqueloculina sabulosa SPECIES
-=======
+# Quinqueloculina sabulosa SPECIES
 
 #### Status
 ACCEPTED

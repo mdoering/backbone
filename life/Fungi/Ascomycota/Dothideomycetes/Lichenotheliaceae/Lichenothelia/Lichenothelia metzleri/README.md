@@ -1,5 +1,4 @@
-Lichenothelia metzleri (J. Lahm) D. Hawksw. SPECIES
-=======
+# Lichenothelia metzleri (J. Lahm) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lophium eriophori Henn., 1895 SPECIES
-=======
+# Lophodermium eriophori (Henn.) P.R. Johnst. & Scheuer, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 2 (1895)
+Mycotaxon 87: 490 (2003)
 
 #### Original name
 Lophium eriophori Henn., 1895

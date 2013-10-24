@@ -1,5 +1,4 @@
-Calcidiscus macintyrei (Bukry & Bramlette, 1969) Loeblich & Tappan, 1978 SPECIES
-=======
+# Calcidiscus macintyrei (Bukry & Bramlette, 1969) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

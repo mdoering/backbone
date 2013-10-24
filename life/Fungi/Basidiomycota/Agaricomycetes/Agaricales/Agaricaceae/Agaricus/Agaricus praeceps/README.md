@@ -1,5 +1,4 @@
-Agaricus praeceps Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus praeceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

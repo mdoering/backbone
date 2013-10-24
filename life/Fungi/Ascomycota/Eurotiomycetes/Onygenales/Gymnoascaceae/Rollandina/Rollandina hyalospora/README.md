@@ -1,5 +1,4 @@
-Rollandina hyalospora (Kuehn, G.F. Orr & G.R. Ghosh) K. Roy, G.R. Ghosh & G.F. Orr SPECIES
-=======
+# Rollandina hyalospora (Kuehn, G.F. Orr & G.R. Ghosh) K. Roy, G.R. Ghosh & G.F. Orr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pinetorum Murrill SPECIES
-=======
+# Russula pinetorum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum lamella SPECIES
-=======
+# Loxophyllum lamella SPECIES
 
 #### Status
 ACCEPTED

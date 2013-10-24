@@ -1,5 +1,4 @@
-Usnea merrillii Motyka SPECIES
-=======
+# Usnea merrillii Motyka SPECIES
 
 #### Status
 ACCEPTED

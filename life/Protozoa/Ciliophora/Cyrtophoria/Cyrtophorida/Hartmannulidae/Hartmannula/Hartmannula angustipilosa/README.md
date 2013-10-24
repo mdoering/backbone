@@ -1,5 +1,4 @@
-Hartmannula angustipilosa Deroux & Dragesco, 1968 SPECIES
-=======
+# Hartmannula angustipilosa Deroux & Dragesco, 1968 SPECIES
 
 #### Status
 ACCEPTED

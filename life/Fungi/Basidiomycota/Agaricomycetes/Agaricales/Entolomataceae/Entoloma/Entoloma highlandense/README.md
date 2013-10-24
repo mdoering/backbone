@@ -1,5 +1,4 @@
-Entoloma highlandense Hesler SPECIES
-=======
+# Entoloma highlandense Hesler SPECIES
 
 #### Status
 ACCEPTED

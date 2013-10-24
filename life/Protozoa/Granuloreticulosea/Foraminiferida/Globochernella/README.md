@@ -1,5 +1,4 @@
-Globochernella Hance, 1983 GENUS
-=======
+# Globochernella Hance, 1983 GENUS
 
 #### Status
 ACCEPTED

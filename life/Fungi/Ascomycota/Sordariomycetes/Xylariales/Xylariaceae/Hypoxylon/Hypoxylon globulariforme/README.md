@@ -1,5 +1,4 @@
-Hypoxylon globulariforme Fuckel SPECIES
-=======
+# Hypoxylon globulariforme Fuckel SPECIES
 
 #### Status
 ACCEPTED

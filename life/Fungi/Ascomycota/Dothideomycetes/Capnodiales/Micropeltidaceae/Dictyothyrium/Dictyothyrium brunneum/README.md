@@ -1,5 +1,4 @@
-Dictyothyrium brunneum Bat. & J. Silva SPECIES
-=======
+# Dictyothyrium brunneum Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

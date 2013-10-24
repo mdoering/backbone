@@ -1,5 +1,4 @@
-Lecanora viridans Maheu & Werner SPECIES
-=======
+# Lecanora viridans Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe sapida Lebedeva SPECIES
-=======
+# Clitocybe sapida Lebedeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea inspersula H. Magn. SPECIES
-=======
+# Lecidea inspersula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

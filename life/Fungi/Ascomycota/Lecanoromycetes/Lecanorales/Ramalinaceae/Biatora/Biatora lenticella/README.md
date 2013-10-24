@@ -1,5 +1,4 @@
-Biatora lenticella Arnold SPECIES
-=======
+# Biatora lenticella Arnold SPECIES
 
 #### Status
 ACCEPTED

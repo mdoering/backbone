@@ -1,5 +1,4 @@
-Karschia thalloides (Hepp) Rehm SPECIES
-=======
+# Karschia thalloides (Hepp) Rehm SPECIES
 
 #### Status
 ACCEPTED

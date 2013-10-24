@@ -1,5 +1,4 @@
-Anthostomella atronitens Rehm SPECIES
-=======
+# Anthostomella atronitens Rehm SPECIES
 
 #### Status
 ACCEPTED

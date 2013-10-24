@@ -1,5 +1,4 @@
-Passalora imperatae (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora imperatae (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

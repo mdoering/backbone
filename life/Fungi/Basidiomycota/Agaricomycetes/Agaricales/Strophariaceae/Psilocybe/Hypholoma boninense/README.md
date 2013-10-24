@@ -1,5 +1,4 @@
-Hypholoma boninense S. Ito & S. Imai SPECIES
-=======
+# Hypholoma boninense S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

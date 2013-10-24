@@ -1,17 +1,16 @@
-Coryneopsis rubi f. rubi FORM
-=======
+# Coryneopsis rubi (Westend.) Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 330 (1937)
 
 #### Original name
-Coryneopsis rubi f. rubi
+Septoria rubi Westend., 1854
 
 ### Remarks
 null

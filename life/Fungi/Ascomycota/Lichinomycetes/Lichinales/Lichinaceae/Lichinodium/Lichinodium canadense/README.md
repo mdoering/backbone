@@ -1,5 +1,4 @@
-Lichinodium canadense Henssen SPECIES
-=======
+# Lichinodium canadense Henssen SPECIES
 
 #### Status
 ACCEPTED

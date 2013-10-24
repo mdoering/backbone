@@ -1,14 +1,13 @@
-Cyathia pallida (Berk. & M.A. Curtis) V.S. White, 1902 SPECIES
-=======
+# Cyathus pallidus Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 263 (1902)
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 346 [no. 517] (1868)
 
 #### Original name
 Cyathus pallidus Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Uredo boutelouae Arthur SPECIES
-=======
+# Uredo boutelouae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria obducens Nyl. SPECIES
-=======
+# Pertusaria obducens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora vogliniana Sacc. SPECIES
-=======
+# Pleospora vogliniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

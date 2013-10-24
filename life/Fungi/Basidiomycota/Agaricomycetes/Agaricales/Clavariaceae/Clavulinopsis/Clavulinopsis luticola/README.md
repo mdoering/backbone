@@ -1,14 +1,13 @@
-Clavaria luticola Lasch, 1873 SPECIES
-=======
+# Clavulinopsis luticola (Lasch) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. exsicc. 17: no. 1609 (1873)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 378 (1950)
 
 #### Original name
 Clavaria luticola Lasch, 1873

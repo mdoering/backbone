@@ -1,8 +1,7 @@
-Stephanolithion laffittei Noël, 1957 SPECIES
-=======
+# Rotelapillus laffittei (Noël, 1957) Noël, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

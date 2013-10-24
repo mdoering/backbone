@@ -1,14 +1,13 @@
-Carcinomyces effibulatus (Ginns & Sunhede) Oberw. & Bandoni, 1982 SPECIES
-=======
+# Syzygospora effibulata (Ginns & Sunhede) Ginns, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 2(5): 509 (1982)
+Mycologia 78(4): 626 (1986)
 
 #### Original name
 Christiansenia effibulata Ginns & Sunhede, 1978

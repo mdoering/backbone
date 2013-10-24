@@ -1,5 +1,4 @@
-Usnea pinkertonii Stirt. SPECIES
-=======
+# Usnea pinkertonii Stirt. SPECIES
 
 #### Status
 ACCEPTED

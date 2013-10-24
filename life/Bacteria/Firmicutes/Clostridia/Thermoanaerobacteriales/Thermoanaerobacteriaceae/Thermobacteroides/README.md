@@ -1,5 +1,4 @@
-Thermobacteroides Ben-Bassat & Zeikus, 1983 GENUS
-=======
+# Thermobacteroides Ben-Bassat & Zeikus, 1983 GENUS
 
 #### Status
 ACCEPTED

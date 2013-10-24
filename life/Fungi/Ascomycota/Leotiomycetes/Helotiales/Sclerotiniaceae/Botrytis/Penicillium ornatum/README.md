@@ -1,5 +1,4 @@
-Penicillium ornatum Udagawa, 1968 SPECIES
-=======
+# Penicillium ornatum Udagawa, 1968 SPECIES
 
 #### Status
 DOUBTFUL

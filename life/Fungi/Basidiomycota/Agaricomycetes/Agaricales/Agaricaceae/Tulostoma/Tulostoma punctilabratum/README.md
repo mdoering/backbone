@@ -1,5 +1,4 @@
-Tulostoma punctilabratum Long SPECIES
-=======
+# Tulostoma punctilabratum Long SPECIES
 
 #### Status
 ACCEPTED

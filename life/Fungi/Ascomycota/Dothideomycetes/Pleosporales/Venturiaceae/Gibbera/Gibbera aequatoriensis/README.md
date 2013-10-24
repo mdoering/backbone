@@ -1,5 +1,4 @@
-Gibbera aequatoriensis Syd. SPECIES
-=======
+# Gibbera aequatoriensis Syd. SPECIES
 
 #### Status
 ACCEPTED

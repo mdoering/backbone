@@ -1,5 +1,4 @@
-Rosellinia sanguinolenta (Wallr.) Sacc. SPECIES
-=======
+# Rosellinia sanguinolenta (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

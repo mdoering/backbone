@@ -1,5 +1,4 @@
-Yaucorotalia Seiglie, 1972 GENUS
-=======
+# Yaucorotalia Seiglie, 1972 GENUS
 
 #### Status
 ACCEPTED

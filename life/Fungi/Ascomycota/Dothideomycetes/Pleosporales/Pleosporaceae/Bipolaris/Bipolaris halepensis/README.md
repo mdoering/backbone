@@ -1,17 +1,16 @@
-Bipolaris halepense M.Y. Chiang, K.J. Leonard & Van Dyke SPECIES
-=======
+# Bipolaris halepensis M.Y. Chiang, K.J. Leonard & Van Dyke, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 81(4): 537 (1989)
 
 #### Original name
-Bipolaris halepense M.Y. Chiang, K.J. Leonard & Van Dyke
+Bipolaris halepensis M.Y. Chiang, K.J. Leonard & Van Dyke, 1989
 
 ### Remarks
 null

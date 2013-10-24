@@ -1,5 +1,4 @@
-Sporidesmium eucalypti M.B. Ellis & D.E. Shaw SPECIES
-=======
+# Sporidesmium eucalypti M.B. Ellis & D.E. Shaw SPECIES
 
 #### Status
 ACCEPTED

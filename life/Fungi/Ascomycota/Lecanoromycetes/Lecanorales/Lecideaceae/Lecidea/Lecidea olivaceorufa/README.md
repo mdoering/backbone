@@ -1,5 +1,4 @@
-Lecidea olivaceorufa Zenk. SPECIES
-=======
+# Lecidea olivaceorufa Zenk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea nemipteri Weiser, Kalavati & Sandeep, 1981 SPECIES
-=======
+# Glugea nemipteri Weiser, Kalavati & Sandeep, 1981 SPECIES
 
 #### Status
 ACCEPTED

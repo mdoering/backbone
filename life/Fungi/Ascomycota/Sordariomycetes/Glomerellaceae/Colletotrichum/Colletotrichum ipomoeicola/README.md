@@ -1,5 +1,4 @@
-Colletotrichum ipomoeicola V. Rao SPECIES
-=======
+# Colletotrichum ipomoeicola V. Rao SPECIES
 
 #### Status
 ACCEPTED

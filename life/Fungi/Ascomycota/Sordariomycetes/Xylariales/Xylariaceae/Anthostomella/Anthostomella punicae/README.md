@@ -1,5 +1,4 @@
-Anthostomella punicae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Anthostomella punicae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

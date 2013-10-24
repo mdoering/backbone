@@ -1,5 +1,4 @@
-Koorchaloma spartinicola V.V. Sarma, S.Y. Newell & K.D. Hyde, 2001 SPECIES
-=======
+# Koorchaloma spartinicola V.V. Sarma, S.Y. Newell & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

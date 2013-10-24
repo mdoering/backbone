@@ -1,5 +1,4 @@
-Phytophthora primulae J.A. Toml., 1952 SPECIES
-=======
+# Phytophthora primulae J.A. Toml., 1952 SPECIES
 
 #### Status
 ACCEPTED

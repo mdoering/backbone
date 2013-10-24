@@ -1,5 +1,4 @@
-Meliola tahitensis Pat. ex Hansf. SPECIES
-=======
+# Meliola tahitensis Pat. ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

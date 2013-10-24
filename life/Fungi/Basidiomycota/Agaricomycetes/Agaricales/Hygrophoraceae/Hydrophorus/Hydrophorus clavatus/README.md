@@ -1,5 +1,4 @@
-Hydrophorus clavatus Battarra SPECIES
-=======
+# Hydrophorus clavatus Battarra SPECIES
 
 #### Status
 ACCEPTED

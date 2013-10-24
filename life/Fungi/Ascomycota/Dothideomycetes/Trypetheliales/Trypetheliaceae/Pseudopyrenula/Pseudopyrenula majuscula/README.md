@@ -1,5 +1,4 @@
-Pseudopyrenula majuscula H. Magn. SPECIES
-=======
+# Pseudopyrenula majuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

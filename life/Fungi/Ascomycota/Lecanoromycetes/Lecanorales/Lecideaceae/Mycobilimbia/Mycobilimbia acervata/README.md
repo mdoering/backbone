@@ -1,5 +1,4 @@
-Mycobilimbia acervata (Stizenb.) Vouaux SPECIES
-=======
+# Mycobilimbia acervata (Stizenb.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

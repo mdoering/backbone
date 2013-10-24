@@ -1,5 +1,4 @@
-Marasmius bururiensis Antonín SPECIES
-=======
+# Marasmius bururiensis Antonín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmodiophora alni (Woronin) Möller SPECIES
-=======
+# Plasmodiophora alni (Woronin) Möller SPECIES
 
 #### Status
 ACCEPTED

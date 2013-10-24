@@ -1,5 +1,4 @@
-Stylonychia claviformis Gelei, 1954 SPECIES
-=======
+# Stylonychia claviformis Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

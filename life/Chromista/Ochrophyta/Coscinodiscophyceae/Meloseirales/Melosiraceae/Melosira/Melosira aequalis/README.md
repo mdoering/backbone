@@ -1,5 +1,4 @@
-Melosira aequalis C. Agardh SPECIES
-=======
+# Melosira aequalis C. Agardh SPECIES
 
 #### Status
 ACCEPTED

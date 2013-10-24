@@ -1,5 +1,4 @@
-Heterotrichina GENUS
-=======
+# Heterotrichina GENUS
 
 #### Status
 ACCEPTED

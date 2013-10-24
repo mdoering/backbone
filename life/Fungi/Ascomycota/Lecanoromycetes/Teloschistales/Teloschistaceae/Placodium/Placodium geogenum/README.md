@@ -1,5 +1,4 @@
-Placodium geogenum Vain. SPECIES
-=======
+# Placodium geogenum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus opacoides E.H.L. Krause SPECIES
-=======
+# Hygrophorus opacoides E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

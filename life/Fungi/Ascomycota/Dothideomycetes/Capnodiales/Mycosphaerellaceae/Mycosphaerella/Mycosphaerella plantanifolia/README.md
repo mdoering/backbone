@@ -1,5 +1,4 @@
-Mycosphaerella plantanifolia (Cooke) F.A. Wolf SPECIES
-=======
+# Mycosphaerella plantanifolia (Cooke) F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria regularis Herp. SPECIES
-=======
+# Clavaria regularis Herp. SPECIES
 
 #### Status
 ACCEPTED

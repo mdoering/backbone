@@ -1,5 +1,4 @@
-Alinostoma polyvacuolatum SPECIES
-=======
+# Alinostoma polyvacuolatum SPECIES
 
 #### Status
 ACCEPTED

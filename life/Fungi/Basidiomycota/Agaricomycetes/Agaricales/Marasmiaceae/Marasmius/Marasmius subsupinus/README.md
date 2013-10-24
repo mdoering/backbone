@@ -1,14 +1,13 @@
-Agaricus subsupinus (Berk.) Colenso, 1891 SPECIES
-=======
+# Marasmius subsupinus Berk., 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 23: 392 (1891)
+in Hooker, Flora Tasman. , Fungi 2: 249 (1859)
 
 #### Original name
 Marasmius subsupinus Berk., 1859

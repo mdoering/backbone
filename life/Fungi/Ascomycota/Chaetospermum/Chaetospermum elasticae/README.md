@@ -1,5 +1,4 @@
-Chaetospermum elasticae var. elasticae VARIETY
-=======
+# Chaetospermum elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Botanische Untersuchungen Java 13: 244 (1907)
 
 #### Original name
-Chaetospermum elasticae var. elasticae
+Chaetospermum elasticae Koord.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma solani Halst. SPECIES
-=======
+# Phoma solani Halst. SPECIES
 
 #### Status
 ACCEPTED

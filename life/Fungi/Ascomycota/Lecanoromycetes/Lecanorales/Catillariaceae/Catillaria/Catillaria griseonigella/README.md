@@ -1,5 +1,4 @@
-Catillaria griseonigella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria griseonigella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

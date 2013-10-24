@@ -1,8 +1,7 @@
-Lepocinclis fusiformis var. elongata Swirenko VARIETY
-=======
+# Lepocinclis elongata (Swirenko) Conrad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Corynespora parapyrenariae Jian Ma & X.G. Zhang SPECIES
-=======
+# Corynespora parapyrenariae Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

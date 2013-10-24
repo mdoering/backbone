@@ -1,8 +1,7 @@
-Phyllachora texensis Orton, 1944 SPECIES
-=======
+# Phyllachora epicampis Orton, 1944 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

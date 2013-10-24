@@ -1,5 +1,4 @@
-Visbysphaera fecunda Vanguestaine et al., 1983 SPECIES
-=======
+# Visbysphaera fecunda Vanguestaine et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

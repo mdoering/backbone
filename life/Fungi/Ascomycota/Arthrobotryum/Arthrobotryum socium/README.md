@@ -1,5 +1,4 @@
-Arthrobotryum socium Sacc. SPECIES
-=======
+# Arthrobotryum socium Sacc. SPECIES
 
 #### Status
 ACCEPTED

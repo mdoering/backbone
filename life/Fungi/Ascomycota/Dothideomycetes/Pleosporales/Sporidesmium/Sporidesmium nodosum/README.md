@@ -1,5 +1,4 @@
-Sporidesmium nodosum Preuss SPECIES
-=======
+# Sporidesmium nodosum Preuss SPECIES
 
 #### Status
 ACCEPTED

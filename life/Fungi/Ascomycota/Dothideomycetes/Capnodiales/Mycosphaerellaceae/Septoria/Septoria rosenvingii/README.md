@@ -1,8 +1,7 @@
-Septoria rosenvingi Lind SPECIES
-=======
+# Septoria rosenvingii Lind SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria rosenvingi Lind
+Septoria rosenvingii Lind
 
 ### Remarks
 null

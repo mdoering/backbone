@@ -1,14 +1,13 @@
-Helicoma maritimum Linder, 1944 SPECIES
-=======
+# Zalerion maritima (Linder) Anastasiou, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Linder, Farlowia 1: 405 (1944)
+Can. J. Bot. 41: 1136 (1963)
 
 #### Original name
 Helicoma maritimum Linder, 1944

@@ -1,5 +1,4 @@
-Lishizhenia Lau, Ren, Wai, Qian, Wong & Wu, 2006 GENUS
-=======
+# Lishizhenia Lau, Ren, Wai, Qian, Wong & Wu, 2006 GENUS
 
 #### Status
 ACCEPTED

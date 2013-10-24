@@ -1,5 +1,4 @@
-Phoma berberidis Sacc. SPECIES
-=======
+# Phoma berberidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

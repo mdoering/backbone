@@ -1,5 +1,4 @@
-Tephromela pachythallina (Th. Fr.) Motyka SPECIES
-=======
+# Tephromela pachythallina (Th. Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

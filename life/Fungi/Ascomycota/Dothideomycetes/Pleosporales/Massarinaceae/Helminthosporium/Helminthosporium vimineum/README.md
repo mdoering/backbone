@@ -1,5 +1,4 @@
-Helminthosporium vimineum SPECIES
-=======
+# Helminthosporium vimineum SPECIES
 
 #### Status
 ACCEPTED

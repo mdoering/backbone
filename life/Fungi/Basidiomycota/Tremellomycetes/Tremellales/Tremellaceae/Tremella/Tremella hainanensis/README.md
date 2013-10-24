@@ -1,5 +1,4 @@
-Tremella hainanensis Y.B. Peng SPECIES
-=======
+# Tremella hainanensis Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

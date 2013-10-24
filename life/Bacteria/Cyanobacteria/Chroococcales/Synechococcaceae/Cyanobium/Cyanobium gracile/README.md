@@ -1,5 +1,4 @@
-Cyanobium gracile R. Rippka & G. Cohen-Bazire SPECIES
-=======
+# Cyanobium gracile R. Rippka & G. Cohen-Bazire SPECIES
 
 #### Status
 ACCEPTED

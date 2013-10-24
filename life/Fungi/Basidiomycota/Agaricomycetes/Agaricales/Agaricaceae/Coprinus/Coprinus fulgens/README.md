@@ -1,5 +1,4 @@
-Coprinus fulgens anon. SPECIES
-=======
+# Coprinus fulgens anon. SPECIES
 
 #### Status
 ACCEPTED

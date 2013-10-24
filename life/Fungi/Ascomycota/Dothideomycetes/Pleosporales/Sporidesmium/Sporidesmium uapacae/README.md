@@ -1,5 +1,4 @@
-Sporidesmium uapacae M.B. Ellis SPECIES
-=======
+# Sporidesmium uapacae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

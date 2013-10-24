@@ -1,5 +1,4 @@
-Vermicularia araliae Gutner SPECIES
-=======
+# Vermicularia araliae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichogloea olivacea Chodat SPECIES
-=======
+# Stichogloea olivacea Chodat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foetidaria coccinea Mont. SPECIES
-=======
+# Foetidaria coccinea Mont. SPECIES
 
 #### Status
 ACCEPTED

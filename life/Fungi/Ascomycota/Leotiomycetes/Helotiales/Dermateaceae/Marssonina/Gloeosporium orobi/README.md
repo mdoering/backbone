@@ -1,5 +1,4 @@
-Gloeosporium orobi P. Karst. SPECIES
-=======
+# Gloeosporium orobi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anapyrenium aegyptiacum Müll. Arg. SPECIES
-=======
+# Anapyrenium aegyptiacum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

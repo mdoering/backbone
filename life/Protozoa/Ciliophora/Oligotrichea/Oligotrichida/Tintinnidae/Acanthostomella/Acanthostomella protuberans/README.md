@@ -1,5 +1,4 @@
-Acanthostomella protuberans SPECIES
-=======
+# Acanthostomella protuberans SPECIES
 
 #### Status
 ACCEPTED

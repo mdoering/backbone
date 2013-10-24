@@ -1,17 +1,16 @@
-Inocybe virgatula Kühner, 1955 SPECIES
-=======
+# Inocybe pseudodestricta Stangl & J. Veselský, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax, Suppl. Mém. hors sér. No. 2 9(Suppl. ): 7 (1955)
+Ceská Mykol. 27: 19 (1973)
 
 #### Original name
-Inocybe virgatula Kühner, 1955
+Inocybe pseudodestricta Stangl & J. Veselský, 1973
 
 ### Remarks
 null

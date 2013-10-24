@@ -1,5 +1,4 @@
-Lomachashaka kera Subram., 1956 SPECIES
-=======
+# Lomachashaka kera Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

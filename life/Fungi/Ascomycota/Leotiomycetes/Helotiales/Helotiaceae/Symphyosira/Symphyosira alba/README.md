@@ -1,5 +1,4 @@
-Symphyosira alba P. Karst. SPECIES
-=======
+# Symphyosira alba P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium melaleucae Tassi SPECIES
-=======
+# Hysterium melaleucae Tassi SPECIES
 
 #### Status
 ACCEPTED

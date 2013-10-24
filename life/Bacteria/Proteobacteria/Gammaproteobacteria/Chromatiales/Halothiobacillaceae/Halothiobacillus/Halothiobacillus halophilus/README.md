@@ -1,8 +1,7 @@
-Thiobacillus halophilus Wood & Kelly, 1995 SPECIES
-=======
+# Halothiobacillus halophilus (Wood & Kelly, 1995) Kelly & Wood, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

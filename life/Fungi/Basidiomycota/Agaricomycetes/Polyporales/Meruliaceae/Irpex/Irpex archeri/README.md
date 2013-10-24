@@ -1,14 +1,13 @@
-Xylodon archeri (Berk.) Kuntze, 1898 SPECIES
-=======
+# Irpex archeri Berk., 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 541 (1898)
+in Hooker, Flora Tasman. , Fungi 2: 257 (1859)
 
 #### Original name
 Irpex archeri Berk., 1859

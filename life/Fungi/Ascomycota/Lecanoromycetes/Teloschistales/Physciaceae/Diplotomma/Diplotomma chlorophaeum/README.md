@@ -1,17 +1,16 @@
-Diplotomma porphyricum Arnold SPECIES
-=======
+# Diplotomma chlorophaeum (Hepp ex Leight.) Szatala SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 22: 300 (1872)
+Annls hist. -nat. Mus. natn. hung. 7: 280 (1956)
 
 #### Original name
-Diplotomma porphyricum Arnold
+Lecidea chlorophaea Hepp ex Leight.
 
 ### Remarks
 null

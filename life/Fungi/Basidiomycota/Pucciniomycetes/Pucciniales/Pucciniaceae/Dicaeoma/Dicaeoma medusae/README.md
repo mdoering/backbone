@@ -1,5 +1,4 @@
-Dicaeoma medusae (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma medusae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

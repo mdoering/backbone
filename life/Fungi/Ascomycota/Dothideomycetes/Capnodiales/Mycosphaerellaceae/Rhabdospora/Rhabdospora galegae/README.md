@@ -1,5 +1,4 @@
-Rhabdospora galegae Hollós SPECIES
-=======
+# Rhabdospora galegae Hollós SPECIES
 
 #### Status
 ACCEPTED

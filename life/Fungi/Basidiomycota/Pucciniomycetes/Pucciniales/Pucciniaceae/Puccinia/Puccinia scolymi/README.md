@@ -1,5 +1,4 @@
-Puccinia scolymi P. Syd. & Syd. SPECIES
-=======
+# Puccinia scolymi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

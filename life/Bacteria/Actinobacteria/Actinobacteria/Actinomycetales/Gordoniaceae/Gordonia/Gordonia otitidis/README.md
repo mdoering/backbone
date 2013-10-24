@@ -1,5 +1,4 @@
-Gordonia otitidis Iida et al., 2005 SPECIES
-=======
+# Gordonia otitidis Iida et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

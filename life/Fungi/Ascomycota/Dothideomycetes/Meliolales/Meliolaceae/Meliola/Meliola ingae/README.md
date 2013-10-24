@@ -1,5 +1,4 @@
-Meliola ingae (F. Stevens & Tehon) Cif. SPECIES
-=======
+# Meliola ingae (F. Stevens & Tehon) Cif. SPECIES
 
 #### Status
 ACCEPTED

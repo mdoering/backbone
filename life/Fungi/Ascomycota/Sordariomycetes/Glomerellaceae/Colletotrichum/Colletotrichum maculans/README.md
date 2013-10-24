@@ -1,5 +1,4 @@
-Colletotrichum maculans (Link) B.T. Dicks. SPECIES
-=======
+# Colletotrichum maculans (Link) B.T. Dicks. SPECIES
 
 #### Status
 ACCEPTED

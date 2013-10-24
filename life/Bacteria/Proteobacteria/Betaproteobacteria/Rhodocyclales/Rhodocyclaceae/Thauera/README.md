@@ -1,5 +1,4 @@
-Thauera Macy et al., 1993 GENUS
-=======
+# Thauera Macy et al., 1993 GENUS
 
 #### Status
 ACCEPTED

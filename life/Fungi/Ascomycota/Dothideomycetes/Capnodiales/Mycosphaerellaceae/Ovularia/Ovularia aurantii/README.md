@@ -1,5 +1,4 @@
-Ovularia aurantii McAlpine SPECIES
-=======
+# Ovularia aurantii McAlpine SPECIES
 
 #### Status
 ACCEPTED

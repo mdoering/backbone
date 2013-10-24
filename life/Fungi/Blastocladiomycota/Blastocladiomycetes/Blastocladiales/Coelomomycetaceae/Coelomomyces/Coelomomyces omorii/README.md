@@ -1,5 +1,4 @@
-Coelomomyces omorii Laird, Nolan & Mogi SPECIES
-=======
+# Coelomomyces omorii Laird, Nolan & Mogi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia densissima f. densissima FORM
-=======
+# Cladonia densissima (Ahti) Ahti & DePriest SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 78: 501 (2001)
 
 #### Original name
-Cladonia densissima f. densissima
+Cladina densissima Ahti
 
 ### Remarks
 null

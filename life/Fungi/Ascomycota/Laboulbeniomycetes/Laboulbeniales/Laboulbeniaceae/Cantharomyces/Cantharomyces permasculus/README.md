@@ -1,5 +1,4 @@
-Cantharomyces permasculus Thaxt. SPECIES
-=======
+# Cantharomyces permasculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

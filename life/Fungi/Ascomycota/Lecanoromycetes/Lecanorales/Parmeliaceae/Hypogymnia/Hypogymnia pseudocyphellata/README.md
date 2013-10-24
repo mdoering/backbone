@@ -1,5 +1,4 @@
-Hypogymnia pseudocyphellata McCune & E.P. Martin SPECIES
-=======
+# Hypogymnia pseudocyphellata McCune & E.P. Martin SPECIES
 
 #### Status
 ACCEPTED

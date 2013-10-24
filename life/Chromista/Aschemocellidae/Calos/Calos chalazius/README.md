@@ -1,5 +1,4 @@
-Calos chalazius Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Calos chalazius Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

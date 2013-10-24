@@ -1,5 +1,4 @@
-Cortinarius wirrabara Gasparini SPECIES
-=======
+# Cortinarius wirrabara Gasparini SPECIES
 
 #### Status
 ACCEPTED

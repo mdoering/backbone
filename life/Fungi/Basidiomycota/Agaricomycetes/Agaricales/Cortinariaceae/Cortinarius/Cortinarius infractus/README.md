@@ -1,5 +1,4 @@
-Cortinarius infractus var. infractus VARIETY
-=======
+# Cortinarius infractus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius infractus var. infractus
+Cortinarius infractus Berk.
 
 ### Remarks
 null

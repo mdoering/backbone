@@ -1,5 +1,4 @@
-Lecanora albidopallens Nyl. SPECIES
-=======
+# Lecanora albidopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium ubberimum Allm. SPECIES
-=======
+# Gymnodinium ubberimum Allm. SPECIES
 
 #### Status
 ACCEPTED

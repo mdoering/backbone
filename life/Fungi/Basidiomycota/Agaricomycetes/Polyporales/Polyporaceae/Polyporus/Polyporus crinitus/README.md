@@ -1,5 +1,4 @@
-Polyporus crinitus Spreng. SPECIES
-=======
+# Polyporus crinitus Spreng. SPECIES
 
 #### Status
 ACCEPTED

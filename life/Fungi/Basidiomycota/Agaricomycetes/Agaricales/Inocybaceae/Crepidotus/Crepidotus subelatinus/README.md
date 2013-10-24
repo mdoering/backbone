@@ -1,5 +1,4 @@
-Crepidotus subelatinus (Murrill) Pegler SPECIES
-=======
+# Crepidotus subelatinus (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecotheus phycophilus Pfister SPECIES
-=======
+# Thecotheus phycophilus Pfister SPECIES
 
 #### Status
 ACCEPTED

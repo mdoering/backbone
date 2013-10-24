@@ -1,5 +1,4 @@
-Macalpinomyces ugandensis Vánky, 2003 SPECIES
-=======
+# Macalpinomyces ugandensis Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

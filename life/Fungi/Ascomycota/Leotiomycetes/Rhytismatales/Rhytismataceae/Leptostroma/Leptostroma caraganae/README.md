@@ -1,5 +1,4 @@
-Leptostroma caraganae Oudem. SPECIES
-=======
+# Leptostroma caraganae Oudem. SPECIES
 
 #### Status
 ACCEPTED

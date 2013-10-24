@@ -1,5 +1,4 @@
-Uromyces tripsaci F. Kern & Thurst. SPECIES
-=======
+# Uromyces tripsaci F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

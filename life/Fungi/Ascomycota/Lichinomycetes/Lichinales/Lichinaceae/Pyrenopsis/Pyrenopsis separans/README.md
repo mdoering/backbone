@@ -1,5 +1,4 @@
-Pyrenopsis separans Hulting SPECIES
-=======
+# Pyrenopsis separans Hulting SPECIES
 
 #### Status
 ACCEPTED

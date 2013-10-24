@@ -1,5 +1,4 @@
-Aspicilia vaginans (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia vaginans (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

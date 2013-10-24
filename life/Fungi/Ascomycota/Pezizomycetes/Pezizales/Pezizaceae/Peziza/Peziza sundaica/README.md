@@ -1,5 +1,4 @@
-Peziza sundaica (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Peziza sundaica (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

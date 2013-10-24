@@ -1,5 +1,4 @@
-Patellaria superula (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria superula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

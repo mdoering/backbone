@@ -1,17 +1,16 @@
-Pluriporus F. Stevens & R.W. Ryan GENUS
-=======
+# Dothidella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 65 (1925)
+Anal. Soc. cient. argent. 9: 9 (1880)
 
 #### Original name
-Pluriporus F. Stevens & R.W. Ryan
+Dothidella Speg.
 
 ### Remarks
 null

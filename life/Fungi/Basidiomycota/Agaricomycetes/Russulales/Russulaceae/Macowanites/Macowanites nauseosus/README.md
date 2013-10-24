@@ -1,5 +1,4 @@
-Macowanites nauseosus A.H. Sm. SPECIES
-=======
+# Macowanites nauseosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

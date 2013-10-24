@@ -1,5 +1,4 @@
-Septoria aquilina Pass. SPECIES
-=======
+# Septoria aquilina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea magnifica Motyka SPECIES
-=======
+# Usnea magnifica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria coffeicola Saccas SPECIES
-=======
+# Metasphaeria coffeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

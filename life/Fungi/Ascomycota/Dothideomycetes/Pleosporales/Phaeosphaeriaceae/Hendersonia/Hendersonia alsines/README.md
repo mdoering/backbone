@@ -1,5 +1,4 @@
-Hendersonia alsines Hollós SPECIES
-=======
+# Hendersonia alsines Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria rutila (G. Lister) Nann.-Bremek., 1962 SPECIES
-=======
+# Cribraria rutila (G. Lister) Nann.-Bremek., 1962 SPECIES
 
 #### Status
 ACCEPTED

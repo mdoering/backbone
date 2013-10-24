@@ -1,5 +1,4 @@
-Bjerkandera abietina (Pers.) P. Karst. SPECIES
-=======
+# Bjerkandera abietina (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium sacculum Gelei, 1954 SPECIES
-=======
+# Spathidium sacculum Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

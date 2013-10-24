@@ -1,5 +1,4 @@
-Bitancourtia pritzeliana (Henn.) Arx SPECIES
-=======
+# Bitancourtia pritzeliana (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

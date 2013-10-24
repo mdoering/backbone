@@ -1,5 +1,4 @@
-Oidiopsis tagetidis Hosag., Vijay., Udaiyan & Manian SPECIES
-=======
+# Oidiopsis tagetidis Hosag., Vijay., Udaiyan & Manian SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placus striatus Cohn, 1866 SPECIES
-=======
+# Placus striatus Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

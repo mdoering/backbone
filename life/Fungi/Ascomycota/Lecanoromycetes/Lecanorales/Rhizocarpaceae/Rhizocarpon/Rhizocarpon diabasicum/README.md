@@ -1,5 +1,4 @@
-Rhizocarpon diabasicum f. diabasicum FORM
-=======
+# Rhizocarpon diabasicum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon diabasicum f. diabasicum
+null
 
 ### Remarks
 null

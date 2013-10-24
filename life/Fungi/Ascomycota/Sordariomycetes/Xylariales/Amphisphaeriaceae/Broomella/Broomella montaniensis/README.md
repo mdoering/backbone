@@ -1,14 +1,13 @@
-Ceriospora montaniensis Ellis & Everh., 1891 SPECIES
-=======
+# Broomella montaniensis (Ellis & Everh.) E. Müll. & S. Ahmad, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. 1: 29 (1891)
+Sydowia 9: 233 (1955)
 
 #### Original name
 Ceriospora montaniensis Ellis & Everh., 1891

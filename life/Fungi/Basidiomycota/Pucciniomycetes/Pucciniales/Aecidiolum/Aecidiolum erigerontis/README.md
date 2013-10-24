@@ -1,5 +1,4 @@
-Aecidiolum erigerontis Speg. SPECIES
-=======
+# Aecidiolum erigerontis Speg. SPECIES
 
 #### Status
 ACCEPTED

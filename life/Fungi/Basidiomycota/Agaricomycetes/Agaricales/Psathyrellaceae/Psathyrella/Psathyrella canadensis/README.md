@@ -1,5 +1,4 @@
-Psathyrella canadensis A.H. Sm. SPECIES
-=======
+# Psathyrella canadensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

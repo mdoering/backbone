@@ -1,5 +1,4 @@
-Botryodiplodia hederae Jaap SPECIES
-=======
+# Botryodiplodia hederae Jaap SPECIES
 
 #### Status
 ACCEPTED

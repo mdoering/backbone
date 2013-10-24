@@ -1,14 +1,13 @@
-Cercospora vexans C. Massal., 1907 SPECIES
-=======
+# Passalora vexans (C. Massal.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Annls mycol. 4(6): 494 (1907)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 420 (2003)
 
 #### Original name
 Cercospora vexans C. Massal., 1907

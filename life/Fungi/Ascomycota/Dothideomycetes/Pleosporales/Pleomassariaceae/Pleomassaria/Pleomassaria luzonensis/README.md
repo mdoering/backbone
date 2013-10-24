@@ -1,5 +1,4 @@
-Pleomassaria luzonensis (Henn.) Teng SPECIES
-=======
+# Pleomassaria luzonensis (Henn.) Teng SPECIES
 
 #### Status
 ACCEPTED

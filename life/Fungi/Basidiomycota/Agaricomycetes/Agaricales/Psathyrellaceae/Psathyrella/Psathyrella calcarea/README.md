@@ -1,5 +1,4 @@
-Psathyrella calcarea (Romagn.) M.M. Moser SPECIES
-=======
+# Psathyrella calcarea (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

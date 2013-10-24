@@ -1,8 +1,7 @@
-Mesogloia vermicularis C. Agardh SPECIES
-=======
+# Mesogloia vermiculata (J.E. Smith) S.F. Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

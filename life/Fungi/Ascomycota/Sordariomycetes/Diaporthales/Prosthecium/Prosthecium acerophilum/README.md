@@ -1,5 +1,4 @@
-Prosthecium acerophilum (M.E. Barr) Jakl. & Voglmayr SPECIES
-=======
+# Prosthecium acerophilum (M.E. Barr) Jakl. & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

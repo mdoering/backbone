@@ -1,5 +1,4 @@
-Podospora excentrica N. Lundq., 1972 SPECIES
-=======
+# Podospora excentrica N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

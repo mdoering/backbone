@@ -1,5 +1,4 @@
-Arachnopeziza colachna W.Y. Zhuang & Z.H. Yu SPECIES
-=======
+# Arachnopeziza colachna W.Y. Zhuang & Z.H. Yu SPECIES
 
 #### Status
 ACCEPTED

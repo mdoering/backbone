@@ -1,5 +1,4 @@
-Arthonia terrigena Nyl. SPECIES
-=======
+# Arthonia terrigena Nyl. SPECIES
 
 #### Status
 ACCEPTED

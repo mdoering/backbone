@@ -1,5 +1,4 @@
-Peltigeropsis V. Marcano & A. Morales GENUS
-=======
+# Peltigeropsis V. Marcano & A. Morales GENUS
 
 #### Status
 ACCEPTED

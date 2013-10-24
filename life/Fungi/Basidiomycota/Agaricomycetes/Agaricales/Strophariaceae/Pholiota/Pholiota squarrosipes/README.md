@@ -1,5 +1,4 @@
-Pholiota squarrosipes Cleland SPECIES
-=======
+# Pholiota squarrosipes Cleland SPECIES
 
 #### Status
 ACCEPTED

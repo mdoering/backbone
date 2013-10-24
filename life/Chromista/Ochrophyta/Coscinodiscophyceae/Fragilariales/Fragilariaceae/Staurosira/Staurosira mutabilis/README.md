@@ -1,5 +1,4 @@
-Staurosira mutabilis (W. Smith) Grunow SPECIES
-=======
+# Staurosira mutabilis (W. Smith) Grunow SPECIES
 
 #### Status
 ACCEPTED

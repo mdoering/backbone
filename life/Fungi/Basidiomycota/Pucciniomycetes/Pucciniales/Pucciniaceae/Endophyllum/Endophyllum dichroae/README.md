@@ -1,5 +1,4 @@
-Endophyllum dichroae Racib. SPECIES
-=======
+# Endophyllum dichroae Racib. SPECIES
 
 #### Status
 ACCEPTED

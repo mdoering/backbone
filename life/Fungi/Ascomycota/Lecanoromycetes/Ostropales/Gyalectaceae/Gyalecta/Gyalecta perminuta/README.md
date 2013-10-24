@@ -1,5 +1,4 @@
-Gyalecta perminuta Vain. SPECIES
-=======
+# Gyalecta perminuta Vain. SPECIES
 
 #### Status
 ACCEPTED

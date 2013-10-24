@@ -1,5 +1,4 @@
-Hygrophorus segregatus E. Horak, 1990 SPECIES
-=======
+# Hygrophorus segregatus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lithophila Oxner SPECIES
-=======
+# Lecanora lithophila Oxner SPECIES
 
 #### Status
 ACCEPTED

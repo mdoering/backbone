@@ -1,5 +1,4 @@
-Asteroma rhoinum Durieu & Mont. SPECIES
-=======
+# Asteroma rhoinum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

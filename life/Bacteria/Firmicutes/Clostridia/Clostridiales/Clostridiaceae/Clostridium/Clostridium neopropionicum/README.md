@@ -1,5 +1,4 @@
-Clostridium neopropionicum Tholozan et al., 1995 SPECIES
-=======
+# Clostridium neopropionicum Tholozan et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

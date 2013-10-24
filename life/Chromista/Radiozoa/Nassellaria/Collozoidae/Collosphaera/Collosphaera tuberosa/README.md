@@ -1,5 +1,4 @@
-Collosphaera tuberosa Haeckel, 1887 SPECIES
-=======
+# Collosphaera tuberosa Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

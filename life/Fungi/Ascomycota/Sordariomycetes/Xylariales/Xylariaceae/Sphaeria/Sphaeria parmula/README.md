@@ -1,5 +1,4 @@
-Sphaeria parmula Lév. SPECIES
-=======
+# Sphaeria parmula Lév. SPECIES
 
 #### Status
 ACCEPTED

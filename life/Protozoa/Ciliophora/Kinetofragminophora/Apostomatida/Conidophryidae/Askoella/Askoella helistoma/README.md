@@ -1,5 +1,4 @@
-Askoella helistoma Jankowski, 1967 SPECIES
-=======
+# Askoella helistoma Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

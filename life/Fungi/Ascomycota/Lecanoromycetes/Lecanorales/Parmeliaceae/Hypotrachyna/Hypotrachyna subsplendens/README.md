@@ -1,5 +1,4 @@
-Hypotrachyna subsplendens Kurok. & K.H. Moon SPECIES
-=======
+# Hypotrachyna subsplendens Kurok. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

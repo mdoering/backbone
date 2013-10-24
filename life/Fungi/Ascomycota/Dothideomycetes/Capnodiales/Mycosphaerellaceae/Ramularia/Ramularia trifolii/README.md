@@ -1,5 +1,4 @@
-Ramularia trifolii Jaap SPECIES
-=======
+# Ramularia trifolii Jaap SPECIES
 
 #### Status
 ACCEPTED

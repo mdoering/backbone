@@ -1,5 +1,4 @@
-Buellia petraea f. petraea FORM
-=======
+# Buellia petraea (Wulfen) Branth. & Rostr. SPECIES
 
 #### Status
 ACCEPTED

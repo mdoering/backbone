@@ -1,5 +1,4 @@
-Ratnagiriathyrites hexagonalis R.K. Saxena & N.K. Misra SPECIES
-=======
+# Ratnagiriathyrites hexagonalis R.K. Saxena & N.K. Misra SPECIES
 
 #### Status
 ACCEPTED

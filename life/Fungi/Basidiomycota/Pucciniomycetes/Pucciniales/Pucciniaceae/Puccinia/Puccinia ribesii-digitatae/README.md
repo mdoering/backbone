@@ -1,5 +1,4 @@
-Puccinia ribesii-digitatae Gäum. SPECIES
-=======
+# Puccinia ribesii-digitatae Gäum. SPECIES
 
 #### Status
 ACCEPTED

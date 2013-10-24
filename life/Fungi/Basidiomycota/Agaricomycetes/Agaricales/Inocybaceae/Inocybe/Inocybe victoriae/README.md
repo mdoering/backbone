@@ -1,5 +1,4 @@
-Inocybe victoriae (Cooke & Massee) Sacc. SPECIES
-=======
+# Inocybe victoriae (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filobasidium L.S. Olive, 1968 GENUS
-=======
+# Filobasidium L.S. Olive, 1968 GENUS
 
 #### Status
 ACCEPTED

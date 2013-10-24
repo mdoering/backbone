@@ -1,5 +1,4 @@
-Gymnopilus chrysimyces (Berk.) Manjula SPECIES
-=======
+# Gymnopilus chrysimyces (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

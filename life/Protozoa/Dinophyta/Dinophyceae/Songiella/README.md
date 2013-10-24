@@ -1,5 +1,4 @@
-Songiella Xuekun Sun, 1994 GENUS
-=======
+# Songiella Xuekun Sun, 1994 GENUS
 
 #### Status
 ACCEPTED

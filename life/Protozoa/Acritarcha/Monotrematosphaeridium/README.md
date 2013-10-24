@@ -1,5 +1,4 @@
-Monotrematosphaeridium Sin, 1962 GENUS
-=======
+# Monotrematosphaeridium Sin, 1962 GENUS
 
 #### Status
 ACCEPTED

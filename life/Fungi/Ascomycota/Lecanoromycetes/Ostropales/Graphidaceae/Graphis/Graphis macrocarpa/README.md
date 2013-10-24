@@ -1,5 +1,4 @@
-Graphis macrocarpa (Pers.) Röhl. SPECIES
-=======
+# Graphis macrocarpa (Pers.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

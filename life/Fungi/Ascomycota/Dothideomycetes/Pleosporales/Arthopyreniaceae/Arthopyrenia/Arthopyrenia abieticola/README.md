@@ -1,5 +1,4 @@
-Arthopyrenia abieticola Vain. SPECIES
-=======
+# Arthopyrenia abieticola Vain. SPECIES
 
 #### Status
 ACCEPTED

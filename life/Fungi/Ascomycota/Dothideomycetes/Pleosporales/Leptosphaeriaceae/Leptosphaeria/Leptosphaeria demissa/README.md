@@ -1,5 +1,4 @@
-Leptosphaeria demissa Niessl SPECIES
-=======
+# Leptosphaeria demissa Niessl SPECIES
 
 #### Status
 ACCEPTED

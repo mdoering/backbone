@@ -1,5 +1,4 @@
-Rhizocarpon myrinii Räsänen SPECIES
-=======
+# Rhizocarpon myrinii Räsänen SPECIES
 
 #### Status
 ACCEPTED

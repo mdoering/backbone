@@ -1,5 +1,4 @@
-Dinophysis curvata Schiller, 1933 SPECIES
-=======
+# Dinophysis curvata Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

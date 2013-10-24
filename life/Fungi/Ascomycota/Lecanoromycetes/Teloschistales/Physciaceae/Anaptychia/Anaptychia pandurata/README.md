@@ -1,5 +1,4 @@
-Anaptychia pandurata Kurok. SPECIES
-=======
+# Anaptychia pandurata Kurok. SPECIES
 
 #### Status
 ACCEPTED

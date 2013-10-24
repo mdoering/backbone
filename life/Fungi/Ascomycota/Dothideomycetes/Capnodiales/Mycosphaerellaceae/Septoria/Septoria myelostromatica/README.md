@@ -1,5 +1,4 @@
-Septoria myelostromatica Preuss SPECIES
-=======
+# Septoria myelostromatica Preuss SPECIES
 
 #### Status
 ACCEPTED

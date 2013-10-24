@@ -1,17 +1,16 @@
-Agaricus raphanoides Pers., 1801 SPECIES
-=======
+# Cortinarius betuletorum M.M. Moser ex M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 324 (1801)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 278 (1967)
 
 #### Original name
-Agaricus raphanoides Pers., 1801
+Cortinarius betuletorum M.M. Moser ex M.M. Moser, 1967
 
 ### Remarks
 null

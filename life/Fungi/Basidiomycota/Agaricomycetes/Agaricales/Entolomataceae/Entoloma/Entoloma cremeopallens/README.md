@@ -1,5 +1,4 @@
-Entoloma cremeopallens Corner & E. Horak SPECIES
-=======
+# Entoloma cremeopallens Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

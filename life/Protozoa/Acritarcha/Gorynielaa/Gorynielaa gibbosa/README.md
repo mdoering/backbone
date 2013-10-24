@@ -1,5 +1,4 @@
-Gorynielaa gibbosa Timofeev, 1973 SPECIES
-=======
+# Gorynielaa gibbosa Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

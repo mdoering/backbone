@@ -1,5 +1,4 @@
-Tricharia floridensis Lücking & W.R. Buck SPECIES
-=======
+# Tricharia floridensis Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

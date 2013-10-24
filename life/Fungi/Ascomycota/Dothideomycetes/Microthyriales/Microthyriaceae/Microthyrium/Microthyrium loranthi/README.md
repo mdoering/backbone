@@ -1,5 +1,4 @@
-Microthyrium loranthi (P. Karst. & Har.) Theiss. SPECIES
-=======
+# Microthyrium loranthi (P. Karst. & Har.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

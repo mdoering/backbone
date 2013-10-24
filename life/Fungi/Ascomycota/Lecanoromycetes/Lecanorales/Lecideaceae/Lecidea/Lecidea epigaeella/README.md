@@ -1,5 +1,4 @@
-Lecidea epigaeella Nyl. SPECIES
-=======
+# Lecidea epigaeella Nyl. SPECIES
 
 #### Status
 ACCEPTED

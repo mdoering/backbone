@@ -1,5 +1,4 @@
-Formania Whalen & Carter, 1998 GENUS
-=======
+# Formania Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

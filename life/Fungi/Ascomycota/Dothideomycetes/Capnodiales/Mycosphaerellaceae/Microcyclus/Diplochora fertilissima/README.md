@@ -1,5 +1,4 @@
-Diplochora fertilissima P. Syd. SPECIES
-=======
+# Diplochora fertilissima P. Syd. SPECIES
 
 #### Status
 ACCEPTED

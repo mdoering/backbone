@@ -1,5 +1,4 @@
-Tremella lycoperdoides Humb. SPECIES
-=======
+# Tremella lycoperdoides Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus albogriseus Peck SPECIES
-=======
+# Agaricus albogriseus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entopeltacites irregularis Selkirk SPECIES
-=======
+# Entopeltacites irregularis Selkirk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancistrocoma thorsoni Fenchel, 1965 SPECIES
-=======
+# Ancistrocoma thorsoni Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

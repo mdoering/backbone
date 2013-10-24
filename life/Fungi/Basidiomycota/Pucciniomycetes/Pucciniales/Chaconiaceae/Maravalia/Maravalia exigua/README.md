@@ -1,5 +1,4 @@
-Maravalia exigua Y. Ono, 1984 SPECIES
-=======
+# Maravalia exigua Y. Ono, 1984 SPECIES
 
 #### Status
 ACCEPTED

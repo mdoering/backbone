@@ -1,5 +1,4 @@
-Pestalotia longiaristata Maubl. SPECIES
-=======
+# Pestalotia longiaristata Maubl. SPECIES
 
 #### Status
 ACCEPTED

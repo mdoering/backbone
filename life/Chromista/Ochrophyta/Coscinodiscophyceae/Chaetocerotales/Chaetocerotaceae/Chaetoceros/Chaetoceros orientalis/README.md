@@ -1,5 +1,4 @@
-Chaetoceros orientalis SPECIES
-=======
+# Chaetoceros orientalis SPECIES
 
 #### Status
 ACCEPTED

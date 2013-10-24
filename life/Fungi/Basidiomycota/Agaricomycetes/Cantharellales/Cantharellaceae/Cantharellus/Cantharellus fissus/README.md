@@ -1,5 +1,4 @@
-Cantharellus fissus Wallr. SPECIES
-=======
+# Cantharellus fissus Wallr. SPECIES
 
 #### Status
 ACCEPTED

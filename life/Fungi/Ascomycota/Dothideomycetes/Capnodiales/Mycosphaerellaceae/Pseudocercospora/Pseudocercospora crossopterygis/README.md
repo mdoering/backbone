@@ -1,5 +1,4 @@
-Pseudocercospora crossopterygis Deighton SPECIES
-=======
+# Pseudocercospora crossopterygis Deighton SPECIES
 
 #### Status
 ACCEPTED

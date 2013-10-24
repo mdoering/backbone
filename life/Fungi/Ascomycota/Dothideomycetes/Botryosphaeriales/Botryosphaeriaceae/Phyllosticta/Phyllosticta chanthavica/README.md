@@ -1,5 +1,4 @@
-Phyllosticta chanthavica Byzova SPECIES
-=======
+# Phyllosticta chanthavica Byzova SPECIES
 
 #### Status
 ACCEPTED

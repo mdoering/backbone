@@ -1,5 +1,4 @@
-Splitofolliculina adherens Hadzi, 1951 SPECIES
-=======
+# Splitofolliculina adherens Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

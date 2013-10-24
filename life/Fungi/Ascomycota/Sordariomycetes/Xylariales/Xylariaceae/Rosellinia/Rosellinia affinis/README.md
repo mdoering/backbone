@@ -1,5 +1,4 @@
-Rosellinia affinis Sacc. SPECIES
-=======
+# Rosellinia affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

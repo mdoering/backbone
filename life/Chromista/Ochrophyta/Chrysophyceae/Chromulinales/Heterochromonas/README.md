@@ -1,5 +1,4 @@
-Heterochromonas Pascher, 1912 GENUS
-=======
+# Heterochromonas Pascher, 1912 GENUS
 
 #### Status
 SYNONYM

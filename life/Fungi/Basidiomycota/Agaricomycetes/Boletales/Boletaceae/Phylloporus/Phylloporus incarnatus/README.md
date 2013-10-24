@@ -1,5 +1,4 @@
-Phylloporus incarnatus Corner SPECIES
-=======
+# Phylloporus incarnatus Corner SPECIES
 
 #### Status
 ACCEPTED

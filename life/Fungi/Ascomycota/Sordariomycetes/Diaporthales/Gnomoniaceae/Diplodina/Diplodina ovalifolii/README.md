@@ -1,5 +1,4 @@
-Diplodina ovalifolii Brunaud SPECIES
-=======
+# Diplodina ovalifolii Brunaud SPECIES
 
 #### Status
 ACCEPTED

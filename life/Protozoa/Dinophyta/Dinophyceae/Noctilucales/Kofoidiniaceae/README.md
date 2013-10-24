@@ -1,5 +1,4 @@
-Kofoidiniaceae F. J. R. Taylor, 1976 FAMILY
-=======
+# Kofoidiniaceae F. J. R. Taylor, 1976 FAMILY
 
 #### Status
 ACCEPTED

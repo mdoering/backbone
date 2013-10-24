@@ -1,5 +1,4 @@
-Sarcostroma microsorum (Sacc.) Nag Raj SPECIES
-=======
+# Sarcostroma microsorum (Sacc.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

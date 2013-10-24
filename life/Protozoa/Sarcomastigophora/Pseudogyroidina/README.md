@@ -1,5 +1,4 @@
-Pseudogyroidina Zheng in Zheng, Cheng, Wang & Fu, 1978 GENUS
-=======
+# Pseudogyroidina Zheng in Zheng, Cheng, Wang & Fu, 1978 GENUS
 
 #### Status
 ACCEPTED

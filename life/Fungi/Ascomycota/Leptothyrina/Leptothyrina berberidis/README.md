@@ -1,5 +1,4 @@
-Leptothyrina berberidis (Thüm. & G. Winter) Bubák SPECIES
-=======
+# Leptothyrina berberidis (Thüm. & G. Winter) Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium fuscidulum Sacc. SPECIES
-=======
+# Coniothyrium fuscidulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

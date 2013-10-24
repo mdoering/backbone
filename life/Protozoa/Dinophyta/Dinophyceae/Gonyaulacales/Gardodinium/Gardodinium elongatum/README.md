@@ -1,5 +1,4 @@
-Gardodinium elongatum C. Singh SPECIES
-=======
+# Gardodinium elongatum C. Singh SPECIES
 
 #### Status
 ACCEPTED

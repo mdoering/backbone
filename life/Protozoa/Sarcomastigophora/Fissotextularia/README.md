@@ -1,5 +1,4 @@
-Fissotextularia Mikhalevich, 1981 GENUS
-=======
+# Fissotextularia Mikhalevich, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe barbata Velen. SPECIES
-=======
+# Clitocybe barbata Velen. SPECIES
 
 #### Status
 ACCEPTED

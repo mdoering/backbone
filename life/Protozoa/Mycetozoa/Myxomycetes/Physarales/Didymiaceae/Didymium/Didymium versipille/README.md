@@ -1,5 +1,4 @@
-Didymium versipille Fr. SPECIES
-=======
+# Didymium versipille Fr. SPECIES
 
 #### Status
 ACCEPTED

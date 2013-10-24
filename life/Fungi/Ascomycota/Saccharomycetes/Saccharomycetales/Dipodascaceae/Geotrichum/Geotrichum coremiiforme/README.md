@@ -1,5 +1,4 @@
-Geotrichum coremiiforme (M. Moore) Brumpt SPECIES
-=======
+# Geotrichum coremiiforme (M. Moore) Brumpt SPECIES
 
 #### Status
 ACCEPTED

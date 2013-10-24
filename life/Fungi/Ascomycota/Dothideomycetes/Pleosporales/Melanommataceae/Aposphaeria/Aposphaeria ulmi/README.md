@@ -1,5 +1,4 @@
-Aposphaeria ulmi P. Karst. SPECIES
-=======
+# Aposphaeria ulmi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

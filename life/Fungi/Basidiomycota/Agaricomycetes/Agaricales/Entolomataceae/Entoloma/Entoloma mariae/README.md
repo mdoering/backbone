@@ -1,5 +1,4 @@
-Entoloma mariae G. Stev., 1962 SPECIES
-=======
+# Entoloma mariae G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Angiopsora pallescens (Arthur) Mains SPECIES
-=======
+# Angiopsora pallescens (Arthur) Mains SPECIES
 
 #### Status
 ACCEPTED

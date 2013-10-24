@@ -1,5 +1,4 @@
-Trichocladia robiniae Tschern. SPECIES
-=======
+# Trichocladia robiniae Tschern. SPECIES
 
 #### Status
 ACCEPTED

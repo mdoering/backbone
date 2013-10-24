@@ -1,5 +1,4 @@
-Orbilia alba Dennis SPECIES
-=======
+# Orbilia alba Dennis SPECIES
 
 #### Status
 ACCEPTED

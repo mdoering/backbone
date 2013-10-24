@@ -1,5 +1,4 @@
-Pleospora filicina Feltgen SPECIES
-=======
+# Pleospora filicina Feltgen SPECIES
 
 #### Status
 ACCEPTED

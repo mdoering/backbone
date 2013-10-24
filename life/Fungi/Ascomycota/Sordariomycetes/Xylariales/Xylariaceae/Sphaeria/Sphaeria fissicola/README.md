@@ -1,5 +1,4 @@
-Sphaeria fissicola Cooke & Ellis SPECIES
-=======
+# Sphaeria fissicola Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

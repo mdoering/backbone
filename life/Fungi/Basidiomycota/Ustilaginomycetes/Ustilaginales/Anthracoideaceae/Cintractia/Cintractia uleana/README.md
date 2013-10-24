@@ -1,5 +1,4 @@
-Cintractia uleana Syd. & P. Syd. SPECIES
-=======
+# Cintractia uleana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

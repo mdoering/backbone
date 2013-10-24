@@ -1,5 +1,4 @@
-Cryptomonas ovata var. palustris VARIETY
-=======
+# Cryptomonas ovata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

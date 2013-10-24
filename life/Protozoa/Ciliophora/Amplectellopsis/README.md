@@ -1,5 +1,4 @@
-Amplectellopsis Kofoid & Campbell, 1929 GENUS
-=======
+# Amplectellopsis Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

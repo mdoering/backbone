@@ -1,5 +1,4 @@
-Lambinonia Sérus. & Diederich GENUS
-=======
+# Lambinonia Sérus. & Diederich GENUS
 
 #### Status
 ACCEPTED

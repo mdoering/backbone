@@ -1,5 +1,4 @@
-Oligostroma proteae Syd. & P. Syd. SPECIES
-=======
+# Oligostroma proteae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

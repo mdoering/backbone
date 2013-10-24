@@ -1,5 +1,4 @@
-Stropharia straminis Bouriquet SPECIES
-=======
+# Stropharia straminis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

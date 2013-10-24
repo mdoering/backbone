@@ -1,14 +1,13 @@
-Clitocybe phyllophila var. ornamentalis (Velen.) Raithelh., 1970 VARIETY
-=======
+# Clitocybe ornamentalis Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana 1(1): 12 (1970)
+Ceské Houby 2: 255 (1920)
 
 #### Original name
 Clitocybe ornamentalis Velen., 1920

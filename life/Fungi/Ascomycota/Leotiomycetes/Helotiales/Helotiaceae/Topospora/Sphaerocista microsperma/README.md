@@ -1,5 +1,4 @@
-Sphaerocista microsperma Preuss SPECIES
-=======
+# Sphaerocista microsperma Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus lyonsiae (Cobb) Kuntze SPECIES
-=======
+# Hymenoscyphus lyonsiae (Cobb) Kuntze SPECIES
 
 #### Status
 ACCEPTED

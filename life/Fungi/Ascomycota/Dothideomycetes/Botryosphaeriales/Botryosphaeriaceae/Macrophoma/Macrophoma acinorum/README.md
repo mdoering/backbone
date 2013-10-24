@@ -1,5 +1,4 @@
-Macrophoma acinorum Pass. SPECIES
-=======
+# Macrophoma acinorum Pass. SPECIES
 
 #### Status
 ACCEPTED

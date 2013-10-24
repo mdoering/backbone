@@ -1,5 +1,4 @@
-Thelidium verniceum Graewe SPECIES
-=======
+# Thelidium verniceum Graewe SPECIES
 
 #### Status
 ACCEPTED

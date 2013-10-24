@@ -1,17 +1,16 @@
-Ophiognomonia leptostyla (Fr.) Sogonov, 2008 SPECIES
-=======
+# Gnomonia leptostyla (Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schem. di Classif. Sferiacei 232 (1863)
 
 #### Original name
-null
+Sphaeria leptostyla Fr., 1823
 
 ### Remarks
 null

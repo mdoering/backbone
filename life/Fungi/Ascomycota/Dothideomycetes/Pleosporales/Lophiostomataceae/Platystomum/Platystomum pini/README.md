@@ -1,5 +1,4 @@
-Platystomum pini Gucevic SPECIES
-=======
+# Platystomum pini Gucevic SPECIES
 
 #### Status
 ACCEPTED

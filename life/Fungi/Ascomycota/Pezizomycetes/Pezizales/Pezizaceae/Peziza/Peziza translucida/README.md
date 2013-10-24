@@ -1,5 +1,4 @@
-Peziza translucida Berk. & M.A. Curtis SPECIES
-=======
+# Peziza translucida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo fenestrala Arthur SPECIES
-=======
+# Uredo fenestrala Arthur SPECIES
 
 #### Status
 ACCEPTED

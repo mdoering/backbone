@@ -1,5 +1,4 @@
-Heterodinium laticeps Ldger SPECIES
-=======
+# Heterodinium laticeps Ldger SPECIES
 
 #### Status
 ACCEPTED

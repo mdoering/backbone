@@ -1,5 +1,4 @@
-Cannosphaeropsis utinensis SPECIES
-=======
+# Cannosphaeropsis utinensis SPECIES
 
 #### Status
 ACCEPTED

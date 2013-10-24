@@ -1,5 +1,4 @@
-Stagonopatella aeruginosa Petr., 1927 SPECIES
-=======
+# Stagonopatella aeruginosa Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

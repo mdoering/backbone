@@ -1,14 +1,13 @@
-Lecanora aurantiaca var. rudera Malbr. VARIETY
-=======
+# Caloplaca ruderum (Malbr.) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 8(2): 139 (1976)
 
 #### Original name
 Lecanora aurantiaca var. rudera Malbr.

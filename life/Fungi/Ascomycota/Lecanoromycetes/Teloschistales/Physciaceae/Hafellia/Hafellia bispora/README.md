@@ -1,5 +1,4 @@
-Hafellia bispora Sheard SPECIES
-=======
+# Hafellia bispora Sheard SPECIES
 
 #### Status
 ACCEPTED

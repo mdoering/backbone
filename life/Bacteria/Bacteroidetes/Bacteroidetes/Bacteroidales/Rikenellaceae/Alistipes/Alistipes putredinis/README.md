@@ -1,11 +1,10 @@
-Ristella putredinis (Weinberg et al., 1937) Prévot, 1938 SPECIES
-=======
+# Alistipes putredinis (Weinberg et al., 1937) Rautio et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

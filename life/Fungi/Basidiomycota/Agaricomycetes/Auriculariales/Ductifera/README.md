@@ -1,5 +1,4 @@
-Ductifera Lloyd GENUS
-=======
+# Ductifera Lloyd GENUS
 
 #### Status
 ACCEPTED

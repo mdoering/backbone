@@ -1,17 +1,16 @@
-Stagonospora neglecta var. neglecta VARIETY
-=======
+# Stagonospora neglecta (Westend.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 455 (1884)
 
 #### Original name
-Stagonospora neglecta var. neglecta
+Hendersonia neglecta Westend.
 
 ### Remarks
 null

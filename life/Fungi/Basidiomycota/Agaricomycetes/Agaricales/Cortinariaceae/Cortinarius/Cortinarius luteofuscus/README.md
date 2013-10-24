@@ -1,5 +1,4 @@
-Cortinarius luteofuscus Peck SPECIES
-=======
+# Cortinarius luteofuscus Peck SPECIES
 
 #### Status
 ACCEPTED

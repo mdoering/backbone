@@ -1,5 +1,4 @@
-Sulfolobus Brock, Brock, Belly & Weiss, 1972 GENUS
-=======
+# Sulfolobus Brock, Brock, Belly & Weiss, 1972 GENUS
 
 #### Status
 ACCEPTED

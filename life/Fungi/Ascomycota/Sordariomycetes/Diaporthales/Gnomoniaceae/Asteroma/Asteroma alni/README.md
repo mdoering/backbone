@@ -1,5 +1,4 @@
-Asteroma alni Allesch. SPECIES
-=======
+# Asteroma alni Allesch. SPECIES
 
 #### Status
 ACCEPTED

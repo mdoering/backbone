@@ -1,5 +1,4 @@
-Albugo ipomoeae-pes-caprae Cif. SPECIES
-=======
+# Albugo ipomoeae-pes-caprae Cif. SPECIES
 
 #### Status
 ACCEPTED

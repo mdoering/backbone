@@ -1,5 +1,4 @@
-Simocybe tucumana Singer SPECIES
-=======
+# Simocybe tucumana Singer SPECIES
 
 #### Status
 ACCEPTED

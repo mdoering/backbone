@@ -1,5 +1,4 @@
-Pochonia humicola Bat. & O.M. Fonseca, 1965 SPECIES
-=======
+# Pochonia humicola Bat. & O.M. Fonseca, 1965 SPECIES
 
 #### Status
 ACCEPTED

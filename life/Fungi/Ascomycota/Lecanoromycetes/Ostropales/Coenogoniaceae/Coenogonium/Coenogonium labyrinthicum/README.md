@@ -1,5 +1,4 @@
-Coenogonium labyrinthicum Lücking & Kalb SPECIES
-=======
+# Coenogonium labyrinthicum Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

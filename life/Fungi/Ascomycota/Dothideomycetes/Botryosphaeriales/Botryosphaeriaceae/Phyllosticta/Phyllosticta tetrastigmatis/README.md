@@ -1,17 +1,16 @@
-Phyllosticta tetrastigmae B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta tetrastigmatis B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 159 (1981)
 
 #### Original name
-Phyllosticta tetrastigmae B.R.D. Yadav & V.G. Rao
+Phyllosticta tetrastigmatis B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

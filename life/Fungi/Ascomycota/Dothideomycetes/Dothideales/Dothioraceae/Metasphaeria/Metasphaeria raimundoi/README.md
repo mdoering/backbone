@@ -1,5 +1,4 @@
-Metasphaeria raimundoi Rehm SPECIES
-=======
+# Metasphaeria raimundoi Rehm SPECIES
 
 #### Status
 ACCEPTED

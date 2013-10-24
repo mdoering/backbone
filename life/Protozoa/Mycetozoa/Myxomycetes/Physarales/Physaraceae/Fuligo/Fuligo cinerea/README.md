@@ -1,17 +1,16 @@
-Fuligo cinerea var. cinerea (Schwein.) Morgan VARIETY
-=======
+# Fuligo cinerea (Schwein.) Morgan, 1896 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Cincinnati Soc. Nat. Hist. 19: 33 (1896)
 
 #### Original name
-Fuligo cinerea var. cinerea (Schwein.) Morgan
+Enteridium cinereum Schwein., 1832
 
 ### Remarks
 null

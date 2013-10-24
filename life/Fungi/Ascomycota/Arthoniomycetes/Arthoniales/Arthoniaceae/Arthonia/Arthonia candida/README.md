@@ -1,5 +1,4 @@
-Arthonia candida SPECIES
-=======
+# Arthonia candida SPECIES
 
 #### Status
 ACCEPTED

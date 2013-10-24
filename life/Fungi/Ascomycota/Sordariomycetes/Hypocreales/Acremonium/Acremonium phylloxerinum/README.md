@@ -1,5 +1,4 @@
-Acremonium phylloxerinum Ferraris SPECIES
-=======
+# Acremonium phylloxerinum Ferraris SPECIES
 
 #### Status
 ACCEPTED

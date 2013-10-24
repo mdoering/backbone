@@ -1,5 +1,4 @@
-Phragmothyrium buxifolii Bat. SPECIES
-=======
+# Phragmothyrium buxifolii Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lentapiculata Berndt SPECIES
-=======
+# Puccinia lentapiculata Berndt SPECIES
 
 #### Status
 ACCEPTED

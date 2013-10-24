@@ -1,5 +1,4 @@
-Splanchnonema clandestinum M.E. Barr SPECIES
-=======
+# Splanchnonema clandestinum M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

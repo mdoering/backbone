@@ -1,5 +1,4 @@
-Blepharisma falcatum Gelei, 1954 SPECIES
-=======
+# Blepharisma falcatum Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

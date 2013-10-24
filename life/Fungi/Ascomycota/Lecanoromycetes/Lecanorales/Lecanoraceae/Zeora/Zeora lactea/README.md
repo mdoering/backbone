@@ -1,5 +1,4 @@
-Zeora lactea (L.) Arnold SPECIES
-=======
+# Zeora lactea (L.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora salsolae Griffiths SPECIES
-=======
+# Pyrenophora salsolae Griffiths SPECIES
 
 #### Status
 ACCEPTED

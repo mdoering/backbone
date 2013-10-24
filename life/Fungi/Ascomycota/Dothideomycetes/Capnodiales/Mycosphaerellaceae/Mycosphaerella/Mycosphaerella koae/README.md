@@ -1,5 +1,4 @@
-Mycosphaerella koae Petr. SPECIES
-=======
+# Mycosphaerella koae Petr. SPECIES
 
 #### Status
 ACCEPTED

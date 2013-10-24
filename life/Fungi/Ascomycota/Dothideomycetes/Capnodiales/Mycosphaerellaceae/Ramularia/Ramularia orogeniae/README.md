@@ -1,5 +1,4 @@
-Ramularia orogeniae W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia orogeniae W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

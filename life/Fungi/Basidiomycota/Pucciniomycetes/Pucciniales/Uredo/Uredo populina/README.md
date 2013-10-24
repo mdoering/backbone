@@ -1,5 +1,4 @@
-Uredo populina Pers. SPECIES
-=======
+# Uredo populina Pers. SPECIES
 
 #### Status
 ACCEPTED

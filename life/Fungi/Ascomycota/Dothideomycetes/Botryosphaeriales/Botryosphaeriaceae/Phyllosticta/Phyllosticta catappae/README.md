@@ -1,5 +1,4 @@
-Phyllosticta catappae Syd. SPECIES
-=======
+# Phyllosticta catappae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia pandani Tassi SPECIES
-=======
+# Diplodia pandani Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dehalococcoides GENUS
-=======
+# Dehalococcoides GENUS
 
 #### Status
 ACCEPTED

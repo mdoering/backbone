@@ -1,5 +1,4 @@
-Cyphella bourdotii Pilát SPECIES
-=======
+# Cyphella bourdotii Pilát SPECIES
 
 #### Status
 ACCEPTED

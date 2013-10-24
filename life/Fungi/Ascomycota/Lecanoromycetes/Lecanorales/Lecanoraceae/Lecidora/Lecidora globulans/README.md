@@ -1,5 +1,4 @@
-Lecidora globulans Motyka SPECIES
-=======
+# Lecidora globulans Motyka SPECIES
 
 #### Status
 ACCEPTED

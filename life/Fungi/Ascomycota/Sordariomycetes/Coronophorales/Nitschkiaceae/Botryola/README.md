@@ -1,5 +1,4 @@
-Botryola Bat. & J.L. Bezerra GENUS
-=======
+# Botryola Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

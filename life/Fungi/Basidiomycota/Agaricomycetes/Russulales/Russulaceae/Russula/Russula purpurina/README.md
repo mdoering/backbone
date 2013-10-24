@@ -1,5 +1,4 @@
-Russula purpurina Quél. & Schulzer SPECIES
-=======
+# Russula purpurina Quél. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

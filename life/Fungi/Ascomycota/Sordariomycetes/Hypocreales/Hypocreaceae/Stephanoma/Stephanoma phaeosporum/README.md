@@ -1,17 +1,16 @@
-Stephanoma phaeospora E.E. Butler & McCain SPECIES
-=======
+# Stephanoma phaeosporum E.E. Butler & McCain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 60(4): 956 (1968)
 
 #### Original name
-Stephanoma phaeospora E.E. Butler & McCain
+Stephanoma phaeosporum E.E. Butler & McCain
 
 ### Remarks
 null

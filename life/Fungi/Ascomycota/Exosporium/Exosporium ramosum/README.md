@@ -1,5 +1,4 @@
-Exosporium ramosum M.B. Ellis SPECIES
-=======
+# Exosporium ramosum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

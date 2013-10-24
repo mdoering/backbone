@@ -1,5 +1,4 @@
-Guignardia hibisci-sabdariffae Sawada SPECIES
-=======
+# Guignardia hibisci-sabdariffae Sawada SPECIES
 
 #### Status
 ACCEPTED

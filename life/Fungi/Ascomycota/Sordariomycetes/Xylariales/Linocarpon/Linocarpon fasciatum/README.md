@@ -1,5 +1,4 @@
-Linocarpon fasciatum Dulym., P.F. Cannon & Peerally SPECIES
-=======
+# Linocarpon fasciatum Dulym., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

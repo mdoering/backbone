@@ -1,5 +1,4 @@
-Stereocaulon melanopotamicum I.M. Lamb SPECIES
-=======
+# Stereocaulon melanopotamicum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

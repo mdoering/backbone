@@ -1,5 +1,4 @@
-Baltisphaeridium turbinatum Brideaux, 1971 SPECIES
-=======
+# Baltisphaeridium turbinatum Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

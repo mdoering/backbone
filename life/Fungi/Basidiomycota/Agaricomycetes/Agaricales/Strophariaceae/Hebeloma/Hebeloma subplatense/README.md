@@ -1,5 +1,4 @@
-Hebeloma subplatense J.E. Lange SPECIES
-=======
+# Hebeloma subplatense J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia cubensis (Murrill) Singer SPECIES
-=======
+# Hohenbuehelia cubensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

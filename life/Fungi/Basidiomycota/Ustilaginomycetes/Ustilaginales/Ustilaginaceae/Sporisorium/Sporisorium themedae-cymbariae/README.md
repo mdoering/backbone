@@ -1,5 +1,4 @@
-Sporisorium themedae-cymbariae Vánky SPECIES
-=======
+# Sporisorium themedae-cymbariae Vánky SPECIES
 
 #### Status
 ACCEPTED

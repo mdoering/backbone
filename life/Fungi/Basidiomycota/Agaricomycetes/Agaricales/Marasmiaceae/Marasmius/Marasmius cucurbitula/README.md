@@ -1,5 +1,4 @@
-Marasmius cucurbitula Mont. SPECIES
-=======
+# Marasmius cucurbitula Mont. SPECIES
 
 #### Status
 ACCEPTED

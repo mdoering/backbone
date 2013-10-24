@@ -1,5 +1,4 @@
-Ampelomyces ulicis (J.F. Adams) Rudakov SPECIES
-=======
+# Ampelomyces ulicis (J.F. Adams) Rudakov SPECIES
 
 #### Status
 ACCEPTED

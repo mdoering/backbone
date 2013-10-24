@@ -1,5 +1,4 @@
-Aithaloderma setosum (Zimm.) Boedijn SPECIES
-=======
+# Aithaloderma setosum (Zimm.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

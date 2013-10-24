@@ -1,5 +1,4 @@
-Ceriporiopsis cystidiata Log.-Leite, G.V.C. Gonç. & Ryvarden SPECIES
-=======
+# Ceriporiopsis cystidiata Log.-Leite, G.V.C. Gonç. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

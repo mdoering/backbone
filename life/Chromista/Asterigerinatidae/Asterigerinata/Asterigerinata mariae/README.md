@@ -1,5 +1,4 @@
-Asterigerinata mariae Sgarrella in Amore, Barra, Ciampo, Taddei Ruggiero, Russo & Sgarrella, 1990 SPECIES
-=======
+# Asterigerinata mariae Sgarrella in Amore, Barra, Ciampo, Taddei Ruggiero, Russo & Sgarrella, 1990 SPECIES
 
 #### Status
 ACCEPTED

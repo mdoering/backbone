@@ -1,5 +1,4 @@
-Arthrobacter GENUS
-=======
+# Arthrobacter GENUS
 
 #### Status
 ACCEPTED

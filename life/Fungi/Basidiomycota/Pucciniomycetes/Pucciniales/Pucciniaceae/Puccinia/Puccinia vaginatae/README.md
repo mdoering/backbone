@@ -1,5 +1,4 @@
-Puccinia vaginatae Juel SPECIES
-=======
+# Puccinia vaginatae Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zamenhofia GENUS
-=======
+# Zamenhofia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius chailluzii Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius chailluzii Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraphysomonas planus D. E. Wujek & L. C. Saha SPECIES
-=======
+# Paraphysomonas planus D. E. Wujek & L. C. Saha SPECIES
 
 #### Status
 ACCEPTED

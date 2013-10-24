@@ -1,5 +1,4 @@
-Collema punctatum Vain. SPECIES
-=======
+# Collema punctatum Vain. SPECIES
 
 #### Status
 ACCEPTED

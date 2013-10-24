@@ -1,5 +1,4 @@
-Septoria phlyctaeniformis Bubák & Kabát SPECIES
-=======
+# Septoria phlyctaeniformis Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

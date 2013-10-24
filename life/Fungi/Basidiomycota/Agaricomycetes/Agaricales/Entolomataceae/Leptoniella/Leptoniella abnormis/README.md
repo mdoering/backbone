@@ -1,5 +1,4 @@
-Leptoniella abnormis (Peck) Murrill SPECIES
-=======
+# Leptoniella abnormis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria quarnerica Zahlbr. SPECIES
-=======
+# Verrucaria quarnerica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

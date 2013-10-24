@@ -1,5 +1,4 @@
-Cryptandromyces Thaxt. GENUS
-=======
+# Cryptandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

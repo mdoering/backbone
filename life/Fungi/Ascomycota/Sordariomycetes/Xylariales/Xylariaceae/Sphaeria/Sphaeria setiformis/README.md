@@ -1,5 +1,4 @@
-Sphaeria setiformis Pers. SPECIES
-=======
+# Sphaeria setiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

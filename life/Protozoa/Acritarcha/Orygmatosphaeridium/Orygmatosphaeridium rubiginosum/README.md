@@ -1,5 +1,4 @@
-Orygmatosphaeridium rubiginosum Andreeva, 1966 SPECIES
-=======
+# Orygmatosphaeridium rubiginosum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

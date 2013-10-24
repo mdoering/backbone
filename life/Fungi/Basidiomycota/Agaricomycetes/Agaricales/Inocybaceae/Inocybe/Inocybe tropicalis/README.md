@@ -1,5 +1,4 @@
-Inocybe tropicalis Guzmán SPECIES
-=======
+# Inocybe tropicalis Guzmán SPECIES
 
 #### Status
 ACCEPTED

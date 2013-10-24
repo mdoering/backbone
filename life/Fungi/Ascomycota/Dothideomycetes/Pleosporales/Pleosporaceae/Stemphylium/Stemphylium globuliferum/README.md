@@ -1,14 +1,13 @@
-Macrosporium globuliferum Vestergr., 1896 SPECIES
-=======
+# Stemphylium globuliferum (Vestergr.) E.G. Simmons, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 61(1): 14 (1969)
 
 #### Original name
 Macrosporium globuliferum Vestergr., 1896

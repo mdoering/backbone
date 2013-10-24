@@ -1,5 +1,4 @@
-Caloplaca mydalaea (Körb.) Zahlbr. SPECIES
-=======
+# Caloplaca mydalaea (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria nana SPECIES
-=======
+# Lacrymaria nana SPECIES
 
 #### Status
 ACCEPTED

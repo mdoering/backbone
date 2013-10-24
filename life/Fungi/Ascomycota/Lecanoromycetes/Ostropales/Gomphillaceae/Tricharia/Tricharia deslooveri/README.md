@@ -1,5 +1,4 @@
-Tricharia deslooveri Sérus. SPECIES
-=======
+# Tricharia deslooveri Sérus. SPECIES
 
 #### Status
 ACCEPTED

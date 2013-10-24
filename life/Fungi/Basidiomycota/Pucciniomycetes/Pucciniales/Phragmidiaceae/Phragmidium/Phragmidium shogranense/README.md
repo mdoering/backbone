@@ -1,5 +1,4 @@
-Phragmidium shogranense Petr., 1954 SPECIES
-=======
+# Phragmidium shogranense Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

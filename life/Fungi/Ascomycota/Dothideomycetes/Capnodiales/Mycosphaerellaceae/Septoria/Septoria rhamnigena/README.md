@@ -1,5 +1,4 @@
-Septoria rhamnigena Sacc. SPECIES
-=======
+# Septoria rhamnigena Sacc. SPECIES
 
 #### Status
 ACCEPTED

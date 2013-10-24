@@ -1,5 +1,4 @@
-Phialinides Foissner, 1988 GENUS
-=======
+# Phialinides Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

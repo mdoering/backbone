@@ -1,5 +1,4 @@
-Phyllosticta himantoglossi Petr. SPECIES
-=======
+# Phyllosticta himantoglossi Petr. SPECIES
 
 #### Status
 ACCEPTED

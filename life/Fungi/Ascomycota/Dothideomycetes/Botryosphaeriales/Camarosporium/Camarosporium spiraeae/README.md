@@ -1,5 +1,4 @@
-Camarosporium spiraeae Cooke SPECIES
-=======
+# Camarosporium spiraeae Cooke SPECIES
 
 #### Status
 ACCEPTED

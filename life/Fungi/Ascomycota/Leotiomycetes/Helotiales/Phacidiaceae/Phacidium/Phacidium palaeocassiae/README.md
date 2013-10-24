@@ -1,5 +1,4 @@
-Phacidium palaeocassiae Ettingsh. SPECIES
-=======
+# Phacidium palaeocassiae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

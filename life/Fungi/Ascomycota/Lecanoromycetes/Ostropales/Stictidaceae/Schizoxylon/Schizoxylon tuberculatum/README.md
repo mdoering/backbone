@@ -1,5 +1,4 @@
-Schizoxylon tuberculatum Schwein. SPECIES
-=======
+# Schizoxylon tuberculatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

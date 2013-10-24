@@ -1,5 +1,4 @@
-Bolivina paula SPECIES
-=======
+# Bolivina paula SPECIES
 
 #### Status
 ACCEPTED

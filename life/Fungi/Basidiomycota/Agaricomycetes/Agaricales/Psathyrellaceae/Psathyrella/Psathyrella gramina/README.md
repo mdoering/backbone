@@ -1,5 +1,4 @@
-Psathyrella gramina Kalamees SPECIES
-=======
+# Psathyrella gramina Kalamees SPECIES
 
 #### Status
 ACCEPTED

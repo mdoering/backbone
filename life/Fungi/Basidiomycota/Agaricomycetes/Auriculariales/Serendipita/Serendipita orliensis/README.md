@@ -1,5 +1,4 @@
-Serendipita orliensis P. Roberts, 1993 SPECIES
-=======
+# Serendipita orliensis P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma argentinum Speg. SPECIES
-=======
+# Tricholoma argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnocladium moniliforme Henn., 1904 SPECIES
-=======
+# Pterula moniliformis (Henn.) Corner, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: (1904)
+Ann. Bot. , Lond. , n. s. 16: 569 (1952)
 
 #### Original name
 Lachnocladium moniliforme Henn., 1904

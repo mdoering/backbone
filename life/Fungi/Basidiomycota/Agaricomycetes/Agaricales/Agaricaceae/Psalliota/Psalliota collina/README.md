@@ -1,5 +1,4 @@
-Psalliota collina Velen. SPECIES
-=======
+# Psalliota collina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps henleyae Massee SPECIES
-=======
+# Cordyceps henleyae Massee SPECIES
 
 #### Status
 ACCEPTED

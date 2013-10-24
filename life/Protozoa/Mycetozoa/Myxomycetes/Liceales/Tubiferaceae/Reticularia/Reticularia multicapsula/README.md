@@ -1,5 +1,4 @@
-Reticularia multicapsula Sowerby SPECIES
-=======
+# Reticularia multicapsula Sowerby SPECIES
 
 #### Status
 ACCEPTED

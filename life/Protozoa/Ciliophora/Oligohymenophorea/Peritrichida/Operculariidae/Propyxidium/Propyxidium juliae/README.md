@@ -1,5 +1,4 @@
-Propyxidium juliae SPECIES
-=======
+# Propyxidium juliae SPECIES
 
 #### Status
 ACCEPTED

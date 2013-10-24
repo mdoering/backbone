@@ -1,5 +1,4 @@
-Claudopus repens Petch SPECIES
-=======
+# Claudopus repens Petch SPECIES
 
 #### Status
 ACCEPTED

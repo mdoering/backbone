@@ -1,5 +1,4 @@
-Pseudocercospora curculiginis Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora curculiginis Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

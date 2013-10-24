@@ -1,5 +1,4 @@
-Gerronema infumatum (Berk. & Broome) Singer SPECIES
-=======
+# Gerronema infumatum (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

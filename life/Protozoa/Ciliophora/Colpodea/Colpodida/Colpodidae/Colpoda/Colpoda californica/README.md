@@ -1,5 +1,4 @@
-Colpoda californica Kahl, 1931 SPECIES
-=======
+# Colpoda californica Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

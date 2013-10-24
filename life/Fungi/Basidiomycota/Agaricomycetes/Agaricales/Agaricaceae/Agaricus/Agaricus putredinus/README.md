@@ -1,5 +1,4 @@
-Agaricus putredinus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus putredinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

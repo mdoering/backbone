@@ -1,14 +1,13 @@
-Boletus conchifer Schwein., 1822 SPECIES
-=======
+# Poronidulus conchifer (Schwein.) Murrill, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 98 (1822)
+Bull. Torrey bot. Club 31(8): 426 (1904)
 
 #### Original name
 Boletus conchifer Schwein., 1822

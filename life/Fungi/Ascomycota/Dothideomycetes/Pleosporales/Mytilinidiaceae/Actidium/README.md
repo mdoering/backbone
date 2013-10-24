@@ -1,17 +1,16 @@
-Bulliardella (Sacc.) Paoli GENUS
-=======
+# Actidium E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. , N. S. 12(1): 101 (1905)
+Observ. mycol. (Havniae) 1: 190 (1815)
 
 #### Original name
-null
+Actidium E.M. Fries, 1815
 
 ### Remarks
 null

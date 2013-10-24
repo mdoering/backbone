@@ -1,5 +1,4 @@
-Heterodermia peruviana (Kashiw. & Kurok.) Kurok. SPECIES
-=======
+# Heterodermia peruviana (Kashiw. & Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

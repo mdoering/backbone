@@ -1,5 +1,4 @@
-Lopadostoma caespitosum (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Lopadostoma caespitosum (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

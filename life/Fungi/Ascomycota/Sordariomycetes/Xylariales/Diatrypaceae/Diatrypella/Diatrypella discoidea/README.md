@@ -1,17 +1,16 @@
-Diatrypella discoidea var. discoidea VARIETY
-=======
+# Diatrypella discoidea Cooke & Peck, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Diatrypella discoidea var. discoidea
+Diatrypella discoidea Cooke & Peck, 1882
 
 ### Remarks
 null

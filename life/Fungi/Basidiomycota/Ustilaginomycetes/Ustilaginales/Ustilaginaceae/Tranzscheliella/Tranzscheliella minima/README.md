@@ -1,14 +1,13 @@
-Ustilago minima Arthur, 1884 SPECIES
-=======
+# Tranzscheliella minima (Arthur) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 3 (2003)
 
 #### Original name
 Ustilago minima Arthur, 1884

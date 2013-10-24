@@ -1,5 +1,4 @@
-Capnodiastrum orbiculatum Cooke & Massee SPECIES
-=======
+# Capnodiastrum orbiculatum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium jilinense Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium jilinense Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

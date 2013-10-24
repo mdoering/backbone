@@ -1,17 +1,16 @@
-Gloniopsis decipiens var. decipiens VARIETY
-=======
+# Gloniopsis praelonga (Schwein.) Underw. & Earle, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-G. bot. ital. 2(2): 12, 23 (1847)
+Bulletin of the Alabama Agricultural Experiment Station 80: 196 (1897)
 
 #### Original name
-Gloniopsis decipiens var. decipiens
+Hysterium praelongum Schwein., 1832
 
 ### Remarks
 null

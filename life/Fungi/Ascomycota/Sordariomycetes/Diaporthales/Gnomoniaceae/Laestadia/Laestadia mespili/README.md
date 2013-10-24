@@ -1,5 +1,4 @@
-Laestadia mespili Fautrey SPECIES
-=======
+# Laestadia mespili Fautrey SPECIES
 
 #### Status
 ACCEPTED

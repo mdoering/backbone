@@ -1,5 +1,4 @@
-Palaeomyces gracilis Renault SPECIES
-=======
+# Palaeomyces gracilis Renault SPECIES
 
 #### Status
 ACCEPTED

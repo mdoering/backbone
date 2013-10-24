@@ -1,17 +1,16 @@
-Buglossus quercinis Wahlenb. SPECIES
-=======
+# Buglossus quercinus Wahlenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Suecica 2: (1826)
 
 #### Original name
-Buglossus quercinis Wahlenb.
+Buglossus quercinus Wahlenb.
 
 ### Remarks
 null

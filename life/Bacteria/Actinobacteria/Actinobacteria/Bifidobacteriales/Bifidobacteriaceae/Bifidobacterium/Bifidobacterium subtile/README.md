@@ -1,5 +1,4 @@
-Bifidobacterium subtile Biavati et al., 1982 SPECIES
-=======
+# Bifidobacterium subtile Biavati et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

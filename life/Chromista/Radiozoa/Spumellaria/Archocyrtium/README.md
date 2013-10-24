@@ -1,5 +1,4 @@
-Archocyrtium GENUS
-=======
+# Archocyrtium GENUS
 
 #### Status
 ACCEPTED

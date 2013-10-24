@@ -1,5 +1,4 @@
-Pseudocercospora simaroubae U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora simaroubae U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

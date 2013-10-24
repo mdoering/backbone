@@ -1,5 +1,4 @@
-Eruptio gaubae (Arx & Constant.) Crous, 1999 SPECIES
-=======
+# Eruptio gaubae (Arx & Constant.) Crous, 1999 SPECIES
 
 #### Status
 ACCEPTED

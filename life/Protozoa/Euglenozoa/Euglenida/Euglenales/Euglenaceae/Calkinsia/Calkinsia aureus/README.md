@@ -1,5 +1,4 @@
-Calkinsia aureus J. Lackey SPECIES
-=======
+# Calkinsia aureus J. Lackey SPECIES
 
 #### Status
 ACCEPTED

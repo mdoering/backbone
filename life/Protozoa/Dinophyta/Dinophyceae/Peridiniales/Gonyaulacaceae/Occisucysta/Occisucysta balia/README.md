@@ -1,5 +1,4 @@
-Occisucysta balia Gitmez, 1970 SPECIES
-=======
+# Occisucysta balia Gitmez, 1970 SPECIES
 
 #### Status
 ACCEPTED

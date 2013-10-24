@@ -1,5 +1,4 @@
-Tenua hystrix A. Eisenack SPECIES
-=======
+# Tenua hystrix A. Eisenack SPECIES
 
 #### Status
 ACCEPTED

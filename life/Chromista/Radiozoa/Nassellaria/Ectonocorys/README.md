@@ -1,5 +1,4 @@
-Ectonocorys Foreman, 1968 GENUS
-=======
+# Ectonocorys Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

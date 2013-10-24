@@ -1,5 +1,4 @@
-Baileyi GENUS
-=======
+# Baileyi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma arnicae Syd. SPECIES
-=======
+# Entyloma arnicae Syd. SPECIES
 
 #### Status
 ACCEPTED

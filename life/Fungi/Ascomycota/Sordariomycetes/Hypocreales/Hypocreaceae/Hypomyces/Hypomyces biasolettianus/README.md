@@ -1,5 +1,4 @@
-Hypomyces biasolettianus (Briosi & Farneti) Sacc. SPECIES
-=======
+# Hypomyces biasolettianus (Briosi & Farneti) Sacc. SPECIES
 
 #### Status
 ACCEPTED

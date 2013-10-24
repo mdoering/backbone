@@ -1,5 +1,4 @@
-Palaeophalacroma connectens (Nie, 1945) Loeblich Iii, 1980 SPECIES
-=======
+# Palaeophalacroma connectens (Nie, 1945) Loeblich Iii, 1980 SPECIES
 
 #### Status
 ACCEPTED

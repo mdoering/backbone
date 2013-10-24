@@ -1,14 +1,13 @@
-Oospora cuboidea Sacc. & Ellis SPECIES
-=======
+# Arthrographis cuboidea (Sacc. & Ellis) Sigler, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Michelia 2(no. 8): 576 (1882)
+in Sigler & Carmichael, Mycotaxon 4(2): 363 (1976)
 
 #### Original name
 Oospora cuboidea Sacc. & Ellis

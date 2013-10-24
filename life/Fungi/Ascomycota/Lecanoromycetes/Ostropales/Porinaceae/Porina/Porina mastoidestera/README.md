@@ -1,5 +1,4 @@
-Porina mastoidestera (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina mastoidestera (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

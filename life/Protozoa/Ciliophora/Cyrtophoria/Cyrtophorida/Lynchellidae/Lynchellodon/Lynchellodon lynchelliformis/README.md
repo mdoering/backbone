@@ -1,8 +1,7 @@
-Chlamydodon lynchelliformis Borror, 1972 SPECIES
-=======
+# Lynchellodon lynchelliformis (Borror, 1972) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

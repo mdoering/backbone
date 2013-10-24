@@ -1,14 +1,13 @@
-Hymenogaster ruber Harkn., 1899 SPECIES
-=======
+# Destuntzia rubra (Harkn.) Fogel & Trappe, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 246 (1899)
+Mycologia 77(5): 735 (1985)
 
 #### Original name
 Hymenogaster ruber Harkn., 1899

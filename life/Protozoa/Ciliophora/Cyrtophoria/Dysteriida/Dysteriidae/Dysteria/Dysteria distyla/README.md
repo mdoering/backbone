@@ -1,8 +1,7 @@
-Aegyria distyla Maskell, 1887 SPECIES
-=======
+# Dysteria distyla Maskell, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

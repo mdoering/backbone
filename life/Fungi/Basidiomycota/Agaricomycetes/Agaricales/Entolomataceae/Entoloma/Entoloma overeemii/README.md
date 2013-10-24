@@ -1,5 +1,4 @@
-Entoloma overeemii E. Horak SPECIES
-=======
+# Entoloma overeemii E. Horak SPECIES
 
 #### Status
 ACCEPTED

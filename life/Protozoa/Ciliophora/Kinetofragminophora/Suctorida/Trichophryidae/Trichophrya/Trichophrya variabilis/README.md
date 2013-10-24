@@ -1,5 +1,4 @@
-Trichophrya variabilis SPECIES
-=======
+# Trichophrya variabilis SPECIES
 
 #### Status
 ACCEPTED

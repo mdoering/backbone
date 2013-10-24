@@ -1,5 +1,4 @@
-Inocybe deflectens (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe deflectens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

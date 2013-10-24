@@ -1,5 +1,4 @@
-Helicomyces colligatus R.T. Moore, 1954 SPECIES
-=======
+# Helicomyces colligatus R.T. Moore, 1954 SPECIES
 
 #### Status
 ACCEPTED

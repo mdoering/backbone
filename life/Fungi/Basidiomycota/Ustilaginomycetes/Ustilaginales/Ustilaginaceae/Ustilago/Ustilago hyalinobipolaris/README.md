@@ -1,5 +1,4 @@
-Ustilago hyalinobipolaris G.W. Fisch. & Hirschh. SPECIES
-=======
+# Ustilago hyalinobipolaris G.W. Fisch. & Hirschh. SPECIES
 
 #### Status
 ACCEPTED

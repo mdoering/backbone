@@ -1,5 +1,4 @@
-Leptogium standleyi C.W. Dodge SPECIES
-=======
+# Leptogium standleyi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

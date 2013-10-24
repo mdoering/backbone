@@ -1,5 +1,4 @@
-Mollisia fuscorubra (Rehm) Sacc. SPECIES
-=======
+# Mollisia fuscorubra (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

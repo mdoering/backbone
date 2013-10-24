@@ -1,5 +1,4 @@
-Septoria nupharis Ranoj. SPECIES
-=======
+# Septoria nupharis Ranoj. SPECIES
 
 #### Status
 ACCEPTED

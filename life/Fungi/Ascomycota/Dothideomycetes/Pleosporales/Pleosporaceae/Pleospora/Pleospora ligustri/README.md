@@ -1,5 +1,4 @@
-Pleospora ligustri Politis SPECIES
-=======
+# Pleospora ligustri Politis SPECIES
 
 #### Status
 ACCEPTED

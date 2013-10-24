@@ -1,5 +1,4 @@
-Aspergillus vancampenhoutii (Mattlet) Basgal SPECIES
-=======
+# Aspergillus vancampenhoutii (Mattlet) Basgal SPECIES
 
 #### Status
 ACCEPTED

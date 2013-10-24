@@ -1,5 +1,4 @@
-Leptothyrium perpusillum Pass. & Thüm. SPECIES
-=======
+# Leptothyrium perpusillum Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

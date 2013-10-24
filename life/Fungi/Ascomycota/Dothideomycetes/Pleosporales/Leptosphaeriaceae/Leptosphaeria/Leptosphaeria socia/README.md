@@ -1,5 +1,4 @@
-Leptosphaeria socia Sacc. SPECIES
-=======
+# Leptosphaeria socia Sacc. SPECIES
 
 #### Status
 ACCEPTED

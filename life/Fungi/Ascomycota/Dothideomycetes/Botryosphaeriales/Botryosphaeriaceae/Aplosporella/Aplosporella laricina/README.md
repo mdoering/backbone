@@ -1,5 +1,4 @@
-Aplosporella laricina Syd. SPECIES
-=======
+# Aplosporella laricina Syd. SPECIES
 
 #### Status
 ACCEPTED

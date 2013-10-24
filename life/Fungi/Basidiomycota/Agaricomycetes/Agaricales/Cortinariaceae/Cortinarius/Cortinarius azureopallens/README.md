@@ -1,5 +1,4 @@
-Cortinarius azureopallens Rob. Henry SPECIES
-=======
+# Cortinarius azureopallens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirosporium corni (Davis) U. Braun & Crous SPECIES
-=======
+# Sirosporium corni (Davis) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

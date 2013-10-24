@@ -1,5 +1,4 @@
-Lactobacillus hilgardii Douglas and Cruess, 1936 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus hilgardii Douglas and Cruess, 1936 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

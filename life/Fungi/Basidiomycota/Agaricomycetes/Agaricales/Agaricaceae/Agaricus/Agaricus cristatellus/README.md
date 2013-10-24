@@ -1,5 +1,4 @@
-Agaricus cristatellus Peck SPECIES
-=======
+# Agaricus cristatellus Peck SPECIES
 
 #### Status
 ACCEPTED

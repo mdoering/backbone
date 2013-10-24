@@ -1,5 +1,4 @@
-Caloplaca peltata Räsänen SPECIES
-=======
+# Caloplaca peltata Räsänen SPECIES
 
 #### Status
 ACCEPTED

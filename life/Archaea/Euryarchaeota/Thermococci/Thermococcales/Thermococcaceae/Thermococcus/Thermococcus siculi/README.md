@@ -1,5 +1,4 @@
-Thermococcus siculi Grote et al., 2000 SPECIES
-=======
+# Thermococcus siculi Grote et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

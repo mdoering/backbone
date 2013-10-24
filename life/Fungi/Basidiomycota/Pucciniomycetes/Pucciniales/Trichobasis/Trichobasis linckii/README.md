@@ -1,5 +1,4 @@
-Trichobasis linckii Berk. & Broome SPECIES
-=======
+# Trichobasis linckii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

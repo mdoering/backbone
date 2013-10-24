@@ -1,5 +1,4 @@
-Kazachstania spencerorum (Vaughan-Mart.) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania spencerorum (Vaughan-Mart.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

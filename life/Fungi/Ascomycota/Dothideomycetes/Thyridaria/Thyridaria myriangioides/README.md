@@ -1,5 +1,4 @@
-Thyridaria myriangioides (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Thyridaria myriangioides (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

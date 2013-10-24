@@ -1,5 +1,4 @@
-Lecidea virescens Müll. Arg. SPECIES
-=======
+# Lecidea virescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

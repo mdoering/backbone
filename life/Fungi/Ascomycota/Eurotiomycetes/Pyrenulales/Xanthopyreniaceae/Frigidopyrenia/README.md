@@ -1,5 +1,4 @@
-Frigidopyrenia Grube GENUS
-=======
+# Frigidopyrenia Grube GENUS
 
 #### Status
 ACCEPTED

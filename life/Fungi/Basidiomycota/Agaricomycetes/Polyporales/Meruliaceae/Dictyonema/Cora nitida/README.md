@@ -1,5 +1,4 @@
-Cora nitida Müll. Arg. SPECIES
-=======
+# Cora nitida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

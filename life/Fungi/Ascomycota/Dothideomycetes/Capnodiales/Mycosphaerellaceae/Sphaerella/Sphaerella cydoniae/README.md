@@ -1,5 +1,4 @@
-Sphaerella cydoniae Voglino SPECIES
-=======
+# Sphaerella cydoniae Voglino SPECIES
 
 #### Status
 ACCEPTED

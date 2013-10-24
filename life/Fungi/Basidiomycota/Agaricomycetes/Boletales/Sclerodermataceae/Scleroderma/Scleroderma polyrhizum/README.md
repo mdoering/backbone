@@ -1,17 +1,16 @@
-Scleroderma geaster var. geaster VARIETY
-=======
+# Scleroderma polyrhizum (J.F. Gmel.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 46 (1829)
+Syn. meth. fung. (Göttingen) 1: 156 (1801)
 
 #### Original name
-Scleroderma geaster var. geaster
+Lycoperdon polyrhizon J.F. Gmel.
 
 ### Remarks
 null

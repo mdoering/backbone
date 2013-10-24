@@ -1,5 +1,4 @@
-Coprinus bambusicola M. Zang SPECIES
-=======
+# Coprinus bambusicola M. Zang SPECIES
 
 #### Status
 ACCEPTED

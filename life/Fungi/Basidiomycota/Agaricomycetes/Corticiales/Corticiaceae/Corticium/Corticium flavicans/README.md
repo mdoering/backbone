@@ -1,5 +1,4 @@
-Corticium flavicans Bres. SPECIES
-=======
+# Corticium flavicans Bres. SPECIES
 
 #### Status
 ACCEPTED

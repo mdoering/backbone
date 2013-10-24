@@ -1,5 +1,4 @@
-Mollisia lanaria Fairm. SPECIES
-=======
+# Mollisia lanaria Fairm. SPECIES
 
 #### Status
 ACCEPTED

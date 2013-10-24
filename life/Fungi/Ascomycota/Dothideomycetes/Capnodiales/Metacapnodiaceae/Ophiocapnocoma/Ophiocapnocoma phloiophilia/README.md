@@ -1,14 +1,13 @@
-Limacinia phloiophilia E.E. Fisher, 1942 SPECIES
-=======
+# Ophiocapnocoma phloiophilia (E.E. Fisher) S. Hughes, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Roy. Soc. Victoria 54: 1 (1942)
+N. Z. Jl Bot. 5: 120 (1967)
 
 #### Original name
 Limacinia phloiophilia E.E. Fisher, 1942

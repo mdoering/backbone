@@ -1,5 +1,4 @@
-Peziza crocina Mont. & Fr. SPECIES
-=======
+# Peziza crocina Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

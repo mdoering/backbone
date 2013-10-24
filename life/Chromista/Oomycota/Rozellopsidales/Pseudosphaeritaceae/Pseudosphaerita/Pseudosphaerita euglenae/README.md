@@ -1,5 +1,4 @@
-Pseudosphaerita euglenae P.A. Dang., 1895 SPECIES
-=======
+# Pseudosphaerita euglenae P.A. Dang., 1895 SPECIES
 
 #### Status
 ACCEPTED

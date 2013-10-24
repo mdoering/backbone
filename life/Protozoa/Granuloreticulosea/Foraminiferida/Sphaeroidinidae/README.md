@@ -1,5 +1,4 @@
-Sphaeroidinidae Cushman, 1927 FAMILY
-=======
+# Sphaeroidinidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

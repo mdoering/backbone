@@ -1,5 +1,4 @@
-Badhamia gigantospora Ukkola & Härk., 1996 SPECIES
-=======
+# Badhamia gigantospora Ukkola & Härk., 1996 SPECIES
 
 #### Status
 ACCEPTED

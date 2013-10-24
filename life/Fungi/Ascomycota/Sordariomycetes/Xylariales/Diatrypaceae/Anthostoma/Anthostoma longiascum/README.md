@@ -1,5 +1,4 @@
-Anthostoma longiascum Berl. SPECIES
-=======
+# Anthostoma longiascum Berl. SPECIES
 
 #### Status
 ACCEPTED

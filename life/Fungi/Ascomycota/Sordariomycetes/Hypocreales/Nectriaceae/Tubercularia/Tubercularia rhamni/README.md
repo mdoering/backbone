@@ -1,5 +1,4 @@
-Tubercularia rhamni Paol. SPECIES
-=======
+# Tubercularia rhamni Paol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia lasserrei Verdun SPECIES
-=======
+# Nocardia lasserrei Verdun SPECIES
 
 #### Status
 ACCEPTED

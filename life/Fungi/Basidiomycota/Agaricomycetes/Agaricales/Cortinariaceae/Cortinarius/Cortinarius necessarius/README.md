@@ -1,5 +1,4 @@
-Cortinarius necessarius E. Horak, 1990 SPECIES
-=======
+# Cortinarius necessarius E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

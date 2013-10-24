@@ -1,5 +1,4 @@
-Agaricus erosus Fr. SPECIES
-=======
+# Agaricus erosus Fr. SPECIES
 
 #### Status
 ACCEPTED

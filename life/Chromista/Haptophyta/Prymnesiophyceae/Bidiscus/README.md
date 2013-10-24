@@ -1,5 +1,4 @@
-Bidiscus Bukry, 1969 GENUS
-=======
+# Bidiscus Bukry, 1969 GENUS
 
 #### Status
 ACCEPTED

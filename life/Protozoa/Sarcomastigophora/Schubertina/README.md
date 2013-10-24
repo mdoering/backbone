@@ -1,5 +1,4 @@
-Schubertina Marshall, 1969 GENUS
-=======
+# Schubertina Marshall, 1969 GENUS
 
 #### Status
 ACCEPTED

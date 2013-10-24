@@ -1,5 +1,4 @@
-Nectriella dakotensis (Seaver) Lowen, 1999 SPECIES
-=======
+# Nectriella dakotensis (Seaver) Lowen, 1999 SPECIES
 
 #### Status
 ACCEPTED

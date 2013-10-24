@@ -1,5 +1,4 @@
-Meliola allophyli Doidge SPECIES
-=======
+# Meliola allophyli Doidge SPECIES
 
 #### Status
 ACCEPTED

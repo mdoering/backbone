@@ -1,5 +1,4 @@
-Clasterosporium bulbophilum (Westend.) Sacc. SPECIES
-=======
+# Clasterosporium bulbophilum (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena rorida (Scop. Fr.) Quél. SPECIES
-=======
+# Mycena rorida (Scop. Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

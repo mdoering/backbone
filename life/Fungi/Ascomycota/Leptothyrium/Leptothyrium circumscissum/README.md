@@ -1,5 +1,4 @@
-Leptothyrium circumscissum Syd. {?} SPECIES
-=======
+# Leptothyrium circumscissum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

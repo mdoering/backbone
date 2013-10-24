@@ -1,5 +1,4 @@
-Trichodina wulai SPECIES
-=======
+# Trichodina wulai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida marionensis Kurtzman, 2007 SPECIES
-=======
+# Candida marionensis Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

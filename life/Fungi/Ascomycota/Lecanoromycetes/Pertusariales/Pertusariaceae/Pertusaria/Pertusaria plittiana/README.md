@@ -1,5 +1,4 @@
-Pertusaria plittiana Erichsen SPECIES
-=======
+# Pertusaria plittiana Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigonema flexuosum W. West & G.S. West SPECIES
-=======
+# Stigonema flexuosum W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

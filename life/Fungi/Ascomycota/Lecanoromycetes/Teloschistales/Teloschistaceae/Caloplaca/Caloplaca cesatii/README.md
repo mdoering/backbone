@@ -1,5 +1,4 @@
-Caloplaca cesatii (A. Massal.) Schuler SPECIES
-=======
+# Caloplaca cesatii (A. Massal.) Schuler SPECIES
 
 #### Status
 ACCEPTED

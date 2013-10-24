@@ -1,5 +1,4 @@
-Nitrospira CLASS
-=======
+# Nitrospira CLASS
 
 #### Status
 ACCEPTED

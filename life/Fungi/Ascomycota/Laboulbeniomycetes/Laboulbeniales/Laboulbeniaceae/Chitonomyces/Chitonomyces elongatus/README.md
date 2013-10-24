@@ -1,5 +1,4 @@
-Chitonomyces elongatus Speg. SPECIES
-=======
+# Chitonomyces elongatus Speg. SPECIES
 
 #### Status
 ACCEPTED

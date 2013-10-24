@@ -1,5 +1,4 @@
-Rhabdospora ebuli Bres. SPECIES
-=======
+# Rhabdospora ebuli Bres. SPECIES
 
 #### Status
 ACCEPTED

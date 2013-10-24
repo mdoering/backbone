@@ -1,14 +1,13 @@
-Chaetopsis oligosperma (Bonord.) DiCosmo, S.M. Berch & W.B. Kendr., 1983 SPECIES
-=======
+# Cylindrotrichum oligospermum (Corda) Bonord., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(6): 962 (1983)
+Handb. Allgem. mykol. (Stuttgart) 88 (1851)
 
 #### Original name
 Menispora oligosperma Corda, 1838

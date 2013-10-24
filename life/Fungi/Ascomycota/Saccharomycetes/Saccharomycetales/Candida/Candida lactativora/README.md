@@ -1,5 +1,4 @@
-Candida lactativora (Fell & Phaff) Golubev SPECIES
-=======
+# Candida lactativora (Fell & Phaff) Golubev SPECIES
 
 #### Status
 ACCEPTED

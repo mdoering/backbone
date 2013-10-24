@@ -1,5 +1,4 @@
-Pezizella stictae Etayo SPECIES
-=======
+# Pezizella stictae Etayo SPECIES
 
 #### Status
 ACCEPTED

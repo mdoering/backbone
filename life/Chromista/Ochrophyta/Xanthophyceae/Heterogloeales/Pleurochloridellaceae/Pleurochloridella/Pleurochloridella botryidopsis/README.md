@@ -1,5 +1,4 @@
-Pleurochloridella botryidopsis Pascher SPECIES
-=======
+# Pleurochloridella botryidopsis Pascher SPECIES
 
 #### Status
 ACCEPTED

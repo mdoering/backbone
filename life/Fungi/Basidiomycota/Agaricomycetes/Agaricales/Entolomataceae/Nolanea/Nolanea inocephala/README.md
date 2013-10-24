@@ -1,5 +1,4 @@
-Nolanea inocephala (Romagn.) Dennis SPECIES
-=======
+# Nolanea inocephala (Romagn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

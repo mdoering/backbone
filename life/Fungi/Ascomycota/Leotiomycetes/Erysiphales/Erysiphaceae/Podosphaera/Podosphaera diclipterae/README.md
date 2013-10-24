@@ -1,5 +1,4 @@
-Podosphaera diclipterae (Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera diclipterae (Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

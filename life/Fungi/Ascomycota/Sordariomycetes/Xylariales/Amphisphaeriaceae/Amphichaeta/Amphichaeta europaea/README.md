@@ -1,5 +1,4 @@
-Amphichaeta europaea Grove SPECIES
-=======
+# Amphichaeta europaea Grove SPECIES
 
 #### Status
 ACCEPTED

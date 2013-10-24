@@ -1,5 +1,4 @@
-Rinodina endospora Sheard SPECIES
-=======
+# Rinodina endospora Sheard SPECIES
 
 #### Status
 ACCEPTED

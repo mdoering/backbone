@@ -1,5 +1,4 @@
-Meliola diospyri-pentamerae Hansf. SPECIES
-=======
+# Meliola diospyri-pentamerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

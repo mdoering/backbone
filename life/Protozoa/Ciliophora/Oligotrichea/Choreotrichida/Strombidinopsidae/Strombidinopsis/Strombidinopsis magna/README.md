@@ -1,5 +1,4 @@
-Strombidinopsis magna Alekperov, Buskey & Snegovaya, 2007 SPECIES
-=======
+# Strombidinopsis magna Alekperov, Buskey & Snegovaya, 2007 SPECIES
 
 #### Status
 ACCEPTED

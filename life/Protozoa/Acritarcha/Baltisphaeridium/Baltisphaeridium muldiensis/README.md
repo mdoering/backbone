@@ -1,5 +1,4 @@
-Baltisphaeridium muldiensis Le Hérissé, 1989 SPECIES
-=======
+# Baltisphaeridium muldiensis Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton encephalodes F. Wilson SPECIES
-=======
+# Chiodecton encephalodes F. Wilson SPECIES
 
 #### Status
 ACCEPTED

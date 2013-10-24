@@ -1,5 +1,4 @@
-Sporotrichum sporodochiale Arx, 1971 SPECIES
-=======
+# Sporotrichum sporodochiale Arx, 1971 SPECIES
 
 #### Status
 ACCEPTED

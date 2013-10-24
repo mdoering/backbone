@@ -1,5 +1,4 @@
-Omphalodium quartum (Darb.) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Omphalodium quartum (Darb.) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

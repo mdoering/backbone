@@ -1,5 +1,4 @@
-Amanita afrospinosa Pegler & Shah-Smith SPECIES
-=======
+# Amanita afrospinosa Pegler & Shah-Smith SPECIES
 
 #### Status
 ACCEPTED

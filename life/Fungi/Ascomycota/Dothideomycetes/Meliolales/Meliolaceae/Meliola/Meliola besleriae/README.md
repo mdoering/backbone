@@ -1,5 +1,4 @@
-Meliola besleriae Hansf. SPECIES
-=======
+# Meliola besleriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

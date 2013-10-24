@@ -1,5 +1,4 @@
-Maublancia uleana (Pazschke) Arx SPECIES
-=======
+# Maublancia uleana (Pazschke) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota brunneopurpurea Rick SPECIES
-=======
+# Lepiota brunneopurpurea Rick SPECIES
 
 #### Status
 ACCEPTED

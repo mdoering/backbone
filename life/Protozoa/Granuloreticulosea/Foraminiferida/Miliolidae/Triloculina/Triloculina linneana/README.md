@@ -1,5 +1,4 @@
-Triloculina linneana d'Orbigny SPECIES
-=======
+# Triloculina linneana d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

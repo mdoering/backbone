@@ -1,5 +1,4 @@
-Fragilaria tabulata var. obtusa (Pant.) Lange-Bertalot VARIETY
-=======
+# Fragilaria tabulata (C.Agardh) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

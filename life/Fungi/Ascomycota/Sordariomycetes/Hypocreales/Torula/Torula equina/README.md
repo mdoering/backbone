@@ -1,5 +1,4 @@
-Torula equina Desm. SPECIES
-=======
+# Torula equina Desm. SPECIES
 
 #### Status
 ACCEPTED

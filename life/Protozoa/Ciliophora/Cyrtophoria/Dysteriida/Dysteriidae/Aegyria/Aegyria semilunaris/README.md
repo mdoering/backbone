@@ -1,5 +1,4 @@
-Aegyria semilunaris Gourret & Roeser, 1886 SPECIES
-=======
+# Aegyria semilunaris Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Xylosphaera papyrifera subsp. cubensis (Mont.) Dennis SUBSPECIES
-=======
+# Xylaria cubensis (Mont.) Fr., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. bot. État Brux. 31: 122 (1961)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 126 (1851)
 
 #### Original name
 Hypoxylon cubense Mont., 1840

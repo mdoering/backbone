@@ -1,5 +1,4 @@
-Phoma artemisiicola var. artemisiicola VARIETY
-=======
+# Phoma artemisiicola M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 16(2): 90 (1954)
 
 #### Original name
-Phoma artemisiicola var. artemisiicola
+Phoma artemisiicola M.T. Lucas & Sousa da Câmara
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vermicularia ophiopogonis Pat. SPECIES
-=======
+# Vermicularia ophiopogonis Pat. SPECIES
 
 #### Status
 ACCEPTED

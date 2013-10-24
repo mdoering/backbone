@@ -1,5 +1,4 @@
-Parmeliella oblongata Lynge SPECIES
-=======
+# Parmeliella oblongata Lynge SPECIES
 
 #### Status
 ACCEPTED

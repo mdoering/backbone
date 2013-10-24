@@ -1,5 +1,4 @@
-Leptosphaeria platypus (Schwein.) Petr. & Syd. SPECIES
-=======
+# Leptosphaeria platypus (Schwein.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

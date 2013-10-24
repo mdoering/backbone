@@ -1,5 +1,4 @@
-Pseudomonas thermotolerans Manaia & Moore, 2002 SPECIES
-=======
+# Pseudomonas thermotolerans Manaia & Moore, 2002 SPECIES
 
 #### Status
 ACCEPTED

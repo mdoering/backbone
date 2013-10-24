@@ -1,8 +1,7 @@
-Penicillium casei W. Staub, 1911 SPECIES
-=======
+# Penicillium verrucosum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Verpa pusilla Saut. SPECIES
-=======
+# Verpa pusilla Saut. SPECIES
 
 #### Status
 ACCEPTED

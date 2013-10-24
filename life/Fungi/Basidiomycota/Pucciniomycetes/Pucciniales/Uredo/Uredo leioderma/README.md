@@ -1,8 +1,7 @@
-Uredo lejoderma Speg. SPECIES
-=======
+# Uredo leioderma Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo lejoderma Speg.
+Uredo leioderma Speg.
 
 ### Remarks
 null

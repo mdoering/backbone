@@ -1,5 +1,4 @@
-Cortinarius deminutus Peintner SPECIES
-=======
+# Cortinarius deminutus Peintner SPECIES
 
 #### Status
 ACCEPTED

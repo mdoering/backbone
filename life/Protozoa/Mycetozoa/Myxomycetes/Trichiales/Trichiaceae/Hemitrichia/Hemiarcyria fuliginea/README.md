@@ -1,5 +1,4 @@
-Hemiarcyria fuliginea Cooke & Massee SPECIES
-=======
+# Hemiarcyria fuliginea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

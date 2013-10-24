@@ -1,5 +1,4 @@
-Colletotrichum chamaeropis Ferraris & Gabotto SPECIES
-=======
+# Colletotrichum chamaeropis Ferraris & Gabotto SPECIES
 
 #### Status
 ACCEPTED

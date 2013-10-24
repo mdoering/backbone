@@ -1,5 +1,4 @@
-Pholiota squalida (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota squalida (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

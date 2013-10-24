@@ -1,5 +1,4 @@
-Pyrenula cinnamomea (Mont.) Trevis. SPECIES
-=======
+# Pyrenula cinnamomea (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

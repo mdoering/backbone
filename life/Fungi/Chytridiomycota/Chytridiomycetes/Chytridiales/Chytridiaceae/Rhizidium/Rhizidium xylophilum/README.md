@@ -1,5 +1,4 @@
-Rhizidium xylophilum (Cornu) P.A. Dang. SPECIES
-=======
+# Rhizidium xylophilum (Cornu) P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

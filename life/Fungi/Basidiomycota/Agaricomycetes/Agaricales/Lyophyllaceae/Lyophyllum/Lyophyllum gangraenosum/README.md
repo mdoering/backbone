@@ -1,17 +1,16 @@
-Agaricus gangraenosus var. gangraenosus Fr. VARIETY
-=======
+# Lyophyllum gangraenosum (Fr.) Gulden, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 56 (1838)
+in Knudsen & Hansen, Nordic Jl Bot. 11(4): 478 (1991)
 
 #### Original name
-Agaricus gangraenosus var. gangraenosus Fr.
+Agaricus gangraenosus Fr., 1838
 
 ### Remarks
 null

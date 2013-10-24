@@ -1,5 +1,4 @@
-Antennaria tela Corda SPECIES
-=======
+# Antennaria tela Corda SPECIES
 
 #### Status
 ACCEPTED

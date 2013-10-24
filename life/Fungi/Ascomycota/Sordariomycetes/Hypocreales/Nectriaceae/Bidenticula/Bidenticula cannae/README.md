@@ -1,5 +1,4 @@
-Bidenticula cannae Deighton SPECIES
-=======
+# Bidenticula cannae Deighton SPECIES
 
 #### Status
 ACCEPTED

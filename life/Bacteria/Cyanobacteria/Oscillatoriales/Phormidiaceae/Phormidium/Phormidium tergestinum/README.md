@@ -1,5 +1,4 @@
-Phormidium tergestinum (Kützing) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Phormidium tergestinum (Kützing) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

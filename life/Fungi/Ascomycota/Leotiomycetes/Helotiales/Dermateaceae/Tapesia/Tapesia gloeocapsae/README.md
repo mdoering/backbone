@@ -1,5 +1,4 @@
-Tapesia gloeocapsae Velen. SPECIES
-=======
+# Tapesia gloeocapsae Velen. SPECIES
 
 #### Status
 ACCEPTED

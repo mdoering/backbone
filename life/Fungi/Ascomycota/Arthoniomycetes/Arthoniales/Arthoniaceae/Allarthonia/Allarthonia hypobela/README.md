@@ -1,5 +1,4 @@
-Allarthonia hypobela (Nyl.) Zahlbr. SPECIES
-=======
+# Allarthonia hypobela (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

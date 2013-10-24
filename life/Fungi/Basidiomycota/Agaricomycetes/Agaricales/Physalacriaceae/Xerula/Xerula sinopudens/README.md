@@ -1,5 +1,4 @@
-Xerula sinopudens R.H. Petersen & Nagas. SPECIES
-=======
+# Xerula sinopudens R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED

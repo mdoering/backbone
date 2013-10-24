@@ -1,5 +1,4 @@
-Pleiopatella Rehm GENUS
-=======
+# Pleiopatella Rehm GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cremoriceps Berk. SPECIES
-=======
+# Agaricus cremoriceps Berk. SPECIES
 
 #### Status
 ACCEPTED

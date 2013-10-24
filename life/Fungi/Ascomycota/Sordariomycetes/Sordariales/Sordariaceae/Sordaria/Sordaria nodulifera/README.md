@@ -1,5 +1,4 @@
-Sordaria nodulifera Ts. Watan. SPECIES
-=======
+# Sordaria nodulifera Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

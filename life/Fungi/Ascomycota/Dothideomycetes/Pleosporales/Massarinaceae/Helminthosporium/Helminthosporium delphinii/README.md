@@ -1,5 +1,4 @@
-Helminthosporium delphinii Golovin SPECIES
-=======
+# Helminthosporium delphinii Golovin SPECIES
 
 #### Status
 ACCEPTED

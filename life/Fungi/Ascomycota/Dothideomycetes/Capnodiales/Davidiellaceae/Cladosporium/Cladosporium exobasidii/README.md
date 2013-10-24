@@ -1,5 +1,4 @@
-Cladosporium exobasidii var. exobasidii VARIETY
-=======
+# Cladosporium exobasidii Jaap SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Verh. bot. Ver. Prov. Brandenb. 49: 29 (1907)
 
 #### Original name
-Cladosporium exobasidii var. exobasidii
+Cladosporium exobasidii Jaap
 
 ### Remarks
 null

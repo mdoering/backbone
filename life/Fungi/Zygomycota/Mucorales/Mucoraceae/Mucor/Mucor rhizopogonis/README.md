@@ -1,5 +1,4 @@
-Mucor rhizopogonis (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor rhizopogonis (Corda) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

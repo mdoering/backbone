@@ -1,5 +1,4 @@
-Clitocybe subconnexa Murrill SPECIES
-=======
+# Clitocybe subconnexa Murrill SPECIES
 
 #### Status
 ACCEPTED

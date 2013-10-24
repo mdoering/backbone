@@ -1,5 +1,4 @@
-Chlamydomyces Bainier GENUS
-=======
+# Chlamydomyces Bainier GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus plumatus Walter SPECIES
-=======
+# Agaricus plumatus Walter SPECIES
 
 #### Status
 ACCEPTED

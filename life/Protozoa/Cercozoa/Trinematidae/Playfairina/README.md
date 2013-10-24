@@ -1,5 +1,4 @@
-Playfairina Thomas, 1961 GENUS
-=======
+# Playfairina Thomas, 1961 GENUS
 
 #### Status
 ACCEPTED

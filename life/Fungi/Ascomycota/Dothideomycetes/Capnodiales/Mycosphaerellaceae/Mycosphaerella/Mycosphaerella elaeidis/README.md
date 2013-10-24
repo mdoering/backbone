@@ -1,5 +1,4 @@
-Mycosphaerella elaeidis (Beeli) Hendr. SPECIES
-=======
+# Mycosphaerella elaeidis (Beeli) Hendr. SPECIES
 
 #### Status
 ACCEPTED

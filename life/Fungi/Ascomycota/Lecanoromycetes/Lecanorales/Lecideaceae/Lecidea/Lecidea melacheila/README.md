@@ -1,5 +1,4 @@
-Lecidea melacheila Nyl. SPECIES
-=======
+# Lecidea melacheila Nyl. SPECIES
 
 #### Status
 ACCEPTED

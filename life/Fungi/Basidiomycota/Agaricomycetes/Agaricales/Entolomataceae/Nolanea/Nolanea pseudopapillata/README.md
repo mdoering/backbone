@@ -1,5 +1,4 @@
-Nolanea pseudopapillata Pegler SPECIES
-=======
+# Nolanea pseudopapillata Pegler SPECIES
 
 #### Status
 ACCEPTED

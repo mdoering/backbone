@@ -1,5 +1,4 @@
-Sphaerella ikedai (Hara) Sacc. SPECIES
-=======
+# Sphaerella ikedai (Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

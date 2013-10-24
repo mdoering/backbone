@@ -1,5 +1,4 @@
-Didymosporium propolidioides Fairm. SPECIES
-=======
+# Didymosporium propolidioides Fairm. SPECIES
 
 #### Status
 ACCEPTED

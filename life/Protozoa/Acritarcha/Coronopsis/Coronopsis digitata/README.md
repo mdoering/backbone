@@ -1,5 +1,4 @@
-Coronopsis digitata O. Wetzel, 1961 SPECIES
-=======
+# Coronopsis digitata O. Wetzel, 1961 SPECIES
 
 #### Status
 ACCEPTED

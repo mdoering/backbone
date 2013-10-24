@@ -1,5 +1,4 @@
-Entoloma kujuense (Hongo) Hongo & Izawa SPECIES
-=======
+# Entoloma kujuense (Hongo) Hongo & Izawa SPECIES
 
 #### Status
 ACCEPTED

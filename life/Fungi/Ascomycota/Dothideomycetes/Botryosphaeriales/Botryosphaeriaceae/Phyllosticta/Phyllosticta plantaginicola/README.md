@@ -1,5 +1,4 @@
-Phyllosticta plantaginicola Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta plantaginicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

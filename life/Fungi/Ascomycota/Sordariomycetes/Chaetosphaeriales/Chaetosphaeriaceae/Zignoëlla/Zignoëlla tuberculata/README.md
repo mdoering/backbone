@@ -1,5 +1,4 @@
-Zignoëlla tuberculata Petch SPECIES
-=======
+# Zignoëlla tuberculata Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ascidium depressum (Mont.) Nyl. SPECIES
-=======
+# Thelotrema depressum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 52: 121 (1869)
+Annls Sci. Nat. , Bot. , sér. 3 16: 73 (1851)
 
 #### Original name
 Thelotrema depressum Mont.

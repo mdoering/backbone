@@ -1,5 +1,4 @@
-Pseudoxylaria nigripes (Klotzsch) Boedijn SPECIES
-=======
+# Pseudoxylaria nigripes (Klotzsch) Boedijn SPECIES
 
 #### Status
 ACCEPTED

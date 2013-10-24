@@ -1,17 +1,16 @@
-Rhynchomyces violaceous Willk. SPECIES
-=======
+# Rhynchomyces violaceus Willk., 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rhynchomyces violaceous Willk.
+Rhynchomyces violaceus Willk., 1867
 
 ### Remarks
 null

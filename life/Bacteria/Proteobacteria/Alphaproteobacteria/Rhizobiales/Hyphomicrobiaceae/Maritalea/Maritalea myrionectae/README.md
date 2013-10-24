@@ -1,5 +1,4 @@
-Maritalea myrionectae Hwang, Cho, Yih & Cho, 2009 SPECIES
-=======
+# Maritalea myrionectae Hwang, Cho, Yih & Cho, 2009 SPECIES
 
 #### Status
 ACCEPTED

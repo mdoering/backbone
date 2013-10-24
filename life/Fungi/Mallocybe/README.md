@@ -1,5 +1,4 @@
-Mallocybe GENUS
-=======
+# Mallocybe GENUS
 
 #### Status
 ACCEPTED

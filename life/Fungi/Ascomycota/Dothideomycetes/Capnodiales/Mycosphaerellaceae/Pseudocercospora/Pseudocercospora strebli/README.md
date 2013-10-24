@@ -1,5 +1,4 @@
-Pseudocercospora strebli (R.P. Singh) U. Braun SPECIES
-=======
+# Pseudocercospora strebli (R.P. Singh) U. Braun SPECIES
 
 #### Status
 ACCEPTED

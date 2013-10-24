@@ -1,5 +1,4 @@
-Pterygiopsis australiensis Henssen SPECIES
-=======
+# Pterygiopsis australiensis Henssen SPECIES
 
 #### Status
 ACCEPTED

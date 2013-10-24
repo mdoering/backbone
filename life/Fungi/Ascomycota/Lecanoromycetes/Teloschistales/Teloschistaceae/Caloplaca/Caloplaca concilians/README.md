@@ -1,14 +1,13 @@
-Placodium concilians (Nyl.) A.L. Sm. SPECIES
-=======
+# Caloplaca concilians (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 1: 219 (1918)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 138 (1909)
 
 #### Original name
 Lecanora ferruginea f. concilians Nyl.

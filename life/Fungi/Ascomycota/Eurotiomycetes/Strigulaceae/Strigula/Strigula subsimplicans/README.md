@@ -1,5 +1,4 @@
-Strigula subsimplicans (Nyl.) R.C. Harris SPECIES
-=======
+# Strigula subsimplicans (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

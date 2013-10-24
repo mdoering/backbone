@@ -1,5 +1,4 @@
-Xylosphaera aristata (Mont.) Dennis SPECIES
-=======
+# Xylosphaera aristata (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

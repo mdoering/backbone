@@ -1,5 +1,4 @@
-Buellia cladocarpiza I.M. Lamb SPECIES
-=======
+# Buellia cladocarpiza I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

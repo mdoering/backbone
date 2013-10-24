@@ -1,5 +1,4 @@
-Eccrinoides henneguyi L. Léger & Duboscq, 1929 SPECIES
-=======
+# Eccrinoides henneguyi L. Léger & Duboscq, 1929 SPECIES
 
 #### Status
 ACCEPTED

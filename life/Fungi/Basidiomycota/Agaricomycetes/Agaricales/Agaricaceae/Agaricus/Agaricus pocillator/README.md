@@ -1,5 +1,4 @@
-Agaricus pocillator Murrill SPECIES
-=======
+# Agaricus pocillator Murrill SPECIES
 
 #### Status
 ACCEPTED

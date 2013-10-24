@@ -1,5 +1,4 @@
-Beltraniella humicola P.Rama Rao, 1962 SPECIES
-=======
+# Beltraniella humicola P.Rama Rao, 1962 SPECIES
 
 #### Status
 ACCEPTED

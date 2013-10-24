@@ -1,5 +1,4 @@
-Tulostoma simulans Lloyd, 1906 SPECIES
-=======
+# Tulostoma simulans Lloyd, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora leptosphaerioides Allesch. SPECIES
-=======
+# Pleospora leptosphaerioides Allesch. SPECIES
 
 #### Status
 ACCEPTED

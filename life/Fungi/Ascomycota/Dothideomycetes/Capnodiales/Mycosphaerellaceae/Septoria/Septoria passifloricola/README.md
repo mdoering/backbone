@@ -1,5 +1,4 @@
-Septoria passifloricola Punith., 1980 SPECIES
-=======
+# Septoria passifloricola Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca lithophila var. lithophila VARIETY
-=======
+# Caloplaca lithophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 33A(1): 132 (1946)
 
 #### Original name
-Caloplaca lithophila var. lithophila
+Caloplaca lithophila H. Magn.
 
 ### Remarks
 null

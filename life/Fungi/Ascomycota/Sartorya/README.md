@@ -1,5 +1,4 @@
-Sartorya Vuillemin, 1927 GENUS
-=======
+# Sartorya Vuillemin, 1927 GENUS
 
 #### Status
 ACCEPTED

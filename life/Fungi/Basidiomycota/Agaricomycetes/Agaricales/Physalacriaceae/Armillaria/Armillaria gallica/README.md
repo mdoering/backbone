@@ -1,17 +1,16 @@
-Armillariella bulbosa (Barla) Romagn., 1973 SPECIES
-=======
+# Armillaria gallica Marxm. & Romagn., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 89(2): 199 (1973)
+in Boidin, Gilles & Lanquetin, Bull. trimest. Soc. mycol. Fr. 103(2): 152 (1987)
 
 #### Original name
-Armillaria mellea var. bulbosa Barla, 1887
+Armillaria gallica Marxm. & Romagn., 1987
 
 ### Remarks
 null

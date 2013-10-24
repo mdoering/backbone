@@ -1,14 +1,13 @@
-Fusarium domesticum (Fr.) H.P. Bachm., 2005 SPECIES
-=======
+# Trichothecium domesticum Fr., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-LWT - Food Sci. Techn. 38: 405 (2005)
+Syst. mycol. (Lundae) 3(2): 427 (1832)
 
 #### Original name
 Trichothecium domesticum Fr., 1832

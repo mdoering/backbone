@@ -1,5 +1,4 @@
-Collybia harrisii (Murrill) Singer SPECIES
-=======
+# Collybia harrisii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

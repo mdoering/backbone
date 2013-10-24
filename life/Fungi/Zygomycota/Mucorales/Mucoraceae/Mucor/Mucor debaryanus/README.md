@@ -1,17 +1,16 @@
-Mucor de-baryanus Schostak. SPECIES
-=======
+# Mucor debaryanus Schostak. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 15: 473 (1897)
 
 #### Original name
-Mucor de-baryanus Schostak.
+Mucor debaryanus Schostak.
 
 ### Remarks
 null

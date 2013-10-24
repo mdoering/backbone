@@ -1,5 +1,4 @@
-Laboulbenia helvetica Speg. SPECIES
-=======
+# Laboulbenia helvetica Speg. SPECIES
 
 #### Status
 ACCEPTED

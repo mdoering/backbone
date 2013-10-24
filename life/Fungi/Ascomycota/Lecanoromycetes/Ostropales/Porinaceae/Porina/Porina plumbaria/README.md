@@ -1,5 +1,4 @@
-Porina plumbaria (Stizenb.) Hasse SPECIES
-=======
+# Porina plumbaria (Stizenb.) Hasse SPECIES
 
 #### Status
 ACCEPTED

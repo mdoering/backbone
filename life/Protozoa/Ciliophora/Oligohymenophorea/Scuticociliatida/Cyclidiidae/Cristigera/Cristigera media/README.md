@@ -1,5 +1,4 @@
-Cristigera media Kahl, 1928 SPECIES
-=======
+# Cristigera media Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

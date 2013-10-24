@@ -1,5 +1,4 @@
-Lecanora capistrata (Darb.) Zahlbr. SPECIES
-=======
+# Lecanora capistrata (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

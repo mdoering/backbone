@@ -1,5 +1,4 @@
-Lecidea siebenhaariana (Körb.) Th. Fr. SPECIES
-=======
+# Lecidea siebenhaariana (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

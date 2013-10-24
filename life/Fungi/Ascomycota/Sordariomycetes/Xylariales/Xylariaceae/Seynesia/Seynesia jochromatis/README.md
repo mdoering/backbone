@@ -1,5 +1,4 @@
-Seynesia jochromatis (Rehm) Theiss. SPECIES
-=======
+# Seynesia jochromatis (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

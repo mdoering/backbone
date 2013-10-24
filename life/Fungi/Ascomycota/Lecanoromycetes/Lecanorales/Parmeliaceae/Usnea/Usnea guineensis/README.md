@@ -1,5 +1,4 @@
-Usnea guineensis Herre SPECIES
-=======
+# Usnea guineensis Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metaptychostomum Ngassam & Grain, 1997 GENUS
-=======
+# Metaptychostomum Ngassam & Grain, 1997 GENUS
 
 #### Status
 ACCEPTED

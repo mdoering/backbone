@@ -1,5 +1,4 @@
-Physalospora ficina Syd. SPECIES
-=======
+# Physalospora ficina Syd. SPECIES
 
 #### Status
 ACCEPTED

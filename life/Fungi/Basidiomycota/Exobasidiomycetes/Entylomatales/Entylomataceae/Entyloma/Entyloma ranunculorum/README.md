@@ -1,5 +1,4 @@
-Entyloma ranunculorum Liro SPECIES
-=======
+# Entyloma ranunculorum Liro SPECIES
 
 #### Status
 ACCEPTED

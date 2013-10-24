@@ -1,5 +1,4 @@
-Corynebacterium resistens Otsuka et al., 2005 SPECIES
-=======
+# Corynebacterium resistens Otsuka et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

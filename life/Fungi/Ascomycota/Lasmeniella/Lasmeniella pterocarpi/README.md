@@ -1,5 +1,4 @@
-Lasmeniella pterocarpi Petr. SPECIES
-=======
+# Lasmeniella pterocarpi Petr. SPECIES
 
 #### Status
 ACCEPTED

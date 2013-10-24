@@ -1,8 +1,7 @@
-Eriosporangium cuzocoense (Arthur) Syd. SPECIES
-=======
+# Eriosporangium cuzcoense (Arthur) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

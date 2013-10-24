@@ -1,5 +1,4 @@
-Polyporus taurinus Pers. SPECIES
-=======
+# Polyporus taurinus Pers. SPECIES
 
 #### Status
 ACCEPTED

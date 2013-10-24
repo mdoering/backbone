@@ -1,5 +1,4 @@
-Calothrix wembaerensis Hieronimus & Schmidle SPECIES
-=======
+# Calothrix wembaerensis Hieronimus & Schmidle SPECIES
 
 #### Status
 ACCEPTED

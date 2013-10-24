@@ -1,5 +1,4 @@
-Davisoniella eucalypti H.J. Swart, 1988 SPECIES
-=======
+# Davisoniella eucalypti H.J. Swart, 1988 SPECIES
 
 #### Status
 ACCEPTED

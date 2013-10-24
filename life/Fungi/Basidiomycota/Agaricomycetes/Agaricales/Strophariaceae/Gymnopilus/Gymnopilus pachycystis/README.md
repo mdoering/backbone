@@ -1,5 +1,4 @@
-Gymnopilus pachycystis Singer SPECIES
-=======
+# Gymnopilus pachycystis Singer SPECIES
 
 #### Status
 ACCEPTED

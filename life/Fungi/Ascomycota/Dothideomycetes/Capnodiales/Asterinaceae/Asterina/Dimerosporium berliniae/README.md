@@ -1,5 +1,4 @@
-Dimerosporium berliniae Pat. & Har. SPECIES
-=======
+# Dimerosporium berliniae Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

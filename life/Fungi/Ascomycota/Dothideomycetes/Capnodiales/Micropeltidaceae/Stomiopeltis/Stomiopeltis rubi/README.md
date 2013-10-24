@@ -1,5 +1,4 @@
-Stomiopeltis rubi (Fuckel) Petr. SPECIES
-=======
+# Stomiopeltis rubi (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

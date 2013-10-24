@@ -1,5 +1,4 @@
-Teichosporella patellaris Sacc. SPECIES
-=======
+# Teichosporella patellaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

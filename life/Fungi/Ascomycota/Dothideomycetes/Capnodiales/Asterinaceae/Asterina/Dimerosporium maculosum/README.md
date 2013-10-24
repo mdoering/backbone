@@ -1,5 +1,4 @@
-Dimerosporium maculosum (Speg.) Sacc. SPECIES
-=======
+# Dimerosporium maculosum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

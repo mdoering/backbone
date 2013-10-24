@@ -1,5 +1,4 @@
-Polyporus atromaculus Lloyd SPECIES
-=======
+# Polyporus atromaculus Lloyd SPECIES
 
 #### Status
 ACCEPTED

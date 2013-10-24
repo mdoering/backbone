@@ -1,5 +1,4 @@
-Lecanora leucoplaca Vain. SPECIES
-=======
+# Lecanora leucoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

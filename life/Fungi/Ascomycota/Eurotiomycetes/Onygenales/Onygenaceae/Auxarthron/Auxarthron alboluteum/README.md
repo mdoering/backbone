@@ -1,5 +1,4 @@
-Auxarthron alboluteum Sigler, Hambl. & Flis SPECIES
-=======
+# Auxarthron alboluteum Sigler, Hambl. & Flis SPECIES
 
 #### Status
 ACCEPTED

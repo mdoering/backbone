@@ -1,5 +1,4 @@
-Armillaria argentina Speg. SPECIES
-=======
+# Armillaria argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

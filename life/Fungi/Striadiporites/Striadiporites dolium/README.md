@@ -1,5 +1,4 @@
-Striadiporites dolium (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Striadiporites dolium (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

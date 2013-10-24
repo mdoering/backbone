@@ -1,5 +1,4 @@
-Trichosporon pararugosum (Castell. & M. Douglas) Nann. SPECIES
-=======
+# Trichosporon pararugosum (Castell. & M. Douglas) Nann. SPECIES
 
 #### Status
 ACCEPTED

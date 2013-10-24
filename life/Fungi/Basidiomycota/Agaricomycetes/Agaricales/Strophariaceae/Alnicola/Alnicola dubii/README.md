@@ -1,5 +1,4 @@
-Alnicola dubii Métrod SPECIES
-=======
+# Alnicola dubii Métrod SPECIES
 
 #### Status
 ACCEPTED

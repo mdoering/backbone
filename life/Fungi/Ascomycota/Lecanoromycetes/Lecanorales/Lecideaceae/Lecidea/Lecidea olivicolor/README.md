@@ -1,5 +1,4 @@
-Lecidea olivicolor Hue SPECIES
-=======
+# Lecidea olivicolor Hue SPECIES
 
 #### Status
 ACCEPTED

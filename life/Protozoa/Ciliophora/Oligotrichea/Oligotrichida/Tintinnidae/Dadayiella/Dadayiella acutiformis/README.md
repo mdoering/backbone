@@ -1,5 +1,4 @@
-Dadayiella acutiformis Kofoid & Campbell, 1939 SPECIES
-=======
+# Dadayiella acutiformis Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

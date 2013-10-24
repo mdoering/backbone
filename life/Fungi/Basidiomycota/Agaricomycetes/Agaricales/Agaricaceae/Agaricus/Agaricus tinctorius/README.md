@@ -1,5 +1,4 @@
-Agaricus tinctorius Secr. SPECIES
-=======
+# Agaricus tinctorius Secr. SPECIES
 
 #### Status
 ACCEPTED

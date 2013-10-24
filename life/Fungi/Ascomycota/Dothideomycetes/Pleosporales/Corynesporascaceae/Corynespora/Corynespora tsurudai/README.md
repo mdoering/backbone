@@ -1,5 +1,4 @@
-Corynespora tsurudai Hara SPECIES
-=======
+# Corynespora tsurudai Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium mutabile P. Karst. SPECIES
-=======
+# Corticium mutabile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria camellia Corner, 1957 SPECIES
-=======
+# Ramaria camellia Corner, 1957 SPECIES
 
 #### Status
 ACCEPTED

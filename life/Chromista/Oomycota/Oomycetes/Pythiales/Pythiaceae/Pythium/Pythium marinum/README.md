@@ -1,5 +1,4 @@
-Pythium marinum Sparrow, 1934 SPECIES
-=======
+# Pythium marinum Sparrow, 1934 SPECIES
 
 #### Status
 ACCEPTED

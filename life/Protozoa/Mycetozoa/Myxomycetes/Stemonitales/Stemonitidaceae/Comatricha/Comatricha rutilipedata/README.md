@@ -1,5 +1,4 @@
-Comatricha rutilipedata H. Marx, 1999 SPECIES
-=======
+# Comatricha rutilipedata H. Marx, 1999 SPECIES
 
 #### Status
 ACCEPTED

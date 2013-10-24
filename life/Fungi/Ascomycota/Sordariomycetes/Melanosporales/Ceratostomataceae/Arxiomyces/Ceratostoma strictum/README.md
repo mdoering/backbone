@@ -1,5 +1,4 @@
-Ceratostoma strictum (Pers.) Fuckel SPECIES
-=======
+# Ceratostoma strictum (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Argotelium hyptidis (M.A. Curtis) Arthur SPECIES
-=======
+# Argotelium hyptidis (M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subathua sahnii A. K. Khanna & H. P. Singh SPECIES
-=======
+# Subathua sahnii A. K. Khanna & H. P. Singh SPECIES
 
 #### Status
 ACCEPTED

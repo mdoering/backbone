@@ -1,5 +1,4 @@
-Rosellinia obtusissima (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia obtusissima (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halecania lobulata van den Boom & Elix SPECIES
-=======
+# Halecania lobulata van den Boom & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea paraguayensis Malme SPECIES
-=======
+# Lecidea paraguayensis Malme SPECIES
 
 #### Status
 ACCEPTED

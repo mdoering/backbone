@@ -1,5 +1,4 @@
-Kluyveromyces lactis (Boidin, Abadie, J.L. Jacob & Pignal) Van der Walt SPECIES
-=======
+# Kluyveromyces lactis (Boidin, Abadie, J.L. Jacob & Pignal) Van der Walt SPECIES
 
 #### Status
 ACCEPTED

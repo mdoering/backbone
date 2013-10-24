@@ -1,5 +1,4 @@
-Pluteus australis Z.S. Bi SPECIES
-=======
+# Pluteus australis Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

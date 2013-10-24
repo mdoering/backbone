@@ -1,5 +1,4 @@
-Dicaeoma hysteriiforme (Peck) Kuntze SPECIES
-=======
+# Dicaeoma hysteriiforme (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

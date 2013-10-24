@@ -1,5 +1,4 @@
-Didymaria pezizae Richon SPECIES
-=======
+# Didymaria pezizae Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaos illinoisense (Kudo, 1951) SPECIES
-=======
+# Chaos illinoisense (Kudo, 1951) SPECIES
 
 #### Status
 ACCEPTED

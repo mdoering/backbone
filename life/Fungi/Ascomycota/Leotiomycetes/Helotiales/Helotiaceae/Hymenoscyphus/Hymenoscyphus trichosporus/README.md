@@ -1,5 +1,4 @@
-Hymenoscyphus trichosporus Dougoud SPECIES
-=======
+# Hymenoscyphus trichosporus Dougoud SPECIES
 
 #### Status
 ACCEPTED

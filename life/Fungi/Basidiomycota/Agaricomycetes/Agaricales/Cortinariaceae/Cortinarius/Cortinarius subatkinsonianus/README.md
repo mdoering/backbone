@@ -1,5 +1,4 @@
-Cortinarius subatkinsonianus Rob. Henry SPECIES
-=======
+# Cortinarius subatkinsonianus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

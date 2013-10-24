@@ -1,5 +1,4 @@
-Hygrocybe anisa (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe anisa (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

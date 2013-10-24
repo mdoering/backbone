@@ -1,5 +1,4 @@
-Verrucaria belanensis Servít SPECIES
-=======
+# Verrucaria belanensis Servít SPECIES
 
 #### Status
 ACCEPTED

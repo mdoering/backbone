@@ -1,5 +1,4 @@
-Usnea pubescens SPECIES
-=======
+# Usnea pubescens SPECIES
 
 #### Status
 ACCEPTED

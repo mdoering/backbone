@@ -1,5 +1,4 @@
-Ceriporia crassitunicata Y.C. Dai & Sheng H. Wu SPECIES
-=======
+# Ceriporia crassitunicata Y.C. Dai & Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

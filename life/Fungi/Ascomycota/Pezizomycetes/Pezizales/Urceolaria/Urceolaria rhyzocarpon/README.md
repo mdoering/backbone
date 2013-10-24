@@ -1,5 +1,4 @@
-Urceolaria rhyzocarpon Chevall. SPECIES
-=======
+# Urceolaria rhyzocarpon Chevall. SPECIES
 
 #### Status
 ACCEPTED

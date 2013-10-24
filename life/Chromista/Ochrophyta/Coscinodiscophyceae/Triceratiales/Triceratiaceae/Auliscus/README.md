@@ -1,5 +1,4 @@
-Auliscus Ehrenberg GENUS
-=======
+# Auliscus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

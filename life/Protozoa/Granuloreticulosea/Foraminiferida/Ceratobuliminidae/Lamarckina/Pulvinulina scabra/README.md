@@ -1,5 +1,4 @@
-Pulvinulina scabra SPECIES
-=======
+# Pulvinulina scabra SPECIES
 
 #### Status
 ACCEPTED

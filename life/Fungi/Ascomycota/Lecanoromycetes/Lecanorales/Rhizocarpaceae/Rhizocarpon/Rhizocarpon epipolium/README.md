@@ -1,5 +1,4 @@
-Rhizocarpon epipolium SPECIES
-=======
+# Rhizocarpon epipolium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago viviparifera Vánky, C. Vánky & N.D. Sharma SPECIES
-=======
+# Ustilago viviparifera Vánky, C. Vánky & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

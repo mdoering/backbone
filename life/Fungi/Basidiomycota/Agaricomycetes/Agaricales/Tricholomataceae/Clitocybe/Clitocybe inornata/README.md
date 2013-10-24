@@ -1,17 +1,16 @@
-Clitocybe inornata f. inornata FORM
-=======
+# Clitocybe inornata (Sowerby) Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 155 (1874)
 
 #### Original name
-Clitocybe inornata f. inornata
+Agaricus inornatus Sowerby, 1803
 
 ### Remarks
 null

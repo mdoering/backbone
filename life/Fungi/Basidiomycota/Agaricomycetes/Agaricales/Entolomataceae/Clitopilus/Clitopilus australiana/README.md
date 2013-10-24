@@ -1,5 +1,4 @@
-Clitopilus australiana Cleland SPECIES
-=======
+# Clitopilus australiana Cleland SPECIES
 
 #### Status
 ACCEPTED

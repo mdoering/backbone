@@ -1,5 +1,4 @@
-Dizonitis Haeckel, 1887 GENUS
-=======
+# Dizonitis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

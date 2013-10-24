@@ -1,17 +1,16 @@
-Scleroderma cepa var. erythraeum Sacc. VARIETY
-=======
+# Scleroderma cepa Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 155 (1801)
 
 #### Original name
-Scleroderma cepa var. erythraeum Sacc.
+Scleroderma cepa Pers., 1801
 
 ### Remarks
 null

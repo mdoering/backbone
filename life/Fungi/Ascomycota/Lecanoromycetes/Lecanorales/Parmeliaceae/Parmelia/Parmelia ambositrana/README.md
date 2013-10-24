@@ -1,5 +1,4 @@
-Parmelia ambositrana Abbayes SPECIES
-=======
+# Parmelia ambositrana Abbayes SPECIES
 
 #### Status
 ACCEPTED

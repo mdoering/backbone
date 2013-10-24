@@ -1,5 +1,4 @@
-Helotium cejpi Velen. SPECIES
-=======
+# Helotium cejpi Velen. SPECIES
 
 #### Status
 ACCEPTED

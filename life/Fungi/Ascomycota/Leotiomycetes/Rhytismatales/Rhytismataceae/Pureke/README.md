@@ -1,5 +1,4 @@
-Pureke P.R. Johnst. GENUS
-=======
+# Pureke P.R. Johnst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca zavattarii Sambo SPECIES
-=======
+# Caloplaca zavattarii Sambo SPECIES
 
 #### Status
 ACCEPTED

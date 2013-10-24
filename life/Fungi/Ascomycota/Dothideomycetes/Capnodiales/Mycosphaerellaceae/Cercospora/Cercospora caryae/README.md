@@ -1,5 +1,4 @@
-Cercospora caryae Chupp & Doidge SPECIES
-=======
+# Cercospora caryae Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

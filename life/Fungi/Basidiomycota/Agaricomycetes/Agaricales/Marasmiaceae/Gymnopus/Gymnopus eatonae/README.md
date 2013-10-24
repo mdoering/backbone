@@ -1,5 +1,4 @@
-Gymnopus eatonae Murrill SPECIES
-=======
+# Gymnopus eatonae Murrill SPECIES
 
 #### Status
 ACCEPTED

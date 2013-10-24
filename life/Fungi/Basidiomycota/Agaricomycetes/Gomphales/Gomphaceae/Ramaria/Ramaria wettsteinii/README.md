@@ -1,5 +1,4 @@
-Ramaria wettsteinii (Singer) Parmasto SPECIES
-=======
+# Ramaria wettsteinii (Singer) Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium glabroides F. Stevens SPECIES
-=======
+# Coniothyrium glabroides F. Stevens SPECIES
 
 #### Status
 ACCEPTED

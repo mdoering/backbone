@@ -1,5 +1,4 @@
-Canoparmelia Elix & Hale GENUS
-=======
+# Canoparmelia Elix & Hale GENUS
 
 #### Status
 ACCEPTED

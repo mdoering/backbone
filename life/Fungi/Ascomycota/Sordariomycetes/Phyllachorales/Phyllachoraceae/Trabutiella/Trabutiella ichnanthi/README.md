@@ -1,5 +1,4 @@
-Trabutiella ichnanthi (Speg.) Seaver & Chardón, 1926 SPECIES
-=======
+# Trabutiella ichnanthi (Speg.) Seaver & Chardón, 1926 SPECIES
 
 #### Status
 ACCEPTED

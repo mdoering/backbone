@@ -1,5 +1,4 @@
-Amphisphaeria biocellata Pass. SPECIES
-=======
+# Amphisphaeria biocellata Pass. SPECIES
 
 #### Status
 ACCEPTED

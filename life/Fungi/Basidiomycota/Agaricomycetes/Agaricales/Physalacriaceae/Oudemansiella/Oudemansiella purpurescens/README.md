@@ -1,17 +1,16 @@
-Oudemansiella purpurascens Speg. SPECIES
-=======
+# Oudemansiella purpurescens Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Soc. Ciencias de Córdoba 28: 300 (1926)
 
 #### Original name
-Oudemansiella purpurascens Speg.
+Oudemansiella purpurescens Speg.
 
 ### Remarks
 null

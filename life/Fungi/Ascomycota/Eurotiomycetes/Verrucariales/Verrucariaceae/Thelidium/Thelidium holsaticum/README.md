@@ -1,5 +1,4 @@
-Thelidium holsaticum (Erichsen) Keissl. SPECIES
-=======
+# Thelidium holsaticum (Erichsen) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria candida Rabenh. SPECIES
-=======
+# Cribraria candida Rabenh. SPECIES
 
 #### Status
 ACCEPTED

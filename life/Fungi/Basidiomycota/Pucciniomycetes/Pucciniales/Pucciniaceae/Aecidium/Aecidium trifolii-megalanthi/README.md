@@ -1,5 +1,4 @@
-Aecidium trifolii-megalanthi Dietel & Neger SPECIES
-=======
+# Aecidium trifolii-megalanthi Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russellia Singh & Hanumaiah, 1979 GENUS
-=======
+# Russellia Singh & Hanumaiah, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia brucei Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia brucei Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

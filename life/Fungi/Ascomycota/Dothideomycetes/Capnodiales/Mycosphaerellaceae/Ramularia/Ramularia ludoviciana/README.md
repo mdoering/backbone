@@ -1,5 +1,4 @@
-Ramularia ludoviciana Minter, B.L. Brady & R.A. Hall, 1983 SPECIES
-=======
+# Ramularia ludoviciana Minter, B.L. Brady & R.A. Hall, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecotheus africanus R.S. Khan & J.C. Krug SPECIES
-=======
+# Thecotheus africanus R.S. Khan & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

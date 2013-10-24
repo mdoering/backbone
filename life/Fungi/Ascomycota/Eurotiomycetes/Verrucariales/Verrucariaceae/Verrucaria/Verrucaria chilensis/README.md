@@ -1,5 +1,4 @@
-Verrucaria chilensis (Mont.) Nyl. SPECIES
-=======
+# Verrucaria chilensis (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

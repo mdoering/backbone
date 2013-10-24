@@ -1,5 +1,4 @@
-Maireina stevensonii W.B. Cooke SPECIES
-=======
+# Maireina stevensonii W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

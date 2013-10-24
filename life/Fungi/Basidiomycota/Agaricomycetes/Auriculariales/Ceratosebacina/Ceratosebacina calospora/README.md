@@ -1,17 +1,16 @@
-Corticium circinatum (Ehrenb.) Fr., 1838 SPECIES
-=======
+# Ceratosebacina calospora (Bourdot & Galzin) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia cryptog. Estonica 33: 128 (1998)
 
 #### Original name
-null
+Exidiopsis calospora Bourdot & Galzin, 1924
 
 ### Remarks
 null

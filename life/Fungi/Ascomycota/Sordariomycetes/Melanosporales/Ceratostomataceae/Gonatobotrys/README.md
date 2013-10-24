@@ -1,17 +1,16 @@
-Glomerularia H. Karst. GENUS
-=======
+# Gonatobotrys Corda, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Ztg. 7: 368 (1849)
+null
 
 #### Original name
-Glomerularia H. Karst.
+null
 
 ### Remarks
 null

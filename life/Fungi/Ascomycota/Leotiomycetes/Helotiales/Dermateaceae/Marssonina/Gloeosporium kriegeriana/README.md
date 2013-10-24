@@ -1,5 +1,4 @@
-Gloeosporium kriegeriana (Bres.) Arx SPECIES
-=======
+# Gloeosporium kriegeriana (Bres.) Arx SPECIES
 
 #### Status
 ACCEPTED

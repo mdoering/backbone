@@ -1,5 +1,4 @@
-Leptosphaeria corallorhizae Peck SPECIES
-=======
+# Leptosphaeria corallorhizae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia obtecta (Zahlbr.) Gyeln. SPECIES
-=======
+# Parmelia obtecta (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

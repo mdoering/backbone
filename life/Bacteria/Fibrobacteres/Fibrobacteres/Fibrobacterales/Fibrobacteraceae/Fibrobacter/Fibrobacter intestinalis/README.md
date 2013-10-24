@@ -1,5 +1,4 @@
-Fibrobacter intestinalis Montgomery et al., 1988 SPECIES
-=======
+# Fibrobacter intestinalis Montgomery et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

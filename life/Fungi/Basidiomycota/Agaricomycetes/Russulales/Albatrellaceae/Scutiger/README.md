@@ -1,5 +1,4 @@
-Scutiger Paulet, 1793 GENUS
-=======
+# Scutiger Paulet, 1793 GENUS
 
 #### Status
 ACCEPTED

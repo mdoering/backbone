@@ -1,14 +1,13 @@
-Coelodendron Gamble in Lankester, 1909 GENUS
-=======
+# Coelodendrum Haeckel, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-in Lankester, Treat. Zool. , 1 (1), 104, 150.
+MonatsBer. Akad. Wiss. Berlin, 1860, 801.
 
 #### Original name
 null

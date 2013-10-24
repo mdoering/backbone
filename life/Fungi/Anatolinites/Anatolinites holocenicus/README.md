@@ -1,5 +1,4 @@
-Anatolinites holocenicus Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites holocenicus Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

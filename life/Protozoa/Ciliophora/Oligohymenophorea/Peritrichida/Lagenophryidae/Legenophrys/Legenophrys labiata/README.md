@@ -1,5 +1,4 @@
-Legenophrys labiata SPECIES
-=======
+# Legenophrys labiata SPECIES
 
 #### Status
 ACCEPTED

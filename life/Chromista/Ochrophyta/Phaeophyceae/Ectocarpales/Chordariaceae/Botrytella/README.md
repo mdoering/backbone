@@ -1,5 +1,4 @@
-Botrytella Bory de Saint-Vincent, 1822 GENUS
-=======
+# Botrytella Bory de Saint-Vincent, 1822 GENUS
 
 #### Status
 ACCEPTED

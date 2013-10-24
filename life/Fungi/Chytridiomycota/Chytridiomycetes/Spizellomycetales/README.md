@@ -1,5 +1,4 @@
-Spizellomycetales D.J.S. Barr ORDER
-=======
+# Spizellomycetales D.J.S. Barr ORDER
 
 #### Status
 ACCEPTED

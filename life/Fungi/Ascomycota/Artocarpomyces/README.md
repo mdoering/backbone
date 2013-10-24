@@ -1,5 +1,4 @@
-Artocarpomyces Subram. GENUS
-=======
+# Artocarpomyces Subram. GENUS
 
 #### Status
 ACCEPTED

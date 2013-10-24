@@ -1,5 +1,4 @@
-Gloeomucro chlorinus R.H. Petersen, 1980 SPECIES
-=======
+# Gloeomucro chlorinus R.H. Petersen, 1980 SPECIES
 
 #### Status
 ACCEPTED

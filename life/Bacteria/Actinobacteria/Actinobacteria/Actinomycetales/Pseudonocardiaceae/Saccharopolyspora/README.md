@@ -1,5 +1,4 @@
-Saccharopolyspora J. Lacey & Goodfellow GENUS
-=======
+# Saccharopolyspora J. Lacey & Goodfellow GENUS
 
 #### Status
 ACCEPTED

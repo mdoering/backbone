@@ -1,17 +1,16 @@
-Cercospora congronematis J.M. Yen & Gilles SPECIES
-=======
+# Cercospora gongronematis J.M. Yen & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen, Bull. trimest. Soc. mycol. Fr. 91(1): 97 (1975)
 
 #### Original name
-Cercospora congronematis J.M. Yen & Gilles
+Cercospora gongronematis J.M. Yen & Gilles
 
 ### Remarks
 null

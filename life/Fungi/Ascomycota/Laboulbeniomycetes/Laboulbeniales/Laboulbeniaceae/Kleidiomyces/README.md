@@ -1,5 +1,4 @@
-Kleidiomyces Thaxt. GENUS
-=======
+# Kleidiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

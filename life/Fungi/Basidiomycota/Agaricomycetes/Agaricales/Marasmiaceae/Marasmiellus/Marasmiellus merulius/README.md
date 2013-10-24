@@ -1,5 +1,4 @@
-Marasmiellus merulius (Bertero) Singer SPECIES
-=======
+# Marasmiellus merulius (Bertero) Singer SPECIES
 
 #### Status
 ACCEPTED

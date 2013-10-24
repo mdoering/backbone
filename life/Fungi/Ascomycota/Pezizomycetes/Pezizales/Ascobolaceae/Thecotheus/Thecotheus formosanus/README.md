@@ -1,5 +1,4 @@
-Thecotheus formosanus Yei Z. Wang SPECIES
-=======
+# Thecotheus formosanus Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelephora purpurea var. purpurea VARIETY
-=======
+# Chondrostereum purpureum (Pers.) Pouzar, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 13(1): 17 (1959)
 
 #### Original name
-Thelephora purpurea var. purpurea
+Stereum purpureum Pers., 1794
 
 ### Remarks
 null

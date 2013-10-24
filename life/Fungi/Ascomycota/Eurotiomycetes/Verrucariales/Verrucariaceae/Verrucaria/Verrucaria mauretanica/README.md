@@ -1,5 +1,4 @@
-Verrucaria mauretanica Werner SPECIES
-=======
+# Verrucaria mauretanica Werner SPECIES
 
 #### Status
 ACCEPTED

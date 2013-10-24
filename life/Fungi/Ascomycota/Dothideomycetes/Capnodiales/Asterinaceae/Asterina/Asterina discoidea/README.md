@@ -1,5 +1,4 @@
-Asterina discoidea Ellis SPECIES
-=======
+# Asterina discoidea Ellis SPECIES
 
 #### Status
 ACCEPTED

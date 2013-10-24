@@ -1,5 +1,4 @@
-Coriplites australis Foissner SPECIES
-=======
+# Coriplites australis Foissner SPECIES
 
 #### Status
 ACCEPTED

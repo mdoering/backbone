@@ -1,5 +1,4 @@
-Globulospinella Patterson, 1988 GENUS
-=======
+# Globulospinella Patterson, 1988 GENUS
 
 #### Status
 ACCEPTED

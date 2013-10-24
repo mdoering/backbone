@@ -1,17 +1,16 @@
-Agaricus rubellus verecundus Fr., 1836 INFRASPECIFIC_NAME
-=======
+# Entoloma verecundum (Fr.) Noordel., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(4): 507 (1980)
 
 #### Original name
-null
+Agaricus rubellus verecundus Fr., 1836
 
 ### Remarks
 null

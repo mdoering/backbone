@@ -1,5 +1,4 @@
-Amanita erythrocephala Neville, Poumarat & Aste SPECIES
-=======
+# Amanita erythrocephala Neville, Poumarat & Aste SPECIES
 
 #### Status
 ACCEPTED

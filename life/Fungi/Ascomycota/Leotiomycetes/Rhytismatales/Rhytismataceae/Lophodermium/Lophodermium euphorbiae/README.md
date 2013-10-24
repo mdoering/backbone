@@ -1,5 +1,4 @@
-Lophodermium euphorbiae Velen. SPECIES
-=======
+# Lophodermium euphorbiae Velen. SPECIES
 
 #### Status
 ACCEPTED

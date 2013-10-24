@@ -1,5 +1,4 @@
-Graphina aibonitensis Fink SPECIES
-=======
+# Graphina aibonitensis Fink SPECIES
 
 #### Status
 ACCEPTED

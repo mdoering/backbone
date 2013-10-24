@@ -1,5 +1,4 @@
-Marasmius galericola Ces. SPECIES
-=======
+# Marasmius galericola Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma calthae Link SPECIES
-=======
+# Caeoma calthae Link SPECIES
 
 #### Status
 ACCEPTED

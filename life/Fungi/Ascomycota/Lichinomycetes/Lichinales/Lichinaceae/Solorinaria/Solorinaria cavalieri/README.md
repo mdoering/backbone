@@ -1,5 +1,4 @@
-Solorinaria cavalieri (Werner) Faurel, Ozenda & Schotter SPECIES
-=======
+# Solorinaria cavalieri (Werner) Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

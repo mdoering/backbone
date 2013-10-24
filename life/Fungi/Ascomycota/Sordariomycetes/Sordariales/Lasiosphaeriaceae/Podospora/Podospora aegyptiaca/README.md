@@ -1,5 +1,4 @@
-Podospora aegyptiaca N. Lundq. SPECIES
-=======
+# Podospora aegyptiaca N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

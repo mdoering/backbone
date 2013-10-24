@@ -1,5 +1,4 @@
-Coprinus subrenispermus Singer SPECIES
-=======
+# Coprinus subrenispermus Singer SPECIES
 
 #### Status
 ACCEPTED

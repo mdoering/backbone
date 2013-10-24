@@ -1,5 +1,4 @@
-Hemiglossum congolense Le Gal SPECIES
-=======
+# Hemiglossum congolense Le Gal SPECIES
 
 #### Status
 ACCEPTED

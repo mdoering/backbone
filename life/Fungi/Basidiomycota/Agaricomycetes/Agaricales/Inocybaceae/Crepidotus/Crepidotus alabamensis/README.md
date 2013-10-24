@@ -1,5 +1,4 @@
-Crepidotus alabamensis Murrill SPECIES
-=======
+# Crepidotus alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

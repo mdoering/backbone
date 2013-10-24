@@ -1,5 +1,4 @@
-Caloporus subsquamosus (L.) Quél. SPECIES
-=======
+# Caloporus subsquamosus (L.) Quél. SPECIES
 
 #### Status
 ACCEPTED

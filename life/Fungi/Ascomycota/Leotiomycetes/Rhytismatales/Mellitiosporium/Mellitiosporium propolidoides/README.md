@@ -1,14 +1,13 @@
-Pleiostictis propolidoides Rehm, 1882 SPECIES
-=======
+# Mellitiosporium propolidoides (Rehm) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascom. Lojkani no. 24 (1882)
+Ascomycetes no. 125 (1888)
 
 #### Original name
 Pleiostictis propolidoides Rehm, 1882

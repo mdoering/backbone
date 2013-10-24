@@ -1,5 +1,4 @@
-Cylindrosporium parvum P.J. Anderson SPECIES
-=======
+# Cylindrosporium parvum P.J. Anderson SPECIES
 
 #### Status
 ACCEPTED

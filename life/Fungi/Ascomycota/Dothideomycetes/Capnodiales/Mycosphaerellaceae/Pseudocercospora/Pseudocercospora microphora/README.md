@@ -1,5 +1,4 @@
-Pseudocercospora microphora (Seshadri) Deighton SPECIES
-=======
+# Pseudocercospora microphora (Seshadri) Deighton SPECIES
 
 #### Status
 ACCEPTED

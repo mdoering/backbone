@@ -1,17 +1,16 @@
-Pleurotus atrocoeruleus var. atrocoeruleus (Fr.) Sacc. VARIETY
-=======
+# Hohenbuehelia atrocoerulea (Fr.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 377 (1887)
+Lilloa 22: 255 (1951)
 
 #### Original name
-Pleurotus atrocoeruleus var. atrocoeruleus (Fr.) Sacc.
+Agaricus atrocoeruleus Fr., 1815
 
 ### Remarks
 null

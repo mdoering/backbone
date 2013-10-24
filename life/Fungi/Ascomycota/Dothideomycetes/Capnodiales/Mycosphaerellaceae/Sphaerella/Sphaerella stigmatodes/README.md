@@ -1,5 +1,4 @@
-Sphaerella stigmatodes (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sphaerella stigmatodes (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

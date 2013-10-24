@@ -1,5 +1,4 @@
-Nitrobacter agilis SPECIES
-=======
+# Nitrobacter agilis SPECIES
 
 #### Status
 ACCEPTED

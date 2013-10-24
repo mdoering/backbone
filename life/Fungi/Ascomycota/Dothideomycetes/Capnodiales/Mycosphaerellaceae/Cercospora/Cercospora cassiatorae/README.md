@@ -1,5 +1,4 @@
-Cercospora cassiatorae R.C. Rajak SPECIES
-=======
+# Cercospora cassiatorae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

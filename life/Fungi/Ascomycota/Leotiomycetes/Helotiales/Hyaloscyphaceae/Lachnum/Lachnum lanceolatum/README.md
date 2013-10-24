@@ -1,5 +1,4 @@
-Lachnum lanceolatum Velen. SPECIES
-=======
+# Lachnum lanceolatum Velen. SPECIES
 
 #### Status
 ACCEPTED

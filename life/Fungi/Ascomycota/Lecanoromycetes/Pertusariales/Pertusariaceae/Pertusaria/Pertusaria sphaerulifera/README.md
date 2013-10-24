@@ -1,5 +1,4 @@
-Pertusaria sphaerulifera Vain. SPECIES
-=======
+# Pertusaria sphaerulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gromia terricola Leidy, 1874 SPECIES
-=======
+# Gromia terricola Leidy, 1874 SPECIES
 
 #### Status
 ACCEPTED

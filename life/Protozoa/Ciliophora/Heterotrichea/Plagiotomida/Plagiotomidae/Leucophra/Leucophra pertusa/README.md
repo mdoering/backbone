@@ -1,5 +1,4 @@
-Leucophra pertusa Müller, 1786 SPECIES
-=======
+# Leucophra pertusa Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

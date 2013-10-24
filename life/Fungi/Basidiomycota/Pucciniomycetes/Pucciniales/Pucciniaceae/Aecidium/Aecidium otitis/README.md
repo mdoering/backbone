@@ -1,5 +1,4 @@
-Aecidium otitis Schltdl. SPECIES
-=======
+# Aecidium otitis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

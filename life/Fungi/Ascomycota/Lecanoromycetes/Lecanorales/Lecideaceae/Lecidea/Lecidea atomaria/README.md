@@ -1,5 +1,4 @@
-Lecidea atomaria Th. Fr. SPECIES
-=======
+# Lecidea atomaria Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

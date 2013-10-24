@@ -1,5 +1,4 @@
-Omphalia flavolivens Mont. SPECIES
-=======
+# Omphalia flavolivens Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus terreus Schaeff. SPECIES
-=======
+# Boletus terreus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

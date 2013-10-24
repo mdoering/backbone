@@ -1,5 +1,4 @@
-Callistosporium Singer, 1944 GENUS
-=======
+# Callistosporium Singer, 1944 GENUS
 
 #### Status
 ACCEPTED

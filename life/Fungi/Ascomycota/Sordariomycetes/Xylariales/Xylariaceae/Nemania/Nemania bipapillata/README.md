@@ -1,14 +1,13 @@
-Hypoxylon bipapillatum Berk. & M.A. Curtis, 1853 SPECIES
-=======
+# Nemania bipapillata (Berk. & M.A. Curtis) Pouzar, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Acad. nat. Sci. Philad. , N. S. 2(2): 285 (1853)
+Ceská Mykol. 39(1): 24 (1985)
 
 #### Original name
 Hypoxylon bipapillatum Berk. & M.A. Curtis, 1853

@@ -1,8 +1,7 @@
-Holosticha binucleata Foissner, Peer & Adam, 1985 SPECIES
-=======
+# Keronopsis algivora (Gellert, 1942) Foissner, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

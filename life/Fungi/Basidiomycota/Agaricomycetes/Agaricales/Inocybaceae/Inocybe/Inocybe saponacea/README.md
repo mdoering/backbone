@@ -1,5 +1,4 @@
-Inocybe saponacea Kuyper SPECIES
-=======
+# Inocybe saponacea Kuyper SPECIES
 
 #### Status
 ACCEPTED

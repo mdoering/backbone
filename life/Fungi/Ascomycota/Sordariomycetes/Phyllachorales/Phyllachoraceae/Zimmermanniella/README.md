@@ -1,5 +1,4 @@
-Zimmermanniella Hennings, 1902 GENUS
-=======
+# Zimmermanniella Hennings, 1902 GENUS
 
 #### Status
 ACCEPTED

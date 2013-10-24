@@ -1,5 +1,4 @@
-Pannaria asahinae P. M. Jørg. SPECIES
-=======
+# Pannaria asahinae P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

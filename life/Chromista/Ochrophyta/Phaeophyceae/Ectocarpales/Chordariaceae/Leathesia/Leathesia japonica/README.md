@@ -1,5 +1,4 @@
-Leathesia japonica Inagaki SPECIES
-=======
+# Leathesia japonica Inagaki SPECIES
 
 #### Status
 ACCEPTED

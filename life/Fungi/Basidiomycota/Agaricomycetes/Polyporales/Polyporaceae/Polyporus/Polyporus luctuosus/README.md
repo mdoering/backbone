@@ -1,5 +1,4 @@
-Polyporus luctuosus Ces. SPECIES
-=======
+# Polyporus luctuosus Ces. SPECIES
 
 #### Status
 ACCEPTED

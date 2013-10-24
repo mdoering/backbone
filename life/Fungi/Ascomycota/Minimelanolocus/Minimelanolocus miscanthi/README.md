@@ -1,14 +1,13 @@
-Pseudospiropes miscanthi Matsush., 1987 SPECIES
-=======
+# Minimelanolocus miscanthi (Matsush.) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. 5: 26 (1987)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Pseudospiropes miscanthi Matsush., 1987

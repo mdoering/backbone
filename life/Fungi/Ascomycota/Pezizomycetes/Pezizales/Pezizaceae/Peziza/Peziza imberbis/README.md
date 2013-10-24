@@ -1,5 +1,4 @@
-Peziza imberbis SPECIES
-=======
+# Peziza imberbis SPECIES
 
 #### Status
 ACCEPTED

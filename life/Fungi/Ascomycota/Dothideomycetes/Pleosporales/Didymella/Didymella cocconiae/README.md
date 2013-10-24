@@ -1,5 +1,4 @@
-Didymella cocconiae Racib. SPECIES
-=======
+# Didymella cocconiae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium acerinum Peck SPECIES
-=======
+# Myxosporium acerinum Peck SPECIES
 
 #### Status
 ACCEPTED

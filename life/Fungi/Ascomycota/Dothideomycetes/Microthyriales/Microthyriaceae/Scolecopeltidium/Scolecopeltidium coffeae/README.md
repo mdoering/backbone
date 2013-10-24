@@ -1,5 +1,4 @@
-Scolecopeltidium coffeae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium coffeae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

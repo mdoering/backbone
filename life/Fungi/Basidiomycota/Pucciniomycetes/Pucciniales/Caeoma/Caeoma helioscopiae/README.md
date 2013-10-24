@@ -1,5 +1,4 @@
-Caeoma helioscopiae Schltdl. SPECIES
-=======
+# Caeoma helioscopiae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

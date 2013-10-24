@@ -1,5 +1,4 @@
-Crocynia guyanensis Hue SPECIES
-=======
+# Crocynia guyanensis Hue SPECIES
 
 #### Status
 ACCEPTED

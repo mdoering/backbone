@@ -1,5 +1,4 @@
-Opercularia parallela Kirk, 1885 SPECIES
-=======
+# Opercularia parallela Kirk, 1885 SPECIES
 
 #### Status
 ACCEPTED

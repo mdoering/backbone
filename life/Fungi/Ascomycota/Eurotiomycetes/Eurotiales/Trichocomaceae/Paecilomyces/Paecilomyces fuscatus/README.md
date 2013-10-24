@@ -1,17 +1,16 @@
-Paecilomyces fuscatum N. Inagaki SPECIES
-=======
+# Paecilomyces fuscatus N. Inagaki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 4: 4 (1962)
 
 #### Original name
-Paecilomyces fuscatum N. Inagaki
+Paecilomyces fuscatus N. Inagaki
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Daedalea polita Fr. SPECIES
-=======
+# Daedalea polita Fr. SPECIES
 
 #### Status
 ACCEPTED

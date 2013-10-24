@@ -1,5 +1,4 @@
-Loktanella koreensis Weon et al., 2006 SPECIES
-=======
+# Loktanella koreensis Weon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

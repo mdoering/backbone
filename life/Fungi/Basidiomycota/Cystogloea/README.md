@@ -1,5 +1,4 @@
-Cystogloea P. Roberts GENUS
-=======
+# Cystogloea P. Roberts GENUS
 
 #### Status
 ACCEPTED

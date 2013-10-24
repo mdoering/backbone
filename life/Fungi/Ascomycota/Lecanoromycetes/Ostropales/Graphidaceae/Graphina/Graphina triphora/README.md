@@ -1,5 +1,4 @@
-Graphina triphora (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina triphora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

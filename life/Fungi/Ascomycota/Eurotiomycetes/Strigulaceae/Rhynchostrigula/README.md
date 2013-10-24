@@ -1,17 +1,16 @@
-Rhynchnostrigula Bat., J.L. Bezerra & Cavalc. GENUS
-=======
+# Rhynchostrigula Bat., J.L. Bezerra & Cavalc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Pernambuco 3: 269 (1966)
 
 #### Original name
-Rhynchnostrigula Bat., J.L. Bezerra & Cavalc.
+Rhynchostrigula Bat., J.L. Bezerra & Cavalc.
 
 ### Remarks
 null

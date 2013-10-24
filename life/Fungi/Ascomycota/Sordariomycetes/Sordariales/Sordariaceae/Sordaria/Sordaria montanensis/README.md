@@ -1,5 +1,4 @@
-Sordaria montanensis Griffiths SPECIES
-=======
+# Sordaria montanensis Griffiths SPECIES
 
 #### Status
 ACCEPTED

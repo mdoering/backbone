@@ -1,5 +1,4 @@
-Sphaeropsis cordylines G.F. Laundon, 1973 SPECIES
-=======
+# Sphaeropsis cordylines G.F. Laundon, 1973 SPECIES
 
 #### Status
 ACCEPTED

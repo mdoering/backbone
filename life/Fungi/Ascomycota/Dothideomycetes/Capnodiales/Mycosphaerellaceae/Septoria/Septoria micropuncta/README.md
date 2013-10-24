@@ -1,5 +1,4 @@
-Septoria micropuncta Ellis & Everh. SPECIES
-=======
+# Septoria micropuncta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

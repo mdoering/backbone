@@ -1,17 +1,16 @@
-Thelocarpon laureri f. laureri FORM
-=======
+# Thelocarpon laureri (Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Imp. Sci. Nat. Cherbourg 3: 191 (1855)
 
 #### Original name
-Thelocarpon laureri f. laureri
+Sphaeropsis laureri Flot.
 
 ### Remarks
 null

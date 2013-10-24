@@ -1,5 +1,4 @@
-Sphaeria nigredo Schwein. SPECIES
-=======
+# Sphaeria nigredo Schwein. SPECIES
 
 #### Status
 ACCEPTED

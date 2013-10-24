@@ -1,5 +1,4 @@
-Cortinarius olivipes (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius olivipes (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

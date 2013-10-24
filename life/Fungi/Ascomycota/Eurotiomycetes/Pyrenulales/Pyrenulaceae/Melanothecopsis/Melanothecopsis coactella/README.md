@@ -1,14 +1,13 @@
-Pyrenula coactella (Stirt.) Upreti SPECIES
-=======
+# Melanothecopsis coactella (Stirt.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 66(3-4): 567 (1998)
+Nova Hedwigia 12: 310 (1967)
 
 #### Original name
 Melanotheca coactella Stirt.

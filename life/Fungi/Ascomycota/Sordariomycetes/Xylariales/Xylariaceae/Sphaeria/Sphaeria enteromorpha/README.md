@@ -1,5 +1,4 @@
-Sphaeria enteromorpha Lév. SPECIES
-=======
+# Sphaeria enteromorpha Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Puniceispirillum Oh, Kwon, Kang, Kang, Lee, Kim & Cho, 2010 GENUS
-=======
+# Candidatus Puniceispirillum GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

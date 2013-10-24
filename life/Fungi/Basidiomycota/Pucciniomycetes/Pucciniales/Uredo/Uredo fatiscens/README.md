@@ -1,5 +1,4 @@
-Uredo fatiscens Arthur SPECIES
-=======
+# Uredo fatiscens Arthur SPECIES
 
 #### Status
 ACCEPTED

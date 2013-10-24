@@ -1,5 +1,4 @@
-Dichostereum induratum (Berk.) Pilát SPECIES
-=======
+# Dichostereum induratum (Berk.) Pilát SPECIES
 
 #### Status
 ACCEPTED

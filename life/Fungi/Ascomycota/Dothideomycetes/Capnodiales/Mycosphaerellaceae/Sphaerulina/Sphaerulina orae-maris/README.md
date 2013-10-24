@@ -1,5 +1,4 @@
-Sphaerulina orae-maris Linder, 1944 SPECIES
-=======
+# Sphaerulina orae-maris Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

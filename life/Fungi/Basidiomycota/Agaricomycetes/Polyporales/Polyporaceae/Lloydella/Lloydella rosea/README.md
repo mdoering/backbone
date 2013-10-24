@@ -1,5 +1,4 @@
-Lloydella rosea (Yasuda) S. Ito SPECIES
-=======
+# Lloydella rosea (Yasuda) S. Ito SPECIES
 
 #### Status
 ACCEPTED

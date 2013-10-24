@@ -1,5 +1,4 @@
-Rhizophydium pedicellatum R.A. Paterson SPECIES
-=======
+# Rhizophydium pedicellatum R.A. Paterson SPECIES
 
 #### Status
 ACCEPTED

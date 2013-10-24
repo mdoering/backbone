@@ -1,5 +1,4 @@
-Exoascus longipes G.F. Atk. SPECIES
-=======
+# Exoascus longipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

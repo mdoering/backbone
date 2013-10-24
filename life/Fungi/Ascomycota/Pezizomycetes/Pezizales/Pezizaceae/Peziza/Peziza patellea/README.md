@@ -1,5 +1,4 @@
-Peziza patellea Fr. SPECIES
-=======
+# Peziza patellea Fr. SPECIES
 
 #### Status
 ACCEPTED

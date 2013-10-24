@@ -1,5 +1,4 @@
-Pachnocybe ferruginea Berk., 1836 SPECIES
-=======
+# Pachnocybe ferruginea Berk., 1836 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramicrothallites spinulatus (Dilcher) K.P. Jain & R.C. Gupta SPECIES
-=======
+# Paramicrothallites spinulatus (Dilcher) K.P. Jain & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

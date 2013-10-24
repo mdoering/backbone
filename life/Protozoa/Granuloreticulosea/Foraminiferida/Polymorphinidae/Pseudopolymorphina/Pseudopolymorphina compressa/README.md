@@ -1,5 +1,4 @@
-Pseudopolymorphina compressa (d'Orbigny, 1846) SPECIES
-=======
+# Pseudopolymorphina compressa (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

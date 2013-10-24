@@ -1,5 +1,4 @@
-Lichen diasporus Ach. SPECIES
-=======
+# Lichen diasporus Ach. SPECIES
 
 #### Status
 ACCEPTED

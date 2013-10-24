@@ -1,5 +1,4 @@
-Pholiotina alpina E. Horak SPECIES
-=======
+# Pholiotina alpina E. Horak SPECIES
 
 #### Status
 ACCEPTED

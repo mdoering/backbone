@@ -1,5 +1,4 @@
-Uredo bambusarum Henn. SPECIES
-=======
+# Uredo bambusarum Henn. SPECIES
 
 #### Status
 ACCEPTED

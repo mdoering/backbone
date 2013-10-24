@@ -1,5 +1,4 @@
-Boletus mottiae Thiers SPECIES
-=======
+# Boletus mottiae Thiers SPECIES
 
 #### Status
 ACCEPTED

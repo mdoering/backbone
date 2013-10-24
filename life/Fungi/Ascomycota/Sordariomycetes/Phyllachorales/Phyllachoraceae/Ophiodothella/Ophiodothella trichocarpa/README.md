@@ -1,5 +1,4 @@
-Ophiodothella trichocarpa Syd., 1925 SPECIES
-=======
+# Ophiodothella trichocarpa Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

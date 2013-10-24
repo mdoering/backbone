@@ -1,5 +1,4 @@
-Phragmonaevia lauri Pat. SPECIES
-=======
+# Phragmonaevia lauri Pat. SPECIES
 
 #### Status
 ACCEPTED

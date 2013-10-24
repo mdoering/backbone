@@ -1,5 +1,4 @@
-Psilocistella macrospora Raitv. SPECIES
-=======
+# Psilocistella macrospora Raitv. SPECIES
 
 #### Status
 ACCEPTED

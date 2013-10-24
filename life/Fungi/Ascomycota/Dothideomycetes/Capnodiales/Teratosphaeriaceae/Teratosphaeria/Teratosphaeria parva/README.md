@@ -1,5 +1,4 @@
-Teratosphaeria parva (R.F. Park & Keane) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria parva (R.F. Park & Keane) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

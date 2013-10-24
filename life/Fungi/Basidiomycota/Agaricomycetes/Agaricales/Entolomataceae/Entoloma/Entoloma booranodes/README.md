@@ -1,5 +1,4 @@
-Entoloma booranodes Grgur. SPECIES
-=======
+# Entoloma booranodes Grgur. SPECIES
 
 #### Status
 ACCEPTED

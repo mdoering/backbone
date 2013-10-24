@@ -1,5 +1,4 @@
-Ascospora botrychii Lebedeva SPECIES
-=======
+# Ascospora botrychii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

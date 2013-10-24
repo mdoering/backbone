@@ -1,5 +1,4 @@
-Tomentella fatrensis Svrcek SPECIES
-=======
+# Tomentella fatrensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius utilis (Weinm.) Fr. SPECIES
-=======
+# Lactarius utilis (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

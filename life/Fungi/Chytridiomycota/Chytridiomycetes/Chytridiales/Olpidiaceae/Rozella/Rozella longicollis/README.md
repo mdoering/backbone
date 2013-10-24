@@ -1,5 +1,4 @@
-Rozella longicollis Karling, 1966 SPECIES
-=======
+# Rozella longicollis Karling, 1966 SPECIES
 
 #### Status
 ACCEPTED

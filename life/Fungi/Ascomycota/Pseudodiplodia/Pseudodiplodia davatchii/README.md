@@ -1,5 +1,4 @@
-Pseudodiplodia davatchii (Esfand.) Petr. SPECIES
-=======
+# Pseudodiplodia davatchii (Esfand.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma nigripes (Fr.) Kuntze SPECIES
-=======
+# Scindalma nigripes (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

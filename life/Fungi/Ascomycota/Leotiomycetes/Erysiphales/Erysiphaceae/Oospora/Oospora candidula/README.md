@@ -1,5 +1,4 @@
-Oospora candidula var. carpogena Sacc. VARIETY
-=======
+# Oospora candidula Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oospora candidula var. carpogena Sacc.
+Oospora candidula Sacc.
 
 ### Remarks
 null

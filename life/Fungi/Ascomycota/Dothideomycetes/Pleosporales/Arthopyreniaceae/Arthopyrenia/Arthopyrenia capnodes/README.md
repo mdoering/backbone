@@ -1,5 +1,4 @@
-Arthopyrenia capnodes (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia capnodes (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

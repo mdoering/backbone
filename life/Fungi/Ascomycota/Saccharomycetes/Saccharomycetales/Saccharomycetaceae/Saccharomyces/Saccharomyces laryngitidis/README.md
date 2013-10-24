@@ -1,5 +1,4 @@
-Saccharomyces laryngitidis Sartory & Potier SPECIES
-=======
+# Saccharomyces laryngitidis Sartory & Potier SPECIES
 
 #### Status
 ACCEPTED

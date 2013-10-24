@@ -1,5 +1,4 @@
-Macroptycha perforata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
-=======
+# Macroptycha perforata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

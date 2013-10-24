@@ -1,5 +1,4 @@
-Collema vespertilio (Lightf.) Hoffm. SPECIES
-=======
+# Collema vespertilio (Lightf.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

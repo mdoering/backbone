@@ -1,5 +1,4 @@
-Trichocladium indicum V.G. Rao, K.A. Reddy, D.R. Kumar & B.S. Reddy SPECIES
-=======
+# Trichocladium indicum V.G. Rao, K.A. Reddy, D.R. Kumar & B.S. Reddy SPECIES
 
 #### Status
 ACCEPTED

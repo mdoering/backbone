@@ -1,5 +1,4 @@
-Perenniporia decurrata Corner, 1989 SPECIES
-=======
+# Perenniporia decurrata Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

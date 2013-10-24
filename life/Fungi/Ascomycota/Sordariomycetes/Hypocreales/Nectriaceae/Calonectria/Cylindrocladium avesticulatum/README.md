@@ -1,5 +1,4 @@
-Cylindrocladium avesticulatum var. avesticulatum VARIETY
-=======
+# Cylindrocladium avesticulatum D.L. Gill, Alfieri & Sobers SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Phytopathology 61(1): 60 (1971)
 
 #### Original name
-Cylindrocladium avesticulatum var. avesticulatum
+Cylindrocladium avesticulatum D.L. Gill, Alfieri & Sobers
 
 ### Remarks
 null

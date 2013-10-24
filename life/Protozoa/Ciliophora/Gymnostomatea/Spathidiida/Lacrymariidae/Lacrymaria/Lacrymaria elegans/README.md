@@ -1,5 +1,4 @@
-Lacrymaria elegans Dumas, 1930 SPECIES
-=======
+# Lacrymaria elegans Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

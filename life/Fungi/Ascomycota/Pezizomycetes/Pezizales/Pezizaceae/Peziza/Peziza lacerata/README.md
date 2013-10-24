@@ -1,5 +1,4 @@
-Peziza lacerata Cooke & W. Phillips SPECIES
-=======
+# Peziza lacerata Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

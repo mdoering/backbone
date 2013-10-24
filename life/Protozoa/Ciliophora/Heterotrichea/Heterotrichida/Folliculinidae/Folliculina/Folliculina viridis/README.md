@@ -1,5 +1,4 @@
-Folliculina viridis Wright, 185 SPECIES
-=======
+# Folliculina viridis Wright, 185 SPECIES
 
 #### Status
 ACCEPTED

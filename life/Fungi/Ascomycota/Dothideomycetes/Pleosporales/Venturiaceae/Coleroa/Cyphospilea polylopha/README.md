@@ -1,5 +1,4 @@
-Cyphospilea polylopha Syd. SPECIES
-=======
+# Cyphospilea polylopha Syd. SPECIES
 
 #### Status
 ACCEPTED

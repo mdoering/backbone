@@ -1,5 +1,4 @@
-Marasmiellus roseipallens (Murrill) Singer SPECIES
-=======
+# Marasmiellus roseipallens (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

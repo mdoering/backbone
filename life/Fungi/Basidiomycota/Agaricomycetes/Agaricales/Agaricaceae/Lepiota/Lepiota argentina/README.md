@@ -1,5 +1,4 @@
-Lepiota argentina Raithelh. SPECIES
-=======
+# Lepiota argentina Raithelh. SPECIES
 
 #### Status
 ACCEPTED

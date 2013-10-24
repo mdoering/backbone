@@ -1,5 +1,4 @@
-Uredo psorospermi Vienn.-Bourg. SPECIES
-=======
+# Uredo psorospermi Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

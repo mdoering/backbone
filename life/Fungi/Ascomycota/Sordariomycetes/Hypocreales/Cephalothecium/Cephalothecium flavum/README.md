@@ -1,5 +1,4 @@
-Cephalothecium flavum Rivolta SPECIES
-=======
+# Cephalothecium flavum Rivolta SPECIES
 
 #### Status
 ACCEPTED

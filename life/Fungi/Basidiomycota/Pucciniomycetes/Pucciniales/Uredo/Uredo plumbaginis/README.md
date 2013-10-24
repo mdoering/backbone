@@ -1,5 +1,4 @@
-Uredo plumbaginis W.G. Schneid. SPECIES
-=======
+# Uredo plumbaginis W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

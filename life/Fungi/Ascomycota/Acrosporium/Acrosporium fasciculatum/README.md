@@ -1,5 +1,4 @@
-Acrosporium fasciculatum Grev. SPECIES
-=======
+# Acrosporium fasciculatum Grev. SPECIES
 
 #### Status
 ACCEPTED

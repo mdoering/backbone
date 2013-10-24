@@ -1,5 +1,4 @@
-Pestalotia dodonaeae Canonaco SPECIES
-=======
+# Pestalotia dodonaeae Canonaco SPECIES
 
 #### Status
 ACCEPTED

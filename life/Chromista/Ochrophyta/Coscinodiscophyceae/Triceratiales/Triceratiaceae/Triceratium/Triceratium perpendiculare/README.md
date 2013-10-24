@@ -1,5 +1,4 @@
-Triceratium perpendiculare Lin & Chin SPECIES
-=======
+# Triceratium perpendiculare Lin & Chin SPECIES
 
 #### Status
 ACCEPTED

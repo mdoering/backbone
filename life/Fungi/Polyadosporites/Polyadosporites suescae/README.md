@@ -1,5 +1,4 @@
-Polyadosporites suescae Hammen SPECIES
-=======
+# Polyadosporites suescae Hammen SPECIES
 
 #### Status
 ACCEPTED

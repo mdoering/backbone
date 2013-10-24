@@ -1,5 +1,4 @@
-Uredo paspali-longiflori Petch SPECIES
-=======
+# Uredo paspali-longiflori Petch SPECIES
 
 #### Status
 ACCEPTED

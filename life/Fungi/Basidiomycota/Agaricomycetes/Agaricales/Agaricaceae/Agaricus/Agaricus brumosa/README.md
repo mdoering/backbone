@@ -1,5 +1,4 @@
-Agaricus brumosa Britzelm. SPECIES
-=======
+# Agaricus brumosa Britzelm. SPECIES
 
 #### Status
 ACCEPTED

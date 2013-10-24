@@ -1,5 +1,4 @@
-Favolaschia anemoenerosea Henn., 1904 SPECIES
-=======
+# Favolaschia anemoenerosea Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

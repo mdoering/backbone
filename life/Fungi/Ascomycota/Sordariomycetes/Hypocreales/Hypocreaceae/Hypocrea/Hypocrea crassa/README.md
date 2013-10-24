@@ -1,5 +1,4 @@
-Hypocrea crassa P. Chaverri & Samuels, 2003 SPECIES
-=======
+# Hypocrea crassa P. Chaverri & Samuels, 2003 SPECIES
 
 #### Status
 ACCEPTED

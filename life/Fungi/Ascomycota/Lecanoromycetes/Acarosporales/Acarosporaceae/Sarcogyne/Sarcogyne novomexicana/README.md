@@ -1,5 +1,4 @@
-Sarcogyne novomexicana H. Magn. SPECIES
-=======
+# Sarcogyne novomexicana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

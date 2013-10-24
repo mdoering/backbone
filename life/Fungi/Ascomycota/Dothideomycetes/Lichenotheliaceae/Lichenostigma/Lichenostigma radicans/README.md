@@ -1,5 +1,4 @@
-Lichenostigma radicans Calat. & Barreno SPECIES
-=======
+# Lichenostigma radicans Calat. & Barreno SPECIES
 
 #### Status
 ACCEPTED

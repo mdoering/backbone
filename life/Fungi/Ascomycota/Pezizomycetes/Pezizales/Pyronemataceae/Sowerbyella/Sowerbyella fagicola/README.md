@@ -1,5 +1,4 @@
-Sowerbyella fagicola J. Moravec, 1973 SPECIES
-=======
+# Sowerbyella fagicola J. Moravec, 1973 SPECIES
 
 #### Status
 ACCEPTED

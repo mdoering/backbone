@@ -1,5 +1,4 @@
-Cordyceps mitrata Pat. SPECIES
-=======
+# Cordyceps mitrata Pat. SPECIES
 
 #### Status
 ACCEPTED

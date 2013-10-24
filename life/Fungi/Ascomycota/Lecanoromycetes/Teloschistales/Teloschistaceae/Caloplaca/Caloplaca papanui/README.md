@@ -1,5 +1,4 @@
-Caloplaca papanui D. J. Galloway SPECIES
-=======
+# Caloplaca papanui D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

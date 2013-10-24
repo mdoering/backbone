@@ -1,5 +1,4 @@
-Stilbum kermesii Speg. SPECIES
-=======
+# Stilbum kermesii Speg. SPECIES
 
 #### Status
 ACCEPTED

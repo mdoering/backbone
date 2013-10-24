@@ -1,5 +1,4 @@
-Marasmius hinnuleus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius hinnuleus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

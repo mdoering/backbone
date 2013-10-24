@@ -1,5 +1,4 @@
-Eutypa aurantiicola Speg. SPECIES
-=======
+# Eutypa aurantiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

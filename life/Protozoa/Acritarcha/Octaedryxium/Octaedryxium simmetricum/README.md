@@ -1,5 +1,4 @@
-Octaedryxium simmetricum Timofeev, 1973 SPECIES
-=======
+# Octaedryxium simmetricum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

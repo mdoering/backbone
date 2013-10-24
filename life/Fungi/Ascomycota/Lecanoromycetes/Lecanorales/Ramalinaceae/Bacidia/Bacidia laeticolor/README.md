@@ -1,5 +1,4 @@
-Bacidia laeticolor Malme SPECIES
-=======
+# Bacidia laeticolor Malme SPECIES
 
 #### Status
 ACCEPTED

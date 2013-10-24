@@ -1,5 +1,4 @@
-Solicorynespora mulanjeensis (B. Sutton) R.F. Castañeda, M. Stadler & Guarro SPECIES
-=======
+# Solicorynespora mulanjeensis (B. Sutton) R.F. Castañeda, M. Stadler & Guarro SPECIES
 
 #### Status
 ACCEPTED

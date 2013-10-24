@@ -1,5 +1,4 @@
-Lichen fugax Wulfen SPECIES
-=======
+# Lichen fugax Wulfen SPECIES
 
 #### Status
 ACCEPTED

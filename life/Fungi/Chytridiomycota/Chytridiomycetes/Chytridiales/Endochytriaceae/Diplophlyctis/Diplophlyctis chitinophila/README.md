@@ -1,5 +1,4 @@
-Diplophlyctis chitinophila Willoughby, 1962 SPECIES
-=======
+# Diplophlyctis chitinophila Willoughby, 1962 SPECIES
 
 #### Status
 ACCEPTED

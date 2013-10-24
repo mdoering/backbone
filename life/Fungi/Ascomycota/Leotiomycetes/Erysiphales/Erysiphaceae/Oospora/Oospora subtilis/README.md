@@ -1,5 +1,4 @@
-Oospora subtilis (R. Blanch.) Sacc. SPECIES
-=======
+# Oospora subtilis (R. Blanch.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon sphinctrinum Bull. SPECIES
-=======
+# Hypoxylon sphinctrinum Bull. SPECIES
 
 #### Status
 ACCEPTED

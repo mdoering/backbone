@@ -1,5 +1,4 @@
-Ascochyta linariae Bond.-Mont. SPECIES
-=======
+# Ascochyta linariae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

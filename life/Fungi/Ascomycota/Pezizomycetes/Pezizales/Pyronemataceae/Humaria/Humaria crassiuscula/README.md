@@ -1,5 +1,4 @@
-Humaria crassiuscula (Marchal & É.J. Marchal) Sacc. SPECIES
-=======
+# Humaria crassiuscula (Marchal & É.J. Marchal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Detonula moseleyana (F.S.Castracane degli Antelminelli) H.H.Gran SPECIES
-=======
+# Detonula moseleyana (F.S.Castracane degli Antelminelli) H.H.Gran SPECIES
 
 #### Status
 ACCEPTED

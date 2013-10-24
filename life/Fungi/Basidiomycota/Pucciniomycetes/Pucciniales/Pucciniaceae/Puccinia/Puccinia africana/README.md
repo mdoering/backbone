@@ -1,5 +1,4 @@
-Puccinia africana Cooke SPECIES
-=======
+# Puccinia africana Cooke SPECIES
 
 #### Status
 ACCEPTED

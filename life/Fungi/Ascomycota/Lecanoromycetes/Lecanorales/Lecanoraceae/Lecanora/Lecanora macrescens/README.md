@@ -1,5 +1,4 @@
-Lecanora macrescens var. macrescens VARIETY
-=======
+# Lecanora macrescens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora macrescens var. macrescens
+Lecanora macrescens Vain.
 
 ### Remarks
 null

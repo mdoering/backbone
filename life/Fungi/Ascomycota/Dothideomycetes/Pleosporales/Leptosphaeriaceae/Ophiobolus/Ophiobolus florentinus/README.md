@@ -1,5 +1,4 @@
-Ophiobolus florentinus Berl. SPECIES
-=======
+# Ophiobolus florentinus Berl. SPECIES
 
 #### Status
 ACCEPTED

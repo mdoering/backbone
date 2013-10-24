@@ -1,5 +1,4 @@
-Sporisorium spodiopogonis (M.S. Patil) Vánky SPECIES
-=======
+# Sporisorium spodiopogonis (M.S. Patil) Vánky SPECIES
 
 #### Status
 ACCEPTED

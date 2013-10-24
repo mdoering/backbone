@@ -1,5 +1,4 @@
-Micropera taxi Sacc. SPECIES
-=======
+# Micropera taxi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax torquiformis Zheng, 1988 SPECIES
-=======
+# Reophax torquiformis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

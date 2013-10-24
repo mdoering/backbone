@@ -1,5 +1,4 @@
-Favolaschia infundibuliformis (Berk.) Kuntze SPECIES
-=======
+# Favolaschia infundibuliformis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

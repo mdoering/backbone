@@ -1,5 +1,4 @@
-Geoglossum alpinum Eckblad SPECIES
-=======
+# Geoglossum alpinum Eckblad SPECIES
 
 #### Status
 ACCEPTED

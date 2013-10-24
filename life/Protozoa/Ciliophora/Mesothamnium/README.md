@@ -1,5 +1,4 @@
-Mesothamnium Jankowski, 1985 GENUS
-=======
+# Mesothamnium Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

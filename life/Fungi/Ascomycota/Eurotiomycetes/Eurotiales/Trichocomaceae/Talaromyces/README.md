@@ -1,5 +1,4 @@
-Talaromyces C.R. Benj. GENUS
-=======
+# Talaromyces C.R. Benj. GENUS
 
 #### Status
 ACCEPTED

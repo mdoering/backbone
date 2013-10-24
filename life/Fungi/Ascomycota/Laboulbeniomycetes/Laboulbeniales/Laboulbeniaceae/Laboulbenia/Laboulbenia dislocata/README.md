@@ -1,5 +1,4 @@
-Laboulbenia dislocata Thaxt. SPECIES
-=======
+# Laboulbenia dislocata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

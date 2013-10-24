@@ -1,5 +1,4 @@
-Lecanora aequata Hue SPECIES
-=======
+# Lecanora aequata Hue SPECIES
 
 #### Status
 ACCEPTED

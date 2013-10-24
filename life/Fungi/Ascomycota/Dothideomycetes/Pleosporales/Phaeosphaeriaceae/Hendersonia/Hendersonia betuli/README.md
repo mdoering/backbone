@@ -1,5 +1,4 @@
-Hendersonia betuli Verpl. & Van den Broecke SPECIES
-=======
+# Hendersonia betuli Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

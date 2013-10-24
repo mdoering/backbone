@@ -1,5 +1,4 @@
-Cortinarius megasporus Singer SPECIES
-=======
+# Cortinarius megasporus Singer SPECIES
 
 #### Status
 ACCEPTED

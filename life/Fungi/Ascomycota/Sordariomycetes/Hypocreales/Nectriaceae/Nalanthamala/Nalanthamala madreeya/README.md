@@ -1,5 +1,4 @@
-Nalanthamala madreeya Subram., 1956 SPECIES
-=======
+# Nalanthamala madreeya Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

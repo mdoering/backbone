@@ -1,5 +1,4 @@
-Mycena subalbida Métrod SPECIES
-=======
+# Mycena subalbida Métrod SPECIES
 
 #### Status
 ACCEPTED

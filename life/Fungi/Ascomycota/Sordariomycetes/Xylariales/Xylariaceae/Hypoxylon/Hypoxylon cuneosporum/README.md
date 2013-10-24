@@ -1,5 +1,4 @@
-Hypoxylon cuneosporum P.M.D. Martin SPECIES
-=======
+# Hypoxylon cuneosporum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

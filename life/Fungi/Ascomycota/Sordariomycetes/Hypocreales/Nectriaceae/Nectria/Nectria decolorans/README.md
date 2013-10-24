@@ -1,5 +1,4 @@
-Nectria decolorans Fr. SPECIES
-=======
+# Nectria decolorans Fr. SPECIES
 
 #### Status
 ACCEPTED

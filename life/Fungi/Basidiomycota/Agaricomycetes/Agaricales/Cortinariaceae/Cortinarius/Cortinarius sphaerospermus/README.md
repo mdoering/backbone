@@ -1,17 +1,16 @@
-Cortinarius sphaerosperma Kauffman SPECIES
-=======
+# Cortinarius sphaerospermus Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publications Mich. geol. biol. Surv. , Biol. Ser. 5 26: 347 (1918)
 
 #### Original name
-Cortinarius sphaerosperma Kauffman
+Cortinarius sphaerospermus Kauffman
 
 ### Remarks
 null

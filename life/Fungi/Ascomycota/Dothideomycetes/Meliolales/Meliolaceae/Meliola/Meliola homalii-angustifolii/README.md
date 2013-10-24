@@ -1,5 +1,4 @@
-Meliola homalii-angustifolii (Deighton) Cif. SPECIES
-=======
+# Meliola homalii-angustifolii (Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

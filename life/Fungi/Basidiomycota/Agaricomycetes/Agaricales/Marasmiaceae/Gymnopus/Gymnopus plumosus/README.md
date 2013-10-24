@@ -1,5 +1,4 @@
-Gymnopus plumosus (Bolton) Gray SPECIES
-=======
+# Gymnopus plumosus (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

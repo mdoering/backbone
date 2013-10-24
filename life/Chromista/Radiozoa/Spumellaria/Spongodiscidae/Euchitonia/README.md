@@ -1,5 +1,4 @@
-Euchitonia Ehrenberg, 1861 GENUS
-=======
+# Euchitonia Ehrenberg, 1861 GENUS
 
 #### Status
 ACCEPTED

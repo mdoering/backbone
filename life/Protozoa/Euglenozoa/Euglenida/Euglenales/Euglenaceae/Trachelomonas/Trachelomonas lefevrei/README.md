@@ -1,8 +1,7 @@
-Trachelomonas lefèvrei Deflandre SPECIES
-=======
+# Trachelomonas lefevrei Deflandre, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

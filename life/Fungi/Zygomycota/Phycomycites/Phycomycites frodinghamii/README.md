@@ -1,5 +1,4 @@
-Phycomycites frodinghamii D.E. Ellis SPECIES
-=======
+# Phycomycites frodinghamii D.E. Ellis SPECIES
 
 #### Status
 ACCEPTED

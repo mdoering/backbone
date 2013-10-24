@@ -1,5 +1,4 @@
-Stylonychia minimus SPECIES
-=======
+# Stylonychia minimus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orphniosporomyces GENUS
-=======
+# Orphniosporomyces GENUS
 
 #### Status
 ACCEPTED

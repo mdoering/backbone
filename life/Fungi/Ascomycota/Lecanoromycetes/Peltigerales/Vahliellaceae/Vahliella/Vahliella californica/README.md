@@ -1,17 +1,16 @@
-Fuscopannaria californica (Tuck.) P. M. Jørg. SPECIES
-=======
+# Vahliella californica (Tuck.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 40(3): 223 (2008)
 
 #### Original name
-null
+Pannaria microphylla f. californica Tuck.
 
 ### Remarks
 null

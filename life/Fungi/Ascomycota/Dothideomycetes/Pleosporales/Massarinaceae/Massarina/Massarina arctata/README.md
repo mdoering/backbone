@@ -1,5 +1,4 @@
-Massarina arctata (Stirt.) D. Hawksw. SPECIES
-=======
+# Massarina arctata (Stirt.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Primoriina Sosnina, 1981 GENUS
-=======
+# Primoriina Sosnina, 1981 GENUS
 
 #### Status
 ACCEPTED

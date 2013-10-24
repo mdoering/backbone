@@ -1,5 +1,4 @@
-Polyporus cremoricolor Berk. SPECIES
-=======
+# Polyporus cremoricolor Berk. SPECIES
 
 #### Status
 ACCEPTED

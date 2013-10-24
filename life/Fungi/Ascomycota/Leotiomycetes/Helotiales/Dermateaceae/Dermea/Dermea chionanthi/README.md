@@ -1,5 +1,4 @@
-Dermea chionanthi Ellis & Everh. SPECIES
-=======
+# Dermea chionanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

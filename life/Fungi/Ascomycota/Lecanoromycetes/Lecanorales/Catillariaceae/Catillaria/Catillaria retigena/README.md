@@ -1,5 +1,4 @@
-Catillaria retigena (Hedl.) H. Magn. SPECIES
-=======
+# Catillaria retigena (Hedl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

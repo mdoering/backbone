@@ -1,5 +1,4 @@
-Calloria deliculata P. Karst. SPECIES
-=======
+# Calloria deliculata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

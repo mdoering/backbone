@@ -1,5 +1,4 @@
-Passalora braunii (S.K. Singh, Arch. Singh & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora braunii (S.K. Singh, Arch. Singh & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

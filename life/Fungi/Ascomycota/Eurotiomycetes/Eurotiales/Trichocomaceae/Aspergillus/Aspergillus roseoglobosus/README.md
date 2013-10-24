@@ -1,5 +1,4 @@
-Aspergillus roseoglobosus Frisvad & Samson SPECIES
-=======
+# Aspergillus roseoglobosus Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

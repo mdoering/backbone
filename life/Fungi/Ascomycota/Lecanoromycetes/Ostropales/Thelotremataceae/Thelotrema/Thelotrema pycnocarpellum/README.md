@@ -1,5 +1,4 @@
-Thelotrema pycnocarpellum Nyl. SPECIES
-=======
+# Thelotrema pycnocarpellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

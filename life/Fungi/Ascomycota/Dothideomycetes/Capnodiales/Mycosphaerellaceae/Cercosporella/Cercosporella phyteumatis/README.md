@@ -1,5 +1,4 @@
-Cercosporella phyteumatis (A.B. Frank) Sacc. SPECIES
-=======
+# Cercosporella phyteumatis (A.B. Frank) Sacc. SPECIES
 
 #### Status
 ACCEPTED

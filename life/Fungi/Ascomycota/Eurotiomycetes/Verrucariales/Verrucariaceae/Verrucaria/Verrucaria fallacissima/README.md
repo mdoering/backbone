@@ -1,5 +1,4 @@
-Verrucaria fallacissima Stizenb. SPECIES
-=======
+# Verrucaria fallacissima Stizenb. SPECIES
 
 #### Status
 ACCEPTED

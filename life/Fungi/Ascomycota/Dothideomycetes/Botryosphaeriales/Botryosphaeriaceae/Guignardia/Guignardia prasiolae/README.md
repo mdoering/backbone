@@ -1,5 +1,4 @@
-Guignardia prasiolae (G. Winter) Lemmerm., 1901 SPECIES
-=======
+# Guignardia prasiolae (G. Winter) Lemmerm., 1901 SPECIES
 
 #### Status
 ACCEPTED

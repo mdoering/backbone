@@ -1,14 +1,13 @@
-Lecanactis flava Vain. SPECIES
-=======
+# Cresponea flava (Vain.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Welwitsch Afric. Pl. 2: 430 (1901)
+Mycotaxon 48: 314 (1993)
 
 #### Original name
 Lecanactis flava Vain.

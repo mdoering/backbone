@@ -1,14 +1,13 @@
-Aeruginospora hymenocephala (A.H. Sm. & Hesler) Singer, 1962 SPECIES
-=======
+# Camarophyllopsis hymenocephala (A.H. Sm. & Hesler) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 46 (1962)
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
 Hygrophorus hymenocephalus A.H. Sm. & Hesler, 1942

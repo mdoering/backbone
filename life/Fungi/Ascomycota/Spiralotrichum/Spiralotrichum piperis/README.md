@@ -1,5 +1,4 @@
-Spiralotrichum piperis H.S. Yates SPECIES
-=======
+# Spiralotrichum piperis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

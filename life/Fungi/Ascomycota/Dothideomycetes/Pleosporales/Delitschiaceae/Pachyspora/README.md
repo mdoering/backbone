@@ -1,5 +1,4 @@
-Pachyspora GENUS
-=======
+# Pachyspora GENUS
 
 #### Status
 ACCEPTED

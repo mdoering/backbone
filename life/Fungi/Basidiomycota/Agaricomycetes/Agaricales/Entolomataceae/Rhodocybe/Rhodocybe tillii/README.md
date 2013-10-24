@@ -1,5 +1,4 @@
-Rhodocybe tillii Krisai & Noordel. SPECIES
-=======
+# Rhodocybe tillii Krisai & Noordel. SPECIES
 
 #### Status
 ACCEPTED

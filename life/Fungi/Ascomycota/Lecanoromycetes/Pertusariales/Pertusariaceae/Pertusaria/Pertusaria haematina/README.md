@@ -1,5 +1,4 @@
-Pertusaria haematina Zahlbr. SPECIES
-=======
+# Pertusaria haematina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

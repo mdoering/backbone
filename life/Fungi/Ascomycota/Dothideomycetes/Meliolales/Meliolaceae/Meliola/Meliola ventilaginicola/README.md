@@ -1,5 +1,4 @@
-Meliola ventilaginicola Hansf. SPECIES
-=======
+# Meliola ventilaginicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

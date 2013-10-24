@@ -1,5 +1,4 @@
-Dictyochaeta lilliputiana R.F. Castañeda SPECIES
-=======
+# Dictyochaeta lilliputiana R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

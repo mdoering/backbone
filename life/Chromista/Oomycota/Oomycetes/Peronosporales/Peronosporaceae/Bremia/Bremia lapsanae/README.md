@@ -1,17 +1,16 @@
-Bremia lampsanae Syd. SPECIES
-=======
+# Bremia lapsanae Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 36(4): 321 (1938)
 
 #### Original name
-Bremia lampsanae Syd.
+Bremia lapsanae Syd.
 
 ### Remarks
 null

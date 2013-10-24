@@ -1,5 +1,4 @@
-Hymenochaete simulans (Berk. & Broome) Bres. SPECIES
-=======
+# Hymenochaete simulans (Berk. & Broome) Bres. SPECIES
 
 #### Status
 ACCEPTED

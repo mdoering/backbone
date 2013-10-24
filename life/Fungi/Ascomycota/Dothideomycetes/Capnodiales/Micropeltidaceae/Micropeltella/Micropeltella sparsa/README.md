@@ -1,5 +1,4 @@
-Micropeltella sparsa F. Stevens & Manter SPECIES
-=======
+# Micropeltella sparsa F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

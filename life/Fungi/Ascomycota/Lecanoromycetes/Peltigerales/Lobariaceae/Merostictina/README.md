@@ -1,5 +1,4 @@
-Merostictina GENUS
-=======
+# Merostictina GENUS
 
 #### Status
 ACCEPTED

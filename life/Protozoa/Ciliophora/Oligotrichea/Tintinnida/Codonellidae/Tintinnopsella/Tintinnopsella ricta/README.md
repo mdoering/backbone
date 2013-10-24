@@ -1,5 +1,4 @@
-Tintinnopsella ricta Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella ricta Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

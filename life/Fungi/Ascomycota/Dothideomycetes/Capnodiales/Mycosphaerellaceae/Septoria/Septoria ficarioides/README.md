@@ -1,5 +1,4 @@
-Septoria ficarioides Peck SPECIES
-=======
+# Septoria ficarioides Peck SPECIES
 
 #### Status
 ACCEPTED

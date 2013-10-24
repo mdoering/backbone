@@ -1,5 +1,4 @@
-Agaricus caticidius J. Otto SPECIES
-=======
+# Agaricus caticidius J. Otto SPECIES
 
 #### Status
 ACCEPTED

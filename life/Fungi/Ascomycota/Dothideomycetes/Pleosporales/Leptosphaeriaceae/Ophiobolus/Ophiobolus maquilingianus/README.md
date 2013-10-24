@@ -1,5 +1,4 @@
-Ophiobolus maquilingianus Sacc. SPECIES
-=======
+# Ophiobolus maquilingianus Sacc. SPECIES
 
 #### Status
 ACCEPTED

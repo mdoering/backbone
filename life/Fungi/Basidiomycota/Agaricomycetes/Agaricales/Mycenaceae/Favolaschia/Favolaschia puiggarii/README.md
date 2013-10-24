@@ -1,14 +1,13 @@
-Favolus puiggarii Speg., 1889 SPECIES
-=======
+# Favolaschia puiggarii (Speg.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fuegiani 11: 452 (1889)
+Lloydia 13: 253 (1951)
 
 #### Original name
 Favolus puiggarii Speg., 1889

@@ -1,5 +1,4 @@
-Amniculicola parva Ying Zhang, J. Fourn., Crous & K.D. Hyde, 2009 SPECIES
-=======
+# Amniculicola parva Ying Zhang, J. Fourn., Crous & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

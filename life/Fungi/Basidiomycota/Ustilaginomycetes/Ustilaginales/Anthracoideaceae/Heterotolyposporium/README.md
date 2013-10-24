@@ -1,5 +1,4 @@
-Heterotolyposporium Vánky GENUS
-=======
+# Heterotolyposporium Vánky GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus albidocinereus Cout. SPECIES
-=======
+# Polystictus albidocinereus Cout. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria friesii Niessl SPECIES
-=======
+# Sordaria friesii Niessl SPECIES
 
 #### Status
 ACCEPTED

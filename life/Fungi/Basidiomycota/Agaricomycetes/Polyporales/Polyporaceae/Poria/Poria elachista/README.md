@@ -1,5 +1,4 @@
-Poria elachista (Berk. ex Cooke) Murrill SPECIES
-=======
+# Poria elachista (Berk. ex Cooke) Murrill SPECIES
 
 #### Status
 ACCEPTED

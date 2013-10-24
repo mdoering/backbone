@@ -1,5 +1,4 @@
-Leucopaxillus otagoensis G. Stev. SPECIES
-=======
+# Leucopaxillus otagoensis G. Stev. SPECIES
 
 #### Status
 ACCEPTED

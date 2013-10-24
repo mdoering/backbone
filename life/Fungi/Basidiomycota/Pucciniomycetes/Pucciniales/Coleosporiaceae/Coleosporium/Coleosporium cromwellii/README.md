@@ -1,5 +1,4 @@
-Coleosporium cromwellii Cummins SPECIES
-=======
+# Coleosporium cromwellii Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeobacter violaceus Rippka et al. SPECIES
-=======
+# Gloeobacter violaceus Rippka et al. SPECIES
 
 #### Status
 ACCEPTED

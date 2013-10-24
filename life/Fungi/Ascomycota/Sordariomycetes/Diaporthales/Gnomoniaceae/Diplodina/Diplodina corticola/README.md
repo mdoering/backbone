@@ -1,5 +1,4 @@
-Diplodina corticola K.R. Appel & Strunk SPECIES
-=======
+# Diplodina corticola K.R. Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

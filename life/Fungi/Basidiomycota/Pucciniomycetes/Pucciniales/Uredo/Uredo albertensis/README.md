@@ -1,5 +1,4 @@
-Uredo albertensis Arthur SPECIES
-=======
+# Uredo albertensis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Euoidium euphorbicola Y.S. Paul & J.N. Kapoor SPECIES
-=======
+# Euoidium euphorbiicola Y.S. Paul & J.N. Kapoor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 17(3): 298 (1987)
 
 #### Original name
-Euoidium euphorbicola Y.S. Paul & J.N. Kapoor
+Euoidium euphorbiicola Y.S. Paul & J.N. Kapoor
 
 ### Remarks
 null

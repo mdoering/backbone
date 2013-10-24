@@ -1,5 +1,4 @@
-Sporotrichum ollare Pers. SPECIES
-=======
+# Sporotrichum ollare Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopetalum tremelliforme Murrill SPECIES
-=======
+# Geopetalum tremelliforme Murrill SPECIES
 
 #### Status
 ACCEPTED

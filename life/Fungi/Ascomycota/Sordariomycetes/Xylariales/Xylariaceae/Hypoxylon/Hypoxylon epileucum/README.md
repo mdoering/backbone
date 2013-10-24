@@ -1,5 +1,4 @@
-Hypoxylon epileucum Berk. SPECIES
-=======
+# Hypoxylon epileucum Berk. SPECIES
 
 #### Status
 ACCEPTED

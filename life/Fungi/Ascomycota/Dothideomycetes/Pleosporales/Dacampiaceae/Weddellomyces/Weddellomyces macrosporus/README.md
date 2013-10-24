@@ -1,17 +1,16 @@
-Weddellomyces macrospora D. Hawksw., Renob. & Coppins SPECIES
-=======
+# Weddellomyces macrosporus D. Hawksw., Renob. & Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hawksworth, Notes R. bot. Gdn Edinb. 46(3): 400 (1990)
 
 #### Original name
-Weddellomyces macrospora D. Hawksw., Renob. & Coppins
+Weddellomyces macrosporus D. Hawksw., Renob. & Coppins
 
 ### Remarks
 null

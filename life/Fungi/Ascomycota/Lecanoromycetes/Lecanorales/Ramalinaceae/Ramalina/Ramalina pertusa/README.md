@@ -1,5 +1,4 @@
-Ramalina pertusa Kashiw. SPECIES
-=======
+# Ramalina pertusa Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma dryopteris Verwoerd & Du Plessis SPECIES
-=======
+# Macrophoma dryopteris Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

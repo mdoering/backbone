@@ -1,5 +1,4 @@
-Thallomicrosporon GENUS
-=======
+# Thallomicrosporon GENUS
 
 #### Status
 ACCEPTED

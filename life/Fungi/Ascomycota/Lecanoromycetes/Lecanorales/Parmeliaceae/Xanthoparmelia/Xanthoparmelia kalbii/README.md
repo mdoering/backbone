@@ -1,5 +1,4 @@
-Xanthoparmelia kalbii Hale SPECIES
-=======
+# Xanthoparmelia kalbii Hale SPECIES
 
 #### Status
 ACCEPTED

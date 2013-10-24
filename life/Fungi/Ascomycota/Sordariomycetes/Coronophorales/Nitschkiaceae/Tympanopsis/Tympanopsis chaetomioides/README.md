@@ -1,14 +1,13 @@
-Tympanopsis chaetomoides (Penz. & Sacc.) E. Müll. & Arx SPECIES
-=======
+# Tympanopsis chaetomioides (Penz. & Sacc.) E. Müll. & Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytopath. Z. 365 (1955)
 
 #### Original name
 Enchnoa chaetomioides Penz. & Sacc.

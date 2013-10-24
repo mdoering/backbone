@@ -1,5 +1,4 @@
-Psathyrella lilaceogrisea A.H. Sm. SPECIES
-=======
+# Psathyrella lilaceogrisea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

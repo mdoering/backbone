@@ -1,5 +1,4 @@
-Isabelidinium belfastense (Cookson & Eisenack, 1961) Lentin & Williams, 1977 SPECIES
-=======
+# Isabelidinium belfastense (Cookson & Eisenack, 1961) Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED

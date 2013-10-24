@@ -1,5 +1,4 @@
-Melanconium cydoniae Schulzer SPECIES
-=======
+# Melanconium cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

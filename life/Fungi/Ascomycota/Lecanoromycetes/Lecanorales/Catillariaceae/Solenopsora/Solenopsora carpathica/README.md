@@ -1,5 +1,4 @@
-Solenopsora carpathica Piút & Vezda SPECIES
-=======
+# Solenopsora carpathica Piút & Vezda SPECIES
 
 #### Status
 ACCEPTED

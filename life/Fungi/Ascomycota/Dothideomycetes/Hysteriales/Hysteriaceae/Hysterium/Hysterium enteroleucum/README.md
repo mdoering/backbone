@@ -1,5 +1,4 @@
-Hysterium enteroleucum (Ach.) Fr. SPECIES
-=======
+# Hysterium enteroleucum (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

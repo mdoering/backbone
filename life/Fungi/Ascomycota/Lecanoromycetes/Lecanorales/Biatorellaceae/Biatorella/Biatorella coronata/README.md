@@ -1,5 +1,4 @@
-Biatorella coronata (Jatta) Zahlbr. SPECIES
-=======
+# Biatorella coronata (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

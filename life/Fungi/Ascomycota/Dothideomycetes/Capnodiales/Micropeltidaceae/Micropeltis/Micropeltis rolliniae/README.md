@@ -1,8 +1,7 @@
-Micropeltis rollinae Henn. SPECIES
-=======
+# Micropeltis rolliniae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micropeltis rollinae Henn.
+Micropeltis rolliniae Henn.
 
 ### Remarks
 null

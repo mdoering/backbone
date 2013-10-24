@@ -1,5 +1,4 @@
-Aschersonia scutelliformis Höhn. SPECIES
-=======
+# Aschersonia scutelliformis Höhn. SPECIES
 
 #### Status
 ACCEPTED

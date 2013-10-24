@@ -1,5 +1,4 @@
-Polypaecilum G. Smith, 1961 GENUS
-=======
+# Polypaecilum G. Smith, 1961 GENUS
 
 #### Status
 ACCEPTED

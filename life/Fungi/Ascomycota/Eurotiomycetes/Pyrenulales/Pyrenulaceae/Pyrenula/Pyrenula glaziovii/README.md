@@ -1,5 +1,4 @@
-Pyrenula glaziovii Müll. Arg. SPECIES
-=======
+# Pyrenula glaziovii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

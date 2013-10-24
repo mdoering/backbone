@@ -1,5 +1,4 @@
-Stereocaulon arenarium (Savicz) I.M. Lamb SPECIES
-=======
+# Stereocaulon arenarium (Savicz) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

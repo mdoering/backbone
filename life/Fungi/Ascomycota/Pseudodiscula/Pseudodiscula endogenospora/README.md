@@ -1,5 +1,4 @@
-Pseudodiscula endogenospora Laubert, 1911 SPECIES
-=======
+# Pseudodiscula endogenospora Laubert, 1911 SPECIES
 
 #### Status
 ACCEPTED

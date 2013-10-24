@@ -1,5 +1,4 @@
-Sphaerella chorinensis Kirschst. SPECIES
-=======
+# Sphaerella chorinensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

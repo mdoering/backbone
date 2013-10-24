@@ -1,5 +1,4 @@
-Halogranum amylolyticum Cui, Yang, Gao & Xu, 2011 SPECIES
-=======
+# Halogranum amylolyticum Cui, Yang, Gao & Xu, 2011 SPECIES
 
 #### Status
 ACCEPTED

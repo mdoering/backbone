@@ -1,14 +1,13 @@
-Leptotrema norstictideum Patw. & Nagarkar SPECIES
-=======
+# Myriotrema norstictideum (Patw. & Nagarkar) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biovigyanam 6(1): 5 (1980)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Leptotrema norstictideum Patw. & Nagarkar

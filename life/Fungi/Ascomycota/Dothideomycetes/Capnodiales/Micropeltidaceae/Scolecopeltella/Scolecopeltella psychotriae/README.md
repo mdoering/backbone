@@ -1,5 +1,4 @@
-Scolecopeltella psychotriae Bat. & H. Maia SPECIES
-=======
+# Scolecopeltella psychotriae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

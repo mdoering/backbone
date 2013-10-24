@@ -1,5 +1,4 @@
-Verrucaria helvetica B. de Lesd. SPECIES
-=======
+# Verrucaria helvetica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

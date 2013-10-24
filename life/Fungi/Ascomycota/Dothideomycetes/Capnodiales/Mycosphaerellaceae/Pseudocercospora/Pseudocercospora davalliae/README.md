@@ -1,14 +1,13 @@
-Cercospora davalliae A.K. Kar & M. Mandal, 1969 SPECIES
-=======
+# Pseudocercospora davalliae (A.K. Kar & M. Mandal) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 53(3): 355 (1969)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 154 (2003)
 
 #### Original name
 Cercospora davalliae A.K. Kar & M. Mandal, 1969

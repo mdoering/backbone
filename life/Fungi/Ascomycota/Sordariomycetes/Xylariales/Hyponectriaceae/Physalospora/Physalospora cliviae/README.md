@@ -1,5 +1,4 @@
-Physalospora cliviae Syd. SPECIES
-=======
+# Physalospora cliviae Syd. SPECIES
 
 #### Status
 ACCEPTED

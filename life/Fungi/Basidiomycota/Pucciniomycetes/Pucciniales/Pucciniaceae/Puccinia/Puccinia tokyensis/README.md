@@ -1,5 +1,4 @@
-Puccinia tokyensis P. Syd. & Syd. SPECIES
-=======
+# Puccinia tokyensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

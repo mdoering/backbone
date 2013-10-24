@@ -1,5 +1,4 @@
-Omphalia martensii Henn. SPECIES
-=======
+# Omphalia martensii Henn. SPECIES
 
 #### Status
 ACCEPTED

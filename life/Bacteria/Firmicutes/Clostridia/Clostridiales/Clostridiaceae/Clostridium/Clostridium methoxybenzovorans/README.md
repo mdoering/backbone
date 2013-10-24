@@ -1,5 +1,4 @@
-Clostridium methoxybenzovorans Mechichi et al., 1999 SPECIES
-=======
+# Clostridium methoxybenzovorans Mechichi et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

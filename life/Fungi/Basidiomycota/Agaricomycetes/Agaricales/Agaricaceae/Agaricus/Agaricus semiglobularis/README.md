@@ -1,5 +1,4 @@
-Agaricus semiglobularis Schulzer SPECIES
-=======
+# Agaricus semiglobularis Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma goossensiae Beeli SPECIES
-=======
+# Tricholoma goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

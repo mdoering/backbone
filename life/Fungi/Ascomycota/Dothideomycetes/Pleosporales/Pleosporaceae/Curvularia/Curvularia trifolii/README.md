@@ -1,17 +1,16 @@
-Curvularia trifolii f. sp FORM
-=======
+# Curvularia trifolii (Kauffman) Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Parmelee, Mycologia 48: 566 (1956)
+Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 128 (1933)
 
 #### Original name
-Curvularia trifolii f. sp
+Brachysporium trifolii Kauffman, 1920
 
 ### Remarks
 null

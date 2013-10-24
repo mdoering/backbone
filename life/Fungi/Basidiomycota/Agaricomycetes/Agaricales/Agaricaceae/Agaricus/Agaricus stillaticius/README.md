@@ -1,5 +1,4 @@
-Agaricus stillaticius Berk. SPECIES
-=======
+# Agaricus stillaticius Berk. SPECIES
 
 #### Status
 ACCEPTED

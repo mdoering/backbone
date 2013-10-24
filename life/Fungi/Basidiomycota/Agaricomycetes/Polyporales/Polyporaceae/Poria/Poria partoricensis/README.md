@@ -1,5 +1,4 @@
-Poria partoricensis Fr. SPECIES
-=======
+# Poria partoricensis Fr. SPECIES
 
 #### Status
 ACCEPTED

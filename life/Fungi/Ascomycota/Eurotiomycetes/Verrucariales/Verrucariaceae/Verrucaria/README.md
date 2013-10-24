@@ -1,17 +1,16 @@
-Actinothecium Flotow, 1855 GENUS
-=======
+# Verrucaria Schrader, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 13: 130 (1855)
+Spicil. Fl. Germ. 1: 108 (1794)
 
 #### Original name
-Actinothecium Flotow, 1855
+Verrucaria Schrader, 1794
 
 ### Remarks
 null

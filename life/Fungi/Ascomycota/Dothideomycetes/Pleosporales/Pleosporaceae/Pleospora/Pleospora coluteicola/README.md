@@ -1,5 +1,4 @@
-Pleospora coluteicola Gonz. Frag. SPECIES
-=======
+# Pleospora coluteicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

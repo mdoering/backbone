@@ -1,5 +1,4 @@
-Lepiota plumbicolor (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota plumbicolor (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

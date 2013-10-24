@@ -1,5 +1,4 @@
-Trotteria venturioides Sacc. SPECIES
-=======
+# Trotteria venturioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

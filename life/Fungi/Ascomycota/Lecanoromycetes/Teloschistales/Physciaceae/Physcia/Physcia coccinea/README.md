@@ -1,5 +1,4 @@
-Physcia coccinea (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Physcia coccinea (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

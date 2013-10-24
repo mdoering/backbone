@@ -1,5 +1,4 @@
-Dixomyces spiralis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces spiralis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

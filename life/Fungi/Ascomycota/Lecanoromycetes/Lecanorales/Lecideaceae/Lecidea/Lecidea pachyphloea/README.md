@@ -1,5 +1,4 @@
-Lecidea pachyphloea Körb. SPECIES
-=======
+# Lecidea pachyphloea Körb. SPECIES
 
 #### Status
 ACCEPTED

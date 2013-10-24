@@ -1,17 +1,16 @@
-Cyphella zeylandica Cooke & W. Phillips SPECIES
-=======
+# Aleurodiscus zealandicus (Cooke & W. Phillips) G. Cunn., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 77: 298 (1953)
 
 #### Original name
-Cyphella zeylandica Cooke & W. Phillips
+Cyphella zelandica Cooke & W. Phillips, 1879
 
 ### Remarks
 null

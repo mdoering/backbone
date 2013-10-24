@@ -1,5 +1,4 @@
-Agaricus pseudounctosus Batsch SPECIES
-=======
+# Agaricus pseudounctosus Batsch SPECIES
 
 #### Status
 ACCEPTED

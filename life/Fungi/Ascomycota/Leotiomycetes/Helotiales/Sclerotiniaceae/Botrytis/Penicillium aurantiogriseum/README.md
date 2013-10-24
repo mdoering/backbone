@@ -1,8 +1,7 @@
-Penicillium johanniolii K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium aurantiogriseum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

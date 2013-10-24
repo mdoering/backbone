@@ -1,5 +1,4 @@
-Myxozyma lipomycoides Van der Walt, Y. Yamada & Nakase, 1987 SPECIES
-=======
+# Myxozyma lipomycoides Van der Walt, Y. Yamada & Nakase, 1987 SPECIES
 
 #### Status
 ACCEPTED

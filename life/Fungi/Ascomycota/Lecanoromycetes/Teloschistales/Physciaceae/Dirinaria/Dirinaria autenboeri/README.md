@@ -1,5 +1,4 @@
-Dirinaria autenboeri C.W. Dodge SPECIES
-=======
+# Dirinaria autenboeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

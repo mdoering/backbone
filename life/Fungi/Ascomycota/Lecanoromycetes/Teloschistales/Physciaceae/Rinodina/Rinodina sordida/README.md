@@ -1,5 +1,4 @@
-Rinodina sordida C.W. Dodge & G.E. Baker SPECIES
-=======
+# Rinodina sordida C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

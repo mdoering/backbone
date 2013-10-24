@@ -1,5 +1,4 @@
-Anzia Stizenberger, 1861 GENUS
-=======
+# Anzia Stizenberger, 1861 GENUS
 
 #### Status
 ACCEPTED

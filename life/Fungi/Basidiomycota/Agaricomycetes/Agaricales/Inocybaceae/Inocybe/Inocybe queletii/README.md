@@ -1,5 +1,4 @@
-Inocybe queletii f. queletii FORM
-=======
+# Inocybe queletii Konrad SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 45: 40 (1929)
 
 #### Original name
-Inocybe queletii f. queletii
+Inocybe queletii Konrad
 
 ### Remarks
 null

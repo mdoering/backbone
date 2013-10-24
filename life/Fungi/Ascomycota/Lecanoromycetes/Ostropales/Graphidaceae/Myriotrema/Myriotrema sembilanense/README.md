@@ -1,5 +1,4 @@
-Myriotrema sembilanense Nagarkar & Hale SPECIES
-=======
+# Myriotrema sembilanense Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

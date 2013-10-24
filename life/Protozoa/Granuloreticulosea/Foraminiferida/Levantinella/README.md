@@ -1,5 +1,4 @@
-Levantinella Fourcade, Mouty & Teherani, 1997 GENUS
-=======
+# Levantinella Fourcade, Mouty & Teherani, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia anglica Coppins SPECIES
-=======
+# Arthonia anglica Coppins SPECIES
 
 #### Status
 ACCEPTED

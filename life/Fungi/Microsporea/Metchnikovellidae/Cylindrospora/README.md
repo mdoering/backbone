@@ -1,5 +1,4 @@
-Cylindrospora Issi & Voronin in Issi, 1986 GENUS
-=======
+# Cylindrospora Issi & Voronin in Issi, 1986 GENUS
 
 #### Status
 ACCEPTED

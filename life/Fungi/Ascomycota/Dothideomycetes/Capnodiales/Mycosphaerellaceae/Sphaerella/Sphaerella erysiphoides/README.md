@@ -1,5 +1,4 @@
-Sphaerella erysiphoides Sacc. SPECIES
-=======
+# Sphaerella erysiphoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

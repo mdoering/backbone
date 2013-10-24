@@ -1,5 +1,4 @@
-Synedra scalaris Ehrenberg SPECIES
-=======
+# Synedra scalaris Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

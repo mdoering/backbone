@@ -1,5 +1,4 @@
-Metadiplodia emeri (Sacc.) Zambett. SPECIES
-=======
+# Metadiplodia emeri (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

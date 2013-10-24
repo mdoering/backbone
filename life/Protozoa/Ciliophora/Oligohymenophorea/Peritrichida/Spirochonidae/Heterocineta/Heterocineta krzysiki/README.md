@@ -1,5 +1,4 @@
-Heterocineta krzysiki Jarocki, 1934 SPECIES
-=======
+# Heterocineta krzysiki Jarocki, 1934 SPECIES
 
 #### Status
 ACCEPTED

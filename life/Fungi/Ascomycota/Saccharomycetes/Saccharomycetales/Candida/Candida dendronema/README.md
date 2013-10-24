@@ -1,5 +1,4 @@
-Candida dendronema Van der Walt, Klift & D.B. Scott, 1971 SPECIES
-=======
+# Candida dendronema Van der Walt, Klift & D.B. Scott, 1971 SPECIES
 
 #### Status
 ACCEPTED

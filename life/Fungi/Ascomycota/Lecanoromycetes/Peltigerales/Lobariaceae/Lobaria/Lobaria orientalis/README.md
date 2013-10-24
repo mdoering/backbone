@@ -1,5 +1,4 @@
-Lobaria orientalis (Asahina) Yoshim. SPECIES
-=======
+# Lobaria orientalis (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

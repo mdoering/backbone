@@ -1,5 +1,4 @@
-Solisphaeridium baltoscandium Eklund, 1990 SPECIES
-=======
+# Solisphaeridium baltoscandium Eklund, 1990 SPECIES
 
 #### Status
 ACCEPTED

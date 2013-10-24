@@ -1,5 +1,4 @@
-Coccodinium corticola (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Coccodinium corticola (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

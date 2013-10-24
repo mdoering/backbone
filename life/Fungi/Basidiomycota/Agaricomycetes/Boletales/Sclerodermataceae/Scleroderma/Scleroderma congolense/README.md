@@ -1,5 +1,4 @@
-Scleroderma congolense Demoulin & Dring SPECIES
-=======
+# Scleroderma congolense Demoulin & Dring SPECIES
 
 #### Status
 ACCEPTED

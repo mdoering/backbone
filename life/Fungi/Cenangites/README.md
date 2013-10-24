@@ -1,5 +1,4 @@
-Cenangites Mesch. GENUS
-=======
+# Cenangites Mesch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocybe bulbosa (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe bulbosa (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

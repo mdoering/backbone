@@ -1,17 +1,16 @@
-Xanthoria aipolia var. aipolia VARIETY
-=======
+# Physcia aipolia (Ehrh. ex Humb.) Fürnr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Naturhist. Topogr. Regensburg 2: 249 (1839)
 
 #### Original name
-Xanthoria aipolia var. aipolia
+Lichen aipolius Ehrh. ex Humb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella cornifolia (Schwein.) Cooke SPECIES
-=======
+# Sphaerella cornifolia (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

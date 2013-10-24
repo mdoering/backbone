@@ -1,5 +1,4 @@
-Apiosoma doliaris SPECIES
-=======
+# Apiosoma doliaris SPECIES
 
 #### Status
 ACCEPTED

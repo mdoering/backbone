@@ -1,5 +1,4 @@
-Spirosigmoilina Parr, 1942 GENUS
-=======
+# Spirosigmoilina Parr, 1942 GENUS
 
 #### Status
 ACCEPTED

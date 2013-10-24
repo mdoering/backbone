@@ -1,5 +1,4 @@
-Leucocarpopsis G. Salisb. GENUS
-=======
+# Leucocarpopsis G. Salisb. GENUS
 
 #### Status
 ACCEPTED

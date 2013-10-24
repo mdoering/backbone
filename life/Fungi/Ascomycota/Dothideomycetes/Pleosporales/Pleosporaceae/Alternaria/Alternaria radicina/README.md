@@ -1,14 +1,13 @@
-Thyrospora radicina (Meier, Drechsler & E.D. Eddy) Neerg., 1939 SPECIES
-=======
+# Alternaria radicina Meier, Drechsler & E.D. Eddy, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 12: 157 (1922)
 
 #### Original name
 Alternaria radicina Meier, Drechsler & E.D. Eddy, 1922

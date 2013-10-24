@@ -1,5 +1,4 @@
-Paralepista concentrica Raithelh. SPECIES
-=======
+# Paralepista concentrica Raithelh. SPECIES
 
 #### Status
 ACCEPTED

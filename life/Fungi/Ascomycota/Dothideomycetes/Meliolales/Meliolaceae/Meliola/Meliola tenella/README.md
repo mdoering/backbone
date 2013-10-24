@@ -1,5 +1,4 @@
-Meliola tenella var. tenella VARIETY
-=======
+# Meliola tenella Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revue mycol. , Toulouse 10: 140 (1888)
 
 #### Original name
-Meliola tenella var. tenella
+Meliola tenella Pat.
 
 ### Remarks
 null

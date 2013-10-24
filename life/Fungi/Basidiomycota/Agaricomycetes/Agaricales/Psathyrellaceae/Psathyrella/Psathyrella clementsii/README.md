@@ -1,5 +1,4 @@
-Psathyrella clementsii Sacc. & P. Syd. SPECIES
-=======
+# Psathyrella clementsii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

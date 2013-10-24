@@ -1,5 +1,4 @@
-Entoloma farinasprellum Arnolds SPECIES
-=======
+# Entoloma farinasprellum Arnolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parafusulina Dunbar & Skinner, 1931 GENUS
-=======
+# Parafusulina Dunbar & Skinner, 1931 GENUS
 
 #### Status
 ACCEPTED

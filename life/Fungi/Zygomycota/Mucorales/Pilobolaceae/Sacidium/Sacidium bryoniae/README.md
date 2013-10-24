@@ -1,5 +1,4 @@
-Sacidium bryoniae Schwein. SPECIES
-=======
+# Sacidium bryoniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

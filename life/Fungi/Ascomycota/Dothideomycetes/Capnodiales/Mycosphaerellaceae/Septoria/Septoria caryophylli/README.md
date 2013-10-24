@@ -1,5 +1,4 @@
-Septoria caryophylli Scalia SPECIES
-=======
+# Septoria caryophylli Scalia SPECIES
 
 #### Status
 ACCEPTED

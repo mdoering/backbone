@@ -1,11 +1,10 @@
-Azotococcus agilis (Beijerinck, 1901) Tchan, 1953 SPECIES
-=======
+# Azomonas agilis (Beijerinck, 1901) Winogradsky, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

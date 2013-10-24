@@ -1,5 +1,4 @@
-Gephyrocapsa reticulata S. Nishida SPECIES
-=======
+# Gephyrocapsa reticulata S. Nishida SPECIES
 
 #### Status
 ACCEPTED

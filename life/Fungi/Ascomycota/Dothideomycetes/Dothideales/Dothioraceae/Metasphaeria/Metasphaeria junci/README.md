@@ -1,8 +1,7 @@
-Phyllachora junci (Alb. & Schwein.) Fuckel, 1870 SPECIES
-=======
+# Metasphaeria junci (Oudem.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria junci Oudem., 1873
 
 ### Remarks
 null

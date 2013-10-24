@@ -1,5 +1,4 @@
-Asterina decumana Syd. SPECIES
-=======
+# Asterina decumana Syd. SPECIES
 
 #### Status
 ACCEPTED

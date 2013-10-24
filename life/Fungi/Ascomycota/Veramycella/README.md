@@ -1,5 +1,4 @@
-Veramycella G. Delgado GENUS
-=======
+# Veramycella G. Delgado GENUS
 
 #### Status
 ACCEPTED

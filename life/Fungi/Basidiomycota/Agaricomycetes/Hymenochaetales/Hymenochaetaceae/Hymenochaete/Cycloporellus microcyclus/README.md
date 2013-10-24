@@ -1,5 +1,4 @@
-Cycloporellus microcyclus (Zipp. ex Lév.) Murrill SPECIES
-=======
+# Cycloporellus microcyclus (Zipp. ex Lév.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea holomicra Jatta SPECIES
-=======
+# Lecidea holomicra Jatta SPECIES
 
 #### Status
 ACCEPTED

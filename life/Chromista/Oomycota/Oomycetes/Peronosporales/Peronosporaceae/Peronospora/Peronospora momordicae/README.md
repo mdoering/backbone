@@ -1,5 +1,4 @@
-Peronospora momordicae (Sawada) Skalický SPECIES
-=======
+# Peronospora momordicae (Sawada) Skalický SPECIES
 
 #### Status
 ACCEPTED

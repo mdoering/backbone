@@ -1,5 +1,4 @@
-Favolaschia puberula Singer, 1974 SPECIES
-=======
+# Favolaschia puberula Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

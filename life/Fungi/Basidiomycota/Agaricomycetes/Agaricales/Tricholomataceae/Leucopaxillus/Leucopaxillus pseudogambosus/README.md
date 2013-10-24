@@ -1,5 +1,4 @@
-Leucopaxillus pseudogambosus Pilát SPECIES
-=======
+# Leucopaxillus pseudogambosus Pilát SPECIES
 
 #### Status
 ACCEPTED

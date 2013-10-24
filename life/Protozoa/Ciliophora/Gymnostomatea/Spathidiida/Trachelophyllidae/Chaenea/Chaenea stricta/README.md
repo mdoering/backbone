@@ -1,8 +1,7 @@
-Trachelius stricta Dujardin, 1841 SPECIES
-=======
+# Chaenea stricta (Dujardin, 1841) Foissner, Berger, Blatterer & Kohmann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

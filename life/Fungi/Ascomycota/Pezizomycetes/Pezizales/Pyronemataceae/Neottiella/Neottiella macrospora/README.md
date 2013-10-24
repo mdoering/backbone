@@ -1,5 +1,4 @@
-Neottiella macrospora (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Neottiella macrospora (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

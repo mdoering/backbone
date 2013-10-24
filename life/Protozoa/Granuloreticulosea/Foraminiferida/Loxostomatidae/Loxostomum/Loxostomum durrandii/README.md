@@ -1,5 +1,4 @@
-Loxostomum durrandii (Millett) SPECIES
-=======
+# Loxostomum durrandii (Millett) SPECIES
 
 #### Status
 ACCEPTED

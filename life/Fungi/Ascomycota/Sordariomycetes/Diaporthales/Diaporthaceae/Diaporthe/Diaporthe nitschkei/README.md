@@ -1,5 +1,4 @@
-Diaporthe nitschkei J. Kunze SPECIES
-=======
+# Diaporthe nitschkei J. Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tomentella badia var. badia (Link) Stalpers VARIETY
-=======
+# Tomentella badia (Link) Stalpers, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 39: 98 (1975)
+Revue Mycol. , Paris 39(2): 98 (1975)
 
 #### Original name
-Tomentella badia var. badia (Link) Stalpers
+Sporotrichum badium Link, 1809
 
 ### Remarks
 null

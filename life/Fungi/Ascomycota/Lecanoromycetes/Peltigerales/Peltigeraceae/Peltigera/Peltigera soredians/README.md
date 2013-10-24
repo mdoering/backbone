@@ -1,5 +1,4 @@
-Peltigera soredians Vitik. SPECIES
-=======
+# Peltigera soredians Vitik. SPECIES
 
 #### Status
 ACCEPTED

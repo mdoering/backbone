@@ -1,5 +1,4 @@
-Calocera divaricata Berk. SPECIES
-=======
+# Calocera divaricata Berk. SPECIES
 
 #### Status
 ACCEPTED

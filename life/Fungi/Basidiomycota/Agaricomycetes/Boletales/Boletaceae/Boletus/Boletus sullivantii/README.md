@@ -1,5 +1,4 @@
-Boletus sullivantii Berk. & Mont. SPECIES
-=======
+# Boletus sullivantii Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

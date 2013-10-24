@@ -1,5 +1,4 @@
-Fulgensia vulgaris A. Massal. & De Not. SPECIES
-=======
+# Fulgensia vulgaris A. Massal. & De Not. SPECIES
 
 #### Status
 ACCEPTED

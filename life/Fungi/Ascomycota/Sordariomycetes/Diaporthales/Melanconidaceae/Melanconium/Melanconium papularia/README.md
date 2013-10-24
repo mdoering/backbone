@@ -1,5 +1,4 @@
-Melanconium papularia Fr. SPECIES
-=======
+# Melanconium papularia Fr. SPECIES
 
 #### Status
 ACCEPTED

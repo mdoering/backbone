@@ -1,5 +1,4 @@
-Hendersonia dianthicola Keissl. SPECIES
-=======
+# Hendersonia dianthicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

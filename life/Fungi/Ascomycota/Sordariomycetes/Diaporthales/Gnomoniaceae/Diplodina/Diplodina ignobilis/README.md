@@ -1,5 +1,4 @@
-Diplodina ignobilis (Oudem.) Sacc. & P. Syd. SPECIES
-=======
+# Diplodina ignobilis (Oudem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

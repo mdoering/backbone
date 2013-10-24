@@ -1,14 +1,13 @@
-Psoroma durietzii P. James & Henssen SPECIES
-=======
+# Pannaria durietzii (P. James & Henssen) Elvebakk & D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 7: 143 (1975)
+Australasian Lichenology 53: 6 (2003)
 
 #### Original name
 Psoroma durietzii P. James & Henssen

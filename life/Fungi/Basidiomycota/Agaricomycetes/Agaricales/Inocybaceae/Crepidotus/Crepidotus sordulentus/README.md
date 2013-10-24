@@ -1,5 +1,4 @@
-Crepidotus sordulentus (Berk. & Broome) Killerm. SPECIES
-=======
+# Crepidotus sordulentus (Berk. & Broome) Killerm. SPECIES
 
 #### Status
 ACCEPTED

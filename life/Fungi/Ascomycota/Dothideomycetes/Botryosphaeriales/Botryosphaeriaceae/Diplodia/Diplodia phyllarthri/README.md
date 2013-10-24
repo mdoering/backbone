@@ -1,5 +1,4 @@
-Diplodia phyllarthri Tassi SPECIES
-=======
+# Diplodia phyllarthri Tassi SPECIES
 
 #### Status
 ACCEPTED

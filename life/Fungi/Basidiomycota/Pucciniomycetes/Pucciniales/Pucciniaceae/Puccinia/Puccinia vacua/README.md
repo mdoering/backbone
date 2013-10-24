@@ -1,5 +1,4 @@
-Puccinia vacua Dietel & Holw. SPECIES
-=======
+# Puccinia vacua Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

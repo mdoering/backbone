@@ -1,17 +1,16 @@
-Tubaria inquilina var. inquilina VARIETY
-=======
+# Psilocybe inquilina (Fr.) Bres., 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France (Alençon) 538 (1874)
+Iconogr. Mycol. 18: 863, pl. 863 (1931)
 
 #### Original name
-Tubaria inquilina var. inquilina
+Agaricus inquilinus Fr., 1818
 
 ### Remarks
 null

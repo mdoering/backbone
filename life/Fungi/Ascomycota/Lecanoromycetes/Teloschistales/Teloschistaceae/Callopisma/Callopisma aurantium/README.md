@@ -1,5 +1,4 @@
-Callopisma aurantium f. aurantium FORM
-=======
+# Callopisma aurantium anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Callopisma aurantium f. aurantium
+Callopisma aurantium anon.
 
 ### Remarks
 null

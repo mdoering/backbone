@@ -1,5 +1,4 @@
-Roccellina franciscana (Herre) Follmann SPECIES
-=======
+# Roccellina franciscana (Herre) Follmann SPECIES
 
 #### Status
 ACCEPTED

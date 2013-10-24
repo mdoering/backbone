@@ -1,5 +1,4 @@
-Helicoma anastomosans Linder SPECIES
-=======
+# Helicoma anastomosans Linder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma deceptivum E. Horak, 1973 SPECIES
-=======
+# Entoloma deceptivum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

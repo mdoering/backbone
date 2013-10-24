@@ -1,5 +1,4 @@
-Puccinia diarrhenae Miyabe & S. Ito SPECIES
-=======
+# Puccinia diarrhenae Miyabe & S. Ito SPECIES
 
 #### Status
 ACCEPTED

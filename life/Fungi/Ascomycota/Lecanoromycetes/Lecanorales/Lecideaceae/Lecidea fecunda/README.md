@@ -1,5 +1,4 @@
-Lecidea fecunda SPECIES
-=======
+# Lecidea fecunda SPECIES
 
 #### Status
 ACCEPTED

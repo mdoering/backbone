@@ -1,5 +1,4 @@
-Aspergillus campestris M. Chr., 1982 SPECIES
-=======
+# Aspergillus campestris M. Chr., 1982 SPECIES
 
 #### Status
 ACCEPTED

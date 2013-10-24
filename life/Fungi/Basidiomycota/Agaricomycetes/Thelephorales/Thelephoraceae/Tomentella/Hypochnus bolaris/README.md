@@ -1,5 +1,4 @@
-Hypochnus bolaris Bres. SPECIES
-=======
+# Hypochnus bolaris Bres. SPECIES
 
 #### Status
 ACCEPTED

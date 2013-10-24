@@ -1,5 +1,4 @@
-Paraphysomonas runciniferopsis D. E. Wujek & L. C. Saha SPECIES
-=======
+# Paraphysomonas runciniferopsis D. E. Wujek & L. C. Saha SPECIES
 
 #### Status
 ACCEPTED

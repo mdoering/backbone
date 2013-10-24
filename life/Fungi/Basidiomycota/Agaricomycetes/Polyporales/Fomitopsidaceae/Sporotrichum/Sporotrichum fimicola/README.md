@@ -1,17 +1,16 @@
-Sporotrichum fimicolum Rostr. SPECIES
-=======
+# Sporotrichum fimicola Rostr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 224 (1878)
 
 #### Original name
-Sporotrichum fimicolum Rostr.
+Sporotrichum fimicola Rostr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pezizella tumidula SPECIES
-=======
+# Pezizella tumidula SPECIES
 
 #### Status
 ACCEPTED

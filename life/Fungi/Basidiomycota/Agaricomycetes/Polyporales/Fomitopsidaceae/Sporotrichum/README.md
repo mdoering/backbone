@@ -1,5 +1,4 @@
-Sporotrichum Link GENUS
-=======
+# Sporotrichum Link GENUS
 
 #### Status
 ACCEPTED

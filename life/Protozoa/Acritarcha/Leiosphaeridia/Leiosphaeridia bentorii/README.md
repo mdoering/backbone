@@ -1,5 +1,4 @@
-Leiosphaeridia bentorii Rossignol, 1964 SPECIES
-=======
+# Leiosphaeridia bentorii Rossignol, 1964 SPECIES
 
 #### Status
 ACCEPTED

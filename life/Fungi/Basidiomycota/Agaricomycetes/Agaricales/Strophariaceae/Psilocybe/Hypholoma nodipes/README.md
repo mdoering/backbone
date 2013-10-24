@@ -1,5 +1,4 @@
-Hypholoma nodipes Speg. SPECIES
-=======
+# Hypholoma nodipes Speg. SPECIES
 
 #### Status
 ACCEPTED

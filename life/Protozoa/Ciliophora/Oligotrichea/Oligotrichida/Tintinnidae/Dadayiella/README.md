@@ -1,5 +1,4 @@
-Dadayiella Kofoid & Campbell, 1929 GENUS
-=======
+# Dadayiella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

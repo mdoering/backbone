@@ -1,5 +1,4 @@
-Streptomyces speibonae Meyers et al., 2003 SPECIES
-=======
+# Streptomyces speibonae Meyers et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina tigrina Follmann SPECIES
-=======
+# Ramalina tigrina Follmann SPECIES
 
 #### Status
 ACCEPTED

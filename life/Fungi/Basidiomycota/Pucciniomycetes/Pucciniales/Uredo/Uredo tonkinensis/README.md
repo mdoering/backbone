@@ -1,5 +1,4 @@
-Uredo tonkinensis Henn. SPECIES
-=======
+# Uredo tonkinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

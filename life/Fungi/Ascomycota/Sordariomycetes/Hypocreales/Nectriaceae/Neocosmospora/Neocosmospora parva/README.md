@@ -1,5 +1,4 @@
-Neocosmospora parva Mahoney, 1976 SPECIES
-=======
+# Neocosmospora parva Mahoney, 1976 SPECIES
 
 #### Status
 ACCEPTED

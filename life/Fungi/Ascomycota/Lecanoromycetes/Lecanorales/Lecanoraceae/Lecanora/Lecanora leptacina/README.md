@@ -1,14 +1,13 @@
-Lecanora intricata var. leptacina (Sommerf.) Stizenb. VARIETY
-=======
+# Lecanora leptacina Sommerf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Suppl. Fl. lapp. (Oslo) (1826)
 
 #### Original name
 Lecanora leptacina Sommerf.

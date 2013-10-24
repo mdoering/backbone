@@ -1,5 +1,4 @@
-Agaricus graciloides Peck SPECIES
-=======
+# Agaricus graciloides Peck SPECIES
 
 #### Status
 ACCEPTED

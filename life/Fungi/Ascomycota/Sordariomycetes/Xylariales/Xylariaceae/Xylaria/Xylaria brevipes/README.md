@@ -1,5 +1,4 @@
-Xylaria brevipes var. brevipes VARIETY
-=======
+# Xylaria brevipes Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria brevipes var. brevipes
+Xylaria brevipes Starbäck
 
 ### Remarks
 null

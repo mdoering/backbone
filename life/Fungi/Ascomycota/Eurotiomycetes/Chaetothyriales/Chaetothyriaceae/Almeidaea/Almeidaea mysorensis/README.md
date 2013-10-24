@@ -1,5 +1,4 @@
-Almeidaea mysorensis (Hansf. & Thirum.) Bat. & Cif. SPECIES
-=======
+# Almeidaea mysorensis (Hansf. & Thirum.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

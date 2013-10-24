@@ -1,5 +1,4 @@
-Lecanora stenophylla Hue SPECIES
-=======
+# Lecanora stenophylla Hue SPECIES
 
 #### Status
 ACCEPTED

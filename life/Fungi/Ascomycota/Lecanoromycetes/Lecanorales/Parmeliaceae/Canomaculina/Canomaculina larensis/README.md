@@ -1,5 +1,4 @@
-Canomaculina larensis (López-Fig.) Elix SPECIES
-=======
+# Canomaculina larensis (López-Fig.) Elix SPECIES
 
 #### Status
 ACCEPTED

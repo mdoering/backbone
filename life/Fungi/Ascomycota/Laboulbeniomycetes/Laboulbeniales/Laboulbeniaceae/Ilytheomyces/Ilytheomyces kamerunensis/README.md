@@ -1,5 +1,4 @@
-Ilytheomyces kamerunensis Thaxt. SPECIES
-=======
+# Ilytheomyces kamerunensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

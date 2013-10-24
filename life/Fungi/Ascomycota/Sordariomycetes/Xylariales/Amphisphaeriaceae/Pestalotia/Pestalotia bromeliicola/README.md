@@ -1,5 +1,4 @@
-Pestalotia bromeliicola Speg. SPECIES
-=======
+# Pestalotia bromeliicola Speg. SPECIES
 
 #### Status
 ACCEPTED

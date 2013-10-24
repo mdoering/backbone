@@ -1,5 +1,4 @@
-Myxothyriopsis Bat. & A.F. Vital GENUS
-=======
+# Myxothyriopsis Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium GENUS
-=======
+# Placodium GENUS
 
 #### Status
 ACCEPTED

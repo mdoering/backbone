@@ -1,5 +1,4 @@
-Fusarium caudatum var. caudatum VARIETY
-=======
+# Fusarium caudatum Wollenw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium caudatum var. caudatum
+Fusarium caudatum Wollenw.
 
 ### Remarks
 null

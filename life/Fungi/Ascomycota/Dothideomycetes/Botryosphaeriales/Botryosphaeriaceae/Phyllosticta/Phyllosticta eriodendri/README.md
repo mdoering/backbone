@@ -1,5 +1,4 @@
-Phyllosticta eriodendri Died. SPECIES
-=======
+# Phyllosticta eriodendri Died. SPECIES
 
 #### Status
 ACCEPTED

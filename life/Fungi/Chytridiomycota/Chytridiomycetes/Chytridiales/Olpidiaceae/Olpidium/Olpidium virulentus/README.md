@@ -1,5 +1,4 @@
-Olpidium virulentus (Sahtiy.) Karling SPECIES
-=======
+# Olpidium virulentus (Sahtiy.) Karling SPECIES
 
 #### Status
 ACCEPTED

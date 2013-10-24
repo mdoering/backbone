@@ -1,5 +1,4 @@
-Verrucula elegantaria (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula elegantaria (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

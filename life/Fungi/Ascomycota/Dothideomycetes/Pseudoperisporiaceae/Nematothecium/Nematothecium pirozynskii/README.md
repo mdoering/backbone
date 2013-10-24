@@ -1,5 +1,4 @@
-Nematothecium pirozynskii Vaidya SPECIES
-=======
+# Nematothecium pirozynskii Vaidya SPECIES
 
 #### Status
 ACCEPTED

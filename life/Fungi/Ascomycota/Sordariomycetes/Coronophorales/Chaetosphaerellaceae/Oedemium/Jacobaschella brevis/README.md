@@ -1,5 +1,4 @@
-Jacobaschella brevis (Peck) Pound & Clem. SPECIES
-=======
+# Jacobaschella brevis (Peck) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

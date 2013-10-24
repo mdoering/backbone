@@ -1,5 +1,4 @@
-Marasmiellus gigantosporus Singer SPECIES
-=======
+# Marasmiellus gigantosporus Singer SPECIES
 
 #### Status
 ACCEPTED

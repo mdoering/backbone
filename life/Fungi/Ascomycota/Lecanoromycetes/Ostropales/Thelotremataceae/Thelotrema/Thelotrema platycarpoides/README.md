@@ -1,8 +1,7 @@
-Phaeotrema platycarpoides (Tuck.) Müll. Arg. SPECIES
-=======
+# Thelotrema platycarpoides Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Mitrula vitellina SPECIES
-=======
+# Mitrula vitellina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus globosus Ehrenb. SPECIES
-=======
+# Cyathus globosus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

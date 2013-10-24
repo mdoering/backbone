@@ -1,5 +1,4 @@
-Terana beyrichii (Fr.) Kuntze SPECIES
-=======
+# Terana beyrichii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

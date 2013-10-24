@@ -1,5 +1,4 @@
-Hyalomeliolina meliolicola (Syd. & P. Syd.) Petr. SPECIES
-=======
+# Hyalomeliolina meliolicola (Syd. & P. Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

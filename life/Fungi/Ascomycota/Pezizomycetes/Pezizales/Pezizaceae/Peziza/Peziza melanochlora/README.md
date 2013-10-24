@@ -1,5 +1,4 @@
-Peziza melanochlora P. Karst. SPECIES
-=======
+# Peziza melanochlora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

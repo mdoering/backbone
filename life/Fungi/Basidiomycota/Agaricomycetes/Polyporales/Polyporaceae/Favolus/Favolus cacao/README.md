@@ -1,5 +1,4 @@
-Favolus cacao Berk. SPECIES
-=======
+# Favolus cacao Berk. SPECIES
 
 #### Status
 ACCEPTED

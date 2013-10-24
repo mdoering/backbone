@@ -1,5 +1,4 @@
-Leucoagaricus olivaceus (Kauffman) Singer SPECIES
-=======
+# Leucoagaricus olivaceus (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola seyboensis Cif. SPECIES
-=======
+# Meliola seyboensis Cif. SPECIES
 
 #### Status
 ACCEPTED

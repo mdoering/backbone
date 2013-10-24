@@ -1,5 +1,4 @@
-Graphis dealbata Nyl. SPECIES
-=======
+# Graphis dealbata Nyl. SPECIES
 
 #### Status
 ACCEPTED

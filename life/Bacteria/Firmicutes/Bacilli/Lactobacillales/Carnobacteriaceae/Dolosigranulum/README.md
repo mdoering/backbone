@@ -1,5 +1,4 @@
-Dolosigranulum Aguirre, Morrison, Cookson, Gay & Collins, 1994 GENUS
-=======
+# Dolosigranulum Aguirre, Morrison, Cookson, Gay & Collins, 1994 GENUS
 
 #### Status
 ACCEPTED

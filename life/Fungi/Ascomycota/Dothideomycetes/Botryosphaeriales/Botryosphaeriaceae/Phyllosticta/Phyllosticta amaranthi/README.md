@@ -1,5 +1,4 @@
-Phyllosticta amaranthi Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta amaranthi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

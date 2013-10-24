@@ -1,5 +1,4 @@
-Schizoxylon tenuisporum Speg. SPECIES
-=======
+# Schizoxylon tenuisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

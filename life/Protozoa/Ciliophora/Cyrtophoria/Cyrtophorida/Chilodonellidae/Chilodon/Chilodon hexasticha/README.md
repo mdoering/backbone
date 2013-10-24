@@ -1,5 +1,4 @@
-Chilodon hexasticha SPECIES
-=======
+# Chilodon hexasticha SPECIES
 
 #### Status
 ACCEPTED

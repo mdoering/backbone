@@ -1,5 +1,4 @@
-Parmelia filamentosa Taylor SPECIES
-=======
+# Parmelia filamentosa Taylor SPECIES
 
 #### Status
 ACCEPTED

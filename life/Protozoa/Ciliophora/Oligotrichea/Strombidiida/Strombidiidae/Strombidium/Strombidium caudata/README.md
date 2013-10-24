@@ -1,5 +1,4 @@
-Strombidium caudata SPECIES
-=======
+# Strombidium caudata SPECIES
 
 #### Status
 ACCEPTED

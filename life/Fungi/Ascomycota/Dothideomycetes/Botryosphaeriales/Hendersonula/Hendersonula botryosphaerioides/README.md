@@ -1,5 +1,4 @@
-Hendersonula botryosphaerioides Bres. SPECIES
-=======
+# Hendersonula botryosphaerioides Bres. SPECIES
 
 #### Status
 ACCEPTED

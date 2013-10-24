@@ -1,5 +1,4 @@
-Epicymatia frigida Sacc. ex Fr. SPECIES
-=======
+# Epicymatia frigida Sacc. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

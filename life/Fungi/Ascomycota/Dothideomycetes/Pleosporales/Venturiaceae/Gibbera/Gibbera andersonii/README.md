@@ -1,5 +1,4 @@
-Gibbera andersonii Shoemaker SPECIES
-=======
+# Gibbera andersonii Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia pericarpii (Peck) Kuntze SPECIES
-=======
+# Macroplodia pericarpii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

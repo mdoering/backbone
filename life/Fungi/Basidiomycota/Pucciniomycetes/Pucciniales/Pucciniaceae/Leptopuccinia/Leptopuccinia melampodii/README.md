@@ -1,5 +1,4 @@
-Leptopuccinia melampodii (Dietel & Holw.) Syd. SPECIES
-=======
+# Leptopuccinia melampodii (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

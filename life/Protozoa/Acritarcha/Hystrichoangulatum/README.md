@@ -1,5 +1,4 @@
-Hystrichoangulatum Wilson & Hoffmeister in Downie & Sarjeant, 1965 GENUS
-=======
+# Hystrichoangulatum Wilson & Hoffmeister in Downie & Sarjeant, 1965 GENUS
 
 #### Status
 ACCEPTED

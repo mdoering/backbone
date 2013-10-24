@@ -1,5 +1,4 @@
-Schizoplasmodiopsis pseudoendospora L.S. Olive, M. Martin. & Stoian., 1967 SPECIES
-=======
+# Schizoplasmodiopsis pseudoendospora L.S. Olive, M. Martin. & Stoian., 1967 SPECIES
 
 #### Status
 ACCEPTED

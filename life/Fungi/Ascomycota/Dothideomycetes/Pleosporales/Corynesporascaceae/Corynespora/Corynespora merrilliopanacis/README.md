@@ -1,5 +1,4 @@
-Corynespora merrilliopanacis Z.Q. Shang & X.G. Zhang SPECIES
-=======
+# Corynespora merrilliopanacis Z.Q. Shang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

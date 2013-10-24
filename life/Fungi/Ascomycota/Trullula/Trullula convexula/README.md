@@ -1,5 +1,4 @@
-Trullula convexula (Cooke & Ellis) Sacc. SPECIES
-=======
+# Trullula convexula (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

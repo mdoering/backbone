@@ -1,5 +1,4 @@
-Buellia orcularia Vain. SPECIES
-=======
+# Buellia orcularia Vain. SPECIES
 
 #### Status
 ACCEPTED

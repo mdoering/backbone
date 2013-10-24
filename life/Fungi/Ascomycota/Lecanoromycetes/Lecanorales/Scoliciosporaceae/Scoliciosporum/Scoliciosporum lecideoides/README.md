@@ -1,5 +1,4 @@
-Scoliciosporum lecideoides Hazsl. ex Körb. SPECIES
-=======
+# Scoliciosporum lecideoides Hazsl. ex Körb. SPECIES
 
 #### Status
 ACCEPTED

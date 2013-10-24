@@ -1,17 +1,16 @@
-Podospora anserina (Rabenh.) Niessl, 1883 SPECIES
-=======
+# Podospora pauciseta (Ces.) Traverso, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Fl. ital. crypt. , Fungi 2,2: 431 (1907)
 
 #### Original name
-Malinvernia anserina Rabenh., 1857
+Sphaeria pauciseta Ces., 1852
 
 ### Remarks
 null

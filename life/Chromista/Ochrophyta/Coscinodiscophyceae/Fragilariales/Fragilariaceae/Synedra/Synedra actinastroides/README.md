@@ -1,5 +1,4 @@
-Synedra actinastroides Lemmermann SPECIES
-=======
+# Synedra actinastroides Lemmermann SPECIES
 
 #### Status
 ACCEPTED

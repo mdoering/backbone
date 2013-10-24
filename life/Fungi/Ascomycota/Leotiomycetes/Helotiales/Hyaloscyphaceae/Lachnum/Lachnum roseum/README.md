@@ -1,5 +1,4 @@
-Lachnum roseum (Rehm) Rehm SPECIES
-=======
+# Lachnum roseum (Rehm) Rehm SPECIES
 
 #### Status
 ACCEPTED

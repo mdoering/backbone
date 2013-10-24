@@ -1,5 +1,4 @@
-Mycocentrospora clavata S.H. Iqbal, 1974 SPECIES
-=======
+# Mycocentrospora clavata S.H. Iqbal, 1974 SPECIES
 
 #### Status
 ACCEPTED

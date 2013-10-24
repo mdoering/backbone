@@ -1,5 +1,4 @@
-Parastigmatea congregata (Syd. & P. Syd.) Arx & E. Müll. SPECIES
-=======
+# Parastigmatea congregata (Syd. & P. Syd.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

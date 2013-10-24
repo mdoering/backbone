@@ -1,5 +1,4 @@
-Agrocybe wayanadensis K.A. Thomas & Manim. SPECIES
-=======
+# Agrocybe wayanadensis K.A. Thomas & Manim. SPECIES
 
 #### Status
 ACCEPTED

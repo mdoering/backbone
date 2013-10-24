@@ -1,5 +1,4 @@
-Sporisorium catharticum (Maire) Vánky SPECIES
-=======
+# Sporisorium catharticum (Maire) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillites Trivedi & C.L. Verma GENUS
-=======
+# Aspergillites Trivedi & C.L. Verma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozites pallidus E. Horak & G.M. Taylor SPECIES
-=======
+# Rozites pallidus E. Horak & G.M. Taylor SPECIES
 
 #### Status
 ACCEPTED

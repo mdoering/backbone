@@ -1,5 +1,4 @@
-Cyttarocylis helix SPECIES
-=======
+# Cyttarocylis helix SPECIES
 
 #### Status
 ACCEPTED

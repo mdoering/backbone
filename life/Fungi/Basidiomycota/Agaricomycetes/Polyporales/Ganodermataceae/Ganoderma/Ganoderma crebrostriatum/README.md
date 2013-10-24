@@ -1,5 +1,4 @@
-Ganoderma crebrostriatum J.D. Zhao & L.W. Hsu, 1983 SPECIES
-=======
+# Ganoderma crebrostriatum J.D. Zhao & L.W. Hsu, 1983 SPECIES
 
 #### Status
 ACCEPTED

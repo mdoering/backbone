@@ -1,5 +1,4 @@
-Endomyces vernalis F. Ludw. SPECIES
-=======
+# Endomyces vernalis F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria vahlii Rostr. SPECIES
-=======
+# Leptosphaeria vahlii Rostr. SPECIES
 
 #### Status
 ACCEPTED

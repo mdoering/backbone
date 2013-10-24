@@ -1,5 +1,4 @@
-Toninia australis Timdal SPECIES
-=======
+# Toninia australis Timdal SPECIES
 
 #### Status
 ACCEPTED

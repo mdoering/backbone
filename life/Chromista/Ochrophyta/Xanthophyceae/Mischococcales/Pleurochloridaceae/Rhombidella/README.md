@@ -1,5 +1,4 @@
-Rhombidella GENUS
-=======
+# Rhombidella GENUS
 
 #### Status
 ACCEPTED

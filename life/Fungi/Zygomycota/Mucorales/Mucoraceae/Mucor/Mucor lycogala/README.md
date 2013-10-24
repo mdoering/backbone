@@ -1,17 +1,16 @@
-Mucor lycogalus Bolton SPECIES
-=======
+# Mucor lycogala Scop. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. carniol. (Wien), Edn 2 2: 496 (1772)
 
 #### Original name
-Mucor lycogalus Bolton
+Mucor lycogala Scop.
 
 ### Remarks
 null

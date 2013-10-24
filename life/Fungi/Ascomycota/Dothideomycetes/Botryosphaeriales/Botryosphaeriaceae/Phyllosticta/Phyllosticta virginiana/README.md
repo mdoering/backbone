@@ -1,5 +1,4 @@
-Phyllosticta virginiana (Ellis & Halst.) Ellis & Everh. SPECIES
-=======
+# Phyllosticta virginiana (Ellis & Halst.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

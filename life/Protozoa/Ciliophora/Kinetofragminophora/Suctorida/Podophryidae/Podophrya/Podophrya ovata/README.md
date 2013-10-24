@@ -1,5 +1,4 @@
-Podophrya ovata SPECIES
-=======
+# Podophrya ovata SPECIES
 
 #### Status
 ACCEPTED

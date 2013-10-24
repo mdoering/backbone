@@ -1,5 +1,4 @@
-Antennospora caribbea Meyers, 1957 SPECIES
-=======
+# Antennospora caribbea Meyers, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria vagans fragariaecola Fr. SUBSPECIES
-=======
+# Phyllosticta fragariicola Roberge ex Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Phyllosticta fragariicola Roberge ex Desm.
 
 ### Remarks
 null

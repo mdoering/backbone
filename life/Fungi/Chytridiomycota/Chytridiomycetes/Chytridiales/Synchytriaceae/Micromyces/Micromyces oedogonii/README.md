@@ -1,5 +1,4 @@
-Micromyces oedogonii (M. Roberts) Sparrow SPECIES
-=======
+# Micromyces oedogonii (M. Roberts) Sparrow SPECIES
 
 #### Status
 ACCEPTED

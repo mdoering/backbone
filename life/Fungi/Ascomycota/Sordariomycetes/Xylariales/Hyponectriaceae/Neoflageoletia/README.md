@@ -1,5 +1,4 @@
-Neoflageoletia J. Reid & C. Booth GENUS
-=======
+# Neoflageoletia J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

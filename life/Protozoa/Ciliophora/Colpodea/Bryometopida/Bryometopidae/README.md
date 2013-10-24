@@ -1,5 +1,4 @@
-Bryometopidae FAMILY
-=======
+# Bryometopidae FAMILY
 
 #### Status
 ACCEPTED

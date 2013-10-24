@@ -1,5 +1,4 @@
-Sticta ciliaris f. ciliaris Mont. & Bosch FORM
-=======
+# Sticta ciliaris Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta ciliaris f. ciliaris Mont. & Bosch
+Sticta ciliaris Mont. & Bosch
 
 ### Remarks
 null

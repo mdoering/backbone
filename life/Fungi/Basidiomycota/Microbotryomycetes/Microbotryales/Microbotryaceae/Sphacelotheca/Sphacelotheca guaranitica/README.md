@@ -1,5 +1,4 @@
-Sphacelotheca guaranitica (Speg.) Zundel SPECIES
-=======
+# Sphacelotheca guaranitica (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

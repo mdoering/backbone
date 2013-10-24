@@ -1,5 +1,4 @@
-Pertusaria sphaerophora Oshio SPECIES
-=======
+# Pertusaria sphaerophora Oshio SPECIES
 
 #### Status
 ACCEPTED

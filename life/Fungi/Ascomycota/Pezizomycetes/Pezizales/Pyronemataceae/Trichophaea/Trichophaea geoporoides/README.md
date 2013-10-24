@@ -1,5 +1,4 @@
-Trichophaea geoporoides Korf & W.Y. Zhuang SPECIES
-=======
+# Trichophaea geoporoides Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

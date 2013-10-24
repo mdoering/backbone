@@ -1,5 +1,4 @@
-Cortinarius gamundiae (E. Horak) E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius gamundiae (E. Horak) E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

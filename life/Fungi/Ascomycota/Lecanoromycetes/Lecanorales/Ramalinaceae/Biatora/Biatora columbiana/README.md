@@ -1,5 +1,4 @@
-Biatora columbiana G. Merr. SPECIES
-=======
+# Biatora columbiana G. Merr. SPECIES
 
 #### Status
 ACCEPTED

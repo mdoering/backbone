@@ -1,5 +1,4 @@
-Schizothrix fuscencens Kuetzing Ex Gomont, 1892 SPECIES
-=======
+# Schizothrix fuscencens Kuetzing Ex Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

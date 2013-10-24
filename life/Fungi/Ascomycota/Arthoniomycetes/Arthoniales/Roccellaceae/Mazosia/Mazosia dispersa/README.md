@@ -1,5 +1,4 @@
-Mazosia dispersa (Hedrick) R. Sant. SPECIES
-=======
+# Mazosia dispersa (Hedrick) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius lanuginosus Burl. SPECIES
-=======
+# Lactarius lanuginosus Burl. SPECIES
 
 #### Status
 ACCEPTED

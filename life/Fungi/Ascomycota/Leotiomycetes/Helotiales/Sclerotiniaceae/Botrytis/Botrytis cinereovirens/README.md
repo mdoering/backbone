@@ -1,5 +1,4 @@
-Botrytis cinereovirens Kunze & J.C. Schmidt SPECIES
-=======
+# Botrytis cinereovirens Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe ammophila M. Lange SPECIES
-=======
+# Conocybe ammophila M. Lange SPECIES
 
 #### Status
 ACCEPTED

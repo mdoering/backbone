@@ -1,5 +1,4 @@
-Pseudoomphalina lignicola Lj.N. Vassiljeva SPECIES
-=======
+# Pseudoomphalina lignicola Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

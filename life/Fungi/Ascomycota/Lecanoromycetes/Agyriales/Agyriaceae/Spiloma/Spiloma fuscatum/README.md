@@ -1,5 +1,4 @@
-Spiloma fuscatum SPECIES
-=======
+# Spiloma fuscatum SPECIES
 
 #### Status
 ACCEPTED

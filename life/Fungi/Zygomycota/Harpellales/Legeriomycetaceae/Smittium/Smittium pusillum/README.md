@@ -1,5 +1,4 @@
-Smittium pusillum Manier & F. Coste, 1971 SPECIES
-=======
+# Smittium pusillum Manier & F. Coste, 1971 SPECIES
 
 #### Status
 ACCEPTED

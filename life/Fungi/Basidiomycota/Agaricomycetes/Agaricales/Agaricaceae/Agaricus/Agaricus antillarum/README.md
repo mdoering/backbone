@@ -1,5 +1,4 @@
-Agaricus antillarum Fr. SPECIES
-=======
+# Agaricus antillarum Fr. SPECIES
 
 #### Status
 ACCEPTED

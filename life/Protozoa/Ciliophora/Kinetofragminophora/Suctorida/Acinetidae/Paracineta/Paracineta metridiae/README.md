@@ -1,5 +1,4 @@
-Paracineta metridiae Sherman & Schaner, 1965 SPECIES
-=======
+# Paracineta metridiae Sherman & Schaner, 1965 SPECIES
 
 #### Status
 ACCEPTED

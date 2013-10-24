@@ -1,5 +1,4 @@
-Syspastospora tropicalis Dania García, Stchigel & Guarro, 2002 SPECIES
-=======
+# Syspastospora tropicalis Dania García, Stchigel & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

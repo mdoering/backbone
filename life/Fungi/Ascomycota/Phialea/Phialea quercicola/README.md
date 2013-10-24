@@ -1,5 +1,4 @@
-Phialea quercicola (Saut.) Sacc. SPECIES
-=======
+# Phialea quercicola (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

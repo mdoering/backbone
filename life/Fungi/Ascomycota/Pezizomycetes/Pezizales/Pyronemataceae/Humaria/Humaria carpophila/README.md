@@ -1,5 +1,4 @@
-Humaria carpophila (Bizz.) Sacc. SPECIES
-=======
+# Humaria carpophila (Bizz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

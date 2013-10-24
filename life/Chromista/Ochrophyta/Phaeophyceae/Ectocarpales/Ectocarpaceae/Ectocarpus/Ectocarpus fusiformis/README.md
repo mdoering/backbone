@@ -1,5 +1,4 @@
-Ectocarpus fusiformis Nagai SPECIES
-=======
+# Ectocarpus fusiformis Nagai SPECIES
 
 #### Status
 ACCEPTED

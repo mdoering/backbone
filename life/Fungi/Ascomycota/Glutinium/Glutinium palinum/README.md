@@ -1,5 +1,4 @@
-Glutinium palinum (Fr.) Starbäck SPECIES
-=======
+# Glutinium palinum (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

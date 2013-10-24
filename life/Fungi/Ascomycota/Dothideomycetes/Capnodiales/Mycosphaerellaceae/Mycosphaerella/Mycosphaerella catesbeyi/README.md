@@ -1,5 +1,4 @@
-Mycosphaerella catesbeyi (Cooke) J.H. Mill. SPECIES
-=======
+# Mycosphaerella catesbeyi (Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

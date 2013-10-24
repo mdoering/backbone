@@ -1,5 +1,4 @@
-Anthomycetella Syd. & P. Syd. GENUS
-=======
+# Anthomycetella Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

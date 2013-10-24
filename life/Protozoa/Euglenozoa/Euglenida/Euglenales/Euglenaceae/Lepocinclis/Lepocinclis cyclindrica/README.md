@@ -1,11 +1,10 @@
-Lepocinclis cyclindrica subsp. cyclindrica SUBSPECIES
-=======
+# Lepocinclis cyclindrica SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

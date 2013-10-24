@@ -1,5 +1,4 @@
-Vermiculariopsiella circinata anon. ined. SPECIES
-=======
+# Vermiculariopsiella circinata anon. ined. SPECIES
 
 #### Status
 ACCEPTED

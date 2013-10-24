@@ -1,5 +1,4 @@
-Dimerium imperspicum (Speg.) Sacc. SPECIES
-=======
+# Dimerium imperspicum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

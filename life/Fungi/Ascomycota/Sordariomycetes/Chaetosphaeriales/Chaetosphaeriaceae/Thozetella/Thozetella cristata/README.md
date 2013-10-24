@@ -1,5 +1,4 @@
-Thozetella cristata Piroz. & Hodges, 1973 SPECIES
-=======
+# Thozetella cristata Piroz. & Hodges, 1973 SPECIES
 
 #### Status
 ACCEPTED

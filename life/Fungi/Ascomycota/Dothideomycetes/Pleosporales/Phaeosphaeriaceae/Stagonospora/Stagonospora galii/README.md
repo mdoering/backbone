@@ -1,5 +1,4 @@
-Stagonospora galii Fautrey SPECIES
-=======
+# Stagonospora galii Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora meiocarpoides (Nyl.) Arnold SPECIES
-=======
+# Biatora meiocarpoides (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

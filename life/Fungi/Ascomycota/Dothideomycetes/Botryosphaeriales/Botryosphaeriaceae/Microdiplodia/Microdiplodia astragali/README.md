@@ -1,5 +1,4 @@
-Microdiplodia astragali Koshk. & Frolov SPECIES
-=======
+# Microdiplodia astragali Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

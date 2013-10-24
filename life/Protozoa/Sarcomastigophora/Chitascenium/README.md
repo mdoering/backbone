@@ -1,5 +1,4 @@
-Chitascenium Sugiyama, 1994 GENUS
-=======
+# Chitascenium Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

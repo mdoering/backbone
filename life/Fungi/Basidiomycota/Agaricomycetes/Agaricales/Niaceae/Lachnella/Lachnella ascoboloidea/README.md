@@ -1,5 +1,4 @@
-Lachnella ascoboloidea (Schwein.) Sacc. SPECIES
-=======
+# Lachnella ascoboloidea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

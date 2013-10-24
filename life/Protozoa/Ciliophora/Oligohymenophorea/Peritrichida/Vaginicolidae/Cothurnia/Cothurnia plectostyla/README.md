@@ -1,5 +1,4 @@
-Cothurnia plectostyla Stokes, 1885 SPECIES
-=======
+# Cothurnia plectostyla Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

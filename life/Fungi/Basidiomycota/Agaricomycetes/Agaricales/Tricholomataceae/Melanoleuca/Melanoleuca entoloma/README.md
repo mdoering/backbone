@@ -1,5 +1,4 @@
-Melanoleuca entoloma Murrill SPECIES
-=======
+# Melanoleuca entoloma Murrill SPECIES
 
 #### Status
 ACCEPTED

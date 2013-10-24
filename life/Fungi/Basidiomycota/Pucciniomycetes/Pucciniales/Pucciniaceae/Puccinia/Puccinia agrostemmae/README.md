@@ -1,5 +1,4 @@
-Puccinia agrostemmae Fuckel SPECIES
-=======
+# Puccinia agrostemmae Fuckel SPECIES
 
 #### Status
 ACCEPTED

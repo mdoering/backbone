@@ -1,5 +1,4 @@
-Lachnea mirabilis (Massee) W. Phillips SPECIES
-=======
+# Lachnea mirabilis (Massee) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

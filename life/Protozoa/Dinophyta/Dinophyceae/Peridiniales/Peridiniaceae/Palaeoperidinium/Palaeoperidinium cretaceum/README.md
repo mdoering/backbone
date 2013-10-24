@@ -1,5 +1,4 @@
-Palaeoperidinium cretaceum Pocock, 1962 SPECIES
-=======
+# Palaeoperidinium cretaceum Pocock, 1962 SPECIES
 
 #### Status
 ACCEPTED

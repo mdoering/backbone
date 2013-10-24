@@ -1,5 +1,4 @@
-Helotium karstenii Roum. SPECIES
-=======
+# Helotium karstenii Roum. SPECIES
 
 #### Status
 ACCEPTED

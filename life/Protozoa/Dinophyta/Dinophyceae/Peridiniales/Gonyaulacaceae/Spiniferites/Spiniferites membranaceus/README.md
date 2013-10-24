@@ -1,5 +1,4 @@
-Spiniferites membranaceus (M. Rossignol, 1964) W.A.S. Sarjeant, 1970 SPECIES
-=======
+# Spiniferites membranaceus (M. Rossignol, 1964) W.A.S. Sarjeant, 1970 SPECIES
 
 #### Status
 ACCEPTED

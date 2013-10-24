@@ -1,5 +1,4 @@
-Opercularia lichtensteini subsp. macrostyla Nenninger, 1948 SUBSPECIES
-=======
+# Opercularia lichtensteini Stein, 1868 SPECIES
 
 #### Status
 ACCEPTED

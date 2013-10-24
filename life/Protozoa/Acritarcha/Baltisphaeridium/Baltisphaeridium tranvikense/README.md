@@ -1,5 +1,4 @@
-Baltisphaeridium tranvikense Tynni, 1982 SPECIES
-=======
+# Baltisphaeridium tranvikense Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

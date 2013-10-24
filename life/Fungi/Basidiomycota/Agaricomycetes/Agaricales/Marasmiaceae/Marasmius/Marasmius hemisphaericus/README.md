@@ -1,5 +1,4 @@
-Marasmius hemisphaericus Murrill SPECIES
-=======
+# Marasmius hemisphaericus Murrill SPECIES
 
 #### Status
 ACCEPTED

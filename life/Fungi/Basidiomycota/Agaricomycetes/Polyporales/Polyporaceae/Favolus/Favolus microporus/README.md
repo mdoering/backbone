@@ -1,14 +1,13 @@
-Favolus microsporus (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Favolus microporus (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 17: 143 (1905)
 
 #### Original name
 Favolus microsporus (Murrill) Sacc. & D. Sacc.

@@ -1,5 +1,4 @@
-Lecanora phaeophora (Stizenb.) H. Magn. SPECIES
-=======
+# Lecanora phaeophora (Stizenb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius floriceps Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius floriceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

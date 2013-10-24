@@ -1,5 +1,4 @@
-Sphaeria ochraceopallida Haller, 1768 SPECIES
-=======
+# Sphaeria ochraceopallida Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED

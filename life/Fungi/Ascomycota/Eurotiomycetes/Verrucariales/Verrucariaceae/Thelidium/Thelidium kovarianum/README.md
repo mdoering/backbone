@@ -1,5 +1,4 @@
-Thelidium kovarianum Servít SPECIES
-=======
+# Thelidium kovarianum Servít SPECIES
 
 #### Status
 ACCEPTED

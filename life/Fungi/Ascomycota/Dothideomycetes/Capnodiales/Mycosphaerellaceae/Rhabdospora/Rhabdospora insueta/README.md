@@ -1,5 +1,4 @@
-Rhabdospora insueta Petr. SPECIES
-=======
+# Rhabdospora insueta Petr. SPECIES
 
 #### Status
 ACCEPTED

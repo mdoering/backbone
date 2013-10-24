@@ -1,5 +1,4 @@
-Trypethelium cinereorosellum Kremp. SPECIES
-=======
+# Trypethelium cinereorosellum Kremp. SPECIES
 
 #### Status
 ACCEPTED

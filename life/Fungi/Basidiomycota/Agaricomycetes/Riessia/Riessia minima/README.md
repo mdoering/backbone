@@ -1,5 +1,4 @@
-Riessia minima Sacc., 1906 SPECIES
-=======
+# Riessia minima Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

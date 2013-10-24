@@ -1,5 +1,4 @@
-Uredo plantaginis-mediae Gonz. Frag. SPECIES
-=======
+# Uredo plantaginis-mediae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

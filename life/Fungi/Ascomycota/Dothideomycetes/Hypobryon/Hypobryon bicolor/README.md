@@ -1,5 +1,4 @@
-Hypobryon bicolor Döbbeler, 1983 SPECIES
-=======
+# Hypobryon bicolor Döbbeler, 1983 SPECIES
 
 #### Status
 ACCEPTED

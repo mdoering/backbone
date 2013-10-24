@@ -1,5 +1,4 @@
-Hendersonia australis Tassi SPECIES
-=======
+# Hendersonia australis Tassi SPECIES
 
 #### Status
 ACCEPTED

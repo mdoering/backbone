@@ -1,5 +1,4 @@
-Micropeltis bogoriensis Höhn. SPECIES
-=======
+# Micropeltis bogoriensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

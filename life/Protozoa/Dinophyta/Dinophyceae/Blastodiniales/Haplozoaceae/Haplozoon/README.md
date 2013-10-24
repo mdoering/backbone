@@ -1,14 +1,13 @@
-Microtaeniella Calkins, 1915 GENUS
-=======
+# Haplozoon Dogiel, 1906 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biol. Bull. , Woods Hole, 29, 26.
+Zool. Anz. , 30, 895.
 
 #### Original name
 null

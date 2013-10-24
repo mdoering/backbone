@@ -1,5 +1,4 @@
-Usnea freyi Motyka SPECIES
-=======
+# Usnea freyi Motyka SPECIES
 
 #### Status
 ACCEPTED

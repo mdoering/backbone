@@ -1,5 +1,4 @@
-Discorbis squamata SPECIES
-=======
+# Discorbis squamata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma violaceostriatum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma violaceostriatum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

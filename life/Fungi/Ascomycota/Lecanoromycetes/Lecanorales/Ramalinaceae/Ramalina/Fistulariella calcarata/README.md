@@ -1,5 +1,4 @@
-Fistulariella calcarata (Krog & Swinscow) Bowler & Rundel SPECIES
-=======
+# Fistulariella calcarata (Krog & Swinscow) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

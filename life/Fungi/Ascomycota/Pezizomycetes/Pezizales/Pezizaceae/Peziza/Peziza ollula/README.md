@@ -1,5 +1,4 @@
-Peziza ollula P. Karst. SPECIES
-=======
+# Peziza ollula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus varius G.F. Atk. SPECIES
-=======
+# Exoascus varius G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

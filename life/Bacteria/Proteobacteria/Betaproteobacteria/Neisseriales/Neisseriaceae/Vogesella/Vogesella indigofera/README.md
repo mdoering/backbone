@@ -1,8 +1,7 @@
-Pseudomonas indigofera (Voges, 1893) Migula, 1900 (Approved Lists, 1980) SPECIES
-=======
+# Vogesella indigofera (Voges, 1893) Grimes et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

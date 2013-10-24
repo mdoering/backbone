@@ -1,5 +1,4 @@
-Poria griseoalba (Peck) Sacc. SPECIES
-=======
+# Poria griseoalba (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

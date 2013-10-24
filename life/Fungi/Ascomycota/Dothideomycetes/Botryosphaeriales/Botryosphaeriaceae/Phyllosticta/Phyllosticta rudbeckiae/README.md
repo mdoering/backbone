@@ -1,5 +1,4 @@
-Phyllosticta rudbeckiae Ellis & Everh. SPECIES
-=======
+# Phyllosticta rudbeckiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

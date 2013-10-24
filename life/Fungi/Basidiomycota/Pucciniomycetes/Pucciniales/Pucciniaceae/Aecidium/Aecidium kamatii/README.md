@@ -1,5 +1,4 @@
-Aecidium kamatii Sathe SPECIES
-=======
+# Aecidium kamatii Sathe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symbiobacterium thermophilum Ohno et al., 2000 SPECIES
-=======
+# Symbiobacterium thermophilum Ohno et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

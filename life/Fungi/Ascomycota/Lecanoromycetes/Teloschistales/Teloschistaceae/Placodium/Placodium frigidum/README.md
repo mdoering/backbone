@@ -1,5 +1,4 @@
-Placodium frigidum Paulson SPECIES
-=======
+# Placodium frigidum Paulson SPECIES
 
 #### Status
 ACCEPTED

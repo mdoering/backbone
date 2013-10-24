@@ -1,5 +1,4 @@
-Calicium validiusculum Trevis. SPECIES
-=======
+# Calicium validiusculum Trevis. SPECIES
 
 #### Status
 ACCEPTED

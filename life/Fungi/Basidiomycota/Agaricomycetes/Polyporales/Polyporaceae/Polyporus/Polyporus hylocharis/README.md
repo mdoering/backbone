@@ -1,5 +1,4 @@
-Polyporus hylocharis Speg. SPECIES
-=======
+# Polyporus hylocharis Speg. SPECIES
 
 #### Status
 ACCEPTED

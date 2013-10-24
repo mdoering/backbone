@@ -1,14 +1,13 @@
-Amphisphaeria hypoxylon Ellis & Everh., 1886 SPECIES
-=======
+# Immotthia hypoxylon (Ellis & Everh.) M.E. Barr, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 2(4): 41 (1886)
+Mycotaxon 29: 504 (1987)
 
 #### Original name
 Amphisphaeria hypoxylon Ellis & Everh., 1886

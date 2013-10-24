@@ -1,5 +1,4 @@
-Myxofusicoccum expansum Moesz SPECIES
-=======
+# Myxofusicoccum expansum Moesz SPECIES
 
 #### Status
 ACCEPTED

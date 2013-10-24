@@ -1,17 +1,16 @@
-Rhizocarpon expallescens subsp. expallescens SUBSPECIES
-=======
+# Rhizocarpon expallescens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 620 (1874)
 
 #### Original name
-Rhizocarpon expallescens subsp. expallescens
+Rhizocarpon expallescens Th. Fr.
 
 ### Remarks
 null

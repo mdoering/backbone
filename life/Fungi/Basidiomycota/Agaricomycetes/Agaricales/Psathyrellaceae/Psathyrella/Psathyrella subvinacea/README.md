@@ -1,5 +1,4 @@
-Psathyrella subvinacea A.H. Sm. SPECIES
-=======
+# Psathyrella subvinacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

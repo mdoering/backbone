@@ -1,5 +1,4 @@
-Xenohaliotis Friedman et al., 2000 GENUS
-=======
+# Xenohaliotis Friedman et al., 2000 GENUS
 
 #### Status
 ACCEPTED

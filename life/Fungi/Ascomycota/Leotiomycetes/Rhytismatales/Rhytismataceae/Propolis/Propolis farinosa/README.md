@@ -1,17 +1,16 @@
-Propolis versicolor f. versicolor FORM
-=======
+# Propolis farinosa (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Summa veg. Scand. (Stockholm), Section Post. 372 (1849)
 
 #### Original name
-Propolis versicolor f. versicolor
+Stictis farinosa Pers., 1822
 
 ### Remarks
 null

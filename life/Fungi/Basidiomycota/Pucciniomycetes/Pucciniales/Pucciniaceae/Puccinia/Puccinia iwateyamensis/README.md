@@ -1,5 +1,4 @@
-Puccinia iwateyamensis Hirats. f. SPECIES
-=======
+# Puccinia iwateyamensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

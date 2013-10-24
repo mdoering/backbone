@@ -1,5 +1,4 @@
-Fungus peronatus (Massee) Kuntze SPECIES
-=======
+# Fungus peronatus (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

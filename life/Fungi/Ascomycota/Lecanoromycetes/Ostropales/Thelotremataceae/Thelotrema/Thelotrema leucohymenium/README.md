@@ -1,5 +1,4 @@
-Thelotrema leucohymenium Zahlbr. SPECIES
-=======
+# Thelotrema leucohymenium Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

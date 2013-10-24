@@ -1,5 +1,4 @@
-Tapesia balsamicola Peck SPECIES
-=======
+# Tapesia balsamicola Peck SPECIES
 
 #### Status
 ACCEPTED

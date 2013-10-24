@@ -1,5 +1,4 @@
-Pertusaria subcoronata Müll. Arg. SPECIES
-=======
+# Pertusaria subcoronata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

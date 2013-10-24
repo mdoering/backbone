@@ -1,5 +1,4 @@
-Thyridaria rigniacensis Sacc. & Flageolet SPECIES
-=======
+# Thyridaria rigniacensis Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

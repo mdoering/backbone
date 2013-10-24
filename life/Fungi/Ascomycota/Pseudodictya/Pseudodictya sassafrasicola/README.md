@@ -1,5 +1,4 @@
-Pseudodictya sassafrasicola Tehon & G.L. Stout SPECIES
-=======
+# Pseudodictya sassafrasicola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

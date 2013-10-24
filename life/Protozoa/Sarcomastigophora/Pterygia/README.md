@@ -1,5 +1,4 @@
-Pterygia Jung, 1942 GENUS
-=======
+# Pterygia Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

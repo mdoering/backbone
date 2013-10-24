@@ -1,5 +1,4 @@
-Parmelia inexspectata Abbayes SPECIES
-=======
+# Parmelia inexspectata Abbayes SPECIES
 
 #### Status
 ACCEPTED

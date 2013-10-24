@@ -1,8 +1,7 @@
-Graphina anonacea Müll. Arg. SPECIES
-=======
+# Graphina annonacea Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina anonacea Müll. Arg.
+Graphina annonacea Müll. Arg.
 
 ### Remarks
 null

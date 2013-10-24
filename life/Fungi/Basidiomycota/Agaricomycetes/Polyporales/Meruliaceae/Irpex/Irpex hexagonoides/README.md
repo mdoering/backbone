@@ -1,5 +1,4 @@
-Irpex hexagonoides Kalchbr. SPECIES
-=======
+# Irpex hexagonoides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

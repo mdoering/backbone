@@ -1,5 +1,4 @@
-Gloeosporium gallarum Richon SPECIES
-=======
+# Gloeosporium gallarum Richon SPECIES
 
 #### Status
 ACCEPTED

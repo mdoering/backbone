@@ -1,17 +1,16 @@
-Hyphoderma puberum var. puberum VARIETY
-=======
+# Peniophorella pubera (Fr.) P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 576 (1833)
+Bidr. Känn. Finl. Nat. Folk 48: 427 (1889)
 
 #### Original name
-Hyphoderma puberum var. puberum
+Thelephora pubera Fr., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calonectria inconspicua G. Winter SPECIES
-=======
+# Calonectria inconspicua G. Winter SPECIES
 
 #### Status
 ACCEPTED

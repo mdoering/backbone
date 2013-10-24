@@ -1,5 +1,4 @@
-Lecidea leucophaeiza (Nyl.) Nyl. SPECIES
-=======
+# Lecidea leucophaeiza (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

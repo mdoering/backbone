@@ -1,5 +1,4 @@
-Sphaerulina leightonii (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Sphaerulina leightonii (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

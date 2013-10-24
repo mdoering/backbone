@@ -1,5 +1,4 @@
-Inocybe aurantiobrunnea Esteve-Rav. & García Blanco SPECIES
-=======
+# Inocybe aurantiobrunnea Esteve-Rav. & García Blanco SPECIES
 
 #### Status
 ACCEPTED

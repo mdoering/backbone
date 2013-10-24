@@ -1,5 +1,4 @@
-Dematium subcorticale (Pers.) Link SPECIES
-=======
+# Dematium subcorticale (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

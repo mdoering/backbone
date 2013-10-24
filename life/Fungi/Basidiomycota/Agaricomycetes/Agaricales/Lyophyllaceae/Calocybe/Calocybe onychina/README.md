@@ -1,17 +1,16 @@
-Tricholoma onychinum (Fr.) Gillet, 1874 SPECIES
-=======
+# Calocybe onychina (Fr.) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 5: 43 (1962)
 
 #### Original name
-null
+Agaricus onychinus Fr., 1838
 
 ### Remarks
 null

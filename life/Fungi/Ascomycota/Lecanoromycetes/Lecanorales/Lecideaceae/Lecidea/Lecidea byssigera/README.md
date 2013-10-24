@@ -1,5 +1,4 @@
-Lecidea byssigera Zahlbr. SPECIES
-=======
+# Lecidea byssigera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

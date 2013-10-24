@@ -1,5 +1,4 @@
-Cosmospora dingleyae Lowen, 1999 SPECIES
-=======
+# Cosmospora dingleyae Lowen, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocephalum coprophilum Tubaki SPECIES
-=======
+# Cylindrocephalum coprophilum Tubaki SPECIES
 
 #### Status
 ACCEPTED

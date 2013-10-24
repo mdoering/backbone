@@ -1,5 +1,4 @@
-Hebelomina mediterranea A. Gennari SPECIES
-=======
+# Hebelomina mediterranea A. Gennari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora maclurae Mitrosh. SPECIES
-=======
+# Physalospora maclurae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus floriformis (Peck) Kuntze SPECIES
-=======
+# Hymenoscyphus floriformis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

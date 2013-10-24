@@ -1,14 +1,13 @@
-Pestalotia viridis Torrend, 1913 SPECIES
-=======
+# Hyalotia viridis (Torrend) Guba, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Monochaetia and Pestalotia 310 (1961)
 
 #### Original name
 Pestalotia viridis Torrend, 1913

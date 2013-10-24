@@ -1,5 +1,4 @@
-Entyloma echinaceae Vánky & McKenzie, 2002 SPECIES
-=======
+# Entyloma echinaceae Vánky & McKenzie, 2002 SPECIES
 
 #### Status
 ACCEPTED

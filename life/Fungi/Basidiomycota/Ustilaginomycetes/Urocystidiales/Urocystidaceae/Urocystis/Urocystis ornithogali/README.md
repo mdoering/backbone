@@ -1,5 +1,4 @@
-Urocystis ornithogali Körn. ex A.A. Fisch. Waldh. SPECIES
-=======
+# Urocystis ornithogali Körn. ex A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

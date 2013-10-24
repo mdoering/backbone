@@ -1,5 +1,4 @@
-Chlamydomyces diffusus Bainier, 1907 SPECIES
-=======
+# Chlamydomyces diffusus Bainier, 1907 SPECIES
 
 #### Status
 ACCEPTED

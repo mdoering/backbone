@@ -1,5 +1,4 @@
-Dothichiza ambigua (A. Funk & A.K. Parker) M. Morelet SPECIES
-=======
+# Dothichiza ambigua (A. Funk & A.K. Parker) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma junci Preuss SPECIES
-=======
+# Phoma junci Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphus ochraceus (Pat.) Singer SPECIES
-=======
+# Gomphus ochraceus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgaria similis Berk. & M.A. Curtis SPECIES
-=======
+# Bulgaria similis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

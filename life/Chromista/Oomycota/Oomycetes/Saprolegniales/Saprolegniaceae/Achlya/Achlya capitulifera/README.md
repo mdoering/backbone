@@ -1,5 +1,4 @@
-Achlya capitulifera A. Braun SPECIES
-=======
+# Achlya capitulifera A. Braun SPECIES
 
 #### Status
 ACCEPTED

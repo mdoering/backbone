@@ -1,5 +1,4 @@
-Irenina terminaliae Hansf. & Deighton SPECIES
-=======
+# Irenina terminaliae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sabouraudites farinulentus (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites farinulentus (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

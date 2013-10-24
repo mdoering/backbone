@@ -1,5 +1,4 @@
-Phaeographis subdevelans (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis subdevelans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum elegans Wenzel, 1961 SPECIES
-=======
+# Loxophyllum elegans Wenzel, 1961 SPECIES
 
 #### Status
 ACCEPTED

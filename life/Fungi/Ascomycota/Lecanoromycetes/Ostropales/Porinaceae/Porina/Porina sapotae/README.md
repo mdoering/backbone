@@ -1,5 +1,4 @@
-Porina sapotae Vain. SPECIES
-=======
+# Porina sapotae Vain. SPECIES
 
 #### Status
 ACCEPTED

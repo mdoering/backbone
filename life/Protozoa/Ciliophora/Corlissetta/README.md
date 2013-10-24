@@ -1,5 +1,4 @@
-Corlissetta Jankowski, 1986 GENUS
-=======
+# Corlissetta Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

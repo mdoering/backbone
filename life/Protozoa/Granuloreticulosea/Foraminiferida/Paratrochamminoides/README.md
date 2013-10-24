@@ -1,5 +1,4 @@
-Paratrochamminoides Soliman, 1972 GENUS
-=======
+# Paratrochamminoides Soliman, 1972 GENUS
 
 #### Status
 ACCEPTED

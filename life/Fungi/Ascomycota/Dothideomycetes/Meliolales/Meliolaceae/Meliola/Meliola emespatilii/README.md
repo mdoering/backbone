@@ -1,5 +1,4 @@
-Meliola emespatilii Hosag., D.K. Agarwal & Archana SPECIES
-=======
+# Meliola emespatilii Hosag., D.K. Agarwal & Archana SPECIES
 
 #### Status
 ACCEPTED

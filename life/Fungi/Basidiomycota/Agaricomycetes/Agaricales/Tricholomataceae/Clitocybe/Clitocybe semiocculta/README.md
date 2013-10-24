@@ -1,5 +1,4 @@
-Clitocybe semiocculta Cleland SPECIES
-=======
+# Clitocybe semiocculta Cleland SPECIES
 
 #### Status
 ACCEPTED

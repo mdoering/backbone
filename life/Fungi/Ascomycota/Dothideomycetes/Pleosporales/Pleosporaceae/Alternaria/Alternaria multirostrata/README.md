@@ -1,5 +1,4 @@
-Alternaria multirostrata E.G. Simmons & C.R. Jacks., 1968 SPECIES
-=======
+# Alternaria multirostrata E.G. Simmons & C.R. Jacks., 1968 SPECIES
 
 #### Status
 ACCEPTED

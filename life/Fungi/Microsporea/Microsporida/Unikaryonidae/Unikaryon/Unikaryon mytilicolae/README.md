@@ -1,5 +1,4 @@
-Unikaryon mytilicolae Durfort, Vallmitjana & Vivares SPECIES
-=======
+# Unikaryon mytilicolae Durfort, Vallmitjana & Vivares SPECIES
 
 #### Status
 ACCEPTED

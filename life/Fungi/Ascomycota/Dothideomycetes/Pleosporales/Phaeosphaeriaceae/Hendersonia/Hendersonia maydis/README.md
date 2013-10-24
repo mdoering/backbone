@@ -1,5 +1,4 @@
-Hendersonia maydis Saccas SPECIES
-=======
+# Hendersonia maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

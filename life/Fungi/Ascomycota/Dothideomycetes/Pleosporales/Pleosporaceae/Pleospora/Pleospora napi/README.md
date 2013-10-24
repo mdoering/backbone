@@ -1,5 +1,4 @@
-Pleospora napi Fuckel SPECIES
-=======
+# Pleospora napi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurodiscus pateriformis G. Cunn. SPECIES
-=======
+# Aleurodiscus pateriformis G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

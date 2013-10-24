@@ -1,5 +1,4 @@
-Phoma lebbek Szembel SPECIES
-=======
+# Phoma lebbek Szembel SPECIES
 
 #### Status
 ACCEPTED

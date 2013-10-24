@@ -1,17 +1,16 @@
-Phoma argillacea (Bres.) Aa & Boerema, 2002 SPECIES
-=======
+# Didymella applanata (Niessl) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gruyter, Boerema & Aa, Persoonia 18(1): 17 (2002)
+Syll. fung. (Abellini) 1: 546 (1882)
 
 #### Original name
-Phyllosticta argillacea Bres., 1894
+Didymosphaeria applanata Niessl, 1875
 
 ### Remarks
 null

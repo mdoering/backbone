@@ -1,17 +1,16 @@
-Cercospora staticis Lobik SPECIES
-=======
+# Cercospora statices Pesante, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bolezni rastenii 17(3-4): 195 (1928)
 
 #### Original name
-Cercospora staticis Lobik
+Cercospora statices Pesante, 1956
 
 ### Remarks
 null

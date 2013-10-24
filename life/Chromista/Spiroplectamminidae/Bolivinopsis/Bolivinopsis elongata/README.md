@@ -1,5 +1,4 @@
-Bolivinopsis elongata Zheng, 1988 SPECIES
-=======
+# Bolivinopsis elongata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrophilomyces coneglanensis Speg. SPECIES
-=======
+# Hydrophilomyces coneglanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

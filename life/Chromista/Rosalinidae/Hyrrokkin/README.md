@@ -1,5 +1,4 @@
-Hyrrokkin Cedhagen, 1994 GENUS
-=======
+# Hyrrokkin Cedhagen, 1994 GENUS
 
 #### Status
 ACCEPTED

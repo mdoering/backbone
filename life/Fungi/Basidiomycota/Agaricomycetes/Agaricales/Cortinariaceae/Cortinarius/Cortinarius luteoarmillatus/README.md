@@ -1,5 +1,4 @@
-Cortinarius luteoarmillatus A.H. Sm. SPECIES
-=======
+# Cortinarius luteoarmillatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

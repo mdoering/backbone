@@ -1,5 +1,4 @@
-Corticium haloxyli Kravtzev SPECIES
-=======
+# Corticium haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

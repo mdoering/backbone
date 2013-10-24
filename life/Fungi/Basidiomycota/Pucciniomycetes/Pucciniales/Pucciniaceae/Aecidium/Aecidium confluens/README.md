@@ -1,5 +1,4 @@
-Aecidium confluens Sowerby SPECIES
-=======
+# Aecidium confluens Sowerby SPECIES
 
 #### Status
 ACCEPTED

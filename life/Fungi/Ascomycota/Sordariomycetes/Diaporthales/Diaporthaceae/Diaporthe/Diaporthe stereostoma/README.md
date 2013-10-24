@@ -1,5 +1,4 @@
-Diaporthe stereostoma Ellis & Everh. SPECIES
-=======
+# Diaporthe stereostoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

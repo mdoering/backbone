@@ -1,5 +1,4 @@
-Arachnopeziza depauperata Svrcek SPECIES
-=======
+# Arachnopeziza depauperata Svrcek SPECIES
 
 #### Status
 ACCEPTED

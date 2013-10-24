@@ -1,5 +1,4 @@
-Ogdeniella septentrionalis Golemansky, 1982 SPECIES
-=======
+# Ogdeniella septentrionalis Golemansky, 1982 SPECIES
 
 #### Status
 ACCEPTED

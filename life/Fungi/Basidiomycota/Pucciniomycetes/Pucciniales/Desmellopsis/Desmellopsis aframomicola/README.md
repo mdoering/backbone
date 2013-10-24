@@ -1,17 +1,16 @@
-Desmellopsis afromomicola J.M. Yen SPECIES
-=======
+# Desmellopsis aframomicola J.M. Yen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 34: 21 (1969)
 
 #### Original name
-Desmellopsis afromomicola J.M. Yen
+Desmellopsis aframomicola J.M. Yen, 1969
 
 ### Remarks
 null

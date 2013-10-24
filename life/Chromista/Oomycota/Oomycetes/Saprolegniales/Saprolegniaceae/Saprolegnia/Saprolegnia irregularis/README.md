@@ -1,5 +1,4 @@
-Saprolegnia irregularis T.W. Johnson & R.L. Seym. SPECIES
-=======
+# Saprolegnia irregularis T.W. Johnson & R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

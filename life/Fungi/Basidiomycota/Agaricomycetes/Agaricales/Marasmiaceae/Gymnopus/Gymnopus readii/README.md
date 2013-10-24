@@ -1,5 +1,4 @@
-Gymnopus readii (G. Stev.) J.L. Mata, 2006 SPECIES
-=======
+# Gymnopus readii (G. Stev.) J.L. Mata, 2006 SPECIES
 
 #### Status
 ACCEPTED

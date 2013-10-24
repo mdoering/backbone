@@ -1,5 +1,4 @@
-Anixia interrupta Schwein. SPECIES
-=======
+# Anixia interrupta Schwein. SPECIES
 
 #### Status
 ACCEPTED

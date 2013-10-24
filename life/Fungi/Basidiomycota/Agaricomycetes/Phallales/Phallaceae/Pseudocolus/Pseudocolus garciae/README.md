@@ -1,14 +1,13 @@
-Colus garciae Möller, 1895 SPECIES
-=======
+# Pseudocolus garciae (Möller) Lloyd, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mitt. Trop. 8: 35, 146 (1895)
+Mycol. Notes (Cincinnati) 28: 358 (1895)
 
 #### Original name
 Colus garciae Möller, 1895

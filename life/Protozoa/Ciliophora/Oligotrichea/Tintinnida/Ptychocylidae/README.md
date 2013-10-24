@@ -1,5 +1,4 @@
-Ptychocylidae FAMILY
-=======
+# Ptychocylidae FAMILY
 
 #### Status
 ACCEPTED

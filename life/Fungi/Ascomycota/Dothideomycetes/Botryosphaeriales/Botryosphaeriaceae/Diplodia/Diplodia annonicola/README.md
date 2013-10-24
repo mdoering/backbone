@@ -1,17 +1,16 @@
-Diplodia anonicola Henn. SPECIES
-=======
+# Diplodia annonicola Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 114 (1902)
 
 #### Original name
-Diplodia anonicola Henn.
+Diplodia annonicola Henn.
 
 ### Remarks
 null

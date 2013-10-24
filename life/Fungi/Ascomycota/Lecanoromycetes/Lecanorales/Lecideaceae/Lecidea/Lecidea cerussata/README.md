@@ -1,5 +1,4 @@
-Lecidea cerussata Hue SPECIES
-=======
+# Lecidea cerussata Hue SPECIES
 
 #### Status
 ACCEPTED

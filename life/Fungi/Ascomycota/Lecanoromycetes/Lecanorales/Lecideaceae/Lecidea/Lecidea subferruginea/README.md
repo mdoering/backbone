@@ -1,5 +1,4 @@
-Lecidea subferruginea (Nyl.) Hue SPECIES
-=======
+# Lecidea subferruginea (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

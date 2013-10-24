@@ -1,5 +1,4 @@
-Schismatomma psaroleucoides (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma psaroleucoides (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

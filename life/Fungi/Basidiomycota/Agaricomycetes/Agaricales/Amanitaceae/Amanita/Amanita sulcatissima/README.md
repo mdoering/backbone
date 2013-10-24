@@ -1,5 +1,4 @@
-Amanita sulcatissima Bas SPECIES
-=======
+# Amanita sulcatissima Bas SPECIES
 
 #### Status
 ACCEPTED

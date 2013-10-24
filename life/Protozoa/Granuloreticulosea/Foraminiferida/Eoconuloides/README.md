@@ -1,5 +1,4 @@
-Eoconuloides Cole & Bermúdez, 1944 GENUS
-=======
+# Eoconuloides Cole & Bermúdez, 1944 GENUS
 
 #### Status
 ACCEPTED

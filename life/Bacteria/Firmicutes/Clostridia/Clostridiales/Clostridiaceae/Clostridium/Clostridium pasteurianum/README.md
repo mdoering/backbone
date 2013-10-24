@@ -1,11 +1,10 @@
-Clostridium pastorianus Winogradsky, 1902 SPECIES
-=======
+# Clostridium pasteurianum Winogradsky, 1895 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

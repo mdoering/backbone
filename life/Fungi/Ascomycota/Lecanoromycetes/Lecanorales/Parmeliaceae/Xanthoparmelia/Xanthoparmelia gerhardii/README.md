@@ -1,5 +1,4 @@
-Xanthoparmelia gerhardii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia gerhardii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium allii Oudem. SPECIES
-=======
+# Stemphylium allii Oudem. SPECIES
 
 #### Status
 ACCEPTED

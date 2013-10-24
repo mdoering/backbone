@@ -1,5 +1,4 @@
-Cantharosphaeria GENUS
-=======
+# Cantharosphaeria GENUS
 
 #### Status
 ACCEPTED

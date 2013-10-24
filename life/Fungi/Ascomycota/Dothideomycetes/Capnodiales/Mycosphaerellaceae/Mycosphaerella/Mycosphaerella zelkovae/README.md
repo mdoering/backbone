@@ -1,17 +1,16 @@
-Mycosphaerella zelkowae Syd. & Hara SPECIES
-=======
+# Mycosphaerella zelkovae Syd. & Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11: 60 (1913)
 
 #### Original name
-Mycosphaerella zelkowae Syd. & Hara
+Mycosphaerella zelkovae Syd. & Hara
 
 ### Remarks
 null

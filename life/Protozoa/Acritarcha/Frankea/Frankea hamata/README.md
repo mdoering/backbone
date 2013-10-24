@@ -1,5 +1,4 @@
-Frankea hamata Burmann, 1970 SPECIES
-=======
+# Frankea hamata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

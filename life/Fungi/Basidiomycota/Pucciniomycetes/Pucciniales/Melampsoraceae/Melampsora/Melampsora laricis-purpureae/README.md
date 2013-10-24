@@ -1,5 +1,4 @@
-Melampsora laricis-purpureae W.G. Schneid. SPECIES
-=======
+# Melampsora laricis-purpureae W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

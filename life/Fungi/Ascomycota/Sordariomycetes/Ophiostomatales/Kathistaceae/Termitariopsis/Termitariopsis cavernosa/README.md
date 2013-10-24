@@ -1,5 +1,4 @@
-Termitariopsis cavernosa M. Blackw., Samson & Kimbr., 1980 SPECIES
-=======
+# Termitariopsis cavernosa M. Blackw., Samson & Kimbr., 1980 SPECIES
 
 #### Status
 ACCEPTED

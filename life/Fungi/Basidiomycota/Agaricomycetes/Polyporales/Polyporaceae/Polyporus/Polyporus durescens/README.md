@@ -1,5 +1,4 @@
-Polyporus durescens Overh. SPECIES
-=======
+# Polyporus durescens Overh. SPECIES
 
 #### Status
 ACCEPTED

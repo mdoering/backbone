@@ -1,5 +1,4 @@
-Phyllosticta bufonii Oudem. SPECIES
-=======
+# Phyllosticta bufonii Oudem. SPECIES
 
 #### Status
 ACCEPTED

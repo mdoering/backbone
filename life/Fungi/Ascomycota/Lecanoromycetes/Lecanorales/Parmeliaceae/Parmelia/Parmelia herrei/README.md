@@ -1,5 +1,4 @@
-Parmelia herrei Zahlbr. SPECIES
-=======
+# Parmelia herrei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

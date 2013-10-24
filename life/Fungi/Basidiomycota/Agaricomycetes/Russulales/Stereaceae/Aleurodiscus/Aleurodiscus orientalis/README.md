@@ -1,5 +1,4 @@
-Aleurodiscus orientalis Lloyd SPECIES
-=======
+# Aleurodiscus orientalis Lloyd SPECIES
 
 #### Status
 ACCEPTED

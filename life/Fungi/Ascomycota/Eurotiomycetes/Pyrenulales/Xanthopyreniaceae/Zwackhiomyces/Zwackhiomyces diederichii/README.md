@@ -1,5 +1,4 @@
-Zwackhiomyces diederichii D. Hawksw. & Iturr. SPECIES
-=======
+# Zwackhiomyces diederichii D. Hawksw. & Iturr. SPECIES
 
 #### Status
 ACCEPTED

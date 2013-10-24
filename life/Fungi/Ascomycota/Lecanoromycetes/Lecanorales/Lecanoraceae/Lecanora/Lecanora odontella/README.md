@@ -1,5 +1,4 @@
-Lecanora odontella Mart. {?} SPECIES
-=======
+# Lecanora odontella Mart. {?} SPECIES
 
 #### Status
 ACCEPTED

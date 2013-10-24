@@ -1,14 +1,13 @@
-Bathelium chrysocarpum Müll. Arg. SPECIES
-=======
+# Laurera chrysocarpa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 30: 54 (1891)
+Cat. Lich. Univers. 1: 503 (1922)
 
 #### Original name
 Bathelium chrysocarpum Müll. Arg.

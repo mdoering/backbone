@@ -1,5 +1,4 @@
-Lecidea macgregorii Vain. SPECIES
-=======
+# Lecidea macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

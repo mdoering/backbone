@@ -1,5 +1,4 @@
-Trichophyton felineum R. Blanch. SPECIES
-=======
+# Trichophyton felineum R. Blanch. SPECIES
 
 #### Status
 ACCEPTED

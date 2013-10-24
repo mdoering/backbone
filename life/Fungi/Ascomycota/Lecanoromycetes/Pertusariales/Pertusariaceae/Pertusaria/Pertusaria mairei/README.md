@@ -1,5 +1,4 @@
-Pertusaria mairei B. de Lesd. SPECIES
-=======
+# Pertusaria mairei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

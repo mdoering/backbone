@@ -1,5 +1,4 @@
-Himantia grisea Fr. SPECIES
-=======
+# Himantia grisea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccidomyces rosae Buchner SPECIES
-=======
+# Coccidomyces rosae Buchner SPECIES
 
 #### Status
 ACCEPTED

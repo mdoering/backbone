@@ -1,5 +1,4 @@
-Clitocybe evulgata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe evulgata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

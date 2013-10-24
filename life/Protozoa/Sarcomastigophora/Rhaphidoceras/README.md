@@ -1,5 +1,4 @@
-Rhaphidoceras Haeckel, 1887 GENUS
-=======
+# Rhaphidoceras Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

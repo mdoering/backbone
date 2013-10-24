@@ -1,5 +1,4 @@
-Xeromphalina junipericola G. Moreno & Heykoop SPECIES
-=======
+# Xeromphalina junipericola G. Moreno & Heykoop SPECIES
 
 #### Status
 ACCEPTED

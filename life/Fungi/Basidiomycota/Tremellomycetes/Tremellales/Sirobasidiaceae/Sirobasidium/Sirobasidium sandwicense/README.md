@@ -1,5 +1,4 @@
-Sirobasidium sandwicense Gilb. & Adask. SPECIES
-=======
+# Sirobasidium sandwicense Gilb. & Adask. SPECIES
 
 #### Status
 ACCEPTED

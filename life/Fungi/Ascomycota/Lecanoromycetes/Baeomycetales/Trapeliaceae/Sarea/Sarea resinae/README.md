@@ -1,17 +1,16 @@
-Tubercularia resinae (Ehrenb.) Thüm. SPECIES
-=======
+# Sarea resinae (Fr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 515 (1898)
 
 #### Original name
-Cytospora resinae Ehrenb.
+Sphaeria resinae Fr.
 
 ### Remarks
 null

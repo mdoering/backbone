@@ -1,5 +1,4 @@
-Lophodermella morbida Staley & Bynum, 1972 SPECIES
-=======
+# Lophodermella morbida Staley & Bynum, 1972 SPECIES
 
 #### Status
 ACCEPTED

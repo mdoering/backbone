@@ -1,5 +1,4 @@
-Enchelys coleps SPECIES
-=======
+# Enchelys coleps SPECIES
 
 #### Status
 ACCEPTED

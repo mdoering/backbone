@@ -1,5 +1,4 @@
-Aglaospora sigmodea (Cooke & Ellis) Kuntze SPECIES
-=======
+# Aglaospora sigmodea (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

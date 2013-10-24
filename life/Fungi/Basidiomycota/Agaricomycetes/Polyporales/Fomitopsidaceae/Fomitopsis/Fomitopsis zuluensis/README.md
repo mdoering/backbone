@@ -1,14 +1,13 @@
-Fomes zuluensis Wakef., 1948 SPECIES
-=======
+# Fomitopsis zuluensis (Wakef.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 4(4): 948 (1948)
+Norw. Jl Bot. 19: 231 (1972)
 
 #### Original name
 Fomes zuluensis Wakef., 1948

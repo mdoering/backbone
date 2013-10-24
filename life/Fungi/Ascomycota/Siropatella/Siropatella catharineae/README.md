@@ -1,5 +1,4 @@
-Siropatella catharineae Racov. SPECIES
-=======
+# Siropatella catharineae Racov. SPECIES
 
 #### Status
 ACCEPTED

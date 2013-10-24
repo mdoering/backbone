@@ -1,5 +1,4 @@
-Cyrtidula pityophila Minks SPECIES
-=======
+# Cyrtidula pityophila Minks SPECIES
 
 #### Status
 ACCEPTED

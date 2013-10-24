@@ -1,5 +1,4 @@
-Stereocaulon implexum Th. Fr. SPECIES
-=======
+# Stereocaulon implexum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

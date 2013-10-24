@@ -1,5 +1,4 @@
-Vainionora pallidostraminea (Vain.) Kalb SPECIES
-=======
+# Vainionora pallidostraminea (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

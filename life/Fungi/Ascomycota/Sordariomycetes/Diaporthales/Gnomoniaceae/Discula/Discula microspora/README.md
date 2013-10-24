@@ -1,5 +1,4 @@
-Discula microspora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Discula microspora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

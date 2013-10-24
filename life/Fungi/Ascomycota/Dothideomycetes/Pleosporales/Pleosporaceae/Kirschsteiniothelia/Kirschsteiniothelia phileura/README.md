@@ -1,5 +1,4 @@
-Kirschsteiniothelia phileura (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Kirschsteiniothelia phileura (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

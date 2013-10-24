@@ -1,5 +1,4 @@
-Pyxidiella sinuosa Matthes & Guhl, 1972 SPECIES
-=======
+# Pyxidiella sinuosa Matthes & Guhl, 1972 SPECIES
 
 #### Status
 ACCEPTED

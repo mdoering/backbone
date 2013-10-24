@@ -1,5 +1,4 @@
-Cyathus levis Hoffm. SPECIES
-=======
+# Cyathus levis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

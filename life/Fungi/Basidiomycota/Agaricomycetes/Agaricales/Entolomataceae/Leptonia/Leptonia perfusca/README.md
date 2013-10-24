@@ -1,5 +1,4 @@
-Leptonia perfusca Largent SPECIES
-=======
+# Leptonia perfusca Largent SPECIES
 
 #### Status
 ACCEPTED

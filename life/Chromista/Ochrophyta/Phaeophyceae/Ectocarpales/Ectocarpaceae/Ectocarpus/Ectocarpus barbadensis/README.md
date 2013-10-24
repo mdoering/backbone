@@ -1,5 +1,4 @@
-Ectocarpus barbadensis Kuckuck SPECIES
-=======
+# Ectocarpus barbadensis Kuckuck SPECIES
 
 #### Status
 ACCEPTED

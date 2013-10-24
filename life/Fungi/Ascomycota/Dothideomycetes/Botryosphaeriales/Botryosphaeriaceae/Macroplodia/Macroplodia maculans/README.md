@@ -1,5 +1,4 @@
-Macroplodia maculans (Peck) Kuntze SPECIES
-=======
+# Macroplodia maculans (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

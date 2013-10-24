@@ -1,5 +1,4 @@
-Graphis atra SPECIES
-=======
+# Graphis atra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius corrugis A.H. Sm. SPECIES
-=======
+# Cortinarius corrugis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

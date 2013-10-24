@@ -1,5 +1,4 @@
-Hebeloma elatum (Batsch) Berk. & Broome SPECIES
-=======
+# Hebeloma elatum (Batsch) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

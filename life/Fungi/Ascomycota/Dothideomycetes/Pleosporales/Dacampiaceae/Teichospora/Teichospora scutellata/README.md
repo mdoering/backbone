@@ -1,5 +1,4 @@
-Teichospora scutellata (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
-=======
+# Teichospora scutellata (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora dallasensis Petr., 1954 SPECIES
-=======
+# Phyllachora dallasensis Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

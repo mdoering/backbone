@@ -1,5 +1,4 @@
-Pyrenula subcylindrica Jagadeesh & Upreti SPECIES
-=======
+# Pyrenula subcylindrica Jagadeesh & Upreti SPECIES
 
 #### Status
 ACCEPTED

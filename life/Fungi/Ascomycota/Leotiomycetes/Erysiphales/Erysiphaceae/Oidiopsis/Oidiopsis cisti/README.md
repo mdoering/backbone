@@ -1,5 +1,4 @@
-Oidiopsis cisti (Jaap) Golovin SPECIES
-=======
+# Oidiopsis cisti (Jaap) Golovin SPECIES
 
 #### Status
 ACCEPTED

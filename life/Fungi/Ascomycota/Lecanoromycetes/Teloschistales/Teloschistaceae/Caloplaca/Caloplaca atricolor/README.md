@@ -1,5 +1,4 @@
-Caloplaca atricolor (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca atricolor (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

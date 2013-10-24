@@ -1,5 +1,4 @@
-Tricholoma austrocolossum Grgur. SPECIES
-=======
+# Tricholoma austrocolossum Grgur. SPECIES
 
 #### Status
 ACCEPTED

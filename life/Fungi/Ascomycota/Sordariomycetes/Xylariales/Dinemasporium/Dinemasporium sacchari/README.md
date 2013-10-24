@@ -1,5 +1,4 @@
-Dinemasporium sacchari Henn. SPECIES
-=======
+# Dinemasporium sacchari Henn. SPECIES
 
 #### Status
 ACCEPTED

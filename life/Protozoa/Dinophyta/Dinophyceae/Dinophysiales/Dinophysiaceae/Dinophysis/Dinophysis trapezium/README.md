@@ -1,5 +1,4 @@
-Dinophysis trapezium Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Dinophysis trapezium Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula fici-religiosae Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Uncinula fici-religiosae Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

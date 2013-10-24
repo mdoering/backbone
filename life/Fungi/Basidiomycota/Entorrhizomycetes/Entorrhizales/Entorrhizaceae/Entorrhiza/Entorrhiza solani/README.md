@@ -1,5 +1,4 @@
-Entorrhiza solani Fautrey SPECIES
-=======
+# Entorrhiza solani Fautrey SPECIES
 
 #### Status
 ACCEPTED

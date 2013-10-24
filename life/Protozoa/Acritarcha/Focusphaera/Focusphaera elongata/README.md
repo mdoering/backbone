@@ -1,5 +1,4 @@
-Focusphaera elongata de Quadros, 1986 SPECIES
-=======
+# Focusphaera elongata de Quadros, 1986 SPECIES
 
 #### Status
 ACCEPTED

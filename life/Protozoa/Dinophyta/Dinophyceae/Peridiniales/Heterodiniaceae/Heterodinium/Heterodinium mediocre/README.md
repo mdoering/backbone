@@ -1,5 +1,4 @@
-Heterodinium mediocre (Kofoid, 1907) Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium mediocre (Kofoid, 1907) Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

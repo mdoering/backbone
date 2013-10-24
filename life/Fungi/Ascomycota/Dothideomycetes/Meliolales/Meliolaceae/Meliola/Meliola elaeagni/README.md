@@ -1,5 +1,4 @@
-Meliola elaeagni Hansf. & Thirum. SPECIES
-=======
+# Meliola elaeagni Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

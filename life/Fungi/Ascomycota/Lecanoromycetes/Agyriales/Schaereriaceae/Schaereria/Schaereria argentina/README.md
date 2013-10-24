@@ -1,5 +1,4 @@
-Schaereria argentina Gyeln. SPECIES
-=======
+# Schaereria argentina Gyeln. SPECIES
 
 #### Status
 ACCEPTED

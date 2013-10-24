@@ -1,5 +1,4 @@
-Ostereopsis GENUS
-=======
+# Ostereopsis GENUS
 
 #### Status
 ACCEPTED

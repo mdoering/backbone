@@ -1,5 +1,4 @@
-Luteimonas composti Chiu-Chung Young, 2007 SPECIES
-=======
+# Luteimonas composti Chiu-Chung Young, 2007 SPECIES
 
 #### Status
 ACCEPTED

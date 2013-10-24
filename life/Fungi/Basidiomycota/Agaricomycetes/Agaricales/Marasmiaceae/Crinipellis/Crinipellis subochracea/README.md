@@ -1,5 +1,4 @@
-Crinipellis subochracea Corner SPECIES
-=======
+# Crinipellis subochracea Corner SPECIES
 
 #### Status
 ACCEPTED

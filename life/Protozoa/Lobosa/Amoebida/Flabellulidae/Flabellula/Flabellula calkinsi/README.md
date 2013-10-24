@@ -1,8 +1,7 @@
-Vahlkampfia calkinsi Hogue, 1914 SPECIES
-=======
+# Flabellula calkinsi (Hogue, 1914) Page, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Ammonia perlucida (Heron-Allen & Earland, 1913) SPECIES
-=======
+# Ammonia perlucida (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
 ACCEPTED

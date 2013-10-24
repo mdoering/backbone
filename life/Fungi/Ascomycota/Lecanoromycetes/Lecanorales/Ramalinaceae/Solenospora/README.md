@@ -1,5 +1,4 @@
-Solenospora GENUS
-=======
+# Solenospora GENUS
 
 #### Status
 ACCEPTED

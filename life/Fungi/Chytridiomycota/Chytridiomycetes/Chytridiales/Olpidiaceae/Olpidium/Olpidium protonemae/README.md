@@ -1,5 +1,4 @@
-Olpidium protonemae Skvortsov SPECIES
-=======
+# Olpidium protonemae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

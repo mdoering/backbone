@@ -1,5 +1,4 @@
-Nodulisporium argillaceum anon. SPECIES
-=======
+# Nodulisporium argillaceum anon. SPECIES
 
 #### Status
 ACCEPTED

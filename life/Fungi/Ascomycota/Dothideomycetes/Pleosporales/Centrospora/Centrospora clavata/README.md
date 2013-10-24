@@ -1,5 +1,4 @@
-Centrospora clavata S.H. Iqbal, 1974 SPECIES
-=======
+# Centrospora clavata S.H. Iqbal, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitremyces lutescens Schwein. SPECIES
-=======
+# Mitremyces lutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

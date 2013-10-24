@@ -1,5 +1,4 @@
-Leptosphaeria daphniphylli Dzhalag. SPECIES
-=======
+# Leptosphaeria daphniphylli Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

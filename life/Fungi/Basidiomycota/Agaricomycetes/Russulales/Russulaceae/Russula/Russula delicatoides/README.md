@@ -1,5 +1,4 @@
-Russula delicatoides J. Blum SPECIES
-=======
+# Russula delicatoides J. Blum SPECIES
 
 #### Status
 ACCEPTED

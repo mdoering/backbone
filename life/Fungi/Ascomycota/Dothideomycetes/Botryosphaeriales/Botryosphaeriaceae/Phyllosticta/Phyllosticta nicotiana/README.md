@@ -1,5 +1,4 @@
-Phyllosticta nicotiana Ellis & Everh. SPECIES
-=======
+# Phyllosticta nicotiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

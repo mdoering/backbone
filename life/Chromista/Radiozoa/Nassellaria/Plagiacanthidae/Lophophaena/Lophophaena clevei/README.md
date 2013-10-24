@@ -1,5 +1,4 @@
-Lophophaena clevei Petrushevskaya, 1971 SPECIES
-=======
+# Lophophaena clevei Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

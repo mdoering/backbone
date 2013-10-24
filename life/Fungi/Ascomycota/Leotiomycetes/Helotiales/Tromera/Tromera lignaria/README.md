@@ -1,5 +1,4 @@
-Tromera lignaria P. Karst. SPECIES
-=======
+# Tromera lignaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

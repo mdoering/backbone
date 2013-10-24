@@ -1,14 +1,13 @@
-Odontia sudans (Alb. & Schwein.) Bres., 1897 SPECIES
-=======
+# Dacryobolus sudans (Alb. & Schwein.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3(1): 100 (1897)
+Summa veg. Scand. (Stockholm), Section Post. 404 (1849)
 
 #### Original name
 Hydnum sudans Alb. & Schwein., 1805

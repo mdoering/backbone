@@ -1,5 +1,4 @@
-Peziza rapula Pers. SPECIES
-=======
+# Peziza rapula Pers. SPECIES
 
 #### Status
 ACCEPTED

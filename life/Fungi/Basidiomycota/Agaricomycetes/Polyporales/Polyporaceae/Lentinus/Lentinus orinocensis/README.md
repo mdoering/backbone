@@ -1,5 +1,4 @@
-Lentinus orinocensis Pat. & Gaillard SPECIES
-=======
+# Lentinus orinocensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

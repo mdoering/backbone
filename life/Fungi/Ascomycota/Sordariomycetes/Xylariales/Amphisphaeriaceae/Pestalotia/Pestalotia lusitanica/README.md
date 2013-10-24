@@ -1,5 +1,4 @@
-Pestalotia lusitanica Gonz. Frag. SPECIES
-=======
+# Pestalotia lusitanica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

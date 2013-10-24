@@ -1,5 +1,4 @@
-Pseudoclavulina serventyi (Chapman & Parr, 1935) SPECIES
-=======
+# Pseudoclavulina serventyi (Chapman & Parr, 1935) SPECIES
 
 #### Status
 ACCEPTED

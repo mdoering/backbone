@@ -1,5 +1,4 @@
-Catillaria expallescens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria expallescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

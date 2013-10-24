@@ -1,5 +1,4 @@
-Tribonema aequale Pascher SPECIES
-=======
+# Tribonema aequale Pascher SPECIES
 
 #### Status
 ACCEPTED

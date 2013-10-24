@@ -1,5 +1,4 @@
-Catenochytridium laterale A.M. Hanson, 1944 SPECIES
-=======
+# Catenochytridium laterale A.M. Hanson, 1944 SPECIES
 
 #### Status
 ACCEPTED

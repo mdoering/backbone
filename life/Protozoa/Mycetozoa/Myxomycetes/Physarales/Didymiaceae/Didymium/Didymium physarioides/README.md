@@ -1,5 +1,4 @@
-Didymium physarioides Klotzsch SPECIES
-=======
+# Didymium physarioides Klotzsch SPECIES
 
 #### Status
 ACCEPTED

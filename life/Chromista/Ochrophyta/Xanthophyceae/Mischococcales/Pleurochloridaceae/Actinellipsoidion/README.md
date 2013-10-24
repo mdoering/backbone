@@ -1,5 +1,4 @@
-Actinellipsoidion H.Ettl, 1977 GENUS
-=======
+# Actinellipsoidion H.Ettl, 1977 GENUS
 
 #### Status
 ACCEPTED

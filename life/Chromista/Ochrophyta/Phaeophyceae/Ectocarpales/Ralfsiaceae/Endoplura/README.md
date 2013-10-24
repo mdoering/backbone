@@ -1,11 +1,10 @@
-Endopleura GENUS
-=======
+# Endoplura Hollenberg, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

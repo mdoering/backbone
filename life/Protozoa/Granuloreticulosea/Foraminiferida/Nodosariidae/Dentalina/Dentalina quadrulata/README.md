@@ -1,5 +1,4 @@
-Dentalina quadrulata Cushman & Laiming SPECIES
-=======
+# Dentalina quadrulata Cushman & Laiming SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosia splendida Kirschst. SPECIES
-=======
+# Discosia splendida Kirschst. SPECIES
 
 #### Status
 ACCEPTED

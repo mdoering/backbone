@@ -1,5 +1,4 @@
-Xylaria hystrix Berk. SPECIES
-=======
+# Xylaria hystrix Berk. SPECIES
 
 #### Status
 ACCEPTED

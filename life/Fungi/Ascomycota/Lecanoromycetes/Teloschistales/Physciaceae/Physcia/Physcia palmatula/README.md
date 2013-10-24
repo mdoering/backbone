@@ -1,5 +1,4 @@
-Physcia palmatula SPECIES
-=======
+# Physcia palmatula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium coumae Bat. & A.F. Vital SPECIES
-=======
+# Belonidium coumae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

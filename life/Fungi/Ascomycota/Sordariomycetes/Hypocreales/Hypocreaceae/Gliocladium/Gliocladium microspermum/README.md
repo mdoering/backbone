@@ -1,14 +1,13 @@
-Verticillium microspermum Sacc., 1886 SPECIES
-=======
+# Gliocladium microspermum (Sacc.) W. Gams, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 153 (1886)
+in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 73 (1982)
 
 #### Original name
 Verticillium microspermum Sacc., 1886

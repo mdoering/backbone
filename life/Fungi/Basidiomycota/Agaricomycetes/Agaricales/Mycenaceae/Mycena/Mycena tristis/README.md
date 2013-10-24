@@ -1,5 +1,4 @@
-Mycena tristis Maas Geest. SPECIES
-=======
+# Mycena tristis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

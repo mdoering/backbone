@@ -1,5 +1,4 @@
-Textularia deltoidea Reuss, 1850 SPECIES
-=======
+# Textularia deltoidea Reuss, 1850 SPECIES
 
 #### Status
 ACCEPTED

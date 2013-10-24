@@ -1,5 +1,4 @@
-Graphis fumosa Müll. Arg. SPECIES
-=======
+# Graphis fumosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

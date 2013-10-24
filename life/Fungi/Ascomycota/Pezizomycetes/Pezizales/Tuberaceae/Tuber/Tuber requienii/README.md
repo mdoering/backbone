@@ -1,5 +1,4 @@
-Tuber requienii Tul. SPECIES
-=======
+# Tuber requienii Tul. SPECIES
 
 #### Status
 ACCEPTED

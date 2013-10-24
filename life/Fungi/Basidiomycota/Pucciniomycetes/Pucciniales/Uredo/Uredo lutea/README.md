@@ -1,5 +1,4 @@
-Uredo lutea Arthur SPECIES
-=======
+# Uredo lutea Arthur SPECIES
 
 #### Status
 ACCEPTED

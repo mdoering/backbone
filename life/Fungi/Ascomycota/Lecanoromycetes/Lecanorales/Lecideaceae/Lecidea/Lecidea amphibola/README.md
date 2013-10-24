@@ -1,5 +1,4 @@
-Lecidea amphibola Malme SPECIES
-=======
+# Lecidea amphibola Malme SPECIES
 
 #### Status
 ACCEPTED

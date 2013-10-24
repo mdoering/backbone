@@ -1,5 +1,4 @@
-Clitocybe ambiformis (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe ambiformis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

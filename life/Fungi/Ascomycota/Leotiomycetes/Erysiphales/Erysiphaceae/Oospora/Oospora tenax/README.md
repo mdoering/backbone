@@ -1,5 +1,4 @@
-Oospora tenax W. Krüger SPECIES
-=======
+# Oospora tenax W. Krüger SPECIES
 
 #### Status
 ACCEPTED

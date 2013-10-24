@@ -1,5 +1,4 @@
-Pleurotus violaceospermus (Britzelm.) Sacc. SPECIES
-=======
+# Pleurotus violaceospermus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

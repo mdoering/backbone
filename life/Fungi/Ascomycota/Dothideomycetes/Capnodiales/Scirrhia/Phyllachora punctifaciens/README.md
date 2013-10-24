@@ -1,5 +1,4 @@
-Phyllachora punctifaciens Petr., 1934 SPECIES
-=======
+# Phyllachora punctifaciens Petr., 1934 SPECIES
 
 #### Status
 DOUBTFUL

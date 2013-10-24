@@ -1,17 +1,16 @@
-Polyporus sarrazini Schulzer SPECIES
-=======
+# Polyporus sarrazinii Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 30: 109 (1880)
 
 #### Original name
-Polyporus sarrazini Schulzer
+Polyporus sarrazinii Schulzer
 
 ### Remarks
 null

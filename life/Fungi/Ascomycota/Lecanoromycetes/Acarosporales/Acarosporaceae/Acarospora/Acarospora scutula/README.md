@@ -1,5 +1,4 @@
-Acarospora scutula (Stizenb.) Hue SPECIES
-=======
+# Acarospora scutula (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo bomanii J.C. Lindq. SPECIES
-=======
+# Uredo bomanii J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita separata Contu SPECIES
-=======
+# Amanita separata Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella subochracea (Cooke & Peck) Seaver SPECIES
-=======
+# Lachnella subochracea (Cooke & Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

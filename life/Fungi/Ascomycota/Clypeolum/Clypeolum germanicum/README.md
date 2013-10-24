@@ -1,5 +1,4 @@
-Clypeolum germanicum Kirschst. SPECIES
-=======
+# Clypeolum germanicum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

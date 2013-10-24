@@ -1,5 +1,4 @@
-Stictis fagicola W. Phillips SPECIES
-=======
+# Stictis fagicola W. Phillips SPECIES
 
 #### Status
 ACCEPTED

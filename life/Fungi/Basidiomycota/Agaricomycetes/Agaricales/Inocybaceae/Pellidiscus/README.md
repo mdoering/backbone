@@ -1,17 +1,16 @@
-Phaeoglabrotricha W.B. Cooke GENUS
-=======
+# Pellidiscus Donk GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 115 (1961)
+Persoonia 1(1): 89 (1959)
 
 #### Original name
-Phaeoglabrotricha W.B. Cooke
+Pellidiscus Donk
 
 ### Remarks
 null

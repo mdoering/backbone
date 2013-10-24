@@ -1,5 +1,4 @@
-Bacillus laevolacticus (ex Nakayama & Yanoshi, 1967) Andersch et al., 1994 SPECIES
-=======
+# Bacillus laevolacticus (ex Nakayama & Yanoshi, 1967) Andersch et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

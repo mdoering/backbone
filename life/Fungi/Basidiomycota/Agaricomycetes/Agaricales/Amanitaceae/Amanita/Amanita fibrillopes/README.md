@@ -1,5 +1,4 @@
-Amanita fibrillopes O.K. Mill. SPECIES
-=======
+# Amanita fibrillopes O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

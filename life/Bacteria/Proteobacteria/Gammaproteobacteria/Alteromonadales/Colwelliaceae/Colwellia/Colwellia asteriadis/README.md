@@ -1,5 +1,4 @@
-Colwellia asteriadis Eun, Hak, Hye, Young, Hyun, 2010 SPECIES
-=======
+# Colwellia asteriadis Eun, Hak, Hye, Young, Hyun, 2010 SPECIES
 
 #### Status
 ACCEPTED

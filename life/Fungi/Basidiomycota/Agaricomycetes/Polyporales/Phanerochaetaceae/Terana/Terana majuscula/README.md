@@ -1,5 +1,4 @@
-Terana majuscula (Speg.) Kuntze SPECIES
-=======
+# Terana majuscula (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

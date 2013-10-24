@@ -1,5 +1,4 @@
-Aspergillus brunneus Delacr. SPECIES
-=======
+# Aspergillus brunneus Delacr. SPECIES
 
 #### Status
 ACCEPTED

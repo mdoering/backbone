@@ -1,5 +1,4 @@
-Macroplodia crataegicola (Cavara) Kuntze SPECIES
-=======
+# Macroplodia crataegicola (Cavara) Kuntze SPECIES
 
 #### Status
 ACCEPTED

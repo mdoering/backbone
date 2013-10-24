@@ -1,5 +1,4 @@
-Passalora myricae Meeboon, Hidayat & C. Nakash. SPECIES
-=======
+# Passalora myricae Meeboon, Hidayat & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

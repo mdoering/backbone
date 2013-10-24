@@ -1,5 +1,4 @@
-Peronosclerospora sacchari (T. Miyake) Shirai & Hara, 1927 SPECIES
-=======
+# Peronosclerospora sacchari (T. Miyake) Shirai & Hara, 1927 SPECIES
 
 #### Status
 ACCEPTED

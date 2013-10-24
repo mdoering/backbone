@@ -1,5 +1,4 @@
-Graphis dendriticella (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis dendriticella (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

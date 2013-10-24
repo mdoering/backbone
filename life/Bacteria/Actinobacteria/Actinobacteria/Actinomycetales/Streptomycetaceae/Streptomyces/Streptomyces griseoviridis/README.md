@@ -1,5 +1,4 @@
-Streptomyces griseoviridis Anderson et al., 1956 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseoviridis Anderson et al., 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina pululahuna Pat. SPECIES
-=======
+# Discina pululahuna Pat. SPECIES
 
 #### Status
 ACCEPTED

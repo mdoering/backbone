@@ -1,17 +1,16 @@
-Balansia strangulans f. strangulans FORM
-=======
+# Balansia strangulans (Mont.) Diehl, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Agric. Monogr. U. S. D. A. 4: 29 (1950)
 
 #### Original name
-Balansia strangulans f. strangulans
+Cordyceps strangulans Mont., 1856
 
 ### Remarks
 null

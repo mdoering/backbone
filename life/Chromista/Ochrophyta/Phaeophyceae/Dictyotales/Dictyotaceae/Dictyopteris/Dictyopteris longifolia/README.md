@@ -1,5 +1,4 @@
-Dictyopteris longifolia Papenfuss SPECIES
-=======
+# Dictyopteris longifolia Papenfuss SPECIES
 
 #### Status
 ACCEPTED

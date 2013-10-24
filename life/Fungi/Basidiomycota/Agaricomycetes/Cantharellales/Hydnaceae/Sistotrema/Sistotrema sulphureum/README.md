@@ -1,5 +1,4 @@
-Sistotrema sulphureum SPECIES
-=======
+# Sistotrema sulphureum SPECIES
 
 #### Status
 ACCEPTED

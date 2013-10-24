@@ -1,5 +1,4 @@
-Drepanospora Berk. & M.A. Curtis GENUS
-=======
+# Drepanospora Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

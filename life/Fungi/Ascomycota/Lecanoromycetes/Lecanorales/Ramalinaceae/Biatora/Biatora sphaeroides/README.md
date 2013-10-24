@@ -1,5 +1,4 @@
-Lecidea sphaeroides f. sphaeroides FORM
-=======
+# Biatora sphaeroides (Dicks.) Hornem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Dansk. Oecon. Pl. 2: 559 (1837)
 
 #### Original name
-Lecidea sphaeroides f. sphaeroides
+Lichen sphaeroides Dicks.
 
 ### Remarks
 null

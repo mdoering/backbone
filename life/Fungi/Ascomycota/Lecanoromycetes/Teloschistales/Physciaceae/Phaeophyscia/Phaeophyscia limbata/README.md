@@ -1,5 +1,4 @@
-Phaeophyscia limbata (Poelt) Kashiw. SPECIES
-=======
+# Phaeophyscia limbata (Poelt) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoanaerobacter mathranii Larsen et al., 1998 SPECIES
-=======
+# Thermoanaerobacter mathranii Larsen et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

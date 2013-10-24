@@ -1,5 +1,4 @@
-Entoloma difforme Maire SPECIES
-=======
+# Entoloma difforme Maire SPECIES
 
 #### Status
 ACCEPTED

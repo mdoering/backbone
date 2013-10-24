@@ -1,5 +1,4 @@
-Pseudocercospora montrichardiae (Henn.) U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora montrichardiae (Henn.) U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

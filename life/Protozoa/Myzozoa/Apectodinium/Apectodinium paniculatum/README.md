@@ -1,5 +1,4 @@
-Apectodinium paniculatum Costa & Downie, 1976 SPECIES
-=======
+# Apectodinium paniculatum Costa & Downie, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Remototrachyna GENUS
-=======
+# Remototrachyna GENUS
 
 #### Status
 ACCEPTED

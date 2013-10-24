@@ -1,5 +1,4 @@
-Scyphiforma Pessagno, 1969 GENUS
-=======
+# Scyphiforma Pessagno, 1969 GENUS
 
 #### Status
 ACCEPTED

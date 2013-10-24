@@ -1,5 +1,4 @@
-Fasciatispora pandanicola K.D. Hyde SPECIES
-=======
+# Fasciatispora pandanicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

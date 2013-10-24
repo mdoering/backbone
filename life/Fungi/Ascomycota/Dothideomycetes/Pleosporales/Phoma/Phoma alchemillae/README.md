@@ -1,5 +1,4 @@
-Phoma alchemillae Rostr., 1897 SPECIES
-=======
+# Phoma alchemillae Rostr., 1897 SPECIES
 
 #### Status
 ACCEPTED

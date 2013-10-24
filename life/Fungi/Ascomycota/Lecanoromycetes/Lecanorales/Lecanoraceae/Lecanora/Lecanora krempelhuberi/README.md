@@ -1,5 +1,4 @@
-Lecanora krempelhuberi Schaer. SPECIES
-=======
+# Lecanora krempelhuberi Schaer. SPECIES
 
 #### Status
 ACCEPTED

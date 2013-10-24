@@ -1,5 +1,4 @@
-Candelariella crenulata (Wahlenb.) A.L. Sm. SPECIES
-=======
+# Candelariella crenulata (Wahlenb.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius affinis E. Horak SPECIES
-=======
+# Phaeomarasmius affinis E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria juncophila Leuchtm., 1984 SPECIES
-=======
+# Phaeosphaeria juncophila Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED

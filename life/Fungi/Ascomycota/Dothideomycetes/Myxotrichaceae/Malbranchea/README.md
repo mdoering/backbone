@@ -1,17 +1,16 @@
-Thermoidium Miehe GENUS
-=======
+# Malbranchea Saccardo, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ber. dt. bot. Ges. 25: 515 (1907)
+null
 
 #### Original name
-Thermoidium Miehe
+null
 
 ### Remarks
 null

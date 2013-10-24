@@ -1,5 +1,4 @@
-Rinodina lecideoides var. lecideoides VARIETY
-=======
+# Rinodina lecideoides (Nyl.) Kernst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina lecideoides var. lecideoides
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acanthostigma nivale (F. Strauss) Sacc. SPECIES
-=======
+# Acanthostigma nivale (F. Strauss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

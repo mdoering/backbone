@@ -1,5 +1,4 @@
-Sinosphaera Feng, 2004 GENUS
-=======
+# Sinosphaera Feng, 2004 GENUS
 
 #### Status
 ACCEPTED

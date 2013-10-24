@@ -1,14 +1,13 @@
-Hypocrea perpusilla Mont., 1842 SPECIES
-=======
+# Nectriopsis perpusilla (Mont.) Samuels, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 17: 123 (1842)
+Mem. N. Y. bot. Gdn 48: 28 (1988)
 
 #### Original name
 Hypocrea perpusilla Mont., 1842

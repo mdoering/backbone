@@ -1,5 +1,4 @@
-Leptosphaeria myrti Gucevic SPECIES
-=======
+# Leptosphaeria myrti Gucevic SPECIES
 
 #### Status
 ACCEPTED

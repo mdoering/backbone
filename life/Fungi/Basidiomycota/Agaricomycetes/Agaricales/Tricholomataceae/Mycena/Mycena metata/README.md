@@ -1,11 +1,10 @@
-Mycena collariata (Fr.) Quél., 1872 SPECIES
-=======
+# Mycena metata (Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

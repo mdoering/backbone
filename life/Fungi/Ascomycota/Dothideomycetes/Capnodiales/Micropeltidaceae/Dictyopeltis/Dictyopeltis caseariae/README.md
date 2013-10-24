@@ -1,5 +1,4 @@
-Dictyopeltis caseariae (Hansf.) Bat. SPECIES
-=======
+# Dictyopeltis caseariae (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis corydalis Niessl SPECIES
-=======
+# Urocystis corydalis Niessl SPECIES
 
 #### Status
 ACCEPTED

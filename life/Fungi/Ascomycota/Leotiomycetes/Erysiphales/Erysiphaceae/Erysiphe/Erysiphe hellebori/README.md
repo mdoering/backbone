@@ -1,5 +1,4 @@
-Erysiphe hellebori Rankovic SPECIES
-=======
+# Erysiphe hellebori Rankovic SPECIES
 
 #### Status
 ACCEPTED

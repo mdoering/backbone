@@ -1,5 +1,4 @@
-Pseudocyphellaria lombokensis H. Magn. SPECIES
-=======
+# Pseudocyphellaria lombokensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

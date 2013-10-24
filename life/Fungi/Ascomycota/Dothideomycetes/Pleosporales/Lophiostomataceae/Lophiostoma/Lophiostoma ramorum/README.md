@@ -1,5 +1,4 @@
-Lophiostoma ramorum Nitschke SPECIES
-=======
+# Lophiostoma ramorum Nitschke SPECIES
 
 #### Status
 ACCEPTED

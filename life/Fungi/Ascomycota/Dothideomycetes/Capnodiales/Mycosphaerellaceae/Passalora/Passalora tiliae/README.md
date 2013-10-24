@@ -1,5 +1,4 @@
-Passalora tiliae (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
-=======
+# Passalora tiliae (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rivularia lemaitrae (O. Dragastan) O. Dragastan SPECIES
-=======
+# Rivularia lemaitrae (O. Dragastan) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kubergandella Leven, 1992 GENUS
-=======
+# Kubergandella Leven, 1992 GENUS
 
 #### Status
 ACCEPTED

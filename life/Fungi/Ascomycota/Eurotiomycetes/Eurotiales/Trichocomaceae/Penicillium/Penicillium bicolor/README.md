@@ -1,5 +1,4 @@
-Penicillium bicolor var. bicolor VARIETY
-=======
+# Penicillium bicolor (Lilj.) Fr. SPECIES
 
 #### Status
 ACCEPTED

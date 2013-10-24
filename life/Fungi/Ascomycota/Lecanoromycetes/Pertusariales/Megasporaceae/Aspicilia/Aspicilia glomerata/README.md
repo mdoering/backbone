@@ -1,5 +1,4 @@
-Aspicilia glomerata Motyka SPECIES
-=======
+# Aspicilia glomerata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polystomatium Ehrenberg, 1839 GENUS
-=======
+# Polystomella Lamarck, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Abh. Akad. Wiss. Berlin, 1838, tab. facing p. 120 [teste Nomen. Anim. , sed non comp. ].
+An. s. Vert. , 7, 624.
 
 #### Original name
 null

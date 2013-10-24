@@ -1,5 +1,4 @@
-Kabatia silenes Lobik SPECIES
-=======
+# Kabatia silenes Lobik SPECIES
 
 #### Status
 ACCEPTED

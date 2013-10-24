@@ -1,5 +1,4 @@
-Tricholoma piperatiforme (Murrill) Murrill SPECIES
-=======
+# Tricholoma piperatiforme (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

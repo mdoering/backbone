@@ -1,5 +1,4 @@
-Tomentella glandulifera Höhn. & Litsch. SPECIES
-=======
+# Tomentella glandulifera Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cirsii Niessl, 1865 SPECIES
-=======
+# Septoria cirsii Niessl, 1865 SPECIES
 
 #### Status
 ACCEPTED

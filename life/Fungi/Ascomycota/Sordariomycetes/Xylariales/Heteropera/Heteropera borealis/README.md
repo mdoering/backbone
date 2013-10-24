@@ -1,5 +1,4 @@
-Heteropera borealis (Sacc.) Theiss. SPECIES
-=======
+# Heteropera borealis (Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

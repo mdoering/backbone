@@ -1,5 +1,4 @@
-Inocybe ambigua Romagn. SPECIES
-=======
+# Inocybe ambigua Romagn. SPECIES
 
 #### Status
 ACCEPTED

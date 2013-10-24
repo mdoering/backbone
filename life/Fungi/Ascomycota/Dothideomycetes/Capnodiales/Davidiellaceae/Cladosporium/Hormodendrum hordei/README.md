@@ -1,5 +1,4 @@
-Hormodendrum hordei var. hordei VARIETY
-=======
+# Hormodendrum hordei Bruhne SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hormodendrum hordei var. hordei
+Hormodendrum hordei Bruhne
 
 ### Remarks
 null

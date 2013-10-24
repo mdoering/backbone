@@ -1,14 +1,13 @@
-Teratosperma sclerotivora (Uecker, W.A. Ayers & P.B. Adams) S. Hughes SPECIES
-=======
+# Teratosperma sclerotivorum (Uecker, W.A. Ayers & P.B. Adams) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 17(2): 178 (1979)
 
 #### Original name
 Sporidesmium sclerotivorum Uecker, W.A. Ayers & P.B. Adams, 1978

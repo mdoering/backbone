@@ -1,5 +1,4 @@
-Opegrapha diatona Nyl. SPECIES
-=======
+# Opegrapha diatona Nyl. SPECIES
 
 #### Status
 ACCEPTED

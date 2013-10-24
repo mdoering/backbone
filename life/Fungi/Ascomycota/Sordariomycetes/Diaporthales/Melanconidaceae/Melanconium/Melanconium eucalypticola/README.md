@@ -1,5 +1,4 @@
-Melanconium eucalypticola Hansf. SPECIES
-=======
+# Melanconium eucalypticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

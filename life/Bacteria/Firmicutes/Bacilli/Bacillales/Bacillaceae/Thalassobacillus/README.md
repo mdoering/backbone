@@ -1,5 +1,4 @@
-Thalassobacillus García et al., 2005 GENUS
-=======
+# Thalassobacillus García et al., 2005 GENUS
 
 #### Status
 ACCEPTED

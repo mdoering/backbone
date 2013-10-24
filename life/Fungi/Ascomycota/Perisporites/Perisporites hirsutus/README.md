@@ -1,5 +1,4 @@
-Perisporites hirsutus Pampal. SPECIES
-=======
+# Perisporites hirsutus Pampal. SPECIES
 
 #### Status
 ACCEPTED

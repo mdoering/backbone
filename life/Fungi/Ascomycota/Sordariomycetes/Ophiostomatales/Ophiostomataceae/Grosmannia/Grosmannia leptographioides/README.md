@@ -1,5 +1,4 @@
-Grosmannia leptographioides (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Grosmannia leptographioides (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

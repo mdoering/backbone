@@ -1,5 +1,4 @@
-Hygrophorus ligatus Fr. SPECIES
-=======
+# Hygrophorus ligatus Fr. SPECIES
 
 #### Status
 ACCEPTED

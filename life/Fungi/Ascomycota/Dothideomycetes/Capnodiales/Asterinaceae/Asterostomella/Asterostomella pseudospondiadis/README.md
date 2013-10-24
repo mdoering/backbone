@@ -1,5 +1,4 @@
-Asterostomella pseudospondiadis Bat. & Cif. SPECIES
-=======
+# Asterostomella pseudospondiadis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

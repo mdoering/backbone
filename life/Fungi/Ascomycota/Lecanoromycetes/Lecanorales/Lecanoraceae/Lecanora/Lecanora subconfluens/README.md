@@ -1,5 +1,4 @@
-Lecanora subconfluens H. Magn. SPECIES
-=======
+# Lecanora subconfluens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

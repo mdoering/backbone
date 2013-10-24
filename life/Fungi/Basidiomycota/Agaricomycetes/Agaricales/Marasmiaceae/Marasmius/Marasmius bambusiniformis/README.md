@@ -1,5 +1,4 @@
-Marasmius bambusiniformis Singer SPECIES
-=======
+# Marasmius bambusiniformis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Costatiplicata GENUS
-=======
+# Costatiplicata GENUS
 
 #### Status
 ACCEPTED

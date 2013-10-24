@@ -1,5 +1,4 @@
-Cryptomycocolax Oberw. & R. Bauer GENUS
-=======
+# Cryptomycocolax Oberw. & R. Bauer GENUS
 
 #### Status
 ACCEPTED

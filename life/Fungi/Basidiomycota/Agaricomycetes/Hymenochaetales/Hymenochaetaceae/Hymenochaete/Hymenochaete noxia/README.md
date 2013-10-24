@@ -1,5 +1,4 @@
-Hymenochaete noxia Berk. ex Cooke, 1890 SPECIES
-=======
+# Hymenochaete noxia Berk. ex Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina glycines Sawada SPECIES
-=======
+# Pleosphaerulina glycines Sawada SPECIES
 
 #### Status
 ACCEPTED

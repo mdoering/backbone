@@ -1,5 +1,4 @@
-Sphaceloma echinata Zundel SPECIES
-=======
+# Sphaceloma echinata Zundel SPECIES
 
 #### Status
 ACCEPTED

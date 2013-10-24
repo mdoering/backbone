@@ -1,5 +1,4 @@
-Septoria crassospora Linder SPECIES
-=======
+# Septoria crassospora Linder SPECIES
 
 #### Status
 ACCEPTED

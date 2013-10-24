@@ -1,5 +1,4 @@
-Linocarpon carinisporum K.D. Hyde SPECIES
-=======
+# Linocarpon carinisporum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

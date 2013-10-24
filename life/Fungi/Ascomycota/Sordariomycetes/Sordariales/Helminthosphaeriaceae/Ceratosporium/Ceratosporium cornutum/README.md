@@ -1,5 +1,4 @@
-Ceratosporium cornutum Matsush. SPECIES
-=======
+# Ceratosporium cornutum Matsush. SPECIES
 
 #### Status
 ACCEPTED

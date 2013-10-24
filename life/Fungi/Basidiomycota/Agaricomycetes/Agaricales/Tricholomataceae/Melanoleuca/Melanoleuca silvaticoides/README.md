@@ -1,5 +1,4 @@
-Melanoleuca silvaticoides Murrill SPECIES
-=======
+# Melanoleuca silvaticoides Murrill SPECIES
 
 #### Status
 ACCEPTED

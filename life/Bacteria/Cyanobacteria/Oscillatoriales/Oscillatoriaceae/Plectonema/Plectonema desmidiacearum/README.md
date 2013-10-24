@@ -1,5 +1,4 @@
-Plectonema desmidiacearum Noda SPECIES
-=======
+# Plectonema desmidiacearum Noda SPECIES
 
 #### Status
 ACCEPTED

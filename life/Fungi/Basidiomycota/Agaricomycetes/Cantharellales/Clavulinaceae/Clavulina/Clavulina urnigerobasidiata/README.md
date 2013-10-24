@@ -1,5 +1,4 @@
-Clavulina urnigerobasidiata R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina urnigerobasidiata R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

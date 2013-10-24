@@ -1,5 +1,4 @@
-Stictina umbilicariiformis (Hochst. ex Flot.) C.W. Dodge SPECIES
-=======
+# Stictina umbilicariiformis (Hochst. ex Flot.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

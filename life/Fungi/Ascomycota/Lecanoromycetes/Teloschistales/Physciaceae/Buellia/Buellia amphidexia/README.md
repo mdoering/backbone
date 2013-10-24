@@ -1,5 +1,4 @@
-Buellia amphidexia Imshaug ex R.C. Harris SPECIES
-=======
+# Buellia amphidexia Imshaug ex R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

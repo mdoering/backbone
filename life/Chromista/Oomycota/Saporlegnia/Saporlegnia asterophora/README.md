@@ -1,5 +1,4 @@
-Saporlegnia asterophora de Bary SPECIES
-=======
+# Saporlegnia asterophora de Bary SPECIES
 
 #### Status
 ACCEPTED

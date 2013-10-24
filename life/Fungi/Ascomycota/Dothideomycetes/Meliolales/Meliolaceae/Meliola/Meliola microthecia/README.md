@@ -1,5 +1,4 @@
-Meliola microthecia Thüm. SPECIES
-=======
+# Meliola microthecia Thüm. SPECIES
 
 #### Status
 ACCEPTED

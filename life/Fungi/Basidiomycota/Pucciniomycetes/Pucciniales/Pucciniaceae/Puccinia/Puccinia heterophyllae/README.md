@@ -1,17 +1,16 @@
-Puccinia heterophylla Cooke SPECIES
-=======
+# Puccinia heterophyllae Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 49): 14 (1880)
 
 #### Original name
-Puccinia heterophylla Cooke
+Puccinia heterophyllae Cooke
 
 ### Remarks
 null

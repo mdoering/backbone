@@ -1,5 +1,4 @@
-Omphalopsis petasiformis Murrill SPECIES
-=======
+# Omphalopsis petasiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

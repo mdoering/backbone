@@ -1,5 +1,4 @@
-Scopulariopsis yunnanensis Q.T. Chen & C.L. Jiang SPECIES
-=======
+# Scopulariopsis yunnanensis Q.T. Chen & C.L. Jiang SPECIES
 
 #### Status
 ACCEPTED

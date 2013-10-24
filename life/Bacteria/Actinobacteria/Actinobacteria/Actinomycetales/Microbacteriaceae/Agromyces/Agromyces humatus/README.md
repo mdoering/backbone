@@ -1,5 +1,4 @@
-Agromyces humatus Jurado et al., 2005 SPECIES
-=======
+# Agromyces humatus Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

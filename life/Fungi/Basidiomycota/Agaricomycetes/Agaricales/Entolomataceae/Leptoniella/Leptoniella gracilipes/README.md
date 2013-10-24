@@ -1,5 +1,4 @@
-Leptoniella gracilipes (Peck) Murrill SPECIES
-=======
+# Leptoniella gracilipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

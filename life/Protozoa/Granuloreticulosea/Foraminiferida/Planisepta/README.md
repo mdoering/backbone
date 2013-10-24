@@ -1,5 +1,4 @@
-Planisepta Septfontaine, 1986 GENUS
-=======
+# Planisepta Septfontaine, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella constricta J.L. Mulder SPECIES
-=======
+# Stenella constricta J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

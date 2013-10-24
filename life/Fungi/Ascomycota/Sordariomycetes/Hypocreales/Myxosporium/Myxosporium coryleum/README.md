@@ -1,5 +1,4 @@
-Myxosporium coryleum (Sacc.) Died. SPECIES
-=======
+# Myxosporium coryleum (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

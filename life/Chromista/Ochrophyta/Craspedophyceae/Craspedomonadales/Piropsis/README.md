@@ -1,5 +1,4 @@
-Piropsis Fischer, 1884 GENUS
-=======
+# Piropsis Fischer, 1884 GENUS
 
 #### Status
 ACCEPTED

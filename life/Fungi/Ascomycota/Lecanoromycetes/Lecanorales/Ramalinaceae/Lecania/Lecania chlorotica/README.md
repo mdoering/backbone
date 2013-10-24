@@ -1,5 +1,4 @@
-Lecania chlorotica (Jatta) Zahlbr. SPECIES
-=======
+# Lecania chlorotica (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

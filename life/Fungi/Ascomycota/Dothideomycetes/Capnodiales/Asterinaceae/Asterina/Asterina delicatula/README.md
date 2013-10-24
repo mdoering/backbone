@@ -1,5 +1,4 @@
-Asterina delicatula Syd. & Bal SPECIES
-=======
+# Asterina delicatula Syd. & Bal SPECIES
 
 #### Status
 ACCEPTED

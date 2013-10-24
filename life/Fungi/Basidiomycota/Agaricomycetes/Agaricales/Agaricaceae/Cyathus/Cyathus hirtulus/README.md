@@ -1,5 +1,4 @@
-Cyathus hirtulus B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus hirtulus B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

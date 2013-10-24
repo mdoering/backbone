@@ -1,5 +1,4 @@
-Ganoderma formosanum T.T. Chang & T. Chen, 1984 SPECIES
-=======
+# Ganoderma formosanum T.T. Chang & T. Chen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis nylanderi Vain. SPECIES
-=======
+# Graphis nylanderi Vain. SPECIES
 
 #### Status
 ACCEPTED

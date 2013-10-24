@@ -1,8 +1,7 @@
-Polystictus gerardi Berk. & M.A. Curtis SPECIES
-=======
+# Polystictus gerardii Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polystictus gerardi Berk. & M.A. Curtis
+Polystictus gerardii Berk. & M.A. Curtis
 
 ### Remarks
 null

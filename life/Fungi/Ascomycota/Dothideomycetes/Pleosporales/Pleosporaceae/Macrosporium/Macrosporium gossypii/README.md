@@ -1,5 +1,4 @@
-Macrosporium gossypii Jacz. SPECIES
-=======
+# Macrosporium gossypii Jacz. SPECIES
 
 #### Status
 ACCEPTED

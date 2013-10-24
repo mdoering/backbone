@@ -1,5 +1,4 @@
-Entoloma subnitidum f. subnitidum FORM
-=======
+# Entoloma subnitidum S. Imai SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Coll. agric. , Hokkaido Imp. Univ. 43: 168 (1938)
 
 #### Original name
-Entoloma subnitidum f. subnitidum
+Entoloma subnitidum S. Imai
 
 ### Remarks
 null

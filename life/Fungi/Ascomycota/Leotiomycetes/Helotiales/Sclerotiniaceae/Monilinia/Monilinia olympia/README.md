@@ -1,5 +1,4 @@
-Monilinia olympia L.R. Batra SPECIES
-=======
+# Monilinia olympia L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea atlantica Vain. SPECIES
-=======
+# Usnea atlantica Vain. SPECIES
 
 #### Status
 ACCEPTED

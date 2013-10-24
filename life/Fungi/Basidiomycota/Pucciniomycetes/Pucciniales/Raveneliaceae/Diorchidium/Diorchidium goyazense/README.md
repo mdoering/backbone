@@ -1,5 +1,4 @@
-Diorchidium goyazense Henn. SPECIES
-=======
+# Diorchidium goyazense Henn. SPECIES
 
 #### Status
 ACCEPTED

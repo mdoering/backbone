@@ -1,5 +1,4 @@
-Morchella olivea (Quél.) Sacc. SPECIES
-=======
+# Morchella olivea (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

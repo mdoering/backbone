@@ -1,5 +1,4 @@
-Zelotriadelphia R.F. Castañeda, Saikawa, M. Stadler & Iturr. GENUS
-=======
+# Zelotriadelphia R.F. Castañeda, Saikawa, M. Stadler & Iturr. GENUS
 
 #### Status
 ACCEPTED

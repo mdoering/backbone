@@ -1,5 +1,4 @@
-Irenina pleurostyliae (Berk. & Broome) Hansf. SPECIES
-=======
+# Irenina pleurostyliae (Berk. & Broome) Hansf. SPECIES
 
 #### Status
 ACCEPTED

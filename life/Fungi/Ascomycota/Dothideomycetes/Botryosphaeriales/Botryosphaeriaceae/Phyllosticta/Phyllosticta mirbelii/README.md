@@ -1,8 +1,7 @@
-Phyllosticta mirbellii Tassi SPECIES
-=======
+# Phyllosticta mirbelii Tassi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta mirbellii Tassi
+Phyllosticta mirbelii Tassi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria subcicatricosa J. Steiner SPECIES
-=======
+# Pertusaria subcicatricosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

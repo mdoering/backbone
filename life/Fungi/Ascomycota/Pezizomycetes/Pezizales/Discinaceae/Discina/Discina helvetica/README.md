@@ -1,5 +1,4 @@
-Discina helvetica (Fuckel) Sacc. SPECIES
-=======
+# Discina helvetica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora cedri Syd. & E.J. Butler SPECIES
-=======
+# Stagonospora cedri Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

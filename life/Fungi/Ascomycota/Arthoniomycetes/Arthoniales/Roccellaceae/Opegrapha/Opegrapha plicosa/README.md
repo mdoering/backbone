@@ -1,5 +1,4 @@
-Opegrapha plicosa Meissn. {?} SPECIES
-=======
+# Opegrapha plicosa Meissn. {?} SPECIES
 
 #### Status
 ACCEPTED

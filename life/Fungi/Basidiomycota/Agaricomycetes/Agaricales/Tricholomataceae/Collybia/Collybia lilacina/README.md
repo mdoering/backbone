@@ -1,5 +1,4 @@
-Collybia lilacina Coker SPECIES
-=======
+# Collybia lilacina Coker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria africana Damm & Crous SPECIES
-=======
+# Calosphaeria africana Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shellephelota Jankowski, 1981 GENUS
-=======
+# Shellephelota Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

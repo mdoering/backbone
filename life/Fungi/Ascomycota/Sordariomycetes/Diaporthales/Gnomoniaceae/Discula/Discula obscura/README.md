@@ -1,5 +1,4 @@
-Discula obscura (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Discula obscura (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

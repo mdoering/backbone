@@ -1,5 +1,4 @@
-Calothyrium leptosporum Theiss. SPECIES
-=======
+# Calothyrium leptosporum Theiss. SPECIES
 
 #### Status
 ACCEPTED

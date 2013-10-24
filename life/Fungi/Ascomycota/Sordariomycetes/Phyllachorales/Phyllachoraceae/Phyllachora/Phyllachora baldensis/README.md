@@ -1,5 +1,4 @@
-Phyllachora baldensis Petr., 1929 SPECIES
-=======
+# Phyllachora baldensis Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

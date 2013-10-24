@@ -1,5 +1,4 @@
-Cryptomonas rufescens SPECIES
-=======
+# Cryptomonas rufescens SPECIES
 
 #### Status
 ACCEPTED

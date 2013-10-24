@@ -1,5 +1,4 @@
-Flammula lata Murrill SPECIES
-=======
+# Flammula lata Murrill SPECIES
 
 #### Status
 ACCEPTED

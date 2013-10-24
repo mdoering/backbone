@@ -1,17 +1,16 @@
-Lecidea parvifolia f. parvifolia FORM
-=======
+# Phyllopsora parvifolia (Pers.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Herb. Boissier 2: 90 (1894)
 
 #### Original name
-Lecidea parvifolia f. parvifolia
+Lecidea parvifolia Pers.
 
 ### Remarks
 null

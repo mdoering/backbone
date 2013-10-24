@@ -1,5 +1,4 @@
-Pyrenula pseudovelata M. Choisy SPECIES
-=======
+# Pyrenula pseudovelata M. Choisy SPECIES
 
 #### Status
 ACCEPTED

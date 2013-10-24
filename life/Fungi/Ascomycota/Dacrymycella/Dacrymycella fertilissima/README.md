@@ -1,5 +1,4 @@
-Dacrymycella fertilissima Bizz., 1885 SPECIES
-=======
+# Dacrymycella fertilissima Bizz., 1885 SPECIES
 
 #### Status
 ACCEPTED

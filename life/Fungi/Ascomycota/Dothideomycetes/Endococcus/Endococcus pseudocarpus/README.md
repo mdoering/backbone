@@ -1,5 +1,4 @@
-Endococcus pseudocarpus Nyl. SPECIES
-=======
+# Endococcus pseudocarpus Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium distoma (Kahl, 1926) Kahl, 1930 SPECIES
-=======
+# Spathidium distoma (Kahl, 1926) Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

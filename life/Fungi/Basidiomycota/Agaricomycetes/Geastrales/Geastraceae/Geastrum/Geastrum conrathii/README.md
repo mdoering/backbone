@@ -1,5 +1,4 @@
-Geastrum conrathii (Hollós) P. Ponce de León SPECIES
-=======
+# Geastrum conrathii (Hollós) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

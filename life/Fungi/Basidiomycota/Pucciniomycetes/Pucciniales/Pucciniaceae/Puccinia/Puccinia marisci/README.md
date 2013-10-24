@@ -1,5 +1,4 @@
-Puccinia marisci Mayor SPECIES
-=======
+# Puccinia marisci Mayor SPECIES
 
 #### Status
 ACCEPTED

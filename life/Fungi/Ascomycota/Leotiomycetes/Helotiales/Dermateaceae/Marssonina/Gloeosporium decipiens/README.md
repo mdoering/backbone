@@ -1,5 +1,4 @@
-Gloeosporium decipiens Sacc. SPECIES
-=======
+# Gloeosporium decipiens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catocarpus sphaericus (Schaer.) Arnold SPECIES
-=======
+# Catocarpus sphaericus (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

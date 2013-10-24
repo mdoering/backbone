@@ -1,5 +1,4 @@
-Cyclotella profunda Hendy SPECIES
-=======
+# Cyclotella profunda Hendy SPECIES
 
 #### Status
 ACCEPTED

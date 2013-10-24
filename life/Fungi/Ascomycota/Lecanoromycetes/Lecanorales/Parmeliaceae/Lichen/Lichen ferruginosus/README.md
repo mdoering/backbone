@@ -1,5 +1,4 @@
-Lichen ferruginosus J.F. Gmel. SPECIES
-=======
+# Lichen ferruginosus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

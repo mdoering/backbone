@@ -1,5 +1,4 @@
-Lyngbya luteofusca (C. Agardh) J. Agardh SPECIES
-=======
+# Lyngbya luteofusca (C. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

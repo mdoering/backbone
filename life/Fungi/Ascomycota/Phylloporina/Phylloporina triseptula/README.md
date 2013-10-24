@@ -1,5 +1,4 @@
-Phylloporina triseptula SPECIES
-=======
+# Phylloporina triseptula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplochytridium lagenarium (Schenk) Karling SPECIES
-=======
+# Diplochytridium lagenarium (Schenk) Karling SPECIES
 
 #### Status
 ACCEPTED

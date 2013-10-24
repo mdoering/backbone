@@ -1,5 +1,4 @@
-Stictis ramuligera var. ramuligera VARIETY
-=======
+# Stictis ramuligera Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 1): 15 (1899)
 
 #### Original name
-Stictis ramuligera var. ramuligera
+Stictis ramuligera Starbäck
 
 ### Remarks
 null

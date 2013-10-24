@@ -1,17 +1,16 @@
-Cytospora kunzei var. kunzei VARIETY
-=======
+# Valsa kunzei Nitschke, 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 270 (1884)
+Summa veg. Scand. (Stockholm), Section Post. 411 (1849)
 
 #### Original name
-Cytospora kunzei var. kunzei
+Valsa kunzei Nitschke, 1849
 
 ### Remarks
 null

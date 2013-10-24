@@ -1,5 +1,4 @@
-Lecanora hypoptoides (Nyl.) Nyl. SPECIES
-=======
+# Lecanora hypoptoides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

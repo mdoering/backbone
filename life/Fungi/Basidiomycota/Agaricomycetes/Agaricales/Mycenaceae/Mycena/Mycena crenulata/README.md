@@ -1,5 +1,4 @@
-Mycena crenulata (Schumach.) Sacc. SPECIES
-=======
+# Mycena crenulata (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

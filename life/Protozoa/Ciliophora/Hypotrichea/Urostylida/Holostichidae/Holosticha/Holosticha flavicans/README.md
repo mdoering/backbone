@@ -1,5 +1,4 @@
-Holosticha flavicans Kahl, 1932 SPECIES
-=======
+# Holosticha flavicans Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

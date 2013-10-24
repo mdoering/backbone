@@ -1,5 +1,4 @@
-Ammobaculites akabiraensis Asano, 1954 SPECIES
-=======
+# Ammobaculites akabiraensis Asano, 1954 SPECIES
 
 #### Status
 ACCEPTED

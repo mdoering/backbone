@@ -1,5 +1,4 @@
-Hymenoscyphus translucens (W.L. White) Arendh. SPECIES
-=======
+# Hymenoscyphus translucens (W.L. White) Arendh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus clarkii Nielsen et al., 1995 SPECIES
-=======
+# Bacillus clarkii Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

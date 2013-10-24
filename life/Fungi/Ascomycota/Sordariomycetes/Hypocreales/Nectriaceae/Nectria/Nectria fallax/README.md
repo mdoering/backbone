@@ -1,5 +1,4 @@
-Nectria fallax Rick SPECIES
-=======
+# Nectria fallax Rick SPECIES
 
 #### Status
 ACCEPTED

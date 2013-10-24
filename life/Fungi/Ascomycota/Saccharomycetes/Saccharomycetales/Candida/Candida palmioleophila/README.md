@@ -1,5 +1,4 @@
-Candida palmioleophila Nakase & Itoh, 1988 SPECIES
-=======
+# Candida palmioleophila Nakase & Itoh, 1988 SPECIES
 
 #### Status
 ACCEPTED

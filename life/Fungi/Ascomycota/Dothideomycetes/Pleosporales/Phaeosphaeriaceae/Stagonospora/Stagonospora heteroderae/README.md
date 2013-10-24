@@ -1,5 +1,4 @@
-Stagonospora heteroderae Carris, Glawe & Morgan-Jones SPECIES
-=======
+# Stagonospora heteroderae Carris, Glawe & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dolichoascus Thibaut & Ansel GENUS
-=======
+# Dolichoascus Thibaut & Ansel GENUS
 
 #### Status
 ACCEPTED

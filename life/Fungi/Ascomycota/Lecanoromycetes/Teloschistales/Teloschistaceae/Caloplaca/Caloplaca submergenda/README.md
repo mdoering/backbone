@@ -1,5 +1,4 @@
-Caloplaca submergenda (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca submergenda (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

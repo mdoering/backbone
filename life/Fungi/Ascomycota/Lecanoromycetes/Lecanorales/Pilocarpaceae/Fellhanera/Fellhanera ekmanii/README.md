@@ -1,5 +1,4 @@
-Fellhanera ekmanii (Vezda) Lücking SPECIES
-=======
+# Fellhanera ekmanii (Vezda) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya lucknowensis B.N. Prasad, R.K. Mehrotra & Y. Singh SPECIES
-=======
+# Lyngbya lucknowensis B.N. Prasad, R.K. Mehrotra & Y. Singh SPECIES
 
 #### Status
 ACCEPTED

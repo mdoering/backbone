@@ -1,5 +1,4 @@
-Trachelomonas tshopoensis Van Oye SPECIES
-=======
+# Trachelomonas tshopoensis Van Oye SPECIES
 
 #### Status
 ACCEPTED

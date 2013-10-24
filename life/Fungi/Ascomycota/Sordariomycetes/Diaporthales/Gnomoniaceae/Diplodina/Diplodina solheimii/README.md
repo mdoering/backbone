@@ -1,5 +1,4 @@
-Diplodina solheimii Petr. SPECIES
-=======
+# Diplodina solheimii Petr. SPECIES
 
 #### Status
 ACCEPTED

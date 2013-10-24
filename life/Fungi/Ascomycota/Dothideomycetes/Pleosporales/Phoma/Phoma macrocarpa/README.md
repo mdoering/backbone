@@ -1,5 +1,4 @@
-Phoma macrocarpa SPECIES
-=======
+# Phoma macrocarpa SPECIES
 
 #### Status
 ACCEPTED

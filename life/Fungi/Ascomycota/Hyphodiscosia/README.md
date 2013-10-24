@@ -1,5 +1,4 @@
-Hyphodiscosia Lodha & K.R.C. Reddy GENUS
-=======
+# Hyphodiscosia Lodha & K.R.C. Reddy GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria otagensis Zahlbr. SPECIES
-=======
+# Verrucaria otagensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

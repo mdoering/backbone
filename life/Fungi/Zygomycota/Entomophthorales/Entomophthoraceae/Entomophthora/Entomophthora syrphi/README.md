@@ -1,5 +1,4 @@
-Entomophthora syrphi Giard, 1888 SPECIES
-=======
+# Entomophthora syrphi Giard, 1888 SPECIES
 
 #### Status
 ACCEPTED

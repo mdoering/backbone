@@ -1,14 +1,13 @@
-Cercospora synedrellae J.M. Yen & Gilles, 1971 SPECIES
-=======
+# Pseudocercospora synedrellae (J.M. Yen & Gilles) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yen, Cahiers de La Maboké 9(1): 37 (1971)
+Mycol. Pap. 140: 154 (1976)
 
 #### Original name
 Cercospora synedrellae J.M. Yen & Gilles, 1971

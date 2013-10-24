@@ -1,5 +1,4 @@
-Pertusaria rhodesiaca Vain. SPECIES
-=======
+# Pertusaria rhodesiaca Vain. SPECIES
 
 #### Status
 ACCEPTED

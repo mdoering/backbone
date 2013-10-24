@@ -1,17 +1,16 @@
-Caloplaca grimmiae f. consociata (J. Steiner) Servít FORM
-=======
+# Caloplaca grimmiae (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 119 (1909)
 
 #### Original name
-Caloplaca consociata J. Steiner
+Lecanora grimmiae Nyl.
 
 ### Remarks
 null

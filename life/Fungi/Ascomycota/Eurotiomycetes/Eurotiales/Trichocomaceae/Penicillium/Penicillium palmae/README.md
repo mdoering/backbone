@@ -1,5 +1,4 @@
-Penicillium palmae Samson, Stolk & Frisvad, 1989 SPECIES
-=======
+# Penicillium palmae Samson, Stolk & Frisvad, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola acutiseta Syd. & P. Syd. SPECIES
-=======
+# Meliola acutiseta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

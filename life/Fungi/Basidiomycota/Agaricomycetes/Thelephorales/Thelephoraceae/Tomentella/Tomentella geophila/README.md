@@ -1,5 +1,4 @@
-Tomentella geophila (Durieu & Mont.) Pat. SPECIES
-=======
+# Tomentella geophila (Durieu & Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

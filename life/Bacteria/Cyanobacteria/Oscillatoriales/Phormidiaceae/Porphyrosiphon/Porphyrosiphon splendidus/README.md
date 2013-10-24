@@ -1,5 +1,4 @@
-Porphyrosiphon splendidus (Greville) F.E. Drouet SPECIES
-=======
+# Porphyrosiphon splendidus (Greville) F.E. Drouet SPECIES
 
 #### Status
 ACCEPTED

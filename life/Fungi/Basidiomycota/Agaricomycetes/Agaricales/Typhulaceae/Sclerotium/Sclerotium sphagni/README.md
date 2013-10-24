@@ -1,5 +1,4 @@
-Sclerotium sphagni (Therry) Moesz SPECIES
-=======
+# Sclerotium sphagni (Therry) Moesz SPECIES
 
 #### Status
 ACCEPTED

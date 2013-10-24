@@ -1,8 +1,7 @@
-Hainesia dieteli Oudem. SPECIES
-=======
+# Hainesia dietelii Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hainesia dieteli Oudem.
+Hainesia dietelii Oudem.
 
 ### Remarks
 null

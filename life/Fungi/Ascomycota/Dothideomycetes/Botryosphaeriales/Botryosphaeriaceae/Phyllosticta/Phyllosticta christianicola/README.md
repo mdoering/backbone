@@ -1,5 +1,4 @@
-Phyllosticta christianicola Bat. SPECIES
-=======
+# Phyllosticta christianicola Bat. SPECIES
 
 #### Status
 ACCEPTED

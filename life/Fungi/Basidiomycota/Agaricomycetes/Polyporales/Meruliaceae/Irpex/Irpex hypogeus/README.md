@@ -1,5 +1,4 @@
-Irpex hypogeus (Fuckel) SPECIES
-=======
+# Irpex hypogeus (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

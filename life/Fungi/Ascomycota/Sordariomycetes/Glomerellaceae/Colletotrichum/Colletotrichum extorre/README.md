@@ -1,5 +1,4 @@
-Colletotrichum extorre Sacc. SPECIES
-=======
+# Colletotrichum extorre Sacc. SPECIES
 
 #### Status
 ACCEPTED

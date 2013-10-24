@@ -1,5 +1,4 @@
-Lecanactis moseleyi (Cromb.) Zahlbr. SPECIES
-=======
+# Lecanactis moseleyi (Cromb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

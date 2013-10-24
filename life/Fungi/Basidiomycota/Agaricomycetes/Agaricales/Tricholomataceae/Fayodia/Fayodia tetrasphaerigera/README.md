@@ -1,5 +1,4 @@
-Fayodia tetrasphaerigera Singer SPECIES
-=======
+# Fayodia tetrasphaerigera Singer SPECIES
 
 #### Status
 ACCEPTED

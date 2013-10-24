@@ -1,5 +1,4 @@
-Acremonium curvulum W. Gams, 1971 SPECIES
-=======
+# Acremonium curvulum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

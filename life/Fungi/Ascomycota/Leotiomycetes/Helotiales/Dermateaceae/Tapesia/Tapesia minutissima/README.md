@@ -1,5 +1,4 @@
-Tapesia minutissima Fuckel SPECIES
-=======
+# Tapesia minutissima Fuckel SPECIES
 
 #### Status
 ACCEPTED

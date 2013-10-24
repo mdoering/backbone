@@ -1,5 +1,4 @@
-Spongodiscus biconcavus Haeckel, 1887 SPECIES
-=======
+# Spongodiscus biconcavus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

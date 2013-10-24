@@ -1,17 +1,16 @@
-Lecidea olivacea var. olivacea VARIETY
-=======
+# Lecidella elaeochroma (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea olivacea var. olivacea
+null
 
 ### Remarks
 null

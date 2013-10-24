@@ -1,5 +1,4 @@
-Calonectria diminuta (Cooke) Berl. & Voglino SPECIES
-=======
+# Calonectria diminuta (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

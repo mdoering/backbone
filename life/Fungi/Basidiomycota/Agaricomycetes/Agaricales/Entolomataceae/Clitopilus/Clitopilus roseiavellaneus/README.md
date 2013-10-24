@@ -1,5 +1,4 @@
-Clitopilus roseiavellaneus (Murrill) Murrill SPECIES
-=======
+# Clitopilus roseiavellaneus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

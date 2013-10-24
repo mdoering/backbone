@@ -1,5 +1,4 @@
-Diartus Sanfilippo & Riedel, 1980 GENUS
-=======
+# Diartus Sanfilippo & Riedel, 1980 GENUS
 
 #### Status
 ACCEPTED

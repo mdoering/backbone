@@ -1,5 +1,4 @@
-Parmelia granifera Tuck. SPECIES
-=======
+# Parmelia granifera Tuck. SPECIES
 
 #### Status
 ACCEPTED

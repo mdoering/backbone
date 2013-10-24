@@ -1,5 +1,4 @@
-Sphaeroderma affine Sacc. & Flageolet SPECIES
-=======
+# Sphaeroderma affine Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma asteromelloides Bubák SPECIES
-=======
+# Phoma asteromelloides Bubák SPECIES
 
 #### Status
 ACCEPTED

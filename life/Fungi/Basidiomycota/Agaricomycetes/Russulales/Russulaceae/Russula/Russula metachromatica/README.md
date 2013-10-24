@@ -1,5 +1,4 @@
-Russula metachromatica subsp. metachromatica SUBSPECIES
-=======
+# Russula metachromatica Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 7: 297 (1952)
 
 #### Original name
-Russula metachromatica subsp. metachromatica
+Russula metachromatica Singer
 
 ### Remarks
 null

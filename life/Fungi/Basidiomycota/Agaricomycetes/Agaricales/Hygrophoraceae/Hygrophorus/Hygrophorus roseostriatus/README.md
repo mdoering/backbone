@@ -1,5 +1,4 @@
-Hygrophorus roseostriatus Berk. & Broome SPECIES
-=======
+# Hygrophorus roseostriatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

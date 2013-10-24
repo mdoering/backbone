@@ -1,5 +1,4 @@
-Pluricellaesporites mexicanus Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites mexicanus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastroboletus doii M. Zang, 1995 SPECIES
-=======
+# Gastroboletus doii M. Zang, 1995 SPECIES
 
 #### Status
 ACCEPTED

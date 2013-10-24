@@ -1,5 +1,4 @@
-Polystigma pertusarioides Desm. SPECIES
-=======
+# Polystigma pertusarioides Desm. SPECIES
 
 #### Status
 ACCEPTED

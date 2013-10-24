@@ -1,5 +1,4 @@
-Cylindrosporium gorlenkovii Annal. SPECIES
-=======
+# Cylindrosporium gorlenkovii Annal. SPECIES
 
 #### Status
 ACCEPTED

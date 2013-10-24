@@ -1,17 +1,16 @@
-Amauroderma corneri Gulaid & Ryvarden, 1998 SPECIES
-=======
+# Amauroderma brasiliense (Singer) Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. helv. 10(1): 28 (1998)
+Syn. Fung. (Oslo) 19: 44 (2004)
 
 #### Original name
-Amauroderma corneri Gulaid & Ryvarden, 1998
+Scutiger brasiliensis Singer, 1983
 
 ### Remarks
 null

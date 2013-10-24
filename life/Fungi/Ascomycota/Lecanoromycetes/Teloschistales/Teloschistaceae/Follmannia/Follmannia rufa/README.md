@@ -1,5 +1,4 @@
-Follmannia rufa C.W. Dodge SPECIES
-=======
+# Follmannia rufa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

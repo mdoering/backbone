@@ -1,14 +1,13 @@
-Oidium zizyphi (J.M. Yen & Chin C. Wang) U. Braun SPECIES
-=======
+# Oidium ziziphi (J.M. Yen & Chin C. Wang) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zentbl. Mikrobiol. 137: 148 (1982)
 
 #### Original name
 Oidium erysiphoides f. ziziphi J.M. Yen & Chin C. Wang

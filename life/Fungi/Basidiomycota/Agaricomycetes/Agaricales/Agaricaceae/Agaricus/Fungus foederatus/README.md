@@ -1,5 +1,4 @@
-Fungus foederatus (Berk. & Mont.) Kuntze SPECIES
-=======
+# Fungus foederatus (Berk. & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

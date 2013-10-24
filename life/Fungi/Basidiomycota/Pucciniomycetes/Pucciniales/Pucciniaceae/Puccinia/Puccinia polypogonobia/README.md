@@ -1,5 +1,4 @@
-Puccinia polypogonobia McKenzie, 1980 SPECIES
-=======
+# Puccinia polypogonobia McKenzie, 1980 SPECIES
 
 #### Status
 ACCEPTED

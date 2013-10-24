@@ -1,5 +1,4 @@
-Pythium jasmonium anon. SPECIES
-=======
+# Pythium jasmonium anon. SPECIES
 
 #### Status
 ACCEPTED

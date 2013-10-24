@@ -1,5 +1,4 @@
-Hyloicus pinastri Npv SPECIES
-=======
+# Hyloicus pinastri Npv SPECIES
 
 #### Status
 ACCEPTED

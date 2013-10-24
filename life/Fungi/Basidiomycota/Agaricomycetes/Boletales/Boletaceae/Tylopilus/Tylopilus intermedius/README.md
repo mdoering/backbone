@@ -1,5 +1,4 @@
-Tylopilus intermedius A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus intermedius A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

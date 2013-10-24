@@ -1,8 +1,7 @@
-Mycena viridis-grisea Murrill SPECIES
-=======
+# Mycena viridigrisea Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena viridis-grisea Murrill
+Mycena viridigrisea Murrill
 
 ### Remarks
 null

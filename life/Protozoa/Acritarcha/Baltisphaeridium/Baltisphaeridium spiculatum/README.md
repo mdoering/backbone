@@ -1,5 +1,4 @@
-Baltisphaeridium spiculatum (White, 1844) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium spiculatum (White, 1844) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

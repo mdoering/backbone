@@ -1,5 +1,4 @@
-Hydropus amazonicus Singer SPECIES
-=======
+# Hydropus amazonicus Singer SPECIES
 
 #### Status
 ACCEPTED

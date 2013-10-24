@@ -1,5 +1,4 @@
-Radulum obtusum Rick SPECIES
-=======
+# Radulum obtusum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminononion Hornibrook, 1964 GENUS
-=======
+# Laminononion Hornibrook, 1964 GENUS
 
 #### Status
 ACCEPTED

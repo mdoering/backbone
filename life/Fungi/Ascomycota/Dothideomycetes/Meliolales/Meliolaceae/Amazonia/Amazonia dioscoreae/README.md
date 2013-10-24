@@ -1,5 +1,4 @@
-Amazonia dioscoreae Hansf. & F. Stevens SPECIES
-=======
+# Amazonia dioscoreae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

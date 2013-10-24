@@ -1,5 +1,4 @@
-Chlamydophorella urna Cookson & Eisenack SPECIES
-=======
+# Chlamydophorella urna Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

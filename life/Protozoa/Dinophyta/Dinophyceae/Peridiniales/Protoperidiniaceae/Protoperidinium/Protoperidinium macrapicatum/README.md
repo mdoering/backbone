@@ -1,5 +1,4 @@
-Protoperidinium macrapicatum (Balech, 1971) Balech, 1973 SPECIES
-=======
+# Protoperidinium macrapicatum (Balech, 1971) Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

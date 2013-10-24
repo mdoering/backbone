@@ -1,5 +1,4 @@
-Agaricus holophaeus Fr. SPECIES
-=======
+# Agaricus holophaeus Fr. SPECIES
 
 #### Status
 ACCEPTED

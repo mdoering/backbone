@@ -1,5 +1,4 @@
-Leptostroma fragilissimum Mont. SPECIES
-=======
+# Leptostroma fragilissimum Mont. SPECIES
 
 #### Status
 ACCEPTED

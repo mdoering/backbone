@@ -1,5 +1,4 @@
-Brachydesmiella verrucosa Goh, Sivichai, K.D. Hyde & Hywel-Jones, 1998 SPECIES
-=======
+# Brachydesmiella verrucosa Goh, Sivichai, K.D. Hyde & Hywel-Jones, 1998 SPECIES
 
 #### Status
 ACCEPTED

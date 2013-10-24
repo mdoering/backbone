@@ -1,14 +1,13 @@
-Sporidesmium septorioides Westend., 1854 SPECIES
-=======
+# Alternaria septorioides (Westend.) E.G. Simmons, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 5 21(2): 236 (1854)
+Alternaria: an identification manual 570 (2007)
 
 #### Original name
 Sporidesmium septorioides Westend., 1854

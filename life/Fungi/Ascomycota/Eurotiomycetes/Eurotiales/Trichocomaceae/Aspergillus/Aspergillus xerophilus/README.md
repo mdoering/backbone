@@ -1,5 +1,4 @@
-Aspergillus xerophilus Samson & Mouch. SPECIES
-=======
+# Aspergillus xerophilus Samson & Mouch. SPECIES
 
 #### Status
 ACCEPTED

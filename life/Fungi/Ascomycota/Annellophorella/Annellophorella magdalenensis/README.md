@@ -1,5 +1,4 @@
-Annellophorella magdalenensis Reisinger & Kiffer SPECIES
-=======
+# Annellophorella magdalenensis Reisinger & Kiffer SPECIES
 
 #### Status
 ACCEPTED

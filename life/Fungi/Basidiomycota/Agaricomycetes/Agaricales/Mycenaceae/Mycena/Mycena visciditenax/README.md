@@ -1,5 +1,4 @@
-Mycena visciditenax Corner SPECIES
-=======
+# Mycena visciditenax Corner SPECIES
 
 #### Status
 ACCEPTED

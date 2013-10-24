@@ -1,5 +1,4 @@
-Crocosphaera watsonii Waterbury, Watson & Valois, 1988 SPECIES
-=======
+# Crocosphaera watsonii Waterbury, Watson & Valois, 1988 SPECIES
 
 #### Status
 ACCEPTED

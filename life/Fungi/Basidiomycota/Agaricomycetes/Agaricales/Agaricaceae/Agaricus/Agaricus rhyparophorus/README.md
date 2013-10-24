@@ -1,5 +1,4 @@
-Agaricus rhyparophorus Berk. & Broome SPECIES
-=======
+# Agaricus rhyparophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

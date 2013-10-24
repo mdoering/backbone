@@ -1,5 +1,4 @@
-Pterula sclerotiicola Berthier, 1968 SPECIES
-=======
+# Pterula sclerotiicola Berthier, 1968 SPECIES
 
 #### Status
 ACCEPTED

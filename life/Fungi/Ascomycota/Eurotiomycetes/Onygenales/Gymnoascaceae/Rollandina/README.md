@@ -1,5 +1,4 @@
-Rollandina GENUS
-=======
+# Rollandina GENUS
 
 #### Status
 ACCEPTED

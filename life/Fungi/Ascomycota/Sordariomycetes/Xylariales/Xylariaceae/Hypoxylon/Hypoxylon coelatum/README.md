@@ -1,5 +1,4 @@
-Hypoxylon coelatum (Fr.) Ces. SPECIES
-=======
+# Hypoxylon coelatum (Fr.) Ces. SPECIES
 
 #### Status
 ACCEPTED

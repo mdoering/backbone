@@ -1,5 +1,4 @@
-Verrucaria innatula Hue SPECIES
-=======
+# Verrucaria innatula Hue SPECIES
 
 #### Status
 ACCEPTED

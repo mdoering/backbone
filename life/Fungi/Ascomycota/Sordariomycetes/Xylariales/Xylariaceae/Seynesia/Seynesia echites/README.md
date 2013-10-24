@@ -1,5 +1,4 @@
-Seynesia echites (Allesch.) Theiss. SPECIES
-=======
+# Seynesia echites (Allesch.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

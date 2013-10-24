@@ -1,5 +1,4 @@
-Phytophthora pinifolia Alv. Durán, Gryzenh. & M.J. Wingf., 2008 SPECIES
-=======
+# Phytophthora pinifolia Alv. Durán, Gryzenh. & M.J. Wingf., 2008 SPECIES
 
 #### Status
 ACCEPTED

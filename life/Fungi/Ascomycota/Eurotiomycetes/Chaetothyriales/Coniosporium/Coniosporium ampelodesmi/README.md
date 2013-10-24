@@ -1,5 +1,4 @@
-Coniosporium ampelodesmi (Maire) A.L. Guyot SPECIES
-=======
+# Coniosporium ampelodesmi (Maire) A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

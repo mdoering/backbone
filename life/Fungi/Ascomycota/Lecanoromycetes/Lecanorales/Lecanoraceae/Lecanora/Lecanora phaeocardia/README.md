@@ -1,5 +1,4 @@
-Lecanora phaeocardia Vain. SPECIES
-=======
+# Lecanora phaeocardia Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia spumosula (Zahlbr.) Yasuda SPECIES
-=======
+# Bacidia spumosula (Zahlbr.) Yasuda SPECIES
 
 #### Status
 ACCEPTED

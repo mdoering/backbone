@@ -1,5 +1,4 @@
-Verticicladiella grandifoliae R.W. Davidson SPECIES
-=======
+# Verticicladiella grandifoliae R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

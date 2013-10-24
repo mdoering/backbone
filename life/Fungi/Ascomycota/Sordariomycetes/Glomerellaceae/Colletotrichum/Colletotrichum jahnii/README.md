@@ -1,5 +1,4 @@
-Colletotrichum jahnii Syd., 1930 SPECIES
-=======
+# Colletotrichum jahnii Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

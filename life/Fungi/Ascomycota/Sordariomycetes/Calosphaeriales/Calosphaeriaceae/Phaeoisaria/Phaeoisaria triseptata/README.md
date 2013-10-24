@@ -1,5 +1,4 @@
-Phaeoisaria triseptata Hol.-Jech. SPECIES
-=======
+# Phaeoisaria triseptata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

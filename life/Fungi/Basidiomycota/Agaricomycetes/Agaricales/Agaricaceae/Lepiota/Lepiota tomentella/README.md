@@ -1,17 +1,16 @@
-Lepiota tomentella f. tomentella FORM
-=======
+# Lepiota tomentella J.E. Lange, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Dansk bot. Ark. 4(no. 4): 48 (1923)
 
 #### Original name
-Lepiota tomentella f. tomentella
+Lepiota tomentella J.E. Lange, 1923
 
 ### Remarks
 null

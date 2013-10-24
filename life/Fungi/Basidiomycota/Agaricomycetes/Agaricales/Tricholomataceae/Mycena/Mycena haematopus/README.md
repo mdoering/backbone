@@ -1,5 +1,4 @@
-Mycena haematopus (Pers. Fr.) P. Kumm. SPECIES
-=======
+# Mycena haematopus (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

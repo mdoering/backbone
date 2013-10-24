@@ -1,5 +1,4 @@
-Oospora rosea (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora rosea (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

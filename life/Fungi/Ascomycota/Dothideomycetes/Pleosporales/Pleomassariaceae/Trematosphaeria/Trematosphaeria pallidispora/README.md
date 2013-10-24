@@ -1,5 +1,4 @@
-Trematosphaeria pallidispora Kirschst. SPECIES
-=======
+# Trematosphaeria pallidispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

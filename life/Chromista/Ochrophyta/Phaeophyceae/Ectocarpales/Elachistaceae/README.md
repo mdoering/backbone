@@ -1,5 +1,4 @@
-Elachistaceae FAMILY
-=======
+# Elachistaceae FAMILY
 
 #### Status
 ACCEPTED

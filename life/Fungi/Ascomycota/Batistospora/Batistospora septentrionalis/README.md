@@ -1,5 +1,4 @@
-Batistospora septentrionalis J.L. Bezerra & M.P. Herrera, 1964 SPECIES
-=======
+# Batistospora septentrionalis J.L. Bezerra & M.P. Herrera, 1964 SPECIES
 
 #### Status
 ACCEPTED

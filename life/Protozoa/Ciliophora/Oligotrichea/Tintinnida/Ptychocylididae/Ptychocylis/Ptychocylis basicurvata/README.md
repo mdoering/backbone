@@ -1,5 +1,4 @@
-Ptychocylis basicurvata Meunier, 1906 SPECIES
-=======
+# Ptychocylis basicurvata Meunier, 1906 SPECIES
 
 #### Status
 ACCEPTED

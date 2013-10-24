@@ -1,5 +1,4 @@
-Terana uvida (Fr.) Kuntze SPECIES
-=======
+# Terana uvida (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

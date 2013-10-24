@@ -1,5 +1,4 @@
-Parmelia femsjonensis C. Bab. SPECIES
-=======
+# Parmelia femsjonensis C. Bab. SPECIES
 
 #### Status
 ACCEPTED

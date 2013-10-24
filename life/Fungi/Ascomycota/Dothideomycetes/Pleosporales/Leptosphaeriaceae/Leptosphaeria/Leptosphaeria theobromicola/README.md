@@ -1,5 +1,4 @@
-Leptosphaeria theobromicola Cif. & Gonz. Frag. SPECIES
-=======
+# Leptosphaeria theobromicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

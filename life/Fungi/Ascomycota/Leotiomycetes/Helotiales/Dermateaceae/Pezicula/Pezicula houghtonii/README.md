@@ -1,5 +1,4 @@
-Pezicula houghtonii (W. Phillips) J.W. Groves, 1946 SPECIES
-=======
+# Pezicula houghtonii (W. Phillips) J.W. Groves, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alexandrium tropicale E. Balech SPECIES
-=======
+# Alexandrium tropicale E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago isachnes Syd. & P. Syd. SPECIES
-=======
+# Ustilago isachnes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

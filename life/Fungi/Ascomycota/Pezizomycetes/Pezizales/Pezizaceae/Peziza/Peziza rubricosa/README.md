@@ -1,5 +1,4 @@
-Peziza rubricosa Fr. SPECIES
-=======
+# Peziza rubricosa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius serotinus Pers. SPECIES
-=======
+# Merulius serotinus Pers. SPECIES
 
 #### Status
 ACCEPTED

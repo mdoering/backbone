@@ -1,5 +1,4 @@
-Ceriomyces pallidiformis Murrill SPECIES
-=======
+# Ceriomyces pallidiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

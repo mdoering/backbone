@@ -1,5 +1,4 @@
-Bodo urinarius Kunstler, 1883 SPECIES
-=======
+# Bodo urinarius Kunstler, 1883 SPECIES
 
 #### Status
 ACCEPTED

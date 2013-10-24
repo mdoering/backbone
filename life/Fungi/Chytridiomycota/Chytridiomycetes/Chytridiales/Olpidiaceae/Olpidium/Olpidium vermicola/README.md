@@ -1,5 +1,4 @@
-Olpidium vermicola G.L. Barron & Szijarto SPECIES
-=======
+# Olpidium vermicola G.L. Barron & Szijarto SPECIES
 
 #### Status
 ACCEPTED

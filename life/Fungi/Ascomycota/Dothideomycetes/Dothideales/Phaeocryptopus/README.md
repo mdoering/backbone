@@ -1,17 +1,16 @@
-Cryptopus Theiss. GENUS
-=======
+# Phaeocryptopus Naumov, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 12: 72 (1914)
+null
 
 #### Original name
-Cryptopus Theiss.
+null
 
 ### Remarks
 null

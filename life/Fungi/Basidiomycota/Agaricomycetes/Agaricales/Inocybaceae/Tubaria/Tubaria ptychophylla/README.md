@@ -1,5 +1,4 @@
-Tubaria ptychophylla Pat. SPECIES
-=======
+# Tubaria ptychophylla Pat. SPECIES
 
 #### Status
 ACCEPTED

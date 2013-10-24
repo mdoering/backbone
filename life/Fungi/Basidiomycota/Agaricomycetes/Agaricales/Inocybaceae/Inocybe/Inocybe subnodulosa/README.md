@@ -1,5 +1,4 @@
-Inocybe subnodulosa Murrill SPECIES
-=======
+# Inocybe subnodulosa Murrill SPECIES
 
 #### Status
 ACCEPTED

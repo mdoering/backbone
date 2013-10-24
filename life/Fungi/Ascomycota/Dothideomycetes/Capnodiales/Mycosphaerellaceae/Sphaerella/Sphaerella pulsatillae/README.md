@@ -1,5 +1,4 @@
-Sphaerella pulsatillae var. pulsatillae VARIETY
-=======
+# Sphaerella pulsatillae (Lasch) Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 12 (1869)
 
 #### Original name
-Sphaerella pulsatillae var. pulsatillae
+null
 
 ### Remarks
 null

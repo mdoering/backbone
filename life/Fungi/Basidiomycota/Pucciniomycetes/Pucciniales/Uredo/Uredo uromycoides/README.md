@@ -1,5 +1,4 @@
-Uredo uromycoides Speg. SPECIES
-=======
+# Uredo uromycoides Speg. SPECIES
 
 #### Status
 ACCEPTED

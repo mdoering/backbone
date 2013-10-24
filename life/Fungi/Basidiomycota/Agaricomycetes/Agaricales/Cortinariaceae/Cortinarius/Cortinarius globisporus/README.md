@@ -1,5 +1,4 @@
-Cortinarius globisporus (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius globisporus (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella irmgardiae Petr. SPECIES
-=======
+# Didymella irmgardiae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuronema lanceolata SPECIES
-=======
+# Pleuronema lanceolata SPECIES
 
 #### Status
 ACCEPTED

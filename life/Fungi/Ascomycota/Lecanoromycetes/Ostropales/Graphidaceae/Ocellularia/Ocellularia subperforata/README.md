@@ -1,5 +1,4 @@
-Ocellularia subperforata Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia subperforata Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

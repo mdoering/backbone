@@ -1,5 +1,4 @@
-Cordyceps dayiensis Z.Q. Liang SPECIES
-=======
+# Cordyceps dayiensis Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

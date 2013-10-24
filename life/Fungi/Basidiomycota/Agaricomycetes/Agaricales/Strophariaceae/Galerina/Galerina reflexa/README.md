@@ -1,5 +1,4 @@
-Galerina reflexa (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina reflexa (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

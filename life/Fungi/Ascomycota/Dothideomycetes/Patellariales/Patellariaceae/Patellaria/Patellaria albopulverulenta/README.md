@@ -1,5 +1,4 @@
-Patellaria albopulverulenta (Schaer.) Trevis. SPECIES
-=======
+# Patellaria albopulverulenta (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

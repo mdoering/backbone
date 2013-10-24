@@ -1,5 +1,4 @@
-Debaryomyces udenii Van der Walt, M.T. Sm. & Y. Yamada, 1989 SPECIES
-=======
+# Debaryomyces udenii Van der Walt, M.T. Sm. & Y. Yamada, 1989 SPECIES
 
 #### Status
 ACCEPTED

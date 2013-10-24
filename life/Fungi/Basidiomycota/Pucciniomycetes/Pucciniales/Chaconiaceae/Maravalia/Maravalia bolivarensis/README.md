@@ -1,5 +1,4 @@
-Maravalia bolivarensis Y. Ono, 1984 SPECIES
-=======
+# Maravalia bolivarensis Y. Ono, 1984 SPECIES
 
 #### Status
 ACCEPTED

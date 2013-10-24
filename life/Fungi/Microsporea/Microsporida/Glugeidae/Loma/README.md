@@ -1,5 +1,4 @@
-Loma Morrison & Sprague, 1981 GENUS
-=======
+# Loma Morrison & Sprague, 1981 GENUS
 
 #### Status
 ACCEPTED

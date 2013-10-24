@@ -1,5 +1,4 @@
-Turkeyella Kuznetsova, 2002 GENUS
-=======
+# Turkeyella Kuznetsova, 2002 GENUS
 
 #### Status
 ACCEPTED

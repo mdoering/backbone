@@ -1,5 +1,4 @@
-Hebeloma kammala Grgur. SPECIES
-=======
+# Hebeloma kammala Grgur. SPECIES
 
 #### Status
 ACCEPTED

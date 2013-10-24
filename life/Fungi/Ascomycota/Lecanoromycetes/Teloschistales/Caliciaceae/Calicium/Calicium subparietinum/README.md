@@ -1,5 +1,4 @@
-Calicium subparietinum Arnold SPECIES
-=======
+# Calicium subparietinum Arnold SPECIES
 
 #### Status
 ACCEPTED

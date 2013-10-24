@@ -1,5 +1,4 @@
-Fomitiporia ethiopica SPECIES
-=======
+# Fomitiporia ethiopica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cyrtellina (Nyl.) Lettau SPECIES
-=======
+# Lecidea cyrtellina (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

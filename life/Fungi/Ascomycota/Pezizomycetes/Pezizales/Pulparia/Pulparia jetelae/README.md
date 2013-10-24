@@ -1,5 +1,4 @@
-Pulparia jetelae (Vacek) Svrcek SPECIES
-=======
+# Pulparia jetelae (Vacek) Svrcek SPECIES
 
 #### Status
 ACCEPTED

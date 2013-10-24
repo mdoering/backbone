@@ -1,5 +1,4 @@
-Resinomycena Redhead & Singer GENUS
-=======
+# Resinomycena Redhead & Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plenodomus sphaerosporus Petr. SPECIES
-=======
+# Plenodomus sphaerosporus Petr. SPECIES
 
 #### Status
 ACCEPTED

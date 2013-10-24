@@ -1,5 +1,4 @@
-Cercospora olacicola Muthappa SPECIES
-=======
+# Cercospora olacicola Muthappa SPECIES
 
 #### Status
 ACCEPTED

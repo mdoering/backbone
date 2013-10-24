@@ -1,5 +1,4 @@
-Pitella Langer, 1992 GENUS
-=======
+# Pitella Langer, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria ceuthocarpa (Sm.) Turner & Borrer SPECIES
-=======
+# Pertusaria ceuthocarpa (Sm.) Turner & Borrer SPECIES
 
 #### Status
 ACCEPTED

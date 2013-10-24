@@ -1,5 +1,4 @@
-Tricholoma prasinum (Schaeff.) P. Kumm. SPECIES
-=======
+# Tricholoma prasinum (Schaeff.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

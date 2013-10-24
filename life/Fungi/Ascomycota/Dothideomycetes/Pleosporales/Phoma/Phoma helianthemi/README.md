@@ -1,5 +1,4 @@
-Phoma helianthemi Allesch. SPECIES
-=======
+# Phoma helianthemi Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus elatus Lév. SPECIES
-=======
+# Polyporus elatus Lév. SPECIES
 
 #### Status
 ACCEPTED

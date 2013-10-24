@@ -1,5 +1,4 @@
-Hygrophoropsis bicolor Hongo SPECIES
-=======
+# Hygrophoropsis bicolor Hongo SPECIES
 
 #### Status
 ACCEPTED

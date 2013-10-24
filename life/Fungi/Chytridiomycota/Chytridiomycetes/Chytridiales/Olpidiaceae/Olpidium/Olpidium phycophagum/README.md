@@ -1,5 +1,4 @@
-Olpidium phycophagum Höhnk & Aleem, 1953 SPECIES
-=======
+# Olpidium phycophagum Höhnk & Aleem, 1953 SPECIES
 
 #### Status
 ACCEPTED

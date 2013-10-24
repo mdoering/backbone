@@ -1,5 +1,4 @@
-Gloeosporium lebbek Syd. SPECIES
-=======
+# Gloeosporium lebbek Syd. SPECIES
 
 #### Status
 ACCEPTED

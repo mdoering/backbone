@@ -1,5 +1,4 @@
-Stauronema spinificis Subhedar & V.G. Rao, 1976 SPECIES
-=======
+# Stauronema spinificis Subhedar & V.G. Rao, 1976 SPECIES
 
 #### Status
 ACCEPTED

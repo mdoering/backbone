@@ -1,14 +1,13 @@
-Chaetochalara ramosa Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Chalara ramosa (Nag Raj & W.B. Kendr.) P.M. Kirk, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Chalara Allied Genera (Waterloo) 154 (1975)
+in Kirk & Spooner, Kew Bull. 38(4): 580 (1984)
 
 #### Original name
 Chaetochalara ramosa Nag Raj & W.B. Kendr., 1975

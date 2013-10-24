@@ -1,5 +1,4 @@
-Puccinia balsamorrhizae Peck SPECIES
-=======
+# Puccinia balsamorrhizae Peck SPECIES
 
 #### Status
 ACCEPTED

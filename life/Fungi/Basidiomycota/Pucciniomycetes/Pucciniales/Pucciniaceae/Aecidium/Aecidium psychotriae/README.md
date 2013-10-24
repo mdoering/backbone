@@ -1,5 +1,4 @@
-Aecidium psychotriae Henn. SPECIES
-=======
+# Aecidium psychotriae Henn. SPECIES
 
 #### Status
 ACCEPTED

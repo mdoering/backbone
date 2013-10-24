@@ -1,5 +1,4 @@
-Hyperphyscia variabilis Scutari SPECIES
-=======
+# Hyperphyscia variabilis Scutari SPECIES
 
 #### Status
 ACCEPTED

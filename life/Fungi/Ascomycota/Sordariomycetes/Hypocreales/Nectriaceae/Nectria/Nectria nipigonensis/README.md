@@ -1,5 +1,4 @@
-Nectria nipigonensis Ellis & Everh. SPECIES
-=======
+# Nectria nipigonensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

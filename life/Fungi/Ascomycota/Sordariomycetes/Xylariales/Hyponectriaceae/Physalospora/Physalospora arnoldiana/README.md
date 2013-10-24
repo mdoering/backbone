@@ -1,5 +1,4 @@
-Physalospora arnoldiana Rehm SPECIES
-=======
+# Physalospora arnoldiana Rehm SPECIES
 
 #### Status
 ACCEPTED

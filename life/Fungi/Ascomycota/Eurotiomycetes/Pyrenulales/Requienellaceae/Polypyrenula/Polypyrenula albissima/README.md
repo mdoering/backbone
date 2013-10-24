@@ -1,5 +1,4 @@
-Polypyrenula albissima (A. Massal.) Aptroot SPECIES
-=======
+# Polypyrenula albissima (A. Massal.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

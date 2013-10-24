@@ -1,5 +1,4 @@
-Uredo psoraleae-polystictae Doidge SPECIES
-=======
+# Uredo psoraleae-polystictae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium sydus Valensi, 1953 SPECIES
-=======
+# Micrhystridium sydus Valensi, 1953 SPECIES
 
 #### Status
 ACCEPTED

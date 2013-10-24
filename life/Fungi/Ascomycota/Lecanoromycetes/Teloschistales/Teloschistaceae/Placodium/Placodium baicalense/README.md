@@ -1,5 +1,4 @@
-Placodium baicalense (Zahlbr.) Motyka SPECIES
-=======
+# Placodium baicalense (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

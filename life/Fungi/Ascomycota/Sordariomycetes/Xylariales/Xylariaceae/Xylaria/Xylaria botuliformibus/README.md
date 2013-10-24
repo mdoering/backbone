@@ -1,5 +1,4 @@
-Xylaria botuliformibus Rehm SPECIES
-=======
+# Xylaria botuliformibus Rehm SPECIES
 
 #### Status
 ACCEPTED

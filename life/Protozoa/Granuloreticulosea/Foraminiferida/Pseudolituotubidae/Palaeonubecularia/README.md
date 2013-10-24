@@ -1,5 +1,4 @@
-Palaeonubecularia Reitlinger, 1950 GENUS
-=======
+# Palaeonubecularia Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

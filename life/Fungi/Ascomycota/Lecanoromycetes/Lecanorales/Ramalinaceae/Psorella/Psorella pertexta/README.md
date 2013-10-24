@@ -1,5 +1,4 @@
-Psorella pertexta (Nyl.) Müll. Arg. SPECIES
-=======
+# Psorella pertexta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

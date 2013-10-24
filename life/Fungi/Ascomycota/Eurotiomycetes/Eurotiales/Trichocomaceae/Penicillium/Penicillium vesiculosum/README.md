@@ -1,5 +1,4 @@
-Penicillium vesiculosum Bainier SPECIES
-=======
+# Penicillium vesiculosum Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea scintillans McHugh & D.W. Mitch., 2001 SPECIES
-=======
+# Licea scintillans McHugh & D.W. Mitch., 2001 SPECIES
 
 #### Status
 ACCEPTED

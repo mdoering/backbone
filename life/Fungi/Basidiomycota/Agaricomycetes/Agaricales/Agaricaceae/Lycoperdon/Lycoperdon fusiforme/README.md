@@ -1,5 +1,4 @@
-Lycoperdon fusiforme M. Zang SPECIES
-=======
+# Lycoperdon fusiforme M. Zang SPECIES
 
 #### Status
 ACCEPTED

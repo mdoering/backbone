@@ -1,5 +1,4 @@
-Mesodictyon parvulum E. Theriot, W.N. Krebs & J.P. Bradbury SPECIES
-=======
+# Mesodictyon parvulum E. Theriot, W.N. Krebs & J.P. Bradbury SPECIES
 
 #### Status
 ACCEPTED

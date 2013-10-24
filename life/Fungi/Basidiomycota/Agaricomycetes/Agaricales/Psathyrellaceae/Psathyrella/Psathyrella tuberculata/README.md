@@ -1,5 +1,4 @@
-Psathyrella tuberculata (Pat.) A.H. Sm. SPECIES
-=======
+# Psathyrella tuberculata (Pat.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

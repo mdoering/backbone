@@ -1,5 +1,4 @@
-Septoria bellevaliae D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria bellevaliae D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

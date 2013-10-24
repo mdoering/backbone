@@ -1,5 +1,4 @@
-Ascochyta inulae (Allesch. & Syd.) Petr. SPECIES
-=======
+# Ascochyta inulae (Allesch. & Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

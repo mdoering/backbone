@@ -1,5 +1,4 @@
-Leptosphaeria hyalina Panwar & S.J. Kaur SPECIES
-=======
+# Leptosphaeria hyalina Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

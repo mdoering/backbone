@@ -1,5 +1,4 @@
-Lopadium begoniae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadium begoniae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

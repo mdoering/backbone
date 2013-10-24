@@ -1,5 +1,4 @@
-Galiella oblongispora J.Z. Cao SPECIES
-=======
+# Galiella oblongispora J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

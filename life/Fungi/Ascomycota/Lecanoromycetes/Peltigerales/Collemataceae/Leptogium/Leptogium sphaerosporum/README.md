@@ -1,5 +1,4 @@
-Leptogium sphaerosporum P. M. Jørg. & L. Olley SPECIES
-=======
+# Leptogium sphaerosporum P. M. Jørg. & L. Olley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina falcata Heron-Allen & Earland, 1932 SPECIES
-=======
+# Lingulina falcata Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

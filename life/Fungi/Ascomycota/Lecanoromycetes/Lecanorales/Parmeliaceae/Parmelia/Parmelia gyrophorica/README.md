@@ -1,5 +1,4 @@
-Parmelia gyrophorica (Hale) Brusse SPECIES
-=======
+# Parmelia gyrophorica (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

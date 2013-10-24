@@ -1,5 +1,4 @@
-Synedra famelica Kützing SPECIES
-=======
+# Synedra famelica Kützing SPECIES
 
 #### Status
 ACCEPTED

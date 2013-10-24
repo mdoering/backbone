@@ -1,5 +1,4 @@
-Eutreptiella elegans (Schiller) Pascher SPECIES
-=======
+# Eutreptiella elegans (Schiller) Pascher SPECIES
 
 #### Status
 ACCEPTED

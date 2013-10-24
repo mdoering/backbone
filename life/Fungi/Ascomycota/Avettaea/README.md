@@ -1,5 +1,4 @@
-Avettaea Petr. & Syd. GENUS
-=======
+# Avettaea Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

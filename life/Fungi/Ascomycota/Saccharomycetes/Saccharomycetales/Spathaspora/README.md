@@ -1,5 +1,4 @@
-Spathaspora N.H. Nguyen, S.O. Suh & M. Blackw. GENUS
-=======
+# Spathaspora N.H. Nguyen, S.O. Suh & M. Blackw. GENUS
 
 #### Status
 ACCEPTED

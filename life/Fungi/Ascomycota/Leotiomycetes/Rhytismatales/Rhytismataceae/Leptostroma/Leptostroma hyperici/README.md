@@ -1,5 +1,4 @@
-Leptostroma hyperici Schwein. SPECIES
-=======
+# Leptostroma hyperici Schwein. SPECIES
 
 #### Status
 ACCEPTED

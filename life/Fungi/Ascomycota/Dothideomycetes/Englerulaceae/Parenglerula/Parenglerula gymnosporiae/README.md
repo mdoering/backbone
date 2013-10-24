@@ -1,5 +1,4 @@
-Parenglerula gymnosporiae Petr. SPECIES
-=======
+# Parenglerula gymnosporiae Petr. SPECIES
 
 #### Status
 ACCEPTED

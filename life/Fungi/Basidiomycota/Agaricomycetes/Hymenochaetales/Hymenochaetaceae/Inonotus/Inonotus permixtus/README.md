@@ -1,5 +1,4 @@
-Inonotus permixtus Corner SPECIES
-=======
+# Inonotus permixtus Corner SPECIES
 
 #### Status
 ACCEPTED

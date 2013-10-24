@@ -1,5 +1,4 @@
-Orchitophrya Cépède, 1907 GENUS
-=======
+# Orchitophrya Cépède, 1907 GENUS
 
 #### Status
 ACCEPTED

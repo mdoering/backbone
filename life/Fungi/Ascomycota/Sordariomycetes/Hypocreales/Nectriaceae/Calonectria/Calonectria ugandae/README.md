@@ -1,5 +1,4 @@
-Calonectria ugandae Hansf. SPECIES
-=======
+# Calonectria ugandae Hansf. SPECIES
 
 #### Status
 ACCEPTED

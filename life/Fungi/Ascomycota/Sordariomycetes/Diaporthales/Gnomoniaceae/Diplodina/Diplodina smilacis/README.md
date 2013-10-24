@@ -1,5 +1,4 @@
-Diplodina smilacis Pat. SPECIES
-=======
+# Diplodina smilacis Pat. SPECIES
 
 #### Status
 ACCEPTED

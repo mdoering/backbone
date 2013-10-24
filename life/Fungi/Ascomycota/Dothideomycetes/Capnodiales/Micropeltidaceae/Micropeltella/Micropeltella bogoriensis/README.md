@@ -1,5 +1,4 @@
-Micropeltella bogoriensis (Höhn.) Syd. & P. Syd. SPECIES
-=======
+# Micropeltella bogoriensis (Höhn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

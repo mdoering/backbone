@@ -1,5 +1,4 @@
-Uromyces sophorae-flavescentis Kusano SPECIES
-=======
+# Uromyces sophorae-flavescentis Kusano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus subtilissimus G. Karsten, 1907 SPECIES
-=======
+# Coscinodiscus subtilissimus G. Karsten, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora cinerascens J. Steiner SPECIES
-=======
+# Acarospora cinerascens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

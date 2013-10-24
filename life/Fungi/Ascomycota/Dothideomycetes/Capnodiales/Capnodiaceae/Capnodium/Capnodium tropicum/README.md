@@ -1,5 +1,4 @@
-Capnodium tropicum (Mont.) Pat. SPECIES
-=======
+# Capnodium tropicum (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

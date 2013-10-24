@@ -1,5 +1,4 @@
-Inocybe rainierensis D.E. Stuntz SPECIES
-=======
+# Inocybe rainierensis D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

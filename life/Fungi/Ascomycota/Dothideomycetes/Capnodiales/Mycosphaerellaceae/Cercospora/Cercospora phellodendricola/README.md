@@ -1,5 +1,4 @@
-Cercospora phellodendricola F.X. Chao & P.K. Chi SPECIES
-=======
+# Cercospora phellodendricola F.X. Chao & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

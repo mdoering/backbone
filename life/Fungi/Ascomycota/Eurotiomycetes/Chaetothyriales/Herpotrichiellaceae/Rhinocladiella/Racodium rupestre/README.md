@@ -1,5 +1,4 @@
-Racodium rupestre var. commune Alb. & Schwein. VARIETY
-=======
+# Racodium rupestre Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 371 (1805)
+Tent. disp. meth. fung. (Lipsiae) 43 (1797)
 
 #### Original name
-Racodium rupestre var. commune Alb. & Schwein.
+Racodium rupestre Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudallescheria minutispora Gilgado, Gené, Cano & Guarro SPECIES
-=======
+# Pseudallescheria minutispora Gilgado, Gené, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

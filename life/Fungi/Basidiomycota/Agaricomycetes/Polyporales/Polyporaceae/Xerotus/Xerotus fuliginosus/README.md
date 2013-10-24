@@ -1,5 +1,4 @@
-Xerotus fuliginosus Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Xerotus fuliginosus Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
 ACCEPTED

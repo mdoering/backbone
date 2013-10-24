@@ -1,5 +1,4 @@
-Puccinia ourmiahensis Vienn.-Bourg. SPECIES
-=======
+# Puccinia ourmiahensis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

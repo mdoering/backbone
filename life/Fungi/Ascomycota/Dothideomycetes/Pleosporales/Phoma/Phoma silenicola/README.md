@@ -1,5 +1,4 @@
-Phoma silenicola Bubák & Ranoj. SPECIES
-=======
+# Phoma silenicola Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina incurvescens H. Magn. SPECIES
-=======
+# Ramalina incurvescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

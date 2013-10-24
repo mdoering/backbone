@@ -1,5 +1,4 @@
-Blastenia glomerellata (Harm.) Zahlbr. SPECIES
-=======
+# Blastenia glomerellata (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

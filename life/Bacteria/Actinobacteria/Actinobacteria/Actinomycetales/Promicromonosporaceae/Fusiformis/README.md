@@ -1,5 +1,4 @@
-Fusiformis GENUS
-=======
+# Fusiformis GENUS
 
 #### Status
 ACCEPTED

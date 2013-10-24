@@ -1,5 +1,4 @@
-Trinacrium subuliphora Matsushima SPECIES
-=======
+# Trinacrium subuliphora Matsushima SPECIES
 
 #### Status
 ACCEPTED

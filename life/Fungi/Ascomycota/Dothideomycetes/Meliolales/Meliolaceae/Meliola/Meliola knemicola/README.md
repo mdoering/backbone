@@ -1,5 +1,4 @@
-Meliola knemicola Hansf. SPECIES
-=======
+# Meliola knemicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

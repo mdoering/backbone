@@ -1,5 +1,4 @@
-Perenniporia podocarpi P.K. Buchanan & Hood, 1992 SPECIES
-=======
+# Perenniporia podocarpi P.K. Buchanan & Hood, 1992 SPECIES
 
 #### Status
 ACCEPTED

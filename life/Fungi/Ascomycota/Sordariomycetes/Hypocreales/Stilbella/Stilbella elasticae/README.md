@@ -1,5 +1,4 @@
-Stilbella elasticae Koord. SPECIES
-=======
+# Stilbella elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

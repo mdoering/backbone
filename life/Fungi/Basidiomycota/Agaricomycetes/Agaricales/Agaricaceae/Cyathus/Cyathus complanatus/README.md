@@ -1,5 +1,4 @@
-Cyathus complanatus DC. SPECIES
-=======
+# Cyathus complanatus DC. SPECIES
 
 #### Status
 ACCEPTED

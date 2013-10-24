@@ -1,5 +1,4 @@
-Passalora dioscoreae-subcalvae Y.L. Guo SPECIES
-=======
+# Passalora dioscoreae-subcalvae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

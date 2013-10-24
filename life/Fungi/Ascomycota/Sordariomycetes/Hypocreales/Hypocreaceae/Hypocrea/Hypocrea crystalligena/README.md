@@ -1,5 +1,4 @@
-Hypocrea crystalligena Jaklitsch SPECIES
-=======
+# Hypocrea crystalligena Jaklitsch SPECIES
 
 #### Status
 ACCEPTED

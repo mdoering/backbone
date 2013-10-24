@@ -1,5 +1,4 @@
-Asterothyrites minutus Cookson SPECIES
-=======
+# Asterothyrites minutus Cookson SPECIES
 
 #### Status
 ACCEPTED

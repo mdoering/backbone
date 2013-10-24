@@ -1,5 +1,4 @@
-Collacystis putredinis Kunze SPECIES
-=======
+# Collacystis putredinis Kunze SPECIES
 
 #### Status
 ACCEPTED

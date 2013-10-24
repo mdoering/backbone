@@ -1,5 +1,4 @@
-Psammoneis S.Sato, Kooistra & L.K.Medlin, 2008 GENUS
-=======
+# Psammoneis S.Sato, Kooistra & L.K.Medlin, 2008 GENUS
 
 #### Status
 ACCEPTED

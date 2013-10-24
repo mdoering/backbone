@@ -1,5 +1,4 @@
-Meliola alstoniae-comptonii B. Huguenin SPECIES
-=======
+# Meliola alstoniae-comptonii B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina salaciae Allesch. SPECIES
-=======
+# Asterina salaciae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum papayae Henn. SPECIES
-=======
+# Colletotrichum papayae Henn. SPECIES
 
 #### Status
 ACCEPTED

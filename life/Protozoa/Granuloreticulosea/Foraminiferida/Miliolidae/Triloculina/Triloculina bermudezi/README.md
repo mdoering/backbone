@@ -1,5 +1,4 @@
-Triloculina bermudezi Acosta, 1940 SPECIES
-=======
+# Triloculina bermudezi Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

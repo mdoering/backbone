@@ -1,5 +1,4 @@
-Phaeocollybia sparsilamellae P.G. Liu SPECIES
-=======
+# Phaeocollybia sparsilamellae P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Vibrissea maclennanii Hansf. SPECIES
-=======
+# Vibrissea maclennaniae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 81(1): 39 (1956)
 
 #### Original name
-Vibrissea maclennanii Hansf.
+Vibrissea maclennaniae Hansf.
 
 ### Remarks
 null

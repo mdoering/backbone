@@ -1,5 +1,4 @@
-Canoparmelia cassa Marcelli & C. H. Ribeiro SPECIES
-=======
+# Canoparmelia cassa Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Niptera lychnidis f. lychnidis (Fuckel) Lind FORM
-=======
+# Mollisia lychnidis (Fuckel) Sacc. & Traverso, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 20: 99 (1911)
 
 #### Original name
-Niptera lychnidis f. lychnidis (Fuckel) Lind
+Micropeziza lychnidis Fuckel, 1885
 
 ### Remarks
 null

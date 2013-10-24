@@ -1,5 +1,4 @@
-Cortinarius dunensis A. de Haan, Lenaerts & Volders SPECIES
-=======
+# Cortinarius dunensis A. de Haan, Lenaerts & Volders SPECIES
 
 #### Status
 ACCEPTED

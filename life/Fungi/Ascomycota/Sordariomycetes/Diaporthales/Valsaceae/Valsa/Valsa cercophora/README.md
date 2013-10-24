@@ -1,5 +1,4 @@
-Valsa cercophora Ellis SPECIES
-=======
+# Valsa cercophora Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena heterospinispora Novozh., Zemly., Schnittler & S. L. Stephenson, 2008 SPECIES
-=======
+# Perichaena heterospinispora Novozh., Zemly., Schnittler & S. L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haliangiaceae FAMILY
-=======
+# Haliangiaceae FAMILY
 
 #### Status
 ACCEPTED

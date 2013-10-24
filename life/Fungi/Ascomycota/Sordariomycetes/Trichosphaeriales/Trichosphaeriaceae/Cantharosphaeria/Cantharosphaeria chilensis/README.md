@@ -1,5 +1,4 @@
-Cantharosphaeria chilensis Thaxt. SPECIES
-=======
+# Cantharosphaeria chilensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

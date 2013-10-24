@@ -1,5 +1,4 @@
-Sphenolithus belemnos SPECIES
-=======
+# Sphenolithus belemnos SPECIES
 
 #### Status
 ACCEPTED

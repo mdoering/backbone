@@ -1,5 +1,4 @@
-Elsinoë uruguayensis Bitanc. SPECIES
-=======
+# Elsinoë uruguayensis Bitanc. SPECIES
 
 #### Status
 ACCEPTED

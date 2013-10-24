@@ -1,17 +1,16 @@
-Ascomyces deformans var. deformans VARIETY
-=======
+# Taphrina deformans (Berk.) Tul., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 5: 122 (1866)
 
 #### Original name
-Ascomyces deformans var. deformans
+Ascomyces deformans Berk., 1857
 
 ### Remarks
 null

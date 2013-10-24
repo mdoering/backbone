@@ -1,5 +1,4 @@
-Catillaria stenocarpa B. de Lesd. SPECIES
-=======
+# Catillaria stenocarpa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

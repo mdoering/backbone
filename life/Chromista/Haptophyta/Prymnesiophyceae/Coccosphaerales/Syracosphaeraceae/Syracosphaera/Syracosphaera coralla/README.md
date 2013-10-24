@@ -1,5 +1,4 @@
-Syracosphaera coralla SPECIES
-=======
+# Syracosphaera coralla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta hypsiloides SPECIES
-=======
+# Sticta hypsiloides SPECIES
 
 #### Status
 ACCEPTED

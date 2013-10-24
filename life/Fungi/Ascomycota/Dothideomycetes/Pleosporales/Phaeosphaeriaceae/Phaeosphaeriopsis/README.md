@@ -1,5 +1,4 @@
-Phaeosphaeriopsis M.P.S. Câmara, M.E. Palm & A.W. Ramaley GENUS
-=======
+# Phaeosphaeriopsis M.P.S. Câmara, M.E. Palm & A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

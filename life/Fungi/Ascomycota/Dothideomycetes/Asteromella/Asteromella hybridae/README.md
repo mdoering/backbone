@@ -1,5 +1,4 @@
-Asteromella hybridae (Mig.) H. Ruppr. SPECIES
-=======
+# Asteromella hybridae (Mig.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

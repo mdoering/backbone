@@ -1,5 +1,4 @@
-Meliola heudeloti Gaillard SPECIES
-=======
+# Meliola heudeloti Gaillard SPECIES
 
 #### Status
 ACCEPTED

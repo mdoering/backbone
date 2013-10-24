@@ -1,5 +1,4 @@
-Helvella ceratospermum Schreb. SPECIES
-=======
+# Helvella ceratospermum Schreb. SPECIES
 
 #### Status
 ACCEPTED

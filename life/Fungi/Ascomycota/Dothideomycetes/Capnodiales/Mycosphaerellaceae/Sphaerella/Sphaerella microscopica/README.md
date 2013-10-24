@@ -1,5 +1,4 @@
-Sphaerella microscopica Pass. SPECIES
-=======
+# Sphaerella microscopica Pass. SPECIES
 
 #### Status
 ACCEPTED

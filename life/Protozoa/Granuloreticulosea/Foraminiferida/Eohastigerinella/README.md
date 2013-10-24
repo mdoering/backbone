@@ -1,5 +1,4 @@
-Eohastigerinella Morozova, 1957 GENUS
-=======
+# Eohastigerinella Morozova, 1957 GENUS
 
 #### Status
 ACCEPTED

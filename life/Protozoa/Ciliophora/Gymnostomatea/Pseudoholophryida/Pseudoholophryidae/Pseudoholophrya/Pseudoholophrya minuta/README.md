@@ -1,5 +1,4 @@
-Pseudoholophrya minuta Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Pseudoholophrya minuta Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

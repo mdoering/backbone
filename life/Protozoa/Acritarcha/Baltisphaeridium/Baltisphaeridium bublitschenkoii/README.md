@@ -1,5 +1,4 @@
-Baltisphaeridium bublitschenkoii Grishina in Grishina & Klenina, 1983 SPECIES
-=======
+# Baltisphaeridium bublitschenkoii Grishina in Grishina & Klenina, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma roseotinctum Noordel. & Liiv SPECIES
-=======
+# Entoloma roseotinctum Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

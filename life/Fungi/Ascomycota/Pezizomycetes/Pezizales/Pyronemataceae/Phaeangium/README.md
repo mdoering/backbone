@@ -1,17 +1,16 @@
-Angiophaeum Sacc. GENUS
-=======
+# Phaeangium Patouillard, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Tab. Comp. Gen. Fungorum 29 (1898)
+J. Bot. Morot 8: 155 (1894)
 
 #### Original name
-Angiophaeum Sacc.
+Phaeangium Patouillard, 1894
 
 ### Remarks
 null

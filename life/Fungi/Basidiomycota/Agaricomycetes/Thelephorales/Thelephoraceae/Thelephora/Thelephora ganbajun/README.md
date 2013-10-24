@@ -1,5 +1,4 @@
-Thelephora ganbajun M. Zang, 1987 SPECIES
-=======
+# Thelephora ganbajun M. Zang, 1987 SPECIES
 
 #### Status
 ACCEPTED

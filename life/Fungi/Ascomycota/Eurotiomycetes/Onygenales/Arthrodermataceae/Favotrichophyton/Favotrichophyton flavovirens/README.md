@@ -1,5 +1,4 @@
-Favotrichophyton flavovirens (Da Veiga) C.W. Dodge SPECIES
-=======
+# Favotrichophyton flavovirens (Da Veiga) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

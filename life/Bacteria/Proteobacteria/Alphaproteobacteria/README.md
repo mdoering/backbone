@@ -1,5 +1,4 @@
-Alphaproteobacteria CLASS
-=======
+# Alphaproteobacteria CLASS
 
 #### Status
 ACCEPTED

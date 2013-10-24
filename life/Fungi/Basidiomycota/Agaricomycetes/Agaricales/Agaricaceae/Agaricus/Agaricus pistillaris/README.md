@@ -1,5 +1,4 @@
-Agaricus pistillaris Batsch SPECIES
-=======
+# Agaricus pistillaris Batsch SPECIES
 
 #### Status
 ACCEPTED

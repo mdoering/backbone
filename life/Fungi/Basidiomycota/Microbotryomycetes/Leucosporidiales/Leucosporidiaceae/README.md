@@ -1,5 +1,4 @@
-Leucosporidiaceae Jülich FAMILY
-=======
+# Leucosporidiaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

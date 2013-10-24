@@ -1,5 +1,4 @@
-Paramoebidium thrauli L. Léger & Duboscq ex Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Paramoebidium thrauli L. Léger & Duboscq ex Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
 ACCEPTED

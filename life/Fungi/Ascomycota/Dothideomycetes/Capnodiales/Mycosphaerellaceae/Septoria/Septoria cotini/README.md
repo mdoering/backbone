@@ -1,5 +1,4 @@
-Septoria cotini C. Massal. SPECIES
-=======
+# Septoria cotini C. Massal. SPECIES
 
 #### Status
 ACCEPTED

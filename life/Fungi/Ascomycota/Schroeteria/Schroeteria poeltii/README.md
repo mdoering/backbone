@@ -1,5 +1,4 @@
-Schroeteria poeltii Vánky, 1983 SPECIES
-=======
+# Schroeteria poeltii Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

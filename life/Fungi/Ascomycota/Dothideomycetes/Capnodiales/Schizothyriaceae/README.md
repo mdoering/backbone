@@ -1,5 +1,4 @@
-Schizothyriaceae Höhn. ex Trotter, Sacc., D. Sacc. & Traverso FAMILY
-=======
+# Schizothyriaceae Höhn. ex Trotter, Sacc., D. Sacc. & Traverso FAMILY
 
 #### Status
 ACCEPTED

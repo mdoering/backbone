@@ -1,5 +1,4 @@
-Entoloma quadratum (Berk. & M.A. Curtis) E. Horak SPECIES
-=======
+# Entoloma quadratum (Berk. & M.A. Curtis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces albiziae Henn. SPECIES
-=======
+# Uromyces albiziae Henn. SPECIES
 
 #### Status
 ACCEPTED

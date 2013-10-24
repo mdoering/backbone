@@ -1,17 +1,16 @@
-Ixechinus minus R. Heim ex E. Horak SPECIES
-=======
+# Ixechinus minor R. Heim ex E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 13: 669 (1968)
 
 #### Original name
-Ixechinus minus R. Heim ex E. Horak
+Ixechinus minor R. Heim ex E. Horak
 
 ### Remarks
 null

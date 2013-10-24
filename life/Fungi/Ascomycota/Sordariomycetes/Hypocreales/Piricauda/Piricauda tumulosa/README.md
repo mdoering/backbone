@@ -1,5 +1,4 @@
-Piricauda tumulosa (Sacc.) R.T. Moore SPECIES
-=======
+# Piricauda tumulosa (Sacc.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

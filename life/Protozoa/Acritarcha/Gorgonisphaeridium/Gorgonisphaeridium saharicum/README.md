@@ -1,5 +1,4 @@
-Gorgonisphaeridium saharicum (Lister, 1970) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium saharicum (Lister, 1970) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon mamillosum P.A. Duvign. SPECIES
-=======
+# Stereocaulon mamillosum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

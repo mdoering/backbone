@@ -1,5 +1,4 @@
-Coprinus carbonicola Singer SPECIES
-=======
+# Coprinus carbonicola Singer SPECIES
 
 #### Status
 ACCEPTED

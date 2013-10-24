@@ -1,5 +1,4 @@
-Microthyrium lauri Höhn., 1919 SPECIES
-=======
+# Microthyrium lauri Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

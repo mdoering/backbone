@@ -1,5 +1,4 @@
-Laestadia niesslii Kunze ex Rehm SPECIES
-=======
+# Laestadia niesslii Kunze ex Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia biformis f. biformis FORM
-=======
+# Parmelia biformis Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia biformis f. biformis
+Parmelia biformis Vain.
 
 ### Remarks
 null

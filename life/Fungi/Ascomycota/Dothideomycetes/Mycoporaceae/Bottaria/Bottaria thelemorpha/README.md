@@ -1,5 +1,4 @@
-Bottaria thelemorpha (Tuck.) Vain. SPECIES
-=======
+# Bottaria thelemorpha (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

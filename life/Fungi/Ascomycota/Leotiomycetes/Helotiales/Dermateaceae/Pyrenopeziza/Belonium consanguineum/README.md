@@ -1,5 +1,4 @@
-Belonium consanguineum Ellis & Everh. SPECIES
-=======
+# Belonium consanguineum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina quercus (Peck) Magnus SPECIES
-=======
+# Marssonina quercus (Peck) Magnus SPECIES
 
 #### Status
 ACCEPTED

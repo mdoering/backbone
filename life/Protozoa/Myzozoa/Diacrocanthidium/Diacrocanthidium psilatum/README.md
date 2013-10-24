@@ -1,5 +1,4 @@
-Diacrocanthidium psilatum Habib & Knapp, 1982 SPECIES
-=======
+# Diacrocanthidium psilatum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

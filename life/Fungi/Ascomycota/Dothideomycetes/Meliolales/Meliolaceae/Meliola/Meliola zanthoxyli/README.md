@@ -1,5 +1,4 @@
-Meliola zanthoxyli Hansf. SPECIES
-=======
+# Meliola zanthoxyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

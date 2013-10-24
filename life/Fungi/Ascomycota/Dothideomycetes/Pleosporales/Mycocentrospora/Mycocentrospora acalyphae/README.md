@@ -1,5 +1,4 @@
-Mycocentrospora acalyphae K. Srivast. & A.K. Srivast. SPECIES
-=======
+# Mycocentrospora acalyphae K. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

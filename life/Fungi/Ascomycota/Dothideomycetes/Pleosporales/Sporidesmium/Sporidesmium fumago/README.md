@@ -1,5 +1,4 @@
-Sporidesmium fumago Cooke SPECIES
-=======
+# Sporidesmium fumago Cooke SPECIES
 
 #### Status
 ACCEPTED

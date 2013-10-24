@@ -1,17 +1,16 @@
-Gyalecta corticola (Lönnr.) Tuck. SPECIES
-=======
+# Pachyphiale fagicola (Hepp) Zwackh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. lich. (Amherst) 132 (1872)
+Flora, Jena 45: 506 (1862)
 
 #### Original name
-Pachyphiale corticola Lönnr.
+Bacidia fagicola Hepp
 
 ### Remarks
 null

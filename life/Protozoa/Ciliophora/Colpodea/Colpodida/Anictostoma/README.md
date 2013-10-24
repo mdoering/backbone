@@ -1,5 +1,4 @@
-Anictostoma Foissner, 1993 GENUS
-=======
+# Anictostoma Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

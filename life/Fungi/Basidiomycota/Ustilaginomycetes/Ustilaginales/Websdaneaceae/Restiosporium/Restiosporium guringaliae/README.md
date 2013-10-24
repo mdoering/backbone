@@ -1,5 +1,4 @@
-Restiosporium guringaliae Vánky & R.G. Shivas, 2007 SPECIES
-=======
+# Restiosporium guringaliae Vánky & R.G. Shivas, 2007 SPECIES
 
 #### Status
 ACCEPTED

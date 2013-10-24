@@ -1,5 +1,4 @@
-Sulfolobus solfataricus Zillig et al., 1980 SPECIES
-=======
+# Sulfolobus solfataricus Zillig et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

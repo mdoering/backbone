@@ -1,5 +1,4 @@
-Physalospora dracaenae J. Sheld. SPECIES
-=======
+# Physalospora dracaenae J. Sheld. SPECIES
 
 #### Status
 ACCEPTED

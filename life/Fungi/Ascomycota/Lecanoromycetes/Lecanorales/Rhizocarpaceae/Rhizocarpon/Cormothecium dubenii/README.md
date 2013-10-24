@@ -1,5 +1,4 @@
-Cormothecium dubenii (Fr.) A. Massal. SPECIES
-=======
+# Cormothecium dubenii (Fr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

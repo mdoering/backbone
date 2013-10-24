@@ -1,14 +1,13 @@
-Pyrenopeziza lycopi (Rehm) Rehm, 1892 SPECIES
-=======
+# Mollisia lycopi Rehm, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(4): 622 (1892)
+null
 
 #### Original name
 Mollisia lycopi Rehm, 1881

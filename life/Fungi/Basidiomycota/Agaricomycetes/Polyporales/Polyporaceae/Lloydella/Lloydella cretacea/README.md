@@ -1,5 +1,4 @@
-Lloydella cretacea Rick SPECIES
-=======
+# Lloydella cretacea Rick SPECIES
 
 #### Status
 ACCEPTED

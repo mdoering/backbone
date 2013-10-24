@@ -1,17 +1,16 @@
-Meliola eupatoriae Schmied. SPECIES
-=======
+# Meliola eupatorii Schmied. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Wiss. Z. Friedrich Schiller-Univ. Jena, Math. -nat. Reihe 38(2): 202 (1989)
 
 #### Original name
-Meliola eupatoriae Schmied.
+Meliola eupatorii Schmied.
 
 ### Remarks
 null

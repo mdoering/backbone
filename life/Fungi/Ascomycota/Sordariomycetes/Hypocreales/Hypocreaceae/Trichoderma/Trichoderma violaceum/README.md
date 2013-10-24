@@ -1,5 +1,4 @@
-Trichoderma violaceum Oudem., 1904 SPECIES
-=======
+# Trichoderma violaceum Oudem., 1904 SPECIES
 
 #### Status
 ACCEPTED

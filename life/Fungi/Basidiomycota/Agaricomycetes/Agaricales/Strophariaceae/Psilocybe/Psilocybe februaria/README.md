@@ -1,5 +1,4 @@
-Psilocybe februaria Singer SPECIES
-=======
+# Psilocybe februaria Singer SPECIES
 
 #### Status
 ACCEPTED

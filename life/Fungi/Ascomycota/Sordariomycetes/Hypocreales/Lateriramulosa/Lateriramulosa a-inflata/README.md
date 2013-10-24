@@ -1,5 +1,4 @@
-Lateriramulosa a-inflata Matsush. SPECIES
-=======
+# Lateriramulosa a-inflata Matsush. SPECIES
 
 #### Status
 ACCEPTED

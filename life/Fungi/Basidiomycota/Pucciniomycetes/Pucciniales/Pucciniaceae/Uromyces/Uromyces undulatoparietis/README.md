@@ -1,5 +1,4 @@
-Uromyces undulatoparietis B. Li SPECIES
-=======
+# Uromyces undulatoparietis B. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea macrospora Dingley, 1952 SPECIES
-=======
+# Hypocrea macrospora Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

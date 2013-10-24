@@ -1,5 +1,4 @@
-Aegerita lichenoides Pers. SPECIES
-=======
+# Aegerita lichenoides Pers. SPECIES
 
 #### Status
 ACCEPTED

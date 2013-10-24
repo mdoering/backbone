@@ -1,14 +1,13 @@
-Vanrijia tsukubaensis (Onishi) R.T. Moore SPECIES
-=======
+# Pseudozyma tsukubaensis (Onishi) Boekhout, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 41(4): 363 (1995)
 
 #### Original name
 Candida tsukubaensis Onishi, 1973

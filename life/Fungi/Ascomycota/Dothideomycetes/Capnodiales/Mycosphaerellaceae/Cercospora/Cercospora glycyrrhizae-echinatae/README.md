@@ -1,5 +1,4 @@
-Cercospora glycyrrhizae-echinatae (Savul. & Sandu) U. Braun & Crous SPECIES
-=======
+# Cercospora glycyrrhizae-echinatae (Savul. & Sandu) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

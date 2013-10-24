@@ -1,5 +1,4 @@
-Uredo haitiensis Jørst. SPECIES
-=======
+# Uredo haitiensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

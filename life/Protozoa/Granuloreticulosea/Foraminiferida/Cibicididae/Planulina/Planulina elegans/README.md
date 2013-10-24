@@ -1,5 +1,4 @@
-Planulina elegans Tolmachoff SPECIES
-=======
+# Planulina elegans Tolmachoff SPECIES
 
 #### Status
 ACCEPTED

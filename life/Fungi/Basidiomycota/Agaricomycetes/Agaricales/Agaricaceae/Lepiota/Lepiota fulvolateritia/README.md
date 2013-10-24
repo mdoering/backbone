@@ -1,5 +1,4 @@
-Lepiota fulvolateritia Raithelh. SPECIES
-=======
+# Lepiota fulvolateritia Raithelh. SPECIES
 
 #### Status
 ACCEPTED

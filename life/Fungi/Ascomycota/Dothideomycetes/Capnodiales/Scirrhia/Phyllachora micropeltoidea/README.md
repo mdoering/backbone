@@ -1,5 +1,4 @@
-Phyllachora micropeltoidea Petr., 1955 SPECIES
-=======
+# Phyllachora micropeltoidea Petr., 1955 SPECIES
 
 #### Status
 DOUBTFUL

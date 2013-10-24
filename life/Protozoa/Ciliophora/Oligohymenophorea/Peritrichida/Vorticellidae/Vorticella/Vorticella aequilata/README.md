@@ -1,5 +1,4 @@
-Vorticella aequilata Kahl, 1935 SPECIES
-=======
+# Vorticella aequilata Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

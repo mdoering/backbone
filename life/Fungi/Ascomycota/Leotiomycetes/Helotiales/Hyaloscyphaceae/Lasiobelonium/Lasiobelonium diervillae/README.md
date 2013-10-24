@@ -1,5 +1,4 @@
-Lasiobelonium diervillae Raitv. SPECIES
-=======
+# Lasiobelonium diervillae Raitv. SPECIES
 
 #### Status
 ACCEPTED

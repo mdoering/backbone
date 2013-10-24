@@ -1,5 +1,4 @@
-Passalora melaena anon. SPECIES
-=======
+# Passalora melaena anon. SPECIES
 
 #### Status
 ACCEPTED

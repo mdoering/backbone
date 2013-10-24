@@ -1,5 +1,4 @@
-Rhodocollybia antioquiana J.L. Mata & Halling SPECIES
-=======
+# Rhodocollybia antioquiana J.L. Mata & Halling SPECIES
 
 #### Status
 ACCEPTED

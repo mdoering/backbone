@@ -1,5 +1,4 @@
-Parmelia pollinaria (Westr.) Ach. SPECIES
-=======
+# Parmelia pollinaria (Westr.) Ach. SPECIES
 
 #### Status
 ACCEPTED

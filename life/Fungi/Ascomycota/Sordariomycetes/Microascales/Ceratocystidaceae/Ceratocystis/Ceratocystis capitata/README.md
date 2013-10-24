@@ -1,5 +1,4 @@
-Ceratocystis capitata H.D. Griffin SPECIES
-=======
+# Ceratocystis capitata H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

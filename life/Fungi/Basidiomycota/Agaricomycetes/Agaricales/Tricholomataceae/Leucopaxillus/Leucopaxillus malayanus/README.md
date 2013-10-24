@@ -1,5 +1,4 @@
-Leucopaxillus malayanus Corner SPECIES
-=======
+# Leucopaxillus malayanus Corner SPECIES
 
 #### Status
 ACCEPTED

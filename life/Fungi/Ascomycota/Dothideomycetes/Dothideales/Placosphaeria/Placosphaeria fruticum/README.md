@@ -1,5 +1,4 @@
-Placosphaeria fruticum Sacc. SPECIES
-=======
+# Placosphaeria fruticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

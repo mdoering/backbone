@@ -1,5 +1,4 @@
-Hyphomicrobiaceae FAMILY
-=======
+# Hyphomicrobiaceae FAMILY
 
 #### Status
 ACCEPTED

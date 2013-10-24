@@ -1,5 +1,4 @@
-Marasmius orinocensis (Pat. & Gaillard) Sacc. SPECIES
-=======
+# Marasmius orinocensis (Pat. & Gaillard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

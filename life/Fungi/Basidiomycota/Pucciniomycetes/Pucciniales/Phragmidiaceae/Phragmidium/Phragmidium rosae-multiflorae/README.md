@@ -1,5 +1,4 @@
-Phragmidium rosae-multiflorae Dietel, 1905 SPECIES
-=======
+# Phragmidium rosae-multiflorae Dietel, 1905 SPECIES
 
 #### Status
 ACCEPTED

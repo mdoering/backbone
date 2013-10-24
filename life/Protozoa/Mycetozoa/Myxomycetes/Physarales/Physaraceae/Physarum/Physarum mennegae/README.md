@@ -1,5 +1,4 @@
-Physarum mennegae Nann.-Bremek., 1961 SPECIES
-=======
+# Physarum mennegae Nann.-Bremek., 1961 SPECIES
 
 #### Status
 ACCEPTED

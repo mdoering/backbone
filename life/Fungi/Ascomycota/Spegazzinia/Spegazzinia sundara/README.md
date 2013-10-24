@@ -1,5 +1,4 @@
-Spegazzinia sundara Subram., 1956 SPECIES
-=======
+# Spegazzinia sundara Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

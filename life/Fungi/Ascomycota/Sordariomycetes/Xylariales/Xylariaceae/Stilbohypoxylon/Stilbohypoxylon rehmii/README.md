@@ -1,5 +1,4 @@
-Stilbohypoxylon rehmii Theiss. SPECIES
-=======
+# Stilbohypoxylon rehmii Theiss. SPECIES
 
 #### Status
 ACCEPTED

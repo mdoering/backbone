@@ -1,5 +1,4 @@
-Trichothelium sipmanii f. sipmanii Lücking FORM
-=======
+# Trichothelium sipmanii Lücking SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Nova Hedwigia 66(3-4): 404 (1998)
 
 #### Original name
-Trichothelium sipmanii f. sipmanii Lücking
+Trichothelium sipmanii Lücking
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Panaeolus paludosus Cleland SPECIES
-=======
+# Panaeolus paludosus Cleland SPECIES
 
 #### Status
 ACCEPTED

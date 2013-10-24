@@ -1,5 +1,4 @@
-Myxosporium nitidum Berk. & M.A. Curtis SPECIES
-=======
+# Myxosporium nitidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

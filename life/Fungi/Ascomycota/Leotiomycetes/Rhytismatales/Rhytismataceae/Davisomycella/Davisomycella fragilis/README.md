@@ -1,5 +1,4 @@
-Davisomycella fragilis Darker, 1967 SPECIES
-=======
+# Davisomycella fragilis Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED

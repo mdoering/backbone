@@ -1,5 +1,4 @@
-Leptosphaeria tenera (Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria tenera (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius leproleptopus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius leproleptopus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

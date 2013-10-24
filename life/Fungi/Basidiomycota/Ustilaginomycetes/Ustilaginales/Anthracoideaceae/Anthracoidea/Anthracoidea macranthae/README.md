@@ -1,5 +1,4 @@
-Anthracoidea macranthae L. Guo & S.R. Wang SPECIES
-=======
+# Anthracoidea macranthae L. Guo & S.R. Wang SPECIES
 
 #### Status
 ACCEPTED

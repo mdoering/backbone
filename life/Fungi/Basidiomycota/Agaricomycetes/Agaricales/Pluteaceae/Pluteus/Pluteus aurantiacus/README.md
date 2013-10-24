@@ -1,5 +1,4 @@
-Pluteus aurantiacus Murrill SPECIES
-=======
+# Pluteus aurantiacus Murrill SPECIES
 
 #### Status
 ACCEPTED

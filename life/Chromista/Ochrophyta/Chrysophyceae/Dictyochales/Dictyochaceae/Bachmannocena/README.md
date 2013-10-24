@@ -1,5 +1,4 @@
-Bachmannocena S.Locker, 1974 GENUS
-=======
+# Bachmannocena S.Locker, 1974 GENUS
 
 #### Status
 ACCEPTED

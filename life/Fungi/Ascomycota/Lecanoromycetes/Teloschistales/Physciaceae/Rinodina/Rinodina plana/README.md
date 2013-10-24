@@ -1,5 +1,4 @@
-Rinodina plana H. Magn. SPECIES
-=======
+# Rinodina plana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinobacillus hominis Friis-Møller, 1985 SPECIES
-=======
+# Actinobacillus hominis Friis-Møller, 1985 SPECIES
 
 #### Status
 ACCEPTED

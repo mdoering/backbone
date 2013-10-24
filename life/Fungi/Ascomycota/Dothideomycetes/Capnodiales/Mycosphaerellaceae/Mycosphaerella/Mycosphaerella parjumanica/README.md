@@ -1,5 +1,4 @@
-Mycosphaerella parjumanica Petr. SPECIES
-=======
+# Mycosphaerella parjumanica Petr. SPECIES
 
 #### Status
 ACCEPTED

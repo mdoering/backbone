@@ -1,5 +1,4 @@
-Agaricus pallidomarginatus Peck SPECIES
-=======
+# Agaricus pallidomarginatus Peck SPECIES
 
 #### Status
 ACCEPTED

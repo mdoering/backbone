@@ -1,5 +1,4 @@
-Discula acerina Oudem. SPECIES
-=======
+# Discula acerina Oudem. SPECIES
 
 #### Status
 ACCEPTED

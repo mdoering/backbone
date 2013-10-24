@@ -1,5 +1,4 @@
-Heterodermia szechuanensis f. szechuanensis FORM
-=======
+# Heterodermia szechuanensis (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 An Enumeration of Lichens in China (Beijing) 113 (1991)
 
 #### Original name
-Heterodermia szechuanensis f. szechuanensis
+Anaptychia szechuanensis J.D. Zhao, L.W. Hsu & Z.M. Sun
 
 ### Remarks
 null

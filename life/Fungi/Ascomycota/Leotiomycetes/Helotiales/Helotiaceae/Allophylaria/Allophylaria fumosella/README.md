@@ -1,5 +1,4 @@
-Allophylaria fumosella (Rehm) Nannf. SPECIES
-=======
+# Allophylaria fumosella (Rehm) Nannf. SPECIES
 
 #### Status
 ACCEPTED

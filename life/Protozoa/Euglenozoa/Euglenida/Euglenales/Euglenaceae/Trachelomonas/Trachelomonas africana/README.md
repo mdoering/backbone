@@ -1,5 +1,4 @@
-Trachelomonas africana var. pulchella Bourrelly VARIETY
-=======
+# Trachelomonas africana Fritsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia piperis (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Amazonia piperis (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria fuscella Berk. SPECIES
-=======
+# Septoria fuscella Berk. SPECIES
 
 #### Status
 ACCEPTED

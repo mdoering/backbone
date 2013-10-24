@@ -1,5 +1,4 @@
-Sterigmatocystis candida Bainier SPECIES
-=======
+# Sterigmatocystis candida Bainier SPECIES
 
 #### Status
 ACCEPTED

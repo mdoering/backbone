@@ -1,5 +1,4 @@
-Phoma joannis Sacc. SPECIES
-=======
+# Phoma joannis Sacc. SPECIES
 
 #### Status
 ACCEPTED

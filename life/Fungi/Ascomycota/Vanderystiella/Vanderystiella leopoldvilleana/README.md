@@ -1,17 +1,16 @@
-Vanderystiella leopoldvilliana Henn. SPECIES
-=======
+# Vanderystiella leopoldvilleana Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals de Musée du Congo, Botanique Série 5 2(3): 229 (1908)
 
 #### Original name
-Vanderystiella leopoldvilliana Henn.
+Vanderystiella leopoldvilleana Henn., 1908
 
 ### Remarks
 null

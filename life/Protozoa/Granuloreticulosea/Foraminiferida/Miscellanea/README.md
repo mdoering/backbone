@@ -1,5 +1,4 @@
-Miscellanea Pfender, 1935 GENUS
-=======
+# Miscellanea Pfender, 1935 GENUS
 
 #### Status
 ACCEPTED

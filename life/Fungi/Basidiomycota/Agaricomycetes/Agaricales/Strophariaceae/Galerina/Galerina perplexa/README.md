@@ -1,5 +1,4 @@
-Galerina perplexa A.H. Sm. SPECIES
-=======
+# Galerina perplexa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

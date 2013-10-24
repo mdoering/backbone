@@ -1,5 +1,4 @@
-Microglomus L.S. Olive & Stoian. GENUS
-=======
+# Microglomus L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

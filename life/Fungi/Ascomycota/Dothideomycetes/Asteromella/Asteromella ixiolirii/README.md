@@ -1,5 +1,4 @@
-Asteromella ixiolirii (Kalymb.) Aa & Vanev SPECIES
-=======
+# Asteromella ixiolirii (Kalymb.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

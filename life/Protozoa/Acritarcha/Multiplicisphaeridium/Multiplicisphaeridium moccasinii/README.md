@@ -1,5 +1,4 @@
-Multiplicisphaeridium moccasinii (Cramer & Díez, 1972) Eisenack et al. SPECIES
-=======
+# Multiplicisphaeridium moccasinii (Cramer & Díez, 1972) Eisenack et al. SPECIES
 
 #### Status
 ACCEPTED

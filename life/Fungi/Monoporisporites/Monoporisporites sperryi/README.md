@@ -1,5 +1,4 @@
-Monoporisporites sperryi (Elsik) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites sperryi (Elsik) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

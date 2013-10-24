@@ -1,5 +1,4 @@
-Asterina dispar var. dispar VARIETY
-=======
+# Asterina dispar Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 26: 47 (1888)
 
 #### Original name
-Asterina dispar var. dispar
+Asterina dispar Speg.
 
 ### Remarks
 null

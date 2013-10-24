@@ -1,5 +1,4 @@
-Dictyota alternifida J. Agardh SPECIES
-=======
+# Dictyota alternifida J. Agardh SPECIES
 
 #### Status
 ACCEPTED

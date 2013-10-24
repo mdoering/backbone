@@ -1,5 +1,4 @@
-Ceriporiopsis cremeicarnea (Corner) T. Hatt. SPECIES
-=======
+# Ceriporiopsis cremeicarnea (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

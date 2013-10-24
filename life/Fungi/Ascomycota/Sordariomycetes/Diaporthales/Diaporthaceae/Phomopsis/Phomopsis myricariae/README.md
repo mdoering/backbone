@@ -1,5 +1,4 @@
-Phomopsis myricariae Syd. SPECIES
-=======
+# Phomopsis myricariae Syd. SPECIES
 
 #### Status
 ACCEPTED

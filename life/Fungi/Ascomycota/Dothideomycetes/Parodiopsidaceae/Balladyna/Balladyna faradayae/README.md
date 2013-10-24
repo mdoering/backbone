@@ -1,5 +1,4 @@
-Balladyna faradayae Hansf., 1957 SPECIES
-=======
+# Balladyna faradayae Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

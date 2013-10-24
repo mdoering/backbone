@@ -1,5 +1,4 @@
-Streptomyces chattanoogensis Burns and Holtman, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces chattanoogensis Burns and Holtman, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

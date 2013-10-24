@@ -1,5 +1,4 @@
-Patellaria eximia Syd. SPECIES
-=======
+# Patellaria eximia Syd. SPECIES
 
 #### Status
 ACCEPTED

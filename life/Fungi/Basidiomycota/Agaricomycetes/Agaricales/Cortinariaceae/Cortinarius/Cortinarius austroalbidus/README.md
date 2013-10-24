@@ -1,17 +1,16 @@
-Cortinarius austro-albidus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius austroalbidus Cleland & J.R. Harris, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Recds S. Austral. Mus. 9(1): 54 (1948)
 
 #### Original name
-Cortinarius austro-albidus Cleland & J.R. Harris
+Cortinarius austroalbidus Cleland & J.R. Harris, 1948
 
 ### Remarks
 null

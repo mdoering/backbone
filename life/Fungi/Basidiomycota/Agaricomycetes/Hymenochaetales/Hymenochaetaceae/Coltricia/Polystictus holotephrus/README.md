@@ -1,5 +1,4 @@
-Polystictus holotephrus (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Polystictus holotephrus (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

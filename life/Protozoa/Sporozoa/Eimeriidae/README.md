@@ -1,5 +1,4 @@
-Eimeriidae Minchin, 1903 FAMILY
-=======
+# Eimeriidae Minchin, 1903 FAMILY
 
 #### Status
 ACCEPTED

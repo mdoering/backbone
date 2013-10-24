@@ -1,5 +1,4 @@
-Omphalina olivaria (Peck) Singer SPECIES
-=======
+# Omphalina olivaria (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

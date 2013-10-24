@@ -1,5 +1,4 @@
-Laboulbenia corylophi Scheloske SPECIES
-=======
+# Laboulbenia corylophi Scheloske SPECIES
 
 #### Status
 ACCEPTED

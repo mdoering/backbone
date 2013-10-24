@@ -1,5 +1,4 @@
-Mycena nodosa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena nodosa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

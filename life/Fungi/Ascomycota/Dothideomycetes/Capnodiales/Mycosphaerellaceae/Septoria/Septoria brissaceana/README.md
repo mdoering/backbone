@@ -1,5 +1,4 @@
-Septoria brissaceana Sacc. & Letell., 1882 SPECIES
-=======
+# Septoria brissaceana Sacc. & Letell., 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halothermothrix orenii Cayol et al., 1994 SPECIES
-=======
+# Halothermothrix orenii Cayol et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

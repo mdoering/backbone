@@ -1,5 +1,4 @@
-Leptosphaeria dimidiata Udaiyan & V.S. Hosag. SPECIES
-=======
+# Leptosphaeria dimidiata Udaiyan & V.S. Hosag. SPECIES
 
 #### Status
 ACCEPTED

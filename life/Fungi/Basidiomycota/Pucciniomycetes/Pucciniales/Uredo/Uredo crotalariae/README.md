@@ -1,5 +1,4 @@
-Uredo crotalariae Dietel SPECIES
-=======
+# Uredo crotalariae Dietel SPECIES
 
 #### Status
 ACCEPTED

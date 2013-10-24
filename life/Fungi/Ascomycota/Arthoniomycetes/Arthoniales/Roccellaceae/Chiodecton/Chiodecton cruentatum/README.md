@@ -1,5 +1,4 @@
-Chiodecton cruentatum Riddle SPECIES
-=======
+# Chiodecton cruentatum Riddle SPECIES
 
 #### Status
 ACCEPTED

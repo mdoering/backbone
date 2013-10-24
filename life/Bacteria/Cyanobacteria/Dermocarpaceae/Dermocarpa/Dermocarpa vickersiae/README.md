@@ -1,5 +1,4 @@
-Dermocarpa vickersiae Collins SPECIES
-=======
+# Dermocarpa vickersiae Collins SPECIES
 
 #### Status
 ACCEPTED

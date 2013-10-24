@@ -1,5 +1,4 @@
-Austroparmelina elixiana (Argüello & A. Crespo) A. Crespo, Divakar & Elix SPECIES
-=======
+# Austroparmelina elixiana (Argüello & A. Crespo) A. Crespo, Divakar & Elix SPECIES
 
 #### Status
 ACCEPTED

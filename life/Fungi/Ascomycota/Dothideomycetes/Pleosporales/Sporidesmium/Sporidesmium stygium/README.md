@@ -1,5 +1,4 @@
-Sporidesmium stygium Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium stygium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

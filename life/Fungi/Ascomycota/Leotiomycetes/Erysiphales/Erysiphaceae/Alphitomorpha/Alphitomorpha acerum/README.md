@@ -1,5 +1,4 @@
-Alphitomorpha acerum Wallr. SPECIES
-=======
+# Alphitomorpha acerum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Notorotalia profunda Vella, 1957 SPECIES
-=======
+# Notorotalia profunda Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

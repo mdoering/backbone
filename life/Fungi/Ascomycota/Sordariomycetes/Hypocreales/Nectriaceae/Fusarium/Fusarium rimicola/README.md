@@ -1,5 +1,4 @@
-Fusarium rimicola Sacc. SPECIES
-=======
+# Fusarium rimicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

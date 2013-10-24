@@ -1,5 +1,4 @@
-Strombilidium conicum Kahl, 1932 SPECIES
-=======
+# Strombilidium conicum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

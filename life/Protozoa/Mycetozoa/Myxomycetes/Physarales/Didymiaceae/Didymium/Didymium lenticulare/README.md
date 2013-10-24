@@ -1,5 +1,4 @@
-Didymium lenticulare K.S. Thind & T.N. Lakh., 1968 SPECIES
-=======
+# Didymium lenticulare K.S. Thind & T.N. Lakh., 1968 SPECIES
 
 #### Status
 ACCEPTED

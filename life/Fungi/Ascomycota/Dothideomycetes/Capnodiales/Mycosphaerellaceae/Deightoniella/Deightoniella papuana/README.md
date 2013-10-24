@@ -1,5 +1,4 @@
-Deightoniella papuana D.E. Shaw SPECIES
-=======
+# Deightoniella papuana D.E. Shaw SPECIES
 
 #### Status
 ACCEPTED

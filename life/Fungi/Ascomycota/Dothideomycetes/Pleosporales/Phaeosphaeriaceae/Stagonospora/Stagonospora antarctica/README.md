@@ -1,5 +1,4 @@
-Stagonospora antarctica Speg. SPECIES
-=======
+# Stagonospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

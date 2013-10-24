@@ -1,5 +1,4 @@
-Lecidea grassiana H. Magn. SPECIES
-=======
+# Lecidea grassiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

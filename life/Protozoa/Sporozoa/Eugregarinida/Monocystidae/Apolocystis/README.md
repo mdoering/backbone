@@ -1,5 +1,4 @@
-Apolocystis Cognetti de Martiis, 1923 GENUS
-=======
+# Apolocystis Cognetti de Martiis, 1923 GENUS
 
 #### Status
 ACCEPTED

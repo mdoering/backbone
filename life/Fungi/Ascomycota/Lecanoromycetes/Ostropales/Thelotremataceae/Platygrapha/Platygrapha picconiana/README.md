@@ -1,5 +1,4 @@
-Platygrapha picconiana (Bagl.) Arnold SPECIES
-=======
+# Platygrapha picconiana (Bagl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

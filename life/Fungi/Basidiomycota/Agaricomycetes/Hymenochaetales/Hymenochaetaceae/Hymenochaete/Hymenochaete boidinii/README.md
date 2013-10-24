@@ -1,5 +1,4 @@
-Hymenochaete boidinii J.C. Léger & Lanq., 1989 SPECIES
-=======
+# Hymenochaete boidinii J.C. Léger & Lanq., 1989 SPECIES
 
 #### Status
 ACCEPTED

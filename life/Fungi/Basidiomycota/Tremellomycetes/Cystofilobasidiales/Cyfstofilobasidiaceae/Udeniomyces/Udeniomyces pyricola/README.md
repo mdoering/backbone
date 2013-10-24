@@ -1,5 +1,4 @@
-Udeniomyces pyricola (Stadelmann) Nakase & Takem., 1992 SPECIES
-=======
+# Udeniomyces pyricola (Stadelmann) Nakase & Takem., 1992 SPECIES
 
 #### Status
 ACCEPTED

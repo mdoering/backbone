@@ -1,5 +1,4 @@
-Lepiota tenuis Henn. SPECIES
-=======
+# Lepiota tenuis Henn. SPECIES
 
 #### Status
 ACCEPTED

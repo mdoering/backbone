@@ -1,5 +1,4 @@
-Chaetoplea longispora (H. Wegelin) M.E. Barr SPECIES
-=======
+# Chaetoplea longispora (H. Wegelin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

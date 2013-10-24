@@ -1,5 +1,4 @@
-Entoloma japonicum (Hongo) Hongo & Izawa SPECIES
-=======
+# Entoloma japonicum (Hongo) Hongo & Izawa SPECIES
 
 #### Status
 ACCEPTED

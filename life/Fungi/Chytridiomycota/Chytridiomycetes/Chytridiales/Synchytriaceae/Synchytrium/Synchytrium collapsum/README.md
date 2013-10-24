@@ -1,5 +1,4 @@
-Synchytrium collapsum Syd. & P. Syd. SPECIES
-=======
+# Synchytrium collapsum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

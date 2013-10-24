@@ -1,5 +1,4 @@
-Diatrype asterostoma Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype asterostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

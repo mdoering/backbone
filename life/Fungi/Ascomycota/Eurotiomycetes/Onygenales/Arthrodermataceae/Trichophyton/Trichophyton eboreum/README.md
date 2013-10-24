@@ -1,5 +1,4 @@
-Trichophyton eboreum Brasch & Y. Gräser SPECIES
-=======
+# Trichophyton eboreum Brasch & Y. Gräser SPECIES
 
 #### Status
 ACCEPTED

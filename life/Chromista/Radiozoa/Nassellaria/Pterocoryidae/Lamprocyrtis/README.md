@@ -1,5 +1,4 @@
-Lamprocyrtis Kling, 1973 GENUS
-=======
+# Lamprocyrtis Kling, 1973 GENUS
 
 #### Status
 ACCEPTED

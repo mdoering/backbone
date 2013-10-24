@@ -1,5 +1,4 @@
-Trichophaea cretea (Cooke) SPECIES
-=======
+# Trichophaea cretea (Cooke) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Galera sulcatipes (Peck) Sacc., 1887 SPECIES
-=======
+# Conocybe sulcatipes (Peck) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 866 (1887)
+Encyclop. Mycol. 7: 127 (1935)
 
 #### Original name
 Agaricus sulcatipes Peck, 1884

@@ -1,14 +1,13 @@
-Enterobryus helocharei (R.A. Poiss.) Manier SPECIES
-=======
+# Enterobryus helocharis (R.A. Poiss.) Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 602 (1970)
 
 #### Original name
 Trichella helocharis R.A. Poiss.

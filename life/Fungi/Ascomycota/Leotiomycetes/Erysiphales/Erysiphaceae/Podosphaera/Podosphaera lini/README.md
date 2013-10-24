@@ -1,5 +1,4 @@
-Podosphaera lini (Zvetkov) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera lini (Zvetkov) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

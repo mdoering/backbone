@@ -1,5 +1,4 @@
-Pleospora subalpina E. Müll., 1951 SPECIES
-=======
+# Pleospora subalpina E. Müll., 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella stricta anon. SPECIES
-=======
+# Tremella stricta anon. SPECIES
 
 #### Status
 ACCEPTED

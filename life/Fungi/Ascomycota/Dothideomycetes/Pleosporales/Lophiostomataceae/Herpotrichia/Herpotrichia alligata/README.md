@@ -1,5 +1,4 @@
-Herpotrichia alligata (Fr.) M.E. Barr SPECIES
-=======
+# Herpotrichia alligata (Fr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

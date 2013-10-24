@@ -1,5 +1,4 @@
-Everniastrum nepalense (Taylor) Hale ex Sipman SPECIES
-=======
+# Everniastrum nepalense (Taylor) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED

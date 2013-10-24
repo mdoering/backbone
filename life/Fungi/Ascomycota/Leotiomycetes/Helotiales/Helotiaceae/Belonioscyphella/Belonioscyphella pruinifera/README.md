@@ -1,5 +1,4 @@
-Belonioscyphella pruinifera (Rehm) Höhn. SPECIES
-=======
+# Belonioscyphella pruinifera (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

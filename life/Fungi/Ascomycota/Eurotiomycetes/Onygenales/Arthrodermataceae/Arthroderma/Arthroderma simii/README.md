@@ -1,5 +1,4 @@
-Arthroderma simii Stockdale, D.W.R. Mack. & Austwick, 1965 SPECIES
-=======
+# Arthroderma simii Stockdale, D.W.R. Mack. & Austwick, 1965 SPECIES
 
 #### Status
 ACCEPTED

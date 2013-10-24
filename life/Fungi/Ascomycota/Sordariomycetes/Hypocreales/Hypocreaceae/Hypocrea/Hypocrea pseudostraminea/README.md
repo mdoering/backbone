@@ -1,5 +1,4 @@
-Hypocrea pseudostraminea Yoshim. Doi SPECIES
-=======
+# Hypocrea pseudostraminea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

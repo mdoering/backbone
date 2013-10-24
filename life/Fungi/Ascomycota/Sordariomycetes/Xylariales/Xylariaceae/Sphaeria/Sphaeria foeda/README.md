@@ -1,5 +1,4 @@
-Sphaeria foeda Lév. SPECIES
-=======
+# Sphaeria foeda Lév. SPECIES
 
 #### Status
 ACCEPTED

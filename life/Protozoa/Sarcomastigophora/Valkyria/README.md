@@ -1,5 +1,4 @@
-Valkyria O'Connor, 1997 GENUS
-=======
+# Valkyria O'Connor, 1997 GENUS
 
 #### Status
 ACCEPTED

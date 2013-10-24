@@ -1,5 +1,4 @@
-Agaricus connatus Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Agaricus connatus Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
 ACCEPTED

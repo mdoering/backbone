@@ -1,5 +1,4 @@
-Haplaria brevis Bonord. SPECIES
-=======
+# Haplaria brevis Bonord. SPECIES
 
 #### Status
 ACCEPTED

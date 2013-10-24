@@ -1,5 +1,4 @@
-Limacinia elaeocarpi Sawada & W. Yamam. SPECIES
-=======
+# Limacinia elaeocarpi Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

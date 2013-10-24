@@ -1,5 +1,4 @@
-Psathyrella elwhaensis A.H. Sm. SPECIES
-=======
+# Psathyrella elwhaensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

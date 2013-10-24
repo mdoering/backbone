@@ -1,5 +1,4 @@
-Chrysosporium holmii Skou, 1992 SPECIES
-=======
+# Chrysosporium holmii Skou, 1992 SPECIES
 
 #### Status
 ACCEPTED

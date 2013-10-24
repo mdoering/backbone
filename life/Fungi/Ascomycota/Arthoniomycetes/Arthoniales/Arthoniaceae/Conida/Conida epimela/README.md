@@ -1,5 +1,4 @@
-Conida epimela (Norman) Sacc. & D. Sacc. SPECIES
-=======
+# Conida epimela (Norman) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia alboviridis (Gillet) Sacc. SPECIES
-=======
+# Tapesia alboviridis (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

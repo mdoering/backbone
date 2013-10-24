@@ -1,14 +1,13 @@
-Neurospora caffera (Matsush.) Dania García, Stchigel & Guarro SPECIES
-=======
+# Neurospora caffra (Matsush.) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1124 (2004)
 
 #### Original name
 Gelasinospora caffra Matsush.

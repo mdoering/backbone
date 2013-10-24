@@ -1,5 +1,4 @@
-Allarthothelium minimum Vain. SPECIES
-=======
+# Allarthothelium minimum Vain. SPECIES
 
 #### Status
 ACCEPTED

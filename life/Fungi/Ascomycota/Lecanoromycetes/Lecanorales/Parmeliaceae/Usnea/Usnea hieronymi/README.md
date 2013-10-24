@@ -1,5 +1,4 @@
-Usnea hieronymi var. hieronymi VARIETY
-=======
+# Usnea hieronymi Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea hieronymi var. hieronymi
+Usnea hieronymi Kremp.
 
 ### Remarks
 null

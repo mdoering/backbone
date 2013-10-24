@@ -1,5 +1,4 @@
-Podosporium densum Pat. SPECIES
-=======
+# Podosporium densum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbocatenospora R.F. Castañeda & Iturr. GENUS
-=======
+# Bulbocatenospora R.F. Castañeda & Iturr. GENUS
 
 #### Status
 ACCEPTED

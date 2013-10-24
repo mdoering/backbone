@@ -1,5 +1,4 @@
-Torula correae de Bary SPECIES
-=======
+# Torula correae de Bary SPECIES
 
 #### Status
 ACCEPTED

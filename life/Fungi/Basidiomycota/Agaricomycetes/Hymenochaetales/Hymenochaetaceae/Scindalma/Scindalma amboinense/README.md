@@ -1,5 +1,4 @@
-Scindalma amboinense (Lam.) Kuntze SPECIES
-=======
+# Scindalma amboinense (Lam.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

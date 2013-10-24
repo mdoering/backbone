@@ -1,14 +1,13 @@
-Sudermannia Lindblad in Fries, 1849 GENUS
-=======
+# Lindbladia E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Fries, Summa Veget. Scand. , 2, 449.
+Summa Veget. Scand. , 449.
 
 #### Original name
 null

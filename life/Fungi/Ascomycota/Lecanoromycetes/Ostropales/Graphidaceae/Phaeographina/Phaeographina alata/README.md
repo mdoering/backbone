@@ -1,5 +1,4 @@
-Phaeographina alata C.W. Dodge SPECIES
-=======
+# Phaeographina alata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

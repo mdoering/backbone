@@ -1,5 +1,4 @@
-Parmelia submundata Oxner SPECIES
-=======
+# Parmelia submundata Oxner SPECIES
 
 #### Status
 ACCEPTED

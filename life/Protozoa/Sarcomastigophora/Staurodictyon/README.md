@@ -1,5 +1,4 @@
-Staurodictyon Haeckel, 1887 GENUS
-=======
+# Staurodictyon Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

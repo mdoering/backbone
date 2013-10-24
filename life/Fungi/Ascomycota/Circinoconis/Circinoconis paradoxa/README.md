@@ -1,5 +1,4 @@
-Circinoconis paradoxa Boedijn, 1942 SPECIES
-=======
+# Circinoconis paradoxa Boedijn, 1942 SPECIES
 
 #### Status
 ACCEPTED

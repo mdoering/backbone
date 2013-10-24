@@ -1,5 +1,4 @@
-Gloeosphaeridium Pascher, 1937 GENUS
-=======
+# Gloeosphaeridium Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deltoidina deltoides Jiabo, 1978 SPECIES
-=======
+# Deltoidina deltoides Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

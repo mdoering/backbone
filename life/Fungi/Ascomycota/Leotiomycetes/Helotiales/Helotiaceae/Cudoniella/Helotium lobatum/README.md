@@ -1,5 +1,4 @@
-Helotium lobatum Starbäck SPECIES
-=======
+# Helotium lobatum Starbäck SPECIES
 
 #### Status
 ACCEPTED

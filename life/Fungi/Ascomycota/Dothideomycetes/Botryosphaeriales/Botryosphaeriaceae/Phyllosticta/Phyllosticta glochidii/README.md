@@ -1,17 +1,16 @@
-Phyllosticta glochidionis Sawada SPECIES
-=======
+# Phyllosticta glochidii Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Bulletin Agricultural Experiment Station Formosa 19: 526 (1919)
 
 #### Original name
-Phyllosticta glochidionis Sawada
+Phyllosticta glochidii Sawada
 
 ### Remarks
 null

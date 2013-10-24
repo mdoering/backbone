@@ -1,5 +1,4 @@
-Pseudocercospora rhizophoricola Deighton SPECIES
-=======
+# Pseudocercospora rhizophoricola Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora hyporubescens Timdal SPECIES
-=======
+# Psora hyporubescens Timdal SPECIES
 
 #### Status
 ACCEPTED

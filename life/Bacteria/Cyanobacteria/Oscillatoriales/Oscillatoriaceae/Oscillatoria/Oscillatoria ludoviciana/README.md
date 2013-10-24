@@ -1,5 +1,4 @@
-Oscillatoria ludoviciana Flint & Prescott SPECIES
-=======
+# Oscillatoria ludoviciana Flint & Prescott SPECIES
 
 #### Status
 ACCEPTED

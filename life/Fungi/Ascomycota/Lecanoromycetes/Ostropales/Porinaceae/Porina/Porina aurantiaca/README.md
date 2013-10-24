@@ -1,5 +1,4 @@
-Porina aurantiaca Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina aurantiaca Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

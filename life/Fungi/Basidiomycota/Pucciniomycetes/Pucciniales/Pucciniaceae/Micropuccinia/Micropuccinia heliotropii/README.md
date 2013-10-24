@@ -1,5 +1,4 @@
-Micropuccinia heliotropii (F. Kern & Kellerm.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia heliotropii (F. Kern & Kellerm.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

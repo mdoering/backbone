@@ -1,5 +1,4 @@
-Monochaetia russeliae Guba SPECIES
-=======
+# Monochaetia russeliae Guba SPECIES
 
 #### Status
 ACCEPTED

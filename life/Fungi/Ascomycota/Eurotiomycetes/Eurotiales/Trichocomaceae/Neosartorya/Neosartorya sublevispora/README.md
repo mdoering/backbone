@@ -1,5 +1,4 @@
-Neosartorya sublevispora Someya, Yaguchi & Udagawa, 1999 SPECIES
-=======
+# Neosartorya sublevispora Someya, Yaguchi & Udagawa, 1999 SPECIES
 
 #### Status
 ACCEPTED

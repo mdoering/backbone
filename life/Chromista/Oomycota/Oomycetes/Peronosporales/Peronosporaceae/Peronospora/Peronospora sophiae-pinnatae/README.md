@@ -1,5 +1,4 @@
-Peronospora sophiae-pinnatae Gäum. SPECIES
-=======
+# Peronospora sophiae-pinnatae Gäum. SPECIES
 
 #### Status
 ACCEPTED

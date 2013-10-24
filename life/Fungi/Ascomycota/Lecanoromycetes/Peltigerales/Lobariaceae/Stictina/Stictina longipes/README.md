@@ -1,5 +1,4 @@
-Stictina longipes Müll. Arg. SPECIES
-=======
+# Stictina longipes Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

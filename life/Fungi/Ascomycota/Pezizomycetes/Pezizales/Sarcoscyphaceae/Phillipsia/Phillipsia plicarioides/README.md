@@ -1,5 +1,4 @@
-Phillipsia plicarioides Rick SPECIES
-=======
+# Phillipsia plicarioides Rick SPECIES
 
 #### Status
 ACCEPTED

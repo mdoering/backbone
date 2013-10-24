@@ -1,17 +1,16 @@
-Pleospora rhautorii Henn. SPECIES
-=======
+# Pleospora rhanterii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annuaire Conser. et Jard. bot. Genève 7: 242 (1904)
 
 #### Original name
-Pleospora rhautorii Henn.
+Pleospora rhanterii Henn.
 
 ### Remarks
 null

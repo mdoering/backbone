@@ -1,5 +1,4 @@
-Camarosporium aculeorum Pass. SPECIES
-=======
+# Camarosporium aculeorum Pass. SPECIES
 
 #### Status
 ACCEPTED

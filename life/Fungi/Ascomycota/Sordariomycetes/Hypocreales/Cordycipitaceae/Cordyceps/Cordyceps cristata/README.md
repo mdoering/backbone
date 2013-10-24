@@ -1,5 +1,4 @@
-Cordyceps cristata Möller SPECIES
-=======
+# Cordyceps cristata Möller SPECIES
 
 #### Status
 ACCEPTED

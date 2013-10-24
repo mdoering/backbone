@@ -1,5 +1,4 @@
-Anaerosinus Strompl, Tindall, Jarvis, Lunsdorf, Moore & Hippe, 1999 GENUS
-=======
+# Anaerosinus Strompl, Tindall, Jarvis, Lunsdorf, Moore & Hippe, 1999 GENUS
 
 #### Status
 ACCEPTED

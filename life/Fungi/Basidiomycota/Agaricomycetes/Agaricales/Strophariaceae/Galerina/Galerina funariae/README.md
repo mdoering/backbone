@@ -1,5 +1,4 @@
-Galerina funariae A.H. Sm. & Singer SPECIES
-=======
+# Galerina funariae A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protodinium Lohmann, 198. GENUS
-=======
+# Protodinium Lohmann, 198. GENUS
 
 #### Status
 ACCEPTED

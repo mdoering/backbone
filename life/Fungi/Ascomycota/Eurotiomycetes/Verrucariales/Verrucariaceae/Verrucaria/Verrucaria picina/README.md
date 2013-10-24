@@ -1,5 +1,4 @@
-Verrucaria picina Ach. SPECIES
-=======
+# Verrucaria picina Ach. SPECIES
 
 #### Status
 ACCEPTED

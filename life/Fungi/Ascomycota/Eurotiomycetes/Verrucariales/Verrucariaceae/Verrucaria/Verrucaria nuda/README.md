@@ -1,5 +1,4 @@
-Verrucaria nuda Zschacke SPECIES
-=======
+# Verrucaria nuda Zschacke SPECIES
 
 #### Status
 ACCEPTED

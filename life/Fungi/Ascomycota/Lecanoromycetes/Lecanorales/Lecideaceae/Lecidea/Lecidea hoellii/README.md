@@ -1,5 +1,4 @@
-Lecidea hoellii Lynge SPECIES
-=======
+# Lecidea hoellii Lynge SPECIES
 
 #### Status
 ACCEPTED

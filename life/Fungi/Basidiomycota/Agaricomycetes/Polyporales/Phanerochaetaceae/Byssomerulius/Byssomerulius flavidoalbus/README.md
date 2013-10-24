@@ -1,5 +1,4 @@
-Byssomerulius flavidoalbus (Corner) Hjortstam SPECIES
-=======
+# Byssomerulius flavidoalbus (Corner) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

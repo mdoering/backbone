@@ -1,5 +1,4 @@
-Phoma fuscidula Sacc. SPECIES
-=======
+# Phoma fuscidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

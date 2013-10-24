@@ -1,5 +1,4 @@
-Marssoninites Babajan & Tasl. GENUS
-=======
+# Marssoninites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

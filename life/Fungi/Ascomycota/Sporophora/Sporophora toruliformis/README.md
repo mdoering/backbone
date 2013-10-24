@@ -1,5 +1,4 @@
-Sporophora toruliformis Luteraan, 1952 SPECIES
-=======
+# Sporophora toruliformis Luteraan, 1952 SPECIES
 
 #### Status
 ACCEPTED

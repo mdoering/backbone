@@ -1,5 +1,4 @@
-Baltisphaeridium pseudocalicispinum Górka, 1980 SPECIES
-=======
+# Baltisphaeridium pseudocalicispinum Górka, 1980 SPECIES
 
 #### Status
 ACCEPTED

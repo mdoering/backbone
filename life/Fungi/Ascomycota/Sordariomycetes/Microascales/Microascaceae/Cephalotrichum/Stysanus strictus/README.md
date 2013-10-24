@@ -1,5 +1,4 @@
-Stysanus strictus Sacc. & Schulzer SPECIES
-=======
+# Stysanus strictus Sacc. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

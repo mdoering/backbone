@@ -1,5 +1,4 @@
-Spinoellipsella Kozur & Mostler, 1990 GENUS
-=======
+# Spinoellipsella Kozur & Mostler, 1990 GENUS
 
 #### Status
 ACCEPTED

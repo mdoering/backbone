@@ -1,5 +1,4 @@
-Scortechinia uniseriata (Fitzp.) Arx & E. Müll. SPECIES
-=======
+# Scortechinia uniseriata (Fitzp.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

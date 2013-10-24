@@ -1,5 +1,4 @@
-Leptosphaeria pinguicula Sacc. SPECIES
-=======
+# Leptosphaeria pinguicula Sacc. SPECIES
 
 #### Status
 ACCEPTED

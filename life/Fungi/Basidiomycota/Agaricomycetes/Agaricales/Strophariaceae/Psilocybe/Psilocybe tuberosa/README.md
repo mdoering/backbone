@@ -1,5 +1,4 @@
-Psilocybe tuberosa (Redhead & Kroeger) Walleyn SPECIES
-=======
+# Psilocybe tuberosa (Redhead & Kroeger) Walleyn SPECIES
 
 #### Status
 ACCEPTED

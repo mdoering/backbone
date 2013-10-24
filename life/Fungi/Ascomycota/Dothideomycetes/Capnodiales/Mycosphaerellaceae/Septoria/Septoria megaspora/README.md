@@ -1,5 +1,4 @@
-Septoria megaspora Speg. SPECIES
-=======
+# Septoria megaspora Speg. SPECIES
 
 #### Status
 ACCEPTED

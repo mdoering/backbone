@@ -1,5 +1,4 @@
-Rinodina bolanderi H. Magn. SPECIES
-=======
+# Rinodina bolanderi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

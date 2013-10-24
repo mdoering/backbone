@@ -1,11 +1,10 @@
-Ruminobacter amylophilum (Hamlin & Hungate, 1956) Prévot, 1966 SPECIES
-=======
+# Ruminobacter amylophilus (Hamlin & Hungate, 1956) Stackebrandt & Hippe, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

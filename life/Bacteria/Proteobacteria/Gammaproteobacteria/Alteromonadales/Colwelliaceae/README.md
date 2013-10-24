@@ -1,5 +1,4 @@
-Colwelliaceae FAMILY
-=======
+# Colwelliaceae FAMILY
 
 #### Status
 ACCEPTED

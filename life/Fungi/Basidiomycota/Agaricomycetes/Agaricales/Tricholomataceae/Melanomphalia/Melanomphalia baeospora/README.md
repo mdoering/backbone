@@ -1,5 +1,4 @@
-Melanomphalia baeospora Singer SPECIES
-=======
+# Melanomphalia baeospora Singer SPECIES
 
 #### Status
 ACCEPTED

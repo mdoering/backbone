@@ -1,5 +1,4 @@
-Mycoplasma mycoides subsp. mycoides SUBSPECIES
-=======
+# Mycoplasma mycoides (Borrel et al., 1910) Freundt, 1955 SPECIES
 
 #### Status
 ACCEPTED

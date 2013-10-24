@@ -1,5 +1,4 @@
-Daedalea stevensonii Petr. SPECIES
-=======
+# Daedalea stevensonii Petr. SPECIES
 
 #### Status
 ACCEPTED

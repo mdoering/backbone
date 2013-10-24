@@ -1,5 +1,4 @@
-Cercostigmina syzygii B. Sutton & Crous SPECIES
-=======
+# Cercostigmina syzygii B. Sutton & Crous SPECIES
 
 #### Status
 ACCEPTED

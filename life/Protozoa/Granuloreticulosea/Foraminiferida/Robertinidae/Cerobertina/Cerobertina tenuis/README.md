@@ -1,5 +1,4 @@
-Cerobertina tenuis (Chapman & Parr, 1937) SPECIES
-=======
+# Cerobertina tenuis (Chapman & Parr, 1937) SPECIES
 
 #### Status
 ACCEPTED

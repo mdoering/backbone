@@ -1,5 +1,4 @@
-Microglaena gyalectoides Almq. SPECIES
-=======
+# Microglaena gyalectoides Almq. SPECIES
 
 #### Status
 ACCEPTED

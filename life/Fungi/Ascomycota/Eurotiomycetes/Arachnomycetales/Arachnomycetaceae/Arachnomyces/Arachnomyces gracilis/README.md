@@ -1,5 +1,4 @@
-Arachnomyces gracilis Udagawa & Uchiy. SPECIES
-=======
+# Arachnomyces gracilis Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

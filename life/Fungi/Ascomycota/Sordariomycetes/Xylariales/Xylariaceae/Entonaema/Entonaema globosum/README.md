@@ -1,5 +1,4 @@
-Entonaema globosum R. Heim SPECIES
-=======
+# Entonaema globosum R. Heim SPECIES
 
 #### Status
 ACCEPTED

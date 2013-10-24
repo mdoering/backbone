@@ -1,8 +1,7 @@
-Dasyscypha cyathula (Pers.) Sacc. SPECIES
-=======
+# Dasyscyphus cyathula (Pers.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

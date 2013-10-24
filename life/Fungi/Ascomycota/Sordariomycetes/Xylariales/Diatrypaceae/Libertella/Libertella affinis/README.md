@@ -1,5 +1,4 @@
-Libertella affinis D. Sacc. SPECIES
-=======
+# Libertella affinis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

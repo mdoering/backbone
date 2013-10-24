@@ -1,5 +1,4 @@
-Terfezia eremita Malençon SPECIES
-=======
+# Terfezia eremita Malençon SPECIES
 
 #### Status
 ACCEPTED

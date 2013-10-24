@@ -1,17 +1,16 @@
-Crepidopus epigaeus tremulus (Schaeff.) Gray, 1821 INFRASPECIFIC_NAME
-=======
+# Hohenbuehelia tremula (Schaeff.) Thorn & G.L. Barron, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 414 (1986)
 
 #### Original name
-null
+Agaricus tremulus Schaeff., 1774
 
 ### Remarks
 null

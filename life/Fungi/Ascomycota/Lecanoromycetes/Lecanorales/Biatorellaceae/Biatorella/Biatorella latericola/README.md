@@ -1,5 +1,4 @@
-Biatorella latericola J. Steiner SPECIES
-=======
+# Biatorella latericola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycomicrothelia decipiens (Müll. Arg.) R. C. Harris SPECIES
-=======
+# Mycomicrothelia decipiens (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

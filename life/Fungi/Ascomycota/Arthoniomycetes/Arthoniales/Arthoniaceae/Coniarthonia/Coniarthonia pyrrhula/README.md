@@ -1,14 +1,13 @@
-Arthonia pyrrhula Nyl. SPECIES
-=======
+# Coniarthonia pyrrhula (Nyl.) Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 68: 447 (1885)
+Lichenologist 33(6): 499 (2001)
 
 #### Original name
 Arthonia pyrrhula Nyl.

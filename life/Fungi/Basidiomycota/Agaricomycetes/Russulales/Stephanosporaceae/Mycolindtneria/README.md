@@ -1,5 +1,4 @@
-Mycolindtneria Rauschert, 1988 GENUS
-=======
+# Mycolindtneria Rauschert, 1988 GENUS
 
 #### Status
 ACCEPTED

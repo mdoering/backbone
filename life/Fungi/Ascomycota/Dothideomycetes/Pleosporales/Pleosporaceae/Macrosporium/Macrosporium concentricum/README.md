@@ -1,5 +1,4 @@
-Macrosporium concentricum G. Winter SPECIES
-=======
+# Macrosporium concentricum G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmularia discoidea Racib., 1900 SPECIES
-=======
+# Inocyclus discoideus (Racib.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 2: 21 (1900)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 36 (1962)
 
 #### Original name
 Parmularia discoidea Racib., 1900

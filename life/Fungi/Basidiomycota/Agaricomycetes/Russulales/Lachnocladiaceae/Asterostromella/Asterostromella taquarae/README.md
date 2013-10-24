@@ -1,5 +1,4 @@
-Asterostromella taquarae Rick SPECIES
-=======
+# Asterostromella taquarae Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta halophila Speg. SPECIES
-=======
+# Phyllosticta halophila Speg. SPECIES
 
 #### Status
 ACCEPTED

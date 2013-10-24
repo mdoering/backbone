@@ -1,5 +1,4 @@
-Bovista kerensis (Pass.) De Toni SPECIES
-=======
+# Bovista kerensis (Pass.) De Toni SPECIES
 
 #### Status
 ACCEPTED

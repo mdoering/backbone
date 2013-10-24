@@ -1,5 +1,4 @@
-Buellia endorhodina Vain. SPECIES
-=======
+# Buellia endorhodina Vain. SPECIES
 
 #### Status
 ACCEPTED

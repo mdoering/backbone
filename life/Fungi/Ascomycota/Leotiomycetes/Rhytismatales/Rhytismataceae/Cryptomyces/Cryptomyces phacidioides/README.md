@@ -1,5 +1,4 @@
-Cryptomyces phacidioides Desm. SPECIES
-=======
+# Cryptomyces phacidioides Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola brisbanensis Hansf. SPECIES
-=======
+# Meliola brisbanensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

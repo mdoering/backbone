@@ -1,5 +1,4 @@
-Tricholoma edurum Banning & Peck SPECIES
-=======
+# Tricholoma edurum Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

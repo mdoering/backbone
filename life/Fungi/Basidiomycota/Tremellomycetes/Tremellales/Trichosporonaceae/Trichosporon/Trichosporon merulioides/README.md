@@ -1,5 +1,4 @@
-Trichosporon merulioides Kobay. {?} SPECIES
-=======
+# Trichosporon merulioides Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

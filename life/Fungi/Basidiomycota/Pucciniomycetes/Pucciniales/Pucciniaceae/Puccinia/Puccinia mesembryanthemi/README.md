@@ -1,5 +1,4 @@
-Puccinia mesembryanthemi MacOwan SPECIES
-=======
+# Puccinia mesembryanthemi MacOwan SPECIES
 
 #### Status
 ACCEPTED

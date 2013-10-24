@@ -1,5 +1,4 @@
-Cenangium salignum Fuckel SPECIES
-=======
+# Cenangium salignum Fuckel SPECIES
 
 #### Status
 ACCEPTED

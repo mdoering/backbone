@@ -1,5 +1,4 @@
-Pythiaceae J. Schröt. FAMILY
-=======
+# Pythiaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

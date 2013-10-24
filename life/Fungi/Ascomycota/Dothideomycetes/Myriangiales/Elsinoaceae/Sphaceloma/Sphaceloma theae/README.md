@@ -1,5 +1,4 @@
-Sphaceloma theae Kuros. SPECIES
-=======
+# Sphaceloma theae Kuros. SPECIES
 
 #### Status
 ACCEPTED

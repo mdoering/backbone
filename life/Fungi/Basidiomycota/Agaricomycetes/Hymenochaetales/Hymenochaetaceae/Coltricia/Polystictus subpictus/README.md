@@ -1,5 +1,4 @@
-Polystictus subpictus Lloyd SPECIES
-=======
+# Polystictus subpictus Lloyd SPECIES
 
 #### Status
 ACCEPTED

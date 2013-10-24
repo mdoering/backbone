@@ -1,5 +1,4 @@
-Mesocena dumitricae (K. Perch-Nielsen) D. Bukry SPECIES
-=======
+# Mesocena dumitricae (K. Perch-Nielsen) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

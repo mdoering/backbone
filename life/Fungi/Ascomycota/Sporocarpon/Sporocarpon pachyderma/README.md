@@ -1,5 +1,4 @@
-Sporocarpon pachyderma Will. SPECIES
-=======
+# Sporocarpon pachyderma Will. SPECIES
 
 #### Status
 ACCEPTED

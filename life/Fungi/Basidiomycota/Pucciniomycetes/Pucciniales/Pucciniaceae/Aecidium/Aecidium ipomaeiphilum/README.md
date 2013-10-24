@@ -1,5 +1,4 @@
-Aecidium ipomaeiphilum Speg. SPECIES
-=======
+# Aecidium ipomaeiphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

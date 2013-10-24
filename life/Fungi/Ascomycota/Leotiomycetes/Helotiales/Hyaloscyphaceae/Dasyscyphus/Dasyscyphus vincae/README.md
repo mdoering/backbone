@@ -1,8 +1,7 @@
-Dasyscypha vincae (Lib.) Sacc. SPECIES
-=======
+# Dasyscyphus vincae (Lib.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Spathidium extensum Kahl, 1933 SPECIES
-=======
+# Spathidium extensum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

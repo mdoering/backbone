@@ -1,5 +1,4 @@
-Stereum dorsale Kalchbr. ex G. Cunn. SPECIES
-=======
+# Stereum dorsale Kalchbr. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

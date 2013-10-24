@@ -1,5 +1,4 @@
-Pestalotia bicornis Durieu & Mont. SPECIES
-=======
+# Pestalotia bicornis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

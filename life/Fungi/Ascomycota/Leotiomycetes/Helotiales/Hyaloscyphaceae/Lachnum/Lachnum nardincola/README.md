@@ -1,5 +1,4 @@
-Lachnum nardincola Velen. SPECIES
-=======
+# Lachnum nardincola Velen. SPECIES
 
 #### Status
 ACCEPTED

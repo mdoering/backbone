@@ -1,5 +1,4 @@
-Cladonia dissecta Ahti SPECIES
-=======
+# Cladonia dissecta Ahti SPECIES
 
 #### Status
 ACCEPTED

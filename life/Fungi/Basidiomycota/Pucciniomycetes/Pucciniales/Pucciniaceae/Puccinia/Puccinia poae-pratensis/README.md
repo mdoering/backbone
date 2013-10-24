@@ -1,5 +1,4 @@
-Puccinia poae-pratensis Miura SPECIES
-=======
+# Puccinia poae-pratensis Miura SPECIES
 
 #### Status
 ACCEPTED

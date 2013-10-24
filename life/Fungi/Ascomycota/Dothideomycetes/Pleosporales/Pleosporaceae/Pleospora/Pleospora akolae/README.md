@@ -1,5 +1,4 @@
-Pleospora akolae Jadhav, Somani & Wangikar SPECIES
-=======
+# Pleospora akolae Jadhav, Somani & Wangikar SPECIES
 
 #### Status
 ACCEPTED

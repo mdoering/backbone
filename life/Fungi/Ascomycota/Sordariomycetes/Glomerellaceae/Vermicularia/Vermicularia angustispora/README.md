@@ -1,5 +1,4 @@
-Vermicularia angustispora McAlpine SPECIES
-=======
+# Vermicularia angustispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

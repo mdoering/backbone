@@ -1,17 +1,16 @@
-Trichocladia diffusa f. diffusa FORM
-=======
+# Trichocladia diffusa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Trichocladia diffusa f. diffusa
+null
 
 ### Remarks
 null

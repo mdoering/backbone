@@ -1,5 +1,4 @@
-Quisquilites widderensis Legault, 1973 SPECIES
-=======
+# Quisquilites widderensis Legault, 1973 SPECIES
 
 #### Status
 ACCEPTED

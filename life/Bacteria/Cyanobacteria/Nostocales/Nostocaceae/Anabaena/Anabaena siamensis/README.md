@@ -1,5 +1,4 @@
-Anabaena siamensis P. Antarikanonda SPECIES
-=======
+# Anabaena siamensis P. Antarikanonda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma wyomingense Zundel SPECIES
-=======
+# Entyloma wyomingense Zundel SPECIES
 
 #### Status
 ACCEPTED

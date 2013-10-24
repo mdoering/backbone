@@ -1,14 +1,13 @@
-Acanthostigma bryophila Racov., 1959 SPECIES
-=======
+# Bryosphaeria bryophila (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mus. natn. Hist. nat. , Paris, Ser. B, N. S. 10: 97 (1959)
+Mitt. bot. StSamml. , Münch. 14: 156 (1978)
 
 #### Original name
 Acanthostigma bryophila Racov., 1959

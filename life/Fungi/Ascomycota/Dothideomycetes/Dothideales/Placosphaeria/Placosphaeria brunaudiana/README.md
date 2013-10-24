@@ -1,5 +1,4 @@
-Placosphaeria brunaudiana Sacc. & Traverso SPECIES
-=======
+# Placosphaeria brunaudiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

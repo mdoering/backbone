@@ -1,5 +1,4 @@
-Libertiella obscurior E.D. Garber SPECIES
-=======
+# Libertiella obscurior E.D. Garber SPECIES
 
 #### Status
 ACCEPTED

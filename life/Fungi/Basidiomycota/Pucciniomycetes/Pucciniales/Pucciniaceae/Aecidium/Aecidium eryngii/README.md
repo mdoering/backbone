@@ -1,5 +1,4 @@
-Aecidium eryngii Castagne SPECIES
-=======
+# Aecidium eryngii Castagne SPECIES
 
 #### Status
 ACCEPTED

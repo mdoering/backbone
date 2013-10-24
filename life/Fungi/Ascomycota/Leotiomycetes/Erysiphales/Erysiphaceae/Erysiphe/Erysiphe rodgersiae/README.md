@@ -1,5 +1,4 @@
-Erysiphe rodgersiae (Y. Nomura) U. Braun SPECIES
-=======
+# Erysiphe rodgersiae (Y. Nomura) U. Braun SPECIES
 
 #### Status
 ACCEPTED

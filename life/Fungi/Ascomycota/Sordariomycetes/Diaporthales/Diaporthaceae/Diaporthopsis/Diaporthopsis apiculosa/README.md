@@ -1,5 +1,4 @@
-Diaporthopsis apiculosa (Ellis) Wehm. SPECIES
-=======
+# Diaporthopsis apiculosa (Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

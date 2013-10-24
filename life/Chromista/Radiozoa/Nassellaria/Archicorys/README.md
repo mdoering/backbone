@@ -1,5 +1,4 @@
-Archicorys Haeckel, 1881 GENUS
-=======
+# Archicorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

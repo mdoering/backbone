@@ -1,5 +1,4 @@
-Penicillium psychidae (Pole-Evans) Biourge SPECIES
-=======
+# Penicillium psychidae (Pole-Evans) Biourge SPECIES
 
 #### Status
 ACCEPTED

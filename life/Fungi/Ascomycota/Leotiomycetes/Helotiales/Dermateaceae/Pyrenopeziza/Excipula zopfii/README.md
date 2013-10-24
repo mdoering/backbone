@@ -1,5 +1,4 @@
-Excipula zopfii Allesch. SPECIES
-=======
+# Excipula zopfii Allesch. SPECIES
 
 #### Status
 ACCEPTED

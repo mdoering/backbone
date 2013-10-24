@@ -1,5 +1,4 @@
-Tetrachytrium Sorokin GENUS
-=======
+# Tetrachytrium Sorokin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rediunta Stizenb. SPECIES
-=======
+# Lecanora rediunta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

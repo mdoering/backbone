@@ -1,5 +1,4 @@
-Trametes umbrina Fr. SPECIES
-=======
+# Trametes umbrina Fr. SPECIES
 
 #### Status
 ACCEPTED

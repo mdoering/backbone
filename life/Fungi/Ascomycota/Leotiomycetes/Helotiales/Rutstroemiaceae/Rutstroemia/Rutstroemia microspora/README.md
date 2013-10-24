@@ -1,5 +1,4 @@
-Rutstroemia microspora Velen., 1934 SPECIES
-=======
+# Rutstroemia microspora Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

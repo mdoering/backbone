@@ -1,14 +1,13 @@
-Coprinus amphithallus M. Lange & A.H. Sm., 1953 SPECIES
-=======
+# Coprinellus amphithallus (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 45: 774 (1953)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 232 (2001)
 
 #### Original name
 Coprinus amphithallus M. Lange & A.H. Sm., 1953

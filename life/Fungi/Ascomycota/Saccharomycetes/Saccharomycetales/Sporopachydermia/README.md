@@ -1,5 +1,4 @@
-Sporopachydermia Rodr. Mir. GENUS
-=======
+# Sporopachydermia Rodr. Mir. GENUS
 
 #### Status
 ACCEPTED

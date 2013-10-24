@@ -1,5 +1,4 @@
-Marasmiellus appalachianus Desjardin SPECIES
-=======
+# Marasmiellus appalachianus Desjardin SPECIES
 
 #### Status
 ACCEPTED

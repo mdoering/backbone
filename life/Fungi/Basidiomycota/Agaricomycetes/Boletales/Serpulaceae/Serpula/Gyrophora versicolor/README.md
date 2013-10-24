@@ -1,5 +1,4 @@
-Gyrophora versicolor Räsänen SPECIES
-=======
+# Gyrophora versicolor Räsänen SPECIES
 
 #### Status
 ACCEPTED

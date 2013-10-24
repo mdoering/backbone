@@ -1,5 +1,4 @@
-Uredo guerichiani Mennicken, W. Maier, Crous & Oberw. SPECIES
-=======
+# Uredo guerichiani Mennicken, W. Maier, Crous & Oberw. SPECIES
 
 #### Status
 ACCEPTED

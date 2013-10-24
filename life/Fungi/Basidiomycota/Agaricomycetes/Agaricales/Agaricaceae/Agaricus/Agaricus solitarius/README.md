@@ -1,5 +1,4 @@
-Agaricus solitarius var. solitarius VARIETY
-=======
+# Agaricus solitarius Gonn. & Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus solitarius var. solitarius
+Agaricus solitarius Gonn. & Rabenh.
 
 ### Remarks
 null

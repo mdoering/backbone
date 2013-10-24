@@ -1,5 +1,4 @@
-Crocynia joannae Hue SPECIES
-=======
+# Crocynia joannae Hue SPECIES
 
 #### Status
 ACCEPTED

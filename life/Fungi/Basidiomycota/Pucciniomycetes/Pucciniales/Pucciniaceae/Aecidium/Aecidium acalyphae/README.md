@@ -1,5 +1,4 @@
-Aecidium acalyphae Henn. SPECIES
-=======
+# Aecidium acalyphae Henn. SPECIES
 
 #### Status
 ACCEPTED

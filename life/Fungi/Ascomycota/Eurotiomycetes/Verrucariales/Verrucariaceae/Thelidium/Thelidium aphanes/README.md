@@ -1,5 +1,4 @@
-Thelidium aphanes J. Lahm SPECIES
-=======
+# Thelidium aphanes J. Lahm SPECIES
 
 #### Status
 ACCEPTED

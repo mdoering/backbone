@@ -1,5 +1,4 @@
-Pholiota striatula A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota striatula A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

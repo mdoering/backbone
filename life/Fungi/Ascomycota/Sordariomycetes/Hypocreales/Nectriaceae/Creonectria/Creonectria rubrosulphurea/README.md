@@ -1,5 +1,4 @@
-Creonectria rubrosulphurea Seaver SPECIES
-=======
+# Creonectria rubrosulphurea Seaver SPECIES
 
 #### Status
 ACCEPTED

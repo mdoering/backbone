@@ -1,5 +1,4 @@
-Sphaeria orthosticha Mont. SPECIES
-=======
+# Sphaeria orthosticha Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula dilatata (Mont.) Corner SPECIES
-=======
+# Pterula dilatata (Mont.) Corner SPECIES
 
 #### Status
 ACCEPTED

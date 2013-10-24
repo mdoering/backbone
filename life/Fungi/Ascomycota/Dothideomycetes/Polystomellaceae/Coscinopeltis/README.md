@@ -1,5 +1,4 @@
-Coscinopeltis GENUS
-=======
+# Coscinopeltis GENUS
 
 #### Status
 ACCEPTED

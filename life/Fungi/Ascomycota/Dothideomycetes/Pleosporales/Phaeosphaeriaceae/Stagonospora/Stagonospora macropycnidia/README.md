@@ -1,5 +1,4 @@
-Stagonospora macropycnidia Cunnell, 1961 SPECIES
-=======
+# Stagonospora macropycnidia Cunnell, 1961 SPECIES
 
 #### Status
 ACCEPTED

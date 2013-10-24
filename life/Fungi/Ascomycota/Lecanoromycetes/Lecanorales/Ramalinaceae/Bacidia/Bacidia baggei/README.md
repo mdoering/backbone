@@ -1,5 +1,4 @@
-Bacidia baggei (Metzler) Dalla Torre & Sarnth. SPECIES
-=======
+# Bacidia baggei (Metzler) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

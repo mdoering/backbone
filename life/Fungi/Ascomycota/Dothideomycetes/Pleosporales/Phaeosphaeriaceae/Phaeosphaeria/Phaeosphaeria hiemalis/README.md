@@ -1,5 +1,4 @@
-Phaeosphaeria hiemalis (Sacc. & Speg.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria hiemalis (Sacc. & Speg.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

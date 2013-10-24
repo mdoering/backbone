@@ -1,5 +1,4 @@
-Arthromitus nitidus Leidy SPECIES
-=======
+# Arthromitus nitidus Leidy SPECIES
 
 #### Status
 ACCEPTED

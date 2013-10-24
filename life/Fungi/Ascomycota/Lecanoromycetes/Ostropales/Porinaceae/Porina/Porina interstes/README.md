@@ -1,5 +1,4 @@
-Porina interstes (Nyl.) Harm. SPECIES
-=======
+# Porina interstes (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

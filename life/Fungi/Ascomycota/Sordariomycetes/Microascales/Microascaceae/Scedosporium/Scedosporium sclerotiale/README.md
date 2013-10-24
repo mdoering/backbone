@@ -1,5 +1,4 @@
-Scedosporium sclerotiale (Pepere) Neveu-Lem. SPECIES
-=======
+# Scedosporium sclerotiale (Pepere) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton moniliatum Stirt. SPECIES
-=======
+# Chiodecton moniliatum Stirt. SPECIES
 
 #### Status
 ACCEPTED

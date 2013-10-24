@@ -1,5 +1,4 @@
-Caloplaca lutea (J.R. Laundon) D.J. Galloway SPECIES
-=======
+# Caloplaca lutea (J.R. Laundon) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

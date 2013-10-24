@@ -1,5 +1,4 @@
-Phylloporus erythropus Bouriquet SPECIES
-=======
+# Phylloporus erythropus Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo digitariaecola Thüm. SPECIES
-=======
+# Uredo digitariaecola Thüm. SPECIES
 
 #### Status
 ACCEPTED

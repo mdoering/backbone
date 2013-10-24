@@ -1,14 +1,13 @@
-Mollisia montiaecola (Berk.) Sacc., 1889 SPECIES
-=======
+# Cashiella montiicola (Berk.) Dennis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 325 (1889)
+Kew Bull. 15(2): 294 (1961)
 
 #### Original name
 null

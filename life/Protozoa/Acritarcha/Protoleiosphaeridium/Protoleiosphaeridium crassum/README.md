@@ -1,5 +1,4 @@
-Protoleiosphaeridium crassum Timofejew in Timofeev, 1963 SPECIES
-=======
+# Protoleiosphaeridium crassum Timofejew in Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

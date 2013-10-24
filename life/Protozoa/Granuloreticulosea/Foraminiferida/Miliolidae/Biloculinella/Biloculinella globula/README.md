@@ -1,5 +1,4 @@
-Biloculinella globula SPECIES
-=======
+# Biloculinella globula SPECIES
 
 #### Status
 ACCEPTED

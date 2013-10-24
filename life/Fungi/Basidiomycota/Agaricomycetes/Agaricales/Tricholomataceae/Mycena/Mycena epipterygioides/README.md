@@ -1,5 +1,4 @@
-Mycena epipterygioides A. Pearson SPECIES
-=======
+# Mycena epipterygioides A. Pearson SPECIES
 
 #### Status
 ACCEPTED

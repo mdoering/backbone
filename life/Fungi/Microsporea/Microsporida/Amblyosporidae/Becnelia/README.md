@@ -1,5 +1,4 @@
-Becnelia T. Tonka & J. Weiser GENUS
-=======
+# Becnelia T. Tonka & J. Weiser GENUS
 
 #### Status
 ACCEPTED

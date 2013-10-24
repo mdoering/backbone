@@ -1,14 +1,13 @@
-Gymnopus praemultifolius Murrill, 1945 SPECIES
-=======
+# Pleurocollybia praemultifolia (Murrill) Singer, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Fla Acad. Sci. 7(2/3): 109 (1945)
+Mycologia 39(1): 80 (1947)
 
 #### Original name
 Gymnopus praemultifolius Murrill, 1945

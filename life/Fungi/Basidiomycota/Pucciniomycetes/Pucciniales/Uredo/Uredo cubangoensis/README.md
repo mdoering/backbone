@@ -1,5 +1,4 @@
-Uredo cubangoensis Rangel SPECIES
-=======
+# Uredo cubangoensis Rangel SPECIES
 
 #### Status
 ACCEPTED

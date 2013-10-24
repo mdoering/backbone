@@ -1,5 +1,4 @@
-Diatoma obliquatum (Sm.) Lyngb. SPECIES
-=======
+# Diatoma obliquatum (Sm.) Lyngb. SPECIES
 
 #### Status
 ACCEPTED

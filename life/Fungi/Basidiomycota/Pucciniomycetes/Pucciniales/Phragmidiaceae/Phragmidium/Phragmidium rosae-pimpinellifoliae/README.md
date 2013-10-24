@@ -1,17 +1,16 @@
-Phragmidium rosarum f. rosae-pimpinellifoliae Rabenh., 1873 FORM
-=======
+# Phragmidium rosae-pimpinellifoliae Dietel, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. exsicc. 4: no. 1671 (1873)
+Hedwigia 44: 339 (1905)
 
 #### Original name
-Phragmidium rosarum f. rosae-pimpinellifoliae Rabenh., 1873
+Phragmidium rosae-pimpinellifoliae Dietel, 1905
 
 ### Remarks
 null

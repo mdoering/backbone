@@ -1,17 +1,16 @@
-Thelephora nigrescens var. nigrescens VARIETY
-=======
+# Vuilleminia comedens (Nees) Maire, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 18(suppl. ): 81 (1902)
 
 #### Original name
-Thelephora nigrescens var. nigrescens
+Thelephora comedens Nees, 1816
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strigula thelopsidoides Coppins, Cl. Roux & Sérus. SPECIES
-=======
+# Strigula thelopsidoides Coppins, Cl. Roux & Sérus. SPECIES
 
 #### Status
 ACCEPTED

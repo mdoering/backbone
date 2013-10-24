@@ -1,5 +1,4 @@
-Phoma scabra Sacc. SPECIES
-=======
+# Phoma scabra Sacc. SPECIES
 
 #### Status
 ACCEPTED

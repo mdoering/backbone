@@ -1,5 +1,4 @@
-Urceolaria contortoides (J. Steiner) Motyka SPECIES
-=======
+# Urceolaria contortoides (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

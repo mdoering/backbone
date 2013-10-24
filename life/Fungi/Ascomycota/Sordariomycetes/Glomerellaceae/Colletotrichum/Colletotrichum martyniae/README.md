@@ -1,5 +1,4 @@
-Colletotrichum martyniae V. Rao SPECIES
-=======
+# Colletotrichum martyniae V. Rao SPECIES
 
 #### Status
 ACCEPTED

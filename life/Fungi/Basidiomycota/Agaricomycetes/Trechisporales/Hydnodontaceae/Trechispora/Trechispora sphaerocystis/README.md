@@ -1,5 +1,4 @@
-Trechispora sphaerocystis Burds. & Gilb., 1982 SPECIES
-=======
+# Trechispora sphaerocystis Burds. & Gilb., 1982 SPECIES
 
 #### Status
 ACCEPTED

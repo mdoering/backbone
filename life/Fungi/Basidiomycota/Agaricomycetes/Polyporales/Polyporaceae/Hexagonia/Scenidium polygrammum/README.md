@@ -1,5 +1,4 @@
-Scenidium polygrammum (Mont.) Kuntze SPECIES
-=======
+# Scenidium polygrammum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema paralbidum Riddle SPECIES
-=======
+# Thelotrema paralbidum Riddle SPECIES
 
 #### Status
 ACCEPTED

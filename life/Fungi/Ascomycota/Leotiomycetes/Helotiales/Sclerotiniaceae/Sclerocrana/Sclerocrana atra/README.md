@@ -1,5 +1,4 @@
-Sclerocrana atra Samuels & L.M. Kohn, 1987 SPECIES
-=======
+# Sclerocrana atra Samuels & L.M. Kohn, 1987 SPECIES
 
 #### Status
 ACCEPTED

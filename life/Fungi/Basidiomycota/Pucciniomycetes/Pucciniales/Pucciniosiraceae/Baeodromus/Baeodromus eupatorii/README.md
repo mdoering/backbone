@@ -1,14 +1,13 @@
-Dietelia eupatorii Arthur, 1905 SPECIES
-=======
+# Baeodromus eupatorii (Arthur) Arthur, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7: 125 (1907)
 
 #### Original name
 Dietelia eupatorii Arthur, 1905

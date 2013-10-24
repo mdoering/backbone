@@ -1,5 +1,4 @@
-Agaricus dulcis Bull. SPECIES
-=======
+# Agaricus dulcis Bull. SPECIES
 
 #### Status
 ACCEPTED

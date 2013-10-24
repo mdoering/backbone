@@ -1,5 +1,4 @@
-Tubaria alabamensis Murrill SPECIES
-=======
+# Tubaria alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

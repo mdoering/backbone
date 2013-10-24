@@ -1,5 +1,4 @@
-Clitopilus sarnicus Massee SPECIES
-=======
+# Clitopilus sarnicus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conophyton V.P.Maslov, 1937 GENUS
-=======
+# Conophyton V.P.Maslov, 1937 GENUS
 
 #### Status
 ACCEPTED

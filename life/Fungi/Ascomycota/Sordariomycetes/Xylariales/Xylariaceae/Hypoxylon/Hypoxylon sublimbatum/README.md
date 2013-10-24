@@ -1,5 +1,4 @@
-Hypoxylon sublimbatum (Durieu & Mont.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon sublimbatum (Durieu & Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

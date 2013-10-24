@@ -1,14 +1,13 @@
-Periconiella papuana Aptroot, 1998 SPECIES
-=======
+# Thysanorea papuana (Aptroot) Arzanlou, W. Gams & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Aptroot & Iperen, Nova Hedwigia 67(3-4): 491 (1998)
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 80 (2007)
 
 #### Original name
 Periconiella papuana Aptroot, 1998

@@ -1,8 +1,7 @@
-Ceuthospora concava Desm., 1847 SPECIES
-=======
+# Pilidium concavum (Desm.) Höhn., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

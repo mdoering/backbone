@@ -1,5 +1,4 @@
-Colletotrichum damasonii Bond.-Mont. SPECIES
-=======
+# Colletotrichum damasonii Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

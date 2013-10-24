@@ -1,5 +1,4 @@
-Meliola tayabensis H.S. Yates SPECIES
-=======
+# Meliola tayabensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dictyomollisia albidogranulata Rehm, 1909 SPECIES
-=======
+# Uleomyces mirabilis (Henn.) Arx, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Myriangium mirabile Henn., 1902
 
 ### Remarks
 null

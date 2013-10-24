@@ -1,5 +1,4 @@
-Sclerotium gregarium Schwein. SPECIES
-=======
+# Sclerotium gregarium Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullera anomala F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera anomala F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

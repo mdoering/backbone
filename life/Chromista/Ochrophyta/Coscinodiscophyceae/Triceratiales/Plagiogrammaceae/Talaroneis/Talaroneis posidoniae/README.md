@@ -1,5 +1,4 @@
-Talaroneis posidoniae Kooistra, Forlani, Sterrenburg & De Stefano, 2004 SPECIES
-=======
+# Talaroneis posidoniae Kooistra, Forlani, Sterrenburg & De Stefano, 2004 SPECIES
 
 #### Status
 ACCEPTED

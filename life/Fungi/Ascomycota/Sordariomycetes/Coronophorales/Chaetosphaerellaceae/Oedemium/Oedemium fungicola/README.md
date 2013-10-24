@@ -1,17 +1,16 @@
-Oedemium fungicolum Bat. & A.F. Vital SPECIES
-=======
+# Oedemium fungicola Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista, Nascimento & Vital, Publções Inst. Micol. Recife 33: 7 (1956)
 
 #### Original name
-Oedemium fungicolum Bat. & A.F. Vital
+Oedemium fungicola Bat. & A.F. Vital
 
 ### Remarks
 null

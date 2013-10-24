@@ -1,8 +1,7 @@
-Orbilia rubens (Sacc. & Roum.) Boud., 1907 SPECIES
-=======
+# Pezicula rubens (Sacc. & Roum.) Rehm, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

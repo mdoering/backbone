@@ -1,5 +1,4 @@
-Septoria papillata P. Karst. SPECIES
-=======
+# Septoria papillata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

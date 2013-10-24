@@ -1,5 +1,4 @@
-Vairimorpha lymantriae SPECIES
-=======
+# Vairimorpha lymantriae SPECIES
 
 #### Status
 ACCEPTED

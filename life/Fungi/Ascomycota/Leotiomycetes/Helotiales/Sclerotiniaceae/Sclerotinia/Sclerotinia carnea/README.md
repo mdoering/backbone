@@ -1,5 +1,4 @@
-Sclerotinia carnea Velen. SPECIES
-=======
+# Sclerotinia carnea Velen. SPECIES
 
 #### Status
 ACCEPTED

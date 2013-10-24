@@ -1,5 +1,4 @@
-Gymnosporangium shiraianum Hara, 1919 SPECIES
-=======
+# Gymnosporangium shiraianum Hara, 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia keralensis Hale SPECIES
-=======
+# Xanthoparmelia keralensis Hale SPECIES
 
 #### Status
 ACCEPTED

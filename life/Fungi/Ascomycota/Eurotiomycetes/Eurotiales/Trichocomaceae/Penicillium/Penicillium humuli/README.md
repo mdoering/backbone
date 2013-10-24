@@ -1,5 +1,4 @@
-Penicillium humuli J.F.H. Beyma, 1937 SPECIES
-=======
+# Penicillium humuli J.F.H. Beyma, 1937 SPECIES
 
 #### Status
 ACCEPTED

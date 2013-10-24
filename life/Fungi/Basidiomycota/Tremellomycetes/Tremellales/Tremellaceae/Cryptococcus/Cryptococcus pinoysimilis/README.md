@@ -1,5 +1,4 @@
-Cryptococcus pinoysimilis Castell. SPECIES
-=======
+# Cryptococcus pinoysimilis Castell. SPECIES
 
 #### Status
 ACCEPTED

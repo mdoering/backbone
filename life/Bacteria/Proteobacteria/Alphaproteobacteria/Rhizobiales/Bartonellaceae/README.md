@@ -1,5 +1,4 @@
-Bartonellaceae FAMILY
-=======
+# Bartonellaceae FAMILY
 
 #### Status
 ACCEPTED

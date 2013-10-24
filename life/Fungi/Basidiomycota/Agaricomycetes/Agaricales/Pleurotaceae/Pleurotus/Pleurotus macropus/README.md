@@ -1,5 +1,4 @@
-Pleurotus macropus Bagl. SPECIES
-=======
+# Pleurotus macropus Bagl. SPECIES
 
 #### Status
 ACCEPTED

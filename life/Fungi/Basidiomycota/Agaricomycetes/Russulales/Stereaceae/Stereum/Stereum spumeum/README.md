@@ -1,5 +1,4 @@
-Stereum spumeum Burt SPECIES
-=======
+# Stereum spumeum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeochaetia echinulata (W. Yamam.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia echinulata (W. Yamam.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

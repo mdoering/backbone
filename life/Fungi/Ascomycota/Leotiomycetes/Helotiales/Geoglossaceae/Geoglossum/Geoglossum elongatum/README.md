@@ -1,5 +1,4 @@
-Geoglossum elongatum Starbäck ex Nannf., 1942 SPECIES
-=======
+# Geoglossum elongatum Starbäck ex Nannf., 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurodiscula Höhn. GENUS
-=======
+# Pleurodiscula Höhn. GENUS
 
 #### Status
 ACCEPTED

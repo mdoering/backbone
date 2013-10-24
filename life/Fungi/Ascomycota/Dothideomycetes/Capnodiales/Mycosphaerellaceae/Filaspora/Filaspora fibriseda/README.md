@@ -1,5 +1,4 @@
-Filaspora fibriseda (Berk.) Kuntze SPECIES
-=======
+# Filaspora fibriseda (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

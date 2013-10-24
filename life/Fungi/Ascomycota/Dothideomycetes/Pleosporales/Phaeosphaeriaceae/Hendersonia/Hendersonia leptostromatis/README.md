@@ -1,5 +1,4 @@
-Hendersonia leptostromatis Petr., 1954 SPECIES
-=======
+# Hendersonia leptostromatis Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

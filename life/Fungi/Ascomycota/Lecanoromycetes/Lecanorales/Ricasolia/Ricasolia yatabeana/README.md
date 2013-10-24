@@ -1,5 +1,4 @@
-Ricasolia yatabeana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Ricasolia yatabeana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

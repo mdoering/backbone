@@ -1,5 +1,4 @@
-Meliola leptochaeta Syd. & P. Syd. SPECIES
-=======
+# Meliola leptochaeta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

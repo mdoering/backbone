@@ -1,5 +1,4 @@
-Pezizella lilacina Sacc. SPECIES
-=======
+# Pezizella lilacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

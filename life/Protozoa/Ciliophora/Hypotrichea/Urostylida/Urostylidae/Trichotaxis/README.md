@@ -1,5 +1,4 @@
-Trichotaxis Kahl, 1932 GENUS
-=======
+# Trichotaxis Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

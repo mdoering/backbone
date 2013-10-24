@@ -1,5 +1,4 @@
-Cladosporium delectum Cooke & Ellis SPECIES
-=======
+# Cladosporium delectum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

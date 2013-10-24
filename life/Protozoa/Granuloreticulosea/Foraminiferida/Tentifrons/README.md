@@ -1,5 +1,4 @@
-Tentifrons Loeblich & Tappan, 1957 GENUS
-=======
+# Tentifrons Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

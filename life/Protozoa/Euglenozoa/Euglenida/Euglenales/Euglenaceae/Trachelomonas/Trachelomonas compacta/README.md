@@ -1,5 +1,4 @@
-Trachelomonas compacta Middelhoek SPECIES
-=======
+# Trachelomonas compacta Middelhoek SPECIES
 
 #### Status
 ACCEPTED

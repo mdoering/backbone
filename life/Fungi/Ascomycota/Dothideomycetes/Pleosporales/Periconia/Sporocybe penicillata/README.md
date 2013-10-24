@@ -1,5 +1,4 @@
-Sporocybe penicillata Speg. SPECIES
-=======
+# Sporocybe penicillata Speg. SPECIES
 
 #### Status
 ACCEPTED

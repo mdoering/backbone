@@ -1,5 +1,4 @@
-Meliola torta Doidge SPECIES
-=======
+# Meliola torta Doidge SPECIES
 
 #### Status
 ACCEPTED

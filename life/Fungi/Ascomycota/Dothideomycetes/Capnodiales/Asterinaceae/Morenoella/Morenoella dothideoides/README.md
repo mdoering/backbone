@@ -1,5 +1,4 @@
-Morenoella dothideoides var. dothideoides VARIETY
-=======
+# Morenoella dothideoides (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118(8): 1163 (1909)
 
 #### Original name
-Morenoella dothideoides var. dothideoides
+Asteridium dothideoides Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monoicomyces balazyi T. Majewski SPECIES
-=======
+# Monoicomyces balazyi T. Majewski SPECIES
 
 #### Status
 ACCEPTED

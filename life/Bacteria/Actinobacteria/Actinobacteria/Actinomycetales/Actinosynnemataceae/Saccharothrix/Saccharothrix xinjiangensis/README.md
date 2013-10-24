@@ -1,5 +1,4 @@
-Saccharothrix xinjiangensis Hu et al., 2004 SPECIES
-=======
+# Saccharothrix xinjiangensis Hu et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

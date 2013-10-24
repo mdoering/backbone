@@ -1,5 +1,4 @@
-Puccinia bonariensis Speg., 1880 SPECIES
-=======
+# Puccinia bonariensis Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

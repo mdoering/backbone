@@ -1,5 +1,4 @@
-Omphalia conspersa Velen. SPECIES
-=======
+# Omphalia conspersa Velen. SPECIES
 
 #### Status
 ACCEPTED

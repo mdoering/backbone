@@ -1,5 +1,4 @@
-Agaricus jodoformicus Speg. SPECIES
-=======
+# Agaricus jodoformicus Speg. SPECIES
 
 #### Status
 ACCEPTED

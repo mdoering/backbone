@@ -1,14 +1,13 @@
-Discothecium interlatens (Arnold) Servít SPECIES
-=======
+# Adelococcus interlatens (Arnold) Matzer & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Stud. Bot. Cechoslav. 9(2-4): 114 (1948)
+Biblthca Lichenol. 37: 41 (1990)
 
 #### Original name
 Verrucaria interlatens

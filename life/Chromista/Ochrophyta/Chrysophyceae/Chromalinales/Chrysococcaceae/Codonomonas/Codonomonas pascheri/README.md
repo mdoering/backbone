@@ -1,5 +1,4 @@
-Codonomonas pascheri van Goor, 1925 SPECIES
-=======
+# Codonomonas pascheri van Goor, 1925 SPECIES
 
 #### Status
 DOUBTFUL

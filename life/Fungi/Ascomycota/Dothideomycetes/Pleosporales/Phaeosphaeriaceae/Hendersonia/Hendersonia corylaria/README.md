@@ -1,5 +1,4 @@
-Hendersonia corylaria Sacc. SPECIES
-=======
+# Hendersonia corylaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

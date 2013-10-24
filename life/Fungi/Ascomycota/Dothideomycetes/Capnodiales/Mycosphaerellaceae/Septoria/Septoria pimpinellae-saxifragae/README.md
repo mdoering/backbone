@@ -1,5 +1,4 @@
-Septoria pimpinellae-saxifragae Savul. & Sandu SPECIES
-=======
+# Septoria pimpinellae-saxifragae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

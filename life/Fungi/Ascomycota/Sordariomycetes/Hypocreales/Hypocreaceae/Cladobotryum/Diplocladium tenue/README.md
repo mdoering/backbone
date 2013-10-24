@@ -1,5 +1,4 @@
-Diplocladium tenue Rostr. SPECIES
-=======
+# Diplocladium tenue Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polysphaeridium congregatum (Stover, 1977) Bujak, Downie, Eaton & Williams SPECIES
-=======
+# Polysphaeridium congregatum (Stover, 1977) Bujak, Downie, Eaton & Williams SPECIES
 
 #### Status
 DOUBTFUL

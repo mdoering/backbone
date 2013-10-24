@@ -1,5 +1,4 @@
-Corynespora proliferata Loer., 1975 SPECIES
-=======
+# Corynespora proliferata Loer., 1975 SPECIES
 
 #### Status
 ACCEPTED

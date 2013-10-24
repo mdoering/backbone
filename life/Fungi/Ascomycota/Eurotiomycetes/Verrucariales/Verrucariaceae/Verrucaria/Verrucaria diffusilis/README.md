@@ -1,5 +1,4 @@
-Verrucaria diffusilis Nyl. SPECIES
-=======
+# Verrucaria diffusilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

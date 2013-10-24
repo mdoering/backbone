@@ -1,5 +1,4 @@
-Lecanora porinoides Stizenb. SPECIES
-=======
+# Lecanora porinoides Stizenb. SPECIES
 
 #### Status
 ACCEPTED

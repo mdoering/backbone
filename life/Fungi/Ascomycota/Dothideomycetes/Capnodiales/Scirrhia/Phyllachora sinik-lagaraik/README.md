@@ -1,5 +1,4 @@
-Phyllachora sinik-lagaraik Speg., 1885 SPECIES
-=======
+# Phyllachora sinik-lagaraik Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

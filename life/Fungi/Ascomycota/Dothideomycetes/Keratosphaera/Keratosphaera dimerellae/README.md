@@ -1,5 +1,4 @@
-Keratosphaera dimerellae Matzer SPECIES
-=======
+# Keratosphaera dimerellae Matzer SPECIES
 
 #### Status
 ACCEPTED

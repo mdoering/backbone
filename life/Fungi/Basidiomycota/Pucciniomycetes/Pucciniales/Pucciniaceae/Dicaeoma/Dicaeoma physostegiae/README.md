@@ -1,5 +1,4 @@
-Dicaeoma physostegiae (Peck & Clinton) Kuntze SPECIES
-=======
+# Dicaeoma physostegiae (Peck & Clinton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

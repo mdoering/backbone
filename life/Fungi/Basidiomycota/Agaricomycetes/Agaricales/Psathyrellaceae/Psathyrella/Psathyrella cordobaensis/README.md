@@ -1,5 +1,4 @@
-Psathyrella cordobaensis A.H. Sm. SPECIES
-=======
+# Psathyrella cordobaensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

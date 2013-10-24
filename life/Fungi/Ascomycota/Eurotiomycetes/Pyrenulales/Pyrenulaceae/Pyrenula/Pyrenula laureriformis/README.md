@@ -1,5 +1,4 @@
-Pyrenula laureriformis Aptroot SPECIES
-=======
+# Pyrenula laureriformis Aptroot SPECIES
 
 #### Status
 ACCEPTED

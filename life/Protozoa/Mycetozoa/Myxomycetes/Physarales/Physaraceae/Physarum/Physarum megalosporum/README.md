@@ -1,5 +1,4 @@
-Physarum megalosporum T. Macbr., 1922 SPECIES
-=======
+# Physarum megalosporum T. Macbr., 1922 SPECIES
 
 #### Status
 ACCEPTED

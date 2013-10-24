@@ -1,5 +1,4 @@
-Caloplaca meylanii B. de Lesd. SPECIES
-=======
+# Caloplaca meylanii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

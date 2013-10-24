@@ -1,5 +1,4 @@
-Hypocrea rickii Theiss. SPECIES
-=======
+# Hypocrea rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoglossum flavum Gillet SPECIES
-=======
+# Geoglossum flavum Gillet SPECIES
 
 #### Status
 ACCEPTED

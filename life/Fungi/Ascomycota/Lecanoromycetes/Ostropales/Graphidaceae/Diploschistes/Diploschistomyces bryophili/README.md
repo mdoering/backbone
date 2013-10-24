@@ -1,5 +1,4 @@
-Diploschistomyces bryophili Werner SPECIES
-=======
+# Diploschistomyces bryophili Werner SPECIES
 
 #### Status
 ACCEPTED

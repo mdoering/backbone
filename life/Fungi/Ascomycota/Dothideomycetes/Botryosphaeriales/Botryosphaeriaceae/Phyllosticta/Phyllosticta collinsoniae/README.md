@@ -1,5 +1,4 @@
-Phyllosticta collinsoniae Sacc. & Dearn. SPECIES
-=======
+# Phyllosticta collinsoniae Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

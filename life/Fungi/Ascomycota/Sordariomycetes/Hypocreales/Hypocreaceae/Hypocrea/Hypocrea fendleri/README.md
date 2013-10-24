@@ -1,5 +1,4 @@
-Hypocrea fendleri Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea fendleri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

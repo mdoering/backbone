@@ -1,5 +1,4 @@
-Galera caespitosa Velen. SPECIES
-=======
+# Galera caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

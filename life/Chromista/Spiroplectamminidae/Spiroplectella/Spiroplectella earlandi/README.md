@@ -1,5 +1,4 @@
-Spiroplectella earlandi Barker, 1960 SPECIES
-=======
+# Spiroplectella earlandi Barker, 1960 SPECIES
 
 #### Status
 ACCEPTED

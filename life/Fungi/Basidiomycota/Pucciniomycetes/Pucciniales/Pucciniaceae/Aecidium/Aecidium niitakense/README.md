@@ -1,5 +1,4 @@
-Aecidium niitakense Hirats. SPECIES
-=======
+# Aecidium niitakense Hirats. SPECIES
 
 #### Status
 ACCEPTED

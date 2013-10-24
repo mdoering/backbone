@@ -1,5 +1,4 @@
-Lachnellula laricis (Cooke) Dharne, 1965 SPECIES
-=======
+# Lachnellula laricis (Cooke) Dharne, 1965 SPECIES
 
 #### Status
 ACCEPTED

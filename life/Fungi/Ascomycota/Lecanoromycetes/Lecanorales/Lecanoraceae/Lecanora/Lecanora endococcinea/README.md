@@ -1,5 +1,4 @@
-Lecanora endococcinea Vain. SPECIES
-=======
+# Lecanora endococcinea Vain. SPECIES
 
 #### Status
 ACCEPTED

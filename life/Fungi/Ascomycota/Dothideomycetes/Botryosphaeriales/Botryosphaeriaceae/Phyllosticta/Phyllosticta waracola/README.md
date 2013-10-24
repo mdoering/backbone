@@ -1,5 +1,4 @@
-Phyllosticta waracola Hara SPECIES
-=======
+# Phyllosticta waracola Hara SPECIES
 
 #### Status
 ACCEPTED

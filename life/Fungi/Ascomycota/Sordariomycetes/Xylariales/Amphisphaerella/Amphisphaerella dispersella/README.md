@@ -1,5 +1,4 @@
-Amphisphaerella dispersella (Nyl.) O.E. Erikss., 1966 SPECIES
-=======
+# Amphisphaerella dispersella (Nyl.) O.E. Erikss., 1966 SPECIES
 
 #### Status
 ACCEPTED

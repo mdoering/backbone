@@ -1,5 +1,4 @@
-Ramichloridium clavulisporum Matsush. SPECIES
-=======
+# Ramichloridium clavulisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium amorphicola Koshk. & Frolov SPECIES
-=======
+# Camarosporium amorphicola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

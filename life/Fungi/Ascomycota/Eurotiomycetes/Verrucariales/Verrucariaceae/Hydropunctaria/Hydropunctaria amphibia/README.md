@@ -1,5 +1,4 @@
-Hydropunctaria amphibia (Clemente) Orange SPECIES
-=======
+# Hydropunctaria amphibia (Clemente) Orange SPECIES
 
 #### Status
 ACCEPTED

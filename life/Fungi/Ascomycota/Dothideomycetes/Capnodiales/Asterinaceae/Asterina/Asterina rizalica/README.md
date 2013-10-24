@@ -1,5 +1,4 @@
-Asterina rizalica Petr. SPECIES
-=======
+# Asterina rizalica Petr. SPECIES
 
 #### Status
 ACCEPTED

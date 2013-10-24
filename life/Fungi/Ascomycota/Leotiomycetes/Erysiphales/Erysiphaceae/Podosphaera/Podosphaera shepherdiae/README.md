@@ -1,5 +1,4 @@
-Podosphaera shepherdiae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera shepherdiae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

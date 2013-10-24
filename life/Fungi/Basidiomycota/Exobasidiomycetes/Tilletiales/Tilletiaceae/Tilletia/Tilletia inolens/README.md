@@ -1,5 +1,4 @@
-Tilletia inolens McAlpine, 1896 SPECIES
-=======
+# Tilletia inolens McAlpine, 1896 SPECIES
 
 #### Status
 ACCEPTED

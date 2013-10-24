@@ -1,5 +1,4 @@
-Pleostigma marchicum Kirschst., 1939 SPECIES
-=======
+# Pleostigma marchicum Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

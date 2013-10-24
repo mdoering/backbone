@@ -1,5 +1,4 @@
-Phaeophomatospora GENUS
-=======
+# Phaeophomatospora GENUS
 
 #### Status
 ACCEPTED

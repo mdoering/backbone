@@ -1,5 +1,4 @@
-Marasmius shideiae Singer SPECIES
-=======
+# Marasmius shideiae Singer SPECIES
 
 #### Status
 ACCEPTED

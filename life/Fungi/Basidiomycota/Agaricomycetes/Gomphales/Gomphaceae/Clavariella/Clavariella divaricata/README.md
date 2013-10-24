@@ -1,5 +1,4 @@
-Clavariella divaricata P. Karst. SPECIES
-=======
+# Clavariella divaricata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

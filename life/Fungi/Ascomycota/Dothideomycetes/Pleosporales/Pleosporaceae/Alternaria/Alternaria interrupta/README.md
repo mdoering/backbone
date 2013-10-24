@@ -1,5 +1,4 @@
-Alternaria interrupta E.G. Simmons SPECIES
-=======
+# Alternaria interrupta E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

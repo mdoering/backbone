@@ -1,5 +1,4 @@
-Coprotus bilobus (Velen.) J. Moravec SPECIES
-=======
+# Coprotus bilobus (Velen.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

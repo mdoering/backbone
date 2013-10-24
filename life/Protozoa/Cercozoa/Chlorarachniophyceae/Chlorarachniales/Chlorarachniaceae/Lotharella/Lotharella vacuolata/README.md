@@ -1,5 +1,4 @@
-Lotharella vacuolata S.Ota & K.-I.Ishida, 2005 SPECIES
-=======
+# Lotharella vacuolata S.Ota & K.-I.Ishida, 2005 SPECIES
 
 #### Status
 ACCEPTED

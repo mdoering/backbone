@@ -1,5 +1,4 @@
-Puccinia rhynchosporiphila Gjaerum SPECIES
-=======
+# Puccinia rhynchosporiphila Gjaerum SPECIES
 
 #### Status
 ACCEPTED

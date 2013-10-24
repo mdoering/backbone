@@ -1,5 +1,4 @@
-Cytosporella macrospora Peck SPECIES
-=======
+# Cytosporella macrospora Peck SPECIES
 
 #### Status
 ACCEPTED

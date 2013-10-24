@@ -1,5 +1,4 @@
-Psilosphaeria bombardella (Ces.) Cooke SPECIES
-=======
+# Psilosphaeria bombardella (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

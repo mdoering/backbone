@@ -1,5 +1,4 @@
-Buellia maunakeansis Zahlbr. SPECIES
-=======
+# Buellia maunakeansis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

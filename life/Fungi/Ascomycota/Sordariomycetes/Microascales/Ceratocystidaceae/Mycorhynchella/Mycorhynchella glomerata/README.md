@@ -1,5 +1,4 @@
-Mycorhynchella glomerata (Grove) Petch SPECIES
-=======
+# Mycorhynchella glomerata (Grove) Petch SPECIES
 
 #### Status
 ACCEPTED

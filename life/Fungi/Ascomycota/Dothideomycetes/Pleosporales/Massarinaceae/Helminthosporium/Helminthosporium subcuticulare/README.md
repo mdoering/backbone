@@ -1,5 +1,4 @@
-Helminthosporium subcuticulare Ellis & Everh. SPECIES
-=======
+# Helminthosporium subcuticulare Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

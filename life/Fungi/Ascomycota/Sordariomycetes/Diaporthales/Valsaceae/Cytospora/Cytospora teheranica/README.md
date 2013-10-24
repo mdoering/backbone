@@ -1,5 +1,4 @@
-Cytospora teheranica Esfand. SPECIES
-=======
+# Cytospora teheranica Esfand. SPECIES
 
 #### Status
 ACCEPTED

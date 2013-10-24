@@ -1,5 +1,4 @@
-Uredo vetus J.F. Hennen SPECIES
-=======
+# Uredo vetus J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

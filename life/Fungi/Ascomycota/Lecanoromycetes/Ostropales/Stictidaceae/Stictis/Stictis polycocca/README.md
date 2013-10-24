@@ -1,5 +1,4 @@
-Stictis polycocca P. Karst. SPECIES
-=======
+# Stictis polycocca P. Karst. SPECIES
 
 #### Status
 ACCEPTED

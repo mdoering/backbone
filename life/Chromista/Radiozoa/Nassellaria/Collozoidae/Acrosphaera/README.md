@@ -1,5 +1,4 @@
-Acrosphaera Haeckel, 1881 GENUS
-=======
+# Acrosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

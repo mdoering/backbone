@@ -1,5 +1,4 @@
-Graphis pallida Fée SPECIES
-=======
+# Graphis pallida Fée SPECIES
 
 #### Status
 ACCEPTED

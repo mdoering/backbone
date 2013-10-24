@@ -1,5 +1,4 @@
-Amphisolenia complanata Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Amphisolenia complanata Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

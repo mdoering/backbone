@@ -1,5 +1,4 @@
-Sphaeronaemella microsperma Höhn. SPECIES
-=======
+# Sphaeronaemella microsperma Höhn. SPECIES
 
 #### Status
 ACCEPTED

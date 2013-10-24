@@ -1,5 +1,4 @@
-Tricholoma ustaliforme Murrill SPECIES
-=======
+# Tricholoma ustaliforme Murrill SPECIES
 
 #### Status
 ACCEPTED

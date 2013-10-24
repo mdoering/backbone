@@ -1,5 +1,4 @@
-Thozetella canadensis Nag Raj SPECIES
-=======
+# Thozetella canadensis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

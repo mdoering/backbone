@@ -1,17 +1,16 @@
-Tubulicium clematitis (Bourdot & Galzin) Oberw., 1966 SPECIES
-=======
+# Litschauerella clematidis (Bourdot & Galzin) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cortic. N. Eur. (Oslo) 4: 839 (1976)
 
 #### Original name
-null
+Peniophora clematidis Bourdot & Galzin, 1913
 
 ### Remarks
 null

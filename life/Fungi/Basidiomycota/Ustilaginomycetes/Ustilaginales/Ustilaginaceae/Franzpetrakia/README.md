@@ -1,5 +1,4 @@
-Franzpetrakia Thirum. & Pavgi GENUS
-=======
+# Franzpetrakia Thirum. & Pavgi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria divaricata Ellis & Everh. SPECIES
-=======
+# Septoria divaricata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

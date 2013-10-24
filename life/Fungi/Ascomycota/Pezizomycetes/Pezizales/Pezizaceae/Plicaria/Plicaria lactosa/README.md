@@ -1,5 +1,4 @@
-Plicaria lactosa Velen. SPECIES
-=======
+# Plicaria lactosa Velen. SPECIES
 
 #### Status
 ACCEPTED

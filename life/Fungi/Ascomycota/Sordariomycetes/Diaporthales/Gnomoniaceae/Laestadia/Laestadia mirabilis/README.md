@@ -1,5 +1,4 @@
-Laestadia mirabilis Tassi SPECIES
-=======
+# Laestadia mirabilis Tassi SPECIES
 
 #### Status
 ACCEPTED

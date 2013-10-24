@@ -1,5 +1,4 @@
-Amphizygus minimus SPECIES
-=======
+# Amphizygus minimus SPECIES
 
 #### Status
 ACCEPTED

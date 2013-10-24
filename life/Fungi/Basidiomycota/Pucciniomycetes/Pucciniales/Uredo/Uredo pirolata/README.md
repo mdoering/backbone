@@ -1,5 +1,4 @@
-Uredo pirolata Körn. SPECIES
-=======
+# Uredo pirolata Körn. SPECIES
 
 #### Status
 ACCEPTED

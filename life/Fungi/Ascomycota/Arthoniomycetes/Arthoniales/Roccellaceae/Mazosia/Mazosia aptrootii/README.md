@@ -1,5 +1,4 @@
-Mazosia aptrootii Sipman SPECIES
-=======
+# Mazosia aptrootii Sipman SPECIES
 
 #### Status
 ACCEPTED

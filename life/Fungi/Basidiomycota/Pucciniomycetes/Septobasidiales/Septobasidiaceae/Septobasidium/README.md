@@ -1,17 +1,16 @@
-Mohortia Racib. GENUS
-=======
+# Septobasidium Patouillard, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 361 (1909)
+null
 
 #### Original name
-Mohortia Racib.
+null
 
 ### Remarks
 null

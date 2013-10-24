@@ -1,5 +1,4 @@
-Ramaria cristatospora (Corner) R.H. Petersen SPECIES
-=======
+# Ramaria cristatospora (Corner) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalidea luzonensis (Kalb & Vezda) Aptroot & Lücking SPECIES
-=======
+# Gyalidea luzonensis (Kalb & Vezda) Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

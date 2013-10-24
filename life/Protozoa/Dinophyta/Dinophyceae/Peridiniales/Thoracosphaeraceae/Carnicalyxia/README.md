@@ -1,5 +1,4 @@
-Carnicalyxia Janofske, 1990 GENUS
-=======
+# Carnicalyxia Janofske, 1990 GENUS
 
 #### Status
 ACCEPTED

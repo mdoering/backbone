@@ -1,5 +1,4 @@
-Phyllactinia angulata (E.S. Salmon) S. Blumer SPECIES
-=======
+# Phyllactinia angulata (E.S. Salmon) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

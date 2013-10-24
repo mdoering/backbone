@@ -1,5 +1,4 @@
-Rhabdospora rudis (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora rudis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium indecisum Arthur SPECIES
-=======
+# Aecidium indecisum Arthur SPECIES
 
 #### Status
 ACCEPTED

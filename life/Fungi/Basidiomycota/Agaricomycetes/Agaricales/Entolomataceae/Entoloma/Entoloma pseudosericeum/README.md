@@ -1,5 +1,4 @@
-Entoloma pseudosericeum Largent SPECIES
-=======
+# Entoloma pseudosericeum Largent SPECIES
 
 #### Status
 ACCEPTED

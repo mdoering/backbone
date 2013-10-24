@@ -1,5 +1,4 @@
-Trochammina astrifica Rhumbler, 1938 SPECIES
-=======
+# Trochammina astrifica Rhumbler, 1938 SPECIES
 
 #### Status
 ACCEPTED

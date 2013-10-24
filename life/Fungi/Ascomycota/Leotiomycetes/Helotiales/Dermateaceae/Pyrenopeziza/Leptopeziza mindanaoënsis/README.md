@@ -1,8 +1,7 @@
-Leptopeziza mindanaoensis Henn. SPECIES
-=======
+# Leptopeziza mindanaoënsis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptopeziza mindanaoensis Henn.
+Leptopeziza mindanaoënsis Henn.
 
 ### Remarks
 null

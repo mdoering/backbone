@@ -1,5 +1,4 @@
-Nezzazata Omara, 1956 GENUS
-=======
+# Nezzazata Omara, 1956 GENUS
 
 #### Status
 ACCEPTED

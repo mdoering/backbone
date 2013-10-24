@@ -1,5 +1,4 @@
-Mycovellosiella paradoxa Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella paradoxa Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

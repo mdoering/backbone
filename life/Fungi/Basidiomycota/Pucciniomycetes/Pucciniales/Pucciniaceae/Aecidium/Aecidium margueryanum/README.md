@@ -1,5 +1,4 @@
-Aecidium margueryanum Maire SPECIES
-=======
+# Aecidium margueryanum Maire SPECIES
 
 #### Status
 ACCEPTED

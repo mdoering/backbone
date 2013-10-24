@@ -1,5 +1,4 @@
-Moelleriella sloaneae (Pat.) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella sloaneae (Pat.) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

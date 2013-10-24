@@ -1,5 +1,4 @@
-Pseudotrachya K. Vánky, 1999 GENUS
-=======
+# Pseudotrachya K. Vánky, 1999 GENUS
 
 #### Status
 ACCEPTED

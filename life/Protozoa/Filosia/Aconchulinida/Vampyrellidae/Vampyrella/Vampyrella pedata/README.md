@@ -1,5 +1,4 @@
-Vampyrella pedata L. Klein SPECIES
-=======
+# Vampyrella pedata L. Klein SPECIES
 
 #### Status
 ACCEPTED

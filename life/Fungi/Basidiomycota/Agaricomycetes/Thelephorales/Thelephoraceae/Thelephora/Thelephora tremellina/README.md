@@ -1,5 +1,4 @@
-Thelephora tremellina (Sw.) Sw. SPECIES
-=======
+# Thelephora tremellina (Sw.) Sw. SPECIES
 
 #### Status
 ACCEPTED

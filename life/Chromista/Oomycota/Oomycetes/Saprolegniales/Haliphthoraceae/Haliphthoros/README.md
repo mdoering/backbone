@@ -1,17 +1,16 @@
-Haliphthorus Vishniac, 1958 GENUS
-=======
+# Haliphthoros Vishniac GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 50(1): 75 (1958)
 
 #### Original name
-null
+Haliphthoros Vishniac
 
 ### Remarks
 null

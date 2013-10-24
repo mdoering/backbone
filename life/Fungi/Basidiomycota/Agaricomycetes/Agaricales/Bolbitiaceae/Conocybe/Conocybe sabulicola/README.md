@@ -1,5 +1,4 @@
-Conocybe sabulicola Hauskn. & Enderle, 1992 SPECIES
-=======
+# Conocybe sabulicola Hauskn. & Enderle, 1992 SPECIES
 
 #### Status
 ACCEPTED

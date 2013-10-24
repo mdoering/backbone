@@ -1,5 +1,4 @@
-Pseudocercospora lygodii Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora lygodii Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

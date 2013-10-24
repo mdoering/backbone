@@ -1,5 +1,4 @@
-Collybia giselae (Neville & Antonín) Neville SPECIES
-=======
+# Collybia giselae (Neville & Antonín) Neville SPECIES
 
 #### Status
 ACCEPTED

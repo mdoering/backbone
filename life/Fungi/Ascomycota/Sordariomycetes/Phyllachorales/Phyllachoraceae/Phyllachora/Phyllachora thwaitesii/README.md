@@ -1,14 +1,13 @@
-Dothidea thwaitesii Berk., 1854 SPECIES
-=======
+# Phyllachora thwaitesii (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 233 (1854)
+Syll. fung. (Abellini) 2: 598 (1883)
 
 #### Original name
 Dothidea thwaitesii Berk., 1854

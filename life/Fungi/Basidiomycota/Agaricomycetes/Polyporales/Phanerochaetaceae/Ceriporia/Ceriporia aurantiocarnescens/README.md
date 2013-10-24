@@ -1,5 +1,4 @@
-Ceriporia aurantiocarnescens (Henning) M. Pieri & B. Rivoire SPECIES
-=======
+# Ceriporia aurantiocarnescens (Henning) M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

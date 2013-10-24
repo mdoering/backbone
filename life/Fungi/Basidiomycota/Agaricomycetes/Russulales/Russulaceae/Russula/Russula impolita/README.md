@@ -1,5 +1,4 @@
-Russula impolita (Romagn.) Bon SPECIES
-=======
+# Russula impolita (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

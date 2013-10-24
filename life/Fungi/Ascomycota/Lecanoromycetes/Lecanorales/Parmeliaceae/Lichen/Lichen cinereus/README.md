@@ -1,5 +1,4 @@
-Lichen cinereus K.G. Hagen SPECIES
-=======
+# Lichen cinereus K.G. Hagen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystigma phyllodii (Cooke & Massee) Arx & E. Müll., 1954 SPECIES
-=======
+# Polystigma phyllodii (Cooke & Massee) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

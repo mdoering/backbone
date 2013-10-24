@@ -1,5 +1,4 @@
-Pontosphaera millepuncta Gartner, 1967 SPECIES
-=======
+# Pontosphaera millepuncta Gartner, 1967 SPECIES
 
 #### Status
 ACCEPTED

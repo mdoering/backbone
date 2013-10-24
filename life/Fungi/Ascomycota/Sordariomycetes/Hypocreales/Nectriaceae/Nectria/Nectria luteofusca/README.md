@@ -1,5 +1,4 @@
-Nectria luteofusca P. Crouan & H. Crouan SPECIES
-=======
+# Nectria luteofusca P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

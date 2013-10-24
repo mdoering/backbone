@@ -1,5 +1,4 @@
-Comasphaeridium radians (Stockmans & Willière, 1963) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium radians (Stockmans & Willière, 1963) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

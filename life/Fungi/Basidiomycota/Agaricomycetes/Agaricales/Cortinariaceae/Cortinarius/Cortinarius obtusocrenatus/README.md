@@ -1,5 +1,4 @@
-Cortinarius obtusocrenatus Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius obtusocrenatus Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

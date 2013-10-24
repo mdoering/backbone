@@ -1,5 +1,4 @@
-Rosellinula R. Sant. GENUS
-=======
+# Rosellinula R. Sant. GENUS
 
 #### Status
 ACCEPTED

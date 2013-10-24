@@ -1,5 +1,4 @@
-Parmelia leucoblephara C.W. Dodge & G.E. Baker SPECIES
-=======
+# Parmelia leucoblephara C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

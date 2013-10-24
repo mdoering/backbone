@@ -1,5 +1,4 @@
-Agaricus croceosanguineus Mont. SPECIES
-=======
+# Agaricus croceosanguineus Mont. SPECIES
 
 #### Status
 ACCEPTED

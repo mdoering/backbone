@@ -1,5 +1,4 @@
-Colletotrichum eranthemi V.G. Rao SPECIES
-=======
+# Colletotrichum eranthemi V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

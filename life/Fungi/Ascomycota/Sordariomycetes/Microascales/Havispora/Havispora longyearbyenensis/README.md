@@ -1,5 +1,4 @@
-Havispora longyearbyenensis K.L. Pang & Vrijmoed, 2008 SPECIES
-=======
+# Havispora longyearbyenensis K.L. Pang & Vrijmoed, 2008 SPECIES
 
 #### Status
 ACCEPTED

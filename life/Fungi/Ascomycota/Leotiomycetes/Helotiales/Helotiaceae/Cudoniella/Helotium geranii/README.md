@@ -1,5 +1,4 @@
-Helotium geranii Velen. SPECIES
-=======
+# Helotium geranii Velen. SPECIES
 
 #### Status
 ACCEPTED

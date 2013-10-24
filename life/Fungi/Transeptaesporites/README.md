@@ -1,5 +1,4 @@
-Transeptaesporites V.S. Ediger GENUS
-=======
+# Transeptaesporites V.S. Ediger GENUS
 
 #### Status
 ACCEPTED

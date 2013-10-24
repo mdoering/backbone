@@ -1,5 +1,4 @@
-Dicaeoma nepalense (Barclay & Diet.) Kuntze SPECIES
-=======
+# Dicaeoma nepalense (Barclay & Diet.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

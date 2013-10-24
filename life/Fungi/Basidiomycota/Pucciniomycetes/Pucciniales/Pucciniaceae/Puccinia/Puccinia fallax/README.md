@@ -1,5 +1,4 @@
-Puccinia fallax Arthur SPECIES
-=======
+# Puccinia fallax Arthur SPECIES
 
 #### Status
 ACCEPTED

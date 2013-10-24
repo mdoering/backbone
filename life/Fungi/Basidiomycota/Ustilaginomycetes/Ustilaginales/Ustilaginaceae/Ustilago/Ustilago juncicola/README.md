@@ -1,5 +1,4 @@
-Ustilago juncicola Speg. SPECIES
-=======
+# Ustilago juncicola Speg. SPECIES
 
 #### Status
 ACCEPTED

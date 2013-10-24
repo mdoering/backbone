@@ -1,5 +1,4 @@
-Perichaena thindii Nanir, 1981 SPECIES
-=======
+# Perichaena thindii Nanir, 1981 SPECIES
 
 #### Status
 ACCEPTED

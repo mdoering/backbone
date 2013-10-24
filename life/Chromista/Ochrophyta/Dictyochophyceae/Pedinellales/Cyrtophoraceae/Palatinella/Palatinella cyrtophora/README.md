@@ -1,5 +1,4 @@
-Palatinella cyrtophora Lauterborn SPECIES
-=======
+# Palatinella cyrtophora Lauterborn SPECIES
 
 #### Status
 ACCEPTED

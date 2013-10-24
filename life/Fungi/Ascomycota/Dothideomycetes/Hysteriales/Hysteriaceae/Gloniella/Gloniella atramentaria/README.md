@@ -1,5 +1,4 @@
-Gloniella atramentaria (Berk. & Broome) Sacc. SPECIES
-=======
+# Gloniella atramentaria (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

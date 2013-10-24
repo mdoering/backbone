@@ -1,5 +1,4 @@
-Aecidium leeanum Syd. & P. Syd. SPECIES
-=======
+# Aecidium leeanum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

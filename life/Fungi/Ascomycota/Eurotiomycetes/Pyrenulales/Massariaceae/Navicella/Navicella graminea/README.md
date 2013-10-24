@@ -1,5 +1,4 @@
-Navicella graminea (Sacc.) Kuntze SPECIES
-=======
+# Navicella graminea (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

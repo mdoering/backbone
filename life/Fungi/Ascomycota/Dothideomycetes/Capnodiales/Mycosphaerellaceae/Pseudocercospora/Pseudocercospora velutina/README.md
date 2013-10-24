@@ -1,5 +1,4 @@
-Pseudocercospora velutina (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora velutina (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

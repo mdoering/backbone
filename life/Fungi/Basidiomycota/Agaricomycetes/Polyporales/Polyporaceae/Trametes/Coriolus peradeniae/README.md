@@ -1,5 +1,4 @@
-Coriolus peradeniae (Berk. & Broome) G. Cunn. SPECIES
-=======
+# Coriolus peradeniae (Berk. & Broome) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

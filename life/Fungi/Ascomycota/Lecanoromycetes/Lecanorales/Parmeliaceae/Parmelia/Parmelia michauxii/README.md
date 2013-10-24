@@ -1,5 +1,4 @@
-Parmelia michauxii Ach. SPECIES
-=======
+# Parmelia michauxii Ach. SPECIES
 
 #### Status
 ACCEPTED

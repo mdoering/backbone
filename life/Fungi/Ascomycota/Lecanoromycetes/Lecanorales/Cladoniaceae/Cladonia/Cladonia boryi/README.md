@@ -1,5 +1,4 @@
-Cladonia boryi Tuck. SPECIES
-=======
+# Cladonia boryi Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypsizigus marmoreus (Peck) Bigelow SPECIES
-=======
+# Hypsizigus marmoreus (Peck) Bigelow SPECIES
 
 #### Status
 ACCEPTED

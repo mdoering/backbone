@@ -1,5 +1,4 @@
-Thelotrema guaiquinimae Sipman SPECIES
-=======
+# Thelotrema guaiquinimae Sipman SPECIES
 
 #### Status
 ACCEPTED

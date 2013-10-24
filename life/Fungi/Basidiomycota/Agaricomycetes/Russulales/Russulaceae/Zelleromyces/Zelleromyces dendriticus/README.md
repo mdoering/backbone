@@ -1,5 +1,4 @@
-Zelleromyces dendriticus T. Lebel, 2002 SPECIES
-=======
+# Zelleromyces dendriticus T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

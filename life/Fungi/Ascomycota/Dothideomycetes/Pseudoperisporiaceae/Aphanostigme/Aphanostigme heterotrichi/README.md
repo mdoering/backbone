@@ -1,5 +1,4 @@
-Aphanostigme heterotrichi (Toro) Toro SPECIES
-=======
+# Aphanostigme heterotrichi (Toro) Toro SPECIES
 
 #### Status
 ACCEPTED

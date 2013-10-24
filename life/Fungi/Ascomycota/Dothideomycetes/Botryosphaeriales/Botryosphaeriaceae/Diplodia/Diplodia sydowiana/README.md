@@ -1,5 +1,4 @@
-Diplodia sydowiana Allesch., 1897 SPECIES
-=======
+# Diplodia sydowiana Allesch., 1897 SPECIES
 
 #### Status
 ACCEPTED

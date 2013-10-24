@@ -1,5 +1,4 @@
-Polymorphina pupa d’Orbigny, 1902 SPECIES
-=======
+# Polymorphina pupa d’Orbigny, 1902 SPECIES
 
 #### Status
 ACCEPTED

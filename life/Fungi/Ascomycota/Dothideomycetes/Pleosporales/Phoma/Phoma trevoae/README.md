@@ -1,5 +1,4 @@
-Phoma trevoae Speg. SPECIES
-=======
+# Phoma trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

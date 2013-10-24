@@ -1,5 +1,4 @@
-Cercospora murrayae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora murrayae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

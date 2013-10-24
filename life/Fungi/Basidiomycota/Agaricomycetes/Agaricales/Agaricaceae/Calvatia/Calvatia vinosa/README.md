@@ -1,5 +1,4 @@
-Calvatia vinosa Kasuya & Retn. SPECIES
-=======
+# Calvatia vinosa Kasuya & Retn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Numulariola guaranitica (Speg.) P.M.D. Martin SPECIES
-=======
+# Numulariola guaranitica (Speg.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

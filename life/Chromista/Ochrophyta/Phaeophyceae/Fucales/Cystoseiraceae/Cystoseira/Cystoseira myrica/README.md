@@ -1,5 +1,4 @@
-Cystoseira myrica var. occidentalis J. Agardh VARIETY
-=======
+# Cystoseira myrica (S.G. Gmelin) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

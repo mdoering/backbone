@@ -1,5 +1,4 @@
-Verrucaria holochrodes Nyl. SPECIES
-=======
+# Verrucaria holochrodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

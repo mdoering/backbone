@@ -1,5 +1,4 @@
-Penicillium astrolabium R. Serra & S.W. Peterson SPECIES
-=======
+# Penicillium astrolabium R. Serra & S.W. Peterson SPECIES
 
 #### Status
 ACCEPTED

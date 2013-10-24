@@ -1,5 +1,4 @@
-Helotium ostruthii (Saut.) Sacc. SPECIES
-=======
+# Helotium ostruthii (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

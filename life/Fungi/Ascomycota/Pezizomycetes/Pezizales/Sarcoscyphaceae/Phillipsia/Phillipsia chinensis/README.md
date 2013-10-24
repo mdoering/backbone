@@ -1,5 +1,4 @@
-Phillipsia chinensis W.Y. Zhuang SPECIES
-=======
+# Phillipsia chinensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

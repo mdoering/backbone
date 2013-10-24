@@ -1,17 +1,16 @@
-Beloniella (Saccardo) Boudier, 1885 GENUS
-=======
+# Odontura Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 119 (1885)
+Gen. fung. (Minneapolis) 65, 174 (1909)
 
 #### Original name
-null
+Odontura Clements, 1909
 
 ### Remarks
 null

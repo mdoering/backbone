@@ -1,5 +1,4 @@
-Exidia arborea Lloyd SPECIES
-=======
+# Exidia arborea Lloyd SPECIES
 
 #### Status
 ACCEPTED

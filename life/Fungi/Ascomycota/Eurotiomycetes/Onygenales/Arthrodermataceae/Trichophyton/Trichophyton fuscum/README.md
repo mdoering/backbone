@@ -1,5 +1,4 @@
-Trichophyton fuscum C.W. Dodge SPECIES
-=======
+# Trichophyton fuscum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus aratus (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Pleurotus aratus (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

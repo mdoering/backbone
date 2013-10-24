@@ -1,5 +1,4 @@
-Diplotomma superreagens (Servít) Szatala SPECIES
-=======
+# Diplotomma superreagens (Servít) Szatala SPECIES
 
 #### Status
 ACCEPTED

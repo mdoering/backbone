@@ -1,5 +1,4 @@
-Puccinia piptocarphae Henn. SPECIES
-=======
+# Puccinia piptocarphae Henn. SPECIES
 
 #### Status
 ACCEPTED

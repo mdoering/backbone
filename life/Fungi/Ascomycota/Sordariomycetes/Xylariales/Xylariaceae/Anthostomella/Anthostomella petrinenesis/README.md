@@ -1,5 +1,4 @@
-Anthostomella petrinenesis Dulym., P.F. Cannon & Peerally, 1998 SPECIES
-=======
+# Anthostomella petrinenesis Dulym., P.F. Cannon & Peerally, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Oscillatoria willei N.L. Gardner SPECIES
-=======
+# Phormidium willei (N.L. Gardner) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

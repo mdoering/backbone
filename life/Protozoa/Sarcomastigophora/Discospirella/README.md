@@ -1,5 +1,4 @@
-Discospirella Fuchs, 1967 GENUS
-=======
+# Discospirella Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

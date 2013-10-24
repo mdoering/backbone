@@ -1,14 +1,13 @@
-Odontia latemarginata Pat., 1897 SPECIES
-=======
+# Scopulodontia latemarginata (Pat.) Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 11: 342 (1897)
+Cryptog. Mycol. 24(2): 141 (2003)
 
 #### Original name
 Odontia latemarginata Pat., 1897

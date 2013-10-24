@@ -1,5 +1,4 @@
-Oceanicola granulosus Cho & Giovannoni, 2004 SPECIES
-=======
+# Oceanicola granulosus Cho & Giovannoni, 2004 SPECIES
 
 #### Status
 ACCEPTED

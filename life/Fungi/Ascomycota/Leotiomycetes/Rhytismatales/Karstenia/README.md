@@ -1,17 +1,16 @@
-Chailletia P. Karsten, 1871 GENUS
-=======
+# Karstenia E.M. Fries, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 21, 241 (1871)
+in Karsten, Acta Soc. Fauna Flora fenn. 2(6): 166 (1885)
 
 #### Original name
-Chailletia P. Karsten, 1871
+Karstenia E.M. Fries, 1885
 
 ### Remarks
 null

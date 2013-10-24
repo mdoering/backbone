@@ -1,5 +1,4 @@
-Phloeospora aceris-tataricae (Savul. & Sandu) B. Sutton SPECIES
-=======
+# Phloeospora aceris-tataricae (Savul. & Sandu) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

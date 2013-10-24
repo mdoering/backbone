@@ -1,5 +1,4 @@
-Phaeothyriolum smilacis Matta SPECIES
-=======
+# Phaeothyriolum smilacis Matta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma medicaginis Hollós SPECIES
-=======
+# Macrophoma medicaginis Hollós SPECIES
 
 #### Status
 ACCEPTED

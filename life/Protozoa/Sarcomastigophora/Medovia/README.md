@@ -1,5 +1,4 @@
-Medovia Borro & Zernetskij in Zernetskij & Mel'nik, 1975 GENUS
-=======
+# Medovia Borro & Zernetskij in Zernetskij & Mel'nik, 1975 GENUS
 
 #### Status
 ACCEPTED

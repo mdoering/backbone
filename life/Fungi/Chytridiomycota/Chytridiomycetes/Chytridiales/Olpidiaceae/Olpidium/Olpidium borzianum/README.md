@@ -1,5 +1,4 @@
-Olpidium borzianum Morini SPECIES
-=======
+# Olpidium borzianum Morini SPECIES
 
 #### Status
 ACCEPTED

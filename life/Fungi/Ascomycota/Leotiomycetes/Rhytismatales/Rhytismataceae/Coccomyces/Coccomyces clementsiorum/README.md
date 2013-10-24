@@ -1,5 +1,4 @@
-Coccomyces clementsiorum Magnes SPECIES
-=======
+# Coccomyces clementsiorum Magnes SPECIES
 
 #### Status
 ACCEPTED

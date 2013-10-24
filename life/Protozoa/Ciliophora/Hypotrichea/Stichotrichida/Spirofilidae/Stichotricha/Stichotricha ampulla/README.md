@@ -1,5 +1,4 @@
-Stichotricha ampulla Kellicott, 1888 SPECIES
-=======
+# Stichotricha ampulla Kellicott, 1888 SPECIES
 
 #### Status
 ACCEPTED

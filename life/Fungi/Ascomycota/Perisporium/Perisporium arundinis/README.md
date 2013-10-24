@@ -1,5 +1,4 @@
-Perisporium arundinis Desm., 1828 SPECIES
-=======
+# Perisporium arundinis Desm., 1828 SPECIES
 
 #### Status
 ACCEPTED

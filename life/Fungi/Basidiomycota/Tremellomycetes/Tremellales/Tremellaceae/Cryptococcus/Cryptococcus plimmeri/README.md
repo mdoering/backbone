@@ -1,5 +1,4 @@
-Cryptococcus plimmeri Castagne ex Guég. SPECIES
-=======
+# Cryptococcus plimmeri Castagne ex Guég. SPECIES
 
 #### Status
 ACCEPTED

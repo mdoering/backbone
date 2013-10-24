@@ -1,5 +1,4 @@
-Cuspidatispora Shearer & Bartolata GENUS
-=======
+# Cuspidatispora Shearer & Bartolata GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula tricholomopsis McNabb, 1973 SPECIES
-=======
+# Russula tricholomopsis McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

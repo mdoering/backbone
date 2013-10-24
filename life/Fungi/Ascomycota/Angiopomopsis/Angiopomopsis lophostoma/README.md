@@ -1,14 +1,13 @@
-Wojnowicia lophostoma (Höhn.) Sacc., 1931 SPECIES
-=======
+# Angiopomopsis lophostoma Höhn., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 69 (1912)
 
 #### Original name
 Angiopomopsis lophostoma Höhn., 1912

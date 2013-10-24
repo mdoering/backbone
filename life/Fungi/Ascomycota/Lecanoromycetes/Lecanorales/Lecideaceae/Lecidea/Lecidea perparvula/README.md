@@ -1,5 +1,4 @@
-Lecidea perparvula Nyl. SPECIES
-=======
+# Lecidea perparvula Nyl. SPECIES
 
 #### Status
 ACCEPTED

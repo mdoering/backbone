@@ -1,5 +1,4 @@
-Sphaeria pseudobombarda Mont. SPECIES
-=======
+# Sphaeria pseudobombarda Mont. SPECIES
 
 #### Status
 ACCEPTED

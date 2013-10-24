@@ -1,5 +1,4 @@
-Neisseria flavescens Branham, 1930 (Approved Lists, 1980) SPECIES
-=======
+# Neisseria flavescens Branham, 1930 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

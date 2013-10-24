@@ -1,5 +1,4 @@
-Endoconidioma Tsuneda, Hambleton & Currah GENUS
-=======
+# Endoconidioma Tsuneda, Hambleton & Currah GENUS
 
 #### Status
 ACCEPTED

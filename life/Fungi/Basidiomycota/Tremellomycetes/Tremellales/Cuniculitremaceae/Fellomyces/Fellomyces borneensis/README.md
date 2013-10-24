@@ -1,5 +1,4 @@
-Fellomyces borneensis Prillinger, G. Kraep. & Lopandic SPECIES
-=======
+# Fellomyces borneensis Prillinger, G. Kraep. & Lopandic SPECIES
 
 #### Status
 ACCEPTED

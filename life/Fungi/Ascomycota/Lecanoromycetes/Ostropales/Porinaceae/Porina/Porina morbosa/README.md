@@ -1,5 +1,4 @@
-Porina morbosa (Arnold) Lettau SPECIES
-=======
+# Porina morbosa (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

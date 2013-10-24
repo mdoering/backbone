@@ -1,5 +1,4 @@
-Huea punicae (Vain.) C.W. Dodge SPECIES
-=======
+# Huea punicae (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

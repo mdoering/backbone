@@ -1,5 +1,4 @@
-Aposphaeria berlesii Sacc. & Trotter SPECIES
-=======
+# Aposphaeria berlesii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

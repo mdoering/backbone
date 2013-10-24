@@ -1,5 +1,4 @@
-Dentalina hancocki Cushman & McCulloch, 1950 SPECIES
-=======
+# Dentalina hancocki Cushman & McCulloch, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anhellia tristis Racib., 1900 SPECIES
-=======
+# Anhellia tristis Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

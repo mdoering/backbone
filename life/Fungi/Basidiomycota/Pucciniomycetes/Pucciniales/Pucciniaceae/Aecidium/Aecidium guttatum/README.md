@@ -1,5 +1,4 @@
-Aecidium guttatum Kunze SPECIES
-=======
+# Aecidium guttatum Kunze SPECIES
 
 #### Status
 ACCEPTED

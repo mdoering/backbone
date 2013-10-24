@@ -1,5 +1,4 @@
-Rhenothyra Beckmann, 1950 GENUS
-=======
+# Rhenothyra Beckmann, 1950 GENUS
 
 #### Status
 ACCEPTED

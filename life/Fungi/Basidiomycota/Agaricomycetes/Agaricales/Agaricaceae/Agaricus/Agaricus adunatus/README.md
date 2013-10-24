@@ -1,5 +1,4 @@
-Agaricus adunatus Secr. ex Fr. SPECIES
-=======
+# Agaricus adunatus Secr. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

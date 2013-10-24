@@ -1,5 +1,4 @@
-Asteromella angustifoliorum A.W. Ramaley SPECIES
-=======
+# Asteromella angustifoliorum A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

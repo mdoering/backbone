@@ -1,5 +1,4 @@
-Mycaureola Maire & Chemin GENUS
-=======
+# Mycaureola Maire & Chemin GENUS
 
 #### Status
 ACCEPTED

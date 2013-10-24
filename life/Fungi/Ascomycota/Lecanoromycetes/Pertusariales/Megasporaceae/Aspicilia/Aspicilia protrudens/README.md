@@ -1,5 +1,4 @@
-Aspicilia protrudens (Malme) SPECIES
-=======
+# Aspicilia protrudens (Malme) SPECIES
 
 #### Status
 ACCEPTED

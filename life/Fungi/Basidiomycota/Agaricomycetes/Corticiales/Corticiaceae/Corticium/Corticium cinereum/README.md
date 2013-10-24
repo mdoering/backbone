@@ -1,17 +1,16 @@
-Corticium cinereum f. cinereum FORM
-=======
+# Corticium cinereum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Neues Mag. Bot. 1: 111 (1794)
+null
 
 #### Original name
-Corticium cinereum f. cinereum
+null
 
 ### Remarks
 null

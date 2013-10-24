@@ -1,17 +1,16 @@
-Phomopsis xylocarpae Purkay. & A.K. Pal bis SPECIES
-=======
+# Phomopsis xylocarpi Purkay. & A.K. Pal bis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 49(1): 15 (1996)
 
 #### Original name
-Phomopsis xylocarpae Purkay. & A.K. Pal bis
+Phomopsis xylocarpi Purkay. & A.K. Pal bis
 
 ### Remarks
 null

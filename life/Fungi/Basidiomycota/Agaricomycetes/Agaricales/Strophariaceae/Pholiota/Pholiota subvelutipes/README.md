@@ -1,5 +1,4 @@
-Pholiota subvelutipes A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subvelutipes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

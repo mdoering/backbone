@@ -1,5 +1,4 @@
-Ascospora brunneola Fr. SPECIES
-=======
+# Ascospora brunneola Fr. SPECIES
 
 #### Status
 ACCEPTED

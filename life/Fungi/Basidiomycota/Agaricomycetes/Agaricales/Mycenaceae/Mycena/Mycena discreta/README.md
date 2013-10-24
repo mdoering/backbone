@@ -1,5 +1,4 @@
-Mycena discreta Fr. SPECIES
-=======
+# Mycena discreta Fr. SPECIES
 
 #### Status
 ACCEPTED

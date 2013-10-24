@@ -1,5 +1,4 @@
-Graphis sauroides Leight. SPECIES
-=======
+# Graphis sauroides Leight. SPECIES
 
 #### Status
 ACCEPTED

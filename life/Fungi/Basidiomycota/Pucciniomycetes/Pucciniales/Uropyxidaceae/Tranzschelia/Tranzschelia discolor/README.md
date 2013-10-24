@@ -1,17 +1,16 @@
-Tranzschelia discolor f. sp FORM
-=======
+# Tranzschelia discolor (Fuckel) Tranzschel & M.A. Litv., 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Dis. 69(6): 486 (1985)
+J. Bot. , Paris 24(3): 248 (1939)
 
 #### Original name
-Tranzschelia discolor f. sp
+Puccinia discolor Fuckel, 1868
 
 ### Remarks
 null

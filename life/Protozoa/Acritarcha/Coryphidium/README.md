@@ -1,5 +1,4 @@
-Coryphidium M.Vavrdová, 1972 GENUS
-=======
+# Coryphidium M.Vavrdová, 1972 GENUS
 
 #### Status
 ACCEPTED

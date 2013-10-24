@@ -1,5 +1,4 @@
-Bryoria osteola (Gyeln.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria osteola (Gyeln.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

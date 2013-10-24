@@ -1,5 +1,4 @@
-Mahella australiensis Bonilla Salinas et al., 2004 SPECIES
-=======
+# Mahella australiensis Bonilla Salinas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

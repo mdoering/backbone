@@ -1,5 +1,4 @@
-Nakaiomyces Kobayasi GENUS
-=======
+# Nakaiomyces Kobayasi GENUS
 
 #### Status
 ACCEPTED

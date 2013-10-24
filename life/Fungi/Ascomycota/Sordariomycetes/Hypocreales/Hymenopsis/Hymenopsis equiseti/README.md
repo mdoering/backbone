@@ -1,5 +1,4 @@
-Hymenopsis equiseti Hollós SPECIES
-=======
+# Hymenopsis equiseti Hollós SPECIES
 
 #### Status
 ACCEPTED

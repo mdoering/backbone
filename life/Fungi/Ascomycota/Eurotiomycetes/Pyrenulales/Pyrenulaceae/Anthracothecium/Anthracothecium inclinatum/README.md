@@ -1,5 +1,4 @@
-Anthracothecium inclinatum (Müll. Arg.) Kashiw. SPECIES
-=======
+# Anthracothecium inclinatum (Müll. Arg.) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

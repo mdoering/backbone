@@ -1,5 +1,4 @@
-Lecidea lilacina Ach. SPECIES
-=======
+# Lecidea lilacina Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antennaria cistophila Fr. SPECIES
-=======
+# Antennaria cistophila Fr. SPECIES
 
 #### Status
 ACCEPTED

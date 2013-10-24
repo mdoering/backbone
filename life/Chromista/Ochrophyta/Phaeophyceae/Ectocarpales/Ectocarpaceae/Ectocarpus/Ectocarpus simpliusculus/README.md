@@ -1,5 +1,4 @@
-Ectocarpus simpliusculus C. Agardh, 1827 SPECIES
-=======
+# Ectocarpus simpliusculus C. Agardh, 1827 SPECIES
 
 #### Status
 ACCEPTED

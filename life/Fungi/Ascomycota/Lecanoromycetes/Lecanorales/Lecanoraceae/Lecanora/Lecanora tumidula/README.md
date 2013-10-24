@@ -1,5 +1,4 @@
-Lecanora tumidula (Pers.) Röhl. SPECIES
-=======
+# Lecanora tumidula (Pers.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria laureri Erichsen SPECIES
-=======
+# Pertusaria laureri Erichsen SPECIES
 
 #### Status
 ACCEPTED

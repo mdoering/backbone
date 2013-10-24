@@ -1,5 +1,4 @@
-Laschia caerulescens Berk. & M.A. Curtis SPECIES
-=======
+# Laschia caerulescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

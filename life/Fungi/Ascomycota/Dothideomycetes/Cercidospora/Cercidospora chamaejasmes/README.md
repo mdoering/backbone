@@ -1,5 +1,4 @@
-Cercidospora chamaejasmes (Fuckel) Kuntze SPECIES
-=======
+# Cercidospora chamaejasmes (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

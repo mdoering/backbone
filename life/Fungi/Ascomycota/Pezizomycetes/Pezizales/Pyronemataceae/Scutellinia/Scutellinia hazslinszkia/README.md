@@ -1,5 +1,4 @@
-Scutellinia hazslinszkia (Cooke) Kuntze SPECIES
-=======
+# Scutellinia hazslinszkia (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanopeltis ingae (R.W. Ryan) Arx SPECIES
-=======
+# Aphanopeltis ingae (R.W. Ryan) Arx SPECIES
 
 #### Status
 ACCEPTED

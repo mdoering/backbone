@@ -1,5 +1,4 @@
-Stereocaulon subgracilescens I.M. Lamb ex Vargas {?} SPECIES
-=======
+# Stereocaulon subgracilescens I.M. Lamb ex Vargas {?} SPECIES
 
 #### Status
 ACCEPTED

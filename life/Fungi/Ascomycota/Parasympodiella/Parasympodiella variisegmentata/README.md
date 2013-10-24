@@ -1,17 +1,16 @@
-Parasympodiella variesegmentata K. Matsush. & Matsush. SPECIES
-=======
+# Parasympodiella variisegmentata K. Matsush. & Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 34 (1996)
 
 #### Original name
-Parasympodiella variesegmentata K. Matsush. & Matsush.
+Parasympodiella variisegmentata K. Matsush. & Matsush.
 
 ### Remarks
 null

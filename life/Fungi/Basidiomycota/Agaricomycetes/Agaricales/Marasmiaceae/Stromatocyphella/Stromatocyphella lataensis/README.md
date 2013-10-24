@@ -1,5 +1,4 @@
-Stromatocyphella lataensis W.B. Cooke, 1961 SPECIES
-=======
+# Stromatocyphella lataensis W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

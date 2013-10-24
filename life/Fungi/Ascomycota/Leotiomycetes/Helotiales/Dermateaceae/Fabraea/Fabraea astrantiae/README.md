@@ -1,5 +1,4 @@
-Fabraea astrantiae (Ces.) Rehm SPECIES
-=======
+# Fabraea astrantiae (Ces.) Rehm SPECIES
 
 #### Status
 ACCEPTED

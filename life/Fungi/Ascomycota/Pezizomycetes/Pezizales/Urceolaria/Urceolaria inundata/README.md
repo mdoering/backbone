@@ -1,5 +1,4 @@
-Urceolaria inundata Motyka SPECIES
-=======
+# Urceolaria inundata Motyka SPECIES
 
 #### Status
 ACCEPTED

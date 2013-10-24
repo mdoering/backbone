@@ -1,5 +1,4 @@
-Guignardia sophorae L.A. Kantsch. SPECIES
-=======
+# Guignardia sophorae L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

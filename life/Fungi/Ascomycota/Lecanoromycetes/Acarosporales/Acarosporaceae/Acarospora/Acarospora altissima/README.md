@@ -1,5 +1,4 @@
-Acarospora altissima H. Magn. SPECIES
-=======
+# Acarospora altissima H. Magn. SPECIES
 
 #### Status
 ACCEPTED

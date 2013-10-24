@@ -1,5 +1,4 @@
-Bionectria pseudostriatopsis Hirooka & Tak. Kobay. SPECIES
-=======
+# Bionectria pseudostriatopsis Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

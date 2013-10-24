@@ -1,5 +1,4 @@
-Erinella erratilis Quél. SPECIES
-=======
+# Erinella erratilis Quél. SPECIES
 
 #### Status
 ACCEPTED

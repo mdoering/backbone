@@ -1,17 +1,16 @@
-Protostelium pyriformis L.S. Olive & Stoian. SPECIES
-=======
+# Protostelium pyriforme L.S. Olive & Stoian., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 56(9): 987 (1969)
 
 #### Original name
-Protostelium pyriformis L.S. Olive & Stoian.
+Protostelium pyriforme L.S. Olive & Stoian., 1969
 
 ### Remarks
 null

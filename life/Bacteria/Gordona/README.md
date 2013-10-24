@@ -1,5 +1,4 @@
-Gordona GENUS
-=======
+# Gordona GENUS
 
 #### Status
 ACCEPTED

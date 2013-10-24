@@ -1,5 +1,4 @@
-Laboulbenia agelaeae W. Rossi & Cesari SPECIES
-=======
+# Laboulbenia agelaeae W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

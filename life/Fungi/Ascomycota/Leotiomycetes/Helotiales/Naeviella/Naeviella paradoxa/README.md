@@ -1,14 +1,13 @@
-Naevia paradoxa Rehm SPECIES
-=======
+# Naeviella paradoxa (Rehm) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Naevia paradoxa Rehm

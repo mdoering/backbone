@@ -1,5 +1,4 @@
-Cucurbitaria kermesina (G.H. Otth) Kuntze SPECIES
-=======
+# Cucurbitaria kermesina (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

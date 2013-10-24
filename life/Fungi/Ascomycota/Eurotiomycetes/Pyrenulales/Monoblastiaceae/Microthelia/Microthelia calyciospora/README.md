@@ -1,5 +1,4 @@
-Microthelia calyciospora A. Massal. SPECIES
-=======
+# Microthelia calyciospora A. Massal. SPECIES
 
 #### Status
 ACCEPTED

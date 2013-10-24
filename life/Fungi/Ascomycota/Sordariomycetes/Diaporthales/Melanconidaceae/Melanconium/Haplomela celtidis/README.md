@@ -1,5 +1,4 @@
-Haplomela celtidis Syd. SPECIES
-=======
+# Haplomela celtidis Syd. SPECIES
 
 #### Status
 ACCEPTED

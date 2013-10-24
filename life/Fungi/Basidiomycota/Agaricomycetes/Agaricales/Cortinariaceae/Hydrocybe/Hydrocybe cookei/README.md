@@ -1,5 +1,4 @@
-Hydrocybe cookei (Quél.) M.M. Moser SPECIES
-=======
+# Hydrocybe cookei (Quél.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

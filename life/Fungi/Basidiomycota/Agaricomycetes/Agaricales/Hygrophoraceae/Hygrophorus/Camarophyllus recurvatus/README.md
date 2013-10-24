@@ -1,5 +1,4 @@
-Camarophyllus recurvatus (Peck) Murrill SPECIES
-=======
+# Camarophyllus recurvatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

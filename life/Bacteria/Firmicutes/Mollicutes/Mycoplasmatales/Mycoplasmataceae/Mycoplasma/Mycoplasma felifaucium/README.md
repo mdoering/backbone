@@ -1,5 +1,4 @@
-Mycoplasma felifaucium Hill, 1988 SPECIES
-=======
+# Mycoplasma felifaucium Hill, 1988 SPECIES
 
 #### Status
 ACCEPTED

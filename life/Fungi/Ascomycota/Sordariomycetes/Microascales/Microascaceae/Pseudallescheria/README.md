@@ -1,17 +1,16 @@
-Petriellidium Malloch GENUS
-=======
+# Pseudallescheria Negroni & I. Fischer, 1944 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 62(4): 738 (1970)
+null
 
 #### Original name
-Petriellidium Malloch
+null
 
 ### Remarks
 null

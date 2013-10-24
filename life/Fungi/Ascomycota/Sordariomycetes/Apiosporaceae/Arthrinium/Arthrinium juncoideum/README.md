@@ -1,5 +1,4 @@
-Arthrinium juncoideum (J.G. Hall) Sacc. SPECIES
-=======
+# Arthrinium juncoideum (J.G. Hall) Sacc. SPECIES
 
 #### Status
 ACCEPTED

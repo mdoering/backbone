@@ -1,5 +1,4 @@
-Gymnodinium galeiforme Okolodkov, 1997 SPECIES
-=======
+# Gymnodinium galeiforme Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

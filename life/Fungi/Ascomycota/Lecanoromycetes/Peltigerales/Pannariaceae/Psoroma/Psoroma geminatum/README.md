@@ -1,5 +1,4 @@
-Psoroma geminatum P.M. Jørg. SPECIES
-=======
+# Psoroma geminatum P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

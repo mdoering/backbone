@@ -1,5 +1,4 @@
-Geoalkalibacter Zavarzina et al., 2007 GENUS
-=======
+# Geoalkalibacter Zavarzina et al., 2007 GENUS
 
 #### Status
 ACCEPTED

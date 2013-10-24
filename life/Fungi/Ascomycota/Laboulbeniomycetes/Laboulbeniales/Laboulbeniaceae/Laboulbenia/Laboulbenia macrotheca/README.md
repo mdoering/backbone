@@ -1,5 +1,4 @@
-Laboulbenia macrotheca Thaxt. SPECIES
-=======
+# Laboulbenia macrotheca Thaxt. SPECIES
 
 #### Status
 ACCEPTED

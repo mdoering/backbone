@@ -1,5 +1,4 @@
-Collema crassiusculum Taylor SPECIES
-=======
+# Collema crassiusculum Taylor SPECIES
 
 #### Status
 ACCEPTED

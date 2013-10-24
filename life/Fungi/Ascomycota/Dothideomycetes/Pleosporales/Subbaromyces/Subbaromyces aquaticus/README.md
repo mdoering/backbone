@@ -1,17 +1,16 @@
-Subbaromyces aquatica Manohar. & P.Rama Rao SPECIES
-=======
+# Subbaromyces aquaticus Manohar. & P.Rama Rao, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hydrobiologia 44(4): 476 (1974)
 
 #### Original name
-Subbaromyces aquatica Manohar. & P.Rama Rao
+Subbaromyces aquaticus Manohar. & P.Rama Rao, 1974
 
 ### Remarks
 null

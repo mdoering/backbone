@@ -1,5 +1,4 @@
-Septopezizella Svrcek GENUS
-=======
+# Septopezizella Svrcek GENUS
 
 #### Status
 ACCEPTED

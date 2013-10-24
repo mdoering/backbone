@@ -1,5 +1,4 @@
-Metarhizium gigas Sorokin SPECIES
-=======
+# Metarhizium gigas Sorokin SPECIES
 
 #### Status
 ACCEPTED

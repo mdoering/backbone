@@ -1,5 +1,4 @@
-Botryobasidiaceae Jülich FAMILY
-=======
+# Botryobasidiaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

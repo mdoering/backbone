@@ -1,5 +1,4 @@
-Cortinarius yerillus Grgur. SPECIES
-=======
+# Cortinarius yerillus Grgur. SPECIES
 
 #### Status
 ACCEPTED

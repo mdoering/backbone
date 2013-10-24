@@ -1,5 +1,4 @@
-Paradictyum paradoxum Haeckel, 1887 SPECIES
-=======
+# Paradictyum paradoxum Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

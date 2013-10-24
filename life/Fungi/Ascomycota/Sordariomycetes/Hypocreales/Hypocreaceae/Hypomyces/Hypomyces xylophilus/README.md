@@ -1,5 +1,4 @@
-Hypomyces xylophilus Peck SPECIES
-=======
+# Hypomyces xylophilus Peck SPECIES
 
 #### Status
 ACCEPTED

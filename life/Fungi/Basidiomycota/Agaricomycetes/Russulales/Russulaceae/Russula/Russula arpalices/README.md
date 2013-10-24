@@ -1,5 +1,4 @@
-Russula arpalices Sarnari SPECIES
-=======
+# Russula arpalices Sarnari SPECIES
 
 #### Status
 ACCEPTED

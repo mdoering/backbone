@@ -1,5 +1,4 @@
-Trichella stammeri Maessen SPECIES
-=======
+# Trichella stammeri Maessen SPECIES
 
 #### Status
 ACCEPTED

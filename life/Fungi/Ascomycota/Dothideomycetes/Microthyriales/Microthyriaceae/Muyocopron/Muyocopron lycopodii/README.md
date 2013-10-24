@@ -1,5 +1,4 @@
-Muyocopron lycopodii Rostr. SPECIES
-=======
+# Muyocopron lycopodii Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hafniasphaera septata (I. Cookson & A. Eisenack) J. M. Hansen SPECIES
-=======
+# Hafniasphaera septata (I. Cookson & A. Eisenack) J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimasporonites dolium Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Lacrimasporonites dolium Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

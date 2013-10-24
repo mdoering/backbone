@@ -1,5 +1,4 @@
-Dermatocarpon liguricum Servít SPECIES
-=======
+# Dermatocarpon liguricum Servít SPECIES
 
 #### Status
 ACCEPTED

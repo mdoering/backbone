@@ -1,5 +1,4 @@
-Blastulidium paedophthorum Pérez, 1903 SPECIES
-=======
+# Blastulidium paedophthorum Pérez, 1903 SPECIES
 
 #### Status
 ACCEPTED

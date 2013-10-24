@@ -1,5 +1,4 @@
-Odontia tenuis Peck SPECIES
-=======
+# Odontia tenuis Peck SPECIES
 
 #### Status
 ACCEPTED

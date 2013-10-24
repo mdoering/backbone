@@ -1,5 +1,4 @@
-Peziza guizhouensis M.H. Liu SPECIES
-=======
+# Peziza guizhouensis M.H. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subsilesiaca Zahlbr. SPECIES
-=======
+# Lecanora subsilesiaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

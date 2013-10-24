@@ -1,5 +1,4 @@
-Synechocystis septentrionalis Skuja SPECIES
-=======
+# Synechocystis septentrionalis Skuja SPECIES
 
 #### Status
 ACCEPTED

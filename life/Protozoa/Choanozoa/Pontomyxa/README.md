@@ -1,5 +1,4 @@
-Pontomyxa Topsent GENUS
-=======
+# Pontomyxa Topsent GENUS
 
 #### Status
 ACCEPTED

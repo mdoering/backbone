@@ -1,5 +1,4 @@
-Ceratium aultii Graham & Bronikovsky, 1944 SPECIES
-=======
+# Ceratium aultii Graham & Bronikovsky, 1944 SPECIES
 
 #### Status
 ACCEPTED

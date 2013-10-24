@@ -1,5 +1,4 @@
-Graphina platygrapta Müll. Arg. SPECIES
-=======
+# Graphina platygrapta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria fuscolilacina Berk. SPECIES
-=======
+# Clavaria fuscolilacina Berk. SPECIES
 
 #### Status
 ACCEPTED

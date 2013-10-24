@@ -1,17 +1,16 @@
-Sphaerella rosigena var. rosigena VARIETY
-=======
+# Davidiella rosigena (Ellis & Everh.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 172 (2006)
 
 #### Original name
-Sphaerella rosigena var. rosigena
+Sphaerella rosigena Ellis & Everh., 1887
 
 ### Remarks
 null

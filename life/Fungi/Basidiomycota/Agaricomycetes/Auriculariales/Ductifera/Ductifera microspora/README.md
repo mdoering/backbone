@@ -1,5 +1,4 @@
-Ductifera microspora (Kalchbr. & Cooke) K. Wells SPECIES
-=======
+# Ductifera microspora (Kalchbr. & Cooke) K. Wells SPECIES
 
 #### Status
 ACCEPTED

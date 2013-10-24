@@ -1,5 +1,4 @@
-Colinboothia Subram. & Sekar GENUS
-=======
+# Colinboothia Subram. & Sekar GENUS
 
 #### Status
 ACCEPTED

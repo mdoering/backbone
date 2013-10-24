@@ -1,5 +1,4 @@
-Agaricus planiusculus Britzelm. SPECIES
-=======
+# Agaricus planiusculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

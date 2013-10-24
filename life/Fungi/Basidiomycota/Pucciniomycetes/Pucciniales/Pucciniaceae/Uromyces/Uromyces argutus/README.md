@@ -1,5 +1,4 @@
-Uromyces argutus F. Kern SPECIES
-=======
+# Uromyces argutus F. Kern SPECIES
 
 #### Status
 ACCEPTED

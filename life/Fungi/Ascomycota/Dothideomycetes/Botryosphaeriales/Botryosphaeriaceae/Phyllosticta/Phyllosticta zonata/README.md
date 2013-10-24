@@ -1,5 +1,4 @@
-Phyllosticta zonata Ellis & Everh. SPECIES
-=======
+# Phyllosticta zonata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

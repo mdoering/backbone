@@ -1,5 +1,4 @@
-Hypomyces javanicus Höhn. SPECIES
-=======
+# Hypomyces javanicus Höhn. SPECIES
 
 #### Status
 ACCEPTED

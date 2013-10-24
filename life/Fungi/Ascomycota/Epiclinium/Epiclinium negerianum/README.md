@@ -1,5 +1,4 @@
-Epiclinium negerianum Sacc. & P. Syd. SPECIES
-=======
+# Epiclinium negerianum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

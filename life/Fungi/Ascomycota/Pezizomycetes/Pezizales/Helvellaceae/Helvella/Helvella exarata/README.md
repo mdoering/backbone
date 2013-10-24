@@ -1,5 +1,4 @@
-Helvella exarata Gillet SPECIES
-=======
+# Helvella exarata Gillet SPECIES
 
 #### Status
 ACCEPTED

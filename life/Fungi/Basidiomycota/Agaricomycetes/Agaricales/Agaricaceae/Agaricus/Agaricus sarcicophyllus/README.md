@@ -1,5 +1,4 @@
-Agaricus sarcicophyllus J. Otto SPECIES
-=======
+# Agaricus sarcicophyllus J. Otto SPECIES
 
 #### Status
 ACCEPTED

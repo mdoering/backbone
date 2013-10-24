@@ -1,5 +1,4 @@
-Caeoma claytoniatum Schwein. SPECIES
-=======
+# Caeoma claytoniatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

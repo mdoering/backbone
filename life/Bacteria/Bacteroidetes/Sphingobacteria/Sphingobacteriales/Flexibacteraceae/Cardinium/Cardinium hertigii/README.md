@@ -1,5 +1,4 @@
-Cardinium hertigii Zchori-Fein et al., 2004. SPECIES
-=======
+# Cardinium hertigii Zchori-Fein et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

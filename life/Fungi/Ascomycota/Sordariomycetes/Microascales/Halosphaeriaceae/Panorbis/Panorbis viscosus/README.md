@@ -1,5 +1,4 @@
-Panorbis viscosus (I. Schmidt) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
-=======
+# Panorbis viscosus (I. Schmidt) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
 
 #### Status
 ACCEPTED

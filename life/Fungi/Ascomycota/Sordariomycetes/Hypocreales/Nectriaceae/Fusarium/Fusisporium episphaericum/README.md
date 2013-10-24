@@ -1,5 +1,4 @@
-Fusisporium episphaericum Cooke & Ellis SPECIES
-=======
+# Fusisporium episphaericum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

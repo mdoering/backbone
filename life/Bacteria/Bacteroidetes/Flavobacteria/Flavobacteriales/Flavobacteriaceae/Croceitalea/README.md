@@ -1,5 +1,4 @@
-Croceitalea Lee, Kwon, Yang, Bae, Park, Kim & Lee, 2008 GENUS
-=======
+# Croceitalea Lee, Kwon, Yang, Bae, Park, Kim & Lee, 2008 GENUS
 
 #### Status
 ACCEPTED

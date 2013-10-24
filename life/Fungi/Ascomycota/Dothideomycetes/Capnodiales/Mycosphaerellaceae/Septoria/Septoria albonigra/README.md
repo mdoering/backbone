@@ -1,5 +1,4 @@
-Septoria albonigra Berk. & M.A. Curtis SPECIES
-=======
+# Septoria albonigra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dilophus moniliformis J. Agardh SPECIES
-=======
+# Dictyota moniliformis (J. Agardh) Hörnig, Schnetter & Prud'homme van Reine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

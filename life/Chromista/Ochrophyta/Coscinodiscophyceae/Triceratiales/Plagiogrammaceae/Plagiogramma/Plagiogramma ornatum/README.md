@@ -1,5 +1,4 @@
-Plagiogramma ornatum (Gregory) Greville SPECIES
-=======
+# Plagiogramma ornatum (Gregory) Greville SPECIES
 
 #### Status
 ACCEPTED

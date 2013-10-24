@@ -1,5 +1,4 @@
-Cyclicargolithus floridanus SPECIES
-=======
+# Cyclicargolithus floridanus SPECIES
 
 #### Status
 ACCEPTED

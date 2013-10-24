@@ -1,5 +1,4 @@
-Lopadostoma helveticum (Fuckel) P.M.D. Martin SPECIES
-=======
+# Lopadostoma helveticum (Fuckel) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

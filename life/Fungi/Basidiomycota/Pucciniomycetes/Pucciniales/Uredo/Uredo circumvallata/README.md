@@ -1,5 +1,4 @@
-Uredo circumvallata Magnus SPECIES
-=======
+# Uredo circumvallata Magnus SPECIES
 
 #### Status
 ACCEPTED

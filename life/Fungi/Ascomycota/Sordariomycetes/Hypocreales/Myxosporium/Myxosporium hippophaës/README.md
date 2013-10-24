@@ -1,5 +1,4 @@
-Myxosporium hippophaës Rostr. SPECIES
-=======
+# Myxosporium hippophaës Rostr. SPECIES
 
 #### Status
 ACCEPTED

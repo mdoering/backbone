@@ -1,5 +1,4 @@
-Dioicomyces glossophorus Speg. SPECIES
-=======
+# Dioicomyces glossophorus Speg. SPECIES
 
 #### Status
 ACCEPTED

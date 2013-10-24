@@ -1,5 +1,4 @@
-Didymopsora chuquiraguae Dietel, 1899 SPECIES
-=======
+# Didymopsora chuquiraguae Dietel, 1899 SPECIES
 
 #### Status
 ACCEPTED

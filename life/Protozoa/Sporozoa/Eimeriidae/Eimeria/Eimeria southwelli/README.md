@@ -1,5 +1,4 @@
-Eimeria southwelli Halawani, 1930 SPECIES
-=======
+# Eimeria southwelli Halawani, 1930 SPECIES
 
 #### Status
 ACCEPTED

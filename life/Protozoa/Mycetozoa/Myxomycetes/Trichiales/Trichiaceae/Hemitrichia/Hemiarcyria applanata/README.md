@@ -1,5 +1,4 @@
-Hemiarcyria applanata Cooke & Massee SPECIES
-=======
+# Hemiarcyria applanata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

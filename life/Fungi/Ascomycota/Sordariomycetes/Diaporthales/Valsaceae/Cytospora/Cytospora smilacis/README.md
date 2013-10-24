@@ -1,5 +1,4 @@
-Cytospora smilacis Cooke SPECIES
-=======
+# Cytospora smilacis Cooke SPECIES
 
 #### Status
 ACCEPTED

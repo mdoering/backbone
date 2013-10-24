@@ -1,5 +1,4 @@
-Sphaerellothecium coniodes (Nyl.) Cl. Roux & Diederich SPECIES
-=======
+# Sphaerellothecium coniodes (Nyl.) Cl. Roux & Diederich SPECIES
 
 #### Status
 ACCEPTED

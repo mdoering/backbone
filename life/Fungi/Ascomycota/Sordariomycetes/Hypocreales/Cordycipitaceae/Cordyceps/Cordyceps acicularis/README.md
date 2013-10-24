@@ -1,5 +1,4 @@
-Cordyceps acicularis Ravenel SPECIES
-=======
+# Cordyceps acicularis Ravenel SPECIES
 
 #### Status
 ACCEPTED

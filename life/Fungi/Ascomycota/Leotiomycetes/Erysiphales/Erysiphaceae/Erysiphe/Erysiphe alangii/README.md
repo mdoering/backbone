@@ -1,5 +1,4 @@
-Erysiphe alangii (T. Xu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe alangii (T. Xu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

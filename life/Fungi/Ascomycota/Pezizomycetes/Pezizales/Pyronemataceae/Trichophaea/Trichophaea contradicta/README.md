@@ -1,5 +1,4 @@
-Trichophaea contradicta (Seaver) H.J. Larsen SPECIES
-=======
+# Trichophaea contradicta (Seaver) H.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

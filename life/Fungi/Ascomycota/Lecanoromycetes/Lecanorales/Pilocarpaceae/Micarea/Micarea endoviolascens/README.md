@@ -1,5 +1,4 @@
-Micarea endoviolascens Coppins SPECIES
-=======
+# Micarea endoviolascens Coppins SPECIES
 
 #### Status
 ACCEPTED

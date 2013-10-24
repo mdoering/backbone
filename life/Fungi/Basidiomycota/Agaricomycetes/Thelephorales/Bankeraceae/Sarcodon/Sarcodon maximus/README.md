@@ -1,5 +1,4 @@
-Sarcodon maximus (P. Karst.) Mussat SPECIES
-=======
+# Sarcodon maximus (P. Karst.) Mussat SPECIES
 
 #### Status
 ACCEPTED

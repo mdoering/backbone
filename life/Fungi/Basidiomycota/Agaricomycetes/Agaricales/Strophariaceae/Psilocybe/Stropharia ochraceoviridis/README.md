@@ -1,5 +1,4 @@
-Stropharia ochraceoviridis García Mon. SPECIES
-=======
+# Stropharia ochraceoviridis García Mon. SPECIES
 
 #### Status
 ACCEPTED

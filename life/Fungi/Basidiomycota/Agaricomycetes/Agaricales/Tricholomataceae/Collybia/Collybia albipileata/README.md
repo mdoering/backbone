@@ -1,5 +1,4 @@
-Collybia albipileata Peck SPECIES
-=======
+# Collybia albipileata Peck SPECIES
 
 #### Status
 ACCEPTED

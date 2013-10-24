@@ -1,5 +1,4 @@
-Mycena subincarnata Peck SPECIES
-=======
+# Mycena subincarnata Peck SPECIES
 
 #### Status
 ACCEPTED

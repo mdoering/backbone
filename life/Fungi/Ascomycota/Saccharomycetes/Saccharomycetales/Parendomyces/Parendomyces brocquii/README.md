@@ -1,8 +1,7 @@
-Parendomyces brocqii Beintema SPECIES
-=======
+# Parendomyces brocquii Beintema SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parendomyces brocqii Beintema
+Parendomyces brocquii Beintema
 
 ### Remarks
 null

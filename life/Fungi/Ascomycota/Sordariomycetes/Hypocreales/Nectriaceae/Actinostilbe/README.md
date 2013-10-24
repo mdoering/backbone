@@ -1,5 +1,4 @@
-Actinostilbe Petch GENUS
-=======
+# Actinostilbe Petch GENUS
 
 #### Status
 ACCEPTED

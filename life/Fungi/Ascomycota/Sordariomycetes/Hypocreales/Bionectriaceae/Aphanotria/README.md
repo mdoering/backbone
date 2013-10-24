@@ -1,5 +1,4 @@
-Aphanotria Döbbeler GENUS
-=======
+# Aphanotria Döbbeler GENUS
 
 #### Status
 ACCEPTED

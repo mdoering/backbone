@@ -1,5 +1,4 @@
-Funicularius K.K. Baker & Zaim, 1979 GENUS
-=======
+# Funicularius K.K. Baker & Zaim, 1979 GENUS
 
 #### Status
 ACCEPTED

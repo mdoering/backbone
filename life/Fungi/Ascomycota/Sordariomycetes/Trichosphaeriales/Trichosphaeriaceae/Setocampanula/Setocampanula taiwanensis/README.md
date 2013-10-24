@@ -1,5 +1,4 @@
-Setocampanula taiwanensis Sivan. & W.H. Hsieh, 1989 SPECIES
-=======
+# Setocampanula taiwanensis Sivan. & W.H. Hsieh, 1989 SPECIES
 
 #### Status
 ACCEPTED

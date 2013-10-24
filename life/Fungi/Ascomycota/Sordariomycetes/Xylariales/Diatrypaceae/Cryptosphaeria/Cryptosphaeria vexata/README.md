@@ -1,5 +1,4 @@
-Cryptosphaeria vexata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Cryptosphaeria vexata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

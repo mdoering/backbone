@@ -1,5 +1,4 @@
-Uredo panici-maximi Rangel SPECIES
-=======
+# Uredo panici-maximi Rangel SPECIES
 
 #### Status
 ACCEPTED

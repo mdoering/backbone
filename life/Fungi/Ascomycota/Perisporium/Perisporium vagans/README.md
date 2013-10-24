@@ -1,5 +1,4 @@
-Perisporium vagans Desm. SPECIES
-=======
+# Perisporium vagans Desm. SPECIES
 
 #### Status
 ACCEPTED

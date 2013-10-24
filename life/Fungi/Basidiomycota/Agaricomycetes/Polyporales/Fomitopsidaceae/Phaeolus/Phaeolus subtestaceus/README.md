@@ -1,5 +1,4 @@
-Phaeolus subtestaceus (Bres.) Bourdot & Galzin SPECIES
-=======
+# Phaeolus subtestaceus (Bres.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

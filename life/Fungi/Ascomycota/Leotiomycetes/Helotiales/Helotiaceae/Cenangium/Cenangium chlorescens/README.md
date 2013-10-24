@@ -1,5 +1,4 @@
-Cenangium chlorescens Schwein. SPECIES
-=======
+# Cenangium chlorescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

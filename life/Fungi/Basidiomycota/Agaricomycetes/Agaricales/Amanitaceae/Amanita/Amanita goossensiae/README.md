@@ -1,5 +1,4 @@
-Amanita goossensiae f. fulvosquammulosa (Beeli) E.-J. Gilbert FORM
-=======
+# Amanita goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 309 (1941)
+Bull. Soc. R. Bot. Belg. 59: 103 (1927)
 
 #### Original name
-Amidella goossensiae f. fulvosquamulosa (Beeli) E.-J. Gilbert
+Amanita goossensiae Beeli
 
 ### Remarks
 null

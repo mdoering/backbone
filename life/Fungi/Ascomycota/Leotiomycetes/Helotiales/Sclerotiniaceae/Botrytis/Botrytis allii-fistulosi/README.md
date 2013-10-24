@@ -1,5 +1,4 @@
-Botrytis allii-fistulosi Sawada SPECIES
-=======
+# Botrytis allii-fistulosi Sawada SPECIES
 
 #### Status
 ACCEPTED

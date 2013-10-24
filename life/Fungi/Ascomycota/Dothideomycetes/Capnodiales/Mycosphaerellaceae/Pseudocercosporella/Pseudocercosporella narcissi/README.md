@@ -1,5 +1,4 @@
-Pseudocercosporella narcissi (Boud.) U. Braun SPECIES
-=======
+# Pseudocercosporella narcissi (Boud.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

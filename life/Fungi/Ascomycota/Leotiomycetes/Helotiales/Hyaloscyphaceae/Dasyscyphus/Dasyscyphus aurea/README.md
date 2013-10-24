@@ -1,8 +1,7 @@
-Dasyscypha aurea Massee SPECIES
-=======
+# Dasyscyphus aurea Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha aurea Massee
+Dasyscyphus aurea Massee
 
 ### Remarks
 null

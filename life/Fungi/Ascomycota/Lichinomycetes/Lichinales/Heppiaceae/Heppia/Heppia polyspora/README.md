@@ -1,5 +1,4 @@
-Heppia polyspora Tuck. SPECIES
-=======
+# Heppia polyspora Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coccostroma nuda (F. Stevens) Arx & E. Müll. SPECIES
-=======
+# Coccodiella nuda (F. Stevens) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 43: 282 (1968)
 
 #### Original name
 Yoshinagella nuda F. Stevens, 1925

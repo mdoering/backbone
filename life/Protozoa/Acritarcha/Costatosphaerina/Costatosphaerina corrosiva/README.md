@@ -1,5 +1,4 @@
-Costatosphaerina corrosiva Lopukhin, 1974 SPECIES
-=======
+# Costatosphaerina corrosiva Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiopsis clusiicola Hansf. SPECIES
-=======
+# Parodiopsis clusiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

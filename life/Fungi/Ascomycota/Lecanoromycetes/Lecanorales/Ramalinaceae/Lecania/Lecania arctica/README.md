@@ -1,5 +1,4 @@
-Lecania arctica Lynge SPECIES
-=======
+# Lecania arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

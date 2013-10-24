@@ -1,5 +1,4 @@
-Tholosina laevis Rhumbler, 1931 SPECIES
-=======
+# Tholosina laevis Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

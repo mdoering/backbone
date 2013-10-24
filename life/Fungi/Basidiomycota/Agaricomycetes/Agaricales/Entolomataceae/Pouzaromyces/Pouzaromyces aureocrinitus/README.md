@@ -1,5 +1,4 @@
-Pouzaromyces aureocrinitus E. Horak SPECIES
-=======
+# Pouzaromyces aureocrinitus E. Horak SPECIES
 
 #### Status
 ACCEPTED

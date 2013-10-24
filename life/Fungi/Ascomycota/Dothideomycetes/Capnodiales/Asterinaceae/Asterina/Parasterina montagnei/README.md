@@ -1,5 +1,4 @@
-Parasterina montagnei Toro SPECIES
-=======
+# Parasterina montagnei Toro SPECIES
 
 #### Status
 ACCEPTED

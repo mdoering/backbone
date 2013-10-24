@@ -1,5 +1,4 @@
-Stereum peculiare Parmasto, Boidin & Dinghra, 1979 SPECIES
-=======
+# Stereum peculiare Parmasto, Boidin & Dinghra, 1979 SPECIES
 
 #### Status
 ACCEPTED

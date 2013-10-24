@@ -1,17 +1,16 @@
-Pleospora spartium-juncei E. Müll., 1957 SPECIES
-=======
+# Pleospora spartii-juncei E. Müll., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of Madras Univ. , B 27: 35 (1957)
 
 #### Original name
-Pleospora spartium-juncei E. Müll., 1957
+Pleospora spartii-juncei E. Müll., 1957
 
 ### Remarks
 null

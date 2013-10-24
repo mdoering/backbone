@@ -1,5 +1,4 @@
-Eriosporina montenegrina Bubák SPECIES
-=======
+# Eriosporina montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella diatrypoides Sacc. & Berl. SPECIES
-=======
+# Dothiorella diatrypoides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

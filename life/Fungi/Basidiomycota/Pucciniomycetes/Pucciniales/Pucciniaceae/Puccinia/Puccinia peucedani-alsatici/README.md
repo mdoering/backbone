@@ -1,5 +1,4 @@
-Puccinia peucedani-alsatici Picb. SPECIES
-=======
+# Puccinia peucedani-alsatici Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cubasina R.F. Castañeda GENUS
-=======
+# Cubasina R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

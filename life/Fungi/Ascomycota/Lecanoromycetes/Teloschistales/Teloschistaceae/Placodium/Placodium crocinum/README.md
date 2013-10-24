@@ -1,5 +1,4 @@
-Placodium crocinum (Kremp.) Räsänen SPECIES
-=======
+# Placodium crocinum (Kremp.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

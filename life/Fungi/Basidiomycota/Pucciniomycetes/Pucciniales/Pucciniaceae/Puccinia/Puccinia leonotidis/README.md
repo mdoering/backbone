@@ -1,5 +1,4 @@
-Puccinia leonotidis (Henn.) Arthur SPECIES
-=======
+# Puccinia leonotidis (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania shastensis Herre SPECIES
-=======
+# Lecania shastensis Herre SPECIES
 
 #### Status
 ACCEPTED

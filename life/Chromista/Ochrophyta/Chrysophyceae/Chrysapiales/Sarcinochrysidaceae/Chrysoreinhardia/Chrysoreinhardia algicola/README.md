@@ -1,8 +1,7 @@
-Pulvinaria algicola L. Reinhard SPECIES
-=======
+# Chrysoreinhardia algicola (Reinhard) C. Billard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

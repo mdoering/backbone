@@ -1,5 +1,4 @@
-Hymenobacter gelipurpurascens Buczolits et al., 2006 SPECIES
-=======
+# Hymenobacter gelipurpurascens Buczolits et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

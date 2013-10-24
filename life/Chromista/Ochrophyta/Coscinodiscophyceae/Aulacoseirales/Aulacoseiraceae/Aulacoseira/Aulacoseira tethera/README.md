@@ -1,5 +1,4 @@
-Aulacoseira tethera E.Y.Haw. SPECIES
-=======
+# Aulacoseira tethera E.Y.Haw. SPECIES
 
 #### Status
 ACCEPTED

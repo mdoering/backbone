@@ -1,14 +1,13 @@
-Micropuccinia polemonii (Dietel & Holw.) Arthur & H.S. Jacks., 1921 SPECIES
-=======
+# Puccinia polemonii Dietel & Holw., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 48: 41 (1921)
+in Dietel, Bot. Gaz. 18: 255 (1893)
 
 #### Original name
 Puccinia polemonii Dietel & Holw., 1893

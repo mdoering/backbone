@@ -1,5 +1,4 @@
-Agaricus lanigera Fr. SPECIES
-=======
+# Agaricus lanigera Fr. SPECIES
 
 #### Status
 ACCEPTED

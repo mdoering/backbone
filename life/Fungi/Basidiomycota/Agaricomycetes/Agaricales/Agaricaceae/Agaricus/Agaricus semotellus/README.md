@@ -1,5 +1,4 @@
-Agaricus semotellus S. Imai SPECIES
-=======
+# Agaricus semotellus S. Imai SPECIES
 
 #### Status
 ACCEPTED

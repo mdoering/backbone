@@ -1,5 +1,4 @@
-Bernardinium benardinense R. Chodat SPECIES
-=======
+# Bernardinium benardinense R. Chodat SPECIES
 
 #### Status
 ACCEPTED

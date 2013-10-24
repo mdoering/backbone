@@ -1,5 +1,4 @@
-Protoperidinium cerasum (Paulsen) Balech, 1973 SPECIES
-=======
+# Protoperidinium cerasum (Paulsen) Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

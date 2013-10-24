@@ -1,5 +1,4 @@
-Phaeographis leptogramma (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis leptogramma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

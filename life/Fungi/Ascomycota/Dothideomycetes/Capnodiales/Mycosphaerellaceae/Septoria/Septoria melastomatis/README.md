@@ -1,5 +1,4 @@
-Septoria melastomatis Pat. SPECIES
-=======
+# Septoria melastomatis Pat. SPECIES
 
 #### Status
 ACCEPTED

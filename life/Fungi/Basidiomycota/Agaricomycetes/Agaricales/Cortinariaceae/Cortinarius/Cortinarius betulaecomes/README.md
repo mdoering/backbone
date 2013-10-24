@@ -1,5 +1,4 @@
-Cortinarius betulaecomes Rob. Henry SPECIES
-=======
+# Cortinarius betulaecomes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

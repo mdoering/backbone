@@ -1,5 +1,4 @@
-Excipula recurvispora Berk. & M.A. Curtis SPECIES
-=======
+# Excipula recurvispora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella triptophylloides P. M. Jørg. SPECIES
-=======
+# Parmeliella triptophylloides P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema subcorallinum (Hale) Hale SPECIES
-=======
+# Parmotrema subcorallinum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

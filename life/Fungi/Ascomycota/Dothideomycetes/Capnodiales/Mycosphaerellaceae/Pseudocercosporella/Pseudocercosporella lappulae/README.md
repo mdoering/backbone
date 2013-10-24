@@ -1,5 +1,4 @@
-Pseudocercosporella lappulae (Dearn. & Bisby) U. Braun SPECIES
-=======
+# Pseudocercosporella lappulae (Dearn. & Bisby) U. Braun SPECIES
 
 #### Status
 ACCEPTED

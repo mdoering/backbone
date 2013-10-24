@@ -1,5 +1,4 @@
-Rhizosiphon Scherff. GENUS
-=======
+# Rhizosiphon Scherff. GENUS
 
 #### Status
 ACCEPTED

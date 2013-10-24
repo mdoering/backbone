@@ -1,5 +1,4 @@
-Paleoslimacomyces Kalgutkar & Sigler GENUS
-=======
+# Paleoslimacomyces Kalgutkar & Sigler GENUS
 
 #### Status
 ACCEPTED

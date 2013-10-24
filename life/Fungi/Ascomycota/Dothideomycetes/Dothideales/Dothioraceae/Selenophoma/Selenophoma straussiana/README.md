@@ -1,5 +1,4 @@
-Selenophoma straussiana (Sacc.) Luc SPECIES
-=======
+# Selenophoma straussiana (Sacc.) Luc SPECIES
 
 #### Status
 ACCEPTED

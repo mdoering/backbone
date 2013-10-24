@@ -1,8 +1,7 @@
-Ophiognomonia nana (Rehm) Sogonov, 2008 SPECIES
-=======
+# Gnomoniella nana Rehm, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Gnomoniella nana Rehm, 1903
 
 ### Remarks
 null

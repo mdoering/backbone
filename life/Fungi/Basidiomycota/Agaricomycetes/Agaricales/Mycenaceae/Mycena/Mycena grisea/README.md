@@ -1,5 +1,4 @@
-Mycena grisea Petch SPECIES
-=======
+# Mycena grisea Petch SPECIES
 
 #### Status
 ACCEPTED

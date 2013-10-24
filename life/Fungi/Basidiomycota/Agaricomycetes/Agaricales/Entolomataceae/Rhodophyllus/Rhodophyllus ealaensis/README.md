@@ -1,5 +1,4 @@
-Rhodophyllus ealaensis (Beeli) Romagn. SPECIES
-=======
+# Rhodophyllus ealaensis (Beeli) Romagn. SPECIES
 
 #### Status
 ACCEPTED

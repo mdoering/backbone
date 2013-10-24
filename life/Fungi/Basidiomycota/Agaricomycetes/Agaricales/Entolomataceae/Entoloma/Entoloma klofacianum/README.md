@@ -1,5 +1,4 @@
-Entoloma klofacianum Noordel., Wölfel & Hauskn. SPECIES
-=======
+# Entoloma klofacianum Noordel., Wölfel & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

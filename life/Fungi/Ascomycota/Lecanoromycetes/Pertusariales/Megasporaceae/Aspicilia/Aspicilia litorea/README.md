@@ -1,5 +1,4 @@
-Aspicilia litorea (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia litorea (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

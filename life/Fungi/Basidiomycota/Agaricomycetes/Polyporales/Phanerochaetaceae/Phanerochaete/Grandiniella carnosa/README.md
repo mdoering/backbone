@@ -1,5 +1,4 @@
-Grandiniella carnosa (Burt) Burds. SPECIES
-=======
+# Grandiniella carnosa (Burt) Burds. SPECIES
 
 #### Status
 ACCEPTED

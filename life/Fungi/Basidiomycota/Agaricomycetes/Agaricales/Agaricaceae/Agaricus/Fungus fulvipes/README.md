@@ -1,5 +1,4 @@
-Fungus fulvipes (Berk.) Kuntze SPECIES
-=======
+# Fungus fulvipes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

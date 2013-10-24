@@ -1,5 +1,4 @@
-Lecanora decorata Motyka SPECIES
-=======
+# Lecanora decorata Motyka SPECIES
 
 #### Status
 ACCEPTED

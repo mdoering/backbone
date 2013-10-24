@@ -1,5 +1,4 @@
-Conocybe typhicola (Henn.) Schweers SPECIES
-=======
+# Conocybe typhicola (Henn.) Schweers SPECIES
 
 #### Status
 ACCEPTED

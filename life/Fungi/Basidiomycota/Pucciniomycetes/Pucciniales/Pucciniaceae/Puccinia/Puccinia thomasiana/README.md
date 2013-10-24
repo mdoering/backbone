@@ -1,5 +1,4 @@
-Puccinia thomasiana T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Puccinia thomasiana T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium aberrans B. Sutton SPECIES
-=======
+# Dinemasporium aberrans B. Sutton SPECIES
 
 #### Status
 ACCEPTED

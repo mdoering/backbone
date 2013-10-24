@@ -1,5 +1,4 @@
-Polystictus zonalis Berk. SPECIES
-=======
+# Polystictus zonalis Berk. SPECIES
 
 #### Status
 ACCEPTED

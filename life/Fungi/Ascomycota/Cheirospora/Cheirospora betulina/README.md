@@ -1,5 +1,4 @@
-Cheirospora betulina (P. Karst.) Kuntze SPECIES
-=======
+# Cheirospora betulina (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

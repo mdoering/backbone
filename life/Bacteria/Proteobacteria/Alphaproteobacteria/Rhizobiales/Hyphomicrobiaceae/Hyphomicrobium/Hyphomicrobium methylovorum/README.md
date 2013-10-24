@@ -1,5 +1,4 @@
-Hyphomicrobium methylovorum Izumi et al., 1983 SPECIES
-=======
+# Hyphomicrobium methylovorum Izumi et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

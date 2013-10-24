@@ -1,5 +1,4 @@
-Nocardia arthritidis Kageyama et al., 2005 SPECIES
-=======
+# Nocardia arthritidis Kageyama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

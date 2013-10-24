@@ -1,5 +1,4 @@
-Sphaeronaema elegans De Not. SPECIES
-=======
+# Sphaeronaema elegans De Not. SPECIES
 
 #### Status
 ACCEPTED

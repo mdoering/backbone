@@ -1,5 +1,4 @@
-Hypolyssus agaricola (Chaillet ex Fr.) Kuntze SPECIES
-=======
+# Hypolyssus agaricola (Chaillet ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete parvispora Sheng H. Wu & Losi SPECIES
-=======
+# Phanerochaete parvispora Sheng H. Wu & Losi SPECIES
 
 #### Status
 ACCEPTED

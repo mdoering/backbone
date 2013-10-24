@@ -1,5 +1,4 @@
-Cladobotryum ternatum Corda SPECIES
-=======
+# Cladobotryum ternatum Corda SPECIES
 
 #### Status
 ACCEPTED

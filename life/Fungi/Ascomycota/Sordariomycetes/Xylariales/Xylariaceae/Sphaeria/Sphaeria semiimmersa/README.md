@@ -1,5 +1,4 @@
-Sphaeria semiimmersa Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria semiimmersa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

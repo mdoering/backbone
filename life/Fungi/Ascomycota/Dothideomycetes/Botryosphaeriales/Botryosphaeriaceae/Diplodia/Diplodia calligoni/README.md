@@ -1,5 +1,4 @@
-Diplodia calligoni Kravtzev SPECIES
-=======
+# Diplodia calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

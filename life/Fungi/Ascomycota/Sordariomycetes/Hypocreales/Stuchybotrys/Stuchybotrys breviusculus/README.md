@@ -1,5 +1,4 @@
-Stuchybotrys breviusculus McKenzie. SPECIES
-=======
+# Stuchybotrys breviusculus McKenzie. SPECIES
 
 #### Status
 ACCEPTED

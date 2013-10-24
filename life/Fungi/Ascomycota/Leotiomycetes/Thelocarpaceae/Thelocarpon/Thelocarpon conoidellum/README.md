@@ -1,5 +1,4 @@
-Thelocarpon conoidellum Nyl. SPECIES
-=======
+# Thelocarpon conoidellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

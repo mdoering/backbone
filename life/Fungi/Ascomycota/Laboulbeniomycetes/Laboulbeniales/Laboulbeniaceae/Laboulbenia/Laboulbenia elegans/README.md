@@ -1,5 +1,4 @@
-Laboulbenia elegans Thaxt. SPECIES
-=======
+# Laboulbenia elegans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

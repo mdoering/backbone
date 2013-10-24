@@ -1,5 +1,4 @@
-Uredo ochlandrae Petch SPECIES
-=======
+# Uredo ochlandrae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina elegini Shulmann-Albova, 1950 SPECIES
-=======
+# Trichodina elegini Shulmann-Albova, 1950 SPECIES
 
 #### Status
 ACCEPTED

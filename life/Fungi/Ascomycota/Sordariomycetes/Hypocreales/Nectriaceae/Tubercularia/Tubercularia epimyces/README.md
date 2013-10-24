@@ -1,5 +1,4 @@
-Tubercularia epimyces Petch SPECIES
-=======
+# Tubercularia epimyces Petch SPECIES
 
 #### Status
 ACCEPTED

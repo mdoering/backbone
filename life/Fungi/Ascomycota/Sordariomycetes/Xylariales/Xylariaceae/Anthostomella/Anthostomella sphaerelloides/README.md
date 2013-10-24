@@ -1,5 +1,4 @@
-Anthostomella sphaerelloides Sacc. SPECIES
-=======
+# Anthostomella sphaerelloides Sacc. SPECIES
 
 #### Status
 ACCEPTED

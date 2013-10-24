@@ -1,5 +1,4 @@
-Ramularia sanguisorbicola U. Braun SPECIES
-=======
+# Ramularia sanguisorbicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

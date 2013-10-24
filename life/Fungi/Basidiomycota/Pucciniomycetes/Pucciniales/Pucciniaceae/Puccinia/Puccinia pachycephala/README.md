@@ -1,5 +1,4 @@
-Puccinia pachycephala Dietel SPECIES
-=======
+# Puccinia pachycephala Dietel SPECIES
 
 #### Status
 ACCEPTED

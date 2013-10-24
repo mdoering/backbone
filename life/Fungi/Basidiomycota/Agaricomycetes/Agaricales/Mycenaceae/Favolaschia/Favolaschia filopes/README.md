@@ -1,5 +1,4 @@
-Favolaschia filopes Singer & O. Fidalgo SPECIES
-=======
+# Favolaschia filopes Singer & O. Fidalgo SPECIES
 
 #### Status
 ACCEPTED

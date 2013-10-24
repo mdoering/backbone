@@ -1,5 +1,4 @@
-Lecudina leptonereidis Schrével, 1963 SPECIES
-=======
+# Lecudina leptonereidis Schrével, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bispora monilifera Fuckel, 1870 SPECIES
-=======
+# Calycella monilifera (Fuckel) Dennis, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 310 (1870)
+Mycol. Pap. 62: 44 (1956)
 
 #### Original name
 Bispora monilifera Fuckel, 1870

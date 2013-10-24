@@ -1,5 +1,4 @@
-Cantharellus atratus Corner SPECIES
-=======
+# Cantharellus atratus Corner SPECIES
 
 #### Status
 ACCEPTED

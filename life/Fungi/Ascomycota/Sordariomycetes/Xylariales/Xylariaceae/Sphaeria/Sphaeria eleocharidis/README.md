@@ -1,14 +1,13 @@
-Sphaeria heleocharidis (P. Karst.) Phillips & Plowr. SPECIES
-=======
+# Sphaeria eleocharidis (P. Karst.) Phillips & Plowr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 37): 27 (1877)
 
 #### Original name
 Pleospora eleocharidis Plowr. & Cooke

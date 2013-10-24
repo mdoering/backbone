@@ -1,5 +1,4 @@
-Opegrapha longissima Müll. Arg. SPECIES
-=======
+# Opegrapha longissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

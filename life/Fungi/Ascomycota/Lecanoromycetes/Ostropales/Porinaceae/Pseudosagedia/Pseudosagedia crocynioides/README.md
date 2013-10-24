@@ -1,5 +1,4 @@
-Pseudosagedia crocynioides (R.C. Harris) R.C. Harris SPECIES
-=======
+# Pseudosagedia crocynioides (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

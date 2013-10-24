@@ -1,5 +1,4 @@
-Perisporium fagineum Fr. SPECIES
-=======
+# Perisporium fagineum Fr. SPECIES
 
 #### Status
 ACCEPTED

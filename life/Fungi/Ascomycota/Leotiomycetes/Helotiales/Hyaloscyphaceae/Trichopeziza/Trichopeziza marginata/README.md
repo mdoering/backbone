@@ -1,5 +1,4 @@
-Trichopeziza marginata (Cooke) Sacc. SPECIES
-=======
+# Trichopeziza marginata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

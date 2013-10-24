@@ -1,5 +1,4 @@
-Tubaria cuboidospora Beeli SPECIES
-=======
+# Tubaria cuboidospora Beeli SPECIES
 
 #### Status
 ACCEPTED

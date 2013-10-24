@@ -1,5 +1,4 @@
-Proteromonas Künstler, 1883 GENUS
-=======
+# Proteromonas Künstler, 1883 GENUS
 
 #### Status
 ACCEPTED

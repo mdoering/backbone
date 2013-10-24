@@ -1,5 +1,4 @@
-Diatrype durieui Mont. SPECIES
-=======
+# Diatrype durieui Mont. SPECIES
 
 #### Status
 ACCEPTED

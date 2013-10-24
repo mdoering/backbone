@@ -1,5 +1,4 @@
-Cladonia decaryana f. decaryana FORM
-=======
+# Cladonia decaryana Abbayes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia decaryana f. decaryana
+Cladonia decaryana Abbayes
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ptychogaster nodulosus Pat. SPECIES
-=======
+# Ptychogaster nodulosus Pat. SPECIES
 
 #### Status
 ACCEPTED

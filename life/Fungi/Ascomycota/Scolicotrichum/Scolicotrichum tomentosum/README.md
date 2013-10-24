@@ -1,5 +1,4 @@
-Scolicotrichum tomentosum Bonord. SPECIES
-=======
+# Scolicotrichum tomentosum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymocrater simplex (Bonord.) Berl. & De Toni SPECIES
-=======
+# Didymocrater simplex (Bonord.) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED
