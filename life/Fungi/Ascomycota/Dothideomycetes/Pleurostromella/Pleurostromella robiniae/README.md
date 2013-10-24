@@ -1,5 +1,4 @@
-Pleurostromella robiniae H. Ruppr. SPECIES
-=======
+# Pleurostromella robiniae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

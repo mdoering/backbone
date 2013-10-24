@@ -1,17 +1,16 @@
-Myxotheciella Petr. GENUS
-=======
+# Scolionema Theissen & Sydow, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 13: 40 (1959)
+Annls mycol. 15(6): 410 (1918)
 
 #### Original name
-Myxotheciella Petr.
+Scolionema Theissen & Sydow, 1918
 
 ### Remarks
 null

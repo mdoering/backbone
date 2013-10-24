@@ -1,5 +1,4 @@
-Phyllopsora martinii Swinscow & Krog SPECIES
-=======
+# Phyllopsora martinii Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea purissima Darb. SPECIES
-=======
+# Lecidea purissima Darb. SPECIES
 
 #### Status
 ACCEPTED

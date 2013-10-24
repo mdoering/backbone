@@ -1,5 +1,4 @@
-Fucus excisus Linnaeus SPECIES
-=======
+# Fucus excisus Linnaeus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster stellatus (Oeder) Wallr. SPECIES
-=======
+# Geastrum stellatus (Oeder) Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

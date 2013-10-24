@@ -1,5 +1,4 @@
-Cylindrosporium pimpinellae var. pimpinellae VARIETY
-=======
+# Cylindrosporium pimpinellae C. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cylindrosporium pimpinellae var. pimpinellae
+Cylindrosporium pimpinellae C. Massal.
 
 ### Remarks
 null

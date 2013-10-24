@@ -1,5 +1,4 @@
-Stereocauliscum gomphillaceum Nyl. SPECIES
-=======
+# Stereocauliscum gomphillaceum Nyl. SPECIES
 
 #### Status
 ACCEPTED

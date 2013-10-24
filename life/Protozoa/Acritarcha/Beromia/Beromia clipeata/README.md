@@ -1,5 +1,4 @@
-Beromia clipeata Vavrdová, 1986 SPECIES
-=======
+# Beromia clipeata Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

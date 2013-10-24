@@ -1,17 +1,16 @@
-Mortierella ramanniana subsp. ramanniana SUBSPECIES
-=======
+# Umbelopsis ramanniana (Möller) W. Gams, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Meyer & Gams, Mycol. Res. 107(3): 349 (2003)
 
 #### Original name
-null
+Mucor ramannianus Möller, 1903
 
 ### Remarks
 null

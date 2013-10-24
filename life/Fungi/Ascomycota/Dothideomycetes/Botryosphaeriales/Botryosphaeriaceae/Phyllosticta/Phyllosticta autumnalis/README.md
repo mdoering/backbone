@@ -1,5 +1,4 @@
-Phyllosticta autumnalis Speg. SPECIES
-=======
+# Phyllosticta autumnalis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniocarpon leucostigma (Ach.) SPECIES
-=======
+# Coniocarpon leucostigma (Ach.) SPECIES
 
 #### Status
 ACCEPTED

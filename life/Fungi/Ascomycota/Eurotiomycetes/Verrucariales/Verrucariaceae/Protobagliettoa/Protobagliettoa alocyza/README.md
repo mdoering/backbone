@@ -1,5 +1,4 @@
-Protobagliettoa alocyza (Arnold) Servít SPECIES
-=======
+# Protobagliettoa alocyza (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula glandicola Cooke SPECIES
-=======
+# Hymenula glandicola Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus involucratus Durieu & Lév. SPECIES
-=======
+# Agaricus involucratus Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

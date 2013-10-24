@@ -1,5 +1,4 @@
-Didymellopsis (Sacc.) Clem. & Shear GENUS
-=======
+# Didymellopsis (Sacc.) Clem. & Shear GENUS
 
 #### Status
 ACCEPTED

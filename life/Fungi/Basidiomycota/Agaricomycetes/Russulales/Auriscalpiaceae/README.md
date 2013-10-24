@@ -1,5 +1,4 @@
-Auriscalpiaceae FAMILY
-=======
+# Auriscalpiaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera laurentii (Henn.) Dennis SPECIES
-=======
+# Xylosphaera laurentii (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

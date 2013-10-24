@@ -1,5 +1,4 @@
-Rhodotorula vanillica J.P. Samp. SPECIES
-=======
+# Rhodotorula vanillica J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

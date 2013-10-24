@@ -1,5 +1,4 @@
-Septobasidium cremeum Couch SPECIES
-=======
+# Septobasidium cremeum Couch SPECIES
 
 #### Status
 ACCEPTED

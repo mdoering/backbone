@@ -1,5 +1,4 @@
-Agaricus guepiniformis Berk. SPECIES
-=======
+# Agaricus guepiniformis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella vaccinii var. corymbosi Sacc. VARIETY
-=======
+# Mycosphaerella vaccinii (Cooke) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 335 (1894)
 
 #### Original name
-Sphaerella vaccinii var. corymbosi Sacc.
+Sphaerella vaccinii Cooke, 1866
 
 ### Remarks
 null

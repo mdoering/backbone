@@ -1,8 +1,7 @@
-Miliolina hybrida var. trigonina Wiesner, 1923 VARIETY
-=======
+# Miliolina hybrida (Terquem) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

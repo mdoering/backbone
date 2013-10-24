@@ -1,5 +1,4 @@
-Gonolecania fumosonigricans (Müll. Arg.) Brusse SPECIES
-=======
+# Gonolecania fumosonigricans (Müll. Arg.) Brusse SPECIES
 
 #### Status
 ACCEPTED

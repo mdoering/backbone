@@ -1,5 +1,4 @@
-Aphanocapsa brunnea (A. Baun) Nägeli SPECIES
-=======
+# Aphanocapsa brunnea (A. Baun) Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placolecanora crustacea (Savicz) Kopach. SPECIES
-=======
+# Placolecanora crustacea (Savicz) Kopach. SPECIES
 
 #### Status
 ACCEPTED

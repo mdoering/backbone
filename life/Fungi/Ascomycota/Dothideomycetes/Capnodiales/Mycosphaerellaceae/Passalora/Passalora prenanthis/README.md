@@ -1,5 +1,4 @@
-Passalora prenanthis (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Passalora prenanthis (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

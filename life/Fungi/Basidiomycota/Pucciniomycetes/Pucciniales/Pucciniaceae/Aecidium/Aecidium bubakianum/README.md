@@ -1,5 +1,4 @@
-Aecidium bubakianum Juel SPECIES
-=======
+# Aecidium bubakianum Juel SPECIES
 
 #### Status
 ACCEPTED

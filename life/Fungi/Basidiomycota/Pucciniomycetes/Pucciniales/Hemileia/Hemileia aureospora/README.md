@@ -1,5 +1,4 @@
-Hemileia aureospora J.M. Yen SPECIES
-=======
+# Hemileia aureospora J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

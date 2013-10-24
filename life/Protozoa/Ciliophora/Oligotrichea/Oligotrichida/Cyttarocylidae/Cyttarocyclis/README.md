@@ -1,5 +1,4 @@
-Cyttarocyclis GENUS
-=======
+# Cyttarocyclis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia praeclara Syd. {?} SPECIES
-=======
+# Puccinia praeclara Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

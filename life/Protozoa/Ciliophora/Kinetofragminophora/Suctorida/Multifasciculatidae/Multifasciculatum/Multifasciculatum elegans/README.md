@@ -1,5 +1,4 @@
-Multifasciculatum elegans Goodrich & Jahn, 1943 SPECIES
-=======
+# Multifasciculatum elegans Goodrich & Jahn, 1943 SPECIES
 
 #### Status
 ACCEPTED

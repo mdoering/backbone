@@ -1,5 +1,4 @@
-Cercosporidium cordobense (Speg.) C.E. García & N. Pons SPECIES
-=======
+# Cercosporidium cordobense (Speg.) C.E. García & N. Pons SPECIES
 
 #### Status
 ACCEPTED

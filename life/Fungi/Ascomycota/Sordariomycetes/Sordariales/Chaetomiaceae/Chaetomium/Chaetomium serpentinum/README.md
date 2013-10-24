@@ -1,5 +1,4 @@
-Chaetomium serpentinum L.M. Ames ex A. Carter, 1983 SPECIES
-=======
+# Chaetomium serpentinum L.M. Ames ex A. Carter, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella pataguae Speg. SPECIES
-=======
+# Sphaerella pataguae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca diclipterae Y. Nomura SPECIES
-=======
+# Sphaerotheca diclipterae Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster falcatus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster falcatus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

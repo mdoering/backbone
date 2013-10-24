@@ -1,5 +1,4 @@
-Lachnea ciliata Velen. SPECIES
-=======
+# Lachnea ciliata Velen. SPECIES
 
 #### Status
 ACCEPTED

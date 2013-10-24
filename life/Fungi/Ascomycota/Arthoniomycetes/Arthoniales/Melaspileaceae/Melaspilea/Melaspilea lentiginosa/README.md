@@ -1,14 +1,13 @@
-Opegrapha lentiginosa Lyell ex Leight. SPECIES
-=======
+# Melaspilea lentiginosa (Lyell ex Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: 211 (1854)
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 19 (1887)
 
 #### Original name
 Opegrapha lentiginosa Lyell ex Leight.

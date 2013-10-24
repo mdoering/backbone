@@ -1,5 +1,4 @@
-Septoria tatarica Syd. SPECIES
-=======
+# Septoria tatarica Syd. SPECIES
 
 #### Status
 ACCEPTED

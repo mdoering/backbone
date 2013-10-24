@@ -1,5 +1,4 @@
-Laccaria ochrosquamulosa (Ballero & Contu) Pázmány SPECIES
-=======
+# Laccaria ochrosquamulosa (Ballero & Contu) Pázmány SPECIES
 
 #### Status
 ACCEPTED

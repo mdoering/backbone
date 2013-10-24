@@ -1,5 +1,4 @@
-Puccinia caricis-maximowiczii Homma SPECIES
-=======
+# Puccinia caricis-maximowiczii Homma SPECIES
 
 #### Status
 ACCEPTED

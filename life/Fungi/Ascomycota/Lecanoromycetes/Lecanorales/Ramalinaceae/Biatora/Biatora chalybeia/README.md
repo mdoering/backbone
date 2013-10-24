@@ -1,5 +1,4 @@
-Biatora chalybeia Hepp SPECIES
-=======
+# Biatora chalybeia Hepp SPECIES
 
 #### Status
 ACCEPTED

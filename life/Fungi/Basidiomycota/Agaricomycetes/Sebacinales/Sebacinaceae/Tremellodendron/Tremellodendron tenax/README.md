@@ -1,5 +1,4 @@
-Tremellodendron tenax (Schwein.) Burt SPECIES
-=======
+# Tremellodendron tenax (Schwein.) Burt SPECIES
 
 #### Status
 ACCEPTED

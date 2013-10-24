@@ -1,17 +1,16 @@
-Microsphaera quercina var. quercina VARIETY
-=======
+# Erysiphe alphitoides (Griffon & Maubl.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 5 (2000)
 
 #### Original name
-Microsphaera quercina var. quercina
+Microsphaera alphitoides Griffon & Maubl., 1912
 
 ### Remarks
 null

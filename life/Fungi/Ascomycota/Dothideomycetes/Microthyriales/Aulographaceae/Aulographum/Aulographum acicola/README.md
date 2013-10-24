@@ -1,5 +1,4 @@
-Aulographum acicola Harkn. SPECIES
-=======
+# Aulographum acicola Harkn. SPECIES
 
 #### Status
 ACCEPTED

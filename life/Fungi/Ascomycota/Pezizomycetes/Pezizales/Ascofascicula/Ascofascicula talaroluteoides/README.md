@@ -1,5 +1,4 @@
-Ascofascicula talaroluteoides Matsush., 2003 SPECIES
-=======
+# Ascofascicula talaroluteoides Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

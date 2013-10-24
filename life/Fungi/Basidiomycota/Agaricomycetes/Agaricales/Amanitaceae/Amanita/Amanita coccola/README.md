@@ -1,5 +1,4 @@
-Amanita coccola var. coccola VARIETY
-=======
+# Amanita coccola (Scop.) Bertill. SPECIES
 
 #### Status
 ACCEPTED

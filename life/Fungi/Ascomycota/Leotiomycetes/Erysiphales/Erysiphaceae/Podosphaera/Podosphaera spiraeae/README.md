@@ -1,14 +1,13 @@
-Sphaerotheca spiraeae Sawada, 1951 SPECIES
-=======
+# Podosphaera spiraeae (Sawada) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Gov. Forest Exp. St. Tokyo 50: 104 (1951)
+Schlechtendalia 4: 31 (2000)
 
 #### Original name
 Sphaerotheca spiraeae Sawada, 1951

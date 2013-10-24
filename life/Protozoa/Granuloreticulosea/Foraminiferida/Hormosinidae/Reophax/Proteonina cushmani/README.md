@@ -1,5 +1,4 @@
-Proteonina cushmani Collins, 1958 SPECIES
-=======
+# Proteonina cushmani Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

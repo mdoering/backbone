@@ -1,5 +1,4 @@
-Didymosporium congestum Syd. SPECIES
-=======
+# Didymosporium congestum Syd. SPECIES
 
 #### Status
 ACCEPTED

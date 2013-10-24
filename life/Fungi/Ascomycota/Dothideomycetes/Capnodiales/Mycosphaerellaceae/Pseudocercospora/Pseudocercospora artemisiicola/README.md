@@ -1,5 +1,4 @@
-Pseudocercospora artemisiicola Y.L. Guo SPECIES
-=======
+# Pseudocercospora artemisiicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

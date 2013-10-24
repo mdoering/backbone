@@ -1,5 +1,4 @@
-Psilocybe fibrillosipes E. Horak SPECIES
-=======
+# Psilocybe fibrillosipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

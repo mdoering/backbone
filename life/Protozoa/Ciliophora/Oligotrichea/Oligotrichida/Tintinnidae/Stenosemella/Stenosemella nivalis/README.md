@@ -1,5 +1,4 @@
-Stenosemella nivalis Meunier, 1910 SPECIES
-=======
+# Stenosemella nivalis Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

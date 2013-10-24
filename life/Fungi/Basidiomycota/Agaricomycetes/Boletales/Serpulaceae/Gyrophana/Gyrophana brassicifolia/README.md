@@ -1,17 +1,16 @@
-Gyrophana brassicaefolia (Berk.) Pat. SPECIES
-=======
+# Gyrophana brassicifolia (Berk.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 39(2): 108 (1900)
 
 #### Original name
-Merulius brassicaefolius Schwein.
+Merulius brassicifolius Schwein.
 
 ### Remarks
 null

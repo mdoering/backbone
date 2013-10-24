@@ -1,5 +1,4 @@
-Fusarium thevetiae Tassi SPECIES
-=======
+# Fusarium thevetiae Tassi SPECIES
 
 #### Status
 ACCEPTED

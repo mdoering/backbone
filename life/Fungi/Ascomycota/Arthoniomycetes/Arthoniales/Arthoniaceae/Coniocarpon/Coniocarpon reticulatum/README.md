@@ -1,5 +1,4 @@
-Coniocarpon reticulatum SPECIES
-=======
+# Coniocarpon reticulatum SPECIES
 
 #### Status
 ACCEPTED

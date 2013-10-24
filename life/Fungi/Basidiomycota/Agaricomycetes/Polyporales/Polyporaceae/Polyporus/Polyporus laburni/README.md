@@ -1,5 +1,4 @@
-Polyporus laburni Opiz SPECIES
-=======
+# Polyporus laburni Opiz SPECIES
 
 #### Status
 ACCEPTED

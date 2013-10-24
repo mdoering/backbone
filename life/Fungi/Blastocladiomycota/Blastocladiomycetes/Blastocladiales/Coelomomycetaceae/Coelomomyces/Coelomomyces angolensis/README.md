@@ -1,5 +1,4 @@
-Coelomomyces angolensis H. Ribeiro SPECIES
-=======
+# Coelomomyces angolensis H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

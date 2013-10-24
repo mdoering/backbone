@@ -1,5 +1,4 @@
-Ascobolus archeri Berk. SPECIES
-=======
+# Ascobolus archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

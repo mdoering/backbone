@@ -1,5 +1,4 @@
-Dacrymyces radicellatus P. Karst. SPECIES
-=======
+# Dacrymyces radicellatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

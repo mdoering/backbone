@@ -1,5 +1,4 @@
-Bacidia sphaeroidiza (Vain.) SPECIES
-=======
+# Bacidia sphaeroidiza (Vain.) SPECIES
 
 #### Status
 ACCEPTED

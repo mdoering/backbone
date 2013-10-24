@@ -1,5 +1,4 @@
-Gloeosporium louisiae Bäumler SPECIES
-=======
+# Gloeosporium louisiae Bäumler SPECIES
 
 #### Status
 ACCEPTED

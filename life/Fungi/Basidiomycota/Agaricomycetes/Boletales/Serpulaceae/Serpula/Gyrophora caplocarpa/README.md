@@ -1,5 +1,4 @@
-Gyrophora caplocarpa SPECIES
-=======
+# Gyrophora caplocarpa SPECIES
 
 #### Status
 ACCEPTED

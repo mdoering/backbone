@@ -1,5 +1,4 @@
-Reticulofenestra sessilis (Lohmann) Jordan & Young, 1990 SPECIES
-=======
+# Reticulofenestra sessilis (Lohmann) Jordan & Young, 1990 SPECIES
 
 #### Status
 ACCEPTED

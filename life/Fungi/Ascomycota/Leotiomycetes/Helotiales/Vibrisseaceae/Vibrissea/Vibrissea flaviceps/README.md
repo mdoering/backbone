@@ -1,5 +1,4 @@
-Vibrissea flaviceps Kirschst. SPECIES
-=======
+# Vibrissea flaviceps Kirschst. SPECIES
 
 #### Status
 ACCEPTED

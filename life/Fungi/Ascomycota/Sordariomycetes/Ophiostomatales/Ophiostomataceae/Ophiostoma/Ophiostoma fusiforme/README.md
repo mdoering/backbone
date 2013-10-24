@@ -1,5 +1,4 @@
-Ophiostoma fusiforme Aghayeva & M.J. Wingf. SPECIES
-=======
+# Ophiostoma fusiforme Aghayeva & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis subtigrinella (Dennis) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis subtigrinella (Dennis) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

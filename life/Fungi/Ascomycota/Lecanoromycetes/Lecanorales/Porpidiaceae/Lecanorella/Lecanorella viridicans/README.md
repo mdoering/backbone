@@ -1,5 +1,4 @@
-Lecanorella viridicans (Nyl.) Motyka SPECIES
-=======
+# Lecanorella viridicans (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

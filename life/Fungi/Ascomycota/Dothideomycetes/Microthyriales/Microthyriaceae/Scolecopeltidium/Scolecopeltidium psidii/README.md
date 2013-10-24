@@ -1,5 +1,4 @@
-Scolecopeltidium psidii (Bat.) Bat. SPECIES
-=======
+# Scolecopeltidium psidii (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

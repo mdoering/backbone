@@ -1,5 +1,4 @@
-Phomopsis bicincta Syd. SPECIES
-=======
+# Phomopsis bicincta Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria deformis SPECIES
-=======
+# Verrucaria deformis SPECIES
 
 #### Status
 ACCEPTED

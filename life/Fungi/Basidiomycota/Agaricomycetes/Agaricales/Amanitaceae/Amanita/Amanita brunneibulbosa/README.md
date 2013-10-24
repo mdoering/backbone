@@ -1,5 +1,4 @@
-Amanita brunneibulbosa O.K. Mill. SPECIES
-=======
+# Amanita brunneibulbosa O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

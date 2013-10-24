@@ -1,5 +1,4 @@
-Phaeosphaeria celata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria celata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

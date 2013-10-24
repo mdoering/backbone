@@ -1,5 +1,4 @@
-Lasiosphaeria luticola Feltgen SPECIES
-=======
+# Lasiosphaeria luticola Feltgen SPECIES
 
 #### Status
 ACCEPTED

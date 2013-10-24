@@ -1,5 +1,4 @@
-Lentinus battarrae (Fr.) Fr. SPECIES
-=======
+# Lentinus battarrae (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria sordida A. W. Archer SPECIES
-=======
+# Pertusaria sordida A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

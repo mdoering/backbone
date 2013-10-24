@@ -1,5 +1,4 @@
-Actinoplanes humidus Goodfellow et al., 1990 SPECIES
-=======
+# Actinoplanes humidus Goodfellow et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

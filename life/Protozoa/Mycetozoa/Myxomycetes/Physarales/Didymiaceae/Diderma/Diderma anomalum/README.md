@@ -1,5 +1,4 @@
-Diderma anomalum (Rostaf.) Kuntze SPECIES
-=======
+# Diderma anomalum (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

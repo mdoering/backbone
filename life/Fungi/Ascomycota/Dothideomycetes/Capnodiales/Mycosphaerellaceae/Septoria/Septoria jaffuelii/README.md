@@ -1,17 +1,16 @@
-Septoria jaffueli Speg. SPECIES
-=======
+# Septoria jaffuelii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Soc. Ciencias de Córdoba 25: 106 (1921)
 
 #### Original name
-Septoria jaffueli Speg.
+Septoria jaffuelii Speg.
 
 ### Remarks
 null

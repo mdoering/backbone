@@ -1,5 +1,4 @@
-Opegrapha symbiotica Müll. Arg. SPECIES
-=======
+# Opegrapha symbiotica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya torquabilis Lepsi, 1962 SPECIES
-=======
+# Holophrya torquabilis Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

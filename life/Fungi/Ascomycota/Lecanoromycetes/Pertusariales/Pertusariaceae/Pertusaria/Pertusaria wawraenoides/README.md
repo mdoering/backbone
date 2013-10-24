@@ -1,5 +1,4 @@
-Pertusaria wawraenoides Nyl. SPECIES
-=======
+# Pertusaria wawraenoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

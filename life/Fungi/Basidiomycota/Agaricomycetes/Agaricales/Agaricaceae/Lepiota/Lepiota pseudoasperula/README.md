@@ -1,17 +1,16 @@
-Echinoderma pseudoasperula (Knudsen) Bon SPECIES
-=======
+# Lepiota pseudoasperula (Knudsen) Knudsen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Tidsskr. 75(2-3): 128 (1980)
 
 #### Original name
-Lepiota pseudoasperula (Knudsen) Knudsen, 1980
+Cystolepiota pseudoasperula Knudsen, 1978
 
 ### Remarks
 null

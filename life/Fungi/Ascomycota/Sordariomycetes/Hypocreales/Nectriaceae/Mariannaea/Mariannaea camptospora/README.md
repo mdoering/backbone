@@ -1,5 +1,4 @@
-Mariannaea camptospora Samson, 1974 SPECIES
-=======
+# Mariannaea camptospora Samson, 1974 SPECIES
 
 #### Status
 ACCEPTED

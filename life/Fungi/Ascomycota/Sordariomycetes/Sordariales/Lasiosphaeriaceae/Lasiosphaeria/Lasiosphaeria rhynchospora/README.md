@@ -1,5 +1,4 @@
-Lasiosphaeria rhynchospora Mouton SPECIES
-=======
+# Lasiosphaeria rhynchospora Mouton SPECIES
 
 #### Status
 ACCEPTED

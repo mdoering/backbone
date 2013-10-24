@@ -1,5 +1,4 @@
-Uredo velata Ellis & Everh. SPECIES
-=======
+# Uredo velata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

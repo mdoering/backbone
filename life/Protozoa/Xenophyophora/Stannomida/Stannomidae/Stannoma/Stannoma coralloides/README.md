@@ -1,5 +1,4 @@
-Stannoma coralloides Haeckel, 1889 SPECIES
-=======
+# Stannoma coralloides Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

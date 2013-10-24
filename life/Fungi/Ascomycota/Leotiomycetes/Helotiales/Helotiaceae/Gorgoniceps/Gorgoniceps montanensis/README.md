@@ -1,5 +1,4 @@
-Gorgoniceps montanensis (Kanouse) Seaver SPECIES
-=======
+# Gorgoniceps montanensis (Kanouse) Seaver SPECIES
 
 #### Status
 ACCEPTED

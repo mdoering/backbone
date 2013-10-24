@@ -1,5 +1,4 @@
-Trichoderma asperellum Samuels, Lieckf. & Nirenberg, 1999 SPECIES
-=======
+# Trichoderma asperellum Samuels, Lieckf. & Nirenberg, 1999 SPECIES
 
 #### Status
 ACCEPTED

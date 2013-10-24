@@ -1,5 +1,4 @@
-Didinium commune SPECIES
-=======
+# Didinium commune SPECIES
 
 #### Status
 ACCEPTED

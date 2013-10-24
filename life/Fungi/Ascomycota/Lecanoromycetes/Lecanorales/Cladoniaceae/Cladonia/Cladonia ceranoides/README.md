@@ -1,5 +1,4 @@
-Cladonia ceranoides SPECIES
-=======
+# Cladonia ceranoides SPECIES
 
 #### Status
 ACCEPTED

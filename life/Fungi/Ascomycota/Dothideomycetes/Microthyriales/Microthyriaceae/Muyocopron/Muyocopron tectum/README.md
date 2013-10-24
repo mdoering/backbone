@@ -1,5 +1,4 @@
-Muyocopron tectum (G. Winter) Arx & E. Müll. SPECIES
-=======
+# Muyocopron tectum (G. Winter) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

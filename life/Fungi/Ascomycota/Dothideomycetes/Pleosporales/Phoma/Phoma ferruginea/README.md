@@ -1,5 +1,4 @@
-Phoma ferruginea Sacc. SPECIES
-=======
+# Phoma ferruginea Sacc. SPECIES
 
 #### Status
 ACCEPTED

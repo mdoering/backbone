@@ -1,5 +1,4 @@
-Pseudocyphellaria burkholderi C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria burkholderi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

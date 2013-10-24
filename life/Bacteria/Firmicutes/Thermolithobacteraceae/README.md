@@ -1,5 +1,4 @@
-Thermolithobacteraceae FAMILY
-=======
+# Thermolithobacteraceae FAMILY
 
 #### Status
 ACCEPTED

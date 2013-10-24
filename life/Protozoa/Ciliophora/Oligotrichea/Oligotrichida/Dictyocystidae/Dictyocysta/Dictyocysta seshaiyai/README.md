@@ -1,5 +1,4 @@
-Dictyocysta seshaiyai Krishnamurthy & Santhanam, 1975 SPECIES
-=======
+# Dictyocysta seshaiyai Krishnamurthy & Santhanam, 1975 SPECIES
 
 #### Status
 ACCEPTED

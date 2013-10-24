@@ -1,5 +1,4 @@
-Septoria comari Lasch SPECIES
-=======
+# Septoria comari Lasch SPECIES
 
 #### Status
 ACCEPTED

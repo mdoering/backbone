@@ -1,5 +1,4 @@
-Megaporus Feng, 2006 GENUS
-=======
+# Megaporus Feng, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plummerella Brönnimann, 1952 GENUS
-=======
+# Plummerita Brönnimann, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Amer. Paleont. , 34, (140), 37.
+Contr. Cushman Fdn, 3, 146.
 
 #### Original name
-null
+Plummerella Brönnimann, 1952
 
 ### Remarks
 null

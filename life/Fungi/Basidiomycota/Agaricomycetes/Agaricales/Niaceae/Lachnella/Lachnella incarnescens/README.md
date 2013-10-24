@@ -1,5 +1,4 @@
-Lachnella incarnescens (Schwein.) Sacc. SPECIES
-=======
+# Lachnella incarnescens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

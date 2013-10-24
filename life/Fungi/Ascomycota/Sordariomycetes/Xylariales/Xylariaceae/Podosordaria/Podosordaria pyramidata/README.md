@@ -1,5 +1,4 @@
-Podosordaria pyramidata (Berk.) P.M.D. Martin SPECIES
-=======
+# Podosordaria pyramidata (Berk.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

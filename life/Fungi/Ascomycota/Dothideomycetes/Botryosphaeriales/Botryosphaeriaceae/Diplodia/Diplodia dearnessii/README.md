@@ -1,5 +1,4 @@
-Diplodia dearnessii Ellis & Everh. SPECIES
-=======
+# Diplodia dearnessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhodophyllus haastii (G. Stev.) E. Horak, 1980 SPECIES
-=======
+# Entoloma haastii G. Stev., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Criptogámica de Tierra del Fuego 11(6): 96 (1980)
+Kew Bull. 16(2): 229 (1962)
 
 #### Original name
 Entoloma haastii G. Stev., 1962

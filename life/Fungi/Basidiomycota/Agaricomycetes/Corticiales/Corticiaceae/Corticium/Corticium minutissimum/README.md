@@ -1,5 +1,4 @@
-Corticium minutissimum Höhn. & Litsch. SPECIES
-=======
+# Corticium minutissimum Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

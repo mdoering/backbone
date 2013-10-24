@@ -1,5 +1,4 @@
-Tetraspongoactinia GENUS
-=======
+# Tetraspongoactinia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azpeitia Peragallo GENUS
-=======
+# Azpeitia Peragallo GENUS
 
 #### Status
 ACCEPTED

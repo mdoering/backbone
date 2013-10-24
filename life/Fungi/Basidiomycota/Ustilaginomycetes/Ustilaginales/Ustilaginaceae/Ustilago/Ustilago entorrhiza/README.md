@@ -1,5 +1,4 @@
-Ustilago entorrhiza J. Schröt. SPECIES
-=======
+# Ustilago entorrhiza J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

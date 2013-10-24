@@ -1,5 +1,4 @@
-Alternaria centaureae E.G. Simmons SPECIES
-=======
+# Alternaria centaureae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

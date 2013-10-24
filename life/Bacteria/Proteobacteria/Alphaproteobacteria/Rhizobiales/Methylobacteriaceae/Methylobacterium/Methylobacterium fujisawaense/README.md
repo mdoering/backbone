@@ -1,5 +1,4 @@
-Methylobacterium fujisawaense Green et al., 1988 SPECIES
-=======
+# Methylobacterium fujisawaense Green et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

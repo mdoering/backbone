@@ -1,5 +1,4 @@
-Phaeographina schmidtii (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina schmidtii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

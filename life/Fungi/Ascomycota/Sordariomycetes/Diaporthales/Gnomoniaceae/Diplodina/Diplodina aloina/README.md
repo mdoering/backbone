@@ -1,5 +1,4 @@
-Diplodina aloina S. Ahmad & Arshad SPECIES
-=======
+# Diplodina aloina S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

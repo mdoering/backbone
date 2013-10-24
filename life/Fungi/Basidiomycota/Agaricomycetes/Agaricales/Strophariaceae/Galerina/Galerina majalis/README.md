@@ -1,5 +1,4 @@
-Galerina majalis Singer SPECIES
-=======
+# Galerina majalis Singer SPECIES
 
 #### Status
 ACCEPTED

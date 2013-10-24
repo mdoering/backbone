@@ -1,5 +1,4 @@
-Peziza spraguei Berk. & M.A. Curtis SPECIES
-=======
+# Peziza spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

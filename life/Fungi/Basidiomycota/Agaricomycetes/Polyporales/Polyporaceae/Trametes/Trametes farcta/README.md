@@ -1,5 +1,4 @@
-Trametes farcta Lloyd SPECIES
-=======
+# Trametes farcta Lloyd SPECIES
 
 #### Status
 ACCEPTED

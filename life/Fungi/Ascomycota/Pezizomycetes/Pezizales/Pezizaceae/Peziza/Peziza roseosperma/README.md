@@ -1,5 +1,4 @@
-Peziza roseosperma Jamoni & Bolognini SPECIES
-=======
+# Peziza roseosperma Jamoni & Bolognini SPECIES
 
 #### Status
 ACCEPTED

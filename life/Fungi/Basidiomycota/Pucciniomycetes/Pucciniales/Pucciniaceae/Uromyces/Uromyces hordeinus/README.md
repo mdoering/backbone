@@ -1,5 +1,4 @@
-Uromyces hordeinus (Arthur) Barthol. SPECIES
-=======
+# Uromyces hordeinus (Arthur) Barthol. SPECIES
 
 #### Status
 ACCEPTED

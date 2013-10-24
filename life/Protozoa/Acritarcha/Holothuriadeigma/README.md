@@ -1,5 +1,4 @@
-Holothuriadeigma A.R. Loeblich Jr., 1970 GENUS
-=======
+# Holothuriadeigma A.R. Loeblich Jr., 1970 GENUS
 
 #### Status
 ACCEPTED

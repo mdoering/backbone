@@ -1,5 +1,4 @@
-Asterina reclinata Syd. SPECIES
-=======
+# Asterina reclinata Syd. SPECIES
 
 #### Status
 ACCEPTED

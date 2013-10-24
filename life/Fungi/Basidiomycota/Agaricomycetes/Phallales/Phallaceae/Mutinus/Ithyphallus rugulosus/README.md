@@ -1,5 +1,4 @@
-Ithyphallus rugulosus E. Fisch. SPECIES
-=======
+# Ithyphallus rugulosus E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

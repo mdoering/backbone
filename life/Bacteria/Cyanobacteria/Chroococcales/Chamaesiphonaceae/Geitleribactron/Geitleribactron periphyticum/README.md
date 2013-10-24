@@ -1,5 +1,4 @@
-Geitleribactron periphyticum Komárek SPECIES
-=======
+# Geitleribactron periphyticum Komárek SPECIES
 
 #### Status
 ACCEPTED

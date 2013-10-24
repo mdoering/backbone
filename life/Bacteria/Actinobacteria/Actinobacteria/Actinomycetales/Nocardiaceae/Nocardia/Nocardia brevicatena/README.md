@@ -1,8 +1,7 @@
-Micropolyspora brevicatena Lechevalier et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Nocardia brevicatena (Lechevalier et al., 1961) Goodfellow & Pirouz, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

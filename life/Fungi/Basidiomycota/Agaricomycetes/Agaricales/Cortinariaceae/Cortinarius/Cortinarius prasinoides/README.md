@@ -1,5 +1,4 @@
-Cortinarius prasinoides Moënne-Locc., Reumaux & Fern. Sas. SPECIES
-=======
+# Cortinarius prasinoides Moënne-Locc., Reumaux & Fern. Sas. SPECIES
 
 #### Status
 ACCEPTED

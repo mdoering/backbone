@@ -1,5 +1,4 @@
-Alaria nana Schrader SPECIES
-=======
+# Alaria nana Schrader SPECIES
 
 #### Status
 ACCEPTED

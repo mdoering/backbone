@@ -1,5 +1,4 @@
-Verrucaria septemseptata Kremp. SPECIES
-=======
+# Verrucaria septemseptata Kremp. SPECIES
 
 #### Status
 ACCEPTED

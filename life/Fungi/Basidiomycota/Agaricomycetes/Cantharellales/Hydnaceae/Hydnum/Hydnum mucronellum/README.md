@@ -1,5 +1,4 @@
-Hydnum mucronellum anon. SPECIES
-=======
+# Hydnum mucronellum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Euuvigerina akitaensis (Asano, 1950) SPECIES
-=======
+# Uvigerina akitaensis Asano, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Stictina kunthii (Hook. f.) Nyl. SPECIES
-=======
+# Stictina kunthii (Hook. f.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

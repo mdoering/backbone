@@ -1,5 +1,4 @@
-Uredo cundinamarcensis Mayor SPECIES
-=======
+# Uredo cundinamarcensis Mayor SPECIES
 
 #### Status
 ACCEPTED

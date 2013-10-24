@@ -1,5 +1,4 @@
-Thauera selenatis Macy et al., 1993 SPECIES
-=======
+# Thauera selenatis Macy et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtrichophyton denticulatum (Sabour.) Neveu-Lem. SPECIES
-=======
+# Microtrichophyton denticulatum (Sabour.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

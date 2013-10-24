@@ -1,5 +1,4 @@
-Lepiota brunneotabacina A.B. Pereira SPECIES
-=======
+# Lepiota brunneotabacina A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

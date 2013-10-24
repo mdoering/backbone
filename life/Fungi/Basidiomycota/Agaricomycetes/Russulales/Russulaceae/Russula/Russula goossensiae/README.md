@@ -1,5 +1,4 @@
-Russula goossensiae Beeli SPECIES
-=======
+# Russula goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

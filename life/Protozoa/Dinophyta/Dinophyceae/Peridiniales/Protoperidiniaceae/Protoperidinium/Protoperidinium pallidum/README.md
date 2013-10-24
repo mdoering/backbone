@@ -1,5 +1,4 @@
-Protoperidinium pallidum (Ostenfeld) Balech SPECIES
-=======
+# Protoperidinium pallidum (Ostenfeld) Balech SPECIES
 
 #### Status
 ACCEPTED

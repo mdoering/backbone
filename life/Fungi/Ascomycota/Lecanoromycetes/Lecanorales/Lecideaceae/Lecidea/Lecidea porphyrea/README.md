@@ -1,5 +1,4 @@
-Lecidea porphyrea Meyen SPECIES
-=======
+# Lecidea porphyrea Meyen SPECIES
 
 #### Status
 ACCEPTED

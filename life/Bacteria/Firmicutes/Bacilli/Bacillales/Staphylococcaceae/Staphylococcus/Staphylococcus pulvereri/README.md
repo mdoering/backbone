@@ -1,5 +1,4 @@
-Staphylococcus pulvereri Zakrzewska-Czerwinska et al., 1995 SPECIES
-=======
+# Staphylococcus pulvereri Zakrzewska-Czerwinska et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

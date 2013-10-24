@@ -1,8 +1,7 @@
-Sporonema quercicolum C. Massal. SPECIES
-=======
+# Sporonema quercicola C. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporonema quercicolum C. Massal.
+Sporonema quercicola C. Massal.
 
 ### Remarks
 null

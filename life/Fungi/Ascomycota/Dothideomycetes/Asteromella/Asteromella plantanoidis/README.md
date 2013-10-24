@@ -1,5 +1,4 @@
-Asteromella plantanoidis (Sacc.) Petr. SPECIES
-=======
+# Asteromella plantanoidis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

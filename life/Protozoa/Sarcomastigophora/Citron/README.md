@@ -1,5 +1,4 @@
-Citron Medioli, Scott, Collins & Wall, 1990 GENUS
-=======
+# Citron Medioli, Scott, Collins & Wall, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta cenchricola Speg. SPECIES
-=======
+# Ascochyta cenchricola Speg. SPECIES
 
 #### Status
 ACCEPTED

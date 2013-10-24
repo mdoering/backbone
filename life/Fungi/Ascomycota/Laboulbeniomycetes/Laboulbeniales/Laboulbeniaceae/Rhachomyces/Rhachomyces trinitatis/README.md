@@ -1,5 +1,4 @@
-Rhachomyces trinitatis Thaxt. SPECIES
-=======
+# Rhachomyces trinitatis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

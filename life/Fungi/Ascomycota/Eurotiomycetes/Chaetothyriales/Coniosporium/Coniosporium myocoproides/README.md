@@ -1,5 +1,4 @@
-Coniosporium myocoproides Speg. SPECIES
-=======
+# Coniosporium myocoproides Speg. SPECIES
 
 #### Status
 ACCEPTED

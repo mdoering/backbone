@@ -1,5 +1,4 @@
-Rhinodinomyces GENUS
-=======
+# Rhinodinomyces GENUS
 
 #### Status
 ACCEPTED

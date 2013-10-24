@@ -1,5 +1,4 @@
-Sporidesmium cavernarum Laubert SPECIES
-=======
+# Sporidesmium cavernarum Laubert SPECIES
 
 #### Status
 ACCEPTED

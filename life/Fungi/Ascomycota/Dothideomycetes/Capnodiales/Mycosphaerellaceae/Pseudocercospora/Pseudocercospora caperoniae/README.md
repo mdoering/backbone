@@ -1,5 +1,4 @@
-Pseudocercospora caperoniae (L.S. Olive) Deighton SPECIES
-=======
+# Pseudocercospora caperoniae (L.S. Olive) Deighton SPECIES
 
 #### Status
 ACCEPTED

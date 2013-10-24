@@ -1,5 +1,4 @@
-Galerina leptocystis V.L. Wells & Kempton SPECIES
-=======
+# Galerina leptocystis V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

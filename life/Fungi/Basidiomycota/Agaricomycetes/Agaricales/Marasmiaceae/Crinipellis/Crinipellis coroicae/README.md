@@ -1,5 +1,4 @@
-Crinipellis coroicae Singer SPECIES
-=======
+# Crinipellis coroicae Singer SPECIES
 
 #### Status
 ACCEPTED

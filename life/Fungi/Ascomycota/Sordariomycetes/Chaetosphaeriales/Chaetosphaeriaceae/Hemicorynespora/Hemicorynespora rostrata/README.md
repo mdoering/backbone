@@ -1,5 +1,4 @@
-Hemicorynespora rostrata Mercado, Heredia & J. Mena SPECIES
-=======
+# Hemicorynespora rostrata Mercado, Heredia & J. Mena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina velutinoaffinis (Singer) E. Horak SPECIES
-=======
+# Galerina velutinoaffinis (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophorus ohlssonii Wedin SPECIES
-=======
+# Sphaerophorus ohlssonii Wedin SPECIES
 
 #### Status
 ACCEPTED

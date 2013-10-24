@@ -1,5 +1,4 @@
-Puccinia vaga H.S. Jacks. SPECIES
-=======
+# Puccinia vaga H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

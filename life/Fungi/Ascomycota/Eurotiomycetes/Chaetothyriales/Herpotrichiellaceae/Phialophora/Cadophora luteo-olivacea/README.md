@@ -1,14 +1,13 @@
-Phialophora luteo-olivacea J.F.H. Beyma, 1940 SPECIES
-=======
+# Cadophora luteo-olivacea (J.F.H. Beyma) T.C. Harr. & McNew, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 6: 281 (1939)
+Mycotaxon 87: 147 (2003)
 
 #### Original name
 Phialophora luteo-olivacea J.F.H. Beyma, 1940

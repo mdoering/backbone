@@ -1,5 +1,4 @@
-Graphium Corda, 1837 GENUS
-=======
+# Graphium Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sokotina Haynes & Nwabufo-Ene, 1998 GENUS
-=======
+# Sokotina Haynes & Nwabufo-Ene, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerocista cernua Preuss SPECIES
-=======
+# Sphaerocista cernua Preuss SPECIES
 
 #### Status
 ACCEPTED

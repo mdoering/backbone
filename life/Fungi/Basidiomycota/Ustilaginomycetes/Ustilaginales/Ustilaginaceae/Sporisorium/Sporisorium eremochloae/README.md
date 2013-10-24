@@ -1,5 +1,4 @@
-Sporisorium eremochloae (L. Ling) Vánky SPECIES
-=======
+# Sporisorium eremochloae (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

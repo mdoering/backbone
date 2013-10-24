@@ -1,5 +1,4 @@
-Cordyceps lacroixii Har. & Pat. SPECIES
-=======
+# Cordyceps lacroixii Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

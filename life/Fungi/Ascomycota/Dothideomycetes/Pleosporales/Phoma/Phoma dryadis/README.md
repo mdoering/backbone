@@ -1,5 +1,4 @@
-Phoma dryadis Allesch. SPECIES
-=======
+# Phoma dryadis Allesch. SPECIES
 
 #### Status
 ACCEPTED

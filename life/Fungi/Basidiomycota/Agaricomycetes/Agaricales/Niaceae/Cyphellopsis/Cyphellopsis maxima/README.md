@@ -1,5 +1,4 @@
-Cyphellopsis maxima (Massee) Donk SPECIES
-=======
+# Cyphellopsis maxima (Massee) Donk SPECIES
 
 #### Status
 ACCEPTED

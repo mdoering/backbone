@@ -1,5 +1,4 @@
-Asteridium peribebuyensis Speg. SPECIES
-=======
+# Asteridium peribebuyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

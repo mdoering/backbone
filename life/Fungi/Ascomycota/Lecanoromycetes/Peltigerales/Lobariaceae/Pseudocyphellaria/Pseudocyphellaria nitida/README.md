@@ -1,5 +1,4 @@
-Pseudocyphellaria nitida var. nitida VARIETY
-=======
+# Pseudocyphellaria nitida (Taylor) Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 26 (1899)
 
 #### Original name
-null
+Sticta nitida
 
 ### Remarks
 null

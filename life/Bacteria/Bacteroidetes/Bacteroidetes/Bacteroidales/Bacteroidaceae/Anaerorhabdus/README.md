@@ -1,5 +1,4 @@
-Anaerorhabdus Shah & Collins, 1986 GENUS
-=======
+# Anaerorhabdus Shah & Collins, 1986 GENUS
 
 #### Status
 ACCEPTED

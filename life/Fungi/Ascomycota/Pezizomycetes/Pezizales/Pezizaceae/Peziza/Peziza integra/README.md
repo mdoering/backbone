@@ -1,5 +1,4 @@
-Peziza integra Schumach. SPECIES
-=======
+# Peziza integra Schumach. SPECIES
 
 #### Status
 ACCEPTED

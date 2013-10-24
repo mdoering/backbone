@@ -1,5 +1,4 @@
-Chiodecton pertricosum (Kremp.) Zahlbr. SPECIES
-=======
+# Chiodecton pertricosum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

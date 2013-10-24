@@ -1,5 +1,4 @@
-Tremella cylindrica var. cylindrica VARIETY
-=======
+# Tremella cylindrica Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tremella cylindrica var. cylindrica
+Tremella cylindrica Pers.
 
 ### Remarks
 null

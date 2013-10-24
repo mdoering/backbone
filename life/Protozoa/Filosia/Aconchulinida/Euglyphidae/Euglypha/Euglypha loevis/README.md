@@ -1,5 +1,4 @@
-Euglypha loevis SPECIES
-=======
+# Euglypha loevis SPECIES
 
 #### Status
 ACCEPTED

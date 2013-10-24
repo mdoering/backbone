@@ -1,5 +1,4 @@
-Gonostomum albicarpathicum Vdacny & Tirjakova, 2006 SPECIES
-=======
+# Gonostomum albicarpathicum Vdacny & Tirjakova, 2006 SPECIES
 
 #### Status
 ACCEPTED

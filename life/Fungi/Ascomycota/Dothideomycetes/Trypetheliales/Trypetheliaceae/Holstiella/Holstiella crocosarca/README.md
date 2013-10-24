@@ -1,5 +1,4 @@
-Holstiella crocosarca (Berk. & Broome) Wehm. SPECIES
-=======
+# Holstiella crocosarca (Berk. & Broome) Wehm. SPECIES
 
 #### Status
 ACCEPTED

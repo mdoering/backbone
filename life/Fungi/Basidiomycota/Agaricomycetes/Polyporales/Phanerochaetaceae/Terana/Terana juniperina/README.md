@@ -1,5 +1,4 @@
-Terana juniperina (Weinm.) Kuntze SPECIES
-=======
+# Terana juniperina (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

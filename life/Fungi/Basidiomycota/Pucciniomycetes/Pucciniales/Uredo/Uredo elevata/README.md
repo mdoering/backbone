@@ -1,5 +1,4 @@
-Uredo elevata Schumach. SPECIES
-=======
+# Uredo elevata Schumach. SPECIES
 
 #### Status
 ACCEPTED

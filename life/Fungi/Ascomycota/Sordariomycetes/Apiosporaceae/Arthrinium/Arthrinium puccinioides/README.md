@@ -1,14 +1,13 @@
-Gonatosporium puccinioides (Kunze & J.C. Schmidt) Corda, 1839 SPECIES
-=======
+# Arthrinium puccinioides Kunze & J.C. Schmidt, 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 3: 8 (1839)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 103 (1823)
 
 #### Original name
 Arthrinium puccinioides Kunze & J.C. Schmidt, 1823

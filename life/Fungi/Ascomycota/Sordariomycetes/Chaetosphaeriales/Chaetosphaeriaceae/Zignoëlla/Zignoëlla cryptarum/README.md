@@ -1,5 +1,4 @@
-Zignoëlla cryptarum (Fuckel) Sacc. SPECIES
-=======
+# Zignoëlla cryptarum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

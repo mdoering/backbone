@@ -1,5 +1,4 @@
-Stachybotrys sphaerospora Morgan-Jones & R.C. Sinclair SPECIES
-=======
+# Stachybotrys sphaerospora Morgan-Jones & R.C. Sinclair SPECIES
 
 #### Status
 ACCEPTED

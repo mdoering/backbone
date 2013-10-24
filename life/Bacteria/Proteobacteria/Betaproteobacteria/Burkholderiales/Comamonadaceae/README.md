@@ -1,5 +1,4 @@
-Comamonadaceae FAMILY
-=======
+# Comamonadaceae FAMILY
 
 #### Status
 ACCEPTED

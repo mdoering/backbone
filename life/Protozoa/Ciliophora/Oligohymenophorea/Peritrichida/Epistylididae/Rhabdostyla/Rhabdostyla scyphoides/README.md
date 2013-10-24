@@ -1,5 +1,4 @@
-Rhabdostyla scyphoides Song, 1986 SPECIES
-=======
+# Rhabdostyla scyphoides Song, 1986 SPECIES
 
 #### Status
 ACCEPTED

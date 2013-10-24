@@ -1,5 +1,4 @@
-Ocellularia decolorata Hale SPECIES
-=======
+# Ocellularia decolorata Hale SPECIES
 
 #### Status
 ACCEPTED

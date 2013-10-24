@@ -1,5 +1,4 @@
-Subramaniomyces Varghese & V.G. Rao GENUS
-=======
+# Subramaniomyces Varghese & V.G. Rao GENUS
 
 #### Status
 ACCEPTED

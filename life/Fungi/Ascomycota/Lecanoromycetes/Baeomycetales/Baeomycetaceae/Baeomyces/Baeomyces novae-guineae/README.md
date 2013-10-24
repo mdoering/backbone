@@ -1,5 +1,4 @@
-Baeomyces novae-guineae M. Satô SPECIES
-=======
+# Baeomyces novae-guineae M. Satô SPECIES
 
 #### Status
 ACCEPTED

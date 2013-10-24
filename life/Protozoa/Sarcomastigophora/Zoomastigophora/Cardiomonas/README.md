@@ -1,5 +1,4 @@
-Cardiomonas Schiller, 1954 GENUS
-=======
+# Cardiomonas Schiller, 1954 GENUS
 
 #### Status
 ACCEPTED

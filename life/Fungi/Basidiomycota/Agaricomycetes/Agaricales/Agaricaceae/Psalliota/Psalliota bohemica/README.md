@@ -1,5 +1,4 @@
-Psalliota bohemica Bene SPECIES
-=======
+# Psalliota bohemica Bene SPECIES
 
 #### Status
 ACCEPTED

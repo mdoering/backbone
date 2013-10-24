@@ -1,5 +1,4 @@
-Pilosace ocreatus (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace ocreatus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

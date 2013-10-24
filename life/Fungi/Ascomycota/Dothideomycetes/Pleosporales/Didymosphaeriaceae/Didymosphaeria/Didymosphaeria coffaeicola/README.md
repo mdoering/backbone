@@ -1,5 +1,4 @@
-Didymosphaeria coffaeicola Speg. SPECIES
-=======
+# Didymosphaeria coffaeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocineta siedleckii Jarocki, 1935 SPECIES
-=======
+# Heterocineta siedleckii Jarocki, 1935 SPECIES
 
 #### Status
 ACCEPTED

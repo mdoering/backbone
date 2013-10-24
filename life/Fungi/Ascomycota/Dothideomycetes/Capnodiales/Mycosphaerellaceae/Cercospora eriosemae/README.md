@@ -1,5 +1,4 @@
-Cercospora eriosemae Hansf. SPECIES
-=======
+# Cercospora eriosemae Hansf. SPECIES
 
 #### Status
 ACCEPTED

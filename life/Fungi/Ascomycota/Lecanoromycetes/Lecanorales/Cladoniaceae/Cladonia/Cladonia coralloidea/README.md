@@ -1,5 +1,4 @@
-Cladonia coralloidea Th. Fr. SPECIES
-=======
+# Cladonia coralloidea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

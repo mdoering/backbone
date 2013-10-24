@@ -1,5 +1,4 @@
-Caloplaca cypheliiformis (Cromb.) Zahlbr. SPECIES
-=======
+# Caloplaca cypheliiformis (Cromb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

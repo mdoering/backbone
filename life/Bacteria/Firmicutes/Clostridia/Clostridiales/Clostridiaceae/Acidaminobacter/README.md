@@ -1,5 +1,4 @@
-Acidaminobacter Stams & Hansen, 1985 GENUS
-=======
+# Acidaminobacter Stams & Hansen, 1985 GENUS
 
 #### Status
 ACCEPTED

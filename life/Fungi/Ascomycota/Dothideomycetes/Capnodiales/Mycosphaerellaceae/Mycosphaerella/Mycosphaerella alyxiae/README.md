@@ -1,5 +1,4 @@
-Mycosphaerella alyxiae Petr. SPECIES
-=======
+# Mycosphaerella alyxiae Petr. SPECIES
 
 #### Status
 ACCEPTED

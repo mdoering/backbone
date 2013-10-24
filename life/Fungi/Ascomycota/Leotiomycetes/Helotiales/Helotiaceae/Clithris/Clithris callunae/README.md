@@ -1,5 +1,4 @@
-Clithris callunae (Rehm) Sacc. SPECIES
-=======
+# Clithris callunae (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliscolithus R.E.Norris, 1985 GENUS
-=======
+# Gliscolithus R.E.Norris, 1985 GENUS
 
 #### Status
 ACCEPTED

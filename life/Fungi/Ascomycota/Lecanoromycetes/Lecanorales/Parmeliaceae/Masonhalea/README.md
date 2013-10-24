@@ -1,5 +1,4 @@
-Masonhalea Kärnefelt GENUS
-=======
+# Masonhalea Kärnefelt GENUS
 
 #### Status
 ACCEPTED

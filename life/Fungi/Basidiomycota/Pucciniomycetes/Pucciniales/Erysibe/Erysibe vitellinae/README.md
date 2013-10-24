@@ -1,5 +1,4 @@
-Erysibe vitellinae Wallr. SPECIES
-=======
+# Erysibe vitellinae Wallr. SPECIES
 
 #### Status
 ACCEPTED

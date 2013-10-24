@@ -1,5 +1,4 @@
-Rhytidiella baranyayi A. Funk & Zalasky, 1975 SPECIES
-=======
+# Rhytidiella baranyayi A. Funk & Zalasky, 1975 SPECIES
 
 #### Status
 ACCEPTED

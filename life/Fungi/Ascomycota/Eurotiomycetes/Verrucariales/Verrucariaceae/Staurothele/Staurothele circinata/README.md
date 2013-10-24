@@ -1,5 +1,4 @@
-Staurothele circinata Tuck. SPECIES
-=======
+# Staurothele circinata Tuck. SPECIES
 
 #### Status
 ACCEPTED

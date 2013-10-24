@@ -1,5 +1,4 @@
-Septoria argyraea Sacc. SPECIES
-=======
+# Septoria argyraea Sacc. SPECIES
 
 #### Status
 ACCEPTED

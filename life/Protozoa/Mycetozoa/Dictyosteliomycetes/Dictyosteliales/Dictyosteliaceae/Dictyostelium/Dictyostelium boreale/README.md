@@ -1,5 +1,4 @@
-Dictyostelium boreale Romeralo, J. C. Landolt, Cavender, Laursen & S. Baldauf, 2010 SPECIES
-=======
+# Dictyostelium boreale Romeralo, J. C. Landolt, Cavender, Laursen & S. Baldauf, 2010 SPECIES
 
 #### Status
 ACCEPTED

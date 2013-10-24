@@ -1,5 +1,4 @@
-Stictochorella vogelii A. Henkel SPECIES
-=======
+# Stictochorella vogelii A. Henkel SPECIES
 
 #### Status
 ACCEPTED

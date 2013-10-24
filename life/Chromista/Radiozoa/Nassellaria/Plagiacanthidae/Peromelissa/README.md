@@ -1,5 +1,4 @@
-Peromelissa Haeckel, 1881 GENUS
-=======
+# Peromelissa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

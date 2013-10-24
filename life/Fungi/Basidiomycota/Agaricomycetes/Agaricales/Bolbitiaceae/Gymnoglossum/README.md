@@ -1,5 +1,4 @@
-Gymnoglossum Massee GENUS
-=======
+# Gymnoglossum Massee GENUS
 
 #### Status
 ACCEPTED

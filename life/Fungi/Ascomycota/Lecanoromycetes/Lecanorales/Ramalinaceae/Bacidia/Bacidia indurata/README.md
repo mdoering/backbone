@@ -1,5 +1,4 @@
-Bacidia indurata Zahlbr. SPECIES
-=======
+# Bacidia indurata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

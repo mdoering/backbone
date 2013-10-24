@@ -1,5 +1,4 @@
-Fractoricoronula G.K. Colbath, 1979 GENUS
-=======
+# Fractoricoronula G.K. Colbath, 1979 GENUS
 
 #### Status
 ACCEPTED

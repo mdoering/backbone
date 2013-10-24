@@ -1,5 +1,4 @@
-Omphalina infumata Singer SPECIES
-=======
+# Omphalina infumata Singer SPECIES
 
 #### Status
 ACCEPTED

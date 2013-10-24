@@ -1,17 +1,16 @@
-Lenzitella malenconii Ryvarden, 1991 SPECIES
-=======
+# Lenzitopsis oxycedri Malençon & Bertault, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 5: 174 (1991)
+Bull. trimest. Soc. mycol. Fr. 79: 82 (1963)
 
 #### Original name
-Lenzitella malenconii Ryvarden, 1991
+Lenzitopsis oxycedri Malençon & Bertault, 1963
 
 ### Remarks
 null

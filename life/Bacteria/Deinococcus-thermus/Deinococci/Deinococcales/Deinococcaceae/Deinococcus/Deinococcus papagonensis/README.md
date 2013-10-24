@@ -1,5 +1,4 @@
-Deinococcus papagonensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus papagonensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium laciniatum Fr. SPECIES
-=======
+# Phacidium laciniatum Fr. SPECIES
 
 #### Status
 ACCEPTED

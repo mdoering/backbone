@@ -1,5 +1,4 @@
-Aspergillus mycetomi-villabruzzii Gelonesi SPECIES
-=======
+# Aspergillus mycetomi-villabruzzii Gelonesi SPECIES
 
 #### Status
 ACCEPTED

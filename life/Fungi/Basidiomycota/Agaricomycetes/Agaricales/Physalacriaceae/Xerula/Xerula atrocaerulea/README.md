@@ -1,5 +1,4 @@
-Xerula atrocaerulea R.H. Petersen & N. Bougher SPECIES
-=======
+# Xerula atrocaerulea R.H. Petersen & N. Bougher SPECIES
 
 #### Status
 ACCEPTED

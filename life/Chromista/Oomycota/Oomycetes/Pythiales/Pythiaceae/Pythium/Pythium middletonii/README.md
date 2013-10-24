@@ -1,17 +1,16 @@
-Pythium proliferum Schenk, 1859 SPECIES
-=======
+# Pythium middletonii Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. Phys. -Med. Ges. Würzburg 9: 20 (1859)
+Aquatic Phycomycetes (Ann Arbor), Edn 2 1038 (1960)
 
 #### Original name
-Pythium proliferum Schenk, 1859
+Pythium middletonii Sparrow, 1960
 
 ### Remarks
 null

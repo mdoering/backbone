@@ -1,5 +1,4 @@
-Baltisphaeridium lasium Rasul, 1979 SPECIES
-=======
+# Baltisphaeridium lasium Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

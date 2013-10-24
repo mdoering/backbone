@@ -1,5 +1,4 @@
-Phyllachora vernicosa var. vernicosa VARIETY
-=======
+# Phyllachora vernicosa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. La Plata 15: 26 (1908)
+null
 
 #### Original name
-Phyllachora vernicosa var. vernicosa
+null
 
 ### Remarks
 null

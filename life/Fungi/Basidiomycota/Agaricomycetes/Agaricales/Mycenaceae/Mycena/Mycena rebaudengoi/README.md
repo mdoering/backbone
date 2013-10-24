@@ -1,17 +1,16 @@
-Mycena rebaudengi Robich SPECIES
-=======
+# Mycena rebaudengoi Robich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Riv. Micol. 43(4): 322 (2001)
 
 #### Original name
-Mycena rebaudengi Robich
+Mycena rebaudengoi Robich
 
 ### Remarks
 null

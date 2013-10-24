@@ -1,17 +1,16 @@
-Lachnea hemisphaerioides var. tenuipilosa Svrcek VARIETY
-=======
+# Trichophaea hemisphaerioides (Mouton) Graddon, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 689 (1960)
 
 #### Original name
-Lachnea hemisphaerioides var. tenuipilosa Svrcek
+Lachnea hemisphaerioides Mouton, 1897
 
 ### Remarks
 null

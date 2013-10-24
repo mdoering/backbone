@@ -1,5 +1,4 @@
-Plicaria graminis Velen. SPECIES
-=======
+# Plicaria graminis Velen. SPECIES
 
 #### Status
 ACCEPTED

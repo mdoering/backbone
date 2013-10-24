@@ -1,5 +1,4 @@
-Massaria berberidicola (G.H. Otth) Jacz. SPECIES
-=======
+# Massaria berberidicola (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

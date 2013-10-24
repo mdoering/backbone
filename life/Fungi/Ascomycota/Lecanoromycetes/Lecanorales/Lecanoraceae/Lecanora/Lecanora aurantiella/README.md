@@ -1,5 +1,4 @@
-Lecanora aurantiella Nyl. SPECIES
-=======
+# Lecanora aurantiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

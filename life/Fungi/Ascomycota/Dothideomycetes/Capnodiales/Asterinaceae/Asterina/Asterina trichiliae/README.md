@@ -1,5 +1,4 @@
-Asterina trichiliae Doidge SPECIES
-=======
+# Asterina trichiliae Doidge SPECIES
 
 #### Status
 ACCEPTED

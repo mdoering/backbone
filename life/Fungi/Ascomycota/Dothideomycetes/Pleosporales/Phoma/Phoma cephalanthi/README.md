@@ -1,5 +1,4 @@
-Phoma cephalanthi Henn. SPECIES
-=======
+# Phoma cephalanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

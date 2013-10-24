@@ -1,5 +1,4 @@
-Cytosporella polymorpha Peyronel SPECIES
-=======
+# Cytosporella polymorpha Peyronel SPECIES
 
 #### Status
 ACCEPTED

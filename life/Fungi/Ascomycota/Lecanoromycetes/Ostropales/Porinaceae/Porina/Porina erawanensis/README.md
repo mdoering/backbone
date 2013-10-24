@@ -1,5 +1,4 @@
-Porina erawanensis P.M. McCarthy & Vongshew. SPECIES
-=======
+# Porina erawanensis P.M. McCarthy & Vongshew. SPECIES
 
 #### Status
 ACCEPTED

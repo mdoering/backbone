@@ -1,5 +1,4 @@
-Dermatea viridis Velen. SPECIES
-=======
+# Dermatea viridis Velen. SPECIES
 
 #### Status
 ACCEPTED

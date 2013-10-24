@@ -1,5 +1,4 @@
-Myriotrema sordidescens (Fée) Kalb SPECIES
-=======
+# Myriotrema sordidescens (Fée) Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton flavovirens Da Veiga SPECIES
-=======
+# Trichophyton flavovirens Da Veiga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinobacillus seminis (ex Baynes & Simmons, 1960) Sneath & Stevens, 1990 SPECIES
-=======
+# Actinobacillus seminis (ex Baynes & Simmons, 1960) Sneath & Stevens, 1990 SPECIES
 
 #### Status
 ACCEPTED

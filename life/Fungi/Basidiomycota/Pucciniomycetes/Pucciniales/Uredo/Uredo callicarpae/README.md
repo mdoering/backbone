@@ -1,5 +1,4 @@
-Uredo callicarpae Petch SPECIES
-=======
+# Uredo callicarpae Petch SPECIES
 
 #### Status
 ACCEPTED

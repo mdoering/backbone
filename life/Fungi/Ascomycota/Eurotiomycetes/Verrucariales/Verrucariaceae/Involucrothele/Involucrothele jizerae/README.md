@@ -1,5 +1,4 @@
-Involucrothele jizerae Servít SPECIES
-=======
+# Involucrothele jizerae Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenostilbe sulphurea Samson & H.C. Evans SPECIES
-=======
+# Hymenostilbe sulphurea Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

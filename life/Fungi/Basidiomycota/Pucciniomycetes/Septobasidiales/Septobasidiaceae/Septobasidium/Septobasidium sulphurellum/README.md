@@ -1,5 +1,4 @@
-Septobasidium sulphurellum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium sulphurellum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

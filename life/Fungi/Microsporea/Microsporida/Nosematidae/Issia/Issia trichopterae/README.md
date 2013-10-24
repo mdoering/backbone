@@ -1,5 +1,4 @@
-Issia trichopterae (J. Weiser) J. Weiser SPECIES
-=======
+# Issia trichopterae (J. Weiser) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

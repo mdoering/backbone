@@ -1,5 +1,4 @@
-Sphaeronaema sorbi Sacc. SPECIES
-=======
+# Sphaeronaema sorbi Sacc. SPECIES
 
 #### Status
 ACCEPTED

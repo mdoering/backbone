@@ -1,5 +1,4 @@
-Meliola permixta Syd. SPECIES
-=======
+# Meliola permixta Syd. SPECIES
 
 #### Status
 ACCEPTED

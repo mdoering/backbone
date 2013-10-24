@@ -1,5 +1,4 @@
-Dothiorella dasycarpi Oudem. SPECIES
-=======
+# Dothiorella dasycarpi Oudem. SPECIES
 
 #### Status
 ACCEPTED

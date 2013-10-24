@@ -1,5 +1,4 @@
-Dactylospora deminuta (Th. Fr.) Triebel SPECIES
-=======
+# Dactylospora deminuta (Th. Fr.) Triebel SPECIES
 
 #### Status
 ACCEPTED

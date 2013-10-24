@@ -1,5 +1,4 @@
-Agaricus crocias Berk. & Broome SPECIES
-=======
+# Agaricus crocias Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

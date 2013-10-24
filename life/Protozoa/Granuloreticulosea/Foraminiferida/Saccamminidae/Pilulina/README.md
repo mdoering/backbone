@@ -1,5 +1,4 @@
-Pilulina Carpenter, 1870 GENUS
-=======
+# Pilulina Carpenter, 1870 GENUS
 
 #### Status
 ACCEPTED

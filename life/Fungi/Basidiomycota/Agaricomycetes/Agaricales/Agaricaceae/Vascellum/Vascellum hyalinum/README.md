@@ -1,5 +1,4 @@
-Vascellum hyalinum Homrich SPECIES
-=======
+# Vascellum hyalinum Homrich SPECIES
 
 #### Status
 ACCEPTED

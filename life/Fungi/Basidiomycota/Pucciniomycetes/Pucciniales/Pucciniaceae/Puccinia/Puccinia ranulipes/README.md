@@ -1,5 +1,4 @@
-Puccinia ranulipes Doidge SPECIES
-=======
+# Puccinia ranulipes Doidge SPECIES
 
 #### Status
 ACCEPTED

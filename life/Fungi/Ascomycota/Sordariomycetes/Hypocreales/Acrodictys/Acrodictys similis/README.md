@@ -1,5 +1,4 @@
-Acrodictys similis Hol.-Jech. SPECIES
-=======
+# Acrodictys similis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

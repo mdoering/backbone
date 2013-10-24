@@ -1,17 +1,16 @@
-Ascostroma Bonord. GENUS
-=======
+# Kretzschmaria E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 272 (1851)
+null
 
 #### Original name
-Ascostroma Bonord.
+null
 
 ### Remarks
 null

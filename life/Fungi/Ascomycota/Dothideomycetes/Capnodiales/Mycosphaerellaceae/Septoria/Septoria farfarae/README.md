@@ -1,5 +1,4 @@
-Septoria farfarae Pass. SPECIES
-=======
+# Septoria farfarae Pass. SPECIES
 
 #### Status
 ACCEPTED

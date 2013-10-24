@@ -1,5 +1,4 @@
-Lindbaldia tubulina Fr. SPECIES
-=======
+# Lindbaldia tubulina Fr. SPECIES
 
 #### Status
 ACCEPTED

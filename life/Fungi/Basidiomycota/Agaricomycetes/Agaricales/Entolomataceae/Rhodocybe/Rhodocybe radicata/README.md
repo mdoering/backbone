@@ -1,5 +1,4 @@
-Rhodocybe radicata (Cleland) E. Horak SPECIES
-=======
+# Rhodocybe radicata (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

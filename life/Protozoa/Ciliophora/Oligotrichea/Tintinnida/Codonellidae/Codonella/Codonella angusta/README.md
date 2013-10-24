@@ -1,5 +1,4 @@
-Codonella angusta Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonella angusta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

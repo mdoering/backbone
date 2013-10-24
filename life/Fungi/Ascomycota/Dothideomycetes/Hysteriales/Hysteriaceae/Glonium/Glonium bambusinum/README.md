@@ -1,5 +1,4 @@
-Glonium bambusinum Syd. SPECIES
-=======
+# Glonium bambusinum Syd. SPECIES
 
 #### Status
 ACCEPTED

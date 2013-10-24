@@ -1,5 +1,4 @@
-Schiffnerula amboinensis (Syd.) Petr. SPECIES
-=======
+# Schiffnerula amboinensis (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

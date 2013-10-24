@@ -1,5 +1,4 @@
-Phaeomarasmius verrucipes E. Horak SPECIES
-=======
+# Phaeomarasmius verrucipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

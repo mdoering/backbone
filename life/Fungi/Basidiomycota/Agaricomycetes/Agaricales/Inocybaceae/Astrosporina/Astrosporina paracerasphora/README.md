@@ -1,5 +1,4 @@
-Astrosporina paracerasphora E. Horak, 1978 SPECIES
-=======
+# Astrosporina paracerasphora E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

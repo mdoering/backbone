@@ -1,5 +1,4 @@
-Hypogymnia beringiana (Krog) McCune SPECIES
-=======
+# Hypogymnia beringiana (Krog) McCune SPECIES
 
 #### Status
 ACCEPTED

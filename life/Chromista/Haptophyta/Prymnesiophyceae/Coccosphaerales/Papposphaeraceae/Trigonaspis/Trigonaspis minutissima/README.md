@@ -1,5 +1,4 @@
-Trigonaspis minutissima Thomsen, 1980 SPECIES
-=======
+# Trigonaspis minutissima Thomsen, 1980 SPECIES
 
 #### Status
 ACCEPTED

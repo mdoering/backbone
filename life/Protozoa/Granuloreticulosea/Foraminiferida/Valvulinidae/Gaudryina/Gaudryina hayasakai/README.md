@@ -1,5 +1,4 @@
-Gaudryina hayasakai Chang SPECIES
-=======
+# Gaudryina hayasakai Chang SPECIES
 
 #### Status
 ACCEPTED

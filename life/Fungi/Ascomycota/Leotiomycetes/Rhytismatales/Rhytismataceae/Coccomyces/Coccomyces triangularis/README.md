@@ -1,14 +1,13 @@
-Colpoma triangulare (Schwein.) Petr., 1958 SPECIES
-=======
+# Coccomyces triangularis (Schwein.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 11: 346 (1958)
+Syll. fung. (Abellini) 8: 750 (1889)
 
 #### Original name
 null

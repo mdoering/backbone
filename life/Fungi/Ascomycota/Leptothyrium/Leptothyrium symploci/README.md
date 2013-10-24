@@ -1,5 +1,4 @@
-Leptothyrium symploci (Cooke) Tassi SPECIES
-=======
+# Leptothyrium symploci (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia capensis Egea & Torrente SPECIES
-=======
+# Arthonia capensis Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

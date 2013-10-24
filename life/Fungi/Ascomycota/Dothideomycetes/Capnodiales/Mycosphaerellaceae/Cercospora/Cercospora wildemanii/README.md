@@ -1,5 +1,4 @@
-Cercospora wildemanii Syd. & P. Syd. SPECIES
-=======
+# Cercospora wildemanii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

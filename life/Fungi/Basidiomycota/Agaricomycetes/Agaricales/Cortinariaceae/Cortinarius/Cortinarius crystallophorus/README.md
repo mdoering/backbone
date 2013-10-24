@@ -1,5 +1,4 @@
-Cortinarius crystallophorus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius crystallophorus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

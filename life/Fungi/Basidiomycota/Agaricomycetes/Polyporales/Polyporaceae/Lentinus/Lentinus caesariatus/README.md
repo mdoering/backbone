@@ -1,5 +1,4 @@
-Lentinus caesariatus Pat. SPECIES
-=======
+# Lentinus caesariatus Pat. SPECIES
 
 #### Status
 ACCEPTED

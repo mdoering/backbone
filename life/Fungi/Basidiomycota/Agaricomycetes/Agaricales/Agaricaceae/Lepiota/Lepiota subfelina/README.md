@@ -1,5 +1,4 @@
-Lepiota subfelina Murrill SPECIES
-=======
+# Lepiota subfelina Murrill SPECIES
 
 #### Status
 ACCEPTED

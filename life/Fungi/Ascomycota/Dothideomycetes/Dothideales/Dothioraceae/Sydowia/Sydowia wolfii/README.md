@@ -1,5 +1,4 @@
-Sydowia wolfii (M.E. Barr) M.E. Barr SPECIES
-=======
+# Sydowia wolfii (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

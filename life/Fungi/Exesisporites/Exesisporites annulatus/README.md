@@ -1,5 +1,4 @@
-Exesisporites annulatus Kalgutkar SPECIES
-=======
+# Exesisporites annulatus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

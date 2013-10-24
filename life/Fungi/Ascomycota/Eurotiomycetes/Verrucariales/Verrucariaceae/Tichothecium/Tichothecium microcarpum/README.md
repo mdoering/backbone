@@ -1,5 +1,4 @@
-Tichothecium microcarpum G. Arnaud SPECIES
-=======
+# Tichothecium microcarpum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia atrocarpa Lücking & Sipman SPECIES
-=======
+# Tricharia atrocarpa Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodiella luteocontexta Ryvarden & de Meijer SPECIES
-=======
+# Antrodiella luteocontexta Ryvarden & de Meijer SPECIES
 
 #### Status
 ACCEPTED

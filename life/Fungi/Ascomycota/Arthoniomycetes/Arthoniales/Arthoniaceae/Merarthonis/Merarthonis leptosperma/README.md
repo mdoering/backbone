@@ -1,5 +1,4 @@
-Merarthonis leptosperma (Müll. Arg.) Clem. SPECIES
-=======
+# Merarthonis leptosperma (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

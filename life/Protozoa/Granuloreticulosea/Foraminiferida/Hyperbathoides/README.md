@@ -1,5 +1,4 @@
-Hyperbathoides Ireland, 1966 GENUS
-=======
+# Hyperbathoides Ireland, 1966 GENUS
 
 #### Status
 ACCEPTED

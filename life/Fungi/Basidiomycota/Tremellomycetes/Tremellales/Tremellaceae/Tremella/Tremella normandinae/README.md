@@ -1,5 +1,4 @@
-Tremella normandinae Diederich, 1996 SPECIES
-=======
+# Tremella normandinae Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

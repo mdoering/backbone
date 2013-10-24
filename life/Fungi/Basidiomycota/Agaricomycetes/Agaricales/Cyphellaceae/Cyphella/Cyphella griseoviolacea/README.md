@@ -1,5 +1,4 @@
-Cyphella griseoviolacea Pilát SPECIES
-=======
+# Cyphella griseoviolacea Pilát SPECIES
 
 #### Status
 ACCEPTED

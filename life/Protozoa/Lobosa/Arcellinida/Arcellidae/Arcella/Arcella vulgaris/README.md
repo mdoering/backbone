@@ -1,5 +1,4 @@
-Arcella vulgaris Ehr. SPECIES
-=======
+# Arcella vulgaris Ehr. SPECIES
 
 #### Status
 ACCEPTED

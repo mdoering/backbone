@@ -1,5 +1,4 @@
-Vibrio mediterranei Pujalte & Garay, 1986 SPECIES
-=======
+# Vibrio mediterranei Pujalte & Garay, 1986 SPECIES
 
 #### Status
 ACCEPTED

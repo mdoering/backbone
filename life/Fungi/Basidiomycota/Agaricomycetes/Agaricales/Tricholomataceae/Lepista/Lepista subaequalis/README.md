@@ -1,17 +1,16 @@
-Boletus subaequalis Britzelm. SPECIES
-=======
+# Lepista subaequalis (Britzelm.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 192 (1951)
 
 #### Original name
-Boletus subaequalis Britzelm.
+Agaricus subaequalis Britzelm., 1893
 
 ### Remarks
 null

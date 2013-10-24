@@ -1,5 +1,4 @@
-Diplodia frumenti Ellis & Everh. SPECIES
-=======
+# Diplodia frumenti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina bignoniae Ellis & Everh. SPECIES
-=======
+# Asterina bignoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

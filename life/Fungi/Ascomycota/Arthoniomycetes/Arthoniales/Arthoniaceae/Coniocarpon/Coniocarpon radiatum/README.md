@@ -1,5 +1,4 @@
-Coniocarpon radiatum A. Massal. SPECIES
-=======
+# Coniocarpon radiatum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

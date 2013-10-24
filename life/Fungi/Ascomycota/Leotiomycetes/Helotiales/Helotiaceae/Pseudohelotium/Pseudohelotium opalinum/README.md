@@ -1,5 +1,4 @@
-Pseudohelotium opalinum (Quél.) Sacc. SPECIES
-=======
+# Pseudohelotium opalinum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

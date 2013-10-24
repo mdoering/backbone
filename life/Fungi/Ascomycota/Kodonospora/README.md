@@ -1,5 +1,4 @@
-Kodonospora K. Ando GENUS
-=======
+# Kodonospora K. Ando GENUS
 
 #### Status
 ACCEPTED

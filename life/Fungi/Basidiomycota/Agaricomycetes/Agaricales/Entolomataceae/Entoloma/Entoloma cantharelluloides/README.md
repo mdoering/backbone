@@ -1,5 +1,4 @@
-Entoloma cantharelluloides (Singer) E. Horak SPECIES
-=======
+# Entoloma cantharelluloides (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

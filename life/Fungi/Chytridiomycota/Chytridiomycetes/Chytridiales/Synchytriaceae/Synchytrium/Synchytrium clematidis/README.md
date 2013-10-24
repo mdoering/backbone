@@ -1,5 +1,4 @@
-Synchytrium clematidis M.T. Cook SPECIES
-=======
+# Synchytrium clematidis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

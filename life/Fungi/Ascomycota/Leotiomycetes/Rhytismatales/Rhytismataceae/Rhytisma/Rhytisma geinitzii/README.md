@@ -1,5 +1,4 @@
-Rhytisma geinitzii Ettingsh. SPECIES
-=======
+# Rhytisma geinitzii Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

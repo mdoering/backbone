@@ -1,5 +1,4 @@
-Didymium wildpretii Mosquera, Estrada, Beltrán-Tej., D. Wrigley & Lado, 2007 SPECIES
-=======
+# Didymium wildpretii Mosquera, Estrada, Beltrán-Tej., D. Wrigley & Lado, 2007 SPECIES
 
 #### Status
 ACCEPTED

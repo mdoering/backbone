@@ -1,5 +1,4 @@
-Excipula strobi (Pers.) Fr. SPECIES
-=======
+# Excipula strobi (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

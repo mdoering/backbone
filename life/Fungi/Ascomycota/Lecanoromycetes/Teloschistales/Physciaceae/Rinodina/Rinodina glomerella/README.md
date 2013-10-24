@@ -1,5 +1,4 @@
-Rinodina glomerella (Stirt.) Zahlbr. SPECIES
-=======
+# Rinodina glomerella (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium japonicum I. Miyake SPECIES
-=======
+# Coniothyrium japonicum I. Miyake SPECIES
 
 #### Status
 ACCEPTED

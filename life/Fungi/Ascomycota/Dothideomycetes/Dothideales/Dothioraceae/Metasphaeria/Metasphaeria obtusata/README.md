@@ -1,5 +1,4 @@
-Metasphaeria obtusata (Schwein.) Cooke SPECIES
-=======
+# Metasphaeria obtusata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

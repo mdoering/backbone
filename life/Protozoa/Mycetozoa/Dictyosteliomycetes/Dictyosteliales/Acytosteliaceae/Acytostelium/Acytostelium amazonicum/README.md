@@ -1,5 +1,4 @@
-Acytostelium amazonicum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium amazonicum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

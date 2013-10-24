@@ -1,5 +1,4 @@
-Tapesia adhaerens (Wallr.) Sacc. SPECIES
-=======
+# Tapesia adhaerens (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

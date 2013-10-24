@@ -1,17 +1,16 @@
-Sporocarpon cognatus B.H. Davis & Leisman SPECIES
-=======
+# Sporocarpon cognatum B.H. Davis & Leisman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 89(2): 103 + figs 9-10, 13-14 (1962)
 
 #### Original name
-Sporocarpon cognatus B.H. Davis & Leisman
+Sporocarpon cognatum B.H. Davis & Leisman
 
 ### Remarks
 null

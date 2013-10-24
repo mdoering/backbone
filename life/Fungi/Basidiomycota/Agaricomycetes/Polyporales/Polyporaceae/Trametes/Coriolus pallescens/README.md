@@ -1,5 +1,4 @@
-Coriolus pallescens (Romell) Pilát SPECIES
-=======
+# Coriolus pallescens (Romell) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia ambipapillata Lowy SPECIES
-=======
+# Exidia ambipapillata Lowy SPECIES
 
 #### Status
 ACCEPTED

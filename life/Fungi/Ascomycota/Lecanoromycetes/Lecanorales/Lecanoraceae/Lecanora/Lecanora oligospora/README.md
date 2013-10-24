@@ -1,5 +1,4 @@
-Lecanora oligospora Nyl. SPECIES
-=======
+# Lecanora oligospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

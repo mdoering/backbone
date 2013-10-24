@@ -1,5 +1,4 @@
-Scuticabolus A.R. Loeblich Iii, 1967 GENUS
-=======
+# Scuticabolus A.R. Loeblich Iii, 1967 GENUS
 
 #### Status
 ACCEPTED

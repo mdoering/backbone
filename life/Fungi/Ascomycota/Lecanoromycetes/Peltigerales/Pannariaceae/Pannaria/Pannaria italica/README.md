@@ -1,5 +1,4 @@
-Pannaria italica Gyeln. SPECIES
-=======
+# Pannaria italica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

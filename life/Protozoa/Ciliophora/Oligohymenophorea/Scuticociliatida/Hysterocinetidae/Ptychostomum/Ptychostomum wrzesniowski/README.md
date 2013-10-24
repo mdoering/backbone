@@ -1,5 +1,4 @@
-Ptychostomum wrzesniowski (Vejdovsky, 1882) Corliss, 1960 SPECIES
-=======
+# Ptychostomum wrzesniowski (Vejdovsky, 1882) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

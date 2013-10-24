@@ -1,5 +1,4 @@
-Lecanora erythroleucodes Nyl. SPECIES
-=======
+# Lecanora erythroleucodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

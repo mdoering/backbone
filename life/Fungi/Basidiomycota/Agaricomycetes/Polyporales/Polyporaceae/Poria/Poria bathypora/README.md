@@ -1,5 +1,4 @@
-Poria bathypora (Rostk.) Cooke SPECIES
-=======
+# Poria bathypora (Rostk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria anaglyptica Kremp. SPECIES
-=======
+# Patellaria anaglyptica Kremp. SPECIES
 
 #### Status
 ACCEPTED

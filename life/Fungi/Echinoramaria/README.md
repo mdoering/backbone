@@ -1,5 +1,4 @@
-Echinoramaria GENUS
-=======
+# Echinoramaria GENUS
 
 #### Status
 ACCEPTED

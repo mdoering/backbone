@@ -1,5 +1,4 @@
-Gnomonia borealis J. Schröt., 1897 SPECIES
-=======
+# Gnomonia borealis J. Schröt., 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium strasseri (Servít) Servít SPECIES
-=======
+# Amphoridium strasseri (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

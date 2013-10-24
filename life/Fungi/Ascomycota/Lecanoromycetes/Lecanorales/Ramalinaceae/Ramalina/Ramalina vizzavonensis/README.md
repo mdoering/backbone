@@ -1,5 +1,4 @@
-Ramalina vizzavonensis Zschacke SPECIES
-=======
+# Ramalina vizzavonensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

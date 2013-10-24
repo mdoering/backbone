@@ -1,5 +1,4 @@
-Peziza scabrovillosa W. Phillips SPECIES
-=======
+# Peziza scabrovillosa W. Phillips SPECIES
 
 #### Status
 ACCEPTED

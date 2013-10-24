@@ -1,5 +1,4 @@
-Chamaeceras truncicola (Schulzer) Kuntze SPECIES
-=======
+# Chamaeceras truncicola (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

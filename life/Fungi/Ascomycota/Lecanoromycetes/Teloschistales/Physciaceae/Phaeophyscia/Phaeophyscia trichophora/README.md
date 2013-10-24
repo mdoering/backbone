@@ -1,5 +1,4 @@
-Phaeophyscia trichophora (Hue) Essl. SPECIES
-=======
+# Phaeophyscia trichophora (Hue) Essl. SPECIES
 
 #### Status
 ACCEPTED

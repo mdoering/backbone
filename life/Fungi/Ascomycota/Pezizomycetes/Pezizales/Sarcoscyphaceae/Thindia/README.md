@@ -1,5 +1,4 @@
-Thindia Korf & Waraitch GENUS
-=======
+# Thindia Korf & Waraitch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium olivaceum Ellis & Everh. SPECIES
-=======
+# Macrosporium olivaceum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

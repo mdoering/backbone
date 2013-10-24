@@ -1,5 +1,4 @@
-Diplodia auwata Lév. SPECIES
-=======
+# Diplodia auwata Lév. SPECIES
 
 #### Status
 ACCEPTED

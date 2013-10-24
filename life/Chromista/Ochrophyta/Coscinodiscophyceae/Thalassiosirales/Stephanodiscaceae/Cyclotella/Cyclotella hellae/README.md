@@ -1,5 +1,4 @@
-Cyclotella hellae T. P. Chang & C. Steinberg SPECIES
-=======
+# Cyclotella hellae T. P. Chang & C. Steinberg SPECIES
 
 #### Status
 ACCEPTED

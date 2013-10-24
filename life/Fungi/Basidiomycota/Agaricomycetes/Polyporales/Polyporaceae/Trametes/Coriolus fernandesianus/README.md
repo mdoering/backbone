@@ -1,5 +1,4 @@
-Coriolus fernandesianus (Mont.) Pat. SPECIES
-=======
+# Coriolus fernandesianus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza inconspicua Pers. SPECIES
-=======
+# Peziza inconspicua Pers. SPECIES
 
 #### Status
 ACCEPTED

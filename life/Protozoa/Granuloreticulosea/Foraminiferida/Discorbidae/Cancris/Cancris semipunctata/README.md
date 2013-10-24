@@ -1,5 +1,4 @@
-Cancris semipunctata SPECIES
-=======
+# Cancris semipunctata SPECIES
 
 #### Status
 ACCEPTED

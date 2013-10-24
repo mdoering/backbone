@@ -1,5 +1,4 @@
-Loeblichia Cummings, 1955 GENUS
-=======
+# Loeblichia Cummings, 1955 GENUS
 
 #### Status
 ACCEPTED

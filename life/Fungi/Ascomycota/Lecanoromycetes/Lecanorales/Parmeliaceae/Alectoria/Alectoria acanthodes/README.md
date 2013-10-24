@@ -1,5 +1,4 @@
-Alectoria acanthodes Hue SPECIES
-=======
+# Alectoria acanthodes Hue SPECIES
 
 #### Status
 ACCEPTED

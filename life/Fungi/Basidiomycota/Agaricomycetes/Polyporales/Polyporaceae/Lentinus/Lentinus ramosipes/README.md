@@ -1,5 +1,4 @@
-Lentinus ramosipes Har. & Pat. SPECIES
-=======
+# Lentinus ramosipes Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora arunjae B. Sutton SPECIES
-=======
+# Pseudocercospora arunjae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

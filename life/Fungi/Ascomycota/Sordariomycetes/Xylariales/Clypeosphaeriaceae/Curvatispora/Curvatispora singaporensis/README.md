@@ -1,5 +1,4 @@
-Curvatispora singaporensis V.V. Sarma & K.D. Hyde, 2001 SPECIES
-=======
+# Curvatispora singaporensis V.V. Sarma & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

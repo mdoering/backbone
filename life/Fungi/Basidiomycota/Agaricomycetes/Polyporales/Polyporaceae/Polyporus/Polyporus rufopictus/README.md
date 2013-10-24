@@ -1,5 +1,4 @@
-Polyporus rufopictus Berk. SPECIES
-=======
+# Polyporus rufopictus Berk. SPECIES
 
 #### Status
 ACCEPTED

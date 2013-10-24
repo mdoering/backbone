@@ -1,5 +1,4 @@
-Neochiastozygus junctus (Bramlette & Sullivan, 1961) Perch-Nielsen, 1971 SPECIES
-=======
+# Neochiastozygus junctus (Bramlette & Sullivan, 1961) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

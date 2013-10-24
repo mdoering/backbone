@@ -1,5 +1,4 @@
-Myxosporium populi-tremulae (F. Lamb.) Sacc. SPECIES
-=======
+# Myxosporium populi-tremulae (F. Lamb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

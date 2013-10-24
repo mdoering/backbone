@@ -1,5 +1,4 @@
-Hansfordiopeltopsis M.L. Farr GENUS
-=======
+# Hansfordiopeltopsis M.L. Farr GENUS
 
 #### Status
 ACCEPTED

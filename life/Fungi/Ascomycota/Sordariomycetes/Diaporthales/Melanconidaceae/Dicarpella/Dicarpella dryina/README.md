@@ -1,17 +1,16 @@
-Actinopelte dryina (Sacc.) Höhn., 1925 SPECIES
-=======
+# Dicarpella dryina Belisario & M.E. Barr, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Belisario, Mycotaxon 41(1): 154 (1991)
 
 #### Original name
-Leptothyrium dryinum Sacc., 1878
+Dicarpella dryina Belisario & M.E. Barr, 1991
 
 ### Remarks
 null

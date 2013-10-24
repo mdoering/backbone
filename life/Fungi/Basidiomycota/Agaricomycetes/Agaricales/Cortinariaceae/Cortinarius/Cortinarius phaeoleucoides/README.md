@@ -1,5 +1,4 @@
-Cortinarius phaeoleucoides Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius phaeoleucoides Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

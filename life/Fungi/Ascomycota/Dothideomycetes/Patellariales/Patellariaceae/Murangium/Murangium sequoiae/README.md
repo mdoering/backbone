@@ -1,14 +1,13 @@
-Acanthostigma sequojae (Plowr.) Sacc. SPECIES
-=======
+# Murangium sequoiae (Plowr. ex W. Phillips) Seaver, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Inoperculates) 368 (1951)
 
 #### Original name
 Cenangium sequoiae Plowr., 1878

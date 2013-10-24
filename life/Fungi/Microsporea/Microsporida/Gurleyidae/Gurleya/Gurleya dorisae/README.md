@@ -1,5 +1,4 @@
-Gurleya dorisae J.I.R. Larsson SPECIES
-=======
+# Gurleya dorisae J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

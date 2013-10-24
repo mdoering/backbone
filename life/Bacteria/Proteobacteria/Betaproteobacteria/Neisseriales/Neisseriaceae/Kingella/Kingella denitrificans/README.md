@@ -1,5 +1,4 @@
-Kingella denitrificans Snell and Lapage, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Kingella denitrificans Snell and Lapage, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

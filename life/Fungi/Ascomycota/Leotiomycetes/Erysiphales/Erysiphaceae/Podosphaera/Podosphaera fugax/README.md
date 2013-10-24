@@ -1,14 +1,13 @@
-Sphaerotheca fugax Penz. & Sacc., 1884 SPECIES
-=======
+# Podosphaera fugax (Penz. & Sacc.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti 6(2): 586 (1884)
+Schlechtendalia 4: 29 (2000)
 
 #### Original name
 Sphaerotheca fugax Penz. & Sacc., 1884

@@ -1,17 +1,16 @@
-Citromyces coeruleus Sopp SPECIES
-=======
+# Citromyces caeruleus Sopp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Skr. Vidensk. -Selsk. Christiana Math. -Nat. Kl. 11: 110 (1912)
 
 #### Original name
-Citromyces coeruleus Sopp
+Citromyces caeruleus Sopp
 
 ### Remarks
 null

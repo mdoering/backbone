@@ -1,5 +1,4 @@
-Dictyota plectens (Allender & Kraft) Kraft, 2009 SPECIES
-=======
+# Dictyota plectens (Allender & Kraft) Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

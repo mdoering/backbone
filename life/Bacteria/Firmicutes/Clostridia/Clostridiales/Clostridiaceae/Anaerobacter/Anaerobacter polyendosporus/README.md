@@ -1,5 +1,4 @@
-Anaerobacter polyendosporus Duda et al., 1996 SPECIES
-=======
+# Anaerobacter polyendosporus Duda et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

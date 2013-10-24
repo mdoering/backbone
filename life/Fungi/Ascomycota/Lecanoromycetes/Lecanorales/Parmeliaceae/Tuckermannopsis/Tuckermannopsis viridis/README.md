@@ -1,5 +1,4 @@
-Tuckermannopsis viridis (Schwein.) Hale SPECIES
-=======
+# Tuckermannopsis viridis (Schwein.) Hale SPECIES
 
 #### Status
 ACCEPTED

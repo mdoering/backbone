@@ -1,5 +1,4 @@
-Halonatronum Zhilina et al., 2001 GENUS
-=======
+# Halonatronum Zhilina et al., 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus pertusus Batsch SPECIES
-=======
+# Clathrus pertusus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis palmarum Müll. Arg. SPECIES
-=======
+# Phaeographis palmarum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

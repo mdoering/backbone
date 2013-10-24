@@ -1,14 +1,13 @@
-Hypoderma shiraiana (I. Miyake & Hara) I. Miyake & Hara SPECIES
-=======
+# Hypoderma shiraianum (I. Miyake & Hara) I. Miyake & Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hara, Bot. Mag. , Tokyo 27(no. 317): 246 (1913)
 
 #### Original name
 Munkiella shiraiana I. Miyake & Hara

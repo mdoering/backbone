@@ -1,5 +1,4 @@
-Leptosphaeria chelidonii Fautrey SPECIES
-=======
+# Leptosphaeria chelidonii Fautrey SPECIES
 
 #### Status
 ACCEPTED

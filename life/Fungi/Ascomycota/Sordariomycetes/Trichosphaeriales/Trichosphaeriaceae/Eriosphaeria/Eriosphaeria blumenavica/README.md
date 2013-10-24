@@ -1,5 +1,4 @@
-Eriosphaeria blumenavica Henn. SPECIES
-=======
+# Eriosphaeria blumenavica Henn. SPECIES
 
 #### Status
 ACCEPTED

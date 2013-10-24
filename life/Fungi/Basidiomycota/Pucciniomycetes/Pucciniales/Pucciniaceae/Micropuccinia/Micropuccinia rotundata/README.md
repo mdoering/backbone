@@ -1,5 +1,4 @@
-Micropuccinia rotundata (Dietel) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia rotundata (Dietel) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

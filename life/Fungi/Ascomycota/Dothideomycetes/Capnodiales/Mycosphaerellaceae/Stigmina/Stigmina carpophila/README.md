@@ -1,17 +1,16 @@
-Phoma carpophila (Lév.) Sacc. SPECIES
-=======
+# Stigmina carpophila (Lév.) M.B. Ellis, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 155 (1884)
+Mycol. Pap. 72: 56 (1959)
 
 #### Original name
-Sphaeropsis carpophila Lév.
+Helminthosporium carpophilum Lév., 1843
 
 ### Remarks
 null

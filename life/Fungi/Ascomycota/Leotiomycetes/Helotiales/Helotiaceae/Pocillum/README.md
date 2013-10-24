@@ -1,5 +1,4 @@
-Pocillum De Notaris, 1863 GENUS
-=======
+# Pocillum De Notaris, 1863 GENUS
 
 #### Status
 ACCEPTED

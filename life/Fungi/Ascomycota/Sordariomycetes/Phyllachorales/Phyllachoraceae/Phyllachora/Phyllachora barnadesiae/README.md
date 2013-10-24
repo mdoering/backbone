@@ -1,14 +1,13 @@
-Diachora barnadesiae (Syd.) Petr., 1950 SPECIES
-=======
+# Phyllachora barnadesiae Syd., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 468 (1950)
+Annls mycol. 37(4/5): 361 (1939)
 
 #### Original name
 Phyllachora barnadesiae Syd., 1939

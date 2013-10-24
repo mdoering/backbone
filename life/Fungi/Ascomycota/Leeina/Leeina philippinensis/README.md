@@ -1,5 +1,4 @@
-Leeina philippinensis Petr., 1923 SPECIES
-=======
+# Leeina philippinensis Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

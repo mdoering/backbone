@@ -1,17 +1,16 @@
-Rhipidostoma Cunha & Muniz, 1925 GENUS
-=======
+# Protohallia Cunha & Muniz, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sciencia Med. , Rio de Janeiro, 3, 735.
+C. R. Soc. Biol. , Paris, 97, 825.
 
 #### Original name
-null
+Rhipidostoma Cunha & Muniz, 1925
 
 ### Remarks
 null

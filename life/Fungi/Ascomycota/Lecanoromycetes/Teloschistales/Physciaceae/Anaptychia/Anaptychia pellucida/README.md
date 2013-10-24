@@ -1,5 +1,4 @@
-Anaptychia pellucida D.D. Awasthi SPECIES
-=======
+# Anaptychia pellucida D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

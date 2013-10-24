@@ -1,5 +1,4 @@
-Polyporus grisebrunneus Henn. SPECIES
-=======
+# Polyporus grisebrunneus Henn. SPECIES
 
 #### Status
 ACCEPTED

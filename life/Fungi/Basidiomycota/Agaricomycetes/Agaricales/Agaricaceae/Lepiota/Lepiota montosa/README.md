@@ -1,5 +1,4 @@
-Lepiota montosa Berk. SPECIES
-=======
+# Lepiota montosa Berk. SPECIES
 
 #### Status
 ACCEPTED

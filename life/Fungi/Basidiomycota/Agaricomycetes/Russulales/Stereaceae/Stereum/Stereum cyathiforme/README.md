@@ -1,5 +1,4 @@
-Stereum cyathiforme (Fr.) Fr. SPECIES
-=======
+# Stereum cyathiforme (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

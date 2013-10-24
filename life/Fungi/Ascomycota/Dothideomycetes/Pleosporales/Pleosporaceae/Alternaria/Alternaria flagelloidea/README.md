@@ -1,5 +1,4 @@
-Alternaria flagelloidea (G.F. Atk.) Luttr. SPECIES
-=======
+# Alternaria flagelloidea (G.F. Atk.) Luttr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerobranca californiensis Gorlenko et al., 2004 SPECIES
-=======
+# Anaerobranca californiensis Gorlenko et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

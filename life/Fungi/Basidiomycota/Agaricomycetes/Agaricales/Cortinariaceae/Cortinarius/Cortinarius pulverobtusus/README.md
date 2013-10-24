@@ -1,5 +1,4 @@
-Cortinarius pulverobtusus Rob. Henry SPECIES
-=======
+# Cortinarius pulverobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

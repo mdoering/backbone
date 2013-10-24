@@ -1,5 +1,4 @@
-Marssonina euphorbiae H. Ruppr. SPECIES
-=======
+# Marssonina euphorbiae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

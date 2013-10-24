@@ -1,14 +1,13 @@
-Paraparmelia schistacea (Kurok. & Filson) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia schistacea (Kurok. & Filson) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 281 (1986)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Parmelia schistacea Kurok. & Filson

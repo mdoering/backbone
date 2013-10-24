@@ -1,5 +1,4 @@
-Meliola isothea Syd. SPECIES
-=======
+# Meliola isothea Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza gemmea W. Phillips SPECIES
-=======
+# Peziza gemmea W. Phillips SPECIES
 
 #### Status
 ACCEPTED

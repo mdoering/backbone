@@ -1,14 +1,13 @@
-Pseudohygrocybe phaeococcinea (Arnolds) Kovalenko, 1988 SPECIES
-=======
+# Hygrocybe phaeococcinea (Arnolds) Bon, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 22(3): 208 (1988)
+Docums Mycol. 15(no. 60): 38 (1985)
 
 #### Original name
 Hygrophorus phaeococcineus Arnolds, 1977

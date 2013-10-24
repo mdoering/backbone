@@ -1,5 +1,4 @@
-Umbilicaria muhlenbergii (Ach.) Tuck. SPECIES
-=======
+# Umbilicaria muhlenbergii (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

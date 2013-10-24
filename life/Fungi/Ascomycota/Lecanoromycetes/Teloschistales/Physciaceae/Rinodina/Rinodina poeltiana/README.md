@@ -1,5 +1,4 @@
-Rinodina poeltiana Giralt & Obermayer SPECIES
-=======
+# Rinodina poeltiana Giralt & Obermayer SPECIES
 
 #### Status
 ACCEPTED

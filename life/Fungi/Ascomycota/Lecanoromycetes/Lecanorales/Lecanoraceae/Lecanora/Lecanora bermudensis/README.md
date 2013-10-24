@@ -1,5 +1,4 @@
-Lecanora bermudensis Nyl. SPECIES
-=======
+# Lecanora bermudensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

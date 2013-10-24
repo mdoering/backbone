@@ -1,5 +1,4 @@
-Microsphaera multappendicis Z.Y. Zhao & Y.N. Yu SPECIES
-=======
+# Microsphaera multappendicis Z.Y. Zhao & Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

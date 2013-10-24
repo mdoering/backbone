@@ -1,5 +1,4 @@
-Shewanella profunda Toffin et al., 2004 SPECIES
-=======
+# Shewanella profunda Toffin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

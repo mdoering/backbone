@@ -1,5 +1,4 @@
-Hydnum fasciculatum Lambotte SPECIES
-=======
+# Hydnum fasciculatum Lambotte SPECIES
 
 #### Status
 ACCEPTED

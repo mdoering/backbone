@@ -1,5 +1,4 @@
-Aleurodiscus cinnamomeus Rick SPECIES
-=======
+# Aleurodiscus cinnamomeus Rick SPECIES
 
 #### Status
 ACCEPTED

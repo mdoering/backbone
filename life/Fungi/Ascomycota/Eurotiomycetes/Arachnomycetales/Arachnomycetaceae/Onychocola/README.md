@@ -1,5 +1,4 @@
-Onychocola Sigler GENUS
-=======
+# Onychocola Sigler GENUS
 
 #### Status
 ACCEPTED

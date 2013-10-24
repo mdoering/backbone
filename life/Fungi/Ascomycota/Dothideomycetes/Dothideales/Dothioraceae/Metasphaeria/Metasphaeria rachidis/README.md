@@ -1,5 +1,4 @@
-Metasphaeria rachidis (Pass.) Sacc. SPECIES
-=======
+# Metasphaeria rachidis (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

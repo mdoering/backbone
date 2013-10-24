@@ -1,5 +1,4 @@
-Lecanora meditterranea (B. de Lesd.) SPECIES
-=======
+# Lecanora meditterranea (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria decipiens Erichsen SPECIES
-=======
+# Pertusaria decipiens Erichsen SPECIES
 
 #### Status
 ACCEPTED

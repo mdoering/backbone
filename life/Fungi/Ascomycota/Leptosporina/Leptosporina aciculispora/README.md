@@ -1,5 +1,4 @@
-Leptosporina aciculispora Chardón, 1939 SPECIES
-=======
+# Leptosporina aciculispora Chardón, 1939 SPECIES
 
 #### Status
 ACCEPTED

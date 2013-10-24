@@ -1,5 +1,4 @@
-Schizostoma hysterioides Ellis & Everh. SPECIES
-=======
+# Schizostoma hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

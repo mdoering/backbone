@@ -1,5 +1,4 @@
-Aecidium lophopetali Wakef. SPECIES
-=======
+# Aecidium lophopetali Wakef. SPECIES
 
 #### Status
 ACCEPTED

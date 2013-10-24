@@ -1,14 +1,13 @@
-Dactylethra GENUS
-=======
+# Daktylethra Gartner, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+J. Paleont. 43: 1219.
 
 #### Original name
 null

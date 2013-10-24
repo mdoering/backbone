@@ -1,5 +1,4 @@
-Onygena decorticata Pers. SPECIES
-=======
+# Onygena decorticata Pers. SPECIES
 
 #### Status
 ACCEPTED

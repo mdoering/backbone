@@ -1,5 +1,4 @@
-Leptosphaeria piperis Henn. SPECIES
-=======
+# Leptosphaeria piperis Henn. SPECIES
 
 #### Status
 ACCEPTED

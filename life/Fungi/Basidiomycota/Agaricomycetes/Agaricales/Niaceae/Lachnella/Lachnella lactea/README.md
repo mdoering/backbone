@@ -1,5 +1,4 @@
-Lachnella lactea Quél. SPECIES
-=======
+# Lachnella lactea Quél. SPECIES
 
 #### Status
 ACCEPTED

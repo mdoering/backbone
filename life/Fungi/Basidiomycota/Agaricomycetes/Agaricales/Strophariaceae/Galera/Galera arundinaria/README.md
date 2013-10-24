@@ -1,5 +1,4 @@
-Galera arundinaria Velen. SPECIES
-=======
+# Galera arundinaria Velen. SPECIES
 
 #### Status
 ACCEPTED

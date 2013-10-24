@@ -1,14 +1,13 @@
-Marssonina martini (Sacc. & Ellis) Magnus SPECIES
-=======
+# Marssonina martinii (Sacc. & Ellis) Magnus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 45: 89 (1906)
 
 #### Original name
 Marssonia martinii Sacc. & Ellis

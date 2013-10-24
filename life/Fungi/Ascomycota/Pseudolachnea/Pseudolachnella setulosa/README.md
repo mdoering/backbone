@@ -1,5 +1,4 @@
-Pseudolachnella setulosa (I. Hino & Katum.) Nag Raj SPECIES
-=======
+# Pseudolachnella setulosa (I. Hino & Katum.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

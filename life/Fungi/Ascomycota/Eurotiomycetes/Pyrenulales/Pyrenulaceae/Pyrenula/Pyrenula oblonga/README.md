@@ -1,5 +1,4 @@
-Pyrenula oblonga Zahlbr. SPECIES
-=======
+# Pyrenula oblonga Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

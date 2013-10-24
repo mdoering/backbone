@@ -1,5 +1,4 @@
-Protoperidinium majus (P. Dangeard) Balech SPECIES
-=======
+# Protoperidinium majus (P. Dangeard) Balech SPECIES
 
 #### Status
 ACCEPTED

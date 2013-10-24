@@ -1,5 +1,4 @@
-Chaetomium terrestre R.S. Dwivedi SPECIES
-=======
+# Chaetomium terrestre R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria ambigua Berl. SPECIES
-=======
+# Calosphaeria ambigua Berl. SPECIES
 
 #### Status
 ACCEPTED

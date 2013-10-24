@@ -1,5 +1,4 @@
-Torula glutinosa Cooke & Harkn. SPECIES
-=======
+# Torula glutinosa Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

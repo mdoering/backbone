@@ -1,5 +1,4 @@
-Phoma balliensis R.C. Srivast. SPECIES
-=======
+# Phoma balliensis R.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

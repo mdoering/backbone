@@ -1,5 +1,4 @@
-Buellia poliocheila Vain. SPECIES
-=======
+# Buellia poliocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

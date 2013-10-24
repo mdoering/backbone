@@ -1,5 +1,4 @@
-Uromyces achrous Syd. & P. Syd. SPECIES
-=======
+# Uromyces achrous Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodesiopsis gelatinosa B. Sutton & R. Campb., 1979 SPECIES
-=======
+# Rhodesiopsis gelatinosa B. Sutton & R. Campb., 1979 SPECIES
 
 #### Status
 ACCEPTED

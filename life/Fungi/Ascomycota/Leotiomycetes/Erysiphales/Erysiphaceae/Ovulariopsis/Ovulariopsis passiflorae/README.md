@@ -1,14 +1,13 @@
-Streptopodium passiflorae (Syd.) Liberato & R.W. Barreto, 2006 SPECIES
-=======
+# Ovulariopsis passiflorae Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 94: 90 (2006)
+Annls mycol. 28(1/2): 199 (1930)
 
 #### Original name
 Ovulariopsis passiflorae Syd., 1930

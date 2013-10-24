@@ -1,5 +1,4 @@
-Asteridiella hughesii Hansf. SPECIES
-=======
+# Asteridiella hughesii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fistulinella staudii Henn. SPECIES
-=======
+# Fistulinella staudtii Henn., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 30: 44 (1901)
 
 #### Original name
-Fistulinella staudii Henn.
+Fistulinella staudtii Henn., 1901
 
 ### Remarks
 null

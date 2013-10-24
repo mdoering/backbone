@@ -1,5 +1,4 @@
-Gloeosporium bowmanii Ellis & Dearn. SPECIES
-=======
+# Gloeosporium bowmanii Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

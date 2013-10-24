@@ -1,5 +1,4 @@
-Didymella media Sacc. SPECIES
-=======
+# Didymella media Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaumatophycus K.B. Korde, 1950 GENUS
-=======
+# Thaumatophycus K.B. Korde, 1950 GENUS
 
 #### Status
 ACCEPTED

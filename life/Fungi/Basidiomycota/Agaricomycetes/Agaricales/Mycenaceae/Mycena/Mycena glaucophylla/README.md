@@ -1,5 +1,4 @@
-Mycena glaucophylla Métrod SPECIES
-=======
+# Mycena glaucophylla Métrod SPECIES
 
 #### Status
 ACCEPTED

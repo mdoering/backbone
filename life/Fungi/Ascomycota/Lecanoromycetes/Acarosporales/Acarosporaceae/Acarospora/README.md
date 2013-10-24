@@ -1,5 +1,4 @@
-Acarospora A. Massal. GENUS
-=======
+# Acarospora A. Massal. GENUS
 
 #### Status
 ACCEPTED

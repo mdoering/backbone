@@ -1,5 +1,4 @@
-Alternaria turkisafria E.G. Simmons SPECIES
-=======
+# Alternaria turkisafria E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

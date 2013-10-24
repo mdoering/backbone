@@ -1,5 +1,4 @@
-Cercosporina camptosori (Davis) Sacc. SPECIES
-=======
+# Cercosporina camptosori (Davis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

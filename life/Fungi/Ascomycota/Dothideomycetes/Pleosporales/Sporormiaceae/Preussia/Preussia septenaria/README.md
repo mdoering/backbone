@@ -1,5 +1,4 @@
-Preussia septenaria (S.I. Ahmed & Cain) Guarro SPECIES
-=======
+# Preussia septenaria (S.I. Ahmed & Cain) Guarro SPECIES
 
 #### Status
 ACCEPTED

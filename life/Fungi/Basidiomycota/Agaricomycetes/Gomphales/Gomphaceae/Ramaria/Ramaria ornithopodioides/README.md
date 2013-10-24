@@ -1,5 +1,4 @@
-Ramaria ornithopodioides Holmsk. SPECIES
-=======
+# Ramaria ornithopodioides Holmsk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Virgaria setiformis (Wallr.) Sacc., 1886 SPECIES
-=======
+# Acrogenospora setiformis (Wallr.) M.B. Ellis, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 282 (1886)
+Mycol. Pap. 131: 5 (1972)
 
 #### Original name
 Helminthosporium setiforme Wallr., 1833

@@ -1,5 +1,4 @@
-Inocybe papillata (E. Horak) Garrido SPECIES
-=======
+# Inocybe papillata (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

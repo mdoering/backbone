@@ -1,5 +1,4 @@
-Urceolaria albissima (Ach.) Fink SPECIES
-=======
+# Urceolaria albissima (Ach.) Fink SPECIES
 
 #### Status
 ACCEPTED

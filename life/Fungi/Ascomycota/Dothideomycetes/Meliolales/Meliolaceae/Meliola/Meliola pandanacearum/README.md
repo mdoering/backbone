@@ -1,5 +1,4 @@
-Meliola pandanacearum Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola pandanacearum Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

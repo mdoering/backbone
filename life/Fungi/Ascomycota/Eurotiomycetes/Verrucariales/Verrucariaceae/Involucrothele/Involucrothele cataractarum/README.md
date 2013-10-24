@@ -1,5 +1,4 @@
-Involucrothele cataractarum var. cataractarum VARIETY
-=======
+# Involucrothele cataractarum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Involucrothele cataractarum var. cataractarum
+null
 
 ### Remarks
 null

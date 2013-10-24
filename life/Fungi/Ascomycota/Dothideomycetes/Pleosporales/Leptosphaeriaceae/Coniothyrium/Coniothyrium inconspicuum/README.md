@@ -1,5 +1,4 @@
-Coniothyrium inconspicuum Cooke SPECIES
-=======
+# Coniothyrium inconspicuum Cooke SPECIES
 
 #### Status
 ACCEPTED

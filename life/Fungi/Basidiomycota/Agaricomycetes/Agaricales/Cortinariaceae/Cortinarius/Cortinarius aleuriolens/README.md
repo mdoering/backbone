@@ -1,5 +1,4 @@
-Cortinarius aleuriolens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius aleuriolens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

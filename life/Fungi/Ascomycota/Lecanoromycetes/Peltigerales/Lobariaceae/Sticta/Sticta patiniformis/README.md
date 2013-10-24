@@ -1,5 +1,4 @@
-Sticta patiniformis Müll. Arg. SPECIES
-=======
+# Sticta patiniformis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

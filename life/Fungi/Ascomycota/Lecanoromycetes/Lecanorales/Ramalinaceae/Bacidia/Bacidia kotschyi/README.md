@@ -1,5 +1,4 @@
-Bacidia kotschyi (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia kotschyi (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

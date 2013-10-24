@@ -1,5 +1,4 @@
-Lamprospora kristiansenii Benkert SPECIES
-=======
+# Lamprospora kristiansenii Benkert SPECIES
 
 #### Status
 ACCEPTED

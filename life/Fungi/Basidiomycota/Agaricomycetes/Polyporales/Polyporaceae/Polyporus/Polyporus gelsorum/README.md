@@ -1,5 +1,4 @@
-Polyporus gelsorum Fr. SPECIES
-=======
+# Polyporus gelsorum Fr. SPECIES
 
 #### Status
 ACCEPTED

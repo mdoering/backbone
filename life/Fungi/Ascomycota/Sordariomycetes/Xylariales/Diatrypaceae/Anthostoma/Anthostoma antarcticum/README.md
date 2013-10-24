@@ -1,5 +1,4 @@
-Anthostoma antarcticum Speg. SPECIES
-=======
+# Anthostoma antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

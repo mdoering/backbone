@@ -1,5 +1,4 @@
-Arthothelium hymenocarpoides Vain. SPECIES
-=======
+# Arthothelium hymenocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

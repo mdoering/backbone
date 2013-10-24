@@ -1,5 +1,4 @@
-Cladosporium ramulosum Reissek, 1851 SPECIES
-=======
+# Cladosporium ramulosum Reissek, 1851 SPECIES
 
 #### Status
 ACCEPTED

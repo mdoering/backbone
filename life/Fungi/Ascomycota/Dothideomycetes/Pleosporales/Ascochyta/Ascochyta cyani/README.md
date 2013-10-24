@@ -1,5 +1,4 @@
-Ascochyta cyani Cruchet SPECIES
-=======
+# Ascochyta cyani Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lycoridis Sawada SPECIES
-=======
+# Septoria lycoridis Sawada SPECIES
 
 #### Status
 ACCEPTED

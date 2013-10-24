@@ -1,5 +1,4 @@
-Entophysalis majus Ercegovic, 1932 SPECIES
-=======
+# Entophysalis majus Ercegovic, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordierites acanthophora Samuels & L.M. Kohn, 1987 SPECIES
-=======
+# Cordierites acanthophora Samuels & L.M. Kohn, 1987 SPECIES
 
 #### Status
 ACCEPTED

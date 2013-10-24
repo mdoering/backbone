@@ -1,5 +1,4 @@
-Phyllosticta kriegeriana Bres. SPECIES
-=======
+# Phyllosticta kriegeriana Bres. SPECIES
 
 #### Status
 ACCEPTED

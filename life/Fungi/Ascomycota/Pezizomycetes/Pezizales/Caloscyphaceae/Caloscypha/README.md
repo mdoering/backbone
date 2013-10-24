@@ -1,5 +1,4 @@
-Caloscypha Boud. GENUS
-=======
+# Caloscypha Boud. GENUS
 
 #### Status
 ACCEPTED

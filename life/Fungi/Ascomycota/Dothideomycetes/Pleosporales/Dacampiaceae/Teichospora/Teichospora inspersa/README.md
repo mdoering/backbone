@@ -1,5 +1,4 @@
-Teichospora inspersa (Berk.) Sacc. & Traverso SPECIES
-=======
+# Teichospora inspersa (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

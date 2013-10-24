@@ -1,14 +1,13 @@
-Agaricus impexus Lasch, 1829 SPECIES
-=======
+# Inocybe impexa (Lasch) Kuyper, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 4: 545 (1829)
+Persoonia, Suppl. 3: 106 (1986)
 
 #### Original name
 Agaricus impexus Lasch, 1829

@@ -1,5 +1,4 @@
-Leptosphaeria fici-elasticae Petr. SPECIES
-=======
+# Leptosphaeria fici-elasticae Petr. SPECIES
 
 #### Status
 ACCEPTED

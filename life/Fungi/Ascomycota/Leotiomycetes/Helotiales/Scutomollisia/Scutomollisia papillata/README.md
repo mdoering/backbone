@@ -1,5 +1,4 @@
-Scutomollisia papillata Graddon, 1990 SPECIES
-=======
+# Scutomollisia papillata Graddon, 1990 SPECIES
 
 #### Status
 ACCEPTED

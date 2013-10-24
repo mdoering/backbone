@@ -1,5 +1,4 @@
-Ascochyta elegans Punith. SPECIES
-=======
+# Ascochyta elegans Punith. SPECIES
 
 #### Status
 ACCEPTED

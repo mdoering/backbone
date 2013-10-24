@@ -1,5 +1,4 @@
-Malacozoomonas Nicoli, Penaud & Timon-David, 1972 GENUS
-=======
+# Malacozoomonas Nicoli, Penaud & Timon-David, 1972 GENUS
 
 #### Status
 ACCEPTED

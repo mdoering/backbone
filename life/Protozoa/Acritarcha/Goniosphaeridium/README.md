@@ -1,5 +1,4 @@
-Goniosphaeridium Eisenack, 1969 GENUS
-=======
+# Goniosphaeridium Eisenack, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus plumosus Noda SPECIES
-=======
+# Ectocarpus plumosus Noda SPECIES
 
 #### Status
 ACCEPTED

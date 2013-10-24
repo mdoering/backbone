@@ -1,5 +1,4 @@
-Stomatorbina Dorreen, 1948 GENUS
-=======
+# Stomatorbina Dorreen, 1948 GENUS
 
 #### Status
 ACCEPTED

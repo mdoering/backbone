@@ -1,5 +1,4 @@
-Hypoxylonites horowitzii Elsik SPECIES
-=======
+# Hypoxylonites horowitzii Elsik SPECIES
 
 #### Status
 ACCEPTED

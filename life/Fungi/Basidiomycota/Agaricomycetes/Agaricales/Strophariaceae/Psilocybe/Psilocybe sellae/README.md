@@ -1,5 +1,4 @@
-Psilocybe sellae Bres. & Mattir. SPECIES
-=======
+# Psilocybe sellae Bres. & Mattir. SPECIES
 
 #### Status
 ACCEPTED

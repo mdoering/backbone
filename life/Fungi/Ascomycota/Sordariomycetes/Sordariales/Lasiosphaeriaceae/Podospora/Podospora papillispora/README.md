@@ -1,5 +1,4 @@
-Podospora papillispora M. Sharma SPECIES
-=======
+# Podospora papillispora M. Sharma SPECIES
 
 #### Status
 ACCEPTED

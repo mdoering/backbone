@@ -1,5 +1,4 @@
-Dyella Xie & Yokota, 2005 GENUS
-=======
+# Dyella Xie & Yokota, 2005 GENUS
 
 #### Status
 ACCEPTED

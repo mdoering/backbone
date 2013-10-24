@@ -1,5 +1,4 @@
-Aecidium isoglossae Syd. & P. Syd. SPECIES
-=======
+# Aecidium isoglossae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

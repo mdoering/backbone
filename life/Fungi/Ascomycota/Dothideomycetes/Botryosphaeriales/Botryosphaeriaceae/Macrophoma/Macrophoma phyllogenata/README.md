@@ -1,5 +1,4 @@
-Macrophoma phyllogenata (Link) Berl. & Voglino SPECIES
-=======
+# Macrophoma phyllogenata (Link) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

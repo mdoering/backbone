@@ -1,5 +1,4 @@
-Trichophaea radhanagarensis S.D. Patil & M.S. Patil SPECIES
-=======
+# Trichophaea radhanagarensis S.D. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

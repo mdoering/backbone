@@ -1,5 +1,4 @@
-Cercospora adinae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cercospora adinae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

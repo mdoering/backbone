@@ -1,14 +1,13 @@
-Agaricus myxotrichus Lév., 1848 SPECIES
-=======
+# Hohenbuehelia myxotricha (Lév.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 7: 121 (1848)
+Lilloa 22: 255 (1951)
 
 #### Original name
 Agaricus myxotrichus Lév., 1848

@@ -1,5 +1,4 @@
-Amylax lata Meunier SPECIES
-=======
+# Amylax lata Meunier SPECIES
 
 #### Status
 ACCEPTED

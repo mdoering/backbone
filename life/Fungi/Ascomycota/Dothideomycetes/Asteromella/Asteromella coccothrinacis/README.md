@@ -1,5 +1,4 @@
-Asteromella coccothrinacis Petr. & Cif., 1930 SPECIES
-=======
+# Asteromella coccothrinacis Petr. & Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

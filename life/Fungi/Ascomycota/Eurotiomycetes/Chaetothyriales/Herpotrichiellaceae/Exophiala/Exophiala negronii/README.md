@@ -1,14 +1,13 @@
-Hormodendrum negronii Pereira, 1938 SPECIES
-=======
+# Exophiala negronii (Pereira) de Hoog, Tad. Matsumoto, T. Matsuda & Uijthof, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia das chromomycoses (1938)
+null
 
 #### Original name
 Hormodendrum negronii Pereira, 1938

@@ -1,5 +1,4 @@
-Terana simulans (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana simulans (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

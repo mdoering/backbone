@@ -1,5 +1,4 @@
-Lecanactis rufoatra (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis rufoatra (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

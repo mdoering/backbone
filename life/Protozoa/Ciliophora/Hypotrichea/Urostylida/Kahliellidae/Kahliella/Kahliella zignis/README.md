@@ -1,5 +1,4 @@
-Kahliella zignis SPECIES
-=======
+# Kahliella zignis SPECIES
 
 #### Status
 ACCEPTED

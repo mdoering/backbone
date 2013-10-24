@@ -1,5 +1,4 @@
-Clitocybe hymenodes (Lév.) Sacc. SPECIES
-=======
+# Clitocybe hymenodes (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

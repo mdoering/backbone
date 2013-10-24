@@ -1,5 +1,4 @@
-Sporotrichum cracoviense Lipinski SPECIES
-=======
+# Sporotrichum cracoviense Lipinski SPECIES
 
 #### Status
 ACCEPTED

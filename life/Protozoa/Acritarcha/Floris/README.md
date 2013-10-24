@@ -1,5 +1,4 @@
-Floris Stanevitch in Stanevi & Zheleznyak, 1990 GENUS
-=======
+# Floris Stanevitch in Stanevi & Zheleznyak, 1990 GENUS
 
 #### Status
 ACCEPTED

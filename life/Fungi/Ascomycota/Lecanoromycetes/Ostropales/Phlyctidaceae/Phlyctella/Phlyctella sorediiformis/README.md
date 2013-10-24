@@ -1,5 +1,4 @@
-Phlyctella sorediiformis (Kremp.) Zahlbr. SPECIES
-=======
+# Phlyctella sorediiformis (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

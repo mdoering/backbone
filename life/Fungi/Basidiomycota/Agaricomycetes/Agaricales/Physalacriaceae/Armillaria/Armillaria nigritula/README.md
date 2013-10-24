@@ -1,5 +1,4 @@
-Armillaria nigritula P.D. Orton SPECIES
-=======
+# Armillaria nigritula P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

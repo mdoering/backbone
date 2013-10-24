@@ -1,5 +1,4 @@
-Uredo monechmalis Cummins SPECIES
-=======
+# Uredo monechmalis Cummins SPECIES
 
 #### Status
 ACCEPTED

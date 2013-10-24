@@ -1,5 +1,4 @@
-Verrucaria laureolacea Eschw. SPECIES
-=======
+# Verrucaria laureolacea Eschw. SPECIES
 
 #### Status
 ACCEPTED

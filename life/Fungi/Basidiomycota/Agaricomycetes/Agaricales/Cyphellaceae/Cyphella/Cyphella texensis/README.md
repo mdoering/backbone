@@ -1,5 +1,4 @@
-Cyphella texensis Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Cyphella texensis Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

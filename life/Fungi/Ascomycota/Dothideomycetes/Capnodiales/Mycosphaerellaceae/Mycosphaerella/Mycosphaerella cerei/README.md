@@ -1,5 +1,4 @@
-Mycosphaerella cerei Henn. SPECIES
-=======
+# Mycosphaerella cerei Henn. SPECIES
 
 #### Status
 ACCEPTED

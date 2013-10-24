@@ -1,5 +1,4 @@
-Gloeosporium schweinfurthianum Thüm. SPECIES
-=======
+# Gloeosporium schweinfurthianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

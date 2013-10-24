@@ -1,5 +1,4 @@
-Clitocybula aperta (Peck) Singer SPECIES
-=======
+# Clitocybula aperta (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaenidium J.W.Schopf GENUS
-=======
+# Anabaenidium J.W.Schopf GENUS
 
 #### Status
 ACCEPTED

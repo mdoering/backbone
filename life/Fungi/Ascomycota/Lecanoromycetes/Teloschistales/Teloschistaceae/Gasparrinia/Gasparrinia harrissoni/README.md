@@ -1,5 +1,4 @@
-Gasparrinia harrissoni C.W. Dodge SPECIES
-=======
+# Gasparrinia harrissoni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

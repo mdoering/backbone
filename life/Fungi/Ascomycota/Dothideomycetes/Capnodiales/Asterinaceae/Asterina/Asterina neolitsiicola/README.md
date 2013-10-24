@@ -1,5 +1,4 @@
-Asterina neolitsiicola Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Asterina neolitsiicola Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

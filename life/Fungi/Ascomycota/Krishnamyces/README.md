@@ -1,5 +1,4 @@
-Krishnamyces Hosag. GENUS
-=======
+# Krishnamyces Hosag. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus peroxydatus (Berk.) Cooke SPECIES
-=======
+# Polystictus peroxydatus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacteriaceae FAMILY
-=======
+# Mycobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

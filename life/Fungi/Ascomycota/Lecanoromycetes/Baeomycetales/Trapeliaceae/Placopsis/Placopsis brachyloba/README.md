@@ -1,14 +1,13 @@
-Placodium brachylobum Müll. Arg. SPECIES
-=======
+# Placopsis brachyloba (Müll. Arg.) I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 4: 93 (1896)
+Lilloa 13: 212 (1947)
 
 #### Original name
 Placodium brachylobum Müll. Arg.

@@ -1,5 +1,4 @@
-Fusiformisporites rugosus Sheffy & Dilcher SPECIES
-=======
+# Fusiformisporites rugosus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

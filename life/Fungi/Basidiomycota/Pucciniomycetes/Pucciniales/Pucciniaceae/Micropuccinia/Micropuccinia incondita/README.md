@@ -1,5 +1,4 @@
-Micropuccinia incondita (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia incondita (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

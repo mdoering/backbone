@@ -1,5 +1,4 @@
-Pachyella clypeata (Schwein.) Le Gal SPECIES
-=======
+# Pachyella clypeata (Schwein.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula epistroma Höhn. SPECIES
-=======
+# Hymenula epistroma Höhn. SPECIES
 
 #### Status
 ACCEPTED

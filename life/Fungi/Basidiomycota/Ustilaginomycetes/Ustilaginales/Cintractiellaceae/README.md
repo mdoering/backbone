@@ -1,5 +1,4 @@
-Cintractiellaceae Vánky FAMILY
-=======
+# Cintractiellaceae Vánky FAMILY
 
 #### Status
 ACCEPTED

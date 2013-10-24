@@ -1,11 +1,10 @@
-Bactrophora irregularis Tilden & A.P.Fessenden, 1931 SPECIES
-=======
+# Tinocladia australis (Harvey) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Anaerotruncus colihominis Lawson et al., 2004 SPECIES
-=======
+# Anaerotruncus colihominis Lawson et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

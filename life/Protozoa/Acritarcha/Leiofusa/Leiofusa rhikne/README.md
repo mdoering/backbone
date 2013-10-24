@@ -1,5 +1,4 @@
-Leiofusa rhikne Loeblich, 1970 SPECIES
-=======
+# Leiofusa rhikne Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

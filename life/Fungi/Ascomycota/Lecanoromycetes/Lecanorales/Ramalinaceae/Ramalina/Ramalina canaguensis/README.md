@@ -1,5 +1,4 @@
-Ramalina canaguensis V. Marcano & A. Morales SPECIES
-=======
+# Ramalina canaguensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

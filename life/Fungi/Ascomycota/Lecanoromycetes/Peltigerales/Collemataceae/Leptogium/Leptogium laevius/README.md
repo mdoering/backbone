@@ -1,5 +1,4 @@
-Leptogium laevius (Nyl.) C.W. Dodge SPECIES
-=======
+# Leptogium laevius (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

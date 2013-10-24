@@ -1,5 +1,4 @@
-Puccinia sphaeralceoides Cummins SPECIES
-=======
+# Puccinia sphaeralceoides Cummins SPECIES
 
 #### Status
 ACCEPTED

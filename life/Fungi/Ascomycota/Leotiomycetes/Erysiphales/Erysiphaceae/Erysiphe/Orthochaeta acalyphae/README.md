@@ -1,5 +1,4 @@
-Orthochaeta acalyphae Sawada SPECIES
-=======
+# Orthochaeta acalyphae Sawada SPECIES
 
 #### Status
 ACCEPTED

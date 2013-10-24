@@ -1,5 +1,4 @@
-Monospeliensina Glacon & Lys, 1968 GENUS
-=======
+# Monospeliensina Glacon & Lys, 1968 GENUS
 
 #### Status
 ACCEPTED

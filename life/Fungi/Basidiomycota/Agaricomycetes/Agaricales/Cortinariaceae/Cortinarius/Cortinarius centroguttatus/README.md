@@ -1,5 +1,4 @@
-Cortinarius centroguttatus E. Horak SPECIES
-=======
+# Cortinarius centroguttatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

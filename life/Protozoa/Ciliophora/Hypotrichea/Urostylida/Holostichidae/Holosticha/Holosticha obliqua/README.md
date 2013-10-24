@@ -1,5 +1,4 @@
-Holosticha obliqua Kahl, 1928 SPECIES
-=======
+# Holosticha obliqua Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

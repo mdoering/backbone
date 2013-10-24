@@ -1,5 +1,4 @@
-Puccinia ljulinica Hinkova & Koeva, 1966 SPECIES
-=======
+# Puccinia ljulinica Hinkova & Koeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

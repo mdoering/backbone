@@ -1,5 +1,4 @@
-Acarospora gyrosa N.S. Golubk. SPECIES
-=======
+# Acarospora gyrosa N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiatula discreta (Fr.) Sacc. SPECIES
-=======
+# Hiatula discreta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

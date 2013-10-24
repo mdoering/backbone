@@ -1,5 +1,4 @@
-Ocellularia verrucoisidiata Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia verrucoisidiata Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

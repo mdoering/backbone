@@ -1,5 +1,4 @@
-Phyllosticta dianellicola H.Y. Yip SPECIES
-=======
+# Phyllosticta dianellicola H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

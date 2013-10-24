@@ -1,5 +1,4 @@
-Collema robillardii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Collema robillardii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

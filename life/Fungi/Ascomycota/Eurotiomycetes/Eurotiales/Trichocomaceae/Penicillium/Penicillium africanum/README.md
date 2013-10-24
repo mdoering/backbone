@@ -1,5 +1,4 @@
-Penicillium africanum Doebelt SPECIES
-=======
+# Penicillium africanum Doebelt SPECIES
 
 #### Status
 ACCEPTED

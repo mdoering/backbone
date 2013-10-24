@@ -1,5 +1,4 @@
-Merulius interplicatus Lasch SPECIES
-=======
+# Merulius interplicatus Lasch SPECIES
 
 #### Status
 ACCEPTED

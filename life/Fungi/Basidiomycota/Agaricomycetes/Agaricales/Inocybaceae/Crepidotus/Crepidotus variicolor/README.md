@@ -1,5 +1,4 @@
-Crepidotus variicolor Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus variicolor Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

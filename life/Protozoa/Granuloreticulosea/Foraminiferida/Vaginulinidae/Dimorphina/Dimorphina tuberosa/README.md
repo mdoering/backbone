@@ -1,5 +1,4 @@
-Dimorphina tuberosa d’Orbigny, 1826 SPECIES
-=======
+# Dimorphina tuberosa d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

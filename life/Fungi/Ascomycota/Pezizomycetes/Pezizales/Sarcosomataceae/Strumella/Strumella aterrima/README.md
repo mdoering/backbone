@@ -1,5 +1,4 @@
-Strumella aterrima (Rabenh.) Sacc. SPECIES
-=======
+# Strumella aterrima (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

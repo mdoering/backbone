@@ -1,5 +1,4 @@
-Verrucaria grandicula Nyl. SPECIES
-=======
+# Verrucaria grandicula Nyl. SPECIES
 
 #### Status
 ACCEPTED

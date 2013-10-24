@@ -1,8 +1,7 @@
-Streptococcus saccharolyticus Farrow et al., 1985 SPECIES
-=======
+# Enterococcus saccharolyticus (Farrow et al., 1985) Rodrigues & Collins, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

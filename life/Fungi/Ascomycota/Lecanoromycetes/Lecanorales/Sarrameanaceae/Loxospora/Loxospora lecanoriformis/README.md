@@ -1,5 +1,4 @@
-Loxospora lecanoriformis Lumbsch, A. W. Archer & Elix SPECIES
-=======
+# Loxospora lecanoriformis Lumbsch, A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

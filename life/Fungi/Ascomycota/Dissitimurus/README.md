@@ -1,5 +1,4 @@
-Dissitimurus E.G. Simmons, McGinnis & Rinaldi GENUS
-=======
+# Dissitimurus E.G. Simmons, McGinnis & Rinaldi GENUS
 
 #### Status
 ACCEPTED

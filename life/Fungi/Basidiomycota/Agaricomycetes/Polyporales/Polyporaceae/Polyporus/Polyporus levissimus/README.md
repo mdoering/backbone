@@ -1,5 +1,4 @@
-Polyporus levissimus Fr. SPECIES
-=======
+# Polyporus levissimus Fr. SPECIES
 
 #### Status
 ACCEPTED

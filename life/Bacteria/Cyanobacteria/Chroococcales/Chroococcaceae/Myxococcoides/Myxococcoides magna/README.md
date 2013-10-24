@@ -1,5 +1,4 @@
-Myxococcoides magna P. K. Maithy & M. Shukla SPECIES
-=======
+# Myxococcoides magna P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

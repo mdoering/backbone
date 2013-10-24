@@ -1,5 +1,4 @@
-Clasterosporium caricicola Corda SPECIES
-=======
+# Clasterosporium caricicola Corda SPECIES
 
 #### Status
 ACCEPTED

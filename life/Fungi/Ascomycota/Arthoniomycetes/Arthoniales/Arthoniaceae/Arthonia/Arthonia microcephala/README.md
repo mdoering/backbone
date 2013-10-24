@@ -1,5 +1,4 @@
-Arthonia microcephala Vezda SPECIES
-=======
+# Arthonia microcephala Vezda SPECIES
 
 #### Status
 ACCEPTED

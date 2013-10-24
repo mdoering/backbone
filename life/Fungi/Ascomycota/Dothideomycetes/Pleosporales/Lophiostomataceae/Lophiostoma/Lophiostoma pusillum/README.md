@@ -1,5 +1,4 @@
-Lophiostoma pusillum Fuckel SPECIES
-=======
+# Lophiostoma pusillum Fuckel SPECIES
 
 #### Status
 ACCEPTED

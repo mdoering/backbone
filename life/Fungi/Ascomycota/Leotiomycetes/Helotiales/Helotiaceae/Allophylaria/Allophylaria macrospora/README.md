@@ -1,17 +1,16 @@
-Xylogramma macrosporum Kirschst., 1906 SPECIES
-=======
+# Allophylaria macrospora Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 8: 291 (1932)
 
 #### Original name
-Xylogramma macrosporum Kirschst., 1906
+Phialea macrospora Kirschst., 1922
 
 ### Remarks
 null

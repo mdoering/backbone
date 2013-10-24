@@ -1,5 +1,4 @@
-Methylosarcina fibrata Wise et al., 2001 SPECIES
-=======
+# Methylosarcina fibrata Wise et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

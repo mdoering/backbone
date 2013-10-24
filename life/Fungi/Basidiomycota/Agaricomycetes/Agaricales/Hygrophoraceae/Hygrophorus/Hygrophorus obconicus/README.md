@@ -1,5 +1,4 @@
-Hygrophorus obconicus Peck SPECIES
-=======
+# Hygrophorus obconicus Peck SPECIES
 
 #### Status
 ACCEPTED

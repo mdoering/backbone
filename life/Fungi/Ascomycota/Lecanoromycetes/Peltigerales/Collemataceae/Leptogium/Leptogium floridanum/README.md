@@ -1,5 +1,4 @@
-Leptogium floridanum Sierk SPECIES
-=======
+# Leptogium floridanum Sierk SPECIES
 
 #### Status
 ACCEPTED

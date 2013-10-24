@@ -1,5 +1,4 @@
-Heydenia americana SPECIES
-=======
+# Heydenia americana SPECIES
 
 #### Status
 ACCEPTED

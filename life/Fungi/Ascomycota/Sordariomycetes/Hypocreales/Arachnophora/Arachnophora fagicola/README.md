@@ -1,5 +1,4 @@
-Arachnophora fagicola Hennebert, 1963 SPECIES
-=======
+# Arachnophora fagicola Hennebert, 1963 SPECIES
 
 #### Status
 ACCEPTED

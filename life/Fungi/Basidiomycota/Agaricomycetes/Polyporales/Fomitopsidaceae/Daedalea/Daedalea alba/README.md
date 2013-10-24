@@ -1,5 +1,4 @@
-Daedalea alba Pers. SPECIES
-=======
+# Daedalea alba Pers. SPECIES
 
 #### Status
 ACCEPTED

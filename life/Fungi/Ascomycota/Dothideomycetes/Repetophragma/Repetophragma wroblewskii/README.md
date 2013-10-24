@@ -1,14 +1,13 @@
-Sporidesmium wroblewski (Bubák) M.B. Ellis SPECIES
-=======
+# Repetophragma wroblewskii (Bubák) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 185 (1992)
 
 #### Original name
 Clasterosporium wroblewskii Bubák, 1916

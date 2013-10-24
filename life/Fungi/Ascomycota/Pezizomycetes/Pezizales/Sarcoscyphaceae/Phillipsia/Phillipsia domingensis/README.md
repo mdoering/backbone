@@ -1,5 +1,4 @@
-Phillipsia domingensis Berk. SPECIES
-=======
+# Phillipsia domingensis Berk. SPECIES
 
 #### Status
 ACCEPTED

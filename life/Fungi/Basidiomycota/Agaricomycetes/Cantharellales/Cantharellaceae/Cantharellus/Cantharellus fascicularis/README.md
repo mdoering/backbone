@@ -1,5 +1,4 @@
-Cantharellus fascicularis F. Strauss SPECIES
-=======
+# Cantharellus fascicularis F. Strauss SPECIES
 
 #### Status
 ACCEPTED

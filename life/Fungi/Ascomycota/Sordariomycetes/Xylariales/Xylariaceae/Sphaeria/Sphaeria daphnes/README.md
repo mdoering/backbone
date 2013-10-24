@@ -1,17 +1,16 @@
-Sphaeria daphnidis Schwein. SPECIES
-=======
+# Sphaeria daphnes Ettingsh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 218 (1832)
 
 #### Original name
-Sphaeria daphnidis Schwein.
+Sphaeria daphnes Ettingsh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melanomphalia pacifica Singer SPECIES
-=======
+# Melanomphalia pacifica Singer SPECIES
 
 #### Status
 ACCEPTED

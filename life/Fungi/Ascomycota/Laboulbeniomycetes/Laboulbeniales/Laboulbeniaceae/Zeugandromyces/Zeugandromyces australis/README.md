@@ -1,5 +1,4 @@
-Zeugandromyces australis Thaxt., 1912 SPECIES
-=======
+# Zeugandromyces australis Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium hyalothecae Scherff. SPECIES
-=======
+# Rhizophydium hyalothecae Scherff. SPECIES
 
 #### Status
 ACCEPTED

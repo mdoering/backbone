@@ -1,5 +1,4 @@
-Exobasidium talamancense L.D. Gómez & Kisim.-Hor., 1998 SPECIES
-=======
+# Exobasidium talamancense L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
 ACCEPTED

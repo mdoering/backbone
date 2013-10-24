@@ -1,5 +1,4 @@
-Entoloma olivaceohebes Noordel. & Hauskn. SPECIES
-=======
+# Entoloma olivaceohebes Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

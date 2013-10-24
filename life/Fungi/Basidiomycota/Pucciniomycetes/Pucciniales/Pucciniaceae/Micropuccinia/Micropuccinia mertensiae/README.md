@@ -1,5 +1,4 @@
-Micropuccinia mertensiae (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia mertensiae (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

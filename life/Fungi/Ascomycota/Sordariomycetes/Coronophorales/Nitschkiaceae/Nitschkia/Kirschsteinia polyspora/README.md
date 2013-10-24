@@ -1,5 +1,4 @@
-Kirschsteinia polyspora (Kirschst.) Syd. SPECIES
-=======
+# Kirschsteinia polyspora (Kirschst.) Syd. SPECIES
 
 #### Status
 ACCEPTED

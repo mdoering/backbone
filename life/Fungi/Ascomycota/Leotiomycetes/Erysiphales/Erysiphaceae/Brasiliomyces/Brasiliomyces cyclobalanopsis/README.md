@@ -1,5 +1,4 @@
-Brasiliomyces cyclobalanopsis Kuo, W.H. Hsieh & Leu SPECIES
-=======
+# Brasiliomyces cyclobalanopsis Kuo, W.H. Hsieh & Leu SPECIES
 
 #### Status
 ACCEPTED

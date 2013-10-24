@@ -1,5 +1,4 @@
-Lecidea andita var. andita VARIETY
-=======
+# Lecidea andita Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea andita var. andita
+Lecidea andita Nyl.
 
 ### Remarks
 null

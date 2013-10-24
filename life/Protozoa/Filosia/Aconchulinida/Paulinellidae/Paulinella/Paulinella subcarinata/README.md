@@ -1,5 +1,4 @@
-Paulinella subcarinata SPECIES
-=======
+# Paulinella subcarinata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea sparassis Quél. SPECIES
-=======
+# Otidea sparassis Quél. SPECIES
 
 #### Status
 ACCEPTED

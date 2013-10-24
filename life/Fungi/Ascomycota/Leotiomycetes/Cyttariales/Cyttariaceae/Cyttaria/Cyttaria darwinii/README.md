@@ -1,5 +1,4 @@
-Cyttaria darwinii Berk., 1842 SPECIES
-=======
+# Cyttaria darwinii Berk., 1842 SPECIES
 
 #### Status
 ACCEPTED

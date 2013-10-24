@@ -1,5 +1,4 @@
-Eubacterium xylanophilum van Gylswyk & van der Toorn, 1985 SPECIES
-=======
+# Eubacterium xylanophilum van Gylswyk & van der Toorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora rouxii K. Knudsen, Elix & Reeb SPECIES
-=======
+# Acarospora rouxii K. Knudsen, Elix & Reeb SPECIES
 
 #### Status
 ACCEPTED

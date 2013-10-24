@@ -1,5 +1,4 @@
-Calonectria indusiata (Seaver) Crous SPECIES
-=======
+# Calonectria indusiata (Seaver) Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxococcus xanthus Beebe, 1941 (Approved Lists, 1980) SPECIES
-=======
+# Myxococcus xanthus Beebe, 1941 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

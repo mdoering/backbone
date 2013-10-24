@@ -1,5 +1,4 @@
-Eouvigerina hispida Cushman, 1931 SPECIES
-=======
+# Eouvigerina hispida Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

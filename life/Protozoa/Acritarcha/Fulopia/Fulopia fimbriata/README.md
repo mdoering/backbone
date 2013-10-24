@@ -1,5 +1,4 @@
-Fulopia fimbriata Nagy, 1965 SPECIES
-=======
+# Fulopia fimbriata Nagy, 1965 SPECIES
 
 #### Status
 ACCEPTED

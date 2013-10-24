@@ -1,5 +1,4 @@
-Tricholoma charisterum Berk. & Broome SPECIES
-=======
+# Tricholoma charisterum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

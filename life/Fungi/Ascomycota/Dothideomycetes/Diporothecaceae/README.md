@@ -1,5 +1,4 @@
-Diporothecaceae Mibey & D. Hawksw. FAMILY
-=======
+# Diporothecaceae Mibey & D. Hawksw. FAMILY
 
 #### Status
 ACCEPTED

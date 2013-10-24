@@ -1,5 +1,4 @@
-Pluricellaesporites malayensis (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites malayensis (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

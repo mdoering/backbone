@@ -1,5 +1,4 @@
-Orbopercularia exigata SPECIES
-=======
+# Orbopercularia exigata SPECIES
 
 #### Status
 ACCEPTED

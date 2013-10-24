@@ -1,5 +1,4 @@
-Diporisporites anklesvarensis (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites anklesvarensis (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

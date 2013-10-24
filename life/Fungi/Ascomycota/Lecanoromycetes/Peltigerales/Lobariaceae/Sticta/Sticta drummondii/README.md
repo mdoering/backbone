@@ -1,5 +1,4 @@
-Sticta drummondii Taylor SPECIES
-=======
+# Sticta drummondii Taylor SPECIES
 
 #### Status
 ACCEPTED

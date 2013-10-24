@@ -1,5 +1,4 @@
-Urocystis atropidis (Lavrov) Zundel SPECIES
-=======
+# Urocystis atropidis (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

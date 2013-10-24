@@ -1,5 +1,4 @@
-Restilago Vánky GENUS
-=======
+# Restilago Vánky GENUS
 
 #### Status
 ACCEPTED

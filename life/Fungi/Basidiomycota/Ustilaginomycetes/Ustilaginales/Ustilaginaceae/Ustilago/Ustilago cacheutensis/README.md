@@ -1,5 +1,4 @@
-Ustilago cacheutensis Speg. SPECIES
-=======
+# Ustilago cacheutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

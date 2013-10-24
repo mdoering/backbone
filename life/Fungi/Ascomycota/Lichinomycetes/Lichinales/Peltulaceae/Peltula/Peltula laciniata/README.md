@@ -1,5 +1,4 @@
-Peltula laciniata (Bagl. & Carestia) Poelt SPECIES
-=======
+# Peltula laciniata (Bagl. & Carestia) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dothidea tumefaciens Syd. & P. Syd., 1907 SPECIES
-=======
+# Stalagmites tumefaciens (Syd. & P. Syd.) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5: 360 (1907)
+Annls mycol. 12: (1914)
 
 #### Original name
 Dothidea tumefaciens Syd. & P. Syd., 1907

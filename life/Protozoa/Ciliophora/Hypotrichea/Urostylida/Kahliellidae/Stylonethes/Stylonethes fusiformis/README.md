@@ -1,5 +1,4 @@
-Stylonethes fusiformis SPECIES
-=======
+# Stylonethes fusiformis SPECIES
 
 #### Status
 ACCEPTED

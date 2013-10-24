@@ -1,5 +1,4 @@
-Rhamphoria tympanidispora Rehm, 1887 SPECIES
-=======
+# Rhamphoria tympanidispora Rehm, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Enterobryus robini Duboscq, L. Léger & Tuzet ex Manier SPECIES
-=======
+# Enterobryus robinii Duboscq, L. Léger & Tuzet ex Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 605 (1970)
 
 #### Original name
-Enterobryus robini Duboscq, L. Léger & Tuzet ex Manier
+Enterobryus robinii Duboscq, L. Léger & Tuzet ex Manier
 
 ### Remarks
 null

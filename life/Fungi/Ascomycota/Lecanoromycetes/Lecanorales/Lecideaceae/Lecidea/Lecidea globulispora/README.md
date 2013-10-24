@@ -1,17 +1,16 @@
-Biatora antiloga (Stirt.) Walt. Watson SPECIES
-=======
+# Lecidea globulispora Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea antiloga Stirt.
+Lecidea globulispora Nyl.
 
 ### Remarks
 null

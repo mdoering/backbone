@@ -1,5 +1,4 @@
-Macrotrichomonas Grassi, 1920 GENUS
-=======
+# Macrotrichomonas Grassi, 1920 GENUS
 
 #### Status
 ACCEPTED

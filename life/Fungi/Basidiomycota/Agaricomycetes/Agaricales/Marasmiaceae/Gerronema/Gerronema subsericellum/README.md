@@ -1,5 +1,4 @@
-Gerronema subsericellum (Romagn.) Clémençon SPECIES
-=======
+# Gerronema subsericellum (Romagn.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

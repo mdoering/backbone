@@ -1,5 +1,4 @@
-Didymium reticulosporum Novozh. & Zemly., 2006 SPECIES
-=======
+# Didymium reticulosporum Novozh. & Zemly., 2006 SPECIES
 
 #### Status
 ACCEPTED

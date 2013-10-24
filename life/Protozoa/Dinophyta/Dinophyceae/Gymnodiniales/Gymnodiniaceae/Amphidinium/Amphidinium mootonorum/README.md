@@ -1,5 +1,4 @@
-Amphidinium mootonorum Shauna Murray & D.J. Patterson SPECIES
-=======
+# Amphidinium mootonorum Shauna Murray & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

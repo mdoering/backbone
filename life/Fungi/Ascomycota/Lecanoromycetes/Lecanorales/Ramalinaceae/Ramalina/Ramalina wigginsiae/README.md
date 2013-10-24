@@ -1,5 +1,4 @@
-Ramalina wigginsiae Bowler & Rundel SPECIES
-=======
+# Ramalina wigginsiae Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

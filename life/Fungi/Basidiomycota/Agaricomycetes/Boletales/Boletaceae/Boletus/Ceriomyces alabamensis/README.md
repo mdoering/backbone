@@ -1,5 +1,4 @@
-Ceriomyces alabamensis Murrill SPECIES
-=======
+# Ceriomyces alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

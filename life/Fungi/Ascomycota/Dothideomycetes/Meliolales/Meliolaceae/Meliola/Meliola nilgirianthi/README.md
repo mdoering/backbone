@@ -1,17 +1,16 @@
-Meliola nilgirianthii Hosag. SPECIES
-=======
+# Meliola nilgirianthi Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Goos, Mycotaxon 37: 241 (1990)
 
 #### Original name
-Meliola nilgirianthii Hosag.
+Meliola nilgirianthi Hosag.
 
 ### Remarks
 null

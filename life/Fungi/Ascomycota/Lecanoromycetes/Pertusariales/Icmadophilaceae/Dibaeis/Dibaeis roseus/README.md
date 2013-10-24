@@ -1,5 +1,4 @@
-Dibaeis roseus (Pers.) SPECIES
-=======
+# Dibaeis roseus (Pers.) SPECIES
 
 #### Status
 ACCEPTED

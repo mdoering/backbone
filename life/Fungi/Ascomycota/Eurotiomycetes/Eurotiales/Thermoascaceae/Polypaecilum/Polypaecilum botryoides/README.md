@@ -1,14 +1,13 @@
-Torula botryoides F.T. Brooks & Hansf., 1923 SPECIES
-=======
+# Polypaecilum botryoides (F.T. Brooks & Hansf.) V. Rao & de Hoog, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 8: 134 (1923)
+Persoonia 8(2): 202 (1975)
 
 #### Original name
 Torula botryoides F.T. Brooks & Hansf., 1923

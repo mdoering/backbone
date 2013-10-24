@@ -1,5 +1,4 @@
-Erratomyces M. Piepenbr. & R. Bauer GENUS
-=======
+# Erratomyces M. Piepenbr. & R. Bauer GENUS
 
 #### Status
 ACCEPTED

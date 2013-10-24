@@ -1,5 +1,4 @@
-Humaria scutellata Fuckel SPECIES
-=======
+# Humaria scutellata Fuckel SPECIES
 
 #### Status
 ACCEPTED

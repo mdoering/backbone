@@ -1,5 +1,4 @@
-Ishigeaceae Okamura, 1935 FAMILY
-=======
+# Ishigeaceae Okamura, 1935 FAMILY
 
 #### Status
 ACCEPTED

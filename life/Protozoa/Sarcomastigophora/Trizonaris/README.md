@@ -1,5 +1,4 @@
-Trizonaris Haeckel, 1887 GENUS
-=======
+# Trizonaris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

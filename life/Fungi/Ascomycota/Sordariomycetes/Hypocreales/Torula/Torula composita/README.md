@@ -1,5 +1,4 @@
-Torula composita Preuss SPECIES
-=======
+# Torula composita Preuss SPECIES
 
 #### Status
 ACCEPTED

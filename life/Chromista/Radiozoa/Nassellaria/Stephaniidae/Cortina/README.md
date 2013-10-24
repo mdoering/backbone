@@ -1,5 +1,4 @@
-Cortina Haeckel, 1887 GENUS
-=======
+# Cortina Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curtobacterium testaceum (Komagata and Iizuka, 1964) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Curtobacterium testaceum (Komagata and Iizuka, 1964) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

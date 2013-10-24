@@ -1,5 +1,4 @@
-Cylindrocarpon faginatum C. Booth SPECIES
-=======
+# Cylindrocarpon faginatum C. Booth SPECIES
 
 #### Status
 ACCEPTED

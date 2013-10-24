@@ -1,5 +1,4 @@
-Coelomomyces musprattii Couch SPECIES
-=======
+# Coelomomyces musprattii Couch SPECIES
 
 #### Status
 ACCEPTED

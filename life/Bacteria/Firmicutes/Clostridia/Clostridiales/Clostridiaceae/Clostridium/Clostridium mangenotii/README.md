@@ -1,11 +1,10 @@
-Inflabilis mangenoti Prévot & Zimmès-Chaverou, 1947 SPECIES
-=======
+# Clostridium mangenotii (Prévot and Zimmès-Chaverou, 1947) McClung and McCoy, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

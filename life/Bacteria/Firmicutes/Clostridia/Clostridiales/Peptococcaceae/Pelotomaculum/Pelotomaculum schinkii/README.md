@@ -1,5 +1,4 @@
-Pelotomaculum schinkii de Bok et al., 2005 SPECIES
-=======
+# Pelotomaculum schinkii de Bok et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria segregata Müll. Arg. SPECIES
-=======
+# Patellaria segregata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

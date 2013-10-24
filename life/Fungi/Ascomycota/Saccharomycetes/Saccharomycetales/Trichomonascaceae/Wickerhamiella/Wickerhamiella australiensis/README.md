@@ -1,5 +1,4 @@
-Wickerhamiella australiensis Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles, 1998 SPECIES
-=======
+# Wickerhamiella australiensis Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles, 1998 SPECIES
 
 #### Status
 ACCEPTED

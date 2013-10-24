@@ -1,8 +1,7 @@
-Naematoloma pilati (Velen.) Pilát SPECIES
-=======
+# Naematoloma pilatii (Velen.) Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Hessea Ormières & Sprague, 1973 GENUS
-=======
+# Hessea Ormières & Sprague, 1973 GENUS
 
 #### Status
 ACCEPTED

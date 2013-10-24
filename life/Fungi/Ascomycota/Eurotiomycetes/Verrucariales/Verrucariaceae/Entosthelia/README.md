@@ -1,5 +1,4 @@
-Entosthelia GENUS
-=======
+# Entosthelia GENUS
 
 #### Status
 ACCEPTED

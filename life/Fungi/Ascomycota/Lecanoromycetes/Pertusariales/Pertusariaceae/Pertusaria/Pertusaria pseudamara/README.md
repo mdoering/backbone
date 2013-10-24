@@ -1,5 +1,4 @@
-Pertusaria pseudamara K.H. Moon & Shibuichi SPECIES
-=======
+# Pertusaria pseudamara K.H. Moon & Shibuichi SPECIES
 
 #### Status
 ACCEPTED

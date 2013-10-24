@@ -1,5 +1,4 @@
-Nectria sylvana Mouton, 1900 SPECIES
-=======
+# Nectria sylvana Mouton, 1900 SPECIES
 
 #### Status
 ACCEPTED

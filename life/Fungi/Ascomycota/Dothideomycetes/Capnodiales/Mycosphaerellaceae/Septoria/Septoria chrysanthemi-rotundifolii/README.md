@@ -1,5 +1,4 @@
-Septoria chrysanthemi-rotundifolii Namysl. SPECIES
-=======
+# Septoria chrysanthemi-rotundifolii Namysl. SPECIES
 
 #### Status
 ACCEPTED

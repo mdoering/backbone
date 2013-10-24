@@ -1,5 +1,4 @@
-Collybia xanthophila Mont. SPECIES
-=======
+# Collybia xanthophila Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma acanthocephali M.N. Kusnezowa SPECIES
-=======
+# Entyloma acanthocephali M.N. Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

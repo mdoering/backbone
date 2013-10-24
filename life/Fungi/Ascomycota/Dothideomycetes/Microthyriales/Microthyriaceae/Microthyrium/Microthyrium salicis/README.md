@@ -1,5 +1,4 @@
-Microthyrium salicis Höhn. SPECIES
-=======
+# Microthyrium salicis Höhn. SPECIES
 
 #### Status
 ACCEPTED

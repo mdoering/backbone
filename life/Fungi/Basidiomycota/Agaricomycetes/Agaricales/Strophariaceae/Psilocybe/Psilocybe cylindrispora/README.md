@@ -1,5 +1,4 @@
-Psilocybe cylindrispora A. Pearson SPECIES
-=======
+# Psilocybe cylindrispora A. Pearson SPECIES
 
 #### Status
 ACCEPTED

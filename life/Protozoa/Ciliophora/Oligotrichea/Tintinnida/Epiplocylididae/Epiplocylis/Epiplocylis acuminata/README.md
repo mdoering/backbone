@@ -1,5 +1,4 @@
-Epiplocylis acuminata (Daday, 1887) SPECIES
-=======
+# Epiplocylis acuminata (Daday, 1887) SPECIES
 
 #### Status
 ACCEPTED

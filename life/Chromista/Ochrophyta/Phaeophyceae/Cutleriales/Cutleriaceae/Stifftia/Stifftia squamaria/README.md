@@ -1,5 +1,4 @@
-Stifftia squamaria (S. G. Gmelin) Zanardini SPECIES
-=======
+# Stifftia squamaria (S. G. Gmelin) Zanardini SPECIES
 
 #### Status
 ACCEPTED

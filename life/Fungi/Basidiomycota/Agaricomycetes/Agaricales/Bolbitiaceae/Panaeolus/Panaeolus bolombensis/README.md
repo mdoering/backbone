@@ -1,5 +1,4 @@
-Panaeolus bolombensis Beeli SPECIES
-=======
+# Panaeolus bolombensis Beeli SPECIES
 
 #### Status
 ACCEPTED

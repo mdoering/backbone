@@ -1,5 +1,4 @@
-Coprinus pulverulentofloccosus Britzelm. SPECIES
-=======
+# Coprinus pulverulentofloccosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

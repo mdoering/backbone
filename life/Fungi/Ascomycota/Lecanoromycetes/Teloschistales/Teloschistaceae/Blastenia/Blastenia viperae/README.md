@@ -1,5 +1,4 @@
-Blastenia viperae Zahlbr. SPECIES
-=======
+# Blastenia viperae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

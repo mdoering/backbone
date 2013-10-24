@@ -1,5 +1,4 @@
-Lophiostoma subcollapsum Ellis & Everh. SPECIES
-=======
+# Lophiostoma subcollapsum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

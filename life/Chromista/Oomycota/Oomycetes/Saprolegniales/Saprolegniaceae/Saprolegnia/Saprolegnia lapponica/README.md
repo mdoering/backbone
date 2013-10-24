@@ -1,14 +1,13 @@
-Saprolegnia ferax var. lapponica (Gäum.) Cejp, 1959 VARIETY
-=======
+# Saprolegnia lapponica Gäum., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. CSR, Oomycet. 245 (1959)
+Bot. Notiser 156 (1918)
 
 #### Original name
 Saprolegnia lapponica Gäum., 1918

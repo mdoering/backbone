@@ -1,5 +1,4 @@
-Russiella Miklukho-Maklai, 1957 GENUS
-=======
+# Russiella Miklukho-Maklai, 1957 GENUS
 
 #### Status
 ACCEPTED

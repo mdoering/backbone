@@ -1,5 +1,4 @@
-Fusisporium azedarachinum Thüm. SPECIES
-=======
+# Fusisporium azedarachinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

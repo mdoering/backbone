@@ -1,5 +1,4 @@
-Pseudocorythion mannei Chardez, 1971 SPECIES
-=======
+# Pseudocorythion mannei Chardez, 1971 SPECIES
 
 #### Status
 ACCEPTED

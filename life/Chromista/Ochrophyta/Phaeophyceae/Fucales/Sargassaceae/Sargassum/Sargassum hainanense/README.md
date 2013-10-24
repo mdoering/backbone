@@ -1,5 +1,4 @@
-Sargassum hainanense Tseng & Lu SPECIES
-=======
+# Sargassum hainanense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

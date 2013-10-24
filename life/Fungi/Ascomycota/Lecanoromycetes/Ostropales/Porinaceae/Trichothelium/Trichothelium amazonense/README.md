@@ -1,5 +1,4 @@
-Trichothelium amazonense Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Trichothelium amazonense Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

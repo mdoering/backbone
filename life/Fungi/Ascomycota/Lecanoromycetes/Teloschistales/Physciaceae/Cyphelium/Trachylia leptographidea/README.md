@@ -1,5 +1,4 @@
-Trachylia leptographidea Vain. SPECIES
-=======
+# Trachylia leptographidea Vain. SPECIES
 
 #### Status
 ACCEPTED

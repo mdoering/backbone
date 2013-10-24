@@ -1,5 +1,4 @@
-Chaetomium umbonatum D. Brewer, 1974 SPECIES
-=======
+# Chaetomium umbonatum D. Brewer, 1974 SPECIES
 
 #### Status
 ACCEPTED

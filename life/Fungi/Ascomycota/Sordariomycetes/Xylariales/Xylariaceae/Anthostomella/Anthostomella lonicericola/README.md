@@ -1,5 +1,4 @@
-Anthostomella lonicericola Z.Q. Yuan & Z.Y. Zhao SPECIES
-=======
+# Anthostomella lonicericola Z.Q. Yuan & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

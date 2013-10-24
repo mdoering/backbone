@@ -1,5 +1,4 @@
-Lactarius phlebophyllus R. Heim SPECIES
-=======
+# Lactarius phlebophyllus R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora carnea (Berk. & M.A. Curtis) Cooke, 1879 SPECIES
-=======
+# Peniophora carnea (Berk. & M.A. Curtis) Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

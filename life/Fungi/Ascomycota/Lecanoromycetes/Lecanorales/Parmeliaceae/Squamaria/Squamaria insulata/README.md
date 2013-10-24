@@ -1,5 +1,4 @@
-Squamaria insulata DC. SPECIES
-=======
+# Squamaria insulata DC. SPECIES
 
 #### Status
 ACCEPTED

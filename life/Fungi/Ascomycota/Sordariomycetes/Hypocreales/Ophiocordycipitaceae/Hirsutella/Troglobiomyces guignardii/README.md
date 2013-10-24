@@ -1,5 +1,4 @@
-Troglobiomyces guignardii (Maheu) Pacioni SPECIES
-=======
+# Troglobiomyces guignardii (Maheu) Pacioni SPECIES
 
 #### Status
 ACCEPTED

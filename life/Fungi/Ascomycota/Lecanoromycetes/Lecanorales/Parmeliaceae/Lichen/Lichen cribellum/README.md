@@ -1,5 +1,4 @@
-Lichen cribellum Retz. SPECIES
-=======
+# Lichen cribellum Retz. SPECIES
 
 #### Status
 ACCEPTED

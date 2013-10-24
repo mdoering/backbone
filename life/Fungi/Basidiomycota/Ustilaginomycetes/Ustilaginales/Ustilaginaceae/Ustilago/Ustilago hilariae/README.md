@@ -1,5 +1,4 @@
-Ustilago hilariae Ellis & Tracy SPECIES
-=======
+# Ustilago hilariae Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

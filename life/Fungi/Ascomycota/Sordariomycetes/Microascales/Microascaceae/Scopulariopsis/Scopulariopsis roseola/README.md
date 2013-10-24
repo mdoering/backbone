@@ -1,5 +1,4 @@
-Scopulariopsis roseola N. Inagaki SPECIES
-=======
+# Scopulariopsis roseola N. Inagaki SPECIES
 
 #### Status
 ACCEPTED

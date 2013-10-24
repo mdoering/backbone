@@ -1,5 +1,4 @@
-Striainaperturites circulus (H. Wolff bis) Y.K. Mathur SPECIES
-=======
+# Striainaperturites circulus (H. Wolff bis) Y.K. Mathur SPECIES
 
 #### Status
 ACCEPTED

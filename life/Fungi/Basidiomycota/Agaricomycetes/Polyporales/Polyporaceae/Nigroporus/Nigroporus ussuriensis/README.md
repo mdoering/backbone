@@ -1,17 +1,16 @@
-Phellinus ussuriensis f. ussuriensis Bondartsev & Ljub. FORM
-=======
+# Nigroporus ussuriensis (Bondartsev & Ljub.) Y.C. Dai & Niemelä, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1965 143 (1965)
+Ann. bot. fenn. 32(4): 218 (1995)
 
 #### Original name
-Phellinus ussuriensis f. ussuriensis Bondartsev & Ljub.
+Phellinus ussuriensis Bondartsev & Ljub., 1965
 
 ### Remarks
 null

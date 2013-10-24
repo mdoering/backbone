@@ -1,5 +1,4 @@
-Acineta operta Swarczewsky, 1928 SPECIES
-=======
+# Acineta operta Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

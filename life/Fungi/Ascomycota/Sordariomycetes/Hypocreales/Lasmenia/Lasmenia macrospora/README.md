@@ -1,5 +1,4 @@
-Lasmenia macrospora Bat. & A.A. Silva SPECIES
-=======
+# Lasmenia macrospora Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

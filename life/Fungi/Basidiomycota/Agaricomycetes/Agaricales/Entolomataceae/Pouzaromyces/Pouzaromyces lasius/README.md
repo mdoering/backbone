@@ -1,5 +1,4 @@
-Pouzaromyces lasius (Berk. & Broome) Pegler SPECIES
-=======
+# Pouzaromyces lasius (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

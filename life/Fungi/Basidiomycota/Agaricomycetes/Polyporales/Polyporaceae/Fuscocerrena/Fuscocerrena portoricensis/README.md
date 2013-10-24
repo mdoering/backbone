@@ -1,14 +1,13 @@
-Poria portoricensis (Fr.) Sacc., 1888 SPECIES
-=======
+# Fuscocerrena portoricensis (Fr.) Ryvarden, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 320 (1888)
+Trans. Br. mycol. Soc. 79(2): 280 (1982)
 
 #### Original name
 Polyporus portoricensis Fr., 1828

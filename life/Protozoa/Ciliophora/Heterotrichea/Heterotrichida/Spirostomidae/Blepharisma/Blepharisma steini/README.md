@@ -1,5 +1,4 @@
-Blepharisma steini Kahl, 1932 SPECIES
-=======
+# Blepharisma steini Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

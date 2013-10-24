@@ -1,8 +1,7 @@
-Hollandella kuwaitensis Page, 1981 SPECIES
-=======
+# Mayorella kuwaitensis (Page, 1981) Page, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

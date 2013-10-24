@@ -1,5 +1,4 @@
-Septoriella trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Septoriella trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

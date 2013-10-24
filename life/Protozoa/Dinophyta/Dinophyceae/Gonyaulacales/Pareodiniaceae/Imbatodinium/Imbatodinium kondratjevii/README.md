@@ -1,5 +1,4 @@
-Imbatodinium kondratjevii Vozzhennikova, 1967 SPECIES
-=======
+# Imbatodinium kondratjevii Vozzhennikova, 1967 SPECIES
 
 #### Status
 ACCEPTED

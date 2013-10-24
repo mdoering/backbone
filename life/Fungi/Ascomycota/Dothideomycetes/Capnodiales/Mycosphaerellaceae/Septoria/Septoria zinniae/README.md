@@ -1,5 +1,4 @@
-Septoria zinniae Speg. SPECIES
-=======
+# Septoria zinniae Speg. SPECIES
 
 #### Status
 ACCEPTED

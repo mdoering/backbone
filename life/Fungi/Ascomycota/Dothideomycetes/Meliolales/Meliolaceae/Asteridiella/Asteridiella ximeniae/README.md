@@ -1,5 +1,4 @@
-Asteridiella ximeniae (Bat. & J. Silva) Hansf. SPECIES
-=======
+# Asteridiella ximeniae (Bat. & J. Silva) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella penicillata (Schwein.) Morgan SPECIES
-=======
+# Lachnella penicillata (Schwein.) Morgan SPECIES
 
 #### Status
 ACCEPTED

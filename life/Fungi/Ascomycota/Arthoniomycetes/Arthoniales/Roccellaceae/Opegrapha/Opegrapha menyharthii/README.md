@@ -1,5 +1,4 @@
-Opegrapha menyharthii Müll. Arg. SPECIES
-=======
+# Opegrapha menyharthii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

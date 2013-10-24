@@ -1,5 +1,4 @@
-Pericaryon cesticola Chatton, 1911 SPECIES
-=======
+# Pericaryon cesticola Chatton, 1911 SPECIES
 
 #### Status
 ACCEPTED

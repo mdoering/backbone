@@ -1,5 +1,4 @@
-Anzia opuntiella var. opuntiella Müll. Arg. VARIETY
-=======
+# Anzia opuntiella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 74: 112 (1881)
+Flora, Jena 64: 112 (1881)
 
 #### Original name
-Anzia opuntiella var. opuntiella Müll. Arg.
+Anzia opuntiella Müll. Arg.
 
 ### Remarks
 null

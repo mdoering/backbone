@@ -1,5 +1,4 @@
-Crepidotus appalachianensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus appalachianensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

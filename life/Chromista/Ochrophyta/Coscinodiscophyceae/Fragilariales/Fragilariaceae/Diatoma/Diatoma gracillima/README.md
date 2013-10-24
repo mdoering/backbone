@@ -1,5 +1,4 @@
-Diatoma gracillima Hantzsch SPECIES
-=======
+# Diatoma gracillima Hantzsch SPECIES
 
 #### Status
 ACCEPTED

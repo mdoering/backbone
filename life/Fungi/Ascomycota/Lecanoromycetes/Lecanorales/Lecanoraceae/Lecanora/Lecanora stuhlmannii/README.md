@@ -1,5 +1,4 @@
-Lecanora stuhlmannii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora stuhlmannii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

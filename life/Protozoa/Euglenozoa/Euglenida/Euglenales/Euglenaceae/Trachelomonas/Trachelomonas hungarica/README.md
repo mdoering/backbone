@@ -1,5 +1,4 @@
-Trachelomonas hungarica var. banatica Szabados VARIETY
-=======
+# Trachelomonas hungarica Szabados SPECIES
 
 #### Status
 ACCEPTED

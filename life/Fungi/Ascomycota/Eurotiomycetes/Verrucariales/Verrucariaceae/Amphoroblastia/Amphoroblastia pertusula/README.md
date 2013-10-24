@@ -1,5 +1,4 @@
-Amphoroblastia pertusula (Nyl.) Servít SPECIES
-=======
+# Amphoroblastia pertusula (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria circumalbicans (Nyl.) SPECIES
-=======
+# Catillaria circumalbicans (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

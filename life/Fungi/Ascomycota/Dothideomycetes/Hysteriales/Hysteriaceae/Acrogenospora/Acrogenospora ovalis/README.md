@@ -1,17 +1,16 @@
-Acrogenospora ovalia Goh, K.D. Hyde & K.M. Tsui SPECIES
-=======
+# Acrogenospora ovalis Goh, K.D. Hyde & K.M. Tsui, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 102(11): 1312 (1998)
 
 #### Original name
-Acrogenospora ovalia Goh, K.D. Hyde & K.M. Tsui
+Acrogenospora ovalis Goh, K.D. Hyde & K.M. Tsui, 1998
 
 ### Remarks
 null

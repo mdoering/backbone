@@ -1,5 +1,4 @@
-Cellvibrio mixtus subsp. mixtus SUBSPECIES
-=======
+# Cellvibrio mixtus Blackall et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

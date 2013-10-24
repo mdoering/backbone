@@ -1,5 +1,4 @@
-Reticulofenestra oamaruensis (Deflandre in Deflandre & Fert, 1954) Stradner in Haq, 1968 SPECIES
-=======
+# Reticulofenestra oamaruensis (Deflandre in Deflandre & Fert, 1954) Stradner in Haq, 1968 SPECIES
 
 #### Status
 ACCEPTED

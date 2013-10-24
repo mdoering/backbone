@@ -1,5 +1,4 @@
-Psoromopsis wrightii (Tuck.) Nyl. SPECIES
-=======
+# Psoromopsis wrightii (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

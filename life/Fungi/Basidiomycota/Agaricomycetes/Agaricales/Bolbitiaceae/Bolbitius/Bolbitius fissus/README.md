@@ -1,5 +1,4 @@
-Bolbitius fissus Berk. & Broome SPECIES
-=======
+# Bolbitius fissus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

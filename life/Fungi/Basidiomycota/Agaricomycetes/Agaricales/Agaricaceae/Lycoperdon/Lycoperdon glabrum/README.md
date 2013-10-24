@@ -1,5 +1,4 @@
-Lycoperdon glabrum R. Heim SPECIES
-=======
+# Lycoperdon glabrum R. Heim SPECIES
 
 #### Status
 ACCEPTED

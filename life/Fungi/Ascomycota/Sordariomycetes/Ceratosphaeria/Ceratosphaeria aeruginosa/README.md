@@ -1,5 +1,4 @@
-Ceratosphaeria aeruginosa Rehm SPECIES
-=======
+# Ceratosphaeria aeruginosa Rehm SPECIES
 
 #### Status
 ACCEPTED

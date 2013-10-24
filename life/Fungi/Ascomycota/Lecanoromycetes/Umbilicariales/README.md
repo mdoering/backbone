@@ -1,5 +1,4 @@
-Umbilicariales Lumbsch, Hestmark & Lutzoni ORDER
-=======
+# Umbilicariales Lumbsch, Hestmark & Lutzoni ORDER
 
 #### Status
 ACCEPTED

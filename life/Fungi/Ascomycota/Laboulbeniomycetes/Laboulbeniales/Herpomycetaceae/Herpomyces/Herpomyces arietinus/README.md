@@ -1,5 +1,4 @@
-Herpomyces arietinus Thaxt. SPECIES
-=======
+# Herpomyces arietinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

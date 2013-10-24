@@ -1,8 +1,7 @@
-Merocystis tellinovum Buchanan, 1979 SPECIES
-=======
+# Pseudoklossia tellinovum (Buchanan, 1979) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

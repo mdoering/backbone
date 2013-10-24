@@ -1,5 +1,4 @@
-Camarosporium solani S. Ahmad & Archad SPECIES
-=======
+# Camarosporium solani S. Ahmad & Archad SPECIES
 
 #### Status
 ACCEPTED

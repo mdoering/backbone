@@ -1,5 +1,4 @@
-Mycosphaerella yuccae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella yuccae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

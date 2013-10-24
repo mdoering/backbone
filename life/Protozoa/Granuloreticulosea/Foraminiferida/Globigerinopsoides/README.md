@@ -1,5 +1,4 @@
-Globigerinopsoides Cita & Mazzola, 1970 GENUS
-=======
+# Globigerinopsoides Cita & Mazzola, 1970 GENUS
 
 #### Status
 ACCEPTED

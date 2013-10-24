@@ -1,5 +1,4 @@
-Auxarthron concentricum M. Solé, Cano & Guarro, 2002 SPECIES
-=======
+# Auxarthron concentricum M. Solé, Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium mutatum Jungh. SPECIES
-=======
+# Trichothecium mutatum Jungh. SPECIES
 
 #### Status
 ACCEPTED

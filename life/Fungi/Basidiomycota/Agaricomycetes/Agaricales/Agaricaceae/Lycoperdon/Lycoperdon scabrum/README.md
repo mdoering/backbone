@@ -1,14 +1,13 @@
-Bovistella scabra Lloyd, 1906 SPECIES
-=======
+# Lycoperdon scabrum (Lloyd) G. Cunn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 2(21): 248 (1906)
+Trans. & Proc. New Zealand Inst. 57: 199 (1926)
 
 #### Original name
 Bovistella scabra Lloyd, 1906

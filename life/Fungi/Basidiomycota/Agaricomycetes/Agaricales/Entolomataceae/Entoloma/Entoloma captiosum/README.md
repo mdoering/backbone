@@ -1,5 +1,4 @@
-Entoloma captiosum E. Horak, 2008 SPECIES
-=======
+# Entoloma captiosum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

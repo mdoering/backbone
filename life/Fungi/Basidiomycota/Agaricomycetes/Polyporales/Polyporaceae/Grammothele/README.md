@@ -1,5 +1,4 @@
-Grammothele Berk. & M.A. Curtis GENUS
-=======
+# Grammothele Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

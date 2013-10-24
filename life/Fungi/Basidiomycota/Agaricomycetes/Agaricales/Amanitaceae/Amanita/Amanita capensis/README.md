@@ -1,5 +1,4 @@
-Amanita capensis Walleyn & Rammeloo SPECIES
-=======
+# Amanita capensis Walleyn & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

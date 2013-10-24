@@ -1,5 +1,4 @@
-Boletus hortonii A.H. Sm. & Thiers SPECIES
-=======
+# Boletus hortonii A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

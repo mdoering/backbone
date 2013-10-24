@@ -1,5 +1,4 @@
-Sphaeria delicatula Fr. SPECIES
-=======
+# Sphaeria delicatula Fr. SPECIES
 
 #### Status
 ACCEPTED

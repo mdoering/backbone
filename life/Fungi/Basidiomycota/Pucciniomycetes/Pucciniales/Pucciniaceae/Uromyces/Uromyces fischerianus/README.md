@@ -1,5 +1,4 @@
-Uromyces fischerianus Mayor SPECIES
-=======
+# Uromyces fischerianus Mayor SPECIES
 
 #### Status
 ACCEPTED

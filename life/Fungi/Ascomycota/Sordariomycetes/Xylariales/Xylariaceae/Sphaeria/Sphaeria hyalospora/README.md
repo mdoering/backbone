@@ -1,5 +1,4 @@
-Sphaeria hyalospora Ces. SPECIES
-=======
+# Sphaeria hyalospora Ces. SPECIES
 
 #### Status
 ACCEPTED

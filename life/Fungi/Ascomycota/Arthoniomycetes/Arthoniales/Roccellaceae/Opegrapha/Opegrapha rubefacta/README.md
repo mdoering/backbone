@@ -1,5 +1,4 @@
-Opegrapha rubefacta Räsänen SPECIES
-=======
+# Opegrapha rubefacta Räsänen SPECIES
 
 #### Status
 ACCEPTED

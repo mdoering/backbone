@@ -1,5 +1,4 @@
-Eutypella chilensis Speg. SPECIES
-=======
+# Eutypella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

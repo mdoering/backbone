@@ -1,5 +1,4 @@
-Hexamitidae Kent, 1880 FAMILY
-=======
+# Hexamitidae Kent, 1880 FAMILY
 
 #### Status
 ACCEPTED

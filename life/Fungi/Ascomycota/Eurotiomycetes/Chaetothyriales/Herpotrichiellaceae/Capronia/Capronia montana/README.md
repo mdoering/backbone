@@ -1,5 +1,4 @@
-Capronia montana M.E. Barr SPECIES
-=======
+# Capronia montana M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina pallidula (Sacc.) Kuntze SPECIES
-=======
+# Calycina pallidula (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia cremicolor Hue SPECIES
-=======
+# Aspicilia cremicolor Hue SPECIES
 
 #### Status
 ACCEPTED

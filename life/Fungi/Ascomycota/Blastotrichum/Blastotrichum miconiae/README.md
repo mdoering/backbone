@@ -1,5 +1,4 @@
-Blastotrichum miconiae F. Stevens SPECIES
-=======
+# Blastotrichum miconiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

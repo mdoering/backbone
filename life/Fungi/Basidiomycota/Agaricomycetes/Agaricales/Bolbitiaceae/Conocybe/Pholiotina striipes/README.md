@@ -1,5 +1,4 @@
-Pholiotina striipes SPECIES
-=======
+# Pholiotina striipes SPECIES
 
 #### Status
 ACCEPTED

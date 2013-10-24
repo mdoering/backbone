@@ -1,5 +1,4 @@
-Cardiosporidium Gaver & Stephan, 1907 GENUS
-=======
+# Cardiosporidium Gaver & Stephan, 1907 GENUS
 
 #### Status
 ACCEPTED

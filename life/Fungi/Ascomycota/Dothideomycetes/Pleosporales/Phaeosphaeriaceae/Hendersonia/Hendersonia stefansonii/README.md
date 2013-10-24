@@ -1,5 +1,4 @@
-Hendersonia stefansonii Rostr. SPECIES
-=======
+# Hendersonia stefansonii Rostr. SPECIES
 
 #### Status
 ACCEPTED

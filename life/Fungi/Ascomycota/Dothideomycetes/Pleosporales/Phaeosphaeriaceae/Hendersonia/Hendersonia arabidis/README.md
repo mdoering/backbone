@@ -1,5 +1,4 @@
-Hendersonia arabidis Rostr. SPECIES
-=======
+# Hendersonia arabidis Rostr. SPECIES
 
 #### Status
 ACCEPTED

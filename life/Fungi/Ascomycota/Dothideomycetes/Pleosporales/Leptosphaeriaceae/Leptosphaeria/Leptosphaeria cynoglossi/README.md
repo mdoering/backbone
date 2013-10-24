@@ -1,5 +1,4 @@
-Leptosphaeria cynoglossi Hollós SPECIES
-=======
+# Leptosphaeria cynoglossi Hollós SPECIES
 
 #### Status
 ACCEPTED

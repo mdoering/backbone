@@ -1,5 +1,4 @@
-Pseudosphaerella haplopappi (Rehm) Theiss. & Syd. SPECIES
-=======
+# Pseudosphaerella haplopappi (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

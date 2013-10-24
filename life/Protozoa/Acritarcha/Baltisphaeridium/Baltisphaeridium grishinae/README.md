@@ -1,5 +1,4 @@
-Baltisphaeridium grishinae Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium grishinae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

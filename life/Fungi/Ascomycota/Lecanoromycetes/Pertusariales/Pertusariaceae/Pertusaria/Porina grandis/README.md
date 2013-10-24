@@ -1,5 +1,4 @@
-Porina grandis (Körb.) Zahlbr., 1922 SPECIES
-=======
+# Porina grandis (Körb.) Zahlbr., 1922 SPECIES
 
 #### Status
 DOUBTFUL

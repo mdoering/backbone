@@ -1,5 +1,4 @@
-Gibellula elegans Henn. SPECIES
-=======
+# Gibellula elegans Henn. SPECIES
 
 #### Status
 ACCEPTED

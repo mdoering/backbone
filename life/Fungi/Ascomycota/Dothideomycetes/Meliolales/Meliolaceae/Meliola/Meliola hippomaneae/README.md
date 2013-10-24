@@ -1,5 +1,4 @@
-Meliola hippomaneae F. Stevens SPECIES
-=======
+# Meliola hippomaneae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

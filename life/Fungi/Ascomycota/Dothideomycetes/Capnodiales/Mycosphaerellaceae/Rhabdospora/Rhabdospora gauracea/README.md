@@ -1,5 +1,4 @@
-Rhabdospora gauracea Fairm. SPECIES
-=======
+# Rhabdospora gauracea Fairm. SPECIES
 
 #### Status
 ACCEPTED

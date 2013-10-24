@@ -1,5 +1,4 @@
-Synedra formosa Hantzsch SPECIES
-=======
+# Synedra formosa Hantzsch SPECIES
 
 #### Status
 ACCEPTED

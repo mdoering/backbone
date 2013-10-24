@@ -1,5 +1,4 @@
-Piricauda funerea (Ellis & Barthol.) R.T. Moore SPECIES
-=======
+# Piricauda funerea (Ellis & Barthol.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

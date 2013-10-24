@@ -1,5 +1,4 @@
-Agaricus tympaniticus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus tympaniticus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

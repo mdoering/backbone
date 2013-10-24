@@ -1,5 +1,4 @@
-Lactarius cupularoides Raithelh. SPECIES
-=======
+# Lactarius cupularoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

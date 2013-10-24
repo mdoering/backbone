@@ -1,5 +1,4 @@
-Sporopodiopsis mortimeriana Sérus. SPECIES
-=======
+# Sporopodiopsis mortimeriana Sérus. SPECIES
 
 #### Status
 ACCEPTED

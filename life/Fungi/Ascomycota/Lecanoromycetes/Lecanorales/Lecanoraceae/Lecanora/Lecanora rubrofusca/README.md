@@ -1,5 +1,4 @@
-Lecanora rubrofusca B. de Lesd. SPECIES
-=======
+# Lecanora rubrofusca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

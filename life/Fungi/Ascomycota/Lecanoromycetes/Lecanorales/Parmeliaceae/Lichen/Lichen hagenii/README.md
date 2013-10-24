@@ -1,5 +1,4 @@
-Lichen hagenii Ach. SPECIES
-=======
+# Lichen hagenii Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psilosphaeria ventosaria (Linds.) Stev., 1879 SPECIES
-=======
+# Amphisphaeria ventosaria (Linds.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 729 (1882)
 
 #### Original name
 Sphaeria ventosaria Linds., 1864

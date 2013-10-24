@@ -1,5 +1,4 @@
-Karstenula carpinicola (Ellis & Everh.) Berl. SPECIES
-=======
+# Karstenula carpinicola (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

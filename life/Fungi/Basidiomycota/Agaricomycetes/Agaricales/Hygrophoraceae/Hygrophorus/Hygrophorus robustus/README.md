@@ -1,5 +1,4 @@
-Hygrophorus robustus F.Q. Yu SPECIES
-=======
+# Hygrophorus robustus F.Q. Yu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomidium hyalotrichum Taparia & Lodha SPECIES
-=======
+# Chaetomidium hyalotrichum Taparia & Lodha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella acori (J.M. Yen) J.M. Yen SPECIES
-=======
+# Mycovellosiella acori (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

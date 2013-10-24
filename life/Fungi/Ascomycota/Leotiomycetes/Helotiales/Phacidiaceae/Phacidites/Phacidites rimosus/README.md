@@ -1,5 +1,4 @@
-Phacidites rimosus (R. Ludw.) Schimp. SPECIES
-=======
+# Phacidites rimosus (R. Ludw.) Schimp. SPECIES
 
 #### Status
 ACCEPTED

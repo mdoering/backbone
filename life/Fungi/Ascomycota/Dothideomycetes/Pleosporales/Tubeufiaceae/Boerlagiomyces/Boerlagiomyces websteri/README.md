@@ -1,5 +1,4 @@
-Boerlagiomyces websteri Shearer & J.L. Crane SPECIES
-=======
+# Boerlagiomyces websteri Shearer & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

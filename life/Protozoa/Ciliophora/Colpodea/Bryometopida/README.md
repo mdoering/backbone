@@ -1,5 +1,4 @@
-Bryometopida ORDER
-=======
+# Bryometopida ORDER
 
 #### Status
 ACCEPTED

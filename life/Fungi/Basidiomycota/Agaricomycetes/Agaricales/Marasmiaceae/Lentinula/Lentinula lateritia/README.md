@@ -1,14 +1,13 @@
-Pocillaria lateritia (Berk.) Kuntze, 1891 SPECIES
-=======
+# Lentinula lateritia (Berk.) Pegler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Sydowia 36: 232 (1983)
 
 #### Original name
 Lentinus lateritius Berk., 1881

@@ -1,5 +1,4 @@
-Xanthoparmelia lobuliferella Elix SPECIES
-=======
+# Xanthoparmelia lobuliferella Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea variabilis (S. Ito) Kakish. SPECIES
-=======
+# Anthracoidea variabilis (S. Ito) Kakish. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Lepocinclis ovum subsp. ovum SUBSPECIES
-=======
+# Lepocinclis ovum (Ehrenberg) Minkewicz SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

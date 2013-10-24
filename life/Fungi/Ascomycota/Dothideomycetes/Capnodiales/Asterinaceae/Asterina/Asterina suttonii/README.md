@@ -1,17 +1,16 @@
-Asterina suttoni Hosag. & C.K. Biju, 2004 SPECIES
-=======
+# Asterina suttonii Hosag. & C.K. Biju, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hosagoudar, Biju & Abraham, J. Econ. Taxon. Bot. 28(1): 181 (2004)
 
 #### Original name
-Asterina suttoni Hosag. & C.K. Biju, 2004
+Asterina suttonii Hosag. & C.K. Biju, 2004
 
 ### Remarks
 null

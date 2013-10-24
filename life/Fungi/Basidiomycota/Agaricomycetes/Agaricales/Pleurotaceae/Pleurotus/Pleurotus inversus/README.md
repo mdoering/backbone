@@ -1,5 +1,4 @@
-Pleurotus inversus Kauffman & A.H. Sm. SPECIES
-=======
+# Pleurotus inversus Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

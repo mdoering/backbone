@@ -1,5 +1,4 @@
-Zignoëlla emergens (P. Karst.) Sacc. SPECIES
-=======
+# Zignoëlla emergens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

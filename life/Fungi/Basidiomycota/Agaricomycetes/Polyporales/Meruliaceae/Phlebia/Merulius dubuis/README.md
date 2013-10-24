@@ -1,5 +1,4 @@
-Merulius dubuis Burt SPECIES
-=======
+# Merulius dubuis Burt SPECIES
 
 #### Status
 ACCEPTED

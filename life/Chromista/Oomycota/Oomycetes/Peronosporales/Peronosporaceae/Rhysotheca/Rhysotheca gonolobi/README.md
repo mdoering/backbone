@@ -1,5 +1,4 @@
-Rhysotheca gonolobi (Lagerh.) G.W. Wilson SPECIES
-=======
+# Rhysotheca gonolobi (Lagerh.) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

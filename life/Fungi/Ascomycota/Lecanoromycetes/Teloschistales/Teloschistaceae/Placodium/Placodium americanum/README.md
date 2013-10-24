@@ -1,5 +1,4 @@
-Placodium americanum (Malme) Räsänen SPECIES
-=======
+# Placodium americanum (Malme) Räsänen SPECIES
 
 #### Status
 ACCEPTED

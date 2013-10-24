@@ -1,5 +1,4 @@
-Biatora coronata Th. Fr. SPECIES
-=======
+# Biatora coronata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

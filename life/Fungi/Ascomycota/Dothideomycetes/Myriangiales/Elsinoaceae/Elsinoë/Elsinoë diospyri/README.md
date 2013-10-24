@@ -1,5 +1,4 @@
-Elsinoë diospyri Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Elsinoë diospyri Bitanc. & Jenkins, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clinterium obduratum Fr. SPECIES
-=======
+# Clinterium obduratum Fr. SPECIES
 
 #### Status
 ACCEPTED

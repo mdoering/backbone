@@ -1,5 +1,4 @@
-Anthostomella semitecta Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
-=======
+# Anthostomella semitecta Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
 
 #### Status
 ACCEPTED

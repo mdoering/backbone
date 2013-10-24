@@ -1,5 +1,4 @@
-Tricholoma subclytocybe Velen. SPECIES
-=======
+# Tricholoma subclytocybe Velen. SPECIES
 
 #### Status
 ACCEPTED

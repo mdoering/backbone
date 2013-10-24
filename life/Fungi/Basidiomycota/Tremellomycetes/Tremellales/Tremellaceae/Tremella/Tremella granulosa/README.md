@@ -1,5 +1,4 @@
-Tremella granulosa Bull. SPECIES
-=======
+# Tremella granulosa Bull. SPECIES
 
 #### Status
 ACCEPTED

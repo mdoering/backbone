@@ -1,5 +1,4 @@
-Ustilagites Babajan & Tasl. GENUS
-=======
+# Ustilagites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ozonium muscorum Roum. & Pat. SPECIES
-=======
+# Ozonium muscorum Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurosphaera Haeckel, 1881 GENUS
-=======
+# Staurosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

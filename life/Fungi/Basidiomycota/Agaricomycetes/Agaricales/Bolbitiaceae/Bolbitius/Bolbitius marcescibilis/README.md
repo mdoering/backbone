@@ -1,5 +1,4 @@
-Bolbitius marcescibilis Britzelm. SPECIES
-=======
+# Bolbitius marcescibilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

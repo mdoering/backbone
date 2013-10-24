@@ -1,17 +1,16 @@
-Diachea bulbillosa splendens (Peck) G. Lister, 1925 INFRASPECIFIC_NAME
-=======
+# Diachea splendens Peck, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37: 54 (1898)
 
 #### Original name
-null
+Diachea splendens Peck, 1878
 
 ### Remarks
 null

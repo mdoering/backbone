@@ -1,5 +1,4 @@
-Lichen atroalbus L. SPECIES
-=======
+# Lichen atroalbus L. SPECIES
 
 #### Status
 ACCEPTED

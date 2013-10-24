@@ -1,5 +1,4 @@
-Asteromella ononidis (Unamuno) Vanev & Aa SPECIES
-=======
+# Asteromella ononidis (Unamuno) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

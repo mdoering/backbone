@@ -1,5 +1,4 @@
-Propolis rufa Berk. & Cooke SPECIES
-=======
+# Propolis rufa Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

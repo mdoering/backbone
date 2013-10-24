@@ -1,5 +1,4 @@
-Arthopyrenia simulans Müll. Arg. SPECIES
-=======
+# Arthopyrenia simulans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

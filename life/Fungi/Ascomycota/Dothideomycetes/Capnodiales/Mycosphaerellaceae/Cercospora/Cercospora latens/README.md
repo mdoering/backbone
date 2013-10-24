@@ -1,5 +1,4 @@
-Cercospora latens f. latens FORM
-=======
+# Cercospora latens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 4(1): 3 (1888)
 
 #### Original name
-Cercospora latens f. latens
+Cercospora latens Ellis & Everh.
 
 ### Remarks
 null

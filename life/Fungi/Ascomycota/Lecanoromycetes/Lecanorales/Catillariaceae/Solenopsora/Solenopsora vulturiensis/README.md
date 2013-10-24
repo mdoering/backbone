@@ -1,17 +1,16 @@
-Lecanora vulturiensis (A. Massal.) Lojka SPECIES
-=======
+# Solenopsora vulturiensis A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lotos 6: 75 (1856)
 
 #### Original name
-null
+Solenopsora vulturiensis A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catillaria franciscana (Tuck.) Herre SPECIES
-=======
+# Catillaria franciscana (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

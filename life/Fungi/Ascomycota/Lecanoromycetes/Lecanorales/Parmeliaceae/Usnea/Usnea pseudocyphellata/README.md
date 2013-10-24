@@ -1,5 +1,4 @@
-Usnea pseudocyphellata Motyka SPECIES
-=======
+# Usnea pseudocyphellata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Excipulites callipteridis (Schimp.) Mesch. SPECIES
-=======
+# Excipulites callipteridis (Schimp.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

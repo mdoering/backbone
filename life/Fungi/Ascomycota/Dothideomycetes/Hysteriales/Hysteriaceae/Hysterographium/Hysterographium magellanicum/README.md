@@ -1,5 +1,4 @@
-Hysterographium magellanicum Speg. SPECIES
-=======
+# Hysterographium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geophila cotonea Quél. SPECIES
-=======
+# Geophila cotonea Quél. SPECIES
 
 #### Status
 ACCEPTED

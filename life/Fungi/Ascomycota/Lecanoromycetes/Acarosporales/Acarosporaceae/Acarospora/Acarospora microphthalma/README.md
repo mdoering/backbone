@@ -1,5 +1,4 @@
-Acarospora microphthalma (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora microphthalma (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

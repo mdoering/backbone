@@ -1,14 +1,13 @@
-Orbilia lunata Korf, 1992 SPECIES
-=======
+# Hyalorbilia lunata (Korf) Baral, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 508 (1992)
+Micologia 2000 (Trento) 44 (2000)
 
 #### Original name
 Orbilia lunata Korf, 1992

@@ -1,5 +1,4 @@
-Cercospora camelinae Annal. SPECIES
-=======
+# Cercospora camelinae Annal. SPECIES
 
 #### Status
 ACCEPTED

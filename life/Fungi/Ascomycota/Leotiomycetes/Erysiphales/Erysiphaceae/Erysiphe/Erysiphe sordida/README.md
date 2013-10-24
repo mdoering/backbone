@@ -1,14 +1,13 @@
-Erysiphe artemisiae var. sordida (L. Junell) Ialongo, 1992 VARIETY
-=======
+# Erysiphe sordida L. Junell, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 44(1): 256 (1992)
+Trans. Br. mycol. Soc. 48: 544 (1965)
 
 #### Original name
 Erysiphe sordida L. Junell, 1965

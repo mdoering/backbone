@@ -1,5 +1,4 @@
-Polyblastiopsis guineensis (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis guineensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

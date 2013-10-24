@@ -1,17 +1,16 @@
-Phaeosphaeria avenaria f. sp FORM
-=======
+# Leptosphaeria avenaria G.F. Weber, 1922 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. , Ser. 2 6: 408 (1967)
+null
 
 #### Original name
-Phaeosphaeria avenaria f. sp
+null
 
 ### Remarks
 null

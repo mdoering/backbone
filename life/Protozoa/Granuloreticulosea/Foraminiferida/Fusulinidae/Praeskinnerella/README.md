@@ -1,17 +1,16 @@
-Guembelites Bensh, 1987 GENUS
-=======
+# Praeskinnerella Bensh, 1991 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Vopr Mikropaleontol No. 29: 35.
+Paleontol Zh 1991 (4): 107.
 
 #### Original name
-null
+Guembelites Bensh, 1987
 
 ### Remarks
 null

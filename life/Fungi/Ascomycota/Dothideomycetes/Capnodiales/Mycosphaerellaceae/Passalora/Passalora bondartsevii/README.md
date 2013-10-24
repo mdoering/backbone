@@ -1,5 +1,4 @@
-Passalora bondartsevii U. Braun & Melnik SPECIES
-=======
+# Passalora bondartsevii U. Braun & Melnik SPECIES
 
 #### Status
 ACCEPTED

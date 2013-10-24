@@ -1,5 +1,4 @@
-Calicasphaera diconstricta A. Kleijne SPECIES
-=======
+# Calicasphaera diconstricta A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Acholeplasma bactoclasticum Robinson & Hungate, 1973 SPECIES
-=======
+# Anaeroplasma bactoclasticum (Robinson and Hungate, 1973) Robinson and Allison, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

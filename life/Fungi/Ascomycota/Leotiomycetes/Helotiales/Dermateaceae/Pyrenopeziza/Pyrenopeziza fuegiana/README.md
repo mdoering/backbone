@@ -1,5 +1,4 @@
-Pyrenopeziza fuegiana Speg. SPECIES
-=======
+# Pyrenopeziza fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

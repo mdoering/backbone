@@ -1,5 +1,4 @@
-Clavaria subfistulosa Henn. SPECIES
-=======
+# Clavaria subfistulosa Henn. SPECIES
 
 #### Status
 ACCEPTED

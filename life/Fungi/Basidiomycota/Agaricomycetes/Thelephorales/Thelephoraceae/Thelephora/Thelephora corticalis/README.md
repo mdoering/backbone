@@ -1,5 +1,4 @@
-Thelephora corticalis Schrad. SPECIES
-=======
+# Thelephora corticalis Schrad. SPECIES
 
 #### Status
 ACCEPTED

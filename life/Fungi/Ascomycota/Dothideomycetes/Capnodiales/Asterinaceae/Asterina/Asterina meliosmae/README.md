@@ -1,5 +1,4 @@
-Asterina meliosmae W. Yamam. SPECIES
-=======
+# Asterina meliosmae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

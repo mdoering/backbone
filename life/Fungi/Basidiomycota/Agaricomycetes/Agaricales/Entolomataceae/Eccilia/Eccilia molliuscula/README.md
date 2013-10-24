@@ -1,5 +1,4 @@
-Eccilia molliuscula anon. SPECIES
-=======
+# Eccilia molliuscula anon. SPECIES
 
 #### Status
 ACCEPTED

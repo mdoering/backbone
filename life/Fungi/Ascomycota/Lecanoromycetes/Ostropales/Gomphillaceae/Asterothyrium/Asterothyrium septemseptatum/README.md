@@ -1,17 +1,16 @@
-Asterothyrium septemseptatum subsp. septemseptatum SUBSPECIES
-=======
+# Asterothyrium septemseptatum Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 20(3): 208 (1999)
 
 #### Original name
-null
+Asterothyrium septemseptatum Lücking
 
 ### Remarks
 null

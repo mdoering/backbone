@@ -1,5 +1,4 @@
-Glonium cypericola Henn. SPECIES
-=======
+# Glonium cypericola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Feldmannia battersii var. mediterranea (Bornet) Hamel VARIETY
-=======
+# Feldmannia battersiides (Ercegovic) Cormaci & G. Furnari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

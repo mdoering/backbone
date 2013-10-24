@@ -1,5 +1,4 @@
-Dothiorella magnifructa (Peck) Petr. & Syd. SPECIES
-=======
+# Dothiorella magnifructa (Peck) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

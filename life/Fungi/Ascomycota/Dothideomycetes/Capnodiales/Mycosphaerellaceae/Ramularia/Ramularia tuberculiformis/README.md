@@ -1,5 +1,4 @@
-Ramularia tuberculiformis (Höhn.) U. Braun SPECIES
-=======
+# Ramularia tuberculiformis (Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

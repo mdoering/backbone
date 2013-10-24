@@ -1,5 +1,4 @@
-Spumiosa laxa Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
-=======
+# Spumiosa laxa Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
 
 #### Status
 ACCEPTED

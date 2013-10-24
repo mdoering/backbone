@@ -1,5 +1,4 @@
-Encoelia populnea P. Karst., 1871 SPECIES
-=======
+# Encoelia populnea P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

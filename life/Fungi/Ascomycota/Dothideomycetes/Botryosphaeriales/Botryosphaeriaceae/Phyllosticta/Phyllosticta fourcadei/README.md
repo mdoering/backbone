@@ -1,5 +1,4 @@
-Phyllosticta fourcadei Sacc. SPECIES
-=======
+# Phyllosticta fourcadei Sacc. SPECIES
 
 #### Status
 ACCEPTED

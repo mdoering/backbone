@@ -1,17 +1,16 @@
-Peziza villosa var. villosa VARIETY
-=======
+# Peziza villosa Hedw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Descr. micr. -anal. musc. frond. 2: 53, tab. 19B (1789)
 
 #### Original name
-null
+Peziza villosa Hedw.
 
 ### Remarks
 null

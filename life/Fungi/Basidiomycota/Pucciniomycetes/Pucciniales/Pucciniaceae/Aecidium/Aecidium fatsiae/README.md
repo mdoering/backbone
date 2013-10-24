@@ -1,5 +1,4 @@
-Aecidium fatsiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium fatsiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

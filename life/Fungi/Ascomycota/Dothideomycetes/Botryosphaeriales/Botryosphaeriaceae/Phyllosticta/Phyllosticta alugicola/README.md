@@ -1,5 +1,4 @@
-Phyllosticta alugicola Cejp SPECIES
-=======
+# Phyllosticta alugicola Cejp SPECIES
 
 #### Status
 ACCEPTED

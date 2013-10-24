@@ -1,5 +1,4 @@
-Solenia cinerea Burt SPECIES
-=======
+# Solenia cinerea Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pyrrhopappi Syd. & P. Syd. SPECIES
-=======
+# Puccinia pyrrhopappi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

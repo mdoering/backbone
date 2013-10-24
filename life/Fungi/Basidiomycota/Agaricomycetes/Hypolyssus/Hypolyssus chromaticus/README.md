@@ -1,5 +1,4 @@
-Hypolyssus chromaticus (Berk. & Broome) Kuntze SPECIES
-=======
+# Hypolyssus chromaticus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia trautvetteriae Nutt. SPECIES
-=======
+# Vermicularia trautvetteriae Nutt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium stromaticum Corda, 1837 SPECIES
-=======
+# Melanconium stromaticum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

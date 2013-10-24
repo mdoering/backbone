@@ -1,5 +1,4 @@
-Aplosporella bogoriensis Penz. & Sacc. SPECIES
-=======
+# Aplosporella bogoriensis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

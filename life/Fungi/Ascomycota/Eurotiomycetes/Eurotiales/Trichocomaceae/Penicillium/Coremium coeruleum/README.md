@@ -1,5 +1,4 @@
-Coremium coeruleum (Henn.) Höhn. SPECIES
-=======
+# Coremium coeruleum (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

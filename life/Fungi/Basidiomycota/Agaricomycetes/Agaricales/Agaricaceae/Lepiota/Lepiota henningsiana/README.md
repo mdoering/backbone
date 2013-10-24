@@ -1,5 +1,4 @@
-Lepiota henningsiana Sacc. & D. Sacc. SPECIES
-=======
+# Lepiota henningsiana Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

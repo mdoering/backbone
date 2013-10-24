@@ -1,5 +1,4 @@
-Coprinus phylladophilus Singer SPECIES
-=======
+# Coprinus phylladophilus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella caricina Dearn. & House SPECIES
-=======
+# Dothidella caricina Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

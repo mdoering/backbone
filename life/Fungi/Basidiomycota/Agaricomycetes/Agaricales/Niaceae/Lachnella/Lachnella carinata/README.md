@@ -1,5 +1,4 @@
-Lachnella carinata (Cooke & Massee) SPECIES
-=======
+# Lachnella carinata (Cooke & Massee) SPECIES
 
 #### Status
 ACCEPTED

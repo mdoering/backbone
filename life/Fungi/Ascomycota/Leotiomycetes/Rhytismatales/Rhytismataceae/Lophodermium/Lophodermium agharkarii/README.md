@@ -1,5 +1,4 @@
-Lophodermium agharkarii Tilak SPECIES
-=======
+# Lophodermium agharkarii Tilak SPECIES
 
 #### Status
 ACCEPTED

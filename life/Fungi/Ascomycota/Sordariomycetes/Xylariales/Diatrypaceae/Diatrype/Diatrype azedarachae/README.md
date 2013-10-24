@@ -1,5 +1,4 @@
-Diatrype azedarachae Cooke SPECIES
-=======
+# Diatrype azedarachae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeoporus leptopilus Lév. SPECIES
-=======
+# Gloeoporus leptopilus Lév. SPECIES
 
 #### Status
 ACCEPTED

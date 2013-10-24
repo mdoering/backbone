@@ -1,5 +1,4 @@
-Pseudocercospora camptothecae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora camptothecae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

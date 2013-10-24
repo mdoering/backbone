@@ -1,17 +1,16 @@
-Pseudocercospora xenosyzgiicola Crous SPECIES
-=======
+# Pseudocercospora xenosyzygiicola Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 103(5): 616 (1999)
 
 #### Original name
-Pseudocercospora xenosyzgiicola Crous
+Pseudocercospora xenosyzygiicola Crous
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavulina gracilis SPECIES
-=======
+# Clavulina gracilis SPECIES
 
 #### Status
 ACCEPTED

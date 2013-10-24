@@ -1,5 +1,4 @@
-Amphisphaeria palmicola (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Amphisphaeria palmicola (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

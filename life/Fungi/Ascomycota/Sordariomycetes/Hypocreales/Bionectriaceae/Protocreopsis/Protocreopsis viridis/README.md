@@ -1,5 +1,4 @@
-Protocreopsis viridis Samuels SPECIES
-=======
+# Protocreopsis viridis Samuels SPECIES
 
 #### Status
 ACCEPTED

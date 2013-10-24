@@ -1,5 +1,4 @@
-Irene anthocleistae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Irene anthocleistae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

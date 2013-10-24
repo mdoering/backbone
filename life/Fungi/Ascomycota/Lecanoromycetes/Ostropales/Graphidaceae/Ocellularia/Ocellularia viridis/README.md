@@ -1,5 +1,4 @@
-Ocellularia viridis Hale SPECIES
-=======
+# Ocellularia viridis Hale SPECIES
 
 #### Status
 ACCEPTED

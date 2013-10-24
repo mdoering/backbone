@@ -1,5 +1,4 @@
-Cylindrocarpon boninense Ts. Watan. SPECIES
-=======
+# Cylindrocarpon boninense Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

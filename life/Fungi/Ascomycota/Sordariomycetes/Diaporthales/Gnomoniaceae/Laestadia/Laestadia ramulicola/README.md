@@ -1,5 +1,4 @@
-Laestadia ramulicola Pass. SPECIES
-=======
+# Laestadia ramulicola Pass. SPECIES
 
 #### Status
 ACCEPTED

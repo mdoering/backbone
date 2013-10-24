@@ -1,5 +1,4 @@
-Sporisorium trachypogonis-spicati Vánky & C. Vánky SPECIES
-=======
+# Sporisorium trachypogonis-spicati Vánky & C. Vánky SPECIES
 
 #### Status
 ACCEPTED

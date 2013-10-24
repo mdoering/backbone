@@ -1,5 +1,4 @@
-Graphiola applanata Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Graphiola applanata Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

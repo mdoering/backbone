@@ -1,5 +1,4 @@
-Pterula incarnata Pat. SPECIES
-=======
+# Pterula incarnata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeopeniophorella Rick, 1934 GENUS
-=======
+# Gloeopeniophorella Rick, 1934 GENUS
 
 #### Status
 ACCEPTED

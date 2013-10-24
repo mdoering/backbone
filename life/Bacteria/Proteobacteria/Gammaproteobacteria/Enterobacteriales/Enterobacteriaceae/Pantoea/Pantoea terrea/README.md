@@ -1,5 +1,4 @@
-Pantoea terrea Kageyama et al., 1992 SPECIES
-=======
+# Pantoea terrea Kageyama et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

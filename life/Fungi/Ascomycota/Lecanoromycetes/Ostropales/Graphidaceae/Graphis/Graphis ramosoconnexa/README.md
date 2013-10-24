@@ -1,5 +1,4 @@
-Graphis ramosoconnexa Vain. SPECIES
-=======
+# Graphis ramosoconnexa Vain. SPECIES
 
 #### Status
 ACCEPTED

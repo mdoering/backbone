@@ -1,5 +1,4 @@
-Diplomitoporus venezuelicus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Diplomitoporus venezuelicus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

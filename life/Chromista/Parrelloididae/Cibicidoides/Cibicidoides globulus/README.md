@@ -1,5 +1,4 @@
-Cibicidoides globulus Saidova, 1975 SPECIES
-=======
+# Cibicidoides globulus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

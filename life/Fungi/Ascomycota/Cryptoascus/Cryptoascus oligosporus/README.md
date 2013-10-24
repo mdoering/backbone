@@ -1,14 +1,13 @@
-Melanospora oligospora (Petri) Cif. SPECIES
-=======
+# Cryptoascus oligosporus Petri, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 11: 286 (1958)
+Atti Reale Accad. Lincei, Rendiconti Cl. Sci. Fis. , ser. 5 18(2): 642 (1909)
 
 #### Original name
 Cryptoascus oligosporus Petri, 1909

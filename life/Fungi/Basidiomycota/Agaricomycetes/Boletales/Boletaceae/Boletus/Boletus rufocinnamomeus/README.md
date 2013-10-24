@@ -1,5 +1,4 @@
-Boletus rufocinnamomeus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus rufocinnamomeus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

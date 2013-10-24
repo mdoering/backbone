@@ -1,5 +1,4 @@
-Hexacromyum elegans Haeckel, 1887 SPECIES
-=======
+# Hexacromyum elegans Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma tami Lamy SPECIES
-=======
+# Phoma tami Lamy SPECIES
 
 #### Status
 ACCEPTED

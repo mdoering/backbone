@@ -1,14 +1,13 @@
-Sticta filix var. myrioloba Müll. Arg. VARIETY
-=======
+# Sticta myrioloba (Müll. Arg.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 69: 254 (1886)
+Trop. Bryol. 15: 143 (1998)
 
 #### Original name
 Sticta filix var. myrioloba Müll. Arg.

@@ -1,5 +1,4 @@
-Oovorus Entz GENUS
-=======
+# Oovorus Entz GENUS
 
 #### Status
 ACCEPTED

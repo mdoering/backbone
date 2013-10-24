@@ -1,5 +1,4 @@
-Zeora confragosa (Ach.) Flot. SPECIES
-=======
+# Zeora confragosa (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED

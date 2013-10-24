@@ -1,5 +1,4 @@
-Godronia tumoricola (Cash) Seaver SPECIES
-=======
+# Godronia tumoricola (Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

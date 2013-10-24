@@ -1,17 +1,16 @@
-Rhizophydium venezuelensis Karling SPECIES
-=======
+# Rhizophydium venezuelense Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 34(3 & 4): 646 (1981)
 
 #### Original name
-Rhizophydium venezuelensis Karling
+Rhizophydium venezuelense Karling
 
 ### Remarks
 null

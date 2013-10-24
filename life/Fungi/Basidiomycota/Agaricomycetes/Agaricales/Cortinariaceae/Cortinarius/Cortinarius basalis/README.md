@@ -1,5 +1,4 @@
-Cortinarius basalis Peck SPECIES
-=======
+# Cortinarius basalis Peck SPECIES
 
 #### Status
 ACCEPTED

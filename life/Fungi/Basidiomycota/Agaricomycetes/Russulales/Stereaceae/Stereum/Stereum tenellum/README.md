@@ -1,5 +1,4 @@
-Stereum tenellum Kalchbr. SPECIES
-=======
+# Stereum tenellum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophacidium decorticans Rehm SPECIES
-=======
+# Pseudophacidium decorticans Rehm SPECIES
 
 #### Status
 ACCEPTED

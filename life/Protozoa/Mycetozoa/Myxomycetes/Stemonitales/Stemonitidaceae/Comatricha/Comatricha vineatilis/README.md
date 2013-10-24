@@ -1,5 +1,4 @@
-Comatricha vineatilis Nann.-Bremek., 1989 SPECIES
-=======
+# Comatricha vineatilis Nann.-Bremek., 1989 SPECIES
 
 #### Status
 ACCEPTED

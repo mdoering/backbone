@@ -1,5 +1,4 @@
-Gloniella chinincola Rehm SPECIES
-=======
+# Gloniella chinincola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe olivaceopicta (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe olivaceopicta (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

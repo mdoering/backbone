@@ -1,5 +1,4 @@
-Sistotremella perpusilla Hjortstam, 1984 SPECIES
-=======
+# Sistotremella perpusilla Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

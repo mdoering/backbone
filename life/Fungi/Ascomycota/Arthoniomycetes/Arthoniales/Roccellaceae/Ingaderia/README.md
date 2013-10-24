@@ -1,17 +1,16 @@
-Darbishirella Zahlbr. GENUS
-=======
+# Ingaderia Darb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Darbishire, Ber. dt. bot. Ges. 16: 13, 15 (1898)
+Ber. dt. bot. Ges. 15: 6, 8 (1897)
 
 #### Original name
-Darbishirella Zahlbr.
+Ingaderia Darb.
 
 ### Remarks
 null

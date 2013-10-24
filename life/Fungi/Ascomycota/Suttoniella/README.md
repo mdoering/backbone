@@ -1,17 +1,16 @@
-Suttonia S. Ahmad GENUS
-=======
+# Suttoniella S. Ahmad GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biologia, Lahore 6(2): 128 (1961)
+Biologia, Lahore 6: 257 (1961)
 
 #### Original name
-Suttonia S. Ahmad
+Suttoniella S. Ahmad
 
 ### Remarks
 null

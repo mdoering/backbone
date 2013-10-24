@@ -1,5 +1,4 @@
-Collybia ixodes (Secr. ex Mont.) Sacc. SPECIES
-=======
+# Collybia ixodes (Secr. ex Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius subramealis Dennis SPECIES
-=======
+# Marasmius subramealis Dennis SPECIES
 
 #### Status
 ACCEPTED

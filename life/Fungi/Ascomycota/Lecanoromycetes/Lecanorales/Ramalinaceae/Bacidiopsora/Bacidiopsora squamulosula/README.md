@@ -1,14 +1,13 @@
-Lecidea squamulosula Nyl. SPECIES
-=======
+# Bacidiopsora squamulosula (Nyl.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 461 (1863)
+Lichenes Neotropici (Neumarkt), Fascicle <b>X</b> (nos 401-450) 4 (1988)
 
 #### Original name
 Lecidea squamulosula Nyl.

@@ -1,5 +1,4 @@
-Dichosporidium latisporum G. Thor & Henssen SPECIES
-=======
+# Dichosporidium latisporum G. Thor & Henssen SPECIES
 
 #### Status
 ACCEPTED

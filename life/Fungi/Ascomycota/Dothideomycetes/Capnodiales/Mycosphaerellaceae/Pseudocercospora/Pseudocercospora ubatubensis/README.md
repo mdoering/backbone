@@ -1,5 +1,4 @@
-Pseudocercospora ubatubensis (Chupp & Viégas) Deighton SPECIES
-=======
+# Pseudocercospora ubatubensis (Chupp & Viégas) Deighton SPECIES
 
 #### Status
 ACCEPTED

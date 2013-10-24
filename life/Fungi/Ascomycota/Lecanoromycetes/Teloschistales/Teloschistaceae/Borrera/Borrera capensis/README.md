@@ -1,5 +1,4 @@
-Borrera capensis (L. f.) Ach. SPECIES
-=======
+# Borrera capensis (L. f.) Ach. SPECIES
 
 #### Status
 ACCEPTED

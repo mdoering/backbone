@@ -1,5 +1,4 @@
-Gracilisphaeridium gracile Cramer et al., 1979 SPECIES
-=======
+# Gracilisphaeridium gracile Cramer et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

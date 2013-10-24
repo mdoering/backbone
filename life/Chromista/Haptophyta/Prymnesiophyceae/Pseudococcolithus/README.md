@@ -1,5 +1,4 @@
-Pseudococcolithus Nishida, 1968 GENUS
-=======
+# Pseudococcolithus Nishida, 1968 GENUS
 
 #### Status
 ACCEPTED

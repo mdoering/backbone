@@ -1,5 +1,4 @@
-Polyedryxium decorum Deunff, 1955 SPECIES
-=======
+# Polyedryxium decorum Deunff, 1955 SPECIES
 
 #### Status
 ACCEPTED

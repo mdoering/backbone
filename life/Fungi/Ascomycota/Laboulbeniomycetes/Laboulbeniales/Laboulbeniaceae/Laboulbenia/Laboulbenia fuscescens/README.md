@@ -1,5 +1,4 @@
-Laboulbenia fuscescens Speg. SPECIES
-=======
+# Laboulbenia fuscescens Speg. SPECIES
 
 #### Status
 ACCEPTED

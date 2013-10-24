@@ -1,5 +1,4 @@
-Lactobacillus heterohiochii Kitahara et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus heterohiochii Kitahara et al., 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

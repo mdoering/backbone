@@ -1,5 +1,4 @@
-Coleosporium phyllanthinum Syd. SPECIES
-=======
+# Coleosporium phyllanthinum Syd. SPECIES
 
 #### Status
 ACCEPTED

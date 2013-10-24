@@ -1,5 +1,4 @@
-Taeniolella deightonii J.L. Crane & Schokn. SPECIES
-=======
+# Taeniolella deightonii J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

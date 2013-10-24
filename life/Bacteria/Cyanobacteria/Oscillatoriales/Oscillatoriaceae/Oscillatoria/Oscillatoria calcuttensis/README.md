@@ -1,5 +1,4 @@
-Oscillatoria calcuttensis Biswas SPECIES
-=======
+# Oscillatoria calcuttensis Biswas SPECIES
 
 #### Status
 ACCEPTED

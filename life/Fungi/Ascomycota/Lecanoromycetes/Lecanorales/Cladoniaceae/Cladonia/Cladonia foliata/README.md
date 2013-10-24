@@ -1,5 +1,4 @@
-Cladonia foliata (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Cladonia foliata (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

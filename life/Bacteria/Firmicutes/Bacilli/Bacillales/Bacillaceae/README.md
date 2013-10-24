@@ -1,5 +1,4 @@
-Bacillaceae FAMILY
-=======
+# Bacillaceae FAMILY
 
 #### Status
 ACCEPTED

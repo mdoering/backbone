@@ -1,5 +1,4 @@
-Meliola jasminicola Henn. SPECIES
-=======
+# Meliola jasminicola Henn. SPECIES
 
 #### Status
 ACCEPTED

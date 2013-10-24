@@ -1,5 +1,4 @@
-Michajlowiella P. Bourrelly, 1985 GENUS
-=======
+# Michajlowiella P. Bourrelly, 1985 GENUS
 
 #### Status
 ACCEPTED

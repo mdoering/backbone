@@ -1,5 +1,4 @@
-Athecaria GENUS
-=======
+# Athecaria GENUS
 
 #### Status
 ACCEPTED

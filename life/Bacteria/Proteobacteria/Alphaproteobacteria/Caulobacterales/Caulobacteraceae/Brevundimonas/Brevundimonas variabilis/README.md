@@ -1,8 +1,7 @@
-Caulobacter variabilis (ex Poindexter, 1964) Poindexter, 1989 SPECIES
-=======
+# Brevundimonas variabilis (Poindexter, 1989) Abraham et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

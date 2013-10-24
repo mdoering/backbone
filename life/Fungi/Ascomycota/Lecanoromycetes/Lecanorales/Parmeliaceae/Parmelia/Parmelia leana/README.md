@@ -1,5 +1,4 @@
-Parmelia leana Tuck. SPECIES
-=======
+# Parmelia leana Tuck. SPECIES
 
 #### Status
 ACCEPTED

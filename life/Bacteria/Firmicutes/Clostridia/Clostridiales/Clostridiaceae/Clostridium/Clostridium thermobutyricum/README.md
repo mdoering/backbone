@@ -1,5 +1,4 @@
-Clostridium thermobutyricum Wiegel et al., 1989 SPECIES
-=======
+# Clostridium thermobutyricum Wiegel et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

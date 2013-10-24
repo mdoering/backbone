@@ -1,5 +1,4 @@
-Pertusaria endoxantha Vain. SPECIES
-=======
+# Pertusaria endoxantha Vain. SPECIES
 
 #### Status
 ACCEPTED

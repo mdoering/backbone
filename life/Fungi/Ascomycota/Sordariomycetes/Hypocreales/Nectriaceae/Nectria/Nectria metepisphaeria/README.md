@@ -1,5 +1,4 @@
-Nectria metepisphaeria Samuels SPECIES
-=======
+# Nectria metepisphaeria Samuels SPECIES
 
 #### Status
 ACCEPTED

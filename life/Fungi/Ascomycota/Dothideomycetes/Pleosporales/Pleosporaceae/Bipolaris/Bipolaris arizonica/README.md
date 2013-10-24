@@ -1,5 +1,4 @@
-Bipolaris arizonica R. Sprague SPECIES
-=======
+# Bipolaris arizonica R. Sprague SPECIES
 
 #### Status
 ACCEPTED

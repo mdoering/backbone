@@ -1,5 +1,4 @@
-Buellia inornata Zahlbr. SPECIES
-=======
+# Buellia inornata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

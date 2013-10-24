@@ -1,14 +1,13 @@
-Stereum sinense Lloyd, 1922 SPECIES
-=======
+# Pseudocraterellus sinensis (Lloyd) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1115 (1922)
+Persoonia 2(2): 138 (1962)
 
 #### Original name
 Stereum sinense Lloyd, 1922

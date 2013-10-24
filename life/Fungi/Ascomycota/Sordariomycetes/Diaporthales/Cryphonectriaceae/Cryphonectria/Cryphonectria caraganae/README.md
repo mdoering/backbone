@@ -1,5 +1,4 @@
-Cryphonectria caraganae (Höhn.) Sacc. SPECIES
-=======
+# Cryphonectria caraganae (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

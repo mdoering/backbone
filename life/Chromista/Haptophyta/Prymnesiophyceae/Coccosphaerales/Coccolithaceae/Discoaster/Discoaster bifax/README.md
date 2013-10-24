@@ -1,5 +1,4 @@
-Discoaster bifax Bukry, 1971 SPECIES
-=======
+# Discoaster bifax Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

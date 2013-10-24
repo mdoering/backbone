@@ -1,14 +1,13 @@
-Microthelia thelenula Müll. Arg. SPECIES
-=======
+# Jarxia thelenula (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 31: 95 (1989)
 
 #### Original name
 Microthelia thelenula Müll. Arg.

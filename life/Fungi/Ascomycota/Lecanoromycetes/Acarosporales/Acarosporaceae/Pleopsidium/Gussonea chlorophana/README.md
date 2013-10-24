@@ -1,5 +1,4 @@
-Gussonea chlorophana (Wahlenb.) Tournab. SPECIES
-=======
+# Gussonea chlorophana (Wahlenb.) Tournab. SPECIES
 
 #### Status
 ACCEPTED

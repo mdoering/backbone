@@ -1,5 +1,4 @@
-Cortinarius proximus-unus (Ramm & Rob. Henry) Bidaud, Moënne-Locc., Reumaux & Rob. Henry SPECIES
-=======
+# Cortinarius proximus-unus (Ramm & Rob. Henry) Bidaud, Moënne-Locc., Reumaux & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

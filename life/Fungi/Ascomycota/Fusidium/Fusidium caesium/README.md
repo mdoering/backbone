@@ -1,5 +1,4 @@
-Fusidium caesium Schwein. SPECIES
-=======
+# Fusidium caesium Schwein. SPECIES
 
 #### Status
 ACCEPTED

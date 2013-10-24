@@ -1,5 +1,4 @@
-Cercospora subhyalina H.D. Shin & U. Braun SPECIES
-=======
+# Cercospora subhyalina H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

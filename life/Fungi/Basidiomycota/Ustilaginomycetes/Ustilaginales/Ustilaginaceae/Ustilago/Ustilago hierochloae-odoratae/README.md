@@ -1,5 +1,4 @@
-Ustilago hierochloae-odoratae (Savul. & Rayss) Cif. SPECIES
-=======
+# Ustilago hierochloae-odoratae (Savul. & Rayss) Cif. SPECIES
 
 #### Status
 ACCEPTED

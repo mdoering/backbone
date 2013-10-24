@@ -1,5 +1,4 @@
-Aniptodera haispora Vrijmoed, K.D. Hyde & E.B.G. Jones, 1994 SPECIES
-=======
+# Aniptodera haispora Vrijmoed, K.D. Hyde & E.B.G. Jones, 1994 SPECIES
 
 #### Status
 ACCEPTED

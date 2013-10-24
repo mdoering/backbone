@@ -1,5 +1,4 @@
-Distigma senni Pringsheim SPECIES
-=======
+# Distigma senni Pringsheim SPECIES
 
 #### Status
 ACCEPTED

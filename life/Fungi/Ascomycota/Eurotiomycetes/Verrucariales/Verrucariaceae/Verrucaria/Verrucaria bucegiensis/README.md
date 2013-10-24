@@ -1,5 +1,4 @@
-Verrucaria bucegiensis Servít SPECIES
-=======
+# Verrucaria bucegiensis Servít SPECIES
 
 #### Status
 ACCEPTED

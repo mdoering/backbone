@@ -1,5 +1,4 @@
-Isaria ochracea Boud. SPECIES
-=======
+# Isaria ochracea Boud. SPECIES
 
 #### Status
 ACCEPTED

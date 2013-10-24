@@ -1,5 +1,4 @@
-Cylindrosporium yuccae Montem. {?} SPECIES
-=======
+# Cylindrosporium yuccae Montem. {?} SPECIES
 
 #### Status
 ACCEPTED

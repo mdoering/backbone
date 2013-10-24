@@ -1,5 +1,4 @@
-Rotalina baileyi Pourtales, 1850 SPECIES
-=======
+# Rotalina baileyi Pourtales, 1850 SPECIES
 
 #### Status
 ACCEPTED

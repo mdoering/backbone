@@ -1,17 +1,16 @@
-Cortinaria hebelomoides Murrill SPECIES
-=======
+# Cortinarius hebelomoides Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 282 (1946)
 
 #### Original name
-Cortinaria hebelomoides Murrill
+Cortinarius hebelomoides Murrill
 
 ### Remarks
 null

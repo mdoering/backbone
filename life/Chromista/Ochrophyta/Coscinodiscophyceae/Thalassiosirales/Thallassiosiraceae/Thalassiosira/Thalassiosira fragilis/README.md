@@ -1,5 +1,4 @@
-Thalassiosira fragilis G.Fryxell SPECIES
-=======
+# Thalassiosira fragilis G.Fryxell SPECIES
 
 #### Status
 ACCEPTED

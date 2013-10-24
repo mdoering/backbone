@@ -1,5 +1,4 @@
-Stictis hippocastani Pers. SPECIES
-=======
+# Stictis hippocastani Pers. SPECIES
 
 #### Status
 ACCEPTED

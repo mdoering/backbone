@@ -1,5 +1,4 @@
-Amphisphaeria fagicola Gucevic SPECIES
-=======
+# Amphisphaeria fagicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

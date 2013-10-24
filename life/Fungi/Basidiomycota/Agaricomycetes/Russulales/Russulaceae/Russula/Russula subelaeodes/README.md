@@ -1,5 +1,4 @@
-Russula subelaeodes Reumaux SPECIES
-=======
+# Russula subelaeodes Reumaux SPECIES
 
 #### Status
 ACCEPTED

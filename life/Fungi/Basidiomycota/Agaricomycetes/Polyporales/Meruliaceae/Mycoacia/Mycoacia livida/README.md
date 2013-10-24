@@ -1,5 +1,4 @@
-Mycoacia livida (Pers.) SPECIES
-=======
+# Mycoacia livida (Pers.) SPECIES
 
 #### Status
 ACCEPTED

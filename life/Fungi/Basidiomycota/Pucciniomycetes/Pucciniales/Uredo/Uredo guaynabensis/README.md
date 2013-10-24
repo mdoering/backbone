@@ -1,5 +1,4 @@
-Uredo guaynabensis F. Kern & Whetzel SPECIES
-=======
+# Uredo guaynabensis F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

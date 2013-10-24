@@ -1,5 +1,4 @@
-Diporites bimucronatus Sal.-Cheb. & Locq. SPECIES
-=======
+# Diporites bimucronatus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

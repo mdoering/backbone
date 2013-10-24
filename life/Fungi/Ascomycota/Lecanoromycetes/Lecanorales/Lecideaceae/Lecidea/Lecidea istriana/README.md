@@ -1,5 +1,4 @@
-Lecidea istriana Zahlbr. SPECIES
-=======
+# Lecidea istriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

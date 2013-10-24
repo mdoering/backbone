@@ -1,5 +1,4 @@
-Pterygiopsis guyanensis Schultz, Porembski & Büdel SPECIES
-=======
+# Pterygiopsis guyanensis Schultz, Porembski & Büdel SPECIES
 
 #### Status
 ACCEPTED

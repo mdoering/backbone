@@ -1,5 +1,4 @@
-Cortinarius porphyreticovestitus Bidaud SPECIES
-=======
+# Cortinarius porphyreticovestitus Bidaud SPECIES
 
 #### Status
 ACCEPTED

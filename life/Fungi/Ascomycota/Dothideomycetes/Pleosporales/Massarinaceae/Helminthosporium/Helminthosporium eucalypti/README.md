@@ -1,5 +1,4 @@
-Helminthosporium eucalypti Speg. SPECIES
-=======
+# Helminthosporium eucalypti Speg. SPECIES
 
 #### Status
 ACCEPTED

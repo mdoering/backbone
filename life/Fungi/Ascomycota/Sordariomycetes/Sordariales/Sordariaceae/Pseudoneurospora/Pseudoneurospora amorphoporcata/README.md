@@ -1,5 +1,4 @@
-Pseudoneurospora amorphoporcata (Udagawa) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Pseudoneurospora amorphoporcata (Udagawa) Dania García, Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

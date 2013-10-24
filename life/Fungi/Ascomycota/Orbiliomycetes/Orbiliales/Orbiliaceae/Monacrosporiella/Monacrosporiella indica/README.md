@@ -1,17 +1,16 @@
-Monacrosporiella indicum Chowdhry & Bahl SPECIES
-=======
+# Monacrosporiella indica Chowdhry & Bahl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 51(18): 895 (1982)
 
 #### Original name
-Monacrosporiella indicum Chowdhry & Bahl
+Monacrosporiella indica Chowdhry & Bahl
 
 ### Remarks
 null

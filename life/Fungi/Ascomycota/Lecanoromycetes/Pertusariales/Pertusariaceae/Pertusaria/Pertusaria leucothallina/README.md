@@ -1,5 +1,4 @@
-Pertusaria leucothallina Müll. Arg. SPECIES
-=======
+# Pertusaria leucothallina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

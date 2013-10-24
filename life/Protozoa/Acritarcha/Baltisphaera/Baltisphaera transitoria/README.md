@@ -1,5 +1,4 @@
-Baltisphaera transitoria Burmann, 1970 SPECIES
-=======
+# Baltisphaera transitoria Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

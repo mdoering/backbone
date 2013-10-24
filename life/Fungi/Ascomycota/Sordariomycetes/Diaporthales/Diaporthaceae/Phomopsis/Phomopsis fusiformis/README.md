@@ -1,5 +1,4 @@
-Phomopsis fusiformis N.C. Mandal & M.K. Dasgupta SPECIES
-=======
+# Phomopsis fusiformis N.C. Mandal & M.K. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

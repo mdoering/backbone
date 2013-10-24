@@ -1,5 +1,4 @@
-Calothrix caespitora Kuetzing SPECIES
-=======
+# Calothrix caespitora Kuetzing SPECIES
 
 #### Status
 ACCEPTED

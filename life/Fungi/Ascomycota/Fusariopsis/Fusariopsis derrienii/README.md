@@ -1,17 +1,16 @@
-Fusariopsis derrieni Horta SPECIES
-=======
+# Fusariopsis derrienii Horta, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tribuna Med. Rio de Janeiro 25: 233-256 (1919)
 
 #### Original name
-Fusariopsis derrieni Horta
+Fusariopsis derrienii Horta, 1919
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agyrium dothideaceum Rehm SPECIES
-=======
+# Agyrium dothideaceum Rehm SPECIES
 
 #### Status
 ACCEPTED

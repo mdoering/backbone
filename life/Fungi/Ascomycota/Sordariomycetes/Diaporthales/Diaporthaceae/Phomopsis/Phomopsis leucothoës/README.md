@@ -1,14 +1,13 @@
-Phomopsis leucothoes (Henn.) Died. SPECIES
-=======
+# Phomopsis leucothoës (Henn.) Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 9(1): 27 (1911)
 
 #### Original name
 Phoma leucothoes Henn.

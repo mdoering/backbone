@@ -1,5 +1,4 @@
-Hydnangium nigricans var. nigricans VARIETY
-=======
+# Hydnangium nigricans Kalchbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hydnangium nigricans var. nigricans
+Hydnangium nigricans Kalchbr.
 
 ### Remarks
 null

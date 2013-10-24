@@ -1,5 +1,4 @@
-Asteridiella perrottetiae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella perrottetiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella thelopsioides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Nectriella thelopsioides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

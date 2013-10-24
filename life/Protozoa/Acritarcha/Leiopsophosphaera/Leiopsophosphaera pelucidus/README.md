@@ -1,5 +1,4 @@
-Leiopsophosphaera pelucidus Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
-=======
+# Leiopsophosphaera pelucidus Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

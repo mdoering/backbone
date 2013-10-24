@@ -1,5 +1,4 @@
-Tricharia umbrosa Kalb & Vezda SPECIES
-=======
+# Tricharia umbrosa Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

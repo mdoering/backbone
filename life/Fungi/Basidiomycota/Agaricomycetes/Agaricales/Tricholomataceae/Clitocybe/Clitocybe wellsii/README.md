@@ -1,5 +1,4 @@
-Clitocybe wellsii H.E. Bigelow SPECIES
-=======
+# Clitocybe wellsii H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

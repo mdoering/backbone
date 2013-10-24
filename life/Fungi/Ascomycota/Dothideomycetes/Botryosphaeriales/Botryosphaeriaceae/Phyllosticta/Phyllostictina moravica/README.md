@@ -1,5 +1,4 @@
-Phyllostictina moravica Petr. SPECIES
-=======
+# Phyllostictina moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

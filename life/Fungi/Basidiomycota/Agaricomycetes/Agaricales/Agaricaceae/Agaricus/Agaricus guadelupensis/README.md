@@ -1,17 +1,16 @@
-Agaricus guadalupensis Pat. SPECIES
-=======
+# Agaricus guadelupensis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 15: 197 (1899)
 
 #### Original name
-Agaricus guadalupensis Pat.
+Agaricus guadelupensis Pat.
 
 ### Remarks
 null

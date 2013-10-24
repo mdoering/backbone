@@ -1,5 +1,4 @@
-Phialea pertenera Feltgen SPECIES
-=======
+# Phialea pertenera Feltgen SPECIES
 
 #### Status
 ACCEPTED

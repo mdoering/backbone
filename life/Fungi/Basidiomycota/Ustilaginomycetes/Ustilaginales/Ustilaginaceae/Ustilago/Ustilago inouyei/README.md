@@ -1,5 +1,4 @@
-Ustilago inouyei (Henn. & Shirai) S. Ito & Yoshin. SPECIES
-=======
+# Ustilago inouyei (Henn. & Shirai) S. Ito & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

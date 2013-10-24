@@ -1,5 +1,4 @@
-Spinarcon Jankowski, 1981 GENUS
-=======
+# Spinarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

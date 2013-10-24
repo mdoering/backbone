@@ -1,5 +1,4 @@
-Sporotrichum malagense Thüm. SPECIES
-=======
+# Sporotrichum malagense Thüm. SPECIES
 
 #### Status
 ACCEPTED

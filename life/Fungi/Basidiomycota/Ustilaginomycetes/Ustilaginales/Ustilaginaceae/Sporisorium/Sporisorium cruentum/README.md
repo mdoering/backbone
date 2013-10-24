@@ -1,14 +1,13 @@
-Sphacelotheca cruenta (J.G. Kühn) Potter, 1912 SPECIES
-=======
+# Sporisorium cruentum (J.G. Kühn) Vánky, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 2: 98 (1912)
+Symb. bot. upsal. 24(no. 2): 115 (1985)
 
 #### Original name
 Ustilago cruenta J.G. Kühn, 1872

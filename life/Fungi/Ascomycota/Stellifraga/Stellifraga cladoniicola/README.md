@@ -1,5 +1,4 @@
-Stellifraga cladoniicola Alstrup & Olech, 1993 SPECIES
-=======
+# Stellifraga cladoniicola Alstrup & Olech, 1993 SPECIES
 
 #### Status
 ACCEPTED

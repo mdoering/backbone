@@ -1,5 +1,4 @@
-Tricholoma montanum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma montanum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

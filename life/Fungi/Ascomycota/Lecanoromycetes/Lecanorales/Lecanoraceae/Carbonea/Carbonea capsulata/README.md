@@ -1,17 +1,16 @@
-Lecidea capsulata C. W. Dodge & G. E. Baker SPECIES
-=======
+# Carbonea capsulata (C. W. Dodge & G. E. Baker) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(3): 279 (1987)
 
 #### Original name
-null
+Lecidea capsulata C. W. Dodge & G. E. Baker
 
 ### Remarks
 null

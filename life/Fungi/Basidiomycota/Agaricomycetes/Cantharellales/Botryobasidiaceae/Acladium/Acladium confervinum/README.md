@@ -1,5 +1,4 @@
-Acladium confervinum Wallr. SPECIES
-=======
+# Acladium confervinum Wallr. SPECIES
 
 #### Status
 ACCEPTED

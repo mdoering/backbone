@@ -1,5 +1,4 @@
-Clathroporina anoptella (Stirt.) Zahlbr. SPECIES
-=======
+# Clathroporina anoptella (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

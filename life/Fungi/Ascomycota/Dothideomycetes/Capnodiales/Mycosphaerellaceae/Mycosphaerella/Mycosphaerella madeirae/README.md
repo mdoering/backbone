@@ -1,5 +1,4 @@
-Mycosphaerella madeirae Crous & Denman, 2004 SPECIES
-=======
+# Mycosphaerella madeirae Crous & Denman, 2004 SPECIES
 
 #### Status
 ACCEPTED

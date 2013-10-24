@@ -1,5 +1,4 @@
-Uredo trachyphrynii Vienn.-Bourg. SPECIES
-=======
+# Uredo trachyphrynii Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

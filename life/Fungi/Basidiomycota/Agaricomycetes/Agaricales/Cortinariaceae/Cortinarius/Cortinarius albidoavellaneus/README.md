@@ -1,5 +1,4 @@
-Cortinarius albidoavellaneus Kauffman & A.H. Sm. SPECIES
-=======
+# Cortinarius albidoavellaneus Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

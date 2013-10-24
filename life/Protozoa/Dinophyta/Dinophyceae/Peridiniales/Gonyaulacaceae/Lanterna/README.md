@@ -1,5 +1,4 @@
-Lanterna L. Dodekova, 1969 GENUS
-=======
+# Lanterna L. Dodekova, 1969 GENUS
 
 #### Status
 ACCEPTED

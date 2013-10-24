@@ -1,5 +1,4 @@
-Favolaschia ledermannii Syd. SPECIES
-=======
+# Favolaschia ledermannii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cacodes M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius cacodes M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

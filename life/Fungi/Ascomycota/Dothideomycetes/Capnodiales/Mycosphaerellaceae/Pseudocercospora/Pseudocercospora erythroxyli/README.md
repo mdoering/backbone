@@ -1,5 +1,4 @@
-Pseudocercospora erythroxyli (Govindu & Thirum.) U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora erythroxyli (Govindu & Thirum.) U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

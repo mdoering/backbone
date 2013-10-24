@@ -1,5 +1,4 @@
-Depazites groenlandicus (Heer) Mesch. SPECIES
-=======
+# Depazites groenlandicus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

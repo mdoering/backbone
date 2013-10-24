@@ -1,5 +1,4 @@
-Rotelapillus biarcus SPECIES
-=======
+# Rotelapillus biarcus SPECIES
 
 #### Status
 ACCEPTED

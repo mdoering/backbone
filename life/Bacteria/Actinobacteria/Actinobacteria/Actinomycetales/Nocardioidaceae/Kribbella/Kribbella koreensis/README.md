@@ -1,8 +1,7 @@
-Hongia koreensis Lee et al., 2000 SPECIES
-=======
+# Kribbella koreensis (Lee et al., 2000) Sohn et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

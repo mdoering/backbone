@@ -1,5 +1,4 @@
-Colletotrichum fusarioides (Ellis & Kellerm.) O'Gara SPECIES
-=======
+# Colletotrichum fusarioides (Ellis & Kellerm.) O'Gara SPECIES
 
 #### Status
 ACCEPTED

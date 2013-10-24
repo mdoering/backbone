@@ -1,5 +1,4 @@
-Coniothyrium typhicola (Fautrey & Lambotte) Tassi SPECIES
-=======
+# Coniothyrium typhicola (Fautrey & Lambotte) Tassi SPECIES
 
 #### Status
 ACCEPTED

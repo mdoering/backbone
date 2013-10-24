@@ -1,5 +1,4 @@
-Spermosporella pulvinata Deighton & Piroz. SPECIES
-=======
+# Spermosporella pulvinata Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

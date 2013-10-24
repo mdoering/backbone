@@ -1,5 +1,4 @@
-Caloplaca angelica (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca angelica (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

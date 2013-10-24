@@ -1,5 +1,4 @@
-Paraplacidiopsis GENUS
-=======
+# Paraplacidiopsis GENUS
 
 #### Status
 ACCEPTED

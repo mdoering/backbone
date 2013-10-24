@@ -1,5 +1,4 @@
-Acanthothecis corcovadensis (Redinger) Staiger & Kalb SPECIES
-=======
+# Acanthothecis corcovadensis (Redinger) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriosporella gallica Sacc. SPECIES
-=======
+# Ceriosporella gallica Sacc. SPECIES
 
 #### Status
 ACCEPTED

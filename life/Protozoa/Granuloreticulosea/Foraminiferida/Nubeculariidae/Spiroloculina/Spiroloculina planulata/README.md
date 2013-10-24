@@ -1,5 +1,4 @@
-Spiroloculina planulata SPECIES
-=======
+# Spiroloculina planulata SPECIES
 
 #### Status
 ACCEPTED

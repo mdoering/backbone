@@ -1,5 +1,4 @@
-Pluteus libulatus Singer SPECIES
-=======
+# Pluteus libulatus Singer SPECIES
 
 #### Status
 ACCEPTED

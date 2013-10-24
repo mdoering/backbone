@@ -1,5 +1,4 @@
-Chloromonas W.S. Kent, 1880 GENUS
-=======
+# Chloromonas W.S. Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

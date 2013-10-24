@@ -1,5 +1,4 @@
-Fuckelia antarctica Speg. SPECIES
-=======
+# Fuckelia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

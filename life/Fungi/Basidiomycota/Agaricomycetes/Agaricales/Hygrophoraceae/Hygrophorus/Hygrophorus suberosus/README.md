@@ -1,5 +1,4 @@
-Hygrophorus suberosus Jacobashch SPECIES
-=======
+# Hygrophorus suberosus Jacobashch SPECIES
 
 #### Status
 ACCEPTED

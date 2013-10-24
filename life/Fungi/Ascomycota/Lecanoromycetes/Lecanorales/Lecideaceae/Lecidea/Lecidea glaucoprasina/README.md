@@ -1,5 +1,4 @@
-Lecidea glaucoprasina Spreng. SPECIES
-=======
+# Lecidea glaucoprasina Spreng. SPECIES
 
 #### Status
 ACCEPTED

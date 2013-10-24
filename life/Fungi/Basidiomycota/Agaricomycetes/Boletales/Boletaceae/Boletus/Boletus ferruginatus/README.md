@@ -1,5 +1,4 @@
-Boletus ferruginatus Batsch SPECIES
-=======
+# Boletus ferruginatus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium imbricatum P. M. Jørg. SPECIES
-=======
+# Leptogium imbricatum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

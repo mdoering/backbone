@@ -1,5 +1,4 @@
-Stellarima steinyi (Hanna) G. R. Hasle & P. A. Sims SPECIES
-=======
+# Stellarima steinyi (Hanna) G. R. Hasle & P. A. Sims SPECIES
 
 #### Status
 ACCEPTED

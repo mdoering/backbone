@@ -1,5 +1,4 @@
-Xyloma potentillae Fr. SPECIES
-=======
+# Xyloma potentillae Fr. SPECIES
 
 #### Status
 ACCEPTED

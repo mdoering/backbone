@@ -1,5 +1,4 @@
-Syncarpella castagnei (Speg.) Theiss. & Syd. SPECIES
-=======
+# Syncarpella castagnei (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

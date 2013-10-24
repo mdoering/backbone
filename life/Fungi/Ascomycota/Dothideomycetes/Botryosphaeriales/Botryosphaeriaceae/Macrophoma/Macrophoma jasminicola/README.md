@@ -1,5 +1,4 @@
-Macrophoma jasminicola Gonz. Frag. SPECIES
-=======
+# Macrophoma jasminicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

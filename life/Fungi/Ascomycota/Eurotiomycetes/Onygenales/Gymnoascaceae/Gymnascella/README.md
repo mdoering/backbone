@@ -1,17 +1,16 @@
-Pseudoarachniotus Kuehn, 1957 GENUS
-=======
+# Gymnascella Peck GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 35: 143 (1884)
 
 #### Original name
-null
+Gymnascella Peck
 
 ### Remarks
 null

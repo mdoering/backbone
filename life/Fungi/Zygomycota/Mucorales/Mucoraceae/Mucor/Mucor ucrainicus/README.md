@@ -1,5 +1,4 @@
-Mucor ucrainicus Milko, 1971 SPECIES
-=======
+# Mucor ucrainicus Milko, 1971 SPECIES
 
 #### Status
 ACCEPTED

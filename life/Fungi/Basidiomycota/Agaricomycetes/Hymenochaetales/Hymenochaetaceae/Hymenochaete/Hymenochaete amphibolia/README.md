@@ -1,14 +1,13 @@
-Hymenochaete amphibola (Fr.) Lév. SPECIES
-=======
+# Hymenochaete amphibolia (Fr.) Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 152 (1846)
 
 #### Original name
 Thelephora amphibolia Fr.

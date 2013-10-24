@@ -1,5 +1,4 @@
-Psathyra subobtusa (Britzelm.) Lapl. SPECIES
-=======
+# Psathyra subobtusa (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

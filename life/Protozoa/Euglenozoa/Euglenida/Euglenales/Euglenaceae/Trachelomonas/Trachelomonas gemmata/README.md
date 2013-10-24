@@ -1,5 +1,4 @@
-Trachelomonas gemmata SPECIES
-=======
+# Trachelomonas gemmata SPECIES
 
 #### Status
 ACCEPTED

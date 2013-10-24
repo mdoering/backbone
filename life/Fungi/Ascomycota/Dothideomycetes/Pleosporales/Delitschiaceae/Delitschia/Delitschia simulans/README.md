@@ -1,5 +1,4 @@
-Delitschia simulans Luck-Allen & Cain SPECIES
-=======
+# Delitschia simulans Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

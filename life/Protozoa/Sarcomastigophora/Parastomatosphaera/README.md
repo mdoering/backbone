@@ -1,5 +1,4 @@
-Parastomatosphaera Kozur & Mostler, 1979 GENUS
-=======
+# Parastomatosphaera Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

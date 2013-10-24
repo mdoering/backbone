@@ -1,5 +1,4 @@
-Marssonina capsulicola (Rostr.) Magnus SPECIES
-=======
+# Marssonina capsulicola (Rostr.) Magnus SPECIES
 
 #### Status
 ACCEPTED

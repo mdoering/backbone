@@ -1,5 +1,4 @@
-Diaporthe cupulata Berl. & Destrée SPECIES
-=======
+# Diaporthe cupulata Berl. & Destrée SPECIES
 
 #### Status
 ACCEPTED

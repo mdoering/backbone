@@ -1,5 +1,4 @@
-Colletotrichum phyllocacti Ellis & Everh. SPECIES
-=======
+# Colletotrichum phyllocacti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

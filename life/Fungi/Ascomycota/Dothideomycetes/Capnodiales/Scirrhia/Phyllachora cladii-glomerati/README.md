@@ -1,5 +1,4 @@
-Phyllachora cladii-glomerati Hansf., 1957 SPECIES
-=======
+# Phyllachora cladii-glomerati Hansf., 1957 SPECIES
 
 #### Status
 DOUBTFUL

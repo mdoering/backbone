@@ -1,5 +1,4 @@
-Agaricus cruentatus J.F. Gmel. SPECIES
-=======
+# Agaricus cruentatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

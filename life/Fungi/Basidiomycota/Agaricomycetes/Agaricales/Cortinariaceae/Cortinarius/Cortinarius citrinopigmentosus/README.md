@@ -1,5 +1,4 @@
-Cortinarius citrinopigmentosus M.M. Moser SPECIES
-=======
+# Cortinarius citrinopigmentosus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

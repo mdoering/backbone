@@ -1,5 +1,4 @@
-Reinhardtites anthophorus (Deflandre, 1959) Perch-Nielsen, 1968 SPECIES
-=======
+# Reinhardtites anthophorus (Deflandre, 1959) Perch-Nielsen, 1968 SPECIES
 
 #### Status
 ACCEPTED

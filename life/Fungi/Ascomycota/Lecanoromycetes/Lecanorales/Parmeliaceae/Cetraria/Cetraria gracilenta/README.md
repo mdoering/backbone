@@ -1,5 +1,4 @@
-Cetraria gracilenta (Kremp.) Vain. SPECIES
-=======
+# Cetraria gracilenta (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

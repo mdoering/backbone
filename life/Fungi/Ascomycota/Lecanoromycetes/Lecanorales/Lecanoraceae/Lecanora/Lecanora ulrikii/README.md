@@ -1,5 +1,4 @@
-Lecanora ulrikii Papong & Lumbsch SPECIES
-=======
+# Lecanora ulrikii Papong & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

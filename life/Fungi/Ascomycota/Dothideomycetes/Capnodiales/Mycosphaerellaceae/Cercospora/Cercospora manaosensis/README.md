@@ -1,8 +1,7 @@
-Cercospora manaoensis Henn. SPECIES
-=======
+# Cercospora manaosensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora manaoensis Henn.
+Cercospora manaosensis Henn.
 
 ### Remarks
 null

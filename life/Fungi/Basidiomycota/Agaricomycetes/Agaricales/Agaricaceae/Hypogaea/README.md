@@ -1,5 +1,4 @@
-Hypogaea E. Horak, 1964 GENUS
-=======
+# Hypogaea E. Horak, 1964 GENUS
 
 #### Status
 ACCEPTED

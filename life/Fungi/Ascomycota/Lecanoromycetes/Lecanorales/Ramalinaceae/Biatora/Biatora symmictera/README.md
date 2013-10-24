@@ -1,5 +1,4 @@
-Biatora symmictera f. symmictera FORM
-=======
+# Biatora symmictera SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora symmictera f. symmictera
+null
 
 ### Remarks
 null

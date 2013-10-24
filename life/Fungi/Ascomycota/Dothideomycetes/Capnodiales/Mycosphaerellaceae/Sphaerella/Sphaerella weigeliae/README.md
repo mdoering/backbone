@@ -1,5 +1,4 @@
-Sphaerella weigeliae (Fairm.) Sacc. & Trotter SPECIES
-=======
+# Sphaerella weigeliae (Fairm.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

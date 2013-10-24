@@ -1,5 +1,4 @@
-Entoleuca callimorpha Syd., 1922 SPECIES
-=======
+# Entoleuca callimorpha Syd., 1922 SPECIES
 
 #### Status
 ACCEPTED

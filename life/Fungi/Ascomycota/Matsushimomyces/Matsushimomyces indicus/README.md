@@ -1,5 +1,4 @@
-Matsushimomyces indicus V.G. Rao & Varghese, 1979 SPECIES
-=======
+# Matsushimomyces indicus V.G. Rao & Varghese, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanactis premnea f. premnea FORM
-=======
+# Cresponea premnea (Ach.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 48: 324 (1993)
 
 #### Original name
-Lecanactis premnea f. premnea
+Lecidea premnea Ach.
 
 ### Remarks
 null

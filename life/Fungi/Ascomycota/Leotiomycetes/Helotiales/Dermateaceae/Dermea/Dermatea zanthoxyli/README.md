@@ -1,8 +1,7 @@
-Dermatea xanthoxyli Peck SPECIES
-=======
+# Dermatea zanthoxyli Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatea xanthoxyli Peck
+Dermatea zanthoxyli Peck
 
 ### Remarks
 null

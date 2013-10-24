@@ -1,5 +1,4 @@
-Pterocanium auritum Nigrini & Caulet, 1992 SPECIES
-=======
+# Pterocanium auritum Nigrini & Caulet, 1992 SPECIES
 
 #### Status
 ACCEPTED

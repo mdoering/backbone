@@ -1,5 +1,4 @@
-Didymium tubicrystallinum Nann.-Bremek. & R.L. Critchf., 1988 SPECIES
-=======
+# Didymium tubicrystallinum Nann.-Bremek. & R.L. Critchf., 1988 SPECIES
 
 #### Status
 ACCEPTED

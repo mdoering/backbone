@@ -1,5 +1,4 @@
-Anatexis GENUS
-=======
+# Anatexis GENUS
 
 #### Status
 ACCEPTED

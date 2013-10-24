@@ -1,5 +1,4 @@
-Hohenbuehelia podocarpinea G. Stev., 1964 SPECIES
-=======
+# Hohenbuehelia podocarpinea G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

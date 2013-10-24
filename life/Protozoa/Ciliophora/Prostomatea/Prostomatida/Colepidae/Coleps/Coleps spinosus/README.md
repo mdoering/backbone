@@ -1,5 +1,4 @@
-Coleps spinosus Vacelet, 1961 SPECIES
-=======
+# Coleps spinosus Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus brazlaviensis Sosin SPECIES
-=======
+# Cyathus brazlaviensis Sosin SPECIES
 
 #### Status
 ACCEPTED

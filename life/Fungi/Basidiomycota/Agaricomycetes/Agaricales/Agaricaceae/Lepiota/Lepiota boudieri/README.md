@@ -1,17 +1,16 @@
-Lepiota fulvella f. fulvella FORM
-=======
+# Lepiota boudieri Bres., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 6(1): 61 (1918)
+Bull. Soc. mycol. Fr. 1(1): 43 (1885)
 
 #### Original name
-Lepiota fulvella f. fulvella
+Lepiota boudieri Bres., 1881
 
 ### Remarks
 null

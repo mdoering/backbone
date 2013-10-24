@@ -1,5 +1,4 @@
-Puttemansia ekmanii Petr. & Syd. SPECIES
-=======
+# Puttemansia ekmanii Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

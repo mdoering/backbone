@@ -1,5 +1,4 @@
-Cytosporina adolphiae Turconi SPECIES
-=======
+# Cytosporina adolphiae Turconi SPECIES
 
 #### Status
 ACCEPTED

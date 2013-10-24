@@ -1,5 +1,4 @@
-Stereum papyraceum Massee SPECIES
-=======
+# Stereum papyraceum Massee SPECIES
 
 #### Status
 ACCEPTED

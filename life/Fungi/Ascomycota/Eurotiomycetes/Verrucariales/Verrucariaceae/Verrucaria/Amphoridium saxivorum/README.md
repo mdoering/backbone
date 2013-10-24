@@ -1,5 +1,4 @@
-Amphoridium saxivorum (Servít) Grummann SPECIES
-=======
+# Amphoridium saxivorum (Servít) Grummann SPECIES
 
 #### Status
 ACCEPTED

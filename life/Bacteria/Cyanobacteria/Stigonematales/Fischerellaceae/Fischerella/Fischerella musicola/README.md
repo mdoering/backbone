@@ -1,5 +1,4 @@
-Fischerella musicola subsp. musicola SUBSPECIES
-=======
+# Fischerella musicola (Thuret) Gomont SPECIES
 
 #### Status
 ACCEPTED

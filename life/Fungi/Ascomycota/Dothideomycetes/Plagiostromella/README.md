@@ -1,5 +1,4 @@
-Plagiostromella Höhn. GENUS
-=======
+# Plagiostromella Höhn. GENUS
 
 #### Status
 ACCEPTED

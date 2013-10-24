@@ -1,5 +1,4 @@
-Spolverinia punctum A. Massal. SPECIES
-=======
+# Spolverinia punctum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

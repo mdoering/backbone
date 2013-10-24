@@ -1,5 +1,4 @@
-Puccinia flavipes Syd. & P. Syd. SPECIES
-=======
+# Puccinia flavipes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periamphispora phacelodes J.C. Krug, 1989 SPECIES
-=======
+# Periamphispora phacelodes J.C. Krug, 1989 SPECIES
 
 #### Status
 ACCEPTED

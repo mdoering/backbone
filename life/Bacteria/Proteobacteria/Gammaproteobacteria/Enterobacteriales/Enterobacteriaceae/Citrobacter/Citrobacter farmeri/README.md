@@ -1,5 +1,4 @@
-Citrobacter farmeri Brenner et al., 1993 SPECIES
-=======
+# Citrobacter farmeri Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morenoella curatellae Starbäck SPECIES
-=======
+# Morenoella curatellae Starbäck SPECIES
 
 #### Status
 ACCEPTED

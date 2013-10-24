@@ -1,5 +1,4 @@
-Peltigera aubertii C. W. Dodge SPECIES
-=======
+# Peltigera aubertii C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfocella halophila Brandt et al., 1999 SPECIES
-=======
+# Desulfocella halophila Brandt et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

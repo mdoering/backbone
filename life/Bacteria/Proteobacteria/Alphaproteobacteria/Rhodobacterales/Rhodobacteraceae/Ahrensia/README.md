@@ -1,5 +1,4 @@
-Ahrensia Uchino et al., 1999 GENUS
-=======
+# Ahrensia Uchino et al., 1999 GENUS
 
 #### Status
 ACCEPTED

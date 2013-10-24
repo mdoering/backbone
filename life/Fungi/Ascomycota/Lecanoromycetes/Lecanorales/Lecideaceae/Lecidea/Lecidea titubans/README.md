@@ -1,5 +1,4 @@
-Lecidea titubans Bagl. & Carestia SPECIES
-=======
+# Lecidea titubans Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

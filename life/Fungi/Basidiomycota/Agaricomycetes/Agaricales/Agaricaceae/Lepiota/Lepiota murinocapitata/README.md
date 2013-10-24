@@ -1,5 +1,4 @@
-Lepiota murinocapitata Dennis SPECIES
-=======
+# Lepiota murinocapitata Dennis SPECIES
 
 #### Status
 ACCEPTED

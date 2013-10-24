@@ -1,5 +1,4 @@
-Haplophragmoides scitulum SPECIES
-=======
+# Haplophragmoides scitulum SPECIES
 
 #### Status
 ACCEPTED

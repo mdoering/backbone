@@ -1,5 +1,4 @@
-Placynthium stenophylla (Tuck.) Fink SPECIES
-=======
+# Placynthium stenophylla (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

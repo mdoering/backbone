@@ -1,17 +1,16 @@
-Cephalomyces Bainier GENUS
-=======
+# Cephaliophora Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 109 (1907)
+Bot. Gaz. 35: 157 (1903)
 
 #### Original name
-Cephalomyces Bainier
+Cephaliophora Thaxt.
 
 ### Remarks
 null

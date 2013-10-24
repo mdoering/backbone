@@ -1,5 +1,4 @@
-Didymella tiliaginea Fautrey & Lambotte SPECIES
-=======
+# Didymella tiliaginea Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

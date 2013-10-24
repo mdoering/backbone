@@ -1,5 +1,4 @@
-Gonyaulacysta cassidata (Eisenack & Cookson, 1960) Sarjeant, 1966 SPECIES
-=======
+# Gonyaulacysta cassidata (Eisenack & Cookson, 1960) Sarjeant, 1966 SPECIES
 
 #### Status
 ACCEPTED

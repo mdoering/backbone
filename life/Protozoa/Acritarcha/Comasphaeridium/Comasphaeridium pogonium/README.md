@@ -1,5 +1,4 @@
-Comasphaeridium pogonium (Loeblich, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium pogonium (Loeblich, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

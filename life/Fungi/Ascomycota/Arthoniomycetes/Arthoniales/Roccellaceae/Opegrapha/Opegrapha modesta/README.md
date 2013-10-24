@@ -1,5 +1,4 @@
-Opegrapha modesta Müll. Arg. SPECIES
-=======
+# Opegrapha modesta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

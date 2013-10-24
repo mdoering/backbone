@@ -1,5 +1,4 @@
-Buellia heteropsis Müll. Arg. SPECIES
-=======
+# Buellia heteropsis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

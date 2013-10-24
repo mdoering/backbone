@@ -1,5 +1,4 @@
-Amerosporiopsis Petr. GENUS
-=======
+# Amerosporiopsis Petr. GENUS
 
 #### Status
 ACCEPTED

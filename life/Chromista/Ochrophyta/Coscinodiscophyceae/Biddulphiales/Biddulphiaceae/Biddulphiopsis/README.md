@@ -1,5 +1,4 @@
-Biddulphiopsis von Stosch & R.Simonsen, 1984 GENUS
-=======
+# Biddulphiopsis von Stosch & R.Simonsen, 1984 GENUS
 
 #### Status
 ACCEPTED

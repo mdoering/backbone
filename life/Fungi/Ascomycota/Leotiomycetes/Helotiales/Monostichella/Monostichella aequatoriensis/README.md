@@ -1,5 +1,4 @@
-Monostichella aequatoriensis (Petr.) Arx SPECIES
-=======
+# Monostichella aequatoriensis (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

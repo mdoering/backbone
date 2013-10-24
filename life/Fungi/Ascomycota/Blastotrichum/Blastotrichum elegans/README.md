@@ -1,5 +1,4 @@
-Blastotrichum elegans Höhn. SPECIES
-=======
+# Blastotrichum elegans Höhn. SPECIES
 
 #### Status
 ACCEPTED

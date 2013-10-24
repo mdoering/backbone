@@ -1,17 +1,16 @@
-Cristella sulphurea var. sulphurea VARIETY
-=======
+# Cristella sulphurea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Fungus, Wageningen 27: 20 (1957)
+null
 
 #### Original name
-Cristella sulphurea var. sulphurea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrosporium ensetes Thüm. SPECIES
-=======
+# Macrosporium ensetes Thüm. SPECIES
 
 #### Status
 ACCEPTED

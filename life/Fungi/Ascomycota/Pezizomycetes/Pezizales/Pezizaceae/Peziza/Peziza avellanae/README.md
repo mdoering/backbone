@@ -1,5 +1,4 @@
-Peziza avellanae Lasch SPECIES
-=======
+# Peziza avellanae Lasch SPECIES
 
 #### Status
 ACCEPTED

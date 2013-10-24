@@ -1,5 +1,4 @@
-Collema acarosporoides Vain. SPECIES
-=======
+# Collema acarosporoides Vain. SPECIES
 
 #### Status
 ACCEPTED

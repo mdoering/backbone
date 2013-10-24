@@ -1,5 +1,4 @@
-Bryoscyphus Spooner, 1984 GENUS
-=======
+# Bryoscyphus Spooner, 1984 GENUS
 
 #### Status
 ACCEPTED

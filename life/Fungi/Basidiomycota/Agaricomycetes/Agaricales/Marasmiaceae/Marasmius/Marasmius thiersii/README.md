@@ -1,5 +1,4 @@
-Marasmius thiersii Desjardin SPECIES
-=======
+# Marasmius thiersii Desjardin SPECIES
 
 #### Status
 ACCEPTED

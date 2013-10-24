@@ -1,5 +1,4 @@
-Dermocarpa minuta Drouet SPECIES
-=======
+# Dermocarpa minuta Drouet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia difformis Nyl. SPECIES
-=======
+# Arthonia difformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

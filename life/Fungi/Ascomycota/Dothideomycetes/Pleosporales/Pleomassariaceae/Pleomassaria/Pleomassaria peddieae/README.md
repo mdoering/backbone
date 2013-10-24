@@ -1,5 +1,4 @@
-Pleomassaria peddieae Doidge SPECIES
-=======
+# Pleomassaria peddieae Doidge SPECIES
 
 #### Status
 ACCEPTED

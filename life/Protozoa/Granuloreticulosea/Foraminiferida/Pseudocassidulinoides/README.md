@@ -1,5 +1,4 @@
-Pseudocassidulinoides Klas & Rérat, 1963 GENUS
-=======
+# Pseudocassidulinoides Klas & Rérat, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dangeardia sporapiculata var. sporapiculata VARIETY
-=======
+# Dangeardia sporapiculata Geitler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dangeardia sporapiculata var. sporapiculata
+Dangeardia sporapiculata Geitler
 
 ### Remarks
 null

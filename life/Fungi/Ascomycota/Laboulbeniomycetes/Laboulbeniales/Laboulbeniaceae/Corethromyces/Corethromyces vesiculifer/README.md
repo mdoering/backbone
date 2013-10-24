@@ -1,5 +1,4 @@
-Corethromyces vesiculifer (Thaxt.) I.I. Tav. SPECIES
-=======
+# Corethromyces vesiculifer (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

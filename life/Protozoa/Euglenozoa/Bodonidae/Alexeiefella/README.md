@@ -1,5 +1,4 @@
-Alexeiefella Janakidevi, 1961 GENUS
-=======
+# Alexeiefella Janakidevi, 1961 GENUS
 
 #### Status
 ACCEPTED

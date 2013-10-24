@@ -1,17 +1,16 @@
-Punctelia praesignis (Nyl.) Krog SPECIES
-=======
+# Flavopunctelia praesignis (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(2): 682 (1984)
 
 #### Original name
-null
+Parmelia praesignis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria lachastreana Sacc. & Letendre, 1882 SPECIES
-=======
+# Septoria lachastreana Sacc. & Letendre, 1882 SPECIES
 
 #### Status
 ACCEPTED

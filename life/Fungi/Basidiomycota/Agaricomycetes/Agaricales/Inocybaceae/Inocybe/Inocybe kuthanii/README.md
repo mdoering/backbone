@@ -1,5 +1,4 @@
-Inocybe kuthanii Stangl & J. Veselský SPECIES
-=======
+# Inocybe kuthanii Stangl & J. Veselský SPECIES
 
 #### Status
 ACCEPTED

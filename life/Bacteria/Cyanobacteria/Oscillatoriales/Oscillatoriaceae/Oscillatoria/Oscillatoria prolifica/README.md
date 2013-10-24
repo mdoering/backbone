@@ -1,8 +1,7 @@
-Planktothrix prolifica (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Oscillatoria prolifica (Greville) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

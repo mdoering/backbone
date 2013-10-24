@@ -1,5 +1,4 @@
-Asteromyces Moreau & M. Moreau ex Hennebert, 1962 GENUS
-=======
+# Asteromyces Moreau & M. Moreau ex Hennebert, 1962 GENUS
 
 #### Status
 ACCEPTED

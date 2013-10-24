@@ -1,14 +1,13 @@
-Chaetochalara bulbosa B. Sutton & Piroz., 1965 SPECIES
-=======
+# Chalara bulbosa (B. Sutton & Piroz.) P.M. Kirk, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48: 3 (1965)
+in Kirk & Spooner, Kew Bull. 38(4): 580 (1984)
 
 #### Original name
 Chaetochalara bulbosa B. Sutton & Piroz., 1965

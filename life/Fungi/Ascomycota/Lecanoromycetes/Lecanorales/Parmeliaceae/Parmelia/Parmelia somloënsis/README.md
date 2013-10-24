@@ -1,5 +1,4 @@
-Parmelia somloënsis var. somloënsis VARIETY
-=======
+# Parmelia somloënsis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia somloënsis var. somloënsis
+null
 
 ### Remarks
 null

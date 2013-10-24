@@ -1,5 +1,4 @@
-Calothyriolum apiahynum Speg. SPECIES
-=======
+# Calothyriolum apiahynum Speg. SPECIES
 
 #### Status
 ACCEPTED

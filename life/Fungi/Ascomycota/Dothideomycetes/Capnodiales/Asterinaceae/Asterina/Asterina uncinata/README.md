@@ -1,5 +1,4 @@
-Asterina uncinata Doidge SPECIES
-=======
+# Asterina uncinata Doidge SPECIES
 
 #### Status
 ACCEPTED

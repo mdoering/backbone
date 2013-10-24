@@ -1,5 +1,4 @@
-Actinokineospora diospyrosa Tamura et al., 1995 SPECIES
-=======
+# Actinokineospora diospyrosa Tamura et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

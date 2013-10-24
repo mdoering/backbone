@@ -1,14 +1,13 @@
-Polyporus basilapidoides (McAlpine & Tepper) Lloyd, 1912 SPECIES
-=======
+# Laccocephalum basilapidoides McAlpine & Tepper, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 115 (1912)
+Proc. Roy. Soc. Victoria 7: 166 (1894)
 
 #### Original name
 Laccocephalum basilapidoides McAlpine & Tepper, 1895

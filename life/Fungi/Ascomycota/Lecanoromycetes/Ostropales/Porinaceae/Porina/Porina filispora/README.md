@@ -1,5 +1,4 @@
-Porina filispora Lücking SPECIES
-=======
+# Porina filispora Lücking SPECIES
 
 #### Status
 ACCEPTED

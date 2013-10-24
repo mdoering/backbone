@@ -1,5 +1,4 @@
-Diplodia psoraleae (Castagne) P. Karst. & Har. SPECIES
-=======
+# Diplodia psoraleae (Castagne) P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

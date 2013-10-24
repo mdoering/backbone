@@ -1,5 +1,4 @@
-Scolecobasidiella tropicalis R.F. Castañeda & G.R.W. Arnold, 1986 SPECIES
-=======
+# Scolecobasidiella tropicalis R.F. Castañeda & G.R.W. Arnold, 1986 SPECIES
 
 #### Status
 ACCEPTED

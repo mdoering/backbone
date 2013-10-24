@@ -1,5 +1,4 @@
-Humaria bakeri McAlpine SPECIES
-=======
+# Humaria bakeri McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete pectinata (Bres.) Parmasto SPECIES
-=======
+# Hymenochaete pectinata (Bres.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

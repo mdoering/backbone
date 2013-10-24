@@ -1,5 +1,4 @@
-Meliola soraceae Speg. SPECIES
-=======
+# Meliola soraceae Speg. SPECIES
 
 #### Status
 ACCEPTED

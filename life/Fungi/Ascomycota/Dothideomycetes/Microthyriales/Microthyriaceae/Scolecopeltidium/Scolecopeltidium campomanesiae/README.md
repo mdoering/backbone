@@ -1,5 +1,4 @@
-Scolecopeltidium campomanesiae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium campomanesiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

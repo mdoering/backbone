@@ -1,5 +1,4 @@
-Torpedospora Meyers GENUS
-=======
+# Torpedospora Meyers GENUS
 
 #### Status
 ACCEPTED

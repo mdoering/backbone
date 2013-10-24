@@ -1,5 +1,4 @@
-Lophiostoma australiense J. Fröhl., K.D. Hyde & Aptroot SPECIES
-=======
+# Lophiostoma australiense J. Fröhl., K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

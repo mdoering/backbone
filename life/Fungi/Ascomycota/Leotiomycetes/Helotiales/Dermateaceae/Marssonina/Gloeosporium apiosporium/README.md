@@ -1,5 +1,4 @@
-Gloeosporium apiosporium Sacc. SPECIES
-=======
+# Gloeosporium apiosporium Sacc. SPECIES
 
 #### Status
 ACCEPTED

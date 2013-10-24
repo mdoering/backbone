@@ -1,5 +1,4 @@
-Xylosphaera poitei (Lév.) Dennis SPECIES
-=======
+# Xylosphaera poitei (Lév.) Dennis SPECIES
 
 #### Status
 ACCEPTED

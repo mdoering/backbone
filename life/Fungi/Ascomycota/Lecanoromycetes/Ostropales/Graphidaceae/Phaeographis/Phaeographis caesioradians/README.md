@@ -1,14 +1,13 @@
-Graphis caesioradians Leight. SPECIES
-=======
+# Phaeographis caesioradians (Leight.) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Telopea 11(1): 75 (2005)
 
 #### Original name
 Graphis caesioradians Leight.

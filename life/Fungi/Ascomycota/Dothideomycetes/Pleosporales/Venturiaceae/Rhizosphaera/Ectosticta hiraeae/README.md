@@ -1,5 +1,4 @@
-Ectosticta hiraeae Speg. SPECIES
-=======
+# Ectosticta hiraeae Speg. SPECIES
 
 #### Status
 ACCEPTED

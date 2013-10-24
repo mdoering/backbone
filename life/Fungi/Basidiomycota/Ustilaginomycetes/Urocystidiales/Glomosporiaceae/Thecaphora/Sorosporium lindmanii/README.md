@@ -1,5 +1,4 @@
-Sorosporium lindmanii Zundel SPECIES
-=======
+# Sorosporium lindmanii Zundel SPECIES
 
 #### Status
 ACCEPTED

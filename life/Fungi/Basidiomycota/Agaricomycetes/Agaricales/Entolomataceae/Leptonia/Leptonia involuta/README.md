@@ -1,5 +1,4 @@
-Leptonia involuta Velen. SPECIES
-=======
+# Leptonia involuta Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina urenae Syd. SPECIES
-=======
+# Phyllostictina urenae Syd. SPECIES
 
 #### Status
 ACCEPTED

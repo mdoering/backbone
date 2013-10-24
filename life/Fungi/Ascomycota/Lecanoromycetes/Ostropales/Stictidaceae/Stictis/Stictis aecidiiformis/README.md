@@ -1,5 +1,4 @@
-Stictis aecidiiformis Speg. SPECIES
-=======
+# Stictis aecidiiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

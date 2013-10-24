@@ -1,5 +1,4 @@
-Septoria plantaginis-psylli Savul. & Sandu SPECIES
-=======
+# Septoria plantaginis-psylli Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

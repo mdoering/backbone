@@ -1,5 +1,4 @@
-Stachybotrys zuckii K. Matsush. & Matsush. SPECIES
-=======
+# Stachybotrys zuckii K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonia (Rotalidium) annectens (Parker & Jones) SPECIES
-=======
+# Ammonia (Rotalidium) annectens (Parker & Jones) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerolinea Sekiguchi, Yamada, Hanada, Ohashi, Harada & Kamagata, 2003 GENUS
-=======
+# Anaerolinea Sekiguchi, Yamada, Hanada, Ohashi, Harada & Kamagata, 2003 GENUS
 
 #### Status
 ACCEPTED

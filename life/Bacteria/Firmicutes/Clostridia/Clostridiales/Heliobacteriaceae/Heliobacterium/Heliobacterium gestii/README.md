@@ -1,5 +1,4 @@
-Heliobacterium gestii Ormerod et al., 1996 SPECIES
-=======
+# Heliobacterium gestii Ormerod et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrogloea annelidiformis Pascher SPECIES
-=======
+# Arthrogloea annelidiformis Pascher SPECIES
 
 #### Status
 ACCEPTED

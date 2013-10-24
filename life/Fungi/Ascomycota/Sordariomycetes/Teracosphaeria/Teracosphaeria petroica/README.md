@@ -1,5 +1,4 @@
-Teracosphaeria petroica Réblová & Seifert, 2007 SPECIES
-=======
+# Teracosphaeria petroica Réblová & Seifert, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella copticola Korf & Tiwari {?} SPECIES
-=======
+# Lambertella copticola Korf & Tiwari {?} SPECIES
 
 #### Status
 ACCEPTED

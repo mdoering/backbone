@@ -1,5 +1,4 @@
-Botrytis acinorum Pers. SPECIES
-=======
+# Botrytis acinorum Pers. SPECIES
 
 #### Status
 ACCEPTED

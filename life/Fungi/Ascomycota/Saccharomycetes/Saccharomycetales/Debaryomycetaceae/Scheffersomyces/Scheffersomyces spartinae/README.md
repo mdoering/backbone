@@ -1,5 +1,4 @@
-Scheffersomyces spartinae (Ahearn, Yarrow & Meyers) Kurtzman & M. Suzuki, 2010 SPECIES
-=======
+# Scheffersomyces spartinae (Ahearn, Yarrow & Meyers) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED

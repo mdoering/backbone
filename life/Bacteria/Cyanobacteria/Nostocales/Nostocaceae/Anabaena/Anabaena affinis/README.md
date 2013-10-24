@@ -1,5 +1,4 @@
-Anabaena affinis Lemmermann SPECIES
-=======
+# Anabaena affinis Lemmermann SPECIES
 
 #### Status
 ACCEPTED

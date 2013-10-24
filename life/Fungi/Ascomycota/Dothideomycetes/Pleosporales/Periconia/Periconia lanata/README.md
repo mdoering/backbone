@@ -1,5 +1,4 @@
-Periconia lanata J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Periconia lanata J.C. Gilman & E.V. Abbott SPECIES
 
 #### Status
 ACCEPTED

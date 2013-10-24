@@ -1,5 +1,4 @@
-Physcia obscurascens Nyl. SPECIES
-=======
+# Physcia obscurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

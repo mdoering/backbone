@@ -1,5 +1,4 @@
-Endocarpon albidulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Endocarpon albidulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

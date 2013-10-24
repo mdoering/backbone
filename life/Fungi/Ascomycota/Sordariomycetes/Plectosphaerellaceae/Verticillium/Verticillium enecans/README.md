@@ -1,5 +1,4 @@
-Verticillium enecans Speg. SPECIES
-=======
+# Verticillium enecans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria astrocaryi (Henn.) Bat. & R. Garnier SPECIES
-=======
+# Botryosphaeria astrocaryi (Henn.) Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

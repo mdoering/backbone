@@ -1,5 +1,4 @@
-Irenina lonicerae Hansf. SPECIES
-=======
+# Irenina lonicerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

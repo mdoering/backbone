@@ -1,14 +1,13 @@
-Pseudonectria crozalsiana (Grelet) Racov., 1946 SPECIES
-=======
+# Neottiella crozalsiana Grelet, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Sect. sci. Acad. roum. 29: 72 (1946)
+Bull. Soc. mycol. Fr. 41: 83 (1925)
 
 #### Original name
 Neottiella crozalsiana Grelet, 1925

@@ -1,5 +1,4 @@
-Blastenia diphasia (Tuck.) Zahlbr. SPECIES
-=======
+# Blastenia diphasia (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

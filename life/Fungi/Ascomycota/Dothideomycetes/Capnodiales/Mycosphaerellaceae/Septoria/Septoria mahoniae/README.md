@@ -1,5 +1,4 @@
-Septoria mahoniae Pass. SPECIES
-=======
+# Septoria mahoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

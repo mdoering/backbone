@@ -1,14 +1,13 @@
-Arthrobotrys salina (R.C. Cooke & C.H. Dickinson) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
-=======
+# Monacrosporium salinum R.C. Cooke & C.H. Dickinson, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 51(1): 104 (1999)
+Trans. Br. mycol. Soc. 48(4): 626 (1965)
 
 #### Original name
 Monacrosporium salinum R.C. Cooke & C.H. Dickinson, 1965

@@ -1,5 +1,4 @@
-Metanema strenuum (Skuja, 1948) Larsen, 1987 SPECIES
-=======
+# Metanema strenuum (Skuja, 1948) Larsen, 1987 SPECIES
 
 #### Status
 ACCEPTED

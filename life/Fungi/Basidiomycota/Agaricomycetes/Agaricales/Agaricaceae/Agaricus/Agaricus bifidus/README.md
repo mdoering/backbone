@@ -1,5 +1,4 @@
-Agaricus bifidus Bull. SPECIES
-=======
+# Agaricus bifidus Bull. SPECIES
 
 #### Status
 ACCEPTED

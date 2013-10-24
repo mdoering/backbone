@@ -1,17 +1,16 @@
-Xanthoparmelia adleri T.H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia adlerae T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(2): 286 (1987)
 
 #### Original name
-Xanthoparmelia adleri T.H. Nash, Elix & J. Johnst.
+Xanthoparmelia adlerae T. H. Nash, Elix & J. Johnst.
 
 ### Remarks
 null

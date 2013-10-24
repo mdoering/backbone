@@ -1,5 +1,4 @@
-Cortinarius achyrocephalus Melot SPECIES
-=======
+# Cortinarius achyrocephalus Melot SPECIES
 
 #### Status
 ACCEPTED

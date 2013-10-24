@@ -1,5 +1,4 @@
-Melanopsamma ossicola Tassi SPECIES
-=======
+# Melanopsamma ossicola Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes subendothejus Murrill SPECIES
-=======
+# Fomes subendothejus Murrill SPECIES
 
 #### Status
 ACCEPTED

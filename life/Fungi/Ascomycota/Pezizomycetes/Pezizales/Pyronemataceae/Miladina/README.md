@@ -1,5 +1,4 @@
-Miladina Svrcek GENUS
-=======
+# Miladina Svrcek GENUS
 
 #### Status
 ACCEPTED

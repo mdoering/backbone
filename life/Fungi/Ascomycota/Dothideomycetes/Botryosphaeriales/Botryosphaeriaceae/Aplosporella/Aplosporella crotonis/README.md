@@ -1,5 +1,4 @@
-Aplosporella crotonis (Chona & Munjal) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella crotonis (Chona & Munjal) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

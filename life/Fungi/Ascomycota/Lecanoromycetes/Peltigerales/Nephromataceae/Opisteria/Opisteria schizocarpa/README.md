@@ -1,5 +1,4 @@
-Opisteria schizocarpa (Nyl.) Vain. SPECIES
-=======
+# Opisteria schizocarpa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

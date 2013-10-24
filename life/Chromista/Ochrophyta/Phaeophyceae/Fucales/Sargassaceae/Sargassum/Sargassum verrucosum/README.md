@@ -1,5 +1,4 @@
-Sargassum verrucosum var. djeddahense Grunow, 1915 VARIETY
-=======
+# Sargassum verrucosum SPECIES
 
 #### Status
 ACCEPTED

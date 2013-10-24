@@ -1,5 +1,4 @@
-Leiophloea scotophora (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea scotophora (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

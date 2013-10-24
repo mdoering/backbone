@@ -1,5 +1,4 @@
-Cryptomonas pseudobaltica R. W. Butcher SPECIES
-=======
+# Cryptomonas pseudobaltica R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

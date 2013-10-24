@@ -1,5 +1,4 @@
-Favolus extratropicus Fr. SPECIES
-=======
+# Favolus extratropicus Fr. SPECIES
 
 #### Status
 ACCEPTED

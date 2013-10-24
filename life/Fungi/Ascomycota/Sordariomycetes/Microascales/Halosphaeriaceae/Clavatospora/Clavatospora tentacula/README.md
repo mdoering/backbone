@@ -1,5 +1,4 @@
-Clavatospora tentacula Sv. Nilsson SPECIES
-=======
+# Clavatospora tentacula Sv. Nilsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium devastans Rostr. SPECIES
-=======
+# Myxosporium devastans Rostr. SPECIES
 
 #### Status
 ACCEPTED

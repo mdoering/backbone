@@ -1,5 +1,4 @@
-Tomentella elaeodes (Bres.) Höhn. & Litsch. SPECIES
-=======
+# Tomentella elaeodes (Bres.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium confluens Ellis & Dearn. SPECIES
-=======
+# Gloeosporium confluens Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

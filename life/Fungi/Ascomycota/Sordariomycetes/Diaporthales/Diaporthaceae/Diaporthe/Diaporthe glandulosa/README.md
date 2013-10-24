@@ -1,5 +1,4 @@
-Diaporthe glandulosa Rehm SPECIES
-=======
+# Diaporthe glandulosa Rehm SPECIES
 
 #### Status
 ACCEPTED

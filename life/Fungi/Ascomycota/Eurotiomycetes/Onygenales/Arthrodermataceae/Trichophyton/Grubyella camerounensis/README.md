@@ -1,5 +1,4 @@
-Grubyella camerounensis M. Ota & Langeron SPECIES
-=======
+# Grubyella camerounensis M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

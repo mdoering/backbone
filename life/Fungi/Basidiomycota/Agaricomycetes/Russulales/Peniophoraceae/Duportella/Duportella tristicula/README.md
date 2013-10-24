@@ -1,14 +1,13 @@
-Terana tristicula (Berk. & Broome) Kuntze, 1891 SPECIES
-=======
+# Duportella tristicula (Berk. & Broome) Reinking, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Philipp. J. Sci. , C, Bot. 17: 364 (1920)
 
 #### Original name
 null

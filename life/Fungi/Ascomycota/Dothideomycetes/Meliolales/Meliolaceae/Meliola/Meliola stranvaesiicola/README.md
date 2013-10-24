@@ -1,5 +1,4 @@
-Meliola stranvaesiicola (W. Yamam.) Cif. SPECIES
-=======
+# Meliola stranvaesiicola (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

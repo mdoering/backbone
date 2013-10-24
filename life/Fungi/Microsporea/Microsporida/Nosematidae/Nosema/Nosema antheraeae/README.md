@@ -1,5 +1,4 @@
-Nosema antheraeae SPECIES
-=======
+# Nosema antheraeae SPECIES
 
 #### Status
 ACCEPTED

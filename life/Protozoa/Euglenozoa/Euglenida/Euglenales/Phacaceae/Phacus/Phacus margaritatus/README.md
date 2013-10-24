@@ -1,5 +1,4 @@
-Phacus margaritatus Pochmann SPECIES
-=======
+# Phacus margaritatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prosicuophora de Puytorac & Oktem, 1967 GENUS
-=======
+# Prosicuophora de Puytorac & Oktem, 1967 GENUS
 
 #### Status
 ACCEPTED

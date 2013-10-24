@@ -1,5 +1,4 @@
-Angiopsora vernoniae T.S. Ramakr. SPECIES
-=======
+# Angiopsora vernoniae T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

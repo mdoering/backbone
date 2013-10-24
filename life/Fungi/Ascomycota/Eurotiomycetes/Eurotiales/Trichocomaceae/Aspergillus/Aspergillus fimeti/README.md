@@ -1,5 +1,4 @@
-Aspergillus fimeti Sacc. & Speg. SPECIES
-=======
+# Aspergillus fimeti Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

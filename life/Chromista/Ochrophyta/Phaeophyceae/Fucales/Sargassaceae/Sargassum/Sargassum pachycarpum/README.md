@@ -1,5 +1,4 @@
-Sargassum pachycarpum J. Agardh SPECIES
-=======
+# Sargassum pachycarpum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

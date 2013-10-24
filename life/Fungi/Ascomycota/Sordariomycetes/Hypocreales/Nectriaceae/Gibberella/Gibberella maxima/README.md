@@ -1,5 +1,4 @@
-Gibberella maxima Smyk SPECIES
-=======
+# Gibberella maxima Smyk SPECIES
 
 #### Status
 ACCEPTED

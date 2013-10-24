@@ -1,5 +1,4 @@
-Characiopsis pyriformis (A. Braun) Borzi SPECIES
-=======
+# Characiopsis pyriformis (A. Braun) Borzi SPECIES
 
 #### Status
 ACCEPTED

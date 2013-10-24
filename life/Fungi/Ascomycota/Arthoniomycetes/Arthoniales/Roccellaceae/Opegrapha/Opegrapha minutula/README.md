@@ -1,5 +1,4 @@
-Opegrapha minutula Müll. Arg. SPECIES
-=======
+# Opegrapha minutula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

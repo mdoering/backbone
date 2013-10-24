@@ -1,5 +1,4 @@
-Rosellinia bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Rosellinia bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saprolegnia lactea Pringsh. SPECIES
-=======
+# Saprolegnia lactea Pringsh. SPECIES
 
 #### Status
 ACCEPTED

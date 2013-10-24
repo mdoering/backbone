@@ -1,5 +1,4 @@
-Gyromitra labyrinthica Fr. SPECIES
-=======
+# Gyromitra labyrinthica Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyronectria sambucina Ellis & Everh. SPECIES
-=======
+# Thyronectria sambucina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

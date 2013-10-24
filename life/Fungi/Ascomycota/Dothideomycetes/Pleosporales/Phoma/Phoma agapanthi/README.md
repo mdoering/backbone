@@ -1,5 +1,4 @@
-Phoma agapanthi subsp. agapanthi (Thüm.) Sacc. SUBSPECIES
-=======
+# Phoma agapanthi (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 3: 158 (1884)
 
 #### Original name
-Phoma agapanthi subsp. agapanthi (Thüm.) Sacc.
+null
 
 ### Remarks
 null

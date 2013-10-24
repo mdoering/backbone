@@ -1,5 +1,4 @@
-Entosiphon indicus SPECIES
-=======
+# Entosiphon indicus SPECIES
 
 #### Status
 ACCEPTED

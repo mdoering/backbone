@@ -1,5 +1,4 @@
-Oppilatala sparsa Wicander & Wood, 1981 SPECIES
-=======
+# Oppilatala sparsa Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

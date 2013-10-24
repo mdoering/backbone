@@ -1,5 +1,4 @@
-Diplocolpulus Haeckel, 1887 GENUS
-=======
+# Diplocolpulus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

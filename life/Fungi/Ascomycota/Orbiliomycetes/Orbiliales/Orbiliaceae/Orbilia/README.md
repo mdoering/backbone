@@ -1,17 +1,16 @@
-Habrostictis Fuckel GENUS
-=======
+# Orbilia Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 249 (1870)
+Summa veg. Scand. (Stockholm), Section Post. 357 (1849)
 
 #### Original name
-Habrostictis Fuckel
+Orbilia Fr.
 
 ### Remarks
 null

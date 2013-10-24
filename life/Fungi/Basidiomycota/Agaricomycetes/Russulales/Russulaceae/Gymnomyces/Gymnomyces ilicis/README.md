@@ -1,5 +1,4 @@
-Gymnomyces ilicis J.M. Vidal & Llistos. SPECIES
-=======
+# Gymnomyces ilicis J.M. Vidal & Llistos. SPECIES
 
 #### Status
 ACCEPTED

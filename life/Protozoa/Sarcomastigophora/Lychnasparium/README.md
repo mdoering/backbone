@@ -1,5 +1,4 @@
-Lychnasparium Haeckel, 1887 GENUS
-=======
+# Lychnasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

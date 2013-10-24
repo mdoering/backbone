@@ -1,5 +1,4 @@
-Aquitalea Lau, Faryna & Triplett, 2006 GENUS
-=======
+# Aquitalea Lau, Faryna & Triplett, 2006 GENUS
 
 #### Status
 ACCEPTED

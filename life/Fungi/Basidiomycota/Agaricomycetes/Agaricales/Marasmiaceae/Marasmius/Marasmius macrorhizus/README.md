@@ -1,5 +1,4 @@
-Marasmius macrorhizus Mont. SPECIES
-=======
+# Marasmius macrorhizus Mont. SPECIES
 
 #### Status
 ACCEPTED

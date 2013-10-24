@@ -1,5 +1,4 @@
-Epithyrium innatum (P. Karst.) Sacc. SPECIES
-=======
+# Epithyrium innatum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

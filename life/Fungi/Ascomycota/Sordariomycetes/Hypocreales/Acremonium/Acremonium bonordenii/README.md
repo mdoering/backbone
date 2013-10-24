@@ -1,5 +1,4 @@
-Acremonium bonordenii Sacc. SPECIES
-=======
+# Acremonium bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella dichondrae Crous & U. Braun SPECIES
-=======
+# Mycovellosiella dichondrae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Manivitella pecten Black, 1973 SPECIES
-=======
+# Manivitella pecten Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

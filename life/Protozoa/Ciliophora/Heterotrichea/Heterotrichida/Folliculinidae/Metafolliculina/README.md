@@ -1,5 +1,4 @@
-Metafolliculina Dons, 1925 GENUS
-=======
+# Metafolliculina Dons, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora superflua Ellis & Holw. SPECIES
-=======
+# Cercospora superflua Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

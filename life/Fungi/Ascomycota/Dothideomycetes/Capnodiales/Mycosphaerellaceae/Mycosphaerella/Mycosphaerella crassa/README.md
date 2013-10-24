@@ -1,5 +1,4 @@
-Mycosphaerella crassa (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella crassa (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

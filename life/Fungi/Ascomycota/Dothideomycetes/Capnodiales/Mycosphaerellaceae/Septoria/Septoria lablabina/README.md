@@ -1,5 +1,4 @@
-Septoria lablabina Sacc. SPECIES
-=======
+# Septoria lablabina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Undella pentagona (Jörgensen) Balech, 1975 SPECIES
-=======
+# Undella pentagona (Jörgensen) Balech, 1975 SPECIES
 
 #### Status
 ACCEPTED

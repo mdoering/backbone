@@ -1,5 +1,4 @@
-Caloplaca tornoensis H. Magn. SPECIES
-=======
+# Caloplaca tornoensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

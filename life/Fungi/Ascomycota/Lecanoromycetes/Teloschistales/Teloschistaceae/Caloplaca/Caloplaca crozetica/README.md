@@ -1,8 +1,7 @@
-Kuettlingeria crozetica (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Caloplaca crozetica Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

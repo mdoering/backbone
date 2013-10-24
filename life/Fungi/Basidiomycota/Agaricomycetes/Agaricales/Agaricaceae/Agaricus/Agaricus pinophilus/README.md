@@ -1,5 +1,4 @@
-Agaricus pinophilus Peck SPECIES
-=======
+# Agaricus pinophilus Peck SPECIES
 
 #### Status
 ACCEPTED

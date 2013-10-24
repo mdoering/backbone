@@ -1,5 +1,4 @@
-Protomyces crepidis-paludosae Büren SPECIES
-=======
+# Protomyces crepidis-paludosae Büren SPECIES
 
 #### Status
 ACCEPTED

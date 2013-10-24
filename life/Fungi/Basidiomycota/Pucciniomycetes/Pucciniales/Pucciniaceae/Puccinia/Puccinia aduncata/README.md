@@ -1,5 +1,4 @@
-Puccinia aduncata F. He & Kakish. SPECIES
-=======
+# Puccinia aduncata F. He & Kakish. SPECIES
 
 #### Status
 ACCEPTED

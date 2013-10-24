@@ -1,5 +1,4 @@
-Agaricus rudolphii Batsch SPECIES
-=======
+# Agaricus rudolphii Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora schrenkiae Tartenova SPECIES
-=======
+# Pleospora schrenkiae Tartenova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscoboletinus glandulosus (Peck) Pomerl. & A.H. Sm. SPECIES
-=======
+# Fuscoboletinus glandulosus (Peck) Pomerl. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

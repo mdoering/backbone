@@ -1,5 +1,4 @@
-Stagonospora asparagi S. Ahmad SPECIES
-=======
+# Stagonospora asparagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

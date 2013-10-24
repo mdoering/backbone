@@ -1,5 +1,4 @@
-Amanita tullossii Guzmán & Ram.-Guill. SPECIES
-=======
+# Amanita tullossii Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia minima Zahlbr. SPECIES
-=======
+# Blastenia minima Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

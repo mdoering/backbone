@@ -1,5 +1,4 @@
-Nectria manuka Dingley, 1951 SPECIES
-=======
+# Nectria manuka Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

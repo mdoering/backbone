@@ -1,5 +1,4 @@
-Pyrenula maculata (R.C. Harris) R.C. Harris SPECIES
-=======
+# Pyrenula maculata (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

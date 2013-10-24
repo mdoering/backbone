@@ -1,5 +1,4 @@
-Algoriphagus terrigena Yoon et al., 2006 SPECIES
-=======
+# Algoriphagus terrigena Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

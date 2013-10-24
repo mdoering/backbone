@@ -1,5 +1,4 @@
-Verrucaria caesiorufa (Schrad.) Hoffm. SPECIES
-=======
+# Verrucaria caesiorufa (Schrad.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

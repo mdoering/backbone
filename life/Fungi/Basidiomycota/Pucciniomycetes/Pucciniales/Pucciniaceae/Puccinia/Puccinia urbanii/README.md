@@ -1,17 +1,16 @@
-Puccinia urbanis Savile SPECIES
-=======
+# Puccinia urbanii Savile SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Canadenses, Ottawa 18 (1974)
 
 #### Original name
-Puccinia urbanis Savile
+Puccinia urbanii Savile
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula punicea W.F. Chiu SPECIES
-=======
+# Russula punicea W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

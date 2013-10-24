@@ -1,5 +1,4 @@
-Galera pallidoochracea Herp. SPECIES
-=======
+# Galera pallidoochracea Herp. SPECIES
 
 #### Status
 ACCEPTED

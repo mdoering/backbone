@@ -1,5 +1,4 @@
-Amanita thiersii Bas SPECIES
-=======
+# Amanita thiersii Bas SPECIES
 
 #### Status
 ACCEPTED

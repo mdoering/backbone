@@ -1,5 +1,4 @@
-Uredo glyceriae-distantis Erikss. SPECIES
-=======
+# Uredo glyceriae-distantis Erikss. SPECIES
 
 #### Status
 ACCEPTED

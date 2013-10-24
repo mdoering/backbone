@@ -1,5 +1,4 @@
-Thrombium byssaceum (Weigel) Schaer. SPECIES
-=======
+# Thrombium byssaceum (Weigel) Schaer. SPECIES
 
 #### Status
 ACCEPTED

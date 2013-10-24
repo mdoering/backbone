@@ -1,5 +1,4 @@
-Monochrysis lutheri SPECIES
-=======
+# Monochrysis lutheri SPECIES
 
 #### Status
 ACCEPTED

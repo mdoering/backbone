@@ -1,5 +1,4 @@
-Fenestella amorpha Ellis & Everh. SPECIES
-=======
+# Fenestella amorpha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

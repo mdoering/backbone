@@ -1,5 +1,4 @@
-Hypocrea protopeltata Yoshim. Doi SPECIES
-=======
+# Hypocrea protopeltata Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

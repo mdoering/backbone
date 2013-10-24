@@ -1,5 +1,4 @@
-Lecidea atroocarpoides Vain. SPECIES
-=======
+# Lecidea atroocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

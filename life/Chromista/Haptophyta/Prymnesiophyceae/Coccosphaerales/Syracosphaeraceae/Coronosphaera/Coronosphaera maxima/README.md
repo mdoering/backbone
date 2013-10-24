@@ -1,5 +1,4 @@
-Coronosphaera maxima (Halldal & Markali, 1955) Gaarder, 1977 SPECIES
-=======
+# Coronosphaera maxima (Halldal & Markali, 1955) Gaarder, 1977 SPECIES
 
 #### Status
 ACCEPTED

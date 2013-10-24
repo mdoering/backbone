@@ -1,5 +1,4 @@
-Deightoniella fimbristylidis Sawada ex M.B. Ellis SPECIES
-=======
+# Deightoniella fimbristylidis Sawada ex M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

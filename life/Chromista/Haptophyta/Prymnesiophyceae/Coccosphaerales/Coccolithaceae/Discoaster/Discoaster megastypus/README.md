@@ -1,5 +1,4 @@
-Discoaster megastypus (Bramlette & Sullivan, 1961) n. comb. SPECIES
-=======
+# Discoaster megastypus (Bramlette & Sullivan, 1961) n. comb. SPECIES
 
 #### Status
 ACCEPTED

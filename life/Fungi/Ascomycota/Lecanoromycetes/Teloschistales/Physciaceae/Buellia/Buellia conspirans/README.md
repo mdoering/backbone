@@ -1,5 +1,4 @@
-Buellia conspirans (Nyl.) Vain. SPECIES
-=======
+# Buellia conspirans (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium ignobile P. Karst. SPECIES
-=======
+# Sporidesmium ignobile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

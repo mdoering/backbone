@@ -1,5 +1,4 @@
-Acrodictys M.B. Ellis GENUS
-=======
+# Acrodictys M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

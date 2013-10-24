@@ -1,5 +1,4 @@
-Asterinella gmelinae Sacc. SPECIES
-=======
+# Asterinella gmelinae Sacc. SPECIES
 
 #### Status
 ACCEPTED

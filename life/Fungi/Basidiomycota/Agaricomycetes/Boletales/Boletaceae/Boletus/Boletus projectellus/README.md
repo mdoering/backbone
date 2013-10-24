@@ -1,5 +1,4 @@
-Boletus projectellus (Murrill) Murrill SPECIES
-=======
+# Boletus projectellus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

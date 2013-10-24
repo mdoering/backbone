@@ -1,5 +1,4 @@
-Didymosphaeria staphyleae Hazsl. SPECIES
-=======
+# Didymosphaeria staphyleae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

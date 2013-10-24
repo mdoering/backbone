@@ -1,17 +1,16 @@
-Polyporus cirrhiferus Berk. & M.A. Curtis SPECIES
-=======
+# Coriolopsis caperata (Berk.) Murrill, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(2): 77 (1908)
 
 #### Original name
-Polyporus cirrhiferus Berk. & M.A. Curtis
+Polyporus caperatus Berk., 1881
 
 ### Remarks
 null

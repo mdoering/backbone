@@ -1,5 +1,4 @@
-Trichothecium globosporum var. globosporum VARIETY
-=======
+# Trichothecium globosporum Soprunov SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Predacious fungi - Hyphomycetes and their use in the control of pathogenic nematodes 120 (1958)
 
 #### Original name
-Trichothecium globosporum var. globosporum
+Trichothecium globosporum Soprunov
 
 ### Remarks
 null

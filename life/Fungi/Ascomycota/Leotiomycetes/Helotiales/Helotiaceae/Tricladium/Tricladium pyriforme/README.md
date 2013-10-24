@@ -1,5 +1,4 @@
-Tricladium pyriforme SPECIES
-=======
+# Tricladium pyriforme SPECIES
 
 #### Status
 ACCEPTED

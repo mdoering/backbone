@@ -1,5 +1,4 @@
-Hemithecium polymorphum (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Hemithecium polymorphum (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

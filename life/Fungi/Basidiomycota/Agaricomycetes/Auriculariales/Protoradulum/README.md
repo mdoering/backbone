@@ -1,5 +1,4 @@
-Protoradulum Rick GENUS
-=======
+# Protoradulum Rick GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma appendiculosa (Berk. & Broome) SPECIES
-=======
+# Anthostoma appendiculosa (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Diderma globosum var. alpinum Meyl. VARIETY
-=======
+# Diderma alpinum (Meyl.) Meyl., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annuaire Conser. et Jard. bot. Genève 15-16: 310 (1913)
+Diagn. Mycoth. Univ. Cent. 51: 261 (1917)
 
 #### Original name
 Diderma globosum var. alpinum Meyl.

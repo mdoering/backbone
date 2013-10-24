@@ -1,5 +1,4 @@
-Trichothecium moniliforme Wallr. SPECIES
-=======
+# Trichothecium moniliforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

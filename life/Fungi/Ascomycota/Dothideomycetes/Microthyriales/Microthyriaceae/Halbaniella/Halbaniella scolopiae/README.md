@@ -1,5 +1,4 @@
-Halbaniella scolopiae Sawada & W. Yamam. SPECIES
-=======
+# Halbaniella scolopiae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

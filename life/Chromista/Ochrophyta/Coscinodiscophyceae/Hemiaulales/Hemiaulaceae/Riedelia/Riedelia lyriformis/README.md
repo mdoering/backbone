@@ -1,5 +1,4 @@
-Riedelia lyriformis (Greville) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia lyriformis (Greville) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

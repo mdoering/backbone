@@ -1,5 +1,4 @@
-Botryodiplodia ostiolata Ellis & Everh. SPECIES
-=======
+# Botryodiplodia ostiolata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

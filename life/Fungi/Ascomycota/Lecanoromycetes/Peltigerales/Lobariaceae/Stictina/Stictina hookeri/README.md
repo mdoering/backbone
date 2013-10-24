@@ -1,5 +1,4 @@
-Stictina hookeri (C. Bab.) Nyl. SPECIES
-=======
+# Stictina hookeri (C. Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

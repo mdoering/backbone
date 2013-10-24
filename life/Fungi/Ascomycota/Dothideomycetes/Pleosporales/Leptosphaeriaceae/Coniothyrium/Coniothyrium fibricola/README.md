@@ -1,5 +1,4 @@
-Coniothyrium fibricola (Berk.) Kuntze SPECIES
-=======
+# Coniothyrium fibricola (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

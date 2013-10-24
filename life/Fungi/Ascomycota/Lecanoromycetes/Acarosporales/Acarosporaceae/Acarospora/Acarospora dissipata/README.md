@@ -1,5 +1,4 @@
-Acarospora dissipata var. dissipata VARIETY
-=======
+# Acarospora dissipata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora dissipata var. dissipata
+Acarospora dissipata H. Magn.
 
 ### Remarks
 null

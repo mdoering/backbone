@@ -1,5 +1,4 @@
-Phaeopezia fuscocarpa (Ellis & Holw.) Sacc. SPECIES
-=======
+# Phaeopezia fuscocarpa (Ellis & Holw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

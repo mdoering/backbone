@@ -1,5 +1,4 @@
-Marasmius ilicis Singer SPECIES
-=======
+# Marasmius ilicis Singer SPECIES
 
 #### Status
 ACCEPTED

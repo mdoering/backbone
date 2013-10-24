@@ -1,5 +1,4 @@
-Arthopyrenia umbripicta Norman SPECIES
-=======
+# Arthopyrenia umbripicta Norman SPECIES
 
 #### Status
 ACCEPTED

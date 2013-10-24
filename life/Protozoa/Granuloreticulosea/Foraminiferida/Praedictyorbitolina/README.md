@@ -1,5 +1,4 @@
-Praedictyorbitolina Schröder, Clavel & Charollais, 1990 GENUS
-=======
+# Praedictyorbitolina Schröder, Clavel & Charollais, 1990 GENUS
 
 #### Status
 ACCEPTED

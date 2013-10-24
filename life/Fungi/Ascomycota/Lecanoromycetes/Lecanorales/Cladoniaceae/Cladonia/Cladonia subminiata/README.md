@@ -1,5 +1,4 @@
-Cladonia subminiata S. Stenroos SPECIES
-=======
+# Cladonia subminiata S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

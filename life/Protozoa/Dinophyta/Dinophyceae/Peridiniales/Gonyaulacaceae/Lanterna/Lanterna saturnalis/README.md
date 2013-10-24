@@ -1,5 +1,4 @@
-Lanterna saturnalis Brideaux & Fisher, 1976 SPECIES
-=======
+# Lanterna saturnalis Brideaux & Fisher, 1976 SPECIES
 
 #### Status
 ACCEPTED

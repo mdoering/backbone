@@ -1,5 +1,4 @@
-Aphanothece gardneri De Toni SPECIES
-=======
+# Aphanothece gardneri De Toni SPECIES
 
 #### Status
 ACCEPTED

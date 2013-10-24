@@ -1,5 +1,4 @@
-Chrysocapsopsis R.H.Thompson & Wujek, 1998 GENUS
-=======
+# Chrysocapsopsis R.H.Thompson & Wujek, 1998 GENUS
 
 #### Status
 ACCEPTED

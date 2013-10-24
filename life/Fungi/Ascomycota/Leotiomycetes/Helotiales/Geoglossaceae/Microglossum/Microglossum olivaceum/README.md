@@ -1,17 +1,16 @@
-Microglossum olivaceum var. olivaceum VARIETY
-=======
+# Microglossum olivaceum (Pers.) Gillet, 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Champignons de France, Discom. 26 (1879)
 
 #### Original name
-null
+Geoglossum olivaceum Pers., 1796
 
 ### Remarks
 null

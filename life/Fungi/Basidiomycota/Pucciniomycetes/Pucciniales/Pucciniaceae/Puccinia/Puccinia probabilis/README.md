@@ -1,5 +1,4 @@
-Puccinia probabilis Arthur & Cummins SPECIES
-=======
+# Puccinia probabilis Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

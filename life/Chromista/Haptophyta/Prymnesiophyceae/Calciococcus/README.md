@@ -1,5 +1,4 @@
-Calciococcus GENUS
-=======
+# Calciococcus GENUS
 
 #### Status
 ACCEPTED

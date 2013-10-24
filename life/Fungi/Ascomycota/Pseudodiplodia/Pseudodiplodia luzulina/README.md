@@ -1,5 +1,4 @@
-Pseudodiplodia luzulina (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia luzulina (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

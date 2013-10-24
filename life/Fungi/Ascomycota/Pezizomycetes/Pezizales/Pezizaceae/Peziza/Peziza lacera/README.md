@@ -1,5 +1,4 @@
-Peziza lacera f. lacera FORM
-=======
+# Peziza lacera Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 227 (1822)
 
 #### Original name
-Peziza lacera f. lacera
+Peziza lacera Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scytinostroma alutum Lanq., 1984 SPECIES
-=======
+# Scytinostroma alutum Lanq., 1984 SPECIES
 
 #### Status
 ACCEPTED

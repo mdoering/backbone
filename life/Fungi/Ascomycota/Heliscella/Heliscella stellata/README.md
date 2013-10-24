@@ -1,14 +1,13 @@
-Heliscus stellatus Ingold & V.J. Cox SPECIES
-=======
+# Heliscella stellata (Ingold & V.J. Cox) Marvanová, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40: 155 (1957)
+Trans. Br. mycol. Soc. 75(2): 224 (1980)
 
 #### Original name
 Heliscus stellatus Ingold & V.J. Cox

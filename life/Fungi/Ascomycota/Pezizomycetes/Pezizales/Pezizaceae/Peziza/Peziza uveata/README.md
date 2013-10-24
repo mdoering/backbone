@@ -1,5 +1,4 @@
-Peziza uveata Schumach. SPECIES
-=======
+# Peziza uveata Schumach. SPECIES
 
 #### Status
 ACCEPTED

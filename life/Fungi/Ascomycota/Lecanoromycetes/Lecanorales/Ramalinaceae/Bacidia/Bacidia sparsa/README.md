@@ -1,5 +1,4 @@
-Bacidia sparsa Kullh. SPECIES
-=======
+# Bacidia sparsa Kullh. SPECIES
 
 #### Status
 ACCEPTED

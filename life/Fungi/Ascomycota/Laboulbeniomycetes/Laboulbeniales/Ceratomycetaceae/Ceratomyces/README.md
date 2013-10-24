@@ -1,5 +1,4 @@
-Ceratomyces Thaxt. GENUS
-=======
+# Ceratomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

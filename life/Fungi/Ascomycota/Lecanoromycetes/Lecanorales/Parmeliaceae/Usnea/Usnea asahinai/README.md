@@ -1,5 +1,4 @@
-Usnea asahinai Motyka SPECIES
-=======
+# Usnea asahinai Motyka SPECIES
 
 #### Status
 ACCEPTED

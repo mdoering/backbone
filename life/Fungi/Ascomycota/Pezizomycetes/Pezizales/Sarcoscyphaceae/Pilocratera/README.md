@@ -1,5 +1,4 @@
-Pilocratera GENUS
-=======
+# Pilocratera GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Haslingfieldia M. Black, 1973 GENUS
-=======
+# Staurolithites Caratini, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Lower Cretaceous coccoliths. 1. Gault Clay. Palaeontogr. Soc. (Monogr. ) 127 (537): 110.
+null
 
 #### Original name
 null

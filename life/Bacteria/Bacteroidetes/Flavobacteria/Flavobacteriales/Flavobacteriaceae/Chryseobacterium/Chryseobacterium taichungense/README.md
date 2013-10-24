@@ -1,5 +1,4 @@
-Chryseobacterium taichungense Shen et al., 2005 SPECIES
-=======
+# Chryseobacterium taichungense Shen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

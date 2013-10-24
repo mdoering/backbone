@@ -1,5 +1,4 @@
-Dendrosarcus hemiphlebius (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus hemiphlebius (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

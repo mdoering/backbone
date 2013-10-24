@@ -1,5 +1,4 @@
-Phyllachora peglerae (Doidge) Doidge, 1942 SPECIES
-=======
+# Phyllachora peglerae (Doidge) Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

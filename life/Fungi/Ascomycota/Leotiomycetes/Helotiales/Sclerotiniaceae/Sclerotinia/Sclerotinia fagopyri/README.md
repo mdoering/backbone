@@ -1,5 +1,4 @@
-Sclerotinia fagopyri Hori SPECIES
-=======
+# Sclerotinia fagopyri Hori SPECIES
 
 #### Status
 ACCEPTED

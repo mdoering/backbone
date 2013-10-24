@@ -1,17 +1,16 @@
-Parmelia olivaria f. olivaria FORM
-=======
+# Parmotrema olivarium (Ach.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 112 (1871)
+null
 
 #### Original name
-Parmelia olivaria f. olivaria
+null
 
 ### Remarks
 null

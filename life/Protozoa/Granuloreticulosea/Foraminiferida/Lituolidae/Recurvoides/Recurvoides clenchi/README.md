@@ -1,5 +1,4 @@
-Recurvoides clenchi SPECIES
-=======
+# Recurvoides clenchi SPECIES
 
 #### Status
 ACCEPTED

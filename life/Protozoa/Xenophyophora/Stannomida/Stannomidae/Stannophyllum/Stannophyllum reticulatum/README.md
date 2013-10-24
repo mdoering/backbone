@@ -1,5 +1,4 @@
-Stannophyllum reticulatum (Haeckel, 1889) SPECIES
-=======
+# Stannophyllum reticulatum (Haeckel, 1889) SPECIES
 
 #### Status
 ACCEPTED

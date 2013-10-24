@@ -1,5 +1,4 @@
-Marasmius perlongispermus Singer SPECIES
-=======
+# Marasmius perlongispermus Singer SPECIES
 
 #### Status
 ACCEPTED

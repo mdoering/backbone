@@ -1,5 +1,4 @@
-Lophiostoma simile var. simile VARIETY
-=======
+# Lophiostoma simile Nitschke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-Lophiostoma simile var. simile
+Lophiostoma simile Nitschke
 
 ### Remarks
 null

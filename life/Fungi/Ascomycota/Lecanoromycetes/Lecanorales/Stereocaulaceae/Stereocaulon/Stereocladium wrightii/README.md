@@ -1,5 +1,4 @@
-Stereocladium wrightii (Tuck.) Nyl. SPECIES
-=======
+# Stereocladium wrightii (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

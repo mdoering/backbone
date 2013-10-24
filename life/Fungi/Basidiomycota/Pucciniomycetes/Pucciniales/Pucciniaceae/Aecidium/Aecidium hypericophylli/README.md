@@ -1,5 +1,4 @@
-Aecidium hypericophylli Vienn.-Bourg. SPECIES
-=======
+# Aecidium hypericophylli Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

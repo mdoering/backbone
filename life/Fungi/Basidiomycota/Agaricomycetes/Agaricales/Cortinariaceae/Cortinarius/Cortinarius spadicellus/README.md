@@ -1,14 +1,13 @@
-Phlegmacium spadicellum M.M. Moser, 1953 SPECIES
-=======
+# Cortinarius spadicellus (M.M. Moser) Brandrud, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 205 (1953)
+Edinb. J. Bot. 54(1): 114 (1997)
 
 #### Original name
 Phlegmacium spadicellum M.M. Moser, 1953

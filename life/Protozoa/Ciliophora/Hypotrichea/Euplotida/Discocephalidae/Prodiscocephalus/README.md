@@ -1,5 +1,4 @@
-Prodiscocephalus Jankowski, 1979 GENUS
-=======
+# Prodiscocephalus Jankowski, 1979 GENUS
 
 #### Status
 ACCEPTED

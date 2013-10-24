@@ -1,5 +1,4 @@
-Leptopuccinia praemorsa (Dietel & Holw.) Syd. SPECIES
-=======
+# Leptopuccinia praemorsa (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

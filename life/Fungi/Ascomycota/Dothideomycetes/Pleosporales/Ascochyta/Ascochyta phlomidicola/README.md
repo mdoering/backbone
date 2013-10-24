@@ -1,5 +1,4 @@
-Ascochyta phlomidicola P.K. Buchanan SPECIES
-=======
+# Ascochyta phlomidicola P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

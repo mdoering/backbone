@@ -1,5 +1,4 @@
-Diporicellaesporites icebergi Kalgutkar & Sigler SPECIES
-=======
+# Diporicellaesporites icebergi Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

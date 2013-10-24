@@ -1,5 +1,4 @@
-Duplexia Won, 1983 GENUS
-=======
+# Duplexia Won, 1983 GENUS
 
 #### Status
 ACCEPTED

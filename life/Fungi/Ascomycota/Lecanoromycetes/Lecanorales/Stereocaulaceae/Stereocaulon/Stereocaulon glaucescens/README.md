@@ -1,5 +1,4 @@
-Stereocaulon glaucescens var. glaucescens VARIETY
-=======
+# Stereocaulon glaucescens Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon glaucescens var. glaucescens
+Stereocaulon glaucescens Tuck.
 
 ### Remarks
 null

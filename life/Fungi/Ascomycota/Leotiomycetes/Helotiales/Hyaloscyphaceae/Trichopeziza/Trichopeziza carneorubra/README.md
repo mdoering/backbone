@@ -1,5 +1,4 @@
-Trichopeziza carneorubra (Ellis) Sacc. SPECIES
-=======
+# Trichopeziza carneorubra (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

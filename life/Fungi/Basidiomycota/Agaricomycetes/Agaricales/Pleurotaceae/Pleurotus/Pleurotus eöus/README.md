@@ -1,17 +1,16 @@
-Agaricus eous Berk. SPECIES
-=======
+# Pleurotus eöus (Berk.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 361 (1887)
 
 #### Original name
-Agaricus eous Berk.
+Agaricus eöus Berk., 1850
 
 ### Remarks
 null

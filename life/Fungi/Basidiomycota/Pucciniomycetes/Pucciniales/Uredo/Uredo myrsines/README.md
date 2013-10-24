@@ -1,5 +1,4 @@
-Uredo myrsines Dietel SPECIES
-=======
+# Uredo myrsines Dietel SPECIES
 
 #### Status
 ACCEPTED

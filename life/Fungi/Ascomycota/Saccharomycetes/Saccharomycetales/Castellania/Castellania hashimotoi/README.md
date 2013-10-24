@@ -1,5 +1,4 @@
-Castellania hashimotoi C.W. Dodge SPECIES
-=======
+# Castellania hashimotoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

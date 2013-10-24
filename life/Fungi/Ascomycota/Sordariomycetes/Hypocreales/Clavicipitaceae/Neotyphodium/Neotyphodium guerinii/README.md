@@ -1,5 +1,4 @@
-Neotyphodium guerinii J.J. Gauillomin, C. Ravel & C.D. Moon SPECIES
-=======
+# Neotyphodium guerinii J.J. Gauillomin, C. Ravel & C.D. Moon SPECIES
 
 #### Status
 ACCEPTED

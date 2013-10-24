@@ -1,5 +1,4 @@
-Ramularia bubakiana Picb. SPECIES
-=======
+# Ramularia bubakiana Picb. SPECIES
 
 #### Status
 ACCEPTED

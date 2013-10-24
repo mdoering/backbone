@@ -1,5 +1,4 @@
-Dyadosporites inaequalis Kalgutkar SPECIES
-=======
+# Dyadosporites inaequalis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

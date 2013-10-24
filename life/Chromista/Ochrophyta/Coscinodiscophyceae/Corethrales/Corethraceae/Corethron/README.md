@@ -1,5 +1,4 @@
-Corethron Castracane GENUS
-=======
+# Corethron Castracane GENUS
 
 #### Status
 ACCEPTED

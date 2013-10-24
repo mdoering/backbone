@@ -1,5 +1,4 @@
-Globomonas Ribeiro da Fonseca, 1918 GENUS
-=======
+# Globomonas Ribeiro da Fonseca, 1918 GENUS
 
 #### Status
 ACCEPTED

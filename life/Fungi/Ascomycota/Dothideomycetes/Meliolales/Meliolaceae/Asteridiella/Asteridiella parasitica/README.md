@@ -1,5 +1,4 @@
-Asteridiella parasitica (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella parasitica (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

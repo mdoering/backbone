@@ -1,5 +1,4 @@
-Humaria tetrica (Quél.) Sacc. SPECIES
-=======
+# Humaria tetrica (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

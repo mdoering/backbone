@@ -1,17 +1,16 @@
-Ochrolechia frigida f. frigida FORM
-=======
+# Ochrolechia frigida (Sw.) Lynge SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Pl. Nov. Zemlya 182 (1928)
+null
 
 #### Original name
-Ochrolechia frigida f. frigida
+null
 
 ### Remarks
 null

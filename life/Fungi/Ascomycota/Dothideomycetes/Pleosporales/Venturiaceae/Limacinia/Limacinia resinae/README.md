@@ -1,5 +1,4 @@
-Limacinia resinae Sacc. & Bres. SPECIES
-=======
+# Limacinia resinae Sacc. & Bres. SPECIES
 
 #### Status
 ACCEPTED

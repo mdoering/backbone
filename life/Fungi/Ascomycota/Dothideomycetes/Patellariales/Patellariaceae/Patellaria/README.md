@@ -1,17 +1,16 @@
-Patellaria arbuscula (Wallr.) Wallr., 1831 SPECIES
-=======
+# Patellaria E.M. Fries, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 158 (1822)
 
 #### Original name
-null
+Patellaria E.M. Fries, 1822
 
 ### Remarks
 null

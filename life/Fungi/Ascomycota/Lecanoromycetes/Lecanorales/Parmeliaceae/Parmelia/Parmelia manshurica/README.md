@@ -1,5 +1,4 @@
-Parmelia manshurica Asahina SPECIES
-=======
+# Parmelia manshurica Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladia nostocoides Zanardini SPECIES
-=======
+# Trichocladia nostocoides Zanardini SPECIES
 
 #### Status
 ACCEPTED

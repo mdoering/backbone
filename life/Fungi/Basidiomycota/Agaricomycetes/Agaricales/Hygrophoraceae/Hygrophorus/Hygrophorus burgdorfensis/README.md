@@ -1,5 +1,4 @@
-Hygrophorus burgdorfensis Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus burgdorfensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroptycha rhynchophora Hu Yunxu, 1986 SPECIES
-=======
+# Macroptycha rhynchophora Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

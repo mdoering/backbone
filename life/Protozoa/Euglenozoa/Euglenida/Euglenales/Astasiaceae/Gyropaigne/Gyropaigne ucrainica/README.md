@@ -1,5 +1,4 @@
-Gyropaigne ucrainica Assaul SPECIES
-=======
+# Gyropaigne ucrainica Assaul SPECIES
 
 #### Status
 ACCEPTED

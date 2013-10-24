@@ -1,5 +1,4 @@
-Gymnopilus luteofolius (Peck) Singer SPECIES
-=======
+# Gymnopilus luteofolius (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

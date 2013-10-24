@@ -1,14 +1,13 @@
-Parmelia merrillii Vain. SPECIES
-=======
+# Parmotrema merrillii (Vain.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 337 (1974)
 
 #### Original name
 Parmelia merrillii Vain.

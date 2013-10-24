@@ -1,17 +1,16 @@
-Cercospora eustomae Peck SPECIES
-=======
+# Pseudocercospora eustomatis (Peck) U. Braun, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 2: 15 (1999)
 
 #### Original name
-Cercospora eustomae Peck
+Cercospora eustomatis Peck, 1911
 
 ### Remarks
 null

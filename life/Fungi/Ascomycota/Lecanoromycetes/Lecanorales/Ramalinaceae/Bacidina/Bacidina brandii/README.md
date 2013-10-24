@@ -1,5 +1,4 @@
-Bacidina brandii (Coppins & van den Boom) M. Hauck & V. Wirth SPECIES
-=======
+# Bacidina brandii (Coppins & van den Boom) M. Hauck & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium leucoplacum Zahlbr. SPECIES
-=======
+# Thelidium leucoplacum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus tabacinus (Peck) Singer SPECIES
-=======
+# Tylopilus tabacinus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

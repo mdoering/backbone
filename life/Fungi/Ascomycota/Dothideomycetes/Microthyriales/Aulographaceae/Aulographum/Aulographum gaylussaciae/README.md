@@ -1,5 +1,4 @@
-Aulographum gaylussaciae Rehm SPECIES
-=======
+# Aulographum gaylussaciae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium pseudodiabolicum M.M. Moser SPECIES
-=======
+# Phlegmacium pseudodiabolicum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

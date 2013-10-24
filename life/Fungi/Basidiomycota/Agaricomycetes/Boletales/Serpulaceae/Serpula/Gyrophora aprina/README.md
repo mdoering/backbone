@@ -1,5 +1,4 @@
-Gyrophora aprina (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora aprina (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

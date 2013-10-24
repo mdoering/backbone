@@ -1,5 +1,4 @@
-Boletus ranunculus Corner SPECIES
-=======
+# Boletus ranunculus Corner SPECIES
 
 #### Status
 ACCEPTED

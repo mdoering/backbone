@@ -1,5 +1,4 @@
-Pholiota lapponica (Fr.) Singer SPECIES
-=======
+# Pholiota lapponica (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

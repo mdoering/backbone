@@ -1,5 +1,4 @@
-Patescopora Abdel-Wahab & El-Sharouney GENUS
-=======
+# Patescopora Abdel-Wahab & El-Sharouney GENUS
 
 #### Status
 ACCEPTED

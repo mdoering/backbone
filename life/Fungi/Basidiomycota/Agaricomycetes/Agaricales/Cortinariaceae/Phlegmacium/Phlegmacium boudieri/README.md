@@ -1,5 +1,4 @@
-Phlegmacium boudieri var. boudieri VARIETY
-=======
+# Phlegmacium boudieri (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4 221 (1960)
 
 #### Original name
-Phlegmacium boudieri var. boudieri
+Cortinarius boudieri Rob. Henry
 
 ### Remarks
 null

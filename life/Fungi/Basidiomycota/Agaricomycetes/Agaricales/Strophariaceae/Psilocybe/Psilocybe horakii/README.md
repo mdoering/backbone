@@ -1,5 +1,4 @@
-Psilocybe horakii Guzmán SPECIES
-=======
+# Psilocybe horakii Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conicospirillina atlantica Cushman, 1947 SPECIES
-=======
+# Conicospirillina atlantica Cushman, 1947 SPECIES
 
 #### Status
 ACCEPTED

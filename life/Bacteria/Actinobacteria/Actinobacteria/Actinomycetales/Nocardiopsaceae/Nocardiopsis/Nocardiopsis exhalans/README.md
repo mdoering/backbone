@@ -1,5 +1,4 @@
-Nocardiopsis exhalans Peltola et al., 2002 SPECIES
-=======
+# Nocardiopsis exhalans Peltola et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

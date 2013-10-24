@@ -1,5 +1,4 @@
-Buglossus GENUS
-=======
+# Buglossus GENUS
 
 #### Status
 ACCEPTED

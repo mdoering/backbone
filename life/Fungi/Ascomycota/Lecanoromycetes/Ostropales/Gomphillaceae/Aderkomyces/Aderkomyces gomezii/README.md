@@ -1,5 +1,4 @@
-Aderkomyces gomezii Lücking SPECIES
-=======
+# Aderkomyces gomezii Lücking SPECIES
 
 #### Status
 ACCEPTED

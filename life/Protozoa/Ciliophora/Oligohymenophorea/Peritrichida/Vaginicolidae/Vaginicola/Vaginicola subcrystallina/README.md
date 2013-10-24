@@ -1,5 +1,4 @@
-Vaginicola subcrystallina SPECIES
-=======
+# Vaginicola subcrystallina SPECIES
 
 #### Status
 ACCEPTED

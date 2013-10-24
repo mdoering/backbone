@@ -1,5 +1,4 @@
-Verrucaria radians Hazsl. SPECIES
-=======
+# Verrucaria radians Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina randiae-benthamianae Hansf., 1957 SPECIES
-=======
+# Asterina randiae-benthamianae Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

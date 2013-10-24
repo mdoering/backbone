@@ -1,5 +1,4 @@
-Rickenella lignicola Raithelh. SPECIES
-=======
+# Rickenella lignicola Raithelh. SPECIES
 
 #### Status
 ACCEPTED

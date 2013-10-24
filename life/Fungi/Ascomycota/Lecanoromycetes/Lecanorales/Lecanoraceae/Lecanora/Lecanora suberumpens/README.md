@@ -1,5 +1,4 @@
-Lecanora suberumpens SPECIES
-=======
+# Lecanora suberumpens SPECIES
 
 #### Status
 ACCEPTED

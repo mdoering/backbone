@@ -1,5 +1,4 @@
-Vararia maculosa Boidin & Gilles SPECIES
-=======
+# Vararia maculosa Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

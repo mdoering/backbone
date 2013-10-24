@@ -1,5 +1,4 @@
-Coniothyrium difforme (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium difforme (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

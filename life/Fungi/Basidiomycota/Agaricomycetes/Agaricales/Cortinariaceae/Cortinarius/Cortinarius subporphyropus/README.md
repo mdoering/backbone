@@ -1,5 +1,4 @@
-Cortinarius subporphyropus Pilát SPECIES
-=======
+# Cortinarius subporphyropus Pilát SPECIES
 
 #### Status
 ACCEPTED

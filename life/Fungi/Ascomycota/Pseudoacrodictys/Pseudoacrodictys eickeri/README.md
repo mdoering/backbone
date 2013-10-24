@@ -1,17 +1,16 @@
-Acrodictys eickerii Morgan-Jones SPECIES
-=======
+# Pseudoacrodictys eickeri (Morgan-Jones) W.A. Baker & Morgan-Jones, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 386 (2003)
 
 #### Original name
-Acrodictys eickerii Morgan-Jones
+Acrodictys eickeri Morgan-Jones, 1982
 
 ### Remarks
 null

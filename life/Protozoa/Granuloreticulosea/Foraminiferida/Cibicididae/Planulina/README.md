@@ -1,14 +1,13 @@
-Platulina Guérin-Ménéville, 1829-43 GENUS
-=======
+# Planulina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Règne Anim. , 2 Moll. , pl. 2.
+Ann. Sci. Nat. , 7 (27), 280.
 
 #### Original name
 null

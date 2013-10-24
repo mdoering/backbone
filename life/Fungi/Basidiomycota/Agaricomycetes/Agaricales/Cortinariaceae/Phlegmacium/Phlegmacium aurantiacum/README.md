@@ -1,5 +1,4 @@
-Phlegmacium aurantiacum M.M. Moser SPECIES
-=======
+# Phlegmacium aurantiacum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

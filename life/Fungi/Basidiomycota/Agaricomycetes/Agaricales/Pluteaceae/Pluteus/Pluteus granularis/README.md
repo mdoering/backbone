@@ -1,5 +1,4 @@
-Pluteus granularis var. granularis VARIETY
-=======
+# Pluteus granularis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pluteus granularis var. granularis
+Pluteus granularis Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lochomyces Bat. GENUS
-=======
+# Lochomyces Bat. GENUS
 
 #### Status
 ACCEPTED

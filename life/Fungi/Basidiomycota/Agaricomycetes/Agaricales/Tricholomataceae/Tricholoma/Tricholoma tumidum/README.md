@@ -1,5 +1,4 @@
-Tricholoma tumidum (Pers.) Ricken SPECIES
-=======
+# Tricholoma tumidum (Pers.) Ricken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocercospora alascensis R. Sprague SPECIES
-=======
+# Gloeocercospora alascensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

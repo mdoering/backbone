@@ -1,5 +1,4 @@
-Helikotropis Pochmann, 1955 GENUS
-=======
+# Helikotropis Pochmann, 1955 GENUS
 
 #### Status
 ACCEPTED

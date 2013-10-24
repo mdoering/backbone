@@ -1,5 +1,4 @@
-Phacidium nigritulum Rehm SPECIES
-=======
+# Phacidium nigritulum Rehm SPECIES
 
 #### Status
 ACCEPTED

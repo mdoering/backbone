@@ -1,5 +1,4 @@
-Metopus alpestris Foissner, 1980 SPECIES
-=======
+# Metopus alpestris Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

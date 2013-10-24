@@ -1,5 +1,4 @@
-Verrucaria clavaeformis Stirt. SPECIES
-=======
+# Verrucaria clavaeformis Stirt. SPECIES
 
 #### Status
 ACCEPTED

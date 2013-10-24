@@ -1,5 +1,4 @@
-Isaria mitruliformis Henn. SPECIES
-=======
+# Isaria mitruliformis Henn. SPECIES
 
 #### Status
 ACCEPTED

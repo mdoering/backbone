@@ -1,5 +1,4 @@
-Dinophysis gaarderae Sournia, 1973 SPECIES
-=======
+# Dinophysis gaarderae Sournia, 1973 SPECIES
 
 #### Status
 ACCEPTED

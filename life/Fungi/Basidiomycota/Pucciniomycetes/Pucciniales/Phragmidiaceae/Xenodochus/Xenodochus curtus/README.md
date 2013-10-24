@@ -1,5 +1,4 @@
-Xenodochus curtus Cooke SPECIES
-=======
+# Xenodochus curtus Cooke SPECIES
 
 #### Status
 ACCEPTED

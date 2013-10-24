@@ -1,5 +1,4 @@
-Asterina globulifera Pat. SPECIES
-=======
+# Asterina globulifera Pat. SPECIES
 
 #### Status
 ACCEPTED

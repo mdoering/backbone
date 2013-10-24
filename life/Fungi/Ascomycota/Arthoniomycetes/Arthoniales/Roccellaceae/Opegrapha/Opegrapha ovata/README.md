@@ -1,5 +1,4 @@
-Opegrapha ovata Fée SPECIES
-=======
+# Opegrapha ovata Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium himalayense Durrieu SPECIES
-=======
+# Coleosporium himalayense Durrieu SPECIES
 
 #### Status
 ACCEPTED

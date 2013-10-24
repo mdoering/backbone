@@ -1,17 +1,16 @@
-Rhytisma empetri Fr., 1828 SPECIES
-=======
+# Duplicaria empetri (Pers.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 127 (1828)
+Jb. nassau. Ver. Naturk. 23-24: 265 (1870)
 
 #### Original name
-Rhytisma empetri Fr., 1828
+Xyloma empetri Pers., 1815
 
 ### Remarks
 null

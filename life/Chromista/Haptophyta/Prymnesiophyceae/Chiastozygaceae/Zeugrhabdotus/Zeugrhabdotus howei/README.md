@@ -1,5 +1,4 @@
-Zeugrhabdotus howei SPECIES
-=======
+# Zeugrhabdotus howei SPECIES
 
 #### Status
 ACCEPTED

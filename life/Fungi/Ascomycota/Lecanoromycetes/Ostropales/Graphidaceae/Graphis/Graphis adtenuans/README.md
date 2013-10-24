@@ -1,5 +1,4 @@
-Graphis adtenuans Nyl. SPECIES
-=======
+# Graphis adtenuans Nyl. SPECIES
 
 #### Status
 ACCEPTED

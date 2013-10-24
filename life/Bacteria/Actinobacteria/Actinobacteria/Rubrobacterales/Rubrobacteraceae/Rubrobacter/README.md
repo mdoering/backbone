@@ -1,5 +1,4 @@
-Rubrobacter Suzuki et al., 1989 GENUS
-=======
+# Rubrobacter Suzuki et al., 1989 GENUS
 
 #### Status
 ACCEPTED

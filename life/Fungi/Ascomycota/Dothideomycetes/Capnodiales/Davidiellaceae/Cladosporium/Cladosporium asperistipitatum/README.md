@@ -1,5 +1,4 @@
-Cladosporium asperistipitatum U. Braun & K. Schub. SPECIES
-=======
+# Cladosporium asperistipitatum U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

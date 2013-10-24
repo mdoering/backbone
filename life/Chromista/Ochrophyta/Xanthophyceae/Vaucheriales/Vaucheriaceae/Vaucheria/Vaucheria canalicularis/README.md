@@ -1,5 +1,4 @@
-Vaucheria canalicularis (Linnaeus) T.A. Christensen SPECIES
-=======
+# Vaucheria canalicularis (Linnaeus) T.A. Christensen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urosporidium fuliginosum Caullery & Mesnil, 1905 SPECIES
-=======
+# Urosporidium fuliginosum Caullery & Mesnil, 1905 SPECIES
 
 #### Status
 ACCEPTED

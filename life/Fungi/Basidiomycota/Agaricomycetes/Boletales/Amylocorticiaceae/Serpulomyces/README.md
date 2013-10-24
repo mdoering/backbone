@@ -1,5 +1,4 @@
-Serpulomyces (Zmitr.) Zmitr. GENUS
-=======
+# Serpulomyces (Zmitr.) Zmitr. GENUS
 
 #### Status
 ACCEPTED

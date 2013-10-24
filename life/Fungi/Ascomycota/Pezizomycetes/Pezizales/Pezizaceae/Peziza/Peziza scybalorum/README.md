@@ -1,5 +1,4 @@
-Peziza scybalorum Schumach. SPECIES
-=======
+# Peziza scybalorum Schumach. SPECIES
 
 #### Status
 ACCEPTED

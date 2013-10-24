@@ -1,5 +1,4 @@
-Coryneum piricola S. Ahmad SPECIES
-=======
+# Coryneum piricola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

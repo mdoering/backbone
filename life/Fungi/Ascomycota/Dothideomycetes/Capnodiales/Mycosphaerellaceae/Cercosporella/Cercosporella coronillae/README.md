@@ -1,5 +1,4 @@
-Cercosporella coronillae Karak. SPECIES
-=======
+# Cercosporella coronillae Karak. SPECIES
 
 #### Status
 ACCEPTED

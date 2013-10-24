@@ -1,5 +1,4 @@
-Opegrapha rhabdotis Fée SPECIES
-=======
+# Opegrapha rhabdotis Fée SPECIES
 
 #### Status
 ACCEPTED

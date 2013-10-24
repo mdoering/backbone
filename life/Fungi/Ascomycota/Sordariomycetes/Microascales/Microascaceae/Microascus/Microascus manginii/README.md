@@ -1,5 +1,4 @@
-Microascus manginii (Loubière) Curzi, 1931 SPECIES
-=======
+# Microascus manginii (Loubière) Curzi, 1931 SPECIES
 
 #### Status
 ACCEPTED

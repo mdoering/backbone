@@ -1,5 +1,4 @@
-Lecanora queenslandica C. Knight SPECIES
-=======
+# Lecanora queenslandica C. Knight SPECIES
 
 #### Status
 ACCEPTED

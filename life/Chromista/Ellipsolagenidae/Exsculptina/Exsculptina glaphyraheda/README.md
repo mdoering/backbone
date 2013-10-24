@@ -1,5 +1,4 @@
-Exsculptina glaphyraheda Loeblich & Tappan, 1994 SPECIES
-=======
+# Exsculptina glaphyraheda Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites quaternarius Kalgutkar SPECIES
-=======
+# Diporicellaesporites quaternarius Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscopannaria obtegens P. M. Jørg. SPECIES
-=======
+# Fuscopannaria obtegens P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

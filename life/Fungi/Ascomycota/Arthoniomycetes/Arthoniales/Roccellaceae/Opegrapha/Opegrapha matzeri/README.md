@@ -1,5 +1,4 @@
-Opegrapha matzeri Lücking SPECIES
-=======
+# Opegrapha matzeri Lücking SPECIES
 
 #### Status
 ACCEPTED

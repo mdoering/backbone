@@ -1,5 +1,4 @@
-Rosellinia ostiolata Ellis & Everh. SPECIES
-=======
+# Rosellinia ostiolata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

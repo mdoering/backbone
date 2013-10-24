@@ -1,5 +1,4 @@
-Catellatospora bangladeshensis Ara & Kudo, 2006 SPECIES
-=======
+# Catellatospora bangladeshensis Ara & Kudo, 2006 SPECIES
 
 #### Status
 ACCEPTED

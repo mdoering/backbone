@@ -1,5 +1,4 @@
-Physma plicatum (Pers.) Hue SPECIES
-=======
+# Physma plicatum (Pers.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremateia Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
-=======
+# Tremateia Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

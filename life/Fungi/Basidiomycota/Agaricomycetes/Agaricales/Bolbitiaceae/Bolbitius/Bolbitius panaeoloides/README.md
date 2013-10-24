@@ -1,5 +1,4 @@
-Bolbitius panaeoloides Henn. SPECIES
-=======
+# Bolbitius panaeoloides Henn. SPECIES
 
 #### Status
 ACCEPTED

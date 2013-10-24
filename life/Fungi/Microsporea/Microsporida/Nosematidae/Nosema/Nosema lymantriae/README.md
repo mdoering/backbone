@@ -1,5 +1,4 @@
-Nosema lymantriae Weiser SPECIES
-=======
+# Nosema lymantriae Weiser SPECIES
 
 #### Status
 ACCEPTED

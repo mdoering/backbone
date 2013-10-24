@@ -1,5 +1,4 @@
-Cyclidium candens Kahl, 1928 SPECIES
-=======
+# Cyclidium candens Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

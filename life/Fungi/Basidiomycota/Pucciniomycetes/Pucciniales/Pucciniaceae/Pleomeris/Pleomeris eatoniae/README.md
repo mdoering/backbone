@@ -1,5 +1,4 @@
-Pleomeris eatoniae (Arthur) Syd. SPECIES
-=======
+# Pleomeris eatoniae (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

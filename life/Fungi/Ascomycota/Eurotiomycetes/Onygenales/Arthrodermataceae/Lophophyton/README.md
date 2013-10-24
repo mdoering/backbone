@@ -1,5 +1,4 @@
-Lophophyton GENUS
-=======
+# Lophophyton GENUS
 
 #### Status
 ACCEPTED

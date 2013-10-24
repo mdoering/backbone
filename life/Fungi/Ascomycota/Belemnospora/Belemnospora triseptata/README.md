@@ -1,5 +1,4 @@
-Belemnospora triseptata P.M. Kirk SPECIES
-=======
+# Belemnospora triseptata P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

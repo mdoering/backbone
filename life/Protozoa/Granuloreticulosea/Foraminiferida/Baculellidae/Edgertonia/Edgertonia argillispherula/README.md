@@ -1,5 +1,4 @@
-Edgertonia argillispherula Tendal & Hessler, 1977 SPECIES
-=======
+# Edgertonia argillispherula Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

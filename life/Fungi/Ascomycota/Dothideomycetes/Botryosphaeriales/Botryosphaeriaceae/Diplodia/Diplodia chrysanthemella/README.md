@@ -1,5 +1,4 @@
-Diplodia chrysanthemella Ikata SPECIES
-=======
+# Diplodia chrysanthemella Ikata SPECIES
 
 #### Status
 ACCEPTED

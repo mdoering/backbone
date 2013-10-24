@@ -1,5 +1,4 @@
-Melanoleuca rhinaria (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Melanoleuca rhinaria (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

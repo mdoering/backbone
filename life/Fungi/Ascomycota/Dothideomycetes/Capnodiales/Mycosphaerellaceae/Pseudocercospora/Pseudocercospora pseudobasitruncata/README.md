@@ -1,5 +1,4 @@
-Pseudocercospora pseudobasitruncata U. Braun & M.A. Dick SPECIES
-=======
+# Pseudocercospora pseudobasitruncata U. Braun & M.A. Dick SPECIES
 
 #### Status
 ACCEPTED

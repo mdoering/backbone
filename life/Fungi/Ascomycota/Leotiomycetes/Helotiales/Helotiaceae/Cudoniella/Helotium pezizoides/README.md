@@ -1,5 +1,4 @@
-Helotium pezizoides Velen. SPECIES
-=======
+# Helotium pezizoides Velen. SPECIES
 
 #### Status
 ACCEPTED

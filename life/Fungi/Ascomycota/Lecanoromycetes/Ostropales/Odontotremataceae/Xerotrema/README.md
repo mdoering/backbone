@@ -1,5 +1,4 @@
-Xerotrema Sherwood & Coppins GENUS
-=======
+# Xerotrema Sherwood & Coppins GENUS
 
 #### Status
 ACCEPTED

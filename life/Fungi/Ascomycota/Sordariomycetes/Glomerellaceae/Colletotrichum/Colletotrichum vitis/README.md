@@ -1,5 +1,4 @@
-Colletotrichum vitis Maire SPECIES
-=======
+# Colletotrichum vitis Maire SPECIES
 
 #### Status
 ACCEPTED

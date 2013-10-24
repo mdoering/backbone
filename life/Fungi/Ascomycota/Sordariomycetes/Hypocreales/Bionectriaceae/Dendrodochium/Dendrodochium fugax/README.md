@@ -1,5 +1,4 @@
-Dendrodochium fugax E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Dendrodochium fugax E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

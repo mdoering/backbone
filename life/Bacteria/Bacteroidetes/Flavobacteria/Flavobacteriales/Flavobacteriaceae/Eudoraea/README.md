@@ -1,5 +1,4 @@
-Eudoraea Alain, Intertaglia, Catala & Lebaron, 2008 GENUS
-=======
+# Eudoraea Alain, Intertaglia, Catala & Lebaron, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceraiomyces chaetocnemae Thaxt. SPECIES
-=======
+# Ceraiomyces chaetocnemae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

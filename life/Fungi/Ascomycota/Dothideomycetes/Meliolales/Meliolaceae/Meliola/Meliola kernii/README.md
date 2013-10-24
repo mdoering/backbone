@@ -1,5 +1,4 @@
-Meliola kernii Hansf. SPECIES
-=======
+# Meliola kernii Hansf. SPECIES
 
 #### Status
 ACCEPTED

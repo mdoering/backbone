@@ -1,5 +1,4 @@
-Gerronema clavuligerum (Singer) Singer SPECIES
-=======
+# Gerronema clavuligerum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

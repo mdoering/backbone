@@ -1,5 +1,4 @@
-Septoria epipactidis Sacc. SPECIES
-=======
+# Septoria epipactidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marssoniella Höhn. GENUS
-=======
+# Neomarssoniella U. Braun GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 125(1-2): 108 (1916)
+Nova Hedwigia 53: 304 (1991)
 
 #### Original name
-Marssoniella Höhn.
+Neomarssoniella U. Braun
 
 ### Remarks
 null

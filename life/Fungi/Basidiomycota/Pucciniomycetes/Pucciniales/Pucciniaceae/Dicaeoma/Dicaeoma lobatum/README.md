@@ -1,5 +1,4 @@
-Dicaeoma lobatum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma lobatum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

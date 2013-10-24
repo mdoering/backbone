@@ -1,5 +1,4 @@
-Volvariopsis perplexa (Peck) Murrill SPECIES
-=======
+# Volvariopsis perplexa (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

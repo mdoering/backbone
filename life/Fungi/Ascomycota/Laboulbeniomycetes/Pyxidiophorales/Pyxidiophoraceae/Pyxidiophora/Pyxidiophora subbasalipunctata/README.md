@@ -1,5 +1,4 @@
-Pyxidiophora subbasalipunctata (T. Majewski & J. Wisn.) N. Lundq. SPECIES
-=======
+# Pyxidiophora subbasalipunctata (T. Majewski & J. Wisn.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

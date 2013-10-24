@@ -1,5 +1,4 @@
-Phialea lilacea Quél. SPECIES
-=======
+# Phialea lilacea Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acholeplasma pleciae (Tully et al., 1994) Knight Jr., 2004 SPECIES
-=======
+# Acholeplasma pleciae (Tully et al., 1994) Knight Jr., 2004 SPECIES
 
 #### Status
 ACCEPTED

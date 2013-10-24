@@ -1,5 +1,4 @@
-Oertlisphaera Kozur & Mostler, 1979 GENUS
-=======
+# Oertlisphaera Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

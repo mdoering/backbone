@@ -1,5 +1,4 @@
-Sphaeria stilbum J.C. Schmidt SPECIES
-=======
+# Sphaeria stilbum J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

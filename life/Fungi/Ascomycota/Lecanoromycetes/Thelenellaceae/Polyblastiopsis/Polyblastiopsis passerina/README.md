@@ -1,5 +1,4 @@
-Polyblastiopsis passerina (Norman) Zahlbr. SPECIES
-=======
+# Polyblastiopsis passerina (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

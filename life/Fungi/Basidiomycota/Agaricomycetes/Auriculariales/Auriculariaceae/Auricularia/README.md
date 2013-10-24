@@ -1,17 +1,16 @@
-Oncomyces Klotzsch GENUS
-=======
+# Auricularia Bulliard ex Jussieu, 1789 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Meyen, Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. Dresden 19(Suppl. 1): 240 (1843)
+Gen. Pl. 4 (1789)
 
 #### Original name
-Oncomyces Klotzsch
+Auricularia Bulliard ex Jussieu, 1789
 
 ### Remarks
 null

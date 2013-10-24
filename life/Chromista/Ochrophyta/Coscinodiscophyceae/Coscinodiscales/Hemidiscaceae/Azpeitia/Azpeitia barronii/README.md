@@ -1,5 +1,4 @@
-Azpeitia barronii G Fryxell & T.P. Watkins SPECIES
-=======
+# Azpeitia barronii G Fryxell & T.P. Watkins SPECIES
 
 #### Status
 ACCEPTED

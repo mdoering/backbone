@@ -1,5 +1,4 @@
-Haplothelopsis flaveola (Arnold) Vain. SPECIES
-=======
+# Haplothelopsis flaveola (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

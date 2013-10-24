@@ -1,5 +1,4 @@
-Septothyrella bactridis Bat. & Cif. SPECIES
-=======
+# Septothyrella bactridis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

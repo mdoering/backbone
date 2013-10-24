@@ -1,5 +1,4 @@
-Japonogaster Kobayasi GENUS
-=======
+# Japonogaster Kobayasi GENUS
 
 #### Status
 ACCEPTED

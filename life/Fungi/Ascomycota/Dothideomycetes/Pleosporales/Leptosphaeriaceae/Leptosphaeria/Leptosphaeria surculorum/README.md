@@ -1,5 +1,4 @@
-Leptosphaeria surculorum Kirschst. SPECIES
-=======
+# Leptosphaeria surculorum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

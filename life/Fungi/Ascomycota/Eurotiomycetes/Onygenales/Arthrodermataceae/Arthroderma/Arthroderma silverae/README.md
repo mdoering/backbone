@@ -1,5 +1,4 @@
-Arthroderma silverae Currah, S.P. Abbott & Sigler SPECIES
-=======
+# Arthroderma silverae Currah, S.P. Abbott & Sigler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularites Arcang. GENUS
-=======
+# Tubercularites Arcang. GENUS
 
 #### Status
 ACCEPTED

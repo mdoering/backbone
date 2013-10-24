@@ -1,5 +1,4 @@
-Ramalina taitensis Nyl. SPECIES
-=======
+# Ramalina taitensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

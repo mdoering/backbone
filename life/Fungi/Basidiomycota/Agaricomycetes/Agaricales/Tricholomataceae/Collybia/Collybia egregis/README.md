@@ -1,17 +1,16 @@
-Collybia egregia Halling SPECIES
-=======
+# Collybia egregis Halling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 8: 24 (1983)
 
 #### Original name
-Collybia egregia Halling
+Collybia egregis Halling
 
 ### Remarks
 null

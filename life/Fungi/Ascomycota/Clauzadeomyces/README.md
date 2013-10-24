@@ -1,5 +1,4 @@
-Clauzadeomyces Diederich GENUS
-=======
+# Clauzadeomyces Diederich GENUS
 
 #### Status
 ACCEPTED

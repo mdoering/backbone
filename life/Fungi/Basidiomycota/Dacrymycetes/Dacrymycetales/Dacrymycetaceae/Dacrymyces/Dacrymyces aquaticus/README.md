@@ -1,5 +1,4 @@
-Dacrymyces aquaticus Bandoni & G.C. Hughes SPECIES
-=======
+# Dacrymyces aquaticus Bandoni & G.C. Hughes SPECIES
 
 #### Status
 ACCEPTED

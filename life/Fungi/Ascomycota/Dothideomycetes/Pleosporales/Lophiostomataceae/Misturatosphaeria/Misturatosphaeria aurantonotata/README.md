@@ -1,5 +1,4 @@
-Misturatosphaeria aurantonotata Mugambi & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria aurantonotata Mugambi & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus burkillii (Massee) Sacc. & Trotter SPECIES
-=======
+# Agaricus burkillii (Massee) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

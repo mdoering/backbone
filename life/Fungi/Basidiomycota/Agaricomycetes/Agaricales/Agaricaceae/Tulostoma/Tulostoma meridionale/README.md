@@ -1,5 +1,4 @@
-Tulostoma meridionale J.E. Wright SPECIES
-=======
+# Tulostoma meridionale J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

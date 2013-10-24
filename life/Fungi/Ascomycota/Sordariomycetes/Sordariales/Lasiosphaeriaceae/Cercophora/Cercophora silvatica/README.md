@@ -1,5 +1,4 @@
-Cercophora silvatica N. Lundq., 1972 SPECIES
-=======
+# Cercophora silvatica N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

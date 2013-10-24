@@ -1,5 +1,4 @@
-Rhabdospora preussii Sacc. SPECIES
-=======
+# Rhabdospora preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

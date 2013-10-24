@@ -1,5 +1,4 @@
-Euglenopsis paludosa Christen SPECIES
-=======
+# Euglenopsis paludosa Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota majalis Singer SPECIES
-=======
+# Pholiota majalis Singer SPECIES
 
 #### Status
 ACCEPTED

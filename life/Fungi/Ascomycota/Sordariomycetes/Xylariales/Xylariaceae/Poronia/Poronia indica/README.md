@@ -1,5 +1,4 @@
-Poronia indica S. Ahmad SPECIES
-=======
+# Poronia indica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

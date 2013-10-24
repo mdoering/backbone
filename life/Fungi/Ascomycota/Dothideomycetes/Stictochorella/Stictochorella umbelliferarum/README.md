@@ -1,5 +1,4 @@
-Stictochorella umbelliferarum Höhn. SPECIES
-=======
+# Stictochorella umbelliferarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

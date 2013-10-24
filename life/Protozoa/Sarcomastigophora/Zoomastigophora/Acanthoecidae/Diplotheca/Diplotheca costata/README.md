@@ -1,5 +1,4 @@
-Diplotheca costata Valkanov, 1970 SPECIES
-=======
+# Diplotheca costata Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

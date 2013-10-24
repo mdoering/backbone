@@ -1,5 +1,4 @@
-Helicosphaera heezenii Bukry, 1971 SPECIES
-=======
+# Helicosphaera heezenii Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hebeloma calvini Hesler & A.H. Sm. SPECIES
-=======
+# Hebeloma calvinii Hesler & A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Smith, Sydowia 37: 279 (1984)
 
 #### Original name
-Hebeloma calvini Hesler & A.H. Sm.
+Hebeloma calvinii Hesler & A.H. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stereophycus K.B. Korde, 1954 GENUS
-=======
+# Stereophycus K.B. Korde, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces antiguanus Cummins SPECIES
-=======
+# Uromyces antiguanus Cummins SPECIES
 
 #### Status
 ACCEPTED

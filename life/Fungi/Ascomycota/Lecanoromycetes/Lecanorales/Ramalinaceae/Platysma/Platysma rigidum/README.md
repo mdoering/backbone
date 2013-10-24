@@ -1,5 +1,4 @@
-Platysma rigidum (Wulfen) Frege SPECIES
-=======
+# Platysma rigidum (Wulfen) Frege SPECIES
 
 #### Status
 ACCEPTED

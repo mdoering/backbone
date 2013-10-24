@@ -1,5 +1,4 @@
-Pleospora poincianae Gucevic SPECIES
-=======
+# Pleospora poincianae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca squamuloisidiata van den Boom & V. J. Rico SPECIES
-=======
+# Caloplaca squamuloisidiata van den Boom & V. J. Rico SPECIES
 
 #### Status
 ACCEPTED

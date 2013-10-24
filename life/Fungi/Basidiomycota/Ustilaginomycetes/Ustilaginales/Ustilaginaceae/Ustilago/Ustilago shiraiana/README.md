@@ -1,5 +1,4 @@
-Ustilago shiraiana Henn., 1900 SPECIES
-=======
+# Ustilago shiraiana Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

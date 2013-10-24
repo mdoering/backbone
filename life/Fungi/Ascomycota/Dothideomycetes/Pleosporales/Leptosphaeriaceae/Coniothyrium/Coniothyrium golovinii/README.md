@@ -1,5 +1,4 @@
-Coniothyrium golovinii Byzova SPECIES
-=======
+# Coniothyrium golovinii Byzova SPECIES
 
 #### Status
 ACCEPTED

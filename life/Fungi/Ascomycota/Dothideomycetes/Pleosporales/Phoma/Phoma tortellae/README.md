@@ -1,5 +1,4 @@
-Phoma tortellae Racov. SPECIES
-=======
+# Phoma tortellae Racov. SPECIES
 
 #### Status
 ACCEPTED

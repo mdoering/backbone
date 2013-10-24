@@ -1,5 +1,4 @@
-Lentinus concavus (Berk.) Corner SPECIES
-=======
+# Lentinus concavus (Berk.) Corner SPECIES
 
 #### Status
 ACCEPTED

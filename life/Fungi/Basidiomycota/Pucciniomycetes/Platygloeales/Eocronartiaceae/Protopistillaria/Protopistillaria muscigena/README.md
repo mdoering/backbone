@@ -1,5 +1,4 @@
-Protopistillaria muscigena Rick SPECIES
-=======
+# Protopistillaria muscigena Rick SPECIES
 
 #### Status
 ACCEPTED

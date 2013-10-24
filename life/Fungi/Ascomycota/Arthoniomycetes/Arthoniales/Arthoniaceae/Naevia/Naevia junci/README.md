@@ -1,5 +1,4 @@
-Naevia junci Rehm SPECIES
-=======
+# Naevia junci Rehm SPECIES
 
 #### Status
 ACCEPTED

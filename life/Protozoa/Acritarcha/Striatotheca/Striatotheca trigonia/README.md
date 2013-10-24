@@ -1,5 +1,4 @@
-Striatotheca trigonia Burmann, 1970 SPECIES
-=======
+# Striatotheca trigonia Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

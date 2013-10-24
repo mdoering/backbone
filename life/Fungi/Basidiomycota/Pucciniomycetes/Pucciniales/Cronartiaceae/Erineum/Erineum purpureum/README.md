@@ -1,5 +1,4 @@
-Erineum purpureum Fr. SPECIES
-=======
+# Erineum purpureum Fr. SPECIES
 
 #### Status
 ACCEPTED

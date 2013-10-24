@@ -1,5 +1,4 @@
-Ascobolus cenangioides Ces. SPECIES
-=======
+# Ascobolus cenangioides Ces. SPECIES
 
 #### Status
 ACCEPTED

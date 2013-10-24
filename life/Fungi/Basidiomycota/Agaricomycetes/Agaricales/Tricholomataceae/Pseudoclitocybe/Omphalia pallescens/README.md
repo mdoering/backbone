@@ -1,5 +1,4 @@
-Omphalia pallescens Bres. SPECIES
-=======
+# Omphalia pallescens Bres. SPECIES
 
 #### Status
 ACCEPTED

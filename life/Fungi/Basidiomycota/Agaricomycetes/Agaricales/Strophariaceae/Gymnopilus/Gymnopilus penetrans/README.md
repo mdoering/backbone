@@ -1,17 +1,16 @@
-Agaricus liquiritiae sapineus (Fr.) Pers., 1828 INFRASPECIFIC_NAME
-=======
+# Gymnopilus penetrans (Fr.) Murrill, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 4(5): 254 (1912)
 
 #### Original name
-null
+Agaricus penetrans Fr., 1815
 
 ### Remarks
 null

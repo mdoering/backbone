@@ -1,5 +1,4 @@
-Graphis apertella Archer SPECIES
-=======
+# Graphis apertella Archer SPECIES
 
 #### Status
 ACCEPTED

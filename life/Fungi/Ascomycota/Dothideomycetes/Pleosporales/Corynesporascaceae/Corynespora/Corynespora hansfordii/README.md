@@ -1,5 +1,4 @@
-Corynespora hansfordii M.B. Ellis SPECIES
-=======
+# Corynespora hansfordii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

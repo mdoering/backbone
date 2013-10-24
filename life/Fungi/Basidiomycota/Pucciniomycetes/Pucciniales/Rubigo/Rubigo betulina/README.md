@@ -1,5 +1,4 @@
-Rubigo betulina (Schumach.) Link SPECIES
-=======
+# Rubigo betulina (Schumach.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium citrinellum (Duby) Hepp SPECIES
-=======
+# Placodium citrinellum (Duby) Hepp SPECIES
 
 #### Status
 ACCEPTED

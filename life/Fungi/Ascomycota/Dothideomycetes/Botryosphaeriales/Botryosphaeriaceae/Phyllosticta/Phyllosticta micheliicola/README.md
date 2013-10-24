@@ -1,5 +1,4 @@
-Phyllosticta micheliicola V.G. Rao SPECIES
-=======
+# Phyllosticta micheliicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

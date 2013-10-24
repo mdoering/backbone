@@ -1,5 +1,4 @@
-Pyrenopsis fuliginescens (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Pyrenopsis fuliginescens (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

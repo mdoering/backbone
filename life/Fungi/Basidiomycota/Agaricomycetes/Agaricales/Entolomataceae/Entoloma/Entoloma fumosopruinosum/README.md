@@ -1,5 +1,4 @@
-Entoloma fumosopruinosum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma fumosopruinosum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

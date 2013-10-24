@@ -1,5 +1,4 @@
-Blitridium platascum (Peck) Sacc. SPECIES
-=======
+# Blitridium platascum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

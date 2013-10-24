@@ -1,5 +1,4 @@
-Aspicilia emiliae (Tomin) Savicz SPECIES
-=======
+# Aspicilia emiliae (Tomin) Savicz SPECIES
 
 #### Status
 ACCEPTED

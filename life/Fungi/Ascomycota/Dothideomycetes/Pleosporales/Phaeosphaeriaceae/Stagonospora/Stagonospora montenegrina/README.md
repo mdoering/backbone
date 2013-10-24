@@ -1,5 +1,4 @@
-Stagonospora montenegrina Bubák SPECIES
-=======
+# Stagonospora montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiscium rhizophilum (Corda) Bonord. SPECIES
-=======
+# Hormiscium rhizophilum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

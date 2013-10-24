@@ -1,5 +1,4 @@
-Massarina eccentrica M.E. Barr SPECIES
-=======
+# Massarina eccentrica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

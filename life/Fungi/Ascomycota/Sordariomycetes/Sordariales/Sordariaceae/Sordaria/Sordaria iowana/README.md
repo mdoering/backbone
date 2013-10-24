@@ -1,5 +1,4 @@
-Sordaria iowana Ellis & Holw. SPECIES
-=======
+# Sordaria iowana Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius subarborescens Singer SPECIES
-=======
+# Marasmius subarborescens Singer SPECIES
 
 #### Status
 ACCEPTED

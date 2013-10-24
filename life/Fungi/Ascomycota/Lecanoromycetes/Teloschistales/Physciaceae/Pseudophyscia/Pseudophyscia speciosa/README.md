@@ -1,5 +1,4 @@
-Pseudophyscia speciosa SPECIES
-=======
+# Pseudophyscia speciosa SPECIES
 
 #### Status
 ACCEPTED

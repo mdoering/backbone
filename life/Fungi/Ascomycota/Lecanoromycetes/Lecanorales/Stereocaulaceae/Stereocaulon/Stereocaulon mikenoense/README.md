@@ -1,5 +1,4 @@
-Stereocaulon mikenoense P.A. Duvign. SPECIES
-=======
+# Stereocaulon mikenoense P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

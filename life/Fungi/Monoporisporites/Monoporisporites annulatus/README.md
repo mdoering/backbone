@@ -1,5 +1,4 @@
-Monoporisporites annulatus Hammen SPECIES
-=======
+# Monoporisporites annulatus Hammen SPECIES
 
 #### Status
 ACCEPTED

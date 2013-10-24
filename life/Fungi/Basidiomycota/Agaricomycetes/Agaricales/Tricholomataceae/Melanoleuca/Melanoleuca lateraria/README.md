@@ -1,5 +1,4 @@
-Melanoleuca lateraria (Peck) Murrill SPECIES
-=======
+# Melanoleuca lateraria (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

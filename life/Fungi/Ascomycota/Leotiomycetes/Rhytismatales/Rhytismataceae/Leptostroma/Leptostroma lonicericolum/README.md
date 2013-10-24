@@ -1,5 +1,4 @@
-Leptostroma lonicericolum Rabenh. SPECIES
-=======
+# Leptostroma lonicericolum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

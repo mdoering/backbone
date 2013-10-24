@@ -1,5 +1,4 @@
-Ramularia petrakiana Moesz SPECIES
-=======
+# Ramularia petrakiana Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus peckii Frost SPECIES
-=======
+# Boletus peckii Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea garovaglioi Schaer. SPECIES
-=======
+# Miriquidica garovaglioi (Schaer.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Enum. critic. lich. europ. (Bern) 109 (1850)
+Mitt. bot. StSamml. , Münch. 23: 384 (1987)
 
 #### Original name
 Lecidea garovaglioi Schaer.

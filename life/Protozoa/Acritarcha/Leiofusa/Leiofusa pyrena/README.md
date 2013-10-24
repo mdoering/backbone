@@ -1,5 +1,4 @@
-Leiofusa pyrena Wicander & Wood, 1981 SPECIES
-=======
+# Leiofusa pyrena Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

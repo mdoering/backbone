@@ -1,5 +1,4 @@
-Asteroma oharanum (Y. Nisik. & H. Matsumoto) Katum. & Y. Harada SPECIES
-=======
+# Asteroma oharanum (Y. Nisik. & H. Matsumoto) Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

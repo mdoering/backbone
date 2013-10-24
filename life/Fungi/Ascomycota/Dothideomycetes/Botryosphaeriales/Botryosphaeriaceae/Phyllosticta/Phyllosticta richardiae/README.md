@@ -1,5 +1,4 @@
-Phyllosticta richardiae F.T. Brooks, 1932 SPECIES
-=======
+# Phyllosticta richardiae F.T. Brooks, 1932 SPECIES
 
 #### Status
 ACCEPTED

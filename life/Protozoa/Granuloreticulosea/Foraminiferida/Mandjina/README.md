@@ -1,5 +1,4 @@
-Mandjina Klasz & Rérat, 1963 GENUS
-=======
+# Mandjina Klasz & Rérat, 1963 GENUS
 
 #### Status
 ACCEPTED

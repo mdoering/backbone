@@ -1,5 +1,4 @@
-Phoma ailanthina Thüm. SPECIES
-=======
+# Phoma ailanthina Thüm. SPECIES
 
 #### Status
 ACCEPTED

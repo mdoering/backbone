@@ -1,5 +1,4 @@
-Entoloma umbraphilum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma umbraphilum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

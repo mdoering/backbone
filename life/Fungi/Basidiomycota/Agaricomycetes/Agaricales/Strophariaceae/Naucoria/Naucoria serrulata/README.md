@@ -1,5 +1,4 @@
-Naucoria serrulata Murrill SPECIES
-=======
+# Naucoria serrulata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma tinea Sacc., 1879 SPECIES
-=======
+# Phomopsis tinea (Sacc.) Höhn., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 521 (1879)
+Annls mycol. 9(1): 32 (1911)
 
 #### Original name
 Phoma tinea Sacc., 1879

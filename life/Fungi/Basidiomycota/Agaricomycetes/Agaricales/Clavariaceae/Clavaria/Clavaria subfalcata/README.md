@@ -1,5 +1,4 @@
-Clavaria subfalcata G.F. Atk. SPECIES
-=======
+# Clavaria subfalcata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta geasteris Hollós SPECIES
-=======
+# Pyrenochaeta geasteris Hollós SPECIES
 
 #### Status
 ACCEPTED

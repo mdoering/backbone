@@ -1,5 +1,4 @@
-Floccomutinus GENUS
-=======
+# Floccomutinus GENUS
 
 #### Status
 ACCEPTED

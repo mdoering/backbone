@@ -1,5 +1,4 @@
-Russula alachuana Murrill SPECIES
-=======
+# Russula alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

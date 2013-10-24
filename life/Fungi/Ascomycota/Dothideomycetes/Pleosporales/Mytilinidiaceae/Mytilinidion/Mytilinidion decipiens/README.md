@@ -1,17 +1,16 @@
-Mytilidion decipiens subsp. conorum Sacc. SUBSPECIES
-=======
+# Mytilinidion decipiens (P. Karst.) Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 1): 55 (1877)
 
 #### Original name
-Mytilidion decipiens subsp. conorum Sacc.
+Lophium decipiens P. Karst., 1872
 
 ### Remarks
 null

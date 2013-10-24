@@ -1,5 +1,4 @@
-Postia carbophila Rajchenb. SPECIES
-=======
+# Postia carbophila Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichokolpoma ellipticum K. Matsuoka SPECIES
-=======
+# Hystrichokolpoma ellipticum K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

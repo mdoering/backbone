@@ -1,5 +1,4 @@
-Fusarium juglandinum Peck SPECIES
-=======
+# Fusarium juglandinum Peck SPECIES
 
 #### Status
 ACCEPTED

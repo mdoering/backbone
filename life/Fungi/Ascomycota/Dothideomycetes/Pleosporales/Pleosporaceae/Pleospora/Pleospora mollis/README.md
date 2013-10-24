@@ -1,5 +1,4 @@
-Pleospora mollis Starbäck SPECIES
-=======
+# Pleospora mollis Starbäck SPECIES
 
 #### Status
 ACCEPTED

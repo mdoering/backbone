@@ -1,5 +1,4 @@
-Phyllosticta buddleicola Speg. SPECIES
-=======
+# Phyllosticta buddleicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia rogersi Massee SPECIES
-=======
+# Omphalia rogersi Massee SPECIES
 
 #### Status
 ACCEPTED

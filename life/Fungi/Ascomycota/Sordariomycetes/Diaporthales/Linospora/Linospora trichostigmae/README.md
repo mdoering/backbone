@@ -1,5 +1,4 @@
-Linospora trichostigmae F. Stevens SPECIES
-=======
+# Linospora trichostigmae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

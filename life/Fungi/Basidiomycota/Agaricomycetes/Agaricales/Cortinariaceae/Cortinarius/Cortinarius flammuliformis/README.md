@@ -1,5 +1,4 @@
-Cortinarius flammuliformis Murrill SPECIES
-=======
+# Cortinarius flammuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

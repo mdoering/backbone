@@ -1,5 +1,4 @@
-Phormidium subspiroides (J. Copeland) I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium subspiroides (J. Copeland) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

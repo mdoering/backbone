@@ -1,5 +1,4 @@
-Flageoletia leptasca (Peck & Clinton) Höhn. SPECIES
-=======
+# Flageoletia leptasca (Peck & Clinton) Höhn. SPECIES
 
 #### Status
 ACCEPTED

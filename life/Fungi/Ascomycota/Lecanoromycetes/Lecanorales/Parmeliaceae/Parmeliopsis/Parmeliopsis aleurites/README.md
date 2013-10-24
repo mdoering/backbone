@@ -1,5 +1,4 @@
-Parmeliopsis aleurites f. aleurites FORM
-=======
+# Parmeliopsis aleurites SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmeliopsis aleurites f. aleurites
+null
 
 ### Remarks
 null

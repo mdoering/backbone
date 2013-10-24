@@ -1,5 +1,4 @@
-Merulius tessellatus Bres. SPECIES
-=======
+# Merulius tessellatus Bres. SPECIES
 
 #### Status
 ACCEPTED

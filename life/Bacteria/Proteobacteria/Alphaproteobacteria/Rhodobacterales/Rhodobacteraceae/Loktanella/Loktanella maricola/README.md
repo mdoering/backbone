@@ -1,5 +1,4 @@
-Loktanella maricola Yoon, Kang, Lee & Oh, 2007 SPECIES
-=======
+# Loktanella maricola Yoon, Kang, Lee & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

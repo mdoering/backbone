@@ -1,5 +1,4 @@
-Collybia urubambae Singer SPECIES
-=======
+# Collybia urubambae Singer SPECIES
 
 #### Status
 ACCEPTED

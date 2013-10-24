@@ -1,5 +1,4 @@
-Puccinia valenzueliana Speg. SPECIES
-=======
+# Puccinia valenzueliana Speg. SPECIES
 
 #### Status
 ACCEPTED

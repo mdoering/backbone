@@ -1,5 +1,4 @@
-Lecanactis subinusta Nyl. SPECIES
-=======
+# Lecanactis subinusta Nyl. SPECIES
 
 #### Status
 ACCEPTED

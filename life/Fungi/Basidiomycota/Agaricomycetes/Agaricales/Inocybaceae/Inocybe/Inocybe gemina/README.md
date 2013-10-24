@@ -1,5 +1,4 @@
-Inocybe gemina (E. Horak) Garrido SPECIES
-=======
+# Inocybe gemina (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria phlyctaenoides Penz. & Sacc. SPECIES
-=======
+# Septoria phlyctaenoides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

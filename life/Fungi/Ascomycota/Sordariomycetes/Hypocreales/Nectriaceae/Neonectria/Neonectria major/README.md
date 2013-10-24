@@ -1,14 +1,13 @@
-Nectria major (Wollenw.) J. Moravec, 1956 SPECIES
-=======
+# Neonectria major (Wollenw.) Castl. & Rossman, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 10: 39 (1956)
+in Castlebury, Rossman & Hyten, Can. J. Bot. 84(9): 1425 (2006)
 
 #### Original name
 Nectria ditissima var. major Wollenw., 1926

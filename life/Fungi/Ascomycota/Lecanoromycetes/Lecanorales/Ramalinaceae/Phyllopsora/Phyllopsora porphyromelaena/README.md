@@ -1,5 +1,4 @@
-Phyllopsora porphyromelaena (Vain.) Zahlbr. SPECIES
-=======
+# Phyllopsora porphyromelaena (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

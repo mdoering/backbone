@@ -1,5 +1,4 @@
-Leucoloma asperior Rehm SPECIES
-=======
+# Leucoloma asperior Rehm SPECIES
 
 #### Status
 ACCEPTED

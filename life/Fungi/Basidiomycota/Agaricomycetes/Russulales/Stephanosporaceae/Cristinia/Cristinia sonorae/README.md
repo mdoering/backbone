@@ -1,5 +1,4 @@
-Cristinia sonorae Nakasone & Gilb., 1978 SPECIES
-=======
+# Cristinia sonorae Nakasone & Gilb., 1978 SPECIES
 
 #### Status
 ACCEPTED

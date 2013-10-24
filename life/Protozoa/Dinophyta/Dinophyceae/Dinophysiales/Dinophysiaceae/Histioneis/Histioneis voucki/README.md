@@ -1,5 +1,4 @@
-Histioneis voucki Schiller SPECIES
-=======
+# Histioneis voucki Schiller SPECIES
 
 #### Status
 ACCEPTED

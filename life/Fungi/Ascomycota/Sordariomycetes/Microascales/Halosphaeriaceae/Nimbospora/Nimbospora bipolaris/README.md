@@ -1,5 +1,4 @@
-Nimbospora bipolaris K.D. Hyde & E.B.G. Jones, 1985 SPECIES
-=======
+# Nimbospora bipolaris K.D. Hyde & E.B.G. Jones, 1985 SPECIES
 
 #### Status
 ACCEPTED

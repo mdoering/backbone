@@ -1,5 +1,4 @@
-Phyllopsora stenosperma Zahlbr. SPECIES
-=======
+# Phyllopsora stenosperma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

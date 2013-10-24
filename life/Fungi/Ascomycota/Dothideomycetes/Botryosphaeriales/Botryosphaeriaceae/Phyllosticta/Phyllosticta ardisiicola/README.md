@@ -1,5 +1,4 @@
-Phyllosticta ardisiicola Motohashi, I. Araki & C. Nakash. SPECIES
-=======
+# Phyllosticta ardisiicola Motohashi, I. Araki & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

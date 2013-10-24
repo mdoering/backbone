@@ -1,5 +1,4 @@
-Leeia Lim et al., 2007 GENUS
-=======
+# Leeia Lim et al., 2007 GENUS
 
 #### Status
 ACCEPTED

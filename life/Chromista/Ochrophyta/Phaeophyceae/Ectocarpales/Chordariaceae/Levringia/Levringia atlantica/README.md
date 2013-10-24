@@ -1,8 +1,7 @@
-Myriogloea atlantica Feldmann SPECIES
-=======
+# Levringia atlantica (Feldmann) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Tilletia fusca var. fusca VARIETY
-=======
+# Tilletia fusca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 3(5): 55 (1887)
 
 #### Original name
-Tilletia fusca var. fusca
+Tilletia fusca Ellis & Everh.
 
 ### Remarks
 null

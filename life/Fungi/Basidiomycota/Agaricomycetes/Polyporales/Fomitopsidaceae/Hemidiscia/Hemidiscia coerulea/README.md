@@ -1,5 +1,4 @@
-Hemidiscia coerulea (Schumach.) Lázaro Ibiza SPECIES
-=======
+# Hemidiscia coerulea (Schumach.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

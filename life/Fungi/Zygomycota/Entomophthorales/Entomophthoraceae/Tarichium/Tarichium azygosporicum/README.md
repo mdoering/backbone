@@ -1,5 +1,4 @@
-Tarichium azygosporicum Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Tarichium azygosporicum Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

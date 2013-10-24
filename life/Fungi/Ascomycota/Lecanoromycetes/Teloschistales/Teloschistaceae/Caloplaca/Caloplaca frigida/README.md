@@ -1,5 +1,4 @@
-Caloplaca frigida Søchting SPECIES
-=======
+# Caloplaca frigida Søchting SPECIES
 
 #### Status
 ACCEPTED

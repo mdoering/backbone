@@ -1,5 +1,4 @@
-Synphragmidium kummeri F. Strauss SPECIES
-=======
+# Synphragmidium kummeri F. Strauss SPECIES
 
 #### Status
 ACCEPTED

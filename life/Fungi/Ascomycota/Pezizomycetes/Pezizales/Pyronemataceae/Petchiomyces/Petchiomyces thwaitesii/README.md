@@ -1,14 +1,13 @@
-Genea thwaitesii (Berk. & Broome) Petch, 1907 SPECIES
-=======
+# Petchiomyces thwaitesii (Berk. & Broome) E. Fisch. & Mattir., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(6): 475 (1907)
+in Fischer in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 5bVIII: 40 (1938)
 
 #### Original name
 Hydnocystis thwaitesii Berk. & Broome, 1875

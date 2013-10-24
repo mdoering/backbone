@@ -1,17 +1,16 @@
-Heptameria multiseptata (G. Winter) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria multiseptata G. Winter, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 11: 148 (1872)
 
 #### Original name
-null
+Leptosphaeria multiseptata G. Winter, 1872
 
 ### Remarks
 null

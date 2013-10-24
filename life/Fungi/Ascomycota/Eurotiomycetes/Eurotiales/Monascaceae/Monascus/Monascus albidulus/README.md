@@ -1,5 +1,4 @@
-Monascus albidulus Zhong Q. Li & F. Guo SPECIES
-=======
+# Monascus albidulus Zhong Q. Li & F. Guo SPECIES
 
 #### Status
 ACCEPTED

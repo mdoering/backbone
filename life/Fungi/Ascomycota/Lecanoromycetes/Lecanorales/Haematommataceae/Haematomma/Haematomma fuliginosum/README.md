@@ -1,5 +1,4 @@
-Haematomma fuliginosum Asahina SPECIES
-=======
+# Haematomma fuliginosum Asahina SPECIES
 
 #### Status
 ACCEPTED

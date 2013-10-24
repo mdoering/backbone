@@ -1,5 +1,4 @@
-Coniangium vulgare Fr. SPECIES
-=======
+# Coniangium vulgare Fr. SPECIES
 
 #### Status
 ACCEPTED

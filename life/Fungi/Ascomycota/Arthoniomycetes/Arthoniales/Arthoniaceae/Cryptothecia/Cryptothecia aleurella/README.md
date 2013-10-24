@@ -1,5 +1,4 @@
-Cryptothecia aleurella (Nyl.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia aleurella (Nyl.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

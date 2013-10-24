@@ -1,8 +1,7 @@
-Pelagibacter ubique Rappé, Connon, Vergin & Giovannoni, 2002 SPECIES
-=======
+# Candidatus (Pelagibacter) ubique Rappé, Connon, Vergin & Giovannoni, 2002 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

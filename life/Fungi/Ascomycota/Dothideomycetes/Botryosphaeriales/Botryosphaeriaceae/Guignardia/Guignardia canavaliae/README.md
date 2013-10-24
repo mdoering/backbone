@@ -1,5 +1,4 @@
-Guignardia canavaliae Cif. & Gonz. Frag. SPECIES
-=======
+# Guignardia canavaliae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

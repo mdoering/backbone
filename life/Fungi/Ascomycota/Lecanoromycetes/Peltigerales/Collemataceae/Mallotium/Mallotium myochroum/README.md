@@ -1,5 +1,4 @@
-Mallotium myochroum (Ehrh.) A. Massal. SPECIES
-=======
+# Mallotium myochroum (Ehrh.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella balsamiana Fabre SPECIES
-=======
+# Navicella balsamiana Fabre SPECIES
 
 #### Status
 ACCEPTED

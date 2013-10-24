@@ -1,5 +1,4 @@
-Halomonas campisalis Mormile et al., 2000 SPECIES
-=======
+# Halomonas campisalis Mormile et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

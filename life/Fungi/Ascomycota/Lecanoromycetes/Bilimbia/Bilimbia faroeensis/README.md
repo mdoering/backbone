@@ -1,5 +1,4 @@
-Bilimbia faroeensis (Nyl.) Arnold SPECIES
-=======
+# Bilimbia faroeensis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

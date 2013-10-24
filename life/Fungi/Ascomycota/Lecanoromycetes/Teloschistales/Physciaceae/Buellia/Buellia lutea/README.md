@@ -1,5 +1,4 @@
-Buellia lutea C.W. Dodge SPECIES
-=======
+# Buellia lutea C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

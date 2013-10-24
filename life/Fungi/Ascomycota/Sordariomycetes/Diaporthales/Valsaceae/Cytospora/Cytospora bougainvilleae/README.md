@@ -1,17 +1,16 @@
-Cytospora bougainvillae R.C. Rajak, M.K. Rai & A.K. Pandey SPECIES
-=======
+# Cytospora bougainvilleae R.C. Rajak, M.K. Rai & A.K. Pandey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 12(2): 406 (1989)
 
 #### Original name
-Cytospora bougainvillae R.C. Rajak, M.K. Rai & A.K. Pandey
+Cytospora bougainvilleae R.C. Rajak, M.K. Rai & A.K. Pandey
 
 ### Remarks
 null

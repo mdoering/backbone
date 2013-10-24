@@ -1,5 +1,4 @@
-Strigula racoplaca Mont. SPECIES
-=======
+# Strigula racoplaca Mont. SPECIES
 
 #### Status
 ACCEPTED

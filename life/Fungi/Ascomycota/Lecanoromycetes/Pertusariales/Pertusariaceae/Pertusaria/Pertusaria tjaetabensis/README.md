@@ -1,5 +1,4 @@
-Pertusaria tjaetabensis A. W. Archer & Elix SPECIES
-=======
+# Pertusaria tjaetabensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

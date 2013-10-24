@@ -1,5 +1,4 @@
-Bicornispora exophiala Checa, Barrasa, M.N. Blanco & A.T. Martínez, 1996 SPECIES
-=======
+# Bicornispora exophiala Checa, Barrasa, M.N. Blanco & A.T. Martínez, 1996 SPECIES
 
 #### Status
 ACCEPTED

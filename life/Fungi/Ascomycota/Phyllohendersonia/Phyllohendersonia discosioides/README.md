@@ -1,5 +1,4 @@
-Phyllohendersonia discosioides (Ellis & Dearn.) Tassi SPECIES
-=======
+# Phyllohendersonia discosioides (Ellis & Dearn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

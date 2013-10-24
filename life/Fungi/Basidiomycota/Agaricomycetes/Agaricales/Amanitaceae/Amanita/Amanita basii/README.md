@@ -1,5 +1,4 @@
-Amanita basii Guzmán & Ram.-Guill. SPECIES
-=======
+# Amanita basii Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

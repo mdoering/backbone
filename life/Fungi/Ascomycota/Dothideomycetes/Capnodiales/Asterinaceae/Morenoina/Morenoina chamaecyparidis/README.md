@@ -1,5 +1,4 @@
-Morenoina chamaecyparidis J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina chamaecyparidis J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cooperiae Long SPECIES
-=======
+# Puccinia cooperiae Long SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytriaceae J. Schröt. FAMILY
-=======
+# Synchytriaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

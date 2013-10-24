@@ -1,5 +1,4 @@
-Pestalotia effusa Vestergr. SPECIES
-=======
+# Pestalotia effusa Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius oreobius J. Favre SPECIES
-=======
+# Cortinarius oreobius J. Favre SPECIES
 
 #### Status
 ACCEPTED

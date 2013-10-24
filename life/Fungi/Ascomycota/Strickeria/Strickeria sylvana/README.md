@@ -1,5 +1,4 @@
-Strickeria sylvana (Sacc. & Speg.) Cooke SPECIES
-=======
+# Strickeria sylvana (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

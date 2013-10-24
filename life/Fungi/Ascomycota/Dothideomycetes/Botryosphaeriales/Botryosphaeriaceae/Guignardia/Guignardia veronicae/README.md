@@ -1,5 +1,4 @@
-Guignardia veronicae (Rostr.) P. Larsen SPECIES
-=======
+# Guignardia veronicae (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

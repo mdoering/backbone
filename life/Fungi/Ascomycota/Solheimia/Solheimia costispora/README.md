@@ -1,5 +1,4 @@
-Solheimia costispora E.F. Morris, 1967 SPECIES
-=======
+# Solheimia costispora E.F. Morris, 1967 SPECIES
 
 #### Status
 ACCEPTED

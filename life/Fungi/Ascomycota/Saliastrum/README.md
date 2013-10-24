@@ -1,5 +1,4 @@
-Saliastrum Kujala GENUS
-=======
+# Saliastrum Kujala GENUS
 
 #### Status
 ACCEPTED

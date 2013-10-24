@@ -1,5 +1,4 @@
-Collybia esculentoides var. esculentoides VARIETY
-=======
+# Collybia esculentoides Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia esculentoides var. esculentoides
+Collybia esculentoides Peck
 
 ### Remarks
 null

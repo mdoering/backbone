@@ -1,5 +1,4 @@
-Cercospora weberi Chupp SPECIES
-=======
+# Cercospora weberi Chupp SPECIES
 
 #### Status
 ACCEPTED

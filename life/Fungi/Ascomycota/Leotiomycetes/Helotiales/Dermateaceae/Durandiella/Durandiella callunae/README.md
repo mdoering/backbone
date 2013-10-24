@@ -1,5 +1,4 @@
-Durandiella callunae E. Müll. & Schläpf.-Bernh. SPECIES
-=======
+# Durandiella callunae E. Müll. & Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

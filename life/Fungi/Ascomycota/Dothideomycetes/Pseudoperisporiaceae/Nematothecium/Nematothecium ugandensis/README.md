@@ -1,5 +1,4 @@
-Nematothecium ugandensis Hansf. SPECIES
-=======
+# Nematothecium ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

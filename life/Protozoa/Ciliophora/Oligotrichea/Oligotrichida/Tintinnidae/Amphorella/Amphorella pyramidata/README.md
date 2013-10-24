@@ -1,5 +1,4 @@
-Amphorella pyramidata SPECIES
-=======
+# Amphorella pyramidata SPECIES
 
 #### Status
 ACCEPTED

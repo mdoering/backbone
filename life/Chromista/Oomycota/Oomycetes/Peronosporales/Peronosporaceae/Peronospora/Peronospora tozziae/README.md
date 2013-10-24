@@ -1,5 +1,4 @@
-Peronospora tozziae Gäum. & S. Blumer SPECIES
-=======
+# Peronospora tozziae Gäum. & S. Blumer SPECIES
 
 #### Status
 ACCEPTED

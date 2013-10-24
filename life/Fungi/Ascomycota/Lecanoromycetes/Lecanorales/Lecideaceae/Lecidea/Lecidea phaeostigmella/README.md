@@ -1,5 +1,4 @@
-Lecidea phaeostigmella Nyl. SPECIES
-=======
+# Lecidea phaeostigmella Nyl. SPECIES
 
 #### Status
 ACCEPTED

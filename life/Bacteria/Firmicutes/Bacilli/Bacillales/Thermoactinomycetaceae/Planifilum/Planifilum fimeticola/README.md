@@ -1,5 +1,4 @@
-Planifilum fimeticola Hatayama et al., 2005 SPECIES
-=======
+# Planifilum fimeticola Hatayama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

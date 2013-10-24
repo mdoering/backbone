@@ -1,8 +1,7 @@
-Agaricus rhinoceratis Jungh. SPECIES
-=======
+# Agaricus rhinocerotis Jungh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus rhinoceratis Jungh.
+Agaricus rhinocerotis Jungh.
 
 ### Remarks
 null

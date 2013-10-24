@@ -1,5 +1,4 @@
-Ascobolus indicus Sanwal SPECIES
-=======
+# Ascobolus indicus Sanwal SPECIES
 
 #### Status
 ACCEPTED

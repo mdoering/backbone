@@ -1,14 +1,13 @@
-Pleospora chamaeropsis (Durieu & Mont.) Sacc. SPECIES
-=======
+# Pleospora chamaeropis (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 262 (1883)
 
 #### Original name
 Sphaeria chamaeropis Durieu & Mont.

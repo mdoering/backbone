@@ -1,5 +1,4 @@
-Merismatium discrepans (J. Lahm) Triebel SPECIES
-=======
+# Merismatium discrepans (J. Lahm) Triebel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceratostoma rhynchophora (De Not.) Kirschst., 1911 SPECIES
-=======
+# Ceratostomella rhynchophora (De Not.) Réblová, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 98(1): 78 (2006)
 
 #### Original name
 Sordaria rhynchophora De Not., 1867

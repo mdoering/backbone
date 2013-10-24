@@ -1,5 +1,4 @@
-Phyllosticta wislizeni Ellis & Everh. SPECIES
-=======
+# Phyllosticta wislizeni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

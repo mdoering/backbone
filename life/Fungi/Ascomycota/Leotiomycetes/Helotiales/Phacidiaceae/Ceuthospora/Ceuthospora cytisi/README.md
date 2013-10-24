@@ -1,5 +1,4 @@
-Ceuthospora cytisi Höhn. SPECIES
-=======
+# Ceuthospora cytisi Höhn. SPECIES
 
 #### Status
 ACCEPTED

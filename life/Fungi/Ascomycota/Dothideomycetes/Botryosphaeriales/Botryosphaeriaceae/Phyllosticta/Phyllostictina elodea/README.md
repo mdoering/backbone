@@ -1,5 +1,4 @@
-Phyllostictina elodea Syd. SPECIES
-=======
+# Phyllostictina elodea Syd. SPECIES
 
 #### Status
 ACCEPTED

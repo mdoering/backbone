@@ -1,5 +1,4 @@
-Methylobacterium organophilum Patt et al., 1976 (Approved Lists, 1980) SPECIES
-=======
+# Methylobacterium organophilum Patt et al., 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

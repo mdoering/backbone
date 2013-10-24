@@ -1,5 +1,4 @@
-Sigalia Reiss, 1957 GENUS
-=======
+# Sigalia Reiss, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerella gossypina G.F. Atk., 1891 SPECIES
-=======
+# Mycosphaerella gossypina (G.F. Atk.) Earle, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 18: 300 (1891)
+Bulletin of the Alabama Agricultural Experiment Station 107: 309 (1900)
 
 #### Original name
 Sphaerella gossypina G.F. Atk., 1891

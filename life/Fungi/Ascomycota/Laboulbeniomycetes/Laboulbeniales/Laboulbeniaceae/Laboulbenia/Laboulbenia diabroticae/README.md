@@ -1,5 +1,4 @@
-Laboulbenia diabroticae Thaxt. SPECIES
-=======
+# Laboulbenia diabroticae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

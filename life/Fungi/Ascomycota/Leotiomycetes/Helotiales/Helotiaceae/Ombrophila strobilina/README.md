@@ -1,5 +1,4 @@
-Ombrophila strobilina (Alb. & Schwein.) Rehm SPECIES
-=======
+# Ombrophila strobilina (Alb. & Schwein.) Rehm SPECIES
 
 #### Status
 ACCEPTED

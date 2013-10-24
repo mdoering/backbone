@@ -1,5 +1,4 @@
-Coniothyrium aceris Bondartsev SPECIES
-=======
+# Coniothyrium aceris Bondartsev SPECIES
 
 #### Status
 ACCEPTED

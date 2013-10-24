@@ -1,5 +1,4 @@
-Heleiosa Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
-=======
+# Heleiosa Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

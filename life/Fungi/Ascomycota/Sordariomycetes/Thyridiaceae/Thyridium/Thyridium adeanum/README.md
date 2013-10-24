@@ -1,5 +1,4 @@
-Thyridium adeanum Rehm SPECIES
-=======
+# Thyridium adeanum Rehm SPECIES
 
 #### Status
 ACCEPTED

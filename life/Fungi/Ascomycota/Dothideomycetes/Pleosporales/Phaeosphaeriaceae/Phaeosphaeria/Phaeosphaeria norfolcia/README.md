@@ -1,14 +1,13 @@
-Sphaeria norfolcia Cooke, 1877 SPECIES
-=======
+# Phaeosphaeria norfolcia (Cooke) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 120 (1877)
+Sydowia 37: 152 (1984)
 
 #### Original name
 Sphaeria norfolcia Cooke, 1877

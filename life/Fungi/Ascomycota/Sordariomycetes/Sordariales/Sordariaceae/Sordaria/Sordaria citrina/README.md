@@ -1,5 +1,4 @@
-Sordaria citrina Petch SPECIES
-=======
+# Sordaria citrina Petch SPECIES
 
 #### Status
 ACCEPTED

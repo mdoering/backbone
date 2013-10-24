@@ -1,5 +1,4 @@
-Simocybe albovelutina Singer SPECIES
-=======
+# Simocybe albovelutina Singer SPECIES
 
 #### Status
 ACCEPTED

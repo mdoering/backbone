@@ -1,8 +1,7 @@
-Phormidium ercegovicii Cado, 1958 SPECIES
-=======
+# Leptolyngbya ercegovicii (Cado) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

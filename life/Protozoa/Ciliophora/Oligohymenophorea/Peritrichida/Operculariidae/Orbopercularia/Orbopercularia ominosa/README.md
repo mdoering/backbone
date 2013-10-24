@@ -1,8 +1,7 @@
-Endogyrinella ominosa (Lust, 1950) Jankowski, 1976 SPECIES
-=======
+# Orbopercularia ominosa Lust, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

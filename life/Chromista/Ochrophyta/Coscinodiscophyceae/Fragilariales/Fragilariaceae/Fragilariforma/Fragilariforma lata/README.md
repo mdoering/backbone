@@ -1,5 +1,4 @@
-Fragilariforma lata (A.Cleve) D.M.Williams & Round SPECIES
-=======
+# Fragilariforma lata (A.Cleve) D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

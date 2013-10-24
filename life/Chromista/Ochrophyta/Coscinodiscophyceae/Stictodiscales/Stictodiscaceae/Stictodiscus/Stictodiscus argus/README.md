@@ -1,5 +1,4 @@
-Stictodiscus argus Greville ex A.F.W. Schmidt in Schmidt et al., 1875 SPECIES
-=======
+# Stictodiscus argus Greville ex A.F.W. Schmidt in Schmidt et al., 1875 SPECIES
 
 #### Status
 ACCEPTED

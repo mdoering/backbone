@@ -1,5 +1,4 @@
-Volvaria strangulata Romagn. SPECIES
-=======
+# Volvaria strangulata Romagn. SPECIES
 
 #### Status
 ACCEPTED

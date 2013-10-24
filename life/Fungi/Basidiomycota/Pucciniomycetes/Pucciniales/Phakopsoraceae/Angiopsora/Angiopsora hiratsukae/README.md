@@ -1,5 +1,4 @@
-Angiopsora hiratsukae Syd. SPECIES
-=======
+# Angiopsora hiratsukae Syd. SPECIES
 
 #### Status
 ACCEPTED

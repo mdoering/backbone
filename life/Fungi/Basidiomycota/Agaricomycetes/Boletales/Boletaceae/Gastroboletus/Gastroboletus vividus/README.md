@@ -1,5 +1,4 @@
-Gastroboletus vividus Trappe & Castellano, 2000 SPECIES
-=======
+# Gastroboletus vividus Trappe & Castellano, 2000 SPECIES
 
 #### Status
 ACCEPTED

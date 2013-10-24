@@ -1,5 +1,4 @@
-Pseudobotrytis fusca Krzemien. & Badura, 1954 SPECIES
-=======
+# Pseudobotrytis fusca Krzemien. & Badura, 1954 SPECIES
 
 #### Status
 ACCEPTED

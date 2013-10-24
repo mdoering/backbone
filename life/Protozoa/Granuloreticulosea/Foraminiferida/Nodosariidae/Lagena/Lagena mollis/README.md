@@ -1,5 +1,4 @@
-Lagena mollis SPECIES
-=======
+# Lagena mollis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora macedonica Petr. SPECIES
-=======
+# Pleospora macedonica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria inculta Sacc. & Malbr. SPECIES
-=======
+# Leptosphaeria inculta Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

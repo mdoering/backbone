@@ -1,5 +1,4 @@
-Hyphoscypha virginea Bres. SPECIES
-=======
+# Hyphoscypha virginea Bres. SPECIES
 
 #### Status
 ACCEPTED

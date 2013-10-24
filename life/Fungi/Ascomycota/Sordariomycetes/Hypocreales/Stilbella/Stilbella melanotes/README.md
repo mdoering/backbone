@@ -1,5 +1,4 @@
-Stilbella melanotes Syd. SPECIES
-=======
+# Stilbella melanotes Syd. SPECIES
 
 #### Status
 ACCEPTED

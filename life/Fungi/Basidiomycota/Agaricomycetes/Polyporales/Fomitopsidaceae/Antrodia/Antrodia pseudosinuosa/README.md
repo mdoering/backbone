@@ -1,5 +1,4 @@
-Antrodia pseudosinuosa A. Henrici & Ryvarden, 1997 SPECIES
-=======
+# Antrodia pseudosinuosa A. Henrici & Ryvarden, 1997 SPECIES
 
 #### Status
 ACCEPTED

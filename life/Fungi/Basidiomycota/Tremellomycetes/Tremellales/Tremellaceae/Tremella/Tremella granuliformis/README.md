@@ -1,5 +1,4 @@
-Tremella granuliformis Pat. SPECIES
-=======
+# Tremella granuliformis Pat. SPECIES
 
 #### Status
 ACCEPTED

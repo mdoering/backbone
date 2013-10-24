@@ -1,5 +1,4 @@
-Psilocybe umbrina E. Horak, Guzmán & Desjardin SPECIES
-=======
+# Psilocybe umbrina E. Horak, Guzmán & Desjardin SPECIES
 
 #### Status
 ACCEPTED

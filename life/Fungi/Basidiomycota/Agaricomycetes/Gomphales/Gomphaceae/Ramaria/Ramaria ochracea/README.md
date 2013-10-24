@@ -1,17 +1,16 @@
-Ramaria ochracea var. ochracea VARIETY
-=======
+# Ramaria ochracea (Bres.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 610 (1950)
 
 #### Original name
-Ramaria ochracea var. ochracea
+Lachnocladium ochraceum Bres., 1899
 
 ### Remarks
 null

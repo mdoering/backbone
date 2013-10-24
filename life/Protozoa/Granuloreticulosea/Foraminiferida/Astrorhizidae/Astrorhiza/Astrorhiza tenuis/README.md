@@ -1,5 +1,4 @@
-Astrorhiza tenuis Goes, 1896 SPECIES
-=======
+# Astrorhiza tenuis Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces bouvardiae Syd. & P. Syd. SPECIES
-=======
+# Uromyces bouvardiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

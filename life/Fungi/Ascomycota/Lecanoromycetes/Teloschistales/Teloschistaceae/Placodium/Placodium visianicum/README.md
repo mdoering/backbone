@@ -1,5 +1,4 @@
-Placodium visianicum (A. Massal.) Olivier SPECIES
-=======
+# Placodium visianicum (A. Massal.) Olivier SPECIES
 
 #### Status
 ACCEPTED

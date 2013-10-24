@@ -1,5 +1,4 @@
-Fusicoccum ellisii Petr. & Died. SPECIES
-=======
+# Fusicoccum ellisii Petr. & Died. SPECIES
 
 #### Status
 ACCEPTED

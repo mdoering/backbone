@@ -1,5 +1,4 @@
-Physcia caucasica J. Steiner SPECIES
-=======
+# Physcia caucasica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

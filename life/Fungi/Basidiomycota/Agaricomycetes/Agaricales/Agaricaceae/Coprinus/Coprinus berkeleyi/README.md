@@ -1,5 +1,4 @@
-Coprinus berkeleyi Mont. SPECIES
-=======
+# Coprinus berkeleyi Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella minima Sacc. SPECIES
-=======
+# Anthostomella minima Sacc. SPECIES
 
 #### Status
 ACCEPTED

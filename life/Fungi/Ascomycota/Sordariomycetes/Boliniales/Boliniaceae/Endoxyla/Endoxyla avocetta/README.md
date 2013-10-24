@@ -1,5 +1,4 @@
-Endoxyla avocetta (Cooke & Ellis) A.I. Romero & Samuels SPECIES
-=======
+# Endoxyla avocetta (Cooke & Ellis) A.I. Romero & Samuels SPECIES
 
 #### Status
 ACCEPTED

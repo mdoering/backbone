@@ -1,5 +1,4 @@
-Merulius rubrotremellosus Corner SPECIES
-=======
+# Merulius rubrotremellosus Corner SPECIES
 
 #### Status
 ACCEPTED

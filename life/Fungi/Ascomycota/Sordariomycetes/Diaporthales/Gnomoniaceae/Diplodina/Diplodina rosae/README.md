@@ -1,5 +1,4 @@
-Diplodina rosae Brunaud SPECIES
-=======
+# Diplodina rosae Brunaud SPECIES
 
 #### Status
 ACCEPTED

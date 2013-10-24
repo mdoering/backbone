@@ -1,5 +1,4 @@
-Alternaria eryngii (Pers.) S. Hughes & E.G. Simmons SPECIES
-=======
+# Alternaria eryngii (Pers.) S. Hughes & E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

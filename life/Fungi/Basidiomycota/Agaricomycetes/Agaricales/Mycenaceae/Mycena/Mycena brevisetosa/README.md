@@ -1,5 +1,4 @@
-Mycena brevisetosa Corner SPECIES
-=======
+# Mycena brevisetosa Corner SPECIES
 
 #### Status
 ACCEPTED

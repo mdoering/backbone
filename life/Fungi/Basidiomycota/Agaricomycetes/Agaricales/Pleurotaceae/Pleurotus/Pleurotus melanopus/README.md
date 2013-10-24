@@ -1,5 +1,4 @@
-Pleurotus melanopus (Fr.) Sacc. SPECIES
-=======
+# Pleurotus melanopus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

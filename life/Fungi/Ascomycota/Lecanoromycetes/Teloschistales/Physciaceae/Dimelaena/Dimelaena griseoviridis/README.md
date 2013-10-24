@@ -1,5 +1,4 @@
-Dimelaena griseoviridis (H. Magn.) Vezda SPECIES
-=======
+# Dimelaena griseoviridis (H. Magn.) Vezda SPECIES
 
 #### Status
 ACCEPTED

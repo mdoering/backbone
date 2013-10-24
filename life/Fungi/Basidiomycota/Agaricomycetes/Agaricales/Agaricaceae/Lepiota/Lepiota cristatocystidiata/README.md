@@ -1,5 +1,4 @@
-Lepiota cristatocystidiata A. Pearson SPECIES
-=======
+# Lepiota cristatocystidiata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

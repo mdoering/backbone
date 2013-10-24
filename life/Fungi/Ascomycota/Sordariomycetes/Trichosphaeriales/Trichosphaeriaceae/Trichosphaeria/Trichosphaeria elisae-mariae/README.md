@@ -1,5 +1,4 @@
-Trichosphaeria elisae-mariae Sacc. & Pat. SPECIES
-=======
+# Trichosphaeria elisae-mariae Sacc. & Pat. SPECIES
 
 #### Status
 ACCEPTED

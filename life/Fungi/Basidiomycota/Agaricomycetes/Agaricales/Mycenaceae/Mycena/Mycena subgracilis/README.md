@@ -1,5 +1,4 @@
-Mycena subgracilis Métrod SPECIES
-=======
+# Mycena subgracilis Métrod SPECIES
 
 #### Status
 ACCEPTED

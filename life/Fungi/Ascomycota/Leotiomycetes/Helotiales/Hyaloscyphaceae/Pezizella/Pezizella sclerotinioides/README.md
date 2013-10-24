@@ -1,5 +1,4 @@
-Pezizella sclerotinioides Rehm SPECIES
-=======
+# Pezizella sclerotinioides Rehm SPECIES
 
 #### Status
 ACCEPTED

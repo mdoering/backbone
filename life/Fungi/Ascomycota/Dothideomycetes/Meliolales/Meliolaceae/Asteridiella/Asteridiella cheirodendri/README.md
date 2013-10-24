@@ -1,5 +1,4 @@
-Asteridiella cheirodendri (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella cheirodendri (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

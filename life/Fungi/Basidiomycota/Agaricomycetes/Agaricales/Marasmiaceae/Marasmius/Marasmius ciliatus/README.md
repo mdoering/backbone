@@ -1,5 +1,4 @@
-Marasmius ciliatus Pegler SPECIES
-=======
+# Marasmius ciliatus Pegler SPECIES
 
 #### Status
 ACCEPTED

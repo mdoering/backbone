@@ -1,5 +1,4 @@
-Mucor exitosus Massee SPECIES
-=======
+# Mucor exitosus Massee SPECIES
 
 #### Status
 ACCEPTED

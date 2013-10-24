@@ -1,5 +1,4 @@
-Buellia postglacialis Hafellner SPECIES
-=======
+# Buellia postglacialis Hafellner SPECIES
 
 #### Status
 ACCEPTED

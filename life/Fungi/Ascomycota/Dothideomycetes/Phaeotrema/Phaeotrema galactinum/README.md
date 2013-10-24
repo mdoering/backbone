@@ -1,5 +1,4 @@
-Phaeotrema galactinum (Vain.) Zahlbr. SPECIES
-=======
+# Phaeotrema galactinum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

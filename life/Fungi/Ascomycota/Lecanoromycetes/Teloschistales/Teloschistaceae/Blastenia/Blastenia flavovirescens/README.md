@@ -1,5 +1,4 @@
-Blastenia flavovirescens (Wulfen) B. de Lesd. SPECIES
-=======
+# Blastenia flavovirescens (Wulfen) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

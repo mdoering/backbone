@@ -1,5 +1,4 @@
-Pseudocyphellaria santlettii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria santlettii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Minojapanella Fujimoto & Kanuma, 1953 GENUS
-=======
+# Minojapanella Fujimoto & Kanuma, 1953 GENUS
 
 #### Status
 ACCEPTED

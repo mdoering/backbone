@@ -1,5 +1,4 @@
-Stigmina hansfordii B. Sutton & Pascoe SPECIES
-=======
+# Stigmina hansfordii B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

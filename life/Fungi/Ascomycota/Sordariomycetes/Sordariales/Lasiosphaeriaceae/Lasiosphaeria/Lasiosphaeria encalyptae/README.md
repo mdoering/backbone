@@ -1,5 +1,4 @@
-Lasiosphaeria encalyptae Racov. SPECIES
-=======
+# Lasiosphaeria encalyptae Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anfractus harrisonii Medd, 1979 SPECIES
-=======
+# Anfractus harrisonii Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

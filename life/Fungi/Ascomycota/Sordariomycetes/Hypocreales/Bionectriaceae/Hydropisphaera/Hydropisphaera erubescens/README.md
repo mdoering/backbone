@@ -1,14 +1,13 @@
-Nectria erubescens (Roberge ex Desm.) W. Phillips & Plowr., 1881 SPECIES
-=======
+# Hydropisphaera erubescens (Roberge ex Desm.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 54): 70 (1881)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 30 (1999)
 
 #### Original name
 Sphaeria erubescens Roberge ex Desm., 1846

@@ -1,5 +1,4 @@
-Lecanora membranacea Fée SPECIES
-=======
+# Lecanora membranacea Fée SPECIES
 
 #### Status
 ACCEPTED

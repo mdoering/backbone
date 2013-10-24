@@ -1,5 +1,4 @@
-Lophiostoma graphidospora Anzi SPECIES
-=======
+# Lophiostoma graphidospora Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus densifolius R. Heim & L. Remy SPECIES
-=======
+# Lentinus densifolius R. Heim & L. Remy SPECIES
 
 #### Status
 ACCEPTED

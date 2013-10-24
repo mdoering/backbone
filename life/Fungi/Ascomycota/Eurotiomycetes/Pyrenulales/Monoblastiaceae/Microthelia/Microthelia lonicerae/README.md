@@ -1,5 +1,4 @@
-Microthelia lonicerae (Sacc.) Kuntze SPECIES
-=======
+# Microthelia lonicerae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

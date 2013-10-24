@@ -1,5 +1,4 @@
-Lepidopterella palustris Shearer & J.L. Crane, 1980 SPECIES
-=======
+# Lepidopterella palustris Shearer & J.L. Crane, 1980 SPECIES
 
 #### Status
 ACCEPTED

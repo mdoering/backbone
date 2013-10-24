@@ -1,14 +1,13 @@
-Chamaeceras limosus (Boud. & Quél.) Kuntze, 1898 SPECIES
-=======
+# Marasmius limosus Boud. & Quél., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 456 (1898)
+Bull. Soc. bot. Fr. 24: 323 (1877)
 
 #### Original name
 Marasmius limosus Boud. & Quél., 1877

@@ -1,5 +1,4 @@
-Trichosporon gamsii Middelhoven, Scorzetti, Sigler & Fell SPECIES
-=======
+# Trichosporon gamsii Middelhoven, Scorzetti, Sigler & Fell SPECIES
 
 #### Status
 ACCEPTED

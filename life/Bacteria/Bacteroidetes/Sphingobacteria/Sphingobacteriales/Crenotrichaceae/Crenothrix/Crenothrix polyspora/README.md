@@ -1,5 +1,4 @@
-Crenothrix polyspora Cohn, 1870 (Approved Lists, 1980) SPECIES
-=======
+# Crenothrix polyspora Cohn, 1870 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

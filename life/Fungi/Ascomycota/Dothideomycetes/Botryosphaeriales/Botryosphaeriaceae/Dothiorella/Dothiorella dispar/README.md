@@ -1,5 +1,4 @@
-Dothiorella dispar (Fr.) Starbäck SPECIES
-=======
+# Dothiorella dispar (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

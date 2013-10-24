@@ -1,17 +1,16 @@
-Hypsizygus ligustri var. ligustri Raithelh., 1974 VARIETY
-=======
+# Hypsizygus ligustri Raithelh., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hong. Argentin. 1: 139 (1974)
 
 #### Original name
-Hypsizygus ligustri var. ligustri Raithelh., 1974
+Hypsizygus ligustri Raithelh., 1974
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterolibertia randiae (Doidge) Arx SPECIES
-=======
+# Asterolibertia randiae (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

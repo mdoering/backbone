@@ -1,17 +1,16 @@
-Junghuhnia separabilima (Pouzar) Ryvarden, 1972 SPECIES
-=======
+# Junghuhnia lacera (P. Karst.) Niemelä & Kinnunen, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 7(1): 18 (1972)
+Karstenia 41(1): 6 (2001)
 
 #### Original name
-Chaetoporus separabillimus Pouzar, 1967
+Physisporus lacer P. Karst., 1882
 
 ### Remarks
 null

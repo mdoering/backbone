@@ -1,5 +1,4 @@
-Pleospora eocoronis (Clem.) Wehm. SPECIES
-=======
+# Pleospora eocoronis (Clem.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

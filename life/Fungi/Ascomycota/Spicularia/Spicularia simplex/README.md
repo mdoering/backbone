@@ -1,17 +1,16 @@
-Botrytis simplex var. simplex VARIETY
-=======
+# Spicularia simplex (Pers.) Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 690 (1801)
+Mycol. eur. (Erlanga) (1822)
 
 #### Original name
-Botrytis simplex var. simplex
+Botrytis simplex Pers., 1801
 
 ### Remarks
 null

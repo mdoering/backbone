@@ -1,5 +1,4 @@
-Thuemenella hirsuta (Ellis & Everh.) Boedijn SPECIES
-=======
+# Thuemenella hirsuta (Ellis & Everh.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

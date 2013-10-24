@@ -1,5 +1,4 @@
-Cortinarius paraxanthus Soop, 2005 SPECIES
-=======
+# Cortinarius paraxanthus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemileia detergibile (Thüm.) Ritschel SPECIES
-=======
+# Hemileia detergibile (Thüm.) Ritschel SPECIES
 
 #### Status
 ACCEPTED

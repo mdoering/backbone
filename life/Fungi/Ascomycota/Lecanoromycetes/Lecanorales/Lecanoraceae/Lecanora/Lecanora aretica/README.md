@@ -1,5 +1,4 @@
-Lecanora aretica SPECIES
-=======
+# Lecanora aretica SPECIES
 
 #### Status
 ACCEPTED

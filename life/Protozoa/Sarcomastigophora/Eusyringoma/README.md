@@ -1,5 +1,4 @@
-Eusyringoma Haeckel, 1887 GENUS
-=======
+# Eusyringoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

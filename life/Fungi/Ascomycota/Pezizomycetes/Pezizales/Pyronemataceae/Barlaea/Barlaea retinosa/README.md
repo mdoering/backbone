@@ -1,5 +1,4 @@
-Barlaea retinosa Velen. SPECIES
-=======
+# Barlaea retinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

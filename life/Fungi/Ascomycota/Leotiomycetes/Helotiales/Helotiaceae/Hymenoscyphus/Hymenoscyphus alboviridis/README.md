@@ -1,5 +1,4 @@
-Hymenoscyphus alboviridis (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus alboviridis (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

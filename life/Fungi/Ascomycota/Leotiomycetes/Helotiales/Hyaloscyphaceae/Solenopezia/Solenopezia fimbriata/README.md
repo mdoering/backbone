@@ -1,5 +1,4 @@
-Solenopezia fimbriata Ellis & Barthol. SPECIES
-=======
+# Solenopezia fimbriata Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

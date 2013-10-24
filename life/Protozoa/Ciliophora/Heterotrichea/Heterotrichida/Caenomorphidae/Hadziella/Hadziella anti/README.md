@@ -1,5 +1,4 @@
-Hadziella anti Schutt, 1960 SPECIES
-=======
+# Hadziella anti Schutt, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria longispora Bat. & Pontual SPECIES
-=======
+# Sordaria longispora Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

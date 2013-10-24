@@ -1,5 +1,4 @@
-Phyllosticta mangiferae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta mangiferae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

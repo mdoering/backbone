@@ -1,5 +1,4 @@
-Cyathus canna Lloyd, 1906 SPECIES
-=======
+# Cyathus canna Lloyd, 1906 SPECIES
 
 #### Status
 ACCEPTED

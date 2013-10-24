@@ -1,5 +1,4 @@
-Hygrocybe sylvaria A.M. Young SPECIES
-=======
+# Hygrocybe sylvaria A.M. Young SPECIES
 
 #### Status
 ACCEPTED

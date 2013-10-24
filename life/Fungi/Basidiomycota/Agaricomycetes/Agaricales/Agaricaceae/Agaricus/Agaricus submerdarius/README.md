@@ -1,5 +1,4 @@
-Agaricus submerdarius Britzelm. SPECIES
-=======
+# Agaricus submerdarius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

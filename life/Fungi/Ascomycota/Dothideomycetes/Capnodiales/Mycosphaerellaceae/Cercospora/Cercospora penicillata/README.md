@@ -1,5 +1,4 @@
-Cercospora penicillata var. penicillata VARIETY
-=======
+# Cercospora penicillata (Ces.) Fresen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beitr. Mykol. 3: 93 (1863)
 
 #### Original name
-Cercospora penicillata var. penicillata
+Passalora penicillata Ces.
 
 ### Remarks
 null

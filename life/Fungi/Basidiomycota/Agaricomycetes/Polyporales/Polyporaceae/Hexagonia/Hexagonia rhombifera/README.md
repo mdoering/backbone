@@ -1,5 +1,4 @@
-Hexagonia rhombifera Mont. SPECIES
-=======
+# Hexagonia rhombifera Mont. SPECIES
 
 #### Status
 ACCEPTED

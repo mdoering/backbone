@@ -1,5 +1,4 @@
-Lachnum subnudipes L.G. Krieglst. & Baral, 1986 SPECIES
-=======
+# Lachnum subnudipes L.G. Krieglst. & Baral, 1986 SPECIES
 
 #### Status
 ACCEPTED

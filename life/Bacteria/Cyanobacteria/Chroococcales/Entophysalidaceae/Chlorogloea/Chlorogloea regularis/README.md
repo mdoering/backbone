@@ -1,5 +1,4 @@
-Chlorogloea regularis Setchell & Gardner SPECIES
-=======
+# Chlorogloea regularis Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

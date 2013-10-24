@@ -1,5 +1,4 @@
-Theodiscoma Haeckel, 1887 GENUS
-=======
+# Theodiscoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

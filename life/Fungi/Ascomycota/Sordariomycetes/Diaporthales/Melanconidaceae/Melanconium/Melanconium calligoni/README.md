@@ -1,5 +1,4 @@
-Melanconium calligoni Schwarzman SPECIES
-=======
+# Melanconium calligoni Schwarzman SPECIES
 
 #### Status
 ACCEPTED

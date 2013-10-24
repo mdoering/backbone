@@ -1,5 +1,4 @@
-Bombyliospora buelliacea Zahlbr. SPECIES
-=======
+# Bombyliospora buelliacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

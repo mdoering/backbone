@@ -1,5 +1,4 @@
-Cercospora oxydendri Tracy & Earle SPECIES
-=======
+# Cercospora oxydendri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

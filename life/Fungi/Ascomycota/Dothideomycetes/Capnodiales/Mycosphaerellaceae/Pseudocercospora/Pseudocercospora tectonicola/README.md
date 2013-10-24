@@ -1,5 +1,4 @@
-Pseudocercospora tectonicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora tectonicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

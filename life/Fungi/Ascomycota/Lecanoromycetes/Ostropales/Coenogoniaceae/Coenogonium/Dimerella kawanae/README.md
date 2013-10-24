@@ -1,5 +1,4 @@
-Dimerella kawanae H. Harada & Vezda SPECIES
-=======
+# Dimerella kawanae H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

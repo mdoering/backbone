@@ -1,5 +1,4 @@
-Saccharomyces diospyri Verona & Maccari SPECIES
-=======
+# Saccharomyces diospyri Verona & Maccari SPECIES
 
 #### Status
 ACCEPTED

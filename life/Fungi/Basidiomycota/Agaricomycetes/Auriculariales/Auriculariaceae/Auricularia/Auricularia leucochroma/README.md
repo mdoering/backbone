@@ -1,5 +1,4 @@
-Auricularia leucochroma Kobayasi SPECIES
-=======
+# Auricularia leucochroma Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroporus purpurinus (Snell) Singer SPECIES
-=======
+# Gyroporus purpurinus (Snell) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicolopsis cephalosporioides Cabral & Marchand, 1976 SPECIES
-=======
+# Humicolopsis cephalosporioides Cabral & Marchand, 1976 SPECIES
 
 #### Status
 ACCEPTED

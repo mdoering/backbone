@@ -1,5 +1,4 @@
-Psorella isidiophora D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Psorella isidiophora D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

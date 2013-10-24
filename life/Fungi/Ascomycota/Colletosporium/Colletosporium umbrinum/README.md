@@ -1,5 +1,4 @@
-Colletosporium umbrinum Link, 1824 SPECIES
-=======
+# Colletosporium umbrinum Link, 1824 SPECIES
 
 #### Status
 ACCEPTED

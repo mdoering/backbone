@@ -1,5 +1,4 @@
-Chalara flavopruinata Höhn. SPECIES
-=======
+# Chalara flavopruinata Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza radiata Pers. SPECIES
-=======
+# Peziza radiata Pers. SPECIES
 
 #### Status
 ACCEPTED

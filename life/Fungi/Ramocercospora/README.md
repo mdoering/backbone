@@ -1,5 +1,4 @@
-Ramocercospora GENUS
-=======
+# Ramocercospora GENUS
 
 #### Status
 ACCEPTED

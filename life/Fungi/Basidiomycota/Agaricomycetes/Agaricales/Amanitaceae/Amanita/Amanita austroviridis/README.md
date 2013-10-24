@@ -1,5 +1,4 @@
-Amanita austroviridis O.K. Mill. SPECIES
-=======
+# Amanita austroviridis O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

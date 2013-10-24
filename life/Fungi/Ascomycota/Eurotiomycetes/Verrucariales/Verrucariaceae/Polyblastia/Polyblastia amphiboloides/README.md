@@ -1,5 +1,4 @@
-Polyblastia amphiboloides (Nyl.) Trevis. SPECIES
-=======
+# Polyblastia amphiboloides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

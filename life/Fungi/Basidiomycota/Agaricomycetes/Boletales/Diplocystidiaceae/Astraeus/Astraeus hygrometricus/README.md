@@ -1,17 +1,16 @@
-Geastrum hygrometricum var. hygrometricum VARIETY
-=======
+# Astraeus hygrometricus (Pers.) Morgan, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 135 (1801)
+J. Cincinnati Soc. Nat. Hist. 12: 20 (1889)
 
 #### Original name
-Geastrum hygrometricum var. hygrometricum
+Geastrum hygrometricum Pers., 1801
 
 ### Remarks
 null

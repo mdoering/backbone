@@ -1,5 +1,4 @@
-Volvaria microspila (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Volvaria microspila (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

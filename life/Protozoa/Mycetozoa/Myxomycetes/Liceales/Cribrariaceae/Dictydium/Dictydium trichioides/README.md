@@ -1,5 +1,4 @@
-Dictydium trichioides Chevall. SPECIES
-=======
+# Dictydium trichioides Chevall. SPECIES
 
 #### Status
 ACCEPTED

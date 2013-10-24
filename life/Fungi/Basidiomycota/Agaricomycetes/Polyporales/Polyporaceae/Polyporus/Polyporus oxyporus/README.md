@@ -1,5 +1,4 @@
-Polyporus oxyporus Saut. SPECIES
-=======
+# Polyporus oxyporus Saut. SPECIES
 
 #### Status
 ACCEPTED

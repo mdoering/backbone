@@ -1,5 +1,4 @@
-Staurocladia carpetana P. González SPECIES
-=======
+# Staurocladia carpetana P. González SPECIES
 
 #### Status
 ACCEPTED

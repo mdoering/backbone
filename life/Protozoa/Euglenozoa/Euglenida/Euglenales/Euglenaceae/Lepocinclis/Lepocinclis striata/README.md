@@ -1,5 +1,4 @@
-Lepocinclis striata (Hübner) Skuja SPECIES
-=======
+# Lepocinclis striata (Hübner) Skuja SPECIES
 
 #### Status
 ACCEPTED

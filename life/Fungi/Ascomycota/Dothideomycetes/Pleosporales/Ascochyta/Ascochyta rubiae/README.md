@@ -1,5 +1,4 @@
-Ascochyta rubiae Bubák SPECIES
-=======
+# Ascochyta rubiae Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goidanichiomyces ambrosianae Cif. & Tomas. SPECIES
-=======
+# Goidanichiomyces ambrosianae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

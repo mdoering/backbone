@@ -1,5 +1,4 @@
-Roccella subpodicellata (Vain.) Follmann & Huneck SPECIES
-=======
+# Roccella subpodicellata (Vain.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

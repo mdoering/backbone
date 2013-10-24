@@ -1,5 +1,4 @@
-Sphaeria lycoperdoides Weigel SPECIES
-=======
+# Sphaeria lycoperdoides Weigel SPECIES
 
 #### Status
 ACCEPTED

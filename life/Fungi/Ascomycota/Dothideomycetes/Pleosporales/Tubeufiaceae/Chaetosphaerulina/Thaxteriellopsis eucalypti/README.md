@@ -1,17 +1,16 @@
-Thaxteriellopsis eucalyptii A. Pande & V.G. Rao SPECIES
-=======
+# Thaxteriellopsis eucalypti A. Pande & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 40(1): 36 (1987)
 
 #### Original name
-Thaxteriellopsis eucalyptii A. Pande & V.G. Rao
+Thaxteriellopsis eucalypti A. Pande & V.G. Rao
 
 ### Remarks
 null

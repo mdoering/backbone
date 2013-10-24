@@ -1,5 +1,4 @@
-Cantharellus microcibarius Heinem. SPECIES
-=======
+# Cantharellus microcibarius Heinem. SPECIES
 
 #### Status
 ACCEPTED

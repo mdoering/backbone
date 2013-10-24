@@ -1,17 +1,16 @@
-Helminthosporium gramineum f. sp FORM
-=======
+# Pyrenophora graminea S. Ito & Kurib., 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 9(9): 329 (1902)
+J. Fac. agric. , Hokkaido Imp. Univ. Sapporo 29: 85-123 (1931)
 
 #### Original name
-Helminthosporium gramineum f. sp
+Pyrenophora graminea S. Ito & Kurib., 1931
 
 ### Remarks
 null

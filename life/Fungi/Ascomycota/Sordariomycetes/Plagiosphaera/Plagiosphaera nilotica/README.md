@@ -1,5 +1,4 @@
-Plagiosphaera nilotica M. Monod & P.J. Fisher SPECIES
-=======
+# Plagiosphaera nilotica M. Monod & P.J. Fisher SPECIES
 
 #### Status
 ACCEPTED

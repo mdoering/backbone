@@ -1,5 +1,4 @@
-Diaporthe terebinthi Fabre SPECIES
-=======
+# Diaporthe terebinthi Fabre SPECIES
 
 #### Status
 ACCEPTED

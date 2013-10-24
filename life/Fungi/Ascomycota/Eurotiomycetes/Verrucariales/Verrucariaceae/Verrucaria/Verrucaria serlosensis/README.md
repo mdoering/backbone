@@ -1,5 +1,4 @@
-Verrucaria serlosensis Servít SPECIES
-=======
+# Verrucaria serlosensis Servít SPECIES
 
 #### Status
 ACCEPTED

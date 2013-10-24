@@ -1,5 +1,4 @@
-Pseudocercosporella juglandis (Kaz. Itô & Tak. Kobay.) U. Braun SPECIES
-=======
+# Pseudocercosporella juglandis (Kaz. Itô & Tak. Kobay.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

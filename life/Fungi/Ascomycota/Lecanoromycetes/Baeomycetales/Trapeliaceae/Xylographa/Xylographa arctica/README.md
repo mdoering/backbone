@@ -1,5 +1,4 @@
-Xylographa arctica Fuckel SPECIES
-=======
+# Xylographa arctica Fuckel SPECIES
 
 #### Status
 ACCEPTED

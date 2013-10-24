@@ -1,5 +1,4 @@
-Diplomembrana simplex Yan Yuzhong, 1985 SPECIES
-=======
+# Diplomembrana simplex Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

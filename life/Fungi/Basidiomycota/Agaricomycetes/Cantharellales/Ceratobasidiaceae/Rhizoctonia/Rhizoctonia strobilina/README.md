@@ -1,5 +1,4 @@
-Rhizoctonia strobilina Link SPECIES
-=======
+# Rhizoctonia strobilina Link SPECIES
 
 #### Status
 ACCEPTED

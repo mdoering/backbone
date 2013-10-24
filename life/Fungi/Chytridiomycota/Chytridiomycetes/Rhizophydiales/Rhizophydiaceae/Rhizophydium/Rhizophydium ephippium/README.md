@@ -1,5 +1,4 @@
-Rhizophydium ephippium Canter SPECIES
-=======
+# Rhizophydium ephippium Canter SPECIES
 
 #### Status
 ACCEPTED

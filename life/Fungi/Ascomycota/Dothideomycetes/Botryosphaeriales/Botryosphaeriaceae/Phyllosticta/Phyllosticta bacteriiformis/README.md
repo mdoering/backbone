@@ -1,5 +1,4 @@
-Phyllosticta bacteriiformis f. bacteriiformis FORM
-=======
+# Phyllosticta bacteriiformis (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

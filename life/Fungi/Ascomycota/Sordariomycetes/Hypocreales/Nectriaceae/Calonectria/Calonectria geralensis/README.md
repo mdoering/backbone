@@ -1,5 +1,4 @@
-Calonectria geralensis Rehm SPECIES
-=======
+# Calonectria geralensis Rehm SPECIES
 
 #### Status
 ACCEPTED

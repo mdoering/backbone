@@ -1,5 +1,4 @@
-Colletotrichum palaquii Zimm. SPECIES
-=======
+# Colletotrichum palaquii Zimm. SPECIES
 
 #### Status
 ACCEPTED

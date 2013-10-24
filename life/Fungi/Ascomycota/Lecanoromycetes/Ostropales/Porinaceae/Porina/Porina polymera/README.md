@@ -1,5 +1,4 @@
-Porina polymera Vain. SPECIES
-=======
+# Porina polymera Vain. SPECIES
 
 #### Status
 ACCEPTED

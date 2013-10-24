@@ -1,5 +1,4 @@
-Leptosphaerella musicola Speg. SPECIES
-=======
+# Leptosphaerella musicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia calanticariae Parmelee SPECIES
-=======
+# Puccinia calanticariae Parmelee SPECIES
 
 #### Status
 ACCEPTED

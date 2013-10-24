@@ -1,14 +1,13 @@
-Sphaerella prominula Speg., 1879 SPECIES
-=======
+# Didymella prominula (Speg.) Piroz. & Morgan-Jones, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 456 (1879)
+Trans. Br. mycol. Soc. 51(2): 198 (1968)
 
 #### Original name
 Sphaerella prominula Speg., 1879

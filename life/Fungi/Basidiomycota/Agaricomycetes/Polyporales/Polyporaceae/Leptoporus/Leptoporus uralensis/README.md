@@ -1,5 +1,4 @@
-Leptoporus uralensis Pilát SPECIES
-=======
+# Leptoporus uralensis Pilát SPECIES
 
 #### Status
 ACCEPTED

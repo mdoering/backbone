@@ -1,5 +1,4 @@
-Sejongia Yi, Yoon & Chun, 2005 GENUS
-=======
+# Sejongia Yi, Yoon & Chun, 2005 GENUS
 
 #### Status
 ACCEPTED

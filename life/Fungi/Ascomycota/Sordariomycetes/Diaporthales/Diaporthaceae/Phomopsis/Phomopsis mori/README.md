@@ -1,5 +1,4 @@
-Phomopsis mori Woron. SPECIES
-=======
+# Phomopsis mori Woron. SPECIES
 
 #### Status
 ACCEPTED

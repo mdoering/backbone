@@ -1,5 +1,4 @@
-Mollisia luteofuscescens Feltgen SPECIES
-=======
+# Mollisia luteofuscescens Feltgen SPECIES
 
 #### Status
 ACCEPTED

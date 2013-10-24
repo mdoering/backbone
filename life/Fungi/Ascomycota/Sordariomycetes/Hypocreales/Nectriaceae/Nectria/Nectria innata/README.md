@@ -1,5 +1,4 @@
-Nectria innata Theiss. SPECIES
-=======
+# Nectria innata Theiss. SPECIES
 
 #### Status
 ACCEPTED

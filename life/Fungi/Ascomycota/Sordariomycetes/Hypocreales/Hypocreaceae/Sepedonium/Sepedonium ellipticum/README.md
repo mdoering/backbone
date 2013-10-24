@@ -1,5 +1,4 @@
-Sepedonium ellipticum K. Matsush. & Matsush. SPECIES
-=======
+# Sepedonium ellipticum K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

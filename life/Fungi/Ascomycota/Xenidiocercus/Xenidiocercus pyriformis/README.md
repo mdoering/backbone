@@ -1,5 +1,4 @@
-Xenidiocercus pyriformis W.P. Wu & B. Sutton, 1995 SPECIES
-=======
+# Xenidiocercus pyriformis W.P. Wu & B. Sutton, 1995 SPECIES
 
 #### Status
 ACCEPTED

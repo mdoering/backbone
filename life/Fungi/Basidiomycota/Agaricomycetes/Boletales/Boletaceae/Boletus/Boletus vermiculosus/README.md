@@ -1,5 +1,4 @@
-Boletus vermiculosus var. vermiculosus VARIETY
-=======
+# Boletus vermiculosus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus vermiculosus var. vermiculosus
+Boletus vermiculosus Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria thuemeniana Niessl SPECIES
-=======
+# Leptosphaeria thuemeniana Niessl SPECIES
 
 #### Status
 ACCEPTED

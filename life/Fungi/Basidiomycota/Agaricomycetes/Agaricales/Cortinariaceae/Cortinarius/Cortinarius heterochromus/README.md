@@ -1,5 +1,4 @@
-Cortinarius heterochromus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius heterochromus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

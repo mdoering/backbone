@@ -1,5 +1,4 @@
-Vascellum qudenii (Bottomley) P. Ponce de León SPECIES
-=======
+# Vascellum qudenii (Bottomley) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

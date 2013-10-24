@@ -1,5 +1,4 @@
-Gasparrinia crispicans (Nyl.) C.W. Dodge SPECIES
-=======
+# Gasparrinia crispicans (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

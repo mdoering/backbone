@@ -1,5 +1,4 @@
-Rectobolivina columellaris (Brady, 1884) SPECIES
-=======
+# Rectobolivina columellaris (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

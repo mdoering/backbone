@@ -1,14 +1,13 @@
-Polyactis depraedans Cooke, 1885 SPECIES
-=======
+# Cristulariella depraedans (Cooke) Höhn., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 125(1-2): 124 (1916)
 
 #### Original name
 Polyactis depraedans Cooke, 1885

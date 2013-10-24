@@ -1,5 +1,4 @@
-Enterographa albopunctata Sparrius SPECIES
-=======
+# Enterographa albopunctata Sparrius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium griseopurpureum Couch SPECIES
-=======
+# Septobasidium griseopurpureum Couch SPECIES
 
 #### Status
 ACCEPTED

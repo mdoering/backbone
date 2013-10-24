@@ -1,5 +1,4 @@
-Durandiella sibirica Shabunin SPECIES
-=======
+# Durandiella sibirica Shabunin SPECIES
 
 #### Status
 ACCEPTED

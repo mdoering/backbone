@@ -1,5 +1,4 @@
-Merulius brownii (Berk. & Broome) Kuntze SPECIES
-=======
+# Merulius brownii (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

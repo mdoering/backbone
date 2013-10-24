@@ -1,5 +1,4 @@
-Stigmatomyces limnophorae Thaxt. SPECIES
-=======
+# Stigmatomyces limnophorae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

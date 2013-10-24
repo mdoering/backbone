@@ -1,5 +1,4 @@
-Opegrapha leptoterodes Nyl. SPECIES
-=======
+# Opegrapha leptoterodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

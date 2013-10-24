@@ -1,5 +1,4 @@
-Allarthonia salicicola (Nyl.) Zahlbr. SPECIES
-=======
+# Allarthonia salicicola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

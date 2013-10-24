@@ -1,5 +1,4 @@
-Omphalia kewensis Massee SPECIES
-=======
+# Omphalia kewensis Massee SPECIES
 
 #### Status
 ACCEPTED

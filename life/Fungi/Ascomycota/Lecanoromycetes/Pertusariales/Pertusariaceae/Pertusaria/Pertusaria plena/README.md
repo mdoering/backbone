@@ -1,5 +1,4 @@
-Pertusaria plena SPECIES
-=======
+# Pertusaria plena SPECIES
 
 #### Status
 ACCEPTED

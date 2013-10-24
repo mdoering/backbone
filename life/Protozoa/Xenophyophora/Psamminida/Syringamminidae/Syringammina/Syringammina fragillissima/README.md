@@ -1,5 +1,4 @@
-Syringammina fragillissima Brady, 1883 SPECIES
-=======
+# Syringammina fragillissima Brady, 1883 SPECIES
 
 #### Status
 ACCEPTED

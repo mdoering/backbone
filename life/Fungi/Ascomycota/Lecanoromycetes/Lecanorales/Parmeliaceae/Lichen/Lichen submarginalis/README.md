@@ -1,5 +1,4 @@
-Lichen submarginalis Wulfen SPECIES
-=======
+# Lichen submarginalis Wulfen SPECIES
 
 #### Status
 ACCEPTED

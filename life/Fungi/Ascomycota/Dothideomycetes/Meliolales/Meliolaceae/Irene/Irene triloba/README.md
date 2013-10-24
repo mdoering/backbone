@@ -1,5 +1,4 @@
-Irene triloba (G. Winter) Theiss. & Syd. SPECIES
-=======
+# Irene triloba (G. Winter) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

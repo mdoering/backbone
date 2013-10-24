@@ -1,5 +1,4 @@
-Aureobasidium vaccinii Richit. & Teodoru SPECIES
-=======
+# Aureobasidium vaccinii Richit. & Teodoru SPECIES
 
 #### Status
 ACCEPTED

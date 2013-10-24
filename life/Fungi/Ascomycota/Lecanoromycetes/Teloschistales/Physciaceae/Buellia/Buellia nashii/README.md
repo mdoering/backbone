@@ -1,5 +1,4 @@
-Buellia nashii Bungartz SPECIES
-=======
+# Buellia nashii Bungartz SPECIES
 
 #### Status
 ACCEPTED

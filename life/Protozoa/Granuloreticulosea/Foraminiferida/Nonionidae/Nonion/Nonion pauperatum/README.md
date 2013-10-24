@@ -1,5 +1,4 @@
-Nonion pauperatum (Balkwill & Wright) SPECIES
-=======
+# Nonion pauperatum (Balkwill & Wright) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piloderma lapillicola Jülich, 1968 SPECIES
-=======
+# Piloderma lapillicola Jülich, 1968 SPECIES
 
 #### Status
 ACCEPTED

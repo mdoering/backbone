@@ -1,5 +1,4 @@
-Arenibacter troitsensis Nedashkovskaya et al., 2003 SPECIES
-=======
+# Arenibacter troitsensis Nedashkovskaya et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

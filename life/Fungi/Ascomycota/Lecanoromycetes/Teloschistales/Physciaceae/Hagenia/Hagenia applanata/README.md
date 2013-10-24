@@ -1,5 +1,4 @@
-Hagenia applanata SPECIES
-=======
+# Hagenia applanata SPECIES
 
 #### Status
 ACCEPTED

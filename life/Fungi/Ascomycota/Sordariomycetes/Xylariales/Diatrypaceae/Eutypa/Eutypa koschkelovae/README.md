@@ -1,17 +1,16 @@
-Eutypa koschkeloviae Frolov SPECIES
-=======
+# Eutypa koschkelovae Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 194 (1970)
 
 #### Original name
-Eutypa koschkeloviae Frolov
+Eutypa koschkelovae Frolov
 
 ### Remarks
 null

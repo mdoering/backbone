@@ -1,11 +1,10 @@
-Fucus caudatus Labillardière, 1806 SPECIES
-=======
+# Perithalia caudata (Labillardière) Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

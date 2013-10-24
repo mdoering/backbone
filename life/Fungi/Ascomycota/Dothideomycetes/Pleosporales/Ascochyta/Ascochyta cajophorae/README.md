@@ -1,5 +1,4 @@
-Ascochyta cajophorae Henn. SPECIES
-=======
+# Ascochyta cajophorae Henn. SPECIES
 
 #### Status
 ACCEPTED

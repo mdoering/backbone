@@ -1,5 +1,4 @@
-Gymnodinium galatheanum Braarud SPECIES
-=======
+# Gymnodinium galatheanum Braarud SPECIES
 
 #### Status
 ACCEPTED

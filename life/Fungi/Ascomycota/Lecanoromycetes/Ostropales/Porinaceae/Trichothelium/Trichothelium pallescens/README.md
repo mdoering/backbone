@@ -1,5 +1,4 @@
-Trichothelium pallescens (Müll. Arg.) F. Schill. SPECIES
-=======
+# Trichothelium pallescens (Müll. Arg.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

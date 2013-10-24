@@ -1,5 +1,4 @@
-Sphaerulina coriariae Pass. SPECIES
-=======
+# Sphaerulina coriariae Pass. SPECIES
 
 #### Status
 ACCEPTED

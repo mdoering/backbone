@@ -1,5 +1,4 @@
-Microsphaera yamadae f. yamadae FORM
-=======
+# Microsphaera yamadae (E.S. Salmon) Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsphaera yamadae f. yamadae
+Microsphaera alni var. yamadai E.S. Salmon
 
 ### Remarks
 null

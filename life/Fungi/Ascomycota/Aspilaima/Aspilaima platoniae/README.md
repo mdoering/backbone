@@ -1,5 +1,4 @@
-Aspilaima platoniae Bat. & H. Maia, 1961 SPECIES
-=======
+# Aspilaima platoniae Bat. & H. Maia, 1961 SPECIES
 
 #### Status
 ACCEPTED

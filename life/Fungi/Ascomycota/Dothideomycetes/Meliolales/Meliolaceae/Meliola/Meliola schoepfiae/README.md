@@ -1,5 +1,4 @@
-Meliola schoepfiae B. Song & Y.X. Hu SPECIES
-=======
+# Meliola schoepfiae B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

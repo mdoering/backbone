@@ -1,14 +1,13 @@
-Triposporium myrti Lind, 1913 SPECIES
-=======
+# Tripospermum myrti (Lind) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Danish Fungi (Copenhagen) 537 (1913)
+Mycol. Pap. 46: 18 (1951)
 
 #### Original name
 Triposporium myrti Lind, 1913

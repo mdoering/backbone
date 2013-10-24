@@ -1,5 +1,4 @@
-Lecanora flavidocarnea Vain. SPECIES
-=======
+# Lecanora flavidocarnea Vain. SPECIES
 
 #### Status
 ACCEPTED

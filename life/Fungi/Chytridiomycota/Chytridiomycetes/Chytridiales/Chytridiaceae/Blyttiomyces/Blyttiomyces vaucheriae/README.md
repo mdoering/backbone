@@ -1,5 +1,4 @@
-Blyttiomyces vaucheriae (Rieth) Dogma SPECIES
-=======
+# Blyttiomyces vaucheriae (Rieth) Dogma SPECIES
 
 #### Status
 ACCEPTED

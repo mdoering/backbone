@@ -1,5 +1,4 @@
-Pterula setacea (Kalchbr.) Corner SPECIES
-=======
+# Pterula setacea (Kalchbr.) Corner SPECIES
 
 #### Status
 ACCEPTED

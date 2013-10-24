@@ -1,5 +1,4 @@
-Uromyces kaernbachii Henn. SPECIES
-=======
+# Uromyces kaernbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora polytricha f. polytricha FORM
-=======
+# Cercospora polytricha Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora polytricha f. polytricha
+Cercospora polytricha Cooke
 
 ### Remarks
 null

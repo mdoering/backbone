@@ -1,14 +1,13 @@
-Leptonia pratense (Hesler) Largent SPECIES
-=======
+# Leptonia pratensis (Hesler) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 79 (1977)
 
 #### Original name
 Entoloma pralense Hesler

@@ -1,5 +1,4 @@
-Coryneum anhaltinum Staritz SPECIES
-=======
+# Coryneum anhaltinum Staritz SPECIES
 
 #### Status
 ACCEPTED

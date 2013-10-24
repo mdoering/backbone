@@ -1,5 +1,4 @@
-Phoma phyllanthi Tassi SPECIES
-=======
+# Phoma phyllanthi Tassi SPECIES
 
 #### Status
 ACCEPTED

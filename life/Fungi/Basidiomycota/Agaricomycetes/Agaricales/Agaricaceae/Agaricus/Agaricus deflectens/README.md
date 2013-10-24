@@ -1,5 +1,4 @@
-Agaricus deflectens Britzelm. SPECIES
-=======
+# Agaricus deflectens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

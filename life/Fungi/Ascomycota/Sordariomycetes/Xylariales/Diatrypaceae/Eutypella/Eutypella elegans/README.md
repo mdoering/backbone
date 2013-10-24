@@ -1,5 +1,4 @@
-Eutypella elegans Niessl SPECIES
-=======
+# Eutypella elegans Niessl SPECIES
 
 #### Status
 ACCEPTED

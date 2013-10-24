@@ -1,17 +1,16 @@
-Naucoria erinaceus f. bispora Kühner FORM
-=======
+# Phaeomarasmius erinaceus (Fr.) Scherff. ex Romagn., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 2(5): 195 (1937)
 
 #### Original name
-null
+Agaricus erinaceus Fr., 1828
 
 ### Remarks
 null

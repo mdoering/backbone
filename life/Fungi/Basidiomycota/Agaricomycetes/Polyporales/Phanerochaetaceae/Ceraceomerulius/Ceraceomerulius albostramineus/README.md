@@ -1,5 +1,4 @@
-Ceraceomerulius albostramineus (Torrend) Ginns SPECIES
-=======
+# Ceraceomerulius albostramineus (Torrend) Ginns SPECIES
 
 #### Status
 ACCEPTED

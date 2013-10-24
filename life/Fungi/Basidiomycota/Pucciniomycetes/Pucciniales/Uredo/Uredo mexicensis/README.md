@@ -1,5 +1,4 @@
-Uredo mexicensis Cummins SPECIES
-=======
+# Uredo mexicensis Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symbiomonas Guillou & Chrétiennot-Dinet, 1999 GENUS
-=======
+# Symbiomonas Guillou & Chrétiennot-Dinet, 1999 GENUS
 
 #### Status
 ACCEPTED

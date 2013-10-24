@@ -1,5 +1,4 @@
-Boletus amarellus Quél. SPECIES
-=======
+# Boletus amarellus Quél. SPECIES
 
 #### Status
 ACCEPTED

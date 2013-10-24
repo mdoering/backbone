@@ -1,5 +1,4 @@
-Millerozyma GENUS
-=======
+# Millerozyma GENUS
 
 #### Status
 ACCEPTED

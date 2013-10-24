@@ -1,5 +1,4 @@
-Phacus inconspicuus Deflandre SPECIES
-=======
+# Phacus inconspicuus Deflandre SPECIES
 
 #### Status
 ACCEPTED

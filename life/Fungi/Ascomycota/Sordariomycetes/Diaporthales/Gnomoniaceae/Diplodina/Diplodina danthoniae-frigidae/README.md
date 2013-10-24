@@ -1,5 +1,4 @@
-Diplodina danthoniae-frigidae Petr. SPECIES
-=======
+# Diplodina danthoniae-frigidae Petr. SPECIES
 
 #### Status
 ACCEPTED

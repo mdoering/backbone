@@ -1,5 +1,4 @@
-Parasterina schlechteriana (Syd.) Toro SPECIES
-=======
+# Parasterina schlechteriana (Syd.) Toro SPECIES
 
 #### Status
 ACCEPTED

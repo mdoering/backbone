@@ -1,5 +1,4 @@
-Dennisiomyces Singer GENUS
-=======
+# Dennisiomyces Singer GENUS
 
 #### Status
 ACCEPTED

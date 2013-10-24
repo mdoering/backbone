@@ -1,5 +1,4 @@
-Uromyces statices-mucronatae Malençon SPECIES
-=======
+# Uromyces statices-mucronatae Malençon SPECIES
 
 #### Status
 ACCEPTED

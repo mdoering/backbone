@@ -1,5 +1,4 @@
-Protoleiosphaeridium flavidum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium flavidum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

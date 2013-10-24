@@ -1,5 +1,4 @@
-Caloplaca obliquans (Nyl.) SPECIES
-=======
+# Caloplaca obliquans (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

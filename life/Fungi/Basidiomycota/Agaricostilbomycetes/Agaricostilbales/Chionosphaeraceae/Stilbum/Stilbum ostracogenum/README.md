@@ -1,5 +1,4 @@
-Stilbum ostracogenum Corda SPECIES
-=======
+# Stilbum ostracogenum Corda SPECIES
 
 #### Status
 ACCEPTED

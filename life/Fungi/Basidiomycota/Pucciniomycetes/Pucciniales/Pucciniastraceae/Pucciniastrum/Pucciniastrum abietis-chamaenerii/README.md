@@ -1,5 +1,4 @@
-Pucciniastrum abietis-chamaenerii Kleb. SPECIES
-=======
+# Pucciniastrum abietis-chamaenerii Kleb. SPECIES
 
 #### Status
 ACCEPTED

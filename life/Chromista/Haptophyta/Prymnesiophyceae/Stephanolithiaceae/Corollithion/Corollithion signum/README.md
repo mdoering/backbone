@@ -1,5 +1,4 @@
-Corollithion signum Stradner, 1963 SPECIES
-=======
+# Corollithion signum Stradner, 1963 SPECIES
 
 #### Status
 ACCEPTED

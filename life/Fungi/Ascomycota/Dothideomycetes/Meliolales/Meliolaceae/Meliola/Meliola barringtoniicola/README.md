@@ -1,5 +1,4 @@
-Meliola barringtoniicola F. Stevens & Roldan SPECIES
-=======
+# Meliola barringtoniicola F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

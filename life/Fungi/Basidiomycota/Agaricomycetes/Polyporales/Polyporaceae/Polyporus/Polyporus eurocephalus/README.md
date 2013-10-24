@@ -1,5 +1,4 @@
-Polyporus eurocephalus Berk. & Broome SPECIES
-=======
+# Polyporus eurocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

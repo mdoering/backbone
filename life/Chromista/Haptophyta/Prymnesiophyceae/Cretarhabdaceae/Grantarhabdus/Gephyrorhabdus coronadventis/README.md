@@ -1,8 +1,7 @@
-Cretarhabdus unicornis Stover, 1966 SPECIES
-=======
+# Gephyrorhabdus coronadventis (Reinhardt, 1966) Hill, 1976 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Phlyctella peregena Nyl. SPECIES
-=======
+# Phlyctella peregena Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella washingtoniae (Rehm) Sacc. SPECIES
-=======
+# Sphaerella washingtoniae (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

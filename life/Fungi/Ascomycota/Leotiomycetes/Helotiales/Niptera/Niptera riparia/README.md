@@ -1,5 +1,4 @@
-Niptera riparia Sacc. SPECIES
-=======
+# Niptera riparia Sacc. SPECIES
 
 #### Status
 ACCEPTED

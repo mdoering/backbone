@@ -1,5 +1,4 @@
-Endoscrinium galeritum (Deflandre, 1938) Vozzhennikova, 1967 SPECIES
-=======
+# Endoscrinium galeritum (Deflandre, 1938) Vozzhennikova, 1967 SPECIES
 
 #### Status
 ACCEPTED

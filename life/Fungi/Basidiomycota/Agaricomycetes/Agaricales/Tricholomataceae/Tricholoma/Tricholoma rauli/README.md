@@ -1,5 +1,4 @@
-Tricholoma rauli Garrido SPECIES
-=======
+# Tricholoma rauli Garrido SPECIES
 
 #### Status
 ACCEPTED

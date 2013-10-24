@@ -1,5 +1,4 @@
-Phragmocephala minima E.W. Mason & S. Hughes SPECIES
-=======
+# Phragmocephala minima E.W. Mason & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

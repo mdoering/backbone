@@ -1,5 +1,4 @@
-Uredo aphelandrae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo aphelandrae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira rudolfi SPECIES
-=======
+# Thalassiosira rudolfi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophium intricatum P. Karst. SPECIES
-=======
+# Lophium intricatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

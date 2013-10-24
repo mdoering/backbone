@@ -1,5 +1,4 @@
-Hyponectria embeliae Petch SPECIES
-=======
+# Hyponectria embeliae Petch SPECIES
 
 #### Status
 ACCEPTED

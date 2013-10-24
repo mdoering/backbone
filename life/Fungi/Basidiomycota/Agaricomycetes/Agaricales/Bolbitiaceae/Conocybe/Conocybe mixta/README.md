@@ -1,5 +1,4 @@
-Conocybe mixta Watling SPECIES
-=======
+# Conocybe mixta Watling SPECIES
 
 #### Status
 ACCEPTED

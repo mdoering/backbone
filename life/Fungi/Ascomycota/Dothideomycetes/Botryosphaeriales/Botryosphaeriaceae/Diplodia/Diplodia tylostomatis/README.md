@@ -1,5 +1,4 @@
-Diplodia tylostomatis Pat. SPECIES
-=======
+# Diplodia tylostomatis Pat. SPECIES
 
 #### Status
 ACCEPTED

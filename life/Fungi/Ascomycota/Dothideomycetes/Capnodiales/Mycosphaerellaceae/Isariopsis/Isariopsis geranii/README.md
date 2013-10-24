@@ -1,5 +1,4 @@
-Isariopsis geranii Savul. & Sandu SPECIES
-=======
+# Isariopsis geranii Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

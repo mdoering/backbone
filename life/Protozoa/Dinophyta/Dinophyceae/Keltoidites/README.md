@@ -1,5 +1,4 @@
-Keltoidites Krutzsch & Pacltova, 1991 GENUS
-=======
+# Keltoidites Krutzsch & Pacltova, 1991 GENUS
 
 #### Status
 ACCEPTED

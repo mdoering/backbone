@@ -1,5 +1,4 @@
-Hexasaturnalis hexagonus SPECIES
-=======
+# Hexasaturnalis hexagonus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria carpophila Sacc. & Roum. SPECIES
-=======
+# Septoria carpophila Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

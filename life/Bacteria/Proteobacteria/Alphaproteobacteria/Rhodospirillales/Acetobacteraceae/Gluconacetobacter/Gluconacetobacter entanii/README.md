@@ -1,5 +1,4 @@
-Gluconacetobacter entanii Schüller et al., 2000 SPECIES
-=======
+# Gluconacetobacter entanii Schüller et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

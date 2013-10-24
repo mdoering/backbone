@@ -1,5 +1,4 @@
-Rhizopus candidus M. Yamaz. SPECIES
-=======
+# Rhizopus candidus M. Yamaz. SPECIES
 
 #### Status
 ACCEPTED

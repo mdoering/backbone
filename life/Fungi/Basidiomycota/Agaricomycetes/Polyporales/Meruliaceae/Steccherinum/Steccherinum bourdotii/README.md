@@ -1,14 +1,13 @@
-Irpex bourdotii (Saliba & A. David) Kotir. & Saaren., 2002 SPECIES
-=======
+# Steccherinum bourdotii Saliba & A. David, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Polish Botanical Journal 47(2): 104 (2002)
+Cryptog. Mycol. 9(2): 100 (1988)
 
 #### Original name
 Steccherinum bourdotii Saliba & A. David, 1988

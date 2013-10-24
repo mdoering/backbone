@@ -1,5 +1,4 @@
-Tubercularia minutispora Höhn. SPECIES
-=======
+# Tubercularia minutispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

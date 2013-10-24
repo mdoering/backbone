@@ -1,14 +1,13 @@
-Cladobotryum ovalisporum Petch, 1932 SPECIES
-=======
+# Calcarisporium ovalisporum (Petch) de Hoog, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 16: 233 (1931)
+Persoonia 10(1): 77 (1978)
 
 #### Original name
 Cladobotryum ovalisporum Petch, 1932

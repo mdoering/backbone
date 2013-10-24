@@ -1,5 +1,4 @@
-Basidiobolus myxophilus R.E. Fr. SPECIES
-=======
+# Basidiobolus myxophilus R.E. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria linguiformis Cain SPECIES
-=======
+# Sordaria linguiformis Cain SPECIES
 
 #### Status
 ACCEPTED

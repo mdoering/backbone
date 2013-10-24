@@ -1,5 +1,4 @@
-Synedra nana F. Meister SPECIES
-=======
+# Synedra nana F. Meister SPECIES
 
 #### Status
 ACCEPTED

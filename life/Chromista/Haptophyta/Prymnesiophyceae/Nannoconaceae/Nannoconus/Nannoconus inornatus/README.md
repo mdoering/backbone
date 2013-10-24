@@ -1,5 +1,4 @@
-Nannoconus inornatus SPECIES
-=======
+# Nannoconus inornatus SPECIES
 
 #### Status
 ACCEPTED

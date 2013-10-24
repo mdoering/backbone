@@ -1,5 +1,4 @@
-Coprinus hirtellus Fr. SPECIES
-=======
+# Coprinus hirtellus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella thysselini (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella thysselini (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

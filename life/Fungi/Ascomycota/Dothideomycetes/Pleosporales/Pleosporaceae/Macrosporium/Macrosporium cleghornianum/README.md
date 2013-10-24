@@ -1,5 +1,4 @@
-Macrosporium cleghornianum Sacc. SPECIES
-=======
+# Macrosporium cleghornianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium epicarpium McAlpine SPECIES
-=======
+# Macrosporium epicarpium McAlpine SPECIES
 
 #### Status
 ACCEPTED

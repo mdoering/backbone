@@ -1,5 +1,4 @@
-Protoinsolentitheca Vachardi & Cozari, 2004 GENUS
-=======
+# Protoinsolentitheca Vachardi & Cozari, 2004 GENUS
 
 #### Status
 ACCEPTED

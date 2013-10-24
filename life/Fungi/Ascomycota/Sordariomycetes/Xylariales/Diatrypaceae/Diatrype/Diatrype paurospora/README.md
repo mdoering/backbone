@@ -1,5 +1,4 @@
-Diatrype paurospora Sacc. SPECIES
-=======
+# Diatrype paurospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

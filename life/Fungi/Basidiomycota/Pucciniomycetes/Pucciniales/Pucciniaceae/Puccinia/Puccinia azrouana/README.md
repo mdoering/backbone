@@ -1,5 +1,4 @@
-Puccinia azrouana Guyot & Malençon SPECIES
-=======
+# Puccinia azrouana Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED

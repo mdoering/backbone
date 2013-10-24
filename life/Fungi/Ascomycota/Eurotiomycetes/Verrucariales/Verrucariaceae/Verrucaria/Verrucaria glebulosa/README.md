@@ -1,5 +1,4 @@
-Verrucaria glebulosa Nyl. SPECIES
-=======
+# Verrucaria glebulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

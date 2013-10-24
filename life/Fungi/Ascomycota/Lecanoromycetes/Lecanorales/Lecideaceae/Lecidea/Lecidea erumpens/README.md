@@ -1,5 +1,4 @@
-Lecidea erumpens Müll. Arg. SPECIES
-=======
+# Lecidea erumpens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

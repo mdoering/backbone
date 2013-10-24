@@ -1,5 +1,4 @@
-Collybia flagellipes Fr. SPECIES
-=======
+# Collybia flagellipes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echidnodella guatemalensis Bat., Nascim. & Peres SPECIES
-=======
+# Echidnodella guatemalensis Bat., Nascim. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila caespitosa anon. SPECIES
-=======
+# Drosophila caespitosa anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanocapsa biformis A. Braun SPECIES
-=======
+# Aphanocapsa biformis A. Braun SPECIES
 
 #### Status
 ACCEPTED

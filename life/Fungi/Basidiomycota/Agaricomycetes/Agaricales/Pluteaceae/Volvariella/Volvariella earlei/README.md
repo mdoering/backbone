@@ -1,5 +1,4 @@
-Volvariella earlei (Murrill) Shaffer SPECIES
-=======
+# Volvariella earlei (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

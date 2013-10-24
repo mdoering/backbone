@@ -1,5 +1,4 @@
-Trematosphaeria mammiformis (Pat.) Teng SPECIES
-=======
+# Trematosphaeria mammiformis (Pat.) Teng SPECIES
 
 #### Status
 ACCEPTED

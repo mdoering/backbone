@@ -1,5 +1,4 @@
-Asterina platystoma Cooke & Massee SPECIES
-=======
+# Asterina platystoma Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

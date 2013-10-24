@@ -1,5 +1,4 @@
-Gymnopilus viridans Murrill SPECIES
-=======
+# Gymnopilus viridans Murrill SPECIES
 
 #### Status
 ACCEPTED

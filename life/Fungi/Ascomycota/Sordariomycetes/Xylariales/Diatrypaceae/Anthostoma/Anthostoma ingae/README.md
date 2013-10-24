@@ -1,5 +1,4 @@
-Anthostoma ingae A.K. Kar & Maity SPECIES
-=======
+# Anthostoma ingae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

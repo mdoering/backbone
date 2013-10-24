@@ -1,14 +1,13 @@
-Placodium scopulare (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca scopularis (Nyl.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 96 (1909)
+Hedwigia 52: 242 (1912)
 
 #### Original name
 Lecanora scopularis Nyl.

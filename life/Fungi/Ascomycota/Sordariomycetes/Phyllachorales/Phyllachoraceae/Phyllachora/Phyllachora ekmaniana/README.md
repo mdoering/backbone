@@ -1,5 +1,4 @@
-Phyllachora ekmaniana Petr. & Cif., 1930 SPECIES
-=======
+# Phyllachora ekmaniana Petr. & Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

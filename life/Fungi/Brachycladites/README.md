@@ -1,5 +1,4 @@
-Brachycladites GENUS
-=======
+# Brachycladites GENUS
 
 #### Status
 ACCEPTED

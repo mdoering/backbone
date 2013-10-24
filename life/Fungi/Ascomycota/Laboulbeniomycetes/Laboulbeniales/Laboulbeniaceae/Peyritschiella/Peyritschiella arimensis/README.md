@@ -1,5 +1,4 @@
-Peyritschiella arimensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella arimensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe cinnabarina Hruby SPECIES
-=======
+# Inocybe cinnabarina Hruby SPECIES
 
 #### Status
 ACCEPTED

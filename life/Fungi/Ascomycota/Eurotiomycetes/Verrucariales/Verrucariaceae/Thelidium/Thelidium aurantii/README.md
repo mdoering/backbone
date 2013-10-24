@@ -1,5 +1,4 @@
-Thelidium aurantii Mont. SPECIES
-=======
+# Thelidium aurantii Mont. SPECIES
 
 #### Status
 ACCEPTED

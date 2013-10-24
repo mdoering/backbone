@@ -1,5 +1,4 @@
-Mycoplasma hyopneumoniae Mare and Switzer, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma hyopneumoniae Mare and Switzer, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

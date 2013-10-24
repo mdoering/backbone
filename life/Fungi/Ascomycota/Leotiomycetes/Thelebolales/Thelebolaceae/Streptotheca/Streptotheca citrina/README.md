@@ -1,5 +1,4 @@
-Streptotheca citrina (P. Crouan & H. Crouan) Le Gal SPECIES
-=======
+# Streptotheca citrina (P. Crouan & H. Crouan) Le Gal SPECIES
 
 #### Status
 ACCEPTED

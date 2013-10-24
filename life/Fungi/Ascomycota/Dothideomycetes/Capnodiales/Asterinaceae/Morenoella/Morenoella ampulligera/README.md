@@ -1,5 +1,4 @@
-Morenoella ampulligera Speg. SPECIES
-=======
+# Morenoella ampulligera Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracoccus versutus (Harrison, 1983) Katayama et al., 1996 SPECIES
-=======
+# Paracoccus versutus (Harrison, 1983) Katayama et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

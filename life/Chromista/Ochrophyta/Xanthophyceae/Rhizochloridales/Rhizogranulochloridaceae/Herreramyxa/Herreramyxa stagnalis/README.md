@@ -1,5 +1,4 @@
-Herreramyxa stagnalis B.V. Skvortzov SPECIES
-=======
+# Herreramyxa stagnalis B.V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

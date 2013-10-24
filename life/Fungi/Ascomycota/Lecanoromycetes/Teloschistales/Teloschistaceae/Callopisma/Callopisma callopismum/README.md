@@ -1,5 +1,4 @@
-Callopisma callopismum (Ach.) Boistel SPECIES
-=======
+# Callopisma callopismum (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

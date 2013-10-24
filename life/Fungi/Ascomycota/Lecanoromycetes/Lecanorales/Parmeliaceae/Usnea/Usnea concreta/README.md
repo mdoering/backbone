@@ -1,5 +1,4 @@
-Usnea concreta Mont. SPECIES
-=======
+# Usnea concreta Mont. SPECIES
 
 #### Status
 ACCEPTED

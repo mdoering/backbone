@@ -1,5 +1,4 @@
-Graphis setschwanensis SPECIES
-=======
+# Graphis setschwanensis SPECIES
 
 #### Status
 ACCEPTED

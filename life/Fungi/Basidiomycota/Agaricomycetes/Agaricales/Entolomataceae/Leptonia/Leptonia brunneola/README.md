@@ -1,5 +1,4 @@
-Leptonia brunneola S. Ito & S. Imai SPECIES
-=======
+# Leptonia brunneola S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

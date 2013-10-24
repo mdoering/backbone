@@ -1,5 +1,4 @@
-Hebeloma majale Velen. SPECIES
-=======
+# Hebeloma majale Velen. SPECIES
 
 #### Status
 ACCEPTED

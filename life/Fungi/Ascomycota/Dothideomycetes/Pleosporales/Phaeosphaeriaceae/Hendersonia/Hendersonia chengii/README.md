@@ -1,5 +1,4 @@
-Hendersonia chengii Gucevic SPECIES
-=======
+# Hendersonia chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

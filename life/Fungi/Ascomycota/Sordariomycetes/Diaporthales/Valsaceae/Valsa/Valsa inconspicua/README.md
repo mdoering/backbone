@@ -1,5 +1,4 @@
-Valsa inconspicua Cooke & Ellis SPECIES
-=======
+# Valsa inconspicua Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca lewis-smithii Søchting & Øvstedal SPECIES
-=======
+# Caloplaca lewis-smithii Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

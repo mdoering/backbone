@@ -1,5 +1,4 @@
-Verrucaria umbilicata Hoffm. SPECIES
-=======
+# Verrucaria umbilicata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

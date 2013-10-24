@@ -1,5 +1,4 @@
-Rhizophydium pseudodistomum Skvortsov SPECIES
-=======
+# Rhizophydium pseudodistomum Skvortsov SPECIES
 
 #### Status
 ACCEPTED

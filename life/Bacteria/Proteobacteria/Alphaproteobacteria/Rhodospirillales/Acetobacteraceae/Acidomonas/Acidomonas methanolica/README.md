@@ -1,8 +1,7 @@
-Acetobacter methanolicus Uhlig et al., 1986 SPECIES
-=======
+# Acidomonas methanolica (Uhlig et al., 1986) Urakami et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

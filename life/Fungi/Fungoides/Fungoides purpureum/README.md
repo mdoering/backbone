@@ -1,5 +1,4 @@
-Fungoides purpureum Plum. {?} SPECIES
-=======
+# Fungoides purpureum Plum. {?} SPECIES
 
 #### Status
 ACCEPTED

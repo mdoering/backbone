@@ -1,5 +1,4 @@
-Sporidesmium filisporum Matsush. SPECIES
-=======
+# Sporidesmium filisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

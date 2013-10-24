@@ -1,5 +1,4 @@
-Trogia ochrophylla Corner SPECIES
-=======
+# Trogia ochrophylla Corner SPECIES
 
 #### Status
 ACCEPTED

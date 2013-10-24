@@ -1,17 +1,16 @@
-Uredo asclepiadis-fruticosi Doidge SPECIES
-=======
+# Uredo asclepiadis-fruticosae Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 2(1a): 192 (1926)
 
 #### Original name
-Uredo asclepiadis-fruticosi Doidge
+Uredo asclepiadis-fruticosae Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bubakia crotonis Arthur SPECIES
-=======
+# Bubakia crotonis Arthur SPECIES
 
 #### Status
 ACCEPTED

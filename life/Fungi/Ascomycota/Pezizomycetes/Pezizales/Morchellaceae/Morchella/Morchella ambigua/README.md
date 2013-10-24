@@ -1,5 +1,4 @@
-Morchella ambigua Pers. SPECIES
-=======
+# Morchella ambigua Pers. SPECIES
 
 #### Status
 ACCEPTED

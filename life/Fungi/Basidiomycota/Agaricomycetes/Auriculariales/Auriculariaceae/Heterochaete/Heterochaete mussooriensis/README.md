@@ -1,5 +1,4 @@
-Heterochaete mussooriensis Bodman SPECIES
-=======
+# Heterochaete mussooriensis Bodman SPECIES
 
 #### Status
 ACCEPTED

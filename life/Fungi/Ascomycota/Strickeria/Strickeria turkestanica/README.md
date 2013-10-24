@@ -1,5 +1,4 @@
-Strickeria turkestanica Kravtzev SPECIES
-=======
+# Strickeria turkestanica Kravtzev SPECIES
 
 #### Status
 ACCEPTED

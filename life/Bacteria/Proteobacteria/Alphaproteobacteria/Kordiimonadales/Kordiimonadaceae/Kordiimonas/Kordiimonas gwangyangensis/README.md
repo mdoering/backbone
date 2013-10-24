@@ -1,5 +1,4 @@
-Kordiimonas gwangyangensis Kwon et al., 2005 SPECIES
-=======
+# Kordiimonas gwangyangensis Kwon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalcia fascipennis GV SPECIES
-=======
+# Cephalcia fascipennis GV SPECIES
 
 #### Status
 ACCEPTED

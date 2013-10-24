@@ -1,5 +1,4 @@
-Strigula actinoplacoides Vain. SPECIES
-=======
+# Strigula actinoplacoides Vain. SPECIES
 
 #### Status
 ACCEPTED

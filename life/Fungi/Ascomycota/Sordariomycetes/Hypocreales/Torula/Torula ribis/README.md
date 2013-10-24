@@ -1,5 +1,4 @@
-Torula ribis R.E. Ludw. SPECIES
-=======
+# Torula ribis R.E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

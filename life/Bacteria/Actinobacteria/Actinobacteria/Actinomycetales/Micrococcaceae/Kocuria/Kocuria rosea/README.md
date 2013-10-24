@@ -1,8 +1,7 @@
-Micrococcus roseus Flügge, 1886 (Approved Lists, 1980) SPECIES
-=======
+# Kocuria rosea (Flügge, 1886) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stappia Uchino, Hirata, Yokota & Sugiyama, 1999 GENUS
-=======
+# Stappia Uchino, Hirata, Yokota & Sugiyama, 1999 GENUS
 
 #### Status
 ACCEPTED

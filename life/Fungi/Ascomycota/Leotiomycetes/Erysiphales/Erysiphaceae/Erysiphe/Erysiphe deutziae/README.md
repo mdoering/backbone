@@ -1,5 +1,4 @@
-Erysiphe deutziae (Bunkina) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe deutziae (Bunkina) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

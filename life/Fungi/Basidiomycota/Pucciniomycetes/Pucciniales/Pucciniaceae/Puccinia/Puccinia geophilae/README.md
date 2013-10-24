@@ -1,5 +1,4 @@
-Puccinia geophilae (Henn.) Racib. SPECIES
-=======
+# Puccinia geophilae (Henn.) Racib. SPECIES
 
 #### Status
 ACCEPTED

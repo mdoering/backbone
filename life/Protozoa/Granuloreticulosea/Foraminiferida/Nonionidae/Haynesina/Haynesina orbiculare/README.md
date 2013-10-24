@@ -1,8 +1,7 @@
-Nonionina orbicularis Brady, 1881 SPECIES
-=======
+# Haynesina orbiculare (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

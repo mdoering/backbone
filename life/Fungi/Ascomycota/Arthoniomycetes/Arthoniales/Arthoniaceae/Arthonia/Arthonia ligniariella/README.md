@@ -1,5 +1,4 @@
-Arthonia ligniariella Coppins SPECIES
-=======
+# Arthonia ligniariella Coppins SPECIES
 
 #### Status
 ACCEPTED

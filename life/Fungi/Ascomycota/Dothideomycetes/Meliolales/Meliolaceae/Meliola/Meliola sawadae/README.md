@@ -1,5 +1,4 @@
-Meliola sawadae B. Song SPECIES
-=======
+# Meliola sawadae B. Song SPECIES
 
 #### Status
 ACCEPTED

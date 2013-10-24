@@ -1,17 +1,16 @@
-Puccinia mikania-micranthae Viégas SPECIES
-=======
+# Puccinia mikaniae-micranthae Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bragantia 5(1): 37 (1945)
 
 #### Original name
-Puccinia mikania-micranthae Viégas
+Puccinia mikaniae-micranthae Viégas
 
 ### Remarks
 null

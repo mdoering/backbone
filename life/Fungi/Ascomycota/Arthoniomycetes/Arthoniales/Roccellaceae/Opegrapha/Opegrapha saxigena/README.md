@@ -1,17 +1,16 @@
-Opegrapha xanthodes Nyl. SPECIES
-=======
+# Opegrapha saxigena Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 61: 245 (1878)
+in Mackay, Ann. Mag. nat. Hist. , Ser. 2 13: 93 (1854)
 
 #### Original name
-Opegrapha xanthodes Nyl.
+Opegrapha saxigena Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterina undulata Doidge SPECIES
-=======
+# Asterina undulata Doidge SPECIES
 
 #### Status
 ACCEPTED

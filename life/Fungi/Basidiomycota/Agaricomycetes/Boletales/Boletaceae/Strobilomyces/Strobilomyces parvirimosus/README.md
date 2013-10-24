@@ -1,5 +1,4 @@
-Strobilomyces parvirimosus J.Z. Ying SPECIES
-=======
+# Strobilomyces parvirimosus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha sordida SPECIES
-=======
+# Oxytricha sordida SPECIES
 
 #### Status
 ACCEPTED

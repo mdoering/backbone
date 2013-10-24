@@ -1,5 +1,4 @@
-Melanconis carpinigera (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Melanconis carpinigera (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

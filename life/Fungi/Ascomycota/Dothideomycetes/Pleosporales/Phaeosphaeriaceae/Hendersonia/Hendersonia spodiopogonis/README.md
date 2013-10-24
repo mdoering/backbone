@@ -1,5 +1,4 @@
-Hendersonia spodiopogonis Bubák SPECIES
-=======
+# Hendersonia spodiopogonis Bubák SPECIES
 
 #### Status
 ACCEPTED

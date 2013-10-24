@@ -1,5 +1,4 @@
-Valvalabamina Reiss, 1963 GENUS
-=======
+# Valvalabamina Reiss, 1963 GENUS
 
 #### Status
 ACCEPTED

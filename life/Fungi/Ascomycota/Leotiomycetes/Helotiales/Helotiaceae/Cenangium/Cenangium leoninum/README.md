@@ -1,5 +1,4 @@
-Cenangium leoninum Cooke & Massee, 1893 SPECIES
-=======
+# Cenangium leoninum Cooke & Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED

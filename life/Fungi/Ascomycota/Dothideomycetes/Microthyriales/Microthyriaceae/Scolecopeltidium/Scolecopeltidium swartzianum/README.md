@@ -1,5 +1,4 @@
-Scolecopeltidium swartzianum Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium swartzianum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

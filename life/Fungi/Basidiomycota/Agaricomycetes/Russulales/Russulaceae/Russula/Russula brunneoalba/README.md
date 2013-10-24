@@ -1,5 +1,4 @@
-Russula brunneoalba Shaffer SPECIES
-=======
+# Russula brunneoalba Shaffer SPECIES
 
 #### Status
 ACCEPTED

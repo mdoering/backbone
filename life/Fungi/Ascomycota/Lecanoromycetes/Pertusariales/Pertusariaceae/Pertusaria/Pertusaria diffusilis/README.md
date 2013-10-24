@@ -1,5 +1,4 @@
-Pertusaria diffusilis Erichsen SPECIES
-=======
+# Pertusaria diffusilis Erichsen SPECIES
 
 #### Status
 ACCEPTED

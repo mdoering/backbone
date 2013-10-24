@@ -1,5 +1,4 @@
-Peltidea ulorrhiza Flörke SPECIES
-=======
+# Peltidea ulorrhiza Flörke SPECIES
 
 #### Status
 ACCEPTED

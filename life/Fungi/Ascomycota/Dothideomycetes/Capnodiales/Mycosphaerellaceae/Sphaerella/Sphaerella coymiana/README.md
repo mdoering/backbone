@@ -1,5 +1,4 @@
-Sphaerella coymiana (Jaap) Sacc. SPECIES
-=======
+# Sphaerella coymiana (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

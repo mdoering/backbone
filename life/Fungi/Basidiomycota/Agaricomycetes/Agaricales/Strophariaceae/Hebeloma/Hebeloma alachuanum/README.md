@@ -1,5 +1,4 @@
-Hebeloma alachuanum Murrill SPECIES
-=======
+# Hebeloma alachuanum Murrill SPECIES
 
 #### Status
 ACCEPTED

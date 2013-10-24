@@ -1,17 +1,16 @@
-Plicaria muralis f. muralis FORM
-=======
+# Peziza cerea Sowerby, 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. 1: pl. 3 (1796)
 
 #### Original name
-Plicaria muralis f. muralis
+Peziza cerea Sowerby, 1796
 
 ### Remarks
 null

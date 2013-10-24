@@ -1,5 +1,4 @@
-Arthonia lirellaeformis C. Knight SPECIES
-=======
+# Arthonia lirellaeformis C. Knight SPECIES
 
 #### Status
 ACCEPTED

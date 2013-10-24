@@ -1,5 +1,4 @@
-Lichen hysginus (Wahlenb.) Wahlenb. SPECIES
-=======
+# Lichen hysginus (Wahlenb.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

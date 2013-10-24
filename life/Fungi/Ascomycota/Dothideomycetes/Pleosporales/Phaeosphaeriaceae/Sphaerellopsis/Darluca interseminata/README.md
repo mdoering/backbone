@@ -1,5 +1,4 @@
-Darluca interseminata G. Winter SPECIES
-=======
+# Darluca interseminata G. Winter SPECIES
 
 #### Status
 ACCEPTED

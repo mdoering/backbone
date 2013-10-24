@@ -1,5 +1,4 @@
-Asteridiella aracearum (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella aracearum (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

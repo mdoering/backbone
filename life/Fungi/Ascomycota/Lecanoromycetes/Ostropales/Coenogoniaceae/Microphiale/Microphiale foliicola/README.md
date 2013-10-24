@@ -1,5 +1,4 @@
-Microphiale foliicola (Kremp.) Zahlbr. SPECIES
-=======
+# Microphiale foliicola (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

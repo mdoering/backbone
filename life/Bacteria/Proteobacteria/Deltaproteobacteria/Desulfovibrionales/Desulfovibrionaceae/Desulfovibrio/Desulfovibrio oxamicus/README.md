@@ -1,8 +1,7 @@
-Desulfovibrio vulgaris subsp. oxamicus SUBSPECIES
-=======
+# Desulfovibrio oxamicus (Postgate & Campbell, 1966) López-Cortés et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

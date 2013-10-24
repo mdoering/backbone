@@ -1,5 +1,4 @@
-Pestalotia callunae Ces. SPECIES
-=======
+# Pestalotia callunae Ces. SPECIES
 
 #### Status
 ACCEPTED

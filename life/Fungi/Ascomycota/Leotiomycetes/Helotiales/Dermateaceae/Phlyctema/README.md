@@ -1,17 +1,16 @@
-Phlyctaena Desm. GENUS
-=======
+# Phlyctema Desmazières, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Phlyctaena Desm.
+null
 
 ### Remarks
 null

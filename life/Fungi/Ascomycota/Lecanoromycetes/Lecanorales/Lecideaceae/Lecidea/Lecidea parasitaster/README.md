@@ -1,5 +1,4 @@
-Lecidea parasitaster Nyl. SPECIES
-=======
+# Lecidea parasitaster Nyl. SPECIES
 
 #### Status
 ACCEPTED

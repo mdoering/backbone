@@ -1,5 +1,4 @@
-Uvigerina pygmaea d’Orbigny, 1826 SPECIES
-=======
+# Uvigerina pygmaea d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

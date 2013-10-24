@@ -1,5 +1,4 @@
-Gloeosporium lunatum Ellis & Everh. SPECIES
-=======
+# Gloeosporium lunatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

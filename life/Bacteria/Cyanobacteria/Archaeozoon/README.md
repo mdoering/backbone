@@ -1,5 +1,4 @@
-Archaeozoon G.F. Matthew, 1890 GENUS
-=======
+# Archaeozoon G.F. Matthew, 1890 GENUS
 
 #### Status
 ACCEPTED

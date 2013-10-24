@@ -1,5 +1,4 @@
-Araiospora streptandra var. streptandra Kevorkian, 1934 VARIETY
-=======
+# Araiospora streptandra Kevorkian, 1934 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 26: 151 (1934)
+null
 
 #### Original name
-Araiospora streptandra var. streptandra Kevorkian, 1934
+null
 
 ### Remarks
 null

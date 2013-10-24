@@ -1,5 +1,4 @@
-Mycomicrothelia pachnea (Körb.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia pachnea (Körb.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

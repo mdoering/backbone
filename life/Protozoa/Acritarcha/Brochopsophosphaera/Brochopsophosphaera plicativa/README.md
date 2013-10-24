@@ -1,5 +1,4 @@
-Brochopsophosphaera plicativa Shepeleva, 1963 SPECIES
-=======
+# Brochopsophosphaera plicativa Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

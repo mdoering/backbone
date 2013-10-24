@@ -1,5 +1,4 @@
-Puccinia podospermi DC., 1805 SPECIES
-=======
+# Puccinia podospermi DC., 1805 SPECIES
 
 #### Status
 ACCEPTED

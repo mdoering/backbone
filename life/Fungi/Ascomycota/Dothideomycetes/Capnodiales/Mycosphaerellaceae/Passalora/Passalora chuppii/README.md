@@ -1,5 +1,4 @@
-Passalora chuppii (Viégas) U. Braun & Crous SPECIES
-=======
+# Passalora chuppii (Viégas) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

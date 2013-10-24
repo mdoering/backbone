@@ -1,17 +1,16 @@
-Trichotheciopsis J.M. Yen GENUS
-=======
+# Trichothecium Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 95: 75 (1979)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 18 (1809)
 
 #### Original name
-Trichotheciopsis J.M. Yen
+Trichothecium Link
 
 ### Remarks
 null

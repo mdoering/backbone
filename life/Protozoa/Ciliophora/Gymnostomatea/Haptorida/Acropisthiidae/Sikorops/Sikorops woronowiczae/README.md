@@ -1,5 +1,4 @@
-Sikorops woronowiczae Foissner, 1999 SPECIES
-=======
+# Sikorops woronowiczae Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

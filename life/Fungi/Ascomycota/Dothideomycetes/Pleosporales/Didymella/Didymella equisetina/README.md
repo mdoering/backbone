@@ -1,5 +1,4 @@
-Didymella equisetina (Syd.) Petr. SPECIES
-=======
+# Didymella equisetina (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremoniella guttulata Jasevoli SPECIES
-=======
+# Acremoniella guttulata Jasevoli SPECIES
 
 #### Status
 ACCEPTED

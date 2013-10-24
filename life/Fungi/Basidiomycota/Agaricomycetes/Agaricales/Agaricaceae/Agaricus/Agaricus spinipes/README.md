@@ -1,5 +1,4 @@
-Agaricus spinipes Sowerby SPECIES
-=======
+# Agaricus spinipes Sowerby SPECIES
 
 #### Status
 ACCEPTED

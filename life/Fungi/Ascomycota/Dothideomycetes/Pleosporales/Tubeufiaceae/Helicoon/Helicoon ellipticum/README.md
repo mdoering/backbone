@@ -1,5 +1,4 @@
-Helicoon ellipticum (Peck) Morgan, 1892 SPECIES
-=======
+# Helicoon ellipticum (Peck) Morgan, 1892 SPECIES
 
 #### Status
 ACCEPTED

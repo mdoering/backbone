@@ -1,5 +1,4 @@
-Crocicreas bicolor (Starbäck) S.E. Carp. SPECIES
-=======
+# Crocicreas bicolor (Starbäck) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

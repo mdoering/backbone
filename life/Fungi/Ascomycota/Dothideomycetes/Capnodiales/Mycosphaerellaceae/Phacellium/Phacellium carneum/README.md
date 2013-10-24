@@ -1,14 +1,13 @@
-Isariopsis carnea Oudem., 1873 SPECIES
-=======
+# Phacellium carneum (Oudem.) U. Braun, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ned. kruidk. Archf 1: 262 (1873)
+Nova Hedwigia 50(3-4): 509 (1990)
 
 #### Original name
 Isariopsis carnea Oudem., 1873

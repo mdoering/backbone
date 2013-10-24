@@ -1,5 +1,4 @@
-Ciboria acerina Whetzel & N.F. Buchw. ex J.W. Groves & M.E. Elliott, 1961 SPECIES
-=======
+# Ciboria acerina Whetzel & N.F. Buchw. ex J.W. Groves & M.E. Elliott, 1961 SPECIES
 
 #### Status
 ACCEPTED

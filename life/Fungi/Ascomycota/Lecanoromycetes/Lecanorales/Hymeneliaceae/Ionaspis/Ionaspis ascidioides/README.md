@@ -1,5 +1,4 @@
-Ionaspis ascidioides C.W. Dodge SPECIES
-=======
+# Ionaspis ascidioides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

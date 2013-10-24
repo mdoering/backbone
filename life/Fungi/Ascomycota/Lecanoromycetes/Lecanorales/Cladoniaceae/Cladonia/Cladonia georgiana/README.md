@@ -1,5 +1,4 @@
-Cladonia georgiana Tuck. ex Nyl. SPECIES
-=======
+# Cladonia georgiana Tuck. ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

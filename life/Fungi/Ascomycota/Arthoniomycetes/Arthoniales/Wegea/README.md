@@ -1,5 +1,4 @@
-Wegea Aptroot & Tibell GENUS
-=======
+# Wegea Aptroot & Tibell GENUS
 
 #### Status
 ACCEPTED

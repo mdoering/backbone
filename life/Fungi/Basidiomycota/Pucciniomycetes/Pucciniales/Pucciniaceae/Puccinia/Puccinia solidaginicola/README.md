@@ -1,5 +1,4 @@
-Puccinia solidaginicola Speg. SPECIES
-=======
+# Puccinia solidaginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombyliospora lamii Groenh. SPECIES
-=======
+# Bombyliospora lamii Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pennella simulii M.C. Williams & Lichtw., 1971 SPECIES
-=======
+# Pennella simulii M.C. Williams & Lichtw., 1971 SPECIES
 
 #### Status
 ACCEPTED

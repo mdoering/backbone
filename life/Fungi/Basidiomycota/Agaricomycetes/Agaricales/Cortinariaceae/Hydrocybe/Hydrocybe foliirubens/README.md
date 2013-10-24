@@ -1,5 +1,4 @@
-Hydrocybe foliirubens Murrill SPECIES
-=======
+# Hydrocybe foliirubens Murrill SPECIES
 
 #### Status
 ACCEPTED

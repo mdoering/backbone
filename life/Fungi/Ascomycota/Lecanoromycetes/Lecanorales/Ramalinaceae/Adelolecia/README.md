@@ -1,5 +1,4 @@
-Adelolecia Hertel & Hafellner GENUS
-=======
+# Adelolecia Hertel & Hafellner GENUS
 
 #### Status
 ACCEPTED

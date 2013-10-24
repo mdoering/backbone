@@ -1,5 +1,4 @@
-Physconia kurokawae Kashiw. SPECIES
-=======
+# Physconia kurokawae Kashiw. SPECIES
 
 #### Status
 ACCEPTED

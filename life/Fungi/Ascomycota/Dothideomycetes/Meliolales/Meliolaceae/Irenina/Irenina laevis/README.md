@@ -1,5 +1,4 @@
-Irenina laevis (Berk. & M.A. Curtis) F. Stevens SPECIES
-=======
+# Irenina laevis (Berk. & M.A. Curtis) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

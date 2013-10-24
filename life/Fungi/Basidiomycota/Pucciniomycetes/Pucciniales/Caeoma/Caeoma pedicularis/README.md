@@ -1,5 +1,4 @@
-Caeoma pedicularis Schltdl. SPECIES
-=======
+# Caeoma pedicularis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

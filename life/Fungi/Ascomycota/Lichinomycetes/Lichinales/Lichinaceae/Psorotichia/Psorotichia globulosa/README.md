@@ -1,5 +1,4 @@
-Psorotichia globulosa A. Massal. SPECIES
-=======
+# Psorotichia globulosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

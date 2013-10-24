@@ -1,5 +1,4 @@
-Xerocomus erubescens Cadiñanos & Bandala SPECIES
-=======
+# Xerocomus erubescens Cadiñanos & Bandala SPECIES
 
 #### Status
 ACCEPTED

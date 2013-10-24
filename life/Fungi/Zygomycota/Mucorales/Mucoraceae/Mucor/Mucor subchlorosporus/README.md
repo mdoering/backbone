@@ -1,5 +1,4 @@
-Mucor subchlorosporus Naumov SPECIES
-=======
+# Mucor subchlorosporus Naumov SPECIES
 
 #### Status
 ACCEPTED

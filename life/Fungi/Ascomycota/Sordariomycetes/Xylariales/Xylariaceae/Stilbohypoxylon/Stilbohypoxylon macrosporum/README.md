@@ -1,5 +1,4 @@
-Stilbohypoxylon macrosporum Hladki & A.I. Romero, 2003 SPECIES
-=======
+# Stilbohypoxylon macrosporum Hladki & A.I. Romero, 2003 SPECIES
 
 #### Status
 ACCEPTED

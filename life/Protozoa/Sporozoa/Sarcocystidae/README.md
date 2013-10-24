@@ -1,5 +1,4 @@
-Sarcocystidae FAMILY
-=======
+# Sarcocystidae FAMILY
 
 #### Status
 ACCEPTED

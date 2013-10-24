@@ -1,5 +1,4 @@
-Sporisorium coelorachidis Vánky SPECIES
-=======
+# Sporisorium coelorachidis Vánky SPECIES
 
 #### Status
 ACCEPTED

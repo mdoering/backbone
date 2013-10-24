@@ -1,5 +1,4 @@
-Squamaria demissa (Flot.) Verseghy SPECIES
-=======
+# Squamaria demissa (Flot.) Verseghy SPECIES
 
 #### Status
 ACCEPTED

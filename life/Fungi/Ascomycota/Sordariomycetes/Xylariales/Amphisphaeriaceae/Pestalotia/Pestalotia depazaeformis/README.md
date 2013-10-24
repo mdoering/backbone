@@ -1,5 +1,4 @@
-Pestalotia depazaeformis Auersw. SPECIES
-=======
+# Pestalotia depazaeformis Auersw. SPECIES
 
 #### Status
 ACCEPTED

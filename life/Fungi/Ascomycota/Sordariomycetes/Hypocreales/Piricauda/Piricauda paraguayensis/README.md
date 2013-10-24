@@ -1,5 +1,4 @@
-Piricauda paraguayensis (Speg.) R.T. Moore SPECIES
-=======
+# Piricauda paraguayensis (Speg.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

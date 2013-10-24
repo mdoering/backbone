@@ -1,8 +1,7 @@
-Dileptus acutus Dumas, 1929 SPECIES
-=======
+# Acropisthium mutabile Perty, 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

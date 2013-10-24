@@ -1,5 +1,4 @@
-Ascochyta bulgarica Bubák & Picb. SPECIES
-=======
+# Ascochyta bulgarica Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

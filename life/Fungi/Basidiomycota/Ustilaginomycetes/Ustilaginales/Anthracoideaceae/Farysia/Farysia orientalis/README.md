@@ -1,5 +1,4 @@
-Farysia orientalis L. Ling SPECIES
-=======
+# Farysia orientalis L. Ling SPECIES
 
 #### Status
 ACCEPTED

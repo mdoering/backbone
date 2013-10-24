@@ -1,17 +1,16 @@
-Melanoleuca politoinaequalipes (Beguet) Bon SPECIES
-=======
+# Melanoleuca polito-inaequalipes Beguet ex Traverso & Zotti, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Traverso & Zotti, Bulletin Semestriel de la Fédération des Associations Mycologiques Méditerranéennes 22: 32 (2002)
 
 #### Original name
-Melanoleuca grammopodia var. polito-inaequalipes Beguet, 1972
+Melanoleuca polito-inaequalipes Beguet ex Traverso & Zotti, 2002
 
 ### Remarks
 null

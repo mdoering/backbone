@@ -1,5 +1,4 @@
-Trichopeziza triformis (Fr.) Sacc. SPECIES
-=======
+# Trichopeziza triformis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

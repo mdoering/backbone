@@ -1,5 +1,4 @@
-Capillaria sphaeriae-typhinae Corda SPECIES
-=======
+# Capillaria sphaeriae-typhinae Corda SPECIES
 
 #### Status
 ACCEPTED

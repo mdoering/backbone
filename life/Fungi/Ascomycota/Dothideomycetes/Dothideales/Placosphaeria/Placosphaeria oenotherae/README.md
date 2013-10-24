@@ -1,5 +1,4 @@
-Placosphaeria oenotherae Bres. SPECIES
-=======
+# Placosphaeria oenotherae Bres. SPECIES
 
 #### Status
 ACCEPTED

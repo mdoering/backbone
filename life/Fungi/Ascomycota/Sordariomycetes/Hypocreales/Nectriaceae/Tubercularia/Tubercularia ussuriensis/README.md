@@ -1,5 +1,4 @@
-Tubercularia ussuriensis Petr. SPECIES
-=======
+# Tubercularia ussuriensis Petr. SPECIES
 
 #### Status
 ACCEPTED

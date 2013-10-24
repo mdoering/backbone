@@ -1,5 +1,4 @@
-Dimerium consimile Syd. SPECIES
-=======
+# Dimerium consimile Syd. SPECIES
 
 #### Status
 ACCEPTED

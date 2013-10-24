@@ -1,5 +1,4 @@
-Uromyces smilacis Mayor SPECIES
-=======
+# Uromyces smilacis Mayor SPECIES
 
 #### Status
 ACCEPTED

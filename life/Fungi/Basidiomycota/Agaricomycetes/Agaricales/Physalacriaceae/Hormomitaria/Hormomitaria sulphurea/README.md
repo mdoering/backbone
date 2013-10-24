@@ -1,14 +1,13 @@
-Physalacria sulphurea (Corner) Singer, 1976 SPECIES
-=======
+# Hormomitaria sulphurea Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Neotrop. , Monogr. 17: 305 (1976)
+Ann. Bot. Mem. 1: 696 (1950)
 
 #### Original name
 Hormomitaria sulphurea Corner, 1950

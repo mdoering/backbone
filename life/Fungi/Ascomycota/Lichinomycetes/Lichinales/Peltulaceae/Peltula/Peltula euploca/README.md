@@ -1,14 +1,13 @@
-Lichen euplocus Ach. SPECIES
-=======
+# Peltula euploca (Ach.) Poelt ex Ozenda & Clauzade SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Lichens 324 (1970)
 
 #### Original name
 Lichen euplocus Ach.

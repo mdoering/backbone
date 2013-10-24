@@ -1,17 +1,16 @@
-Sporocadus corni-albae (Roum. ex Sacc.) Orsenigo, Rodondi & B. Sutton, 1998 SPECIES
-=======
+# Coryneopsis corni-albae (Roum.) Grove, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 67: 262 (1998)
+J. Bot. , London 70: 34 (1932)
 
 #### Original name
-Coryneum corni-albae (Roum.) Sacc., 1884
+Sphaeria corni-albae Roum.
 
 ### Remarks
 null

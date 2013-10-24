@@ -1,5 +1,4 @@
-Botrytis douglasii Tubeuf SPECIES
-=======
+# Botrytis douglasii Tubeuf SPECIES
 
 #### Status
 ACCEPTED

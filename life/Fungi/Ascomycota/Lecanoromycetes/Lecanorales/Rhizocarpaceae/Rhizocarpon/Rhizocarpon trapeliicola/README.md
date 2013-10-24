@@ -1,5 +1,4 @@
-Rhizocarpon trapeliicola Brand SPECIES
-=======
+# Rhizocarpon trapeliicola Brand SPECIES
 
 #### Status
 ACCEPTED

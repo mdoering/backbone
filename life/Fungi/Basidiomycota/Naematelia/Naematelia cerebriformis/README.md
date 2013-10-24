@@ -1,5 +1,4 @@
-Naematelia cerebriformis Ellis SPECIES
-=======
+# Naematelia cerebriformis Ellis SPECIES
 
 #### Status
 ACCEPTED

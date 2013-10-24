@@ -1,5 +1,4 @@
-Puccinia dasypyri Guyot & Malençon SPECIES
-=======
+# Puccinia dasypyri Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED

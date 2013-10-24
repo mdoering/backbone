@@ -1,5 +1,4 @@
-Cercospora lappae T. Watan. & N. Takahashi SPECIES
-=======
+# Cercospora lappae T. Watan. & N. Takahashi SPECIES
 
 #### Status
 ACCEPTED

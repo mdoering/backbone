@@ -1,5 +1,4 @@
-Ceratocystis ochracea H.D. Griffin SPECIES
-=======
+# Ceratocystis ochracea H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

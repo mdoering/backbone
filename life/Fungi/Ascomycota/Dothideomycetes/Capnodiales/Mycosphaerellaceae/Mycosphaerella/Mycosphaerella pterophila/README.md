@@ -1,5 +1,4 @@
-Mycosphaerella pterophila (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella pterophila (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma olivaceocoloratum Largent & T.W. Henkel SPECIES
-=======
+# Entoloma olivaceocoloratum Largent & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

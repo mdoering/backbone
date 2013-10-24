@@ -1,5 +1,4 @@
-Lichen coronatus (Hoffm.) Ach. SPECIES
-=======
+# Lichen coronatus (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

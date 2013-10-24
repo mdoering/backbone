@@ -1,5 +1,4 @@
-Amanita tristis Corner & Bas SPECIES
-=======
+# Amanita tristis Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

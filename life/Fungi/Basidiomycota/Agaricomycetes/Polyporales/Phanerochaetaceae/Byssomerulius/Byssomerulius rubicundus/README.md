@@ -1,5 +1,4 @@
-Byssomerulius rubicundus (Litsch.) Parmasto SPECIES
-=======
+# Byssomerulius rubicundus (Litsch.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

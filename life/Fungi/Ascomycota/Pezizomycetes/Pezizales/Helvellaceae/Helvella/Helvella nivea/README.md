@@ -1,5 +1,4 @@
-Helvella nivea Schrad. SPECIES
-=======
+# Helvella nivea Schrad. SPECIES
 
 #### Status
 ACCEPTED

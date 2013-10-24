@@ -1,5 +1,4 @@
-Thelohania diazoma J.P. Kramer SPECIES
-=======
+# Thelohania diazoma J.P. Kramer SPECIES
 
 #### Status
 ACCEPTED

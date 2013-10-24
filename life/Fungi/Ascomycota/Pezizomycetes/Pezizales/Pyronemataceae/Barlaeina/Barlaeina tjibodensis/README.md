@@ -1,5 +1,4 @@
-Barlaeina tjibodensis Penz. & Sacc. SPECIES
-=======
+# Barlaeina tjibodensis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

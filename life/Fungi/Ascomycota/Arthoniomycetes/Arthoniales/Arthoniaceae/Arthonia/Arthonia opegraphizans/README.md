@@ -1,5 +1,4 @@
-Arthonia opegraphizans Vain. SPECIES
-=======
+# Arthonia opegraphizans Vain. SPECIES
 
 #### Status
 ACCEPTED

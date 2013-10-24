@@ -1,14 +1,13 @@
-Trochammina inconspicua Earland, 1934 SPECIES
-=======
+# Earlandammina inconspicua Earland, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Earland, A. (1934) Foraminifera. Part III. The Falklands sector of the Antarctic (excluding South Georgia). Discovery Reports 10 (1935), University Press, Cambridge, p 1-208.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Fomes oroflavus Lloyd SPECIES
-=======
+# Fomes oroflavus Lloyd SPECIES
 
 #### Status
 ACCEPTED

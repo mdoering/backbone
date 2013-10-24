@@ -1,5 +1,4 @@
-Uromyces vignicola Henn. SPECIES
-=======
+# Uromyces vignicola Henn. SPECIES
 
 #### Status
 ACCEPTED

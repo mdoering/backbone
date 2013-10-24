@@ -1,5 +1,4 @@
-Discorinopsis Cole, 1941 GENUS
-=======
+# Discorinopsis Cole, 1941 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces chinensis Thaxt. SPECIES
-=======
+# Chitonomyces chinensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

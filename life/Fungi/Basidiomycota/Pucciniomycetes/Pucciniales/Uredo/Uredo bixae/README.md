@@ -1,5 +1,4 @@
-Uredo bixae Arthur SPECIES
-=======
+# Uredo bixae Arthur SPECIES
 
 #### Status
 ACCEPTED

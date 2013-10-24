@@ -1,5 +1,4 @@
-Nectria hirtella Sacc. & Speg. SPECIES
-=======
+# Nectria hirtella Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporella oharana Y. Nisik. & H. Matsumoto SPECIES
-=======
+# Cylindrosporella oharana Y. Nisik. & H. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

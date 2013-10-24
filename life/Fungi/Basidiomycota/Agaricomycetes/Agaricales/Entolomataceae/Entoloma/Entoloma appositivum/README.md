@@ -1,5 +1,4 @@
-Entoloma appositivum (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma appositivum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

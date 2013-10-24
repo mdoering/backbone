@@ -1,5 +1,4 @@
-Phaeocystaceae Lagerheim, 1896 FAMILY
-=======
+# Phaeocystaceae Lagerheim, 1896 FAMILY
 
 #### Status
 ACCEPTED

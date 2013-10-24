@@ -1,5 +1,4 @@
-Entomophthora hylemyiae (G. Lakon) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora hylemyiae (G. Lakon) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

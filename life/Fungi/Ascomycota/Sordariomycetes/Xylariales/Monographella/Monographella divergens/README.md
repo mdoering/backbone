@@ -1,14 +1,13 @@
-Sphaerulina divergens Rehm SPECIES
-=======
+# Monographella divergens (Rehm) Petr., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. (1924)
 
 #### Original name
 Sphaerulina divergens Rehm

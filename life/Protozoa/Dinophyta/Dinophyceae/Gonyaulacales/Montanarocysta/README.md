@@ -1,5 +1,4 @@
-Montanarocysta D. Corradini, 1973 GENUS
-=======
+# Montanarocysta D. Corradini, 1973 GENUS
 
 #### Status
 ACCEPTED

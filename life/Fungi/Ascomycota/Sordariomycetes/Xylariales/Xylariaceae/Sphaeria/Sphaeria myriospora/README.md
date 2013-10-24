@@ -1,5 +1,4 @@
-Sphaeria myriospora Durieu & Mont. SPECIES
-=======
+# Sphaeria myriospora Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

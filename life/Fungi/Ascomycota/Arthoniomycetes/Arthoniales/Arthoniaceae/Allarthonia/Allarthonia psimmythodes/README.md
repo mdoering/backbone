@@ -1,5 +1,4 @@
-Allarthonia psimmythodes (Nyl.) Zahlbr. SPECIES
-=======
+# Allarthonia psimmythodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

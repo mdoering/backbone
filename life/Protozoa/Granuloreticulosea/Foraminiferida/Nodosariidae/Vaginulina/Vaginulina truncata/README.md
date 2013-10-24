@@ -1,5 +1,4 @@
-Vaginulina truncata Reuss SPECIES
-=======
+# Vaginulina truncata Reuss SPECIES
 
 #### Status
 ACCEPTED

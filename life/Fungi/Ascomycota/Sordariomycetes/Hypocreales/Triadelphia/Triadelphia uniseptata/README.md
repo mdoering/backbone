@@ -1,14 +1,13 @@
-Sporidesmium uniseptatum Berk. & Broome, 1859 SPECIES
-=======
+# Triadelphia uniseptata (Berk. & Broome) P.M. Kirk, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 360 (1859)
+Trans. Br. mycol. Soc. 80(3): 464 (1983)
 
 #### Original name
 Sporidesmium uniseptatum Berk. & Broome, 1859

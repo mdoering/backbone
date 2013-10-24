@@ -1,5 +1,4 @@
-Gorgomyces M. Gönczöl & Révay GENUS
-=======
+# Gorgomyces M. Gönczöl & Révay GENUS
 
 #### Status
 ACCEPTED

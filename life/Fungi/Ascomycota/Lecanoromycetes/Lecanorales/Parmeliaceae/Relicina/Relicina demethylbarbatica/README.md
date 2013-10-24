@@ -1,5 +1,4 @@
-Relicina demethylbarbatica Elix & J. Johnst. SPECIES
-=======
+# Relicina demethylbarbatica Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

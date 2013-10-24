@@ -1,5 +1,4 @@
-Puccinia medellinensis Mayor SPECIES
-=======
+# Puccinia medellinensis Mayor SPECIES
 
 #### Status
 ACCEPTED

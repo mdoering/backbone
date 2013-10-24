@@ -1,5 +1,4 @@
-Flintina crassatina (Brady) SPECIES
-=======
+# Flintina crassatina (Brady) SPECIES
 
 #### Status
 ACCEPTED

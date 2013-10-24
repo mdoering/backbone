@@ -1,5 +1,4 @@
-Stemphyliopsis heterospora A.L. Sm. SPECIES
-=======
+# Stemphyliopsis heterospora A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

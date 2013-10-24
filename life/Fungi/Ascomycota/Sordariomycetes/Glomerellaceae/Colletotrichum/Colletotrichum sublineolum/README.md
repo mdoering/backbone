@@ -1,5 +1,4 @@
-Colletotrichum sublineolum Henn. SPECIES
-=======
+# Colletotrichum sublineolum Henn. SPECIES
 
 #### Status
 ACCEPTED

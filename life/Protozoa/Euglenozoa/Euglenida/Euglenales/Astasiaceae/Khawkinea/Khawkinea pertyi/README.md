@@ -1,5 +1,4 @@
-Khawkinea pertyi (E.G. Pringsheim & R. Hovasse) E.G. Pringsheim SPECIES
-=======
+# Khawkinea pertyi (E.G. Pringsheim & R. Hovasse) E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

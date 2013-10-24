@@ -1,5 +1,4 @@
-Entoloma metuloideum W.M. Zhang & T.H. Li SPECIES
-=======
+# Entoloma metuloideum W.M. Zhang & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

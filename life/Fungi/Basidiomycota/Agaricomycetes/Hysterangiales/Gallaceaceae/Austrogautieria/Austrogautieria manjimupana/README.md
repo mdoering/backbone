@@ -1,5 +1,4 @@
-Austrogautieria manjimupana Trappe & E.L. Stewart, 1985 SPECIES
-=======
+# Austrogautieria manjimupana Trappe & E.L. Stewart, 1985 SPECIES
 
 #### Status
 ACCEPTED

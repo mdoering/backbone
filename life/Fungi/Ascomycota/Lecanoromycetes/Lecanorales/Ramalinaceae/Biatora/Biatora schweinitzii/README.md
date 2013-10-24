@@ -1,5 +1,4 @@
-Biatora schweinitzii E. Michener SPECIES
-=======
+# Biatora schweinitzii E. Michener SPECIES
 
 #### Status
 ACCEPTED

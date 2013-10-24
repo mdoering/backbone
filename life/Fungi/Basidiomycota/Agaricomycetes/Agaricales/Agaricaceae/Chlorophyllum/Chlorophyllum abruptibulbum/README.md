@@ -1,5 +1,4 @@
-Chlorophyllum abruptibulbum (R. Heim) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum abruptibulbum (R. Heim) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

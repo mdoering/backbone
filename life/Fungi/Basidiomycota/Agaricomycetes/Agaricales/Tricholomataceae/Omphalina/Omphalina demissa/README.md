@@ -1,17 +1,16 @@
-Agaricus demissus var. sandicinus Fr. VARIETY
-=======
+# Omphalina demissa (Fr.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 157 (1821)
+Enchir. fung. (Paris) 44 (1886)
 
 #### Original name
-Agaricus demissus var. sandicinus Fr.
+Agaricus demissus Fr., 1821
 
 ### Remarks
 null

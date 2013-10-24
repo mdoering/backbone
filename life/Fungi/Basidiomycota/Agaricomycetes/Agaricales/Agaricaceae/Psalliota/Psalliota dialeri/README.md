@@ -1,8 +1,7 @@
-Psalliota dialerii Bres. & Torrend SPECIES
-=======
+# Psalliota dialeri Bres. & Torrend SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psalliota dialerii Bres. & Torrend
+Psalliota dialeri Bres. & Torrend
 
 ### Remarks
 null

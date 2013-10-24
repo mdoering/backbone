@@ -1,5 +1,4 @@
-Sporodictyon denudatum (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon denudatum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

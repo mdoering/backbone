@@ -1,5 +1,4 @@
-Isaria saccharina Pers. SPECIES
-=======
+# Isaria saccharina Pers. SPECIES
 
 #### Status
 ACCEPTED

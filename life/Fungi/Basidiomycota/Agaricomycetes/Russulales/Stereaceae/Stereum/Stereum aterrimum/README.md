@@ -1,5 +1,4 @@
-Stereum aterrimum Massee SPECIES
-=======
+# Stereum aterrimum Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deuterammina plana Broennimann & Zaninetti, 1984 SPECIES
-=======
+# Deuterammina plana Broennimann & Zaninetti, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus tumidosus Britzelm. SPECIES
-=======
+# Agaricus tumidosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

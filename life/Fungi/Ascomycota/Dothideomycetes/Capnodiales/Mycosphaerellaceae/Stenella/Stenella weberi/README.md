@@ -1,5 +1,4 @@
-Stenella weberi (Chupp) U. Braun & Bagyan. SPECIES
-=======
+# Stenella weberi (Chupp) U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

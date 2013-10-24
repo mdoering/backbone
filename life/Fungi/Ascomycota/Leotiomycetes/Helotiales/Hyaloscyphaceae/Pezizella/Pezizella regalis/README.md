@@ -1,5 +1,4 @@
-Pezizella regalis (Cooke & Ellis) Sacc. SPECIES
-=======
+# Pezizella regalis (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

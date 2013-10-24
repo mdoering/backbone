@@ -1,5 +1,4 @@
-Rhizopogon buenoi Calonge & M.P. Martín, 2001 SPECIES
-=======
+# Rhizopogon buenoi Calonge & M.P. Martín, 2001 SPECIES
 
 #### Status
 ACCEPTED

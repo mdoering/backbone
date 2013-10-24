@@ -1,5 +1,4 @@
-Actinothecium scortechinii Sacc. & Berl. SPECIES
-=======
+# Actinothecium scortechinii Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

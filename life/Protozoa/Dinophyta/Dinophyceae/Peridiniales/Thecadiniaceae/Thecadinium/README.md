@@ -1,5 +1,4 @@
-Thecadinium Kofoid & Skogsberg, 1928 GENUS
-=======
+# Thecadinium Kofoid & Skogsberg, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora chionanthi (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora chionanthi (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

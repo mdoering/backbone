@@ -1,5 +1,4 @@
-Cercospora thujina Plakidas SPECIES
-=======
+# Cercospora thujina Plakidas SPECIES
 
 #### Status
 ACCEPTED

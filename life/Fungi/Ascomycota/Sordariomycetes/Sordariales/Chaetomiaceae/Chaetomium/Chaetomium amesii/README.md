@@ -1,5 +1,4 @@
-Chaetomium amesii Sergeeva SPECIES
-=======
+# Chaetomium amesii Sergeeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeostagonospora Punith. GENUS
-=======
+# Clypeostagonospora Punith. GENUS
 
 #### Status
 ACCEPTED

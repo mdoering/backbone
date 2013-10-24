@@ -1,5 +1,4 @@
-Prosthecium galeatum Jakl. & Voglmayr SPECIES
-=======
+# Prosthecium galeatum Jakl. & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

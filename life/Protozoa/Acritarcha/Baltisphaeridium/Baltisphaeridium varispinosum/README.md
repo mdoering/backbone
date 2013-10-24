@@ -1,5 +1,4 @@
-Baltisphaeridium varispinosum var. sarjeant VARIETY
-=======
+# Baltisphaeridium varispinosum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus carnosior Peck SPECIES
-=======
+# Agaricus carnosior Peck SPECIES
 
 #### Status
 ACCEPTED

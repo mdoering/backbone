@@ -1,14 +1,13 @@
-Colletotrichum stevensii Roy {?}, 1948 SPECIES
-=======
+# Colletotrichum piperis Petch, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 27: 101 (1948)
+Ann. R. bot. Gdns Peradeniya 6(3): 239 (1917)
 
 #### Original name
 Colletotrichum piperis Petch, 1917

@@ -1,5 +1,4 @@
-Verrucaria mauriza Nyl. SPECIES
-=======
+# Verrucaria mauriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

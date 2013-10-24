@@ -1,5 +1,4 @@
-Girvanellaceae FAMILY
-=======
+# Girvanellaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas rugulosa var. obliqua Bourrelly VARIETY
-=======
+# Trachelomonas rugulosa F.Stein ex Deflandre SPECIES
 
 #### Status
 ACCEPTED

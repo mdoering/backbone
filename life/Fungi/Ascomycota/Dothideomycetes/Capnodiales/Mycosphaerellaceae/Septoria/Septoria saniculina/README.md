@@ -1,5 +1,4 @@
-Septoria saniculina Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Septoria saniculina Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectolechia microplaca Vain. SPECIES
-=======
+# Ectolechia microplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

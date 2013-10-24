@@ -1,5 +1,4 @@
-Clitocybe segeolens H.E. Bigelow SPECIES
-=======
+# Clitocybe segeolens H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

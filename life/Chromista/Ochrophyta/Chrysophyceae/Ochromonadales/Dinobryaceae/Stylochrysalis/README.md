@@ -1,5 +1,4 @@
-Stylochrysalis F. Stein, 1878 GENUS
-=======
+# Stylochrysalis F. Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

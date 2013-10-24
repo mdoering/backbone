@@ -1,5 +1,4 @@
-Podospora levis Milovtz. SPECIES
-=======
+# Podospora levis Milovtz. SPECIES
 
 #### Status
 ACCEPTED

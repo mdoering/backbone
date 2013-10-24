@@ -1,5 +1,4 @@
-Calycina agaricicola (Berk. & Broome) Kuntze SPECIES
-=======
+# Calycina agaricicola (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

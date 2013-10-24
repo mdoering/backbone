@@ -1,5 +1,4 @@
-Melampsora abietis-canadensis C.A. Ludw., 1924 SPECIES
-=======
+# Melampsora abietis-canadensis C.A. Ludw., 1924 SPECIES
 
 #### Status
 ACCEPTED

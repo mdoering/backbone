@@ -1,5 +1,4 @@
-Phoma allantella (Peck) Sacc. SPECIES
-=======
+# Phoma allantella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

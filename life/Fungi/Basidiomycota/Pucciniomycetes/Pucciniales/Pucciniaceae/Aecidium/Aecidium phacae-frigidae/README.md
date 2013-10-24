@@ -1,5 +1,4 @@
-Aecidium phacae-frigidae Wahlenb. SPECIES
-=======
+# Aecidium phacae-frigidae Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

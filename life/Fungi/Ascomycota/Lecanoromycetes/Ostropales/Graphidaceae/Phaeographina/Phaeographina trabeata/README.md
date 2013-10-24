@@ -1,5 +1,4 @@
-Phaeographina trabeata (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina trabeata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

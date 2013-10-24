@@ -1,14 +1,13 @@
-Crinipellis omotrichus (Berk.) D.A. Reid SPECIES
-=======
+# Crinipellis omotricha (Berk.) D.A. Reid SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Contr. Bolus Herb. 7: 111 (1975)
 
 #### Original name
 Agaricus omotrichus Berk.

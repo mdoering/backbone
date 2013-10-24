@@ -1,5 +1,4 @@
-Caloplaca mogoltanika S.Y. Kondr. & Kudratov SPECIES
-=======
+# Caloplaca mogoltanika S.Y. Kondr. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

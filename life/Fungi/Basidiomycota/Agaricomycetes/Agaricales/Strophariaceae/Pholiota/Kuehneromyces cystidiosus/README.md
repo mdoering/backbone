@@ -1,5 +1,4 @@
-Kuehneromyces cystidiosus Singer SPECIES
-=======
+# Kuehneromyces cystidiosus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia hydrochroa Rabenh. SPECIES
-=======
+# Collybia hydrochroa Rabenh. SPECIES
 
 #### Status
 ACCEPTED

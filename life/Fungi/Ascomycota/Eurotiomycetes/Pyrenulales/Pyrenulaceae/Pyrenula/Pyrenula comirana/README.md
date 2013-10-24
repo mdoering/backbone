@@ -1,5 +1,4 @@
-Pyrenula comirana SPECIES
-=======
+# Pyrenula comirana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euchromulina Lemmermann, 1908 GENUS
-=======
+# Euchromulina Lemmermann, 1908 GENUS
 
 #### Status
 ACCEPTED

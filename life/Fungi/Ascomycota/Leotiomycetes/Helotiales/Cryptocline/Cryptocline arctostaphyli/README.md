@@ -1,5 +1,4 @@
-Cryptocline arctostaphyli Petrini, 1984 SPECIES
-=======
+# Cryptocline arctostaphyli Petrini, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodimerina schiffnerulae Hansf. SPECIES
-=======
+# Chaetodimerina schiffnerulae Hansf. SPECIES
 
 #### Status
 ACCEPTED

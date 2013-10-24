@@ -1,5 +1,4 @@
-Verrucaria macochae Servít SPECIES
-=======
+# Verrucaria macochae Servít SPECIES
 
 #### Status
 ACCEPTED

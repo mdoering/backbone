@@ -1,5 +1,4 @@
-Vainionora Kalb GENUS
-=======
+# Vainionora Kalb GENUS
 
 #### Status
 ACCEPTED

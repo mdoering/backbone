@@ -1,5 +1,4 @@
-Spermatodium cerinum Trevis. SPECIES
-=======
+# Spermatodium cerinum Trevis. SPECIES
 
 #### Status
 ACCEPTED

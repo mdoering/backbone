@@ -1,14 +1,13 @@
-Haligena salina C.A. Farrant & E.B.G. Jones, 1986 SPECIES
-=======
+# Morakotiella salina (C.A. Farrant & E.B.G. Jones) Sakay., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 93(4): 406 (1986)
+Mycologia 97(4): 806 (2005)
 
 #### Original name
 Haligena salina C.A. Farrant & E.B.G. Jones, 1986

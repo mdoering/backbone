@@ -1,5 +1,4 @@
-Coprinus striatus Bogart SPECIES
-=======
+# Coprinus striatus Bogart SPECIES
 
 #### Status
 ACCEPTED

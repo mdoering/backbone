@@ -1,5 +1,4 @@
-Helotium saprophyllum Peck SPECIES
-=======
+# Helotium saprophyllum Peck SPECIES
 
 #### Status
 ACCEPTED

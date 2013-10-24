@@ -1,5 +1,4 @@
-Phlegmacium caesiocortinatus (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium caesiocortinatus (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

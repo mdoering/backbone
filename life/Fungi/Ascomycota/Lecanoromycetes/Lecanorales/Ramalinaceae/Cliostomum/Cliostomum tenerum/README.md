@@ -1,14 +1,13 @@
-Lecania tenera (Nyl.) Clauzade & Cl. Roux SPECIES
-=======
+# Cliostomum tenerum (Nyl.) Coppins & S. Ekman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Roux, Bull. Soc. bot. Centre-Ouest, Nouv. sér. 13: 226 (1982)
+in Ekman, Symb. bot. upsal. 32(no. 1): 26 (1997)
 
 #### Original name
 Lecidea tenera Nyl.

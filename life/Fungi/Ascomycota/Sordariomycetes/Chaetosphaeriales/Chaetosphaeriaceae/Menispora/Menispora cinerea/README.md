@@ -1,5 +1,4 @@
-Menispora cinerea Corda SPECIES
-=======
+# Menispora cinerea Corda SPECIES
 
 #### Status
 ACCEPTED

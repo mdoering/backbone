@@ -1,5 +1,4 @@
-Puccinia bignoniacearum Speg. SPECIES
-=======
+# Puccinia bignoniacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

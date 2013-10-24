@@ -1,5 +1,4 @@
-Thelotrema subkeralense Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema subkeralense Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

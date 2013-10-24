@@ -1,5 +1,4 @@
-Microdiplodia arenaria Moesz SPECIES
-=======
+# Microdiplodia arenaria Moesz SPECIES
 
 #### Status
 ACCEPTED

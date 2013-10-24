@@ -1,17 +1,16 @@
-Parmelia glomellifera f. glomellifera FORM
-=======
+# Xanthoparmelia verruculifera (Nyl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 53(4): 972 (2004)
 
 #### Original name
-Parmelia glomellifera f. glomellifera
+Parmelia verruculifera Nyl.
 
 ### Remarks
 null

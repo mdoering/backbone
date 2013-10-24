@@ -1,5 +1,4 @@
-Palaeodictyoconus GENUS
-=======
+# Palaeodictyoconus GENUS
 
 #### Status
 ACCEPTED

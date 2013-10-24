@@ -1,5 +1,4 @@
-Pleurotus guaraniticus Speg. SPECIES
-=======
+# Pleurotus guaraniticus Speg. SPECIES
 
 #### Status
 ACCEPTED

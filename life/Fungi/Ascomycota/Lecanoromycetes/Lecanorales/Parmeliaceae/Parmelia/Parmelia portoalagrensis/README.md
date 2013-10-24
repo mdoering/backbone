@@ -1,5 +1,4 @@
-Parmelia portoalagrensis Lynge SPECIES
-=======
+# Parmelia portoalagrensis Lynge SPECIES
 
 #### Status
 ACCEPTED

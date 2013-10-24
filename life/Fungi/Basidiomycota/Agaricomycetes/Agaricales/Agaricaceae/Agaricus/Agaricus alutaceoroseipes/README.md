@@ -1,5 +1,4 @@
-Agaricus alutaceoroseipes Secr. SPECIES
-=======
+# Agaricus alutaceoroseipes Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca arenicola Murrill SPECIES
-=======
+# Melanoleuca arenicola Murrill SPECIES
 
 #### Status
 ACCEPTED

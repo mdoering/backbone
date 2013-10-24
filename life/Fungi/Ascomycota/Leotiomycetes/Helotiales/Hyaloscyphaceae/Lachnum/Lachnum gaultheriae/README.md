@@ -1,5 +1,4 @@
-Lachnum gaultheriae (Ellis & Everh.) Zeller SPECIES
-=======
+# Lachnum gaultheriae (Ellis & Everh.) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria guadalupensis Pat. SPECIES
-=======
+# Humaria guadalupensis Pat. SPECIES
 
 #### Status
 ACCEPTED

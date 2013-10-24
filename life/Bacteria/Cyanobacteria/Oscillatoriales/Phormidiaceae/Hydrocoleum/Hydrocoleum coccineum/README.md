@@ -1,5 +1,4 @@
-Hydrocoleum coccineum Gomont SPECIES
-=======
+# Hydrocoleum coccineum Gomont SPECIES
 
 #### Status
 ACCEPTED

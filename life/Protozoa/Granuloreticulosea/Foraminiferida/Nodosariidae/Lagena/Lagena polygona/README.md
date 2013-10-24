@@ -1,5 +1,4 @@
-Lagena polygona SPECIES
-=======
+# Lagena polygona SPECIES
 
 #### Status
 ACCEPTED

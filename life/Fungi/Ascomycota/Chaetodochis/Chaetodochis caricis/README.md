@@ -1,5 +1,4 @@
-Chaetodochis caricis (Fuckel) Clem. SPECIES
-=======
+# Chaetodochis caricis (Fuckel) Clem. SPECIES
 
 #### Status
 ACCEPTED

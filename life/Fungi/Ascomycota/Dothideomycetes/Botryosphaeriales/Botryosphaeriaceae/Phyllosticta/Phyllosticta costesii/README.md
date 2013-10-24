@@ -1,17 +1,16 @@
-Phyllosticta costesi Speg. SPECIES
-=======
+# Phyllosticta costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Soc. Ciencias de Córdoba 25: 96 (1921)
 
 #### Original name
-Phyllosticta costesi Speg.
+Phyllosticta costesii Speg.
 
 ### Remarks
 null

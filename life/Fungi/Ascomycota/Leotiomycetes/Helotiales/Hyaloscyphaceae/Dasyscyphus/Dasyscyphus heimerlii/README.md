@@ -1,8 +1,7 @@
-Dasyscypha heimerlii Höhn. SPECIES
-=======
+# Dasyscyphus heimerlii Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha heimerlii Höhn.
+Dasyscyphus heimerlii Höhn.
 
 ### Remarks
 null

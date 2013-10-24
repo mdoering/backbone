@@ -1,5 +1,4 @@
-Boletus iridens Rostk. SPECIES
-=======
+# Boletus iridens Rostk. SPECIES
 
 #### Status
 ACCEPTED

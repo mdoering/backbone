@@ -1,17 +1,16 @@
-Rinodina roboris var. roboris VARIETY
-=======
+# Rinodina roboris (Dufour ex Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rinodina roboris var. roboris
+null
 
 ### Remarks
 null

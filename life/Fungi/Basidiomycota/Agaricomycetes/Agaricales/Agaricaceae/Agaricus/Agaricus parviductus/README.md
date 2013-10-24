@@ -1,5 +1,4 @@
-Agaricus parviductus Britzelm. SPECIES
-=======
+# Agaricus parviductus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

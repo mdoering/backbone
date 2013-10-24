@@ -1,5 +1,4 @@
-Hygrophorus subvirens Britzelm. SPECIES
-=======
+# Hygrophorus subvirens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

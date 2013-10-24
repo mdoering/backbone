@@ -1,5 +1,4 @@
-Guedea ovata Morgan-Jones, R.C. Sinclair & Eicker SPECIES
-=======
+# Guedea ovata Morgan-Jones, R.C. Sinclair & Eicker SPECIES
 
 #### Status
 ACCEPTED

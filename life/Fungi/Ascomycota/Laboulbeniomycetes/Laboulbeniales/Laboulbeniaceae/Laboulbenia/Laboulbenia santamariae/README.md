@@ -1,5 +1,4 @@
-Laboulbenia santamariae W. Rossi SPECIES
-=======
+# Laboulbenia santamariae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

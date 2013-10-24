@@ -1,5 +1,4 @@
-Cytospora dahliae Peyl SPECIES
-=======
+# Cytospora dahliae Peyl SPECIES
 
 #### Status
 ACCEPTED

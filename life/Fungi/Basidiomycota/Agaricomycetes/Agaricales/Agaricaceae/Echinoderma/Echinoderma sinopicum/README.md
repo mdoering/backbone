@@ -1,5 +1,4 @@
-Echinoderma sinopicum (Romagn.) Bon SPECIES
-=======
+# Echinoderma sinopicum (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago notarisii A.A. Fisch. Waldh. SPECIES
-=======
+# Ustilago notarisii A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campanella gigantospora Singer SPECIES
-=======
+# Campanella gigantospora Singer SPECIES
 
 #### Status
 ACCEPTED

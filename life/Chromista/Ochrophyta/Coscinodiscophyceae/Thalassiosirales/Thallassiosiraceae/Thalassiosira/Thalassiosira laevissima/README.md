@@ -1,5 +1,4 @@
-Thalassiosira laevissima Gao & Cheng SPECIES
-=======
+# Thalassiosira laevissima Gao & Cheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe alkalivirens (Høil. & Watling) T.W. May & A.E. Wood SPECIES
-=======
+# Dermocybe alkalivirens (Høil. & Watling) T.W. May & A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

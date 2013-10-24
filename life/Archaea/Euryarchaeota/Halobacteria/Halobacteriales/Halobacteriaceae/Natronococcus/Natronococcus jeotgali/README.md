@@ -1,5 +1,4 @@
-Natronococcus jeotgali Roh, Nam, Chang, Sung, Kim, Oh & Bae, 2007 SPECIES
-=======
+# Natronococcus jeotgali Roh, Nam, Chang, Sung, Kim, Oh & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

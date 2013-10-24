@@ -1,5 +1,4 @@
-Ophionectria foliicola Zimm. SPECIES
-=======
+# Ophionectria foliicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

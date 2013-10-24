@@ -1,5 +1,4 @@
-Merogregarina amaroucii Porter, 1908 SPECIES
-=======
+# Merogregarina amaroucii Porter, 1908 SPECIES
 
 #### Status
 ACCEPTED

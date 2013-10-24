@@ -1,5 +1,4 @@
-Hydnum thaelaephora Retz. SPECIES
-=======
+# Hydnum thaelaephora Retz. SPECIES
 
 #### Status
 ACCEPTED

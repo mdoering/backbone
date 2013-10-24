@@ -1,5 +1,4 @@
-Hamatocanthoscypha dryopteridis (H.C. Bøhler) Raitv. SPECIES
-=======
+# Hamatocanthoscypha dryopteridis (H.C. Bøhler) Raitv. SPECIES
 
 #### Status
 ACCEPTED

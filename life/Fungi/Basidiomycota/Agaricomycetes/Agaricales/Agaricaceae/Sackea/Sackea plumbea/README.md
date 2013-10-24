@@ -1,5 +1,4 @@
-Sackea plumbea Rostk. SPECIES
-=======
+# Sackea plumbea Rostk. SPECIES
 
 #### Status
 ACCEPTED

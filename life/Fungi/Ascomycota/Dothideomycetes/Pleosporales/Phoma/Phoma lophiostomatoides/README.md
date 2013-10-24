@@ -1,5 +1,4 @@
-Phoma lophiostomatoides Sacc. SPECIES
-=======
+# Phoma lophiostomatoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

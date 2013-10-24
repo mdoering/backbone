@@ -1,5 +1,4 @@
-Alternaria obpyriformis T.Y. Zhang SPECIES
-=======
+# Alternaria obpyriformis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

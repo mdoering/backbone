@@ -1,5 +1,4 @@
-Tulostoma floridanum Lloyd SPECIES
-=======
+# Tulostoma floridanum Lloyd SPECIES
 
 #### Status
 ACCEPTED

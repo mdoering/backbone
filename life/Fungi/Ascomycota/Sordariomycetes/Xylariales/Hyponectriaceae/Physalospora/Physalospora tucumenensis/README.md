@@ -1,5 +1,4 @@
-Physalospora tucumenensis Speg. SPECIES
-=======
+# Physalospora tucumenensis Speg. SPECIES
 
 #### Status
 ACCEPTED

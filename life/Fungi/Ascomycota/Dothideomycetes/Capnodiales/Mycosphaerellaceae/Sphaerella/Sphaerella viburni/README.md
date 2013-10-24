@@ -1,5 +1,4 @@
-Sphaerella viburni var. viburni VARIETY
-=======
+# Sphaerella viburni (Nitschke) Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella viburni var. viburni
+Sphaeria viburni Schwein.
 
 ### Remarks
 null

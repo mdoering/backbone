@@ -1,5 +1,4 @@
-Parmelia subbullata J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia subbullata J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

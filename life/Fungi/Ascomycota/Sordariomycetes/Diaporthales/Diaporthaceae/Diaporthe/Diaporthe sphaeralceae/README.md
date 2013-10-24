@@ -1,5 +1,4 @@
-Diaporthe sphaeralceae Speg. SPECIES
-=======
+# Diaporthe sphaeralceae Speg. SPECIES
 
 #### Status
 ACCEPTED

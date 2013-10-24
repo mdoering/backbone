@@ -1,5 +1,4 @@
-Pholiota variicystis G. Moreno & E. Valenz. SPECIES
-=======
+# Pholiota variicystis G. Moreno & E. Valenz. SPECIES
 
 #### Status
 ACCEPTED

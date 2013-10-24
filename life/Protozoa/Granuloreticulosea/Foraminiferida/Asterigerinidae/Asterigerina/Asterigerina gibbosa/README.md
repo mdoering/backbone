@@ -1,5 +1,4 @@
-Asterigerina gibbosa SPECIES
-=======
+# Asterigerina gibbosa SPECIES
 
 #### Status
 ACCEPTED

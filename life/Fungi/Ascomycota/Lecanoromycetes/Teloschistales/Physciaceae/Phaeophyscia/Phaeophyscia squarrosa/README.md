@@ -1,5 +1,4 @@
-Phaeophyscia squarrosa Kashiw. SPECIES
-=======
+# Phaeophyscia squarrosa Kashiw. SPECIES
 
 #### Status
 ACCEPTED

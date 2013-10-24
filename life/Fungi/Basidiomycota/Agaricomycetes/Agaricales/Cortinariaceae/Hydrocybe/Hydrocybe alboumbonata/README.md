@@ -1,5 +1,4 @@
-Hydrocybe alboumbonata Murrill SPECIES
-=======
+# Hydrocybe alboumbonata Murrill SPECIES
 
 #### Status
 ACCEPTED

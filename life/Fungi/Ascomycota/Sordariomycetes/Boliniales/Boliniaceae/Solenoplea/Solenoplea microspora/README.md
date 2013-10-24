@@ -1,5 +1,4 @@
-Solenoplea microspora Starbäck SPECIES
-=======
+# Solenoplea microspora Starbäck SPECIES
 
 #### Status
 ACCEPTED

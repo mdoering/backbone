@@ -1,5 +1,4 @@
-Misgomyces mastacis Balazuc SPECIES
-=======
+# Misgomyces mastacis Balazuc SPECIES
 
 #### Status
 ACCEPTED

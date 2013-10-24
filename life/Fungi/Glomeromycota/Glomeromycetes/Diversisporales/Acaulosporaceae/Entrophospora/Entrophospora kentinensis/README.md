@@ -1,14 +1,13 @@
-Kuklospora kentinensis (C.G. Wu & Y.S. Liu) Oehl & Sieverd., 2006 SPECIES
-=======
+# Entrophospora kentinensis C.G. Wu & Y.S. Liu, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sieverding & Oehl, J. Appl. Bot. Food Quality, Angew. Botan. 80: 74 (2006)
+in Wu, Liu, Hwuang, Wang & Chao, Mycotaxon 53: 287 (1995)
 
 #### Original name
 Entrophospora kentinensis C.G. Wu & Y.S. Liu, 1995

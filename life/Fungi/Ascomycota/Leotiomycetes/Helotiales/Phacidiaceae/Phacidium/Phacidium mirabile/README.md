@@ -1,5 +1,4 @@
-Phacidium mirabile Cooke SPECIES
-=======
+# Phacidium mirabile Cooke SPECIES
 
 #### Status
 ACCEPTED

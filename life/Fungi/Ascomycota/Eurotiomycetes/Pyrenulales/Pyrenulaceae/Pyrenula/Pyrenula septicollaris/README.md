@@ -1,5 +1,4 @@
-Pyrenula septicollaris (Eschw.) R.C. Harris SPECIES
-=======
+# Pyrenula septicollaris (Eschw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

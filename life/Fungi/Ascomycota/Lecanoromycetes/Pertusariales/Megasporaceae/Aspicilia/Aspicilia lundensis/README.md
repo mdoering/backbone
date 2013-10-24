@@ -1,5 +1,4 @@
-Aspicilia lundensis (Fr.) Uloth {?} SPECIES
-=======
+# Aspicilia lundensis (Fr.) Uloth {?} SPECIES
 
 #### Status
 ACCEPTED

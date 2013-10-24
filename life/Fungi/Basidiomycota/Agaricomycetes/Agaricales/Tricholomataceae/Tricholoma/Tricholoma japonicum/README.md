@@ -1,5 +1,4 @@
-Tricholoma japonicum Kawam. SPECIES
-=======
+# Tricholoma japonicum Kawam. SPECIES
 
 #### Status
 ACCEPTED

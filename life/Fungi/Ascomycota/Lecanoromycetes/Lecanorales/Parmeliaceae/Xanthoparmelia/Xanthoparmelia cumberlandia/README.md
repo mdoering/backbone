@@ -1,5 +1,4 @@
-Xanthoparmelia cumberlandia (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia cumberlandia (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

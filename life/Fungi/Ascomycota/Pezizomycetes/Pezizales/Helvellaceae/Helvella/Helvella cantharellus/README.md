@@ -1,5 +1,4 @@
-Helvella cantharellus Scop. SPECIES
-=======
+# Helvella cantharellus Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius tubulatus Petch SPECIES
-=======
+# Marasmius tubulatus Petch SPECIES
 
 #### Status
 ACCEPTED

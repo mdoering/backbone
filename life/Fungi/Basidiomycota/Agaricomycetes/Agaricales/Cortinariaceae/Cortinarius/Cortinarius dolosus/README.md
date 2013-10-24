@@ -1,5 +1,4 @@
-Cortinarius dolosus Herp. SPECIES
-=======
+# Cortinarius dolosus Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humarina clausa (Clem.) Seaver SPECIES
-=======
+# Humarina clausa (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

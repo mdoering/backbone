@@ -1,5 +1,4 @@
-Cortinarius eucinnamomeus Rob. Henry SPECIES
-=======
+# Cortinarius eucinnamomeus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

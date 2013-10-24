@@ -1,5 +1,4 @@
-Mycena chloranthoides Maas Geest. SPECIES
-=======
+# Mycena chloranthoides Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

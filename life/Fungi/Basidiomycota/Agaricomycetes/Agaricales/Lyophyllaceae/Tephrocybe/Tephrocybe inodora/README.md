@@ -1,5 +1,4 @@
-Tephrocybe inodora (Kühner) Bon SPECIES
-=======
+# Tephrocybe inodora (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

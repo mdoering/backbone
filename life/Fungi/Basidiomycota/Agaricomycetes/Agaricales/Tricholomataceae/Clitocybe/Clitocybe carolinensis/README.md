@@ -1,5 +1,4 @@
-Clitocybe carolinensis H.E. Bigelow & Hesler SPECIES
-=======
+# Clitocybe carolinensis H.E. Bigelow & Hesler SPECIES
 
 #### Status
 ACCEPTED

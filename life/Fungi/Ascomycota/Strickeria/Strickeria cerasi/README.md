@@ -1,5 +1,4 @@
-Strickeria cerasi Feltgen SPECIES
-=======
+# Strickeria cerasi Feltgen SPECIES
 
 #### Status
 ACCEPTED

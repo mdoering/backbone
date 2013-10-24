@@ -1,5 +1,4 @@
-Synchytrium wurthii Rytz SPECIES
-=======
+# Synchytrium wurthii Rytz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalosphenia minuta Cash, 1892 SPECIES
-=======
+# Hyalosphenia minuta Cash, 1892 SPECIES
 
 #### Status
 ACCEPTED

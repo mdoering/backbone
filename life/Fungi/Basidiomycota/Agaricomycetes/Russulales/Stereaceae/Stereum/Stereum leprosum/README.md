@@ -1,5 +1,4 @@
-Stereum leprosum Fr. SPECIES
-=======
+# Stereum leprosum Fr. SPECIES
 
 #### Status
 ACCEPTED

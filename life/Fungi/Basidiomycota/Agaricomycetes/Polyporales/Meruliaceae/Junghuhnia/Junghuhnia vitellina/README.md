@@ -1,5 +1,4 @@
-Junghuhnia vitellina Spirin, 2005 SPECIES
-=======
+# Junghuhnia vitellina Spirin, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria echinosperma (Peck) Sacc. SPECIES
-=======
+# Humaria echinosperma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

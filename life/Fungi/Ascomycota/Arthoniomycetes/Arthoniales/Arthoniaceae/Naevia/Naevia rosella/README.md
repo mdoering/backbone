@@ -1,5 +1,4 @@
-Naevia rosella f. rosella FORM
-=======
+# Naevia rosella Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naevia rosella f. rosella
+Naevia rosella Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocercospora rothmaleri U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora rothmaleri U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

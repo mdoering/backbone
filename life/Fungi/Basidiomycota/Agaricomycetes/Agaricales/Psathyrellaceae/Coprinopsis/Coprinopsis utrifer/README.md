@@ -1,5 +1,4 @@
-Coprinopsis utrifer (Joss. ex Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis utrifer (Joss. ex Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

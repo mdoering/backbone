@@ -1,17 +1,16 @@
-Coniocybe sulphurea var. sulphurea VARIETY
-=======
+# Chaenotheca brachypoda (Ach.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 27(no. 1): 71 (1987)
 
 #### Original name
-Coniocybe sulphurea var. sulphurea
+Coniocybe bracypoda Ach.
 
 ### Remarks
 null

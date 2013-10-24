@@ -1,5 +1,4 @@
-Psathyrella brunnescens A.H. Sm. SPECIES
-=======
+# Psathyrella brunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

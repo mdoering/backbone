@@ -1,5 +1,4 @@
-Periconia kashiensis R.Y. Roy & Bharadwaj SPECIES
-=======
+# Periconia kashiensis R.Y. Roy & Bharadwaj SPECIES
 
 #### Status
 ACCEPTED

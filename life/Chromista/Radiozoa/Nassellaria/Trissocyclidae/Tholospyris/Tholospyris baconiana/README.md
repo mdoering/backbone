@@ -1,5 +1,4 @@
-Tholospyris baconiana subsp. baconiana SUBSPECIES
-=======
+# Tholospyris baconiana (Haeckel) Goll, 1972 SPECIES
 
 #### Status
 ACCEPTED

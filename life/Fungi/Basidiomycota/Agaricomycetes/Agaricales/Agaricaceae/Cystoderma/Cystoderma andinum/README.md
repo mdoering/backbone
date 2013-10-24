@@ -1,5 +1,4 @@
-Cystoderma andinum I. Saar & Laessøe SPECIES
-=======
+# Cystoderma andinum I. Saar & Laessøe SPECIES
 
 #### Status
 ACCEPTED

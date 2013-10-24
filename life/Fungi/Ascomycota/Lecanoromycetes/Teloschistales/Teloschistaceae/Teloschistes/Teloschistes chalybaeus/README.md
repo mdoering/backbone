@@ -1,5 +1,4 @@
-Teloschistes chalybaeus (Fr.) Trevis. SPECIES
-=======
+# Teloschistes chalybaeus (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

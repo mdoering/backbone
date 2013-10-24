@@ -1,5 +1,4 @@
-Phaeosphaeria papua-alpina Otani SPECIES
-=======
+# Phaeosphaeria papua-alpina Otani SPECIES
 
 #### Status
 ACCEPTED

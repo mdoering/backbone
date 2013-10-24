@@ -1,5 +1,4 @@
-Uredo lindsaeae-japonicae Hirats. f. & S. Uchida SPECIES
-=======
+# Uredo lindsaeae-japonicae Hirats. f. & S. Uchida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora biseptata H.C. Greene SPECIES
-=======
+# Stagonospora biseptata H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

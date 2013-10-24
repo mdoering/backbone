@@ -1,5 +1,4 @@
-Thialkalimicrobium aerophilum SPECIES
-=======
+# Thialkalimicrobium aerophilum SPECIES
 
 #### Status
 ACCEPTED

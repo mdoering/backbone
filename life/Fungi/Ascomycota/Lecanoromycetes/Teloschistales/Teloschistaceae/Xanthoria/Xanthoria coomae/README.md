@@ -1,5 +1,4 @@
-Xanthoria coomae S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria coomae S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

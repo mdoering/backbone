@@ -1,5 +1,4 @@
-Thiochaete chutteri H. Welsh SPECIES
-=======
+# Thiochaete chutteri H. Welsh SPECIES
 
 #### Status
 ACCEPTED

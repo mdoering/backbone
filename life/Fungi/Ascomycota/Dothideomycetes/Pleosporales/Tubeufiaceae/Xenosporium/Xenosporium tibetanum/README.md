@@ -1,5 +1,4 @@
-Xenosporium tibetanum G.Z. Zhao SPECIES
-=======
+# Xenosporium tibetanum G.Z. Zhao SPECIES
 
 #### Status
 ACCEPTED

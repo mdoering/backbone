@@ -1,17 +1,16 @@
-Pyrenogaster Malençon & Riousset GENUS
-=======
+# Schenella T. Macbr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 93: 310 (1977)
+Mycologia 3(1): 39 (1911)
 
 #### Original name
-Pyrenogaster Malençon & Riousset
+Schenella T. Macbr.
 
 ### Remarks
 null

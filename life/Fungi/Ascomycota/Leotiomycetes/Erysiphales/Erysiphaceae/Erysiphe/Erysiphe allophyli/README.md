@@ -1,5 +1,4 @@
-Erysiphe allophyli U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe allophyli U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

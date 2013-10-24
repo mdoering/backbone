@@ -1,5 +1,4 @@
-Taphrina sacchari Jenkins SPECIES
-=======
+# Taphrina sacchari Jenkins SPECIES
 
 #### Status
 ACCEPTED

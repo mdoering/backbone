@@ -1,5 +1,4 @@
-Macrophoma hennebergii (J.G. Kühn) Berl. & Voglino SPECIES
-=======
+# Macrophoma hennebergii (J.G. Kühn) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

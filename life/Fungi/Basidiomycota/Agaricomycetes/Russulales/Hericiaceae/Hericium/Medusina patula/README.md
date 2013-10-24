@@ -1,5 +1,4 @@
-Medusina patula Chevall. SPECIES
-=======
+# Medusina patula Chevall. SPECIES
 
 #### Status
 ACCEPTED

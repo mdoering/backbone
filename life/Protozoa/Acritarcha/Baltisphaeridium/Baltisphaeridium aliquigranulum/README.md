@@ -1,5 +1,4 @@
-Baltisphaeridium aliquigranulum Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium aliquigranulum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

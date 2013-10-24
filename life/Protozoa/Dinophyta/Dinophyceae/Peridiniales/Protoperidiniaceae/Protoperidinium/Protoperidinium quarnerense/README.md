@@ -1,5 +1,4 @@
-Protoperidinium quarnerense (Schröder) Balech SPECIES
-=======
+# Protoperidinium quarnerense (Schröder) Balech SPECIES
 
 #### Status
 ACCEPTED

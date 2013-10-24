@@ -1,5 +1,4 @@
-Clostridium grantii Mountfort et al., 1996 SPECIES
-=======
+# Clostridium grantii Mountfort et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

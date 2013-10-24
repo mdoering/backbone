@@ -1,5 +1,4 @@
-Phyllosticta saxifragicola Brunaud SPECIES
-=======
+# Phyllosticta saxifragicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

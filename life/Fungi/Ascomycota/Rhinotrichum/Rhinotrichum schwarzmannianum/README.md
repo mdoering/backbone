@@ -1,5 +1,4 @@
-Rhinotrichum schwarzmannianum Philimonova SPECIES
-=======
+# Rhinotrichum schwarzmannianum Philimonova SPECIES
 
 #### Status
 ACCEPTED

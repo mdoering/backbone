@@ -1,5 +1,4 @@
-Lachnea aurantia Velen. SPECIES
-=======
+# Lachnea aurantia Velen. SPECIES
 
 #### Status
 ACCEPTED

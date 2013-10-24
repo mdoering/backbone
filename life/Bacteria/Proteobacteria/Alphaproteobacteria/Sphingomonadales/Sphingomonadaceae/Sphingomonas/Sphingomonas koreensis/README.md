@@ -1,5 +1,4 @@
-Sphingomonas koreensis Lee et al., 2001 SPECIES
-=======
+# Sphingomonas koreensis Lee et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

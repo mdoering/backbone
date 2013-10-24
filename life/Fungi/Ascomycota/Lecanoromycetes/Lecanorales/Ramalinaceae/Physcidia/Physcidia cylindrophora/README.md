@@ -1,5 +1,4 @@
-Physcidia cylindrophora (Taylor) Hue SPECIES
-=======
+# Physcidia cylindrophora (Taylor) Hue SPECIES
 
 #### Status
 ACCEPTED

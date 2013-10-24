@@ -1,5 +1,4 @@
-Puccinia ruderaria H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia ruderaria H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

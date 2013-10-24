@@ -1,5 +1,4 @@
-Smittium bulbosporophorum L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium bulbosporophorum L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

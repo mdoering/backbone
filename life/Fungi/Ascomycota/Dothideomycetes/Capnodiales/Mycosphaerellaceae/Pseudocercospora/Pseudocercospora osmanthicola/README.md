@@ -1,5 +1,4 @@
-Pseudocercospora osmanthicola (P.K. Chi & C.K. Pai) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora osmanthicola (P.K. Chi & C.K. Pai) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

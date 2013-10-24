@@ -1,5 +1,4 @@
-Puccinia perforans Mont. SPECIES
-=======
+# Puccinia perforans Mont. SPECIES
 
 #### Status
 ACCEPTED

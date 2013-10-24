@@ -1,5 +1,4 @@
-Clitocybula oculata (Murrill) H.E. Bigelow SPECIES
-=======
+# Clitocybula oculata (Murrill) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

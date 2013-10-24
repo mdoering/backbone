@@ -1,5 +1,4 @@
-Anabaena plantonica Brunnthaler SPECIES
-=======
+# Anabaena plantonica Brunnthaler SPECIES
 
 #### Status
 ACCEPTED

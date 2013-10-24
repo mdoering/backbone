@@ -1,8 +1,7 @@
-Microellobosporia cinerea Cross et al., 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces cinereus (Cross et al., 1963) Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Rotaliammina carinata SPECIES
-=======
+# Rotaliammina carinata SPECIES
 
 #### Status
 ACCEPTED

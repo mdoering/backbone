@@ -1,5 +1,4 @@
-Macrophoma camelliae Pass. SPECIES
-=======
+# Macrophoma camelliae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora clausenae (Thirum. & Chupp) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora clausenae (Thirum. & Chupp) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

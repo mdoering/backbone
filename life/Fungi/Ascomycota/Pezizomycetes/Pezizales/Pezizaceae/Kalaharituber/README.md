@@ -1,5 +1,4 @@
-Kalaharituber Trappe & Kagan-Zur GENUS
-=======
+# Kalaharituber Trappe & Kagan-Zur GENUS
 
 #### Status
 ACCEPTED

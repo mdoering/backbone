@@ -1,5 +1,4 @@
-Dictyocha calida Poelchau SPECIES
-=======
+# Dictyocha calida Poelchau SPECIES
 
 #### Status
 ACCEPTED

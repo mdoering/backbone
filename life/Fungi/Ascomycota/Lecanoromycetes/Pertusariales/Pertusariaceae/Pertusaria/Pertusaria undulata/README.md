@@ -1,5 +1,4 @@
-Pertusaria undulata Müll. Arg. SPECIES
-=======
+# Pertusaria undulata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

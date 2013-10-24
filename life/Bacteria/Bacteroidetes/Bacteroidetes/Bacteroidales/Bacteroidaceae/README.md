@@ -1,5 +1,4 @@
-Bacteroidaceae Pribram, 1933 FAMILY
-=======
+# Bacteroidaceae Pribram, 1933 FAMILY
 
 #### Status
 ACCEPTED

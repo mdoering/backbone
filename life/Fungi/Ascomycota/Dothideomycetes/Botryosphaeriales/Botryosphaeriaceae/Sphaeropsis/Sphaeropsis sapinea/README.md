@@ -1,8 +1,7 @@
-Sphaeropsis ellisii Sacc., 1884 SPECIES
-=======
+# Sphaeropsis sapinea (Fr.) Dyko & B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

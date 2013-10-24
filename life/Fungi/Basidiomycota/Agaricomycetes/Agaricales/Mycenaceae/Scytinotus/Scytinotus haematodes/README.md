@@ -1,5 +1,4 @@
-Scytinotus haematodes (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Scytinotus haematodes (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

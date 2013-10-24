@@ -1,5 +1,4 @@
-Endocarpon polythecium (Ach.) Gray SPECIES
-=======
+# Endocarpon polythecium (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

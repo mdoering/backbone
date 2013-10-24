@@ -1,5 +1,4 @@
-Battarrea stevenii (Libosch.) Fr. SPECIES
-=======
+# Battarrea stevenii (Libosch.) Fr. SPECIES
 
 #### Status
 ACCEPTED

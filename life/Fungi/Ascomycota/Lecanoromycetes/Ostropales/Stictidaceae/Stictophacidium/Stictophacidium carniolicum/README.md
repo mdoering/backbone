@@ -1,17 +1,16 @@
-Stictophacidium carneolicum Rehm SPECIES
-=======
+# Stictophacidium carniolicum Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Zweite Auflage. Vol. <b>1</b>. 3. Abth: Ascomyceten: Hysteriaceen und Discomyceten 1215 (1896)
 
 #### Original name
-Stictophacidium carneolicum Rehm
+Stictophacidium carniolicum Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma atrodiscus Hesler SPECIES
-=======
+# Entoloma atrodiscus Hesler SPECIES
 
 #### Status
 ACCEPTED

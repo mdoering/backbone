@@ -1,5 +1,4 @@
-Prunulus subpalustris Murrill SPECIES
-=======
+# Prunulus subpalustris Murrill SPECIES
 
 #### Status
 ACCEPTED

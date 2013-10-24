@@ -1,5 +1,4 @@
-Elenia armillata Fanderflit in N. Umnova & Fanderflit, 1971 ex Volkova, 1984 SPECIES
-=======
+# Elenia armillata Fanderflit in N. Umnova & Fanderflit, 1971 ex Volkova, 1984 SPECIES
 
 #### Status
 ACCEPTED

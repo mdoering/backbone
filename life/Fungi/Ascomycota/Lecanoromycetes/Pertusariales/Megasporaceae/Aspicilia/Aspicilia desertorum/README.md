@@ -1,17 +1,16 @@
-Aspicilia desertorum f. desertorum FORM
-=======
+# Aspicilia desertorum (Kremp.) Mereschk. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Aspicilia desertorum f. desertorum
+Lecanora desertorum Kremp.
 
 ### Remarks
 null

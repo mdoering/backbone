@@ -1,5 +1,4 @@
-Tuber fulgens Quél. SPECIES
-=======
+# Tuber fulgens Quél. SPECIES
 
 #### Status
 ACCEPTED

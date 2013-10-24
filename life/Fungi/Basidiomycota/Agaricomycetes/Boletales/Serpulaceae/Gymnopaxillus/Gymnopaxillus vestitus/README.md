@@ -1,5 +1,4 @@
-Gymnopaxillus vestitus Claridge, Trappe & Castellano, 2001 SPECIES
-=======
+# Gymnopaxillus vestitus Claridge, Trappe & Castellano, 2001 SPECIES
 
 #### Status
 ACCEPTED

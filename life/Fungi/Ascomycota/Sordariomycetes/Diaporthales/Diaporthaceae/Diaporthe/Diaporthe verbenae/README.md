@@ -1,5 +1,4 @@
-Diaporthe verbenae Tassi SPECIES
-=======
+# Diaporthe verbenae Tassi SPECIES
 
 #### Status
 ACCEPTED

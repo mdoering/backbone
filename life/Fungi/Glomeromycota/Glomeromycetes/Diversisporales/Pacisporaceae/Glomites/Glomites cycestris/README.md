@@ -1,5 +1,4 @@
-Glomites cycestris Carlie J. Phipps & T.N. Taylor SPECIES
-=======
+# Glomites cycestris Carlie J. Phipps & T.N. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia discopoda Pat. & Har. SPECIES
-=======
+# Hexagonia discopoda Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

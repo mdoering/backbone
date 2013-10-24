@@ -1,5 +1,4 @@
-Russula luteofolia Fatto SPECIES
-=======
+# Russula luteofolia Fatto SPECIES
 
 #### Status
 ACCEPTED

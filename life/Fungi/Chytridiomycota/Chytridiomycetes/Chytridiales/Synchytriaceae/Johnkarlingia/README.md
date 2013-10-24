@@ -1,5 +1,4 @@
-Johnkarlingia Pavgi & S.L. Singh GENUS
-=======
+# Johnkarlingia Pavgi & S.L. Singh GENUS
 
 #### Status
 ACCEPTED

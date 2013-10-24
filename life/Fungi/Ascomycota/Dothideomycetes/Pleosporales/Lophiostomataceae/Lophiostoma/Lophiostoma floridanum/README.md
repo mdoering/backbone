@@ -1,5 +1,4 @@
-Lophiostoma floridanum Ellis & Everh. SPECIES
-=======
+# Lophiostoma floridanum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

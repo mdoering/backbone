@@ -1,5 +1,4 @@
-Mycena ochracea (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Mycena ochracea (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

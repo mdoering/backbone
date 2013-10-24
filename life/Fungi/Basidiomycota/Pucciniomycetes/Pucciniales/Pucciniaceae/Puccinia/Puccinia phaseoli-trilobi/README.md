@@ -1,5 +1,4 @@
-Puccinia phaseoli-trilobi Schwein. SPECIES
-=======
+# Puccinia phaseoli-trilobi Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phragmoxyphium chaetomorphum (Speg.) Cif. & Bat., 1963 SPECIES
-=======
+# Ciferrioxyphium chaetomorphum (Speg.) S. Hughes, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Ciferri, Quad. Lab. crittogam. , Pavia 31: 158 (1963)
+Mycologia 68(4): 762 (1976)
 
 #### Original name
 Capnodium chaetomorphum Speg., 1886

@@ -1,8 +1,7 @@
-Conarachnium nigriniae Caulet, 1971 SPECIES
-=======
+# Lamprocyrtis nigriniae (Caulet) Kling, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

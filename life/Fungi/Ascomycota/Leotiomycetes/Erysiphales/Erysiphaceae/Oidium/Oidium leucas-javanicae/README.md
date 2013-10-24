@@ -1,5 +1,4 @@
-Oidium leucas-javanicae Sawada SPECIES
-=======
+# Oidium leucas-javanicae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia wrightii f. luxurians Nyl. FORM
-=======
+# Cladonia wrightii A. Evans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia wrightii f. luxurians Nyl.
+Cladonia wrightii A. Evans
 
 ### Remarks
 null

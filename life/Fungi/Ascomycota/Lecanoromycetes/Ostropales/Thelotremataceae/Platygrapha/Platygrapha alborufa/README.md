@@ -1,5 +1,4 @@
-Platygrapha alborufa Berk. & Broome SPECIES
-=======
+# Platygrapha alborufa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

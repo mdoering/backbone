@@ -1,5 +1,4 @@
-Setogyroporus verus Heinem. & Rammeloo, 1982 SPECIES
-=======
+# Setogyroporus verus Heinem. & Rammeloo, 1982 SPECIES
 
 #### Status
 ACCEPTED

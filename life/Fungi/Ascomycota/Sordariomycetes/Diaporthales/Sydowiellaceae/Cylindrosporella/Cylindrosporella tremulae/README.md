@@ -1,5 +1,4 @@
-Cylindrosporella tremulae (Lib.) B. Sutton SPECIES
-=======
+# Cylindrosporella tremulae (Lib.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

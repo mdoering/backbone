@@ -1,5 +1,4 @@
-Protocrea fungicola (P. Karst.) Lar.N. Vassiljeva SPECIES
-=======
+# Protocrea fungicola (P. Karst.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia quercetorum Singer SPECIES
-=======
+# Phaeocollybia quercetorum Singer SPECIES
 
 #### Status
 ACCEPTED

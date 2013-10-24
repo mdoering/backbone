@@ -1,5 +1,4 @@
-Rinodina tibellii H. Mayrhofer SPECIES
-=======
+# Rinodina tibellii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

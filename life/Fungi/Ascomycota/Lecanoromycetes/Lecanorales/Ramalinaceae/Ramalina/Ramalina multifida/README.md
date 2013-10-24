@@ -1,5 +1,4 @@
-Ramalina multifida (Ach.) Röhl. SPECIES
-=======
+# Ramalina multifida (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aciserratus Rob. Henry SPECIES
-=======
+# Cortinarius aciserratus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria platyphylloides (Asahina) M. Satô SPECIES
-=======
+# Cetraria platyphylloides (Asahina) M. Satô SPECIES
 
 #### Status
 ACCEPTED

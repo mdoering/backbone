@@ -1,5 +1,4 @@
-Jahnula potamophila K.D. Hyde & S.W. Wong SPECIES
-=======
+# Jahnula potamophila K.D. Hyde & S.W. Wong SPECIES
 
 #### Status
 ACCEPTED

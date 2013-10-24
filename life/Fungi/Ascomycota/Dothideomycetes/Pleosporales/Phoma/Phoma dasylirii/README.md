@@ -1,5 +1,4 @@
-Phoma dasylirii Ces. SPECIES
-=======
+# Phoma dasylirii Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathulina lamellosa (Pat.) Pat. SPECIES
-=======
+# Spathulina lamellosa (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

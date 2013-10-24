@@ -1,5 +1,4 @@
-Physcia megaloplaca Müll. Arg. SPECIES
-=======
+# Physcia megaloplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

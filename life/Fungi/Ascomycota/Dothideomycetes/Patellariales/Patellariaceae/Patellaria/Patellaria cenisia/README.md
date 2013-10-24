@@ -1,5 +1,4 @@
-Patellaria cenisia (Ach.) Trevis. SPECIES
-=======
+# Patellaria cenisia (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium vanderystianum Henn. SPECIES
-=======
+# Aecidium vanderystianum Henn. SPECIES
 
 #### Status
 ACCEPTED

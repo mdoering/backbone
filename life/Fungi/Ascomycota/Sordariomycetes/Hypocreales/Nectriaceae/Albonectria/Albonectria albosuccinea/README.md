@@ -1,14 +1,13 @@
-Nectria albosuccinea (Pat.) Rossman, 1979 SPECIES
-=======
+# Albonectria albosuccinea (Pat.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 8(2): 487 (1979)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 107 (1999)
 
 #### Original name
 Calonectria albosuccinea Pat., 1892

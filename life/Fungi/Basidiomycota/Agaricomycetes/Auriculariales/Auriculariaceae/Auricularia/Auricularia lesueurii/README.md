@@ -1,5 +1,4 @@
-Auricularia lesueurii Bory SPECIES
-=======
+# Auricularia lesueurii Bory SPECIES
 
 #### Status
 ACCEPTED

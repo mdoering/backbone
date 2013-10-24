@@ -1,17 +1,16 @@
-Monochaetinula caffera Matsush. SPECIES
-=======
+# Monochaetinula caffra Matsush., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 17 (1996)
 
 #### Original name
-Monochaetinula caffera Matsush.
+Monochaetinula caffra Matsush., 1996
 
 ### Remarks
 null

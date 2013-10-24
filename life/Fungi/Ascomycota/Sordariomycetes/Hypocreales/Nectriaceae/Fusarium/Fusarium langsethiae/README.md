@@ -1,5 +1,4 @@
-Fusarium langsethiae Torp & Nirenberg, 2004 SPECIES
-=======
+# Fusarium langsethiae Torp & Nirenberg, 2004 SPECIES
 
 #### Status
 ACCEPTED

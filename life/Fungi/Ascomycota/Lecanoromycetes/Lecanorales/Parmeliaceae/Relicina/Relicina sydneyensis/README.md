@@ -1,14 +1,13 @@
-Parmelia sydneyensis Gyeln. SPECIES
-=======
+# Relicina sydneyensis (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: 292 (1938)
+Phytologia 28: 485 (1974)
 
 #### Original name
 Parmelia sydneyensis Gyeln.

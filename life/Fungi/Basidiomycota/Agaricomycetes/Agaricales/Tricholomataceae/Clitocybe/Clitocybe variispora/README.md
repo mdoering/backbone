@@ -1,17 +1,16 @@
-Clitocybe varispora H.E. Bigelow SPECIES
-=======
+# Clitocybe variispora H.E. Bigelow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon, Num. Spéc. 41 (1974)
 
 #### Original name
-Clitocybe varispora H.E. Bigelow
+Clitocybe variispora H.E. Bigelow
 
 ### Remarks
 null

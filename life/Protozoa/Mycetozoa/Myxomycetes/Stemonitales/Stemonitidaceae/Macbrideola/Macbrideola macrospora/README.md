@@ -1,14 +1,13 @@
-Macbrideola cornea var. macrospora Nann.-Bremek. VARIETY
-=======
+# Macbrideola macrospora (Nann.-Bremek.) Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 74: 363 (1971)
+Trans. Br. mycol. Soc. 78(3): 444 (1982)
 
 #### Original name
 Macbrideola cornea var. macrospora Nann.-Bremek.

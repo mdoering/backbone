@@ -1,5 +1,4 @@
-Hymenogaster versicolor Harkn. SPECIES
-=======
+# Hymenogaster versicolor Harkn. SPECIES
 
 #### Status
 ACCEPTED

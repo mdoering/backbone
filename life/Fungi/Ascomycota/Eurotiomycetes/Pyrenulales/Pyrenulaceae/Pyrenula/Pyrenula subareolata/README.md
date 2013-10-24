@@ -1,5 +1,4 @@
-Pyrenula subareolata Nyl. SPECIES
-=======
+# Pyrenula subareolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

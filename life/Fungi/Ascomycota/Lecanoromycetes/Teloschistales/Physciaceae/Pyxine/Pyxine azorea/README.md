@@ -1,5 +1,4 @@
-Pyxine azorea Nyl. SPECIES
-=======
+# Pyxine azorea Nyl. SPECIES
 
 #### Status
 ACCEPTED

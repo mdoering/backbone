@@ -1,5 +1,4 @@
-Pseudobalsamia magnata (Harkn.) Gilkey SPECIES
-=======
+# Pseudobalsamia magnata (Harkn.) Gilkey SPECIES
 
 #### Status
 ACCEPTED

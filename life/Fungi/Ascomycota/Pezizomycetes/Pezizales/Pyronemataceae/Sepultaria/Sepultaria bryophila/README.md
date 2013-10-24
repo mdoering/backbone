@@ -1,5 +1,4 @@
-Sepultaria bryophila Clem. SPECIES
-=======
+# Sepultaria bryophila Clem. SPECIES
 
 #### Status
 ACCEPTED

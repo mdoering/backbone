@@ -1,5 +1,4 @@
-Leucopaxillus subcerasus Corner SPECIES
-=======
+# Leucopaxillus subcerasus Corner SPECIES
 
 #### Status
 ACCEPTED

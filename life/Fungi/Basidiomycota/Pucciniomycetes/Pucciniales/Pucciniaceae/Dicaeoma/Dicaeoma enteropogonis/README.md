@@ -1,5 +1,4 @@
-Dicaeoma enteropogonis (P. Syd. & Syd.) Syd. SPECIES
-=======
+# Dicaeoma enteropogonis (P. Syd. & Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

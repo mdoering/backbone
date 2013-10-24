@@ -1,14 +1,13 @@
-Craterellus cymatodermoides D.A. Reid, K.S. Thind & Adlakha, 1958 SPECIES
-=======
+# Pterygellus cymatodermoides (D.A. Reid, K.S. Thind & Adlakha) Corner, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 41: 131 (1958)
+Monogr. Cantharelloid Fungi 169 (1966)
 
 #### Original name
 Craterellus cymatodermoides D.A. Reid, K.S. Thind & Adlakha, 1958

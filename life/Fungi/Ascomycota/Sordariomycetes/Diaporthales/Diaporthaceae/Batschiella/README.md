@@ -1,5 +1,4 @@
-Batschiella GENUS
-=======
+# Batschiella GENUS
 
 #### Status
 ACCEPTED

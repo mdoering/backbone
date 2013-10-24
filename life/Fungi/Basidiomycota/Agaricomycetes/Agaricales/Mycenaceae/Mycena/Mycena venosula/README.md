@@ -1,5 +1,4 @@
-Mycena venosula Rick SPECIES
-=======
+# Mycena venosula Rick SPECIES
 
 #### Status
 ACCEPTED

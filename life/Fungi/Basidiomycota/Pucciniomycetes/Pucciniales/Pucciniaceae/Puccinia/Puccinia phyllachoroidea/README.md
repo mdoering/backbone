@@ -1,5 +1,4 @@
-Puccinia phyllachoroidea Tranzschel SPECIES
-=======
+# Puccinia phyllachoroidea Tranzschel SPECIES
 
 #### Status
 ACCEPTED

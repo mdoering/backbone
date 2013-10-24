@@ -1,5 +1,4 @@
-Aspergillus calidoustus Varga, Houbraken & Samson SPECIES
-=======
+# Aspergillus calidoustus Varga, Houbraken & Samson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ottavianus terrazetus J.B. Risatti SPECIES
-=======
+# Ottavianus terrazetus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

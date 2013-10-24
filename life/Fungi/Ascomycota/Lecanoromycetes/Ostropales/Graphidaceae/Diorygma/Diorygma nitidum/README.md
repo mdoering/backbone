@@ -1,5 +1,4 @@
-Diorygma nitidum Eschw. SPECIES
-=======
+# Diorygma nitidum Eschw. SPECIES
 
 #### Status
 ACCEPTED

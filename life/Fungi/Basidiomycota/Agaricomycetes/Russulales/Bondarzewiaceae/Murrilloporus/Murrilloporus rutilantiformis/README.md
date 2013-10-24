@@ -1,5 +1,4 @@
-Murrilloporus rutilantiformis (Murrill) Ryvarden SPECIES
-=======
+# Murrilloporus rutilantiformis (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium cithara Penard, 1912 SPECIES
-=======
+# Spathidium cithara Penard, 1912 SPECIES
 
 #### Status
 ACCEPTED

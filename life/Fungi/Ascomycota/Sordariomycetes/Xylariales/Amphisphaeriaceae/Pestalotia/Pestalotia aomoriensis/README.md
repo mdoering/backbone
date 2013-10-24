@@ -1,5 +1,4 @@
-Pestalotia aomoriensis Sawada SPECIES
-=======
+# Pestalotia aomoriensis Sawada SPECIES
 
 #### Status
 ACCEPTED

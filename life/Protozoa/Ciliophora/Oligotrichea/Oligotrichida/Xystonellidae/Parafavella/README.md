@@ -1,5 +1,4 @@
-Parafavella Kofoid & Campbell, 1929 GENUS
-=======
+# Parafavella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium sloaneae Pat. SPECIES
-=======
+# Helotium sloaneae Pat. SPECIES
 
 #### Status
 ACCEPTED

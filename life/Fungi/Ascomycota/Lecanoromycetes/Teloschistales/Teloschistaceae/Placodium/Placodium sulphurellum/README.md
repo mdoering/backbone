@@ -1,5 +1,4 @@
-Placodium sulphurellum Körb. SPECIES
-=======
+# Placodium sulphurellum Körb. SPECIES
 
 #### Status
 ACCEPTED

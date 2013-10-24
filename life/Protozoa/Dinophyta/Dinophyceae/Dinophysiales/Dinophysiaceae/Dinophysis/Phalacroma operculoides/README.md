@@ -1,5 +1,4 @@
-Phalacroma operculoides Schütt, 1895 SPECIES
-=======
+# Phalacroma operculoides Schütt, 1895 SPECIES
 
 #### Status
 DOUBTFUL

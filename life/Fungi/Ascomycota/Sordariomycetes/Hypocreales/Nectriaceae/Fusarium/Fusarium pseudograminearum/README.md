@@ -1,5 +1,4 @@
-Fusarium pseudograminearum O'Donnell & T. Aoki, 1999 SPECIES
-=======
+# Fusarium pseudograminearum O'Donnell & T. Aoki, 1999 SPECIES
 
 #### Status
 ACCEPTED

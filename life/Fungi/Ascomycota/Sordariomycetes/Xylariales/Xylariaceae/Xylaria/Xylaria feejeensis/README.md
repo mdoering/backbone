@@ -1,5 +1,4 @@
-Xylaria feejeensis subsp. feejeensis SUBSPECIES
-=======
+# Xylaria feejeensis (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 128 (1851)
 
 #### Original name
-Xylaria feejeensis subsp. feejeensis
+Sphaeria feejeensis Berk.
 
 ### Remarks
 null

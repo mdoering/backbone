@@ -1,5 +1,4 @@
-Pyrenochaeta tarda Sacc. SPECIES
-=======
+# Pyrenochaeta tarda Sacc. SPECIES
 
 #### Status
 ACCEPTED

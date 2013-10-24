@@ -1,17 +1,16 @@
-Parahendersonia dasylirionis A.W. Ramaley SPECIES
-=======
+# Parahendersonia dasylirii A.W. Ramaley, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aliso 14(2): 152 (1995)
 
 #### Original name
-Parahendersonia dasylirionis A.W. Ramaley
+Parahendersonia dasylirii A.W. Ramaley, 1995
 
 ### Remarks
 null

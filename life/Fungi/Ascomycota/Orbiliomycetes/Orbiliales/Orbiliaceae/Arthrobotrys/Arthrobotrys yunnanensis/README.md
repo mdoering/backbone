@@ -1,5 +1,4 @@
-Arthrobotrys yunnanensis M.H. Mo & K.Q. Zhang SPECIES
-=======
+# Arthrobotrys yunnanensis M.H. Mo & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

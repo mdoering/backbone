@@ -1,5 +1,4 @@
-Urocystis littoralis (Lagerh.) Zundel SPECIES
-=======
+# Urocystis littoralis (Lagerh.) Zundel SPECIES
 
 #### Status
 ACCEPTED

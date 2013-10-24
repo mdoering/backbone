@@ -1,5 +1,4 @@
-Agaricus maiusculus Pilát SPECIES
-=======
+# Agaricus maiusculus Pilát SPECIES
 
 #### Status
 ACCEPTED

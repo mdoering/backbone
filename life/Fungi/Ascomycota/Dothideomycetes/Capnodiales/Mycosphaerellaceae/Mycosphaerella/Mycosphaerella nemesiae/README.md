@@ -1,5 +1,4 @@
-Mycosphaerella nemesiae Dippen. SPECIES
-=======
+# Mycosphaerella nemesiae Dippen. SPECIES
 
 #### Status
 ACCEPTED

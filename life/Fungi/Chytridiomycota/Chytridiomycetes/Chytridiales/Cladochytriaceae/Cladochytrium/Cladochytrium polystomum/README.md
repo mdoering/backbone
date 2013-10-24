@@ -1,5 +1,4 @@
-Cladochytrium polystomum Zopf SPECIES
-=======
+# Cladochytrium polystomum Zopf SPECIES
 
 #### Status
 ACCEPTED

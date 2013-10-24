@@ -1,17 +1,16 @@
-Sistotrema sublamellosum subsp. sublamellosum (Bull.) Quél. SUBSPECIES
-=======
+# Sistotrema confluens Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 24(2): 621 (1896)
+Neues Mag. Bot. 1: 108 (1794)
 
 #### Original name
-Sistotrema sublamellosum subsp. sublamellosum (Bull.) Quél.
+Sistotrema confluens Pers., 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola njalaensis (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola njalaensis (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

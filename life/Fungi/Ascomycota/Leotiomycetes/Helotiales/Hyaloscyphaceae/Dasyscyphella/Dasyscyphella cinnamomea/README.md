@@ -1,5 +1,4 @@
-Dasyscyphella cinnamomea Raitv. SPECIES
-=======
+# Dasyscyphella cinnamomea Raitv. SPECIES
 
 #### Status
 ACCEPTED

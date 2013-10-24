@@ -1,5 +1,4 @@
-Andreanszkya vertesensis Tóth SPECIES
-=======
+# Andreanszkya vertesensis Tóth SPECIES
 
 #### Status
 ACCEPTED

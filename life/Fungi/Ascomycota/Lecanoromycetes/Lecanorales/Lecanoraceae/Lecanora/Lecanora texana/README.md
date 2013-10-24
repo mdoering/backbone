@@ -1,5 +1,4 @@
-Lecanora texana W.A. Weber SPECIES
-=======
+# Lecanora texana W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

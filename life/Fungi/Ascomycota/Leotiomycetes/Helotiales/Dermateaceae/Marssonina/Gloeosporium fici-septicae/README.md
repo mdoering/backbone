@@ -1,5 +1,4 @@
-Gloeosporium fici-septicae Sawada SPECIES
-=======
+# Gloeosporium fici-septicae Sawada SPECIES
 
 #### Status
 ACCEPTED

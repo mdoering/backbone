@@ -1,5 +1,4 @@
-Glonium caryigenum Ellis & Everh. SPECIES
-=======
+# Glonium caryigenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

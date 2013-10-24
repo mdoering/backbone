@@ -1,17 +1,16 @@
-Sericeomyces serenus var. serenus VARIETY
-=======
+# Leucoagaricus serenus (Fr.) Bon & Boiffard, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. Fung. 48: 403 (1978)
+Bull. trimest. Soc. mycol. Fr. 90: 301 (1974)
 
 #### Original name
-Sericeomyces serenus var. serenus
+Agaricus serenus Fr., 1874
 
 ### Remarks
 null

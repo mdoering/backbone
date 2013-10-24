@@ -1,5 +1,4 @@
-Graphina nylanderi Patw. & C.R. Kulk. SPECIES
-=======
+# Graphina nylanderi Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

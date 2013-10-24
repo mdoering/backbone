@@ -1,8 +1,7 @@
-Agaricus exstinctoriiformis I.G. Borshch. SPECIES
-=======
+# Agaricus extinctoriiformis I.G. Borshch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus exstinctoriiformis I.G. Borshch.
+Agaricus extinctoriiformis I.G. Borshch.
 
 ### Remarks
 null

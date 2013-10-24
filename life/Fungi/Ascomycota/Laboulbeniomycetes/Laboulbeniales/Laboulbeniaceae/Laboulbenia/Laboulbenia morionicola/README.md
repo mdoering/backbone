@@ -1,5 +1,4 @@
-Laboulbenia morionicola Speg. SPECIES
-=======
+# Laboulbenia morionicola Speg. SPECIES
 
 #### Status
 ACCEPTED

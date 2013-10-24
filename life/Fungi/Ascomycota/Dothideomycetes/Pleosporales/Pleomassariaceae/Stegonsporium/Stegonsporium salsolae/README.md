@@ -1,17 +1,16 @@
-Steganosporium salsolae Kalymb. SPECIES
-=======
+# Stegonsporium salsolae Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy botanicheskogo Instituta im. V. L. Komarova AN SSSR, Series II 11: 288 (1956)
 
 #### Original name
-Steganosporium salsolae Kalymb.
+Stegonsporium salsolae Kalymb.
 
 ### Remarks
 null

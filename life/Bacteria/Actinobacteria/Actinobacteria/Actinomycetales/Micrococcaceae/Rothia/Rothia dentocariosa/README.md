@@ -1,5 +1,4 @@
-Rothia dentocariosa (Onishi, 1949) Georg and Brown, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Rothia dentocariosa (Onishi, 1949) Georg and Brown, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

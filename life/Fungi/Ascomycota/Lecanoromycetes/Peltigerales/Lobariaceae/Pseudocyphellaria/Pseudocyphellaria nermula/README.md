@@ -1,5 +1,4 @@
-Pseudocyphellaria nermula D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria nermula D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

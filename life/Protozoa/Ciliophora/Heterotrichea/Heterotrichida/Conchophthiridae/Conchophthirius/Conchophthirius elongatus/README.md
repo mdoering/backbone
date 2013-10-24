@@ -1,5 +1,4 @@
-Conchophthirius elongatus SPECIES
-=======
+# Conchophthirius elongatus SPECIES
 
 #### Status
 ACCEPTED

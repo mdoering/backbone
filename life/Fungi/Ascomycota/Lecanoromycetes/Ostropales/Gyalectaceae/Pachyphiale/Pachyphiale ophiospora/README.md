@@ -1,5 +1,4 @@
-Pachyphiale ophiospora Lettau SPECIES
-=======
+# Pachyphiale ophiospora Lettau SPECIES
 
 #### Status
 ACCEPTED

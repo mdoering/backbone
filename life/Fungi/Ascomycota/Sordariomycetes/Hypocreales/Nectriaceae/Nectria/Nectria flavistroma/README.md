@@ -1,5 +1,4 @@
-Nectria flavistroma Petch SPECIES
-=======
+# Nectria flavistroma Petch SPECIES
 
 #### Status
 ACCEPTED

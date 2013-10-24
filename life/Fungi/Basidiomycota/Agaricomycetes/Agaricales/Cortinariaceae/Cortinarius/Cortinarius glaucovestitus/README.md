@@ -1,5 +1,4 @@
-Cortinarius glaucovestitus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius glaucovestitus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

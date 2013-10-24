@@ -1,5 +1,4 @@
-Lyophyllum piperatum (A.H. Sm.) Harmaja SPECIES
-=======
+# Lyophyllum piperatum (A.H. Sm.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

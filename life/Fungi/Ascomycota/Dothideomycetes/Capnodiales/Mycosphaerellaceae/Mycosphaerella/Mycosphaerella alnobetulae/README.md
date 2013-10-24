@@ -1,5 +1,4 @@
-Mycosphaerella alnobetulae Jaap SPECIES
-=======
+# Mycosphaerella alnobetulae Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella pustulata Ellis & Everh. SPECIES
-=======
+# Diatrypella pustulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

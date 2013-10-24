@@ -1,5 +1,4 @@
-Rhachomyces kenodactyli Balazuc & W. Rossi, 1984 SPECIES
-=======
+# Rhachomyces kenodactyli Balazuc & W. Rossi, 1984 SPECIES
 
 #### Status
 ACCEPTED

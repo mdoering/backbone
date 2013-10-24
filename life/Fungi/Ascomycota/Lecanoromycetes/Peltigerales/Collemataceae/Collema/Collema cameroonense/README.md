@@ -1,5 +1,4 @@
-Collema cameroonense C.W. Dodge SPECIES
-=======
+# Collema cameroonense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

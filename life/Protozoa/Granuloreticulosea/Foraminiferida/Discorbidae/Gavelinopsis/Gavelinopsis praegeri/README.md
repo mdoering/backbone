@@ -1,11 +1,10 @@
-Discorbis lobatulus (Parr, 1950) SPECIES
-=======
+# Gavelinopsis praegeri (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Candida xylopsoci Kurtzman SPECIES
-=======
+# Candida xylopsoci Kurtzman SPECIES
 
 #### Status
 ACCEPTED

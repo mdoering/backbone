@@ -1,5 +1,4 @@
-Triospyrium Haeckel, 1887 GENUS
-=======
+# Triospyrium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

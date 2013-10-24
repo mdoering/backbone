@@ -1,11 +1,10 @@
-Saccharina angustata subsp. angustata SUBSPECIES
-=======
+# Saccharina angustata (Kjellman) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

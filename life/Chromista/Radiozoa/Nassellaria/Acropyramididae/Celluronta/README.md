@@ -1,5 +1,4 @@
-Celluronta Sugiyama, 1997 GENUS
-=======
+# Celluronta Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

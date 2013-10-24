@@ -1,5 +1,4 @@
-Mycena texensis A.H. Sm. SPECIES
-=======
+# Mycena texensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

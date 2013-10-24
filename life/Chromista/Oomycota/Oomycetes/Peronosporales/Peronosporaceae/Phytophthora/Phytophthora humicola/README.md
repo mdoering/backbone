@@ -1,5 +1,4 @@
-Phytophthora humicola W.H. Ko & Ann, 1985 SPECIES
-=======
+# Phytophthora humicola W.H. Ko & Ann, 1985 SPECIES
 
 #### Status
 ACCEPTED

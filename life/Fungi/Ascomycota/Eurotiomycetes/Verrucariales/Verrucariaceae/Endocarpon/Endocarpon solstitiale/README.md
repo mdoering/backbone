@@ -1,5 +1,4 @@
-Endocarpon solstitiale Hochst. SPECIES
-=======
+# Endocarpon solstitiale Hochst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella chichisimensis Ts. Watan. SPECIES
-=======
+# Dactylella chichisimensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

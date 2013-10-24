@@ -1,17 +1,16 @@
-Protohydnum piceicolum Kühner ex Bourdot SPECIES
-=======
+# Protohydnum piceicola Kühner ex Bourdot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 48: 205 (1932)
 
 #### Original name
-Protohydnum piceicolum Kühner ex Bourdot
+Protohydnum piceicola Kühner ex Bourdot
 
 ### Remarks
 null

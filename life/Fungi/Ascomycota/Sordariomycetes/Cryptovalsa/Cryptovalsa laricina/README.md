@@ -1,5 +1,4 @@
-Cryptovalsa laricina J.Y. Yuan SPECIES
-=======
+# Cryptovalsa laricina J.Y. Yuan SPECIES
 
 #### Status
 ACCEPTED

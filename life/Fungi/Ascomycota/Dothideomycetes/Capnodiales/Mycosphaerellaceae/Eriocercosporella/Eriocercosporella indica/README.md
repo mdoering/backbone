@@ -1,5 +1,4 @@
-Eriocercosporella indica R. Kumar, A.N. Rai & Kamal ex U. Braun, 1998 SPECIES
-=======
+# Eriocercosporella indica R. Kumar, A.N. Rai & Kamal ex U. Braun, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis asterella (Vain.) Redinger SPECIES
-=======
+# Phaeographis asterella (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

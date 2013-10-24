@@ -1,5 +1,4 @@
-Pyronema amaniense Henn. SPECIES
-=======
+# Pyronema amaniense Henn. SPECIES
 
 #### Status
 ACCEPTED

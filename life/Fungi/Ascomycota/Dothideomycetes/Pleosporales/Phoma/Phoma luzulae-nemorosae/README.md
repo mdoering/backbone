@@ -1,5 +1,4 @@
-Phoma luzulae-nemorosae Petr. SPECIES
-=======
+# Phoma luzulae-nemorosae Petr. SPECIES
 
 #### Status
 ACCEPTED

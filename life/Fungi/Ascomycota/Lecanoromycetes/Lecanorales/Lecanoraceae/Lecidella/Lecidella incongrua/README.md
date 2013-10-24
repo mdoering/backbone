@@ -1,5 +1,4 @@
-Lecidella incongrua (Nyl.) Arnold SPECIES
-=======
+# Lecidella incongrua (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

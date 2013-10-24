@@ -1,5 +1,4 @@
-Erioscyphella bambusina (Bres.) Kirschst. SPECIES
-=======
+# Erioscyphella bambusina (Bres.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

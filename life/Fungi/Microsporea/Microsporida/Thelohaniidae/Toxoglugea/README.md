@@ -1,17 +1,16 @@
-Spirillonema Wenyon, 1926 GENUS
-=======
+# Toxoglugea L. Léger & E. Hesse GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Protozoology, 1, 739, 747.
+null
 
 #### Original name
-Spironema Léger & Hesse
+Toxonema Léger & Hesse
 
 ### Remarks
 null

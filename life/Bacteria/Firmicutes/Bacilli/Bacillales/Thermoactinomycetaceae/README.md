@@ -1,5 +1,4 @@
-Thermoactinomycetaceae FAMILY
-=======
+# Thermoactinomycetaceae FAMILY
 
 #### Status
 ACCEPTED

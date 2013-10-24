@@ -1,14 +1,13 @@
-Hiatula benzoni (Fr.) Sacc. SPECIES
-=======
+# Hiatula benzonii (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 305 (1887)
 
 #### Original name
 Agaricus benzonii Fr.

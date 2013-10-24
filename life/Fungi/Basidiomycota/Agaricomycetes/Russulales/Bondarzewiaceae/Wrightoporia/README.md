@@ -1,5 +1,4 @@
-Wrightoporia Pouzar GENUS
-=======
+# Wrightoporia Pouzar GENUS
 
 #### Status
 ACCEPTED

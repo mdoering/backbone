@@ -1,5 +1,4 @@
-Aecidium adhatodae Syd. SPECIES
-=======
+# Aecidium adhatodae Syd. SPECIES
 
 #### Status
 ACCEPTED

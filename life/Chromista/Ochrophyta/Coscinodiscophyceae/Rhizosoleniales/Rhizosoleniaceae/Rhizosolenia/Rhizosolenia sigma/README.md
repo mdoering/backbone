@@ -1,5 +1,4 @@
-Rhizosolenia sigma Schütt SPECIES
-=======
+# Rhizosolenia sigma Schütt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus globisporus Velen. SPECIES
-=======
+# Hygrophorus globisporus Velen. SPECIES
 
 #### Status
 ACCEPTED

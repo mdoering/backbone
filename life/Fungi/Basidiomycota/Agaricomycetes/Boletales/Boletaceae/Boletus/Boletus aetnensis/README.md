@@ -1,5 +1,4 @@
-Boletus aetnensis Inzenga SPECIES
-=======
+# Boletus aetnensis Inzenga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora ephedrae Speg. SPECIES
-=======
+# Pyrenophora ephedrae Speg. SPECIES
 
 #### Status
 ACCEPTED

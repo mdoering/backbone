@@ -1,5 +1,4 @@
-Phragmidium alpinum Hirats. f. SPECIES
-=======
+# Phragmidium alpinum Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

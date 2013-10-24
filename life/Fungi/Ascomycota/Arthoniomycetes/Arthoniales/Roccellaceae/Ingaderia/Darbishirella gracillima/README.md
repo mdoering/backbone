@@ -1,5 +1,4 @@
-Darbishirella gracillima (Kremp.) Zahlbr. SPECIES
-=======
+# Darbishirella gracillima (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

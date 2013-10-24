@@ -1,14 +1,13 @@
-Thelotrema collativum Kremp. SPECIES
-=======
+# Ocellularia collativa (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 20 (1875)
+Cat. Lich. Univers. 2: 587 (1923)
 
 #### Original name
 Thelotrema collativum Kremp.

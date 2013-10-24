@@ -1,17 +1,16 @@
-Ramularia arabicola Annal. SPECIES
-=======
+# Ramularia arabidicola Annal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 18: 59 (1981)
 
 #### Original name
-Ramularia arabicola Annal.
+Ramularia arabidicola Annal.
 
 ### Remarks
 null

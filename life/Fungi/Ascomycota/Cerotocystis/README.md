@@ -1,5 +1,4 @@
-Cerotocystis GENUS
-=======
+# Cerotocystis GENUS
 
 #### Status
 ACCEPTED

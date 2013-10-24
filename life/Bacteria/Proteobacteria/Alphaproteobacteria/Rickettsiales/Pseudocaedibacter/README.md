@@ -1,5 +1,4 @@
-Pseudocaedibacter Quackenbush, 1982 GENUS
-=======
+# Pseudocaedibacter Quackenbush, 1982 GENUS
 
 #### Status
 ACCEPTED

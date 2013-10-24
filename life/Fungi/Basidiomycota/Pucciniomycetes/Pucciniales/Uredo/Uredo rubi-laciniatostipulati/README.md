@@ -1,5 +1,4 @@
-Uredo rubi-laciniatostipulati Sawada SPECIES
-=======
+# Uredo rubi-laciniatostipulati Sawada SPECIES
 
 #### Status
 ACCEPTED

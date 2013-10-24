@@ -1,5 +1,4 @@
-Methylobacter psychrophilus Omel'chenko et al., 2000 SPECIES
-=======
+# Methylobacter psychrophilus Omel'chenko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

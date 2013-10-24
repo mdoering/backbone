@@ -1,5 +1,4 @@
-Uromyces snowdeniae Cummins SPECIES
-=======
+# Uromyces snowdeniae Cummins SPECIES
 
 #### Status
 ACCEPTED

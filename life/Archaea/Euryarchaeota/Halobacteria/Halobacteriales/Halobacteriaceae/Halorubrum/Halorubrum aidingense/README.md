@@ -1,5 +1,4 @@
-Halorubrum aidingense Cui et al., 2006 SPECIES
-=======
+# Halorubrum aidingense Cui et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

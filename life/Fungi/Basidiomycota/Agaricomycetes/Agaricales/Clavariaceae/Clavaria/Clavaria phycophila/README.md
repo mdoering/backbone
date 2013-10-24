@@ -1,5 +1,4 @@
-Clavaria phycophila Leathers SPECIES
-=======
+# Clavaria phycophila Leathers SPECIES
 
 #### Status
 ACCEPTED

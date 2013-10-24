@@ -1,5 +1,4 @@
-Dicaeoma patagonicum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma patagonicum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

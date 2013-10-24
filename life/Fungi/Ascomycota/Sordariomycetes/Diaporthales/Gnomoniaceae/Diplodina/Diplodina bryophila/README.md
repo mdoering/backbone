@@ -1,5 +1,4 @@
-Diplodina bryophila Racov. SPECIES
-=======
+# Diplodina bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

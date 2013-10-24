@@ -1,5 +1,4 @@
-Uncinula polyfida C.T. Wei SPECIES
-=======
+# Uncinula polyfida C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

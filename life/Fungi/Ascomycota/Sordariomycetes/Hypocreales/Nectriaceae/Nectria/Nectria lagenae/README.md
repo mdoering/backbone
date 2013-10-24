@@ -1,5 +1,4 @@
-Nectria lagenae Massee SPECIES
-=======
+# Nectria lagenae Massee SPECIES
 
 #### Status
 ACCEPTED

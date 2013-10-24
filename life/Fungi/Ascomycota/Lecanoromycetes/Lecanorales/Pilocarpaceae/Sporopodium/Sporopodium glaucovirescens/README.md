@@ -1,5 +1,4 @@
-Sporopodium glaucovirescens (Vain.) Zahlbr. SPECIES
-=======
+# Sporopodium glaucovirescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

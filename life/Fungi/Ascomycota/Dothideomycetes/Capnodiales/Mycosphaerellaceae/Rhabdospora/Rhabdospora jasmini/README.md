@@ -1,5 +1,4 @@
-Rhabdospora jasmini (Schwein.) Cooke SPECIES
-=======
+# Rhabdospora jasmini (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

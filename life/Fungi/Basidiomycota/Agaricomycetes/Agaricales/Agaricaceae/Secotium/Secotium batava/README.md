@@ -1,5 +1,4 @@
-Secotium batava Heim & Le Gal SPECIES
-=======
+# Secotium batava Heim & Le Gal SPECIES
 
 #### Status
 ACCEPTED

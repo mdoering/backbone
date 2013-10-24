@@ -1,5 +1,4 @@
-Macrosporium obtusum Berk., 1855 SPECIES
-=======
+# Macrosporium obtusum Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

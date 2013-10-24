@@ -1,5 +1,4 @@
-Allogromia verbrugghei Saedeleer, 1934 SPECIES
-=======
+# Allogromia verbrugghei Saedeleer, 1934 SPECIES
 
 #### Status
 ACCEPTED

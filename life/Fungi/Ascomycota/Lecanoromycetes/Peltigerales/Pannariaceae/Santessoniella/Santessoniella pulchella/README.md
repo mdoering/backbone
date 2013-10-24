@@ -1,5 +1,4 @@
-Santessoniella pulchella P. M. Jørg. SPECIES
-=======
+# Santessoniella pulchella P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

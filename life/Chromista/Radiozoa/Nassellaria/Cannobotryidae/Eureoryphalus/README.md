@@ -1,5 +1,4 @@
-Eureoryphalus Murray, 1885 GENUS
-=======
+# Eureoryphalus Murray, 1885 GENUS
 
 #### Status
 ACCEPTED

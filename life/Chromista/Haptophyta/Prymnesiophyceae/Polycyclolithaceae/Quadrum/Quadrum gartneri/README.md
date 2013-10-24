@@ -1,5 +1,4 @@
-Quadrum gartneri Prins & Perch-Nielsen in Manivit et al., 1977 SPECIES
-=======
+# Quadrum gartneri Prins & Perch-Nielsen in Manivit et al., 1977 SPECIES
 
 #### Status
 ACCEPTED

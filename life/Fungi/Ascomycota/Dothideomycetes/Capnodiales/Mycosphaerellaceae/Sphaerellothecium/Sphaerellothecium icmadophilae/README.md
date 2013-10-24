@@ -1,5 +1,4 @@
-Sphaerellothecium icmadophilae (R. Sant.) Zhurb. SPECIES
-=======
+# Sphaerellothecium icmadophilae (R. Sant.) Zhurb. SPECIES
 
 #### Status
 ACCEPTED

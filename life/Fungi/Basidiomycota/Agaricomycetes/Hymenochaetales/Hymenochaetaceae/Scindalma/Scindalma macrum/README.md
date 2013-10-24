@@ -1,5 +1,4 @@
-Scindalma macrum (Berk.) Kuntze SPECIES
-=======
+# Scindalma macrum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene arisanensis W. Yamam. SPECIES
-=======
+# Irene arisanensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

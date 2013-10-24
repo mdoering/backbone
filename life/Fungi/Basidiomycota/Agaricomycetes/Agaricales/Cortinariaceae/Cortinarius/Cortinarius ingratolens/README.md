@@ -1,5 +1,4 @@
-Cortinarius ingratolens Gasparini SPECIES
-=======
+# Cortinarius ingratolens Gasparini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraphaeoisaria alabamensis de Hoog & Morgan-Jones, 1978 SPECIES
-=======
+# Paraphaeoisaria alabamensis de Hoog & Morgan-Jones, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achorodothis poasensis Syd., 1926 SPECIES
-=======
+# Achorodothis poasensis Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

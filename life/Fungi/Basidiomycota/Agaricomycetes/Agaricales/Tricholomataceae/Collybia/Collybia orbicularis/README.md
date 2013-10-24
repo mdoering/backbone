@@ -1,5 +1,4 @@
-Collybia orbicularis Secr. SPECIES
-=======
+# Collybia orbicularis Secr. SPECIES
 
 #### Status
 ACCEPTED

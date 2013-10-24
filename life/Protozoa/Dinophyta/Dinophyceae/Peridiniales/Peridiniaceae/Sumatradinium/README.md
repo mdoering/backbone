@@ -1,5 +1,4 @@
-Sumatradinium J.K. Lentin & G.L. Williams, 1975 GENUS
-=======
+# Sumatradinium J.K. Lentin & G.L. Williams, 1975 GENUS
 
 #### Status
 ACCEPTED

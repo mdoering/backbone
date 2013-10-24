@@ -1,5 +1,4 @@
-Cordyceps annullata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps annullata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

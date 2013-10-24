@@ -1,5 +1,4 @@
-Lycoperdon weinmannii Sosin SPECIES
-=======
+# Lycoperdon weinmannii Sosin SPECIES
 
 #### Status
 ACCEPTED

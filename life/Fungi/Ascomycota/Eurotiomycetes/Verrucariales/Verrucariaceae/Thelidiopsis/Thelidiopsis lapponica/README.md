@@ -1,5 +1,4 @@
-Thelidiopsis lapponica Servít SPECIES
-=======
+# Thelidiopsis lapponica Servít SPECIES
 
 #### Status
 ACCEPTED

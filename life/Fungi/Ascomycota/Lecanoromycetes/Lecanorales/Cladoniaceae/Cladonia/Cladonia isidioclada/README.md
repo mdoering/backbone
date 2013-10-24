@@ -1,5 +1,4 @@
-Cladonia isidioclada Mont. & Bosch SPECIES
-=======
+# Cladonia isidioclada Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

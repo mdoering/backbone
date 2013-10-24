@@ -1,5 +1,4 @@
-Pycnocalyx GENUS
-=======
+# Pycnocalyx GENUS
 
 #### Status
 ACCEPTED

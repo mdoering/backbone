@@ -1,5 +1,4 @@
-Tylomyces cortini SPECIES
-=======
+# Tylomyces cortini SPECIES
 
 #### Status
 ACCEPTED

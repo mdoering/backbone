@@ -1,5 +1,4 @@
-Lecanora neosonorensis Lumbsch & T. H. Nash SPECIES
-=======
+# Lecanora neosonorensis Lumbsch & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

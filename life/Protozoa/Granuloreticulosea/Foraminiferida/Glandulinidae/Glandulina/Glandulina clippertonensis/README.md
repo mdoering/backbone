@@ -1,5 +1,4 @@
-Glandulina clippertonensis McCulloch, 1977 SPECIES
-=======
+# Glandulina clippertonensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

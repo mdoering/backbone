@@ -1,5 +1,4 @@
-Helotiella velutina Speg. SPECIES
-=======
+# Helotiella velutina Speg. SPECIES
 
 #### Status
 ACCEPTED

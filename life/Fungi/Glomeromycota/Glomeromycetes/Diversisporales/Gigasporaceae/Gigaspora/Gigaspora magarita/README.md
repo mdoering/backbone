@@ -1,5 +1,4 @@
-Gigaspora magarita Becker & Hall SPECIES
-=======
+# Gigaspora magarita Becker & Hall SPECIES
 
 #### Status
 ACCEPTED

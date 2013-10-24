@@ -1,5 +1,4 @@
-Rhachomyces peyerimhoffii Maire SPECIES
-=======
+# Rhachomyces peyerimhoffii Maire SPECIES
 
 #### Status
 ACCEPTED

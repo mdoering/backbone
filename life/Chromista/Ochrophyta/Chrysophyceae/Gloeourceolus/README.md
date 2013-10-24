@@ -1,5 +1,4 @@
-Gloeourceolus Shi Zhixin, 1998 GENUS
-=======
+# Gloeourceolus Shi Zhixin, 1998 GENUS
 
 #### Status
 ACCEPTED

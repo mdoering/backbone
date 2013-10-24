@@ -1,17 +1,16 @@
-Pseudoolla Velen. GENUS
-=======
+# Olla Velenovský, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 288 (1934)
+Monogr. Discom. Bohem. (Prague) 286 (1934)
 
 #### Original name
-Pseudoolla Velen.
+Olla Velenovský, 1934
 
 ### Remarks
 null

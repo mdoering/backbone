@@ -1,5 +1,4 @@
-Acremonium africanum Dominik & Ihnat., 1975 SPECIES
-=======
+# Acremonium africanum Dominik & Ihnat., 1975 SPECIES
 
 #### Status
 ACCEPTED

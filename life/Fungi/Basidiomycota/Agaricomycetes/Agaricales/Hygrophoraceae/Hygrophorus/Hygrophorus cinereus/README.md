@@ -1,17 +1,16 @@
-Agaricus ficoides var. cinereus (Pers.) Pers., 1828 VARIETY
-=======
+# Hygrophorus cinereus (Pers.) Fr., 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 3: 98 (1828)
+Ceské Houby 1: 101 (1920)
 
 #### Original name
-Agaricus pratensis Fr., 1818
+Hygrophorus cinereus (Pers.) Fr., 1861
 
 ### Remarks
 null

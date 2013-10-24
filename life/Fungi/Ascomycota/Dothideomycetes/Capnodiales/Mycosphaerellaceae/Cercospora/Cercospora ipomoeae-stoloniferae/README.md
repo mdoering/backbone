@@ -1,5 +1,4 @@
-Cercospora ipomoeae-stoloniferae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora ipomoeae-stoloniferae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

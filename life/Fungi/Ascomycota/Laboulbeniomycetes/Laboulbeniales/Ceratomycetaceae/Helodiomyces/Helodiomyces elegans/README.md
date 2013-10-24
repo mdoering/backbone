@@ -1,5 +1,4 @@
-Helodiomyces elegans F. Picard, 1913 SPECIES
-=======
+# Helodiomyces elegans F. Picard, 1913 SPECIES
 
 #### Status
 ACCEPTED

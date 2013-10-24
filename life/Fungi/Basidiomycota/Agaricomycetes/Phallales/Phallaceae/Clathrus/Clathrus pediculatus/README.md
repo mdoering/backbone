@@ -1,5 +1,4 @@
-Clathrus pediculatus Guett. {?} SPECIES
-=======
+# Clathrus pediculatus Guett. {?} SPECIES
 
 #### Status
 ACCEPTED

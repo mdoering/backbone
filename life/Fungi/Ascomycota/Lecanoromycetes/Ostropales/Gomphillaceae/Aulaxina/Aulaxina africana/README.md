@@ -1,5 +1,4 @@
-Aulaxina africana (Vain.) Zahlbr. SPECIES
-=======
+# Aulaxina africana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

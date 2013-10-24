@@ -1,5 +1,4 @@
-Remaniella Catalano, 1965 GENUS
-=======
+# Remaniella Catalano, 1965 GENUS
 
 #### Status
 ACCEPTED

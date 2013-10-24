@@ -1,5 +1,4 @@
-Uromyces macrosporus Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces macrosporus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

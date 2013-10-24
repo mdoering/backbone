@@ -1,5 +1,4 @@
-Blastenia ameliensis (Nyl.) Mahue & A. Gillet SPECIES
-=======
+# Blastenia ameliensis (Nyl.) Mahue & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

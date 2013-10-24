@@ -1,5 +1,4 @@
-Cylindrocarpon olidum var. olidum (Wollenw.) Wollenw., 1916 VARIETY
-=======
+# Cylindrocarpon olidum (Wollenw.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Fusaria autographica delineata, Edn 1 no. 471 (1916)
 
 #### Original name
-Cylindrocarpon olidum var. olidum (Wollenw.) Wollenw., 1916
+null
 
 ### Remarks
 null

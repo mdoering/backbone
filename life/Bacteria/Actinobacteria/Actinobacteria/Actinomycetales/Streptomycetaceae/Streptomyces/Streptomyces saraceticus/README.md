@@ -1,5 +1,4 @@
-Streptomyces saraceticus Berger et al., 1962 SPECIES
-=======
+# Streptomyces saraceticus Berger et al., 1962 SPECIES
 
 #### Status
 ACCEPTED

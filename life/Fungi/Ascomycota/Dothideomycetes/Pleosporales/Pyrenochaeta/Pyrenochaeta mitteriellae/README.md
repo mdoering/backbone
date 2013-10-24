@@ -1,5 +1,4 @@
-Pyrenochaeta mitteriellae V.P. Sahni SPECIES
-=======
+# Pyrenochaeta mitteriellae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenella arundinis (Fr.) Vestergr. SPECIES
-=======
+# Hymenella arundinis (Fr.) Vestergr. SPECIES
 
 #### Status
 ACCEPTED

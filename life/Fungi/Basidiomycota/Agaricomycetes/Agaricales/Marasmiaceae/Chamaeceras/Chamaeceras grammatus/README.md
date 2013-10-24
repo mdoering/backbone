@@ -1,5 +1,4 @@
-Chamaeceras grammatus (Pat.) Kuntze SPECIES
-=======
+# Chamaeceras grammatus (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

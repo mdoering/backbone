@@ -1,5 +1,4 @@
-Ascochyta plumeriae Henn. SPECIES
-=======
+# Ascochyta plumeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

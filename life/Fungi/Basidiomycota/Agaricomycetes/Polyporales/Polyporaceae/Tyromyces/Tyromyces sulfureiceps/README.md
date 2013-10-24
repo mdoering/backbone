@@ -1,5 +1,4 @@
-Tyromyces sulfureiceps Corner SPECIES
-=======
+# Tyromyces sulfureiceps Corner SPECIES
 
 #### Status
 ACCEPTED

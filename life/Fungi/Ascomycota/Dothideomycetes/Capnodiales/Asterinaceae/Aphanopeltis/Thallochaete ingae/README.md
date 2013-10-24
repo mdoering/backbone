@@ -1,5 +1,4 @@
-Thallochaete ingae Theiss. SPECIES
-=======
+# Thallochaete ingae Theiss. SPECIES
 
 #### Status
 ACCEPTED

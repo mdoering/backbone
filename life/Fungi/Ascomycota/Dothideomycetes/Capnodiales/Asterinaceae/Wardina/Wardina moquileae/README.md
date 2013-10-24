@@ -1,5 +1,4 @@
-Wardina moquileae Bat. SPECIES
-=======
+# Wardina moquileae Bat. SPECIES
 
 #### Status
 ACCEPTED

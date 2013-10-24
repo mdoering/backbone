@@ -1,5 +1,4 @@
-Diplodia evonymi Westend. SPECIES
-=======
+# Diplodia evonymi Westend. SPECIES
 
 #### Status
 ACCEPTED

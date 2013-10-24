@@ -1,5 +1,4 @@
-Marasmius kisangensis Singer SPECIES
-=======
+# Marasmius kisangensis Singer SPECIES
 
 #### Status
 ACCEPTED

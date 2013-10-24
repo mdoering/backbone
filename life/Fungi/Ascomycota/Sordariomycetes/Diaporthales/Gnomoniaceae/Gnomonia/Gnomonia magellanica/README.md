@@ -1,5 +1,4 @@
-Gnomonia magellanica Speg. SPECIES
-=======
+# Gnomonia magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

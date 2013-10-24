@@ -1,8 +1,7 @@
-Ampullaria Couch, 1963 GENUS
-=======
+# Ampullariella Couch, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
@@ -11,7 +10,7 @@ IRMNG Homonym List
 null
 
 #### Original name
-null
+Ampullariella Couch, 1964
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonia massarioides Tassi SPECIES
-=======
+# Hendersonia massarioides Tassi SPECIES
 
 #### Status
 ACCEPTED

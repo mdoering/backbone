@@ -1,5 +1,4 @@
-Santessoniella Henssen GENUS
-=======
+# Santessoniella Henssen GENUS
 
 #### Status
 ACCEPTED

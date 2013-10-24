@@ -1,5 +1,4 @@
-Drepanomonas pauciciliata Foissner, 1987 SPECIES
-=======
+# Drepanomonas pauciciliata Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

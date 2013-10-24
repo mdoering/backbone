@@ -1,5 +1,4 @@
-Rivilata Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
-=======
+# Rivilata Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

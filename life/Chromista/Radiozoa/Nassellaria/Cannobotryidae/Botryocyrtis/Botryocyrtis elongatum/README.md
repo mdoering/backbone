@@ -1,5 +1,4 @@
-Botryocyrtis elongatum Takahashi, 1991 SPECIES
-=======
+# Botryocyrtis elongatum Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

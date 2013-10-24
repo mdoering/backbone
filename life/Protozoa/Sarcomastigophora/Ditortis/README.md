@@ -1,5 +1,4 @@
-Ditortis Kozur, 1988 GENUS
-=======
+# Ditortis Kozur, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitruliopsis GENUS
-=======
+# Mitruliopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites washingtonensis Elsik SPECIES
-=======
+# Hypoxylonites washingtonensis Elsik SPECIES
 
 #### Status
 ACCEPTED

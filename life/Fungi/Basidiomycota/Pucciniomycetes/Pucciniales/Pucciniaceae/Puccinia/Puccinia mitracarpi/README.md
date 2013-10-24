@@ -1,17 +1,16 @@
-Puccinia mitracarpa O.L. Pereira & R.W. Barreto SPECIES
-=======
+# Puccinia mitracarpi O.L. Pereira & R.W. Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Australas. Pl. Path. 34(1): 41 (2005)
 
 #### Original name
-Puccinia mitracarpa O.L. Pereira & R.W. Barreto
+Puccinia mitracarpi O.L. Pereira & R.W. Barreto
 
 ### Remarks
 null

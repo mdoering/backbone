@@ -1,5 +1,4 @@
-Thigmostrombidium Yankovskij, 1978 GENUS
-=======
+# Thigmostrombidium Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

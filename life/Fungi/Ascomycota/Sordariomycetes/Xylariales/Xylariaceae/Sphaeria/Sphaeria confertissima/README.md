@@ -1,5 +1,4 @@
-Sphaeria confertissima Plowr. SPECIES
-=======
+# Sphaeria confertissima Plowr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium zozimiae Kalymb. SPECIES
-=======
+# Coniothyrium zozimiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

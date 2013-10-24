@@ -1,5 +1,4 @@
-Gibbera lycopodii L. Holm & K. Holm SPECIES
-=======
+# Gibbera lycopodii L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

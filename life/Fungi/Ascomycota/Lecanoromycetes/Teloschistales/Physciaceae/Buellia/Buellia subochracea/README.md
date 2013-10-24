@@ -1,5 +1,4 @@
-Buellia subochracea (Zahlbr.) J. Steiner SPECIES
-=======
+# Buellia subochracea (Zahlbr.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

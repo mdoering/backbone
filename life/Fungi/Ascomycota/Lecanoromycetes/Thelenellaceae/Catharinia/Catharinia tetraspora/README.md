@@ -1,5 +1,4 @@
-Catharinia tetraspora Höhn. SPECIES
-=======
+# Catharinia tetraspora Höhn. SPECIES
 
 #### Status
 ACCEPTED

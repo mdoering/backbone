@@ -1,5 +1,4 @@
-Bowmanella Jean et al., 2006 GENUS
-=======
+# Bowmanella Jean et al., 2006 GENUS
 
 #### Status
 ACCEPTED

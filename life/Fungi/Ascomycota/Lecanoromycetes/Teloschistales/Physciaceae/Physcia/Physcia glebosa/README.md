@@ -1,5 +1,4 @@
-Physcia glebosa SPECIES
-=======
+# Physcia glebosa SPECIES
 
 #### Status
 ACCEPTED

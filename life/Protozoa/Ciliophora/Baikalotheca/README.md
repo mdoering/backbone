@@ -1,5 +1,4 @@
-Baikalotheca Jankowski, 1985 GENUS
-=======
+# Baikalotheca Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca agardhiana var. agardhiana VARIETY
-=======
+# Caloplaca agardhiana (Flot.) Flagey SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 229 (1985)
 
 #### Original name
 Zeora variabilis var. agardhiana Flot.

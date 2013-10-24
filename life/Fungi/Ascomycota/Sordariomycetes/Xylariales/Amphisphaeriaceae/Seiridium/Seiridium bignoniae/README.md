@@ -1,5 +1,4 @@
-Seiridium bignoniae (Sousa da Câmara) B. Sutton SPECIES
-=======
+# Seiridium bignoniae (Sousa da Câmara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

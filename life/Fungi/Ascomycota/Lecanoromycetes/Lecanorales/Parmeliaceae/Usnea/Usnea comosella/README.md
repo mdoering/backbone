@@ -1,5 +1,4 @@
-Usnea comosella Räsänen SPECIES
-=======
+# Usnea comosella Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus nonscriptus Berk. ex Cooke SPECIES
-=======
+# Polyporus nonscriptus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

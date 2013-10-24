@@ -1,5 +1,4 @@
-Lembosia durbana Van der Byl SPECIES
-=======
+# Lembosia durbana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

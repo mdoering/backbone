@@ -1,5 +1,4 @@
-Histioneis inornata Kofoid & Michener, 1911 SPECIES
-=======
+# Histioneis inornata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

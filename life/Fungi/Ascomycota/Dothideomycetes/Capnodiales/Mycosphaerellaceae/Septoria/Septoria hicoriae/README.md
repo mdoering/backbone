@@ -1,5 +1,4 @@
-Septoria hicoriae Tharp SPECIES
-=======
+# Septoria hicoriae Tharp SPECIES
 
 #### Status
 ACCEPTED

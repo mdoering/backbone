@@ -1,5 +1,4 @@
-Hypoxylon melanaspis (Mont.) Cooke SPECIES
-=======
+# Hypoxylon melanaspis (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

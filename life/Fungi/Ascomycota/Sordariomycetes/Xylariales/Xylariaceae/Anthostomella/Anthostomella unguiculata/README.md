@@ -1,14 +1,13 @@
-Sphaeria unguiculata Mont., 1850 SPECIES
-=======
+# Anthostomella unguiculata (Mont.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 288 (1882)
 
 #### Original name
 Sphaeria unguiculata Mont., 1850

@@ -1,5 +1,4 @@
-Trigonium formosum f. tetragonum T.V. Desikachary FORM
-=======
+# Trigonium formosum SPECIES
 
 #### Status
 ACCEPTED

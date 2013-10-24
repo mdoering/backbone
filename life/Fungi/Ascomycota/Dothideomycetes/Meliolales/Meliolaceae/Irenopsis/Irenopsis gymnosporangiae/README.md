@@ -1,5 +1,4 @@
-Irenopsis gymnosporangiae Hansf. SPECIES
-=======
+# Irenopsis gymnosporangiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

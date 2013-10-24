@@ -1,5 +1,4 @@
-Calicium muriformis Tibell SPECIES
-=======
+# Calicium muriformis Tibell SPECIES
 
 #### Status
 ACCEPTED

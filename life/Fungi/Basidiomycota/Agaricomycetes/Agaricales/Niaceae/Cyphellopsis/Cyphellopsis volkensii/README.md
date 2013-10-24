@@ -1,5 +1,4 @@
-Cyphellopsis volkensii (Henn.) Singer SPECIES
-=======
+# Cyphellopsis volkensii (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

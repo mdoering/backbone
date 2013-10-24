@@ -1,5 +1,4 @@
-Spirulina gomontii Guwinski SPECIES
-=======
+# Spirulina gomontii Guwinski SPECIES
 
 #### Status
 ACCEPTED

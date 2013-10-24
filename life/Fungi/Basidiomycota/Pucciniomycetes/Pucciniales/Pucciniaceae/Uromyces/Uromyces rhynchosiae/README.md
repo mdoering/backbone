@@ -1,5 +1,4 @@
-Uromyces rhynchosiae Cooke ex Doidge SPECIES
-=======
+# Uromyces rhynchosiae Cooke ex Doidge SPECIES
 
 #### Status
 ACCEPTED

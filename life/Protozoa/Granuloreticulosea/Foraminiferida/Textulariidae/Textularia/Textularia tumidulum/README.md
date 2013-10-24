@@ -1,5 +1,4 @@
-Textularia tumidulum Cushman SPECIES
-=======
+# Textularia tumidulum Cushman SPECIES
 
 #### Status
 ACCEPTED

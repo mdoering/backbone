@@ -1,5 +1,4 @@
-Trachelomonas elegans W. Conrad SPECIES
-=======
+# Trachelomonas elegans W. Conrad SPECIES
 
 #### Status
 ACCEPTED

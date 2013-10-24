@@ -1,5 +1,4 @@
-Iridia diaphana Heron-allen and Earland, 1916 SPECIES
-=======
+# Iridia diaphana Heron-allen and Earland, 1916 SPECIES
 
 #### Status
 ACCEPTED

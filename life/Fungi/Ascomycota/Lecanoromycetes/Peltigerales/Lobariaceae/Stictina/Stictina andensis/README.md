@@ -1,5 +1,4 @@
-Stictina andensis Nyl. SPECIES
-=======
+# Stictina andensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schimperiana Syd. SPECIES
-=======
+# Puccinia schimperiana Syd. SPECIES
 
 #### Status
 ACCEPTED

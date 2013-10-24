@@ -1,17 +1,16 @@
-Parmelia calva Essl. SPECIES
-=======
+# Melanelia calva (Essl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 47 (1978)
 
 #### Original name
-null
+Parmelia calva Essl.
 
 ### Remarks
 null

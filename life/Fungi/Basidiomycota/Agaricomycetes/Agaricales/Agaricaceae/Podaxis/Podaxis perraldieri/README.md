@@ -1,8 +1,7 @@
-Podaxon perraldieri Pat. SPECIES
-=======
+# Podaxis perraldieri Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon perraldieri Pat.
+Podaxis perraldieri Pat.
 
 ### Remarks
 null

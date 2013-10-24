@@ -1,5 +1,4 @@
-Ricasolia GENUS
-=======
+# Ricasolia GENUS
 
 #### Status
 ACCEPTED

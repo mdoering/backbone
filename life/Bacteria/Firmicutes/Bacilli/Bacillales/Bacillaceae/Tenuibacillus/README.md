@@ -1,5 +1,4 @@
-Tenuibacillus Ren & Zhou, 2005 GENUS
-=======
+# Tenuibacillus Ren & Zhou, 2005 GENUS
 
 #### Status
 ACCEPTED

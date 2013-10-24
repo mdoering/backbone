@@ -1,5 +1,4 @@
-Agaricus coccinellus Ehrenb. SPECIES
-=======
+# Agaricus coccinellus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

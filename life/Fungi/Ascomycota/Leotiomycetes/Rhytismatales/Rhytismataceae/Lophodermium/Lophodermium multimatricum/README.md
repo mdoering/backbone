@@ -1,5 +1,4 @@
-Lophodermium multimatricum P.R. Johnst., 1988 SPECIES
-=======
+# Lophodermium multimatricum P.R. Johnst., 1988 SPECIES
 
 #### Status
 ACCEPTED

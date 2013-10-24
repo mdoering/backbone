@@ -1,5 +1,4 @@
-Phyllosticta sequoiicola Melnik SPECIES
-=======
+# Phyllosticta sequoiicola Melnik SPECIES
 
 #### Status
 ACCEPTED

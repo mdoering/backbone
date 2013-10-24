@@ -1,5 +1,4 @@
-Reticulophragnium sintikuensis (Nakamura) SPECIES
-=======
+# Reticulophragnium sintikuensis (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

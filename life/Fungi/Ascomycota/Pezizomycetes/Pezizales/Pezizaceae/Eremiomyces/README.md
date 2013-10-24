@@ -1,5 +1,4 @@
-Eremiomyces Trappe & Kagan-Zur GENUS
-=======
+# Eremiomyces Trappe & Kagan-Zur GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius croceofulvus (DC.) Fr. SPECIES
-=======
+# Cortinarius croceofulvus (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

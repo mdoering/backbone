@@ -1,5 +1,4 @@
-Belonia nidarosiensis (Kindt) P. M. Jørg. & Vezda SPECIES
-=======
+# Belonia nidarosiensis (Kindt) P. M. Jørg. & Vezda SPECIES
 
 #### Status
 ACCEPTED

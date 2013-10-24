@@ -1,5 +1,4 @@
-Phyllosticta sporalonga M. Morelet SPECIES
-=======
+# Phyllosticta sporalonga M. Morelet SPECIES
 
 #### Status
 ACCEPTED

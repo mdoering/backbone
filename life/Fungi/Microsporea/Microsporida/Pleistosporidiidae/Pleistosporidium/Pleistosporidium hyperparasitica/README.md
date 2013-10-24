@@ -1,5 +1,4 @@
-Pleistosporidium hyperparasitica (Codreanu-Bälcescu & Codreanu) Codreanu-Bälcescu & Codreanu SPECIES
-=======
+# Pleistosporidium hyperparasitica (Codreanu-Bälcescu & Codreanu) Codreanu-Bälcescu & Codreanu SPECIES
 
 #### Status
 ACCEPTED

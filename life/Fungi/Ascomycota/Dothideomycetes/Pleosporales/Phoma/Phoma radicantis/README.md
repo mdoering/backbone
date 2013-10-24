@@ -1,5 +1,4 @@
-Phoma radicantis Cooke SPECIES
-=======
+# Phoma radicantis Cooke SPECIES
 
 #### Status
 ACCEPTED

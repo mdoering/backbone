@@ -1,5 +1,4 @@
-Cyphella perpusilla Berk. SPECIES
-=======
+# Cyphella perpusilla Berk. SPECIES
 
 #### Status
 ACCEPTED

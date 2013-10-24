@@ -1,5 +1,4 @@
-Sphaeria meretrix Mont. SPECIES
-=======
+# Sphaeria meretrix Mont. SPECIES
 
 #### Status
 ACCEPTED

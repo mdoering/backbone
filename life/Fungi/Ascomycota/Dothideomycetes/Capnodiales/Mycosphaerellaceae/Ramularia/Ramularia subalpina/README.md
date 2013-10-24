@@ -1,5 +1,4 @@
-Ramularia subalpina Bubák SPECIES
-=======
+# Ramularia subalpina Bubák SPECIES
 
 #### Status
 ACCEPTED

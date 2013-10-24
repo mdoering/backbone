@@ -1,17 +1,16 @@
-Phacidium grandis DiCosmo, Nag Raj & W.B. Kendr. SPECIES
-=======
+# Phacidium grande DiCosmo, Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 37 (1983)
 
 #### Original name
-Phacidium grandis DiCosmo, Nag Raj & W.B. Kendr.
+Phacidium grande DiCosmo, Nag Raj & W.B. Kendr.
 
 ### Remarks
 null

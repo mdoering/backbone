@@ -1,5 +1,4 @@
-Phyllosticta celtidis Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta celtidis Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

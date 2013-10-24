@@ -1,17 +1,16 @@
-Tubercularia minor var. minor VARIETY
-=======
+# Tubercularia minor Link SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Caroli a Linné Species Plantarum exhibentes Plantas Rite Cognitas ad Genera Relatas 2: 100 (1825)
 
 #### Original name
-null
+Tubercularia minor Link
 
 ### Remarks
 null

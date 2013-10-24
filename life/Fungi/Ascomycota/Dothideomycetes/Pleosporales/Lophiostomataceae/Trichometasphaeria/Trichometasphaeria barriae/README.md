@@ -1,5 +1,4 @@
-Trichometasphaeria barriae Chleb., 2009 SPECIES
-=======
+# Trichometasphaeria barriae Chleb., 2009 SPECIES
 
 #### Status
 ACCEPTED

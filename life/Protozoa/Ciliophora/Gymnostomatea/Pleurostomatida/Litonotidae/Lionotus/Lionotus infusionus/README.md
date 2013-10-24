@@ -1,5 +1,4 @@
-Lionotus infusionus Ghosh, 1920 SPECIES
-=======
+# Lionotus infusionus Ghosh, 1920 SPECIES
 
 #### Status
 ACCEPTED

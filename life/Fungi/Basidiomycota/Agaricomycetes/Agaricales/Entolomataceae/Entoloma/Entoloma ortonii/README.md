@@ -1,17 +1,16 @@
-Rhodophyllus farinolens (P.D. Orton) M.M. Moser, 1967 SPECIES
-=======
+# Entoloma ortonii Arnolds & Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 166 (1967)
+Persoonia 10(2): 292 (1979)
 
 #### Original name
-Nolanea farinolens P.D. Orton, 1960
+Entoloma ortonii Arnolds & Noordel., 1979
 
 ### Remarks
 null

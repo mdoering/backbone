@@ -1,14 +1,13 @@
-Hypoxylon cinereum Ellis & Everh., 1892 SPECIES
-=======
+# Jumillera cinerea (Ellis & Everh.) J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 247 (1892)
+Mycotaxon 64: 43 (1997)
 
 #### Original name
 Hypoxylon cinereum Ellis & Everh., 1892

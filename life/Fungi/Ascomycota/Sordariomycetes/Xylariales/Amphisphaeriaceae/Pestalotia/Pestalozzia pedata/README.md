@@ -1,5 +1,4 @@
-Pestalozzia pedata Zoll. & Moritzi SPECIES
-=======
+# Pestalozzia pedata Zoll. & Moritzi SPECIES
 
 #### Status
 ACCEPTED

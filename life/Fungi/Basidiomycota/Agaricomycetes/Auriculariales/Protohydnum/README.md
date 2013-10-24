@@ -1,5 +1,4 @@
-Protohydnum Möller GENUS
-=======
+# Protohydnum Möller GENUS
 
 #### Status
 ACCEPTED

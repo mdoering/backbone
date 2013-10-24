@@ -1,5 +1,4 @@
-Septoria besseyi Peck SPECIES
-=======
+# Septoria besseyi Peck SPECIES
 
 #### Status
 ACCEPTED

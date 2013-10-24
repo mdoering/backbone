@@ -1,5 +1,4 @@
-Lethagrium orbiculare (Schaer.) Arnold SPECIES
-=======
+# Lethagrium orbiculare (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

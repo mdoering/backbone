@@ -1,5 +1,4 @@
-Lecanora perproxima Nyl. SPECIES
-=======
+# Lecanora perproxima Nyl. SPECIES
 
 #### Status
 ACCEPTED

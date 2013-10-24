@@ -1,5 +1,4 @@
-Phoma borealis Naumov SPECIES
-=======
+# Phoma borealis Naumov SPECIES
 
 #### Status
 ACCEPTED

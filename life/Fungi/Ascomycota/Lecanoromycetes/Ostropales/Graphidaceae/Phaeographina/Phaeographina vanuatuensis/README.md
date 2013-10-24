@@ -1,5 +1,4 @@
-Phaeographina vanuatuensis M. Nakan., Kashiw. & K.H. Moon SPECIES
-=======
+# Phaeographina vanuatuensis M. Nakan., Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

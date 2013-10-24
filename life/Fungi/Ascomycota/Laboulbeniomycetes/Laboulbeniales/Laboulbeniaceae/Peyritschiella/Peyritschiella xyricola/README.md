@@ -1,5 +1,4 @@
-Peyritschiella xyricola Thaxt. SPECIES
-=======
+# Peyritschiella xyricola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

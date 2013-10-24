@@ -1,5 +1,4 @@
-Cryptomonas rhynchophora (Conrad) Butcher SPECIES
-=======
+# Cryptomonas rhynchophora (Conrad) Butcher SPECIES
 
 #### Status
 ACCEPTED

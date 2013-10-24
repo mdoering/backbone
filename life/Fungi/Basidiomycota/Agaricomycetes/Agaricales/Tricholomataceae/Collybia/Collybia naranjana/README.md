@@ -1,5 +1,4 @@
-Collybia naranjana Dennis SPECIES
-=======
+# Collybia naranjana Dennis SPECIES
 
 #### Status
 ACCEPTED

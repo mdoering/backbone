@@ -1,5 +1,4 @@
-Pyrenula martinicana (Vain.) R.C. Harris SPECIES
-=======
+# Pyrenula martinicana (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus alveolus (Lasch) P. Kumm., 1871 SPECIES
-=======
+# Crepidotus alveolus (Lasch) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED

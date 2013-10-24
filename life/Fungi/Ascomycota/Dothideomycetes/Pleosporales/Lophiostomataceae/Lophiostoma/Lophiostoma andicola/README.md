@@ -1,5 +1,4 @@
-Lophiostoma andicola Speg. SPECIES
-=======
+# Lophiostoma andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

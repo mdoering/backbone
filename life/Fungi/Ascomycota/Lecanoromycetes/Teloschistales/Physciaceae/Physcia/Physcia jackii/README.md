@@ -1,5 +1,4 @@
-Physcia jackii Moberg SPECIES
-=======
+# Physcia jackii Moberg SPECIES
 
 #### Status
 ACCEPTED

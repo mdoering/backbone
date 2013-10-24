@@ -1,5 +1,4 @@
-Syncoelium Wallroth, 1833 GENUS
-=======
+# Syncoelium Wallroth, 1833 GENUS
 
 #### Status
 ACCEPTED

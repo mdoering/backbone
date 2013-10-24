@@ -1,5 +1,4 @@
-Rhopographella taquarae (Rehm) Sacc. & Trotter SPECIES
-=======
+# Rhopographella taquarae (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

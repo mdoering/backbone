@@ -1,5 +1,4 @@
-Meliola arundinis Pat. SPECIES
-=======
+# Meliola arundinis Pat. SPECIES
 
 #### Status
 ACCEPTED

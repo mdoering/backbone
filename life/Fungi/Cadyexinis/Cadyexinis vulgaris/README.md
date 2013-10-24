@@ -1,5 +1,4 @@
-Cadyexinis vulgaris Stach SPECIES
-=======
+# Cadyexinis vulgaris Stach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus conspicuus Gellert, 1955 SPECIES
-=======
+# Rimaleptus conspicuus (Kahl, 1931) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

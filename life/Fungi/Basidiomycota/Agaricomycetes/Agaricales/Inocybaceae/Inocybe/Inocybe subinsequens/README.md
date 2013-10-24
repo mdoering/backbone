@@ -1,5 +1,4 @@
-Inocybe subinsequens (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe subinsequens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

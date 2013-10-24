@@ -1,5 +1,4 @@
-Pestalotia palmicola Sacc. & P. Syd. SPECIES
-=======
+# Pestalotia palmicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

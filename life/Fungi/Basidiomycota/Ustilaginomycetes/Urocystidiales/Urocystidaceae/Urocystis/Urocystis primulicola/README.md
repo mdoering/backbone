@@ -1,14 +1,13 @@
-Tuburcinia primulicola (Magnus) Bref., 1895 SPECIES
-=======
+# Urocystis primulicola Magnus, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 12: 180 (1895)
+Verh. bot. Ver. Prov. Brandenb. 20: 53 (1878)
 
 #### Original name
 Urocystis primulicola Magnus, 1878

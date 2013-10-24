@@ -1,17 +1,16 @@
-Chrysosplenium Allesch. GENUS
-=======
+# Chlorosplenium E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ber. bot. Ver. Landshut 15: 82 (1898)
+null
 
 #### Original name
-Chrysosplenium Allesch.
+null
 
 ### Remarks
 null

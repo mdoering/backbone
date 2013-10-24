@@ -1,5 +1,4 @@
-Lindgomyces cinctospora Raja, A.N. Mill. & Shearer, 2010 SPECIES
-=======
+# Lindgomyces cinctospora Raja, A.N. Mill. & Shearer, 2010 SPECIES
 
 #### Status
 ACCEPTED

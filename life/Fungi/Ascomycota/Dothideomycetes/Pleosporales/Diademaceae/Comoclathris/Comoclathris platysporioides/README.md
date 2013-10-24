@@ -1,5 +1,4 @@
-Comoclathris platysporioides (M.L. Farr & Horner) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris platysporioides (M.L. Farr & Horner) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

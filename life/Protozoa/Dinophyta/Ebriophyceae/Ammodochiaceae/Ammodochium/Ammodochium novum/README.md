@@ -1,5 +1,4 @@
-Ammodochium novum K. Perch-Nielsen SPECIES
-=======
+# Ammodochium novum K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

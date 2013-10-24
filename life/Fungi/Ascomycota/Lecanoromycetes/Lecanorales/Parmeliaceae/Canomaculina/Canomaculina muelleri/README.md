@@ -1,5 +1,4 @@
-Canomaculina muelleri (Vain.) Elix & Hale SPECIES
-=======
+# Canomaculina muelleri (Vain.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

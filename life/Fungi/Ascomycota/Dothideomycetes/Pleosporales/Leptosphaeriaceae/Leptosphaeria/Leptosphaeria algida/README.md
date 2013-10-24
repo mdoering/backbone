@@ -1,5 +1,4 @@
-Leptosphaeria algida Rostr. SPECIES
-=======
+# Leptosphaeria algida Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita cinerea Krombh. SPECIES
-=======
+# Amanita cinerea Krombh. SPECIES
 
 #### Status
 ACCEPTED

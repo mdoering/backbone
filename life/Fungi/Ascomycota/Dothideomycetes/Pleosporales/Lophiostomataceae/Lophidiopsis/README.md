@@ -1,5 +1,4 @@
-Lophidiopsis GENUS
-=======
+# Lophidiopsis GENUS
 
 #### Status
 ACCEPTED

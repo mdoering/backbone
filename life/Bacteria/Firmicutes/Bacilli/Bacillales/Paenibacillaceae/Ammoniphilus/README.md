@@ -1,5 +1,4 @@
-Ammoniphilus Zaitsev, Tsitko, Rainey, Trotsenko, Uotila, Stackebrandt & Salkinoja-Salonen, 1998 GENUS
-=======
+# Ammoniphilus Zaitsev, Tsitko, Rainey, Trotsenko, Uotila, Stackebrandt & Salkinoja-Salonen, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenidium syncytiorum Kleb. SPECIES
-=======
+# Lagenidium syncytiorum Kleb. SPECIES
 
 #### Status
 ACCEPTED

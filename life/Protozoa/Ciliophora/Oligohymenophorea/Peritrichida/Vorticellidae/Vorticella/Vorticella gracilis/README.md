@@ -1,5 +1,4 @@
-Vorticella gracilis Dujardin, 1841 SPECIES
-=======
+# Vorticella gracilis Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

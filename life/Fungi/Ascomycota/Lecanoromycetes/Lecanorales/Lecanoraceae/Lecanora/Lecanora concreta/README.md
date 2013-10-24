@@ -1,5 +1,4 @@
-Lecanora concreta J. Steiner SPECIES
-=======
+# Lecanora concreta J. Steiner SPECIES
 
 #### Status
 ACCEPTED

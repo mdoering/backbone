@@ -1,5 +1,4 @@
-Parmelia rudiata Eaton & Wright SPECIES
-=======
+# Parmelia rudiata Eaton & Wright SPECIES
 
 #### Status
 ACCEPTED

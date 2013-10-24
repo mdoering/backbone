@@ -1,5 +1,4 @@
-Conida praetextatae Gyeln. SPECIES
-=======
+# Conida praetextatae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

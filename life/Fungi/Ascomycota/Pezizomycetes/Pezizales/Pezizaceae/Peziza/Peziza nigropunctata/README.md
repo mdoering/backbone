@@ -1,5 +1,4 @@
-Peziza nigropunctata W.R. Gerard SPECIES
-=======
+# Peziza nigropunctata W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

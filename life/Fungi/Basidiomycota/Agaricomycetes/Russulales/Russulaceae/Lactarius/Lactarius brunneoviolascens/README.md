@@ -1,5 +1,4 @@
-Lactarius brunneoviolascens Bon SPECIES
-=======
+# Lactarius brunneoviolascens Bon SPECIES
 
 #### Status
 ACCEPTED

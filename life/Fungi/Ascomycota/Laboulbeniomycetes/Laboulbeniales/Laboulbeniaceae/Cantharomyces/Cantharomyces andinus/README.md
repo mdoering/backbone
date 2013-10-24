@@ -1,5 +1,4 @@
-Cantharomyces andinus Thaxt. SPECIES
-=======
+# Cantharomyces andinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

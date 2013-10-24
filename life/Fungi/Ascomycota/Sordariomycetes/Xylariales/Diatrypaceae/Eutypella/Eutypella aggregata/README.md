@@ -1,5 +1,4 @@
-Eutypella aggregata Chardón SPECIES
-=======
+# Eutypella aggregata Chardón SPECIES
 
 #### Status
 ACCEPTED

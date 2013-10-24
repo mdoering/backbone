@@ -1,5 +1,4 @@
-Phyllactinia babayanii Simonyan SPECIES
-=======
+# Phyllactinia babayanii Simonyan SPECIES
 
 #### Status
 ACCEPTED

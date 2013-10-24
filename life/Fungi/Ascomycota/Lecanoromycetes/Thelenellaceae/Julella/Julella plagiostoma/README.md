@@ -1,5 +1,4 @@
-Julella plagiostoma Syd. SPECIES
-=======
+# Julella plagiostoma Syd. SPECIES
 
 #### Status
 ACCEPTED

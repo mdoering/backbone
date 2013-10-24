@@ -1,5 +1,4 @@
-Amanita cinereoconia var. croceescens Bas VARIETY
-=======
+# Amanita cinereoconia G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Persoonia 5(4): 464 (1969)
 
 #### Original name
-Amanita cinereoconia var. croceescens Bas
+Amanita cinereoconia G.F. Atk.
 
 ### Remarks
 null

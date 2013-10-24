@@ -1,8 +1,7 @@
-Peronospora gaeumanni Mayor SPECIES
-=======
+# Peronospora gaeumannii Mayor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora gaeumanni Mayor
+Peronospora gaeumannii Mayor
 
 ### Remarks
 null

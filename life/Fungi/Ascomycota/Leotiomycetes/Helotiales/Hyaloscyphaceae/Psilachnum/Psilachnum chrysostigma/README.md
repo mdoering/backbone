@@ -1,5 +1,4 @@
-Psilachnum chrysostigma (Fr.) Raitv., 1970 SPECIES
-=======
+# Psilachnum chrysostigma (Fr.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED

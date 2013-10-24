@@ -1,5 +1,4 @@
-Trichoderma spirale Bissett, 1992 SPECIES
-=======
+# Trichoderma spirale Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

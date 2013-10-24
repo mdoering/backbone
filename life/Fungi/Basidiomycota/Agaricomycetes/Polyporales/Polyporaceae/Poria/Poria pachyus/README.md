@@ -1,5 +1,4 @@
-Poria pachyus Rostk. SPECIES
-=======
+# Poria pachyus Rostk. SPECIES
 
 #### Status
 ACCEPTED

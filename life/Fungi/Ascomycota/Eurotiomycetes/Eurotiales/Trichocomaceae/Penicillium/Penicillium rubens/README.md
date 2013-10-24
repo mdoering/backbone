@@ -1,5 +1,4 @@
-Penicillium rubens Biourge SPECIES
-=======
+# Penicillium rubens Biourge SPECIES
 
 #### Status
 ACCEPTED

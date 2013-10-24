@@ -1,5 +1,4 @@
-Angiopomopsis Höhn. GENUS
-=======
+# Angiopomopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

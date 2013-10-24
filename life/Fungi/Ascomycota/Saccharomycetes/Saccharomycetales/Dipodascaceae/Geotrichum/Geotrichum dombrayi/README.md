@@ -1,5 +1,4 @@
-Geotrichum dombrayi (Vuill.) Nann. SPECIES
-=======
+# Geotrichum dombrayi (Vuill.) Nann. SPECIES
 
 #### Status
 ACCEPTED

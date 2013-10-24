@@ -1,5 +1,4 @@
-Hypocrea eperuae (Rogerson & Samuels) H.L. Chamb. SPECIES
-=======
+# Hypocrea eperuae (Rogerson & Samuels) H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

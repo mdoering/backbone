@@ -1,5 +1,4 @@
-Passalora penicillata Ces. SPECIES
-=======
+# Passalora penicillata Ces. SPECIES
 
 #### Status
 ACCEPTED

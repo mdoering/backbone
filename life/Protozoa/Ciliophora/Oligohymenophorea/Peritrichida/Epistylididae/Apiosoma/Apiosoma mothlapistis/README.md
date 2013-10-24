@@ -1,5 +1,4 @@
-Apiosoma mothlapistis SPECIES
-=======
+# Apiosoma mothlapistis SPECIES
 
 #### Status
 ACCEPTED

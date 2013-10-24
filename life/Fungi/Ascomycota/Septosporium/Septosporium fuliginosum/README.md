@@ -1,5 +1,4 @@
-Septosporium fuliginosum Ellis SPECIES
-=======
+# Septosporium fuliginosum Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lanzia latisporus (K.S. Thind & Saini) M.P. Sharma SPECIES
-=======
+# Lanzia latispora (K.S. Thind & Saini) M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 142 (1983)
 
 #### Original name
 Rutstroemia latispora K.S. Thind & Saini

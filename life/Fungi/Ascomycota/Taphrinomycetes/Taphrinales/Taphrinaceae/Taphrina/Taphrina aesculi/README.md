@@ -1,5 +1,4 @@
-Taphrina aesculi (Ellis & Everh.) Giesenh. SPECIES
-=======
+# Taphrina aesculi (Ellis & Everh.) Giesenh. SPECIES
 
 #### Status
 ACCEPTED

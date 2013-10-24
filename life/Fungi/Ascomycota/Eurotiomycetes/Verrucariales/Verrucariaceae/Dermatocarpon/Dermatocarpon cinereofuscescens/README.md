@@ -1,5 +1,4 @@
-Dermatocarpon cinereofuscescens (Vain.) Zahlbr. SPECIES
-=======
+# Dermatocarpon cinereofuscescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium quimelense (Speg.) Petr. SPECIES
-=======
+# Mycothyridium quimelense (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

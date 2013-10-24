@@ -1,5 +1,4 @@
-Balantidium gyrans SPECIES
-=======
+# Balantidium gyrans SPECIES
 
 #### Status
 ACCEPTED

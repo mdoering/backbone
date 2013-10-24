@@ -1,5 +1,4 @@
-Gibberidea abutilonis Rick SPECIES
-=======
+# Gibberidea abutilonis Rick SPECIES
 
 #### Status
 ACCEPTED

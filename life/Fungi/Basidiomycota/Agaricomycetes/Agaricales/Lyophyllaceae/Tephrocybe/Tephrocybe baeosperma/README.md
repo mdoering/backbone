@@ -1,14 +1,13 @@
-Collybia baeosperma Romagn., 1954 SPECIES
-=======
+# Tephrocybe baeosperma (Romagn.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kühner & Romagnesi, Bull. Soc. nat. Oyonnax 8: 74 (1954)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 132 (1978)
 
 #### Original name
 Collybia baeosperma Romagn., 1954

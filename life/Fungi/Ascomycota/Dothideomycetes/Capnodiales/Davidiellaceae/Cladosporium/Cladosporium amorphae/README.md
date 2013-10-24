@@ -1,5 +1,4 @@
-Cladosporium amorphae Thüm. SPECIES
-=======
+# Cladosporium amorphae Thüm. SPECIES
 
 #### Status
 ACCEPTED

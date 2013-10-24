@@ -1,5 +1,4 @@
-Ishigaconus GENUS
-=======
+# Ishigaconus GENUS
 
 #### Status
 ACCEPTED

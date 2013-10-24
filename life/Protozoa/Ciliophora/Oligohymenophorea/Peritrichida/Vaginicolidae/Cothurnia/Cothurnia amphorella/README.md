@@ -1,5 +1,4 @@
-Cothurnia amphorella SPECIES
-=======
+# Cothurnia amphorella SPECIES
 
 #### Status
 ACCEPTED

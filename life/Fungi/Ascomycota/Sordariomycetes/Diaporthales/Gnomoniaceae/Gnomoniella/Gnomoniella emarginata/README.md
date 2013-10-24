@@ -1,5 +1,4 @@
-Gnomoniella emarginata (Fuckel) Sacc. SPECIES
-=======
+# Gnomoniella emarginata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

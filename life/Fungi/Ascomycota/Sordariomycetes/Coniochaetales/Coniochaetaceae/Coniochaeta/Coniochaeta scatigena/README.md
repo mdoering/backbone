@@ -1,14 +1,13 @@
-Sphaeria scatigena Berk. & Broome, 1861 SPECIES
-=======
+# Coniochaeta scatigena (Berk. & Broome) Cain, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: 452 (1861)
+University of Toronto Studies, Biological Series 38: 62 (1934)
 
 #### Original name
 Sphaeria scatigena Berk. & Broome, 1861

@@ -1,5 +1,4 @@
-Placosphaeria asperulae Ranoj. SPECIES
-=======
+# Placosphaeria asperulae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

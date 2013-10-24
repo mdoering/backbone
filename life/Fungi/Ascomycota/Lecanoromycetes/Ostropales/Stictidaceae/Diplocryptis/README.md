@@ -1,5 +1,4 @@
-Diplocryptis GENUS
-=======
+# Diplocryptis GENUS
 
 #### Status
 ACCEPTED

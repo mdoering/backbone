@@ -1,5 +1,4 @@
-Rhodophyllus omiensis Hongo SPECIES
-=======
+# Rhodophyllus omiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

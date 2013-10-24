@@ -1,5 +1,4 @@
-Diplochytridium mallomonadis (Fott) Karling SPECIES
-=======
+# Diplochytridium mallomonadis (Fott) Karling SPECIES
 
 #### Status
 ACCEPTED

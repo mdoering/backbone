@@ -1,17 +1,16 @@
-Leccinum rufum var. rufum VARIETY
-=======
+# Leccinum aurantiacum (Bull.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 646 (1821)
 
 #### Original name
-null
+Boletus aurantiacus Bull., 1791
 
 ### Remarks
 null

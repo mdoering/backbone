@@ -1,5 +1,4 @@
-Marginulina costata (Batsch, 1791) SPECIES
-=======
+# Marginulina costata (Batsch, 1791) SPECIES
 
 #### Status
 ACCEPTED

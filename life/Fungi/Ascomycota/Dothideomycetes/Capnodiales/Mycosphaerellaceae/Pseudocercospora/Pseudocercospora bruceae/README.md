@@ -1,5 +1,4 @@
-Pseudocercospora bruceae (Petch) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora bruceae (Petch) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

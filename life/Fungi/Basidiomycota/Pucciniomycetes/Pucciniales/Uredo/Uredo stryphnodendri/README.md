@@ -1,5 +1,4 @@
-Uredo stryphnodendri Berndt & F.O. Freire SPECIES
-=======
+# Uredo stryphnodendri Berndt & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

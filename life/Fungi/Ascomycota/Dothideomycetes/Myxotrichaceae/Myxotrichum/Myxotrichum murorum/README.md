@@ -1,5 +1,4 @@
-Myxotrichum murorum Kunze SPECIES
-=======
+# Myxotrichum murorum Kunze SPECIES
 
 #### Status
 ACCEPTED

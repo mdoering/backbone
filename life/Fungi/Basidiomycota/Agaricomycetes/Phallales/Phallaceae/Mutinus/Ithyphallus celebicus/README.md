@@ -1,5 +1,4 @@
-Ithyphallus celebicus (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Ithyphallus celebicus (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

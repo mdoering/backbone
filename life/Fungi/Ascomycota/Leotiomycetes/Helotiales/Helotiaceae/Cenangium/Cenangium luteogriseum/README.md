@@ -1,5 +1,4 @@
-Cenangium luteogriseum Höhn. SPECIES
-=======
+# Cenangium luteogriseum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma tortuosum P. Karst. SPECIES
-=======
+# Hebeloma tortuosum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

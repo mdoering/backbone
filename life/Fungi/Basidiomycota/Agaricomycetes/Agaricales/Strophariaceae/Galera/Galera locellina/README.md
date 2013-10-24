@@ -1,5 +1,4 @@
-Galera locellina (Murrill) Murrill SPECIES
-=======
+# Galera locellina (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

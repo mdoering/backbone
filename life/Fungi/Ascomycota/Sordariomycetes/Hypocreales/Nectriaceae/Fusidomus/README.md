@@ -1,5 +1,4 @@
-Fusidomus GENUS
-=======
+# Fusidomus GENUS
 
 #### Status
 ACCEPTED

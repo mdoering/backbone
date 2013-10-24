@@ -1,5 +1,4 @@
-Poria fulvida Ellis & Everh. SPECIES
-=======
+# Poria fulvida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

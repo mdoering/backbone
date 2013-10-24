@@ -1,5 +1,4 @@
-Botrytis olivaceolutea Desm. SPECIES
-=======
+# Botrytis olivaceolutea Desm. SPECIES
 
 #### Status
 ACCEPTED

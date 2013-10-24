@@ -1,17 +1,16 @@
-Artallendea Bat. & H. Maia GENUS
-=======
+# Armatella Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 1: 221 (1960)
+Annls mycol. 13(3/4): 235 (1915)
 
 #### Original name
-Artallendea Bat. & H. Maia
+Armatella Theiss. & Syd.
 
 ### Remarks
 null

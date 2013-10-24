@@ -1,5 +1,4 @@
-Rhytidenglerula vilis (Petr.) Arx SPECIES
-=======
+# Rhytidenglerula vilis (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

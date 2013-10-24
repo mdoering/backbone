@@ -1,5 +1,4 @@
-Thermoanaerobacter Wiegel & Ljungdahl, 1982 GENUS
-=======
+# Thermoanaerobacter Wiegel & Ljungdahl, 1982 GENUS
 
 #### Status
 ACCEPTED

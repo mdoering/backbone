@@ -1,5 +1,4 @@
-Aspicilia harmandiana Hue SPECIES
-=======
+# Aspicilia harmandiana Hue SPECIES
 
 #### Status
 ACCEPTED

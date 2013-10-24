@@ -1,5 +1,4 @@
-Dicaeoma cynanchi (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma cynanchi (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

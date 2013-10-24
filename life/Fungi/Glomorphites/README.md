@@ -1,5 +1,4 @@
-Glomorphites García Mass. GENUS
-=======
+# Glomorphites García Mass. GENUS
 
 #### Status
 ACCEPTED

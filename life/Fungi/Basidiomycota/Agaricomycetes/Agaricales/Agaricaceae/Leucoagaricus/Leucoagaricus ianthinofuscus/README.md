@@ -1,5 +1,4 @@
-Leucoagaricus ianthinofuscus (Locq.) Singer SPECIES
-=======
+# Leucoagaricus ianthinofuscus (Locq.) Singer SPECIES
 
 #### Status
 ACCEPTED

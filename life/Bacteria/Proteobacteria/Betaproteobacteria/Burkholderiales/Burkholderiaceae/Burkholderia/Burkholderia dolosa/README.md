@@ -1,5 +1,4 @@
-Burkholderia dolosa Vermis et al., 2004 SPECIES
-=======
+# Burkholderia dolosa Vermis et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

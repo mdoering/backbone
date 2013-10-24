@@ -1,17 +1,16 @@
-Diderma umbilicatum var. macrosporum Meyl. VARIETY
-=======
+# Diderma umbilicatum Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Diderma umbilicatum Pers., 1801
 
 ### Remarks
 null

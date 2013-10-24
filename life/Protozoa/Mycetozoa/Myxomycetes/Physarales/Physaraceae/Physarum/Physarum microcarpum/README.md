@@ -1,5 +1,4 @@
-Physarum microcarpum Fr. SPECIES
-=======
+# Physarum microcarpum Fr. SPECIES
 
 #### Status
 ACCEPTED

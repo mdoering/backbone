@@ -1,5 +1,4 @@
-Cortinarius substemmatus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius substemmatus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

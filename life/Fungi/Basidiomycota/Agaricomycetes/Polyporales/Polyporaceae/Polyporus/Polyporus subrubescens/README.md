@@ -1,5 +1,4 @@
-Polyporus subrubescens (Murrill) Murrill SPECIES
-=======
+# Polyporus subrubescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

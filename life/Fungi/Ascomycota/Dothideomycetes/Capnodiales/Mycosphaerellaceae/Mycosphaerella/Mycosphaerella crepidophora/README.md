@@ -1,5 +1,4 @@
-Mycosphaerella crepidophora (Mont.) G. Díaz SPECIES
-=======
+# Mycosphaerella crepidophora (Mont.) G. Díaz SPECIES
 
 #### Status
 ACCEPTED

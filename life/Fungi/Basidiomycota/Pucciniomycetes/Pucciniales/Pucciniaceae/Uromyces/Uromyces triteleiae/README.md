@@ -1,5 +1,4 @@
-Uromyces triteleiae Dietel & Neger SPECIES
-=======
+# Uromyces triteleiae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

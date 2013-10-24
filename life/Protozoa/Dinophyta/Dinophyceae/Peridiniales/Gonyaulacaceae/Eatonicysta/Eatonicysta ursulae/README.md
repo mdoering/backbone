@@ -1,5 +1,4 @@
-Eatonicysta ursulae (Morgenroth, 1966) Stover & Evitt, 1978 SPECIES
-=======
+# Eatonicysta ursulae (Morgenroth, 1966) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

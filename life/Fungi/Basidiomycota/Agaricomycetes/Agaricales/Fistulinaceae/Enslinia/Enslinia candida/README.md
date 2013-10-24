@@ -1,5 +1,4 @@
-Enslinia candida (Schwein.) Fr. SPECIES
-=======
+# Enslinia candida (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

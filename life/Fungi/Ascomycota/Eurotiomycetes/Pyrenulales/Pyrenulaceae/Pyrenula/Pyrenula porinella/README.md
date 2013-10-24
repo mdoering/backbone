@@ -1,5 +1,4 @@
-Pyrenula porinella SPECIES
-=======
+# Pyrenula porinella SPECIES
 
 #### Status
 ACCEPTED

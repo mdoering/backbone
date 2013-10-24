@@ -1,5 +1,4 @@
-Hygrophorus salmonicolor Candusso & Pacioni SPECIES
-=======
+# Hygrophorus salmonicolor Candusso & Pacioni SPECIES
 
 #### Status
 ACCEPTED

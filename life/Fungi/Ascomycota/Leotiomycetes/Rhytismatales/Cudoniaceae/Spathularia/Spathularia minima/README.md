@@ -1,5 +1,4 @@
-Spathularia minima Maire SPECIES
-=======
+# Spathularia minima Maire SPECIES
 
 #### Status
 ACCEPTED

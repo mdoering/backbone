@@ -1,17 +1,16 @@
-Lycoperdon polymorphum var. polymorphum Vittad. VARIETY
-=======
+# Lycoperdon polymorphum Scop., 1772 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph Lyc. 5: 183 (1843)
+Fl. carniol. (Wien), Edn 2 2: 487 (1772)
 
 #### Original name
-Lycoperdon polymorphum var. polymorphum Vittad.
+Lycoperdon polymorphum Scop., 1772
 
 ### Remarks
 null

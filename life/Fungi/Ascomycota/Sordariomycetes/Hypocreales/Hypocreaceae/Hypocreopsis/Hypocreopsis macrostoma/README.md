@@ -1,17 +1,16 @@
-Lasionectria macrostroma (Berk. & M.A. Curtis) Cooke, 1884 SPECIES
-=======
+# Hypocreopsis macrostoma (Berk. & M.A. Curtis) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 650 (1962)
 
 #### Original name
-null
+Nectria macrostoma Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

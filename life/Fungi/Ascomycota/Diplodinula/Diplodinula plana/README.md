@@ -1,5 +1,4 @@
-Diplodinula plana (P. Karst.) Tassi SPECIES
-=======
+# Diplodinula plana (P. Karst.) Tassi SPECIES
 
 #### Status
 ACCEPTED

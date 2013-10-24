@@ -1,5 +1,4 @@
-Globorotalia margaritae Bolli & Bermudez SPECIES
-=======
+# Globorotalia margaritae Bolli & Bermudez SPECIES
 
 #### Status
 ACCEPTED

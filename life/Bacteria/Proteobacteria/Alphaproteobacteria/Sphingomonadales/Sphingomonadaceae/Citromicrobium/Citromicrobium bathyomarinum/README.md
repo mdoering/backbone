@@ -1,5 +1,4 @@
-Citromicrobium bathyomarinum Yurkov, Krieger, Stackebrandt & Beatty, 1999 SPECIES
-=======
+# Citromicrobium bathyomarinum Yurkov, Krieger, Stackebrandt & Beatty, 1999 SPECIES
 
 #### Status
 ACCEPTED

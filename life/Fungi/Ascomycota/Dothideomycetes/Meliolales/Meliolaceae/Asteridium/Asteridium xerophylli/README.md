@@ -1,5 +1,4 @@
-Asteridium xerophylli (Ellis) Sacc. SPECIES
-=======
+# Asteridium xerophylli (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

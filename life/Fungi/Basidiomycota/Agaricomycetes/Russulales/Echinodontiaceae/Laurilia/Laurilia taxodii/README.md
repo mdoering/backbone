@@ -1,14 +1,13 @@
-Echinodontium taxodii (Lentz & H.H. McKay) H.L. Gross, 1964 SPECIES
-=======
+# Laurilia taxodii (Lentz & H.H. McKay) Pouzar, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 24(1): 11 (1964)
+Consp. System. Corticiac. (Tartu) 180 (1968)
 
 #### Original name
 Stereum taxodii Lentz & H.H. McKay, 1961

@@ -1,5 +1,4 @@
-Phoma lobariae Diederich & Etayo, 1995 SPECIES
-=======
+# Phoma lobariae Diederich & Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

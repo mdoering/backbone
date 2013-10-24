@@ -1,5 +1,4 @@
-Termitomyces magoyensis Otieno SPECIES
-=======
+# Termitomyces magoyensis Otieno SPECIES
 
 #### Status
 ACCEPTED

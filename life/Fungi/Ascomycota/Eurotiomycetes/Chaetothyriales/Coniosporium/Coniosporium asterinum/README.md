@@ -1,5 +1,4 @@
-Coniosporium asterinum A.L. Sm. SPECIES
-=======
+# Coniosporium asterinum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus repandus (Fr.) P. Karst. SPECIES
-=======
+# Polyporus repandus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma alkannae Hollós SPECIES
-=======
+# Phoma alkannae Hollós SPECIES
 
 #### Status
 ACCEPTED

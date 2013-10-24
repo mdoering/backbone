@@ -1,5 +1,4 @@
-Placodium sympageellum Vain. SPECIES
-=======
+# Placodium sympageellum Vain. SPECIES
 
 #### Status
 ACCEPTED

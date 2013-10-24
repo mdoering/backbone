@@ -1,5 +1,4 @@
-Buellia dovrensis H. Magn. SPECIES
-=======
+# Buellia dovrensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

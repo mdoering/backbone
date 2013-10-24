@@ -1,5 +1,4 @@
-Xanthoparmelia tenacea M. D. E. Knox & Hale SPECIES
-=======
+# Xanthoparmelia tenacea M. D. E. Knox & Hale SPECIES
 
 #### Status
 ACCEPTED

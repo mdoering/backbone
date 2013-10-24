@@ -1,8 +1,7 @@
-Sticta hornemanni Fr. SPECIES
-=======
+# Sticta hornemannii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta hornemanni Fr.
+Sticta hornemannii Fr.
 
 ### Remarks
 null

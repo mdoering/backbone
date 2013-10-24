@@ -1,5 +1,4 @@
-Phaeotomasellia ruwenzorensis Katum., 1981 SPECIES
-=======
+# Phaeotomasellia ruwenzorensis Katum., 1981 SPECIES
 
 #### Status
 ACCEPTED

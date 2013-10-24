@@ -1,5 +1,4 @@
-Phaeosphaerella physciae (P. Karst.) Petr. & Syd. SPECIES
-=======
+# Phaeosphaerella physciae (P. Karst.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

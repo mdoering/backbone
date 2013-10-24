@@ -1,5 +1,4 @@
-Calicium chryscomitres F. Wilson SPECIES
-=======
+# Calicium chryscomitres F. Wilson SPECIES
 
 #### Status
 ACCEPTED

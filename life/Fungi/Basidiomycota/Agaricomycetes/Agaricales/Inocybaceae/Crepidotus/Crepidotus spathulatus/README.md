@@ -1,5 +1,4 @@
-Crepidotus spathulatus Bres. SPECIES
-=======
+# Crepidotus spathulatus Bres. SPECIES
 
 #### Status
 ACCEPTED

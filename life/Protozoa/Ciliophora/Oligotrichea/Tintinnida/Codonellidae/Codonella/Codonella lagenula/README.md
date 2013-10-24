@@ -1,5 +1,4 @@
-Codonella lagenula subsp. lagenula Claparède & Lachmann, 1858 SUBSPECIES
-=======
+# Codonella lagenula Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

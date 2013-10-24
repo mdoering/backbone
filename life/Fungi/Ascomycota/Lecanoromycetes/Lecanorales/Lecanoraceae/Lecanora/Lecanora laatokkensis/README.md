@@ -1,5 +1,4 @@
-Lecanora laatokkensis (Räsänen) Poelt SPECIES
-=======
+# Lecanora laatokkensis (Räsänen) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria denigrata Schwein. SPECIES
-=======
+# Sphaeria denigrata Schwein. SPECIES
 
 #### Status
 ACCEPTED

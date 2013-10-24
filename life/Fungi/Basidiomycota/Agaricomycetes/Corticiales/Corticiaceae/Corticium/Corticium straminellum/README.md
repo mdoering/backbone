@@ -1,5 +1,4 @@
-Corticium straminellum Bres. SPECIES
-=======
+# Corticium straminellum Bres. SPECIES
 
 #### Status
 ACCEPTED

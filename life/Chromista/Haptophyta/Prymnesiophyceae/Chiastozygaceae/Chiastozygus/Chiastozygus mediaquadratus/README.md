@@ -1,5 +1,4 @@
-Chiastozygus mediaquadratus J.B. Risatti SPECIES
-=======
+# Chiastozygus mediaquadratus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

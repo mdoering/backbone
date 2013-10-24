@@ -1,5 +1,4 @@
-Cortinarius nymphicolor Reumaux SPECIES
-=======
+# Cortinarius nymphicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

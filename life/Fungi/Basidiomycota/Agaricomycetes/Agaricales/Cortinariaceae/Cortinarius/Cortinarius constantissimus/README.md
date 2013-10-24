@@ -1,5 +1,4 @@
-Cortinarius constantissimus Britzelm. SPECIES
-=======
+# Cortinarius constantissimus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

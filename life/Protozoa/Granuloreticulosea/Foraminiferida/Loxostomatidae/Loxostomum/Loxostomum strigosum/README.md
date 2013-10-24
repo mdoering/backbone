@@ -1,5 +1,4 @@
-Loxostomum strigosum (Brady) SPECIES
-=======
+# Loxostomum strigosum (Brady) SPECIES
 
 #### Status
 ACCEPTED

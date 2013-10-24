@@ -1,5 +1,4 @@
-Diatrype megastoma Ellis & Everh. SPECIES
-=======
+# Diatrype megastoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

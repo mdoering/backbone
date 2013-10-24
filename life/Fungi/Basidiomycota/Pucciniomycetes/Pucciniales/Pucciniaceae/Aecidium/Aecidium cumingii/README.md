@@ -1,5 +1,4 @@
-Aecidium cumingii Syd. SPECIES
-=======
+# Aecidium cumingii Syd. SPECIES
 
 #### Status
 ACCEPTED

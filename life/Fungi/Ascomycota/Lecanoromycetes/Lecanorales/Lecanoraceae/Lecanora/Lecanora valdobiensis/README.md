@@ -1,5 +1,4 @@
-Lecanora valdobiensis (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Lecanora valdobiensis (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

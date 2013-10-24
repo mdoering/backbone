@@ -1,5 +1,4 @@
-Psorotichia lignyota (Wahlenb.) Forssell SPECIES
-=======
+# Psorotichia lignyota (Wahlenb.) Forssell SPECIES
 
 #### Status
 ACCEPTED

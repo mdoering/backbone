@@ -1,5 +1,4 @@
-Stereocaulon leprocauloides I.M. Lamb SPECIES
-=======
+# Stereocaulon leprocauloides I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

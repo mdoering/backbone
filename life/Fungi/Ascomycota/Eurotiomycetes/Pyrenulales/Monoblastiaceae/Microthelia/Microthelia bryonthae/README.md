@@ -1,5 +1,4 @@
-Microthelia bryonthae (Arnold) Kuntze SPECIES
-=======
+# Microthelia bryonthae (Arnold) Kuntze SPECIES
 
 #### Status
 ACCEPTED

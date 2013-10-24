@@ -1,5 +1,4 @@
-Tremella haematommatis Diederich SPECIES
-=======
+# Tremella haematommatis Diederich SPECIES
 
 #### Status
 ACCEPTED

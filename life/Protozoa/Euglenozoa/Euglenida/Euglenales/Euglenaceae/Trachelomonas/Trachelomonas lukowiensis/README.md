@@ -1,5 +1,4 @@
-Trachelomonas lukowiensis Drezepolski SPECIES
-=======
+# Trachelomonas lukowiensis Drezepolski SPECIES
 
 #### Status
 ACCEPTED

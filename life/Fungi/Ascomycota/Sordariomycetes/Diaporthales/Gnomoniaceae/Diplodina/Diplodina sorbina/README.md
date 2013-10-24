@@ -1,5 +1,4 @@
-Diplodina sorbina Naumov {?} SPECIES
-=======
+# Diplodina sorbina Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

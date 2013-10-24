@@ -1,5 +1,4 @@
-Bacteroides ruminicola Bryant et al., 1958 SPECIES
-=======
+# Bacteroides ruminicola Bryant et al., 1958 SPECIES
 
 #### Status
 ACCEPTED

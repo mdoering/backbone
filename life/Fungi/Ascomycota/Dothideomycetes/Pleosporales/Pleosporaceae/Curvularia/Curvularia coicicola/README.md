@@ -1,5 +1,4 @@
-Curvularia coicicola M. Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia coicicola M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

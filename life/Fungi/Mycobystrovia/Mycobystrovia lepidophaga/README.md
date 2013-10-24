@@ -1,5 +1,4 @@
-Mycobystrovia lepidophaga Goujet & Locq. SPECIES
-=======
+# Mycobystrovia lepidophaga Goujet & Locq. SPECIES
 
 #### Status
 ACCEPTED

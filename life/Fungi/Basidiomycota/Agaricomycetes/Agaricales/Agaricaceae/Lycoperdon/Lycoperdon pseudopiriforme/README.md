@@ -1,5 +1,4 @@
-Lycoperdon pseudopiriforme Speg. SPECIES
-=======
+# Lycoperdon pseudopiriforme Speg. SPECIES
 
 #### Status
 ACCEPTED

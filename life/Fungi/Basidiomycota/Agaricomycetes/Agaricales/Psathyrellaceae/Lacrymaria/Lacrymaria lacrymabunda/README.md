@@ -1,17 +1,16 @@
-Lacrymaria velutina f. velutina FORM
-=======
+# Lacrymaria lacrymabunda (Bull.) Pat., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomyc. Eur. (Paris) 123 (1887)
 
 #### Original name
-null
+Agaricus lacrymabundus Bull., 1785
 
 ### Remarks
 null

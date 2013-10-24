@@ -1,5 +1,4 @@
-Terana lactea (Fr.) Kuntze SPECIES
-=======
+# Terana lactea (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

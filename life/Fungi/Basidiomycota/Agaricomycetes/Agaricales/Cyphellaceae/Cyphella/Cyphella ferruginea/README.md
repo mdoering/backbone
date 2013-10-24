@@ -1,5 +1,4 @@
-Cyphella ferruginea P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Cyphella ferruginea P. Crouan & H. Crouan, 1867 SPECIES
 
 #### Status
 ACCEPTED

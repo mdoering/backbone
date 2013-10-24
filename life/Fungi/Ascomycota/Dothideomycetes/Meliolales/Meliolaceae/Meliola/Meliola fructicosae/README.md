@@ -1,5 +1,4 @@
-Meliola fructicosae Mibey SPECIES
-=======
+# Meliola fructicosae Mibey SPECIES
 
 #### Status
 ACCEPTED

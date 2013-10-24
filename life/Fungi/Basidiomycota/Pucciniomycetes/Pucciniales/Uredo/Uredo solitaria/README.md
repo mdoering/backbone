@@ -1,5 +1,4 @@
-Uredo solitaria Dietel & Neger SPECIES
-=======
+# Uredo solitaria Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

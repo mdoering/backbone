@@ -1,5 +1,4 @@
-Megalodochium palmicola Deighton, 1960 SPECIES
-=======
+# Megalodochium palmicola Deighton, 1960 SPECIES
 
 #### Status
 ACCEPTED

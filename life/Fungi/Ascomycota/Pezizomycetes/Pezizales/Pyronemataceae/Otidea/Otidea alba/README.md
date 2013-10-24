@@ -1,5 +1,4 @@
-Otidea alba Velen. SPECIES
-=======
+# Otidea alba Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria disciformis Velen. SPECIES
-=======
+# Humaria disciformis Velen. SPECIES
 
 #### Status
 ACCEPTED

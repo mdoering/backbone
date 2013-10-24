@@ -1,5 +1,4 @@
-Ditrypanocystis coxi Levine, 1971 SPECIES
-=======
+# Ditrypanocystis coxi Levine, 1971 SPECIES
 
 #### Status
 ACCEPTED

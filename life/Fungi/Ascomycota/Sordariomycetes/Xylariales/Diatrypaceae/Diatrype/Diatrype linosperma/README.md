@@ -1,5 +1,4 @@
-Diatrype linosperma Mont. SPECIES
-=======
+# Diatrype linosperma Mont. SPECIES
 
 #### Status
 ACCEPTED

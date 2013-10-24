@@ -1,17 +1,16 @@
-Dimerella epiphylla (Müll. Arg.) Malme SPECIES
-=======
+# Coenogonium subluteum (Rehm) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 26A(13): 9 (1935)
+in Lücking & Kalb, Bot. Jb. 122(1): 34 (2000)
 
 #### Original name
-Biatorinopsis epiphylla Müll. Arg.
+Biatorina sublutea Rehm
 
 ### Remarks
 null

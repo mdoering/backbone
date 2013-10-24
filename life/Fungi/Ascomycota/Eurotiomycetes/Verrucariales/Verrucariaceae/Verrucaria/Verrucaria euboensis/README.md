@@ -1,5 +1,4 @@
-Verrucaria euboensis Servít SPECIES
-=======
+# Verrucaria euboensis Servít SPECIES
 
 #### Status
 ACCEPTED

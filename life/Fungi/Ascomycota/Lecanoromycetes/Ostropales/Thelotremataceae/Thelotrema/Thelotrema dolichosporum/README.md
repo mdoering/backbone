@@ -1,5 +1,4 @@
-Thelotrema dolichosporum (Nyl.) Nyl. SPECIES
-=======
+# Thelotrema dolichosporum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

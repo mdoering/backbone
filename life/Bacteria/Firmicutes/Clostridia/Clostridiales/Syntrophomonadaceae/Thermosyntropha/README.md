@@ -1,5 +1,4 @@
-Thermosyntropha Svetlitshnyi et al., 1996 GENUS
-=======
+# Thermosyntropha Svetlitshnyi et al., 1996 GENUS
 
 #### Status
 ACCEPTED

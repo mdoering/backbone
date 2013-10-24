@@ -1,5 +1,4 @@
-Coniocybe ruficeps Nyl. SPECIES
-=======
+# Coniocybe ruficeps Nyl. SPECIES
 
 #### Status
 ACCEPTED

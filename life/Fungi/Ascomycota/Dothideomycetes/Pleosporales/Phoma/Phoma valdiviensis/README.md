@@ -1,5 +1,4 @@
-Phoma valdiviensis Speg. SPECIES
-=======
+# Phoma valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

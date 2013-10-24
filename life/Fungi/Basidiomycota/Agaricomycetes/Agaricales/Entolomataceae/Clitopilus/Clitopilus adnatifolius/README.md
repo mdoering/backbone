@@ -1,5 +1,4 @@
-Clitopilus adnatifolius Murrill SPECIES
-=======
+# Clitopilus adnatifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

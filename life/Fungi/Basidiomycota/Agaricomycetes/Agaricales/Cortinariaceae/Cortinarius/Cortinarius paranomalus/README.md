@@ -1,5 +1,4 @@
-Cortinarius paranomalus Rob. Henry SPECIES
-=======
+# Cortinarius paranomalus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

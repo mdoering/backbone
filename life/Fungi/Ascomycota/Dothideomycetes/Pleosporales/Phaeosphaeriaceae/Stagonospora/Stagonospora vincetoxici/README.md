@@ -1,5 +1,4 @@
-Stagonospora vincetoxici Fautrey & Roum. SPECIES
-=======
+# Stagonospora vincetoxici Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

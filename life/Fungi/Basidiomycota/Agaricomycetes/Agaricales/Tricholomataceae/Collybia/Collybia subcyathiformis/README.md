@@ -1,5 +1,4 @@
-Collybia subcyathiformis (Murrill) Pegler SPECIES
-=======
+# Collybia subcyathiformis (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

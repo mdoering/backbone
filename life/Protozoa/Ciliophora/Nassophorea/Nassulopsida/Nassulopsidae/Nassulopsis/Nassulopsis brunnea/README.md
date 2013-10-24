@@ -1,5 +1,4 @@
-Nassulopsis brunnea (Fabre-Domergue, 1885) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Nassulopsis brunnea (Fabre-Domergue, 1885) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

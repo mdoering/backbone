@@ -1,5 +1,4 @@
-Phlebia arachnoidea Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Phlebia arachnoidea Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

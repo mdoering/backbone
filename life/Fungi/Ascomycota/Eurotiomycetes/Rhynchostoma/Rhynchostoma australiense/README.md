@@ -1,14 +1,13 @@
-Rhynchomeliola australiensis (Petr.) E. Müll., 1962 SPECIES
-=======
+# Rhynchostoma australiense Petr., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 595 (1962)
+Sydowia 8: 206 (1954)
 
 #### Original name
 Rhynchostoma australiense Petr., 1954

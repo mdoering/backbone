@@ -1,5 +1,4 @@
-Sistotrema lagenosporum Boidin & Gilles SPECIES
-=======
+# Sistotrema lagenosporum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha spindleri Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Holosticha spindleri Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

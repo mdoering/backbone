@@ -1,5 +1,4 @@
-Lecidea dolodes Nyl. SPECIES
-=======
+# Lecidea dolodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

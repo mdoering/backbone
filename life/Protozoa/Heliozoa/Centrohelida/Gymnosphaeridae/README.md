@@ -1,5 +1,4 @@
-Gymnosphaeridae FAMILY
-=======
+# Gymnosphaeridae FAMILY
 
 #### Status
 ACCEPTED

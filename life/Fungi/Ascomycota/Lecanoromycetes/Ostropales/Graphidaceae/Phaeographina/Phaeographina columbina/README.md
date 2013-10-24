@@ -1,5 +1,4 @@
-Phaeographina columbina (Tuck.) Zahlbr. SPECIES
-=======
+# Phaeographina columbina (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

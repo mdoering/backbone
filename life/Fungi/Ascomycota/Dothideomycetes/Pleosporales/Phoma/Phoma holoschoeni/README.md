@@ -1,5 +1,4 @@
-Phoma holoschoeni Pass. SPECIES
-=======
+# Phoma holoschoeni Pass. SPECIES
 
 #### Status
 ACCEPTED

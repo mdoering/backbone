@@ -1,5 +1,4 @@
-Saccharospirillum impatiens Labrenz et al., 2003 SPECIES
-=======
+# Saccharospirillum impatiens Labrenz et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

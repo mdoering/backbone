@@ -1,5 +1,4 @@
-Melanostroma sorbi Rostr. SPECIES
-=======
+# Melanostroma sorbi Rostr. SPECIES
 
 #### Status
 ACCEPTED

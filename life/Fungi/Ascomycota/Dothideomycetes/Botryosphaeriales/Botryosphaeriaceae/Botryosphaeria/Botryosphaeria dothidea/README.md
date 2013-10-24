@@ -1,17 +1,16 @@
-Sphaeria dothidea var. dothidea VARIETY
-=======
+# Botryosphaeria dothidea (Moug.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fries, Syst. mycol. (Lundae) 2(2): 423 (1823)
+Comm. Soc. crittog. Ital. 1(4): 212 (1863)
 
 #### Original name
-Sphaeria dothidea var. dothidea
+Sphaeria dothidea Moug., 1823
 
 ### Remarks
 null

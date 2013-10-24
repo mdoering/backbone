@@ -1,5 +1,4 @@
-Phaeoseptoria pyri R.K. Verma SPECIES
-=======
+# Phaeoseptoria pyri R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

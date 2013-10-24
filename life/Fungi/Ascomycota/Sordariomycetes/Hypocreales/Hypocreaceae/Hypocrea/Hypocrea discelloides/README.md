@@ -1,5 +1,4 @@
-Hypocrea discelloides Henn. SPECIES
-=======
+# Hypocrea discelloides Henn. SPECIES
 
 #### Status
 ACCEPTED

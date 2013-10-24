@@ -1,5 +1,4 @@
-Hyaloscypha lonchitidis Velen. SPECIES
-=======
+# Hyaloscypha lonchitidis Velen. SPECIES
 
 #### Status
 ACCEPTED

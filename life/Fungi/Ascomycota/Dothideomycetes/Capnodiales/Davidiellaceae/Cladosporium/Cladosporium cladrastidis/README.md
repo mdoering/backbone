@@ -1,5 +1,4 @@
-Cladosporium cladrastidis Naumov {?} SPECIES
-=======
+# Cladosporium cladrastidis Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

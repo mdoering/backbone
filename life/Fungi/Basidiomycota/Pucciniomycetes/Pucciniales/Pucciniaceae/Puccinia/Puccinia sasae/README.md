@@ -1,5 +1,4 @@
-Puccinia sasae Kusano SPECIES
-=======
+# Puccinia sasae Kusano SPECIES
 
 #### Status
 ACCEPTED

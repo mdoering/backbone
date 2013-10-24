@@ -1,5 +1,4 @@
-Hendersonia grantii Dearn. SPECIES
-=======
+# Hendersonia grantii Dearn. SPECIES
 
 #### Status
 ACCEPTED

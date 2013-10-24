@@ -1,5 +1,4 @@
-Cortinarius strobilaceofulvus D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius strobilaceofulvus D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

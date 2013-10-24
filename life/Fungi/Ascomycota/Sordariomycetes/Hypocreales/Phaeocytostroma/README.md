@@ -1,5 +1,4 @@
-Phaeocytostroma Petr. GENUS
-=======
+# Phaeocytostroma Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras subulatus (W.G. Sm.) Kuntze SPECIES
-=======
+# Chamaeceras subulatus (W.G. Sm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps monticola Mains SPECIES
-=======
+# Cordyceps monticola Mains SPECIES
 
 #### Status
 ACCEPTED

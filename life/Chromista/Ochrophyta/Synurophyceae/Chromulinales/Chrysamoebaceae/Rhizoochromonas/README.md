@@ -1,5 +1,4 @@
-Rhizoochromonas K.H.Nicholls, 1990 GENUS
-=======
+# Rhizoochromonas K.H.Nicholls, 1990 GENUS
 
 #### Status
 ACCEPTED

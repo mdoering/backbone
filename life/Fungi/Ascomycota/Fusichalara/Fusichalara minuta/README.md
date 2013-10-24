@@ -1,5 +1,4 @@
-Fusichalara minuta Hol.-Jech., 1976 SPECIES
-=======
+# Fusichalara minuta Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED

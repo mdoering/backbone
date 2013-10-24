@@ -1,5 +1,4 @@
-Tuburcinia erythronii (G.P. Clinton) Cif. SPECIES
-=======
+# Tuburcinia erythronii (G.P. Clinton) Cif. SPECIES
 
 #### Status
 ACCEPTED

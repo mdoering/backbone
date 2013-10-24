@@ -1,5 +1,4 @@
-Hygrophorus albidus P. Karst. SPECIES
-=======
+# Hygrophorus albidus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

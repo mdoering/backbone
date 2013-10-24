@@ -1,5 +1,4 @@
-Pseudorhipidionina GENUS
-=======
+# Pseudorhipidionina GENUS
 
 #### Status
 ACCEPTED

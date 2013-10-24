@@ -1,5 +1,4 @@
-Gorgoniceps charnwoodensis Graddon, 1980 SPECIES
-=======
+# Gorgoniceps charnwoodensis Graddon, 1980 SPECIES
 
 #### Status
 ACCEPTED

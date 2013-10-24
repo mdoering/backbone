@@ -1,5 +1,4 @@
-Pseudotomentella armata E.C. Martini & Hentic, 2003 SPECIES
-=======
+# Pseudotomentella armata E.C. Martini & Hentic, 2003 SPECIES
 
 #### Status
 ACCEPTED

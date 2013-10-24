@@ -1,5 +1,4 @@
-Roseicyclus mahoneyensis Rathgeber et al., 2005 SPECIES
-=======
+# Roseicyclus mahoneyensis Rathgeber et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

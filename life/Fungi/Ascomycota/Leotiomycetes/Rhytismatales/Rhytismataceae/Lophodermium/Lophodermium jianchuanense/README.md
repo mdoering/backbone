@@ -1,5 +1,4 @@
-Lophodermium jianchuanense C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Lophodermium jianchuanense C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera ulmi (Jacz.) Bunkina SPECIES
-=======
+# Microsphaera ulmi (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

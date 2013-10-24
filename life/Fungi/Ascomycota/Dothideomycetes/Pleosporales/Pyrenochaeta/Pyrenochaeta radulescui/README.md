@@ -1,5 +1,4 @@
-Pyrenochaeta radulescui Docea SPECIES
-=======
+# Pyrenochaeta radulescui Docea SPECIES
 
 #### Status
 ACCEPTED

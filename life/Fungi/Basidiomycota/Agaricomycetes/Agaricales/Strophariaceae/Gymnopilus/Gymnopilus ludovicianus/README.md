@@ -1,5 +1,4 @@
-Gymnopilus ludovicianus Murrill SPECIES
-=======
+# Gymnopilus ludovicianus Murrill SPECIES
 
 #### Status
 ACCEPTED

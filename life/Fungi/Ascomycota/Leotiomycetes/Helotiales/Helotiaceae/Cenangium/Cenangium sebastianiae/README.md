@@ -1,5 +1,4 @@
-Cenangium sebastianiae Henn. SPECIES
-=======
+# Cenangium sebastianiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria affinis P. Karst. SPECIES
-=======
+# Leptosphaeria affinis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

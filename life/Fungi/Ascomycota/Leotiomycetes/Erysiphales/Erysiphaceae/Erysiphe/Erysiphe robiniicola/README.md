@@ -1,5 +1,4 @@
-Erysiphe robiniicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe robiniicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

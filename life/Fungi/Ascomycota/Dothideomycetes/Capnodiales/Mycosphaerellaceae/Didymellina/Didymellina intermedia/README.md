@@ -1,5 +1,4 @@
-Didymellina intermedia Cif. SPECIES
-=======
+# Didymellina intermedia Cif. SPECIES
 
 #### Status
 ACCEPTED

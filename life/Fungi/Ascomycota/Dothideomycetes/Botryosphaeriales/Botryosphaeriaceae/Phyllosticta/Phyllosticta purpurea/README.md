@@ -1,5 +1,4 @@
-Phyllosticta purpurea (Cooke & Massee) Tassi SPECIES
-=======
+# Phyllosticta purpurea (Cooke & Massee) Tassi SPECIES
 
 #### Status
 ACCEPTED

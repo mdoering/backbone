@@ -1,5 +1,4 @@
-Asterina clavuligera Cooke SPECIES
-=======
+# Asterina clavuligera Cooke SPECIES
 
 #### Status
 ACCEPTED

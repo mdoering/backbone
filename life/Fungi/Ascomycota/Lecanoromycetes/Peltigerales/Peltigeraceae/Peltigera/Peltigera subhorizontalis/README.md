@@ -1,5 +1,4 @@
-Peltigera subhorizontalis Gyeln. SPECIES
-=======
+# Peltigera subhorizontalis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

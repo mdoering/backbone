@@ -1,5 +1,4 @@
-Centumgemina H. Mai & M.-P. Aubry, 2005 GENUS
-=======
+# Centumgemina H. Mai & M.-P. Aubry, 2005 GENUS
 
 #### Status
 ACCEPTED

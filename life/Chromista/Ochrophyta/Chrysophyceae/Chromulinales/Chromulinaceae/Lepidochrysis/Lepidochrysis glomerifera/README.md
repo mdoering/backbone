@@ -1,8 +1,7 @@
-Syncrypta glomerifera K.J. Clarke & N.C. Pennick SPECIES
-=======
+# Lepidochrysis glomerifera (K.J. Clarke & N.C. Pennick) J. Ikävalko, J. Kristiansen & H.A. Thomsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

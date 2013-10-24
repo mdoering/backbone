@@ -1,5 +1,4 @@
-Tripodocyrtis Funakawa, 1994 GENUS
-=======
+# Tripodocyrtis Funakawa, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora maculaeformis Fr. SPECIES
-=======
+# Thelephora maculaeformis Fr. SPECIES
 
 #### Status
 ACCEPTED

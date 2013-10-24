@@ -1,5 +1,4 @@
-Usnea annulata (Müll. Arg.) Tomin SPECIES
-=======
+# Usnea annulata (Müll. Arg.) Tomin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachybacterium faecium Collins et al., 1988 SPECIES
-=======
+# Brachybacterium faecium Collins et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

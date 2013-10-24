@@ -1,8 +1,7 @@
-Cryptoderma lamaense (Murrill) Imazeki SPECIES
-=======
+# Cryptoderma lamaoense (Murrill) Imazeki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

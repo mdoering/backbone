@@ -1,5 +1,4 @@
-Dicellaesporites campanulatus Ambwani SPECIES
-=======
+# Dicellaesporites campanulatus Ambwani SPECIES
 
 #### Status
 ACCEPTED

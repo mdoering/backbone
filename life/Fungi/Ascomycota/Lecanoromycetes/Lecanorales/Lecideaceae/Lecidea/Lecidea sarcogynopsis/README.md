@@ -1,5 +1,4 @@
-Lecidea sarcogynopsis Nyl. SPECIES
-=======
+# Lecidea sarcogynopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

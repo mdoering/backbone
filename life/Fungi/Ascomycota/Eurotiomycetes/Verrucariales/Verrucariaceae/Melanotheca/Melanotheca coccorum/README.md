@@ -1,5 +1,4 @@
-Melanotheca coccorum (A. Massal.) Zahlbr. SPECIES
-=======
+# Melanotheca coccorum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

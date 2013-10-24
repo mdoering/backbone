@@ -1,5 +1,4 @@
-Melanotheca nigeriensis C.W. Dodge SPECIES
-=======
+# Melanotheca nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seynesia banksiae Henn. SPECIES
-=======
+# Seynesia banksiae Henn. SPECIES
 
 #### Status
 ACCEPTED

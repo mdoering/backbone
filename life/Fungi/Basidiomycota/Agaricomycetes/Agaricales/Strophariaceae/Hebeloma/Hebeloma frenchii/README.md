@@ -1,5 +1,4 @@
-Hebeloma frenchii McAlpine SPECIES
-=======
+# Hebeloma frenchii McAlpine SPECIES
 
 #### Status
 ACCEPTED

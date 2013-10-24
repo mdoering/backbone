@@ -1,14 +1,13 @@
-Entoloma bisporiger (P.D. Orton) Noordel. SPECIES
-=======
+# Entoloma bisporigerum (P.D. Orton) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 11(1): 86 (1979)
 
 #### Original name
 Eccilia bisporigera P.D. Orton, 1969

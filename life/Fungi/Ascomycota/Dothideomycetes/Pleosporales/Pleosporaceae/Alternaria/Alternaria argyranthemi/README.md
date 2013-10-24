@@ -1,5 +1,4 @@
-Alternaria argyranthemi E.G. Simmons & C.F. Hill, 1997 SPECIES
-=======
+# Alternaria argyranthemi E.G. Simmons & C.F. Hill, 1997 SPECIES
 
 #### Status
 ACCEPTED

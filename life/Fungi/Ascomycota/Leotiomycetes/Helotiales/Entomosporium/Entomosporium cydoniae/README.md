@@ -1,5 +1,4 @@
-Entomosporium cydoniae Cooke & Ellis SPECIES
-=======
+# Entomosporium cydoniae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

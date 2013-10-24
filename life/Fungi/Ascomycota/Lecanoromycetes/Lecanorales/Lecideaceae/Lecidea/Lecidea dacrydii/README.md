@@ -1,5 +1,4 @@
-Lecidea dacrydii Müll. Arg. SPECIES
-=======
+# Lecidea dacrydii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena radius Johns. {?} SPECIES
-=======
+# Mycena radius Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

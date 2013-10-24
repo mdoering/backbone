@@ -1,5 +1,4 @@
-Tryblidaria esfandiarii Petr. SPECIES
-=======
+# Tryblidaria esfandiarii Petr. SPECIES
 
 #### Status
 ACCEPTED

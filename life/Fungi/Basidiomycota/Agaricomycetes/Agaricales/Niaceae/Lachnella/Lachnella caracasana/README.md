@@ -1,5 +1,4 @@
-Lachnella caracasana D.A. Reid SPECIES
-=======
+# Lachnella caracasana D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

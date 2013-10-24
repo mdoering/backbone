@@ -1,5 +1,4 @@
-Parmelia linita (Ach.) Schaer. SPECIES
-=======
+# Parmelia linita (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

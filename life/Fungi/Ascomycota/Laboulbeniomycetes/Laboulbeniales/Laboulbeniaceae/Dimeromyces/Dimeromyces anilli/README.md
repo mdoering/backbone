@@ -1,5 +1,4 @@
-Dimeromyces anilli Thaxt. SPECIES
-=======
+# Dimeromyces anilli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

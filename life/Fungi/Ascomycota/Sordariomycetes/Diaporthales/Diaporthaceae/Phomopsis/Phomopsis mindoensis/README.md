@@ -1,5 +1,4 @@
-Phomopsis mindoensis Petr. SPECIES
-=======
+# Phomopsis mindoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

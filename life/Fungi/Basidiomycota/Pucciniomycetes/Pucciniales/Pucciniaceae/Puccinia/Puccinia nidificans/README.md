@@ -1,5 +1,4 @@
-Puccinia nidificans Magnus SPECIES
-=======
+# Puccinia nidificans Magnus SPECIES
 
 #### Status
 ACCEPTED

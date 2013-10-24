@@ -1,5 +1,4 @@
-Lichen azaleae Schrank SPECIES
-=======
+# Lichen azaleae Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus brunneoradiatus Bonnard SPECIES
-=======
+# Pluteus brunneoradiatus Bonnard SPECIES
 
 #### Status
 ACCEPTED

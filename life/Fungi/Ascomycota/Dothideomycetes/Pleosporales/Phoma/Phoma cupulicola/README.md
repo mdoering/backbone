@@ -1,5 +1,4 @@
-Phoma cupulicola Gonz. Frag. SPECIES
-=======
+# Phoma cupulicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

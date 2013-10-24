@@ -1,5 +1,4 @@
-Lecidella xylophila (Th. Fr.) Knoph & Leuckert SPECIES
-=======
+# Lecidella xylophila (Th. Fr.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

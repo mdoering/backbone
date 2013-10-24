@@ -1,5 +1,4 @@
-Segestria subsimplicans (Nyl.) Hellb. SPECIES
-=======
+# Segestria subsimplicans (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

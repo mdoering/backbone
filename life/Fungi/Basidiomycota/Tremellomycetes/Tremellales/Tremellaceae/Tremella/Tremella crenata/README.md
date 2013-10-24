@@ -1,5 +1,4 @@
-Tremella crenata Schwein. SPECIES
-=======
+# Tremella crenata Schwein. SPECIES
 
 #### Status
 ACCEPTED

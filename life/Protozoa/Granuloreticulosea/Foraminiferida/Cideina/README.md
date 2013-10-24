@@ -1,5 +1,4 @@
-Cideina Sirel, 1992 GENUS
-=======
+# Cideina Sirel, 1992 GENUS
 
 #### Status
 ACCEPTED

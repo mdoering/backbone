@@ -1,5 +1,4 @@
-Lecanora ciliata Ach. SPECIES
-=======
+# Lecanora ciliata Ach. SPECIES
 
 #### Status
 ACCEPTED

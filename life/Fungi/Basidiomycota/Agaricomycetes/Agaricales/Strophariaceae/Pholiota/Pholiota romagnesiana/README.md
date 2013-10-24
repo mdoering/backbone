@@ -1,5 +1,4 @@
-Pholiota romagnesiana A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota romagnesiana A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

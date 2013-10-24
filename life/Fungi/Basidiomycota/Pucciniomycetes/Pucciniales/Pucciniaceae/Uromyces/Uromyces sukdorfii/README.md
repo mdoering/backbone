@@ -1,5 +1,4 @@
-Uromyces sukdorfii SPECIES
-=======
+# Uromyces sukdorfii SPECIES
 
 #### Status
 ACCEPTED

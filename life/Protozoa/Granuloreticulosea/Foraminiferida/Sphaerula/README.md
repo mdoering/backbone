@@ -1,5 +1,4 @@
-Sphaerula Dalyell, 1853 GENUS
-=======
+# Sphaerula Dalyell, 1853 GENUS
 
 #### Status
 ACCEPTED

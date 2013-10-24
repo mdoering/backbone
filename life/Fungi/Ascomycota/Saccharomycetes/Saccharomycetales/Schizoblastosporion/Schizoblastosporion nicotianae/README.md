@@ -1,5 +1,4 @@
-Schizoblastosporion nicotianae Giov. SPECIES
-=======
+# Schizoblastosporion nicotianae Giov. SPECIES
 
 #### Status
 ACCEPTED

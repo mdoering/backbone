@@ -1,5 +1,4 @@
-Pseudocercospora sordida (Sacc.) Deighton SPECIES
-=======
+# Pseudocercospora sordida (Sacc.) Deighton SPECIES
 
 #### Status
 ACCEPTED

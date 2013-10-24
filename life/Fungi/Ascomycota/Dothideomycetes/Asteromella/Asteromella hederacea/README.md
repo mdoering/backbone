@@ -1,5 +1,4 @@
-Asteromella hederacea Petr. SPECIES
-=======
+# Asteromella hederacea Petr. SPECIES
 
 #### Status
 ACCEPTED

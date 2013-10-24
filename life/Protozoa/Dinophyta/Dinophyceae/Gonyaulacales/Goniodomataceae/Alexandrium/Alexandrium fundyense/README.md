@@ -1,5 +1,4 @@
-Alexandrium fundyense Balech SPECIES
-=======
+# Alexandrium fundyense Balech SPECIES
 
 #### Status
 ACCEPTED

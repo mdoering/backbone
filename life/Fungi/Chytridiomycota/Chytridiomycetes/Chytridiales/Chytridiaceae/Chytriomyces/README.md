@@ -1,5 +1,4 @@
-Chytriomyces Karling GENUS
-=======
+# Chytriomyces Karling GENUS
 
 #### Status
 ACCEPTED

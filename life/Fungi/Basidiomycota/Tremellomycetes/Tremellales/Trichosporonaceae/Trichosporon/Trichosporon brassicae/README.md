@@ -1,5 +1,4 @@
-Trichosporon brassicae Nakase SPECIES
-=======
+# Trichosporon brassicae Nakase SPECIES
 
 #### Status
 ACCEPTED

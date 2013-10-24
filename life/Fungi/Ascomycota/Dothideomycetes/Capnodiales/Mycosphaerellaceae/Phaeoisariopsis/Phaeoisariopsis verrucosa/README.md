@@ -1,5 +1,4 @@
-Phaeoisariopsis verrucosa ined. SPECIES
-=======
+# Phaeoisariopsis verrucosa ined. SPECIES
 
 #### Status
 ACCEPTED

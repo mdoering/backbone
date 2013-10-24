@@ -1,5 +1,4 @@
-Drepanopeziza triandrae Rimpau, 1962 SPECIES
-=======
+# Drepanopeziza triandrae Rimpau, 1962 SPECIES
 
 #### Status
 ACCEPTED

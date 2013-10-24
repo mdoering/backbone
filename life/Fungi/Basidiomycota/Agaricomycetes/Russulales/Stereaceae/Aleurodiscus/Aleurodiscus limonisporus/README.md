@@ -1,5 +1,4 @@
-Aleurodiscus limonisporus D.A. Reid, 1956 SPECIES
-=======
+# Aleurodiscus limonisporus D.A. Reid, 1956 SPECIES
 
 #### Status
 ACCEPTED

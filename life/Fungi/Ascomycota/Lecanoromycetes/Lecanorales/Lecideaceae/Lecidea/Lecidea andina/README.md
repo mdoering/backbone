@@ -1,5 +1,4 @@
-Lecidea andina Zahlbr. SPECIES
-=======
+# Lecidea andina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

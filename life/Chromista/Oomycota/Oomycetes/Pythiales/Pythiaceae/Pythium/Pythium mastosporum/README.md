@@ -1,5 +1,4 @@
-Pythium mastosporum Vaartaja & Plaäts-Nit. SPECIES
-=======
+# Pythium mastosporum Vaartaja & Plaäts-Nit. SPECIES
 
 #### Status
 ACCEPTED

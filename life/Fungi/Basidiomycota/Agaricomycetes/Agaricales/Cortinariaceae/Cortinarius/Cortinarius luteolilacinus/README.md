@@ -1,5 +1,4 @@
-Cortinarius luteolilacinus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius luteolilacinus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

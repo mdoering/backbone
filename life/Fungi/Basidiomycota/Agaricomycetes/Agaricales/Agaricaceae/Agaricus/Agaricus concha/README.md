@@ -1,5 +1,4 @@
-Agaricus concha Hoffm. SPECIES
-=======
+# Agaricus concha Hoffm. SPECIES
 
 #### Status
 ACCEPTED

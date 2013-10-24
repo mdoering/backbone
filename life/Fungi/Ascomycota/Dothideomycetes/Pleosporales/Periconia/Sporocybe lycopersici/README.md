@@ -1,5 +1,4 @@
-Sporocybe lycopersici Plowr. SPECIES
-=======
+# Sporocybe lycopersici Plowr. SPECIES
 
 #### Status
 ACCEPTED

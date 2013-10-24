@@ -1,5 +1,4 @@
-Conoideocrella D. Johnson, G.H. Sung, Hywel-Jones & Spatafora GENUS
-=======
+# Conoideocrella D. Johnson, G.H. Sung, Hywel-Jones & Spatafora GENUS
 
 #### Status
 ACCEPTED

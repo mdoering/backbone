@@ -1,5 +1,4 @@
-Marasmius montanus Murrill SPECIES
-=======
+# Marasmius montanus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilopezia nummularialis Pfister & Cand. SPECIES
-=======
+# Psilopezia nummularialis Pfister & Cand. SPECIES
 
 #### Status
 ACCEPTED

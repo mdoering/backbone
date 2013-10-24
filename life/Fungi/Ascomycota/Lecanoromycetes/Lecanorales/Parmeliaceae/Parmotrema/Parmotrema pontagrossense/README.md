@@ -1,17 +1,16 @@
-Rimelia pontagrossensis Eliasaro & Adler SPECIES
-=======
+# Parmotrema pontagrossense (Eliasaro & Adler) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(1): 157 (2005)
 
 #### Original name
-null
+Rimelia pontagrossensis Eliasaro & Adler
 
 ### Remarks
 null

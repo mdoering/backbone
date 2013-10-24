@@ -1,5 +1,4 @@
-Eriomoeszia eriocauli (G.P. Clinton) Vánky, 2005 SPECIES
-=======
+# Eriomoeszia eriocauli (G.P. Clinton) Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

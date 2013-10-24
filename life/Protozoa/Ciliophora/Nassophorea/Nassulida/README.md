@@ -1,5 +1,4 @@
-Nassulida Jankowksi, 1967 ORDER
-=======
+# Nassulida Jankowksi, 1967 ORDER
 
 #### Status
 ACCEPTED

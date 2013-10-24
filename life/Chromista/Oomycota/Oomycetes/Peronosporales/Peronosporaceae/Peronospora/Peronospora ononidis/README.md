@@ -1,5 +1,4 @@
-Peronospora ononidis G.W. Wilson SPECIES
-=======
+# Peronospora ononidis G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

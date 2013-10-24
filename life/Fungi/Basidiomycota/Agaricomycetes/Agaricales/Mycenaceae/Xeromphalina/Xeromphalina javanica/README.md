@@ -1,5 +1,4 @@
-Xeromphalina javanica E. Horak SPECIES
-=======
+# Xeromphalina javanica E. Horak SPECIES
 
 #### Status
 ACCEPTED

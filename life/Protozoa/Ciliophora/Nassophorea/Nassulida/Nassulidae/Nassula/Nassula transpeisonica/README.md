@@ -1,5 +1,4 @@
-Nassula transpeisonica Löffler, 1979 SPECIES
-=======
+# Nassula transpeisonica Löffler, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma santonensis Sacc. & P. Syd. SPECIES
-=======
+# Phoma santonensis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

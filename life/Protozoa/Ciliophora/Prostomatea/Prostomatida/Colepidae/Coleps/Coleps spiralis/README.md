@@ -1,5 +1,4 @@
-Coleps spiralis Noland, 1937 SPECIES
-=======
+# Coleps spiralis Noland, 1937 SPECIES
 
 #### Status
 ACCEPTED

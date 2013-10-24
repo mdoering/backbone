@@ -1,5 +1,4 @@
-Belonopsis eriophori Raitv. SPECIES
-=======
+# Belonopsis eriophori Raitv. SPECIES
 
 #### Status
 ACCEPTED

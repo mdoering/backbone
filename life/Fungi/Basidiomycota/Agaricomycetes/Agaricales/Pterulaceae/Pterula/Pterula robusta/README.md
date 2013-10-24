@@ -1,5 +1,4 @@
-Pterula robusta Corner, 1967 SPECIES
-=======
+# Pterula robusta Corner, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priscogalea varispinosa Pöthé de Baldis, 1997 SPECIES
-=======
+# Priscogalea varispinosa Pöthé de Baldis, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria hantzschiana Gerstenberger SPECIES
-=======
+# Fragilaria hantzschiana Gerstenberger SPECIES
 
 #### Status
 ACCEPTED

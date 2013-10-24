@@ -1,5 +1,4 @@
-Agrocybe musicola Natarajan & Purush. SPECIES
-=======
+# Agrocybe musicola Natarajan & Purush. SPECIES
 
 #### Status
 ACCEPTED

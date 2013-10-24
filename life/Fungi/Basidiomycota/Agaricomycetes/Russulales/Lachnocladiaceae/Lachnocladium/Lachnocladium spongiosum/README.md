@@ -1,5 +1,4 @@
-Lachnocladium spongiosum Corner SPECIES
-=======
+# Lachnocladium spongiosum Corner SPECIES
 
 #### Status
 ACCEPTED

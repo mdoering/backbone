@@ -1,5 +1,4 @@
-Mycena echinulata Quél. SPECIES
-=======
+# Mycena echinulata Quél. SPECIES
 
 #### Status
 ACCEPTED

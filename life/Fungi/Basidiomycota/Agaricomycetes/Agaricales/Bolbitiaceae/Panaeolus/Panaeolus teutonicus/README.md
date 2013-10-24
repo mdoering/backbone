@@ -1,5 +1,4 @@
-Panaeolus teutonicus Bride & Métrod SPECIES
-=======
+# Panaeolus teutonicus Bride & Métrod SPECIES
 
 #### Status
 ACCEPTED

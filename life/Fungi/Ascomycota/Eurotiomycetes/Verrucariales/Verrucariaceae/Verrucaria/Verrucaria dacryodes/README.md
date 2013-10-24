@@ -1,5 +1,4 @@
-Verrucaria dacryodes Nyl. SPECIES
-=======
+# Verrucaria dacryodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

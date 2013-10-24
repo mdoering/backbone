@@ -1,5 +1,4 @@
-Metasphaeria marchaliana Sacc. SPECIES
-=======
+# Metasphaeria marchaliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

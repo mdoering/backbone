@@ -1,5 +1,4 @@
-Catillaria bifromigera (Leight.) P. James SPECIES
-=======
+# Catillaria bifromigera (Leight.) P. James SPECIES
 
 #### Status
 ACCEPTED

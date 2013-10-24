@@ -1,5 +1,4 @@
-Harpochytrium botryococci Jane SPECIES
-=======
+# Harpochytrium botryococci Jane SPECIES
 
 #### Status
 ACCEPTED

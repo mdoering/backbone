@@ -1,5 +1,4 @@
-Spongodiscus resurgens Ehrenberg, 1854 SPECIES
-=======
+# Spongodiscus resurgens Ehrenberg, 1854 SPECIES
 
 #### Status
 ACCEPTED

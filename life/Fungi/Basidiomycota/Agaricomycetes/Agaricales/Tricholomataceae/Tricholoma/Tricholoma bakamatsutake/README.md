@@ -1,5 +1,4 @@
-Tricholoma bakamatsutake Hongo SPECIES
-=======
+# Tricholoma bakamatsutake Hongo SPECIES
 
 #### Status
 ACCEPTED

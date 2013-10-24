@@ -1,5 +1,4 @@
-Omphalia minima Velen. SPECIES
-=======
+# Omphalia minima Velen. SPECIES
 
 #### Status
 ACCEPTED

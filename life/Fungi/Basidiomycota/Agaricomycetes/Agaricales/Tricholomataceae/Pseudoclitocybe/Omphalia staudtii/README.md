@@ -1,5 +1,4 @@
-Omphalia staudtii Henn. SPECIES
-=======
+# Omphalia staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

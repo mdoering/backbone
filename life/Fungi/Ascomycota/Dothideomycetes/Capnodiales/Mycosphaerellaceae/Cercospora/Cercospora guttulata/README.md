@@ -1,5 +1,4 @@
-Cercospora guttulata Ellis & Kellerm. SPECIES
-=======
+# Cercospora guttulata Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

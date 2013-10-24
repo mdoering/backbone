@@ -1,5 +1,4 @@
-Venturia potentillae (Wallr.) Cooke, 1877 SPECIES
-=======
+# Venturia potentillae (Wallr.) Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

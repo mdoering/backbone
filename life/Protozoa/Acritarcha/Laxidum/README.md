@@ -1,5 +1,4 @@
-Laxidum GENUS
-=======
+# Laxidum GENUS
 
 #### Status
 ACCEPTED

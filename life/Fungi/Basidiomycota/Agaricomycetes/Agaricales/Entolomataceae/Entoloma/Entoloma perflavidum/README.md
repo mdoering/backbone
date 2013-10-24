@@ -1,5 +1,4 @@
-Entoloma perflavidum Manim. & Noordel. SPECIES
-=======
+# Entoloma perflavidum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

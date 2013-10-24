@@ -1,5 +1,4 @@
-Mollisia vincae Rehm SPECIES
-=======
+# Mollisia vincae Rehm SPECIES
 
 #### Status
 ACCEPTED

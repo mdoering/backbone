@@ -1,5 +1,4 @@
-Aspidothelium mirabile Lücking SPECIES
-=======
+# Aspidothelium mirabile Lücking SPECIES
 
 #### Status
 ACCEPTED

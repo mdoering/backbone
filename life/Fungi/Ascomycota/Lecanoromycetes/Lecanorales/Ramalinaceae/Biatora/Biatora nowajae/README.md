@@ -1,5 +1,4 @@
-Biatora nowajae Körb. SPECIES
-=======
+# Biatora nowajae Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia uralensis Tranzschel SPECIES
-=======
+# Puccinia uralensis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

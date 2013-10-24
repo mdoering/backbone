@@ -1,5 +1,4 @@
-Diplodina diervillae (Fairm.) Zambett. SPECIES
-=======
+# Diplodina diervillae (Fairm.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

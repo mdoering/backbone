@@ -1,5 +1,4 @@
-Sphaerulina hamadryadum Speg. SPECIES
-=======
+# Sphaerulina hamadryadum Speg. SPECIES
 
 #### Status
 ACCEPTED

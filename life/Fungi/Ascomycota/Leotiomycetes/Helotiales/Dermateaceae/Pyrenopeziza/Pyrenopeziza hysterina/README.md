@@ -1,5 +1,4 @@
-Pyrenopeziza hysterina Sacc. SPECIES
-=======
+# Pyrenopeziza hysterina Sacc. SPECIES
 
 #### Status
 ACCEPTED

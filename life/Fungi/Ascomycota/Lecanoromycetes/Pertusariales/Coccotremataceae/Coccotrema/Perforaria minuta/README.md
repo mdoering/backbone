@@ -1,5 +1,4 @@
-Perforaria minuta Degel. SPECIES
-=======
+# Perforaria minuta Degel. SPECIES
 
 #### Status
 ACCEPTED

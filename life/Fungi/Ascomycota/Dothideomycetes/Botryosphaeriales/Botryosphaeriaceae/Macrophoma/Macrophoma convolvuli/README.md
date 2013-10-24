@@ -1,5 +1,4 @@
-Macrophoma convolvuli Pat. SPECIES
-=======
+# Macrophoma convolvuli Pat. SPECIES
 
 #### Status
 ACCEPTED

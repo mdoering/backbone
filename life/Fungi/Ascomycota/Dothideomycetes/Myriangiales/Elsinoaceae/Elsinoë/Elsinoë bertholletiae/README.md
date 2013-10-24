@@ -1,5 +1,4 @@
-Elsinoë bertholletiae Bitanc. SPECIES
-=======
+# Elsinoë bertholletiae Bitanc. SPECIES
 
 #### Status
 ACCEPTED

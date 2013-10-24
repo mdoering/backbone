@@ -1,5 +1,4 @@
-Buellia rhedonensis (Nyl.) H. Olivier SPECIES
-=======
+# Buellia rhedonensis (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

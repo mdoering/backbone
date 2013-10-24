@@ -1,5 +1,4 @@
-Cylindrocarpon macroconidialis Brayford & Samuels, 1990 SPECIES
-=======
+# Cylindrocarpon macroconidialis Brayford & Samuels, 1990 SPECIES
 
 #### Status
 ACCEPTED

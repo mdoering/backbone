@@ -1,5 +1,4 @@
-Phacopsis geographici (J. Steiner) Keissl. SPECIES
-=======
+# Phacopsis geographici (J. Steiner) Keissl. SPECIES
 
 #### Status
 ACCEPTED

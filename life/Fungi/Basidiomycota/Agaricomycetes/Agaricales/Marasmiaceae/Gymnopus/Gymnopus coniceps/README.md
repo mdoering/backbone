@@ -1,5 +1,4 @@
-Gymnopus coniceps Murrill SPECIES
-=======
+# Gymnopus coniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

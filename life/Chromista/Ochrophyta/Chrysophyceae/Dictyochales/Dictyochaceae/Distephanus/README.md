@@ -1,5 +1,4 @@
-Distephanus Cassini, 1817 GENUS
-=======
+# Distephanus Cassini, 1817 GENUS
 
 #### Status
 ACCEPTED

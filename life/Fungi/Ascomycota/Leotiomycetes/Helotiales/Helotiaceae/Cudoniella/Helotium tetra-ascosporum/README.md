@@ -1,17 +1,16 @@
-Helotium tetrascosporum Rea SPECIES
-=======
+# Helotium tetra-ascosporum Rea, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Helotium tetrascosporum Rea
+Helotium tetra-ascosporum Rea, 1909
 
 ### Remarks
 null

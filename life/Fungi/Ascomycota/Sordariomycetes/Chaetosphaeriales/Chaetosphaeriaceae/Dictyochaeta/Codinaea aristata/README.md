@@ -1,14 +1,13 @@
-Dictyochaeta aristata (Maire) Aramb. & Cabello, 1989 SPECIES
-=======
+# Codinaea aristata Maire, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 34(2): 681 (1989)
+Publ. Inst. Bot. 3(4): 15 (1937)
 
 #### Original name
 Codinaea aristata Maire, 1937

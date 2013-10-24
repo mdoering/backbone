@@ -1,5 +1,4 @@
-Xerotus virgineus Rick SPECIES
-=======
+# Xerotus virgineus Rick SPECIES
 
 #### Status
 ACCEPTED

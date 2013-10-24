@@ -1,5 +1,4 @@
-Omphalia undulata Quél. SPECIES
-=======
+# Omphalia undulata Quél. SPECIES
 
 #### Status
 ACCEPTED

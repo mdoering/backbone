@@ -1,5 +1,4 @@
-Flavobacterium granuli Aslam et al., 2005 SPECIES
-=======
+# Flavobacterium granuli Aslam et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

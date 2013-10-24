@@ -1,5 +1,4 @@
-Chaetothyrium diversum Mig. Rodr. SPECIES
-=======
+# Chaetothyrium diversum Mig. Rodr. SPECIES
 
 #### Status
 ACCEPTED

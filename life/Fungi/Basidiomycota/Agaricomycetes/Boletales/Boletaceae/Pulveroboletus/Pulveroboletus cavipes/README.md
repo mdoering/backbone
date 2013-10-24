@@ -1,5 +1,4 @@
-Pulveroboletus cavipes Heinem. SPECIES
-=======
+# Pulveroboletus cavipes Heinem. SPECIES
 
 #### Status
 ACCEPTED

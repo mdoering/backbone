@@ -1,5 +1,4 @@
-Xiphatractona Haeckel, 1887 GENUS
-=======
+# Xiphatractona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

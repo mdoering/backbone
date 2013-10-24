@@ -1,5 +1,4 @@
-Anigsteinia velata SPECIES
-=======
+# Anigsteinia velata SPECIES
 
 #### Status
 ACCEPTED

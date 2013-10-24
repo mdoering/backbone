@@ -1,5 +1,4 @@
-Stereocaulon caespitosum Redinger SPECIES
-=======
+# Stereocaulon caespitosum Redinger SPECIES
 
 #### Status
 ACCEPTED

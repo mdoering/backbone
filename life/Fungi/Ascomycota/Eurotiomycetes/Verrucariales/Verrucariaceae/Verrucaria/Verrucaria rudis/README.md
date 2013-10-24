@@ -1,5 +1,4 @@
-Verrucaria rudis Borrer SPECIES
-=======
+# Verrucaria rudis Borrer SPECIES
 
 #### Status
 ACCEPTED

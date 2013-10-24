@@ -1,5 +1,4 @@
-Menegazzia caliginosa P. James & D. J. Galloway SPECIES
-=======
+# Menegazzia caliginosa P. James & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria halophila Speg. SPECIES
-=======
+# Septoria halophila Speg. SPECIES
 
 #### Status
 ACCEPTED

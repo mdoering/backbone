@@ -1,5 +1,4 @@
-Lecidea otagoana Zahlbr. SPECIES
-=======
+# Lecidea otagoana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

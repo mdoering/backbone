@@ -1,5 +1,4 @@
-Diorchidium lateripes Magnus SPECIES
-=======
+# Diorchidium lateripes Magnus SPECIES
 
 #### Status
 ACCEPTED

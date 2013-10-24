@@ -1,5 +1,4 @@
-Lentzea albida Labeda et al., 2001 SPECIES
-=======
+# Lentzea albida Labeda et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

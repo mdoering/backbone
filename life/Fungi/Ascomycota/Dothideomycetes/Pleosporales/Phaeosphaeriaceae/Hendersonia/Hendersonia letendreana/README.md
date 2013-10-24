@@ -1,5 +1,4 @@
-Hendersonia letendreana var. letendreana VARIETY
-=======
+# Hendersonia letendreana Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia letendreana var. letendreana
+Hendersonia letendreana Sacc.
 
 ### Remarks
 null

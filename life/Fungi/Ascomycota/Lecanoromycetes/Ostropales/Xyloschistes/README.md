@@ -1,5 +1,4 @@
-Xyloschistes Vain. ex Zahlbr. GENUS
-=======
+# Xyloschistes Vain. ex Zahlbr. GENUS
 
 #### Status
 ACCEPTED

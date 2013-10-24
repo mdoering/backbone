@@ -1,5 +1,4 @@
-Staphylococcus aureus subsp. aureus SUBSPECIES
-=======
+# Staphylococcus aureus Rosenbach, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calloria cremea (E.K. Cash) Seaver SPECIES
-=======
+# Calloria cremea (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

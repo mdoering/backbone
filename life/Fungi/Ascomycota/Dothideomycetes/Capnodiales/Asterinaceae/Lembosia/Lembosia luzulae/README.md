@@ -1,14 +1,13 @@
-Aulographum luzulae Lib., 1837 SPECIES
-=======
+# Lembosia luzulae (Lib.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. no. 372 (1832)
+Annls mycol. 15(5): 366 (1917)
 
 #### Original name
 Aulographum luzulae Lib., 1837

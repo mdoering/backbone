@@ -1,5 +1,4 @@
-Stachybotrys ruwenzoriensis Matsush., 1985 SPECIES
-=======
+# Stachybotrys ruwenzoriensis Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

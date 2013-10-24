@@ -1,5 +1,4 @@
-Ligniella pinicola Naumov SPECIES
-=======
+# Ligniella pinicola Naumov SPECIES
 
 #### Status
 ACCEPTED

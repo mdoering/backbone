@@ -1,5 +1,4 @@
-Umbilicaria japonica Räsänen SPECIES
-=======
+# Umbilicaria japonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

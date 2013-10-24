@@ -1,5 +1,4 @@
-Cercospora cyperi-rotundi Thirum. & Govindu SPECIES
-=======
+# Cercospora cyperi-rotundi Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

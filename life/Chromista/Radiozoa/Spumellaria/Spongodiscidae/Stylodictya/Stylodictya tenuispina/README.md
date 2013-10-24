@@ -1,5 +1,4 @@
-Stylodictya tenuispina Joergensen, 1905 SPECIES
-=======
+# Stylodictya tenuispina Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleps spetai Foissner, 1984 SPECIES
-=======
+# Coleps spetai Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

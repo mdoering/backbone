@@ -1,5 +1,4 @@
-Arcyria ramulosa Wigand SPECIES
-=======
+# Arcyria ramulosa Wigand SPECIES
 
 #### Status
 ACCEPTED

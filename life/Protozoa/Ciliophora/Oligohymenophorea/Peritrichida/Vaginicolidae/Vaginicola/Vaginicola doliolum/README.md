@@ -1,5 +1,4 @@
-Vaginicola doliolum (Penard, 1914) Kahl, 1935 SPECIES
-=======
+# Vaginicola doliolum (Penard, 1914) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

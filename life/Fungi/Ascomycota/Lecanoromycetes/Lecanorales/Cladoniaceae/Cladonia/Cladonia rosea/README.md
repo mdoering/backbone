@@ -1,5 +1,4 @@
-Cladonia rosea Ludw. {?} SPECIES
-=======
+# Cladonia rosea Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

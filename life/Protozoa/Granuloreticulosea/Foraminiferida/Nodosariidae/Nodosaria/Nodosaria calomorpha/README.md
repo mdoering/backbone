@@ -1,5 +1,4 @@
-Nodosaria calomorpha Reuss, 1865 SPECIES
-=======
+# Nodosaria calomorpha Reuss, 1865 SPECIES
 
 #### Status
 ACCEPTED

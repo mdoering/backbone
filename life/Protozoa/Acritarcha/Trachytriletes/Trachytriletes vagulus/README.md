@@ -1,5 +1,4 @@
-Trachytriletes vagulus Egorov & Egorova, 1971 SPECIES
-=======
+# Trachytriletes vagulus Egorov & Egorova, 1971 SPECIES
 
 #### Status
 ACCEPTED

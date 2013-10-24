@@ -1,5 +1,4 @@
-Byssophragmia monospora M. Choisy SPECIES
-=======
+# Byssophragmia monospora M. Choisy SPECIES
 
 #### Status
 ACCEPTED

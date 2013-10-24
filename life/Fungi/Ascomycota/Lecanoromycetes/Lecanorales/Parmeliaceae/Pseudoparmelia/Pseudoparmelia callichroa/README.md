@@ -1,5 +1,4 @@
-Pseudoparmelia callichroa Kurok. SPECIES
-=======
+# Pseudoparmelia callichroa Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pulveracea Chevall. SPECIES
-=======
+# Lecanora pulveracea Chevall. SPECIES
 
 #### Status
 ACCEPTED

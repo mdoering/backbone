@@ -1,5 +1,4 @@
-Ophryoglena panophrys SPECIES
-=======
+# Ophryoglena panophrys SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces caulicola Henn. SPECIES
-=======
+# Hypomyces caulicola Henn. SPECIES
 
 #### Status
 ACCEPTED

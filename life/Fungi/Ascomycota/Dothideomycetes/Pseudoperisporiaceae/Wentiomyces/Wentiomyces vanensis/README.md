@@ -1,5 +1,4 @@
-Wentiomyces vanensis Tilak & Talde SPECIES
-=======
+# Wentiomyces vanensis Tilak & Talde SPECIES
 
 #### Status
 ACCEPTED

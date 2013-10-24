@@ -1,5 +1,4 @@
-Spathidium macrostoma SPECIES
-=======
+# Spathidium macrostoma SPECIES
 
 #### Status
 ACCEPTED

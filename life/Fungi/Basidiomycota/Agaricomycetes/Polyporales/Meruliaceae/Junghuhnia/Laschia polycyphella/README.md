@@ -1,5 +1,4 @@
-Laschia polycyphella Rick SPECIES
-=======
+# Laschia polycyphella Rick SPECIES
 
 #### Status
 ACCEPTED

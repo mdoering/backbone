@@ -1,5 +1,4 @@
-Ascobolus parasiticus Wolk SPECIES
-=======
+# Ascobolus parasiticus Wolk SPECIES
 
 #### Status
 ACCEPTED

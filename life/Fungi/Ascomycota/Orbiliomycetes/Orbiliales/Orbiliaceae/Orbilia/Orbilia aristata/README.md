@@ -1,5 +1,4 @@
-Orbilia aristata (Velen.) Velen. SPECIES
-=======
+# Orbilia aristata (Velen.) Velen. SPECIES
 
 #### Status
 ACCEPTED

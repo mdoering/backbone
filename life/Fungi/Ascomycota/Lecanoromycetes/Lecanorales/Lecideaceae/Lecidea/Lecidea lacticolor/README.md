@@ -1,5 +1,4 @@
-Lecidea lacticolor Arnold SPECIES
-=======
+# Lecidea lacticolor Arnold SPECIES
 
 #### Status
 ACCEPTED

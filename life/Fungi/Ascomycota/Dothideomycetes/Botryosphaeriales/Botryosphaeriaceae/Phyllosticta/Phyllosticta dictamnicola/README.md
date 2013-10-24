@@ -1,5 +1,4 @@
-Phyllosticta dictamnicola Lobik SPECIES
-=======
+# Phyllosticta dictamnicola Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium rosae Brunaud SPECIES
-=======
+# Coniosporium rosae Brunaud SPECIES
 
 #### Status
 ACCEPTED

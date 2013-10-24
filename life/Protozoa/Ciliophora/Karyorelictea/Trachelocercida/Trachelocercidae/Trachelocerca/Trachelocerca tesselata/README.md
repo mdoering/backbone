@@ -1,5 +1,4 @@
-Trachelocerca tesselata Kahl, 1933 SPECIES
-=======
+# Trachelocerca tesselata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

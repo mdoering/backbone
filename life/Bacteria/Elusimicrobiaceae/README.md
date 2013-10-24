@@ -1,5 +1,4 @@
-Elusimicrobiaceae FAMILY
-=======
+# Elusimicrobiaceae FAMILY
 
 #### Status
 ACCEPTED

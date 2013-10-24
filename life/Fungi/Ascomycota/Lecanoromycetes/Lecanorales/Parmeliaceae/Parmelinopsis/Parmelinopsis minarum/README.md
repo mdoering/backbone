@@ -1,14 +1,13 @@
-Parmelina minarum (Vain.) Skorepa SPECIES
-=======
+# Parmelinopsis minarum (Vain.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 53(6): 445 (1983)
+Mycotaxon 29: 243 (1987)
 
 #### Original name
 Parmelia minarum Vain.

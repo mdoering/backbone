@@ -1,5 +1,4 @@
-Thyronectria missouriensis (Ellis & Everh.) Seaver SPECIES
-=======
+# Thyronectria missouriensis (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

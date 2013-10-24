@@ -1,5 +1,4 @@
-Pluteus carpineti Sosin SPECIES
-=======
+# Pluteus carpineti Sosin SPECIES
 
 #### Status
 ACCEPTED

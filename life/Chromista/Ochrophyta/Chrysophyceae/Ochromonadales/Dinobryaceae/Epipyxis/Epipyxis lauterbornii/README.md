@@ -1,5 +1,4 @@
-Epipyxis lauterbornii var. mucicola (Lemmermann) D. K. Hilliard & Asmund VARIETY
-=======
+# Epipyxis lauterbornii (Lemmermann) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

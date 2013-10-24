@@ -1,5 +1,4 @@
-Marasmius decens Herp. SPECIES
-=======
+# Marasmius decens Herp. SPECIES
 
 #### Status
 ACCEPTED

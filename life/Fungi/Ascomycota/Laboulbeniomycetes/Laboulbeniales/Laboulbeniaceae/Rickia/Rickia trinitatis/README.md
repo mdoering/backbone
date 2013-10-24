@@ -1,5 +1,4 @@
-Rickia trinitatis Thaxt. SPECIES
-=======
+# Rickia trinitatis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

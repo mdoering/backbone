@@ -1,5 +1,4 @@
-Trypanosoma tripterygium Laird, 1951 SPECIES
-=======
+# Trypanosoma tripterygium Laird, 1951 SPECIES
 
 #### Status
 ACCEPTED

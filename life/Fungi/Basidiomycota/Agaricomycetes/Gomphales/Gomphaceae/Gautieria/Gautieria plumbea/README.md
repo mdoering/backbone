@@ -1,5 +1,4 @@
-Gautieria plumbea Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria plumbea Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

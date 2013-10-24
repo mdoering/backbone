@@ -1,5 +1,4 @@
-Mycogone colliculosa Berl. & De Toni SPECIES
-=======
+# Mycogone colliculosa Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octomyces etiennei (Potron) C.W. Dodge SPECIES
-=======
+# Octomyces etiennei (Potron) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

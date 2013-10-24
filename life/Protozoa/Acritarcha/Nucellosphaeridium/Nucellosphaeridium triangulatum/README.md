@@ -1,5 +1,4 @@
-Nucellosphaeridium triangulatum P. K. Maithy SPECIES
-=======
+# Nucellosphaeridium triangulatum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

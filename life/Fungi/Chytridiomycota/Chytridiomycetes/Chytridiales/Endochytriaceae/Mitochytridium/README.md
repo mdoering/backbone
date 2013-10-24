@@ -1,5 +1,4 @@
-Mitochytridium P.A. Dang. GENUS
-=======
+# Mitochytridium P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia circinata (Schwein.) Arthur SPECIES
-=======
+# Puccinia circinata (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

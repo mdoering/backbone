@@ -1,5 +1,4 @@
-Phomopsis umbrina (Bonord.) Bubák SPECIES
-=======
+# Phomopsis umbrina (Bonord.) Bubák SPECIES
 
 #### Status
 ACCEPTED

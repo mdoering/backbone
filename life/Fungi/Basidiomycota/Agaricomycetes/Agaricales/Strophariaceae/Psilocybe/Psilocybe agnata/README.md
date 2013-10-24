@@ -1,5 +1,4 @@
-Psilocybe agnata (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe agnata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

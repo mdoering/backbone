@@ -1,5 +1,4 @@
-Musaespora kassamensis Sérus. SPECIES
-=======
+# Musaespora kassamensis Sérus. SPECIES
 
 #### Status
 ACCEPTED

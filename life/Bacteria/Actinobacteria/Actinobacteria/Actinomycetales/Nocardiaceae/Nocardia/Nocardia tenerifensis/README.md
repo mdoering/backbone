@@ -1,5 +1,4 @@
-Nocardia tenerifensis Kämpfer et al., 2004 SPECIES
-=======
+# Nocardia tenerifensis Kämpfer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caeoma dianthi (Pers.) Link, 1825 SPECIES
-=======
+# Uromyces dianthi (Pers.) Niessl, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Willdenow, Willd. , Sp. pl. , Edn 4 6(2): 26 (1825)
+Verh. nat. Ver. Brünn 10: 162 (1872)
 
 #### Original name
-null
+Uredo dianthi Pers., 1801
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Didymium macrospermum leiosporum L.F. Celak, 1893 INFRASPECIFIC_NAME
-=======
+# Didymium macrospermum Rostaf., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 161 (1875)
 
 #### Original name
-null
+Didymium macrospermum Rostaf., 1874
 
 ### Remarks
 null

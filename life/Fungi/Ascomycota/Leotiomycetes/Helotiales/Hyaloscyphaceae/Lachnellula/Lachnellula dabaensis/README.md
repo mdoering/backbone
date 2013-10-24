@@ -1,5 +1,4 @@
-Lachnellula dabaensis W.Y. Zhuang SPECIES
-=======
+# Lachnellula dabaensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

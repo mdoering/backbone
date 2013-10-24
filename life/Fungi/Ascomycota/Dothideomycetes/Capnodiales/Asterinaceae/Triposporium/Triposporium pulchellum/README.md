@@ -1,5 +1,4 @@
-Triposporium pulchellum Höhn. SPECIES
-=======
+# Triposporium pulchellum Höhn. SPECIES
 
 #### Status
 ACCEPTED

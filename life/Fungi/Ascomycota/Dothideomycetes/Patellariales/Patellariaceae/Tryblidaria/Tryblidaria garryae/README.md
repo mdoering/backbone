@@ -1,5 +1,4 @@
-Tryblidaria garryae (Earle) Sacc. & Trotter SPECIES
-=======
+# Tryblidaria garryae (Earle) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

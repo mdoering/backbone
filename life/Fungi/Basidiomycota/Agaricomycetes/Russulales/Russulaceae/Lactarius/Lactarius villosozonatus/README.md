@@ -1,5 +1,4 @@
-Lactarius villosozonatus G.F. Atk. SPECIES
-=======
+# Lactarius villosozonatus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

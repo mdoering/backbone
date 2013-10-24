@@ -1,5 +1,4 @@
-Stigmatomyces hackmanii Huldén SPECIES
-=======
+# Stigmatomyces hackmanii Huldén SPECIES
 
 #### Status
 ACCEPTED

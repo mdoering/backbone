@@ -1,5 +1,4 @@
-Pithyella apicalis (Berk. & Broome) Korf & W.Y. Zhuang SPECIES
-=======
+# Pithyella apicalis (Berk. & Broome) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

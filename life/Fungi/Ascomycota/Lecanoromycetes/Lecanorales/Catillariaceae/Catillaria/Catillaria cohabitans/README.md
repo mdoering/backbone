@@ -1,5 +1,4 @@
-Catillaria cohabitans (Jatta) Lettau SPECIES
-=======
+# Catillaria cohabitans (Jatta) Lettau SPECIES
 
 #### Status
 ACCEPTED

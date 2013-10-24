@@ -1,5 +1,4 @@
-Arthophacopsis parmeliarum Hafellner SPECIES
-=======
+# Arthophacopsis parmeliarum Hafellner SPECIES
 
 #### Status
 ACCEPTED

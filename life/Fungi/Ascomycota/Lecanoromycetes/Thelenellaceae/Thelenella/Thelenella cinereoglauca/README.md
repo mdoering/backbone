@@ -1,5 +1,4 @@
-Thelenella cinereoglauca SPECIES
-=======
+# Thelenella cinereoglauca SPECIES
 
 #### Status
 ACCEPTED

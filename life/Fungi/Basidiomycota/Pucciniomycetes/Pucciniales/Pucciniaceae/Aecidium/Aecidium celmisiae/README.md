@@ -1,5 +1,4 @@
-Aecidium celmisiae Rodway, 1925 SPECIES
-=======
+# Aecidium celmisiae Rodway, 1925 SPECIES
 
 #### Status
 ACCEPTED

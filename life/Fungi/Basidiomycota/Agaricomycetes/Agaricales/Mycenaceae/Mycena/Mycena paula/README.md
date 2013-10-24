@@ -1,5 +1,4 @@
-Mycena paula Maas Geest. & de Meijer SPECIES
-=======
+# Mycena paula Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

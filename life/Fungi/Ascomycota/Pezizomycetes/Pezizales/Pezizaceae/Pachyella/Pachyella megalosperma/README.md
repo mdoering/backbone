@@ -1,5 +1,4 @@
-Pachyella megalosperma (Le Gal) Pfister SPECIES
-=======
+# Pachyella megalosperma (Le Gal) Pfister SPECIES
 
 #### Status
 ACCEPTED

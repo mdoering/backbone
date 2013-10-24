@@ -1,5 +1,4 @@
-Endocarpiscum guepinii (Delise) Nyl. SPECIES
-=======
+# Endocarpiscum guepinii (Delise) Nyl. SPECIES
 
 #### Status
 ACCEPTED

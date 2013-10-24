@@ -1,5 +1,4 @@
-Humaria masseeana Sacc. & D. Sacc. SPECIES
-=======
+# Humaria masseeana Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum pteropleuron Grunow SPECIES
-=======
+# Sargassum pteropleuron Grunow SPECIES
 
 #### Status
 ACCEPTED

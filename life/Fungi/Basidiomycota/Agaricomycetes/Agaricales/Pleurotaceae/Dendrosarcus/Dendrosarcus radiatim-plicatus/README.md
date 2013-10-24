@@ -1,17 +1,16 @@
-Dendrosarcus radiatiplicatus (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus radiatim-plicatus (Kalchbr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 464 (1898)
 
 #### Original name
-Agaricus radiatimplicatus Kalchbr.
+Agaricus radiatim-plicatus Kalchbr.
 
 ### Remarks
 null

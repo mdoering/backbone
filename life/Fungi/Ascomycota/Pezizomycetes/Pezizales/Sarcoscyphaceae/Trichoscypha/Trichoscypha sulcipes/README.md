@@ -1,5 +1,4 @@
-Trichoscypha sulcipes (Berk.) Cooke SPECIES
-=======
+# Trichoscypha sulcipes (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

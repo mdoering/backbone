@@ -1,5 +1,4 @@
-Phoma caricae-papayae (Tarr) Punith., 1980 SPECIES
-=======
+# Phoma caricae-papayae (Tarr) Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

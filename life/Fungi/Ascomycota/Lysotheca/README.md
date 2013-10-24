@@ -1,5 +1,4 @@
-Lysotheca Cif. GENUS
-=======
+# Lysotheca Cif. GENUS
 
 #### Status
 ACCEPTED

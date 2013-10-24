@@ -1,5 +1,4 @@
-Cercospora chrysanthemi-coronarii Sawada SPECIES
-=======
+# Cercospora chrysanthemi-coronarii Sawada SPECIES
 
 #### Status
 ACCEPTED

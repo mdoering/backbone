@@ -1,5 +1,4 @@
-Lobaria amplissima (Scop.) Forssell SPECIES
-=======
+# Lobaria amplissima (Scop.) Forssell SPECIES
 
 #### Status
 ACCEPTED

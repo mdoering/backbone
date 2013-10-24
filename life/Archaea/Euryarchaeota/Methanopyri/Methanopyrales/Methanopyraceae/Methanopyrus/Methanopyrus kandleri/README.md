@@ -1,5 +1,4 @@
-Methanopyrus kandleri Kurr et al., 1992 SPECIES
-=======
+# Methanopyrus kandleri Kurr et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus mannanilyticus Nogi et al., 2005 SPECIES
-=======
+# Bacillus mannanilyticus Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

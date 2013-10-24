@@ -1,5 +1,4 @@
-Agaricus berberidicola Speg. SPECIES
-=======
+# Agaricus berberidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius latoclaricolor Rob. Henry SPECIES
-=======
+# Cortinarius latoclaricolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

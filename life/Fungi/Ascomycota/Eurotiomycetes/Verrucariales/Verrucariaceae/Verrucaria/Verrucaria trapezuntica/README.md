@@ -1,5 +1,4 @@
-Verrucaria trapezuntica J. Steiner SPECIES
-=======
+# Verrucaria trapezuntica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pyrinum Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus pyrinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

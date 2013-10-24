@@ -1,5 +1,4 @@
-Phragmopeltis siparunae Henn., 1904 SPECIES
-=======
+# Phragmopeltis siparunae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

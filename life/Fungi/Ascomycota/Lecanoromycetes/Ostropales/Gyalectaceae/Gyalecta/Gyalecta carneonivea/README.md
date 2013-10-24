@@ -1,5 +1,4 @@
-Gyalecta carneonivea (Anzi) Lettau SPECIES
-=======
+# Gyalecta carneonivea (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

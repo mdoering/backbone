@@ -1,5 +1,4 @@
-Phoma conigena SPECIES
-=======
+# Phoma conigena SPECIES
 
 #### Status
 ACCEPTED

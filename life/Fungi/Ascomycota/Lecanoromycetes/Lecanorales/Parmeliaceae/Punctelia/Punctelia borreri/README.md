@@ -1,14 +1,13 @@
-Parmelia borreri var. borreri VARIETY
-=======
+# Punctelia borreri (Sm.) Krog SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Smith & Sowerby, Trans. Linn. Soc. London 9: 148 (1807)
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
 Lichen borreri Sm.

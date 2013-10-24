@@ -1,5 +1,4 @@
-Coenogonium minutissimum Kalb SPECIES
-=======
+# Coenogonium minutissimum Kalb SPECIES
 
 #### Status
 ACCEPTED

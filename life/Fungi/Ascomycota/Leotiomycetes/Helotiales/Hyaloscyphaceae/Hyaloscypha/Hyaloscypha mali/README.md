@@ -1,5 +1,4 @@
-Hyaloscypha mali Velen. SPECIES
-=======
+# Hyaloscypha mali Velen. SPECIES
 
 #### Status
 ACCEPTED

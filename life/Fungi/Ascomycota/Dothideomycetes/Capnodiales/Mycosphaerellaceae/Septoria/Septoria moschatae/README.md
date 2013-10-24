@@ -1,5 +1,4 @@
-Septoria moschatae F. Mangenot SPECIES
-=======
+# Septoria moschatae F. Mangenot SPECIES
 
 #### Status
 ACCEPTED

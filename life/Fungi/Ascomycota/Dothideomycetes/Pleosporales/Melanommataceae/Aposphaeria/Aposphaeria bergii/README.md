@@ -1,5 +1,4 @@
-Aposphaeria bergii Speg. SPECIES
-=======
+# Aposphaeria bergii Speg. SPECIES
 
 #### Status
 ACCEPTED

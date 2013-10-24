@@ -1,5 +1,4 @@
-Lecanora elaeophaea Nyl. SPECIES
-=======
+# Lecanora elaeophaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

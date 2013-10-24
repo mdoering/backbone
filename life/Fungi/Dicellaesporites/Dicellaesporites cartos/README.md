@@ -1,5 +1,4 @@
-Dicellaesporites cartos P. Ke & Z.Y. Shi SPECIES
-=======
+# Dicellaesporites cartos P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

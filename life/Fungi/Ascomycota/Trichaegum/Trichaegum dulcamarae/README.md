@@ -1,5 +1,4 @@
-Trichaegum dulcamarae Pass. SPECIES
-=======
+# Trichaegum dulcamarae Pass. SPECIES
 
 #### Status
 ACCEPTED

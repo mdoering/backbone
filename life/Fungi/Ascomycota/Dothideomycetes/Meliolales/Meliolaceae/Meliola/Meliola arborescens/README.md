@@ -1,5 +1,4 @@
-Meliola arborescens Syd. SPECIES
-=======
+# Meliola arborescens Syd. SPECIES
 
 #### Status
 ACCEPTED

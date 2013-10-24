@@ -1,5 +1,4 @@
-Cyrtohymena Foissner, 1989 GENUS
-=======
+# Cyrtohymena Foissner, 1989 GENUS
 
 #### Status
 ACCEPTED

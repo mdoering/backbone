@@ -1,5 +1,4 @@
-Physalospora aluminensis Theiss. SPECIES
-=======
+# Physalospora aluminensis Theiss. SPECIES
 
 #### Status
 ACCEPTED

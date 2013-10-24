@@ -1,5 +1,4 @@
-Methanobacterium congolense Cuzin et al., 2001 SPECIES
-=======
+# Methanobacterium congolense Cuzin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

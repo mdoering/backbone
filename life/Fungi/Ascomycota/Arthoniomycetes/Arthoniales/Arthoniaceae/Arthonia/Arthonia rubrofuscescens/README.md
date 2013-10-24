@@ -1,5 +1,4 @@
-Arthonia rubrofuscescens Vain. SPECIES
-=======
+# Arthonia rubrofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

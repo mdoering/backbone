@@ -1,5 +1,4 @@
-Clitocybe solumophila H.E. Bigelow SPECIES
-=======
+# Clitocybe solumophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

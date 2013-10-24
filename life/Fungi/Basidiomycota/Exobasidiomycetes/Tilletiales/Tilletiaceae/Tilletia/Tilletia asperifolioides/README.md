@@ -1,5 +1,4 @@
-Tilletia asperifolioides G.W. Fisch. SPECIES
-=======
+# Tilletia asperifolioides G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

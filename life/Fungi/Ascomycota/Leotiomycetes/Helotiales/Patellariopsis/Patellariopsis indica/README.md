@@ -1,5 +1,4 @@
-Patellariopsis indica A. Pande, 1983 SPECIES
-=======
+# Patellariopsis indica A. Pande, 1983 SPECIES
 
 #### Status
 ACCEPTED

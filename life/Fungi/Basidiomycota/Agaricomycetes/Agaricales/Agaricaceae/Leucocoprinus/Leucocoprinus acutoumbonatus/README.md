@@ -1,5 +1,4 @@
-Leucocoprinus acutoumbonatus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucocoprinus acutoumbonatus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

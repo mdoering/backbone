@@ -1,5 +1,4 @@
-Trypanosoma giganteum Neumann, 1909 SPECIES
-=======
+# Trypanosoma giganteum Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

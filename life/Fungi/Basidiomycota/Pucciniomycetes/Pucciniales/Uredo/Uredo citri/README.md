@@ -1,5 +1,4 @@
-Uredo citri Vaheed. SPECIES
-=======
+# Uredo citri Vaheed. SPECIES
 
 #### Status
 ACCEPTED

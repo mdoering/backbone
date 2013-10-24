@@ -1,5 +1,4 @@
-Orbopercularia philydri SPECIES
-=======
+# Orbopercularia philydri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora porophylli F. Stevens & Moore bis SPECIES
-=======
+# Cercospora porophylli F. Stevens & Moore bis SPECIES
 
 #### Status
 ACCEPTED

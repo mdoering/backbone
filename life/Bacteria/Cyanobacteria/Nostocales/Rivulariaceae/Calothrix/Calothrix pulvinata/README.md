@@ -1,5 +1,4 @@
-Calothrix pulvinata Kützing SPECIES
-=======
+# Calothrix pulvinata Kützing SPECIES
 
 #### Status
 ACCEPTED

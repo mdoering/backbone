@@ -1,5 +1,4 @@
-Tympanis buchsii (Henn.) Rehm SPECIES
-=======
+# Tympanis buchsii (Henn.) Rehm SPECIES
 
 #### Status
 ACCEPTED

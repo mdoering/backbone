@@ -1,17 +1,16 @@
-Koorchaloma jamaicense Nag Raj SPECIES
-=======
+# Koorchaloma jamaicensis Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 19: 179 (1984)
 
 #### Original name
-Koorchaloma jamaicense Nag Raj
+Koorchaloma jamaicensis Nag Raj
 
 ### Remarks
 null

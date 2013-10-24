@@ -1,5 +1,4 @@
-Leptosphaeria cycadis Svrcek SPECIES
-=======
+# Leptosphaeria cycadis Svrcek SPECIES
 
 #### Status
 ACCEPTED

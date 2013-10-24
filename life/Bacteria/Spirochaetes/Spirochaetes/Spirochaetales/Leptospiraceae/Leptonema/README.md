@@ -1,5 +1,4 @@
-Leptonema Hovind-Hougen, 1983 GENUS
-=======
+# Leptonema Hovind-Hougen, 1983 GENUS
 
 #### Status
 ACCEPTED

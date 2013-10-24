@@ -1,17 +1,16 @@
-Porina polillensis Vain. SPECIES
-=======
+# Porina pollilensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 19: 8 (1923)
 
 #### Original name
-Porina polillensis Vain.
+Porina pollilensis Vain.
 
 ### Remarks
 null

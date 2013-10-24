@@ -1,5 +1,4 @@
-Puccinia babbagiae Petr. SPECIES
-=======
+# Puccinia babbagiae Petr. SPECIES
 
 #### Status
 ACCEPTED

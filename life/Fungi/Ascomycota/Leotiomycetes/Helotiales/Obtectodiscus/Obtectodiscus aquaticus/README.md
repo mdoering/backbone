@@ -1,5 +1,4 @@
-Obtectodiscus aquaticus E. Müll., Petrini & Samuels, 1980 SPECIES
-=======
+# Obtectodiscus aquaticus E. Müll., Petrini & Samuels, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptorhaphis tremulae var. tremulae VARIETY
-=======
+# Leptorhaphis tremulae Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 372 (1855)
+null
 
 #### Original name
-Leptorhaphis tremulae var. tremulae
+null
 
 ### Remarks
 null

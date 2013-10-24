@@ -1,5 +1,4 @@
-Cephalosporium keratoplasticum T. Morik. SPECIES
-=======
+# Cephalosporium keratoplasticum T. Morik. SPECIES
 
 #### Status
 ACCEPTED

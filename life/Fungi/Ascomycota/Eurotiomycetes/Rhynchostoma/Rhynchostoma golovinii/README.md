@@ -1,5 +1,4 @@
-Rhynchostoma golovinii Frolov SPECIES
-=======
+# Rhynchostoma golovinii Frolov SPECIES
 
 #### Status
 ACCEPTED

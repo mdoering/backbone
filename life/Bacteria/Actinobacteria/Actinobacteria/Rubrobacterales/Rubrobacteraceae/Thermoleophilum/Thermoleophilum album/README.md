@@ -1,5 +1,4 @@
-Thermoleophilum album Zarilla & Perry, 1986 SPECIES
-=======
+# Thermoleophilum album Zarilla & Perry, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paralia sulcata f. radiata Grunow FORM
-=======
+# Paralia sulcata (Ehrenberg) Cleve SPECIES
 
 #### Status
 ACCEPTED

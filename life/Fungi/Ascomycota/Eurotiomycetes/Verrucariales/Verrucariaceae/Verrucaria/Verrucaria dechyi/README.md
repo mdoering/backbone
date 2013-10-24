@@ -1,5 +1,4 @@
-Verrucaria dechyi Vain. SPECIES
-=======
+# Verrucaria dechyi Vain. SPECIES
 
 #### Status
 ACCEPTED

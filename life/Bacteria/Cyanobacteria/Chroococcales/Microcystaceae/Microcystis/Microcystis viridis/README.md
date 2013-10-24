@@ -1,8 +1,7 @@
-Diplocystis viridis (A. Braun) Komárek SPECIES
-=======
+# Microcystis viridis (A. Braun) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

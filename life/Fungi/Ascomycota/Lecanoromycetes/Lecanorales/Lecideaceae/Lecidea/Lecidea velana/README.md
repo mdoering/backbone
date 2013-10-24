@@ -1,5 +1,4 @@
-Lecidea velana (A. Massal.) Hue SPECIES
-=======
+# Lecidea velana (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

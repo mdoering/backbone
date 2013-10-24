@@ -1,17 +1,16 @@
-Diplodia atrocaerulea Ellis & Everh. SPECIES
-=======
+# Diplodia atrocoerulea Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 8: 64 (1902)
 
 #### Original name
-Diplodia atrocaerulea Ellis & Everh.
+Diplodia atrocoerulea Ellis & Everh.
 
 ### Remarks
 null

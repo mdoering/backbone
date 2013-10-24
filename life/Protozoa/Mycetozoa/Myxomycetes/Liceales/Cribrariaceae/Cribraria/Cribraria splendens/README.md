@@ -1,17 +1,16 @@
-Cribraria splendens oligocostata Racib., 1889 INFRASPECIFIC_NAME
-=======
+# Cribraria splendens (Schrad.) Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 191 (1801)
 
 #### Original name
-null
+Dictydium splendens Schrad., 1797
 
 ### Remarks
 null

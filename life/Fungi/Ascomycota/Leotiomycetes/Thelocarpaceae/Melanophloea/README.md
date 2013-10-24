@@ -1,5 +1,4 @@
-Melanophloea P. James & Vezda GENUS
-=======
+# Melanophloea P. James & Vezda GENUS
 
 #### Status
 ACCEPTED

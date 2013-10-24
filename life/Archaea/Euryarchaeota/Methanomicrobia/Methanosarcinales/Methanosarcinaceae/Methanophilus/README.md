@@ -1,5 +1,4 @@
-Methanophilus GENUS
-=======
+# Methanophilus GENUS
 
 #### Status
 ACCEPTED

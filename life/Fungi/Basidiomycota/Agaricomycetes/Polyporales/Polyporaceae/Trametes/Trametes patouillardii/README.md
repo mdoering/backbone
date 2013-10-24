@@ -1,17 +1,16 @@
-Trametes patouillardi Trotter SPECIES
-=======
+# Trametes patouillardii Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 438 (1925)
 
 #### Original name
-Trametes patouillardi Trotter
+Trametes patouillardii Trotter
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Opegrapha tartarea (Eschw.) Müll. Arg. SPECIES
-=======
+# Opegrapha tartarea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

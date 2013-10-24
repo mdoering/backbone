@@ -1,5 +1,4 @@
-Leptopuccinia triptilii (Mont.) Syd. SPECIES
-=======
+# Leptopuccinia triptilii (Mont.) Syd. SPECIES
 
 #### Status
 ACCEPTED

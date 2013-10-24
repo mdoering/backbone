@@ -1,5 +1,4 @@
-Physcia subexilis Nyl. SPECIES
-=======
+# Physcia subexilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

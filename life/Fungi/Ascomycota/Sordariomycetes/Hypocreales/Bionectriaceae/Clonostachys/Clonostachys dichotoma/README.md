@@ -1,5 +1,4 @@
-Clonostachys dichotoma Bayl. Ell. SPECIES
-=======
+# Clonostachys dichotoma Bayl. Ell. SPECIES
 
 #### Status
 ACCEPTED

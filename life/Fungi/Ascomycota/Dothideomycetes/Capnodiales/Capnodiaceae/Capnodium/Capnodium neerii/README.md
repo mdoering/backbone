@@ -1,5 +1,4 @@
-Capnodium neerii Rabenh. SPECIES
-=======
+# Capnodium neerii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia A.G. Vologdin, 1962 GENUS
-=======
+# Tubercularia A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

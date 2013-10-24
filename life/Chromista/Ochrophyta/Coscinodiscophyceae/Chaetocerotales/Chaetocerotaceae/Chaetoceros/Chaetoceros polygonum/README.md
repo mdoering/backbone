@@ -1,5 +1,4 @@
-Chaetoceros polygonum Schutt SPECIES
-=======
+# Chaetoceros polygonum Schutt SPECIES
 
 #### Status
 ACCEPTED

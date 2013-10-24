@@ -1,5 +1,4 @@
-Psathyrella ferruginea A.H. Sm. SPECIES
-=======
+# Psathyrella ferruginea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

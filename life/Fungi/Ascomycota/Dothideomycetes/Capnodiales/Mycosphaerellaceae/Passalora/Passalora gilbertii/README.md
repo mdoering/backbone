@@ -1,5 +1,4 @@
-Passalora gilbertii (Speg.) U. Braun SPECIES
-=======
+# Passalora gilbertii (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

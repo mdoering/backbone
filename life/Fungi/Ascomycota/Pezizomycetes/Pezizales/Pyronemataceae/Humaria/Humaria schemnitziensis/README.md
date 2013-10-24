@@ -1,5 +1,4 @@
-Humaria schemnitziensis Rehm SPECIES
-=======
+# Humaria schemnitziensis Rehm SPECIES
 
 #### Status
 ACCEPTED

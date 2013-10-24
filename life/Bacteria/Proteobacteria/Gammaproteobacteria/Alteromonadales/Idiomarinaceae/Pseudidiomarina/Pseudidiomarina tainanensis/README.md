@@ -1,5 +1,4 @@
-Pseudidiomarina tainanensis Jean WD et al., 2009 SPECIES
-=======
+# Pseudidiomarina tainanensis Jean WD et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

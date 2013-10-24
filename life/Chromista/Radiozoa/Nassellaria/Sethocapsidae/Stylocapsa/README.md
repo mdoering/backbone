@@ -1,5 +1,4 @@
-Stylocapsa Principi, 1909 GENUS
-=======
+# Stylocapsa Principi, 1909 GENUS
 
 #### Status
 ACCEPTED

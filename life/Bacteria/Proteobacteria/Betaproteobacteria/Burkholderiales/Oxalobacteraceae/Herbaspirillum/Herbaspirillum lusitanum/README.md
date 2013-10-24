@@ -1,5 +1,4 @@
-Herbaspirillum lusitanum Valverde et al., 2003 SPECIES
-=======
+# Herbaspirillum lusitanum Valverde et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

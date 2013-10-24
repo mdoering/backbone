@@ -1,5 +1,4 @@
-Eucapsis salina Gonzalez-Guerrero SPECIES
-=======
+# Eucapsis salina Gonzalez-Guerrero SPECIES
 
 #### Status
 ACCEPTED

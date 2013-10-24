@@ -1,5 +1,4 @@
-Psoroma karstenii Müll. Arg. SPECIES
-=======
+# Psoroma karstenii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

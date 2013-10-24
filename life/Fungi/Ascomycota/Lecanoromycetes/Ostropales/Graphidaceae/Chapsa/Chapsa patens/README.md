@@ -1,14 +1,13 @@
-Thelotrema patens Nyl. SPECIES
-=======
+# Chapsa patens (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 26(10): 17 (1900)
+Biblthca Lichenol. 92: 111 (2006)
 
 #### Original name
 Thelotrema patens Nyl.

@@ -1,5 +1,4 @@
-Podostroma P. Karsten, 1892 GENUS
-=======
+# Podostroma P. Karsten, 1892 GENUS
 
 #### Status
 ACCEPTED

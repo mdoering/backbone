@@ -1,5 +1,4 @@
-Physalospora antarctica Henn. SPECIES
-=======
+# Physalospora antarctica Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chailletia sorbina (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Karstenia sorbina (P. Karst.) P. Karst., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 241 (1871)
+Acta Soc. Fauna Flora fenn. 2(6): 166 (1885)
 
 #### Original name
 Propolis sorbina P. Karst., 1869

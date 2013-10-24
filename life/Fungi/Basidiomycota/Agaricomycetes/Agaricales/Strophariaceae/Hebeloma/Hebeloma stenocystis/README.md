@@ -1,5 +1,4 @@
-Hebeloma stenocystis J. Favre, 1960 SPECIES
-=======
+# Hebeloma stenocystis J. Favre, 1960 SPECIES
 
 #### Status
 ACCEPTED

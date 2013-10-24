@@ -1,5 +1,4 @@
-Bryopogon carpaticus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon carpaticus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

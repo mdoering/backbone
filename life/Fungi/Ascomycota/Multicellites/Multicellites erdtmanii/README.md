@@ -1,5 +1,4 @@
-Multicellites erdtmanii (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites erdtmanii (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

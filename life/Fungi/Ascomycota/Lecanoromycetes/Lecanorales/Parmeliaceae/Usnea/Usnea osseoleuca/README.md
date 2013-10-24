@@ -1,5 +1,4 @@
-Usnea osseoleuca Motyka SPECIES
-=======
+# Usnea osseoleuca Motyka SPECIES
 
 #### Status
 ACCEPTED

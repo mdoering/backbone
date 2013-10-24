@@ -1,5 +1,4 @@
-Phalloboletus GENUS
-=======
+# Phalloboletus GENUS
 
 #### Status
 ACCEPTED

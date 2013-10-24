@@ -1,5 +1,4 @@
-Sphaerulina tritici Sawada SPECIES
-=======
+# Sphaerulina tritici Sawada SPECIES
 
 #### Status
 ACCEPTED

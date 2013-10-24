@@ -1,5 +1,4 @@
-Calyptophycus J.H. Johnson, 1940 GENUS
-=======
+# Calyptophycus J.H. Johnson, 1940 GENUS
 
 #### Status
 ACCEPTED

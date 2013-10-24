@@ -1,5 +1,4 @@
-Opegrapha hysteriospora Leight. SPECIES
-=======
+# Opegrapha hysteriospora Leight. SPECIES
 
 #### Status
 ACCEPTED

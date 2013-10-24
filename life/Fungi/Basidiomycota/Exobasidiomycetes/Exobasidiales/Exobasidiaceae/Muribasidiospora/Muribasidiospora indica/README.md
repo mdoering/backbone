@@ -1,5 +1,4 @@
-Muribasidiospora indica Kamat & Rajendren, 1968 SPECIES
-=======
+# Muribasidiospora indica Kamat & Rajendren, 1968 SPECIES
 
 #### Status
 ACCEPTED

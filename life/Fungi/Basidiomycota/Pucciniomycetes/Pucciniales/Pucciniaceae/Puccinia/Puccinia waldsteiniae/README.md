@@ -1,5 +1,4 @@
-Puccinia waldsteiniae M.A. Curtis ex Peck SPECIES
-=======
+# Puccinia waldsteiniae M.A. Curtis ex Peck SPECIES
 
 #### Status
 ACCEPTED

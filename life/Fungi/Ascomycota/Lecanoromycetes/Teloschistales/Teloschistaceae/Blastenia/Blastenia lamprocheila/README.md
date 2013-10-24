@@ -1,5 +1,4 @@
-Blastenia lamprocheila (DC.) Arnold SPECIES
-=======
+# Blastenia lamprocheila (DC.) Arnold SPECIES
 
 #### Status
 ACCEPTED

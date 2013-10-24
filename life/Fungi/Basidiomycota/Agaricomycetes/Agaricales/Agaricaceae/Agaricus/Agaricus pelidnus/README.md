@@ -1,5 +1,4 @@
-Agaricus pelidnus Berk. & Broome SPECIES
-=======
+# Agaricus pelidnus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

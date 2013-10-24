@@ -1,5 +1,4 @@
-Sclerotium ossicola Rostr. SPECIES
-=======
+# Sclerotium ossicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

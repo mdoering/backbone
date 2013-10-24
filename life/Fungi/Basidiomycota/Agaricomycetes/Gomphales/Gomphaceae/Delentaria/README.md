@@ -1,5 +1,4 @@
-Delentaria Corner GENUS
-=======
+# Delentaria Corner GENUS
 
 #### Status
 ACCEPTED

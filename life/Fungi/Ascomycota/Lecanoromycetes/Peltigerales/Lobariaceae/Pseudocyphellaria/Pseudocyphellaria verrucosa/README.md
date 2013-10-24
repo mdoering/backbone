@@ -1,5 +1,4 @@
-Pseudocyphellaria verrucosa (Mont.) D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria verrucosa (Mont.) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

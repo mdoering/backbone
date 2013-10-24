@@ -1,5 +1,4 @@
-Polyporus phaeus Lév. SPECIES
-=======
+# Polyporus phaeus Lév. SPECIES
 
 #### Status
 ACCEPTED

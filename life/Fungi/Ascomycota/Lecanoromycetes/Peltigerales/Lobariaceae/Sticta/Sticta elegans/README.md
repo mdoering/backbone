@@ -1,5 +1,4 @@
-Sticta elegans Deakin SPECIES
-=======
+# Sticta elegans Deakin SPECIES
 
 #### Status
 ACCEPTED

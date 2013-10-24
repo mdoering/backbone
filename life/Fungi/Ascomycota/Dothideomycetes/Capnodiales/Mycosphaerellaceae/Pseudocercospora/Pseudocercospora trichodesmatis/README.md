@@ -1,5 +1,4 @@
-Pseudocercospora trichodesmatis (Govindu & Thirum.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora trichodesmatis (Govindu & Thirum.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

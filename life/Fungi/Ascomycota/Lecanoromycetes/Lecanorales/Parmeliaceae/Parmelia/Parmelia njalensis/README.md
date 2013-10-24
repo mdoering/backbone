@@ -1,5 +1,4 @@
-Parmelia njalensis C.W. Dodge SPECIES
-=======
+# Parmelia njalensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

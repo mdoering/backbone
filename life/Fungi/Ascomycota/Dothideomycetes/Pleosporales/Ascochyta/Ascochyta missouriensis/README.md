@@ -1,5 +1,4 @@
-Ascochyta missouriensis R. Sprague & Aar.G. Johnson, 1950 SPECIES
-=======
+# Ascochyta missouriensis R. Sprague & Aar.G. Johnson, 1950 SPECIES
 
 #### Status
 ACCEPTED

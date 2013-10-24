@@ -1,5 +1,4 @@
-Boletus roseoporus Smotl. SPECIES
-=======
+# Boletus roseoporus Smotl. SPECIES
 
 #### Status
 ACCEPTED

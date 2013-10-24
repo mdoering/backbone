@@ -1,5 +1,4 @@
-Amphichaeta echinata Kleb. SPECIES
-=======
+# Amphichaeta echinata Kleb. SPECIES
 
 #### Status
 ACCEPTED

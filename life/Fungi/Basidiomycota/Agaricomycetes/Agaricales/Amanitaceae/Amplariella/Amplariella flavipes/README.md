@@ -1,5 +1,4 @@
-Amplariella flavipes (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amplariella flavipes (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

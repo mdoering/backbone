@@ -1,5 +1,4 @@
-Podosporium japonicum Henn. SPECIES
-=======
+# Podosporium japonicum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria diplotricha (Rehm) Kanouse SPECIES
-=======
+# Humaria diplotricha (Rehm) Kanouse SPECIES
 
 #### Status
 ACCEPTED

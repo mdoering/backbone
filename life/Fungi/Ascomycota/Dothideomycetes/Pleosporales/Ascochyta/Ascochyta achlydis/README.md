@@ -1,14 +1,13 @@
-Stagonospora achlydis (Dearn.) R. Sprague, 1937 SPECIES
-=======
+# Ascochyta achlydis Dearn., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29: 428 (1937)
+null
 
 #### Original name
 Ascochyta achlydis Dearn., 1916

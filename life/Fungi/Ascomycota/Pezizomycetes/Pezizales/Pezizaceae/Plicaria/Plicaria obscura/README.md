@@ -1,5 +1,4 @@
-Plicaria obscura Velen. SPECIES
-=======
+# Plicaria obscura Velen. SPECIES
 
 #### Status
 ACCEPTED

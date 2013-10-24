@@ -1,5 +1,4 @@
-Phoma martellii Verona SPECIES
-=======
+# Phoma martellii Verona SPECIES
 
 #### Status
 ACCEPTED

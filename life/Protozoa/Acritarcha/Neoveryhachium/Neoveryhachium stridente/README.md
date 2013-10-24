@@ -1,5 +1,4 @@
-Neoveryhachium stridente Rodriguez-Gonzalez, 1983 SPECIES
-=======
+# Neoveryhachium stridente Rodriguez-Gonzalez, 1983 SPECIES
 
 #### Status
 ACCEPTED

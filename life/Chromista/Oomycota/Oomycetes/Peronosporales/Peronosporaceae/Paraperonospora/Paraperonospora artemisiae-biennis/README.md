@@ -1,14 +1,13 @@
-Plasmopara artemisiae-biennis (Gäum.) Skalický, 1966 SPECIES
-=======
+# Paraperonospora artemisiae-biennis (Gäum.) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Preslia 38: 127 (1966)
+Sydowia 41: 86 (1989)
 
 #### Original name
 Peronospora artemisiae-biennis Gäum., 1923

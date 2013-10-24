@@ -1,14 +1,13 @@
-Torula botryoideum Chaborski SPECIES
-=======
+# Microblastosporon botryoideum (Chaborski) Cif., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 71: 424 (1930)
 
 #### Original name
 Torula botryoideum Chaborski

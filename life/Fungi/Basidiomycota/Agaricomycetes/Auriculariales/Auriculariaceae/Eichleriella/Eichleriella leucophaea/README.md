@@ -1,5 +1,4 @@
-Eichleriella leucophaea Bres. SPECIES
-=======
+# Eichleriella leucophaea Bres. SPECIES
 
 #### Status
 ACCEPTED

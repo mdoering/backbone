@@ -1,5 +1,4 @@
-Hyphoderma calyciferum (Litsch.) Malençon & Bertault SPECIES
-=======
+# Hyphoderma calyciferum (Litsch.) Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

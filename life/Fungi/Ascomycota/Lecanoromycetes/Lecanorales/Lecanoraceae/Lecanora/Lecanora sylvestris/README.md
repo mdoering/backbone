@@ -1,5 +1,4 @@
-Lecanora sylvestris (Nyl.) Zahlbr. SPECIES
-=======
+# Lecanora sylvestris (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

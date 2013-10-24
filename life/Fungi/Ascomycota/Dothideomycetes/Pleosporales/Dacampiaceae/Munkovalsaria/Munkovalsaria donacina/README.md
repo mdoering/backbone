@@ -1,14 +1,13 @@
-Microthelia donacina Niessl SPECIES
-=======
+# Munkovalsaria donacina (Niessl) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 346 (1995)
 
 #### Original name
 Microthelia donacina Niessl

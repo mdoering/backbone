@@ -1,5 +1,4 @@
-Spumiosina Lopukhin, 1966 GENUS
-=======
+# Spumiosina Lopukhin, 1966 GENUS
 
 #### Status
 ACCEPTED

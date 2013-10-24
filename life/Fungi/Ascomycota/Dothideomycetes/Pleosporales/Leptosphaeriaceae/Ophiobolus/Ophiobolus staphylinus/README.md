@@ -1,5 +1,4 @@
-Ophiobolus staphylinus Ellis & Everh. SPECIES
-=======
+# Ophiobolus staphylinus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

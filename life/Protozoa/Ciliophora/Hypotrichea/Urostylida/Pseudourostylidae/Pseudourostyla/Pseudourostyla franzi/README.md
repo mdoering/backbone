@@ -1,5 +1,4 @@
-Pseudourostyla franzi Foissner, 1987 SPECIES
-=======
+# Pseudourostyla franzi Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

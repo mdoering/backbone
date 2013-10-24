@@ -1,5 +1,4 @@
-Protostegiomyces asterinarum Bat. & M.L. Farr SPECIES
-=======
+# Protostegiomyces asterinarum Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

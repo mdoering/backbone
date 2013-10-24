@@ -1,5 +1,4 @@
-Endomycopsis vernalis (F. Ludw.) N.M. Dekker SPECIES
-=======
+# Endomycopsis vernalis (F. Ludw.) N.M. Dekker SPECIES
 
 #### Status
 ACCEPTED

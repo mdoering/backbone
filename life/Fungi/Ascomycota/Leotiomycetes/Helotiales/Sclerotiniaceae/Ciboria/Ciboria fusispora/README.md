@@ -1,5 +1,4 @@
-Ciboria fusispora Spooner SPECIES
-=======
+# Ciboria fusispora Spooner SPECIES
 
 #### Status
 ACCEPTED

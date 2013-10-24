@@ -1,5 +1,4 @@
-Tricharia macrospora J. Hedrick SPECIES
-=======
+# Tricharia macrospora J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

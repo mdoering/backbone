@@ -1,5 +1,4 @@
-Pholiota castanea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota castanea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

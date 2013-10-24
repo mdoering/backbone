@@ -1,5 +1,4 @@
-Omphalia sphagnophila Peck SPECIES
-=======
+# Omphalia sphagnophila Peck SPECIES
 
 #### Status
 ACCEPTED

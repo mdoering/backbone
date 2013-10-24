@@ -1,5 +1,4 @@
-Cortinarius russulaespermus Carteret SPECIES
-=======
+# Cortinarius russulaespermus Carteret SPECIES
 
 #### Status
 ACCEPTED

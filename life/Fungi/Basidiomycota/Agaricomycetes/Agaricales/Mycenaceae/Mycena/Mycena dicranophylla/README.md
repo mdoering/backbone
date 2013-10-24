@@ -1,5 +1,4 @@
-Mycena dicranophylla Berk. & M.A. Curtis SPECIES
-=======
+# Mycena dicranophylla Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

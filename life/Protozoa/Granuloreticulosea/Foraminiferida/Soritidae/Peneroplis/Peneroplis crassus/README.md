@@ -1,5 +1,4 @@
-Peneroplis crassus SPECIES
-=======
+# Peneroplis crassus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius homomorphus Kühner SPECIES
-=======
+# Cortinarius homomorphus Kühner SPECIES
 
 #### Status
 ACCEPTED

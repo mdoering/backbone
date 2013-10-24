@@ -1,8 +1,7 @@
-Cicinnobolus taraxaci A.G. Eliasson SPECIES
-=======
+# Cicinobolus taraxaci A.G. Eliasson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus taraxaci A.G. Eliasson
+Cicinobolus taraxaci A.G. Eliasson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kabatiella pachybasioides (Alcalde) Arx SPECIES
-=======
+# Kabatiella pachybasioides (Alcalde) Arx SPECIES
 
 #### Status
 ACCEPTED

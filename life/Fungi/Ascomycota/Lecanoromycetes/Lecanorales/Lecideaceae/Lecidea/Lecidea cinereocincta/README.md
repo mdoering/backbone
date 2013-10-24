@@ -1,5 +1,4 @@
-Lecidea cinereocincta (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea cinereocincta (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

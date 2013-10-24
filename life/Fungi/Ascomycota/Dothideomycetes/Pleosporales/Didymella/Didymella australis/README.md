@@ -1,5 +1,4 @@
-Didymella australis Fabre SPECIES
-=======
+# Didymella australis Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brunneosphaerella jonkershoekensis (Marincowitz, M.J. Wingf. & Crous) Crous, 2009 SPECIES
-=======
+# Brunneosphaerella jonkershoekensis (Marincowitz, M.J. Wingf. & Crous) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

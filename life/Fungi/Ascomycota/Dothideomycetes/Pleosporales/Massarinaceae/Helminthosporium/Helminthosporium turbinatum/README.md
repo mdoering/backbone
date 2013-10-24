@@ -1,5 +1,4 @@
-Helminthosporium turbinatum Berk. & Broome, 1851 SPECIES
-=======
+# Helminthosporium turbinatum Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelaria didichotoma Saunders SPECIES
-=======
+# Sphacelaria didichotoma Saunders SPECIES
 
 #### Status
 ACCEPTED

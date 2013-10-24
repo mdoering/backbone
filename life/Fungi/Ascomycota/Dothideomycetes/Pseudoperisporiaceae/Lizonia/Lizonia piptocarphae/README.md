@@ -1,5 +1,4 @@
-Lizonia piptocarphae Hansf. SPECIES
-=======
+# Lizonia piptocarphae Hansf. SPECIES
 
 #### Status
 ACCEPTED

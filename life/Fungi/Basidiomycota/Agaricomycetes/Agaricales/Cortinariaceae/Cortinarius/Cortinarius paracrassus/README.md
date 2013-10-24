@@ -1,5 +1,4 @@
-Cortinarius paracrassus Reumaux SPECIES
-=======
+# Cortinarius paracrassus Reumaux SPECIES
 
 #### Status
 ACCEPTED

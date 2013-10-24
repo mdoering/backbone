@@ -1,5 +1,4 @@
-Leptosphaeria oraemaris Linder, 1944 SPECIES
-=======
+# Leptosphaeria oraemaris Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

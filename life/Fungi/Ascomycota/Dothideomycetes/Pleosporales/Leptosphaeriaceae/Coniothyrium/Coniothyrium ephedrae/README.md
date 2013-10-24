@@ -1,5 +1,4 @@
-Coniothyrium ephedrae Golovin SPECIES
-=======
+# Coniothyrium ephedrae Golovin SPECIES
 
 #### Status
 ACCEPTED

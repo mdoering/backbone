@@ -1,5 +1,4 @@
-Amanita crassiconus Bas SPECIES
-=======
+# Amanita crassiconus Bas SPECIES
 
 #### Status
 ACCEPTED

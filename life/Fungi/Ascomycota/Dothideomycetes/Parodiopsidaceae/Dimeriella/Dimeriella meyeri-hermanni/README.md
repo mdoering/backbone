@@ -1,5 +1,4 @@
-Dimeriella meyeri-hermanni (Henn.) Speg. SPECIES
-=======
+# Dimeriella meyeri-hermanni (Henn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

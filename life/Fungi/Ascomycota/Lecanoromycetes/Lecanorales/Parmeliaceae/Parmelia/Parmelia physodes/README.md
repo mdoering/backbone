@@ -1,5 +1,4 @@
-Parmelia physodes var. physodes VARIETY
-=======
+# Parmelia physodes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen physodes L.
+null
 
 ### Remarks
 null

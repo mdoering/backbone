@@ -1,5 +1,4 @@
-Lasiosphaeriopsis D. Hawksworth & Sivanesan, 1980 GENUS
-=======
+# Lasiosphaeriopsis D. Hawksworth & Sivanesan, 1980 GENUS
 
 #### Status
 ACCEPTED

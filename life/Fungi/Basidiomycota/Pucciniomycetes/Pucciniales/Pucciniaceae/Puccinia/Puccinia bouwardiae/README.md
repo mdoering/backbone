@@ -1,5 +1,4 @@
-Puccinia bouwardiae Griffiths SPECIES
-=======
+# Puccinia bouwardiae Griffiths SPECIES
 
 #### Status
 ACCEPTED

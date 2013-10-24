@@ -1,5 +1,4 @@
-Epithele interrupta Bres., 1914 SPECIES
-=======
+# Epithele interrupta Bres., 1914 SPECIES
 
 #### Status
 ACCEPTED

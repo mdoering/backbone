@@ -1,5 +1,4 @@
-Polyporus verruculosus G. Mey. SPECIES
-=======
+# Polyporus verruculosus G. Mey. SPECIES
 
 #### Status
 ACCEPTED

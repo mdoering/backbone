@@ -1,5 +1,4 @@
-Ascidium majorinum f. majorinum FORM
-=======
+# Ascidium majorinum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sert. Lich. Trop. Labuan Singapore 20 (1891)
 
 #### Original name
-Ascidium majorinum f. majorinum
+Ascidium majorinum Nyl.
 
 ### Remarks
 null

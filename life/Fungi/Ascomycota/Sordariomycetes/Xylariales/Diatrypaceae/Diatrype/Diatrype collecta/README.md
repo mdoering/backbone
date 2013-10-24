@@ -1,5 +1,4 @@
-Diatrype collecta (Schwein.) Cooke SPECIES
-=======
+# Diatrype collecta (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

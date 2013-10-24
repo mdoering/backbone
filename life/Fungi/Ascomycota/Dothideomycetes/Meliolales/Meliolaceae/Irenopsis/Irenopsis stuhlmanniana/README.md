@@ -1,5 +1,4 @@
-Irenopsis stuhlmanniana (Henn.) Hansf. SPECIES
-=======
+# Irenopsis stuhlmanniana (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia umbrinella Hue SPECIES
-=======
+# Aspicilia umbrinella Hue SPECIES
 
 #### Status
 ACCEPTED

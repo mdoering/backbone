@@ -1,5 +1,4 @@
-Gamocystis Schneider, 1875 GENUS
-=======
+# Gamocystis Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

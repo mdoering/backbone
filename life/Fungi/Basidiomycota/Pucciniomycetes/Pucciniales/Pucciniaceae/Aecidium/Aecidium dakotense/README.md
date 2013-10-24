@@ -1,5 +1,4 @@
-Aecidium dakotense Griffiths SPECIES
-=======
+# Aecidium dakotense Griffiths SPECIES
 
 #### Status
 ACCEPTED

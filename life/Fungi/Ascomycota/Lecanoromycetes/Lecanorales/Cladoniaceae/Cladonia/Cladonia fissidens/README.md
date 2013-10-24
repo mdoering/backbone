@@ -1,5 +1,4 @@
-Cladonia fissidens Ahti & Marcelli SPECIES
-=======
+# Cladonia fissidens Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

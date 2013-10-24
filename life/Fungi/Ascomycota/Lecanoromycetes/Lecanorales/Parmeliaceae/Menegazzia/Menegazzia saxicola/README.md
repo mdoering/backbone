@@ -1,5 +1,4 @@
-Menegazzia saxicola P. James & Aptroot SPECIES
-=======
+# Menegazzia saxicola P. James & Aptroot SPECIES
 
 #### Status
 ACCEPTED

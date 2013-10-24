@@ -1,5 +1,4 @@
-Leptochaete carnosa (Burt) Zmitr. & Spirin SPECIES
-=======
+# Leptochaete carnosa (Burt) Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

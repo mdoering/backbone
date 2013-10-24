@@ -1,5 +1,4 @@
-Neotyphodium funkii K.D. Craven & C.L. Schardl SPECIES
-=======
+# Neotyphodium funkii K.D. Craven & C.L. Schardl SPECIES
 
 #### Status
 ACCEPTED

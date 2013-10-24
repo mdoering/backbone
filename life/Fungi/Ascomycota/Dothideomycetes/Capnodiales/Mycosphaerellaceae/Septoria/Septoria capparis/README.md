@@ -1,8 +1,7 @@
-Septoria capparidis Sacc. SPECIES
-=======
+# Septoria capparis Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria capparidis Sacc.
+Septoria capparis Sacc.
 
 ### Remarks
 null

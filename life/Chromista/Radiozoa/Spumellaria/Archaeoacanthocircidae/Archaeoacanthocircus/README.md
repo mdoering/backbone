@@ -1,5 +1,4 @@
-Archaeoacanthocircus Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Archaeoacanthocircus Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmopeltheca psychotriae Bat. & Peres SPECIES
-=======
+# Phragmopeltheca psychotriae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

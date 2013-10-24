@@ -1,5 +1,4 @@
-Thecaria GENUS
-=======
+# Thecaria GENUS
 
 #### Status
 ACCEPTED

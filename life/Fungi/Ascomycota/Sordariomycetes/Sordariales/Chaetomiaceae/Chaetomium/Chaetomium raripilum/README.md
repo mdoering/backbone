@@ -1,5 +1,4 @@
-Chaetomium raripilum Mont. SPECIES
-=======
+# Chaetomium raripilum Mont. SPECIES
 
 #### Status
 ACCEPTED

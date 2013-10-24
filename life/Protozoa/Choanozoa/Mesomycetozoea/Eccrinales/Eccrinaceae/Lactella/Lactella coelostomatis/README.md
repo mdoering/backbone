@@ -1,5 +1,4 @@
-Lactella coelostomatis Maessen SPECIES
-=======
+# Lactella coelostomatis Maessen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora cinnamomi var. robiniae H.H. Ho, 2002 VARIETY
-=======
+# Phytophthora cinnamomi Rands SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 82: 392 (2002)
+Meded. Inst. Plantenziekt. 54: 1 (1922)
 
 #### Original name
-Phytophthora cinnamomi var. robiniae H.H. Ho, 2002
+Phytophthora cinnamomi Rands
 
 ### Remarks
 null

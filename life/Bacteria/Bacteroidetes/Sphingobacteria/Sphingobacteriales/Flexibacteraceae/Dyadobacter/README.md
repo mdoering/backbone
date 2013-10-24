@@ -1,5 +1,4 @@
-Dyadobacter Chelius & Triplett, 2000 GENUS
-=======
+# Dyadobacter Chelius & Triplett, 2000 GENUS
 
 #### Status
 ACCEPTED

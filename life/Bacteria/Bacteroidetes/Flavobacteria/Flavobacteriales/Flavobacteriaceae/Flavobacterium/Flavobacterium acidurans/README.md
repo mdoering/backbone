@@ -1,5 +1,4 @@
-Flavobacterium acidurans Millar, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium acidurans Millar, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

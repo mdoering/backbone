@@ -1,5 +1,4 @@
-Ochromonas minuta agg. minuta INFRASPECIFIC_NAME
-=======
+# Ochromonas minuta SPECIES
 
 #### Status
 ACCEPTED

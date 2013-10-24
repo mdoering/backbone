@@ -1,5 +1,4 @@
-Cercospora rhododendri Marchal & Verpl. SPECIES
-=======
+# Cercospora rhododendri Marchal & Verpl. SPECIES
 
 #### Status
 ACCEPTED

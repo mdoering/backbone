@@ -1,5 +1,4 @@
-Hexagonia bipindiensis Henn. SPECIES
-=======
+# Hexagonia bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

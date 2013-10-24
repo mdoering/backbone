@@ -1,5 +1,4 @@
-Dermatea pallidula Cooke SPECIES
-=======
+# Dermatea pallidula Cooke SPECIES
 
 #### Status
 ACCEPTED

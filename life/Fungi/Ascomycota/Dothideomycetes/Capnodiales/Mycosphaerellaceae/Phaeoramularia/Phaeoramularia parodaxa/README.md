@@ -1,5 +1,4 @@
-Phaeoramularia parodaxa Munt.-Cvetk. SPECIES
-=======
+# Phaeoramularia parodaxa Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgospyris Haeckel, 1881 GENUS
-=======
+# Gorgospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

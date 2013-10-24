@@ -1,5 +1,4 @@
-Merostictis elynae Défago SPECIES
-=======
+# Merostictis elynae Défago SPECIES
 
 #### Status
 ACCEPTED

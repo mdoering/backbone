@@ -1,5 +1,4 @@
-Arthonia myophaena Kremp. SPECIES
-=======
+# Arthonia myophaena Kremp. SPECIES
 
 #### Status
 ACCEPTED

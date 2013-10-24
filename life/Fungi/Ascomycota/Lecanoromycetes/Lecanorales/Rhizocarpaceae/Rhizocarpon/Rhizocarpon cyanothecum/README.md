@@ -1,5 +1,4 @@
-Rhizocarpon cyanothecum Räsänen SPECIES
-=======
+# Rhizocarpon cyanothecum Räsänen SPECIES
 
 #### Status
 ACCEPTED

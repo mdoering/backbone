@@ -1,5 +1,4 @@
-Humaria subsemiimmersa Höhn. SPECIES
-=======
+# Humaria subsemiimmersa Höhn. SPECIES
 
 #### Status
 ACCEPTED

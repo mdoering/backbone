@@ -1,5 +1,4 @@
-Marasmius chysospermus Trog SPECIES
-=======
+# Marasmius chysospermus Trog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ocellaria succinea Massee, 1895 SPECIES
-=======
+# Ocellaria masseeana Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungus-Fl. (London) 4: 83 (1895)
+Syll. fung. (Abellini) 14(2): 806 (1899)
 
 #### Original name
-Ocellaria succinea Massee, 1895
+Ocellaria masseeana Sacc. & P. Syd., 1899
 
 ### Remarks
 null

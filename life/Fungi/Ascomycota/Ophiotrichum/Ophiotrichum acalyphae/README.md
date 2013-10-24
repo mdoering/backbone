@@ -1,5 +1,4 @@
-Ophiotrichum acalyphae Thüm. SPECIES
-=======
+# Ophiotrichum acalyphae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophioceras corni Richon SPECIES
-=======
+# Ophioceras corni Richon SPECIES
 
 #### Status
 ACCEPTED

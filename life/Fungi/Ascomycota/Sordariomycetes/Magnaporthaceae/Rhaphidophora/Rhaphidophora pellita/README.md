@@ -1,5 +1,4 @@
-Rhaphidophora pellita Fuckel SPECIES
-=======
+# Rhaphidophora pellita Fuckel SPECIES
 
 #### Status
 ACCEPTED

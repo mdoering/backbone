@@ -1,5 +1,4 @@
-Fluviicola taffensis O'Sullivan et al., 2005 SPECIES
-=======
+# Fluviicola taffensis O'Sullivan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

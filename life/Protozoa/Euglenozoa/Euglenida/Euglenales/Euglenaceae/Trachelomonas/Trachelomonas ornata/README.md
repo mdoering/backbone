@@ -1,8 +1,7 @@
-Trachelomonas volvocina var. oblongo-ornata Svirenko VARIETY
-=======
+# Trachelomonas ornata (Svirenko) Skvortzov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

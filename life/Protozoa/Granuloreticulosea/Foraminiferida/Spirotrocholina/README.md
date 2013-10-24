@@ -1,5 +1,4 @@
-Spirotrocholina Azbel, 1986 GENUS
-=======
+# Spirotrocholina Azbel, 1986 GENUS
 
 #### Status
 ACCEPTED

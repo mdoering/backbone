@@ -1,5 +1,4 @@
-Corynebacterium flavidum SPECIES
-=======
+# Corynebacterium flavidum SPECIES
 
 #### Status
 ACCEPTED

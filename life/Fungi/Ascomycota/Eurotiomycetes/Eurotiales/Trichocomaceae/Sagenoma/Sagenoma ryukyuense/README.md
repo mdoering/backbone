@@ -1,14 +1,13 @@
-Talaromyces ryukyensis (S. Ueda & Udagawa) Arx SPECIES
-=======
+# Sagenoma ryukyuense S. Ueda & Udagawa, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(2): 499 (1984)
 
 #### Original name
 Sagenoma ryukyuense S. Ueda & Udagawa, 1984

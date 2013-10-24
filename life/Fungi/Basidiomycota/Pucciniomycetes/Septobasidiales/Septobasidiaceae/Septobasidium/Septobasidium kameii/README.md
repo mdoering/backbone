@@ -1,5 +1,4 @@
-Septobasidium kameii Kaz. Itô SPECIES
-=======
+# Septobasidium kameii Kaz. Itô SPECIES
 
 #### Status
 ACCEPTED

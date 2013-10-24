@@ -1,5 +1,4 @@
-Arthonia chilensis Follmann SPECIES
-=======
+# Arthonia chilensis Follmann SPECIES
 
 #### Status
 ACCEPTED

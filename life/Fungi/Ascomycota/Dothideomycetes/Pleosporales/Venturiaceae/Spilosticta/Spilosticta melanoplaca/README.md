@@ -1,5 +1,4 @@
-Spilosticta melanoplaca Petr. SPECIES
-=======
+# Spilosticta melanoplaca Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe mycenoides Singer SPECIES
-=======
+# Rhodocybe mycenoides Singer SPECIES
 
 #### Status
 ACCEPTED

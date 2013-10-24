@@ -1,5 +1,4 @@
-Enterographa perez-higaredae Herrera-Camp. & Lücking SPECIES
-=======
+# Enterographa perez-higaredae Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

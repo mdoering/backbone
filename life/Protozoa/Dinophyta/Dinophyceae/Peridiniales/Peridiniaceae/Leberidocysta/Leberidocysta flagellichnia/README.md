@@ -1,5 +1,4 @@
-Leberidocysta flagellichnia P. Schiøler SPECIES
-=======
+# Leberidocysta flagellichnia P. Schiøler SPECIES
 
 #### Status
 ACCEPTED

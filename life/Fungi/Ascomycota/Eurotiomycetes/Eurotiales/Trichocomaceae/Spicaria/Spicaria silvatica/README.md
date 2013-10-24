@@ -1,5 +1,4 @@
-Spicaria silvatica Oudem. SPECIES
-=======
+# Spicaria silvatica Oudem. SPECIES
 
 #### Status
 ACCEPTED

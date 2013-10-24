@@ -1,5 +1,4 @@
-Polymarasmius multiceps (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Polymarasmius multiceps (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

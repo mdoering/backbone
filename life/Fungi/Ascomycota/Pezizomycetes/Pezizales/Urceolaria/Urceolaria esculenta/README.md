@@ -1,5 +1,4 @@
-Urceolaria esculenta (Pall.) Ach. SPECIES
-=======
+# Urceolaria esculenta (Pall.) Ach. SPECIES
 
 #### Status
 ACCEPTED

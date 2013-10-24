@@ -1,5 +1,4 @@
-Tetranguladinium cruciforme Yu Jingxian, Guo Zhengying & Mao Shaozhi, 1983 ex Chen, Y.Y., Harland, Stover & Williams, 1988 SPECIES
-=======
+# Tetranguladinium cruciforme Yu Jingxian, Guo Zhengying & Mao Shaozhi, 1983 ex Chen, Y.Y., Harland, Stover & Williams, 1988 SPECIES
 
 #### Status
 ACCEPTED

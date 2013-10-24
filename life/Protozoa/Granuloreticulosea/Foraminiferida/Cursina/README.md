@@ -1,5 +1,4 @@
-Cursina Patterson & Richardson, 1988 GENUS
-=======
+# Cursina Patterson & Richardson, 1988 GENUS
 
 #### Status
 ACCEPTED

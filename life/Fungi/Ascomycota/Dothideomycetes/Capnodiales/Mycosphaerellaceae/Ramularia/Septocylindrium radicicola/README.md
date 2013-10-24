@@ -1,5 +1,4 @@
-Septocylindrium radicicola Aderh. SPECIES
-=======
+# Septocylindrium radicicola Aderh. SPECIES
 
 #### Status
 ACCEPTED

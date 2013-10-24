@@ -1,17 +1,16 @@
-Farinodiscus Svrcek GENUS
-=======
+# Proliferodiscus J.H. Haines & Dumont, 1983 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 41(4): 205 (1987)
+null
 
 #### Original name
-Farinodiscus Svrcek
+null
 
 ### Remarks
 null

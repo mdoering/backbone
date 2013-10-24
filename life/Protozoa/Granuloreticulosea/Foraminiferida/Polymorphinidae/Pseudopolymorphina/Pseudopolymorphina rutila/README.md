@@ -1,5 +1,4 @@
-Pseudopolymorphina rutila SPECIES
-=======
+# Pseudopolymorphina rutila SPECIES
 
 #### Status
 ACCEPTED

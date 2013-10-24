@@ -1,5 +1,4 @@
-Physalacria tenera Syd. SPECIES
-=======
+# Physalacria tenera Syd. SPECIES
 
 #### Status
 ACCEPTED

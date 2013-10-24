@@ -1,5 +1,4 @@
-Massarina polymorpha (Rehm) Sacc. SPECIES
-=======
+# Massarina polymorpha (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

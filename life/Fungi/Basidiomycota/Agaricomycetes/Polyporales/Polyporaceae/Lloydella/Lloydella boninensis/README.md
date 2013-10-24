@@ -1,5 +1,4 @@
-Lloydella boninensis (Yasuda) S. Ito SPECIES
-=======
+# Lloydella boninensis (Yasuda) S. Ito SPECIES
 
 #### Status
 ACCEPTED

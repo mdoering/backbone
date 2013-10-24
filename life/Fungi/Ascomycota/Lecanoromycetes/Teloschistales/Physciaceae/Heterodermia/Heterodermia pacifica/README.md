@@ -1,5 +1,4 @@
-Heterodermia pacifica (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia pacifica (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

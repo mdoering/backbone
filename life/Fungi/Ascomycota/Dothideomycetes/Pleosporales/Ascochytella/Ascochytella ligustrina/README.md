@@ -1,5 +1,4 @@
-Ascochytella ligustrina (Pass.) Tassi SPECIES
-=======
+# Ascochytella ligustrina (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

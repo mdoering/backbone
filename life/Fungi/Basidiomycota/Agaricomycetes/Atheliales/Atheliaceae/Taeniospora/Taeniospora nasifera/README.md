@@ -1,5 +1,4 @@
-Taeniospora nasifera Marvanová & Bärl., 1988 SPECIES
-=======
+# Taeniospora nasifera Marvanová & Bärl., 1988 SPECIES
 
 #### Status
 ACCEPTED

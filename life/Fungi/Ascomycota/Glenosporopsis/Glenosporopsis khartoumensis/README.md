@@ -1,5 +1,4 @@
-Glenosporopsis khartoumensis (Chalm. & R.G. Archibald) Fonseca SPECIES
-=======
+# Glenosporopsis khartoumensis (Chalm. & R.G. Archibald) Fonseca SPECIES
 
 #### Status
 ACCEPTED

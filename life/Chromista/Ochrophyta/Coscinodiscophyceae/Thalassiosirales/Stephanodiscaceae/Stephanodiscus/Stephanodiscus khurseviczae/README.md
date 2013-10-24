@@ -1,5 +1,4 @@
-Stephanodiscus khurseviczae Y. V. Likhoshway SPECIES
-=======
+# Stephanodiscus khurseviczae Y. V. Likhoshway SPECIES
 
 #### Status
 ACCEPTED

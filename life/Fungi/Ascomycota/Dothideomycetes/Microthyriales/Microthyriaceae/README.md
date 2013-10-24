@@ -1,5 +1,4 @@
-Microthyriaceae Sacc. FAMILY
-=======
+# Microthyriaceae Sacc. FAMILY
 
 #### Status
 ACCEPTED

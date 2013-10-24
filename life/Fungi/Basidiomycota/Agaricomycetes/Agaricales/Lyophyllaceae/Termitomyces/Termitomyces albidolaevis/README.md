@@ -1,5 +1,4 @@
-Termitomyces albidolaevis Dhanch., J.C. Bhatt & S.K. Pant SPECIES
-=======
+# Termitomyces albidolaevis Dhanch., J.C. Bhatt & S.K. Pant SPECIES
 
 #### Status
 ACCEPTED

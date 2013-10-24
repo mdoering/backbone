@@ -1,8 +1,7 @@
-Dilophus robustus (J. Agardh) Womersley SPECIES
-=======
+# Dictyota robusta J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

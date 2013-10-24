@@ -1,5 +1,4 @@
-Pertusaria mastocheila Vain. SPECIES
-=======
+# Pertusaria mastocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

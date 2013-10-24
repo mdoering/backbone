@@ -1,5 +1,4 @@
-Uredo pleurothallidis Keissl. SPECIES
-=======
+# Uredo pleurothallidis Keissl. SPECIES
 
 #### Status
 ACCEPTED

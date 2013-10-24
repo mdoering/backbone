@@ -1,5 +1,4 @@
-Entyloma chaenorrhini Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Entyloma chaenorrhini Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

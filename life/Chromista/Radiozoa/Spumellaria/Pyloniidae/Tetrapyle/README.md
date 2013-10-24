@@ -1,5 +1,4 @@
-Tetrapyle Muller, 1858 GENUS
-=======
+# Tetrapyle Muller, 1858 GENUS
 
 #### Status
 ACCEPTED

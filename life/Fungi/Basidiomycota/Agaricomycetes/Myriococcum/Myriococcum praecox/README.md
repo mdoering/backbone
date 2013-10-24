@@ -1,5 +1,4 @@
-Myriococcum praecox Fr., 1823 SPECIES
-=======
+# Myriococcum praecox Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED

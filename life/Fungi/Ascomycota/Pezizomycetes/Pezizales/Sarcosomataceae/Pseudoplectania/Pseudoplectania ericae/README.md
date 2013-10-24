@@ -1,5 +1,4 @@
-Pseudoplectania ericae Donadini SPECIES
-=======
+# Pseudoplectania ericae Donadini SPECIES
 
 #### Status
 ACCEPTED

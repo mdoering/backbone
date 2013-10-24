@@ -1,5 +1,4 @@
-Polycellaesporonites acuminatus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
-=======
+# Polycellaesporonites acuminatus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

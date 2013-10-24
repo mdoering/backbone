@@ -1,5 +1,4 @@
-Chiodecton sublaevigatum Kremp. SPECIES
-=======
+# Chiodecton sublaevigatum Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cantharellus cupulatus var. grisellus Quél. VARIETY
-=======
+# Arrhenia rickenii (Hora) Watling, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 3: 109 (1884)
+Notes R. bot. Gdn Edinb. 45(3): 553 (1989)
 
 #### Original name
-Cantharellus cupulatus var. grisellus Quél.
+Omphalina rickenii Hora, 1960
 
 ### Remarks
 null

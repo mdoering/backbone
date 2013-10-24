@@ -1,5 +1,4 @@
-Blastenia latzelii f. latzelii FORM
-=======
+# Blastenia latzelii Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 74: 151 (1934)
 
 #### Original name
-Blastenia latzelii f. latzelii
+Blastenia latzelii Servít
 
 ### Remarks
 null

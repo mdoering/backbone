@@ -1,5 +1,4 @@
-Gymnodinium inconstans Van Meel SPECIES
-=======
+# Gymnodinium inconstans Van Meel SPECIES
 
 #### Status
 ACCEPTED

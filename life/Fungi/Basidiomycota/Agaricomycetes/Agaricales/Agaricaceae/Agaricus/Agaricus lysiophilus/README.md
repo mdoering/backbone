@@ -1,5 +1,4 @@
-Agaricus lysiophilus Fr. SPECIES
-=======
+# Agaricus lysiophilus Fr. SPECIES
 
 #### Status
 ACCEPTED

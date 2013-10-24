@@ -1,5 +1,4 @@
-Lachnocladium englerianum Henn. SPECIES
-=======
+# Lachnocladium englerianum Henn. SPECIES
 
 #### Status
 ACCEPTED

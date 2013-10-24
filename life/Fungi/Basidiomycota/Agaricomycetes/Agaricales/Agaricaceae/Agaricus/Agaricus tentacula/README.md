@@ -1,17 +1,16 @@
-Agaricus tentaculum Bull. SPECIES
-=======
+# Agaricus tentacula Bull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herb. Fr. 12: tab. 560, fig. 3 (1792)
 
 #### Original name
-Agaricus tentaculum Bull.
+Agaricus tentacula Bull.
 
 ### Remarks
 null

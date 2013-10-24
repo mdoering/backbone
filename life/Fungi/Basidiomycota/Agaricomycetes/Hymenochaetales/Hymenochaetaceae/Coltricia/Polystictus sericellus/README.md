@@ -1,5 +1,4 @@
-Polystictus sericellus (Lév.) Cooke SPECIES
-=======
+# Polystictus sericellus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

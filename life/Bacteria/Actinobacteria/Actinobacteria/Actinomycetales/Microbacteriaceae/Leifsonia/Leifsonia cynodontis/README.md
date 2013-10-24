@@ -1,5 +1,4 @@
-Leifsonia cynodontis (Davis et al., 1984) Suzuki et al., 2000 SPECIES
-=======
+# Leifsonia cynodontis (Davis et al., 1984) Suzuki et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

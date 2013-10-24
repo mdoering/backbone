@@ -1,5 +1,4 @@
-Buellia kenyensis C.W. Dodge SPECIES
-=======
+# Buellia kenyensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

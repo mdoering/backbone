@@ -1,5 +1,4 @@
-Ophiobolus lohwagianus Kirschst. SPECIES
-=======
+# Ophiobolus lohwagianus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

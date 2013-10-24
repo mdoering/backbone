@@ -1,5 +1,4 @@
-Colletotrichum revolutum (Ellis & Everh.) S. Ito & Kobayasi SPECIES
-=======
+# Colletotrichum revolutum (Ellis & Everh.) S. Ito & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

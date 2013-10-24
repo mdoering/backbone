@@ -1,5 +1,4 @@
-Gyrodinium instriatum Freudenthal & Lee SPECIES
-=======
+# Gyrodinium instriatum Freudenthal & Lee SPECIES
 
 #### Status
 ACCEPTED

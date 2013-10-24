@@ -1,5 +1,4 @@
-Bacidia violascens Kalb & Vezda SPECIES
-=======
+# Bacidia violascens Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

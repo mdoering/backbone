@@ -1,5 +1,4 @@
-Amphidiniopsis galericulata M. Hoppenrath SPECIES
-=======
+# Amphidiniopsis galericulata M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

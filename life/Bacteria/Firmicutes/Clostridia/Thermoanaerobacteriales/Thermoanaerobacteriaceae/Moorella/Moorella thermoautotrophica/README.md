@@ -1,5 +1,4 @@
-Moorella thermoautotrophica (Wiegel et al., 1982) Collins et al., 1994 SPECIES
-=======
+# Moorella thermoautotrophica (Wiegel et al., 1982) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

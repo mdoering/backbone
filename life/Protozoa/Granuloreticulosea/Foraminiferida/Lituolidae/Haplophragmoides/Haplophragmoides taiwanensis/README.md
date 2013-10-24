@@ -1,5 +1,4 @@
-Haplophragmoides taiwanensis Nakamura SPECIES
-=======
+# Haplophragmoides taiwanensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

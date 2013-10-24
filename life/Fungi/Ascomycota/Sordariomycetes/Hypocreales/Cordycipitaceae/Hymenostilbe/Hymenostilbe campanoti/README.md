@@ -1,5 +1,4 @@
-Hymenostilbe campanoti Mains SPECIES
-=======
+# Hymenostilbe campanoti Mains SPECIES
 
 #### Status
 ACCEPTED

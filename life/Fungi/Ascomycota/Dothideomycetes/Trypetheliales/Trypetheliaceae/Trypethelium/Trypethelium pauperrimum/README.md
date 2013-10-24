@@ -1,5 +1,4 @@
-Trypethelium pauperrimum Müll. Arg. SPECIES
-=======
+# Trypethelium pauperrimum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

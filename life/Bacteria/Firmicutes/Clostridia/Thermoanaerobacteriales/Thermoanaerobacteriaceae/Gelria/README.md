@@ -1,5 +1,4 @@
-Gelria Plugge, Balk, Zoetendal & Stams, 2002 GENUS
-=======
+# Gelria Plugge, Balk, Zoetendal & Stams, 2002 GENUS
 
 #### Status
 ACCEPTED

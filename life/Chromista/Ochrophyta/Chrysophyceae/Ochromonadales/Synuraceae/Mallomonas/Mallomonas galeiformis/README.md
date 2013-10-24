@@ -1,5 +1,4 @@
-Mallomonas galeiformis K. H. Nicholls SPECIES
-=======
+# Mallomonas galeiformis K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

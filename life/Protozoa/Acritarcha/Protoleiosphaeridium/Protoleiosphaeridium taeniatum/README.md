@@ -1,5 +1,4 @@
-Protoleiosphaeridium taeniatum Ouyang Shu et al., 1974 SPECIES
-=======
+# Protoleiosphaeridium taeniatum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

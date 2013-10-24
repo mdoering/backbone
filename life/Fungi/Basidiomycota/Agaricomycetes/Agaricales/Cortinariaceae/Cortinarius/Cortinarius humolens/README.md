@@ -1,5 +1,4 @@
-Cortinarius humolens Brandrud SPECIES
-=======
+# Cortinarius humolens Brandrud SPECIES
 
 #### Status
 ACCEPTED

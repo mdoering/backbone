@@ -1,5 +1,4 @@
-Ascochyta pteridis Bres., 1894 SPECIES
-=======
+# Ascochyta pteridis Bres., 1894 SPECIES
 
 #### Status
 ACCEPTED

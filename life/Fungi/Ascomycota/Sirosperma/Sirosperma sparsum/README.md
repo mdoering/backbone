@@ -1,5 +1,4 @@
-Sirosperma sparsum Petch SPECIES
-=======
+# Sirosperma sparsum Petch SPECIES
 
 #### Status
 ACCEPTED

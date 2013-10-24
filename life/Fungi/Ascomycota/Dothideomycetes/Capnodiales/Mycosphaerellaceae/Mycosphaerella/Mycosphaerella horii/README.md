@@ -1,5 +1,4 @@
-Mycosphaerella horii Hara, 1917 SPECIES
-=======
+# Mycosphaerella horii Hara, 1917 SPECIES
 
 #### Status
 ACCEPTED

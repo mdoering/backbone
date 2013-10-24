@@ -1,5 +1,4 @@
-Pycnidioarxiella indica Punith. & N.D. Sharma, 1980 SPECIES
-=======
+# Pycnidioarxiella indica Punith. & N.D. Sharma, 1980 SPECIES
 
 #### Status
 ACCEPTED

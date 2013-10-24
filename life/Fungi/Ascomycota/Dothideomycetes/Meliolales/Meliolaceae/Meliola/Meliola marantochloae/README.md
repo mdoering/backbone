@@ -1,5 +1,4 @@
-Meliola marantochloae Hansf. SPECIES
-=======
+# Meliola marantochloae Hansf. SPECIES
 
 #### Status
 ACCEPTED

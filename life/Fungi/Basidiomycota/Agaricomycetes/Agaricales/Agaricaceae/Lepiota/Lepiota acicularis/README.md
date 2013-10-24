@@ -1,5 +1,4 @@
-Lepiota acicularis Velen. SPECIES
-=======
+# Lepiota acicularis Velen. SPECIES
 
 #### Status
 ACCEPTED

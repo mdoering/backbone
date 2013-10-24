@@ -1,5 +1,4 @@
-Thalassiosira ferelineata Hasle & G.A. Fynell, 1977 SPECIES
-=======
+# Thalassiosira ferelineata Hasle & G.A. Fynell, 1977 SPECIES
 
 #### Status
 ACCEPTED

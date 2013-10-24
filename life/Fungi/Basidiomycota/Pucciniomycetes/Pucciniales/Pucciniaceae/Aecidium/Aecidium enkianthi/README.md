@@ -1,5 +1,4 @@
-Aecidium enkianthi Dietel SPECIES
-=======
+# Aecidium enkianthi Dietel SPECIES
 
 #### Status
 ACCEPTED

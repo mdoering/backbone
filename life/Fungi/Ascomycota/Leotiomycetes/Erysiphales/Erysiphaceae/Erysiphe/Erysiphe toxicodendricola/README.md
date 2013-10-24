@@ -1,5 +1,4 @@
-Erysiphe toxicodendricola (Z.X. Chen & Y.J. Yao) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe toxicodendricola (Z.X. Chen & Y.J. Yao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

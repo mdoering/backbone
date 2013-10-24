@@ -1,5 +1,4 @@
-Puccinia pallidefaciens Lindr. SPECIES
-=======
+# Puccinia pallidefaciens Lindr. SPECIES
 
 #### Status
 ACCEPTED

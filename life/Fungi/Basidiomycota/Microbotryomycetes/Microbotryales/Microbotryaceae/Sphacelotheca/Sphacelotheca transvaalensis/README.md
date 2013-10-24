@@ -1,5 +1,4 @@
-Sphacelotheca transvaalensis Zundel SPECIES
-=======
+# Sphacelotheca transvaalensis Zundel SPECIES
 
 #### Status
 ACCEPTED

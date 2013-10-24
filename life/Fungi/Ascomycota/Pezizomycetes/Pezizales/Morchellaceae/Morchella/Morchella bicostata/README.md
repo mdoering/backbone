@@ -1,5 +1,4 @@
-Morchella bicostata Ji Y. Chen & P.G. Liu SPECIES
-=======
+# Morchella bicostata Ji Y. Chen & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

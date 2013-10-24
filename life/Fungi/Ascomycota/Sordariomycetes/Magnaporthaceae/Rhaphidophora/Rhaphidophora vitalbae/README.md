@@ -1,5 +1,4 @@
-Rhaphidophora vitalbae Sacc. SPECIES
-=======
+# Rhaphidophora vitalbae Sacc. SPECIES
 
 #### Status
 ACCEPTED

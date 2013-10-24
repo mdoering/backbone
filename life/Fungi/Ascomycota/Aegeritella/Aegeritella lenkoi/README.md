@@ -1,5 +1,4 @@
-Aegeritella lenkoi Balazy & J. Wisn. SPECIES
-=======
+# Aegeritella lenkoi Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

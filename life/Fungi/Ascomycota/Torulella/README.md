@@ -1,5 +1,4 @@
-Torulella Gyeln. GENUS
-=======
+# Torulella Gyeln. GENUS
 
 #### Status
 ACCEPTED

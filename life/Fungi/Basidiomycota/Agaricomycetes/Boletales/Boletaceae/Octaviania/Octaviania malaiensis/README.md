@@ -1,14 +1,13 @@
-Octavianina malaiensis (Corner & Hawker) Pegler & T.W.K. Young SPECIES
-=======
+# Octaviania malaiensis (Corner & Hawker) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 204 (2002)
 
 #### Original name
 Elasmomyces malaiensis Corner & Hawker, 1953

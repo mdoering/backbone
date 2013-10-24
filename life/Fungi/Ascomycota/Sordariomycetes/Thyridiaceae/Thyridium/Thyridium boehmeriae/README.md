@@ -1,5 +1,4 @@
-Thyridium boehmeriae Speg. SPECIES
-=======
+# Thyridium boehmeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

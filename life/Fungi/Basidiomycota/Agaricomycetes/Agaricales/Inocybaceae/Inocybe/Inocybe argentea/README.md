@@ -1,5 +1,4 @@
-Inocybe argentea (Singer) Singer SPECIES
-=======
+# Inocybe argentea (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

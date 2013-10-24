@@ -1,5 +1,4 @@
-Dendryphion macrosporioides Morochk. SPECIES
-=======
+# Dendryphion macrosporioides Morochk. SPECIES
 
 #### Status
 ACCEPTED

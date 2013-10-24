@@ -1,5 +1,4 @@
-Hymenoscyphus obscuratus K.S. Thind & H. Singh SPECIES
-=======
+# Hymenoscyphus obscuratus K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

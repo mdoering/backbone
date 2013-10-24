@@ -1,5 +1,4 @@
-Euglena ehrenbergi SPECIES
-=======
+# Euglena ehrenbergi SPECIES
 
 #### Status
 ACCEPTED

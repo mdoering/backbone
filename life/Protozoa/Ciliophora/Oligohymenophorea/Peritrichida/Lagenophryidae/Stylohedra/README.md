@@ -1,5 +1,4 @@
-Stylohedra Kellicott, 1884 GENUS
-=======
+# Stylohedra Kellicott, 1884 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola wyomingensis A.H. Sm. & Arenb. SPECIES
-=======
+# Meliola wyomingensis A.H. Sm. & Arenb. SPECIES
 
 #### Status
 ACCEPTED

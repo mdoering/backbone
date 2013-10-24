@@ -1,5 +1,4 @@
-Psathyrella membranacea A.H. Sm. SPECIES
-=======
+# Psathyrella membranacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

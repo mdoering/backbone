@@ -1,5 +1,4 @@
-Ramularia rapunculoidis Nannf. SPECIES
-=======
+# Ramularia rapunculoidis Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pinnaria fastigiata Endlicher & Diesing SPECIES
-=======
+# Ecklonia fastigiata (Endlicher & Diesing) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Piricauda Bubák GENUS
-=======
+# Piricauda Bubák GENUS
 
 #### Status
 ACCEPTED

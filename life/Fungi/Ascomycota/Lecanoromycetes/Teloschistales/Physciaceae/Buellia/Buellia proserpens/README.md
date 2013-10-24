@@ -1,5 +1,4 @@
-Buellia proserpens Müll. Arg. SPECIES
-=======
+# Buellia proserpens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta staphyleae Syd. SPECIES
-=======
+# Ascochyta staphyleae Syd. SPECIES
 
 #### Status
 ACCEPTED

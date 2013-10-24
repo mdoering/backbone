@@ -1,5 +1,4 @@
-Monochaetia coryneoidea (Harkn.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia coryneoidea (Harkn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

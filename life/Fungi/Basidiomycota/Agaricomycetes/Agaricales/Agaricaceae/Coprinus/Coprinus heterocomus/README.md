@@ -1,5 +1,4 @@
-Coprinus heterocomus Malençon SPECIES
-=======
+# Coprinus heterocomus Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula texans Tuck. ex R.C. Harris SPECIES
-=======
+# Pyrenula texans Tuck. ex R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

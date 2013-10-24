@@ -1,5 +1,4 @@
-Actilarcus Haeckel, 1887 GENUS
-=======
+# Actilarcus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

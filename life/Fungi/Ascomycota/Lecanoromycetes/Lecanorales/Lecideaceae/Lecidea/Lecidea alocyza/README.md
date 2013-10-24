@@ -1,5 +1,4 @@
-Lecidea alocyza Cromb. SPECIES
-=======
+# Lecidea alocyza Cromb. SPECIES
 
 #### Status
 ACCEPTED

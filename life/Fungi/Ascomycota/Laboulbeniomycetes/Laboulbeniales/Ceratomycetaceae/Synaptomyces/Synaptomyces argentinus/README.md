@@ -1,5 +1,4 @@
-Synaptomyces argentinus Thaxt., 1912 SPECIES
-=======
+# Synaptomyces argentinus Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

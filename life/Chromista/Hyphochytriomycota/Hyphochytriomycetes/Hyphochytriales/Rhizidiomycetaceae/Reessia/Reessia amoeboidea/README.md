@@ -1,5 +1,4 @@
-Reessia amoeboidea C. Fisch, 1883 SPECIES
-=======
+# Reessia amoeboidea C. Fisch, 1883 SPECIES
 
 #### Status
 ACCEPTED

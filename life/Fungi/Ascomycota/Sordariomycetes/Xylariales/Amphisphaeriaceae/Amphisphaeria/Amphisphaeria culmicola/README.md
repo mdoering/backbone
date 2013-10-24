@@ -1,5 +1,4 @@
-Amphisphaeria culmicola Sacc., 1873 SPECIES
-=======
+# Amphisphaeria culmicola Sacc., 1873 SPECIES
 
 #### Status
 ACCEPTED

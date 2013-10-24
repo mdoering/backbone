@@ -1,5 +1,4 @@
-Petrotoga olearia L'Haridon et al., 2002 SPECIES
-=======
+# Petrotoga olearia L'Haridon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

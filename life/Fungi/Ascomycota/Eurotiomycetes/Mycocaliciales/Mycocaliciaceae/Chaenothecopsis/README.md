@@ -1,17 +1,16 @@
-Chaenotheciella Räsänen GENUS
-=======
+# Chaenothecopsis Vainio, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Chaenotheciella Räsänen
+null
 
 ### Remarks
 null

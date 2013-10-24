@@ -1,17 +1,16 @@
-Termitomyces biyii Otieno SPECIES
-=======
+# Termitomyces biyi Otieno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. E. Afr. Acad. 2: 114 (1966)
 
 #### Original name
-Termitomyces biyii Otieno
+Termitomyces biyi Otieno
 
 ### Remarks
 null

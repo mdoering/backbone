@@ -1,5 +1,4 @@
-Aspicilia albosparsa (Werner) S.Y. Kondr. SPECIES
-=======
+# Aspicilia albosparsa (Werner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora microspora var. microspora VARIETY
-=======
+# Lecanora microspora (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora microspora var. microspora
+Aspicilia calcarea var. microspora Arnold
 
 ### Remarks
 null

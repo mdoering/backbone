@@ -1,5 +1,4 @@
-Koordersiella javanica Höhn., 1909 SPECIES
-=======
+# Koordersiella javanica Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

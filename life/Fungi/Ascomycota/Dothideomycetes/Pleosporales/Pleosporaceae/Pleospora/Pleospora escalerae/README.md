@@ -1,5 +1,4 @@
-Pleospora escalerae Gonz. Frag. SPECIES
-=======
+# Pleospora escalerae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

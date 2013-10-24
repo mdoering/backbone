@@ -1,5 +1,4 @@
-Favotrichophyton conicum (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton conicum (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

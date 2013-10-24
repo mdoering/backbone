@@ -1,5 +1,4 @@
-Apedinella Throndsen, 1971 GENUS
-=======
+# Apedinella Throndsen, 1971 GENUS
 
 #### Status
 ACCEPTED

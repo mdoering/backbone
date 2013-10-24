@@ -1,5 +1,4 @@
-Opegrapha feeana Müll. Arg. SPECIES
-=======
+# Opegrapha feeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

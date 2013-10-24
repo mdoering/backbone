@@ -1,5 +1,4 @@
-Rhabdospora thalictri Har. & P. Karst. SPECIES
-=======
+# Rhabdospora thalictri Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

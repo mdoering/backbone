@@ -1,5 +1,4 @@
-Terana lilacea (Rabenh.) Kuntze SPECIES
-=======
+# Terana lilacea (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

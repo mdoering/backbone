@@ -1,5 +1,4 @@
-Trailia morthieri (Körn.) Syd. SPECIES
-=======
+# Trailia morthieri (Körn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

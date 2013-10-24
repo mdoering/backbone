@@ -1,5 +1,4 @@
-Patellaria acclinis (Flot.) Müll. Arg. SPECIES
-=======
+# Patellaria acclinis (Flot.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

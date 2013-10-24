@@ -1,5 +1,4 @@
-Anaptychia applanata SPECIES
-=======
+# Anaptychia applanata SPECIES
 
 #### Status
 ACCEPTED

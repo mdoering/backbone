@@ -1,5 +1,4 @@
-Chaetoceros difficile Cleve SPECIES
-=======
+# Chaetoceros difficile Cleve SPECIES
 
 #### Status
 ACCEPTED

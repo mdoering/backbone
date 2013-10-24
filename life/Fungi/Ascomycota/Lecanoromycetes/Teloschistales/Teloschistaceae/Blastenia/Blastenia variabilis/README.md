@@ -1,5 +1,4 @@
-Blastenia variabilis Müll. Arg. SPECIES
-=======
+# Blastenia variabilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

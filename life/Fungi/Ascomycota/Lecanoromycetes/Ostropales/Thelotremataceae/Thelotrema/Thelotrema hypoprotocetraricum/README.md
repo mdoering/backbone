@@ -1,14 +1,13 @@
-Leptotrema hypoprotocetraricum Hale SPECIES
-=======
+# Thelotrema hypoprotocetraricum (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 38: 52 (1978)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Leptotrema hypoprotocetraricum Hale

@@ -1,5 +1,4 @@
-Stegonsporium tuberculiforme (Ellis & Everh.) Wehm. SPECIES
-=======
+# Stegonsporium tuberculiforme (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

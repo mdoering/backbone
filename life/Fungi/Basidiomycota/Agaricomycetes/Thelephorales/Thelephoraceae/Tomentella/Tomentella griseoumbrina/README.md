@@ -1,17 +1,16 @@
-Tomentella griseoumbrina var. griseoumbrina VARIETY
-=======
+# Tomentella griseoumbrina Litsch., 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fungi Exsiccati Suecici 24 (1936)
 
 #### Original name
-Tomentella griseoumbrina var. griseoumbrina
+Tomentella griseoumbrina Litsch., 1936
 
 ### Remarks
 null

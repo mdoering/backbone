@@ -1,5 +1,4 @@
-Sirosphaera beverwijkiana Hennebert SPECIES
-=======
+# Sirosphaera beverwijkiana Hennebert SPECIES
 
 #### Status
 ACCEPTED

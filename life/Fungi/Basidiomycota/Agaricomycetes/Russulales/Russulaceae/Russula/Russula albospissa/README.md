@@ -1,5 +1,4 @@
-Russula albospissa Buyck, 1989 SPECIES
-=======
+# Russula albospissa Buyck, 1989 SPECIES
 
 #### Status
 ACCEPTED

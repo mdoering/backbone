@@ -1,5 +1,4 @@
-Septoria physalidis Ziling SPECIES
-=======
+# Septoria physalidis Ziling SPECIES
 
 #### Status
 ACCEPTED

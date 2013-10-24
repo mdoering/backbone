@@ -1,5 +1,4 @@
-Miyoshia GENUS
-=======
+# Miyoshia GENUS
 
 #### Status
 ACCEPTED

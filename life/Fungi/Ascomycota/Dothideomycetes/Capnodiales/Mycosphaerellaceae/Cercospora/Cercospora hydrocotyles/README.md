@@ -1,5 +1,4 @@
-Cercospora hydrocotyles Ellis & Everh. SPECIES
-=======
+# Cercospora hydrocotyles Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

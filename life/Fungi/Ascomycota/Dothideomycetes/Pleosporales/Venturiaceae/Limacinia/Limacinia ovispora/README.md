@@ -1,5 +1,4 @@
-Limacinia ovispora Sawada SPECIES
-=======
+# Limacinia ovispora Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium citreovirens S. Abe SPECIES
-=======
+# Penicillium citreovirens S. Abe SPECIES
 
 #### Status
 ACCEPTED

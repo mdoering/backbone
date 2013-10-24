@@ -1,5 +1,4 @@
-Almophrya almae Puytorac & Dragesco, 1969 SPECIES
-=======
+# Almophrya almae Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

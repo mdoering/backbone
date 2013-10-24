@@ -1,5 +1,4 @@
-Phloeosporella muntingiae Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Phloeosporella muntingiae Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

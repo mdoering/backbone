@@ -1,5 +1,4 @@
-Acetothermus Dietrich et al., 1988 GENUS
-=======
+# Acetothermus Dietrich et al., 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium nilgirense Subram. SPECIES
-=======
+# Sporidesmium nilgirense Subram. SPECIES
 
 #### Status
 ACCEPTED

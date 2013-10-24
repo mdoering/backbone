@@ -1,5 +1,4 @@
-Leptosphaeria ranunculi-polyanthemi Sandu & Mítítíuc SPECIES
-=======
+# Leptosphaeria ranunculi-polyanthemi Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

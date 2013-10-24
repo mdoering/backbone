@@ -1,5 +1,4 @@
-Labrella ligni Grove SPECIES
-=======
+# Labrella ligni Grove SPECIES
 
 #### Status
 ACCEPTED

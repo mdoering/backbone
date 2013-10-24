@@ -1,5 +1,4 @@
-Lecophagus fasciculatus M.W. Dick, 1990 SPECIES
-=======
+# Lecophagus fasciculatus M.W. Dick, 1990 SPECIES
 
 #### Status
 ACCEPTED

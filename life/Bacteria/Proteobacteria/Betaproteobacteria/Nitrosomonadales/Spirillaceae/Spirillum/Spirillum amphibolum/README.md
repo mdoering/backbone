@@ -1,5 +1,4 @@
-Spirillum amphibolum SPECIES
-=======
+# Spirillum amphibolum SPECIES
 
 #### Status
 ACCEPTED

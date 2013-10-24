@@ -1,14 +1,13 @@
-Dactylospora pertusaricola (Willey ex Tuck.) Hafellner SPECIES
-=======
+# Dactylospora pertusariicola (Willey ex Tuck.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 62: 122 (1979)
 
 #### Original name
 Buellia pertusariicola Willey ex Tuck.

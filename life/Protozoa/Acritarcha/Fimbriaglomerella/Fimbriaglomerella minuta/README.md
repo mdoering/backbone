@@ -1,5 +1,4 @@
-Fimbriaglomerella minuta (Jankauskas in Volkova et al., 1979) Moczydlowska & Vidal, 1988 SPECIES
-=======
+# Fimbriaglomerella minuta (Jankauskas in Volkova et al., 1979) Moczydlowska & Vidal, 1988 SPECIES
 
 #### Status
 ACCEPTED

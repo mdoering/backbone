@@ -1,8 +1,7 @@
-Streblonema tenuissimum Hauck SPECIES
-=======
+# Microspongium tenuissimum (Hauck) A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

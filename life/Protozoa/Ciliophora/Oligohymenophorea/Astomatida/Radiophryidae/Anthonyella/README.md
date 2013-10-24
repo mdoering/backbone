@@ -1,5 +1,4 @@
-Anthonyella Delphy, 1936 GENUS
-=======
+# Anthonyella Delphy, 1936 GENUS
 
 #### Status
 ACCEPTED

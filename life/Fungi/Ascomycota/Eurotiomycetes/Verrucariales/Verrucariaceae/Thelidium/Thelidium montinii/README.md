@@ -1,5 +1,4 @@
-Thelidium montinii Beltr. SPECIES
-=======
+# Thelidium montinii Beltr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota guineënsis (Kützing) P.L.Crouan & H.M.Crouan, 1878 SPECIES
-=======
+# Dictyota guineënsis (Kützing) P.L.Crouan & H.M.Crouan, 1878 SPECIES
 
 #### Status
 ACCEPTED

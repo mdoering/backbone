@@ -1,5 +1,4 @@
-Stenellopsis indica A.N. Rai & B. Rai SPECIES
-=======
+# Stenellopsis indica A.N. Rai & B. Rai SPECIES
 
 #### Status
 ACCEPTED

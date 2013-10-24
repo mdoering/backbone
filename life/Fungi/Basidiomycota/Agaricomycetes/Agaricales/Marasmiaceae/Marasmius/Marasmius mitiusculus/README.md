@@ -1,5 +1,4 @@
-Marasmius mitiusculus Berk. SPECIES
-=======
+# Marasmius mitiusculus Berk. SPECIES
 
 #### Status
 ACCEPTED

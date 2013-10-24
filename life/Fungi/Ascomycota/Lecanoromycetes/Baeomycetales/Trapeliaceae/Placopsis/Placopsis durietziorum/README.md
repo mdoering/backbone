@@ -1,5 +1,4 @@
-Placopsis durietziorum D. J. Galloway SPECIES
-=======
+# Placopsis durietziorum D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

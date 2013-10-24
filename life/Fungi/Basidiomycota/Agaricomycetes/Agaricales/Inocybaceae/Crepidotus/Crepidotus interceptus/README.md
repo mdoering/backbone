@@ -1,5 +1,4 @@
-Crepidotus interceptus (Berk.) Sacc. SPECIES
-=======
+# Crepidotus interceptus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

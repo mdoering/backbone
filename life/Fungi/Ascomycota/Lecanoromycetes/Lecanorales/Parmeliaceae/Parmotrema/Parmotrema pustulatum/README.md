@@ -1,5 +1,4 @@
-Parmotrema pustulatum Louwhoff & Elix SPECIES
-=======
+# Parmotrema pustulatum Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

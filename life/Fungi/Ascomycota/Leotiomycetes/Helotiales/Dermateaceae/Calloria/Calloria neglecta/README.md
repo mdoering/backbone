@@ -1,17 +1,16 @@
-Peziza fusarioides Berk. SPECIES
-=======
+# Calloria neglecta (Lib.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mag. Zool. Bot. 1: 46 (1837)
+Beih. Willdenowia 9: 54 (1976)
 
 #### Original name
-Peziza fusarioides Berk.
+Peziza neglecta Lib.
 
 ### Remarks
 null

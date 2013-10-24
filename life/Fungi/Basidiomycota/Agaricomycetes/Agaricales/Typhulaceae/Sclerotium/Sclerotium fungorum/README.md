@@ -1,5 +1,4 @@
-Sclerotium fungorum ß fungorum Pers. SPECIES
-=======
+# Sclerotium fungorum ß fungorum Pers. SPECIES
 
 #### Status
 ACCEPTED

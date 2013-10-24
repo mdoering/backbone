@@ -1,5 +1,4 @@
-Jaroschiidae FAMILY
-=======
+# Jaroschiidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola deightonii (Hansf.) Cif. SPECIES
-=======
+# Meliola deightonii (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

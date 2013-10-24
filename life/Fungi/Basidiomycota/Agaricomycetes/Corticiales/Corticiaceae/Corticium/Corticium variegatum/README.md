@@ -1,5 +1,4 @@
-Corticium variegatum Roum. SPECIES
-=======
+# Corticium variegatum Roum. SPECIES
 
 #### Status
 ACCEPTED

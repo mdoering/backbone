@@ -1,14 +1,13 @@
-Coprinopsis epichloea (Uljé & Noordel.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis epichloes (Uljé & Noordel.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 227 (2001)
 
 #### Original name
 Coprinus epichloeus Uljé & Noordel.

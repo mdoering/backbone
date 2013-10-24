@@ -1,5 +1,4 @@
-Digitosporium Gremmen, 1953 GENUS
-=======
+# Digitosporium Gremmen, 1953 GENUS
 
 #### Status
 ACCEPTED

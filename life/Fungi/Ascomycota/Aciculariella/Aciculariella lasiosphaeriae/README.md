@@ -1,5 +1,4 @@
-Aciculariella lasiosphaeriae G. Arnaud SPECIES
-=======
+# Aciculariella lasiosphaeriae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

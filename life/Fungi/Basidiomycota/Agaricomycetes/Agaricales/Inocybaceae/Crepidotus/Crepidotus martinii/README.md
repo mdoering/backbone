@@ -1,17 +1,16 @@
-Crepidotus martini Singer SPECIES
-=======
+# Crepidotus martinii Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 47(5): 775 (1955)
 
 #### Original name
-Crepidotus martini Singer
+Crepidotus martinii Singer
 
 ### Remarks
 null

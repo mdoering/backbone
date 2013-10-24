@@ -1,5 +1,4 @@
-Opegrapha hassei Zahlbr. SPECIES
-=======
+# Opegrapha hassei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria fourcroyae Henn. SPECIES
-=======
+# Amphisphaeria fourcroyae Henn. SPECIES
 
 #### Status
 ACCEPTED

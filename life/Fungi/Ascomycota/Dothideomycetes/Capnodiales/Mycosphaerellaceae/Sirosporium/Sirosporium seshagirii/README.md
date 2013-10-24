@@ -1,5 +1,4 @@
-Sirosporium seshagirii K.V. Rao, K. Gopal & Manohar. SPECIES
-=======
+# Sirosporium seshagirii K.V. Rao, K. Gopal & Manohar. SPECIES
 
 #### Status
 ACCEPTED

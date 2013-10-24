@@ -1,5 +1,4 @@
-Psilocybe jujuyensis Singer SPECIES
-=======
+# Psilocybe jujuyensis Singer SPECIES
 
 #### Status
 ACCEPTED

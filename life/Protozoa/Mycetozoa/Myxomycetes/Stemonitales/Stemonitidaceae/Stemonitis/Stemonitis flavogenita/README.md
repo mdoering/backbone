@@ -1,5 +1,4 @@
-Stemonitis flavogenita E. Jahn, 1904 SPECIES
-=======
+# Stemonitis flavogenita E. Jahn, 1904 SPECIES
 
 #### Status
 ACCEPTED

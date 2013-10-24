@@ -1,5 +1,4 @@
-Periconiella cyatheae M.B. Ellis SPECIES
-=======
+# Periconiella cyatheae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenastrum gallicum Spreng. SPECIES
-=======
+# Pyrenastrum gallicum Spreng. SPECIES
 
 #### Status
 ACCEPTED

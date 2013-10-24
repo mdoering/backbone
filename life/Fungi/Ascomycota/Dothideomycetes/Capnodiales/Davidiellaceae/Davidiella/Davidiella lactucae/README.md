@@ -1,14 +1,13 @@
-Sphaerella lactucae Ellis & Kellerm., 1884 SPECIES
-=======
+# Davidiella lactucae (Ellis & Kellerm.) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 11(11 & 12): 123 (1884)
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 113 (2006)
 
 #### Original name
 Sphaerella lactucae Ellis & Kellerm., 1884

@@ -1,5 +1,4 @@
-Blastenia punicea Müll. Arg. SPECIES
-=======
+# Blastenia punicea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

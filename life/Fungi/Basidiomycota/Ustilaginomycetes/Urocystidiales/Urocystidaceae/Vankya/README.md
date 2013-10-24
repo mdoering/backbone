@@ -1,5 +1,4 @@
-Vankya D. Ershad GENUS
-=======
+# Vankya D. Ershad GENUS
 
 #### Status
 ACCEPTED

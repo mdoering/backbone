@@ -1,5 +1,4 @@
-Rinodina kansuensis f. kansuensis FORM
-=======
+# Rinodina kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina kansuensis f. kansuensis
+Rinodina kansuensis H. Magn.
 
 ### Remarks
 null

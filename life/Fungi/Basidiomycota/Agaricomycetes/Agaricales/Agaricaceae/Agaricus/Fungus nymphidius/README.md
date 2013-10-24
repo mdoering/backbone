@@ -1,5 +1,4 @@
-Fungus nymphidius (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus nymphidius (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disciseda minima Dring SPECIES
-=======
+# Disciseda minima Dring SPECIES
 
 #### Status
 ACCEPTED

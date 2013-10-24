@@ -1,5 +1,4 @@
-Sporopodium pilosellum Vain. SPECIES
-=======
+# Sporopodium pilosellum Vain. SPECIES
 
 #### Status
 ACCEPTED

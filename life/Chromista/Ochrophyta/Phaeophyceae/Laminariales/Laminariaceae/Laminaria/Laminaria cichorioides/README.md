@@ -1,5 +1,4 @@
-Laminaria cichorioides Miyabe SPECIES
-=======
+# Laminaria cichorioides Miyabe SPECIES
 
 #### Status
 ACCEPTED

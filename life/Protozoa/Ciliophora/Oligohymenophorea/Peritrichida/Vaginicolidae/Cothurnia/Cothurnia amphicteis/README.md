@@ -1,5 +1,4 @@
-Cothurnia amphicteis SPECIES
-=======
+# Cothurnia amphicteis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeriella cyathearum Syd. & P. Syd. SPECIES
-=======
+# Dimeriella cyathearum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Velavella Koshevoj, 1987 GENUS
-=======
+# Velavella Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

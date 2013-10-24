@@ -1,5 +1,4 @@
-Clypeolella clermontiae F. Stevens & R.W. Ryan SPECIES
-=======
+# Clypeolella clermontiae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

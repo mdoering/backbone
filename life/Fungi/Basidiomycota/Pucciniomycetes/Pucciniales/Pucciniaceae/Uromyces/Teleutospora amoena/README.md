@@ -1,5 +1,4 @@
-Teleutospora amoena (Syd. & P. Syd.) Arthur & Bisby SPECIES
-=======
+# Teleutospora amoena (Syd. & P. Syd.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

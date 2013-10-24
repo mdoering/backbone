@@ -1,5 +1,4 @@
-Enterographa affinis Müll. Arg. SPECIES
-=======
+# Enterographa affinis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

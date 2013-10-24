@@ -1,5 +1,4 @@
-Mycobacterium madagascariense Kazda et al., 1992 SPECIES
-=======
+# Mycobacterium madagascariense Kazda et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

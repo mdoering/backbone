@@ -1,5 +1,4 @@
-Peziza zandbaiensis (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
-=======
+# Peziza zandbaiensis (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

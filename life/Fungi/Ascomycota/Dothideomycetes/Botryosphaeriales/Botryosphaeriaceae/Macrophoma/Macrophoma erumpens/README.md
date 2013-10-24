@@ -1,5 +1,4 @@
-Macrophoma erumpens (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma erumpens (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium chilense Speg. SPECIES
-=======
+# Hysterium chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

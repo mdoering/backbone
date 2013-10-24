@@ -1,5 +1,4 @@
-Lagenosolenia neocincta McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia neocincta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

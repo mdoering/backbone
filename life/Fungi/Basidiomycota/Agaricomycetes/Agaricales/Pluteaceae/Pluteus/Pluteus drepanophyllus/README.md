@@ -1,5 +1,4 @@
-Pluteus drepanophyllus Kalchbr. SPECIES
-=======
+# Pluteus drepanophyllus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

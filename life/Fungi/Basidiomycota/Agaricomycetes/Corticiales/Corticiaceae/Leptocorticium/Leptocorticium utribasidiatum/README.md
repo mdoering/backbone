@@ -1,14 +1,13 @@
-Dentocorticium utribasidiatum Boidin & Gilles, 1998 SPECIES
-=======
+# Leptocorticium utribasidiatum (Boidin & Gilles) Nakasone, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 19(3): 196 (1998)
+Mycol. Progr. 4(3): 255 (2005)
 
 #### Original name
 Dentocorticium utribasidiatum Boidin & Gilles, 1998

@@ -1,5 +1,4 @@
-Synnemadiplodia morina (Syd. & P. Syd.) Zambett. SPECIES
-=======
+# Synnemadiplodia morina (Syd. & P. Syd.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

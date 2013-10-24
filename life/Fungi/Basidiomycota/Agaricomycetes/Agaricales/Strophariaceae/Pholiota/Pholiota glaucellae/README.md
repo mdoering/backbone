@@ -1,5 +1,4 @@
-Pholiota glaucellae Vouaux SPECIES
-=======
+# Pholiota glaucellae Vouaux SPECIES
 
 #### Status
 ACCEPTED

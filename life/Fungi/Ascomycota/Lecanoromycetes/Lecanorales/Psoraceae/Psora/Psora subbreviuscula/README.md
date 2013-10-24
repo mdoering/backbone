@@ -1,5 +1,4 @@
-Psora subbreviuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Psora subbreviuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna crustacea (Lynge) Marcelli & Jungbluth SPECIES
-=======
+# Hypotrachyna crustacea (Lynge) Marcelli & Jungbluth SPECIES
 
 #### Status
 ACCEPTED

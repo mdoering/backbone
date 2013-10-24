@@ -1,5 +1,4 @@
-Acremonium nectrioidea W. Gams SPECIES
-=======
+# Acremonium nectrioidea W. Gams SPECIES
 
 #### Status
 ACCEPTED

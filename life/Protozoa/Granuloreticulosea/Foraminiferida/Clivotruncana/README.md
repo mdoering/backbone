@@ -1,5 +1,4 @@
-Clivotruncana Korchagin, 1993 GENUS
-=======
+# Clivotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

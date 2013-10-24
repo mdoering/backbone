@@ -1,5 +1,4 @@
-Multicellaesporites prakashii Ambwani SPECIES
-=======
+# Multicellaesporites prakashii Ambwani SPECIES
 
 #### Status
 ACCEPTED

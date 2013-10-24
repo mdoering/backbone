@@ -1,5 +1,4 @@
-Uromyces semnanensis Gjaerum, 1991 SPECIES
-=======
+# Uromyces semnanensis Gjaerum, 1991 SPECIES
 
 #### Status
 ACCEPTED

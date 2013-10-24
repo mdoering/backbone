@@ -1,5 +1,4 @@
-Mycovellosiella solanicola (Viégas) Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella solanicola (Viégas) Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

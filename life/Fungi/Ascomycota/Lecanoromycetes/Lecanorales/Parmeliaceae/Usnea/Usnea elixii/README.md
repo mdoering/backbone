@@ -1,5 +1,4 @@
-Usnea elixii G. N. Stevens SPECIES
-=======
+# Usnea elixii G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

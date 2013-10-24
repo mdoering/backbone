@@ -1,5 +1,4 @@
-Monilia laryngitidis (Sartory, Petges {?} & Claqué) Vuill. SPECIES
-=======
+# Monilia laryngitidis (Sartory, Petges {?} & Claqué) Vuill. SPECIES
 
 #### Status
 ACCEPTED

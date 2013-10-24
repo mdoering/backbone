@@ -1,5 +1,4 @@
-Uredo arenariicola Henn. SPECIES
-=======
+# Uredo arenariicola Henn. SPECIES
 
 #### Status
 ACCEPTED

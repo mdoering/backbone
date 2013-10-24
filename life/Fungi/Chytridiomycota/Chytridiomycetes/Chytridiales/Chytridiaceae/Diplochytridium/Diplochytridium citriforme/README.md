@@ -1,5 +1,4 @@
-Diplochytridium citriforme (Sparrow) Karling SPECIES
-=======
+# Diplochytridium citriforme (Sparrow) Karling SPECIES
 
 #### Status
 ACCEPTED

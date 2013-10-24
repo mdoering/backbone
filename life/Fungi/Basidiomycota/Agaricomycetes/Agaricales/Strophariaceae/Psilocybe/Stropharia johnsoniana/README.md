@@ -1,5 +1,4 @@
-Stropharia johnsoniana (Peck) Morgan SPECIES
-=======
+# Stropharia johnsoniana (Peck) Morgan SPECIES
 
 #### Status
 ACCEPTED

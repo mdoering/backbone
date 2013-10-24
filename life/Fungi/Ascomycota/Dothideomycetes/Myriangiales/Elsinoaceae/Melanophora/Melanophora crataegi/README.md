@@ -1,5 +1,4 @@
-Melanophora crataegi (Dearn. & Barthol.) Arx SPECIES
-=======
+# Melanophora crataegi (Dearn. & Barthol.) Arx SPECIES
 
 #### Status
 ACCEPTED

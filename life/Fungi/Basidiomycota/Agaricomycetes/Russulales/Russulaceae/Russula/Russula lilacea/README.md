@@ -1,17 +1,16 @@
-Russula lilacea var. lilacea VARIETY
-=======
+# Russula lilacea Quél., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. bot. Fr. 24: (1876)
 
 #### Original name
-Russula lilacea var. lilacea
+Russula lilacea Quél., 1876
 
 ### Remarks
 null

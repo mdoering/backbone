@@ -1,5 +1,4 @@
-Massaria foedans SPECIES
-=======
+# Massaria foedans SPECIES
 
 #### Status
 ACCEPTED

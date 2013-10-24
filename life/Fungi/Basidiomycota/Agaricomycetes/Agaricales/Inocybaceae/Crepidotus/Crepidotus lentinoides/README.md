@@ -1,5 +1,4 @@
-Crepidotus lentinoides Earle SPECIES
-=======
+# Crepidotus lentinoides Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allarthonia faginea (Müll. Arg.) Redinger SPECIES
-=======
+# Allarthonia faginea (Müll. Arg.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora aciculina (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora aciculina (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

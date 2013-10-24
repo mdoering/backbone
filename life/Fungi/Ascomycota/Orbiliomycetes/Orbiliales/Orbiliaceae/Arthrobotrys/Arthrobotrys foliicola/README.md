@@ -1,5 +1,4 @@
-Arthrobotrys foliicola Matsush., 1975 SPECIES
-=======
+# Arthrobotrys foliicola Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

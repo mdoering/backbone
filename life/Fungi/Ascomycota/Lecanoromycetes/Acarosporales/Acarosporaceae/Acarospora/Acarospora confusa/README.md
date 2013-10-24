@@ -1,5 +1,4 @@
-Acarospora confusa Groenh. SPECIES
-=======
+# Acarospora confusa Groenh. SPECIES
 
 #### Status
 ACCEPTED

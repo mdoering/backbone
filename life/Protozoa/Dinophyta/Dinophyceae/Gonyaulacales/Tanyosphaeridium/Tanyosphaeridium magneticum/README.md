@@ -1,5 +1,4 @@
-Tanyosphaeridium magneticum Davies, 1983 SPECIES
-=======
+# Tanyosphaeridium magneticum Davies, 1983 SPECIES
 
 #### Status
 ACCEPTED

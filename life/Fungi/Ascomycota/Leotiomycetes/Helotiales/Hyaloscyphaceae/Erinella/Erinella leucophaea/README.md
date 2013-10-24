@@ -1,5 +1,4 @@
-Erinella leucophaea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Erinella leucophaea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

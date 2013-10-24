@@ -1,5 +1,4 @@
-Monicasterix Kozur & Mostler, 1994 GENUS
-=======
+# Monicasterix Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

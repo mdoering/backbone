@@ -1,5 +1,4 @@
-Stilbella rosea (Schwein.) Ferraris SPECIES
-=======
+# Stilbella rosea (Schwein.) Ferraris SPECIES
 
 #### Status
 ACCEPTED

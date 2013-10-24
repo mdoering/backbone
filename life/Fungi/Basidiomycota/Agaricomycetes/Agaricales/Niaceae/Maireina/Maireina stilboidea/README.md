@@ -1,5 +1,4 @@
-Maireina stilboidea (Speg.) W.B. Cooke SPECIES
-=======
+# Maireina stilboidea (Speg.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

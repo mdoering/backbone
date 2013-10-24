@@ -1,5 +1,4 @@
-Leptosphaeria ceanothi (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Leptosphaeria ceanothi (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

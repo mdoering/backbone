@@ -1,5 +1,4 @@
-Rinodina physciospora (M. Choisy & Werner) Zahlbr. SPECIES
-=======
+# Rinodina physciospora (M. Choisy & Werner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

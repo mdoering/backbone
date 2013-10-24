@@ -1,5 +1,4 @@
-Mycena discors Berk. SPECIES
-=======
+# Mycena discors Berk. SPECIES
 
 #### Status
 ACCEPTED

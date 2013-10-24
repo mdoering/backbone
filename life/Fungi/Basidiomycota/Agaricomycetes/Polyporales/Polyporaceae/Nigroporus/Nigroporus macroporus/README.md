@@ -1,5 +1,4 @@
-Nigroporus macroporus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Nigroporus macroporus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

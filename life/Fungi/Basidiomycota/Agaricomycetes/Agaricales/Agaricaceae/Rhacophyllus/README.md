@@ -1,17 +1,16 @@
-Zerovaemyces Gorovij GENUS
-=======
+# Rhacophyllus Berk. & Broome GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Dokl. Akad. Nauk Ukrainskoi SSR, Ser. B 745 (1977)
+J. Linn. Soc. , Bot. 11(no. 56): 559 (1871)
 
 #### Original name
-Zerovaemyces Gorovij
+Rhacophyllus Berk. & Broome
 
 ### Remarks
 null

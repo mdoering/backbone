@@ -1,5 +1,4 @@
-Melogramma tumefaciens Rick SPECIES
-=======
+# Melogramma tumefaciens Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia odontolepidis Gonz. Frag. SPECIES
-=======
+# Puccinia odontolepidis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

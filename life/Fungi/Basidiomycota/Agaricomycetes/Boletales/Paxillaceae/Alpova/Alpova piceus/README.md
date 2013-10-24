@@ -1,5 +1,4 @@
-Alpova piceus (Berk. & M.A. Curtis) Trappe SPECIES
-=======
+# Alpova piceus (Berk. & M.A. Curtis) Trappe SPECIES
 
 #### Status
 ACCEPTED

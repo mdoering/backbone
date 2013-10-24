@@ -1,5 +1,4 @@
-Allantosoma brevicorniger Hsiung, 1928 SPECIES
-=======
+# Allantosoma brevicorniger Hsiung, 1928 SPECIES
 
 #### Status
 ACCEPTED

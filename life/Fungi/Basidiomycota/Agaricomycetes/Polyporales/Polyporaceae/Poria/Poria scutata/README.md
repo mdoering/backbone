@@ -1,5 +1,4 @@
-Poria scutata Hoffm. SPECIES
-=======
+# Poria scutata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermisporium H.J. Swart & M.A. Will. GENUS
-=======
+# Vermisporium H.J. Swart & M.A. Will. GENUS
 
 #### Status
 ACCEPTED

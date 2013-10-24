@@ -1,5 +1,4 @@
-Urocystis camassiae Vánky, 1994 SPECIES
-=======
+# Urocystis camassiae Vánky, 1994 SPECIES
 
 #### Status
 ACCEPTED

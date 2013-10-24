@@ -1,14 +1,13 @@
-Ramalina inflata var. fissa Müll. Arg. VARIETY
-=======
+# Ramalina fissa (Müll. Arg.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 71: 203 (1888)
+Mém. Herb. Boissier 5: 2 (1900)
 
 #### Original name
 Ramalina inflata var. fissa Müll. Arg.

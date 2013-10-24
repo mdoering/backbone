@@ -1,5 +1,4 @@
-Anthostomella sequoiae Rehm SPECIES
-=======
+# Anthostomella sequoiae Rehm SPECIES
 
 #### Status
 ACCEPTED

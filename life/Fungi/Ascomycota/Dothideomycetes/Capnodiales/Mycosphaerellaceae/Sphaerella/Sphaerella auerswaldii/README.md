@@ -1,5 +1,4 @@
-Sphaerella auerswaldii Fleischh. SPECIES
-=======
+# Sphaerella auerswaldii Fleischh. SPECIES
 
 #### Status
 ACCEPTED

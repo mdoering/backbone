@@ -1,5 +1,4 @@
-Patellaria tympanis Ces. SPECIES
-=======
+# Patellaria tympanis Ces. SPECIES
 
 #### Status
 ACCEPTED

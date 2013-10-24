@@ -1,5 +1,4 @@
-Phoma scrophulariae Fuckel SPECIES
-=======
+# Phoma scrophulariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepedonium ochraceum Dominik & Majchr. SPECIES
-=======
+# Sepedonium ochraceum Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Planococcus mcmeekinii Junge et al., 1998 SPECIES
-=======
+# Planomicrobium mcmeekinii (Junge et al., 1998) Yoon et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

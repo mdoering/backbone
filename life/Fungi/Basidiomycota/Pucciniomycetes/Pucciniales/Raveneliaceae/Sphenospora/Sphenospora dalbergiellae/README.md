@@ -1,5 +1,4 @@
-Sphenospora dalbergiellae Vienn.-Bourg. SPECIES
-=======
+# Sphenospora dalbergiellae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

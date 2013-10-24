@@ -1,5 +1,4 @@
-Parmelia duplicatoides Oxner SPECIES
-=======
+# Parmelia duplicatoides Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribrocorona echinus SPECIES
-=======
+# Cribrocorona echinus SPECIES
 
 #### Status
 ACCEPTED

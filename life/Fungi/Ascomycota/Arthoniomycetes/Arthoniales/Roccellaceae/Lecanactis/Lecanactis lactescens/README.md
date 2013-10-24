@@ -1,5 +1,4 @@
-Lecanactis lactescens Zahlbr. SPECIES
-=======
+# Lecanactis lactescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

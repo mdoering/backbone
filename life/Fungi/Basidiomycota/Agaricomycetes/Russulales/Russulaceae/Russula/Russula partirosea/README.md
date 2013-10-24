@@ -1,5 +1,4 @@
-Russula partirosea Murrill SPECIES
-=======
+# Russula partirosea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodobacter Imhoff, Truper & Pfennig, 1984 GENUS
-=======
+# Rhodobacter Imhoff, Truper & Pfennig, 1984 GENUS
 
 #### Status
 ACCEPTED

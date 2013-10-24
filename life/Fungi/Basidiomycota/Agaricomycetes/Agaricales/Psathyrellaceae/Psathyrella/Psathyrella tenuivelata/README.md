@@ -1,5 +1,4 @@
-Psathyrella tenuivelata A.H. Sm. SPECIES
-=======
+# Psathyrella tenuivelata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella exigua Hedgc. SPECIES
-=======
+# Ceratostomella exigua Hedgc. SPECIES
 
 #### Status
 ACCEPTED

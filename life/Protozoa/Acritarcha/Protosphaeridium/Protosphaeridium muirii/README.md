@@ -1,5 +1,4 @@
-Protosphaeridium muirii Bliss in Walter et al., 1979 SPECIES
-=======
+# Protosphaeridium muirii Bliss in Walter et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

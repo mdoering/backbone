@@ -1,5 +1,4 @@
-Holosticha crassa Claparède & Lachmann, 1858 SPECIES
-=======
+# Holosticha crassa Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

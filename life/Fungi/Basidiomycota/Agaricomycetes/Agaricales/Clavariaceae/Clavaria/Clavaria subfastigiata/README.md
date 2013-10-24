@@ -1,17 +1,16 @@
-Clavaria subfastigeata Britzelm. SPECIES
-=======
+# Clavaria subfastigiata Britzelm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hymenomyc. Südbayern 8: 14 (1891)
 
 #### Original name
-Clavaria subfastigeata Britzelm.
+Clavaria subfastigiata Britzelm.
 
 ### Remarks
 null

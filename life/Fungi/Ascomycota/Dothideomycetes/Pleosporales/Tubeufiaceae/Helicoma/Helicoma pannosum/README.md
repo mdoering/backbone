@@ -1,5 +1,4 @@
-Helicoma pannosum (Berk. & M.A. Curtis) M.B. Ellis SPECIES
-=======
+# Helicoma pannosum (Berk. & M.A. Curtis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

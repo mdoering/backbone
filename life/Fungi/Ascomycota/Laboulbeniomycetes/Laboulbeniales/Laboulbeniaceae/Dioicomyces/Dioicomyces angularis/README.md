@@ -1,5 +1,4 @@
-Dioicomyces angularis Thaxt. SPECIES
-=======
+# Dioicomyces angularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

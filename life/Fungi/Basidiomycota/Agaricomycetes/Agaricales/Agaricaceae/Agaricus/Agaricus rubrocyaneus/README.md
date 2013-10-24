@@ -1,5 +1,4 @@
-Agaricus rubrocyaneus Berk. & Broome SPECIES
-=======
+# Agaricus rubrocyaneus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

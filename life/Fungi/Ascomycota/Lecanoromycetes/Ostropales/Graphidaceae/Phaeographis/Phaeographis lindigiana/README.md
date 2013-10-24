@@ -1,5 +1,4 @@
-Phaeographis lindigiana Müll. Arg. SPECIES
-=======
+# Phaeographis lindigiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

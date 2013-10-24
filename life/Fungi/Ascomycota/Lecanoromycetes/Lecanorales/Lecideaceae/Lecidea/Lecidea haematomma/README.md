@@ -1,5 +1,4 @@
-Lecidea haematomma Vain. SPECIES
-=======
+# Lecidea haematomma Vain. SPECIES
 
 #### Status
 ACCEPTED

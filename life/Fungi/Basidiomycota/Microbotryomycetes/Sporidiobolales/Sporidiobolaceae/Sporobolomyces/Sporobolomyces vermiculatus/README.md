@@ -1,5 +1,4 @@
-Sporobolomyces vermiculatus M. Takash. & Nakase SPECIES
-=======
+# Sporobolomyces vermiculatus M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

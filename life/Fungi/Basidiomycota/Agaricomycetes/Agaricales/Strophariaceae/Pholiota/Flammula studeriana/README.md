@@ -1,5 +1,4 @@
-Flammula studeriana Fayod SPECIES
-=======
+# Flammula studeriana Fayod SPECIES
 
 #### Status
 ACCEPTED

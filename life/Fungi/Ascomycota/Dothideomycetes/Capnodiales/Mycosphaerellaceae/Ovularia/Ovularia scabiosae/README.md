@@ -1,5 +1,4 @@
-Ovularia scabiosae Lindr. SPECIES
-=======
+# Ovularia scabiosae Lindr. SPECIES
 
 #### Status
 ACCEPTED

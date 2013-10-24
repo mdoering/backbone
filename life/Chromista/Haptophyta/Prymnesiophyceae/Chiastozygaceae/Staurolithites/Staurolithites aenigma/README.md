@@ -1,5 +1,4 @@
-Staurolithites aenigma SPECIES
-=======
+# Staurolithites aenigma SPECIES
 
 #### Status
 ACCEPTED

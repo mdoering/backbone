@@ -1,5 +1,4 @@
-Spirosigmoilina crenata (Karrer) SPECIES
-=======
+# Spirosigmoilina crenata (Karrer) SPECIES
 
 #### Status
 ACCEPTED

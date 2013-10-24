@@ -1,5 +1,4 @@
-Xylaria chardoniana (Toro) J.H. Mill. SPECIES
-=======
+# Xylaria chardoniana (Toro) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

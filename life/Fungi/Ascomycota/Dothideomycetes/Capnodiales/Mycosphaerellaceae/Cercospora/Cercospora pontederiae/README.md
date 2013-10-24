@@ -1,5 +1,4 @@
-Cercospora pontederiae Ellis & Dearn., 1893 SPECIES
-=======
+# Cercospora pontederiae Ellis & Dearn., 1893 SPECIES
 
 #### Status
 ACCEPTED

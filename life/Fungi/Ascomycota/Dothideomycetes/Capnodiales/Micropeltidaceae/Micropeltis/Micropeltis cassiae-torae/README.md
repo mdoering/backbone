@@ -1,5 +1,4 @@
-Micropeltis cassiae-torae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis cassiae-torae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

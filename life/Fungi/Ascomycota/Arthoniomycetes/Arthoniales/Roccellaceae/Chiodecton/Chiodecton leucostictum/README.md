@@ -1,5 +1,4 @@
-Chiodecton leucostictum Riddle SPECIES
-=======
+# Chiodecton leucostictum Riddle SPECIES
 
 #### Status
 ACCEPTED

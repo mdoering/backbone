@@ -1,5 +1,4 @@
-Plectosclerotes implicatus Stach & Pickh. SPECIES
-=======
+# Plectosclerotes implicatus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mycena sanguinolenta f. sanguinolenta (Alb. & Schwein.) P. Kumm., 1871 FORM
-=======
+# Mycena sanguinolenta (Alb. & Schwein.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

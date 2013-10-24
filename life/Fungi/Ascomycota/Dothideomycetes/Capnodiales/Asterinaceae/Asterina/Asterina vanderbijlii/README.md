@@ -1,5 +1,4 @@
-Asterina vanderbijlii Werderm. SPECIES
-=======
+# Asterina vanderbijlii Werderm. SPECIES
 
 #### Status
 ACCEPTED

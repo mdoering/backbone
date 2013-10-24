@@ -1,5 +1,4 @@
-Ryparobius mirabilis Velen. SPECIES
-=======
+# Ryparobius mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

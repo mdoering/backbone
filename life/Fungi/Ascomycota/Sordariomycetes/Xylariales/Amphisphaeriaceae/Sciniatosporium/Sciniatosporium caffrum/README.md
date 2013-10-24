@@ -1,5 +1,4 @@
-Sciniatosporium caffrum (Wakef.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium caffrum (Wakef.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

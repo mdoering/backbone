@@ -1,5 +1,4 @@
-Colispora cavincola J. Gönczöl & Révay SPECIES
-=======
+# Colispora cavincola J. Gönczöl & Révay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina adscribens (Nyl.) Redinger SPECIES
-=======
+# Phaeographina adscribens (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

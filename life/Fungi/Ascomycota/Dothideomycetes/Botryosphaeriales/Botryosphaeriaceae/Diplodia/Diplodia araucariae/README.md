@@ -1,5 +1,4 @@
-Diplodia araucariae Penz. SPECIES
-=======
+# Diplodia araucariae Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon heinricherii Bres. SPECIES
-=======
+# Hypoxylon heinricherii Bres. SPECIES
 
 #### Status
 ACCEPTED

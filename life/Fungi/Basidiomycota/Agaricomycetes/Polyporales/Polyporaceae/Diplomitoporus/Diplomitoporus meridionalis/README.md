@@ -1,5 +1,4 @@
-Diplomitoporus meridionalis M. Pieri & B. Rivoire SPECIES
-=======
+# Diplomitoporus meridionalis M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

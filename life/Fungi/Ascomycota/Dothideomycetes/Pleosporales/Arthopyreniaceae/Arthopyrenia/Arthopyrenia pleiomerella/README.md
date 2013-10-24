@@ -1,5 +1,4 @@
-Arthopyrenia pleiomerella Müll. Arg. SPECIES
-=======
+# Arthopyrenia pleiomerella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

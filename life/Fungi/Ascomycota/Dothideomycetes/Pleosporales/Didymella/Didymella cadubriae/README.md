@@ -1,5 +1,4 @@
-Didymella cadubriae (Sacc.) Sacc. SPECIES
-=======
+# Didymella cadubriae (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

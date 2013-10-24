@@ -1,5 +1,4 @@
-Lecanora chlorophaeiza Vain. SPECIES
-=======
+# Lecanora chlorophaeiza Vain. SPECIES
 
 #### Status
 ACCEPTED

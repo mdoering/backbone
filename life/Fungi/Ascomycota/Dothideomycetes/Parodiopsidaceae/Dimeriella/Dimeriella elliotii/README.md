@@ -1,5 +1,4 @@
-Dimeriella elliotii (A.L. Sm.) Theiss. SPECIES
-=======
+# Dimeriella elliotii (A.L. Sm.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

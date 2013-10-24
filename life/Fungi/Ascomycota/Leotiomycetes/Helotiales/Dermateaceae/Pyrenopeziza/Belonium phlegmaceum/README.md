@@ -1,5 +1,4 @@
-Belonium phlegmaceum (Ellis) Seaver SPECIES
-=======
+# Belonium phlegmaceum (Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

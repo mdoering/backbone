@@ -1,5 +1,4 @@
-Myriospora myochroa (M. Westb.) K. Knudsen & L. Arcadia SPECIES
-=======
+# Myriospora myochroa (M. Westb.) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
 ACCEPTED

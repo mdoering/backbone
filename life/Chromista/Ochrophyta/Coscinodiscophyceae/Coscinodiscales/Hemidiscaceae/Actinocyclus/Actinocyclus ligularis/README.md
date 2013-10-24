@@ -1,5 +1,4 @@
-Actinocyclus ligularis G.K. Khursevich & E.G. Lupikina SPECIES
-=======
+# Actinocyclus ligularis G.K. Khursevich & E.G. Lupikina SPECIES
 
 #### Status
 ACCEPTED

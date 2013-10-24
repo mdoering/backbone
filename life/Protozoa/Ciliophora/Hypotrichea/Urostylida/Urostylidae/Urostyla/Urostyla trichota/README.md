@@ -1,5 +1,4 @@
-Urostyla trichota SPECIES
-=======
+# Urostyla trichota SPECIES
 
 #### Status
 ACCEPTED

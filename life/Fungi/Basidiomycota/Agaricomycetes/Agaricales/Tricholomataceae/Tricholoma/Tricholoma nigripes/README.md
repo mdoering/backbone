@@ -1,5 +1,4 @@
-Tricholoma nigripes Velen. SPECIES
-=======
+# Tricholoma nigripes Velen. SPECIES
 
 #### Status
 ACCEPTED

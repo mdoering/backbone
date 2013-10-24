@@ -1,5 +1,4 @@
-Inocybe lilacinosquamosa Matheny, Aime & T.W. Henkel SPECIES
-=======
+# Inocybe lilacinosquamosa Matheny, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

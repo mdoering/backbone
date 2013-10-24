@@ -1,5 +1,4 @@
-Arthonia asteriscus Müll. Arg. SPECIES
-=======
+# Arthonia asteriscus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

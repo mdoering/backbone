@@ -1,5 +1,4 @@
-Septoria anchusae Syd. SPECIES
-=======
+# Septoria anchusae Syd. SPECIES
 
 #### Status
 ACCEPTED

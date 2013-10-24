@@ -1,5 +1,4 @@
-Cucurbitaria spiraearum Petr., 1928 SPECIES
-=======
+# Cucurbitaria spiraearum Petr., 1928 SPECIES
 
 #### Status
 ACCEPTED

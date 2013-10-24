@@ -1,5 +1,4 @@
-Fontanospora Dyko GENUS
-=======
+# Fontanospora Dyko GENUS
 
 #### Status
 ACCEPTED

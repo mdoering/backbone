@@ -1,5 +1,4 @@
-Haemogregarina koppiensis Smit & Davies, 2001 SPECIES
-=======
+# Haemogregarina koppiensis Smit & Davies, 2001 SPECIES
 
 #### Status
 ACCEPTED

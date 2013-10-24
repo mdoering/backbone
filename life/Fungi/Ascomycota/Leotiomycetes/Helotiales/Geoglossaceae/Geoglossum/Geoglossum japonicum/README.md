@@ -1,5 +1,4 @@
-Geoglossum japonicum S. Imai SPECIES
-=======
+# Geoglossum japonicum S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycogala ochraceum Massee SPECIES
-=======
+# Lycogala ochraceum Massee SPECIES
 
 #### Status
 ACCEPTED

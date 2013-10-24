@@ -1,17 +1,16 @@
-Phyllachora eragrostidis Doidge SPECIES
-=======
+# Phyllachora eleusines Speg., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 8(1): 75 (1902)
 
 #### Original name
-Phyllachora eragrostidis Doidge
+Phyllachora eleusines Speg., 1902
 
 ### Remarks
 null

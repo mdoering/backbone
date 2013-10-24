@@ -1,5 +1,4 @@
-Beltraniella peruamazonica Matsush. SPECIES
-=======
+# Beltraniella peruamazonica Matsush. SPECIES
 
 #### Status
 ACCEPTED

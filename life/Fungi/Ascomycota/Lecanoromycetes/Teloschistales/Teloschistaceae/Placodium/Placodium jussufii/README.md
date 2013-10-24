@@ -1,5 +1,4 @@
-Placodium jussufii (Link) Trevis. SPECIES
-=======
+# Placodium jussufii (Link) Trevis. SPECIES
 
 #### Status
 ACCEPTED

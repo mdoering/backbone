@@ -1,5 +1,4 @@
-Dendrodochium sulphurescens Höhn. SPECIES
-=======
+# Dendrodochium sulphurescens Höhn. SPECIES
 
 #### Status
 ACCEPTED

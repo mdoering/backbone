@@ -1,5 +1,4 @@
-Ascochyta kashmiriana Padwick & Mehr SPECIES
-=======
+# Ascochyta kashmiriana Padwick & Mehr SPECIES
 
 #### Status
 ACCEPTED

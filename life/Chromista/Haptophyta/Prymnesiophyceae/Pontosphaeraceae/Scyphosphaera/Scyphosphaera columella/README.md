@@ -1,5 +1,4 @@
-Scyphosphaera columella Stradner, 1969 SPECIES
-=======
+# Scyphosphaera columella Stradner, 1969 SPECIES
 
 #### Status
 ACCEPTED

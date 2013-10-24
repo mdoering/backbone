@@ -1,5 +1,4 @@
-Apiosoma kurense SPECIES
-=======
+# Apiosoma kurense SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa acrocystis Peck SPECIES
-=======
+# Valsa acrocystis Peck SPECIES
 
 #### Status
 ACCEPTED

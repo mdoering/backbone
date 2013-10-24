@@ -1,14 +1,13 @@
-Leucodecton seriale (Ach.) A. Massal. SPECIES
-=======
+# Sclerophyton seriale (Ach.) Sparrius SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 326 (1860)
+Biblthca Lichenol. 89: 77 (2004)
 
 #### Original name
 Chiodecton seriale Ach.

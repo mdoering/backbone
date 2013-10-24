@@ -1,14 +1,13 @@
-Orbilia juliae Velen., 1934 SPECIES
-=======
+# Hyalorbilia juliae (Velen.) Baral, Priou & G. Marson, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 95 (1934)
+Bull. mens. Soc. linn. Lyon 74(spéc. ): 55 (2005)
 
 #### Original name
 Orbilia juliae Velen., 1934

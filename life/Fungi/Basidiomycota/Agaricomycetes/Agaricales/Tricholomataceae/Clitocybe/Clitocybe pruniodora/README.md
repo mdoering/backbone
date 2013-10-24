@@ -1,5 +1,4 @@
-Clitocybe pruniodora (Maire) Singer SPECIES
-=======
+# Clitocybe pruniodora (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

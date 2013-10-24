@@ -1,5 +1,4 @@
-Cercospora aequatorialis G. Winter SPECIES
-=======
+# Cercospora aequatorialis G. Winter SPECIES
 
 #### Status
 ACCEPTED

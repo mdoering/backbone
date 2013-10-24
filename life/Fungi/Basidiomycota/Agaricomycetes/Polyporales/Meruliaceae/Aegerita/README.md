@@ -1,17 +1,16 @@
-Crocysporium Corda GENUS
-=======
+# Aegerita Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Icon. fung. (Prague) 1: 5 (1837)
+null
 
 #### Original name
-Crocysporium Corda
+null
 
 ### Remarks
 null

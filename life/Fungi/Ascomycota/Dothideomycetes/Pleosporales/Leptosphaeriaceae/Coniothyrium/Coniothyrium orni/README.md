@@ -1,5 +1,4 @@
-Coniothyrium orni Henn. SPECIES
-=======
+# Coniothyrium orni Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma collae (Schwein.) Sacc. SPECIES
-=======
+# Trichoderma collae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

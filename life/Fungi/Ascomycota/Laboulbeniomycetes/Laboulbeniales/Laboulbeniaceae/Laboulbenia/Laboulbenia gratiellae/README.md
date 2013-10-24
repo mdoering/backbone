@@ -1,5 +1,4 @@
-Laboulbenia gratiellae W. Rossi SPECIES
-=======
+# Laboulbenia gratiellae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

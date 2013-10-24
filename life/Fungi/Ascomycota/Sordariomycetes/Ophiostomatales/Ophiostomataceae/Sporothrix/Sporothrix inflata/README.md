@@ -1,17 +1,16 @@
-Humicolopsis dimorphospora (Roxon & S.C. Jong) Verona, 1977 SPECIES
-=======
+# Sporothrix inflata de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-G. bot. ital. , n. s. 111(1-2): 88 (1977)
+Stud. Mycol. 7: 34 (1974)
 
 #### Original name
-Humicola dimorphospora Roxon & S.C. Jong, 1974
+Sporothrix inflata de Hoog, 1974
 
 ### Remarks
 null

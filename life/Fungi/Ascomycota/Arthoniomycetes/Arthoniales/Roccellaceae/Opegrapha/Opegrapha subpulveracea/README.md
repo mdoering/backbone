@@ -1,5 +1,4 @@
-Opegrapha subpulveracea March. {?} SPECIES
-=======
+# Opegrapha subpulveracea March. {?} SPECIES
 
 #### Status
 ACCEPTED

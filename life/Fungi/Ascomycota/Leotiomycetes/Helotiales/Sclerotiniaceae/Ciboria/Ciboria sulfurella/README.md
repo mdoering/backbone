@@ -1,5 +1,4 @@
-Ciboria sulfurella (Ellis & Everh.) Rehm SPECIES
-=======
+# Ciboria sulfurella (Ellis & Everh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

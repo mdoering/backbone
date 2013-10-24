@@ -1,5 +1,4 @@
-Graphina pachypleura Müll. Arg. SPECIES
-=======
+# Graphina pachypleura Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

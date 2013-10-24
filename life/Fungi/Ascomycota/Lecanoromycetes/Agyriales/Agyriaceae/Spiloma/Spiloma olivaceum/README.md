@@ -1,5 +1,4 @@
-Spiloma olivaceum Ach. SPECIES
-=======
+# Spiloma olivaceum Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum currimaoense G.C. Trono SPECIES
-=======
+# Sargassum currimaoense G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

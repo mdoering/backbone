@@ -1,5 +1,4 @@
-Gluconacetobacter diazotrophicus (Gillis et al., 1989) Yamada et al., 1998 SPECIES
-=======
+# Gluconacetobacter diazotrophicus (Gillis et al., 1989) Yamada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

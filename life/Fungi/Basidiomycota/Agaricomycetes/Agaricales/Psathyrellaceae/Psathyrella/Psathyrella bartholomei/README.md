@@ -1,5 +1,4 @@
-Psathyrella bartholomei Peck SPECIES
-=======
+# Psathyrella bartholomei Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydnum badium var. badium VARIETY
-=======
+# Sarcodon imbricatus (L.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 3(9): 20 (1881)
 
 #### Original name
-null
+Hydnum imbricatum L., 1753
 
 ### Remarks
 null

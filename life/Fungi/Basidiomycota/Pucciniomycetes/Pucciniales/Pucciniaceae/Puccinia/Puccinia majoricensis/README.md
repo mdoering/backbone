@@ -1,5 +1,4 @@
-Puccinia majoricensis var. majoricensis VARIETY
-=======
+# Puccinia majoricensis Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia majoricensis var. majoricensis
+Puccinia majoricensis Maire
 
 ### Remarks
 null

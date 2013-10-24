@@ -1,5 +1,4 @@
-Heliosoma Haeckel, 1881 GENUS
-=======
+# Heliosoma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

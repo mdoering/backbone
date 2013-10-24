@@ -1,5 +1,4 @@
-Diplodia muehlenbeckiae Tassi SPECIES
-=======
+# Diplodia muehlenbeckiae Tassi SPECIES
 
 #### Status
 ACCEPTED

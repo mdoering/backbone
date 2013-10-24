@@ -1,5 +1,4 @@
-Leptosphaeria spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

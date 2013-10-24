@@ -1,5 +1,4 @@
-Cenangium urceoliformis (P. Karst.) SPECIES
-=======
+# Cenangium urceoliformis (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

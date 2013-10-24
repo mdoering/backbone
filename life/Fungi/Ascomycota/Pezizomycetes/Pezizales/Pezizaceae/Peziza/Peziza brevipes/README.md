@@ -1,5 +1,4 @@
-Peziza brevipes Bosch SPECIES
-=======
+# Peziza brevipes Bosch SPECIES
 
 #### Status
 ACCEPTED

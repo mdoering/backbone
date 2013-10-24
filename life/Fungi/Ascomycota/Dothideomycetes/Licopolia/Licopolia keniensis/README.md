@@ -1,5 +1,4 @@
-Licopolia keniensis Hansf., 1947 SPECIES
-=======
+# Licopolia keniensis Hansf., 1947 SPECIES
 
 #### Status
 ACCEPTED

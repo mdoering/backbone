@@ -1,5 +1,4 @@
-Hysteropsis culmigena Rehm, 1887 SPECIES
-=======
+# Hysteropsis culmigena Rehm, 1887 SPECIES
 
 #### Status
 ACCEPTED

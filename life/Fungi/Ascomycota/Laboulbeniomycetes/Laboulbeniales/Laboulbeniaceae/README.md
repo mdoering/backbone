@@ -1,5 +1,4 @@
-Laboulbeniaceae G. Winter FAMILY
-=======
+# Laboulbeniaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

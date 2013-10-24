@@ -1,5 +1,4 @@
-Phellinus discipodoides Corner SPECIES
-=======
+# Phellinus discipodoides Corner SPECIES
 
 #### Status
 ACCEPTED

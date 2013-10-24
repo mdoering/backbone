@@ -1,5 +1,4 @@
-Dimeromyces unguipes Thaxt. SPECIES
-=======
+# Dimeromyces unguipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

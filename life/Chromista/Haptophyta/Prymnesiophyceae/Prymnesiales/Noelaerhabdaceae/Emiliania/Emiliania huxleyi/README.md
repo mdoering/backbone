@@ -1,5 +1,4 @@
-Emiliania huxleyi (Lohmann) Hay & Mohler SPECIES
-=======
+# Emiliania huxleyi (Lohmann) Hay & Mohler SPECIES
 
 #### Status
 ACCEPTED

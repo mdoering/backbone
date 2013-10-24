@@ -1,17 +1,16 @@
-Wardomyces dimerus W. Gams, 1968 SPECIES
-=======
+# Gamsia simplex (Sugiy., Y. Kawas. & H. Kurata) Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 51: 800 (1968)
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 340 (1981)
 
 #### Original name
-Wardomyces dimerus W. Gams, 1968
+Wardomyces simplex Sugiy., Y. Kawas. & H. Kurata, 1968
 
 ### Remarks
 null

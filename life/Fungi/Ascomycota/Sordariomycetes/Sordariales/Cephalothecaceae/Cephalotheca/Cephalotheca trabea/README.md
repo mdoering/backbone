@@ -1,5 +1,4 @@
-Cephalotheca trabea Fuckel SPECIES
-=======
+# Cephalotheca trabea Fuckel SPECIES
 
 #### Status
 ACCEPTED

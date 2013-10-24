@@ -1,5 +1,4 @@
-Chrysalidinella costata (Earland & Heron-Allen) SPECIES
-=======
+# Chrysalidinella costata (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

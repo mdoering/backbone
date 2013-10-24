@@ -1,5 +1,4 @@
-Haptospora G.L. Barron GENUS
-=======
+# Haptospora G.L. Barron GENUS
 
 #### Status
 ACCEPTED

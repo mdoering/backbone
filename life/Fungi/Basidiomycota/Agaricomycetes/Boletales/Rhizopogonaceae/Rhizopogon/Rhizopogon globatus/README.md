@@ -1,5 +1,4 @@
-Rhizopogon globatus Velen. SPECIES
-=======
+# Rhizopogon globatus Velen. SPECIES
 
 #### Status
 ACCEPTED

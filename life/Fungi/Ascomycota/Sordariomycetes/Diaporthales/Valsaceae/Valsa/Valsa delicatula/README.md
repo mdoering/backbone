@@ -1,5 +1,4 @@
-Valsa delicatula Cooke & Ellis SPECIES
-=======
+# Valsa delicatula Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta lamiorum Sacc., 1878 SPECIES
-=======
+# Ascochyta lamiorum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

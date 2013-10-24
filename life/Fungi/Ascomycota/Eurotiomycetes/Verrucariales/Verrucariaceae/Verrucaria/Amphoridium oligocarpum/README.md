@@ -1,5 +1,4 @@
-Amphoridium oligocarpum (Servít) Servít SPECIES
-=======
+# Amphoridium oligocarpum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

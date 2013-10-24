@@ -1,5 +1,4 @@
-Myxosporium russellii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Myxosporium russellii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

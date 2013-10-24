@@ -1,5 +1,4 @@
-Opegrapha nimbosa Ach. SPECIES
-=======
+# Opegrapha nimbosa Ach. SPECIES
 
 #### Status
 ACCEPTED

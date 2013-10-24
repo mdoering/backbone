@@ -1,5 +1,4 @@
-Streptomyces thermocarboxydus Kim et al., 1998 SPECIES
-=======
+# Streptomyces thermocarboxydus Kim et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

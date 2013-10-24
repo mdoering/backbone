@@ -1,5 +1,4 @@
-Woloszynskia apiculata von Stosch SPECIES
-=======
+# Woloszynskia apiculata von Stosch SPECIES
 
 #### Status
 ACCEPTED

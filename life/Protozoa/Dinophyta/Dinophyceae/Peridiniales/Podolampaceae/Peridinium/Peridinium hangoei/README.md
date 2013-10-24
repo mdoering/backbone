@@ -1,5 +1,4 @@
-Peridinium hangoei J. Schiller SPECIES
-=======
+# Peridinium hangoei J. Schiller SPECIES
 
 #### Status
 ACCEPTED

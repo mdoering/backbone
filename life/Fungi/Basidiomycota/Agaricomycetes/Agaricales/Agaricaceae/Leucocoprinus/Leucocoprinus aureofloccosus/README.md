@@ -1,5 +1,4 @@
-Leucocoprinus aureofloccosus (Henn.) M.M. Moser SPECIES
-=======
+# Leucocoprinus aureofloccosus (Henn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

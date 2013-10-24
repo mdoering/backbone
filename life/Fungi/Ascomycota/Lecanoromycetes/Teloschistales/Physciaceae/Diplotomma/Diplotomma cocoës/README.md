@@ -1,5 +1,4 @@
-Diplotomma cocoës (Malme) Szatala SPECIES
-=======
+# Diplotomma cocoës (Malme) Szatala SPECIES
 
 #### Status
 ACCEPTED

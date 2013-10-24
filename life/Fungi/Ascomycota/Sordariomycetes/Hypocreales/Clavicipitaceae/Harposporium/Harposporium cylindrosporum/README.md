@@ -1,5 +1,4 @@
-Harposporium cylindrosporum G.L. Barron, 1980 SPECIES
-=======
+# Harposporium cylindrosporum G.L. Barron, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis mecistophora (C. Knight) D.J. Galloway SPECIES
-=======
+# Lecanactis mecistophora (C. Knight) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

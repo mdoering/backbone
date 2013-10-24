@@ -1,5 +1,4 @@
-Rhodocybe fuscofarinacea Kosonen & Noordel. SPECIES
-=======
+# Rhodocybe fuscofarinacea Kosonen & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgillus sodalis Nyl. SPECIES
-=======
+# Pyrgillus sodalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidella viridans var. chodati (Samp.) Hertel & Leuckert VARIETY
-=======
+# Lecidella chodatii (Samp.) Knoph & Leuckert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Knoph, Biblthca Lichenol. 36: 88 (1990)
 
 #### Original name
 Lecidea chodatii Samp.

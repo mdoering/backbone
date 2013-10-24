@@ -1,5 +1,4 @@
-Diaporthe canina Sacc. SPECIES
-=======
+# Diaporthe canina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella limonis McAlpine SPECIES
-=======
+# Dothiorella limonis McAlpine SPECIES
 
 #### Status
 ACCEPTED

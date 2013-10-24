@@ -1,14 +1,13 @@
-Endogone gigantea T.H. Nicolson & Gerd., 1968 SPECIES
-=======
+# Gigaspora gigantea (T.H. Nicolson & Gerd.) Gerd. & Trappe, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 60(2): 321 (1968)
+Mycol. Mem. 5: 29 (1974)
 
 #### Original name
 Endogone gigantea T.H. Nicolson & Gerd., 1968

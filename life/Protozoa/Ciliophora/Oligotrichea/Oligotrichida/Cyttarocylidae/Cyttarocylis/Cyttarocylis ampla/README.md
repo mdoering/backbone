@@ -1,5 +1,4 @@
-Cyttarocylis ampla Brandt, 1906 SPECIES
-=======
+# Cyttarocylis ampla Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma leptinotarsae Hackett et al., 1996 SPECIES
-=======
+# Spiroplasma leptinotarsae Hackett et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

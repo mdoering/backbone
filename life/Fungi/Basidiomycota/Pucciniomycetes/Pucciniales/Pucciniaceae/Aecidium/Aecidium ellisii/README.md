@@ -1,5 +1,4 @@
-Aecidium ellisii Tracy & L.D. Galloway SPECIES
-=======
+# Aecidium ellisii Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

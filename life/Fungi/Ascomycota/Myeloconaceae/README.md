@@ -1,5 +1,4 @@
-Myeloconaceae P.M. McCarthy FAMILY
-=======
+# Myeloconaceae P.M. McCarthy FAMILY
 
 #### Status
 ACCEPTED

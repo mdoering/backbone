@@ -1,5 +1,4 @@
-Psilocybe singularis Guzmán, Escalona & J.Q. Jacobs SPECIES
-=======
+# Psilocybe singularis Guzmán, Escalona & J.Q. Jacobs SPECIES
 
 #### Status
 ACCEPTED

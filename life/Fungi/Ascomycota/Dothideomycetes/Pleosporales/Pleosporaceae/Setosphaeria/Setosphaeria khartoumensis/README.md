@@ -1,5 +1,4 @@
-Setosphaeria khartoumensis El Shafie & J. Webster, 1981 SPECIES
-=======
+# Setosphaeria khartoumensis El Shafie & J. Webster, 1981 SPECIES
 
 #### Status
 ACCEPTED

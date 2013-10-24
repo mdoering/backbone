@@ -1,5 +1,4 @@
-Desulfatiferula Cravo-Laureau et al., 2007 GENUS
-=======
+# Desulfatiferula Cravo-Laureau et al., 2007 GENUS
 
 #### Status
 ACCEPTED

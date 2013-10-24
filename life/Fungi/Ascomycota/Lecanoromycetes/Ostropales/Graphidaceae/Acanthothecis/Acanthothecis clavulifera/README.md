@@ -1,5 +1,4 @@
-Acanthothecis clavulifera (Vain.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis clavulifera (Vain.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

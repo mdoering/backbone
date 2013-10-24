@@ -1,8 +1,7 @@
-Pestalotia staticis Murashk. SPECIES
-=======
+# Pestalotia statices Murashk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia staticis Murashk.
+Pestalotia statices Murashk.
 
 ### Remarks
 null

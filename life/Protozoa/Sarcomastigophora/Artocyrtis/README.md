@@ -1,5 +1,4 @@
-Artocyrtis Haeckel, 1887 GENUS
-=======
+# Artocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia nantiana B. de Lesd. SPECIES
-=======
+# Polyblastia nantiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

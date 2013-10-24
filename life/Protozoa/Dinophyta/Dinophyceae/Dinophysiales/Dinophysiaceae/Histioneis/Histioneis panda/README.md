@@ -1,5 +1,4 @@
-Histioneis panda Kofoid & Michener, 1911 SPECIES
-=======
+# Histioneis panda Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

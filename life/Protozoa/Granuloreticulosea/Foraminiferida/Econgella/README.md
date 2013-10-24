@@ -1,5 +1,4 @@
-Econgella GENUS
-=======
+# Econgella GENUS
 
 #### Status
 ACCEPTED

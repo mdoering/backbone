@@ -1,5 +1,4 @@
-Helotium sulphurellum Ellis & Everh. SPECIES
-=======
+# Helotium sulphurellum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

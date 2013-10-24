@@ -1,5 +1,4 @@
-Prillieuxina hydnocarpi (H.S. Yates) Arx SPECIES
-=======
+# Prillieuxina hydnocarpi (H.S. Yates) Arx SPECIES
 
 #### Status
 ACCEPTED

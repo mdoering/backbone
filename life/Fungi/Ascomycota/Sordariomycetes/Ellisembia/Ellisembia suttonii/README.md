@@ -1,5 +1,4 @@
-Ellisembia suttonii W.P. Wu SPECIES
-=======
+# Ellisembia suttonii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea pallida Kanouse SPECIES
-=======
+# Phialea pallida Kanouse SPECIES
 
 #### Status
 ACCEPTED

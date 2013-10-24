@@ -1,5 +1,4 @@
-Tubercularia longispora Matsush. SPECIES
-=======
+# Tubercularia longispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

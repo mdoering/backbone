@@ -1,5 +1,4 @@
-Haplotrichum delicatum Trail SPECIES
-=======
+# Haplotrichum delicatum Trail SPECIES
 
 #### Status
 ACCEPTED

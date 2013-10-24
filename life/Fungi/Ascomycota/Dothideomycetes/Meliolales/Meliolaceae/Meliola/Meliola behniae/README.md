@@ -1,5 +1,4 @@
-Meliola behniae Syd. SPECIES
-=======
+# Meliola behniae Syd. SPECIES
 
 #### Status
 ACCEPTED

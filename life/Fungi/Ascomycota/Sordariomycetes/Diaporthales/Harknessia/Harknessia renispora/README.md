@@ -1,5 +1,4 @@
-Harknessia renispora H.J. Swart, 1972 SPECIES
-=======
+# Harknessia renispora H.J. Swart, 1972 SPECIES
 
 #### Status
 ACCEPTED

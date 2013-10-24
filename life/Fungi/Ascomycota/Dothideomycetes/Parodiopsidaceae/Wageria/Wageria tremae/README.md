@@ -1,5 +1,4 @@
-Wageria tremae Sawada SPECIES
-=======
+# Wageria tremae Sawada SPECIES
 
 #### Status
 ACCEPTED

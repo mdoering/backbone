@@ -1,5 +1,4 @@
-Phaeographis lidjiangensis Zahlbr. SPECIES
-=======
+# Phaeographis lidjiangensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

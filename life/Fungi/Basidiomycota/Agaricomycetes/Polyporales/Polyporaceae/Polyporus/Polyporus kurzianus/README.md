@@ -1,5 +1,4 @@
-Polyporus kurzianus Cooke SPECIES
-=======
+# Polyporus kurzianus Cooke SPECIES
 
 #### Status
 ACCEPTED

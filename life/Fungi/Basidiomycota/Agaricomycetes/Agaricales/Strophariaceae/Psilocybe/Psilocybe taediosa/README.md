@@ -1,5 +1,4 @@
-Psilocybe taediosa Kalchbr. SPECIES
-=======
+# Psilocybe taediosa Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

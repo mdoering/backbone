@@ -1,5 +1,4 @@
-Aecidium vernoniae-cinereae Petch SPECIES
-=======
+# Aecidium vernoniae-cinereae Petch SPECIES
 
 #### Status
 ACCEPTED

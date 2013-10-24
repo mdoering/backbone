@@ -1,5 +1,4 @@
-Aspicilia cheresina (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia cheresina (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

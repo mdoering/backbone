@@ -1,14 +1,13 @@
-Piricauda putredinis (Wallr.) R.T. Moore, 1959 SPECIES
-=======
+# Monodictys putredinis (Wallr.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rhodora 61: 103 (1959)
+Can. J. Bot. 36: 785 (1958)
 
 #### Original name
 Melanconium putredinis Wallr., 1833

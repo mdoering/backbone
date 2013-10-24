@@ -1,5 +1,4 @@
-Lecidea massula (Stizenb.) Hue SPECIES
-=======
+# Lecidea massula (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

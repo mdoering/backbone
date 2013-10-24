@@ -1,5 +1,4 @@
-Septobasidium grandisporum Couch SPECIES
-=======
+# Septobasidium grandisporum Couch SPECIES
 
 #### Status
 ACCEPTED

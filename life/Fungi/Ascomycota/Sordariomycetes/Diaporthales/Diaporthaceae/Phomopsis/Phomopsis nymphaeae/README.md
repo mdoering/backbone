@@ -1,5 +1,4 @@
-Phomopsis nymphaeae Nag Raj & Ponnappa SPECIES
-=======
+# Phomopsis nymphaeae Nag Raj & Ponnappa SPECIES
 
 #### Status
 ACCEPTED

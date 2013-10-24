@@ -1,5 +1,4 @@
-Gnomonia norvegica M. Monod SPECIES
-=======
+# Gnomonia norvegica M. Monod SPECIES
 
 #### Status
 ACCEPTED

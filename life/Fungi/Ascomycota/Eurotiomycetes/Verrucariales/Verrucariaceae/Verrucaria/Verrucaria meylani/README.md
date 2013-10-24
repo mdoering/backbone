@@ -1,5 +1,4 @@
-Verrucaria meylani B. de Lesd. SPECIES
-=======
+# Verrucaria meylani B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

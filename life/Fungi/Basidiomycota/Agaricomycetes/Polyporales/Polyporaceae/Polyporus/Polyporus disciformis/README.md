@@ -1,5 +1,4 @@
-Polyporus disciformis Lév. SPECIES
-=======
+# Polyporus disciformis Lév. SPECIES
 
 #### Status
 ACCEPTED

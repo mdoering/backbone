@@ -1,5 +1,4 @@
-Ascochyta laurocerasi Gutner SPECIES
-=======
+# Ascochyta laurocerasi Gutner SPECIES
 
 #### Status
 ACCEPTED

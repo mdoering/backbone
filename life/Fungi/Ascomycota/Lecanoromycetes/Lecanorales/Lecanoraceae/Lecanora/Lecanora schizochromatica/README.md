@@ -1,5 +1,4 @@
-Lecanora schizochromatica Pérez-Ortega, T. Sprib. & Printzen SPECIES
-=======
+# Lecanora schizochromatica Pérez-Ortega, T. Sprib. & Printzen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus aviarius Peck SPECIES
-=======
+# Aspergillus aviarius Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysipelothrix inopinata Verbarg et al., 2004 SPECIES
-=======
+# Erysipelothrix inopinata Verbarg et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

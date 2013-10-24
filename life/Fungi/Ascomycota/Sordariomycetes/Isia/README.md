@@ -1,5 +1,4 @@
-Isia D. Hawksworth & Manoharachary, 1978 GENUS
-=======
+# Isia D. Hawksworth & Manoharachary, 1978 GENUS
 
 #### Status
 ACCEPTED

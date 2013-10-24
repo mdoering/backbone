@@ -1,5 +1,4 @@
-Blyttiomyces harderi Sparrow & Dogma SPECIES
-=======
+# Blyttiomyces harderi Sparrow & Dogma SPECIES
 
 #### Status
 ACCEPTED

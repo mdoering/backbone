@@ -1,5 +1,4 @@
-Septoria podagraria Fuckel SPECIES
-=======
+# Septoria podagraria Fuckel SPECIES
 
 #### Status
 ACCEPTED

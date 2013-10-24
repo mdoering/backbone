@@ -1,14 +1,13 @@
-Famintzinia hemisphaerica (L.S. Olive & Stoian.) Lado, 2001 SPECIES
-=======
+# Ceratiomyxa hemisphaerica L.S. Olive & Stoian., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 44 (2001)
+Mycologia 71(3): 551 (1979)
 
 #### Original name
 Ceratiomyxa hemisphaerica L.S. Olive & Stoian., 1979

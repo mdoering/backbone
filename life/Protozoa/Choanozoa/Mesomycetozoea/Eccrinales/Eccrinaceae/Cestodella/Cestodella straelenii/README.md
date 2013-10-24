@@ -1,5 +1,4 @@
-Cestodella straelenii Tuzet, Manier & Jolivet SPECIES
-=======
+# Cestodella straelenii Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

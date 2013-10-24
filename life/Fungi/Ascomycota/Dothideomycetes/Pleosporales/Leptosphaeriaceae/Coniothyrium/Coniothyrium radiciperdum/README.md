@@ -1,5 +1,4 @@
-Coniothyrium radiciperdum Kravtzev SPECIES
-=======
+# Coniothyrium radiciperdum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

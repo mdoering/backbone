@@ -1,5 +1,4 @@
-Usnea corallina Motyka SPECIES
-=======
+# Usnea corallina Motyka SPECIES
 
 #### Status
 ACCEPTED

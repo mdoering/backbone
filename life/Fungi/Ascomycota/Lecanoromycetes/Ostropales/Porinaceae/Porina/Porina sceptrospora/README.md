@@ -1,5 +1,4 @@
-Porina sceptrospora Vain. SPECIES
-=======
+# Porina sceptrospora Vain. SPECIES
 
 #### Status
 ACCEPTED

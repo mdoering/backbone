@@ -1,5 +1,4 @@
-Cylindrocarpon chichiense Matsush. SPECIES
-=======
+# Cylindrocarpon chichiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

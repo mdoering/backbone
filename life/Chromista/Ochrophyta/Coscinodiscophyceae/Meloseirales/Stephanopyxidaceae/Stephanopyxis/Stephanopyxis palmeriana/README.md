@@ -1,5 +1,4 @@
-Stephanopyxis palmeriana (Greville) Grunow SPECIES
-=======
+# Stephanopyxis palmeriana (Greville) Grunow SPECIES
 
 #### Status
 ACCEPTED

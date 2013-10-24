@@ -1,5 +1,4 @@
-Geopyxis pallidus Rodway SPECIES
-=======
+# Geopyxis pallidus Rodway SPECIES
 
 #### Status
 ACCEPTED

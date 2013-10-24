@@ -1,5 +1,4 @@
-Graphis leucoxantha Müll. Arg. SPECIES
-=======
+# Graphis leucoxantha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

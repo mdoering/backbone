@@ -1,5 +1,4 @@
-Lecanora subrugosa Nyl. SPECIES
-=======
+# Lecanora subrugosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

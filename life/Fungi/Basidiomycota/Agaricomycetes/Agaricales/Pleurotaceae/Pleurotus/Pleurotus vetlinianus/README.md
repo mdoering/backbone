@@ -1,5 +1,4 @@
-Pleurotus vetlinianus Domanski SPECIES
-=======
+# Pleurotus vetlinianus Domanski SPECIES
 
 #### Status
 ACCEPTED

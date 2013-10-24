@@ -1,5 +1,4 @@
-Lichen cinerascens With. SPECIES
-=======
+# Lichen cinerascens With. SPECIES
 
 #### Status
 ACCEPTED

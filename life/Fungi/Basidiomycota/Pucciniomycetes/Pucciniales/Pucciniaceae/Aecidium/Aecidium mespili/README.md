@@ -1,5 +1,4 @@
-Aecidium mespili DC. SPECIES
-=======
+# Aecidium mespili DC. SPECIES
 
 #### Status
 ACCEPTED

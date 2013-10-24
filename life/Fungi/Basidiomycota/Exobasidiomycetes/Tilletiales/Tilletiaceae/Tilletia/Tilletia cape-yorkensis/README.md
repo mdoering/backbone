@@ -1,5 +1,4 @@
-Tilletia cape-yorkensis Vánky & R.G. Shivas, 2003 SPECIES
-=======
+# Tilletia cape-yorkensis Vánky & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

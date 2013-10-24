@@ -1,5 +1,4 @@
-Haplaria chlorina Ellis & Everh. SPECIES
-=======
+# Haplaria chlorina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

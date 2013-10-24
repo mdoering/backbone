@@ -1,5 +1,4 @@
-Anthomyces primigenius Grüss, 1931 SPECIES
-=======
+# Anthomyces primigenius Grüss, 1931 SPECIES
 
 #### Status
 ACCEPTED

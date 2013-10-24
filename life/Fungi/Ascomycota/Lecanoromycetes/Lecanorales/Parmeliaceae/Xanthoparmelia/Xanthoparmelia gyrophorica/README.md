@@ -1,5 +1,4 @@
-Xanthoparmelia gyrophorica Hale SPECIES
-=======
+# Xanthoparmelia gyrophorica Hale SPECIES
 
 #### Status
 ACCEPTED

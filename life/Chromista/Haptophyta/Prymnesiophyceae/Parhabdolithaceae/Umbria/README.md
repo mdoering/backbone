@@ -1,5 +1,4 @@
-Umbria Bralower & Thierstein in Bralower, Monechi & Thierstein, 1989 GENUS
-=======
+# Umbria Bralower & Thierstein in Bralower, Monechi & Thierstein, 1989 GENUS
 
 #### Status
 ACCEPTED

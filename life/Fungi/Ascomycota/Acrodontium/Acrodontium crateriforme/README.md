@@ -1,14 +1,13 @@
-Chloridium crateriforme J.F.H. Beyma SPECIES
-=======
+# Acrodontium crateriforme (J.F.H. Beyma) de Hoog, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 89: 241 (1933)
+Stud. Mycol. 1: 26 (1972)
 
 #### Original name
 Chloridium crateriforme J.F.H. Beyma

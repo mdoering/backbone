@@ -1,14 +1,13 @@
-Misgomyces perpendicularis Thaxt., 1931 SPECIES
-=======
+# Dixomyces perpendicularis (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 295 (1931)
+Mycol. Mem. 9: 208 (1985)
 
 #### Original name
 Misgomyces perpendicularis Thaxt., 1931

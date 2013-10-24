@@ -1,5 +1,4 @@
-Redingeria Frisch GENUS
-=======
+# Redingeria Frisch GENUS
 
 #### Status
 ACCEPTED

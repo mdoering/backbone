@@ -1,5 +1,4 @@
-Hydnum hepaticum Kalchbr. SPECIES
-=======
+# Hydnum hepaticum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

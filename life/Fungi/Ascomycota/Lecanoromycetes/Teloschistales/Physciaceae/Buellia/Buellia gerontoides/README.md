@@ -1,14 +1,13 @@
-Lecidea gerontoides Stirt. SPECIES
-=======
+# Buellia gerontoides (Stirt.) Imshaug SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Farlowia 4: 490 (1955)
 
 #### Original name
 Lecidea gerontoides Stirt.

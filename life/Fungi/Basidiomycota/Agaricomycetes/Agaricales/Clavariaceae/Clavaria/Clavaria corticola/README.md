@@ -1,5 +1,4 @@
-Clavaria corticola Quél. SPECIES
-=======
+# Clavaria corticola Quél. SPECIES
 
 #### Status
 ACCEPTED

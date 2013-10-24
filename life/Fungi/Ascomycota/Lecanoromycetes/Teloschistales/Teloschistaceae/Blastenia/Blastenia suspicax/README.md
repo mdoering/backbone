@@ -1,5 +1,4 @@
-Blastenia suspicax (Stizenb.) Zahlbr. SPECIES
-=======
+# Blastenia suspicax (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

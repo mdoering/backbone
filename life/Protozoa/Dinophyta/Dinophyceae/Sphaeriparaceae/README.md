@@ -1,5 +1,4 @@
-Sphaeriparaceae FAMILY
-=======
+# Sphaeriparaceae FAMILY
 
 #### Status
 ACCEPTED

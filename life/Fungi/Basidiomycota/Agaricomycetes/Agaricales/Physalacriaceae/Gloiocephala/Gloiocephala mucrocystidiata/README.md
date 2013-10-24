@@ -1,5 +1,4 @@
-Gloiocephala mucrocystidiata Antonín SPECIES
-=======
+# Gloiocephala mucrocystidiata Antonín SPECIES
 
 #### Status
 ACCEPTED

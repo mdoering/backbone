@@ -1,5 +1,4 @@
-Trichaegum cladosporioides Corda, 1837 SPECIES
-=======
+# Trichaegum cladosporioides Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

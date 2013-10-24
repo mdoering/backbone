@@ -1,5 +1,4 @@
-Crocynia sublanuginosa B. de Lesd. SPECIES
-=======
+# Crocynia sublanuginosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

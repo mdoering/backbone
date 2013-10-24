@@ -1,5 +1,4 @@
-Sorosporium paranense Hirschh. SPECIES
-=======
+# Sorosporium paranense Hirschh. SPECIES
 
 #### Status
 ACCEPTED

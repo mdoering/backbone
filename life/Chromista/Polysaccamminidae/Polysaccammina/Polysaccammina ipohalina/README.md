@@ -1,5 +1,4 @@
-Polysaccammina ipohalina Scott, 1976 SPECIES
-=======
+# Polysaccammina ipohalina Scott, 1976 SPECIES
 
 #### Status
 ACCEPTED

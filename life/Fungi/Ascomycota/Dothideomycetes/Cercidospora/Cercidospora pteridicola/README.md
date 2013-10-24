@@ -1,5 +1,4 @@
-Cercidospora pteridicola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora pteridicola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

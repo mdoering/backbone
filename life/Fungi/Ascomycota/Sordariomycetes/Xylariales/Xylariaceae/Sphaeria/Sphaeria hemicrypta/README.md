@@ -1,5 +1,4 @@
-Sphaeria hemicrypta Durieu & Mont. SPECIES
-=======
+# Sphaeria hemicrypta Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

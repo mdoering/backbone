@@ -1,5 +1,4 @@
-Cerebella cynodontis Syd. SPECIES
-=======
+# Cerebella cynodontis Syd. SPECIES
 
 #### Status
 ACCEPTED

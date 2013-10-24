@@ -1,5 +1,4 @@
-Rhodocollybia longispora Hauskn. & Krisai SPECIES
-=======
+# Rhodocollybia longispora Hauskn. & Krisai SPECIES
 
 #### Status
 ACCEPTED

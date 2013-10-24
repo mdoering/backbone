@@ -1,5 +1,4 @@
-Phoma amenti (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Phoma amenti (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

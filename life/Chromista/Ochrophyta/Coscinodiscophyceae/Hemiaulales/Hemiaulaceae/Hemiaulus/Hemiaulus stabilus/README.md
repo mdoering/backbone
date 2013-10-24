@@ -1,5 +1,4 @@
-Hemiaulus stabilus J. Fenner SPECIES
-=======
+# Hemiaulus stabilus J. Fenner SPECIES
 
 #### Status
 ACCEPTED

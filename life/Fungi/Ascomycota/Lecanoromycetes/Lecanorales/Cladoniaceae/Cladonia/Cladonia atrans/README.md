@@ -1,5 +1,4 @@
-Cladonia atrans (Ahti) Ahti & DePriest SPECIES
-=======
+# Cladonia atrans (Ahti) Ahti & DePriest SPECIES
 
 #### Status
 ACCEPTED

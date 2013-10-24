@@ -1,5 +1,4 @@
-Helicosphaera bramlettei Muller, 1970 SPECIES
-=======
+# Helicosphaera bramlettei Muller, 1970 SPECIES
 
 #### Status
 ACCEPTED

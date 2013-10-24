@@ -1,8 +1,7 @@
-Calyptrosphaera papillifera Halldal, 1953 SPECIES
-=======
+# Calyptrolithophora papillifera (Halldal, 1953) Heimdal, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

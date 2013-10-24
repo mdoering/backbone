@@ -1,5 +1,4 @@
-Parataeniella scotonisci Manier ex Manier, 1970 SPECIES
-=======
+# Parataeniella scotonisci Manier ex Manier, 1970 SPECIES
 
 #### Status
 ACCEPTED

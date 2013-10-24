@@ -1,5 +1,4 @@
-Microthyrium aberrans Speg. SPECIES
-=======
+# Microthyrium aberrans Speg. SPECIES
 
 #### Status
 ACCEPTED

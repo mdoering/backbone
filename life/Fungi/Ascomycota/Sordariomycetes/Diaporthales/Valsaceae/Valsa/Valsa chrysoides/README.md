@@ -1,5 +1,4 @@
-Valsa chrysoides Tul. & C. Tul. SPECIES
-=======
+# Valsa chrysoides Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

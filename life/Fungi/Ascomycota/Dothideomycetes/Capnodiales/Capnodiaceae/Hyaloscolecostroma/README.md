@@ -1,5 +1,4 @@
-Hyaloscolecostroma Bat. & J. Oliveira GENUS
-=======
+# Hyaloscolecostroma Bat. & J. Oliveira GENUS
 
 #### Status
 ACCEPTED

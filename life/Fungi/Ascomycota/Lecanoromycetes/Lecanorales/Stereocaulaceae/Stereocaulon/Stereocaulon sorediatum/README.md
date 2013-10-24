@@ -1,5 +1,4 @@
-Stereocaulon sorediatum SPECIES
-=======
+# Stereocaulon sorediatum SPECIES
 
 #### Status
 ACCEPTED

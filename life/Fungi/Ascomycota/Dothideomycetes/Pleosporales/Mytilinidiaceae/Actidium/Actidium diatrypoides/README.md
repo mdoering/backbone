@@ -1,5 +1,4 @@
-Actidium diatrypoides Cooke SPECIES
-=======
+# Actidium diatrypoides Cooke SPECIES
 
 #### Status
 ACCEPTED

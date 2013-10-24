@@ -1,5 +1,4 @@
-Phomopsis aesculana (Sacc.) Petr. SPECIES
-=======
+# Phomopsis aesculana (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

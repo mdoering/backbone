@@ -1,5 +1,4 @@
-Proprioscypha Spooner GENUS
-=======
+# Proprioscypha Spooner GENUS
 
 #### Status
 ACCEPTED

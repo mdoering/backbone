@@ -1,17 +1,16 @@
-Hypholoma epixanthum f. epixanthum (Fr.) Quél. FORM
-=======
+# Hypholoma epixanthum (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: 113 [144] (1872)
 
 #### Original name
-Hypholoma epixanthum f. epixanthum (Fr.) Quél.
+Agaricus epixanthus Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordyceps puiggarii Speg. SPECIES
-=======
+# Cordyceps puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

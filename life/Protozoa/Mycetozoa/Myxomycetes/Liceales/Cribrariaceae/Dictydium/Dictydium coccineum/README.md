@@ -1,5 +1,4 @@
-Dictydium coccineum (Pers.) Schltdl. SPECIES
-=======
+# Dictydium coccineum (Pers.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

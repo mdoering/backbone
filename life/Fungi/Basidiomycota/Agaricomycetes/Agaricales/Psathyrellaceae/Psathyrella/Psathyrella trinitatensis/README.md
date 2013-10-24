@@ -1,5 +1,4 @@
-Psathyrella trinitatensis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Psathyrella trinitatensis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placoparmelia patagonica Henssen SPECIES
-=======
+# Placoparmelia patagonica Henssen SPECIES
 
 #### Status
 ACCEPTED

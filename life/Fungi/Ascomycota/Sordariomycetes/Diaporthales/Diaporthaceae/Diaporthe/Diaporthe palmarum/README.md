@@ -1,5 +1,4 @@
-Diaporthe palmarum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Diaporthe palmarum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

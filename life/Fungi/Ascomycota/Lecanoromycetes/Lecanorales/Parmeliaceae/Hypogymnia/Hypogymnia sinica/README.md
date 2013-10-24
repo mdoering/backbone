@@ -1,5 +1,4 @@
-Hypogymnia sinica J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Hypogymnia sinica J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

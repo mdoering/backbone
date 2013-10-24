@@ -1,5 +1,4 @@
-Pertusaria leucodeoides Müll. Arg. SPECIES
-=======
+# Pertusaria leucodeoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria pennsylvanica Berk. & M.A. Curtis SPECIES
-=======
+# Naucoria pennsylvanica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

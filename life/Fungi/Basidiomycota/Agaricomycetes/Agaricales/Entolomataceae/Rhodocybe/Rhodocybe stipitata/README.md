@@ -1,5 +1,4 @@
-Rhodocybe stipitata (A.H. Sm. & Hesler) T.J. Baroni & E. Horak SPECIES
-=======
+# Rhodocybe stipitata (A.H. Sm. & Hesler) T.J. Baroni & E. Horak SPECIES
 
 #### Status
 ACCEPTED

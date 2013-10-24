@@ -1,5 +1,4 @@
-Septoria sorbi-hybridae Pass. SPECIES
-=======
+# Septoria sorbi-hybridae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verbeekinidae Staff & Wedekind, 1910 FAMILY
-=======
+# Verbeekinidae Staff & Wedekind, 1910 FAMILY
 
 #### Status
 ACCEPTED

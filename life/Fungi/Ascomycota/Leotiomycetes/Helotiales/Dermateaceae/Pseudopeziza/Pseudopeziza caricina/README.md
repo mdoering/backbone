@@ -1,5 +1,4 @@
-Pseudopeziza caricina (Lib.) Sacc. SPECIES
-=======
+# Pseudopeziza caricina (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

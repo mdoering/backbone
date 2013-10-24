@@ -1,5 +1,4 @@
-Laboulbenia ventricosa Speg. SPECIES
-=======
+# Laboulbenia ventricosa Speg. SPECIES
 
 #### Status
 ACCEPTED

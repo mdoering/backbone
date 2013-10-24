@@ -1,5 +1,4 @@
-Everniopsis pseudoreticulata (P.A. Duvign.) C.W. Dodge SPECIES
-=======
+# Everniopsis pseudoreticulata (P.A. Duvign.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corneromyces kinabalui Ginns, 1976 SPECIES
-=======
+# Corneromyces kinabalui Ginns, 1976 SPECIES
 
 #### Status
 ACCEPTED

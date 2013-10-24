@@ -1,5 +1,4 @@
-Pholiota paulensis Henn. SPECIES
-=======
+# Pholiota paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

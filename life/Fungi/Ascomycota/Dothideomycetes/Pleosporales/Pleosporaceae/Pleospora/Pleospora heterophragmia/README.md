@@ -1,5 +1,4 @@
-Pleospora heterophragmia Sousa da Câmara SPECIES
-=======
+# Pleospora heterophragmia Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

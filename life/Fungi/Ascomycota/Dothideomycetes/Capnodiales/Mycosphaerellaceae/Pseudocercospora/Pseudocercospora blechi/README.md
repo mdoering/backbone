@@ -1,5 +1,4 @@
-Pseudocercospora blechi U. Braun, Crous & N. Pons SPECIES
-=======
+# Pseudocercospora blechi U. Braun, Crous & N. Pons SPECIES
 
 #### Status
 ACCEPTED

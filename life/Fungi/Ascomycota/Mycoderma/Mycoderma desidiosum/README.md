@@ -1,5 +1,4 @@
-Mycoderma desidiosum (Cif. & Redaelli) C.W. Dodge & M. Moore SPECIES
-=======
+# Mycoderma desidiosum (Cif. & Redaelli) C.W. Dodge & M. Moore SPECIES
 
 #### Status
 ACCEPTED

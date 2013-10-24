@@ -1,5 +1,4 @@
-Ruminococcus schinkii Rieu-Lesme et al., 1997 SPECIES
-=======
+# Ruminococcus schinkii Rieu-Lesme et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

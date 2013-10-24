@@ -1,5 +1,4 @@
-Anabaena cylindrica Lemmermann SPECIES
-=======
+# Anabaena cylindrica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

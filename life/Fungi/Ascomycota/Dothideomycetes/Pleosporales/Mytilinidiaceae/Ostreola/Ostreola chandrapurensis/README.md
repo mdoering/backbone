@@ -1,5 +1,4 @@
-Ostreola chandrapurensis P.G. Sathe & Khatoon SPECIES
-=======
+# Ostreola chandrapurensis P.G. Sathe & Khatoon SPECIES
 
 #### Status
 ACCEPTED

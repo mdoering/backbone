@@ -1,14 +1,13 @@
-Phellinidium lamaense (Murrill) Y.C. Dai SPECIES
-=======
+# Phellinidium lamaoense (Murrill) Y.C. Dai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. bot. fenn. 32(1): 69 (1995)
 
 #### Original name
 Pyropolyporus lamaoensis Murrill

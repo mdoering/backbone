@@ -1,5 +1,4 @@
-Hormiactis cordobensis Speg. SPECIES
-=======
+# Hormiactis cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus leptosporus Saccas SPECIES
-=======
+# Ophiobolus leptosporus Saccas SPECIES
 
 #### Status
 ACCEPTED

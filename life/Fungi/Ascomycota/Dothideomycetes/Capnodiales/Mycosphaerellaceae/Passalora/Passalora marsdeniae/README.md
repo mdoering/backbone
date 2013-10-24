@@ -1,5 +1,4 @@
-Passalora marsdeniae (S.K. Singh, Bhalla & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora marsdeniae (S.K. Singh, Bhalla & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia uvulariae Davis SPECIES
-=======
+# Diplodia uvulariae Davis SPECIES
 
 #### Status
 ACCEPTED

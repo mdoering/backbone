@@ -1,5 +1,4 @@
-Triceromyces T. Majewski GENUS
-=======
+# Triceromyces T. Majewski GENUS
 
 #### Status
 ACCEPTED

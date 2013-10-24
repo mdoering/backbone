@@ -1,5 +1,4 @@
-Olivibacter Ntougias et al., 2007 GENUS
-=======
+# Olivibacter Ntougias et al., 2007 GENUS
 
 #### Status
 ACCEPTED

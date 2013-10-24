@@ -1,17 +1,16 @@
-Diplotomma geophilum (Flörke ex Sommerf.) S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Tetramelas geophilus (Flörke ex Sommerf.) Norman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Geophytology 19(2): 175 (1990)
+null
 
 #### Original name
-Lecidea geophila Flörke ex Sommerf.
+null
 
 ### Remarks
 null

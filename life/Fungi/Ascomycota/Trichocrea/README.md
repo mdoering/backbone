@@ -1,5 +1,4 @@
-Trichocrea Marchal GENUS
-=======
+# Trichocrea Marchal GENUS
 
 #### Status
 ACCEPTED

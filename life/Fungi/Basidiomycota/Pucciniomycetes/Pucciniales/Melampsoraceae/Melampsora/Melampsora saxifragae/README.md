@@ -1,5 +1,4 @@
-Melampsora saxifragae Lindr. SPECIES
-=======
+# Melampsora saxifragae Lindr. SPECIES
 
 #### Status
 ACCEPTED

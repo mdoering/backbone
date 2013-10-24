@@ -1,5 +1,4 @@
-Parmelia inuyamensis Asahina SPECIES
-=======
+# Parmelia inuyamensis Asahina SPECIES
 
 #### Status
 ACCEPTED

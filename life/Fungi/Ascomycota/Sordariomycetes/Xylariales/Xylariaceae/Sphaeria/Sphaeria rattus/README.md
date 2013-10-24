@@ -1,5 +1,4 @@
-Sphaeria rattus Schwein. SPECIES
-=======
+# Sphaeria rattus Schwein. SPECIES
 
 #### Status
 ACCEPTED

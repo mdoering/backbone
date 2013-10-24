@@ -1,5 +1,4 @@
-Coccomycetella belonospora (Nyl.) Höhn. SPECIES
-=======
+# Coccomycetella belonospora (Nyl.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

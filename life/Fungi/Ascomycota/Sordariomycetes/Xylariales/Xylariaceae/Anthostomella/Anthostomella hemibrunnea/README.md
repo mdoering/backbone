@@ -1,5 +1,4 @@
-Anthostomella hemibrunnea H.Y. Yip SPECIES
-=======
+# Anthostomella hemibrunnea H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

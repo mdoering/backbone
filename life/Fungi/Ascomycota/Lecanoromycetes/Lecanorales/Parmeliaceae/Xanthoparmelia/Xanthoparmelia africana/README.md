@@ -1,5 +1,4 @@
-Xanthoparmelia africana Hale SPECIES
-=======
+# Xanthoparmelia africana Hale SPECIES
 
 #### Status
 ACCEPTED

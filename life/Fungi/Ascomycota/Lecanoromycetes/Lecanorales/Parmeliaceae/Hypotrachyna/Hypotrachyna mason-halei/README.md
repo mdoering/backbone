@@ -1,5 +1,4 @@
-Hypotrachyna mason-halei Patw. & Prabhu SPECIES
-=======
+# Hypotrachyna mason-halei Patw. & Prabhu SPECIES
 
 #### Status
 ACCEPTED

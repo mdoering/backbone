@@ -1,5 +1,4 @@
-Marasmius nilgiriensis Natarajan & Raman SPECIES
-=======
+# Marasmius nilgiriensis Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

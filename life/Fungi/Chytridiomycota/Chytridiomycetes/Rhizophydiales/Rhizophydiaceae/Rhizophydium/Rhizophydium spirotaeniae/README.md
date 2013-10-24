@@ -1,5 +1,4 @@
-Rhizophydium spirotaeniae (Scherff.) Sparrow SPECIES
-=======
+# Rhizophydium spirotaeniae (Scherff.) Sparrow SPECIES
 
 #### Status
 ACCEPTED

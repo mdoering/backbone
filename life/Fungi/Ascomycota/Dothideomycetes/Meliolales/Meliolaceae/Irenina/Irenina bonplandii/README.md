@@ -1,5 +1,4 @@
-Irenina bonplandii (Speg.) F. Stevens SPECIES
-=======
+# Irenina bonplandii (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

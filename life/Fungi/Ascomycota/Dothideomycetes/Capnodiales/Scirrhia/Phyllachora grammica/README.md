@@ -1,5 +1,4 @@
-Phyllachora grammica Henn., 1907 SPECIES
-=======
+# Phyllachora grammica Henn., 1907 SPECIES
 
 #### Status
 DOUBTFUL

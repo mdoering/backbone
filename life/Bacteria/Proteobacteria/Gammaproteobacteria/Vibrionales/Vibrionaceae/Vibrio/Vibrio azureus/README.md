@@ -1,5 +1,4 @@
-Vibrio azureus Yoshizawa, Wada, Kita-Tsukamoto, Ikemoto, Yokota & Kogure, 2009 SPECIES
-=======
+# Vibrio azureus Yoshizawa, Wada, Kita-Tsukamoto, Ikemoto, Yokota & Kogure, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalolechia spadicea (Flot.) SPECIES
-=======
+# Gyalolechia spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

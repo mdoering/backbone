@@ -1,5 +1,4 @@
-Amphoridium alanense (Servít) Servít SPECIES
-=======
+# Amphoridium alanense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

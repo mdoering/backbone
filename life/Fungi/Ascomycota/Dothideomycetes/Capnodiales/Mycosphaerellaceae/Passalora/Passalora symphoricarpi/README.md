@@ -1,14 +1,13 @@
-Cercospora symphoricarpi Ellis & Everh., 1889 SPECIES
-=======
+# Passalora symphoricarpi (Ellis & Everh.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 5(2): 70 (1889)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 393 (2003)
 
 #### Original name
 Cercospora symphoricarpi Ellis & Everh., 1889

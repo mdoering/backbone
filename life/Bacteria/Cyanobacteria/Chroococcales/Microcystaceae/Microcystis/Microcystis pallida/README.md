@@ -1,5 +1,4 @@
-Microcystis pallida (Farlow) Lemmermann SPECIES
-=======
+# Microcystis pallida (Farlow) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

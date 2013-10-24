@@ -1,5 +1,4 @@
-Mycomicrothelia atlantica D. Hawksw. & Coppins SPECIES
-=======
+# Mycomicrothelia atlantica D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

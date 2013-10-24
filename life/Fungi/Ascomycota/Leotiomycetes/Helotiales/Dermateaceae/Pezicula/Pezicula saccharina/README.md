@@ -1,5 +1,4 @@
-Pezicula saccharina (Bres.) Sacc. SPECIES
-=======
+# Pezicula saccharina (Bres.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe reductoaffinis Singer SPECIES
-=======
+# Simocybe reductoaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

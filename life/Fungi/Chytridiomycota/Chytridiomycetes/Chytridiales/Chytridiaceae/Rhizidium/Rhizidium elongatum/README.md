@@ -1,5 +1,4 @@
-Rhizidium elongatum Karling, 1949 SPECIES
-=======
+# Rhizidium elongatum Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

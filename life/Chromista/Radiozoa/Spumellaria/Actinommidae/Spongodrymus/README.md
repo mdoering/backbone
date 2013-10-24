@@ -1,5 +1,4 @@
-Spongodrymus Haeckel, 1881 GENUS
-=======
+# Spongodrymus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

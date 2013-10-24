@@ -1,5 +1,4 @@
-Pirea columbifera Vavrdová, 1990 SPECIES
-=======
+# Pirea columbifera Vavrdová, 1990 SPECIES
 
 #### Status
 ACCEPTED

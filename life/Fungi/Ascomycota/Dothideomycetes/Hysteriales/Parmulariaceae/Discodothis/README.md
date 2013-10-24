@@ -1,5 +1,4 @@
-Discodothis GENUS
-=======
+# Discodothis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria inocarpi Pat. SPECIES
-=======
+# Nectria inocarpi Pat. SPECIES
 
 #### Status
 ACCEPTED

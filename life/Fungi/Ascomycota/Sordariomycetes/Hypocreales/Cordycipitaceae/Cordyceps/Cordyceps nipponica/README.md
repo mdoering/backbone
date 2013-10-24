@@ -1,5 +1,4 @@
-Cordyceps nipponica Kobayasi SPECIES
-=======
+# Cordyceps nipponica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

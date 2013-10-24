@@ -1,5 +1,4 @@
-Limacium subsalmonium (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium subsalmonium (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

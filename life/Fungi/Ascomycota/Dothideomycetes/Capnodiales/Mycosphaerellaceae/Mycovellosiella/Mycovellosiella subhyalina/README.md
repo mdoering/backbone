@@ -1,17 +1,16 @@
-Mycovellosiella subhyalineae S.K. Singh & P.N. Singh SPECIES
-=======
+# Mycovellosiella subhyalina S.K. Singh & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Singh, Singh & Mishra, Indian Phytopath. 57(2): 156 (2004)
 
 #### Original name
-Mycovellosiella subhyalineae S.K. Singh & P.N. Singh
+Mycovellosiella subhyalina S.K. Singh & P.N. Singh
 
 ### Remarks
 null

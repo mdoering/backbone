@@ -1,5 +1,4 @@
-Coleosporium knoxiae (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Coleosporium knoxiae (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

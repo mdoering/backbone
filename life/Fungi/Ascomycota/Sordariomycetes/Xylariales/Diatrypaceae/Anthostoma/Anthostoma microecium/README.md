@@ -1,5 +1,4 @@
-Anthostoma microecium Ellis & Everh. SPECIES
-=======
+# Anthostoma microecium Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

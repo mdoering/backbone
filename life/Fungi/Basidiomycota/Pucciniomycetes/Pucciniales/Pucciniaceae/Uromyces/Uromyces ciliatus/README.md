@@ -1,5 +1,4 @@
-Uromyces ciliatus Kom. SPECIES
-=======
+# Uromyces ciliatus Kom. SPECIES
 
 #### Status
 ACCEPTED

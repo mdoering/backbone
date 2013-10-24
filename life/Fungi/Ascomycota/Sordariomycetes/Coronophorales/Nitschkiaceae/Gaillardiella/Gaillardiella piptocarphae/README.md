@@ -1,5 +1,4 @@
-Gaillardiella piptocarphae Rehm SPECIES
-=======
+# Gaillardiella piptocarphae Rehm SPECIES
 
 #### Status
 ACCEPTED

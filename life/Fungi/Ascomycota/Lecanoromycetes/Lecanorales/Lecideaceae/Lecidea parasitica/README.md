@@ -1,5 +1,4 @@
-Lecidea parasitica ß parasitica Flörke SPECIES
-=======
+# Lecidea parasitica ß parasitica Flörke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syzygospora bachmannii Diederich & M.S. Christ., 1996 SPECIES
-=======
+# Syzygospora bachmannii Diederich & M.S. Christ., 1996 SPECIES
 
 #### Status
 ACCEPTED

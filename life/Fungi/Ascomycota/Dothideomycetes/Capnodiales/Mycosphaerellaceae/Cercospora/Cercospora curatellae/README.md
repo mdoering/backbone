@@ -1,5 +1,4 @@
-Cercospora curatellae Syd. SPECIES
-=======
+# Cercospora curatellae Syd. SPECIES
 
 #### Status
 ACCEPTED

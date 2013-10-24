@@ -1,5 +1,4 @@
-Hendersonia castaneicola Delacr. SPECIES
-=======
+# Hendersonia castaneicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

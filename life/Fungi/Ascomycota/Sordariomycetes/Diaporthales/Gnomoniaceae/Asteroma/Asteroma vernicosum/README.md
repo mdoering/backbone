@@ -1,5 +1,4 @@
-Asteroma vernicosum (DC.) Fuckel SPECIES
-=======
+# Asteroma vernicosum (DC.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

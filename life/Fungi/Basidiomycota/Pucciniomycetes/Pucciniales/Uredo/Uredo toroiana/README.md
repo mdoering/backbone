@@ -1,5 +1,4 @@
-Uredo toroiana F. Kern SPECIES
-=======
+# Uredo toroiana F. Kern SPECIES
 
 #### Status
 ACCEPTED

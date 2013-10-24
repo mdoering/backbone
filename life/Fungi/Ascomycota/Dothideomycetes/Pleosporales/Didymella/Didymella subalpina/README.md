@@ -1,5 +1,4 @@
-Didymella subalpina Rehm SPECIES
-=======
+# Didymella subalpina Rehm SPECIES
 
 #### Status
 ACCEPTED

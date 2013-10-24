@@ -1,5 +1,4 @@
-Amphorella punctostriata Daday, 1887 SPECIES
-=======
+# Amphorella punctostriata Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

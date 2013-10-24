@@ -1,5 +1,4 @@
-Hemicorynespora mitrata (Penz. & Sacc.) M.B. Ellis SPECIES
-=======
+# Hemicorynespora mitrata (Penz. & Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

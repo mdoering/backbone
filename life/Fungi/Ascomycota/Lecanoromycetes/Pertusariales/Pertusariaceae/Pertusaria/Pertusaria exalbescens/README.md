@@ -1,5 +1,4 @@
-Pertusaria exalbescens Nyl. SPECIES
-=======
+# Pertusaria exalbescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

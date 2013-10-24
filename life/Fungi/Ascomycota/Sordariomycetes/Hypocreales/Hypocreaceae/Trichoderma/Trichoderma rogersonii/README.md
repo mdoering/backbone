@@ -1,5 +1,4 @@
-Trichoderma rogersonii Samuels SPECIES
-=======
+# Trichoderma rogersonii Samuels SPECIES
 
 #### Status
 ACCEPTED

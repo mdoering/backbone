@@ -1,5 +1,4 @@
-Quinqueloculina pulchella SPECIES
-=======
+# Quinqueloculina pulchella SPECIES
 
 #### Status
 ACCEPTED

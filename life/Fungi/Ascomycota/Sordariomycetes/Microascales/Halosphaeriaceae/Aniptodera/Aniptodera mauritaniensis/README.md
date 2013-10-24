@@ -1,5 +1,4 @@
-Aniptodera mauritaniensis K.D. Hyde, W.H. Ho & K.M. Tsui SPECIES
-=======
+# Aniptodera mauritaniensis K.D. Hyde, W.H. Ho & K.M. Tsui SPECIES
 
 #### Status
 ACCEPTED

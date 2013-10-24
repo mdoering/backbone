@@ -1,5 +1,4 @@
-Umbilicaria papulosa (Ach.) Nyl. SPECIES
-=======
+# Umbilicaria papulosa (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Griphosphaeria gmelinae J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Griphosphaeria gmelinae J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia vexans Zahlbr. SPECIES
-=======
+# Parmelia vexans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

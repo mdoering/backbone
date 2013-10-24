@@ -1,5 +1,4 @@
-Owenia partitum SPECIES
-=======
+# Owenia partitum SPECIES
 
 #### Status
 DOUBTFUL

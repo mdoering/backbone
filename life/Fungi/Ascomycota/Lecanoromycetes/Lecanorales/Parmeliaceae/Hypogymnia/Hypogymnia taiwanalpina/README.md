@@ -1,5 +1,4 @@
-Hypogymnia taiwanalpina M.J. Lai SPECIES
-=======
+# Hypogymnia taiwanalpina M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

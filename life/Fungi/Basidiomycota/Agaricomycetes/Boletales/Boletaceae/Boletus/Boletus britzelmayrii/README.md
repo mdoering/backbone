@@ -1,8 +1,7 @@
-Boletus britzelmayri Sacc. & Trotter SPECIES
-=======
+# Boletus britzelmayrii Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus britzelmayri Sacc. & Trotter
+Boletus britzelmayrii Sacc. & Trotter
 
 ### Remarks
 null

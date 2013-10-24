@@ -1,5 +1,4 @@
-Rhodophyllus verrucosus Thiers SPECIES
-=======
+# Rhodophyllus verrucosus Thiers SPECIES
 
 #### Status
 ACCEPTED

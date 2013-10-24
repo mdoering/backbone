@@ -1,5 +1,4 @@
-Ovulinata Anderson & Rogerson, 1997 GENUS
-=======
+# Ovulinata Anderson & Rogerson, 1997 GENUS
 
 #### Status
 ACCEPTED

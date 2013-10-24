@@ -1,5 +1,4 @@
-Sclerotium dryadum Heer SPECIES
-=======
+# Sclerotium dryadum Heer SPECIES
 
 #### Status
 ACCEPTED

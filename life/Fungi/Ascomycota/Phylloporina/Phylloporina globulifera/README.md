@@ -1,5 +1,4 @@
-Phylloporina globulifera (Vain.) SPECIES
-=======
+# Phylloporina globulifera (Vain.) SPECIES
 
 #### Status
 ACCEPTED

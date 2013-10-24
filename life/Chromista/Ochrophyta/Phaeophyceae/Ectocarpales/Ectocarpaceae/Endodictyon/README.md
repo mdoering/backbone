@@ -1,5 +1,4 @@
-Endodictyon H. Gran, 1897 GENUS
-=======
+# Endodictyon H. Gran, 1897 GENUS
 
 #### Status
 ACCEPTED

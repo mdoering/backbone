@@ -1,5 +1,4 @@
-Didymium ovoideum Nann.-Bremek., 1958 SPECIES
-=======
+# Didymium ovoideum Nann.-Bremek., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella erlangeae Bacc. SPECIES
-=======
+# Sphaerella erlangeae Bacc. SPECIES
 
 #### Status
 ACCEPTED

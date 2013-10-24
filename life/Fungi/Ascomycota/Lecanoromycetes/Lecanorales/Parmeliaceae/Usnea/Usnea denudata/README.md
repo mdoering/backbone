@@ -1,5 +1,4 @@
-Usnea denudata (Vain.) Räsänen SPECIES
-=======
+# Usnea denudata (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

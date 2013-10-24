@@ -1,5 +1,4 @@
-Capnodium crouanii Mont. SPECIES
-=======
+# Capnodium crouanii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelius dendrophilus Ehrenberg, 1853 SPECIES
-=======
+# Trachelius dendrophilus Ehrenberg, 1853 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo vilis (Syd.) J.W. Baxter SPECIES
-=======
+# Uredo vilis (Syd.) J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

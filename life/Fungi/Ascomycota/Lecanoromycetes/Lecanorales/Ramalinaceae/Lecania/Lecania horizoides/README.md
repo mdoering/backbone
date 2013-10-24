@@ -1,5 +1,4 @@
-Lecania horizoides Müll. Arg. SPECIES
-=======
+# Lecania horizoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

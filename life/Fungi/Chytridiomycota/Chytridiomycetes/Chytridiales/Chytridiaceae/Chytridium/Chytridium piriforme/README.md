@@ -1,5 +1,4 @@
-Chytridium piriforme Reinsch SPECIES
-=======
+# Chytridium piriforme Reinsch SPECIES
 
 #### Status
 ACCEPTED

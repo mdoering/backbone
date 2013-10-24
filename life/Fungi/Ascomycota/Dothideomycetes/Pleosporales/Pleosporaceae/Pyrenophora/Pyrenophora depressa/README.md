@@ -1,5 +1,4 @@
-Pyrenophora depressa f. depressa FORM
-=======
+# Pyrenophora depressa Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 11(3): 28 (1884)
 
 #### Original name
-Pyrenophora depressa f. depressa
+Pyrenophora depressa Peck
 
 ### Remarks
 null

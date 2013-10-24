@@ -1,5 +1,4 @@
-Aecidium rickii Syd. & P. Syd. SPECIES
-=======
+# Aecidium rickii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

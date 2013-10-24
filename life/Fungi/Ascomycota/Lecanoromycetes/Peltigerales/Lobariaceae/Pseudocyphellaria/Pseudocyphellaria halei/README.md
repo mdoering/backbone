@@ -1,5 +1,4 @@
-Pseudocyphellaria halei D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria halei D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

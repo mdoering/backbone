@@ -1,5 +1,4 @@
-Mesorhizobium plurifarium de Lajudie et al., 1998 SPECIES
-=======
+# Mesorhizobium plurifarium de Lajudie et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

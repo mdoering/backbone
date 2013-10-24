@@ -1,5 +1,4 @@
-Euplotes litoralis SPECIES
-=======
+# Euplotes litoralis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa reicheltii Richter SPECIES
-=======
+# Gloeocapsa reicheltii Richter SPECIES
 
 #### Status
 ACCEPTED

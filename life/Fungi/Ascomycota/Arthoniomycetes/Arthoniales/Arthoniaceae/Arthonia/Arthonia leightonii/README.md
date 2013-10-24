@@ -1,5 +1,4 @@
-Arthonia leightonii (A. Massal.) Hepp SPECIES
-=======
+# Arthonia leightonii (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

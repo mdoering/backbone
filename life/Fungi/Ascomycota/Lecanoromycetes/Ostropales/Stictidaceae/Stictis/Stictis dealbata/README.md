@@ -1,5 +1,4 @@
-Stictis dealbata P.R. Johnst. SPECIES
-=======
+# Stictis dealbata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

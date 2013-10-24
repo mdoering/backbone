@@ -1,5 +1,4 @@
-Boletus funerarius Massee SPECIES
-=======
+# Boletus funerarius Massee SPECIES
 
 #### Status
 ACCEPTED

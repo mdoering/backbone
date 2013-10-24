@@ -1,5 +1,4 @@
-Thalloidima caesiocandidum (Nyl.) SPECIES
-=======
+# Thalloidima caesiocandidum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

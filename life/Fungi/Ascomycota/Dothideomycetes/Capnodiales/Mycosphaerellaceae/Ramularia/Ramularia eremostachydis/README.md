@@ -1,5 +1,4 @@
-Ramularia eremostachydis Zaprom. SPECIES
-=======
+# Ramularia eremostachydis Zaprom. SPECIES
 
 #### Status
 ACCEPTED

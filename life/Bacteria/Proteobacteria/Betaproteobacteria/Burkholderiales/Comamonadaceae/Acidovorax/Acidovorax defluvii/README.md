@@ -1,5 +1,4 @@
-Acidovorax defluvii Schulze et al., 1999 SPECIES
-=======
+# Acidovorax defluvii Schulze et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

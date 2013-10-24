@@ -1,5 +1,4 @@
-Dactylospora glaucomarioides (Tuck.) Hafellner SPECIES
-=======
+# Dactylospora glaucomarioides (Tuck.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

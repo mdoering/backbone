@@ -1,5 +1,4 @@
-Impagidinium pallidum J. P. Bujak SPECIES
-=======
+# Impagidinium pallidum J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

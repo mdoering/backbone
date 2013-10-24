@@ -1,5 +1,4 @@
-Rhodotorula pilimanae J. Hedrick & Burke SPECIES
-=======
+# Rhodotorula pilimanae J. Hedrick & Burke SPECIES
 
 #### Status
 ACCEPTED

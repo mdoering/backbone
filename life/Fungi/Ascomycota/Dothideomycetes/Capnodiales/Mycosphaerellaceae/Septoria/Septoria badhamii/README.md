@@ -1,5 +1,4 @@
-Septoria badhamii Berk. & Broome SPECIES
-=======
+# Septoria badhamii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

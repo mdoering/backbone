@@ -1,5 +1,4 @@
-Tubosaeta aureocystis M. Zang, 2001 SPECIES
-=======
+# Tubosaeta aureocystis M. Zang, 2001 SPECIES
 
 #### Status
 ACCEPTED

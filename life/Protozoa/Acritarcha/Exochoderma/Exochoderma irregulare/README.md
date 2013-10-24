@@ -1,5 +1,4 @@
-Exochoderma irregulare Wicander, 1974 SPECIES
-=======
+# Exochoderma irregulare Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

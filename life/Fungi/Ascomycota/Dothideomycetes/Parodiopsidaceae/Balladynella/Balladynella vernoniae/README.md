@@ -1,5 +1,4 @@
-Balladynella vernoniae Hansf. SPECIES
-=======
+# Balladynella vernoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

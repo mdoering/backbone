@@ -1,5 +1,4 @@
-Poteriochroomonas stipitata Scherffel SPECIES
-=======
+# Poteriochroomonas stipitata Scherffel SPECIES
 
 #### Status
 ACCEPTED

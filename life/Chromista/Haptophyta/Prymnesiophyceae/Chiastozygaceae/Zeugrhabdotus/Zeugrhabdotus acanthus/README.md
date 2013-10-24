@@ -1,5 +1,4 @@
-Zeugrhabdotus acanthus Reinhardt, 1965 SPECIES
-=======
+# Zeugrhabdotus acanthus Reinhardt, 1965 SPECIES
 
 #### Status
 ACCEPTED

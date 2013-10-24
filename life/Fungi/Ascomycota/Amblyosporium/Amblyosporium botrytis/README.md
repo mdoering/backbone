@@ -1,5 +1,4 @@
-Amblyosporium botrytis Fresen., 1863 SPECIES
-=======
+# Amblyosporium botrytis Fresen., 1863 SPECIES
 
 #### Status
 ACCEPTED

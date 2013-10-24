@@ -1,5 +1,4 @@
-Diporicellaesporites scalaris Kalgutkar SPECIES
-=======
+# Diporicellaesporites scalaris Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

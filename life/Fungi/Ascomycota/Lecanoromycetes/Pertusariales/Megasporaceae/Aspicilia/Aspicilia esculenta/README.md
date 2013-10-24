@@ -1,5 +1,4 @@
-Aspicilia esculenta (Pall.) Flagey SPECIES
-=======
+# Aspicilia esculenta (Pall.) Flagey SPECIES
 
 #### Status
 ACCEPTED

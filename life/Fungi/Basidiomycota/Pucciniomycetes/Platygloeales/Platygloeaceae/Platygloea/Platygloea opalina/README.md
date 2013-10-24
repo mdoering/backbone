@@ -1,5 +1,4 @@
-Platygloea opalina P.H.B. Talbot SPECIES
-=======
+# Platygloea opalina P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

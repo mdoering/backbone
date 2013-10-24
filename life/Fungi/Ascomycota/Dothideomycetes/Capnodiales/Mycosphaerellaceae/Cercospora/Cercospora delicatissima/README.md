@@ -1,5 +1,4 @@
-Cercospora delicatissima Kalchbr. & Cooke SPECIES
-=======
+# Cercospora delicatissima Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta trilliicola Togashi SPECIES
-=======
+# Phyllosticta trilliicola Togashi SPECIES
 
 #### Status
 ACCEPTED

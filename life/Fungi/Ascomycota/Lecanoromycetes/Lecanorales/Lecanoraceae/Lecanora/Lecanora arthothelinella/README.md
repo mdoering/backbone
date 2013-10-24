@@ -1,5 +1,4 @@
-Lecanora arthothelinella Lumbsch SPECIES
-=======
+# Lecanora arthothelinella Lumbsch SPECIES
 
 #### Status
 ACCEPTED

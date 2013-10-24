@@ -1,5 +1,4 @@
-Bacidia stanhopiae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia stanhopiae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

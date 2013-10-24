@@ -1,5 +1,4 @@
-Pyrenula confinis (Nyl.) R.C. Harris, 1995 SPECIES
-=======
+# Pyrenula confinis (Nyl.) R.C. Harris, 1995 SPECIES
 
 #### Status
 DOUBTFUL

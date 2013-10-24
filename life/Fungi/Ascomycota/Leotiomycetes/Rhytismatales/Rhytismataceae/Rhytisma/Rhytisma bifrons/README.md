@@ -1,5 +1,4 @@
-Rhytisma bifrons Schwein. SPECIES
-=======
+# Rhytisma bifrons Schwein. SPECIES
 
 #### Status
 ACCEPTED

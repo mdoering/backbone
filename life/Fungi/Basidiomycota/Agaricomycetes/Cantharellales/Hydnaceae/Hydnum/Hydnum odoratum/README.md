@@ -1,5 +1,4 @@
-Hydnum odoratum Velen. SPECIES
-=======
+# Hydnum odoratum Velen. SPECIES
 
 #### Status
 ACCEPTED

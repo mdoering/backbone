@@ -1,5 +1,4 @@
-Resticularia boodlei Fritsch SPECIES
-=======
+# Resticularia boodlei Fritsch SPECIES
 
 #### Status
 ACCEPTED

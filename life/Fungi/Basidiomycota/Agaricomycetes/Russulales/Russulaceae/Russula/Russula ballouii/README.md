@@ -1,5 +1,4 @@
-Russula ballouii Peck SPECIES
-=======
+# Russula ballouii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterostoma myrtorum Theiss. SPECIES
-=======
+# Hysterostoma myrtorum Theiss. SPECIES
 
 #### Status
 ACCEPTED

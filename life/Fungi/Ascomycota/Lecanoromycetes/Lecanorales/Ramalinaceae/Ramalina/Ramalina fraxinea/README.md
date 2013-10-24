@@ -1,17 +1,16 @@
-Ramalina fraxinea subsp. fraxinea SUBSPECIES
-=======
+# Ramalina fraxinea (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 296 (1810)
+Lich. univ. 622 (1810)
 
 #### Original name
-Lichen fraxineus L.
+Ramalina calicaris var. pseudocyphellata Räsänen
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Guignardia morindae (Koord.) Aa, 1973 SPECIES
-=======
+# Puiggarina morindae (Koord.) Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 5: 69 (1973)
+Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
 
 #### Original name
 Physalospora morindae Koord., 1907

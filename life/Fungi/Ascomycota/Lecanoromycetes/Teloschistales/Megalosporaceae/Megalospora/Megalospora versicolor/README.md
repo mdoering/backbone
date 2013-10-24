@@ -1,17 +1,16 @@
-Megalospora versicolor var. versicolor VARIETY
-=======
+# Megalospora versicolor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 134 (1905)
+null
 
 #### Original name
-Megalospora versicolor var. versicolor
+null
 
 ### Remarks
 null

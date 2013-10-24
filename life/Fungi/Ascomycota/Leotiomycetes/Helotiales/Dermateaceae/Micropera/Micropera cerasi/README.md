@@ -1,5 +1,4 @@
-Micropera cerasi Sacc. SPECIES
-=======
+# Micropera cerasi Sacc. SPECIES
 
 #### Status
 ACCEPTED

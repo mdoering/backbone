@@ -1,5 +1,4 @@
-Thelidium halodytes f. halodytes FORM
-=======
+# Thelidium halodytes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium halodytes f. halodytes
+null
 
 ### Remarks
 null

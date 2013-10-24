@@ -1,5 +1,4 @@
-Lecanora ramulicola (H. Magn.) Printzen & P.F. May SPECIES
-=======
+# Lecanora ramulicola (H. Magn.) Printzen & P.F. May SPECIES
 
 #### Status
 ACCEPTED

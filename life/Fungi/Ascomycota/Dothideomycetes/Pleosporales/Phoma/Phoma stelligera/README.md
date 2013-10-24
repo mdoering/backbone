@@ -1,5 +1,4 @@
-Phoma stelligera Mont. SPECIES
-=======
+# Phoma stelligera Mont. SPECIES
 
 #### Status
 ACCEPTED

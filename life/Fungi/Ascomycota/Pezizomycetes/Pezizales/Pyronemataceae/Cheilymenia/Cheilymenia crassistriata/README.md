@@ -1,5 +1,4 @@
-Cheilymenia crassistriata (J. Moravec) J. Moravec SPECIES
-=======
+# Cheilymenia crassistriata (J. Moravec) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

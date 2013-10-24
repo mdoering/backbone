@@ -1,5 +1,4 @@
-Lophosphaeridium venkatachalae Fensome et al., 1990 SPECIES
-=======
+# Lophosphaeridium venkatachalae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

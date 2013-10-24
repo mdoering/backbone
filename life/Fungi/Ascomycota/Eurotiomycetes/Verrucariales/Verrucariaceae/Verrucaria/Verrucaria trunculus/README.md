@@ -1,5 +1,4 @@
-Verrucaria trunculus Stizenb. SPECIES
-=======
+# Verrucaria trunculus Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria sorosia Lév. SPECIES
-=======
+# Sphaeria sorosia Lév. SPECIES
 
 #### Status
 ACCEPTED

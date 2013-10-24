@@ -1,5 +1,4 @@
-Rhizocarpon merloënse Räsänen SPECIES
-=======
+# Rhizocarpon merloënse Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiparvex Garg & Jain, 1978 GENUS
-=======
+# Amphiparvex Garg & Jain, 1978 GENUS
 
 #### Status
 ACCEPTED

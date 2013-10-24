@@ -1,5 +1,4 @@
-Aspicilia fluviatilis A. Nordin & Owe-Larss. SPECIES
-=======
+# Aspicilia fluviatilis A. Nordin & Owe-Larss. SPECIES
 
 #### Status
 ACCEPTED

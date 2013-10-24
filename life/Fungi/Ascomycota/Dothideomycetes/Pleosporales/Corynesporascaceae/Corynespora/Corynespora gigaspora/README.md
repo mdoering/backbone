@@ -1,5 +1,4 @@
-Corynespora gigaspora var. microspora Munjal & H.S. Gill VARIETY
-=======
+# Corynespora gigaspora (Berk. & Broome) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Indian Phytopath. , Suppl. Issue 15(3-4): 273 (1963)
+Mycol. Pap. 65: 7 (1957)
 
 #### Original name
-Corynespora gigaspora var. microspora Munjal & H.S. Gill
+Helminthosporium gigasporum Shirouzu & Y. Harada
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Geoglossum farlowii Cooke SPECIES
-=======
+# Geoglossum farlowii Cooke SPECIES
 
 #### Status
 ACCEPTED

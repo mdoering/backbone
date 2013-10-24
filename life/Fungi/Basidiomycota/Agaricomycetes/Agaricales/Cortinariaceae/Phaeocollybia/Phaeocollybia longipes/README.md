@@ -1,5 +1,4 @@
-Phaeocollybia longipes E. Horak, 1973 SPECIES
-=======
+# Phaeocollybia longipes E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

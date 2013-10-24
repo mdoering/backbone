@@ -1,5 +1,4 @@
-Entyloma chelidonii Cif. SPECIES
-=======
+# Entyloma chelidonii Cif. SPECIES
 
 #### Status
 ACCEPTED

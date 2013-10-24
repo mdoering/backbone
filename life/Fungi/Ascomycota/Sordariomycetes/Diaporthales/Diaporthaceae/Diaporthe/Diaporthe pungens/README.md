@@ -1,5 +1,4 @@
-Diaporthe pungens Nitschke, 1870 SPECIES
-=======
+# Diaporthe pungens Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

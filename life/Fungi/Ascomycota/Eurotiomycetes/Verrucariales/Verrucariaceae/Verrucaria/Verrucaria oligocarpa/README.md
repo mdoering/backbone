@@ -1,5 +1,4 @@
-Verrucaria oligocarpa Servít SPECIES
-=======
+# Verrucaria oligocarpa Servít SPECIES
 
 #### Status
 ACCEPTED

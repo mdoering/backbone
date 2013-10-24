@@ -1,14 +1,13 @@
-Russula delica var. chloroides (Krombh.) Killerm., 1936 VARIETY
-=======
+# Russula chloroides (Krombh.) Bres., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fung. trident. 2: 89 (1900)
 
 #### Original name
 Agaricus chloroides Krombh., 1843

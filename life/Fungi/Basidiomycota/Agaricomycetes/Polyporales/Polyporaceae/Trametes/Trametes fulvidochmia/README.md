@@ -1,5 +1,4 @@
-Trametes fulvidochmia Corner SPECIES
-=======
+# Trametes fulvidochmia Corner SPECIES
 
 #### Status
 ACCEPTED

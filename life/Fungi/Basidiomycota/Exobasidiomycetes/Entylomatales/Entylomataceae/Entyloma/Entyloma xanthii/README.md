@@ -1,5 +1,4 @@
-Entyloma xanthii Massee SPECIES
-=======
+# Entyloma xanthii Massee SPECIES
 
 #### Status
 ACCEPTED

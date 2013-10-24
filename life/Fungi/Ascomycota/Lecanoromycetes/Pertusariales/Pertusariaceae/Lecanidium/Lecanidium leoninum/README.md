@@ -1,5 +1,4 @@
-Lecanidium leoninum (Stizenb.) C.W. Dodge SPECIES
-=======
+# Lecanidium leoninum (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coemansia furcata Kurihara, Tokum. & C.Y. Chien, 2000 SPECIES
-=======
+# Coemansia furcata Kurihara, Tokum. & C.Y. Chien, 2000 SPECIES
 
 #### Status
 ACCEPTED

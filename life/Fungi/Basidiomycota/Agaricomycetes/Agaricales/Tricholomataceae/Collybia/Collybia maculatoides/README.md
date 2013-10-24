@@ -1,5 +1,4 @@
-Collybia maculatoides A. Pearson SPECIES
-=======
+# Collybia maculatoides A. Pearson SPECIES
 
 #### Status
 ACCEPTED

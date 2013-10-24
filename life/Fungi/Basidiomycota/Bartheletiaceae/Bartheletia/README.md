@@ -1,5 +1,4 @@
-Bartheletia G. Arnaud ex Scheuer, R. Bauer, M. Lutz, Stabenth., Melnik & Grube GENUS
-=======
+# Bartheletia G. Arnaud ex Scheuer, R. Bauer, M. Lutz, Stabenth., Melnik & Grube GENUS
 
 #### Status
 ACCEPTED

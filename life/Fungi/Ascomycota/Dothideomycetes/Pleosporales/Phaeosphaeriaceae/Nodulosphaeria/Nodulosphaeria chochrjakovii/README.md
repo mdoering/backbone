@@ -1,5 +1,4 @@
-Nodulosphaeria chochrjakovii Lar.N. Vassiljeva SPECIES
-=======
+# Nodulosphaeria chochrjakovii Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

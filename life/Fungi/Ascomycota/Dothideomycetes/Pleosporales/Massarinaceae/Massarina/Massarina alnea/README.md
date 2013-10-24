@@ -1,5 +1,4 @@
-Massarina alnea (Peck) L. Holm SPECIES
-=======
+# Massarina alnea (Peck) L. Holm SPECIES
 
 #### Status
 ACCEPTED

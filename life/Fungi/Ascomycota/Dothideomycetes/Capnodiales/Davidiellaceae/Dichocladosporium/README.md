@@ -1,5 +1,4 @@
-Dichocladosporium K. Schub., U. Braun & Crous GENUS
-=======
+# Dichocladosporium K. Schub., U. Braun & Crous GENUS
 
 #### Status
 ACCEPTED

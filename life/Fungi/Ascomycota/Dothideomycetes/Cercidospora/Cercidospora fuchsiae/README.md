@@ -1,5 +1,4 @@
-Cercidospora fuchsiae (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Cercidospora fuchsiae (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

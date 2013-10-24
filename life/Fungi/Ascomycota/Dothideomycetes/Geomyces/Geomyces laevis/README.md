@@ -1,5 +1,4 @@
-Geomyces laevis Zhong Q. Li & C.Q. Cui SPECIES
-=======
+# Geomyces laevis Zhong Q. Li & C.Q. Cui SPECIES
 
 #### Status
 ACCEPTED

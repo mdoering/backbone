@@ -1,8 +1,7 @@
-Pseudomonas beijerinckii Hof, 1935 (Approved Lists, 1980) SPECIES
-=======
+# Chromohalobacter beijerinckii (Hof, 1935) Peçonek et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

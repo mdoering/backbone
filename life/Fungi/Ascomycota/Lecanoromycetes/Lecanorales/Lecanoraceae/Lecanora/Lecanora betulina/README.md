@@ -1,5 +1,4 @@
-Lecanora betulina Röhl. SPECIES
-=======
+# Lecanora betulina Röhl. SPECIES
 
 #### Status
 ACCEPTED

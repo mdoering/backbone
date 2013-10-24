@@ -1,17 +1,16 @@
-Schizopora phellinoides f. phellinoides FORM
-=======
+# Schizopora carneolutea (Rodway & Cleland) Kotl. & Pouzar, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Bot. Pol. 38(2): 255 (1969)
+Ceská Mykol. 33(1): 21 (1979)
 
 #### Original name
-Schizopora phellinoides f. phellinoides
+Poria carneolutea Rodway & Cleland, 1929
 
 ### Remarks
 null

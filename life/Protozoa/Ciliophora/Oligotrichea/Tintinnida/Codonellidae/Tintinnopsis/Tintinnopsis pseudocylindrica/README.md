@@ -1,5 +1,4 @@
-Tintinnopsis pseudocylindrica SPECIES
-=======
+# Tintinnopsis pseudocylindrica SPECIES
 
 #### Status
 ACCEPTED

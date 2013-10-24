@@ -1,5 +1,4 @@
-Clasterosporium hirudinoides Peyronel SPECIES
-=======
+# Clasterosporium hirudinoides Peyronel SPECIES
 
 #### Status
 ACCEPTED

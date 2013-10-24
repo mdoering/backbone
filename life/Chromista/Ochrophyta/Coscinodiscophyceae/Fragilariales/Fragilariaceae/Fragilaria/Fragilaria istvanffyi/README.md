@@ -1,8 +1,7 @@
-Fragilaria inflata var. istvanffyi (Pantocsek) Hustedt, 1931 VARIETY
-=======
+# Fragilaria istvanffyi Pantocsek, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

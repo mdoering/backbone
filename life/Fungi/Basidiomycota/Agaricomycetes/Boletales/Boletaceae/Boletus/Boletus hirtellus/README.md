@@ -1,5 +1,4 @@
-Boletus hirtellus Peck SPECIES
-=======
+# Boletus hirtellus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora spadicea (Ach.) SPECIES
-=======
+# Biatora spadicea (Ach.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocsia alvari Herrera-Camp. & Lücking SPECIES
-=======
+# Pocsia alvari Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

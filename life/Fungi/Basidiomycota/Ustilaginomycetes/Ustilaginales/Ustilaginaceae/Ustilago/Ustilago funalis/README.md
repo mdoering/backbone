@@ -1,5 +1,4 @@
-Ustilago funalis Ellis & Everh. SPECIES
-=======
+# Ustilago funalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

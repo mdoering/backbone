@@ -1,5 +1,4 @@
-Phyllostictella coniothyrioides (Sacc.) Tassi SPECIES
-=======
+# Phyllostictella coniothyrioides (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

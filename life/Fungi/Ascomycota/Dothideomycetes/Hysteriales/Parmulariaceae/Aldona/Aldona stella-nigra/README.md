@@ -1,5 +1,4 @@
-Aldona stella-nigra Racib., 1900 SPECIES
-=======
+# Aldona stella-nigra Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

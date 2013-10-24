@@ -1,5 +1,4 @@
-Phlegmacium glutinosum Velen. SPECIES
-=======
+# Phlegmacium glutinosum Velen. SPECIES
 
 #### Status
 ACCEPTED

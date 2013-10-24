@@ -1,5 +1,4 @@
-Lecidea pusilla B. de Lesd. SPECIES
-=======
+# Lecidea pusilla B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

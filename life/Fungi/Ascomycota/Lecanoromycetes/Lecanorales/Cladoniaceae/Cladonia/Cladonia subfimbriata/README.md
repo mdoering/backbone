@@ -1,5 +1,4 @@
-Cladonia subfimbriata Ahti SPECIES
-=======
+# Cladonia subfimbriata Ahti SPECIES
 
 #### Status
 ACCEPTED

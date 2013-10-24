@@ -1,5 +1,4 @@
-Otthia selaginellae (Racib.) Höhn. SPECIES
-=======
+# Otthia selaginellae (Racib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

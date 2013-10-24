@@ -1,5 +1,4 @@
-Sorosporium purpureum (Hazsl.) Liro SPECIES
-=======
+# Sorosporium purpureum (Hazsl.) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiovalsa quercus (Allesch.) Petr. SPECIES
-=======
+# Ophiovalsa quercus (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

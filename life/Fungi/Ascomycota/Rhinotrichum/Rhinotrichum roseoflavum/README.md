@@ -1,5 +1,4 @@
-Rhinotrichum roseoflavum Svilv. SPECIES
-=======
+# Rhinotrichum roseoflavum Svilv. SPECIES
 
 #### Status
 ACCEPTED

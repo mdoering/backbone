@@ -1,5 +1,4 @@
-Sphaerella perseae (Miles) Sacc. SPECIES
-=======
+# Sphaerella perseae (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

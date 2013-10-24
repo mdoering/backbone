@@ -1,5 +1,4 @@
-Ustilago scaura Liro SPECIES
-=======
+# Ustilago scaura Liro SPECIES
 
 #### Status
 ACCEPTED

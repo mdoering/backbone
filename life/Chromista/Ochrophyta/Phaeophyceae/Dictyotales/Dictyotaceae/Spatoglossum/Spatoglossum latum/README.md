@@ -1,5 +1,4 @@
-Spatoglossum latum J.Tanaka SPECIES
-=======
+# Spatoglossum latum J.Tanaka SPECIES
 
 #### Status
 ACCEPTED

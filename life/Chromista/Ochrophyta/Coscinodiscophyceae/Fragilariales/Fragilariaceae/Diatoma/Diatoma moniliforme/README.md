@@ -1,5 +1,4 @@
-Diatoma moniliforme Kützing SPECIES
-=======
+# Diatoma moniliforme Kützing SPECIES
 
 #### Status
 ACCEPTED

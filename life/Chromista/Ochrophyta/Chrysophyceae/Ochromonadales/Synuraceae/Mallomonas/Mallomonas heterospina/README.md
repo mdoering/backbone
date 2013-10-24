@@ -1,5 +1,4 @@
-Mallomonas heterospina Lund SPECIES
-=======
+# Mallomonas heterospina Lund SPECIES
 
 #### Status
 ACCEPTED

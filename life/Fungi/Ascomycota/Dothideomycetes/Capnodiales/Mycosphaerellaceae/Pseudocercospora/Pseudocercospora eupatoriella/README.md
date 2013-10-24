@@ -1,5 +1,4 @@
-Pseudocercospora eupatoriella Crous & Den Breeÿen SPECIES
-=======
+# Pseudocercospora eupatoriella Crous & Den Breeÿen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pulviscula Cooke SPECIES
-=======
+# Peziza pulviscula Cooke SPECIES
 
 #### Status
 ACCEPTED

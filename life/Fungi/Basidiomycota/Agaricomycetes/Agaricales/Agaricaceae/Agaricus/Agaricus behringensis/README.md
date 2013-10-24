@@ -1,5 +1,4 @@
-Agaricus behringensis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus behringensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

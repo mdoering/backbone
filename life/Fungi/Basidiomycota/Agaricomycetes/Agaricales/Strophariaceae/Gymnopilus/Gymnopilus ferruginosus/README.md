@@ -1,5 +1,4 @@
-Gymnopilus ferruginosus B.J. Rees SPECIES
-=======
+# Gymnopilus ferruginosus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

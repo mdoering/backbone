@@ -1,5 +1,4 @@
-Pycnoporus palibini P. Karst. SPECIES
-=======
+# Pycnoporus palibini P. Karst. SPECIES
 
 #### Status
 ACCEPTED

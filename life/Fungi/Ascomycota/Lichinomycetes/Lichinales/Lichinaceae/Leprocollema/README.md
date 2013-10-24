@@ -1,5 +1,4 @@
-Leprocollema Vain. GENUS
-=======
+# Leprocollema Vain. GENUS
 
 #### Status
 ACCEPTED

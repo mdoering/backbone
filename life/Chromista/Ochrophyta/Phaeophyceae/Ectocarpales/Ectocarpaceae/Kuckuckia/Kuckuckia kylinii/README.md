@@ -1,5 +1,4 @@
-Kuckuckia kylinii Cardinal SPECIES
-=======
+# Kuckuckia kylinii Cardinal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bodo mutabilis Klebs SPECIES
-=======
+# Bodo mutabilis Klebs SPECIES
 
 #### Status
 ACCEPTED

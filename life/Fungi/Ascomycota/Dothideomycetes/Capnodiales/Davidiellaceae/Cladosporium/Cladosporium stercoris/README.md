@@ -1,5 +1,4 @@
-Cladosporium stercoris Speg. SPECIES
-=======
+# Cladosporium stercoris Speg. SPECIES
 
 #### Status
 ACCEPTED

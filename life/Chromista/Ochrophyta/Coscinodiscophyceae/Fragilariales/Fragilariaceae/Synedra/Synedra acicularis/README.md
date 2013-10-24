@@ -1,5 +1,4 @@
-Synedra acicularis W. Smith SPECIES
-=======
+# Synedra acicularis W. Smith SPECIES
 
 #### Status
 ACCEPTED

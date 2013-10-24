@@ -1,5 +1,4 @@
-Irenina perseae F. Stevens SPECIES
-=======
+# Irenina perseae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

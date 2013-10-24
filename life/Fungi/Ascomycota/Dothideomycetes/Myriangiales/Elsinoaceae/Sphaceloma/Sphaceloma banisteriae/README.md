@@ -1,5 +1,4 @@
-Sphaceloma banisteriae Viégas SPECIES
-=======
+# Sphaceloma banisteriae Viégas SPECIES
 
 #### Status
 ACCEPTED

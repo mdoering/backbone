@@ -1,5 +1,4 @@
-Leptosphaeria fungicola G. Winter SPECIES
-=======
+# Leptosphaeria fungicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

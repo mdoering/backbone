@@ -1,5 +1,4 @@
-Megalospora dichroma (Fée) Zahlbr. SPECIES
-=======
+# Megalospora dichroma (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meandrospira washitensis Loeblich & Tappan, 1946 SPECIES
-=======
+# Meandrospira washitensis Loeblich & Tappan, 1946 SPECIES
 
 #### Status
 ACCEPTED

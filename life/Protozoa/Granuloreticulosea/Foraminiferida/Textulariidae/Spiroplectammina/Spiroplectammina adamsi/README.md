@@ -1,5 +1,4 @@
-Spiroplectammina adamsi Lalicker SPECIES
-=======
+# Spiroplectammina adamsi Lalicker SPECIES
 
 #### Status
 ACCEPTED

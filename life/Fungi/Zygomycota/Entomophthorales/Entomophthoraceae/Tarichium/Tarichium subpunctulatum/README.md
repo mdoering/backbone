@@ -1,5 +1,4 @@
-Tarichium subpunctulatum Balazy SPECIES
-=======
+# Tarichium subpunctulatum Balazy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium herniariae Sacc. SPECIES
-=======
+# Helminthosporium herniariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

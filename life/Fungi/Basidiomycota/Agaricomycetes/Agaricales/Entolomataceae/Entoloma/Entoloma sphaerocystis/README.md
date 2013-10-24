@@ -1,5 +1,4 @@
-Entoloma sphaerocystis Noordel. SPECIES
-=======
+# Entoloma sphaerocystis Noordel. SPECIES
 
 #### Status
 ACCEPTED

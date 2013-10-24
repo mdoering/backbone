@@ -1,5 +1,4 @@
-Stereum pekinense Imazeki SPECIES
-=======
+# Stereum pekinense Imazeki SPECIES
 
 #### Status
 ACCEPTED

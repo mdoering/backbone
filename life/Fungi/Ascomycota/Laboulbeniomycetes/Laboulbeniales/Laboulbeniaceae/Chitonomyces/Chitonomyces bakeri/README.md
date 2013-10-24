@@ -1,5 +1,4 @@
-Chitonomyces bakeri Thaxt. SPECIES
-=======
+# Chitonomyces bakeri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

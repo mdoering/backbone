@@ -1,5 +1,4 @@
-Panaeolina sagarae Hongo SPECIES
-=======
+# Panaeolina sagarae Hongo SPECIES
 
 #### Status
 ACCEPTED

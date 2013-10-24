@@ -1,5 +1,4 @@
-Massaria platanioides Rehm SPECIES
-=======
+# Massaria platanioides Rehm SPECIES
 
 #### Status
 ACCEPTED

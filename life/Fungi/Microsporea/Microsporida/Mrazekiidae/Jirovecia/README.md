@@ -1,5 +1,4 @@
-Jirovecia J. Weiser GENUS
-=======
+# Jirovecia J. Weiser GENUS
 
 #### Status
 ACCEPTED

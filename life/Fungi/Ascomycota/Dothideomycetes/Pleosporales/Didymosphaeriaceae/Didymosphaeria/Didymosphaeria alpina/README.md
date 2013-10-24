@@ -1,5 +1,4 @@
-Didymosphaeria alpina Hazsl. SPECIES
-=======
+# Didymosphaeria alpina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

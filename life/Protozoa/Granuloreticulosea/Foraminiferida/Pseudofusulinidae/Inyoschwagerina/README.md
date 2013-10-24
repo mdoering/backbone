@@ -1,5 +1,4 @@
-Inyoschwagerina Stevens & Stone, 2009 GENUS
-=======
+# Inyoschwagerina Stevens & Stone, 2009 GENUS
 
 #### Status
 ACCEPTED

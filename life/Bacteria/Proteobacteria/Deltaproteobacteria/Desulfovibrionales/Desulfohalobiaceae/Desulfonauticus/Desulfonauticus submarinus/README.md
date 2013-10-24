@@ -1,5 +1,4 @@
-Desulfonauticus submarinus Audiffrin et al., 2003 SPECIES
-=======
+# Desulfonauticus submarinus Audiffrin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parathelohania legeri (E. Hesse) Codreanu SPECIES
-=======
+# Parathelohania legeri (E. Hesse) Codreanu SPECIES
 
 #### Status
 ACCEPTED

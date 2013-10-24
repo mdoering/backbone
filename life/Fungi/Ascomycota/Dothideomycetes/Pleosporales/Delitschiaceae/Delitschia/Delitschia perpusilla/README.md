@@ -1,5 +1,4 @@
-Delitschia perpusilla Speg., 1898 SPECIES
-=======
+# Delitschia perpusilla Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

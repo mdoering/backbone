@@ -1,5 +1,4 @@
-Buellia amphidexica Tuck. SPECIES
-=======
+# Buellia amphidexica Tuck. SPECIES
 
 #### Status
 ACCEPTED

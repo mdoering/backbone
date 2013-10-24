@@ -1,5 +1,4 @@
-Ophiobolus euphorbiae Tilak & Srinivasulu SPECIES
-=======
+# Ophiobolus euphorbiae Tilak & Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

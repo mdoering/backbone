@@ -1,5 +1,4 @@
-Uromyces deciduus Peck SPECIES
-=======
+# Uromyces deciduus Peck SPECIES
 
 #### Status
 ACCEPTED

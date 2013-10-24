@@ -1,5 +1,4 @@
-Lecidea gibberosa Ach. SPECIES
-=======
+# Lecidea gibberosa Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella praeparva (Beltr. & Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella praeparva (Beltr. & Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

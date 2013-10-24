@@ -1,5 +1,4 @@
-Caloplaca mendax (Ohlert) Lettau SPECIES
-=======
+# Caloplaca mendax (Ohlert) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria sobolifera (Hill ex Watson) Sacc. SPECIES
-=======
+# Clavaria sobolifera (Hill ex Watson) Sacc. SPECIES
 
 #### Status
 ACCEPTED

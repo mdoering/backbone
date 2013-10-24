@@ -1,5 +1,4 @@
-Entoloma subconicum (Murrill) Hesler SPECIES
-=======
+# Entoloma subconicum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

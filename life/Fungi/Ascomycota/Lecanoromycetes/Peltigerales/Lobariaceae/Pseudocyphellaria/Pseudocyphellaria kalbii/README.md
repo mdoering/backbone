@@ -1,5 +1,4 @@
-Pseudocyphellaria kalbii D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria kalbii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

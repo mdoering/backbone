@@ -1,5 +1,4 @@
-Hapalosiphon subgelatinosus Gardner SPECIES
-=======
+# Hapalosiphon subgelatinosus Gardner SPECIES
 
 #### Status
 ACCEPTED

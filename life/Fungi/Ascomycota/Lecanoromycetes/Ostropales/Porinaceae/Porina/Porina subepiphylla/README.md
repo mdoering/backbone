@@ -1,5 +1,4 @@
-Porina subepiphylla var. subepiphylla Lücking & Vezda VARIETY
-=======
+# Porina subepiphylla Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Willdenowia 28(1/2): 217 (1998)
 
 #### Original name
-Porina subepiphylla var. subepiphylla Lücking & Vezda
+Porina subepiphylla Lücking & Vezda
 
 ### Remarks
 null

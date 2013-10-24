@@ -1,5 +1,4 @@
-Hydnum ramosissimum L. Marchand & Courtois SPECIES
-=======
+# Hydnum ramosissimum L. Marchand & Courtois SPECIES
 
 #### Status
 ACCEPTED

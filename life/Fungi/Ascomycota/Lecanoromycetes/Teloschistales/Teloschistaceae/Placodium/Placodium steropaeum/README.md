@@ -1,5 +1,4 @@
-Placodium steropaeum SPECIES
-=======
+# Placodium steropaeum SPECIES
 
 #### Status
 ACCEPTED

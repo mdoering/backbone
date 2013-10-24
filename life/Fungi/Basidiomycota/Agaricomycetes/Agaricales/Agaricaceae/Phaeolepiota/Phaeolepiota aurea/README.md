@@ -1,17 +1,16 @@
-Togaria aurea var. aurea (Matt.) W.G. Sm. VARIETY
-=======
+# Phaeolepiota aurea (Matt.) Maire, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icones selectae Fungorum, <b>6</b> Texte general 6: 111 (1928)
 
 #### Original name
-Togaria aurea var. aurea (Matt.) W.G. Sm.
+Agaricus aureus (Pers.) Pers., 1801
 
 ### Remarks
 null

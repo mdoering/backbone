@@ -1,5 +1,4 @@
-Fusarium berkeleyi Berk. & Broome SPECIES
-=======
+# Fusarium berkeleyi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

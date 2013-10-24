@@ -1,5 +1,4 @@
-Spiropes pirozynskii M.B. Ellis SPECIES
-=======
+# Spiropes pirozynskii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

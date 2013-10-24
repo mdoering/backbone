@@ -1,5 +1,4 @@
-Peltistromella brasiliensis Höhn., 1907 SPECIES
-=======
+# Peltistromella brasiliensis Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

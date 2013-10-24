@@ -1,5 +1,4 @@
-Chaetosphaeria nagatensis I. Hino & Katum. SPECIES
-=======
+# Chaetosphaeria nagatensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

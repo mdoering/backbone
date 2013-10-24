@@ -1,5 +1,4 @@
-Conocybe murinacea Watling, 1980 SPECIES
-=======
+# Conocybe murinacea Watling, 1980 SPECIES
 
 #### Status
 ACCEPTED

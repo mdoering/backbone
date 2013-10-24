@@ -1,5 +1,4 @@
-Phacidium poacitum A. Braun SPECIES
-=======
+# Phacidium poacitum A. Braun SPECIES
 
 #### Status
 ACCEPTED

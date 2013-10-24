@@ -1,5 +1,4 @@
-Sarcinella catharanthi Hosag. & H. Biju SPECIES
-=======
+# Sarcinella catharanthi Hosag. & H. Biju SPECIES
 
 #### Status
 ACCEPTED

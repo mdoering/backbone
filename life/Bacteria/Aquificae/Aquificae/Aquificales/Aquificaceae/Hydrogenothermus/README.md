@@ -1,5 +1,4 @@
-Hydrogenothermus Stohr, Waberski, Voelker, Tindall & Thomm, 2001 GENUS
-=======
+# Hydrogenothermus Stohr, Waberski, Voelker, Tindall & Thomm, 2001 GENUS
 
 #### Status
 ACCEPTED

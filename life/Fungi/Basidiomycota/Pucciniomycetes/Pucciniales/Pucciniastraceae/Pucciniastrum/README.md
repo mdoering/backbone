@@ -1,17 +1,16 @@
-Phragmopsora Magnus GENUS
-=======
+# Pucciniastrum G.H. Otth, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 14: 123 (1875)
+null
 
 #### Original name
-Phragmopsora Magnus
+null
 
 ### Remarks
 null

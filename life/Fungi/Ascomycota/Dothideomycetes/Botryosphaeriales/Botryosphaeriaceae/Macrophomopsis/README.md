@@ -1,5 +1,4 @@
-Macrophomopsis Petrak, 1924 GENUS
-=======
+# Macrophomopsis Petrak, 1924 GENUS
 
 #### Status
 ACCEPTED

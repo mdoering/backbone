@@ -1,5 +1,4 @@
-Lecidea subpallens Malme SPECIES
-=======
+# Lecidea subpallens Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenismatales M.W. Dick ORDER
-=======
+# Lagenismatales M.W. Dick ORDER
 
 #### Status
 ACCEPTED

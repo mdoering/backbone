@@ -1,5 +1,4 @@
-Phyllosticta paederiae (Petr.) Aa SPECIES
-=======
+# Phyllosticta paederiae (Petr.) Aa SPECIES
 
 #### Status
 ACCEPTED

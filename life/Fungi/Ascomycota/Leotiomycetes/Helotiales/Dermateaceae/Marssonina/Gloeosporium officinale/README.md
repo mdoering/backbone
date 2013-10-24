@@ -1,5 +1,4 @@
-Gloeosporium officinale Ellis & Everh. SPECIES
-=======
+# Gloeosporium officinale Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

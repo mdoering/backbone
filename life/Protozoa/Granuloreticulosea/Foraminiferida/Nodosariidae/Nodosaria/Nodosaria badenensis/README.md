@@ -1,5 +1,4 @@
-Nodosaria badenensis d'Orbigny SPECIES
-=======
+# Nodosaria badenensis d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

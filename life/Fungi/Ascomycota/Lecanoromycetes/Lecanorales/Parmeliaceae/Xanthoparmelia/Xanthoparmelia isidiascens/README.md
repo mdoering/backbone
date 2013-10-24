@@ -1,5 +1,4 @@
-Xanthoparmelia isidiascens Hale SPECIES
-=======
+# Xanthoparmelia isidiascens Hale SPECIES
 
 #### Status
 ACCEPTED

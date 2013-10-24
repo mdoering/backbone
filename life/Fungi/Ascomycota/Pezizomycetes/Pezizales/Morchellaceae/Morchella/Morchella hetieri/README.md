@@ -1,5 +1,4 @@
-Morchella hetieri Boud. SPECIES
-=======
+# Morchella hetieri Boud. SPECIES
 
 #### Status
 ACCEPTED

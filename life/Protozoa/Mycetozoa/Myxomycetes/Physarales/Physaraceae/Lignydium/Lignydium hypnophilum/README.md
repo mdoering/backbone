@@ -1,5 +1,4 @@
-Lignydium hypnophilum (Fr.) Kuntze SPECIES
-=======
+# Lignydium hypnophilum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

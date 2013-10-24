@@ -1,5 +1,4 @@
-Laboulbenia calathi T. Majewski SPECIES
-=======
+# Laboulbenia calathi T. Majewski SPECIES
 
 #### Status
 ACCEPTED

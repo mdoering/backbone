@@ -1,5 +1,4 @@
-Aspergillus cleistominutus B.S. Mehrotra & R. Prasad SPECIES
-=======
+# Aspergillus cleistominutus B.S. Mehrotra & R. Prasad SPECIES
 
 #### Status
 ACCEPTED

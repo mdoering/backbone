@@ -1,5 +1,4 @@
-Phyllachora leeae-elatae A.K. Kar & Maity, 1971 SPECIES
-=======
+# Phyllachora leeae-elatae A.K. Kar & Maity, 1971 SPECIES
 
 #### Status
 DOUBTFUL

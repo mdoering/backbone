@@ -1,5 +1,4 @@
-Hypholoma campanulatum Peck SPECIES
-=======
+# Hypholoma campanulatum Peck SPECIES
 
 #### Status
 ACCEPTED

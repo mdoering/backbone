@@ -1,5 +1,4 @@
-Mollisia obscurella (Boud.) Sacc. & Trotter SPECIES
-=======
+# Mollisia obscurella (Boud.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

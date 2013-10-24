@@ -1,5 +1,4 @@
-Phyllosticta hydrastidis Bond.-Mont. SPECIES
-=======
+# Phyllosticta hydrastidis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza alni Schumach. SPECIES
-=======
+# Peziza alni Schumach. SPECIES
 
 #### Status
 ACCEPTED

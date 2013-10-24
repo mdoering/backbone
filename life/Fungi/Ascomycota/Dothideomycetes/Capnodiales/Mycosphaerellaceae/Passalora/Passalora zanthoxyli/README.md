@@ -1,5 +1,4 @@
-Passalora zanthoxyli (Y.L. Guo & Z.M. Cao) U. Braun & Crous SPECIES
-=======
+# Passalora zanthoxyli (Y.L. Guo & Z.M. Cao) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stereum haydeni Berk. SPECIES
-=======
+# Stereum haydenii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 27: 199 (1890)
 
 #### Original name
-Stereum haydeni Berk.
+Stereum haydenii Berk.
 
 ### Remarks
 null

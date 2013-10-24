@@ -1,5 +1,4 @@
-Leandria E. Rangel in A. Maublanc & E. Rangel, 1915 GENUS
-=======
+# Leandria E. Rangel in A. Maublanc & E. Rangel, 1915 GENUS
 
 #### Status
 ACCEPTED

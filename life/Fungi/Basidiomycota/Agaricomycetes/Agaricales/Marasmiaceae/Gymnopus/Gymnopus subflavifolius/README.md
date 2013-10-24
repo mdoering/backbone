@@ -1,5 +1,4 @@
-Gymnopus subflavifolius Murrill SPECIES
-=======
+# Gymnopus subflavifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

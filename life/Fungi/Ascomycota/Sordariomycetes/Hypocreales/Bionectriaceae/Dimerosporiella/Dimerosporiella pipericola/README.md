@@ -1,5 +1,4 @@
-Dimerosporiella pipericola (Henn.) Rossman & Samuels SPECIES
-=======
+# Dimerosporiella pipericola (Henn.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

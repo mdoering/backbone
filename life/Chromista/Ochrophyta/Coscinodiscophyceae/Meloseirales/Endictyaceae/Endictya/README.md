@@ -1,5 +1,4 @@
-Endictya Ehrenb. GENUS
-=======
+# Endictya Ehrenb. GENUS
 
 #### Status
 ACCEPTED

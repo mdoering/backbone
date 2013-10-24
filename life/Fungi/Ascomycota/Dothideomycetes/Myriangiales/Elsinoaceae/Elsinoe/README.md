@@ -1,5 +1,4 @@
-Elsinoe Raciborski, 1900 GENUS
-=======
+# Elsinoe Raciborski, 1900 GENUS
 
 #### Status
 ACCEPTED

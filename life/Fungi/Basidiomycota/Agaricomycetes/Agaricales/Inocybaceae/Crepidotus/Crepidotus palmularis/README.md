@@ -1,5 +1,4 @@
-Crepidotus palmularis Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus palmularis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites extensus Rouse & Mustard SPECIES
-=======
+# Diporicellaesporites extensus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

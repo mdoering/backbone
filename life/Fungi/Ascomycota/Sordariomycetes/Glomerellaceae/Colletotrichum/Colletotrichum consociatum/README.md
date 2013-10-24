@@ -1,5 +1,4 @@
-Colletotrichum consociatum J.C. Lindq. SPECIES
-=======
+# Colletotrichum consociatum J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kalchbrenneriella Diederich & M.S. Christ. GENUS
-=======
+# Kalchbrenneriella Diederich & M.S. Christ. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus sobrius Konstantinov et al., 2006 SPECIES
-=======
+# Lactobacillus sobrius Konstantinov et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

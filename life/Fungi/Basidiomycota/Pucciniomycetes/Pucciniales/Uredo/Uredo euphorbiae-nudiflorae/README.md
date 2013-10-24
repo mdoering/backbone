@@ -1,5 +1,4 @@
-Uredo euphorbiae-nudiflorae Henn. SPECIES
-=======
+# Uredo euphorbiae-nudiflorae Henn. SPECIES
 
 #### Status
 ACCEPTED

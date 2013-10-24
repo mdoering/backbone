@@ -1,5 +1,4 @@
-Coniothyrium korovinii Golovin SPECIES
-=======
+# Coniothyrium korovinii Golovin SPECIES
 
 #### Status
 ACCEPTED

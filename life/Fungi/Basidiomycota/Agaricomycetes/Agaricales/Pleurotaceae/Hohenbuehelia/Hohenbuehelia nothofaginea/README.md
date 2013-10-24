@@ -1,17 +1,16 @@
-Pleurotus serotinus f. serotinus FORM
-=======
+# Hohenbuehelia nothofaginea G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 19(1): 26 (1964)
 
 #### Original name
-null
+Hohenbuehelia nothofaginea G. Stev., 1964
 
 ### Remarks
 null

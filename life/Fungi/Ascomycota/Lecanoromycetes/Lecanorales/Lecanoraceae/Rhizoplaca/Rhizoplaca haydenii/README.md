@@ -1,5 +1,4 @@
-Rhizoplaca haydenii (Tuck.) W.A. Weber SPECIES
-=======
+# Rhizoplaca haydenii (Tuck.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

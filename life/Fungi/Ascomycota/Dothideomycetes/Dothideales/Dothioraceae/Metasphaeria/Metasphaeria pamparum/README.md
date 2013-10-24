@@ -1,5 +1,4 @@
-Metasphaeria pamparum Speg. SPECIES
-=======
+# Metasphaeria pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita pseudogemmata Hongo SPECIES
-=======
+# Amanita pseudogemmata Hongo SPECIES
 
 #### Status
 ACCEPTED

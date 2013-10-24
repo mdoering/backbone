@@ -1,5 +1,4 @@
-Pseudonocardia compacta Henssen et al., 1983 SPECIES
-=======
+# Pseudonocardia compacta Henssen et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

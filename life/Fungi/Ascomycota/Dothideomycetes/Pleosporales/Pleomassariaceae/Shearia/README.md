@@ -1,5 +1,4 @@
-Shearia Petrak, 1924 GENUS
-=======
+# Shearia Petrak, 1924 GENUS
 
 #### Status
 ACCEPTED

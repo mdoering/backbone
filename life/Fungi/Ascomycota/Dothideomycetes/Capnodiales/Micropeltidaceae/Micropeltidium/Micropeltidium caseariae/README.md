@@ -1,5 +1,4 @@
-Micropeltidium caseariae (Bat.) Bat. SPECIES
-=======
+# Micropeltidium caseariae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

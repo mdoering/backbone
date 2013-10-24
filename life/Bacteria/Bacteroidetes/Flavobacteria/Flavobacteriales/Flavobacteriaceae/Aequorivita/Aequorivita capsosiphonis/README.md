@@ -1,5 +1,4 @@
-Aequorivita capsosiphonis Park, Baik, Kim, Kim, Kim, Oh, Kim, Bang & Seong, 2009 SPECIES
-=======
+# Aequorivita capsosiphonis Park, Baik, Kim, Kim, Kim, Oh, Kim, Bang & Seong, 2009 SPECIES
 
 #### Status
 ACCEPTED

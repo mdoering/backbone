@@ -1,11 +1,10 @@
-Trachelomonas rostafinski Drezep., 1925 SPECIES
-=======
+# Trachelomonas rostafinskii Drezepolski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

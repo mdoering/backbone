@@ -1,5 +1,4 @@
-Sclerotium purpureum Tode SPECIES
-=======
+# Sclerotium purpureum Tode SPECIES
 
 #### Status
 ACCEPTED

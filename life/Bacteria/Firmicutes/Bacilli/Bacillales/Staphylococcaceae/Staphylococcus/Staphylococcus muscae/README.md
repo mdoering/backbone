@@ -1,5 +1,4 @@
-Staphylococcus muscae Hájek et al., 1992 SPECIES
-=======
+# Staphylococcus muscae Hájek et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

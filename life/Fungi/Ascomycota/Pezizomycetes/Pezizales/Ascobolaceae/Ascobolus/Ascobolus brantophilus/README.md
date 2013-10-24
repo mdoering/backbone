@@ -1,5 +1,4 @@
-Ascobolus brantophilus Dissing SPECIES
-=======
+# Ascobolus brantophilus Dissing SPECIES
 
 #### Status
 ACCEPTED

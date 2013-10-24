@@ -1,5 +1,4 @@
-Clathrosphaera Haeckel, 1881 GENUS
-=======
+# Clathrosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

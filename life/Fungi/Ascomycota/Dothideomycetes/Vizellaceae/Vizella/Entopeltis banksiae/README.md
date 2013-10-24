@@ -1,5 +1,4 @@
-Entopeltis banksiae (H.J. Swart) Arx & E. Müll. SPECIES
-=======
+# Entopeltis banksiae (H.J. Swart) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

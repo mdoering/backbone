@@ -1,5 +1,4 @@
-Entoloma fumatopunctum E. Horak SPECIES
-=======
+# Entoloma fumatopunctum E. Horak SPECIES
 
 #### Status
 ACCEPTED

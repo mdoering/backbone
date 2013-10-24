@@ -1,5 +1,4 @@
-Carpocanistrum acutidentatum Takahashi, 1991 SPECIES
-=======
+# Carpocanistrum acutidentatum Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

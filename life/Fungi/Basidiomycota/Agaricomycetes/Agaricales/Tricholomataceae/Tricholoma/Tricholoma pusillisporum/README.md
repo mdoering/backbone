@@ -1,5 +1,4 @@
-Tricholoma pusillisporum Speg. SPECIES
-=======
+# Tricholoma pusillisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

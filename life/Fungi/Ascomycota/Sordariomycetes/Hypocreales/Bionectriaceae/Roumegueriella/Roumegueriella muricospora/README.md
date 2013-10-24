@@ -1,5 +1,4 @@
-Roumegueriella muricospora Speg., 1880 SPECIES
-=======
+# Roumegueriella muricospora Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

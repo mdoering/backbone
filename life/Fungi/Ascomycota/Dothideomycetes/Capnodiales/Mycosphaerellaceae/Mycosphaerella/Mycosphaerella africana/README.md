@@ -1,5 +1,4 @@
-Mycosphaerella africana Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Mycosphaerella africana Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

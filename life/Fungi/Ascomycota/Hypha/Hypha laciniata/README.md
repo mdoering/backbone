@@ -1,5 +1,4 @@
-Hypha laciniata Scop. SPECIES
-=======
+# Hypha laciniata Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium parsonsiae Petch SPECIES
-=======
+# Aecidium parsonsiae Petch SPECIES
 
 #### Status
 ACCEPTED

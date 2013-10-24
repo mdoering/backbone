@@ -1,5 +1,4 @@
-Calliacantha simplex Manton & Oates SPECIES
-=======
+# Calliacantha simplex Manton & Oates SPECIES
 
 #### Status
 ACCEPTED

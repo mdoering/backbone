@@ -1,5 +1,4 @@
-Malajczukia amicorum Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia amicorum Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

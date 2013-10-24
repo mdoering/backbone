@@ -1,5 +1,4 @@
-Sclerotium wakkeri Boerema & C. Posth., 1963 SPECIES
-=======
+# Sclerotium wakkeri Boerema & C. Posth., 1963 SPECIES
 
 #### Status
 ACCEPTED

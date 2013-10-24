@@ -1,5 +1,4 @@
-Thelephora striispora Rick SPECIES
-=======
+# Thelephora striispora Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homopsellomyces aggregatae Cif. & Tomas. SPECIES
-=======
+# Homopsellomyces aggregatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

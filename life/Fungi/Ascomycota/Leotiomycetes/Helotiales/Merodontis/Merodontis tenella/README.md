@@ -1,14 +1,13 @@
-Davincia tenella Penz. & Sacc., 1904 SPECIES
-=======
+# Merodontis tenella (Penz. & Sacc.) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Davincia tenella Penz. & Sacc., 1904

@@ -1,5 +1,4 @@
-Nectria microdisca Rossman SPECIES
-=======
+# Nectria microdisca Rossman SPECIES
 
 #### Status
 ACCEPTED

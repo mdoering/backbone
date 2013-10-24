@@ -1,8 +1,7 @@
-Maublancomyces suspecta (Krombh.) Herter SPECIES
-=======
+# Maublancomyces suspectus (Krombh.) Herter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

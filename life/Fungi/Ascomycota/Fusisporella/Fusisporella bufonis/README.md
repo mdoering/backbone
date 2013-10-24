@@ -1,5 +1,4 @@
-Fusisporella bufonis Speg., 1910 SPECIES
-=======
+# Fusisporella bufonis Speg., 1910 SPECIES
 
 #### Status
 ACCEPTED

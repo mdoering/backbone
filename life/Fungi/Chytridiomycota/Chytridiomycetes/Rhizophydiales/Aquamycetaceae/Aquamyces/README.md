@@ -1,5 +1,4 @@
-Aquamyces Letcher GENUS
-=======
+# Aquamyces Letcher GENUS
 
 #### Status
 ACCEPTED

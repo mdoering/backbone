@@ -1,5 +1,4 @@
-Acrospermum corrugatum Ellis SPECIES
-=======
+# Acrospermum corrugatum Ellis SPECIES
 
 #### Status
 ACCEPTED

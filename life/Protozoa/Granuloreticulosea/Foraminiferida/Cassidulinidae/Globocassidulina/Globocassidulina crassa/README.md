@@ -1,11 +1,10 @@
-Globocassidulina crassa subsp. crassa SUBSPECIES
-=======
+# Globocassidulina crassa (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

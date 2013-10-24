@@ -1,5 +1,4 @@
-Ditiola phyllogena Cooke & Massee SPECIES
-=======
+# Ditiola phyllogena Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

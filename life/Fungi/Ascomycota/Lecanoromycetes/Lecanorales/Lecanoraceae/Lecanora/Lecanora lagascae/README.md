@@ -1,5 +1,4 @@
-Lecanora lagascae Ach. SPECIES
-=======
+# Lecanora lagascae Ach. SPECIES
 
 #### Status
 ACCEPTED

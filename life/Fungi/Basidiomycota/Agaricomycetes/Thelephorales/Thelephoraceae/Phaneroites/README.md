@@ -1,5 +1,4 @@
-Phaneroites GENUS
-=======
+# Phaneroites GENUS
 
 #### Status
 ACCEPTED

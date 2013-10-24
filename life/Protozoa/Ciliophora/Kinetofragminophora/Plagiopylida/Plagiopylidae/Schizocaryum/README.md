@@ -1,5 +1,4 @@
-Schizocaryum Poljansky & Golikowa, 1957 GENUS
-=======
+# Schizocaryum Poljansky & Golikowa, 1957 GENUS
 
 #### Status
 ACCEPTED

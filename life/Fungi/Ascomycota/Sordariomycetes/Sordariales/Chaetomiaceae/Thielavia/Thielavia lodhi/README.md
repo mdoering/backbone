@@ -1,5 +1,4 @@
-Thielavia lodhi T. Mahmood SPECIES
-=======
+# Thielavia lodhi T. Mahmood SPECIES
 
 #### Status
 ACCEPTED

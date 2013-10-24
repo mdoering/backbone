@@ -1,5 +1,4 @@
-Sphaerella fuegiana Speg. SPECIES
-=======
+# Sphaerella fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

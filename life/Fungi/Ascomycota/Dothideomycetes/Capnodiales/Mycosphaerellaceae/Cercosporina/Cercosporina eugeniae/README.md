@@ -1,5 +1,4 @@
-Cercosporina eugeniae Rangel SPECIES
-=======
+# Cercosporina eugeniae Rangel SPECIES
 
 #### Status
 ACCEPTED

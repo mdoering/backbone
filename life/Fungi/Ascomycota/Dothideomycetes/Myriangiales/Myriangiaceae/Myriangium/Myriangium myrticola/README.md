@@ -1,17 +1,16 @@
-Myriangium myrticolum Maire & Werner SPECIES
-=======
+# Myriangium myrticola Maire & Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Sci. Nat. Maroc. 45: 24 (1937)
 
 #### Original name
-Myriangium myrticolum Maire & Werner
+Myriangium myrticola Maire & Werner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia salvadorina S. Ahmad SPECIES
-=======
+# Diplodia salvadorina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

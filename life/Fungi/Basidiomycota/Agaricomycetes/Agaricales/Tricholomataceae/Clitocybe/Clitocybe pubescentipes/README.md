@@ -1,5 +1,4 @@
-Clitocybe pubescentipes H.E. Bigelow SPECIES
-=======
+# Clitocybe pubescentipes H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

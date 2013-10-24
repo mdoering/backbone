@@ -1,5 +1,4 @@
-Lentinus atrolucidus Lloyd SPECIES
-=======
+# Lentinus atrolucidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

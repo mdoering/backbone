@@ -1,5 +1,4 @@
-Mycosphaerella caroliniana (F.A. Wolf) J.H. Mill. SPECIES
-=======
+# Mycosphaerella caroliniana (F.A. Wolf) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

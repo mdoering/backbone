@@ -1,17 +1,16 @@
-Flammula astragalina var. perelegans P. Karst. VARIETY
-=======
+# Pholiota astragalina (Fr.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 27(no. 4): 12 (1905)
+Lilloa 22: 516 (1951)
 
 #### Original name
-Flammula astragalina var. perelegans P. Karst.
+Agaricus astragalinus Fr., 1821
 
 ### Remarks
 null

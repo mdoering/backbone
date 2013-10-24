@@ -1,5 +1,4 @@
-Calloria trichorosella Rehm SPECIES
-=======
+# Calloria trichorosella Rehm SPECIES
 
 #### Status
 ACCEPTED

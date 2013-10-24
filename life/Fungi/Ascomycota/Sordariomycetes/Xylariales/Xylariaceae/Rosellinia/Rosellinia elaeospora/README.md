@@ -1,5 +1,4 @@
-Rosellinia elaeospora Sacc. & Fairm. SPECIES
-=======
+# Rosellinia elaeospora Sacc. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

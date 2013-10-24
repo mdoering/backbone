@@ -1,5 +1,4 @@
-Sagedia rubella (A. Massal.) Anzi SPECIES
-=======
+# Sagedia rubella (A. Massal.) Anzi SPECIES
 
 #### Status
 ACCEPTED

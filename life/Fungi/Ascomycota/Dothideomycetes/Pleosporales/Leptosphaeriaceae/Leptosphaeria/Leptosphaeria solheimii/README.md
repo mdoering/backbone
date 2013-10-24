@@ -1,5 +1,4 @@
-Leptosphaeria solheimii Petr. SPECIES
-=======
+# Leptosphaeria solheimii Petr. SPECIES
 
 #### Status
 ACCEPTED

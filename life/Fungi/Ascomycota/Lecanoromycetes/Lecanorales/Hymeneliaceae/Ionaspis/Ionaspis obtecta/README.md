@@ -1,14 +1,13 @@
-Aspicilia obtecta (Vain.) Hav. SPECIES
-=======
+# Ionaspis obtecta (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Santesson, Moberg, Nordin, Tønsberg & Vitikainen, Lichen-Forming and Lichenicolous Fungi of Fennoscandia 141 (2004)
 
 #### Original name
 Lecanora obtecta Vain.

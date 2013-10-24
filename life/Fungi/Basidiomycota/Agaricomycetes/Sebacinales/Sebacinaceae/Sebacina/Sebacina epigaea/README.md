@@ -1,17 +1,16 @@
-Sebacina epigaea var. epigaea VARIETY
-=======
+# Sebacina epigaea (Berk. & Broome) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomyc. de France (Sceaux) 39 (1928)
 
 #### Original name
-Sebacina epigaea var. epigaea
+null
 
 ### Remarks
 null

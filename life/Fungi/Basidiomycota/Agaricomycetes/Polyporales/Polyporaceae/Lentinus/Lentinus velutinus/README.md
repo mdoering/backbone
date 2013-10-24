@@ -1,17 +1,16 @@
-Panus fulvus var. fulvus VARIETY
-=======
+# Lentinus velutinus Fr., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 23: 385 (1969)
+Linnaea 5: 510 (1830)
 
 #### Original name
-Panus fulvus var. fulvus
+Lentinus velutinus Fr., 1830
 
 ### Remarks
 null

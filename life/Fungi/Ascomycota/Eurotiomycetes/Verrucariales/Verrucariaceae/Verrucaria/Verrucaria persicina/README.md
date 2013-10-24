@@ -1,5 +1,4 @@
-Verrucaria persicina Hepp SPECIES
-=======
+# Verrucaria persicina Hepp SPECIES
 
 #### Status
 ACCEPTED

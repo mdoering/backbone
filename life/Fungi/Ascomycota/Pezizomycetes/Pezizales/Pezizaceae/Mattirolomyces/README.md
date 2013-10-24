@@ -1,5 +1,4 @@
-Mattirolomyces GENUS
-=======
+# Mattirolomyces GENUS
 
 #### Status
 ACCEPTED

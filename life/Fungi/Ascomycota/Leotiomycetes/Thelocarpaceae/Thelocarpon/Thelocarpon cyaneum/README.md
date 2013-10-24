@@ -1,5 +1,4 @@
-Thelocarpon cyaneum Olech & Alstrup SPECIES
-=======
+# Thelocarpon cyaneum Olech & Alstrup SPECIES
 
 #### Status
 ACCEPTED

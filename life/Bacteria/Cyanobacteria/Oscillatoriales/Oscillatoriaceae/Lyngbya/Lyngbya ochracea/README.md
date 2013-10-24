@@ -1,5 +1,4 @@
-Lyngbya ochracea Thuret ex Gomont SPECIES
-=======
+# Lyngbya ochracea Thuret ex Gomont SPECIES
 
 #### Status
 ACCEPTED

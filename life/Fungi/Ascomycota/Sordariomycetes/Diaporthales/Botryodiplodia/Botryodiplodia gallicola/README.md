@@ -1,5 +1,4 @@
-Botryodiplodia gallicola (Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia gallicola (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

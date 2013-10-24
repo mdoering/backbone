@@ -1,5 +1,4 @@
-Peniophora grisea var. grisea VARIETY
-=======
+# Peniophora grisea (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 110 (1959)
 
 #### Original name
-Peniophora grisea var. grisea
+null
 
 ### Remarks
 null

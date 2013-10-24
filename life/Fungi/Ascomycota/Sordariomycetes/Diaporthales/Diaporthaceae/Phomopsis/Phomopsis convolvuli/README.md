@@ -1,17 +1,16 @@
-Phomopsis convolvulus Ormeno-Nuñez, Reeleder & A.K. Watson SPECIES
-=======
+# Phomopsis convolvuli Ormeno-Nuñez, Reeleder & A.K. Watson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 66(11): 2232 (1988)
 
 #### Original name
-Phomopsis convolvulus Ormeno-Nuñez, Reeleder & A.K. Watson
+Phomopsis convolvuli Ormeno-Nuñez, Reeleder & A.K. Watson
 
 ### Remarks
 null

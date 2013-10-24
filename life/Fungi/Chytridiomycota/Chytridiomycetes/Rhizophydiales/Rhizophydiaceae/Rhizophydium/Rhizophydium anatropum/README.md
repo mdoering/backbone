@@ -1,5 +1,4 @@
-Rhizophydium anatropum (A. Braun) Karling SPECIES
-=======
+# Rhizophydium anatropum (A. Braun) Karling SPECIES
 
 #### Status
 ACCEPTED

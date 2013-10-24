@@ -1,5 +1,4 @@
-Rhizopogon separabilis Zeller SPECIES
-=======
+# Rhizopogon separabilis Zeller SPECIES
 
 #### Status
 ACCEPTED

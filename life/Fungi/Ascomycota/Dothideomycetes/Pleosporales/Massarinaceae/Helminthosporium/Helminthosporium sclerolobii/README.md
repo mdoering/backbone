@@ -1,5 +1,4 @@
-Helminthosporium sclerolobii Henn. SPECIES
-=======
+# Helminthosporium sclerolobii Henn. SPECIES
 
 #### Status
 ACCEPTED

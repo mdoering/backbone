@@ -1,5 +1,4 @@
-Dendryphion cubense Matsush. SPECIES
-=======
+# Dendryphion cubense Matsush. SPECIES
 
 #### Status
 ACCEPTED

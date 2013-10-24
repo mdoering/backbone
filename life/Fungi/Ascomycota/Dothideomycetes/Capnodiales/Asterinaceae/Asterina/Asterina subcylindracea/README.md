@@ -1,5 +1,4 @@
-Asterina subcylindracea W. Yamam. SPECIES
-=======
+# Asterina subcylindracea W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

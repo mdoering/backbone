@@ -1,5 +1,4 @@
-Lentinus schweinitzii Fr. SPECIES
-=======
+# Lentinus schweinitzii Fr. SPECIES
 
 #### Status
 ACCEPTED

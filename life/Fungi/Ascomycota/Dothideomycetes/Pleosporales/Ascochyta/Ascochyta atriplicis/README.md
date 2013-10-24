@@ -1,5 +1,4 @@
-Ascochyta atriplicis var. atriplicis VARIETY
-=======
+# Ascochyta atriplicis Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 2: 180 (1904)
 
 #### Original name
-Ascochyta atriplicis var. atriplicis
+Ascochyta atriplicis Beeli
 
 ### Remarks
 null

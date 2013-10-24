@@ -1,5 +1,4 @@
-Astrolithium Haeckel, 1861 GENUS
-=======
+# Astrolithium Haeckel, 1861 GENUS
 
 #### Status
 ACCEPTED

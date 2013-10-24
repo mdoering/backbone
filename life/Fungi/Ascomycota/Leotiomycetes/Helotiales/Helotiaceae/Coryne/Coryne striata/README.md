@@ -1,5 +1,4 @@
-Coryne striata (Ellis & Everh.) Sacc. SPECIES
-=======
+# Coryne striata (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

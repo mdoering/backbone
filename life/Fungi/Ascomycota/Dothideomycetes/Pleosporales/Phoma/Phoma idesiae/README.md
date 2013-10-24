@@ -1,5 +1,4 @@
-Phoma idesiae F. Sacc. SPECIES
-=======
+# Phoma idesiae F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

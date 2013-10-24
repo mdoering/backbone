@@ -1,5 +1,4 @@
-Corticium caesium Bres. SPECIES
-=======
+# Corticium caesium Bres. SPECIES
 
 #### Status
 ACCEPTED

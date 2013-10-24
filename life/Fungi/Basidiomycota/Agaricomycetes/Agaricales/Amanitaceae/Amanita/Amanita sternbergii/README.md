@@ -1,5 +1,4 @@
-Amanita sternbergii Velen. SPECIES
-=======
+# Amanita sternbergii Velen. SPECIES
 
 #### Status
 ACCEPTED

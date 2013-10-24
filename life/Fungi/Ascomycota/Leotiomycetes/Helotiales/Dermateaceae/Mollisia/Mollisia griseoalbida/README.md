@@ -1,5 +1,4 @@
-Mollisia griseoalbida Feltgen SPECIES
-=======
+# Mollisia griseoalbida Feltgen SPECIES
 
 #### Status
 ACCEPTED

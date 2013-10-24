@@ -1,5 +1,4 @@
-Sphenolithus capricornutus Bukry & Percival, 1971 SPECIES
-=======
+# Sphenolithus capricornutus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nematoloma subumbonatescens (Murrill) Singer SPECIES
-=======
+# Naematoloma subumbonatescens (Murrill) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 504 (1951)
 
 #### Original name
 Stropharia subumbonatescens Murrill

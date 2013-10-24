@@ -1,5 +1,4 @@
-Halospheaera GENUS
-=======
+# Halospheaera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium namatis Karling SPECIES
-=======
+# Synchytrium namatis Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus euphorbiae Pat. SPECIES
-=======
+# Inonotus euphorbiae (Pat.) Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syn. Fung. (Oslo) 21: 53 (2005)
 
 #### Original name
 Polyporus euphorbiae Pat.

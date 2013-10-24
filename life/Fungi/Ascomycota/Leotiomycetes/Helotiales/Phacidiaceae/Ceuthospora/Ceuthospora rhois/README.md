@@ -1,5 +1,4 @@
-Ceuthospora rhois Rabenh. SPECIES
-=======
+# Ceuthospora rhois Rabenh. SPECIES
 
 #### Status
 ACCEPTED

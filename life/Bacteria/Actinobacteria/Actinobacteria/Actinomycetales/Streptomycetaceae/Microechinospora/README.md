@@ -1,5 +1,4 @@
-Microechinospora GENUS
-=======
+# Microechinospora GENUS
 
 #### Status
 ACCEPTED

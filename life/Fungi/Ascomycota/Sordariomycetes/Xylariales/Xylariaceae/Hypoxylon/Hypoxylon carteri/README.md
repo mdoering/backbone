@@ -1,5 +1,4 @@
-Hypoxylon carteri (Berk.) Sacc. SPECIES
-=======
+# Hypoxylon carteri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxohyella papuana L. Hoffmann SPECIES
-=======
+# Myxohyella papuana L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina illinita (Nyl.) Hav. SPECIES
-=======
+# Porina illinita (Nyl.) Hav. SPECIES
 
 #### Status
 ACCEPTED

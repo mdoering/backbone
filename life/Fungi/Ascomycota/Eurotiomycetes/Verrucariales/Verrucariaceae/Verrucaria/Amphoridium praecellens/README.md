@@ -1,5 +1,4 @@
-Amphoridium praecellens f. praecellens FORM
-=======
+# Amphoridium praecellens Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amphoridium praecellens f. praecellens
+Amphoridium praecellens Arnold
 
 ### Remarks
 null

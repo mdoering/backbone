@@ -1,5 +1,4 @@
-Lecanora subcalcarea Müll. Arg. SPECIES
-=======
+# Lecanora subcalcarea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

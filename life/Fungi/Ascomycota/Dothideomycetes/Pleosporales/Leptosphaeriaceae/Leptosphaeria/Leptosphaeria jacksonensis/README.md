@@ -1,5 +1,4 @@
-Leptosphaeria jacksonensis Shoemaker SPECIES
-=======
+# Leptosphaeria jacksonensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

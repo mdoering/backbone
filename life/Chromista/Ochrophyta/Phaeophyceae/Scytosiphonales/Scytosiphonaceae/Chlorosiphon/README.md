@@ -1,5 +1,4 @@
-Chlorosiphon Kützing, 1843 GENUS
-=======
+# Chlorosiphon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

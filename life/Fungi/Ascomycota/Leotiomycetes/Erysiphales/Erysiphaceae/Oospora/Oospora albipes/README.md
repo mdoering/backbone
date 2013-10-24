@@ -1,5 +1,4 @@
-Oospora albipes (Peck) Sacc. SPECIES
-=======
+# Oospora albipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

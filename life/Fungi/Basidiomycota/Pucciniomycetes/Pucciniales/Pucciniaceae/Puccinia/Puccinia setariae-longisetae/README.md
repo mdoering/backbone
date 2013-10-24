@@ -1,5 +1,4 @@
-Puccinia setariae-longisetae Wakef. & Hansf. SPECIES
-=======
+# Puccinia setariae-longisetae Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

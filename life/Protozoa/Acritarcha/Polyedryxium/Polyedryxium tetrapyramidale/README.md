@@ -1,5 +1,4 @@
-Polyedryxium tetrapyramidale Amirie, 1984 SPECIES
-=======
+# Polyedryxium tetrapyramidale Amirie, 1984 SPECIES
 
 #### Status
 ACCEPTED

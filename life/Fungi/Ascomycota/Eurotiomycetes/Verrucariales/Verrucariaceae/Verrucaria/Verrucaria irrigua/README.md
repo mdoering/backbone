@@ -1,5 +1,4 @@
-Verrucaria irrigua Taylor SPECIES
-=======
+# Verrucaria irrigua Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thekopsora dieteliana (Syd.) SPECIES
-=======
+# Thekopsora dieteliana (Syd.) SPECIES
 
 #### Status
 ACCEPTED

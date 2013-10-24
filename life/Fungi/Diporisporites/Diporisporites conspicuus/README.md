@@ -1,17 +1,16 @@
-Diporisporites conspicua Ramanujam & K.P. Rao SPECIES
-=======
+# Diporisporites conspicuus Ramanujam & K.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proceedings of the IV International Palynology Conference, Lucknow 1976-1977 1: 295 + pl. 1, fig. 7 (1979)
 
 #### Original name
-Diporisporites conspicua Ramanujam & K.P. Rao
+Diporisporites conspicuus Ramanujam & K.P. Rao
 
 ### Remarks
 null

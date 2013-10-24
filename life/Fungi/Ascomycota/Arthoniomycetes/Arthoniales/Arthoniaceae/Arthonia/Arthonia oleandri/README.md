@@ -1,5 +1,4 @@
-Arthonia oleandri Rabenh. SPECIES
-=======
+# Arthonia oleandri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

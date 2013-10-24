@@ -1,5 +1,4 @@
-Ophiocordyceps zhangjiajiensis (Z.Q. Liang & A.Y. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps zhangjiajiensis (Z.Q. Liang & A.Y. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anzia ornatoides Yoshim. SPECIES
-=======
+# Anzia ornatoides Yoshim. SPECIES
 
 #### Status
 ACCEPTED

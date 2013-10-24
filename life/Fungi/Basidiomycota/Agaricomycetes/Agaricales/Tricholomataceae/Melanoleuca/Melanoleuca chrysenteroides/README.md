@@ -1,5 +1,4 @@
-Melanoleuca chrysenteroides (Peck) Murrill SPECIES
-=======
+# Melanoleuca chrysenteroides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

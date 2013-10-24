@@ -1,5 +1,4 @@
-Phoma cerastii-maximi Dearn. SPECIES
-=======
+# Phoma cerastii-maximi Dearn. SPECIES
 
 #### Status
 ACCEPTED

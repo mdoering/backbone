@@ -1,5 +1,4 @@
-Puccinia lifuensis B. Huguenin SPECIES
-=======
+# Puccinia lifuensis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

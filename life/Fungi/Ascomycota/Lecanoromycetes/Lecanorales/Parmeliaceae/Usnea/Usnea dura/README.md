@@ -1,5 +1,4 @@
-Usnea dura Motyka SPECIES
-=======
+# Usnea dura Motyka SPECIES
 
 #### Status
 ACCEPTED

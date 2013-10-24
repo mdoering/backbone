@@ -1,5 +1,4 @@
-Belonium sphagnisedum Velen. SPECIES
-=======
+# Belonium sphagnisedum Velen. SPECIES
 
 #### Status
 ACCEPTED

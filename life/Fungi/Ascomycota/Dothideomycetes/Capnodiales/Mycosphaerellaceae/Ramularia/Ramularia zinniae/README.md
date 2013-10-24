@@ -1,5 +1,4 @@
-Ramularia zinniae Crous & U. Braun SPECIES
-=======
+# Ramularia zinniae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

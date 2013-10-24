@@ -1,5 +1,4 @@
-Gymnopilus aculeatus (Bres. & Roum.) Singer SPECIES
-=======
+# Gymnopilus aculeatus (Bres. & Roum.) Singer SPECIES
 
 #### Status
 ACCEPTED

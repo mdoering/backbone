@@ -1,5 +1,4 @@
-Ascochyta periplocae Kabát & Bubák SPECIES
-=======
+# Ascochyta periplocae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

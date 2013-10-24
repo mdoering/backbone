@@ -1,5 +1,4 @@
-Amanita oberwinklerana Zhu L. Yang & Yoshim. Doi SPECIES
-=======
+# Amanita oberwinklerana Zhu L. Yang & Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

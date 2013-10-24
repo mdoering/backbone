@@ -1,5 +1,4 @@
-Phomopsis theicola Curzi, 1927 SPECIES
-=======
+# Phomopsis theicola Curzi, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelephora suffulta Berk. & Broome, 1875 SPECIES
-=======
+# Septobasidium suffultum (Berk. & Broome) Pat., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 63 (1875)
+Bull. Soc. mycol. Fr. 24: 2 (1908)
 
 #### Original name
 Thelephora suffulta Berk. & Broome, 1875

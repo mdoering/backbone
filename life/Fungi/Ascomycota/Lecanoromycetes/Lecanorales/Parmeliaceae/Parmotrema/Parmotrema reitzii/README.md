@@ -1,5 +1,4 @@
-Parmotrema reitzii Hale SPECIES
-=======
+# Parmotrema reitzii Hale SPECIES
 
 #### Status
 ACCEPTED

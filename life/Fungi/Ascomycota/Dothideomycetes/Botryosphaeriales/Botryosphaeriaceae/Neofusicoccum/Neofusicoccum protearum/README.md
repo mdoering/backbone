@@ -1,14 +1,13 @@
-Fusicoccum protearum Denman & Crous, 2003 SPECIES
-=======
+# Neofusicoccum protearum (Denman & Crous) Crous, Slippers & A.J.L. Phillips, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Denman, Crous, Groenewald, Slippers, Wingfield & Wingfield, Mycologia 95(2): 301 (2003)
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 249 (2006)
 
 #### Original name
 Fusicoccum protearum Denman & Crous, 2003

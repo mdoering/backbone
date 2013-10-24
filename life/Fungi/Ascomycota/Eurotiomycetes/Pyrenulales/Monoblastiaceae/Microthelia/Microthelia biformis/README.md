@@ -1,14 +1,13 @@
-Pyrenula biformis Hepp SPECIES
-=======
+# Microthelia biformis (Hepp) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flecht. Eur. no. 108 (1853)
+Miscell. Lich. 28 (1856)
 
 #### Original name
 Pyrenula biformis Hepp

@@ -1,5 +1,4 @@
-Microsphaera bulbosa U. Braun SPECIES
-=======
+# Microsphaera bulbosa U. Braun SPECIES
 
 #### Status
 ACCEPTED

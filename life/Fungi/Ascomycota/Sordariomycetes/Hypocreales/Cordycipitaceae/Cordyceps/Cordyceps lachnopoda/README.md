@@ -1,5 +1,4 @@
-Cordyceps lachnopoda Penz. & Sacc. SPECIES
-=======
+# Cordyceps lachnopoda Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

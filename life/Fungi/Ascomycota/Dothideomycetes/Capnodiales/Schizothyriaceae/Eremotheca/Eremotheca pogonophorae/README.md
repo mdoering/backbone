@@ -1,5 +1,4 @@
-Eremotheca pogonophorae Bat. SPECIES
-=======
+# Eremotheca pogonophorae Bat. SPECIES
 
 #### Status
 ACCEPTED

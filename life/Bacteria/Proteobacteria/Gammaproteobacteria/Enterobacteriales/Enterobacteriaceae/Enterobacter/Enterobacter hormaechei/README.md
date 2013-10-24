@@ -1,5 +1,4 @@
-Enterobacter hormaechei O'Hara et al., 1990 SPECIES
-=======
+# Enterobacter hormaechei O'Hara et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

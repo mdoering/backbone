@@ -1,5 +1,4 @@
-Aposphaeria sphaerospora Peyronel SPECIES
-=======
+# Aposphaeria sphaerospora Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Miliolina milletti var. carinatastriata Wiesner, 1912 VARIETY
-=======
+# Miliolina milletti Wiesner, 1912 SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

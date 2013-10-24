@@ -1,5 +1,4 @@
-Lachnum luzulae Velen. SPECIES
-=======
+# Lachnum luzulae Velen. SPECIES
 
 #### Status
 ACCEPTED

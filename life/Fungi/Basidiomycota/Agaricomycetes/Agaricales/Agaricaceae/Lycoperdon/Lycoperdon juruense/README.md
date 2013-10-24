@@ -1,5 +1,4 @@
-Lycoperdon juruense Henn. SPECIES
-=======
+# Lycoperdon juruense Henn. SPECIES
 
 #### Status
 ACCEPTED

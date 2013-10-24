@@ -1,14 +1,13 @@
-Didymella anomala (Ellis & Everh.) Shoemaker & C.E. Babc., 1987 SPECIES
-=======
+# Didymolepta anomala (Ellis & Everh.) M.E. Barr, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 65(2): 387 (1987)
+Mycotaxon 46: 70 (1993)
 
 #### Original name
 Leptosphaeria anomala Ellis & Everh., 1887

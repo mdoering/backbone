@@ -1,5 +1,4 @@
-Melanconium juglandis f. diffusa Corda FORM
-=======
+# Melanconium juglandis Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanconium juglandis f. diffusa Corda
+Melanconium juglandis Corda
 
 ### Remarks
 null

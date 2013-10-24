@@ -1,5 +1,4 @@
-Phoma hohenbergiae Tassi SPECIES
-=======
+# Phoma hohenbergiae Tassi SPECIES
 
 #### Status
 ACCEPTED

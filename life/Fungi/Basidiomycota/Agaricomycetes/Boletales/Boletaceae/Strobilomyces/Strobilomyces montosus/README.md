@@ -1,5 +1,4 @@
-Strobilomyces montosus Berk. SPECIES
-=======
+# Strobilomyces montosus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum guayaquilense Aschieri SPECIES
-=======
+# Sporotrichum guayaquilense Aschieri SPECIES
 
 #### Status
 ACCEPTED

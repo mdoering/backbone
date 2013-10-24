@@ -1,5 +1,4 @@
-Parmelia subcomposita Hale SPECIES
-=======
+# Parmelia subcomposita Hale SPECIES
 
 #### Status
 ACCEPTED

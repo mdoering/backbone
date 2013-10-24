@@ -1,5 +1,4 @@
-Stysanus amyli Delacr. SPECIES
-=======
+# Stysanus amyli Delacr. SPECIES
 
 #### Status
 ACCEPTED

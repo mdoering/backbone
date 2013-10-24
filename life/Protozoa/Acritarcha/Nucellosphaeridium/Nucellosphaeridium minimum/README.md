@@ -1,5 +1,4 @@
-Nucellosphaeridium minimum P. K. Maithy & M. Shukla SPECIES
-=======
+# Nucellosphaeridium minimum P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

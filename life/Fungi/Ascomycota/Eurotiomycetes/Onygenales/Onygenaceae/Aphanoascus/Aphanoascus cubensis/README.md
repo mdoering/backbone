@@ -1,5 +1,4 @@
-Aphanoascus cubensis Cano & Guarro, 2002 SPECIES
-=======
+# Aphanoascus cubensis Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

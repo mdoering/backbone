@@ -1,5 +1,4 @@
-Cytosporella ostryae Berl. & Bres. SPECIES
-=======
+# Cytosporella ostryae Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

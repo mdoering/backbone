@@ -1,14 +1,13 @@
-Torula luzulae Fuckel, 1870 SPECIES
-=======
+# Gliomastix luzulae (Fuckel) E.W. Mason ex S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 348 (1870)
+in Rimington, Can. J. Bot. 36: 769 (1958)
 
 #### Original name
 Torula luzulae Fuckel, 1870

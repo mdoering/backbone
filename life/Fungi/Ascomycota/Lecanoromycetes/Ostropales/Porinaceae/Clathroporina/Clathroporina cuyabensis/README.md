@@ -1,5 +1,4 @@
-Clathroporina cuyabensis (Malme) R. Sant. SPECIES
-=======
+# Clathroporina cuyabensis (Malme) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

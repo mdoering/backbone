@@ -1,5 +1,4 @@
-Phyllosticta menthae Bres. SPECIES
-=======
+# Phyllosticta menthae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene speciosa (Doidge) Doidge SPECIES
-=======
+# Irene speciosa (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

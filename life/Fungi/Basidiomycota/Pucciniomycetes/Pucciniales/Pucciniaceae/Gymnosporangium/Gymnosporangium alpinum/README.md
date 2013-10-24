@@ -1,5 +1,4 @@
-Gymnosporangium alpinum G. Yamada ex Hara SPECIES
-=======
+# Gymnosporangium alpinum G. Yamada ex Hara SPECIES
 
 #### Status
 ACCEPTED

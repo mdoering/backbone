@@ -1,5 +1,4 @@
-Archaeospongoprunidae Pessagno, 1973 FAMILY
-=======
+# Archaeospongoprunidae Pessagno, 1973 FAMILY
 
 #### Status
 ACCEPTED

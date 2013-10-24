@@ -1,5 +1,4 @@
-Peridermium conorum Thüm. SPECIES
-=======
+# Peridermium conorum Thüm. SPECIES
 
 #### Status
 ACCEPTED

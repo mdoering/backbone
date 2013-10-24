@@ -1,5 +1,4 @@
-Chlanidophora J.G. Agardh, 1894 GENUS
-=======
+# Chlanidophora J.G. Agardh, 1894 GENUS
 
 #### Status
 ACCEPTED

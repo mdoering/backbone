@@ -1,5 +1,4 @@
-Dexhowardia tetraspora J.J. Taylor, 1970 SPECIES
-=======
+# Dexhowardia tetraspora J.J. Taylor, 1970 SPECIES
 
 #### Status
 ACCEPTED

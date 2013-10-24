@@ -1,5 +1,4 @@
-Gymnopilus konkinyerius Grgur. SPECIES
-=======
+# Gymnopilus konkinyerius Grgur. SPECIES
 
 #### Status
 ACCEPTED

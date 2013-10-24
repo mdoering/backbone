@@ -1,8 +1,7 @@
-Crepidotus larseni Pilát SPECIES
-=======
+# Crepidotus larsenii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crepidotus larseni Pilát
+Crepidotus larsenii Pilát
 
 ### Remarks
 null

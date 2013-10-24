@@ -1,5 +1,4 @@
-Theocorax Haeckel, 1887 GENUS
-=======
+# Theocorax Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

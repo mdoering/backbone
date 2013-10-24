@@ -1,5 +1,4 @@
-Marasmius actinopus Mont. SPECIES
-=======
+# Marasmius actinopus Mont. SPECIES
 
 #### Status
 ACCEPTED

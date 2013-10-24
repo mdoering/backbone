@@ -1,5 +1,4 @@
-Capnodium lentisci Thüm. ex Sacc. SPECIES
-=======
+# Capnodium lentisci Thüm. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

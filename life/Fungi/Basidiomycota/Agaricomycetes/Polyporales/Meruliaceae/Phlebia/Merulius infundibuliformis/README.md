@@ -1,5 +1,4 @@
-Merulius infundibuliformis J.F. Gmel. SPECIES
-=======
+# Merulius infundibuliformis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

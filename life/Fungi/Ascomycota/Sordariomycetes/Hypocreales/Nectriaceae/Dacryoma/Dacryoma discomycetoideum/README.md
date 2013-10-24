@@ -1,17 +1,16 @@
-Dacryoma discomycetoidea Matsush. SPECIES
-=======
+# Dacryoma discomycetoideum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 10: 19 (2003)
 
 #### Original name
-Dacryoma discomycetoidea Matsush.
+Dacryoma discomycetoideum Matsush.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alliatina Troelsen, 1954 GENUS
-=======
+# Alliatina Troelsen, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alisphaera Heimdal, 1973 GENUS
-=======
+# Alisphaera Heimdal, 1973 GENUS
 
 #### Status
 ACCEPTED

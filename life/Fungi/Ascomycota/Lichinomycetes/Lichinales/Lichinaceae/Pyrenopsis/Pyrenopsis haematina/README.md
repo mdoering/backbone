@@ -1,17 +1,16 @@
-Pyrenopsidium haematopis (Sommerf.) Th. Fr. SPECIES
-=======
+# Pyrenopsis haematina P.M. Jørg. & Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Henssen & Jørgensen, Lichenologist 22(2): 145 (1990)
 
 #### Original name
-Collema haemaleum Sommerf.
+Pyrenopsis haematina P.M. Jørg. & Henssen
 
 ### Remarks
 null

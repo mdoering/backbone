@@ -1,5 +1,4 @@
-Cryptodiscus rehmianus (Feltgen) Höhn. SPECIES
-=======
+# Cryptodiscus rehmianus (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenophoma buphthalmi Petr. SPECIES
-=======
+# Selenophoma buphthalmi Petr. SPECIES
 
 #### Status
 ACCEPTED

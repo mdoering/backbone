@@ -1,5 +1,4 @@
-Phomopsis adinae Petr. SPECIES
-=======
+# Phomopsis adinae Petr. SPECIES
 
 #### Status
 ACCEPTED

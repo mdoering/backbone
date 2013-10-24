@@ -1,5 +1,4 @@
-Cortinarius sebaceus var. sebaceus VARIETY
-=======
+# Cortinarius sebaceus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 258 (1838)
 
 #### Original name
-Cortinarius sebaceus var. sebaceus
+Cortinarius sebaceus Fr.
 
 ### Remarks
 null

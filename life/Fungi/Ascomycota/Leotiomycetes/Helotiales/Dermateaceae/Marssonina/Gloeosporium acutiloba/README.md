@@ -1,5 +1,4 @@
-Gloeosporium acutiloba Dearn. & House SPECIES
-=======
+# Gloeosporium acutiloba Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

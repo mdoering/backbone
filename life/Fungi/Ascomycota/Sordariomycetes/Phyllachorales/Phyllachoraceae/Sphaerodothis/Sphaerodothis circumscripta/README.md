@@ -1,14 +1,13 @@
-Phyllachora circumscripta (Berk.) Cooke, 1885 SPECIES
-=======
+# Sphaerodothis circumscripta (Berk.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 68 (1885)
+Annls mycol. 13(5/6): 579 (1915)
 
 #### Original name
 Dothidea circumscripta Berk., 1845

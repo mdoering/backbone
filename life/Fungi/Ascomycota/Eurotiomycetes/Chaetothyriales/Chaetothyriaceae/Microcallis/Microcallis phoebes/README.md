@@ -1,5 +1,4 @@
-Microcallis phoebes Syd., 1926 SPECIES
-=======
+# Microcallis phoebes Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

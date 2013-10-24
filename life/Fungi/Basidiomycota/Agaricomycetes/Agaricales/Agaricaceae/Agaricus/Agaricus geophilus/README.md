@@ -1,5 +1,4 @@
-Agaricus geophilus var. geophilus VARIETY
-=======
+# Agaricus geophilus SPECIES
 
 #### Status
 ACCEPTED

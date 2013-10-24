@@ -1,5 +1,4 @@
-Aureobasidium thujae-plicatae M. Morelet SPECIES
-=======
+# Aureobasidium thujae-plicatae M. Morelet SPECIES
 
 #### Status
 ACCEPTED

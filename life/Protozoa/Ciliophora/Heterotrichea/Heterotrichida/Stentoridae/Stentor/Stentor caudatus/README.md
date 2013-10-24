@@ -1,5 +1,4 @@
-Stentor caudatus Dragesco, 1970 SPECIES
-=======
+# Stentor caudatus Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerocordyceps helopis (Quél.) Kobayasi SPECIES
-=======
+# Sphaerocordyceps helopis (Quél.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

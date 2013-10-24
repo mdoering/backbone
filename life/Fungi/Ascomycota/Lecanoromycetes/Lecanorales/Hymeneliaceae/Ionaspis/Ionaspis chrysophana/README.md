@@ -1,17 +1,16 @@
-Gyalecta suavevolens Fr. SPECIES
-=======
+# Ionaspis chrysophana (Körb.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 285 (1825)
+Lich. Scand. (Uppsala) 1: 273 (1871)
 
 #### Original name
-Gyalecta suavevolens Fr.
+Aspicilia chrysophana Körb.
 
 ### Remarks
 null

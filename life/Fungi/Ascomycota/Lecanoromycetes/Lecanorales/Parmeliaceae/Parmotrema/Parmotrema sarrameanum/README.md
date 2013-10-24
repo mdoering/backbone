@@ -1,5 +1,4 @@
-Parmotrema sarrameanum Louwhoff & Elix SPECIES
-=======
+# Parmotrema sarrameanum Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

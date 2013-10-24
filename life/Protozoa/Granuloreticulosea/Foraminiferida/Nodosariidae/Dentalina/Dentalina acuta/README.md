@@ -1,5 +1,4 @@
-Dentalina acuta d'Orbigny SPECIES
-=======
+# Dentalina acuta d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

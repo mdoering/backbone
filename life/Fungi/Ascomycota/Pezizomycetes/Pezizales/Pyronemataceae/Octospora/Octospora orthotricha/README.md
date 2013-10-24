@@ -1,5 +1,4 @@
-Octospora orthotricha (Cooke & Ellis) K.B. Khare & V.P. Tewari SPECIES
-=======
+# Octospora orthotricha (Cooke & Ellis) K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

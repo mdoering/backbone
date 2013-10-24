@@ -1,5 +1,4 @@
-Sebacina rosea (Rick) Rick SPECIES
-=======
+# Sebacina rosea (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

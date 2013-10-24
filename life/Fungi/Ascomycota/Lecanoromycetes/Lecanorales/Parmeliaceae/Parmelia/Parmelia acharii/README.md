@@ -1,5 +1,4 @@
-Parmelia acharii (Ach.) Spreng. SPECIES
-=======
+# Parmelia acharii (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

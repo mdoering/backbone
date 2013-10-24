@@ -1,5 +1,4 @@
-Ascosphaera columbrina Bissett SPECIES
-=======
+# Ascosphaera columbrina Bissett SPECIES
 
 #### Status
 ACCEPTED

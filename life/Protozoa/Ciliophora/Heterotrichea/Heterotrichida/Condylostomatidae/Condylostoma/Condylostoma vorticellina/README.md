@@ -1,5 +1,4 @@
-Condylostoma vorticellina SPECIES
-=======
+# Condylostoma vorticellina SPECIES
 
 #### Status
 ACCEPTED

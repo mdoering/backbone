@@ -1,5 +1,4 @@
-Spraguidae FAMILY
-=======
+# Spraguidae FAMILY
 
 #### Status
 ACCEPTED

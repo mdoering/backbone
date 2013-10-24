@@ -1,17 +1,16 @@
-Agaricus lejoderma DC. SPECIES
-=======
+# Agaricus leiocephalus DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 53 (1815)
 
 #### Original name
-Agaricus lejoderma DC.
+Agaricus leiocephalus DC.
 
 ### Remarks
 null

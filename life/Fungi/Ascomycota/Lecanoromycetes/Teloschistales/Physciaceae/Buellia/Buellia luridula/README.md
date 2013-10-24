@@ -1,5 +1,4 @@
-Buellia luridula (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia luridula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

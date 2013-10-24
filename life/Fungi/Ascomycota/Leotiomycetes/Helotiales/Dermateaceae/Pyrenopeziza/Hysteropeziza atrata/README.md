@@ -1,5 +1,4 @@
-Hysteropeziza atrata Höhn. SPECIES
-=======
+# Hysteropeziza atrata Höhn. SPECIES
 
 #### Status
 ACCEPTED

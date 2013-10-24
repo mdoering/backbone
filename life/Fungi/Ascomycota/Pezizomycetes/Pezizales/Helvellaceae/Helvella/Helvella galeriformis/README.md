@@ -1,5 +1,4 @@
-Helvella galeriformis B. Liu & J.Z. Cao SPECIES
-=======
+# Helvella galeriformis B. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

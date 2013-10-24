@@ -1,5 +1,4 @@
-Fomes pentzkei (Kalchbr.) F.M. Bailey SPECIES
-=======
+# Fomes pentzkei (Kalchbr.) F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

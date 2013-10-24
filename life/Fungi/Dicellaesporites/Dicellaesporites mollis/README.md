@@ -1,5 +1,4 @@
-Dicellaesporites mollis P. Ke & Z.Y. Shi SPECIES
-=======
+# Dicellaesporites mollis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

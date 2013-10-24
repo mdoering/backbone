@@ -1,5 +1,4 @@
-Spermatodium viridescens (Fée) Trevis. SPECIES
-=======
+# Spermatodium viridescens (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

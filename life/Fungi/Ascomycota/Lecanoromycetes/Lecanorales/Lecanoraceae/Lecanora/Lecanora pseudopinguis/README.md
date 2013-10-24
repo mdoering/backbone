@@ -1,5 +1,4 @@
-Lecanora pseudopinguis W.A. Weber SPECIES
-=======
+# Lecanora pseudopinguis W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

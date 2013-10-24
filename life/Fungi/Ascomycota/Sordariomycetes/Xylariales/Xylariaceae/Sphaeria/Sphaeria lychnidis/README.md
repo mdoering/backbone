@@ -1,5 +1,4 @@
-Sphaeria lychnidis Kunze SPECIES
-=======
+# Sphaeria lychnidis Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea munkii Speg. SPECIES
-=======
+# Dothidea munkii Speg. SPECIES
 
 #### Status
 ACCEPTED

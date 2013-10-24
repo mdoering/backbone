@@ -1,5 +1,4 @@
-Termitomyces narobiensis Otieno SPECIES
-=======
+# Termitomyces narobiensis Otieno SPECIES
 
 #### Status
 ACCEPTED

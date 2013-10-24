@@ -1,5 +1,4 @@
-Parmeliella granulifera P.M. Jørg. SPECIES
-=======
+# Parmeliella granulifera P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prediscosphaera solida (Shumenko, 1971) Shumenko, 1976 SPECIES
-=======
+# Prediscosphaera solida (Shumenko, 1971) Shumenko, 1976 SPECIES
 
 #### Status
 ACCEPTED

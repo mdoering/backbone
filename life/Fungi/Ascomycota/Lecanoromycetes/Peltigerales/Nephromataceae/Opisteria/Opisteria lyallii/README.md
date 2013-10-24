@@ -1,5 +1,4 @@
-Opisteria lyallii (C. Bab.) Vain. SPECIES
-=======
+# Opisteria lyallii (C. Bab.) Vain. SPECIES
 
 #### Status
 ACCEPTED

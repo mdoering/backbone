@@ -1,5 +1,4 @@
-Amphoroblastia abscondita (Nyl.) Servít SPECIES
-=======
+# Amphoroblastia abscondita (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

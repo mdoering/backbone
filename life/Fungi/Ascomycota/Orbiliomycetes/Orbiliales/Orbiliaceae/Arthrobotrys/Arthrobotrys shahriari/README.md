@@ -1,5 +1,4 @@
-Arthrobotrys shahriari (Mekht.) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys shahriari (Mekht.) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

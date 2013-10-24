@@ -1,5 +1,4 @@
-Botrytis trabea (Berk. & Broome) Sacc. SPECIES
-=======
+# Botrytis trabea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

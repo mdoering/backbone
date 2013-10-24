@@ -1,5 +1,4 @@
-Wrightoporia efibulata I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Wrightoporia efibulata I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

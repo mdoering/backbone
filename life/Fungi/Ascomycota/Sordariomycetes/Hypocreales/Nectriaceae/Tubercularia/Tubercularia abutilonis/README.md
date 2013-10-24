@@ -1,5 +1,4 @@
-Tubercularia abutilonis Katsura SPECIES
-=======
+# Tubercularia abutilonis Katsura SPECIES
 
 #### Status
 ACCEPTED

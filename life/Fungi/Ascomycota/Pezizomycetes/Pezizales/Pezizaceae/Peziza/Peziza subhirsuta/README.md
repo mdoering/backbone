@@ -1,5 +1,4 @@
-Peziza subhirsuta SPECIES
-=======
+# Peziza subhirsuta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simia annularis (Timofeev, 1969) Mikhailova in Jankauskas et al., 1989 SPECIES
-=======
+# Simia annularis (Timofeev, 1969) Mikhailova in Jankauskas et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

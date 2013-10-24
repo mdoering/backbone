@@ -1,5 +1,4 @@
-Opegrapha curvula Redinger SPECIES
-=======
+# Opegrapha curvula Redinger SPECIES
 
 #### Status
 ACCEPTED

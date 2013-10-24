@@ -1,5 +1,4 @@
-Gloniella sampaioi Gonz. Frag. SPECIES
-=======
+# Gloniella sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

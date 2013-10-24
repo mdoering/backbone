@@ -1,5 +1,4 @@
-Amanita parva (Murrill) Murrill SPECIES
-=======
+# Amanita parva (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

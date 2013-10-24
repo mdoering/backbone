@@ -1,5 +1,4 @@
-Textularia catenata Cushman, 1911 SPECIES
-=======
+# Textularia catenata Cushman, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cervicolor Nyl. SPECIES
-=======
+# Lecidea cervicolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lyophyllum platypum Kühner, 1954 SPECIES
-=======
+# Tephrocybe platypus (Kühner) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax 8: 75 (1954)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 115 (1967)
 
 #### Original name
 Lyophyllum platypum Kühner, 1954

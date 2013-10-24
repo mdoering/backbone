@@ -1,5 +1,4 @@
-Ludovicia aurata (Mont. & Bosch) Trevis. SPECIES
-=======
+# Ludovicia aurata (Mont. & Bosch) Trevis. SPECIES
 
 #### Status
 ACCEPTED

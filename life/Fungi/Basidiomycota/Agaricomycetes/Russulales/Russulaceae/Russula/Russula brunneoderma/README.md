@@ -1,5 +1,4 @@
-Russula brunneoderma Buyck SPECIES
-=======
+# Russula brunneoderma Buyck SPECIES
 
 #### Status
 ACCEPTED

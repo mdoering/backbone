@@ -1,5 +1,4 @@
-Aploporthella bavarica Petr. SPECIES
-=======
+# Aploporthella bavarica Petr. SPECIES
 
 #### Status
 ACCEPTED

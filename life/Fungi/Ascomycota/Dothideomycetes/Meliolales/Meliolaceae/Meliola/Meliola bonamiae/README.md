@@ -1,5 +1,4 @@
-Meliola bonamiae Hansf. & Deighton SPECIES
-=======
+# Meliola bonamiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssoporia M.J. Larsen & Zak GENUS
-=======
+# Byssoporia M.J. Larsen & Zak GENUS
 
 #### Status
 ACCEPTED

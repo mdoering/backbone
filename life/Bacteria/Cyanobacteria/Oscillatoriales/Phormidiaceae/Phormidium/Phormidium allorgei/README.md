@@ -1,8 +1,7 @@
-Lyngbya allorgei Frémy SPECIES
-=======
+# Phormidium allorgei (Frémy) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Fucus menziesii Turner SPECIES
-=======
+# Fucus menziesii Turner SPECIES
 
 #### Status
 ACCEPTED

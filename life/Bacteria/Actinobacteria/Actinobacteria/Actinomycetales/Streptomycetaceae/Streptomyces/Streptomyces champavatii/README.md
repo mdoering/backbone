@@ -1,5 +1,4 @@
-Streptomyces champavatii Uma and Narasimha Rao, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces champavatii Uma and Narasimha Rao, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonitis sphaerocephala J.F. Gmel. SPECIES
-=======
+# Stemonitis sphaerocephala J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

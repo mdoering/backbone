@@ -1,5 +1,4 @@
-Agaricus orbiformis subsp. orbiformis SUBSPECIES
-=======
+# Agaricus orbiformis Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 76 (1838)
 
 #### Original name
-Agaricus orbiformis subsp. orbiformis
+Agaricus orbiformis Fr.
 
 ### Remarks
 null

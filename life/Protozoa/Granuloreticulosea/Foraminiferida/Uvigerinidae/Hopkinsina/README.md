@@ -1,5 +1,4 @@
-Hopkinsina Howe & Wallace, 1933 GENUS
-=======
+# Hopkinsina Howe & Wallace, 1933 GENUS
 
 #### Status
 ACCEPTED

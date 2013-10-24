@@ -1,14 +1,13 @@
-Fomes malvenus Lloyd, 1915 SPECIES
-=======
+# Perenniporia malvena (Lloyd) Ryvarden, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycological Writings 4 (Synopsis of the Genus Fomes) (Cincinnati) 282 (1915)
+Mycotaxon 35(2): 233 (1989)
 
 #### Original name
 Fomes malvenus Lloyd, 1915

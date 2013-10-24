@@ -1,5 +1,4 @@
-Dermoloma hygrophorus Joss. SPECIES
-=======
+# Dermoloma hygrophorus Joss. SPECIES
 
 #### Status
 ACCEPTED

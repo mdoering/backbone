@@ -1,5 +1,4 @@
-Enerthidium canari Syd. SPECIES
-=======
+# Enerthidium canari Syd. SPECIES
 
 #### Status
 ACCEPTED

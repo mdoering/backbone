@@ -1,5 +1,4 @@
-Collemopsis areolata (Zwackh) Nyl. SPECIES
-=======
+# Collemopsis areolata (Zwackh) Nyl. SPECIES
 
 #### Status
 ACCEPTED

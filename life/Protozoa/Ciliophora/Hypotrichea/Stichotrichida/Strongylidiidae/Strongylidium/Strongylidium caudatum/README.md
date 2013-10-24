@@ -1,5 +1,4 @@
-Strongylidium caudatum Kahl, 1932 SPECIES
-=======
+# Strongylidium caudatum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

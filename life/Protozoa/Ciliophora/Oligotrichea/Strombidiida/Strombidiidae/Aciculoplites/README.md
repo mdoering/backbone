@@ -1,5 +1,4 @@
-Aciculoplites GENUS
-=======
+# Aciculoplites GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia aronici Fuckel SPECIES
-=======
+# Ramularia aronici Fuckel SPECIES
 
 #### Status
 ACCEPTED

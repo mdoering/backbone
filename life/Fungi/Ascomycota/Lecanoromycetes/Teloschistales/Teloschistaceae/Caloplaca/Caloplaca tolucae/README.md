@@ -1,5 +1,4 @@
-Caloplaca tolucae (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca tolucae (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

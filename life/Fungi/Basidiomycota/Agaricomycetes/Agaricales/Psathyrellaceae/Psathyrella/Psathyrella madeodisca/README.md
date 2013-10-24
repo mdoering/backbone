@@ -1,5 +1,4 @@
-Psathyrella madeodisca (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella madeodisca (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

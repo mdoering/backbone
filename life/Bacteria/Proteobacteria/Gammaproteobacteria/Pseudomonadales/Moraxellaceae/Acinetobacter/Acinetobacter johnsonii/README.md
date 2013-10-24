@@ -1,5 +1,4 @@
-Acinetobacter johnsonii Bouvet & Grimont, 1986 SPECIES
-=======
+# Acinetobacter johnsonii Bouvet & Grimont, 1986 SPECIES
 
 #### Status
 ACCEPTED

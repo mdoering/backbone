@@ -1,5 +1,4 @@
-Lecanorella josiasii Frey SPECIES
-=======
+# Lecanorella josiasii Frey SPECIES
 
 #### Status
 ACCEPTED

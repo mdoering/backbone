@@ -1,17 +1,16 @@
-Nephroma isidiosum var. isidiosum VARIETY
-=======
+# Nephroma isidiosum (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Nephroma isidiosum var. isidiosum
+Nephromium isidiosum Nyl.
 
 ### Remarks
 null

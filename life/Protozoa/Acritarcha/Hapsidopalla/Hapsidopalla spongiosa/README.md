@@ -1,5 +1,4 @@
-Hapsidopalla spongiosa Le Hérissé, 1989 SPECIES
-=======
+# Hapsidopalla spongiosa Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

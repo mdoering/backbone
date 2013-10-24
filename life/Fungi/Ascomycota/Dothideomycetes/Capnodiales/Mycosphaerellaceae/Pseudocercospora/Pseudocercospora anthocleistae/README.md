@@ -1,5 +1,4 @@
-Pseudocercospora anthocleistae (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Pseudocercospora anthocleistae (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

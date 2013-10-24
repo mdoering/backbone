@@ -1,5 +1,4 @@
-Rhizoctonia tabifica Hallier SPECIES
-=======
+# Rhizoctonia tabifica Hallier SPECIES
 
 #### Status
 ACCEPTED

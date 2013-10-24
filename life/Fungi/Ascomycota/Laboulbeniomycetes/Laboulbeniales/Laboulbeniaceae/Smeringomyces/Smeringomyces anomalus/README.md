@@ -1,14 +1,13 @@
-Rhachomyces anomalus Thaxt., 1903 SPECIES
-=======
+# Smeringomyces anomalus (Thaxt.) Thaxt., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 38: 25 (1903)
+null
 
 #### Original name
 Rhachomyces anomalus Thaxt., 1903

@@ -1,5 +1,4 @@
-Antrodia cinnamomea T.T. Chang & W.N. Chou, 1995 SPECIES
-=======
+# Antrodia cinnamomea T.T. Chang & W.N. Chou, 1995 SPECIES
 
 #### Status
 ACCEPTED

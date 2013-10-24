@@ -1,5 +1,4 @@
-Phormidium persicinum Reinke ex Gomont SPECIES
-=======
+# Phormidium persicinum Reinke ex Gomont SPECIES
 
 #### Status
 ACCEPTED

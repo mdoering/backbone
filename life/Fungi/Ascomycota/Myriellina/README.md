@@ -1,5 +1,4 @@
-Myriellina Höhn. GENUS
-=======
+# Myriellina Höhn. GENUS
 
 #### Status
 ACCEPTED

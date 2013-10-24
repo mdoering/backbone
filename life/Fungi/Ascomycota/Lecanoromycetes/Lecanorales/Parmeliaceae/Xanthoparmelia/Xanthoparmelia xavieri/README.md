@@ -1,5 +1,4 @@
-Xanthoparmelia xavieri T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia xavieri T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

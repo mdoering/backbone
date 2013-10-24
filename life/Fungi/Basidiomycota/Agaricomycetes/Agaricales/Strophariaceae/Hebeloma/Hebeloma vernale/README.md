@@ -1,5 +1,4 @@
-Hebeloma vernale Velen. SPECIES
-=======
+# Hebeloma vernale Velen. SPECIES
 
 #### Status
 ACCEPTED

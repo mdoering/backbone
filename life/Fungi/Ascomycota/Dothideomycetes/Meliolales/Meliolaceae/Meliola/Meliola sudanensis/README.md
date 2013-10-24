@@ -1,5 +1,4 @@
-Meliola sudanensis Hansf. SPECIES
-=======
+# Meliola sudanensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Campanella peullensis Singer, 1969 SPECIES
-=======
+# Tetrapyrgos peullensis (Singer) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 29: 85 (1969)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Campanella peullensis Singer, 1969

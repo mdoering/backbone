@@ -1,5 +1,4 @@
-Pertusaria tenella Müll. Arg. SPECIES
-=======
+# Pertusaria tenella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

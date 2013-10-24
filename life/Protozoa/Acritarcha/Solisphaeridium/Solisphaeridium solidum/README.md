@@ -1,5 +1,4 @@
-Solisphaeridium solidum SPECIES
-=======
+# Solisphaeridium solidum SPECIES
 
 #### Status
 ACCEPTED

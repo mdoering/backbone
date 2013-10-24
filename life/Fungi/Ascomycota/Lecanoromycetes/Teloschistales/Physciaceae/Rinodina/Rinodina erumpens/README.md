@@ -1,5 +1,4 @@
-Rinodina erumpens H. Magn. SPECIES
-=======
+# Rinodina erumpens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

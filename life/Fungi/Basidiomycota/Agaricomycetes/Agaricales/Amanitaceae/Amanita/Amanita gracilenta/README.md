@@ -1,5 +1,4 @@
-Amanita gracilenta A.E. Wood SPECIES
-=======
+# Amanita gracilenta A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

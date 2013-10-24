@@ -1,5 +1,4 @@
-Sphingomonas asaccharolytica Takeuchi et al., 1995 SPECIES
-=======
+# Sphingomonas asaccharolytica Takeuchi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

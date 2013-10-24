@@ -1,5 +1,4 @@
-Pseudographium von Höhnel, 1915 GENUS
-=======
+# Pseudographium von Höhnel, 1915 GENUS
 
 #### Status
 ACCEPTED

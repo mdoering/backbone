@@ -1,5 +1,4 @@
-Valsella pedicellata E.K. Cash & A.M.J. Watson SPECIES
-=======
+# Valsella pedicellata E.K. Cash & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

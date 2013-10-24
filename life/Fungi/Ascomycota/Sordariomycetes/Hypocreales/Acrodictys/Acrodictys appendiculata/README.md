@@ -1,5 +1,4 @@
-Acrodictys appendiculata M.B. Ellis SPECIES
-=======
+# Acrodictys appendiculata M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

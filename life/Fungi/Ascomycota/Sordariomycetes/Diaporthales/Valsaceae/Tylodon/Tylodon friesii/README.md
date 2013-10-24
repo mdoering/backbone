@@ -1,5 +1,4 @@
-Tylodon friesii Banker SPECIES
-=======
+# Tylodon friesii Banker SPECIES
 
 #### Status
 ACCEPTED

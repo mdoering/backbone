@@ -1,5 +1,4 @@
-Agaricus litopus Pers. SPECIES
-=======
+# Agaricus litopus Pers. SPECIES
 
 #### Status
 ACCEPTED

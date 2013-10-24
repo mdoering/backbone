@@ -1,5 +1,4 @@
-Laboulbenia helicophora Thaxt. SPECIES
-=======
+# Laboulbenia helicophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

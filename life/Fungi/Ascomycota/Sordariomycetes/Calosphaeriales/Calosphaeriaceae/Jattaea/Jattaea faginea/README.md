@@ -1,5 +1,4 @@
-Jattaea faginea Moesz, 1944 SPECIES
-=======
+# Jattaea faginea Moesz, 1944 SPECIES
 
 #### Status
 ACCEPTED

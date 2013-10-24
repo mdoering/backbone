@@ -1,5 +1,4 @@
-Zygodiscus anthophorus (Deflandre) F.H. Wind & S.W. Wise SPECIES
-=======
+# Zygodiscus anthophorus (Deflandre) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

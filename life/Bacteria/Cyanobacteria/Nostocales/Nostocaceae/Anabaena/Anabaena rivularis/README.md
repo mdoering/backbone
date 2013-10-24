@@ -1,5 +1,4 @@
-Anabaena rivularis (Carmichael) Rabenhorst SPECIES
-=======
+# Anabaena rivularis (Carmichael) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

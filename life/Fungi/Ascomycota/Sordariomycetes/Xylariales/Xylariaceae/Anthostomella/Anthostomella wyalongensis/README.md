@@ -1,5 +1,4 @@
-Anthostomella wyalongensis Petr. SPECIES
-=======
+# Anthostomella wyalongensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelocarpon elsneri Stein SPECIES
-=======
+# Thelocarpon lichenicola (Fuckel) Poelt & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phyton, Horn 17(1-2): 70 (1975)
 
 #### Original name
-null
+Ahlesia lichenicola Fuckel
 
 ### Remarks
 null

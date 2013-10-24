@@ -1,5 +1,4 @@
-Phomopsis fukushii S. Endo & Tanaka, 1927 SPECIES
-=======
+# Phomopsis fukushii S. Endo & Tanaka, 1927 SPECIES
 
 #### Status
 ACCEPTED

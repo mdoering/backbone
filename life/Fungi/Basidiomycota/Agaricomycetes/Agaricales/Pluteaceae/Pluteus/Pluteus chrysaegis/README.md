@@ -1,5 +1,4 @@
-Pluteus chrysaegis (Berk. & Broome) Petch SPECIES
-=======
+# Pluteus chrysaegis (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

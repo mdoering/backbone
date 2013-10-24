@@ -1,5 +1,4 @@
-Arthopyrenia taxodii R. C. Harris SPECIES
-=======
+# Arthopyrenia taxodii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

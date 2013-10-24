@@ -1,5 +1,4 @@
-Pseudocercospora fatouae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora fatouae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

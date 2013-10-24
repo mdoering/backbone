@@ -1,5 +1,4 @@
-Actinomyces congolensis (Baerts) Brumpt SPECIES
-=======
+# Actinomyces congolensis (Baerts) Brumpt SPECIES
 
 #### Status
 ACCEPTED

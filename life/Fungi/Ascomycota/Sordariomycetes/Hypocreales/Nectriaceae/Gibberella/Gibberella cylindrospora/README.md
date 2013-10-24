@@ -1,5 +1,4 @@
-Gibberella cylindrospora Saccas SPECIES
-=======
+# Gibberella cylindrospora Saccas SPECIES
 
 #### Status
 ACCEPTED

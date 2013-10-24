@@ -1,5 +1,4 @@
-Xenosporella GENUS
-=======
+# Xenosporella GENUS
 
 #### Status
 ACCEPTED

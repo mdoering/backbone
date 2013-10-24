@@ -1,5 +1,4 @@
-Phoma phytolaccae Berk. & M.A. Curtis SPECIES
-=======
+# Phoma phytolaccae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

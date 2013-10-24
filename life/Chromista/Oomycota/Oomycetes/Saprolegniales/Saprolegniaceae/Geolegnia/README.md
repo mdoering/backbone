@@ -1,5 +1,4 @@
-Geolegnia Coker GENUS
-=======
+# Geolegnia Coker GENUS
 
 #### Status
 ACCEPTED

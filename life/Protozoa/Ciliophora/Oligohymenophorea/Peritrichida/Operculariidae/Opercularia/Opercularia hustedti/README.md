@@ -1,5 +1,4 @@
-Opercularia hustedti Sommer, 1951 SPECIES
-=======
+# Opercularia hustedti Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

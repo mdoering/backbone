@@ -1,5 +1,4 @@
-Bactridium effusum Schwein. SPECIES
-=======
+# Bactridium effusum Schwein. SPECIES
 
 #### Status
 ACCEPTED

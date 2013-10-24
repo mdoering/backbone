@@ -1,5 +1,4 @@
-Collybia mollis Velen. SPECIES
-=======
+# Collybia mollis Velen. SPECIES
 
 #### Status
 ACCEPTED

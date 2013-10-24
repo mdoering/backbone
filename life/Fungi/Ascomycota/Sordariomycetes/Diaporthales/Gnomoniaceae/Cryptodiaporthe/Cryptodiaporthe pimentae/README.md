@@ -1,5 +1,4 @@
-Cryptodiaporthe pimentae Punith. & C. Booth SPECIES
-=======
+# Cryptodiaporthe pimentae Punith. & C. Booth SPECIES
 
 #### Status
 ACCEPTED

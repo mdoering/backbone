@@ -1,5 +1,4 @@
-Naucoria pseudannulata Hruby SPECIES
-=======
+# Naucoria pseudannulata Hruby SPECIES
 
 #### Status
 ACCEPTED

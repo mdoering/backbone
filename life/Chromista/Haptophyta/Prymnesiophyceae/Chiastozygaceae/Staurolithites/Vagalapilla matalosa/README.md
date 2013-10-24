@@ -1,5 +1,4 @@
-Vagalapilla matalosa (Stover, 1966) Thierstein, 1973 SPECIES
-=======
+# Vagalapilla matalosa (Stover, 1966) Thierstein, 1973 SPECIES
 
 #### Status
 DOUBTFUL

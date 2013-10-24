@@ -1,5 +1,4 @@
-Shanoria bambusarum (Shanor) Subram. & K. Ramakr. SPECIES
-=======
+# Shanoria bambusarum (Shanor) Subram. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

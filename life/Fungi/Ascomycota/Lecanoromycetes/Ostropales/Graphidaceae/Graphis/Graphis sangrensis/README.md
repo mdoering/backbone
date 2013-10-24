@@ -1,5 +1,4 @@
-Graphis sangrensis Vain. SPECIES
-=======
+# Graphis sangrensis Vain. SPECIES
 
 #### Status
 ACCEPTED

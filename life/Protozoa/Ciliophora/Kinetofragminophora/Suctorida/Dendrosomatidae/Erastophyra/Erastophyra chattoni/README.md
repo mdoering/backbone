@@ -1,5 +1,4 @@
-Erastophyra chattoni SPECIES
-=======
+# Erastophyra chattoni SPECIES
 
 #### Status
 ACCEPTED

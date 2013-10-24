@@ -1,5 +1,4 @@
-Lecidea granulatofurfuracea Kremp. SPECIES
-=======
+# Lecidea granulatofurfuracea Kremp. SPECIES
 
 #### Status
 ACCEPTED

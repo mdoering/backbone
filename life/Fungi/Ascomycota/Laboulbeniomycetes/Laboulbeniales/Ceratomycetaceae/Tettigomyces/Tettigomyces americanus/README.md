@@ -1,5 +1,4 @@
-Tettigomyces americanus Thaxt. SPECIES
-=======
+# Tettigomyces americanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

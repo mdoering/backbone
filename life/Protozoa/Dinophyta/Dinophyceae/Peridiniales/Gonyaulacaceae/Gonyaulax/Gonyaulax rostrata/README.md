@@ -1,5 +1,4 @@
-Gonyaulax rostrata Dangeard SPECIES
-=======
+# Gonyaulax rostrata Dangeard SPECIES
 
 #### Status
 ACCEPTED

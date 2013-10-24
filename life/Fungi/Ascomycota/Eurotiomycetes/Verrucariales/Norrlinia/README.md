@@ -1,5 +1,4 @@
-Norrlinia Theissen & Sydow, 1918 GENUS
-=======
+# Norrlinia Theissen & Sydow, 1918 GENUS
 
 #### Status
 ACCEPTED

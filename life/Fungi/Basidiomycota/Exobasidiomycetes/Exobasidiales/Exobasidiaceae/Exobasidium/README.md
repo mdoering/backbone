@@ -1,5 +1,4 @@
-Exobasidium Woronin, 1867 GENUS
-=======
+# Exobasidium Woronin, 1867 GENUS
 
 #### Status
 ACCEPTED

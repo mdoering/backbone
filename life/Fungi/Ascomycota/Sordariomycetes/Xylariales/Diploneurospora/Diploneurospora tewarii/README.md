@@ -1,5 +1,4 @@
-Diploneurospora tewarii K.P. Jain & R.C. Gupta SPECIES
-=======
+# Diploneurospora tewarii K.P. Jain & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

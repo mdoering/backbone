@@ -1,5 +1,4 @@
-Sporidesmium omahutaense Matsush., 1985 SPECIES
-=======
+# Sporidesmium omahutaense Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

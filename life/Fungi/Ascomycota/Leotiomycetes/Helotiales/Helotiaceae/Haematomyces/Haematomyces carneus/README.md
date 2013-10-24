@@ -1,5 +1,4 @@
-Haematomyces carneus Rehm SPECIES
-=======
+# Haematomyces carneus Rehm SPECIES
 
 #### Status
 ACCEPTED

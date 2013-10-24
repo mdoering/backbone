@@ -1,5 +1,4 @@
-Sporidesmiella claviformis P.M. Kirk, 1982 SPECIES
-=======
+# Sporidesmiella claviformis P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

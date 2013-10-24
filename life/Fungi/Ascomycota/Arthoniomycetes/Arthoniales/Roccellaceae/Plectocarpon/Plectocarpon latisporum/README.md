@@ -1,5 +1,4 @@
-Plectocarpon latisporum Ertz, Diederich & Wedin SPECIES
-=======
+# Plectocarpon latisporum Ertz, Diederich & Wedin SPECIES
 
 #### Status
 ACCEPTED

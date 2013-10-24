@@ -1,5 +1,4 @@
-Macrophoma liliicola N.D. Sharma SPECIES
-=======
+# Macrophoma liliicola N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

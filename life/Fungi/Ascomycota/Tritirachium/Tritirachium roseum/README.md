@@ -1,5 +1,4 @@
-Tritirachium roseum J.F.H. Beyma SPECIES
-=======
+# Tritirachium roseum J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia bruchii (Speg.) Thaxt. SPECIES
-=======
+# Laboulbenia bruchii (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

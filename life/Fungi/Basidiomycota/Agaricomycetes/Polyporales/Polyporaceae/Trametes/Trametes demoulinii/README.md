@@ -1,5 +1,4 @@
-Trametes demoulinii G. Castillo SPECIES
-=======
+# Trametes demoulinii G. Castillo SPECIES
 
 #### Status
 ACCEPTED

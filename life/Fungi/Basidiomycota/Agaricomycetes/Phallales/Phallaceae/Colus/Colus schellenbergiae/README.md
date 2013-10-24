@@ -1,5 +1,4 @@
-Colus schellenbergiae Sumst. SPECIES
-=======
+# Colus schellenbergiae Sumst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclobacterium amurskyense Nedashkovskaya, Kim, Lee, Park, Lee, Lysenko, Oh, Mikhailov & Bae SPECIES
-=======
+# Cyclobacterium amurskyense Nedashkovskaya, Kim, Lee, Park, Lee, Lysenko, Oh, Mikhailov & Bae SPECIES
 
 #### Status
 ACCEPTED

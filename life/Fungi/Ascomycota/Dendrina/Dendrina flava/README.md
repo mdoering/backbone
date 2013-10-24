@@ -1,5 +1,4 @@
-Dendrina flava Fr. SPECIES
-=======
+# Dendrina flava Fr. SPECIES
 
 #### Status
 ACCEPTED

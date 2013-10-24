@@ -1,5 +1,4 @@
-Triposporina yakuensis Matsush. SPECIES
-=======
+# Triposporina yakuensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

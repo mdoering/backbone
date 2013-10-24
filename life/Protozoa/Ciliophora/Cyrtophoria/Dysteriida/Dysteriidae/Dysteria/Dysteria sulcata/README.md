@@ -1,5 +1,4 @@
-Dysteria sulcata (Claparède & Lachmann, 1859) ?, ? SPECIES
-=======
+# Dysteria sulcata (Claparède & Lachmann, 1859) ?, ? SPECIES
 
 #### Status
 ACCEPTED

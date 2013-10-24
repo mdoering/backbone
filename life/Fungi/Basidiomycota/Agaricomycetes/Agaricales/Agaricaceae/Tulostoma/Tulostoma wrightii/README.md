@@ -1,5 +1,4 @@
-Tulostoma wrightii Berk. SPECIES
-=======
+# Tulostoma wrightii Berk. SPECIES
 
 #### Status
 ACCEPTED

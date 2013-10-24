@@ -1,5 +1,4 @@
-Phyllosticta capsellae N.F. Buchw. SPECIES
-=======
+# Phyllosticta capsellae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

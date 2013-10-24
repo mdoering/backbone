@@ -1,5 +1,4 @@
-Stilbella heveae Zimm. SPECIES
-=======
+# Stilbella heveae Zimm. SPECIES
 
 #### Status
 ACCEPTED

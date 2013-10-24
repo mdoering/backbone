@@ -1,5 +1,4 @@
-Graphis sophistica SPECIES
-=======
+# Graphis sophistica SPECIES
 
 #### Status
 ACCEPTED

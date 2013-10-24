@@ -1,5 +1,4 @@
-Dominopolia lata Kiryanov, 1974 SPECIES
-=======
+# Dominopolia lata Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

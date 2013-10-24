@@ -1,5 +1,4 @@
-Tolyposporium pampeanum Speg. SPECIES
-=======
+# Tolyposporium pampeanum Speg. SPECIES
 
 #### Status
 ACCEPTED

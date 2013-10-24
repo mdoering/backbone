@@ -1,14 +1,13 @@
-Hypocrea subtrachycarpa Yoshim. Doi, 1975 SPECIES
-=======
+# Sarawakus subtrachycarpus (Yoshim. Doi) Samuels & Rossman, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 1(1): 14 (1975)
+Mycologia 84(1): 35 (1992)
 
 #### Original name
 Hypocrea subtrachycarpa Yoshim. Doi, 1975

@@ -1,5 +1,4 @@
-Dentipratulum bialoviesense Domanski, 1965 SPECIES
-=======
+# Dentipratulum bialoviesense Domanski, 1965 SPECIES
 
 #### Status
 ACCEPTED

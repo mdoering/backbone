@@ -1,5 +1,4 @@
-Lecidea ocellifera Nyl. SPECIES
-=======
+# Lecidea ocellifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

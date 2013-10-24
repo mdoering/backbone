@@ -1,5 +1,4 @@
-Rhizosoleniaceae Petit FAMILY
-=======
+# Rhizosoleniaceae Petit FAMILY
 
 #### Status
 ACCEPTED

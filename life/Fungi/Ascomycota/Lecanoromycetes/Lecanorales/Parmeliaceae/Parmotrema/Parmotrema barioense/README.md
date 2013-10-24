@@ -1,5 +1,4 @@
-Parmotrema barioense Elix, Laily & G. Ismail SPECIES
-=======
+# Parmotrema barioense Elix, Laily & G. Ismail SPECIES
 
 #### Status
 ACCEPTED

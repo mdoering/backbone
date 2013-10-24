@@ -1,5 +1,4 @@
-Pyxine austroindica D.D. Awasthi SPECIES
-=======
+# Pyxine austroindica D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

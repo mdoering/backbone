@@ -1,5 +1,4 @@
-Pseudocercospora macrospora (Bat. & Peres) Crous & Bench. SPECIES
-=======
+# Pseudocercospora macrospora (Bat. & Peres) Crous & Bench. SPECIES
 
 #### Status
 ACCEPTED

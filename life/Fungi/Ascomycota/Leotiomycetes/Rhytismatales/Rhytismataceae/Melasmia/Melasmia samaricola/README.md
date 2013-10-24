@@ -1,5 +1,4 @@
-Melasmia samaricola H.C. Greene SPECIES
-=======
+# Melasmia samaricola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina fleuryae Doidge SPECIES
-=======
+# Asterina fleuryae Doidge SPECIES
 
 #### Status
 ACCEPTED

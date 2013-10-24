@@ -1,5 +1,4 @@
-Asterina malleae Hansf. SPECIES
-=======
+# Asterina malleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

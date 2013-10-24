@@ -1,5 +1,4 @@
-Polysaccum conglomeratum Fr. SPECIES
-=======
+# Polysaccum conglomeratum Fr. SPECIES
 
 #### Status
 ACCEPTED

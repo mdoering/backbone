@@ -1,5 +1,4 @@
-Placidium A. Massal. GENUS
-=======
+# Placidium A. Massal. GENUS
 
 #### Status
 ACCEPTED

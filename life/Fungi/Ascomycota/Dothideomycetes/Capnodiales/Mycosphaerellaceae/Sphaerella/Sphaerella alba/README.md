@@ -1,5 +1,4 @@
-Sphaerella alba Pass. SPECIES
-=======
+# Sphaerella alba Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus radicatus (Cleland) Grgur. SPECIES
-=======
+# Coprinus radicatus (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

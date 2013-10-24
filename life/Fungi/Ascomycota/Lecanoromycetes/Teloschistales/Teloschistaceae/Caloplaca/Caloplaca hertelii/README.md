@@ -1,5 +1,4 @@
-Caloplaca hertelii Søchting, Øvstedal & Sancho SPECIES
-=======
+# Caloplaca hertelii Søchting, Øvstedal & Sancho SPECIES
 
 #### Status
 ACCEPTED

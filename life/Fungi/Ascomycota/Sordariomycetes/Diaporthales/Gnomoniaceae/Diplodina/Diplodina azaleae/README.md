@@ -1,5 +1,4 @@
-Diplodina azaleae Zerova SPECIES
-=======
+# Diplodina azaleae Zerova SPECIES
 
 #### Status
 ACCEPTED

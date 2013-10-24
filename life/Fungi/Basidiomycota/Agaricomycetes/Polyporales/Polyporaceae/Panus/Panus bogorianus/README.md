@@ -1,5 +1,4 @@
-Panus bogorianus (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
-=======
+# Panus bogorianus (Henn. & E. Nyman) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium splendens Matuo & Takah. Kobay., 1960 SPECIES
-=======
+# Fusarium splendens Matuo & Takah. Kobay., 1960 SPECIES
 
 #### Status
 ACCEPTED

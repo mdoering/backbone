@@ -1,5 +1,4 @@
-Zignoëlla archeri (Berk.) Sacc. SPECIES
-=======
+# Zignoëlla archeri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

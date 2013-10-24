@@ -1,5 +1,4 @@
-Polystictus albidulus (Pat. & Gaillard) Sacc. SPECIES
-=======
+# Polystictus albidulus (Pat. & Gaillard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

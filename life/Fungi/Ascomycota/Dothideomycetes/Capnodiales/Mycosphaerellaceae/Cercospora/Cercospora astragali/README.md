@@ -1,5 +1,4 @@
-Cercospora astragali Woron., 1927 SPECIES
-=======
+# Cercospora astragali Woron., 1927 SPECIES
 
 #### Status
 ACCEPTED

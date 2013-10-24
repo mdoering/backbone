@@ -1,5 +1,4 @@
-Puccinia jonesii subsp. jonesii SUBSPECIES
-=======
+# Puccinia jonesii Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 6: 226 (1881)
 
 #### Original name
-Puccinia jonesii subsp. jonesii
+Puccinia jonesii Peck
 
 ### Remarks
 null

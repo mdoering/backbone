@@ -1,5 +1,4 @@
-Diplodina calvatiae Hollós SPECIES
-=======
+# Diplodina calvatiae Hollós SPECIES
 
 #### Status
 ACCEPTED

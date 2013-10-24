@@ -1,5 +1,4 @@
-Acanthochrysis W. Conrad, 1932 GENUS
-=======
+# Acanthochrysis W. Conrad, 1932 GENUS
 
 #### Status
 SYNONYM

@@ -1,5 +1,4 @@
-Valsaria bambusae J.N. Kapoor & H.S. Gill, 1962 SPECIES
-=======
+# Valsaria bambusae J.N. Kapoor & H.S. Gill, 1962 SPECIES
 
 #### Status
 ACCEPTED

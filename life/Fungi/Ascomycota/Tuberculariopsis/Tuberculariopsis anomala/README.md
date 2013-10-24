@@ -1,5 +1,4 @@
-Tuberculariopsis anomala Höhn., 1909 SPECIES
-=======
+# Tuberculariopsis anomala Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

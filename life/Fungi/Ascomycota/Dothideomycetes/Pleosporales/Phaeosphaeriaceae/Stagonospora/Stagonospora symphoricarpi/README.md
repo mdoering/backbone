@@ -1,5 +1,4 @@
-Stagonospora symphoricarpi Gonz. Frag. SPECIES
-=======
+# Stagonospora symphoricarpi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

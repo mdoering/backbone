@@ -1,14 +1,13 @@
-Diademopetra luma Hay, Mohler & Wade, 1966 SPECIES
-=======
+# Corannulus Stradner GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Verh. Geol. Reichsanst. (StAnst-Landesanst. ) Wien 1962: 365.
 
 #### Original name
 null

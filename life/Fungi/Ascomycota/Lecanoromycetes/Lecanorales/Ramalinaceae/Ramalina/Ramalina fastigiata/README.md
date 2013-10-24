@@ -1,17 +1,16 @@
-Ramalina geniculata subsp. geniculata SUBSPECIES
-=======
+# Ramalina fastigiata (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 3: 655 (1844)
+Lich. univ. 603 (1810)
 
 #### Original name
-Ramalina geniculata subsp. geniculata
+Lichen fastigiatus Pers.
 
 ### Remarks
 null

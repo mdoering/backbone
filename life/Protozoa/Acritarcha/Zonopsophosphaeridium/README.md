@@ -1,5 +1,4 @@
-Zonopsophosphaeridium GENUS
-=======
+# Zonopsophosphaeridium GENUS
 
 #### Status
 ACCEPTED

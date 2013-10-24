@@ -1,8 +1,7 @@
-Microcystis elabens var. maior Bachmann VARIETY
-=======
+# Aphanothece elabens (Brébisson) Elenkin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

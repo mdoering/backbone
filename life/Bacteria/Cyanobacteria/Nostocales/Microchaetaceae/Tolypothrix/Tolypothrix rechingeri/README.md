@@ -1,8 +1,7 @@
-Hassallia rechingeri Wille SPECIES
-=======
+# Tolypothrix rechingeri (Wille) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

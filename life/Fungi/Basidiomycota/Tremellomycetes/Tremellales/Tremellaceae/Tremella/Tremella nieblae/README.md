@@ -1,5 +1,4 @@
-Tremella nieblae Diederich & Van den Boom SPECIES
-=======
+# Tremella nieblae Diederich & Van den Boom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella rupincola Mont. SPECIES
-=======
+# Psathyrella rupincola Mont. SPECIES
 
 #### Status
 ACCEPTED

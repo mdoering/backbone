@@ -1,5 +1,4 @@
-Septoria lisianthi (Syd. & P. Syd.) Aa SPECIES
-=======
+# Septoria lisianthi (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

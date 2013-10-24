@@ -1,5 +1,4 @@
-Lecidea festiva (Ach.) SPECIES
-=======
+# Lecidea festiva (Ach.) SPECIES
 
 #### Status
 ACCEPTED

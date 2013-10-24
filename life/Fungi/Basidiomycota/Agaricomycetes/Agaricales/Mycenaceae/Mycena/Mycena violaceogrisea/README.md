@@ -1,5 +1,4 @@
-Mycena violaceogrisea Rick SPECIES
-=======
+# Mycena violaceogrisea Rick SPECIES
 
 #### Status
 ACCEPTED

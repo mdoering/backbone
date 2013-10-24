@@ -1,5 +1,4 @@
-Bostia Bassoullet, 1998 GENUS
-=======
+# Bostia Bassoullet, 1998 GENUS
 
 #### Status
 ACCEPTED

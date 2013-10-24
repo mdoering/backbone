@@ -1,5 +1,4 @@
-Sphaeria decidua Tode SPECIES
-=======
+# Sphaeria decidua Tode SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius insulsus f. insulsus FORM
-=======
+# Lactarius acerrimus Britzelm., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 336 (1838)
+Bot. Zbl. 54(4): 98 (1893)
 
 #### Original name
-Lactarius insulsus f. insulsus
+Lactarius acerrimus Britzelm., 1893
 
 ### Remarks
 null

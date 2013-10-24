@@ -1,5 +1,4 @@
-Sinolloydia GENUS
-=======
+# Sinolloydia GENUS
 
 #### Status
 ACCEPTED

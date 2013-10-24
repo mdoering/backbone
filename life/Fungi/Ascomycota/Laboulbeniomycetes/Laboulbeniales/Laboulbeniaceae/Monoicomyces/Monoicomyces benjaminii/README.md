@@ -1,5 +1,4 @@
-Monoicomyces benjaminii Santam. SPECIES
-=======
+# Monoicomyces benjaminii Santam. SPECIES
 
 #### Status
 ACCEPTED

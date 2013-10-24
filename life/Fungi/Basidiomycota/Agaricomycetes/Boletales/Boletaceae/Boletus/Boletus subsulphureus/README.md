@@ -1,5 +1,4 @@
-Boletus subsulphureus (P. Karst.) Sacc. SPECIES
-=======
+# Boletus subsulphureus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

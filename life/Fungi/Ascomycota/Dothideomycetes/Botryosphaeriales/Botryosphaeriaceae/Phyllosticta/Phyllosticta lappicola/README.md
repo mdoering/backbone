@@ -1,5 +1,4 @@
-Phyllosticta lappicola I.E. Brezhnev & Briede SPECIES
-=======
+# Phyllosticta lappicola I.E. Brezhnev & Briede SPECIES
 
 #### Status
 ACCEPTED

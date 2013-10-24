@@ -1,5 +1,4 @@
-Puccinia stapfiolae Mundk. & Thirum. SPECIES
-=======
+# Puccinia stapfiolae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

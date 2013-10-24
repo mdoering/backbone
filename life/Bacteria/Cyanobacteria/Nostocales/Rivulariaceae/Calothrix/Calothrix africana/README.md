@@ -1,5 +1,4 @@
-Calothrix africana Schmidle SPECIES
-=======
+# Calothrix africana Schmidle SPECIES
 
 #### Status
 ACCEPTED

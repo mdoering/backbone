@@ -1,5 +1,4 @@
-Echinoplaca leucomuralis Lücking SPECIES
-=======
+# Echinoplaca leucomuralis Lücking SPECIES
 
 #### Status
 ACCEPTED

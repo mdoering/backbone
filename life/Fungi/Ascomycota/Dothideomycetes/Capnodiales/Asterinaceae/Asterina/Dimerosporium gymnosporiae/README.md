@@ -1,5 +1,4 @@
-Dimerosporium gymnosporiae Henn. SPECIES
-=======
+# Dimerosporium gymnosporiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium laeve var. laeve VARIETY
-=======
+# Corticium laeve Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Corticium laeve var. laeve
+Corticium laeve Fr.
 
 ### Remarks
 null

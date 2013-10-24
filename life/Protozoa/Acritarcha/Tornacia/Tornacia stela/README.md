@@ -1,5 +1,4 @@
-Tornacia stela Wicander, 1974 SPECIES
-=======
+# Tornacia stela Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

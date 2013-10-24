@@ -1,5 +1,4 @@
-Pleospora juncicola Ellis & Everh. SPECIES
-=======
+# Pleospora juncicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

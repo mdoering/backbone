@@ -1,5 +1,4 @@
-Lecania quercicola Eitner SPECIES
-=======
+# Lecania quercicola Eitner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces ocypi Sugiy. SPECIES
-=======
+# Rhachomyces ocypi Sugiy. SPECIES
 
 #### Status
 ACCEPTED

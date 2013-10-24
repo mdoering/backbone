@@ -1,5 +1,4 @@
-Lecanora dactylopholis Nyl. SPECIES
-=======
+# Lecanora dactylopholis Nyl. SPECIES
 
 #### Status
 ACCEPTED

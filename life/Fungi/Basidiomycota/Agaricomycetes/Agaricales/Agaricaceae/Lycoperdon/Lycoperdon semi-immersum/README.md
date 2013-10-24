@@ -1,5 +1,4 @@
-Lycoperdon semi-immersum Lloyd SPECIES
-=======
+# Lycoperdon semi-immersum Lloyd SPECIES
 
 #### Status
 ACCEPTED

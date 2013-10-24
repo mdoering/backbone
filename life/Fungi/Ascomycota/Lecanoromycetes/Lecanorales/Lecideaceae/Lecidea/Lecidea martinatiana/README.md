@@ -1,5 +1,4 @@
-Lecidea martinatiana A. Massal. SPECIES
-=======
+# Lecidea martinatiana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

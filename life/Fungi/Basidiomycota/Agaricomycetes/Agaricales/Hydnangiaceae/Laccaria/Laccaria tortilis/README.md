@@ -1,17 +1,16 @@
-Agaricus contortilis J.F. Gmel., 1792 SPECIES
-=======
+# Laccaria tortilis (Bolton) Cooke, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Systema Naturae, Edn 13 2: 1418 (1792)
+Grevillea 12(no. 63): 70 (1884)
 
 #### Original name
-Agaricus contortilis J.F. Gmel., 1792
+Agaricus tortilis Bolton, 1788
 
 ### Remarks
 null

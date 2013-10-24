@@ -1,17 +1,16 @@
-Pseudohelotium punctiforme var. punctiforme VARIETY
-=======
+# Calycellina punctata (Fr.) Lowen & Dumont, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 295 (1889)
+Mycologia 76(6): 1006 (1984)
 
 #### Original name
-Pseudohelotium punctiforme var. punctiforme
+Helotium punctatum Fr., 1849
 
 ### Remarks
 null

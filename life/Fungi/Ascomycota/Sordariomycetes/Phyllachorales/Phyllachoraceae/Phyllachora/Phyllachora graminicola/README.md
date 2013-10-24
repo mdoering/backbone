@@ -1,5 +1,4 @@
-Phyllachora graminicola Sawada, 1944 SPECIES
-=======
+# Phyllachora graminicola Sawada, 1944 SPECIES
 
 #### Status
 ACCEPTED

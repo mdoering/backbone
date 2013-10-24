@@ -1,5 +1,4 @@
-Lophidium santolinae Fabre SPECIES
-=======
+# Lophidium santolinae Fabre SPECIES
 
 #### Status
 ACCEPTED

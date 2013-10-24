@@ -1,5 +1,4 @@
-Phyllosticta aurantiicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phyllosticta aurantiicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria nigroviridis P. Crouan & H. Crouan SPECIES
-=======
+# Nectria nigroviridis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

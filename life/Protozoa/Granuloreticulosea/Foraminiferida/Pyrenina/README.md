@@ -1,5 +1,4 @@
-Pyrenina Peybernes, 1984 GENUS
-=======
+# Pyrenina Peybernes, 1984 GENUS
 
 #### Status
 ACCEPTED

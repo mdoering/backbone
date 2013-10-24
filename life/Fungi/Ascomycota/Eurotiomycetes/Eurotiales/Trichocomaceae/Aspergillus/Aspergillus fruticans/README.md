@@ -1,5 +1,4 @@
-Aspergillus fruticans Samson & W. Gams SPECIES
-=======
+# Aspergillus fruticans Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

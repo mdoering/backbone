@@ -1,5 +1,4 @@
-Leptodothis Theiss. & Syd. GENUS
-=======
+# Leptodothis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

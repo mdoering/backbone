@@ -1,5 +1,4 @@
-Coniothyrium inevorum Hara SPECIES
-=======
+# Coniothyrium inevorum Hara SPECIES
 
 #### Status
 ACCEPTED

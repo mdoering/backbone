@@ -1,5 +1,4 @@
-Entoloma flocculosum (Bres.) Pacioni SPECIES
-=======
+# Entoloma flocculosum (Bres.) Pacioni SPECIES
 
 #### Status
 ACCEPTED

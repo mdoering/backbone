@@ -1,5 +1,4 @@
-Irenopsis curvata (H.S. Yates) F. Stevens SPECIES
-=======
+# Irenopsis curvata (H.S. Yates) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

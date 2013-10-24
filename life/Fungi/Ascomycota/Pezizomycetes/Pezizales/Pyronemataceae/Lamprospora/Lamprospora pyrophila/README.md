@@ -1,5 +1,4 @@
-Lamprospora pyrophila Snyder SPECIES
-=======
+# Lamprospora pyrophila Snyder SPECIES
 
 #### Status
 ACCEPTED

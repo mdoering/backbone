@@ -1,5 +1,4 @@
-Myxofusicoccum rubi Died. SPECIES
-=======
+# Myxofusicoccum rubi Died. SPECIES
 
 #### Status
 ACCEPTED

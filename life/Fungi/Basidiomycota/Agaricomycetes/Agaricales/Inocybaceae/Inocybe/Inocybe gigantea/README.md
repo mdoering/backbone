@@ -1,5 +1,4 @@
-Inocybe gigantea Bon SPECIES
-=======
+# Inocybe gigantea Bon SPECIES
 
 #### Status
 ACCEPTED

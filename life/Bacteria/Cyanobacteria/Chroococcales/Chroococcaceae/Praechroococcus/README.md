@@ -1,5 +1,4 @@
-Praechroococcus A.G. Vologdin, 1962 GENUS
-=======
+# Praechroococcus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

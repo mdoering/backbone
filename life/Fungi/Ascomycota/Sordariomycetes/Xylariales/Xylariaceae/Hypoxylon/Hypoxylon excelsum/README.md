@@ -1,5 +1,4 @@
-Hypoxylon excelsum Syd. & P. Syd. SPECIES
-=======
+# Hypoxylon excelsum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

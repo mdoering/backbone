@@ -1,5 +1,4 @@
-Biatora rubricatula (Stirt.) Hellb. SPECIES
-=======
+# Biatora rubricatula (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

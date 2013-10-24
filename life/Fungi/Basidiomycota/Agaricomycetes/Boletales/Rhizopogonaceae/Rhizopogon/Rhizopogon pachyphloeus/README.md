@@ -1,5 +1,4 @@
-Rhizopogon pachyphloeus Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon pachyphloeus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

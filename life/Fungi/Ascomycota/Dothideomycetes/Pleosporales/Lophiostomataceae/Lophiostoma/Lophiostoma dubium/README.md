@@ -1,5 +1,4 @@
-Lophiostoma dubium Curzi & Barbaini SPECIES
-=======
+# Lophiostoma dubium Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

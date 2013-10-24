@@ -1,5 +1,4 @@
-Microsphaera cocculi Golovin & Bunkina SPECIES
-=======
+# Microsphaera cocculi Golovin & Bunkina SPECIES
 
 #### Status
 ACCEPTED

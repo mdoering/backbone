@@ -1,5 +1,4 @@
-Sterigmatocystis dubia (Berk. & Broome) Sacc. SPECIES
-=======
+# Sterigmatocystis dubia (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

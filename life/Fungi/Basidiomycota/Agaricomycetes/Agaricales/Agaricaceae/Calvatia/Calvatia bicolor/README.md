@@ -1,5 +1,4 @@
-Calvatia bicolor (Lév.) Kreisel SPECIES
-=======
+# Calvatia bicolor (Lév.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

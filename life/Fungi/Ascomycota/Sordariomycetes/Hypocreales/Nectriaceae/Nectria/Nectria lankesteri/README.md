@@ -1,5 +1,4 @@
-Nectria lankesteri Döbbeler & J. Carranza SPECIES
-=======
+# Nectria lankesteri Döbbeler & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

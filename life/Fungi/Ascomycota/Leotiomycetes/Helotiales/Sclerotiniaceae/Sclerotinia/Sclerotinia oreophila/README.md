@@ -1,5 +1,4 @@
-Sclerotinia oreophila Sacc. SPECIES
-=======
+# Sclerotinia oreophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

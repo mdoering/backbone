@@ -1,5 +1,4 @@
-Aecidium dominicanum Gonz. Frag. & Cif. SPECIES
-=======
+# Aecidium dominicanum Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

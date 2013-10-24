@@ -1,5 +1,4 @@
-Diplonaevia salassorum (Défago) B. Hein SPECIES
-=======
+# Diplonaevia salassorum (Défago) B. Hein SPECIES
 
 #### Status
 ACCEPTED

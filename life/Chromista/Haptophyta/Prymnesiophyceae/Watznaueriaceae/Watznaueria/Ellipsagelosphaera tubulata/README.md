@@ -1,5 +1,4 @@
-Ellipsagelosphaera tubulata Grün & Zweili, 1980 SPECIES
-=======
+# Ellipsagelosphaera tubulata Grün & Zweili, 1980 SPECIES
 
 #### Status
 DOUBTFUL

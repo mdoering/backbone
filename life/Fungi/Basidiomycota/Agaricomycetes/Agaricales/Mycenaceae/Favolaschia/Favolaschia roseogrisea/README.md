@@ -1,5 +1,4 @@
-Favolaschia roseogrisea Singer, 1974 SPECIES
-=======
+# Favolaschia roseogrisea Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

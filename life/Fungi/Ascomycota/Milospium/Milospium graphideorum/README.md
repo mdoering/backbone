@@ -1,14 +1,13 @@
-Coniothecium graphideorum (Nyl.) Keissl., 1930 SPECIES
-=======
+# Milospium graphideorum (Nyl.) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 8: 618 (1930)
+Trans. Br. mycol. Soc. 65(2): 233 (1975)
 
 #### Original name
 Spilomium graphideorum Nyl., 1856

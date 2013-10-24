@@ -1,5 +1,4 @@
-Alternaria concentrica (G. Winter) P. Joly SPECIES
-=======
+# Alternaria concentrica (G. Winter) P. Joly SPECIES
 
 #### Status
 ACCEPTED

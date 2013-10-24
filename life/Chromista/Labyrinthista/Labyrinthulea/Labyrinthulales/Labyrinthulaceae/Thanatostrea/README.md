@@ -1,5 +1,4 @@
-Thanatostrea A. Franc & Arvy GENUS
-=======
+# Thanatostrea A. Franc & Arvy GENUS
 
 #### Status
 ACCEPTED

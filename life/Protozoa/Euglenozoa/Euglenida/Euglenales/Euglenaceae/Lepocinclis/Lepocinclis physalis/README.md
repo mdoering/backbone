@@ -1,5 +1,4 @@
-Lepocinclis physalis Conrad SPECIES
-=======
+# Lepocinclis physalis Conrad SPECIES
 
 #### Status
 ACCEPTED

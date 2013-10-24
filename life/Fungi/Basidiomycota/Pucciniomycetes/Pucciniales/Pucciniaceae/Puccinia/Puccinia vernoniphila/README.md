@@ -1,5 +1,4 @@
-Puccinia vernoniphila Speg. SPECIES
-=======
+# Puccinia vernoniphila Speg. SPECIES
 
 #### Status
 ACCEPTED

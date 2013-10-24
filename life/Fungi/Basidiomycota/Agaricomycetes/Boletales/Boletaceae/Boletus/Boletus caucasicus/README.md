@@ -1,5 +1,4 @@
-Boletus caucasicus Singer ex Alessio, 1985 SPECIES
-=======
+# Boletus caucasicus Singer ex Alessio, 1985 SPECIES
 
 #### Status
 ACCEPTED

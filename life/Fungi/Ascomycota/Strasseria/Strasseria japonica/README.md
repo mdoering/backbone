@@ -1,5 +1,4 @@
-Strasseria japonica Hara SPECIES
-=======
+# Strasseria japonica Hara SPECIES
 
 #### Status
 ACCEPTED

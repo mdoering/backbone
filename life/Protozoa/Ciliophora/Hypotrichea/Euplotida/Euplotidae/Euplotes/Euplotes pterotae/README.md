@@ -1,5 +1,4 @@
-Euplotes pterotae Wilbert, 1995 SPECIES
-=======
+# Euplotes pterotae Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

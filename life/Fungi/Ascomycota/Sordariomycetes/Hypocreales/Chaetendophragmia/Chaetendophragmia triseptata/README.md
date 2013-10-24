@@ -1,5 +1,4 @@
-Chaetendophragmia triseptata Matsush. SPECIES
-=======
+# Chaetendophragmia triseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

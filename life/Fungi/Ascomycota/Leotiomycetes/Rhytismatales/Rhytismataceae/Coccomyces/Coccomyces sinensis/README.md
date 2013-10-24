@@ -1,5 +1,4 @@
-Coccomyces sinensis Y.R. Lin & Z.Z. Li, 2001 SPECIES
-=======
+# Coccomyces sinensis Y.R. Lin & Z.Z. Li, 2001 SPECIES
 
 #### Status
 ACCEPTED

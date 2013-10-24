@@ -1,5 +1,4 @@
-Psoroma holophaeum Mont. SPECIES
-=======
+# Psoroma holophaeum Mont. SPECIES
 
 #### Status
 ACCEPTED

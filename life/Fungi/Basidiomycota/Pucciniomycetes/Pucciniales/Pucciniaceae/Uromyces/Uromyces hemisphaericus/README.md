@@ -1,5 +1,4 @@
-Uromyces hemisphaericus Speg. SPECIES
-=======
+# Uromyces hemisphaericus Speg. SPECIES
 
 #### Status
 ACCEPTED

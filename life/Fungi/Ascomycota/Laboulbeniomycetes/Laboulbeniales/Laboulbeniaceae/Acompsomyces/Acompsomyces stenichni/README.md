@@ -1,14 +1,13 @@
-Stigmatomyces stenichni Scheloske, 1969 SPECIES
-=======
+# Acompsomyces stenichni (Scheloske) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasitologische Schriftenreihe 19: 149 (1969)
+Mycol. Mem. 9: 131 (1985)
 
 #### Original name
 Stigmatomyces stenichni Scheloske, 1969

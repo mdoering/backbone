@@ -1,5 +1,4 @@
-Halbania cryptomeriae Sawada SPECIES
-=======
+# Halbania cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

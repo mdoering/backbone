@@ -1,5 +1,4 @@
-Chorostate sydowiana Sacc. SPECIES
-=======
+# Chorostate sydowiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

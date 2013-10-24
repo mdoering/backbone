@@ -1,5 +1,4 @@
-Uromyces peckianus subsp. peckianus SUBSPECIES
-=======
+# Uromyces peckianus Farl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Amer. Acad. Arts & Sci. 18: 78 (1883)
 
 #### Original name
-Uromyces peckianus subsp. peckianus
+Uromyces peckianus Farl.
 
 ### Remarks
 null

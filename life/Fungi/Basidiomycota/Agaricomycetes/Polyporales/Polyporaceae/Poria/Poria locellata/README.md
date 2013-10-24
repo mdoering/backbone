@@ -1,5 +1,4 @@
-Poria locellata (P. Karst.) Sacc. & D. Sacc. SPECIES
-=======
+# Poria locellata (P. Karst.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

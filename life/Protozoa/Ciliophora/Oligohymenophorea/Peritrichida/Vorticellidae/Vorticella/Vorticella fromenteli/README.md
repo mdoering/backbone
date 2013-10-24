@@ -1,5 +1,4 @@
-Vorticella fromenteli Kahl, 1935 SPECIES
-=======
+# Vorticella fromenteli Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

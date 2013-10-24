@@ -1,5 +1,4 @@
-Sphaeria xanthii Lasch SPECIES
-=======
+# Sphaeria xanthii Lasch SPECIES
 
 #### Status
 ACCEPTED

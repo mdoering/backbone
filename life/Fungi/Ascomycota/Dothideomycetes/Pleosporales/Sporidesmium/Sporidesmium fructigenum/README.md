@@ -1,5 +1,4 @@
-Sporidesmium fructigenum Ellis & Everh. SPECIES
-=======
+# Sporidesmium fructigenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

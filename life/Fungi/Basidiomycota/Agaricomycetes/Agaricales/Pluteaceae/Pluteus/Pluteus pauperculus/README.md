@@ -1,5 +1,4 @@
-Pluteus pauperculus E. Horak, 2008 SPECIES
-=======
+# Pluteus pauperculus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

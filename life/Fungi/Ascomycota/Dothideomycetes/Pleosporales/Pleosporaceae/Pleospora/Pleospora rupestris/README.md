@@ -1,5 +1,4 @@
-Pleospora rupestris E. Müll. SPECIES
-=======
+# Pleospora rupestris E. Müll. SPECIES
 
 #### Status
 ACCEPTED

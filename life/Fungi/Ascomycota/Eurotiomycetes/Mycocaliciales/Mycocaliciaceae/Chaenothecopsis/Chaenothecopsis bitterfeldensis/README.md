@@ -1,5 +1,4 @@
-Chaenothecopsis bitterfeldensis Rikkinen & Poinar SPECIES
-=======
+# Chaenothecopsis bitterfeldensis Rikkinen & Poinar SPECIES
 
 #### Status
 ACCEPTED

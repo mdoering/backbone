@@ -1,5 +1,4 @@
-Peronosporoides J. Smith Dalry, 1896 GENUS
-=======
+# Peronosporoides J. Smith Dalry, 1896 GENUS
 
 #### Status
 ACCEPTED

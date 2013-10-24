@@ -1,5 +1,4 @@
-Typhula umbrina Remsberg, 1940 SPECIES
-=======
+# Typhula umbrina Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

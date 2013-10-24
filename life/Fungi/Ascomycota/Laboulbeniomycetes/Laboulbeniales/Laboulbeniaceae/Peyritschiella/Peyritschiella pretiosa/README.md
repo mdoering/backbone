@@ -1,5 +1,4 @@
-Peyritschiella pretiosa (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella pretiosa (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

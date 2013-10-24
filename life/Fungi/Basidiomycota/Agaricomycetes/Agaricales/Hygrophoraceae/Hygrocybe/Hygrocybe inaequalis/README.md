@@ -1,5 +1,4 @@
-Hygrocybe inaequalis Velen. SPECIES
-=======
+# Hygrocybe inaequalis Velen. SPECIES
 
 #### Status
 ACCEPTED

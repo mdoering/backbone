@@ -1,5 +1,4 @@
-Peridiospora C.G. Wu & S.J. Lin GENUS
-=======
+# Peridiospora C.G. Wu & S.J. Lin GENUS
 
 #### Status
 ACCEPTED

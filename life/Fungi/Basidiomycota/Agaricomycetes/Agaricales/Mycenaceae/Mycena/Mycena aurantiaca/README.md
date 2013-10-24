@@ -1,5 +1,4 @@
-Mycena aurantiaca Murrill SPECIES
-=======
+# Mycena aurantiaca Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium lycotropum Preuss SPECIES
-=======
+# Fusidium lycotropum Preuss SPECIES
 
 #### Status
 ACCEPTED

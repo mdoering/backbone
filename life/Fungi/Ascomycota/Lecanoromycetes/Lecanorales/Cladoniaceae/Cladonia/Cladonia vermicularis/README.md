@@ -1,5 +1,4 @@
-Cladonia vermicularis (Sw.) DC. SPECIES
-=======
+# Cladonia vermicularis (Sw.) DC. SPECIES
 
 #### Status
 ACCEPTED

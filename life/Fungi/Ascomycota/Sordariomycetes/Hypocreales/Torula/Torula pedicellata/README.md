@@ -1,5 +1,4 @@
-Torula pedicellata Preuss SPECIES
-=======
+# Torula pedicellata Preuss SPECIES
 
 #### Status
 ACCEPTED

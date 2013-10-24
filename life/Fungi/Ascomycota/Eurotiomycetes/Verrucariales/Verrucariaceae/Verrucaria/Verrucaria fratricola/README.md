@@ -1,5 +1,4 @@
-Verrucaria fratricola M.S. Christ. & Cl. Roux SPECIES
-=======
+# Verrucaria fratricola M.S. Christ. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

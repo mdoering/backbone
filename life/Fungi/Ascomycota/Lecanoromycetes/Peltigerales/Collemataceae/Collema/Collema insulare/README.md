@@ -1,5 +1,4 @@
-Collema insulare Degel. SPECIES
-=======
+# Collema insulare Degel. SPECIES
 
 #### Status
 ACCEPTED

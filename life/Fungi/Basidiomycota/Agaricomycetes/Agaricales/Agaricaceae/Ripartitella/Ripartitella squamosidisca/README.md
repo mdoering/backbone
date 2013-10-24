@@ -1,14 +1,13 @@
-Armillaria squamosidisca (Murrill) Murrill, 1944 SPECIES
-=======
+# Ripartitella squamosidisca (Murrill) Singer, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(1): 122 (1944)
+Mycologia 39(1): 85 (1947)
 
 #### Original name
 Marasmius squamosidiscus Murrill, 1940

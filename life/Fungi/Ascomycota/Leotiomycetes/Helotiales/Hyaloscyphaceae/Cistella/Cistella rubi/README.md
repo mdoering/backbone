@@ -1,5 +1,4 @@
-Cistella rubi Raitv. & Järv SPECIES
-=======
+# Cistella rubi Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

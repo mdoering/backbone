@@ -1,5 +1,4 @@
-Rickia mamillata A. Weir SPECIES
-=======
+# Rickia mamillata A. Weir SPECIES
 
 #### Status
 ACCEPTED

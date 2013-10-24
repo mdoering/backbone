@@ -1,17 +1,16 @@
-Laschia E.M. Fries, 1830 GENUS
-=======
+# Campanella Hennings, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 5: 533 (1830)
+Bot. Jb. 22: 95 (1895)
 
 #### Original name
-Laschia E.M. Fries, 1830
+Campanella Hennings, 1895
 
 ### Remarks
 null

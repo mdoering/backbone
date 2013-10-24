@@ -1,5 +1,4 @@
-Hydnum lutescens Pers. SPECIES
-=======
+# Hydnum lutescens Pers. SPECIES
 
 #### Status
 ACCEPTED

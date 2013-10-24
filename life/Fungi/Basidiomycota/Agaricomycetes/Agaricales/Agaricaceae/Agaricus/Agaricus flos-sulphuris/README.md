@@ -1,5 +1,4 @@
-Agaricus flos-sulphuris Schnizl. SPECIES
-=======
+# Agaricus flos-sulphuris Schnizl. SPECIES
 
 #### Status
 ACCEPTED

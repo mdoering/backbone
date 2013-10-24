@@ -1,5 +1,4 @@
-Chaetoplea hyphasmatis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea hyphasmatis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scrippsiella tinctoria Indelicato & Loeblich Iii, 1985 SPECIES
-=======
+# Scrippsiella tinctoria Indelicato & Loeblich Iii, 1985 SPECIES
 
 #### Status
 ACCEPTED

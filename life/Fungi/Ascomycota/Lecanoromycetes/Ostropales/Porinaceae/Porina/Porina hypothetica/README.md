@@ -1,5 +1,4 @@
-Porina hypothetica Vain. SPECIES
-=======
+# Porina hypothetica Vain. SPECIES
 
 #### Status
 ACCEPTED

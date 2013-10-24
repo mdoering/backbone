@@ -1,5 +1,4 @@
-Phyllosticta taurica Maire SPECIES
-=======
+# Phyllosticta taurica Maire SPECIES
 
 #### Status
 ACCEPTED

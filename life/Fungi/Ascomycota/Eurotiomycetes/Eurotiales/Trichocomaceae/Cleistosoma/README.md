@@ -1,5 +1,4 @@
-Cleistosoma GENUS
-=======
+# Cleistosoma GENUS
 
 #### Status
 ACCEPTED

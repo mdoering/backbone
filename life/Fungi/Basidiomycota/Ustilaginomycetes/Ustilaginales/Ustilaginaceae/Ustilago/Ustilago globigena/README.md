@@ -1,5 +1,4 @@
-Ustilago globigena Speg. SPECIES
-=======
+# Ustilago globigena Speg. SPECIES
 
 #### Status
 ACCEPTED

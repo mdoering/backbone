@@ -1,5 +1,4 @@
-Psathyromyces minutus Bat. & J.L. Bezerra SPECIES
-=======
+# Psathyromyces minutus Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Earlandiidae Cummings, 1955 FAMILY
-=======
+# Earlandiidae Cummings, 1955 FAMILY
 
 #### Status
 ACCEPTED

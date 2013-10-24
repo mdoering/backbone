@@ -1,5 +1,4 @@
-Spirodactylon R.K. Benj. GENUS
-=======
+# Spirodactylon R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthoniopsis phaeosporella (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis phaeosporella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

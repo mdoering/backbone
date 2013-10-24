@@ -1,5 +1,4 @@
-Hydrocybe nucicolor Hruby SPECIES
-=======
+# Hydrocybe nucicolor Hruby SPECIES
 
 #### Status
 ACCEPTED

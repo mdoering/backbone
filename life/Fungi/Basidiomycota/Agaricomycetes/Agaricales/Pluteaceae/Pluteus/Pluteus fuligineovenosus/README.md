@@ -1,5 +1,4 @@
-Pluteus fuligineovenosus E. Horak SPECIES
-=======
+# Pluteus fuligineovenosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

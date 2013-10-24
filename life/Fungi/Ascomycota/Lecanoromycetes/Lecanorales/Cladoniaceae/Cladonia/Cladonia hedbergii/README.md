@@ -1,5 +1,4 @@
-Cladonia hedbergii Ahti SPECIES
-=======
+# Cladonia hedbergii Ahti SPECIES
 
 #### Status
 ACCEPTED

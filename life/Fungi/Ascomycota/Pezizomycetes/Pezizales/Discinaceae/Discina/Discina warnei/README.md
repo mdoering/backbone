@@ -1,5 +1,4 @@
-Discina warnei Peck SPECIES
-=======
+# Discina warnei Peck SPECIES
 
 #### Status
 ACCEPTED

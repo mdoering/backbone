@@ -1,5 +1,4 @@
-Porina euryspermum (Stizenb.) Zahlbr. SPECIES
-=======
+# Porina euryspermum (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

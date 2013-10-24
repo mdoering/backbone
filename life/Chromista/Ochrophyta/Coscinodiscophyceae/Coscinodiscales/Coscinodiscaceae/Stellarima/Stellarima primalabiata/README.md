@@ -1,5 +1,4 @@
-Stellarima primalabiata (A. M. Gombos) G. R. Hasle & P. A. Sims SPECIES
-=======
+# Stellarima primalabiata (A. M. Gombos) G. R. Hasle & P. A. Sims SPECIES
 
 #### Status
 ACCEPTED

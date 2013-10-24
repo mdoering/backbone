@@ -1,5 +1,4 @@
-Pygmaea transfuga Nyl. SPECIES
-=======
+# Pygmaea transfuga Nyl. SPECIES
 
 #### Status
 ACCEPTED

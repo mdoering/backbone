@@ -1,5 +1,4 @@
-Agaricus woodianus Peck SPECIES
-=======
+# Agaricus woodianus Peck SPECIES
 
 #### Status
 ACCEPTED

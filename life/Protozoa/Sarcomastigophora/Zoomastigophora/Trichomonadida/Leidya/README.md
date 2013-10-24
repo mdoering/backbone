@@ -1,5 +1,4 @@
-Leidya França, 1917 GENUS
-=======
+# Leidya França, 1917 GENUS
 
 #### Status
 ACCEPTED

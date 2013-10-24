@@ -1,5 +1,4 @@
-Amyloathelia Hjortstam & Ryvarden GENUS
-=======
+# Amyloathelia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

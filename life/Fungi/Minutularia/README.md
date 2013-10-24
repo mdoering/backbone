@@ -1,5 +1,4 @@
-Minutularia P.A. Dang. GENUS
-=======
+# Minutularia P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

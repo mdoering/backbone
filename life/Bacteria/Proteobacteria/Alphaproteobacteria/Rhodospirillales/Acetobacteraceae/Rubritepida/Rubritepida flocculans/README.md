@@ -1,5 +1,4 @@
-Rubritepida flocculans Alarico et al., 2002 SPECIES
-=======
+# Rubritepida flocculans Alarico et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

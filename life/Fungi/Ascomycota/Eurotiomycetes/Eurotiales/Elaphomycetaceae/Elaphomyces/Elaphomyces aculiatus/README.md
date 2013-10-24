@@ -1,5 +1,4 @@
-Elaphomyces aculiatus Vittad. SPECIES
-=======
+# Elaphomyces aculiatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria psammophila Erichsen SPECIES
-=======
+# Verrucaria bryoctona (Th. Fr.) Orange SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. Inst. Allg. Botanik Hamburg 10: 400 (1939)
+Lichenologist 23(1): 3 (1991)
 
 #### Original name
-Verrucaria psammophila Erichsen
+Thelidium bryoctonum Th. Fr.
 
 ### Remarks
 null

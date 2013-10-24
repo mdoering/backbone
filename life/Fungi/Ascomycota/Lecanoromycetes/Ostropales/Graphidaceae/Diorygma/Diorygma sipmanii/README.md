@@ -1,5 +1,4 @@
-Diorygma sipmanii Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma sipmanii Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

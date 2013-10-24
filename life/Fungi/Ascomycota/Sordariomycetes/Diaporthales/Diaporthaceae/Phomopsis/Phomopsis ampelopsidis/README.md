@@ -1,5 +1,4 @@
-Phomopsis ampelopsidis Petr. SPECIES
-=======
+# Phomopsis ampelopsidis Petr. SPECIES
 
 #### Status
 ACCEPTED

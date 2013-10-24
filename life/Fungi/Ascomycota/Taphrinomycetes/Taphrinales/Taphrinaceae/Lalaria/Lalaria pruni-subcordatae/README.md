@@ -1,5 +1,4 @@
-Lalaria pruni-subcordatae R.T. Moore SPECIES
-=======
+# Lalaria pruni-subcordatae R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

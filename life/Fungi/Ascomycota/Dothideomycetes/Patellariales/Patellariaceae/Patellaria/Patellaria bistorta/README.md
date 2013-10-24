@@ -1,5 +1,4 @@
-Patellaria bistorta Müll. Arg. SPECIES
-=======
+# Patellaria bistorta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

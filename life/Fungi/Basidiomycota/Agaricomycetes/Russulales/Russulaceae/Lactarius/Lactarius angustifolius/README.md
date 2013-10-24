@@ -1,5 +1,4 @@
-Lactarius angustifolius Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius angustifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

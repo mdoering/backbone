@@ -1,8 +1,7 @@
-Mycenastrum lejospermum Mont. SPECIES
-=======
+# Mycenastrum leiospermum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycenastrum lejospermum Mont.
+Mycenastrum leiospermum Mont.
 
 ### Remarks
 null

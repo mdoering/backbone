@@ -1,5 +1,4 @@
-Ciboria squamarum Velen. SPECIES
-=======
+# Ciboria squamarum Velen. SPECIES
 
 #### Status
 ACCEPTED

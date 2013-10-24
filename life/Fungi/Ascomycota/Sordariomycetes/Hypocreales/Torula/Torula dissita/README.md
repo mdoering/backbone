@@ -1,5 +1,4 @@
-Torula dissita Berk. & M.A. Curtis SPECIES
-=======
+# Torula dissita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rinomia Nieuwl. GENUS
-=======
+# Morinia Berlese & Bresadola, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 381 (1916)
+Annuario Soc. Alpinisti Trident. , 1887-88 82 (1889)
 
 #### Original name
-Rinomia Nieuwl.
+Morinia Berlese & Bresadola, 1889
 
 ### Remarks
 null

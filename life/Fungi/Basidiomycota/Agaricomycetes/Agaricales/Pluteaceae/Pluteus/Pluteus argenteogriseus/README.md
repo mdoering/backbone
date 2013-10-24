@@ -1,5 +1,4 @@
-Pluteus argenteogriseus Rea SPECIES
-=======
+# Pluteus argenteogriseus Rea SPECIES
 
 #### Status
 ACCEPTED

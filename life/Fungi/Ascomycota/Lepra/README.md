@@ -1,5 +1,4 @@
-Lepra Chevallier, 1826 GENUS
-=======
+# Lepra Chevallier, 1826 GENUS
 
 #### Status
 ACCEPTED

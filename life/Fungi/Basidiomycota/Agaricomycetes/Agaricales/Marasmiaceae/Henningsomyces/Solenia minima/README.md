@@ -1,5 +1,4 @@
-Solenia minima Rick SPECIES
-=======
+# Solenia minima Rick SPECIES
 
 #### Status
 ACCEPTED

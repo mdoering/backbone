@@ -1,5 +1,4 @@
-Camarosporium myopori Hansf. SPECIES
-=======
+# Camarosporium myopori Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sanguinea Swinscow & Krog SPECIES
-=======
+# Usnea sanguinea Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

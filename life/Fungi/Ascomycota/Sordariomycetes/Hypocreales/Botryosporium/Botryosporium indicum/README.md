@@ -1,5 +1,4 @@
-Botryosporium indicum Tilak SPECIES
-=======
+# Botryosporium indicum Tilak SPECIES
 
 #### Status
 ACCEPTED

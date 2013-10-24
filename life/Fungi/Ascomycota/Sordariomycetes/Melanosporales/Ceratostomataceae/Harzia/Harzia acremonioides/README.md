@@ -1,14 +1,13 @@
-Eidamia acremonioides (Harz) Lindau, 1904 SPECIES
-=======
+# Harzia acremonioides (Harz) Costantin, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2, 1 Abt. (1904)
+Mucéd. Simpl. (Paris) 42 (1888)
 
 #### Original name
 Monosporium acremonioides Harz, 1871

@@ -1,17 +1,16 @@
-Melanogone Wollenw. & Ha. Richt. GENUS
-=======
+# Humicola Traaen GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 90: 74 (1934)
+Nytt Mag. Natur. 52: 31 (1914)
 
 #### Original name
-Melanogone Wollenw. & Ha. Richt.
+Humicola Traaen
 
 ### Remarks
 null

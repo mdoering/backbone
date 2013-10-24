@@ -1,5 +1,4 @@
-Paxillus bambusinus (R.E.D. Baker & W.T. Dale) Singer SPECIES
-=======
+# Paxillus bambusinus (R.E.D. Baker & W.T. Dale) Singer SPECIES
 
 #### Status
 ACCEPTED

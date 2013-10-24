@@ -1,5 +1,4 @@
-Aulographina Arx & E. Müll. GENUS
-=======
+# Aulographina Arx & E. Müll. GENUS
 
 #### Status
 ACCEPTED

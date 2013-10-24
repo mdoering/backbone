@@ -1,5 +1,4 @@
-Nectriopsis flavella (Pat.) Samuels SPECIES
-=======
+# Nectriopsis flavella (Pat.) Samuels SPECIES
 
 #### Status
 ACCEPTED

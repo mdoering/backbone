@@ -1,5 +1,4 @@
-Polygonium martinae Moczydlowska & Crimes, 1995 SPECIES
-=======
+# Polygonium martinae Moczydlowska & Crimes, 1995 SPECIES
 
 #### Status
 ACCEPTED

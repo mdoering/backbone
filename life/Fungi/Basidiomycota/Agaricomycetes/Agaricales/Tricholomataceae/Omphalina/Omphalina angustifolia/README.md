@@ -1,14 +1,13 @@
-Omphalina angustifolium (Singer) Raithelh. SPECIES
-=======
+# Omphalina angustifolia (Singer) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 4(4): 64 (1973)
 
 #### Original name
 Gerronema angustifolium Singer

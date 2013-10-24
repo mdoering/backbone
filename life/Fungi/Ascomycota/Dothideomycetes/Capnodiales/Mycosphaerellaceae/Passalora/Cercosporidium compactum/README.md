@@ -1,5 +1,4 @@
-Cercosporidium compactum (Berk. & M.A. Curtis) Deighton SPECIES
-=======
+# Cercosporidium compactum (Berk. & M.A. Curtis) Deighton SPECIES
 
 #### Status
 ACCEPTED

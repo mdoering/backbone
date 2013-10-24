@@ -1,5 +1,4 @@
-Erysiphe euphorbiacearum (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe euphorbiacearum (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

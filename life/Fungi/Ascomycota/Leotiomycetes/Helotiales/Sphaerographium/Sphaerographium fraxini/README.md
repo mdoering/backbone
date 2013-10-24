@@ -1,5 +1,4 @@
-Sphaerographium fraxini (Peck) Sacc. SPECIES
-=======
+# Sphaerographium fraxini (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

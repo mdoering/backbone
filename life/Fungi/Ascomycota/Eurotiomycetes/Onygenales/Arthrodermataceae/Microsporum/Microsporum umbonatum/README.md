@@ -1,5 +1,4 @@
-Microsporum umbonatum Sabour. SPECIES
-=======
+# Microsporum umbonatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

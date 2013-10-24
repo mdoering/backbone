@@ -1,5 +1,4 @@
-Placosphaeria nicotianae (Av.-Saccá) Av.-Saccá SPECIES
-=======
+# Placosphaeria nicotianae (Av.-Saccá) Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

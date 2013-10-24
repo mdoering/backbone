@@ -1,5 +1,4 @@
-Polyporus favularis Fr. SPECIES
-=======
+# Polyporus favularis Fr. SPECIES
 
 #### Status
 ACCEPTED

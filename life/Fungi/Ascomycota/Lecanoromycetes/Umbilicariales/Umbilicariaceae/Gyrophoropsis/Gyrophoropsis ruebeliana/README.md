@@ -1,5 +1,4 @@
-Gyrophoropsis ruebeliana (Du Rietz & Frey) M. Choisy SPECIES
-=======
+# Gyrophoropsis ruebeliana (Du Rietz & Frey) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

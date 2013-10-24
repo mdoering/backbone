@@ -1,5 +1,4 @@
-Mycolecis phoeniceae Werner SPECIES
-=======
+# Mycolecis phoeniceae Werner SPECIES
 
 #### Status
 ACCEPTED

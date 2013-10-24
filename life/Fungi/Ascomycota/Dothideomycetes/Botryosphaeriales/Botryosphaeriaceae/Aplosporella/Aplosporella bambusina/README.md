@@ -1,5 +1,4 @@
-Aplosporella bambusina (Mundk. & S. Ahmad) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella bambusina (Mundk. & S. Ahmad) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

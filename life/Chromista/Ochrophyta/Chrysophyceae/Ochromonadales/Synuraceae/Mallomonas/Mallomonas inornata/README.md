@@ -1,5 +1,4 @@
-Mallomonas inornata K. H. Nicholls SPECIES
-=======
+# Mallomonas inornata K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

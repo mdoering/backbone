@@ -1,5 +1,4 @@
-Hygrophorus rainierensis Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus rainierensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis laevis (Berk. & M.A. Curtis) Hansf. SPECIES
-=======
+# Irenopsis laevis (Berk. & M.A. Curtis) Hansf. SPECIES
 
 #### Status
 ACCEPTED

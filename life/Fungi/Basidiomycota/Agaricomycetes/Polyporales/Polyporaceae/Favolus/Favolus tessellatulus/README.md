@@ -1,5 +1,4 @@
-Favolus tessellatulus (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Favolus tessellatulus (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

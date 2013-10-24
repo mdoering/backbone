@@ -1,5 +1,4 @@
-Kribbella flavida Park et al., 1999 SPECIES
-=======
+# Kribbella flavida Park et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

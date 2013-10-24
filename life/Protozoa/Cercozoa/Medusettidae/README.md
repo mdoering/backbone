@@ -1,5 +1,4 @@
-Medusettidae Haeckel, 1887 FAMILY
-=======
+# Medusettidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

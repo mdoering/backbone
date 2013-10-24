@@ -1,8 +1,7 @@
-Zopfia biturbinata (Durieu & Mont.) Malloch & Cain, 1972 SPECIES
-=======
+# Amphisphaeria biturbinata (Durieu & Mont.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria biturbinata Durieu & Mont., 1849
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius umbilicatus Kauffman SPECIES
-=======
+# Marasmius umbilicatus Kauffman SPECIES
 
 #### Status
 ACCEPTED

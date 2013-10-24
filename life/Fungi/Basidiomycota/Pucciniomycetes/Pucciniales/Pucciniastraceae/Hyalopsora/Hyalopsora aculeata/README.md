@@ -1,5 +1,4 @@
-Hyalopsora aculeata Kamei SPECIES
-=======
+# Hyalopsora aculeata Kamei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnophlebia Parmasto GENUS
-=======
+# Hydnophlebia Parmasto GENUS
 
 #### Status
 ACCEPTED

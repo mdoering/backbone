@@ -1,5 +1,4 @@
-Periconia genistae Lunghini, 1978 SPECIES
-=======
+# Periconia genistae Lunghini, 1978 SPECIES
 
 #### Status
 ACCEPTED

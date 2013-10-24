@@ -1,8 +1,7 @@
-Cardiastomatella mononucleata Dragesco, 1963 SPECIES
-=======
+# Cardiostomatella mononucleata Dragesco, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

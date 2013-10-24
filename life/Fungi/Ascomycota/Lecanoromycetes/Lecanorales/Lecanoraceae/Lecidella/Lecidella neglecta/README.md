@@ -1,5 +1,4 @@
-Lecidella neglecta Stein SPECIES
-=======
+# Lecidella neglecta Stein SPECIES
 
 #### Status
 ACCEPTED

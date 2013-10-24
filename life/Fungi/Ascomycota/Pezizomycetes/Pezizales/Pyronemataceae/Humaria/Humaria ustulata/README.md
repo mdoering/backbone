@@ -1,5 +1,4 @@
-Humaria ustulata Velen. SPECIES
-=======
+# Humaria ustulata Velen. SPECIES
 
 #### Status
 ACCEPTED

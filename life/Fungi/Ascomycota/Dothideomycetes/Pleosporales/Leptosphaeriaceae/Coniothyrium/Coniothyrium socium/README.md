@@ -1,5 +1,4 @@
-Coniothyrium socium Pass. & Beltr. SPECIES
-=======
+# Coniothyrium socium Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

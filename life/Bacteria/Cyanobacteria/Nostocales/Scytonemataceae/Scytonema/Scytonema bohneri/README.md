@@ -1,5 +1,4 @@
-Scytonema bohneri Schmidle SPECIES
-=======
+# Scytonema bohneri Schmidle SPECIES
 
 #### Status
 ACCEPTED

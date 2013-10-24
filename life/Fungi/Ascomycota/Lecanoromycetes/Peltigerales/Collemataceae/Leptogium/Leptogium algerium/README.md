@@ -1,5 +1,4 @@
-Leptogium algerium Zahlbr. SPECIES
-=======
+# Leptogium algerium Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

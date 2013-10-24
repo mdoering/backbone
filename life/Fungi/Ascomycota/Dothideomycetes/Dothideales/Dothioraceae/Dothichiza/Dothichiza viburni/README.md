@@ -1,5 +1,4 @@
-Dothichiza viburni P. Karst. SPECIES
-=======
+# Dothichiza viburni P. Karst. SPECIES
 
 #### Status
 ACCEPTED

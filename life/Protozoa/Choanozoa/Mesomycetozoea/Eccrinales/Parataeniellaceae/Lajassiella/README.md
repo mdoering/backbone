@@ -1,17 +1,16 @@
-Lajasiella GENUS
-=======
+# Lajassiella Tuzet & Manier ex Manier GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 96 (1968)
 
 #### Original name
-null
+Lajassiella Tuzet & Manier ex Manier
 
 ### Remarks
 null

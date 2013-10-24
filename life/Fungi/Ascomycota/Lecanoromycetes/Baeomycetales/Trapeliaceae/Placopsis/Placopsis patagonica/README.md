@@ -1,5 +1,4 @@
-Placopsis patagonica (Zahlbr.) I.M. Lamb SPECIES
-=======
+# Placopsis patagonica (Zahlbr.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

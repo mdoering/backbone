@@ -1,5 +1,4 @@
-Krishtalia pipiens P.J. Kilochitskii SPECIES
-=======
+# Krishtalia pipiens P.J. Kilochitskii SPECIES
 
 #### Status
 ACCEPTED

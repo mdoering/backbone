@@ -1,5 +1,4 @@
-Lophium notarisii P. Crouan & H. Crouan SPECIES
-=======
+# Lophium notarisii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

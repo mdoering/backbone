@@ -1,5 +1,4 @@
-Rinodina granularis SPECIES
-=======
+# Rinodina granularis SPECIES
 
 #### Status
 ACCEPTED

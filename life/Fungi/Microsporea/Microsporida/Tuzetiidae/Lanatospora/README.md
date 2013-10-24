@@ -1,5 +1,4 @@
-Lanatospora Voronin GENUS
-=======
+# Lanatospora Voronin GENUS
 
 #### Status
 ACCEPTED

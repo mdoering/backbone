@@ -1,5 +1,4 @@
-Clitocybe myochroa Berk. & Broome SPECIES
-=======
+# Clitocybe myochroa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

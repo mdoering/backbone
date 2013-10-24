@@ -1,5 +1,4 @@
-Graphis monophora Nyl. SPECIES
-=======
+# Graphis monophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

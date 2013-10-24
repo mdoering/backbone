@@ -1,5 +1,4 @@
-Gibberidea visci Fuckel, 1870 SPECIES
-=======
+# Gibberidea visci Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

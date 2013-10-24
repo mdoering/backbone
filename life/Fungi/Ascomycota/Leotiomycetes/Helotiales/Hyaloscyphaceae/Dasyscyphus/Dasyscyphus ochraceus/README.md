@@ -1,8 +1,7 @@
-Dasyscypha ochraceus (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus ochraceus (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

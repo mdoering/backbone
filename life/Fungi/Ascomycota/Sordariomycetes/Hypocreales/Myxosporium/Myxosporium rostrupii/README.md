@@ -1,5 +1,4 @@
-Myxosporium rostrupii Ferd. & Jørgensen {?} SPECIES
-=======
+# Myxosporium rostrupii Ferd. & Jørgensen {?} SPECIES
 
 #### Status
 ACCEPTED

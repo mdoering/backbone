@@ -1,5 +1,4 @@
-Pseudostaurosira zeilleri (Héribaud) D.M. Williams & Round SPECIES
-=======
+# Pseudostaurosira zeilleri (Héribaud) D.M. Williams & Round SPECIES
 
 #### Status
 ACCEPTED

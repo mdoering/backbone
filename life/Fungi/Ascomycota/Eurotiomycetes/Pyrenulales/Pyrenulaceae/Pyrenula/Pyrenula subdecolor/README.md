@@ -1,5 +1,4 @@
-Pyrenula subdecolor (Nyl.) R.C. Harris SPECIES
-=======
+# Pyrenula subdecolor (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

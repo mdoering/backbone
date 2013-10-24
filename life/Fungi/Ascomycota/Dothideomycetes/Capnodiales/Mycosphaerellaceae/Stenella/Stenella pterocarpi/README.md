@@ -1,5 +1,4 @@
-Stenella pterocarpi J. Kranz SPECIES
-=======
+# Stenella pterocarpi J. Kranz SPECIES
 
 #### Status
 ACCEPTED

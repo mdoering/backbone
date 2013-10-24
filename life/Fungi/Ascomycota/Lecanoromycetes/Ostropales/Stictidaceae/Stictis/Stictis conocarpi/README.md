@@ -1,5 +1,4 @@
-Stictis conocarpi Seaver & Waterston SPECIES
-=======
+# Stictis conocarpi Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

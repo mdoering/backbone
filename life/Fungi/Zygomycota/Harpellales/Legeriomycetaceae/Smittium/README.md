@@ -1,17 +1,16 @@
-Typhella L. Léger & M. Gauthier GENUS
-=======
+# Smittium R.A. Poiss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 200: 1459 (1935)
+Bull. Soc. sci. Bretagne 14: 30 (1937)
 
 #### Original name
-Typhella L. Léger & M. Gauthier
+Smittium R.A. Poiss.
 
 ### Remarks
 null

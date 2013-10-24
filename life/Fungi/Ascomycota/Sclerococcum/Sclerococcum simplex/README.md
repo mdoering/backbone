@@ -1,5 +1,4 @@
-Sclerococcum simplex D. Hawksw., 1979 SPECIES
-=======
+# Sclerococcum simplex D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

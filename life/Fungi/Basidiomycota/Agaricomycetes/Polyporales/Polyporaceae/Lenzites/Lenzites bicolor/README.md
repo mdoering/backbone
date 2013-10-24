@@ -1,5 +1,4 @@
-Lenzites bicolor O. Falck SPECIES
-=======
+# Lenzites bicolor O. Falck SPECIES
 
 #### Status
 ACCEPTED

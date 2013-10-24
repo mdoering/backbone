@@ -1,5 +1,4 @@
-Weraroa nivalis A.H. Sm., 1965 SPECIES
-=======
+# Weraroa nivalis A.H. Sm., 1965 SPECIES
 
 #### Status
 ACCEPTED

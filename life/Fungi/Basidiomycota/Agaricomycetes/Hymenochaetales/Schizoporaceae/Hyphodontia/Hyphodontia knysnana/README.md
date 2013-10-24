@@ -1,14 +1,13 @@
-Odontia knysnana Van der Byl, 1934 SPECIES
-=======
+# Hyphodontia knysnana (Van der Byl) D.A. Reid, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. Stellenbosch, Reeks A 12: 9 (1934)
+Jl S. Afr. Bot. 39(2): 175 (1973)
 
 #### Original name
 Odontia knysnana Van der Byl, 1934

@@ -1,5 +1,4 @@
-Hydnum sarasinii Henn. SPECIES
-=======
+# Hydnum sarasinii Henn. SPECIES
 
 #### Status
 ACCEPTED

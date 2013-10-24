@@ -1,5 +1,4 @@
-Scleromitra cinereoalbum Bonord. SPECIES
-=======
+# Scleromitra cinereoalbum Bonord. SPECIES
 
 #### Status
 ACCEPTED

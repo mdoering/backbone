@@ -1,5 +1,4 @@
-Dasyscyphus luteogranulatus J.H. Haines & M.P. Sharma SPECIES
-=======
+# Dasyscyphus luteogranulatus J.H. Haines & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

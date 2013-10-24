@@ -1,5 +1,4 @@
-Laboulbenia sebetheos Speg. SPECIES
-=======
+# Laboulbenia sebetheos Speg. SPECIES
 
 #### Status
 ACCEPTED

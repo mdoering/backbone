@@ -1,5 +1,4 @@
-Meliola capitati Mibey SPECIES
-=======
+# Meliola capitati Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanospirillum maris subsp. williamsae Linn & Krieg, 1984 SUBSPECIES
-=======
+# Oceanospirillum maris Hylemon, Wells, Krieg & Jannasch, 1973 SPECIES
 
 #### Status
 ACCEPTED

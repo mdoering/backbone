@@ -1,5 +1,4 @@
-Asteromella neomexicana (Bubák & Kabát) Aa SPECIES
-=======
+# Asteromella neomexicana (Bubák & Kabát) Aa SPECIES
 
 #### Status
 ACCEPTED

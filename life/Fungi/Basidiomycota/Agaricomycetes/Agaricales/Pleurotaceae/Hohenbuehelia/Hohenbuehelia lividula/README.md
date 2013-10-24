@@ -1,14 +1,13 @@
-Hohenbuehelia lividulus (Berk. & M.A. Curtis) Neda & Yoshim. Doi SPECIES
-=======
+# Hohenbuehelia lividula (Berk. & M.A. Curtis) Neda & Yoshim. Doi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the National Science Museum, Tokyo 34: 317 (2000)
 
 #### Original name
 Agaricus lividulus Berk. & M.A. Curtis

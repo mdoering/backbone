@@ -1,5 +1,4 @@
-Leptopodia corbierei Malençon SPECIES
-=======
+# Leptopodia corbierei Malençon SPECIES
 
 #### Status
 ACCEPTED

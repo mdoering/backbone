@@ -1,5 +1,4 @@
-Inocybe basicitrata Jul. Schäff. ex Moënne-Locc. SPECIES
-=======
+# Inocybe basicitrata Jul. Schäff. ex Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

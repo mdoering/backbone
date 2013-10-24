@@ -1,5 +1,4 @@
-Pseudomonas mediterranea Catara et al., 2002 SPECIES
-=======
+# Pseudomonas mediterranea Catara et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

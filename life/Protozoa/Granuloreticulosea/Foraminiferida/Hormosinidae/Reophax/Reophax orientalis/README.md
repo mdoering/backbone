@@ -1,5 +1,4 @@
-Reophax orientalis Zheng, 1988 SPECIES
-=======
+# Reophax orientalis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

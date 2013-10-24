@@ -1,5 +1,4 @@
-Patellaria applanata Berk. & M.A. Curtis SPECIES
-=======
+# Patellaria applanata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

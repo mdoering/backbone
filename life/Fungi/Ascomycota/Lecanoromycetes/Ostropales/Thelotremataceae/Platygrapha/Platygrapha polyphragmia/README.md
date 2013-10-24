@@ -1,5 +1,4 @@
-Platygrapha polyphragmia Nyl. SPECIES
-=======
+# Platygrapha polyphragmia Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalaria orokonuiana Fryday & A. Knight SPECIES
-=======
+# Megalaria orokonuiana Fryday & A. Knight SPECIES
 
 #### Status
 ACCEPTED

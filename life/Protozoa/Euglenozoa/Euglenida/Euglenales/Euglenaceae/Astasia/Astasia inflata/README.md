@@ -1,5 +1,4 @@
-Astasia inflata f. fusiformis (Skuja) Popova FORM
-=======
+# Astasia inflata Dujardin SPECIES
 
 #### Status
 ACCEPTED

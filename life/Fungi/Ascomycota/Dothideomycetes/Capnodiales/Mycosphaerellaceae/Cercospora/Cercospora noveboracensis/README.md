@@ -1,5 +1,4 @@
-Cercospora noveboracensis Ellis & Everh. SPECIES
-=======
+# Cercospora noveboracensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

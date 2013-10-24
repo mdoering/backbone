@@ -1,8 +1,7 @@
-Ascochyta boerhaaviae Tharp SPECIES
-=======
+# Ascochyta boerhaviae Tharp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta boerhaaviae Tharp
+Ascochyta boerhaviae Tharp
 
 ### Remarks
 null

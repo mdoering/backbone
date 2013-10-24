@@ -1,5 +1,4 @@
-Phaeosphaeria guttulata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria guttulata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

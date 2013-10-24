@@ -1,5 +1,4 @@
-Hendersonia celtidis-australis Scalia SPECIES
-=======
+# Hendersonia celtidis-australis Scalia SPECIES
 
 #### Status
 ACCEPTED

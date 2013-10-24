@@ -1,5 +1,4 @@
-Gloeothece interspersa Gardner SPECIES
-=======
+# Gloeothece interspersa Gardner SPECIES
 
 #### Status
 ACCEPTED

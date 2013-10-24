@@ -1,17 +1,16 @@
-Phyllactinia guttata f. sp FORM
-=======
+# Phyllactinia guttata (Wallr.) Lév., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 15: 144 (1851)
 
 #### Original name
-Phyllactinia guttata f. sp
+Alphitomorpha guttata Wallr., 1819
 
 ### Remarks
 null

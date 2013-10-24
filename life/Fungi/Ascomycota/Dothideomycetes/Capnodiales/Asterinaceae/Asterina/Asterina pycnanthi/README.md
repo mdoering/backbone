@@ -1,5 +1,4 @@
-Asterina pycnanthi Hansf. SPECIES
-=======
+# Asterina pycnanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

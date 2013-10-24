@@ -1,5 +1,4 @@
-Asterina cincta Berk. SPECIES
-=======
+# Asterina cincta Berk. SPECIES
 
 #### Status
 ACCEPTED

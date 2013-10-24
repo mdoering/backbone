@@ -1,5 +1,4 @@
-Physalospora conica Ellis & Everh. SPECIES
-=======
+# Physalospora conica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

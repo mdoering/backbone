@@ -1,5 +1,4 @@
-Sphaerulina polyspora F.A. Wolf, 1925 SPECIES
-=======
+# Sphaerulina polyspora F.A. Wolf, 1925 SPECIES
 
 #### Status
 ACCEPTED

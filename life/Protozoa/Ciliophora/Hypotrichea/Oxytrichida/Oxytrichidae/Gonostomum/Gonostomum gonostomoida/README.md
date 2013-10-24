@@ -1,8 +1,7 @@
-Trachelochaeta gonostomoida Hemberger, 1985 SPECIES
-=======
+# Gonostomum gonostomoida (Hemberger, 1985) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

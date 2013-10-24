@@ -1,5 +1,4 @@
-Sphaeria myricae Lesq. SPECIES
-=======
+# Sphaeria myricae Lesq. SPECIES
 
 #### Status
 ACCEPTED

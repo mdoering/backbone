@@ -1,5 +1,4 @@
-Polyblastia typostoma Norman SPECIES
-=======
+# Polyblastia typostoma Norman SPECIES
 
 #### Status
 ACCEPTED

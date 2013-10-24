@@ -1,5 +1,4 @@
-Acarospora hostilis H. Magn. SPECIES
-=======
+# Acarospora hostilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

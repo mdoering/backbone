@@ -1,5 +1,4 @@
-Haemogregarina hoplichthys Laird, 1952 SPECIES
-=======
+# Haemogregarina hoplichthys Laird, 1952 SPECIES
 
 #### Status
 ACCEPTED

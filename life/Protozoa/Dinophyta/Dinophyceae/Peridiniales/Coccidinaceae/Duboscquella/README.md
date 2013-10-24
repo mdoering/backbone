@@ -1,14 +1,13 @@
-Dubosquella GENUS
-=======
+# Duboscquella Chatton, 1920 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Zool. exp. gén. Paris, 59, 322.
 
 #### Original name
 null

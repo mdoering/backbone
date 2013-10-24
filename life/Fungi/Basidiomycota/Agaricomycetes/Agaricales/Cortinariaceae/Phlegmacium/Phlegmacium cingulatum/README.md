@@ -1,5 +1,4 @@
-Phlegmacium cingulatum Velen. SPECIES
-=======
+# Phlegmacium cingulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

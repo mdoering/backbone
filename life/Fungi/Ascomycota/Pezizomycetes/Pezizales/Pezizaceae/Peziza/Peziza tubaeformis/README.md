@@ -1,5 +1,4 @@
-Peziza tubaeformis Wall. {?} SPECIES
-=======
+# Peziza tubaeformis Wall. {?} SPECIES
 
 #### Status
 ACCEPTED

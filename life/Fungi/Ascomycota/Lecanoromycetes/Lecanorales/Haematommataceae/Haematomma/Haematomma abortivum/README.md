@@ -1,5 +1,4 @@
-Haematomma abortivum (Hepp) Zopf SPECIES
-=======
+# Haematomma abortivum (Hepp) Zopf SPECIES
 
 #### Status
 ACCEPTED

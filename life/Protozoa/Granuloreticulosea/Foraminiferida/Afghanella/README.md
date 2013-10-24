@@ -1,5 +1,4 @@
-Afghanella Thompson, 1946 GENUS
-=======
+# Afghanella Thompson, 1946 GENUS
 
 #### Status
 ACCEPTED

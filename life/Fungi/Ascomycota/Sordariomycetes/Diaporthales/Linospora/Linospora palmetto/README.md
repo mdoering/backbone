@@ -1,5 +1,4 @@
-Linospora palmetto Ellis & Everh. SPECIES
-=======
+# Linospora palmetto Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

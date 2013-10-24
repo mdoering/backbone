@@ -1,5 +1,4 @@
-Graphis corrugata SPECIES
-=======
+# Graphis corrugata SPECIES
 
 #### Status
 ACCEPTED

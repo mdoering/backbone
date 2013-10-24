@@ -1,5 +1,4 @@
-Hypoxylon subrutiloides Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Hypoxylon subrutiloides Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

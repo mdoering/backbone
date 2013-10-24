@@ -1,5 +1,4 @@
-Psorotichia lecanopsoides (Nyl.) Boistel SPECIES
-=======
+# Psorotichia lecanopsoides (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

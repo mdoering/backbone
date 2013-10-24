@@ -1,5 +1,4 @@
-Mycocladus hyalinus Naumov SPECIES
-=======
+# Mycocladus hyalinus Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus gnaphalii var. gnaphalii VARIETY
-=======
+# Ophiobolus gnaphalii (Sacc. & Bres.) Fairm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 9: 149 (1911)
 
 #### Original name
-Ophiobolus gnaphalii var. gnaphalii
+Ophiobolus vulgaris var. gnaphalii Sacc. & Bres.
 
 ### Remarks
 null

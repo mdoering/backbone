@@ -1,5 +1,4 @@
-Lenticulina trigonata (Plummer) SPECIES
-=======
+# Lenticulina trigonata (Plummer) SPECIES
 
 #### Status
 ACCEPTED

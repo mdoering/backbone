@@ -1,5 +1,4 @@
-Entoloma elegantissimum E. Horak, 2008 SPECIES
-=======
+# Entoloma elegantissimum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

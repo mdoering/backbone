@@ -1,5 +1,4 @@
-Inocybe peronatella J. Favre SPECIES
-=======
+# Inocybe peronatella J. Favre SPECIES
 
 #### Status
 ACCEPTED

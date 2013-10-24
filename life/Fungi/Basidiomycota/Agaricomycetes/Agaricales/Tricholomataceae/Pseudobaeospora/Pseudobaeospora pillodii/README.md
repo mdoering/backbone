@@ -1,5 +1,4 @@
-Pseudobaeospora pillodii (Quél.) Wasser SPECIES
-=======
+# Pseudobaeospora pillodii (Quél.) Wasser SPECIES
 
 #### Status
 ACCEPTED

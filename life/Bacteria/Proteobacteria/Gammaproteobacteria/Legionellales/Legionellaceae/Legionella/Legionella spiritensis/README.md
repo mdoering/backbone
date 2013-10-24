@@ -1,5 +1,4 @@
-Legionella spiritensis Brenner et al., 1985 SPECIES
-=======
+# Legionella spiritensis Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

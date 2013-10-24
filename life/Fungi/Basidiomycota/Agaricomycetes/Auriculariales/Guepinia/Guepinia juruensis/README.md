@@ -1,5 +1,4 @@
-Guepinia juruensis Henn. SPECIES
-=======
+# Guepinia juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

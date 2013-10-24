@@ -1,17 +1,16 @@
-Camillea malaysianensis M.A. Whalley SPECIES
-=======
+# Camillea malaysiensis M.A. Whalley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Whalley, Whalley, Thienhirun & Sihanonth, Kew Bull. 54(3): 716 (1999)
 
 #### Original name
-Camillea malaysianensis M.A. Whalley
+Camillea malaysiensis M.A. Whalley
 
 ### Remarks
 null

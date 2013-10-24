@@ -1,5 +1,4 @@
-Capitularia foliosa Mart. SPECIES
-=======
+# Capitularia foliosa Mart. SPECIES
 
 #### Status
 ACCEPTED

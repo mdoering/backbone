@@ -1,5 +1,4 @@
-Tridentaria tylota Drechsler SPECIES
-=======
+# Tridentaria tylota Drechsler SPECIES
 
 #### Status
 ACCEPTED

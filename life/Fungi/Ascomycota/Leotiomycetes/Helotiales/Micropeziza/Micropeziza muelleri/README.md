@@ -1,5 +1,4 @@
-Micropeziza muelleri (Graddon) SPECIES
-=======
+# Micropeziza muelleri (Graddon) SPECIES
 
 #### Status
 ACCEPTED

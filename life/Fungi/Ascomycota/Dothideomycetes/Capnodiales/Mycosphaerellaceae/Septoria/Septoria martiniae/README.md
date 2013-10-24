@@ -1,5 +1,4 @@
-Septoria martiniae Cooke SPECIES
-=======
+# Septoria martiniae Cooke SPECIES
 
 #### Status
 ACCEPTED

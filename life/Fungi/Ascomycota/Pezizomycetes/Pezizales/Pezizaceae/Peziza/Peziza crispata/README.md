@@ -1,5 +1,4 @@
-Peziza crispata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza crispata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

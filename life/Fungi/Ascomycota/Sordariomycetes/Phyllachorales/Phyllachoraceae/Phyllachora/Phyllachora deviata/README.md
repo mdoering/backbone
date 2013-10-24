@@ -1,5 +1,4 @@
-Phyllachora deviata Syd., 1925 SPECIES
-=======
+# Phyllachora deviata Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

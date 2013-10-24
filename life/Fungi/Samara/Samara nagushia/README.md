@@ -1,5 +1,4 @@
-Samara nagushia Bucl.-Ham. ex D.Don SPECIES
-=======
+# Samara nagushia Bucl.-Ham. ex D.Don SPECIES
 
 #### Status
 ACCEPTED

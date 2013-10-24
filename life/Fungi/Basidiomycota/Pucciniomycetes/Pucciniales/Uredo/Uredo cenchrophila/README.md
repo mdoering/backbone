@@ -1,5 +1,4 @@
-Uredo cenchrophila Speg. SPECIES
-=======
+# Uredo cenchrophila Speg. SPECIES
 
 #### Status
 ACCEPTED

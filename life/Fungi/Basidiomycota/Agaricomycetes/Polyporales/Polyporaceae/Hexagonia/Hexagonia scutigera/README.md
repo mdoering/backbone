@@ -1,5 +1,4 @@
-Hexagonia scutigera Speg. SPECIES
-=======
+# Hexagonia scutigera Speg. SPECIES
 
 #### Status
 ACCEPTED

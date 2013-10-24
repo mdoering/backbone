@@ -1,5 +1,4 @@
-Schaereria dolodes (Nyl. ex Hasse) Schmull & T. Sprib. SPECIES
-=======
+# Schaereria dolodes (Nyl. ex Hasse) Schmull & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

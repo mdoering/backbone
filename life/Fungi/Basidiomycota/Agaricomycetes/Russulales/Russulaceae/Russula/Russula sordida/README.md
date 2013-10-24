@@ -1,5 +1,4 @@
-Russula sordida Peck SPECIES
-=======
+# Russula sordida Peck SPECIES
 
 #### Status
 ACCEPTED

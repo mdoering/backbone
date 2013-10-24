@@ -1,5 +1,4 @@
-Thelenella enochrysoides SPECIES
-=======
+# Thelenella enochrysoides SPECIES
 
 #### Status
 ACCEPTED

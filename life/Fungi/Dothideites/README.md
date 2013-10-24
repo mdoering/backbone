@@ -1,5 +1,4 @@
-Dothideites Pat. GENUS
-=======
+# Dothideites Pat. GENUS
 
 #### Status
 ACCEPTED

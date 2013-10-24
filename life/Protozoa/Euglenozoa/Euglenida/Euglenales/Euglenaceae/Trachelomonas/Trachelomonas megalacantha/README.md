@@ -1,5 +1,4 @@
-Trachelomonas megalacantha var. crenulatocollis Bourrelly VARIETY
-=======
+# Trachelomonas megalacantha da Cunha SPECIES
 
 #### Status
 ACCEPTED

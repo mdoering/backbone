@@ -1,5 +1,4 @@
-Anthoblastomyces cryptococcoides Verona & Zardetto SPECIES
-=======
+# Anthoblastomyces cryptococcoides Verona & Zardetto SPECIES
 
 #### Status
 ACCEPTED

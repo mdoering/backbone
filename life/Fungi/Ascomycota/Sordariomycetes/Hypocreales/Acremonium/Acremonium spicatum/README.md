@@ -1,5 +1,4 @@
-Acremonium spicatum Bonord., 1851 SPECIES
-=======
+# Acremonium spicatum Bonord., 1851 SPECIES
 
 #### Status
 ACCEPTED

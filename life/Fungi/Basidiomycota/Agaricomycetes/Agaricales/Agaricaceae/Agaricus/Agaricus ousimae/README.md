@@ -1,5 +1,4 @@
-Agaricus ousimae Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus ousimae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium octosporum Zahlbr. SPECIES
-=======
+# Bathelium octosporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

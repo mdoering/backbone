@@ -1,5 +1,4 @@
-Cryptocoryneopsis umbraculiformis B. Sutton, 1980 SPECIES
-=======
+# Cryptocoryneopsis umbraculiformis B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

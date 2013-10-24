@@ -1,5 +1,4 @@
-Hendersonia lobeliae McAlpine SPECIES
-=======
+# Hendersonia lobeliae McAlpine SPECIES
 
 #### Status
 ACCEPTED

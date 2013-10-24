@@ -1,5 +1,4 @@
-Helvella tremellina Sw. SPECIES
-=======
+# Helvella tremellina Sw. SPECIES
 
 #### Status
 ACCEPTED

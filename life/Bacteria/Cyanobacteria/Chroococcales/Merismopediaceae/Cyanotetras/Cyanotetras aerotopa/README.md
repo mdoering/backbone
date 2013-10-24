@@ -1,5 +1,4 @@
-Cyanotetras aerotopa Komárek & Komárková-Legnerová SPECIES
-=======
+# Cyanotetras aerotopa Komárek & Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

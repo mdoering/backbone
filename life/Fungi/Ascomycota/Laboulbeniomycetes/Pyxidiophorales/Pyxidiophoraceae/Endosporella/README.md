@@ -1,5 +1,4 @@
-Endosporella GENUS
-=======
+# Endosporella GENUS
 
 #### Status
 ACCEPTED

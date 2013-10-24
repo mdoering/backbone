@@ -1,5 +1,4 @@
-Puccinia taliensis F.L. Tai SPECIES
-=======
+# Puccinia taliensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

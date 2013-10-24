@@ -1,5 +1,4 @@
-Cortinarius plumiger Fr. SPECIES
-=======
+# Cortinarius plumiger Fr. SPECIES
 
 #### Status
 ACCEPTED

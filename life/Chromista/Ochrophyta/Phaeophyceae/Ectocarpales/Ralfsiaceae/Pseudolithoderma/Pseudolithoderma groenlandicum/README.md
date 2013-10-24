@@ -1,5 +1,4 @@
-Pseudolithoderma groenlandicum S.Lund SPECIES
-=======
+# Pseudolithoderma groenlandicum S.Lund SPECIES
 
 #### Status
 ACCEPTED

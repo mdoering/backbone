@@ -1,5 +1,4 @@
-Lentaria tjibodensis (Henn.) Corner SPECIES
-=======
+# Lentaria tjibodensis (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

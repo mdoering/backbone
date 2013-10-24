@@ -1,5 +1,4 @@
-Pluteus burserae Singer SPECIES
-=======
+# Pluteus burserae Singer SPECIES
 
 #### Status
 ACCEPTED

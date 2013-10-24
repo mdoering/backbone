@@ -1,5 +1,4 @@
-Fenestella condensata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Fenestella condensata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

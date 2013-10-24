@@ -1,5 +1,4 @@
-Alternaria brevicolla Preuss SPECIES
-=======
+# Alternaria brevicolla Preuss SPECIES
 
 #### Status
 ACCEPTED

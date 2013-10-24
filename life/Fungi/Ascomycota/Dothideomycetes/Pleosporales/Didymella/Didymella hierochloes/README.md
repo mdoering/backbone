@@ -1,5 +1,4 @@
-Didymella hierochloes Petr., 1947 SPECIES
-=======
+# Didymella hierochloes Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

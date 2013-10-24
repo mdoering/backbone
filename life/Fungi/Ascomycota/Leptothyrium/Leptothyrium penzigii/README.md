@@ -1,8 +1,7 @@
-Leptothyrium penzigi Pollacci SPECIES
-=======
+# Leptothyrium penzigii Pollacci SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium penzigi Pollacci
+Leptothyrium penzigii Pollacci
 
 ### Remarks
 null

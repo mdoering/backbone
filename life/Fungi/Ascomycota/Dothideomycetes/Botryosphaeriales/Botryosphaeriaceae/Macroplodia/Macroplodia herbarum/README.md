@@ -1,5 +1,4 @@
-Macroplodia herbarum (Cooke & Massee) Kuntze SPECIES
-=======
+# Macroplodia herbarum (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

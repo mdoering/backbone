@@ -1,17 +1,16 @@
-Aspergillus gracilis var. gracilis VARIETY
-=======
+# Aspergillus gracilis Bainier, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 23(2): 92 (1907)
 
 #### Original name
-Aspergillus gracilis var. gracilis
+Aspergillus gracilis Bainier, 1907
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta sesamicola P.K. Chi SPECIES
-=======
+# Ascochyta sesamicola P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

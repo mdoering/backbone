@@ -1,5 +1,4 @@
-Plicaria bananincola Rehm SPECIES
-=======
+# Plicaria bananincola Rehm SPECIES
 
 #### Status
 ACCEPTED

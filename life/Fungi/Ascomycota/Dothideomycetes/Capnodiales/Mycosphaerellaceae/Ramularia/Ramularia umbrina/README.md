@@ -1,5 +1,4 @@
-Ramularia umbrina Davis SPECIES
-=======
+# Ramularia umbrina Davis SPECIES
 
 #### Status
 ACCEPTED

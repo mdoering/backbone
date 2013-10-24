@@ -1,5 +1,4 @@
-Mycena piceicola A.H. Sm. SPECIES
-=======
+# Mycena piceicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

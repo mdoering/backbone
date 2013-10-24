@@ -1,5 +1,4 @@
-Sporidesmium rude Ellis SPECIES
-=======
+# Sporidesmium rude Ellis SPECIES
 
 #### Status
 ACCEPTED

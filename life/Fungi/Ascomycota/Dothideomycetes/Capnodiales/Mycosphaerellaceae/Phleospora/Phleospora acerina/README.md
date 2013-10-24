@@ -1,5 +1,4 @@
-Phleospora acerina SPECIES
-=======
+# Phleospora acerina SPECIES
 
 #### Status
 ACCEPTED

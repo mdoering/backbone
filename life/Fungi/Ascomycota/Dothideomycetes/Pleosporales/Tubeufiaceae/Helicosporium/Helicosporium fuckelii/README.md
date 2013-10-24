@@ -1,5 +1,4 @@
-Helicosporium fuckelii Fresen. SPECIES
-=======
+# Helicosporium fuckelii Fresen. SPECIES
 
 #### Status
 ACCEPTED

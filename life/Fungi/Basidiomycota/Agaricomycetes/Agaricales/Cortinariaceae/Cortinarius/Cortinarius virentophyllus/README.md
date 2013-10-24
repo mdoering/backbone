@@ -1,5 +1,4 @@
-Cortinarius virentophyllus Kauffman SPECIES
-=======
+# Cortinarius virentophyllus Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta silveirae Speg. SPECIES
-=======
+# Phyllosticta silveirae Speg. SPECIES
 
 #### Status
 ACCEPTED

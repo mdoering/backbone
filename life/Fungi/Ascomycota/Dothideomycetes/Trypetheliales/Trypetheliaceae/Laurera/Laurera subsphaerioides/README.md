@@ -1,5 +1,4 @@
-Laurera subsphaerioides Makhija & Patw. SPECIES
-=======
+# Laurera subsphaerioides Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

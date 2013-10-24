@@ -1,5 +1,4 @@
-Septoria paraphysoides Speg. SPECIES
-=======
+# Septoria paraphysoides Speg. SPECIES
 
 #### Status
 ACCEPTED

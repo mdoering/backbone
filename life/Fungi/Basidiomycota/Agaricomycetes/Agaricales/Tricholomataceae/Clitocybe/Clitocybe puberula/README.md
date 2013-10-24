@@ -1,5 +1,4 @@
-Clitocybe puberula Kuyper SPECIES
-=======
+# Clitocybe puberula Kuyper SPECIES
 
 #### Status
 ACCEPTED

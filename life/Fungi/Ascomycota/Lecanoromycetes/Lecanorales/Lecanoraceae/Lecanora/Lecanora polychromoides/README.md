@@ -1,5 +1,4 @@
-Lecanora polychromoides f. polychromoides FORM
-=======
+# Lecanora polychromoides Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora polychromoides f. polychromoides
+Lecanora polychromoides Stirt.
 
 ### Remarks
 null

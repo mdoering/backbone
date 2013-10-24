@@ -1,5 +1,4 @@
-Coprinopsis sylvicola (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis sylvicola (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

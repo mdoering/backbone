@@ -1,5 +1,4 @@
-Nosema serbica SPECIES
-=======
+# Nosema serbica SPECIES
 
 #### Status
 ACCEPTED

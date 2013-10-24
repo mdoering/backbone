@@ -1,5 +1,4 @@
-Mycosphaerella hemerocallidis (Pass.) Lindau ex Ranoj. SPECIES
-=======
+# Mycosphaerella hemerocallidis (Pass.) Lindau ex Ranoj. SPECIES
 
 #### Status
 ACCEPTED

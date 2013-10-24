@@ -1,17 +1,16 @@
-Daria Grigelis, 1970 GENUS
-=======
+# Dariellina Grigelis, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Paleontologiya Stratigr. Pribalt. Belorussii 2: 362.
+Paleontologicheskii Zh. 1980 (3): 125.
 
 #### Original name
-null
+Daria Grigelis, 1970
 
 ### Remarks
 null

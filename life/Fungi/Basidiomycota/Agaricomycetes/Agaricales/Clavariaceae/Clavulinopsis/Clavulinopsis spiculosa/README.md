@@ -1,5 +1,4 @@
-Clavulinopsis spiculosa Corner SPECIES
-=======
+# Clavulinopsis spiculosa Corner SPECIES
 
 #### Status
 ACCEPTED

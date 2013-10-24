@@ -1,5 +1,4 @@
-Uredo assamensis Syd. & P. Syd. SPECIES
-=======
+# Uredo assamensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

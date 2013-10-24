@@ -1,5 +1,4 @@
-Clavaria platyceras Viv. SPECIES
-=======
+# Clavaria platyceras Viv. SPECIES
 
 #### Status
 ACCEPTED

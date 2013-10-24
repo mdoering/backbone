@@ -1,5 +1,4 @@
-Platychrysella Valkanov, 1970 GENUS
-=======
+# Platychrysella Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

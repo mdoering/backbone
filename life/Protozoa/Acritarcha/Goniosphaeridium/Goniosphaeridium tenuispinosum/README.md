@@ -1,5 +1,4 @@
-Goniosphaeridium tenuispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Goniosphaeridium tenuispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

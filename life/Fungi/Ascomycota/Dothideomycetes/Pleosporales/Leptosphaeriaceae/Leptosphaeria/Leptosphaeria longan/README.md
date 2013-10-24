@@ -1,5 +1,4 @@
-Leptosphaeria longan Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Leptosphaeria longan Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus macrosporoides Bohus SPECIES
-=======
+# Agaricus macrosporoides Bohus SPECIES
 
 #### Status
 ACCEPTED

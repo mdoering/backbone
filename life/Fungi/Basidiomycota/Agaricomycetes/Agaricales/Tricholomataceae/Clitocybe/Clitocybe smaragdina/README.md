@@ -1,5 +1,4 @@
-Clitocybe smaragdina (Berk.) H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe smaragdina (Berk.) H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

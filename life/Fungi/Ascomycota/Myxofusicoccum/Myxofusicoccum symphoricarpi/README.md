@@ -1,5 +1,4 @@
-Myxofusicoccum symphoricarpi Petr. SPECIES
-=======
+# Myxofusicoccum symphoricarpi Petr. SPECIES
 
 #### Status
 ACCEPTED

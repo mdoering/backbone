@@ -1,5 +1,4 @@
-Lecidea araratica Müll. Arg. SPECIES
-=======
+# Lecidea araratica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

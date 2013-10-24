@@ -1,5 +1,4 @@
-Cerinomyces grandinioides McNabb, 1964 SPECIES
-=======
+# Cerinomyces grandinioides McNabb, 1964 SPECIES
 
 #### Status
 ACCEPTED

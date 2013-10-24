@@ -1,17 +1,16 @@
-Nitschkia parasitans var. parasitans VARIETY
-=======
+# Nitschkia parasitans (Schwein.) Nannf., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 69(1): 52 (1975)
 
 #### Original name
-Nitschkia parasitans var. parasitans
+Sphaeria parasitans Schwein., 1832
 
 ### Remarks
 null

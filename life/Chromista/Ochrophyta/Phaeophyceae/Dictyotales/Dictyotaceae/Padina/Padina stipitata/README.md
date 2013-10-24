@@ -1,5 +1,4 @@
-Padina stipitata Tanaka & Nozawa SPECIES
-=======
+# Padina stipitata Tanaka & Nozawa SPECIES
 
 #### Status
 ACCEPTED

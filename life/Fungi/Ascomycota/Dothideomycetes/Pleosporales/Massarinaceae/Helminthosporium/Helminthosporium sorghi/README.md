@@ -1,5 +1,4 @@
-Helminthosporium sorghi Cooke SPECIES
-=======
+# Helminthosporium sorghi Cooke SPECIES
 
 #### Status
 ACCEPTED

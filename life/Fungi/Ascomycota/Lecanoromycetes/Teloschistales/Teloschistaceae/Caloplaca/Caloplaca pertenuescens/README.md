@@ -1,5 +1,4 @@
-Caloplaca pertenuescens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca pertenuescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

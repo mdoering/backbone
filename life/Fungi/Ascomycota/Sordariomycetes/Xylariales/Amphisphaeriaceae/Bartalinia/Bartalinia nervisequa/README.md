@@ -1,5 +1,4 @@
-Bartalinia nervisequa Tassi SPECIES
-=======
+# Bartalinia nervisequa Tassi SPECIES
 
 #### Status
 ACCEPTED

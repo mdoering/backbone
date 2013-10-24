@@ -1,5 +1,4 @@
-Amerosporium melandryi (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Amerosporium melandryi (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trabutia molleriana Sousa da Câmara SPECIES
-=======
+# Trabutia moelleriana Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 25: 6 (1910)
 
 #### Original name
-Trabutia molleriana Sousa da Câmara
+Trabutia moelleriana Sousa da Câmara
 
 ### Remarks
 null

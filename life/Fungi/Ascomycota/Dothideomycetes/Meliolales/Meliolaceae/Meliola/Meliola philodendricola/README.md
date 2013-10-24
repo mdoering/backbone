@@ -1,5 +1,4 @@
-Meliola philodendricola Hansf. SPECIES
-=======
+# Meliola philodendricola Hansf. SPECIES
 
 #### Status
 ACCEPTED

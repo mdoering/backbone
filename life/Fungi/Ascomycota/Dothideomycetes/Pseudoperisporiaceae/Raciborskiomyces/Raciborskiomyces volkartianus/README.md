@@ -1,5 +1,4 @@
-Raciborskiomyces volkartianus (E. Müll.) M.E. Barr SPECIES
-=======
+# Raciborskiomyces volkartianus (E. Müll.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

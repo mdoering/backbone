@@ -1,5 +1,4 @@
-Ciferriolichen majusculus (Nyl.) R.C. Harris SPECIES
-=======
+# Ciferriolichen majusculus (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

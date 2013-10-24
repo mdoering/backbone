@@ -1,5 +1,4 @@
-Lagena spicata SPECIES
-=======
+# Lagena spicata SPECIES
 
 #### Status
 ACCEPTED

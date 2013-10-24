@@ -1,5 +1,4 @@
-Microgemma ovoidea (Thélohan, 1895) Amigo, Salvado, Gracia & Vivares, 1996 SPECIES
-=======
+# Microgemma ovoidea (Thélohan, 1895) Amigo, Salvado, Gracia & Vivares, 1996 SPECIES
 
 #### Status
 ACCEPTED

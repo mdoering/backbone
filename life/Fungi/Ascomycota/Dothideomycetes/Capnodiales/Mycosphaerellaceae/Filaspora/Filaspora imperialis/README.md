@@ -1,5 +1,4 @@
-Filaspora imperialis (Sacc.) Kuntze SPECIES
-=======
+# Filaspora imperialis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

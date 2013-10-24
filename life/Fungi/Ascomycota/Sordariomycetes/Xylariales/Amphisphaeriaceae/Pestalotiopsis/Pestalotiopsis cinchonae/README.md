@@ -1,5 +1,4 @@
-Pestalotiopsis cinchonae (Zimm.) A.R. Liu, T. Xu & L.D. Guo SPECIES
-=======
+# Pestalotiopsis cinchonae (Zimm.) A.R. Liu, T. Xu & L.D. Guo SPECIES
 
 #### Status
 ACCEPTED

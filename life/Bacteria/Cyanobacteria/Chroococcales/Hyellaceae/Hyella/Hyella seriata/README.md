@@ -1,5 +1,4 @@
-Hyella seriata (Hollenberg) Komárek & Anagnostidis SPECIES
-=======
+# Hyella seriata (Hollenberg) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

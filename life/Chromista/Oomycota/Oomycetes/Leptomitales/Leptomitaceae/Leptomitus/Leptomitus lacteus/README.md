@@ -1,17 +1,16 @@
-Leptomitus lacteus var. nevaënsis Kokol. VARIETY
-=======
+# Leptomitus lacteus C. Agardh, 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1964 8: 103 (1971)
+Syst. alg. 47 (1824)
 
 #### Original name
-Leptomitus lacteus var. nevaënsis Kokol.
+Leptomitus lacteus C. Agardh, 1824
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anoplophrya eudrili SPECIES
-=======
+# Anoplophrya eudrili SPECIES
 
 #### Status
 ACCEPTED

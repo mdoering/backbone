@@ -1,5 +1,4 @@
-Cercidospora sphaerellula (Peck) Kuntze SPECIES
-=======
+# Cercidospora sphaerellula (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

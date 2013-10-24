@@ -1,5 +1,4 @@
-Sticta orizabana Nyl. SPECIES
-=======
+# Sticta orizabana Nyl. SPECIES
 
 #### Status
 ACCEPTED

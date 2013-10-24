@@ -1,5 +1,4 @@
-Marasmius porreus (Pers.) Fr. SPECIES
-=======
+# Marasmius porreus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

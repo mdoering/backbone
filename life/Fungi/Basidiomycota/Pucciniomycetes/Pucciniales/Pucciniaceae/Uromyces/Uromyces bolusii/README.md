@@ -1,5 +1,4 @@
-Uromyces bolusii Massee SPECIES
-=======
+# Uromyces bolusii Massee SPECIES
 
 #### Status
 ACCEPTED

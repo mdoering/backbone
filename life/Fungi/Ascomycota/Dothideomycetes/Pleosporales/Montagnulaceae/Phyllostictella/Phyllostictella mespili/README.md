@@ -1,5 +1,4 @@
-Phyllostictella mespili (Sacc.) Tassi SPECIES
-=======
+# Phyllostictella mespili (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

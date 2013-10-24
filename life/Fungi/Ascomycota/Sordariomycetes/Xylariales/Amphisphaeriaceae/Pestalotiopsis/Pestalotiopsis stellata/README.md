@@ -1,5 +1,4 @@
-Pestalotiopsis stellata (Berk. & M.A. Curtis) H.T. Sun & R.B. Cao SPECIES
-=======
+# Pestalotiopsis stellata (Berk. & M.A. Curtis) H.T. Sun & R.B. Cao SPECIES
 
 #### Status
 ACCEPTED

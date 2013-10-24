@@ -1,5 +1,4 @@
-Ramaria megalorhiza (Berk. & Broome) Corner SPECIES
-=======
+# Ramaria megalorhiza (Berk. & Broome) Corner SPECIES
 
 #### Status
 ACCEPTED

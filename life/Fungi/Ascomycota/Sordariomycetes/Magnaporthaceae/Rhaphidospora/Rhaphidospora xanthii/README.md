@@ -1,5 +1,4 @@
-Rhaphidospora xanthii (Lasch) Ces. & De Not. SPECIES
-=======
+# Rhaphidospora xanthii (Lasch) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

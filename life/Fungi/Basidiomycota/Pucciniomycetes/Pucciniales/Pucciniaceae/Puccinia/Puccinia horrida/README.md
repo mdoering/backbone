@@ -1,5 +1,4 @@
-Puccinia horrida Lagerh. SPECIES
-=======
+# Puccinia horrida Lagerh. SPECIES
 
 #### Status
 ACCEPTED

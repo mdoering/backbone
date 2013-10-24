@@ -1,5 +1,4 @@
-Lobaria paleacea Müll. Stuttg. SPECIES
-=======
+# Lobaria paleacea Müll. Stuttg. SPECIES
 
 #### Status
 ACCEPTED

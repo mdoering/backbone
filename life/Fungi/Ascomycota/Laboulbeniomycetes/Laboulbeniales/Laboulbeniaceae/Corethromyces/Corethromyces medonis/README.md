@@ -1,5 +1,4 @@
-Corethromyces medonis Thaxt. SPECIES
-=======
+# Corethromyces medonis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

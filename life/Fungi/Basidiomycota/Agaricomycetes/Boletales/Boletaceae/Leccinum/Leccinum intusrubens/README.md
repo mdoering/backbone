@@ -1,5 +1,4 @@
-Leccinum intusrubens (Corner) Hongo SPECIES
-=======
+# Leccinum intusrubens (Corner) Hongo SPECIES
 
 #### Status
 ACCEPTED

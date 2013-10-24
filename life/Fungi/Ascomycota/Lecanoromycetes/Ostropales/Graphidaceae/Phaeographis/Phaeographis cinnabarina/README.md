@@ -1,5 +1,4 @@
-Phaeographis cinnabarina (Fée) Müll. Arg. SPECIES
-=======
+# Phaeographis cinnabarina (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

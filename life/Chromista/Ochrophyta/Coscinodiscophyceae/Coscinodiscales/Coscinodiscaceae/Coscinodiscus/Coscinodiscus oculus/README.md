@@ -1,5 +1,4 @@
-Coscinodiscus oculus Ehrenberg, 1840 SPECIES
-=======
+# Coscinodiscus oculus Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

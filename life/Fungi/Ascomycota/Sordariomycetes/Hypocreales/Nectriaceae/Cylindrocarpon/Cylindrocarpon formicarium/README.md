@@ -1,5 +1,4 @@
-Cylindrocarpon formicarium Matsush. SPECIES
-=======
+# Cylindrocarpon formicarium Matsush. SPECIES
 
 #### Status
 ACCEPTED

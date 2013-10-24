@@ -1,5 +1,4 @@
-Nectria bulbicola Henn. SPECIES
-=======
+# Nectria bulbicola Henn. SPECIES
 
 #### Status
 ACCEPTED

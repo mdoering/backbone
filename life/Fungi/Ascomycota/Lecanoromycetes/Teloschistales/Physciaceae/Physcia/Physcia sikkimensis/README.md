@@ -1,5 +1,4 @@
-Physcia sikkimensis Jatta SPECIES
-=======
+# Physcia sikkimensis Jatta SPECIES
 
 #### Status
 ACCEPTED

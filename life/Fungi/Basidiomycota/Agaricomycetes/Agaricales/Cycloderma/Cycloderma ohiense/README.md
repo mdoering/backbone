@@ -1,5 +1,4 @@
-Cycloderma ohiense Cooke & Morgan SPECIES
-=======
+# Cycloderma ohiense Cooke & Morgan SPECIES
 
 #### Status
 ACCEPTED

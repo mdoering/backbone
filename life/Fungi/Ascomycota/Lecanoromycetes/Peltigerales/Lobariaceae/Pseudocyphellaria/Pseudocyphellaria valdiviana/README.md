@@ -1,5 +1,4 @@
-Pseudocyphellaria valdiviana (Nyl.) Follmann SPECIES
-=======
+# Pseudocyphellaria valdiviana (Nyl.) Follmann SPECIES
 
 #### Status
 ACCEPTED

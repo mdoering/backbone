@@ -1,5 +1,4 @@
-Lactella philhydri Maessen SPECIES
-=======
+# Lactella philhydri Maessen SPECIES
 
 #### Status
 ACCEPTED

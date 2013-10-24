@@ -1,5 +1,4 @@
-Piricauda apheles R.T. Moore SPECIES
-=======
+# Piricauda apheles R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

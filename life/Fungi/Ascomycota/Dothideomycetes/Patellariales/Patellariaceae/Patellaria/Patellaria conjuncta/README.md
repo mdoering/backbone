@@ -1,5 +1,4 @@
-Patellaria conjuncta (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria conjuncta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

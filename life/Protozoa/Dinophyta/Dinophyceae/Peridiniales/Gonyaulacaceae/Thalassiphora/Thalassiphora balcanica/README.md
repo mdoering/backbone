@@ -1,5 +1,4 @@
-Thalassiphora balcanica N. Balte SPECIES
-=======
+# Thalassiphora balcanica N. Balte SPECIES
 
 #### Status
 ACCEPTED

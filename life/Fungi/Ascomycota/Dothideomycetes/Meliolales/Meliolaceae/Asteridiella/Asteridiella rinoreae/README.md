@@ -1,5 +1,4 @@
-Asteridiella rinoreae (Doidge) Hansf. SPECIES
-=======
+# Asteridiella rinoreae (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

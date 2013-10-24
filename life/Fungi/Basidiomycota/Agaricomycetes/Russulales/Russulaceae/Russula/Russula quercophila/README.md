@@ -1,5 +1,4 @@
-Russula quercophila Buyck & Halling SPECIES
-=======
+# Russula quercophila Buyck & Halling SPECIES
 
 #### Status
 ACCEPTED

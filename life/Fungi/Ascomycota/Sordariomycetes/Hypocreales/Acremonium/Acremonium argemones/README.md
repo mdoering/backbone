@@ -1,17 +1,16 @@
-Acremonium argemonis Purkay. & Mallik SPECIES
-=======
+# Acremonium argemones Purkay. & Mallik, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 30: 871 (1978)
 
 #### Original name
-Acremonium argemonis Purkay. & Mallik
+Acremonium argemones Purkay. & Mallik, 1978
 
 ### Remarks
 null

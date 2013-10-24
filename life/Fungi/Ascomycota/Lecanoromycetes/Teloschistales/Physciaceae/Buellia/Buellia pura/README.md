@@ -1,5 +1,4 @@
-Buellia pura Vain. SPECIES
-=======
+# Buellia pura Vain. SPECIES
 
 #### Status
 ACCEPTED

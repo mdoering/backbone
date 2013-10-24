@@ -1,17 +1,16 @@
-Uromyces phaseolorum f. phaseolorum FORM
-=======
+# Uromyces appendiculatus F. Strauss, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 20: 80 (1863)
+Exantheme der Pflanzen. Up. 277 (1833)
 
 #### Original name
-Uromyces phaseolorum f. phaseolorum
+Uromyces appendiculatus F. Strauss, 1833
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scutellinia asperrima (Ellis & Everh.) Le Gal SPECIES
-=======
+# Scutellinia asperrima (Ellis & Everh.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

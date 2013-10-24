@@ -1,5 +1,4 @@
-Salisia O. Varol, 2004 GENUS
-=======
+# Salisia O. Varol, 2004 GENUS
 
 #### Status
 ACCEPTED

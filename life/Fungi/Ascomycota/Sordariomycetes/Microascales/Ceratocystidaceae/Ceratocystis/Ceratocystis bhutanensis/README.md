@@ -1,5 +1,4 @@
-Ceratocystis bhutanensis M. van Wyk, M.J. Wingf. & Kirisits SPECIES
-=======
+# Ceratocystis bhutanensis M. van Wyk, M.J. Wingf. & Kirisits SPECIES
 
 #### Status
 ACCEPTED

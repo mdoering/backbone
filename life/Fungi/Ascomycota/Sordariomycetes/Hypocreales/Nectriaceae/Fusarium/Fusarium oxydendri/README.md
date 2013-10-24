@@ -1,5 +1,4 @@
-Fusarium oxydendri Ellis & Everh. SPECIES
-=======
+# Fusarium oxydendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

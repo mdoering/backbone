@@ -1,5 +1,4 @@
-Puccinia similacinae Syd. SPECIES
-=======
+# Puccinia similacinae Syd. SPECIES
 
 #### Status
 ACCEPTED

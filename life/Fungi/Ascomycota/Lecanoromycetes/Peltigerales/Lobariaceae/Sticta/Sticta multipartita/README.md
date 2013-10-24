@@ -1,5 +1,4 @@
-Sticta multipartita (Vain.) Zahlbr. SPECIES
-=======
+# Sticta multipartita (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

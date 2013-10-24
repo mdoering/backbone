@@ -1,5 +1,4 @@
-Cercospora physalidis-angulatae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora physalidis-angulatae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

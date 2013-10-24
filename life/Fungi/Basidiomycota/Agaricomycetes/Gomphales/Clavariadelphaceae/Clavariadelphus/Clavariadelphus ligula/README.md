@@ -1,17 +1,16 @@
-Clavaria ophioglossoides Batsch, 1783 SPECIES
-=======
+# Clavariadelphus ligula (Schaeff.) Donk, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle) 135 (1783)
+Rev. Niederl. Homob. Aphyll. 2: 73 (1933)
 
 #### Original name
-Clavaria ophioglossoides Batsch, 1783
+Clavaria ligula Schaeff., 1774
 
 ### Remarks
 null

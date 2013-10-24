@@ -1,5 +1,4 @@
-Schizospora GENUS
-=======
+# Schizospora GENUS
 
 #### Status
 ACCEPTED

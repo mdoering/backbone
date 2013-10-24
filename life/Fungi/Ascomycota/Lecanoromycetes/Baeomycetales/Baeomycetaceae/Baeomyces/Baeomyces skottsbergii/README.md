@@ -1,5 +1,4 @@
-Baeomyces skottsbergii H. Magn. SPECIES
-=======
+# Baeomyces skottsbergii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

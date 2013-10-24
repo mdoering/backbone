@@ -1,5 +1,4 @@
-Lachnum aconiti (Rehm) W.Y. Zhuang SPECIES
-=======
+# Lachnum aconiti (Rehm) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

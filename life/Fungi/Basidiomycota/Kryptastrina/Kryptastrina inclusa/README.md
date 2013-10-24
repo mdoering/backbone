@@ -1,5 +1,4 @@
-Kryptastrina inclusa Oberw., 1990 SPECIES
-=======
+# Kryptastrina inclusa Oberw., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stysanus monilifer (Berk. & Broome) Sacc. SPECIES
-=======
+# Stysanus monilifer (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

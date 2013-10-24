@@ -1,5 +1,4 @@
-Uredo maceiensis Henn. SPECIES
-=======
+# Uredo maceiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

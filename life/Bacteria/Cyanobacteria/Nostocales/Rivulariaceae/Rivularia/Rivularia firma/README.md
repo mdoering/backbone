@@ -1,5 +1,4 @@
-Rivularia firma SPECIES
-=======
+# Rivularia firma SPECIES
 
 #### Status
 ACCEPTED

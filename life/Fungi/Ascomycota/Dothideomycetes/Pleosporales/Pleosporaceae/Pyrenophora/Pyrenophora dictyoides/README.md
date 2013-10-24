@@ -1,17 +1,16 @@
-Pyrenophora dictyoides f. sp FORM
-=======
+# Pyrenophora dictyoides A.R. Paul & Parbery, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 51: 708 (1968)
 
 #### Original name
-Pyrenophora dictyoides f. sp
+Pyrenophora dictyoides A.R. Paul & Parbery, 1968
 
 ### Remarks
 null

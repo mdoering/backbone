@@ -1,17 +1,16 @@
-Stagonospora graminella var. graminella VARIETY
-=======
+# Stagonospora graminella (Sacc.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 454 (1884)
 
 #### Original name
-Stagonospora graminella var. graminella
+Hendersonia graminella Sacc., 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Penicillium viridivarians Chaudhuri & Sachar SPECIES
-=======
+# Penicillium viridivarians Chaudhuri & Sachar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacillus limnophilus Goto et al., 2004 SPECIES
-=======
+# Brevibacillus limnophilus Goto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

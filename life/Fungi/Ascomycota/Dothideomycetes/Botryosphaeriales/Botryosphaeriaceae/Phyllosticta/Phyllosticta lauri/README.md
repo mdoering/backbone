@@ -1,5 +1,4 @@
-Phyllosticta lauri Westend., 1857 SPECIES
-=======
+# Phyllosticta lauri Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

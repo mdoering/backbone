@@ -1,17 +1,16 @@
-Tricholoma matsutake subsp. matsutake SUBSPECIES
-=======
+# Tricholoma matsutake (S. Ito & S. Imai) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1-3): 77 (1943)
 
 #### Original name
-null
+Armillaria matsutake S. Ito & S. Imai, 1925
 
 ### Remarks
 null

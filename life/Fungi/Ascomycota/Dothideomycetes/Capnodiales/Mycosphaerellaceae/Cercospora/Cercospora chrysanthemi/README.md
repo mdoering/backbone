@@ -1,5 +1,4 @@
-Cercospora chrysanthemi Heald & F.A. Wolf, 1911 SPECIES
-=======
+# Cercospora chrysanthemi Heald & F.A. Wolf, 1911 SPECIES
 
 #### Status
 ACCEPTED

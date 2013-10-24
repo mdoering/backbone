@@ -1,5 +1,4 @@
-Frankea longiuscula Burmann, 1970 SPECIES
-=======
+# Frankea longiuscula Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

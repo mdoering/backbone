@@ -1,17 +1,16 @@
-Amanita mappa var. mappa VARIETY
-=======
+# Amanita phalloides (Vaill. ex Fr.) Link, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dechambre, Dict. Encyclop. Sci. Medic. , Sér. 1 3: 500 (1866)
+Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 272 (1833)
 
 #### Original name
-Amanita mappa var. mappa
+Agaricus phalloides Vaill. ex Fr., 1821
 
 ### Remarks
 null

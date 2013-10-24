@@ -1,5 +1,4 @@
-Perenniporia rhizomorpha B.K. Cui, Y.C. Dai & Decock SPECIES
-=======
+# Perenniporia rhizomorpha B.K. Cui, Y.C. Dai & Decock SPECIES
 
 #### Status
 ACCEPTED

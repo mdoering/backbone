@@ -1,5 +1,4 @@
-Collema myochroum (Ehrh.) Rabenh. SPECIES
-=======
+# Collema myochroum (Ehrh.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

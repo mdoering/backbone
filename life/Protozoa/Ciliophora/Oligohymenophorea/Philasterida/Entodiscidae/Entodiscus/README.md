@@ -1,5 +1,4 @@
-Entodiscus Madsen, 1931 GENUS
-=======
+# Entodiscus Madsen, 1931 GENUS
 
 #### Status
 ACCEPTED

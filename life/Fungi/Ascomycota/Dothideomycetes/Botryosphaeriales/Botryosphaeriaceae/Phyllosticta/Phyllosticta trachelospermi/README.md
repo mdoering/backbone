@@ -1,5 +1,4 @@
-Phyllosticta trachelospermi (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta trachelospermi (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

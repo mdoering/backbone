@@ -1,5 +1,4 @@
-Gonothecis phyllocharis Clem. SPECIES
-=======
+# Gonothecis phyllocharis Clem. SPECIES
 
 #### Status
 ACCEPTED

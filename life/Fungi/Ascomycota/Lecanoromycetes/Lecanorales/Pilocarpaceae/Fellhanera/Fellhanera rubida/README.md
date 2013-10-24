@@ -1,5 +1,4 @@
-Fellhanera rubida (Müll. Arg.) Lücking SPECIES
-=======
+# Fellhanera rubida (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

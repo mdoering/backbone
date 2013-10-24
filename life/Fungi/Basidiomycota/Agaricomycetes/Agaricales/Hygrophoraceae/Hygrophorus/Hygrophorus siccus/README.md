@@ -1,5 +1,4 @@
-Hygrophorus siccus Velen. SPECIES
-=======
+# Hygrophorus siccus Velen. SPECIES
 
 #### Status
 ACCEPTED

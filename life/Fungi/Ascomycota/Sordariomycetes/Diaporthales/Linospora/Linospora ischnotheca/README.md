@@ -1,5 +1,4 @@
-Linospora ischnotheca (Desm.) Sacc. SPECIES
-=======
+# Linospora ischnotheca (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

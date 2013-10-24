@@ -1,5 +1,4 @@
-Leptomonas W.S.Kent, 1880 GENUS
-=======
+# Leptomonas W.S.Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

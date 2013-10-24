@@ -1,5 +1,4 @@
-Septoria cyclaminis Durieu & Mont., 1856 SPECIES
-=======
+# Septoria cyclaminis Durieu & Mont., 1856 SPECIES
 
 #### Status
 ACCEPTED

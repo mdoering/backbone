@@ -1,5 +1,4 @@
-Helminthascus Tranzschel GENUS
-=======
+# Helminthascus Tranzschel GENUS
 
 #### Status
 ACCEPTED

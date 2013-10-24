@@ -1,5 +1,4 @@
-Lecidea fibrillosa Fée SPECIES
-=======
+# Lecidea fibrillosa Fée SPECIES
 
 #### Status
 ACCEPTED

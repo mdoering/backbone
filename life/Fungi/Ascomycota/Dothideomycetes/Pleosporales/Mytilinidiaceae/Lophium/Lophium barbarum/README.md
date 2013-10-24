@@ -1,5 +1,4 @@
-Lophium barbarum Fr., 1819 SPECIES
-=======
+# Lophium barbarum Fr., 1819 SPECIES
 
 #### Status
 ACCEPTED

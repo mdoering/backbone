@@ -1,5 +1,4 @@
-Septoria andromedae Rostr. SPECIES
-=======
+# Septoria andromedae Rostr. SPECIES
 
 #### Status
 ACCEPTED

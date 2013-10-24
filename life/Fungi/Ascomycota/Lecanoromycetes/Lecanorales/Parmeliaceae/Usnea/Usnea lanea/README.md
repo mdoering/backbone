@@ -1,5 +1,4 @@
-Usnea lanea Hoffm. SPECIES
-=======
+# Usnea lanea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

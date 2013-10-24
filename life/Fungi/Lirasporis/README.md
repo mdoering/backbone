@@ -1,5 +1,4 @@
-Lirasporis R. Potonié & Sah GENUS
-=======
+# Lirasporis R. Potonié & Sah GENUS
 
 #### Status
 ACCEPTED

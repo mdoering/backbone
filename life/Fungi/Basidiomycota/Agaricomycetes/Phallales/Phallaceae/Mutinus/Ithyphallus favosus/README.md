@@ -1,5 +1,4 @@
-Ithyphallus favosus Penz. SPECIES
-=======
+# Ithyphallus favosus Penz. SPECIES
 
 #### Status
 ACCEPTED

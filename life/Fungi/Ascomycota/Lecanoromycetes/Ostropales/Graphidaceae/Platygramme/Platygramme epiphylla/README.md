@@ -1,5 +1,4 @@
-Platygramme epiphylla Fée SPECIES
-=======
+# Platygramme epiphylla Fée SPECIES
 
 #### Status
 ACCEPTED

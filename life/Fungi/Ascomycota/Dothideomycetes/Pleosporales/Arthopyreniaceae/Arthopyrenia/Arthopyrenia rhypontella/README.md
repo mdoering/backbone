@@ -1,5 +1,4 @@
-Arthopyrenia rhypontella (Nyl.) Hazsl. SPECIES
-=======
+# Arthopyrenia rhypontella (Nyl.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

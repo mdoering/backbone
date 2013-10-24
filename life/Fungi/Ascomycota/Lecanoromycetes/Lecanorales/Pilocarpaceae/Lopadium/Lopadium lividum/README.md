@@ -1,5 +1,4 @@
-Lopadium lividum (Mont.) Zahlbr. SPECIES
-=======
+# Lopadium lividum (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

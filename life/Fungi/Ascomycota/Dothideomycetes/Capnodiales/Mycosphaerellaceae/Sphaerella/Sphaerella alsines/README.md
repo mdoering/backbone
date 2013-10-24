@@ -1,5 +1,4 @@
-Sphaerella alsines Pass. SPECIES
-=======
+# Sphaerella alsines Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thaxterogaster luteolum E. Horak SPECIES
-=======
+# Cortinarius flavidulus Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 179 (2002)
 
 #### Original name
-Thaxterogaster luteolum E. Horak
+Thaxterogaster luteolus E. Horak, 1973
 
 ### Remarks
 null

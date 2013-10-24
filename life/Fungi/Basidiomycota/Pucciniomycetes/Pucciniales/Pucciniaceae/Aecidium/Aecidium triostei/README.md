@@ -1,5 +1,4 @@
-Aecidium triostei Arthur SPECIES
-=======
+# Aecidium triostei Arthur SPECIES
 
 #### Status
 ACCEPTED

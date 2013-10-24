@@ -1,5 +1,4 @@
-Clypeothecium weirii Petr. SPECIES
-=======
+# Clypeothecium weirii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidora hypnophaga (Poelt) Motyka SPECIES
-=======
+# Lecidora hypnophaga (Poelt) Motyka SPECIES
 
 #### Status
 ACCEPTED

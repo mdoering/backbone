@@ -1,5 +1,4 @@
-Cordyceps albocitrinus Koval SPECIES
-=======
+# Cordyceps albocitrinus Koval SPECIES
 
 #### Status
 ACCEPTED

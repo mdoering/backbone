@@ -1,5 +1,4 @@
-Lecanora dentilabra Tuck. SPECIES
-=======
+# Lecanora dentilabra Tuck. SPECIES
 
 #### Status
 ACCEPTED

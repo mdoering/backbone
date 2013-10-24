@@ -1,5 +1,4 @@
-Phialea pertenuis (Sacc.) Sacc. SPECIES
-=======
+# Phialea pertenuis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

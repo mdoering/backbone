@@ -1,5 +1,4 @@
-Ustilago suddiana (Spooner) Vánky SPECIES
-=======
+# Ustilago suddiana (Spooner) Vánky SPECIES
 
 #### Status
 ACCEPTED

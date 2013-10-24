@@ -1,5 +1,4 @@
-Paratrichophaea pygmea (Clem.) Pfister SPECIES
-=======
+# Paratrichophaea pygmea (Clem.) Pfister SPECIES
 
 #### Status
 ACCEPTED

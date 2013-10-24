@@ -1,5 +1,4 @@
-Difflugia globulus (Ehr.) SPECIES
-=======
+# Difflugia globulus (Ehr.) SPECIES
 
 #### Status
 ACCEPTED

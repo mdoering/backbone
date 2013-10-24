@@ -1,5 +1,4 @@
-Lepraria dibenzofuranica Elix SPECIES
-=======
+# Lepraria dibenzofuranica Elix SPECIES
 
 #### Status
 ACCEPTED

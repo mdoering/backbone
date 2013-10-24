@@ -1,5 +1,4 @@
-Synura peterseni Korshikov SPECIES
-=======
+# Synura peterseni Korshikov SPECIES
 
 #### Status
 ACCEPTED

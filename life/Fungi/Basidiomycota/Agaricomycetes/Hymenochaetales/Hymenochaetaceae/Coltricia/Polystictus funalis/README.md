@@ -1,5 +1,4 @@
-Polystictus funalis (Fr.) Fr. SPECIES
-=======
+# Polystictus funalis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

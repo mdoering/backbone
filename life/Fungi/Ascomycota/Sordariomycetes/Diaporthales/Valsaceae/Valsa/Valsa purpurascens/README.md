@@ -1,5 +1,4 @@
-Valsa purpurascens (DC.) P. Crouan & H. Crouan SPECIES
-=======
+# Valsa purpurascens (DC.) P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

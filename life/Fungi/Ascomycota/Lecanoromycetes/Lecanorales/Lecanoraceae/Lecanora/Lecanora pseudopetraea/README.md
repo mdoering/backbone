@@ -1,5 +1,4 @@
-Lecanora pseudopetraea SPECIES
-=======
+# Lecanora pseudopetraea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacella whereoparaonea G.S. Ridl., 1993 SPECIES
-=======
+# Limacella whereoparaonea G.S. Ridl., 1993 SPECIES
 
 #### Status
 ACCEPTED

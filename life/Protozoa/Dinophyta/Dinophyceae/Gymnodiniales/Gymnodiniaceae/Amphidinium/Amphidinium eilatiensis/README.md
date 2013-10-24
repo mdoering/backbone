@@ -1,5 +1,4 @@
-Amphidinium eilatiensis Lee, Olea, Cevasco, Pochon, Correia, Shpigel & Pawlowski, 2003 SPECIES
-=======
+# Amphidinium eilatiensis Lee, Olea, Cevasco, Pochon, Correia, Shpigel & Pawlowski, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paleogaudryina Said & Barakat, 1958 GENUS
-=======
+# Paleogaudryina Said & Barakat, 1958 GENUS
 
 #### Status
 ACCEPTED

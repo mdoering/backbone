@@ -1,5 +1,4 @@
-Russula glaucescentipes Murrill SPECIES
-=======
+# Russula glaucescentipes Murrill SPECIES
 
 #### Status
 ACCEPTED

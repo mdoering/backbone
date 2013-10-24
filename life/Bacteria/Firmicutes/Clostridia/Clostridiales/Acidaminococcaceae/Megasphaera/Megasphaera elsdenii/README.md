@@ -1,5 +1,4 @@
-Megasphaera elsdenii (Gutierrez et al., 1959) Rogosa, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Megasphaera elsdenii (Gutierrez et al., 1959) Rogosa, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ramentaceus Bull. ex Pers. SPECIES
-=======
+# Agaricus ramentaceus Bull. ex Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoglossum pygmaeum W.R. Gerard SPECIES
-=======
+# Geoglossum pygmaeum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

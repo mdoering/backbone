@@ -1,5 +1,4 @@
-Gasparrinia bogdoënsis Mereschk. SPECIES
-=======
+# Gasparrinia bogdoënsis Mereschk. SPECIES
 
 #### Status
 ACCEPTED

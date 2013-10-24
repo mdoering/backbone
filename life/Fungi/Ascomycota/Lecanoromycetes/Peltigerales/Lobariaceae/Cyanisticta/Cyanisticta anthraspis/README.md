@@ -1,5 +1,4 @@
-Cyanisticta anthraspis (Ach.) Gyeln. SPECIES
-=======
+# Cyanisticta anthraspis (Ach.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

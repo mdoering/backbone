@@ -1,5 +1,4 @@
-Microphoma rosae N.F. Buchw. SPECIES
-=======
+# Microphoma rosae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

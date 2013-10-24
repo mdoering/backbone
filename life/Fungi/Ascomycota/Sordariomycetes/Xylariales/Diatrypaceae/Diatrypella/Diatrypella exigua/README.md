@@ -1,17 +1,16 @@
-Diatrype exigua (G. Winter) Cooke, 1886 SPECIES
-=======
+# Diatrypella exigua G. Winter, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 13: 133 (1874)
 
 #### Original name
-null
+Diatrypella exigua G. Winter, 1874
 
 ### Remarks
 null

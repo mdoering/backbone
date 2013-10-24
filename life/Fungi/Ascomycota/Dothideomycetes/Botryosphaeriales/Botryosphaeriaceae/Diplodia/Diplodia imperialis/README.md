@@ -1,5 +1,4 @@
-Diplodia imperialis Sacc. SPECIES
-=======
+# Diplodia imperialis Sacc. SPECIES
 
 #### Status
 ACCEPTED

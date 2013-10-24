@@ -1,5 +1,4 @@
-Hygrophorus alutaceus Berk. & Broome SPECIES
-=======
+# Hygrophorus alutaceus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

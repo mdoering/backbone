@@ -1,5 +1,4 @@
-Orcheomyces harrisiani Burgeff SPECIES
-=======
+# Orcheomyces harrisiani Burgeff SPECIES
 
 #### Status
 ACCEPTED

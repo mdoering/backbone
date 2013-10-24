@@ -1,5 +1,4 @@
-Acephalis radiata Badura & Badurowa SPECIES
-=======
+# Acephalis radiata Badura & Badurowa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermisporium verrucisporum Nag Raj, 1993 SPECIES
-=======
+# Vermisporium verrucisporum Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

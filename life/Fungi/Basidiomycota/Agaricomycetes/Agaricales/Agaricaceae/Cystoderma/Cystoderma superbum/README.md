@@ -1,5 +1,4 @@
-Cystoderma superbum Huijsman, 1956 SPECIES
-=======
+# Cystoderma superbum Huijsman, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia calcicola Nyl. SPECIES
-=======
+# Arthonia calcicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

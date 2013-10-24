@@ -1,5 +1,4 @@
-Kineococcus radiotolerans Phillips et al., 2002 SPECIES
-=======
+# Kineococcus radiotolerans Phillips et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

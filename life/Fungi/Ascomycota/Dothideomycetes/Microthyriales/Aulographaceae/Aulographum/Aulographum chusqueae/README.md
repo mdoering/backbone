@@ -1,5 +1,4 @@
-Aulographum chusqueae Speg. SPECIES
-=======
+# Aulographum chusqueae Speg. SPECIES
 
 #### Status
 ACCEPTED

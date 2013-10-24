@@ -1,5 +1,4 @@
-Stigmatomyces ensinae Thaxt. SPECIES
-=======
+# Stigmatomyces ensinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

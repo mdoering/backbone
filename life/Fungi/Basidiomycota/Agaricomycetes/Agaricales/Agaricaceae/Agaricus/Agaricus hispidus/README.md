@@ -1,5 +1,4 @@
-Agaricus hispidus Batsch SPECIES
-=======
+# Agaricus hispidus Batsch SPECIES
 
 #### Status
 ACCEPTED

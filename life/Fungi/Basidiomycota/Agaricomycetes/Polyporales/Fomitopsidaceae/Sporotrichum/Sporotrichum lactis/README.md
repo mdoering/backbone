@@ -1,5 +1,4 @@
-Sporotrichum lactis Pirotta & Riboni SPECIES
-=======
+# Sporotrichum lactis Pirotta & Riboni SPECIES
 
 #### Status
 ACCEPTED

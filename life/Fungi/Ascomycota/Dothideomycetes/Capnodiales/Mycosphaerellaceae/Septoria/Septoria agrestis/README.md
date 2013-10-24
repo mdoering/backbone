@@ -1,5 +1,4 @@
-Septoria agrestis Sacc. SPECIES
-=======
+# Septoria agrestis Sacc. SPECIES
 
 #### Status
 ACCEPTED

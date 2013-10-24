@@ -1,5 +1,4 @@
-Loflammia demoulinii Sérus. SPECIES
-=======
+# Loflammia demoulinii Sérus. SPECIES
 
 #### Status
 ACCEPTED

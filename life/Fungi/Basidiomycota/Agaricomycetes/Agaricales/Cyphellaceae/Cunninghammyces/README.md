@@ -1,5 +1,4 @@
-Cunninghammyces Stalpers GENUS
-=======
+# Cunninghammyces Stalpers GENUS
 
 #### Status
 ACCEPTED

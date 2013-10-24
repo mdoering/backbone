@@ -1,14 +1,13 @@
-Coniophora sordulenta (Cooke & Massee) Sacc., 1888 SPECIES
-=======
+# Dichostereum sordulentum (Cooke & Massee) Boidin & Lanq., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 650 (1888)
+Bull. trimest. Soc. mycol. Fr. 96(4): 384 (1981)
 
 #### Original name
 null

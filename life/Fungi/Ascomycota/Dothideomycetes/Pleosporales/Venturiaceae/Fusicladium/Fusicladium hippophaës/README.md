@@ -1,5 +1,4 @@
-Fusicladium hippophaës Vasyag. & Byzova SPECIES
-=======
+# Fusicladium hippophaës Vasyag. & Byzova SPECIES
 
 #### Status
 ACCEPTED

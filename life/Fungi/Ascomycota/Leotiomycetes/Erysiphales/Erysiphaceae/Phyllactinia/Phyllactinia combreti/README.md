@@ -1,5 +1,4 @@
-Phyllactinia combreti Doidge SPECIES
-=======
+# Phyllactinia combreti Doidge SPECIES
 
 #### Status
 ACCEPTED

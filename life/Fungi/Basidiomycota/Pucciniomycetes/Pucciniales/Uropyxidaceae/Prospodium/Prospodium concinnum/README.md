@@ -1,5 +1,4 @@
-Prospodium concinnum Syd. SPECIES
-=======
+# Prospodium concinnum Syd. SPECIES
 
 #### Status
 ACCEPTED

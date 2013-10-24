@@ -1,5 +1,4 @@
-Nectria secalina Ellis & Everh. SPECIES
-=======
+# Nectria secalina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

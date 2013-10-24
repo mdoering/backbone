@@ -1,5 +1,4 @@
-Usnea pensylvanica Motyka SPECIES
-=======
+# Usnea pensylvanica Motyka SPECIES
 
 #### Status
 ACCEPTED

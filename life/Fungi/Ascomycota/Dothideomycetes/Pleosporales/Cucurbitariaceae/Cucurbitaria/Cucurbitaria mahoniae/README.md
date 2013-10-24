@@ -1,5 +1,4 @@
-Cucurbitaria mahoniae Richon SPECIES
-=======
+# Cucurbitaria mahoniae Richon SPECIES
 
 #### Status
 ACCEPTED

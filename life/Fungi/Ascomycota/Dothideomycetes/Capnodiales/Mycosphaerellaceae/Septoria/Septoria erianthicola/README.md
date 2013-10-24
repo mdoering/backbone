@@ -1,5 +1,4 @@
-Septoria erianthicola Melnik SPECIES
-=======
+# Septoria erianthicola Melnik SPECIES
 
 #### Status
 ACCEPTED

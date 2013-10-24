@@ -1,5 +1,4 @@
-Diplodia ochrosiae Massee SPECIES
-=======
+# Diplodia ochrosiae Massee SPECIES
 
 #### Status
 ACCEPTED

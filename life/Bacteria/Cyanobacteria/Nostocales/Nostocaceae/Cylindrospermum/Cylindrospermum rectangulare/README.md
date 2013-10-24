@@ -1,5 +1,4 @@
-Cylindrospermum rectangulare var. parvicellula Playfair VARIETY
-=======
+# Cylindrospermum rectangulare Playfair SPECIES
 
 #### Status
 ACCEPTED

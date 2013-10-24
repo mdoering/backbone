@@ -1,5 +1,4 @@
-Caloplaca antiatlantica Werner SPECIES
-=======
+# Caloplaca antiatlantica Werner SPECIES
 
 #### Status
 ACCEPTED

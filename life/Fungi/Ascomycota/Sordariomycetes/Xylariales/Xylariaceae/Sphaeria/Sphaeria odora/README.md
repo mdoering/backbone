@@ -1,5 +1,4 @@
-Sphaeria odora Cooke & Harkn. SPECIES
-=======
+# Sphaeria odora Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

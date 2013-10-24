@@ -1,5 +1,4 @@
-Opegrapha durieui Mont. SPECIES
-=======
+# Opegrapha durieui Mont. SPECIES
 
 #### Status
 ACCEPTED

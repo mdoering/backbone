@@ -1,5 +1,4 @@
-Pingius Hsiung, 1932 GENUS
-=======
+# Pingius Hsiung, 1932 GENUS
 
 #### Status
 ACCEPTED

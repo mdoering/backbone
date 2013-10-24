@@ -1,5 +1,4 @@
-Hypholoma pseudofasciculare Velen. SPECIES
-=======
+# Hypholoma pseudofasciculare Velen. SPECIES
 
 #### Status
 ACCEPTED

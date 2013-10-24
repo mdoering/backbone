@@ -1,5 +1,4 @@
-Lentaria albovinacea (Pilát) Pilát SPECIES
-=======
+# Lentaria albovinacea (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coralloidiomyces Letcher GENUS
-=======
+# Coralloidiomyces Letcher GENUS
 
 #### Status
 ACCEPTED

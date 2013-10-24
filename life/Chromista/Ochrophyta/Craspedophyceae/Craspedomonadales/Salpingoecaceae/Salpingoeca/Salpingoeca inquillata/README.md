@@ -1,8 +1,7 @@
-Salpingoeca ringens Kent, 1880 SPECIES
-=======
+# Salpingoeca inquillata Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

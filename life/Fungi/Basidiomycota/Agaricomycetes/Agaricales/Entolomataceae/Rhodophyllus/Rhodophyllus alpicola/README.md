@@ -1,5 +1,4 @@
-Rhodophyllus alpicola Kühner SPECIES
-=======
+# Rhodophyllus alpicola Kühner SPECIES
 
 #### Status
 ACCEPTED

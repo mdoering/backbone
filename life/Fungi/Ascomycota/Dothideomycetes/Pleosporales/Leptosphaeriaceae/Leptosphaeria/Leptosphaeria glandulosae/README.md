@@ -1,5 +1,4 @@
-Leptosphaeria glandulosae Lobik SPECIES
-=======
+# Leptosphaeria glandulosae Lobik SPECIES
 
 #### Status
 ACCEPTED

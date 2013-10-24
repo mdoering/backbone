@@ -1,5 +1,4 @@
-Lophodermium maximum B.Z. He & D.Q. Yang SPECIES
-=======
+# Lophodermium maximum B.Z. He & D.Q. Yang SPECIES
 
 #### Status
 ACCEPTED

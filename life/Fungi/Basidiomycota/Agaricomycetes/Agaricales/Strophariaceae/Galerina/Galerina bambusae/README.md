@@ -1,5 +1,4 @@
-Galerina bambusae E. Horak SPECIES
-=======
+# Galerina bambusae E. Horak SPECIES
 
 #### Status
 ACCEPTED

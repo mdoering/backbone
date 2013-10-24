@@ -1,5 +1,4 @@
-Octaviania lanigera R. Hesse SPECIES
-=======
+# Octaviania lanigera R. Hesse SPECIES
 
 #### Status
 ACCEPTED

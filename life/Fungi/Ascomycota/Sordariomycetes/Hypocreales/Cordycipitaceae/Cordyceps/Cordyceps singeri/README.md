@@ -1,5 +1,4 @@
-Cordyceps singeri Mains SPECIES
-=======
+# Cordyceps singeri Mains SPECIES
 
 #### Status
 ACCEPTED

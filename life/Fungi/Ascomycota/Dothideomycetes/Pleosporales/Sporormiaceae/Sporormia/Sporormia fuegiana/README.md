@@ -1,5 +1,4 @@
-Sporormia fuegiana Speg. SPECIES
-=======
+# Sporormia fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

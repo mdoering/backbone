@@ -1,5 +1,4 @@
-Gliotrichum candidum (Eschw.) Fr. SPECIES
-=======
+# Gliotrichum candidum (Eschw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

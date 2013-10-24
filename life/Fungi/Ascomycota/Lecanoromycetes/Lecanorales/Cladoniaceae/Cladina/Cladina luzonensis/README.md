@@ -1,5 +1,4 @@
-Cladina luzonensis (Ahti) Gruezo SPECIES
-=======
+# Cladina luzonensis (Ahti) Gruezo SPECIES
 
 #### Status
 ACCEPTED

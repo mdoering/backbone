@@ -1,5 +1,4 @@
-Tolypomyria prasina Preuss SPECIES
-=======
+# Tolypomyria prasina Preuss SPECIES
 
 #### Status
 ACCEPTED

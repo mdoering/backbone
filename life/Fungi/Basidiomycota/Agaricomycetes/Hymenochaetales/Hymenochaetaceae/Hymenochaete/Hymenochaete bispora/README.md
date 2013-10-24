@@ -1,5 +1,4 @@
-Hymenochaete bispora G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete bispora G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

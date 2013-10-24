@@ -1,5 +1,4 @@
-Mycarthopyrenia desistens SPECIES
-=======
+# Mycarthopyrenia desistens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea speirococcoides Vain. SPECIES
-=======
+# Lecidea speirococcoides Vain. SPECIES
 
 #### Status
 ACCEPTED

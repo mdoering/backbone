@@ -1,5 +1,4 @@
-Staurothele arctica Lynge SPECIES
-=======
+# Staurothele arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

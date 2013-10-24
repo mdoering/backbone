@@ -1,5 +1,4 @@
-Tulasnella cinchonae Racib. SPECIES
-=======
+# Tulasnella cinchonae Racib. SPECIES
 
 #### Status
 ACCEPTED

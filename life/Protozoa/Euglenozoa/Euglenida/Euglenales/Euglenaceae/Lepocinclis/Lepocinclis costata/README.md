@@ -1,5 +1,4 @@
-Lepocinclis costata var. obesa Playfair VARIETY
-=======
+# Lepocinclis costata Playfair SPECIES
 
 #### Status
 ACCEPTED

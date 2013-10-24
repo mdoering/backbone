@@ -1,17 +1,16 @@
-Crinipellis roreri var. roreri VARIETY
-=======
+# Moniliophthora roreri (Cif.) H.C. Evans, Stalpers, Samson & Benny, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 56(20): 2530 (1978)
 
 #### Original name
-Crinipellis roreri var. roreri
+null
 
 ### Remarks
 null

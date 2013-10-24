@@ -1,5 +1,4 @@
-Discophrya prismatica Holm, 1928 SPECIES
-=======
+# Discophrya prismatica Holm, 1928 SPECIES
 
 #### Status
 ACCEPTED

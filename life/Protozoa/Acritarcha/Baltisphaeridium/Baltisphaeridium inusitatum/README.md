@@ -1,5 +1,4 @@
-Baltisphaeridium inusitatum Klement, 1960 SPECIES
-=======
+# Baltisphaeridium inusitatum Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

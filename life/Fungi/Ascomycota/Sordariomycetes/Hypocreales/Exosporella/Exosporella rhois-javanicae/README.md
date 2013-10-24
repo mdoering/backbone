@@ -1,5 +1,4 @@
-Exosporella rhois-javanicae Sawada SPECIES
-=======
+# Exosporella rhois-javanicae Sawada SPECIES
 
 #### Status
 ACCEPTED

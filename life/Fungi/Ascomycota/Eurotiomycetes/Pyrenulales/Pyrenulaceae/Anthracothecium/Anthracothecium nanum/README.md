@@ -1,5 +1,4 @@
-Anthracothecium nanum (Zahlbr.) R.C. Harris SPECIES
-=======
+# Anthracothecium nanum (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

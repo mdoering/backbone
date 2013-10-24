@@ -1,5 +1,4 @@
-Marasmius crispus Henn. SPECIES
-=======
+# Marasmius crispus Henn. SPECIES
 
 #### Status
 ACCEPTED

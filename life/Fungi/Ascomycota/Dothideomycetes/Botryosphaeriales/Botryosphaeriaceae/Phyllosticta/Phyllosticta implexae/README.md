@@ -1,5 +1,4 @@
-Phyllosticta implexae Pass. SPECIES
-=======
+# Phyllosticta implexae Pass. SPECIES
 
 #### Status
 ACCEPTED

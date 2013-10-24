@@ -1,8 +1,7 @@
-Desseria fragilis (Fantham, 1930) Siddall, 1995 SPECIES
-=======
+# Haemogregarina bigemina Laveran & Mesnil, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

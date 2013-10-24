@@ -1,5 +1,4 @@
-Cystoseira granulata C. Agardh SPECIES
-=======
+# Cystoseira granulata C. Agardh SPECIES
 
 #### Status
 ACCEPTED

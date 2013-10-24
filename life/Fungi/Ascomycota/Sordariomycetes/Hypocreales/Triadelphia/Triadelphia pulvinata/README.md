@@ -1,5 +1,4 @@
-Triadelphia pulvinata Maggi, Bartoli & Rambelli, 1978 SPECIES
-=======
+# Triadelphia pulvinata Maggi, Bartoli & Rambelli, 1978 SPECIES
 
 #### Status
 ACCEPTED

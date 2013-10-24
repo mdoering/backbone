@@ -1,5 +1,4 @@
-Trichosporon domesticum Sugita, A. Nishikawa & Shinoda SPECIES
-=======
+# Trichosporon domesticum Sugita, A. Nishikawa & Shinoda SPECIES
 
 #### Status
 ACCEPTED

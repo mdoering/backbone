@@ -1,5 +1,4 @@
-Sympodiophora tenuis (Syd.) Deighton & Piroz. SPECIES
-=======
+# Sympodiophora tenuis (Syd.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

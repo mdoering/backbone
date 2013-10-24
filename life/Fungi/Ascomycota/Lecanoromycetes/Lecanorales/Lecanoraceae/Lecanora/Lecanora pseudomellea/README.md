@@ -1,5 +1,4 @@
-Lecanora pseudomellea B. D. Ryan SPECIES
-=======
+# Lecanora pseudomellea B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

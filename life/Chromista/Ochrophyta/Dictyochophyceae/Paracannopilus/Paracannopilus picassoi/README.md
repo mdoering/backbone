@@ -1,5 +1,4 @@
-Paracannopilus picassoi (H. Stradner) P. Dumitrica SPECIES
-=======
+# Paracannopilus picassoi (H. Stradner) P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

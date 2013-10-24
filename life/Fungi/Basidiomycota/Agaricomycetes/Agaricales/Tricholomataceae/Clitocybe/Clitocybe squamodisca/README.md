@@ -1,5 +1,4 @@
-Clitocybe squamodisca H.E. Bigelow SPECIES
-=======
+# Clitocybe squamodisca H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

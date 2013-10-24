@@ -1,14 +1,13 @@
-Pistillaria graminicola Bourdot & Galzin, 1928 SPECIES
-=======
+# Ceratellopsis graminicola (Bourdot & Galzin) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France 139 (1928)
+Ann. Bot. Mem. 1: 203 (1950)
 
 #### Original name
 Pistillaria graminicola Bourdot & Galzin, 1928

@@ -1,5 +1,4 @@
-Lecanidium perenne C.W. Dodge SPECIES
-=======
+# Lecanidium perenne C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

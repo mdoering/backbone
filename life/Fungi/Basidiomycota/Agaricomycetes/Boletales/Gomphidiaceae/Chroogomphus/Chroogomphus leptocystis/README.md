@@ -1,14 +1,13 @@
-Gomphidius leptocystis Singer, 1946 SPECIES
-=======
+# Chroogomphus leptocystis (Singer) O.K. Mill., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 32: 148 (1946)
+null
 
 #### Original name
 Gomphidius leptocystis Singer, 1946

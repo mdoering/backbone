@@ -1,5 +1,4 @@
-Ophryoglena faurei Savoie, 1962 SPECIES
-=======
+# Ophryoglena faurei Savoie, 1962 SPECIES
 
 #### Status
 ACCEPTED

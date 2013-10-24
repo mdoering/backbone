@@ -1,5 +1,4 @@
-Sclerotium resinosum Schulzer SPECIES
-=======
+# Sclerotium resinosum Schulzer SPECIES
 
 #### Status
 ACCEPTED

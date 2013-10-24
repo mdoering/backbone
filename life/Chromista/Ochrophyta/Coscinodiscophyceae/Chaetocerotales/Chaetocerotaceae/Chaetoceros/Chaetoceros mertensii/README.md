@@ -1,5 +1,4 @@
-Chaetoceros mertensii Honigmann SPECIES
-=======
+# Chaetoceros mertensii Honigmann SPECIES
 
 #### Status
 ACCEPTED

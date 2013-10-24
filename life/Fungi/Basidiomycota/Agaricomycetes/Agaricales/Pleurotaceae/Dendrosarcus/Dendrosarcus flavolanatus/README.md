@@ -1,5 +1,4 @@
-Dendrosarcus flavolanatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus flavolanatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

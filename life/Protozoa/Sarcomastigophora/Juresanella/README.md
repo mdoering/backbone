@@ -1,5 +1,4 @@
-Juresanella Bensh, 1987 GENUS
-=======
+# Juresanella Bensh, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora calystegiae Speg. SPECIES
-=======
+# Cercospora calystegiae Speg. SPECIES
 
 #### Status
 ACCEPTED

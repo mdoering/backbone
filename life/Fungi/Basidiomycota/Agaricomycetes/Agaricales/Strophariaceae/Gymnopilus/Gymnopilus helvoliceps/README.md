@@ -1,5 +1,4 @@
-Gymnopilus helvoliceps Berk. & M.A. Curtis SPECIES
-=======
+# Gymnopilus helvoliceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

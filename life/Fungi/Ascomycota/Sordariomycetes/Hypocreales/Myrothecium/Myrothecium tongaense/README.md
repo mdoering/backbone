@@ -1,5 +1,4 @@
-Myrothecium tongaense W.B. Kendr., DiCosmo & Michaelides, 1980 SPECIES
-=======
+# Myrothecium tongaense W.B. Kendr., DiCosmo & Michaelides, 1980 SPECIES
 
 #### Status
 ACCEPTED

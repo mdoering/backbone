@@ -1,5 +1,4 @@
-Hypholoma cokerianum (A.H. Sm. & Hesler) Guzmán SPECIES
-=======
+# Hypholoma cokerianum (A.H. Sm. & Hesler) Guzmán SPECIES
 
 #### Status
 ACCEPTED

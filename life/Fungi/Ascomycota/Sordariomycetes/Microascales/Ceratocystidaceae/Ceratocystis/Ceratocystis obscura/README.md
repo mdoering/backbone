@@ -1,14 +1,13 @@
-Ophiostoma obscurum (R.W. Davidson) Hendr., 1937 SPECIES
-=======
+# Ceratocystis obscura (R.W. Davidson) J. Hunt, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 19: 30 (1956)
 
 #### Original name
 Ceratostomella obscura R.W. Davidson, 1935

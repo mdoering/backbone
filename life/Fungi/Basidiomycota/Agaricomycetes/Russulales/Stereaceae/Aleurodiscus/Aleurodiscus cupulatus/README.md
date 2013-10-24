@@ -1,5 +1,4 @@
-Aleurodiscus cupulatus Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus cupulatus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

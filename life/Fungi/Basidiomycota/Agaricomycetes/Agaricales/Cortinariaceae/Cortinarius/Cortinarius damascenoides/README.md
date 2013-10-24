@@ -1,5 +1,4 @@
-Cortinarius damascenoides Bidaud SPECIES
-=======
+# Cortinarius damascenoides Bidaud SPECIES
 
 #### Status
 ACCEPTED

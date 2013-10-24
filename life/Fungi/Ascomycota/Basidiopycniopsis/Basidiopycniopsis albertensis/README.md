@@ -1,5 +1,4 @@
-Basidiopycniopsis albertensis J. Reid, Eyjólfsd. & Georg Hausner SPECIES
-=======
+# Basidiopycniopsis albertensis J. Reid, Eyjólfsd. & Georg Hausner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces papaveris Quél. SPECIES
-=======
+# Dacrymyces papaveris Quél. SPECIES
 
 #### Status
 ACCEPTED

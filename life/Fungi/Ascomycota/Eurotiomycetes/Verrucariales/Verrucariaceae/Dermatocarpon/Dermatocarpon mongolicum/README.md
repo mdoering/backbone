@@ -1,5 +1,4 @@
-Dermatocarpon mongolicum H. Magn. SPECIES
-=======
+# Dermatocarpon mongolicum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

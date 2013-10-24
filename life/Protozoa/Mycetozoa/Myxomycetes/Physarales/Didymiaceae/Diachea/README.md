@@ -1,5 +1,4 @@
-Diachea Fr. GENUS
-=======
+# Diachea Fr. GENUS
 
 #### Status
 ACCEPTED

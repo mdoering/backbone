@@ -1,5 +1,4 @@
-Muyocopron orchidearum (Mont.) Sacc. SPECIES
-=======
+# Muyocopron orchidearum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

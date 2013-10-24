@@ -1,5 +1,4 @@
-Protomyces theae Zimm. SPECIES
-=======
+# Protomyces theae Zimm. SPECIES
 
 #### Status
 ACCEPTED

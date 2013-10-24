@@ -1,5 +1,4 @@
-Lecidea demolita Vain. SPECIES
-=======
+# Lecidea demolita Vain. SPECIES
 
 #### Status
 ACCEPTED

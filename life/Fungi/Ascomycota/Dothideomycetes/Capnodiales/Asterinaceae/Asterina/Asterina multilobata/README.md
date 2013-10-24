@@ -1,5 +1,4 @@
-Asterina multilobata G. Winter SPECIES
-=======
+# Asterina multilobata G. Winter SPECIES
 
 #### Status
 ACCEPTED

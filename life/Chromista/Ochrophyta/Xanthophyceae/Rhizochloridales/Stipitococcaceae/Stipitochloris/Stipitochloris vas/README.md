@@ -1,5 +1,4 @@
-Stipitochloris vas (A. Pascher) G. Deflandre SPECIES
-=======
+# Stipitochloris vas (A. Pascher) G. Deflandre SPECIES
 
 #### Status
 ACCEPTED

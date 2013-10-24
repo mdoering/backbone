@@ -1,5 +1,4 @@
-Allantospora radicicola Wakker SPECIES
-=======
+# Allantospora radicicola Wakker SPECIES
 
 #### Status
 ACCEPTED

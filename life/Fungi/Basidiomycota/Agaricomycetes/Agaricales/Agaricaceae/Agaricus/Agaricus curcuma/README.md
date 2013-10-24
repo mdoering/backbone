@@ -1,5 +1,4 @@
-Agaricus curcuma Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus curcuma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

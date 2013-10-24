@@ -1,5 +1,4 @@
-Helotium alnicola Kauffman SPECIES
-=======
+# Helotium alnicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

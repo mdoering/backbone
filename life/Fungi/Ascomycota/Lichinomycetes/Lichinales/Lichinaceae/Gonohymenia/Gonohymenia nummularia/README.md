@@ -1,5 +1,4 @@
-Gonohymenia nummularia (Nyl.) Henssen SPECIES
-=======
+# Gonohymenia nummularia (Nyl.) Henssen SPECIES
 
 #### Status
 ACCEPTED

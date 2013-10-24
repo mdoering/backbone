@@ -1,5 +1,4 @@
-Labyrinthuloides F.O. Perkins, 1973 GENUS
-=======
+# Labyrinthuloides F.O. Perkins, 1973 GENUS
 
 #### Status
 ACCEPTED

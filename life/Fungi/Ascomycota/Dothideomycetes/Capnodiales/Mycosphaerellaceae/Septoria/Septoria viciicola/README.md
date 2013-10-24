@@ -1,5 +1,4 @@
-Septoria viciicola Jørst., 1965 SPECIES
-=======
+# Septoria viciicola Jørst., 1965 SPECIES
 
 #### Status
 ACCEPTED

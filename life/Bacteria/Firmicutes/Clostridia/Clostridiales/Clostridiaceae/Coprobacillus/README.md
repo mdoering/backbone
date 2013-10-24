@@ -1,5 +1,4 @@
-Coprobacillus Kageyama & Benno, 2000 GENUS
-=======
+# Coprobacillus Kageyama & Benno, 2000 GENUS
 
 #### Status
 ACCEPTED

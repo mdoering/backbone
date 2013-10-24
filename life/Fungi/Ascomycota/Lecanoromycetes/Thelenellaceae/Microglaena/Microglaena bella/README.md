@@ -1,5 +1,4 @@
-Microglaena bella Th. Fr. SPECIES
-=======
+# Microglaena bella Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

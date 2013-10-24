@@ -1,8 +1,7 @@
-Patellaria cateleia (Ach.) Trevis. SPECIES
-=======
+# Patellaria cateilea (Ach.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

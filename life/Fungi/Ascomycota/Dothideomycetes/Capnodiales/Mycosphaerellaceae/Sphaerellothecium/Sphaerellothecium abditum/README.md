@@ -1,5 +1,4 @@
-Sphaerellothecium abditum Triebel SPECIES
-=======
+# Sphaerellothecium abditum Triebel SPECIES
 
 #### Status
 ACCEPTED

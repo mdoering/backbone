@@ -1,5 +1,4 @@
-Calonectria opalina (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Calonectria opalina (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

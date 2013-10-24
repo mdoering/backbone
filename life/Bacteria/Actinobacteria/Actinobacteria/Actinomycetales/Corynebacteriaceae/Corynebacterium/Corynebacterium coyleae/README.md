@@ -1,5 +1,4 @@
-Corynebacterium coyleae Funke et al., 1997 SPECIES
-=======
+# Corynebacterium coyleae Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

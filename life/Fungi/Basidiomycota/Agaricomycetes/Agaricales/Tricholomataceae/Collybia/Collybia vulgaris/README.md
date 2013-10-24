@@ -1,5 +1,4 @@
-Collybia vulgaris Singer SPECIES
-=======
+# Collybia vulgaris Singer SPECIES
 
 #### Status
 ACCEPTED

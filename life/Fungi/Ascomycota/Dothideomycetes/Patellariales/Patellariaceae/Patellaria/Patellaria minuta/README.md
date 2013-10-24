@@ -1,5 +1,4 @@
-Patellaria minuta (Schaer.) Müll. Arg. SPECIES
-=======
+# Patellaria minuta (Schaer.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

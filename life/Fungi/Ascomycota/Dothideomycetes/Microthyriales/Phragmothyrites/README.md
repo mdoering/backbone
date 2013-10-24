@@ -1,5 +1,4 @@
-Phragmothyrites W.N. Edwards GENUS
-=======
+# Phragmothyrites W.N. Edwards GENUS
 
 #### Status
 ACCEPTED

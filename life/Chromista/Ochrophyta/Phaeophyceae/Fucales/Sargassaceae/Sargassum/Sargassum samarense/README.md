@@ -1,5 +1,4 @@
-Sargassum samarense G.C. Trono SPECIES
-=======
+# Sargassum samarense G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

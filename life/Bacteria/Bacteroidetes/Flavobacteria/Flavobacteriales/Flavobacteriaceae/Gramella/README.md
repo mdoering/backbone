@@ -1,5 +1,4 @@
-Gramella Nedashkovskaya et al., 2005 GENUS
-=======
+# Gramella Nedashkovskaya et al., 2005 GENUS
 
 #### Status
 ACCEPTED

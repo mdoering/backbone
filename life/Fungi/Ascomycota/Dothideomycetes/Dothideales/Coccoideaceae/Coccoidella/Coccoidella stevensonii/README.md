@@ -1,5 +1,4 @@
-Coccoidella stevensonii (Cif. & Bat.) E. Müll. SPECIES
-=======
+# Coccoidella stevensonii (Cif. & Bat.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

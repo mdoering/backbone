@@ -1,5 +1,4 @@
-Aegerita atra Spreng. SPECIES
-=======
+# Aegerita atra Spreng. SPECIES
 
 #### Status
 ACCEPTED

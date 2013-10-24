@@ -1,5 +1,4 @@
-Synchytrium puerariae (Henn.) Miyabe SPECIES
-=======
+# Synchytrium puerariae (Henn.) Miyabe SPECIES
 
 #### Status
 ACCEPTED

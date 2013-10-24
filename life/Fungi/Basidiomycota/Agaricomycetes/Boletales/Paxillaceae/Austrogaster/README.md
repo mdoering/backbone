@@ -1,5 +1,4 @@
-Austrogaster Singer, 1962 GENUS
-=======
+# Austrogaster Singer, 1962 GENUS
 
 #### Status
 ACCEPTED

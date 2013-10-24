@@ -1,5 +1,4 @@
-Cercospora pteridis Siemaszko SPECIES
-=======
+# Cercospora pteridis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

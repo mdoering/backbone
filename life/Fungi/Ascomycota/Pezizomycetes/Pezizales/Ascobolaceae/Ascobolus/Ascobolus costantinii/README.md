@@ -1,17 +1,16 @@
-Ascobolus constantinii Rolland SPECIES
-=======
+# Ascobolus costantinii Rolland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 4: 56 (1888)
 
 #### Original name
-Ascobolus constantinii Rolland
+Ascobolus costantinii Rolland
 
 ### Remarks
 null

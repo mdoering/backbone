@@ -1,5 +1,4 @@
-Psiloglonium pusillum (Zogg) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Psiloglonium pusillum (Zogg) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

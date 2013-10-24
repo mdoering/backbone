@@ -1,5 +1,4 @@
-Hormiscium uniforme (Peck) Sacc. SPECIES
-=======
+# Hormiscium uniforme (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

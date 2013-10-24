@@ -1,5 +1,4 @@
-Patellaria melaleuca Müll. Arg. SPECIES
-=======
+# Patellaria melaleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

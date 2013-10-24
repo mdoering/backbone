@@ -1,5 +1,4 @@
-Bovistina atrogleba Long & Stouffer SPECIES
-=======
+# Bovistina atrogleba Long & Stouffer SPECIES
 
 #### Status
 ACCEPTED

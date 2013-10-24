@@ -1,5 +1,4 @@
-Phellinus subcontiguus (Cleland & Rodway) P.K. Buchanan & Ryvarden SPECIES
-=======
+# Phellinus subcontiguus (Cleland & Rodway) P.K. Buchanan & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

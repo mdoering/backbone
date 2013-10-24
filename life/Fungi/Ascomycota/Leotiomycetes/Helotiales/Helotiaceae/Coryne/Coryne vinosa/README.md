@@ -1,5 +1,4 @@
-Coryne vinosa Berk. & M.A. Curtis SPECIES
-=======
+# Coryne vinosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

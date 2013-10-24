@@ -1,5 +1,4 @@
-Phaeographis rosea (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis rosea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

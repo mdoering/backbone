@@ -1,5 +1,4 @@
-Pseudotriloculina Rasheed, 1971 GENUS
-=======
+# Pseudotriloculina Rasheed, 1971 GENUS
 
 #### Status
 ACCEPTED

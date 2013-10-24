@@ -1,5 +1,4 @@
-Asteroma comptum Roberge ex Desm. SPECIES
-=======
+# Asteroma comptum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe demissa Sacc. SPECIES
-=======
+# Diaporthe demissa Sacc. SPECIES
 
 #### Status
 ACCEPTED

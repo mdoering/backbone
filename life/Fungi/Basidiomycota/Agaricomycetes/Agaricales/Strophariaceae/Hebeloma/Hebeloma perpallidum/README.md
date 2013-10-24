@@ -1,5 +1,4 @@
-Hebeloma perpallidum M.M. Moser SPECIES
-=======
+# Hebeloma perpallidum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

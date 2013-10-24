@@ -1,5 +1,4 @@
-Conocybe izonetae Singer SPECIES
-=======
+# Conocybe izonetae Singer SPECIES
 
 #### Status
 ACCEPTED

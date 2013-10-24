@@ -1,5 +1,4 @@
-Lyngbya jadiniana (Gomont) P. A. C. Senna SPECIES
-=======
+# Lyngbya jadiniana (Gomont) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

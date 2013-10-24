@@ -1,5 +1,4 @@
-Sticta impressa var. impressa VARIETY
-=======
+# Sticta impressa Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta impressa var. impressa
+Sticta impressa Hook. f. & Taylor
 
 ### Remarks
 null

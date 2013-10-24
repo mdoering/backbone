@@ -1,5 +1,4 @@
-Peniophora bartholomaei Peck SPECIES
-=======
+# Peniophora bartholomaei Peck SPECIES
 
 #### Status
 ACCEPTED

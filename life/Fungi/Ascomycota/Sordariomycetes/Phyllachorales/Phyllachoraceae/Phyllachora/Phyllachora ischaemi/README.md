@@ -1,17 +1,16 @@
-Phyllachora anthistiriicola Syd., 1924 SPECIES
-=======
+# Phyllachora ischaemi Syd. & P. Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Doidge, Bothalia 1(3): 219 (1924)
+Annls mycol. 13(1): 40 (1915)
 
 #### Original name
-Phyllachora anthistiriicola Syd., 1924
+Phyllachora ischaemi Syd. & P. Syd., 1915
 
 ### Remarks
 null

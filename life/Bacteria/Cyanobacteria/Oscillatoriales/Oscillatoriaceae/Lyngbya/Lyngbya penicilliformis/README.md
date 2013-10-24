@@ -1,5 +1,4 @@
-Lyngbya penicilliformis P.Silva SPECIES
-=======
+# Lyngbya penicilliformis P.Silva SPECIES
 
 #### Status
 ACCEPTED

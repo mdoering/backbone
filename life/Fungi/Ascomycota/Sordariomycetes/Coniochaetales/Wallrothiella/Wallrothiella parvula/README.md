@@ -1,5 +1,4 @@
-Wallrothiella parvula Ellis & Everh. SPECIES
-=======
+# Wallrothiella parvula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella agaves Syd. SPECIES
-=======
+# Diatrypella agaves Syd. SPECIES
 
 #### Status
 ACCEPTED

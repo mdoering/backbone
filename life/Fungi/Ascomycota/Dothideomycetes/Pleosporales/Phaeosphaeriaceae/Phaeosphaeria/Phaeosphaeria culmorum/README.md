@@ -1,17 +1,16 @@
-Leptosphaeria culmorum var. culmorum VARIETY
-=======
+# Phaeosphaeria culmorum (Auersw. ex Rehm) Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 26: 60 (1881)
+Sydowia 37: 113 (1984)
 
 #### Original name
-Leptosphaeria culmorum var. culmorum
+Leptosphaeria culmorum Auersw., 1881
 
 ### Remarks
 null

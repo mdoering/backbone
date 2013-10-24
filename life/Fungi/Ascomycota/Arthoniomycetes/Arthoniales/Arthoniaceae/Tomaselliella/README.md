@@ -1,5 +1,4 @@
-Tomaselliella GENUS
-=======
+# Tomaselliella GENUS
 
 #### Status
 ACCEPTED

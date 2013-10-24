@@ -1,5 +1,4 @@
-Pholiota velaglutinosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota velaglutinosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

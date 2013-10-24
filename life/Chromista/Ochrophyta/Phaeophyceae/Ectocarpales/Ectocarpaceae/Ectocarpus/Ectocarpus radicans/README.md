@@ -1,5 +1,4 @@
-Ectocarpus radicans Zanardini SPECIES
-=======
+# Ectocarpus radicans Zanardini SPECIES
 
 #### Status
 ACCEPTED

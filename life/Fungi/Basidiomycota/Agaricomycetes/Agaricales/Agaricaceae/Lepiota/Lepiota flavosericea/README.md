@@ -1,5 +1,4 @@
-Lepiota flavosericea Rick SPECIES
-=======
+# Lepiota flavosericea Rick SPECIES
 
 #### Status
 ACCEPTED

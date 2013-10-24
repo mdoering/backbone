@@ -1,5 +1,4 @@
-Empusa phalangicida Lagerh. SPECIES
-=======
+# Empusa phalangicida Lagerh. SPECIES
 
 #### Status
 ACCEPTED

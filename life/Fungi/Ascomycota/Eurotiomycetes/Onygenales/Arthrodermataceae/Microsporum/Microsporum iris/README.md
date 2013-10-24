@@ -1,5 +1,4 @@
-Microsporum iris Pasini SPECIES
-=======
+# Microsporum iris Pasini SPECIES
 
 #### Status
 ACCEPTED

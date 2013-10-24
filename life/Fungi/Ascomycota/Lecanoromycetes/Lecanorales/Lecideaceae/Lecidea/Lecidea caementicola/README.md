@@ -1,5 +1,4 @@
-Lecidea caementicola Erichsen SPECIES
-=======
+# Lecidea caementicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

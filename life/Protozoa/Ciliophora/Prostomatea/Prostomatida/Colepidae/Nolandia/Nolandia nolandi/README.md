@@ -1,5 +1,4 @@
-Nolandia nolandi (Kahl, 1930) Small & Lynn, 1985 SPECIES
-=======
+# Nolandia nolandi (Kahl, 1930) Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

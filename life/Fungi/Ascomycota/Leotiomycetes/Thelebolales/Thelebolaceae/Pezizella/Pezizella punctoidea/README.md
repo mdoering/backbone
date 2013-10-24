@@ -1,5 +1,4 @@
-Pezizella punctoidea (P. Karst.) Rehm SPECIES
-=======
+# Pezizella punctoidea (P. Karst.) Rehm SPECIES
 
 #### Status
 ACCEPTED

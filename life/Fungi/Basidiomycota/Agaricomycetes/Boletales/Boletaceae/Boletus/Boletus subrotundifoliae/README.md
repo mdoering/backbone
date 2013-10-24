@@ -1,5 +1,4 @@
-Boletus subrotundifoliae J. Blum SPECIES
-=======
+# Boletus subrotundifoliae J. Blum SPECIES
 
 #### Status
 ACCEPTED

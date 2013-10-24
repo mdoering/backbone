@@ -1,5 +1,4 @@
-Guexella nudata SPECIES
-=======
+# Guexella nudata SPECIES
 
 #### Status
 ACCEPTED

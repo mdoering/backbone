@@ -1,5 +1,4 @@
-Camarosporium oleae Politis SPECIES
-=======
+# Camarosporium oleae Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe pallens P. Karst. SPECIES
-=======
+# Clitocybe pallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

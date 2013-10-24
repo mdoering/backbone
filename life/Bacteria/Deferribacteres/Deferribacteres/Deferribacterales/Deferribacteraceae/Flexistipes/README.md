@@ -1,5 +1,4 @@
-Flexistipes Fiala, Woese, Langworthy & Stetter, 2000 GENUS
-=======
+# Flexistipes Fiala, Woese, Langworthy & Stetter, 2000 GENUS
 
 #### Status
 ACCEPTED

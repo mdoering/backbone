@@ -1,5 +1,4 @@
-Fromea chytra (Drugg, 1967) Stover & Evitt, 1978 SPECIES
-=======
+# Fromea chytra (Drugg, 1967) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

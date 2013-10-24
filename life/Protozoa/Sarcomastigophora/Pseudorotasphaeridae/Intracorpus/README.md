@@ -1,5 +1,4 @@
-Intracorpus Won, 1997 GENUS
-=======
+# Intracorpus Won, 1997 GENUS
 
 #### Status
 ACCEPTED

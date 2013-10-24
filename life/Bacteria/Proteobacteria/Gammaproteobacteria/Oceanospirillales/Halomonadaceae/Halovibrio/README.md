@@ -1,5 +1,4 @@
-Halovibrio Fendrich, 1989 GENUS
-=======
+# Halovibrio Fendrich, 1989 GENUS
 
 #### Status
 ACCEPTED

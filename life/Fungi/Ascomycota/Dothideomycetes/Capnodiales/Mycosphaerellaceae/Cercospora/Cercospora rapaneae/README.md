@@ -1,5 +1,4 @@
-Cercospora rapaneae Syd. SPECIES
-=======
+# Cercospora rapaneae Syd. SPECIES
 
 #### Status
 ACCEPTED

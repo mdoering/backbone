@@ -1,5 +1,4 @@
-Bovista glaucocinerea Speg. SPECIES
-=======
+# Bovista glaucocinerea Speg. SPECIES
 
 #### Status
 ACCEPTED

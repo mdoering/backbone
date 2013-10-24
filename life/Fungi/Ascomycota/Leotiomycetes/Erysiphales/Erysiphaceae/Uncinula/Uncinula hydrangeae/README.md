@@ -1,5 +1,4 @@
-Uncinula hydrangeae Y. Nomura & Tanda SPECIES
-=======
+# Uncinula hydrangeae Y. Nomura & Tanda SPECIES
 
 #### Status
 ACCEPTED

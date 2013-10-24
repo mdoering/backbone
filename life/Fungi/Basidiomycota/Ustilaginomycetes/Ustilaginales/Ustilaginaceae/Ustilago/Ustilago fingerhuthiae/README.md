@@ -1,5 +1,4 @@
-Ustilago fingerhuthiae Syd. & P. Syd. SPECIES
-=======
+# Ustilago fingerhuthiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

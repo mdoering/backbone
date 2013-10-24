@@ -1,5 +1,4 @@
-Adnatosphaeridiaceae FAMILY
-=======
+# Adnatosphaeridiaceae FAMILY
 
 #### Status
 ACCEPTED

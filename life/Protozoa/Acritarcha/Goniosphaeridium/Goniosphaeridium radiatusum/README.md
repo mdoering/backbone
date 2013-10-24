@@ -1,5 +1,4 @@
-Goniosphaeridium radiatusum Yin Leiming, 1986 SPECIES
-=======
+# Goniosphaeridium radiatusum Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Arcuospathidium coemeterii (Kahl, 1943) Foissner et al., 2005 SPECIES
-=======
+# Cultellothrix coemeterii Kahl, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

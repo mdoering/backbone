@@ -1,5 +1,4 @@
-Letendraea rickiana Rehm SPECIES
-=======
+# Letendraea rickiana Rehm SPECIES
 
 #### Status
 ACCEPTED

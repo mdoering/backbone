@@ -1,5 +1,4 @@
-Phoma candidula D. Sacc. SPECIES
-=======
+# Phoma candidula D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

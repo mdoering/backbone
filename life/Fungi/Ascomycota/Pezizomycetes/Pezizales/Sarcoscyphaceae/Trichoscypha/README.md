@@ -1,5 +1,4 @@
-Trichoscypha GENUS
-=======
+# Trichoscypha GENUS
 
 #### Status
 ACCEPTED

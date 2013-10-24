@@ -1,5 +1,4 @@
-Lyophyllaceae Jülich FAMILY
-=======
+# Lyophyllaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

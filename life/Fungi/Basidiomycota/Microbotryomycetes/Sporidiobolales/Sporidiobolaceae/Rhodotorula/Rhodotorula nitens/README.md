@@ -1,5 +1,4 @@
-Rhodotorula nitens McKenzie & Auret SPECIES
-=======
+# Rhodotorula nitens McKenzie & Auret SPECIES
 
 #### Status
 ACCEPTED

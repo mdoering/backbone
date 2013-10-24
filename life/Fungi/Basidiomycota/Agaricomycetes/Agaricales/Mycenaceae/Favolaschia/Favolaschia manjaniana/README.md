@@ -1,5 +1,4 @@
-Favolaschia manjaniana Otieno SPECIES
-=======
+# Favolaschia manjaniana Otieno SPECIES
 
 #### Status
 ACCEPTED

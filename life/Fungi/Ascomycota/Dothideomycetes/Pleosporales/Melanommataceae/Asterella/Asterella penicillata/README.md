@@ -1,5 +1,4 @@
-Asterella penicillata (Pat.) Sacc. SPECIES
-=======
+# Asterella penicillata (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria pinguedinea Gaillard SPECIES
-=======
+# Poria pinguedinea Gaillard SPECIES
 
 #### Status
 ACCEPTED

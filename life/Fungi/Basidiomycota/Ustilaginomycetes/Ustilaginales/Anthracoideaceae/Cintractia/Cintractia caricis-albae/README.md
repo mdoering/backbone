@@ -1,5 +1,4 @@
-Cintractia caricis-albae Syd. SPECIES
-=======
+# Cintractia caricis-albae Syd. SPECIES
 
 #### Status
 ACCEPTED

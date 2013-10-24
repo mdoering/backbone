@@ -1,5 +1,4 @@
-Euglena gracelis Klebs SPECIES
-=======
+# Euglena gracelis Klebs SPECIES
 
 #### Status
 ACCEPTED

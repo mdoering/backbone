@@ -1,5 +1,4 @@
-Corticium flavorubens Berk. & Broome SPECIES
-=======
+# Corticium flavorubens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

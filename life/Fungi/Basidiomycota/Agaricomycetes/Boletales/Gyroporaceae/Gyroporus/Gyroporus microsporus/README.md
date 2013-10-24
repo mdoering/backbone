@@ -1,5 +1,4 @@
-Gyroporus microsporus var. microsporus VARIETY
-=======
+# Gyroporus microsporus (Singer & Grinling) Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 49(3-4): 446 (1979)
 
 #### Original name
-Gyroporus microsporus var. microsporus
+Xerocomus microsporus Singer & Grinling
 
 ### Remarks
 null

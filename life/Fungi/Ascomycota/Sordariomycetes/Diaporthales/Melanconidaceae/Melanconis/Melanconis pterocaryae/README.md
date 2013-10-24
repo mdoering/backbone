@@ -1,5 +1,4 @@
-Melanconis pterocaryae Kobayasi SPECIES
-=======
+# Melanconis pterocaryae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

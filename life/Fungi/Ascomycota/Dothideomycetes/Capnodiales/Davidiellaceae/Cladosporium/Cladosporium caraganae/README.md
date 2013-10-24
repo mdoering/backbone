@@ -1,5 +1,4 @@
-Cladosporium caraganae K. Schub., U. Braun & H.D. Shin SPECIES
-=======
+# Cladosporium caraganae K. Schub., U. Braun & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

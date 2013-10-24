@@ -1,5 +1,4 @@
-Ommatocampe Ehrenberg, 1860 GENUS
-=======
+# Ommatocampe Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

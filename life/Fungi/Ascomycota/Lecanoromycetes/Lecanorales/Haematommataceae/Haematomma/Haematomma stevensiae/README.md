@@ -1,5 +1,4 @@
-Haematomma stevensiae R. W. Rogers SPECIES
-=======
+# Haematomma stevensiae R. W. Rogers SPECIES
 
 #### Status
 ACCEPTED

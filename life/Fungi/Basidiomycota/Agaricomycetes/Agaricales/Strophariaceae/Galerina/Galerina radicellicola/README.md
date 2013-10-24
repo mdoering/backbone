@@ -1,5 +1,4 @@
-Galerina radicellicola Singer SPECIES
-=======
+# Galerina radicellicola Singer SPECIES
 
 #### Status
 ACCEPTED

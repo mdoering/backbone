@@ -1,5 +1,4 @@
-Meliola gleditschiae Speg. SPECIES
-=======
+# Meliola gleditschiae Speg. SPECIES
 
 #### Status
 ACCEPTED

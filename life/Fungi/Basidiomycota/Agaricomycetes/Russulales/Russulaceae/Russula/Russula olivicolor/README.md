@@ -1,5 +1,4 @@
-Russula olivicolor Britzelm. SPECIES
-=======
+# Russula olivicolor Britzelm. SPECIES
 
 #### Status
 ACCEPTED

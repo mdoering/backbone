@@ -1,5 +1,4 @@
-Chlamydopus amblaiensis Speg. SPECIES
-=======
+# Chlamydopus amblaiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

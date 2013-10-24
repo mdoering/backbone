@@ -1,5 +1,4 @@
-Diparvapila MacDonald, 1998 GENUS
-=======
+# Diparvapila MacDonald, 1998 GENUS
 
 #### Status
 ACCEPTED

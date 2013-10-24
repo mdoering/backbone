@@ -1,8 +1,7 @@
-Discorhabdus biperforatus Rood et al., 1973 SPECIES
-=======
+# Podorhabdus biperforatus (Rood et al., 1973) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

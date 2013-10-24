@@ -1,5 +1,4 @@
-Ramularia dipsaci Allesch. SPECIES
-=======
+# Ramularia dipsaci Allesch. SPECIES
 
 #### Status
 ACCEPTED

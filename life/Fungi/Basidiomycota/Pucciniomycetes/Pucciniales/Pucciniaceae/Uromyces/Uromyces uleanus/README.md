@@ -1,5 +1,4 @@
-Uromyces uleanus Dietel SPECIES
-=======
+# Uromyces uleanus Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella minuta (Skv.) Antipova SPECIES
-=======
+# Cyclotella minuta (Skv.) Antipova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermococcus acidaminovorans Dirmeier et al., 2001 SPECIES
-=======
+# Thermococcus acidaminovorans Dirmeier et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

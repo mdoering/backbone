@@ -1,5 +1,4 @@
-Inocybe eriocephala (Fr.) Sacc. SPECIES
-=======
+# Inocybe eriocephala (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Molleriella trichomicola Bat. & A.A. Silva SPECIES
-=======
+# Moelleriella trichomicola Bat. & A.A. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 3: 72 (1966)
 
 #### Original name
-Molleriella trichomicola Bat. & A.A. Silva
+Moelleriella trichomicola Bat. & A.A. Silva
 
 ### Remarks
 null

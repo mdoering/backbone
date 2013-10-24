@@ -1,5 +1,4 @@
-Melampsora ribis Durrieu SPECIES
-=======
+# Melampsora ribis Durrieu SPECIES
 
 #### Status
 ACCEPTED

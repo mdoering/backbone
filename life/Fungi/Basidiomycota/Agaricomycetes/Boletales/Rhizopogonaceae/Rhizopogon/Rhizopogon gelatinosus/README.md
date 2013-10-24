@@ -1,5 +1,4 @@
-Rhizopogon gelatinosus A.H. Sm. SPECIES
-=======
+# Rhizopogon gelatinosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

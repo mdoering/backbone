@@ -1,5 +1,4 @@
-Metalingulina bellula McCulloch, 1977 SPECIES
-=======
+# Metalingulina bellula McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

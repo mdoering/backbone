@@ -1,5 +1,4 @@
-Leptoniella atrosquamosa Murrill SPECIES
-=======
+# Leptoniella atrosquamosa Murrill SPECIES
 
 #### Status
 ACCEPTED

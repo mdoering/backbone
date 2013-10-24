@@ -1,5 +1,4 @@
-Rhizocarpon lunulatum Zahlbr. SPECIES
-=======
+# Rhizocarpon lunulatum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

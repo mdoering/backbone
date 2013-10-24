@@ -1,5 +1,4 @@
-Trichosphaeria bambusina Höhn. SPECIES
-=======
+# Trichosphaeria bambusina Höhn. SPECIES
 
 #### Status
 ACCEPTED

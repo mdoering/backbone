@@ -1,5 +1,4 @@
-Hyphoderma nudicephalum Gilb. & M. Blackw., 1988 SPECIES
-=======
+# Hyphoderma nudicephalum Gilb. & M. Blackw., 1988 SPECIES
 
 #### Status
 ACCEPTED

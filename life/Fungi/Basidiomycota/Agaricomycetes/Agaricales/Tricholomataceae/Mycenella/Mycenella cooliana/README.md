@@ -1,5 +1,4 @@
-Mycenella cooliana (Oort) Singer SPECIES
-=======
+# Mycenella cooliana (Oort) Singer SPECIES
 
 #### Status
 ACCEPTED

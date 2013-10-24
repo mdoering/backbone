@@ -1,5 +1,4 @@
-Gymnopus tortipes Murrill SPECIES
-=======
+# Gymnopus tortipes Murrill SPECIES
 
 #### Status
 ACCEPTED

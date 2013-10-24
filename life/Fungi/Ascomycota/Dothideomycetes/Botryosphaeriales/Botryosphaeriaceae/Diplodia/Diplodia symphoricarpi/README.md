@@ -1,5 +1,4 @@
-Diplodia symphoricarpi Sacc. SPECIES
-=======
+# Diplodia symphoricarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

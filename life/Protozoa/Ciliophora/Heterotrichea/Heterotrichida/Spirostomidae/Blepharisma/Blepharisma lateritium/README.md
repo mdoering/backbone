@@ -1,5 +1,4 @@
-Blepharisma lateritium subsp. lateritium SUBSPECIES
-=======
+# Blepharisma lateritium (Ehrenberg, 1831) Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

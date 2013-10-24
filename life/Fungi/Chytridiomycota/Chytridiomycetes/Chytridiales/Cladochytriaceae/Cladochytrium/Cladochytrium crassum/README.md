@@ -1,5 +1,4 @@
-Cladochytrium crassum Hillegas SPECIES
-=======
+# Cladochytrium crassum Hillegas SPECIES
 
 #### Status
 ACCEPTED

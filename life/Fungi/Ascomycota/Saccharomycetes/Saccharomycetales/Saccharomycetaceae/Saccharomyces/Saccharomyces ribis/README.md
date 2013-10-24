@@ -1,5 +1,4 @@
-Saccharomyces ribis R. Ludw. SPECIES
-=======
+# Saccharomyces ribis R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya pelagica Lohmann, 1920 SPECIES
-=======
+# Holophrya pelagica Lohmann, 1920 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Erwinia cancerogena Urosevic, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Enterobacter cancerogenus (Urosevic, 1966) Dickey & Zumoff, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

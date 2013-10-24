@@ -1,5 +1,4 @@
-Physcia lychnea f. lychnea FORM
-=======
+# Physcia lychnea SPECIES
 
 #### Status
 ACCEPTED

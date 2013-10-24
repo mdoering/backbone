@@ -1,5 +1,4 @@
-Xerocomus marekii (Sutara & Skála) Klofac SPECIES
-=======
+# Xerocomus marekii (Sutara & Skála) Klofac SPECIES
 
 #### Status
 ACCEPTED

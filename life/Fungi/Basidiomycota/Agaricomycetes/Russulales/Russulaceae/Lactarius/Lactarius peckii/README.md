@@ -1,5 +1,4 @@
-Lactarius peckii var. peckii VARIETY
-=======
+# Lactarius peckii Burl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mem. Torrey bot. Club 14: 76 (1908)
 
 #### Original name
-Lactarius peckii var. peckii
+Lactarius peckii Burl.
 
 ### Remarks
 null

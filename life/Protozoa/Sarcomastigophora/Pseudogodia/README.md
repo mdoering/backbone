@@ -1,5 +1,4 @@
-Pseudogodia Tekin, 1999 GENUS
-=======
+# Pseudogodia Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

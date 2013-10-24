@@ -1,5 +1,4 @@
-Sertumia Tucolesco, 1962 GENUS
-=======
+# Sertumia Tucolesco, 1962 GENUS
 
 #### Status
 ACCEPTED

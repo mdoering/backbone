@@ -1,8 +1,7 @@
-Bacillus chondroitinus Nakamura, 1987 SPECIES
-=======
+# Paenibacillus chondroitinus (Nakamura, 1987) Shida et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

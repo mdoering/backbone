@@ -1,5 +1,4 @@
-Puccinia altimurica Petr. SPECIES
-=======
+# Puccinia altimurica Petr. SPECIES
 
 #### Status
 ACCEPTED

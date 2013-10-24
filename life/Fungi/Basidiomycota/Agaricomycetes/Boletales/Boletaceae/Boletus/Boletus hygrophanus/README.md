@@ -1,5 +1,4 @@
-Boletus hygrophanus (Rostr.) Sacc. & D. Sacc. SPECIES
-=======
+# Boletus hygrophanus (Rostr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

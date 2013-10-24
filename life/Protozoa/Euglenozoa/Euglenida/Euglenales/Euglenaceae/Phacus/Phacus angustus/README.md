@@ -1,5 +1,4 @@
-Phacus angustus Drezepolski SPECIES
-=======
+# Phacus angustus Drezepolski SPECIES
 
 #### Status
 ACCEPTED

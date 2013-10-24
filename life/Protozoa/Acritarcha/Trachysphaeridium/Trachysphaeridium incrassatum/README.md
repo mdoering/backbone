@@ -1,5 +1,4 @@
-Trachysphaeridium incrassatum (Naumova, 1949) N. Umnova, 1975 SPECIES
-=======
+# Trachysphaeridium incrassatum (Naumova, 1949) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

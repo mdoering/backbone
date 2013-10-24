@@ -1,5 +1,4 @@
-Dicaeoma rostrupii Kuntze SPECIES
-=======
+# Dicaeoma rostrupii Kuntze SPECIES
 
 #### Status
 ACCEPTED

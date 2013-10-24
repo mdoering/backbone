@@ -1,5 +1,4 @@
-Planomicrobium chinense Dai et al., 2005 SPECIES
-=======
+# Planomicrobium chinense Dai et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

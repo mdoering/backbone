@@ -1,5 +1,4 @@
-Lophiotrema pygmaeum (Sacc.) Sacc. SPECIES
-=======
+# Lophiotrema pygmaeum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

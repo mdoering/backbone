@@ -1,5 +1,4 @@
-Boletus mahoganicoloroides Ortiz, Both & T.J. Baroni SPECIES
-=======
+# Boletus mahoganicoloroides Ortiz, Both & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

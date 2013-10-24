@@ -1,5 +1,4 @@
-Repetophragma inflatum (Berk. & Ravenel) W.P. Wu SPECIES
-=======
+# Repetophragma inflatum (Berk. & Ravenel) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

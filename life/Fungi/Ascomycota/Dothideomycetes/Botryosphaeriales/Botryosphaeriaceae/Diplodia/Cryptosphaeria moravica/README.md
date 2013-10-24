@@ -1,5 +1,4 @@
-Cryptosphaeria moravica Petr. & Sacc., 1913 SPECIES
-=======
+# Cryptosphaeria moravica Petr. & Sacc., 1913 SPECIES
 
 #### Status
 DOUBTFUL

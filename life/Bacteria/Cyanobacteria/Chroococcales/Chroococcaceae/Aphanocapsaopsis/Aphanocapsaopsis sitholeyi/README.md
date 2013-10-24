@@ -1,5 +1,4 @@
-Aphanocapsaopsis sitholeyi P. K. Maithy & M. Shukla SPECIES
-=======
+# Aphanocapsaopsis sitholeyi P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

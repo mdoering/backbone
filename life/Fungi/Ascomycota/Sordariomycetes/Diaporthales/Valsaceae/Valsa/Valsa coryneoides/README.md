@@ -1,5 +1,4 @@
-Valsa coryneoides Berk. & M.A. Curtis SPECIES
-=======
+# Valsa coryneoides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

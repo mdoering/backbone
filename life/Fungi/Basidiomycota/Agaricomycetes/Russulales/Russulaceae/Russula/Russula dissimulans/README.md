@@ -1,5 +1,4 @@
-Russula dissimulans Shaffer SPECIES
-=======
+# Russula dissimulans Shaffer SPECIES
 
 #### Status
 ACCEPTED

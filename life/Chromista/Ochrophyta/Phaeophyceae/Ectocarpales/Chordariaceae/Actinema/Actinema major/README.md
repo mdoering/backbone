@@ -1,5 +1,4 @@
-Actinema major Reinsch SPECIES
-=======
+# Actinema major Reinsch SPECIES
 
 #### Status
 ACCEPTED

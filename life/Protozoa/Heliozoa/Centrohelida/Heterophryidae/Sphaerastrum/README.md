@@ -1,5 +1,4 @@
-Sphaerastrum Greeff, 1873 GENUS
-=======
+# Sphaerastrum Greeff, 1873 GENUS
 
 #### Status
 ACCEPTED

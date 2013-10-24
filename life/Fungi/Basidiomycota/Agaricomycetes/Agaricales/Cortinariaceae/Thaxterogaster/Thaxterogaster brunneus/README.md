@@ -1,5 +1,4 @@
-Thaxterogaster brunneus G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Thaxterogaster brunneus G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

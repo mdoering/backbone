@@ -1,5 +1,4 @@
-Asterinella santiriae Syd. & P. Syd. SPECIES
-=======
+# Asterinella santiriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium harknessii (Peck) S. Hughes, 1953 SPECIES
-=======
+# Cladosporium harknessii (Peck) S. Hughes, 1953 SPECIES
 
 #### Status
 ACCEPTED

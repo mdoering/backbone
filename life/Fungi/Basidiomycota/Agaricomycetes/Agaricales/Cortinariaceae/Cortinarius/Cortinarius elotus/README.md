@@ -1,5 +1,4 @@
-Cortinarius elotus Fr. SPECIES
-=======
+# Cortinarius elotus Fr. SPECIES
 
 #### Status
 ACCEPTED

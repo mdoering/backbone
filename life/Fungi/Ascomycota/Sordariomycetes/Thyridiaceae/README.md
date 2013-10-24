@@ -1,5 +1,4 @@
-Thyridiaceae J.Z. Yue & O.E. Erikss. FAMILY
-=======
+# Thyridiaceae J.Z. Yue & O.E. Erikss. FAMILY
 
 #### Status
 ACCEPTED

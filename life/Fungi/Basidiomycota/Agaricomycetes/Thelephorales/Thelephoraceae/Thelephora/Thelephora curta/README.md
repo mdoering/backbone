@@ -1,5 +1,4 @@
-Thelephora curta Fr. SPECIES
-=======
+# Thelephora curta Fr. SPECIES
 
 #### Status
 ACCEPTED

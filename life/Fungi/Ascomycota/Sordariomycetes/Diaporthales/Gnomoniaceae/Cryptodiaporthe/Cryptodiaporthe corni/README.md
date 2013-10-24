@@ -1,14 +1,13 @@
-Hapalocystis corni (Wehm.) M.E. Barr, 1979 SPECIES
-=======
+# Cryptodiaporthe corni (Wehm.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 10(1): 214 (1979)
+Annls mycol. 39: 302 (1941)
 
 #### Original name
 Apioporthe corni Wehm., 1923

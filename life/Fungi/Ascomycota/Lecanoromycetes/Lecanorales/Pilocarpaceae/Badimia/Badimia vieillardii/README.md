@@ -1,5 +1,4 @@
-Badimia vieillardii (Müll. Arg.) Vezda SPECIES
-=======
+# Badimia vieillardii (Müll. Arg.) Vezda SPECIES
 
 #### Status
 ACCEPTED

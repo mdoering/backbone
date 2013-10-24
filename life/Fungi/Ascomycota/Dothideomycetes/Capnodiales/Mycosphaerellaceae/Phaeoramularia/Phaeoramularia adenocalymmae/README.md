@@ -1,17 +1,16 @@
-Phaeoramularia adenocalymmatis (A.S. Mull. & Chupp) Crous & M.P.S. Câmara SPECIES
-=======
+# Phaeoramularia adenocalymmae (A.S. Mull. & Chupp) Crous & M.P.S. Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 68: 303 (1998)
 
 #### Original name
-Passalora adenocalymmatis U. Braun & Crous
+Cercospora adenocalymmae A.S. Mull. & Chupp
 
 ### Remarks
 null

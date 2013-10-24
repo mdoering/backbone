@@ -1,5 +1,4 @@
-Pseudocercospora helminthostachydis (Henn.) Deighton SPECIES
-=======
+# Pseudocercospora helminthostachydis (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

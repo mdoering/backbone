@@ -1,5 +1,4 @@
-Oxytricha africana Foissner, 1999 SPECIES
-=======
+# Oxytricha africana Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

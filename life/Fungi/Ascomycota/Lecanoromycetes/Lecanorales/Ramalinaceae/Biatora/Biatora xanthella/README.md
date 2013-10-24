@@ -1,5 +1,4 @@
-Biatora xanthella (Nyl.) Körb. SPECIES
-=======
+# Biatora xanthella (Nyl.) Körb. SPECIES
 
 #### Status
 ACCEPTED

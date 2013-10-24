@@ -1,5 +1,4 @@
-Ceriporiopsis niger Ryvarden SPECIES
-=======
+# Ceriporiopsis niger Ryvarden SPECIES
 
 #### Status
 ACCEPTED

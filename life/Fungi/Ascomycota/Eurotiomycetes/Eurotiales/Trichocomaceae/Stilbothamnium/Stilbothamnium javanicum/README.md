@@ -1,5 +1,4 @@
-Stilbothamnium javanicum Henn. & E. Nyman SPECIES
-=======
+# Stilbothamnium javanicum Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

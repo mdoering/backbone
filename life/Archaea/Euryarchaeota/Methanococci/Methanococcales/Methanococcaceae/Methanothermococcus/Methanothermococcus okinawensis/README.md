@@ -1,5 +1,4 @@
-Methanothermococcus okinawensis Takai et al., 2002 SPECIES
-=======
+# Methanothermococcus okinawensis Takai et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

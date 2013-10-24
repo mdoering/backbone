@@ -1,5 +1,4 @@
-Pseudocercospora elaeocarpicola Tak. Kobay., Nishij. & C. Nakash. SPECIES
-=======
+# Pseudocercospora elaeocarpicola Tak. Kobay., Nishij. & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

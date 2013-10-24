@@ -1,5 +1,4 @@
-Psathyra laricina Velen. SPECIES
-=======
+# Psathyra laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylophilales ORDER
-=======
+# Methylophilales ORDER
 
 #### Status
 ACCEPTED

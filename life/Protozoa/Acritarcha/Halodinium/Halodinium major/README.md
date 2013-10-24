@@ -1,5 +1,4 @@
-Halodinium major J. P. Bujak SPECIES
-=======
+# Halodinium major J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

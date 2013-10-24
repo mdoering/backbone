@@ -1,5 +1,4 @@
-Spiniferomonas involuta (B. Å…. Jacobsen) P. A. Siver SPECIES
-=======
+# Spiniferomonas involuta (B. Å…. Jacobsen) P. A. Siver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum coronans P. Karst. SPECIES
-=======
+# Sporotrichum coronans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

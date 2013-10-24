@@ -1,5 +1,4 @@
-Nectria brunneostriata Samuels SPECIES
-=======
+# Nectria brunneostriata Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma armeriae-sibericae Allesch., 1897 SPECIES
-=======
+# Phoma armeriae-sibericae Allesch., 1897 SPECIES
 
 #### Status
 ACCEPTED

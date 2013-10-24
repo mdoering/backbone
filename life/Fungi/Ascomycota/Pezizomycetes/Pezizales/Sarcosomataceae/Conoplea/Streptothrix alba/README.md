@@ -1,5 +1,4 @@
-Streptothrix alba Bellisari SPECIES
-=======
+# Streptothrix alba Bellisari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium alagrum Cooke & Massee in Cooke SPECIES
-=======
+# Cladosporium alagrum Cooke & Massee in Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Burgoa verzuoliana Goid., 1938 SPECIES
-=======
+# Burgoa verzuoliana Goid., 1938 SPECIES
 
 #### Status
 ACCEPTED

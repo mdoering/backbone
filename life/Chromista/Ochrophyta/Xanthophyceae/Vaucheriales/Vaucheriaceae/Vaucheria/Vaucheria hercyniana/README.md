@@ -1,5 +1,4 @@
-Vaucheria hercyniana Rieth SPECIES
-=======
+# Vaucheria hercyniana Rieth SPECIES
 
 #### Status
 ACCEPTED

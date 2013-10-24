@@ -1,5 +1,4 @@
-Pleospora oligotricha Niessl SPECIES
-=======
+# Pleospora oligotricha Niessl SPECIES
 
 #### Status
 ACCEPTED

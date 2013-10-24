@@ -1,5 +1,4 @@
-Graphis illiterata R.C. Harris SPECIES
-=======
+# Graphis illiterata R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

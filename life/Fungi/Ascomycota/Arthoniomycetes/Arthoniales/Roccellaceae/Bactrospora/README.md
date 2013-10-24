@@ -1,17 +1,16 @@
-Bactrosporomyces Cif. & Tomas. GENUS
-=======
+# Bactrospora A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 54, 79 (1953)
+Ric. auton. lich. crost. (Verona) 133 (1852)
 
 #### Original name
-Bactrosporomyces Cif. & Tomas.
+Bactrospora A. Massal.
 
 ### Remarks
 null

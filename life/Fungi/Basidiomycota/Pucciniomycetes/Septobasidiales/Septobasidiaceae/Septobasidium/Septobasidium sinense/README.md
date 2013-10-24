@@ -1,5 +1,4 @@
-Septobasidium sinense Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium sinense Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

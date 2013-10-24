@@ -1,17 +1,16 @@
-Hypoxylon fragaria Ces., 1879 SPECIES
-=======
+# Kretzschmaria macrosperma (Mont.) J.D. Rogers & Y.M. Ju, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Accad. Sci. fis. mat. Napoli 8: 18 (1879)
+Mycotaxon 68: 358 (1998)
 
 #### Original name
-Hypoxylon fragaria Ces., 1879
+Hypoxylon macrospermum Mont., 1840
 
 ### Remarks
 null

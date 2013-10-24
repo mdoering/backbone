@@ -1,5 +1,4 @@
-Zygolithus chiastus M.N. Bramlette & F.R. Sullivan SPECIES
-=======
+# Zygolithus chiastus M.N. Bramlette & F.R. Sullivan SPECIES
 
 #### Status
 ACCEPTED

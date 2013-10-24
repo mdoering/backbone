@@ -1,5 +1,4 @@
-Hygrophorus multifolius Kauffman SPECIES
-=======
+# Hygrophorus multifolius Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium populi Richon SPECIES
-=======
+# Coniothyrium populi Richon SPECIES
 
 #### Status
 ACCEPTED

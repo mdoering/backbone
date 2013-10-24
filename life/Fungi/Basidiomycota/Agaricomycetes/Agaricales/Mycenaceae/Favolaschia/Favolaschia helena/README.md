@@ -1,5 +1,4 @@
-Favolaschia helena Otieno SPECIES
-=======
+# Favolaschia helena Otieno SPECIES
 
 #### Status
 ACCEPTED

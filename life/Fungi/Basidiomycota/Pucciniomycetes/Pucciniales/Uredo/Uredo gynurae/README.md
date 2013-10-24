@@ -1,5 +1,4 @@
-Uredo gynurae Petch SPECIES
-=======
+# Uredo gynurae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariopsis chilena C.W. Dodge SPECIES
-=======
+# Candelariopsis chilena C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

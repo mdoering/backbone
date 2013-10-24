@@ -1,5 +1,4 @@
-Bacidia flavida (Hepp) Tav. SPECIES
-=======
+# Bacidia flavida (Hepp) Tav. SPECIES
 
 #### Status
 ACCEPTED

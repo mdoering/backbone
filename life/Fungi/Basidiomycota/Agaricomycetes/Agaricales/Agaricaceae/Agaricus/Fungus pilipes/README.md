@@ -1,5 +1,4 @@
-Fungus pilipes (Sowerby) Kuntze SPECIES
-=======
+# Fungus pilipes (Sowerby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

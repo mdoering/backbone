@@ -1,5 +1,4 @@
-Gavelinopsis involutiformis Hofker, 1956 SPECIES
-=======
+# Gavelinopsis involutiformis Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

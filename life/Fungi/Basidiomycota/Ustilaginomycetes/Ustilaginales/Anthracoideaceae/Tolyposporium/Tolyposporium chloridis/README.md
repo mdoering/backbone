@@ -1,5 +1,4 @@
-Tolyposporium chloridis Henn. SPECIES
-=======
+# Tolyposporium chloridis Henn. SPECIES
 
 #### Status
 ACCEPTED

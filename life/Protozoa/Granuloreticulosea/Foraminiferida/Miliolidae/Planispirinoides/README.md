@@ -1,14 +1,13 @@
-Pseudospirilina Saidova, 1975 GENUS
-=======
+# Planispirinoides Parr, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Rep. B. A. N. Z. Antarct. Res. Exped. , 5B (6), 287.
 
 #### Original name
 null

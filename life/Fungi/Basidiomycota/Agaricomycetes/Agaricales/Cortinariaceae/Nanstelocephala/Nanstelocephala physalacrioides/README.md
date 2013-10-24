@@ -1,5 +1,4 @@
-Nanstelocephala physalacrioides Oberw. & R.H. Petersen, 1990 SPECIES
-=======
+# Nanstelocephala physalacrioides Oberw. & R.H. Petersen, 1990 SPECIES
 
 #### Status
 ACCEPTED

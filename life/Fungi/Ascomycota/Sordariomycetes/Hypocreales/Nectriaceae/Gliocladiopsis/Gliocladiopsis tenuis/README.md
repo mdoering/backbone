@@ -1,14 +1,13 @@
-Cylindrocarpon tenue Bugnic., 1939 SPECIES
-=======
+# Gliocladiopsis tenuis (Bugnic.) Crous & M.J. Wingf., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 11: 178 (1939)
+Mycol. Res. 97(4): 446 (1993)
 
 #### Original name
 Cylindrocarpon tenue Bugnic., 1939

@@ -1,5 +1,4 @@
-Pseudocercospora comocladiae (Petr. & Cif.) Deighton SPECIES
-=======
+# Pseudocercospora comocladiae (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrocorticium violaceum H.S. Jacks., 1977 SPECIES
-=======
+# Dendrocorticium violaceum H.S. Jacks., 1977 SPECIES
 
 #### Status
 ACCEPTED

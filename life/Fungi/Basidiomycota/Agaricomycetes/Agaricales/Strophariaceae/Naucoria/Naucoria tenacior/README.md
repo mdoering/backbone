@@ -1,5 +1,4 @@
-Naucoria tenacior Rick SPECIES
-=======
+# Naucoria tenacior Rick SPECIES
 
 #### Status
 ACCEPTED

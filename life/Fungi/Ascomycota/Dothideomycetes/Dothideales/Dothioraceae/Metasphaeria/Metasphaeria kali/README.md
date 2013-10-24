@@ -1,5 +1,4 @@
-Metasphaeria kali (Fabre) Sacc. SPECIES
-=======
+# Metasphaeria kali (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

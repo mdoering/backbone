@@ -1,5 +1,4 @@
-Fragilaria minuscula (Grunow) D.M. Williams & SPECIES
-=======
+# Fragilaria minuscula (Grunow) D.M. Williams & SPECIES
 
 #### Status
 ACCEPTED

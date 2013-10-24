@@ -1,5 +1,4 @@
-Spermospora lolii MacGarvie & O'Rourke, 1969 SPECIES
-=======
+# Spermospora lolii MacGarvie & O'Rourke, 1969 SPECIES
 
 #### Status
 ACCEPTED

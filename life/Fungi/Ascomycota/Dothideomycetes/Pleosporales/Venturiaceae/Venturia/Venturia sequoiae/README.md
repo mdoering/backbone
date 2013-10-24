@@ -1,8 +1,7 @@
-Venturia sequojae Plowr. SPECIES
-=======
+# Venturia sequoiae Plowr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Venturia sequojae Plowr.
+Venturia sequoiae Plowr.
 
 ### Remarks
 null

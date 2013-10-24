@@ -1,5 +1,4 @@
-Biotyle GENUS
-=======
+# Biotyle GENUS
 
 #### Status
 ACCEPTED

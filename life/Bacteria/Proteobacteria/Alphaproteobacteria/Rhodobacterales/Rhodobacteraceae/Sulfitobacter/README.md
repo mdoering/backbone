@@ -1,5 +1,4 @@
-Sulfitobacter Sorokin, 1996 GENUS
-=======
+# Sulfitobacter Sorokin, 1996 GENUS
 
 #### Status
 ACCEPTED

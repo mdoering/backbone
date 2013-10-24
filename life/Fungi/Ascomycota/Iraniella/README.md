@@ -1,5 +1,4 @@
-Iraniella Petr. GENUS
-=======
+# Iraniella Petr. GENUS
 
 #### Status
 ACCEPTED

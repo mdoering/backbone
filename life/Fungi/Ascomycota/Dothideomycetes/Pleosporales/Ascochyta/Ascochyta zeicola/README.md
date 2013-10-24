@@ -1,5 +1,4 @@
-Ascochyta zeicola Ellis & Everh. SPECIES
-=======
+# Ascochyta zeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

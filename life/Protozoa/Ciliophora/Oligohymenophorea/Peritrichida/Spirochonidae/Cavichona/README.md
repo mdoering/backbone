@@ -1,5 +1,4 @@
-Cavichona Yankovskii, 1973 GENUS
-=======
+# Cavichona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

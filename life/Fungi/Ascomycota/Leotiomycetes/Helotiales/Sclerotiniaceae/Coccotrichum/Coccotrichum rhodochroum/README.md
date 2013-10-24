@@ -1,5 +1,4 @@
-Coccotrichum rhodochroum Wallr. SPECIES
-=======
+# Coccotrichum rhodochroum Wallr. SPECIES
 
 #### Status
 ACCEPTED

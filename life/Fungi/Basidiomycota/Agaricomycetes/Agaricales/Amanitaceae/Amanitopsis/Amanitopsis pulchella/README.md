@@ -1,5 +1,4 @@
-Amanitopsis pulchella (Cooke & Massee) Sacc. SPECIES
-=======
+# Amanitopsis pulchella (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

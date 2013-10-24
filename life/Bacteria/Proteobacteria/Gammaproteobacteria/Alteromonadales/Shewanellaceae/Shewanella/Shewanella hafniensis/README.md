@@ -1,5 +1,4 @@
-Shewanella hafniensis Satomi et al., 2006 SPECIES
-=======
+# Shewanella hafniensis Satomi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

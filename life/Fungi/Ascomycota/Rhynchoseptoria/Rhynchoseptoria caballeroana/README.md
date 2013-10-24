@@ -1,5 +1,4 @@
-Rhynchoseptoria caballeroana Unamuno, 1940 SPECIES
-=======
+# Rhynchoseptoria caballeroana Unamuno, 1940 SPECIES
 
 #### Status
 ACCEPTED

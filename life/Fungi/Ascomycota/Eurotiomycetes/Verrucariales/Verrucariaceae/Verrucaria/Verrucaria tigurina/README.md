@@ -1,5 +1,4 @@
-Verrucaria tigurina Stizenb. SPECIES
-=======
+# Verrucaria tigurina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

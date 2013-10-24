@@ -1,5 +1,4 @@
-Typhula tochiniana (S. Imai) Corner SPECIES
-=======
+# Typhula tochiniana (S. Imai) Corner SPECIES
 
 #### Status
 ACCEPTED

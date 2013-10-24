@@ -1,5 +1,4 @@
-Sphaerella hambergii Romell & Sacc. SPECIES
-=======
+# Sphaerella hambergii Romell & Sacc. SPECIES
 
 #### Status
 ACCEPTED

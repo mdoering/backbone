@@ -1,5 +1,4 @@
-Puccinia novae-zelandiae G. Cunn. SPECIES
-=======
+# Puccinia novae-zelandiae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

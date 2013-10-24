@@ -1,5 +1,4 @@
-Latentidiota Nazarov & Ormiston, 1984 GENUS
-=======
+# Latentidiota Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

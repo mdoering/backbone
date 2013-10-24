@@ -1,5 +1,4 @@
-Cushmanina feildeniana (Brady, 1878) SPECIES
-=======
+# Cushmanina feildeniana (Brady, 1878) SPECIES
 
 #### Status
 ACCEPTED

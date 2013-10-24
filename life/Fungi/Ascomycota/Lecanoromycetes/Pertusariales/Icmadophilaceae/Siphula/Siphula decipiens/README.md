@@ -1,5 +1,4 @@
-Siphula decipiens (Malme) P.M. McCarthy SPECIES
-=======
+# Siphula decipiens (Malme) P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta rotaliae (Thirum. & Naras.) Khune SPECIES
-=======
+# Phyllosticta rotaliae (Thirum. & Naras.) Khune SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum puberulum Klotzsch ex Bres. SPECIES
-=======
+# Stereum puberulum Klotzsch ex Bres. SPECIES
 
 #### Status
 ACCEPTED

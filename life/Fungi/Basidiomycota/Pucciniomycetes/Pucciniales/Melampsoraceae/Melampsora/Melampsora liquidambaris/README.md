@@ -1,5 +1,4 @@
-Melampsora liquidambaris Cooke SPECIES
-=======
+# Melampsora liquidambaris Cooke SPECIES
 
 #### Status
 ACCEPTED

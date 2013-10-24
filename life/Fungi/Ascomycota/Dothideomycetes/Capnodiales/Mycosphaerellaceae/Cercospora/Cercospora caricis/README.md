@@ -1,5 +1,4 @@
-Cercospora caricis Dearn. & House, 1892 SPECIES
-=======
+# Cercospora caricis Dearn. & House, 1892 SPECIES
 
 #### Status
 ACCEPTED

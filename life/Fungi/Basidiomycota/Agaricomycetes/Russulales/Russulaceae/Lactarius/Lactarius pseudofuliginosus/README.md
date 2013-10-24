@@ -1,5 +1,4 @@
-Lactarius pseudofuliginosus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius pseudofuliginosus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

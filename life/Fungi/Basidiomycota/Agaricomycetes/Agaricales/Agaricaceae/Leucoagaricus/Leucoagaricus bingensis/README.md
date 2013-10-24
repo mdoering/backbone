@@ -1,5 +1,4 @@
-Leucoagaricus bingensis (Beeli) Heinem. SPECIES
-=======
+# Leucoagaricus bingensis (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

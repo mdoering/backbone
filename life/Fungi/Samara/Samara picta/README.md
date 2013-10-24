@@ -1,5 +1,4 @@
-Samara picta Buch.-Ham. ex Wall. SPECIES
-=======
+# Samara picta Buch.-Ham. ex Wall. SPECIES
 
 #### Status
 ACCEPTED

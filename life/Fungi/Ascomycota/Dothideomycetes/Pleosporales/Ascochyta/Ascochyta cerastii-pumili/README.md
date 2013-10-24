@@ -1,5 +1,4 @@
-Ascochyta cerastii-pumili Unamuno SPECIES
-=======
+# Ascochyta cerastii-pumili Unamuno SPECIES
 
 #### Status
 ACCEPTED

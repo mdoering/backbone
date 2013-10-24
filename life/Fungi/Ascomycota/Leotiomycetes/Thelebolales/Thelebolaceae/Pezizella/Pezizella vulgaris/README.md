@@ -1,5 +1,4 @@
-Pezizella vulgaris (Fr. Fr.) Sacc. SPECIES
-=======
+# Pezizella vulgaris (Fr. Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Collecephalus hemerocalli var. macrosporum Lunsford & J.A. Spencer VARIETY
-=======
+# Collecephalus hemerocallidis J.A. Spencer, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hemerocallis J. 26(3): 15 (1972)
 
 #### Original name
-Collecephalus hemerocalli var. macrosporum Lunsford & J.A. Spencer
+Collecephalus hemerocallidis J.A. Spencer, 1972
 
 ### Remarks
 null

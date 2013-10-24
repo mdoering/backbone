@@ -1,5 +1,4 @@
-Dictyosiphon sinicola Gardner SPECIES
-=======
+# Dictyosiphon sinicola Gardner SPECIES
 
 #### Status
 ACCEPTED

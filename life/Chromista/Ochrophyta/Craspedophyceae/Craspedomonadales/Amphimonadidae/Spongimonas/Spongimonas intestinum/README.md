@@ -1,5 +1,4 @@
-Spongimonas intestinum SPECIES
-=======
+# Spongimonas intestinum SPECIES
 
 #### Status
 ACCEPTED

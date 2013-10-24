@@ -1,17 +1,16 @@
-Uromycodes Clem. GENUS
-=======
+# Schroeteriaster Magnus GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 98 (1909)
+Ber. dt. bot. Ges. 14: 130 (1896)
 
 #### Original name
-Uromycodes Clem.
+Schroeteriaster Magnus
 
 ### Remarks
 null

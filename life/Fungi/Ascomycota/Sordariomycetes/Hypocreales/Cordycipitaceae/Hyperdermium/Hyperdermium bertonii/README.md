@@ -1,14 +1,13 @@
-Epichloë bertonii Speg., 1922 SPECIES
-=======
+# Hyperdermium bertonii (Speg.) J.F. White, R.F. Sullivan, Bills & Hywel-Jones, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 31: 416 (1922)
+in Sullivan, Bills, Hywel-Jones & White, Mycologia 92(5): 910 (2000)
 
 #### Original name
 Epichloë bertonii Speg., 1922

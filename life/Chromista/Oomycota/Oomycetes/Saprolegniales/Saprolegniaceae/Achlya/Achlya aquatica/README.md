@@ -1,5 +1,4 @@
-Achlya aquatica Dayal & J. Thakur, 1969 SPECIES
-=======
+# Achlya aquatica Dayal & J. Thakur, 1969 SPECIES
 
 #### Status
 ACCEPTED

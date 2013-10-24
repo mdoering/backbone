@@ -1,5 +1,4 @@
-Hygrophorus erinaceus Pat. SPECIES
-=======
+# Hygrophorus erinaceus Pat. SPECIES
 
 #### Status
 ACCEPTED

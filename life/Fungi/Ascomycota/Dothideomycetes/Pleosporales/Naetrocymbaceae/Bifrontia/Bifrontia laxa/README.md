@@ -1,5 +1,4 @@
-Bifrontia laxa Norman SPECIES
-=======
+# Bifrontia laxa Norman SPECIES
 
 #### Status
 ACCEPTED

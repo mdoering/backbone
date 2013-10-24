@@ -1,5 +1,4 @@
-Phyllosticta advena Pass. SPECIES
-=======
+# Phyllosticta advena Pass. SPECIES
 
 #### Status
 ACCEPTED

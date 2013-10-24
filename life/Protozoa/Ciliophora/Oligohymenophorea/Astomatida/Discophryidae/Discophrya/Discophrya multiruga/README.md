@@ -1,5 +1,4 @@
-Discophrya multiruga (Goodrich & Jahn, 1943) Matthes, 1988 SPECIES
-=======
+# Discophrya multiruga (Goodrich & Jahn, 1943) Matthes, 1988 SPECIES
 
 #### Status
 ACCEPTED

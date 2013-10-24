@@ -1,5 +1,4 @@
-Lamproderma fuckelianum Rostaf. SPECIES
-=======
+# Lamproderma fuckelianum Rostaf. SPECIES
 
 #### Status
 ACCEPTED

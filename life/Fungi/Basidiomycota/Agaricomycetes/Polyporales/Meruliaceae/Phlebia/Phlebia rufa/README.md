@@ -1,17 +1,16 @@
-Merulius rufus var. rufus VARIETY
-=======
+# Phlebia rufa (Pers.) M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 498 (1801)
+Dansk bot. Ark. 19(no. 2): 164 (1960)
 
 #### Original name
-Merulius rufus var. rufus
+Merulius rufus Pers., 1801
 
 ### Remarks
 null

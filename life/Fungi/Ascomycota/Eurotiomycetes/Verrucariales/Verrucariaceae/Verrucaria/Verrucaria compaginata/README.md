@@ -1,5 +1,4 @@
-Verrucaria compaginata SPECIES
-=======
+# Verrucaria compaginata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium minutulum Heer SPECIES
-=======
+# Sclerotium minutulum Heer SPECIES
 
 #### Status
 ACCEPTED

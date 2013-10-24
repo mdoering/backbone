@@ -1,5 +1,4 @@
-Hyphoderma gigasporum Boidin & Gilles, 1991 SPECIES
-=======
+# Hyphoderma gigasporum Boidin & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

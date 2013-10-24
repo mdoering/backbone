@@ -1,5 +1,4 @@
-Henningsia Möller GENUS
-=======
+# Henningsia Möller GENUS
 
 #### Status
 ACCEPTED

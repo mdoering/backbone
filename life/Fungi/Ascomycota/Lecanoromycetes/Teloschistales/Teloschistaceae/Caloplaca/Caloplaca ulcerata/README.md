@@ -1,5 +1,4 @@
-Caloplaca ulcerata Poelt & Hinter. SPECIES
-=======
+# Caloplaca ulcerata Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma melanochroum Noordel., 1987 SPECIES
-=======
+# Entoloma melanochroum Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

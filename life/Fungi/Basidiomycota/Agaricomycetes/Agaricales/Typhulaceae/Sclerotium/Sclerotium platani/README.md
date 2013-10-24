@@ -1,5 +1,4 @@
-Sclerotium platani Schwein. SPECIES
-=======
+# Sclerotium platani Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ileopodius Bull. SPECIES
-=======
+# Agaricus ileopodius Bull. SPECIES
 
 #### Status
 ACCEPTED

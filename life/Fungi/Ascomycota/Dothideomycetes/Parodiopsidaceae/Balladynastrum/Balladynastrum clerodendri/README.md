@@ -1,5 +1,4 @@
-Balladynastrum clerodendri Sawada & W. Yamam. SPECIES
-=======
+# Balladynastrum clerodendri Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

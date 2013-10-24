@@ -1,5 +1,4 @@
-Conocybe gigasperma Enderle & Hauskn. SPECIES
-=======
+# Conocybe gigasperma Enderle & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

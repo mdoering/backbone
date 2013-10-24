@@ -1,5 +1,4 @@
-Arthonia taediosa Nyl. SPECIES
-=======
+# Arthonia taediosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

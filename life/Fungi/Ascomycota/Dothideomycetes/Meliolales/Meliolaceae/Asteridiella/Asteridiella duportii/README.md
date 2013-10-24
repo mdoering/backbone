@@ -1,5 +1,4 @@
-Asteridiella duportii Hansf. SPECIES
-=======
+# Asteridiella duportii Hansf. SPECIES
 
 #### Status
 ACCEPTED

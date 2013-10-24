@@ -1,17 +1,16 @@
-Cercosporidium terminali Manohar., Kunwar & N.K. Rao SPECIES
-=======
+# Cercosporidium terminaliae Manohar., Kunwar & N.K. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geophytology 36(1 & 2): 90 (2006)
 
 #### Original name
-Cercosporidium terminali Manohar., Kunwar & N.K. Rao
+Cercosporidium terminaliae Manohar., Kunwar & N.K. Rao
 
 ### Remarks
 null

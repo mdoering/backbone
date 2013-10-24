@@ -1,5 +1,4 @@
-Cercospora plumeriae Chupp SPECIES
-=======
+# Cercospora plumeriae Chupp SPECIES
 
 #### Status
 ACCEPTED

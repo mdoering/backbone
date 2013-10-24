@@ -1,5 +1,4 @@
-Endothiella anacardiacearum F. Stevens SPECIES
-=======
+# Endothiella anacardiacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

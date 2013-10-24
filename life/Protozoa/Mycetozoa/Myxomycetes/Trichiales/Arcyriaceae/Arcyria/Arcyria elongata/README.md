@@ -1,5 +1,4 @@
-Arcyria elongata Bong. SPECIES
-=======
+# Arcyria elongata Bong. SPECIES
 
 #### Status
 ACCEPTED

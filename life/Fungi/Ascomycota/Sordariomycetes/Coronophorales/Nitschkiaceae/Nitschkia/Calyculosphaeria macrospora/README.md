@@ -1,5 +1,4 @@
-Calyculosphaeria macrospora Fitzp. SPECIES
-=======
+# Calyculosphaeria macrospora Fitzp. SPECIES
 
 #### Status
 ACCEPTED

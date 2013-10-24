@@ -1,5 +1,4 @@
-Scolicotrichum vitiphyllum (Speschnew) Karak. & Vassiljevsky SPECIES
-=======
+# Scolicotrichum vitiphyllum (Speschnew) Karak. & Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

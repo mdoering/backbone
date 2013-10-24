@@ -1,5 +1,4 @@
-Pyrocyclus W.W.Hay & K.M.Towe GENUS
-=======
+# Pyrocyclus W.W.Hay & K.M.Towe GENUS
 
 #### Status
 ACCEPTED

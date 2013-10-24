@@ -1,5 +1,4 @@
-Hysterium platyplacum Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium platyplacum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

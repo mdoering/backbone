@@ -1,5 +1,4 @@
-Spathidium fresenburgi Kahl, 1928 SPECIES
-=======
+# Spathidium fresenburgi Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

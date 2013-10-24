@@ -1,5 +1,4 @@
-Collema submarginale (Wulfen) Ach. SPECIES
-=======
+# Collema submarginale (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

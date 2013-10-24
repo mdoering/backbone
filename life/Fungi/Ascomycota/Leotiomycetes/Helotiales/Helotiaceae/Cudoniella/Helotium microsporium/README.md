@@ -1,5 +1,4 @@
-Helotium microsporium Rodway SPECIES
-=======
+# Helotium microsporium Rodway SPECIES
 
 #### Status
 ACCEPTED

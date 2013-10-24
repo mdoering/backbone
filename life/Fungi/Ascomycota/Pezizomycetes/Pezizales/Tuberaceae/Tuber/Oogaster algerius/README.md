@@ -1,5 +1,4 @@
-Oogaster algerius Corda SPECIES
-=======
+# Oogaster algerius Corda SPECIES
 
 #### Status
 ACCEPTED

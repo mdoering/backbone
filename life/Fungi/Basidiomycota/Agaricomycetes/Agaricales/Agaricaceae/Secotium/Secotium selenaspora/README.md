@@ -1,5 +1,4 @@
-Secotium selenaspora Heim & Le Gal SPECIES
-=======
+# Secotium selenaspora Heim & Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella porphyra Lév. SPECIES
-=======
+# Tremella porphyra Lév. SPECIES
 
 #### Status
 ACCEPTED

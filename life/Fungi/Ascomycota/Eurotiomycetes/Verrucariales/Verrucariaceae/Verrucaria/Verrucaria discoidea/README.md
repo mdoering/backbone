@@ -1,5 +1,4 @@
-Verrucaria discoidea (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria discoidea (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

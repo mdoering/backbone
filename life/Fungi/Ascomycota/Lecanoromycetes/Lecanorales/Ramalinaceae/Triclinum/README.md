@@ -1,5 +1,4 @@
-Triclinum Fée GENUS
-=======
+# Triclinum Fée GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalea Nyl. GENUS
-=======
+# Ramalea Nyl. GENUS
 
 #### Status
 ACCEPTED

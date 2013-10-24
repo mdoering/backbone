@@ -1,5 +1,4 @@
-Lecanora fimbriatula Stirt. SPECIES
-=======
+# Lecanora fimbriatula Stirt. SPECIES
 
 #### Status
 ACCEPTED

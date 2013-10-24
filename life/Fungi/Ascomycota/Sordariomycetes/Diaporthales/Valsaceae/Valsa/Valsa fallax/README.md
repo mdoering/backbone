@@ -1,5 +1,4 @@
-Valsa fallax Nitschke SPECIES
-=======
+# Valsa fallax Nitschke SPECIES
 
 #### Status
 ACCEPTED

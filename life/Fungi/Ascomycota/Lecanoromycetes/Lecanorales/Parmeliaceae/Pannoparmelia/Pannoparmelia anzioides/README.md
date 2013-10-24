@@ -1,5 +1,4 @@
-Pannoparmelia anzioides Darb. SPECIES
-=======
+# Pannoparmelia anzioides Darb. SPECIES
 
 #### Status
 ACCEPTED

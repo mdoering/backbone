@@ -1,5 +1,4 @@
-Boletus membranaceus Ehrenb. SPECIES
-=======
+# Boletus membranaceus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

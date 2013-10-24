@@ -1,5 +1,4 @@
-Pseudocercospora neoboutoniae (Hansf.) Deighton SPECIES
-=======
+# Pseudocercospora neoboutoniae (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

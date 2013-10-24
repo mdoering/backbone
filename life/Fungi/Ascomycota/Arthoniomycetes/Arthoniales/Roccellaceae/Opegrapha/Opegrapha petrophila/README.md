@@ -1,5 +1,4 @@
-Opegrapha petrophila Wedd. SPECIES
-=======
+# Opegrapha petrophila Wedd. SPECIES
 
 #### Status
 ACCEPTED

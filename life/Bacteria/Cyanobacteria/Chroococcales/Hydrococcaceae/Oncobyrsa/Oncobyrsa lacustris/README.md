@@ -1,5 +1,4 @@
-Oncobyrsa lacustris Kirchner SPECIES
-=======
+# Oncobyrsa lacustris Kirchner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia endosulphurea (Hillmann) Hale SPECIES
-=======
+# Parmelia endosulphurea (Hillmann) Hale SPECIES
 
 #### Status
 ACCEPTED

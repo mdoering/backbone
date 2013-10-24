@@ -1,5 +1,4 @@
-Thiosarcina Winogradsky, 1888 GENUS
-=======
+# Thiosarcina Winogradsky, 1888 GENUS
 
 #### Status
 ACCEPTED

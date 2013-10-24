@@ -1,5 +1,4 @@
-Tolypocladium W. Gams GENUS
-=======
+# Tolypocladium W. Gams GENUS
 
 #### Status
 ACCEPTED

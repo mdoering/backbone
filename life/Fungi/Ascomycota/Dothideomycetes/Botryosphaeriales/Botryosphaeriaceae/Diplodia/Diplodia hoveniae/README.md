@@ -1,5 +1,4 @@
-Diplodia hoveniae Petr. SPECIES
-=======
+# Diplodia hoveniae Petr. SPECIES
 
 #### Status
 ACCEPTED

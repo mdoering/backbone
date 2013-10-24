@@ -1,5 +1,4 @@
-Chaetomium giganigrosporum Millner & S. Ahmad SPECIES
-=======
+# Chaetomium giganigrosporum Millner & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

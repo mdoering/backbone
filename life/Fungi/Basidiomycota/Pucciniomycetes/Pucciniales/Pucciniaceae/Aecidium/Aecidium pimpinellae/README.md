@@ -1,5 +1,4 @@
-Aecidium pimpinellae var. pimpinellae VARIETY
-=======
+# Aecidium pimpinellae Kirchn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium pimpinellae var. pimpinellae
+Aecidium pimpinellae Kirchn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gigartacontidae FAMILY
-=======
+# Gigartacontidae FAMILY
 
 #### Status
 ACCEPTED

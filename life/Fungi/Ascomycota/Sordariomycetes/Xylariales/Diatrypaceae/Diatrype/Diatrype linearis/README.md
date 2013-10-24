@@ -1,5 +1,4 @@
-Diatrype linearis Ellis & Everh. SPECIES
-=======
+# Diatrype linearis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

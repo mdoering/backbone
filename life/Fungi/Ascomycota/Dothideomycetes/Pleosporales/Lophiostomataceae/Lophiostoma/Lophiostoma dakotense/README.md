@@ -1,5 +1,4 @@
-Lophiostoma dakotense Ellis & Everh. SPECIES
-=======
+# Lophiostoma dakotense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

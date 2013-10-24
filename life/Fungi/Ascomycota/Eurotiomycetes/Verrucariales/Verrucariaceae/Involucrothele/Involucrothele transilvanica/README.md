@@ -1,14 +1,13 @@
-Involucrothele transsilvanica (Zschacke) Servít SPECIES
-=======
+# Involucrothele transilvanica (Zschacke) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 170 (1954)
 
 #### Original name
 Thelidium transilvanicum Zschacke

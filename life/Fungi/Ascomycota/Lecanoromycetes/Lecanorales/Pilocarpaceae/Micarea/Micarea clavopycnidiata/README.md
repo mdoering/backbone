@@ -1,5 +1,4 @@
-Micarea clavopycnidiata Brodo & Tønsberg SPECIES
-=======
+# Micarea clavopycnidiata Brodo & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phasganon F.J. Ruprecht in A.T. von Middendorff, 1850 GENUS
-=======
+# Phasganon F.J. Ruprecht in A.T. von Middendorff, 1850 GENUS
 
 #### Status
 ACCEPTED

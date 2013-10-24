@@ -1,5 +1,4 @@
-Dysteria duplopharynx Lepsi, 1922 SPECIES
-=======
+# Dysteria duplopharynx Lepsi, 1922 SPECIES
 
 #### Status
 ACCEPTED

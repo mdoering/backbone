@@ -1,14 +1,13 @@
-Nigredo scleriae (Henn.) Arthur, 1920 SPECIES
-=======
+# Uromyces scleriae Henn., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 233 (1920)
+Hedwigia 38(Beibl. ): 67 (1899)
 
 #### Original name
 Uromyces scleriae Henn., 1899

@@ -1,5 +1,4 @@
-Phacus tellii V. Conforti SPECIES
-=======
+# Phacus tellii V. Conforti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella edelbergii Petr. SPECIES
-=======
+# Mycosphaerella edelbergii Petr. SPECIES
 
 #### Status
 ACCEPTED

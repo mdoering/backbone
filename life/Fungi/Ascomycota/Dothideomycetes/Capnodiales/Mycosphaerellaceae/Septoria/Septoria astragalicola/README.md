@@ -1,5 +1,4 @@
-Septoria astragalicola Peck SPECIES
-=======
+# Septoria astragalicola Peck SPECIES
 
 #### Status
 ACCEPTED

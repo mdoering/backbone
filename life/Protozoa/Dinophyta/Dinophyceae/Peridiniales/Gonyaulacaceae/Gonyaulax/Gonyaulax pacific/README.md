@@ -1,5 +1,4 @@
-Gonyaulax pacific Kofoid SPECIES
-=======
+# Gonyaulax pacific Kofoid SPECIES
 
 #### Status
 ACCEPTED

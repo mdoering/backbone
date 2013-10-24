@@ -1,5 +1,4 @@
-Lepiota callamba Lagerh. SPECIES
-=======
+# Lepiota callamba Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lopadium phyllophilum (Stirt.) Müll. Arg. SPECIES
-=======
+# Tapellaria phyllophila (Stirt.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Thorold, J. Ecol. 40: 129 (1952)
 
 #### Original name
 Lecidea phyllophila Stirt.

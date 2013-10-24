@@ -1,5 +1,4 @@
-Baltisphaeridium radiale Bharadwaj et al., 1971 SPECIES
-=======
+# Baltisphaeridium radiale Bharadwaj et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

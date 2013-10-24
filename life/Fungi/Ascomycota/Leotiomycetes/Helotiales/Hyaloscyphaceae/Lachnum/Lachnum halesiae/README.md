@@ -1,5 +1,4 @@
-Lachnum halesiae E.K. Cash SPECIES
-=======
+# Lachnum halesiae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

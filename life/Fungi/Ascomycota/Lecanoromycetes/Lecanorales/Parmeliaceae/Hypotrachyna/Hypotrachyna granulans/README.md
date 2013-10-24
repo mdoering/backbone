@@ -1,5 +1,4 @@
-Hypotrachyna granulans K. H. Moon, Kurok. & Kashiw. SPECIES
-=======
+# Hypotrachyna granulans K. H. Moon, Kurok. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

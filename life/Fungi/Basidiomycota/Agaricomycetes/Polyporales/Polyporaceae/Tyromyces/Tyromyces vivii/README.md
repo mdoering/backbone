@@ -1,5 +1,4 @@
-Tyromyces vivii Homble ex Ryvarden SPECIES
-=======
+# Tyromyces vivii Homble ex Ryvarden SPECIES
 
 #### Status
 ACCEPTED

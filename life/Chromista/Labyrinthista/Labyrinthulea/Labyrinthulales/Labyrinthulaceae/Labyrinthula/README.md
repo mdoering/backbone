@@ -1,17 +1,16 @@
-Labyrinthodictyon Valkanov GENUS
-=======
+# Labyrinthula Cienk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Archs Anat. microsc. 3: 275 (1867)
 
 #### Original name
-Labyrinthodictyon Valkanov
+Labyrinthula Cienk.
 
 ### Remarks
 null

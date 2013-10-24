@@ -1,5 +1,4 @@
-Sicuophora macropharyngea SPECIES
-=======
+# Sicuophora macropharyngea SPECIES
 
 #### Status
 ACCEPTED

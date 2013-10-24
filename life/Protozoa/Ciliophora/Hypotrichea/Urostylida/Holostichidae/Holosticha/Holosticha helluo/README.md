@@ -1,5 +1,4 @@
-Holosticha helluo SPECIES
-=======
+# Holosticha helluo SPECIES
 
 #### Status
 ACCEPTED

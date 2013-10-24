@@ -1,5 +1,4 @@
-Micromonospora aurantiaca Sveshnikova et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Micromonospora aurantiaca Sveshnikova et al., 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

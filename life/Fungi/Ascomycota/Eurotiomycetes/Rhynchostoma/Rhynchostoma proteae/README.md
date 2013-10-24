@@ -1,5 +1,4 @@
-Rhynchostoma proteae S.J. Lee & Crous SPECIES
-=======
+# Rhynchostoma proteae S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

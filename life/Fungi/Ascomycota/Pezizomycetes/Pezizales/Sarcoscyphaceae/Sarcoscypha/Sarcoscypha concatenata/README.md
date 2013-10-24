@@ -1,5 +1,4 @@
-Sarcoscypha concatenata Rick SPECIES
-=======
+# Sarcoscypha concatenata Rick SPECIES
 
 #### Status
 ACCEPTED

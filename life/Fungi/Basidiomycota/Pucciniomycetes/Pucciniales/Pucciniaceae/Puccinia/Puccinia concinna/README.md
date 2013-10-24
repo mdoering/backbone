@@ -1,5 +1,4 @@
-Puccinia concinna var. concinna VARIETY
-=======
+# Puccinia concinna Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 40: 205 (1905)
 
 #### Original name
-Puccinia concinna var. concinna
+Puccinia concinna Arthur
 
 ### Remarks
 null

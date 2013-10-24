@@ -1,5 +1,4 @@
-Sporidesmium obclavatum Cooke SPECIES
-=======
+# Sporidesmium obclavatum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Glomeaceae FAMILY
-=======
+# Glomeraceae Piroz. & Dalpé FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symbiosis 7: 19 (1989)
 
 #### Original name
-null
+Glomeraceae Piroz. & Dalpé
 
 ### Remarks
 null

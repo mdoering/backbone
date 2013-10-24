@@ -1,5 +1,4 @@
-Lachnum scabrovillosum (W. Phillips) J.H. Haines & M.P. Sharma SPECIES
-=======
+# Lachnum scabrovillosum (W. Phillips) J.H. Haines & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

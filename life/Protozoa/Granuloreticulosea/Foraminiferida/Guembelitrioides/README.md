@@ -1,5 +1,4 @@
-Guembelitrioides El-Naggar, 1971 GENUS
-=======
+# Guembelitrioides El-Naggar, 1971 GENUS
 
 #### Status
 ACCEPTED

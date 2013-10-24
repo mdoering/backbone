@@ -1,5 +1,4 @@
-Crinipellis sinensis Singer SPECIES
-=======
+# Crinipellis sinensis Singer SPECIES
 
 #### Status
 ACCEPTED

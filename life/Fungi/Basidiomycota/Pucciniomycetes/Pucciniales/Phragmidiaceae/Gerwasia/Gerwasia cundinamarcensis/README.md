@@ -1,14 +1,13 @@
-Morispora cundinamarcensis (Mayor) Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
-=======
+# Gerwasia cundinamarcensis (Mayor) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Caldasia 29(1): 109 (2007)
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 186 (1994)
 
 #### Original name
 Uromyces cundinamarcensis Mayor, 1913

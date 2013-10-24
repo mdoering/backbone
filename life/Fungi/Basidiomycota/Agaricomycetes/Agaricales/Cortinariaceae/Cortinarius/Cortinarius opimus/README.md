@@ -1,5 +1,4 @@
-Cortinarius opimus var. opimus VARIETY
-=======
+# Cortinarius opimus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 278 (1838)
 
 #### Original name
-Cortinarius opimus var. opimus
+Cortinarius opimus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudonectria maranhensis Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Pseudonectria maranhensis Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

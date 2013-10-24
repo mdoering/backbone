@@ -1,5 +1,4 @@
-Russula subveternosa Singer SPECIES
-=======
+# Russula subveternosa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus contractus Penard, 1922 SPECIES
-=======
+# Metopus contractus Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

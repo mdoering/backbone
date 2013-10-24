@@ -1,5 +1,4 @@
-Linocarpon alpiniae K.D. Hyde SPECIES
-=======
+# Linocarpon alpiniae K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystostereum australe Nakasone, 1983 SPECIES
-=======
+# Cystostereum australe Nakasone, 1983 SPECIES
 
 #### Status
 ACCEPTED

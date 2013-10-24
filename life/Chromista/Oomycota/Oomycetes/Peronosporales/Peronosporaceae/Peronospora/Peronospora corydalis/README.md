@@ -1,17 +1,16 @@
-Peronospora corydalis f. corydalis-capnoidis Savul. & Rayss FORM
-=======
+# Peronospora corydalis de Bary, 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 20: 111 (1863)
 
 #### Original name
-Peronospora corydalis f. corydalis-capnoidis Savul. & Rayss
+Peronospora corydalis de Bary, 1863
 
 ### Remarks
 null

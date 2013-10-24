@@ -1,5 +1,4 @@
-Asterina sublibera Berk., 1855 SPECIES
-=======
+# Asterina sublibera Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

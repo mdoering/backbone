@@ -1,5 +1,4 @@
-Discina martinicae Pat. SPECIES
-=======
+# Discina martinicae Pat. SPECIES
 
 #### Status
 ACCEPTED

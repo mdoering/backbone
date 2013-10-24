@@ -1,5 +1,4 @@
-Fusarium retusum Wellman SPECIES
-=======
+# Fusarium retusum Wellman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella chlorosticta (E.P. Fr. ex Cooke) Nannf. SPECIES
-=======
+# Cistella chlorosticta (E.P. Fr. ex Cooke) Nannf. SPECIES
 
 #### Status
 ACCEPTED

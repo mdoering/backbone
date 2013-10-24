@@ -1,5 +1,4 @@
-Cephalosporium diversiphialidum Balazy SPECIES
-=======
+# Cephalosporium diversiphialidum Balazy SPECIES
 
 #### Status
 ACCEPTED

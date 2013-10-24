@@ -1,5 +1,4 @@
-Diorygma tibellii Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma tibellii Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

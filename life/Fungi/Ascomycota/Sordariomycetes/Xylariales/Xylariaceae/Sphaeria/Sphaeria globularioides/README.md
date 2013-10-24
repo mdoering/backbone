@@ -1,5 +1,4 @@
-Sphaeria globularioides P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria globularioides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

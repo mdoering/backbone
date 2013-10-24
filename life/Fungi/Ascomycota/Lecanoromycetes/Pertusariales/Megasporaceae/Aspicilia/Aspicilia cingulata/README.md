@@ -1,5 +1,4 @@
-Aspicilia cingulata f. cingulata FORM
-=======
+# Aspicilia cingulata (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 287 (1972)
 
 #### Original name
-Aspicilia cingulata f. cingulata
+Lecanora cingulata Zahlbr.
 
 ### Remarks
 null

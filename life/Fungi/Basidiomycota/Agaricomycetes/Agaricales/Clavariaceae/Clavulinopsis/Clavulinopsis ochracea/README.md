@@ -1,5 +1,4 @@
-Clavulinopsis ochracea Corner SPECIES
-=======
+# Clavulinopsis ochracea Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria magnussonii Llano SPECIES
-=======
+# Cetraria magnussonii Llano SPECIES
 
 #### Status
 ACCEPTED

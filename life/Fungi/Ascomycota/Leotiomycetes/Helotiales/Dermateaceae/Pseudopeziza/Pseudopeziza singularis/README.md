@@ -1,5 +1,4 @@
-Pseudopeziza singularis (Peck) Davis SPECIES
-=======
+# Pseudopeziza singularis (Peck) Davis SPECIES
 
 #### Status
 ACCEPTED

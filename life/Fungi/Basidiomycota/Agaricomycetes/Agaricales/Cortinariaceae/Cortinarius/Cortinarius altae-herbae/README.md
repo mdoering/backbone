@@ -1,5 +1,4 @@
-Cortinarius altae-herbae Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius altae-herbae Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

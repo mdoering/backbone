@@ -1,8 +1,7 @@
-Uroleptus novitas (Horvath, 1933) ? SPECIES
-=======
+# Paruroleptus novitas Horvat, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

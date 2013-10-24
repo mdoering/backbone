@@ -1,5 +1,4 @@
-Stenella triseptata Matsush. SPECIES
-=======
+# Stenella triseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

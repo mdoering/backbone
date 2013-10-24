@@ -1,5 +1,4 @@
-Patellinella Cushman, 1928 GENUS
-=======
+# Patellinella Cushman, 1928 GENUS
 
 #### Status
 ACCEPTED

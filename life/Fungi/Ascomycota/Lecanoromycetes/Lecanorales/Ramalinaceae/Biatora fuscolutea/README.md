@@ -1,5 +1,4 @@
-Biatora fuscolutea (Ach.) Fr. SPECIES
-=======
+# Biatora fuscolutea (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuricola pediculata Sommer, 1951 SPECIES
-=======
+# Thuricola pediculata Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

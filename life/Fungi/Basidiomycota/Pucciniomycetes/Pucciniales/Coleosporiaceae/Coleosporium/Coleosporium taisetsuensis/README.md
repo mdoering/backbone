@@ -1,5 +1,4 @@
-Coleosporium taisetsuensis S. Ito & Homma SPECIES
-=======
+# Coleosporium taisetsuensis S. Ito & Homma SPECIES
 
 #### Status
 ACCEPTED

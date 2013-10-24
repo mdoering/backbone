@@ -1,5 +1,4 @@
-Amphisphaerella alpigena (Fuckel) Lar.N. Vassiljeva SPECIES
-=======
+# Amphisphaerella alpigena (Fuckel) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

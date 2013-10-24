@@ -1,5 +1,4 @@
-Seynesia grandis (Niessl) G. Winter SPECIES
-=======
+# Seynesia grandis (Niessl) G. Winter SPECIES
 
 #### Status
 ACCEPTED

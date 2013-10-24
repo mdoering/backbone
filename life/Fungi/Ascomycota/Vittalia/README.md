@@ -1,5 +1,4 @@
-Vittalia Gawas & Bhat GENUS
-=======
+# Vittalia Gawas & Bhat GENUS
 
 #### Status
 ACCEPTED

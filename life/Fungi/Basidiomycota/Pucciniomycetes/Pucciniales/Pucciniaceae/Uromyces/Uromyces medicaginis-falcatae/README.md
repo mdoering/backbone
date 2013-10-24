@@ -1,5 +1,4 @@
-Uromyces medicaginis-falcatae G. Winter SPECIES
-=======
+# Uromyces medicaginis-falcatae G. Winter SPECIES
 
 #### Status
 ACCEPTED

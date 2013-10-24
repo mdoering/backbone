@@ -1,5 +1,4 @@
-Endoscrinium luridum (Deflandre, 1938) Gocht, 1970 SPECIES
-=======
+# Endoscrinium luridum (Deflandre, 1938) Gocht, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoenterolobium flabellatum B. Sutton SPECIES
-=======
+# Mycoenterolobium flabellatum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

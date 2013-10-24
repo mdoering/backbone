@@ -1,5 +1,4 @@
-Protosphaeridium charnium Timofeev et al., 1980 SPECIES
-=======
+# Protosphaeridium charnium Timofeev et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

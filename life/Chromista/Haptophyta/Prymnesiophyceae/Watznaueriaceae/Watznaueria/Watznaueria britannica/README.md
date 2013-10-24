@@ -1,5 +1,4 @@
-Watznaueria britannica SPECIES
-=======
+# Watznaueria britannica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonopsis atriella (Cooke) J. Lindau SPECIES
-=======
+# Belonopsis atriella (Cooke) J. Lindau SPECIES
 
 #### Status
 ACCEPTED

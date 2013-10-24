@@ -1,5 +1,4 @@
-Laccaria angustilamella Zhu L. Yang & L. Wang, 2004 SPECIES
-=======
+# Laccaria angustilamella Zhu L. Yang & L. Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

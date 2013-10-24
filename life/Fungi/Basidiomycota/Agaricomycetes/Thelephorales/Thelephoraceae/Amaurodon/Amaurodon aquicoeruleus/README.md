@@ -1,5 +1,4 @@
-Amaurodon aquicoeruleus Agerer, 2001 SPECIES
-=======
+# Amaurodon aquicoeruleus Agerer, 2001 SPECIES
 
 #### Status
 ACCEPTED

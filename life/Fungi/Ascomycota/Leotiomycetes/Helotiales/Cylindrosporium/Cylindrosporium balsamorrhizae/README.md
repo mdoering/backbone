@@ -1,5 +1,4 @@
-Cylindrosporium balsamorrhizae Solheim SPECIES
-=======
+# Cylindrosporium balsamorrhizae Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelospathis Haeckel, 1887 GENUS
-=======
+# Coelospathis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

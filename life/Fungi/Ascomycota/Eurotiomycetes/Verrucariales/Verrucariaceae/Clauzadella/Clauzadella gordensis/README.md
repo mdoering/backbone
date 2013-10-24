@@ -1,5 +1,4 @@
-Clauzadella gordensis Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Clauzadella gordensis Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

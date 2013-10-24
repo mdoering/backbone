@@ -1,5 +1,4 @@
-Dothiorella argyreiae Magdum SPECIES
-=======
+# Dothiorella argyreiae Magdum SPECIES
 
 #### Status
 ACCEPTED

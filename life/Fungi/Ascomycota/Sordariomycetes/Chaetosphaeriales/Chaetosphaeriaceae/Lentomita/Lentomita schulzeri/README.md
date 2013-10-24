@@ -1,5 +1,4 @@
-Lentomita schulzeri (Schulzer) Sacc. SPECIES
-=======
+# Lentomita schulzeri (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

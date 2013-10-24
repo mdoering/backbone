@@ -1,5 +1,4 @@
-Hapalospongidion capitatum Womersley SPECIES
-=======
+# Hapalospongidion capitatum Womersley SPECIES
 
 #### Status
 ACCEPTED

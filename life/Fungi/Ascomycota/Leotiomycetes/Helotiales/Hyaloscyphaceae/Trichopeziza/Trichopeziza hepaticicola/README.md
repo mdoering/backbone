@@ -1,8 +1,7 @@
-Trichopeziza hepaticola Grelet & Croz. SPECIES
-=======
+# Trichopeziza hepaticicola Grelet & Croz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichopeziza hepaticola Grelet & Croz.
+Trichopeziza hepaticicola Grelet & Croz.
 
 ### Remarks
 null

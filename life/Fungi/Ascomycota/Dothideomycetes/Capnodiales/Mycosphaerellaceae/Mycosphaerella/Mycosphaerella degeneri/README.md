@@ -1,5 +1,4 @@
-Mycosphaerella degeneri Petr. SPECIES
-=======
+# Mycosphaerella degeneri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bacidia hemipolia f. hemipolia FORM
-=======
+# Bacidia hemipolia (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 140 (1895)
 
 #### Original name
-null
+Lecidea arceutina f. hemipolia Nyl.
 
 ### Remarks
 null

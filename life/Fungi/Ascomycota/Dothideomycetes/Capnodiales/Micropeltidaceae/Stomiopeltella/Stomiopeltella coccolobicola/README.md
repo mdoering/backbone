@@ -1,5 +1,4 @@
-Stomiopeltella coccolobicola Bat. SPECIES
-=======
+# Stomiopeltella coccolobicola Bat. SPECIES
 
 #### Status
 ACCEPTED

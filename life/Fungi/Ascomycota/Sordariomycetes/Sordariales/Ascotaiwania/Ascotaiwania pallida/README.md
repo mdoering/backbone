@@ -1,5 +1,4 @@
-Ascotaiwania pallida K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Ascotaiwania pallida K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

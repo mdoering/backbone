@@ -1,5 +1,4 @@
-Favolaschia caerulescens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Favolaschia caerulescens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

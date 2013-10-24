@@ -1,5 +1,4 @@
-Saccardomyces bactridicola Henn. SPECIES
-=======
+# Saccardomyces bactridicola Henn. SPECIES
 
 #### Status
 ACCEPTED

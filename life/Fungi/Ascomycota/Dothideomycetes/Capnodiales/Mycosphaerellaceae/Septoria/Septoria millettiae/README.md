@@ -1,5 +1,4 @@
-Septoria millettiae N. Naito SPECIES
-=======
+# Septoria millettiae N. Naito SPECIES
 
 #### Status
 ACCEPTED

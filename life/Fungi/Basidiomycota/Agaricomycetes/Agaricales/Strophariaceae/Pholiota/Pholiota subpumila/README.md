@@ -1,5 +1,4 @@
-Pholiota subpumila Cleland SPECIES
-=======
+# Pholiota subpumila Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnion scleroderma Lloyd SPECIES
-=======
+# Arachnion scleroderma Lloyd SPECIES
 
 #### Status
 ACCEPTED

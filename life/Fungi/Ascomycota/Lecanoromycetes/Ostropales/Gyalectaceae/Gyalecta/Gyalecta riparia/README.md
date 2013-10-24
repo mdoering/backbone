@@ -1,5 +1,4 @@
-Gyalecta riparia Vain. SPECIES
-=======
+# Gyalecta riparia Vain. SPECIES
 
 #### Status
 ACCEPTED

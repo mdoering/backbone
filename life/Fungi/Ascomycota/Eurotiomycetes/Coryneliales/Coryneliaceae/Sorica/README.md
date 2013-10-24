@@ -1,5 +1,4 @@
-Sorica GENUS
-=======
+# Sorica GENUS
 
 #### Status
 ACCEPTED

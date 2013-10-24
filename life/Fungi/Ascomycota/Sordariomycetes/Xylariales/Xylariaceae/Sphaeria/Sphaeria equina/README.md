@@ -1,5 +1,4 @@
-Sphaeria equina Fr. SPECIES
-=======
+# Sphaeria equina Fr. SPECIES
 
 #### Status
 ACCEPTED

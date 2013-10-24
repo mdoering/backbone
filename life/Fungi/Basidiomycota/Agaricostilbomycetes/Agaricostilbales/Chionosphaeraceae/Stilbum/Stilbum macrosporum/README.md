@@ -1,5 +1,4 @@
-Stilbum macrosporum Penz. & Sacc. SPECIES
-=======
+# Stilbum macrosporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

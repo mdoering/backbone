@@ -1,5 +1,4 @@
-Dilatisphaera Lister GENUS
-=======
+# Dilatisphaera Lister GENUS
 
 #### Status
 ACCEPTED

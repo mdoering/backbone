@@ -1,5 +1,4 @@
-Sphaeria mori-albae Schwein. SPECIES
-=======
+# Sphaeria mori-albae Schwein. SPECIES
 
 #### Status
 ACCEPTED

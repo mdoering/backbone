@@ -1,5 +1,4 @@
-Graphis evanescens Fée SPECIES
-=======
+# Graphis evanescens Fée SPECIES
 
 #### Status
 ACCEPTED

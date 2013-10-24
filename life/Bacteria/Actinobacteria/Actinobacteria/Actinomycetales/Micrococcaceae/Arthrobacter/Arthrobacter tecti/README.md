@@ -1,5 +1,4 @@
-Arthrobacter tecti Heyrman et al., 2005 SPECIES
-=======
+# Arthrobacter tecti Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon glabellum Peck SPECIES
-=======
+# Lycoperdon glabellum Peck SPECIES
 
 #### Status
 ACCEPTED

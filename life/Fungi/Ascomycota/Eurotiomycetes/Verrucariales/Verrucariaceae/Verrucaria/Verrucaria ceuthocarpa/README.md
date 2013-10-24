@@ -1,17 +1,16 @@
-Verrucaria ceuthocarpa var. ceuthocarpa VARIETY
-=======
+# Verrucaria ceuthocarpa Wahlenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Acharius, Method. Lich. 22 (1803)
 
 #### Original name
-Verrucaria ceuthocarpa var. ceuthocarpa
+Verrucaria ceuthocarpa Wahlenb.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Psilosphaeria dolichospora (Sacc.) Cooke, 1887 SPECIES
-=======
+# Zignoëlla dolichospora Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 218 (1883)
 
 #### Original name
-null
+Zignoëlla dolichospora Sacc., 1878
 
 ### Remarks
 null

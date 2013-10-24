@@ -1,5 +1,4 @@
-Stropharia alachuana Murrill SPECIES
-=======
+# Stropharia alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

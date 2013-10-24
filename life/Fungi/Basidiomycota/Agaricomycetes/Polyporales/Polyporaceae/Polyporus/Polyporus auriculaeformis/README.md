@@ -1,5 +1,4 @@
-Polyporus auriculaeformis Lév. SPECIES
-=======
+# Polyporus auriculaeformis Lév. SPECIES
 
 #### Status
 ACCEPTED

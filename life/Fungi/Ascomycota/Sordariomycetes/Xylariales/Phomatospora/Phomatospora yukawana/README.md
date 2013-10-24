@@ -1,5 +1,4 @@
-Phomatospora yukawana I. Hino & Katum. SPECIES
-=======
+# Phomatospora yukawana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

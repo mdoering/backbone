@@ -1,5 +1,4 @@
-Sphacelotheca themedicola L. Ling SPECIES
-=======
+# Sphacelotheca themedicola L. Ling SPECIES
 
 #### Status
 ACCEPTED

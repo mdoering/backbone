@@ -1,5 +1,4 @@
-Hellea balneolensis Alain, Tindall, Intertaglia, Catala & Lebaron, 2008 SPECIES
-=======
+# Hellea balneolensis Alain, Tindall, Intertaglia, Catala & Lebaron, 2008 SPECIES
 
 #### Status
 ACCEPTED

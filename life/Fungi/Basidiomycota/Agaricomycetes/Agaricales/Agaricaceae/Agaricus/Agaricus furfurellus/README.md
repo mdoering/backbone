@@ -1,5 +1,4 @@
-Agaricus furfurellus Berk. & Broome SPECIES
-=======
+# Agaricus furfurellus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

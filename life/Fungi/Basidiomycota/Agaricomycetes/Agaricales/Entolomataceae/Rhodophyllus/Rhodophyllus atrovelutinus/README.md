@@ -1,5 +1,4 @@
-Rhodophyllus atrovelutinus var. atrovelutinus Romagn. & Gilles VARIETY
-=======
+# Rhodophyllus atrovelutinus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 59: 450 (1979)
 
 #### Original name
-Rhodophyllus atrovelutinus var. atrovelutinus Romagn. & Gilles
+Rhodophyllus atrovelutinus Romagn. & Gilles
 
 ### Remarks
 null

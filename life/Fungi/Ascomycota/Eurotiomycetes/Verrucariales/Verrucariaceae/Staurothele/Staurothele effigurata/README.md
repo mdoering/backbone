@@ -1,5 +1,4 @@
-Staurothele effigurata J. W. Thomson SPECIES
-=======
+# Staurothele effigurata J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

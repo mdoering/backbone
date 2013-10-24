@@ -1,5 +1,4 @@
-Opegrapha hysterimorpha March. {?} SPECIES
-=======
+# Opegrapha hysterimorpha March. {?} SPECIES
 
 #### Status
 ACCEPTED

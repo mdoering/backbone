@@ -1,5 +1,4 @@
-Entoloma egonii Courtec. SPECIES
-=======
+# Entoloma egonii Courtec. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochamminoidae FAMILY
-=======
+# Trochamminoidae FAMILY
 
 #### Status
 ACCEPTED

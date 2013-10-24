@@ -1,5 +1,4 @@
-Cothurnia putanea Jaworowski, ? SPECIES
-=======
+# Cothurnia putanea Jaworowski, ? SPECIES
 
 #### Status
 ACCEPTED

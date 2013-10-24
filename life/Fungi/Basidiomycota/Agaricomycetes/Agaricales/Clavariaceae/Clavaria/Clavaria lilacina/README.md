@@ -1,5 +1,4 @@
-Clavaria lilacina Jungh. SPECIES
-=======
+# Clavaria lilacina Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fucus cartilagineus Gunnerus, nom. illeg. SPECIES
-=======
+# Fucus cartilagineus Gunnerus, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota atrata E. Horak SPECIES
-=======
+# Lepiota atrata E. Horak SPECIES
 
 #### Status
 ACCEPTED

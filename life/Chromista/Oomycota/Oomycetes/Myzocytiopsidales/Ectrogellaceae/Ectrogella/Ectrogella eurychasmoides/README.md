@@ -1,5 +1,4 @@
-Ectrogella eurychasmoides Feldmann & Feldm.-Maz., 1955 SPECIES
-=======
+# Ectrogella eurychasmoides Feldmann & Feldm.-Maz., 1955 SPECIES
 
 #### Status
 ACCEPTED

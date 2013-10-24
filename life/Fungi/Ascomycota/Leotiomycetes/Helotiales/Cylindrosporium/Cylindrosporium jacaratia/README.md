@@ -1,5 +1,4 @@
-Cylindrosporium jacaratia Viégas SPECIES
-=======
+# Cylindrosporium jacaratia Viégas SPECIES
 
 #### Status
 ACCEPTED

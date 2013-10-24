@@ -1,14 +1,13 @@
-Pyramidium R.F.A. Clarke & J.P. Verdier, 1967 GENUS
-=======
+# Xiphophoridium Sarjeant, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Verh. K. ned. Akad. Wet. (Sect. 1) 24 (3): 39.
+null
 
 #### Original name
 null

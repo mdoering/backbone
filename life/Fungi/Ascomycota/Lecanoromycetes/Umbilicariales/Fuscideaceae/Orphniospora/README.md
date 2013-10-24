@@ -1,5 +1,4 @@
-Orphniospora Körb. GENUS
-=======
+# Orphniospora Körb. GENUS
 
 #### Status
 ACCEPTED

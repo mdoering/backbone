@@ -1,5 +1,4 @@
-Boletinus solidipes Peck SPECIES
-=======
+# Boletinus solidipes Peck SPECIES
 
 #### Status
 ACCEPTED

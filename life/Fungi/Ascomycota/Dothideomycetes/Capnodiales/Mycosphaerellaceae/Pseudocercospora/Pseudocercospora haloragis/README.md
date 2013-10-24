@@ -1,14 +1,13 @@
-Cercosporella haloragis Hansf., 1956 SPECIES
-=======
+# Pseudocercospora haloragis (Hansf.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 81(1): 50 (1956)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 109 (1995)
 
 #### Original name
 Cercosporella haloragis Hansf., 1956

@@ -1,5 +1,4 @@
-Leptosphaeria pacifica Rehm SPECIES
-=======
+# Leptosphaeria pacifica Rehm SPECIES
 
 #### Status
 ACCEPTED

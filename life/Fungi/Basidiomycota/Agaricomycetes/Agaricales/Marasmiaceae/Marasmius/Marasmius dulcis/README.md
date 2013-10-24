@@ -1,5 +1,4 @@
-Marasmius dulcis Beeli SPECIES
-=======
+# Marasmius dulcis Beeli SPECIES
 
 #### Status
 ACCEPTED

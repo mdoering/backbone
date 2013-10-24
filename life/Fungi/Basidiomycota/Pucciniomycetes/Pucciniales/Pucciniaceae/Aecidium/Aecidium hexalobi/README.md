@@ -1,5 +1,4 @@
-Aecidium hexalobi Har. & Pat. SPECIES
-=======
+# Aecidium hexalobi Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

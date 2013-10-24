@@ -1,5 +1,4 @@
-Monilia corni J.M. Reade SPECIES
-=======
+# Monilia corni J.M. Reade SPECIES
 
 #### Status
 ACCEPTED

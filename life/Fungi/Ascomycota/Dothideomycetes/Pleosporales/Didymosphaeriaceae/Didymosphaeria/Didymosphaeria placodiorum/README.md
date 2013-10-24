@@ -1,5 +1,4 @@
-Didymosphaeria placodiorum Vain. SPECIES
-=======
+# Didymosphaeria placodiorum Vain. SPECIES
 
 #### Status
 ACCEPTED

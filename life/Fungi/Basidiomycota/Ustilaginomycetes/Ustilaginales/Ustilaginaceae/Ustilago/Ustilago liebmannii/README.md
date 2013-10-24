@@ -1,5 +1,4 @@
-Ustilago liebmannii Henn. SPECIES
-=======
+# Ustilago liebmannii Henn. SPECIES
 
 #### Status
 ACCEPTED

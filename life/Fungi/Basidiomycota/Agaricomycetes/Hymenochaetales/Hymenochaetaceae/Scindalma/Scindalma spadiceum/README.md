@@ -1,5 +1,4 @@
-Scindalma spadiceum (Berk.) Kuntze SPECIES
-=======
+# Scindalma spadiceum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

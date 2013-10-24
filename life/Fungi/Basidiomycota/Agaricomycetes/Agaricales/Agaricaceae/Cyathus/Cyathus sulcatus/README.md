@@ -1,5 +1,4 @@
-Cyathus sulcatus Kalchbr. SPECIES
-=======
+# Cyathus sulcatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

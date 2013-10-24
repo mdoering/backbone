@@ -1,5 +1,4 @@
-Stigmatidium prominulum C. Knight SPECIES
-=======
+# Stigmatidium prominulum C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium subcrustosum (Nyl.) Croz. SPECIES
-=======
+# Endopyrenium subcrustosum (Nyl.) Croz. SPECIES
 
 #### Status
 ACCEPTED

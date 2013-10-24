@@ -1,5 +1,4 @@
-Fusoidispora Vijaykr., Jeewon & K.D. Hyde GENUS
-=======
+# Fusoidispora Vijaykr., Jeewon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

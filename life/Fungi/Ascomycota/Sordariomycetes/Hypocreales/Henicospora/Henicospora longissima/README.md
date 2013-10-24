@@ -1,5 +1,4 @@
-Henicospora longissima Kuthub. & Nawawi, 1994 SPECIES
-=======
+# Henicospora longissima Kuthub. & Nawawi, 1994 SPECIES
 
 #### Status
 ACCEPTED

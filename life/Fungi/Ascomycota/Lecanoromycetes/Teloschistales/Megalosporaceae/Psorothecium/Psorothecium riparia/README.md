@@ -1,5 +1,4 @@
-Psorothecium riparia (Körb.) Arnold SPECIES
-=======
+# Psorothecium riparia (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

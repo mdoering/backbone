@@ -1,5 +1,4 @@
-Pleurotus battarrae Quél. SPECIES
-=======
+# Pleurotus battarrae Quél. SPECIES
 
 #### Status
 ACCEPTED

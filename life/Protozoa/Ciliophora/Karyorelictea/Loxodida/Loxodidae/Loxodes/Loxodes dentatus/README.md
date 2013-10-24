@@ -1,5 +1,4 @@
-Loxodes dentatus Dujardin, 1841 SPECIES
-=======
+# Loxodes dentatus Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

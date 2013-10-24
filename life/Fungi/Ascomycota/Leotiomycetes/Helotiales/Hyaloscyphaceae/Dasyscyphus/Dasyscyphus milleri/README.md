@@ -1,5 +1,4 @@
-Dasyscyphus milleri Dennis SPECIES
-=======
+# Dasyscyphus milleri Dennis SPECIES
 
 #### Status
 ACCEPTED

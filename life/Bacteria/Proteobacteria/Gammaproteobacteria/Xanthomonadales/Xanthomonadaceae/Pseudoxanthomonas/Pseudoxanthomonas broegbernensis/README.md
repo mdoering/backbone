@@ -1,5 +1,4 @@
-Pseudoxanthomonas broegbernensis Finkmann et al., 2000 SPECIES
-=======
+# Pseudoxanthomonas broegbernensis Finkmann et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

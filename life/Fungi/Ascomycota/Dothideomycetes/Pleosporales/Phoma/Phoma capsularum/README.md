@@ -1,5 +1,4 @@
-Phoma capsularum (Schwein.) Starbäck SPECIES
-=======
+# Phoma capsularum (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lindtneria panphyliensis Bernicchia & M.J. Larsen, 1990 SPECIES
-=======
+# Lindtneria panphyliensis Bernicchia & M.J. Larsen, 1990 SPECIES
 
 #### Status
 ACCEPTED

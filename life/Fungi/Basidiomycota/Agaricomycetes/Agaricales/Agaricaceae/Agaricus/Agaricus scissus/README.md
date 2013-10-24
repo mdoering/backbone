@@ -1,5 +1,4 @@
-Agaricus scissus J.F. Gmel. SPECIES
-=======
+# Agaricus scissus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

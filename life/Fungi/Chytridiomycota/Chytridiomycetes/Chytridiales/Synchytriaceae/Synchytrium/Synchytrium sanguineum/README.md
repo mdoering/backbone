@@ -1,5 +1,4 @@
-Synchytrium sanguineum J. Schröt. SPECIES
-=======
+# Synchytrium sanguineum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biscogniauxia reticulospora Y.M. Ju & J.D. Rogers, 1998 SPECIES
-=======
+# Biscogniauxia reticulospora Y.M. Ju & J.D. Rogers, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber huidongense Y. Wang SPECIES
-=======
+# Tuber huidongense Y. Wang SPECIES
 
 #### Status
 ACCEPTED

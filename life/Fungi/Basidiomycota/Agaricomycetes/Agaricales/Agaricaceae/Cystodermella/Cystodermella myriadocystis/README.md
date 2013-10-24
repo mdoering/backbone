@@ -1,14 +1,13 @@
-Cystoderma myriadocystis Heinem. & Thoen, 1973 SPECIES
-=======
+# Cystodermella myriadocystis (Heinem. & Thoen) Harmaja, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 89(1): 14 (1973)
+Karstenia 42(2): 46 (2002)
 
 #### Original name
 Cystoderma myriadocystis Heinem. & Thoen, 1973

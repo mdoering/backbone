@@ -1,5 +1,4 @@
-Elsinoë ugandensis Hansf. SPECIES
-=======
+# Elsinoë ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

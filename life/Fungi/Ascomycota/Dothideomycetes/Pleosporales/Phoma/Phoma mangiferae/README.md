@@ -1,5 +1,4 @@
-Phoma mangiferae S. Ahmad, 1948 SPECIES
-=======
+# Phoma mangiferae S. Ahmad, 1948 SPECIES
 
 #### Status
 ACCEPTED

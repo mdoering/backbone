@@ -1,5 +1,4 @@
-Sphacelotheca ischaemi (Fuckel) G.P. Clinton SPECIES
-=======
+# Sphacelotheca ischaemi (Fuckel) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

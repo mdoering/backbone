@@ -1,5 +1,4 @@
-Psora undulata (H. Magn.) Bredkina SPECIES
-=======
+# Psora undulata (H. Magn.) Bredkina SPECIES
 
 #### Status
 ACCEPTED

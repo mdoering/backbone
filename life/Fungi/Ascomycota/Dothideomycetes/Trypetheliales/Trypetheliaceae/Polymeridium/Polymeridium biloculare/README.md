@@ -1,5 +1,4 @@
-Polymeridium biloculare R.C. Harris SPECIES
-=======
+# Polymeridium biloculare R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

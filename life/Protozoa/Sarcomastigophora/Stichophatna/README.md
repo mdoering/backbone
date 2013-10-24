@@ -1,5 +1,4 @@
-Stichophatna Haeckel, 1881 GENUS
-=======
+# Stichophatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

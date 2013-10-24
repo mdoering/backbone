@@ -1,5 +1,4 @@
-Mycena nigricans Bres. SPECIES
-=======
+# Mycena nigricans Bres. SPECIES
 
 #### Status
 ACCEPTED

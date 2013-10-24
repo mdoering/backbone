@@ -1,17 +1,16 @@
-Helotium nyssogenum Ellis, 1881 SPECIES
-=======
+# Sclerotinia nyssogena (Ellis) Rehm, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 8: 73 (1881)
+Annls mycol. 4(4): 338 (1906)
 
 #### Original name
-Helotium nyssogenum Ellis, 1881
+null
 
 ### Remarks
 null

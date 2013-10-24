@@ -1,5 +1,4 @@
-Pyxine consimilis (Stirt.) Stirt. SPECIES
-=======
+# Pyxine consimilis (Stirt.) Stirt. SPECIES
 
 #### Status
 ACCEPTED

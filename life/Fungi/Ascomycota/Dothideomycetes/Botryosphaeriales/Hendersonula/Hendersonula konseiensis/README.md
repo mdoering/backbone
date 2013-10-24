@@ -1,5 +1,4 @@
-Hendersonula konseiensis T. Kobay. {?} SPECIES
-=======
+# Hendersonula konseiensis T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

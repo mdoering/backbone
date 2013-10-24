@@ -1,5 +1,4 @@
-Tricholoma farctum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma farctum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

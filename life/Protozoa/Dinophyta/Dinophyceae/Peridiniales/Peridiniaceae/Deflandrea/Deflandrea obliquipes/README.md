@@ -1,5 +1,4 @@
-Deflandrea obliquipes Deflandre & Cookson, 1955 SPECIES
-=======
+# Deflandrea obliquipes Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lithoicea tectorum A. Massal. SPECIES
-=======
+# Verrucaria tectorum (A. Massal.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lithocia tectorum A. Massal.
 
 ### Remarks
 null

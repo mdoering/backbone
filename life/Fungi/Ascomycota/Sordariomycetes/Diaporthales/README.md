@@ -1,5 +1,4 @@
-Diaporthales Nannf. ORDER
-=======
+# Diaporthales Nannf. ORDER
 
 #### Status
 ACCEPTED

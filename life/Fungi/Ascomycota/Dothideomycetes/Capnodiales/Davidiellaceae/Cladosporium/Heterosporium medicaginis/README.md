@@ -1,5 +1,4 @@
-Heterosporium medicaginis Karimov SPECIES
-=======
+# Heterosporium medicaginis Karimov SPECIES
 
 #### Status
 ACCEPTED

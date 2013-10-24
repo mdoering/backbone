@@ -1,5 +1,4 @@
-Pennella arctica Lichtw. & M.C. Williams, 1984 SPECIES
-=======
+# Pennella arctica Lichtw. & M.C. Williams, 1984 SPECIES
 
 #### Status
 ACCEPTED

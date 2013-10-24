@@ -1,5 +1,4 @@
-Melanoleuca fumosolutea (Peck) Murrill SPECIES
-=======
+# Melanoleuca fumosolutea (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

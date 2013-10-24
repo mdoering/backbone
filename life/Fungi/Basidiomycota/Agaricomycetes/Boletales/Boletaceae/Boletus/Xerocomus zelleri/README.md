@@ -1,5 +1,4 @@
-Xerocomus zelleri Murrill SPECIES
-=======
+# Xerocomus zelleri Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago coicis Bref. SPECIES
-=======
+# Ustilago coicis Bref. SPECIES
 
 #### Status
 ACCEPTED

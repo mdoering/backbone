@@ -1,5 +1,4 @@
-Colletostroma baumgartneri Petr. SPECIES
-=======
+# Colletostroma baumgartneri Petr. SPECIES
 
 #### Status
 ACCEPTED

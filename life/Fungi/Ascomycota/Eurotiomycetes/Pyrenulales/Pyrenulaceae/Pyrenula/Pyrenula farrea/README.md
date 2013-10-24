@@ -1,5 +1,4 @@
-Pyrenula farrea (Ach.) Branth & Rostr. SPECIES
-=======
+# Pyrenula farrea (Ach.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

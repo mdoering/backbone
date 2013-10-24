@@ -1,14 +1,13 @@
-Ustilago crypta McAlpine, 1897 SPECIES
-=======
+# Sporisorium cryptum (McAlpine) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 22: 42 (1897)
+Mycotaxon 74(1): 173 (2000)
 
 #### Original name
 Ustilago crypta McAlpine, 1897

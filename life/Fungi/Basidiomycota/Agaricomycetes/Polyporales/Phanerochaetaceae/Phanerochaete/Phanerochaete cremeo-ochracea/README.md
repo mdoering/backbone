@@ -1,5 +1,4 @@
-Phanerochaete cremeo-ochracea (Bourdot & Galzin) Hjortstam SPECIES
-=======
+# Phanerochaete cremeo-ochracea (Bourdot & Galzin) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licmophora tenuis (Kützing) Grunow SPECIES
-=======
+# Licmophora tenuis (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

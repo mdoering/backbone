@@ -1,5 +1,4 @@
-Prediscosphaera intercisa (Deflandre in Deflandre & Fert, 1954) Shumenko, 1976 SPECIES
-=======
+# Prediscosphaera intercisa (Deflandre in Deflandre & Fert, 1954) Shumenko, 1976 SPECIES
 
 #### Status
 ACCEPTED

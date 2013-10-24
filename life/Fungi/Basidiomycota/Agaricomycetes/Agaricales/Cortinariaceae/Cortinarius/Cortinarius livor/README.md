@@ -1,17 +1,16 @@
-Cortinarius livor var. bresadolae M.M. Moser VARIETY
-=======
+# Cortinarius livor Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Rev. Edn 5 2b/2: 406 (1983)
+Epicr. syst. mycol. (Upsaliae) 306 (1838)
 
 #### Original name
-Cortinarius livor var. bresadolae M.M. Moser
+Cortinarius livor Fr., 1838
 
 ### Remarks
 null

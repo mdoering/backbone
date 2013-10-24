@@ -1,5 +1,4 @@
-Phacus petelotii Lefèvre SPECIES
-=======
+# Phacus petelotii Lefèvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces poinsettiae Tranzschel SPECIES
-=======
+# Uromyces poinsettiae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

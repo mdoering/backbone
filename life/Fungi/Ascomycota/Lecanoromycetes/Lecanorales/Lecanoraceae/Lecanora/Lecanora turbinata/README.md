@@ -1,5 +1,4 @@
-Lecanora turbinata Poelt & Leuckert SPECIES
-=======
+# Lecanora turbinata Poelt & Leuckert SPECIES
 
 #### Status
 ACCEPTED

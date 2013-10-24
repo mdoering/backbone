@@ -1,5 +1,4 @@
-Pertusaria ornatula Müll. Arg. SPECIES
-=======
+# Pertusaria ornatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

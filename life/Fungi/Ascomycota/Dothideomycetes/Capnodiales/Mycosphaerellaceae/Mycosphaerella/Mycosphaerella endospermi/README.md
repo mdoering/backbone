@@ -1,5 +1,4 @@
-Mycosphaerella endospermi Syd. SPECIES
-=======
+# Mycosphaerella endospermi Syd. SPECIES
 
 #### Status
 ACCEPTED

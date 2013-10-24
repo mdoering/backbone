@@ -1,5 +1,4 @@
-Cortinarius brunneo-olivascens M.M. Moser SPECIES
-=======
+# Cortinarius brunneo-olivascens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

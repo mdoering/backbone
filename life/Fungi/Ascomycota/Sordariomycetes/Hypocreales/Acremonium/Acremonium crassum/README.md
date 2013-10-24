@@ -1,5 +1,4 @@
-Acremonium crassum Petch SPECIES
-=======
+# Acremonium crassum Petch SPECIES
 
 #### Status
 ACCEPTED

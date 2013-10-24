@@ -1,8 +1,7 @@
-Microcera tonduzi Pat. SPECIES
-=======
+# Microcera tonduzii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microcera tonduzi Pat.
+Microcera tonduzii Pat.
 
 ### Remarks
 null

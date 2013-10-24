@@ -1,5 +1,4 @@
-Blasticomyces fastigiatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Blasticomyces fastigiatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

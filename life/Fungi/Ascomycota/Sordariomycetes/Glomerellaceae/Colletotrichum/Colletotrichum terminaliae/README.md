@@ -1,5 +1,4 @@
-Colletotrichum terminaliae V.P. Sahni SPECIES
-=======
+# Colletotrichum terminaliae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

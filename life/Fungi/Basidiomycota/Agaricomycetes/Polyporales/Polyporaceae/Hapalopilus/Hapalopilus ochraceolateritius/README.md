@@ -1,5 +1,4 @@
-Hapalopilus ochraceolateritius (Bondartsev) Bondartsev & Singer SPECIES
-=======
+# Hapalopilus ochraceolateritius (Bondartsev) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

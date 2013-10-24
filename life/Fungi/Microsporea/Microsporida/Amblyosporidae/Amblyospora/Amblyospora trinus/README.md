@@ -1,5 +1,4 @@
-Amblyospora trinus J.J. Becnel & A.W. Sweeney SPECIES
-=======
+# Amblyospora trinus J.J. Becnel & A.W. Sweeney SPECIES
 
 #### Status
 ACCEPTED

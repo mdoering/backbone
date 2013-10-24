@@ -1,5 +1,4 @@
-Diderma micromegasporum C. Martín SPECIES
-=======
+# Diderma micromegasporum C. Martín SPECIES
 
 #### Status
 ACCEPTED

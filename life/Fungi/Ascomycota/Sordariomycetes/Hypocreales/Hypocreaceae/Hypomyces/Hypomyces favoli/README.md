@@ -1,5 +1,4 @@
-Hypomyces favoli Samuels, K. Põldmaa & Lodge SPECIES
-=======
+# Hypomyces favoli Samuels, K. Põldmaa & Lodge SPECIES
 
 #### Status
 ACCEPTED

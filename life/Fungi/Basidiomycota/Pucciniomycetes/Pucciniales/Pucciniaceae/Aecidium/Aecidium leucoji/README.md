@@ -1,5 +1,4 @@
-Aecidium leucoji Bergam. SPECIES
-=======
+# Aecidium leucoji Bergam. SPECIES
 
 #### Status
 ACCEPTED

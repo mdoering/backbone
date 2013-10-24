@@ -1,5 +1,4 @@
-Lecidea chionophila (Th. Fr.) Vain. SPECIES
-=======
+# Lecidea chionophila (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

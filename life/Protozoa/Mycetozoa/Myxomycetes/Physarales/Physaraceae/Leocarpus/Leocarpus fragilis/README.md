@@ -1,17 +1,16 @@
-Leocarpus fragilis var. bisporus (Nann.-Bremek. & D.W. Mitch.) D.W. Mitch. VARIETY
-=======
+# Leocarpus fragilis (Dicks.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lado, Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 53 (2001)
+Sluzowce monogr. (Paryz) 132 (1875)
 
 #### Original name
-Leocarpus bisporus Nann.-Bremek. & D.W. Mitch., 1989
+Lycoperdon fragile Dicks.
 
 ### Remarks
 null

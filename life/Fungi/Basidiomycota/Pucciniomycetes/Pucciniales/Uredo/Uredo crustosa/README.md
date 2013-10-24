@@ -1,5 +1,4 @@
-Uredo crustosa (Pers.) Berk. SPECIES
-=======
+# Uredo crustosa (Pers.) Berk. SPECIES
 
 #### Status
 ACCEPTED

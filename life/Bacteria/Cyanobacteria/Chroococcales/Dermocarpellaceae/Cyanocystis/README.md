@@ -1,5 +1,4 @@
-Cyanocystis Borzì, 1882 GENUS
-=======
+# Cyanocystis Borzì, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces trappei R. Galán & G. Moreno SPECIES
-=======
+# Elaphomyces trappei R. Galán & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

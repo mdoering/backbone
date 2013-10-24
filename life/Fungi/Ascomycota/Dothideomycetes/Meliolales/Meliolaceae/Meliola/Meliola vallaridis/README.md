@@ -1,5 +1,4 @@
-Meliola vallaridis Hosag., Sabeena, Archana & Jac. Thomas SPECIES
-=======
+# Meliola vallaridis Hosag., Sabeena, Archana & Jac. Thomas SPECIES
 
 #### Status
 ACCEPTED

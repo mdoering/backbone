@@ -1,5 +1,4 @@
-Inactis (M. Gomont) O. Kirchner in Engler & Prantl, 1898 GENUS
-=======
+# Inactis (M. Gomont) O. Kirchner in Engler & Prantl, 1898 GENUS
 
 #### Status
 ACCEPTED

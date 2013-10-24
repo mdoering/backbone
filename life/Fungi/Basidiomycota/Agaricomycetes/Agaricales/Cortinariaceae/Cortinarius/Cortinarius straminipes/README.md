@@ -1,5 +1,4 @@
-Cortinarius straminipes Murrill SPECIES
-=======
+# Cortinarius straminipes Murrill SPECIES
 
 #### Status
 ACCEPTED

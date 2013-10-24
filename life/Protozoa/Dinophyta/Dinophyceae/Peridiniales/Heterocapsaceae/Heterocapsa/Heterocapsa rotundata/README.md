@@ -1,5 +1,4 @@
-Heterocapsa rotundata (Lohmann) G. Hansen SPECIES
-=======
+# Heterocapsa rotundata (Lohmann) G. Hansen SPECIES
 
 #### Status
 ACCEPTED

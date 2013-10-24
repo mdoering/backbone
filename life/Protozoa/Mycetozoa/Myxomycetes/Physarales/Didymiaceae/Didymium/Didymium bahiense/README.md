@@ -1,17 +1,16 @@
-Didymium bahiense var. microsporum Hochg., Gottsb. & Nann.-Bremek. VARIETY
-=======
+# Didymium bahiense Gottsb., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 92(1): 78 (1989)
+Nova Hedwigia 15: 365 (1968)
 
 #### Original name
-Didymium bahiense var. microsporum Hochg., Gottsb. & Nann.-Bremek.
+Didymium bahiense Gottsb., 1968
 
 ### Remarks
 null

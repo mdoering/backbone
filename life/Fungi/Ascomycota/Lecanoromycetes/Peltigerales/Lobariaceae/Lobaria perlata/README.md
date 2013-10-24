@@ -1,5 +1,4 @@
-Lobaria perlata (Huds.) Hoffm. SPECIES
-=======
+# Lobaria perlata (Huds.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

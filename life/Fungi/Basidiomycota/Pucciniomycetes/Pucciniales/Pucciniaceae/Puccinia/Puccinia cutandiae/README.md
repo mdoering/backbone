@@ -1,5 +1,4 @@
-Puccinia cutandiae A.L. Guyot SPECIES
-=======
+# Puccinia cutandiae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

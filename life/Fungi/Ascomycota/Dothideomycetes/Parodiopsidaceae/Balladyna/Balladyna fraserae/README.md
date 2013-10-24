@@ -1,17 +1,16 @@
-Balladyna fraseri Hansf. SPECIES
-=======
+# Balladyna fraserae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 79(3/4): 100 (1954)
 
 #### Original name
-Balladyna fraseri Hansf.
+Balladyna fraserae Hansf.
 
 ### Remarks
 null

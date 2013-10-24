@@ -1,5 +1,4 @@
-Varolia P.R. Bown, 2005 GENUS
-=======
+# Varolia P.R. Bown, 2005 GENUS
 
 #### Status
 ACCEPTED

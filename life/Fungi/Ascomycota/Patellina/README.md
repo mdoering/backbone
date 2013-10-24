@@ -1,5 +1,4 @@
-Patellina Grove ex Petch, 1943 GENUS
-=======
+# Patellina Grove ex Petch, 1943 GENUS
 
 #### Status
 ACCEPTED

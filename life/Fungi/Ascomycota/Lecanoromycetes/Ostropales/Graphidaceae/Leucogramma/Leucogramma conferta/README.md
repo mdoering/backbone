@@ -1,5 +1,4 @@
-Leucogramma conferta G. Mey. SPECIES
-=======
+# Leucogramma conferta G. Mey. SPECIES
 
 #### Status
 ACCEPTED

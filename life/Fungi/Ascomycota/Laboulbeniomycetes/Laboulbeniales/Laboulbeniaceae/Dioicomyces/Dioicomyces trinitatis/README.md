@@ -1,5 +1,4 @@
-Dioicomyces trinitatis Thaxt. SPECIES
-=======
+# Dioicomyces trinitatis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

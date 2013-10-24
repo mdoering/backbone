@@ -1,5 +1,4 @@
-Tryblidaria nivalis (Bagl. & Carestia) Rehm SPECIES
-=======
+# Tryblidaria nivalis (Bagl. & Carestia) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces yurimaguasensis Henn. SPECIES
-=======
+# Uromyces yurimaguasensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naevisphaeridium plenilunium Wicander, 1974 SPECIES
-=======
+# Naevisphaeridium plenilunium Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

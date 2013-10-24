@@ -1,17 +1,16 @@
-Cercospora xanthicola Heald & F.A. Wolf SPECIES
-=======
+# Cercospora xanthiicola Heald & F.A. Wolf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(1): 20 (1911)
 
 #### Original name
-Cercospora xanthicola Heald & F.A. Wolf
+Cercospora xanthiicola Heald & F.A. Wolf
 
 ### Remarks
 null

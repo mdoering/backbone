@@ -1,8 +1,7 @@
-Dermocarpa sublitoralis A. Lindstedt SPECIES
-=======
+# Stanieria sublitoralis (Lindstedt) K. Anagnostidis & A. Pantazidou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

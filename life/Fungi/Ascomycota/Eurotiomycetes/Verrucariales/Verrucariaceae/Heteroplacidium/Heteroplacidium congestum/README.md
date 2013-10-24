@@ -1,14 +1,13 @@
-Catapyrenium congestum Breuss & McCune SPECIES
-=======
+# Heteroplacidium congestum (Breuss & McCune) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 97(4): 365 (1994)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 40 (1996)
 
 #### Original name
 Catapyrenium congestum Breuss & McCune

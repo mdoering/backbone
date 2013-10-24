@@ -1,5 +1,4 @@
-Leuconostoc kimchii Kim et al., 2000 SPECIES
-=======
+# Leuconostoc kimchii Kim et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

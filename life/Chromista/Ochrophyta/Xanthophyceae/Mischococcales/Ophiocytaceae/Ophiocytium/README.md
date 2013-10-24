@@ -1,5 +1,4 @@
-Ophiocytium Naegeli, 1849 GENUS
-=======
+# Ophiocytium Naegeli, 1849 GENUS
 
 #### Status
 ACCEPTED

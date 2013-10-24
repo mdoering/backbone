@@ -1,5 +1,4 @@
-Lecanora torrida Vain. SPECIES
-=======
+# Lecanora torrida Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosphaeria imitatrix (Berk. & Broome) Sacc. SPECIES
-=======
+# Eriosphaeria imitatrix (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

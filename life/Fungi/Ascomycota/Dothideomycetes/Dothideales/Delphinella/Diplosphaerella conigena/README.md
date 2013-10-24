@@ -1,5 +1,4 @@
-Diplosphaerella conigena (Bubák) Tomilin SPECIES
-=======
+# Diplosphaerella conigena (Bubák) Tomilin SPECIES
 
 #### Status
 ACCEPTED

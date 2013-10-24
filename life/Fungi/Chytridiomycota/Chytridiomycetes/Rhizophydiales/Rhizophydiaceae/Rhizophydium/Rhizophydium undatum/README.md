@@ -1,5 +1,4 @@
-Rhizophydium undatum Golubeva SPECIES
-=======
+# Rhizophydium undatum Golubeva SPECIES
 
 #### Status
 ACCEPTED

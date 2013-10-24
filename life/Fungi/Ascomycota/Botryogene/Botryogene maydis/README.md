@@ -1,5 +1,4 @@
-Botryogene maydis S. Ahmad SPECIES
-=======
+# Botryogene maydis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

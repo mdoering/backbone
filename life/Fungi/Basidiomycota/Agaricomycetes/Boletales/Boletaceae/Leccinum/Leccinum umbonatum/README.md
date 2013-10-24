@@ -1,5 +1,4 @@
-Leccinum umbonatum Heinem. SPECIES
-=======
+# Leccinum umbonatum Heinem. SPECIES
 
 #### Status
 ACCEPTED

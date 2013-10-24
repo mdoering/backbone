@@ -1,5 +1,4 @@
-Verrucaria borbonica Nyl. SPECIES
-=======
+# Verrucaria borbonica Nyl. SPECIES
 
 #### Status
 ACCEPTED

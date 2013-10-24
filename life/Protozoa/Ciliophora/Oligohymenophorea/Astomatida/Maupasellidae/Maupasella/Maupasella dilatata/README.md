@@ -1,5 +1,4 @@
-Maupasella dilatata Puytorac & Rakotoarivelo, 1965 SPECIES
-=======
+# Maupasella dilatata Puytorac & Rakotoarivelo, 1965 SPECIES
 
 #### Status
 ACCEPTED

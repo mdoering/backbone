@@ -1,5 +1,4 @@
-Macrodiplodina sesleriae (C. Massal.) Petr. SPECIES
-=======
+# Macrodiplodina sesleriae (C. Massal.) Petr. SPECIES
 
 #### Status
 ACCEPTED

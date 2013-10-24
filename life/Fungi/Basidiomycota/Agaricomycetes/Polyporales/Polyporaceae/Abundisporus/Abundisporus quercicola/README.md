@@ -1,5 +1,4 @@
-Abundisporus quercicola Y.C. Dai, 2002 SPECIES
-=======
+# Abundisporus quercicola Y.C. Dai, 2002 SPECIES
 
 #### Status
 ACCEPTED

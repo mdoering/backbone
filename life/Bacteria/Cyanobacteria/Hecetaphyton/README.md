@@ -1,5 +1,4 @@
-Hecetaphyton GENUS
-=======
+# Hecetaphyton GENUS
 
 #### Status
 ACCEPTED

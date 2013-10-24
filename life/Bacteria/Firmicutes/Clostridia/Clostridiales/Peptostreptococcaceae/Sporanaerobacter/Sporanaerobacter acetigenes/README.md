@@ -1,5 +1,4 @@
-Sporanaerobacter acetigenes Hernández-Eugenio et al., 2002 SPECIES
-=======
+# Sporanaerobacter acetigenes Hernández-Eugenio et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

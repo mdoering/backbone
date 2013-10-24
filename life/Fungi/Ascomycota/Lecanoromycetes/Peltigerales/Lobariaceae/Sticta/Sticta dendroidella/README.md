@@ -1,5 +1,4 @@
-Sticta dendroidella SPECIES
-=======
+# Sticta dendroidella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poculum nucicola Dumont SPECIES
-=======
+# Poculum nucicola Dumont SPECIES
 
 #### Status
 ACCEPTED

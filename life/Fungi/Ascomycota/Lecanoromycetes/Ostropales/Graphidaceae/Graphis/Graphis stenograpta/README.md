@@ -1,5 +1,4 @@
-Graphis stenograpta Müll. Arg. SPECIES
-=======
+# Graphis stenograpta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

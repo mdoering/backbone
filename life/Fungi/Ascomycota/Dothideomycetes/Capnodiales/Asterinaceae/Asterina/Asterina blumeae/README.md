@@ -1,5 +1,4 @@
-Asterina blumeae A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina blumeae A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
 ACCEPTED

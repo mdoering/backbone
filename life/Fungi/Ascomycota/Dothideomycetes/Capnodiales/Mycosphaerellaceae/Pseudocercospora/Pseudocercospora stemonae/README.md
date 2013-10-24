@@ -1,5 +1,4 @@
-Pseudocercospora stemonae (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora stemonae (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum cordylines Pollacci SPECIES
-=======
+# Colletotrichum cordylines Pollacci SPECIES
 
 #### Status
 ACCEPTED

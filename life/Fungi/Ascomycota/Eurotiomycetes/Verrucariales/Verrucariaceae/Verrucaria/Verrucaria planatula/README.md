@@ -1,5 +1,4 @@
-Verrucaria planatula Nyl. SPECIES
-=======
+# Verrucaria planatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

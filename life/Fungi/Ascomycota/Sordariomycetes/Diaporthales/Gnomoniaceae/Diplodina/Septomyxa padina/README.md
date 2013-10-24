@@ -1,5 +1,4 @@
-Septomyxa padina Allesch. SPECIES
-=======
+# Septomyxa padina Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia olivacea var. olivacea (Dufour) Clauzade VARIETY
-=======
+# Toninia olivacea (Dufour) Clauzade SPECIES
 
 #### Status
 ACCEPTED

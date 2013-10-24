@@ -1,17 +1,16 @@
-Puccinia erigerontis-elongatae Y.Z. Wang & S.J. Han SPECIES
-=======
+# Puccinia erigerontis-elongati Y.Z. Wang & S.J. Han SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Han, Wei & Guo, Acta microbiol. sin. 20(1): 20 (1980)
 
 #### Original name
-Puccinia erigerontis-elongatae Y.Z. Wang & S.J. Han
+Puccinia erigerontis-elongati Y.Z. Wang & S.J. Han
 
 ### Remarks
 null

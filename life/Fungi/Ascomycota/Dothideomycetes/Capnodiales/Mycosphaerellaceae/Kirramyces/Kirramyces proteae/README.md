@@ -1,5 +1,4 @@
-Kirramyces proteae B. Sutton SPECIES
-=======
+# Kirramyces proteae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

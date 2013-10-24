@@ -1,5 +1,4 @@
-Merulius nivosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Merulius nivosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

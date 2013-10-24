@@ -1,5 +1,4 @@
-Lophium granulosum P. Crouan & H. Crouan SPECIES
-=======
+# Lophium granulosum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

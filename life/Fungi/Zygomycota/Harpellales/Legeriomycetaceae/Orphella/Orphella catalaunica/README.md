@@ -1,5 +1,4 @@
-Orphella catalaunica Santam. & Girbal, 1998 SPECIES
-=======
+# Orphella catalaunica Santam. & Girbal, 1998 SPECIES
 
 #### Status
 ACCEPTED

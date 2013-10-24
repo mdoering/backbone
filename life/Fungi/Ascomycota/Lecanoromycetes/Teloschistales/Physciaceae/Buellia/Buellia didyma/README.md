@@ -1,5 +1,4 @@
-Buellia didyma Vain. SPECIES
-=======
+# Buellia didyma Vain. SPECIES
 
 #### Status
 ACCEPTED

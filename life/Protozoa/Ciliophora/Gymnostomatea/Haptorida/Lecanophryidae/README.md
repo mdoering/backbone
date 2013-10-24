@@ -1,5 +1,4 @@
-Lecanophryidae Jankowksi, 1973 FAMILY
-=======
+# Lecanophryidae Jankowksi, 1973 FAMILY
 
 #### Status
 ACCEPTED

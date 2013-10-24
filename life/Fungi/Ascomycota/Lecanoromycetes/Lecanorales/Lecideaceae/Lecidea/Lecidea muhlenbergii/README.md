@@ -1,8 +1,7 @@
-Lecidea muehlenbergii (Ach.) Spreng. SPECIES
-=======
+# Lecidea muhlenbergii (Ach.) Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Usnea naumanni Müll. Arg. SPECIES
-=======
+# Usnea naumanni Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota citrinella var. citrinella VARIETY
-=======
+# Lepiota citrinella Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 64: 215 (1932)
 
 #### Original name
-Lepiota citrinella var. citrinella
+Lepiota citrinella Beeli
 
 ### Remarks
 null

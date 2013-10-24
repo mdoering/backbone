@@ -1,5 +1,4 @@
-Hypholoma comaropsis Mont. SPECIES
-=======
+# Hypholoma comaropsis Mont. SPECIES
 
 #### Status
 ACCEPTED

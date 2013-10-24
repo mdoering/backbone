@@ -1,5 +1,4 @@
-Faucispora Baudoin, 1967 GENUS
-=======
+# Faucispora Baudoin, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllerites palaeocarpini (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites palaeocarpini (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

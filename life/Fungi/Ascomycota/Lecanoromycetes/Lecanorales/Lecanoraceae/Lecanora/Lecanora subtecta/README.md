@@ -1,5 +1,4 @@
-Lecanora subtecta (Stirt.) Kantvilas & La Greca SPECIES
-=======
+# Lecanora subtecta (Stirt.) Kantvilas & La Greca SPECIES
 
 #### Status
 ACCEPTED

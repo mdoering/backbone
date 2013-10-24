@@ -1,5 +1,4 @@
-Gyrodinium antarcticum Hasle, 1960 SPECIES
-=======
+# Gyrodinium antarcticum Hasle, 1960 SPECIES
 
 #### Status
 ACCEPTED

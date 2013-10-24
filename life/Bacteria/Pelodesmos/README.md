@@ -1,5 +1,4 @@
-Pelodesmos Kol GENUS
-=======
+# Pelodesmos Kol GENUS
 
 #### Status
 ACCEPTED

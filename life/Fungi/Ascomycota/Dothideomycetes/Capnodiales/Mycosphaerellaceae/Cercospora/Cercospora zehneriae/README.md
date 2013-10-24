@@ -1,5 +1,4 @@
-Cercospora zehneriae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora zehneriae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

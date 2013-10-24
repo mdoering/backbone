@@ -1,17 +1,16 @@
-Puccinia zopfii G. Winter, 1880 SPECIES
-=======
+# Puccinia calthicola J. Schröt., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 19: 39 (1880)
+in Cohn, Beitr. Biol. Pfl. 3: 61 (1879)
 
 #### Original name
-Puccinia zopfii G. Winter, 1880
+Puccinia calthicola J. Schröt., 1879
 
 ### Remarks
 null

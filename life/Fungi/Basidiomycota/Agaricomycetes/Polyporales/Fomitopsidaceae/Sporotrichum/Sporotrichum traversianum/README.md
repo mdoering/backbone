@@ -1,5 +1,4 @@
-Sporotrichum traversianum Pasin. & Buzz.-Trav. SPECIES
-=======
+# Sporotrichum traversianum Pasin. & Buzz.-Trav. SPECIES
 
 #### Status
 ACCEPTED

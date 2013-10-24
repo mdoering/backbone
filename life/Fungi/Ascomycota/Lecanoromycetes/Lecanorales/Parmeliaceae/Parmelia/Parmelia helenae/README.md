@@ -1,5 +1,4 @@
-Parmelia helenae B. de Lesd. SPECIES
-=======
+# Parmelia helenae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

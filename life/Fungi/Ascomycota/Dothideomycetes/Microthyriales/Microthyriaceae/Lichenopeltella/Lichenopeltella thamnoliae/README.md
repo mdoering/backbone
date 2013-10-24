@@ -1,5 +1,4 @@
-Lichenopeltella thamnoliae R. Sant. SPECIES
-=======
+# Lichenopeltella thamnoliae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

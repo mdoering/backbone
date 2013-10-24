@@ -1,5 +1,4 @@
-Agaricus setiger Fr. SPECIES
-=======
+# Agaricus setiger Fr. SPECIES
 
 #### Status
 ACCEPTED

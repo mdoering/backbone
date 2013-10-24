@@ -1,5 +1,4 @@
-Diplococcium resinae (Corda) Sacc. SPECIES
-=======
+# Diplococcium resinae (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostomides trinucleatus Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Condylostomides trinucleatus Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria pterocelastri Doidge SPECIES
-=======
+# Leptosphaeria pterocelastri Doidge SPECIES
 
 #### Status
 ACCEPTED

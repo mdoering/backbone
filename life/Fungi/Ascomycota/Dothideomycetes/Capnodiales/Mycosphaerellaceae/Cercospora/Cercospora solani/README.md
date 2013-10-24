@@ -1,14 +1,13 @@
-Cercospora solani subsp. feuilleauboisii Sacc. SUBSPECIES
-=======
+# Cercospora solani Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 449 (1886)
+Hedwigia 19: 135 (1880)
 
 #### Original name
 Cercospora solani Thüm., 1880

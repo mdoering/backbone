@@ -1,5 +1,4 @@
-Scleroderma dugesii De Seynes SPECIES
-=======
+# Scleroderma dugesii De Seynes SPECIES
 
 #### Status
 ACCEPTED

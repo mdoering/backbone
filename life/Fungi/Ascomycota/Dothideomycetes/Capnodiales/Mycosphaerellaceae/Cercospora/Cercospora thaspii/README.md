@@ -1,5 +1,4 @@
-Cercospora thaspii Ellis & Everh. SPECIES
-=======
+# Cercospora thaspii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

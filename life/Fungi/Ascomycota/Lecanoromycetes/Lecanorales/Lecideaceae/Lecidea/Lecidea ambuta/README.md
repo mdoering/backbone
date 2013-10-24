@@ -1,5 +1,4 @@
-Lecidea ambuta Stizenb. SPECIES
-=======
+# Lecidea ambuta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

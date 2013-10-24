@@ -1,5 +1,4 @@
-Peckiella vuilleminiana (Maire) Sacc. & P. Syd. SPECIES
-=======
+# Peckiella vuilleminiana (Maire) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

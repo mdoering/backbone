@@ -1,5 +1,4 @@
-Uredo phyllanthi-longofolii Petch SPECIES
-=======
+# Uredo phyllanthi-longofolii Petch SPECIES
 
 #### Status
 ACCEPTED

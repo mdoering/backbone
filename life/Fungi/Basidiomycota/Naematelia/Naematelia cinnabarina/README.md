@@ -1,5 +1,4 @@
-Naematelia cinnabarina Mont. SPECIES
-=======
+# Naematelia cinnabarina Mont. SPECIES
 
 #### Status
 ACCEPTED

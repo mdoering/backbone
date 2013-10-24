@@ -1,5 +1,4 @@
-Diploschistes steineri Szatala SPECIES
-=======
+# Diploschistes steineri Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium obtusoangulatum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium obtusoangulatum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

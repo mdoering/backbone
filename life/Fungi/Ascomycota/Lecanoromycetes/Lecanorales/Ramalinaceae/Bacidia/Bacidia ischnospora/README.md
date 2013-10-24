@@ -1,5 +1,4 @@
-Bacidia ischnospora (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia ischnospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

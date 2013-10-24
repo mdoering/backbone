@@ -1,14 +1,13 @@
-Boletus corsicus Rolland, 1896 SPECIES
-=======
+# Leccinellum corsicum (Rolland) Bresinsky & Manfr. Binder, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 12: (1896)
+Regensb. Mykol. Schr. 11: 232 (2003)
 
 #### Original name
 Boletus corsicus Rolland, 1896

@@ -1,5 +1,4 @@
-Gloeosporium victoriense D. Sacc. SPECIES
-=======
+# Gloeosporium victoriense D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina xanthi Picb. SPECIES
-=======
+# Diplodina xanthi Picb. SPECIES
 
 #### Status
 ACCEPTED

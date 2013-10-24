@@ -1,5 +1,4 @@
-Aschersonia badia Pat. SPECIES
-=======
+# Aschersonia badia Pat. SPECIES
 
 #### Status
 ACCEPTED

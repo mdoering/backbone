@@ -1,5 +1,4 @@
-Synchytrium petersenii (Scherff.) Karling SPECIES
-=======
+# Synchytrium petersenii (Scherff.) Karling SPECIES
 
 #### Status
 ACCEPTED

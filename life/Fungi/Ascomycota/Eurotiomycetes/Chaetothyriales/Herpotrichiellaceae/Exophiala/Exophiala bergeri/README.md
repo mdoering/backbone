@@ -1,5 +1,4 @@
-Exophiala bergeri Haase & de Hoog SPECIES
-=======
+# Exophiala bergeri Haase & de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma irregulare C.S. Parker SPECIES
-=======
+# Hypholoma irregulare C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

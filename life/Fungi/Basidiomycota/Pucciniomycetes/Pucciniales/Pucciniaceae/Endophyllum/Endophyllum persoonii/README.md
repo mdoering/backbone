@@ -1,5 +1,4 @@
-Endophyllum persoonii Lév., 1825 SPECIES
-=======
+# Endophyllum persoonii Lév., 1825 SPECIES
 
 #### Status
 ACCEPTED

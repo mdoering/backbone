@@ -1,5 +1,4 @@
-Dermatocarpon kansuense H. Magn. SPECIES
-=======
+# Dermatocarpon kansuense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

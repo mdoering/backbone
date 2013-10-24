@@ -1,5 +1,4 @@
-Ropalospora chlorantha (Tuck.) S. Ekman SPECIES
-=======
+# Ropalospora chlorantha (Tuck.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

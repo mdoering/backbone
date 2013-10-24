@@ -1,5 +1,4 @@
-Retiboletus vinaceipes B. Ortiz, Lodge & T.J. Baroni, 2007 SPECIES
-=======
+# Retiboletus vinaceipes B. Ortiz, Lodge & T.J. Baroni, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula fagi Oudem. SPECIES
-=======
+# Discula fagi Oudem. SPECIES
 
 #### Status
 ACCEPTED

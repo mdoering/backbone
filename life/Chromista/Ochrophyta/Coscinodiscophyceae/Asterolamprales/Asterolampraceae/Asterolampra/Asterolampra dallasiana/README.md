@@ -1,5 +1,4 @@
-Asterolampra dallasiana Greville, 1860 SPECIES
-=======
+# Asterolampra dallasiana Greville, 1860 SPECIES
 
 #### Status
 ACCEPTED

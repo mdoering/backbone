@@ -1,5 +1,4 @@
-Hypothele calicioides Ellis & Everh. SPECIES
-=======
+# Hypothele calicioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium sigmoideum subsp. sigmoideum SUBSPECIES
-=======
+# Magnaporthe salvinii (Catt.) R.A. Krause & R.K. Webster, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 64(1): 110 (1972)
 
 #### Original name
-null
+Leptosphaeria salvinii Catt., 1879
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dothiorella kanoorii Subhedar & V.G. Rao SPECIES
-=======
+# Dothiorella kanoorii Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea repanda Mont. SPECIES
-=======
+# Daedalea repanda Mont. SPECIES
 
 #### Status
 ACCEPTED

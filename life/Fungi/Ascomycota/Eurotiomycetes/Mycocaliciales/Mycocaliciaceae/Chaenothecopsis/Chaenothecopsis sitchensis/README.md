@@ -1,5 +1,4 @@
-Chaenothecopsis sitchensis Rikkinen SPECIES
-=======
+# Chaenothecopsis sitchensis Rikkinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Peziza theleboloides var. rubra (Cooke) Cooke, 1875 VARIETY
-=======
+# Cheilymenia rubra (Roum.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

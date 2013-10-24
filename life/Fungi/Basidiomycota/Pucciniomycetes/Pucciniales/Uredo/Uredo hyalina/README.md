@@ -1,5 +1,4 @@
-Uredo hyalina Dietel SPECIES
-=======
+# Uredo hyalina Dietel SPECIES
 
 #### Status
 ACCEPTED

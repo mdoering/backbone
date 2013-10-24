@@ -1,5 +1,4 @@
-Urocystis galanthi H. Pape SPECIES
-=======
+# Urocystis galanthi H. Pape SPECIES
 
 #### Status
 ACCEPTED

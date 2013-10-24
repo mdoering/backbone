@@ -1,5 +1,4 @@
-Marasmius chiapasensis Singer SPECIES
-=======
+# Marasmius chiapasensis Singer SPECIES
 
 #### Status
 ACCEPTED

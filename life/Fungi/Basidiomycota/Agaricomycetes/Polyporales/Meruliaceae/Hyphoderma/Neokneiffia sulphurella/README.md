@@ -1,5 +1,4 @@
-Neokneiffia sulphurella Rick SPECIES
-=======
+# Neokneiffia sulphurella Rick SPECIES
 
 #### Status
 ACCEPTED

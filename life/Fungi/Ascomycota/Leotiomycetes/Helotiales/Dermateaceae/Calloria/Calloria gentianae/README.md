@@ -1,5 +1,4 @@
-Calloria gentianae Grelet & Croz. SPECIES
-=======
+# Calloria gentianae Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma scrophularina P. Karst. SPECIES
-=======
+# Phoma scrophularina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

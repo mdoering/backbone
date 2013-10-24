@@ -1,5 +1,4 @@
-Pleurotus fossulatus Cooke SPECIES
-=======
+# Pleurotus fossulatus Cooke SPECIES
 
 #### Status
 ACCEPTED

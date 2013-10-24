@@ -1,5 +1,4 @@
-Collybia inorata Pat. SPECIES
-=======
+# Collybia inorata Pat. SPECIES
 
 #### Status
 ACCEPTED

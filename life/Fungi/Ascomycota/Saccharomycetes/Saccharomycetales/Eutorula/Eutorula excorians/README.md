@@ -1,5 +1,4 @@
-Eutorula excorians Kesteven SPECIES
-=======
+# Eutorula excorians Kesteven SPECIES
 
 #### Status
 ACCEPTED

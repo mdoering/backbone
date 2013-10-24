@@ -1,5 +1,4 @@
-Clonostachys divergens Schroers SPECIES
-=======
+# Clonostachys divergens Schroers SPECIES
 
 #### Status
 ACCEPTED

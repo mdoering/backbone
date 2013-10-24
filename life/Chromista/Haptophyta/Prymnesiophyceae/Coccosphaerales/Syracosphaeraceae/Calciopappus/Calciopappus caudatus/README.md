@@ -1,5 +1,4 @@
-Calciopappus caudatus Gaarder & Ramsfjell SPECIES
-=======
+# Calciopappus caudatus Gaarder & Ramsfjell SPECIES
 
 #### Status
 ACCEPTED

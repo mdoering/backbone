@@ -1,5 +1,4 @@
-Thyridium asserculorum (G.H. Otth) Sacc. SPECIES
-=======
+# Thyridium asserculorum (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

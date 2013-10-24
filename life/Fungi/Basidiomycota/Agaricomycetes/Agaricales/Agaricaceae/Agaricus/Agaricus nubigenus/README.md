@@ -1,5 +1,4 @@
-Agaricus nubigenus Berk. SPECIES
-=======
+# Agaricus nubigenus Berk. SPECIES
 
 #### Status
 ACCEPTED

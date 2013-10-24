@@ -1,5 +1,4 @@
-Coniothyrium berberidis-vulgaris (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium berberidis-vulgaris (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

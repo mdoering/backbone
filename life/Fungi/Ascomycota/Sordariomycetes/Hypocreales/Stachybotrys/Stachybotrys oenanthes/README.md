@@ -1,5 +1,4 @@
-Stachybotrys oenanthes M.B. Ellis, 1971 SPECIES
-=======
+# Stachybotrys oenanthes M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

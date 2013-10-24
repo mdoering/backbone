@@ -1,5 +1,4 @@
-Phaeosphaeria moravica Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria moravica Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

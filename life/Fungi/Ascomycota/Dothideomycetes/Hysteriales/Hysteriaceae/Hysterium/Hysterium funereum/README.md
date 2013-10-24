@@ -1,5 +1,4 @@
-Hysterium funereum De Not. SPECIES
-=======
+# Hysterium funereum De Not. SPECIES
 
 #### Status
 ACCEPTED

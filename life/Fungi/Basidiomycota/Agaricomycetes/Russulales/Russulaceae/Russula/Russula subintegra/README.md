@@ -1,5 +1,4 @@
-Russula subintegra J. Blum ex Bon SPECIES
-=======
+# Russula subintegra J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

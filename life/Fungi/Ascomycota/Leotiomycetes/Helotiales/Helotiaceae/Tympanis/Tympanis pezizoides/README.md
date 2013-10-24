@@ -1,5 +1,4 @@
-Tympanis pezizoides Rabenh. SPECIES
-=======
+# Tympanis pezizoides Rabenh. SPECIES
 
 #### Status
 ACCEPTED

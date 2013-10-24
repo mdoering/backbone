@@ -1,5 +1,4 @@
-Eutypa quercicola Rappaz, 1987 SPECIES
-=======
+# Eutypa quercicola Rappaz, 1987 SPECIES
 
 #### Status
 ACCEPTED

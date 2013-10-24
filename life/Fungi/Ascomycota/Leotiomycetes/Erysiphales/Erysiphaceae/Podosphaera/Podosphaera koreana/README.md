@@ -1,5 +1,4 @@
-Podosphaera koreana (H.D. Shin & U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera koreana (H.D. Shin & U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo oenanthes Dietel SPECIES
-=======
+# Uredo oenanthes Dietel SPECIES
 
 #### Status
 ACCEPTED

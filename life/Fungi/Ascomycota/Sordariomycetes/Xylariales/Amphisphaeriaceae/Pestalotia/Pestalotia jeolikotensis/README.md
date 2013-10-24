@@ -1,5 +1,4 @@
-Pestalotia jeolikotensis S.K. Bose SPECIES
-=======
+# Pestalotia jeolikotensis S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

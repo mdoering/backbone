@@ -1,5 +1,4 @@
-Pestalotiopsis podocarpi (Dennis) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis podocarpi (Dennis) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

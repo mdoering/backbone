@@ -1,5 +1,4 @@
-Uredo arthraxonis-ciliaris Henn. SPECIES
-=======
+# Uredo arthraxonis-ciliaris Henn. SPECIES
 
 #### Status
 ACCEPTED

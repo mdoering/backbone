@@ -1,5 +1,4 @@
-Lecidea comorensis (Zahlbr.) Hue SPECIES
-=======
+# Lecidea comorensis (Zahlbr.) Hue SPECIES
 
 #### Status
 ACCEPTED

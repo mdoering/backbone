@@ -1,5 +1,4 @@
-Ceratocladium purpureogriseum B. Sutton SPECIES
-=======
+# Ceratocladium purpureogriseum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

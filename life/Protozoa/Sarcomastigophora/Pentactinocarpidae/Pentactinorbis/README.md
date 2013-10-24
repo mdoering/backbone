@@ -1,5 +1,4 @@
-Pentactinorbis Dumitrica, 1978 GENUS
-=======
+# Pentactinorbis Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

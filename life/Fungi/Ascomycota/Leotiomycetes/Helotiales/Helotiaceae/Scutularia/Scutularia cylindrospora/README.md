@@ -1,5 +1,4 @@
-Scutularia cylindrospora (Ellis) Sacc. SPECIES
-=======
+# Scutularia cylindrospora (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

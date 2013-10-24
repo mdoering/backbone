@@ -1,5 +1,4 @@
-Ramularia sonchi Dominik SPECIES
-=======
+# Ramularia sonchi Dominik SPECIES
 
 #### Status
 ACCEPTED

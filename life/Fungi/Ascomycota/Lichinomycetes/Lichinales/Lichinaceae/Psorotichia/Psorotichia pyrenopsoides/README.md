@@ -1,14 +1,13 @@
-Collema pyrenopsoides (Nyl.) Nyl. SPECIES
-=======
+# Psorotichia pyrenopsoides (Nyl.) Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 13: 77 (1885)
 
 #### Original name
 Lecanora pyrenopsoides Nyl.

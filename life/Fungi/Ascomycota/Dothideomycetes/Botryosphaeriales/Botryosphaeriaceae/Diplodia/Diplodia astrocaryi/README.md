@@ -1,5 +1,4 @@
-Diplodia astrocaryi Henn. SPECIES
-=======
+# Diplodia astrocaryi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramoeba eilhardi Schaudinn, 1896 SPECIES
-=======
+# Paramoeba eilhardi Schaudinn, 1896 SPECIES
 
 #### Status
 ACCEPTED

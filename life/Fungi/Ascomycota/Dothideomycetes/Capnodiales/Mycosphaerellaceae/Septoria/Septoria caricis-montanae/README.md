@@ -1,5 +1,4 @@
-Septoria caricis-montanae Vestergr. SPECIES
-=======
+# Septoria caricis-montanae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

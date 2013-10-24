@@ -1,5 +1,4 @@
-Paratomenticola M.B. Ellis GENUS
-=======
+# Paratomenticola M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

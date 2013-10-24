@@ -1,5 +1,4 @@
-Hypoxylon gothrinum (Berk. & Broome) P.M.D. Martin SPECIES
-=======
+# Hypoxylon gothrinum (Berk. & Broome) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

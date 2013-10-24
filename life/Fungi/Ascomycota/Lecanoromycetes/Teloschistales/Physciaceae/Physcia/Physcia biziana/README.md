@@ -1,17 +1,16 @@
-Physcia biziana var. biziana VARIETY
-=======
+# Physcia biziana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 51: 349 (1901)
 
 #### Original name
-Physcia biziana var. biziana
+Squamaria biziana A. Massal.
 
 ### Remarks
 null

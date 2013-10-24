@@ -1,5 +1,4 @@
-Leiovalia scaberula Loeblich & Tappan, 1978 SPECIES
-=======
+# Leiovalia scaberula Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanographa longicarpa Egea, Sérus., Torrente & Wessels SPECIES
-=======
+# Lecanographa longicarpa Egea, Sérus., Torrente & Wessels SPECIES
 
 #### Status
 ACCEPTED

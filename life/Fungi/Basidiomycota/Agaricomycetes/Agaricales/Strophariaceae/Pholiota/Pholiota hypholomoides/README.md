@@ -1,5 +1,4 @@
-Pholiota hypholomoides (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota hypholomoides (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

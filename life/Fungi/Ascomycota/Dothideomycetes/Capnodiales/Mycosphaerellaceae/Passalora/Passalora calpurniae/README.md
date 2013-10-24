@@ -1,5 +1,4 @@
-Passalora calpurniae (Petch) U. Braun & Crous SPECIES
-=======
+# Passalora calpurniae (Petch) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

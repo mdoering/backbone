@@ -1,5 +1,4 @@
-Phoma jasminicola G.P. Agarwal & V.P. Sahni SPECIES
-=======
+# Phoma jasminicola G.P. Agarwal & V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

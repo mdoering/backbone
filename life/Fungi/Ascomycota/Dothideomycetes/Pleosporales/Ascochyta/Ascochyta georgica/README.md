@@ -1,5 +1,4 @@
-Ascochyta georgica Melnik SPECIES
-=======
+# Ascochyta georgica Melnik SPECIES
 
 #### Status
 ACCEPTED

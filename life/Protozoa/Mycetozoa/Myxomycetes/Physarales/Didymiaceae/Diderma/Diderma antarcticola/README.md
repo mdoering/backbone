@@ -1,5 +1,4 @@
-Diderma antarcticola E. Horak, 1966 SPECIES
-=======
+# Diderma antarcticola E. Horak, 1966 SPECIES
 
 #### Status
 ACCEPTED

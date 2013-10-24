@@ -1,5 +1,4 @@
-Thalloidima triste (Th. Fr.) Vain. SPECIES
-=======
+# Thalloidima triste (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

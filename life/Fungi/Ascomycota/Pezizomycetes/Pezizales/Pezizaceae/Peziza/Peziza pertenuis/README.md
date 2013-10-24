@@ -1,5 +1,4 @@
-Peziza pertenuis Sacc. SPECIES
-=======
+# Peziza pertenuis Sacc. SPECIES
 
 #### Status
 ACCEPTED

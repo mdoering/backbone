@@ -1,14 +1,13 @@
-Entoloma hirtum var. dysthaloides (Noordel.) Krieglst., 2003 VARIETY
-=======
+# Entoloma dysthaloides Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Großpilze Baden-Württembergs (Stuttgart), <b>4</b>. Ständerpilze: Blätterpilze II 443 (2003)
+Persoonia 10(2): 219 (1979)
 
 #### Original name
 Entoloma dysthaloides Noordel., 1979

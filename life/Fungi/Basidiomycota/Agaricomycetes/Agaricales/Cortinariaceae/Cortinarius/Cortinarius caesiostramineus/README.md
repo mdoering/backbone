@@ -1,17 +1,16 @@
-Phlegmacium caesiostramineum var. caesiostramineum VARIETY
-=======
+# Cortinarius caesiostramineus Rob. Henry, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 55(1): 73 (1939)
 
 #### Original name
-Phlegmacium caesiostramineum var. caesiostramineum
+Cortinarius caesiostramineus Rob. Henry, 1939
 
 ### Remarks
 null

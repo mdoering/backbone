@@ -1,5 +1,4 @@
-Pilatoporus maroccanus Kotl. & Pouzar SPECIES
-=======
+# Pilatoporus maroccanus Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus pulchellus Hongo SPECIES
-=======
+# Rhodophyllus pulchellus Hongo SPECIES
 
 #### Status
 ACCEPTED

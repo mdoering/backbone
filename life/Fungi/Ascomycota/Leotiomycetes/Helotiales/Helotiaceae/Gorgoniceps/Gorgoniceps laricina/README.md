@@ -1,5 +1,4 @@
-Gorgoniceps laricina Velen. SPECIES
-=======
+# Gorgoniceps laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

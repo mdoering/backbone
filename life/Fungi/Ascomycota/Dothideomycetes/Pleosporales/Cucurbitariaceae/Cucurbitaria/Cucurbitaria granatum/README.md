@@ -1,5 +1,4 @@
-Cucurbitaria granatum (Wallr.) Kuntze SPECIES
-=======
+# Cucurbitaria granatum (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

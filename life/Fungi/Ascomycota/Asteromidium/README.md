@@ -1,17 +1,16 @@
-Asterostomidium Lindau GENUS
-=======
+# Asteromidium Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26: 66 (1888)
 
 #### Original name
-Asterostomidium Lindau
+Asteromidium Speg.
 
 ### Remarks
 null

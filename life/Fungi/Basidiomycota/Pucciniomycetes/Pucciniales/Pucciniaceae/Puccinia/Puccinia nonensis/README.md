@@ -1,5 +1,4 @@
-Puccinia nonensis Henn. SPECIES
-=======
+# Puccinia nonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

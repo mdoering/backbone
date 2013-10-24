@@ -1,5 +1,4 @@
-Didymium nigrum Krzemien. SPECIES
-=======
+# Didymium nigrum Krzemien. SPECIES
 
 #### Status
 ACCEPTED

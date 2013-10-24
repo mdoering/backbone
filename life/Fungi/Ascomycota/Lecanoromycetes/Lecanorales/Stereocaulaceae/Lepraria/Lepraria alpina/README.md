@@ -1,5 +1,4 @@
-Lepraria alpina var. alpina (B. de Lesd.) Tretiach & Baruffo VARIETY
-=======
+# Lepraria alpina (B. de Lesd.) Tretiach & Baruffo SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Baruffo, Zedda, Elix & Tretiach, Nova Hedwigia 83(3-4): 390 (2006)
 
 #### Original name
-null
+Crocynia alpina B. de Lesd.
 
 ### Remarks
 null

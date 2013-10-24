@@ -1,14 +1,13 @@
-Sigmomorpha Cushman & Ozawa, 1928 GENUS
-=======
+# Guttulina d'Orbigny in Sagra, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sagra, Cuba (Foram. ), 133.
 
 #### Original name
 null

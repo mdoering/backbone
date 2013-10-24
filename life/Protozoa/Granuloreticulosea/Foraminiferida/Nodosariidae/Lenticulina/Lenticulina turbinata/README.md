@@ -1,5 +1,4 @@
-Lenticulina turbinata (Plummer) SPECIES
-=======
+# Lenticulina turbinata (Plummer) SPECIES
 
 #### Status
 ACCEPTED

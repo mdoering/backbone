@@ -1,5 +1,4 @@
-Herpetosiphonales ORDER
-=======
+# Herpetosiphonales ORDER
 
 #### Status
 ACCEPTED

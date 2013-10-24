@@ -1,5 +1,4 @@
-Puccinia amphistelmae Henn. SPECIES
-=======
+# Puccinia amphistelmae Henn. SPECIES
 
 #### Status
 ACCEPTED

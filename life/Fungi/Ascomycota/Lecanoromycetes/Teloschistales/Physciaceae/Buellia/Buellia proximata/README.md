@@ -1,5 +1,4 @@
-Buellia proximata H. Magn. SPECIES
-=======
+# Buellia proximata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

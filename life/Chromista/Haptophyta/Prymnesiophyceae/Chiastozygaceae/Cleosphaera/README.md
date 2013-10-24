@@ -1,5 +1,4 @@
-Cleosphaera Janofska, 1987 GENUS
-=======
+# Cleosphaera Janofska, 1987 GENUS
 
 #### Status
 ACCEPTED

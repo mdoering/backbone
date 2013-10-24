@@ -1,17 +1,16 @@
-Cortinarius urbicus var. arvalis (P. Karst.) Consiglio, D. Antonini & M. Antonini VARIETY
-=======
+# Cortinarius urbicus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Il Genere Cortinarius in Italia 3: C169 (2005)
+Epicr. syst. mycol. (Upsaliae) 293 (1838)
 
 #### Original name
-Cortinarius urbicus subsp. arvalis P. Karst.
+Agaricus urbicus Fr., 1821
 
 ### Remarks
 null

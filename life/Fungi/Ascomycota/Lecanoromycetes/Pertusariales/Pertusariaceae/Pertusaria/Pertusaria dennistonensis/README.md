@@ -1,5 +1,4 @@
-Pertusaria dennistonensis Elix & A. W. Archer SPECIES
-=======
+# Pertusaria dennistonensis Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

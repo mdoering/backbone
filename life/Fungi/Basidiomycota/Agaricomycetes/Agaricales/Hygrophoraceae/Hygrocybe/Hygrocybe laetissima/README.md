@@ -1,5 +1,4 @@
-Hygrocybe laetissima (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Hygrocybe laetissima (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

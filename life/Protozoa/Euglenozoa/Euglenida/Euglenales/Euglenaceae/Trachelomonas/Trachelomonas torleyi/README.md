@@ -1,5 +1,4 @@
-Trachelomonas torleyi Conrad SPECIES
-=======
+# Trachelomonas torleyi Conrad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymaria spissa Harkn. SPECIES
-=======
+# Didymaria spissa Harkn. SPECIES
 
 #### Status
 ACCEPTED

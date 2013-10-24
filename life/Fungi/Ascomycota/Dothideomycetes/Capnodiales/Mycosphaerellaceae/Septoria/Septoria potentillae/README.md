@@ -1,5 +1,4 @@
-Septoria potentillae Hollós, 1926 SPECIES
-=======
+# Septoria potentillae Hollós, 1926 SPECIES
 
 #### Status
 ACCEPTED

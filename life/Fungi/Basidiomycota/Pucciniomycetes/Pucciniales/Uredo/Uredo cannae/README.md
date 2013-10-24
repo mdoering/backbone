@@ -1,5 +1,4 @@
-Uredo cannae G. Winter SPECIES
-=======
+# Uredo cannae G. Winter SPECIES
 
 #### Status
 ACCEPTED

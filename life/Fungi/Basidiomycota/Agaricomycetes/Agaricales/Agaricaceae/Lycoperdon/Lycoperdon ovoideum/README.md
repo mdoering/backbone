@@ -1,5 +1,4 @@
-Lycoperdon ovoideum Bull. SPECIES
-=======
+# Lycoperdon ovoideum Bull. SPECIES
 
 #### Status
 ACCEPTED

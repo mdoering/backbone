@@ -1,5 +1,4 @@
-Anaerofilum Zellner, Stackebrandt, Nagel, Messner, Weiss & Winter, 1996 GENUS
-=======
+# Anaerofilum Zellner, Stackebrandt, Nagel, Messner, Weiss & Winter, 1996 GENUS
 
 #### Status
 ACCEPTED

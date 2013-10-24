@@ -1,17 +1,16 @@
-Stemonitis ovata var. atrofusca Alb. & Schwein. VARIETY
-=======
+# Comatricha nigra (Pers. ex J.F. Gmel.) J. Schröt., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 104 (1805)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 118 (1885)
 
 #### Original name
-Stemonitis ovata var. atrofusca Alb. & Schwein.
+Stemonitis atrofusca Pers., 1794
 
 ### Remarks
 null

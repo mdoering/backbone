@@ -1,5 +1,4 @@
-Micrococcus albicans SPECIES
-=======
+# Micrococcus albicans SPECIES
 
 #### Status
 ACCEPTED

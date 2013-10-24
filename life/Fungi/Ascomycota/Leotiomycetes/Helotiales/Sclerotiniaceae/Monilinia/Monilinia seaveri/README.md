@@ -1,14 +1,13 @@
-Sclerotinia seaveri Rehm, 1906 SPECIES
-=======
+# Monilinia seaveri (Rehm) Honey, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3: 519 (1905)
+Am. J. Bot. 23: 105 (1936)
 
 #### Original name
 Sclerotinia seaveri Rehm, 1906

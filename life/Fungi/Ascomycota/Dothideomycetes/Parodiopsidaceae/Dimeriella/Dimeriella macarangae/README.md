@@ -1,5 +1,4 @@
-Dimeriella macarangae Hansf. SPECIES
-=======
+# Dimeriella macarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED

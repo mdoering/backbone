@@ -1,5 +1,4 @@
-Cercospora cordylines Speg. SPECIES
-=======
+# Cercospora cordylines Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis triphoroides Nyl. SPECIES
-=======
+# Graphis triphoroides Nyl. SPECIES
 
 #### Status
 ACCEPTED

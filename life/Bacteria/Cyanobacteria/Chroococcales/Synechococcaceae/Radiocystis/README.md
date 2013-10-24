@@ -1,5 +1,4 @@
-Radiocystis Skuja, 1948 GENUS
-=======
+# Radiocystis Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

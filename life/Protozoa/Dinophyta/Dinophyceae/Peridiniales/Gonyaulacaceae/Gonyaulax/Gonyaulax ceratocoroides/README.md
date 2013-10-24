@@ -1,5 +1,4 @@
-Gonyaulax ceratocoroides Kofoid, 1910 SPECIES
-=======
+# Gonyaulax ceratocoroides Kofoid, 1910 SPECIES
 
 #### Status
 ACCEPTED

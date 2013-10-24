@@ -1,5 +1,4 @@
-Stenella queenslandica Arzanlou & Crous SPECIES
-=======
+# Stenella queenslandica Arzanlou & Crous SPECIES
 
 #### Status
 ACCEPTED

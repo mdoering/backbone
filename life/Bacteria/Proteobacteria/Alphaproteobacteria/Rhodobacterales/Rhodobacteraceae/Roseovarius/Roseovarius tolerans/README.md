@@ -1,5 +1,4 @@
-Roseovarius tolerans Labrenz et al., 1999 SPECIES
-=======
+# Roseovarius tolerans Labrenz et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimorphomyces pygosteni Thaxt. SPECIES
-=======
+# Dimorphomyces pygosteni Thaxt. SPECIES
 
 #### Status
 ACCEPTED

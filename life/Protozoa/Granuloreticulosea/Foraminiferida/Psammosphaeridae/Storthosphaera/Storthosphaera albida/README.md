@@ -1,5 +1,4 @@
-Storthosphaera albida Schulze, 1875 SPECIES
-=======
+# Storthosphaera albida Schulze, 1875 SPECIES
 
 #### Status
 ACCEPTED

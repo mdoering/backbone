@@ -1,5 +1,4 @@
-Ascobolus singeri Brumm. SPECIES
-=======
+# Ascobolus singeri Brumm. SPECIES
 
 #### Status
 ACCEPTED

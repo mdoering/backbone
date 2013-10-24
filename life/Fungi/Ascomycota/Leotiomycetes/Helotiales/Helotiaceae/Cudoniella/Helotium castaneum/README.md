@@ -1,5 +1,4 @@
-Helotium castaneum Sacc. & Ellis SPECIES
-=======
+# Helotium castaneum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

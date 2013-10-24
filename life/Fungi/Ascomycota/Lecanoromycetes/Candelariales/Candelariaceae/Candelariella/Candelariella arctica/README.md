@@ -1,14 +1,13 @@
-Candelaria arctica Körb. SPECIES
-=======
+# Candelariella arctica (Körb.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Parerga lichenol. (Breslau) 63 (1859)
+Lichenes Selecti Exsiccati (Pruhonice) 20: no. 494 (1966)
 
 #### Original name
 Candelaria arctica Körb.

@@ -1,5 +1,4 @@
-Boletus crataegi Smotl. SPECIES
-=======
+# Boletus crataegi Smotl. SPECIES
 
 #### Status
 ACCEPTED

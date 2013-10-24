@@ -1,5 +1,4 @@
-Inocybe immaculipes Kühner SPECIES
-=======
+# Inocybe immaculipes Kühner SPECIES
 
 #### Status
 ACCEPTED

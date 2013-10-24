@@ -1,5 +1,4 @@
-Gyrophora micheauxii M. Choisy SPECIES
-=======
+# Gyrophora micheauxii M. Choisy SPECIES
 
 #### Status
 ACCEPTED

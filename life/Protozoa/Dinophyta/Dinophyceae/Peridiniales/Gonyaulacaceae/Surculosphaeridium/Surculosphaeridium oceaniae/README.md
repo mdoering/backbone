@@ -1,5 +1,4 @@
-Surculosphaeridium oceaniae (de Coninck, 1969) de Coninck, 1986 SPECIES
-=======
+# Surculosphaeridium oceaniae (de Coninck, 1969) de Coninck, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea werthii Zahlbr. SPECIES
-=======
+# Lecidea werthii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

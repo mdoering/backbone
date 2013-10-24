@@ -1,8 +1,7 @@
-Hymenoscypha nigromaculata Earle SPECIES
-=======
+# Hymenoscyphus nigromaculata Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha nigromaculata Earle
+Hymenoscyphus nigromaculata Earle
 
 ### Remarks
 null

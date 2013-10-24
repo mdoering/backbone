@@ -1,5 +1,4 @@
-Leiophloea adnexa (Müll. Arg.) Riedl SPECIES
-=======
+# Leiophloea adnexa (Müll. Arg.) Riedl SPECIES
 
 #### Status
 ACCEPTED

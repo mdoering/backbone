@@ -1,5 +1,4 @@
-Phyllachora peltaticola O.L. Pereira & R.W. Barreto, 2006 SPECIES
-=======
+# Phyllachora peltaticola O.L. Pereira & R.W. Barreto, 2006 SPECIES
 
 #### Status
 ACCEPTED

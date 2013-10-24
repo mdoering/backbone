@@ -1,5 +1,4 @@
-Stephanoma Wallroth, 1833 GENUS
-=======
+# Stephanoma Wallroth, 1833 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium olivaceum Syd. SPECIES
-=======
+# Dimerium olivaceum Syd. SPECIES
 
 #### Status
 ACCEPTED

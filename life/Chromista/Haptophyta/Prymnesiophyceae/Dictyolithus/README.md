@@ -1,5 +1,4 @@
-Dictyolithus H.Górka GENUS
-=======
+# Dictyolithus H.Górka GENUS
 
 #### Status
 ACCEPTED

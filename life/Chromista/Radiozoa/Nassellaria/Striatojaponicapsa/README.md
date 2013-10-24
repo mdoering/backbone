@@ -1,5 +1,4 @@
-Striatojaponicapsa GENUS
-=======
+# Striatojaponicapsa GENUS
 
 #### Status
 ACCEPTED

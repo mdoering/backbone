@@ -1,5 +1,4 @@
-Aquincola Lechner et al., 2007 GENUS
-=======
+# Aquincola Lechner et al., 2007 GENUS
 
 #### Status
 ACCEPTED

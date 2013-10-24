@@ -1,5 +1,4 @@
-Mycena montana Quél. SPECIES
-=======
+# Mycena montana Quél. SPECIES
 
 #### Status
 ACCEPTED

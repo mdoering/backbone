@@ -1,5 +1,4 @@
-Tremellodon gelatinosum var. gelatinosum VARIETY
-=======
+# Tremellodon gelatinosum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 618 (1874)
+null
 
 #### Original name
-Tremellodon gelatinosum var. gelatinosum
+null
 
 ### Remarks
 null

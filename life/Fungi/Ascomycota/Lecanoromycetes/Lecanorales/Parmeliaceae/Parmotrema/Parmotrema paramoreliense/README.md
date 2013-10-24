@@ -1,5 +1,4 @@
-Parmotrema paramoreliense W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Parmotrema paramoreliense W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

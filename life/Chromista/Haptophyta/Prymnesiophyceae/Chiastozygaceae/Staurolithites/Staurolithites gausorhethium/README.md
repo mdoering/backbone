@@ -1,5 +1,4 @@
-Staurolithites gausorhethium SPECIES
-=======
+# Staurolithites gausorhethium SPECIES
 
 #### Status
 ACCEPTED

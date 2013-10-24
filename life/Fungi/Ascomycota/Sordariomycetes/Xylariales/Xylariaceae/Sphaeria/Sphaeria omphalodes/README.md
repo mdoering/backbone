@@ -1,5 +1,4 @@
-Sphaeria omphalodes Fr. SPECIES
-=======
+# Sphaeria omphalodes Fr. SPECIES
 
 #### Status
 ACCEPTED

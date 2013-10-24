@@ -1,5 +1,4 @@
-Amphisia oculata SPECIES
-=======
+# Amphisia oculata SPECIES
 
 #### Status
 ACCEPTED

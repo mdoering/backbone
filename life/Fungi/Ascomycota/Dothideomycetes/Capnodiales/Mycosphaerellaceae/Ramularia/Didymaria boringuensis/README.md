@@ -1,5 +1,4 @@
-Didymaria boringuensis (E. Young) F. Stevens & Solheim SPECIES
-=======
+# Didymaria boringuensis (E. Young) F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

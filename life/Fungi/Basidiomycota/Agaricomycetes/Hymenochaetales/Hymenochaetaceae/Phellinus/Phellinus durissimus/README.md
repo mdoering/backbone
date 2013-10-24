@@ -1,5 +1,4 @@
-Phellinus durissimus (Lloyd) A. Roy SPECIES
-=======
+# Phellinus durissimus (Lloyd) A. Roy SPECIES
 
 #### Status
 ACCEPTED

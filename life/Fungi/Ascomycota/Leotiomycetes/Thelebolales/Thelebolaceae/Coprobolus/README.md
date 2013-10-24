@@ -1,5 +1,4 @@
-Coprobolus Cain & Kimbr. GENUS
-=======
+# Coprobolus Cain & Kimbr. GENUS
 
 #### Status
 ACCEPTED

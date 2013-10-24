@@ -1,5 +1,4 @@
-Lepidocyclina Gümbel, 1870 GENUS
-=======
+# Lepidocyclina Gümbel, 1870 GENUS
 
 #### Status
 ACCEPTED

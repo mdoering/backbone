@@ -1,5 +1,4 @@
-Helminthosporium minimum Cooke, 1888 SPECIES
-=======
+# Helminthosporium minimum Cooke, 1888 SPECIES
 
 #### Status
 ACCEPTED

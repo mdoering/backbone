@@ -1,5 +1,4 @@
-Schizodiplodia aeluropodis (Traverso & Migliardi) Zambett. SPECIES
-=======
+# Schizodiplodia aeluropodis (Traverso & Migliardi) Zambett. SPECIES
 
 #### Status
 ACCEPTED

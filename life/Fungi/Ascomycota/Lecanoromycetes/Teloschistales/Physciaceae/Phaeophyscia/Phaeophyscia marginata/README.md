@@ -1,5 +1,4 @@
-Phaeophyscia marginata (Vain.) SPECIES
-=======
+# Phaeophyscia marginata (Vain.) SPECIES
 
 #### Status
 ACCEPTED

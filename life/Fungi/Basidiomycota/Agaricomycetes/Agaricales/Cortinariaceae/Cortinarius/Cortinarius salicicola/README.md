@@ -1,5 +1,4 @@
-Cortinarius salicicola anon. SPECIES
-=======
+# Cortinarius salicicola anon. SPECIES
 
 #### Status
 ACCEPTED

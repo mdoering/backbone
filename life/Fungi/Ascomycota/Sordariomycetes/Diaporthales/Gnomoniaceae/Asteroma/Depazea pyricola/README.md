@@ -1,5 +1,4 @@
-Depazea pyricola Desm. SPECIES
-=======
+# Depazea pyricola Desm. SPECIES
 
 #### Status
 ACCEPTED

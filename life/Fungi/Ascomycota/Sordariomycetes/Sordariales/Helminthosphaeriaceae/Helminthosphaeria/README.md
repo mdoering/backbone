@@ -1,17 +1,16 @@
-Litschaueria Petr. GENUS
-=======
+# Helminthosphaeria Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 21(3/4): 275 (1923)
+null
 
 #### Original name
-Litschaueria Petr.
+null
 
 ### Remarks
 null

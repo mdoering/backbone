@@ -1,5 +1,4 @@
-Omphalia pichinchensis Pat. SPECIES
-=======
+# Omphalia pichinchensis Pat. SPECIES
 
 #### Status
 ACCEPTED

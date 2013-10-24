@@ -1,5 +1,4 @@
-Schizothrix cavanillesii P. González SPECIES
-=======
+# Schizothrix cavanillesii P. González SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium linucheae R. V. Trench & L.-V. Thinh SPECIES
-=======
+# Gymnodinium linucheae R. V. Trench & L.-V. Thinh SPECIES
 
 #### Status
 ACCEPTED

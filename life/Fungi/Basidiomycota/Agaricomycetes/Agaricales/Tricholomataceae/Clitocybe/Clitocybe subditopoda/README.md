@@ -1,5 +1,4 @@
-Clitocybe subditopoda Peck SPECIES
-=======
+# Clitocybe subditopoda Peck SPECIES
 
 #### Status
 ACCEPTED

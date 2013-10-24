@@ -1,5 +1,4 @@
-Clavaria fasciculata Pers. SPECIES
-=======
+# Clavaria fasciculata Pers. SPECIES
 
 #### Status
 ACCEPTED

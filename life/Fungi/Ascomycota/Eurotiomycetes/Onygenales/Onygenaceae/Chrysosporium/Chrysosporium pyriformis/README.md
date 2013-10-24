@@ -1,5 +1,4 @@
-Chrysosporium pyriformis Skou SPECIES
-=======
+# Chrysosporium pyriformis Skou SPECIES
 
 #### Status
 ACCEPTED

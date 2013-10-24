@@ -1,5 +1,4 @@
-Pyrgo sinedente SPECIES
-=======
+# Pyrgo sinedente SPECIES
 
 #### Status
 ACCEPTED

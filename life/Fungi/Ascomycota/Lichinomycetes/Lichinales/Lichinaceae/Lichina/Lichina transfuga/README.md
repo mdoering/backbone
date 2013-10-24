@@ -1,5 +1,4 @@
-Lichina transfuga (Nyl.) Zahlbr. SPECIES
-=======
+# Lichina transfuga (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

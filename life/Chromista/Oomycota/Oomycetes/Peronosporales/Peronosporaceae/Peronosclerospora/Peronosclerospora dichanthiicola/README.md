@@ -1,5 +1,4 @@
-Peronosclerospora dichanthiicola (Thirum. & Naras.) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora dichanthiicola (Thirum. & Naras.) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

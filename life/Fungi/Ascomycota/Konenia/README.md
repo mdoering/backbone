@@ -1,5 +1,4 @@
-Konenia Hara, 1913 GENUS
-=======
+# Konenia Hara, 1913 GENUS
 
 #### Status
 ACCEPTED

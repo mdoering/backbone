@@ -1,8 +1,7 @@
-Pocsia mucronata P. M. McCarthy SPECIES
-=======
+# Phylloblastia mucronata (P. M. McCarthy) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

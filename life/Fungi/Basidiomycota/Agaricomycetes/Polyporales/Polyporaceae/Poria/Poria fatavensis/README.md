@@ -1,5 +1,4 @@
-Poria fatavensis Reichardt SPECIES
-=======
+# Poria fatavensis Reichardt SPECIES
 
 #### Status
 ACCEPTED

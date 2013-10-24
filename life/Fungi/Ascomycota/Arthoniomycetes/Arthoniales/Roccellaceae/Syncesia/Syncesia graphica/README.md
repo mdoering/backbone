@@ -1,17 +1,16 @@
-Chiodecton perplexum var. perplexum VARIETY
-=======
+# Syncesia graphica (Fr.) Tehler SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 485 (1863)
+Fl. Neotrop. , Monogr. 74: 34 (1997)
 
 #### Original name
-Chiodecton perplexum var. perplexum
+Glyphis graphica Fr.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Meliola lyoni F. Stevens SPECIES
-=======
+# Meliola lyoniae F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 37 (1925)
 
 #### Original name
-Meliola lyoni F. Stevens
+Meliola lyoniae F. Stevens
 
 ### Remarks
 null

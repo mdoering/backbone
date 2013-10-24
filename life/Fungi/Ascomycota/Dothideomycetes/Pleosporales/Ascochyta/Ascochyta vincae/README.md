@@ -1,5 +1,4 @@
-Ascochyta vincae Grove, 1916 SPECIES
-=======
+# Ascochyta vincae Grove, 1916 SPECIES
 
 #### Status
 ACCEPTED

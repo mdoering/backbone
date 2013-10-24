@@ -1,14 +1,13 @@
-Sagrahamala humicola (Onions & G.L. Barron) Subram., 1972 SPECIES
-=======
+# Sagenomella humicola (Onions & G.L. Barron) W. Gams, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 41(2): 49 (1972)
+Persoonia 10(1): 102 (1978)
 
 #### Original name
 Paecilomyces humicola Onions & G.L. Barron, 1967

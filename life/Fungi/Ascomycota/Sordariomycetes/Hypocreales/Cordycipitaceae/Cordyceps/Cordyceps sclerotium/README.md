@@ -1,5 +1,4 @@
-Cordyceps sclerotium Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps sclerotium Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

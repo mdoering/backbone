@@ -1,5 +1,4 @@
-Geoglossum oblongum Gray SPECIES
-=======
+# Geoglossum oblongum Gray SPECIES
 
 #### Status
 ACCEPTED

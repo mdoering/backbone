@@ -1,17 +1,16 @@
-Phoma nux-vomica P.C. Gupta SPECIES
-=======
+# Phoma nucis-vomicae P.C. Gupta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 54(1): 127 (1974)
 
 #### Original name
-Phoma nux-vomica P.C. Gupta
+Phoma nucis-vomicae P.C. Gupta
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium negerianum Dietel SPECIES
-=======
+# Aecidium negerianum Dietel SPECIES
 
 #### Status
 ACCEPTED

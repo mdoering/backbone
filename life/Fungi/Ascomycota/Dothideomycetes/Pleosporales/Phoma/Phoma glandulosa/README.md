@@ -1,5 +1,4 @@
-Phoma glandulosa Cooke SPECIES
-=======
+# Phoma glandulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

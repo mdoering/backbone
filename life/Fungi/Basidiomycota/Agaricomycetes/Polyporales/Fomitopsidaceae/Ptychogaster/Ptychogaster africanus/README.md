@@ -1,5 +1,4 @@
-Ptychogaster africanus Lloyd SPECIES
-=======
+# Ptychogaster africanus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophoropsis dichroa (Nyl.) Räsänen SPECIES
-=======
+# Gyrophoropsis dichroa (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

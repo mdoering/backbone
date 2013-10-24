@@ -1,5 +1,4 @@
-Belonioscypha cinerea Velen. SPECIES
-=======
+# Belonioscypha cinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

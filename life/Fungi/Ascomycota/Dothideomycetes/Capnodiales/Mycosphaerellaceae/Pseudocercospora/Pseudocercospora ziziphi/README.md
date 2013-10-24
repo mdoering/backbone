@@ -1,14 +1,13 @@
-Pseudocercospora zizyphi (Petch) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora ziziphi (Petch) Crous & U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 57: 315 (1996)
 
 #### Original name
 Cercospora ziziphi Petch

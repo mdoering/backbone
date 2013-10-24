@@ -1,5 +1,4 @@
-Cercosporidium ehretiae M.K. Khan SPECIES
-=======
+# Cercosporidium ehretiae M.K. Khan SPECIES
 
 #### Status
 ACCEPTED

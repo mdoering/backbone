@@ -1,5 +1,4 @@
-Pyrenastrum pruinosum C.W. Dodge SPECIES
-=======
+# Pyrenastrum pruinosum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

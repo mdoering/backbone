@@ -1,5 +1,4 @@
-Omphalia brunneola Quél. SPECIES
-=======
+# Omphalia brunneola Quél. SPECIES
 
 #### Status
 ACCEPTED

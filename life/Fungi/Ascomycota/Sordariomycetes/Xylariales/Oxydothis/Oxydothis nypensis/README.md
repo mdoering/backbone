@@ -1,5 +1,4 @@
-Oxydothis nypensis K.D. Hyde & Nakagiri SPECIES
-=======
+# Oxydothis nypensis K.D. Hyde & Nakagiri SPECIES
 
 #### Status
 ACCEPTED

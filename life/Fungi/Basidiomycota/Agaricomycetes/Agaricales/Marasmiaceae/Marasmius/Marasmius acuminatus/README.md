@@ -1,5 +1,4 @@
-Marasmius acuminatus Henn. SPECIES
-=======
+# Marasmius acuminatus Henn. SPECIES
 
 #### Status
 ACCEPTED

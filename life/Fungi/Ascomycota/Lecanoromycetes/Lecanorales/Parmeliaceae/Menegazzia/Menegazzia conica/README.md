@@ -1,5 +1,4 @@
-Menegazzia conica P. James SPECIES
-=======
+# Menegazzia conica P. James SPECIES
 
 #### Status
 ACCEPTED

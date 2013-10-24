@@ -1,5 +1,4 @@
-Stanhughesia Constant. GENUS
-=======
+# Stanhughesia Constant. GENUS
 
 #### Status
 ACCEPTED

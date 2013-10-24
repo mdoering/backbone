@@ -1,5 +1,4 @@
-Puccinia montivaga Bubák SPECIES
-=======
+# Puccinia montivaga Bubák SPECIES
 
 #### Status
 ACCEPTED

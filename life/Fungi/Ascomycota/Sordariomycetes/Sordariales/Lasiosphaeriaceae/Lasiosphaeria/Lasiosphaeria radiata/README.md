@@ -1,5 +1,4 @@
-Lasiosphaeria radiata (Fuckel) Sacc. SPECIES
-=======
+# Lasiosphaeria radiata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

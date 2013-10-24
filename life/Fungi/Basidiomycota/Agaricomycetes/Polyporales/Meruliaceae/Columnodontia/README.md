@@ -1,5 +1,4 @@
-Columnodontia Jülich GENUS
-=======
+# Columnodontia Jülich GENUS
 
 #### Status
 ACCEPTED

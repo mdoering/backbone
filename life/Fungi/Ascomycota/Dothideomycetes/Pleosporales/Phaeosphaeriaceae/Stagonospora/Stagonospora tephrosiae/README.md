@@ -1,5 +1,4 @@
-Stagonospora tephrosiae H.C. Greene SPECIES
-=======
+# Stagonospora tephrosiae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

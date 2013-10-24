@@ -1,5 +1,4 @@
-Dictyosporites Félix GENUS
-=======
+# Dictyosporites Félix GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora ochrophana (Nyl.) Hue SPECIES
-=======
+# Acarospora ochrophana (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

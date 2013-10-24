@@ -1,5 +1,4 @@
-Guignardia freycinetiae Rehm SPECIES
-=======
+# Guignardia freycinetiae Rehm SPECIES
 
 #### Status
 ACCEPTED

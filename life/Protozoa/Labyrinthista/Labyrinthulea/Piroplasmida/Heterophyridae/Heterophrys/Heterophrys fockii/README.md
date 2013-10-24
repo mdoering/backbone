@@ -1,5 +1,4 @@
-Heterophrys fockii SPECIES
-=======
+# Heterophrys fockii SPECIES
 
 #### Status
 ACCEPTED

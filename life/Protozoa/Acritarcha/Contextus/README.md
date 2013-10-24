@@ -1,5 +1,4 @@
-Contextus GENUS
-=======
+# Contextus GENUS
 
 #### Status
 ACCEPTED

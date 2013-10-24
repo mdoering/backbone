@@ -1,5 +1,4 @@
-Hysterium perexiguum Speg. SPECIES
-=======
+# Hysterium perexiguum Speg. SPECIES
 
 #### Status
 ACCEPTED

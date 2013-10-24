@@ -1,5 +1,4 @@
-Helminthosporium striiforme Corda SPECIES
-=======
+# Helminthosporium striiforme Corda SPECIES
 
 #### Status
 ACCEPTED

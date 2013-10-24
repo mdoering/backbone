@@ -1,5 +1,4 @@
-Sphaeria hookeri Klotzsch SPECIES
-=======
+# Sphaeria hookeri Klotzsch SPECIES
 
 #### Status
 ACCEPTED

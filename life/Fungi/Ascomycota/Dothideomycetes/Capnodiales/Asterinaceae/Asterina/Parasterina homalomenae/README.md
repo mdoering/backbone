@@ -1,5 +1,4 @@
-Parasterina homalomenae J.M. Mend. SPECIES
-=======
+# Parasterina homalomenae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

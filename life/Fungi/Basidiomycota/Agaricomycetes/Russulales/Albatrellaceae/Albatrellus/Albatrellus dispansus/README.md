@@ -1,5 +1,4 @@
-Albatrellus dispansus (Lloyd) Canf. & Gilb. SPECIES
-=======
+# Albatrellus dispansus (Lloyd) Canf. & Gilb. SPECIES
 
 #### Status
 ACCEPTED

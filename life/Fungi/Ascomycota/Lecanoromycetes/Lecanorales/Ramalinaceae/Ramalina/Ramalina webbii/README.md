@@ -1,5 +1,4 @@
-Ramalina webbii Mont. SPECIES
-=======
+# Ramalina webbii Mont. SPECIES
 
 #### Status
 ACCEPTED

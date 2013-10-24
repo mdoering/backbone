@@ -1,5 +1,4 @@
-Irene kiraiensis W. Yamam. SPECIES
-=======
+# Irene kiraiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

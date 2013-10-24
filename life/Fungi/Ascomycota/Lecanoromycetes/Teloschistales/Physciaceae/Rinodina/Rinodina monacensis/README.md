@@ -1,5 +1,4 @@
-Rinodina monacensis Ropin SPECIES
-=======
+# Rinodina monacensis Ropin SPECIES
 
 #### Status
 ACCEPTED

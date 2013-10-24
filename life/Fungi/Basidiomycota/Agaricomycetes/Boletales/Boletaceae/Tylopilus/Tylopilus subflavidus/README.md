@@ -1,5 +1,4 @@
-Tylopilus subflavidus Murrill SPECIES
-=======
+# Tylopilus subflavidus Murrill SPECIES
 
 #### Status
 ACCEPTED

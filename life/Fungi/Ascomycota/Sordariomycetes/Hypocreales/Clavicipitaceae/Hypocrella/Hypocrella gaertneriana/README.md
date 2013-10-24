@@ -1,5 +1,4 @@
-Hypocrella gaertneriana Möller SPECIES
-=======
+# Hypocrella gaertneriana Möller SPECIES
 
 #### Status
 ACCEPTED

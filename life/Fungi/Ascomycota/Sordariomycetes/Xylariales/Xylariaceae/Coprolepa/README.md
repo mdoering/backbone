@@ -1,5 +1,4 @@
-Coprolepa GENUS
-=======
+# Coprolepa GENUS
 
 #### Status
 ACCEPTED

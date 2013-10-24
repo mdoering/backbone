@@ -1,5 +1,4 @@
-Phaeodothis gigantochloae Rehm SPECIES
-=======
+# Phaeodothis gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

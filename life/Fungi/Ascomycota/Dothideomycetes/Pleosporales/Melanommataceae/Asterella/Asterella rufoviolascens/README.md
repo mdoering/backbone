@@ -1,5 +1,4 @@
-Asterella rufoviolascens (Henn.) Sacc. SPECIES
-=======
+# Asterella rufoviolascens (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia constricta (Fr.) Sacc. SPECIES
-=======
+# Nummularia constricta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

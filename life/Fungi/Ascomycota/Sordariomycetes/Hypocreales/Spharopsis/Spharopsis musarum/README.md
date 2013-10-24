@@ -1,5 +1,4 @@
-Spharopsis musarum Cooke SPECIES
-=======
+# Spharopsis musarum Cooke SPECIES
 
 #### Status
 ACCEPTED

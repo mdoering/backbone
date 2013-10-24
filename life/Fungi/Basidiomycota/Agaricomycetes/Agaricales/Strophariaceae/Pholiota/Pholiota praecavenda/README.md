@@ -1,5 +1,4 @@
-Pholiota praecavenda (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota praecavenda (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

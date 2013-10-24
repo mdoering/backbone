@@ -1,5 +1,4 @@
-Torula duclauxii F.C. Harrison SPECIES
-=======
+# Torula duclauxii F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora bixicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora bixicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

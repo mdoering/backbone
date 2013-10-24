@@ -1,5 +1,4 @@
-Arcuospathidium bulli Foissner, 2000 SPECIES
-=======
+# Arcuospathidium bulli Foissner, 2000 SPECIES
 
 #### Status
 ACCEPTED

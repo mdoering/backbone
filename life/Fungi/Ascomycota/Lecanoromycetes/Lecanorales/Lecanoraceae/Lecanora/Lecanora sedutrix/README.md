@@ -1,5 +1,4 @@
-Lecanora sedutrix Stizenb. SPECIES
-=======
+# Lecanora sedutrix Stizenb. SPECIES
 
 #### Status
 ACCEPTED

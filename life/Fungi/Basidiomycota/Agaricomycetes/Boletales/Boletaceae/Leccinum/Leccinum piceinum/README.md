@@ -1,5 +1,4 @@
-Leccinum piceinum Pilát & Dermek SPECIES
-=======
+# Leccinum piceinum Pilát & Dermek SPECIES
 
 #### Status
 ACCEPTED

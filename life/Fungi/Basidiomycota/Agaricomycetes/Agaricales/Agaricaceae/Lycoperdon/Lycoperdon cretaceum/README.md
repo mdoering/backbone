@@ -1,5 +1,4 @@
-Lycoperdon cretaceum Berk. SPECIES
-=======
+# Lycoperdon cretaceum Berk. SPECIES
 
 #### Status
 ACCEPTED

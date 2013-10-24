@@ -1,5 +1,4 @@
-Verrucaria spotornensis Servít SPECIES
-=======
+# Verrucaria spotornensis Servít SPECIES
 
 #### Status
 ACCEPTED

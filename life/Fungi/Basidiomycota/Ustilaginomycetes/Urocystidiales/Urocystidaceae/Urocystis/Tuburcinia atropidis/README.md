@@ -1,5 +1,4 @@
-Tuburcinia atropidis Lavrov SPECIES
-=======
+# Tuburcinia atropidis Lavrov SPECIES
 
 #### Status
 ACCEPTED

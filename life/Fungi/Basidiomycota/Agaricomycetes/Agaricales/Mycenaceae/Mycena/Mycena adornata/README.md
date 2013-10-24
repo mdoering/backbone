@@ -1,5 +1,4 @@
-Mycena adornata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena adornata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

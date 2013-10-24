@@ -1,5 +1,4 @@
-Kabatana seriolae (Egusa, 1982) Lom, Dykova & Tonguthai, 1999 SPECIES
-=======
+# Kabatana seriolae (Egusa, 1982) Lom, Dykova & Tonguthai, 1999 SPECIES
 
 #### Status
 ACCEPTED

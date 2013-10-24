@@ -1,5 +1,4 @@
-Sphaerodothis consociata Chardón, 1934 SPECIES
-=======
+# Sphaerodothis consociata Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

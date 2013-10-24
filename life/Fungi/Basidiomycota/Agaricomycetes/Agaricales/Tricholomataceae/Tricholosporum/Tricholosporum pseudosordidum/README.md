@@ -1,5 +1,4 @@
-Tricholosporum pseudosordidum (Singer) T.J. Baroni SPECIES
-=======
+# Tricholosporum pseudosordidum (Singer) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

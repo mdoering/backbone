@@ -1,5 +1,4 @@
-Scolecosporiella bernardiana (Sacc.) Sivan. SPECIES
-=======
+# Scolecosporiella bernardiana (Sacc.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

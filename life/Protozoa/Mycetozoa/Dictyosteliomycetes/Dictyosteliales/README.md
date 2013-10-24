@@ -1,5 +1,4 @@
-Dictyosteliales L.S. Olive ex P.M. Kirk, P.F. Cannon & J.C. David ORDER
-=======
+# Dictyosteliales L.S. Olive ex P.M. Kirk, P.F. Cannon & J.C. David ORDER
 
 #### Status
 ACCEPTED

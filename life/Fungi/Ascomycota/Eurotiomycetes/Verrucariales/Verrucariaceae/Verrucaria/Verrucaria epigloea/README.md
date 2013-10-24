@@ -1,5 +1,4 @@
-Verrucaria epigloea Nyl. SPECIES
-=======
+# Verrucaria epigloea Nyl. SPECIES
 
 #### Status
 ACCEPTED

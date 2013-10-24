@@ -1,5 +1,4 @@
-Lethagrium flaccidulum Flagey SPECIES
-=======
+# Lethagrium flaccidulum Flagey SPECIES
 
 #### Status
 ACCEPTED

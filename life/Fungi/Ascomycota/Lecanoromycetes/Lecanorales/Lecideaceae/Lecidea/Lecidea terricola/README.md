@@ -1,5 +1,4 @@
-Lecidea terricola Lynge SPECIES
-=======
+# Lecidea terricola Lynge SPECIES
 
 #### Status
 ACCEPTED

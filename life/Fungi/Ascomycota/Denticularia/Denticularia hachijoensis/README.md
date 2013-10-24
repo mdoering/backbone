@@ -1,5 +1,4 @@
-Denticularia hachijoensis Matsush. SPECIES
-=======
+# Denticularia hachijoensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

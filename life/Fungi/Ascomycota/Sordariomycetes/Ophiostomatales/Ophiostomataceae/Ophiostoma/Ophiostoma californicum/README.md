@@ -1,5 +1,4 @@
-Ophiostoma californicum (DeVay, R.W. Davidson & W.J. Moller) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma californicum (DeVay, R.W. Davidson & W.J. Moller) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

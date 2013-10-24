@@ -1,5 +1,4 @@
-Cryptochilium GENUS
-=======
+# Cryptochilium GENUS
 
 #### Status
 ACCEPTED

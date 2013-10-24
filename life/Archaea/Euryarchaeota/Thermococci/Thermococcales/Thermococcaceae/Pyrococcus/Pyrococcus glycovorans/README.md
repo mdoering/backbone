@@ -1,5 +1,4 @@
-Pyrococcus glycovorans Barbier et al., 1999 SPECIES
-=======
+# Pyrococcus glycovorans Barbier et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

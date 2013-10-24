@@ -1,5 +1,4 @@
-Lepra lactea (L.) Wigg. SPECIES
-=======
+# Lepra lactea (L.) Wigg. SPECIES
 
 #### Status
 ACCEPTED

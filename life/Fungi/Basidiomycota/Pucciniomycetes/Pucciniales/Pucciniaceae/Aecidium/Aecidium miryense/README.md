@@ -1,5 +1,4 @@
-Aecidium miryense Henn. SPECIES
-=======
+# Aecidium miryense Henn. SPECIES
 
 #### Status
 ACCEPTED

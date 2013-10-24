@@ -1,14 +1,13 @@
-Petriellidium fimeti Arx, Mukerji & N. Singh, 1978 SPECIES
-=======
+# Lophotrichus fimeti (Arx, Mukerji & N. Singh) Gilgado, Guarro, Gené & Cano, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(1): 26 (1978)
+Int. J. Syst. Evol. Microbiol. 57: 2177 (2007)
 
 #### Original name
 Petriellidium fimeti Arx, Mukerji & N. Singh, 1978

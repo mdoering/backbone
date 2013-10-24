@@ -1,5 +1,4 @@
-Trematosphaeria cactorum Earle SPECIES
-=======
+# Trematosphaeria cactorum Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladotrichum foliicola (Niessl) Ferro SPECIES
-=======
+# Cladotrichum foliicola (Niessl) Ferro SPECIES
 
 #### Status
 ACCEPTED

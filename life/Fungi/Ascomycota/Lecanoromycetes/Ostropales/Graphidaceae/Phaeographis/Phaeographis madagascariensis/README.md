@@ -1,5 +1,4 @@
-Phaeographis madagascariensis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Phaeographis madagascariensis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

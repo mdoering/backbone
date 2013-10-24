@@ -1,5 +1,4 @@
-Septoria bubakii Jacz. SPECIES
-=======
+# Septoria bubakii Jacz. SPECIES
 
 #### Status
 ACCEPTED

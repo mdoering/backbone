@@ -1,5 +1,4 @@
-Aplosporella missouriensis Bubák SPECIES
-=======
+# Aplosporella missouriensis Bubák SPECIES
 
 #### Status
 ACCEPTED

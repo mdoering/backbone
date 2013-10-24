@@ -1,5 +1,4 @@
-Candelariella spraguei (Tuck.) Zahlbr. SPECIES
-=======
+# Candelariella spraguei (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

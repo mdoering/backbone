@@ -1,5 +1,4 @@
-Chaetothyrium sorysorensis Hansf. & Thirum. SPECIES
-=======
+# Chaetothyrium sorysorensis Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

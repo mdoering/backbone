@@ -1,5 +1,4 @@
-Chromendothia citrina Lar.N. Vassiljeva SPECIES
-=======
+# Chromendothia citrina Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

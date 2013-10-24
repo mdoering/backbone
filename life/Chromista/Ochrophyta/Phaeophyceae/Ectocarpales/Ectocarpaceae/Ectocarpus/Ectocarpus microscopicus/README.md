@@ -1,5 +1,4 @@
-Ectocarpus microscopicus Batters SPECIES
-=======
+# Ectocarpus microscopicus Batters SPECIES
 
 #### Status
 ACCEPTED

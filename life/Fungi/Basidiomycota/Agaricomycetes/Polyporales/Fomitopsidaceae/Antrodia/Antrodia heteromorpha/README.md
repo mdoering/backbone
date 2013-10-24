@@ -1,17 +1,16 @@
-Daedalea heteromorpha var. heteromorpha VARIETY
-=======
+# Antrodia heteromorpha (Fr.) Donk, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 108 (1815)
+Persoonia 4(3): 339 (1966)
 
 #### Original name
-Daedalea heteromorpha var. heteromorpha
+Daedalea heteromorpha Fr., 1815
 
 ### Remarks
 null

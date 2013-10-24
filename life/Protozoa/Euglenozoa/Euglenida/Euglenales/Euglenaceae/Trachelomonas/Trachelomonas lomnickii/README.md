@@ -1,5 +1,4 @@
-Trachelomonas lomnickii Drezepolski SPECIES
-=======
+# Trachelomonas lomnickii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus pepinosporus Heinem. SPECIES
-=======
+# Leucocoprinus pepinosporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

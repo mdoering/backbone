@@ -1,5 +1,4 @@
-Paxina olivacea (Clem.) Seaver SPECIES
-=======
+# Paxina olivacea (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

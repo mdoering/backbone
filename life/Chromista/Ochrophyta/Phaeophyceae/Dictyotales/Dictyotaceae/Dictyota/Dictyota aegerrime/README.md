@@ -1,5 +1,4 @@
-Dictyota aegerrime (Allender & Kraft) De Clerck, 2006 SPECIES
-=======
+# Dictyota aegerrime (Allender & Kraft) De Clerck, 2006 SPECIES
 
 #### Status
 ACCEPTED

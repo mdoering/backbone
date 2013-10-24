@@ -1,5 +1,4 @@
-Phyllosticta decussatae P. Syd. SPECIES
-=======
+# Phyllosticta decussatae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

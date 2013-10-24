@@ -1,5 +1,4 @@
-Puccinia hoslundiae Grove SPECIES
-=======
+# Puccinia hoslundiae Grove SPECIES
 
 #### Status
 ACCEPTED

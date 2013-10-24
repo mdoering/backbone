@@ -1,5 +1,4 @@
-Wuestneia tetraspora (Ts. Kobay.) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia tetraspora (Ts. Kobay.) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

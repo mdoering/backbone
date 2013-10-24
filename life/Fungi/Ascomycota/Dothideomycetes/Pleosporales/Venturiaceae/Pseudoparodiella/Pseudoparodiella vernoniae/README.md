@@ -1,5 +1,4 @@
-Pseudoparodiella vernoniae F. Stevens, 1927 SPECIES
-=======
+# Pseudoparodiella vernoniae F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

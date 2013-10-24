@@ -1,17 +1,16 @@
-Puccinia silenes J. Schröt., 1882 SPECIES
-=======
+# Puccinia behenis G.H. Otth, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. , Edn 2 1(1): 215 (1882)
+Mitt. naturf. Ges. Bern
 
 #### Original name
-Puccinia silenes J. Schröt., 1882
+Puccinia behenis G.H. Otth, 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acumispora verruculosa Heredia, R.F. Castañeda & R.M. Arias SPECIES
-=======
+# Acumispora verruculosa Heredia, R.F. Castañeda & R.M. Arias SPECIES
 
 #### Status
 ACCEPTED

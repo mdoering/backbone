@@ -1,5 +1,4 @@
-Kotlabaea Svrcek, 1969 GENUS
-=======
+# Kotlabaea Svrcek, 1969 GENUS
 
 #### Status
 ACCEPTED

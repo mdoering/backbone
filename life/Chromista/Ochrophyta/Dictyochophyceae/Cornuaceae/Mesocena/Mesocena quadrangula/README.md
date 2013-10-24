@@ -1,5 +1,4 @@
-Mesocena quadrangula (P. Schulz) K. Tsumura SPECIES
-=======
+# Mesocena quadrangula (P. Schulz) K. Tsumura SPECIES
 
 #### Status
 ACCEPTED

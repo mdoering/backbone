@@ -1,5 +1,4 @@
-Coleosporium heteropappi Tranzschel SPECIES
-=======
+# Coleosporium heteropappi Tranzschel SPECIES
 
 #### Status
 ACCEPTED

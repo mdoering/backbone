@@ -1,5 +1,4 @@
-Mycena hawaiiensis Desjardin SPECIES
-=======
+# Mycena hawaiiensis Desjardin SPECIES
 
 #### Status
 ACCEPTED

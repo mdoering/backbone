@@ -1,14 +1,13 @@
-Meliola thunbergiae-chrysopidis (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola thunbergiae-chrysopis (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 88 (1954)
 
 #### Original name
 Irenina thunbergiae-chrysopidis Hansf. & Deighton

@@ -1,5 +1,4 @@
-Phoma alleizetteana Gonz. Frag. SPECIES
-=======
+# Phoma alleizetteana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

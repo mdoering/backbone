@@ -1,5 +1,4 @@
-Stereum sulfureum Fr. ex Berk. SPECIES
-=======
+# Stereum sulfureum Fr. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

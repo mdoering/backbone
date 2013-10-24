@@ -1,5 +1,4 @@
-Hydnum modestum Snell & E.A. Dick SPECIES
-=======
+# Hydnum modestum Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

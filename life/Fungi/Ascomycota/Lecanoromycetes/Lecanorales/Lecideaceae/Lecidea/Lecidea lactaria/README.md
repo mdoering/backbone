@@ -1,5 +1,4 @@
-Lecidea lactaria Stizenb. SPECIES
-=======
+# Lecidea lactaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

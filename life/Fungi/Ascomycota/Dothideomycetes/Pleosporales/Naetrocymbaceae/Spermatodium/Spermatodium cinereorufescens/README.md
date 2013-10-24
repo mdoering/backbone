@@ -1,5 +1,4 @@
-Spermatodium cinereorufescens Trevis. SPECIES
-=======
+# Spermatodium cinereorufescens Trevis. SPECIES
 
 #### Status
 ACCEPTED

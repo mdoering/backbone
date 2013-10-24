@@ -1,5 +1,4 @@
-Phyllosticta toxicodendri Thüm. SPECIES
-=======
+# Phyllosticta toxicodendri Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pustulisphaeridium E.R. Wicander, 1974 GENUS
-=======
+# Pustulisphaeridium E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

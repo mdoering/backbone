@@ -1,5 +1,4 @@
-Cladonia leiodea H. Magn. SPECIES
-=======
+# Cladonia leiodea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

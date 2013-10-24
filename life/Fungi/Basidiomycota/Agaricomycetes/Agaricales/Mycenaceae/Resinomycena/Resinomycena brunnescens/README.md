@@ -1,5 +1,4 @@
-Resinomycena brunnescens Redhead & Singer, 1981 SPECIES
-=======
+# Resinomycena brunnescens Redhead & Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

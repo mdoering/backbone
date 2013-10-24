@@ -1,5 +1,4 @@
-Aspergillus insulicola Montem. & A.R. Santiago, 1975 SPECIES
-=======
+# Aspergillus insulicola Montem. & A.R. Santiago, 1975 SPECIES
 
 #### Status
 ACCEPTED

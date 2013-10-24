@@ -1,5 +1,4 @@
-Pertusaria lansangensis Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria lansangensis Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

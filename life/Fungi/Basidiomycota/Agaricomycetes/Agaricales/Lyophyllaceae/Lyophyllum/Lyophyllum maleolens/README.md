@@ -1,5 +1,4 @@
-Lyophyllum maleolens M. Melis & Contu SPECIES
-=======
+# Lyophyllum maleolens M. Melis & Contu SPECIES
 
 #### Status
 ACCEPTED

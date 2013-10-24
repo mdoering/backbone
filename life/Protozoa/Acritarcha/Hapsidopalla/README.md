@@ -1,5 +1,4 @@
-Hapsidopalla G. Playford, 1977 GENUS
-=======
+# Hapsidopalla G. Playford, 1977 GENUS
 
 #### Status
 ACCEPTED

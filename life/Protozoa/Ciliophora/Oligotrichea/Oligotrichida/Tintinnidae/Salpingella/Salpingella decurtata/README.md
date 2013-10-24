@@ -1,5 +1,4 @@
-Salpingella decurtata Jörgensen, 1924 SPECIES
-=======
+# Salpingella decurtata Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

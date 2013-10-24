@@ -1,5 +1,4 @@
-Parasterina plectopelta Dilcher SPECIES
-=======
+# Parasterina plectopelta Dilcher SPECIES
 
 #### Status
 ACCEPTED

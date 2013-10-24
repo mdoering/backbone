@@ -1,5 +1,4 @@
-Hymenoscyphus shimlensis M.P. Sharma SPECIES
-=======
+# Hymenoscyphus shimlensis M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

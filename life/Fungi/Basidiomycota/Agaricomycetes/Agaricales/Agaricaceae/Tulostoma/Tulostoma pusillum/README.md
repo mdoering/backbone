@@ -1,5 +1,4 @@
-Tulostoma pusillum Ces. SPECIES
-=======
+# Tulostoma pusillum Ces. SPECIES
 
 #### Status
 ACCEPTED

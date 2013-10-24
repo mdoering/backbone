@@ -1,8 +1,7 @@
-Niesslia haglundi Starbäck SPECIES
-=======
+# Niesslia haglundii Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Niesslia haglundi Starbäck
+Niesslia haglundii Starbäck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nostocella pruniformis (Linnaeus) Gaillon SPECIES
-=======
+# Nostocella pruniformis (Linnaeus) Gaillon SPECIES
 
 #### Status
 ACCEPTED

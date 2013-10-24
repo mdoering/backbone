@@ -1,5 +1,4 @@
-Scolecopeltidium F. Stevens & Manter GENUS
-=======
+# Scolecopeltidium F. Stevens & Manter GENUS
 
 #### Status
 ACCEPTED

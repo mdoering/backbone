@@ -1,14 +1,13 @@
-Psorospermium Rivolta, 1878 GENUS
-=======
+# Eimeria Schneider, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Arch. Zool. exp. gén. Paris, 4, xli.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Torula atra Sappa & Mosca SPECIES
-=======
+# Torula atra Sappa & Mosca SPECIES
 
 #### Status
 ACCEPTED

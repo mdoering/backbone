@@ -1,5 +1,4 @@
-Hebeloma lindrothii P. Karst. SPECIES
-=======
+# Hebeloma lindrothii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

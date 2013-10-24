@@ -1,5 +1,4 @@
-Verpatinia duchesnayensis Whetzel SPECIES
-=======
+# Verpatinia duchesnayensis Whetzel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus nepalensis Pitschmann SPECIES
-=======
+# Heterococcus nepalensis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

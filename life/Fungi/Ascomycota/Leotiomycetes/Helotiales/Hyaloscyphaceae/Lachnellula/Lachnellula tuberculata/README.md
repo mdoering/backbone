@@ -1,5 +1,4 @@
-Lachnellula tuberculata Dharne, 1965 SPECIES
-=======
+# Lachnellula tuberculata Dharne, 1965 SPECIES
 
 #### Status
 ACCEPTED

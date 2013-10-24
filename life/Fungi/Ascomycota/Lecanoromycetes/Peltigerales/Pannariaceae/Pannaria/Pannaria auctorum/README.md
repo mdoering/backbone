@@ -1,5 +1,4 @@
-Pannaria auctorum Bory SPECIES
-=======
+# Pannaria auctorum Bory SPECIES
 
 #### Status
 ACCEPTED

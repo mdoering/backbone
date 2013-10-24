@@ -1,5 +1,4 @@
-Asteroma dentariae DC. SPECIES
-=======
+# Asteroma dentariae DC. SPECIES
 
 #### Status
 ACCEPTED

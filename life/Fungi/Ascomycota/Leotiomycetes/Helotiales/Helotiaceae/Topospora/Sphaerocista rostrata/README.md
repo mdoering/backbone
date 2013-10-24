@@ -1,5 +1,4 @@
-Sphaerocista rostrata Preuss SPECIES
-=======
+# Sphaerocista rostrata Preuss SPECIES
 
 #### Status
 ACCEPTED

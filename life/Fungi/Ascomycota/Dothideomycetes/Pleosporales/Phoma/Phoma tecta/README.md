@@ -1,5 +1,4 @@
-Phoma tecta Pass. SPECIES
-=======
+# Phoma tecta Pass. SPECIES
 
 #### Status
 ACCEPTED

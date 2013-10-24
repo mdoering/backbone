@@ -1,17 +1,16 @@
-Cortinarius tophaceus var. redimitus Fr. VARIETY
-=======
+# Cortinarius tophaceus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cortinarius tophaceus var. redimitus Fr.
+Cortinarius tophaceus Fr., 1838
 
 ### Remarks
 null

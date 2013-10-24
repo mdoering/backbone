@@ -1,5 +1,4 @@
-Rhizopogon quercicola A.H. Sm. SPECIES
-=======
+# Rhizopogon quercicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

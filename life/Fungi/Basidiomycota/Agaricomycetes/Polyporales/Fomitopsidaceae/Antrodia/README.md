@@ -1,17 +1,16 @@
-Cartilosoma Kotl. & Pouzar GENUS
-=======
+# Antrodia P. Karsten, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 12: 101, 103 (1958)
+null
 
 #### Original name
-Cartilosoma Kotl. & Pouzar
+null
 
 ### Remarks
 null

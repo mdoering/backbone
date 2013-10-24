@@ -1,5 +1,4 @@
-Peziza venezuelae var. antillarum Pat. VARIETY
-=======
+# Peziza venezuelae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier)
+null
 
 #### Original name
-Peziza venezuelae var. antillarum Pat.
+Peziza venezuelae Berk. & M.A. Curtis
 
 ### Remarks
 null

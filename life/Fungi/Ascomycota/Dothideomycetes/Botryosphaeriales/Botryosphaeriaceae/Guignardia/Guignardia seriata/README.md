@@ -1,5 +1,4 @@
-Guignardia seriata Bäumler SPECIES
-=======
+# Guignardia seriata Bäumler SPECIES
 
 #### Status
 ACCEPTED

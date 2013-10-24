@@ -1,5 +1,4 @@
-Corticium pallens Bres. SPECIES
-=======
+# Corticium pallens Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia cryptocephali W. Rossi SPECIES
-=======
+# Laboulbenia cryptocephali W. Rossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cornurediata Berndt SPECIES
-=======
+# Puccinia cornurediata Berndt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia astericola Cooke & Ellis SPECIES
-=======
+# Mollisia astericola Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

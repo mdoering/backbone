@@ -1,17 +1,16 @@
-Oidium launaea Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
-=======
+# Oidium launaeae Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 59(1): 74 (2006)
 
 #### Original name
-Oidium launaea Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
+Oidium launaeae Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
 
 ### Remarks
 null

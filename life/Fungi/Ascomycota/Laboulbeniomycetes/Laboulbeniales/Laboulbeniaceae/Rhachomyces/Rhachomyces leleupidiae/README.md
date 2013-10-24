@@ -1,5 +1,4 @@
-Rhachomyces leleupidiae W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces leleupidiae W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

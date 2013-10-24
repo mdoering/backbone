@@ -1,5 +1,4 @@
-Roseodiscus Baral GENUS
-=======
+# Roseodiscus Baral GENUS
 
 #### Status
 ACCEPTED

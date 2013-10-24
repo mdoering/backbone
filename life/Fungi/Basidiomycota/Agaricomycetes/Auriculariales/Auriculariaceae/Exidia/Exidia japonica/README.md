@@ -1,5 +1,4 @@
-Exidia japonica Lloyd SPECIES
-=======
+# Exidia japonica Lloyd SPECIES
 
 #### Status
 ACCEPTED

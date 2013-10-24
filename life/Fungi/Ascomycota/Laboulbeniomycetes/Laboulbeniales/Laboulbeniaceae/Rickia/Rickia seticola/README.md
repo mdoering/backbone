@@ -1,5 +1,4 @@
-Rickia seticola Thaxt. SPECIES
-=======
+# Rickia seticola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

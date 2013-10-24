@@ -1,5 +1,4 @@
-Cladosporium lanciforme Ces. SPECIES
-=======
+# Cladosporium lanciforme Ces. SPECIES
 
 #### Status
 ACCEPTED

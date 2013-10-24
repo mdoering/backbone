@@ -1,5 +1,4 @@
-Santessoniolichen GENUS
-=======
+# Santessoniolichen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia subinterposita Speg. SPECIES
-=======
+# Laboulbenia subinterposita Speg. SPECIES
 
 #### Status
 ACCEPTED

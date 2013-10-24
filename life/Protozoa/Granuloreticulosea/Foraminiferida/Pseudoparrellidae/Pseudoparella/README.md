@@ -1,5 +1,4 @@
-Pseudoparella Cushman & ten Dam, 1948 GENUS
-=======
+# Pseudoparella Cushman & ten Dam, 1948 GENUS
 
 #### Status
 ACCEPTED

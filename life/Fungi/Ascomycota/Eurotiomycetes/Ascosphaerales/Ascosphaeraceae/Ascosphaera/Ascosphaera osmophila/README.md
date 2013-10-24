@@ -1,5 +1,4 @@
-Ascosphaera osmophila Skou & J.E. King, 1984 SPECIES
-=======
+# Ascosphaera osmophila Skou & J.E. King, 1984 SPECIES
 
 #### Status
 ACCEPTED

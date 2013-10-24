@@ -1,17 +1,16 @@
-Opegrapha subimmersa Fée SPECIES
-=======
+# Graphis subimmersa (Fée) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Memor. Lichenogr. 111 (1853)
 
 #### Original name
-null
+Opegrapha subimmersa Fée
 
 ### Remarks
 null

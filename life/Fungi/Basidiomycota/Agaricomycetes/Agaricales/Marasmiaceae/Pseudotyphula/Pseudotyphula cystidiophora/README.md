@@ -1,5 +1,4 @@
-Pseudotyphula cystidiophora (Kauffman) Berthier SPECIES
-=======
+# Pseudotyphula cystidiophora (Kauffman) Berthier SPECIES
 
 #### Status
 ACCEPTED

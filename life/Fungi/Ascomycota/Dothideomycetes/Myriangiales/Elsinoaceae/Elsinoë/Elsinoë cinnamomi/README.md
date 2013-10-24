@@ -1,5 +1,4 @@
-Elsinoë cinnamomi Pollack & Jenkins SPECIES
-=======
+# Elsinoë cinnamomi Pollack & Jenkins SPECIES
 
 #### Status
 ACCEPTED

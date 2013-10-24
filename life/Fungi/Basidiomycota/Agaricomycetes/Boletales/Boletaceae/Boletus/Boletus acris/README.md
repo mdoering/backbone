@@ -1,5 +1,4 @@
-Boletus acris Schulzer SPECIES
-=======
+# Boletus acris Schulzer SPECIES
 
 #### Status
 ACCEPTED

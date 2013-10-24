@@ -1,5 +1,4 @@
-Thelephora rudis Pers. SPECIES
-=======
+# Thelephora rudis Pers. SPECIES
 
 #### Status
 ACCEPTED

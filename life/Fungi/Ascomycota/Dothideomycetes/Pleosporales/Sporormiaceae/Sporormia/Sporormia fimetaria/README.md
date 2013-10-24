@@ -1,14 +1,13 @@
-Brochospora fimetaria (De Not.) Kirschst., 1944 SPECIES
-=======
+# Sporormia fimetaria De Not., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 81: 204 (1944)
+Microm. Ital. 5: 10 (1849)
 
 #### Original name
 Sporormia fimetaria De Not., 1845

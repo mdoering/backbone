@@ -1,5 +1,4 @@
-Cercospora euptelaeae Togashi & Katsuki SPECIES
-=======
+# Cercospora euptelaeae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

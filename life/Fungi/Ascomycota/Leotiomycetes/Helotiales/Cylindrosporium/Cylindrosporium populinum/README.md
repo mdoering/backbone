@@ -1,5 +1,4 @@
-Cylindrosporium populinum (Peck) Vassiljevsky SPECIES
-=======
+# Cylindrosporium populinum (Peck) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tubeufia ovatum Rossman, 1987 SPECIES
-=======
+# Thaxteriella ovata (Rossman) J.L. Crane, Shearer & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 157: 42 (1987)
+Can. J. Bot. 76(4): 610 (1998)
 
 #### Original name
 Tubeufia ovatum Rossman, 1987

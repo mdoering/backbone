@@ -1,5 +1,4 @@
-Difflugia Leclerc, 1815 GENUS
-=======
+# Difflugia Leclerc, 1815 GENUS
 
 #### Status
 ACCEPTED

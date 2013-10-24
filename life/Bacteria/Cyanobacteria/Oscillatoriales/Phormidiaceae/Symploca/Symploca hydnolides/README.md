@@ -1,5 +1,4 @@
-Symploca hydnolides f. minor Iyengar & Desikachary FORM
-=======
+# Symploca hydnolides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hieronymi Henn. SPECIES
-=======
+# Puccinia hieronymi Henn. SPECIES
 
 #### Status
 ACCEPTED

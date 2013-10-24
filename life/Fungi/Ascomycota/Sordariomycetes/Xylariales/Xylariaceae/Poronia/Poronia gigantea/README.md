@@ -1,5 +1,4 @@
-Poronia gigantea Sacc. SPECIES
-=======
+# Poronia gigantea Sacc. SPECIES
 
 #### Status
 ACCEPTED

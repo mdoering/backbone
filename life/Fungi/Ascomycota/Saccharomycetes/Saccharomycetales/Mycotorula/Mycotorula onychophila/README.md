@@ -1,5 +1,4 @@
-Mycotorula onychophila Ciarr. SPECIES
-=======
+# Mycotorula onychophila Ciarr. SPECIES
 
 #### Status
 ACCEPTED

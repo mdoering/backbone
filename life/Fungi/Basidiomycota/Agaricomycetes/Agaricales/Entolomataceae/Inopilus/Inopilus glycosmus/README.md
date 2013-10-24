@@ -1,5 +1,4 @@
-Inopilus glycosmus Pegler SPECIES
-=======
+# Inopilus glycosmus Pegler SPECIES
 
 #### Status
 ACCEPTED

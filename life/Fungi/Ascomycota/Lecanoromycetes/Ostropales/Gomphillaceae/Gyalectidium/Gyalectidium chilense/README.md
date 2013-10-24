@@ -1,5 +1,4 @@
-Gyalectidium chilense M. Cáceres & Lücking SPECIES
-=======
+# Gyalectidium chilense M. Cáceres & Lücking SPECIES
 
 #### Status
 ACCEPTED

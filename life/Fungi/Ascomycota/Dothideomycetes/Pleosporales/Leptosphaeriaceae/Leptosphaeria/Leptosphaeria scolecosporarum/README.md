@@ -1,5 +1,4 @@
-Leptosphaeria scolecosporarum Sousa da Câmara SPECIES
-=======
+# Leptosphaeria scolecosporarum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

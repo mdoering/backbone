@@ -1,5 +1,4 @@
-Metasphaeria staphylina (Peck) Sacc. SPECIES
-=======
+# Metasphaeria staphylina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

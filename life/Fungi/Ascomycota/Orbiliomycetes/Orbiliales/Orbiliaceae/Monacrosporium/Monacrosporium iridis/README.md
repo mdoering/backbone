@@ -1,14 +1,13 @@
-Arthrobotrys iridis (Ts. Watan.) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
-=======
+# Monacrosporium iridis (Ts. Watan.) A. Rubner & W. Gams, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 51(1): 102 (1999)
+Stud. Mycol. 39: 77 (1996)
 
 #### Original name
 Trinacrium iride Ts. Watan., 1992

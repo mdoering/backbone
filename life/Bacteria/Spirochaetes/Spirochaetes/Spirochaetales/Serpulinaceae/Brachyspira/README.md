@@ -1,5 +1,4 @@
-Brachyspira Hovind-Hougen et al., 1983 GENUS
-=======
+# Brachyspira Hovind-Hougen et al., 1983 GENUS
 
 #### Status
 ACCEPTED

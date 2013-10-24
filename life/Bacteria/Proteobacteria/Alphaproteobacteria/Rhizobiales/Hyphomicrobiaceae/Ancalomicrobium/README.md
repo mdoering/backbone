@@ -1,5 +1,4 @@
-Ancalomicrobium Staley, 1968 GENUS
-=======
+# Ancalomicrobium Staley, 1968 GENUS
 
 #### Status
 ACCEPTED

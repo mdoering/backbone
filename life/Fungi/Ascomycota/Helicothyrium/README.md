@@ -1,5 +1,4 @@
-Helicothyrium I. Hino & Katum. GENUS
-=======
+# Helicothyrium I. Hino & Katum. GENUS
 
 #### Status
 ACCEPTED

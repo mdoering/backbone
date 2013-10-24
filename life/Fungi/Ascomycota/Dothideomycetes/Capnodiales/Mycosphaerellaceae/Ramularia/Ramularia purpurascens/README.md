@@ -1,5 +1,4 @@
-Ramularia purpurascens G. Winter, 1884 SPECIES
-=======
+# Ramularia purpurascens G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus altocedronensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus altocedronensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

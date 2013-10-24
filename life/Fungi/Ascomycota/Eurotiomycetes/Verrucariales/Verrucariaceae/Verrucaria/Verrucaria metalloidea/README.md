@@ -1,5 +1,4 @@
-Verrucaria metalloidea Grognot SPECIES
-=======
+# Verrucaria metalloidea Grognot SPECIES
 
 #### Status
 ACCEPTED

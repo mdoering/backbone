@@ -1,5 +1,4 @@
-Tripospermum prolongatum R.C. Sinclair & Morgan-Jones, 1979 SPECIES
-=======
+# Tripospermum prolongatum R.C. Sinclair & Morgan-Jones, 1979 SPECIES
 
 #### Status
 ACCEPTED

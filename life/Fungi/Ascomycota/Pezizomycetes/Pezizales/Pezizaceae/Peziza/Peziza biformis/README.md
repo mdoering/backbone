@@ -1,5 +1,4 @@
-Peziza biformis Oeder SPECIES
-=======
+# Peziza biformis Oeder SPECIES
 
 #### Status
 ACCEPTED

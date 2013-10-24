@@ -1,5 +1,4 @@
-Sphacelia Lév. GENUS
-=======
+# Sphacelia Lév. GENUS
 
 #### Status
 ACCEPTED

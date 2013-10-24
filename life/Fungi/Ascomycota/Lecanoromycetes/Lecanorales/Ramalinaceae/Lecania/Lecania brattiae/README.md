@@ -1,5 +1,4 @@
-Lecania brattiae B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania brattiae B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

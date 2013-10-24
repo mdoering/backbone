@@ -1,5 +1,4 @@
-Penicillium waksmanii K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium waksmanii K.M. Zalessky, 1927 SPECIES
 
 #### Status
 DOUBTFUL

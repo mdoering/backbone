@@ -1,5 +1,4 @@
-Parapeltella alchorneae Bat. & Peres SPECIES
-=======
+# Parapeltella alchorneae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

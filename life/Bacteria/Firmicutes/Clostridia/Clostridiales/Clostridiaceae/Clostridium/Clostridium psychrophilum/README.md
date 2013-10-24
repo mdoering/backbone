@@ -1,5 +1,4 @@
-Clostridium psychrophilum Spring et al., 2003 SPECIES
-=======
+# Clostridium psychrophilum Spring et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

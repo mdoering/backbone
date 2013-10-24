@@ -1,5 +1,4 @@
-Durella vilis Starbäck SPECIES
-=======
+# Durella vilis Starbäck SPECIES
 
 #### Status
 ACCEPTED

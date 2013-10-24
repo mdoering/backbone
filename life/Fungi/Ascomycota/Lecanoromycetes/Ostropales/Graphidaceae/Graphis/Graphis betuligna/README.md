@@ -1,5 +1,4 @@
-Graphis betuligna (Ach.) Ach. SPECIES
-=======
+# Graphis betuligna (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diphymyces I.I. Tav. GENUS
-=======
+# Diphymyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

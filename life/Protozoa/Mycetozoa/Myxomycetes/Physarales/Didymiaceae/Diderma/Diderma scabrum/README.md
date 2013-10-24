@@ -1,17 +1,16 @@
-Diderma scabra Eliasson & Nann.-Bremek. SPECIES
-=======
+# Diderma scabrum Eliasson & Nann.-Bremek., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(2): 151 (1983)
 
 #### Original name
-Diderma scabra Eliasson & Nann.-Bremek.
+Diderma scabrum Eliasson & Nann.-Bremek., 1983
 
 ### Remarks
 null

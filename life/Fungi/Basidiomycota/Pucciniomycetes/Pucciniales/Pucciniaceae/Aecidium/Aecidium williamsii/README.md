@@ -1,5 +1,4 @@
-Aecidium williamsii Ricker SPECIES
-=======
+# Aecidium williamsii Ricker SPECIES
 
 #### Status
 ACCEPTED

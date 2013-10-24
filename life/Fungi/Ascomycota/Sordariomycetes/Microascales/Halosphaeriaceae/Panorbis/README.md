@@ -1,5 +1,4 @@
-Panorbis J. Campb., J.L. Anderson & Shearer GENUS
-=======
+# Panorbis J. Campb., J.L. Anderson & Shearer GENUS
 
 #### Status
 ACCEPTED

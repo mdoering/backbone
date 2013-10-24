@@ -1,5 +1,4 @@
-Thamnolia regalis (Vain.) Gyeln. SPECIES
-=======
+# Thamnolia regalis (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

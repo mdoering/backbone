@@ -1,5 +1,4 @@
-Comoclathris pseudoverruculosa Nograsek SPECIES
-=======
+# Comoclathris pseudoverruculosa Nograsek SPECIES
 
 #### Status
 ACCEPTED

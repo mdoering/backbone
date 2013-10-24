@@ -1,5 +1,4 @@
-Xylaria appendiculata Ferd. & Winge SPECIES
-=======
+# Xylaria appendiculata Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

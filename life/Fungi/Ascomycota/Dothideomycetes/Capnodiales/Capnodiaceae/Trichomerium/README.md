@@ -1,5 +1,4 @@
-Trichomerium GENUS
-=======
+# Trichomerium GENUS
 
 #### Status
 ACCEPTED

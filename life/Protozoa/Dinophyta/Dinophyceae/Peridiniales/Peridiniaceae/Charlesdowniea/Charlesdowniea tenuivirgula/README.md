@@ -1,11 +1,10 @@
-Charlesdowniea tenuivirgula subsp. tenuivirgula SUBSPECIES
-=======
+# Charlesdowniea tenuivirgula (G.L. Williams & C. Downie) J.K. Lentin & T.F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

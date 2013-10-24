@@ -1,5 +1,4 @@
-Depazea linnaeae Lasch SPECIES
-=======
+# Depazea linnaeae Lasch SPECIES
 
 #### Status
 ACCEPTED

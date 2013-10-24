@@ -1,5 +1,4 @@
-Trichosporon niger G.H. Green SPECIES
-=======
+# Trichosporon niger G.H. Green SPECIES
 
 #### Status
 ACCEPTED

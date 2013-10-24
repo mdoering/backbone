@@ -1,5 +1,4 @@
-Lishizhenia caseinilytica Lau, Ren, Wai, Qian, Wong & Wu, 2006 SPECIES
-=======
+# Lishizhenia caseinilytica Lau, Ren, Wai, Qian, Wong & Wu, 2006 SPECIES
 
 #### Status
 ACCEPTED

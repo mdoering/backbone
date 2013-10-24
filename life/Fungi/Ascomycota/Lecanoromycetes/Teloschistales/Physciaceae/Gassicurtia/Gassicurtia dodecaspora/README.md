@@ -1,5 +1,4 @@
-Gassicurtia dodecaspora (Müll. Arg.) Marbach SPECIES
-=======
+# Gassicurtia dodecaspora (Müll. Arg.) Marbach SPECIES
 
 #### Status
 ACCEPTED

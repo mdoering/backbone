@@ -1,5 +1,4 @@
-Hemimiliola Andersen, 1997 GENUS
-=======
+# Hemimiliola Andersen, 1997 GENUS
 
 #### Status
 ACCEPTED

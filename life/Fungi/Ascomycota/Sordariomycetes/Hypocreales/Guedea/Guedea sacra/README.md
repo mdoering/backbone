@@ -1,5 +1,4 @@
-Guedea sacra Rambelli & Bartoli, 1978 SPECIES
-=======
+# Guedea sacra Rambelli & Bartoli, 1978 SPECIES
 
 #### Status
 ACCEPTED

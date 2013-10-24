@@ -1,5 +1,4 @@
-Puccinia leucophaea Syd. & P. Syd. SPECIES
-=======
+# Puccinia leucophaea Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

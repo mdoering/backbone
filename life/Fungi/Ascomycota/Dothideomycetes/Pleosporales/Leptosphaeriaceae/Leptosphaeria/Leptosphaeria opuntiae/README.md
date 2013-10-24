@@ -1,5 +1,4 @@
-Leptosphaeria opuntiae B.O. Dodge SPECIES
-=======
+# Leptosphaeria opuntiae B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paxillus psammophilus Cleland, 1933 SPECIES
-=======
+# Hygrophoropsis psammophila (Cleland) Grgur., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 57: 194 (1933)
+Larger Fungi of South Australia (Adelaide) 201 (1997)
 
 #### Original name
 Paxillus psammophilus Cleland, 1933

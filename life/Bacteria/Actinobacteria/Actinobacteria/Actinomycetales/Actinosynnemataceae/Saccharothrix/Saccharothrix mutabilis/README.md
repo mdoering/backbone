@@ -1,5 +1,4 @@
-Saccharothrix mutabilis subsp. mutabilis SUBSPECIES
-=======
+# Saccharothrix mutabilis (Shearer et al., 1983) Labeda & Lechevalier, 1989 SPECIES
 
 #### Status
 ACCEPTED

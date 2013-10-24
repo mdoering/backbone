@@ -1,5 +1,4 @@
-Gonospora vertiginosa Tugawa (H Hoshide), 1944 SPECIES
-=======
+# Gonospora vertiginosa Tugawa (H Hoshide), 1944 SPECIES
 
 #### Status
 ACCEPTED

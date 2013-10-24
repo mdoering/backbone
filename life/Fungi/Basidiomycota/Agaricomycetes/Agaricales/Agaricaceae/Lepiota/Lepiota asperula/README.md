@@ -1,5 +1,4 @@
-Lepiota asperula Peck SPECIES
-=======
+# Lepiota asperula Peck SPECIES
 
 #### Status
 ACCEPTED

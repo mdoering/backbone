@@ -1,5 +1,4 @@
-Chalara heteroderae Carris & Glawe SPECIES
-=======
+# Chalara heteroderae Carris & Glawe SPECIES
 
 #### Status
 ACCEPTED

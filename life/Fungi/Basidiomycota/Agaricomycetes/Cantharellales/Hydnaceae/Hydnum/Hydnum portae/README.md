@@ -1,5 +1,4 @@
-Hydnum portae F. Brig. SPECIES
-=======
+# Hydnum portae F. Brig. SPECIES
 
 #### Status
 ACCEPTED

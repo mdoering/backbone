@@ -1,5 +1,4 @@
-Phyllosticta treleasii Berl. & Voglino SPECIES
-=======
+# Phyllosticta treleasii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

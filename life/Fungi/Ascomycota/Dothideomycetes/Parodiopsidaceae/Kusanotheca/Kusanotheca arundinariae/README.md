@@ -1,5 +1,4 @@
-Kusanotheca arundinariae Bat. & Cif. SPECIES
-=======
+# Kusanotheca arundinariae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

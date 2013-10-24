@@ -1,5 +1,4 @@
-Cryptolechia carneoluteola (Tuck.) Kalb SPECIES
-=======
+# Cryptolechia carneoluteola (Tuck.) Kalb SPECIES
 
 #### Status
 ACCEPTED

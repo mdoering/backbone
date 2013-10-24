@@ -1,5 +1,4 @@
-Hendersonia salicella Kalchbr. SPECIES
-=======
+# Hendersonia salicella Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

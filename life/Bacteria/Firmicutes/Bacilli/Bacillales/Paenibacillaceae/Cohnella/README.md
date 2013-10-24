@@ -1,5 +1,4 @@
-Cohnella Kampfer, Rossello-Mora, Falsen, Busse & Tindall, 2006 GENUS
-=======
+# Cohnella Kampfer, Rossello-Mora, Falsen, Busse & Tindall, 2006 GENUS
 
 #### Status
 ACCEPTED

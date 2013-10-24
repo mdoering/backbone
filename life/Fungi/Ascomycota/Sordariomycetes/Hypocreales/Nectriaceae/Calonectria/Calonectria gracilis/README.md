@@ -1,17 +1,16 @@
-Cylindrocarpon gracile Bugnic., 1939 SPECIES
-=======
+# Calonectria gracilis Crous, M.J. Wingf. & Alfenas, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 11: 162 (1939)
+Mycotaxon 46: 224 (1993)
 
 #### Original name
-Cylindrocarpon gracile Bugnic., 1939
+Calonectria gracilis Crous, M.J. Wingf. & Alfenas, 1993
 
 ### Remarks
 null

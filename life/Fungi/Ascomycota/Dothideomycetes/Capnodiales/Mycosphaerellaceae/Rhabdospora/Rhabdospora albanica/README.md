@@ -1,5 +1,4 @@
-Rhabdospora albanica Bubák SPECIES
-=======
+# Rhabdospora albanica Bubák SPECIES
 
 #### Status
 ACCEPTED

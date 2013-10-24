@@ -1,5 +1,4 @@
-Pestalotia encephalartos Laughton SPECIES
-=======
+# Pestalotia encephalartos Laughton SPECIES
 
 #### Status
 ACCEPTED

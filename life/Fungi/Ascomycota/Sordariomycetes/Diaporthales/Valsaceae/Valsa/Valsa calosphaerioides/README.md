@@ -1,5 +1,4 @@
-Valsa calosphaerioides Rehm SPECIES
-=======
+# Valsa calosphaerioides Rehm SPECIES
 
 #### Status
 ACCEPTED

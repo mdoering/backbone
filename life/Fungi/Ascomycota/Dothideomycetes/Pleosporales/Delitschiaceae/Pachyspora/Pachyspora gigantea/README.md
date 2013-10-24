@@ -1,5 +1,4 @@
-Pachyspora gigantea Kirschst. SPECIES
-=======
+# Pachyspora gigantea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

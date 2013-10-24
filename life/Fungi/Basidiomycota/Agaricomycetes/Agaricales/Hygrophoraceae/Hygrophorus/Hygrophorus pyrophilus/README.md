@@ -1,5 +1,4 @@
-Hygrophorus pyrophilus Largent SPECIES
-=======
+# Hygrophorus pyrophilus Largent SPECIES
 
 #### Status
 ACCEPTED

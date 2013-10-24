@@ -1,5 +1,4 @@
-Geopyxis catinoides (Fuckel) Sacc. SPECIES
-=======
+# Geopyxis catinoides (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora compacta H. Magn. SPECIES
-=======
+# Acarospora compacta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

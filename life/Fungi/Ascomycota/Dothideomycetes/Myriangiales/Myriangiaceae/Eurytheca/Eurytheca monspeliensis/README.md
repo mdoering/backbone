@@ -1,17 +1,16 @@
-Dothidea monspeliensis (De Seynes) Cooke, 1885 SPECIES
-=======
+# Eurytheca monspeliensis De Seynes, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 25: 88 (1878)
 
 #### Original name
-null
+Eurytheca monspeliensis De Seynes, 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius inconspicuus J. Favre, 1955 SPECIES
-=======
+# Cortinarius inconspicuus J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

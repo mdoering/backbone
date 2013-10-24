@@ -1,5 +1,4 @@
-Verrucaria solicola P. M. McCarthy SPECIES
-=======
+# Verrucaria solicola P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

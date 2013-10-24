@@ -1,5 +1,4 @@
-Lopadium granulosum Patw. & Makhija SPECIES
-=======
+# Lopadium granulosum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

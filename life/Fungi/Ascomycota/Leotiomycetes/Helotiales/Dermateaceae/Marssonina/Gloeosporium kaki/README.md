@@ -1,5 +1,4 @@
-Gloeosporium kaki S. Ito SPECIES
-=======
+# Gloeosporium kaki S. Ito SPECIES
 
 #### Status
 ACCEPTED

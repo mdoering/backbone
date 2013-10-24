@@ -1,5 +1,4 @@
-Phyllosticta kotoensis Sawada SPECIES
-=======
+# Phyllosticta kotoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

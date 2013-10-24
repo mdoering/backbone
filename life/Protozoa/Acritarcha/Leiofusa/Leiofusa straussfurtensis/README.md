@@ -1,5 +1,4 @@
-Leiofusa straussfurtensis Schön, 1967 SPECIES
-=======
+# Leiofusa straussfurtensis Schön, 1967 SPECIES
 
 #### Status
 ACCEPTED

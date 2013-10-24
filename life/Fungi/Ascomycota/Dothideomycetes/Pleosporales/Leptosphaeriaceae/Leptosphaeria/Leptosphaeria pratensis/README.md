@@ -1,17 +1,16 @@
-Heptameria pratensis (Sacc. & Briard) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria pratensis Sacc. & Briard, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 7: 209 (1885)
 
 #### Original name
-null
+Leptosphaeria pratensis Sacc. & Briard, 1885
 
 ### Remarks
 null

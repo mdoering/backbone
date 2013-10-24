@@ -1,5 +1,4 @@
-Graphis valvulascens Fée SPECIES
-=======
+# Graphis valvulascens Fée SPECIES
 
 #### Status
 ACCEPTED

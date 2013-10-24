@@ -1,5 +1,4 @@
-Tetraspongodiscus Kozur & Mostler, 1979 GENUS
-=======
+# Tetraspongodiscus Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena polygramma (Bull. Fr.) Gray SPECIES
-=======
+# Mycena polygramma (Bull. Fr.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shanorella spirotricha R.K. Benj., 1956 SPECIES
-=======
+# Shanorella spirotricha R.K. Benj., 1956 SPECIES
 
 #### Status
 ACCEPTED

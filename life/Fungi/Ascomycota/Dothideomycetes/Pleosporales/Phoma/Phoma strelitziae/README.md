@@ -1,5 +1,4 @@
-Phoma strelitziae Thüm. SPECIES
-=======
+# Phoma strelitziae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leucostoma persoonii f. sp FORM
-=======
+# Leucostoma persoonii (Nitschke) Höhn., 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 5: 78 (1928)
 
 #### Original name
-Leucostoma persoonii f. sp
+Valsa persoonii Nitschke, 1870
 
 ### Remarks
 null

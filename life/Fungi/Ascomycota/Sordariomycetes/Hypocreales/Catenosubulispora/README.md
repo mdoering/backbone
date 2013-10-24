@@ -1,5 +1,4 @@
-Catenosubulispora Matsush. GENUS
-=======
+# Catenosubulispora Matsush. GENUS
 
 #### Status
 ACCEPTED

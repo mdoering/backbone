@@ -1,5 +1,4 @@
-Cyathus dimorphus Cobb SPECIES
-=======
+# Cyathus dimorphus Cobb SPECIES
 
 #### Status
 ACCEPTED

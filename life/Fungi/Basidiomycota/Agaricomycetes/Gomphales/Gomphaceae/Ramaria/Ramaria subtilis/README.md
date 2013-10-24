@@ -1,17 +1,16 @@
-Ramaria subtilis var. subtilis VARIETY
-=======
+# Ramaria subtilis (Coker) Schild, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Z. Mykol. 48(1): 118 (1982)
 
 #### Original name
-Ramaria subtilis var. subtilis
+Clavaria flava var. subtilis Coker, 1923
 
 ### Remarks
 null

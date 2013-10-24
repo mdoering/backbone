@@ -1,5 +1,4 @@
-Canalisporium pallidum Goh, W.H. Ho & K.D. Hyde SPECIES
-=======
+# Canalisporium pallidum Goh, W.H. Ho & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

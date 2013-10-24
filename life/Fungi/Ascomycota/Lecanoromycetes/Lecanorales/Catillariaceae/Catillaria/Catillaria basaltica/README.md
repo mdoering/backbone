@@ -1,5 +1,4 @@
-Catillaria basaltica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria basaltica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

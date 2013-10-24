@@ -1,5 +1,4 @@
-Bellemerella acarosporae Calat. & Nav.-Ros. SPECIES
-=======
+# Bellemerella acarosporae Calat. & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

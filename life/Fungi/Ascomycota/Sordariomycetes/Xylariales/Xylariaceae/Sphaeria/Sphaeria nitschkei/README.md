@@ -1,5 +1,4 @@
-Sphaeria nitschkei Auersw. SPECIES
-=======
+# Sphaeria nitschkei Auersw. SPECIES
 
 #### Status
 ACCEPTED

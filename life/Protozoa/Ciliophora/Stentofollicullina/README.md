@@ -1,5 +1,4 @@
-Stentofollicullina GENUS
-=======
+# Stentofollicullina GENUS
 
 #### Status
 ACCEPTED

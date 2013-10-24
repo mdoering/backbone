@@ -1,5 +1,4 @@
-Peziza turbo SPECIES
-=======
+# Peziza turbo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiopsis M.B. Ellis GENUS
-=======
+# Endophragmiopsis M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus hausmanni Fr. SPECIES
-=======
+# Polyporus hausmanni Fr. SPECIES
 
 #### Status
 ACCEPTED

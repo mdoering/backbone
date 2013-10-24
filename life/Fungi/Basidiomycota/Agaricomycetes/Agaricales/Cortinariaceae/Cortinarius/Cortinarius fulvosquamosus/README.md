@@ -1,5 +1,4 @@
-Cortinarius fulvosquamosus P.D. Orton, 1977 SPECIES
-=======
+# Cortinarius fulvosquamosus P.D. Orton, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cuphophyllus niveicolor (Murrill) Courtec. SPECIES
-=======
+# Cuphophyllus niveicolor (Murrill) Courtec. SPECIES
 
 #### Status
 ACCEPTED

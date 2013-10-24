@@ -1,17 +1,16 @@
-Verticillium villosus Rudakov SPECIES
-=======
+# Verticillium villosum Rudakov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikofil'nye Griby Ikh Biologiya i Prakticheskoe Znachenie (Moscow), Moscow 95 (1981)
 
 #### Original name
-Verticillium villosus Rudakov
+Verticillium villosum Rudakov
 
 ### Remarks
 null

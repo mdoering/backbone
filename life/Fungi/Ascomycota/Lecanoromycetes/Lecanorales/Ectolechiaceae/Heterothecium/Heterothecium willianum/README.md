@@ -1,5 +1,4 @@
-Heterothecium willianum Müll. Arg. SPECIES
-=======
+# Heterothecium willianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

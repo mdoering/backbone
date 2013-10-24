@@ -1,14 +1,13 @@
-Bilimbia mesoidea (Nyl.) A.L. Sm. SPECIES
-=======
+# Toninia mesoidea (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 135 (1911)
+Cat. Lich. Univers. 4: 289 (1926)
 
 #### Original name
 Lecidea mesoidea Nyl.

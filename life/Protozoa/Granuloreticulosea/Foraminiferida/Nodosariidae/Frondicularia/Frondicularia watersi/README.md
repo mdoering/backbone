@@ -1,5 +1,4 @@
-Frondicularia watersi Cushman SPECIES
-=======
+# Frondicularia watersi Cushman SPECIES
 
 #### Status
 ACCEPTED

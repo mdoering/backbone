@@ -1,5 +1,4 @@
-Pyrenochaeta sparsibarba Petch SPECIES
-=======
+# Pyrenochaeta sparsibarba Petch SPECIES
 
 #### Status
 ACCEPTED

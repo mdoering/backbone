@@ -1,17 +1,16 @@
-Glomerula Bainier GENUS
-=======
+# Actinomucor Schostak. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 19: 154 (1903)
+Ber. dt. bot. Ges. 16: 155 (1898)
 
 #### Original name
-Glomerula Bainier
+Actinomucor Schostak.
 
 ### Remarks
 null

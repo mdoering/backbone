@@ -1,5 +1,4 @@
-Coniosporium variabile (Peck) Sacc. SPECIES
-=======
+# Coniosporium variabile (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

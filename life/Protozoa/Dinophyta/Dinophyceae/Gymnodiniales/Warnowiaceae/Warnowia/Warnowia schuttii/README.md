@@ -1,5 +1,4 @@
-Warnowia schuttii SPECIES
-=======
+# Warnowia schuttii SPECIES
 
 #### Status
 ACCEPTED

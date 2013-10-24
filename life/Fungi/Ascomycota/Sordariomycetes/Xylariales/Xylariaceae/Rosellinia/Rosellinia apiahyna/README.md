@@ -1,5 +1,4 @@
-Rosellinia apiahyna Speg. SPECIES
-=======
+# Rosellinia apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius bahamensis Murrill SPECIES
-=======
+# Marasmius bahamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

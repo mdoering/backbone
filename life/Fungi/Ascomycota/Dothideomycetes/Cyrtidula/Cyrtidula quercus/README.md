@@ -1,17 +1,16 @@
-Mycoporum quercus var. quercus (A. Massal.) Müll. Arg. VARIETY
-=======
+# Cyrtidula quercus (A. Massal.) Minks SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 402 (1882)
+Revue mycol. , Toulouse 13: 61 (1891)
 
 #### Original name
-Mycoporum quercus var. quercus (A. Massal.) Müll. Arg.
+Arthopyrenia quercus A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonia dianthi Magnus SPECIES
-=======
+# Hendersonia dianthi Magnus SPECIES
 
 #### Status
 ACCEPTED

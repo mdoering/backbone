@@ -1,5 +1,4 @@
-Cortinarius pustulatus (Bidaud) Bidaud SPECIES
-=======
+# Cortinarius pustulatus (Bidaud) Bidaud SPECIES
 
 #### Status
 ACCEPTED

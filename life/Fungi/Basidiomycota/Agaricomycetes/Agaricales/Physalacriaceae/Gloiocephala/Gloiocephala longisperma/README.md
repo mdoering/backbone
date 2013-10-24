@@ -1,5 +1,4 @@
-Gloiocephala longisperma Singer SPECIES
-=======
+# Gloiocephala longisperma Singer SPECIES
 
 #### Status
 ACCEPTED

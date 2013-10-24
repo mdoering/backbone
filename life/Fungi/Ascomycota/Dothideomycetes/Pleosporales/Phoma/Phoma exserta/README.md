@@ -1,5 +1,4 @@
-Phoma exserta var. exserta VARIETY
-=======
+# Phoma exserta Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma exserta var. exserta
+Phoma exserta Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leucoagaricus littoralis (Menier) Bon & Boiffard SPECIES
-=======
+# Leucoagaricus littoralis (Menier) Bon & Boiffard SPECIES
 
 #### Status
 ACCEPTED

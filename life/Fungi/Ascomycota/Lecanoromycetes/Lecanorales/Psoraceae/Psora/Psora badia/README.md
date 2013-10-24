@@ -1,5 +1,4 @@
-Psora badia SPECIES
-=======
+# Psora badia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaucoma paradoxum SPECIES
-=======
+# Glaucoma paradoxum SPECIES
 
 #### Status
 ACCEPTED

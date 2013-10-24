@@ -1,5 +1,4 @@
-Spirillum cardiopyrogenes SPECIES
-=======
+# Spirillum cardiopyrogenes SPECIES
 
 #### Status
 ACCEPTED

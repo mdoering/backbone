@@ -1,17 +1,16 @@
-Acrothecium simplex var. simplex Berk. & Broome VARIETY
-=======
+# Dactylaria parvispora (Preuss) de Hoog & Arx, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: 382 (1861)
+Kavaka 1: 58 (1973)
 
 #### Original name
-Acrothecium simplex var. simplex Berk. & Broome
+Cordana parvispora Preuss, 1853
 
 ### Remarks
 null

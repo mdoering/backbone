@@ -1,5 +1,4 @@
-Heterosphaeria ovispora Leuchtm., 1987 SPECIES
-=======
+# Heterosphaeria ovispora Leuchtm., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus setigerus Corner SPECIES
-=======
+# Boletus setigerus Corner SPECIES
 
 #### Status
 ACCEPTED

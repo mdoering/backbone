@@ -1,5 +1,4 @@
-Micropeltidium trigonostemonis F. Stevens & W. Schneid. SPECIES
-=======
+# Micropeltidium trigonostemonis F. Stevens & W. Schneid. SPECIES
 
 #### Status
 ACCEPTED

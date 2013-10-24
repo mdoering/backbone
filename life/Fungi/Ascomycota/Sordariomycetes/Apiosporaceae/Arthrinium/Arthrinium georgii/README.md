@@ -1,5 +1,4 @@
-Arthrinium georgii Larrondo & Calvo SPECIES
-=======
+# Arthrinium georgii Larrondo & Calvo SPECIES
 
 #### Status
 ACCEPTED

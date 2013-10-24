@@ -1,5 +1,4 @@
-Goniosphaeridium regulare Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Goniosphaeridium regulare Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

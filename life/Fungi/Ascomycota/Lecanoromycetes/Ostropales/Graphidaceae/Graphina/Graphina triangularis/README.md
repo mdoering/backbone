@@ -1,5 +1,4 @@
-Graphina triangularis Zahlbr. SPECIES
-=======
+# Graphina triangularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

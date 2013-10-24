@@ -1,5 +1,4 @@
-Panaeolus goossensiae Beeli SPECIES
-=======
+# Panaeolus goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

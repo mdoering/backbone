@@ -1,5 +1,4 @@
-Cladonia muelleri (Hampe) Nyl. SPECIES
-=======
+# Cladonia muelleri (Hampe) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodothis ocoteae Hansf. SPECIES
-=======
+# Trichodothis ocoteae Hansf. SPECIES
 
 #### Status
 ACCEPTED

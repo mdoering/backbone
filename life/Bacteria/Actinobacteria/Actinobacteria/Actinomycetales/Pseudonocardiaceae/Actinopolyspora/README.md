@@ -1,5 +1,4 @@
-Actinopolyspora Gochn., K.G. Johnson & Kushner GENUS
-=======
+# Actinopolyspora Gochn., K.G. Johnson & Kushner GENUS
 
 #### Status
 ACCEPTED

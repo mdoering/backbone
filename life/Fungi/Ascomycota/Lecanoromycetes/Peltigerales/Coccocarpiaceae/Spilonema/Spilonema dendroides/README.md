@@ -1,5 +1,4 @@
-Spilonema dendroides Henssen SPECIES
-=======
+# Spilonema dendroides Henssen SPECIES
 
 #### Status
 ACCEPTED

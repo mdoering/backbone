@@ -1,5 +1,4 @@
-Podosordaria aristata (Mont.) P.M.D. Martin SPECIES
-=======
+# Podosordaria aristata (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

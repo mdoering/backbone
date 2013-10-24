@@ -1,5 +1,4 @@
-Caliciella GENUS
-=======
+# Caliciella GENUS
 
 #### Status
 ACCEPTED

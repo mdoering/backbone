@@ -1,5 +1,4 @@
-Arthonia bacidiospora (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia bacidiospora (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

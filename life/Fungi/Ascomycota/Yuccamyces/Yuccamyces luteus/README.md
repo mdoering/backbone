@@ -1,17 +1,16 @@
-Yuccamyces lutea R.F. Castañeda SPECIES
-=======
+# Yuccamyces luteus R.F. Castañeda, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Cubenses II (La Habana) 12 (1987)
 
 #### Original name
-Yuccamyces lutea R.F. Castañeda
+Yuccamyces luteus R.F. Castañeda, 1987
 
 ### Remarks
 null

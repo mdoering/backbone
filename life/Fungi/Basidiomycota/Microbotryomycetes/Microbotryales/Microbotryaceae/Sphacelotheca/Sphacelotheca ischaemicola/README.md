@@ -1,5 +1,4 @@
-Sphacelotheca ischaemicola L. Ling SPECIES
-=======
+# Sphacelotheca ischaemicola L. Ling SPECIES
 
 #### Status
 ACCEPTED

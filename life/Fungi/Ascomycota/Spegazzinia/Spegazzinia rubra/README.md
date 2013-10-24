@@ -1,5 +1,4 @@
-Spegazzinia rubra Dearn. & House SPECIES
-=======
+# Spegazzinia rubra Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

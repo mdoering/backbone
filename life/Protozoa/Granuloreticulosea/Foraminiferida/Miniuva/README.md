@@ -1,5 +1,4 @@
-Miniuva Vella, 1961 GENUS
-=======
+# Miniuva Vella, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia subspicax SPECIES
-=======
+# Blastenia subspicax SPECIES
 
 #### Status
 ACCEPTED

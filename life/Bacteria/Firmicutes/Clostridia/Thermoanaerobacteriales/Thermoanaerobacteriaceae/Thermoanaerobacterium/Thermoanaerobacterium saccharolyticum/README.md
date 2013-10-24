@@ -1,5 +1,4 @@
-Thermoanaerobacterium saccharolyticum Lee et al., 1993 SPECIES
-=======
+# Thermoanaerobacterium saccharolyticum Lee et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

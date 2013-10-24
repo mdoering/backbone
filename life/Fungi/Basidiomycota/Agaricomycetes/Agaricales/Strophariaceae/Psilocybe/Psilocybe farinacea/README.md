@@ -1,5 +1,4 @@
-Psilocybe farinacea Rick ex Guzmán SPECIES
-=======
+# Psilocybe farinacea Rick ex Guzmán SPECIES
 
 #### Status
 ACCEPTED

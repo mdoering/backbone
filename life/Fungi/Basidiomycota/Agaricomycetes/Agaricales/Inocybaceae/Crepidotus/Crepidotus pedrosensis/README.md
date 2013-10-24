@@ -1,5 +1,4 @@
-Crepidotus pedrosensis Murrill SPECIES
-=======
+# Crepidotus pedrosensis Murrill SPECIES
 
 #### Status
 ACCEPTED

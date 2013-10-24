@@ -1,5 +1,4 @@
-Bovista concinna S. Ahmad SPECIES
-=======
+# Bovista concinna S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

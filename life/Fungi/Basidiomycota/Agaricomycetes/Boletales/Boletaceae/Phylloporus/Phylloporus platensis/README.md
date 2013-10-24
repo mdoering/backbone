@@ -1,5 +1,4 @@
-Phylloporus platensis Speg. SPECIES
-=======
+# Phylloporus platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

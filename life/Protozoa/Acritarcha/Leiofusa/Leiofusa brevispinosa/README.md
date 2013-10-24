@@ -1,5 +1,4 @@
-Leiofusa brevispinosa Uutela & Tynni, 1991 SPECIES
-=======
+# Leiofusa brevispinosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

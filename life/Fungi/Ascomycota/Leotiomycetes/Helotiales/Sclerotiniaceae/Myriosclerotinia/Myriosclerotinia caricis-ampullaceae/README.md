@@ -1,5 +1,4 @@
-Myriosclerotinia caricis-ampullaceae (Nyberg) N.F. Buchw. SPECIES
-=======
+# Myriosclerotinia caricis-ampullaceae (Nyberg) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

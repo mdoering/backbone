@@ -1,5 +1,4 @@
-Phacus caudatus Hübner, 1886 SPECIES
-=======
+# Phacus caudatus Hübner, 1886 SPECIES
 
 #### Status
 ACCEPTED

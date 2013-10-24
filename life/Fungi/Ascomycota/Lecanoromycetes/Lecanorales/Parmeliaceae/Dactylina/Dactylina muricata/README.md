@@ -1,5 +1,4 @@
-Dactylina muricata (Laurer) Tuck. SPECIES
-=======
+# Dactylina muricata (Laurer) Tuck. SPECIES
 
 #### Status
 ACCEPTED

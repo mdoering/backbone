@@ -1,17 +1,16 @@
-Polyporellus elegans f. elegans FORM
-=======
+# Polyporus leptocephalus (Jacq.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 37 (1879)
+Syst. mycol. (Lundae) 1: 349 (1821)
 
 #### Original name
-Polyporellus elegans f. elegans
+Boletus leptocephalus Jacq., 1778
 
 ### Remarks
 null

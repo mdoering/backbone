@@ -1,5 +1,4 @@
-Exidiopsis quercina Vuill. SPECIES
-=======
+# Exidiopsis quercina Vuill. SPECIES
 
 #### Status
 ACCEPTED

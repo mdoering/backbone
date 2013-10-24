@@ -1,5 +1,4 @@
-Quinqueloculina polygona SPECIES
-=======
+# Quinqueloculina polygona SPECIES
 
 #### Status
 ACCEPTED

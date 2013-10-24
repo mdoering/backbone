@@ -1,5 +1,4 @@
-Chytridium pollinis-typhae Tomaschek SPECIES
-=======
+# Chytridium pollinis-typhae Tomaschek SPECIES
 
 #### Status
 ACCEPTED

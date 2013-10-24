@@ -1,5 +1,4 @@
-Calicium obscuratum Nyl. SPECIES
-=======
+# Calicium obscuratum Nyl. SPECIES
 
 #### Status
 ACCEPTED

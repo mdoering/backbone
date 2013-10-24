@@ -1,5 +1,4 @@
-Macrophoma cercis Tehon & G.L. Stout SPECIES
-=======
+# Macrophoma cercis Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

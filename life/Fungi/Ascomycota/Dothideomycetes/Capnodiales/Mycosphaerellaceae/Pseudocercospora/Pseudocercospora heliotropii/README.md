@@ -1,5 +1,4 @@
-Pseudocercospora heliotropii U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora heliotropii U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

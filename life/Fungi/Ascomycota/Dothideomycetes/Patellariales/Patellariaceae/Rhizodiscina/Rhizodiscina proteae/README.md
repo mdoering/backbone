@@ -1,5 +1,4 @@
-Rhizodiscina proteae Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Rhizodiscina proteae Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

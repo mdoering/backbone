@@ -1,5 +1,4 @@
-Umbilicaria kisovana (Zahlbr. ex M. Satô) Kurok. SPECIES
-=======
+# Umbilicaria kisovana (Zahlbr. ex M. Satô) Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Discospora Arthur, 1907 GENUS
-=======
+# Pileolaria Castagne, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7: 149 (1907)
+Observ. Uréd. 1: 22 (1842)
 
 #### Original name
-Discospora Arthur, 1907
+Pileolaria Castagne, 1842
 
 ### Remarks
 null

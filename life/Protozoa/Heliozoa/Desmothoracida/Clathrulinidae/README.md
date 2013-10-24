@@ -1,5 +1,4 @@
-Clathrulinidae FAMILY
-=======
+# Clathrulinidae FAMILY
 
 #### Status
 ACCEPTED

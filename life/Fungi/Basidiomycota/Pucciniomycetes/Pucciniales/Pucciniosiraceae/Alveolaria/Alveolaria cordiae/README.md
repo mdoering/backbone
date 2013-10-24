@@ -1,5 +1,4 @@
-Alveolaria cordiae Lagerh., 1891 SPECIES
-=======
+# Alveolaria cordiae Lagerh., 1891 SPECIES
 
 #### Status
 ACCEPTED

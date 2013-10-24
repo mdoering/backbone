@@ -1,5 +1,4 @@
-Radotruncana El-Naggar, 1971 GENUS
-=======
+# Radotruncana El-Naggar, 1971 GENUS
 
 #### Status
 ACCEPTED

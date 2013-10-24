@@ -1,5 +1,4 @@
-Ophiobolus origani Milovtz. SPECIES
-=======
+# Ophiobolus origani Milovtz. SPECIES
 
 #### Status
 ACCEPTED

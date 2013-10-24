@@ -1,14 +1,13 @@
-Dasyscyphus radotinense (Velen.) Dennis SPECIES
-=======
+# Lachnum radotinense Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 261 (1934)
 
 #### Original name
 Lachnum radotinense Velen., 1934

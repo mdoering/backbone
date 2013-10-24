@@ -1,5 +1,4 @@
-Spongosaturninus medioangustus SPECIES
-=======
+# Spongosaturninus medioangustus SPECIES
 
 #### Status
 ACCEPTED

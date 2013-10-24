@@ -1,8 +1,7 @@
-Stokesiella annulata Skuja SPECIES
-=======
+# Arthropyxis annulata (Skuja) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

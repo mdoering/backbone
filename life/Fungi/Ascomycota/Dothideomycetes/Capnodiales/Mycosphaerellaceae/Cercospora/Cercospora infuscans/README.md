@@ -1,5 +1,4 @@
-Cercospora infuscans Ellis & Everh. SPECIES
-=======
+# Cercospora infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

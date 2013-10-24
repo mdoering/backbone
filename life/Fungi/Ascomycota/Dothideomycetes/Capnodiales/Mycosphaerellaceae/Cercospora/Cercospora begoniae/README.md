@@ -1,5 +1,4 @@
-Cercospora begoniae Hori SPECIES
-=======
+# Cercospora begoniae Hori SPECIES
 
 #### Status
 ACCEPTED

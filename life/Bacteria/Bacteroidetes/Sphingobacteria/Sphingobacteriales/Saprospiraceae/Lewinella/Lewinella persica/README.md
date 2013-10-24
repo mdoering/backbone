@@ -1,8 +1,7 @@
-Herpetosiphon persicus Lewin, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Lewinella persica (Lewin, 1970) Sly et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

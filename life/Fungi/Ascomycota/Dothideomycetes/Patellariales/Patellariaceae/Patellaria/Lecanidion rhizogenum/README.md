@@ -1,5 +1,4 @@
-Lecanidion rhizogenum (Mont.) Sacc. SPECIES
-=======
+# Lecanidion rhizogenum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

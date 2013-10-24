@@ -1,8 +1,7 @@
-Helicostomella longa (Brandt, 1906) SPECIES
-=======
+# Helicostomella subulata (Ehrenberg, 1833) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

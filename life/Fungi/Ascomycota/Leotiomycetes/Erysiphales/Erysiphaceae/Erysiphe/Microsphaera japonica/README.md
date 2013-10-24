@@ -1,5 +1,4 @@
-Microsphaera japonica Henn. SPECIES
-=======
+# Microsphaera japonica Henn. SPECIES
 
 #### Status
 ACCEPTED

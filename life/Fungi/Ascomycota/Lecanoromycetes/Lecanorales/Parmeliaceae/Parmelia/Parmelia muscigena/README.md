@@ -1,5 +1,4 @@
-Parmelia muscigena var. muscigena VARIETY
-=======
+# Parmelia muscigena SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Parmelia muscigena var. muscigena
+Parmelia muscigena
 
 ### Remarks
 null

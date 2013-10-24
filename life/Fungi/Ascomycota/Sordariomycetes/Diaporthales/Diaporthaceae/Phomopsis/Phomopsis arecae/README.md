@@ -1,5 +1,4 @@
-Phomopsis arecae Syd. & P. Syd. SPECIES
-=======
+# Phomopsis arecae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

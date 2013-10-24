@@ -1,5 +1,4 @@
-Dermatosorus cyperi Vánky, 1995 SPECIES
-=======
+# Dermatosorus cyperi Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza cannea Cooke SPECIES
-=======
+# Peziza cannea Cooke SPECIES
 
 #### Status
 ACCEPTED

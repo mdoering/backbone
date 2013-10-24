@@ -1,5 +1,4 @@
-Pyrotheca cyclopis (Leblanc, 1930) Poisson SPECIES
-=======
+# Pyrotheca cyclopis (Leblanc, 1930) Poisson SPECIES
 
 #### Status
 ACCEPTED

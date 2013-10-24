@@ -1,5 +1,4 @@
-Peziza ulmicola P. Crouan & H. Crouan SPECIES
-=======
+# Peziza ulmicola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

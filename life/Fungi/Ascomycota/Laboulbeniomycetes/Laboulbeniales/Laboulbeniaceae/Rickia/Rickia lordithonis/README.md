@@ -1,5 +1,4 @@
-Rickia lordithonis T. Majewski & K. Sugiy. SPECIES
-=======
+# Rickia lordithonis T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

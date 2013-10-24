@@ -1,5 +1,4 @@
-Atrichophyton blanchardii (Castell.) Castell. & Chalm. SPECIES
-=======
+# Atrichophyton blanchardii (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

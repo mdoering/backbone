@@ -1,14 +1,13 @@
-Lecanora inaequatula Nyl. SPECIES
-=======
+# Ochrolechia inaequatula (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 68: 603 (1885)
+Annln K. K. naturh. Hofmus. Wien 27: 270 (1913)
 
 #### Original name
 Lecanora inaequatula Nyl.

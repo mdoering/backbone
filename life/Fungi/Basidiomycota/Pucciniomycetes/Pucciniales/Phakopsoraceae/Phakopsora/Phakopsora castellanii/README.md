@@ -1,17 +1,16 @@
-Phakopsora aeschynomenis E. Castell. SPECIES
-=======
+# Phakopsora castellanii Y. Ono, Buriticá & J.F. Hennen, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 96(10): 831 (1992)
 
 #### Original name
-Phakopsora aeschynomenis E. Castell.
+Phakopsora aeschynomenes E. Castell., 1942
 
 ### Remarks
 null

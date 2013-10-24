@@ -1,5 +1,4 @@
-Pseudochrysalidina Cole, 1941 GENUS
-=======
+# Pseudochrysalidina Cole, 1941 GENUS
 
 #### Status
 ACCEPTED

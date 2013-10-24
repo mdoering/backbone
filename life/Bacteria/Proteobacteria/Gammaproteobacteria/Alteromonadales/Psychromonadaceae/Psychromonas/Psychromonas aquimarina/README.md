@@ -1,5 +1,4 @@
-Psychromonas aquimarina Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
-=======
+# Psychromonas aquimarina Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

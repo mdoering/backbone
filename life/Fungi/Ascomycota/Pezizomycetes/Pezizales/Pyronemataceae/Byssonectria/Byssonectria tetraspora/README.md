@@ -1,17 +1,16 @@
-Octospora tetraspora var. tetraspora VARIETY
-=======
+# Byssonectria tetraspora (Fuckel) Korf, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 46(6): 838 (1954)
+Phytologia 21(4): 202 (1971)
 
 #### Original name
-Octospora tetraspora var. tetraspora
+Ascobolus tetraspora Fuckel, 1866
 
 ### Remarks
 null

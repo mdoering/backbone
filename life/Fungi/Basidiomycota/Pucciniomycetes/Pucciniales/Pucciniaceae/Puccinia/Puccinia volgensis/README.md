@@ -1,5 +1,4 @@
-Puccinia volgensis Navashin SPECIES
-=======
+# Puccinia volgensis Navashin SPECIES
 
 #### Status
 ACCEPTED

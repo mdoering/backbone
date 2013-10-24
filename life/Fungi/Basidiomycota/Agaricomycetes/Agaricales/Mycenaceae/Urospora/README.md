@@ -1,5 +1,4 @@
-Urospora GENUS
-=======
+# Urospora GENUS
 
 #### Status
 ACCEPTED

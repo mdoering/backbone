@@ -1,5 +1,4 @@
-Udeniomyces piricola (Stadelman) Nakase & Takem. SPECIES
-=======
+# Udeniomyces piricola (Stadelman) Nakase & Takem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Kisselovia tenuivirgula subsp. tenuivirgula SUBSPECIES
-=======
+# Kisselovia tenuivirgula (Williams & Downie, 1966) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Dermatocarpon microphyllizum SPECIES
-=======
+# Dermatocarpon microphyllizum SPECIES
 
 #### Status
 ACCEPTED

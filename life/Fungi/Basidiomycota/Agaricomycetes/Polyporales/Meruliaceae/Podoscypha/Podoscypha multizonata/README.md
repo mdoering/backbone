@@ -1,14 +1,13 @@
-Thelephora multizonata Berk. & Broome, 1865 SPECIES
-=======
+# Podoscypha multizonata (Berk. & Broome) Pat., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3(no. 15): 321 (1865)
+Annals Cryptog. Exot. 1: 6 (1928)
 
 #### Original name
 Thelephora multizonata Berk. & Broome, 1865

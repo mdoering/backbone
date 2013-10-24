@@ -1,11 +1,10 @@
-Mesodinium pulex subsp. pulex SUBSPECIES
-=======
+# Mesodinium pulex (Claparède & Lachmann, 1859) Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

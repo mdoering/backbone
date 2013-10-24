@@ -1,5 +1,4 @@
-Teichospora rhypodes Ellis & Everh. SPECIES
-=======
+# Teichospora rhypodes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

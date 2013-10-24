@@ -1,5 +1,4 @@
-Phlyctema albocinta Ellis & Everh. SPECIES
-=======
+# Phlyctema albocinta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

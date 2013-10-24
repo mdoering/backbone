@@ -1,5 +1,4 @@
-Cortinarius pertristis J. Favre, 1955 SPECIES
-=======
+# Cortinarius pertristis J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

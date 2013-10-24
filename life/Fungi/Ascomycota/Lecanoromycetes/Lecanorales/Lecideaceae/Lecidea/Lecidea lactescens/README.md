@@ -1,5 +1,4 @@
-Lecidea lactescens Leight. SPECIES
-=======
+# Lecidea lactescens Leight. SPECIES
 
 #### Status
 ACCEPTED

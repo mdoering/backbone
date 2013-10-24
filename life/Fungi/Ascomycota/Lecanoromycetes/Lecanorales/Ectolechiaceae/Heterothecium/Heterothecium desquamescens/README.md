@@ -1,5 +1,4 @@
-Heterothecium desquamescens A. Massal. SPECIES
-=======
+# Heterothecium desquamescens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

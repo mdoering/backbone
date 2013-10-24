@@ -1,5 +1,4 @@
-Sphaeria intumescens A. Braun SPECIES
-=======
+# Sphaeria intumescens A. Braun SPECIES
 
 #### Status
 ACCEPTED

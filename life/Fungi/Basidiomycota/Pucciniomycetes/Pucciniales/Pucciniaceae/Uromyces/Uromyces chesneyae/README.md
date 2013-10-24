@@ -1,5 +1,4 @@
-Uromyces chesneyae Tranzschel & Erem. SPECIES
-=======
+# Uromyces chesneyae Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

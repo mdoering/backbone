@@ -1,5 +1,4 @@
-Polystictus pellucidus Berk. ex Sacc. SPECIES
-=======
+# Polystictus pellucidus Berk. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

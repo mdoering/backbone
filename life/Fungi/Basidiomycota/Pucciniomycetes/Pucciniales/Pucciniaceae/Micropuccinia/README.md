@@ -1,5 +1,4 @@
-Micropuccinia GENUS
-=======
+# Micropuccinia GENUS
 
 #### Status
 ACCEPTED

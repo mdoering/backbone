@@ -1,5 +1,4 @@
-Xylaria lepidota Y.M. Ju, H.M. Hsieh, Lar.N. Vassiljeva & Akulov, 2009 SPECIES
-=======
+# Xylaria lepidota Y.M. Ju, H.M. Hsieh, Lar.N. Vassiljeva & Akulov, 2009 SPECIES
 
 #### Status
 ACCEPTED

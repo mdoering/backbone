@@ -1,8 +1,7 @@
-Cachonina illdefina Herman & Sweeney SPECIES
-=======
+# Cachonina hallii (Freudenthal & Lee) Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

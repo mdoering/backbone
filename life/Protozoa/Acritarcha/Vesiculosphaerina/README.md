@@ -1,5 +1,4 @@
-Vesiculosphaerina Lopukhin, 1966 GENUS
-=======
+# Vesiculosphaerina Lopukhin, 1966 GENUS
 
 #### Status
 ACCEPTED

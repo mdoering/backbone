@@ -1,5 +1,4 @@
-Scutellinia fimicola J. Moravec SPECIES
-=======
+# Scutellinia fimicola J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus rubrocinereus Ehrenb. SPECIES
-=======
+# Hypochnus rubrocinereus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

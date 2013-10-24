@@ -1,5 +1,4 @@
-Physcia villosula Moberg SPECIES
-=======
+# Physcia villosula Moberg SPECIES
 
 #### Status
 ACCEPTED

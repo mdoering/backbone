@@ -1,5 +1,4 @@
-Barlaea recurva (Berk.) Sacc. SPECIES
-=======
+# Barlaea recurva (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

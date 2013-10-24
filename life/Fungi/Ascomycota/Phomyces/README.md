@@ -1,5 +1,4 @@
-Phomyces Clem. GENUS
-=======
+# Phomyces Clem. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola solanicola Gaillard SPECIES
-=======
+# Meliola solanicola Gaillard SPECIES
 
 #### Status
 ACCEPTED

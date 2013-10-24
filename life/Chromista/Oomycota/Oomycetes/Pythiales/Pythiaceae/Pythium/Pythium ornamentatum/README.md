@@ -1,5 +1,4 @@
-Pythium ornamentatum B. Paul SPECIES
-=======
+# Pythium ornamentatum B. Paul SPECIES
 
 #### Status
 ACCEPTED

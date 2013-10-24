@@ -1,5 +1,4 @@
-Marasmius afrosulphureus Courtec. SPECIES
-=======
+# Marasmius afrosulphureus Courtec. SPECIES
 
 #### Status
 ACCEPTED

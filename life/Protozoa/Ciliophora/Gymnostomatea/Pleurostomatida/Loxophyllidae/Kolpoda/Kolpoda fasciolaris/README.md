@@ -1,5 +1,4 @@
-Kolpoda fasciolaris Bory, 1824 SPECIES
-=======
+# Kolpoda fasciolaris Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

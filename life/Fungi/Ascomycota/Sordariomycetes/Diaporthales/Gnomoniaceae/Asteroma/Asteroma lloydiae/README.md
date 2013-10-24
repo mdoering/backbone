@@ -1,5 +1,4 @@
-Asteroma lloydiae Cruchet SPECIES
-=======
+# Asteroma lloydiae Cruchet SPECIES
 
 #### Status
 ACCEPTED

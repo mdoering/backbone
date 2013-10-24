@@ -1,5 +1,4 @@
-Discomorphellidae FAMILY
-=======
+# Discomorphellidae FAMILY
 
 #### Status
 ACCEPTED

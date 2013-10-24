@@ -1,5 +1,4 @@
-Phyllosticta kerriae Motohashi, I. Araki & C. Nakash. SPECIES
-=======
+# Phyllosticta kerriae Motohashi, I. Araki & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

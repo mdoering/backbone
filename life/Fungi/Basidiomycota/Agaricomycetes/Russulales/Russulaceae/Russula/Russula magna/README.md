@@ -1,5 +1,4 @@
-Russula magna Beardslee SPECIES
-=======
+# Russula magna Beardslee SPECIES
 
 #### Status
 ACCEPTED

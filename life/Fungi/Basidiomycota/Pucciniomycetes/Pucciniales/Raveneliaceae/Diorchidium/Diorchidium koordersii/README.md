@@ -1,14 +1,13 @@
-Diphragmium koordersii (Wurth) Boedijn, 1960 SPECIES
-=======
+# Diorchidium koordersii Wurth, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia (1960)
+Hedwigia 47: 74 (1908)
 
 #### Original name
 Diorchidium koordersii Wurth, 1908

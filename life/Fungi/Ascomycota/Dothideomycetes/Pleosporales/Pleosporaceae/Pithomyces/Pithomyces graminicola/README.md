@@ -1,5 +1,4 @@
-Pithomyces graminicola R.Y. Roy & B. Rai, 1968 SPECIES
-=======
+# Pithomyces graminicola R.Y. Roy & B. Rai, 1968 SPECIES
 
 #### Status
 ACCEPTED

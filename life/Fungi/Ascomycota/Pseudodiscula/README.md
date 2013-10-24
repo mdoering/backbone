@@ -1,5 +1,4 @@
-Pseudodiscula Laubert GENUS
-=======
+# Pseudodiscula Laubert GENUS
 
 #### Status
 ACCEPTED

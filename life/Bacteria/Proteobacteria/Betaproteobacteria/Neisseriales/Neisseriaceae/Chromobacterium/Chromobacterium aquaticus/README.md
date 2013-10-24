@@ -1,5 +1,4 @@
-Chromobacterium aquaticus Young et al., 2008 SPECIES
-=======
+# Chromobacterium aquaticus Young et al., 2008 SPECIES
 
 #### Status
 ACCEPTED

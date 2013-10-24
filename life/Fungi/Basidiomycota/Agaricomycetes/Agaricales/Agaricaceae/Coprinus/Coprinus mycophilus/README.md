@@ -1,5 +1,4 @@
-Coprinus mycophilus Bogart SPECIES
-=======
+# Coprinus mycophilus Bogart SPECIES
 
 #### Status
 ACCEPTED

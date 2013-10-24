@@ -1,5 +1,4 @@
-Puccinia otomeriae Marchal & Steyaert SPECIES
-=======
+# Puccinia otomeriae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

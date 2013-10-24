@@ -1,5 +1,4 @@
-Pulveroboletus brachyspermus Pegler SPECIES
-=======
+# Pulveroboletus brachyspermus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza lechithina Cooke SPECIES
-=======
+# Miladina lecithina (Cooke) Svrcek, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 26(4): 214 (1972)
 
 #### Original name
-Peziza lechithina Cooke
+Peziza lecithina Cooke, 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium fuchsiae H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium fuchsiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

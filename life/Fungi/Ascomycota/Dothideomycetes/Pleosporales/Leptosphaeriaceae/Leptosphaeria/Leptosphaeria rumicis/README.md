@@ -1,5 +1,4 @@
-Leptosphaeria rumicis Bat., Cavalc. & S.H. Iqbal SPECIES
-=======
+# Leptosphaeria rumicis Bat., Cavalc. & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oncostroma Bat. & Marasas GENUS
-=======
+# Oncostroma Bat. & Marasas GENUS
 
 #### Status
 ACCEPTED

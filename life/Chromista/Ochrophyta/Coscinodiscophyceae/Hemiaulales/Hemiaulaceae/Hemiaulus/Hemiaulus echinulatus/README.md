@@ -1,5 +1,4 @@
-Hemiaulus echinulatus A.P. Jousé SPECIES
-=======
+# Hemiaulus echinulatus A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

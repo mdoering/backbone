@@ -1,5 +1,4 @@
-Peltula crispatula (Nyl.) Egea SPECIES
-=======
+# Peltula crispatula (Nyl.) Egea SPECIES
 
 #### Status
 ACCEPTED

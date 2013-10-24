@@ -1,5 +1,4 @@
-Lophidium incisum Ellis & Everh. SPECIES
-=======
+# Lophidium incisum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

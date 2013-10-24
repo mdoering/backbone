@@ -1,5 +1,4 @@
-Protochytrium spirogyrae Borzí SPECIES
-=======
+# Protochytrium spirogyrae Borzí SPECIES
 
 #### Status
 ACCEPTED

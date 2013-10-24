@@ -1,5 +1,4 @@
-Zignoëlla somala Bacc. SPECIES
-=======
+# Zignoëlla somala Bacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe nepetae Sawada SPECIES
-=======
+# Erysiphe nepetae Sawada SPECIES
 
 #### Status
 ACCEPTED

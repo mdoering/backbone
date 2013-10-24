@@ -1,5 +1,4 @@
-Peziza sphaerocephala Wallr. SPECIES
-=======
+# Peziza sphaerocephala Wallr. SPECIES
 
 #### Status
 ACCEPTED

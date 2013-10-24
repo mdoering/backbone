@@ -1,5 +1,4 @@
-Cortinarius auacapuae Speg. SPECIES
-=======
+# Cortinarius auacapuae Speg. SPECIES
 
 #### Status
 ACCEPTED

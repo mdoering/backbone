@@ -1,5 +1,4 @@
-Dendrographium mitteri Syd. SPECIES
-=======
+# Dendrographium mitteri Syd. SPECIES
 
 #### Status
 ACCEPTED

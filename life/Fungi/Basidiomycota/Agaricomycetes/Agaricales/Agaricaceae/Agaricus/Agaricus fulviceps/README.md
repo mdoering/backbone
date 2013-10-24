@@ -1,5 +1,4 @@
-Agaricus fulviceps Berk. SPECIES
-=======
+# Agaricus fulviceps Berk. SPECIES
 
 #### Status
 ACCEPTED

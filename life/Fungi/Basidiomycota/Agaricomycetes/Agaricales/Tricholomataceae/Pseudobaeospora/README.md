@@ -1,5 +1,4 @@
-Pseudobaeospora Singer, 1942 GENUS
-=======
+# Pseudobaeospora Singer, 1942 GENUS
 
 #### Status
 ACCEPTED

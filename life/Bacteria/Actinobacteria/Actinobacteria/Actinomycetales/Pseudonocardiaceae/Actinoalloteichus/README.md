@@ -1,5 +1,4 @@
-Actinoalloteichus Tamura et al., 2000 GENUS
-=======
+# Actinoalloteichus Tamura et al., 2000 GENUS
 
 #### Status
 ACCEPTED

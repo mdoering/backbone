@@ -1,14 +1,13 @@
-Paraparmelia hypoconstictica Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia hypoconstictica (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 144 (1986)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia hypoconstictica Elix & J. Johnst.

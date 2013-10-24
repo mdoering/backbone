@@ -1,5 +1,4 @@
-Clitocybe extenuata (Fr.) S. Imai SPECIES
-=======
+# Clitocybe extenuata (Fr.) S. Imai SPECIES
 
 #### Status
 ACCEPTED

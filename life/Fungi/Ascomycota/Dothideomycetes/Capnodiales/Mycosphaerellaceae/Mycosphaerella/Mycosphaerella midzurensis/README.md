@@ -1,5 +1,4 @@
-Mycosphaerella midzurensis Bubák & Ranoj. SPECIES
-=======
+# Mycosphaerella midzurensis Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

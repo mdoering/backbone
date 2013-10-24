@@ -1,5 +1,4 @@
-Septoria frangulae Guépin SPECIES
-=======
+# Septoria frangulae Guépin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eudimeriolum pumilum (Petr.) M.L. Farr SPECIES
-=======
+# Eudimeriolum pumilum (Petr.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

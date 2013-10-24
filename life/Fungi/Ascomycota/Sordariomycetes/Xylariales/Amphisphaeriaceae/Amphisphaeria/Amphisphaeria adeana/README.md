@@ -1,5 +1,4 @@
-Amphisphaeria adeana Petr. SPECIES
-=======
+# Amphisphaeria adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

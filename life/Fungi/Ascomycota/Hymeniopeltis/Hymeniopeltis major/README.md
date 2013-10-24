@@ -1,5 +1,4 @@
-Hymeniopeltis major M.L. Farr SPECIES
-=======
+# Hymeniopeltis major M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

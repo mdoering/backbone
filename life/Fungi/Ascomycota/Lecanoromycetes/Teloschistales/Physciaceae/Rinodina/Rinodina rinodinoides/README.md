@@ -1,5 +1,4 @@
-Rinodina rinodinoides (Anzi) H. Mayrhofer & Scheid. SPECIES
-=======
+# Rinodina rinodinoides (Anzi) H. Mayrhofer & Scheid. SPECIES
 
 #### Status
 ACCEPTED

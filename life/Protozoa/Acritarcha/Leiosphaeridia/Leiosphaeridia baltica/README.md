@@ -1,5 +1,4 @@
-Leiosphaeridia baltica Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia baltica Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

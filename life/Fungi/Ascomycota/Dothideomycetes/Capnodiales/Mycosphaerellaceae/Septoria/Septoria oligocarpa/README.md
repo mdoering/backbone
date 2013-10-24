@@ -1,5 +1,4 @@
-Septoria oligocarpa Nann. SPECIES
-=======
+# Septoria oligocarpa Nann. SPECIES
 
 #### Status
 ACCEPTED

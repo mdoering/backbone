@@ -1,5 +1,4 @@
-Samara rheedei Wight SPECIES
-=======
+# Samara rheedei Wight SPECIES
 
 #### Status
 ACCEPTED

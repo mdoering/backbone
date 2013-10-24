@@ -1,5 +1,4 @@
-Agaricus megaleus Pers. SPECIES
-=======
+# Agaricus megaleus Pers. SPECIES
 
 #### Status
 ACCEPTED

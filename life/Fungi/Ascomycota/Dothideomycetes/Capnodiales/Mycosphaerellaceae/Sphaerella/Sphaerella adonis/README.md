@@ -1,5 +1,4 @@
-Sphaerella adonis Sacc. SPECIES
-=======
+# Sphaerella adonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

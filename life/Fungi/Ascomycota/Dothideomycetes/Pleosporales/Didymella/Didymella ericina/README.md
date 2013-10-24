@@ -1,5 +1,4 @@
-Didymella ericina (Tubeuf) Rehm SPECIES
-=======
+# Didymella ericina (Tubeuf) Rehm SPECIES
 
 #### Status
 ACCEPTED

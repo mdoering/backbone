@@ -1,17 +1,16 @@
-Sistotrema sulphureum var. retigerum Bourdot & Galzin VARIETY
-=======
+# Mycolindtneria trachyspora (Bourdot & Galzin) Rauschert, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Haussknechtia 4: 53 (1988)
 
 #### Original name
-null
+Poria trachyspora Bourdot & Galzin, 1928
 
 ### Remarks
 null

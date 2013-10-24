@@ -1,5 +1,4 @@
-Alkanindiges illinoisensis Bogan et al., 2003 SPECIES
-=======
+# Alkanindiges illinoisensis Bogan et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

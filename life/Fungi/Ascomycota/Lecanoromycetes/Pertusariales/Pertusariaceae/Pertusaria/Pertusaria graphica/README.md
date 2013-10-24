@@ -1,5 +1,4 @@
-Pertusaria graphica f. graphica FORM
-=======
+# Pertusaria graphica C. Knight SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria graphica f. graphica
+Pertusaria graphica C. Knight
 
 ### Remarks
 null

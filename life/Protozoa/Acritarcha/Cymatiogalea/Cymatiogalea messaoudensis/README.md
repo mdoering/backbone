@@ -1,5 +1,4 @@
-Cymatiogalea messaoudensis Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974 SPECIES
-=======
+# Cymatiogalea messaoudensis Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia campanulae-trachelii Sacc. SPECIES
-=======
+# Ramularia campanulae-trachelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

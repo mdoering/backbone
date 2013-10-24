@@ -1,5 +1,4 @@
-Teloschistes lacunosus (P. Rupr.) Savicz SPECIES
-=======
+# Teloschistes lacunosus (P. Rupr.) Savicz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudomicrothorax gracilis Kahl, 1926 SPECIES
-=======
+# Pseudomicrothorax agilis Mermod, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

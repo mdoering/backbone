@@ -1,5 +1,4 @@
-Vanterpoolia tsugae A. Funk, 1982 SPECIES
-=======
+# Vanterpoolia tsugae A. Funk, 1982 SPECIES
 
 #### Status
 ACCEPTED

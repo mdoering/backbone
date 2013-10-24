@@ -1,5 +1,4 @@
-Clavaria robusta Rick SPECIES
-=======
+# Clavaria robusta Rick SPECIES
 
 #### Status
 ACCEPTED

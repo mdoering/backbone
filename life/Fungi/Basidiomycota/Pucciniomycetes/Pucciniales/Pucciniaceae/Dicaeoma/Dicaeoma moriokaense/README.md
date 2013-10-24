@@ -1,5 +1,4 @@
-Dicaeoma moriokaense (S. Ito) Syd. SPECIES
-=======
+# Dicaeoma moriokaense (S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

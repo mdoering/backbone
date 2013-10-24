@@ -1,5 +1,4 @@
-Pleurotus pulchellus S. Imai SPECIES
-=======
+# Pleurotus pulchellus S. Imai SPECIES
 
 #### Status
 ACCEPTED

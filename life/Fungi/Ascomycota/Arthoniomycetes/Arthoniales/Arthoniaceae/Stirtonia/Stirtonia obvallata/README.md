@@ -1,5 +1,4 @@
-Stirtonia obvallata (Stirt.) A. L. Sm. SPECIES
-=======
+# Stirtonia obvallata (Stirt.) A. L. Sm. SPECIES
 
 #### Status
 ACCEPTED

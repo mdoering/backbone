@@ -1,5 +1,4 @@
-Psathyrella coprinoceps (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Psathyrella coprinoceps (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon frigidum Demoulin SPECIES
-=======
+# Lycoperdon frigidum Demoulin SPECIES
 
 #### Status
 ACCEPTED

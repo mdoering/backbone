@@ -1,5 +1,4 @@
-Delicatula quercina Velen. SPECIES
-=======
+# Delicatula quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

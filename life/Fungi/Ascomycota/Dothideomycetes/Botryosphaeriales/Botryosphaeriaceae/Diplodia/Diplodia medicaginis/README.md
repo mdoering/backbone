@@ -1,5 +1,4 @@
-Diplodia medicaginis Brunaud, 1886 SPECIES
-=======
+# Diplodia medicaginis Brunaud, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor stilbum (Tode) Sacc. & Traverso SPECIES
-=======
+# Mucor stilbum (Tode) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

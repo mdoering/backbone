@@ -1,5 +1,4 @@
-Opegrapha ramealis Chevall. SPECIES
-=======
+# Opegrapha ramealis Chevall. SPECIES
 
 #### Status
 ACCEPTED

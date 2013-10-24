@@ -1,5 +1,4 @@
-Torrendiella Boud. & Torrend GENUS
-=======
+# Torrendiella Boud. & Torrend GENUS
 
 #### Status
 ACCEPTED

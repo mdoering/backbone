@@ -1,5 +1,4 @@
-Amphidinium inflatum Kofoid, 1931 SPECIES
-=======
+# Amphidinium inflatum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus remotus (Schaeff.) Gillet SPECIES
-=======
+# Panaeolus remotus (Schaeff.) Gillet SPECIES
 
 #### Status
 ACCEPTED

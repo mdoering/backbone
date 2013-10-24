@@ -1,5 +1,4 @@
-Holosticha intermedia Bergh, 1889 SPECIES
-=======
+# Holosticha intermedia Bergh, 1889 SPECIES
 
 #### Status
 ACCEPTED

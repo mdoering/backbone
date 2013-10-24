@@ -1,5 +1,4 @@
-Camarosporium cookeanum (Speg.) Sacc. SPECIES
-=======
+# Camarosporium cookeanum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

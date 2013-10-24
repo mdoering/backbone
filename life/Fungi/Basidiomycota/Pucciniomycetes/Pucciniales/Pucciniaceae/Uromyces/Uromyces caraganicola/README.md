@@ -1,5 +1,4 @@
-Uromyces caraganicola Henn. SPECIES
-=======
+# Uromyces caraganicola Henn. SPECIES
 
 #### Status
 ACCEPTED

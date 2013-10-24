@@ -1,5 +1,4 @@
-Proprioscypha corticicola Spooner, 1987 SPECIES
-=======
+# Proprioscypha corticicola Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

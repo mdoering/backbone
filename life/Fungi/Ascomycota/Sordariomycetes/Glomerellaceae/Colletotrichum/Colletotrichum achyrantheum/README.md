@@ -1,5 +1,4 @@
-Colletotrichum achyrantheum (Tassi) Petr. & Syd. SPECIES
-=======
+# Colletotrichum achyrantheum (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

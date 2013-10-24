@@ -1,5 +1,4 @@
-Megathrix L.M. Yin, 1987 GENUS
-=======
+# Megathrix L.M. Yin, 1987 GENUS
 
 #### Status
 ACCEPTED

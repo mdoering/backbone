@@ -1,5 +1,4 @@
-Dermocarpa enteromorphae Anand SPECIES
-=======
+# Dermocarpa enteromorphae Anand SPECIES
 
 #### Status
 ACCEPTED

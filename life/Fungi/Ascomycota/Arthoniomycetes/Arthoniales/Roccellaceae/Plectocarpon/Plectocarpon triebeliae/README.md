@@ -1,5 +1,4 @@
-Plectocarpon triebeliae Diederich & Ertz SPECIES
-=======
+# Plectocarpon triebeliae Diederich & Ertz SPECIES
 
 #### Status
 ACCEPTED

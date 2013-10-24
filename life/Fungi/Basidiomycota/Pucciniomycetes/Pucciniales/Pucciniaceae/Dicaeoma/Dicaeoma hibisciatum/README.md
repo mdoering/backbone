@@ -1,5 +1,4 @@
-Dicaeoma hibisciatum Arthur SPECIES
-=======
+# Dicaeoma hibisciatum Arthur SPECIES
 
 #### Status
 ACCEPTED

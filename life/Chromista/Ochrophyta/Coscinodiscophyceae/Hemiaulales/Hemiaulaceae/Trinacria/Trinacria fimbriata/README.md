@@ -1,5 +1,4 @@
-Trinacria fimbriata P. A. Sims & R. Ross SPECIES
-=======
+# Trinacria fimbriata P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

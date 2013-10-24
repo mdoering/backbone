@@ -1,5 +1,4 @@
-Rhabdospora clarkeana Sacc. SPECIES
-=======
+# Rhabdospora clarkeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

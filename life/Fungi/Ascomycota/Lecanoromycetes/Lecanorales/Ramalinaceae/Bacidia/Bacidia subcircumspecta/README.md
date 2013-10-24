@@ -1,5 +1,4 @@
-Bacidia subcircumspecta Coppins SPECIES
-=======
+# Bacidia subcircumspecta Coppins SPECIES
 
 #### Status
 ACCEPTED

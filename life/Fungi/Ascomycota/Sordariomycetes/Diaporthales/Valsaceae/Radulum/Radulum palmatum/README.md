@@ -1,5 +1,4 @@
-Radulum palmatum Berk. SPECIES
-=======
+# Radulum palmatum Berk. SPECIES
 
 #### Status
 ACCEPTED

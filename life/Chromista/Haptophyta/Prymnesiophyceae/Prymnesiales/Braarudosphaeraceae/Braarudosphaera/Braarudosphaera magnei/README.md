@@ -1,5 +1,4 @@
-Braarudosphaera magnei Lefort SPECIES
-=======
+# Braarudosphaera magnei Lefort SPECIES
 
 #### Status
 ACCEPTED

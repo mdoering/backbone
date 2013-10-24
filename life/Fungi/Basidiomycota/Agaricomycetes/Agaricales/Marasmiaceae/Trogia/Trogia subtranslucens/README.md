@@ -1,5 +1,4 @@
-Trogia subtranslucens Corner SPECIES
-=======
+# Trogia subtranslucens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora lapponum (De Not. & Carestia) Kuntze SPECIES
-=======
+# Cercidospora lapponum (De Not. & Carestia) Kuntze SPECIES
 
 #### Status
 ACCEPTED

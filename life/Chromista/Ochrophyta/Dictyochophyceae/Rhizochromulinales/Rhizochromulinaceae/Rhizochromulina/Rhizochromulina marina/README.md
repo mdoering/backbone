@@ -1,5 +1,4 @@
-Rhizochromulina marina D.J. Hibberd & Chrétiennot-Dinet SPECIES
-=======
+# Rhizochromulina marina D.J. Hibberd & Chrétiennot-Dinet SPECIES
 
 #### Status
 ACCEPTED

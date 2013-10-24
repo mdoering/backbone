@@ -1,5 +1,4 @@
-Metasphaeria semen (Cooke & Peck) Sacc. SPECIES
-=======
+# Metasphaeria semen (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

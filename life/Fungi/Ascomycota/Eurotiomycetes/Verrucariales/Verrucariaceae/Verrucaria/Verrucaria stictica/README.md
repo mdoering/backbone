@@ -1,5 +1,4 @@
-Verrucaria stictica var. stictica VARIETY
-=======
+# Verrucaria stictica Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria stictica var. stictica
+Verrucaria stictica Ach.
 
 ### Remarks
 null

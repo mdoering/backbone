@@ -1,5 +1,4 @@
-Elsinoë myrtacearum Cavalc. SPECIES
-=======
+# Elsinoë myrtacearum Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mutinus bambusinus (Zoll.) E. Fisch., 1886 SPECIES
-=======
+# Mutinus bambusinus (Zoll.) E. Fisch., 1886 SPECIES
 
 #### Status
 ACCEPTED

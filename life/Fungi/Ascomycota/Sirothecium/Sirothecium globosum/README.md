@@ -1,5 +1,4 @@
-Sirothecium globosum Petch SPECIES
-=======
+# Sirothecium globosum Petch SPECIES
 
 #### Status
 ACCEPTED

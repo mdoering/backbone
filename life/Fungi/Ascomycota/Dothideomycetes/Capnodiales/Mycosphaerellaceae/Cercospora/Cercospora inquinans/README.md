@@ -1,5 +1,4 @@
-Cercospora inquinans Cooke SPECIES
-=======
+# Cercospora inquinans Cooke SPECIES
 
 #### Status
 ACCEPTED

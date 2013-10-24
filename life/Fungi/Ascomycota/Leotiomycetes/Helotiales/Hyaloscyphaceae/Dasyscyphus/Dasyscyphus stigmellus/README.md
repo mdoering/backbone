@@ -1,14 +1,13 @@
-Dasyscyphus stigmella (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus stigmellus (Cooke) Sacc., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 21 (1892)
 
 #### Original name
 Lachnella stigmella Cooke, 1891

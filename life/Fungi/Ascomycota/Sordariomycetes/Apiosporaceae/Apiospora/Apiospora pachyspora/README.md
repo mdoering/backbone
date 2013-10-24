@@ -1,5 +1,4 @@
-Apiospora pachyspora Rehm SPECIES
-=======
+# Apiospora pachyspora Rehm SPECIES
 
 #### Status
 ACCEPTED

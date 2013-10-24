@@ -1,5 +1,4 @@
-Puccinia mendozana Speg. SPECIES
-=======
+# Puccinia mendozana Speg. SPECIES
 
 #### Status
 ACCEPTED

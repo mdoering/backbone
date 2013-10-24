@@ -1,5 +1,4 @@
-Bryometopus viridis Foissner, 1987 SPECIES
-=======
+# Bryometopus viridis Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella curva P. Karst. SPECIES
-=======
+# Sphaerella curva P. Karst. SPECIES
 
 #### Status
 ACCEPTED

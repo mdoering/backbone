@@ -1,5 +1,4 @@
-Cercospora fatouae Henn. SPECIES
-=======
+# Cercospora fatouae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosolenia setigera f. pungens (Cleve-Euler) Brunel, 1962 FORM
-=======
+# Rhizosolenia setigera Brightwell, 1858 SPECIES
 
 #### Status
 ACCEPTED

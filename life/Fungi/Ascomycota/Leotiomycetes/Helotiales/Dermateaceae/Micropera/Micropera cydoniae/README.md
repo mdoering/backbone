@@ -1,5 +1,4 @@
-Micropera cydoniae Schulzer SPECIES
-=======
+# Micropera cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

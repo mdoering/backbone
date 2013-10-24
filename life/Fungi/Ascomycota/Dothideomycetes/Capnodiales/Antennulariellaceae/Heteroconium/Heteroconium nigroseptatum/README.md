@@ -1,5 +1,4 @@
-Heteroconium nigroseptatum V.G. Rao SPECIES
-=======
+# Heteroconium nigroseptatum V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

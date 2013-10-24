@@ -1,5 +1,4 @@
-Puccinia obesiseptata Cummins, M.P. Britton & J.W. Baxter SPECIES
-=======
+# Puccinia obesiseptata Cummins, M.P. Britton & J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

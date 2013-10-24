@@ -1,5 +1,4 @@
-Symplassosphaeridium bulbosum P. K. Maithy & M. Shukla SPECIES
-=======
+# Symplassosphaeridium bulbosum P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

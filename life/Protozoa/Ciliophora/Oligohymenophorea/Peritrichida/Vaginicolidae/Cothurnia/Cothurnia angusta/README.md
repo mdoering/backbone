@@ -1,5 +1,4 @@
-Cothurnia angusta Kahl, 1933 SPECIES
-=======
+# Cothurnia angusta Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

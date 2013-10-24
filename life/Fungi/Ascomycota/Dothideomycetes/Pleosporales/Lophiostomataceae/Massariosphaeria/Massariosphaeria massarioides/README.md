@@ -1,5 +1,4 @@
-Massariosphaeria massarioides (Sacc. & Speg.) Huhndorf, J.L. Crane & Shearer SPECIES
-=======
+# Massariosphaeria massarioides (Sacc. & Speg.) Huhndorf, J.L. Crane & Shearer SPECIES
 
 #### Status
 ACCEPTED

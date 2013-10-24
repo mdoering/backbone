@@ -1,5 +1,4 @@
-Cercosporina chrysanthemi (Puttemans) Sacc. SPECIES
-=======
+# Cercosporina chrysanthemi (Puttemans) Sacc. SPECIES
 
 #### Status
 ACCEPTED

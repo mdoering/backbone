@@ -1,5 +1,4 @@
-Hendersonulina fraxini (Ellis & Barthol.) Tassi SPECIES
-=======
+# Hendersonulina fraxini (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

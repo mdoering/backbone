@@ -1,5 +1,4 @@
-Lecanora minima SPECIES
-=======
+# Lecanora minima SPECIES
 
 #### Status
 ACCEPTED

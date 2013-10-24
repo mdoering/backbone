@@ -1,5 +1,4 @@
-Paratricharia Lücking GENUS
-=======
+# Paratricharia Lücking GENUS
 
 #### Status
 ACCEPTED

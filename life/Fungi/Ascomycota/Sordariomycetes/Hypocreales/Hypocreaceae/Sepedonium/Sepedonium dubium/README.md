@@ -1,5 +1,4 @@
-Sepedonium dubium Sacc. SPECIES
-=======
+# Sepedonium dubium Sacc. SPECIES
 
 #### Status
 ACCEPTED

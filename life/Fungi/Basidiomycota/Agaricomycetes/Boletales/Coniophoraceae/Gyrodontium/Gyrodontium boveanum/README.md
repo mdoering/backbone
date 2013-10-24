@@ -1,14 +1,13 @@
-Hydnum boveanum Mont., 1835 SPECIES
-=======
+# Gyrodontium boveanum (Mont. ex DC.) Maas Geest., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 4: 194 (1835)
+Persoonia 3(2): 157 (1964)
 
 #### Original name
 Hydnum boveanum Mont., 1835

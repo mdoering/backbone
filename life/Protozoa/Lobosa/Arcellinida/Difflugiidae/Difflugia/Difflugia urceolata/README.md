@@ -1,5 +1,4 @@
-Difflugia urceolata Cart. SPECIES
-=======
+# Difflugia urceolata Cart. SPECIES
 
 #### Status
 ACCEPTED

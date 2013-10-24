@@ -1,5 +1,4 @@
-Trematosphaeria virginis Rehm SPECIES
-=======
+# Trematosphaeria virginis Rehm SPECIES
 
 #### Status
 ACCEPTED

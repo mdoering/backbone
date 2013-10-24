@@ -1,5 +1,4 @@
-Phialophora taiwanensis Matsush. SPECIES
-=======
+# Phialophora taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

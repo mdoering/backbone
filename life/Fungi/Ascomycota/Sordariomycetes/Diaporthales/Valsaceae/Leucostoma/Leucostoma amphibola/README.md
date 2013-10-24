@@ -1,5 +1,4 @@
-Leucostoma amphibola (Sacc.) Höhn. SPECIES
-=======
+# Leucostoma amphibola (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

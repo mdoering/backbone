@@ -1,5 +1,4 @@
-Aecidium talini Speg. SPECIES
-=======
+# Aecidium talini Speg. SPECIES
 
 #### Status
 ACCEPTED

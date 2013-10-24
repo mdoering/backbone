@@ -1,5 +1,4 @@
-Sphaeria ranunculacearum Lév. SPECIES
-=======
+# Sphaeria ranunculacearum Lév. SPECIES
 
 #### Status
 ACCEPTED

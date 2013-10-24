@@ -1,5 +1,4 @@
-Acremonium trachycaulon W. Gams, 1971 SPECIES
-=======
+# Acremonium trachycaulon W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe neomicrospora Kobayasi SPECIES
-=======
+# Inocybe neomicrospora Kobayasi SPECIES
 
 #### Status
 ACCEPTED

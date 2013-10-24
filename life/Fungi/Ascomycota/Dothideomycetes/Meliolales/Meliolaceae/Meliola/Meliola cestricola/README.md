@@ -1,5 +1,4 @@
-Meliola cestricola F. Stevens SPECIES
-=======
+# Meliola cestricola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

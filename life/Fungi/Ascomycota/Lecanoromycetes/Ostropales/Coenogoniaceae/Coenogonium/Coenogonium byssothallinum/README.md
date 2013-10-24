@@ -1,5 +1,4 @@
-Coenogonium byssothallinum Aptroot & Lücking SPECIES
-=======
+# Coenogonium byssothallinum Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

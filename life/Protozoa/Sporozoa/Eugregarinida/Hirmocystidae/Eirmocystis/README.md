@@ -1,5 +1,4 @@
-Eirmocystis Léger, 1892 GENUS
-=======
+# Eirmocystis Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea lygomma var. crassilabra (Müll. Arg.) Hertel & Rambold VARIETY
-=======
+# Lecidea crassilabra Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Hertel, Symb. bot. upsal. 32(no. 1): 104 (1997)
+Hedwigia 32: 127 (1893)
 
 #### Original name
 Lecidea crassilabra Müll. Arg.

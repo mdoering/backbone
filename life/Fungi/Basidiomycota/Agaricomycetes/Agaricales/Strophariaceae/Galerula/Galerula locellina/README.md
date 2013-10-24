@@ -1,5 +1,4 @@
-Galerula locellina Murrill SPECIES
-=======
+# Galerula locellina Murrill SPECIES
 
 #### Status
 ACCEPTED

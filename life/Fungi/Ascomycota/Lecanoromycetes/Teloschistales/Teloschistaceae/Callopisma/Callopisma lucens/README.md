@@ -1,5 +1,4 @@
-Callopisma lucens (Nyl.) Malme SPECIES
-=======
+# Callopisma lucens (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

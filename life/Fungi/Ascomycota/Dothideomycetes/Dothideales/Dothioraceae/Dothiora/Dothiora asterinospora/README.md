@@ -1,5 +1,4 @@
-Dothiora asterinospora Ellis & Everh. SPECIES
-=======
+# Dothiora asterinospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

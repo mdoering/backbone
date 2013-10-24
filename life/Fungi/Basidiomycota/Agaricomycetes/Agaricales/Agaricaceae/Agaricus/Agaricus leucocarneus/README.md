@@ -1,5 +1,4 @@
-Agaricus leucocarneus Secr. SPECIES
-=======
+# Agaricus leucocarneus Secr. SPECIES
 
 #### Status
 ACCEPTED

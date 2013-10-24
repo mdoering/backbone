@@ -1,5 +1,4 @@
-Lecanora aliena Zahlbr. SPECIES
-=======
+# Lecanora aliena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

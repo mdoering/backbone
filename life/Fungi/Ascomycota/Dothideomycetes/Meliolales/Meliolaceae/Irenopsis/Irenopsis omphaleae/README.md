@@ -1,5 +1,4 @@
-Irenopsis omphaleae Hansf. SPECIES
-=======
+# Irenopsis omphaleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

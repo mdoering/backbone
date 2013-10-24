@@ -1,5 +1,4 @@
-Melanconium lineolatum Sacc. SPECIES
-=======
+# Melanconium lineolatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

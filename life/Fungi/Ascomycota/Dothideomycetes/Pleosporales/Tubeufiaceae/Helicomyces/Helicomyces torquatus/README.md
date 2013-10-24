@@ -1,5 +1,4 @@
-Helicomyces torquatus L.C. Lane & Shearer, 1984 SPECIES
-=======
+# Helicomyces torquatus L.C. Lane & Shearer, 1984 SPECIES
 
 #### Status
 ACCEPTED

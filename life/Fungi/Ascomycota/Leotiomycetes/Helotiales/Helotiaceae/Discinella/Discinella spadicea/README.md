@@ -1,5 +1,4 @@
-Discinella spadicea Boud. SPECIES
-=======
+# Discinella spadicea Boud. SPECIES
 
 #### Status
 ACCEPTED

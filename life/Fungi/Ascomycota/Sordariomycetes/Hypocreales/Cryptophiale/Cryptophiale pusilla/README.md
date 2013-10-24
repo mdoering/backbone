@@ -1,5 +1,4 @@
-Cryptophiale pusilla McKenzie, 1993 SPECIES
-=======
+# Cryptophiale pusilla McKenzie, 1993 SPECIES
 
 #### Status
 ACCEPTED

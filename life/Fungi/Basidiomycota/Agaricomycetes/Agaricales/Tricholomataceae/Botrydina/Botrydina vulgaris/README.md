@@ -1,5 +1,4 @@
-Botrydina vulgaris Bréb. SPECIES
-=======
+# Botrydina vulgaris Bréb. SPECIES
 
 #### Status
 ACCEPTED

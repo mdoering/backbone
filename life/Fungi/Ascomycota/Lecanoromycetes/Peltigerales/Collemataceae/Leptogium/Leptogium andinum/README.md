@@ -1,5 +1,4 @@
-Leptogium andinum P. M. Jørg. SPECIES
-=======
+# Leptogium andinum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora achyranthis Syd. & P. Syd. SPECIES
-=======
+# Cercospora achyranthis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

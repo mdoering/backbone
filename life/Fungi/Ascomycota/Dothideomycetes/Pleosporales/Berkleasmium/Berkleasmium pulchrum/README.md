@@ -1,5 +1,4 @@
-Berkleasmium pulchrum Hol.-Jech. & Mercado SPECIES
-=======
+# Berkleasmium pulchrum Hol.-Jech. & Mercado SPECIES
 
 #### Status
 ACCEPTED

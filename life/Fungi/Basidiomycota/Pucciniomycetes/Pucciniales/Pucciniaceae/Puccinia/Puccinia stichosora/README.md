@@ -1,5 +1,4 @@
-Puccinia stichosora Dietel SPECIES
-=======
+# Puccinia stichosora Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria microphylla Elenkin SPECIES
-=======
+# Cetraria microphylla Elenkin SPECIES
 
 #### Status
 ACCEPTED

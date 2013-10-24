@@ -1,14 +1,13 @@
-Phaeoacremonium chlamydosporum W. Gams, Crous, M.J. Wingf. & Mugnai, 1996 SPECIES
-=======
+# Phaeomoniella chlamydospora (W. Gams, Crous, M.J. Wingf. & Mugnai) Crous & W. Gams, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crous, Gams, Wingfield & Wyk, Mycologia 88(5): 792 (1996)
+Phytopath. Mediterr. 39(1): 114 (2000)
 
 #### Original name
 Phaeoacremonium chlamydosporum W. Gams, Crous, M.J. Wingf. & Mugnai, 1996

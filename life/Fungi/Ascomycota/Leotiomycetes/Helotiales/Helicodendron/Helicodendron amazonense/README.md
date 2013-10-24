@@ -1,5 +1,4 @@
-Helicodendron amazonense Matsush. SPECIES
-=======
+# Helicodendron amazonense Matsush. SPECIES
 
 #### Status
 ACCEPTED

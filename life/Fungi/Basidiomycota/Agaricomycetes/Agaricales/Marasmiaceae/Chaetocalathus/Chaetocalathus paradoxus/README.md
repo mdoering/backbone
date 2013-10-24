@@ -1,5 +1,4 @@
-Chaetocalathus paradoxus (Henn.) Singer SPECIES
-=======
+# Chaetocalathus paradoxus (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

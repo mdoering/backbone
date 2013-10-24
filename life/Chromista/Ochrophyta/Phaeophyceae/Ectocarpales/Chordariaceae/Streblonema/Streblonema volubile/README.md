@@ -1,5 +1,4 @@
-Streblonema volubile Pringsheim SPECIES
-=======
+# Streblonema volubile Pringsheim SPECIES
 
 #### Status
 ACCEPTED

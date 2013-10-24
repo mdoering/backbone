@@ -1,5 +1,4 @@
-Cryptosporium nigrum Bonord. SPECIES
-=======
+# Cryptosporium nigrum Bonord. SPECIES
 
 #### Status
 ACCEPTED

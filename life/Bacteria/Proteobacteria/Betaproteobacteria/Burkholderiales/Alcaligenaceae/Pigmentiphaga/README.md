@@ -1,5 +1,4 @@
-Pigmentiphaga Blümel et al., 2001 GENUS
-=======
+# Pigmentiphaga Blümel et al., 2001 GENUS
 
 #### Status
 ACCEPTED

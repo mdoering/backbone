@@ -1,5 +1,4 @@
-Lecanora polychroma var. polychroma VARIETY
-=======
+# Lecanora polychroma (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora polychroma var. polychroma
+Aspicilia polychroma Anzi
 
 ### Remarks
 null

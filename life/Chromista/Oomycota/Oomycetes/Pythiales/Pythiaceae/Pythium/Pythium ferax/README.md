@@ -1,5 +1,4 @@
-Pythium ferax de Bary SPECIES
-=======
+# Pythium ferax de Bary SPECIES
 
 #### Status
 ACCEPTED

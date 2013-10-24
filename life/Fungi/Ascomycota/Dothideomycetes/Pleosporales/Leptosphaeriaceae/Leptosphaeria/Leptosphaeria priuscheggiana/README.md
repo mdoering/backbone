@@ -1,5 +1,4 @@
-Leptosphaeria priuscheggiana Petr. SPECIES
-=======
+# Leptosphaeria priuscheggiana Petr. SPECIES
 
 #### Status
 ACCEPTED

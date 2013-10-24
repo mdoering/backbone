@@ -1,5 +1,4 @@
-Usnea maxima Motyka SPECIES
-=======
+# Usnea maxima Motyka SPECIES
 
 #### Status
 ACCEPTED

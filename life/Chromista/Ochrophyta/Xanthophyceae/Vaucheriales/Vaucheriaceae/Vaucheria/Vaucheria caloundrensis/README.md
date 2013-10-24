@@ -1,5 +1,4 @@
-Vaucheria caloundrensis A.B. Cribb SPECIES
-=======
+# Vaucheria caloundrensis A.B. Cribb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella trepidula Britzelm. SPECIES
-=======
+# Psathyrella trepidula Britzelm. SPECIES
 
 #### Status
 ACCEPTED

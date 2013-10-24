@@ -1,5 +1,4 @@
-Amphoroblastia clandestina (Arnold) Servít SPECIES
-=======
+# Amphoroblastia clandestina (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

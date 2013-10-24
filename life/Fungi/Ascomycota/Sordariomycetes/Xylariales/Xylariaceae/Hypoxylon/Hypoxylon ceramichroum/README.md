@@ -1,5 +1,4 @@
-Hypoxylon ceramichroum Berk. & Broome SPECIES
-=======
+# Hypoxylon ceramichroum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

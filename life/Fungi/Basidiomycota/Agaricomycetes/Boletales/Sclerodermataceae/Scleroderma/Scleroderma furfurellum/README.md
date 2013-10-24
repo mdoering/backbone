@@ -1,5 +1,4 @@
-Scleroderma furfurellum Zeller SPECIES
-=======
+# Scleroderma furfurellum Zeller SPECIES
 
 #### Status
 ACCEPTED

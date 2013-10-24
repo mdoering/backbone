@@ -1,5 +1,4 @@
-Geopetalum album Earle, 1906 SPECIES
-=======
+# Geopetalum album Earle, 1906 SPECIES
 
 #### Status
 ACCEPTED

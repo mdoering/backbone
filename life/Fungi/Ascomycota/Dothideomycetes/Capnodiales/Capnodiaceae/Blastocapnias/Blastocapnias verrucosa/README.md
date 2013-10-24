@@ -1,5 +1,4 @@
-Blastocapnias verrucosa Bat. & Cif. SPECIES
-=======
+# Blastocapnias verrucosa Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

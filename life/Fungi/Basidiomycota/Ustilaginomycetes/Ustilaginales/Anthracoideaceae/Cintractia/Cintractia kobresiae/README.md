@@ -1,5 +1,4 @@
-Cintractia kobresiae Mundk. SPECIES
-=======
+# Cintractia kobresiae Mundk. SPECIES
 
 #### Status
 ACCEPTED

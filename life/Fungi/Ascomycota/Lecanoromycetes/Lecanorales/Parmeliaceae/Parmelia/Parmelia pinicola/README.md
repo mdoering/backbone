@@ -1,5 +1,4 @@
-Parmelia pinicola (Ach.) Mart. SPECIES
-=======
+# Parmelia pinicola (Ach.) Mart. SPECIES
 
 #### Status
 ACCEPTED

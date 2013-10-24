@@ -1,5 +1,4 @@
-Aspicilia sublaqueata (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia sublaqueata (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

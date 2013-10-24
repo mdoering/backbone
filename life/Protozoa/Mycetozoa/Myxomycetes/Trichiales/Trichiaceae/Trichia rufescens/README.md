@@ -1,5 +1,4 @@
-Trichia rufescens var. rufescens Poir. VARIETY
-=======
+# Trichia rufescens ß tenella Poir. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Encyclop. Mycol. 8: 55 (1808)
 
 #### Original name
-Trichia rufescens var. rufescens Poir.
+Trichia rufescens ß tenella Poir.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia vagans SPECIES
-=======
+# Buellia vagans SPECIES
 
 #### Status
 ACCEPTED

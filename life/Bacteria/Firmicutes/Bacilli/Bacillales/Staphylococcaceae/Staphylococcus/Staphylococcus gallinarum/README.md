@@ -1,5 +1,4 @@
-Staphylococcus gallinarum Devriese et al., 1983 SPECIES
-=======
+# Staphylococcus gallinarum Devriese et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

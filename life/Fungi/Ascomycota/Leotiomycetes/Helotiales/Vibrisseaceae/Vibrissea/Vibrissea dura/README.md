@@ -1,5 +1,4 @@
-Vibrissea dura G.W. Beaton & Weste, 1976 SPECIES
-=======
+# Vibrissea dura G.W. Beaton & Weste, 1976 SPECIES
 
 #### Status
 ACCEPTED

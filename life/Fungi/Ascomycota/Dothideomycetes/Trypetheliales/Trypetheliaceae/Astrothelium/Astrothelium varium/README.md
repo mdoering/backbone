@@ -1,5 +1,4 @@
-Astrothelium varium var. varium Eschw. VARIETY
-=======
+# Astrothelium varium Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Astrothelium varium var. varium Eschw.
+Astrothelium varium Eschw.
 
 ### Remarks
 null

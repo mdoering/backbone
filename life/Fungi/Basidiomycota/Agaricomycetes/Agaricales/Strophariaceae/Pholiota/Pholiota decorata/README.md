@@ -1,5 +1,4 @@
-Pholiota decorata (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota decorata (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

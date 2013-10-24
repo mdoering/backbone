@@ -1,5 +1,4 @@
-Pertusaria subnegans Vain. SPECIES
-=======
+# Pertusaria subnegans Vain. SPECIES
 
 #### Status
 ACCEPTED

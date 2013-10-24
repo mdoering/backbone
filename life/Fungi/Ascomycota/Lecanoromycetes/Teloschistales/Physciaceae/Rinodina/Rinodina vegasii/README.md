@@ -1,8 +1,7 @@
-Rinodina vegasi B. de Lesd. SPECIES
-=======
+# Rinodina vegasii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina vegasi B. de Lesd.
+Rinodina vegasii B. de Lesd.
 
 ### Remarks
 null

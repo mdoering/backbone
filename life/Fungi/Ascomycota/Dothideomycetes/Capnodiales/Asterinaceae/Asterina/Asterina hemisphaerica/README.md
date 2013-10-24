@@ -1,5 +1,4 @@
-Asterina hemisphaerica Gaillard SPECIES
-=======
+# Asterina hemisphaerica Gaillard SPECIES
 
 #### Status
 ACCEPTED

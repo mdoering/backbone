@@ -1,5 +1,4 @@
-Lecanora andrewii B. de Lesd. SPECIES
-=======
+# Lecanora andrewii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

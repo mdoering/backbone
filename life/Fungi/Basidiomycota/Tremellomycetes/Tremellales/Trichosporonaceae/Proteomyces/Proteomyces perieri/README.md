@@ -1,5 +1,4 @@
-Proteomyces perieri (Matr. & E. Antoine) C.W. Dodge SPECIES
-=======
+# Proteomyces perieri (Matr. & E. Antoine) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fiorentinus Jankowski, 1986 GENUS
-=======
+# Fiorentinus Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

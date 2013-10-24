@@ -1,5 +1,4 @@
-Tulostoma stuntzii Oliver {?} & Hosford SPECIES
-=======
+# Tulostoma stuntzii Oliver {?} & Hosford SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerodinium C.A. Kofoid, 1906 GENUS
-=======
+# Sphaerodinium C.A. Kofoid, 1906 GENUS
 
 #### Status
 ACCEPTED

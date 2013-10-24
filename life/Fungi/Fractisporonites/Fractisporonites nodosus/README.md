@@ -1,5 +1,4 @@
-Fractisporonites nodosus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
-=======
+# Fractisporonites nodosus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

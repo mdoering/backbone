@@ -1,5 +1,4 @@
-Lecidea albocerulascens (Wulfen) Ach. SPECIES
-=======
+# Lecidea albocerulascens (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

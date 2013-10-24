@@ -1,5 +1,4 @@
-Goupillaudina Marie, 1958 GENUS
-=======
+# Goupillaudina Marie, 1958 GENUS
 
 #### Status
 ACCEPTED

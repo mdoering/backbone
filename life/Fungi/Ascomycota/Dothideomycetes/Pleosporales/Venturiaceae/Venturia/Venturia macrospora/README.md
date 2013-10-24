@@ -1,5 +1,4 @@
-Venturia macrospora Rostr. SPECIES
-=======
+# Venturia macrospora Rostr. SPECIES
 
 #### Status
 ACCEPTED

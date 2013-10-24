@@ -1,5 +1,4 @@
-Termitomyces dominicalensis L.D. Gómez SPECIES
-=======
+# Termitomyces dominicalensis L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

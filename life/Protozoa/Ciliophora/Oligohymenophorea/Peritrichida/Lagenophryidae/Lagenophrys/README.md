@@ -1,5 +1,4 @@
-Lagenophrys von Stein, 1851 GENUS
-=======
+# Lagenophrys von Stein, 1851 GENUS
 
 #### Status
 ACCEPTED

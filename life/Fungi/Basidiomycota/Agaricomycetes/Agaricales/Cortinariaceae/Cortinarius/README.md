@@ -1,17 +1,16 @@
-Squamaphlegma Locq. GENUS
-=======
+# Cortinarius (Pers.) Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. , 3. Cortinariales-A. 146 (1979)
+Nat. Arr. Brit. Pl. (London) 1: 627 (1821)
 
 #### Original name
-Squamaphlegma Locq.
+null
 
 ### Remarks
 null

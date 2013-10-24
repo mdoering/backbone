@@ -1,5 +1,4 @@
-Erinella albocarnea (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Erinella albocarnea (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

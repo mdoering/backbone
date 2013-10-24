@@ -1,5 +1,4 @@
-Phyllosticta dipsaci Briard & Fautrey SPECIES
-=======
+# Phyllosticta dipsaci Briard & Fautrey SPECIES
 
 #### Status
 ACCEPTED

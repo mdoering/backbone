@@ -1,5 +1,4 @@
-Spiroloculina dilatata d'Orbigny, 1846 SPECIES
-=======
+# Spiroloculina dilatata d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

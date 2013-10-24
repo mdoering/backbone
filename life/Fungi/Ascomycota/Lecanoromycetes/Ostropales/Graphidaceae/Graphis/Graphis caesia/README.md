@@ -1,5 +1,4 @@
-Graphis caesia Müll. Arg. SPECIES
-=======
+# Graphis caesia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

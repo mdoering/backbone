@@ -1,5 +1,4 @@
-Russula corinthii-rubra Burl. SPECIES
-=======
+# Russula corinthii-rubra Burl. SPECIES
 
 #### Status
 ACCEPTED

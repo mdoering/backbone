@@ -1,5 +1,4 @@
-Phoma quernea Oudem. SPECIES
-=======
+# Phoma quernea Oudem. SPECIES
 
 #### Status
 ACCEPTED

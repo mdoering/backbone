@@ -1,8 +1,7 @@
-Leciographa attendenda (Nyl.) P. Karst. SPECIES
-=======
+# Dactylospora attendenda (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

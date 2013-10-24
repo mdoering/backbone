@@ -1,5 +1,4 @@
-Celothelium agminellum SPECIES
-=======
+# Celothelium agminellum SPECIES
 
 #### Status
 ACCEPTED

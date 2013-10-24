@@ -1,5 +1,4 @@
-Sarcinella prunicola Pavgi & U.P. Singh SPECIES
-=======
+# Sarcinella prunicola Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

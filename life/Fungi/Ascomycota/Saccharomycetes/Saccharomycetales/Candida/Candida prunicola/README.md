@@ -1,5 +1,4 @@
-Candida prunicola Kurtzman SPECIES
-=======
+# Candida prunicola Kurtzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma berolinensis Syd. SPECIES
-=======
+# Phoma berolinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

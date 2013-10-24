@@ -1,5 +1,4 @@
-Menisporopsis pirozynskii Varghese & V.G. Rao, 1978 SPECIES
-=======
+# Menisporopsis pirozynskii Varghese & V.G. Rao, 1978 SPECIES
 
 #### Status
 ACCEPTED

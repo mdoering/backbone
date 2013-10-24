@@ -1,5 +1,4 @@
-Paullicorticium allantosporum J. Erikss. SPECIES
-=======
+# Paullicorticium allantosporum J. Erikss. SPECIES
 
 #### Status
 ACCEPTED

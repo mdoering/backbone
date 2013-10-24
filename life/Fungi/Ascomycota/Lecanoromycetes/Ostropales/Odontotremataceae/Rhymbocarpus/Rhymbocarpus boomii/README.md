@@ -1,5 +1,4 @@
-Rhymbocarpus boomii Etayo & Diederich SPECIES
-=======
+# Rhymbocarpus boomii Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

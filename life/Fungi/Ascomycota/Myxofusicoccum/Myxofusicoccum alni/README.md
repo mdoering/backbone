@@ -1,5 +1,4 @@
-Myxofusicoccum alni Jaap SPECIES
-=======
+# Myxofusicoccum alni Jaap SPECIES
 
 #### Status
 ACCEPTED

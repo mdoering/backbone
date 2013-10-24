@@ -1,17 +1,16 @@
-Ceratocystis minor var. minor VARIETY
-=======
+# Ceratocystis minor (Hedgc.) J. Hunt, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lloydia 19: 47 (1956)
 
 #### Original name
-Ceratocystis minor var. minor
+Ceratostomella minor Hedgc., 1907
 
 ### Remarks
 null

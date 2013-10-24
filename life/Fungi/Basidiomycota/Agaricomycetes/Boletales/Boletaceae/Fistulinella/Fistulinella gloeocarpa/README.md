@@ -1,5 +1,4 @@
-Fistulinella gloeocarpa Pegler, 1983 SPECIES
-=======
+# Fistulinella gloeocarpa Pegler, 1983 SPECIES
 
 #### Status
 ACCEPTED

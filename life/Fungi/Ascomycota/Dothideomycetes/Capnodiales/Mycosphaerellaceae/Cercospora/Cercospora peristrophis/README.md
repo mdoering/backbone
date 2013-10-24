@@ -1,5 +1,4 @@
-Cercospora peristrophis E. Castell. SPECIES
-=======
+# Cercospora peristrophis E. Castell. SPECIES
 
 #### Status
 ACCEPTED

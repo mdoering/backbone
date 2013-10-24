@@ -1,5 +1,4 @@
-Episphaerella didymopanacis Viégas SPECIES
-=======
+# Episphaerella didymopanacis Viégas SPECIES
 
 #### Status
 ACCEPTED

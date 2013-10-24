@@ -1,5 +1,4 @@
-Polydiscina boliviana Syd., 1930 SPECIES
-=======
+# Polydiscina boliviana Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacium discoideum (Pers.) P. Kumm. SPECIES
-=======
+# Limacium discoideum (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

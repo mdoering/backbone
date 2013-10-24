@@ -1,5 +1,4 @@
-Mycena brunneospinosa Desjardin SPECIES
-=======
+# Mycena brunneospinosa Desjardin SPECIES
 
 #### Status
 ACCEPTED

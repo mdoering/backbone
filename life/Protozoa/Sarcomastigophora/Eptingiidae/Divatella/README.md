@@ -1,5 +1,4 @@
-Divatella GENUS
-=======
+# Divatella GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Faurea Dragesco, 1954 GENUS
-=======
+# Ciliofaurea Dragesco, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vie et Milieu, 4, (1953) 636.
+Trav. Stn Biol. Roscoff (N. S. ) 12: 225.
 
 #### Original name
-null
+Faurea Dragesco, 1954
 
 ### Remarks
 null

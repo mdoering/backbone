@@ -1,5 +1,4 @@
-Cortinarius subrepandus (Secr. ex Pers.) Melot SPECIES
-=======
+# Cortinarius subrepandus (Secr. ex Pers.) Melot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria monguillonii SPECIES
-=======
+# Catillaria monguillonii SPECIES
 
 #### Status
 ACCEPTED

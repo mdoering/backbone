@@ -1,14 +1,13 @@
-Pirella Schlesner & Hirsch, 1984 GENUS
-=======
+# Pirellula Schlesner & Hirsch, 1987 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlesner, H. , and Hirsch, P. "Rejection of the genus name Pirella for pear-shaped budding bacteria and proposal to create the genus Pirellula gen. nov. " Int. J. Syst. Bacteriol. (1987) 37:441.
 
 #### Original name
 null

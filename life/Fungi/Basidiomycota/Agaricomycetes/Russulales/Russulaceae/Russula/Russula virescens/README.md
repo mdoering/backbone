@@ -1,17 +1,16 @@
-Russula virescens var. virescens VARIETY
-=======
+# Russula virescens (Schaeff.) Fr., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anteckn. Sver. Ätl. Svamp. 50 (1836)
 
 #### Original name
-null
+Agaricus virescens Schaeff., 1774
 
 ### Remarks
 null

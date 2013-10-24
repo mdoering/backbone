@@ -1,5 +1,4 @@
-Gyrophora angulata (Tuck.) Herre SPECIES
-=======
+# Gyrophora angulata (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

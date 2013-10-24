@@ -1,5 +1,4 @@
-Eimeria beauchampi Léger & Duboscq, 1917 SPECIES
-=======
+# Eimeria beauchampi Léger & Duboscq, 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solirubrobacteraceae FAMILY
-=======
+# Solirubrobacteraceae FAMILY
 
 #### Status
 ACCEPTED

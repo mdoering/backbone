@@ -1,5 +1,4 @@
-Dermatophilus dermatonomus (Bull {?} ) Austwick SPECIES
-=======
+# Dermatophilus dermatonomus (Bull {?} ) Austwick SPECIES
 
 #### Status
 ACCEPTED

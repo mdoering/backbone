@@ -1,5 +1,4 @@
-Acanthostomella urceolata SPECIES
-=======
+# Acanthostomella urceolata SPECIES
 
 #### Status
 ACCEPTED

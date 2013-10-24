@@ -1,5 +1,4 @@
-Meliola maesopsidis Hansf. SPECIES
-=======
+# Meliola maesopsidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

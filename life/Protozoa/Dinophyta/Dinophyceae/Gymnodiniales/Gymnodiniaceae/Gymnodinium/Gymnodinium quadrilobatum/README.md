@@ -1,5 +1,4 @@
-Gymnodinium quadrilobatum Horiguchi & Pienaar SPECIES
-=======
+# Gymnodinium quadrilobatum Horiguchi & Pienaar SPECIES
 
 #### Status
 ACCEPTED

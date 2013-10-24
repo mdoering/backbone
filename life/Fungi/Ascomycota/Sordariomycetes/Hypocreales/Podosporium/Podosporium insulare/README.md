@@ -1,17 +1,16 @@
-Podosporium insularis Cif. SPECIES
-=======
+# Podosporium insulare Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9: 310 (1955)
 
 #### Original name
-Podosporium insularis Cif.
+Podosporium insulare Cif.
 
 ### Remarks
 null

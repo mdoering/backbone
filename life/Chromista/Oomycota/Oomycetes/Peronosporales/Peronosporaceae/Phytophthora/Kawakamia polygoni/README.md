@@ -1,5 +1,4 @@
-Kawakamia polygoni (Sawada) Sawada SPECIES
-=======
+# Kawakamia polygoni (Sawada) Sawada SPECIES
 
 #### Status
 ACCEPTED

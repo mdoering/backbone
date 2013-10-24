@@ -1,5 +1,4 @@
-Gaudryina hastata Parr, 1932 SPECIES
-=======
+# Gaudryina hastata Parr, 1932 SPECIES
 
 #### Status
 ACCEPTED

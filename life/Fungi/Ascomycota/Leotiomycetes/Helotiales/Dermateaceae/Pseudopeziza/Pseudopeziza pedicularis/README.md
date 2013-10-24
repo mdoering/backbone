@@ -1,5 +1,4 @@
-Pseudopeziza pedicularis (DC.) E. Müll. & Schiüpp SPECIES
-=======
+# Pseudopeziza pedicularis (DC.) E. Müll. & Schiüpp SPECIES
 
 #### Status
 ACCEPTED

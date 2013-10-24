@@ -1,5 +1,4 @@
-Lichenopeltella quinquecladiopsis (E.B.G. Jones, Sivichai & Hywel-Jones) E.B.G. Jones & D. Hawksw. SPECIES
-=======
+# Lichenopeltella quinquecladiopsis (E.B.G. Jones, Sivichai & Hywel-Jones) E.B.G. Jones & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

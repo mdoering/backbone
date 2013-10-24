@@ -1,17 +1,16 @@
-Cercospora crassa var. crassa VARIETY
-=======
+# Alternaria crassa (Sacc.) Rands, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 88 (1877)
+Phytopathology 7: 337 (1917)
 
 #### Original name
-Cercospora crassa var. crassa
+Cercospora crassa Sacc., 1877
 
 ### Remarks
 null

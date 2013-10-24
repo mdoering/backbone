@@ -1,5 +1,4 @@
-Entoloma pruinosocutis Manim. & Noordel. SPECIES
-=======
+# Entoloma pruinosocutis Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

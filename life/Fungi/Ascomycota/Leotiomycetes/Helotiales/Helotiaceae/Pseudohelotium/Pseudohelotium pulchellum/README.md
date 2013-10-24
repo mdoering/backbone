@@ -1,5 +1,4 @@
-Pseudohelotium pulchellum (Quél.) Sacc. SPECIES
-=======
+# Pseudohelotium pulchellum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

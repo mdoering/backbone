@@ -1,17 +1,16 @@
-Phyllachora saurauiacola Chardón SPECIES
-=======
+# Phyllachora saurauiicola Chardón, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Soc. Venez. Cienc. Nat. 5(40): 356 (1939)
 
 #### Original name
-Phyllachora saurauiacola Chardón
+Phyllachora saurauiicola Chardón, 1939
 
 ### Remarks
 null

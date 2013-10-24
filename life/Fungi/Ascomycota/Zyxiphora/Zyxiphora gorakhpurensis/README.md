@@ -1,5 +1,4 @@
-Zyxiphora gorakhpurensis B. Sutton, 1981 SPECIES
-=======
+# Zyxiphora gorakhpurensis B. Sutton, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurothecium leptospermi J.A. Cooper, 2005 SPECIES
-=======
+# Pleurothecium leptospermi J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

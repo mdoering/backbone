@@ -1,5 +1,4 @@
-Melanoleuca thompsoniana Murrill SPECIES
-=======
+# Melanoleuca thompsoniana Murrill SPECIES
 
 #### Status
 ACCEPTED

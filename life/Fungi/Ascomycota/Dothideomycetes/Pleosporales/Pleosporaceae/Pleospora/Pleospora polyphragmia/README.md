@@ -1,5 +1,4 @@
-Pleospora polyphragmia Sacc. SPECIES
-=======
+# Pleospora polyphragmia Sacc. SPECIES
 
 #### Status
 ACCEPTED

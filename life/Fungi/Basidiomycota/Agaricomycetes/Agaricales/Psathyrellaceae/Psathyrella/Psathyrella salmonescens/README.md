@@ -1,5 +1,4 @@
-Psathyrella salmonescens A.H. Sm. SPECIES
-=======
+# Psathyrella salmonescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

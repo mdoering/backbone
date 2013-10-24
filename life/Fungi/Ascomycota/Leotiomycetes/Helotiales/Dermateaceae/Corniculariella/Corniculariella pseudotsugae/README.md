@@ -1,5 +1,4 @@
-Corniculariella pseudotsugae (W.L. White) DiCosmo SPECIES
-=======
+# Corniculariella pseudotsugae (W.L. White) DiCosmo SPECIES
 
 #### Status
 ACCEPTED

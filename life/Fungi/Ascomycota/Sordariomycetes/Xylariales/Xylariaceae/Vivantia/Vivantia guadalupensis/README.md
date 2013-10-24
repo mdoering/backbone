@@ -1,5 +1,4 @@
-Vivantia guadalupensis J.D. Rogers, Y.M. Ju & Cand., 1996 SPECIES
-=======
+# Vivantia guadalupensis J.D. Rogers, Y.M. Ju & Cand., 1996 SPECIES
 
 #### Status
 ACCEPTED

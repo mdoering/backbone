@@ -1,5 +1,4 @@
-Collema turgidulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema turgidulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

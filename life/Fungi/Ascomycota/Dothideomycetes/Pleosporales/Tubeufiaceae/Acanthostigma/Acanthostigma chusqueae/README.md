@@ -1,5 +1,4 @@
-Acanthostigma chusqueae Pat. SPECIES
-=======
+# Acanthostigma chusqueae Pat. SPECIES
 
 #### Status
 ACCEPTED

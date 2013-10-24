@@ -1,5 +1,4 @@
-Cornularia rhois P. Karst. SPECIES
-=======
+# Cornularia rhois P. Karst. SPECIES
 
 #### Status
 ACCEPTED

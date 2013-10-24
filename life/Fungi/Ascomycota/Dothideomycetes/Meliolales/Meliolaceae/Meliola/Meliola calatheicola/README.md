@@ -1,5 +1,4 @@
-Meliola calatheicola var. minor Bat. & H. Maia VARIETY
-=======
+# Meliola calatheicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Publções Inst. Micol. Recife 237: 21 (1963)
+Annls mycol. 26(3/4): 265 (1928)
 
 #### Original name
-Meliola calatheicola var. minor Bat. & H. Maia
+Meliola calatheicola F. Stevens
 
 ### Remarks
 null

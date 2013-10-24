@@ -1,5 +1,4 @@
-Planularia australis Chapman, 1941 SPECIES
-=======
+# Planularia australis Chapman, 1941 SPECIES
 
 #### Status
 ACCEPTED

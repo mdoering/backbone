@@ -1,5 +1,4 @@
-Aecidium chlorophyti Har. & Pat. SPECIES
-=======
+# Aecidium chlorophyti Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

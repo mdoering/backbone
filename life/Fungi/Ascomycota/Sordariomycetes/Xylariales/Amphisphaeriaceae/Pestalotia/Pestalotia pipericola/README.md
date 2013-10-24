@@ -1,5 +1,4 @@
-Pestalotia pipericola Mundk. & Khesw. SPECIES
-=======
+# Pestalotia pipericola Mundk. & Khesw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora phytolaccae Hansf. SPECIES
-=======
+# Cercospora phytolaccae Hansf. SPECIES
 
 #### Status
 ACCEPTED

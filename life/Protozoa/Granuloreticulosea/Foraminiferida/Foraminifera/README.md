@@ -1,5 +1,4 @@
-Foraminifera GENUS
-=======
+# Foraminifera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopsora A. Massal. GENUS
-=======
+# Solenopsora A. Massal. GENUS
 
 #### Status
 ACCEPTED

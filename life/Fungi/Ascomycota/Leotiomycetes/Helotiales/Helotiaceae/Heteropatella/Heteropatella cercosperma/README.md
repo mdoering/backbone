@@ -1,5 +1,4 @@
-Heteropatella cercosperma (Rostr.) Lind SPECIES
-=======
+# Heteropatella cercosperma (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

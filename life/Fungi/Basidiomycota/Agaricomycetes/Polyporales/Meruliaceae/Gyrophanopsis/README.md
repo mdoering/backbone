@@ -1,17 +1,16 @@
-Hyphodermopsis Jülich GENUS
-=======
+# Gyrophanopsis Jülich, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Int. J. Mycol. Lichenol. 1(1): 28 (1982)
+null
 
 #### Original name
-Hyphodermopsis Jülich
+null
 
 ### Remarks
 null

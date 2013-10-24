@@ -1,5 +1,4 @@
-Sticta laeviuscula Delise SPECIES
-=======
+# Sticta laeviuscula Delise SPECIES
 
 #### Status
 ACCEPTED

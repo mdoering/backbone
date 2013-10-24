@@ -1,14 +1,13 @@
-Gorgoniceps turbinulata (W. Phillips) Rehm, 1904 SPECIES
-=======
+# Vibrissea turbinata W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2: 353 (1904)
+Man. Brit. Discomyc. (London) 320 (1887)
 
 #### Original name
 Vibrissea turbinata W. Phillips, 1887

@@ -1,5 +1,4 @@
-Rhagidiasporidium Thor GENUS
-=======
+# Rhagidiasporidium Thor GENUS
 
 #### Status
 ACCEPTED

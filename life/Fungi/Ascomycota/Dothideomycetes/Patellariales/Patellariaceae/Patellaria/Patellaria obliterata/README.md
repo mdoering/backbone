@@ -1,5 +1,4 @@
-Patellaria obliterata (Pers.) DC. SPECIES
-=======
+# Patellaria obliterata (Pers.) DC. SPECIES
 
 #### Status
 ACCEPTED

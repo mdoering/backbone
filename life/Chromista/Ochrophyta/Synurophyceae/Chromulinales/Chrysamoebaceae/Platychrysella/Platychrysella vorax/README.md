@@ -1,5 +1,4 @@
-Platychrysella vorax Valkanov SPECIES
-=======
+# Platychrysella vorax Valkanov SPECIES
 
 #### Status
 ACCEPTED

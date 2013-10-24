@@ -1,5 +1,4 @@
-Psilocybe tuxtlensis Guzmán SPECIES
-=======
+# Psilocybe tuxtlensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

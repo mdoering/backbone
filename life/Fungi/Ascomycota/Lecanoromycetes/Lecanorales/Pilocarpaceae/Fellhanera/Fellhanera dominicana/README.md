@@ -1,14 +1,13 @@
-Bacidia dominicana (Vain.) Zahlbr. SPECIES
-=======
+# Fellhanera dominicana (Vain.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 110 (1926)
+Folia geobot. phytotax. 21(2): 214 (1986)
 
 #### Original name
 Lecidea dominicana Vain.

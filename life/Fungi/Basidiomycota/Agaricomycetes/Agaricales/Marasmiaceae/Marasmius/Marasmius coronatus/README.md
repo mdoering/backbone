@@ -1,5 +1,4 @@
-Marasmius coronatus Petch SPECIES
-=======
+# Marasmius coronatus Petch SPECIES
 
 #### Status
 ACCEPTED

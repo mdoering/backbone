@@ -1,5 +1,4 @@
-Lecanora coronuligera var. coronuligera VARIETY
-=======
+# Lecanora coronuligera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora coronuligera var. coronuligera
+Pachyospora coronata A. Massal.
 
 ### Remarks
 null

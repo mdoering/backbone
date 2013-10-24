@@ -1,5 +1,4 @@
-Entoloma pullum Hesler SPECIES
-=======
+# Entoloma pullum Hesler SPECIES
 
 #### Status
 ACCEPTED

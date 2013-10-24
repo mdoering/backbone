@@ -1,5 +1,4 @@
-Sphaerella araliae Cooke & Harkn. SPECIES
-=======
+# Sphaerella araliae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

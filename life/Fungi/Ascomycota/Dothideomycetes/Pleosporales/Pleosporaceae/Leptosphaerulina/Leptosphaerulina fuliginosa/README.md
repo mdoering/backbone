@@ -1,5 +1,4 @@
-Leptosphaerulina fuliginosa Bondartsev SPECIES
-=======
+# Leptosphaerulina fuliginosa Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hendersonia phormii Naito, 1952 SPECIES
-=======
+# Phaeophleospora phormii (Naito) Crous, F.A. Ferreira & B. Sutton, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Science Rep. Kagoshima Univ. 1: 77 (1952)
+S. Afr. J. Bot. 63(3): 115 (1997)
 
 #### Original name
 Hendersonia phormii Naito, 1952

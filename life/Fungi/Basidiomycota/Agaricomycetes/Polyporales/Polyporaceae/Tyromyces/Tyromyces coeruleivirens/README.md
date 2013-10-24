@@ -1,5 +1,4 @@
-Tyromyces coeruleivirens Corner SPECIES
-=======
+# Tyromyces coeruleivirens Corner SPECIES
 
 #### Status
 ACCEPTED

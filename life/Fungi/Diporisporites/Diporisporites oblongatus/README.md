@@ -1,5 +1,4 @@
-Diporisporites oblongatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporisporites oblongatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

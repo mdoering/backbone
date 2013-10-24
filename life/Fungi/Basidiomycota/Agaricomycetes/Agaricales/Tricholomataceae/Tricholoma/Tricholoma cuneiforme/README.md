@@ -1,5 +1,4 @@
-Tricholoma cuneiforme (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma cuneiforme (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

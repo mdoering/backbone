@@ -1,5 +1,4 @@
-Clisosporium globuliferum (Rabenh.) Kuntze SPECIES
-=======
+# Clisosporium globuliferum (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

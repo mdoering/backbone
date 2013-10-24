@@ -1,8 +1,7 @@
-Conidiobolus megalotocus var. megalotocus Drechsler, 1957 VARIETY
-=======
+# Conidiobolus megalotocus Drechsler, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Am. J. Bot. 43: 778 (1957)
 
 #### Original name
-Conidiobolus megalotocus var. megalotocus Drechsler, 1957
+Conidiobolus megalotocus Drechsler, 1957
 
 ### Remarks
 null

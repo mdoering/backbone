@@ -1,5 +1,4 @@
-Radiophrya Rossolimo, 1926 GENUS
-=======
+# Radiophrya Rossolimo, 1926 GENUS
 
 #### Status
 ACCEPTED

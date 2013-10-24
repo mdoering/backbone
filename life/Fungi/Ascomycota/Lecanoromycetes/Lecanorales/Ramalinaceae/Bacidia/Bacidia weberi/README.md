@@ -1,5 +1,4 @@
-Bacidia weberi (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia weberi (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

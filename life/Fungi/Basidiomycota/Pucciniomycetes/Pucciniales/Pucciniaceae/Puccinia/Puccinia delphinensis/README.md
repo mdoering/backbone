@@ -1,5 +1,4 @@
-Puccinia delphinensis A.L. Guyot SPECIES
-=======
+# Puccinia delphinensis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

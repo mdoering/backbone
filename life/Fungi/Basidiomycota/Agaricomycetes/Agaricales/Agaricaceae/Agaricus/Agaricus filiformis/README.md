@@ -1,5 +1,4 @@
-Agaricus filiformis Raddi SPECIES
-=======
+# Agaricus filiformis Raddi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cornu-damae Schwein. SPECIES
-=======
+# Sphaeria cornu-damae Schwein. SPECIES
 
 #### Status
 ACCEPTED

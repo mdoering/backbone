@@ -1,5 +1,4 @@
-Clasterosporium celastri (Thüm.) Sacc. SPECIES
-=======
+# Clasterosporium celastri (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

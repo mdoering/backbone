@@ -1,5 +1,4 @@
-Conocybe halophila Singer SPECIES
-=======
+# Conocybe halophila Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capillaria macrospora Velen. SPECIES
-=======
+# Capillaria macrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

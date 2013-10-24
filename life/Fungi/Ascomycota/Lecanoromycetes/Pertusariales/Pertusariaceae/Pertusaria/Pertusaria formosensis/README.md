@@ -1,5 +1,4 @@
-Pertusaria formosensis Messuti & A.W. Archer SPECIES
-=======
+# Pertusaria formosensis Messuti & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

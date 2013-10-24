@@ -1,5 +1,4 @@
-Legionella fairfieldensis Thacker et al., 1991 SPECIES
-=======
+# Legionella fairfieldensis Thacker et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

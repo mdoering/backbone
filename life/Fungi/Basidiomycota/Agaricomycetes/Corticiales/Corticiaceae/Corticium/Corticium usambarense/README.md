@@ -1,5 +1,4 @@
-Corticium usambarense (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Corticium usambarense (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius alter Bidaud & Reumaux SPECIES
-=======
+# Cortinarius alter Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

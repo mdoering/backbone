@@ -1,5 +1,4 @@
-Mycosphaerella brunnea Hansf. SPECIES
-=======
+# Mycosphaerella brunnea Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma chonoides Steyaert SPECIES
-=======
+# Ganoderma chonoides Steyaert SPECIES
 
 #### Status
 ACCEPTED

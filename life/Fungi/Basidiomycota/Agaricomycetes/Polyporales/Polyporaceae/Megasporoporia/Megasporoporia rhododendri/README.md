@@ -1,5 +1,4 @@
-Megasporoporia rhododendri Y.C. Dai & Y.L. Wei, 2004 SPECIES
-=======
+# Megasporoporia rhododendri Y.C. Dai & Y.L. Wei, 2004 SPECIES
 
 #### Status
 ACCEPTED

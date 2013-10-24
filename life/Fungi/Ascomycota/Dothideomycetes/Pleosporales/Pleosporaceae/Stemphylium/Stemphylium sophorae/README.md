@@ -1,5 +1,4 @@
-Stemphylium sophorae Yong Wang bis & X.G. Zhang SPECIES
-=======
+# Stemphylium sophorae Yong Wang bis & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

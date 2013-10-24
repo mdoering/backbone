@@ -1,5 +1,4 @@
-Pertusaria kashiwadanii Shibuichi SPECIES
-=======
+# Pertusaria kashiwadanii Shibuichi SPECIES
 
 #### Status
 ACCEPTED

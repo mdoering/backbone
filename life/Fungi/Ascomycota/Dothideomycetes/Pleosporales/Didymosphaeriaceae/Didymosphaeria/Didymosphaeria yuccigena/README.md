@@ -1,14 +1,13 @@
-Didymosphaeria yuccogena (Cooke) Sacc. SPECIES
-=======
+# Didymosphaeria yuccigena (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 708 (1882)
 
 #### Original name
 Sphaeria yuccigena Cooke

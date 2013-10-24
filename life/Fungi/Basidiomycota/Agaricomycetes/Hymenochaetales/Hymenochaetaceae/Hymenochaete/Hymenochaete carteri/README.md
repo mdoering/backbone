@@ -1,5 +1,4 @@
-Hymenochaete carteri Berk. ex Cooke SPECIES
-=======
+# Hymenochaete carteri Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

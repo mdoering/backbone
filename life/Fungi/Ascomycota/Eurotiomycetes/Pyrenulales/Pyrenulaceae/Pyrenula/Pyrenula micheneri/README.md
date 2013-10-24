@@ -1,5 +1,4 @@
-Pyrenula micheneri R.C. Harris SPECIES
-=======
+# Pyrenula micheneri R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

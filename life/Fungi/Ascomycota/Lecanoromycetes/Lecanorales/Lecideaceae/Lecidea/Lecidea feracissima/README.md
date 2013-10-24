@@ -1,5 +1,4 @@
-Lecidea feracissima Vain. SPECIES
-=======
+# Lecidea feracissima Vain. SPECIES
 
 #### Status
 ACCEPTED

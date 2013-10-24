@@ -1,5 +1,4 @@
-Patellea coriariae (Pers.) Sacc. SPECIES
-=======
+# Patellea coriariae (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

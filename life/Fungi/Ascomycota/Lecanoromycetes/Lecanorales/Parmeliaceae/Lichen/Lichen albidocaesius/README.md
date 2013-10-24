@@ -1,5 +1,4 @@
-Lichen albidocaesius Schrad. SPECIES
-=======
+# Lichen albidocaesius Schrad. SPECIES
 
 #### Status
 ACCEPTED

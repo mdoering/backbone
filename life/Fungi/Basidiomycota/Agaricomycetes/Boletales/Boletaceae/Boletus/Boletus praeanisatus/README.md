@@ -1,5 +1,4 @@
-Boletus praeanisatus (Murrill) Murrill SPECIES
-=======
+# Boletus praeanisatus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

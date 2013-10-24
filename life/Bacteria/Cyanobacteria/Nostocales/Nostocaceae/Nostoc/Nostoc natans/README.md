@@ -1,5 +1,4 @@
-Nostoc natans Kützing SPECIES
-=======
+# Nostoc natans Kützing SPECIES
 
 #### Status
 ACCEPTED

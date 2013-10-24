@@ -1,5 +1,4 @@
-Lepra cinereosulphurea (Flörke) Schaer. SPECIES
-=======
+# Lepra cinereosulphurea (Flörke) Schaer. SPECIES
 
 #### Status
 ACCEPTED

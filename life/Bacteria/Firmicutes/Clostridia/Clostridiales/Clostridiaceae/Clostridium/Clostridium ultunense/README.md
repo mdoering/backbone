@@ -1,5 +1,4 @@
-Clostridium ultunense Schnürer et al., 1996 SPECIES
-=======
+# Clostridium ultunense Schnürer et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

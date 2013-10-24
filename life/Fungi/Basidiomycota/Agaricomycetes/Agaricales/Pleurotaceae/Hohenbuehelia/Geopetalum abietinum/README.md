@@ -1,5 +1,4 @@
-Geopetalum abietinum Murrill SPECIES
-=======
+# Geopetalum abietinum Murrill SPECIES
 
 #### Status
 ACCEPTED

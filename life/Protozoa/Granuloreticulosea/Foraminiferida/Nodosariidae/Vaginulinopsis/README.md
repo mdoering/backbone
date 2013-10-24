@@ -1,5 +1,4 @@
-Vaginulinopsis Silvestri, 1904 GENUS
-=======
+# Vaginulinopsis Silvestri, 1904 GENUS
 
 #### Status
 ACCEPTED

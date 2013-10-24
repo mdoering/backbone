@@ -1,5 +1,4 @@
-Opegrapha sphaerula Duby SPECIES
-=======
+# Opegrapha sphaerula Duby SPECIES
 
 #### Status
 ACCEPTED

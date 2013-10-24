@@ -1,5 +1,4 @@
-Cortinarius badiovinaceus M.M. Moser SPECIES
-=======
+# Cortinarius badiovinaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

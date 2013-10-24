@@ -1,5 +1,4 @@
-Parvularcula bermudensis Cho & Giovannoni, 2003 SPECIES
-=======
+# Parvularcula bermudensis Cho & Giovannoni, 2003 SPECIES
 
 #### Status
 ACCEPTED

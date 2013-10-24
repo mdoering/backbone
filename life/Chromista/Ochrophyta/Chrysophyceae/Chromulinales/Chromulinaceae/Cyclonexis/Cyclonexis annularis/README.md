@@ -1,5 +1,4 @@
-Cyclonexis annularis A. Stokes SPECIES
-=======
+# Cyclonexis annularis A. Stokes SPECIES
 
 #### Status
 ACCEPTED

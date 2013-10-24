@@ -1,14 +1,13 @@
-Neurospora endodonta (Malloch & Cain) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Gelasinospora endodonta (Malloch & Cain) Arx, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1127 (2004)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 290 (1973)
 
 #### Original name
 Anixiella endodonta Malloch & Cain, 1971

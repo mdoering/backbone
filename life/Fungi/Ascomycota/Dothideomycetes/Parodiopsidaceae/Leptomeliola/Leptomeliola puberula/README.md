@@ -1,5 +1,4 @@
-Leptomeliola puberula Bat. SPECIES
-=======
+# Leptomeliola puberula Bat. SPECIES
 
 #### Status
 ACCEPTED

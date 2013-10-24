@@ -1,5 +1,4 @@
-Puccinia caracasana Syd. SPECIES
-=======
+# Puccinia caracasana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deusilites tenuistriatus Gutiérrez, Césari & Archangelsky, 1997 SPECIES
-=======
+# Deusilites tenuistriatus Gutiérrez, Césari & Archangelsky, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia seymeriae (Burrill) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia seymeriae (Burrill) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

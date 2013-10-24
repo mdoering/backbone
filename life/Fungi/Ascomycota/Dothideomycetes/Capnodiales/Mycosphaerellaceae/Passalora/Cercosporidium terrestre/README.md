@@ -1,5 +1,4 @@
-Cercosporidium terrestre K.J. Srivast. & P.C. Misra SPECIES
-=======
+# Cercosporidium terrestre K.J. Srivast. & P.C. Misra SPECIES
 
 #### Status
 ACCEPTED

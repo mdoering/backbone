@@ -1,5 +1,4 @@
-Phytomyxea CLASS
-=======
+# Phytomyxea CLASS
 
 #### Status
 ACCEPTED

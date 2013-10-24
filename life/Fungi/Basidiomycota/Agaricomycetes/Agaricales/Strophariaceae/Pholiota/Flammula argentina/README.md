@@ -1,5 +1,4 @@
-Flammula argentina Speg. SPECIES
-=======
+# Flammula argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

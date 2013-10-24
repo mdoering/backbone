@@ -1,14 +1,13 @@
-Poria bombycina (Fr.) Cooke, 1886 SPECIES
-=======
+# Anomoporia bombycina (Fr.) Pouzar, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 117 (1886)
+Ceská Mykol. 20: 172 (1966)
 
 #### Original name
 Polyporus bombycinus Fr., 1828

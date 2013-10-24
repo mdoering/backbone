@@ -1,5 +1,4 @@
-Linospora liquidambaris Teng SPECIES
-=======
+# Linospora liquidambaris Teng SPECIES
 
 #### Status
 ACCEPTED

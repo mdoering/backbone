@@ -1,5 +1,4 @@
-Abrothallus bryoriarum Hafellner SPECIES
-=======
+# Abrothallus bryoriarum Hafellner SPECIES
 
 #### Status
 ACCEPTED

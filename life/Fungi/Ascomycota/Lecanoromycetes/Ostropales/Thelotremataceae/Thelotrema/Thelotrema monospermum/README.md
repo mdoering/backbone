@@ -1,5 +1,4 @@
-Thelotrema monospermum R.C. Harris SPECIES
-=======
+# Thelotrema monospermum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

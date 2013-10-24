@@ -1,14 +1,13 @@
-Achlya mucronata Ziegler, 1958 SPECIES
-=======
+# Protoachlya mucronata (Ziegler) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(3): 403 (1958)
+Mycotaxon 92: 26 (2005)
 
 #### Original name
 Achlya mucronata Ziegler, 1958

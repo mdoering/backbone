@@ -1,5 +1,4 @@
-Patellina cyathoidea Lév. SPECIES
-=======
+# Patellina cyathoidea Lév. SPECIES
 
 #### Status
 ACCEPTED

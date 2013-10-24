@@ -1,5 +1,4 @@
-Sphaerodinium polinicum Woloszynska SPECIES
-=======
+# Sphaerodinium polinicum Woloszynska SPECIES
 
 #### Status
 ACCEPTED

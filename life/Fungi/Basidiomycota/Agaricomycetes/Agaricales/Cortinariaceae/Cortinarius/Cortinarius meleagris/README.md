@@ -1,14 +1,13 @@
-Rozites meleagris E. Horak & G.M. Taylor, 1982 SPECIES
-=======
+# Cortinarius meleagris (E. Horak & G.M. Taylor) E. Horak, Peintner, M.M. Moser & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 19(4): 354 (1982)
+in Peintner, Horak, Moser & Vilgalys, Mycotaxon 83: 449 (2002)
 
 #### Original name
 Rozites meleagris E. Horak & G.M. Taylor, 1982

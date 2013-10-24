@@ -1,5 +1,4 @@
-Calloriella Höhn. GENUS
-=======
+# Calloriella Höhn. GENUS
 
 #### Status
 ACCEPTED

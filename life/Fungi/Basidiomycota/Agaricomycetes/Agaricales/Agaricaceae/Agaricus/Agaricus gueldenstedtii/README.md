@@ -1,5 +1,4 @@
-Agaricus gueldenstedtii Weinm. SPECIES
-=======
+# Agaricus gueldenstedtii Weinm. SPECIES
 
 #### Status
 ACCEPTED

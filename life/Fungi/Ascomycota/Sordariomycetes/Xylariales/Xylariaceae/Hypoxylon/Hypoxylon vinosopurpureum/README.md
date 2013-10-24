@@ -1,5 +1,4 @@
-Hypoxylon vinosopurpureum Ellis & Everh. SPECIES
-=======
+# Hypoxylon vinosopurpureum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

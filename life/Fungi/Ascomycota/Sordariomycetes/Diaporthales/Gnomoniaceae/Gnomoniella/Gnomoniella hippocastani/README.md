@@ -1,5 +1,4 @@
-Gnomoniella hippocastani Brunaud SPECIES
-=======
+# Gnomoniella hippocastani Brunaud SPECIES
 
 #### Status
 ACCEPTED

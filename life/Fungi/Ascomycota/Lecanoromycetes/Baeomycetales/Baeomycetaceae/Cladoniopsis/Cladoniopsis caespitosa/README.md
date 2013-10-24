@@ -1,5 +1,4 @@
-Cladoniopsis caespitosa Zahlbr. SPECIES
-=======
+# Cladoniopsis caespitosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

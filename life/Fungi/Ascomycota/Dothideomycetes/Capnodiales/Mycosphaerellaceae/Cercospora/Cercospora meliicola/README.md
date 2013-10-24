@@ -1,5 +1,4 @@
-Cercospora meliicola Speg. SPECIES
-=======
+# Cercospora meliicola Speg. SPECIES
 
 #### Status
 ACCEPTED

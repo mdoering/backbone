@@ -1,14 +1,13 @@
-Phyllachora oxalina Ellis & Everh., 1887 SPECIES
-=======
+# Phomopsis oxalina (Ellis & Everh.) Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(4): 41 (1887)
+Annls mycol. 28(1/2): 177 (1930)
 
 #### Original name
 Phyllachora oxalina Ellis & Everh., 1887

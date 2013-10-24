@@ -1,5 +1,4 @@
-Trochammina ochracea SPECIES
-=======
+# Trochammina ochracea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cylindrata Chupp & Linder SPECIES
-=======
+# Cercospora cylindrata Chupp & Linder SPECIES
 
 #### Status
 ACCEPTED

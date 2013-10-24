@@ -1,5 +1,4 @@
-Dadayiella cuspis Kofoid & Campbell, 1929 SPECIES
-=======
+# Dadayiella cuspis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

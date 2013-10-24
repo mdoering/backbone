@@ -1,5 +1,4 @@
-Ochromonas triangulata Vysotskij SPECIES
-=======
+# Ochromonas triangulata Vysotskij SPECIES
 
 #### Status
 ACCEPTED

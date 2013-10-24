@@ -1,5 +1,4 @@
-Placodium flammeum Anzi SPECIES
-=======
+# Placodium flammeum Anzi SPECIES
 
 #### Status
 ACCEPTED

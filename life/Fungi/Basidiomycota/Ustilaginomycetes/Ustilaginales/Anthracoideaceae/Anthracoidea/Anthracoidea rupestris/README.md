@@ -1,5 +1,4 @@
-Anthracoidea rupestris Kukkonen, 1963 SPECIES
-=======
+# Anthracoidea rupestris Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED

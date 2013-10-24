@@ -1,5 +1,4 @@
-Chromocrea substipitata Seaver SPECIES
-=======
+# Chromocrea substipitata Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium conatum Venkatachala & Rawat, 1973 SPECIES
-=======
+# Lophosphaeridium conatum Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha thelotrematis Coppins SPECIES
-=======
+# Opegrapha thelotrematis Coppins SPECIES
 
 #### Status
 ACCEPTED

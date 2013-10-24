@@ -1,5 +1,4 @@
-Discorbis grossepunctatus Parr, 1945 SPECIES
-=======
+# Discorbis grossepunctatus Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

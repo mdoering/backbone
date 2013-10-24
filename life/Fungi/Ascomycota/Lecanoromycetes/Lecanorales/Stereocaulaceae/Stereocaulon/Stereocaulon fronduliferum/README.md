@@ -1,5 +1,4 @@
-Stereocaulon fronduliferum I.M. Lamb SPECIES
-=======
+# Stereocaulon fronduliferum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

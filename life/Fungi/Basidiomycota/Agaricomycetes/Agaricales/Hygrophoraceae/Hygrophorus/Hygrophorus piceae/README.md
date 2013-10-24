@@ -1,5 +1,4 @@
-Hygrophorus piceae Kühner, 1949 SPECIES
-=======
+# Hygrophorus piceae Kühner, 1949 SPECIES
 
 #### Status
 ACCEPTED

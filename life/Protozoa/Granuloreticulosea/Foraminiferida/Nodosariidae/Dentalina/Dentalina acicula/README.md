@@ -1,5 +1,4 @@
-Dentalina acicula SPECIES
-=======
+# Dentalina acicula SPECIES
 
 #### Status
 ACCEPTED

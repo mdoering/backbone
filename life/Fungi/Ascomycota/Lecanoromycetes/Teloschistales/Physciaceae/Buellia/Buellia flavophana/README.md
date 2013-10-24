@@ -1,5 +1,4 @@
-Buellia flavophana Darb. SPECIES
-=======
+# Buellia flavophana Darb. SPECIES
 
 #### Status
 ACCEPTED

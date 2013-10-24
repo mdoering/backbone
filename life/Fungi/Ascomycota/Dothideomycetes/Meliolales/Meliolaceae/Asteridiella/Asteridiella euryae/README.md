@@ -1,5 +1,4 @@
-Asteridiella euryae B. Song & Y.X. Hu SPECIES
-=======
+# Asteridiella euryae B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

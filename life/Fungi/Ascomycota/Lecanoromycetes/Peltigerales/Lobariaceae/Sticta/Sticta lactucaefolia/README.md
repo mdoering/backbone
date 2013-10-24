@@ -1,5 +1,4 @@
-Sticta lactucaefolia (Pers.) Nyl. SPECIES
-=======
+# Sticta lactucaefolia (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

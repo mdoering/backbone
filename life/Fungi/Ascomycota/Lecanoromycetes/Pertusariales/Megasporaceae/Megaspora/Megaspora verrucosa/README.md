@@ -1,17 +1,16 @@
-Pertusaria freyi subsp. monosticha Erichsen SUBSPECIES
-=======
+# Megaspora verrucosa (Ach.) Hafellner & V. Wirth SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Wirth, Die Flechten Baden-Württembergs. Verbreitungsatlas (Stuttgart) 511 (1987)
 
 #### Original name
-Pertusaria freyi subsp. monosticha Erichsen
+Lecanora verrucosa Ach.
 
 ### Remarks
 null

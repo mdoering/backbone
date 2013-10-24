@@ -1,5 +1,4 @@
-Phoma lythri Cooke & Massee SPECIES
-=======
+# Phoma lythri Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

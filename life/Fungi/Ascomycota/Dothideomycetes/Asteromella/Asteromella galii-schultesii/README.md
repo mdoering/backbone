@@ -1,5 +1,4 @@
-Asteromella galii-schultesii Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella galii-schultesii Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea atrolivida Vain. SPECIES
-=======
+# Lecidea atrolivida Vain. SPECIES
 
 #### Status
 ACCEPTED

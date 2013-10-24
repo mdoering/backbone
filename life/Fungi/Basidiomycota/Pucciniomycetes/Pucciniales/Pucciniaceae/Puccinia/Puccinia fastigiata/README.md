@@ -1,5 +1,4 @@
-Puccinia fastigiata anon. SPECIES
-=======
+# Puccinia fastigiata anon. SPECIES
 
 #### Status
 ACCEPTED

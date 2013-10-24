@@ -1,5 +1,4 @@
-Collybia aurea (Beeli) Pegler SPECIES
-=======
+# Collybia aurea (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

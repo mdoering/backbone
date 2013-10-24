@@ -1,5 +1,4 @@
-Lecaniocola ceroplastis-pallidi Brain SPECIES
-=======
+# Lecaniocola ceroplastis-pallidi Brain SPECIES
 
 #### Status
 ACCEPTED

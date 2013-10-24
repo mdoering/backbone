@@ -1,5 +1,4 @@
-Dictyostelium dichotomum Vadell & Cavender, 2007 SPECIES
-=======
+# Dictyostelium dichotomum Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyriella lourdes Toro SPECIES
-=======
+# Dictyothyriella lourdes Toro SPECIES
 
 #### Status
 ACCEPTED

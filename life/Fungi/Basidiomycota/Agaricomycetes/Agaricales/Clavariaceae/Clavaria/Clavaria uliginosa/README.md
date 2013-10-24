@@ -1,5 +1,4 @@
-Clavaria uliginosa Wallr. SPECIES
-=======
+# Clavaria uliginosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

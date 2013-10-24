@@ -1,5 +1,4 @@
-Lecidea mitescens Nyl. SPECIES
-=======
+# Lecidea mitescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

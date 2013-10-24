@@ -1,5 +1,4 @@
-Helvella flammea Scop. SPECIES
-=======
+# Helvella flammea Scop. SPECIES
 
 #### Status
 ACCEPTED

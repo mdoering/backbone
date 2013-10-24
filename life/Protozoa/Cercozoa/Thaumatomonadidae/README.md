@@ -1,5 +1,4 @@
-Thaumatomonadidae Hollande, 1952 FAMILY
-=======
+# Thaumatomonadidae Hollande, 1952 FAMILY
 
 #### Status
 ACCEPTED

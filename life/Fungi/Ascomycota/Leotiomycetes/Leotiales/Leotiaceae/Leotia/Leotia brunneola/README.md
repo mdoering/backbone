@@ -1,5 +1,4 @@
-Leotia brunneola Berk. & Broome SPECIES
-=======
+# Leotia brunneola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maculatasporites minimus Segroves, 1967 SPECIES
-=======
+# Maculatasporites minimus Segroves, 1967 SPECIES
 
 #### Status
 ACCEPTED

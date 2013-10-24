@@ -1,5 +1,4 @@
-Botrytis gossypina Bres. SPECIES
-=======
+# Botrytis gossypina Bres. SPECIES
 
 #### Status
 ACCEPTED

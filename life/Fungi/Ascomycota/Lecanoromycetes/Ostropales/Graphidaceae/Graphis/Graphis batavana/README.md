@@ -1,5 +1,4 @@
-Graphis batavana Zahlbr. SPECIES
-=======
+# Graphis batavana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

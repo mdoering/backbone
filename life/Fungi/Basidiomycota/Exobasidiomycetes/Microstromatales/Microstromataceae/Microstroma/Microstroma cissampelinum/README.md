@@ -1,5 +1,4 @@
-Microstroma cissampelinum Speg. SPECIES
-=======
+# Microstroma cissampelinum Speg. SPECIES
 
 #### Status
 ACCEPTED

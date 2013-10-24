@@ -1,5 +1,4 @@
-Coryneum tumoricola Peck SPECIES
-=======
+# Coryneum tumoricola Peck SPECIES
 
 #### Status
 ACCEPTED

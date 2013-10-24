@@ -1,5 +1,4 @@
-Alternaria coicis T.Y. Zhang SPECIES
-=======
+# Alternaria coicis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

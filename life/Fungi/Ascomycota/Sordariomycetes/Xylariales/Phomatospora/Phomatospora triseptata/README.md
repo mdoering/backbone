@@ -1,5 +1,4 @@
-Phomatospora triseptata Raja & Shearer SPECIES
-=======
+# Phomatospora triseptata Raja & Shearer SPECIES
 
 #### Status
 ACCEPTED

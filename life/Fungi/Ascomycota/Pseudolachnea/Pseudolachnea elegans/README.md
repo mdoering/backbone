@@ -1,5 +1,4 @@
-Pseudolachnea elegans Prostak. & Marzina SPECIES
-=======
+# Pseudolachnea elegans Prostak. & Marzina SPECIES
 
 #### Status
 ACCEPTED

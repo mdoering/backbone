@@ -1,5 +1,4 @@
-Paranosema grylli (Sokolova, Selezniov, Dolgikh, I.V. Issi) Y.Y. Sokolova, V.V. Dolgikh, E.V. Morzhina, E.S. Nassonova, I.V. Issi, R.S. Terry, J.E. Ironside, J.E. Smith & C.R. Vossbrinck SPECIES
-=======
+# Paranosema grylli (Sokolova, Selezniov, Dolgikh, I.V. Issi) Y.Y. Sokolova, V.V. Dolgikh, E.V. Morzhina, E.S. Nassonova, I.V. Issi, R.S. Terry, J.E. Ironside, J.E. Smith & C.R. Vossbrinck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys longiramulifera Matsush. SPECIES
-=======
+# Arthrobotrys longiramulifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

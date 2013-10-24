@@ -1,5 +1,4 @@
-Melanochaeta hemipsila (Berk. & Broome) E. Müll., Harr & Sulmont, 1969 SPECIES
-=======
+# Melanochaeta hemipsila (Berk. & Broome) E. Müll., Harr & Sulmont, 1969 SPECIES
 
 #### Status
 ACCEPTED

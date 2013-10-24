@@ -1,5 +1,4 @@
-Hysterium arachnoideum Schumach. SPECIES
-=======
+# Hysterium arachnoideum Schumach. SPECIES
 
 #### Status
 ACCEPTED

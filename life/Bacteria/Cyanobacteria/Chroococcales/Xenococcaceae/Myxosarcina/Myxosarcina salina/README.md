@@ -1,5 +1,4 @@
-Myxosarcina salina Frémy SPECIES
-=======
+# Myxosarcina salina Frémy SPECIES
 
 #### Status
 ACCEPTED

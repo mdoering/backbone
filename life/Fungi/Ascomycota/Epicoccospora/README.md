@@ -1,5 +1,4 @@
-Epicoccospora Budathoki & S.K. Singh GENUS
-=======
+# Epicoccospora Budathoki & S.K. Singh GENUS
 
 #### Status
 ACCEPTED

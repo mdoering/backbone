@@ -1,5 +1,4 @@
-Rhizophydium coralloidum Karling SPECIES
-=======
+# Rhizophydium coralloidum Karling SPECIES
 
 #### Status
 ACCEPTED

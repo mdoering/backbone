@@ -1,17 +1,16 @@
-Ejectosporus magnus S.W. Peterson, Lichtw. & M.C. Williams, 1991 SPECIES
-=======
+# Ejectosporus spica (S.W. Peterson & Lichtw.) Strongman, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lichtwardt, Peterson & Williams, Mycologia 83(4): 390 (1991)
+Mycologia 97(2): 554 (2005)
 
 #### Original name
-Ejectosporus magnus S.W. Peterson, Lichtw. & M.C. Williams, 1991
+Simuliomyces spica S.W. Peterson & Lichtw., 1983
 
 ### Remarks
 null

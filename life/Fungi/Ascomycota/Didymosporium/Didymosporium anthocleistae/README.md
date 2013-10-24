@@ -1,5 +1,4 @@
-Didymosporium anthocleistae Beeli SPECIES
-=======
+# Didymosporium anthocleistae Beeli SPECIES
 
 #### Status
 ACCEPTED

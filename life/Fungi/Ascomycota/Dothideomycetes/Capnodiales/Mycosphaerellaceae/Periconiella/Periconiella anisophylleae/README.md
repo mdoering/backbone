@@ -1,5 +1,4 @@
-Periconiella anisophylleae M.B. Ellis SPECIES
-=======
+# Periconiella anisophylleae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

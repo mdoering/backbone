@@ -1,5 +1,4 @@
-Etoschothrix Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Etoschothrix Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

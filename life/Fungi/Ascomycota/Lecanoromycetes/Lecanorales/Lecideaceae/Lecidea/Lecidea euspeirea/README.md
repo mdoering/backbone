@@ -1,5 +1,4 @@
-Lecidea euspeirea Nyl. SPECIES
-=======
+# Lecidea euspeirea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium macrocarpum var. macrocarpum VARIETY
-=======
+# Cochliobolus miyabeanus (S. Ito & Kurib.) Drechsler ex Dastur, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) 2: no. 148 (1824)
+Indian Journal of Agricultural Research 12: 733 (1942)
 
 #### Original name
-Helminthosporium macrocarpum var. macrocarpum
+Ophiobolus miyabeanus S. Ito & Kurib., 1927
 
 ### Remarks
 null

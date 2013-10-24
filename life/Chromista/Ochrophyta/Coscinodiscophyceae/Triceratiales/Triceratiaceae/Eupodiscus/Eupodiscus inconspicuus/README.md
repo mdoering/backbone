@@ -1,5 +1,4 @@
-Eupodiscus inconspicuus Rattray SPECIES
-=======
+# Eupodiscus inconspicuus Rattray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium ramosum Makhija & Patw. SPECIES
-=======
+# Arthothelium ramosum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

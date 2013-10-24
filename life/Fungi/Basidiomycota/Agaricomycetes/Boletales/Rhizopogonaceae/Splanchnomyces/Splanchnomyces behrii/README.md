@@ -1,5 +1,4 @@
-Splanchnomyces behrii Harkn. SPECIES
-=======
+# Splanchnomyces behrii Harkn. SPECIES
 
 #### Status
 ACCEPTED

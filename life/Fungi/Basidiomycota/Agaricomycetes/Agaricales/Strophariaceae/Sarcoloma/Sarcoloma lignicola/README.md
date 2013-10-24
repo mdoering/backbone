@@ -1,5 +1,4 @@
-Sarcoloma lignicola Locq. SPECIES
-=======
+# Sarcoloma lignicola Locq. SPECIES
 
 #### Status
 ACCEPTED

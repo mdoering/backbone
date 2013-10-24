@@ -1,5 +1,4 @@
-Dirinaria coccinea (Müll. Arg.) D.D. Awasthi SPECIES
-=======
+# Dirinaria coccinea (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

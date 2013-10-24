@@ -1,5 +1,4 @@
-Passalora solanacearum (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun & Crous SPECIES
-=======
+# Passalora solanacearum (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

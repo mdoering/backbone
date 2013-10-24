@@ -1,5 +1,4 @@
-Echinogromia Schroeder, 1907 GENUS
-=======
+# Echinogromia Schroeder, 1907 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus umbellatus J.F. Gmel. SPECIES
-=======
+# Agaricus umbellatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

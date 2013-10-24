@@ -1,5 +1,4 @@
-Glaucoma laterimarginata Dumas, 1930 SPECIES
-=======
+# Glaucoma laterimarginata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

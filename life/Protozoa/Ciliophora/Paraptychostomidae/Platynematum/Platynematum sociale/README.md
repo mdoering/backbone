@@ -1,5 +1,4 @@
-Platynematum sociale (Pen.) SPECIES
-=======
+# Platynematum sociale (Pen.) SPECIES
 
 #### Status
 ACCEPTED

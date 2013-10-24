@@ -1,5 +1,4 @@
-Monochaetia pachyspora Bubák SPECIES
-=======
+# Monochaetia pachyspora Bubák SPECIES
 
 #### Status
 ACCEPTED

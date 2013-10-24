@@ -1,14 +1,13 @@
-Hendersonia botulispora Teng SPECIES
-=======
+# Massariothea botulispora (Teng) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 638 (1980)
 
 #### Original name
 Hendersonia botulispora Teng

@@ -1,5 +1,4 @@
-Pirilithion S.A. Lyulyeva in S.A. Lyulyeva & E.S. Lipnik, 1970 GENUS
-=======
+# Pirilithion S.A. Lyulyeva in S.A. Lyulyeva & E.S. Lipnik, 1970 GENUS
 
 #### Status
 ACCEPTED

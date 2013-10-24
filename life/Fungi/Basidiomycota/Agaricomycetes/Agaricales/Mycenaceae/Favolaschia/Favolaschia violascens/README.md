@@ -1,5 +1,4 @@
-Favolaschia violascens Singer, 1974 SPECIES
-=======
+# Favolaschia violascens Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

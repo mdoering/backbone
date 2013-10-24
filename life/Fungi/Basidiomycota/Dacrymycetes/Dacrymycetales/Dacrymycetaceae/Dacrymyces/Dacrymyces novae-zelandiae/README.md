@@ -1,5 +1,4 @@
-Dacrymyces novae-zelandiae McNabb, 1973 SPECIES
-=======
+# Dacrymyces novae-zelandiae McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

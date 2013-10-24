@@ -1,5 +1,4 @@
-Septoria dryophila Sacc. SPECIES
-=======
+# Septoria dryophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

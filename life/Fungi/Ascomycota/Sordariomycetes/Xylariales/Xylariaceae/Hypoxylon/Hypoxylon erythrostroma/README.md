@@ -1,17 +1,16 @@
-Hypoxylon gillesii J.D. Rogers & Cand., 1982 SPECIES
-=======
+# Hypoxylon erythrostroma J.H. Mill., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 15: 507 (1982)
+Mycologia 25(4): 323 (1933)
 
 #### Original name
-Hypoxylon gillesii J.D. Rogers & Cand., 1982
+Hypoxylon erythrostroma J.H. Mill., 1933
 
 ### Remarks
 null

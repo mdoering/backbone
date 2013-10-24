@@ -1,5 +1,4 @@
-Triloculina crassatina (Brady) SPECIES
-=======
+# Triloculina crassatina (Brady) SPECIES
 
 #### Status
 ACCEPTED

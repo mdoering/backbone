@@ -1,5 +1,4 @@
-Pyrenula oculifera Vain. SPECIES
-=======
+# Pyrenula oculifera Vain. SPECIES
 
 #### Status
 ACCEPTED

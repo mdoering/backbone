@@ -1,5 +1,4 @@
-Mainsia GENUS
-=======
+# Mainsia GENUS
 
 #### Status
 ACCEPTED

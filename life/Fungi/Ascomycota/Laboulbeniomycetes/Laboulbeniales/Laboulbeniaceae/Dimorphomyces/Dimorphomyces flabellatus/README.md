@@ -1,5 +1,4 @@
-Dimorphomyces flabellatus Y.B. Lee & T. Majewski SPECIES
-=======
+# Dimorphomyces flabellatus Y.B. Lee & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

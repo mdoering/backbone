@@ -1,5 +1,4 @@
-Lembus punctatus Kahl, 1928 SPECIES
-=======
+# Lembus punctatus Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

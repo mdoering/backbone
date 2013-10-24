@@ -1,17 +1,16 @@
-Ascophanus hyilino-niveus Svrcek SPECIES
-=======
+# Ascophanus hyalinoniveus Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 26(1): 29 (1972)
 
 #### Original name
-Ascophanus hyilino-niveus Svrcek
+Ascophanus hyalinoniveus Svrcek
 
 ### Remarks
 null

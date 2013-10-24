@@ -1,5 +1,4 @@
-Trichoda Müller, 1773 GENUS
-=======
+# Trichoda Müller, 1773 GENUS
 
 #### Status
 ACCEPTED

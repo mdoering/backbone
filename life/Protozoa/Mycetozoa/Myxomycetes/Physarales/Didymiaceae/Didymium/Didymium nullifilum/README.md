@@ -1,17 +1,16 @@
-Squamuloderma nullifila Kowalski SPECIES
-=======
+# Didymium nullifilum (Kowalski) M.L. Farr, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 74(2): 341 (1982)
 
 #### Original name
-Squamuloderma nullifila Kowalski
+Squamuloderma nullifilum Kowalski, 1973
 
 ### Remarks
 null

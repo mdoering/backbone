@@ -1,5 +1,4 @@
-Zygolithus delftensis H. Stradner & D. Adamiker SPECIES
-=======
+# Zygolithus delftensis H. Stradner & D. Adamiker SPECIES
 
 #### Status
 ACCEPTED

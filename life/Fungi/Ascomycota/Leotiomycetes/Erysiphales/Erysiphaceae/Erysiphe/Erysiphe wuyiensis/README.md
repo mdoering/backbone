@@ -1,5 +1,4 @@
-Erysiphe wuyiensis (Z.X. Chen & R.X. Gao) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe wuyiensis (Z.X. Chen & R.X. Gao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza epixantha Cooke SPECIES
-=======
+# Peziza epixantha Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dendrophoma pleurospora var. pleurospora VARIETY
-=======
+# Dinemasporium pleurospora (Sacc.) Shkarupa, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 178 (1884)
+Nov. sist. Niz. Rast. 17: 108 (1980)
 
 #### Original name
-Dendrophoma pleurospora var. pleurospora
+Dendrophoma pleurospora Sacc., 1884
 
 ### Remarks
 null

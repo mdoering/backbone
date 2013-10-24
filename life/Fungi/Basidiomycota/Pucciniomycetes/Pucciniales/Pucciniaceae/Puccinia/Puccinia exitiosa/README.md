@@ -1,5 +1,4 @@
-Puccinia exitiosa Syd. & Holw. SPECIES
-=======
+# Puccinia exitiosa Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

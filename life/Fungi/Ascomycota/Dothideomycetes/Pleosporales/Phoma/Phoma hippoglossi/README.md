@@ -1,5 +1,4 @@
-Phoma hippoglossi (Mont.) Sacc. SPECIES
-=======
+# Phoma hippoglossi (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

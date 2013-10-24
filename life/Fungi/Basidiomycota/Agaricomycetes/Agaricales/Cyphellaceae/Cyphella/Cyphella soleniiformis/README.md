@@ -1,5 +1,4 @@
-Cyphella soleniiformis (Berk. & M.A. Curtis) Massee SPECIES
-=======
+# Cyphella soleniiformis (Berk. & M.A. Curtis) Massee SPECIES
 
 #### Status
 ACCEPTED

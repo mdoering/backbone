@@ -1,5 +1,4 @@
-Anzia leucobates (Nyl.) Müll. Arg. SPECIES
-=======
+# Anzia leucobates (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

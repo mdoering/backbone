@@ -1,5 +1,4 @@
-Graphis supracola A.W. Archer SPECIES
-=======
+# Graphis supracola A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

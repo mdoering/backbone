@@ -1,8 +1,7 @@
-Discorbina patelliformis Brady, 1884 SPECIES
-=======
+# Pileolina patelliformis (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Pluteus glaucotinctus E. Horak SPECIES
-=======
+# Pluteus glaucotinctus E. Horak SPECIES
 
 #### Status
 ACCEPTED

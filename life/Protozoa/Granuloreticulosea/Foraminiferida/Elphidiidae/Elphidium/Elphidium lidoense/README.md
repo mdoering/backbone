@@ -1,5 +1,4 @@
-Elphidium lidoense var. camarguensis Kruit, 1955 VARIETY
-=======
+# Elphidium lidoense (Cushman, 1936) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeoglenodinium G. Deflandre, 1935 GENUS
-=======
+# Palaeoglenodinium G. Deflandre, 1935 GENUS
 
 #### Status
 ACCEPTED

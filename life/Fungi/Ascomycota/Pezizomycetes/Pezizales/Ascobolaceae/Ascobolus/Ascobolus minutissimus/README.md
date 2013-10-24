@@ -1,5 +1,4 @@
-Ascobolus minutissimus (Boud.) SPECIES
-=======
+# Ascobolus minutissimus (Boud.) SPECIES
 
 #### Status
 ACCEPTED

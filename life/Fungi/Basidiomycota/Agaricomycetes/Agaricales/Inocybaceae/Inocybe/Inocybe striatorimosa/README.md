@@ -1,5 +1,4 @@
-Inocybe striatorimosa P.D. Orton, 1960 SPECIES
-=======
+# Inocybe striatorimosa P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

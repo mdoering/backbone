@@ -1,5 +1,4 @@
-Microtheliomyces GENUS
-=======
+# Microtheliomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rabdota Kremp. SPECIES
-=======
+# Lecanora rabdota Kremp. SPECIES
 
 #### Status
 ACCEPTED

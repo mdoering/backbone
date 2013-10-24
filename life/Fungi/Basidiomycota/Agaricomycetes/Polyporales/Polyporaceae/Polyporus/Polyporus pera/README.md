@@ -1,5 +1,4 @@
-Polyporus pera Pers. SPECIES
-=======
+# Polyporus pera Pers. SPECIES
 
 #### Status
 ACCEPTED

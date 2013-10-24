@@ -1,5 +1,4 @@
-Dactylaria flammulicornuta Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde SPECIES
-=======
+# Dactylaria flammulicornuta Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

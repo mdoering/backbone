@@ -1,5 +1,4 @@
-Marasmius leucocephalus Mont. SPECIES
-=======
+# Marasmius leucocephalus Mont. SPECIES
 
 #### Status
 ACCEPTED

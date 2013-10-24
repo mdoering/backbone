@@ -1,5 +1,4 @@
-Smardaea planchonis (Dunal ex Boud.) Korf & W.Y. Zhuang SPECIES
-=======
+# Smardaea planchonis (Dunal ex Boud.) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

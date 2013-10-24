@@ -1,5 +1,4 @@
-Erysiphe macrospora (Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe macrospora (Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

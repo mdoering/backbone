@@ -1,5 +1,4 @@
-Cryptosphaeria sulcata A.I. Romero & Carmarán SPECIES
-=======
+# Cryptosphaeria sulcata A.I. Romero & Carmarán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonella Yuferev in Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Polygonella Yuferev in Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

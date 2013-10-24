@@ -1,5 +1,4 @@
-Polyporus scrobinaceus Pers. SPECIES
-=======
+# Polyporus scrobinaceus Pers. SPECIES
 
 #### Status
 ACCEPTED

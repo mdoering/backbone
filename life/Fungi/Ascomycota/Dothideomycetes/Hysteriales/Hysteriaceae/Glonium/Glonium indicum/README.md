@@ -1,5 +1,4 @@
-Glonium indicum Tilak & Talde SPECIES
-=======
+# Glonium indicum Tilak & Talde SPECIES
 
 #### Status
 ACCEPTED

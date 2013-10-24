@@ -1,5 +1,4 @@
-Mycosphaerella chenopodii Dearn. & Barthol. SPECIES
-=======
+# Mycosphaerella chenopodii Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

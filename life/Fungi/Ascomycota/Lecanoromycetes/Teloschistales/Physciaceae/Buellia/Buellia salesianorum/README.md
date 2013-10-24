@@ -1,5 +1,4 @@
-Buellia salesianorum Sambo SPECIES
-=======
+# Buellia salesianorum Sambo SPECIES
 
 #### Status
 ACCEPTED

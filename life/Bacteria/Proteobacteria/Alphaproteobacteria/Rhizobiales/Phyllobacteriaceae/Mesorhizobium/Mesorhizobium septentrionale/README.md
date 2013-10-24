@@ -1,5 +1,4 @@
-Mesorhizobium septentrionale Gao et al., 2004 SPECIES
-=======
+# Mesorhizobium septentrionale Gao et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

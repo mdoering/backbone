@@ -1,5 +1,4 @@
-Phoma fumosa var. fumosa VARIETY
-=======
+# Phoma fumosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 25: 508 (1898)
 
 #### Original name
-Phoma fumosa var. fumosa
+Phoma fumosa Ellis & Everh.
 
 ### Remarks
 null

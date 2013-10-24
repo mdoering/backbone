@@ -1,5 +1,4 @@
-Arthonia graphidicola Coppins SPECIES
-=======
+# Arthonia graphidicola Coppins SPECIES
 
 #### Status
 ACCEPTED

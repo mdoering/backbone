@@ -1,5 +1,4 @@
-Lepiota roseola (Murrill) Murrill SPECIES
-=======
+# Lepiota roseola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

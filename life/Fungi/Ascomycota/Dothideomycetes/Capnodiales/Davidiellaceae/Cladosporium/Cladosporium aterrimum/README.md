@@ -1,5 +1,4 @@
-Cladosporium aterrimum Ellis & Everh. SPECIES
-=======
+# Cladosporium aterrimum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium parthenopes A. Zingone & M. Montresor SPECIES
-=======
+# Protoperidinium parthenopes A. Zingone & M. Montresor SPECIES
 
 #### Status
 ACCEPTED

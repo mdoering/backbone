@@ -1,5 +1,4 @@
-Aecidium adenophorae Jacz. SPECIES
-=======
+# Aecidium adenophorae Jacz. SPECIES
 
 #### Status
 ACCEPTED

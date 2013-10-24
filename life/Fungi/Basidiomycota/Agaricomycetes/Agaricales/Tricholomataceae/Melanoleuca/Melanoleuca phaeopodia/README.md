@@ -1,14 +1,13 @@
-Melanoleuca melaleuca var. phacopodia (Bull.) Maire VARIETY
-=======
+# Melanoleuca phaeopodia (Bull.) Murrill, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10(1): 20 (1914)
 
 #### Original name
 Agaricus phaeopodius Bull., 1792

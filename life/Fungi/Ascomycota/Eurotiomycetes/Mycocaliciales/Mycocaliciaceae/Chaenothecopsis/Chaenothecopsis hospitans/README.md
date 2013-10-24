@@ -1,17 +1,16 @@
-Strongyleuma exsertum subsp. exsertum SUBSPECIES
-=======
+# Chaenothecopsis hospitans (Th. Fr.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Tibell & Ryman, Nova Hedwigia 60(1-2): 202 (1995)
 
 #### Original name
-Strongyleuma exsertum subsp. exsertum
+Calicium hospitans Th. Fr.
 
 ### Remarks
 null

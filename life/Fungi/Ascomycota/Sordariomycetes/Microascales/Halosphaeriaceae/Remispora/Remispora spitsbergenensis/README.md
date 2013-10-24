@@ -1,5 +1,4 @@
-Remispora spitsbergenensis K.L. Pang & Vrijmoed, 2009 SPECIES
-=======
+# Remispora spitsbergenensis K.L. Pang & Vrijmoed, 2009 SPECIES
 
 #### Status
 ACCEPTED

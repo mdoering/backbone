@@ -1,5 +1,4 @@
-Lecidea leucophaeotera Nyl. SPECIES
-=======
+# Lecidea leucophaeotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

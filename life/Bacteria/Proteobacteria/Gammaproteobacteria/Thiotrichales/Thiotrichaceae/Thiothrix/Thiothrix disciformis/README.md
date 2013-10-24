@@ -1,5 +1,4 @@
-Thiothrix disciformis Aruga et al., 2002 SPECIES
-=======
+# Thiothrix disciformis Aruga et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

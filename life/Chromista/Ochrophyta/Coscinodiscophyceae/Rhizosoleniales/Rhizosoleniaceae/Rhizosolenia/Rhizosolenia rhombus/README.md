@@ -1,5 +1,4 @@
-Rhizosolenia rhombus Karsten, 1905 SPECIES
-=======
+# Rhizosolenia rhombus Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

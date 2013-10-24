@@ -1,5 +1,4 @@
-Arthrinium globosum Koskela SPECIES
-=======
+# Arthrinium globosum Koskela SPECIES
 
 #### Status
 ACCEPTED

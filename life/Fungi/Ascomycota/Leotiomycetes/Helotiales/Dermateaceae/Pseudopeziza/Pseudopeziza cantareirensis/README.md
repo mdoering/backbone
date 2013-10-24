@@ -1,5 +1,4 @@
-Pseudopeziza cantareirensis Henn. SPECIES
-=======
+# Pseudopeziza cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella stellata Peck SPECIES
-=======
+# Volutella stellata Peck SPECIES
 
 #### Status
 ACCEPTED

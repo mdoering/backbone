@@ -1,5 +1,4 @@
-Rhytisma solidaginis Schwein. SPECIES
-=======
+# Rhytisma solidaginis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kollmannita Fuchs, 1968 GENUS
-=======
+# Kollmannita Fuchs, 1968 GENUS
 
 #### Status
 ACCEPTED

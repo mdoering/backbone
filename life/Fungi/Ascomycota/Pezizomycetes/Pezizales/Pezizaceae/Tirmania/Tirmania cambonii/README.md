@@ -1,5 +1,4 @@
-Tirmania cambonii Chatin SPECIES
-=======
+# Tirmania cambonii Chatin SPECIES
 
 #### Status
 ACCEPTED

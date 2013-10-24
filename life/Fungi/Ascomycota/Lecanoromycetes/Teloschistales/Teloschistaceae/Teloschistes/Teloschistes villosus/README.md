@@ -1,5 +1,4 @@
-Teloschistes villosus var. villosus VARIETY
-=======
+# Teloschistes villosus (Ach.) Norman SPECIES
 
 #### Status
 ACCEPTED

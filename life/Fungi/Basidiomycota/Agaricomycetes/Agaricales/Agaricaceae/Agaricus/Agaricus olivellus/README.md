@@ -1,5 +1,4 @@
-Agaricus olivellus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus olivellus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia laricina Velen. SPECIES
-=======
+# Collybia laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

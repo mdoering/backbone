@@ -1,14 +1,13 @@
-Pleospora punctiformis Niessl, 1875 SPECIES
-=======
+# Platysporoides punctiformis (Niessl) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 14: 184 (1875)
+Can. J. Bot. 70(8): 1654 (1992)
 
 #### Original name
 Pleospora punctiformis Niessl, 1875

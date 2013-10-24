@@ -1,5 +1,4 @@
-Psathyrella malayana Corner SPECIES
-=======
+# Psathyrella malayana Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichohyalidae Saidova, 1981 FAMILY
-=======
+# Trichohyalidae Saidova, 1981 FAMILY
 
 #### Status
 ACCEPTED

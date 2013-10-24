@@ -1,5 +1,4 @@
-Rozites symeae Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites symeae Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

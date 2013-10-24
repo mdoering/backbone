@@ -1,5 +1,4 @@
-Anaptychia isidiata Tomin SPECIES
-=======
+# Anaptychia isidiata Tomin SPECIES
 
 #### Status
 ACCEPTED

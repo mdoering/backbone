@@ -1,5 +1,4 @@
-Catillaria muscicola Lynge SPECIES
-=======
+# Catillaria muscicola Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryobasidium obtusisporum J. Erikss., 1958 SPECIES
-=======
+# Botryobasidium obtusisporum J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED

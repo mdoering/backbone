@@ -1,5 +1,4 @@
-Collacystis Kunze GENUS
-=======
+# Collacystis Kunze GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina concentrica Cooke SPECIES
-=======
+# Asterina concentrica Cooke SPECIES
 
 #### Status
 ACCEPTED

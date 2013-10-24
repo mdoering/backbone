@@ -1,5 +1,4 @@
-Phaeomoniella pinifoliorum Hyang B. Lee, J.Y. Park, Summerb. & H.S. Jung, 2006 SPECIES
-=======
+# Phaeomoniella pinifoliorum Hyang B. Lee, J.Y. Park, Summerb. & H.S. Jung, 2006 SPECIES
 
 #### Status
 ACCEPTED

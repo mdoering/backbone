@@ -1,5 +1,4 @@
-Cortinarius rimosus Peck SPECIES
-=======
+# Cortinarius rimosus Peck SPECIES
 
 #### Status
 ACCEPTED

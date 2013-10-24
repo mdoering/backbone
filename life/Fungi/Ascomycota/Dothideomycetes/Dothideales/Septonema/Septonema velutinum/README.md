@@ -1,5 +1,4 @@
-Septonema velutinum C. Massal. SPECIES
-=======
+# Septonema velutinum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

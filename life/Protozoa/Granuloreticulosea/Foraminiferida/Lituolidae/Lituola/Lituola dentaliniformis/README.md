@@ -1,5 +1,4 @@
-Lituola dentaliniformis Brady, 1881 SPECIES
-=======
+# Lituola dentaliniformis Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

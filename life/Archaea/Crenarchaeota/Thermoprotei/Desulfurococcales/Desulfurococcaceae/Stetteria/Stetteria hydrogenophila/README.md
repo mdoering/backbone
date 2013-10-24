@@ -1,5 +1,4 @@
-Stetteria hydrogenophila Jochimsen et al., 1998 SPECIES
-=======
+# Stetteria hydrogenophila Jochimsen et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia gattefossei (M. Choisy) Zahlbr. SPECIES
-=======
+# Parmelia gattefossei (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

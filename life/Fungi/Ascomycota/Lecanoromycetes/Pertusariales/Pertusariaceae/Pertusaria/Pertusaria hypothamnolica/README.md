@@ -1,5 +1,4 @@
-Pertusaria hypothamnolica Dibben SPECIES
-=======
+# Pertusaria hypothamnolica Dibben SPECIES
 
 #### Status
 ACCEPTED

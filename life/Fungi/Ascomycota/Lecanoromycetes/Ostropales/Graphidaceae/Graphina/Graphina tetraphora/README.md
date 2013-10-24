@@ -1,5 +1,4 @@
-Graphina tetraphora (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina tetraphora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adercotryma wrighti Brönnimann & Whittaker, 1987 SPECIES
-=======
+# Adercotryma wrighti Brönnimann & Whittaker, 1987 SPECIES
 
 #### Status
 ACCEPTED

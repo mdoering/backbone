@@ -1,5 +1,4 @@
-Linkosia obclavata W.P. Wu SPECIES
-=======
+# Linkosia obclavata W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

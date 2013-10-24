@@ -1,5 +1,4 @@
-Psathyrella badia Kits van Wav. SPECIES
-=======
+# Psathyrella badia Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

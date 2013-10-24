@@ -1,5 +1,4 @@
-Lycoperdon macrogemmatum Lloyd SPECIES
-=======
+# Lycoperdon macrogemmatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

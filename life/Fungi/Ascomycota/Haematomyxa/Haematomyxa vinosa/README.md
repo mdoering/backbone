@@ -1,8 +1,7 @@
-Haematomyces vinosus Cooke & Ellis, 1876 SPECIES
-=======
+# Haematomyxa vinosa (Cooke & Ellis) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

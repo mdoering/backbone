@@ -1,17 +1,16 @@
-Phyllachora circinans var. sanguinea Rehm VARIETY
-=======
+# Phyllachora circinans (Pat.) Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leafl. of Philipp. Bot. 6: 2274 (1914)
+Annls mycol. 25(3/4): 308 (1927)
 
 #### Original name
-Phyllachora circinans var. sanguinea Rehm
+Physalospora circinans Pat., 1902
 
 ### Remarks
 null

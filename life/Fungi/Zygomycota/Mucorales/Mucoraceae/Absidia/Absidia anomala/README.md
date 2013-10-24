@@ -1,5 +1,4 @@
-Absidia anomala Hesselt. & J.J. Ellis, 1964 SPECIES
-=======
+# Absidia anomala Hesselt. & J.J. Ellis, 1964 SPECIES
 
 #### Status
 ACCEPTED

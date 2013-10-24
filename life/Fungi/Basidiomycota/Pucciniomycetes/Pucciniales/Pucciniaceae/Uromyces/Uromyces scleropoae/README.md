@@ -1,5 +1,4 @@
-Uromyces scleropoae Baudy & Pieb. SPECIES
-=======
+# Uromyces scleropoae Baudy & Pieb. SPECIES
 
 #### Status
 ACCEPTED

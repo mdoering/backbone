@@ -1,5 +1,4 @@
-Merotricha bacillata Mereschkowsky SPECIES
-=======
+# Merotricha bacillata Mereschkowsky SPECIES
 
 #### Status
 ACCEPTED

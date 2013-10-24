@@ -1,5 +1,4 @@
-Rugososchwagerina GENUS
-=======
+# Rugososchwagerina GENUS
 
 #### Status
 ACCEPTED

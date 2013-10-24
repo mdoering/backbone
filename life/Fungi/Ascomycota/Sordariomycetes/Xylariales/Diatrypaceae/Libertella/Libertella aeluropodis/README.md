@@ -1,17 +1,16 @@
-Libertella aeluropidis S. Ahmad SPECIES
-=======
+# Libertella aeluropodis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 14: 5 (1968)
 
 #### Original name
-Libertella aeluropidis S. Ahmad
+Libertella aeluropodis S. Ahmad
 
 ### Remarks
 null

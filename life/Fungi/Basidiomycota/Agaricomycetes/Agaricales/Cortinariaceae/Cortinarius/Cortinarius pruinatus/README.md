@@ -1,5 +1,4 @@
-Cortinarius pruinatus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pruinatus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

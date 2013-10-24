@@ -1,5 +1,4 @@
-Septoria cydonicola Thüm. SPECIES
-=======
+# Septoria cydonicola Thüm. SPECIES
 
 #### Status
 ACCEPTED

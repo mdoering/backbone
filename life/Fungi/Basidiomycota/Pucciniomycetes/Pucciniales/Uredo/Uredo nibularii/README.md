@@ -1,5 +1,4 @@
-Uredo nibularii Henn. SPECIES
-=======
+# Uredo nibularii Henn. SPECIES
 
 #### Status
 ACCEPTED

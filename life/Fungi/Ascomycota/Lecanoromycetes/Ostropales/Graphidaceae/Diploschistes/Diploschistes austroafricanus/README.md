@@ -1,5 +1,4 @@
-Diploschistes austroafricanus Guderley & Lumbsch SPECIES
-=======
+# Diploschistes austroafricanus Guderley & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

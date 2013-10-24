@@ -1,5 +1,4 @@
-Seiridium tecomae (Sacc.) B. Sutton SPECIES
-=======
+# Seiridium tecomae (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

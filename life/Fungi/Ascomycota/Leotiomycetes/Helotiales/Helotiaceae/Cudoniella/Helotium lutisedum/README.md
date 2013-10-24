@@ -1,5 +1,4 @@
-Helotium lutisedum P. Karst., 1871 SPECIES
-=======
+# Helotium lutisedum P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

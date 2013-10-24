@@ -1,5 +1,4 @@
-Asterina aglaiae Hosag., 2006 SPECIES
-=======
+# Asterina aglaiae Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

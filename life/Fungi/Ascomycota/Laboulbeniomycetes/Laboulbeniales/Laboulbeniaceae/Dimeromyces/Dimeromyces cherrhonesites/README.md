@@ -1,5 +1,4 @@
-Dimeromyces cherrhonesites Balazuc SPECIES
-=======
+# Dimeromyces cherrhonesites Balazuc SPECIES
 
 #### Status
 ACCEPTED

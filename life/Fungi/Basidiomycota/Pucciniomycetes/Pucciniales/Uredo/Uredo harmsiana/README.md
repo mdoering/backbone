@@ -1,5 +1,4 @@
-Uredo harmsiana Henn. SPECIES
-=======
+# Uredo harmsiana Henn. SPECIES
 
 #### Status
 ACCEPTED

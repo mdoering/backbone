@@ -1,5 +1,4 @@
-Collybia hebelomoides Ew. Gerhardt SPECIES
-=======
+# Collybia hebelomoides Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

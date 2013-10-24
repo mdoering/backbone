@@ -1,14 +1,13 @@
-Stereum riofrioi Pat., 1892 SPECIES
-=======
+# Hymenogloea riofrioi (Pat.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 8: 117 (1892)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 147 (1900)
 
 #### Original name
 Stereum riofrioi Pat., 1892

@@ -1,17 +1,16 @@
-Inocybe decemgibbosa (Kühner) Vauras, 1997 SPECIES
-=======
+# Inocybe glabrodisca P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 37(2): 51 (1997)
+Trans. Br. mycol. Soc. 43(2): 279 (1960)
 
 #### Original name
-Inocybe oblectabilis f. decemgibbosa Kühner, 1933
+Inocybe glabrodisca P.D. Orton, 1960
 
 ### Remarks
 null

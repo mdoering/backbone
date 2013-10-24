@@ -1,5 +1,4 @@
-Blitridium mate Speg. SPECIES
-=======
+# Blitridium mate Speg. SPECIES
 
 #### Status
 ACCEPTED

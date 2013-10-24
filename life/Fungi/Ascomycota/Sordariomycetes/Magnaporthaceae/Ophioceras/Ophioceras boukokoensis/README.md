@@ -1,5 +1,4 @@
-Ophioceras boukokoensis Saccas SPECIES
-=======
+# Ophioceras boukokoensis Saccas SPECIES
 
 #### Status
 ACCEPTED

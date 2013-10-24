@@ -1,5 +1,4 @@
-Ommatolithus Shafik, 1989 GENUS
-=======
+# Ommatolithus Shafik, 1989 GENUS
 
 #### Status
 ACCEPTED

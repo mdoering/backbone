@@ -1,5 +1,4 @@
-Marasmius rhyssophylus Mont. SPECIES
-=======
+# Marasmius rhyssophylus Mont. SPECIES
 
 #### Status
 ACCEPTED

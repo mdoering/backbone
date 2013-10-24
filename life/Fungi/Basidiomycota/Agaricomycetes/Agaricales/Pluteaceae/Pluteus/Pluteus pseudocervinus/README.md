@@ -1,5 +1,4 @@
-Pluteus pseudocervinus Wichanský SPECIES
-=======
+# Pluteus pseudocervinus Wichanský SPECIES
 
 #### Status
 ACCEPTED

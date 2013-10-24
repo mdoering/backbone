@@ -1,5 +1,4 @@
-Phaeohelotium castaneum Gamundí SPECIES
-=======
+# Phaeohelotium castaneum Gamundí SPECIES
 
 #### Status
 ACCEPTED

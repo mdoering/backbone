@@ -1,5 +1,4 @@
-Paraphysothele GENUS
-=======
+# Paraphysothele GENUS
 
 #### Status
 ACCEPTED

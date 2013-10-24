@@ -1,5 +1,4 @@
-Hemimycena aurantiaca Natarajan & Manjula SPECIES
-=======
+# Hemimycena aurantiaca Natarajan & Manjula SPECIES
 
 #### Status
 ACCEPTED

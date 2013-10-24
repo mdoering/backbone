@@ -1,5 +1,4 @@
-Uredo aneimiae Henn. SPECIES
-=======
+# Uredo aneimiae Henn. SPECIES
 
 #### Status
 ACCEPTED

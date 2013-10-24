@@ -1,5 +1,4 @@
-Hypocrea scutelliformis Berk. & Ravenel SPECIES
-=======
+# Hypocrea scutelliformis Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

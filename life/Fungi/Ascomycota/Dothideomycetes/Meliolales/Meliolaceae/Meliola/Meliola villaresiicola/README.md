@@ -1,5 +1,4 @@
-Meliola villaresiicola Speg. SPECIES
-=======
+# Meliola villaresiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

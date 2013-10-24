@@ -1,5 +1,4 @@
-Trachelomonas splendida Playfair SPECIES
-=======
+# Trachelomonas splendida Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia miniata Vain. ex Lücking SPECIES
-=======
+# Cryptothecia miniata Vain. ex Lücking SPECIES
 
 #### Status
 ACCEPTED

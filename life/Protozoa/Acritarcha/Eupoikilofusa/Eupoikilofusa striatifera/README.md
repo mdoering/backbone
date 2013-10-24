@@ -1,5 +1,4 @@
-Eupoikilofusa striatifera (Cramer, 1964) Cramer, 1970 SPECIES
-=======
+# Eupoikilofusa striatifera (Cramer, 1964) Cramer, 1970 SPECIES
 
 #### Status
 ACCEPTED

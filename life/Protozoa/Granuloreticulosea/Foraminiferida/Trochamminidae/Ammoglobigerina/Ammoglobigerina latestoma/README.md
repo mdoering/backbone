@@ -1,5 +1,4 @@
-Ammoglobigerina latestoma Zheng & Fu, 2001 SPECIES
-=======
+# Ammoglobigerina latestoma Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

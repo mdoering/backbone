@@ -1,5 +1,4 @@
-Zygosaccharomyces priorianus Klöcker SPECIES
-=======
+# Zygosaccharomyces priorianus Klöcker SPECIES
 
 #### Status
 ACCEPTED

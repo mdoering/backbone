@@ -1,5 +1,4 @@
-Verrucaria omphalota Müll. Arg. SPECIES
-=======
+# Verrucaria omphalota Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

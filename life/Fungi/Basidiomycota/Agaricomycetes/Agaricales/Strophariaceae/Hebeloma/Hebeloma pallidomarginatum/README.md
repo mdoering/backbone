@@ -1,5 +1,4 @@
-Hebeloma pallidomarginatum Peck SPECIES
-=======
+# Hebeloma pallidomarginatum Peck SPECIES
 
 #### Status
 ACCEPTED

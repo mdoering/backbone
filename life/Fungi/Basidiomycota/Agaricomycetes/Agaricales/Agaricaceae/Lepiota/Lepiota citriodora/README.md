@@ -1,5 +1,4 @@
-Lepiota citriodora Dennis SPECIES
-=======
+# Lepiota citriodora Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea sinuosa (Sowerby) Gray SPECIES
-=======
+# Daedalea sinuosa (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

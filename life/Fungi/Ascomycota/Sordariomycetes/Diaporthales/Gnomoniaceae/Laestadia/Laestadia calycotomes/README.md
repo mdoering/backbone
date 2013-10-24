@@ -1,5 +1,4 @@
-Laestadia calycotomes Rolland SPECIES
-=======
+# Laestadia calycotomes Rolland SPECIES
 
 #### Status
 ACCEPTED

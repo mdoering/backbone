@@ -1,5 +1,4 @@
-Sphaeronaema clavatum Lév. SPECIES
-=======
+# Sphaeronaema clavatum Lév. SPECIES
 
 #### Status
 ACCEPTED

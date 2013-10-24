@@ -1,17 +1,16 @@
-Hyphospora agavaciensis A.W. Ramaley SPECIES
-=======
+# Hyphospora agavacearum A.W. Ramaley, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 88(1): 133 (1996)
 
 #### Original name
-Hyphospora agavaciensis A.W. Ramaley
+Hyphospora agavacearum A.W. Ramaley, 1996
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Davisiella botryodiplodiae S. Ahmad SPECIES
-=======
+# Davisiella botryodiplodiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariopsis viscosa (Clem.) Murrill SPECIES
-=======
+# Volvariopsis viscosa (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

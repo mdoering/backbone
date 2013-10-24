@@ -1,5 +1,4 @@
-Lopadium sandwicense H. Magn. SPECIES
-=======
+# Lopadium sandwicense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

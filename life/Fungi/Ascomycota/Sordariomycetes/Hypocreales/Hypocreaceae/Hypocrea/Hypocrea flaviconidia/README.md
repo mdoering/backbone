@@ -1,5 +1,4 @@
-Hypocrea flaviconidia Chaverri, Druzhin. & Samuels SPECIES
-=======
+# Hypocrea flaviconidia Chaverri, Druzhin. & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeria rasa Berk., 1855 SPECIES
-=======
+# Fracchiaea rasa (Berk.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. nov. -zel. 205 (1855)
+Syll. fung. (Abellini) 1: 95 (1882)
 
 #### Original name
 Sphaeria rasa Berk., 1855

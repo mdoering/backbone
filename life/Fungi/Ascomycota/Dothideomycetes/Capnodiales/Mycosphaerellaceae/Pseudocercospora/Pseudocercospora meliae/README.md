@@ -1,5 +1,4 @@
-Pseudocercospora meliae A.N. Rai & Kamal SPECIES
-=======
+# Pseudocercospora meliae A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

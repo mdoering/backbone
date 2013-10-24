@@ -1,5 +1,4 @@
-Buttiauxella agrestis Ferragut et al., 1982 SPECIES
-=======
+# Buttiauxella agrestis Ferragut et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

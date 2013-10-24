@@ -1,5 +1,4 @@
-Staurolithites lumina SPECIES
-=======
+# Staurolithites lumina SPECIES
 
 #### Status
 ACCEPTED

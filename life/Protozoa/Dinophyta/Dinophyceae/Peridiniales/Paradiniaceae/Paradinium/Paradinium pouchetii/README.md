@@ -1,5 +1,4 @@
-Paradinium pouchetii SPECIES
-=======
+# Paradinium pouchetii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena nobilis (Peck) Murrill SPECIES
-=======
+# Mycena nobilis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

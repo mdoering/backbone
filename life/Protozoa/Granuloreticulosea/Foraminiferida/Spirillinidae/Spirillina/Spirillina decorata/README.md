@@ -1,11 +1,10 @@
-Spirillina decorata var. unilatera Chapman, 1902 VARIETY
-=======
+# Spirillina decorata Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

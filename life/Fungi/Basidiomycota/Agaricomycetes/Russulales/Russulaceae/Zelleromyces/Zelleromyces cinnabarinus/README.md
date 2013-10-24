@@ -1,5 +1,4 @@
-Zelleromyces cinnabarinus Singer & A.H. Sm., 1960 SPECIES
-=======
+# Zelleromyces cinnabarinus Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
 ACCEPTED

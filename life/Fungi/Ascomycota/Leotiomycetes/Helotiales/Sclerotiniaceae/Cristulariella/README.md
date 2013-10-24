@@ -1,5 +1,4 @@
-Cristulariella von Höhnel, 1916 GENUS
-=======
+# Cristulariella von Höhnel, 1916 GENUS
 
 #### Status
 ACCEPTED

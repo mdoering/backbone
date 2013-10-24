@@ -1,5 +1,4 @@
-Verrucaria lyngei Servít SPECIES
-=======
+# Verrucaria lyngei Servít SPECIES
 
 #### Status
 ACCEPTED

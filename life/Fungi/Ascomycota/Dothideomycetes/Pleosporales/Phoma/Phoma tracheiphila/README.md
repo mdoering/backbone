@@ -1,17 +1,16 @@
-Phoma tracheiphila f. sp FORM
-=======
+# Phoma tracheiphila (Petri) L.A. Kantsch. & Gikaschvili, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 63(10): 1733 (1985)
+Trudy Inst. Zasch. Rast. Tbilisi 5: 20 (1948)
 
 #### Original name
-Phoma tracheiphila f. sp
+Deuterophoma tracheiphila Petri, 1929
 
 ### Remarks
 null

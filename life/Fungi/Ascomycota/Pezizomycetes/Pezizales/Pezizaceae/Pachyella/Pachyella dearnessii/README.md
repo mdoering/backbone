@@ -1,5 +1,4 @@
-Pachyella dearnessii Gamundí SPECIES
-=======
+# Pachyella dearnessii Gamundí SPECIES
 
 #### Status
 ACCEPTED

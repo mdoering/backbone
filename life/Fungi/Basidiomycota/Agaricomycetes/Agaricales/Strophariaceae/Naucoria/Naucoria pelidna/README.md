@@ -1,5 +1,4 @@
-Naucoria pelidna Berk. & Broome SPECIES
-=======
+# Naucoria pelidna Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

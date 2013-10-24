@@ -1,5 +1,4 @@
-Aleurodiscus sordidoalbus Rick SPECIES
-=======
+# Aleurodiscus sordidoalbus Rick SPECIES
 
 #### Status
 ACCEPTED

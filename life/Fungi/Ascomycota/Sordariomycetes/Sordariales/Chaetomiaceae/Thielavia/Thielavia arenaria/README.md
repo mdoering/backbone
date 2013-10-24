@@ -1,5 +1,4 @@
-Thielavia arenaria Mouch., 1973 SPECIES
-=======
+# Thielavia arenaria Mouch., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora curatellae (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora curatellae (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

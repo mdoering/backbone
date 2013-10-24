@@ -1,5 +1,4 @@
-Buellia payeri Körb. SPECIES
-=======
+# Buellia payeri Körb. SPECIES
 
 #### Status
 ACCEPTED

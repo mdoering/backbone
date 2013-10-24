@@ -1,5 +1,4 @@
-Phialea sulphurella (Sacc.) Sacc. SPECIES
-=======
+# Phialea sulphurella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

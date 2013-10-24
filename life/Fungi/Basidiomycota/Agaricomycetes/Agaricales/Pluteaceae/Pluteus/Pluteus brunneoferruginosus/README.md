@@ -1,5 +1,4 @@
-Pluteus brunneoferruginosus Herp. SPECIES
-=======
+# Pluteus brunneoferruginosus Herp. SPECIES
 
 #### Status
 ACCEPTED

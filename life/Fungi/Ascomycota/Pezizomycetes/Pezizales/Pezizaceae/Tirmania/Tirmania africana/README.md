@@ -1,5 +1,4 @@
-Tirmania africana Chatin SPECIES
-=======
+# Tirmania africana Chatin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosphaera seminulum Bramlette & Sullivan, 1961 SPECIES
-=======
+# Helicosphaera seminulum Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

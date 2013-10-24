@@ -1,5 +1,4 @@
-Flectospira Crespin & Belford, 1957 GENUS
-=======
+# Flectospira Crespin & Belford, 1957 GENUS
 
 #### Status
 ACCEPTED

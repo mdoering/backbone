@@ -1,5 +1,4 @@
-Myriotrema anamalaiense (Patw. & C.R. Kulk.) Hale SPECIES
-=======
+# Myriotrema anamalaiense (Patw. & C.R. Kulk.) Hale SPECIES
 
 #### Status
 ACCEPTED

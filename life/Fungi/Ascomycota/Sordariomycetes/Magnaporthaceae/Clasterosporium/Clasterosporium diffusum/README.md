@@ -1,5 +1,4 @@
-Clasterosporium diffusum Heald & F.A. Wolf SPECIES
-=======
+# Clasterosporium diffusum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

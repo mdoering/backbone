@@ -1,5 +1,4 @@
-Torula rostrata F.C. Harrison SPECIES
-=======
+# Torula rostrata F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

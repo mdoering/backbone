@@ -1,5 +1,4 @@
-Glomus badium Oehl, D. Redecker & Sieverd. SPECIES
-=======
+# Glomus badium Oehl, D. Redecker & Sieverd. SPECIES
 
 #### Status
 ACCEPTED

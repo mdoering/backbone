@@ -1,5 +1,4 @@
-Ceracea cerea Rick SPECIES
-=======
+# Ceracea cerea Rick SPECIES
 
 #### Status
 ACCEPTED

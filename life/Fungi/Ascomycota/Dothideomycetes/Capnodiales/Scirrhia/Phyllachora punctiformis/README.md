@@ -1,8 +1,7 @@
-Sporonema punctiforme (Fuckel) Petr., 1920 SPECIES
-=======
+# Phyllachora punctiformis (Fuckel) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

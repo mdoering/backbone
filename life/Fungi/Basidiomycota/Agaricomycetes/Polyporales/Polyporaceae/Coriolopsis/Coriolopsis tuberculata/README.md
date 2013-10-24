@@ -1,5 +1,4 @@
-Coriolopsis tuberculata Ryvarden, 2000 SPECIES
-=======
+# Coriolopsis tuberculata Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

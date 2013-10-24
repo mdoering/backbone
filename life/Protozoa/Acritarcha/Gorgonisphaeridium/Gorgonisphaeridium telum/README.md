@@ -1,5 +1,4 @@
-Gorgonisphaeridium telum R. Wicander & G. Playford SPECIES
-=======
+# Gorgonisphaeridium telum R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

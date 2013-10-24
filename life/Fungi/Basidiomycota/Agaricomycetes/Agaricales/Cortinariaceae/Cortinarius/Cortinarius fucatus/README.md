@@ -1,5 +1,4 @@
-Cortinarius fucatus Gasparini SPECIES
-=======
+# Cortinarius fucatus Gasparini SPECIES
 
 #### Status
 ACCEPTED

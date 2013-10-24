@@ -1,5 +1,4 @@
-Leccinum montanum Thiers SPECIES
-=======
+# Leccinum montanum Thiers SPECIES
 
 #### Status
 ACCEPTED

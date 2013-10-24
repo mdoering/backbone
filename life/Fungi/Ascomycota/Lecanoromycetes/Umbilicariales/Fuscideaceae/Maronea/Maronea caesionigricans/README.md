@@ -1,5 +1,4 @@
-Maronea caesionigricans Vain. SPECIES
-=======
+# Maronea caesionigricans Vain. SPECIES
 
 #### Status
 ACCEPTED

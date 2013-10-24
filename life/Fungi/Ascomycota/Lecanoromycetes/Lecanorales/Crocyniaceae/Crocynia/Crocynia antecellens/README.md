@@ -1,5 +1,4 @@
-Crocynia antecellens Hue SPECIES
-=======
+# Crocynia antecellens Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rubripes Thiers SPECIES
-=======
+# Boletus rubripes Thiers SPECIES
 
 #### Status
 ACCEPTED

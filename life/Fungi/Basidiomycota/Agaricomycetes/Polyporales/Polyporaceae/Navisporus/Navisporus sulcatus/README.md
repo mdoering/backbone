@@ -1,17 +1,16 @@
-Polyporus tisdaleanus (Murrill) Murrill, 1938 SPECIES
-=======
+# Navisporus sulcatus (Lloyd) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 65: 661 (1938)
+Nordic Jl Bot. 3(3): 412 (1983)
 
 #### Original name
-Coriolopsis tisdaleana Murrill, 1938
+Trametes sulcata Lloyd, 1922
 
 ### Remarks
 null

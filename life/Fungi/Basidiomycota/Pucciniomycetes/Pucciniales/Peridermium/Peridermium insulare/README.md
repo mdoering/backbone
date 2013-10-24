@@ -1,5 +1,4 @@
-Peridermium insulare Syd. SPECIES
-=======
+# Peridermium insulare Syd. SPECIES
 
 #### Status
 ACCEPTED

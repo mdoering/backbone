@@ -1,5 +1,4 @@
-Caliciopsis rapaneae B. Huguenin SPECIES
-=======
+# Caliciopsis rapaneae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

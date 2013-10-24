@@ -1,5 +1,4 @@
-Jenmaniomyces GENUS
-=======
+# Jenmaniomyces GENUS
 
 #### Status
 ACCEPTED

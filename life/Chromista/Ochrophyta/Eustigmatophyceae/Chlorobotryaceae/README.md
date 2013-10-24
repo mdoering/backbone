@@ -1,5 +1,4 @@
-Chlorobotryaceae FAMILY
-=======
+# Chlorobotryaceae FAMILY
 
 #### Status
 ACCEPTED

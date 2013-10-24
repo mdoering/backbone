@@ -1,5 +1,4 @@
-Calvatia rugosa (Berk. & M.A. Curtis) D.A. Reid SPECIES
-=======
+# Calvatia rugosa (Berk. & M.A. Curtis) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

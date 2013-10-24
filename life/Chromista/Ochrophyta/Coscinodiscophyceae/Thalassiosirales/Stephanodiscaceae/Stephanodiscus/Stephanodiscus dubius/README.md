@@ -1,5 +1,4 @@
-Stephanodiscus dubius (Fricke) Hustedt SPECIES
-=======
+# Stephanodiscus dubius (Fricke) Hustedt SPECIES
 
 #### Status
 ACCEPTED

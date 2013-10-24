@@ -1,5 +1,4 @@
-Trichophaea glareosa (Velen.) Waraitch SPECIES
-=======
+# Trichophaea glareosa (Velen.) Waraitch SPECIES
 
 #### Status
 ACCEPTED

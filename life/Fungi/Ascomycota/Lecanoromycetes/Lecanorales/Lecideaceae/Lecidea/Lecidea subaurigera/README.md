@@ -1,5 +1,4 @@
-Lecidea subaurigera Vain. SPECIES
-=======
+# Lecidea subaurigera Vain. SPECIES
 
 #### Status
 ACCEPTED

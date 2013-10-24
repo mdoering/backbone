@@ -1,5 +1,4 @@
-Piline splendens (Pat.) Theiss. SPECIES
-=======
+# Piline splendens (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

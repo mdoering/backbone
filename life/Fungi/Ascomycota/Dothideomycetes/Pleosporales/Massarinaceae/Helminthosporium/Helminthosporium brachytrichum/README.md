@@ -1,5 +1,4 @@
-Helminthosporium brachytrichum Cooke & Ellis SPECIES
-=======
+# Helminthosporium brachytrichum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

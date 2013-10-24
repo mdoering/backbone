@@ -1,17 +1,16 @@
-Lecidea molleri Henriq. SPECIES
-=======
+# Tapellaria moelleri (Henriq.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Ecol. 40: 129 (1952)
 
 #### Original name
-Lecidea molleri Henriq.
+Lecidea moelleri Henriq.
 
 ### Remarks
 null

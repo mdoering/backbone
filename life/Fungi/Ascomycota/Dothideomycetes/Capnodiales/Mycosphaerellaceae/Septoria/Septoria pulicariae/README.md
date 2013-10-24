@@ -1,5 +1,4 @@
-Septoria pulicariae Sukapure & Thirum. SPECIES
-=======
+# Septoria pulicariae Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

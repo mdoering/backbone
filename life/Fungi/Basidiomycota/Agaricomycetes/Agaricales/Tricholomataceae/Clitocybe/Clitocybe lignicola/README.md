@@ -1,5 +1,4 @@
-Clitocybe lignicola Beeli SPECIES
-=======
+# Clitocybe lignicola Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius violeovelatus Lamoure SPECIES
-=======
+# Cortinarius violeovelatus Lamoure SPECIES
 
 #### Status
 ACCEPTED

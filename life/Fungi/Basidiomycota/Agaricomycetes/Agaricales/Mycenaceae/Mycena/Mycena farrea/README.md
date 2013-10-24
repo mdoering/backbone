@@ -1,5 +1,4 @@
-Mycena farrea var. farrea VARIETY
-=======
+# Mycena farrea (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Führ. Pilzk. (Zwickau) 109 (1871)
 
 #### Original name
-Mycena farrea var. farrea
+Agaricus farreus Lasch
 
 ### Remarks
 null

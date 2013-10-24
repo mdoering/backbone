@@ -1,5 +1,4 @@
-Stellinium pseudopharaone (Stockmans & Willière, 1962) Eisenack et al., 1976 SPECIES
-=======
+# Stellinium pseudopharaone (Stockmans & Willière, 1962) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

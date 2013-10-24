@@ -1,14 +1,13 @@
-Alboffia oreophila Speg., 1898 SPECIES
-=======
+# Corynelia oreophila (Speg.) Starbäck, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 2 6: 295 (1899)
+Ark. Bot. 5(7): 20 (1899)
 
 #### Original name
 Alboffia oreophila Speg., 1898

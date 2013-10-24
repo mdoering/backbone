@@ -1,5 +1,4 @@
-Ocellularia elabens Müll. Arg. SPECIES
-=======
+# Ocellularia elabens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium proteiforme Duby SPECIES
-=======
+# Hysterium proteiforme Duby SPECIES
 
 #### Status
 ACCEPTED

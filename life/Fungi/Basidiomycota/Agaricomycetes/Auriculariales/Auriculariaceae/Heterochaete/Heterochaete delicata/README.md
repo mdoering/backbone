@@ -1,5 +1,4 @@
-Heterochaete delicata (Klotzsch ex Berk.) Bres., 1913 SPECIES
-=======
+# Heterochaete delicata (Klotzsch ex Berk.) Bres., 1913 SPECIES
 
 #### Status
 ACCEPTED

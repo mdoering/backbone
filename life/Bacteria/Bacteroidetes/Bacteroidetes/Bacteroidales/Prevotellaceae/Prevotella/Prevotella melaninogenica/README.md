@@ -1,11 +1,10 @@
-Ristella melaninogenica (Oliver & Wherry, 1921) Prévot, 1938 SPECIES
-=======
+# Prevotella melaninogenica (Oliver & Wherry, 1921) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

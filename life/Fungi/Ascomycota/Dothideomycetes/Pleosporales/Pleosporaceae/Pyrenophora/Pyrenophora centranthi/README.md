@@ -1,5 +1,4 @@
-Pyrenophora centranthi Politis SPECIES
-=======
+# Pyrenophora centranthi Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxozyma nipponensis Spaaij & G. Weber, 1993 SPECIES
-=======
+# Myxozyma nipponensis Spaaij & G. Weber, 1993 SPECIES
 
 #### Status
 ACCEPTED

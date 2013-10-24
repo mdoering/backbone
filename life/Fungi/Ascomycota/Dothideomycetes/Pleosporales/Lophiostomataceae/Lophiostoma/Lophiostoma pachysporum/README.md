@@ -1,5 +1,4 @@
-Lophiostoma pachysporum Sacc. SPECIES
-=======
+# Lophiostoma pachysporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma radicis-ericae Ternetz SPECIES
-=======
+# Phoma radicis-ericae Ternetz SPECIES
 
 #### Status
 ACCEPTED

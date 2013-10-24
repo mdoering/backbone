@@ -1,5 +1,4 @@
-Dimerium andinum Syd. SPECIES
-=======
+# Dimerium andinum Syd. SPECIES
 
 #### Status
 ACCEPTED

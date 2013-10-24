@@ -1,17 +1,16 @@
-Crocicreas dryadis var. dryadis (Nannf. ex L. Holm) S.E. Carp. VARIETY
-=======
+# Grahamiella dryadis (Nannf. ex L. Holm) Spooner, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brittonia 32(2): 270 (1980)
+Trans. Br. mycol. Soc. 76(2): 281 (1981)
 
 #### Original name
-Crocicreas dryadis var. dryadis (Nannf. ex L. Holm) S.E. Carp.
+Allophylaria dryadis Nannf. ex L. Holm, 1979
 
 ### Remarks
 null

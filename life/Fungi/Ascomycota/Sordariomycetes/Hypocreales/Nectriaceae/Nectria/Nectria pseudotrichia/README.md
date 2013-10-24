@@ -1,5 +1,4 @@
-Nectria pseudotrichia (Schwein.) Berk. & M.A. Curtis, 1853 SPECIES
-=======
+# Nectria pseudotrichia (Schwein.) Berk. & M.A. Curtis, 1853 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alloiozona ampulla SPECIES
-=======
+# Alloiozona ampulla SPECIES
 
 #### Status
 ACCEPTED

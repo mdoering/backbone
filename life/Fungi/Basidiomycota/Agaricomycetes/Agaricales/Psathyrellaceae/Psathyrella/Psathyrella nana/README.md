@@ -1,5 +1,4 @@
-Psathyrella nana (Massee) Manjula SPECIES
-=======
+# Psathyrella nana (Massee) Manjula SPECIES
 
 #### Status
 ACCEPTED

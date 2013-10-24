@@ -1,5 +1,4 @@
-Durosaccum GENUS
-=======
+# Durosaccum GENUS
 
 #### Status
 ACCEPTED

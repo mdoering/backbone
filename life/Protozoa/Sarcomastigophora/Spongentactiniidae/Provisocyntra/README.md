@@ -1,5 +1,4 @@
-Provisocyntra Nazarov & Ormiston, 1987 GENUS
-=======
+# Provisocyntra Nazarov & Ormiston, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus peri Berk. & Broome SPECIES
-=======
+# Agaricus peri Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

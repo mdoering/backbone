@@ -1,5 +1,4 @@
-Agaricus trinitatensis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Agaricus trinitatensis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

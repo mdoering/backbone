@@ -1,5 +1,4 @@
-Pyrenula quadruplans Vain. SPECIES
-=======
+# Pyrenula quadruplans Vain. SPECIES
 
 #### Status
 ACCEPTED

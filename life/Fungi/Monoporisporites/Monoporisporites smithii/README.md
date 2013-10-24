@@ -1,5 +1,4 @@
-Monoporisporites smithii Elsik SPECIES
-=======
+# Monoporisporites smithii Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius americanus A.H. Sm. SPECIES
-=======
+# Cortinarius americanus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

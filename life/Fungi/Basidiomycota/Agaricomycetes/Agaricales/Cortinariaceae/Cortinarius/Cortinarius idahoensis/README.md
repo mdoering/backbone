@@ -1,5 +1,4 @@
-Cortinarius idahoensis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius idahoensis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

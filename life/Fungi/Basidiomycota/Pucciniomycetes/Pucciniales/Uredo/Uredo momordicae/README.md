@@ -1,5 +1,4 @@
-Uredo momordicae Petch SPECIES
-=======
+# Uredo momordicae Petch SPECIES
 
 #### Status
 ACCEPTED

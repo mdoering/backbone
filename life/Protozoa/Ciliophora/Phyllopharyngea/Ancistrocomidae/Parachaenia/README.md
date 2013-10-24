@@ -1,5 +1,4 @@
-Parachaenia Kofoid & Bush, 1936 GENUS
-=======
+# Parachaenia Kofoid & Bush, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus indicus var. boglariensis Hortobagy VARIETY
-=======
+# Phacus indicus Skvortzov SPECIES
 
 #### Status
 ACCEPTED

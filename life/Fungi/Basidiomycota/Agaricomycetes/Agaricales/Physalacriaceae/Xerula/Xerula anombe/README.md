@@ -1,5 +1,4 @@
-Xerula anombe (De Seynes) R.H. Petersen SPECIES
-=======
+# Xerula anombe (De Seynes) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

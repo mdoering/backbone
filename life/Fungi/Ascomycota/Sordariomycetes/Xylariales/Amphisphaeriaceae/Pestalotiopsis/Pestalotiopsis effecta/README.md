@@ -1,5 +1,4 @@
-Pestalotiopsis effecta G. Srivast., S.M. Kumar & M.P. Tandon SPECIES
-=======
+# Pestalotiopsis effecta G. Srivast., S.M. Kumar & M.P. Tandon SPECIES
 
 #### Status
 ACCEPTED

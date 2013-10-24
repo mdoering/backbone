@@ -1,5 +1,4 @@
-Protomyxomyces Cunningham, 1881 GENUS
-=======
+# Protomyxomyces Cunningham, 1881 GENUS
 
 #### Status
 ACCEPTED

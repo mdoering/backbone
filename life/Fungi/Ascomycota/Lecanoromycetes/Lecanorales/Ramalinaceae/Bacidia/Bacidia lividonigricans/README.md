@@ -1,5 +1,4 @@
-Bacidia lividonigricans (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia lividonigricans (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

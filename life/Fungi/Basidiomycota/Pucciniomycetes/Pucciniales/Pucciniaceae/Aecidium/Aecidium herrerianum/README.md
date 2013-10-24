@@ -1,5 +1,4 @@
-Aecidium herrerianum Arthur SPECIES
-=======
+# Aecidium herrerianum Arthur SPECIES
 
 #### Status
 ACCEPTED

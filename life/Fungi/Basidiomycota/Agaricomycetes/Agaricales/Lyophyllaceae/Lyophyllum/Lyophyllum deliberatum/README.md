@@ -1,5 +1,4 @@
-Lyophyllum deliberatum (Britzelm.) Kreisel SPECIES
-=======
+# Lyophyllum deliberatum (Britzelm.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

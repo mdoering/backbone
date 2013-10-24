@@ -1,5 +1,4 @@
-Verrucaria muricola Servít SPECIES
-=======
+# Verrucaria muricola Servít SPECIES
 
 #### Status
 ACCEPTED

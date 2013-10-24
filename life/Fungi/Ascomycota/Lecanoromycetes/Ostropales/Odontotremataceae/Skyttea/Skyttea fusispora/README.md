@@ -1,5 +1,4 @@
-Skyttea fusispora Sherwood, D. Hawksw. & Coppins SPECIES
-=======
+# Skyttea fusispora Sherwood, D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

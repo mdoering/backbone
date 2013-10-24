@@ -1,5 +1,4 @@
-Aspicilia proluta Hue SPECIES
-=======
+# Aspicilia proluta Hue SPECIES
 
 #### Status
 ACCEPTED

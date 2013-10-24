@@ -1,5 +1,4 @@
-Erysiphe comata (Wallr.) Link SPECIES
-=======
+# Erysiphe comata (Wallr.) Link SPECIES
 
 #### Status
 ACCEPTED

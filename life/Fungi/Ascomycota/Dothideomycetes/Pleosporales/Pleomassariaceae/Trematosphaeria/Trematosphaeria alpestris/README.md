@@ -1,14 +1,13 @@
-Byssothecium alpestris (Tóth) Boise SPECIES
-=======
+# Trematosphaeria alpestris Tóth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. 53: 182 (1961)
 
 #### Original name
 Trematosphaeria alpestris Tóth

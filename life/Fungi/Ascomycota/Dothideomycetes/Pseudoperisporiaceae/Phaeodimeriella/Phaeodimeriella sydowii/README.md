@@ -1,5 +1,4 @@
-Phaeodimeriella sydowii Petr. SPECIES
-=======
+# Phaeodimeriella sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

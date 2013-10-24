@@ -1,5 +1,4 @@
-Streblus convexus Collins, 1958 SPECIES
-=======
+# Streblus convexus Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

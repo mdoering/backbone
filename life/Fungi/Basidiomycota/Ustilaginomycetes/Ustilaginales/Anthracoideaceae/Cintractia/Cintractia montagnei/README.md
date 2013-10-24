@@ -1,5 +1,4 @@
-Cintractia montagnei var. montagnei VARIETY
-=======
+# Cintractia montagnei (Tul.) Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Abhandl. Botan. Ver. Prov. Brandenburg 37: 79 (1896)
 
 #### Original name
-Cintractia montagnei var. montagnei
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cantharellus longisporus Heinem., 1958 SPECIES
-=======
+# Cantharellus longisporus Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

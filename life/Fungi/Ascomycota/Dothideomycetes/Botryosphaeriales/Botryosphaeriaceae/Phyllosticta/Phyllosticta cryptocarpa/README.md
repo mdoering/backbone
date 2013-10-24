@@ -1,5 +1,4 @@
-Phyllosticta cryptocarpa Kabát & Bubák SPECIES
-=======
+# Phyllosticta cryptocarpa Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

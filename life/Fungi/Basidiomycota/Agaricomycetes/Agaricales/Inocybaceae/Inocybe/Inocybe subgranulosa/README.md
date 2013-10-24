@@ -1,5 +1,4 @@
-Inocybe subgranulosa P. Karst. SPECIES
-=======
+# Inocybe subgranulosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

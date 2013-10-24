@@ -1,5 +1,4 @@
-Sporisorium pseudosorghi Vánky, R.G. Shivas & Athip., 2006 SPECIES
-=======
+# Sporisorium pseudosorghi Vánky, R.G. Shivas & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

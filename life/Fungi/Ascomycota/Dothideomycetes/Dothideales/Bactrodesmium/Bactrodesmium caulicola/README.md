@@ -1,5 +1,4 @@
-Bactrodesmium caulicola var. caulicola Grove VARIETY
-=======
+# Bactrodesmium caulicola Grove SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bactrodesmium caulicola var. caulicola Grove
+Bactrodesmium caulicola Grove
 
 ### Remarks
 null

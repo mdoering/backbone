@@ -1,5 +1,4 @@
-Entoloma calliviolaceum Manim. & Noordel. SPECIES
-=======
+# Entoloma calliviolaceum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

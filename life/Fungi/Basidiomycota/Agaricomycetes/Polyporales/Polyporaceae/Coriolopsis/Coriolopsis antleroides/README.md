@@ -1,5 +1,4 @@
-Coriolopsis antleroides Douanla-Meli & Ryvarden SPECIES
-=======
+# Coriolopsis antleroides Douanla-Meli & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

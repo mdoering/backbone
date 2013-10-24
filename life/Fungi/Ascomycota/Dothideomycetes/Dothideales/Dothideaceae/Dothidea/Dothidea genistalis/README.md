@@ -1,5 +1,4 @@
-Dothidea genistalis Fr. SPECIES
-=======
+# Dothidea genistalis Fr. SPECIES
 
 #### Status
 ACCEPTED

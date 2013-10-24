@@ -1,5 +1,4 @@
-Tulostoma readeri Lloyd SPECIES
-=======
+# Tulostoma readeri Lloyd SPECIES
 
 #### Status
 ACCEPTED

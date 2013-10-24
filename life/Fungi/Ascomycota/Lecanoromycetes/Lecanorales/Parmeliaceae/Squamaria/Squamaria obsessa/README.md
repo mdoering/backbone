@@ -1,5 +1,4 @@
-Squamaria obsessa SPECIES
-=======
+# Squamaria obsessa SPECIES
 
 #### Status
 ACCEPTED

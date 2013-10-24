@@ -1,5 +1,4 @@
-Lateriramulosa uni-inflata Matsush., 1971 SPECIES
-=======
+# Lateriramulosa uni-inflata Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

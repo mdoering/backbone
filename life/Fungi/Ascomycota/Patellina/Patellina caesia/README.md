@@ -1,5 +1,4 @@
-Patellina caesia Bayl. Ell. & O.P. Stansf., 1923 SPECIES
-=======
+# Patellina caesia Bayl. Ell. & O.P. Stansf., 1923 SPECIES
 
 #### Status
 ACCEPTED

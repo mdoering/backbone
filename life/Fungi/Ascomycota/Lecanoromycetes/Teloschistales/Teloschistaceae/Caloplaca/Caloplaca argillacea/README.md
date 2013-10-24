@@ -1,5 +1,4 @@
-Caloplaca argillacea (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca argillacea (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

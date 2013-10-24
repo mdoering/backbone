@@ -1,5 +1,4 @@
-Ozonium arenarium Ficinus SPECIES
-=======
+# Ozonium arenarium Ficinus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora filipendulae-ulmariae U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Pseudocercospora filipendulae-ulmariae U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

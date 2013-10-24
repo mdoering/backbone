@@ -1,5 +1,4 @@
-Entoloma percrinitum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma percrinitum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

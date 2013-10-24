@@ -1,5 +1,4 @@
-Kalamopsis de Folin, 1883 GENUS
-=======
+# Kalamopsis de Folin, 1883 GENUS
 
 #### Status
 ACCEPTED

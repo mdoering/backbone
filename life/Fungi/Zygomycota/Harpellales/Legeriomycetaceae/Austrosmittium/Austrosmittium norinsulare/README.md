@@ -1,5 +1,4 @@
-Austrosmittium norinsulare Lichtw., 1990 SPECIES
-=======
+# Austrosmittium norinsulare Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

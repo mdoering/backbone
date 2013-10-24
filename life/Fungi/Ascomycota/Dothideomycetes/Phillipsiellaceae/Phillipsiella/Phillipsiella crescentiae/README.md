@@ -1,5 +1,4 @@
-Phillipsiella crescentiae (Gonz. Frag. & Cif.) Rossman & Mouch. SPECIES
-=======
+# Phillipsiella crescentiae (Gonz. Frag. & Cif.) Rossman & Mouch. SPECIES
 
 #### Status
 ACCEPTED

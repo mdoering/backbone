@@ -1,5 +1,4 @@
-Achlya dictyoidea Prasher SPECIES
-=======
+# Achlya dictyoidea Prasher SPECIES
 
 #### Status
 ACCEPTED

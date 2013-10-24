@@ -1,5 +1,4 @@
-Calvatia lachnoderma Pat. SPECIES
-=======
+# Calvatia lachnoderma Pat. SPECIES
 
 #### Status
 ACCEPTED

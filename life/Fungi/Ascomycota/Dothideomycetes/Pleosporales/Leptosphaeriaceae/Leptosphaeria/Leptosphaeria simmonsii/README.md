@@ -1,5 +1,4 @@
-Leptosphaeria simmonsii Sacc. SPECIES
-=======
+# Leptosphaeria simmonsii Sacc. SPECIES
 
 #### Status
 ACCEPTED

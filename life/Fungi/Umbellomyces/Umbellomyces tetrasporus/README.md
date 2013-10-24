@@ -1,5 +1,4 @@
-Umbellomyces tetrasporus Saito SPECIES
-=======
+# Umbellomyces tetrasporus Saito SPECIES
 
 #### Status
 ACCEPTED

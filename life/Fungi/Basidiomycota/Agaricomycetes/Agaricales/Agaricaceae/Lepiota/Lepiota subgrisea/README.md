@@ -1,5 +1,4 @@
-Lepiota subgrisea Murrill SPECIES
-=======
+# Lepiota subgrisea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cylindrosporium arcticum (Petr.) Arx, 1981 SPECIES
-=======
+# Cylindrogloeum arcticum Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 229 (1981)
+Annls mycol. 39: 276 (1941)
 
 #### Original name
 Cylindrogloeum arcticum Petr., 1941

@@ -1,5 +1,4 @@
-Planktolyngbya brevicellularis G. Cronberg & J. Komárek SPECIES
-=======
+# Planktolyngbya brevicellularis G. Cronberg & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

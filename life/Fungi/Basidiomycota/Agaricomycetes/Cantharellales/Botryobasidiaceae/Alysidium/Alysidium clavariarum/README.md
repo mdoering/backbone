@@ -1,5 +1,4 @@
-Alysidium clavariarum (P. Karst.) Kuntze SPECIES
-=======
+# Alysidium clavariarum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

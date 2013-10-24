@@ -1,5 +1,4 @@
-Placolecanora radiosa var. radiosa VARIETY
-=======
+# Placolecanora radiosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placolecanora radiosa var. radiosa
+null
 
 ### Remarks
 null

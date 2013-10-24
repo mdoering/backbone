@@ -1,5 +1,4 @@
-Botrytis elegantula Cooke SPECIES
-=======
+# Botrytis elegantula Cooke SPECIES
 
 #### Status
 ACCEPTED

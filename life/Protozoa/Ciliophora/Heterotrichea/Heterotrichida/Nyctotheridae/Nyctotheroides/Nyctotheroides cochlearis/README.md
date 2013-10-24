@@ -1,5 +1,4 @@
-Nyctotheroides cochlearis (Uttangi, 1948) ? SPECIES
-=======
+# Nyctotheroides cochlearis (Uttangi, 1948) ? SPECIES
 
 #### Status
 ACCEPTED

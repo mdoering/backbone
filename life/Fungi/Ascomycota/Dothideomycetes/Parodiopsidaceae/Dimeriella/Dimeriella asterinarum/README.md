@@ -1,5 +1,4 @@
-Dimeriella asterinarum (Speg.) Speg. SPECIES
-=======
+# Dimeriella asterinarum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

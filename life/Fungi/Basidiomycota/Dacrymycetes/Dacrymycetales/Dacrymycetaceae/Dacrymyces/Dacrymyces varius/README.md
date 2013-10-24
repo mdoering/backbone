@@ -1,5 +1,4 @@
-Dacrymyces varius SPECIES
-=======
+# Dacrymyces varius SPECIES
 
 #### Status
 ACCEPTED

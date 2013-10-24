@@ -1,5 +1,4 @@
-Fragilaria schulzi Brockmann SPECIES
-=======
+# Fragilaria schulzi Brockmann SPECIES
 
 #### Status
 ACCEPTED

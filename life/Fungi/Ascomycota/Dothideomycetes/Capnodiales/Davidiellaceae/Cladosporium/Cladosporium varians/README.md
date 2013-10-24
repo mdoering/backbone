@@ -1,5 +1,4 @@
-Cladosporium varians U. Braun, Melnik & K. Schub. SPECIES
-=======
+# Cladosporium varians U. Braun, Melnik & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moelleriella turbinata (Petch) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella turbinata (Petch) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

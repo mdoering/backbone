@@ -1,5 +1,4 @@
-Cortinarius nigrosquamosus Hongo SPECIES
-=======
+# Cortinarius nigrosquamosus Hongo SPECIES
 
 #### Status
 ACCEPTED

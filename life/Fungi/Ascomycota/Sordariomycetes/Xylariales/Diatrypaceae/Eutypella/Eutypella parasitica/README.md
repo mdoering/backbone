@@ -1,5 +1,4 @@
-Eutypella parasitica R.W. Davidson & R.C. Lorenz, 1938 SPECIES
-=======
+# Eutypella parasitica R.W. Davidson & R.C. Lorenz, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herdmania litoralis Dodge SPECIES
-=======
+# Herdmania litoralis Dodge SPECIES
 
 #### Status
 ACCEPTED

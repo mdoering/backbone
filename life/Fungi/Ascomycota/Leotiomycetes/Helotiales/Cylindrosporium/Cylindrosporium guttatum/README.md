@@ -1,5 +1,4 @@
-Cylindrosporium guttatum G. Winter SPECIES
-=======
+# Cylindrosporium guttatum G. Winter SPECIES
 
 #### Status
 ACCEPTED

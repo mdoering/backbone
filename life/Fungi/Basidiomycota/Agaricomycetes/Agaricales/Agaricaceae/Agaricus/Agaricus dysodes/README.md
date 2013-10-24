@@ -1,5 +1,4 @@
-Agaricus dysodes Secr. SPECIES
-=======
+# Agaricus dysodes Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora cineracea Bourdot & Galzin SPECIES
-=======
+# Peniophora cineracea Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

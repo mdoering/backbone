@@ -1,5 +1,4 @@
-Eutypella staphylina Rehm SPECIES
-=======
+# Eutypella staphylina Rehm SPECIES
 
 #### Status
 ACCEPTED

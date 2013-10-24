@@ -1,5 +1,4 @@
-Verrucaria cretacea Zschacke SPECIES
-=======
+# Verrucaria cretacea Zschacke SPECIES
 
 #### Status
 ACCEPTED

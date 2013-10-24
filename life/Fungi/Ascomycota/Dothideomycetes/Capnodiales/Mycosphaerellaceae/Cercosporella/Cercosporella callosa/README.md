@@ -1,5 +1,4 @@
-Cercosporella callosa Allesch. SPECIES
-=======
+# Cercosporella callosa Allesch. SPECIES
 
 #### Status
 ACCEPTED

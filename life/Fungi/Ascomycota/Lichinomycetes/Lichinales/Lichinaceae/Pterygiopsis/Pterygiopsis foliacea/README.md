@@ -1,5 +1,4 @@
-Pterygiopsis foliacea Henssen SPECIES
-=======
+# Pterygiopsis foliacea Henssen SPECIES
 
 #### Status
 ACCEPTED

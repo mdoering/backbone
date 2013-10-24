@@ -1,5 +1,4 @@
-Schizochlamydella Korshikov, 1953 GENUS
-=======
+# Schizochlamydella Korshikov, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria betulae Schumach. SPECIES
-=======
+# Sphaeria betulae Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emericellopsis robusta Emden & W. Gams, 1971 SPECIES
-=======
+# Emericellopsis robusta Emden & W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

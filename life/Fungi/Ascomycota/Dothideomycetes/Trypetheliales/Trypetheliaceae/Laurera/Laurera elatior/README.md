@@ -1,14 +1,13 @@
-Leptotrema elatius (Stirt.) Müll. Arg., 1894 SPECIES
-=======
+# Laurera elatior (Stirt.) D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 21(2): 193 (1983)
 
 #### Original name
 null

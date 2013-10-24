@@ -1,5 +1,4 @@
-Lecidea fuscata (Lam.) Ach. SPECIES
-=======
+# Lecidea fuscata (Lam.) Ach. SPECIES
 
 #### Status
 ACCEPTED

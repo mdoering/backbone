@@ -1,5 +1,4 @@
-Lyophyllum maas-geesterani Clémençon & Winterh. SPECIES
-=======
+# Lyophyllum maas-geesterani Clémençon & Winterh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria gallicola Trotter SPECIES
-=======
+# Aposphaeria gallicola Trotter SPECIES
 
 #### Status
 ACCEPTED

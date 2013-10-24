@@ -1,5 +1,4 @@
-Cenangium coryli Corda, 1842 SPECIES
-=======
+# Cenangium coryli Corda, 1842 SPECIES
 
 #### Status
 ACCEPTED

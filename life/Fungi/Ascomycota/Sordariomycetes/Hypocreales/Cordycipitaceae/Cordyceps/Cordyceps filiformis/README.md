@@ -1,5 +1,4 @@
-Cordyceps filiformis Moureau SPECIES
-=======
+# Cordyceps filiformis Moureau SPECIES
 
 #### Status
 ACCEPTED

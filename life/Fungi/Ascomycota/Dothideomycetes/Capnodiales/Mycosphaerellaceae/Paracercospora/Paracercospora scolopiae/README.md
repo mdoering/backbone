@@ -1,5 +1,4 @@
-Paracercospora scolopiae Crous & U. Braun SPECIES
-=======
+# Paracercospora scolopiae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

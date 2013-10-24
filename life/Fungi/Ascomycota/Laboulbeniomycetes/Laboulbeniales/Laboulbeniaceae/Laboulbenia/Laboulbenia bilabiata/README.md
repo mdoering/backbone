@@ -1,5 +1,4 @@
-Laboulbenia bilabiata Thaxt. SPECIES
-=======
+# Laboulbenia bilabiata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

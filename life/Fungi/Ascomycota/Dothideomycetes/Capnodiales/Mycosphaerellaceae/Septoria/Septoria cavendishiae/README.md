@@ -1,5 +1,4 @@
-Septoria cavendishiae F. Stevens SPECIES
-=======
+# Septoria cavendishiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

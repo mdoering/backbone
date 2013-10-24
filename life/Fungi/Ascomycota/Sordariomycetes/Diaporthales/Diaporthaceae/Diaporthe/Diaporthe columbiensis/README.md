@@ -1,5 +1,4 @@
-Diaporthe columbiensis Ellis & Everh. SPECIES
-=======
+# Diaporthe columbiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta sancheziae Tassi SPECIES
-=======
+# Pyrenochaeta sancheziae Tassi SPECIES
 
 #### Status
 ACCEPTED

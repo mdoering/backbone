@@ -1,5 +1,4 @@
-Pseudocercospora gymnematis Kamal & R.P. Singh SPECIES
-=======
+# Pseudocercospora gymnematis Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

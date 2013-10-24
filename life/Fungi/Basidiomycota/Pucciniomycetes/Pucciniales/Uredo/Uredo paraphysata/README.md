@@ -1,5 +1,4 @@
-Uredo paraphysata P. Karst. SPECIES
-=======
+# Uredo paraphysata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

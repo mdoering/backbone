@@ -1,5 +1,4 @@
-Sclerotium antarcticum E. Bommer & M. Rousseau SPECIES
-=======
+# Sclerotium antarcticum E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

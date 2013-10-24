@@ -1,5 +1,4 @@
-Gnomonia rehmii (Sacc.) Höhn. SPECIES
-=======
+# Gnomonia rehmii (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

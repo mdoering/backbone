@@ -1,5 +1,4 @@
-Inocybe montana Kobayasi SPECIES
-=======
+# Inocybe montana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

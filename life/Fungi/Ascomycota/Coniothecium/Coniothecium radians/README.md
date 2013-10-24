@@ -1,5 +1,4 @@
-Coniothecium radians Sacc. SPECIES
-=======
+# Coniothecium radians Sacc. SPECIES
 
 #### Status
 ACCEPTED

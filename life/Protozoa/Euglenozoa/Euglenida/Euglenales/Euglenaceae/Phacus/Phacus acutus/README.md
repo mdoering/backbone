@@ -1,5 +1,4 @@
-Phacus acutus Pochmann SPECIES
-=======
+# Phacus acutus Pochmann SPECIES
 
 #### Status
 ACCEPTED

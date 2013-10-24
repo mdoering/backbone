@@ -1,5 +1,4 @@
-Ceriosporopsis capillacea Kohlm., 1981 SPECIES
-=======
+# Ceriosporopsis capillacea Kohlm., 1981 SPECIES
 
 #### Status
 ACCEPTED

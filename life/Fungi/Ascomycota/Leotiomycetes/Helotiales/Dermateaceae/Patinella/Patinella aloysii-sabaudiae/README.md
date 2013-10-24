@@ -1,5 +1,4 @@
-Patinella aloysii-sabaudiae Sacc. SPECIES
-=======
+# Patinella aloysii-sabaudiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynelia pteridicola F. Stevens SPECIES
-=======
+# Corynelia pteridicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bezzenbergia GENUS
-=======
+# Bezzenbergeria Earl, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Publnes Biol. Inst. Invest. cient. 1: 29.
 
 #### Original name
 null

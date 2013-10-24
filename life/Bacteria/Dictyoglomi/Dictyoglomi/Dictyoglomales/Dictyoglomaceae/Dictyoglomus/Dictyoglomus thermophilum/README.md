@@ -1,5 +1,4 @@
-Dictyoglomus thermophilum Saiki et al., 1985 SPECIES
-=======
+# Dictyoglomus thermophilum Saiki et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

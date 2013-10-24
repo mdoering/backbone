@@ -1,17 +1,16 @@
-Mycelium radicis-nigrostrigosum Melin SPECIES
-=======
+# Cercospora zonata G. Winter, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 1: 49 (1883)
 
 #### Original name
-null
+Cercospora zonata G. Winter, 1883
 
 ### Remarks
 null

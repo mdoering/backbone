@@ -1,5 +1,4 @@
-Graphina reniformis var. reniformis VARIETY
-=======
+# Graphina reniformis (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. et Hist. Nat. 29(8): 43 (1887)
 
 #### Original name
-Graphina reniformis var. reniformis
+Graphis reniformis Fée
 
 ### Remarks
 null

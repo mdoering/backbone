@@ -1,5 +1,4 @@
-Endocarpon halophilum Tomin ex E.I. Andrejeva SPECIES
-=======
+# Endocarpon halophilum Tomin ex E.I. Andrejeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon beckii SPECIES
-=======
+# Rhizocarpon beckii SPECIES
 
 #### Status
 ACCEPTED

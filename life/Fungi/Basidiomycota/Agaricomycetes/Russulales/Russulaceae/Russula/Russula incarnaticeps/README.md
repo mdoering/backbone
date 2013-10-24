@@ -1,5 +1,4 @@
-Russula incarnaticeps Murrill SPECIES
-=======
+# Russula incarnaticeps Murrill SPECIES
 
 #### Status
 ACCEPTED

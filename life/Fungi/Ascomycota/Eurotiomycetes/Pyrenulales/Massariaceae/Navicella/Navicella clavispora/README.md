@@ -1,5 +1,4 @@
-Navicella clavispora (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella clavispora (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

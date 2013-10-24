@@ -1,5 +1,4 @@
-Tremella phaeographinae Diederich & Aptroot SPECIES
-=======
+# Tremella phaeographinae Diederich & Aptroot SPECIES
 
 #### Status
 ACCEPTED

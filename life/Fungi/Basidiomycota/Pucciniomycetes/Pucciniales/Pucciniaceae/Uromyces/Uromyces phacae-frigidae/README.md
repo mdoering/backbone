@@ -1,5 +1,4 @@
-Uromyces phacae-frigidae (Wahlenb.) Har. SPECIES
-=======
+# Uromyces phacae-frigidae (Wahlenb.) Har. SPECIES
 
 #### Status
 ACCEPTED

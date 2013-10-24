@@ -1,5 +1,4 @@
-Mycosphaerella resedae (Pass.) Woron. SPECIES
-=======
+# Mycosphaerella resedae (Pass.) Woron. SPECIES
 
 #### Status
 ACCEPTED

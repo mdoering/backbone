@@ -1,5 +1,4 @@
-Physcidia callopis (Meyen & Flot.) Müll. Arg. SPECIES
-=======
+# Physcidia callopis (Meyen & Flot.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

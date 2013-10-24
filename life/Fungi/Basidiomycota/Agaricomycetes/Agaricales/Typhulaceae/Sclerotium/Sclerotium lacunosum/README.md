@@ -1,5 +1,4 @@
-Sclerotium lacunosum Pers. SPECIES
-=======
+# Sclerotium lacunosum Pers. SPECIES
 
 #### Status
 ACCEPTED

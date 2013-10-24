@@ -1,5 +1,4 @@
-Crinipellis zonata var. zonata VARIETY
-=======
+# Crinipellis zonata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crinipellis zonata var. zonata
+Collybia zonata Peck
 
 ### Remarks
 null

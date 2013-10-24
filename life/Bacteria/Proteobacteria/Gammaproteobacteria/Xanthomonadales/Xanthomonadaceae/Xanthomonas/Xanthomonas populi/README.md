@@ -1,5 +1,4 @@
-Xanthomonas populi (ex Ridé, 1958) Ridé & Ridé, 1992 SPECIES
-=======
+# Xanthomonas populi (ex Ridé, 1958) Ridé & Ridé, 1992 SPECIES
 
 #### Status
 ACCEPTED

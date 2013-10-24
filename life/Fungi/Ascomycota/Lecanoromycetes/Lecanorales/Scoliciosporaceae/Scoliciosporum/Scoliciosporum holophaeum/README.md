@@ -1,5 +1,4 @@
-Scoliciosporum holophaeum (Anzi) Arnold SPECIES
-=======
+# Scoliciosporum holophaeum (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

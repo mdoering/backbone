@@ -1,5 +1,4 @@
-Agaricus contrarius Peck SPECIES
-=======
+# Agaricus contrarius Peck SPECIES
 
 #### Status
 ACCEPTED

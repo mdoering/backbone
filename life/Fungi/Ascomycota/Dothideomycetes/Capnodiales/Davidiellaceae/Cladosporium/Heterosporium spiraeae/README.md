@@ -1,5 +1,4 @@
-Heterosporium spiraeae Syd. {?} SPECIES
-=======
+# Heterosporium spiraeae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

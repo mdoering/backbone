@@ -1,5 +1,4 @@
-Entoloma turbidatum (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma turbidatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

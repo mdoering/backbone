@@ -1,5 +1,4 @@
-Hygrophorus subovinus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus subovinus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

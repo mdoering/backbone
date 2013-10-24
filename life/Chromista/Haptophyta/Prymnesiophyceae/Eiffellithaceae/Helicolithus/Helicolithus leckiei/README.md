@@ -1,5 +1,4 @@
-Helicolithus leckiei SPECIES
-=======
+# Helicolithus leckiei SPECIES
 
 #### Status
 ACCEPTED

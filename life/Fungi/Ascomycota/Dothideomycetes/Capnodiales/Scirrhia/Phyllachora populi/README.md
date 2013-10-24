@@ -1,5 +1,4 @@
-Phyllachora populi Richon, 1889 SPECIES
-=======
+# Phyllachora populi Richon, 1889 SPECIES
 
 #### Status
 DOUBTFUL

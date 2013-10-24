@@ -1,5 +1,4 @@
-Tilletia sporoboli Vánky, 2000 SPECIES
-=======
+# Tilletia sporoboli Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

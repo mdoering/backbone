@@ -1,5 +1,4 @@
-Hyalopeziza pulchella Sacc. SPECIES
-=======
+# Hyalopeziza pulchella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis tremellispora var. tremellispora Möller VARIETY
-=======
+# Exidiopsis tremellispora Möller SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Mitt. Trop. 8: 168 (1895)
 
 #### Original name
-Exidiopsis tremellispora var. tremellispora Möller
+Exidiopsis tremellispora Möller
 
 ### Remarks
 null

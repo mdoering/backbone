@@ -1,5 +1,4 @@
-Lloydella brunnea Bres. SPECIES
-=======
+# Lloydella brunnea Bres. SPECIES
 
 #### Status
 ACCEPTED

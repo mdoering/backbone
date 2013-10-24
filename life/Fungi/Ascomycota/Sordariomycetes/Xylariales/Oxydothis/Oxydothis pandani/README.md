@@ -1,5 +1,4 @@
-Oxydothis pandani B. Huguenin SPECIES
-=======
+# Oxydothis pandani B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

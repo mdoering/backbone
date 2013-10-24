@@ -1,17 +1,16 @@
-Penicillium ramusculum Bat. & H. Maia, 1955 SPECIES
-=======
+# Penicillium sublateritium Biourge, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais Soc. Biol. Pernambuco 13(2): 24 (1955)
+La Cellule 33(1): 315 (1923)
 
 #### Original name
-Penicillium ramusculum Bat. & H. Maia, 1955
+Penicillium sublateritium Biourge, 1923
 
 ### Remarks
 null

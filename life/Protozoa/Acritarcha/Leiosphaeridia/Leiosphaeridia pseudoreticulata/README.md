@@ -1,5 +1,4 @@
-Leiosphaeridia pseudoreticulata Song Zhichen et al., 1985 SPECIES
-=======
+# Leiosphaeridia pseudoreticulata Song Zhichen et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncesia psaroleuca (Nyl.) Tehler SPECIES
-=======
+# Syncesia psaroleuca (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

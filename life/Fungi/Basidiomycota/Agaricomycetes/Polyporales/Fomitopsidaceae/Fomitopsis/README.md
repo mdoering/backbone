@@ -1,17 +1,16 @@
-Agarico-pulpa Paulet GENUS
-=======
+# Fomitopsis P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Traité Champ. 2: index, 101 (1793)
+null
 
 #### Original name
-Agarico-pulpa Paulet
+null
 
 ### Remarks
 null

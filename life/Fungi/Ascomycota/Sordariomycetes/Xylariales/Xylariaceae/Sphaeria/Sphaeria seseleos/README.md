@@ -1,5 +1,4 @@
-Sphaeria seseleos Opiz SPECIES
-=======
+# Sphaeria seseleos Opiz SPECIES
 
 #### Status
 ACCEPTED

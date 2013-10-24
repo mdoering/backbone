@@ -1,5 +1,4 @@
-Holophrya africana (Dragesco, 1965) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Holophrya africana (Dragesco, 1965) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

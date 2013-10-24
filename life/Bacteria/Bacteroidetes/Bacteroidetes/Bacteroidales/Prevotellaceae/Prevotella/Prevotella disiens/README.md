@@ -1,8 +1,7 @@
-Bacteroides disiens Holdeman and Johnson, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Prevotella disiens (Holdeman & Johnson, 1977) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

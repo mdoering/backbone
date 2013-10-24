@@ -1,5 +1,4 @@
-Pholiota luteobadia A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota luteobadia A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

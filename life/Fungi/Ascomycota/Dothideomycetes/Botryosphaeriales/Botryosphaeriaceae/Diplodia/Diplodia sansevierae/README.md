@@ -1,5 +1,4 @@
-Diplodia sansevierae Syd. SPECIES
-=======
+# Diplodia sansevierae Syd. SPECIES
 
 #### Status
 ACCEPTED

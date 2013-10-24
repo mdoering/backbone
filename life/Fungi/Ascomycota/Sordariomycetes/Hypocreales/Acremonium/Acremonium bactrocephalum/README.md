@@ -1,5 +1,4 @@
-Acremonium bactrocephalum W. Gams, 1971 SPECIES
-=======
+# Acremonium bactrocephalum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

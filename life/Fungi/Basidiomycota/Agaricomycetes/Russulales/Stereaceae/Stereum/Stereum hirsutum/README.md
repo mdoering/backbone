@@ -1,17 +1,16 @@
-Auricularia reflexa var. reflexa VARIETY
-=======
+# Stereum hirsutum (Willd.) Pers., 1800 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Lipsiae) 2: 90 (1800)
 
 #### Original name
-null
+Thelephora hirsuta Willd., 1787
 
 ### Remarks
 null

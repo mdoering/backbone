@@ -1,5 +1,4 @@
-Crepidotus tuxliae Singer SPECIES
-=======
+# Crepidotus tuxliae Singer SPECIES
 
 #### Status
 ACCEPTED

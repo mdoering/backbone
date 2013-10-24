@@ -1,5 +1,4 @@
-Boletus submoricolor Frost SPECIES
-=======
+# Boletus submoricolor Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanoromycetes O.E. Erikss. & Winka CLASS
-=======
+# Lecanoromycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

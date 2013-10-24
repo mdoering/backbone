@@ -1,5 +1,4 @@
-Tetralithus pseudotrifidus Jafar, 1983 SPECIES
-=======
+# Tetralithus pseudotrifidus Jafar, 1983 SPECIES
 
 #### Status
 ACCEPTED

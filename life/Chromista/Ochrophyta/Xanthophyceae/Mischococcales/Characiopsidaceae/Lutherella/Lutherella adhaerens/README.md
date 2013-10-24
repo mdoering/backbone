@@ -1,5 +1,4 @@
-Lutherella adhaerens Pascher SPECIES
-=======
+# Lutherella adhaerens Pascher SPECIES
 
 #### Status
 ACCEPTED

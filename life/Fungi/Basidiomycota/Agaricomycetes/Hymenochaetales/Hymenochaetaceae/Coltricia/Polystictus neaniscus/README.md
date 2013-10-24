@@ -1,5 +1,4 @@
-Polystictus neaniscus Berk. ex Cooke SPECIES
-=======
+# Polystictus neaniscus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon sphaerosporum Lynge SPECIES
-=======
+# Dermatocarpon sphaerosporum Lynge SPECIES
 
 #### Status
 ACCEPTED

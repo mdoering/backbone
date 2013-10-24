@@ -1,5 +1,4 @@
-Anellaria conica Velen. SPECIES
-=======
+# Anellaria conica Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephelota mammillata Dons, 1918 SPECIES
-=======
+# Ephelota mammillata Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo balaensis Syd. & P. Syd. SPECIES
-=======
+# Uredo balaensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

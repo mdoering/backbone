@@ -1,5 +1,4 @@
-Monilia digitata Schumach. SPECIES
-=======
+# Monilia digitata Schumach. SPECIES
 
 #### Status
 ACCEPTED

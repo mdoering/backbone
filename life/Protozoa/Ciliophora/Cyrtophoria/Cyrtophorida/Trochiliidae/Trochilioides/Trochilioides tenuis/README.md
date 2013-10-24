@@ -1,5 +1,4 @@
-Trochilioides tenuis Deroux, 1976 SPECIES
-=======
+# Trochilioides tenuis Deroux, 1976 SPECIES
 
 #### Status
 ACCEPTED

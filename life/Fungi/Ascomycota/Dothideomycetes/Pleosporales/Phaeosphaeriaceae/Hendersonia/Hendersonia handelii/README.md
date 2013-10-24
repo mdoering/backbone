@@ -1,5 +1,4 @@
-Hendersonia handelii Keissl. SPECIES
-=======
+# Hendersonia handelii Keissl. SPECIES
 
 #### Status
 ACCEPTED

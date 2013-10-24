@@ -1,5 +1,4 @@
-Arthrobotryum dieffenbachiae F. Stevens SPECIES
-=======
+# Arthrobotryum dieffenbachiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

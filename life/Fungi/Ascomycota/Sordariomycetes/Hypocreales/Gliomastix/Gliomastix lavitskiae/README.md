@@ -1,5 +1,4 @@
-Gliomastix lavitskiae Zhdanova SPECIES
-=======
+# Gliomastix lavitskiae Zhdanova SPECIES
 
 #### Status
 ACCEPTED

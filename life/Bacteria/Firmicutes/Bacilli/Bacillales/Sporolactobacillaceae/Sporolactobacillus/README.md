@@ -1,5 +1,4 @@
-Sporolactobacillus Kitahara & Suzuki, 1963 GENUS
-=======
+# Sporolactobacillus Kitahara & Suzuki, 1963 GENUS
 
 #### Status
 ACCEPTED

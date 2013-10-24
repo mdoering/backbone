@@ -1,5 +1,4 @@
-Gummiglobus joyceae Trappe, Castellano & Amar., 1996 SPECIES
-=======
+# Gummiglobus joyceae Trappe, Castellano & Amar., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeora coarctata SPECIES
-=======
+# Zeora coarctata SPECIES
 
 #### Status
 ACCEPTED

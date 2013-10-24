@@ -1,5 +1,4 @@
-Xyloma illicincola Schwein. SPECIES
-=======
+# Xyloma illicincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

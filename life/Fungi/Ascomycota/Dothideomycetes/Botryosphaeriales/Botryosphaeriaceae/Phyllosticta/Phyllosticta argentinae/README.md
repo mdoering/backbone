@@ -1,5 +1,4 @@
-Phyllosticta argentinae Desm. SPECIES
-=======
+# Phyllosticta argentinae Desm. SPECIES
 
 #### Status
 ACCEPTED

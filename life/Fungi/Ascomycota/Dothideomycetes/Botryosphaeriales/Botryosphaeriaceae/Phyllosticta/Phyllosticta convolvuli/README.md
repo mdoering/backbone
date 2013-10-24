@@ -1,5 +1,4 @@
-Phyllosticta convolvuli Cejp SPECIES
-=======
+# Phyllosticta convolvuli Cejp SPECIES
 
 #### Status
 ACCEPTED

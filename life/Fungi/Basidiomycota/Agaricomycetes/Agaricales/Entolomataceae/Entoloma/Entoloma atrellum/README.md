@@ -1,5 +1,4 @@
-Entoloma atrellum E. Horak, 1973 SPECIES
-=======
+# Entoloma atrellum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

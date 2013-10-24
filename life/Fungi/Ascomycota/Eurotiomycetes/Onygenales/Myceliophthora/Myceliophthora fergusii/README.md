@@ -1,14 +1,13 @@
-Chrysosporium fergusii Klopotek, 1974 SPECIES
-=======
+# Myceliophthora fergusii (Klopotek) Oorschot, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 98(4): 366 (1974)
+Persoonia 9(3): 406 (1977)
 
 #### Original name
 Chrysosporium fergusii Klopotek, 1974

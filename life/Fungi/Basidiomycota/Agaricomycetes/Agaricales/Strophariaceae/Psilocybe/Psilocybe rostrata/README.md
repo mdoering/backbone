@@ -1,5 +1,4 @@
-Psilocybe rostrata (Petch) Pegler SPECIES
-=======
+# Psilocybe rostrata (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

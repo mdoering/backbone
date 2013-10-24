@@ -1,5 +1,4 @@
-Gallacea eburnea Castellano & Beever, 1994 SPECIES
-=======
+# Gallacea eburnea Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

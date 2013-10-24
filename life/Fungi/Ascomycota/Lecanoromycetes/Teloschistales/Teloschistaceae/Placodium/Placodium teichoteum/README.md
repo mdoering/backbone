@@ -1,5 +1,4 @@
-Placodium teichoteum (Nyl.) Boistel SPECIES
-=======
+# Placodium teichoteum (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

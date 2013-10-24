@@ -1,5 +1,4 @@
-Lecidea sticticarpa Zahlbr. SPECIES
-=======
+# Lecidea sticticarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

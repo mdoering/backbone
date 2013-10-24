@@ -1,5 +1,4 @@
-Megasporoporia subcavernulosa Y.C. Dai & Sheng H. Wu, 2004 SPECIES
-=======
+# Megasporoporia subcavernulosa Y.C. Dai & Sheng H. Wu, 2004 SPECIES
 
 #### Status
 ACCEPTED

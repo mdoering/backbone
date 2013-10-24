@@ -1,17 +1,16 @@
-Ramaria rubricarnata var. rubricarnata VARIETY
-=======
+# Ramaria rubricarnata Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 38: 113 (1974)
 
 #### Original name
-Ramaria rubricarnata var. rubricarnata
+Ramaria rubricarnata Marr & D.E. Stuntz, 1974
 
 ### Remarks
 null

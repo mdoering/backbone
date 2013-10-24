@@ -1,14 +1,13 @@
-Conida stictaria (Nyl.) Vouaux SPECIES
-=======
+# Arthonia stictaria Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 30(2): 164 (1914)
+Flora, Jena 50: 440 (1867)
 
 #### Original name
 Arthonia stictaria Nyl.

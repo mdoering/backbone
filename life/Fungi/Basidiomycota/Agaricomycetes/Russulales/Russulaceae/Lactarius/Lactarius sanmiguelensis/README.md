@@ -1,5 +1,4 @@
-Lactarius sanmiguelensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius sanmiguelensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

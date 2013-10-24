@@ -1,5 +1,4 @@
-Dryorhizopsis Henbest, 1963 GENUS
-=======
+# Dryorhizopsis Henbest, 1963 GENUS
 
 #### Status
 ACCEPTED

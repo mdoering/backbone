@@ -1,5 +1,4 @@
-Cryptodiscus stereicola (Berk. & M.A. Curtis) Sherwood SPECIES
-=======
+# Cryptodiscus stereicola (Berk. & M.A. Curtis) Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lautospora K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Lautospora K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

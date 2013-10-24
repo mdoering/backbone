@@ -1,5 +1,4 @@
-Phyllosticta verbesinae Heald & F.A. Wolf SPECIES
-=======
+# Phyllosticta verbesinae Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

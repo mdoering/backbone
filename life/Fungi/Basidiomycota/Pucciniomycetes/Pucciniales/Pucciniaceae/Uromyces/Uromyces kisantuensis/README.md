@@ -1,5 +1,4 @@
-Uromyces kisantuensis Henn. SPECIES
-=======
+# Uromyces kisantuensis Henn. SPECIES
 
 #### Status
 ACCEPTED

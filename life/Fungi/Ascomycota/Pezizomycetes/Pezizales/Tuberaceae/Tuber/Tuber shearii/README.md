@@ -1,5 +1,4 @@
-Tuber shearii Harkn. SPECIES
-=======
+# Tuber shearii Harkn. SPECIES
 
 #### Status
 ACCEPTED

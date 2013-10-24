@@ -1,5 +1,4 @@
-Phlebia cristata Velen. SPECIES
-=======
+# Phlebia cristata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma elegantissimum (Nyl.) Müll. Arg. SPECIES
-=======
+# Amphiloma elegantissimum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

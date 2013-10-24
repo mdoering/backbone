@@ -1,5 +1,4 @@
-Balzania platensis Speg., 1898 SPECIES
-=======
+# Balzania platensis Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

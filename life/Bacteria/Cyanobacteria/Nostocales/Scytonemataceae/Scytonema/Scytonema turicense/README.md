@@ -1,5 +1,4 @@
-Scytonema turicense var. muscicola Hepp VARIETY
-=======
+# Scytonema turicense SPECIES
 
 #### Status
 ACCEPTED

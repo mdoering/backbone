@@ -1,5 +1,4 @@
-Inocybe cutifracta Petch SPECIES
-=======
+# Inocybe cutifracta Petch SPECIES
 
 #### Status
 ACCEPTED

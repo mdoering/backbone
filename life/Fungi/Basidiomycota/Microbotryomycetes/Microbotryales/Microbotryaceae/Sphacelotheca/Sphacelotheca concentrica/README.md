@@ -1,5 +1,4 @@
-Sphacelotheca concentrica Zundel SPECIES
-=======
+# Sphacelotheca concentrica Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora laminata Burt SPECIES
-=======
+# Peniophora laminata Burt SPECIES
 
 #### Status
 ACCEPTED

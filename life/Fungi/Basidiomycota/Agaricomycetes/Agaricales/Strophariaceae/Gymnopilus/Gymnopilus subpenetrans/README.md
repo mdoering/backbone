@@ -1,5 +1,4 @@
-Gymnopilus subpenetrans Murrill SPECIES
-=======
+# Gymnopilus subpenetrans Murrill SPECIES
 
 #### Status
 ACCEPTED

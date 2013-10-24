@@ -1,5 +1,4 @@
-Rzehakina Cushman, 1927 GENUS
-=======
+# Rzehakina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

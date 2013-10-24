@@ -1,5 +1,4 @@
-Chromelosporium arenosum Hennebert SPECIES
-=======
+# Chromelosporium arenosum Hennebert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora stephanotidis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora stephanotidis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula parvopurpurea Buyck SPECIES
-=======
+# Russula parvopurpurea Buyck SPECIES
 
 #### Status
 ACCEPTED

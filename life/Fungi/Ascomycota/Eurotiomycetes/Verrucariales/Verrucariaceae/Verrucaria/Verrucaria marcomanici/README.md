@@ -1,5 +1,4 @@
-Verrucaria marcomanici (A. Massal.) Jatta SPECIES
-=======
+# Verrucaria marcomanici (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia melaxanthella (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia melaxanthella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

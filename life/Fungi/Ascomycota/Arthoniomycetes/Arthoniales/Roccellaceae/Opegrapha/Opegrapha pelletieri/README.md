@@ -1,5 +1,4 @@
-Opegrapha pelletieri Fée SPECIES
-=======
+# Opegrapha pelletieri Fée SPECIES
 
 #### Status
 ACCEPTED

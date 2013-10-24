@@ -1,5 +1,4 @@
-Uredo leptaleus (Syd.) Hirats. f. SPECIES
-=======
+# Uredo leptaleus (Syd.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

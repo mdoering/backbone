@@ -1,17 +1,16 @@
-Myiophyton Lebert GENUS
-=======
+# Entomophthora Fresenius, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 15(5): 26 (1857)
+Bot. Ztg. 14: 883 (1856)
 
 #### Original name
-Myiophyton Lebert
+Entomophthora Fresenius, 1856
 
 ### Remarks
 null

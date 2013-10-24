@@ -1,5 +1,4 @@
-Lachnea punicea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea punicea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon sphaeriosporum P.M.D. Martin SPECIES
-=======
+# Hypoxylon sphaeriosporum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

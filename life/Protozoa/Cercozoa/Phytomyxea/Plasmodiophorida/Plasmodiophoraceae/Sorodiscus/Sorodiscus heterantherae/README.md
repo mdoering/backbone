@@ -1,5 +1,4 @@
-Sorodiscus heterantherae C.C. Wernham, 1934 SPECIES
-=======
+# Sorodiscus heterantherae C.C. Wernham, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darwiniella gracilis (Speg.) Speg., 1902 SPECIES
-=======
+# Darwiniella gracilis (Speg.) Speg., 1902 SPECIES
 
 #### Status
 ACCEPTED

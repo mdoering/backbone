@@ -1,17 +1,16 @@
-Omphalodium arboricolum Räsänen SPECIES
-=======
+# Omphalodium arboricola Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 131: 98 (1941)
 
 #### Original name
-Omphalodium arboricolum Räsänen
+Omphalodium arboricola Räsänen
 
 ### Remarks
 null

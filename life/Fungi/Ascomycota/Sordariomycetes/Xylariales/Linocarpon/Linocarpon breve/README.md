@@ -1,5 +1,4 @@
-Linocarpon breve K.D. Hyde SPECIES
-=======
+# Linocarpon breve K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

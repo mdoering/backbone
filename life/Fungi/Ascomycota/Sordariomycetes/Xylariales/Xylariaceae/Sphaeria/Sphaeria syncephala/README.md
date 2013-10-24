@@ -1,5 +1,4 @@
-Sphaeria syncephala Wallr. SPECIES
-=======
+# Sphaeria syncephala Wallr. SPECIES
 
 #### Status
 ACCEPTED

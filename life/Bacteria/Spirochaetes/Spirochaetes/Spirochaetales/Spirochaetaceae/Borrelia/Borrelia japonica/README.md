@@ -1,5 +1,4 @@
-Borrelia japonica Kawabata et al., 1994 SPECIES
-=======
+# Borrelia japonica Kawabata et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

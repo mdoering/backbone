@@ -1,5 +1,4 @@
-Rigidoporus cystidioides (Lloyd) Corner SPECIES
-=======
+# Rigidoporus cystidioides (Lloyd) Corner SPECIES
 
 #### Status
 ACCEPTED

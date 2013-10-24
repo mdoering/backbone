@@ -1,5 +1,4 @@
-Pestalotia breviaristata Tracy & Earle SPECIES
-=======
+# Pestalotia breviaristata Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

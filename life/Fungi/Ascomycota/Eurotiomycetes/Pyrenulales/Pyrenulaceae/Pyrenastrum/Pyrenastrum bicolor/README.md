@@ -1,5 +1,4 @@
-Pyrenastrum bicolor Vain. SPECIES
-=======
+# Pyrenastrum bicolor Vain. SPECIES
 
 #### Status
 ACCEPTED

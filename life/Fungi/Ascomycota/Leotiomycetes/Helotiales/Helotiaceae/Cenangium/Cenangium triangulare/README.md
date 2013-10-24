@@ -1,5 +1,4 @@
-Cenangium triangulare Fr. SPECIES
-=======
+# Cenangium triangulare Fr. SPECIES
 
 #### Status
 ACCEPTED

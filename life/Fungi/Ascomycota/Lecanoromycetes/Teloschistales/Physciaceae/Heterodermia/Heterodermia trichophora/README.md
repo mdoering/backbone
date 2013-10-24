@@ -1,5 +1,4 @@
-Heterodermia trichophora (Kurok.) Trass SPECIES
-=======
+# Heterodermia trichophora (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

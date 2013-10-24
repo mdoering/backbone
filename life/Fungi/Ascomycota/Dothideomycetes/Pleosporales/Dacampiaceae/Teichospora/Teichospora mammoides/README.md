@@ -1,5 +1,4 @@
-Teichospora mammoides Ellis & Everh. SPECIES
-=======
+# Teichospora mammoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

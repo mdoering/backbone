@@ -1,5 +1,4 @@
-Phoma corni-albae Sacc. & P. Syd. SPECIES
-=======
+# Phoma corni-albae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

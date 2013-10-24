@@ -1,5 +1,4 @@
-Bacidia subrubella (Nyl.) SPECIES
-=======
+# Bacidia subrubella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

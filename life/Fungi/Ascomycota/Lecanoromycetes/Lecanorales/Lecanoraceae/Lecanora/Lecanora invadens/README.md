@@ -1,5 +1,4 @@
-Lecanora invadens H. Magn. SPECIES
-=======
+# Lecanora invadens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

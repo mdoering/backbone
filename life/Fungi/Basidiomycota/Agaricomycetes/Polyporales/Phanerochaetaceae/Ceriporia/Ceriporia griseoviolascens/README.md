@@ -1,5 +1,4 @@
-Ceriporia griseoviolascens M. Pieri & B. Rivoire SPECIES
-=======
+# Ceriporia griseoviolascens M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

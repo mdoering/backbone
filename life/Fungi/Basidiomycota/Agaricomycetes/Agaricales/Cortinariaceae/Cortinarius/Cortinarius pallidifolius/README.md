@@ -1,5 +1,4 @@
-Cortinarius pallidifolius A.H. Sm. SPECIES
-=======
+# Cortinarius pallidifolius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema lopezii Hale SPECIES
-=======
+# Parmotrema lopezii Hale SPECIES
 
 #### Status
 ACCEPTED

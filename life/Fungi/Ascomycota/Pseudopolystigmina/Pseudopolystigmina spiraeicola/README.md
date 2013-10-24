@@ -1,5 +1,4 @@
-Pseudopolystigmina spiraeicola Murashk., 1928 SPECIES
-=======
+# Pseudopolystigmina spiraeicola Murashk., 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerina paraensis (Henn.) Bat. & R. Garnier SPECIES
-=======
+# Dimerina paraensis (Henn.) Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

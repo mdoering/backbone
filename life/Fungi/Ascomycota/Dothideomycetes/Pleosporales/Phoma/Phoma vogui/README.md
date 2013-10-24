@@ -1,5 +1,4 @@
-Phoma vogui Speg. SPECIES
-=======
+# Phoma vogui Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cantareirensis Hansf. SPECIES
-=======
+# Meliola cantareirensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

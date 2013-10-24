@@ -1,5 +1,4 @@
-Dicaeoma bigelowiae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma bigelowiae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

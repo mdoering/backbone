@@ -1,5 +1,4 @@
-Diplodina epidermidis F. Lamb. & Fautrey SPECIES
-=======
+# Diplodina epidermidis F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

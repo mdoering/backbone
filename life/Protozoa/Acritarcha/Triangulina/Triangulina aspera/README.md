@@ -1,5 +1,4 @@
-Triangulina aspera Pöthé de Baldis, 1977 SPECIES
-=======
+# Triangulina aspera Pöthé de Baldis, 1977 SPECIES
 
 #### Status
 ACCEPTED

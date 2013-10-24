@@ -1,5 +1,4 @@
-Verrucaria parvula (Arnold) Stizenb. SPECIES
-=======
+# Verrucaria parvula (Arnold) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

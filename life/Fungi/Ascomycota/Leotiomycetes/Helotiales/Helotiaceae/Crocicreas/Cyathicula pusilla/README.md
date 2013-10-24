@@ -1,5 +1,4 @@
-Cyathicula pusilla (Oeder) Sacc. SPECIES
-=======
+# Cyathicula pusilla (Oeder) Sacc. SPECIES
 
 #### Status
 ACCEPTED

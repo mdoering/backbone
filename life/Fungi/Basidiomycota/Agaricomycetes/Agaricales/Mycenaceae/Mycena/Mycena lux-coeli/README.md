@@ -1,5 +1,4 @@
-Mycena lux-coeli Corner SPECIES
-=======
+# Mycena lux-coeli Corner SPECIES
 
 #### Status
 ACCEPTED

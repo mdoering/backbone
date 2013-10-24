@@ -1,5 +1,4 @@
-Rhabdothorax regalis (K.R. Gaarder) K.R. Gaarder SPECIES
-=======
+# Rhabdothorax regalis (K.R. Gaarder) K.R. Gaarder SPECIES
 
 #### Status
 ACCEPTED

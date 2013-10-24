@@ -1,5 +1,4 @@
-Corethromyces fuscipes (Speg.) I.I. Tav. SPECIES
-=======
+# Corethromyces fuscipes (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

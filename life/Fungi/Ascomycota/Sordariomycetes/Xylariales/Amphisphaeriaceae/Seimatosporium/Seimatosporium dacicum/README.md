@@ -1,5 +1,4 @@
-Seimatosporium dacicum (Savul. & Hulea) B. Sutton SPECIES
-=======
+# Seimatosporium dacicum (Savul. & Hulea) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

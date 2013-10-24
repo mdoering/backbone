@@ -1,5 +1,4 @@
-Ceratocystis pseudominor Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis pseudominor Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

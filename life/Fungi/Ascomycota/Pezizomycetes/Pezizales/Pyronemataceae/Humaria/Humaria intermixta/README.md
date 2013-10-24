@@ -1,5 +1,4 @@
-Humaria intermixta (P. Karst.) Sacc. SPECIES
-=======
+# Humaria intermixta (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

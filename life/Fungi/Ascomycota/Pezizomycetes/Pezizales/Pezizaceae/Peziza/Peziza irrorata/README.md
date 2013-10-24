@@ -1,5 +1,4 @@
-Peziza irrorata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza irrorata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

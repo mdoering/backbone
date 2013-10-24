@@ -1,5 +1,4 @@
-Hoehnemastix Skvortzov, 1974 GENUS
-=======
+# Hoehnemastix Skvortzov, 1974 GENUS
 
 #### Status
 ACCEPTED

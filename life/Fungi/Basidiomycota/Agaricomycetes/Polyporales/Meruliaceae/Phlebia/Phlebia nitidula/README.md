@@ -1,14 +1,13 @@
-Corticium nitidulum P. Karst., 1881 SPECIES
-=======
+# Phlebia nitidula (P. Karst.) Ryvarden, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 6: 11 (1881)
+Rept. Kevo subarct. Res. Stn 8: 151 (1971)
 
 #### Original name
 Corticium nitidulum P. Karst., 1881

@@ -1,8 +1,7 @@
-Vaucheria dichotoma var. submarina Lyngbye VARIETY
-=======
+# Vaucheria submarina (Lyngbye) Berkeley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

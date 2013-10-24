@@ -1,5 +1,4 @@
-Erysiphe paeoniae R.Y. Zheng & G.Q. Chen, 1981 SPECIES
-=======
+# Erysiphe paeoniae R.Y. Zheng & G.Q. Chen, 1981 SPECIES
 
 #### Status
 ACCEPTED

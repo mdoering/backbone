@@ -1,5 +1,4 @@
-Armillaria dasypepla Berk. SPECIES
-=======
+# Armillaria dasypepla Berk. SPECIES
 
 #### Status
 ACCEPTED

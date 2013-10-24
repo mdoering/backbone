@@ -1,5 +1,4 @@
-Splanchnonema striatulum M.E. Barr SPECIES
-=======
+# Splanchnonema striatulum M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

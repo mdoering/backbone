@@ -1,5 +1,4 @@
-Astylozoon oxypus SPECIES
-=======
+# Astylozoon oxypus SPECIES
 
 #### Status
 ACCEPTED

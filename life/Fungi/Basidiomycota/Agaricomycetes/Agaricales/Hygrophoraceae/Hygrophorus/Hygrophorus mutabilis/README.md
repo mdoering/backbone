@@ -1,5 +1,4 @@
-Hygrophorus mutabilis Petch SPECIES
-=======
+# Hygrophorus mutabilis Petch SPECIES
 
 #### Status
 ACCEPTED

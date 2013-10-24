@@ -1,5 +1,4 @@
-Omphalia chrysoleuca (Pers.) P. Karst. SPECIES
-=======
+# Omphalia chrysoleuca (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

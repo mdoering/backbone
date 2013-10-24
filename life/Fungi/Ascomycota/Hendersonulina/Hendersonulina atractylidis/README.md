@@ -1,5 +1,4 @@
-Hendersonulina atractylidis (Pat.) Tassi SPECIES
-=======
+# Hendersonulina atractylidis (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

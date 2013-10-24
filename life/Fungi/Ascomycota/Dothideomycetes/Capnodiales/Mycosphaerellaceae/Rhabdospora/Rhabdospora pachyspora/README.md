@@ -1,5 +1,4 @@
-Rhabdospora pachyspora Ellis & Everh. SPECIES
-=======
+# Rhabdospora pachyspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

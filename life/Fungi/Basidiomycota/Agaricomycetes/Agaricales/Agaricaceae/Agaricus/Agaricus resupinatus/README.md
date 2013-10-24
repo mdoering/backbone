@@ -1,5 +1,4 @@
-Agaricus resupinatus With. SPECIES
-=======
+# Agaricus resupinatus With. SPECIES
 
 #### Status
 ACCEPTED

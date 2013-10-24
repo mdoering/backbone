@@ -1,5 +1,4 @@
-Notosolenus sinuatus Stokes SPECIES
-=======
+# Notosolenus sinuatus Stokes SPECIES
 
 #### Status
 ACCEPTED

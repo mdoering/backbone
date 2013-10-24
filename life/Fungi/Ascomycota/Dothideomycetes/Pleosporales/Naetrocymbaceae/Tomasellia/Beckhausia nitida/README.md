@@ -1,5 +1,4 @@
-Beckhausia nitida Hampe SPECIES
-=======
+# Beckhausia nitida Hampe SPECIES
 
 #### Status
 ACCEPTED

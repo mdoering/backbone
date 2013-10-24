@@ -1,5 +1,4 @@
-Pleospora gummipara Oudem. SPECIES
-=======
+# Pleospora gummipara Oudem. SPECIES
 
 #### Status
 ACCEPTED

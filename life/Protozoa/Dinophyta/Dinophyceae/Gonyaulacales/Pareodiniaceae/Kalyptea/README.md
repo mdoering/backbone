@@ -1,5 +1,4 @@
-Kalyptea Cookson & Eisenack, 1960 GENUS
-=======
+# Kalyptea Cookson & Eisenack, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora alopecuri Rostr. SPECIES
-=======
+# Stagonospora alopecuri Rostr. SPECIES
 
 #### Status
 ACCEPTED

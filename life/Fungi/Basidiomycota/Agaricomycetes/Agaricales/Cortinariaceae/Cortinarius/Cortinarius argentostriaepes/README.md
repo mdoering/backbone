@@ -1,5 +1,4 @@
-Cortinarius argentostriaepes Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius argentostriaepes Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

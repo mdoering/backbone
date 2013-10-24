@@ -1,5 +1,4 @@
-Peziza chryso-olivascens Donadini SPECIES
-=======
+# Peziza chryso-olivascens Donadini SPECIES
 
 #### Status
 ACCEPTED

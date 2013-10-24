@@ -1,5 +1,4 @@
-Phlegmacium fragrans subsp. fragrans SUBSPECIES
-=======
+# Phlegmacium fragrans (A.H. Sm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 215 (1953)
 
 #### Original name
-Phlegmacium fragrans subsp. fragrans
+Cortinarius fragrans A.H. Sm.
 
 ### Remarks
 null

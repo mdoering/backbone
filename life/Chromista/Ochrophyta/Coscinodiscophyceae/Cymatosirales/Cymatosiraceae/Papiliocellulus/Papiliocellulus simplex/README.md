@@ -1,5 +1,4 @@
-Papiliocellulus simplex C. Gardner & R. M. Crawford SPECIES
-=======
+# Papiliocellulus simplex C. Gardner & R. M. Crawford SPECIES
 
 #### Status
 ACCEPTED

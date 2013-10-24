@@ -1,5 +1,4 @@
-Trimorphomyces Bandoni & Oberw. GENUS
-=======
+# Trimorphomyces Bandoni & Oberw. GENUS
 
 #### Status
 ACCEPTED

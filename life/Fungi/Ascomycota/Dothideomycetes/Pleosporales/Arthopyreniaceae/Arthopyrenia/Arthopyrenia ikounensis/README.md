@@ -1,5 +1,4 @@
-Arthopyrenia ikounensis Müll. Arg. SPECIES
-=======
+# Arthopyrenia ikounensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

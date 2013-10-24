@@ -1,5 +1,4 @@
-Cercospora acanthi Pass. SPECIES
-=======
+# Cercospora acanthi Pass. SPECIES
 
 #### Status
 ACCEPTED

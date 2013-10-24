@@ -1,5 +1,4 @@
-Diaporthe ocularia (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe ocularia (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

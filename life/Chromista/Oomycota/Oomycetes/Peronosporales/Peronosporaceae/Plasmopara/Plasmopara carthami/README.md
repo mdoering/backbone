@@ -1,5 +1,4 @@
-Plasmopara carthami Negru SPECIES
-=======
+# Plasmopara carthami Negru SPECIES
 
 #### Status
 ACCEPTED

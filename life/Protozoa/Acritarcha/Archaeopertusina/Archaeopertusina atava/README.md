@@ -1,5 +1,4 @@
-Archaeopertusina atava Naumova, 1961 SPECIES
-=======
+# Archaeopertusina atava Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

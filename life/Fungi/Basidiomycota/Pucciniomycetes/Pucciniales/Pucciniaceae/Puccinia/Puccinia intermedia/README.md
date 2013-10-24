@@ -1,5 +1,4 @@
-Puccinia intermedia Dietel SPECIES
-=======
+# Puccinia intermedia Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actiprunum Haeckel, 1887 GENUS
-=======
+# Actiprunum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

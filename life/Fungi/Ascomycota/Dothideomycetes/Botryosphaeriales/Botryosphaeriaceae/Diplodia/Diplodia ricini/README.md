@@ -1,5 +1,4 @@
-Diplodia ricini Sacc. & Roum. SPECIES
-=======
+# Diplodia ricini Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

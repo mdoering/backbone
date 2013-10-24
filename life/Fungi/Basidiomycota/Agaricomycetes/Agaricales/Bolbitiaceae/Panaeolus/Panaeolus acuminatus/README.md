@@ -1,17 +1,16 @@
-Panaeolus acuminatus var. acuminatus VARIETY
-=======
+# Panaeolus acuminatus (Schaeff.) Quél., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 621 (1874)
 
 #### Original name
-Panaeolus acuminatus var. acuminatus
+Agaricus acuminatus Schaeff., 1774
 
 ### Remarks
 null

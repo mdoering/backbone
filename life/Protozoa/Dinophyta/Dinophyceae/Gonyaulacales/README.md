@@ -1,5 +1,4 @@
-Gonyaulacales Taylor, 1980 ORDER
-=======
+# Gonyaulacales Taylor, 1980 ORDER
 
 #### Status
 ACCEPTED

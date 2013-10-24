@@ -1,5 +1,4 @@
-Hormodendrum leproides (Léger & Nogueira) C.W. Dodge SPECIES
-=======
+# Hormodendrum leproides (Léger & Nogueira) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

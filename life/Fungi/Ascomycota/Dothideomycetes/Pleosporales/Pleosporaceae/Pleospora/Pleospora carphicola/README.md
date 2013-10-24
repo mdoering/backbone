@@ -1,5 +1,4 @@
-Pleospora carphicola Speg. SPECIES
-=======
+# Pleospora carphicola Speg. SPECIES
 
 #### Status
 ACCEPTED

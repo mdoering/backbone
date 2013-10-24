@@ -1,5 +1,4 @@
-Patellaria argyrioides Rehm SPECIES
-=======
+# Patellaria argyrioides Rehm SPECIES
 
 #### Status
 ACCEPTED

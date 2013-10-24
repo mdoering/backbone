@@ -1,5 +1,4 @@
-Polyactis quadrifida Link SPECIES
-=======
+# Polyactis quadrifida Link SPECIES
 
 #### Status
 ACCEPTED

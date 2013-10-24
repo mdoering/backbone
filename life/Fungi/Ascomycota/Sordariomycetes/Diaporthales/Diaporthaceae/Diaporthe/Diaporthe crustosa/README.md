@@ -1,17 +1,16 @@
-Phomopsis crustosa f. crustosa FORM
-=======
+# Diaporthe crustosa Sacc. & Roum., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 256 (1906)
+Reliq. Libert 2: no. 91 (1881)
 
 #### Original name
-Phomopsis crustosa f. crustosa
+Diaporthe crustosa Sacc. & Roum., 1881
 
 ### Remarks
 null

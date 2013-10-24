@@ -1,5 +1,4 @@
-Marasmiellus cocosensis Singer SPECIES
-=======
+# Marasmiellus cocosensis Singer SPECIES
 
 #### Status
 ACCEPTED

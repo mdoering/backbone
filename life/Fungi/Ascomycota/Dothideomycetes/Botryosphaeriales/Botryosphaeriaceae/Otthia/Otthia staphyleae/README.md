@@ -1,5 +1,4 @@
-Otthia staphyleae Schnabl SPECIES
-=======
+# Otthia staphyleae Schnabl SPECIES
 
 #### Status
 ACCEPTED

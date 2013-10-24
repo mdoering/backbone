@@ -1,5 +1,4 @@
-Stagonospora haliclysta Kohlm., 1973 SPECIES
-=======
+# Stagonospora haliclysta Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

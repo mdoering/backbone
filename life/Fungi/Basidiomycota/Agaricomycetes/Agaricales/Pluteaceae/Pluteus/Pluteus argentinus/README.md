@@ -1,5 +1,4 @@
-Pluteus argentinus Speg. SPECIES
-=======
+# Pluteus argentinus Speg. SPECIES
 
 #### Status
 ACCEPTED

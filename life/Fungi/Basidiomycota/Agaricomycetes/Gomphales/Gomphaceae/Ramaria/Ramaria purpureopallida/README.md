@@ -1,5 +1,4 @@
-Ramaria purpureopallida R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria purpureopallida R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

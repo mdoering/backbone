@@ -1,5 +1,4 @@
-Usnea incrassata (Müll. {?} ) Motyka SPECIES
-=======
+# Usnea incrassata (Müll. {?} ) Motyka SPECIES
 
 #### Status
 ACCEPTED

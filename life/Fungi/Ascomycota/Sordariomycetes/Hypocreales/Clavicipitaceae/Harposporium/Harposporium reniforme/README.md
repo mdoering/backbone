@@ -1,17 +1,16 @@
-Harposporium reniformis S.D. Patil & M.A. Pendse SPECIES
-=======
+# Harposporium reniforme S.D. Patil & M.A. Pendse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 11(1-2): 29 (1976)
 
 #### Original name
-Harposporium reniformis S.D. Patil & M.A. Pendse
+Harposporium reniforme S.D. Patil & M.A. Pendse
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Fusarium semitectum var. semitectum VARIETY
-=======
+# Fusarium incarnatum (Desm.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 712 (1886)
 
 #### Original name
-null
+Fusisporium incarnatum Desm.
 
 ### Remarks
 null

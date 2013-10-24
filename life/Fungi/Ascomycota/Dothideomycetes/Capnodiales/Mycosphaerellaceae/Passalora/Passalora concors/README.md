@@ -1,14 +1,13 @@
-Cercospora concors (Casp.) Sacc., 1886 SPECIES
-=======
+# Passalora concors (Casp.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 449 (1886)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 134 (2003)
 
 #### Original name
 Fusisporium concors Casp., 1855

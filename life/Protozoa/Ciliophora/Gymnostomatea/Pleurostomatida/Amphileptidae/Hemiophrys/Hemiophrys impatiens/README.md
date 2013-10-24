@@ -1,5 +1,4 @@
-Hemiophrys impatiens Penard, 1922 SPECIES
-=======
+# Hemiophrys impatiens Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

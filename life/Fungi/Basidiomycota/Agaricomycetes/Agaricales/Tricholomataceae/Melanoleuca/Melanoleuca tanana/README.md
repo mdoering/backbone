@@ -1,5 +1,4 @@
-Melanoleuca tanana L.S. Gillman & O.K. Mill. SPECIES
-=======
+# Melanoleuca tanana L.S. Gillman & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

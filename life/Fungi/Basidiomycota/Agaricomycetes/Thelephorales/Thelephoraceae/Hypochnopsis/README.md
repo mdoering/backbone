@@ -1,5 +1,4 @@
-Hypochnopsis P. Karst. GENUS
-=======
+# Hypochnopsis P. Karst. GENUS
 
 #### Status
 ACCEPTED

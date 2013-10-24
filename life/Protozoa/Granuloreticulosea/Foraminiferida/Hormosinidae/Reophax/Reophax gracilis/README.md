@@ -1,5 +1,4 @@
-Reophax gracilis Earland SPECIES
-=======
+# Reophax gracilis Earland SPECIES
 
 #### Status
 ACCEPTED

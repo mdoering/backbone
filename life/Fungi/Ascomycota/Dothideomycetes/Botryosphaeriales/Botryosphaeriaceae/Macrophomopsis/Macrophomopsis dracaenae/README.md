@@ -1,5 +1,4 @@
-Macrophomopsis dracaenae N.E. Stevens & Baechler SPECIES
-=======
+# Macrophomopsis dracaenae N.E. Stevens & Baechler SPECIES
 
 #### Status
 ACCEPTED

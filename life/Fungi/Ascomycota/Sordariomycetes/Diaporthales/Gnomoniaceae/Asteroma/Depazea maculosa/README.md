@@ -1,5 +1,4 @@
-Depazea maculosa Cooke SPECIES
-=======
+# Depazea maculosa Cooke SPECIES
 
 #### Status
 ACCEPTED

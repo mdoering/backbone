@@ -1,5 +1,4 @@
-Spiniferites confossus R. J. Davey SPECIES
-=======
+# Spiniferites confossus R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

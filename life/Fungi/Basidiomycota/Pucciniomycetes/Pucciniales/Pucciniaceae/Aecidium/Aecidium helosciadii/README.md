@@ -1,5 +1,4 @@
-Aecidium helosciadii Har. SPECIES
-=======
+# Aecidium helosciadii Har. SPECIES
 
 #### Status
 ACCEPTED

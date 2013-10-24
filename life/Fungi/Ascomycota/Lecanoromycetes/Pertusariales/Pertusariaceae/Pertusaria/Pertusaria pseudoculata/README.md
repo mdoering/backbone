@@ -1,5 +1,4 @@
-Pertusaria pseudoculata Øvstedal SPECIES
-=======
+# Pertusaria pseudoculata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

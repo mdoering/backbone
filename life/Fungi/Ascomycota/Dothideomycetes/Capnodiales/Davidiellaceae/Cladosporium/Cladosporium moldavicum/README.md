@@ -1,5 +1,4 @@
-Cladosporium moldavicum Fosteris SPECIES
-=======
+# Cladosporium moldavicum Fosteris SPECIES
 
 #### Status
 ACCEPTED

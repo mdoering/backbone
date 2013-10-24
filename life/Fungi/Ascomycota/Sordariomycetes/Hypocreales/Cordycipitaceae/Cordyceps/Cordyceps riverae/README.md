@@ -1,5 +1,4 @@
-Cordyceps riverae Pacioni SPECIES
-=======
+# Cordyceps riverae Pacioni SPECIES
 
 #### Status
 ACCEPTED

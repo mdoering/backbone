@@ -1,17 +1,16 @@
-Bejuia L.E. Stover & G.L. Williams, 1987 GENUS
-=======
+# Atopodinium W.S. Drugg, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-AASP (Am Assoc Stratigr Palynol) Contrib Ser No. 18: 37.
+Palaeontographica Abt. B Palaeophytol. 168 (1-3): 62.
 
 #### Original name
-Burtonia Beju, 1983
+null
 
 ### Remarks
 null

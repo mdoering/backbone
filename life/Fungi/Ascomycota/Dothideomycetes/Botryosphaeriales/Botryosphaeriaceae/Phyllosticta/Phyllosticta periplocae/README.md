@@ -1,5 +1,4 @@
-Phyllosticta periplocae Tassi SPECIES
-=======
+# Phyllosticta periplocae Tassi SPECIES
 
 #### Status
 ACCEPTED

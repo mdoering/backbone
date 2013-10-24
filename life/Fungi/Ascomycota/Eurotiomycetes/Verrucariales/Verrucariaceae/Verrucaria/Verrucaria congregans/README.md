@@ -1,5 +1,4 @@
-Verrucaria congregans Nyl. SPECIES
-=======
+# Verrucaria congregans Nyl. SPECIES
 
 #### Status
 ACCEPTED

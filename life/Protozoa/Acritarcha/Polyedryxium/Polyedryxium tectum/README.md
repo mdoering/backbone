@@ -1,5 +1,4 @@
-Polyedryxium tectum Deunff, 1954 ex Deunff, 1961 SPECIES
-=======
+# Polyedryxium tectum Deunff, 1954 ex Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

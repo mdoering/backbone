@@ -1,5 +1,4 @@
-Stauroplegma Hinde, 1890 GENUS
-=======
+# Stauroplegma Hinde, 1890 GENUS
 
 #### Status
 ACCEPTED

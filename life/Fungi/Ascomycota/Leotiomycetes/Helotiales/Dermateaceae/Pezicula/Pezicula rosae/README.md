@@ -1,5 +1,4 @@
-Pezicula rosae Sacc. SPECIES
-=======
+# Pezicula rosae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus cerasinus R. Heim & Perr.-Bertr. SPECIES
-=======
+# Boletellus cerasinus R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

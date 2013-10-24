@@ -1,14 +1,13 @@
-Lophiella bambusae Henn., 1902 SPECIES
-=======
+# Phyllachora longinaviculata Parbery, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 41: 143 (1902)
+Aust. J. Bot. 15: 319 (1967)
 
 #### Original name
 Lophiella bambusae Henn., 1902

@@ -1,5 +1,4 @@
-Cothurnia acuta Levander, 1915 SPECIES
-=======
+# Cothurnia acuta Levander, 1915 SPECIES
 
 #### Status
 ACCEPTED

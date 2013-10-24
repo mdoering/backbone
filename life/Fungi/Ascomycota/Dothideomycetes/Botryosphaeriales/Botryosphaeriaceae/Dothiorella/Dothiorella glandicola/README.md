@@ -1,5 +1,4 @@
-Dothiorella glandicola (Schwein.) Starbäck SPECIES
-=======
+# Dothiorella glandicola (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

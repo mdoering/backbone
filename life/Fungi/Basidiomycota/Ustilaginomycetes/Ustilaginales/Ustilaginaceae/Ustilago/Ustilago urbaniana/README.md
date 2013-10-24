@@ -1,5 +1,4 @@
-Ustilago urbaniana A.A. Fisch. Waldh. SPECIES
-=======
+# Ustilago urbaniana A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

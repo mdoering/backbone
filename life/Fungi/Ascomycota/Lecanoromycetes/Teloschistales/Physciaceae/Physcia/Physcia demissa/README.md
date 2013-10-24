@@ -1,5 +1,4 @@
-Physcia demissa (Körb.) Zwackh SPECIES
-=======
+# Physcia demissa (Körb.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

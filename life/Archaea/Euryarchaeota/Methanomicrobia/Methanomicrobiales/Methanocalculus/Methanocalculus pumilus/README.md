@@ -1,5 +1,4 @@
-Methanocalculus pumilus Mori et al., 2000 SPECIES
-=======
+# Methanocalculus pumilus Mori et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

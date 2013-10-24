@@ -1,5 +1,4 @@
-Cortinarius fascicularis Johns. {?} SPECIES
-=======
+# Cortinarius fascicularis Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

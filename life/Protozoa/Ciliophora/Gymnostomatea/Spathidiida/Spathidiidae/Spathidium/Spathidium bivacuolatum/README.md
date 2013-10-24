@@ -1,5 +1,4 @@
-Spathidium bivacuolatum Foissner ßß SPECIES
-=======
+# Spathidium bivacuolatum Foissner ßß SPECIES
 
 #### Status
 ACCEPTED

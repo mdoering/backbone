@@ -1,5 +1,4 @@
-Dicaeoma apophysatum (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma apophysatum (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

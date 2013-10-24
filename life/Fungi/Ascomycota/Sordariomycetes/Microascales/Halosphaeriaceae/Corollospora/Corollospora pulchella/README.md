@@ -1,5 +1,4 @@
-Corollospora pulchella Kohlm., I. Schmidt & N.B. Nair, 1967 SPECIES
-=======
+# Corollospora pulchella Kohlm., I. Schmidt & N.B. Nair, 1967 SPECIES
 
 #### Status
 ACCEPTED

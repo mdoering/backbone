@@ -1,5 +1,4 @@
-Ganoderma umbrinum Bres. SPECIES
-=======
+# Ganoderma umbrinum Bres. SPECIES
 
 #### Status
 ACCEPTED

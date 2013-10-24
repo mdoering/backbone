@@ -1,5 +1,4 @@
-Microthia Gryzenh. & M.J. Wingf. GENUS
-=======
+# Microthia Gryzenh. & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

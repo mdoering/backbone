@@ -1,5 +1,4 @@
-Sphaeria curta Fr. SPECIES
-=======
+# Sphaeria curta Fr. SPECIES
 
 #### Status
 ACCEPTED

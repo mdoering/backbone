@@ -1,17 +1,16 @@
-Sclerotinia gregoriana J.T. Palmer, 1968 SPECIES
-=======
+# Myriosclerotinia dennisii (Svrcek) J. Schwegler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 4: 231 (1968)
+Schweiz. Z. Pilzk. 56(4): 3 (1978)
 
 #### Original name
-Sclerotinia gregoriana J.T. Palmer, 1968
+Sclerotinia dennisii Svrcek, 1961
 
 ### Remarks
 null

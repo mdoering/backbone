@@ -1,5 +1,4 @@
-Teichospora edwiniae Clem. SPECIES
-=======
+# Teichospora edwiniae Clem. SPECIES
 
 #### Status
 ACCEPTED

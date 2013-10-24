@@ -1,5 +1,4 @@
-Kirschsteiniothelia proteae Crous, M.J. Wingf. & Marinc., 2008 SPECIES
-=======
+# Kirschsteiniothelia proteae Crous, M.J. Wingf. & Marinc., 2008 SPECIES
 
 #### Status
 ACCEPTED

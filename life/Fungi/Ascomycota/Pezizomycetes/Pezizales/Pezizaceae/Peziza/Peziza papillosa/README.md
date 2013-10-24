@@ -1,5 +1,4 @@
-Peziza papillosa Reichardt SPECIES
-=======
+# Peziza papillosa Reichardt SPECIES
 
 #### Status
 ACCEPTED

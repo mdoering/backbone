@@ -1,14 +1,13 @@
-Kirschsteiniothelia umbrinoides (Pass.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia umbrinoidea (Pass.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 13: 146 (2004)
 
 #### Original name
 Amphisphaeria umbrinoidea Pass.

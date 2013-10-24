@@ -1,5 +1,4 @@
-Cordyceps setulosa Quél. SPECIES
-=======
+# Cordyceps setulosa Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria Saccardo, 1883 GENUS
-=======
+# Metasphaeria Saccardo, 1883 GENUS
 
 #### Status
 ACCEPTED

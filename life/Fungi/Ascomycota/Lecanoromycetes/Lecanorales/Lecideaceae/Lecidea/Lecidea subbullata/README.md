@@ -1,5 +1,4 @@
-Lecidea subbullata Vain. SPECIES
-=======
+# Lecidea subbullata Vain. SPECIES
 
 #### Status
 ACCEPTED

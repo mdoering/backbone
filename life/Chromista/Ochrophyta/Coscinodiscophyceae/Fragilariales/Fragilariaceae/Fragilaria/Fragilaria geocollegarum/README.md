@@ -1,5 +1,4 @@
-Fragilaria geocollegarum Witkowski & Lange-Bertalot SPECIES
-=======
+# Fragilaria geocollegarum Witkowski & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

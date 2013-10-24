@@ -1,5 +1,4 @@
-Mycena cimmeria (Fr.) Gillet SPECIES
-=======
+# Mycena cimmeria (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohaptolina Edvardsen & Eikrem, 2011 GENUS
-=======
+# Pseudohaptolina Edvardsen & Eikrem, 2011 GENUS
 
 #### Status
 ACCEPTED

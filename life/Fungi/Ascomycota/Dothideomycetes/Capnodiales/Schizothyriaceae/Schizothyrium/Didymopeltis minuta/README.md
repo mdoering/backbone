@@ -1,5 +1,4 @@
-Didymopeltis minuta Bat. & Cavalc. SPECIES
-=======
+# Didymopeltis minuta Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

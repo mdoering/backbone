@@ -1,5 +1,4 @@
-Acarospora freyi H. Magn. SPECIES
-=======
+# Acarospora freyi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

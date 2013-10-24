@@ -1,14 +1,13 @@
-Cladina azorica (Ahti) Ahti SPECIES
-=======
+# Cladonia azorica Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 79: 32 (1984)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 32(1): 36 (1961)
 
 #### Original name
 Cladonia azorica Ahti

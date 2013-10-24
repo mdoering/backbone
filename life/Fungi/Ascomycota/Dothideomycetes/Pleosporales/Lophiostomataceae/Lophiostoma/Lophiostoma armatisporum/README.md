@@ -1,5 +1,4 @@
-Lophiostoma armatisporum (K.D. Hyde, Vrijmoed, Chinnaraj & E.B.G. Jones) E.C.Y. Liew, Aptroot & K.D. Hyde, 2002 SPECIES
-=======
+# Lophiostoma armatisporum (K.D. Hyde, Vrijmoed, Chinnaraj & E.B.G. Jones) E.C.Y. Liew, Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

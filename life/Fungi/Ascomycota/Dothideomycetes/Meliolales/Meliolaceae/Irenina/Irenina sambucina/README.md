@@ -1,5 +1,4 @@
-Irenina sambucina Hansf. SPECIES
-=======
+# Irenina sambucina Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus fluxus Herp. SPECIES
-=======
+# Lentinus fluxus Herp. SPECIES
 
 #### Status
 ACCEPTED

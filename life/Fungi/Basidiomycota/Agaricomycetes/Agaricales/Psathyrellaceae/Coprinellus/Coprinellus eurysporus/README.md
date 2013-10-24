@@ -1,5 +1,4 @@
-Coprinellus eurysporus (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus eurysporus (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

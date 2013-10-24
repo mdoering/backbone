@@ -1,14 +1,13 @@
-Amanita vaginata var. punctata (Cleland & Cheel) E.-J. Gilbert, 1941 VARIETY
-=======
+# Amanita punctata (Cleland & Cheel) D.A. Reid, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27: 208 (1941)
+Aust. J. Bot. , Suppl. Ser. 8: 50 (1980)
 
 #### Original name
 Amanitopsis punctata Cleland & Cheel, 1919

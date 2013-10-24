@@ -1,5 +1,4 @@
-Omphalia oculus Peck SPECIES
-=======
+# Omphalia oculus Peck SPECIES
 
 #### Status
 ACCEPTED

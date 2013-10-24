@@ -1,5 +1,4 @@
-Ooidium strigatum Ouyang Shu et al., 1974 SPECIES
-=======
+# Ooidium strigatum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

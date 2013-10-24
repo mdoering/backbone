@@ -1,5 +1,4 @@
-Microthyriella amazonensis Bat. & J.A. Lima SPECIES
-=======
+# Microthyriella amazonensis Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

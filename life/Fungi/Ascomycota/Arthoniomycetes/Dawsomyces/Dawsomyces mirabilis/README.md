@@ -1,5 +1,4 @@
-Dawsomyces mirabilis Döbbeler SPECIES
-=======
+# Dawsomyces mirabilis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

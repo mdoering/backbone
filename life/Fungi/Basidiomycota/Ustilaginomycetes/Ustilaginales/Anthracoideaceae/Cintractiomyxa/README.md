@@ -1,5 +1,4 @@
-Cintractiomyxa GENUS
-=======
+# Cintractiomyxa GENUS
 
 #### Status
 ACCEPTED

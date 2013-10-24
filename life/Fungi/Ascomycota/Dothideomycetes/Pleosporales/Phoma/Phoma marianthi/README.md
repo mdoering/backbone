@@ -1,5 +1,4 @@
-Phoma marianthi Tassi SPECIES
-=======
+# Phoma marianthi Tassi SPECIES
 
 #### Status
 ACCEPTED

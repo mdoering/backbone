@@ -1,5 +1,4 @@
-Dipodascus polyporicola T. Schumach. & Ryvarden SPECIES
-=======
+# Dipodascus polyporicola T. Schumach. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria albidoatra Nyl. SPECIES
-=======
+# Verrucaria albidoatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

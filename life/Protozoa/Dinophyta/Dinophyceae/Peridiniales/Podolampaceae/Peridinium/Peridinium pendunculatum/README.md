@@ -1,5 +1,4 @@
-Peridinium pendunculatum SPECIES
-=======
+# Peridinium pendunculatum SPECIES
 
 #### Status
 ACCEPTED

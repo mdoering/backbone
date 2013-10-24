@@ -1,5 +1,4 @@
-Urceolaria nigrina SPECIES
-=======
+# Urceolaria nigrina SPECIES
 
 #### Status
 ACCEPTED

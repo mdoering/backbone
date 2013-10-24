@@ -1,5 +1,4 @@
-Pertusaria cretacea Müll. Arg. SPECIES
-=======
+# Pertusaria cretacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus zonariae W.R. Taylor SPECIES
-=======
+# Ectocarpus zonariae W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

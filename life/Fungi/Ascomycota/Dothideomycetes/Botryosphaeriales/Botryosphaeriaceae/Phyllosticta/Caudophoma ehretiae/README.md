@@ -1,17 +1,16 @@
-Caudophoma ehreliae B.V. Patil & Thirum. SPECIES
-=======
+# Caudophoma ehretiae B.V. Patil & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 20: (1968)
 
 #### Original name
-Caudophoma ehreliae B.V. Patil & Thirum.
+Caudophoma ehretiae B.V. Patil & Thirum.
 
 ### Remarks
 null

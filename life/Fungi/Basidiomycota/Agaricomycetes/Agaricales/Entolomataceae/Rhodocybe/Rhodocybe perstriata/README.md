@@ -1,5 +1,4 @@
-Rhodocybe perstriata Corner & E. Horak SPECIES
-=======
+# Rhodocybe perstriata Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

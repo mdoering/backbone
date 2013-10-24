@@ -1,5 +1,4 @@
-Nectria rubrostoma Rossman SPECIES
-=======
+# Nectria rubrostoma Rossman SPECIES
 
 #### Status
 ACCEPTED

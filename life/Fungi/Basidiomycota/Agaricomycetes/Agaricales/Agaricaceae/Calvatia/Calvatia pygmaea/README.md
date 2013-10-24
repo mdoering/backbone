@@ -1,5 +1,4 @@
-Calvatia pygmaea (R.E. Fr.) Kreisel, G. Moreno, C. Ochoa & Altés SPECIES
-=======
+# Calvatia pygmaea (R.E. Fr.) Kreisel, G. Moreno, C. Ochoa & Altés SPECIES
 
 #### Status
 ACCEPTED

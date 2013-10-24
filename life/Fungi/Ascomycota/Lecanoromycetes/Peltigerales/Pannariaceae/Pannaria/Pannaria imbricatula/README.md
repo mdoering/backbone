@@ -1,5 +1,4 @@
-Pannaria imbricatula Müll. Arg. SPECIES
-=======
+# Pannaria imbricatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus brasiliensis Fr. SPECIES
-=======
+# Agaricus brasiliensis Fr. SPECIES
 
 #### Status
 ACCEPTED

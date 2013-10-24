@@ -1,5 +1,4 @@
-Karlingiomyces lobatus (Karling) Sparrow SPECIES
-=======
+# Karlingiomyces lobatus (Karling) Sparrow SPECIES
 
 #### Status
 ACCEPTED

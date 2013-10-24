@@ -1,5 +1,4 @@
-Septoria pityrogrammae Garman SPECIES
-=======
+# Septoria pityrogrammae Garman SPECIES
 
 #### Status
 ACCEPTED

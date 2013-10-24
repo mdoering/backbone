@@ -1,17 +1,16 @@
-Valsaria rubricosa var. rubricosa VARIETY
-=======
+# Valsaria rubricosa (Fr.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca veneti no. 690 (1876)
+Syll. fung. (Abellini) 1: 743 (1882)
 
 #### Original name
-Valsaria rubricosa var. rubricosa
+Valsaria rubricosa (Fr.) Sacc., 1882
 
 ### Remarks
 null

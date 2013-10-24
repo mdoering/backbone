@@ -1,5 +1,4 @@
-Uredo pinardiae Unamuno SPECIES
-=======
+# Uredo pinardiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

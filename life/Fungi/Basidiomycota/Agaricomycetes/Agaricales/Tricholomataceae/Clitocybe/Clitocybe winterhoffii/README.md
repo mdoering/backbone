@@ -1,5 +1,4 @@
-Clitocybe winterhoffii Raithelh. SPECIES
-=======
+# Clitocybe winterhoffii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

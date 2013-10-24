@@ -1,5 +1,4 @@
-Septoria pantocsekii Bäumler SPECIES
-=======
+# Septoria pantocsekii Bäumler SPECIES
 
 #### Status
 ACCEPTED

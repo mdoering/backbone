@@ -1,5 +1,4 @@
-Aecidium yapoense Vienn.-Bourg. SPECIES
-=======
+# Aecidium yapoense Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus defibulatus Singer SPECIES
-=======
+# Crepidotus defibulatus Singer SPECIES
 
 #### Status
 ACCEPTED

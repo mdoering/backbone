@@ -1,5 +1,4 @@
-Cercoseptoria fici B.K. Gupta & Kamal SPECIES
-=======
+# Cercoseptoria fici B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora phaedrophthalma var. phaedrophthalma VARIETY
-=======
+# Lecanora phaedrophthalma Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , München 19-20: 483 (1958)
 
 #### Original name
-null
+Lecanora phaedrophthalma Poelt
 
 ### Remarks
 null

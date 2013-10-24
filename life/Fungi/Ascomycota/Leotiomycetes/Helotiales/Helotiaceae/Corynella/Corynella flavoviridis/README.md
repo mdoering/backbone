@@ -1,5 +1,4 @@
-Corynella flavoviridis (P. Crouan & H. Crouan) Boud. SPECIES
-=======
+# Corynella flavoviridis (P. Crouan & H. Crouan) Boud. SPECIES
 
 #### Status
 ACCEPTED

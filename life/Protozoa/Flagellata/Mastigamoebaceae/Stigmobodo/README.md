@@ -1,5 +1,4 @@
-Stigmobodo B. Skvortzov & Noda, 1968 GENUS
-=======
+# Stigmobodo B. Skvortzov & Noda, 1968 GENUS
 
 #### Status
 ACCEPTED

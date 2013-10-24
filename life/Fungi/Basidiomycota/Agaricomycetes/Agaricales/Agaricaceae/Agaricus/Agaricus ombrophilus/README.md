@@ -1,5 +1,4 @@
-Agaricus ombrophilus Weinm. SPECIES
-=======
+# Agaricus ombrophilus Weinm. SPECIES
 
 #### Status
 ACCEPTED

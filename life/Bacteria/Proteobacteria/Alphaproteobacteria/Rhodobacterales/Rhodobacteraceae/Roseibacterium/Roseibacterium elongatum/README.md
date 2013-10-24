@@ -1,5 +1,4 @@
-Roseibacterium elongatum Suzuki et al., 2006 SPECIES
-=======
+# Roseibacterium elongatum Suzuki et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

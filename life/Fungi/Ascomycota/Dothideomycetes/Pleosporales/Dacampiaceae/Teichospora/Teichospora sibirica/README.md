@@ -1,5 +1,4 @@
-Teichospora sibirica Berl. SPECIES
-=======
+# Teichospora sibirica Berl. SPECIES
 
 #### Status
 ACCEPTED

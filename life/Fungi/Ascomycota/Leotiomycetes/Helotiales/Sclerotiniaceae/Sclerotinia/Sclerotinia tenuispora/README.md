@@ -1,5 +1,4 @@
-Sclerotinia tenuispora Velen. SPECIES
-=======
+# Sclerotinia tenuispora Velen. SPECIES
 
 #### Status
 ACCEPTED

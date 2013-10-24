@@ -1,5 +1,4 @@
-Anthostomella coffeicola Saccas SPECIES
-=======
+# Anthostomella coffeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

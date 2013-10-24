@@ -1,5 +1,4 @@
-Microcoleus sanitaecrucis Frémy SPECIES
-=======
+# Microcoleus sanitaecrucis Frémy SPECIES
 
 #### Status
 ACCEPTED

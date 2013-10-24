@@ -1,5 +1,4 @@
-Trypetheliales Lücking, Aptroot & Sipman ORDER
-=======
+# Trypetheliales Lücking, Aptroot & Sipman ORDER
 
 #### Status
 ACCEPTED

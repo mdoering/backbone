@@ -1,5 +1,4 @@
-Phyllerites palaeolauri (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites palaeolauri (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

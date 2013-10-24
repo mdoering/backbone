@@ -1,5 +1,4 @@
-Favolus megaloporus (Mont.) Bres. SPECIES
-=======
+# Favolus megaloporus (Mont.) Bres. SPECIES
 
 #### Status
 ACCEPTED

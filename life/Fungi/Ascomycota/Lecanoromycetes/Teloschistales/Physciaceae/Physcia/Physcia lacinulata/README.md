@@ -1,5 +1,4 @@
-Physcia lacinulata Müll. Arg. SPECIES
-=======
+# Physcia lacinulata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

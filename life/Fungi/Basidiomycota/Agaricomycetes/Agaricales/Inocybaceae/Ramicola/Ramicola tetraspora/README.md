@@ -1,5 +1,4 @@
-Ramicola tetraspora Contu SPECIES
-=======
+# Ramicola tetraspora Contu SPECIES
 
 #### Status
 ACCEPTED

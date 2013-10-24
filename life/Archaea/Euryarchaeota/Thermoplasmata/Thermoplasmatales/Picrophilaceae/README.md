@@ -1,5 +1,4 @@
-Picrophilaceae FAMILY
-=======
+# Picrophilaceae FAMILY
 
 #### Status
 ACCEPTED

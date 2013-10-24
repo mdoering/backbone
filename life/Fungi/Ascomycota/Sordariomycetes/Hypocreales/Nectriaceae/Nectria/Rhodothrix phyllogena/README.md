@@ -1,5 +1,4 @@
-Rhodothrix phyllogena Vain. SPECIES
-=======
+# Rhodothrix phyllogena Vain. SPECIES
 
 #### Status
 ACCEPTED

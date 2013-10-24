@@ -1,5 +1,4 @@
-Tricholoma terraeolens var. terraeolens VARIETY
-=======
+# Tricholoma terraeolens Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma terraeolens var. terraeolens
+Tricholoma terraeolens Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sclerotium denigrans H. Pape, 1943 SPECIES
-=======
+# Sclerotium denigrans H. Pape, 1943 SPECIES
 
 #### Status
 ACCEPTED

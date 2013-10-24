@@ -1,5 +1,4 @@
-Leptoniella subvilis (Peck) Murrill SPECIES
-=======
+# Leptoniella subvilis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

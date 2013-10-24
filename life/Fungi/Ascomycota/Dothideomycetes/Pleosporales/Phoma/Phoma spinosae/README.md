@@ -1,5 +1,4 @@
-Phoma spinosae Syd. SPECIES
-=======
+# Phoma spinosae Syd. SPECIES
 
 #### Status
 ACCEPTED

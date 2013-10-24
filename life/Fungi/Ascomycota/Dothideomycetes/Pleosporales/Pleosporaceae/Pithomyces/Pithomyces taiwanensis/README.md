@@ -1,5 +1,4 @@
-Pithomyces taiwanensis Matsush. SPECIES
-=======
+# Pithomyces taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

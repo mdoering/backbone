@@ -1,5 +1,4 @@
-Rhodopeziza Hohmeyer & J. Moravec GENUS
-=======
+# Rhodopeziza Hohmeyer & J. Moravec GENUS
 
 #### Status
 ACCEPTED

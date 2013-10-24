@@ -1,5 +1,4 @@
-Graphis subtropica M. Nakan. SPECIES
-=======
+# Graphis subtropica M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

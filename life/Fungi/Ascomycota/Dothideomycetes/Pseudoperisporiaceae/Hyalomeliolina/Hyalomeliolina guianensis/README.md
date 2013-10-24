@@ -1,17 +1,16 @@
-Meliolinopsis guianensis (F. Stevens) Petr., 1951 SPECIES
-=======
+# Hyalomeliolina guianensis F. Stevens, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 8: 193 (1923)
 
 #### Original name
-null
+Hyalomeliolina guianensis F. Stevens, 1923
 
 ### Remarks
 null

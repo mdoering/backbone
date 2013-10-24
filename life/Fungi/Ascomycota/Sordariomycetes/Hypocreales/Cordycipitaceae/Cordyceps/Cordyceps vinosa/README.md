@@ -1,5 +1,4 @@
-Cordyceps vinosa Moureau SPECIES
-=======
+# Cordyceps vinosa Moureau SPECIES
 
 #### Status
 ACCEPTED

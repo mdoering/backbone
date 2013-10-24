@@ -1,5 +1,4 @@
-Galerina taimbesinhoensis Singer SPECIES
-=======
+# Galerina taimbesinhoensis Singer SPECIES
 
 #### Status
 ACCEPTED

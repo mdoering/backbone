@@ -1,5 +1,4 @@
-Aphanocapsa tolliana Copeland SPECIES
-=======
+# Aphanocapsa tolliana Copeland SPECIES
 
 #### Status
 ACCEPTED

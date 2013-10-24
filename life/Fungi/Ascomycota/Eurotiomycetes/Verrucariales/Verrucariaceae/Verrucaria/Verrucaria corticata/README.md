@@ -1,5 +1,4 @@
-Verrucaria corticata Anzi SPECIES
-=======
+# Verrucaria corticata Anzi SPECIES
 
 #### Status
 ACCEPTED

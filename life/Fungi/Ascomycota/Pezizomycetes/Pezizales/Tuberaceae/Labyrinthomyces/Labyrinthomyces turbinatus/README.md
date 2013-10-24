@@ -1,5 +1,4 @@
-Labyrinthomyces turbinatus B.C. Zhang & Minter SPECIES
-=======
+# Labyrinthomyces turbinatus B.C. Zhang & Minter SPECIES
 
 #### Status
 ACCEPTED

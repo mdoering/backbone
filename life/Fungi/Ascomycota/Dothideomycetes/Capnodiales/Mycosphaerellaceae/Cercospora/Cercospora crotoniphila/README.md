@@ -1,5 +1,4 @@
-Cercospora crotoniphila var. crotoniphila VARIETY
-=======
+# Cercospora crotoniphila Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boln Acad. nac. Cienc. Córdoba 23: 528 (1919)
 
 #### Original name
-Cercospora crotoniphila var. crotoniphila
+Cercospora crotoniphila Speg.
 
 ### Remarks
 null

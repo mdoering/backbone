@@ -1,5 +1,4 @@
-Sticta kitaibeliana Gyeln. SPECIES
-=======
+# Sticta kitaibeliana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

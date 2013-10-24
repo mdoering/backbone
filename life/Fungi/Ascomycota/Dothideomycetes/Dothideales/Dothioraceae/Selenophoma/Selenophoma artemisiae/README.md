@@ -1,5 +1,4 @@
-Selenophoma artemisiae Kalymb. SPECIES
-=======
+# Selenophoma artemisiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

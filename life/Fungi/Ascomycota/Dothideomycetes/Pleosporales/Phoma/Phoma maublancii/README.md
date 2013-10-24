@@ -1,8 +1,7 @@
-Phoma maublanci Sacc. & Trotter SPECIES
-=======
+# Phoma maublancii Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma maublanci Sacc. & Trotter
+Phoma maublancii Sacc. & Trotter
 
 ### Remarks
 null

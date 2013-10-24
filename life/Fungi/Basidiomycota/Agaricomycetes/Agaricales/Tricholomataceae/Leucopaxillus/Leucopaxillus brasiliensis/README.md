@@ -1,5 +1,4 @@
-Leucopaxillus brasiliensis (Rick) Singer & A.H. Sm. SPECIES
-=======
+# Leucopaxillus brasiliensis (Rick) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

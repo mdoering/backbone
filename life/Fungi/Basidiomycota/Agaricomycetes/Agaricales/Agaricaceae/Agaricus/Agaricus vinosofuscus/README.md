@@ -1,5 +1,4 @@
-Agaricus vinosofuscus Berk. & Broome SPECIES
-=======
+# Agaricus vinosofuscus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camposporium foliicola Bacc. SPECIES
-=======
+# Camposporium foliicola Bacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia scabrida Jatta SPECIES
-=======
+# Polyblastia scabrida Jatta SPECIES
 
 #### Status
 ACCEPTED

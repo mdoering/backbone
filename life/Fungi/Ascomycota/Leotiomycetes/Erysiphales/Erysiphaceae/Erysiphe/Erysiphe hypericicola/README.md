@@ -1,5 +1,4 @@
-Erysiphe hypericicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe hypericicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

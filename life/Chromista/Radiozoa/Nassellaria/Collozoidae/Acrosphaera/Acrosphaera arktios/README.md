@@ -1,5 +1,4 @@
-Acrosphaera arktios (Nigrini, 1970) SPECIES
-=======
+# Acrosphaera arktios (Nigrini, 1970) SPECIES
 
 #### Status
 ACCEPTED

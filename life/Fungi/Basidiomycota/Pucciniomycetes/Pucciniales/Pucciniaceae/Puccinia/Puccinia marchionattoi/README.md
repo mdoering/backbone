@@ -1,5 +1,4 @@
-Puccinia marchionattoi J.C. Lindq. SPECIES
-=======
+# Puccinia marchionattoi J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

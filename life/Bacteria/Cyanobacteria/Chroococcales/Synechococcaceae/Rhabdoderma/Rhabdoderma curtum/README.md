@@ -1,5 +1,4 @@
-Rhabdoderma curtum (Setchell) Komárek & Anagnostidis SPECIES
-=======
+# Rhabdoderma curtum (Setchell) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

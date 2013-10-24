@@ -1,5 +1,4 @@
-Erysiphe golovinii (Domashova) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe golovinii (Domashova) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

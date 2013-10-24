@@ -1,5 +1,4 @@
-Graphis rugosula Kremp. SPECIES
-=======
+# Graphis rugosula Kremp. SPECIES
 
 #### Status
 ACCEPTED

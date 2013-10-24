@@ -1,5 +1,4 @@
-Theoconus Haeckel, 1887 GENUS
-=======
+# Theoconus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

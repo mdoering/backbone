@@ -1,5 +1,4 @@
-Pertusaria lepida Müll. Arg. SPECIES
-=======
+# Pertusaria lepida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

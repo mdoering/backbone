@@ -1,5 +1,4 @@
-Priceomyces medius (Boidin, Pignal, Lehodey, Vey & Abadie) M. Suzuki & Kurtzman, 2010 SPECIES
-=======
+# Priceomyces medius (Boidin, Pignal, Lehodey, Vey & Abadie) M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
 ACCEPTED

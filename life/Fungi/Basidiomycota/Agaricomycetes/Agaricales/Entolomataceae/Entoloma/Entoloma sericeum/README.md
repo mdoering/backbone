@@ -1,17 +1,16 @@
-Rhodophyllus sericeus subsp. sericeus SUBSPECIES
-=======
+# Entoloma sericeum (Bull. Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rhodophyllus sericeus subsp. sericeus
+null
 
 ### Remarks
 null

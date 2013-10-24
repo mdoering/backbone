@@ -1,5 +1,4 @@
-Schmidita Fuchs, 1968 GENUS
-=======
+# Schmidita Fuchs, 1968 GENUS
 
 #### Status
 ACCEPTED

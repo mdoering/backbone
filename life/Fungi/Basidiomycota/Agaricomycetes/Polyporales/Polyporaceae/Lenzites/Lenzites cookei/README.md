@@ -1,5 +1,4 @@
-Lenzites cookei Berk. SPECIES
-=======
+# Lenzites cookei Berk. SPECIES
 
 #### Status
 ACCEPTED

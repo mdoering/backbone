@@ -1,5 +1,4 @@
-Asterina alsophilae Cooke & Massee SPECIES
-=======
+# Asterina alsophilae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

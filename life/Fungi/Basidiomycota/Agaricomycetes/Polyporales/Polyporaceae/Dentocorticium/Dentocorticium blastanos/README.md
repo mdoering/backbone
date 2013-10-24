@@ -1,17 +1,16 @@
-Dentocorticium blastonos Boidin & Gilles SPECIES
-=======
+# Dentocorticium blastanos Boidin & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 19(3): 193 (1998)
 
 #### Original name
-Dentocorticium blastonos Boidin & Gilles
+Dentocorticium blastanos Boidin & Gilles
 
 ### Remarks
 null

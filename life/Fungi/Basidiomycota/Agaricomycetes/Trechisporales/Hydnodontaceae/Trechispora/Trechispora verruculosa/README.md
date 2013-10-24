@@ -1,14 +1,13 @@
-Odontia verruculosa G. Cunn., 1959 SPECIES
-=======
+# Trechispora verruculosa (G. Cunn.) K.H. Larss., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1-2): 80 (1959)
+Nordic Jl Bot. 16(1): 98 (1996)
 
 #### Original name
 Odontia verruculosa G. Cunn., 1959

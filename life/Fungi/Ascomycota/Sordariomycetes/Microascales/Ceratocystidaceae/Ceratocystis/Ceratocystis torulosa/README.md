@@ -1,5 +1,4 @@
-Ceratocystis torulosa Butin & G. Zimm. SPECIES
-=======
+# Ceratocystis torulosa Butin & G. Zimm. SPECIES
 
 #### Status
 ACCEPTED

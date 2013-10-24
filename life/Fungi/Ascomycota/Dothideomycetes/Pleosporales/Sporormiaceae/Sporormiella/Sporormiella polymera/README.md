@@ -1,5 +1,4 @@
-Sporormiella polymera (Cain) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella polymera (Cain) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

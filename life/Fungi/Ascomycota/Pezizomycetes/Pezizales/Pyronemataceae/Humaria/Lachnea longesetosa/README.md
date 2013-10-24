@@ -1,5 +1,4 @@
-Lachnea longesetosa Velen. SPECIES
-=======
+# Lachnea longesetosa Velen. SPECIES
 
 #### Status
 ACCEPTED

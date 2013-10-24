@@ -1,5 +1,4 @@
-Melanotheca rubromaculata (Vain.) Zahlbr. SPECIES
-=======
+# Melanotheca rubromaculata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

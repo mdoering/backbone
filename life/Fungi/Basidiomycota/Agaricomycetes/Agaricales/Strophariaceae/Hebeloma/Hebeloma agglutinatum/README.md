@@ -1,5 +1,4 @@
-Hebeloma agglutinatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma agglutinatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

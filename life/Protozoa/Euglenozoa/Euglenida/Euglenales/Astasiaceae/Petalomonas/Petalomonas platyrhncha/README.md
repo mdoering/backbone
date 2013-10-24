@@ -1,5 +1,4 @@
-Petalomonas platyrhncha Skuja SPECIES
-=======
+# Petalomonas platyrhncha Skuja SPECIES
 
 #### Status
 ACCEPTED

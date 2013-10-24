@@ -1,5 +1,4 @@
-Lichen alboflavescens Wulfen SPECIES
-=======
+# Lichen alboflavescens Wulfen SPECIES
 
 #### Status
 ACCEPTED

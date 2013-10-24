@@ -1,5 +1,4 @@
-Pleospora piptochaetii Speg. SPECIES
-=======
+# Pleospora piptochaetii Speg. SPECIES
 
 #### Status
 ACCEPTED

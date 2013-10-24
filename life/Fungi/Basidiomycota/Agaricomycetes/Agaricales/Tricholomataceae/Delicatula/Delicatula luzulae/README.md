@@ -1,5 +1,4 @@
-Delicatula luzulae Velen. SPECIES
-=======
+# Delicatula luzulae Velen. SPECIES
 
 #### Status
 ACCEPTED

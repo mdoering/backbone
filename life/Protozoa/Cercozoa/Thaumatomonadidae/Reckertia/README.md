@@ -1,5 +1,4 @@
-Reckertia Conrad, 1920 GENUS
-=======
+# Reckertia Conrad, 1920 GENUS
 
 #### Status
 ACCEPTED

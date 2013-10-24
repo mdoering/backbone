@@ -1,5 +1,4 @@
-Ascochytella thymi Petr. SPECIES
-=======
+# Ascochytella thymi Petr. SPECIES
 
 #### Status
 ACCEPTED

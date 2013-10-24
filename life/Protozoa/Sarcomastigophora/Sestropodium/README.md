@@ -1,5 +1,4 @@
-Sestropodium Haeckel, 1881 GENUS
-=======
+# Sestropodium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

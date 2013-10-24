@@ -1,5 +1,4 @@
-Pseudodiscosia laricis Sawada SPECIES
-=======
+# Pseudodiscosia laricis Sawada SPECIES
 
 #### Status
 ACCEPTED

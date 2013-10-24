@@ -1,5 +1,4 @@
-Spinomersinella Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Spinomersinella Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tsukamurella Collins, Smida, Dorsch & Stackebrandt, 1988 GENUS
-=======
+# Tsukamurella Collins, Smida, Dorsch & Stackebrandt, 1988 GENUS
 
 #### Status
 ACCEPTED

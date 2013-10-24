@@ -1,5 +1,4 @@
-Dyocibicides laevis Parr, 1950 SPECIES
-=======
+# Dyocibicides laevis Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

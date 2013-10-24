@@ -1,5 +1,4 @@
-Corticium insidiosum Pass. SPECIES
-=======
+# Corticium insidiosum Pass. SPECIES
 
 #### Status
 ACCEPTED

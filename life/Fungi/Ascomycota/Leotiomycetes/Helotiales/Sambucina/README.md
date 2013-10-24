@@ -1,5 +1,4 @@
-Sambucina Velen. GENUS
-=======
+# Sambucina Velen. GENUS
 
 #### Status
 ACCEPTED

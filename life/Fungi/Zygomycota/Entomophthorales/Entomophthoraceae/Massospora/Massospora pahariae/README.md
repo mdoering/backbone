@@ -1,5 +1,4 @@
-Massospora pahariae R.S. Soper, 1981 SPECIES
-=======
+# Massospora pahariae R.S. Soper, 1981 SPECIES
 
 #### Status
 ACCEPTED

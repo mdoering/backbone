@@ -1,5 +1,4 @@
-Rhizopogon burlinghamii A.H. Sm. SPECIES
-=======
+# Rhizopogon burlinghamii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

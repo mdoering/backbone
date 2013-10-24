@@ -1,5 +1,4 @@
-Mesopatellina McCulloch, 1977 GENUS
-=======
+# Mesopatellina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

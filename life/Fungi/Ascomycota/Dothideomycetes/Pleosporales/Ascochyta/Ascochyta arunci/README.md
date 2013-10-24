@@ -1,5 +1,4 @@
-Ascochyta arunci Sacc. SPECIES
-=======
+# Ascochyta arunci Sacc. SPECIES
 
 #### Status
 ACCEPTED

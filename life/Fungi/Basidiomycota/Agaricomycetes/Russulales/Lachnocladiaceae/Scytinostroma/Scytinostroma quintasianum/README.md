@@ -1,5 +1,4 @@
-Scytinostroma quintasianum (Bres. & Roum.) Nakasone SPECIES
-=======
+# Scytinostroma quintasianum (Bres. & Roum.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

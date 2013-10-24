@@ -1,5 +1,4 @@
-Hypoxylon parasiticum Ellis & Everh. SPECIES
-=======
+# Hypoxylon parasiticum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovorticella difficilis (Kahl, 1933) Jankowski, 1976 SPECIES
-=======
+# Pseudovorticella difficilis (Kahl, 1933) Jankowski, 1976 SPECIES
 
 #### Status
 ACCEPTED

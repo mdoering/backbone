@@ -1,5 +1,4 @@
-Erineum quercinum Kunze SPECIES
-=======
+# Erineum quercinum Kunze SPECIES
 
 #### Status
 ACCEPTED

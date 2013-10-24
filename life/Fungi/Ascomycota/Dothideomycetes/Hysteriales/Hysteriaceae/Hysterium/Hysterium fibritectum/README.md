@@ -1,5 +1,4 @@
-Hysterium fibritectum Schwein. SPECIES
-=======
+# Hysterium fibritectum Schwein. SPECIES
 
 #### Status
 ACCEPTED

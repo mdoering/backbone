@@ -1,5 +1,4 @@
-Dentalina legumen var. spirans Cushman, 1931 VARIETY
-=======
+# Dentalina legumen (Reuss) SPECIES
 
 #### Status
 ACCEPTED

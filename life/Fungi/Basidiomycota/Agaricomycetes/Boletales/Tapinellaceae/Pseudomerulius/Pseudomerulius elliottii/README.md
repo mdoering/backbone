@@ -1,14 +1,13 @@
-Serpula elliottii (Massee) Zmitr., 2001 SPECIES
-=======
+# Pseudomerulius elliottii (Massee) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 35: 82 (2001)
+Persoonia 10(3): 330 (1979)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Calceomyces Udagawa & S. Ueda GENUS
-=======
+# Calceomyces Udagawa & S. Ueda GENUS
 
 #### Status
 ACCEPTED

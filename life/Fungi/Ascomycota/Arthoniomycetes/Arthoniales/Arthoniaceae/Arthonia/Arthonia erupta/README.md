@@ -1,5 +1,4 @@
-Arthonia erupta Nyl. SPECIES
-=======
+# Arthonia erupta Nyl. SPECIES
 
 #### Status
 ACCEPTED

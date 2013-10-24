@@ -1,5 +1,4 @@
-Prorocentrum faustiae S.L. Morton SPECIES
-=======
+# Prorocentrum faustiae S.L. Morton SPECIES
 
 #### Status
 ACCEPTED

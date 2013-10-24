@@ -1,5 +1,4 @@
-Stephanoeca pyxidoides Leadbeater, 1980 SPECIES
-=======
+# Stephanoeca pyxidoides Leadbeater, 1980 SPECIES
 
 #### Status
 ACCEPTED

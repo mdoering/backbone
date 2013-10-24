@@ -1,5 +1,4 @@
-Cytospora subcorticalis Died. SPECIES
-=======
+# Cytospora subcorticalis Died. SPECIES
 
 #### Status
 ACCEPTED

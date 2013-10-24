@@ -1,5 +1,4 @@
-Hypophyllum virescens Paulet SPECIES
-=======
+# Hypophyllum virescens Paulet SPECIES
 
 #### Status
 ACCEPTED

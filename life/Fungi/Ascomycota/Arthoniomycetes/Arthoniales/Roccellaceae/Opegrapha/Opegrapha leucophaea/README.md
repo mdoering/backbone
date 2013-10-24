@@ -1,5 +1,4 @@
-Opegrapha leucophaea Chevall. SPECIES
-=======
+# Opegrapha leucophaea Chevall. SPECIES
 
 #### Status
 ACCEPTED

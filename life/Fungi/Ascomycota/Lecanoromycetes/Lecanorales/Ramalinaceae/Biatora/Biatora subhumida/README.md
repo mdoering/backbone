@@ -1,5 +1,4 @@
-Biatora subhumida (Vain.) Räsänen SPECIES
-=======
+# Biatora subhumida (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

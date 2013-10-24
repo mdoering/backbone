@@ -1,5 +1,4 @@
-Buellia lecanoroides H. Magn. SPECIES
-=======
+# Buellia lecanoroides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutintinnus conicus Skryabin & Al-Yamani, 2006 SPECIES
-=======
+# Eutintinnus conicus Skryabin & Al-Yamani, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella phyllachoroidea Sacc. SPECIES
-=======
+# Tremella phyllachoroidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

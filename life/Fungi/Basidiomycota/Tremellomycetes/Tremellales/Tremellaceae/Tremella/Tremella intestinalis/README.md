@@ -1,5 +1,4 @@
-Tremella intestinalis J.F. Gmel. SPECIES
-=======
+# Tremella intestinalis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

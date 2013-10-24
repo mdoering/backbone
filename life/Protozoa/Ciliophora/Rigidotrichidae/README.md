@@ -1,5 +1,4 @@
-Rigidotrichidae Foissner & Stoeck, 2006 FAMILY
-=======
+# Rigidotrichidae Foissner & Stoeck, 2006 FAMILY
 
 #### Status
 ACCEPTED

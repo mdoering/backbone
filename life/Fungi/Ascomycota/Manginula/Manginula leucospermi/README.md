@@ -1,5 +1,4 @@
-Manginula leucospermi Bat. & H. Maia SPECIES
-=======
+# Manginula leucospermi Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

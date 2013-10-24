@@ -1,5 +1,4 @@
-Elphidium argenteum Parr, 1945 SPECIES
-=======
+# Elphidium argenteum Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

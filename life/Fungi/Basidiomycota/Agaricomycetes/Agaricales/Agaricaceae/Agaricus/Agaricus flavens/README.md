@@ -1,5 +1,4 @@
-Agaricus flavens Batsch SPECIES
-=======
+# Agaricus flavens Batsch SPECIES
 
 #### Status
 ACCEPTED

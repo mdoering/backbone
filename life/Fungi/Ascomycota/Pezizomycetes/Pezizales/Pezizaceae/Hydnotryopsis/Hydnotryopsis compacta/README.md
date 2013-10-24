@@ -1,5 +1,4 @@
-Hydnotryopsis compacta (Gilkey) Trappe SPECIES
-=======
+# Hydnotryopsis compacta (Gilkey) Trappe SPECIES
 
 #### Status
 ACCEPTED

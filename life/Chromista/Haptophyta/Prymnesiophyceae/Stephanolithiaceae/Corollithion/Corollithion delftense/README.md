@@ -1,5 +1,4 @@
-Corollithion delftense (H. Stradner & D. Adamiker) S.W. Wise SPECIES
-=======
+# Corollithion delftense (H. Stradner & D. Adamiker) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

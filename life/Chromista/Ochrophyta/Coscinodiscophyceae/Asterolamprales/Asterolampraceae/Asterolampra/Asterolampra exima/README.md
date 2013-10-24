@@ -1,5 +1,4 @@
-Asterolampra exima Greville, 1859 SPECIES
-=======
+# Asterolampra exima Greville, 1859 SPECIES
 
 #### Status
 ACCEPTED

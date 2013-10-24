@@ -1,5 +1,4 @@
-Haliphthoraceae Vishniac FAMILY
-=======
+# Haliphthoraceae Vishniac FAMILY
 
 #### Status
 ACCEPTED

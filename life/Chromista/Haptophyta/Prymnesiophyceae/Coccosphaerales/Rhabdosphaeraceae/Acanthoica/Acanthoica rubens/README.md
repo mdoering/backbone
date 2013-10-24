@@ -1,5 +1,4 @@
-Acanthoica rubens Kamptner SPECIES
-=======
+# Acanthoica rubens Kamptner SPECIES
 
 #### Status
 ACCEPTED

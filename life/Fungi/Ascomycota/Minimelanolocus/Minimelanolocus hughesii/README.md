@@ -1,14 +1,13 @@
-Pseudospiropes hughesii M.B. Ellis, 1976 SPECIES
-=======
+# Minimelanolocus hughesii (M.B. Ellis) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 222 (1976)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 9 (2001)
 
 #### Original name
 Pseudospiropes hughesii M.B. Ellis, 1976

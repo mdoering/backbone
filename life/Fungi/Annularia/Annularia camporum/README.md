@@ -1,5 +1,4 @@
-Annularia camporum Speg. SPECIES
-=======
+# Annularia camporum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe cylindrocystis G.F. Atk. SPECIES
-=======
+# Inocybe cylindrocystis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

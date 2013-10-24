@@ -1,5 +1,4 @@
-Ganoderma trulla Steyaert, 1972 SPECIES
-=======
+# Ganoderma trulla Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

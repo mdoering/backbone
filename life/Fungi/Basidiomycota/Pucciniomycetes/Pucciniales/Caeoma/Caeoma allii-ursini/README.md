@@ -1,5 +1,4 @@
-Caeoma allii-ursini G. Winter SPECIES
-=======
+# Caeoma allii-ursini G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aplosporella mangiferae (Died.) Petr. & Syd., 1927 SPECIES
-=======
+# Cytosphaera mangiferae Died., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 102 (1927)
+in Sydow, Sydow & Butler, Annls mycol. 14(3/4): 205 (1916)
 
 #### Original name
 Cytosphaera mangiferae Died., 1916

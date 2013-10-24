@@ -1,5 +1,4 @@
-Stereocaulon detergens Nyl. SPECIES
-=======
+# Stereocaulon detergens Nyl. SPECIES
 
 #### Status
 ACCEPTED

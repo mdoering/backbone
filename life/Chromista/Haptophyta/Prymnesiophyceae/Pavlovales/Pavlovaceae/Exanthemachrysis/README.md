@@ -1,5 +1,4 @@
-Exanthemachrysis H.Lepailleur, 1970 GENUS
-=======
+# Exanthemachrysis H.Lepailleur, 1970 GENUS
 
 #### Status
 ACCEPTED

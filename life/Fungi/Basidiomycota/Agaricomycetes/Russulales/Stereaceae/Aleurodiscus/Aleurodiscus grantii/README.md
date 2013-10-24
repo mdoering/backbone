@@ -1,5 +1,4 @@
-Aleurodiscus grantii Lloyd, 1920 SPECIES
-=======
+# Aleurodiscus grantii Lloyd, 1920 SPECIES
 
 #### Status
 ACCEPTED

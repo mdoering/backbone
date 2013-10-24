@@ -1,5 +1,4 @@
-Pavillardinium splendidum Rampi SPECIES
-=======
+# Pavillardinium splendidum Rampi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pichia juratensis Guyot SPECIES
-=======
+# Pichia juratensis Guyot SPECIES
 
 #### Status
 ACCEPTED

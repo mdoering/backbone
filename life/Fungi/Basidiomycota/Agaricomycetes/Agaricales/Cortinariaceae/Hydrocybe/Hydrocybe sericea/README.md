@@ -1,5 +1,4 @@
-Hydrocybe sericea Velen. SPECIES
-=======
+# Hydrocybe sericea Velen. SPECIES
 
 #### Status
 ACCEPTED

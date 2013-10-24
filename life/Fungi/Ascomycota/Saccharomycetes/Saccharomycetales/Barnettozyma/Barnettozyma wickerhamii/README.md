@@ -1,17 +1,16 @@
-Arthroascus wickerhamii (Van der Walt) Kock.-Krat., 1990 SPECIES
-=======
+# Barnettozyma wickerhamii (Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 948 (2008)
 
 #### Original name
-null
+Endomycopsis wickerhamii Van der Walt, 1959
 
 ### Remarks
 null

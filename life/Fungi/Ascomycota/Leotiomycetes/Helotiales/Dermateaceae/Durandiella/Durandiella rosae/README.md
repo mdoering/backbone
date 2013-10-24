@@ -1,5 +1,4 @@
-Durandiella rosae (Schwein.) J.W. Groves SPECIES
-=======
+# Durandiella rosae (Schwein.) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

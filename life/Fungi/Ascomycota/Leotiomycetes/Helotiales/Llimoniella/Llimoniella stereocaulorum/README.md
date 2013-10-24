@@ -1,5 +1,4 @@
-Llimoniella stereocaulorum (Alstrup & D. Hawksw.) Hafellner SPECIES
-=======
+# Llimoniella stereocaulorum (Alstrup & D. Hawksw.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

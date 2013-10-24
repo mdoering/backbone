@@ -1,5 +1,4 @@
-Dactylaria leptosphaeriicola U. Braun & Crous SPECIES
-=======
+# Dactylaria leptosphaeriicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

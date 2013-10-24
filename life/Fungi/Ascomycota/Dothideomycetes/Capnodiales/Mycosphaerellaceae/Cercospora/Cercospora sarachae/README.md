@@ -1,5 +1,4 @@
-Cercospora sarachae (Syd.) Chupp SPECIES
-=======
+# Cercospora sarachae (Syd.) Chupp SPECIES
 
 #### Status
 ACCEPTED

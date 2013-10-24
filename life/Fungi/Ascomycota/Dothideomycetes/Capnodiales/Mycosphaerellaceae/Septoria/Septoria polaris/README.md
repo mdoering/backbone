@@ -1,17 +1,16 @@
-Septoria polaris var. polaris VARIETY
-=======
+# Septoria polaris P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 23: 38 (1884)
 
 #### Original name
-Septoria polaris var. polaris
+Septoria polaris P. Karst., 1884
 
 ### Remarks
 null

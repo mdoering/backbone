@@ -1,5 +1,4 @@
-Hemibaltisphaeridium F.H. Cramer, 1970 GENUS
-=======
+# Hemibaltisphaeridium F.H. Cramer, 1970 GENUS
 
 #### Status
 ACCEPTED

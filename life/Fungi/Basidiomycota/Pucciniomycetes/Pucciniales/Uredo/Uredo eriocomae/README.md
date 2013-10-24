@@ -1,5 +1,4 @@
-Uredo eriocomae Ellis SPECIES
-=======
+# Uredo eriocomae Ellis SPECIES
 
 #### Status
 ACCEPTED

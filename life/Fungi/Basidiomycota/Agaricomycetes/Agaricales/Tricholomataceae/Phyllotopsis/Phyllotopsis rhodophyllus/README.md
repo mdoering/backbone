@@ -1,14 +1,13 @@
-Clitopilus rhodophyllus (Bres.) Singer, 1962 SPECIES
-=======
+# Phyllotopsis rhodophyllus (Bres.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15(1-6): 80 (1962)
+Beih. bot. Zbl. 56: 143 (1936)
 
 #### Original name
 Pleurotus rhodophyllus Bres., 1905

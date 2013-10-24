@@ -1,5 +1,4 @@
-Morchella tibetica M. Zang SPECIES
-=======
+# Morchella tibetica M. Zang SPECIES
 
 #### Status
 ACCEPTED

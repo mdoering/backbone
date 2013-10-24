@@ -1,8 +1,7 @@
-Thelidium gyelniki Servít SPECIES
-=======
+# Thelidium gyelnikii Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium gyelniki Servít
+Thelidium gyelnikii Servít
 
 ### Remarks
 null

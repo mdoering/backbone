@@ -1,5 +1,4 @@
-Scolicosporium typhae Höhn. SPECIES
-=======
+# Scolicosporium typhae Höhn. SPECIES
 
 #### Status
 ACCEPTED

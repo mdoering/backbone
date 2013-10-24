@@ -1,17 +1,16 @@
-Usnea wirthii P. Clerc SPECIES
-=======
+# Usnea flavocardia Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Saussurea 15: 34 (1984)
+Revta Univ. (Santiago) 21: 139 (1936)
 
 #### Original name
-Usnea wirthii P. Clerc
+Usnea flavocardia Räsänen
 
 ### Remarks
 null

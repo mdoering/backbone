@@ -1,5 +1,4 @@
-Lecanora balotonica Gyeln. SPECIES
-=======
+# Lecanora balotonica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

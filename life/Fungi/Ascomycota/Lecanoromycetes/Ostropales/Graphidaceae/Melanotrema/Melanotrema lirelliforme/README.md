@@ -1,14 +1,13 @@
-Rhabdodiscus lirelliformis (Tuck.) Vain. SPECIES
-=======
+# Melanotrema lirelliforme (Tuck.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 184 (1921)
+in Frisch & Kalb, Biblthca Lichenol. 92: 390 (2006)
 
 #### Original name
 Thelotrema lirelliforme Tuck.

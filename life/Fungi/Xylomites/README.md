@@ -1,8 +1,7 @@
-Xylomides Schimp. GENUS
-=======
+# Xylomites Unger GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylomides Schimp.
+Xylomites Unger
 
 ### Remarks
 null

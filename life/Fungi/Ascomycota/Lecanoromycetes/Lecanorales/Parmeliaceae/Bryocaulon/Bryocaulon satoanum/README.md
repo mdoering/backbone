@@ -1,14 +1,13 @@
-Cornicularia divergens var. satoana (Gyeln.) Zahlbr. VARIETY
-=======
+# Bryocaulon satoanum (Gyeln.) Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 86: 31 (1986)
 
 #### Original name
 Alectoria satoana Gyeln.

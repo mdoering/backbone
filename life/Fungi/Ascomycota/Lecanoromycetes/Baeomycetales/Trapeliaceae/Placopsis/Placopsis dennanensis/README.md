@@ -1,5 +1,4 @@
-Placopsis dennanensis (Zahlbr.) I.M. Lamb ex D.J. Galloway SPECIES
-=======
+# Placopsis dennanensis (Zahlbr.) I.M. Lamb ex D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

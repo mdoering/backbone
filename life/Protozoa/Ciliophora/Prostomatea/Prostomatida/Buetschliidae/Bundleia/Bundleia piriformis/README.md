@@ -1,5 +1,4 @@
-Bundleia piriformis Strelkow, 1939 SPECIES
-=======
+# Bundleia piriformis Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

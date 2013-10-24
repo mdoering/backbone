@@ -1,5 +1,4 @@
-Recurvoidatus Saidova, 1970 GENUS
-=======
+# Recurvoidatus Saidova, 1970 GENUS
 
 #### Status
 ACCEPTED

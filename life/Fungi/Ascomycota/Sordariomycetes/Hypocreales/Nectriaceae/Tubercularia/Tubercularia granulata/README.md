@@ -1,5 +1,4 @@
-Tubercularia granulata Pers. SPECIES
-=======
+# Tubercularia granulata Pers. SPECIES
 
 #### Status
 ACCEPTED

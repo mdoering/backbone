@@ -1,5 +1,4 @@
-Uredo balsamitae F. Strauss SPECIES
-=======
+# Uredo balsamitae F. Strauss SPECIES
 
 #### Status
 ACCEPTED

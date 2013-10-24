@@ -1,5 +1,4 @@
-Sporobuliminella Stone, 1948 GENUS
-=======
+# Sporobuliminella Stone, 1948 GENUS
 
 #### Status
 ACCEPTED

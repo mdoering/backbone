@@ -1,5 +1,4 @@
-Parafurgasonia foissneri SPECIES
-=======
+# Parafurgasonia foissneri SPECIES
 
 #### Status
 ACCEPTED

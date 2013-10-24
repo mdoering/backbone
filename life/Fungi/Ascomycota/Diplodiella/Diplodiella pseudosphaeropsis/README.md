@@ -1,5 +1,4 @@
-Diplodiella pseudosphaeropsis Maire SPECIES
-=======
+# Diplodiella pseudosphaeropsis Maire SPECIES
 
 #### Status
 ACCEPTED

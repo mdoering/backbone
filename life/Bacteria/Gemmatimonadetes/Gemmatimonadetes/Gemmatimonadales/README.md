@@ -1,5 +1,4 @@
-Gemmatimonadales ORDER
-=======
+# Gemmatimonadales ORDER
 
 #### Status
 ACCEPTED

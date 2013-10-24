@@ -1,5 +1,4 @@
-Fellhanera vulgaris (Malme) Lücking SPECIES
-=======
+# Fellhanera vulgaris (Malme) Lücking SPECIES
 
 #### Status
 ACCEPTED

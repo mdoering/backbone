@@ -1,5 +1,4 @@
-Buellia micraspis SPECIES
-=======
+# Buellia micraspis SPECIES
 
 #### Status
 ACCEPTED

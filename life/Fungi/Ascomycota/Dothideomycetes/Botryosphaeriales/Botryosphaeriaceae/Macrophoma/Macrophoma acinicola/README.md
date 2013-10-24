@@ -1,5 +1,4 @@
-Macrophoma acinicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Macrophoma acinicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

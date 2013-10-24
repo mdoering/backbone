@@ -1,5 +1,4 @@
-Stereocaulon coralligerum G. Mey. SPECIES
-=======
+# Stereocaulon coralligerum G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium duvernayensis Staplin, 1961 SPECIES
-=======
+# Micrhystridium duvernayensis Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichiocampus irregularis Npv SPECIES
-=======
+# Trichiocampus irregularis Npv SPECIES
 
 #### Status
 ACCEPTED

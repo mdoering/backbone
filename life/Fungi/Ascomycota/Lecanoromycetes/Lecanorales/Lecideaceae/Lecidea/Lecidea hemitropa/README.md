@@ -1,5 +1,4 @@
-Lecidea hemitropa Nyl. SPECIES
-=======
+# Lecidea hemitropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

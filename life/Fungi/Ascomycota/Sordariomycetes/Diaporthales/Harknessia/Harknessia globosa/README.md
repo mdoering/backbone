@@ -1,5 +1,4 @@
-Harknessia globosa B. Sutton, 1971 SPECIES
-=======
+# Harknessia globosa B. Sutton, 1971 SPECIES
 
 #### Status
 ACCEPTED

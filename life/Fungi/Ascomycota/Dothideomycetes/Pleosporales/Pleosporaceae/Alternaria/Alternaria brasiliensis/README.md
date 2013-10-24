@@ -1,5 +1,4 @@
-Alternaria brasiliensis F.M. Queiroz, M.F.S. Muniz & M. Menezes SPECIES
-=======
+# Alternaria brasiliensis F.M. Queiroz, M.F.S. Muniz & M. Menezes SPECIES
 
 #### Status
 ACCEPTED

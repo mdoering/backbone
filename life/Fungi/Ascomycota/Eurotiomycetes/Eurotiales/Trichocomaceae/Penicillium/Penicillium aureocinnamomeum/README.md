@@ -1,5 +1,4 @@
-Penicillium aureocinnamomeum Biourge SPECIES
-=======
+# Penicillium aureocinnamomeum Biourge SPECIES
 
 #### Status
 ACCEPTED

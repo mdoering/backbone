@@ -1,5 +1,4 @@
-Miniacina alba (Carter, 1877) SPECIES
-=======
+# Miniacina alba (Carter, 1877) SPECIES
 
 #### Status
 ACCEPTED

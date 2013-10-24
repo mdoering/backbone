@@ -1,5 +1,4 @@
-Nocardioides dubius Yoon et al., 2005 SPECIES
-=======
+# Nocardioides dubius Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

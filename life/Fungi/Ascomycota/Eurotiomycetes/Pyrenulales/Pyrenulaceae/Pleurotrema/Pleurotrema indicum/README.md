@@ -1,5 +1,4 @@
-Pleurotrema indicum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema indicum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium constrictum Meng Zhang, T.Y. Zhang & W.P. Wu SPECIES
-=======
+# Helminthosporium constrictum Meng Zhang, T.Y. Zhang & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

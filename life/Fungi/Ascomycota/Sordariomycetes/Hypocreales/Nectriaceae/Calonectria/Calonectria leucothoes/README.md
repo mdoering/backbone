@@ -1,5 +1,4 @@
-Calonectria leucothoes (El-Gholl, Leahy & T.S. Schub.) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria leucothoes (El-Gholl, Leahy & T.S. Schub.) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysochromulina pseudolanceolata Puigserver, Chretiennot-Dinet & Nezan, 2003 SPECIES
-=======
+# Chrysochromulina pseudolanceolata Puigserver, Chretiennot-Dinet & Nezan, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Persiciospora africana J.C. Krug, 1988 SPECIES
-=======
+# Persiciospora africana J.C. Krug, 1988 SPECIES
 
 #### Status
 ACCEPTED

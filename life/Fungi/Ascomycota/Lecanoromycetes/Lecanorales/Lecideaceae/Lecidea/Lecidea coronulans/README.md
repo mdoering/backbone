@@ -1,5 +1,4 @@
-Lecidea coronulans (Nyl.) Vain. SPECIES
-=======
+# Lecidea coronulans (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

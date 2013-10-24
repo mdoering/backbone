@@ -1,5 +1,4 @@
-Tilletia majuscula R.G. Shivas & McTaggart SPECIES
-=======
+# Tilletia majuscula R.G. Shivas & McTaggart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Spadicoides binum (Corda) S. Hughes SPECIES
-=======
+# Spadicoides bina (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 806 (1958)
 
 #### Original name
 Helminthosporium binum Corda, 1854

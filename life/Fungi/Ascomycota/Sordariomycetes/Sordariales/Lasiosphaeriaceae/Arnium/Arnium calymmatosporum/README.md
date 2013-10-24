@@ -1,5 +1,4 @@
-Arnium calymmatosporum Jeng & J.C. Krug SPECIES
-=======
+# Arnium calymmatosporum Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

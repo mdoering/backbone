@@ -1,5 +1,4 @@
-Dictyococcites danicus Black, 1967 SPECIES
-=======
+# Dictyococcites danicus Black, 1967 SPECIES
 
 #### Status
 ACCEPTED

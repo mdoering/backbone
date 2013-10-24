@@ -1,5 +1,4 @@
-Hormactis GENUS
-=======
+# Hormactis GENUS
 
 #### Status
 ACCEPTED

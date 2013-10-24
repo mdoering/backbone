@@ -1,5 +1,4 @@
-Thiomicrospira psychrophila Knittel et al., 2005 SPECIES
-=======
+# Thiomicrospira psychrophila Knittel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

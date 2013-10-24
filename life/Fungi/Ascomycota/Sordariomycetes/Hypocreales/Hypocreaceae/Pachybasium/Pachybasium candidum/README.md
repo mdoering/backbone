@@ -1,5 +1,4 @@
-Pachybasium candidum var. candidum VARIETY
-=======
+# Pachybasium candidum (Sacc.) Peyronel SPECIES
 
 #### Status
 ACCEPTED

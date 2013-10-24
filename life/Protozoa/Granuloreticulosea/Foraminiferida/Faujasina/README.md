@@ -1,14 +1,13 @@
-Faujassina Terquem, 1882 GENUS
-=======
+# Faujasina d'Orbigny in Sagra, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mém. Soc. Géol. France, (3) 2 (3), 48.
+in Sagra, Cuba (Foram. ), 109.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Hypomyces asclepiadis Zerova SPECIES
-=======
+# Hypomyces asclepiadis Zerova SPECIES
 
 #### Status
 ACCEPTED

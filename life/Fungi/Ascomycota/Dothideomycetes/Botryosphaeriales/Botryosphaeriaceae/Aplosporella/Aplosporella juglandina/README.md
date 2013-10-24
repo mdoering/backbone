@@ -1,5 +1,4 @@
-Aplosporella juglandina Sacc. & P. Syd. SPECIES
-=======
+# Aplosporella juglandina Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

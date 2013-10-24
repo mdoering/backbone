@@ -1,5 +1,4 @@
-Lecania euthallina Riddle SPECIES
-=======
+# Lecania euthallina Riddle SPECIES
 
 #### Status
 ACCEPTED

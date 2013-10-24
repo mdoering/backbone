@@ -1,5 +1,4 @@
-Quadricladium Nawawi & Kuthub. GENUS
-=======
+# Quadricladium Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

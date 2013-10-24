@@ -1,5 +1,4 @@
-Tryblidiella quercina B.G. Desai & V.N. Pathak SPECIES
-=======
+# Tryblidiella quercina B.G. Desai & V.N. Pathak SPECIES
 
 #### Status
 ACCEPTED

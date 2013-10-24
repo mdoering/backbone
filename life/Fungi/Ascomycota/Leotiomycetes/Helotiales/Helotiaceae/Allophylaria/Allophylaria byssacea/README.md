@@ -1,5 +1,4 @@
-Allophylaria byssacea P. Karst. SPECIES
-=======
+# Allophylaria byssacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

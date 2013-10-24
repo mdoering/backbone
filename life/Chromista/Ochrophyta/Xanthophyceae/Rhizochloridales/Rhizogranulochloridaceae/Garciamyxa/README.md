@@ -1,5 +1,4 @@
-Garciamyxa Skvortzov, 1972 GENUS
-=======
+# Garciamyxa Skvortzov, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuligo megaspora Sturgis, 1913 SPECIES
-=======
+# Fuligo megaspora Sturgis, 1913 SPECIES
 
 #### Status
 ACCEPTED

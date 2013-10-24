@@ -1,5 +1,4 @@
-Madurella grisea J.E. Mackinnon, Ferrada & Montem., 1949 SPECIES
-=======
+# Madurella grisea J.E. Mackinnon, Ferrada & Montem., 1949 SPECIES
 
 #### Status
 ACCEPTED

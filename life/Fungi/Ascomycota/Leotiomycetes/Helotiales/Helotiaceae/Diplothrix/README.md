@@ -1,5 +1,4 @@
-Diplothrix GENUS
-=======
+# Diplothrix GENUS
 
 #### Status
 ACCEPTED

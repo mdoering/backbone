@@ -1,5 +1,4 @@
-Sphaerostilbe microspora Cooke & Massee SPECIES
-=======
+# Sphaerostilbe microspora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

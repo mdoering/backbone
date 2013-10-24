@@ -1,14 +1,13 @@
-Illosporium curreyi (Berk.) Sacc., 1886 SPECIES
-=======
+# Arthroderma curreyi Berk., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 660 (1886)
+Outl. Brit. Fung. (London) 357 (1860)
 
 #### Original name
 Arthroderma curreyi Berk., 1860

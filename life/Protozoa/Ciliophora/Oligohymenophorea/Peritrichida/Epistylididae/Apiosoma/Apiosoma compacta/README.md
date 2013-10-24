@@ -1,5 +1,4 @@
-Apiosoma compacta SPECIES
-=======
+# Apiosoma compacta SPECIES
 
 #### Status
 ACCEPTED

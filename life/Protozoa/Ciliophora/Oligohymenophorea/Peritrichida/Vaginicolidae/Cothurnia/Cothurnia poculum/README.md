@@ -1,5 +1,4 @@
-Cothurnia poculum Kahl, 1933 SPECIES
-=======
+# Cothurnia poculum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium bambusicola Sawada SPECIES
-=======
+# Cercosporidium bambusicola Sawada SPECIES
 
 #### Status
 ACCEPTED

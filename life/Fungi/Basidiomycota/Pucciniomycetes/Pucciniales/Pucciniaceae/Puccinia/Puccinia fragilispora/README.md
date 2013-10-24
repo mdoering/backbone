@@ -1,5 +1,4 @@
-Puccinia fragilispora W.T. Dale SPECIES
-=======
+# Puccinia fragilispora W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pleurasiga minima var. minuta Leadbeater, 1972 VARIETY
-=======
+# Nannoeca minuta (Leadbeater, 1972) Thomsen, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

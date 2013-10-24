@@ -1,5 +1,4 @@
-Entoloma petchii E. Horak SPECIES
-=======
+# Entoloma petchii E. Horak SPECIES
 
 #### Status
 ACCEPTED

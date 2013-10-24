@@ -1,14 +1,13 @@
-Bombyliospora togoënsis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bombyliospora togoensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 56 (1930)
 
 #### Original name
 Patellaria togoensis Müll. Arg.

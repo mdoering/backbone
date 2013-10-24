@@ -1,5 +1,4 @@
-Scutiger holocyaneus (G.F. Atk.) Murrill SPECIES
-=======
+# Scutiger holocyaneus (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

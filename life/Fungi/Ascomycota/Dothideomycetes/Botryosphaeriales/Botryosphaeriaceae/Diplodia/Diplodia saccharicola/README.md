@@ -1,5 +1,4 @@
-Diplodia saccharicola Pavgi & U.P. Singh SPECIES
-=======
+# Diplodia saccharicola Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

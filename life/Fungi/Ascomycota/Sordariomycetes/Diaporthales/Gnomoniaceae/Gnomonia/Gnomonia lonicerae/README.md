@@ -1,5 +1,4 @@
-Gnomonia lonicerae M. Monod SPECIES
-=======
+# Gnomonia lonicerae M. Monod SPECIES
 
 #### Status
 ACCEPTED

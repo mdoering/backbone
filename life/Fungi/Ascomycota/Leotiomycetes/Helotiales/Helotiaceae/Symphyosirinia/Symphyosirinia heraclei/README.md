@@ -1,5 +1,4 @@
-Symphyosirinia heraclei E.A. Ellis, 1980 SPECIES
-=======
+# Symphyosirinia heraclei E.A. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

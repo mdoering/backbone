@@ -1,5 +1,4 @@
-Diplodia artocarpi Sacc. SPECIES
-=======
+# Diplodia artocarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

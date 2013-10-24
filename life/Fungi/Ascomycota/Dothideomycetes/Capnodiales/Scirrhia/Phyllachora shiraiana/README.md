@@ -1,8 +1,7 @@
-Phyllachora arundinariae Orton, 1944 SPECIES
-=======
+# Phyllachora shiraiana P. Syd., 1898 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

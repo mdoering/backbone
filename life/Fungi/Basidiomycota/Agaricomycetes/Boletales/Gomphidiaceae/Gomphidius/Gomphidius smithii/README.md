@@ -1,5 +1,4 @@
-Gomphidius smithii Singer SPECIES
-=======
+# Gomphidius smithii Singer SPECIES
 
 #### Status
 ACCEPTED

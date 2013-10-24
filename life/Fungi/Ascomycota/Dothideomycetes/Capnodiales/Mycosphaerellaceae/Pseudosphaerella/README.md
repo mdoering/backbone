@@ -1,5 +1,4 @@
-Pseudosphaerella GENUS
-=======
+# Pseudosphaerella GENUS
 
 #### Status
 ACCEPTED

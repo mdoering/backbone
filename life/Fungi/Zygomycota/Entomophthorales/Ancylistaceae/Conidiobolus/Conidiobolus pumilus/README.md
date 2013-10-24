@@ -1,5 +1,4 @@
-Conidiobolus pumilus Drechsler, 1955 SPECIES
-=======
+# Conidiobolus pumilus Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

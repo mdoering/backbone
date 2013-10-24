@@ -1,5 +1,4 @@
-Sowerbyella unicolor (Gillet) Nannf., 1938 SPECIES
-=======
+# Sowerbyella unicolor (Gillet) Nannf., 1938 SPECIES
 
 #### Status
 ACCEPTED

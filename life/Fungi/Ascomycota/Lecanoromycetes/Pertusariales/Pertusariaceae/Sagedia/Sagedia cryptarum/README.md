@@ -1,5 +1,4 @@
-Sagedia cryptarum (Garov.) B. de Lesd. SPECIES
-=======
+# Sagedia cryptarum (Garov.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

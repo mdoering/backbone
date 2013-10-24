@@ -1,5 +1,4 @@
-Laboulbenia lagari Speg. SPECIES
-=======
+# Laboulbenia lagari Speg. SPECIES
 
 #### Status
 ACCEPTED

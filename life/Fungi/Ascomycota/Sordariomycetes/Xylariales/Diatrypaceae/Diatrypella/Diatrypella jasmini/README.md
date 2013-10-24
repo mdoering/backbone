@@ -1,5 +1,4 @@
-Diatrypella jasmini Tilak SPECIES
-=======
+# Diatrypella jasmini Tilak SPECIES
 
 #### Status
 ACCEPTED

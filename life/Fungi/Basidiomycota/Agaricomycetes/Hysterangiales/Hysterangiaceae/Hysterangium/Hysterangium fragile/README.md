@@ -1,5 +1,4 @@
-Hysterangium fragile Vittad. SPECIES
-=======
+# Hysterangium fragile Vittad. SPECIES
 
 #### Status
 ACCEPTED

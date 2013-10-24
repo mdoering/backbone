@@ -1,5 +1,4 @@
-Neolinocarpon K.D. Hyde GENUS
-=======
+# Neolinocarpon K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

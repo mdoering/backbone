@@ -1,5 +1,4 @@
-Pseudocercospora amoorae A.K. Das SPECIES
-=======
+# Pseudocercospora amoorae A.K. Das SPECIES
 
 #### Status
 ACCEPTED

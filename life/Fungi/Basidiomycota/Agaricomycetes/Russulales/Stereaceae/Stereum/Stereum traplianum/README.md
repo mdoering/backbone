@@ -1,5 +1,4 @@
-Stereum traplianum Velen., 1922 SPECIES
-=======
+# Stereum traplianum Velen., 1922 SPECIES
 
 #### Status
 ACCEPTED

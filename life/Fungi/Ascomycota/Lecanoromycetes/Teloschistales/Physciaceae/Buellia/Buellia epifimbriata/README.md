@@ -1,5 +1,4 @@
-Buellia epifimbriata Sipman SPECIES
-=======
+# Buellia epifimbriata Sipman SPECIES
 
 #### Status
 ACCEPTED

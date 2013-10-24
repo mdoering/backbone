@@ -1,5 +1,4 @@
-Myxofusicoccum salicis var. salicis VARIETY
-=======
+# Myxofusicoccum salicis Died. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Krypt. -Fl. Brandenburg augr. Gebiete 9(2): 320, fig. 8 (p. 308) (1912)
 
 #### Original name
-Myxofusicoccum salicis var. salicis
+Myxofusicoccum salicis Died.
 
 ### Remarks
 null

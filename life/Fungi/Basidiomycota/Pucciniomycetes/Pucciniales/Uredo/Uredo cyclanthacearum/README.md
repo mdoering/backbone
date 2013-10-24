@@ -1,5 +1,4 @@
-Uredo cyclanthacearum Berndt SPECIES
-=======
+# Uredo cyclanthacearum Berndt SPECIES
 
 #### Status
 ACCEPTED

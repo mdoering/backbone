@@ -1,5 +1,4 @@
-Cryptosporium tami Grove, 1922 SPECIES
-=======
+# Cryptosporium tami Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

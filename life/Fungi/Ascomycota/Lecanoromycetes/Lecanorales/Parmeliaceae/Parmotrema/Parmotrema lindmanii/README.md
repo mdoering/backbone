@@ -1,5 +1,4 @@
-Parmotrema lindmanii (Lynge) Kurok. SPECIES
-=======
+# Parmotrema lindmanii (Lynge) Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus tabernensis Feib. & Cibula SPECIES
-=======
+# Cantharellus tabernensis Feib. & Cibula SPECIES
 
 #### Status
 ACCEPTED

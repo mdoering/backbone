@@ -1,5 +1,4 @@
-Asymmetricospora J. Fröhl. & K.D. Hyde GENUS
-=======
+# Asymmetricospora J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

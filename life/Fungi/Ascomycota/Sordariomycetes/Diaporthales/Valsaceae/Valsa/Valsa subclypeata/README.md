@@ -1,5 +1,4 @@
-Valsa subclypeata Cooke & Peck SPECIES
-=======
+# Valsa subclypeata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

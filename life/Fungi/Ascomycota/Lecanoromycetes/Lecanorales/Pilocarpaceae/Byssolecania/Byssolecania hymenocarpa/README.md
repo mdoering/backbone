@@ -1,5 +1,4 @@
-Byssolecania hymenocarpa (Vain.) Kalb, Vezda & Lücking SPECIES
-=======
+# Byssolecania hymenocarpa (Vain.) Kalb, Vezda & Lücking SPECIES
 
 #### Status
 ACCEPTED

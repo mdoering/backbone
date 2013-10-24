@@ -1,5 +1,4 @@
-Pouzarella homomorpha (Romagn.) Mazzer SPECIES
-=======
+# Pouzarella homomorpha (Romagn.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

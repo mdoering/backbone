@@ -1,5 +1,4 @@
-Quinqueloculina crassicarinata Collins, 1958 SPECIES
-=======
+# Quinqueloculina crassicarinata Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

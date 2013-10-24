@@ -1,5 +1,4 @@
-Cortinarius fatuus E. Horak SPECIES
-=======
+# Cortinarius fatuus E. Horak SPECIES
 
 #### Status
 ACCEPTED

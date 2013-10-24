@@ -1,5 +1,4 @@
-Diplodia magnoliae Westend., 1857 SPECIES
-=======
+# Diplodia magnoliae Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

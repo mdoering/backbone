@@ -1,14 +1,13 @@
-Dothidella helvetica (Fuckel) Sacc., 1883 SPECIES
-=======
+# Phyllachora helvetica Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 628 (1883)
+Jb. nassau. Ver. Naturk. 23-24: 217 (1870)
 
 #### Original name
 Phyllachora helvetica Fuckel, 1870

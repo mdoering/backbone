@@ -1,5 +1,4 @@
-Davincia helios Penz. & Sacc. SPECIES
-=======
+# Davincia helios Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

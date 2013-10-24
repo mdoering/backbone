@@ -1,5 +1,4 @@
-Humaria nobilis P. Karst. SPECIES
-=======
+# Humaria nobilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

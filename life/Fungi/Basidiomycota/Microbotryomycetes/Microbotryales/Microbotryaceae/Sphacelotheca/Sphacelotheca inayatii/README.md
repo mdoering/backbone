@@ -1,14 +1,13 @@
-Sphacelotheca inayati (Syd., P. Syd. & E.J. Butler) Mundk. & Thirum. SPECIES
-=======
+# Sphacelotheca inayatii (Syd., P. Syd. & E.J. Butler) Mundk. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Thirumalachar, Lloydia 13: 172 (1950)
 
 #### Original name
 Ustilago inayati Syd., P. Syd. & E.J. Butler

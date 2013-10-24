@@ -1,5 +1,4 @@
-Rhizophydium messanense Morini SPECIES
-=======
+# Rhizophydium messanense Morini SPECIES
 
 #### Status
 ACCEPTED

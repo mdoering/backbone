@@ -1,5 +1,4 @@
-Cordyceps elongatoperitheciata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps elongatoperitheciata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

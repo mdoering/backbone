@@ -1,5 +1,4 @@
-Bondarcevomyces Parmasto GENUS
-=======
+# Bondarcevomyces Parmasto GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita philippinensis Rehm SPECIES
-=======
+# Lentomita philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

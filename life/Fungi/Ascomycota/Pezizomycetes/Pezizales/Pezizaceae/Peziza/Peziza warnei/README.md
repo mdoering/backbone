@@ -1,5 +1,4 @@
-Peziza warnei Peck SPECIES
-=======
+# Peziza warnei Peck SPECIES
 
 #### Status
 ACCEPTED

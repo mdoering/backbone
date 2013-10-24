@@ -1,5 +1,4 @@
-Blastobotrys parvus (Fell & Statzell) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Blastobotrys parvus (Fell & Statzell) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

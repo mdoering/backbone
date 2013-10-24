@@ -1,5 +1,4 @@
-Leccinum extremiorientale (Lar. N. Vassiljeva) Singer SPECIES
-=======
+# Leccinum extremiorientale (Lar. N. Vassiljeva) Singer SPECIES
 
 #### Status
 ACCEPTED

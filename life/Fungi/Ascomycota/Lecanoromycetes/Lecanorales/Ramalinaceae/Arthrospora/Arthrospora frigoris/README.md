@@ -1,5 +1,4 @@
-Arthrospora frigoris Nilson SPECIES
-=======
+# Arthrospora frigoris Nilson SPECIES
 
 #### Status
 ACCEPTED

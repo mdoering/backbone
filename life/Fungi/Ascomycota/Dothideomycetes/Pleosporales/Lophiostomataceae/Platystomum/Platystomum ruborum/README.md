@@ -1,5 +1,4 @@
-Platystomum ruborum (P. Crouan & H. Crouan) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum ruborum (P. Crouan & H. Crouan) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

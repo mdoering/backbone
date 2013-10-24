@@ -1,5 +1,4 @@
-Ochrolechia antarctica (Müll. Arg.) Darb. SPECIES
-=======
+# Ochrolechia antarctica (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema wainii (A. L. Sm.) Hale SPECIES
-=======
+# Parmotrema wainii (A. L. Sm.) Hale SPECIES
 
 #### Status
 ACCEPTED

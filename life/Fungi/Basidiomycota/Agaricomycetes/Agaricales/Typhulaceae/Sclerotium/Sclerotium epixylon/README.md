@@ -1,5 +1,4 @@
-Sclerotium epixylon Pers. SPECIES
-=======
+# Sclerotium epixylon Pers. SPECIES
 
 #### Status
 ACCEPTED

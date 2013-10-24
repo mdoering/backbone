@@ -1,5 +1,4 @@
-Aecidium justiciae Henn. SPECIES
-=======
+# Aecidium justiciae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora lassianthi C.C. Chen SPECIES
-=======
+# Cercospora lasianthi C.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Bull. Acad. sin. , Taipei 8: 131 (1967)
 
 #### Original name
-Cercospora lassianthi C.C. Chen
+Cercospora lasianthi C.C. Chen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelotrema inscalpens Nyl. SPECIES
-=======
+# Thelotrema inscalpens Nyl. SPECIES
 
 #### Status
 ACCEPTED

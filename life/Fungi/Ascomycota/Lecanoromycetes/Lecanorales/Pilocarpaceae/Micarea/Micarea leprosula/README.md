@@ -1,14 +1,13 @@
-Bilimbia milliaria var. leprosula Th. Fr. VARIETY
-=======
+# Micarea leprosula (Th. Fr.) Coppins & A. Fletcher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 382 (1874)
+Lichenologist 7(2): 111 (1975)
 
 #### Original name
 Bilimbia milliaria var. leprosula Th. Fr.

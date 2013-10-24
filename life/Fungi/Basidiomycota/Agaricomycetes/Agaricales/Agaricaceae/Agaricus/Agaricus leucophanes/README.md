@@ -1,5 +1,4 @@
-Agaricus leucophanes Berk. & Broome SPECIES
-=======
+# Agaricus leucophanes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

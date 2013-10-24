@@ -1,5 +1,4 @@
-Catillaria intermiscens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria intermiscens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

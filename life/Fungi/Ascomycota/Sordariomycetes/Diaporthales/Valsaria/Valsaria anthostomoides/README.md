@@ -1,5 +1,4 @@
-Valsaria anthostomoides Sacc. SPECIES
-=======
+# Valsaria anthostomoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

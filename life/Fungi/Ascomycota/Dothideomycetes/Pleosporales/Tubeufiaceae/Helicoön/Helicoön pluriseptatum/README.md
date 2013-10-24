@@ -1,5 +1,4 @@
-Helicoön pluriseptatum Beverw., 1954 SPECIES
-=======
+# Helicoön pluriseptatum Beverw., 1954 SPECIES
 
 #### Status
 ACCEPTED

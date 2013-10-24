@@ -1,5 +1,4 @@
-Campanulospora Salazar-Yepes, Pardo-Cardona & Buriticá, 2007 GENUS
-=======
+# Campanulospora Salazar-Yepes, Pardo-Cardona & Buriticá, 2007 GENUS
 
 #### Status
 ACCEPTED

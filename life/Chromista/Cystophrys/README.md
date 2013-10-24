@@ -1,5 +1,4 @@
-Cystophrys Archer, 1869 GENUS
-=======
+# Cystophrys Archer, 1869 GENUS
 
 #### Status
 ACCEPTED

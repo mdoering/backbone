@@ -1,5 +1,4 @@
-Lecanactis leptoloma (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis leptoloma (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

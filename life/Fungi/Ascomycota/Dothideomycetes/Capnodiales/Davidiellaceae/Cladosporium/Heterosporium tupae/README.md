@@ -1,5 +1,4 @@
-Heterosporium tupae Speg. SPECIES
-=======
+# Heterosporium tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

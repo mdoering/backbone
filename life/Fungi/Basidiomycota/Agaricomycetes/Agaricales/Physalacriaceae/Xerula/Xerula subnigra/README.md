@@ -1,5 +1,4 @@
-Xerula subnigra (Singer) Contu SPECIES
-=======
+# Xerula subnigra (Singer) Contu SPECIES
 
 #### Status
 ACCEPTED

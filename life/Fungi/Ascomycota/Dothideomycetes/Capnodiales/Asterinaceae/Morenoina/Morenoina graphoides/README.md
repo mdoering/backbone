@@ -1,5 +1,4 @@
-Morenoina graphoides (Sacc. & Berl.) Theiss. SPECIES
-=======
+# Morenoina graphoides (Sacc. & Berl.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

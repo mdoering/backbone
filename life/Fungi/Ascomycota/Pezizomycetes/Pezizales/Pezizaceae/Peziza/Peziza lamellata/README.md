@@ -1,5 +1,4 @@
-Peziza lamellata Pollini SPECIES
-=======
+# Peziza lamellata Pollini SPECIES
 
 #### Status
 ACCEPTED

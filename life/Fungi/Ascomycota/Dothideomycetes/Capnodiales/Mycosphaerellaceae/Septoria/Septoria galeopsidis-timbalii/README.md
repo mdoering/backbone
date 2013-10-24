@@ -1,5 +1,4 @@
-Septoria galeopsidis-timbalii Gonz. Frag. SPECIES
-=======
+# Septoria galeopsidis-timbalii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus laskibarii L.A. Parra & P. Arrill. SPECIES
-=======
+# Agaricus laskibarii L.A. Parra & P. Arrill. SPECIES
 
 #### Status
 ACCEPTED

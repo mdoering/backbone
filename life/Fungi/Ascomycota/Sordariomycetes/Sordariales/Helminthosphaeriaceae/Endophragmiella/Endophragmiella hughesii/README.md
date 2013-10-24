@@ -1,5 +1,4 @@
-Endophragmiella hughesii D. Hawksw., 1979 SPECIES
-=======
+# Endophragmiella hughesii D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

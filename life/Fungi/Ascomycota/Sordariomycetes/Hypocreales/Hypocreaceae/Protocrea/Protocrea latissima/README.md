@@ -1,5 +1,4 @@
-Protocrea latissima Mercuri & Ranalli SPECIES
-=======
+# Protocrea latissima Mercuri & Ranalli SPECIES
 
 #### Status
 ACCEPTED

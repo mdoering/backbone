@@ -1,5 +1,4 @@
-Belonium minimum (Ellis & Everh.) Seaver SPECIES
-=======
+# Belonium minimum (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

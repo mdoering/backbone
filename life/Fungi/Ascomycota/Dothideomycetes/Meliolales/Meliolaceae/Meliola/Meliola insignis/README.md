@@ -1,5 +1,4 @@
-Meliola insignis Gaillard SPECIES
-=======
+# Meliola insignis Gaillard SPECIES
 
 #### Status
 ACCEPTED

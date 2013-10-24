@@ -1,5 +1,4 @@
-Phyllosticta caryigena Ellis & Everh. SPECIES
-=======
+# Phyllosticta caryigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

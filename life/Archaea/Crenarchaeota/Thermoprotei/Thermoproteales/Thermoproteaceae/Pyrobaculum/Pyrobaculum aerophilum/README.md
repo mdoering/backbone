@@ -1,5 +1,4 @@
-Pyrobaculum aerophilum Völkl et al., 1996 SPECIES
-=======
+# Pyrobaculum aerophilum Völkl et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

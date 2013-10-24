@@ -1,5 +1,4 @@
-Lembosia dalbergiicola B. Song SPECIES
-=======
+# Lembosia dalbergiicola B. Song SPECIES
 
 #### Status
 ACCEPTED

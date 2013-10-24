@@ -1,5 +1,4 @@
-Ophidosoma Ehrenberg, 1836 GENUS
-=======
+# Ophidosoma Ehrenberg, 1836 GENUS
 
 #### Status
 ACCEPTED

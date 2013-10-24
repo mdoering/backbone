@@ -1,14 +1,13 @@
-Alectoria chalybeiformis f. chalybeiformis FORM
-=======
+# Bryoria chalybeiformis (L.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 81 (1977)
 
 #### Original name
 Lichen chalybeiformis L.

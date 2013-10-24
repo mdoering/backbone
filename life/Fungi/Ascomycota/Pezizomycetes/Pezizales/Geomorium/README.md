@@ -1,5 +1,4 @@
-Geomorium GENUS
-=======
+# Geomorium GENUS
 
 #### Status
 ACCEPTED

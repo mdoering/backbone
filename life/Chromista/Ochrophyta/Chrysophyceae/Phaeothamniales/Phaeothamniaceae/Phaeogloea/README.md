@@ -1,5 +1,4 @@
-Phaeogloea Chodat, 1922 GENUS
-=======
+# Phaeogloea Chodat, 1922 GENUS
 
 #### Status
 ACCEPTED

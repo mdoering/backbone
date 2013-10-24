@@ -1,5 +1,4 @@
-Lecidea chlorobaea (Nyl.) Hue SPECIES
-=======
+# Lecidea chlorobaea (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

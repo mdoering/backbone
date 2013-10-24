@@ -1,17 +1,16 @@
-Leptogium phyllocarpum var. phyllocarpum VARIETY
-=======
+# Leptogium phyllocarpum (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 3 10: 134 (1848)
 
 #### Original name
-Leptogium phyllocarpum var. phyllocarpum
+Collema phyllocarpum Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetomium palmense ined. SPECIES
-=======
+# Chaetomium palmense ined. SPECIES
 
 #### Status
 ACCEPTED

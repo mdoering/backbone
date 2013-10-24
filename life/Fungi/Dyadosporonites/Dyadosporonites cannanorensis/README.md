@@ -1,5 +1,4 @@
-Dyadosporonites cannanorensis Ramanujam & K.P. Rao SPECIES
-=======
+# Dyadosporonites cannanorensis Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis epiphylla Fr. SPECIES
-=======
+# Stictis epiphylla Fr. SPECIES
 
 #### Status
 ACCEPTED

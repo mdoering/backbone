@@ -1,5 +1,4 @@
-Cytospora aberrans Sacc. SPECIES
-=======
+# Cytospora aberrans Sacc. SPECIES
 
 #### Status
 ACCEPTED

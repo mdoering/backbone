@@ -1,5 +1,4 @@
-Tremella viridis Willd. SPECIES
-=======
+# Tremella viridis Willd. SPECIES
 
 #### Status
 ACCEPTED

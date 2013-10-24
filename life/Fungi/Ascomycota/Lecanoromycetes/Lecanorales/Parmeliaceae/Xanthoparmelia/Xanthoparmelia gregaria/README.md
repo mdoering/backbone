@@ -1,14 +1,13 @@
-Paraparmelia gregaria Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia gregaria (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 143 (1986)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia gregaria Elix & J. Johnst.

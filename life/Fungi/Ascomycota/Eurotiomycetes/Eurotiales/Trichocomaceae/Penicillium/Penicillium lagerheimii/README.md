@@ -1,5 +1,4 @@
-Penicillium lagerheimii Westling SPECIES
-=======
+# Penicillium lagerheimii Westling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora lecideola Bagl. SPECIES
-=======
+# Biatora lecideola Bagl. SPECIES
 
 #### Status
 ACCEPTED

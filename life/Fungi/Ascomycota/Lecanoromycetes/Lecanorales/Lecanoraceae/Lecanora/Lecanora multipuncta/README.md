@@ -1,5 +1,4 @@
-Lecanora multipuncta (Vain.) H. Magn. SPECIES
-=======
+# Lecanora multipuncta (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

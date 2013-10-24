@@ -1,5 +1,4 @@
-Hysterographium portenum Speg. SPECIES
-=======
+# Hysterographium portenum Speg. SPECIES
 
 #### Status
 ACCEPTED

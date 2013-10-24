@@ -1,5 +1,4 @@
-Persooniella proserpinacae (Farl.) Syd. SPECIES
-=======
+# Persooniella proserpinacae (Farl.) Syd. SPECIES
 
 #### Status
 ACCEPTED

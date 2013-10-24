@@ -1,5 +1,4 @@
-Didymella adeana Rehm SPECIES
-=======
+# Didymella adeana Rehm SPECIES
 
 #### Status
 ACCEPTED

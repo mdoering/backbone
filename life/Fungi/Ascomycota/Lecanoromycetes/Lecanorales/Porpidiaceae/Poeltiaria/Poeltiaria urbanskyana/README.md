@@ -1,5 +1,4 @@
-Poeltiaria urbanskyana (Zahlbr.) Hertel SPECIES
-=======
+# Poeltiaria urbanskyana (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

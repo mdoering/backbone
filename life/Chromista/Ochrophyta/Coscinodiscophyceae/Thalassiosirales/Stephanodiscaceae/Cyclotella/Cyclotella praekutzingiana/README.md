@@ -1,5 +1,4 @@
-Cyclotella praekutzingiana V. V. Mukhina SPECIES
-=======
+# Cyclotella praekutzingiana V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

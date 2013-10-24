@@ -1,5 +1,4 @@
-Valsa pullula Berk. & M.A. Curtis SPECIES
-=======
+# Valsa pullula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

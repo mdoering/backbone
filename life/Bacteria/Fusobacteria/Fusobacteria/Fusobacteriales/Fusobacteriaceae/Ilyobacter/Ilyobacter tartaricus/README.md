@@ -1,5 +1,4 @@
-Ilyobacter tartaricus Schink, 1985 SPECIES
-=======
+# Ilyobacter tartaricus Schink, 1985 SPECIES
 
 #### Status
 ACCEPTED

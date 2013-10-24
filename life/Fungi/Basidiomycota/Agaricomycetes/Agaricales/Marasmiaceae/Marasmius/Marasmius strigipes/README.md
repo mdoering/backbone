@@ -1,5 +1,4 @@
-Marasmius strigipes Beeli SPECIES
-=======
+# Marasmius strigipes Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Willia guilliermondii (Pijper) Vuill., 1931 SPECIES
-=======
+# Hanseniaspora guilliermondii Pijper, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 37: (1928)
 
 #### Original name
-null
+Hanseniaspora guilliermondii Pijper, 1928
 
 ### Remarks
 null

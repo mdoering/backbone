@@ -1,5 +1,4 @@
-Harpochytrium ornithocephalum Clémençon SPECIES
-=======
+# Harpochytrium ornithocephalum Clémençon SPECIES
 
 #### Status
 ACCEPTED

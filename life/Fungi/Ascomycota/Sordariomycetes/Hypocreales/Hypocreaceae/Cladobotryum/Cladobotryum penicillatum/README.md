@@ -1,5 +1,4 @@
-Cladobotryum penicillatum W. Gams, 1979 SPECIES
-=======
+# Cladobotryum penicillatum W. Gams, 1979 SPECIES
 
 #### Status
 ACCEPTED

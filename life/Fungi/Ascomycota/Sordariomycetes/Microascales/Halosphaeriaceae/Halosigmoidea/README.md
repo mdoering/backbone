@@ -1,5 +1,4 @@
-Halosigmoidea Nakagiri, K.L. Pang & E.B.G. Jones, 2009 GENUS
-=======
+# Halosigmoidea Nakagiri, K.L. Pang & E.B.G. Jones, 2009 GENUS
 
 #### Status
 ACCEPTED

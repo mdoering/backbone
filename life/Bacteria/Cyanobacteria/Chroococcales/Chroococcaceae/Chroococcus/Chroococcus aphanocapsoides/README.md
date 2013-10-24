@@ -1,5 +1,4 @@
-Chroococcus aphanocapsoides Skuja SPECIES
-=======
+# Chroococcus aphanocapsoides Skuja SPECIES
 
 #### Status
 ACCEPTED

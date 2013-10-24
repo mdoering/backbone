@@ -1,5 +1,4 @@
-Bovista subterranea Peck SPECIES
-=======
+# Bovista subterranea Peck SPECIES
 
 #### Status
 ACCEPTED

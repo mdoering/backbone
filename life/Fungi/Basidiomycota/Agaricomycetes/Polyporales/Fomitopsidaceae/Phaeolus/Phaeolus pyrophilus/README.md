@@ -1,5 +1,4 @@
-Phaeolus pyrophilus (Wakef.) SPECIES
-=======
+# Phaeolus pyrophilus (Wakef.) SPECIES
 
 #### Status
 ACCEPTED

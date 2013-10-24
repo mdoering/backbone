@@ -1,5 +1,4 @@
-Sporisorium mesoseti (Zundel) Vánky SPECIES
-=======
+# Sporisorium mesoseti (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

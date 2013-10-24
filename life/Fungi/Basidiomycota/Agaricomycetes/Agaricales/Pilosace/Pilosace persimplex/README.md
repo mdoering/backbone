@@ -1,5 +1,4 @@
-Pilosace persimplex (Britzelm.) Kuntze SPECIES
-=======
+# Pilosace persimplex (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

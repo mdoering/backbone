@@ -1,5 +1,4 @@
-Curvularia ischaemi McKenzie, 1981 SPECIES
-=======
+# Curvularia ischaemi McKenzie, 1981 SPECIES
 
 #### Status
 ACCEPTED

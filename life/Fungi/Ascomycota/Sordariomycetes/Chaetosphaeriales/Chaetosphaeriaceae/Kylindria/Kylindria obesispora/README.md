@@ -1,5 +1,4 @@
-Kylindria obesispora R.F. Castañeda SPECIES
-=======
+# Kylindria obesispora R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

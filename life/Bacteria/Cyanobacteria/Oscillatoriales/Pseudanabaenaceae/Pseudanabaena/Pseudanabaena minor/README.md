@@ -1,5 +1,4 @@
-Pseudanabaena minor Skuja SPECIES
-=======
+# Pseudanabaena minor Skuja SPECIES
 
 #### Status
 ACCEPTED

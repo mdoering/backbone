@@ -1,5 +1,4 @@
-Puccinia connersii Savile SPECIES
-=======
+# Puccinia connersii Savile SPECIES
 
 #### Status
 ACCEPTED

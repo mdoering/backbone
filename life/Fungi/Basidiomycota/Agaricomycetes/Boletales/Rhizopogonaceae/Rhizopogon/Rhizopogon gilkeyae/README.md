@@ -1,5 +1,4 @@
-Rhizopogon gilkeyae A.H. Sm. SPECIES
-=======
+# Rhizopogon gilkeyae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

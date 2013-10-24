@@ -1,5 +1,4 @@
-Rinodina annulata H. Magn. SPECIES
-=======
+# Rinodina annulata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

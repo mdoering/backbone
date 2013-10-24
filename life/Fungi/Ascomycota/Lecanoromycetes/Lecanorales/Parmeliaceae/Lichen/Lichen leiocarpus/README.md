@@ -1,5 +1,4 @@
-Lichen leiocarpus (DC.) SPECIES
-=======
+# Lichen leiocarpus (DC.) SPECIES
 
 #### Status
 ACCEPTED

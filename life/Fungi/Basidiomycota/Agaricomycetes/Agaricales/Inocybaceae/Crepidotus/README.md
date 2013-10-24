@@ -1,17 +1,16 @@
-Tremellastrum Clem. GENUS
-=======
+# Crepidotus (E.M. Fries) Staude, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 105 (1909)
+Schwämme Mitteldeutschl. 25: xxv, 71 (1857)
 
 #### Original name
-Tremellastrum Clem.
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

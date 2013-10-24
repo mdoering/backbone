@@ -1,5 +1,4 @@
-Phialocephala virens A.L. Siegfr. & Seifert, 1993 SPECIES
-=======
+# Phialocephala virens A.L. Siegfr. & Seifert, 1993 SPECIES
 
 #### Status
 ACCEPTED

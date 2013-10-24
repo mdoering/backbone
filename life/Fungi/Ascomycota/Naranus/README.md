@@ -1,5 +1,4 @@
-Naranus Ts. Watan. GENUS
-=======
+# Naranus Ts. Watan. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Providencia Ewing, 1962 GENUS
-=======
+# Providencia Ewing, 1962 GENUS
 
 #### Status
 ACCEPTED

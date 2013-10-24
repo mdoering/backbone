@@ -1,5 +1,4 @@
-Parascutellinia fuckelii Donadini & Svrcek SPECIES
-=======
+# Parascutellinia fuckelii Donadini & Svrcek SPECIES
 
 #### Status
 ACCEPTED

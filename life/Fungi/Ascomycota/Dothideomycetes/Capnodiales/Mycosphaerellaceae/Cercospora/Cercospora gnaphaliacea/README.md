@@ -1,5 +1,4 @@
-Cercospora gnaphaliacea Cooke SPECIES
-=======
+# Cercospora gnaphaliacea Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rubiginosa (Rehm) J. Steiner SPECIES
-=======
+# Lecanora rubiginosa (Rehm) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

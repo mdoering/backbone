@@ -1,5 +1,4 @@
-Buliminella madagascarensis SPECIES
-=======
+# Buliminella madagascarensis SPECIES
 
 #### Status
 ACCEPTED

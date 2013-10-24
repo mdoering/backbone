@@ -1,5 +1,4 @@
-Letendraea Saccardo, 1880 GENUS
-=======
+# Letendraea Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

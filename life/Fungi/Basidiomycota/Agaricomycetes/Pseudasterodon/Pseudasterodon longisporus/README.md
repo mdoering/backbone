@@ -1,5 +1,4 @@
-Pseudasterodon longisporus Rick SPECIES
-=======
+# Pseudasterodon longisporus Rick SPECIES
 
 #### Status
 ACCEPTED

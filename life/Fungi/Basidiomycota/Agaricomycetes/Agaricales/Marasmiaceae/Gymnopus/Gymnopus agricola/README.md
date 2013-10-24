@@ -1,5 +1,4 @@
-Gymnopus agricola Murrill SPECIES
-=======
+# Gymnopus agricola Murrill SPECIES
 
 #### Status
 ACCEPTED

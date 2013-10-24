@@ -1,5 +1,4 @@
-Strombidinopsis multiauris Montagnes & Lessard, 1999 SPECIES
-=======
+# Strombidinopsis multiauris Montagnes & Lessard, 1999 SPECIES
 
 #### Status
 ACCEPTED

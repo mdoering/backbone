@@ -1,5 +1,4 @@
-Stictis bacciformis Sherwood SPECIES
-=======
+# Stictis bacciformis Sherwood SPECIES
 
 #### Status
 ACCEPTED

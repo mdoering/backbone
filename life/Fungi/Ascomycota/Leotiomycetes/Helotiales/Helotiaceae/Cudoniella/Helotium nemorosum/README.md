@@ -1,5 +1,4 @@
-Helotium nemorosum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium nemorosum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ceratosphaeria phialidica (Shearer) Huhndorf, Greif, Mugambi & A.N. Mill., 2008 SPECIES
-=======
+# Pseudohalonectria phialidica Shearer, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(7): 1950 (1989)
 
 #### Original name
-null
+Pseudohalonectria phialidica Shearer, 1989
 
 ### Remarks
 null

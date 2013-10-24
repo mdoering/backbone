@@ -1,5 +1,4 @@
-Ustilago ischaemi-akoensis Sawada SPECIES
-=======
+# Ustilago ischaemi-akoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

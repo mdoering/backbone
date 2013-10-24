@@ -1,5 +1,4 @@
-Blastenia chrysophthalma Trevis. SPECIES
-=======
+# Blastenia chrysophthalma Trevis. SPECIES
 
 #### Status
 ACCEPTED

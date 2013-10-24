@@ -1,14 +1,13 @@
-Lecidea mamillata Hook. f. & Taylor SPECIES
-=======
+# Siphulastrum mamillatum (Hook. f. & Taylor) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 3: 637 (1844)
+N. Z. Jl Bot. 21(2): 197 (1983)
 
 #### Original name
 Lecidea mamillata Hook. f. & Taylor

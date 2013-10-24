@@ -1,5 +1,4 @@
-Hypholoma caespitosum (Earle) Morgan SPECIES
-=======
+# Hypholoma caespitosum (Earle) Morgan SPECIES
 
 #### Status
 ACCEPTED

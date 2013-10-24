@@ -1,5 +1,4 @@
-Stropharia goossensiae Beeli SPECIES
-=======
+# Stropharia goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

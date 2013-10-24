@@ -1,5 +1,4 @@
-Monodictys spiraeae Melnik & Shkarupa SPECIES
-=======
+# Monodictys spiraeae Melnik & Shkarupa SPECIES
 
 #### Status
 ACCEPTED

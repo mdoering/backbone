@@ -1,5 +1,4 @@
-Pseudodiplodia sedi (Allesch.) Petr. SPECIES
-=======
+# Pseudodiplodia sedi (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

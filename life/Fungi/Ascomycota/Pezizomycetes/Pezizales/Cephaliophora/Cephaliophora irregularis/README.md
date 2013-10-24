@@ -1,17 +1,16 @@
-Cephaliophora nigricans (Bainier) Bainier, 1908 SPECIES
-=======
+# Cephaliophora irregularis Thaxt., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 24: (1908)
+Bot. Gaz. 35: 158 (1903)
 
 #### Original name
-Cephalomyces nigricans Bainier, 1907
+Cephaliophora irregularis Thaxt., 1903
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dermatangium laevisporum Velen. SPECIES
-=======
+# Dermatangium laevisporum Velen. SPECIES
 
 #### Status
 ACCEPTED

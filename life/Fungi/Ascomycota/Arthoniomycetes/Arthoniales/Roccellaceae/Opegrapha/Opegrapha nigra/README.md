@@ -1,5 +1,4 @@
-Opegrapha nigra Dufour SPECIES
-=======
+# Opegrapha nigra Dufour SPECIES
 
 #### Status
 ACCEPTED

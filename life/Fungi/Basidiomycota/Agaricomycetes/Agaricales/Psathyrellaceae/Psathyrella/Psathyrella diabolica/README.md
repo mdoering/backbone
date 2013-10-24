@@ -1,5 +1,4 @@
-Psathyrella diabolica A.H. Sm. SPECIES
-=======
+# Psathyrella diabolica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

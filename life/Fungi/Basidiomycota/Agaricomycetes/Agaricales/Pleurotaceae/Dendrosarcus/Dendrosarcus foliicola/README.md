@@ -1,5 +1,4 @@
-Dendrosarcus foliicola (Lagarde & Pat.) Kuntze SPECIES
-=======
+# Dendrosarcus foliicola (Lagarde & Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

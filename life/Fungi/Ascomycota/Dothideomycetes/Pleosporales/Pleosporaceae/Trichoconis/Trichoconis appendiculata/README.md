@@ -1,5 +1,4 @@
-Trichoconis appendiculata Deighton & Piroz. SPECIES
-=======
+# Trichoconis appendiculata Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

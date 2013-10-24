@@ -1,5 +1,4 @@
-Psora aeneiformis Anzi SPECIES
-=======
+# Psora aeneiformis Anzi SPECIES
 
 #### Status
 ACCEPTED

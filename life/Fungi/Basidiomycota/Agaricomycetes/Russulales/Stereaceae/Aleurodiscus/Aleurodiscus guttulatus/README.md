@@ -1,5 +1,4 @@
-Aleurodiscus guttulatus Rick SPECIES
-=======
+# Aleurodiscus guttulatus Rick SPECIES
 
 #### Status
 ACCEPTED

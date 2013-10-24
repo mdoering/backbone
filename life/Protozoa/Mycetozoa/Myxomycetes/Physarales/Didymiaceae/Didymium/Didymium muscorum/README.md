@@ -1,5 +1,4 @@
-Didymium muscorum T.N. Lakh. & K.G. Mukerji, 1976 SPECIES
-=======
+# Didymium muscorum T.N. Lakh. & K.G. Mukerji, 1976 SPECIES
 
 #### Status
 ACCEPTED

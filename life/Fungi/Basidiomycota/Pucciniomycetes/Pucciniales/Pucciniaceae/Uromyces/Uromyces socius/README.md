@@ -1,5 +1,4 @@
-Uromyces socius Arthur & Holw. SPECIES
-=======
+# Uromyces socius Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

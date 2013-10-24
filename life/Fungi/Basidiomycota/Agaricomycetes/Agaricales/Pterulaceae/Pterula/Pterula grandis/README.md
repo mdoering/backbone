@@ -1,5 +1,4 @@
-Pterula grandis Syd. SPECIES
-=======
+# Pterula grandis Syd. SPECIES
 
 #### Status
 ACCEPTED

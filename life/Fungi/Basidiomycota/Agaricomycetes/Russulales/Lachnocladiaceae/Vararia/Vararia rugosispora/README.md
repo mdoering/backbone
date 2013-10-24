@@ -1,5 +1,4 @@
-Vararia rugosispora Boidin, Lanq. & Gilles, 1980 SPECIES
-=======
+# Vararia rugosispora Boidin, Lanq. & Gilles, 1980 SPECIES
 
 #### Status
 ACCEPTED

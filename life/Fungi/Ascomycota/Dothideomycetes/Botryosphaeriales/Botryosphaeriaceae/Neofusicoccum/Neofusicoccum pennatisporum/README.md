@@ -1,5 +1,4 @@
-Neofusicoccum pennatisporum K. Taylor, Barber & T.I. Burgess SPECIES
-=======
+# Neofusicoccum pennatisporum K. Taylor, Barber & T.I. Burgess SPECIES
 
 #### Status
 ACCEPTED

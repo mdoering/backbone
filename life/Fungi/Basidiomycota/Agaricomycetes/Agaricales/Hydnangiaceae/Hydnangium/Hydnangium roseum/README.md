@@ -1,5 +1,4 @@
-Hydnangium roseum (Harkn.) Singer & A.H. Sm. SPECIES
-=======
+# Hydnangium roseum (Harkn.) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

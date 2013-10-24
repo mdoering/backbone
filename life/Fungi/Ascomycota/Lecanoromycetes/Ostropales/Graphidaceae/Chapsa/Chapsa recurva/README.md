@@ -1,14 +1,13 @@
-Thelotrema recurvum G. Salisb. SPECIES
-=======
+# Chapsa recurva (G. Salisb.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rev. Bryol. Lichénol. 38: 285 (1972)
+Biblthca Lichenol. 92: 95 (2006)
 
 #### Original name
 Thelotrema recurvum G. Salisb.

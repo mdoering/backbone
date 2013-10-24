@@ -1,5 +1,4 @@
-Sporisorium gayanum Vánky & C. Vánky, 2000 SPECIES
-=======
+# Sporisorium gayanum Vánky & C. Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

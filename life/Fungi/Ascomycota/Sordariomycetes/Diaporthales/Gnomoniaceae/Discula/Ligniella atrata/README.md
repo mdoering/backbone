@@ -1,5 +1,4 @@
-Ligniella atrata Naumov SPECIES
-=======
+# Ligniella atrata Naumov SPECIES
 
 #### Status
 ACCEPTED

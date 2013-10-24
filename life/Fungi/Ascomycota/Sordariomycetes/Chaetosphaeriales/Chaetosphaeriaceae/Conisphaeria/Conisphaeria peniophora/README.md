@@ -1,5 +1,4 @@
-Conisphaeria peniophora Cooke SPECIES
-=======
+# Conisphaeria peniophora Cooke SPECIES
 
 #### Status
 ACCEPTED

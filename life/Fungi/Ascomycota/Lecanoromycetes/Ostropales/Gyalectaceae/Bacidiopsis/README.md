@@ -1,5 +1,4 @@
-Bacidiopsis GENUS
-=======
+# Bacidiopsis GENUS
 
 #### Status
 ACCEPTED

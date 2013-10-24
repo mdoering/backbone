@@ -1,17 +1,16 @@
-Leptonia gracilipes f. gracilipes FORM
-=======
+# Leptonia gracilipes Peck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Leptonia gracilipes Peck
 
 ### Remarks
 null

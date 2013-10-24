@@ -1,14 +1,13 @@
-Similicoronilithus D. Bukry, 1969 GENUS
-=======
+# Cyclagelosphaera Noël, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Paleont. Contr. Univ. Kans. 51:30.
+Sur les coccolithes du Jurassique européen et d'Afrique du Nord. Essai de classification des coccolithes fossiles. Éditions du Centre National de la Recherche Scientifique; Paris: 129.
 
 #### Original name
 null

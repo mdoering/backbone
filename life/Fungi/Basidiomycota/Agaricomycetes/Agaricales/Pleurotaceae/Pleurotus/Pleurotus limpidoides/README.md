@@ -1,5 +1,4 @@
-Pleurotus limpidoides P. Karst. SPECIES
-=======
+# Pleurotus limpidoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

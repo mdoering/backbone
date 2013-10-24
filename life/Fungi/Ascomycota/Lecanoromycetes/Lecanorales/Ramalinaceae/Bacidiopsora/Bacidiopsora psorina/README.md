@@ -1,5 +1,4 @@
-Bacidiopsora psorina (Nyl.) Kalb SPECIES
-=======
+# Bacidiopsora psorina (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

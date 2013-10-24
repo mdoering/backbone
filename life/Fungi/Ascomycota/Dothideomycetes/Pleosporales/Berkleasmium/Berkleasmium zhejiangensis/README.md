@@ -1,5 +1,4 @@
-Berkleasmium zhejiangensis Wongsawas, H.K. Wang, K.D. Hyde & F.C. Lin, 2009 SPECIES
-=======
+# Berkleasmium zhejiangensis Wongsawas, H.K. Wang, K.D. Hyde & F.C. Lin, 2009 SPECIES
 
 #### Status
 ACCEPTED

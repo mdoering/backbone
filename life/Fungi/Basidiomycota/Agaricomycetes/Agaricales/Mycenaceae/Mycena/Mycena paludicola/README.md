@@ -1,5 +1,4 @@
-Mycena paludicola Murrill SPECIES
-=======
+# Mycena paludicola Murrill SPECIES
 
 #### Status
 ACCEPTED

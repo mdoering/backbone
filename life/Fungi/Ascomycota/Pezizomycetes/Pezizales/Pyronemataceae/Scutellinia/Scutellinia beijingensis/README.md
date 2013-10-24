@@ -1,5 +1,4 @@
-Scutellinia beijingensis W.Y. Zhuang SPECIES
-=======
+# Scutellinia beijingensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Southworthia floridana Ellis & Galloway SPECIES
-=======
+# Southworthia floridana Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

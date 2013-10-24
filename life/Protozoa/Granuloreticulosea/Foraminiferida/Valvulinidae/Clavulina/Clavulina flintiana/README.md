@@ -1,5 +1,4 @@
-Clavulina flintiana SPECIES
-=======
+# Clavulina flintiana SPECIES
 
 #### Status
 ACCEPTED

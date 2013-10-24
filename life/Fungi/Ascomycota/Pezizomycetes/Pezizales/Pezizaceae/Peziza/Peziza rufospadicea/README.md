@@ -1,5 +1,4 @@
-Peziza rufospadicea Alb. & Schwein. SPECIES
-=======
+# Peziza rufospadicea Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

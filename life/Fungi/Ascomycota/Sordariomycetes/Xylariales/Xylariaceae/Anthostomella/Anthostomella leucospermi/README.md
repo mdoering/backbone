@@ -1,5 +1,4 @@
-Anthostomella leucospermi S.J. Lee & Crous, 2003 SPECIES
-=======
+# Anthostomella leucospermi S.J. Lee & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

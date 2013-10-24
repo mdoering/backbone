@@ -1,5 +1,4 @@
-Cortinarius finitimus f. finitimus FORM
-=======
+# Cortinarius finitimus Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius finitimus f. finitimus
+Cortinarius finitimus Britzelm.
 
 ### Remarks
 null

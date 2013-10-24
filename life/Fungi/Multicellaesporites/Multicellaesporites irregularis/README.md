@@ -1,5 +1,4 @@
-Multicellaesporites irregularis Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites irregularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

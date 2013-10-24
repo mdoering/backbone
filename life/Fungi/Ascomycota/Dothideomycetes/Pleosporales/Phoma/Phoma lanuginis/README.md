@@ -1,5 +1,4 @@
-Phoma lanuginis Fairm. SPECIES
-=======
+# Phoma lanuginis Fairm. SPECIES
 
 #### Status
 ACCEPTED

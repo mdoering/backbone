@@ -1,5 +1,4 @@
-Callistosporium amazonicum Singer, 1978 SPECIES
-=======
+# Callistosporium amazonicum Singer, 1978 SPECIES
 
 #### Status
 ACCEPTED

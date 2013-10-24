@@ -1,5 +1,4 @@
-Psora elenkinii Rass. SPECIES
-=======
+# Psora elenkinii Rass. SPECIES
 
 #### Status
 ACCEPTED

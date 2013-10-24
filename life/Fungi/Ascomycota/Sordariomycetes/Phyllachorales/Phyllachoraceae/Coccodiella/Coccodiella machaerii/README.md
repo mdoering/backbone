@@ -1,14 +1,13 @@
-Phyllachora machaerii Henn., 1893 SPECIES
-=======
+# Coccodiella machaerii (Henn.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 17: 524 (1893)
+J. Jap. Bot. 43: 281 (1968)
 
 #### Original name
 Phyllachora machaerii Henn., 1893

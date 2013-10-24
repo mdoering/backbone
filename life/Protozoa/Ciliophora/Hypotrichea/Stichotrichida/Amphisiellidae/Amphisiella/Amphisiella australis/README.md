@@ -1,5 +1,4 @@
-Amphisiella australis Blatterer & Foissner, 1988 SPECIES
-=======
+# Amphisiella australis Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

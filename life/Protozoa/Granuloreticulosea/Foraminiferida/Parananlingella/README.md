@@ -1,5 +1,4 @@
-Parananlingella Rui & Sheng, 1981 GENUS
-=======
+# Parananlingella Rui & Sheng, 1981 GENUS
 
 #### Status
 ACCEPTED

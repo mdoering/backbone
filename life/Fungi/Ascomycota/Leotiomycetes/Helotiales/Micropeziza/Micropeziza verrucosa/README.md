@@ -1,5 +1,4 @@
-Micropeziza verrucosa (E. Müll.) Nannf. SPECIES
-=======
+# Micropeziza verrucosa (E. Müll.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

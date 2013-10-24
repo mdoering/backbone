@@ -1,5 +1,4 @@
-Sclerotiopsis australasica Speg. SPECIES
-=======
+# Sclerotiopsis australasica Speg. SPECIES
 
 #### Status
 ACCEPTED

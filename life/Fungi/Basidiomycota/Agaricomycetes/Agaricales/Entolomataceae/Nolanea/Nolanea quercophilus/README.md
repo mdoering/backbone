@@ -1,5 +1,4 @@
-Nolanea quercophilus Largent SPECIES
-=======
+# Nolanea quercophilus Largent SPECIES
 
 #### Status
 ACCEPTED

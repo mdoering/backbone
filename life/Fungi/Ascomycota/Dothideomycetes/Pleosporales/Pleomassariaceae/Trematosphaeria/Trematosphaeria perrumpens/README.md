@@ -1,5 +1,4 @@
-Trematosphaeria perrumpens Samuels & E. Müll. SPECIES
-=======
+# Trematosphaeria perrumpens Samuels & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

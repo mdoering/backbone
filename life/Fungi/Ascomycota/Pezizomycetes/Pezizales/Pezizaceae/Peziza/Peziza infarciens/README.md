@@ -1,5 +1,4 @@
-Peziza infarciens Ces. SPECIES
-=======
+# Peziza infarciens Ces. SPECIES
 
 #### Status
 ACCEPTED

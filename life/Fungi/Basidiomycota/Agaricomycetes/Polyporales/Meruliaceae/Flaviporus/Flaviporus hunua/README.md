@@ -1,14 +1,13 @@
-Poria hunua G. Cunn., 1947 SPECIES
-=======
+# Flaviporus hunua (G. Cunn.) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 72: 39 (1947)
+Mycotaxon 21: 326 (1984)
 
 #### Original name
 Poria hunua G. Cunn., 1947

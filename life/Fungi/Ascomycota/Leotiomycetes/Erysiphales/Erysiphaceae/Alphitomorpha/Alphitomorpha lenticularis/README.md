@@ -1,5 +1,4 @@
-Alphitomorpha lenticularis Wallr. SPECIES
-=======
+# Alphitomorpha lenticularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

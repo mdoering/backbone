@@ -1,5 +1,4 @@
-Lecidea aporetica Stizenb. SPECIES
-=======
+# Lecidea aporetica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

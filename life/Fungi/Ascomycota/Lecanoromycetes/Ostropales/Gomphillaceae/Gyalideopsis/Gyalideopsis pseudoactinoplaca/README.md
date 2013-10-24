@@ -1,5 +1,4 @@
-Gyalideopsis pseudoactinoplaca Lücking & Chaves SPECIES
-=======
+# Gyalideopsis pseudoactinoplaca Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

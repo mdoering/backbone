@@ -1,5 +1,4 @@
-Diadorhombus T.R.Worsley GENUS
-=======
+# Diadorhombus T.R.Worsley GENUS
 
 #### Status
 ACCEPTED

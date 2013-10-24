@@ -1,5 +1,4 @@
-Alternaria subelliptica E.G. Simmons SPECIES
-=======
+# Alternaria subelliptica E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

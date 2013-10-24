@@ -1,5 +1,4 @@
-Lecania babingtonii Nyl. SPECIES
-=======
+# Lecania babingtonii Nyl. SPECIES
 
 #### Status
 ACCEPTED

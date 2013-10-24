@@ -1,5 +1,4 @@
-Lecanora nigrozonata Lamy SPECIES
-=======
+# Lecanora nigrozonata Lamy SPECIES
 
 #### Status
 ACCEPTED

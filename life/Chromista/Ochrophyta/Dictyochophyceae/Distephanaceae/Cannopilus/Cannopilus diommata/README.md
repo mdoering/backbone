@@ -1,5 +1,4 @@
-Cannopilus diommata (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
-=======
+# Cannopilus diommata (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

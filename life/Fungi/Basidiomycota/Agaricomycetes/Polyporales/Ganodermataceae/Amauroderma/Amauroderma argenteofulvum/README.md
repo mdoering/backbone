@@ -1,5 +1,4 @@
-Amauroderma argenteofulvum (Van der Byl) Doidge SPECIES
-=======
+# Amauroderma argenteofulvum (Van der Byl) Doidge SPECIES
 
 #### Status
 ACCEPTED

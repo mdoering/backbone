@@ -1,5 +1,4 @@
-Diplodina artemisiae Bres. SPECIES
-=======
+# Diplodina artemisiae Bres. SPECIES
 
 #### Status
 ACCEPTED

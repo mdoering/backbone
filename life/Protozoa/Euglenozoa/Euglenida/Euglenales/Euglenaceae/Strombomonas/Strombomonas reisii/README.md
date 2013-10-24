@@ -1,5 +1,4 @@
-Strombomonas reisii J. A. Rino SPECIES
-=======
+# Strombomonas reisii J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

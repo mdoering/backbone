@@ -1,5 +1,4 @@
-Puccinia litvinovii Tranzschel & Erem. SPECIES
-=======
+# Puccinia litvinovii Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

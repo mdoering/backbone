@@ -1,5 +1,4 @@
-Dichomera gemmicola A. Funk & B. Sutton, 1972 SPECIES
-=======
+# Dichomera gemmicola A. Funk & B. Sutton, 1972 SPECIES
 
 #### Status
 ACCEPTED

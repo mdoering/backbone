@@ -1,5 +1,4 @@
-Puccinia venezuelana (F. Kern, Thurst. & Whetzel) F. Kern & Thurst. SPECIES
-=======
+# Puccinia venezuelana (F. Kern, Thurst. & Whetzel) F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

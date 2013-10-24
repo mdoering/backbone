@@ -1,5 +1,4 @@
-Mallomonas multisetigera Dürrschmidt SPECIES
-=======
+# Mallomonas multisetigera Dürrschmidt SPECIES
 
 #### Status
 ACCEPTED

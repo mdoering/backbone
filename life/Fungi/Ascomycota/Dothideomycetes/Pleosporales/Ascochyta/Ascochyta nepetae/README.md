@@ -1,5 +1,4 @@
-Ascochyta nepetae Davis SPECIES
-=======
+# Ascochyta nepetae Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytismites induratus (Heer) Mesch. SPECIES
-=======
+# Rhytismites induratus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

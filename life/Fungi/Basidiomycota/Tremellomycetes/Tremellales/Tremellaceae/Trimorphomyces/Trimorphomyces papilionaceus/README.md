@@ -1,5 +1,4 @@
-Trimorphomyces papilionaceus Bandoni & Oberw., 1983 SPECIES
-=======
+# Trimorphomyces papilionaceus Bandoni & Oberw., 1983 SPECIES
 
 #### Status
 ACCEPTED

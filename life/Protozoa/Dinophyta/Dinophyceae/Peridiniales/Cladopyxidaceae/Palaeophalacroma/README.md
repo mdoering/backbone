@@ -1,14 +1,13 @@
-Palaephalacroma GENUS
-=======
+# Palaeophalacroma Schiller, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. , 61, 64.
 
 #### Original name
 null

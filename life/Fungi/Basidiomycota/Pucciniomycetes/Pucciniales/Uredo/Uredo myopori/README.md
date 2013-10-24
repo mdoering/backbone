@@ -1,5 +1,4 @@
-Uredo myopori Cummins SPECIES
-=======
+# Uredo myopori Cummins SPECIES
 
 #### Status
 ACCEPTED

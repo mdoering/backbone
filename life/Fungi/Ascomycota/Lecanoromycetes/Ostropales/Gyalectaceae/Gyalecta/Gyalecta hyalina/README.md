@@ -1,5 +1,4 @@
-Gyalecta hyalina Hepp SPECIES
-=======
+# Gyalecta hyalina Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus sulcatus Conrad SPECIES
-=======
+# Phacus sulcatus Conrad SPECIES
 
 #### Status
 ACCEPTED

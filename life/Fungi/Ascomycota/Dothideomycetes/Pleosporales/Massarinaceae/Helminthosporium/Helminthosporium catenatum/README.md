@@ -1,5 +1,4 @@
-Helminthosporium catenatum Matsush. SPECIES
-=======
+# Helminthosporium catenatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

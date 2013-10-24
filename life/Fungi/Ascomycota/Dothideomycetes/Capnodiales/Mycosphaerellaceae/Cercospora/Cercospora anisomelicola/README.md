@@ -1,5 +1,4 @@
-Cercospora anisomelicola Sawada SPECIES
-=======
+# Cercospora anisomelicola Sawada SPECIES
 
 #### Status
 ACCEPTED

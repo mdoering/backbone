@@ -1,5 +1,4 @@
-Stigmina oblecta (Syd.) Crous & U. Braun SPECIES
-=======
+# Stigmina oblecta (Syd.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

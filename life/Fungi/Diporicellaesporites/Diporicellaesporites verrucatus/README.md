@@ -1,5 +1,4 @@
-Diporicellaesporites verrucatus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
-=======
+# Diporicellaesporites verrucatus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta kobayashii Vanev & Aa SPECIES
-=======
+# Phyllosticta kobayashii Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

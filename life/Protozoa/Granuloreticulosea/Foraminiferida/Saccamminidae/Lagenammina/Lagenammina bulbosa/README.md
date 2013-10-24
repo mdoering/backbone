@@ -1,8 +1,7 @@
-Proteonina bulbosa Chapman & Parr, 1937 SPECIES
-=======
+# Lagenammina bulbosa (Chapman & Parr, 1937) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

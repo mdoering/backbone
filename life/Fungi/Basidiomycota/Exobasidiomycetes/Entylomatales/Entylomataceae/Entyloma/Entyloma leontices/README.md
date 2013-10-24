@@ -1,5 +1,4 @@
-Entyloma leontices Savul., 1931 SPECIES
-=======
+# Entyloma leontices Savul., 1931 SPECIES
 
 #### Status
 ACCEPTED

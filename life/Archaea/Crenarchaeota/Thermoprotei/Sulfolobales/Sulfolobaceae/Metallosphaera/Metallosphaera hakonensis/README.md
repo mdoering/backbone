@@ -1,8 +1,7 @@
-Sulfolobus hakonensis Takayanagi et al., 1996 SPECIES
-=======
+# Metallosphaera hakonensis (Takayanagi et al., 1996) Kurosawa et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Platygrapha mirifica Kremp. SPECIES
-=======
+# Chroodiscus mirificus (Kremp.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. Foliic. Leg. Beccari 13 (1874)
+Symb. bot. upsal. 12(no. 1): 311 (1952)
 
 #### Original name
 Platygrapha mirifica Kremp.

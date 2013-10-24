@@ -1,5 +1,4 @@
-Leptosphaeria pampini (Thüm.) Sacc. SPECIES
-=======
+# Leptosphaeria pampini (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

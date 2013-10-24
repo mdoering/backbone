@@ -1,5 +1,4 @@
-Clavaria bifurca Bull. SPECIES
-=======
+# Clavaria bifurca Bull. SPECIES
 
 #### Status
 ACCEPTED

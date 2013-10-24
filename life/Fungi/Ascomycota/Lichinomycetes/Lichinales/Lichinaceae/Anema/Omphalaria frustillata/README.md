@@ -1,5 +1,4 @@
-Omphalaria frustillata Nyl. SPECIES
-=======
+# Omphalaria frustillata Nyl. SPECIES
 
 #### Status
 ACCEPTED

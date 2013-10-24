@@ -1,5 +1,4 @@
-Phloeospora apatela (Allesch.) Moesz & Smarods SPECIES
-=======
+# Phloeospora apatela (Allesch.) Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria yulongensis J.B. Chen SPECIES
-=======
+# Lobaria yulongensis J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

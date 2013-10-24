@@ -1,5 +1,4 @@
-Entoloma violaceovernum Noordel. & Wölfel SPECIES
-=======
+# Entoloma violaceovernum Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

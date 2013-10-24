@@ -1,5 +1,4 @@
-Ciposia mandapuca Silveira SPECIES
-=======
+# Ciposia mandapuca Silveira SPECIES
 
 #### Status
 ACCEPTED

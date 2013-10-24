@@ -1,5 +1,4 @@
-Polyporus semidigitaliformis Berk. SPECIES
-=======
+# Polyporus semidigitaliformis Berk. SPECIES
 
 #### Status
 ACCEPTED

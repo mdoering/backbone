@@ -1,5 +1,4 @@
-Parmelia atherata Kurok. SPECIES
-=======
+# Parmelia atherata Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia echinata (Taylor) Kurok. SPECIES
-=======
+# Anaptychia echinata (Taylor) Kurok. SPECIES
 
 #### Status
 ACCEPTED

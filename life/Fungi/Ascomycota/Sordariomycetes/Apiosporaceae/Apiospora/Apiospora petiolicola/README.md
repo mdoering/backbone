@@ -1,5 +1,4 @@
-Apiospora petiolicola Kirschst. SPECIES
-=======
+# Apiospora petiolicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

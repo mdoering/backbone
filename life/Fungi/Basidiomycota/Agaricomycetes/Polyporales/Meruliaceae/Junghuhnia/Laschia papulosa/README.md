@@ -1,5 +1,4 @@
-Laschia papulosa (Ces.) Lloyd SPECIES
-=======
+# Laschia papulosa (Ces.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

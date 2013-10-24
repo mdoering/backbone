@@ -1,5 +1,4 @@
-Puccinia gastrolobii Dietel SPECIES
-=======
+# Puccinia gastrolobii Dietel SPECIES
 
 #### Status
 ACCEPTED

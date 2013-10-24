@@ -1,5 +1,4 @@
-Crocynia japonica B. de Lesd. SPECIES
-=======
+# Crocynia japonica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

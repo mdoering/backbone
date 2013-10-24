@@ -1,5 +1,4 @@
-Pseudomassaria quercifolia (Ellis & Everh.) Arx SPECIES
-=======
+# Pseudomassaria quercifolia (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

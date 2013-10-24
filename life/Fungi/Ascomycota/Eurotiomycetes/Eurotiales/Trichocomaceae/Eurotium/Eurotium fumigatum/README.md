@@ -1,5 +1,4 @@
-Eurotium fumigatum Sacc. & Trotter SPECIES
-=======
+# Eurotium fumigatum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

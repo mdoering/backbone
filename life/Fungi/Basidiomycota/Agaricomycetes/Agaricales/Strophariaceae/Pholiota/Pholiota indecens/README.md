@@ -1,5 +1,4 @@
-Pholiota indecens Peck SPECIES
-=======
+# Pholiota indecens Peck SPECIES
 
 #### Status
 ACCEPTED

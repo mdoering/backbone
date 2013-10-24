@@ -1,5 +1,4 @@
-Hexalatractus Haeckel, 1887 GENUS
-=======
+# Hexalatractus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

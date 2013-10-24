@@ -1,5 +1,4 @@
-Miliola elliptica Brown, 1827 SPECIES
-=======
+# Miliola elliptica Brown, 1827 SPECIES
 
 #### Status
 ACCEPTED

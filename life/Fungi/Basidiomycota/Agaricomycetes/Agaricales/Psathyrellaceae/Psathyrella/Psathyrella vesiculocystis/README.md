@@ -1,5 +1,4 @@
-Psathyrella vesiculocystis A.H. Sm. SPECIES
-=======
+# Psathyrella vesiculocystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

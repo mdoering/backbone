@@ -1,5 +1,4 @@
-Naematelia globulus Corda SPECIES
-=======
+# Naematelia globulus Corda SPECIES
 
 #### Status
 ACCEPTED

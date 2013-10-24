@@ -1,5 +1,4 @@
-Enerthidium canarii Syd., 1939 SPECIES
-=======
+# Enerthidium canarii Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

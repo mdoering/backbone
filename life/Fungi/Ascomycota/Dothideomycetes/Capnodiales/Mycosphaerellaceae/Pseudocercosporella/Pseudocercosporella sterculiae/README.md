@@ -1,5 +1,4 @@
-Pseudocercosporella sterculiae (O.A. Drumm.) U. Braun SPECIES
-=======
+# Pseudocercosporella sterculiae (O.A. Drumm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

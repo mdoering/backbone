@@ -1,5 +1,4 @@
-Asterina hellebori Rehm SPECIES
-=======
+# Asterina hellebori Rehm SPECIES
 
 #### Status
 ACCEPTED

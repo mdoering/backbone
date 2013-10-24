@@ -1,5 +1,4 @@
-Nectria microleuca Rossman SPECIES
-=======
+# Nectria microleuca Rossman SPECIES
 
 #### Status
 ACCEPTED

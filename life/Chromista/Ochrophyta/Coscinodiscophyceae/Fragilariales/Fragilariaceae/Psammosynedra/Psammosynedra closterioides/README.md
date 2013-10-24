@@ -1,5 +1,4 @@
-Psammosynedra closterioides (Grunow) F. E. Round SPECIES
-=======
+# Psammosynedra closterioides (Grunow) F. E. Round SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocarpon coppinsii Ertz & Diederich SPECIES
-=======
+# Plectocarpon coppinsii Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

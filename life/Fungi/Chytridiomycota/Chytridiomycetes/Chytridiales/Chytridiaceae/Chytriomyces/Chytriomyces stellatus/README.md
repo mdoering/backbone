@@ -1,5 +1,4 @@
-Chytriomyces stellatus Karling, 1947 SPECIES
-=======
+# Chytriomyces stellatus Karling, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delicatula struthiopteridis Velen. SPECIES
-=======
+# Delicatula struthiopteridis Velen. SPECIES
 
 #### Status
 ACCEPTED

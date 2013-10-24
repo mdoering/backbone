@@ -1,5 +1,4 @@
-Verrucula protearia (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula protearia (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

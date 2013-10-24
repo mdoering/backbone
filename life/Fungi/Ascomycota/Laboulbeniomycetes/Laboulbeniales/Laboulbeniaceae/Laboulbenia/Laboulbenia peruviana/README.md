@@ -1,5 +1,4 @@
-Laboulbenia peruviana K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia peruviana K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

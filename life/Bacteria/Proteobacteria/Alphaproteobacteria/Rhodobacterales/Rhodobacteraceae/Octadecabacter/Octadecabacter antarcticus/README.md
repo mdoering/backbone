@@ -1,5 +1,4 @@
-Octadecabacter antarcticus Gosink et al., 1998 SPECIES
-=======
+# Octadecabacter antarcticus Gosink et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

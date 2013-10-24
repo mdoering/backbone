@@ -1,5 +1,4 @@
-Pestalozzina laurina Sacc. SPECIES
-=======
+# Pestalozzina laurina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leprosolimbata (Arnold) Lettau ex Poelt SPECIES
-=======
+# Lecidea leprosolimbata (Arnold) Lettau ex Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tettigomyces intermedius Thaxt. SPECIES
-=======
+# Tettigomyces intermedius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

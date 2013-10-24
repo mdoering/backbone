@@ -1,5 +1,4 @@
-Cercosporella sennenii Gonz. Frag. SPECIES
-=======
+# Cercosporella sennenii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

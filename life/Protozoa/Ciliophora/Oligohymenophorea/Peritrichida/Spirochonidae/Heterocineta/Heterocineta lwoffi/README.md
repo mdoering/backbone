@@ -1,5 +1,4 @@
-Heterocineta lwoffi Jarocki, 1934 SPECIES
-=======
+# Heterocineta lwoffi Jarocki, 1934 SPECIES
 
 #### Status
 ACCEPTED

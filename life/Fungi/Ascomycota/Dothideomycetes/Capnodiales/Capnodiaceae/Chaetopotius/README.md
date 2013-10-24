@@ -1,5 +1,4 @@
-Chaetopotius GENUS
-=======
+# Chaetopotius GENUS
 
 #### Status
 ACCEPTED

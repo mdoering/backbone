@@ -1,5 +1,4 @@
-Phloeospora lentis Fatehi & Punith. SPECIES
-=======
+# Phloeospora lentis Fatehi & Punith. SPECIES
 
 #### Status
 ACCEPTED

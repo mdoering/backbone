@@ -1,5 +1,4 @@
-Phaearthron Pedersen GENUS
-=======
+# Phaearthron Pedersen GENUS
 
 #### Status
 ACCEPTED

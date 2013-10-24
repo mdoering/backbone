@@ -1,5 +1,4 @@
-Nectria septospora Samuels & Brayford, 1993 SPECIES
-=======
+# Nectria septospora Samuels & Brayford, 1993 SPECIES
 
 #### Status
 ACCEPTED

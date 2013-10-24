@@ -1,5 +1,4 @@
-Gyrodinium sugashimanii J.Cachon, H.Saton, M.Cachon & S.Sato, 1989 SPECIES
-=======
+# Gyrodinium sugashimanii J.Cachon, H.Saton, M.Cachon & S.Sato, 1989 SPECIES
 
 #### Status
 ACCEPTED

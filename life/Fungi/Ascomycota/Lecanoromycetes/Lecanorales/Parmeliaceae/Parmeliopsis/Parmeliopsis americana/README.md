@@ -1,5 +1,4 @@
-Parmeliopsis americana Hillmann SPECIES
-=======
+# Parmeliopsis americana Hillmann SPECIES
 
 #### Status
 ACCEPTED

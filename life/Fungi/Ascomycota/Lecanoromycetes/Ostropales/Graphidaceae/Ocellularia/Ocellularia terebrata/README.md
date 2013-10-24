@@ -1,5 +1,4 @@
-Ocellularia terebrata f. terebrata FORM
-=======
+# Ocellularia terebrata (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ocellularia terebrata f. terebrata
+Thelotrema terebratum
 
 ### Remarks
 null

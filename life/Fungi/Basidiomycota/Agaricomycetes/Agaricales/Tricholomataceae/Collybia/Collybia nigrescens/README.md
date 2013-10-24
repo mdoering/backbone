@@ -1,5 +1,4 @@
-Collybia nigrescens Quél. SPECIES
-=======
+# Collybia nigrescens Quél. SPECIES
 
 #### Status
 ACCEPTED

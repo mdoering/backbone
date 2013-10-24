@@ -1,14 +1,13 @@
-Paullicorticium subinvisibile (Liberta) Hjortstam, 1987 SPECIES
-=======
+# Sphaerobasidium subinvisibile Liberta, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Windahlia 17: 76 (1987)
+Mycologia 58(6): 931 (1967)
 
 #### Original name
 Sphaerobasidium subinvisibile Liberta, 1967

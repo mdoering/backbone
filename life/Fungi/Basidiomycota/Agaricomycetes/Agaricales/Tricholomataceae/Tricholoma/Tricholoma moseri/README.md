@@ -1,5 +1,4 @@
-Tricholoma moseri Singer SPECIES
-=======
+# Tricholoma moseri Singer SPECIES
 
 #### Status
 ACCEPTED

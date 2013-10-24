@@ -1,5 +1,4 @@
-Buellia handelii Zahlbr. SPECIES
-=======
+# Buellia handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

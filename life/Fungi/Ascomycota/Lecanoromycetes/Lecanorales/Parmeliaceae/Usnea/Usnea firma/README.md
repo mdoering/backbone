@@ -1,5 +1,4 @@
-Usnea firma Motyka SPECIES
-=======
+# Usnea firma Motyka SPECIES
 
 #### Status
 ACCEPTED

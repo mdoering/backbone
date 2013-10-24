@@ -1,5 +1,4 @@
-Polystictus anomalus Lloyd SPECIES
-=======
+# Polystictus anomalus Lloyd SPECIES
 
 #### Status
 ACCEPTED

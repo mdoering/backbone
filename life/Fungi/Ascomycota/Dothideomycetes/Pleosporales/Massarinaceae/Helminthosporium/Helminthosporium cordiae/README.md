@@ -1,5 +1,4 @@
-Helminthosporium cordiae Welw. & Curr. SPECIES
-=======
+# Helminthosporium cordiae Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnocarpon Theiss. GENUS
-=======
+# Pycnocarpon Theiss. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Empusa jassii (E. Cohn) G. Winter SPECIES
-=======
+# Empusa jassii (E. Cohn) G. Winter SPECIES
 
 #### Status
 ACCEPTED

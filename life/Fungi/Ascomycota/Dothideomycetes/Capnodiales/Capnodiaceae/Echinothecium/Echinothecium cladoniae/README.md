@@ -1,5 +1,4 @@
-Echinothecium cladoniae Keissl. SPECIES
-=======
+# Echinothecium cladoniae Keissl. SPECIES
 
 #### Status
 ACCEPTED

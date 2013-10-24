@@ -1,5 +1,4 @@
-Xylohypha ortmansiae Minter, 1980 SPECIES
-=======
+# Xylohypha ortmansiae Minter, 1980 SPECIES
 
 #### Status
 ACCEPTED

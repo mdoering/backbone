@@ -1,5 +1,4 @@
-Lecidea perfida (Malme) Hue SPECIES
-=======
+# Lecidea perfida (Malme) Hue SPECIES
 
 #### Status
 ACCEPTED

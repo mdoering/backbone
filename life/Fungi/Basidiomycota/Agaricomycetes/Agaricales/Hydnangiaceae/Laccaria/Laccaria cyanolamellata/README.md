@@ -1,5 +1,4 @@
-Laccaria cyanolamellata B.E. Lechner & J.E. Wright, 2006 SPECIES
-=======
+# Laccaria cyanolamellata B.E. Lechner & J.E. Wright, 2006 SPECIES
 
 #### Status
 ACCEPTED

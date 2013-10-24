@@ -1,5 +1,4 @@
-Lecanactis grumosa Fr. SPECIES
-=======
+# Lecanactis grumosa Fr. SPECIES
 
 #### Status
 ACCEPTED

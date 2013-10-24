@@ -1,5 +1,4 @@
-Pyrenula glabrescens Vain. SPECIES
-=======
+# Pyrenula glabrescens Vain. SPECIES
 
 #### Status
 ACCEPTED

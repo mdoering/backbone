@@ -1,5 +1,4 @@
-Sclerophthora cryophila W. Jones, 1955 SPECIES
-=======
+# Sclerophthora cryophila W. Jones, 1955 SPECIES
 
 #### Status
 ACCEPTED

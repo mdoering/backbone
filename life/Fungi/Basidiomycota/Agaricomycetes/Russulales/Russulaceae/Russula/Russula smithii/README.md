@@ -1,5 +1,4 @@
-Russula smithii Singer SPECIES
-=======
+# Russula smithii Singer SPECIES
 
 #### Status
 ACCEPTED

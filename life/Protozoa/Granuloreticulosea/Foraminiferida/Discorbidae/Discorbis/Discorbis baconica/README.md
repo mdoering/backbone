@@ -1,5 +1,4 @@
-Discorbis baconica Hantken SPECIES
-=======
+# Discorbis baconica Hantken SPECIES
 
 #### Status
 ACCEPTED

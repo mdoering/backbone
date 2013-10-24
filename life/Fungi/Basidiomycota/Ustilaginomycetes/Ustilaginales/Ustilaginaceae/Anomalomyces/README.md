@@ -1,5 +1,4 @@
-Anomalomyces Vánky, M. Lutz & R.G. Shivas GENUS
-=======
+# Anomalomyces Vánky, M. Lutz & R.G. Shivas GENUS
 
 #### Status
 ACCEPTED

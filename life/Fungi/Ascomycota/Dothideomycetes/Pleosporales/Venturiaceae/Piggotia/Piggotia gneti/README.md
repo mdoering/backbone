@@ -1,5 +1,4 @@
-Piggotia gneti Henn. SPECIES
-=======
+# Piggotia gneti Henn. SPECIES
 
 #### Status
 ACCEPTED

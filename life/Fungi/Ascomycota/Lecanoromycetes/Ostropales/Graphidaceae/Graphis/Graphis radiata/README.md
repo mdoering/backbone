@@ -1,5 +1,4 @@
-Graphis radiata (Mont.) Nyl. SPECIES
-=======
+# Graphis radiata (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

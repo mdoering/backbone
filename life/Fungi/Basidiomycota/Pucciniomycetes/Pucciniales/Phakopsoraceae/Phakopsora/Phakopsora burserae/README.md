@@ -1,5 +1,4 @@
-Phakopsora burserae (Syd. & P. Syd.) Thirum. & F. Kern SPECIES
-=======
+# Phakopsora burserae (Syd. & P. Syd.) Thirum. & F. Kern SPECIES
 
 #### Status
 ACCEPTED

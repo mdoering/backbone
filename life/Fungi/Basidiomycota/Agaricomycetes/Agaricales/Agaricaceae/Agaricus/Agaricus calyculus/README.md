@@ -1,5 +1,4 @@
-Agaricus calyculus V. Brig. SPECIES
-=======
+# Agaricus calyculus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

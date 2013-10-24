@@ -1,5 +1,4 @@
-Alternaria viticola Brunaud SPECIES
-=======
+# Alternaria viticola Brunaud SPECIES
 
 #### Status
 ACCEPTED

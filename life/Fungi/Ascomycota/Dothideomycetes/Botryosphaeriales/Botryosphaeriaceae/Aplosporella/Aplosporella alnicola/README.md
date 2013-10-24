@@ -1,5 +1,4 @@
-Aplosporella alnicola (Peck) Petr. & Syd. SPECIES
-=======
+# Aplosporella alnicola (Peck) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

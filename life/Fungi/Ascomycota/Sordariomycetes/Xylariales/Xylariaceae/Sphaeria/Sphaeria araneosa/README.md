@@ -1,5 +1,4 @@
-Sphaeria araneosa Pers. SPECIES
-=======
+# Sphaeria araneosa Pers. SPECIES
 
 #### Status
 ACCEPTED

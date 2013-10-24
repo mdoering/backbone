@@ -1,5 +1,4 @@
-Lembosia vismiae Syd. SPECIES
-=======
+# Lembosia vismiae Syd. SPECIES
 
 #### Status
 ACCEPTED

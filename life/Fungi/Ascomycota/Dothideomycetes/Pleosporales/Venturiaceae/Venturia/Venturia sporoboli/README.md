@@ -1,5 +1,4 @@
-Venturia sporoboli H.C. Greene SPECIES
-=======
+# Venturia sporoboli H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

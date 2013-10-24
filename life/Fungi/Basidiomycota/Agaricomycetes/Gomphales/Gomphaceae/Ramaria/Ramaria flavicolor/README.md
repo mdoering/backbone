@@ -1,5 +1,4 @@
-Ramaria flavicolor Malençon, 1958 SPECIES
-=======
+# Ramaria flavicolor Malençon, 1958 SPECIES
 
 #### Status
 ACCEPTED

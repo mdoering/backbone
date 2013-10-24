@@ -1,5 +1,4 @@
-Discophrya inclinata Kellicott SPECIES
-=======
+# Discophrya inclinata Kellicott SPECIES
 
 #### Status
 ACCEPTED

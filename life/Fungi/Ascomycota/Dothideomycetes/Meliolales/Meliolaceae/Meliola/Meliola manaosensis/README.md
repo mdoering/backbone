@@ -1,5 +1,4 @@
-Meliola manaosensis Henn. SPECIES
-=======
+# Meliola manaosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

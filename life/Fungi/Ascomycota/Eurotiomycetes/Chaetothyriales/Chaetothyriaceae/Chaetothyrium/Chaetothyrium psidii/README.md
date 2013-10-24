@@ -1,5 +1,4 @@
-Chaetothyrium psidii (Bat.) Bat. & Cif. SPECIES
-=======
+# Chaetothyrium psidii (Bat.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

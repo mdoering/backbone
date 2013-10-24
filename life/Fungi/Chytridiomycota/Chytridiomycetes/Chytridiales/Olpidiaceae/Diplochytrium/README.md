@@ -1,5 +1,4 @@
-Diplochytrium GENUS
-=======
+# Diplochytrium GENUS
 
 #### Status
 ACCEPTED

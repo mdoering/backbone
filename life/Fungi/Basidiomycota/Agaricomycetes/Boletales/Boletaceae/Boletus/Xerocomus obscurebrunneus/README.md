@@ -1,5 +1,4 @@
-Xerocomus obscurebrunneus Hongo SPECIES
-=======
+# Xerocomus obscurebrunneus Hongo SPECIES
 
 #### Status
 ACCEPTED

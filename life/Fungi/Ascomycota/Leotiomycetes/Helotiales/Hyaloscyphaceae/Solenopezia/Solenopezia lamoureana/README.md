@@ -1,5 +1,4 @@
-Solenopezia lamoureana Raitv. SPECIES
-=======
+# Solenopezia lamoureana Raitv. SPECIES
 
 #### Status
 ACCEPTED

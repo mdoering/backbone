@@ -1,5 +1,4 @@
-Platystomum scabridisporum Abdel-Wahab & E.B.G. Jones, 2000 SPECIES
-=======
+# Platystomum scabridisporum Abdel-Wahab & E.B.G. Jones, 2000 SPECIES
 
 #### Status
 ACCEPTED

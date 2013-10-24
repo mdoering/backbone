@@ -1,5 +1,4 @@
-Pneumocystis wakefieldiae Cushion, Keely & Stringer SPECIES
-=======
+# Pneumocystis wakefieldiae Cushion, Keely & Stringer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thoracosphaera eichstaettensis Keupp, 1978 SPECIES
-=======
+# Thoracosphaera eichstaettensis Keupp, 1978 SPECIES
 
 #### Status
 ACCEPTED

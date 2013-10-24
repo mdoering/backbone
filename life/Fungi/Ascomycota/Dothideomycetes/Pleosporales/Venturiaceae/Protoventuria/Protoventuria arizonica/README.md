@@ -1,5 +1,4 @@
-Protoventuria arizonica M.E. Barr SPECIES
-=======
+# Protoventuria arizonica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

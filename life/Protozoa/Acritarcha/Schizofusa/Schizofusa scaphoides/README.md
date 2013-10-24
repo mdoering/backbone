@@ -1,5 +1,4 @@
-Schizofusa scaphoides Yan Yuzhong, 1985 SPECIES
-=======
+# Schizofusa scaphoides Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

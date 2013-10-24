@@ -1,5 +1,4 @@
-Ceratobasidium album Rick SPECIES
-=======
+# Ceratobasidium album Rick SPECIES
 
 #### Status
 ACCEPTED

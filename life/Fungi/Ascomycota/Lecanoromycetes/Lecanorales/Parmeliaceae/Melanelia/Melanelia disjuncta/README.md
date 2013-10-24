@@ -1,17 +1,16 @@
-Melanelia granulosa (Lynge) Essl. SPECIES
-=======
+# Melanelia disjuncta (Erichsen) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Egan, Bryologist 90(2): 163 (1987)
+Mycotaxon 7(1): 46 (1978)
 
 #### Original name
-Parmelia granulosa (Hoffm.) Mart.
+Parmelia disjuncta Erichsen
 
 ### Remarks
 null

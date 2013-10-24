@@ -1,5 +1,4 @@
-Coniothyrium sooi Tóth SPECIES
-=======
+# Coniothyrium sooi Tóth SPECIES
 
 #### Status
 ACCEPTED

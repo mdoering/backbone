@@ -1,5 +1,4 @@
-Episphaeria Donk, 1962 GENUS
-=======
+# Episphaeria Donk, 1962 GENUS
 
 #### Status
 ACCEPTED

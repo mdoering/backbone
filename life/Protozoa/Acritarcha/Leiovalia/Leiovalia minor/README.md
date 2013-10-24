@@ -1,5 +1,4 @@
-Leiovalia minor Jiabo, 1978 SPECIES
-=======
+# Leiovalia minor Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

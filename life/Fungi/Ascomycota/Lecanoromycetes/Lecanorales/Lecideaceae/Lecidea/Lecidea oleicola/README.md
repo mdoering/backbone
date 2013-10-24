@@ -1,5 +1,4 @@
-Lecidea oleicola (J. Steiner) Hue SPECIES
-=======
+# Lecidea oleicola (J. Steiner) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza atrofusca Beck, 1884 SPECIES
-=======
+# Wynnella silvicola (Beck) Nannf., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilzfl. Niederösterr. 3: 49 (1885)
+Ann. bot. fenn. 3: 309 (1966)
 
 #### Original name
-Peziza atrofusca Beck, 1884
+Otidea silvicola Beck, 1889
 
 ### Remarks
 null

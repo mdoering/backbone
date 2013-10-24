@@ -1,5 +1,4 @@
-Buellia endococcodes Vain. SPECIES
-=======
+# Buellia endococcodes Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coltricia subfastosa Corner, 1991 SPECIES
-=======
+# Coltricia subfastosa Corner, 1991 SPECIES
 
 #### Status
 ACCEPTED

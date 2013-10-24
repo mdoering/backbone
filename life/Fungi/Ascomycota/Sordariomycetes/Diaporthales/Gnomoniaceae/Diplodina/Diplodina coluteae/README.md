@@ -1,5 +1,4 @@
-Diplodina coluteae Hollós SPECIES
-=======
+# Diplodina coluteae Hollós SPECIES
 
 #### Status
 ACCEPTED

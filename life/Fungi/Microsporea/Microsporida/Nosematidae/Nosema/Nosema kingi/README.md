@@ -1,5 +1,4 @@
-Nosema kingi J. Kramer SPECIES
-=======
+# Nosema kingi J. Kramer SPECIES
 
 #### Status
 ACCEPTED

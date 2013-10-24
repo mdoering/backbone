@@ -1,5 +1,4 @@
-Dermocybe nahuelbutensis Garrido & E. Horak SPECIES
-=======
+# Dermocybe nahuelbutensis Garrido & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corallocytostroma oryzae Y.N. Yu & Z.Y. Zhang, 1980 SPECIES
-=======
+# Corallocytostroma oryzae Y.N. Yu & Z.Y. Zhang, 1980 SPECIES
 
 #### Status
 ACCEPTED

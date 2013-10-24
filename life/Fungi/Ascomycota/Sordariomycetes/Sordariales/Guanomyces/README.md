@@ -1,5 +1,4 @@
-Guanomyces M.C. González, Hanlin & Ulloa GENUS
-=======
+# Guanomyces M.C. González, Hanlin & Ulloa GENUS
 
 #### Status
 ACCEPTED

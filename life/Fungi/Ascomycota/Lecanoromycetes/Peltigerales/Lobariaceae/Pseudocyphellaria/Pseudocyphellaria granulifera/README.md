@@ -1,5 +1,4 @@
-Pseudocyphellaria granulifera (Hue) H. Magn. SPECIES
-=======
+# Pseudocyphellaria granulifera (Hue) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

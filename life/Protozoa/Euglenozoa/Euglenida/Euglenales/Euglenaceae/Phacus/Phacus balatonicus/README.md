@@ -1,5 +1,4 @@
-Phacus balatonicus var. boglariensis Hortobagy VARIETY
-=======
+# Phacus balatonicus Hortobagy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricicola Fuckel SPECIES
-=======
+# Puccinia caricicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

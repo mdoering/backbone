@@ -1,14 +1,13 @@
-Platygrapha coccinea Leight. SPECIES
-=======
+# Chroodiscus coccineus (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 25: 456 (1866)
+Lichenes Epiphylli Novi 18 (1890)
 
 #### Original name
 Platygrapha coccinea Leight.

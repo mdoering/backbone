@@ -1,5 +1,4 @@
-Boletus bohemicus Velen. SPECIES
-=======
+# Boletus bohemicus Velen. SPECIES
 
 #### Status
 ACCEPTED

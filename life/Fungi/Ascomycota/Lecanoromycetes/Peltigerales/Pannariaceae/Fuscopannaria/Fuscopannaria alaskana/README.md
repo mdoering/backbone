@@ -1,5 +1,4 @@
-Fuscopannaria alaskana P. M. Jørg. & Tønsberg SPECIES
-=======
+# Fuscopannaria alaskana P. M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

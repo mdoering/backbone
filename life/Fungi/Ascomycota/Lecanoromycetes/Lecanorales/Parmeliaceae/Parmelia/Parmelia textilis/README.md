@@ -1,5 +1,4 @@
-Parmelia textilis (Ach.) Röhl. SPECIES
-=======
+# Parmelia textilis (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia crassa Rick SPECIES
-=======
+# Stropharia crassa Rick SPECIES
 
 #### Status
 ACCEPTED

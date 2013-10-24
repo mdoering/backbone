@@ -1,5 +1,4 @@
-Eurychilum André, 1910 GENUS
-=======
+# Eurychilum André, 1910 GENUS
 
 #### Status
 ACCEPTED

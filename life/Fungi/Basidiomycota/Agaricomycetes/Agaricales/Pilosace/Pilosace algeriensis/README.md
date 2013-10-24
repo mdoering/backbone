@@ -1,5 +1,4 @@
-Pilosace algeriensis subsp. algeriensis SUBSPECIES
-=======
+# Pilosace algeriensis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 360 (1873)
 
 #### Original name
-Pilosace algeriensis subsp. algeriensis
+Agaricus algeriensis Fr.
 
 ### Remarks
 null

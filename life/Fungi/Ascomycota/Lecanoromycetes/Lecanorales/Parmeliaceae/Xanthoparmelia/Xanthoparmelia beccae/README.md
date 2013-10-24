@@ -1,5 +1,4 @@
-Xanthoparmelia beccae Aptroot SPECIES
-=======
+# Xanthoparmelia beccae Aptroot SPECIES
 
 #### Status
 ACCEPTED

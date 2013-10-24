@@ -1,5 +1,4 @@
-Bagginidae Cushman, 1927 FAMILY
-=======
+# Bagginidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

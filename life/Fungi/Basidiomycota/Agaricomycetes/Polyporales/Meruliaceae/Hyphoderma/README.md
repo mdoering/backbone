@@ -1,17 +1,16 @@
-Neokneiffia Sacc. GENUS
-=======
+# Hyphoderma Wallroth, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tab. Comp. Gen. Fungorum 11 (1898)
+Fl. crypt. Germ. (Nürnberg) 2: 576 (1833)
 
 #### Original name
-Neokneiffia Sacc.
+Hyphoderma Wallroth, 1833
 
 ### Remarks
 null

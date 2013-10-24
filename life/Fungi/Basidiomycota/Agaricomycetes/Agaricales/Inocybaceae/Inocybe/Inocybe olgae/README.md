@@ -1,5 +1,4 @@
-Inocybe olgae Velen. SPECIES
-=======
+# Inocybe olgae Velen. SPECIES
 
 #### Status
 ACCEPTED

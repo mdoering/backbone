@@ -1,5 +1,4 @@
-Hypocapnodium camelliae (Hara) W. Yamam. SPECIES
-=======
+# Hypocapnodium camelliae (Hara) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

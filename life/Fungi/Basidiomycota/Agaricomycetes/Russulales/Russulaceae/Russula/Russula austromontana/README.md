@@ -1,5 +1,4 @@
-Russula austromontana Singer SPECIES
-=======
+# Russula austromontana Singer SPECIES
 
 #### Status
 ACCEPTED

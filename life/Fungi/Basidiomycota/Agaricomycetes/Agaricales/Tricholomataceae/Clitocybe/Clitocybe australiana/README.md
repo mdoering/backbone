@@ -1,5 +1,4 @@
-Clitocybe australiana Cleland SPECIES
-=======
+# Clitocybe australiana Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma jaluitense Henn. SPECIES
-=======
+# Hypholoma jaluitense Henn. SPECIES
 
 #### Status
 ACCEPTED

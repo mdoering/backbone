@@ -1,5 +1,4 @@
-Arthrographis lignicola Sigler, 1983 SPECIES
-=======
+# Arthrographis lignicola Sigler, 1983 SPECIES
 
 #### Status
 ACCEPTED

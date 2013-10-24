@@ -1,5 +1,4 @@
-Buellia nantiana B. de Lesd. SPECIES
-=======
+# Buellia nantiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

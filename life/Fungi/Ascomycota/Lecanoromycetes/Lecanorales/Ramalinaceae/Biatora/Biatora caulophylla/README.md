@@ -1,5 +1,4 @@
-Biatora caulophylla Tuck. SPECIES
-=======
+# Biatora caulophylla Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria dealbata Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria dealbata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

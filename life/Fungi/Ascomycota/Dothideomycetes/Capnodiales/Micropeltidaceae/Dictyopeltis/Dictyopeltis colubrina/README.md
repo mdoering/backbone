@@ -1,5 +1,4 @@
-Dictyopeltis colubrina (Ellis & Kalchbr.) Theiss. SPECIES
-=======
+# Dictyopeltis colubrina (Ellis & Kalchbr.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

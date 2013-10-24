@@ -1,5 +1,4 @@
-Guignardia gmelinae Ts. Kobay. SPECIES
-=======
+# Guignardia gmelinae Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

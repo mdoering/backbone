@@ -1,5 +1,4 @@
-Aecidium lineare J.F. Gmel. SPECIES
-=======
+# Aecidium lineare J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

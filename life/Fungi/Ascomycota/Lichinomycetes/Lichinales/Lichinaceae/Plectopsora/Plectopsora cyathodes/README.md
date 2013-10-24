@@ -1,5 +1,4 @@
-Plectopsora cyathodes (A. Massal.) Körb. SPECIES
-=======
+# Plectopsora cyathodes (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

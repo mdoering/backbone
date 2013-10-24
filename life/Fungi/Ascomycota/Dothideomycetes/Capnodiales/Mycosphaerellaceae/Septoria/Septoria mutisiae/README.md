@@ -1,5 +1,4 @@
-Septoria mutisiae Speg. SPECIES
-=======
+# Septoria mutisiae Speg. SPECIES
 
 #### Status
 ACCEPTED

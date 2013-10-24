@@ -1,5 +1,4 @@
-Dentalina gumbeli Hantken SPECIES
-=======
+# Dentalina gumbeli Hantken SPECIES
 
 #### Status
 ACCEPTED

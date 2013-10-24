@@ -1,5 +1,4 @@
-Chiasmolithus titus S. Gartner SPECIES
-=======
+# Chiasmolithus titus S. Gartner SPECIES
 
 #### Status
 ACCEPTED

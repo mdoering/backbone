@@ -1,5 +1,4 @@
-Tintinnopsella scadrica Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella scadrica Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

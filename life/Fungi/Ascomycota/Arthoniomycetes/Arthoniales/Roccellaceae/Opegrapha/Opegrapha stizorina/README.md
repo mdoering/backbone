@@ -1,5 +1,4 @@
-Opegrapha stizorina Chevall. SPECIES
-=======
+# Opegrapha stizorina Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium crocinum Berk. & M.A. Curtis SPECIES
-=======
+# Helotium crocinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

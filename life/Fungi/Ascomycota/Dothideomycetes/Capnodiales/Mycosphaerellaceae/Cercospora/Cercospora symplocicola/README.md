@@ -1,5 +1,4 @@
-Cercospora symplocicola J.M. Yen SPECIES
-=======
+# Cercospora symplocicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

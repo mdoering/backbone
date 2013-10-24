@@ -1,5 +1,4 @@
-Dicellaesporites appendiculatus Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites appendiculatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

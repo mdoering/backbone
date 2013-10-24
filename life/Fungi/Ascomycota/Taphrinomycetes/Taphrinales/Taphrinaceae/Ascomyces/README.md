@@ -1,5 +1,4 @@
-Ascomyces GENUS
-=======
+# Ascomyces GENUS
 
 #### Status
 ACCEPTED

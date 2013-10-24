@@ -1,5 +1,4 @@
-Hebeloma dryophilum Murrill SPECIES
-=======
+# Hebeloma dryophilum Murrill SPECIES
 
 #### Status
 ACCEPTED

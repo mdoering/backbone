@@ -1,5 +1,4 @@
-Ammobaculites stephensoni Cushman, 1933 SPECIES
-=======
+# Ammobaculites stephensoni Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

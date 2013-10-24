@@ -1,17 +1,16 @@
-Daldinia concentrica var. obovata (Fr.) Sacc., 1882 VARIETY
-=======
+# Daldinia fissa Lloyd, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 394 (1882)
+Mycol. Writ. 7: 1313 (1922)
 
 #### Original name
-Sphaeria concentrica var. obovata Fr., 1823
+Daldinia fissa Lloyd, 1922
 
 ### Remarks
 null

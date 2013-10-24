@@ -1,5 +1,4 @@
-Cladosporium syphiliticum Hallier SPECIES
-=======
+# Cladosporium syphiliticum Hallier SPECIES
 
 #### Status
 ACCEPTED

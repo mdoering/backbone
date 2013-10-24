@@ -1,5 +1,4 @@
-Mycoarachis inversa Malloch & Cain, 1970 SPECIES
-=======
+# Mycoarachis inversa Malloch & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

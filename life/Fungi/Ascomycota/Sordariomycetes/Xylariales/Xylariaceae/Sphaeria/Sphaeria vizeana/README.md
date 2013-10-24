@@ -1,5 +1,4 @@
-Sphaeria vizeana Cooke SPECIES
-=======
+# Sphaeria vizeana Cooke SPECIES
 
 #### Status
 ACCEPTED

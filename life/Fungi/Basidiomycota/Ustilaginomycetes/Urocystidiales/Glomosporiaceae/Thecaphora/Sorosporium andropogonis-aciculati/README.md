@@ -1,5 +1,4 @@
-Sorosporium andropogonis-aciculati Petch SPECIES
-=======
+# Sorosporium andropogonis-aciculati Petch SPECIES
 
 #### Status
 ACCEPTED

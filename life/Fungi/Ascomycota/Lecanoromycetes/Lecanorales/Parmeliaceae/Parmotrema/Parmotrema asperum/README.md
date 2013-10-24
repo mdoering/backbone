@@ -1,5 +1,4 @@
-Parmotrema asperum Benatti, Marcelli & Elix SPECIES
-=======
+# Parmotrema asperum Benatti, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

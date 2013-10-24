@@ -1,5 +1,4 @@
-Dimerosporium saxegotheae Henn. SPECIES
-=======
+# Dimerosporium saxegotheae Henn. SPECIES
 
 #### Status
 ACCEPTED

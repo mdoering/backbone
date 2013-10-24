@@ -1,5 +1,4 @@
-Ovularia rhamnigena Ellis & Everh. SPECIES
-=======
+# Ovularia rhamnigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

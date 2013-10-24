@@ -1,17 +1,16 @@
-Lentinus tanghiniae var. tanghiniae VARIETY
-=======
+# Lentinus sajor-caju (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 119 (1846)
+Epicr. syst. mycol. (Upsaliae) 393 (1838)
 
 #### Original name
-Lentinus tanghiniae var. tanghiniae
+Agaricus sajor-caju Fr., 1821
 
 ### Remarks
 null

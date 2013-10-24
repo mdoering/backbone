@@ -1,11 +1,10 @@
-Beijerinckia macrocytogenes (Jensen, 1955) Rubenchik, 1959 SPECIES
-=======
+# Azomonas macrocytogenes (Jensen, 1955) New & Tchan, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Ascochyta vivicola Sacc. SPECIES
-=======
+# Ascochyta vivicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

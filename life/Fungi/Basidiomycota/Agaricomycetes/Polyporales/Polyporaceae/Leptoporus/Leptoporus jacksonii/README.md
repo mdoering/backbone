@@ -1,5 +1,4 @@
-Leptoporus jacksonii Pilát SPECIES
-=======
+# Leptoporus jacksonii Pilát SPECIES
 
 #### Status
 ACCEPTED

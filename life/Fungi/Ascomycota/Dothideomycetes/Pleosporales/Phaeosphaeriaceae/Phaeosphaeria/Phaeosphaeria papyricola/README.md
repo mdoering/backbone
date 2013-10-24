@@ -1,5 +1,4 @@
-Phaeosphaeria papyricola (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Phaeosphaeria papyricola (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

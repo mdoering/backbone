@@ -1,8 +1,7 @@
-Spirodinium spirale var. obtusum Lemmermann VARIETY
-=======
+# Gyrodinium obtusum (Schütt) Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

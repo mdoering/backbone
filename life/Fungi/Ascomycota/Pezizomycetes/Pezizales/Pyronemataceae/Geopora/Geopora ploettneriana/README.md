@@ -1,5 +1,4 @@
-Geopora ploettneriana ined. SPECIES
-=======
+# Geopora ploettneriana ined. SPECIES
 
 #### Status
 ACCEPTED

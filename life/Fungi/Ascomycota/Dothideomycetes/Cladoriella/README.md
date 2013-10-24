@@ -1,5 +1,4 @@
-Cladoriella Crous GENUS
-=======
+# Cladoriella Crous GENUS
 
 #### Status
 ACCEPTED

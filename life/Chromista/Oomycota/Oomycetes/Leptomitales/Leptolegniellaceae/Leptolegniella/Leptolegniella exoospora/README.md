@@ -1,5 +1,4 @@
-Leptolegniella exoospora W.D. Kane, 1967 SPECIES
-=======
+# Leptolegniella exoospora W.D. Kane, 1967 SPECIES
 
 #### Status
 ACCEPTED

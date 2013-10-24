@@ -1,5 +1,4 @@
-Asterina cyathearum Racib. SPECIES
-=======
+# Asterina cyathearum Racib. SPECIES
 
 #### Status
 ACCEPTED

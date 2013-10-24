@@ -1,5 +1,4 @@
-Bacidia myricicola (Vain.) Yasuda SPECIES
-=======
+# Bacidia myricicola (Vain.) Yasuda SPECIES
 
 #### Status
 ACCEPTED

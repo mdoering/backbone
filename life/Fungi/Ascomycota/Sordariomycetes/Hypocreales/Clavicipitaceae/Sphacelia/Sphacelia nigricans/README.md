@@ -1,5 +1,4 @@
-Sphacelia nigricans Sacc. SPECIES
-=======
+# Sphacelia nigricans Sacc. SPECIES
 
 #### Status
 ACCEPTED

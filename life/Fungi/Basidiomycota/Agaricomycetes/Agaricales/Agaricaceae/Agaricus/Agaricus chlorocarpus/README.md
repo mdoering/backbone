@@ -1,5 +1,4 @@
-Agaricus chlorocarpus J. Otto SPECIES
-=======
+# Agaricus chlorocarpus J. Otto SPECIES
 
 #### Status
 ACCEPTED

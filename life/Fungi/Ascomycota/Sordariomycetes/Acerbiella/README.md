@@ -1,17 +1,16 @@
-Meringosphaeria Peyronel GENUS
-=======
+# Acerbiella Sacc. & D. Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 25: 414 (1918)
+Syll. fung. (Abellini) 17: 768 (1905)
 
 #### Original name
-Meringosphaeria Peyronel
+Acerbiella Sacc. & D. Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sestropyramis Haeckel, 1887 GENUS
-=======
+# Sestropyramis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

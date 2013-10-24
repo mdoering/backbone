@@ -1,5 +1,4 @@
-Artomyces adrienneae Lickey, 2003 SPECIES
-=======
+# Artomyces adrienneae Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe marangania Grgur. SPECIES
-=======
+# Inocybe marangania Grgur. SPECIES
 
 #### Status
 ACCEPTED

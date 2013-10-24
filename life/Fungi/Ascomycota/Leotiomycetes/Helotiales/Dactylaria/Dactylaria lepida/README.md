@@ -1,5 +1,4 @@
-Dactylaria lepida Minter, 1980 SPECIES
-=======
+# Dactylaria lepida Minter, 1980 SPECIES
 
 #### Status
 ACCEPTED

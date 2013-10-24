@@ -1,5 +1,4 @@
-Scleroderma bougheri Trappe, Castellano & Giachini, 2000 SPECIES
-=======
+# Scleroderma bougheri Trappe, Castellano & Giachini, 2000 SPECIES
 
 #### Status
 ACCEPTED

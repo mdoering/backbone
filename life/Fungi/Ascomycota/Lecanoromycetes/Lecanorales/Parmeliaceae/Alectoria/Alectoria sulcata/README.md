@@ -1,17 +1,16 @@
-Alectoria sulcata var. sulcata VARIETY
-=======
+# Alectoria sulcata (Lév.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Bryopogon sulcatus (Lév.) Gyeln.
 
 ### Remarks
 null

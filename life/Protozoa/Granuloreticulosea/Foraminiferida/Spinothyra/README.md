@@ -1,5 +1,4 @@
-Spinothyra Mamet, 1976 GENUS
-=======
+# Spinothyra Mamet, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobelonium phaeum var. phaeum VARIETY
-=======
+# Trichobelonium phaeum Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichobelonium phaeum var. phaeum
+Trichobelonium phaeum Rehm
 
 ### Remarks
 null

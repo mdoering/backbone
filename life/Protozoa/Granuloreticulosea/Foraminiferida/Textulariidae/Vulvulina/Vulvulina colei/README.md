@@ -1,5 +1,4 @@
-Vulvulina colei Cushman, 1932 SPECIES
-=======
+# Vulvulina colei Cushman, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caryospora striata (Niessl) Scheinpflug SPECIES
-=======
+# Caryospora striata (Niessl) Scheinpflug SPECIES
 
 #### Status
 ACCEPTED

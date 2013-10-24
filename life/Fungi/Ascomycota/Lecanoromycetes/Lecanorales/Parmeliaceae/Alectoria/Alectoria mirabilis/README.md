@@ -1,5 +1,4 @@
-Alectoria mirabilis Motyka SPECIES
-=======
+# Alectoria mirabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

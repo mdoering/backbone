@@ -1,17 +1,16 @@
-Lohmannia Neresheimer, 1903 GENUS
-=======
+# Sphaeripara Poche, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biol. Centralbl. , 23, 757.
+Arch. Naturgesch. , 77 (1), Suppl. 1, 80.
 
 #### Original name
-null
+Lohmannella Neresheimer, 1904
 
 ### Remarks
 null

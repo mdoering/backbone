@@ -1,5 +1,4 @@
-Strigula deplanata Müll. Arg. SPECIES
-=======
+# Strigula deplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

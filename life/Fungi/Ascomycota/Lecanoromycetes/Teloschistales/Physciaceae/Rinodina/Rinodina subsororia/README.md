@@ -1,5 +1,4 @@
-Rinodina subsororia Vain. SPECIES
-=======
+# Rinodina subsororia Vain. SPECIES
 
 #### Status
 ACCEPTED

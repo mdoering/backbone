@@ -1,17 +1,16 @@
-Russula ulixis var. ulixis VARIETY
-=======
+# Russula ulixis Reumaux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Reumaux, Bidaud & Moënne-Loccoz, Fungi Non Delineati, Raro vel Haud Perspecte et Explorate Descripti aut Definite Picti 8: 17 (1999)
 
 #### Original name
-null
+Russula ulixis Reumaux
 
 ### Remarks
 null

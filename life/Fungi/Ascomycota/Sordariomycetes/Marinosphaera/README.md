@@ -1,5 +1,4 @@
-Marinosphaera K.D. Hyde GENUS
-=======
+# Marinosphaera K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

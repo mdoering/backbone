@@ -1,5 +1,4 @@
-Hormisciella GENUS
-=======
+# Hormisciella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeora elatina (Ach.) Flot. SPECIES
-=======
+# Zeora elatina (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED

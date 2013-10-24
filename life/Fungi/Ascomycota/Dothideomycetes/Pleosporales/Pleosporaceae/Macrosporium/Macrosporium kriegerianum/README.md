@@ -1,5 +1,4 @@
-Macrosporium kriegerianum Bres. SPECIES
-=======
+# Macrosporium kriegerianum Bres. SPECIES
 
 #### Status
 ACCEPTED

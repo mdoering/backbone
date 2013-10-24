@@ -1,5 +1,4 @@
-Xylaria subgracillima Henn. SPECIES
-=======
+# Xylaria subgracillima Henn. SPECIES
 
 #### Status
 ACCEPTED

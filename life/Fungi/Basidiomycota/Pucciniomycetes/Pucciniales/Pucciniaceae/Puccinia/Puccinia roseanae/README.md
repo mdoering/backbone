@@ -1,5 +1,4 @@
-Puccinia roseanae Arthur SPECIES
-=======
+# Puccinia roseanae Arthur SPECIES
 
 #### Status
 ACCEPTED

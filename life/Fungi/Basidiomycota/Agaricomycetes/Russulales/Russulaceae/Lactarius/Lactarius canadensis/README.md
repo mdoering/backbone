@@ -1,5 +1,4 @@
-Lactarius canadensis A.H. Sm. SPECIES
-=======
+# Lactarius canadensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

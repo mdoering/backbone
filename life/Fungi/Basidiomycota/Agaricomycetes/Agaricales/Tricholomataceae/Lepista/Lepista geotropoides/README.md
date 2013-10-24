@@ -1,5 +1,4 @@
-Lepista geotropoides Singer SPECIES
-=======
+# Lepista geotropoides Singer SPECIES
 
 #### Status
 ACCEPTED

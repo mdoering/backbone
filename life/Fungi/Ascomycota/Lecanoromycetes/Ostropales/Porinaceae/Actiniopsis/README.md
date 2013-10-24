@@ -1,5 +1,4 @@
-Actiniopsis GENUS
-=======
+# Actiniopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia melandrii Plats SPECIES
-=======
+# Puccinia melandrii Plats SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eopolyporoides kuklei Rigby SPECIES
-=======
+# Eopolyporoides kuklei Rigby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus erythrellus (Speg.) Singer SPECIES
-=======
+# Leucoagaricus erythrellus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

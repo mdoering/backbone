@@ -1,5 +1,4 @@
-Amphoroblastia olivascens (Zahlbr.) Servít SPECIES
-=======
+# Amphoroblastia olivascens (Zahlbr.) Servít SPECIES
 
 #### Status
 ACCEPTED

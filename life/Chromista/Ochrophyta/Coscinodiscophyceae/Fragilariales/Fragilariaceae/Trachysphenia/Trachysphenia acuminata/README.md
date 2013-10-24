@@ -1,5 +1,4 @@
-Trachysphenia acuminata M. Peragallo in Tempère & Peragallo, 1910 SPECIES
-=======
+# Trachysphenia acuminata M. Peragallo in Tempère & Peragallo, 1910 SPECIES
 
 #### Status
 ACCEPTED

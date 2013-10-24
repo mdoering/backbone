@@ -1,5 +1,4 @@
-Pluteus subantarcticus E. Horak, 2008 SPECIES
-=======
+# Pluteus subantarcticus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

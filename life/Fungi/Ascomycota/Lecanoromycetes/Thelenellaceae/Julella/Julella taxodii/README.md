@@ -1,5 +1,4 @@
-Julella taxodii R. C. Harris SPECIES
-=======
+# Julella taxodii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

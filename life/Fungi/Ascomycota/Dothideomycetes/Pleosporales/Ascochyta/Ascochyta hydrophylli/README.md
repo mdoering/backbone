@@ -1,5 +1,4 @@
-Ascochyta hydrophylli R. Sprague SPECIES
-=======
+# Ascochyta hydrophylli R. Sprague SPECIES
 
 #### Status
 ACCEPTED

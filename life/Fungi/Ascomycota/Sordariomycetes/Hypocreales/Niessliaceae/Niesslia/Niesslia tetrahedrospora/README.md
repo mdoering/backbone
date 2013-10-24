@@ -1,5 +1,4 @@
-Niesslia tetrahedrospora Etayo SPECIES
-=======
+# Niesslia tetrahedrospora Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora ebulicola (W. Yamam.) Deighton SPECIES
-=======
+# Pseudocercospora ebulicola (W. Yamam.) Deighton SPECIES
 
 #### Status
 ACCEPTED

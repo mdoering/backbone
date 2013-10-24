@@ -1,5 +1,4 @@
-Pleospora minuta Kirschst. SPECIES
-=======
+# Pleospora minuta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

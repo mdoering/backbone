@@ -1,5 +1,4 @@
-Helotium dolosellum f. dolosellum P. Karst. FORM
-=======
+# Helotium dolosellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium dolosellum f. dolosellum P. Karst.
+Helotium dolosellum P. Karst.
 
 ### Remarks
 null

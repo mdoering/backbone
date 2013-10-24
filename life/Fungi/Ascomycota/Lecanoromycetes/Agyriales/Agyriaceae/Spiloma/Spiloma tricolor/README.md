@@ -1,5 +1,4 @@
-Spiloma tricolor SPECIES
-=======
+# Spiloma tricolor SPECIES
 
 #### Status
 ACCEPTED

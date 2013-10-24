@@ -1,5 +1,4 @@
-Diplodia akebiae Fairm. SPECIES
-=======
+# Diplodia akebiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

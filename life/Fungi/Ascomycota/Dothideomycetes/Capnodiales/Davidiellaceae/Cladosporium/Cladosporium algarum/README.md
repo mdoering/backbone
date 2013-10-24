@@ -1,5 +1,4 @@
-Cladosporium algarum Cooke & Massee, 1888 SPECIES
-=======
+# Cladosporium algarum Cooke & Massee, 1888 SPECIES
 
 #### Status
 ACCEPTED

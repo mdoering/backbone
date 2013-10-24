@@ -1,5 +1,4 @@
-Pezizella jaapii Rehm SPECIES
-=======
+# Pezizella jaapii Rehm SPECIES
 
 #### Status
 ACCEPTED

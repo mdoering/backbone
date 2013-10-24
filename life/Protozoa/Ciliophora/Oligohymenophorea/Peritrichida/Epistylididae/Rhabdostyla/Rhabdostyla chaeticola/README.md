@@ -1,5 +1,4 @@
-Rhabdostyla chaeticola Stokes, 1887 SPECIES
-=======
+# Rhabdostyla chaeticola Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

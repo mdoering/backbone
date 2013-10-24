@@ -1,5 +1,4 @@
-Paxillus fechtneri (Velen.) Velen. SPECIES
-=======
+# Paxillus fechtneri (Velen.) Velen. SPECIES
 
 #### Status
 ACCEPTED

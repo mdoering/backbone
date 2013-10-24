@@ -1,5 +1,4 @@
-Schiffnerula tovarensis Syd., 1930 SPECIES
-=======
+# Schiffnerula tovarensis Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

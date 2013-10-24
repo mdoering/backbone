@@ -1,17 +1,16 @@
-Allescheria R. Hartig, 1899 GENUS
-=======
+# Meria Vuillemin, 1896 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Centralbl. Gesammte Forstwesen 25: 425 (1899)
+C. r. hebd. Séanc. Acad. Sci. , Paris 122: 546 (1896)
 
 #### Original name
-Allescheria R. Hartig, 1899
+Meria Vuillemin, 1896
 
 ### Remarks
 null

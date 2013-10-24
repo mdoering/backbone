@@ -1,8 +1,7 @@
-Coniothyrium euphorbicola Hollós SPECIES
-=======
+# Coniothyrium euphorbiicola Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium euphorbicola Hollós
+Coniothyrium euphorbiicola Hollós
 
 ### Remarks
 null

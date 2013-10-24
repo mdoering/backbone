@@ -1,5 +1,4 @@
-Pertusaria phusoidaoensis Jariangpr. SPECIES
-=======
+# Pertusaria phusoidaoensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

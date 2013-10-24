@@ -1,5 +1,4 @@
-Teichosporella rauzabagensis P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Teichosporella rauzabagensis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

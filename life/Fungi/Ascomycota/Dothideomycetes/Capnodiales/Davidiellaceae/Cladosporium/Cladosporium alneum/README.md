@@ -1,5 +1,4 @@
-Cladosporium alneum Pass. ex K. Schub. SPECIES
-=======
+# Cladosporium alneum Pass. ex K. Schub. SPECIES
 
 #### Status
 ACCEPTED

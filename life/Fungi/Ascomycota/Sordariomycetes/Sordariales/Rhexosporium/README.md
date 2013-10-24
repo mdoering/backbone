@@ -1,5 +1,4 @@
-Rhexosporium Udagawa & Furuya GENUS
-=======
+# Rhexosporium Udagawa & Furuya GENUS
 
 #### Status
 ACCEPTED

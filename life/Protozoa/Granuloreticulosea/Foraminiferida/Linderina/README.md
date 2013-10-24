@@ -1,5 +1,4 @@
-Linderina Schlumberger, 1893 GENUS
-=======
+# Linderina Schlumberger, 1893 GENUS
 
 #### Status
 ACCEPTED

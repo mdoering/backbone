@@ -1,5 +1,4 @@
-Neobursaridium Balech, 1941 GENUS
-=======
+# Neobursaridium Balech, 1941 GENUS
 
 #### Status
 ACCEPTED

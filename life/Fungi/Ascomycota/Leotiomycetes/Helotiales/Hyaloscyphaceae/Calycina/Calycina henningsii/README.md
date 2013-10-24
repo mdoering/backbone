@@ -1,5 +1,4 @@
-Calycina henningsii Kuntze SPECIES
-=======
+# Calycina henningsii Kuntze SPECIES
 
 #### Status
 ACCEPTED

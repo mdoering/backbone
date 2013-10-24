@@ -1,5 +1,4 @@
-Ustacystis Zundel GENUS
-=======
+# Ustacystis Zundel GENUS
 
 #### Status
 ACCEPTED

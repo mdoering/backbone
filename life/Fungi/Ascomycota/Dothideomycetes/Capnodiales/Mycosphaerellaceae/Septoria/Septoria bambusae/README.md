@@ -1,5 +1,4 @@
-Septoria bambusae Verwoerd & Du Plessis SPECIES
-=======
+# Septoria bambusae Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

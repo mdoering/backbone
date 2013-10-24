@@ -1,5 +1,4 @@
-Pleospora inclusa Fuckel SPECIES
-=======
+# Pleospora inclusa Fuckel SPECIES
 
 #### Status
 ACCEPTED

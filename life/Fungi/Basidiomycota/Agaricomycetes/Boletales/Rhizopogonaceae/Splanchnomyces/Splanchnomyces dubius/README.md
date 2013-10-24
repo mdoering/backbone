@@ -1,5 +1,4 @@
-Splanchnomyces dubius Corda SPECIES
-=======
+# Splanchnomyces dubius Corda SPECIES
 
 #### Status
 ACCEPTED

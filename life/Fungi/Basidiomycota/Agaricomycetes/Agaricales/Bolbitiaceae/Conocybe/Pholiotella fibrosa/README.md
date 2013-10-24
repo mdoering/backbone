@@ -1,5 +1,4 @@
-Pholiotella fibrosa Rick SPECIES
-=======
+# Pholiotella fibrosa Rick SPECIES
 
 #### Status
 ACCEPTED

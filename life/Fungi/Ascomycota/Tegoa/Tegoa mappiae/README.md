@@ -1,5 +1,4 @@
-Tegoa mappiae Bat. & J.L. Bezerra SPECIES
-=======
+# Tegoa mappiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

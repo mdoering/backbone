@@ -1,5 +1,4 @@
-Anthracoidea caricis-pauciflorae (Lehtola) Kukkonen SPECIES
-=======
+# Anthracoidea caricis-pauciflorae (Lehtola) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia indica Boedijn SPECIES
-=======
+# Terfezia indica Boedijn SPECIES
 
 #### Status
 ACCEPTED

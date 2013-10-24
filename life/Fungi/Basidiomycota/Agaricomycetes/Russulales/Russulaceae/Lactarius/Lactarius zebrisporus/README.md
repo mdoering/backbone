@@ -1,5 +1,4 @@
-Lactarius zebrisporus Verbeken & E. Horak SPECIES
-=======
+# Lactarius zebrisporus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria dolichophora Nyl. SPECIES
-=======
+# Verrucaria dolichophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

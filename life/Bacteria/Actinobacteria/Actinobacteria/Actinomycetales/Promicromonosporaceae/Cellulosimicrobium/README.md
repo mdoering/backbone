@@ -1,5 +1,4 @@
-Cellulosimicrobium Schumann, Weiss & Stackebrandt GENUS
-=======
+# Cellulosimicrobium Schumann, Weiss & Stackebrandt GENUS
 
 #### Status
 ACCEPTED

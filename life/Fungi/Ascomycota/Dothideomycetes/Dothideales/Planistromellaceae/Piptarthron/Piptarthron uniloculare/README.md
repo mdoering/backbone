@@ -1,5 +1,4 @@
-Piptarthron uniloculare A.W. Ramaley, 1992 SPECIES
-=======
+# Piptarthron uniloculare A.W. Ramaley, 1992 SPECIES
 
 #### Status
 ACCEPTED

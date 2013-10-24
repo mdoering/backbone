@@ -1,17 +1,16 @@
-Parmelia ambigua var. ambigua VARIETY
-=======
+# Parmeliopsis ambigua (Wulfen) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 2(1): 54 (1863)
 
 #### Original name
-Parmelia ambigua var. ambigua
+Lichen ambiguus Wulfen
 
 ### Remarks
 null

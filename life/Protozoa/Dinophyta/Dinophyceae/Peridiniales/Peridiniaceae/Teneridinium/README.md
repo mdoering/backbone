@@ -1,5 +1,4 @@
-Teneridinium Krutzsch, 1962 GENUS
-=======
+# Teneridinium Krutzsch, 1962 GENUS
 
 #### Status
 ACCEPTED

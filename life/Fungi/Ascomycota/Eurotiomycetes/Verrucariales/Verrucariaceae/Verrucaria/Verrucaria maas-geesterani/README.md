@@ -1,5 +1,4 @@
-Verrucaria maas-geesterani Servít SPECIES
-=======
+# Verrucaria maas-geesterani Servít SPECIES
 
 #### Status
 ACCEPTED

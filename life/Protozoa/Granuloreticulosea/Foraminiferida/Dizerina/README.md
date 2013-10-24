@@ -1,5 +1,4 @@
-Dizerina Meric, 1978 GENUS
-=======
+# Dizerina Meric, 1978 GENUS
 
 #### Status
 ACCEPTED

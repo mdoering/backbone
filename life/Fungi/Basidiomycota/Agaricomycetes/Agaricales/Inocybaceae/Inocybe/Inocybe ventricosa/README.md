@@ -1,5 +1,4 @@
-Inocybe ventricosa G.F. Atk. SPECIES
-=======
+# Inocybe ventricosa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

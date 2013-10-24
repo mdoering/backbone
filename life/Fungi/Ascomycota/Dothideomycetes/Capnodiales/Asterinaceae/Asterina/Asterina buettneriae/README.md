@@ -1,5 +1,4 @@
-Asterina buettneriae Theiss., 1913 SPECIES
-=======
+# Asterina buettneriae Theiss., 1913 SPECIES
 
 #### Status
 ACCEPTED

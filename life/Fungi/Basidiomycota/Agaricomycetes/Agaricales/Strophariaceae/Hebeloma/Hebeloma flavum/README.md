@@ -1,5 +1,4 @@
-Hebeloma flavum Clem. SPECIES
-=======
+# Hebeloma flavum Clem. SPECIES
 
 #### Status
 ACCEPTED

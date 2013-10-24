@@ -1,5 +1,4 @@
-Fursenkoina acuta (d'Orbigny, 1846) SPECIES
-=======
+# Fursenkoina acuta (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

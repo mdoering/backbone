@@ -1,5 +1,4 @@
-Buellia kimberleyana Elix SPECIES
-=======
+# Buellia kimberleyana Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenidioididae Levine, 1971 FAMILY
-=======
+# Selenidioididae Levine, 1971 FAMILY
 
 #### Status
 ACCEPTED

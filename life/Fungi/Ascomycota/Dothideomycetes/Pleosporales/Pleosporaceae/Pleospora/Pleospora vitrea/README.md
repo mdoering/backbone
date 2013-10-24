@@ -1,5 +1,4 @@
-Pleospora vitrea Rostr. SPECIES
-=======
+# Pleospora vitrea Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia manipularis (Berk.) Sacc. SPECIES
-=======
+# Laschia manipularis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

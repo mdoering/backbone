@@ -1,5 +1,4 @@
-Ectosperma Vaucher, 1803 GENUS
-=======
+# Ectosperma Vaucher, 1803 GENUS
 
 #### Status
 ACCEPTED

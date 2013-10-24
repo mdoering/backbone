@@ -1,5 +1,4 @@
-Agaricus pachycephalus Massee SPECIES
-=======
+# Agaricus pachycephalus Massee SPECIES
 
 #### Status
 ACCEPTED

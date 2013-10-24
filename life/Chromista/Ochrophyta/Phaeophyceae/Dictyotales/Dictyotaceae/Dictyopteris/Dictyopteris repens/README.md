@@ -1,5 +1,4 @@
-Dictyopteris repens (Okamura) Børgesen SPECIES
-=======
+# Dictyopteris repens (Okamura) Børgesen SPECIES
 
 #### Status
 ACCEPTED

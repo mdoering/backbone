@@ -1,5 +1,4 @@
-Tricholoma guldeniae Mort. Chr. SPECIES
-=======
+# Tricholoma guldeniae Mort. Chr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina kusukusuensis W. Yamam. SPECIES
-=======
+# Asterina kusukusuensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

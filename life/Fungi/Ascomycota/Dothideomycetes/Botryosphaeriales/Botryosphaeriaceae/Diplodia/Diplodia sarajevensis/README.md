@@ -1,5 +1,4 @@
-Diplodia sarajevensis Picb. SPECIES
-=======
+# Diplodia sarajevensis Picb. SPECIES
 
 #### Status
 ACCEPTED

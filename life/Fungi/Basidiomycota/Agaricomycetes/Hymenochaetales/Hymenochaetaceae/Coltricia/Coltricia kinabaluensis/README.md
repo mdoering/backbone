@@ -1,5 +1,4 @@
-Coltricia kinabaluensis Corner SPECIES
-=======
+# Coltricia kinabaluensis Corner SPECIES
 
 #### Status
 ACCEPTED

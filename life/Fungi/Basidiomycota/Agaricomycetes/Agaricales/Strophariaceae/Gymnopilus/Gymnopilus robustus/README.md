@@ -1,5 +1,4 @@
-Gymnopilus robustus Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus robustus Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

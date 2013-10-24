@@ -1,5 +1,4 @@
-Clitocybe septentrionalis (Singer & A.H. Sm.) H.E. Bigelow SPECIES
-=======
+# Clitocybe septentrionalis (Singer & A.H. Sm.) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

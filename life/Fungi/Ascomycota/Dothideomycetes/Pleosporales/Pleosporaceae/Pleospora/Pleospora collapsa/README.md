@@ -1,5 +1,4 @@
-Pleospora collapsa Feltgen SPECIES
-=======
+# Pleospora collapsa Feltgen SPECIES
 
 #### Status
 ACCEPTED

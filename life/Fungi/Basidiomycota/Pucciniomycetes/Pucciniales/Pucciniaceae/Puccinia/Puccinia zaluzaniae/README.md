@@ -1,5 +1,4 @@
-Puccinia zaluzaniae Arthur SPECIES
-=======
+# Puccinia zaluzaniae Arthur SPECIES
 
 #### Status
 ACCEPTED

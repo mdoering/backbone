@@ -1,5 +1,4 @@
-Flabellites biforaminis Thierstein, 1973 SPECIES
-=======
+# Flabellites biforaminis Thierstein, 1973 SPECIES
 
 #### Status
 ACCEPTED

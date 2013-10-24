@@ -1,5 +1,4 @@
-Gyromium polyphyllum (L.) Wahlenb. SPECIES
-=======
+# Gyromium polyphyllum (L.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

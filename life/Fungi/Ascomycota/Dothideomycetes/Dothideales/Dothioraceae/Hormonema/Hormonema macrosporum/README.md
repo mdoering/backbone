@@ -1,5 +1,4 @@
-Hormonema macrosporum Voronin, 1986 SPECIES
-=======
+# Hormonema macrosporum Voronin, 1986 SPECIES
 
 #### Status
 ACCEPTED

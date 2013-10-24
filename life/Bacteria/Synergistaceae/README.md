@@ -1,5 +1,4 @@
-Synergistaceae FAMILY
-=======
+# Synergistaceae FAMILY
 
 #### Status
 ACCEPTED

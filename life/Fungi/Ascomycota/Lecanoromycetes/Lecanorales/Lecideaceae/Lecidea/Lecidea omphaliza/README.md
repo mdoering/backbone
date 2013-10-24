@@ -1,5 +1,4 @@
-Lecidea omphaliza Lettau SPECIES
-=======
+# Lecidea omphaliza Lettau SPECIES
 
 #### Status
 ACCEPTED

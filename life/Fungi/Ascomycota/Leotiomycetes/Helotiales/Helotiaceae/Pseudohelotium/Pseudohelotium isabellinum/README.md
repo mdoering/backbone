@@ -1,5 +1,4 @@
-Pseudohelotium isabellinum Clem. SPECIES
-=======
+# Pseudohelotium isabellinum Clem. SPECIES
 
 #### Status
 ACCEPTED

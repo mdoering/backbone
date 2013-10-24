@@ -1,5 +1,4 @@
-Melampsora hypericum var. hypericum VARIETY
-=======
+# Melampsora hypericum anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melampsora hypericum var. hypericum
+Melampsora hypericum anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pholiota pulchella var. pulchella VARIETY
-=======
+# Pholiota pulchella A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 298 (1968)
 
 #### Original name
-Pholiota pulchella var. pulchella
+Pholiota pulchella A.H. Sm. & Hesler
 
 ### Remarks
 null

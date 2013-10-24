@@ -1,5 +1,4 @@
-Galerina naucorioides A.H. Sm. & Singer SPECIES
-=======
+# Galerina naucorioides A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

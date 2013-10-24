@@ -1,5 +1,4 @@
-Uredo cyperi-digitati Sawada SPECIES
-=======
+# Uredo cyperi-digitati Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis comata (V.V. Mill. & Tcherntz.) C. Moreau SPECIES
-=======
+# Ceratocystis comata (V.V. Mill. & Tcherntz.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

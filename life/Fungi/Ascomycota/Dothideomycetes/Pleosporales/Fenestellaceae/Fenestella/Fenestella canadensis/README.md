@@ -1,5 +1,4 @@
-Fenestella canadensis Ellis & Everh. SPECIES
-=======
+# Fenestella canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

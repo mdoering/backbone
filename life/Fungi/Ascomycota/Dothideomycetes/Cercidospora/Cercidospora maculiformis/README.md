@@ -1,5 +1,4 @@
-Cercidospora maculiformis (G. Winter) Kuntze SPECIES
-=======
+# Cercidospora maculiformis (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

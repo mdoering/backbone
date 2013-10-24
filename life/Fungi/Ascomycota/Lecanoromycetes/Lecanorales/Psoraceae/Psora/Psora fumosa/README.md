@@ -1,5 +1,4 @@
-Psora fumosa SPECIES
-=======
+# Psora fumosa SPECIES
 
 #### Status
 ACCEPTED

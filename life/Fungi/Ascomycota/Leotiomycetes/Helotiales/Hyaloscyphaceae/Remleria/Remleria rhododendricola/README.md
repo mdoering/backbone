@@ -1,14 +1,13 @@
-Calycellina rhododendricola (Rehm) Remler, 1980 SPECIES
-=======
+# Remleria rhododendricola (Rehm) Raitv., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 68: 225 (1980)
+Scripta Mycol. , Tartu 20: 110 (2004)
 
 #### Original name
 Mollisia rhododendricola Rehm

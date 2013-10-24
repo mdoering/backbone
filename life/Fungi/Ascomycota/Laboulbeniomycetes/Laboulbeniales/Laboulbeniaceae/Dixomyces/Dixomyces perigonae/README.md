@@ -1,5 +1,4 @@
-Dixomyces perigonae (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces perigonae (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

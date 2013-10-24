@@ -1,5 +1,4 @@
-Mycosphaerella spraguei Tomilin SPECIES
-=======
+# Mycosphaerella spraguei Tomilin SPECIES
 
 #### Status
 ACCEPTED

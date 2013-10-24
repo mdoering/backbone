@@ -1,5 +1,4 @@
-Pleospora deceptiva Wehm. SPECIES
-=======
+# Pleospora deceptiva Wehm. SPECIES
 
 #### Status
 ACCEPTED

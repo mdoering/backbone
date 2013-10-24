@@ -1,5 +1,4 @@
-Barlaea calospora (J. Schröt.) Sacc. SPECIES
-=======
+# Barlaea calospora (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

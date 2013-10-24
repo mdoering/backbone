@@ -1,5 +1,4 @@
-Gymnoascus myriosporum Rostr. SPECIES
-=======
+# Gymnoascus myriosporum Rostr. SPECIES
 
 #### Status
 ACCEPTED

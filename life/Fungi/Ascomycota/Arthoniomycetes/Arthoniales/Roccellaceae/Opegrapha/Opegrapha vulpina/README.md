@@ -1,5 +1,4 @@
-Opegrapha vulpina Vondrák, Kocourk. & Tretiach SPECIES
-=======
+# Opegrapha vulpina Vondrák, Kocourk. & Tretiach SPECIES
 
 #### Status
 ACCEPTED

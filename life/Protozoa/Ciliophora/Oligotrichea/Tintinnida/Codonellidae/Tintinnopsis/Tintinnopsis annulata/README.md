@@ -1,5 +1,4 @@
-Tintinnopsis annulata (Claparède & Lachmann, 1858) ?, ? SPECIES
-=======
+# Tintinnopsis annulata (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola uncariae Rehm SPECIES
-=======
+# Meliola uncariae Rehm SPECIES
 
 #### Status
 ACCEPTED

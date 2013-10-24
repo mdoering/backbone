@@ -1,5 +1,4 @@
-Lactarius pusillus Bres. SPECIES
-=======
+# Lactarius pusillus Bres. SPECIES
 
 #### Status
 ACCEPTED

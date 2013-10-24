@@ -1,5 +1,4 @@
-Discorinopsis vadescens SPECIES
-=======
+# Discorinopsis vadescens SPECIES
 
 #### Status
 ACCEPTED

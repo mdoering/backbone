@@ -1,5 +1,4 @@
-Entomophthora ferruginea W. Phillips SPECIES
-=======
+# Entomophthora ferruginea W. Phillips SPECIES
 
 #### Status
 ACCEPTED

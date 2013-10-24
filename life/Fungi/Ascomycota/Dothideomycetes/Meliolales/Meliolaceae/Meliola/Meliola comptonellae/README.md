@@ -1,5 +1,4 @@
-Meliola comptonellae B. Huguenin SPECIES
-=======
+# Meliola comptonellae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius hookeri Speg. SPECIES
-=======
+# Cortinarius hookeri Speg. SPECIES
 
 #### Status
 ACCEPTED

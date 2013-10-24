@@ -1,5 +1,4 @@
-Baltisphaeridium reticulum F.Wang & Q. Chen SPECIES
-=======
+# Baltisphaeridium reticulum F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

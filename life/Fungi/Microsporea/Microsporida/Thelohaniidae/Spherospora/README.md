@@ -1,5 +1,4 @@
-Spherospora J.J. Garcia GENUS
-=======
+# Spherospora J.J. Garcia GENUS
 
 #### Status
 ACCEPTED

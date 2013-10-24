@@ -1,5 +1,4 @@
-Dictyocysta californiensis Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta californiensis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

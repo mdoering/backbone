@@ -1,5 +1,4 @@
-Chaetomidium chlorochaetum Speg. SPECIES
-=======
+# Chaetomidium chlorochaetum Speg. SPECIES
 
 #### Status
 ACCEPTED

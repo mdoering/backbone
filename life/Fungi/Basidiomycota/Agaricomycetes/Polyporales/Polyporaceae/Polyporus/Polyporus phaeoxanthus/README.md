@@ -1,5 +1,4 @@
-Polyporus phaeoxanthus Mont. SPECIES
-=======
+# Polyporus phaeoxanthus Mont. SPECIES
 
 #### Status
 ACCEPTED

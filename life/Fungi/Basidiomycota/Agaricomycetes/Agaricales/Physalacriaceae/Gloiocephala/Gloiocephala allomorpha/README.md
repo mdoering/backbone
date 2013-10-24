@@ -1,5 +1,4 @@
-Gloiocephala allomorpha Singer SPECIES
-=======
+# Gloiocephala allomorpha Singer SPECIES
 
 #### Status
 ACCEPTED

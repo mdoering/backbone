@@ -1,5 +1,4 @@
-Palaiosphaeridium S.M. Rasul, 1977 GENUS
-=======
+# Palaiosphaeridium S.M. Rasul, 1977 GENUS
 
 #### Status
 ACCEPTED

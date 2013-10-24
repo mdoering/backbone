@@ -1,5 +1,4 @@
-Stictodiscus parallelus var. madagascarensis (Grunow) T. V. Desikachary VARIETY
-=======
+# Stictodiscus parallelus SPECIES
 
 #### Status
 ACCEPTED

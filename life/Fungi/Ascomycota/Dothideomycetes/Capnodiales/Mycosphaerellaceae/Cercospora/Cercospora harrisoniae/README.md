@@ -1,5 +1,4 @@
-Cercospora harrisoniae Hansf. SPECIES
-=======
+# Cercospora harrisoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hosackiae Harkn. SPECIES
-=======
+# Septoria hosackiae Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glandulina bassa McCulloch, 1977 SPECIES
-=======
+# Glandulina bassa McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

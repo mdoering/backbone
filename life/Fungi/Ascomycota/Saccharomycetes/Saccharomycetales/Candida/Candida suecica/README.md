@@ -1,5 +1,4 @@
-Candida suecica Rodr. Mir. & Norkrans, 1968 SPECIES
-=======
+# Candida suecica Rodr. Mir. & Norkrans, 1968 SPECIES
 
 #### Status
 ACCEPTED

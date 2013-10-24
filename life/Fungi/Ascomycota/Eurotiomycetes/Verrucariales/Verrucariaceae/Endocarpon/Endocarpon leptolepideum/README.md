@@ -1,5 +1,4 @@
-Endocarpon leptolepideum (Nyl.) Nyl. SPECIES
-=======
+# Endocarpon leptolepideum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

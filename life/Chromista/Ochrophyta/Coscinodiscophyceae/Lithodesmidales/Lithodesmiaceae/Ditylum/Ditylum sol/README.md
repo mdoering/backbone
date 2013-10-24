@@ -1,5 +1,4 @@
-Ditylum sol (Grunow) De Toni, 1894 SPECIES
-=======
+# Ditylum sol (Grunow) De Toni, 1894 SPECIES
 
 #### Status
 ACCEPTED

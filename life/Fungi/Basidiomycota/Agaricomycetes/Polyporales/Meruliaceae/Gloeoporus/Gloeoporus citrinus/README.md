@@ -1,5 +1,4 @@
-Gloeoporus citrinus Ryvarden, 1975 SPECIES
-=======
+# Gloeoporus citrinus Ryvarden, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonia hungarica Hazsl. SPECIES
-=======
+# Belonia hungarica Hazsl. SPECIES
 
 #### Status
 ACCEPTED

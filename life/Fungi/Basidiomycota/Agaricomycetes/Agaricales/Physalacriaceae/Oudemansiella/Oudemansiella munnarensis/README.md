@@ -1,5 +1,4 @@
-Oudemansiella munnarensis Sathe & J.T. Daniel SPECIES
-=======
+# Oudemansiella munnarensis Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

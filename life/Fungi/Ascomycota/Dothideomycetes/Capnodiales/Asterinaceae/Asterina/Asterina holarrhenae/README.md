@@ -1,5 +1,4 @@
-Asterina holarrhenae R.W. Ryan SPECIES
-=======
+# Asterina holarrhenae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

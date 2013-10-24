@@ -1,5 +1,4 @@
-Dictyostelium citrinum Vadell, M.T. Holmes & Cavender, 1995 SPECIES
-=======
+# Dictyostelium citrinum Vadell, M.T. Holmes & Cavender, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nevillae Berk. SPECIES
-=======
+# Agaricus nevillae Berk. SPECIES
 
 #### Status
 ACCEPTED

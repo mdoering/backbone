@@ -1,5 +1,4 @@
-Ustilago bonariensis Speg. SPECIES
-=======
+# Ustilago bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

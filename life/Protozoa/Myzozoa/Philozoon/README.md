@@ -1,5 +1,4 @@
-Philozoon Geddes GENUS
-=======
+# Philozoon Geddes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma murrayamanum (Nyl.) Zahlbr. SPECIES
-=======
+# Nephroma murrayamanum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella kellermanii (Peck) Singer SPECIES
-=======
+# Psathyrella kellermanii (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

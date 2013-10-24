@@ -1,5 +1,4 @@
-Placodium ferruginascens SPECIES
-=======
+# Placodium ferruginascens SPECIES
 
 #### Status
 ACCEPTED

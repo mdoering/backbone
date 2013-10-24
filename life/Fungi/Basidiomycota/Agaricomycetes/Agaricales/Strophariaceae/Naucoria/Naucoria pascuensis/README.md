@@ -1,5 +1,4 @@
-Naucoria pascuensis Murrill SPECIES
-=======
+# Naucoria pascuensis Murrill SPECIES
 
 #### Status
 ACCEPTED

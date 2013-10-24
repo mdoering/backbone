@@ -1,5 +1,4 @@
-Puccinia citrulli var. citrulli VARIETY
-=======
+# Puccinia citrulli Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 10: 259 (1912)
 
 #### Original name
-Puccinia citrulli var. citrulli
+Puccinia citrulli Syd. & P. Syd.
 
 ### Remarks
 null

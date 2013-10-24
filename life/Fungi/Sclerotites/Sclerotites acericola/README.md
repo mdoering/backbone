@@ -1,5 +1,4 @@
-Sclerotites acericola (Heer) Mesch. SPECIES
-=======
+# Sclerotites acericola (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

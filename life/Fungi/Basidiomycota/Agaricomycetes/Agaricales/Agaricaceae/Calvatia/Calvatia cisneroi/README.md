@@ -1,5 +1,4 @@
-Calvatia cisneroi Speg. SPECIES
-=======
+# Calvatia cisneroi Speg. SPECIES
 
 #### Status
 ACCEPTED

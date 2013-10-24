@@ -1,5 +1,4 @@
-Armillaria duplicata (Berk.) Sacc. SPECIES
-=======
+# Armillaria duplicata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

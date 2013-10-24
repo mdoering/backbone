@@ -1,5 +1,4 @@
-Menegazzia lordhowensis Elix SPECIES
-=======
+# Menegazzia lordhowensis Elix SPECIES
 
 #### Status
 ACCEPTED

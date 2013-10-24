@@ -1,5 +1,4 @@
-Rhodophyllus peckianus var. peckianus VARIETY
-=======
+# Rhodophyllus peckianus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhodophyllus peckianus var. peckianus
+Rhodophyllus peckianus anon.
 
 ### Remarks
 null

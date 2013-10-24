@@ -1,5 +1,4 @@
-Pterygiopsis atra Vain. SPECIES
-=======
+# Pterygiopsis atra Vain. SPECIES
 
 #### Status
 ACCEPTED

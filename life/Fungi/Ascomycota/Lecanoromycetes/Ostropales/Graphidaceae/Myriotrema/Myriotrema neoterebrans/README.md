@@ -1,5 +1,4 @@
-Myriotrema neoterebrans Frisch SPECIES
-=======
+# Myriotrema neoterebrans Frisch SPECIES
 
 #### Status
 ACCEPTED

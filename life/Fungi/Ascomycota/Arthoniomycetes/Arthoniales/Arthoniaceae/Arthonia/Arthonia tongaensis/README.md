@@ -1,5 +1,4 @@
-Arthonia tongaensis Räsänen ex Sbarbaro SPECIES
-=======
+# Arthonia tongaensis Räsänen ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora stramineoalbida Vain. SPECIES
-=======
+# Lecanora stramineoalbida Vain. SPECIES
 
 #### Status
 ACCEPTED

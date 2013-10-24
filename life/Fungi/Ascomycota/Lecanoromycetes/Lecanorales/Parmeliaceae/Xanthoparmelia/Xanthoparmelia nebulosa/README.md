@@ -1,14 +1,13 @@
-Parmelia nebulosa Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia nebulosa (Kurok. & Filson) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Filson, Aust. J. Bot. 30(5): 547 (1982)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 295 (1986)
 
 #### Original name
 Parmelia nebulosa Kurok. & Filson

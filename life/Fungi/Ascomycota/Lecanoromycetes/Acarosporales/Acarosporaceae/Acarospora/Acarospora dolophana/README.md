@@ -1,5 +1,4 @@
-Acarospora dolophana (Nyl.) H. Magn. SPECIES
-=======
+# Acarospora dolophana (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

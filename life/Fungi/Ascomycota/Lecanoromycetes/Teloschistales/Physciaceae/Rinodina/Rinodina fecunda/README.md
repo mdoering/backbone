@@ -1,5 +1,4 @@
-Rinodina fecunda C.W. Dodge SPECIES
-=======
+# Rinodina fecunda C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

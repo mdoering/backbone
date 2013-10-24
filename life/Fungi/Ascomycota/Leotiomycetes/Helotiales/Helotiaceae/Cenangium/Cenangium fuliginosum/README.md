@@ -1,5 +1,4 @@
-Cenangium fuliginosum Fr., 1828 SPECIES
-=======
+# Cenangium fuliginosum Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED

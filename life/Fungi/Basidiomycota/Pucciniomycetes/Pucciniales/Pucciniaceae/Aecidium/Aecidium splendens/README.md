@@ -1,5 +1,4 @@
-Aecidium splendens G. Winter SPECIES
-=======
+# Aecidium splendens G. Winter SPECIES
 
 #### Status
 ACCEPTED

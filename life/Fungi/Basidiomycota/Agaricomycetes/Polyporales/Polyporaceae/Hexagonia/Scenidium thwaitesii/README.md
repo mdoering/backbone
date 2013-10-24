@@ -1,5 +1,4 @@
-Scenidium thwaitesii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Scenidium thwaitesii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

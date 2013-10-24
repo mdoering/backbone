@@ -1,5 +1,4 @@
-Gaarderia corolla (J. Lecal) A. Kleijne SPECIES
-=======
+# Gaarderia corolla (J. Lecal) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

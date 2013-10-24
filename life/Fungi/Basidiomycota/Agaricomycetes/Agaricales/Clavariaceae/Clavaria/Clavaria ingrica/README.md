@@ -1,5 +1,4 @@
-Clavaria ingrica Weinm. SPECIES
-=======
+# Clavaria ingrica Weinm. SPECIES
 
 #### Status
 ACCEPTED

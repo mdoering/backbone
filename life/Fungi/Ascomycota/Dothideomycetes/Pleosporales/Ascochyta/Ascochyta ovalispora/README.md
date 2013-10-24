@@ -1,5 +1,4 @@
-Ascochyta ovalispora McAlpine SPECIES
-=======
+# Ascochyta ovalispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

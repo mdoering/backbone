@@ -1,17 +1,16 @@
-Lepiotophyllum Locq. GENUS
-=======
+# Leucocoprinus Patouillard, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 11: 42 (1942)
+null
 
 #### Original name
-Lepiotophyllum Locq.
+null
 
 ### Remarks
 null

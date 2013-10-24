@@ -1,5 +1,4 @@
-Marasmius praedecurrens Murrill SPECIES
-=======
+# Marasmius praedecurrens Murrill SPECIES
 
 #### Status
 ACCEPTED

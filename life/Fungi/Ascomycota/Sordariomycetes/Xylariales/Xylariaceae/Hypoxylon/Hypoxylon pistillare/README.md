@@ -1,5 +1,4 @@
-Hypoxylon pistillare Henn. & E. Nyman SPECIES
-=======
+# Hypoxylon pistillare Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

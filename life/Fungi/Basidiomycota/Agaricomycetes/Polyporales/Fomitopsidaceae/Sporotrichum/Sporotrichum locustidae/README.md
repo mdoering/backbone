@@ -1,5 +1,4 @@
-Sporotrichum locustidae ined. SPECIES
-=======
+# Sporotrichum locustidae ined. SPECIES
 
 #### Status
 ACCEPTED

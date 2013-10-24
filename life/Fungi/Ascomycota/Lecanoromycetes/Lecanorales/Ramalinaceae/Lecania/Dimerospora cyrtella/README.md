@@ -1,5 +1,4 @@
-Dimerospora cyrtella (Ach.) Stein SPECIES
-=======
+# Dimerospora cyrtella (Ach.) Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus sarbadhikarii Bose SPECIES
-=======
+# Polystictus sarbadhikarii Bose SPECIES
 
 #### Status
 ACCEPTED

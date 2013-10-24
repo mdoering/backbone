@@ -1,5 +1,4 @@
-Podofomes pyrenaicus F. Rath, 1988 SPECIES
-=======
+# Podofomes pyrenaicus F. Rath, 1988 SPECIES
 
 #### Status
 ACCEPTED

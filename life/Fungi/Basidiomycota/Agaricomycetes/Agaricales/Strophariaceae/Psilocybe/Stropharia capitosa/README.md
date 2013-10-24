@@ -1,5 +1,4 @@
-Stropharia capitosa (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Stropharia capitosa (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

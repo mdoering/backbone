@@ -1,5 +1,4 @@
-Gymnosporangium padmarense Balf.-Browne, 1955 SPECIES
-=======
+# Gymnosporangium padmarense Balf.-Browne, 1955 SPECIES
 
 #### Status
 ACCEPTED

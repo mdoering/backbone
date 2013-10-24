@@ -1,5 +1,4 @@
-Isothea chilensis Speg., 1921 SPECIES
-=======
+# Isothea chilensis Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

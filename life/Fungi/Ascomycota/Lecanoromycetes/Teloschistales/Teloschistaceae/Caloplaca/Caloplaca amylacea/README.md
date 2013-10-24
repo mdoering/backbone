@@ -1,5 +1,4 @@
-Caloplaca amylacea H. Magn. SPECIES
-=======
+# Caloplaca amylacea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

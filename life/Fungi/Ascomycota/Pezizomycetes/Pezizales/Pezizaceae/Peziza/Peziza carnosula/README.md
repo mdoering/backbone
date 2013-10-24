@@ -1,5 +1,4 @@
-Peziza carnosula Rehm SPECIES
-=======
+# Peziza carnosula Rehm SPECIES
 
 #### Status
 ACCEPTED

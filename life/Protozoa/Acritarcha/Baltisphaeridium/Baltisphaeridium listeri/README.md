@@ -1,5 +1,4 @@
-Baltisphaeridium listeri Kiryanov, 1978 SPECIES
-=======
+# Baltisphaeridium listeri Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

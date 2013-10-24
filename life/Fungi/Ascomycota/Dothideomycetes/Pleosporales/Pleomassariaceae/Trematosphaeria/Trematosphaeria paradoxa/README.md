@@ -1,14 +1,13 @@
-Melanomma paradoxa (G. Winter) Crossl. SPECIES
-=======
+# Trematosphaeria paradoxa G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rabenhorst's Kryptogamen-Flora, Pilze - Ascomyceten 1(2): 276 (1885)
 
 #### Original name
 Trematosphaeria paradoxa G. Winter

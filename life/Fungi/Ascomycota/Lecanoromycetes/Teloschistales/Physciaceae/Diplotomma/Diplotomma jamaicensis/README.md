@@ -1,8 +1,7 @@
-Diplotomma jamaicense (Imshaug) Szatala SPECIES
-=======
+# Diplotomma jamaicensis (Imshaug) Szatala SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

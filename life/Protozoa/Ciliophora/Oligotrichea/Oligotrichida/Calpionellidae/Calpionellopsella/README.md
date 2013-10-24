@@ -1,5 +1,4 @@
-Calpionellopsella GENUS
-=======
+# Calpionellopsella GENUS
 
 #### Status
 ACCEPTED

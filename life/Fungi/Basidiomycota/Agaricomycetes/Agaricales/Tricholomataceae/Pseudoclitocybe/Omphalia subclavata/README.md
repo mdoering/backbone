@@ -1,5 +1,4 @@
-Omphalia subclavata Peck SPECIES
-=======
+# Omphalia subclavata Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria coloradensis Tracy & Earle SPECIES
-=======
+# Naucoria coloradensis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

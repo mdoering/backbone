@@ -1,5 +1,4 @@
-Monozonium pachystylum Popofsky SPECIES
-=======
+# Monozonium pachystylum Popofsky SPECIES
 
 #### Status
 ACCEPTED

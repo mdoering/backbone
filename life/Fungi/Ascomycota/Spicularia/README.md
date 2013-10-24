@@ -1,5 +1,4 @@
-Spicularia Persoon, 1822 GENUS
-=======
+# Spicularia Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

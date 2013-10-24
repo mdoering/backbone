@@ -1,5 +1,4 @@
-Nummularia dura Ferd. & Winge SPECIES
-=======
+# Nummularia dura Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

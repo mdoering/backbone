@@ -1,5 +1,4 @@
-Jonesia quinghaiensis Schumann et al., 2004 SPECIES
-=======
+# Jonesia quinghaiensis Schumann et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

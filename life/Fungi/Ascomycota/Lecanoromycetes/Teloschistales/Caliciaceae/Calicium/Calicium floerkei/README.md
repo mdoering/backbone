@@ -1,5 +1,4 @@
-Calicium floerkei f. floerkei FORM
-=======
+# Calicium floerkei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium floerkei f. floerkei
+null
 
 ### Remarks
 null

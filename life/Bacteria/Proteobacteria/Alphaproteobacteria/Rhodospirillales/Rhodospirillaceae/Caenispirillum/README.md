@@ -1,5 +1,4 @@
-Caenispirillum Yoon et al., 2007 GENUS
-=======
+# Caenispirillum Yoon et al., 2007 GENUS
 
 #### Status
 ACCEPTED

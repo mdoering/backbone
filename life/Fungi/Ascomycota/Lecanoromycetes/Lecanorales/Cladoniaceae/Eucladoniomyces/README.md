@@ -1,5 +1,4 @@
-Eucladoniomyces GENUS
-=======
+# Eucladoniomyces GENUS
 
 #### Status
 ACCEPTED

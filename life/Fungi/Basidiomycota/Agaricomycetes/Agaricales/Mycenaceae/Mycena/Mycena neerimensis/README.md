@@ -1,5 +1,4 @@
-Mycena neerimensis Grgur. SPECIES
-=======
+# Mycena neerimensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

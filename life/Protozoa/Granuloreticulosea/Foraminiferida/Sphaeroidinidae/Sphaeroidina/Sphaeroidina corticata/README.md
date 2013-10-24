@@ -1,5 +1,4 @@
-Sphaeroidina corticata Heron-Allen & Earland, 1915 SPECIES
-=======
+# Sphaeroidina corticata Heron-Allen & Earland, 1915 SPECIES
 
 #### Status
 ACCEPTED

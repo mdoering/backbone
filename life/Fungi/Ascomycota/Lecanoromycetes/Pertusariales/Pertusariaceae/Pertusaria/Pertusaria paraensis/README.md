@@ -1,8 +1,7 @@
-Pertusaria paraënsis Müll. Arg. SPECIES
-=======
+# Pertusaria paraensis Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria paraënsis Müll. Arg.
+Pertusaria paraensis Müll. Arg.
 
 ### Remarks
 null

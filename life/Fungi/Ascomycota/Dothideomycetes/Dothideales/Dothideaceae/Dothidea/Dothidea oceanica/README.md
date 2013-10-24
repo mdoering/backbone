@@ -1,5 +1,4 @@
-Dothidea oceanica Ces. SPECIES
-=======
+# Dothidea oceanica Ces. SPECIES
 
 #### Status
 ACCEPTED

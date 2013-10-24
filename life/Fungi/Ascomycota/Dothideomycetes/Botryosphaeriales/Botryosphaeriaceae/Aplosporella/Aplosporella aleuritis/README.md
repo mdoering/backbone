@@ -1,5 +1,4 @@
-Aplosporella aleuritis Agnihothr. & Hadfield SPECIES
-=======
+# Aplosporella aleuritis Agnihothr. & Hadfield SPECIES
 
 #### Status
 ACCEPTED

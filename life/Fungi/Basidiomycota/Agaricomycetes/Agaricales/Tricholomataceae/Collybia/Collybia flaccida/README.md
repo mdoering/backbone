@@ -1,5 +1,4 @@
-Collybia flaccida A.H. Sm. & Hesler SPECIES
-=======
+# Collybia flaccida A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusella typhae J. Lindau SPECIES
-=======
+# Fusella typhae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

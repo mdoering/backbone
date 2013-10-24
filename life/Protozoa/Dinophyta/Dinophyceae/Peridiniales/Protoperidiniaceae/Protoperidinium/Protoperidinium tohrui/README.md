@@ -1,8 +1,7 @@
-Protoperidinium paulsenii Abé, 1981 SPECIES
-=======
+# Protoperidinium tohrui Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

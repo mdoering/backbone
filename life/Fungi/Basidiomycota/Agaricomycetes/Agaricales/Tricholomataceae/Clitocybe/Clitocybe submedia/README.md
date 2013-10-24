@@ -1,5 +1,4 @@
-Clitocybe submedia Murrill SPECIES
-=======
+# Clitocybe submedia Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wetzeliella lunaris Gocht, 1969 SPECIES
-=======
+# Wetzeliella lunaris Gocht, 1969 SPECIES
 
 #### Status
 ACCEPTED

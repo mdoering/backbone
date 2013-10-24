@@ -1,5 +1,4 @@
-Diathrypton consimile Syd. SPECIES
-=======
+# Diathrypton consimile Syd. SPECIES
 
 #### Status
 ACCEPTED

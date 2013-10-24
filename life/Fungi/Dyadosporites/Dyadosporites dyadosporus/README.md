@@ -1,5 +1,4 @@
-Dyadosporites dyadosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites dyadosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria crystallocincta Starbäck SPECIES
-=======
+# Metasphaeria crystallocincta Starbäck SPECIES
 
 #### Status
 ACCEPTED

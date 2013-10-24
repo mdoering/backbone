@@ -1,5 +1,4 @@
-Bacidia anthyllidis Rayss SPECIES
-=======
+# Bacidia anthyllidis Rayss SPECIES
 
 #### Status
 ACCEPTED

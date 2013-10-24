@@ -1,5 +1,4 @@
-Trichopeziza radians (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza radians (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Blepharisma americana Suzuki, 1954 SPECIES
-=======
+# Blepharisma americanum Suzuki, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

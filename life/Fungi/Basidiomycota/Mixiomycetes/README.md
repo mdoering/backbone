@@ -1,5 +1,4 @@
-Mixiomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
-=======
+# Mixiomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
 
 #### Status
 ACCEPTED

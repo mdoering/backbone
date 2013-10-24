@@ -1,5 +1,4 @@
-Ramalina nuda J. Steiner SPECIES
-=======
+# Ramalina nuda J. Steiner SPECIES
 
 #### Status
 ACCEPTED

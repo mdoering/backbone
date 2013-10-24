@@ -1,5 +1,4 @@
-Physcia leoniae Hue SPECIES
-=======
+# Physcia leoniae Hue SPECIES
 
 #### Status
 ACCEPTED

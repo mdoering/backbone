@@ -1,5 +1,4 @@
-Pertusaria subambigens Dibben SPECIES
-=======
+# Pertusaria subambigens Dibben SPECIES
 
 #### Status
 ACCEPTED

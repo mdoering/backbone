@@ -1,5 +1,4 @@
-Miltidea subrutila Stirt. SPECIES
-=======
+# Miltidea subrutila Stirt. SPECIES
 
 #### Status
 ACCEPTED

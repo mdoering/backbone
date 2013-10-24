@@ -1,5 +1,4 @@
-Puccinia distenta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia distenta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

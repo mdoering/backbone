@@ -1,5 +1,4 @@
-Trypethelium scorites Tuck. SPECIES
-=======
+# Trypethelium scorites Tuck. SPECIES
 
 #### Status
 ACCEPTED

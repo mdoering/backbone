@@ -1,5 +1,4 @@
-Conidiobolus humicola Sriniv. & Thirum., 1962 SPECIES
-=======
+# Conidiobolus humicola Sriniv. & Thirum., 1962 SPECIES
 
 #### Status
 ACCEPTED

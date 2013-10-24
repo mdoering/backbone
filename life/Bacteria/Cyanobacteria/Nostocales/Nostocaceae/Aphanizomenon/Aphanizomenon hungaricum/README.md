@@ -1,5 +1,4 @@
-Aphanizomenon hungaricum Komarkova-Legnerova & Matyas, 1995 SPECIES
-=======
+# Aphanizomenon hungaricum Komarkova-Legnerova & Matyas, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina vareschii V. Marcano & A. Morales SPECIES
-=======
+# Ramalina vareschii V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

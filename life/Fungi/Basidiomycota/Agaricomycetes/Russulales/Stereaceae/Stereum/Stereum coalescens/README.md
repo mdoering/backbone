@@ -1,5 +1,4 @@
-Stereum coalescens Lloyd SPECIES
-=======
+# Stereum coalescens Lloyd SPECIES
 
 #### Status
 ACCEPTED

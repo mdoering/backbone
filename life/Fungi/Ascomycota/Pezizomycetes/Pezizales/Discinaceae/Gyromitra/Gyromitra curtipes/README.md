@@ -1,5 +1,4 @@
-Gyromitra curtipes Fr. SPECIES
-=======
+# Gyromitra curtipes Fr. SPECIES
 
 #### Status
 ACCEPTED

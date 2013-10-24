@@ -1,5 +1,4 @@
-Hebeloma kelloggense A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma kelloggense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

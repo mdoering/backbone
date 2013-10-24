@@ -1,17 +1,16 @@
-Molleriella amazonica (Henn.) Arx SPECIES
-=======
+# Molleriella mirabilis G. Winter, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 4: 199 (1886)
 
 #### Original name
-Zukaliopsis amazonica Henn., 1904
+Molleriella mirabilis G. Winter, 1886
 
 ### Remarks
 null

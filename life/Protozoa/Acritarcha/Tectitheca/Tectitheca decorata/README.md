@@ -1,5 +1,4 @@
-Tectitheca decorata Rasul, 1979 SPECIES
-=======
+# Tectitheca decorata Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

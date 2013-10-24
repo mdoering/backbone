@@ -1,5 +1,4 @@
-Urceolaria niceaensis (B. de Lesd.) Motyka SPECIES
-=======
+# Urceolaria niceaensis (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia monomorpha Aptroot, Sipman & Herk SPECIES
-=======
+# Cladonia monomorpha Aptroot, Sipman & Herk SPECIES
 
 #### Status
 ACCEPTED

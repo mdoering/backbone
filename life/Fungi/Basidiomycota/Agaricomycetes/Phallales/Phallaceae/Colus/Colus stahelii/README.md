@@ -1,5 +1,4 @@
-Colus stahelii (E. Fisch.) Reichert SPECIES
-=======
+# Colus stahelii (E. Fisch.) Reichert SPECIES
 
 #### Status
 ACCEPTED

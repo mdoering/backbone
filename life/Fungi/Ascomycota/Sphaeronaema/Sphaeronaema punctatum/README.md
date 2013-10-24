@@ -1,5 +1,4 @@
-Sphaeronaema punctatum Kunze SPECIES
-=======
+# Sphaeronaema punctatum Kunze SPECIES
 
 #### Status
 ACCEPTED

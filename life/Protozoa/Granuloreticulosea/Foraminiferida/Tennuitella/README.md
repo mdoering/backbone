@@ -1,5 +1,4 @@
-Tennuitella GENUS
-=======
+# Tennuitella GENUS
 
 #### Status
 ACCEPTED

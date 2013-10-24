@@ -1,5 +1,4 @@
-Exidia cerasi (Schumach.) Ricken SPECIES
-=======
+# Exidia cerasi (Schumach.) Ricken SPECIES
 
 #### Status
 ACCEPTED

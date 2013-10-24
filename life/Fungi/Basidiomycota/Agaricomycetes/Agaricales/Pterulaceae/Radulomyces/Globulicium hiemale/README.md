@@ -1,14 +1,13 @@
-Corticium hiemale Laurila, 1939 SPECIES
-=======
+# Globulicium hiemale (Laurila) Hjortstam, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 10(4): 4 (1939)
+Svensk bot. Tidskr. 67(2): 108 (1973)
 
 #### Original name
 Corticium hiemale Laurila, 1939

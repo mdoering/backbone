@@ -1,5 +1,4 @@
-Dendrodochium olivaceum Pass. SPECIES
-=======
+# Dendrodochium olivaceum Pass. SPECIES
 
 #### Status
 ACCEPTED

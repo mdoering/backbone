@@ -1,5 +1,4 @@
-Sphaerella cyclogena Sacc. & Paol. SPECIES
-=======
+# Sphaerella cyclogena Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

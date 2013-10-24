@@ -1,5 +1,4 @@
-Cucurbitaria insecura Ellis SPECIES
-=======
+# Cucurbitaria insecura Ellis SPECIES
 
 #### Status
 ACCEPTED

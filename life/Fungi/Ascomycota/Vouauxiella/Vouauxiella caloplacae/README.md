@@ -1,5 +1,4 @@
-Vouauxiella caloplacae Alstrup, 1993 SPECIES
-=======
+# Vouauxiella caloplacae Alstrup, 1993 SPECIES
 
 #### Status
 ACCEPTED

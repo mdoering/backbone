@@ -1,17 +1,16 @@
-Physcia aspera var. aspera VARIETY
-=======
+# Dirinaria aegialita (Afzel. ex Ach.) B. J. Moore SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 71: 248 (1968)
 
 #### Original name
-Physcia aspera var. aspera
+Parmelia aegialita Afzel. ex Ach.
 
 ### Remarks
 null

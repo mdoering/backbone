@@ -1,5 +1,4 @@
-Stereum longisporum (Höhn. & Litsch.) Sacc. SPECIES
-=======
+# Stereum longisporum (Höhn. & Litsch.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

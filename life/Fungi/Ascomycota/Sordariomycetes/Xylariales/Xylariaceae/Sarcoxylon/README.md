@@ -1,5 +1,4 @@
-Sarcoxylon Cooke GENUS
-=======
+# Sarcoxylon Cooke GENUS
 
 #### Status
 ACCEPTED

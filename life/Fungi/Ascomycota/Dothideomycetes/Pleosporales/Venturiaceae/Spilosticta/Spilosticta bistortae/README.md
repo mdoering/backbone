@@ -1,14 +1,13 @@
-Venturia bistortae (Syd.) Sivan., 1977 SPECIES
-=======
+# Spilosticta bistortae Syd., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 59: 42 (1977)
+Annls mycol. 21(3/4): 172 (1923)
 
 #### Original name
 Spilosticta bistortae Syd., 1923

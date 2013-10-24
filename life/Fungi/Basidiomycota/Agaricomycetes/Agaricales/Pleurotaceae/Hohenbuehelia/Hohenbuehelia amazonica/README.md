@@ -1,5 +1,4 @@
-Hohenbuehelia amazonica Singer, 1989 SPECIES
-=======
+# Hohenbuehelia amazonica Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

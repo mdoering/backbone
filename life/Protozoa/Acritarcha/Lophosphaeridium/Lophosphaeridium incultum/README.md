@@ -1,5 +1,4 @@
-Lophosphaeridium incultum Colbath, 1990 SPECIES
-=======
+# Lophosphaeridium incultum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

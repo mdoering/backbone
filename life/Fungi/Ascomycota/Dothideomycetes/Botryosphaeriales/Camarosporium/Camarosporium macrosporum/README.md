@@ -1,17 +1,16 @@
-Camarosporium macrosporum f. macrosporum FORM
-=======
+# Camarosporium macrosporum (Berk. & Broome) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 461 (1884)
 
 #### Original name
-Camarosporium macrosporum f. macrosporum
+Hendersonia macrospora Berk. & Broome, 1854
 
 ### Remarks
 null

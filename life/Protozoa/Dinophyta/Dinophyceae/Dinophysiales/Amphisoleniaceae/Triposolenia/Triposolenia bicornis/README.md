@@ -1,5 +1,4 @@
-Triposolenia bicornis Kofoid SPECIES
-=======
+# Triposolenia bicornis Kofoid SPECIES
 
 #### Status
 ACCEPTED

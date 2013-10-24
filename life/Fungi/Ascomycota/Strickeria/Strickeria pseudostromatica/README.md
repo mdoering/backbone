@@ -1,5 +1,4 @@
-Strickeria pseudostromatica (Rehm) Koshk. SPECIES
-=======
+# Strickeria pseudostromatica (Rehm) Koshk. SPECIES
 
 #### Status
 ACCEPTED

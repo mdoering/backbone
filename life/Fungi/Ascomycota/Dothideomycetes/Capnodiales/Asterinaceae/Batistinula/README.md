@@ -1,5 +1,4 @@
-Batistinula Arx GENUS
-=======
+# Batistinula Arx GENUS
 
 #### Status
 ACCEPTED

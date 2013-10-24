@@ -1,5 +1,4 @@
-Cephalosporium rubi Sawada SPECIES
-=======
+# Cephalosporium rubi Sawada SPECIES
 
 #### Status
 ACCEPTED

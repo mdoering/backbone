@@ -1,17 +1,16 @@
-Echidnodes pandaniicola Hosag. & Hanlin SPECIES
-=======
+# Echidnodes pandanicola Hosag. & Hanlin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+New Botanist 22: 191 (1995)
 
 #### Original name
-Echidnodes pandaniicola Hosag. & Hanlin
+Echidnodes pandanicola Hosag. & Hanlin
 
 ### Remarks
 null

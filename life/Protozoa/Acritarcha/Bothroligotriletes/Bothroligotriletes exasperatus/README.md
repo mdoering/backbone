@@ -1,5 +1,4 @@
-Bothroligotriletes exasperatus Timofeev SPECIES
-=======
+# Bothroligotriletes exasperatus Timofeev SPECIES
 
 #### Status
 ACCEPTED

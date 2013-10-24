@@ -1,5 +1,4 @@
-Lecanora lubrica Stizenb. SPECIES
-=======
+# Lecanora lubrica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

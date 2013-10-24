@@ -1,5 +1,4 @@
-Paraphaeosphaeria pilleata Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
-=======
+# Paraphaeosphaeria pilleata Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
 
 #### Status
 ACCEPTED

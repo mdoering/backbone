@@ -1,5 +1,4 @@
-Gnomonia setiformis (Pers.) Sacc. SPECIES
-=======
+# Gnomonia setiformis (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

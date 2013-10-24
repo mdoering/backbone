@@ -1,17 +1,16 @@
-Circinaria Fée GENUS
-=======
+# Coccocarpia Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Crypt. Exot. (Paris) 1: xcv, 127 (1825)
+in Gaudichaud-Beauerp}, Voy. Uranie. Bot. 206 (1827)
 
 #### Original name
-Circinaria Fée
+Coccocarpia Pers.
 
 ### Remarks
 null

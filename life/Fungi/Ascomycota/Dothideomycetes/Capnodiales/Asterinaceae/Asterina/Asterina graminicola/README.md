@@ -1,5 +1,4 @@
-Asterina graminicola Ellis & Everh. SPECIES
-=======
+# Asterina graminicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsis anemoides Samp. SPECIES
-=======
+# Pyrenopsis anemoides Samp. SPECIES
 
 #### Status
 ACCEPTED

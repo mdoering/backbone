@@ -1,14 +1,13 @@
-Hypoderma pedatum Darker, 1932 SPECIES
-=======
+# Ploioderma pedatum (Darker) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Arnold Arbor. 1: 30 (1932)
+Can. J. Bot. 45: 1424 (1967)
 
 #### Original name
 Hypoderma pedatum Darker, 1932

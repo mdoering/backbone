@@ -1,5 +1,4 @@
-Verrucaria rivulicola Nyl. SPECIES
-=======
+# Verrucaria rivulicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnocrinum capsuliferum (Rehm) Bat. & Cif. SPECIES
-=======
+# Capnocrinum capsuliferum (Rehm) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

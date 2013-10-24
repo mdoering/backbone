@@ -1,5 +1,4 @@
-Uredo berberidis Lév. SPECIES
-=======
+# Uredo berberidis Lév. SPECIES
 
 #### Status
 ACCEPTED

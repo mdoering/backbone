@@ -1,5 +1,4 @@
-Lycogala platense Speg. SPECIES
-=======
+# Lycogala platense Speg. SPECIES
 
 #### Status
 ACCEPTED

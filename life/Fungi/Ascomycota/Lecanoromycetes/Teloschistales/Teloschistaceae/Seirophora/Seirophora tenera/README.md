@@ -1,5 +1,4 @@
-Seirophora tenera Frödén & Litterski SPECIES
-=======
+# Seirophora tenera Frödén & Litterski SPECIES
 
 #### Status
 ACCEPTED

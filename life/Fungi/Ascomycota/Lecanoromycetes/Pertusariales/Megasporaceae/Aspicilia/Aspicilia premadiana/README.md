@@ -1,5 +1,4 @@
-Aspicilia premadiana Hue SPECIES
-=======
+# Aspicilia premadiana Hue SPECIES
 
 #### Status
 ACCEPTED

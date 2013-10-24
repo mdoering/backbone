@@ -1,5 +1,4 @@
-Theocapsommella GENUS
-=======
+# Theocapsommella GENUS
 
 #### Status
 ACCEPTED

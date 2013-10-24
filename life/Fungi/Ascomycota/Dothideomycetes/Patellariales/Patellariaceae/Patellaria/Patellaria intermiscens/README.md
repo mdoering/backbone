@@ -1,5 +1,4 @@
-Patellaria intermiscens (Nyl.) SPECIES
-=======
+# Patellaria intermiscens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

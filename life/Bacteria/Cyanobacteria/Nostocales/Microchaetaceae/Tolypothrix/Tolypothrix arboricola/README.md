@@ -1,5 +1,4 @@
-Tolypothrix arboricola Frémy SPECIES
-=======
+# Tolypothrix arboricola Frémy SPECIES
 
 #### Status
 ACCEPTED

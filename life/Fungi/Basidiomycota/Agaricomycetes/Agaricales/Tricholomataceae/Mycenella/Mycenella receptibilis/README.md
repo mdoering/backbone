@@ -1,5 +1,4 @@
-Mycenella receptibilis (Britzelm.) Stangl & Bresinsky SPECIES
-=======
+# Mycenella receptibilis (Britzelm.) Stangl & Bresinsky SPECIES
 
 #### Status
 ACCEPTED

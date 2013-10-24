@@ -1,5 +1,4 @@
-Hymenula georginae Wallr. SPECIES
-=======
+# Hymenula georginae Wallr. SPECIES
 
 #### Status
 ACCEPTED

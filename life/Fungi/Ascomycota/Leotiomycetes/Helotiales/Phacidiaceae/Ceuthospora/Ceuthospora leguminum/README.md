@@ -1,5 +1,4 @@
-Ceuthospora leguminum Syd., 1923 SPECIES
-=======
+# Ceuthospora leguminum Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED

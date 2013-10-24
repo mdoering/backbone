@@ -1,5 +1,4 @@
-Naucoria hettematica (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria hettematica (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

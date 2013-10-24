@@ -1,5 +1,4 @@
-Phyllachora phyllostachydis Hara, 1913 SPECIES
-=======
+# Phyllachora phyllostachydis Hara, 1913 SPECIES
 
 #### Status
 DOUBTFUL

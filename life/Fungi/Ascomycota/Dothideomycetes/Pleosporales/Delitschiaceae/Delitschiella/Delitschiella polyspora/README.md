@@ -1,5 +1,4 @@
-Delitschiella polyspora (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Delitschiella polyspora (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

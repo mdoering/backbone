@@ -1,5 +1,4 @@
-Albugo hyoscyami Z.Y. Zhang, Ying X. Wang & Z.S. Fu SPECIES
-=======
+# Albugo hyoscyami Z.Y. Zhang, Ying X. Wang & Z.S. Fu SPECIES
 
 #### Status
 ACCEPTED

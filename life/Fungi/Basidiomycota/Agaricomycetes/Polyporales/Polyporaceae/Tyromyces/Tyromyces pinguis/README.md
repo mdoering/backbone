@@ -1,5 +1,4 @@
-Tyromyces pinguis Corner SPECIES
-=======
+# Tyromyces pinguis Corner SPECIES
 
 #### Status
 ACCEPTED

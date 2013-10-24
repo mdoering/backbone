@@ -1,5 +1,4 @@
-Herpotrichia tenuispora Kirschst. SPECIES
-=======
+# Herpotrichia tenuispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

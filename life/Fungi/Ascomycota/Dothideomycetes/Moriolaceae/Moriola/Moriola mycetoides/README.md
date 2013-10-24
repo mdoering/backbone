@@ -1,5 +1,4 @@
-Moriola mycetoides Norman SPECIES
-=======
+# Moriola mycetoides Norman SPECIES
 
 #### Status
 ACCEPTED

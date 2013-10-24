@@ -1,5 +1,4 @@
-Curvularia panici W.H. Chung & Tsukib. SPECIES
-=======
+# Curvularia panici W.H. Chung & Tsukib. SPECIES
 
 #### Status
 ACCEPTED

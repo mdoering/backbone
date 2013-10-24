@@ -1,5 +1,4 @@
-Rinodina xanthophaea (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina xanthophaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

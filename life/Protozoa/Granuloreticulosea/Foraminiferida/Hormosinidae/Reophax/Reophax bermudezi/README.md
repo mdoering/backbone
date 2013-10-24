@@ -1,5 +1,4 @@
-Reophax bermudezi Hofker, 1969 SPECIES
-=======
+# Reophax bermudezi Hofker, 1969 SPECIES
 
 #### Status
 ACCEPTED

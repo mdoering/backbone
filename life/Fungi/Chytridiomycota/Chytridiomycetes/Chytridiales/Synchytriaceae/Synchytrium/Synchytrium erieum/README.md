@@ -1,5 +1,4 @@
-Synchytrium erieum Karling, 1962 SPECIES
-=======
+# Synchytrium erieum Karling, 1962 SPECIES
 
 #### Status
 ACCEPTED

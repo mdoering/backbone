@@ -1,5 +1,4 @@
-Prorocentrum arenarium M.A. Faust SPECIES
-=======
+# Prorocentrum arenarium M.A. Faust SPECIES
 
 #### Status
 ACCEPTED

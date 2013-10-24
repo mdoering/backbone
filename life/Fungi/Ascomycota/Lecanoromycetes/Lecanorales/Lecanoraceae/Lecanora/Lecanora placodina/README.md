@@ -1,5 +1,4 @@
-Lecanora placodina Zahlbr. SPECIES
-=======
+# Lecanora placodina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

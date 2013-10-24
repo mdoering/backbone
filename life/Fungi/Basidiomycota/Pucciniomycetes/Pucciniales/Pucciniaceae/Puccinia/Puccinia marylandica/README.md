@@ -1,5 +1,4 @@
-Puccinia marylandica Lindr. SPECIES
-=======
+# Puccinia marylandica Lindr. SPECIES
 
 #### Status
 ACCEPTED

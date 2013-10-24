@@ -1,5 +1,4 @@
-Gerronema depauperatum Singer SPECIES
-=======
+# Gerronema depauperatum Singer SPECIES
 
 #### Status
 ACCEPTED

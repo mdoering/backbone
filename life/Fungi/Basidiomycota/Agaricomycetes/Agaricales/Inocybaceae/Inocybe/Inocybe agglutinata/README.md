@@ -1,5 +1,4 @@
-Inocybe agglutinata Peck SPECIES
-=======
+# Inocybe agglutinata Peck SPECIES
 
 #### Status
 ACCEPTED

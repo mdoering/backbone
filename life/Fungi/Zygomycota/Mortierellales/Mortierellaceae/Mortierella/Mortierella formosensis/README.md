@@ -1,5 +1,4 @@
-Mortierella formosensis C.Y. Chien SPECIES
-=======
+# Mortierella formosensis C.Y. Chien SPECIES
 
 #### Status
 ACCEPTED

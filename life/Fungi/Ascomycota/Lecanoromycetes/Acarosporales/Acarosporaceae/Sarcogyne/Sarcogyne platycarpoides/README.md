@@ -1,5 +1,4 @@
-Sarcogyne platycarpoides Anzi SPECIES
-=======
+# Sarcogyne platycarpoides Anzi SPECIES
 
 #### Status
 ACCEPTED

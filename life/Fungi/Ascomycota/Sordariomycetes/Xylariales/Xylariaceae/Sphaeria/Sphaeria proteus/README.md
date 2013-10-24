@@ -1,5 +1,4 @@
-Sphaeria proteus Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria proteus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

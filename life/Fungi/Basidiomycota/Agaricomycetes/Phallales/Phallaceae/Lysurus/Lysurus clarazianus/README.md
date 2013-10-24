@@ -1,5 +1,4 @@
-Lysurus clarazianus (Müll. Arg.) Henn. SPECIES
-=======
+# Lysurus clarazianus (Müll. Arg.) Henn. SPECIES
 
 #### Status
 ACCEPTED

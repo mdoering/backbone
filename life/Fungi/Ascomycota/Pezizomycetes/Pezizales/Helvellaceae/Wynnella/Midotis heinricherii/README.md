@@ -1,5 +1,4 @@
-Midotis heinricherii Bres. SPECIES
-=======
+# Midotis heinricherii Bres. SPECIES
 
 #### Status
 ACCEPTED

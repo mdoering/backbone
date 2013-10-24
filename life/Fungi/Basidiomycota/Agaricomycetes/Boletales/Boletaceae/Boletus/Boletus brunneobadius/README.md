@@ -1,5 +1,4 @@
-Boletus brunneobadius J. Blum SPECIES
-=======
+# Boletus brunneobadius J. Blum SPECIES
 
 #### Status
 ACCEPTED

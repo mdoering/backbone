@@ -1,5 +1,4 @@
-Hydnum holttumii Lloyd SPECIES
-=======
+# Hydnum holttumii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudohygrocybe procera (G. Stev.) Kovalenko, 1988 SPECIES
-=======
+# Hygrocybe procera (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 22(3): 209 (1988)
+N. Z. Jl Bot. 9(3): 446 (1971)
 
 #### Original name
 Hygrophorus procerus G. Stev., 1963

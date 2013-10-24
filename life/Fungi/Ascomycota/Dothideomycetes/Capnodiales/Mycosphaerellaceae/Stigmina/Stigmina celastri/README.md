@@ -1,5 +1,4 @@
-Stigmina celastri (Kalchbr.) M.B. Ellis SPECIES
-=======
+# Stigmina celastri (Kalchbr.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

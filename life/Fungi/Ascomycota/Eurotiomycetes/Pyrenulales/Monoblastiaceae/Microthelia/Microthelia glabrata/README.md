@@ -1,5 +1,4 @@
-Microthelia glabrata (Ach.) Boistel SPECIES
-=======
+# Microthelia glabrata (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

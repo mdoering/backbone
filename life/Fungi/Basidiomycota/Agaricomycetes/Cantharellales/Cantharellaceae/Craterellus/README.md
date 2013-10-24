@@ -1,17 +1,16 @@
-Actinodermium Nees GENUS
-=======
+# Craterellus Persoon, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Syst. Pilze (Würzburg) 135 (1816)
+null
 
 #### Original name
-Actinodermium Nees
+null
 
 ### Remarks
 null

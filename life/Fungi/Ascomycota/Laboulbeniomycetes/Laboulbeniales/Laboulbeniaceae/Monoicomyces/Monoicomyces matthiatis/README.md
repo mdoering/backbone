@@ -1,5 +1,4 @@
-Monoicomyces matthiatis T. Majewski SPECIES
-=======
+# Monoicomyces matthiatis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

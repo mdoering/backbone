@@ -1,5 +1,4 @@
-Aspergillus fumisynnematus Y. Horie, Miyaji, Nishim., Taguchi & Udagawa, 1993 SPECIES
-=======
+# Aspergillus fumisynnematus Y. Horie, Miyaji, Nishim., Taguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

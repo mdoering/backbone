@@ -1,5 +1,4 @@
-Pyrenophora fenestrata Peck SPECIES
-=======
+# Pyrenophora fenestrata Peck SPECIES
 
 #### Status
 ACCEPTED

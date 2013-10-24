@@ -1,17 +1,16 @@
-Spumaria Persoon in J.F. Gmelin, 1792 GENUS
-=======
+# Mucilago Battarra, 1755 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gmelin, Systema Naturae, Edn 13 2: 1466
+Fung. Avimin. 76 (1755)
 
 #### Original name
-Spumaria Persoon in J.F. Gmelin, 1792
+Mucilago Battarra, 1755
 
 ### Remarks
 null

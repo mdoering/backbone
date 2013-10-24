@@ -1,5 +1,4 @@
-Polyblastia nadvornikii Servít SPECIES
-=======
+# Polyblastia nadvornikii Servít SPECIES
 
 #### Status
 ACCEPTED

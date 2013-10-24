@@ -1,5 +1,4 @@
-Marasmius purpureisetosus Corner SPECIES
-=======
+# Marasmius purpureisetosus Corner SPECIES
 
 #### Status
 ACCEPTED

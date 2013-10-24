@@ -1,5 +1,4 @@
-Diplodinula mendax Tassi SPECIES
-=======
+# Diplodinula mendax Tassi SPECIES
 
 #### Status
 ACCEPTED

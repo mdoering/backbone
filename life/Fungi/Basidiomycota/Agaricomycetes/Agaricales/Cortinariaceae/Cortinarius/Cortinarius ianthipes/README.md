@@ -1,5 +1,4 @@
-Cortinarius ianthipes Fr. SPECIES
-=======
+# Cortinarius ianthipes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placolecanora sikkimensis Räsänen SPECIES
-=======
+# Placolecanora sikkimensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

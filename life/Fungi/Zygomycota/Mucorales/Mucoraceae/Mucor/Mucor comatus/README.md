@@ -1,5 +1,4 @@
-Mucor comatus Bainier SPECIES
-=======
+# Mucor comatus Bainier SPECIES
 
 #### Status
 ACCEPTED

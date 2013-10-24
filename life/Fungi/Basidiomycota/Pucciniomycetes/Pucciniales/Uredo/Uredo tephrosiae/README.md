@@ -1,5 +1,4 @@
-Uredo tephrosiae Rabenh. SPECIES
-=======
+# Uredo tephrosiae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

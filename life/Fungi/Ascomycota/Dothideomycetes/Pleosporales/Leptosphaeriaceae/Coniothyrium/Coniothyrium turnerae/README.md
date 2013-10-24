@@ -1,5 +1,4 @@
-Coniothyrium turnerae Tassi SPECIES
-=======
+# Coniothyrium turnerae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mutinus annulatus Lloyd SPECIES
-=======
+# Mutinus annulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

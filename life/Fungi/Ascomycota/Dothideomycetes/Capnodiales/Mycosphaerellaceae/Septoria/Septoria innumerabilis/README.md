@@ -1,5 +1,4 @@
-Septoria innumerabilis Fuckel SPECIES
-=======
+# Septoria innumerabilis Fuckel SPECIES
 
 #### Status
 ACCEPTED

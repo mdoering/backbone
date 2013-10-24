@@ -1,5 +1,4 @@
-Galerina hepaticicola (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina hepaticicola (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

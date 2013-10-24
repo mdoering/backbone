@@ -1,5 +1,4 @@
-Hyperphyscia isidiata Moberg SPECIES
-=======
+# Hyperphyscia isidiata Moberg SPECIES
 
 #### Status
 ACCEPTED

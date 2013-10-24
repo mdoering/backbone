@@ -1,5 +1,4 @@
-Tettigomyces indicus Thaxt. SPECIES
-=======
+# Tettigomyces indicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

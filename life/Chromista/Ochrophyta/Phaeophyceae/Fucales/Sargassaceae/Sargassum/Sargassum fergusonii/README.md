@@ -1,5 +1,4 @@
-Sargassum fergusonii Grunow SPECIES
-=======
+# Sargassum fergusonii Grunow SPECIES
 
 #### Status
 ACCEPTED

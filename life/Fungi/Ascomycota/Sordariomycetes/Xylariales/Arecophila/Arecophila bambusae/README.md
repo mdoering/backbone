@@ -1,5 +1,4 @@
-Arecophila bambusae Umali & K.D. Hyde SPECIES
-=======
+# Arecophila bambusae Umali & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

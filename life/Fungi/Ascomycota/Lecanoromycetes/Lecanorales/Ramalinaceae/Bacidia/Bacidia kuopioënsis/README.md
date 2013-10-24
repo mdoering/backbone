@@ -1,5 +1,4 @@
-Bacidia kuopioënsis Vain. SPECIES
-=======
+# Bacidia kuopioënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

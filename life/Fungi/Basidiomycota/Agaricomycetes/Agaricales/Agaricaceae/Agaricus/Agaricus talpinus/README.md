@@ -1,5 +1,4 @@
-Agaricus talpinus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus talpinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wallrothiella fraxinicola Feltgen SPECIES
-=======
+# Wallrothiella fraxinicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina arenicola A.H. Sm. SPECIES
-=======
+# Galerina arenicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

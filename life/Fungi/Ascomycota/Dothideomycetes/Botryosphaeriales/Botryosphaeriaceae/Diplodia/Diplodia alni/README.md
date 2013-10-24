@@ -1,17 +1,16 @@
-Metadiplodia alni f. alni FORM
-=======
+# Diplodia alni Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 70: 293 (1955)
+Jb. nassau. Ver. Naturk. 23-24: 395 (1870)
 
 #### Original name
-Metadiplodia alni f. alni
+Diplodia alni Fuckel, 1870
 
 ### Remarks
 null

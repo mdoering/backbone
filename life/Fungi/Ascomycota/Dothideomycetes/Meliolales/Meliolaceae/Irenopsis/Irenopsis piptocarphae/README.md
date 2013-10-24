@@ -1,5 +1,4 @@
-Irenopsis piptocarphae Hansf. SPECIES
-=======
+# Irenopsis piptocarphae Hansf. SPECIES
 
 #### Status
 ACCEPTED

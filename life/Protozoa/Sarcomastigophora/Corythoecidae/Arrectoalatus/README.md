@@ -1,5 +1,4 @@
-Arrectoalatus Nazarov & Ormiston, 1985 GENUS
-=======
+# Arrectoalatus Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

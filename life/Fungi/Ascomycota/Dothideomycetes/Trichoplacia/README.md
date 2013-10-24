@@ -1,5 +1,4 @@
-Trichoplacia A. Massal. GENUS
-=======
+# Trichoplacia A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus gilvocolor Lloyd SPECIES
-=======
+# Polystictus gilvocolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

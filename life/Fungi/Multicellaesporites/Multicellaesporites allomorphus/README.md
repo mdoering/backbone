@@ -1,5 +1,4 @@
-Multicellaesporites allomorphus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites allomorphus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

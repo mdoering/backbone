@@ -1,5 +1,4 @@
-Tricharia subhelminthospora Lücking SPECIES
-=======
+# Tricharia subhelminthospora Lücking SPECIES
 
 #### Status
 ACCEPTED

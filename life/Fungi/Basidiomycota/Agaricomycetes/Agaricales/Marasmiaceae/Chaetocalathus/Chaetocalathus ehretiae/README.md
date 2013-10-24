@@ -1,5 +1,4 @@
-Chaetocalathus ehretiae Neda SPECIES
-=======
+# Chaetocalathus ehretiae Neda SPECIES
 
 #### Status
 ACCEPTED

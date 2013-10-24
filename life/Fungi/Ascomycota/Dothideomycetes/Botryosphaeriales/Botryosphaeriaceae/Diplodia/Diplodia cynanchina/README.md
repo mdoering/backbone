@@ -1,5 +1,4 @@
-Diplodia cynanchina Petr. SPECIES
-=======
+# Diplodia cynanchina Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythiopsis cymosa de Bary, 1888 SPECIES
-=======
+# Pythiopsis cymosa de Bary, 1888 SPECIES
 
 #### Status
 ACCEPTED

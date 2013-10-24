@@ -1,5 +1,4 @@
-Notheia anomala Harvey & Bailey SPECIES
-=======
+# Notheia anomala Harvey & Bailey SPECIES
 
 #### Status
 ACCEPTED

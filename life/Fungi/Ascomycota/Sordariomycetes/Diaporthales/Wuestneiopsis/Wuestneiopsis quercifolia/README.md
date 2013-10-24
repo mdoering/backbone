@@ -1,5 +1,4 @@
-Wuestneiopsis quercifolia (Ellis & Everh.) J. Reid & Dowsett SPECIES
-=======
+# Wuestneiopsis quercifolia (Ellis & Everh.) J. Reid & Dowsett SPECIES
 
 #### Status
 ACCEPTED

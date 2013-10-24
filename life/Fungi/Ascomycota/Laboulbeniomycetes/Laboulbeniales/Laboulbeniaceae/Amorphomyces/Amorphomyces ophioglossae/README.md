@@ -1,5 +1,4 @@
-Amorphomyces ophioglossae Thaxt., 1912 SPECIES
-=======
+# Amorphomyces ophioglossae Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

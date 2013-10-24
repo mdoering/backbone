@@ -1,5 +1,4 @@
-Entomophthora arrenoctona Giard SPECIES
-=======
+# Entomophthora arrenoctona Giard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma alutaceopallens P. Karst. SPECIES
-=======
+# Tricholoma alutaceopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora broussonetiae Chupp & Linder, 1937 SPECIES
-=======
+# Pseudocercospora broussonetiae (Chupp & Linder) Y.L. Guo & X.J. Liu, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29: 27 (1937)
+Mycosystema 2: 229 (1989)
 
 #### Original name
 Cercospora broussonetiae Chupp & Linder, 1937

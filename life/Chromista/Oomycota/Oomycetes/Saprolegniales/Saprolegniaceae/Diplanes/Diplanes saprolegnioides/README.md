@@ -1,17 +1,16 @@
-Diplanes saprolegnoides Leitg. SPECIES
-=======
+# Diplanes saprolegnioides Leitg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Ztg. 26: (1868)
 
 #### Original name
-Diplanes saprolegnoides Leitg.
+Diplanes saprolegnioides Leitg.
 
 ### Remarks
 null

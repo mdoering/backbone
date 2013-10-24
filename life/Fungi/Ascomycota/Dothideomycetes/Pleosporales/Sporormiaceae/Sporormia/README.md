@@ -1,17 +1,16 @@
-Brochospora Kirschst. GENUS
-=======
+# Sporormia De Notaris, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 81: 204 (1944)
+null
 
 #### Original name
-Brochospora Kirschst.
+null
 
 ### Remarks
 null

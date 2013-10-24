@@ -1,5 +1,4 @@
-Asterostroma bicolor Ellis & Everh. SPECIES
-=======
+# Asterostroma bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

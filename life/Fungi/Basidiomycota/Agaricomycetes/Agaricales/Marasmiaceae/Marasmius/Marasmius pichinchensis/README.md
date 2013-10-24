@@ -1,5 +1,4 @@
-Marasmius pichinchensis Singer SPECIES
-=======
+# Marasmius pichinchensis Singer SPECIES
 
 #### Status
 ACCEPTED

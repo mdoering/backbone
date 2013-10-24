@@ -1,5 +1,4 @@
-Lautosporopsis circumvestita (Kohlm.) E.B.G. Jones, Yusoff S.T. Moss SPECIES
-=======
+# Lautosporopsis circumvestita (Kohlm.) E.B.G. Jones, Yusoff S.T. Moss SPECIES
 
 #### Status
 ACCEPTED

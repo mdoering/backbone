@@ -1,5 +1,4 @@
-Skyathea hederae Spooner & Dennis, 1986 SPECIES
-=======
+# Skyathea hederae Spooner & Dennis, 1986 SPECIES
 
 #### Status
 ACCEPTED

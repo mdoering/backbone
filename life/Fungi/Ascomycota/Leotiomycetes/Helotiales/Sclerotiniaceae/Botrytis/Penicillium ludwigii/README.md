@@ -1,5 +1,4 @@
-Penicillium ludwigii Udagawa, 1969 SPECIES
-=======
+# Penicillium ludwigii Udagawa, 1969 SPECIES
 
 #### Status
 DOUBTFUL

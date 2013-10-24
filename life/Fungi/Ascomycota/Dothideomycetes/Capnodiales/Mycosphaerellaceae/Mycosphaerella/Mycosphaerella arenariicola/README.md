@@ -1,5 +1,4 @@
-Mycosphaerella arenariicola Bubák SPECIES
-=======
+# Mycosphaerella arenariicola Bubák SPECIES
 
 #### Status
 ACCEPTED

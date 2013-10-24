@@ -1,5 +1,4 @@
-Apospathidium Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Apospathidium Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

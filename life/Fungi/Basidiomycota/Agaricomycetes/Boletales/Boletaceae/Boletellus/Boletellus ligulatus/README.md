@@ -1,5 +1,4 @@
-Boletellus ligulatus (Cooke) Singer SPECIES
-=======
+# Boletellus ligulatus (Cooke) Singer SPECIES
 
 #### Status
 ACCEPTED

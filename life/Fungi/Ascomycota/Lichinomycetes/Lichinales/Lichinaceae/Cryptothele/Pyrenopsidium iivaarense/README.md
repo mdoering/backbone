@@ -1,5 +1,4 @@
-Pyrenopsidium iivaarense f. iivaarense FORM
-=======
+# Pyrenopsidium iivaarense (Vain.) Forssell SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenopsidium iivaarense f. iivaarense
+Pyrenopsis iivaarensis Vain.
 
 ### Remarks
 null

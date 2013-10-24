@@ -1,5 +1,4 @@
-Lecanora corsicana Dechatres & Werner SPECIES
-=======
+# Lecanora corsicana Dechatres & Werner SPECIES
 
 #### Status
 ACCEPTED

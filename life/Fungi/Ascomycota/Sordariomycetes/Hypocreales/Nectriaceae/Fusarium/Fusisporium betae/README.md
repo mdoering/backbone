@@ -1,14 +1,13 @@
-Fusarium betae (Desm.) Sacc., 1880 SPECIES
-=======
+# Fusisporium betae Desm., 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 132 (1880)
+Annls Sci. Nat. , Bot. , sér. 1 19: 436 (1830)
 
 #### Original name
 Fusisporium betae Desm., 1830

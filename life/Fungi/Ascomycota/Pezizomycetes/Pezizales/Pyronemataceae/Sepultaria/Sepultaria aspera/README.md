@@ -1,5 +1,4 @@
-Sepultaria aspera Clem. SPECIES
-=======
+# Sepultaria aspera Clem. SPECIES
 
 #### Status
 ACCEPTED

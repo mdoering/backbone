@@ -1,5 +1,4 @@
-Globocassidulina decorata (Sidebottom, 1910) SPECIES
-=======
+# Globocassidulina decorata (Sidebottom, 1910) SPECIES
 
 #### Status
 ACCEPTED

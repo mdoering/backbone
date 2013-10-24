@@ -1,5 +1,4 @@
-Clitocybula omphaliformis SPECIES
-=======
+# Clitocybula omphaliformis SPECIES
 
 #### Status
 ACCEPTED

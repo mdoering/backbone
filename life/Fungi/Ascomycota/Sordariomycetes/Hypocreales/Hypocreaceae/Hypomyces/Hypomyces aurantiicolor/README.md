@@ -1,5 +1,4 @@
-Hypomyces aurantiicolor Schulzer SPECIES
-=======
+# Hypomyces aurantiicolor Schulzer SPECIES
 
 #### Status
 ACCEPTED

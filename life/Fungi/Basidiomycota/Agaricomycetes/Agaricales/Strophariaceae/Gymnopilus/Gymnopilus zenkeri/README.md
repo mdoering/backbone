@@ -1,5 +1,4 @@
-Gymnopilus zenkeri (Henn.) Singer SPECIES
-=======
+# Gymnopilus zenkeri (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

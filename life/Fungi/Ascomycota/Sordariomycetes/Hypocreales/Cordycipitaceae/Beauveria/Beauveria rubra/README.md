@@ -1,5 +1,4 @@
-Beauveria rubra (Baquis) Langeron SPECIES
-=======
+# Beauveria rubra (Baquis) Langeron SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea atriplicicola Fr. SPECIES
-=======
+# Depazea atriplicicola Fr. SPECIES
 
 #### Status
 ACCEPTED

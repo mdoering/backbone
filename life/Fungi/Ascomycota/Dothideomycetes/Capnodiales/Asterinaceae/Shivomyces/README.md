@@ -1,17 +1,16 @@
-Shivamyces Hosag. GENUS
-=======
+# Shivomyces Hosag. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 28(1): 193 (2004)
 
 #### Original name
-Shivamyces Hosag.
+Shivomyces Hosag.
 
 ### Remarks
 null

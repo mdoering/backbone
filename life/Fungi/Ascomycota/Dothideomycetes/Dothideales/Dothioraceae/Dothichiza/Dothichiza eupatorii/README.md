@@ -1,5 +1,4 @@
-Dothichiza eupatorii C. Massal. SPECIES
-=======
+# Dothichiza eupatorii C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe symplocicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe symplocicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

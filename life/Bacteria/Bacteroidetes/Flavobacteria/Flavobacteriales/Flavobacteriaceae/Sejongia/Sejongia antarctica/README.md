@@ -1,5 +1,4 @@
-Sejongia antarctica Yi et al., 2005 SPECIES
-=======
+# Sejongia antarctica Yi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

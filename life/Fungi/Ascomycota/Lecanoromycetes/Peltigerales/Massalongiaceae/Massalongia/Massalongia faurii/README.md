@@ -1,5 +1,4 @@
-Massalongia faurii (Hue) Zahlbr. SPECIES
-=======
+# Massalongia faurii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

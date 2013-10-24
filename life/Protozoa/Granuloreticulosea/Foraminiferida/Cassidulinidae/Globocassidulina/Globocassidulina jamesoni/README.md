@@ -1,5 +1,4 @@
-Globocassidulina jamesoni (McCulloch, 1977) SPECIES
-=======
+# Globocassidulina jamesoni (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

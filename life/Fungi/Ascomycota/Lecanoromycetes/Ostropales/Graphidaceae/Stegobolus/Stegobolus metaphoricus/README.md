@@ -1,14 +1,13 @@
-Leptotrema metaphoricum (Nyl.) Zahlbr. SPECIES
-=======
+# Stegobolus metaphoricus (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 637 (1923)
+in Frisch & Kalb, Biblthca Lichenol. 92: 470 (2006)
 
 #### Original name
 Thelotrema metaphoricum Nyl.

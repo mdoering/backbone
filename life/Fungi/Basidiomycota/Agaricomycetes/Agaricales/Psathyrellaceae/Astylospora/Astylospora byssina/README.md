@@ -1,5 +1,4 @@
-Astylospora byssina Murrill SPECIES
-=======
+# Astylospora byssina Murrill SPECIES
 
 #### Status
 ACCEPTED

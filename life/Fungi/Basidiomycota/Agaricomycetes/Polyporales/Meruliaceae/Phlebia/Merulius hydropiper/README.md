@@ -1,5 +1,4 @@
-Merulius hydropiper Rauschert SPECIES
-=======
+# Merulius hydropiper Rauschert SPECIES
 
 #### Status
 ACCEPTED

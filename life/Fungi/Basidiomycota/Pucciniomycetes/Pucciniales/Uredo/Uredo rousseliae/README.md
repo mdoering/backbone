@@ -1,5 +1,4 @@
-Uredo rousseliae F. Kern & Whetzel SPECIES
-=======
+# Uredo rousseliae F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

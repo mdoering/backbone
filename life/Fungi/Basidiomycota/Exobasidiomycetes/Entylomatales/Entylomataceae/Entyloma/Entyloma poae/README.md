@@ -1,5 +1,4 @@
-Entyloma poae Liro SPECIES
-=======
+# Entyloma poae Liro SPECIES
 
 #### Status
 ACCEPTED

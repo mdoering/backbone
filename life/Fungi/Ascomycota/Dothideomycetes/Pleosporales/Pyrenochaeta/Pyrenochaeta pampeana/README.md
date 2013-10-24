@@ -1,5 +1,4 @@
-Pyrenochaeta pampeana Speg. SPECIES
-=======
+# Pyrenochaeta pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegeritina Jülich GENUS
-=======
+# Aegeritina Jülich GENUS
 
 #### Status
 ACCEPTED

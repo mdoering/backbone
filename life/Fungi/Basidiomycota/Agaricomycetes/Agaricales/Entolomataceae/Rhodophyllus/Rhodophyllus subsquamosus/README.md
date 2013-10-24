@@ -1,5 +1,4 @@
-Rhodophyllus subsquamosus Romagn. SPECIES
-=======
+# Rhodophyllus subsquamosus Romagn. SPECIES
 
 #### Status
 ACCEPTED

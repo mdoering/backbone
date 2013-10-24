@@ -1,5 +1,4 @@
-Ronnigeria Petr. GENUS
-=======
+# Ronnigeria Petr. GENUS
 
 #### Status
 ACCEPTED

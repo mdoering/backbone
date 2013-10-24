@@ -1,5 +1,4 @@
-Glomerella salicina (Hara) Fukushi & Yamam. {?} SPECIES
-=======
+# Glomerella salicina (Hara) Fukushi & Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

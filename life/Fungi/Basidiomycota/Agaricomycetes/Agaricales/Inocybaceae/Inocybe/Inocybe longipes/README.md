@@ -1,5 +1,4 @@
-Inocybe longipes Massee SPECIES
-=======
+# Inocybe longipes Massee SPECIES
 
 #### Status
 ACCEPTED

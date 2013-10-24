@@ -1,5 +1,4 @@
-Pyrenopsis karelica Vain. ex Räsänen SPECIES
-=======
+# Pyrenopsis karelica Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

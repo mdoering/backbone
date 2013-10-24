@@ -1,5 +1,4 @@
-Strobilomyces velutinus J.Z. Ying SPECIES
-=======
+# Strobilomyces velutinus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trimmatostroma salinum Zalar, de Hoog & Gunde-Cim. SPECIES
-=======
+# Trimmatostroma salinum Zalar, de Hoog & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

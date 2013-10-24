@@ -1,17 +1,16 @@
-Septobasidium aligerum Petch, 1927 SPECIES
-=======
+# Septobasidium rameale (Berk.) Bres., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 12: 276 (1927)
+Trans. Br. mycol. Soc. 7: 34 (1921)
 
 #### Original name
-Septobasidium aligerum Petch, 1927
+Hymenochaete ramealis Berk., 1875
 
 ### Remarks
 null

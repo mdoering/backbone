@@ -1,8 +1,7 @@
-Amphistegina cumingii Carpenter, 1860 SPECIES
-=======
+# Operculinella cumingii (Carpenter, 1860) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Torulaspora alkoholi Serrano SPECIES
-=======
+# Torulaspora alkoholi Serrano SPECIES
 
 #### Status
 ACCEPTED

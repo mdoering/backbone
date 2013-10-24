@@ -1,5 +1,4 @@
-Flammula freindlingiae Singer SPECIES
-=======
+# Flammula freindlingiae Singer SPECIES
 
 #### Status
 ACCEPTED

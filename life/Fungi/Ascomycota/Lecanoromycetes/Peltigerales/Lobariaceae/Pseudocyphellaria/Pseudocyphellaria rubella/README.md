@@ -1,14 +1,13 @@
-Lobaria rubella (Hook. f. & Taylor) Kuntze SPECIES
-=======
+# Pseudocyphellaria rubella (Hook. f. & Taylor) D. J. Galloway & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: (1891)
+Lichenologist 12(3): 302 (1980)
 
 #### Original name
 Sticta rubella Hook. f. & Taylor

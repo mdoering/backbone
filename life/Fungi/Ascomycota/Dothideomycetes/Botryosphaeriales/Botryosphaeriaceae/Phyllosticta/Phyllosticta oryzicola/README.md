@@ -1,5 +1,4 @@
-Phyllosticta oryzicola Hara SPECIES
-=======
+# Phyllosticta oryzicola Hara SPECIES
 
 #### Status
 ACCEPTED

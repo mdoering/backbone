@@ -1,5 +1,4 @@
-Coniothyrium quercicola Oudem. SPECIES
-=======
+# Coniothyrium quercicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

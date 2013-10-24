@@ -1,5 +1,4 @@
-Dictyochaeta lunata (Matsush.) Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta lunata (Matsush.) Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

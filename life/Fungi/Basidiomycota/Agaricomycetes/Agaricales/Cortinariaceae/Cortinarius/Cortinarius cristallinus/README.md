@@ -1,5 +1,4 @@
-Cortinarius cristallinus Fr. SPECIES
-=======
+# Cortinarius cristallinus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella venusta (Ellis) Sacc. SPECIES
-=======
+# Eutypella venusta (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

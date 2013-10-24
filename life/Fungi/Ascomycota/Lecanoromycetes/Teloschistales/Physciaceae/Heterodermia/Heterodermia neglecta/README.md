@@ -1,5 +1,4 @@
-Heterodermia neglecta Lendemer, R. C. Harris & E. Tripp SPECIES
-=======
+# Heterodermia neglecta Lendemer, R. C. Harris & E. Tripp SPECIES
 
 #### Status
 ACCEPTED

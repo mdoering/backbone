@@ -1,5 +1,4 @@
-Ustalia speciosa Eschw. SPECIES
-=======
+# Ustalia speciosa Eschw. SPECIES
 
 #### Status
 ACCEPTED

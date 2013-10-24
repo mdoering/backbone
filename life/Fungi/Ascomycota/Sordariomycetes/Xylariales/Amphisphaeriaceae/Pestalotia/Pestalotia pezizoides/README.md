@@ -1,17 +1,16 @@
-Pestalotia pezizoides f. pezizoides FORM
-=======
+# Pestalotia pezizoides De Not., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mem. R. Accad. Torino. , Ser. 2 2: 80 (1841)
 
 #### Original name
-Pestalotia pezizoides f. pezizoides
+Pestalotia pezizoides De Not., 1841
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Patellaria spadicea (Ach.) SPECIES
-=======
+# Patellaria spadicea (Ach.) SPECIES
 
 #### Status
 ACCEPTED

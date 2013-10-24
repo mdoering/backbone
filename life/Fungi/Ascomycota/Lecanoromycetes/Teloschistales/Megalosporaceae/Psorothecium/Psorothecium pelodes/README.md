@@ -1,5 +1,4 @@
-Psorothecium pelodes Körb. SPECIES
-=======
+# Psorothecium pelodes Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe australis Murrill SPECIES
-=======
+# Clitocybe australis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela albida Motyka SPECIES
-=======
+# Tephromela albida Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella moricola Curzi & Barbaini SPECIES
-=======
+# Aplosporella moricola Curzi & Barbaini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia 3: 180 (1927)
 
 #### Original name
-Haplosporella moricola Curzi & Barbaini
+Aplosporella moricola Curzi & Barbaini
 
 ### Remarks
 null

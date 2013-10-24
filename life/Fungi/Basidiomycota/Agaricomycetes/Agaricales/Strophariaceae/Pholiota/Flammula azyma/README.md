@@ -1,5 +1,4 @@
-Flammula azyma (Fr.) Quél. SPECIES
-=======
+# Flammula azyma (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

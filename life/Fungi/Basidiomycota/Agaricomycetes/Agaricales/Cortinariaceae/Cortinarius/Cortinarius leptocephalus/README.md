@@ -1,5 +1,4 @@
-Cortinarius leptocephalus Rob. Henry SPECIES
-=======
+# Cortinarius leptocephalus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

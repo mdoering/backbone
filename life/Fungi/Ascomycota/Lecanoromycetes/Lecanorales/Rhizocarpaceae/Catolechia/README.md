@@ -1,17 +1,16 @@
-Dimaura Norman GENUS
-=======
+# Catolechia Flot. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Natur. 7: 235 (1853)
+Bot. Ztg. 8: 367 (1850)
 
 #### Original name
-Dimaura Norman
+Catolechia Flot.
 
 ### Remarks
 null

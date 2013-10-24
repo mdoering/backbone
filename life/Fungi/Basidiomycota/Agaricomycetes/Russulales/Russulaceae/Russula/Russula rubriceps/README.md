@@ -1,5 +1,4 @@
-Russula rubriceps (Kauffman) Singer SPECIES
-=======
+# Russula rubriceps (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

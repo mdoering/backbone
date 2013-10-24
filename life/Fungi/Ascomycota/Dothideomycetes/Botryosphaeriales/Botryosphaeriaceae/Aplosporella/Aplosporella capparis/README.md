@@ -1,14 +1,13 @@
-Aplosporella capparidis (Died.) Petr. & Syd. SPECIES
-=======
+# Aplosporella capparis (Died.) Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. , Beih. 42: 105 (1926)
 
 #### Original name
 null

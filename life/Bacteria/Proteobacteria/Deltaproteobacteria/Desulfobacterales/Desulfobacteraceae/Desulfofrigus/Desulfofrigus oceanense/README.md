@@ -1,5 +1,4 @@
-Desulfofrigus oceanense Knoblauch et al., 1999 SPECIES
-=======
+# Desulfofrigus oceanense Knoblauch et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

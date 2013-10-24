@@ -1,14 +1,13 @@
-Lecidea conspicua C. Knight SPECIES
-=======
+# Bacidia conspicua (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 44 (1882)
+Cat. Lich. Univers. 4: 107 (1926)
 
 #### Original name
 Lecidea conspicua C. Knight

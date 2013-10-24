@@ -1,5 +1,4 @@
-Canoparmelia norpruinata Elix & J. Johnst. SPECIES
-=======
+# Canoparmelia norpruinata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

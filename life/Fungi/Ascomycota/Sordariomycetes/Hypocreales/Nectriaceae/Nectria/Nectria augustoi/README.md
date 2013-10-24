@@ -1,5 +1,4 @@
-Nectria augustoi H.P. Upadhyay, 1967 SPECIES
-=======
+# Nectria augustoi H.P. Upadhyay, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum minutum McHugh, 2009 SPECIES
-=======
+# Physarum minutum McHugh, 2009 SPECIES
 
 #### Status
 ACCEPTED

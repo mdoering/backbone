@@ -1,5 +1,4 @@
-Bulimina subornata (Brady, 1884) SPECIES
-=======
+# Bulimina subornata (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

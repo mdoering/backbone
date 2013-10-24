@@ -1,5 +1,4 @@
-Lecanora densata H. Magn. SPECIES
-=======
+# Lecanora densata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

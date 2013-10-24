@@ -1,5 +1,4 @@
-Uromyces rabenhorstiana J.G. Kühn SPECIES
-=======
+# Uromyces rabenhorstiana J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

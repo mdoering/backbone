@@ -1,5 +1,4 @@
-Chlorarkys reticulata Pascher SPECIES
-=======
+# Chlorarkys reticulata Pascher SPECIES
 
 #### Status
 ACCEPTED

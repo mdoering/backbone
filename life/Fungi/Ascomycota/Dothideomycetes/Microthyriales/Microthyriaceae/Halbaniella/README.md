@@ -1,5 +1,4 @@
-Halbaniella GENUS
-=======
+# Halbaniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lessonia littoralis Tilden SPECIES
-=======
+# Lessoniopsis littoralis (Tilden) Reinke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

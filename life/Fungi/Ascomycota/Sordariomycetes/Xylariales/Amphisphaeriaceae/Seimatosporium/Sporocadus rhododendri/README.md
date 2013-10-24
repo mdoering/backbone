@@ -1,17 +1,16 @@
-Coryneum rhododendri var. fusoideum Dearn. VARIETY
-=======
+# Sporocadus rhododendri (Schwein.) M. Morelet, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 33: 364 (1941)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 37(4): 234 (1985)
 
 #### Original name
-Coryneum rhododendri var. fusoideum Dearn.
+Coryneum rhododendri Schwein., 1832
 
 ### Remarks
 null

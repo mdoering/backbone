@@ -1,5 +1,4 @@
-Pestalotia byrsonimae Höhn. SPECIES
-=======
+# Pestalotia byrsonimae Höhn. SPECIES
 
 #### Status
 ACCEPTED

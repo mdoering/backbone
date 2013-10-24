@@ -1,5 +1,4 @@
-Rutherfordoides rotundata (Parr, 1950) SPECIES
-=======
+# Rutherfordoides rotundata (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

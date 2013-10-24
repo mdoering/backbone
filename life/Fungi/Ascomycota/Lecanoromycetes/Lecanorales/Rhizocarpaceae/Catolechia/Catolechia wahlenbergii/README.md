@@ -1,14 +1,13 @@
-Xanthopsis wahlenbergii (Ach.) Acloque SPECIES
-=======
+# Catolechia wahlenbergii (Ach.) Flot. ex Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Lichens (1893)
+Syst. lich. germ. (Breslau) 181 (1849)
 
 #### Original name
 Lecidea wahlenbergii Ach.

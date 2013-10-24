@@ -1,17 +1,16 @@
-Nectria elephantopodis Sawada SPECIES
-=======
+# Nectria elephantopi Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 52 (1959)
 
 #### Original name
-Nectria elephantopodis Sawada
+Nectria elephantopi Sawada
 
 ### Remarks
 null

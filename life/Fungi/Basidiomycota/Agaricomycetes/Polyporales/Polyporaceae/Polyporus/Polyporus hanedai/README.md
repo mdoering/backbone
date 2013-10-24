@@ -1,5 +1,4 @@
-Polyporus hanedai A. Kawam. SPECIES
-=======
+# Polyporus hanedai A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

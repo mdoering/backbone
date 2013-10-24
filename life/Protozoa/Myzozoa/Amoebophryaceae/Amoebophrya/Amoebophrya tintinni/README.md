@@ -1,5 +1,4 @@
-Amoebophrya tintinni Cachon SPECIES
-=======
+# Amoebophrya tintinni Cachon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma catananches Cif. SPECIES
-=======
+# Entyloma catananches Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beckingia salina Ruinen SPECIES
-=======
+# Beckingia salina Ruinen SPECIES
 
 #### Status
 ACCEPTED

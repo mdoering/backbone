@@ -1,5 +1,4 @@
-Warnowia maculata (Kofoid & Swezy) Lindemann, 1928 SPECIES
-=======
+# Warnowia maculata (Kofoid & Swezy) Lindemann, 1928 SPECIES
 
 #### Status
 ACCEPTED

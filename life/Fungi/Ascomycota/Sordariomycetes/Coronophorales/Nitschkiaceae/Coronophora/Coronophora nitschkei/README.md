@@ -1,5 +1,4 @@
-Coronophora nitschkei Sacc. SPECIES
-=======
+# Coronophora nitschkei Sacc. SPECIES
 
 #### Status
 ACCEPTED

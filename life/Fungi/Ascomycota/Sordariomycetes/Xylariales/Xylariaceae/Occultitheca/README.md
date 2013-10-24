@@ -1,5 +1,4 @@
-Occultitheca J.D. Rogers & Y.-M. Ju GENUS
-=======
+# Occultitheca J.D. Rogers & Y.-M. Ju GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diademosa sabulosa Checa & M.E. Barr SPECIES
-=======
+# Diademosa sabulosa Checa & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

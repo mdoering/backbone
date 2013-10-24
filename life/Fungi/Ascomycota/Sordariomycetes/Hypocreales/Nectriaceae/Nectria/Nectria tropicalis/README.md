@@ -1,5 +1,4 @@
-Nectria tropicalis Speg. SPECIES
-=======
+# Nectria tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

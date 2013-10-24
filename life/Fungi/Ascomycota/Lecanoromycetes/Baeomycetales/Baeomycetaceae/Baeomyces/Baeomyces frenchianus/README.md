@@ -1,5 +1,4 @@
-Baeomyces frenchianus Müll. Arg. SPECIES
-=======
+# Baeomyces frenchianus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

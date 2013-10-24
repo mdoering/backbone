@@ -1,5 +1,4 @@
-Scortechiniella similis (Bres.) Arx & E. Müll. SPECIES
-=======
+# Scortechiniella similis (Bres.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

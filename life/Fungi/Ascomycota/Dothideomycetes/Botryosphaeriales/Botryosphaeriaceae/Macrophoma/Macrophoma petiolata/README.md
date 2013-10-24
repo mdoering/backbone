@@ -1,5 +1,4 @@
-Macrophoma petiolata (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma petiolata (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

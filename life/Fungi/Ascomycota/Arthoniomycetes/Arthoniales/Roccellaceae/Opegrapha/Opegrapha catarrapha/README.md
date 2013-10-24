@@ -1,5 +1,4 @@
-Opegrapha catarrapha Vain. SPECIES
-=======
+# Opegrapha catarrapha Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Megalospora melanodermia var. melanodermia VARIETY
-=======
+# Megalospora melanodermia (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 89 (1926)
+null
 
 #### Original name
-Megalospora melanodermia var. melanodermia
+null
 
 ### Remarks
 null

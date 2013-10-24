@@ -1,5 +1,4 @@
-Menegazzia prototypica P. James SPECIES
-=======
+# Menegazzia prototypica P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Akidodes Lom, 1959 GENUS
-=======
+# Akidodes Lom, 1959 GENUS
 
 #### Status
 ACCEPTED

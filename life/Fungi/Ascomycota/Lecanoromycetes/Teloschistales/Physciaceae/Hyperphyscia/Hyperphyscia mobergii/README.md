@@ -1,5 +1,4 @@
-Hyperphyscia mobergii Kalb SPECIES
-=======
+# Hyperphyscia mobergii Kalb SPECIES
 
 #### Status
 ACCEPTED

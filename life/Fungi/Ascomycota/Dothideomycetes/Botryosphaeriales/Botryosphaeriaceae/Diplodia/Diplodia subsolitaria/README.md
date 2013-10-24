@@ -1,5 +1,4 @@
-Diplodia subsolitaria (Schwein.) Curr. SPECIES
-=======
+# Diplodia subsolitaria (Schwein.) Curr. SPECIES
 
 #### Status
 ACCEPTED

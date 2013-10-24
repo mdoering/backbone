@@ -1,5 +1,4 @@
-Lecanora laevigata Eitner SPECIES
-=======
+# Lecanora laevigata Eitner SPECIES
 
 #### Status
 ACCEPTED

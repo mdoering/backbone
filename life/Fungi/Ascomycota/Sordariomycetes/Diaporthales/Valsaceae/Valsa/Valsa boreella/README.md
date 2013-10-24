@@ -1,5 +1,4 @@
-Valsa boreella P. Karst. SPECIES
-=======
+# Valsa boreella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

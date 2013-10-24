@@ -1,5 +1,4 @@
-Mycosphaerella magellanicola (Speg.) Cash SPECIES
-=======
+# Mycosphaerella magellanicola (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

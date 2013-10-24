@@ -1,8 +1,7 @@
-Coccolithus sibogae (Web. v Bos.) Schill SPECIES
-=======
+# Umbilicosphaera sibogae (Weber-van Bosse, 1901) Gaarder, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

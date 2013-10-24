@@ -1,5 +1,4 @@
-Polymorphina sororia Brady, 1884 SPECIES
-=======
+# Polymorphina sororia Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

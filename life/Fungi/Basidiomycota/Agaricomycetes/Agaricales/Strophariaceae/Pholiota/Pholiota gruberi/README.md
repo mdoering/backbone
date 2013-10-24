@@ -1,5 +1,4 @@
-Pholiota gruberi A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota gruberi A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

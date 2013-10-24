@@ -1,5 +1,4 @@
-Zukalia nantoensis Sawada SPECIES
-=======
+# Zukalia nantoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarophyllus adonis Singer SPECIES
-=======
+# Camarophyllus adonis Singer SPECIES
 
 #### Status
 ACCEPTED

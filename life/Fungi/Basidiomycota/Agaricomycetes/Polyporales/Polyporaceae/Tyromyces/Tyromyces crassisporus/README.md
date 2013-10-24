@@ -1,17 +1,16 @@
-Tyromyces crassisporis Log.-Leite & J.E. Wright SPECIES
-=======
+# Tyromyces crassisporus Log.-Leite & J.E. Wright SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 41(1): 169 (1991)
 
 #### Original name
-Tyromyces crassisporis Log.-Leite & J.E. Wright
+Tyromyces crassisporus Log.-Leite & J.E. Wright
 
 ### Remarks
 null

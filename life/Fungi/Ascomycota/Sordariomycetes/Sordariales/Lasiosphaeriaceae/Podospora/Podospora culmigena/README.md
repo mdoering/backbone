@@ -1,5 +1,4 @@
-Podospora culmigena (Sacc. & Speg.) Niessl SPECIES
-=======
+# Podospora culmigena (Sacc. & Speg.) Niessl SPECIES
 
 #### Status
 ACCEPTED

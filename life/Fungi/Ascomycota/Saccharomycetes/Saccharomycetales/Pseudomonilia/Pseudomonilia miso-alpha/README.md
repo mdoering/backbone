@@ -1,5 +1,4 @@
-Pseudomonilia miso-alpha Mogi SPECIES
-=======
+# Pseudomonilia miso-alpha Mogi SPECIES
 
 #### Status
 ACCEPTED

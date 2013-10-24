@@ -1,5 +1,4 @@
-Phyllosticta fatsiae Hara SPECIES
-=======
+# Phyllosticta fatsiae Hara SPECIES
 
 #### Status
 ACCEPTED

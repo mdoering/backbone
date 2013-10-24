@@ -1,5 +1,4 @@
-Penicillium echinatum E. Dale SPECIES
-=======
+# Penicillium echinatum E. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium ferruginosum Sherb. SPECIES
-=======
+# Fusarium ferruginosum Sherb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum sapporense Komuro, Aoki & Odashima SPECIES
-=======
+# Microsporum sapporense Komuro, Aoki & Odashima SPECIES
 
 #### Status
 ACCEPTED

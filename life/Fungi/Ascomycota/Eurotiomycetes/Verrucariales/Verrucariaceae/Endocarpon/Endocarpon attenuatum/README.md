@@ -1,5 +1,4 @@
-Endocarpon attenuatum Stizenb. SPECIES
-=======
+# Endocarpon attenuatum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

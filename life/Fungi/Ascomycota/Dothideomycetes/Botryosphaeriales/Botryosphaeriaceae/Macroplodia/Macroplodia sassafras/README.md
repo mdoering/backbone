@@ -1,5 +1,4 @@
-Macroplodia sassafras (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia sassafras (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

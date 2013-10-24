@@ -1,14 +1,13 @@
-Clavaria mira Pat., 1907 SPECIES
-=======
+# Clavariadelphus mirus (Pat.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 71 (1907)
+Ann. Bot. Mem. 1: 279 (1950)
 
 #### Original name
 Clavaria mira Pat., 1907

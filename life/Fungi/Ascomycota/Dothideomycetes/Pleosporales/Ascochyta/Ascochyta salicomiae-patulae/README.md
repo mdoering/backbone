@@ -1,5 +1,4 @@
-Ascochyta salicomiae-patulae SPECIES
-=======
+# Ascochyta salicomiae-patulae SPECIES
 
 #### Status
 ACCEPTED

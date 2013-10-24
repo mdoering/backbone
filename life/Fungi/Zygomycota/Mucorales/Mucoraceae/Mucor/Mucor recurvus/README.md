@@ -1,5 +1,4 @@
-Mucor recurvus var. recurvus E.E. Butler, 1952 VARIETY
-=======
+# Mucor recurvus E.E. Butler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 44(4): 561 (1952)
 
 #### Original name
-Mucor recurvus var. recurvus E.E. Butler, 1952
+Mucor recurvus E.E. Butler
 
 ### Remarks
 null

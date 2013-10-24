@@ -1,5 +1,4 @@
-Cucurbitaria ephedrae Tassi SPECIES
-=======
+# Cucurbitaria ephedrae Tassi SPECIES
 
 #### Status
 ACCEPTED

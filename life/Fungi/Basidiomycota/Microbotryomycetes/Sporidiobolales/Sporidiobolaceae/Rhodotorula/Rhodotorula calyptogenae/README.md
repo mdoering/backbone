@@ -1,5 +1,4 @@
-Rhodotorula calyptogenae Nagah., Hamam., Nakase & Horikoshi SPECIES
-=======
+# Rhodotorula calyptogenae Nagah., Hamam., Nakase & Horikoshi SPECIES
 
 #### Status
 ACCEPTED

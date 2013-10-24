@@ -1,5 +1,4 @@
-Peziza geneospora Berk. SPECIES
-=======
+# Peziza geneospora Berk. SPECIES
 
 #### Status
 ACCEPTED

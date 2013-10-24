@@ -1,5 +1,4 @@
-Strigula austropunctata P.M. McCarthy SPECIES
-=======
+# Strigula austropunctata P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

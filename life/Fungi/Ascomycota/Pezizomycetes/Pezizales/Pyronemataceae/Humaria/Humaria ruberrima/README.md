@@ -1,5 +1,4 @@
-Humaria ruberrima (Berk. & Broome) Sacc. SPECIES
-=======
+# Humaria ruberrima (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

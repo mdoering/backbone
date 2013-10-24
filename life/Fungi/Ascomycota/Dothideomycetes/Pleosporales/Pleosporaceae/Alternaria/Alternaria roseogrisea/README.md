@@ -1,5 +1,4 @@
-Alternaria roseogrisea R.G. Roberts SPECIES
-=======
+# Alternaria roseogrisea R.G. Roberts SPECIES
 
 #### Status
 ACCEPTED

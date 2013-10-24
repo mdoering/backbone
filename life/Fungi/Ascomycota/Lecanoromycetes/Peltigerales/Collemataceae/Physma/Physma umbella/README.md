@@ -1,5 +1,4 @@
-Physma umbella (Tuck.) Riddle SPECIES
-=======
+# Physma umbella (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED

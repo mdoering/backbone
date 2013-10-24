@@ -1,5 +1,4 @@
-Marasmius brunneigracilis Corner SPECIES
-=======
+# Marasmius brunneigracilis Corner SPECIES
 
 #### Status
 ACCEPTED

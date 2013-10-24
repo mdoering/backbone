@@ -1,5 +1,4 @@
-Agaricus fagineus Schumach. SPECIES
-=======
+# Agaricus fagineus Schumach. SPECIES
 
 #### Status
 ACCEPTED

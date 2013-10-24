@@ -1,14 +1,13 @@
-Fenestella erratica (Peck) M.E. Barr, 1986 SPECIES
-=======
+# Cucurbitaria erratica Peck, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Barr, Rogerson, Smith & Haines, Bull. N. Y. St. Mus. 20 (1986)
+Bull. Torrey bot. Club 34: 349 (1907)
 
 #### Original name
 Cucurbitaria erratica Peck, 1907

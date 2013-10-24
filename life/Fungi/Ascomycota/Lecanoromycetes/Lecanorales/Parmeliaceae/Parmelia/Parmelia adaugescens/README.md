@@ -1,5 +1,4 @@
-Parmelia adaugescens Nyl. SPECIES
-=======
+# Parmelia adaugescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

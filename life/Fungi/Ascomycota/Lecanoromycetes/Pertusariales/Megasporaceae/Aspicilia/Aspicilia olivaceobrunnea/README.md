@@ -1,5 +1,4 @@
-Aspicilia olivaceobrunnea Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia olivaceobrunnea Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

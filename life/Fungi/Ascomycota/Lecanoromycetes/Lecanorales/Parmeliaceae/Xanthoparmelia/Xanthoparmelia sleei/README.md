@@ -1,5 +1,4 @@
-Xanthoparmelia sleei Elix SPECIES
-=======
+# Xanthoparmelia sleei Elix SPECIES
 
 #### Status
 ACCEPTED

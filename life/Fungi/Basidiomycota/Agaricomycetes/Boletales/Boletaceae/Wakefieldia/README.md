@@ -1,5 +1,4 @@
-Wakefieldia Corner & Hawker, 1953 GENUS
-=======
+# Wakefieldia Corner & Hawker, 1953 GENUS
 
 #### Status
 ACCEPTED

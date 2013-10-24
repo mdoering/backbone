@@ -1,5 +1,4 @@
-Diplocladium gynerii Lambotte & Fautrey SPECIES
-=======
+# Diplocladium gynerii Lambotte & Fautrey SPECIES
 
 #### Status
 ACCEPTED

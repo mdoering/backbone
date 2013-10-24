@@ -1,5 +1,4 @@
-Russula pleurogena Buyck & E. Horak, 1999 SPECIES
-=======
+# Russula pleurogena Buyck & E. Horak, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria xylophyes A. W. Archer SPECIES
-=======
+# Pertusaria xylophyes A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

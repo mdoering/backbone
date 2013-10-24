@@ -1,5 +1,4 @@
-Eutypa congesta Urries SPECIES
-=======
+# Eutypa congesta Urries SPECIES
 
 #### Status
 ACCEPTED

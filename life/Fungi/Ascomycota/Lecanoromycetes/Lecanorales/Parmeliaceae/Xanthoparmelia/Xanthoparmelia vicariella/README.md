@@ -1,5 +1,4 @@
-Xanthoparmelia vicariella Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia vicariella Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

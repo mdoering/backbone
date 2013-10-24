@@ -1,5 +1,4 @@
-Stagonospora coluteae Moesz SPECIES
-=======
+# Stagonospora coluteae Moesz SPECIES
 
 #### Status
 ACCEPTED

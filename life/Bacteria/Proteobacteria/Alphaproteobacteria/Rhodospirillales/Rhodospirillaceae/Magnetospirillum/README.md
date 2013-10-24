@@ -1,5 +1,4 @@
-Magnetospirillum Schleifer et al., 1992 GENUS
-=======
+# Magnetospirillum Schleifer et al., 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trithyrodinium evittii Drugg, 1967 SPECIES
-=======
+# Trithyrodinium evittii Drugg, 1967 SPECIES
 
 #### Status
 ACCEPTED

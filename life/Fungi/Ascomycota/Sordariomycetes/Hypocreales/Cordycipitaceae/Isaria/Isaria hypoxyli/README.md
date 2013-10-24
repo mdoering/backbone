@@ -1,5 +1,4 @@
-Isaria hypoxyli Kalchbr. SPECIES
-=======
+# Isaria hypoxyli Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

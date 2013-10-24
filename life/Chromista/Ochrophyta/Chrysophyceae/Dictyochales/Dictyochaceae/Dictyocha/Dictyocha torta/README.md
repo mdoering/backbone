@@ -1,5 +1,4 @@
-Dictyocha torta E. Martini & C. Müller SPECIES
-=======
+# Dictyocha torta E. Martini & C. Müller SPECIES
 
 #### Status
 ACCEPTED

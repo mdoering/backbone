@@ -1,5 +1,4 @@
-Skyttea arenicola Alstrup & E.S. Hansen SPECIES
-=======
+# Skyttea arenicola Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

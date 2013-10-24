@@ -1,5 +1,4 @@
-Cercospora davillae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora davillae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

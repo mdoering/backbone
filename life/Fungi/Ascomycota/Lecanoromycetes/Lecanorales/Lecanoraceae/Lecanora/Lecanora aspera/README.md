@@ -1,5 +1,4 @@
-Lecanora aspera Stizenb. SPECIES
-=======
+# Lecanora aspera Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterangium separabile Zeller SPECIES
-=======
+# Hysterangium separabile Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoaperturilites Yin Leiming, 1985 GENUS
-=======
+# Eoaperturilites Yin Leiming, 1985 GENUS
 
 #### Status
 ACCEPTED

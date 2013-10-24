@@ -1,5 +1,4 @@
-Phoma phaeosticta Tassi SPECIES
-=======
+# Phoma phaeosticta Tassi SPECIES
 
 #### Status
 ACCEPTED

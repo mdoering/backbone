@@ -1,5 +1,4 @@
-Chloridium cubense Hol.-Jech. SPECIES
-=======
+# Chloridium cubense Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

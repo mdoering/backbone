@@ -1,5 +1,4 @@
-Heppia exigua (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Heppia exigua (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

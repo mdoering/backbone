@@ -1,5 +1,4 @@
-Eutypella canariensis Speg. SPECIES
-=======
+# Eutypella canariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

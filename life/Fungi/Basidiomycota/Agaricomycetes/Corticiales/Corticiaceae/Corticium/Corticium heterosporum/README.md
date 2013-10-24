@@ -1,5 +1,4 @@
-Corticium heterosporum Velen. SPECIES
-=======
+# Corticium heterosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

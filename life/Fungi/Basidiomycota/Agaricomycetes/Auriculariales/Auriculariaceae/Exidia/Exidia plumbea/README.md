@@ -1,5 +1,4 @@
-Exidia plumbea Lloyd SPECIES
-=======
+# Exidia plumbea Lloyd SPECIES
 
 #### Status
 ACCEPTED

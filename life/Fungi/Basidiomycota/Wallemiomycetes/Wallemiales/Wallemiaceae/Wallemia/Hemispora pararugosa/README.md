@@ -1,5 +1,4 @@
-Hemispora pararugosa Castell., M. Douglas & Thomps. {?} SPECIES
-=======
+# Hemispora pararugosa Castell., M. Douglas & Thomps. {?} SPECIES
 
 #### Status
 ACCEPTED

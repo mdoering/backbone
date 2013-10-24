@@ -1,5 +1,4 @@
-Graphis basaltica Kremp. SPECIES
-=======
+# Graphis basaltica Kremp. SPECIES
 
 #### Status
 ACCEPTED

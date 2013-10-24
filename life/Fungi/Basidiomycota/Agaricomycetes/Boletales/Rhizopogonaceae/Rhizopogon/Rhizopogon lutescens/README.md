@@ -1,5 +1,4 @@
-Rhizopogon lutescens A.H. Sm. SPECIES
-=======
+# Rhizopogon lutescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

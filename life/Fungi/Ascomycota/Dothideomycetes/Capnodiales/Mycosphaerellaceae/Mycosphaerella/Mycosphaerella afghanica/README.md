@@ -1,5 +1,4 @@
-Mycosphaerella afghanica Petr. SPECIES
-=======
+# Mycosphaerella afghanica Petr. SPECIES
 
 #### Status
 ACCEPTED

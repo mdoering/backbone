@@ -1,17 +1,16 @@
-Coronella nivea P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Kickxella alabastrina Coem., 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florule Finistère (Paris) 12 (1867)
+Bull. Soc. R. Bot. Belg. 1: 155 (1862)
 
 #### Original name
-Coronella nivea P. Crouan & H. Crouan, 1867
+Kickxella alabastrina Coem., 1862
 
 ### Remarks
 null

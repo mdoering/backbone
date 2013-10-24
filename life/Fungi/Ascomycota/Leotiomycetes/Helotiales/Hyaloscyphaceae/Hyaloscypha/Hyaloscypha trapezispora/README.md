@@ -1,5 +1,4 @@
-Hyaloscypha trapezispora Svrcek SPECIES
-=======
+# Hyaloscypha trapezispora Svrcek SPECIES
 
 #### Status
 ACCEPTED

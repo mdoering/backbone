@@ -1,5 +1,4 @@
-Sphacelotheca columellifera (Tul. & C. Tul.) Cif. SPECIES
-=======
+# Sphacelotheca columellifera (Tul. & C. Tul.) Cif. SPECIES
 
 #### Status
 ACCEPTED

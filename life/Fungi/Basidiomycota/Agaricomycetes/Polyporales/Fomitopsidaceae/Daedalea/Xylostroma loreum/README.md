@@ -1,5 +1,4 @@
-Xylostroma loreum Pers. SPECIES
-=======
+# Xylostroma loreum Pers. SPECIES
 
 #### Status
 ACCEPTED

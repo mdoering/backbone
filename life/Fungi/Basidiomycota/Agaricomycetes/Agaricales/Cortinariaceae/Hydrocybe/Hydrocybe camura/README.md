@@ -1,5 +1,4 @@
-Hydrocybe camura (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe camura (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

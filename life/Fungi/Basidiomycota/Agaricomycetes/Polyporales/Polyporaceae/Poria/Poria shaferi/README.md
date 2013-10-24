@@ -1,5 +1,4 @@
-Poria shaferi (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria shaferi (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

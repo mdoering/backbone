@@ -1,5 +1,4 @@
-Appendiculella compositarum (Earle) Toro SPECIES
-=======
+# Appendiculella compositarum (Earle) Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon porosum (Stautz) Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon porosum (Stautz) Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

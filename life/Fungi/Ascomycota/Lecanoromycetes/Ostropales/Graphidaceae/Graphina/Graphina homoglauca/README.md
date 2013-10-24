@@ -1,5 +1,4 @@
-Graphina homoglauca (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina homoglauca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

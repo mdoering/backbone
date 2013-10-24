@@ -1,5 +1,4 @@
-Stenella smilacis-macrophyllae S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella smilacis-macrophyllae S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

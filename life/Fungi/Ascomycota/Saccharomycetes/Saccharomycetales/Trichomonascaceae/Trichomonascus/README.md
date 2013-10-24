@@ -1,5 +1,4 @@
-Trichomonascus H.S. Jacks. GENUS
-=======
+# Trichomonascus H.S. Jacks. GENUS
 
 #### Status
 ACCEPTED

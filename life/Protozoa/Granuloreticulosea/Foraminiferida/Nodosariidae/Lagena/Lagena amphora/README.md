@@ -1,5 +1,4 @@
-Lagena amphora SPECIES
-=======
+# Lagena amphora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria timorensis Lloyd SPECIES
-=======
+# Xylaria timorensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

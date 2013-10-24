@@ -1,5 +1,4 @@
-Panellus nubigenus subsp. nubigenus SUBSPECIES
-=======
+# Panellus nubigenus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 29: 88 (1969)
 
 #### Original name
-Panellus nubigenus subsp. nubigenus
+Panellus nubigenus Singer
 
 ### Remarks
 null

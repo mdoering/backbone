@@ -1,5 +1,4 @@
-Sphaerotheca crotonis (Ponnappa) U. Braun SPECIES
-=======
+# Sphaerotheca crotonis (Ponnappa) U. Braun SPECIES
 
 #### Status
 ACCEPTED

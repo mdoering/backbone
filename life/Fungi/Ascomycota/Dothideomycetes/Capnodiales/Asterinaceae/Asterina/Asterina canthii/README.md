@@ -1,5 +1,4 @@
-Asterina canthii H.S. Yates SPECIES
-=======
+# Asterina canthii H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

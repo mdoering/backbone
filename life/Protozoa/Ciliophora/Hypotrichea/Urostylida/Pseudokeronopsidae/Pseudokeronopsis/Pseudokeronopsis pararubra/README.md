@@ -1,5 +1,4 @@
-Pseudokeronopsis pararubra Hu, Warren & Suzuki, 2004 SPECIES
-=======
+# Pseudokeronopsis pararubra Hu, Warren & Suzuki, 2004 SPECIES
 
 #### Status
 ACCEPTED

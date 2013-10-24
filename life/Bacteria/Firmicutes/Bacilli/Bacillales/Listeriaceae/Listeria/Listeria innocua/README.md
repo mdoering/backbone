@@ -1,5 +1,4 @@
-Listeria innocua (ex Seeliger & Schoofs, 1979) Seeliger, 1983 SPECIES
-=======
+# Listeria innocua (ex Seeliger & Schoofs, 1979) Seeliger, 1983 SPECIES
 
 #### Status
 ACCEPTED

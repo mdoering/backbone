@@ -1,14 +1,13 @@
-Pyropolyporus roseocinereus Murrill, 1908 SPECIES
-=======
+# Phellinus roseocinereus (Murrill) D.A. Reid, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(2): 104 (1908)
+Mem. N. Y. bot. Gdn 28(1): 194 (1976)
 
 #### Original name
 Pyropolyporus roseocinereus Murrill, 1908

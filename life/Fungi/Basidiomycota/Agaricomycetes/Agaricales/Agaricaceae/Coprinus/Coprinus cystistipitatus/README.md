@@ -1,5 +1,4 @@
-Coprinus cystistipitatus Bogart SPECIES
-=======
+# Coprinus cystistipitatus Bogart SPECIES
 
 #### Status
 ACCEPTED

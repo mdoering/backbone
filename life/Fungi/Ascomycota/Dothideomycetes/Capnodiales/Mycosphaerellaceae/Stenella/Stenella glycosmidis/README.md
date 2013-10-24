@@ -1,17 +1,16 @@
-Stenella glycosmae S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella glycosmidis S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers of Fungal Diversity in India (Lucknow), (Prof. Kamal Festschrift) 596 (2003)
 
 #### Original name
-Stenella glycosmae S. Chaudhary & R.K. Chaudhary
+Stenella glycosmidis S. Chaudhary & R.K. Chaudhary
 
 ### Remarks
 null

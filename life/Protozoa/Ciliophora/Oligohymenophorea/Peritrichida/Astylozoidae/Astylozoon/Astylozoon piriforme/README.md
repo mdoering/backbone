@@ -1,5 +1,4 @@
-Astylozoon piriforme SPECIES
-=======
+# Astylozoon piriforme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coniothyrium pyxidatae Oudem., 1900 SPECIES
-=======
+# Lichenoconium pyxidatae (Oudem.) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. , Beih. 42: 135 (1927)
 
 #### Original name
 Coniothyrium pyxidatae Oudem., 1900

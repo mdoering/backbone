@@ -1,5 +1,4 @@
-Aulacodiscus mastoideus A. P. Jousé SPECIES
-=======
+# Aulacodiscus mastoideus A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria subtropica E.G. Simmons SPECIES
-=======
+# Alternaria subtropica E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila ciliata Rick SPECIES
-=======
+# Ombrophila ciliata Rick SPECIES
 
 #### Status
 ACCEPTED

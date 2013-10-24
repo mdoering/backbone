@@ -1,5 +1,4 @@
-Chorostate peckiana Sacc. SPECIES
-=======
+# Chorostate peckiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

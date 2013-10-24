@@ -1,5 +1,4 @@
-Erysiphe australis (Speg.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe australis (Speg.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

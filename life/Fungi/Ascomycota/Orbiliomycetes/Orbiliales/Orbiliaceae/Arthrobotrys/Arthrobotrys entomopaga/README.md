@@ -1,17 +1,16 @@
-Arthrobotrys pauca J.S. McCulloch, 1977 SPECIES
-=======
+# Arthrobotrys entomopaga Drechsler, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(2): 176 (1977)
+Mycologia 36(4): 392 (1944)
 
 #### Original name
-Arthrobotrys pauca J.S. McCulloch, 1977
+Arthrobotrys entomopaga Drechsler, 1944
 
 ### Remarks
 null

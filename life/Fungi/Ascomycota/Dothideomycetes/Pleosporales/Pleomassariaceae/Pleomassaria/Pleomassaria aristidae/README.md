@@ -1,5 +1,4 @@
-Pleomassaria aristidae Koshk. & Frolov SPECIES
-=======
+# Pleomassaria aristidae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

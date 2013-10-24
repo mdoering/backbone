@@ -1,5 +1,4 @@
-Meandrospira Loeblich & Tappan, 1946 GENUS
-=======
+# Meandrospira Loeblich & Tappan, 1946 GENUS
 
 #### Status
 ACCEPTED

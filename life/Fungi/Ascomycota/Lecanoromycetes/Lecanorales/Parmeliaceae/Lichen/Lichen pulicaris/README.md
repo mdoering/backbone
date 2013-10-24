@@ -1,5 +1,4 @@
-Lichen pulicaris Hoffm. SPECIES
-=======
+# Lichen pulicaris Hoffm. SPECIES
 
 #### Status
 ACCEPTED

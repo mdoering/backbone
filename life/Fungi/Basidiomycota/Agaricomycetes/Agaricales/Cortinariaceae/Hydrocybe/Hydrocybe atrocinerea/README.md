@@ -1,5 +1,4 @@
-Hydrocybe atrocinerea Velen. SPECIES
-=======
+# Hydrocybe atrocinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

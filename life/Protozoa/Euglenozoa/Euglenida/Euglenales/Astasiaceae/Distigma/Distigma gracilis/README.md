@@ -1,5 +1,4 @@
-Distigma gracilis Pringsheim SPECIES
-=======
+# Distigma gracilis Pringsheim SPECIES
 
 #### Status
 ACCEPTED

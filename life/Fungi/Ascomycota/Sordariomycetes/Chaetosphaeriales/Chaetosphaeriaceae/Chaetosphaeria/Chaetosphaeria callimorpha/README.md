@@ -1,17 +1,16 @@
-Sphaeria rubincola Schwein. SPECIES
-=======
+# Chaetosphaeria callimorpha (Mont.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 95 (1883)
 
 #### Original name
-Sphaeria rubincola Schwein.
+Sphaeria callimorpha Mont., 1834
 
 ### Remarks
 null

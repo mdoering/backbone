@@ -1,14 +1,13 @@
-Melanotheca gelatinosa (Chevall.) Zahlbr. SPECIES
-=======
+# Tomasellia gelatinosa (Chevall.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 475 (1922)
+Cat. Lich. Univers. 1: 474 (1922)
 
 #### Original name
 Arthonia gelatinosa Chevall.

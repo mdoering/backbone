@@ -1,5 +1,4 @@
-Dothidea genistae G. Winter ex Massee, 1911 SPECIES
-=======
+# Dothidea genistae G. Winter ex Massee, 1911 SPECIES
 
 #### Status
 ACCEPTED

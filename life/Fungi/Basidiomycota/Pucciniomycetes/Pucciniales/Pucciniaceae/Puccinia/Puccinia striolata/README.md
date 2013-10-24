@@ -1,5 +1,4 @@
-Puccinia striolata (Speg.) Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia striolata (Speg.) Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

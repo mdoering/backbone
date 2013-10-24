@@ -1,5 +1,4 @@
-Hypoxylon brabeji Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Hypoxylon brabeji Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

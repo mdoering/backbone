@@ -1,5 +1,4 @@
-Uredo verbesinae-dentatae Syd. & P. Syd. SPECIES
-=======
+# Uredo verbesinae-dentatae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

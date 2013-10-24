@@ -1,5 +1,4 @@
-Helotiella pygmaea Ellis & Everh. SPECIES
-=======
+# Helotiella pygmaea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

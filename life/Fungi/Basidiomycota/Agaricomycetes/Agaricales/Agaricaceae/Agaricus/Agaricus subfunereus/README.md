@@ -1,5 +1,4 @@
-Agaricus subfunereus Berk. SPECIES
-=======
+# Agaricus subfunereus Berk. SPECIES
 
 #### Status
 ACCEPTED

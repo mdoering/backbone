@@ -1,5 +1,4 @@
-Puccinia ptilosiae Bubák SPECIES
-=======
+# Puccinia ptilosiae Bubák SPECIES
 
 #### Status
 ACCEPTED

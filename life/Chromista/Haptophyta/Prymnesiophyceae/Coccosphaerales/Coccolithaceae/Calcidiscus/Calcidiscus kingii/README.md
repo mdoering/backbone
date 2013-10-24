@@ -1,5 +1,4 @@
-Calcidiscus kingii (Roth, 1970) Loeblich & Tappan, 1978 SPECIES
-=======
+# Calcidiscus kingii (Roth, 1970) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

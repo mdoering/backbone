@@ -1,8 +1,7 @@
-Geaster hieronymi Henn. SPECIES
-=======
+# Geastrum hieronymi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster hieronymi Henn.
+Geastrum hieronymi Henn.
 
 ### Remarks
 null

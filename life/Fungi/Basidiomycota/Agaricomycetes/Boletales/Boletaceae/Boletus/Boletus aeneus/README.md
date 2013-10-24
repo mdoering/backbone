@@ -1,5 +1,4 @@
-Boletus aeneus Rostk. SPECIES
-=======
+# Boletus aeneus Rostk. SPECIES
 
 #### Status
 ACCEPTED

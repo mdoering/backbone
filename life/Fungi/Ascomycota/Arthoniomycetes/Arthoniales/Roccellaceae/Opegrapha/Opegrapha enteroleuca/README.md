@@ -1,5 +1,4 @@
-Opegrapha enteroleuca Ach. SPECIES
-=======
+# Opegrapha enteroleuca Ach. SPECIES
 
 #### Status
 ACCEPTED

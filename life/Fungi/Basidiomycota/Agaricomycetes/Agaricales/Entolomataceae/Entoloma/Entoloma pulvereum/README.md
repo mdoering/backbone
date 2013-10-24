@@ -1,14 +1,13 @@
-Leptonia pulverea (Rea) P.D. Orton, 1960 SPECIES
-=======
+# Entoloma pulvereum Rea, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 178 (1960)
+Trans. Br. mycol. Soc. 2: 170 (1907)
 
 #### Original name
 Entoloma pulvereum Rea, 1907

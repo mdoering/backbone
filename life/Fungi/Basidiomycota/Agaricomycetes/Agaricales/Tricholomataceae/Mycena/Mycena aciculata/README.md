@@ -1,5 +1,4 @@
-Mycena aciculata (A.H. Sm.) Desjardin & E. Horak, 2002 SPECIES
-=======
+# Mycena aciculata (A.H. Sm.) Desjardin & E. Horak, 2002 SPECIES
 
 #### Status
 ACCEPTED

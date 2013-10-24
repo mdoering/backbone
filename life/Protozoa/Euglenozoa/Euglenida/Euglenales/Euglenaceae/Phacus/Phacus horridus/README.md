@@ -1,5 +1,4 @@
-Phacus horridus var. queenslandicus McLeod VARIETY
-=======
+# Phacus horridus Pochmann SPECIES
 
 #### Status
 ACCEPTED

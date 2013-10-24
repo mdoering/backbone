@@ -1,5 +1,4 @@
-Xanthoria oxneri S.Y. Kondr. & Poelt SPECIES
-=======
+# Xanthoria oxneri S.Y. Kondr. & Poelt SPECIES
 
 #### Status
 ACCEPTED

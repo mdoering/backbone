@@ -1,5 +1,4 @@
-Ceratospermum P. Micheli, 1729 GENUS
-=======
+# Ceratospermum P. Micheli, 1729 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius rubellus Pers. SPECIES
-=======
+# Bolbitius rubellus Pers. SPECIES
 
 #### Status
 ACCEPTED

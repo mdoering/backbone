@@ -1,5 +1,4 @@
-Zignoëlla culmicola Delacr. SPECIES
-=======
+# Zignoëlla culmicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

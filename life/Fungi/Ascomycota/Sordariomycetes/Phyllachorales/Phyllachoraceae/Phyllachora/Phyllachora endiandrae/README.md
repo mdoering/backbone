@@ -1,5 +1,4 @@
-Phyllachora endiandrae longipedicellatae C.A. Pearce & K.D. Hyde, 2006 INFRASPECIFIC_NAME
-=======
+# Phyllachora endiandrae C.A. Pearce & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 17: 89 (2006)
 
 #### Original name
-null
+Phyllachora endiandrae C.A. Pearce & K.D. Hyde
 
 ### Remarks
 null

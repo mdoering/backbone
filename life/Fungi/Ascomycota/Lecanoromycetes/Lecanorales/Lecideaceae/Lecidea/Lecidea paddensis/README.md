@@ -1,5 +1,4 @@
-Lecidea paddensis (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea paddensis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

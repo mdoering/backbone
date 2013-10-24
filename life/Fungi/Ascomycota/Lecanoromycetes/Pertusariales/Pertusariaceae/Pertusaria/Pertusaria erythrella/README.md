@@ -1,5 +1,4 @@
-Pertusaria erythrella Müll. Arg. SPECIES
-=======
+# Pertusaria erythrella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

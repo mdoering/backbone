@@ -1,5 +1,4 @@
-Clausites S.L. Van Landingham, 1965 GENUS
-=======
+# Clausites S.L. Van Landingham, 1965 GENUS
 
 #### Status
 ACCEPTED

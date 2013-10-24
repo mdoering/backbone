@@ -1,5 +1,4 @@
-Thelephora cariosa var. cariosa VARIETY
-=======
+# Thelephora cariosa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 1: 151 (1822)
 
 #### Original name
-Thelephora cariosa var. cariosa
+Thelephora cariosa Pers.
 
 ### Remarks
 null

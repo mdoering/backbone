@@ -1,5 +1,4 @@
-Marasmius pithyophilus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius pithyophilus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

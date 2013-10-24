@@ -1,5 +1,4 @@
-Vorticella ondulata Dumas, 1929 SPECIES
-=======
+# Vorticella ondulata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza tristis Saut. SPECIES
-=======
+# Peziza tristis Saut. SPECIES
 
 #### Status
 ACCEPTED

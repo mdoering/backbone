@@ -1,5 +1,4 @@
-Asterina flexuosa G. Winter SPECIES
-=======
+# Asterina flexuosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

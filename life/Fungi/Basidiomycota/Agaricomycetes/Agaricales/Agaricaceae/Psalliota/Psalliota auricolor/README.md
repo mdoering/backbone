@@ -1,5 +1,4 @@
-Psalliota auricolor (L. Krieg.) Coker SPECIES
-=======
+# Psalliota auricolor (L. Krieg.) Coker SPECIES
 
 #### Status
 ACCEPTED

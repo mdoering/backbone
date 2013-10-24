@@ -1,5 +1,4 @@
-Catenochytridium oahuense Sparrow, 1965 SPECIES
-=======
+# Catenochytridium oahuense Sparrow, 1965 SPECIES
 
 #### Status
 ACCEPTED

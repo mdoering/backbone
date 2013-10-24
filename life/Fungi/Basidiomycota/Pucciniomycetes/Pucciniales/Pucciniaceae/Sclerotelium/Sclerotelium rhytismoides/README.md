@@ -1,5 +1,4 @@
-Sclerotelium rhytismoides (Johanson) Syd. SPECIES
-=======
+# Sclerotelium rhytismoides (Johanson) Syd. SPECIES
 
 #### Status
 ACCEPTED

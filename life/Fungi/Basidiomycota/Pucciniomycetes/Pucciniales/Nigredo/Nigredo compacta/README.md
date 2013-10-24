@@ -1,5 +1,4 @@
-Nigredo compacta (Peck) Arthur SPECIES
-=======
+# Nigredo compacta (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

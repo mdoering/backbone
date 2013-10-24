@@ -1,5 +1,4 @@
-Teichospora sarhaddensis Petr. SPECIES
-=======
+# Teichospora sarhaddensis Petr. SPECIES
 
 #### Status
 ACCEPTED

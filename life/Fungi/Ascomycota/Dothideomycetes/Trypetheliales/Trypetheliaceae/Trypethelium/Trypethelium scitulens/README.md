@@ -1,5 +1,4 @@
-Trypethelium scitulens Eckfeldt SPECIES
-=======
+# Trypethelium scitulens Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium swartziae (Bat. & Gayão) Bat. SPECIES
-=======
+# Scolecopeltidium swartziae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

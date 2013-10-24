@@ -1,5 +1,4 @@
-Mycosphaerella phyllitis Petr. SPECIES
-=======
+# Mycosphaerella phyllitis Petr. SPECIES
 
 #### Status
 ACCEPTED

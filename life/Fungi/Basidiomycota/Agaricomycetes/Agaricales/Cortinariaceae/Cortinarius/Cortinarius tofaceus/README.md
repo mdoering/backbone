@@ -1,17 +1,16 @@
-Cortinarius tofaceus var. tofaceus Fr. VARIETY
-=======
+# Cortinarius tofaceus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 281 (1838)
 
 #### Original name
-Cortinarius tofaceus var. tofaceus Fr.
+Cortinarius tofaceus Fr., 1838
 
 ### Remarks
 null

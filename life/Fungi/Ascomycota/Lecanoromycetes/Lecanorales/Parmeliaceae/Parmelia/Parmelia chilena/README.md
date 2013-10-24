@@ -1,5 +1,4 @@
-Parmelia chilena Nyl. SPECIES
-=======
+# Parmelia chilena Nyl. SPECIES
 
 #### Status
 ACCEPTED

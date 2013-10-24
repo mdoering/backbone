@@ -1,5 +1,4 @@
-Pseudospongoprunum Wakamatsu, Sugiyama & Furutani, 1990 GENUS
-=======
+# Pseudospongoprunum Wakamatsu, Sugiyama & Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

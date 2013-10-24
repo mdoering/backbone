@@ -1,5 +1,4 @@
-Septoria albopunctata Cooke SPECIES
-=======
+# Septoria albopunctata Cooke SPECIES
 
 #### Status
 ACCEPTED

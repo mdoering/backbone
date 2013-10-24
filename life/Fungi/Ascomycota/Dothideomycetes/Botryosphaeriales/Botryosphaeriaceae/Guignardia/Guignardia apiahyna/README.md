@@ -1,5 +1,4 @@
-Guignardia apiahyna (Speg.) Sacc. SPECIES
-=======
+# Guignardia apiahyna (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

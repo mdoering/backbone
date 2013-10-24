@@ -1,5 +1,4 @@
-Sphaeria arctostaphyli Plowr. SPECIES
-=======
+# Sphaeria arctostaphyli Plowr. SPECIES
 
 #### Status
 ACCEPTED

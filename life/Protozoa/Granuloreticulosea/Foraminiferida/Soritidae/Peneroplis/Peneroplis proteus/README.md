@@ -1,5 +1,4 @@
-Peneroplis proteus SPECIES
-=======
+# Peneroplis proteus SPECIES
 
 #### Status
 ACCEPTED

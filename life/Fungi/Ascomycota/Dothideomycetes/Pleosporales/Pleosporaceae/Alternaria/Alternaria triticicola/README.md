@@ -1,17 +1,16 @@
-Alternaria triticola V.G. Rao SPECIES
-=======
+# Alternaria triticicola V.G. Rao, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 23: 313 (1964)
 
 #### Original name
-Alternaria triticola V.G. Rao
+Alternaria triticicola V.G. Rao, 1964
 
 ### Remarks
 null

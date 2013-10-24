@@ -1,5 +1,4 @@
-Discoaster lodoensis Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster lodoensis Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

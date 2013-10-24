@@ -1,17 +1,16 @@
-Agaricus mucidus var. mucidus VARIETY
-=======
+# Ceriporiopsis mucida (Pers.) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 22(2): 364 (1985)
 
 #### Original name
-null
+Poria mucida Pers., 1796
 
 ### Remarks
 null

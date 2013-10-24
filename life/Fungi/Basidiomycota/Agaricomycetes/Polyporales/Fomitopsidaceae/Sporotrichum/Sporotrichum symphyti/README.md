@@ -1,5 +1,4 @@
-Sporotrichum symphyti Bres. SPECIES
-=======
+# Sporotrichum symphyti Bres. SPECIES
 
 #### Status
 ACCEPTED

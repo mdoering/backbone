@@ -1,5 +1,4 @@
-Cercospora malloti Ellis & Everh. SPECIES
-=======
+# Cercospora malloti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

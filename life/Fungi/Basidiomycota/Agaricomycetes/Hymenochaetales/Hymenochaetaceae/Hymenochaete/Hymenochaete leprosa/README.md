@@ -1,5 +1,4 @@
-Hymenochaete leprosa (Fr.) Lév. SPECIES
-=======
+# Hymenochaete leprosa (Fr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

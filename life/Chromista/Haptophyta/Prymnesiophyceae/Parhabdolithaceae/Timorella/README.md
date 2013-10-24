@@ -1,5 +1,4 @@
-Timorella P.R. Bown, 1987 GENUS
-=======
+# Timorella P.R. Bown, 1987 GENUS
 
 #### Status
 ACCEPTED

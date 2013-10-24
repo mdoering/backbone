@@ -1,5 +1,4 @@
-Meliola aracearum (F. Stevens) Cif. SPECIES
-=======
+# Meliola aracearum (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

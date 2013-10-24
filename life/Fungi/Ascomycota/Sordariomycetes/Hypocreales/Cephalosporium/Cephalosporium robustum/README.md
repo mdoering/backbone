@@ -1,5 +1,4 @@
-Cephalosporium robustum Preuss SPECIES
-=======
+# Cephalosporium robustum Preuss SPECIES
 
 #### Status
 ACCEPTED

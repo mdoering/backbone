@@ -1,5 +1,4 @@
-Monodinium balbianii subsp. balbianii SUBSPECIES
-=======
+# Monodinium balbianii Fabre-Domergue SPECIES
 
 #### Status
 ACCEPTED

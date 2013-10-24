@@ -1,5 +1,4 @@
-Diplodina rhinanthi Hollós SPECIES
-=======
+# Diplodina rhinanthi Hollós SPECIES
 
 #### Status
 ACCEPTED

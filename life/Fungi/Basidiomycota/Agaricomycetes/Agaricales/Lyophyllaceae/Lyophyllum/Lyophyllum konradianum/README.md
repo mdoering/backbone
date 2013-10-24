@@ -1,14 +1,13 @@
-Tricholoma konradianum Maire SPECIES
-=======
+# Lyophyllum konradianum (Maire) Kühner & Romagn., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Analyt. Champ. Supér. (Paris) 163 (1953)
 
 #### Original name
 Tricholoma konradianum Maire

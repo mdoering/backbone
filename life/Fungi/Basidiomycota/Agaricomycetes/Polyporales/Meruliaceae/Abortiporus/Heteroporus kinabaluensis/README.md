@@ -1,5 +1,4 @@
-Heteroporus kinabaluensis Corner, 1987 SPECIES
-=======
+# Heteroporus kinabaluensis Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

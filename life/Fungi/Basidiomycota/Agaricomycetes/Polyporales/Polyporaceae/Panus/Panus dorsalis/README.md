@@ -1,5 +1,4 @@
-Panus dorsalis (Bosc) Fr. SPECIES
-=======
+# Panus dorsalis (Bosc) Fr. SPECIES
 
 #### Status
 ACCEPTED

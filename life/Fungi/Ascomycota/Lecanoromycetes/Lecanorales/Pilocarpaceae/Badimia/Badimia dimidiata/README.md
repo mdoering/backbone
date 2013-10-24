@@ -1,14 +1,13 @@
-Lecania dimidiata (Bab. ex Leight.) Zahlbr. SPECIES
-=======
+# Badimia dimidiata (C. Bab. ex Leight.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Lecanora dimidiata C. Bab. ex Leight.

@@ -1,5 +1,4 @@
-Colpoma lacteum Peck SPECIES
-=======
+# Colpoma lacteum Peck SPECIES
 
 #### Status
 ACCEPTED

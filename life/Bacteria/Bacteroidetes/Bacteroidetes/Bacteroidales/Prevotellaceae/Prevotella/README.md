@@ -1,5 +1,4 @@
-Prevotella Shah & Collins, 1990 GENUS
-=======
+# Prevotella Shah & Collins, 1990 GENUS
 
 #### Status
 ACCEPTED

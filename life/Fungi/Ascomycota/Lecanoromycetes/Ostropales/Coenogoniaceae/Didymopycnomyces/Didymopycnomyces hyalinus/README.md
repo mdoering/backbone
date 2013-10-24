@@ -1,5 +1,4 @@
-Didymopycnomyces hyalinus Cavalc. & A.A. Silva SPECIES
-=======
+# Didymopycnomyces hyalinus Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

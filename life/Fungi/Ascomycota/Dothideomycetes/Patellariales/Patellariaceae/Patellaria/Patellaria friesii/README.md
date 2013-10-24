@@ -1,5 +1,4 @@
-Patellaria friesii Wallr. SPECIES
-=======
+# Patellaria friesii Wallr. SPECIES
 
 #### Status
 ACCEPTED

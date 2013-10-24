@@ -1,5 +1,4 @@
-Stigmina heteromelis (Harkn.) Deighton SPECIES
-=======
+# Stigmina heteromelis (Harkn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

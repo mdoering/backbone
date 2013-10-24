@@ -1,5 +1,4 @@
-Erikssonia carissae Doidge, 1948 SPECIES
-=======
+# Erikssonia carissae Doidge, 1948 SPECIES
 
 #### Status
 ACCEPTED

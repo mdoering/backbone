@@ -1,5 +1,4 @@
-Histiobalantium semisetatum Noland, 1937 SPECIES
-=======
+# Histiobalantium semisetatum Noland, 1937 SPECIES
 
 #### Status
 ACCEPTED

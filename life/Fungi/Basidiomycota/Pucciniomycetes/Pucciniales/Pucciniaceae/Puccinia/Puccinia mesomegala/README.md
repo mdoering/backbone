@@ -1,5 +1,4 @@
-Puccinia mesomegala Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia mesomegala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

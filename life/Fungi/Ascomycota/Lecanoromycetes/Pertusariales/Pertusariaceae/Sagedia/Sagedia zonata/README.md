@@ -1,5 +1,4 @@
-Sagedia zonata Ach. SPECIES
-=======
+# Sagedia zonata Ach. SPECIES
 
 #### Status
 ACCEPTED

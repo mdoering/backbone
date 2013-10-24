@@ -1,5 +1,4 @@
-Peziza ovulispora P. Karst. SPECIES
-=======
+# Peziza ovulispora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

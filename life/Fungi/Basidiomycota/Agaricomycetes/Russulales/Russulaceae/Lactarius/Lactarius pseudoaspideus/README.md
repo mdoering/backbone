@@ -1,5 +1,4 @@
-Lactarius pseudoaspideus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudoaspideus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

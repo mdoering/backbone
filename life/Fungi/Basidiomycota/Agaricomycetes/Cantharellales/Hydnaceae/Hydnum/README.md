@@ -1,17 +1,16 @@
-Bidonia Adans. GENUS
-=======
+# Hydnum Linnaeus, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fam. Pl. (1763)
+null
 
 #### Original name
-Bidonia Adans.
+null
 
 ### Remarks
 null

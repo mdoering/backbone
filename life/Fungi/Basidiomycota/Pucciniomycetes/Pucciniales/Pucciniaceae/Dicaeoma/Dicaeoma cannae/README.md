@@ -1,5 +1,4 @@
-Dicaeoma cannae (G. Winter) Arthur SPECIES
-=======
+# Dicaeoma cannae (G. Winter) Arthur SPECIES
 
 #### Status
 ACCEPTED

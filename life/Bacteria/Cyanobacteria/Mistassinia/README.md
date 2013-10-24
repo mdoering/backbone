@@ -1,5 +1,4 @@
-Mistassinia H.J. Hofmann, 1978 GENUS
-=======
+# Mistassinia H.J. Hofmann, 1978 GENUS
 
 #### Status
 ACCEPTED

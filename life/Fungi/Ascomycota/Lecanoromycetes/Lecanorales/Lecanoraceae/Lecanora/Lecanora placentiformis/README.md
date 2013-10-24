@@ -1,5 +1,4 @@
-Lecanora placentiformis J. Steiner SPECIES
-=======
+# Lecanora placentiformis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

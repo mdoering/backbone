@@ -1,5 +1,4 @@
-Laboulbenia craspidophori Thaxt. SPECIES
-=======
+# Laboulbenia craspidophori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

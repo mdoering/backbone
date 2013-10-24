@@ -1,5 +1,4 @@
-Didymosphaeria epilobii Sacc. SPECIES
-=======
+# Didymosphaeria epilobii Sacc. SPECIES
 
 #### Status
 ACCEPTED

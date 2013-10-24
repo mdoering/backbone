@@ -1,5 +1,4 @@
-Aschersonia viridans (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Aschersonia viridans (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

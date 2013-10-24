@@ -1,5 +1,4 @@
-Leptostroma equiseti Jaap SPECIES
-=======
+# Leptostroma equiseti Jaap SPECIES
 
 #### Status
 ACCEPTED

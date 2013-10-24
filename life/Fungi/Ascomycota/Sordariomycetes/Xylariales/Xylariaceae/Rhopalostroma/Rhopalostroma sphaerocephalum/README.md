@@ -1,14 +1,13 @@
-Kretzschmaria sphaerocephala Petch, 1924 SPECIES
-=======
+# Rhopalostroma sphaerocephalum (Petch) D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 8: 138 (1924)
+Kew Bull. 31(3): 428 (1977)
 
 #### Original name
 Kretzschmaria sphaerocephala Petch, 1924

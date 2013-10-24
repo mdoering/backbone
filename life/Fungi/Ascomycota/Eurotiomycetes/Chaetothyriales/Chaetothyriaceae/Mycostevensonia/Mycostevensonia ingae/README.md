@@ -1,5 +1,4 @@
-Mycostevensonia ingae Bat. & Peres SPECIES
-=======
+# Mycostevensonia ingae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

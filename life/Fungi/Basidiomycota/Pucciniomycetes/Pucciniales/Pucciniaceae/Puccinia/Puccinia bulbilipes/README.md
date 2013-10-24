@@ -1,5 +1,4 @@
-Puccinia bulbilipes J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia bulbilipes J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

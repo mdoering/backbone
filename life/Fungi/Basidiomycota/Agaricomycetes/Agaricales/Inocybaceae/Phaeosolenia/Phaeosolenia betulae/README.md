@@ -1,5 +1,4 @@
-Phaeosolenia betulae W.B. Cooke, 1961 SPECIES
-=======
+# Phaeosolenia betulae W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

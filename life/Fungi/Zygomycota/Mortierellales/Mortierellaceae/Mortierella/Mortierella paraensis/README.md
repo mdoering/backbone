@@ -1,5 +1,4 @@
-Mortierella paraensis Pfenning & W. Gams, 1993 SPECIES
-=======
+# Mortierella paraensis Pfenning & W. Gams, 1993 SPECIES
 
 #### Status
 ACCEPTED

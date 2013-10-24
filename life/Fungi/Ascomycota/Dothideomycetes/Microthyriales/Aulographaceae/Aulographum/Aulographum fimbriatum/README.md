@@ -1,5 +1,4 @@
-Aulographum fimbriatum Sacc. SPECIES
-=======
+# Aulographum fimbriatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

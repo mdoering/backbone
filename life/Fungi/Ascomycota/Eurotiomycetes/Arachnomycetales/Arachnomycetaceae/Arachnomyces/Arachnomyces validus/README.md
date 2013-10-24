@@ -1,5 +1,4 @@
-Arachnomyces validus N. Singh & Mukerji SPECIES
-=======
+# Arachnomyces validus N. Singh & Mukerji SPECIES
 
 #### Status
 ACCEPTED

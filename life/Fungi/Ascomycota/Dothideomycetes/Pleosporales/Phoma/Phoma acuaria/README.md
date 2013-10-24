@@ -1,5 +1,4 @@
-Phoma acuaria (Cooke) Sacc. SPECIES
-=======
+# Phoma acuaria (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

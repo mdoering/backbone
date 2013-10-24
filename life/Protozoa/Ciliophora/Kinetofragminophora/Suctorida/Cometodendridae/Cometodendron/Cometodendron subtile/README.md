@@ -1,5 +1,4 @@
-Cometodendron subtile Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron subtile Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

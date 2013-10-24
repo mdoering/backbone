@@ -1,5 +1,4 @@
-Gyalidea testacea Vezda & Poelt SPECIES
-=======
+# Gyalidea testacea Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

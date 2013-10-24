@@ -1,5 +1,4 @@
-Cytophaga GENUS
-=======
+# Cytophaga GENUS
 
 #### Status
 ACCEPTED

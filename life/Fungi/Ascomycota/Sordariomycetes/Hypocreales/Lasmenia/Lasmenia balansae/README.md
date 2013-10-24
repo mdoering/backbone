@@ -1,17 +1,16 @@
-Lasmenia balanse Speg. SPECIES
-=======
+# Lasmenia balansae Speg., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 22: 152 (1886)
 
 #### Original name
-Lasmenia balanse Speg.
+Lasmenia balansae Speg., 1886
 
 ### Remarks
 null

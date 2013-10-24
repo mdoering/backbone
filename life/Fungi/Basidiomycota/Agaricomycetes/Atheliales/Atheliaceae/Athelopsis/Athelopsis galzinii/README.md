@@ -1,17 +1,16 @@
-Athelopsis bananispora (Boidin & Gilles) Hjortstam, 1991 SPECIES
-=======
+# Athelopsis galzinii (Bres.) Hjortstam, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 42: 151 (1991)
+Mycotaxon 42: 149 (1991)
 
 #### Original name
-Pteridomyces bananisporus Boidin & Gilles, 1986
+Epithele galzinii Bres., 1911
 
 ### Remarks
 null

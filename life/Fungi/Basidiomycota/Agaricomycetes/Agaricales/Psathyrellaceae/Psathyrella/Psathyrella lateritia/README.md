@@ -1,5 +1,4 @@
-Psathyrella lateritia Velen. SPECIES
-=======
+# Psathyrella lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

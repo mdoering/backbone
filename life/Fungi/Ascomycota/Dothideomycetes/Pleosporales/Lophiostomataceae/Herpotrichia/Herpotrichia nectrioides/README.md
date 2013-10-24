@@ -1,5 +1,4 @@
-Herpotrichia nectrioides Rehm SPECIES
-=======
+# Herpotrichia nectrioides Rehm SPECIES
 
 #### Status
 ACCEPTED

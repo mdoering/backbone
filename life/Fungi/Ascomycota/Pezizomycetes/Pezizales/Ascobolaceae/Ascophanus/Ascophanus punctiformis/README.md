@@ -1,5 +1,4 @@
-Ascophanus punctiformis (P. Karst.) Sacc. SPECIES
-=======
+# Ascophanus punctiformis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

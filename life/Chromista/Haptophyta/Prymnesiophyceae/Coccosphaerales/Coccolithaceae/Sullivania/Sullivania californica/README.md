@@ -1,5 +1,4 @@
-Sullivania californica (Sullivan) O. Varol SPECIES
-=======
+# Sullivania californica (Sullivan) O. Varol SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen descissus Ach. SPECIES
-=======
+# Lichen descissus Ach. SPECIES
 
 #### Status
 ACCEPTED

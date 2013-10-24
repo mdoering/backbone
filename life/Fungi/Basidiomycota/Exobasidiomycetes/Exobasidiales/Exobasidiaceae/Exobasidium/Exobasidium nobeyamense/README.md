@@ -1,5 +1,4 @@
-Exobasidium nobeyamense Nagao & Ezuka, 2001 SPECIES
-=======
+# Exobasidium nobeyamense Nagao & Ezuka, 2001 SPECIES
 
 #### Status
 ACCEPTED

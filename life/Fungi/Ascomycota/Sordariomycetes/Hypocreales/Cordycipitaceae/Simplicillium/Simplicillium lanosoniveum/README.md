@@ -1,5 +1,4 @@
-Simplicillium lanosoniveum (J.F.H. Beyma) Zare & W. Gams, 2001 SPECIES
-=======
+# Simplicillium lanosoniveum (J.F.H. Beyma) Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED

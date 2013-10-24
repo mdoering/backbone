@@ -1,5 +1,4 @@
-Gnomonia padicola (Lib.) Kleb., 1908 SPECIES
-=======
+# Gnomonia padicola (Lib.) Kleb., 1908 SPECIES
 
 #### Status
 ACCEPTED

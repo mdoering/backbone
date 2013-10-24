@@ -1,5 +1,4 @@
-Herpinella Puytorac, 1954 GENUS
-=======
+# Herpinella Puytorac, 1954 GENUS
 
 #### Status
 ACCEPTED

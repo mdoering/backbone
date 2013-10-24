@@ -1,5 +1,4 @@
-Heuflera betulae Bail, 1860 SPECIES
-=======
+# Heuflera betulae Bail, 1860 SPECIES
 
 #### Status
 ACCEPTED

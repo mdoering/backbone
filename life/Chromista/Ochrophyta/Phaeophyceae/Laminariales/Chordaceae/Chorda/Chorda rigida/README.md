@@ -1,5 +1,4 @@
-Chorda rigida Kawai & Arai SPECIES
-=======
+# Chorda rigida Kawai & Arai SPECIES
 
 #### Status
 ACCEPTED

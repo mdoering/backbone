@@ -1,5 +1,4 @@
-Asteridiella vilis var. vilis VARIETY
-=======
+# Asteridiella vilis (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 51 (1957)
 
 #### Original name
-Asteridiella vilis var. vilis
+Meliola vilis Syd. & P. Syd.
 
 ### Remarks
 null

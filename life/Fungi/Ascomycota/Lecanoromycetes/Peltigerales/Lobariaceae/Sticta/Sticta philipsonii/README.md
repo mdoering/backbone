@@ -1,5 +1,4 @@
-Sticta philipsonii C.W. Dodge SPECIES
-=======
+# Sticta philipsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

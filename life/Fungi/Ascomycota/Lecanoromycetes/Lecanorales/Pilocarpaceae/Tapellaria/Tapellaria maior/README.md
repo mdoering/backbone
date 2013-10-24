@@ -1,5 +1,4 @@
-Tapellaria maior (Lücking) Lücking SPECIES
-=======
+# Tapellaria maior (Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

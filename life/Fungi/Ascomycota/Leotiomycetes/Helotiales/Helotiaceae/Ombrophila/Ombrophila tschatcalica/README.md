@@ -1,5 +1,4 @@
-Ombrophila tschatcalica Raitv. SPECIES
-=======
+# Ombrophila tschatcalica Raitv. SPECIES
 
 #### Status
 ACCEPTED

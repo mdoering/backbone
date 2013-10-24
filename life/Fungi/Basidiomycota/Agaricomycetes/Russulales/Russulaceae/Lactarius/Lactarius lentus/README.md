@@ -1,5 +1,4 @@
-Lactarius lentus Coker SPECIES
-=======
+# Lactarius lentus Coker SPECIES
 
 #### Status
 ACCEPTED

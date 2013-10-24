@@ -1,5 +1,4 @@
-Amphoroblastia erumpens Servít SPECIES
-=======
+# Amphoroblastia erumpens Servít SPECIES
 
 #### Status
 ACCEPTED

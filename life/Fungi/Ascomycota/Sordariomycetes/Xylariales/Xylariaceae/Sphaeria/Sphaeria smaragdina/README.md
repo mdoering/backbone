@@ -1,5 +1,4 @@
-Sphaeria smaragdina Ces. SPECIES
-=======
+# Sphaeria smaragdina Ces. SPECIES
 
 #### Status
 ACCEPTED

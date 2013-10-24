@@ -1,5 +1,4 @@
-Venenarius mappa var. mappa VARIETY
-=======
+# Venenarius mappa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Venenarius mappa var. mappa
+null
 
 ### Remarks
 null

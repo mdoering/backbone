@@ -1,5 +1,4 @@
-Boletus michoacanus Singer SPECIES
-=======
+# Boletus michoacanus Singer SPECIES
 
 #### Status
 ACCEPTED

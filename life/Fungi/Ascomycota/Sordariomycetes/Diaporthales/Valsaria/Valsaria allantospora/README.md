@@ -1,5 +1,4 @@
-Valsaria allantospora Ellis & Everh. SPECIES
-=======
+# Valsaria allantospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

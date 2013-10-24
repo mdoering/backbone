@@ -1,5 +1,4 @@
-Puccinia polygoni-sieboldii (Hirats. & S. Kaneko) B. Li SPECIES
-=======
+# Puccinia polygoni-sieboldii (Hirats. & S. Kaneko) B. Li SPECIES
 
 #### Status
 ACCEPTED

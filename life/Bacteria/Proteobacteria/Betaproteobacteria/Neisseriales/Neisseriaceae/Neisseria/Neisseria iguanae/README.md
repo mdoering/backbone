@@ -1,5 +1,4 @@
-Neisseria iguanae Barrett et al., 1994 SPECIES
-=======
+# Neisseria iguanae Barrett et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

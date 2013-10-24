@@ -1,5 +1,4 @@
-Thallinocarpon pulvinatum Å.E. Dahl SPECIES
-=======
+# Thallinocarpon pulvinatum Å.E. Dahl SPECIES
 
 #### Status
 ACCEPTED

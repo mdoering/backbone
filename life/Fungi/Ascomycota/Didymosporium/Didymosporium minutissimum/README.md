@@ -1,5 +1,4 @@
-Didymosporium minutissimum Schwein. SPECIES
-=======
+# Didymosporium minutissimum Schwein. SPECIES
 
 #### Status
 ACCEPTED

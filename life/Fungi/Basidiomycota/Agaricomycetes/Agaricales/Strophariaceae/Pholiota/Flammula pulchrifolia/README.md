@@ -1,5 +1,4 @@
-Flammula pulchrifolia Peck SPECIES
-=======
+# Flammula pulchrifolia Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Danielia Skvortzov, 1967 GENUS
-=======
+# Danielia Skvortzov, 1967 GENUS
 
 #### Status
 ACCEPTED

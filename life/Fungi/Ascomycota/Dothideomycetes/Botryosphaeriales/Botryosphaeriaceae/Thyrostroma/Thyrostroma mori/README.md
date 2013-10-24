@@ -1,5 +1,4 @@
-Thyrostroma mori (Nomura) Höhn. SPECIES
-=======
+# Thyrostroma mori (Nomura) Höhn. SPECIES
 
 #### Status
 ACCEPTED

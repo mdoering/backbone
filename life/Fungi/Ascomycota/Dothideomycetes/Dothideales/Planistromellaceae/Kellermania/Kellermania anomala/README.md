@@ -1,5 +1,4 @@
-Kellermania anomala (Cooke) Höhn. SPECIES
-=======
+# Kellermania anomala (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

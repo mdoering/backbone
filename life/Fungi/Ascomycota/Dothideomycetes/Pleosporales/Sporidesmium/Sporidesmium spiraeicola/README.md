@@ -1,5 +1,4 @@
-Sporidesmium spiraeicola Cooke SPECIES
-=======
+# Sporidesmium spiraeicola Cooke SPECIES
 
 #### Status
 ACCEPTED

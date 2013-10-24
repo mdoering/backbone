@@ -1,5 +1,4 @@
-Pleosporonites ovoideus Sal.-Cheb. & Locq. SPECIES
-=======
+# Pleosporonites ovoideus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

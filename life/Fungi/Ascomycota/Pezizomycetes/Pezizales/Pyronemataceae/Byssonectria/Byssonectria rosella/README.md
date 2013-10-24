@@ -1,5 +1,4 @@
-Byssonectria rosella Cooke & Harkn. SPECIES
-=======
+# Byssonectria rosella Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria mertensiae Ellis SPECIES
-=======
+# Sphaeria mertensiae Ellis SPECIES
 
 #### Status
 ACCEPTED

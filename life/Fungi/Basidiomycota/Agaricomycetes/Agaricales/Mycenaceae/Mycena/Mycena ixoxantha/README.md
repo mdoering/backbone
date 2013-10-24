@@ -1,5 +1,4 @@
-Mycena ixoxantha Singer SPECIES
-=======
+# Mycena ixoxantha Singer SPECIES
 
 #### Status
 ACCEPTED

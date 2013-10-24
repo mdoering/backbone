@@ -1,5 +1,4 @@
-Singeromyces ferrugineus M.M. Moser, 1966 SPECIES
-=======
+# Singeromyces ferrugineus M.M. Moser, 1966 SPECIES
 
 #### Status
 ACCEPTED

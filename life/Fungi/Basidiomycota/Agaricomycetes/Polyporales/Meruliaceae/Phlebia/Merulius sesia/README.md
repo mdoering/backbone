@@ -1,5 +1,4 @@
-Merulius sesia Scop. SPECIES
-=======
+# Merulius sesia Scop. SPECIES
 
 #### Status
 ACCEPTED

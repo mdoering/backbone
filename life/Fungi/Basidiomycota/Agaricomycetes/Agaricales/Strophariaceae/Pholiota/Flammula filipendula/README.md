@@ -1,5 +1,4 @@
-Flammula filipendula Henn. & E. Nyman SPECIES
-=======
+# Flammula filipendula Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

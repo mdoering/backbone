@@ -1,5 +1,4 @@
-Aeromonas veronii Hickman-Brenner et al., 1988 SPECIES
-=======
+# Aeromonas veronii Hickman-Brenner et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

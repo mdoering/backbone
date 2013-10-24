@@ -1,5 +1,4 @@
-Amphisiella ovalis Ferndandez-Leborans & Novillo, 1992 SPECIES
-=======
+# Amphisiella ovalis Ferndandez-Leborans & Novillo, 1992 SPECIES
 
 #### Status
 ACCEPTED

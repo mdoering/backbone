@@ -1,5 +1,4 @@
-Stilbella dubia (Preuss) Lindau SPECIES
-=======
+# Stilbella dubia (Preuss) Lindau SPECIES
 
 #### Status
 ACCEPTED

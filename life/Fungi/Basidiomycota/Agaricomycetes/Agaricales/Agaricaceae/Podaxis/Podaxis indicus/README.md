@@ -1,5 +1,4 @@
-Podaxis indicus (Spreng.) Massee SPECIES
-=======
+# Podaxis indicus (Spreng.) Massee SPECIES
 
 #### Status
 ACCEPTED

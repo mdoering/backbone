@@ -1,5 +1,4 @@
-Lepiota truncicola Murrill SPECIES
-=======
+# Lepiota truncicola Murrill SPECIES
 
 #### Status
 ACCEPTED

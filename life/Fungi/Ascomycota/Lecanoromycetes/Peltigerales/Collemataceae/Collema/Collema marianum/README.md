@@ -1,5 +1,4 @@
-Collema marianum Pers. SPECIES
-=======
+# Collema marianum Pers. SPECIES
 
 #### Status
 ACCEPTED

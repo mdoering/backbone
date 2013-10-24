@@ -1,5 +1,4 @@
-Corynebacterium durum Riegel et al., 1997 SPECIES
-=======
+# Corynebacterium durum Riegel et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

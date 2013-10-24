@@ -1,5 +1,4 @@
-Cristularia GENUS
-=======
+# Cristularia GENUS
 
 #### Status
 ACCEPTED

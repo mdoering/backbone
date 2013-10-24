@@ -1,5 +1,4 @@
-Peccania coralloides (A. Massal.) A. Massal. SPECIES
-=======
+# Peccania coralloides (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

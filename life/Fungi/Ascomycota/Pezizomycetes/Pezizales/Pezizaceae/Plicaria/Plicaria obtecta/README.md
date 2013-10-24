@@ -1,5 +1,4 @@
-Plicaria obtecta Velen. SPECIES
-=======
+# Plicaria obtecta Velen. SPECIES
 
 #### Status
 ACCEPTED

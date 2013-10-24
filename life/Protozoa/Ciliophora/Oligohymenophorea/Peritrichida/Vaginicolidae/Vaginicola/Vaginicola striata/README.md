@@ -1,5 +1,4 @@
-Vaginicola striata Fromentel, 1876 SPECIES
-=======
+# Vaginicola striata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

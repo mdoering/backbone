@@ -1,5 +1,4 @@
-Sticholonche Hertwig, 1877 GENUS
-=======
+# Sticholonche Hertwig, 1877 GENUS
 
 #### Status
 ACCEPTED

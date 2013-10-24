@@ -1,5 +1,4 @@
-Trypethelium acrophaeum Nyl. SPECIES
-=======
+# Trypethelium acrophaeum Nyl. SPECIES
 
 #### Status
 ACCEPTED

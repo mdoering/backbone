@@ -1,5 +1,4 @@
-Hypocopra pusilla Speg. SPECIES
-=======
+# Hypocopra pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

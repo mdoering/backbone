@@ -1,14 +1,13 @@
-Graphis dimidiata Vain. SPECIES
-=======
+# Graphina dimidiata (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7(2): 108 (1890)
+Cat. Lich. Univers. 2: 404 (1923)
 
 #### Original name
 Graphis dimidiata Vain.

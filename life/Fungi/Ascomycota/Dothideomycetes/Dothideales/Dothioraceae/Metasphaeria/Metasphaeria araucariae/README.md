@@ -1,5 +1,4 @@
-Metasphaeria araucariae Traverso SPECIES
-=======
+# Metasphaeria araucariae Traverso SPECIES
 
 #### Status
 ACCEPTED

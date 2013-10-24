@@ -1,5 +1,4 @@
-Sphaceloma fawcetti Jenkins SPECIES
-=======
+# Sphaceloma fawcetti Jenkins SPECIES
 
 #### Status
 ACCEPTED

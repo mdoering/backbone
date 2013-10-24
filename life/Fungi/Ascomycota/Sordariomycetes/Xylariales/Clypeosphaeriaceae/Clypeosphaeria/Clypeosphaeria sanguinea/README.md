@@ -1,5 +1,4 @@
-Clypeosphaeria sanguinea Ellis & Everh. SPECIES
-=======
+# Clypeosphaeria sanguinea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

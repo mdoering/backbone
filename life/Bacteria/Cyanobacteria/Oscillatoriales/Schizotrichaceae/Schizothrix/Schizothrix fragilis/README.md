@@ -1,5 +1,4 @@
-Schizothrix fragilis (Kützing) Gomont SPECIES
-=======
+# Schizothrix fragilis (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria multiplex Kunze SPECIES
-=======
+# Sphaeria multiplex Kunze SPECIES
 
 #### Status
 ACCEPTED

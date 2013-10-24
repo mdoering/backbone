@@ -1,5 +1,4 @@
-Leptostroma piceae-schrenkianae Schwarzman SPECIES
-=======
+# Leptostroma piceae-schrenkianae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

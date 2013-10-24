@@ -1,5 +1,4 @@
-Agaricus agnarius Fr. SPECIES
-=======
+# Agaricus agnarius Fr. SPECIES
 
 #### Status
 ACCEPTED

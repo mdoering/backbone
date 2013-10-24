@@ -1,5 +1,4 @@
-Cortinarius multicolor M.M. Moser ex M.M. Moser SPECIES
-=======
+# Cortinarius multicolor M.M. Moser ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

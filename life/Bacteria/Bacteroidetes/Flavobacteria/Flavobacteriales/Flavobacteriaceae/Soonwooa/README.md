@@ -1,5 +1,4 @@
-Soonwooa Joung, Song, Lee, Oh, Joh & Cho, 2010 GENUS
-=======
+# Soonwooa Joung, Song, Lee, Oh, Joh & Cho, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina randiae Rehm SPECIES
-=======
+# Taphrina randiae Rehm SPECIES
 
 #### Status
 ACCEPTED

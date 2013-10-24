@@ -1,5 +1,4 @@
-Usnea variabilis Motyka SPECIES
-=======
+# Usnea variabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

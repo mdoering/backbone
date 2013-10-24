@@ -1,5 +1,4 @@
-Pithomyces divaricatus Narayan & Kamal SPECIES
-=======
+# Pithomyces divaricatus Narayan & Kamal SPECIES
 
 #### Status
 ACCEPTED

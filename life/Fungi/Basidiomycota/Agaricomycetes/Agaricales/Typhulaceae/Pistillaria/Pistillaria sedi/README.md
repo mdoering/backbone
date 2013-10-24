@@ -1,5 +1,4 @@
-Pistillaria sedi P. Karst. SPECIES
-=======
+# Pistillaria sedi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

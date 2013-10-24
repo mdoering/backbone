@@ -1,5 +1,4 @@
-Puccinia hyalina H.S. Jacks. SPECIES
-=======
+# Puccinia hyalina H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

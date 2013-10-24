@@ -1,5 +1,4 @@
-Clavaria rosolana Petch SPECIES
-=======
+# Clavaria rosolana Petch SPECIES
 
 #### Status
 ACCEPTED

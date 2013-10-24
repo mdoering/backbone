@@ -1,5 +1,4 @@
-Hormiscium vini Kunze SPECIES
-=======
+# Hormiscium vini Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplosporidium Spegazzini, 1912 GENUS
-=======
+# Haplosporidium Spegazzini, 1912 GENUS
 
 #### Status
 ACCEPTED

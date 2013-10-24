@@ -1,5 +1,4 @@
-Cylindrosporium acori Peck SPECIES
-=======
+# Cylindrosporium acori Peck SPECIES
 
 #### Status
 ACCEPTED

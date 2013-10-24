@@ -1,5 +1,4 @@
-Stachybotrys theobromae Hansf., 1943 SPECIES
-=======
+# Stachybotrys theobromae Hansf., 1943 SPECIES
 
 #### Status
 ACCEPTED

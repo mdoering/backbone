@@ -1,5 +1,4 @@
-Cortinarius minoscaurus Soop, 2001 SPECIES
-=======
+# Cortinarius minoscaurus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

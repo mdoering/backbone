@@ -1,5 +1,4 @@
-Uredostilbe Buriticá & J.F. Hennen GENUS
-=======
+# Uredostilbe Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

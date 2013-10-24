@@ -1,5 +1,4 @@
-Psathyrella hortulana (Mont.) Sacc. SPECIES
-=======
+# Psathyrella hortulana (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

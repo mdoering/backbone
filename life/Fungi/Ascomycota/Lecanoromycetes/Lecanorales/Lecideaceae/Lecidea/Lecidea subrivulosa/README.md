@@ -1,5 +1,4 @@
-Lecidea subrivulosa Vain. SPECIES
-=======
+# Lecidea subrivulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

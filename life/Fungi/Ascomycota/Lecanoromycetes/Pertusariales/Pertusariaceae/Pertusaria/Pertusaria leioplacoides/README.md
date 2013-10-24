@@ -1,5 +1,4 @@
-Pertusaria leioplacoides var. leioplacoides VARIETY
-=======
+# Pertusaria leioplacoides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria leioplacoides var. leioplacoides
+Pertusaria leioplacoides
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ommatogramma Ehrenberg, 1860 GENUS
-=======
+# Ommatogramma Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

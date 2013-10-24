@@ -1,5 +1,4 @@
-Lingulina mediterranea Costa, 1861 SPECIES
-=======
+# Lingulina mediterranea Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula filaris (Kalchbr.) Corner SPECIES
-=======
+# Pterula filaris (Kalchbr.) Corner SPECIES
 
 #### Status
 ACCEPTED

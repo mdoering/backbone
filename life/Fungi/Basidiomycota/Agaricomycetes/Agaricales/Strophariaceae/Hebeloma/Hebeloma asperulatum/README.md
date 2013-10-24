@@ -1,5 +1,4 @@
-Hebeloma asperulatum Hesler SPECIES
-=======
+# Hebeloma asperulatum Hesler SPECIES
 
 #### Status
 ACCEPTED

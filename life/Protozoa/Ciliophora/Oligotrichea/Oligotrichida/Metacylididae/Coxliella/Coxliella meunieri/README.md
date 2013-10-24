@@ -1,5 +1,4 @@
-Coxliella meunieri Kofoid & Campbell, 1929 SPECIES
-=======
+# Coxliella meunieri Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Monodictys monilicellularis Matsush. SPECIES
-=======
+# Monodictys monilicellularis Matsush. SPECIES
 
 #### Status
 ACCEPTED

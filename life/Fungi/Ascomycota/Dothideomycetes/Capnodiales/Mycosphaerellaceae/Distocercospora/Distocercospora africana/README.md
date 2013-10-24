@@ -1,5 +1,4 @@
-Distocercospora africana Crous & U. Braun SPECIES
-=======
+# Distocercospora africana Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

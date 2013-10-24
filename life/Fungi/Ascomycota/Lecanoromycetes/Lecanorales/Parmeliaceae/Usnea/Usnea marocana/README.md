@@ -1,5 +1,4 @@
-Usnea marocana Motyka SPECIES
-=======
+# Usnea marocana Motyka SPECIES
 
 #### Status
 ACCEPTED

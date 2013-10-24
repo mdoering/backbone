@@ -1,17 +1,16 @@
-Piricularia caricis G. Arnaud SPECIES
-=======
+# Pyricularia caricis G. Arnaud ex Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 120 (1975)
 
 #### Original name
-Piricularia caricis G. Arnaud
+Pyricularia caricis G. Arnaud ex Matsush., 1975
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Katodinium Fott, 1957 GENUS
-=======
+# Katodinium Fott, 1957 GENUS
 
 #### Status
 ACCEPTED

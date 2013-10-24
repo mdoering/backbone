@@ -1,5 +1,4 @@
-Canningia microciliata K. P. Jain SPECIES
-=======
+# Canningia microciliata K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

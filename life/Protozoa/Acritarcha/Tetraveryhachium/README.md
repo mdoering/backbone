@@ -1,5 +1,4 @@
-Tetraveryhachium Stancliffe & Sarjeant, 1994 GENUS
-=======
+# Tetraveryhachium Stancliffe & Sarjeant, 1994 GENUS
 
 #### Status
 ACCEPTED

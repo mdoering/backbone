@@ -1,5 +1,4 @@
-Camarophyllus patagonicus Singer SPECIES
-=======
+# Camarophyllus patagonicus Singer SPECIES
 
 #### Status
 ACCEPTED

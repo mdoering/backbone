@@ -1,5 +1,4 @@
-Collema wyomingense (Fink ex J. Hedrick) Zahlbr. SPECIES
-=======
+# Collema wyomingense (Fink ex J. Hedrick) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

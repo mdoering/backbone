@@ -1,5 +1,4 @@
-Mycogone novae-zelandiae Matsush., 1987 SPECIES
-=======
+# Mycogone novae-zelandiae Matsush., 1987 SPECIES
 
 #### Status
 ACCEPTED

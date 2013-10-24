@@ -1,5 +1,4 @@
-Splanchnomyces tulasneanus Zobel SPECIES
-=======
+# Splanchnomyces tulasneanus Zobel SPECIES
 
 #### Status
 ACCEPTED

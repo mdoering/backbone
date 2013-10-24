@@ -1,5 +1,4 @@
-Amphisia piscis SPECIES
-=======
+# Amphisia piscis SPECIES
 
 #### Status
 ACCEPTED

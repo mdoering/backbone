@@ -1,5 +1,4 @@
-Absconditella lignicola Vezda & Pišút SPECIES
-=======
+# Absconditella lignicola Vezda & Pišút SPECIES
 
 #### Status
 ACCEPTED

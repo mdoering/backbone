@@ -1,5 +1,4 @@
-Parachnopeziza Korf GENUS
-=======
+# Parachnopeziza Korf GENUS
 
 #### Status
 ACCEPTED

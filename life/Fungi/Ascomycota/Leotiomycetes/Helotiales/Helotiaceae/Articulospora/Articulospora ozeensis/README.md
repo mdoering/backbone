@@ -1,5 +1,4 @@
-Articulospora ozeensis Matsush. SPECIES
-=======
+# Articulospora ozeensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

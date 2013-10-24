@@ -1,5 +1,4 @@
-Exochoderma arca Wicander & Wood, 1981 SPECIES
-=======
+# Exochoderma arca Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

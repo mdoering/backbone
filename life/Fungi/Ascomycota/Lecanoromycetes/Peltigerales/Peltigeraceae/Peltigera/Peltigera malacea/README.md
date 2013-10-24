@@ -1,17 +1,16 @@
-Peltigera malacea f. malacea FORM
-=======
+# Peltigera malacea (Ach.) Funck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Gewächse 33: 5 (1827)
 
 #### Original name
-Peltigera malacea f. malacea
+Peltidea malacea Ach.
 
 ### Remarks
 null

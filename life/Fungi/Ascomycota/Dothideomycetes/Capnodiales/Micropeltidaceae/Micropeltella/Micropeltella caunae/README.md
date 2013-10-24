@@ -1,5 +1,4 @@
-Micropeltella caunae (Speg.) Speg. SPECIES
-=======
+# Micropeltella caunae (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

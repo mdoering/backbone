@@ -1,5 +1,4 @@
-Coprinus armillaris Fr. SPECIES
-=======
+# Coprinus armillaris Fr. SPECIES
 
 #### Status
 ACCEPTED

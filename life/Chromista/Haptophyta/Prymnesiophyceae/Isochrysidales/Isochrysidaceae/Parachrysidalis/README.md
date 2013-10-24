@@ -1,5 +1,4 @@
-Parachrysidalis Hulbert, 1965 GENUS
-=======
+# Parachrysidalis Hulbert, 1965 GENUS
 
 #### Status
 ACCEPTED

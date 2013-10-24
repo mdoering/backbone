@@ -1,5 +1,4 @@
-Ascochyta colebrookeae Pandotra & Ganguly SPECIES
-=======
+# Ascochyta colebrookeae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

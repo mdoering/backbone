@@ -1,5 +1,4 @@
-Pseudonocardia zijingensis Huang et al., 2002 SPECIES
-=======
+# Pseudonocardia zijingensis Huang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

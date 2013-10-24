@@ -1,17 +1,16 @@
-Merismodes fulvus Lasch SPECIES
-=======
+# Merismodes fulva Lasch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 4: 552 (1829)
 
 #### Original name
-Merismodes fulvus Lasch
+Merismodes fulva Lasch
 
 ### Remarks
 null

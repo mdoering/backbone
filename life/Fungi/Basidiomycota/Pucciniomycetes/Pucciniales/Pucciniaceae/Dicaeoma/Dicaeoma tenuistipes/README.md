@@ -1,5 +1,4 @@
-Dicaeoma tenuistipes (Opiz) Kuntze SPECIES
-=======
+# Dicaeoma tenuistipes (Opiz) Kuntze SPECIES
 
 #### Status
 ACCEPTED

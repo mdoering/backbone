@@ -1,5 +1,4 @@
-Sirodochiella rhodella Höhn., 1925 SPECIES
-=======
+# Sirodochiella rhodella Höhn., 1925 SPECIES
 
 #### Status
 ACCEPTED

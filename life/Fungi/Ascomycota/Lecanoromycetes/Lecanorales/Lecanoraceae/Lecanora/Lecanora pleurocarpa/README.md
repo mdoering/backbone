@@ -1,5 +1,4 @@
-Lecanora pleurocarpa (Ach.) Sommerf. SPECIES
-=======
+# Lecanora pleurocarpa (Ach.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED

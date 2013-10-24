@@ -1,5 +1,4 @@
-Ambrosiella ferruginea (Math.-Käärik) L.R. Batra, 1968 SPECIES
-=======
+# Ambrosiella ferruginea (Math.-Käärik) L.R. Batra, 1968 SPECIES
 
 #### Status
 ACCEPTED

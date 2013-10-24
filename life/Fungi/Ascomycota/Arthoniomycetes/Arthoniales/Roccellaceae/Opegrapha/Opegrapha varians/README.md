@@ -1,5 +1,4 @@
-Opegrapha varians (Müll. Arg.) Vain. SPECIES
-=======
+# Opegrapha varians (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

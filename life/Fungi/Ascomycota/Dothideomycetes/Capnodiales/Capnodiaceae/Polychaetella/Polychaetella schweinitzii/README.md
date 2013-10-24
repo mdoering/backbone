@@ -1,5 +1,4 @@
-Polychaetella schweinitzii (Berk. & Desm.) Speg., 1918 SPECIES
-=======
+# Polychaetella schweinitzii (Berk. & Desm.) Speg., 1918 SPECIES
 
 #### Status
 ACCEPTED

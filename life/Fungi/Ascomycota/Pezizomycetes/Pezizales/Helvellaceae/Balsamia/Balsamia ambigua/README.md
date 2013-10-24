@@ -1,5 +1,4 @@
-Balsamia ambigua Petitb. SPECIES
-=======
+# Balsamia ambigua Petitb. SPECIES
 
 #### Status
 ACCEPTED

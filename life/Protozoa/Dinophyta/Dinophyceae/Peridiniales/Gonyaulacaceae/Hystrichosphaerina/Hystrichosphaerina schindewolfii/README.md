@@ -1,5 +1,4 @@
-Hystrichosphaerina schindewolfii Alberti, 1961 SPECIES
-=======
+# Hystrichosphaerina schindewolfii Alberti, 1961 SPECIES
 
 #### Status
 ACCEPTED

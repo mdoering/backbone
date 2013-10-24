@@ -1,5 +1,4 @@
-Schizoblastosporon Ciferri, 1930 GENUS
-=======
+# Schizoblastosporon Ciferri, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea fumosellina Starbäck SPECIES
-=======
+# Phialea fumosellina Starbäck SPECIES
 
 #### Status
 ACCEPTED

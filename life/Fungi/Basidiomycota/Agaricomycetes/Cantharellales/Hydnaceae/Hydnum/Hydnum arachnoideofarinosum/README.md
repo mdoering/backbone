@@ -1,5 +1,4 @@
-Hydnum arachnoideofarinosum Rick SPECIES
-=======
+# Hydnum arachnoideofarinosum Rick SPECIES
 
 #### Status
 ACCEPTED

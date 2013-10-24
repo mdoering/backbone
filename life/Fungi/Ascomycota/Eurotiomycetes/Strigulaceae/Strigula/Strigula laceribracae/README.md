@@ -1,5 +1,4 @@
-Strigula laceribracae R. C. Harris SPECIES
-=======
+# Strigula laceribracae R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

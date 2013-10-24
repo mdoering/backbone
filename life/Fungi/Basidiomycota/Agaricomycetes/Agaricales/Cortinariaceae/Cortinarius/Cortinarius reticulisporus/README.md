@@ -1,5 +1,4 @@
-Cortinarius reticulisporus Miyauchi SPECIES
-=======
+# Cortinarius reticulisporus Miyauchi SPECIES
 
 #### Status
 ACCEPTED

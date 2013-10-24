@@ -1,5 +1,4 @@
-Hydnum webbii Berk. SPECIES
-=======
+# Hydnum webbii Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria piricola Desm. SPECIES
-=======
+# Septoria piricola Desm. SPECIES
 
 #### Status
 ACCEPTED

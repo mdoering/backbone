@@ -1,5 +1,4 @@
-Menegazzia valdiviensis (Räsänen) R. Sant. SPECIES
-=======
+# Menegazzia valdiviensis (Räsänen) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

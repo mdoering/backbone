@@ -1,5 +1,4 @@
-Diderma miniatum Nann.-Bremek., 1989 SPECIES
-=======
+# Diderma miniatum Nann.-Bremek., 1989 SPECIES
 
 #### Status
 ACCEPTED

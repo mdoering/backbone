@@ -1,5 +1,4 @@
-Erysiphe peristrophes (N. Ahmad, A.K. Sarbhoy & Kamal) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe peristrophes (N. Ahmad, A.K. Sarbhoy & Kamal) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

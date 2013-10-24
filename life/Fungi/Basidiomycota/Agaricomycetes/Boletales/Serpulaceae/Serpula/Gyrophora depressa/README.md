@@ -1,5 +1,4 @@
-Gyrophora depressa (Ach.) Röhling SPECIES
-=======
+# Gyrophora depressa (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED

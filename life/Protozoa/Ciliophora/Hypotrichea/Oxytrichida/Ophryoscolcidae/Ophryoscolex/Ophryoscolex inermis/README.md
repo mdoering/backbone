@@ -1,5 +1,4 @@
-Ophryoscolex inermis Stein, 1859 SPECIES
-=======
+# Ophryoscolex inermis Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

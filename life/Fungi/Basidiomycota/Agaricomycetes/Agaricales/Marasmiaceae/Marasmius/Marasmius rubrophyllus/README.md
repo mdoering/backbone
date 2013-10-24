@@ -1,5 +1,4 @@
-Marasmius rubrophyllus Penn. SPECIES
-=======
+# Marasmius rubrophyllus Penn. SPECIES
 
 #### Status
 ACCEPTED

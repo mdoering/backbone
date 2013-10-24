@@ -1,5 +1,4 @@
-Sphaerotheca hibiscicola Z.Y. Zhao SPECIES
-=======
+# Sphaerotheca hibiscicola Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

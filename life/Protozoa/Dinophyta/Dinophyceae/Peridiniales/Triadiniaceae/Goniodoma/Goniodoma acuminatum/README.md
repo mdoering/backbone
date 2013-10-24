@@ -1,8 +1,7 @@
-Peridinium acuminatum Ehrenberg SPECIES
-=======
+# Goniodoma acuminatum (Ehrenberg, 1838) Stein, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

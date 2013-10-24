@@ -1,5 +1,4 @@
-Gaertneriomyces D.J.S. Barr GENUS
-=======
+# Gaertneriomyces D.J.S. Barr GENUS
 
 #### Status
 ACCEPTED

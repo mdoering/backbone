@@ -1,5 +1,4 @@
-Hymenochaete pinnatifida Burt, 1918 SPECIES
-=======
+# Hymenochaete pinnatifida Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

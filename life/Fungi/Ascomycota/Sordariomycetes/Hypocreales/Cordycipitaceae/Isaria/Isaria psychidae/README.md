@@ -1,5 +1,4 @@
-Isaria psychidae A. Evans SPECIES
-=======
+# Isaria psychidae A. Evans SPECIES
 
 #### Status
 ACCEPTED

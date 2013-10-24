@@ -1,5 +1,4 @@
-Involucrothele umbilicata (Th. Fr.) Servít SPECIES
-=======
+# Involucrothele umbilicata (Th. Fr.) Servít SPECIES
 
 #### Status
 ACCEPTED

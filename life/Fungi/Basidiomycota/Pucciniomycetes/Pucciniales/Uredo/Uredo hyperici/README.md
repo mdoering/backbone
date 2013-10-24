@@ -1,5 +1,4 @@
-Uredo hyperici Schwein. SPECIES
-=======
+# Uredo hyperici Schwein. SPECIES
 
 #### Status
 ACCEPTED

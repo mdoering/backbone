@@ -1,5 +1,4 @@
-Gloeosporium celtidis Ellis & Everh. SPECIES
-=======
+# Gloeosporium celtidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora polygalicola Hollós SPECIES
-=======
+# Rhabdospora polygalicola Hollós SPECIES
 
 #### Status
 ACCEPTED

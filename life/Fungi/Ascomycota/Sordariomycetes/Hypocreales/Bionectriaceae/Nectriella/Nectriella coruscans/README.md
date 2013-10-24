@@ -1,5 +1,4 @@
-Nectriella coruscans (Fr.) Sacc. SPECIES
-=======
+# Nectriella coruscans (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

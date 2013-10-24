@@ -1,5 +1,4 @@
-Trichobelonium caricinum Velen. SPECIES
-=======
+# Trichobelonium caricinum Velen. SPECIES
 
 #### Status
 ACCEPTED

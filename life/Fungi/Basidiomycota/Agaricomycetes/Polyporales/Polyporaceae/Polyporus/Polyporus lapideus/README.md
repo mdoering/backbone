@@ -1,5 +1,4 @@
-Polyporus lapideus (Pat.) Sacc. & Trotter SPECIES
-=======
+# Polyporus lapideus (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

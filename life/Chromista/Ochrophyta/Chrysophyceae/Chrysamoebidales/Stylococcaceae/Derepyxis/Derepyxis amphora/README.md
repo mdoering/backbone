@@ -1,5 +1,4 @@
-Derepyxis amphora A. Stokes SPECIES
-=======
+# Derepyxis amphora A. Stokes SPECIES
 
 #### Status
 ACCEPTED

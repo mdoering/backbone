@@ -1,5 +1,4 @@
-Septoria vulcani D.E. Gardner SPECIES
-=======
+# Septoria vulcani D.E. Gardner SPECIES
 
 #### Status
 ACCEPTED

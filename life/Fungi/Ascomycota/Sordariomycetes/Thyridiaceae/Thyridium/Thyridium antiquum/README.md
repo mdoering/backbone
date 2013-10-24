@@ -1,5 +1,4 @@
-Thyridium antiquum (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Thyridium antiquum (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

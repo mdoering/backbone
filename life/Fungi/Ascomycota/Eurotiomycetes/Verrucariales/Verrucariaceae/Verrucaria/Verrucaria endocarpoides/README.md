@@ -1,5 +1,4 @@
-Verrucaria endocarpoides Servít SPECIES
-=======
+# Verrucaria endocarpoides Servít SPECIES
 
 #### Status
 ACCEPTED

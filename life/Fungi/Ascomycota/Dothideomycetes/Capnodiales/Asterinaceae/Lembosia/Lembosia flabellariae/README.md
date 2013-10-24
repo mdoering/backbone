@@ -1,5 +1,4 @@
-Lembosia flabellariae Syd. SPECIES
-=======
+# Lembosia flabellariae Syd. SPECIES
 
 #### Status
 ACCEPTED

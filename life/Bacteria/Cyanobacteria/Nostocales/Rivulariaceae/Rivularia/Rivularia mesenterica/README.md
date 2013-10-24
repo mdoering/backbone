@@ -1,5 +1,4 @@
-Rivularia mesenterica Thuret SPECIES
-=======
+# Rivularia mesenterica Thuret SPECIES
 
 #### Status
 ACCEPTED

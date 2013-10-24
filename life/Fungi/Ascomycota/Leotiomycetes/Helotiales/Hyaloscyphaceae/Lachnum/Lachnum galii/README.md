@@ -1,5 +1,4 @@
-Lachnum galii Velen. SPECIES
-=======
+# Lachnum galii Velen. SPECIES
 
 #### Status
 ACCEPTED

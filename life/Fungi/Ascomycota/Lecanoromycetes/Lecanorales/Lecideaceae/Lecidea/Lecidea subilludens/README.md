@@ -1,5 +1,4 @@
-Lecidea subilludens Harm. SPECIES
-=======
+# Lecidea subilludens Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes pruiniger (J. Steiner & Zahlbr.) C.W. Dodge SPECIES
-=======
+# Diploschistes pruiniger (J. Steiner & Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

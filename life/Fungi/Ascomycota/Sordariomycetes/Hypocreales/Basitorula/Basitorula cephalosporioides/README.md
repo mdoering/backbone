@@ -1,5 +1,4 @@
-Basitorula cephalosporioides (J.F.H. Beyma) G. Arnaud SPECIES
-=======
+# Basitorula cephalosporioides (J.F.H. Beyma) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

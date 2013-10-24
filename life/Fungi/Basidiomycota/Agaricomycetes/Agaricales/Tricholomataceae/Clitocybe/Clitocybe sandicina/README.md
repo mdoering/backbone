@@ -1,5 +1,4 @@
-Clitocybe sandicina Fr. SPECIES
-=======
+# Clitocybe sandicina Fr. SPECIES
 
 #### Status
 ACCEPTED

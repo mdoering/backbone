@@ -1,5 +1,4 @@
-Gomphus retisporus Corner SPECIES
-=======
+# Gomphus retisporus Corner SPECIES
 
 #### Status
 ACCEPTED

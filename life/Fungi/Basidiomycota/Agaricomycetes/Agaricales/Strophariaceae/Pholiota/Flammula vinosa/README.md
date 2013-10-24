@@ -1,14 +1,13 @@
-Agaricus leucophyllus f. vinosus (Bull.) Pers., 1801 FORM
-=======
+# Flammula vinosa (Bull.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 309 (1801)
+Syll. fung. (Abellini) 5: 809 (1887)
 
 #### Original name
 Agaricus vinosus Corda, 1841

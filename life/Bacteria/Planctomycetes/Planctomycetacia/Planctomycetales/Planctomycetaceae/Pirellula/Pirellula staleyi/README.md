@@ -1,8 +1,7 @@
-Pirella staleyi Schlesner & Hirsch, 1984 SPECIES
-=======
+# Pirellula staleyi (Schlesner & Hirsch, 1984) Schlesner & Hirsch, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

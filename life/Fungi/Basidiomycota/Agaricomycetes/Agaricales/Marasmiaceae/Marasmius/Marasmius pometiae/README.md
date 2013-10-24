@@ -1,5 +1,4 @@
-Marasmius pometiae Corner SPECIES
-=======
+# Marasmius pometiae Corner SPECIES
 
 #### Status
 ACCEPTED

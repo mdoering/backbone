@@ -1,14 +1,13 @@
-Coprotrichum crustaceum (Bull.) Cif. & Redaelli, 1943 SPECIES
-=======
+# Oospora crustacea (Bull.) Sacc., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 3: 125 (1943)
+Michelia 1(no. 5): 545 (1879)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Oceanobacillus oncorhynchi subsp. oncorhynchi SUBSPECIES
-=======
+# Oceanobacillus oncorhynchi SPECIES
 
 #### Status
 ACCEPTED

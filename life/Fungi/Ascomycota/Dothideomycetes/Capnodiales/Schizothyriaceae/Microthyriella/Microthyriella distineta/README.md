@@ -1,5 +1,4 @@
-Microthyriella distineta SPECIES
-=======
+# Microthyriella distineta SPECIES
 
 #### Status
 ACCEPTED

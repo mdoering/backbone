@@ -1,8 +1,7 @@
-Stichochaeta corsica Gourret & Roeser, 1888 SPECIES
-=======
+# Trachelostyla pediculiformis (Cohn, 1866) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

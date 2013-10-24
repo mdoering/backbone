@@ -1,5 +1,4 @@
-Lobatopedis longistriatum A.C. Cruz, Gusmão, S.M. Leão-Ferreira & R.F. Castañeda SPECIES
-=======
+# Lobatopedis longistriatum A.C. Cruz, Gusmão, S.M. Leão-Ferreira & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

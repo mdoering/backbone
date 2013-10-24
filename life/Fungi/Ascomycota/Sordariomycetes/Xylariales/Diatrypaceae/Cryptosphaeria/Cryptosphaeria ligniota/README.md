@@ -1,17 +1,16 @@
-Cryptosphaeria populina var. populina VARIETY
-=======
+# Cryptosphaeria ligniota (Fr.) Auersw., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 183 (1882)
+null
 
 #### Original name
-Cryptosphaeria populina var. populina
+Sphaeria ligniota Fr., 1823
 
 ### Remarks
 null

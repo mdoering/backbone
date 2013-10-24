@@ -1,5 +1,4 @@
-Pararotalia ozawai (Asano) SPECIES
-=======
+# Pararotalia ozawai (Asano) SPECIES
 
 #### Status
 ACCEPTED

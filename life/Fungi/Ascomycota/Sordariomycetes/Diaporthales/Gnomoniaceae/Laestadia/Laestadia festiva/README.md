@@ -1,5 +1,4 @@
-Laestadia festiva Syd. SPECIES
-=======
+# Laestadia festiva Syd. SPECIES
 
 #### Status
 ACCEPTED

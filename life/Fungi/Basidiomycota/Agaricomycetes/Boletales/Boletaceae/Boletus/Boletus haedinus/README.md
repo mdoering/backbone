@@ -1,5 +1,4 @@
-Boletus haedinus Berk. & Broome SPECIES
-=======
+# Boletus haedinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

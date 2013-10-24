@@ -1,5 +1,4 @@
-Lecidea mougeotii Hepp SPECIES
-=======
+# Lecidea mougeotii Hepp SPECIES
 
 #### Status
 ACCEPTED

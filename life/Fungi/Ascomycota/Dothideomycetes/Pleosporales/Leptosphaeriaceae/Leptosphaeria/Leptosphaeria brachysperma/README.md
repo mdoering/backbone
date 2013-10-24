@@ -1,5 +1,4 @@
-Leptosphaeria brachysperma Berl. SPECIES
-=======
+# Leptosphaeria brachysperma Berl. SPECIES
 
 #### Status
 ACCEPTED

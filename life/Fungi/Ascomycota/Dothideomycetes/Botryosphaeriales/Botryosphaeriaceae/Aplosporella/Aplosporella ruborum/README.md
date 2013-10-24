@@ -1,5 +1,4 @@
-Aplosporella ruborum (Schwein.) Petr. SPECIES
-=======
+# Aplosporella ruborum (Schwein.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia elbursensis Petr. SPECIES
-=======
+# Hendersonia elbursensis Petr. SPECIES
 
 #### Status
 ACCEPTED

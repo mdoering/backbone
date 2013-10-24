@@ -1,5 +1,4 @@
-Boletus asprellus Fr. SPECIES
-=======
+# Boletus asprellus Fr. SPECIES
 
 #### Status
 ACCEPTED

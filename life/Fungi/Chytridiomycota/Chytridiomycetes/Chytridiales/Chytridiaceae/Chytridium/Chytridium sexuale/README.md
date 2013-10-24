@@ -1,5 +1,4 @@
-Chytridium sexuale W.J. Koch SPECIES
-=======
+# Chytridium sexuale W.J. Koch SPECIES
 
 #### Status
 ACCEPTED

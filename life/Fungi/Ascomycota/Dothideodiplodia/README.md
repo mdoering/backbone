@@ -1,5 +1,4 @@
-Dothideodiplodia Murashk. GENUS
-=======
+# Dothideodiplodia Murashk. GENUS
 
 #### Status
 ACCEPTED

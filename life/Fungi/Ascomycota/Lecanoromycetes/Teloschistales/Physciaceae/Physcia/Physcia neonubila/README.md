@@ -1,5 +1,4 @@
-Physcia neonubila Elix SPECIES
-=======
+# Physcia neonubila Elix SPECIES
 
 #### Status
 ACCEPTED

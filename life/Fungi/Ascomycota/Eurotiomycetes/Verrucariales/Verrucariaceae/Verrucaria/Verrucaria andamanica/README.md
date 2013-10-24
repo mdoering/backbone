@@ -1,5 +1,4 @@
-Verrucaria andamanica Nyl. SPECIES
-=======
+# Verrucaria andamanica Nyl. SPECIES
 
 #### Status
 ACCEPTED

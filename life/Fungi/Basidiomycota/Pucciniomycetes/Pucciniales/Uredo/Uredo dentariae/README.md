@@ -1,5 +1,4 @@
-Uredo dentariae Alb. & Schwein. SPECIES
-=======
+# Uredo dentariae Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

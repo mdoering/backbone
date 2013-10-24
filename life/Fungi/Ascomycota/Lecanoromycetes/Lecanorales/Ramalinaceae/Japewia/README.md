@@ -1,5 +1,4 @@
-Japewia Tønsberg GENUS
-=======
+# Japewia Tønsberg GENUS
 
 #### Status
 ACCEPTED

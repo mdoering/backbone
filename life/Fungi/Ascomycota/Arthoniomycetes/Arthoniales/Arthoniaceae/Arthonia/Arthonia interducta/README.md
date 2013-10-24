@@ -1,5 +1,4 @@
-Arthonia interducta Nyl. SPECIES
-=======
+# Arthonia interducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

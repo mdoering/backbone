@@ -1,5 +1,4 @@
-Fuligomyces indicus M.K. Khan & Kamal SPECIES
-=======
+# Fuligomyces indicus M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

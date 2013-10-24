@@ -1,5 +1,4 @@
-Rhabdospora mirabilissima (Peck) Dearn. & House SPECIES
-=======
+# Rhabdospora mirabilissima (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

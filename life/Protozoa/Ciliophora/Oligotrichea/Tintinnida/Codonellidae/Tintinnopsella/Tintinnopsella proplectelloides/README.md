@@ -1,5 +1,4 @@
-Tintinnopsella proplectelloides Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella proplectelloides Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

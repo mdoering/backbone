@@ -1,5 +1,4 @@
-Dinophysis infundibulus J. Schiller SPECIES
-=======
+# Dinophysis infundibulus J. Schiller SPECIES
 
 #### Status
 ACCEPTED

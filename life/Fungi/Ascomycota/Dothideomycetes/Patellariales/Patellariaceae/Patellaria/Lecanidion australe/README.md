@@ -1,5 +1,4 @@
-Lecanidion australe Speg. SPECIES
-=======
+# Lecanidion australe Speg. SPECIES
 
 #### Status
 ACCEPTED

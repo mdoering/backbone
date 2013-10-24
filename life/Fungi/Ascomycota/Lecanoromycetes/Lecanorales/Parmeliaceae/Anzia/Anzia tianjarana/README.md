@@ -1,5 +1,4 @@
-Anzia tianjarana Yoshim. & Elix SPECIES
-=======
+# Anzia tianjarana Yoshim. & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudorotalia Reiss & Merling, 1958 GENUS
-=======
+# Pseudorotalia Reiss & Merling, 1958 GENUS
 
 #### Status
 ACCEPTED

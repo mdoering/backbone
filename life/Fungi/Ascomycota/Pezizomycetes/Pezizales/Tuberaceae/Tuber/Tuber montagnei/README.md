@@ -1,5 +1,4 @@
-Tuber montagnei Zobel SPECIES
-=======
+# Tuber montagnei Zobel SPECIES
 
 #### Status
 ACCEPTED

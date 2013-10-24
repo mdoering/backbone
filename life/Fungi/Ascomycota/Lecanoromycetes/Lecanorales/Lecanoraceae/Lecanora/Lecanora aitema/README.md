@@ -1,17 +1,16 @@
-Lecidea symmicta var. sepincola (Ach.) Hedl. VARIETY
-=======
+# Lecanora aitema (Ach.) Hepp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 67: 336 (1884)
+Flecht. Eur. no. 69 (1853)
 
 #### Original name
-Lecidea sepincola Ach.
+Lecidea aitema Ach.
 
 ### Remarks
 null

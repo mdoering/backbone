@@ -1,5 +1,4 @@
-Irenina ekebergiae (Doidge) Hansf. & Deighton SPECIES
-=======
+# Irenina ekebergiae (Doidge) Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

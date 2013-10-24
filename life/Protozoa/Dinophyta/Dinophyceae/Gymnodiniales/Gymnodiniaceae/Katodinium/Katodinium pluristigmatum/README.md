@@ -1,5 +1,4 @@
-Katodinium pluristigmatum P.H.Campbell, 1973 SPECIES
-=======
+# Katodinium pluristigmatum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phalostauris difractella (Nyl.) Clem. SPECIES
-=======
+# Phalostauris diffractella (Nyl.) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
-Verrucaria difractella Nyl.
+Verrucaria diffractella Nyl.
 
 ### Remarks
 null

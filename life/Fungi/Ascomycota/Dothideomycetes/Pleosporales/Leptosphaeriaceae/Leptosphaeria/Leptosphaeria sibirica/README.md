@@ -1,5 +1,4 @@
-Leptosphaeria sibirica Thüm. SPECIES
-=======
+# Leptosphaeria sibirica Thüm. SPECIES
 
 #### Status
 ACCEPTED

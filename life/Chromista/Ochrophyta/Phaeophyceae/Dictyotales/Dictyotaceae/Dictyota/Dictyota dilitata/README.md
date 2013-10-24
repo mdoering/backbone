@@ -1,5 +1,4 @@
-Dictyota dilitata Yamada SPECIES
-=======
+# Dictyota dilitata Yamada SPECIES
 
 #### Status
 ACCEPTED

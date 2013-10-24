@@ -1,5 +1,4 @@
-Perenniporia sprucei Decock & Ryvarden SPECIES
-=======
+# Perenniporia sprucei Decock & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

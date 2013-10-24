@@ -1,5 +1,4 @@
-Daturella stramonium Kofoid & Campbell, 1929 SPECIES
-=======
+# Daturella stramonium Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

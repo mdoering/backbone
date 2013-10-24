@@ -1,5 +1,4 @@
-Elasmomyces densus R. Heim SPECIES
-=======
+# Elasmomyces densus R. Heim SPECIES
 
 #### Status
 ACCEPTED

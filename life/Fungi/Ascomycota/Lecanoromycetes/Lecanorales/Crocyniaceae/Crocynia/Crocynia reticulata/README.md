@@ -1,5 +1,4 @@
-Crocynia reticulata Hue SPECIES
-=======
+# Crocynia reticulata Hue SPECIES
 
 #### Status
 ACCEPTED

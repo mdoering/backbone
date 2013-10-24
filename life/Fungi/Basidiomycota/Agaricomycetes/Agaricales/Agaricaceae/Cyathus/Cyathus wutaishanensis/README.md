@@ -1,5 +1,4 @@
-Cyathus wutaishanensis var. wutaishanensis VARIETY
-=======
+# Cyathus wutaishanensis B. Liu, Shangguan & P.G. Yuan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Mycol. Sin. 3(4): 196 (1984)
 
 #### Original name
-Cyathus wutaishanensis var. wutaishanensis
+Cyathus wutaishanensis B. Liu, Shangguan & P.G. Yuan
 
 ### Remarks
 null

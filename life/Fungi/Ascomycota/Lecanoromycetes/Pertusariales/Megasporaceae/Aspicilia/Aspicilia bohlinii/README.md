@@ -1,5 +1,4 @@
-Aspicilia bohlinii (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia bohlinii (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyplolabia oryzoides (Leight.) Kalb & Staiger SPECIES
-=======
+# Dyplolabia oryzoides (Leight.) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

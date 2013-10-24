@@ -1,5 +1,4 @@
-Laboulbenia flaccida Thaxt. SPECIES
-=======
+# Laboulbenia flaccida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

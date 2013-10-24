@@ -1,5 +1,4 @@
-Hyphoderma leoninum Burds. & Nakasone, 1983 SPECIES
-=======
+# Hyphoderma leoninum Burds. & Nakasone, 1983 SPECIES
 
 #### Status
 ACCEPTED

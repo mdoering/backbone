@@ -1,8 +1,7 @@
-Haplosporella juglandis Oudem. SPECIES
-=======
+# Haplosporella juglandina Sacc. & Sydow in Saccardo SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

@@ -1,5 +1,4 @@
-Monascus pubigerus K. Satô SPECIES
-=======
+# Monascus pubigerus K. Satô SPECIES
 
 #### Status
 ACCEPTED

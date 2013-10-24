@@ -1,5 +1,4 @@
-Phyllachora manuka P.R. Johnst. & P.F. Cannon, 2004 SPECIES
-=======
+# Phyllachora manuka P.R. Johnst. & P.F. Cannon, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena distoma-margaritifera SPECIES
-=======
+# Lagena distoma-margaritifera SPECIES
 
 #### Status
 ACCEPTED

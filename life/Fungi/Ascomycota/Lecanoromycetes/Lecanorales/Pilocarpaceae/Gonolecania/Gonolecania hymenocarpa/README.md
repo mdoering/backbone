@@ -1,5 +1,4 @@
-Gonolecania hymenocarpa (Vain.) Zahlbr. SPECIES
-=======
+# Gonolecania hymenocarpa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania dimorpha (A. Massal.) Zahlbr. SPECIES
-=======
+# Lecania dimorpha (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

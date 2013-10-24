@@ -1,5 +1,4 @@
-Peziza helvola Jungh. SPECIES
-=======
+# Peziza helvola Jungh. SPECIES
 
 #### Status
 ACCEPTED

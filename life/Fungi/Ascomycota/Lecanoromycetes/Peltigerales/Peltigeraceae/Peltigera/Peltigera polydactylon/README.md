@@ -1,17 +1,16 @@
-Peltigera polydactylon f. polydactylon FORM
-=======
+# Peltigera polydactylon (Neck.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. Adumb. Plant. Lich. 1: 19 (1790)
 
 #### Original name
-null
+Lichen polydactylus Neck.
 
 ### Remarks
 null

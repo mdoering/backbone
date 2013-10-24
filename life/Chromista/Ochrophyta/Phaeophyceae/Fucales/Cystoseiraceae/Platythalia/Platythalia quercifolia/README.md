@@ -1,8 +1,7 @@
-Stephanocystis quercifolia (R. Brown ex Turner) Trevisan SPECIES
-=======
+# Platythalia quercifolia (R.Brown ex Turner) Sonder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

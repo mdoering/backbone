@@ -1,5 +1,4 @@
-Schizoparme angustispora Samuels, M.E. Barr & Lowen SPECIES
-=======
+# Schizoparme angustispora Samuels, M.E. Barr & Lowen SPECIES
 
 #### Status
 ACCEPTED

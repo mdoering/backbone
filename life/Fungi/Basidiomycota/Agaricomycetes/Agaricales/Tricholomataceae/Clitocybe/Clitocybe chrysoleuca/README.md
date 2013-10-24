@@ -1,5 +1,4 @@
-Clitocybe chrysoleuca (Fr.) P. Kumm. SPECIES
-=======
+# Clitocybe chrysoleuca (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

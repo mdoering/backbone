@@ -1,5 +1,4 @@
-Minksia irregularis (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Minksia irregularis (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

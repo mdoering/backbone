@@ -1,5 +1,4 @@
-Tulostoma lysocephalum Long SPECIES
-=======
+# Tulostoma lysocephalum Long SPECIES
 
 #### Status
 ACCEPTED

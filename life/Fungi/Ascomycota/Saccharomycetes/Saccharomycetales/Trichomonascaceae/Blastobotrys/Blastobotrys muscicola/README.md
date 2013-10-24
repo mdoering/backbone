@@ -1,5 +1,4 @@
-Blastobotrys muscicola Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys muscicola Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

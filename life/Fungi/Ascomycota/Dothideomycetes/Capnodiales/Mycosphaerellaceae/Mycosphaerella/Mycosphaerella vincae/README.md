@@ -1,5 +1,4 @@
-Mycosphaerella vincae (Fr.) Feltgen SPECIES
-=======
+# Mycosphaerella vincae (Fr.) Feltgen SPECIES
 
 #### Status
 ACCEPTED

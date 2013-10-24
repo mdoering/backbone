@@ -1,5 +1,4 @@
-Dictyocysta reticulata Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta reticulata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria iresines Speg. SPECIES
-=======
+# Septoria iresines Speg. SPECIES
 
 #### Status
 ACCEPTED

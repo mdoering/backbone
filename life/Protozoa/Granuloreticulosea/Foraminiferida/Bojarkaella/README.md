@@ -1,5 +1,4 @@
-Bojarkaella GENUS
-=======
+# Bojarkaella GENUS
 
 #### Status
 ACCEPTED

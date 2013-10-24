@@ -1,5 +1,4 @@
-Septoria dichrocephalae Sawada SPECIES
-=======
+# Septoria dichrocephalae Sawada SPECIES
 
 #### Status
 ACCEPTED

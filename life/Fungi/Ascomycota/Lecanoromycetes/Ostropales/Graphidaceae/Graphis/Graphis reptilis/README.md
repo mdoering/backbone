@@ -1,5 +1,4 @@
-Graphis reptilis Nyl. SPECIES
-=======
+# Graphis reptilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

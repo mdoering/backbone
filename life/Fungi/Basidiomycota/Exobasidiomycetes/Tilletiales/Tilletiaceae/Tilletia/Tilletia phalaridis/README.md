@@ -1,5 +1,4 @@
-Tilletia phalaridis Hirschh. SPECIES
-=======
+# Tilletia phalaridis Hirschh. SPECIES
 
 #### Status
 ACCEPTED

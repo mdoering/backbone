@@ -1,5 +1,4 @@
-Rinodina pyriniformis H. Magn. SPECIES
-=======
+# Rinodina pyriniformis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

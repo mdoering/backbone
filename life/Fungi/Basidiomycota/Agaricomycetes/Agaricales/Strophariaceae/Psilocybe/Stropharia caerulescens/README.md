@@ -1,5 +1,4 @@
-Stropharia caerulescens S. Imai SPECIES
-=======
+# Stropharia caerulescens S. Imai SPECIES
 
 #### Status
 ACCEPTED

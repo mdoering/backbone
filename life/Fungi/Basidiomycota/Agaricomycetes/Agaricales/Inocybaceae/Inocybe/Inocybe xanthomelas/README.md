@@ -1,5 +1,4 @@
-Inocybe xanthomelas Boursier & Kühner, 1933 SPECIES
-=======
+# Inocybe xanthomelas Boursier & Kühner, 1933 SPECIES
 
 #### Status
 ACCEPTED

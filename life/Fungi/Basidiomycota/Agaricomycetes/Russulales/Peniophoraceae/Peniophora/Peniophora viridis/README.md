@@ -1,14 +1,13 @@
-Terana viridis (Preuss) Kuntze, 1891 SPECIES
-=======
+# Peniophora viridis (Preuss) Bres., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Hyménomyc. de France 295 (1928)
 
 #### Original name
 Thelephora viridis Preuss, 1851

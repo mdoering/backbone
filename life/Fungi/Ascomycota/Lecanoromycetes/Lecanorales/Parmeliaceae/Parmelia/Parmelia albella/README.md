@@ -1,5 +1,4 @@
-Parmelia albella (Pers.) Ach. SPECIES
-=======
+# Parmelia albella (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

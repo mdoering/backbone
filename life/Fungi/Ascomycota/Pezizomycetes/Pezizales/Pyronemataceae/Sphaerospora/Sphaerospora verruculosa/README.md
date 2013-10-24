@@ -1,5 +1,4 @@
-Sphaerospora verruculosa (Berk. & Broome) Sacc. SPECIES
-=======
+# Sphaerospora verruculosa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

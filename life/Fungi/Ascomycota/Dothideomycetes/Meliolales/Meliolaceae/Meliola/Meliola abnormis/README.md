@@ -1,5 +1,4 @@
-Meliola abnormis (Theiss.) Cif. SPECIES
-=======
+# Meliola abnormis (Theiss.) Cif. SPECIES
 
 #### Status
 ACCEPTED

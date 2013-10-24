@@ -1,5 +1,4 @@
-Stagonospora basiangustispora Matsush. SPECIES
-=======
+# Stagonospora basiangustispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria molokaiensis H. Magn. SPECIES
-=======
+# Pertusaria molokaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

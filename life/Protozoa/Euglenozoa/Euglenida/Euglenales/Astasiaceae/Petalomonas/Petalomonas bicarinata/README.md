@@ -1,5 +1,4 @@
-Petalomonas bicarinata Shawhan & Jahn SPECIES
-=======
+# Petalomonas bicarinata Shawhan & Jahn SPECIES
 
 #### Status
 ACCEPTED

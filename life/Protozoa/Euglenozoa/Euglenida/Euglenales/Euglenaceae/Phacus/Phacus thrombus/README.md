@@ -1,5 +1,4 @@
-Phacus thrombus var. minor Hortobagy VARIETY
-=======
+# Phacus thrombus Pochmann SPECIES
 
 #### Status
 ACCEPTED

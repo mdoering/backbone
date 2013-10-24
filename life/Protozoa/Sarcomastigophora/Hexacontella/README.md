@@ -1,5 +1,4 @@
-Hexacontella Haeckel, 1887 GENUS
-=======
+# Hexacontella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

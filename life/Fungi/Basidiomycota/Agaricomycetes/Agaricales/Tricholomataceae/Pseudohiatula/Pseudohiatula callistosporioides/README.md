@@ -1,17 +1,16 @@
-Pseudohiatula callistosporoides Singer SPECIES
-=======
+# Pseudohiatula callistosporioides Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 15: 59 (1962)
 
 #### Original name
-Pseudohiatula callistosporoides Singer
+Pseudohiatula callistosporioides Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Metopus daphnides Jankowski, 1964 SPECIES
-=======
+# Metopus daphnides Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

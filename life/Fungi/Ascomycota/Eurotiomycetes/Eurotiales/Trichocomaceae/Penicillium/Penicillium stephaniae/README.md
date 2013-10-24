@@ -1,5 +1,4 @@
-Penicillium stephaniae K.M. Zalessky SPECIES
-=======
+# Penicillium stephaniae K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

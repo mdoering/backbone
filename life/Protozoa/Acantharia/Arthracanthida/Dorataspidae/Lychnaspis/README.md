@@ -1,14 +1,13 @@
-Lynchnaspis Popofsky, 1906 GENUS
-=======
+# Lychnaspis Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ergeb. Plankton-Exp. , 3, Lf. ß, 9.
+Jena. Z. , 15, 468.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Marginotricha faurei (Dragesco, 1963) SPECIES
-=======
+# Marginotricha faurei (Dragesco, 1963) SPECIES
 
 #### Status
 ACCEPTED

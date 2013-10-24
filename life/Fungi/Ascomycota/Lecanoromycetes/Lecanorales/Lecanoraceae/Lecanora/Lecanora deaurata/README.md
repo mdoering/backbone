@@ -1,5 +1,4 @@
-Lecanora deaurata (Hoffm.) Röhl. SPECIES
-=======
+# Lecanora deaurata (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta recedens Groenh. SPECIES
-=======
+# Gyalecta recedens Groenh. SPECIES
 
 #### Status
 ACCEPTED

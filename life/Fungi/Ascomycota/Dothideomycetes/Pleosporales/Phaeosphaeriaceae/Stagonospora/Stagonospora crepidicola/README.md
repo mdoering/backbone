@@ -1,5 +1,4 @@
-Stagonospora crepidicola Petr. SPECIES
-=======
+# Stagonospora crepidicola Petr. SPECIES
 
 #### Status
 ACCEPTED

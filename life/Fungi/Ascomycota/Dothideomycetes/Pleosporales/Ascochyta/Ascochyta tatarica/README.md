@@ -1,5 +1,4 @@
-Ascochyta tatarica Allesch. SPECIES
-=======
+# Ascochyta tatarica Allesch. SPECIES
 
 #### Status
 ACCEPTED

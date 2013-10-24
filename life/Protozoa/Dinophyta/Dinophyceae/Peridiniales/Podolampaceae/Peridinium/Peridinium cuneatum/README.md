@@ -1,5 +1,4 @@
-Peridinium cuneatum van Goor, 1925 SPECIES
-=======
+# Peridinium cuneatum van Goor, 1925 SPECIES
 
 #### Status
 ACCEPTED

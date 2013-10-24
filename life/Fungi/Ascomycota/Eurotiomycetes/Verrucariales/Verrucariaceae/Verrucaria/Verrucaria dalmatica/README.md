@@ -1,5 +1,4 @@
-Verrucaria dalmatica Servít SPECIES
-=======
+# Verrucaria dalmatica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaerella vaga (Niessl) O.E. Erikss. SPECIES
-=======
+# Amphisphaerella vaga (Niessl) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

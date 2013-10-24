@@ -1,5 +1,4 @@
-Morchella hiemalis (Balb.) Fr. SPECIES
-=======
+# Morchella hiemalis (Balb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

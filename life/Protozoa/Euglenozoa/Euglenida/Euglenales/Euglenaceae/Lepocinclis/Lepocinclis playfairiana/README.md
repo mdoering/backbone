@@ -1,5 +1,4 @@
-Lepocinclis playfairiana Deflandre SPECIES
-=======
+# Lepocinclis playfairiana Deflandre SPECIES
 
 #### Status
 ACCEPTED

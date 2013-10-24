@@ -1,5 +1,4 @@
-Septoria menyanthis Desm., 1853 SPECIES
-=======
+# Septoria menyanthis Desm., 1853 SPECIES
 
 #### Status
 ACCEPTED

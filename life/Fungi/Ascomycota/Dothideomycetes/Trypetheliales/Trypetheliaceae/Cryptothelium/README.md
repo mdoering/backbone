@@ -1,5 +1,4 @@
-Cryptothelium GENUS
-=======
+# Cryptothelium GENUS
 
 #### Status
 ACCEPTED

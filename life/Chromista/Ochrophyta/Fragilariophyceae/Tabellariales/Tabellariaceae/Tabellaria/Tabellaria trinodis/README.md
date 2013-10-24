@@ -1,5 +1,4 @@
-Tabellaria trinodis Ehrenberg SPECIES
-=======
+# Tabellaria trinodis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

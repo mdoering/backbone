@@ -1,5 +1,4 @@
-Graphis asteriformis Zahlbr. SPECIES
-=======
+# Graphis asteriformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

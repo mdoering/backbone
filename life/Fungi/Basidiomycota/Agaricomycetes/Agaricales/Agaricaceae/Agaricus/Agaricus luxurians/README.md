@@ -1,5 +1,4 @@
-Agaricus luxurians Batsch SPECIES
-=======
+# Agaricus luxurians Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia albida C. Knight SPECIES
-=======
+# Arthonia albida C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovistella karsteni Nyberg SPECIES
-=======
+# Bovistella karsteni Nyberg SPECIES
 
 #### Status
 ACCEPTED

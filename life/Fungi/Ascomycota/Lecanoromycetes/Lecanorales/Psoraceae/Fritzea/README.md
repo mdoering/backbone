@@ -1,5 +1,4 @@
-Fritzea B. Stein GENUS
-=======
+# Fritzea B. Stein GENUS
 
 #### Status
 ACCEPTED

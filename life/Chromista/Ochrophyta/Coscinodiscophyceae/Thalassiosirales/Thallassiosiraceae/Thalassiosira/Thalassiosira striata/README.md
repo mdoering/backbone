@@ -1,5 +1,4 @@
-Thalassiosira striata D. M. Harwood & T. Maruyama SPECIES
-=======
+# Thalassiosira striata D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

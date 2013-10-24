@@ -1,14 +1,13 @@
-Polyporus crocitinctus Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Inonotus crocitinctus (Berk. & M.A. Curtis) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 45): 311 (1868)
+Norw. Jl Bot. 19: 232 (1972)
 
 #### Original name
 Polyporus crocitinctus Berk. & M.A. Curtis, 1868

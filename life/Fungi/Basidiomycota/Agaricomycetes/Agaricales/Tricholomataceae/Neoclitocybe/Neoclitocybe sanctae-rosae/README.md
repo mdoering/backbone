@@ -1,5 +1,4 @@
-Neoclitocybe sanctae-rosae Singer SPECIES
-=======
+# Neoclitocybe sanctae-rosae Singer SPECIES
 
 #### Status
 ACCEPTED

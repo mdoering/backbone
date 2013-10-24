@@ -1,5 +1,4 @@
-Xylaria berteri (Mont.) Cooke SPECIES
-=======
+# Xylaria berteri (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

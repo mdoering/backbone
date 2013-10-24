@@ -1,5 +1,4 @@
-Striatotheca randomense Parsons & Anderson, 2000 SPECIES
-=======
+# Striatotheca randomense Parsons & Anderson, 2000 SPECIES
 
 #### Status
 ACCEPTED

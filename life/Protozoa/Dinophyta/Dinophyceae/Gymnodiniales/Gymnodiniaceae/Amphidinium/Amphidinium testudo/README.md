@@ -1,5 +1,4 @@
-Amphidinium testudo Herdman SPECIES
-=======
+# Amphidinium testudo Herdman SPECIES
 
 #### Status
 ACCEPTED

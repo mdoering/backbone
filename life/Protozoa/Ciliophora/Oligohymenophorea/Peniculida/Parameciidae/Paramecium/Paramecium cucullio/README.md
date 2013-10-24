@@ -1,5 +1,4 @@
-Paramecium cucullio Quennerstedt, 1867 SPECIES
-=======
+# Paramecium cucullio Quennerstedt, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ustilago serena Syd., 1937 SPECIES
-=======
+# Tranzscheliella serena (Syd.) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 24 (1937)
+Mycotaxon 89(1): 109 (2004)
 
 #### Original name
 Ustilago serena Syd., 1937

@@ -1,5 +1,4 @@
-Discosia pyri Koshk. SPECIES
-=======
+# Discosia pyri Koshk. SPECIES
 
 #### Status
 ACCEPTED

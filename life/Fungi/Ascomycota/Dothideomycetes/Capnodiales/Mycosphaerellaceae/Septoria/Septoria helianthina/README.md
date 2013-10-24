@@ -1,5 +1,4 @@
-Septoria helianthina M. Petrov & Arsen. SPECIES
-=======
+# Septoria helianthina M. Petrov & Arsen. SPECIES
 
 #### Status
 ACCEPTED

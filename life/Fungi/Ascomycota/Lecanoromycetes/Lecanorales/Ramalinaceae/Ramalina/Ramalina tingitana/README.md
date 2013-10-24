@@ -1,5 +1,4 @@
-Ramalina tingitana Salzm. SPECIES
-=======
+# Ramalina tingitana Salzm. SPECIES
 
 #### Status
 ACCEPTED

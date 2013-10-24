@@ -1,5 +1,4 @@
-Amylocorticium canadense (Burt) J. Erikss. & Weresub, 1974 SPECIES
-=======
+# Amylocorticium canadense (Burt) J. Erikss. & Weresub, 1974 SPECIES
 
 #### Status
 ACCEPTED

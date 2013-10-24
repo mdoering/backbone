@@ -1,5 +1,4 @@
-Ustilago australis Cooke SPECIES
-=======
+# Ustilago australis Cooke SPECIES
 
 #### Status
 ACCEPTED

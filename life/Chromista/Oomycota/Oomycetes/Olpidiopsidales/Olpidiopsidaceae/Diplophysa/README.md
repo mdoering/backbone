@@ -1,5 +1,4 @@
-Diplophysa GENUS
-=======
+# Diplophysa GENUS
 
 #### Status
 ACCEPTED

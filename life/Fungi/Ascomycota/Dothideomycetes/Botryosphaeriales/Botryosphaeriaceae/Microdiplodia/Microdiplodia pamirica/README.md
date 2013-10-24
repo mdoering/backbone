@@ -1,5 +1,4 @@
-Microdiplodia pamirica (Golovin) Frolov SPECIES
-=======
+# Microdiplodia pamirica (Golovin) Frolov SPECIES
 
 #### Status
 ACCEPTED

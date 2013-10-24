@@ -1,5 +1,4 @@
-Psorella GENUS
-=======
+# Psorella GENUS
 
 #### Status
 ACCEPTED

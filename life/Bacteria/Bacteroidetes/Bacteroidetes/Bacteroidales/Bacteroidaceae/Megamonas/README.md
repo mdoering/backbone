@@ -1,5 +1,4 @@
-Megamonas Shah & Collins, 1983 GENUS
-=======
+# Megamonas Shah & Collins, 1983 GENUS
 
 #### Status
 ACCEPTED

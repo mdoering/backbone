@@ -1,5 +1,4 @@
-Ectocarpus dellowianus Lindauer SPECIES
-=======
+# Ectocarpus dellowianus Lindauer SPECIES
 
 #### Status
 ACCEPTED

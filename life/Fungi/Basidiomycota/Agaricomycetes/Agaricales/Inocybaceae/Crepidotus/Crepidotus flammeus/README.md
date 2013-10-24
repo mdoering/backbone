@@ -1,5 +1,4 @@
-Crepidotus flammeus Murrill SPECIES
-=======
+# Crepidotus flammeus Murrill SPECIES
 
 #### Status
 ACCEPTED

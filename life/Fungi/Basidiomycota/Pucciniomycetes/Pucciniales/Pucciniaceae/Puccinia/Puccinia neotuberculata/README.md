@@ -1,5 +1,4 @@
-Puccinia neotuberculata G.F. Laundon SPECIES
-=======
+# Puccinia neotuberculata G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma fridolfingense Noordel. & Lohmeyer SPECIES
-=======
+# Entoloma fridolfingense Noordel. & Lohmeyer SPECIES
 
 #### Status
 ACCEPTED

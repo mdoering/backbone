@@ -1,5 +1,4 @@
-Tansinius Filipescu & Hanganu, 1960 GENUS
-=======
+# Tansinius Filipescu & Hanganu, 1960 GENUS
 
 #### Status
 ACCEPTED

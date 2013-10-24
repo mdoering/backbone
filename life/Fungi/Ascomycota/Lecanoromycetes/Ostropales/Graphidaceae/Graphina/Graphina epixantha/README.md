@@ -1,5 +1,4 @@
-Graphina epixantha (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Graphina epixantha (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia rufescens (Kanouse) Dumont SPECIES
-=======
+# Lanzia rufescens (Kanouse) Dumont SPECIES
 
 #### Status
 ACCEPTED

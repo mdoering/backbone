@@ -1,5 +1,4 @@
-Earlmyersia Rhumbler, 1938 GENUS
-=======
+# Earlmyersia Rhumbler, 1938 GENUS
 
 #### Status
 ACCEPTED

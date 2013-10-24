@@ -1,5 +1,4 @@
-Pezizella cuprea Kirschst. SPECIES
-=======
+# Pezizella cuprea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

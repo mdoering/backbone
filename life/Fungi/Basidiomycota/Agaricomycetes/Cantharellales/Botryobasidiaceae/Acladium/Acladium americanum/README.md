@@ -1,5 +1,4 @@
-Acladium americanum (Gammel) M. Ota SPECIES
-=======
+# Acladium americanum (Gammel) M. Ota SPECIES
 
 #### Status
 ACCEPTED

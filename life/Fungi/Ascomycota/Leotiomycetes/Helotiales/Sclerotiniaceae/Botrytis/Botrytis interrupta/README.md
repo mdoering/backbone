@@ -1,5 +1,4 @@
-Botrytis interrupta Fr. SPECIES
-=======
+# Botrytis interrupta Fr. SPECIES
 
 #### Status
 ACCEPTED

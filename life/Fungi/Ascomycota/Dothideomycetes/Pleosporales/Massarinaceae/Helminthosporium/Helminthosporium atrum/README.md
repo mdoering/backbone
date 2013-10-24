@@ -1,5 +1,4 @@
-Helminthosporium atrum (Corda) Sacc. SPECIES
-=======
+# Helminthosporium atrum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

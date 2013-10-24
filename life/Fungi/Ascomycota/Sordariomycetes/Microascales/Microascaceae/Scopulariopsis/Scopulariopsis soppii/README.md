@@ -1,5 +1,4 @@
-Scopulariopsis soppii S.P. Abbott SPECIES
-=======
+# Scopulariopsis soppii S.P. Abbott SPECIES
 
 #### Status
 ACCEPTED

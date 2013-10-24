@@ -1,5 +1,4 @@
-Puccinia epimedii Miyabe & S. Ito SPECIES
-=======
+# Puccinia epimedii Miyabe & S. Ito SPECIES
 
 #### Status
 ACCEPTED

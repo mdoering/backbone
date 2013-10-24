@@ -1,17 +1,16 @@
-Mycena olivaceomarginata f. contraria (Arnolds) Maas Geest. FORM
-=======
+# Mycena olivaceomarginata (Massee) Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 89(3): 297 (1986)
+Brit. Fung. -Fl. 3: 116 (1893)
 
 #### Original name
-Mycena avenacea var. contraria Arnolds
+Agaricus olivaceomarginatus Massee, 1890
 
 ### Remarks
 null

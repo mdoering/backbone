@@ -1,5 +1,4 @@
-Streptomyces crystallinus Tresner et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces crystallinus Tresner et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

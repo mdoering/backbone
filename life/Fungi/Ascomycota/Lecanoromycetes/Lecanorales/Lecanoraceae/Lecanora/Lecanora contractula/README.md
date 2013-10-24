@@ -1,5 +1,4 @@
-Lecanora contractula Nyl. SPECIES
-=======
+# Lecanora contractula Nyl. SPECIES
 
 #### Status
 ACCEPTED

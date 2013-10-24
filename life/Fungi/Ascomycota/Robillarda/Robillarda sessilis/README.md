@@ -1,14 +1,13 @@
-Pestalotia sessilis Sacc., 1910 SPECIES
-=======
+# Robillarda sessilis (Sacc.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 6): 8 (1880)
 
 #### Original name
 Pestalotia sessilis Sacc., 1910

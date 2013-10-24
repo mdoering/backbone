@@ -1,5 +1,4 @@
-Cladonia archeri S. Stenroos SPECIES
-=======
+# Cladonia archeri S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

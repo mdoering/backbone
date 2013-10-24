@@ -1,5 +1,4 @@
-Flammula granulosa Velen. SPECIES
-=======
+# Flammula granulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

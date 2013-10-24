@@ -1,5 +1,4 @@
-Miosorites Seiglie & Grove in Seiglie, Grove & Rivera, 1977 GENUS
-=======
+# Miosorites Seiglie & Grove in Seiglie, Grove & Rivera, 1977 GENUS
 
 #### Status
 ACCEPTED

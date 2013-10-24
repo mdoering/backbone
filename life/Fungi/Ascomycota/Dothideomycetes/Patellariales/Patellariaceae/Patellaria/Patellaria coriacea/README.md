@@ -1,5 +1,4 @@
-Patellaria coriacea (Buliard) Fr. SPECIES
-=======
+# Patellaria coriacea (Buliard) Fr. SPECIES
 
 #### Status
 ACCEPTED

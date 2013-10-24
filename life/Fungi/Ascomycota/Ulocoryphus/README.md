@@ -1,5 +1,4 @@
-Ulocoryphus Michaelides, L. Hunter & W.B. Kendr. GENUS
-=======
+# Ulocoryphus Michaelides, L. Hunter & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia lithoteoides SPECIES
-=======
+# Physcia lithoteoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius violaceomaculatus Brandrud SPECIES
-=======
+# Cortinarius violaceomaculatus Brandrud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula alta Pers. SPECIES
-=======
+# Torula alta Pers. SPECIES
 
 #### Status
 ACCEPTED

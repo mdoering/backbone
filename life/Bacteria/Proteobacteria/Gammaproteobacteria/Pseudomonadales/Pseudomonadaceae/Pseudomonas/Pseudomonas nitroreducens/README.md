@@ -1,5 +1,4 @@
-Pseudomonas nitroreducens Iizuka and Komagata, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas nitroreducens Iizuka and Komagata, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

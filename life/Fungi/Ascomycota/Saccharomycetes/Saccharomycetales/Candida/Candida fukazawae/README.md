@@ -1,5 +1,4 @@
-Candida fukazawae Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
-=======
+# Candida fukazawae Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
 
 #### Status
 ACCEPTED

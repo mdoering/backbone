@@ -1,5 +1,4 @@
-Gloeosporium arvense Sacc. & Penz. SPECIES
-=======
+# Gloeosporium arvense Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

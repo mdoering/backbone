@@ -1,5 +1,4 @@
-Thalassomonas Macián et al., 2001 GENUS
-=======
+# Thalassomonas Macián et al., 2001 GENUS
 
 #### Status
 ACCEPTED

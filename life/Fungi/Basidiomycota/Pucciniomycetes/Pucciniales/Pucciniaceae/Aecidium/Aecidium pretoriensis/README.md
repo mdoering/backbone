@@ -1,17 +1,16 @@
-Aecidium pretoriense Doidge SPECIES
-=======
+# Aecidium pretoriensis Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 2: 174, 211 (1927)
 
 #### Original name
-Aecidium pretoriense Doidge
+Aecidium pretoriensis Doidge
 
 ### Remarks
 null

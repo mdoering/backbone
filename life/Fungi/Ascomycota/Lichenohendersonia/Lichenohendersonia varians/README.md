@@ -1,5 +1,4 @@
-Lichenohendersonia varians Calat. & Etayo, 2001 SPECIES
-=======
+# Lichenohendersonia varians Calat. & Etayo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arthonia vinosa var. vinosa Leight. VARIETY
-=======
+# Arthonia vinosa Leight. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 18: 331 (1856)
 
 #### Original name
-Arthonia vinosa var. vinosa Leight.
+Arthonia vinosa Leight.
 
 ### Remarks
 null

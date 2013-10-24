@@ -1,5 +1,4 @@
-Septoria alabamensis G.F. Atk. SPECIES
-=======
+# Septoria alabamensis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

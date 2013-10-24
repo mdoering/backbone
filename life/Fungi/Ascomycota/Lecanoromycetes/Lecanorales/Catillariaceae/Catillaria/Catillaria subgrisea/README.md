@@ -1,5 +1,4 @@
-Catillaria subgrisea (Nyl.) Flagey SPECIES
-=======
+# Catillaria subgrisea (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

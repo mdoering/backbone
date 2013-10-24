@@ -1,5 +1,4 @@
-Boletus longicurvipes Snell & A.H. Sm. SPECIES
-=======
+# Boletus longicurvipes Snell & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

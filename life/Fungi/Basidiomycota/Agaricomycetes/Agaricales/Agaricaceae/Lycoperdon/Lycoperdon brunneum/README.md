@@ -1,5 +1,4 @@
-Lycoperdon brunneum Secr. SPECIES
-=======
+# Lycoperdon brunneum Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Preussia globosa (J.N. Rai & J.P. Tewari) J.N. Rai & J.P. Tewari, 1963 SPECIES
-=======
+# Preussia globosa (J.N. Rai & J.P. Tewari) J.N. Rai & J.P. Tewari, 1963 SPECIES
 
 #### Status
 ACCEPTED

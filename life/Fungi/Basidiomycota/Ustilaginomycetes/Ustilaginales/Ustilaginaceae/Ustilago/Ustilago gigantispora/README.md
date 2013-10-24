@@ -1,5 +1,4 @@
-Ustilago gigantispora Speg. SPECIES
-=======
+# Ustilago gigantispora Speg. SPECIES
 
 #### Status
 ACCEPTED

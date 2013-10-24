@@ -1,5 +1,4 @@
-Stereum amoenum Kalchbr. & MacOwan SPECIES
-=======
+# Stereum amoenum Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

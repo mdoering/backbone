@@ -1,5 +1,4 @@
-Perenniporia stipitata Ryvarden, 1987 SPECIES
-=======
+# Perenniporia stipitata Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia roscoeae Barclay SPECIES
-=======
+# Puccinia roscoeae Barclay SPECIES
 
 #### Status
 ACCEPTED

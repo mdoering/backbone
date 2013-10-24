@@ -1,5 +1,4 @@
-Coniothyrium berberidis Fautrey SPECIES
-=======
+# Coniothyrium berberidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

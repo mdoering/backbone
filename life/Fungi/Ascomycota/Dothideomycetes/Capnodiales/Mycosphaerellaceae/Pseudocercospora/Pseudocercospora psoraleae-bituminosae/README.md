@@ -1,5 +1,4 @@
-Pseudocercospora psoraleae-bituminosae (Savul. & Sandu) Sarbajna SPECIES
-=======
+# Pseudocercospora psoraleae-bituminosae (Savul. & Sandu) Sarbajna SPECIES
 
 #### Status
 ACCEPTED

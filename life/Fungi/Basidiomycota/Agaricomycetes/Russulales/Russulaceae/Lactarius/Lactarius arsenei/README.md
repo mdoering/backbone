@@ -1,17 +1,16 @@
-Lactarius arsenii R. Heim SPECIES
-=======
+# Lactarius arsenei R. Heim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Candollea 7: 380 (1938)
 
 #### Original name
-Lactarius arsenii R. Heim
+Lactarius arsenei R. Heim
 
 ### Remarks
 null

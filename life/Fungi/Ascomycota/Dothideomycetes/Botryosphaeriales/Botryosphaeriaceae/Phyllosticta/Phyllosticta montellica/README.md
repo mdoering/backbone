@@ -1,5 +1,4 @@
-Phyllosticta montellica Sacc. SPECIES
-=======
+# Phyllosticta montellica Sacc. SPECIES
 
 #### Status
 ACCEPTED

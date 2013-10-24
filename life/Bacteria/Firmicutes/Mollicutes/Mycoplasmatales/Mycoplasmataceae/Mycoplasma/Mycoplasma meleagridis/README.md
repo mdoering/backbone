@@ -1,5 +1,4 @@
-Mycoplasma meleagridis Yamamoto et al., 1965 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma meleagridis Yamamoto et al., 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

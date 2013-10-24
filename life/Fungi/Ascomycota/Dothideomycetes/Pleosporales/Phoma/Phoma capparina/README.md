@@ -1,17 +1,16 @@
-Phoma capparidina Pass. SPECIES
-=======
+# Phoma capparina Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Diagn. di Funghi Nuovi 4: no. 67 (1890)
 
 #### Original name
-Phoma capparidina Pass.
+Phoma capparina Pass.
 
 ### Remarks
 null

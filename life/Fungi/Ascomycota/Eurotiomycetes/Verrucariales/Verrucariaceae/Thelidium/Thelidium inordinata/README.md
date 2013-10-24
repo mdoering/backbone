@@ -1,5 +1,4 @@
-Thelidium inordinata (Servít) SPECIES
-=======
+# Thelidium inordinata (Servít) SPECIES
 
 #### Status
 ACCEPTED

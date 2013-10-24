@@ -1,5 +1,4 @@
-Arthonia infectans Egea & Torrente SPECIES
-=======
+# Arthonia infectans Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

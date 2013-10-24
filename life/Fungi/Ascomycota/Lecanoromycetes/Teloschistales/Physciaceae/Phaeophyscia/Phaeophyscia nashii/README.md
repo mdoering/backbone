@@ -1,5 +1,4 @@
-Phaeophyscia nashii Essl. SPECIES
-=======
+# Phaeophyscia nashii Essl. SPECIES
 
 #### Status
 ACCEPTED

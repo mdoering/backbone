@@ -1,5 +1,4 @@
-Lecidea comparanda Nyl. SPECIES
-=======
+# Lecidea comparanda Nyl. SPECIES
 
 #### Status
 ACCEPTED

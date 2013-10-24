@@ -1,17 +1,16 @@
-Trichia nitens var. aurea Pers. VARIETY
-=======
+# Trichia scabra Rostaf., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 62 (1796)
+Sluzowce monogr. (Paryz) 258 (1875)
 
 #### Original name
-Trichia nitens var. aurea Pers.
+Trichia scabra Rostaf., 1875
 
 ### Remarks
 null

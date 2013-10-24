@@ -1,5 +1,4 @@
-Cortinarius bonamei Rob. Henry SPECIES
-=======
+# Cortinarius bonamei Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora cauligena (Sacc.) Kuntze SPECIES
-=======
+# Filaspora cauligena (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

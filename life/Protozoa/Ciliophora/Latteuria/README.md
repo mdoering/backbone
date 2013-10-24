@@ -1,5 +1,4 @@
-Latteuria Timoshenko & Imai, 1997 GENUS
-=======
+# Latteuria Timoshenko & Imai, 1997 GENUS
 
 #### Status
 ACCEPTED

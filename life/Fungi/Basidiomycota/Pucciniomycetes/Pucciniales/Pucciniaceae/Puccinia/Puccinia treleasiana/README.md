@@ -1,5 +1,4 @@
-Puccinia treleasiana Pazschke SPECIES
-=======
+# Puccinia treleasiana Pazschke SPECIES
 
 #### Status
 ACCEPTED

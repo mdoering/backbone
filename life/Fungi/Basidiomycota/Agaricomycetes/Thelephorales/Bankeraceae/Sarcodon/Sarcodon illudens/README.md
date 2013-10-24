@@ -1,5 +1,4 @@
-Sarcodon illudens Maas Geest., 1976 SPECIES
-=======
+# Sarcodon illudens Maas Geest., 1976 SPECIES
 
 #### Status
 ACCEPTED

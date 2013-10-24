@@ -1,5 +1,4 @@
-Cortinarius splendidior Bidaud SPECIES
-=======
+# Cortinarius splendidior Bidaud SPECIES
 
 #### Status
 ACCEPTED

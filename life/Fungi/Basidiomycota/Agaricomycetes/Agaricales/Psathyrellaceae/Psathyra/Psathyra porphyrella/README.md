@@ -1,5 +1,4 @@
-Psathyra porphyrella (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra porphyrella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

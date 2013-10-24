@@ -1,5 +1,4 @@
-Dimeromyces strongylii Thaxt. SPECIES
-=======
+# Dimeromyces strongylii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

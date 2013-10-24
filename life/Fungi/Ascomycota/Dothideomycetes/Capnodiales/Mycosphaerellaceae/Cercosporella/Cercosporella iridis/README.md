@@ -1,5 +1,4 @@
-Cercosporella iridis Annal. SPECIES
-=======
+# Cercosporella iridis Annal. SPECIES
 
 #### Status
 ACCEPTED

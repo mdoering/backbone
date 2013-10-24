@@ -1,5 +1,4 @@
-Pichia nakhonphanomensis Limtong, Yongman., H. Kawas. & Tats. Seki SPECIES
-=======
+# Pichia nakhonphanomensis Limtong, Yongman., H. Kawas. & Tats. Seki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegolerium kukenani Strobel, W.M. Hess & E.J. Ford, 2001 SPECIES
-=======
+# Stegolerium kukenani Strobel, W.M. Hess & E.J. Ford, 2001 SPECIES
 
 #### Status
 ACCEPTED

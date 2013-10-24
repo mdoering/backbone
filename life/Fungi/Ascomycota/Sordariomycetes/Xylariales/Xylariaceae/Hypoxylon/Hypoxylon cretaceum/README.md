@@ -1,5 +1,4 @@
-Hypoxylon cretaceum Berk. & Broome SPECIES
-=======
+# Hypoxylon cretaceum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

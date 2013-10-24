@@ -1,5 +1,4 @@
-Amanita permunda (Britzelm.) Sacc. SPECIES
-=======
+# Amanita permunda (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymaria rumicis Baudy SPECIES
-=======
+# Didymaria rumicis Baudy SPECIES
 
 #### Status
 ACCEPTED

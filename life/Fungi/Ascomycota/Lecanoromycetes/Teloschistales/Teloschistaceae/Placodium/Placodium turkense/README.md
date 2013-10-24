@@ -1,5 +1,4 @@
-Placodium turkense Vain. SPECIES
-=======
+# Placodium turkense Vain. SPECIES
 
 #### Status
 ACCEPTED

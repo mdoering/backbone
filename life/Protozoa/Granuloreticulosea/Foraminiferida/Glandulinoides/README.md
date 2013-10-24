@@ -1,5 +1,4 @@
-Glandulinoides Hu in He & Hu, 1977 GENUS
-=======
+# Glandulinoides Hu in He & Hu, 1977 GENUS
 
 #### Status
 ACCEPTED

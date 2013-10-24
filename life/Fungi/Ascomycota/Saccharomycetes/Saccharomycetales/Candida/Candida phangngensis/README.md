@@ -1,5 +1,4 @@
-Candida phangngensis Limtong, Yongman., H. Kawas. & T. Seki SPECIES
-=======
+# Candida phangngensis Limtong, Yongman., H. Kawas. & T. Seki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhexophiale Th. Fr. GENUS
-=======
+# Sagiolechia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Arctoi 304 (1860)
+Geneac. Lich. 11 (1854)
 
 #### Original name
-Rhexophiale Th. Fr.
+Sagiolechia A. Massal.
 
 ### Remarks
 null

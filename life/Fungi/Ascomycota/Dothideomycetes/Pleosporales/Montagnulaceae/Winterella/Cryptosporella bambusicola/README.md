@@ -1,5 +1,4 @@
-Cryptosporella bambusicola I. Hino & Katum. SPECIES
-=======
+# Cryptosporella bambusicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia skottsbergii C.W. Dodge SPECIES
-=======
+# Bacidia skottsbergii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

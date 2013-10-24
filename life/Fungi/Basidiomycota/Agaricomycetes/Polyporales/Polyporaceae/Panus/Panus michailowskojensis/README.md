@@ -1,8 +1,7 @@
-Panus michailowskoensis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Panus michailowskojensis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

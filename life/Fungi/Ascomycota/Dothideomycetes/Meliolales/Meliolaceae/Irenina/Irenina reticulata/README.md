@@ -1,5 +1,4 @@
-Irenina reticulata (P. Karst. & Roum.) F. Stevens SPECIES
-=======
+# Irenina reticulata (P. Karst. & Roum.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

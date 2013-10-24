@@ -1,5 +1,4 @@
-Laboulbenia palustris Speg. SPECIES
-=======
+# Laboulbenia palustris Speg. SPECIES
 
 #### Status
 ACCEPTED

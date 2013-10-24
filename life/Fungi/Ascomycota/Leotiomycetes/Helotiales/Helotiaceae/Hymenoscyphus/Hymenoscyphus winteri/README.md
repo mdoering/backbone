@@ -1,5 +1,4 @@
-Hymenoscyphus winteri (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus winteri (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

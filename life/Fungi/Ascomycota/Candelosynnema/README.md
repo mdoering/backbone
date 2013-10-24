@@ -1,5 +1,4 @@
-Candelosynnema K.D. Hyde & Seifert GENUS
-=======
+# Candelosynnema K.D. Hyde & Seifert GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia malbrancheana Sacc. SPECIES
-=======
+# Laestadia malbrancheana Sacc. SPECIES
 
 #### Status
 ACCEPTED

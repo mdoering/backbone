@@ -1,5 +1,4 @@
-Smittium annulatum Lichtw., 1998 SPECIES
-=======
+# Smittium annulatum Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

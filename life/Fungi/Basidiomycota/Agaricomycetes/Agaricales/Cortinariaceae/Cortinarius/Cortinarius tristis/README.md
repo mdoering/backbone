@@ -1,5 +1,4 @@
-Cortinarius tristis E. Horak SPECIES
-=======
+# Cortinarius tristis E. Horak SPECIES
 
 #### Status
 ACCEPTED

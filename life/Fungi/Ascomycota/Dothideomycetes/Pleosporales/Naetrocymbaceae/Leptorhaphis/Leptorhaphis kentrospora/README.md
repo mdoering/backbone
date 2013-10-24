@@ -1,5 +1,4 @@
-Leptorhaphis kentrospora (Branth) Zahlbr. SPECIES
-=======
+# Leptorhaphis kentrospora (Branth) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

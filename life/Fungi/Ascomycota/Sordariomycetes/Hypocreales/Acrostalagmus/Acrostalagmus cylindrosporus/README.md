@@ -1,5 +1,4 @@
-Acrostalagmus cylindrosporus Preuss SPECIES
-=======
+# Acrostalagmus cylindrosporus Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatosporidae FAMILY
-=======
+# Striatosporidae FAMILY
 
 #### Status
 ACCEPTED

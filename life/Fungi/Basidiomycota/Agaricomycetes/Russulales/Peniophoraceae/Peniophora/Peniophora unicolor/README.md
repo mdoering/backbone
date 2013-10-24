@@ -1,5 +1,4 @@
-Peniophora unicolor Peck SPECIES
-=======
+# Peniophora unicolor Peck SPECIES
 
 #### Status
 ACCEPTED

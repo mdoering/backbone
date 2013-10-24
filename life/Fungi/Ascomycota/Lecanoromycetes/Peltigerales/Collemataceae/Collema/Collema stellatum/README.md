@@ -1,5 +1,4 @@
-Collema stellatum Tuck. SPECIES
-=======
+# Collema stellatum Tuck. SPECIES
 
 #### Status
 ACCEPTED

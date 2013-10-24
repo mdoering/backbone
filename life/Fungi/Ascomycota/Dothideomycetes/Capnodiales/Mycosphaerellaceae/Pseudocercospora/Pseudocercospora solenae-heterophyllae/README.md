@@ -1,5 +1,4 @@
-Pseudocercospora solenae-heterophyllae (R.K. Verma & Kamal) U. Braun SPECIES
-=======
+# Pseudocercospora solenae-heterophyllae (R.K. Verma & Kamal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

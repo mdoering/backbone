@@ -1,5 +1,4 @@
-Leptosphaeria luxemburgensis var. luxemburgensis VARIETY
-=======
+# Leptosphaeria luxemburgensis Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria luxemburgensis var. luxemburgensis
+Leptosphaeria luxemburgensis Sacc. & D. Sacc.
 
 ### Remarks
 null

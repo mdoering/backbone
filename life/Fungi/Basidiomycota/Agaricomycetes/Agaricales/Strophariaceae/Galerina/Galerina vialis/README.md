@@ -1,5 +1,4 @@
-Galerina vialis A.H. Sm. SPECIES
-=======
+# Galerina vialis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

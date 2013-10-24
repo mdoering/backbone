@@ -1,5 +1,4 @@
-Coenogonium heterotrichum Müll. Arg. SPECIES
-=======
+# Coenogonium heterotrichum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

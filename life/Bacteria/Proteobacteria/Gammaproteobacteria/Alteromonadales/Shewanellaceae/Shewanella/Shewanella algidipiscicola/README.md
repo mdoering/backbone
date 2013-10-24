@@ -1,5 +1,4 @@
-Shewanella algidipiscicola Satomi, Vogel, Venkateswaran & Gram, 2007 SPECIES
-=======
+# Shewanella algidipiscicola Satomi, Vogel, Venkateswaran & Gram, 2007 SPECIES
 
 #### Status
 ACCEPTED

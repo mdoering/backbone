@@ -1,5 +1,4 @@
-Puccinia prenanthis-racemosae Syd. SPECIES
-=======
+# Puccinia prenanthis-racemosae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria neocaledonica B. de Lesd. SPECIES
-=======
+# Pannaria neocaledonica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora viridis SPECIES
-=======
+# Phyllopsora viridis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon globosum H. Harada & Li S. Wang SPECIES
-=======
+# Endocarpon globosum H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

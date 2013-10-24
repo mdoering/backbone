@@ -1,5 +1,4 @@
-Desulfonatronovibrio hydrogenovorans Zhilina et al., 1997 SPECIES
-=======
+# Desulfonatronovibrio hydrogenovorans Zhilina et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

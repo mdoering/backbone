@@ -1,5 +1,4 @@
-Hemidothis pittieri Syd., 1930 SPECIES
-=======
+# Hemidothis pittieri Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

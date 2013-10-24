@@ -1,5 +1,4 @@
-Plectonema africanum Borge SPECIES
-=======
+# Plectonema africanum Borge SPECIES
 
 #### Status
 ACCEPTED

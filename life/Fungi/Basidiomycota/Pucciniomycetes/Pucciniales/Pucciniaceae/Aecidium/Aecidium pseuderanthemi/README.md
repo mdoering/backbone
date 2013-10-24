@@ -1,5 +1,4 @@
-Aecidium pseuderanthemi Syd. SPECIES
-=======
+# Aecidium pseuderanthemi Syd. SPECIES
 
 #### Status
 ACCEPTED

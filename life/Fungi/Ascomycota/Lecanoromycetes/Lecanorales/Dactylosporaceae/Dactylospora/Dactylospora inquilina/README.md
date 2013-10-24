@@ -1,5 +1,4 @@
-Dactylospora inquilina (Tuck.) Hafellner SPECIES
-=======
+# Dactylospora inquilina (Tuck.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

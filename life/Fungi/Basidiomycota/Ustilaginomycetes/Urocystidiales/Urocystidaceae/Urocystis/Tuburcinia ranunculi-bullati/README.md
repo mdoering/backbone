@@ -1,5 +1,4 @@
-Tuburcinia ranunculi-bullati Cif. SPECIES
-=======
+# Tuburcinia ranunculi-bullati Cif. SPECIES
 
 #### Status
 ACCEPTED

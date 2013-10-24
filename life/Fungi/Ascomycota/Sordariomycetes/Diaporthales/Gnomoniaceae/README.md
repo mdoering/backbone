@@ -1,5 +1,4 @@
-Gnomoniaceae G. Winter FAMILY
-=======
+# Gnomoniaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

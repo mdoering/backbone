@@ -1,5 +1,4 @@
-Lobaria ochrotropa Zahlbr. SPECIES
-=======
+# Lobaria ochrotropa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

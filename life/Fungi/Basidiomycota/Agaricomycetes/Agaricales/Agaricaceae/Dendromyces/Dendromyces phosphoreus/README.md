@@ -1,5 +1,4 @@
-Dendromyces phosphoreus Paulet SPECIES
-=======
+# Dendromyces phosphoreus Paulet SPECIES
 
 #### Status
 ACCEPTED

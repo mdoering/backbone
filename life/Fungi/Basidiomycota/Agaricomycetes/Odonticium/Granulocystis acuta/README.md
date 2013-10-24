@@ -1,5 +1,4 @@
-Granulocystis acuta Hjortstam SPECIES
-=======
+# Granulocystis acuta Hjortstam SPECIES
 
 #### Status
 ACCEPTED

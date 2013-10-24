@@ -1,5 +1,4 @@
-Septoria kentrophylli Bubák & Ranoj. SPECIES
-=======
+# Septoria kentrophylli Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium japonicum H. Harada SPECIES
-=======
+# Thelidium japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

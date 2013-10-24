@@ -1,5 +1,4 @@
-Cortinarius ochrorufus Moënne-Locc. & Fillion SPECIES
-=======
+# Cortinarius ochrorufus Moënne-Locc. & Fillion SPECIES
 
 #### Status
 ACCEPTED

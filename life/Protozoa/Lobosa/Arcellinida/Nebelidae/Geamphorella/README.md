@@ -1,5 +1,4 @@
-Geamphorella Bonnet, 1959 GENUS
-=======
+# Geamphorella Bonnet, 1959 GENUS
 
 #### Status
 ACCEPTED

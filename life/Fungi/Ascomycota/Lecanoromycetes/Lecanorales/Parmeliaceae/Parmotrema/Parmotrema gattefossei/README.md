@@ -1,5 +1,4 @@
-Parmotrema gattefossei M. Choisy SPECIES
-=======
+# Parmotrema gattefossei M. Choisy SPECIES
 
 #### Status
 ACCEPTED

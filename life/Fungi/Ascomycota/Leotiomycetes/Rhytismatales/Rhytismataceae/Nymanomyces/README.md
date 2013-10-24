@@ -1,5 +1,4 @@
-Nymanomyces Henn. GENUS
-=======
+# Nymanomyces Henn. GENUS
 
 #### Status
 ACCEPTED

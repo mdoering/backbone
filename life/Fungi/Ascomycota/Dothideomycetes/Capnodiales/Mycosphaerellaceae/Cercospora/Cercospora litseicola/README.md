@@ -1,5 +1,4 @@
-Cercospora litseicola Boedijn SPECIES
-=======
+# Cercospora litseicola Boedijn SPECIES
 
 #### Status
 ACCEPTED

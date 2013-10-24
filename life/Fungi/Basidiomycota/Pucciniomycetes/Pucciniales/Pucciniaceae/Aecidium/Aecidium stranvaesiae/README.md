@@ -1,5 +1,4 @@
-Aecidium stranvaesiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium stranvaesiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

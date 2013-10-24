@@ -1,5 +1,4 @@
-Encephalographa rubiformis A. Massal. SPECIES
-=======
+# Encephalographa rubiformis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

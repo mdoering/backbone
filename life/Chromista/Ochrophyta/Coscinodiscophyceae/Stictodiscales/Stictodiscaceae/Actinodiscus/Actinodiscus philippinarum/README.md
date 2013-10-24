@@ -1,5 +1,4 @@
-Actinodiscus philippinarum R. Ross & P.A. Sims SPECIES
-=======
+# Actinodiscus philippinarum R. Ross & P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

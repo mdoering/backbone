@@ -1,5 +1,4 @@
-Pestalotia multiseta (Sacc.) Guba SPECIES
-=======
+# Pestalotia multiseta (Sacc.) Guba SPECIES
 
 #### Status
 ACCEPTED

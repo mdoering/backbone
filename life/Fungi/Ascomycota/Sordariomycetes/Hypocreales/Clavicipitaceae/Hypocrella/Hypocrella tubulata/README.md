@@ -1,5 +1,4 @@
-Hypocrella tubulata Petch SPECIES
-=======
+# Hypocrella tubulata Petch SPECIES
 
 #### Status
 ACCEPTED

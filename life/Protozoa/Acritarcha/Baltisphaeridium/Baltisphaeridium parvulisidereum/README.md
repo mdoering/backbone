@@ -1,5 +1,4 @@
-Baltisphaeridium parvulisidereum Colbath, 1979 SPECIES
-=======
+# Baltisphaeridium parvulisidereum Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

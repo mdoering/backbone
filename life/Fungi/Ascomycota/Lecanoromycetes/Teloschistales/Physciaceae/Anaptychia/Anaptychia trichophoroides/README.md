@@ -1,5 +1,4 @@
-Anaptychia trichophoroides Kurok. SPECIES
-=======
+# Anaptychia trichophoroides Kurok. SPECIES
 
 #### Status
 ACCEPTED

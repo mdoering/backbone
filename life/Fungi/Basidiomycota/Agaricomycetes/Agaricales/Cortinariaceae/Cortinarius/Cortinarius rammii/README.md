@@ -1,5 +1,4 @@
-Cortinarius rammii Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius rammii Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

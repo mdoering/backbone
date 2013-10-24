@@ -1,5 +1,4 @@
-Sterigmatocystis rehmii (Zukal) Sacc. SPECIES
-=======
+# Sterigmatocystis rehmii (Zukal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

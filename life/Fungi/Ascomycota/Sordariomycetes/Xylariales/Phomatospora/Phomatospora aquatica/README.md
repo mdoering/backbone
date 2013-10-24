@@ -1,5 +1,4 @@
-Phomatospora aquatica Minoura & T. Muroi SPECIES
-=======
+# Phomatospora aquatica Minoura & T. Muroi SPECIES
 
 #### Status
 ACCEPTED

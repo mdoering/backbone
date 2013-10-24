@@ -1,5 +1,4 @@
-Agaricus interceptus Berk. SPECIES
-=======
+# Agaricus interceptus Berk. SPECIES
 
 #### Status
 ACCEPTED

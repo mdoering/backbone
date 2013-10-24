@@ -1,5 +1,4 @@
-Septosporium instipitatum Preuss SPECIES
-=======
+# Septosporium instipitatum Preuss SPECIES
 
 #### Status
 ACCEPTED

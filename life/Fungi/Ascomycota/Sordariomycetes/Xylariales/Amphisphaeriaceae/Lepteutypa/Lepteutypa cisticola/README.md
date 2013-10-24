@@ -1,5 +1,4 @@
-Lepteutypa cisticola Ade SPECIES
-=======
+# Lepteutypa cisticola Ade SPECIES
 
 #### Status
 ACCEPTED

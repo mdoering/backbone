@@ -1,5 +1,4 @@
-Bovistella miyabei Lloyd SPECIES
-=======
+# Bovistella miyabei Lloyd SPECIES
 
 #### Status
 ACCEPTED

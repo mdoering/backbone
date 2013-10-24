@@ -1,5 +1,4 @@
-Pleospora breviasca Berl. SPECIES
-=======
+# Pleospora breviasca Berl. SPECIES
 
 #### Status
 ACCEPTED

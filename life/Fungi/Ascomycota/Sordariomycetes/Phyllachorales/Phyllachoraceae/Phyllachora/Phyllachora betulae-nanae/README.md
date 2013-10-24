@@ -1,14 +1,13 @@
-Phyllachora betulina var. betulae-nanae (Wahlenb.) P. Karst., 1873 VARIETY
-=======
+# Phyllachora betulae-nanae (Wahlenb.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 224 (1873)
+Syll. fung. (Abellini) 2: 629 (1883)
 
 #### Original name
 Sphaeria betulae-nanae Wahlenb., 1812

@@ -1,5 +1,4 @@
-Agaricus aquigenus Britzelm. SPECIES
-=======
+# Agaricus aquigenus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

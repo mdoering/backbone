@@ -1,5 +1,4 @@
-Mycena sejuncta Maas Geest. & de Meijer SPECIES
-=======
+# Mycena sejuncta Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

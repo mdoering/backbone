@@ -1,5 +1,4 @@
-Entoloma micropus (Peck) Hesler SPECIES
-=======
+# Entoloma micropus (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octaviania ivoryana Castellano, Verbeken & Thoen, 2000 SPECIES
-=======
+# Octaviania ivoryana Castellano, Verbeken & Thoen, 2000 SPECIES
 
 #### Status
 ACCEPTED

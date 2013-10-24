@@ -1,5 +1,4 @@
-Aecidium pereziae Arthur SPECIES
-=======
+# Aecidium pereziae Arthur SPECIES
 
 #### Status
 ACCEPTED

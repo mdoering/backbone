@@ -1,5 +1,4 @@
-Didymella epimelanostola Øvstedal & D. Hawksw. SPECIES
-=======
+# Didymella epimelanostola Øvstedal & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

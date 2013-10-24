@@ -1,5 +1,4 @@
-Aulacodiscus septus f. pentagonus A.P. Jousé FORM
-=======
+# Aulacodiscus septus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kretzschmaria tuckeri Lloyd SPECIES
-=======
+# Kretzschmaria tuckeri Lloyd SPECIES
 
 #### Status
 ACCEPTED

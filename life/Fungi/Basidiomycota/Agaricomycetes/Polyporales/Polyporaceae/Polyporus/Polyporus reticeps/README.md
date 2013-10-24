@@ -1,5 +1,4 @@
-Polyporus reticeps Pat. SPECIES
-=======
+# Polyporus reticeps Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeriella woodii Hansf. SPECIES
-=======
+# Dimeriella woodii Hansf. SPECIES
 
 #### Status
 ACCEPTED

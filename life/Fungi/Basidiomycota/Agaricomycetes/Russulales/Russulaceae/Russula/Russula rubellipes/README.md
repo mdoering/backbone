@@ -1,5 +1,4 @@
-Russula rubellipes Fatto SPECIES
-=======
+# Russula rubellipes Fatto SPECIES
 
 #### Status
 ACCEPTED

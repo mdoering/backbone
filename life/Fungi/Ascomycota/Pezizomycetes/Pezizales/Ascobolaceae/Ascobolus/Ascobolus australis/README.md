@@ -1,5 +1,4 @@
-Ascobolus australis Berk. SPECIES
-=======
+# Ascobolus australis Berk. SPECIES
 
 #### Status
 ACCEPTED

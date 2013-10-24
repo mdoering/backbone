@@ -1,17 +1,16 @@
-Sacidium cystotricha Schulzer, 1871 SPECIES
-=======
+# Coniothyrium wernsdorffiae Laubert, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arbeit Bid. Abt. fur Landtu Forswirthsch. am Kais. Gesundheitsamte 4: 458 (1905)
 
 #### Original name
-Sacidium cystotricha Schulzer, 1871
+Coniothyrium wernsdorffiae Laubert, 1905
 
 ### Remarks
 null

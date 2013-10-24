@@ -1,5 +1,4 @@
-Phoma tupae Speg. SPECIES
-=======
+# Phoma tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

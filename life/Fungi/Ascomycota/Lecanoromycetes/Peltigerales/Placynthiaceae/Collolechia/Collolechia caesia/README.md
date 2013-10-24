@@ -1,14 +1,13 @@
-Lecidea contigua var. caesia Fr. VARIETY
-=======
+# Collolechia caesia (Fr.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. eur. reform. (Lund) 302 (1831)
+Geneac. Lich. 6 (1854)
 
 #### Original name
 Lecidea contigua var. caesia Fr.

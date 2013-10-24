@@ -1,8 +1,7 @@
-Plasmopora GENUS
-=======
+# Plasmopara J. Schröter, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Septoria wodziczkiana Dominik SPECIES
-=======
+# Septoria wodziczkiana Dominik SPECIES
 
 #### Status
 ACCEPTED

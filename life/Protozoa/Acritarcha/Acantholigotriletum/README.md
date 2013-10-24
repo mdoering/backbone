@@ -1,5 +1,4 @@
-Acantholigotriletum Timofeev, 1959 GENUS
-=======
+# Acantholigotriletum Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora subsulcata Ellis & Everh. SPECIES
-=======
+# Pleospora subsulcata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

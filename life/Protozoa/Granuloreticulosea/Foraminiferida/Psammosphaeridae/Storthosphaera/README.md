@@ -1,5 +1,4 @@
-Storthosphaera Schultze, 1875 GENUS
-=======
+# Storthosphaera Schultze, 1875 GENUS
 
 #### Status
 ACCEPTED

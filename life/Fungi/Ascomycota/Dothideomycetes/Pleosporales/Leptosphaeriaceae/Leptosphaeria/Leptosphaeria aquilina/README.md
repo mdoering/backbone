@@ -1,5 +1,4 @@
-Leptosphaeria aquilina Pass. SPECIES
-=======
+# Leptosphaeria aquilina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella glagosa (Ellis & Cooke) Sacc. SPECIES
-=======
+# Pezizella glagosa (Ellis & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

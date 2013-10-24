@@ -1,5 +1,4 @@
-Pertusaria husnotiana Müll. Arg. SPECIES
-=======
+# Pertusaria husnotiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

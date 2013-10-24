@@ -1,5 +1,4 @@
-Meliola payakii Hosag. SPECIES
-=======
+# Meliola payakii Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesoplasma photuris Tully et al., 1994 SPECIES
-=======
+# Mesoplasma photuris Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

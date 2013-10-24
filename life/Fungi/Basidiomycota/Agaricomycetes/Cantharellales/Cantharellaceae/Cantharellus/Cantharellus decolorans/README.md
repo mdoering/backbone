@@ -1,5 +1,4 @@
-Cantharellus decolorans Eyssart. & Buyck SPECIES
-=======
+# Cantharellus decolorans Eyssart. & Buyck SPECIES
 
 #### Status
 ACCEPTED

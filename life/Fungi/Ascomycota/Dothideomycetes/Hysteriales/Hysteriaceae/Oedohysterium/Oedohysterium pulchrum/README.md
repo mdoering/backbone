@@ -1,5 +1,4 @@
-Oedohysterium pulchrum (Checa, Shoemaker & Umaña) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Oedohysterium pulchrum (Checa, Shoemaker & Umaña) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

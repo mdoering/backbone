@@ -1,5 +1,4 @@
-Porina paulensis Zahlbr. SPECIES
-=======
+# Porina paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

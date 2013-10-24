@@ -1,14 +1,13 @@
-Platysma laureri (Kremp.) Nyl. SPECIES
-=======
+# Tuckneraria laureri (Kremp.) Randlane & A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Randlane, Saag, Thell & Kärnefelt, Acta bot. fenn. 150: 149 (1994)
 
 #### Original name
 Cetraria laureri Kremp.

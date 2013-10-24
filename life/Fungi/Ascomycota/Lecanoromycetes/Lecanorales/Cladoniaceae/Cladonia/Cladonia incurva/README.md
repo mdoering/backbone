@@ -1,5 +1,4 @@
-Cladonia incurva Ahti SPECIES
-=======
+# Cladonia incurva Ahti SPECIES
 
 #### Status
 ACCEPTED

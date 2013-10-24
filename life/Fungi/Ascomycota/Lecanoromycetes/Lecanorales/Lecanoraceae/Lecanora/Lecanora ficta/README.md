@@ -1,5 +1,4 @@
-Lecanora ficta Stizenb. SPECIES
-=======
+# Lecanora ficta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

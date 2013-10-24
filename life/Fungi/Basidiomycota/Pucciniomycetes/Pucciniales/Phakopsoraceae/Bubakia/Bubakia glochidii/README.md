@@ -1,5 +1,4 @@
-Bubakia glochidii (Syd. & P. Syd.) Dietel SPECIES
-=======
+# Bubakia glochidii (Syd. & P. Syd.) Dietel SPECIES
 
 #### Status
 ACCEPTED

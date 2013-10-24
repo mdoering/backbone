@@ -1,5 +1,4 @@
-Palaeococcus helgesonii Amend et al., 2006 SPECIES
-=======
+# Palaeococcus helgesonii Amend et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

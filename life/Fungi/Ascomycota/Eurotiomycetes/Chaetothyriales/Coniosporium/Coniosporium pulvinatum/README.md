@@ -1,5 +1,4 @@
-Coniosporium pulvinatum A.L. Sm. SPECIES
-=======
+# Coniosporium pulvinatum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis longiaristata (Maubl.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis longiaristata (Maubl.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

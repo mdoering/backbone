@@ -1,5 +1,4 @@
-Leptosphaerulina dracocephali Kalymb. SPECIES
-=======
+# Leptosphaerulina dracocephali Kalymb. SPECIES
 
 #### Status
 ACCEPTED

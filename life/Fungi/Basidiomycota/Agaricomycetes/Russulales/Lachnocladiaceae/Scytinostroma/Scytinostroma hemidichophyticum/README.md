@@ -1,5 +1,4 @@
-Scytinostroma hemidichophyticum Pouzar, 1966 SPECIES
-=======
+# Scytinostroma hemidichophyticum Pouzar, 1966 SPECIES
 
 #### Status
 ACCEPTED

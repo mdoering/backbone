@@ -1,5 +1,4 @@
-Hendersonia consociata Petr. SPECIES
-=======
+# Hendersonia consociata Petr. SPECIES
 
 #### Status
 ACCEPTED

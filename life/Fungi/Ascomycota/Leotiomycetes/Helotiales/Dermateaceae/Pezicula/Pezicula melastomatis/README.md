@@ -1,5 +1,4 @@
-Pezicula melastomatis Rehm SPECIES
-=======
+# Pezicula melastomatis Rehm SPECIES
 
 #### Status
 ACCEPTED

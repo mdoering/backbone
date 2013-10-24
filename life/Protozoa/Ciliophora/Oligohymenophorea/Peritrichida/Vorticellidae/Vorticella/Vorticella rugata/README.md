@@ -1,5 +1,4 @@
-Vorticella rugata Dumas, 1929 SPECIES
-=======
+# Vorticella rugata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina alcicornis f. alcicornis FORM
-=======
+# Phaeographina alcicornis Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina alcicornis f. alcicornis
+Phaeographina alcicornis Redinger
 
 ### Remarks
 null

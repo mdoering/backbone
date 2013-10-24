@@ -1,5 +1,4 @@
-Favolaschia viridula (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
-=======
+# Favolaschia viridula (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

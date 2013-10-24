@@ -1,5 +1,4 @@
-Mycena acuta Métrod SPECIES
-=======
+# Mycena acuta Métrod SPECIES
 
 #### Status
 ACCEPTED

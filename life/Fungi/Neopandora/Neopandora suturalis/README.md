@@ -1,5 +1,4 @@
-Neopandora suturalis Ben Ze'ev SPECIES
-=======
+# Neopandora suturalis Ben Ze'ev SPECIES
 
 #### Status
 ACCEPTED

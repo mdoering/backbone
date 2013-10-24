@@ -1,5 +1,4 @@
-Heterocibicides McCulloch, 1977 GENUS
-=======
+# Heterocibicides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

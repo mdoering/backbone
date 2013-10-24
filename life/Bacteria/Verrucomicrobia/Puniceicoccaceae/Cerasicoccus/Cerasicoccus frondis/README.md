@@ -1,5 +1,4 @@
-Cerasicoccus frondis Yoon, Matsuo, Matsuda, Kasai & Yokota, 2010 SPECIES
-=======
+# Cerasicoccus frondis Yoon, Matsuo, Matsuda, Kasai & Yokota, 2010 SPECIES
 
 #### Status
 ACCEPTED

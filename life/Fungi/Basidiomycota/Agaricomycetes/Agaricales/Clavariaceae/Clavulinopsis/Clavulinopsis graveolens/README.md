@@ -1,5 +1,4 @@
-Clavulinopsis graveolens Maas Geest. SPECIES
-=======
+# Clavulinopsis graveolens Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

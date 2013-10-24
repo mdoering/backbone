@@ -1,5 +1,4 @@
-Plasmopara justiciae (Sawada) Skalický SPECIES
-=======
+# Plasmopara justiciae (Sawada) Skalický SPECIES
 
 #### Status
 ACCEPTED

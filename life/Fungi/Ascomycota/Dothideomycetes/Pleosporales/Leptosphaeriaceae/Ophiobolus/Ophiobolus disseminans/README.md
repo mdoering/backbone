@@ -1,5 +1,4 @@
-Ophiobolus disseminans Riess, 1854 SPECIES
-=======
+# Ophiobolus disseminans Riess, 1854 SPECIES
 
 #### Status
 ACCEPTED

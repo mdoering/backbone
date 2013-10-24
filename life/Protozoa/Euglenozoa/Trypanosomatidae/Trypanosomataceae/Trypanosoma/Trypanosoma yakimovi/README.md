@@ -1,5 +1,4 @@
-Trypanosoma yakimovi Yakimov, 1911 SPECIES
-=======
+# Trypanosoma yakimovi Yakimov, 1911 SPECIES
 
 #### Status
 ACCEPTED

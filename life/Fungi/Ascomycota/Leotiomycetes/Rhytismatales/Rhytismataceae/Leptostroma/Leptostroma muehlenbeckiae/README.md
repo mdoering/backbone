@@ -1,5 +1,4 @@
-Leptostroma muehlenbeckiae Gonz. Frag. SPECIES
-=======
+# Leptostroma muehlenbeckiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

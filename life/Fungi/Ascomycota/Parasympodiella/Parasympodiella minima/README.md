@@ -1,5 +1,4 @@
-Parasympodiella minima J.L. Crane & Schokn. SPECIES
-=======
+# Parasympodiella minima J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

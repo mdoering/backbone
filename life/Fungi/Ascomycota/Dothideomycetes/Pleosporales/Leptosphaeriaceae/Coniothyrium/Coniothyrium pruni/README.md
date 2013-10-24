@@ -1,5 +1,4 @@
-Coniothyrium pruni McAlpine SPECIES
-=======
+# Coniothyrium pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

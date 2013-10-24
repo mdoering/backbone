@@ -1,5 +1,4 @@
-Cercospora fagarae Chidd. SPECIES
-=======
+# Cercospora fagarae Chidd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocystis petalodes var. petalodes VARIETY
-=======
+# Acanthocystis petalodes SPECIES
 
 #### Status
 ACCEPTED

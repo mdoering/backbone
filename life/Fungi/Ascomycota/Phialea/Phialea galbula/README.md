@@ -1,5 +1,4 @@
-Phialea galbula (P. Karst.) Sacc. SPECIES
-=======
+# Phialea galbula (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paenibacillus barengoltzii Osman et al., 2006 SPECIES
-=======
+# Paenibacillus barengoltzii Osman et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dicellaesporites asymetricus Sal.-Cheb. & Locq. SPECIES
-=======
+# Dicellaesporites asymmetricus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. Congr. natn. Socs. sav. Paris, sect. sci. , fasc. 1. (Paleobotanique) 105: 187 + pl. II, fig. 4 (1980)
 
 #### Original name
-Dicellaesporites asymetricus Sal.-Cheb. & Locq.
+Dicellaesporites asymmetricus Sal.-Cheb. & Locq.
 
 ### Remarks
 null

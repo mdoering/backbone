@@ -1,5 +1,4 @@
-Exidia pellucida Jungh. SPECIES
-=======
+# Exidia pellucida Jungh. SPECIES
 
 #### Status
 ACCEPTED

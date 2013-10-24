@@ -1,5 +1,4 @@
-Chroodiscus exfoliatus Kalb SPECIES
-=======
+# Chroodiscus exfoliatus Kalb SPECIES
 
 #### Status
 ACCEPTED

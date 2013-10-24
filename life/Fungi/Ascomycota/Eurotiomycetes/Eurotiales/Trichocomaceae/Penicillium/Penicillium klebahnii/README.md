@@ -1,17 +1,16 @@
-Paecilomyces ehrlichii (Kleb.) Delitsch & Henneberg, 1943 SPECIES
-=======
+# Penicillium klebahnii Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Départ. Vosges, Fl. Vosges, Champ. 90 (1943)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 122 (1980)
 
 #### Original name
-Penicillium ehrlichii Kleb., 1930
+Penicillium klebahnii Pitt, 1980
 
 ### Remarks
 null

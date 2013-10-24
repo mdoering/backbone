@@ -1,5 +1,4 @@
-Corynelia poculiformis Kunze SPECIES
-=======
+# Corynelia poculiformis Kunze SPECIES
 
 #### Status
 ACCEPTED

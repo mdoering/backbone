@@ -1,5 +1,4 @@
-Physarum flavovirens Alb. & Schwein. SPECIES
-=======
+# Physarum flavovirens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

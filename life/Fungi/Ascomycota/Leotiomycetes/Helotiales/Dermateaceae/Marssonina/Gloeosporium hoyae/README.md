@@ -1,5 +1,4 @@
-Gloeosporium hoyae Syd. {?} SPECIES
-=======
+# Gloeosporium hoyae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

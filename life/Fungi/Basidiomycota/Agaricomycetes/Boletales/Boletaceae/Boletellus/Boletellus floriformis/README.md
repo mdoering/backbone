@@ -1,5 +1,4 @@
-Boletellus floriformis Imazeki SPECIES
-=======
+# Boletellus floriformis Imazeki SPECIES
 
 #### Status
 ACCEPTED

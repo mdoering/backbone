@@ -1,5 +1,4 @@
-Parmelia ornata (Hue) C.W. Dodge SPECIES
-=======
+# Parmelia ornata (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

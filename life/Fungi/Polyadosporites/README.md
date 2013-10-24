@@ -1,5 +1,4 @@
-Polyadosporites Hammen GENUS
-=======
+# Polyadosporites Hammen GENUS
 
 #### Status
 ACCEPTED

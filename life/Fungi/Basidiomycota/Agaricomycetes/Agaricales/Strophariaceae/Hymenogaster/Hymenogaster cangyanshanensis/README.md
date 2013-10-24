@@ -1,5 +1,4 @@
-Hymenogaster cangyanshanensis B. Liu SPECIES
-=======
+# Hymenogaster cangyanshanensis B. Liu SPECIES
 
 #### Status
 ACCEPTED

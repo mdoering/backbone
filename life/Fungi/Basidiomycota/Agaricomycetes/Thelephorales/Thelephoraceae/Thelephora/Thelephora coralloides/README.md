@@ -1,5 +1,4 @@
-Thelephora coralloides Fr. SPECIES
-=======
+# Thelephora coralloides Fr. SPECIES
 
 #### Status
 ACCEPTED

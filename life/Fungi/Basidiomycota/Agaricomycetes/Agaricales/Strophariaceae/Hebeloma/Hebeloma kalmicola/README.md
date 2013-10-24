@@ -1,5 +1,4 @@
-Hebeloma kalmicola Murrill SPECIES
-=======
+# Hebeloma kalmicola Murrill SPECIES
 
 #### Status
 ACCEPTED

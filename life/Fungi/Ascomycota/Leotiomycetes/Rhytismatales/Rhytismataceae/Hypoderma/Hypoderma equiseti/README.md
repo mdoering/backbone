@@ -1,5 +1,4 @@
-Hypoderma equiseti Ellis & Everh. SPECIES
-=======
+# Hypoderma equiseti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

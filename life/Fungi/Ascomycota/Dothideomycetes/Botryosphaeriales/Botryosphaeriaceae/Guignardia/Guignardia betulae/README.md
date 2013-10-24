@@ -1,5 +1,4 @@
-Guignardia betulae (Auersw.) Sacc. & Trotter SPECIES
-=======
+# Guignardia betulae (Auersw.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium dravuni Janso, 2005 SPECIES
-=======
+# Penicillium dravuni Janso, 2005 SPECIES
 
 #### Status
 ACCEPTED

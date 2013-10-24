@@ -1,5 +1,4 @@
-Herpotrichiellaceae Munk FAMILY
-=======
+# Herpotrichiellaceae Munk FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeophacidium escaloniae Henn. & Lindau SPECIES
-=======
+# Phaeophacidium escalloniae Henn. & Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 36: 234 (1897)
 
 #### Original name
-Phaeophacidium escaloniae Henn. & Lindau
+Phaeophacidium escalloniae Henn. & Lindau, 1897
 
 ### Remarks
 null

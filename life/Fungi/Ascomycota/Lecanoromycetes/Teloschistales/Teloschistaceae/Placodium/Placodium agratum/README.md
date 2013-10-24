@@ -1,5 +1,4 @@
-Placodium agratum Vain. SPECIES
-=======
+# Placodium agratum Vain. SPECIES
 
 #### Status
 ACCEPTED

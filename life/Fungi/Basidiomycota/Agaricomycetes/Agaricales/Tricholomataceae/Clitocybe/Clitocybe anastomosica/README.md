@@ -1,5 +1,4 @@
-Clitocybe anastomosica Velen. SPECIES
-=======
+# Clitocybe anastomosica Velen. SPECIES
 
 #### Status
 ACCEPTED

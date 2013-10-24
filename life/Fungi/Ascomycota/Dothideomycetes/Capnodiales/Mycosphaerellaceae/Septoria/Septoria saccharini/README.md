@@ -1,5 +1,4 @@
-Septoria saccharini var. saccharini VARIETY
-=======
+# Septoria saccharini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria saccharini var. saccharini
+Septoria saccharini Ellis & Everh.
 
 ### Remarks
 null

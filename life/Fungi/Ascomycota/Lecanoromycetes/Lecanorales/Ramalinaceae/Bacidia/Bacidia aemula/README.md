@@ -1,5 +1,4 @@
-Bacidia aemula (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia aemula (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

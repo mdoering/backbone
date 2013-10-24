@@ -1,5 +1,4 @@
-Caloplaca floridana (Tuck.) S. C. Tucker SPECIES
-=======
+# Caloplaca floridana (Tuck.) S. C. Tucker SPECIES
 
 #### Status
 ACCEPTED

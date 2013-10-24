@@ -1,5 +1,4 @@
-Rhodotorula terrea Sugiy. & Goto SPECIES
-=======
+# Rhodotorula terrea Sugiy. & Goto SPECIES
 
 #### Status
 ACCEPTED

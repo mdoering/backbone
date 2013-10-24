@@ -1,5 +1,4 @@
-Blastenia kamtczatica (Savicz) Oxner SPECIES
-=======
+# Blastenia kamtczatica (Savicz) Oxner SPECIES
 
 #### Status
 ACCEPTED

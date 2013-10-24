@@ -1,5 +1,4 @@
-Coltricia albidipes Corner SPECIES
-=======
+# Coltricia albidipes Corner SPECIES
 
 #### Status
 ACCEPTED

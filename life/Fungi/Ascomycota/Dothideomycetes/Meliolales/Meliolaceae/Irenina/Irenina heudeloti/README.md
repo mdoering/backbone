@@ -1,5 +1,4 @@
-Irenina heudeloti (Gaillard) F. Stevens SPECIES
-=======
+# Irenina heudeloti (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

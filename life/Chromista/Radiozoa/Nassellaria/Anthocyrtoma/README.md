@@ -1,5 +1,4 @@
-Anthocyrtoma Haeckel, 1887 GENUS
-=======
+# Anthocyrtoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

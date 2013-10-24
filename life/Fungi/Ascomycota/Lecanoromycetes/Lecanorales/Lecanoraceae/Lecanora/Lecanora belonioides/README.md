@@ -1,5 +1,4 @@
-Lecanora belonioides Nyl. SPECIES
-=======
+# Lecanora belonioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

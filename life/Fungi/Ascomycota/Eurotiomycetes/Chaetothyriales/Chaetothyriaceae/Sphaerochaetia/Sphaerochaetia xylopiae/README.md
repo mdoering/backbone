@@ -1,5 +1,4 @@
-Sphaerochaetia xylopiae Bat., A.A. Silva & Cavalc. SPECIES
-=======
+# Sphaerochaetia xylopiae Bat., A.A. Silva & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

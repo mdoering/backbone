@@ -1,5 +1,4 @@
-Fusidium fumago Schwein. SPECIES
-=======
+# Fusidium fumago Schwein. SPECIES
 
 #### Status
 ACCEPTED

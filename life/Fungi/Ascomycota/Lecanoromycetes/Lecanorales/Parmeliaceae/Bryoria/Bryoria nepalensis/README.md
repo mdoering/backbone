@@ -1,5 +1,4 @@
-Bryoria nepalensis D.D. Awasthi SPECIES
-=======
+# Bryoria nepalensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

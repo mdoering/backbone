@@ -1,5 +1,4 @@
-Valsa flavovirescens Nitschke SPECIES
-=======
+# Valsa flavovirescens Nitschke SPECIES
 
 #### Status
 ACCEPTED

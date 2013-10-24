@@ -1,5 +1,4 @@
-Micromitra GENUS
-=======
+# Micromitra GENUS
 
 #### Status
 ACCEPTED

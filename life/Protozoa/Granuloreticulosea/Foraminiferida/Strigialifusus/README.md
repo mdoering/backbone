@@ -1,5 +1,4 @@
-Strigialifusus Loeblich & Tappan, 1986 GENUS
-=======
+# Strigialifusus Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

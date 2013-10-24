@@ -1,5 +1,4 @@
-Elphidium koeboeense LeRoy, 1939 SPECIES
-=======
+# Elphidium koeboeense LeRoy, 1939 SPECIES
 
 #### Status
 ACCEPTED

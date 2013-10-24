@@ -1,8 +1,7 @@
-Teichospora chevalierii P. Karst. SPECIES
-=======
+# Teichospora chevalieri P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichospora chevalierii P. Karst.
+Teichospora chevalieri P. Karst.
 
 ### Remarks
 null

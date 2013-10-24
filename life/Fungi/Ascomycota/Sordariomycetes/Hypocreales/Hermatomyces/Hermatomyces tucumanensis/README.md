@@ -1,5 +1,4 @@
-Hermatomyces tucumanensis Speg., 1911 SPECIES
-=======
+# Hermatomyces tucumanensis Speg., 1911 SPECIES
 
 #### Status
 ACCEPTED

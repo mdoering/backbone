@@ -1,5 +1,4 @@
-Metasphaeria cynaracearum (Niessl) Sacc. SPECIES
-=======
+# Metasphaeria cynaracearum (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

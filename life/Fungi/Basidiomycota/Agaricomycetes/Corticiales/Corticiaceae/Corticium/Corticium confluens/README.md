@@ -1,17 +1,16 @@
-Corticium confluens var. confluens VARIETY
-=======
+# Corticium confluens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 546 (1838)
+null
 
 #### Original name
-Corticium confluens var. confluens
+null
 
 ### Remarks
 null

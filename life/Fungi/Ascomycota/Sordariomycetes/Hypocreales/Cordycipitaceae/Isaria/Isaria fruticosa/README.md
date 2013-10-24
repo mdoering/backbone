@@ -1,5 +1,4 @@
-Isaria fruticosa Demelius SPECIES
-=======
+# Isaria fruticosa Demelius SPECIES
 
 #### Status
 ACCEPTED

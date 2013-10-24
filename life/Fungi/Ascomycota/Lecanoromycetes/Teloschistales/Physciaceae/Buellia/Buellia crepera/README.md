@@ -1,5 +1,4 @@
-Buellia crepera (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia crepera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

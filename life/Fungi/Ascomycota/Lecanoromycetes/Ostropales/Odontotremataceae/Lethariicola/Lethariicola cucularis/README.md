@@ -1,5 +1,4 @@
-Lethariicola cucularis (Norman) Lumbsch & D. Hawksw. SPECIES
-=======
+# Lethariicola cucularis (Norman) Lumbsch & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

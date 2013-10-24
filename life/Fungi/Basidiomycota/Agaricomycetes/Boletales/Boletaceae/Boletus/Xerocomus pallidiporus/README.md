@@ -1,5 +1,4 @@
-Xerocomus pallidiporus Heinem. SPECIES
-=======
+# Xerocomus pallidiporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

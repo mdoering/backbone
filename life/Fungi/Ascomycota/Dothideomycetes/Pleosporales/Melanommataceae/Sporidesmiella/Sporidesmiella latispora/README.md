@@ -1,5 +1,4 @@
-Sporidesmiella latispora W.P. Wu SPECIES
-=======
+# Sporidesmiella latispora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

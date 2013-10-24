@@ -1,5 +1,4 @@
-Phyllosticta garryae Cooke & Harkn. SPECIES
-=======
+# Phyllosticta garryae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina grateloupi SPECIES
-=======
+# Spiroloculina grateloupi SPECIES
 
 #### Status
 ACCEPTED

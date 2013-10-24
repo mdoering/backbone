@@ -1,14 +1,13 @@
-Scopella fici Thirum. & Mundk., 1946 SPECIES
-=======
+# Maravalia fici (Mundk. & Thirum.) Y. Ono, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 16: 9 (1946)
+Mycologia 76(5): 905 (1984)
 
 #### Original name
 Scopella fici Thirum. & Mundk., 1946

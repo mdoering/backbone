@@ -1,5 +1,4 @@
-Pelomonas Xie & Yokota, 2005 GENUS
-=======
+# Pelomonas Xie & Yokota, 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula pluricarpa (Ajay Singh) Upreti SPECIES
-=======
+# Pyrenula pluricarpa (Ajay Singh) Upreti SPECIES
 
 #### Status
 ACCEPTED

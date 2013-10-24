@@ -1,5 +1,4 @@
-Fabraea rhytismoides (Cooke & Massee) Sacc. SPECIES
-=======
+# Fabraea rhytismoides (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

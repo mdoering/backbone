@@ -1,5 +1,4 @@
-Aecidium senecionis-bupleuroidis Syd. & P. Syd. SPECIES
-=======
+# Aecidium senecionis-bupleuroidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

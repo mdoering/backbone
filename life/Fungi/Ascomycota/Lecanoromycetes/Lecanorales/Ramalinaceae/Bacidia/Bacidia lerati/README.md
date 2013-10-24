@@ -1,5 +1,4 @@
-Bacidia lerati (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia lerati (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

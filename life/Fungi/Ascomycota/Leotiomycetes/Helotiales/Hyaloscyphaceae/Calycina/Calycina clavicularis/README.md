@@ -1,5 +1,4 @@
-Calycina clavicularis (Wallr.) Kuntze SPECIES
-=======
+# Calycina clavicularis (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

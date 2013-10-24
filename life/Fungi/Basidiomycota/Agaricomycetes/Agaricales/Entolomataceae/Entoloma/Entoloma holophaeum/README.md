@@ -1,5 +1,4 @@
-Entoloma holophaeum Bres. & Schulzer SPECIES
-=======
+# Entoloma holophaeum Bres. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

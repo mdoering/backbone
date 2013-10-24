@@ -1,17 +1,16 @@
-Oidium euonymi-japonici E.S. Salmon SPECIES
-=======
+# Erysiphe euonymi-japonici (Vienn.-Bourg.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Salmon, Annls mycol. 3(1): 5 (1905)
+Schlechtendalia 4: 8 (2000)
 
 #### Original name
-Oidium euonymi-japonici E.S. Salmon
+Microsphaera euonymi-japonici Vienn.-Bourg., 1968
 
 ### Remarks
 null

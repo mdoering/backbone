@@ -1,5 +1,4 @@
-Phyllosticta aracearum Verpl. & Van den Broecke SPECIES
-=======
+# Phyllosticta aracearum Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

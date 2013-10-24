@@ -1,5 +1,4 @@
-Loxophyllum simplex Kahl, 1933 SPECIES
-=======
+# Loxophyllum simplex Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

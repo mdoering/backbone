@@ -1,5 +1,4 @@
-Discosia jordanovii Vanev SPECIES
-=======
+# Discosia jordanovii Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petersenia panicicola Thirum. & Lacy SPECIES
-=======
+# Petersenia panicicola Thirum. & Lacy SPECIES
 
 #### Status
 ACCEPTED

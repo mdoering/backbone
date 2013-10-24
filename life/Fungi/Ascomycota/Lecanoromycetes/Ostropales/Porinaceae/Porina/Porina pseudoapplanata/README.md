@@ -1,5 +1,4 @@
-Porina pseudoapplanata Lücking & M. Cáceres SPECIES
-=======
+# Porina pseudoapplanata Lücking & M. Cáceres SPECIES
 
 #### Status
 ACCEPTED

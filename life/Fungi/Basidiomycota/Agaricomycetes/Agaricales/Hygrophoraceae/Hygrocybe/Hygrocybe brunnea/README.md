@@ -1,14 +1,13 @@
-Omphalia brunneus (Cleland) Eygelsh., 1981 SPECIES
-=======
+# Hygrocybe brunnea (Cleland) Grgur., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Larger Fungi of South Australia (Adelaide) 334 (1997)
 
 #### Original name
 Cantharellus brunneus Cleland, 1927

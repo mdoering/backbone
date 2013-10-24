@@ -1,5 +1,4 @@
-Calothyrium nebulosum (Speg.) Theiss. SPECIES
-=======
+# Calothyrium nebulosum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

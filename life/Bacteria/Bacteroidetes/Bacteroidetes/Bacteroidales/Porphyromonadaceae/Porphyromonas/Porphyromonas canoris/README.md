@@ -1,5 +1,4 @@
-Porphyromonas canoris Love et al., 1994 SPECIES
-=======
+# Porphyromonas canoris Love et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

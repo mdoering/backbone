@@ -1,5 +1,4 @@
-Phyllactinia subspiralis (E.S. Salmon) Sawada SPECIES
-=======
+# Phyllactinia subspiralis (E.S. Salmon) Sawada SPECIES
 
 #### Status
 ACCEPTED

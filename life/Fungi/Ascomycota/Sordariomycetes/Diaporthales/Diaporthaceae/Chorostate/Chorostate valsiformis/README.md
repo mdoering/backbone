@@ -1,5 +1,4 @@
-Chorostate valsiformis f. valsiformis FORM
-=======
+# Chorostate valsiformis Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chorostate valsiformis f. valsiformis
+Chorostate valsiformis Rehm
 
 ### Remarks
 null

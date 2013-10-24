@@ -1,5 +1,4 @@
-Scirrhia linearistromatifera I. Hino & Katum. SPECIES
-=======
+# Scirrhia linearistromatifera I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

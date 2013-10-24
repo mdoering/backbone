@@ -1,5 +1,4 @@
-Cyphelium lecideinum (Nyl.) Trevis. SPECIES
-=======
+# Cyphelium lecideinum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma duthiae (Ellis & Tracy) Syd. SPECIES
-=======
+# Puccinia duthiae Van der Byl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 20(3): 117 (1922)
+S. Afr. J. Sci. 24: 226 (1927)
 
 #### Original name
 Puccinia duthiae Van der Byl

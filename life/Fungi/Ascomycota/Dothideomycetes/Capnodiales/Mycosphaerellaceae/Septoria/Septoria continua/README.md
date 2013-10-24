@@ -1,5 +1,4 @@
-Septoria continua Berk. & M.A. Curtis SPECIES
-=======
+# Septoria continua Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

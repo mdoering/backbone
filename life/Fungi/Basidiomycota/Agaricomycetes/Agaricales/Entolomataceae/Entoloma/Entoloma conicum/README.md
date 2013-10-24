@@ -1,5 +1,4 @@
-Entoloma conicum (Peck) Hesler SPECIES
-=======
+# Entoloma conicum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

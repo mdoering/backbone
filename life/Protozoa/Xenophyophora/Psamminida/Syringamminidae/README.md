@@ -1,5 +1,4 @@
-Syringamminidae Tendal, 1972 FAMILY
-=======
+# Syringamminidae Tendal, 1972 FAMILY
 
 #### Status
 ACCEPTED

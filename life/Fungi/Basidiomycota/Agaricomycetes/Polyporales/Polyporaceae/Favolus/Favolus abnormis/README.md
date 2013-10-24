@@ -1,5 +1,4 @@
-Favolus abnormis Schwein. SPECIES
-=======
+# Favolus abnormis Schwein. SPECIES
 
 #### Status
 ACCEPTED

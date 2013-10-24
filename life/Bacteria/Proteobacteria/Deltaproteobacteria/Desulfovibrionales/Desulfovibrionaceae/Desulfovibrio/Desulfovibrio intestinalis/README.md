@@ -1,5 +1,4 @@
-Desulfovibrio intestinalis Fröhlich et al., 1999 SPECIES
-=======
+# Desulfovibrio intestinalis Fröhlich et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

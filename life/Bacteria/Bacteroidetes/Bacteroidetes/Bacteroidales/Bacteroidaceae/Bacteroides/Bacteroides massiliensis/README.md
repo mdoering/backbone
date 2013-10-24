@@ -1,5 +1,4 @@
-Bacteroides massiliensis Fenner et al., 2005 SPECIES
-=======
+# Bacteroides massiliensis Fenner et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

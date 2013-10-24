@@ -1,5 +1,4 @@
-Dentacinetidae Batisse, 1992 FAMILY
-=======
+# Dentacinetidae Batisse, 1992 FAMILY
 
 #### Status
 ACCEPTED

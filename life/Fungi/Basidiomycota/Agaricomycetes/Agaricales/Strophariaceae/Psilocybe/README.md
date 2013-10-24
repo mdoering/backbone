@@ -1,17 +1,16 @@
-Galeropsina Velen. GENUS
-=======
+# Psilocybe (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae Novissimae 74 (1947)
+Führ. Pilzk. (Zwickau) 21, 71 (1871)
 
 #### Original name
-Galeropsina Velen.
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

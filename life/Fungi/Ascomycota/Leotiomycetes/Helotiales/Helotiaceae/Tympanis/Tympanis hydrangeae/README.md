@@ -1,5 +1,4 @@
-Tympanis hydrangeae J.W. Groves SPECIES
-=======
+# Tympanis hydrangeae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma dominici Traverso SPECIES
-=======
+# Phoma dominici Traverso SPECIES
 
 #### Status
 ACCEPTED

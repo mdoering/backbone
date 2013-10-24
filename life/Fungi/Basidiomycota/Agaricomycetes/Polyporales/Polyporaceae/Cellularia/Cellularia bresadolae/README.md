@@ -1,5 +1,4 @@
-Cellularia bresadolae (Schulzer) Kuntze SPECIES
-=======
+# Cellularia bresadolae (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis baccharidis Grove SPECIES
-=======
+# Phomopsis baccharidis Grove SPECIES
 
 #### Status
 ACCEPTED

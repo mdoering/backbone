@@ -1,5 +1,4 @@
-Graphis brachycarpa Vain. SPECIES
-=======
+# Graphis brachycarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

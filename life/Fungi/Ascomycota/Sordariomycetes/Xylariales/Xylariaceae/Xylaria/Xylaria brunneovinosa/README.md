@@ -1,5 +1,4 @@
-Xylaria brunneovinosa Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Xylaria brunneovinosa Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

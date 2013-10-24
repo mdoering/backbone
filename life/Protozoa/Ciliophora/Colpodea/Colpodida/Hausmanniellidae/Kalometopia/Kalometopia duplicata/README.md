@@ -1,8 +1,7 @@
-Colpoda eurystoma Gellert, 1950 SPECIES
-=======
+# Kalometopia duplicata (Penard, 1922) Foissner, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

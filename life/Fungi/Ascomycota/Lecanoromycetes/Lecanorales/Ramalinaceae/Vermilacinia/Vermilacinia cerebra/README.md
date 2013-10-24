@@ -1,5 +1,4 @@
-Vermilacinia cerebra Spjut SPECIES
-=======
+# Vermilacinia cerebra Spjut SPECIES
 
 #### Status
 ACCEPTED

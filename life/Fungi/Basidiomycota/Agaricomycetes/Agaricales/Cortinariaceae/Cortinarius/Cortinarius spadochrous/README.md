@@ -1,5 +1,4 @@
-Cortinarius spadochrous (Krombh.) Reumaux & Bidaud SPECIES
-=======
+# Cortinarius spadochrous (Krombh.) Reumaux & Bidaud SPECIES
 
 #### Status
 ACCEPTED

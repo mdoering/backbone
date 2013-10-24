@@ -1,5 +1,4 @@
-Strobilomyces excavatus (Kalchbr.) Henn. SPECIES
-=======
+# Strobilomyces excavatus (Kalchbr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

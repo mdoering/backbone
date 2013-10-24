@@ -1,5 +1,4 @@
-Mycena picta (Fr. Fr.) Harm. SPECIES
-=======
+# Mycena picta (Fr. Fr.) Harm. SPECIES
 
 #### Status
 ACCEPTED

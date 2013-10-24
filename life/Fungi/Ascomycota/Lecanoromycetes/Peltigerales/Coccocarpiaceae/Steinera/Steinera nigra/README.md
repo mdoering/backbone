@@ -1,5 +1,4 @@
-Steinera nigra C.W. Dodge SPECIES
-=======
+# Steinera nigra C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

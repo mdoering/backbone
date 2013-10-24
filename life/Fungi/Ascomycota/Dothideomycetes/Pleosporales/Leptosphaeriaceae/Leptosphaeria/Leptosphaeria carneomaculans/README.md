@@ -1,5 +1,4 @@
-Leptosphaeria carneomaculans Petr. SPECIES
-=======
+# Leptosphaeria carneomaculans Petr. SPECIES
 
 #### Status
 ACCEPTED

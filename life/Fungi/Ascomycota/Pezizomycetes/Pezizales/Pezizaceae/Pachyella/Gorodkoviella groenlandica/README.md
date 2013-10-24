@@ -1,5 +1,4 @@
-Gorodkoviella groenlandica (Rostr.) Vassilkov SPECIES
-=======
+# Gorodkoviella groenlandica (Rostr.) Vassilkov SPECIES
 
 #### Status
 ACCEPTED

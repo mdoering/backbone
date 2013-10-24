@@ -1,17 +1,16 @@
-Gloeophyllum vinaceibrunneum Corner SPECIES
-=======
+# Gloeophyllum vinaceobrunneum Corner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 86: 66 (1987)
 
 #### Original name
-Gloeophyllum vinaceibrunneum Corner
+Gloeophyllum vinaceobrunneum Corner, 1987
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Limacinia grandispora (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Limacinia grandispora (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

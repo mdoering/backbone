@@ -1,17 +1,16 @@
-Clavaria luteoalba f. luteoalba FORM
-=======
+# Clavulinopsis luteoalba (Rea) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 2: 66 (1903)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 374 (1950)
 
 #### Original name
-Clavaria luteoalba f. luteoalba
+Clavaria luteoalba Rea, 1904
 
 ### Remarks
 null

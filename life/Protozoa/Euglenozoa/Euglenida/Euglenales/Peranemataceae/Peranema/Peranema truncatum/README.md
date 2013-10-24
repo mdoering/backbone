@@ -1,5 +1,4 @@
-Peranema truncatum Skvortzov SPECIES
-=======
+# Peranema truncatum Skvortzov SPECIES
 
 #### Status
 ACCEPTED

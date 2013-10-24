@@ -1,5 +1,4 @@
-Piggotia fraxini Berk. & M.A. Curtis SPECIES
-=======
+# Piggotia fraxini Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

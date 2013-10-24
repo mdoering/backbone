@@ -1,5 +1,4 @@
-Parmelia pinguiscula Delile SPECIES
-=======
+# Parmelia pinguiscula Delile SPECIES
 
 #### Status
 ACCEPTED

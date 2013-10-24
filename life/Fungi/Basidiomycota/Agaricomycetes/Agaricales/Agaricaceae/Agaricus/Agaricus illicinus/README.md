@@ -1,17 +1,16 @@
-Agaricus ilicinus DC. SPECIES
-=======
+# Agaricus illicinus DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 48 (1815)
 
 #### Original name
-Agaricus ilicinus DC.
+Agaricus illicinus DC.
 
 ### Remarks
 null

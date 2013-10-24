@@ -1,5 +1,4 @@
-Tychosporium Spiegel GENUS
-=======
+# Tychosporium Spiegel GENUS
 
 #### Status
 ACCEPTED

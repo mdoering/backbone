@@ -1,5 +1,4 @@
-Tretospora himalayana R.K. Chaudhary & S.K. Singh, 1996 SPECIES
-=======
+# Tretospora himalayana R.K. Chaudhary & S.K. Singh, 1996 SPECIES
 
 #### Status
 ACCEPTED

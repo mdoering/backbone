@@ -1,5 +1,4 @@
-Pertusaria grassiae Messuti & A.W. Archer SPECIES
-=======
+# Pertusaria grassiae Messuti & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

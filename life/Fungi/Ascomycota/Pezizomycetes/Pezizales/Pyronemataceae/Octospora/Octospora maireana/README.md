@@ -1,5 +1,4 @@
-Octospora maireana (Seaver) Yei Z. Wang SPECIES
-=======
+# Octospora maireana (Seaver) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeothecoidiella missouriensis Batzer & Crous, 2010 SPECIES
-=======
+# Phaeothecoidiella missouriensis Batzer & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

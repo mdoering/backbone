@@ -1,5 +1,4 @@
-Leptosphaeria punctillum Rehm SPECIES
-=======
+# Leptosphaeria punctillum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum rubripes Ellis & Galloway SPECIES
-=======
+# Epicoccum rubripes Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

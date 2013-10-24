@@ -1,5 +1,4 @@
-Trichohyalus australis Collins, 1974 SPECIES
-=======
+# Trichohyalus australis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

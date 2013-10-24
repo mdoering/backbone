@@ -1,5 +1,4 @@
-Scirrhiopsis hendersonioides Henn. SPECIES
-=======
+# Scirrhiopsis hendersonioides Henn. SPECIES
 
 #### Status
 ACCEPTED

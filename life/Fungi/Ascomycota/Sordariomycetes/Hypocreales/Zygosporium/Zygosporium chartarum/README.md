@@ -1,5 +1,4 @@
-Zygosporium chartarum Camposano, 1951 SPECIES
-=======
+# Zygosporium chartarum Camposano, 1951 SPECIES
 
 #### Status
 ACCEPTED

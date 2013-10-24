@@ -1,5 +1,4 @@
-Arcocellulus mammifer G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
-=======
+# Arcocellulus mammifer G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
 
 #### Status
 ACCEPTED

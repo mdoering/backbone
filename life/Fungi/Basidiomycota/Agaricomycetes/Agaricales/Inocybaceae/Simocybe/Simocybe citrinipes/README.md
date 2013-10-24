@@ -1,5 +1,4 @@
-Simocybe citrinipes (Murrill) Singer SPECIES
-=======
+# Simocybe citrinipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

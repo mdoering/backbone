@@ -1,5 +1,4 @@
-Lagenolingulina angelensis McCulloch, 1977 SPECIES
-=======
+# Lagenolingulina angelensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus dactyliophorus Lév. SPECIES
-=======
+# Lentinus dactyliophorus Lév. SPECIES
 
 #### Status
 ACCEPTED

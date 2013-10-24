@@ -1,5 +1,4 @@
-Usnea halei P. Clerc SPECIES
-=======
+# Usnea halei P. Clerc SPECIES
 
 #### Status
 ACCEPTED

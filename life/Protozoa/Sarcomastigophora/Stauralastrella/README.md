@@ -1,5 +1,4 @@
-Stauralastrella Haeckel, 1887 GENUS
-=======
+# Stauralastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

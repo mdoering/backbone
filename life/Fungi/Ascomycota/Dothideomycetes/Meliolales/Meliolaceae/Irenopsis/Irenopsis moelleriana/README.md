@@ -1,5 +1,4 @@
-Irenopsis moelleriana var. moelleriana VARIETY
-=======
+# Irenopsis moelleriana (G. Winter) F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 25(5/6): 437 (1927)
 
 #### Original name
-Irenopsis moelleriana var. moelleriana
+Meliola moelleriana G. Winter
 
 ### Remarks
 null

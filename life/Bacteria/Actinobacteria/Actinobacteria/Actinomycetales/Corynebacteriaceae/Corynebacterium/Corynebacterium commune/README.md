@@ -1,5 +1,4 @@
-Corynebacterium commune SPECIES
-=======
+# Corynebacterium commune SPECIES
 
 #### Status
 ACCEPTED

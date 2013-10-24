@@ -1,5 +1,4 @@
-Thyrostromella myriana (Desm.) Höhn., 1929 SPECIES
-=======
+# Thyrostromella myriana (Desm.) Höhn., 1929 SPECIES
 
 #### Status
 DOUBTFUL

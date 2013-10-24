@@ -1,5 +1,4 @@
-Cyclographa GENUS
-=======
+# Cyclographa GENUS
 
 #### Status
 ACCEPTED

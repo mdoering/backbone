@@ -1,5 +1,4 @@
-Phlyctema variabilis Penz. & Sacc. SPECIES
-=======
+# Phlyctema variabilis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

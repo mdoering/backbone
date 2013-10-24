@@ -1,5 +1,4 @@
-Rhinotrichum sumstinei Peck SPECIES
-=======
+# Rhinotrichum sumstinei Peck SPECIES
 
 #### Status
 ACCEPTED

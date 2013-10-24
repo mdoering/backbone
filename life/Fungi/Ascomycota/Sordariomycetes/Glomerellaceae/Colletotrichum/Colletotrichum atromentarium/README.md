@@ -1,5 +1,4 @@
-Colletotrichum atromentarium (Berk. & Broome) Taubenh. SPECIES
-=======
+# Colletotrichum atromentarium (Berk. & Broome) Taubenh. SPECIES
 
 #### Status
 ACCEPTED

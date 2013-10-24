@@ -1,5 +1,4 @@
-Thelotrema canescens Tat. Matsumoto SPECIES
-=======
+# Thelotrema canescens Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

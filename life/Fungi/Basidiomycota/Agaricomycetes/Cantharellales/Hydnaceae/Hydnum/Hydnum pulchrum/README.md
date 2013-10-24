@@ -1,5 +1,4 @@
-Hydnum pulchrum Lloyd SPECIES
-=======
+# Hydnum pulchrum Lloyd SPECIES
 
 #### Status
 ACCEPTED

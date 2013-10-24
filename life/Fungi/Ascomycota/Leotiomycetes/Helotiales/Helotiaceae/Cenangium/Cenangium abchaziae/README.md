@@ -1,5 +1,4 @@
-Cenangium abchaziae Rehm SPECIES
-=======
+# Cenangium abchaziae Rehm SPECIES
 
 #### Status
 ACCEPTED

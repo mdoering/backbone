@@ -1,5 +1,4 @@
-Pertusaria laeana A.W. Archer & Elix SPECIES
-=======
+# Pertusaria laeana A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

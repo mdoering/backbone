@@ -1,5 +1,4 @@
-Petersonia sanctae-crucis (Espinosa) Cummins & Y. Hirats., 2003 SPECIES
-=======
+# Petersonia sanctae-crucis (Espinosa) Cummins & Y. Hirats., 2003 SPECIES
 
 #### Status
 ACCEPTED

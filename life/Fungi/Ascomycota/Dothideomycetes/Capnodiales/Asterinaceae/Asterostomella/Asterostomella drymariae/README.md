@@ -1,5 +1,4 @@
-Asterostomella drymariae Syd. SPECIES
-=======
+# Asterostomella drymariae Syd. SPECIES
 
 #### Status
 ACCEPTED

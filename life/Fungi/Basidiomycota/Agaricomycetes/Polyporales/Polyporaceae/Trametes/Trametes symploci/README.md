@@ -1,5 +1,4 @@
-Trametes symploci Yasuda SPECIES
-=======
+# Trametes symploci Yasuda SPECIES
 
 #### Status
 ACCEPTED

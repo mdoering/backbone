@@ -1,5 +1,4 @@
-Physarum elegans Schwein. SPECIES
-=======
+# Physarum elegans Schwein. SPECIES
 
 #### Status
 ACCEPTED

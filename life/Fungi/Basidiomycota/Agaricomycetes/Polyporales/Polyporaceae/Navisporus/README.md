@@ -1,5 +1,4 @@
-Navisporus Ryvarden GENUS
-=======
+# Navisporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

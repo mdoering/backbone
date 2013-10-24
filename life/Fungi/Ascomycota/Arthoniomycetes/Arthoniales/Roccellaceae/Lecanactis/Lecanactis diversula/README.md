@@ -1,5 +1,4 @@
-Lecanactis diversula (Nyl.) Nyl. SPECIES
-=======
+# Lecanactis diversula (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

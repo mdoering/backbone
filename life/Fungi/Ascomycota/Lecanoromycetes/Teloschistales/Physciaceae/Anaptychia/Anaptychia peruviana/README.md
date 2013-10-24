@@ -1,5 +1,4 @@
-Anaptychia peruviana Kashiw. & Kurok. SPECIES
-=======
+# Anaptychia peruviana Kashiw. & Kurok. SPECIES
 
 #### Status
 ACCEPTED

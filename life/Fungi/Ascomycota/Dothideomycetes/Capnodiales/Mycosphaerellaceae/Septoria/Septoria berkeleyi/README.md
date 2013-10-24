@@ -1,5 +1,4 @@
-Septoria berkeleyi Sacc. & Traverso SPECIES
-=======
+# Septoria berkeleyi Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

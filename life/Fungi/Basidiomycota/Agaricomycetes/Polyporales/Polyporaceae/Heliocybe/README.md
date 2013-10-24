@@ -1,5 +1,4 @@
-Heliocybe Redhead & Ginns GENUS
-=======
+# Heliocybe Redhead & Ginns GENUS
 
 #### Status
 ACCEPTED

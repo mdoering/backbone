@@ -1,5 +1,4 @@
-Hyphoderma probatum (H.S. Jacks.) Jülich, 1974 SPECIES
-=======
+# Hyphoderma probatum (H.S. Jacks.) Jülich, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium concavorugulosum S. Abe SPECIES
-=======
+# Penicillium concavorugulosum S. Abe SPECIES
 
 #### Status
 ACCEPTED

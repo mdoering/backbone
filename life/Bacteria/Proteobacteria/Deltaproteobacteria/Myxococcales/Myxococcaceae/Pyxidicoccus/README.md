@@ -1,5 +1,4 @@
-Pyxidicoccus GENUS
-=======
+# Pyxidicoccus GENUS
 
 #### Status
 ACCEPTED

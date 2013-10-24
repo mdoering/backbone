@@ -1,5 +1,4 @@
-Hyalodiscus plicatus T. F. Kozyrenko SPECIES
-=======
+# Hyalodiscus plicatus T. F. Kozyrenko SPECIES
 
 #### Status
 ACCEPTED

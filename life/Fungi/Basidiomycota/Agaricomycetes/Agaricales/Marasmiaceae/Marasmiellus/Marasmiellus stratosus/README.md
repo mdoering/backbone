@@ -1,5 +1,4 @@
-Marasmiellus stratosus Singer SPECIES
-=======
+# Marasmiellus stratosus Singer SPECIES
 
 #### Status
 ACCEPTED

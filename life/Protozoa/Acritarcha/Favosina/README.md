@@ -1,5 +1,4 @@
-Favosina GENUS
-=======
+# Favosina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora luticola K.B. Khare SPECIES
-=======
+# Octospora luticola K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

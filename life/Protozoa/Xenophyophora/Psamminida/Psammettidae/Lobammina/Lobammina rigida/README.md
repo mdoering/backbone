@@ -1,5 +1,4 @@
-Lobammina rigida Kamenskaya, 2000 SPECIES
-=======
+# Lobammina rigida Kamenskaya, 2000 SPECIES
 
 #### Status
 ACCEPTED

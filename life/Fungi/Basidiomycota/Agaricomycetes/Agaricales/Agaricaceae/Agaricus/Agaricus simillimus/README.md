@@ -1,5 +1,4 @@
-Agaricus simillimus Peck SPECIES
-=======
+# Agaricus simillimus Peck SPECIES
 
 #### Status
 ACCEPTED

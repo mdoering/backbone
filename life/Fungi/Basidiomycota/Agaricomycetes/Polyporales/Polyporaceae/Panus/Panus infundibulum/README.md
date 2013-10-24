@@ -1,5 +1,4 @@
-Panus infundibulum Berk. & M.A. Curtis SPECIES
-=======
+# Panus infundibulum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

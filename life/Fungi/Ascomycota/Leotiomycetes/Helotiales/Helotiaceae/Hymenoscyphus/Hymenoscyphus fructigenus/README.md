@@ -1,17 +1,16 @@
-Phialea fructigena var. fructigena VARIETY
-=======
+# Hymenoscyphus fructigenus (Bull.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Plants 1: 673 (1821)
 
 #### Original name
-Phialea fructigena var. fructigena
+null
 
 ### Remarks
 null

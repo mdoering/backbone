@@ -1,5 +1,4 @@
-Microdiplodia callitrina Sacc. SPECIES
-=======
+# Microdiplodia callitrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

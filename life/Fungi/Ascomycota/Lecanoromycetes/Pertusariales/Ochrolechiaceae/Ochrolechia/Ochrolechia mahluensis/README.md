@@ -1,5 +1,4 @@
-Ochrolechia mahluensis Räsänen SPECIES
-=======
+# Ochrolechia mahluensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

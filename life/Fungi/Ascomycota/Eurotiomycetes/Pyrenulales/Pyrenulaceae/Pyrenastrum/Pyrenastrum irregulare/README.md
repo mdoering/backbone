@@ -1,5 +1,4 @@
-Pyrenastrum irregulare (Fée) Müll. Arg. SPECIES
-=======
+# Pyrenastrum irregulare (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillis parlatoriae Sawada SPECIES
-=======
+# Verticillis parlatoriae Sawada SPECIES
 
 #### Status
 ACCEPTED

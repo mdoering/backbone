@@ -1,5 +1,4 @@
-Helicoma chlamydosporum Shearer, 1987 SPECIES
-=======
+# Helicoma chlamydosporum Shearer, 1987 SPECIES
 
 #### Status
 ACCEPTED

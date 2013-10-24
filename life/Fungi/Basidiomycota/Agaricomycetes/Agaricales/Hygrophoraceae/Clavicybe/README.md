@@ -1,5 +1,4 @@
-Clavicybe Harmaja GENUS
-=======
+# Clavicybe Harmaja GENUS
 
 #### Status
 ACCEPTED

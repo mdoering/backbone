@@ -1,5 +1,4 @@
-Pezizella vogelii Syd. SPECIES
-=======
+# Pezizella vogelii Syd. SPECIES
 
 #### Status
 ACCEPTED

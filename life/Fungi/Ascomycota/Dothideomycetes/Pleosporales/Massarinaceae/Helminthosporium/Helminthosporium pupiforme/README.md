@@ -1,17 +1,16 @@
-Helminthosporium pupaeforme Renault & Roche SPECIES
-=======
+# Helminthosporium pupiforme Renault & Roche SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin de la Société d'Histoire naturelle d'Autun 11(1): 222 (1898)
 
 #### Original name
-Helminthosporium pupaeforme Renault & Roche
+Helminthosporium pupiforme Renault & Roche
 
 ### Remarks
 null

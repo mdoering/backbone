@@ -1,5 +1,4 @@
-Marasmius subalpinus P.A. Moreau SPECIES
-=======
+# Marasmius subalpinus P.A. Moreau SPECIES
 
 #### Status
 ACCEPTED

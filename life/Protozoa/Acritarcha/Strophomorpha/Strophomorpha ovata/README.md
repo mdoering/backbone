@@ -1,5 +1,4 @@
-Strophomorpha ovata Miller & Eames, 1982 SPECIES
-=======
+# Strophomorpha ovata Miller & Eames, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus laeticolor (Cooke & Massee) Pegler SPECIES
-=======
+# Rhodophyllus laeticolor (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

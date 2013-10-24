@@ -1,5 +1,4 @@
-Cortinarius diabolicorigens Bohus SPECIES
-=======
+# Cortinarius diabolicorigens Bohus SPECIES
 
 #### Status
 ACCEPTED

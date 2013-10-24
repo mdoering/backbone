@@ -1,5 +1,4 @@
-Cercospora solani-biflori Sawada SPECIES
-=======
+# Cercospora solani-biflori Sawada SPECIES
 
 #### Status
 ACCEPTED

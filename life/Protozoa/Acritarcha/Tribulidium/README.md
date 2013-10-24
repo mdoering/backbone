@@ -1,5 +1,4 @@
-Tribulidium M. Quintavalle & G. Playford, 2006 GENUS
-=======
+# Tribulidium M. Quintavalle & G. Playford, 2006 GENUS
 
 #### Status
 ACCEPTED

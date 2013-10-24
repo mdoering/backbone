@@ -1,5 +1,4 @@
-Spirirestis V.R.Flechtner & J.R.Johansen, 2002 GENUS
-=======
+# Spirirestis V.R.Flechtner & J.R.Johansen, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodiacrodium valdaicum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium valdaicum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

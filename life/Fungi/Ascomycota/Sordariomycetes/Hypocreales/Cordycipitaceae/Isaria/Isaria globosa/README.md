@@ -1,5 +1,4 @@
-Isaria globosa Schwein. SPECIES
-=======
+# Isaria globosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

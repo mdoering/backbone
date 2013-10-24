@@ -1,5 +1,4 @@
-Cortinarius undantipes Rob. Henry SPECIES
-=======
+# Cortinarius undantipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

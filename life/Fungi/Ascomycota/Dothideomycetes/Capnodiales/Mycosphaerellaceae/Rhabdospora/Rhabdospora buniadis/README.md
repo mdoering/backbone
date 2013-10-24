@@ -1,5 +1,4 @@
-Rhabdospora buniadis M. Petrov SPECIES
-=======
+# Rhabdospora buniadis M. Petrov SPECIES
 
 #### Status
 ACCEPTED

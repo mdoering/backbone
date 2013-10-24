@@ -1,5 +1,4 @@
-Caloplaca transcaspica (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca transcaspica (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalinia strobincola Rehm SPECIES
-=======
+# Hyalinia strobincola Rehm SPECIES
 
 #### Status
 ACCEPTED

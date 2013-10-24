@@ -1,5 +1,4 @@
-Melanomphalia emarginata Singer SPECIES
-=======
+# Melanomphalia emarginata Singer SPECIES
 
 #### Status
 ACCEPTED

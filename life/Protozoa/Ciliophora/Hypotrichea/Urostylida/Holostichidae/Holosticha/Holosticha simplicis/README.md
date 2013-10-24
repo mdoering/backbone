@@ -1,5 +1,4 @@
-Holosticha simplicis Wang & Nie, 1932 SPECIES
-=======
+# Holosticha simplicis Wang & Nie, 1932 SPECIES
 
 #### Status
 ACCEPTED

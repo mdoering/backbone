@@ -1,5 +1,4 @@
-Phytophthora omnivora-parasitica SPECIES
-=======
+# Phytophthora omnivora-parasitica SPECIES
 
 #### Status
 ACCEPTED

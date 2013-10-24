@@ -1,5 +1,4 @@
-Monochaetia mucronata (Massee) Maire SPECIES
-=======
+# Monochaetia mucronata (Massee) Maire SPECIES
 
 #### Status
 ACCEPTED

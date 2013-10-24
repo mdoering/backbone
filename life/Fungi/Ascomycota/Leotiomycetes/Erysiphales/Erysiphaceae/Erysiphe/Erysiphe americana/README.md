@@ -1,5 +1,4 @@
-Erysiphe americana U. Braun SPECIES
-=======
+# Erysiphe americana U. Braun SPECIES
 
 #### Status
 ACCEPTED

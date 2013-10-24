@@ -1,5 +1,4 @@
-Histeridomyces tishechkinii A. Weir, 2001 SPECIES
-=======
+# Histeridomyces tishechkinii A. Weir, 2001 SPECIES
 
 #### Status
 ACCEPTED

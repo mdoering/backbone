@@ -1,5 +1,4 @@
-Sporidesmium clavaeforme Preuss SPECIES
-=======
+# Sporidesmium clavaeforme Preuss SPECIES
 
 #### Status
 ACCEPTED

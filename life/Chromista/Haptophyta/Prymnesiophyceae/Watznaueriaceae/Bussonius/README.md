@@ -1,5 +1,4 @@
-Bussonius G. Goy, 1979 in Goy, D. Noël & G. Busson, 1979 GENUS
-=======
+# Bussonius G. Goy, 1979 in Goy, D. Noël & G. Busson, 1979 GENUS
 
 #### Status
 ACCEPTED

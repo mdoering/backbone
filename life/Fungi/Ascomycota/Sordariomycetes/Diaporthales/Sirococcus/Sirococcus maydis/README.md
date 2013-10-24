@@ -1,5 +1,4 @@
-Sirococcus maydis Speg. SPECIES
-=======
+# Sirococcus maydis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo artabotrydis Syd. & P. Syd. SPECIES
-=======
+# Uredo artabotrydis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

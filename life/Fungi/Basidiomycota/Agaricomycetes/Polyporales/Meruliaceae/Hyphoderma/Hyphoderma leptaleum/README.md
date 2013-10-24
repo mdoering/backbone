@@ -1,14 +1,13 @@
-Corticium leptaleum Ellis & Everh., 1896 SPECIES
-=======
+# Hyphoderma leptaleum (Ellis & Everh.) Ginns, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Millspaugh & Nuttall, Publications of the Field Columbia Museum, Bot. series 9: 170 (1896)
+Mycotaxon 44(1): 202 (1992)
 
 #### Original name
 Corticium leptaleum Ellis & Everh., 1896

@@ -1,5 +1,4 @@
-Puccinia macropus Lév. SPECIES
-=======
+# Puccinia macropus Lév. SPECIES
 
 #### Status
 ACCEPTED

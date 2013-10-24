@@ -1,14 +1,13 @@
-Cercospora gomphrenicola Speg., 1882 SPECIES
-=======
+# Passalora gomphrenicola (Speg.) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 13(1): 29 [no. 341] (1882)
+Schlechtendalia 5: 64 (2000)
 
 #### Original name
 Cercospora gomphrenicola Speg., 1882

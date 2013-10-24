@@ -1,5 +1,4 @@
-Phaeothamnion confervicolum var. britannica Godward VARIETY
-=======
+# Phaeothamnion confervicolum SPECIES
 
 #### Status
 ACCEPTED

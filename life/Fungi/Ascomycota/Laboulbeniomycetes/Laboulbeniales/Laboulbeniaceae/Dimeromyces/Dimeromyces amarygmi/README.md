@@ -1,5 +1,4 @@
-Dimeromyces amarygmi Thaxt. SPECIES
-=======
+# Dimeromyces amarygmi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

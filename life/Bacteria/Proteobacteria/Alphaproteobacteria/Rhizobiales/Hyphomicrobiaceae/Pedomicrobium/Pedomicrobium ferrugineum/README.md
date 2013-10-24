@@ -1,5 +1,4 @@
-Pedomicrobium ferrugineum Aristovskaya, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Pedomicrobium ferrugineum Aristovskaya, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

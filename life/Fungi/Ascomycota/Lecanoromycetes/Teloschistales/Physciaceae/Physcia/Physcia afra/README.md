@@ -1,5 +1,4 @@
-Physcia afra Hue SPECIES
-=======
+# Physcia afra Hue SPECIES
 
 #### Status
 ACCEPTED

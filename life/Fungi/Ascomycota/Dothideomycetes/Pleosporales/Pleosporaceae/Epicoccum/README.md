@@ -1,17 +1,16 @@
-Malacharia Fée GENUS
-=======
+# Epicoccum Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 7: 32 (1815)
 
 #### Original name
-Malacharia Fée
+Epicoccum Link
 
 ### Remarks
 null

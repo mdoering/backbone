@@ -1,5 +1,4 @@
-Leucoporus spegazzinianus Bres. SPECIES
-=======
+# Leucoporus spegazzinianus Bres. SPECIES
 
 #### Status
 ACCEPTED

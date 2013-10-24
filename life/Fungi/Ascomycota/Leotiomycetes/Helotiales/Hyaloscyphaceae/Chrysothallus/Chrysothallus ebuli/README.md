@@ -1,5 +1,4 @@
-Chrysothallus ebuli Velen. SPECIES
-=======
+# Chrysothallus ebuli Velen. SPECIES
 
 #### Status
 ACCEPTED

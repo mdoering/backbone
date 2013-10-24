@@ -1,5 +1,4 @@
-Lagotia stylifer Wright, 1862 SPECIES
-=======
+# Lagotia stylifer Wright, 1862 SPECIES
 
 #### Status
 ACCEPTED

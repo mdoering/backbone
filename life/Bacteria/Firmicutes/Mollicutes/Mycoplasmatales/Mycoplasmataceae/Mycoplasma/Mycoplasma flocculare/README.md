@@ -1,5 +1,4 @@
-Mycoplasma flocculare Meyling and Friss, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma flocculare Meyling and Friss, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

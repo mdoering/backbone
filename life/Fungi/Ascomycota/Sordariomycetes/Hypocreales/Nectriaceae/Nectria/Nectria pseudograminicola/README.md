@@ -1,5 +1,4 @@
-Nectria pseudograminicola Weese SPECIES
-=======
+# Nectria pseudograminicola Weese SPECIES
 
 #### Status
 ACCEPTED

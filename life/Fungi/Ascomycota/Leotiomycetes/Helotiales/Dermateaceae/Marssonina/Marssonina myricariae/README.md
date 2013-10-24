@@ -1,5 +1,4 @@
-Marssonina myricariae (Rostr.) Magnus SPECIES
-=======
+# Marssonina myricariae (Rostr.) Magnus SPECIES
 
 #### Status
 ACCEPTED

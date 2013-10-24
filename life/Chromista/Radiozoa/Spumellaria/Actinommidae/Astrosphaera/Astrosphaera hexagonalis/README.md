@@ -1,5 +1,4 @@
-Astrosphaera hexagonalis Haeckel, 1887 SPECIES
-=======
+# Astrosphaera hexagonalis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

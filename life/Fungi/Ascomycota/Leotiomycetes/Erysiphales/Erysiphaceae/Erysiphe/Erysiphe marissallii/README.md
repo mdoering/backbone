@@ -1,5 +1,4 @@
-Erysiphe marissallii Westend. SPECIES
-=======
+# Erysiphe marissallii Westend. SPECIES
 
 #### Status
 ACCEPTED

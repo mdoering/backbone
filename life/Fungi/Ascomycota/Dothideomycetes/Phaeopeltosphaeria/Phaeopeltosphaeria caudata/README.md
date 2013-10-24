@@ -1,5 +1,4 @@
-Phaeopeltosphaeria caudata Berl. & Peglion, 1892 SPECIES
-=======
+# Phaeopeltosphaeria caudata Berl. & Peglion, 1892 SPECIES
 
 #### Status
 ACCEPTED

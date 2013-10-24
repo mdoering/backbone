@@ -1,5 +1,4 @@
-Peridinium quadridens Stein SPECIES
-=======
+# Peridinium quadridens Stein SPECIES
 
 #### Status
 ACCEPTED

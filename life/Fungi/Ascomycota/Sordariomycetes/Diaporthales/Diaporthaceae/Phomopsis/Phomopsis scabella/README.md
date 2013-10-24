@@ -1,5 +1,4 @@
-Phomopsis scabella (Penz.) Curzi SPECIES
-=======
+# Phomopsis scabella (Penz.) Curzi SPECIES
 
 #### Status
 ACCEPTED

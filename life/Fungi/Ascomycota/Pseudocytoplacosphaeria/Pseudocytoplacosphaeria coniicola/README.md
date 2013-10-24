@@ -1,5 +1,4 @@
-Pseudocytoplacosphaeria coniicola Punith. & Spooner, 2002 SPECIES
-=======
+# Pseudocytoplacosphaeria coniicola Punith. & Spooner, 2002 SPECIES
 
 #### Status
 ACCEPTED

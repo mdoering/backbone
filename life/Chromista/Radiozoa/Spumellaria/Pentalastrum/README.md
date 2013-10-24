@@ -1,5 +1,4 @@
-Pentalastrum Haeckel, 1881 GENUS
-=======
+# Pentalastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria elaeochroa Tuck. SPECIES
-=======
+# Verrucaria elaeochroa Tuck. SPECIES
 
 #### Status
 ACCEPTED

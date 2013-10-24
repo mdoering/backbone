@@ -1,5 +1,4 @@
-Myceloblastanon parabalcanicum (Castell. & Chalm.) M. Ota SPECIES
-=======
+# Myceloblastanon parabalcanicum (Castell. & Chalm.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria parasema Zenker SPECIES
-=======
+# Verrucaria parasema Zenker SPECIES
 
 #### Status
 ACCEPTED

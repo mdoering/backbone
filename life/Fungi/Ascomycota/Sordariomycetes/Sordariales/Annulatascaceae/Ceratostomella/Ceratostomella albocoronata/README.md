@@ -1,5 +1,4 @@
-Ceratostomella albocoronata (Ellis) Sacc. SPECIES
-=======
+# Ceratostomella albocoronata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

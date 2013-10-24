@@ -1,5 +1,4 @@
-Mycosphaerella garganica (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella garganica (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium rimosum E.K. Cash SPECIES
-=======
+# Belonium rimosum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

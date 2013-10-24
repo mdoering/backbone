@@ -1,14 +1,13 @@
-Polyporus conjunctus Lloyd, 1918 SPECIES
-=======
+# Amauroderma conjunctum (Lloyd) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Notes (Cincinnati) 5: 812 (1918)
+Brotéria, sér. bot. 18: 133 (1920)
 
 #### Original name
 Polyporus conjunctus Lloyd, 1918

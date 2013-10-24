@@ -1,5 +1,4 @@
-Cylindrosporium pomicola Vassiljevsky SPECIES
-=======
+# Cylindrosporium pomicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

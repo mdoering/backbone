@@ -1,5 +1,4 @@
-Peranema ovale Lackey SPECIES
-=======
+# Peranema ovale Lackey SPECIES
 
 #### Status
 ACCEPTED

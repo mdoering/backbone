@@ -1,5 +1,4 @@
-Stagonospora heterospora Sacc. SPECIES
-=======
+# Stagonospora heterospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

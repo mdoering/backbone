@@ -1,5 +1,4 @@
-Pholiota mutans A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota mutans A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

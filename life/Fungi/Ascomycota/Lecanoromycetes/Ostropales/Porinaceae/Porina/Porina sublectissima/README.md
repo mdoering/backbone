@@ -1,5 +1,4 @@
-Porina sublectissima (Nyl.) Zahlbr. SPECIES
-=======
+# Porina sublectissima (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

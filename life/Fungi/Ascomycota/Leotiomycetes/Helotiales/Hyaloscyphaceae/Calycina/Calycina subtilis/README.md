@@ -1,5 +1,4 @@
-Calycina subtilis (Fr.) Baral SPECIES
-=======
+# Calycina subtilis (Fr.) Baral SPECIES
 
 #### Status
 ACCEPTED

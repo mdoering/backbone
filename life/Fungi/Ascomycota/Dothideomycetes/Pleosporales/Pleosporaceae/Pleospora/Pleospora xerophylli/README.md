@@ -1,5 +1,4 @@
-Pleospora xerophylli Petr. SPECIES
-=======
+# Pleospora xerophylli Petr. SPECIES
 
 #### Status
 ACCEPTED

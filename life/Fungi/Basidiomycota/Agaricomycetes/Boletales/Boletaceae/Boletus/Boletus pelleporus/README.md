@@ -1,17 +1,16 @@
-Boletus pelloporus Bull. SPECIES
-=======
+# Boletus pelleporus Sowerby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. (London) 2: pl. 230 (1799)
 
 #### Original name
-Boletus pelloporus Bull.
+Boletus pelleporus Sowerby
 
 ### Remarks
 null

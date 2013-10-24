@@ -1,5 +1,4 @@
-Pulparia spongiosa (Peck) Sacc. SPECIES
-=======
+# Pulparia spongiosa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

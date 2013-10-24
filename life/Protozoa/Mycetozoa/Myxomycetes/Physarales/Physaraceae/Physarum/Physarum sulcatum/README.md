@@ -1,5 +1,4 @@
-Physarum sulcatum Link SPECIES
-=======
+# Physarum sulcatum Link SPECIES
 
 #### Status
 ACCEPTED

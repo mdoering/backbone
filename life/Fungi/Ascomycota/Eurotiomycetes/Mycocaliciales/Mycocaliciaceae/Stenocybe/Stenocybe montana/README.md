@@ -1,5 +1,4 @@
-Stenocybe montana Titov SPECIES
-=======
+# Stenocybe montana Titov SPECIES
 
 #### Status
 ACCEPTED

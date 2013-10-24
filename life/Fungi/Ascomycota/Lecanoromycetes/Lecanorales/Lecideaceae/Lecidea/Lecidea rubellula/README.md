@@ -1,5 +1,4 @@
-Lecidea rubellula Nyl. SPECIES
-=======
+# Lecidea rubellula Nyl. SPECIES
 
 #### Status
 ACCEPTED

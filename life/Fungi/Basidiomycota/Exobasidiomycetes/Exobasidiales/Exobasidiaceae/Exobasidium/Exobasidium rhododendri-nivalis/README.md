@@ -1,5 +1,4 @@
-Exobasidium rhododendri-nivalis Zhen Ying Li & L. Guo SPECIES
-=======
+# Exobasidium rhododendri-nivalis Zhen Ying Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe parvicoccinea (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Hygrocybe parvicoccinea (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

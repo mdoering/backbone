@@ -1,14 +1,13 @@
-Embadomonas Mackinnon, 1911 GENUS
-=======
+# Retortamonas B.Grassi, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Parasitology, 4, 30.
+Gazzetta Med. Ital. Lombard. , 39, no. 45, 446.
 
 #### Original name
 null

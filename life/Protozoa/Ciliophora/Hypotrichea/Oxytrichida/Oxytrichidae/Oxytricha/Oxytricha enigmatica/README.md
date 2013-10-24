@@ -1,5 +1,4 @@
-Oxytricha enigmatica Stokes, 1885 SPECIES
-=======
+# Oxytricha enigmatica Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

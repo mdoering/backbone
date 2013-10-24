@@ -1,5 +1,4 @@
-Alphitomorpha holosericea Wallr. SPECIES
-=======
+# Alphitomorpha holosericea Wallr. SPECIES
 
 #### Status
 ACCEPTED

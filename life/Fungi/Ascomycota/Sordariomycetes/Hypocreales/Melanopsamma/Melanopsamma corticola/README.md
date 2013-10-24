@@ -1,5 +1,4 @@
-Melanopsamma corticola Ellis & Everh. SPECIES
-=======
+# Melanopsamma corticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

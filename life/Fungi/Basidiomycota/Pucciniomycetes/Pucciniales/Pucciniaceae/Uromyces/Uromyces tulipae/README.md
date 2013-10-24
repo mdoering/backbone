@@ -1,5 +1,4 @@
-Uromyces tulipae Dietel SPECIES
-=======
+# Uromyces tulipae Dietel SPECIES
 
 #### Status
 ACCEPTED

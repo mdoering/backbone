@@ -1,5 +1,4 @@
-Pertusaria flavosulphurea Vain. SPECIES
-=======
+# Pertusaria flavosulphurea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia petrinus E.H.L. Krause SPECIES
-=======
+# Stropharia petrinus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

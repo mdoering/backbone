@@ -1,5 +1,4 @@
-Aldona Racib. GENUS
-=======
+# Aldona Racib. GENUS
 
 #### Status
 ACCEPTED

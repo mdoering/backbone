@@ -1,17 +1,16 @@
-Karschia destructans Tobler SPECIES
-=======
+# Buellia schaereri De Not. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. 2(1): 199 (1846)
 
 #### Original name
-Karschia destructans Tobler
+Buellia schaereri De Not.
 
 ### Remarks
 null

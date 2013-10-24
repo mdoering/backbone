@@ -1,5 +1,4 @@
-Baeomyces callianthus Lettau SPECIES
-=======
+# Baeomyces callianthus Lettau SPECIES
 
 #### Status
 ACCEPTED

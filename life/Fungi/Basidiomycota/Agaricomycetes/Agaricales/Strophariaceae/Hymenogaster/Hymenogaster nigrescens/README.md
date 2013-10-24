@@ -1,5 +1,4 @@
-Hymenogaster nigrescens A.H. Sm. SPECIES
-=======
+# Hymenogaster nigrescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

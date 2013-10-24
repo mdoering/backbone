@@ -1,17 +1,16 @@
-Lecidea orosthea f. orosthea FORM
-=======
+# Lecanora orosthea (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 400 (1810)
 
 #### Original name
-Lecidea orosthea f. orosthea
+Lichen orostheus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora contractum (Syd.) Sivan. SPECIES
-=======
+# Phyllachora contractum (Syd.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

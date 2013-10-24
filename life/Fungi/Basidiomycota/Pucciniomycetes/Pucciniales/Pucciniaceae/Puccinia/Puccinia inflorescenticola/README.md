@@ -1,5 +1,4 @@
-Puccinia inflorescenticola Pole-Evans SPECIES
-=======
+# Puccinia inflorescenticola Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

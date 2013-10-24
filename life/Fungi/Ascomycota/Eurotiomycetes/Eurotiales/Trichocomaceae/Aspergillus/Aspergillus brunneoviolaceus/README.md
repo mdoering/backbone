@@ -1,5 +1,4 @@
-Aspergillus brunneoviolaceus Bat. & H. Maia SPECIES
-=======
+# Aspergillus brunneoviolaceus Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

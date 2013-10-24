@@ -1,5 +1,4 @@
-Cortinarius mexicanus Murrill SPECIES
-=======
+# Cortinarius mexicanus Murrill SPECIES
 
 #### Status
 ACCEPTED

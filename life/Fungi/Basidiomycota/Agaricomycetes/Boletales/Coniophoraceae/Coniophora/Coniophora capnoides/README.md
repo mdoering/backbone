@@ -1,5 +1,4 @@
-Coniophora capnoides Ellis & Everh. SPECIES
-=======
+# Coniophora capnoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

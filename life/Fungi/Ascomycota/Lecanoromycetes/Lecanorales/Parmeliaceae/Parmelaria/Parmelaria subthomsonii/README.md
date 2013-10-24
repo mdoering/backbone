@@ -1,5 +1,4 @@
-Parmelaria subthomsonii D.D. Awasthi SPECIES
-=======
+# Parmelaria subthomsonii D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

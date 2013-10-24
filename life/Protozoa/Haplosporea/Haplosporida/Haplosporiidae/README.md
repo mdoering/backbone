@@ -1,5 +1,4 @@
-Haplosporiidae Caullery & Mesnil, 1905 FAMILY
-=======
+# Haplosporiidae Caullery & Mesnil, 1905 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia nubilior (Stirt.) Hellb. SPECIES
-=======
+# Bacidia nubilior (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

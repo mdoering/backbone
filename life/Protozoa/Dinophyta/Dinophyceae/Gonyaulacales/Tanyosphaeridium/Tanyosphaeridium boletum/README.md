@@ -1,5 +1,4 @@
-Tanyosphaeridium boletum R. J. Davey SPECIES
-=======
+# Tanyosphaeridium boletum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

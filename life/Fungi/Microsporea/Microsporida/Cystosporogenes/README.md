@@ -1,5 +1,4 @@
-Cystosporogenes E.U. Canning, R.J. Barker, J.P. Nicholas & A.M. Page GENUS
-=======
+# Cystosporogenes E.U. Canning, R.J. Barker, J.P. Nicholas & A.M. Page GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium macrosporum (Nowak.) J. Schröt. SPECIES
-=======
+# Olpidium macrosporum (Nowak.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

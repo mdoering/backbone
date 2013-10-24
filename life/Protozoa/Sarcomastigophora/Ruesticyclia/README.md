@@ -1,5 +1,4 @@
-Ruesticyclia Kozur & Mostler, 1972 GENUS
-=======
+# Ruesticyclia Kozur & Mostler, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium uredinis Deighton SPECIES
-=======
+# Cladosporium uredinis Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora paui Gonz. Frag. SPECIES
-=======
+# Rhabdospora paui Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

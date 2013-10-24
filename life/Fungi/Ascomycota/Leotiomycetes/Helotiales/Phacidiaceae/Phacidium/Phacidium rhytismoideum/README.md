@@ -1,5 +1,4 @@
-Phacidium rhytismoideum Cooke & Massee SPECIES
-=======
+# Phacidium rhytismoideum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

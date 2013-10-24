@@ -1,5 +1,4 @@
-Paraevansia R. Below, 1990 GENUS
-=======
+# Paraevansia R. Below, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycocladiaceae K. Hoffm., Discher & K. Voigt FAMILY
-=======
+# Mycocladaceae K. Hoffm., Discher & K. Voigt FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 111(10): 1177 (2007)
 
 #### Original name
-Mycocladiaceae K. Hoffm., Discher & K. Voigt
+Mycocladaceae K. Hoffm., Discher & K. Voigt
 
 ### Remarks
 null

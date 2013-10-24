@@ -1,5 +1,4 @@
-Clitocybe casimiri Velen. SPECIES
-=======
+# Clitocybe casimiri Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes opacus (Berk. & Mont.) Sacc. SPECIES
-=======
+# Fomes opacus (Berk. & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

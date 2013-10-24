@@ -1,8 +1,7 @@
-Agarum turneri Postels & Ruprecht, 1840 SPECIES
-=======
+# Agarum clathratum Dumortier, 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

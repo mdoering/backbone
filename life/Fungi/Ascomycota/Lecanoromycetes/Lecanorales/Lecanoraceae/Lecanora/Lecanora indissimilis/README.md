@@ -1,5 +1,4 @@
-Lecanora indissimilis H. Magn. SPECIES
-=======
+# Lecanora indissimilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

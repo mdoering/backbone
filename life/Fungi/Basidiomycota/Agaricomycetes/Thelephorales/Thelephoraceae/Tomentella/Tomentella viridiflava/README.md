@@ -1,5 +1,4 @@
-Tomentella viridiflava Bourdot & Galzin SPECIES
-=======
+# Tomentella viridiflava Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

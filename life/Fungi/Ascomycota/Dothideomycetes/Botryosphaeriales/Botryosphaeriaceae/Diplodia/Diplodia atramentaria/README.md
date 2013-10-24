@@ -1,5 +1,4 @@
-Diplodia atramentaria Cooke & Ellis SPECIES
-=======
+# Diplodia atramentaria Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

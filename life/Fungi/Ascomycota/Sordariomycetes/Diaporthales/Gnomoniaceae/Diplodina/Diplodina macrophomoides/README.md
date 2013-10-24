@@ -1,5 +1,4 @@
-Diplodina macrophomoides Sousa da Câmara SPECIES
-=======
+# Diplodina macrophomoides Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

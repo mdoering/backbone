@@ -1,5 +1,4 @@
-Candelariella herteri Räsänen SPECIES
-=======
+# Candelariella herteri Räsänen SPECIES
 
 #### Status
 ACCEPTED

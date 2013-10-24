@@ -1,5 +1,4 @@
-Appendiculella larviformis var. larviformis VARIETY
-=======
+# Appendiculella larviformis (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 556 (1919)
 
 #### Original name
-Appendiculella larviformis var. larviformis
+Meliola larviformis Henn.
 
 ### Remarks
 null

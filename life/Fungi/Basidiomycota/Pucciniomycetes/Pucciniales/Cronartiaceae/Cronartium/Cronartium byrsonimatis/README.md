@@ -1,5 +1,4 @@
-Cronartium byrsonimatis Henn. SPECIES
-=======
+# Cronartium byrsonimatis Henn. SPECIES
 
 #### Status
 ACCEPTED

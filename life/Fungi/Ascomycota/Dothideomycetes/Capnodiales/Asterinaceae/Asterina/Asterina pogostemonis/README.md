@@ -1,5 +1,4 @@
-Asterina pogostemonis Petr. SPECIES
-=======
+# Asterina pogostemonis Petr. SPECIES
 
 #### Status
 ACCEPTED

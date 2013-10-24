@@ -1,5 +1,4 @@
-Lactobacillus animalis Dent & Williams, 1983 SPECIES
-=======
+# Lactobacillus animalis Dent & Williams, 1983 SPECIES
 
 #### Status
 ACCEPTED

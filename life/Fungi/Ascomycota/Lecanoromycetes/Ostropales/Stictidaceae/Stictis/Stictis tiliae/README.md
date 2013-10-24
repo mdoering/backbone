@@ -1,5 +1,4 @@
-Stictis tiliae Lasch SPECIES
-=======
+# Stictis tiliae Lasch SPECIES
 
 #### Status
 ACCEPTED

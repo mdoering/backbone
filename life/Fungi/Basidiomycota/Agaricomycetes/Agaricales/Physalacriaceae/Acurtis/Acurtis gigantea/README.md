@@ -1,5 +1,4 @@
-Acurtis gigantea (Schwein.) Fr. SPECIES
-=======
+# Acurtis gigantea (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus eupigmentatus Singer SPECIES
-=======
+# Pluteus eupigmentatus Singer SPECIES
 
 #### Status
 ACCEPTED

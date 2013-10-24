@@ -1,5 +1,4 @@
-Rhabdospora chelidonii Petr. SPECIES
-=======
+# Rhabdospora chelidonii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella buphthalmi (Allesch.) Aa SPECIES
-=======
+# Asteromella buphthalmi (Allesch.) Aa SPECIES
 
 #### Status
 ACCEPTED

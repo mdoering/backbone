@@ -1,5 +1,4 @@
-Hollandina Haynes, 1956 GENUS
-=======
+# Hollandina Haynes, 1956 GENUS
 
 #### Status
 ACCEPTED

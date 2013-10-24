@@ -1,5 +1,4 @@
-Platysma denudatum Hoffm. SPECIES
-=======
+# Platysma denudatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

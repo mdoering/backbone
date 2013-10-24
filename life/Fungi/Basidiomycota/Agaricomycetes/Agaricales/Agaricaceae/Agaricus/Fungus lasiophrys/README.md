@@ -1,5 +1,4 @@
-Fungus lasiophrys (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus lasiophrys (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

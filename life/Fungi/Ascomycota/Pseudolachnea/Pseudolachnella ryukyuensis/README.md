@@ -1,5 +1,4 @@
-Pseudolachnella ryukyuensis (I. Hino & Katum.) Nag Raj SPECIES
-=======
+# Pseudolachnella ryukyuensis (I. Hino & Katum.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

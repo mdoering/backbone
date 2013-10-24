@@ -1,5 +1,4 @@
-Verrucaria jerusalemica Servít SPECIES
-=======
+# Verrucaria jerusalemica Servít SPECIES
 
 #### Status
 ACCEPTED

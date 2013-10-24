@@ -1,5 +1,4 @@
-Paraphysorma ambrosianum A. Massal. SPECIES
-=======
+# Paraphysorma ambrosianum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

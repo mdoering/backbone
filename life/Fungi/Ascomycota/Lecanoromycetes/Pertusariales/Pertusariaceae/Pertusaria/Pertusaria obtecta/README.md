@@ -1,5 +1,4 @@
-Pertusaria obtecta Erichsen SPECIES
-=======
+# Pertusaria obtecta Erichsen SPECIES
 
 #### Status
 ACCEPTED

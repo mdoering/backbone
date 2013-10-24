@@ -1,14 +1,13 @@
-Pseudoperonospora portoricensis (Lamkey) Seaver & Chardón, 1926 SPECIES
-=======
+# Plasmopara portoricensis (Lamkey) G.M. Waterh., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scient. Surv. P. Rico 8(1): 13 (1926)
+in Waterhouse & Brothers, Mycol. Pap. 148: 23 (1981)
 
 #### Original name
 Peronoplasmopara portoricensis Lamkey, 1920

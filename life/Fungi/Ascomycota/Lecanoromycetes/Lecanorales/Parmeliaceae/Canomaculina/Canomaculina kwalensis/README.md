@@ -1,5 +1,4 @@
-Canomaculina kwalensis (Krog & Swinscow) Elix SPECIES
-=======
+# Canomaculina kwalensis (Krog & Swinscow) Elix SPECIES
 
 #### Status
 ACCEPTED

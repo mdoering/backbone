@@ -1,5 +1,4 @@
-Gymnopilus melleus Hesler SPECIES
-=======
+# Gymnopilus melleus Hesler SPECIES
 
 #### Status
 ACCEPTED

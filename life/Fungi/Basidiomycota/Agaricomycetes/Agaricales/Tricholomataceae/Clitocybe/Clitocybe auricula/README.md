@@ -1,5 +1,4 @@
-Clitocybe auricula DC. SPECIES
-=======
+# Clitocybe auricula DC. SPECIES
 
 #### Status
 ACCEPTED

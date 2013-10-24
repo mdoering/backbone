@@ -1,5 +1,4 @@
-Endocarpon xanthostomum Sommerf. SPECIES
-=======
+# Endocarpon xanthostomum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

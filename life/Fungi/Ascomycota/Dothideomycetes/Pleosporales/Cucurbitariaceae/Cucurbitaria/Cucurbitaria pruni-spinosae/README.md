@@ -1,5 +1,4 @@
-Cucurbitaria pruni-spinosae Rehm SPECIES
-=======
+# Cucurbitaria pruni-spinosae Rehm SPECIES
 
 #### Status
 ACCEPTED

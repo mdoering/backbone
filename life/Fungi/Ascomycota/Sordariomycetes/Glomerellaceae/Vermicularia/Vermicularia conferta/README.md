@@ -1,5 +1,4 @@
-Vermicularia conferta Sacc. SPECIES
-=======
+# Vermicularia conferta Sacc. SPECIES
 
 #### Status
 ACCEPTED

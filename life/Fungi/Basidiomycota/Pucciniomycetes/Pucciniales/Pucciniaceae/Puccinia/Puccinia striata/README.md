@@ -1,5 +1,4 @@
-Puccinia striata Cooke SPECIES
-=======
+# Puccinia striata Cooke SPECIES
 
 #### Status
 ACCEPTED

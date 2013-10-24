@@ -1,5 +1,4 @@
-Diporicellaesporites navicularis Kalgutkar SPECIES
-=======
+# Diporicellaesporites navicularis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

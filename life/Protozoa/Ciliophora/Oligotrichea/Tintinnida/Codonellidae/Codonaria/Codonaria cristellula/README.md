@@ -1,8 +1,7 @@
-Cyttarocylis cristellula Fol, 1884 SPECIES
-=======
+# Codonaria cristellula (Fol, 1884) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

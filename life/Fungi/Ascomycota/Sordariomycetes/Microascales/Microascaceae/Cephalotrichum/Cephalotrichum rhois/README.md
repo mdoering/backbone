@@ -1,5 +1,4 @@
-Cephalotrichum rhois (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cephalotrichum rhois (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

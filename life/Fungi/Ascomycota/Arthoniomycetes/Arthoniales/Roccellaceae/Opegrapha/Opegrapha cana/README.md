@@ -1,5 +1,4 @@
-Opegrapha cana Chevall. SPECIES
-=======
+# Opegrapha cana Chevall. SPECIES
 
 #### Status
 ACCEPTED

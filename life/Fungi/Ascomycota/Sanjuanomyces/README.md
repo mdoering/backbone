@@ -1,5 +1,4 @@
-Sanjuanomyces R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Sanjuanomyces R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria caesionigricans Nyl. SPECIES
-=======
+# Verrucaria caesionigricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

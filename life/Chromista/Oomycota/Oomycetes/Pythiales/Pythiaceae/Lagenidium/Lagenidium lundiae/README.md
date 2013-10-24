@@ -1,5 +1,4 @@
-Lagenidium lundiae Karling SPECIES
-=======
+# Lagenidium lundiae Karling SPECIES
 
 #### Status
 ACCEPTED

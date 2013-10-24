@@ -1,5 +1,4 @@
-Septoria coreopsidis Davis SPECIES
-=======
+# Septoria coreopsidis Davis SPECIES
 
 #### Status
 ACCEPTED

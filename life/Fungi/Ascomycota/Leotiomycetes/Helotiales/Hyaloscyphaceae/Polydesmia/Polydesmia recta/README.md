@@ -1,5 +1,4 @@
-Polydesmia recta W.Y. Zhuang SPECIES
-=======
+# Polydesmia recta W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasystictella sphaerospora (Sacc. & Traverso) Höhn. SPECIES
-=======
+# Dasystictella sphaerospora (Sacc. & Traverso) Höhn. SPECIES
 
 #### Status
 ACCEPTED

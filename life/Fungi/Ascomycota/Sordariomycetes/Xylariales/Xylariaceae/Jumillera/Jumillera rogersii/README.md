@@ -1,5 +1,4 @@
-Jumillera rogersii Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Jumillera rogersii Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

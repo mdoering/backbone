@@ -1,5 +1,4 @@
-Volutella caryogena Fairm. SPECIES
-=======
+# Volutella caryogena Fairm. SPECIES
 
 #### Status
 ACCEPTED

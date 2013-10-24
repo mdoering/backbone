@@ -1,5 +1,4 @@
-Lecidea thelotrematis Fée SPECIES
-=======
+# Lecidea thelotrematis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora digitata Fr. SPECIES
-=======
+# Thelephora digitata Fr. SPECIES
 
 #### Status
 ACCEPTED

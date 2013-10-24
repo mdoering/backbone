@@ -1,5 +1,4 @@
-Peronospora actinostemmatis (Sawada) Skalický SPECIES
-=======
+# Peronospora actinostemmatis (Sawada) Skalický SPECIES
 
 #### Status
 ACCEPTED

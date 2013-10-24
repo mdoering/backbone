@@ -1,5 +1,4 @@
-Inocybe marmoripes G.F. Atk. SPECIES
-=======
+# Inocybe marmoripes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

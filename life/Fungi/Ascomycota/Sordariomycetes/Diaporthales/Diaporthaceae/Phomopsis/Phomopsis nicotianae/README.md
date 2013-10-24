@@ -1,5 +1,4 @@
-Phomopsis nicotianae Fairm. SPECIES
-=======
+# Phomopsis nicotianae Fairm. SPECIES
 
 #### Status
 ACCEPTED

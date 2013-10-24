@@ -1,17 +1,16 @@
-Pyrenopeziza euphrasiae var. euphrasiae VARIETY
-=======
+# Mollisia euphrasiae (Fuckel) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 325 (1889)
 
 #### Original name
-Pyrenopeziza euphrasiae var. euphrasiae
+Niptera euphrasiae Fuckel, 1870
 
 ### Remarks
 null

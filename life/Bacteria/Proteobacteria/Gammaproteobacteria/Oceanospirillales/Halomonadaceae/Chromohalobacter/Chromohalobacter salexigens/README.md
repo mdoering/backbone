@@ -1,5 +1,4 @@
-Chromohalobacter salexigens Arahal et al., 2001 SPECIES
-=======
+# Chromohalobacter salexigens Arahal et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

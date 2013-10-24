@@ -1,5 +1,4 @@
-Marasmiellus stenocystis Singer SPECIES
-=======
+# Marasmiellus stenocystis Singer SPECIES
 
 #### Status
 ACCEPTED

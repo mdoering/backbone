@@ -1,5 +1,4 @@
-Phlegmacium leoninum Velen. SPECIES
-=======
+# Phlegmacium leoninum Velen. SPECIES
 
 #### Status
 ACCEPTED

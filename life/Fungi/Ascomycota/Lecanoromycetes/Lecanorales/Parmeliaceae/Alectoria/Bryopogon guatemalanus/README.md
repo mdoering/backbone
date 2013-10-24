@@ -1,5 +1,4 @@
-Bryopogon guatemalanus Gyeln. SPECIES
-=======
+# Bryopogon guatemalanus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

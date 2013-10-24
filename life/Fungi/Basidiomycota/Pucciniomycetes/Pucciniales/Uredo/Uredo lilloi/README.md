@@ -1,5 +1,4 @@
-Uredo lilloi Speg. SPECIES
-=======
+# Uredo lilloi Speg. SPECIES
 
 #### Status
 ACCEPTED

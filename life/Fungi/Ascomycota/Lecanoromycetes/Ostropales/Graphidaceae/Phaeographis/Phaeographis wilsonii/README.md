@@ -1,8 +1,7 @@
-Phaeographina wilsonii A. W. Archer SPECIES
-=======
+# Phaeographis wilsonii (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

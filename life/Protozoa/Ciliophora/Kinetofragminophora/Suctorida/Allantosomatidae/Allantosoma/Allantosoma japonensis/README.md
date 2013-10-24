@@ -1,5 +1,4 @@
-Allantosoma japonensis SPECIES
-=======
+# Allantosoma japonensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichopterium Haeckel, 1887 GENUS
-=======
+# Stichopterium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

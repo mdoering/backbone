@@ -1,17 +1,16 @@
-Polyporus luciengueletii Teixeira SPECIES
-=======
+# Jahnoporus hirtus (Cooke) Nuss, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hoppea 39: 176 (1980)
 
 #### Original name
-Polyporus luciengueletii Teixeira
+Polyporus hirtus Quél., 1873
 
 ### Remarks
 null

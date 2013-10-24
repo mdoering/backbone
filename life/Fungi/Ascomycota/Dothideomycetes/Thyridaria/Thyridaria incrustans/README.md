@@ -1,17 +1,16 @@
-Melogramma incrustans (Sacc.) Cooke, 1885 SPECIES
-=======
+# Thyridaria incrustans Sacc., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Soc. Veneto-Trent. Sci. Nat. 2: 170 (1873)
 
 #### Original name
-null
+Thyridaria incrustans Sacc., 1873
 
 ### Remarks
 null

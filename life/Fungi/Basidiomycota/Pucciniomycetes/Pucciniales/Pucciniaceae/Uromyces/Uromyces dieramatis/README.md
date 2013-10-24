@@ -1,5 +1,4 @@
-Uromyces dieramatis Doidge SPECIES
-=======
+# Uromyces dieramatis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiropes lembosiae M.B. Ellis SPECIES
-=======
+# Spiropes lembosiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

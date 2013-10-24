@@ -1,5 +1,4 @@
-Xenolophium samuelsii Huhndorf SPECIES
-=======
+# Xenolophium samuelsii Huhndorf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungoides acetabuliforme Vaill. SPECIES
-=======
+# Fungoides acetabuliforme Vaill. SPECIES
 
 #### Status
 ACCEPTED

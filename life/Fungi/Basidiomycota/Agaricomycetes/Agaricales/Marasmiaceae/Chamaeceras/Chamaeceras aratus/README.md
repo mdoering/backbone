@@ -1,5 +1,4 @@
-Chamaeceras aratus (W.G. Sm.) Kuntze SPECIES
-=======
+# Chamaeceras aratus (W.G. Sm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

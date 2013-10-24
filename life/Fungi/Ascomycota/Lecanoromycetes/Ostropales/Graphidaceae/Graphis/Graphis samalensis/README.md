@@ -1,5 +1,4 @@
-Graphis samalensis Vain. SPECIES
-=======
+# Graphis samalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

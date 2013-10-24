@@ -1,5 +1,4 @@
-Erysiphe lamprocarpa f. lamprocarpa FORM
-=======
+# Erysiphe lamprocarpa (Wallr.) Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 108 (1824)
 
 #### Original name
-Erysiphe lamprocarpa f. lamprocarpa
+Alphitomorpha lamprocarpa ß balsaminae Wallr.
 
 ### Remarks
 null

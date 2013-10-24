@@ -1,5 +1,4 @@
-Fungus johnsonianus (Peck) Kuntze SPECIES
-=======
+# Fungus johnsonianus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

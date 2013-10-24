@@ -1,5 +1,4 @@
-Sethostaurus Haeckel, 1881 GENUS
-=======
+# Sethostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

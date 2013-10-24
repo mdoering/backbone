@@ -1,5 +1,4 @@
-Penicillium monstrosum Sopp SPECIES
-=======
+# Penicillium monstrosum Sopp SPECIES
 
 #### Status
 ACCEPTED

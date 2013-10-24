@@ -1,5 +1,4 @@
-Stropharia aerugineomaculans Höhn. SPECIES
-=======
+# Stropharia aerugineomaculans Höhn. SPECIES
 
 #### Status
 ACCEPTED

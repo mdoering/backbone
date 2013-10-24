@@ -1,5 +1,4 @@
-Capronia spinifera (Ellis & Everh.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia spinifera (Ellis & Everh.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

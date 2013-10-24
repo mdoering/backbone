@@ -1,14 +1,13 @@
-Pseudocercospora crotalaricola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora crotalariicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen & Lim, Bull. trimest. Soc. mycol. Fr. 94(4): 385 (1978)
 
 #### Original name
 Cercospora crotalariicola J.M. Yen

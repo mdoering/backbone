@@ -1,5 +1,4 @@
-Lizonia thalictri Rostr. SPECIES
-=======
+# Lizonia thalictri Rostr. SPECIES
 
 #### Status
 ACCEPTED

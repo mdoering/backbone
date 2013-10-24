@@ -1,5 +1,4 @@
-Ophrydium eutrophicum Foissner, 1979 SPECIES
-=======
+# Ophrydium eutrophicum Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merodinium Chatton, 1923 GENUS
-=======
+# Merodinium Chatton, 1923 GENUS
 
 #### Status
 ACCEPTED

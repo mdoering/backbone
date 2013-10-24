@@ -1,5 +1,4 @@
-Pleurotus tenuissimus Sacc. SPECIES
-=======
+# Pleurotus tenuissimus Sacc. SPECIES
 
 #### Status
 ACCEPTED

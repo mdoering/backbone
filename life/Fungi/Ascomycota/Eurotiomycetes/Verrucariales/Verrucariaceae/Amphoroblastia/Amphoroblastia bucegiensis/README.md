@@ -1,5 +1,4 @@
-Amphoroblastia bucegiensis (Servít) Servít SPECIES
-=======
+# Amphoroblastia bucegiensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

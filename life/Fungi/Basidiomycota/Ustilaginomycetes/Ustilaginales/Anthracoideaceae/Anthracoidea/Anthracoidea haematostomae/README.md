@@ -1,5 +1,4 @@
-Anthracoidea haematostomae L. Guo SPECIES
-=======
+# Anthracoidea haematostomae L. Guo SPECIES
 
 #### Status
 ACCEPTED

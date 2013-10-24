@@ -1,5 +1,4 @@
-Pleurotus albipes Beauseign. SPECIES
-=======
+# Pleurotus albipes Beauseign. SPECIES
 
 #### Status
 ACCEPTED

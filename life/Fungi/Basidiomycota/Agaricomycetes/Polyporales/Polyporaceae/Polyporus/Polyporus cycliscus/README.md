@@ -1,5 +1,4 @@
-Polyporus cycliscus Mont. SPECIES
-=======
+# Polyporus cycliscus Mont. SPECIES
 
 #### Status
 ACCEPTED

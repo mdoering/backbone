@@ -1,5 +1,4 @@
-Septiareata Kienel, 1994 GENUS
-=======
+# Septiareata Kienel, 1994 GENUS
 
 #### Status
 ACCEPTED

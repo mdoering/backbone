@@ -1,5 +1,4 @@
-Histioneis sub-longicollis Halim SPECIES
-=======
+# Histioneis sub-longicollis Halim SPECIES
 
 #### Status
 ACCEPTED

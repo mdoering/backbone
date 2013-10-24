@@ -1,5 +1,4 @@
-Coniophora peroxydata (Berk. & Broome) Massee SPECIES
-=======
+# Coniophora peroxydata (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

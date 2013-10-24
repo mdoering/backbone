@@ -1,5 +1,4 @@
-Herteliana phaeops (Nyl.) P. James SPECIES
-=======
+# Herteliana phaeops (Nyl.) P. James SPECIES
 
 #### Status
 ACCEPTED

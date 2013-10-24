@@ -1,5 +1,4 @@
-Boletus craspedius Massee SPECIES
-=======
+# Boletus craspedius Massee SPECIES
 
 #### Status
 ACCEPTED

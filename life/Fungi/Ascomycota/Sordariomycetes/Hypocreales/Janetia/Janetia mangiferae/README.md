@@ -1,5 +1,4 @@
-Janetia mangiferae S. Hughes & Cavalc. SPECIES
-=======
+# Janetia mangiferae S. Hughes & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

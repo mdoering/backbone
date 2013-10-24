@@ -1,5 +1,4 @@
-Phragmopeltis chrysochlamydis Petr. SPECIES
-=======
+# Phragmopeltis chrysochlamydis Petr. SPECIES
 
 #### Status
 ACCEPTED

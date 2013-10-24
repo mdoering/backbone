@@ -1,5 +1,4 @@
-Mollisia sporonemoides Speschnew SPECIES
-=======
+# Mollisia sporonemoides Speschnew SPECIES
 
 #### Status
 ACCEPTED

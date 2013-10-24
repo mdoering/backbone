@@ -1,5 +1,4 @@
-Pseudoclavulina gracilis Zheng, 1988 SPECIES
-=======
+# Pseudoclavulina gracilis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

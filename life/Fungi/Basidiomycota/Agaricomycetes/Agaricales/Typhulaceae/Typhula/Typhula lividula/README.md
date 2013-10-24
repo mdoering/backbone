@@ -1,5 +1,4 @@
-Typhula lividula Rolland SPECIES
-=======
+# Typhula lividula Rolland SPECIES
 
 #### Status
 ACCEPTED

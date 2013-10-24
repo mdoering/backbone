@@ -1,5 +1,4 @@
-Plasmodiophora diplantherae (Ferd. & Winge) Ivimey Cook SPECIES
-=======
+# Plasmodiophora diplantherae (Ferd. & Winge) Ivimey Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piriurella acuminatus (Rouse & Mustard) M.G. Parsons & G. Norris SPECIES
-=======
+# Piriurella acuminatus (Rouse & Mustard) M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

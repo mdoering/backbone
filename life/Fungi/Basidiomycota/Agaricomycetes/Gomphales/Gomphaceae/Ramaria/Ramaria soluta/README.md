@@ -1,5 +1,4 @@
-Ramaria soluta (P. Karst.) Corner SPECIES
-=======
+# Ramaria soluta (P. Karst.) Corner SPECIES
 
 #### Status
 ACCEPTED

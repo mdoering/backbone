@@ -1,5 +1,4 @@
-Nannoconus spicatum Shumenko, 1969 SPECIES
-=======
+# Nannoconus spicatum Shumenko, 1969 SPECIES
 
 #### Status
 ACCEPTED

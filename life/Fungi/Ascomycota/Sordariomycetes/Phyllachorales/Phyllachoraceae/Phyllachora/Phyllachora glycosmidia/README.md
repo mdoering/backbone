@@ -1,5 +1,4 @@
-Phyllachora glycosmidia Petch SPECIES
-=======
+# Phyllachora glycosmidia Petch SPECIES
 
 #### Status
 ACCEPTED

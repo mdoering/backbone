@@ -1,5 +1,4 @@
-Phialocephala glacialis Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala glacialis Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

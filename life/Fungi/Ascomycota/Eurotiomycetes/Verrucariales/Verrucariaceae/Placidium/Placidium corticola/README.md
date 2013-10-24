@@ -1,5 +1,4 @@
-Placidium corticola (Räsänen) Breuss SPECIES
-=======
+# Placidium corticola (Räsänen) Breuss SPECIES
 
 #### Status
 ACCEPTED

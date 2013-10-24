@@ -1,5 +1,4 @@
-Entoloma gerronematoides (Raithelh.) Raithelh. SPECIES
-=======
+# Entoloma gerronematoides (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

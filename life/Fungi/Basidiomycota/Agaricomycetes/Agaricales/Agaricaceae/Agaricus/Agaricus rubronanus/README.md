@@ -1,5 +1,4 @@
-Agaricus rubronanus Kerrigan SPECIES
-=======
+# Agaricus rubronanus Kerrigan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces stenussae Thaxt. SPECIES
-=======
+# Monoicomyces stenussae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

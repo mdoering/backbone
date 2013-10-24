@@ -1,5 +1,4 @@
-Tricharia tuckerae Lücking & W.R. Buck SPECIES
-=======
+# Tricharia tuckerae Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

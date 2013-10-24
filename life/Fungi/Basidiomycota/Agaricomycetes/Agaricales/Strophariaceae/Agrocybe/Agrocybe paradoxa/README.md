@@ -1,5 +1,4 @@
-Agrocybe paradoxa Singer SPECIES
-=======
+# Agrocybe paradoxa Singer SPECIES
 
 #### Status
 ACCEPTED

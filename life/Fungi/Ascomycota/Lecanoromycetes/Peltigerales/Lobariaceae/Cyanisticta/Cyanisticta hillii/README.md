@@ -1,5 +1,4 @@
-Cyanisticta hillii C.W. Dodge SPECIES
-=======
+# Cyanisticta hillii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

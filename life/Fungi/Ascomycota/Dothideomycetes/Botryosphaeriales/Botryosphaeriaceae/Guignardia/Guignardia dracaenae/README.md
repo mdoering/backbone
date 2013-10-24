@@ -1,5 +1,4 @@
-Guignardia dracaenae Gutner SPECIES
-=======
+# Guignardia dracaenae Gutner SPECIES
 
 #### Status
 ACCEPTED

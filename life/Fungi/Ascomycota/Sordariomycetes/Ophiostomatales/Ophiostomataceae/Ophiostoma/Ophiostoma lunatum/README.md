@@ -1,5 +1,4 @@
-Ophiostoma lunatum Aghayeva & M.J. Wingf. SPECIES
-=======
+# Ophiostoma lunatum Aghayeva & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe symplocigena U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe symplocigena U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

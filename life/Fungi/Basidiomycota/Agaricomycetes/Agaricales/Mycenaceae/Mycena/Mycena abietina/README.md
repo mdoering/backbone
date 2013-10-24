@@ -1,5 +1,4 @@
-Mycena abietina Maas Geest. SPECIES
-=======
+# Mycena abietina Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

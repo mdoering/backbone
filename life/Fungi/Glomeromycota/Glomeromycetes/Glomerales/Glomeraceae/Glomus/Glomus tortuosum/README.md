@@ -1,5 +1,4 @@
-Glomus tortuosum N.C. Schenck & G.S. Sm., 1982 SPECIES
-=======
+# Glomus tortuosum N.C. Schenck & G.S. Sm., 1982 SPECIES
 
 #### Status
 ACCEPTED

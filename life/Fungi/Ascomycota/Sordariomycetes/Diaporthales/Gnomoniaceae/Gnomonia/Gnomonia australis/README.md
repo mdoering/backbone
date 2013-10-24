@@ -1,5 +1,4 @@
-Gnomonia australis G. Winter SPECIES
-=======
+# Gnomonia australis G. Winter SPECIES
 
 #### Status
 ACCEPTED

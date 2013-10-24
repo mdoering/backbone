@@ -1,14 +1,13 @@
-Paraparmelia sargentii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia sargentii (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 410 (1988)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Paraparmelia sargentii Elix & J. Johnst.

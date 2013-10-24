@@ -1,5 +1,4 @@
-Relicolpoda GENUS
-=======
+# Relicolpoda GENUS
 
 #### Status
 ACCEPTED

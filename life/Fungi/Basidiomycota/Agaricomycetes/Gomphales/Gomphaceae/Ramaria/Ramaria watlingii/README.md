@@ -1,5 +1,4 @@
-Ramaria watlingii R.H. Petersen, 1989 SPECIES
-=======
+# Ramaria watlingii R.H. Petersen, 1989 SPECIES
 
 #### Status
 ACCEPTED

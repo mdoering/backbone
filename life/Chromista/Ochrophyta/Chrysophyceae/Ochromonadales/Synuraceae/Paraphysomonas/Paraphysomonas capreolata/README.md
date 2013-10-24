@@ -1,5 +1,4 @@
-Paraphysomonas capreolata Preisig & D.J.Hibberd SPECIES
-=======
+# Paraphysomonas capreolata Preisig & D.J.Hibberd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma barretoi Torrend SPECIES
-=======
+# Ganoderma barretoi Torrend SPECIES
 
 #### Status
 ACCEPTED

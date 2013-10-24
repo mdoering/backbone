@@ -1,5 +1,4 @@
-Sphaerella etrusca Tognini SPECIES
-=======
+# Sphaerella etrusca Tognini SPECIES
 
 #### Status
 ACCEPTED

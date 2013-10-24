@@ -1,14 +1,13 @@
-Tricladium giganteum S.H. Iqbal, 1971 SPECIES
-=======
+# Variocladium giganteum (S.H. Iqbal) Descals & Marvanová, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 56(3): 347 (1971)
+in Descals, Marvanová & Webster, Can. J. Bot. 76(9): 1658 (1999)
 
 #### Original name
 Tricladium giganteum S.H. Iqbal, 1971

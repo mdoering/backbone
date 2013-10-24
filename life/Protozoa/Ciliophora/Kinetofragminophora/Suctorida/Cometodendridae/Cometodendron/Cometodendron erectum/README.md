@@ -1,5 +1,4 @@
-Cometodendron erectum Haeckel, 1866 SPECIES
-=======
+# Cometodendron erectum Haeckel, 1866 SPECIES
 
 #### Status
 ACCEPTED

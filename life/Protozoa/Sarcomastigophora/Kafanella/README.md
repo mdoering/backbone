@@ -1,5 +1,4 @@
-Kafanella Tikhomirova, 1987 GENUS
-=======
+# Kafanella Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

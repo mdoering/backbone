@@ -1,5 +1,4 @@
-Leucopaxillus patagonicus Singer SPECIES
-=======
+# Leucopaxillus patagonicus Singer SPECIES
 
 #### Status
 ACCEPTED

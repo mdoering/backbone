@@ -1,5 +1,4 @@
-Pseudodiplodia leguminicola (Jaap) Petr. SPECIES
-=======
+# Pseudodiplodia leguminicola (Jaap) Petr. SPECIES
 
 #### Status
 ACCEPTED

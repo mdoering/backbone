@@ -1,5 +1,4 @@
-Calothyrium jodascum Theiss. SPECIES
-=======
+# Calothyrium jodascum Theiss. SPECIES
 
 #### Status
 ACCEPTED

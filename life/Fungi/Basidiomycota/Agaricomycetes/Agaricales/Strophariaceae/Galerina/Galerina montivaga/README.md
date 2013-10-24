@@ -1,5 +1,4 @@
-Galerina montivaga Singer SPECIES
-=======
+# Galerina montivaga Singer SPECIES
 
 #### Status
 ACCEPTED

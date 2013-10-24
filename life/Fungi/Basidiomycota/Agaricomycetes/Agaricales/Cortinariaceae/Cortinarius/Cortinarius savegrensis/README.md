@@ -1,5 +1,4 @@
-Cortinarius savegrensis Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius savegrensis Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

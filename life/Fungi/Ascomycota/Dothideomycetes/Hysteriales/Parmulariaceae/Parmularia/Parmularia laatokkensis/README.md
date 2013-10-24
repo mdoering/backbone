@@ -1,8 +1,7 @@
-Parmularia laatokkaënsis Räsänen SPECIES
-=======
+# Parmularia laatokkensis Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmularia laatokkaënsis Räsänen
+Parmularia laatokkensis Räsänen
 
 ### Remarks
 null

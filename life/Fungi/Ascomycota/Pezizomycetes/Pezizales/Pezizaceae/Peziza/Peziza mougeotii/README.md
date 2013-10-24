@@ -1,5 +1,4 @@
-Peziza mougeotii Pers. SPECIES
-=======
+# Peziza mougeotii Pers. SPECIES
 
 #### Status
 ACCEPTED

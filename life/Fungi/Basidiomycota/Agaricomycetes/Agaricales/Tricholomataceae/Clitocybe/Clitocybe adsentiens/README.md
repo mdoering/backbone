@@ -1,5 +1,4 @@
-Clitocybe adsentiens P. Karst. SPECIES
-=======
+# Clitocybe adsentiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

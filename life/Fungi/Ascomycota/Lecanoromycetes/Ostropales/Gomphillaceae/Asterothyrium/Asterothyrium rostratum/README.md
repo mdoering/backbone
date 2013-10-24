@@ -1,5 +1,4 @@
-Asterothyrium rostratum L.I. Ferraro & Lücking SPECIES
-=======
+# Asterothyrium rostratum L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

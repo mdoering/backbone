@@ -1,5 +1,4 @@
-Nodosaria laevigata d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria laevigata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

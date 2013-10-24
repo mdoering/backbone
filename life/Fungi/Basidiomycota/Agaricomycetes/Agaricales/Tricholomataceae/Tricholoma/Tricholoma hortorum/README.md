@@ -1,5 +1,4 @@
-Tricholoma hortorum Velen. SPECIES
-=======
+# Tricholoma hortorum Velen. SPECIES
 
 #### Status
 ACCEPTED

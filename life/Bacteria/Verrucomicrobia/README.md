@@ -1,5 +1,4 @@
-Verrucomicrobia Hedlund, Gosink & Staley, 1997 PHYLUM
-=======
+# Verrucomicrobia Hedlund, Gosink & Staley, 1997 PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinoplaca marginata Lücking SPECIES
-=======
+# Echinoplaca marginata Lücking SPECIES
 
 #### Status
 ACCEPTED

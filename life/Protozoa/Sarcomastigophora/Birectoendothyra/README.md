@@ -1,5 +1,4 @@
-Birectoendothyra Lipina, 1970 GENUS
-=======
+# Birectoendothyra Lipina, 1970 GENUS
 
 #### Status
 ACCEPTED

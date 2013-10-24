@@ -1,17 +1,16 @@
-Usnea fulvoreagens f. fulvoreagens FORM
-=======
+# Usnea fulvoreagens (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fenn. Exs. no. 13 (1935)
 
 #### Original name
-Usnea fulvoreagens f. fulvoreagens
+Usnea glabrescens var. fulvoreagens Räsänen
 
 ### Remarks
 null

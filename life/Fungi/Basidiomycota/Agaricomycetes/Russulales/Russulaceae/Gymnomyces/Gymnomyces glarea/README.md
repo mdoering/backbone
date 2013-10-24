@@ -1,5 +1,4 @@
-Gymnomyces glarea T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces glarea T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

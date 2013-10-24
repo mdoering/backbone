@@ -1,5 +1,4 @@
-Diplodia padina Sacc. SPECIES
-=======
+# Diplodia padina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius carneocrassus M.M. Moser SPECIES
-=======
+# Cortinarius carneocrassus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

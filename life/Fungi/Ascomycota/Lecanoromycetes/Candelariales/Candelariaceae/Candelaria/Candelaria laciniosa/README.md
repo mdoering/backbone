@@ -1,5 +1,4 @@
-Candelaria laciniosa (Nyl.) Kieffer SPECIES
-=======
+# Candelaria laciniosa (Nyl.) Kieffer SPECIES
 
 #### Status
 ACCEPTED

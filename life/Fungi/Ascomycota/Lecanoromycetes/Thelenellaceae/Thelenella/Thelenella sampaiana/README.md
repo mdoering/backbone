@@ -1,5 +1,4 @@
-Thelenella sampaiana (B. de Lesd.) H. Mayrhofer & Poelt SPECIES
-=======
+# Thelenella sampaiana (B. de Lesd.) H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

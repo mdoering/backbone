@@ -1,5 +1,4 @@
-Ciboria friesii subsp. friesii SUBSPECIES
-=======
+# Ciboria friesii Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ciboria friesii subsp. friesii
+Ciboria friesii Pers.
 
 ### Remarks
 null

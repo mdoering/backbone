@@ -1,5 +1,4 @@
-Cortinarius divulgatus Britzelm. SPECIES
-=======
+# Cortinarius divulgatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

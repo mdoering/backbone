@@ -1,5 +1,4 @@
-Penicillium gonorrhoicum Hallier SPECIES
-=======
+# Penicillium gonorrhoicum Hallier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha hellebori Velen. SPECIES
-=======
+# Hyaloscypha hellebori Velen. SPECIES
 
 #### Status
 ACCEPTED

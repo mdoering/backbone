@@ -1,5 +1,4 @@
-Podospora horridula (Sacc.) Dennis & S.M. Francis, 1984 SPECIES
-=======
+# Podospora horridula (Sacc.) Dennis & S.M. Francis, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina setschwana SPECIES
-=======
+# Rinodina setschwana SPECIES
 
 #### Status
 ACCEPTED

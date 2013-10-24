@@ -1,5 +1,4 @@
-Mucor lateritius Link SPECIES
-=======
+# Mucor lateritius Link SPECIES
 
 #### Status
 ACCEPTED

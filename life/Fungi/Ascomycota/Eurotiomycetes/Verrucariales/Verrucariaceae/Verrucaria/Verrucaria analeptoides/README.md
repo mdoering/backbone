@@ -1,5 +1,4 @@
-Verrucaria analeptoides (Bagl. & Carestia) Hue SPECIES
-=======
+# Verrucaria analeptoides (Bagl. & Carestia) Hue SPECIES
 
 #### Status
 ACCEPTED

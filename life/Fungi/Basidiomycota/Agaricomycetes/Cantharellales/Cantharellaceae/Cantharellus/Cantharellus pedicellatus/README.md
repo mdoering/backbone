@@ -1,5 +1,4 @@
-Cantharellus pedicellatus (Lázaro Ibiza) Sacc. & D. Sacc. SPECIES
-=======
+# Cantharellus pedicellatus (Lázaro Ibiza) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

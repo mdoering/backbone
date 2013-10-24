@@ -1,5 +1,4 @@
-Calocybe pseudolilacea Singer SPECIES
-=======
+# Calocybe pseudolilacea Singer SPECIES
 
 #### Status
 ACCEPTED

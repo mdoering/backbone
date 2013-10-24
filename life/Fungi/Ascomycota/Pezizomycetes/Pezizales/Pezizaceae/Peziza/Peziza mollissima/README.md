@@ -1,5 +1,4 @@
-Peziza mollissima Saut. SPECIES
-=======
+# Peziza mollissima Saut. SPECIES
 
 #### Status
 ACCEPTED

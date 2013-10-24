@@ -1,5 +1,4 @@
-Podisoma gymnosporangium var. gymnosporangium VARIETY
-=======
+# Podisoma gymnosporangium SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podisoma gymnosporangium var. gymnosporangium
+Podisoma gymnosporangium
 
 ### Remarks
 null

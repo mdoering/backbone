@@ -1,5 +1,4 @@
-Usnea firmula (Stirt.) Motyka SPECIES
-=======
+# Usnea firmula (Stirt.) Motyka SPECIES
 
 #### Status
 ACCEPTED

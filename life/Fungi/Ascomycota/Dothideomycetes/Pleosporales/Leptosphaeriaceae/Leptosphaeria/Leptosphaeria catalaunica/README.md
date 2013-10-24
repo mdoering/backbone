@@ -1,5 +1,4 @@
-Leptosphaeria catalaunica Gonz. Frag. SPECIES
-=======
+# Leptosphaeria catalaunica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

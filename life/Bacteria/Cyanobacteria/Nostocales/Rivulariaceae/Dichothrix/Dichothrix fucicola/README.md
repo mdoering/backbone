@@ -1,5 +1,4 @@
-Dichothrix fucicola (Kützing) Bornet & Flahault SPECIES
-=======
+# Dichothrix fucicola (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

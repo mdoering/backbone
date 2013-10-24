@@ -1,5 +1,4 @@
-Lingulodinium polyedra (Stein, 1883) Dodge, 1989 SPECIES
-=======
+# Lingulodinium polyedra (Stein, 1883) Dodge, 1989 SPECIES
 
 #### Status
 ACCEPTED

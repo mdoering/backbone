@@ -1,5 +1,4 @@
-Pestalotia fuscescens var. fuscescens VARIETY
-=======
+# Pestalotia fuscescens Sorauer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia fuscescens var. fuscescens
+Pestalotia fuscescens Sorauer
 
 ### Remarks
 null

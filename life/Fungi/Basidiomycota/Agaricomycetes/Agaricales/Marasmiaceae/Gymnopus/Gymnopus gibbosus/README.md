@@ -1,5 +1,4 @@
-Gymnopus gibbosus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus gibbosus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

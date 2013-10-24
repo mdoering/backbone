@@ -1,5 +1,4 @@
-Microstroma cadabae Thirum. & Naras. SPECIES
-=======
+# Microstroma cadabae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium douglasii Schwein. SPECIES
-=======
+# Chaetomium douglasii Schwein. SPECIES
 
 #### Status
 ACCEPTED

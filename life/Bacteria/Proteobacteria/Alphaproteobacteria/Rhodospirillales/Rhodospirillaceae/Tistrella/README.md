@@ -1,5 +1,4 @@
-Tistrella Shi et al., 2003 GENUS
-=======
+# Tistrella Shi et al., 2003 GENUS
 
 #### Status
 ACCEPTED

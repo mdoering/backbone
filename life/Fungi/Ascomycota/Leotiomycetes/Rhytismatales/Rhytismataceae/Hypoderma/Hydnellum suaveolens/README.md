@@ -1,5 +1,4 @@
-Hydnellum suaveolens (Scop.) P. Karst., 1880 SPECIES
-=======
+# Hydnellum suaveolens (Scop.) P. Karst., 1880 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Sordaria hydrophila (Kirschst.) A. Bayer SPECIES
-=======
+# Sordaria hydrophila (Kirschst.) A. Bayer SPECIES
 
 #### Status
 ACCEPTED

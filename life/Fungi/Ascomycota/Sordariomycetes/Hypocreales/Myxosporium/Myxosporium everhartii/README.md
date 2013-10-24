@@ -1,5 +1,4 @@
-Myxosporium everhartii Sacc. & P. Syd. SPECIES
-=======
+# Myxosporium everhartii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta valparadisiaca Speg. SPECIES
-=======
+# Phyllosticta valparadisiaca Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema terebrans (Nyl.) Hale SPECIES
-=======
+# Myriotrema terebrans (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria hachijoensis Ts. Watan. SPECIES
-=======
+# Nectria hachijoensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

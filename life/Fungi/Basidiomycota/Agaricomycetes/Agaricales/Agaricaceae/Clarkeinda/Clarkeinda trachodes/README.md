@@ -1,14 +1,13 @@
-Agaricus trachodes Berk., 1847 SPECIES
-=======
+# Clarkeinda trachodes (Berk.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 413 (1951)
 
 #### Original name
 Agaricus trachodes Berk., 1847

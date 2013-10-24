@@ -1,14 +1,13 @@
-Melanopsamma tregoubovii var. cystoseirae Ollivier, 1930 VARIETY
-=======
+# Thalassoascus cystoseirae (Ollivier) Kohlm., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 73(5): 837 (1981)
 
 #### Original name
 Melanopsamma tregoubovii var. cystoseirae Ollivier, 1930

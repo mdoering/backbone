@@ -1,5 +1,4 @@
-Cercospora wisconsinensis Chupp & H.C. Greene SPECIES
-=======
+# Cercospora wisconsinensis Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bilimbia ternaria (Nyl.) Galløe SPECIES
-=======
+# Micarea ternaria (Nyl.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Hist. Danish Lich. 2: 59 (1929)
+Lichenes Selecti Exsiccati (Pruhonice) 35(no. 858): 3 (1970)
 
 #### Original name
 Lecidea sabuletorum f. ternaria Nyl.

@@ -1,5 +1,4 @@
-Cryptoascus Petri GENUS
-=======
+# Cryptoascus Petri GENUS
 
 #### Status
 ACCEPTED

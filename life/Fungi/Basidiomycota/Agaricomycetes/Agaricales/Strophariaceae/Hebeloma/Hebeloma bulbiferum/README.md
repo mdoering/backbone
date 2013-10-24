@@ -1,5 +1,4 @@
-Hebeloma bulbiferum Maire SPECIES
-=======
+# Hebeloma bulbiferum Maire SPECIES
 
 #### Status
 ACCEPTED

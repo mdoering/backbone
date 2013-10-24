@@ -1,5 +1,4 @@
-Sphaeropyle Dreyer, 1888 GENUS
-=======
+# Sphaeropyle Dreyer, 1888 GENUS
 
 #### Status
 ACCEPTED

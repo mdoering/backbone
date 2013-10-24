@@ -1,5 +1,4 @@
-Chaenothecopsis weiana Titov SPECIES
-=======
+# Chaenothecopsis weiana Titov SPECIES
 
 #### Status
 ACCEPTED

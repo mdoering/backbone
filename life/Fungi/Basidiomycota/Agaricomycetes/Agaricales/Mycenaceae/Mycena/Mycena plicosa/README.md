@@ -1,5 +1,4 @@
-Mycena plicosa (Fr.) P. Kumm. SPECIES
-=======
+# Mycena plicosa (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

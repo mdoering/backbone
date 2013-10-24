@@ -1,5 +1,4 @@
-Pycnothelia muricata (Laurer) Rabenh. SPECIES
-=======
+# Pycnothelia muricata (Laurer) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

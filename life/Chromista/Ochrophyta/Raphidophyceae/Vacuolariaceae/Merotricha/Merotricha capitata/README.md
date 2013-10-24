@@ -1,5 +1,4 @@
-Merotricha capitata Skuja SPECIES
-=======
+# Merotricha capitata Skuja SPECIES
 
 #### Status
 ACCEPTED

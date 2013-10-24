@@ -1,5 +1,4 @@
-Symbiodinium meandrinae R. K. Trench SPECIES
-=======
+# Symbiodinium meandrinae R. K. Trench SPECIES
 
 #### Status
 ACCEPTED

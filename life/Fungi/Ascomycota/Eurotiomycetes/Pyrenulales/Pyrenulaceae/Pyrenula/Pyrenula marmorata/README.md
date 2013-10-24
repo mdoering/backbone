@@ -1,5 +1,4 @@
-Pyrenula marmorata Müll. Arg. SPECIES
-=======
+# Pyrenula marmorata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

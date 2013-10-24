@@ -1,5 +1,4 @@
-Utchurella P.N. Kolosov in A.K. Bobrov, 1970 GENUS
-=======
+# Utchurella P.N. Kolosov in A.K. Bobrov, 1970 GENUS
 
 #### Status
 ACCEPTED

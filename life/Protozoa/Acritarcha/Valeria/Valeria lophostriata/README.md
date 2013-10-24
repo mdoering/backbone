@@ -1,5 +1,4 @@
-Valeria lophostriata (Jankauskas, 1979) Jankauskas, 1982 SPECIES
-=======
+# Valeria lophostriata (Jankauskas, 1979) Jankauskas, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora opaca Speg., 1885 SPECIES
-=======
+# Phyllachora opaca Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

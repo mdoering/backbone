@@ -1,5 +1,4 @@
-Paenibacillus agaridevorans Uetanabaro et al., 2003 SPECIES
-=======
+# Paenibacillus agaridevorans Uetanabaro et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

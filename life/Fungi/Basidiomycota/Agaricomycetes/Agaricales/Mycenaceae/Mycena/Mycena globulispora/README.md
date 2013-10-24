@@ -1,5 +1,4 @@
-Mycena globulispora Maas Geest. & de Meijer SPECIES
-=======
+# Mycena globulispora Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

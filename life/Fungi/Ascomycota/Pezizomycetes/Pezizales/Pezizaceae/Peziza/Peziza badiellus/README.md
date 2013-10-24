@@ -1,5 +1,4 @@
-Peziza badiellus P. Karst. SPECIES
-=======
+# Peziza badiellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

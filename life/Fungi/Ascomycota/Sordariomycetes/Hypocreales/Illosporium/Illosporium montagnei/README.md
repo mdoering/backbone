@@ -1,5 +1,4 @@
-Illosporium montagnei Sacc. SPECIES
-=======
+# Illosporium montagnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolina marginata Pen. SPECIES
-=======
+# Clypeolina marginata Pen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptychogaster clavatus Boud. SPECIES
-=======
+# Ptychogaster clavatus Boud. SPECIES
 
 #### Status
 ACCEPTED

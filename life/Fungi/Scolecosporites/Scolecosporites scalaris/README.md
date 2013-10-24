@@ -1,5 +1,4 @@
-Scolecosporites scalaris (Kalgutkar) Kalgutkar & Janson. SPECIES
-=======
+# Scolecosporites scalaris (Kalgutkar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

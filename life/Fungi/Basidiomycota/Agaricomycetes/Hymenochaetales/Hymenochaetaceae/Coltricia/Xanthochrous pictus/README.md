@@ -1,5 +1,4 @@
-Xanthochrous pictus (Schultz) Pat. SPECIES
-=======
+# Xanthochrous pictus (Schultz) Pat. SPECIES
 
 #### Status
 ACCEPTED

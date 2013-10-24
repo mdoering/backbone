@@ -1,5 +1,4 @@
-Gonyaulax edwardsi Cookson & Eisenack SPECIES
-=======
+# Gonyaulax edwardsi Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

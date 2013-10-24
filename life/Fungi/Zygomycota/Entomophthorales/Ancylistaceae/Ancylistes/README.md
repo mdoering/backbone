@@ -1,5 +1,4 @@
-Ancylistes Pfitzer, 1872 GENUS
-=======
+# Ancylistes Pfitzer, 1872 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylopage rhicnacra Drechsler, 1948 SPECIES
-=======
+# Stylopage rhicnacra Drechsler, 1948 SPECIES
 
 #### Status
 ACCEPTED

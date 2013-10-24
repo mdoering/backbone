@@ -1,17 +1,16 @@
-Melampsora medusae f. sp FORM
-=======
+# Melampsora medusae Thüm., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 80(5): 731 (1988)
+Bull. Torrey bot. Club 6: 216 (1878)
 
 #### Original name
-Melampsora medusae f. sp
+Melampsora medusae Thüm., 1878
 
 ### Remarks
 null

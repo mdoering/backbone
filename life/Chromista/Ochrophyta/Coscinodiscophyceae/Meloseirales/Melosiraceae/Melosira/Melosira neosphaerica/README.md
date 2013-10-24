@@ -1,8 +1,7 @@
-Melosira sphaerica Karsten, 1905 SPECIES
-=======
+# Melosira neosphaerica Van Landingham, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

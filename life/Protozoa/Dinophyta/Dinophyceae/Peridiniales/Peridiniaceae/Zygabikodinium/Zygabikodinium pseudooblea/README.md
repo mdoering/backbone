@@ -1,5 +1,4 @@
-Zygabikodinium pseudooblea Elbrachter SPECIES
-=======
+# Zygabikodinium pseudooblea Elbrachter SPECIES
 
 #### Status
 ACCEPTED

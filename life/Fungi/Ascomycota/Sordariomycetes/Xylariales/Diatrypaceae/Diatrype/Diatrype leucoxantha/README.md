@@ -1,5 +1,4 @@
-Diatrype leucoxantha Rehm SPECIES
-=======
+# Diatrype leucoxantha Rehm SPECIES
 
 #### Status
 ACCEPTED

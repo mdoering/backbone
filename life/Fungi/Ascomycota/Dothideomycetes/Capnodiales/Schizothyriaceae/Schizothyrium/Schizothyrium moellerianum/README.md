@@ -1,14 +1,13 @@
-Schizothyrium mollerianum (Sacc.) Arx SPECIES
-=======
+# Schizothyrium moellerianum (Sacc.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 204 (1962)
 
 #### Original name
 Micropeltis moelleriana Sacc.

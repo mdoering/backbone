@@ -1,5 +1,4 @@
-Laestadia traversi Cavara SPECIES
-=======
+# Laestadia traversi Cavara SPECIES
 
 #### Status
 ACCEPTED

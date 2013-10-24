@@ -1,14 +1,13 @@
-Arthopyrenia lomnitzensis Stein SPECIES
-=======
+# Sagediopsis lomnitzensis (Stein) Orange SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Krypt. -Fl. Schlesien (Breslau) 2(2): 343 (1879)
+Mycotaxon 81: 267 (2002)
 
 #### Original name
 Arthopyrenia lomnitzensis Stein

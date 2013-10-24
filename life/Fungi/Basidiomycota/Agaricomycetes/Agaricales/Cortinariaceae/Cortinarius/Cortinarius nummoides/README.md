@@ -1,5 +1,4 @@
-Cortinarius nummoides Rob. Henry SPECIES
-=======
+# Cortinarius nummoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

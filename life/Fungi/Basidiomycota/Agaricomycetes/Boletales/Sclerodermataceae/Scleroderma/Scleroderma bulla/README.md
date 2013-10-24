@@ -1,5 +1,4 @@
-Scleroderma bulla R. Heim SPECIES
-=======
+# Scleroderma bulla R. Heim SPECIES
 
 #### Status
 ACCEPTED

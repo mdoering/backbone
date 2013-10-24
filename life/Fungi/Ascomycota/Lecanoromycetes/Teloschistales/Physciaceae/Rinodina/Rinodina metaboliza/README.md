@@ -1,17 +1,16 @@
-Rinodina metaboliza f. metaboliza FORM
-=======
+# Rinodina metaboliza Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rinodina metaboliza f. metaboliza
+Rinodina metaboliza Vain.
 
 ### Remarks
 null

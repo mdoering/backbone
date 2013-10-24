@@ -1,5 +1,4 @@
-Coprinus molestus Bouriquet SPECIES
-=======
+# Coprinus molestus Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis strigata C. Knight SPECIES
-=======
+# Graphis strigata C. Knight SPECIES
 
 #### Status
 ACCEPTED

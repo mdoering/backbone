@@ -1,5 +1,4 @@
-Asfarviridae FAMILY
-=======
+# Asfarviridae FAMILY
 
 #### Status
 ACCEPTED

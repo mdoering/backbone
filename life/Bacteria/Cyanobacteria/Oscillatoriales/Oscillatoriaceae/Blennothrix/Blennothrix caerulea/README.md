@@ -1,8 +1,7 @@
-Hydrocoleum caeruleus N.L.Gardner, 1927 SPECIES
-=======
+# Blennothrix caerulea (N.L.Gardner) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Canoparmelia herveyensis Elix SPECIES
-=======
+# Canoparmelia herveyensis Elix SPECIES
 
 #### Status
 ACCEPTED

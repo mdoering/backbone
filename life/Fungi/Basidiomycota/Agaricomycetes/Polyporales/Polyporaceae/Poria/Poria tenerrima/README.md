@@ -1,5 +1,4 @@
-Poria tenerrima (Berk. & Ravenel) Cooke SPECIES
-=======
+# Poria tenerrima (Berk. & Ravenel) Cooke SPECIES
 
 #### Status
 ACCEPTED

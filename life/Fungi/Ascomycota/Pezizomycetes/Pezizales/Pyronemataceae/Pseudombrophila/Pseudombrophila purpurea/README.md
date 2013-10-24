@@ -1,5 +1,4 @@
-Pseudombrophila purpurea (Seaver) Brumm. SPECIES
-=======
+# Pseudombrophila purpurea (Seaver) Brumm. SPECIES
 
 #### Status
 ACCEPTED

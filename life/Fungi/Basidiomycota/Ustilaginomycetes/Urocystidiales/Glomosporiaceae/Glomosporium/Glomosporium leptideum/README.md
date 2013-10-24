@@ -1,14 +1,13 @@
-Thecaphora leptideum (Syd. & P. Syd.) Zundel, 1937 SPECIES
-=======
+# Glomosporium leptideum (Syd. & P. Syd.) Kochman, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29: 583 (1937)
+Acta Soc. Bot. Pol. 16: 58 (1939)
 
 #### Original name
 Tolyposporium leptideum Syd. & P. Syd., 1913

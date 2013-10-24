@@ -1,14 +1,13 @@
-Hygrotrama phaeoxanthum (Romagn.) M.M. Moser SPECIES
-=======
+# Camarophyllopsis phaeoxantha (Romagn.) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
 Hygrophorus phaeoxanthus Romagn., 1971

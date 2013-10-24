@@ -1,5 +1,4 @@
-Craterellus philippinensis Bres. SPECIES
-=======
+# Craterellus philippinensis Bres. SPECIES
 
 #### Status
 ACCEPTED

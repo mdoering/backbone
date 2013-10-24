@@ -1,5 +1,4 @@
-Protohallidae FAMILY
-=======
+# Protohallidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera glaucopurpurea Berk. & Broome SPECIES
-=======
+# Galera glaucopurpurea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austrogautieria chlorospora E.L. Stewart & Trappe, 1985 SPECIES
-=======
+# Austrogautieria chlorospora E.L. Stewart & Trappe, 1985 SPECIES
 
 #### Status
 ACCEPTED

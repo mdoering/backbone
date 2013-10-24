@@ -1,5 +1,4 @@
-Rhodophyllus tigrinellus var. tigrinellus VARIETY
-=======
+# Rhodophyllus tigrinellus Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Les Rhodophylles de Madagascar 149 (1941)
 
 #### Original name
-Rhodophyllus tigrinellus var. tigrinellus
+Rhodophyllus tigrinellus Romagn.
 
 ### Remarks
 null

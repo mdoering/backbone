@@ -1,5 +1,4 @@
-Pirottaea intercedens Nannf. SPECIES
-=======
+# Pirottaea intercedens Nannf. SPECIES
 
 #### Status
 ACCEPTED

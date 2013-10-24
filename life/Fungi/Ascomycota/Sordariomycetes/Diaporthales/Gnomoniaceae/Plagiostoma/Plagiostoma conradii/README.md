@@ -1,5 +1,4 @@
-Plagiostoma conradii (Ellis) M.E. Barr SPECIES
-=======
+# Plagiostoma conradii (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

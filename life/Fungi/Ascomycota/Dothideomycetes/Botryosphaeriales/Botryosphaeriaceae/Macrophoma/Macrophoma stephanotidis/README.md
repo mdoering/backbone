@@ -1,5 +1,4 @@
-Macrophoma stephanotidis Tassi SPECIES
-=======
+# Macrophoma stephanotidis Tassi SPECIES
 
 #### Status
 ACCEPTED

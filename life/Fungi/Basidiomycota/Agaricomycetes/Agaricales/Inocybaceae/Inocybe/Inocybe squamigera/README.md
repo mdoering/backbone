@@ -1,5 +1,4 @@
-Inocybe squamigera (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe squamigera (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

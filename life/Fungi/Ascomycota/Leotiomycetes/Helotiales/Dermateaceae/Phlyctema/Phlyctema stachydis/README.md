@@ -1,5 +1,4 @@
-Phlyctema stachydis Bubák & Serebrian. SPECIES
-=======
+# Phlyctema stachydis Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

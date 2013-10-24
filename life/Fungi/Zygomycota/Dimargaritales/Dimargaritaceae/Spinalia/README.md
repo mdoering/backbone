@@ -1,5 +1,4 @@
-Spinalia Vuill. GENUS
-=======
+# Spinalia Vuill. GENUS
 
 #### Status
 ACCEPTED

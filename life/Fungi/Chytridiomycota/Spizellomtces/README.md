@@ -1,5 +1,4 @@
-Spizellomtces GENUS
-=======
+# Spizellomtces GENUS
 
 #### Status
 ACCEPTED

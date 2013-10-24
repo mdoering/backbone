@@ -1,5 +1,4 @@
-Puccinia cobresiae Vasyag. SPECIES
-=======
+# Puccinia cobresiae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

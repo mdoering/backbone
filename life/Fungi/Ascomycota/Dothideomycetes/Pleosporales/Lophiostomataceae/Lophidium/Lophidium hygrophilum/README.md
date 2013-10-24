@@ -1,5 +1,4 @@
-Lophidium hygrophilum Sacc. SPECIES
-=======
+# Lophidium hygrophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

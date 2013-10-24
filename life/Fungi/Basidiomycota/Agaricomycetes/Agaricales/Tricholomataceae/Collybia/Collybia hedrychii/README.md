@@ -1,5 +1,4 @@
-Collybia hedrychii Velen. SPECIES
-=======
+# Collybia hedrychii Velen. SPECIES
 
 #### Status
 ACCEPTED

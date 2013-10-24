@@ -1,5 +1,4 @@
-Arthrobacter monumenti Heyrman et al., 2005 SPECIES
-=======
+# Arthrobacter monumenti Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

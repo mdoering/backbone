@@ -1,5 +1,4 @@
-Usnea welwitschiana Motyka SPECIES
-=======
+# Usnea welwitschiana Motyka SPECIES
 
 #### Status
 ACCEPTED

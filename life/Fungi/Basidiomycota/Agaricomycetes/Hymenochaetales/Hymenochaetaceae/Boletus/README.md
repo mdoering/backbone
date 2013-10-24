@@ -1,5 +1,4 @@
-Boletus GENUS
-=======
+# Boletus GENUS
 
 #### Status
 ACCEPTED

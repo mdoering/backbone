@@ -1,5 +1,4 @@
-Lobaria ornata Malme SPECIES
-=======
+# Lobaria ornata Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma penangense Corner SPECIES
-=======
+# Tricholoma penangense Corner SPECIES
 
 #### Status
 ACCEPTED

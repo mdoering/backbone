@@ -1,5 +1,4 @@
-Leptostroma tami F. Lamb. & Fautrey SPECIES
-=======
+# Leptostroma tami F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

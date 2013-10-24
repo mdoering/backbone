@@ -1,5 +1,4 @@
-Opegrapha atacamensis C.W. Dodge SPECIES
-=======
+# Opegrapha atacamensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

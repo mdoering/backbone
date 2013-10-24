@@ -1,5 +1,4 @@
-Pannaria apiculata C. Knight SPECIES
-=======
+# Pannaria apiculata C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus preauxii Mont. SPECIES
-=======
+# Boletus preauxii Mont. SPECIES
 
 #### Status
 ACCEPTED

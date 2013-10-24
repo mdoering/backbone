@@ -1,5 +1,4 @@
-Stelliferidium J.Deunff, H.Górka & R.Rauscher, 1974 GENUS
-=======
+# Stelliferidium J.Deunff, H.Górka & R.Rauscher, 1974 GENUS
 
 #### Status
 ACCEPTED

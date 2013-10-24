@@ -1,5 +1,4 @@
-Lanzia viburni Dumont SPECIES
-=======
+# Lanzia viburni Dumont SPECIES
 
 #### Status
 ACCEPTED

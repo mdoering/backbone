@@ -1,5 +1,4 @@
-Setonophrys communis (Kane, 1965) Clamp, 1991 SPECIES
-=======
+# Setonophrys communis (Kane, 1965) Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

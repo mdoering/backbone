@@ -1,5 +1,4 @@
-Pucciniola coordinata (Arthur) Arthur SPECIES
-=======
+# Pucciniola coordinata (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

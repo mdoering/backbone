@@ -1,5 +1,4 @@
-Lepiota albocitrina Pat. SPECIES
-=======
+# Lepiota albocitrina Pat. SPECIES
 
 #### Status
 ACCEPTED

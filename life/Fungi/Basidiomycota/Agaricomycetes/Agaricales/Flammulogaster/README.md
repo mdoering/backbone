@@ -1,5 +1,4 @@
-Flammulogaster M. Locquin & B.M. Sarwal, 1984 GENUS
-=======
+# Flammulogaster M. Locquin & B.M. Sarwal, 1984 GENUS
 
 #### Status
 ACCEPTED

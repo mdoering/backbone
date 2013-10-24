@@ -1,5 +1,4 @@
-Anisomeridium anastomosans Aptroot SPECIES
-=======
+# Anisomeridium anastomosans Aptroot SPECIES
 
 #### Status
 ACCEPTED

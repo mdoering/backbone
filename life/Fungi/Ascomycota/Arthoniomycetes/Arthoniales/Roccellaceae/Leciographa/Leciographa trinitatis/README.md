@@ -1,5 +1,4 @@
-Leciographa trinitatis Dennis SPECIES
-=======
+# Leciographa trinitatis Dennis SPECIES
 
 #### Status
 ACCEPTED

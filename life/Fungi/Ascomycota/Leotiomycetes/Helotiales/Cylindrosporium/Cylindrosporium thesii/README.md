@@ -1,5 +1,4 @@
-Cylindrosporium thesii J. Schröt. SPECIES
-=======
+# Cylindrosporium thesii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

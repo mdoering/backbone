@@ -1,5 +1,4 @@
-Flagelloscypha dextrinoidea Agerer, 1975 SPECIES
-=======
+# Flagelloscypha dextrinoidea Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED

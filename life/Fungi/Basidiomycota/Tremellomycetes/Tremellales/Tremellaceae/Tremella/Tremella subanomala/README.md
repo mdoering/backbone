@@ -1,5 +1,4 @@
-Tremella subanomala Coker SPECIES
-=======
+# Tremella subanomala Coker SPECIES
 
 #### Status
 ACCEPTED

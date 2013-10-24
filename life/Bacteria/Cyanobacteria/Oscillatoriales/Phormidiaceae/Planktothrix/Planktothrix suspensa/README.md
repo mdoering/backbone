@@ -1,5 +1,4 @@
-Planktothrix suspensa (Pringsheim) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Planktothrix suspensa (Pringsheim) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

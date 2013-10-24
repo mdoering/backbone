@@ -1,8 +1,7 @@
-Leptonema neapolitanum Schüssnig SPECIES
-=======
+# Leptonematella neapolitana (Schussnig) Cormaci & G. Furnari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

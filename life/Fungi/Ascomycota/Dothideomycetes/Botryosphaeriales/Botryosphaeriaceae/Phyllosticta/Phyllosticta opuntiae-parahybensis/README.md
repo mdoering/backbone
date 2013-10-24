@@ -1,5 +1,4 @@
-Phyllosticta opuntiae-parahybensis Bat. SPECIES
-=======
+# Phyllosticta opuntiae-parahybensis Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfotomaculum thermosapovorans Fardeau et al., 1995 SPECIES
-=======
+# Desulfotomaculum thermosapovorans Fardeau et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

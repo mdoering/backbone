@@ -1,5 +1,4 @@
-Ramaria flavicingula R.H. Petersen SPECIES
-=======
+# Ramaria flavicingula R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

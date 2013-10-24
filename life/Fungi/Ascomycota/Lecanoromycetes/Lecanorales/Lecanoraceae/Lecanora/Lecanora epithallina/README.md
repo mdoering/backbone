@@ -1,5 +1,4 @@
-Lecanora epithallina H. Magn. SPECIES
-=======
+# Lecanora epithallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

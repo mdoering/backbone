@@ -1,5 +1,4 @@
-Graphis tenuis Vain. SPECIES
-=======
+# Graphis tenuis Vain. SPECIES
 
 #### Status
 ACCEPTED

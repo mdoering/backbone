@@ -1,5 +1,4 @@
-Warnowia panamensis (Kofoid) Schiller, 1933 SPECIES
-=======
+# Warnowia panamensis (Kofoid) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia beticola (Prill. & Delacr.) Tassi SPECIES
-=======
+# Microdiplodia beticola (Prill. & Delacr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

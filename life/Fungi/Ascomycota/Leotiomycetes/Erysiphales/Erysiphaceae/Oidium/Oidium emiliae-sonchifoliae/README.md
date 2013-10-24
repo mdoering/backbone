@@ -1,5 +1,4 @@
-Oidium emiliae-sonchifoliae Sawada SPECIES
-=======
+# Oidium emiliae-sonchifoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

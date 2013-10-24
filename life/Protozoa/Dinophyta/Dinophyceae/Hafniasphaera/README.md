@@ -1,5 +1,4 @@
-Hafniasphaera J.M.Hansen, 1977 GENUS
-=======
+# Hafniasphaera J.M.Hansen, 1977 GENUS
 
 #### Status
 ACCEPTED

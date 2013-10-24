@@ -1,5 +1,4 @@
-Hendersonia psiloritica Petr. SPECIES
-=======
+# Hendersonia psiloritica Petr. SPECIES
 
 #### Status
 ACCEPTED

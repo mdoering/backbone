@@ -1,5 +1,4 @@
-Nectria coryli Fuckel, 1870 SPECIES
-=======
+# Nectria coryli Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

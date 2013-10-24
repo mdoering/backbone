@@ -1,5 +1,4 @@
-Henningsomyces purpurea (Fr.) Donk SPECIES
-=======
+# Henningsomyces purpurea (Fr.) Donk SPECIES
 
 #### Status
 ACCEPTED

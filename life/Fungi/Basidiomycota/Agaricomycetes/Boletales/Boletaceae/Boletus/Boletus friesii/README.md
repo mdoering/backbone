@@ -1,5 +1,4 @@
-Boletus friesii Inzenga SPECIES
-=======
+# Boletus friesii Inzenga SPECIES
 
 #### Status
 ACCEPTED

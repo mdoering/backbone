@@ -1,5 +1,4 @@
-Placidium lachneum SPECIES
-=======
+# Placidium lachneum SPECIES
 
 #### Status
 ACCEPTED

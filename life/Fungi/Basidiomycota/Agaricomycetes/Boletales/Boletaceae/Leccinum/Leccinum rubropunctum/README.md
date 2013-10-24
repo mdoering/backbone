@@ -1,5 +1,4 @@
-Leccinum rubropunctum (Peck) Singer SPECIES
-=======
+# Leccinum rubropunctum (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

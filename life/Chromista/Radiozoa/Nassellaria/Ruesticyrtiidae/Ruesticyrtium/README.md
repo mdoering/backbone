@@ -1,5 +1,4 @@
-Ruesticyrtium Kozur & Mostler, 1979 GENUS
-=======
+# Ruesticyrtium Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria rudis P. Karst. SPECIES
-=======
+# Aposphaeria rudis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbomicrosphaeria A.-q. Wang, 1987 GENUS
-=======
+# Bulbomicrosphaeria A.-q. Wang, 1987 GENUS
 
 #### Status
 ACCEPTED

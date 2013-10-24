@@ -1,5 +1,4 @@
-Cryphonectria moriformis (Starbäck) Sacc. SPECIES
-=======
+# Cryphonectria moriformis (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

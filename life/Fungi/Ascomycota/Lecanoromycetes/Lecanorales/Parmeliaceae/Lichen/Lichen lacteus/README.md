@@ -1,5 +1,4 @@
-Lichen lacteus Sibth. SPECIES
-=======
+# Lichen lacteus Sibth. SPECIES
 
 #### Status
 ACCEPTED

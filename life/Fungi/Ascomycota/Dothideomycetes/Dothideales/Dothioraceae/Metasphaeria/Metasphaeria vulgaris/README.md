@@ -1,5 +1,4 @@
-Metasphaeria vulgaris Feltgen SPECIES
-=======
+# Metasphaeria vulgaris Feltgen SPECIES
 
 #### Status
 ACCEPTED

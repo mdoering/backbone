@@ -1,5 +1,4 @@
-Collema crenatum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema crenatum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

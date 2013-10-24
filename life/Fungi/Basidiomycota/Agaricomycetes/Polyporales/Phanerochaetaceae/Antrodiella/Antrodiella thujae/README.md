@@ -1,5 +1,4 @@
-Antrodiella thujae Y.C. Dai & H.S. Yuan SPECIES
-=======
+# Antrodiella thujae Y.C. Dai & H.S. Yuan SPECIES
 
 #### Status
 ACCEPTED

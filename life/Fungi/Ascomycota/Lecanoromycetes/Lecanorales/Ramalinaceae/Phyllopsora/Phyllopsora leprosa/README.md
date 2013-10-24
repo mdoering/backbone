@@ -1,5 +1,4 @@
-Phyllopsora leprosa Riedl SPECIES
-=======
+# Phyllopsora leprosa Riedl SPECIES
 
 #### Status
 ACCEPTED

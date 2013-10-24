@@ -1,5 +1,4 @@
-Parmeliella cinerata (Zahlbr.) P.M. Jørg. SPECIES
-=======
+# Parmeliella cinerata (Zahlbr.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

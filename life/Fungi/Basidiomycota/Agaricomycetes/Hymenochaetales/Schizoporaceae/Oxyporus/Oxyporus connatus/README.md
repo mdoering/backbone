@@ -1,5 +1,4 @@
-Oxyporus connatus (Weinm.) Kühner SPECIES
-=======
+# Oxyporus connatus (Weinm.) Kühner SPECIES
 
 #### Status
 ACCEPTED

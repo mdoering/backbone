@@ -1,5 +1,4 @@
-Pneumatospora coronata B. Sutton & Alcorn SPECIES
-=======
+# Pneumatospora coronata B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

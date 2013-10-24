@@ -1,17 +1,16 @@
-Candela Bykova in Bykova et al., 1958 GENUS
-=======
+# Dymia Bykova, 1962 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Bykova et al. Trudy vses. neft. nauchno-issled. Geol. -razv. Inst. 115: 70.
+Contr. Cushman Fdn foramin. Res. 13: 22.
 
 #### Original name
-null
+Candela Bykova in Bykova et al., 1958
 
 ### Remarks
 null

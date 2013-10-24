@@ -1,5 +1,4 @@
-Sparassis brevipes Krombh., 1834 SPECIES
-=======
+# Sparassis brevipes Krombh., 1834 SPECIES
 
 #### Status
 ACCEPTED

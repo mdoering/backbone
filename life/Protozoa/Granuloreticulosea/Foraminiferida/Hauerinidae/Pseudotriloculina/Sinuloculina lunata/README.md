@@ -1,5 +1,4 @@
-Sinuloculina lunata Zheng, 1988 SPECIES
-=======
+# Sinuloculina lunata Zheng, 1988 SPECIES
 
 #### Status
 DOUBTFUL

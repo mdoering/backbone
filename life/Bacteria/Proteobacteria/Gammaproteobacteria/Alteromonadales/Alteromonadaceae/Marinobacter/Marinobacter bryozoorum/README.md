@@ -1,5 +1,4 @@
-Marinobacter bryozoorum Romanenko et al., 2005 SPECIES
-=======
+# Marinobacter bryozoorum Romanenko et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

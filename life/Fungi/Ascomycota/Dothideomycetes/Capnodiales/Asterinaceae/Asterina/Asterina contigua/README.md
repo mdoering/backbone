@@ -1,5 +1,4 @@
-Asterina contigua Syd. SPECIES
-=======
+# Asterina contigua Syd. SPECIES
 
 #### Status
 ACCEPTED

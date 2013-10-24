@@ -1,5 +1,4 @@
-Pseudeurotium luteolum Matsush. SPECIES
-=======
+# Pseudeurotium luteolum Matsush. SPECIES
 
 #### Status
 ACCEPTED

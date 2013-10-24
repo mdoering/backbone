@@ -1,5 +1,4 @@
-Blastophorum truncatum Matsush., 1971 SPECIES
-=======
+# Blastophorum truncatum Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

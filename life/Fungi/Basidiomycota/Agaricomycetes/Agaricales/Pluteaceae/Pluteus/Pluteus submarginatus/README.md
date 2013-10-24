@@ -1,5 +1,4 @@
-Pluteus submarginatus E. Horak SPECIES
-=======
+# Pluteus submarginatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

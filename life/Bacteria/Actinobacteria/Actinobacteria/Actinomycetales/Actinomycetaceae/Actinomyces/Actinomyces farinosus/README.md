@@ -1,5 +1,4 @@
-Actinomyces farinosus Krassiln. SPECIES
-=======
+# Actinomyces farinosus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomycena pachyderma (Kühner) Cejp SPECIES
-=======
+# Pseudomycena pachyderma (Kühner) Cejp SPECIES
 
 #### Status
 ACCEPTED

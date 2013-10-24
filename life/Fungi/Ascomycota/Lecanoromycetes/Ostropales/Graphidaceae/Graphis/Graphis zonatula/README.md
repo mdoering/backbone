@@ -1,5 +1,4 @@
-Graphis zonatula SPECIES
-=======
+# Graphis zonatula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria wauensis Elix & A.W. Archer SPECIES
-=======
+# Pertusaria wauensis Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

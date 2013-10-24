@@ -1,17 +1,16 @@
-Sphaeronaema coprophila Faurel & Schotter SPECIES
-=======
+# Sphaeronaema coprophilum Faurel & Schotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30(3): 155 (1965)
 
 #### Original name
-Sphaeronaema coprophila Faurel & Schotter
+Sphaeronaema coprophilum Faurel & Schotter
 
 ### Remarks
 null

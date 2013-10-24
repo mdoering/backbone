@@ -1,8 +1,7 @@
-Lepiota bonaërensis Speg. SPECIES
-=======
+# Lepiota bonaerensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota bonaërensis Speg.
+Lepiota bonaerensis Speg.
 
 ### Remarks
 null

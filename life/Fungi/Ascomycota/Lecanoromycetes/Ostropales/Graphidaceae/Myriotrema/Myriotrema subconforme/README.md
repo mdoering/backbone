@@ -1,5 +1,4 @@
-Myriotrema subconforme (Nyl.) Hale SPECIES
-=======
+# Myriotrema subconforme (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

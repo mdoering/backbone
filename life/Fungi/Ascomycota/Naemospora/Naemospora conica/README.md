@@ -1,5 +1,4 @@
-Naemospora conica Preuss SPECIES
-=======
+# Naemospora conica Preuss SPECIES
 
 #### Status
 ACCEPTED

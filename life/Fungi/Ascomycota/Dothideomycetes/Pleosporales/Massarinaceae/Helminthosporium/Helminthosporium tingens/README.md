@@ -1,5 +1,4 @@
-Helminthosporium tingens Cooke SPECIES
-=======
+# Helminthosporium tingens Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculigera montanea Kane, 1969 SPECIES
-=======
+# Operculigera montanea Kane, 1969 SPECIES
 
 #### Status
 ACCEPTED

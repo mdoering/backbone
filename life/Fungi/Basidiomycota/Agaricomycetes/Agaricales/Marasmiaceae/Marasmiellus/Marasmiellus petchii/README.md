@@ -1,5 +1,4 @@
-Marasmiellus petchii Pegler SPECIES
-=======
+# Marasmiellus petchii Pegler SPECIES
 
 #### Status
 ACCEPTED

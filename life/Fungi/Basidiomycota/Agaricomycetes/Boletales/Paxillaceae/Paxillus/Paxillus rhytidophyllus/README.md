@@ -1,5 +1,4 @@
-Paxillus rhytidophyllus M. Zang SPECIES
-=======
+# Paxillus rhytidophyllus M. Zang SPECIES
 
 #### Status
 ACCEPTED

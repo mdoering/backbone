@@ -1,5 +1,4 @@
-Cornuaceae FAMILY
-=======
+# Cornuaceae FAMILY
 
 #### Status
 ACCEPTED

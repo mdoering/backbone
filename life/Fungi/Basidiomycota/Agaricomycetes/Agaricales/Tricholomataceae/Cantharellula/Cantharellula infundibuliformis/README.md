@@ -1,5 +1,4 @@
-Cantharellula infundibuliformis Singer SPECIES
-=======
+# Cantharellula infundibuliformis Singer SPECIES
 
 #### Status
 ACCEPTED

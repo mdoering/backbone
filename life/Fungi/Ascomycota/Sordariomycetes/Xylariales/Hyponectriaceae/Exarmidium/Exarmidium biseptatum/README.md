@@ -1,5 +1,4 @@
-Exarmidium biseptatum (Sherwood) Aptroot SPECIES
-=======
+# Exarmidium biseptatum (Sherwood) Aptroot SPECIES
 
 #### Status
 ACCEPTED

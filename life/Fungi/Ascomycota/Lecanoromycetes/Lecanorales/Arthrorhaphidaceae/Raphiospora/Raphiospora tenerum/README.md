@@ -1,5 +1,4 @@
-Raphiospora tenerum SPECIES
-=======
+# Raphiospora tenerum SPECIES
 
 #### Status
 ACCEPTED

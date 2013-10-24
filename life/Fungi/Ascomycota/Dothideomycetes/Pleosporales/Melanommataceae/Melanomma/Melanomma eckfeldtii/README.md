@@ -1,5 +1,4 @@
-Melanomma eckfeldtii (Ellis) Sacc. SPECIES
-=======
+# Melanomma eckfeldtii (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

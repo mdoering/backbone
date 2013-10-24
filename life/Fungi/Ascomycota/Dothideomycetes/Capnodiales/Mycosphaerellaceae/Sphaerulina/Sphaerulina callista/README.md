@@ -1,5 +1,4 @@
-Sphaerulina callista var. callista VARIETY
-=======
+# Sphaerulina callista Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerulina callista var. callista
+Sphaerulina callista Rehm
 
 ### Remarks
 null

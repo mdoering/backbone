@@ -1,5 +1,4 @@
-Phyllosticta amsoniae Tassi SPECIES
-=======
+# Phyllosticta amsoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

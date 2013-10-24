@@ -1,5 +1,4 @@
-Globuloella Korde GENUS
-=======
+# Globuloella Korde GENUS
 
 #### Status
 ACCEPTED

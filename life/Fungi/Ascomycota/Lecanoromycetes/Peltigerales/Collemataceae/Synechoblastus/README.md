@@ -1,5 +1,4 @@
-Synechoblastus GENUS
-=======
+# Synechoblastus GENUS
 
 #### Status
 ACCEPTED

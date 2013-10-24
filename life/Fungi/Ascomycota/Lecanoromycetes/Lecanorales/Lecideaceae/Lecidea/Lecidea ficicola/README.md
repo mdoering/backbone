@@ -1,5 +1,4 @@
-Lecidea ficicola Vain. SPECIES
-=======
+# Lecidea ficicola Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Golovinomyces rubi (H.D. Shin & Y.J. La) U. Braun SPECIES
-=======
+# Golovinomyces rubiae (H.D. Shin & Y.J. La) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 3: 51 (1999)
 
 #### Original name
 Erysiphe rubiae H.D. Shin & Y.J. La

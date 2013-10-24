@@ -1,5 +1,4 @@
-Marasmiellus junquitoensis (Dennis) Dennis SPECIES
-=======
+# Marasmiellus junquitoensis (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

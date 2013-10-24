@@ -1,5 +1,4 @@
-Lentinus miquelii Lév. SPECIES
-=======
+# Lentinus miquelii Lév. SPECIES
 
 #### Status
 ACCEPTED

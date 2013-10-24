@@ -1,5 +1,4 @@
-Kribbella lupini Trujillo et al., 2006 SPECIES
-=======
+# Kribbella lupini Trujillo et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

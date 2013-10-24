@@ -1,17 +1,16 @@
-Melanodecton A. Massal. GENUS
-=======
+# Chiodecton Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 324 (1860)
+Syn. meth. lich. 108 (1814)
 
 #### Original name
-Melanodecton A. Massal.
+Chiodecton Ach.
 
 ### Remarks
 null

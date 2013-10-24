@@ -1,5 +1,4 @@
-Blastenia follmannii C.W. Dodge SPECIES
-=======
+# Blastenia follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

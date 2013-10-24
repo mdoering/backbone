@@ -1,5 +1,4 @@
-Mycena oligophylla Aronsen & Maas Geest. SPECIES
-=======
+# Mycena oligophylla Aronsen & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium pomorum Berk. & M.A. Curtis SPECIES
-=======
+# Capnodium pomorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia graniformis Hoffm. SPECIES
-=======
+# Trichia graniformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

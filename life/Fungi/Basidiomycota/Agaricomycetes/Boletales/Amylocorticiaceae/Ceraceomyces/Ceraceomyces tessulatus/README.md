@@ -1,14 +1,13 @@
-Corticium rhizophorum Bourdot & Galzin, 1911 SPECIES
-=======
+# Ceraceomyces tessulatus (Cooke) Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia, Beih. 7: 154 (1972)
 
 #### Original name
 null

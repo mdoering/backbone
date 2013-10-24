@@ -1,5 +1,4 @@
-Dacryomycetopsis Rick GENUS
-=======
+# Dacryomycetopsis Rick GENUS
 
 #### Status
 ACCEPTED

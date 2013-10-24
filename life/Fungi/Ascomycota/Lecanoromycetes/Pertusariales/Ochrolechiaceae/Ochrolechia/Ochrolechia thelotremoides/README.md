@@ -1,5 +1,4 @@
-Ochrolechia thelotremoides Nyl. SPECIES
-=======
+# Ochrolechia thelotremoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

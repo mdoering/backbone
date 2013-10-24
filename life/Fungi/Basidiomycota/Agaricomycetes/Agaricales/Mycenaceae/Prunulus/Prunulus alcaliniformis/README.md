@@ -1,5 +1,4 @@
-Prunulus alcaliniformis Murrill SPECIES
-=======
+# Prunulus alcaliniformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium splendens Darb. SPECIES
-=======
+# Placodium splendens Darb. SPECIES
 
 #### Status
 ACCEPTED

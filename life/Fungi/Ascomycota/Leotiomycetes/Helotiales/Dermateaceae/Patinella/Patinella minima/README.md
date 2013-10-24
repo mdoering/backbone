@@ -1,5 +1,4 @@
-Patinella minima Velen. SPECIES
-=======
+# Patinella minima Velen. SPECIES
 
 #### Status
 ACCEPTED

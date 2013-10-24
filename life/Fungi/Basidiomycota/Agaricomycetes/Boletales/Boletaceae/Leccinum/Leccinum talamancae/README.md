@@ -1,5 +1,4 @@
-Leccinum talamancae Halling, L.D. Gómez & Lannoy SPECIES
-=======
+# Leccinum talamancae Halling, L.D. Gómez & Lannoy SPECIES
 
 #### Status
 ACCEPTED

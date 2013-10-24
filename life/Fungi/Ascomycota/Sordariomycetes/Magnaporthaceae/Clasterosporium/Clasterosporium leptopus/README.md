@@ -1,5 +1,4 @@
-Clasterosporium leptopus Sacc. SPECIES
-=======
+# Clasterosporium leptopus Sacc. SPECIES
 
 #### Status
 ACCEPTED

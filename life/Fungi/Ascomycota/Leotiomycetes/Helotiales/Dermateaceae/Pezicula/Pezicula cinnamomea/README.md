@@ -1,14 +1,13 @@
-Dermea livida (Berk. & Broome) Phillips SPECIES
-=======
+# Pezicula cinnamomea (DC.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 311 (1889)
 
 #### Original name
 null

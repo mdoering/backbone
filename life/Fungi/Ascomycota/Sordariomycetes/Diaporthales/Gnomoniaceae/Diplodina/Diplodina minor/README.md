@@ -1,5 +1,4 @@
-Diplodina minor Dearn. SPECIES
-=======
+# Diplodina minor Dearn. SPECIES
 
 #### Status
 ACCEPTED

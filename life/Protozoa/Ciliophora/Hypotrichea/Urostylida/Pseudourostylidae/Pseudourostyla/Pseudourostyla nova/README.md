@@ -1,5 +1,4 @@
-Pseudourostyla nova Wiackowski, 1988 SPECIES
-=======
+# Pseudourostyla nova Wiackowski, 1988 SPECIES
 
 #### Status
 ACCEPTED

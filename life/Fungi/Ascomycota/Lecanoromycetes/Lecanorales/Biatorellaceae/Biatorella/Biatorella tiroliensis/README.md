@@ -1,5 +1,4 @@
-Biatorella tiroliensis H. Magn. SPECIES
-=======
+# Biatorella tiroliensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

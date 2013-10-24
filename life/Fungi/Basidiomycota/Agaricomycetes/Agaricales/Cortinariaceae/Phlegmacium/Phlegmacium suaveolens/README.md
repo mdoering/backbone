@@ -1,5 +1,4 @@
-Phlegmacium suaveolens (Bat. & Joachim) M.M. Moser SPECIES
-=======
+# Phlegmacium suaveolens (Bat. & Joachim) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

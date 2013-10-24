@@ -1,5 +1,4 @@
-Boreoplaca Timdal GENUS
-=======
+# Boreoplaca Timdal GENUS
 
 #### Status
 ACCEPTED

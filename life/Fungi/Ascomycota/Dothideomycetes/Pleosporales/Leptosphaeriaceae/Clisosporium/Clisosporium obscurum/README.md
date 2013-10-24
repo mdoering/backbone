@@ -1,5 +1,4 @@
-Clisosporium obscurum (Pass.) Kuntze SPECIES
-=======
+# Clisosporium obscurum (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

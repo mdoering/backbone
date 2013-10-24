@@ -1,5 +1,4 @@
-Leiosphaeridia dharwariana Venkatachala et al., 1974 SPECIES
-=======
+# Leiosphaeridia dharwariana Venkatachala et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

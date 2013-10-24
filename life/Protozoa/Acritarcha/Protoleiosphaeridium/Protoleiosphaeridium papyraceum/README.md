@@ -1,5 +1,4 @@
-Protoleiosphaeridium papyraceum (Timofeev, 1966) Zang Wen-long, 1992 SPECIES
-=======
+# Protoleiosphaeridium papyraceum (Timofeev, 1966) Zang Wen-long, 1992 SPECIES
 
 #### Status
 ACCEPTED

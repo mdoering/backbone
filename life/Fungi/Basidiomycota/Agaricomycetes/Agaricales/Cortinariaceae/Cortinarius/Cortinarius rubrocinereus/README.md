@@ -1,5 +1,4 @@
-Cortinarius rubrocinereus Peck SPECIES
-=======
+# Cortinarius rubrocinereus Peck SPECIES
 
 #### Status
 ACCEPTED

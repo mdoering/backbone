@@ -1,5 +1,4 @@
-Legionella geestiana Dennis et al., 1993 SPECIES
-=======
+# Legionella geestiana Dennis et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

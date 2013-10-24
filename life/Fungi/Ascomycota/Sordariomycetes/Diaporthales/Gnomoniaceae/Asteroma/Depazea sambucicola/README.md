@@ -1,5 +1,4 @@
-Depazea sambucicola Kalchbr. SPECIES
-=======
+# Depazea sambucicola Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

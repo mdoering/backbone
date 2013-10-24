@@ -1,5 +1,4 @@
-Patellaria carolinensis Ellis & Everh. SPECIES
-=======
+# Patellaria carolinensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

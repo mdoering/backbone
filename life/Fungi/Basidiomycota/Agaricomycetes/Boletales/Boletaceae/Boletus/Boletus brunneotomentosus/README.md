@@ -1,5 +1,4 @@
-Boletus brunneotomentosus Ortiz SPECIES
-=======
+# Boletus brunneotomentosus Ortiz SPECIES
 
 #### Status
 ACCEPTED

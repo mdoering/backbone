@@ -1,5 +1,4 @@
-Calyptella griseopallida (Weinm.) Park.-Rhodes SPECIES
-=======
+# Calyptella griseopallida (Weinm.) Park.-Rhodes SPECIES
 
 #### Status
 ACCEPTED

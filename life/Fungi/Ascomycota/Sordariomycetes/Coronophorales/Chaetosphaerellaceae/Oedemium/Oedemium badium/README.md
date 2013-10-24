@@ -1,5 +1,4 @@
-Oedemium badium Rabenh. SPECIES
-=======
+# Oedemium badium Rabenh. SPECIES
 
 #### Status
 ACCEPTED

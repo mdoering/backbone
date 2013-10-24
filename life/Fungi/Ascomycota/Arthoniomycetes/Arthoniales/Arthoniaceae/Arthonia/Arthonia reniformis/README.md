@@ -1,5 +1,4 @@
-Arthonia reniformis (Pers.) Nyl. SPECIES
-=======
+# Arthonia reniformis (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

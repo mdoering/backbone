@@ -1,14 +1,13 @@
-Nigredo sporoboli (Ellis & Everh.) Arthur, 1920 SPECIES
-=======
+# Uromyces sporoboli Ellis & Everh., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 227 (1920)
+Proc. Acad. nat. Sci. Philad. , 1893 45: 155 (1893)
 
 #### Original name
 Uromyces sporoboli Ellis & Everh., 1893

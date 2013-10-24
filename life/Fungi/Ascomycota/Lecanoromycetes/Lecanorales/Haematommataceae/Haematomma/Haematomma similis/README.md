@@ -1,5 +1,4 @@
-Haematomma similis Bagl. SPECIES
-=======
+# Haematomma similis Bagl. SPECIES
 
 #### Status
 ACCEPTED

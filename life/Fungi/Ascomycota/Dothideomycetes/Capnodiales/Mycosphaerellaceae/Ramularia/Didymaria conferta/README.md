@@ -1,5 +1,4 @@
-Didymaria conferta Syd. SPECIES
-=======
+# Didymaria conferta Syd. SPECIES
 
 #### Status
 ACCEPTED

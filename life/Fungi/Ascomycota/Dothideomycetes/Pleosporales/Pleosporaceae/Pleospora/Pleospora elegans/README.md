@@ -1,5 +1,4 @@
-Pleospora elegans Gucevic SPECIES
-=======
+# Pleospora elegans Gucevic SPECIES
 
 #### Status
 ACCEPTED

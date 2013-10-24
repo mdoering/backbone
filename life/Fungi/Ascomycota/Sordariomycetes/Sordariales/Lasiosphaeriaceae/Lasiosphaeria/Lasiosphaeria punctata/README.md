@@ -1,5 +1,4 @@
-Lasiosphaeria punctata Munk, 1957 SPECIES
-=======
+# Lasiosphaeria punctata Munk, 1957 SPECIES
 
 #### Status
 ACCEPTED

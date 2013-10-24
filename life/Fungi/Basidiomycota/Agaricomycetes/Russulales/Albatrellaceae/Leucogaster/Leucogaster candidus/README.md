@@ -1,14 +1,13 @@
-Leucophleps candida Harkn., 1899 SPECIES
-=======
+# Leucogaster candidus (Harkn.) Fogel, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 258 (1899)
+Can. J. Bot. 57(16): 1727 (1979)
 
 #### Original name
 Leucophleps candida Harkn., 1899

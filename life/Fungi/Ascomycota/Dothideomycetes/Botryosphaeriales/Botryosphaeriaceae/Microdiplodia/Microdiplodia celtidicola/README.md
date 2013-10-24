@@ -1,5 +1,4 @@
-Microdiplodia celtidicola Gucevic SPECIES
-=======
+# Microdiplodia celtidicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

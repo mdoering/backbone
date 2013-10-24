@@ -1,5 +1,4 @@
-Palaeocalothrix T.N. Hermann, 1981 GENUS
-=======
+# Palaeocalothrix T.N. Hermann, 1981 GENUS
 
 #### Status
 ACCEPTED

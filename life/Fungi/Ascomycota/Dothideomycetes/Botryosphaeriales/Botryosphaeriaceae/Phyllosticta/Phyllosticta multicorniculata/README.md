@@ -1,5 +1,4 @@
-Phyllosticta multicorniculata Bissett & M.E. Palm SPECIES
-=======
+# Phyllosticta multicorniculata Bissett & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

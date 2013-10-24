@@ -1,5 +1,4 @@
-Almophrya laterovacuolata SPECIES
-=======
+# Almophrya laterovacuolata SPECIES
 
 #### Status
 ACCEPTED

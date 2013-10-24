@@ -1,5 +1,4 @@
-Cystoderma tricholomoides Heinem. & Thoen SPECIES
-=======
+# Cystoderma tricholomoides Heinem. & Thoen SPECIES
 
 #### Status
 ACCEPTED

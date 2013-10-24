@@ -1,5 +1,4 @@
-Haploporus latisporus Juan Li & Y.C. Dai SPECIES
-=======
+# Haploporus latisporus Juan Li & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

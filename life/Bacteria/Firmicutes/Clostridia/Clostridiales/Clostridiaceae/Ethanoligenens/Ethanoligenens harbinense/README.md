@@ -1,5 +1,4 @@
-Ethanoligenens harbinense Xing et al., 2006 SPECIES
-=======
+# Ethanoligenens harbinense Xing et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

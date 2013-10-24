@@ -1,5 +1,4 @@
-Sclerotium dipsacum var. dipsacum VARIETY
-=======
+# Sclerotium dipsacum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 1: 203 (1815)
 
 #### Original name
-Sclerotium dipsacum var. dipsacum
+Sclerotium dipsacum Fr.
 
 ### Remarks
 null

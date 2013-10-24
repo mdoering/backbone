@@ -1,5 +1,4 @@
-Uromyces ghaznicus Petr. SPECIES
-=======
+# Uromyces ghaznicus Petr. SPECIES
 
 #### Status
 ACCEPTED

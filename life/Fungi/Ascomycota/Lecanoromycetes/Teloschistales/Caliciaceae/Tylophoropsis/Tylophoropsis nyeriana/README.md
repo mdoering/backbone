@@ -1,5 +1,4 @@
-Tylophoropsis nyeriana Sambo SPECIES
-=======
+# Tylophoropsis nyeriana Sambo SPECIES
 
 #### Status
 ACCEPTED

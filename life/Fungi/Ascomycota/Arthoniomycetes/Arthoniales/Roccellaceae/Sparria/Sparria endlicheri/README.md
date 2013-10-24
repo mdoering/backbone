@@ -1,17 +1,16 @@
-Arthonia lobata f. lobata FORM
-=======
+# Sparria endlicheri (Garov.) Ertz & Tehler SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Arthonia lobata f. lobata
+null
 
 ### Remarks
 null

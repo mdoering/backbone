@@ -1,5 +1,4 @@
-Sargogyne magnussonii SPECIES
-=======
+# Sargogyne magnussonii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromphale latisporum Singer SPECIES
-=======
+# Micromphale latisporum Singer SPECIES
 
 #### Status
 ACCEPTED

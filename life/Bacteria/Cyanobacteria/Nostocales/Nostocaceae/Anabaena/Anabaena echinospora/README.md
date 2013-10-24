@@ -1,5 +1,4 @@
-Anabaena echinospora var. yamano S.A. Guarrera & R.O. Echenique VARIETY
-=======
+# Anabaena echinospora Skuja SPECIES
 
 #### Status
 ACCEPTED

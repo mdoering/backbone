@@ -1,5 +1,4 @@
-Chaetendophragmia ellisii (Piroz.) B. Sutton & Hodges SPECIES
-=======
+# Chaetendophragmia ellisii (Piroz.) B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

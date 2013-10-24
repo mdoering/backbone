@@ -1,5 +1,4 @@
-Arthonia diplotypa Vain. SPECIES
-=======
+# Arthonia diplotypa Vain. SPECIES
 
 #### Status
 ACCEPTED

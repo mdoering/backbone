@@ -1,5 +1,4 @@
-Caloplaca deceptoria (Flagey) J. Steiner SPECIES
-=======
+# Caloplaca deceptoria (Flagey) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

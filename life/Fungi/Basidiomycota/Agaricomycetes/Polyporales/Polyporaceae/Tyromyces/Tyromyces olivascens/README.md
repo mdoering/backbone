@@ -1,5 +1,4 @@
-Tyromyces olivascens (Corner) T. Hatt. SPECIES
-=======
+# Tyromyces olivascens (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

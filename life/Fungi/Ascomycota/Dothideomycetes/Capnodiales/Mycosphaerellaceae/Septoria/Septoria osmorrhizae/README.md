@@ -1,5 +1,4 @@
-Septoria osmorrhizae Peck SPECIES
-=======
+# Septoria osmorrhizae Peck SPECIES
 
 #### Status
 ACCEPTED

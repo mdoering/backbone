@@ -1,5 +1,4 @@
-Stigmatodothis palawanensis Syd. & P. Syd., 1914 SPECIES
-=======
+# Stigmatodothis palawanensis Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porotheleum pruinatum (Schwein.) Pat. SPECIES
-=======
+# Porotheleum pruinatum (Schwein.) Pat. SPECIES
 
 #### Status
 ACCEPTED

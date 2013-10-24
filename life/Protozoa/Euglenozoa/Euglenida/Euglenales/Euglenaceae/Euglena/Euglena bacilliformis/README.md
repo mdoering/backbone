@@ -1,5 +1,4 @@
-Euglena bacilliformis Z. X. Shi SPECIES
-=======
+# Euglena bacilliformis Z. X. Shi SPECIES
 
 #### Status
 ACCEPTED

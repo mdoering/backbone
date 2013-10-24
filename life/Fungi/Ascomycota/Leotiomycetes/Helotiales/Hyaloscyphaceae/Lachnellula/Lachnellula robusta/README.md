@@ -1,5 +1,4 @@
-Lachnellula robusta Baral & Matheis SPECIES
-=======
+# Lachnellula robusta Baral & Matheis SPECIES
 
 #### Status
 ACCEPTED

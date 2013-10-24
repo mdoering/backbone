@@ -1,5 +1,4 @@
-Micropuccinia parkerae (Dietel & Holw.) Syd. {?} SPECIES
-=======
+# Micropuccinia parkerae (Dietel & Holw.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

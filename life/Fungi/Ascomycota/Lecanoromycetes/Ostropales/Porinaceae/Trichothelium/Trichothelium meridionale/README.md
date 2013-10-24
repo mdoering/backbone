@@ -1,5 +1,4 @@
-Trichothelium meridionale subsp. meridionale P. M. McCarthy & Kantvilas SUBSPECIES
-=======
+# Trichothelium meridionale P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 47: 5 (2000)
 
 #### Original name
-null
+Trichothelium meridionale P. M. McCarthy & Kantvilas
 
 ### Remarks
 null

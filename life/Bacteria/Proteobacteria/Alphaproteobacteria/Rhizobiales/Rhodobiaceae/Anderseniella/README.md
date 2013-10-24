@@ -1,5 +1,4 @@
-Anderseniella Brettar, Christen, Botel, Lunsdorf & Hofle, 2007 GENUS
-=======
+# Anderseniella Brettar, Christen, Botel, Lunsdorf & Hofle, 2007 GENUS
 
 #### Status
 ACCEPTED

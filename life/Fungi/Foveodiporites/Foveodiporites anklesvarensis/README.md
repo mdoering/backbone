@@ -1,5 +1,4 @@
-Foveodiporites anklesvarensis C.P. Varma & Rawat SPECIES
-=======
+# Foveodiporites anklesvarensis C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

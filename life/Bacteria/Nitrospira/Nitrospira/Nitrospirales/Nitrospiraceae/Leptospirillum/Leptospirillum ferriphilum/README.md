@@ -1,5 +1,4 @@
-Leptospirillum ferriphilum Coram & Rawlings, 2002 SPECIES
-=======
+# Leptospirillum ferriphilum Coram & Rawlings, 2002 SPECIES
 
 #### Status
 ACCEPTED

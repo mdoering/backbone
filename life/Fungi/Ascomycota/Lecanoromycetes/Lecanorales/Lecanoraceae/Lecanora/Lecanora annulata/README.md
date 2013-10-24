@@ -1,5 +1,4 @@
-Lecanora annulata Lynge SPECIES
-=======
+# Lecanora annulata Lynge SPECIES
 
 #### Status
 ACCEPTED

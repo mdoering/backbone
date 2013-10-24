@@ -1,17 +1,16 @@
-Cetraspora gilmorei (Trappe & Gerd.) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora gilmorei (Trappe & Gerd.) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 181 (1986)
 
 #### Original name
-null
+Gigaspora gilmorei Trappe & Gerd., 1974
 
 ### Remarks
 null

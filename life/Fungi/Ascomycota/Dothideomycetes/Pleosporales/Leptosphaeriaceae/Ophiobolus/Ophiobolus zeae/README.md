@@ -1,5 +1,4 @@
-Ophiobolus zeae Saccas SPECIES
-=======
+# Ophiobolus zeae Saccas SPECIES
 
 #### Status
 ACCEPTED

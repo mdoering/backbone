@@ -1,14 +1,13 @@
-Virgaria globigera Sacc. & Ellis, 1882 SPECIES
-=======
+# Virgariella globigera (Sacc. & Ellis) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 578 (1882)
+Can. J. Bot. 31: 654 (1953)
 
 #### Original name
 Virgaria globigera Sacc. & Ellis, 1882

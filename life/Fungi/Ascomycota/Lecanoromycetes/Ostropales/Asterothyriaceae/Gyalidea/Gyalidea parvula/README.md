@@ -1,5 +1,4 @@
-Gyalidea parvula Kalb & Vezda SPECIES
-=======
+# Gyalidea parvula Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

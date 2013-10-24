@@ -1,5 +1,4 @@
-Diplodia smilacina Berk. SPECIES
-=======
+# Diplodia smilacina Berk. SPECIES
 
 #### Status
 ACCEPTED

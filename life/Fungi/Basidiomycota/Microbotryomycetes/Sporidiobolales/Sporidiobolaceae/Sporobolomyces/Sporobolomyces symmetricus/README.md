@@ -1,5 +1,4 @@
-Sporobolomyces symmetricus F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Sporobolomyces symmetricus F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

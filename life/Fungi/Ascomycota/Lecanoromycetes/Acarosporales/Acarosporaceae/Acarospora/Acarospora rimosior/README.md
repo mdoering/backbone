@@ -1,5 +1,4 @@
-Acarospora rimosior H. Magn. SPECIES
-=======
+# Acarospora rimosior H. Magn. SPECIES
 
 #### Status
 ACCEPTED

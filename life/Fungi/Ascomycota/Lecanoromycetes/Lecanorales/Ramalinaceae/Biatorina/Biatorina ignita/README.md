@@ -1,5 +1,4 @@
-Biatorina ignita Anzi SPECIES
-=======
+# Biatorina ignita Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mysticella Carbonell-Moore, 1994 GENUS
-=======
+# Mysticella Carbonell-Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum alliciens Berk. & Cooke SPECIES
-=======
+# Stereum alliciens Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium haynaldianum Sacc. & Roum. SPECIES
-=======
+# Gloeosporium haynaldianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

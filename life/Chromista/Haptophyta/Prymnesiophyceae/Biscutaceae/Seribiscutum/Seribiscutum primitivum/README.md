@@ -1,5 +1,4 @@
-Seribiscutum primitivum (H.R. Thierstein) M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
-=======
+# Seribiscutum primitivum (H.R. Thierstein) M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

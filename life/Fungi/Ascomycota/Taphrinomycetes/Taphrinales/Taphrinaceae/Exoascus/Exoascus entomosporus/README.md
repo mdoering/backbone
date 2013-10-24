@@ -1,5 +1,4 @@
-Exoascus entomosporus (Thaxt.) Sacc. & Trotter SPECIES
-=======
+# Exoascus entomosporus (Thaxt.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

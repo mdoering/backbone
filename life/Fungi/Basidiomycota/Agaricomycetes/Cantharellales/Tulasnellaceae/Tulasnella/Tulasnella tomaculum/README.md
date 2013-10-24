@@ -1,5 +1,4 @@
-Tulasnella tomaculum P. Roberts, 1993 SPECIES
-=======
+# Tulasnella tomaculum P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED

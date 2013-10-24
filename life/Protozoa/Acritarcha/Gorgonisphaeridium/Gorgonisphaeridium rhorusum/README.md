@@ -1,5 +1,4 @@
-Gorgonisphaeridium rhorusum Gao Lianda, 1988 SPECIES
-=======
+# Gorgonisphaeridium rhorusum Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

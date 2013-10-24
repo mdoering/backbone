@@ -1,5 +1,4 @@
-Periconia flabelliformis Munt.-Cvetk., Hoyo & Gómez-Bolea SPECIES
-=======
+# Periconia flabelliformis Munt.-Cvetk., Hoyo & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

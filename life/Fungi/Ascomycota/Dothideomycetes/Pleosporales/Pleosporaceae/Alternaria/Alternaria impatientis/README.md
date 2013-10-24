@@ -1,5 +1,4 @@
-Alternaria impatientis X. Sun & T.Y. Zhang SPECIES
-=======
+# Alternaria impatientis X. Sun & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

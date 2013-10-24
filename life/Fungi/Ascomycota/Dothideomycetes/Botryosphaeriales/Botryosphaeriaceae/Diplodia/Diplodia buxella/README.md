@@ -1,5 +1,4 @@
-Diplodia buxella Sacc. SPECIES
-=======
+# Diplodia buxella Sacc. SPECIES
 
 #### Status
 ACCEPTED

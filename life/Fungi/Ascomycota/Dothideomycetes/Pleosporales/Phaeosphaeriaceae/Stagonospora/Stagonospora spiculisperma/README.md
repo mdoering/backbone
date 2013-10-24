@@ -1,5 +1,4 @@
-Stagonospora spiculisperma H.C. Greene SPECIES
-=======
+# Stagonospora spiculisperma H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

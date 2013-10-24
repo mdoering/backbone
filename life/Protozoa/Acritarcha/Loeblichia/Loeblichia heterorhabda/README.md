@@ -1,5 +1,4 @@
-Loeblichia heterorhabda Playford & Wicander, 1988 SPECIES
-=======
+# Loeblichia heterorhabda Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

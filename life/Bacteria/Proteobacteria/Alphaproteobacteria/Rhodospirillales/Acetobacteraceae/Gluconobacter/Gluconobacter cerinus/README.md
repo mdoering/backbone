@@ -1,5 +1,4 @@
-Gluconobacter cerinus (ex Asai, 1935) Yamada & Akita, 1984 SPECIES
-=======
+# Gluconobacter cerinus (ex Asai, 1935) Yamada & Akita, 1984 SPECIES
 
 #### Status
 ACCEPTED

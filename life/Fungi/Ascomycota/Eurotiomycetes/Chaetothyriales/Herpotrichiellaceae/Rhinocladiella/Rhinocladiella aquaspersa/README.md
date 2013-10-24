@@ -1,5 +1,4 @@
-Rhinocladiella aquaspersa (Borelli) Schell, McGinnis & Borelli, 1983 SPECIES
-=======
+# Rhinocladiella aquaspersa (Borelli) Schell, McGinnis & Borelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

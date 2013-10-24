@@ -1,5 +1,4 @@
-Thelocarpon coccosporum Lettau SPECIES
-=======
+# Thelocarpon coccosporum Lettau SPECIES
 
 #### Status
 ACCEPTED

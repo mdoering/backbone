@@ -1,5 +1,4 @@
-Omphalia scyphophora Mont. SPECIES
-=======
+# Omphalia scyphophora Mont. SPECIES
 
 #### Status
 ACCEPTED

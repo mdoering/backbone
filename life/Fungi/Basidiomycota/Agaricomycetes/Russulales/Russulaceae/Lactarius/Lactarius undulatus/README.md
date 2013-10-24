@@ -1,5 +1,4 @@
-Lactarius undulatus Verbeken SPECIES
-=======
+# Lactarius undulatus Verbeken SPECIES
 
 #### Status
 ACCEPTED

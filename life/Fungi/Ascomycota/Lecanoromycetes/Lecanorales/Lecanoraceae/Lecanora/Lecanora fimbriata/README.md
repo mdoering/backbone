@@ -1,5 +1,4 @@
-Lecanora fimbriata H. Magn. SPECIES
-=======
+# Lecanora fimbriata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

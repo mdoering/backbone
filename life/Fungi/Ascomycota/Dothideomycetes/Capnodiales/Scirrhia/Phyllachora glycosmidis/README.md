@@ -1,5 +1,4 @@
-Phyllachora glycosmidis Petch, 1917 SPECIES
-=======
+# Phyllachora glycosmidis Petch, 1917 SPECIES
 
 #### Status
 DOUBTFUL

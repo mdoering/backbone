@@ -1,5 +1,4 @@
-Clitocybe subcyathiformis Peck SPECIES
-=======
+# Clitocybe subcyathiformis Peck SPECIES
 
 #### Status
 ACCEPTED

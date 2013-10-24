@@ -1,5 +1,4 @@
-Pholiotina fimicola (Watling) Enderle SPECIES
-=======
+# Pholiotina fimicola (Watling) Enderle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia maura Cooke & Ellis SPECIES
-=======
+# Diplodia maura Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

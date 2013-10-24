@@ -1,14 +1,13 @@
-Erysiphe maackii (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe maackiae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 21 (2000)
 
 #### Original name
 Uncinula maackiae R.Y. Zheng & G.Q. Chen

@@ -1,17 +1,16 @@
-Uredinopsis struthiopteris F.C.M. Störmer SPECIES
-=======
+# Uredinopsis struthiopteridis F.C.M. Störmer, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 13: 331 (1895)
 
 #### Original name
-Uredinopsis struthiopteris F.C.M. Störmer
+Uredinopsis struthiopteridis F.C.M. Störmer, 1895
 
 ### Remarks
 null

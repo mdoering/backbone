@@ -1,5 +1,4 @@
-Melanoleuca parisianorum f. parisianorum FORM
-=======
+# Melanoleuca parisianorum R. Haller Aar. ex Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 18(no. 69): 30 (1987)
 
 #### Original name
-Melanoleuca parisianorum f. parisianorum
+Melanoleuca parisianorum R. Haller Aar. ex Bon
 
 ### Remarks
 null

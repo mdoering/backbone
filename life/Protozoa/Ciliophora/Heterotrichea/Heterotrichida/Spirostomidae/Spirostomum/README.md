@@ -1,5 +1,4 @@
-Spirostomum Ehrenberg, 1834 GENUS
-=======
+# Spirostomum Ehrenberg, 1834 GENUS
 
 #### Status
 ACCEPTED

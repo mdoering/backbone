@@ -1,5 +1,4 @@
-Dictyocha arctios H. Y. Ling SPECIES
-=======
+# Dictyocha arctios H. Y. Ling SPECIES
 
 #### Status
 ACCEPTED

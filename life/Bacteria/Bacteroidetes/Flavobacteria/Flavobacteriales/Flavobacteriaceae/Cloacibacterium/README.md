@@ -1,5 +1,4 @@
-Cloacibacterium Allen, Lawson, Collins, Falsen & Tanner, 2006 GENUS
-=======
+# Cloacibacterium Allen, Lawson, Collins, Falsen & Tanner, 2006 GENUS
 
 #### Status
 ACCEPTED

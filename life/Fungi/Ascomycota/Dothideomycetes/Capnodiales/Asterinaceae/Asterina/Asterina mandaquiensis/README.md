@@ -1,5 +1,4 @@
-Asterina mandaquiensis Henn. SPECIES
-=======
+# Asterina mandaquiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

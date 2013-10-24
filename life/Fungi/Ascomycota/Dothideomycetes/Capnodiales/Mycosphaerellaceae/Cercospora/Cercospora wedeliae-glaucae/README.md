@@ -1,5 +1,4 @@
-Cercospora wedeliae-glaucae U. Braun, Delhey & Kiehr SPECIES
-=======
+# Cercospora wedeliae-glaucae U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

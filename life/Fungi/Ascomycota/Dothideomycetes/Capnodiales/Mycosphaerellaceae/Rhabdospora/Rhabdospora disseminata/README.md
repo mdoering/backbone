@@ -1,5 +1,4 @@
-Rhabdospora disseminata Sacc. & Paol. SPECIES
-=======
+# Rhabdospora disseminata Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

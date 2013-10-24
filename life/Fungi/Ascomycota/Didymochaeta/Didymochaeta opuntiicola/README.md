@@ -1,5 +1,4 @@
-Didymochaeta opuntiicola Speg. SPECIES
-=======
+# Didymochaeta opuntiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

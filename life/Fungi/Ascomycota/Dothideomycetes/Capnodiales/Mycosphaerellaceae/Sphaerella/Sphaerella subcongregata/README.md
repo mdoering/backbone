@@ -1,5 +1,4 @@
-Sphaerella subcongregata Ellis & Everh. SPECIES
-=======
+# Sphaerella subcongregata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

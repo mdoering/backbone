@@ -1,5 +1,4 @@
-Rhizopogon olivaceoluteus A.H. Sm. SPECIES
-=======
+# Rhizopogon olivaceoluteus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

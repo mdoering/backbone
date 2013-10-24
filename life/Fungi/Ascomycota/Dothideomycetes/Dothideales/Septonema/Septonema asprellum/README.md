@@ -1,5 +1,4 @@
-Septonema asprellum Berk. & M.A. Curtis SPECIES
-=======
+# Septonema asprellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

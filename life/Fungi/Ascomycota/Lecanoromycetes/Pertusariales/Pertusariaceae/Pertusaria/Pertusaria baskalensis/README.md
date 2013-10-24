@@ -1,5 +1,4 @@
-Pertusaria baskalensis Szatala SPECIES
-=======
+# Pertusaria baskalensis Szatala SPECIES
 
 #### Status
 ACCEPTED

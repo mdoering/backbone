@@ -1,5 +1,4 @@
-Ampelomyces plantaginis (Oudem.) Rudakov SPECIES
-=======
+# Ampelomyces plantaginis (Oudem.) Rudakov SPECIES
 
 #### Status
 ACCEPTED

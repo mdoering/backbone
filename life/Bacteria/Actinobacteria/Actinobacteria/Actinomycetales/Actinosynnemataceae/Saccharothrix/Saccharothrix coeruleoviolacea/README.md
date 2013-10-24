@@ -1,8 +1,7 @@
-Actinomadura coeruleoviolacea Preobrazhenskaya & Terekhova, 1987 SPECIES
-=======
+# Saccharothrix coeruleoviolacea (Preobrazhenskaya & Terekhova, 1987) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

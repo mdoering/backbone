@@ -1,5 +1,4 @@
-Pertusaria balekensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria balekensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

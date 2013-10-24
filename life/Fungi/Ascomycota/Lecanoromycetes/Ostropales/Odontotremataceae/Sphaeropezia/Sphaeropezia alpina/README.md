@@ -1,5 +1,4 @@
-Sphaeropezia alpina Sacc. SPECIES
-=======
+# Sphaeropezia alpina Sacc. SPECIES
 
 #### Status
 ACCEPTED

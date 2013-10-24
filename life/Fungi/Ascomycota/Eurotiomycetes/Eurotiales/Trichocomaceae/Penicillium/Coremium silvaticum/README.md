@@ -1,5 +1,4 @@
-Coremium silvaticum Wehmer SPECIES
-=======
+# Coremium silvaticum Wehmer SPECIES
 
 #### Status
 ACCEPTED

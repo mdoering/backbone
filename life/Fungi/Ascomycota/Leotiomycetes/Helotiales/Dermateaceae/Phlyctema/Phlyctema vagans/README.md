@@ -1,5 +1,4 @@
-Phlyctema vagans Petr. SPECIES
-=======
+# Phlyctema vagans Petr. SPECIES
 
 #### Status
 ACCEPTED

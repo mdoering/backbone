@@ -1,5 +1,4 @@
-Heterothecium versicolor (Nyl.) Flot. SPECIES
-=======
+# Heterothecium versicolor (Nyl.) Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placolecanora thulensis (Th. Fr.) Kopach. SPECIES
-=======
+# Placolecanora thulensis (Th. Fr.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

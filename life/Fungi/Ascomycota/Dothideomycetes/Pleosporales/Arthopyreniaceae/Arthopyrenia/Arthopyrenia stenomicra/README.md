@@ -1,5 +1,4 @@
-Arthopyrenia stenomicra Norman SPECIES
-=======
+# Arthopyrenia stenomicra Norman SPECIES
 
 #### Status
 ACCEPTED

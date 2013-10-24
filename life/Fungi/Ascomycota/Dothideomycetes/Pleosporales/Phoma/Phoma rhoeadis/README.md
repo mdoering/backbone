@@ -1,5 +1,4 @@
-Phoma rhoeadis Brunaud SPECIES
-=======
+# Phoma rhoeadis Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe nitida Velen. SPECIES
-=======
+# Inocybe nitida Velen. SPECIES
 
 #### Status
 ACCEPTED

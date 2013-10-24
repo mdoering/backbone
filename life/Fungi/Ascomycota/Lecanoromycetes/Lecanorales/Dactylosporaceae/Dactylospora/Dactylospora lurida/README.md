@@ -1,5 +1,4 @@
-Dactylospora lurida Hafellner SPECIES
-=======
+# Dactylospora lurida Hafellner SPECIES
 
 #### Status
 ACCEPTED

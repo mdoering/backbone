@@ -1,5 +1,4 @@
-Coprosira brebissonii Kützing SPECIES
-=======
+# Coprosira brebissonii Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lemboides Kahl, 1931 GENUS
-=======
+# Paralembus Kahl, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Tierwelt Dtsch. , 21, 181.
+Tierwelt der Nord- und Ostsee, 23, 29.
 
 #### Original name
-null
+Lemboides Kahl, 1931
 
 ### Remarks
 null

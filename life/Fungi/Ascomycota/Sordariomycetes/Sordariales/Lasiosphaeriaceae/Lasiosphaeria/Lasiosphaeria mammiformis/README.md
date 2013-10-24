@@ -1,5 +1,4 @@
-Lasiosphaeria mammiformis (Pers.) SPECIES
-=======
+# Lasiosphaeria mammiformis (Pers.) SPECIES
 
 #### Status
 ACCEPTED

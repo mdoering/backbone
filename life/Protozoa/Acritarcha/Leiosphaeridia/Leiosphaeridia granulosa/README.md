@@ -1,5 +1,4 @@
-Leiosphaeridia granulosa (Staplin, 1961) Eisenack et al., 1979 SPECIES
-=======
+# Leiosphaeridia granulosa (Staplin, 1961) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

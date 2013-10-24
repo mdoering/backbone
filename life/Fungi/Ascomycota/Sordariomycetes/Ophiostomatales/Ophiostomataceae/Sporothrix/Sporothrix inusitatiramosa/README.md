@@ -1,5 +1,4 @@
-Sporothrix inusitatiramosa H.Z. Kong, 1991 SPECIES
-=======
+# Sporothrix inusitatiramosa H.Z. Kong, 1991 SPECIES
 
 #### Status
 ACCEPTED

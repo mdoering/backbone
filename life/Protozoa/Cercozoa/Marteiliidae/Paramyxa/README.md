@@ -1,5 +1,4 @@
-Paramyxa Chatton, 1911 GENUS
-=======
+# Paramyxa Chatton, 1911 GENUS
 
 #### Status
 ACCEPTED

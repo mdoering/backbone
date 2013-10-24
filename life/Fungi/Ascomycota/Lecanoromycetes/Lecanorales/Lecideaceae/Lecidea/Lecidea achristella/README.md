@@ -1,5 +1,4 @@
-Lecidea achristella Vain. SPECIES
-=======
+# Lecidea achristella Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum olacicola Muthappa SPECIES
-=======
+# Colletotrichum olacicola Muthappa SPECIES
 
 #### Status
 ACCEPTED

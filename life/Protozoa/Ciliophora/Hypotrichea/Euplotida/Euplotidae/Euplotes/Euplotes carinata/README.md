@@ -1,5 +1,4 @@
-Euplotes carinata SPECIES
-=======
+# Euplotes carinata SPECIES
 
 #### Status
 ACCEPTED

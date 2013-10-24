@@ -1,5 +1,4 @@
-Xylaria tuberosa (Pers.) Cooke SPECIES
-=======
+# Xylaria tuberosa (Pers.) Cooke SPECIES
 
 #### Status
 ACCEPTED

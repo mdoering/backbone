@@ -1,5 +1,4 @@
-Phomopsis fraterna Fairm. SPECIES
-=======
+# Phomopsis fraterna Fairm. SPECIES
 
 #### Status
 ACCEPTED

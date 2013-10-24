@@ -1,5 +1,4 @@
-Septobasidium gossypium Pat. SPECIES
-=======
+# Septobasidium gossypium Pat. SPECIES
 
 #### Status
 ACCEPTED

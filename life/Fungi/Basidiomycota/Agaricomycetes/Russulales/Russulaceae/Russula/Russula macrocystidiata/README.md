@@ -1,5 +1,4 @@
-Russula macrocystidiata McNabb, 1973 SPECIES
-=======
+# Russula macrocystidiata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

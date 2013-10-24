@@ -1,5 +1,4 @@
-Sordaria potentillae Gucevic SPECIES
-=======
+# Sordaria potentillae Gucevic SPECIES
 
 #### Status
 ACCEPTED

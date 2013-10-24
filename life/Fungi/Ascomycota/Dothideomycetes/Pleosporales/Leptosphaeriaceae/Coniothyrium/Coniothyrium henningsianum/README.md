@@ -1,5 +1,4 @@
-Coniothyrium henningsianum Trotter SPECIES
-=======
+# Coniothyrium henningsianum Trotter SPECIES
 
 #### Status
 ACCEPTED

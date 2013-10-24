@@ -1,5 +1,4 @@
-Psathyrella singeri A.H. Sm. SPECIES
-=======
+# Psathyrella singeri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

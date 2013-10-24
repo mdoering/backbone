@@ -1,17 +1,16 @@
-Phacidium discolor Mouton & Sacc., 1889 SPECIES
-=======
+# Potebniamyces pyri (Berk. & Broome) Dennis, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 8: 716 (1889)
+Brit. Ascom. (Vaduz), Edn 2 231 (1978)
 
 #### Original name
-Phacidium discolor Mouton & Sacc., 1889
+Stictis lecanora var. pyri Berk. & Broome, 1876
 
 ### Remarks
 null

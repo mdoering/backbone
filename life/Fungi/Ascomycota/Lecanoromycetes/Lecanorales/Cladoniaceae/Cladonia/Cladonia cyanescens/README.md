@@ -1,5 +1,4 @@
-Cladonia cyanescens Ahti SPECIES
-=======
+# Cladonia cyanescens Ahti SPECIES
 
 #### Status
 ACCEPTED

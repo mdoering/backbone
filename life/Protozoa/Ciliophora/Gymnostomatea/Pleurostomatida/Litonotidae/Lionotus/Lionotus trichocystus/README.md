@@ -1,5 +1,4 @@
-Lionotus trichocystus Stokes, 1885 SPECIES
-=======
+# Lionotus trichocystus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

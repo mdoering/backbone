@@ -1,5 +1,4 @@
-Lagerheima carteri (Berk.) Sacc. SPECIES
-=======
+# Lagerheima carteri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

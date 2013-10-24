@@ -1,5 +1,4 @@
-Glomerella erythrinae Syd., 1928 SPECIES
-=======
+# Glomerella erythrinae Syd., 1928 SPECIES
 
 #### Status
 ACCEPTED

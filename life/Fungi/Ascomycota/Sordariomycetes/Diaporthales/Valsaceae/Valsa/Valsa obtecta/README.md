@@ -1,5 +1,4 @@
-Valsa obtecta Cooke & Ellis SPECIES
-=======
+# Valsa obtecta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

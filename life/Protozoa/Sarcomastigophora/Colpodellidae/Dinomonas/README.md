@@ -1,5 +1,4 @@
-Dinomonas W.S.Kent, 1881 GENUS
-=======
+# Dinomonas W.S.Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

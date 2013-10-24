@@ -1,5 +1,4 @@
-Leptogium inflatum Müll. arg. SPECIES
-=======
+# Leptogium inflatum Müll. arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccostromella Petr. GENUS
-=======
+# Coccostromella Petr. GENUS
 
 #### Status
 ACCEPTED

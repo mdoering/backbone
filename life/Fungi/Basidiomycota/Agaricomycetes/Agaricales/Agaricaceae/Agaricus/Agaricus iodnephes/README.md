@@ -1,5 +1,4 @@
-Agaricus iodnephes Berk. & Broome SPECIES
-=======
+# Agaricus iodnephes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

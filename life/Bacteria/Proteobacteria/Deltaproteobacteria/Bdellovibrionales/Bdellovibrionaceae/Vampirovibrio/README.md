@@ -1,5 +1,4 @@
-Vampirovibrio Gromov & Mamkayeva, 1980 GENUS
-=======
+# Vampirovibrio Gromov & Mamkayeva, 1980 GENUS
 
 #### Status
 ACCEPTED

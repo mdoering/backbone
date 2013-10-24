@@ -1,5 +1,4 @@
-Gyrotrema wirthii Rivas Plata, Lücking & Lumbsch SPECIES
-=======
+# Gyrotrema wirthii Rivas Plata, Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

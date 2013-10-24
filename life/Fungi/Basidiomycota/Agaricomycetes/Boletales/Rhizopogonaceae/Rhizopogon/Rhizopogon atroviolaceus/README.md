@@ -1,5 +1,4 @@
-Rhizopogon atroviolaceus A.H. Sm. SPECIES
-=======
+# Rhizopogon atroviolaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

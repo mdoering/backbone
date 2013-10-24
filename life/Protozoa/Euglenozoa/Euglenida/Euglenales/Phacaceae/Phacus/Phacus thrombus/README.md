@@ -1,5 +1,4 @@
-Phacus thrombus Pochmann SPECIES
-=======
+# Phacus thrombus Pochmann SPECIES
 
 #### Status
 ACCEPTED

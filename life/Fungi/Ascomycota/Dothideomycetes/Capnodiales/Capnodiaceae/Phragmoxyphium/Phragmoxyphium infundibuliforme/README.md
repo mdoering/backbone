@@ -1,5 +1,4 @@
-Phragmoxyphium infundibuliforme (Petch) M.B. Ellis SPECIES
-=======
+# Phragmoxyphium infundibuliforme (Petch) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

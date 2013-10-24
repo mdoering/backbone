@@ -1,5 +1,4 @@
-Corticium lignigenum Duhem & H. Michel SPECIES
-=======
+# Corticium lignigenum Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

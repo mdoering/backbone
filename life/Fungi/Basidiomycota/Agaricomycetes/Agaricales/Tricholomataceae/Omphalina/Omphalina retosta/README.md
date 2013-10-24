@@ -1,5 +1,4 @@
-Omphalina retosta (Fr.) P.D. Orton SPECIES
-=======
+# Omphalina retosta (Fr.) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

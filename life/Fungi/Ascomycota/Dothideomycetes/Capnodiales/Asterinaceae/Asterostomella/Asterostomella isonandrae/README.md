@@ -1,5 +1,4 @@
-Asterostomella isonandrae Hosag. & Goos SPECIES
-=======
+# Asterostomella isonandrae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

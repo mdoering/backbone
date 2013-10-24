@@ -1,5 +1,4 @@
-Nectria phormiicola Samuels, 1976 SPECIES
-=======
+# Nectria phormiicola Samuels, 1976 SPECIES
 
 #### Status
 ACCEPTED

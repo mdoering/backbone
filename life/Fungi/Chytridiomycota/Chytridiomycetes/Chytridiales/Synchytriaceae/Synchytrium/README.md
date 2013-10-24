@@ -1,17 +1,16 @@
-Miyabella S. Ito & Homma GENUS
-=======
+# Synchytrium de Bary & Woronin, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 40: 112 (1926)
+Ber. Ges. Freiburg, 3 (2), 46.
 
 #### Original name
-Miyabella S. Ito & Homma
+Synchytrium de Bary & Woronin, 1863
 
 ### Remarks
 null

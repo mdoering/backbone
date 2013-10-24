@@ -1,5 +1,4 @@
-Mesorhizobium thiogangeticum Ghosh & Roy, 2006 SPECIES
-=======
+# Mesorhizobium thiogangeticum Ghosh & Roy, 2006 SPECIES
 
 #### Status
 ACCEPTED

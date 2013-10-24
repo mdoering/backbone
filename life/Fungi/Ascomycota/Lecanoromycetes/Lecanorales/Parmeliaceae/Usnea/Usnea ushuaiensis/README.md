@@ -1,5 +1,4 @@
-Usnea ushuaiensis (M. Lamb) Wirtz, Printzen & Lumbsch SPECIES
-=======
+# Usnea ushuaiensis (M. Lamb) Wirtz, Printzen & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

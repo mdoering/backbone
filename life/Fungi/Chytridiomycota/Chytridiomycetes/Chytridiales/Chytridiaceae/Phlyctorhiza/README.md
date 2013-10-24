@@ -1,5 +1,4 @@
-Phlyctorhiza A.M. Hanson GENUS
-=======
+# Phlyctorhiza A.M. Hanson GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe bovina (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe bovina (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

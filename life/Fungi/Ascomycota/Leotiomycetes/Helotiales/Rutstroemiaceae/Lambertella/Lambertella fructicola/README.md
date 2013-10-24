@@ -1,5 +1,4 @@
-Lambertella fructicola Dumont SPECIES
-=======
+# Lambertella fructicola Dumont SPECIES
 
 #### Status
 ACCEPTED

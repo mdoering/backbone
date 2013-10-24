@@ -1,5 +1,4 @@
-Arnium japonense Furuya & Udagawa SPECIES
-=======
+# Arnium japonense Furuya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

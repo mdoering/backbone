@@ -1,5 +1,4 @@
-Distephanaceae FAMILY
-=======
+# Distephanaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiropes limoniformis Katum. SPECIES
-=======
+# Spiropes limoniformis Katum. SPECIES
 
 #### Status
 ACCEPTED

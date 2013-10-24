@@ -1,5 +1,4 @@
-Scindalma nutans (Fr.) Kuntze SPECIES
-=======
+# Scindalma nutans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

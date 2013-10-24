@@ -1,5 +1,4 @@
-Hypoxylon ticinense L.E. Petrini, 1986 SPECIES
-=======
+# Hypoxylon ticinense L.E. Petrini, 1986 SPECIES
 
 #### Status
 ACCEPTED

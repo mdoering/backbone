@@ -1,5 +1,4 @@
-Marasmius leucozonites Singer SPECIES
-=======
+# Marasmius leucozonites Singer SPECIES
 
 #### Status
 ACCEPTED

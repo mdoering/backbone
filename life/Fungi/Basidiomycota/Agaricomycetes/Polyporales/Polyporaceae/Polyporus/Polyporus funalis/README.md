@@ -1,5 +1,4 @@
-Polyporus funalis var. funalis VARIETY
-=======
+# Polyporus funalis Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 469 (1838)
 
 #### Original name
-Polyporus funalis var. funalis
+Polyporus funalis Fr.
 
 ### Remarks
 null

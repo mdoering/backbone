@@ -1,5 +1,4 @@
-Boletus trichocephalus Ehrenb. SPECIES
-=======
+# Boletus trichocephalus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lecanora novae-zelandiae H. Magn. SPECIES
-=======
+# Lecanora novae-zealandiae H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora novae-zelandiae H. Magn.
+Lecanora novae-zealandiae H. Magn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurotus lux Har. SPECIES
-=======
+# Pleurotus lux Har. SPECIES
 
 #### Status
 ACCEPTED

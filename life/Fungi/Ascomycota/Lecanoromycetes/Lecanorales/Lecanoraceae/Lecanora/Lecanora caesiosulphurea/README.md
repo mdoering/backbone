@@ -1,5 +1,4 @@
-Lecanora caesiosulphurea Vain. SPECIES
-=======
+# Lecanora caesiosulphurea Vain. SPECIES
 
 #### Status
 ACCEPTED

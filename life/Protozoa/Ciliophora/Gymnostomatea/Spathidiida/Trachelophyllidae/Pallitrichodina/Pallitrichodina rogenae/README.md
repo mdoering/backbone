@@ -1,5 +1,4 @@
-Pallitrichodina rogenae (Van As & Basson, 1993) Van As & Basson in Aescht, 2001 SPECIES
-=======
+# Pallitrichodina rogenae (Van As & Basson, 1993) Van As & Basson in Aescht, 2001 SPECIES
 
 #### Status
 ACCEPTED

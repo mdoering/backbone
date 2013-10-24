@@ -1,5 +1,4 @@
-Persicitalea Yoon, Ishikawa, Kasai & Yokota, 2007 GENUS
-=======
+# Persicitalea Yoon, Ishikawa, Kasai & Yokota, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telamonia armentacea Velen. SPECIES
-=======
+# Telamonia armentacea Velen. SPECIES
 
 #### Status
 ACCEPTED

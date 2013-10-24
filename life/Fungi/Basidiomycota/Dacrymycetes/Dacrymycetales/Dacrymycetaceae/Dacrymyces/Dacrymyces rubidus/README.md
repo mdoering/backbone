@@ -1,5 +1,4 @@
-Dacrymyces rubidus Holterm. SPECIES
-=======
+# Dacrymyces rubidus Holterm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryonectria Döbbeler GENUS
-=======
+# Bryonectria Döbbeler GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphellophora laciniata G.A. de Vries, 1962 SPECIES
-=======
+# Cyphellophora laciniata G.A. de Vries, 1962 SPECIES
 
 #### Status
 ACCEPTED

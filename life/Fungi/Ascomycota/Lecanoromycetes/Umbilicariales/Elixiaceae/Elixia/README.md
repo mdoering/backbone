@@ -1,5 +1,4 @@
-Elixia Lumbsch GENUS
-=======
+# Elixia Lumbsch GENUS
 
 #### Status
 ACCEPTED

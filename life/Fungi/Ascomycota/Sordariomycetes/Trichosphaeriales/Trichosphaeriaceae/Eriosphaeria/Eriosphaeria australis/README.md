@@ -1,5 +1,4 @@
-Eriosphaeria australis Speg. SPECIES
-=======
+# Eriosphaeria australis Speg. SPECIES
 
 #### Status
 ACCEPTED

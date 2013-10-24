@@ -1,5 +1,4 @@
-Kabatana newberryi K.R. McGourty, A.P. Kinziger, G.L. Hendrickson, G.H. Goldsmith, G. Casal, C. Azevedo, 2007 SPECIES
-=======
+# Kabatana newberryi K.R. McGourty, A.P. Kinziger, G.L. Hendrickson, G.H. Goldsmith, G. Casal, C. Azevedo, 2007 SPECIES
 
 #### Status
 ACCEPTED

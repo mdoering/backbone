@@ -1,5 +1,4 @@
-Pestalotia nuciseda Fairm. SPECIES
-=======
+# Pestalotia nuciseda Fairm. SPECIES
 
 #### Status
 ACCEPTED

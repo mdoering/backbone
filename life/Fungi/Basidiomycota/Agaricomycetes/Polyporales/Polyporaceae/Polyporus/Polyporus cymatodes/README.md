@@ -1,5 +1,4 @@
-Polyporus cymatodes Sacc. SPECIES
-=======
+# Polyporus cymatodes Sacc. SPECIES
 
 #### Status
 ACCEPTED

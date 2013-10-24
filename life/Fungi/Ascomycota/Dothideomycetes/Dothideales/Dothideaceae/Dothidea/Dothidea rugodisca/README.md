@@ -1,14 +1,13 @@
-Phyllachora rugodisca (Cooke & Harkn.) Cooke, 1885 SPECIES
-=======
+# Dothidea rugodisca Cooke & Harkn., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Grevillea 9(no. 51): 87 (1881)
 
 #### Original name
 Dothidea rugodisca Cooke & Harkn., 1881

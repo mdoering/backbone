@@ -1,5 +1,4 @@
-Trogia endocystidiata Corner SPECIES
-=======
+# Trogia endocystidiata Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex schweinitzii Berk. & M.A. Curtis SPECIES
-=======
+# Irpex schweinitzii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe cordae Velen. SPECIES
-=======
+# Inocybe cordae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periholosticha paucicirrata Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
-=======
+# Periholosticha paucicirrata Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
 
 #### Status
 ACCEPTED

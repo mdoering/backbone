@@ -1,5 +1,4 @@
-Coccomyces basizonatus Spooner, 1990 SPECIES
-=======
+# Coccomyces basizonatus Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

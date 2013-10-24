@@ -1,17 +1,16 @@
-Poria phytoderma var. erythraea Sacc. VARIETY
-=======
+# Trichaptum byssogenum (Jungh.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. , N. S. 23: 233 (1916)
+Norw. Jl Bot. 19(3-4): 237 (1972)
 
 #### Original name
-Poria phytoderma var. erythraea Sacc.
+Polyporus byssogenus Jungh., 1838
 
 ### Remarks
 null

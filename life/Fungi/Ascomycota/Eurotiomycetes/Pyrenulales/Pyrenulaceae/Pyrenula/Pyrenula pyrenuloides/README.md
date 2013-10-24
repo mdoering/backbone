@@ -1,14 +1,13 @@
-Bathelium pyrenuloides (Mont.) Trevis. SPECIES
-=======
+# Pyrenula pyrenuloides (Mont.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 99 (1989)
 
 #### Original name
 Trypethelium pyrenuloides Mont.

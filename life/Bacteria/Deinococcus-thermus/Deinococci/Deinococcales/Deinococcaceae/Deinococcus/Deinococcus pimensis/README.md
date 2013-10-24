@@ -1,5 +1,4 @@
-Deinococcus pimensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus pimensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

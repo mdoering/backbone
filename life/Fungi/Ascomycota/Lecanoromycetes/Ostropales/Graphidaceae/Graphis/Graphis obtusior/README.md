@@ -1,5 +1,4 @@
-Graphis obtusior Nyl. SPECIES
-=======
+# Graphis obtusior Nyl. SPECIES
 
 #### Status
 ACCEPTED

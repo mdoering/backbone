@@ -1,5 +1,4 @@
-Cladosphaera Dumort. GENUS
-=======
+# Cladosphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

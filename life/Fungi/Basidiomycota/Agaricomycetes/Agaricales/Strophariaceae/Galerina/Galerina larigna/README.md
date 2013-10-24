@@ -1,5 +1,4 @@
-Galerina larigna Singer SPECIES
-=======
+# Galerina larigna Singer SPECIES
 
 #### Status
 ACCEPTED

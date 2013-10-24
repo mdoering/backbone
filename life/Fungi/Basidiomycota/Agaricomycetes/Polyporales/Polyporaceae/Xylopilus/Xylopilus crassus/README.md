@@ -1,5 +1,4 @@
-Xylopilus crassus (Fr.) P. Karst. SPECIES
-=======
+# Xylopilus crassus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

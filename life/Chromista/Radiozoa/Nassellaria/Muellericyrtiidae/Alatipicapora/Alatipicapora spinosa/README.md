@@ -1,5 +1,4 @@
-Alatipicapora spinosa SPECIES
-=======
+# Alatipicapora spinosa SPECIES
 
 #### Status
 ACCEPTED

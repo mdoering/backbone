@@ -1,5 +1,4 @@
-Pedumispora rhizophorae K.D. Hyde & E.B.G. Jones, 1992 SPECIES
-=======
+# Pedumispora rhizophorae K.D. Hyde & E.B.G. Jones, 1992 SPECIES
 
 #### Status
 ACCEPTED

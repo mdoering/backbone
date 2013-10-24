@@ -1,5 +1,4 @@
-Puccinia dolomitica Kabát & Bubák SPECIES
-=======
+# Puccinia dolomitica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

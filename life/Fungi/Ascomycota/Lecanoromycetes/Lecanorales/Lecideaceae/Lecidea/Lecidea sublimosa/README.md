@@ -1,5 +1,4 @@
-Lecidea sublimosa Nyl. SPECIES
-=======
+# Lecidea sublimosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

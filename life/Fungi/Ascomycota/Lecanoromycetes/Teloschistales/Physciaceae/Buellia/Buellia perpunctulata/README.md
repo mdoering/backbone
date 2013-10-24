@@ -1,5 +1,4 @@
-Buellia perpunctulata B. de Lesdain SPECIES
-=======
+# Buellia perpunctulata B. de Lesdain SPECIES
 
 #### Status
 ACCEPTED

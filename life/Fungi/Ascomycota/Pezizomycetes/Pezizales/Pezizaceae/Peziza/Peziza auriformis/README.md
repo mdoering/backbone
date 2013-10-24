@@ -1,5 +1,4 @@
-Peziza auriformis Schwein. SPECIES
-=======
+# Peziza auriformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

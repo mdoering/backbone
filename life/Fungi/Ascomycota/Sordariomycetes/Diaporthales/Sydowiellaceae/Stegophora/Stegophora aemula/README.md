@@ -1,5 +1,4 @@
-Stegophora aemula Syd. SPECIES
-=======
+# Stegophora aemula Syd. SPECIES
 
 #### Status
 ACCEPTED

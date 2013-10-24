@@ -1,5 +1,4 @@
-Phoma schivereckiae Naumov SPECIES
-=======
+# Phoma schivereckiae Naumov SPECIES
 
 #### Status
 ACCEPTED

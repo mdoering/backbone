@@ -1,17 +1,16 @@
-Trametes versatilis var. versatilis Berk. VARIETY
-=======
+# Hirschioporus versatilis (Berk.) Imazeki, 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 1(3): 150 (1842)
+J. Jap. Bot. 20: 288 (1945)
 
 #### Original name
-Trametes versatilis var. versatilis Berk.
+Trametes versatilis Berk., 1842
 
 ### Remarks
 null

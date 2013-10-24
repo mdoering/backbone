@@ -1,5 +1,4 @@
-Tylopilus rufonigricans T.W. Henkel SPECIES
-=======
+# Tylopilus rufonigricans T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

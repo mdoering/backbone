@@ -1,5 +1,4 @@
-Clasterosporium resinae Rilstone SPECIES
-=======
+# Clasterosporium resinae Rilstone SPECIES
 
 #### Status
 ACCEPTED

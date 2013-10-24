@@ -1,5 +1,4 @@
-Hymenagaricus olivaceus Heinem. SPECIES
-=======
+# Hymenagaricus olivaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

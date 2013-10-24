@@ -1,5 +1,4 @@
-Verrucaria evanidula Nyl. SPECIES
-=======
+# Verrucaria evanidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha merrillii Syd. {?} SPECIES
-=======
+# Dasyscyphus merrillii Syd. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha merrillii Syd. {?}
+Dasyscyphus merrillii Syd. {?}
 
 ### Remarks
 null

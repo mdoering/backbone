@@ -1,5 +1,4 @@
-Aecidium farsiae Syd. SPECIES
-=======
+# Aecidium farsiae Syd. SPECIES
 
 #### Status
 ACCEPTED

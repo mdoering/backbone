@@ -1,5 +1,4 @@
-Urceolaria nivea (Flörke) Motyka SPECIES
-=======
+# Urceolaria nivea (Flörke) Motyka SPECIES
 
 #### Status
 ACCEPTED

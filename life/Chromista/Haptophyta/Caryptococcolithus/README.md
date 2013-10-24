@@ -1,5 +1,4 @@
-Caryptococcolithus GENUS
-=======
+# Caryptococcolithus GENUS
 
 #### Status
 ACCEPTED

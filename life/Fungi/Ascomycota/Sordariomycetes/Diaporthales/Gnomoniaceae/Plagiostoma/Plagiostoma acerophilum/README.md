@@ -1,5 +1,4 @@
-Plagiostoma acerophilum (Dearn. & House) M.E. Barr SPECIES
-=======
+# Plagiostoma acerophilum (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendriscocaulon callithamnion (Taylor) D.J. Galloway & Quilhot SPECIES
-=======
+# Dendriscocaulon callithamnion (Taylor) D.J. Galloway & Quilhot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen hymenius Ach. SPECIES
-=======
+# Lichen hymenius Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia yadagirensis P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia yadagirensis P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

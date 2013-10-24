@@ -1,5 +1,4 @@
-Dendryphion bresadolellae Höhn. SPECIES
-=======
+# Dendryphion bresadolellae Höhn. SPECIES
 
 #### Status
 ACCEPTED

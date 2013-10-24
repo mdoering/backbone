@@ -1,5 +1,4 @@
-Lecanora palmyrensis H. Magn. SPECIES
-=======
+# Lecanora palmyrensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ionaspis yünnana Zahlbr. SPECIES
-=======
+# Ionaspis yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ionaspis yünnana Zahlbr.
+Ionaspis yuennana Zahlbr.
 
 ### Remarks
 null

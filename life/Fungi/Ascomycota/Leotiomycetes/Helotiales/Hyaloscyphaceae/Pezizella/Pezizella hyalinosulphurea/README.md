@@ -1,5 +1,4 @@
-Pezizella hyalinosulphurea Rehm SPECIES
-=======
+# Pezizella hyalinosulphurea Rehm SPECIES
 
 #### Status
 ACCEPTED

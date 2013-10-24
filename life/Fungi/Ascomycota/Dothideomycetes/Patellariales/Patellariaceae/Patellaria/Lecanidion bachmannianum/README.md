@@ -1,5 +1,4 @@
-Lecanidion bachmannianum Keissl., 1921 SPECIES
-=======
+# Lecanidion bachmannianum Keissl., 1921 SPECIES
 
 #### Status
 ACCEPTED

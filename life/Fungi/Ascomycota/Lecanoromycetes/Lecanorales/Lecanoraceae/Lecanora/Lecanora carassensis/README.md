@@ -1,5 +1,4 @@
-Lecanora carassensis Vain. SPECIES
-=======
+# Lecanora carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED

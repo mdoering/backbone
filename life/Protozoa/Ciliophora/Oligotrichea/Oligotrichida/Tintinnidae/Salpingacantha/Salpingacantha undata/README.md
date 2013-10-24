@@ -1,5 +1,4 @@
-Salpingacantha undata (Jörgensen, 1899) SPECIES
-=======
+# Salpingacantha undata (Jörgensen, 1899) SPECIES
 
 #### Status
 ACCEPTED

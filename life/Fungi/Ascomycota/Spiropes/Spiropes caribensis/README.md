@@ -1,5 +1,4 @@
-Spiropes caribensis Hol.-Jech. SPECIES
-=======
+# Spiropes caribensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

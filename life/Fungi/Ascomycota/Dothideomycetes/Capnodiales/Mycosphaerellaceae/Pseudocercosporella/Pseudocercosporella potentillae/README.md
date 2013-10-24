@@ -1,5 +1,4 @@
-Pseudocercosporella potentillae (Woron.) U. Braun SPECIES
-=======
+# Pseudocercosporella potentillae (Woron.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xylosphaeria nigrofacta (Cooke) Cooke SPECIES
-=======
+# Leptosphaeria cesatiana (Mont. ex Ces. & De Not.) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(no. 3): 39 (1957)
 
 #### Original name
-Sphaeria nigrifacta Cooke, 1874
+Rhaphidophora cesatiana Mont., 1863
 
 ### Remarks
 null

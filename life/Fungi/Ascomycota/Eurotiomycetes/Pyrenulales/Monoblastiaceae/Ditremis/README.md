@@ -1,5 +1,4 @@
-Ditremis GENUS
-=======
+# Ditremis GENUS
 
 #### Status
 ACCEPTED

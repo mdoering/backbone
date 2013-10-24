@@ -1,5 +1,4 @@
-Seynesia polystachiae E. Castell. SPECIES
-=======
+# Seynesia polystachiae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

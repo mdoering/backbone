@@ -1,5 +1,4 @@
-Glonium breve Sacc. & Fautrey SPECIES
-=======
+# Glonium breve Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros bulbosus (Ehrenberg) Heiden, 1928 SPECIES
-=======
+# Chaetoceros bulbosus (Ehrenberg) Heiden, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora biformis Ellis & Barthol. SPECIES
-=======
+# Stagonospora biformis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

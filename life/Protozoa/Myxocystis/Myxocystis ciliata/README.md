@@ -1,5 +1,4 @@
-Myxocystis ciliata Mrázek SPECIES
-=======
+# Myxocystis ciliata Mrázek SPECIES
 
 #### Status
 ACCEPTED

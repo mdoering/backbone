@@ -1,5 +1,4 @@
-Cercospora ipomoeae-indicae Sawada SPECIES
-=======
+# Cercospora ipomoeae-indicae Sawada SPECIES
 
 #### Status
 ACCEPTED

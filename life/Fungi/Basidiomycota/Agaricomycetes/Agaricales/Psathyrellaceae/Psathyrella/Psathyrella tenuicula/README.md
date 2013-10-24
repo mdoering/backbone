@@ -1,5 +1,4 @@
-Psathyrella tenuicula (P. Karst.) Örstadius & Huhtinen SPECIES
-=======
+# Psathyrella tenuicula (P. Karst.) Örstadius & Huhtinen SPECIES
 
 #### Status
 ACCEPTED

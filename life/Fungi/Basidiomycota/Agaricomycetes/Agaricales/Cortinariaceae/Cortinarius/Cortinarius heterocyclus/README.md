@@ -1,5 +1,4 @@
-Cortinarius heterocyclus Soop SPECIES
-=======
+# Cortinarius heterocyclus Soop SPECIES
 
 #### Status
 ACCEPTED

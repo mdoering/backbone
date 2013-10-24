@@ -1,14 +1,13 @@
-Hyalotricha corticicola Dennis, 1949 SPECIES
-=======
+# Hyalopeziza corticicola (Dennis) Raitv., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 32: 91 (1949)
+Acad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 34 (1970)
 
 #### Original name
 Hyalotricha corticicola Dennis, 1949

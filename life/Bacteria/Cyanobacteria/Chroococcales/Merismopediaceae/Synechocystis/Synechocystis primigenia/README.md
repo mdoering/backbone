@@ -1,5 +1,4 @@
-Synechocystis primigenia Gardner SPECIES
-=======
+# Synechocystis primigenia Gardner SPECIES
 
 #### Status
 ACCEPTED

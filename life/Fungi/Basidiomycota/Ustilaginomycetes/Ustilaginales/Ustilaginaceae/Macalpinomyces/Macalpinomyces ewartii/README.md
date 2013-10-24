@@ -1,14 +1,13 @@
-Ustilago ewartii McAlpine, 1911 SPECIES
-=======
+# Macalpinomyces ewartii (McAlpine) Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 26(1): 45 (1911)
+Mycotaxon 80: 346 (2001)
 
 #### Original name
 Ustilago ewartii McAlpine, 1911

@@ -1,5 +1,4 @@
-Lecidea niphetodes Hue SPECIES
-=======
+# Lecidea niphetodes Hue SPECIES
 
 #### Status
 ACCEPTED

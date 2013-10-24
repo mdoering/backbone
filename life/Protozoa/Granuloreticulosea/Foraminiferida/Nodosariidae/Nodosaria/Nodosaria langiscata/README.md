@@ -1,5 +1,4 @@
-Nodosaria langiscata d'Orbigny SPECIES
-=======
+# Nodosaria langiscata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

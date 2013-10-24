@@ -1,5 +1,4 @@
-Placodium dubium SPECIES
-=======
+# Placodium dubium SPECIES
 
 #### Status
 ACCEPTED

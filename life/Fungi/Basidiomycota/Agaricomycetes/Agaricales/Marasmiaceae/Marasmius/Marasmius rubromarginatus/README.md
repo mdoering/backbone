@@ -1,5 +1,4 @@
-Marasmius rubromarginatus Dennis SPECIES
-=======
+# Marasmius rubromarginatus Dennis SPECIES
 
 #### Status
 ACCEPTED

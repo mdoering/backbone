@@ -1,5 +1,4 @@
-Sclerotium punctum (Chevall.) Lib. SPECIES
-=======
+# Sclerotium punctum (Chevall.) Lib. SPECIES
 
 #### Status
 ACCEPTED

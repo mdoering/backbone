@@ -1,5 +1,4 @@
-Lophodermina exarida (Cooke & Peck) Tehon SPECIES
-=======
+# Lophodermina exarida (Cooke & Peck) Tehon SPECIES
 
 #### Status
 ACCEPTED

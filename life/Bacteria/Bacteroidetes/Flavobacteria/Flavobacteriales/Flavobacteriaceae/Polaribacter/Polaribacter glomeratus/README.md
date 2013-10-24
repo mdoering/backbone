@@ -1,8 +1,7 @@
-Flectobacillus glomeratus McGuire et al., 1988 SPECIES
-=======
+# Polaribacter glomeratus (McGuire et al., 1988) Gosink et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

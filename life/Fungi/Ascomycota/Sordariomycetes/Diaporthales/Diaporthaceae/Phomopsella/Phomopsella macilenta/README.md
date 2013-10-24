@@ -1,5 +1,4 @@
-Phomopsella macilenta (Roberge ex Desm.) Höhn. SPECIES
-=======
+# Phomopsella macilenta (Roberge ex Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

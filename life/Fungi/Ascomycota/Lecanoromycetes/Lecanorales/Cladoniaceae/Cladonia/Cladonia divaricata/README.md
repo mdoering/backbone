@@ -1,5 +1,4 @@
-Cladonia divaricata Nyl. SPECIES
-=======
+# Cladonia divaricata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priscotheca J. Deunff, 1961 GENUS
-=======
+# Priscotheca J. Deunff, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotryna Tubaki & T. Yokoy. GENUS
-=======
+# Stachybotryna Tubaki & T. Yokoy. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium subalbum Burt, 1926 SPECIES
-=======
+# Hyphoderma amoenum (Burt) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 13(3): 267 (1926)
+Fungus, Wageningen 27: 14 (1957)
 
 #### Original name
-Corticium subalbum Burt, 1926
+Peniophora amoena Burt, 1926
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Miliolina schreiberiana var. angusteoralis Wiesner, 1923 VARIETY
-=======
+# Triloculina schreiberiana d'Orbigny, 1839 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

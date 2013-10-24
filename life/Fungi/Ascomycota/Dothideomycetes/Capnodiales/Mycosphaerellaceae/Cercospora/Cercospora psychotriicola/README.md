@@ -1,17 +1,16 @@
-Cercospora psychotriaecola Chupp & Doidge SPECIES
-=======
+# Cercospora psychotriicola Chupp & Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 891 (1948)
 
 #### Original name
-Cercospora psychotriaecola Chupp & Doidge
+Cercospora psychotriicola Chupp & Doidge
 
 ### Remarks
 null

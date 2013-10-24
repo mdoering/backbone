@@ -1,17 +1,16 @@
-Collema laeve var. limbatum (F. Wilson) Zahlbr. VARIETY
-=======
+# Collema kauaiense H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 3: 40 (1924)
+in Magnusson & Zahlbruckner, Ark. Bot. 31A(1): 63 (1944)
 
 #### Original name
-Leptogium olivaceum var. limbatum F. Wilson
+Collema kauaiense H. Magn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Guignardia eugeniae S.M. Lin & P.K. Chi SPECIES
-=======
+# Guignardia eugeniae S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

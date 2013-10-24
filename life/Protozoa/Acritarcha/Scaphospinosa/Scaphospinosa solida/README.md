@@ -1,5 +1,4 @@
-Scaphospinosa solida Xing Yusheng & Liu Guizhi, 1985 SPECIES
-=======
+# Scaphospinosa solida Xing Yusheng & Liu Guizhi, 1985 SPECIES
 
 #### Status
 ACCEPTED

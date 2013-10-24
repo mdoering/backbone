@@ -1,5 +1,4 @@
-Monospora cuspidata Metschn. SPECIES
-=======
+# Monospora cuspidata Metschn. SPECIES
 
 #### Status
 ACCEPTED

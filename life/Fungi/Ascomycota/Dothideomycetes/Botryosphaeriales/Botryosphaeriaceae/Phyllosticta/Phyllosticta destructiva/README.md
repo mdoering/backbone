@@ -1,5 +1,4 @@
-Phyllosticta destructiva var. destructiva VARIETY
-=======
+# Phyllosticta destructiva Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Sci. Nat. , Bot. , sér. 3 8: 29 (1847)
 
 #### Original name
-Phyllosticta destructiva var. destructiva
+Phyllosticta destructiva Desm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sciniatosporium afzeliae (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium afzeliae (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

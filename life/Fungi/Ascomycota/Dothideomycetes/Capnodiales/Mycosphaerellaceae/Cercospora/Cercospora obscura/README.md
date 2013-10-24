@@ -1,5 +1,4 @@
-Cercospora obscura Heald & F.A. Wolf SPECIES
-=======
+# Cercospora obscura Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

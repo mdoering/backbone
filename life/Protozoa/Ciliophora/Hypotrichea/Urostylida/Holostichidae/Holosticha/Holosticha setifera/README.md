@@ -1,5 +1,4 @@
-Holosticha setifera Kahl, 1932 SPECIES
-=======
+# Holosticha setifera Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius pleurotelloides Singer SPECIES
-=======
+# Marasmius pleurotelloides Singer SPECIES
 
 #### Status
 ACCEPTED

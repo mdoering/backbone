@@ -1,5 +1,4 @@
-Leptosphaeria dasylirii (Rabenh.) Sacc. SPECIES
-=======
+# Leptosphaeria dasylirii (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

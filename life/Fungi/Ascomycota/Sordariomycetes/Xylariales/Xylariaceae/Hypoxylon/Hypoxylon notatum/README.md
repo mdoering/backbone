@@ -1,17 +1,16 @@
-Hypoxylon rubiginosum f. nectrioide (Speg.) Rick FORM
-=======
+# Hypoxylon notatum Berk. & M.A. Curtis, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, Grevillea 4(no. 30): 50 (1875)
 
 #### Original name
-Hypoxylon nectrioides Speg., 1884
+Hypoxylon notatum Berk. & M.A. Curtis, 1875
 
 ### Remarks
 null

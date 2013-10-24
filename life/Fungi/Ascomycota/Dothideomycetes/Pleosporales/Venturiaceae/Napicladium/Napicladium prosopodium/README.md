@@ -1,5 +1,4 @@
-Napicladium prosopodium Tharp SPECIES
-=======
+# Napicladium prosopodium Tharp SPECIES
 
 #### Status
 ACCEPTED

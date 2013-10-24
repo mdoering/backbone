@@ -1,5 +1,4 @@
-Chytridium chaetophilum Scherff. SPECIES
-=======
+# Chytridium chaetophilum Scherff. SPECIES
 
 #### Status
 ACCEPTED

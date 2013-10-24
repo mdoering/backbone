@@ -1,14 +1,13 @@
-Halosphaeria hamata (Höhnk) Kohlm., 1972 SPECIES
-=======
+# Remispora hamata (Höhnk) Kohlm., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 50(9): 1956 (1972)
+Ber. dt. bot. Ges. 74(7): 305 (1961)
 
 #### Original name
 Ceriosporopsis hamata Höhnk, 1955

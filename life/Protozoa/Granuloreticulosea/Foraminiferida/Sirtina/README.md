@@ -1,5 +1,4 @@
-Sirtina Brönnimann & Wirz, 1962 GENUS
-=======
+# Sirtina Brönnimann & Wirz, 1962 GENUS
 
 #### Status
 ACCEPTED

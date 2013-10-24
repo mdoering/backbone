@@ -1,5 +1,4 @@
-Graphis exsolvens Vain. SPECIES
-=======
+# Graphis exsolvens Vain. SPECIES
 
 #### Status
 ACCEPTED

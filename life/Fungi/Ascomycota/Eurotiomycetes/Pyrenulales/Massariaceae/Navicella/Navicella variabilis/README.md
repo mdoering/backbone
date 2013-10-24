@@ -1,5 +1,4 @@
-Navicella variabilis (Schwein.) Kuntze SPECIES
-=======
+# Navicella variabilis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

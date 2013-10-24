@@ -1,5 +1,4 @@
-Gymnoconia hyptidis (M.A. Curtis) Lagerh. SPECIES
-=======
+# Gymnoconia hyptidis (M.A. Curtis) Lagerh. SPECIES
 
 #### Status
 ACCEPTED

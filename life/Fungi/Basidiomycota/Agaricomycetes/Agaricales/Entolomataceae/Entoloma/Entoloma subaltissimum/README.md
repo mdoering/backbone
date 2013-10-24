@@ -1,5 +1,4 @@
-Entoloma subaltissimum T.H. Li & C.H. Li SPECIES
-=======
+# Entoloma subaltissimum T.H. Li & C.H. Li SPECIES
 
 #### Status
 ACCEPTED

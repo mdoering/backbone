@@ -1,5 +1,4 @@
-Oidium pactolinum Cooke SPECIES
-=======
+# Oidium pactolinum Cooke SPECIES
 
 #### Status
 ACCEPTED

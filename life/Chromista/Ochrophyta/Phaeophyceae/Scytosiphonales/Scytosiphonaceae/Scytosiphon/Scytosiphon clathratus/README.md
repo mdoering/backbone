@@ -1,5 +1,4 @@
-Scytosiphon clathratus var. uncinatus Lyngbye VARIETY
-=======
+# Scytosiphon clathratus (Roth) Lyngbye SPECIES
 
 #### Status
 ACCEPTED

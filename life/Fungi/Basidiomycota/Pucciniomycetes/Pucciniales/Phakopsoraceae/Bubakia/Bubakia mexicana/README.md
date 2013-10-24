@@ -1,5 +1,4 @@
-Bubakia mexicana Arthur SPECIES
-=======
+# Bubakia mexicana Arthur SPECIES
 
 #### Status
 ACCEPTED

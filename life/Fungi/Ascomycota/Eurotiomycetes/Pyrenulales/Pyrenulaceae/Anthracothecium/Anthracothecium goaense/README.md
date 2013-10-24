@@ -1,5 +1,4 @@
-Anthracothecium goaense Ajay Singh SPECIES
-=======
+# Anthracothecium goaense Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claudopus peteauxii Quél. SPECIES
-=======
+# Claudopus peteauxii Quél. SPECIES
 
 #### Status
 ACCEPTED

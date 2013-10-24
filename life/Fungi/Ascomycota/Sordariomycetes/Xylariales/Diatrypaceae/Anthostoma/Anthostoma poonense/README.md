@@ -1,17 +1,16 @@
-Anthostoma poonensis A. Pande SPECIES
-=======
+# Anthostoma poonense A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 26(1): 85 (1973)
 
 #### Original name
-Anthostoma poonensis A. Pande
+Anthostoma poonense A. Pande
 
 ### Remarks
 null

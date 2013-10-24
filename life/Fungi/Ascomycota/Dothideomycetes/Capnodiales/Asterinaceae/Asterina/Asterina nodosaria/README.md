@@ -1,5 +1,4 @@
-Asterina nodosaria Dilcher SPECIES
-=======
+# Asterina nodosaria Dilcher SPECIES
 
 #### Status
 ACCEPTED

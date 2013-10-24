@@ -1,5 +1,4 @@
-Chordaria linearis (J.D. Hooker & Harvey) A.D. Cotton SPECIES
-=======
+# Chordaria linearis (J.D. Hooker & Harvey) A.D. Cotton SPECIES
 
 #### Status
 ACCEPTED

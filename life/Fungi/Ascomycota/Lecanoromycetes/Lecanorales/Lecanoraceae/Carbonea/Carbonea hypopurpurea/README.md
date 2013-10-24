@@ -1,5 +1,4 @@
-Carbonea hypopurpurea Fryday SPECIES
-=======
+# Carbonea hypopurpurea Fryday SPECIES
 
 #### Status
 ACCEPTED

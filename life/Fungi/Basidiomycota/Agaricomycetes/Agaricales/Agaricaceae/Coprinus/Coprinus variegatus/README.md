@@ -1,5 +1,4 @@
-Coprinus variegatus Peck SPECIES
-=======
+# Coprinus variegatus Peck SPECIES
 
 #### Status
 ACCEPTED

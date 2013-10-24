@@ -1,5 +1,4 @@
-Diaporthe aberrans Speg. SPECIES
-=======
+# Diaporthe aberrans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia eriobotrifolia Guba SPECIES
-=======
+# Pestalotia eriobotrifolia Guba SPECIES
 
 #### Status
 ACCEPTED

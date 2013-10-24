@@ -1,5 +1,4 @@
-Cystophora intermedia J. Agardh SPECIES
-=======
+# Cystophora intermedia J. Agardh SPECIES
 
 #### Status
 ACCEPTED

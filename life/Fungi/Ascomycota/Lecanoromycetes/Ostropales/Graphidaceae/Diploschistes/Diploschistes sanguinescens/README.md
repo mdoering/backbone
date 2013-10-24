@@ -1,5 +1,4 @@
-Diploschistes sanguinescens Zahlbr. SPECIES
-=======
+# Diploschistes sanguinescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

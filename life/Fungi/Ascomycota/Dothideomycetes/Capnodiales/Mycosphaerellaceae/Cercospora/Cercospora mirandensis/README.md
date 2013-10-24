@@ -1,5 +1,4 @@
-Cercospora mirandensis Chupp SPECIES
-=======
+# Cercospora mirandensis Chupp SPECIES
 
 #### Status
 ACCEPTED

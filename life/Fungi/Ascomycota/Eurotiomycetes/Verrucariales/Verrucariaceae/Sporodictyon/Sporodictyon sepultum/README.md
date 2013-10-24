@@ -1,5 +1,4 @@
-Sporodictyon sepultum (A. Massal.) Trevis. SPECIES
-=======
+# Sporodictyon sepultum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

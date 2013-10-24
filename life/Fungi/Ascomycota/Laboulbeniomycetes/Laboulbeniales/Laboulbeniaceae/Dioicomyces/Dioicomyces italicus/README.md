@@ -1,5 +1,4 @@
-Dioicomyces italicus Speg. SPECIES
-=======
+# Dioicomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

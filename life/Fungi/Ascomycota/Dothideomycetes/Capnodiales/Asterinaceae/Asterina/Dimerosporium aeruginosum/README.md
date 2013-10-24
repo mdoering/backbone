@@ -1,5 +1,4 @@
-Dimerosporium aeruginosum G. Winter SPECIES
-=======
+# Dimerosporium aeruginosum G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina sophodioides H. Magn. SPECIES
-=======
+# Rinodina sophodioides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inflatostereum D.A. Reid GENUS
-=======
+# Inflatostereum D.A. Reid GENUS
 
 #### Status
 ACCEPTED

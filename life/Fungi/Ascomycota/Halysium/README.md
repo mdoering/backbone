@@ -1,5 +1,4 @@
-Halysium Corda, 1837 GENUS
-=======
+# Halysium Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

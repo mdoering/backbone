@@ -1,5 +1,4 @@
-Tetramerosphaera lacrimula H. Willems SPECIES
-=======
+# Tetramerosphaera lacrimula H. Willems SPECIES
 
 #### Status
 ACCEPTED

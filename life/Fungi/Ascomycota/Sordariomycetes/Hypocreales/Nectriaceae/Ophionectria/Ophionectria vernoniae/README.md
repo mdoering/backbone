@@ -1,5 +1,4 @@
-Ophionectria vernoniae Hansf. SPECIES
-=======
+# Ophionectria vernoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

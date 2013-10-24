@@ -1,17 +1,16 @@
-Thyrostromella Syd. GENUS
-=======
+# Thyrostroma von Höhnel, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sydow & Petrak, Annls mycol. 22(3/6): 406 (1924)
+null
 
 #### Original name
-Thyrostromella Syd.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanidion tuberculosum Sacc. SPECIES
-=======
+# Lecanidion tuberculosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

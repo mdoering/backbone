@@ -1,8 +1,7 @@
-Trinema acinus Dujardin, 1841 SPECIES
-=======
+# Trinema enchelys (Ehrenberg, 1938) Leidy, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

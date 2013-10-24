@@ -1,5 +1,4 @@
-Nephromyces rosocovitanus Giard SPECIES
-=======
+# Nephromyces rosocovitanus Giard SPECIES
 
 #### Status
 ACCEPTED

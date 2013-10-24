@@ -1,5 +1,4 @@
-Paralaestadia Saccardo & D. Saccardo, 1905 GENUS
-=======
+# Paralaestadia Saccardo & D. Saccardo, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulosporonites hammenii (Haseld.) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites hammenii (Haseld.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

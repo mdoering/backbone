@@ -1,5 +1,4 @@
-Spermosporina aricola U. Braun, 1993 SPECIES
-=======
+# Spermosporina aricola U. Braun, 1993 SPECIES
 
 #### Status
 ACCEPTED

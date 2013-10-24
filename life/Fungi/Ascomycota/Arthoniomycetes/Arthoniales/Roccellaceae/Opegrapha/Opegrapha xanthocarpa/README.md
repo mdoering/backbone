@@ -1,5 +1,4 @@
-Opegrapha xanthocarpa Zwackh SPECIES
-=======
+# Opegrapha xanthocarpa Zwackh SPECIES
 
 #### Status
 ACCEPTED

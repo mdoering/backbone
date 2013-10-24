@@ -1,5 +1,4 @@
-Pyrenopeziza homogynes J. Schröt. SPECIES
-=======
+# Pyrenopeziza homogynes J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

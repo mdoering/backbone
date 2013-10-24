@@ -1,5 +1,4 @@
-Chaetophoma trichothecia Speg. SPECIES
-=======
+# Chaetophoma trichothecia Speg. SPECIES
 
 #### Status
 ACCEPTED

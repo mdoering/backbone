@@ -1,5 +1,4 @@
-Chaetomella tritici Tehon & E.Y. Daniels SPECIES
-=======
+# Chaetomella tritici Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

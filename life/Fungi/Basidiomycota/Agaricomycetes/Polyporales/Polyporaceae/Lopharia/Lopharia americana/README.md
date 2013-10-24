@@ -1,5 +1,4 @@
-Lopharia americana Rick SPECIES
-=======
+# Lopharia americana Rick SPECIES
 
 #### Status
 ACCEPTED

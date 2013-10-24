@@ -1,5 +1,4 @@
-Hyphobasidiofera malaysiana K. Matsush. & Matsush., 1996 SPECIES
-=======
+# Hyphobasidiofera malaysiana K. Matsush. & Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula yarrowii (Á. Fonseca & Uden) Boekhout, Fell, Á. Fonseca, Prillinger & Roeijmans SPECIES
-=======
+# Rhodotorula yarrowii (Á. Fonseca & Uden) Boekhout, Fell, Á. Fonseca, Prillinger & Roeijmans SPECIES
 
 #### Status
 ACCEPTED

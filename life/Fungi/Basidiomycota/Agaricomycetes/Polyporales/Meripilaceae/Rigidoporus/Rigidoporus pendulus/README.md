@@ -1,5 +1,4 @@
-Rigidoporus pendulus Ryvarden, 1990 SPECIES
-=======
+# Rigidoporus pendulus Ryvarden, 1990 SPECIES
 
 #### Status
 ACCEPTED

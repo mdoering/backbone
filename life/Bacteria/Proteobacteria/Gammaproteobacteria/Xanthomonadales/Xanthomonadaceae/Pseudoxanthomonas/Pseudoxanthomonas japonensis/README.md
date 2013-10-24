@@ -1,5 +1,4 @@
-Pseudoxanthomonas japonensis Thierry et al., 2004 SPECIES
-=======
+# Pseudoxanthomonas japonensis Thierry et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

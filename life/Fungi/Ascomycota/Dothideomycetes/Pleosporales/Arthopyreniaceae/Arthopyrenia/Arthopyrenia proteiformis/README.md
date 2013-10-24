@@ -1,5 +1,4 @@
-Arthopyrenia proteiformis (A. Massal.) A. Massal. SPECIES
-=======
+# Arthopyrenia proteiformis (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

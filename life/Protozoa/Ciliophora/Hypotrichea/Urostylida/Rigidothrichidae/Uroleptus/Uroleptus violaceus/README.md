@@ -1,8 +1,7 @@
-Tricholeptus aculeatus Fromentel, 1876 SPECIES
-=======
+# Uroleptus violaceus Stein, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Zhamoidaicyrtium Tikhomirova, 1986 GENUS
-=======
+# Zhamoidaicyrtium Tikhomirova, 1986 GENUS
 
 #### Status
 ACCEPTED

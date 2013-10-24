@@ -1,5 +1,4 @@
-Aphanostigme costaricensis (F. Stevens) Toro SPECIES
-=======
+# Aphanostigme costaricensis (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

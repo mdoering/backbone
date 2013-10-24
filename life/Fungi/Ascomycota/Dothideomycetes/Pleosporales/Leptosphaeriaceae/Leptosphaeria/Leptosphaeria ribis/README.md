@@ -1,5 +1,4 @@
-Leptosphaeria ribis P. Karst. SPECIES
-=======
+# Leptosphaeria ribis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

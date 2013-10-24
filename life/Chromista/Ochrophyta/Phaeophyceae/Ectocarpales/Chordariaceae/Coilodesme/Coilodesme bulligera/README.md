@@ -1,5 +1,4 @@
-Coilodesme bulligera f. fucicola Yendo FORM
-=======
+# Coilodesme bulligera Strömfelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria leptocheiloides Nyl. SPECIES
-=======
+# Patellaria leptocheiloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

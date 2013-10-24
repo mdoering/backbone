@@ -1,5 +1,4 @@
-Erysiphe sanguisorbae DC. SPECIES
-=======
+# Erysiphe sanguisorbae DC. SPECIES
 
 #### Status
 ACCEPTED

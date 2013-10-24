@@ -1,5 +1,4 @@
-Tilakomyces indica P.G. Sathe & Vaidya SPECIES
-=======
+# Tilakomyces indica P.G. Sathe & Vaidya SPECIES
 
 #### Status
 ACCEPTED

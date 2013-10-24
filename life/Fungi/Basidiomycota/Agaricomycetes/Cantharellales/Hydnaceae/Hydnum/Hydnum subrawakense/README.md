@@ -1,5 +1,4 @@
-Hydnum subrawakense (Murrill) Murrill SPECIES
-=======
+# Hydnum subrawakense (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

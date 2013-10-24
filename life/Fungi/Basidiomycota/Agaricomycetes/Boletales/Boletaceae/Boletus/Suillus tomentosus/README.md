@@ -1,5 +1,4 @@
-Suillus tomentosus (Kauffman) Singer, 1960 SPECIES
-=======
+# Suillus tomentosus (Kauffman) Singer, 1960 SPECIES
 
 #### Status
 DOUBTFUL

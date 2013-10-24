@@ -1,5 +1,4 @@
-Cercospora cinchonae Ellis & Everh. SPECIES
-=======
+# Cercospora cinchonae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

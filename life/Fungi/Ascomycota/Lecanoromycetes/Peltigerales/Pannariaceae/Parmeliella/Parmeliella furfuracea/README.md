@@ -1,5 +1,4 @@
-Parmeliella furfuracea P.M. Jørg. SPECIES
-=======
+# Parmeliella furfuracea P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

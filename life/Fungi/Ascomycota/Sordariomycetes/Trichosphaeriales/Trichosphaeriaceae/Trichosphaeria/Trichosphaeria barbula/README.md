@@ -1,14 +1,13 @@
-Sphaeria barbula Berk. & Broome, 1859 SPECIES
-=======
+# Trichosphaeria barbula (Berk. & Broome) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 369 (1859)
+Rabenhorst's Kryptogamen-Flora, Pilze - Ascomyceten 1(2): 206 (1885)
 
 #### Original name
 Sphaeria barbula Berk. & Broome, 1859

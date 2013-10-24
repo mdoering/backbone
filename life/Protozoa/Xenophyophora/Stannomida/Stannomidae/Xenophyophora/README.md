@@ -1,5 +1,4 @@
-Xenophyophora GENUS
-=======
+# Xenophyophora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces dispersus Hirats. f. SPECIES
-=======
+# Uromyces dispersus Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

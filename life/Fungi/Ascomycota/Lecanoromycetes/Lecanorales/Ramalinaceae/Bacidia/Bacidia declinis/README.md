@@ -1,5 +1,4 @@
-Bacidia declinis (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia declinis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

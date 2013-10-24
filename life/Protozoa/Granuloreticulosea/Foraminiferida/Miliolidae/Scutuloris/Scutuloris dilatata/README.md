@@ -1,5 +1,4 @@
-Scutuloris dilatata SPECIES
-=======
+# Scutuloris dilatata SPECIES
 
 #### Status
 ACCEPTED

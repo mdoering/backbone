@@ -1,5 +1,4 @@
-Lembadium duriusculum SPECIES
-=======
+# Lembadium duriusculum SPECIES
 
 #### Status
 ACCEPTED

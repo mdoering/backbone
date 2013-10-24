@@ -1,5 +1,4 @@
-Aspicilia cupulifera (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia cupulifera (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

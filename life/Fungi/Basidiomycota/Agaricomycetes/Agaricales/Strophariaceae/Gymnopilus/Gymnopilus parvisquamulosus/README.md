@@ -1,5 +1,4 @@
-Gymnopilus parvisquamulosus Hesler SPECIES
-=======
+# Gymnopilus parvisquamulosus Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera heloidea (Penz. & Sacc.) Dennis SPECIES
-=======
+# Xylosphaera heloidea (Penz. & Sacc.) Dennis SPECIES
 
 #### Status
 ACCEPTED

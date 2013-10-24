@@ -1,5 +1,4 @@
-Acanthostigma peltigerae (Fuckel) G. Winter SPECIES
-=======
+# Acanthostigma peltigerae (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

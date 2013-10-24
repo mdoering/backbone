@@ -1,14 +1,13 @@
-Hydnobolites herbertianus J.W. Cribb, 1958 SPECIES
-=======
+# Amylascus herbertianus (J.W. Cribb) Trappe, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 151 (1958)
+Trans. Br. mycol. Soc. 57(1): 89 (1971)
 
 #### Original name
 Hydnobolites herbertianus J.W. Cribb, 1958

@@ -1,5 +1,4 @@
-Monosporium griseum Rabenh. SPECIES
-=======
+# Monosporium griseum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

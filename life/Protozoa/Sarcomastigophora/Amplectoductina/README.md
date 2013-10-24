@@ -1,5 +1,4 @@
-Amplectoductina Patterson, 1986 GENUS
-=======
+# Amplectoductina Patterson, 1986 GENUS
 
 #### Status
 ACCEPTED

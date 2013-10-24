@@ -1,5 +1,4 @@
-Nectria exigua I. Hino & Katum. SPECIES
-=======
+# Nectria exigua I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella anomala Gourret & Roeser, 1886 SPECIES
-=======
+# Vorticella anomala Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

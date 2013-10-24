@@ -1,5 +1,4 @@
-Hygrophorus alboroseus Britzelm. SPECIES
-=======
+# Hygrophorus alboroseus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

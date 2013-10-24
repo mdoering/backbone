@@ -1,5 +1,4 @@
-Boletus changensis (Rostr.) Sacc. & D. Sacc. SPECIES
-=======
+# Boletus changensis (Rostr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

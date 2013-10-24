@@ -1,5 +1,4 @@
-Byssothecium cholla M.E. Barr SPECIES
-=======
+# Byssothecium cholla M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium carpetanum Gonz. Frag. SPECIES
-=======
+# Peridermium carpetanum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

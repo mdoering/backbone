@@ -1,5 +1,4 @@
-Amygdalaria aeolotera (Vain.) Hertel & Brodo SPECIES
-=======
+# Amygdalaria aeolotera (Vain.) Hertel & Brodo SPECIES
 
 #### Status
 ACCEPTED

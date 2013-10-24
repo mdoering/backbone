@@ -1,5 +1,4 @@
-Eutypa rhypodes (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Eutypa rhypodes (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

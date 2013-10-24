@@ -1,5 +1,4 @@
-Caloplaca bohlinii H. Magn. SPECIES
-=======
+# Caloplaca bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius duramarus Jul. Schäff. ex Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius duramarus Jul. Schäff. ex Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia luteorufula (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia luteorufula (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

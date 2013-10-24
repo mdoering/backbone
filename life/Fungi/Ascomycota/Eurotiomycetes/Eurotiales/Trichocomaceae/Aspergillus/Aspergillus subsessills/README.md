@@ -1,5 +1,4 @@
-Aspergillus subsessills SPECIES
-=======
+# Aspergillus subsessills SPECIES
 
 #### Status
 ACCEPTED

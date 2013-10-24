@@ -1,5 +1,4 @@
-Globorotalia nana SPECIES
-=======
+# Globorotalia nana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros pacificum Ikari SPECIES
-=======
+# Chaetoceros pacificum Ikari SPECIES
 
 #### Status
 ACCEPTED

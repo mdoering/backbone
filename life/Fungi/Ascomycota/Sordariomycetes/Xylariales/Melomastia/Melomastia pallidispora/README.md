@@ -1,5 +1,4 @@
-Melomastia pallidispora Kirschst. SPECIES
-=======
+# Melomastia pallidispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

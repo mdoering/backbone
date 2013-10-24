@@ -1,5 +1,4 @@
-Marasmius aripoensis (Dennis) Singer SPECIES
-=======
+# Marasmius aripoensis (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

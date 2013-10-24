@@ -1,14 +1,13 @@
-Preussia megalospora (Auersw.) Valldos. & Guarro, 1990 SPECIES
-=======
+# Sporormiella megalospora (Auersw.) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. Micol. Madrid 14: 87 (1990)
+Can. J. Bot. 50(3): 449 (1972)
 
 #### Original name
 Sporormia megalospora Auersw., 1868

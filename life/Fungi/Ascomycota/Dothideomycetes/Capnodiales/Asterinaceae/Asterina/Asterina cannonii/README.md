@@ -1,5 +1,4 @@
-Asterina cannonii Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina cannonii Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

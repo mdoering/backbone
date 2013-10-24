@@ -1,14 +1,13 @@
-Titaea hemileiae Hansf., 1946 SPECIES
-=======
+# Paranectriella hemileiae (Hansf.) Piroz., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 15: 207 (1946)
+Kew Bull. 31(3): 598 (1977)
 
 #### Original name
 Titaea hemileiae Hansf., 1946

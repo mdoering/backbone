@@ -1,5 +1,4 @@
-Fuckelia microstroma Speg. SPECIES
-=======
+# Fuckelia microstroma Speg. SPECIES
 
 #### Status
 ACCEPTED

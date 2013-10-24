@@ -1,5 +1,4 @@
-Pleospora deflectans anon. SPECIES
-=======
+# Pleospora deflectans anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago catherinae Zambett. SPECIES
-=======
+# Ustilago catherinae Zambett. SPECIES
 
 #### Status
 ACCEPTED

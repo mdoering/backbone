@@ -1,5 +1,4 @@
-Mucomassaria maxima Petr. & Cif., 1932 SPECIES
-=======
+# Mucomassaria maxima Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

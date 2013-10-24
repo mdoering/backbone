@@ -1,17 +1,16 @@
-Pleospora abscondita var. abscondita Sacc. & Roum. VARIETY
-=======
+# Pleospora abscondita Sacc. & Roum., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pleospora abscondita var. abscondita Sacc. & Roum.
+Pleospora abscondita Sacc. & Roum., 1881
 
 ### Remarks
 null

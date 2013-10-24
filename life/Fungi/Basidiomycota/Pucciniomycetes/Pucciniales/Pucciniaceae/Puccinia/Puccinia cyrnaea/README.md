@@ -1,5 +1,4 @@
-Puccinia cyrnaea Maire SPECIES
-=======
+# Puccinia cyrnaea Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia blakei Robbins SPECIES
-=======
+# Cladonia blakei Robbins SPECIES
 
 #### Status
 ACCEPTED

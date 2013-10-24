@@ -1,5 +1,4 @@
-Hemifusulina Möller, 1877 GENUS
-=======
+# Hemifusulina Möller, 1877 GENUS
 
 #### Status
 ACCEPTED

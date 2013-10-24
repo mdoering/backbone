@@ -1,5 +1,4 @@
-Uleothyrium Petr. GENUS
-=======
+# Uleothyrium Petr. GENUS
 
 #### Status
 ACCEPTED

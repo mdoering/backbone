@@ -1,5 +1,4 @@
-Pseudopeltistroma Katum. GENUS
-=======
+# Pseudopeltistroma Katum. GENUS
 
 #### Status
 ACCEPTED

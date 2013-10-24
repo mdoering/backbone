@@ -1,5 +1,4 @@
-Scytosiphon ramulosus (J. E. Smith) S. F. Gray SPECIES
-=======
+# Scytosiphon ramulosus (J. E. Smith) S. F. Gray SPECIES
 
 #### Status
 ACCEPTED

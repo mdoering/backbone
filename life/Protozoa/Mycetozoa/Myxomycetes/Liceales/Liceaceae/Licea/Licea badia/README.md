@@ -1,5 +1,4 @@
-Licea badia Fr. SPECIES
-=======
+# Licea badia Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria amorphae Mitrosh. SPECIES
-=======
+# Leptosphaeria amorphae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

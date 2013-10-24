@@ -1,5 +1,4 @@
-Otthia pteleae Rabenh. SPECIES
-=======
+# Otthia pteleae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota trichroma Montoya & Bandala SPECIES
-=======
+# Lepiota trichroma Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

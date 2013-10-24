@@ -1,17 +1,16 @@
-Collema ryssoleum f. pruinosum Degel. FORM
-=======
+# Collema ryssoleum (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 13(2): 440 (1954)
+Gen. lich. (Amherst) 92 (1872)
 
 #### Original name
-Collema ryssoleum f. pruinosum Degel.
+Collema nigrescens var. ryssoleum Tuck.
 
 ### Remarks
 null

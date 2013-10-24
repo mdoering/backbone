@@ -1,5 +1,4 @@
-Gnomonia centaureae Hollós SPECIES
-=======
+# Gnomonia centaureae Hollós SPECIES
 
 #### Status
 ACCEPTED

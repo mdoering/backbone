@@ -1,5 +1,4 @@
-Xanthoparmelia botryoides Kurok. SPECIES
-=======
+# Xanthoparmelia botryoides Kurok. SPECIES
 
 #### Status
 ACCEPTED

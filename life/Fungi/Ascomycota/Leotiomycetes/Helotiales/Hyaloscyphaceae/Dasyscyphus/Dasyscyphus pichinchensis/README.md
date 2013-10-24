@@ -1,5 +1,4 @@
-Dasyscyphus pichinchensis Dennis SPECIES
-=======
+# Dasyscyphus pichinchensis Dennis SPECIES
 
 #### Status
 ACCEPTED

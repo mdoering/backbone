@@ -1,5 +1,4 @@
-Melanops pyriospora (Ellis) Weese SPECIES
-=======
+# Melanops pyriospora (Ellis) Weese SPECIES
 
 #### Status
 ACCEPTED

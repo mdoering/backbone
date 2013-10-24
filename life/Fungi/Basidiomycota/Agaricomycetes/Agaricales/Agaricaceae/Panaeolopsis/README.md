@@ -1,5 +1,4 @@
-Panaeolopsis Singer GENUS
-=======
+# Panaeolopsis Singer GENUS
 
 #### Status
 ACCEPTED

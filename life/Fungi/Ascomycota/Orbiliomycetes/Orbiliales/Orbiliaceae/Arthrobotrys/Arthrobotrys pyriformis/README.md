@@ -1,5 +1,4 @@
-Arthrobotrys pyriformis (Juniper) Schenk, W.B. Kendr. & Pramer, 1977 SPECIES
-=======
+# Arthrobotrys pyriformis (Juniper) Schenk, W.B. Kendr. & Pramer, 1977 SPECIES
 
 #### Status
 ACCEPTED

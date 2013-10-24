@@ -1,5 +1,4 @@
-Diplodia pinnarum Pass. SPECIES
-=======
+# Diplodia pinnarum Pass. SPECIES
 
 #### Status
 ACCEPTED

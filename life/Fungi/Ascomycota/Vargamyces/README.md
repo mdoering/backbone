@@ -1,5 +1,4 @@
-Vargamyces Tóth GENUS
-=======
+# Vargamyces Tóth GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halidrys Lyngbye, 1819 GENUS
-=======
+# Halidrys Lyngbye, 1819 GENUS
 
 #### Status
 ACCEPTED

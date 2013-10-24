@@ -1,5 +1,4 @@
-Septogloeum sojae Yoshii & Nishiz. SPECIES
-=======
+# Septogloeum sojae Yoshii & Nishiz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepista paxilloides (Esteve-Rav. & M. Villarreal) Consiglio & Contu SPECIES
-=======
+# Lepista paxilloides (Esteve-Rav. & M. Villarreal) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum indicum B. Sutton & Rizwi SPECIES
-=======
+# Coryneum indicum B. Sutton & Rizwi SPECIES
 
 #### Status
 ACCEPTED

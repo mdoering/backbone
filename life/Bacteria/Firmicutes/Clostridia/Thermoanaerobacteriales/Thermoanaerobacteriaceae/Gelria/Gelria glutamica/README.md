@@ -1,5 +1,4 @@
-Gelria glutamica Plugge et al., 2002 SPECIES
-=======
+# Gelria glutamica Plugge et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

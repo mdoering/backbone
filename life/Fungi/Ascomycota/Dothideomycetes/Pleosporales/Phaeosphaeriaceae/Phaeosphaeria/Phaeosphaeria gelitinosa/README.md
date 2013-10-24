@@ -1,5 +1,4 @@
-Phaeosphaeria gelitinosa SPECIES
-=======
+# Phaeosphaeria gelitinosa SPECIES
 
 #### Status
 ACCEPTED

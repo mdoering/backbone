@@ -1,17 +1,16 @@
-Sphaceloma cecidii Kohlm., 1972 SPECIES
-=======
+# Gloeosporidina cecidii (Kohlm.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 517 (1980)
 
 #### Original name
-null
+Sphaceloma cecidii Kohlm., 1972
 
 ### Remarks
 null

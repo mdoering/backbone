@@ -1,5 +1,4 @@
-Mycovellosiella malloti-repandi Bhalla, S.K. Singh & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella malloti-repandi Bhalla, S.K. Singh & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

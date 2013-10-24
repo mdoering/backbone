@@ -1,5 +1,4 @@
-Desulfotignum Kuever et al., 2001 GENUS
-=======
+# Desulfotignum Kuever et al., 2001 GENUS
 
 #### Status
 ACCEPTED

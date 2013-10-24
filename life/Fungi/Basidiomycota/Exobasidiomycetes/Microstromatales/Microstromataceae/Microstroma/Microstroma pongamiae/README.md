@@ -1,5 +1,4 @@
-Microstroma pongamiae Munjal, Chona & J.N. Kapoor SPECIES
-=======
+# Microstroma pongamiae Munjal, Chona & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

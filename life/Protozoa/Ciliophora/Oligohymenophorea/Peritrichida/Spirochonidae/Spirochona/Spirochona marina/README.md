@@ -1,5 +1,4 @@
-Spirochona marina Jankowski, 1973 SPECIES
-=======
+# Spirochona marina Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

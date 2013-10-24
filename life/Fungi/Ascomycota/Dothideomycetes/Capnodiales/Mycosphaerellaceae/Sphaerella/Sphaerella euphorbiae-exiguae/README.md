@@ -1,5 +1,4 @@
-Sphaerella euphorbiae-exiguae Unamuno SPECIES
-=======
+# Sphaerella euphorbiae-exiguae Unamuno SPECIES
 
 #### Status
 ACCEPTED

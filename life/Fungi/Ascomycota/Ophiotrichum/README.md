@@ -1,5 +1,4 @@
-Ophiotrichum Kunze GENUS
-=======
+# Ophiotrichum Kunze GENUS
 
 #### Status
 ACCEPTED

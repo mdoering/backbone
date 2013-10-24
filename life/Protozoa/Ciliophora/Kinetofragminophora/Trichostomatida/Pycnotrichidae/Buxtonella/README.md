@@ -1,5 +1,4 @@
-Buxtonella Jameson, 1926 GENUS
-=======
+# Buxtonella Jameson, 1926 GENUS
 
 #### Status
 ACCEPTED

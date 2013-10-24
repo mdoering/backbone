@@ -1,5 +1,4 @@
-Dimeriella annulata Petr. & Syd. SPECIES
-=======
+# Dimeriella annulata Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

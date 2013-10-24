@@ -1,5 +1,4 @@
-Microscypha Sydow & P. Sydow, 1919 GENUS
-=======
+# Microscypha Sydow & P. Sydow, 1919 GENUS
 
 #### Status
 ACCEPTED

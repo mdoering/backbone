@@ -1,5 +1,4 @@
-Sphaeria stictispora Cooke & Ellis SPECIES
-=======
+# Sphaeria stictispora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

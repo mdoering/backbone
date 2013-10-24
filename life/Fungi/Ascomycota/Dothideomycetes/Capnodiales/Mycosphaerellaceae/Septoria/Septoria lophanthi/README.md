@@ -1,5 +1,4 @@
-Septoria lophanthi G. Winter SPECIES
-=======
+# Septoria lophanthi G. Winter SPECIES
 
 #### Status
 ACCEPTED

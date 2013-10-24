@@ -1,5 +1,4 @@
-Tricholoma subniveum Velen. SPECIES
-=======
+# Tricholoma subniveum Velen. SPECIES
 
 #### Status
 ACCEPTED

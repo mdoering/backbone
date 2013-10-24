@@ -1,5 +1,4 @@
-Peridiniopsis salina J. M. Trigueros SPECIES
-=======
+# Peridiniopsis salina J. M. Trigueros SPECIES
 
 #### Status
 ACCEPTED

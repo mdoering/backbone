@@ -1,5 +1,4 @@
-Capnodium armeniacae Thüm. SPECIES
-=======
+# Capnodium armeniacae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subdisserpens Nyl. SPECIES
-=======
+# Graphis subdisserpens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pallaimorphina Tappan, 1957 GENUS
-=======
+# Pallaimorphina Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

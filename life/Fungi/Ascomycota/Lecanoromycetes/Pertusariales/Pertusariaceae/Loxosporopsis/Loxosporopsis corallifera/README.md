@@ -1,5 +1,4 @@
-Loxosporopsis corallifera Brodo, Henssen & Imshaug SPECIES
-=======
+# Loxosporopsis corallifera Brodo, Henssen & Imshaug SPECIES
 
 #### Status
 ACCEPTED

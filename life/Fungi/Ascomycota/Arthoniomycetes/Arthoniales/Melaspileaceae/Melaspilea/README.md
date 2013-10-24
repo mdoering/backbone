@@ -1,17 +1,16 @@
-Melaspileella (P. Karst.) Vain. GENUS
-=======
+# Melaspilea Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 317 (1921)
+Act. Soc. linn. Bordeaux, sér. A 21: 416 (1857)
 
 #### Original name
-null
+Melaspilea Nyl.
 
 ### Remarks
 null

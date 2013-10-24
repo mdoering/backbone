@@ -1,5 +1,4 @@
-Pertusaria angolensis Vain. SPECIES
-=======
+# Pertusaria angolensis Vain. SPECIES
 
 #### Status
 ACCEPTED

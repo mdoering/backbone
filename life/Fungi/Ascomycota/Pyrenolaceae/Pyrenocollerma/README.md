@@ -1,5 +1,4 @@
-Pyrenocollerma GENUS
-=======
+# Pyrenocollerma GENUS
 
 #### Status
 ACCEPTED

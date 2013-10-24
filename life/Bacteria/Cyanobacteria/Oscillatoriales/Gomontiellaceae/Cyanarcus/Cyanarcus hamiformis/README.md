@@ -1,5 +1,4 @@
-Cyanarcus hamiformis A. Pascher SPECIES
-=======
+# Cyanarcus hamiformis A. Pascher SPECIES
 
 #### Status
 ACCEPTED

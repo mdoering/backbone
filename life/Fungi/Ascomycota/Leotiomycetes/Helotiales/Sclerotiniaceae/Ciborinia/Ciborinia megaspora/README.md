@@ -1,5 +1,4 @@
-Ciborinia megaspora Raitv., K.S. Thind & R. Sharma SPECIES
-=======
+# Ciborinia megaspora Raitv., K.S. Thind & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

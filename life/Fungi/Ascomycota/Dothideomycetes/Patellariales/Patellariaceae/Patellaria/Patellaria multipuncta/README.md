@@ -1,5 +1,4 @@
-Patellaria multipuncta (Hoffm.) Hoffm. SPECIES
-=======
+# Patellaria multipuncta (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

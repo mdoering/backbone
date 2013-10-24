@@ -1,5 +1,4 @@
-Rosellinia mastoidea Sacc., 1882 SPECIES
-=======
+# Rosellinia mastoidea Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

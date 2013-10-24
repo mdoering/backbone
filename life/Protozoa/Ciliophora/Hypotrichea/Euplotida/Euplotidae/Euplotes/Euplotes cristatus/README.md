@@ -1,5 +1,4 @@
-Euplotes cristatus Kahl, 1932 SPECIES
-=======
+# Euplotes cristatus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

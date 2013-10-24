@@ -1,5 +1,4 @@
-Lamarkina umbilicata SPECIES
-=======
+# Lamarkina umbilicata SPECIES
 
 #### Status
 ACCEPTED

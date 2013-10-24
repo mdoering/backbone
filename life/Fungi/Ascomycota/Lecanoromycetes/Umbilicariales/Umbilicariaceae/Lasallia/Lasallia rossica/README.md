@@ -1,5 +1,4 @@
-Lasallia rossica Dombr. SPECIES
-=======
+# Lasallia rossica Dombr. SPECIES
 
 #### Status
 ACCEPTED

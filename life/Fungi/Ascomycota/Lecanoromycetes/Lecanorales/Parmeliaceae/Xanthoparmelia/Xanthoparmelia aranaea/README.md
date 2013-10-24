@@ -1,14 +1,13 @@
-Paraparmelia aranaea Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia aranaea (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 399 (1988)
+Mycotaxon 87: 397 (2003)
 
 #### Original name
 Paraparmelia aranaea Elix & J. Johnst.

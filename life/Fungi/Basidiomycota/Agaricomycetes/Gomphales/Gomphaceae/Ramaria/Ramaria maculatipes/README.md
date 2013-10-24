@@ -1,5 +1,4 @@
-Ramaria maculatipes Marr & D.E. Stuntz, 1974 SPECIES
-=======
+# Ramaria maculatipes Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon minutissimum P.M.D. Martin SPECIES
-=======
+# Hypoxylon minutissimum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

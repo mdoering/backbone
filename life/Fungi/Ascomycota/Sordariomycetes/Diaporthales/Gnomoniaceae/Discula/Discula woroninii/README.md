@@ -1,5 +1,4 @@
-Discula woroninii Negru & Szasz {?} SPECIES
-=======
+# Discula woroninii Negru & Szasz {?} SPECIES
 
 #### Status
 ACCEPTED

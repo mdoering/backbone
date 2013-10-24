@@ -1,5 +1,4 @@
-Elaeomyces olei Kirchn. SPECIES
-=======
+# Elaeomyces olei Kirchn. SPECIES
 
 #### Status
 ACCEPTED

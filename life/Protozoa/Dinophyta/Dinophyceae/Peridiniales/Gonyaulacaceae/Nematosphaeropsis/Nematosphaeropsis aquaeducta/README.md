@@ -1,5 +1,4 @@
-Nematosphaeropsis aquaeducta Piasecki, 1980 SPECIES
-=======
+# Nematosphaeropsis aquaeducta Piasecki, 1980 SPECIES
 
 #### Status
 ACCEPTED

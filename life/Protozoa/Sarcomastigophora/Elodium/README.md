@@ -1,5 +1,4 @@
-Elodium Carter in Carter, Cameron & Smith, 1988 GENUS
-=======
+# Elodium Carter in Carter, Cameron & Smith, 1988 GENUS
 
 #### Status
 ACCEPTED

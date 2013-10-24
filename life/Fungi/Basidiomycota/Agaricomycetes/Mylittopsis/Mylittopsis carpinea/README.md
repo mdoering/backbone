@@ -1,5 +1,4 @@
-Mylittopsis carpinea (Alb. & Schwein.) Höhn. SPECIES
-=======
+# Mylittopsis carpinea (Alb. & Schwein.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

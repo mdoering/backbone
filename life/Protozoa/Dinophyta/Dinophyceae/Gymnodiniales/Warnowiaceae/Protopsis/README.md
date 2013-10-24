@@ -1,5 +1,4 @@
-Protopsis Kofoid & Swezy, 1921 GENUS
-=======
+# Protopsis Kofoid & Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

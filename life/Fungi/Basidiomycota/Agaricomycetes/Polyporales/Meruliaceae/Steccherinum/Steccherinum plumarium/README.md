@@ -1,5 +1,4 @@
-Steccherinum plumarium (Berk. & M.A. Curtis) Banker SPECIES
-=======
+# Steccherinum plumarium (Berk. & M.A. Curtis) Banker SPECIES
 
 #### Status
 ACCEPTED

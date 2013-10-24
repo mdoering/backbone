@@ -1,5 +1,4 @@
-Psathyrella michiganensis A.H. Sm. SPECIES
-=======
+# Psathyrella michiganensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

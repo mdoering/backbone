@@ -1,5 +1,4 @@
-Triceratium uralense N. I. Strelnikova SPECIES
-=======
+# Triceratium uralense N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

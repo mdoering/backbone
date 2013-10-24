@@ -1,5 +1,4 @@
-Lanzia cremea (E.K. Cash) M.P. Sharma SPECIES
-=======
+# Lanzia cremea (E.K. Cash) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

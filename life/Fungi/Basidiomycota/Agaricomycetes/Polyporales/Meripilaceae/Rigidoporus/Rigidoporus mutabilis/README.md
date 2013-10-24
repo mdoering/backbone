@@ -1,5 +1,4 @@
-Rigidoporus mutabilis I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Rigidoporus mutabilis I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

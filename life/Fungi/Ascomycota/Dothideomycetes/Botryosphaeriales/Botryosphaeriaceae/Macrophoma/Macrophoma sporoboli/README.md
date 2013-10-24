@@ -1,5 +1,4 @@
-Macrophoma sporoboli R. Sprague SPECIES
-=======
+# Macrophoma sporoboli R. Sprague SPECIES
 
 #### Status
 ACCEPTED

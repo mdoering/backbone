@@ -1,5 +1,4 @@
-Ramaria solomonensis Corner, 1967 SPECIES
-=======
+# Ramaria solomonensis Corner, 1967 SPECIES
 
 #### Status
 ACCEPTED

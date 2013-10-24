@@ -1,5 +1,4 @@
-Thelotrema conferendum Hale SPECIES
-=======
+# Thelotrema conferendum Hale SPECIES
 
 #### Status
 ACCEPTED

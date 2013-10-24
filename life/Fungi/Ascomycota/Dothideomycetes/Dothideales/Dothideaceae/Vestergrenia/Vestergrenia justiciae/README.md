@@ -1,5 +1,4 @@
-Vestergrenia justiciae (F. Stevens) Petr. SPECIES
-=======
+# Vestergrenia justiciae (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epochnium quadratum Cooke SPECIES
-=======
+# Epochnium quadratum Cooke SPECIES
 
 #### Status
 ACCEPTED

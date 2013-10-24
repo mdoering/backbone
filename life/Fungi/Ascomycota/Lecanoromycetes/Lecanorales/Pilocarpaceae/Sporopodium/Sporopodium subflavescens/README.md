@@ -1,5 +1,4 @@
-Sporopodium subflavescens Lücking & Lumbsch SPECIES
-=======
+# Sporopodium subflavescens Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia papillaria SPECIES
-=======
+# Cladonia papillaria SPECIES
 
 #### Status
 ACCEPTED

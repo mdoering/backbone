@@ -1,5 +1,4 @@
-Penicillium onobense C. Ramírez & A.T. Martínez, 1981 SPECIES
-=======
+# Penicillium onobense C. Ramírez & A.T. Martínez, 1981 SPECIES
 
 #### Status
 ACCEPTED

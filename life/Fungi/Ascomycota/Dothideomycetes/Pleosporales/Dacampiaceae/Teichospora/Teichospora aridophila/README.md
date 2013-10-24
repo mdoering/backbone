@@ -1,5 +1,4 @@
-Teichospora aridophila Peck SPECIES
-=======
+# Teichospora aridophila Peck SPECIES
 
 #### Status
 ACCEPTED

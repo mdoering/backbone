@@ -1,5 +1,4 @@
-Mycena chloroxantha Singer SPECIES
-=======
+# Mycena chloroxantha Singer SPECIES
 
 #### Status
 ACCEPTED

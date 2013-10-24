@@ -1,5 +1,4 @@
-Umbillicaria arctica (Ach.) Nyl. SPECIES
-=======
+# Umbillicaria arctica (Ach.) Nyl. SPECIES
 
 #### Status
 DOUBTFUL

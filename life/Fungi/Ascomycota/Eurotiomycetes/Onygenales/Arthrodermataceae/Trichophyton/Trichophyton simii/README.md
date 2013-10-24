@@ -1,14 +1,13 @@
-Epidermophyton simii Pinoy, 1912 SPECIES
-=======
+# Trichophyton simii (Pinoy) Stockdale, D.W.R. Mack. & Austwick, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sabouraudia 4: 114 (1965)
 
 #### Original name
 Epidermophyton simii Pinoy, 1912

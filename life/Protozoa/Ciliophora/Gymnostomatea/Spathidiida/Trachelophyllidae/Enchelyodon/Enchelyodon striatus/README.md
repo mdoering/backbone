@@ -1,5 +1,4 @@
-Enchelyodon striatus Gourret & Roeser, 1886 SPECIES
-=======
+# Enchelyodon striatus Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

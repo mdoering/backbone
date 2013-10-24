@@ -1,5 +1,4 @@
-Buetschliellopsis janovicensis Lom, 1959 SPECIES
-=======
+# Buetschliellopsis janovicensis Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

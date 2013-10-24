@@ -1,5 +1,4 @@
-Candida ubatubensis Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
-=======
+# Candida ubatubensis Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

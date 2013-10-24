@@ -1,5 +1,4 @@
-Lactarius cyanopus Basso SPECIES
-=======
+# Lactarius cyanopus Basso SPECIES
 
 #### Status
 ACCEPTED

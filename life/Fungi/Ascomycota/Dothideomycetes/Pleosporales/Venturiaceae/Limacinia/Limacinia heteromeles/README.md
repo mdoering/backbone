@@ -1,5 +1,4 @@
-Limacinia heteromeles (Cooke & Harkn.) Bat. & Cif. SPECIES
-=======
+# Limacinia heteromeles (Cooke & Harkn.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

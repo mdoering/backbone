@@ -1,5 +1,4 @@
-Coprinus pyrenaeus Quél. SPECIES
-=======
+# Coprinus pyrenaeus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea obstans Nyl. SPECIES
-=======
+# Lecidea obstans Nyl. SPECIES
 
 #### Status
 ACCEPTED

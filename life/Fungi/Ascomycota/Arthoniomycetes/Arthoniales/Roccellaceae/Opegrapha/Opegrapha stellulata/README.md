@@ -1,5 +1,4 @@
-Opegrapha stellulata Chevall. SPECIES
-=======
+# Opegrapha stellulata Chevall. SPECIES
 
 #### Status
 ACCEPTED

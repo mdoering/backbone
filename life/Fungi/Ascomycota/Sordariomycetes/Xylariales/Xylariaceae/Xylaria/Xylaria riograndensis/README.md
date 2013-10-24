@@ -1,5 +1,4 @@
-Xylaria riograndensis Theiss. SPECIES
-=======
+# Xylaria riograndensis Theiss. SPECIES
 
 #### Status
 ACCEPTED

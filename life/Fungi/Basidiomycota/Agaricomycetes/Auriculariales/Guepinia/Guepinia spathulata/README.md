@@ -1,5 +1,4 @@
-Guepinia spathulata Jungh. SPECIES
-=======
+# Guepinia spathulata Jungh. SPECIES
 
 #### Status
 ACCEPTED

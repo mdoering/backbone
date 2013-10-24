@@ -1,5 +1,4 @@
-Centrospora veratri (Peck) Ondrej SPECIES
-=======
+# Centrospora veratri (Peck) Ondrej SPECIES
 
 #### Status
 ACCEPTED

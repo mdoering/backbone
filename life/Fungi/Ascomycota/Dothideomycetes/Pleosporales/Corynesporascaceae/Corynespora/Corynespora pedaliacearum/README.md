@@ -1,5 +1,4 @@
-Corynespora pedaliacearum Arch. Singh, S.K. Singh & Kamal SPECIES
-=======
+# Corynespora pedaliacearum Arch. Singh, S.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

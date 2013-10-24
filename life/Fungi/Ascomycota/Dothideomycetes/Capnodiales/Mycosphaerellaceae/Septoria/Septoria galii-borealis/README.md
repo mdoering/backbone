@@ -1,5 +1,4 @@
-Septoria galii-borealis Henn. SPECIES
-=======
+# Septoria galii-borealis Henn. SPECIES
 
 #### Status
 ACCEPTED

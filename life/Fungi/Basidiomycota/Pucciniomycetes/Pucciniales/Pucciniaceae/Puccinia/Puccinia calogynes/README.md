@@ -1,5 +1,4 @@
-Puccinia calogynes Dennis SPECIES
-=======
+# Puccinia calogynes Dennis SPECIES
 
 #### Status
 ACCEPTED

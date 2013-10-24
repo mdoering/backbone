@@ -1,5 +1,4 @@
-Stiphrosphaeridium dictyophorum (Cookson & Eisenack) R. J. Davey SPECIES
-=======
+# Stiphrosphaeridium dictyophorum (Cookson & Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

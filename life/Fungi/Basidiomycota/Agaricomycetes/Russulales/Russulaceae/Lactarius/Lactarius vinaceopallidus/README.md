@@ -1,5 +1,4 @@
-Lactarius vinaceopallidus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius vinaceopallidus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricercomonas Wenyon & O'Connor, 1917 GENUS
-=======
+# Tricercomonas Wenyon & O'Connor, 1917 GENUS
 
 #### Status
 ACCEPTED

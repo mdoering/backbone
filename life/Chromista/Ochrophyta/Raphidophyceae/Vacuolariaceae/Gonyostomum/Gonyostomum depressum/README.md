@@ -1,5 +1,4 @@
-Gonyostomum depressum (Lauterborn) Lemmermann SPECIES
-=======
+# Gonyostomum depressum (Lauterborn) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

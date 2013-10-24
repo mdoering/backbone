@@ -1,5 +1,4 @@
-Galiella Nannf. & Korf GENUS
-=======
+# Galiella Nannf. & Korf GENUS
 
 #### Status
 ACCEPTED

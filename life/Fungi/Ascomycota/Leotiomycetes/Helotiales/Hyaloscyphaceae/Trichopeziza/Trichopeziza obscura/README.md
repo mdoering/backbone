@@ -1,5 +1,4 @@
-Trichopeziza obscura (Cooke) Sacc. SPECIES
-=======
+# Trichopeziza obscura (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

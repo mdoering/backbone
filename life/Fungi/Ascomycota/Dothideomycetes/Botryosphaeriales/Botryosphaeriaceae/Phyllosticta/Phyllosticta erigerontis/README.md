@@ -1,5 +1,4 @@
-Phyllosticta erigerontis Tasl. SPECIES
-=======
+# Phyllosticta erigerontis Tasl. SPECIES
 
 #### Status
 ACCEPTED

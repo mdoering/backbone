@@ -1,5 +1,4 @@
-Boletus ripariellus (Redeuilh) Watling & A.E. Hills, 2004 SPECIES
-=======
+# Boletus ripariellus (Redeuilh) Watling & A.E. Hills, 2004 SPECIES
 
 #### Status
 ACCEPTED

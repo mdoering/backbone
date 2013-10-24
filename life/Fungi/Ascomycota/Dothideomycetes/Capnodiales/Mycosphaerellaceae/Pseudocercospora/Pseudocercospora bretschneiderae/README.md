@@ -1,5 +1,4 @@
-Pseudocercospora bretschneiderae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora bretschneiderae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

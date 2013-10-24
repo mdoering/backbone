@@ -1,5 +1,4 @@
-Cortinarius spisnii Consiglio, D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius spisnii Consiglio, D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium elegans R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Trichocladium elegans R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

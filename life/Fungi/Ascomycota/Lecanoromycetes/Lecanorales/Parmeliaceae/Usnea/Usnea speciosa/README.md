@@ -1,5 +1,4 @@
-Usnea speciosa Motyka SPECIES
-=======
+# Usnea speciosa Motyka SPECIES
 
 #### Status
 ACCEPTED

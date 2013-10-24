@@ -1,5 +1,4 @@
-Puccinia kuntzii H.S. Jacks. SPECIES
-=======
+# Puccinia kuntzii H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

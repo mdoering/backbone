@@ -1,5 +1,4 @@
-Byssophaga cruenta SPECIES
-=======
+# Byssophaga cruenta SPECIES
 
 #### Status
 ACCEPTED

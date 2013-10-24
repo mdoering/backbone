@@ -1,5 +1,4 @@
-Spinosieapsa Ozvoldova, 1975 GENUS
-=======
+# Spinosieapsa Ozvoldova, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geobacillus toebii Sung et al., 2002 SPECIES
-=======
+# Geobacillus toebii Sung et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

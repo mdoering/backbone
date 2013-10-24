@@ -1,5 +1,4 @@
-Arthopyrenia stramineoatra Vain. SPECIES
-=======
+# Arthopyrenia stramineoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

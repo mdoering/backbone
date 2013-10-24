@@ -1,5 +1,4 @@
-Russula taliensis W.F. Chiu SPECIES
-=======
+# Russula taliensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera melanorrhiza Purvis, P. James & Vitik. SPECIES
-=======
+# Peltigera melanorrhiza Purvis, P. James & Vitik. SPECIES
 
 #### Status
 ACCEPTED

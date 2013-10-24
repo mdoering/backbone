@@ -1,5 +1,4 @@
-Phyllosticta gymnocladi Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta gymnocladi Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

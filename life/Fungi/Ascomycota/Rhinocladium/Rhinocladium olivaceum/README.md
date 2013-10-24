@@ -1,5 +1,4 @@
-Rhinocladium olivaceum Bres. SPECIES
-=======
+# Rhinocladium olivaceum Bres. SPECIES
 
 #### Status
 ACCEPTED

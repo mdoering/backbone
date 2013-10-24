@@ -1,5 +1,4 @@
-Clitocybe alborufescens Raithelh. SPECIES
-=======
+# Clitocybe alborufescens Raithelh. SPECIES
 
 #### Status
 ACCEPTED

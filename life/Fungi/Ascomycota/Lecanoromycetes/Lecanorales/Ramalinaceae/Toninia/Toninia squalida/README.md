@@ -1,17 +1,16 @@
-Toninia havaasii subsp. havaasii SUBSPECIES
-=======
+# Toninia squalida (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) (1852)
 
 #### Original name
-Toninia havaasii subsp. havaasii
+Lecidea cinereovirens Schaer.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placus salinus Dietz, 1964 SPECIES
-=======
+# Placus salinus Dietz, 1964 SPECIES
 
 #### Status
 ACCEPTED

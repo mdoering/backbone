@@ -1,5 +1,4 @@
-Dalmatella A. Ercegovic, 1929 GENUS
-=======
+# Dalmatella A. Ercegovic, 1929 GENUS
 
 #### Status
 ACCEPTED

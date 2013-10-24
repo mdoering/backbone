@@ -1,5 +1,4 @@
-Calloria oleosa (Ellis) Sacc. SPECIES
-=======
+# Calloria oleosa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

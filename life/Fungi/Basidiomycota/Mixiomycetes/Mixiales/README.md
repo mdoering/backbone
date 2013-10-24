@@ -1,5 +1,4 @@
-Mixiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
-=======
+# Mixiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
 
 #### Status
 ACCEPTED

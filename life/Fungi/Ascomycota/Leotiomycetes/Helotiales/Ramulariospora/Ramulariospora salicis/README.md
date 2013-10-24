@@ -1,5 +1,4 @@
-Ramulariospora salicis (Höhn.) B. Sutton SPECIES
-=======
+# Ramulariospora salicis (Höhn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

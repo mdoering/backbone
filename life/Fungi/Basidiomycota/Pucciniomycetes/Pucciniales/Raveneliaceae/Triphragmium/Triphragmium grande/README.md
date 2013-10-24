@@ -1,5 +1,4 @@
-Triphragmium grande P. Karst. SPECIES
-=======
+# Triphragmium grande P. Karst. SPECIES
 
 #### Status
 ACCEPTED

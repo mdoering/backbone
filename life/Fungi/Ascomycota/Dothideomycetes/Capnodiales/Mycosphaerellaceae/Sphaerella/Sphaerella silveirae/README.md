@@ -1,5 +1,4 @@
-Sphaerella silveirae Speg. SPECIES
-=======
+# Sphaerella silveirae Speg. SPECIES
 
 #### Status
 ACCEPTED

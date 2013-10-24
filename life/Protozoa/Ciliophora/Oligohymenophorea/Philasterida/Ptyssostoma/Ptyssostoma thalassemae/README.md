@@ -1,5 +1,4 @@
-Ptyssostoma thalassemae Hentschel, 1927 SPECIES
-=======
+# Ptyssostoma thalassemae Hentschel, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium minutulum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Camarosporium minutulum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

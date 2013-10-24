@@ -1,14 +1,13 @@
-Coxiella Brandt, 1908 GENUS
-=======
+# Coxliella Brandt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
-null
+Ergeb. Plankton-Exped. , 3 (L. a. ), 45, 259.
 
 #### Original name
 null

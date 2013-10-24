@@ -1,5 +1,4 @@
-Puccinia pacifica Blasdale ex Arthur SPECIES
-=======
+# Puccinia pacifica Blasdale ex Arthur SPECIES
 
 #### Status
 ACCEPTED

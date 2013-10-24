@@ -1,5 +1,4 @@
-Lophiosphaera hysterioides Ellis & Everh. SPECIES
-=======
+# Lophiosphaera hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

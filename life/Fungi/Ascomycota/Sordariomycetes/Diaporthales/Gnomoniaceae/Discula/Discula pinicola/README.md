@@ -1,5 +1,4 @@
-Discula pinicola var. pinicola VARIETY
-=======
+# Discula pinicola (Naumov) Petr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discula pinicola var. pinicola
+Ligniella pinicola Naumov
 
 ### Remarks
 null

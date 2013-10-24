@@ -1,5 +1,4 @@
-Cylindrocarpon orchidearum Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon orchidearum Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

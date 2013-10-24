@@ -1,5 +1,4 @@
-Calocybe ochracea (R. Haller Aar.) Bon SPECIES
-=======
+# Calocybe ochracea (R. Haller Aar.) Bon SPECIES
 
 #### Status
 ACCEPTED

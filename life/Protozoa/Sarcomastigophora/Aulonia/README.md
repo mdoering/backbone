@@ -1,5 +1,4 @@
-Aulonia Haeckel, 1887 GENUS
-=======
+# Aulonia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

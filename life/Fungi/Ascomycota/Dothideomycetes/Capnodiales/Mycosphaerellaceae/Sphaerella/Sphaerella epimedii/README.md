@@ -1,5 +1,4 @@
-Sphaerella epimedii Sacc. SPECIES
-=======
+# Sphaerella epimedii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Utharomyces epallocaulus Boedijn ex P.M. Kirk & Benny, 1980 SPECIES
-=======
+# Utharomyces epallocaulus Boedijn ex P.M. Kirk & Benny, 1980 SPECIES
 
 #### Status
 ACCEPTED

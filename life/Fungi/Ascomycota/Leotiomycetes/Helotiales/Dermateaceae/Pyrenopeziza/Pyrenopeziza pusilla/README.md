@@ -1,5 +1,4 @@
-Pyrenopeziza pusilla Sacc. & Speg. SPECIES
-=======
+# Pyrenopeziza pusilla Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

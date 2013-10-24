@@ -1,5 +1,4 @@
-Roccella hertelii Mies & M. Schultz SPECIES
-=======
+# Roccella hertelii Mies & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

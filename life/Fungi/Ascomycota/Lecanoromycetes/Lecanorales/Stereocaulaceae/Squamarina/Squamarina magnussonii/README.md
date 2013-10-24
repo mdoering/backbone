@@ -1,5 +1,4 @@
-Squamarina magnussonii Frey & Poelt SPECIES
-=======
+# Squamarina magnussonii Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces soya Saito SPECIES
-=======
+# Saccharomyces soya Saito SPECIES
 
 #### Status
 ACCEPTED

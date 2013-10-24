@@ -1,5 +1,4 @@
-Polyporus lycoperdiformis Pers. SPECIES
-=======
+# Polyporus lycoperdiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

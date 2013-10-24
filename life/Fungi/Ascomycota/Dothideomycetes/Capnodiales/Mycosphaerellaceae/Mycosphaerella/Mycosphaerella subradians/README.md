@@ -1,17 +1,16 @@
-Sphaerella subradians f. convallariae-majalis Thüm. FORM
-=======
+# Mycosphaerella subradians (Fr.) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi austr. no. 470 (1872)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 339 (1894)
 
 #### Original name
-Sphaerella subradians f. convallariae-majalis Thüm.
+Sphaeria subradians Fr., 1817
 
 ### Remarks
 null

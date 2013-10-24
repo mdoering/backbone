@@ -1,5 +1,4 @@
-Polystictus cichoriaceus (Berk.) Fr. SPECIES
-=======
+# Polystictus cichoriaceus (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

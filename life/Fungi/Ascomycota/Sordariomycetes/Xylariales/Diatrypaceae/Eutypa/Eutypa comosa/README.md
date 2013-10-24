@@ -1,5 +1,4 @@
-Eutypa comosa Speg. SPECIES
-=======
+# Eutypa comosa Speg. SPECIES
 
 #### Status
 ACCEPTED

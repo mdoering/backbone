@@ -1,5 +1,4 @@
-Cortinarius peronatorugosus Rob. Henry SPECIES
-=======
+# Cortinarius peronatorugosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

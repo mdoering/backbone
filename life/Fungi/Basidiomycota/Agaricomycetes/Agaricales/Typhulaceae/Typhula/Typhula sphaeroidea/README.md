@@ -1,5 +1,4 @@
-Typhula sphaeroidea Remsberg, 1940 SPECIES
-=======
+# Typhula sphaeroidea Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

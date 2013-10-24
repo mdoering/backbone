@@ -1,5 +1,4 @@
-Bicosoeca maris Picken SPECIES
-=======
+# Bicosoeca maris Picken SPECIES
 
 #### Status
 ACCEPTED

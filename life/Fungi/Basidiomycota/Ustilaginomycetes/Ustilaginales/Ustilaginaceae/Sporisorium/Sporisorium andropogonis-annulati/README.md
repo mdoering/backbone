@@ -1,5 +1,4 @@
-Sporisorium andropogonis-annulati (Bref.) S.R. Wang & M. Piepenbr. SPECIES
-=======
+# Sporisorium andropogonis-annulati (Bref.) S.R. Wang & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

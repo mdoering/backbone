@@ -1,5 +1,4 @@
-Manchudinium sinicum (B. V. Skvortzov) B. V. Skvortzov SPECIES
-=======
+# Manchudinium sinicum (B. V. Skvortzov) B. V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

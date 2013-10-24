@@ -1,5 +1,4 @@
-Amphisphaeria aterrima Pat. & Duss SPECIES
-=======
+# Amphisphaeria aterrima Pat. & Duss SPECIES
 
 #### Status
 ACCEPTED

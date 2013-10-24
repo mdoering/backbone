@@ -1,17 +1,16 @@
-Mucronoporus rhabarbarinus (Berk.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Fuscoporia rhabarbarina (Berk.) Groposo, Log.-Leite & Góes-Neto, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 101: 61 (2007)
 
 #### Original name
-null
+Polyporus rhabarbarinus Berk., 1839
 
 ### Remarks
 null

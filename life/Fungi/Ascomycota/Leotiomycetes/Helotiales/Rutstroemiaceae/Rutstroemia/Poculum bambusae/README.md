@@ -1,5 +1,4 @@
-Poculum bambusae (Höhn.) Dumont SPECIES
-=======
+# Poculum bambusae (Höhn.) Dumont SPECIES
 
 #### Status
 ACCEPTED

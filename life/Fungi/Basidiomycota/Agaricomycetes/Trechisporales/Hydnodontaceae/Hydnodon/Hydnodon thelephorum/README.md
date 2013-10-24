@@ -1,14 +1,13 @@
-Pseudohydnum thelephoreum (Lév.) Lloyd SPECIES
-=======
+# Hydnodon thelephorum (Lév.) Banker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 5(6): 297 (1913)
 
 #### Original name
 Hydnum thelephorum Lév., 1844

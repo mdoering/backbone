@@ -1,5 +1,4 @@
-Porina pseudomalmei Breuss SPECIES
-=======
+# Porina pseudomalmei Breuss SPECIES
 
 #### Status
 ACCEPTED

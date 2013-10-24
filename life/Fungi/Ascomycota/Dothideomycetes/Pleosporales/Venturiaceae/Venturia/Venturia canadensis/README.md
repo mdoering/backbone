@@ -1,5 +1,4 @@
-Venturia canadensis M.E. Barr SPECIES
-=======
+# Venturia canadensis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

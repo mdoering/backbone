@@ -1,8 +1,7 @@
-Epistylis steinii Wrzesniowski, 1877 SPECIES
-=======
+# Intranstylum eismondi (Penard, 1905) Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

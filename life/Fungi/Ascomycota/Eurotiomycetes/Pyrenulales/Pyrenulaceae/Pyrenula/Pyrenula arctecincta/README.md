@@ -1,5 +1,4 @@
-Pyrenula arctecincta Fée SPECIES
-=======
+# Pyrenula arctecincta Fée SPECIES
 
 #### Status
 ACCEPTED

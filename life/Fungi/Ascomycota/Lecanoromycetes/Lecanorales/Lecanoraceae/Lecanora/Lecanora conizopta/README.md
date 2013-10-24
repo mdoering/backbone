@@ -1,5 +1,4 @@
-Lecanora conizopta Nyl. SPECIES
-=======
+# Lecanora conizopta Nyl. SPECIES
 
 #### Status
 ACCEPTED

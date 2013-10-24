@@ -1,5 +1,4 @@
-Maculatasporites irregularis Tiwari, 1964 SPECIES
-=======
+# Maculatasporites irregularis Tiwari, 1964 SPECIES
 
 #### Status
 ACCEPTED

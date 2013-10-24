@@ -1,5 +1,4 @@
-Loxocephalus moniligranulatus Kahl, 1926 SPECIES
-=======
+# Loxocephalus moniligranulatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

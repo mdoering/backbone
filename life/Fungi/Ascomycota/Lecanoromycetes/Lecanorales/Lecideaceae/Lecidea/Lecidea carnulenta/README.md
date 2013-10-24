@@ -1,5 +1,4 @@
-Lecidea carnulenta (Tuck.) Fink SPECIES
-=======
+# Lecidea carnulenta (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

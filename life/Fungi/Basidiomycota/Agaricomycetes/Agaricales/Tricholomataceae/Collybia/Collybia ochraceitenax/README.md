@@ -1,5 +1,4 @@
-Collybia ochraceitenax Corner SPECIES
-=======
+# Collybia ochraceitenax Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pteridomyces lacteus Boidin, Lanq. & Gilles, 1983 SPECIES
-=======
+# Pteridomyces lacteus Boidin, Lanq. & Gilles, 1983 SPECIES
 
 #### Status
 ACCEPTED

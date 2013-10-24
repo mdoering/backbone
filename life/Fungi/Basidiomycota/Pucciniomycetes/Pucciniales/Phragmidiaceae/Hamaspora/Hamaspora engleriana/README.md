@@ -1,5 +1,4 @@
-Hamaspora engleriana P. Syd. & Syd., 1912 SPECIES
-=======
+# Hamaspora engleriana P. Syd. & Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

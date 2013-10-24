@@ -1,5 +1,4 @@
-Vermispora obclavata V. Rao & de Hoog SPECIES
-=======
+# Vermispora obclavata V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

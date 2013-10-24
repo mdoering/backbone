@@ -1,5 +1,4 @@
-Septoria agropyri-cristati Sandu SPECIES
-=======
+# Septoria agropyri-cristati Sandu SPECIES
 
 #### Status
 ACCEPTED

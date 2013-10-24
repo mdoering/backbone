@@ -1,5 +1,4 @@
-Lejeunecysta sabrina (P. C. Reid) J. P. Bujak SPECIES
-=======
+# Lejeunecysta sabrina (P. C. Reid) J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Margominuscula simplex Pykhova, 1969 SPECIES
-=======
+# Margominuscula simplex Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

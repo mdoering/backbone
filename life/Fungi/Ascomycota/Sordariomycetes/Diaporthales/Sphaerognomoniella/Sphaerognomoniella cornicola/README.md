@@ -1,5 +1,4 @@
-Sphaerognomoniella cornicola Naumov & Kusnezowa, 1952 SPECIES
-=======
+# Sphaerognomoniella cornicola Naumov & Kusnezowa, 1952 SPECIES
 
 #### Status
 ACCEPTED

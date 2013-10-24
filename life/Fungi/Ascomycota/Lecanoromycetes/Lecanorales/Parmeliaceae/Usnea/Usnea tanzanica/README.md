@@ -1,5 +1,4 @@
-Usnea tanzanica Motyka SPECIES
-=======
+# Usnea tanzanica Motyka SPECIES
 
 #### Status
 ACCEPTED

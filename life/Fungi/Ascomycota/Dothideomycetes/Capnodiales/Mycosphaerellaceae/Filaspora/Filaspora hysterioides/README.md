@@ -1,5 +1,4 @@
-Filaspora hysterioides Preuss SPECIES
-=======
+# Filaspora hysterioides Preuss SPECIES
 
 #### Status
 ACCEPTED

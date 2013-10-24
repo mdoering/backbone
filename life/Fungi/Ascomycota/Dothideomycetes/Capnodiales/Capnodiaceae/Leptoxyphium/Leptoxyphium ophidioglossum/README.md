@@ -1,5 +1,4 @@
-Leptoxyphium ophidioglossum (Cif., Bat. & Nascim.) S. Hughes SPECIES
-=======
+# Leptoxyphium ophidioglossum (Cif., Bat. & Nascim.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

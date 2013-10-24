@@ -1,5 +1,4 @@
-Mutinus papuasius Kalchbr. SPECIES
-=======
+# Mutinus papuasius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

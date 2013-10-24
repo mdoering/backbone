@@ -1,5 +1,4 @@
-Clypeispora A.W. Ramaley GENUS
-=======
+# Clypeispora A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

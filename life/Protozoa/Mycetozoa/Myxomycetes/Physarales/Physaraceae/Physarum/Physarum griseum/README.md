@@ -1,5 +1,4 @@
-Physarum griseum Skvortsov SPECIES
-=======
+# Physarum griseum Skvortsov SPECIES
 
 #### Status
 ACCEPTED

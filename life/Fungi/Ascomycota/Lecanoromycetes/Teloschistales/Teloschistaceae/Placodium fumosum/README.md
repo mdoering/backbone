@@ -1,5 +1,4 @@
-Placodium fumosum Vain. SPECIES
-=======
+# Placodium fumosum Vain. SPECIES
 
 #### Status
 ACCEPTED

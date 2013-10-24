@@ -1,5 +1,4 @@
-Mycena subplicosa P. Karst. SPECIES
-=======
+# Mycena subplicosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

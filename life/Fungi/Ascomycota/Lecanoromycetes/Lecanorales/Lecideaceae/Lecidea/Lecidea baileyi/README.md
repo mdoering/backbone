@@ -1,5 +1,4 @@
-Lecidea baileyi H. Magn. SPECIES
-=======
+# Lecidea baileyi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

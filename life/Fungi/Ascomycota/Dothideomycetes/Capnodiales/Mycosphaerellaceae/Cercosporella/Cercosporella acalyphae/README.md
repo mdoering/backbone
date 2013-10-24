@@ -1,5 +1,4 @@
-Cercosporella acalyphae Lacy & Thirum. SPECIES
-=======
+# Cercosporella acalyphae Lacy & Thirum. SPECIES
 
 #### Status
 ACCEPTED

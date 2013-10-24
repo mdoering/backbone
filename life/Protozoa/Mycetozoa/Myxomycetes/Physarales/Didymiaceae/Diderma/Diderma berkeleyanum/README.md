@@ -1,5 +1,4 @@
-Diderma berkeleyanum (Rostaf.) Kuntze SPECIES
-=======
+# Diderma berkeleyanum (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

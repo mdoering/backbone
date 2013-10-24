@@ -1,5 +1,4 @@
-Chaetomella beticola Oudem. SPECIES
-=======
+# Chaetomella beticola Oudem. SPECIES
 
 #### Status
 ACCEPTED

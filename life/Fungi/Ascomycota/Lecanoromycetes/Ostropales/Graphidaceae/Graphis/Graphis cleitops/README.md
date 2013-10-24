@@ -1,5 +1,4 @@
-Graphis cleitops Fée SPECIES
-=======
+# Graphis cleitops Fée SPECIES
 
 #### Status
 ACCEPTED

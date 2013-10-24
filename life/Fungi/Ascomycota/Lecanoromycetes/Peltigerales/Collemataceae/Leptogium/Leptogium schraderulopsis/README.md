@@ -1,5 +1,4 @@
-Leptogium schraderulopsis (Wedd.) Maheu & A. Gillet SPECIES
-=======
+# Leptogium schraderulopsis (Wedd.) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

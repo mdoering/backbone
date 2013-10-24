@@ -1,5 +1,4 @@
-Vibrissea marginata W.L. White SPECIES
-=======
+# Vibrissea marginata W.L. White SPECIES
 
 #### Status
 ACCEPTED

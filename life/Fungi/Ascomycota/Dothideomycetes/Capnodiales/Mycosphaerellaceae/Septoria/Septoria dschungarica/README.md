@@ -1,5 +1,4 @@
-Septoria dschungarica Domashova SPECIES
-=======
+# Septoria dschungarica Domashova SPECIES
 
 #### Status
 ACCEPTED

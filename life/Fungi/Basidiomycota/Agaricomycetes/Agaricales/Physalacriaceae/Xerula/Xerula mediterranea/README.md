@@ -1,14 +1,13 @@
-Oudemansiella mediterranea (Pacioni & Lalli) E. Horak, 1988 SPECIES
-=======
+# Xerula mediterranea (Pacioni & Lalli) Quadr. & Lunghini, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 31(1-2): 34 (1988)
+Quad. Acad. Naz. Lincei 264: 112 (1990)
 
 #### Original name
 Hydropus mediterraneus Pacioni & Lalli, 1985

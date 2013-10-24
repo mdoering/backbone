@@ -1,5 +1,4 @@
-Chaetoceros Ehrenberg GENUS
-=======
+# Chaetoceros Ehrenberg GENUS
 
 #### Status
 ACCEPTED

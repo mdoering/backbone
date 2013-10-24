@@ -1,5 +1,4 @@
-Parmelia intensa Nyl. SPECIES
-=======
+# Parmelia intensa Nyl. SPECIES
 
 #### Status
 ACCEPTED

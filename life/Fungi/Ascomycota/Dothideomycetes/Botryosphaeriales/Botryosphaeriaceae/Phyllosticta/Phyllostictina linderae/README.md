@@ -1,5 +1,4 @@
-Phyllostictina linderae (Miura) Petr. & Syd. SPECIES
-=======
+# Phyllostictina linderae (Miura) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

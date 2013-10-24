@@ -1,5 +1,4 @@
-Micrhystridium hystricosum (Colbath, 1990) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium hystricosum (Colbath, 1990) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

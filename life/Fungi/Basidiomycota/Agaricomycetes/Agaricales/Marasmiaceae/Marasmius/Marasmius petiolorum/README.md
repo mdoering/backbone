@@ -1,5 +1,4 @@
-Marasmius petiolorum Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius petiolorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

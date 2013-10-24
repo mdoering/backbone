@@ -1,5 +1,4 @@
-Tomeoa I. Hino GENUS
-=======
+# Tomeoa I. Hino GENUS
 
 #### Status
 ACCEPTED

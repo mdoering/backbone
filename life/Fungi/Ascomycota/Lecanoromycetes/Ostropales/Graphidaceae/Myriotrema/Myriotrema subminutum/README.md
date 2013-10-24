@@ -1,5 +1,4 @@
-Myriotrema subminutum Homchant. & Coppins SPECIES
-=======
+# Myriotrema subminutum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

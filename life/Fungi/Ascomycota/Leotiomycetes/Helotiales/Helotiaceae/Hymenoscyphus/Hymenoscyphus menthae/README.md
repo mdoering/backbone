@@ -1,17 +1,16 @@
-Helotium menthae W. Phillips, 1877 SPECIES
-=======
+# Hymenoscyphus menthae (W. Phillips) Baral, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 no. 188 (1877)
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 131 (1985)
 
 #### Original name
-Helotium menthae W. Phillips, 1877
+Phialea scutula var. menthae W. Phillips, 1887
 
 ### Remarks
 null

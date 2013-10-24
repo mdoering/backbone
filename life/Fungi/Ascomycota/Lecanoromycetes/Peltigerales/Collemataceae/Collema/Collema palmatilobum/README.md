@@ -1,5 +1,4 @@
-Collema palmatilobum Hepp SPECIES
-=======
+# Collema palmatilobum Hepp SPECIES
 
 #### Status
 ACCEPTED

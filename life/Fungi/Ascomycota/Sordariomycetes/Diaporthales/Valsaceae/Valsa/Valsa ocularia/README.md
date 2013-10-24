@@ -1,5 +1,4 @@
-Valsa ocularia Cooke & Ellis SPECIES
-=======
+# Valsa ocularia Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vesicularia marina I. Schmidt, 1974 SPECIES
-=======
+# Vesicularia marina I. Schmidt, 1974 SPECIES
 
 #### Status
 ACCEPTED

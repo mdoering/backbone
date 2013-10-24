@@ -1,5 +1,4 @@
-Ascochyta delphinii Melnik SPECIES
-=======
+# Ascochyta delphinii Melnik SPECIES
 
 #### Status
 ACCEPTED

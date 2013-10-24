@@ -1,5 +1,4 @@
-Phoma biflori Garb. SPECIES
-=======
+# Phoma biflori Garb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora cornicola Earle SPECIES
-=======
+# Stagonospora cornicola Earle SPECIES
 
 #### Status
 ACCEPTED

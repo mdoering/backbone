@@ -1,5 +1,4 @@
-Himantia ornithogala Pers. SPECIES
-=======
+# Himantia ornithogala Pers. SPECIES
 
 #### Status
 ACCEPTED

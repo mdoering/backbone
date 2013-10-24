@@ -1,5 +1,4 @@
-Marasmius hygrocyboides Henn. SPECIES
-=======
+# Marasmius hygrocyboides Henn. SPECIES
 
 #### Status
 ACCEPTED

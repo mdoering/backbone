@@ -1,5 +1,4 @@
-Polystictus argyraceus Pers. SPECIES
-=======
+# Polystictus argyraceus Pers. SPECIES
 
 #### Status
 ACCEPTED

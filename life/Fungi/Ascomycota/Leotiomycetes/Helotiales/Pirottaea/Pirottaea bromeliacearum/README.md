@@ -1,5 +1,4 @@
-Pirottaea bromeliacearum Rick SPECIES
-=======
+# Pirottaea bromeliacearum Rick SPECIES
 
 #### Status
 ACCEPTED

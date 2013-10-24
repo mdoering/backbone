@@ -1,5 +1,4 @@
-Gibberidea alnicola Rehm SPECIES
-=======
+# Gibberidea alnicola Rehm SPECIES
 
 #### Status
 ACCEPTED

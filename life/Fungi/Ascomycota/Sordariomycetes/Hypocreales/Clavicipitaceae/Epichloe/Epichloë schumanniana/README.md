@@ -1,5 +1,4 @@
-Epichloë schumanniana Henn. SPECIES
-=======
+# Epichloë schumanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

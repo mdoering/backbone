@@ -1,5 +1,4 @@
-Asteromella perpusilla Speg. SPECIES
-=======
+# Asteromella perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocapsa umbilicata Stein, 1883 SPECIES
-=======
+# Heterocapsa umbilicata Stein, 1883 SPECIES
 
 #### Status
 ACCEPTED

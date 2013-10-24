@@ -1,5 +1,4 @@
-Helminthosporium socium Ellis & Everh. SPECIES
-=======
+# Helminthosporium socium Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

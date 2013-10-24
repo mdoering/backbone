@@ -1,5 +1,4 @@
-Physarum alpestre Mitchel, S.W. Chapm. & M.L. Farr, 1986 SPECIES
-=======
+# Physarum alpestre Mitchel, S.W. Chapm. & M.L. Farr, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deunffia unispinosa (Schön, 1967) Sarjeant, 1970 SPECIES
-=======
+# Deunffia unispinosa (Schön, 1967) Sarjeant, 1970 SPECIES
 
 #### Status
 ACCEPTED

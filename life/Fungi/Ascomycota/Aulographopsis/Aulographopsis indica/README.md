@@ -1,5 +1,4 @@
-Aulographopsis indica Petr. SPECIES
-=======
+# Aulographopsis indica Petr. SPECIES
 
 #### Status
 ACCEPTED

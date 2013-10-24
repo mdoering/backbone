@@ -1,17 +1,16 @@
-Cercospora strobilanthidis Chidd. SPECIES
-=======
+# Cercospora strobilanthis Chidd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 17(1): 77 (1962)
 
 #### Original name
-Cercospora strobilanthidis Chidd.
+Cercospora strobilanthis Chidd.
 
 ### Remarks
 null

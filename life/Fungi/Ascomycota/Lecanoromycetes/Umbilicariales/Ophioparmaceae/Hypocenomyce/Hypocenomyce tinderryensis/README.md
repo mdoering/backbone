@@ -1,5 +1,4 @@
-Hypocenomyce tinderryensis Elix SPECIES
-=======
+# Hypocenomyce tinderryensis Elix SPECIES
 
 #### Status
 ACCEPTED

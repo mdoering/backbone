@@ -1,5 +1,4 @@
-Aecidium nanocnides Dietel SPECIES
-=======
+# Aecidium nanocnides Dietel SPECIES
 
 #### Status
 ACCEPTED

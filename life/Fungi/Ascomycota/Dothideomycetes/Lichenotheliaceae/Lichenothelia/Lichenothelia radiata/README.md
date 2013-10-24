@@ -1,5 +1,4 @@
-Lichenothelia radiata Henssen SPECIES
-=======
+# Lichenothelia radiata Henssen SPECIES
 
 #### Status
 ACCEPTED

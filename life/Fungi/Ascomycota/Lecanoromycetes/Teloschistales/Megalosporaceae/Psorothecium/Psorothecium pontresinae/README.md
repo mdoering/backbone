@@ -1,5 +1,4 @@
-Psorothecium pontresinae B. de Lesd. SPECIES
-=======
+# Psorothecium pontresinae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

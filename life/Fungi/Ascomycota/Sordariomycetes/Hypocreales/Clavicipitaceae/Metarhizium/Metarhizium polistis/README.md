@@ -1,5 +1,4 @@
-Metarhizium polistis Cohn ex Sorokin SPECIES
-=======
+# Metarhizium polistis Cohn ex Sorokin SPECIES
 
 #### Status
 ACCEPTED

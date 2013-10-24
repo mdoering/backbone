@@ -1,5 +1,4 @@
-Nosema chrysorrhoeae SPECIES
-=======
+# Nosema chrysorrhoeae SPECIES
 
 #### Status
 ACCEPTED

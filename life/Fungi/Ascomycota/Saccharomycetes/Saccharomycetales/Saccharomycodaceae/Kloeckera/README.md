@@ -1,5 +1,4 @@
-Kloeckera Janke GENUS
-=======
+# Kloeckera Janke GENUS
 
 #### Status
 ACCEPTED

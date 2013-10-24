@@ -1,5 +1,4 @@
-Lecidea compaginata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecidea compaginata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

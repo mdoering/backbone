@@ -1,5 +1,4 @@
-Scopulariopsis sehnsuchta Mello SPECIES
-=======
+# Scopulariopsis sehnsuchta Mello SPECIES
 
 #### Status
 ACCEPTED

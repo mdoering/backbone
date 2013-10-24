@@ -1,5 +1,4 @@
-Anzia stenophylla Asahina SPECIES
-=======
+# Anzia stenophylla Asahina SPECIES
 
 #### Status
 ACCEPTED

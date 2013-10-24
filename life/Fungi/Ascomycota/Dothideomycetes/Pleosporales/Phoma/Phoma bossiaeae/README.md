@@ -1,5 +1,4 @@
-Phoma bossiaeae Henn. SPECIES
-=======
+# Phoma bossiaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

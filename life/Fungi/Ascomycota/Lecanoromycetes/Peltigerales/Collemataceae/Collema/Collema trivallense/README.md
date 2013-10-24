@@ -1,5 +1,4 @@
-Collema trivallense Croz. SPECIES
-=======
+# Collema trivallense Croz. SPECIES
 
 #### Status
 ACCEPTED

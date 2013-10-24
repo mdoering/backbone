@@ -1,5 +1,4 @@
-Alascospora evergladensis Raja, Violi & Shearer, 2010 SPECIES
-=======
+# Alascospora evergladensis Raja, Violi & Shearer, 2010 SPECIES
 
 #### Status
 ACCEPTED

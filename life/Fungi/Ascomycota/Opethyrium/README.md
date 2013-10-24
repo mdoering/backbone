@@ -1,5 +1,4 @@
-Opethyrium Speg. GENUS
-=======
+# Opethyrium Speg. GENUS
 
 #### Status
 ACCEPTED

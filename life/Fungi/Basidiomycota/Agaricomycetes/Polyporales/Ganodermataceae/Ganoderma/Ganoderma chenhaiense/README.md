@@ -1,5 +1,4 @@
-Ganoderma chenhaiense J.D. Zhao SPECIES
-=======
+# Ganoderma chenhaiense J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

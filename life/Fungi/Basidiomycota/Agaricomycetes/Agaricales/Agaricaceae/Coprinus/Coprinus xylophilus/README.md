@@ -1,5 +1,4 @@
-Coprinus xylophilus var. xylophilus VARIETY
-=======
+# Coprinus xylophilus Bogart SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The Genus Coprinus in Washington and Adjacent Western States [Ph. D. dissertation] (Seattle) 195 (1975)
 
 #### Original name
-Coprinus xylophilus var. xylophilus
+Coprinus xylophilus Bogart
 
 ### Remarks
 null

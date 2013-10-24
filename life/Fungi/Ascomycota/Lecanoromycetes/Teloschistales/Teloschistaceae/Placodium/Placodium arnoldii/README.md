@@ -1,5 +1,4 @@
-Placodium arnoldii (Wedd.) H. Olivier SPECIES
-=======
+# Placodium arnoldii (Wedd.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina distermina (Nyl.) Zahlbr. SPECIES
-=======
+# Porina distermina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

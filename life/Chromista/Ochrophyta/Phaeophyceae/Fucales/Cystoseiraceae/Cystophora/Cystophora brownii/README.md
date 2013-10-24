@@ -1,5 +1,4 @@
-Cystophora brownii (Turner) J. Agardh SPECIES
-=======
+# Cystophora brownii (Turner) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

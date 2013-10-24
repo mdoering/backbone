@@ -1,5 +1,4 @@
-Graphina lurido-olivacea Fink SPECIES
-=======
+# Graphina lurido-olivacea Fink SPECIES
 
 #### Status
 ACCEPTED

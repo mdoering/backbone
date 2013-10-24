@@ -1,17 +1,16 @@
-Xanthoria poeltii S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthomendoza poeltii (S. Y. Kondr. & Kärnefelt) Søchting, Kärnefelt & S. Y. Kondr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. Inst. Allg. Botanik Hamburg 30-32: 237 (2002)
 
 #### Original name
-null
+Xanthoria poeltii S. Y. Kondr. & Kärnefelt
 
 ### Remarks
 null

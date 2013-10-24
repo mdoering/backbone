@@ -1,5 +1,4 @@
-Salpingelloides Campbell, 1942 GENUS
-=======
+# Salpingelloides Campbell, 1942 GENUS
 
 #### Status
 ACCEPTED

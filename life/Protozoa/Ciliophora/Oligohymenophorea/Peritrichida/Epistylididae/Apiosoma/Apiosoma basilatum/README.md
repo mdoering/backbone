@@ -1,5 +1,4 @@
-Apiosoma basilatum SPECIES
-=======
+# Apiosoma basilatum SPECIES
 
 #### Status
 ACCEPTED

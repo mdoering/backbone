@@ -1,5 +1,4 @@
-Filosia CLASS
-=======
+# Filosia CLASS
 
 #### Status
 ACCEPTED

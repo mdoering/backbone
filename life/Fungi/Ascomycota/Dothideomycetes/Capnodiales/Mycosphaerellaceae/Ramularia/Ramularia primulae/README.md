@@ -1,5 +1,4 @@
-Ramularia primulae Thüm., 1878 SPECIES
-=======
+# Ramularia primulae Thüm., 1878 SPECIES
 
 #### Status
 ACCEPTED

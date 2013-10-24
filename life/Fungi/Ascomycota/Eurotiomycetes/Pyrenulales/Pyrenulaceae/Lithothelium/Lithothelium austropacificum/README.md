@@ -1,5 +1,4 @@
-Lithothelium austropacificum P. M. McCarthy SPECIES
-=======
+# Lithothelium austropacificum P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

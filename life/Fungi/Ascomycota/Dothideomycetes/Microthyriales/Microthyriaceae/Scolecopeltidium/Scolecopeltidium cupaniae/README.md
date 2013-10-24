@@ -1,5 +1,4 @@
-Scolecopeltidium cupaniae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium cupaniae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

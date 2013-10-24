@@ -1,5 +1,4 @@
-Tricholoma quercicola M. Zang SPECIES
-=======
+# Tricholoma quercicola M. Zang SPECIES
 
 #### Status
 ACCEPTED

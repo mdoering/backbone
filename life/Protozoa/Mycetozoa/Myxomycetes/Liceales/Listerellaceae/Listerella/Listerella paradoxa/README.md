@@ -1,5 +1,4 @@
-Listerella paradoxa E. Jahn, 1906 SPECIES
-=======
+# Listerella paradoxa E. Jahn, 1906 SPECIES
 
 #### Status
 ACCEPTED

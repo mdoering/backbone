@@ -1,5 +1,4 @@
-Armillaria saviczii (Singer) Herink SPECIES
-=======
+# Armillaria saviczii (Singer) Herink SPECIES
 
 #### Status
 ACCEPTED

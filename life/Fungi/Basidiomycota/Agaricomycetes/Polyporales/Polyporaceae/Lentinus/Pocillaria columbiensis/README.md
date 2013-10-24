@@ -1,5 +1,4 @@
-Pocillaria columbiensis Kuntze SPECIES
-=======
+# Pocillaria columbiensis Kuntze SPECIES
 
 #### Status
 ACCEPTED

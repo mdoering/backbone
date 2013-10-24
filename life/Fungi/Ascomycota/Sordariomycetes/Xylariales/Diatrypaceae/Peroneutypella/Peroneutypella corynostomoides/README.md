@@ -1,5 +1,4 @@
-Peroneutypella corynostomoides Rehm SPECIES
-=======
+# Peroneutypella corynostomoides Rehm SPECIES
 
 #### Status
 ACCEPTED

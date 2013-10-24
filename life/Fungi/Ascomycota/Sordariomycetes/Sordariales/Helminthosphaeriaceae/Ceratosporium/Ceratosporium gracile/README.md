@@ -1,5 +1,4 @@
-Ceratosporium gracile Matsush. SPECIES
-=======
+# Ceratosporium gracile Matsush. SPECIES
 
 #### Status
 ACCEPTED

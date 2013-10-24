@@ -1,5 +1,4 @@
-Myroidaceae FAMILY
-=======
+# Myroidaceae FAMILY
 
 #### Status
 ACCEPTED

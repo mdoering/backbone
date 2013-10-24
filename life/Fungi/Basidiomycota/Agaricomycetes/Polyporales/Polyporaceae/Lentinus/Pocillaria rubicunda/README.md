@@ -1,5 +1,4 @@
-Pocillaria rubicunda (Mont.) Kuntze SPECIES
-=======
+# Pocillaria rubicunda (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria corticola Pat. SPECIES
-=======
+# Amphisphaeria corticola Pat. SPECIES
 
 #### Status
 ACCEPTED

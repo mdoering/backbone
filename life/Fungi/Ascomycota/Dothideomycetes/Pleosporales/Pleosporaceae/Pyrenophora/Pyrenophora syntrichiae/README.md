@@ -1,5 +1,4 @@
-Pyrenophora syntrichiae Racov. SPECIES
-=======
+# Pyrenophora syntrichiae Racov. SPECIES
 
 #### Status
 ACCEPTED

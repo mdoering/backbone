@@ -1,5 +1,4 @@
-Peziza cartilaginea (With.) SPECIES
-=======
+# Peziza cartilaginea (With.) SPECIES
 
 #### Status
 ACCEPTED

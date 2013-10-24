@@ -1,5 +1,4 @@
-Micromonospora rosaria (ex Wagman et al., 1972) Horan & Brodsky, 1986 SPECIES
-=======
+# Micromonospora rosaria (ex Wagman et al., 1972) Horan & Brodsky, 1986 SPECIES
 
 #### Status
 ACCEPTED

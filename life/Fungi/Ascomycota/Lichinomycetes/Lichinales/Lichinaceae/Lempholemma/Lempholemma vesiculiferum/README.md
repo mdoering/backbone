@@ -1,5 +1,4 @@
-Lempholemma vesiculiferum Henssen SPECIES
-=======
+# Lempholemma vesiculiferum Henssen SPECIES
 
 #### Status
 ACCEPTED

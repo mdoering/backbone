@@ -1,5 +1,4 @@
-Stigmateacites S.L. Zheng & W. Zhang GENUS
-=======
+# Stigmateacites S.L. Zheng & W. Zhang GENUS
 
 #### Status
 ACCEPTED

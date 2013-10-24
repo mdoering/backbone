@@ -1,5 +1,4 @@
-Helminthosporium decacuminatum Thüm. & Pass., 1878 SPECIES
-=======
+# Helminthosporium decacuminatum Thüm. & Pass., 1878 SPECIES
 
 #### Status
 ACCEPTED

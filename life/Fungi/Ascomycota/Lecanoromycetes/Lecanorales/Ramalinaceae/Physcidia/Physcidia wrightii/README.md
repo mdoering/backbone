@@ -1,14 +1,13 @@
-Physcia wrightii Tuck. SPECIES
-=======
+# Physcidia wrightii (Tuck.) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 5: 400 (1862)
 
 #### Original name
 Physcia wrightii Tuck.

@@ -1,5 +1,4 @@
-Leptosphaeria microthyrioides Feltgen SPECIES
-=======
+# Leptosphaeria microthyrioides Feltgen SPECIES
 
 #### Status
 ACCEPTED

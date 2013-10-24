@@ -1,5 +1,4 @@
-Xyloma pezizoides Pers. SPECIES
-=======
+# Xyloma pezizoides Pers. SPECIES
 
 #### Status
 ACCEPTED

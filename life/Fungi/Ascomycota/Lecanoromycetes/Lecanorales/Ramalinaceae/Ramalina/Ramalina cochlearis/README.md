@@ -1,5 +1,4 @@
-Ramalina cochlearis Zahlbr. SPECIES
-=======
+# Ramalina cochlearis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

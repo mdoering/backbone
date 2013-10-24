@@ -1,5 +1,4 @@
-Lophomarginata minor Pykhova, 1969 SPECIES
-=======
+# Lophomarginata minor Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

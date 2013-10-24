@@ -1,17 +1,16 @@
-Menispora glauca var. glauca VARIETY
-=======
+# Chaetosphaeria ovoidea (Fr.) Constant., K. Holm & L. Holm, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 99(6): 586 (1995)
 
 #### Original name
-null
+Sphaeria ovoidea Fr., 1823
 
 ### Remarks
 null

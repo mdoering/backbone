@@ -1,5 +1,4 @@
-Clavaria tuberculospora R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria tuberculospora R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

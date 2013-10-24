@@ -1,5 +1,4 @@
-Hysteronaevia stenospora Nannf. SPECIES
-=======
+# Hysteronaevia stenospora Nannf. SPECIES
 
 #### Status
 ACCEPTED

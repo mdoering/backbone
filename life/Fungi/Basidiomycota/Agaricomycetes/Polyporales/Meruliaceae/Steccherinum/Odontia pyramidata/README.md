@@ -1,5 +1,4 @@
-Odontia pyramidata SPECIES
-=======
+# Odontia pyramidata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina panici Sousa da Câmara SPECIES
-=======
+# Diplodina panici Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

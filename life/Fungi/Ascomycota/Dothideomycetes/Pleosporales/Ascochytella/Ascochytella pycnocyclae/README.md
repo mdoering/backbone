@@ -1,5 +1,4 @@
-Ascochytella pycnocyclae Petr. SPECIES
-=======
+# Ascochytella pycnocyclae Petr. SPECIES
 
 #### Status
 ACCEPTED

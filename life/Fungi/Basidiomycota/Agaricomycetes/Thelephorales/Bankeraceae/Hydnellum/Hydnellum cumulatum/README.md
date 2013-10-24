@@ -1,5 +1,4 @@
-Hydnellum cumulatum K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum cumulatum K.A. Harrison, 1964 SPECIES
 
 #### Status
 ACCEPTED

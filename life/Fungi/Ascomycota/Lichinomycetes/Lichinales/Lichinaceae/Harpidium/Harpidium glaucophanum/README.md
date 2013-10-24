@@ -1,5 +1,4 @@
-Harpidium glaucophanum (Hasse) Hasse SPECIES
-=======
+# Harpidium glaucophanum (Hasse) Hasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Discorbina turbo var. polystomelloides Parker & Jones, 1865 VARIETY
-=======
+# Epistomaroides polystomelloides (Parker & Jones, 1865) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Stromatinia heteroica (Woronin & Navashin) Boud. SPECIES
-=======
+# Stromatinia heteroica (Woronin & Navashin) Boud. SPECIES
 
 #### Status
 ACCEPTED

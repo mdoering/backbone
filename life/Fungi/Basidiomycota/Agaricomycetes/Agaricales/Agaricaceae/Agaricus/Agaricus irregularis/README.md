@@ -1,5 +1,4 @@
-Agaricus irregularis var. irregularis VARIETY
-=======
+# Agaricus irregularis Bolton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hist. fung. Halifax (Huddersfield) 1: 13 (1788)
 
 #### Original name
-Agaricus irregularis var. irregularis
+Agaricus irregularis Bolton
 
 ### Remarks
 null

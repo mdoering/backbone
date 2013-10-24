@@ -1,5 +1,4 @@
-Tunicothrix Xu, Lei & Choi, 2006 GENUS
-=======
+# Tunicothrix Xu, Lei & Choi, 2006 GENUS
 
 #### Status
 ACCEPTED

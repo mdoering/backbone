@@ -1,5 +1,4 @@
-Matellio Medioli, Scott, Collins & Wall, 1990 GENUS
-=======
+# Matellio Medioli, Scott, Collins & Wall, 1990 GENUS
 
 #### Status
 ACCEPTED

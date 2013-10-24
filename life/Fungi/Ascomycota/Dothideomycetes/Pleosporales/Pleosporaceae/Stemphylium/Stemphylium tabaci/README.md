@@ -1,5 +1,4 @@
-Stemphylium tabaci Oudem. SPECIES
-=======
+# Stemphylium tabaci Oudem. SPECIES
 
 #### Status
 ACCEPTED

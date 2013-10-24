@@ -1,17 +1,16 @@
-Polyblastia wheldoni Travis SPECIES
-=======
+# Atla wheldonii (Travis.) Savic & Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 40(4): 280 (2008)
 
 #### Original name
-Polyblastia wheldoni Travis
+Polyblastia wheldonii Travis
 
 ### Remarks
 null

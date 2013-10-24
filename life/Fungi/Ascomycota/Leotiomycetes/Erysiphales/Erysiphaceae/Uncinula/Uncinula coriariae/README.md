@@ -1,5 +1,4 @@
-Uncinula coriariae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula coriariae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

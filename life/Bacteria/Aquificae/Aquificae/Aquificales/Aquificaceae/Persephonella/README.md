@@ -1,5 +1,4 @@
-Persephonella Gotz, Banta, Beveridge, Rushdi, Simoneit & Reysenbach, 2002 GENUS
-=======
+# Persephonella Gotz, Banta, Beveridge, Rushdi, Simoneit & Reysenbach, 2002 GENUS
 
 #### Status
 ACCEPTED

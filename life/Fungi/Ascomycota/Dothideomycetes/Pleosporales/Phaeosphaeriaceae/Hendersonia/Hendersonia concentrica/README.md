@@ -1,5 +1,4 @@
-Hendersonia concentrica Ellis & Everh. SPECIES
-=======
+# Hendersonia concentrica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

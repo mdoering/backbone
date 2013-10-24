@@ -1,5 +1,4 @@
-Verrucomicrobiaceae Ward-Rainey, Rainey, Schlesner & Stackebrandt, 1996 FAMILY
-=======
+# Verrucomicrobiaceae Ward-Rainey, Rainey, Schlesner & Stackebrandt, 1996 FAMILY
 
 #### Status
 ACCEPTED

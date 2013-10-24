@@ -1,5 +1,4 @@
-Agaricus albocrenatus Jungh. SPECIES
-=======
+# Agaricus albocrenatus Jungh. SPECIES
 
 #### Status
 ACCEPTED

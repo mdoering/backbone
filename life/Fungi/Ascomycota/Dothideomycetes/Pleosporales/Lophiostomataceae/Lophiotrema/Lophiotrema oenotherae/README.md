@@ -1,5 +1,4 @@
-Lophiotrema oenotherae Ellis & Everh. SPECIES
-=======
+# Lophiotrema oenotherae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

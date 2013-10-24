@@ -1,5 +1,4 @@
-Buellia atropallidula SPECIES
-=======
+# Buellia atropallidula SPECIES
 
 #### Status
 ACCEPTED

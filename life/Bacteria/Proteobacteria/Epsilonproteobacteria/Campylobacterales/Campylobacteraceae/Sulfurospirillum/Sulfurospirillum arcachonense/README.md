@@ -1,5 +1,4 @@
-Sulfurospirillum arcachonense Finster et al., 1997 SPECIES
-=======
+# Sulfurospirillum arcachonense Finster et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

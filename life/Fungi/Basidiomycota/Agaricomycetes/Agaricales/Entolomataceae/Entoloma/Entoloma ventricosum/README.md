@@ -1,14 +1,13 @@
-Nolanea ventricosa (Arnolds & Noordel.) P.D. Orton, 1991 SPECIES
-=======
+# Entoloma ventricosum Arnolds & Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologist 5(4): 173 (1991)
+Persoonia 10(2): 298 (1979)
 
 #### Original name
 Entoloma ventricosum Arnolds & Noordel., 1979

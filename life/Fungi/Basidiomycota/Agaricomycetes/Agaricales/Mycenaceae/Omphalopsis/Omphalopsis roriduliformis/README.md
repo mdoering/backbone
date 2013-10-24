@@ -1,5 +1,4 @@
-Omphalopsis roriduliformis Murrill SPECIES
-=======
+# Omphalopsis roriduliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

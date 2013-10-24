@@ -1,5 +1,4 @@
-Burkholderia kirkii SPECIES
-=======
+# Burkholderia kirkii SPECIES
 
 #### Status
 ACCEPTED

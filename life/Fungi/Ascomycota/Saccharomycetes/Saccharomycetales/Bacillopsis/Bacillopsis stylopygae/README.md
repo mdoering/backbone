@@ -1,5 +1,4 @@
-Bacillopsis stylopygae Petsch., 1908 SPECIES
-=======
+# Bacillopsis stylopygae Petsch., 1908 SPECIES
 
 #### Status
 ACCEPTED

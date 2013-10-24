@@ -1,5 +1,4 @@
-Gymnochilus caespitosus Earle SPECIES
-=======
+# Gymnochilus caespitosus Earle SPECIES
 
 #### Status
 ACCEPTED

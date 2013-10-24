@@ -1,17 +1,16 @@
-Pertusaria chloropolia f. chloropolia FORM
-=======
+# Loxospora elatina (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 138 (1852)
 
 #### Original name
-Pertusaria chloropolia f. chloropolia
+Lecanora elatina Ach.
 
 ### Remarks
 null

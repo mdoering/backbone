@@ -1,5 +1,4 @@
-Lichen atroflavus (Turner) Sm. SPECIES
-=======
+# Lichen atroflavus (Turner) Sm. SPECIES
 
 #### Status
 ACCEPTED

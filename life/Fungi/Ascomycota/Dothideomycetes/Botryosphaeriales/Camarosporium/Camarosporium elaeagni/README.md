@@ -1,5 +1,4 @@
-Camarosporium elaeagni Potebnia SPECIES
-=======
+# Camarosporium elaeagni Potebnia SPECIES
 
 #### Status
 ACCEPTED

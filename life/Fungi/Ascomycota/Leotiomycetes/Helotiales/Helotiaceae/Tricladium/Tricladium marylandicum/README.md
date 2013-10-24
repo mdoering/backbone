@@ -1,5 +1,4 @@
-Tricladium marylandicum J.L. Crane SPECIES
-=======
+# Tricladium marylandicum J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

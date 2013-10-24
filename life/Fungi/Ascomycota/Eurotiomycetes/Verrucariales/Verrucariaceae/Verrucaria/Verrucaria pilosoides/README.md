@@ -1,5 +1,4 @@
-Verrucaria pilosoides Servít SPECIES
-=======
+# Verrucaria pilosoides Servít SPECIES
 
 #### Status
 ACCEPTED

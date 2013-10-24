@@ -1,5 +1,4 @@
-Hypogymnia metaphysodes (Asahina) Rass. SPECIES
-=======
+# Hypogymnia metaphysodes (Asahina) Rass. SPECIES
 
 #### Status
 ACCEPTED

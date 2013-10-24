@@ -1,5 +1,4 @@
-Cucurbitaria pinastri Grev. SPECIES
-=======
+# Cucurbitaria pinastri Grev. SPECIES
 
 #### Status
 ACCEPTED

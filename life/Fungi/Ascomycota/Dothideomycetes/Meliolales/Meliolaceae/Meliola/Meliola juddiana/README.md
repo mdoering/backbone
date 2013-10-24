@@ -1,5 +1,4 @@
-Meliola juddiana F. Stevens SPECIES
-=======
+# Meliola juddiana F. Stevens SPECIES
 
 #### Status
 ACCEPTED

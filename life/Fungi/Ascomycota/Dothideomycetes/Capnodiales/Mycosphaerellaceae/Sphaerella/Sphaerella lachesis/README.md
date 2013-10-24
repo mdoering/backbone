@@ -1,5 +1,4 @@
-Sphaerella lachesis Sacc. SPECIES
-=======
+# Sphaerella lachesis Sacc. SPECIES
 
 #### Status
 ACCEPTED

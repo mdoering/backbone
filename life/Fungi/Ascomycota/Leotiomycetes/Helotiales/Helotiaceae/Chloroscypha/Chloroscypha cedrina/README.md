@@ -1,5 +1,4 @@
-Chloroscypha cedrina (Cooke) Seaver SPECIES
-=======
+# Chloroscypha cedrina (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

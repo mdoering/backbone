@@ -1,5 +1,4 @@
-Semilecanora transitoria (H. Magn.) Motyka SPECIES
-=======
+# Semilecanora transitoria (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

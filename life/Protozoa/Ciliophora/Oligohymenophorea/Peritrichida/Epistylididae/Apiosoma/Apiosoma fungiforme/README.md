@@ -1,5 +1,4 @@
-Apiosoma fungiforme SPECIES
-=======
+# Apiosoma fungiforme SPECIES
 
 #### Status
 ACCEPTED

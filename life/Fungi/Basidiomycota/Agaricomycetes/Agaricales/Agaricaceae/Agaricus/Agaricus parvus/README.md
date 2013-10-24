@@ -1,5 +1,4 @@
-Agaricus parvus With. SPECIES
-=======
+# Agaricus parvus With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphomyces C.H. Bridges & C.W. Emmons GENUS
-=======
+# Hyphomyces C.H. Bridges & C.W. Emmons GENUS
 
 #### Status
 ACCEPTED

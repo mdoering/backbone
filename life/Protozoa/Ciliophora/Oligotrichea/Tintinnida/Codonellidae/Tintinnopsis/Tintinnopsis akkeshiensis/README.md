@@ -1,5 +1,4 @@
-Tintinnopsis akkeshiensis Hada, 1937 SPECIES
-=======
+# Tintinnopsis akkeshiensis Hada, 1937 SPECIES
 
 #### Status
 ACCEPTED

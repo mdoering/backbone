@@ -1,5 +1,4 @@
-Odontia leopoldensis Rick SPECIES
-=======
+# Odontia leopoldensis Rick SPECIES
 
 #### Status
 ACCEPTED

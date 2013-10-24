@@ -1,5 +1,4 @@
-Sargassum fruticulosum Tseng & Lu SPECIES
-=======
+# Sargassum fruticulosum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

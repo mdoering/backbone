@@ -1,5 +1,4 @@
-Tuckermanopsis halei (W.L. Culb. & C.F. Culb.) M.J. Lai SPECIES
-=======
+# Tuckermanopsis halei (W.L. Culb. & C.F. Culb.) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

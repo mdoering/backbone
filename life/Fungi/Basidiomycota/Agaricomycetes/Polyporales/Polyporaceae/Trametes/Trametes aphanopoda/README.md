@@ -1,5 +1,4 @@
-Trametes aphanopoda Reichardt SPECIES
-=======
+# Trametes aphanopoda Reichardt SPECIES
 
 #### Status
 ACCEPTED

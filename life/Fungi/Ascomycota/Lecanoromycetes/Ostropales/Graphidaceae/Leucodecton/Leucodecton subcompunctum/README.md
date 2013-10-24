@@ -1,17 +1,16 @@
-Leptotrema polycarpum var. polycarpum VARIETY
-=======
+# Leucodecton subcompunctum (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 315 (1895)
+Biblthca Lichenol. 92: 162 (2006)
 
 #### Original name
-Leptotrema polycarpum var. polycarpum
+Thelotrema subcompunctum Nyl.
 
 ### Remarks
 null

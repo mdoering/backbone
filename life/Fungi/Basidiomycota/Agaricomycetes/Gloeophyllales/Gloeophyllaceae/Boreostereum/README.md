@@ -1,5 +1,4 @@
-Boreostereum Parmasto, 1968 GENUS
-=======
+# Boreostereum Parmasto, 1968 GENUS
 
 #### Status
 ACCEPTED

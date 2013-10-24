@@ -1,5 +1,4 @@
-Rosellinia castaneae Oudem. SPECIES
-=======
+# Rosellinia castaneae Oudem. SPECIES
 
 #### Status
 ACCEPTED

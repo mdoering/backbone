@@ -1,5 +1,4 @@
-Hysterium typhae Fuckel SPECIES
-=======
+# Hysterium typhae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella viticola Hollós SPECIES
-=======
+# Sphaerella viticola Hollós SPECIES
 
 #### Status
 ACCEPTED

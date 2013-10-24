@@ -1,5 +1,4 @@
-Lasionectria (Sacc.) Cooke GENUS
-=======
+# Lasionectria (Sacc.) Cooke GENUS
 
 #### Status
 ACCEPTED

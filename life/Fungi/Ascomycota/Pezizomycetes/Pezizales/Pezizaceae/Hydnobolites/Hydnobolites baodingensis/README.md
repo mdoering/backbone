@@ -1,5 +1,4 @@
-Hydnobolites baodingensis E. Wu & Z. Lan SPECIES
-=======
+# Hydnobolites baodingensis E. Wu & Z. Lan SPECIES
 
 #### Status
 ACCEPTED

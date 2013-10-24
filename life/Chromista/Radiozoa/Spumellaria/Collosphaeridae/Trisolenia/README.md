@@ -1,5 +1,4 @@
-Trisolenia Ehrenberg, 1860 GENUS
-=======
+# Trisolenia Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

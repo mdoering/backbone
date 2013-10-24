@@ -1,5 +1,4 @@
-Ovularia symphyti-cordati Savul. & Sandu SPECIES
-=======
+# Ovularia symphyti-cordati Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

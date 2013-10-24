@@ -1,5 +1,4 @@
-Mycelium granulatum Dasz. SPECIES
-=======
+# Mycelium granulatum Dasz. SPECIES
 
 #### Status
 ACCEPTED

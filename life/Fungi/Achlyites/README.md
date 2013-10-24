@@ -1,5 +1,4 @@
-Achlyites Mesch. GENUS
-=======
+# Achlyites Mesch. GENUS
 
 #### Status
 ACCEPTED

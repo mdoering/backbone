@@ -1,5 +1,4 @@
-Dimerosporium imperspicuum Speg. SPECIES
-=======
+# Dimerosporium imperspicuum Speg. SPECIES
 
 #### Status
 ACCEPTED

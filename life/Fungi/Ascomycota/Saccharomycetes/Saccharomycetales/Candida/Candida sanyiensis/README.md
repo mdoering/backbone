@@ -1,5 +1,4 @@
-Candida sanyiensis C.F. Lee & C.H. Liu SPECIES
-=======
+# Candida sanyiensis C.F. Lee & C.H. Liu SPECIES
 
 #### Status
 ACCEPTED

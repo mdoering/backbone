@@ -1,14 +1,13 @@
-Ramularia polliniae (Henn.) U. Braun SPECIES
-=======
+# Pleurovularia polliniae (Henn.) R. Kirschner & U. Braun, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 3(2-3): 282 (1988)
+Mycoscience 43(1): 18 (2002)
 
 #### Original name
 Ovularia polliniae Henn.

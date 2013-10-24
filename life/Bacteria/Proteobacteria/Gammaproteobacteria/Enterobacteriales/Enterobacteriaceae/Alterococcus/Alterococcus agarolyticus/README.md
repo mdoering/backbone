@@ -1,5 +1,4 @@
-Alterococcus agarolyticus Shieh & Jean, 1999 SPECIES
-=======
+# Alterococcus agarolyticus Shieh & Jean, 1999 SPECIES
 
 #### Status
 ACCEPTED

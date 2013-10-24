@@ -1,5 +1,4 @@
-Cyclicargolithus bukryi S.W. Wise SPECIES
-=======
+# Cyclicargolithus bukryi S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

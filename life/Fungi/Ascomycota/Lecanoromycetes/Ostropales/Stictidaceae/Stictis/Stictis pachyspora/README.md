@@ -1,5 +1,4 @@
-Stictis pachyspora (Rehm) Rehm SPECIES
-=======
+# Stictis pachyspora (Rehm) Rehm SPECIES
 
 #### Status
 ACCEPTED

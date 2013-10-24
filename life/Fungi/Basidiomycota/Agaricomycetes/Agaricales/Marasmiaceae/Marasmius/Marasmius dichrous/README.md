@@ -1,5 +1,4 @@
-Marasmius dichrous Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius dichrous Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

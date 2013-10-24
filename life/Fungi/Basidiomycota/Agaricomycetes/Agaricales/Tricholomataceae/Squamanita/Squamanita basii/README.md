@@ -1,5 +1,4 @@
-Squamanita basii Harmaja SPECIES
-=======
+# Squamanita basii Harmaja SPECIES
 
 #### Status
 ACCEPTED

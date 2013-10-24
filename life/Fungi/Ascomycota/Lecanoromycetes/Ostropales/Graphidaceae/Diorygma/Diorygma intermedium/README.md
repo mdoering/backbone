@@ -1,5 +1,4 @@
-Diorygma intermedium Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma intermedium Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaerella deceptiva M.E. Barr SPECIES
-=======
+# Amphisphaerella deceptiva M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

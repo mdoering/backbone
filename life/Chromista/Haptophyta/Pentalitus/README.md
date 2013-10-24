@@ -1,5 +1,4 @@
-Pentalitus GENUS
-=======
+# Pentalitus GENUS
 
 #### Status
 ACCEPTED

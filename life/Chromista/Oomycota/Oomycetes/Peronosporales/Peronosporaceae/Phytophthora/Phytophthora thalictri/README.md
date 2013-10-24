@@ -1,5 +1,4 @@
-Phytophthora thalictri G.W. Wilson & Davis SPECIES
-=======
+# Phytophthora thalictri G.W. Wilson & Davis SPECIES
 
 #### Status
 ACCEPTED

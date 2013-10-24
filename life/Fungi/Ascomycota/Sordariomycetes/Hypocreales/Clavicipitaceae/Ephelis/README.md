@@ -1,5 +1,4 @@
-Ephelis E.M. Fries, 1849 GENUS
-=======
+# Ephelis E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

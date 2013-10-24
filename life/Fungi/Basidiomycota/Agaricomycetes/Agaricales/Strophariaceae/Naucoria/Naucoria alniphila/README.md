@@ -1,5 +1,4 @@
-Naucoria alniphila Zeller SPECIES
-=======
+# Naucoria alniphila Zeller SPECIES
 
 #### Status
 ACCEPTED

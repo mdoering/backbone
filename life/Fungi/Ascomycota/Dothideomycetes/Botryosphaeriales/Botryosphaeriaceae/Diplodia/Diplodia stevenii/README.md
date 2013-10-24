@@ -1,17 +1,16 @@
-Diplodia steveni Gucevic SPECIES
-=======
+# Diplodia stevenii Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Vestn. Leningr. Univ. , Serie Biologiya 9(2): 116 (1968)
 
 #### Original name
-Diplodia steveni Gucevic
+Diplodia stevenii Gucevic
 
 ### Remarks
 null

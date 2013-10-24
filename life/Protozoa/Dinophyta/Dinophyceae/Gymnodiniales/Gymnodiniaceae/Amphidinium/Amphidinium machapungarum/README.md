@@ -1,5 +1,4 @@
-Amphidinium machapungarum P.H.Campbell, 1973 SPECIES
-=======
+# Amphidinium machapungarum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

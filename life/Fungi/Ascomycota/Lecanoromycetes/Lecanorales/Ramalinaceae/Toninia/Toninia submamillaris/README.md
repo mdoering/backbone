@@ -1,5 +1,4 @@
-Toninia submamillaris (Flagey) SPECIES
-=======
+# Toninia submamillaris (Flagey) SPECIES
 
 #### Status
 ACCEPTED

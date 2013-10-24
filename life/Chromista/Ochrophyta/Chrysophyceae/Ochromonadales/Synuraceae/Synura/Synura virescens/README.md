@@ -1,5 +1,4 @@
-Synura virescens (Bory) Playfair SPECIES
-=======
+# Synura virescens (Bory) Playfair SPECIES
 
 #### Status
 ACCEPTED

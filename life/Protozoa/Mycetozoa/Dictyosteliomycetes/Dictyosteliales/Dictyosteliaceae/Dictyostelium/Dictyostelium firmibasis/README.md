@@ -1,5 +1,4 @@
-Dictyostelium firmibasis H. Hagiw. SPECIES
-=======
+# Dictyostelium firmibasis H. Hagiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporonites taiwanensis T.C. Huang SPECIES
-=======
+# Microsporonites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

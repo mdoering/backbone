@@ -1,5 +1,4 @@
-Delicatula juliana Velen. SPECIES
-=======
+# Delicatula juliana Velen. SPECIES
 
 #### Status
 ACCEPTED

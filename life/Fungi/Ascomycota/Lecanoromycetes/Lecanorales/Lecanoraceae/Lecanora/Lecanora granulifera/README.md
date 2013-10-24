@@ -1,5 +1,4 @@
-Lecanora granulifera (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora granulifera (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

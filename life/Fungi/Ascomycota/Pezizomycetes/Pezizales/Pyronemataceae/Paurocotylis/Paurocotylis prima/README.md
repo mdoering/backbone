@@ -1,5 +1,4 @@
-Paurocotylis prima Rick SPECIES
-=======
+# Paurocotylis prima Rick SPECIES
 
 #### Status
 ACCEPTED

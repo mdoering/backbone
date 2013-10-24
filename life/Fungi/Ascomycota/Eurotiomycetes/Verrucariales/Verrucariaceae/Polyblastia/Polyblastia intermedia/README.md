@@ -1,5 +1,4 @@
-Polyblastia intermedia Th. Fr. SPECIES
-=======
+# Polyblastia intermedia Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

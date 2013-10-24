@@ -1,5 +1,4 @@
-Amphidoma Stein, 1883 GENUS
-=======
+# Amphidoma Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

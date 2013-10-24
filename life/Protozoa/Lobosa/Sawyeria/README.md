@@ -1,5 +1,4 @@
-Sawyeria O'Kelly, Silberman, Amaral Zettler, Nerad & Sogin, 2003 GENUS
-=======
+# Sawyeria O'Kelly, Silberman, Amaral Zettler, Nerad & Sogin, 2003 GENUS
 
 #### Status
 ACCEPTED

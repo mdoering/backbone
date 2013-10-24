@@ -1,5 +1,4 @@
-Phomopsis phyteumatis Petr. SPECIES
-=======
+# Phomopsis phyteumatis Petr. SPECIES
 
 #### Status
 ACCEPTED

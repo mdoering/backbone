@@ -1,17 +1,16 @@
-Atylospora weberi Murrill SPECIES
-=======
+# Astylospora weberi Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 5: 153 (1942)
 
 #### Original name
-Atylospora weberi Murrill
+Astylospora weberi Murrill
 
 ### Remarks
 null

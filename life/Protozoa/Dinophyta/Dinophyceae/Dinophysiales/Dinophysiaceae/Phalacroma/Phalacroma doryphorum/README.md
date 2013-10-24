@@ -1,5 +1,4 @@
-Phalacroma doryphorum Stein SPECIES
-=======
+# Phalacroma doryphorum Stein SPECIES
 
 #### Status
 ACCEPTED

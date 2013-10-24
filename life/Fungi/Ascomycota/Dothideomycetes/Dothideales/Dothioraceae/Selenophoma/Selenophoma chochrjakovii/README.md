@@ -1,5 +1,4 @@
-Selenophoma chochrjakovii Hüseyin SPECIES
-=======
+# Selenophoma chochrjakovii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

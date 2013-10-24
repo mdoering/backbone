@@ -1,5 +1,4 @@
-Verrucaria annularis (Fée) Spreng. SPECIES
-=======
+# Verrucaria annularis (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma radicatum (Cooke) Maire SPECIES
-=======
+# Hebeloma radicatum (Cooke) Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus rotundato-apicalis Noda & Honda SPECIES
-=======
+# Ectocarpus rotundato-apicalis Noda & Honda SPECIES
 
 #### Status
 ACCEPTED

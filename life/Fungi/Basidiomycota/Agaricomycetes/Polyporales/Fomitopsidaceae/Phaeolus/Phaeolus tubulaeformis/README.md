@@ -1,5 +1,4 @@
-Phaeolus tubulaeformis (Berk.) Pat. SPECIES
-=======
+# Phaeolus tubulaeformis (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

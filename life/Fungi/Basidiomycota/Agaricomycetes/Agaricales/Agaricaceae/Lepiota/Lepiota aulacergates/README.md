@@ -1,5 +1,4 @@
-Lepiota aulacergates (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota aulacergates (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma oenotherae Tassi SPECIES
-=======
+# Macrophoma oenotherae Tassi SPECIES
 
 #### Status
 ACCEPTED

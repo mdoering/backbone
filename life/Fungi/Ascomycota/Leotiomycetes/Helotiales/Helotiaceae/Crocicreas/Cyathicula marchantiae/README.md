@@ -1,5 +1,4 @@
-Cyathicula marchantiae (Sommerf.) Sacc. SPECIES
-=======
+# Cyathicula marchantiae (Sommerf.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

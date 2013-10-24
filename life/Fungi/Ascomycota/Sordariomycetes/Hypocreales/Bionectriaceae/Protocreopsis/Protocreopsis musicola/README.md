@@ -1,5 +1,4 @@
-Protocreopsis musicola Yoshim. Doi SPECIES
-=======
+# Protocreopsis musicola Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

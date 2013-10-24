@@ -1,5 +1,4 @@
-Hypocrea catoptron Berk. & Broome SPECIES
-=======
+# Hypocrea catoptron Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

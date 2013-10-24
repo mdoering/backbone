@@ -1,5 +1,4 @@
-Cornuvia anomala P. Karst. SPECIES
-=======
+# Cornuvia anomala P. Karst. SPECIES
 
 #### Status
 ACCEPTED

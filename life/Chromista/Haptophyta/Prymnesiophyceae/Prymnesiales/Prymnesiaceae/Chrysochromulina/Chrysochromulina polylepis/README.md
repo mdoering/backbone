@@ -1,5 +1,4 @@
-Chrysochromulina polylepis Manton & Parke SPECIES
-=======
+# Chrysochromulina polylepis Manton & Parke SPECIES
 
 #### Status
 ACCEPTED

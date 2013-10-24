@@ -1,8 +1,7 @@
-Myrionema tenue Noda & Honda SPECIES
-=======
+# Myrionema terminale Noda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

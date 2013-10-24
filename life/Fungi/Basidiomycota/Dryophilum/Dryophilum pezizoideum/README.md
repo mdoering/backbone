@@ -1,5 +1,4 @@
-Dryophilum pezizoideum Schwein. SPECIES
-=======
+# Dryophilum pezizoideum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia yamadae Ishik. ex Terada SPECIES
-=======
+# Laboulbenia yamadae Ishik. ex Terada SPECIES
 
 #### Status
 ACCEPTED

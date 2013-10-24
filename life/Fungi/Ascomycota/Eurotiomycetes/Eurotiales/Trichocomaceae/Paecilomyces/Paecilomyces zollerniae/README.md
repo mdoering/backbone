@@ -1,5 +1,4 @@
-Paecilomyces zollerniae Stolk & Samson SPECIES
-=======
+# Paecilomyces zollerniae Stolk & Samson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diehlia phaeospora Petr., 1951 SPECIES
-=======
+# Diehlia phaeospora Petr., 1951 SPECIES
 
 #### Status
 ACCEPTED

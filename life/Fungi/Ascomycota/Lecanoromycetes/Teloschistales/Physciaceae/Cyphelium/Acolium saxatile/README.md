@@ -1,5 +1,4 @@
-Acolium saxatile SPECIES
-=======
+# Acolium saxatile SPECIES
 
 #### Status
 ACCEPTED

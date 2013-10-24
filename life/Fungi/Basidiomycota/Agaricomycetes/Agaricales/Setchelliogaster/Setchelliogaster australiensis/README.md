@@ -1,5 +1,4 @@
-Setchelliogaster australiensis G.W. Beaton, Pegler & T.W.K. Young, 1985 SPECIES
-=======
+# Setchelliogaster australiensis G.W. Beaton, Pegler & T.W.K. Young, 1985 SPECIES
 
 #### Status
 ACCEPTED

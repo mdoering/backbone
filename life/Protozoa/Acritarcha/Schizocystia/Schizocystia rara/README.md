@@ -1,5 +1,4 @@
-Schizocystia rara Playford & Dettmann, 1965 SPECIES
-=======
+# Schizocystia rara Playford & Dettmann, 1965 SPECIES
 
 #### Status
 ACCEPTED

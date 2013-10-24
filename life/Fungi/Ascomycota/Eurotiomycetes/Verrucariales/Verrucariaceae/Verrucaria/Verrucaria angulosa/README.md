@@ -1,5 +1,4 @@
-Verrucaria angulosa (Schreb.) Hoffm. SPECIES
-=======
+# Verrucaria angulosa (Schreb.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

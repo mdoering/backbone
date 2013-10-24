@@ -1,5 +1,4 @@
-Hyphomonas johnsonii Weiner et al., 2000 SPECIES
-=======
+# Hyphomonas johnsonii Weiner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora socialis f. socialis FORM
-=======
+# Pleospora socialis Niessl & Kunze SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora socialis f. socialis
+Pleospora socialis Niessl & Kunze
 
 ### Remarks
 null

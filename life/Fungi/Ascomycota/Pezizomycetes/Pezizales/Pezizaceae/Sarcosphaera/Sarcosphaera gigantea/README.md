@@ -1,5 +1,4 @@
-Sarcosphaera gigantea (Rehm) Kanouse SPECIES
-=======
+# Sarcosphaera gigantea (Rehm) Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton otae Dowding SPECIES
-=======
+# Trichophyton otae Dowding SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea yunnanensis S.R. Wang & M. Piepenbr. SPECIES
-=======
+# Anthracoidea yunnanensis S.R. Wang & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ostruthii Saut. SPECIES
-=======
+# Peziza ostruthii Saut. SPECIES
 
 #### Status
 ACCEPTED

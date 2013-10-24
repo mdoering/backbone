@@ -1,14 +1,13 @@
-Gnomonia iliau Lyon, 1912 SPECIES
-=======
+# Clypeoporthe iliau (Lyon) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report Exp. Stat. Hawaiian Sugar Planters' Assoc. , Path. & Phys. Bull no. 11: 32 (1912)
+Mycol. Mem. 7: 79 (1978)
 
 #### Original name
 Gnomonia iliau Lyon, 1912

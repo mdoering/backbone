@@ -1,5 +1,4 @@
-Cercospora sechii J.A. Stev., 1919 SPECIES
-=======
+# Cercospora sechii J.A. Stev., 1919 SPECIES
 
 #### Status
 ACCEPTED

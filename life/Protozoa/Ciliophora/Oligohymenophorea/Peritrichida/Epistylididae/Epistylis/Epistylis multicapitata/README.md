@@ -1,5 +1,4 @@
-Epistylis multicapitata Gajewskaja, 1933 SPECIES
-=======
+# Epistylis multicapitata Gajewskaja, 1933 SPECIES
 
 #### Status
 ACCEPTED

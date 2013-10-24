@@ -1,5 +1,4 @@
-Puccinia nishidana Henn. SPECIES
-=======
+# Puccinia nishidana Henn. SPECIES
 
 #### Status
 ACCEPTED

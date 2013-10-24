@@ -1,5 +1,4 @@
-Prauserella Kim & Goodfellow, 1999 GENUS
-=======
+# Prauserella Kim & Goodfellow, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leprocaulon tenellum Tuck. SPECIES
-=======
+# Leprocaulon tenellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

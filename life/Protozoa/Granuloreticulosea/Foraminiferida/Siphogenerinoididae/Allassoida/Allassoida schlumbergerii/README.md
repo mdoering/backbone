@@ -1,8 +1,7 @@
-Bigenerina schlumbergerii Millett, 1900 SPECIES
-=======
+# Allassoida schlumbergerii (Millett, 1900) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

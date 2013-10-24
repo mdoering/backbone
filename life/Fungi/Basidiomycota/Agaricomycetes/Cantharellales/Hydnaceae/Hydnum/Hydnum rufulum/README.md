@@ -1,5 +1,4 @@
-Hydnum rufulum Lév. SPECIES
-=======
+# Hydnum rufulum Lév. SPECIES
 
 #### Status
 ACCEPTED

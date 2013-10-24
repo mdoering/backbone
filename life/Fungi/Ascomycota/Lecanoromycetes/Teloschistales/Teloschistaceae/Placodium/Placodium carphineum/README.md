@@ -1,5 +1,4 @@
-Placodium carphineum (Fr.) Poetsch SPECIES
-=======
+# Placodium carphineum (Fr.) Poetsch SPECIES
 
 #### Status
 ACCEPTED

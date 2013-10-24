@@ -1,17 +1,16 @@
-Peridermium himalayense Bagchee, 1929 SPECIES
-=======
+# Cronartium himalayense Bagchee, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Forest Records, Botany 14(3): 92 (1929)
+Indian Forest Records, Botany 18(9): 16 (1933)
 
 #### Original name
-Peridermium himalayense Bagchee, 1929
+Cronartium himalayense Bagchee, 1933
 
 ### Remarks
 null

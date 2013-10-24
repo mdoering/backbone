@@ -1,5 +1,4 @@
-Micromyces zygnemicola (Cejp) Sparrow SPECIES
-=======
+# Micromyces zygnemicola (Cejp) Sparrow SPECIES
 
 #### Status
 ACCEPTED

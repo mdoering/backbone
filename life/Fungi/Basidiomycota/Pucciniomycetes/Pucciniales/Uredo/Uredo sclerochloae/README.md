@@ -1,5 +1,4 @@
-Uredo sclerochloae Har. SPECIES
-=======
+# Uredo sclerochloae Har. SPECIES
 
 #### Status
 ACCEPTED

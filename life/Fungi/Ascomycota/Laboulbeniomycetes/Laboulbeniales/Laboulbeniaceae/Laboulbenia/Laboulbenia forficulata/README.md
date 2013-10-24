@@ -1,5 +1,4 @@
-Laboulbenia forficulata Thaxt. SPECIES
-=======
+# Laboulbenia forficulata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

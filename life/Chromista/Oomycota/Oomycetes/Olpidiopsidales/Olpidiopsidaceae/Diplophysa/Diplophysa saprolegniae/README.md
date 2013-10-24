@@ -1,5 +1,4 @@
-Diplophysa saprolegniae (A. Braun) J. Schröt. SPECIES
-=======
+# Diplophysa saprolegniae (A. Braun) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

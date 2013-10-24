@@ -1,5 +1,4 @@
-Grandinia microthelia Lév. SPECIES
-=======
+# Grandinia microthelia Lév. SPECIES
 
 #### Status
 ACCEPTED

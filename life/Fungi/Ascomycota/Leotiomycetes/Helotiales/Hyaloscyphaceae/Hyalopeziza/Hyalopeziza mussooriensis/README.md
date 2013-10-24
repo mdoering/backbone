@@ -1,5 +1,4 @@
-Hyalopeziza mussooriensis M.P. Sharma SPECIES
-=======
+# Hyalopeziza mussooriensis M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

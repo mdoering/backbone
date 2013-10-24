@@ -1,5 +1,4 @@
-Leptosphaeria sinapis Hollós SPECIES
-=======
+# Leptosphaeria sinapis Hollós SPECIES
 
 #### Status
 ACCEPTED

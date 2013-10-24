@@ -1,5 +1,4 @@
-Patellaria rudiuscula Müll. Arg. SPECIES
-=======
+# Patellaria rudiuscula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

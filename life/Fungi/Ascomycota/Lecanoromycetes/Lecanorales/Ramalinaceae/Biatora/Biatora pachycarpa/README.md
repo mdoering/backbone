@@ -1,5 +1,4 @@
-Biatora pachycarpa (Delise ex Duby) Fr. SPECIES
-=======
+# Biatora pachycarpa (Delise ex Duby) Fr. SPECIES
 
 #### Status
 ACCEPTED

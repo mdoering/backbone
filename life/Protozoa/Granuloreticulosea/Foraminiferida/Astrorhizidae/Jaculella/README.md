@@ -1,14 +1,13 @@
-Jacutella Carus, 1879 GENUS
-=======
+# Jaculella Brady, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zool. Anz. , 2, 126.
+Quart. J. Micr. Sci. , (N. S. ) 19, 35.
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Sablecola chinensis E.B.G. Jones, K.L. Pang & Vrijmoed SPECIES
-=======
+# Sablicola chinensis E.B.G. Jones, K.L. Pang & Vrijmoed, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pang, Jones & Vrijmoed, Can. J. Bot. 82(4): 486 (2004)
 
 #### Original name
-Sablecola chinensis E.B.G. Jones, K.L. Pang & Vrijmoed
+Sablicola chinensis E.B.G. Jones, K.L. Pang & Vrijmoed, 2004
 
 ### Remarks
 null

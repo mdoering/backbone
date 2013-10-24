@@ -1,5 +1,4 @@
-Penicillium plicatum Bonord. SPECIES
-=======
+# Penicillium plicatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

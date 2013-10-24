@@ -1,5 +1,4 @@
-Spirophthalmidium scabrum Loeblich & Tappan, 1994 SPECIES
-=======
+# Spirophthalmidium scabrum Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

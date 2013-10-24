@@ -1,5 +1,4 @@
-Lecidea contracta (Th. Fr.) Arnold SPECIES
-=======
+# Lecidea contracta (Th. Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

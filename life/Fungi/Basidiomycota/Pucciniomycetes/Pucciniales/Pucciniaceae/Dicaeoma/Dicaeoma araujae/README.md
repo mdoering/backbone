@@ -1,5 +1,4 @@
-Dicaeoma araujae (Lév.) Kuntze SPECIES
-=======
+# Dicaeoma araujae (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

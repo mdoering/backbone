@@ -1,5 +1,4 @@
-Extrusothecium Matsush. GENUS
-=======
+# Extrusothecium Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria chrysites Wallr. SPECIES
-=======
+# Sphaeria chrysites Wallr. SPECIES
 
 #### Status
 ACCEPTED

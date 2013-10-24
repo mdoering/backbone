@@ -1,14 +1,13 @@
-Pleospora avicenniae Borse SPECIES
-=======
+# Julella avicenniae (Borse) K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Curr. Sci. 56(21): 1109 (1987)
+Mycol. Res. 96(11): 939 (1992)
 
 #### Original name
 Pleospora avicenniae Borse

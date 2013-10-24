@@ -1,14 +1,13 @@
-Cyphelium sancti-jacobi (Tuck.) Zahlbr. SPECIES
-=======
+# Texosporium sancti-jacobi (Tuck.) Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 670 (1922)
+Mycologia 60(3): 557 (1968)
 
 #### Original name
 Acolium sancti-jacobi Tuck.

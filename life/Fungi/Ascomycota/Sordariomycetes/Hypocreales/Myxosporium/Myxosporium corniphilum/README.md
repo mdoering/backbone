@@ -1,5 +1,4 @@
-Myxosporium corniphilum Oudem. SPECIES
-=======
+# Myxosporium corniphilum Oudem. SPECIES
 
 #### Status
 ACCEPTED

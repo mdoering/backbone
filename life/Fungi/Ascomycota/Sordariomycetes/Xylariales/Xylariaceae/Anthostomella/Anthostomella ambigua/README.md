@@ -1,5 +1,4 @@
-Anthostomella ambigua (Fabre) Rappaz SPECIES
-=======
+# Anthostomella ambigua (Fabre) Rappaz SPECIES
 
 #### Status
 ACCEPTED

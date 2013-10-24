@@ -1,5 +1,4 @@
-Phialea lutescens P. Karst. SPECIES
-=======
+# Phialea lutescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora hirschii (Donk) D.P. Rogers SPECIES
-=======
+# Trechispora hirschii (Donk) D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

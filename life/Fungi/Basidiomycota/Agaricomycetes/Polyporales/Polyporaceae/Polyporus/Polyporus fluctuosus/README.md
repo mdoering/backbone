@@ -1,5 +1,4 @@
-Polyporus fluctuosus Weinm. SPECIES
-=======
+# Polyporus fluctuosus Weinm. SPECIES
 
 #### Status
 ACCEPTED

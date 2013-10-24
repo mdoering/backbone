@@ -1,14 +1,13 @@
-Sphaerophorus tibellii Wedin SPECIES
-=======
+# Bunodophoron tibellii (Wedin) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 24(2): 129 (1992)
+Pl. Syst. Evol. 187(1-4): 234 (1993)
 
 #### Original name
 Sphaerophorus tibellii Wedin

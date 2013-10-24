@@ -1,5 +1,4 @@
-Peziza caerulescens Pers. SPECIES
-=======
+# Peziza caerulescens Pers. SPECIES
 
 #### Status
 ACCEPTED

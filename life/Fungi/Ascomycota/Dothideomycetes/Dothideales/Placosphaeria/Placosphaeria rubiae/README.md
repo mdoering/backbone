@@ -1,5 +1,4 @@
-Placosphaeria rubiae Kalymb. SPECIES
-=======
+# Placosphaeria rubiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

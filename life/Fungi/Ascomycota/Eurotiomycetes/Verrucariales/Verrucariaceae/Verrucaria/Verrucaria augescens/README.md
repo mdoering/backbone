@@ -1,5 +1,4 @@
-Verrucaria augescens Nyl. SPECIES
-=======
+# Verrucaria augescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

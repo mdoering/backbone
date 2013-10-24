@@ -1,5 +1,4 @@
-Cyphelium microsporum (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Cyphelium microsporum (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

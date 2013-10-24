@@ -1,5 +1,4 @@
-Stipulella V.P. Maslov, 1956 GENUS
-=======
+# Stipulella V.P. Maslov, 1956 GENUS
 
 #### Status
 ACCEPTED

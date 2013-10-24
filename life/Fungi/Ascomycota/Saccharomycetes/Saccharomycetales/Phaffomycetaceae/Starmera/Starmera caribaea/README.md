@@ -1,5 +1,4 @@
-Starmera caribaea (Phaff, Starmer, Lachance, V. Aberdeen & Tredick) Y. Yamada, H. Kawas., Nagats., Mikata & Tats. Seki SPECIES
-=======
+# Starmera caribaea (Phaff, Starmer, Lachance, V. Aberdeen & Tredick) Y. Yamada, H. Kawas., Nagats., Mikata & Tats. Seki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemaspora leucomyxa Corda SPECIES
-=======
+# Naemaspora leucomyxa Corda SPECIES
 
 #### Status
 ACCEPTED

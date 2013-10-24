@@ -1,5 +1,4 @@
-Bacidia caesiomarginata (Kernst.) Lettau SPECIES
-=======
+# Bacidia caesiomarginata (Kernst.) Lettau SPECIES
 
 #### Status
 ACCEPTED

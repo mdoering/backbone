@@ -1,5 +1,4 @@
-Filaspora tunicae (Sacc.) Kuntze SPECIES
-=======
+# Filaspora tunicae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

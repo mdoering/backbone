@@ -1,5 +1,4 @@
-Polyporus araneosus Cooke SPECIES
-=======
+# Polyporus araneosus Cooke SPECIES
 
 #### Status
 ACCEPTED

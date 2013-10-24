@@ -1,5 +1,4 @@
-Lecidea hillmannii Anders SPECIES
-=======
+# Lecidea hillmannii Anders SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Stilophora paradoxa (Roth) Areschoug SPECIES
-=======
+# Spermatochnus paradoxus Kuetz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

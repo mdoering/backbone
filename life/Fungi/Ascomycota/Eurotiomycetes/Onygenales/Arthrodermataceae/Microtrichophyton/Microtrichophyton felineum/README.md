@@ -1,5 +1,4 @@
-Microtrichophyton felineum (R. Blanch.) Neveu-Lem. SPECIES
-=======
+# Microtrichophyton felineum (R. Blanch.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

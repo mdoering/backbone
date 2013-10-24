@@ -1,5 +1,4 @@
-Xenosphaeria heterophracta (Nyl.) Arnold SPECIES
-=======
+# Xenosphaeria heterophracta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

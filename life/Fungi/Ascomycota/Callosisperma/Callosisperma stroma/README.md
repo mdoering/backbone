@@ -1,5 +1,4 @@
-Callosisperma stroma Preuss SPECIES
-=======
+# Callosisperma stroma Preuss SPECIES
 
 #### Status
 ACCEPTED

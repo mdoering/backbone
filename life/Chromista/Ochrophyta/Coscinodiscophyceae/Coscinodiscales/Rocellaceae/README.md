@@ -1,5 +1,4 @@
-Rocellaceae FAMILY
-=======
+# Rocellaceae FAMILY
 
 #### Status
 ACCEPTED

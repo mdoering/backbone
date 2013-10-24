@@ -1,5 +1,4 @@
-Pseudocercospora meliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora meliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

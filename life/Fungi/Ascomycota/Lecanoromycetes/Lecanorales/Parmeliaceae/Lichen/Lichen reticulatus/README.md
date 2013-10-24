@@ -1,5 +1,4 @@
-Lichen reticulatus Retz. SPECIES
-=======
+# Lichen reticulatus Retz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoarachis Malloch & Cain GENUS
-=======
+# Mycoarachis Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

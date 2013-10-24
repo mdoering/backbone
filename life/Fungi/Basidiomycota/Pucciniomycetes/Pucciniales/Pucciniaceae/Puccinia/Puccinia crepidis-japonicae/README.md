@@ -1,5 +1,4 @@
-Puccinia crepidis-japonicae (Lindr.) Dietel SPECIES
-=======
+# Puccinia crepidis-japonicae (Lindr.) Dietel SPECIES
 
 #### Status
 ACCEPTED

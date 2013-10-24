@@ -1,5 +1,4 @@
-Heppia echinulata Marton & Galun SPECIES
-=======
+# Heppia echinulata Marton & Galun SPECIES
 
 #### Status
 ACCEPTED

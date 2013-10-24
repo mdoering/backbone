@@ -1,17 +1,16 @@
-Polyporus testudo Berk. & Broome, 1882 SPECIES
-=======
+# Nigroporus durus (Jungh.) Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. , Ser. 2 2: 59 (1882)
+Bull. Torrey bot. Club 34: 471 (1907)
 
 #### Original name
-Polyporus testudo Berk. & Broome, 1882
+Polyporus durus (Timm) Kreisel, 1984
 
 ### Remarks
 null

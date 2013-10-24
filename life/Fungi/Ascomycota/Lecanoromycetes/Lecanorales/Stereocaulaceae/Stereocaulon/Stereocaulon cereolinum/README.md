@@ -1,5 +1,4 @@
-Stereocaulon cereolinum Ach. SPECIES
-=======
+# Stereocaulon cereolinum Ach. SPECIES
 
 #### Status
 ACCEPTED

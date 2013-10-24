@@ -1,5 +1,4 @@
-Peziza infossa Fogel & States SPECIES
-=======
+# Peziza infossa Fogel & States SPECIES
 
 #### Status
 ACCEPTED

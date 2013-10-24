@@ -1,5 +1,4 @@
-Rhabdospora spiraeina Kirschst. SPECIES
-=======
+# Rhabdospora spiraeina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

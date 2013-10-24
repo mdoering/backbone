@@ -1,5 +1,4 @@
-Haptorida Corliss, 1974 ORDER
-=======
+# Haptorida Corliss, 1974 ORDER
 
 #### Status
 ACCEPTED

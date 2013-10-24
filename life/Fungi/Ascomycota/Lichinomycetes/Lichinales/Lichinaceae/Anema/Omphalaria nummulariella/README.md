@@ -1,5 +1,4 @@
-Omphalaria nummulariella (Nyl.) Hue SPECIES
-=======
+# Omphalaria nummulariella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

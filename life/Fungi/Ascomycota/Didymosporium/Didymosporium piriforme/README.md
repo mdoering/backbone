@@ -1,5 +1,4 @@
-Didymosporium piriforme Riess SPECIES
-=======
+# Didymosporium piriforme Riess SPECIES
 
 #### Status
 ACCEPTED

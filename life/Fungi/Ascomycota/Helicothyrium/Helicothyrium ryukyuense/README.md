@@ -1,5 +1,4 @@
-Helicothyrium ryukyuense I. Hino & Katum., 1961 SPECIES
-=======
+# Helicothyrium ryukyuense I. Hino & Katum., 1961 SPECIES
 
 #### Status
 ACCEPTED

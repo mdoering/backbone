@@ -1,5 +1,4 @@
-Trichopeziza gmelini (Weinm.) Sacc. SPECIES
-=======
+# Trichopeziza gmelini (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

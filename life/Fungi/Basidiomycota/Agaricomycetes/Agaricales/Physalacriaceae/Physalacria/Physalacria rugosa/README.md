@@ -1,5 +1,4 @@
-Physalacria rugosa Rick SPECIES
-=======
+# Physalacria rugosa Rick SPECIES
 
 #### Status
 ACCEPTED

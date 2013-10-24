@@ -1,5 +1,4 @@
-Dendrosarcus lamellatus (Pollini) Kuntze SPECIES
-=======
+# Dendrosarcus lamellatus (Pollini) Kuntze SPECIES
 
 #### Status
 ACCEPTED

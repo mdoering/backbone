@@ -1,5 +1,4 @@
-Stentor conicum Vuxanovici, 1962 SPECIES
-=======
+# Stentor conicum Vuxanovici, 1962 SPECIES
 
 #### Status
 ACCEPTED

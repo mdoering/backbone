@@ -1,5 +1,4 @@
-Leptopeltis japonica Katum. SPECIES
-=======
+# Leptopeltis japonica Katum. SPECIES
 
 #### Status
 ACCEPTED

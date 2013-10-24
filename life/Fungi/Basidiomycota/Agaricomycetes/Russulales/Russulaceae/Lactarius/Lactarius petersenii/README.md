@@ -1,5 +1,4 @@
-Lactarius petersenii Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius petersenii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

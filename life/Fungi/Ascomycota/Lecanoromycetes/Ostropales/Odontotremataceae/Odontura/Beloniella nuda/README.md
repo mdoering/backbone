@@ -1,5 +1,4 @@
-Beloniella nuda Gucevic SPECIES
-=======
+# Beloniella nuda Gucevic SPECIES
 
 #### Status
 ACCEPTED

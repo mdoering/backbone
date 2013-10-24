@@ -1,5 +1,4 @@
-Melanospora collipora Stchigel & Guarro SPECIES
-=======
+# Melanospora collipora Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

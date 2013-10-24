@@ -1,5 +1,4 @@
-Phillipsiella atra Cooke, 1878 SPECIES
-=======
+# Phillipsiella atra Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

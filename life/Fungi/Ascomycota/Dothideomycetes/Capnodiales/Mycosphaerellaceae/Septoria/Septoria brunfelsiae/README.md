@@ -1,5 +1,4 @@
-Septoria brunfelsiae Bond.-Mont. SPECIES
-=======
+# Septoria brunfelsiae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

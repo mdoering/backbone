@@ -1,5 +1,4 @@
-Phaeodiscula pezizoides (Rabenh.) Sacc. & Traverso SPECIES
-=======
+# Phaeodiscula pezizoides (Rabenh.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

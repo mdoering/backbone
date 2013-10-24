@@ -1,5 +1,4 @@
-Cenangium atrofuscum S.H. Ou SPECIES
-=======
+# Cenangium atrofuscum S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

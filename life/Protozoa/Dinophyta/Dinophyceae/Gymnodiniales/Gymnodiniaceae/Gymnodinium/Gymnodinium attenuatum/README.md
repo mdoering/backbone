@@ -1,5 +1,4 @@
-Gymnodinium attenuatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium attenuatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

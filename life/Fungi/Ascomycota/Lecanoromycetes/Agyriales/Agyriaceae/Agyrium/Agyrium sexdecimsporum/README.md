@@ -1,5 +1,4 @@
-Agyrium sexdecimsporum Fuckel SPECIES
-=======
+# Agyrium sexdecimsporum Fuckel SPECIES
 
 #### Status
 ACCEPTED

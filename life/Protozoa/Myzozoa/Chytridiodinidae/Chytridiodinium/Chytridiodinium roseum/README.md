@@ -1,5 +1,4 @@
-Chytridiodinium roseum (Dogiel, 1906) SPECIES
-=======
+# Chytridiodinium roseum (Dogiel, 1906) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgariella P. Karsten, 1885 GENUS
-=======
+# Bulgariella P. Karsten, 1885 GENUS
 
 #### Status
 ACCEPTED

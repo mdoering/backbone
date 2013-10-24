@@ -1,5 +1,4 @@
-Guilliermondia elongata Konok. SPECIES
-=======
+# Guilliermondia elongata Konok. SPECIES
 
 #### Status
 ACCEPTED

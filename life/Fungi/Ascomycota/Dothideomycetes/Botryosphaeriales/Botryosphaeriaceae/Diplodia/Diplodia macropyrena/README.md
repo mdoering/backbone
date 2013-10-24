@@ -1,5 +1,4 @@
-Diplodia macropyrena Tassi SPECIES
-=======
+# Diplodia macropyrena Tassi SPECIES
 
 #### Status
 ACCEPTED

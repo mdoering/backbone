@@ -1,5 +1,4 @@
-Orbitoididae FAMILY
-=======
+# Orbitoididae FAMILY
 
 #### Status
 ACCEPTED

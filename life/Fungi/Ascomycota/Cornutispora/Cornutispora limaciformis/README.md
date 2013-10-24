@@ -1,5 +1,4 @@
-Cornutispora limaciformis Piroz., 1973 SPECIES
-=======
+# Cornutispora limaciformis Piroz., 1973 SPECIES
 
 #### Status
 ACCEPTED

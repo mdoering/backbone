@@ -1,5 +1,4 @@
-Hydrogenophilus Hayashi et al., 1999 GENUS
-=======
+# Hydrogenophilus Hayashi et al., 1999 GENUS
 
 #### Status
 ACCEPTED

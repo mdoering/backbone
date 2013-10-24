@@ -1,5 +1,4 @@
-Granulites Nemkov, 1967 GENUS
-=======
+# Granulites Nemkov, 1967 GENUS
 
 #### Status
 ACCEPTED

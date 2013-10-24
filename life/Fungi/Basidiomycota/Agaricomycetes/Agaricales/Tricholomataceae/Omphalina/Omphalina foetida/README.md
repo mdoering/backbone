@@ -1,5 +1,4 @@
-Omphalina foetida (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Omphalina foetida (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

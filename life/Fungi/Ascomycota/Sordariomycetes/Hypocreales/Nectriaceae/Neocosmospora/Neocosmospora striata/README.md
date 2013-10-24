@@ -1,5 +1,4 @@
-Neocosmospora striata Udagawa & Y. Horie, 1975 SPECIES
-=======
+# Neocosmospora striata Udagawa & Y. Horie, 1975 SPECIES
 
 #### Status
 ACCEPTED

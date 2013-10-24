@@ -1,5 +1,4 @@
-Gymnodinium danicans P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium danicans P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

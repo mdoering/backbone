@@ -1,5 +1,4 @@
-Mycobacterium cosmeticum Cooksey et al., 2004 SPECIES
-=======
+# Mycobacterium cosmeticum Cooksey et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

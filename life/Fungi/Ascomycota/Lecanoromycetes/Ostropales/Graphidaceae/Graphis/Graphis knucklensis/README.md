@@ -1,5 +1,4 @@
-Graphis knucklensis Weerakoon, Wijeyaratne & Wolseley SPECIES
-=======
+# Graphis knucklensis Weerakoon, Wijeyaratne & Wolseley SPECIES
 
 #### Status
 ACCEPTED

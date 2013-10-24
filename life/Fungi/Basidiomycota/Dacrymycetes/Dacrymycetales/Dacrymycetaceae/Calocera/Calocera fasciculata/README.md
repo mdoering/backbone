@@ -1,5 +1,4 @@
-Calocera fasciculata Bonord. SPECIES
-=======
+# Calocera fasciculata Bonord. SPECIES
 
 #### Status
 ACCEPTED

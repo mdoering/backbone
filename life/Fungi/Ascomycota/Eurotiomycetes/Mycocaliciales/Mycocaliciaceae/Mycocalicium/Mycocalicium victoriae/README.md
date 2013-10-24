@@ -1,17 +1,16 @@
-Calicium victoriae var. gracile F. Wilson VARIETY
-=======
+# Mycocalicium victoriae (C. Knight ex F. Wilson) Nádv. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 143 (1893)
+null
 
 #### Original name
-Calicium victoriae var. gracile F. Wilson
+Calicium victoriae C. Knight ex F. Wilson
 
 ### Remarks
 null

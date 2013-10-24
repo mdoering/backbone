@@ -1,5 +1,4 @@
-Passalora ariae (Fuckel) U. Braun & Crous SPECIES
-=======
+# Passalora ariae (Fuckel) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

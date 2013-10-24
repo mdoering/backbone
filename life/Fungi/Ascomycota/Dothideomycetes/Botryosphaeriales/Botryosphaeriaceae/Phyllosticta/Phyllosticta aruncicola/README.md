@@ -1,5 +1,4 @@
-Phyllosticta aruncicola Lobik SPECIES
-=======
+# Phyllosticta aruncicola Lobik SPECIES
 
 #### Status
 ACCEPTED

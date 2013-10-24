@@ -1,5 +1,4 @@
-Chroococcus hansgirgii Schmidle SPECIES
-=======
+# Chroococcus hansgirgii Schmidle SPECIES
 
 #### Status
 ACCEPTED

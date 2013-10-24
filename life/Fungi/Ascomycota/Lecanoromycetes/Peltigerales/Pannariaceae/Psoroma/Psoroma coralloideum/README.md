@@ -1,5 +1,4 @@
-Psoroma coralloideum Nyl. SPECIES
-=======
+# Psoroma coralloideum Nyl. SPECIES
 
 #### Status
 ACCEPTED

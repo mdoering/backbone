@@ -1,14 +1,13 @@
-Clavaria portentosa Berk. & Broome, 1882 SPECIES
-=======
+# Aphelaria portentosa (Berk. & Broome) R.H. Petersen, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. , Ser. 2 2: 65 (1882)
+Mycotaxon 7(2): 391 (1978)
 
 #### Original name
 Clavaria portentosa Berk. & Broome, 1882

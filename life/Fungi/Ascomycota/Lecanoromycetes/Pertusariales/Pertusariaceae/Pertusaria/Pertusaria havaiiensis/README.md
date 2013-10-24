@@ -1,5 +1,4 @@
-Pertusaria havaiiensis Erichsen SPECIES
-=======
+# Pertusaria havaiiensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

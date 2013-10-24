@@ -1,5 +1,4 @@
-Naevia celtidis (A. Massal.) A. Massal. SPECIES
-=======
+# Naevia celtidis (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

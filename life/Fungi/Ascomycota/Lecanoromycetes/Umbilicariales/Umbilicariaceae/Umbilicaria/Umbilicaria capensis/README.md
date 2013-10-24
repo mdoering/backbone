@@ -1,5 +1,4 @@
-Umbilicaria capensis Frey SPECIES
-=======
+# Umbilicaria capensis Frey SPECIES
 
 #### Status
 ACCEPTED

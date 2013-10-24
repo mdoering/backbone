@@ -1,5 +1,4 @@
-Samara philippensis S.Vidal SPECIES
-=======
+# Samara philippensis S.Vidal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora allophylorum A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora allophylorum A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

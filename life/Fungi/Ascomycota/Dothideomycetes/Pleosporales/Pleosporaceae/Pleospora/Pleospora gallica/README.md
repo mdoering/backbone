@@ -1,5 +1,4 @@
-Pleospora gallica Brunaud ex Sacc. SPECIES
-=======
+# Pleospora gallica Brunaud ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtocaryum GENUS
-=======
+# Cyrtocaryum GENUS
 
 #### Status
 ACCEPTED

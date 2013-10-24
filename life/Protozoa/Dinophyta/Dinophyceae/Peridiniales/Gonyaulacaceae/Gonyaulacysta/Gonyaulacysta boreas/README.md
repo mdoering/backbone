@@ -1,5 +1,4 @@
-Gonyaulacysta boreas R. J. Davey SPECIES
-=======
+# Gonyaulacysta boreas R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

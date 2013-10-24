@@ -1,5 +1,4 @@
-Sanniopileus Dumitrica & Zügel, 2003 GENUS
-=======
+# Sanniopileus Dumitrica & Zügel, 2003 GENUS
 
 #### Status
 ACCEPTED

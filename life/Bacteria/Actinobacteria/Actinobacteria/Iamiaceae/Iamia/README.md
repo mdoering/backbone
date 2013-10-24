@@ -1,5 +1,4 @@
-Iamia Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2009 GENUS
-=======
+# Iamia Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2009 GENUS
 
 #### Status
 ACCEPTED

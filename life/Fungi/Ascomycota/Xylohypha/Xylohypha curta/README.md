@@ -1,14 +1,13 @@
-Oospora curta (Corda) Sacc. & Voglino SPECIES
-=======
+# Xylohypha curta (Corda) S. Hughes, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. 4: 24 (1886)
+in Deighton, Mycol. Pap. 78: 43 (1960)
 
 #### Original name
 Torula curta Corda, 1854

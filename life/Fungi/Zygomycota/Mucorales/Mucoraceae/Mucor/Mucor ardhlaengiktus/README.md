@@ -1,5 +1,4 @@
-Mucor ardhlaengiktus B.S. Mehrotra & B.M. Mehrotra, 1979 SPECIES
-=======
+# Mucor ardhlaengiktus B.S. Mehrotra & B.M. Mehrotra, 1979 SPECIES
 
 #### Status
 ACCEPTED

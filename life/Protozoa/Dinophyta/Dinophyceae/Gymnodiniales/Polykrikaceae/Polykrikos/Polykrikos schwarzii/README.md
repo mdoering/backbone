@@ -1,8 +1,7 @@
-Polykrikos auricularia Bergh SPECIES
-=======
+# Polykrikos schwarzii Bãtschli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

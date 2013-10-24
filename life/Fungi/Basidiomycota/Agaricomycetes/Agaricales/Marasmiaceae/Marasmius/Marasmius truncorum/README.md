@@ -1,5 +1,4 @@
-Marasmius truncorum var. truncorum Singer VARIETY
-=======
+# Marasmius truncorum Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fieldiana, Bot. 21: 58 (1989)
 
 #### Original name
-Marasmius truncorum var. truncorum Singer
+Marasmius truncorum Singer
 
 ### Remarks
 null

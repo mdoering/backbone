@@ -1,5 +1,4 @@
-Phyllosticta haynaldi Sacc. & Roum. SPECIES
-=======
+# Phyllosticta haynaldi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

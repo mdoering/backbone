@@ -1,5 +1,4 @@
-Agaricus ananiceps Berk. SPECIES
-=======
+# Agaricus ananiceps Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia salvadorae SPECIES
-=======
+# Diplodia salvadorae SPECIES
 
 #### Status
 ACCEPTED

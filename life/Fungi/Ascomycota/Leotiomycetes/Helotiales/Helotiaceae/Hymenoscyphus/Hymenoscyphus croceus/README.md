@@ -1,5 +1,4 @@
-Hymenoscyphus croceus (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus croceus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

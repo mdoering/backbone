@@ -1,5 +1,4 @@
-Glugoides intestinalis (Chatton) J.I.R. Larsson, D. Ebert, J. Vavra & Voronin SPECIES
-=======
+# Glugoides intestinalis (Chatton) J.I.R. Larsson, D. Ebert, J. Vavra & Voronin SPECIES
 
 #### Status
 ACCEPTED

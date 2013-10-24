@@ -1,5 +1,4 @@
-Euamoebida ORDER
-=======
+# Euamoebida ORDER
 
 #### Status
 ACCEPTED

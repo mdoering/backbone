@@ -1,17 +1,16 @@
-Stereocaulon nanum var. nanum (Ach.) Ach. VARIETY
-=======
+# Leprocaulon microscopicum (Vill.) Gams SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Proc. Torquay nat. Hist. Soc. 1972-3 16(3): 128 (1974)
 
 #### Original name
-Stereocaulon nanum var. nanum (Ach.) Ach.
+Lichen microscopicus Vill.
 
 ### Remarks
 null

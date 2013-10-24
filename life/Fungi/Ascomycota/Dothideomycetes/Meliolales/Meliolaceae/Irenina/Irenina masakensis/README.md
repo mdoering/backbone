@@ -1,5 +1,4 @@
-Irenina masakensis Hansf. SPECIES
-=======
+# Irenina masakensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

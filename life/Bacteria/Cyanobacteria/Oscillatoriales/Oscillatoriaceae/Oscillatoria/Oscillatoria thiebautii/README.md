@@ -1,5 +1,4 @@
-Oscillatoria thiebautii (Gomont) Geitler SPECIES
-=======
+# Oscillatoria thiebautii (Gomont) Geitler SPECIES
 
 #### Status
 ACCEPTED

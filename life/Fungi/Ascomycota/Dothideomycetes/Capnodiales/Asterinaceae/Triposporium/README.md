@@ -1,5 +1,4 @@
-Triposporium Corda, 1837 GENUS
-=======
+# Triposporium Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

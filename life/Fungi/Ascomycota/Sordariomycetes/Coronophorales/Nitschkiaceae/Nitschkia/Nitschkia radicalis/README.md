@@ -1,14 +1,13 @@
-Nitschkea radicalis (Sacc.) Kuntze SPECIES
-=======
+# Nitschkia radicalis (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 501 (1898)
 
 #### Original name
 Cucurbitaria radicalis Cooke

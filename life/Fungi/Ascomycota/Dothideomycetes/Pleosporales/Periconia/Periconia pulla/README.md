@@ -1,5 +1,4 @@
-Periconia pulla (Bonord.) Sacc. SPECIES
-=======
+# Periconia pulla (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

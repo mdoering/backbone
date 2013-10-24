@@ -1,5 +1,4 @@
-Corticium peziziforme Velen. SPECIES
-=======
+# Corticium peziziforme Velen. SPECIES
 
 #### Status
 ACCEPTED

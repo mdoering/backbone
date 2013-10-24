@@ -1,5 +1,4 @@
-Krebsina subtenuis (Cushman, 1936) SPECIES
-=======
+# Krebsina subtenuis (Cushman, 1936) SPECIES
 
 #### Status
 ACCEPTED

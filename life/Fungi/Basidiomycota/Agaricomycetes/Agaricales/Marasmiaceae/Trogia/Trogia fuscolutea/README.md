@@ -1,5 +1,4 @@
-Trogia fuscolutea var. fuscolutea VARIETY
-=======
+# Trogia fuscolutea Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gdns' Bull. , Singapore. Supplement 2: 36 (1991)
 
 #### Original name
-Trogia fuscolutea var. fuscolutea
+Trogia fuscolutea Corner
 
 ### Remarks
 null

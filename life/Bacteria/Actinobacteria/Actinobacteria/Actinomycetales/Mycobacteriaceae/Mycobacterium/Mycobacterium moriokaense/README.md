@@ -1,5 +1,4 @@
-Mycobacterium moriokaense Tsukamura et al., 1986 SPECIES
-=======
+# Mycobacterium moriokaense Tsukamura et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

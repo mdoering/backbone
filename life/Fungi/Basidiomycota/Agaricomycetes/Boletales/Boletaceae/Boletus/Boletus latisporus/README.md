@@ -1,5 +1,4 @@
-Boletus latisporus Corner SPECIES
-=======
+# Boletus latisporus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ovularia atraphaxidis Golovin SPECIES
-=======
+# Ovularia atraphaxis Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy Sredneaz. Univ. 14(5): 18 (1950)
 
 #### Original name
-Ovularia atraphaxidis Golovin
+Ovularia atraphaxis Golovin
 
 ### Remarks
 null

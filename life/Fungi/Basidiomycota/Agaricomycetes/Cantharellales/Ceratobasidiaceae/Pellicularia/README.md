@@ -1,5 +1,4 @@
-Pellicularia GENUS
-=======
+# Pellicularia GENUS
 
 #### Status
 ACCEPTED

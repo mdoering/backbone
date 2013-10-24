@@ -1,5 +1,4 @@
-Hendersonia radicicola Tassi SPECIES
-=======
+# Hendersonia radicicola Tassi SPECIES
 
 #### Status
 ACCEPTED

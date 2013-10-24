@@ -1,5 +1,4 @@
-Agaricus mesodactylus Berk. SPECIES
-=======
+# Agaricus mesodactylus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizodiplodia catalpae (Gonz. Frag.) Zambett. SPECIES
-=======
+# Schizodiplodia catalpae (Gonz. Frag.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

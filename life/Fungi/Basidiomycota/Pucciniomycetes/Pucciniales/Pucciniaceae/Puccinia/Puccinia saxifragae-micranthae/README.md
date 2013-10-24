@@ -1,5 +1,4 @@
-Puccinia saxifragae-micranthae Barclay SPECIES
-=======
+# Puccinia saxifragae-micranthae Barclay SPECIES
 
 #### Status
 ACCEPTED

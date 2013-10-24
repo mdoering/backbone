@@ -1,5 +1,4 @@
-Corticium ochroleucum var. ochroleucum VARIETY
-=======
+# Corticium ochroleucum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 557 (1838)
 
 #### Original name
-Corticium ochroleucum var. ochroleucum
+Thelephora ochroleuca Fr.
 
 ### Remarks
 null

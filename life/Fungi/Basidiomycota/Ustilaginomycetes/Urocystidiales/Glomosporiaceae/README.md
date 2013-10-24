@@ -1,5 +1,4 @@
-Glomosporiaceae FAMILY
-=======
+# Glomosporiaceae FAMILY
 
 #### Status
 ACCEPTED

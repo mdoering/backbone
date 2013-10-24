@@ -1,5 +1,4 @@
-Linocarpon umbelliferarum M.E. Barr SPECIES
-=======
+# Linocarpon umbelliferarum M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

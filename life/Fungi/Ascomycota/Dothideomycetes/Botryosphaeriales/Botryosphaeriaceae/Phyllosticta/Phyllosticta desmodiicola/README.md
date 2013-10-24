@@ -1,5 +1,4 @@
-Phyllosticta desmodiicola Died. SPECIES
-=======
+# Phyllosticta desmodiicola Died. SPECIES
 
 #### Status
 ACCEPTED

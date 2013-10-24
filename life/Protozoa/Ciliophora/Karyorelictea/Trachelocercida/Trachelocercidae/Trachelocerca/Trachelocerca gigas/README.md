@@ -1,5 +1,4 @@
-Trachelocerca gigas SPECIES
-=======
+# Trachelocerca gigas SPECIES
 
 #### Status
 ACCEPTED

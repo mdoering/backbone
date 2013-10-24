@@ -1,5 +1,4 @@
-Uvigerina indigna Saidova, 1975 SPECIES
-=======
+# Uvigerina indigna Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria umbrina var. umbrina Lév. VARIETY
-=======
+# Clavulinopsis umbrinella (Sacc.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 393 (1950)
 
 #### Original name
-Clavaria umbrina var. umbrina Lév.
+Clavaria umbrinella Sacc., 1888
 
 ### Remarks
 null

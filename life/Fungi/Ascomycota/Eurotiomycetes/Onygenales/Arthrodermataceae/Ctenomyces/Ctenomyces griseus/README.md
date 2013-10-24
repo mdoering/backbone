@@ -1,5 +1,4 @@
-Ctenomyces griseus (Vasconc. {?} ) Nann. SPECIES
-=======
+# Ctenomyces griseus (Vasconc. {?} ) Nann. SPECIES
 
 #### Status
 ACCEPTED

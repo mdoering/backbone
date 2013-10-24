@@ -1,8 +1,7 @@
-Phyllachora pahudiae Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora afzeliae Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Philipp. J. Sci. , C, Bot. 8(4): 277 (1913)
 
 #### Original name
-Phyllachora pahudiae Syd. & P. Syd., 1913
+Phyllachora afzeliae Syd. & P. Syd., 1913
 
 ### Remarks
 null

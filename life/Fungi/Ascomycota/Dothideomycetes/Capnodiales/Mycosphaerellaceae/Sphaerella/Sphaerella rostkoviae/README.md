@@ -1,5 +1,4 @@
-Sphaerella rostkoviae Speg. SPECIES
-=======
+# Sphaerella rostkoviae Speg. SPECIES
 
 #### Status
 ACCEPTED

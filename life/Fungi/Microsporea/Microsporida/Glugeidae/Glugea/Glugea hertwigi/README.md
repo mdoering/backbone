@@ -1,5 +1,4 @@
-Glugea hertwigi SPECIES
-=======
+# Glugea hertwigi SPECIES
 
 #### Status
 ACCEPTED

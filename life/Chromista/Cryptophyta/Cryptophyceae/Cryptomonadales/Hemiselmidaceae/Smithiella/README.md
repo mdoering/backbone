@@ -1,5 +1,4 @@
-Smithiella B.V. Skvortzov, 1968 GENUS
-=======
+# Smithiella B.V. Skvortzov, 1968 GENUS
 
 #### Status
 ACCEPTED

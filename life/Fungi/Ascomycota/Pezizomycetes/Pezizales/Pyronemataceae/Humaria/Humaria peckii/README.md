@@ -1,5 +1,4 @@
-Humaria peckii House SPECIES
-=======
+# Humaria peckii House SPECIES
 
 #### Status
 ACCEPTED

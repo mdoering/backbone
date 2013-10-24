@@ -1,5 +1,4 @@
-Montagnellina goodiae Hansf. SPECIES
-=======
+# Montagnellina goodiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

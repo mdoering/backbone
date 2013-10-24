@@ -1,5 +1,4 @@
-Lagynophrya trichocystis Foissner, 1981 SPECIES
-=======
+# Lagynophrya trichocystis Foissner, 1981 SPECIES
 
 #### Status
 ACCEPTED

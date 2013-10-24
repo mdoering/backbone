@@ -1,5 +1,4 @@
-Lycoperdon cystidiferum Velen. SPECIES
-=======
+# Lycoperdon cystidiferum Velen. SPECIES
 
 #### Status
 ACCEPTED

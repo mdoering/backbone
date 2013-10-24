@@ -1,5 +1,4 @@
-Lentaria virgata (Fr.) Corner SPECIES
-=======
+# Lentaria virgata (Fr.) Corner SPECIES
 
 #### Status
 ACCEPTED

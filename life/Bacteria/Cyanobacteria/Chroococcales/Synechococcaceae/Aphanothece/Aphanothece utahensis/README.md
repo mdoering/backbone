@@ -1,8 +1,7 @@
-Aphanothece packardii (Farlow) Setchell SPECIES
-=======
+# Aphanothece utahensis Tilden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

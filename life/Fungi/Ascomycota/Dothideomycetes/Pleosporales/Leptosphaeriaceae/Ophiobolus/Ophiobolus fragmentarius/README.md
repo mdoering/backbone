@@ -1,5 +1,4 @@
-Ophiobolus fragmentarius Lar.N. Vassiljeva SPECIES
-=======
+# Ophiobolus fragmentarius Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

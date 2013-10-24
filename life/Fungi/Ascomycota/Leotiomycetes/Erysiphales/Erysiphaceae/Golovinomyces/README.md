@@ -1,5 +1,4 @@
-Golovinomyces (U. Braun) V.P. Gelyuta GENUS
-=======
+# Golovinomyces (U. Braun) V.P. Gelyuta GENUS
 
 #### Status
 ACCEPTED

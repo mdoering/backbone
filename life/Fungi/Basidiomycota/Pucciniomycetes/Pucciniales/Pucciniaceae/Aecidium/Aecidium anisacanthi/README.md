@@ -1,5 +1,4 @@
-Aecidium anisacanthi Peck SPECIES
-=======
+# Aecidium anisacanthi Peck SPECIES
 
 #### Status
 ACCEPTED

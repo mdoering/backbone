@@ -1,17 +1,16 @@
-Bullinula Penard, 1911 GENUS
-=======
+# Bullinularia Deflandre in Grassé, 1953 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+in Grassé, Traité de Zool. , 1 (2), 127.
 
 #### Original name
-null
+Bullinula Penard, 1911
 
 ### Remarks
 null

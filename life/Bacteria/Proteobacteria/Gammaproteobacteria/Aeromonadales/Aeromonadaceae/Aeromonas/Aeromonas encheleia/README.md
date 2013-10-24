@@ -1,5 +1,4 @@
-Aeromonas encheleia Esteve et al., 1995 SPECIES
-=======
+# Aeromonas encheleia Esteve et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

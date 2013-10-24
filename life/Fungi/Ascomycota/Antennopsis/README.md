@@ -1,5 +1,4 @@
-Antennopsis R. Heim, 1952 GENUS
-=======
+# Antennopsis R. Heim, 1952 GENUS
 
 #### Status
 ACCEPTED

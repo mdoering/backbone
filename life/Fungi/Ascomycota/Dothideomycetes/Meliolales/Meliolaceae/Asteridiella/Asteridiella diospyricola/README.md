@@ -1,5 +1,4 @@
-Asteridiella diospyricola (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella diospyricola (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

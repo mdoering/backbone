@@ -1,5 +1,4 @@
-Peziza fissilis Sacc. & Cooke SPECIES
-=======
+# Peziza fissilis Sacc. & Cooke SPECIES
 
 #### Status
 ACCEPTED

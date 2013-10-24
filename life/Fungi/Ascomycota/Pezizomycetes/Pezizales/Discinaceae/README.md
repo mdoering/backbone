@@ -1,5 +1,4 @@
-Discinaceae Benedix FAMILY
-=======
+# Discinaceae Benedix FAMILY
 
 #### Status
 ACCEPTED

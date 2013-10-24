@@ -1,5 +1,4 @@
-Peltigera praecanina f. praecanina FORM
-=======
+# Peltigera praecanina Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera praecanina f. praecanina
+Peltigera praecanina Gyeln.
 
 ### Remarks
 null

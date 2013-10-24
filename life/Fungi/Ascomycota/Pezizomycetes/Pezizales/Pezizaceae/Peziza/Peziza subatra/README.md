@@ -1,5 +1,4 @@
-Peziza subatra Cooke & W. Phillips SPECIES
-=======
+# Peziza subatra Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

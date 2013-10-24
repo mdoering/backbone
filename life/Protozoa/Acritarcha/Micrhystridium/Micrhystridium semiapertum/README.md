@@ -1,5 +1,4 @@
-Micrhystridium semiapertum Welsch, 1986 SPECIES
-=======
+# Micrhystridium semiapertum Welsch, 1986 SPECIES
 
 #### Status
 ACCEPTED

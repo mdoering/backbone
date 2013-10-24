@@ -1,5 +1,4 @@
-Penicillium alicantinum C. Ramírez & A.T. Martínez, 1980 SPECIES
-=======
+# Penicillium alicantinum C. Ramírez & A.T. Martínez, 1980 SPECIES
 
 #### Status
 DOUBTFUL

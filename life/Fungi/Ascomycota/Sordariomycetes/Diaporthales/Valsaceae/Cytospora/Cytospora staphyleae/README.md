@@ -1,5 +1,4 @@
-Cytospora staphyleae Cooke SPECIES
-=======
+# Cytospora staphyleae Cooke SPECIES
 
 #### Status
 ACCEPTED

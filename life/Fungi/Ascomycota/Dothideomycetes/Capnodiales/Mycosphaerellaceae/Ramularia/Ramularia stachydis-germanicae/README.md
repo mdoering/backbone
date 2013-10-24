@@ -1,5 +1,4 @@
-Ramularia stachydis-germanicae Moesz SPECIES
-=======
+# Ramularia stachydis-germanicae Moesz SPECIES
 
 #### Status
 ACCEPTED

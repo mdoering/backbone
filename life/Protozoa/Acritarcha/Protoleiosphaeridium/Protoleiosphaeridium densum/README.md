@@ -1,5 +1,4 @@
-Protoleiosphaeridium densum P. K. Maithy SPECIES
-=======
+# Protoleiosphaeridium densum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyponectria sinensis Sacc. SPECIES
-=======
+# Hyponectria sinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

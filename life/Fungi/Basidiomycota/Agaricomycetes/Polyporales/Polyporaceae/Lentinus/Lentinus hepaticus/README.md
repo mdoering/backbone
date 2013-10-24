@@ -1,5 +1,4 @@
-Lentinus hepaticus Berk. SPECIES
-=======
+# Lentinus hepaticus Berk. SPECIES
 
 #### Status
 ACCEPTED

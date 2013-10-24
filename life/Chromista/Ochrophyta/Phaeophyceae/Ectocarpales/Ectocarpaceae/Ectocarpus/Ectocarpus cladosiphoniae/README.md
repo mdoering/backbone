@@ -1,5 +1,4 @@
-Ectocarpus cladosiphoniae Noda SPECIES
-=======
+# Ectocarpus cladosiphoniae Noda SPECIES
 
 #### Status
 ACCEPTED

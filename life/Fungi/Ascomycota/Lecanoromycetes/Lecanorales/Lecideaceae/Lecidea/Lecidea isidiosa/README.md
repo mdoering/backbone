@@ -1,5 +1,4 @@
-Lecidea isidiosa Anzi SPECIES
-=======
+# Lecidea isidiosa Anzi SPECIES
 
 #### Status
 ACCEPTED

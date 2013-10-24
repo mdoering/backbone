@@ -1,5 +1,4 @@
-Aecidium pergulariae Maubl. SPECIES
-=======
+# Aecidium pergulariae Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius barrowsii Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius barrowsii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium sundquisti Le Hérissé, 1989 SPECIES
-=======
+# Baltisphaeridium sundquisti Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

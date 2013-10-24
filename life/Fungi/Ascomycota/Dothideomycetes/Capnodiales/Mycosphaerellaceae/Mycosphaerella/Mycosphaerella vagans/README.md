@@ -1,5 +1,4 @@
-Mycosphaerella vagans (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella vagans (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria yunnanensis (Nyl.) Zahlbr. SPECIES
-=======
+# Cetraria yunnanensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

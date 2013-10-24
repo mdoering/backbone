@@ -1,5 +1,4 @@
-Polyporus versipellis Pers. SPECIES
-=======
+# Polyporus versipellis Pers. SPECIES
 
 #### Status
 ACCEPTED

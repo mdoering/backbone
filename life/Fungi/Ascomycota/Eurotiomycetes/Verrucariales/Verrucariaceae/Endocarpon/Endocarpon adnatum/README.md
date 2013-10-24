@@ -1,5 +1,4 @@
-Endocarpon adnatum (Nyl.) Nyl. SPECIES
-=======
+# Endocarpon adnatum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

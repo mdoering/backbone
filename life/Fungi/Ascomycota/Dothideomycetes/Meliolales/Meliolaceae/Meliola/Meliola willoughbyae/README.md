@@ -1,5 +1,4 @@
-Meliola willoughbyae Zimm. SPECIES
-=======
+# Meliola willoughbyae Zimm. SPECIES
 
 #### Status
 ACCEPTED

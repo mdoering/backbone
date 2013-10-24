@@ -1,5 +1,4 @@
-Coelocaulon divergescens SPECIES
-=======
+# Coelocaulon divergescens SPECIES
 
 #### Status
 ACCEPTED

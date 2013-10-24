@@ -1,5 +1,4 @@
-Borrera calamistrata Ach. SPECIES
-=======
+# Borrera calamistrata Ach. SPECIES
 
 #### Status
 ACCEPTED

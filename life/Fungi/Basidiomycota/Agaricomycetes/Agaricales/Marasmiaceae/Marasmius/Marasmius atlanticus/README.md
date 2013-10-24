@@ -1,5 +1,4 @@
-Marasmius atlanticus Singer SPECIES
-=======
+# Marasmius atlanticus Singer SPECIES
 
 #### Status
 ACCEPTED

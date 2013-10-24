@@ -1,5 +1,4 @@
-Catastomum Zanon, 1947 GENUS
-=======
+# Catastomum Zanon, 1947 GENUS
 
 #### Status
 ACCEPTED

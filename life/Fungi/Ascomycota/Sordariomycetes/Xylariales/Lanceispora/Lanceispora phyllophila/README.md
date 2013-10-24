@@ -1,5 +1,4 @@
-Lanceispora phyllophila V.V. Sarma & K.D. Hyde, 1999 SPECIES
-=======
+# Lanceispora phyllophila V.V. Sarma & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

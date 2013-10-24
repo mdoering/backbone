@@ -1,5 +1,4 @@
-Mycogone tulipae Cappelletti SPECIES
-=======
+# Mycogone tulipae Cappelletti SPECIES
 
 #### Status
 ACCEPTED

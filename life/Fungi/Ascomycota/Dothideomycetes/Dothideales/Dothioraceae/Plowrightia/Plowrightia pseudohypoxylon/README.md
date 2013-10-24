@@ -1,5 +1,4 @@
-Plowrightia pseudohypoxylon Rehm SPECIES
-=======
+# Plowrightia pseudohypoxylon Rehm SPECIES
 
 #### Status
 ACCEPTED

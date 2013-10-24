@@ -1,5 +1,4 @@
-Dactylofusa blanca (Cramer, 1964) Moreau-Benoît, 1974 SPECIES
-=======
+# Dactylofusa blanca (Cramer, 1964) Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

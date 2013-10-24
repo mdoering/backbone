@@ -1,5 +1,4 @@
-Cephalotrichum setosum (Wallr.) Kuntze SPECIES
-=======
+# Cephalotrichum setosum (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

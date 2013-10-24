@@ -1,5 +1,4 @@
-Coniothyrium papillatum (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Coniothyrium papillatum (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

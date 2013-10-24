@@ -1,5 +1,4 @@
-Cylindrosporium flavovirens var. flavovirens VARIETY
-=======
+# Cylindrosporium flavovirens (Bonord.) Ditmar SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cylindrosporium flavovirens var. flavovirens
+null
 
 ### Remarks
 null

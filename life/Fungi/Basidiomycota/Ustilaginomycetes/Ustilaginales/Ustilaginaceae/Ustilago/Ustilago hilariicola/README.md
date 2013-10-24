@@ -1,5 +1,4 @@
-Ustilago hilariicola G.W. Fisch. SPECIES
-=======
+# Ustilago hilariicola G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

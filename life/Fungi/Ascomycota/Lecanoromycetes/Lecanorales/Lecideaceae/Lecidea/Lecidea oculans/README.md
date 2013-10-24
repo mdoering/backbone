@@ -1,5 +1,4 @@
-Lecidea oculans Nyl. SPECIES
-=======
+# Lecidea oculans Nyl. SPECIES
 
 #### Status
 ACCEPTED

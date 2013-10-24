@@ -1,5 +1,4 @@
-Leptonia fusciceps Kauffman SPECIES
-=======
+# Leptonia fusciceps Kauffman SPECIES
 
 #### Status
 ACCEPTED

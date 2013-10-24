@@ -1,5 +1,4 @@
-Penzigomyces hamatus (M.B. Ellis) Subram. SPECIES
-=======
+# Penzigomyces hamatus (M.B. Ellis) Subram. SPECIES
 
 #### Status
 ACCEPTED

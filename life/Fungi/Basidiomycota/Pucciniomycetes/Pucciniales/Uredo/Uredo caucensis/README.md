@@ -1,5 +1,4 @@
-Uredo caucensis Mayor SPECIES
-=======
+# Uredo caucensis Mayor SPECIES
 
 #### Status
 ACCEPTED

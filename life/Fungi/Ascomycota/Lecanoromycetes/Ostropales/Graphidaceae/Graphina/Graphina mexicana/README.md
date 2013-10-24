@@ -1,5 +1,4 @@
-Graphina mexicana (Zahlbr.) V. Wirth & Hale SPECIES
-=======
+# Graphina mexicana (Zahlbr.) V. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

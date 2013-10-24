@@ -1,5 +1,4 @@
-Seynesia apuleiae Speg. SPECIES
-=======
+# Seynesia apuleiae Speg. SPECIES
 
 #### Status
 ACCEPTED

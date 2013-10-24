@@ -1,5 +1,4 @@
-Patellaria artemisioides Roum. & Pat. SPECIES
-=======
+# Patellaria artemisioides Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosolenia cochlea Brunel, 1891 SPECIES
-=======
+# Rhizosolenia cochlea Brunel, 1891 SPECIES
 
 #### Status
 ACCEPTED

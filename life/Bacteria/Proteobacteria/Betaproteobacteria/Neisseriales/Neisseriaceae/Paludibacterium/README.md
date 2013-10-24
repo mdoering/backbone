@@ -1,5 +1,4 @@
-Paludibacterium Kwon et al., 2008 GENUS
-=======
+# Paludibacterium Kwon et al., 2008 GENUS
 
 #### Status
 ACCEPTED

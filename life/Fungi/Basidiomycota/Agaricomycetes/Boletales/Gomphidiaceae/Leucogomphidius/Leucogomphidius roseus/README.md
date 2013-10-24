@@ -1,5 +1,4 @@
-Leucogomphidius roseus (Fr.) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius roseus (Fr.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

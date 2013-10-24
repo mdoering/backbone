@@ -1,5 +1,4 @@
-Crocynia aeruginosa Hue SPECIES
-=======
+# Crocynia aeruginosa Hue SPECIES
 
 #### Status
 ACCEPTED

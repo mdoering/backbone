@@ -1,5 +1,4 @@
-Tubercularia prostii (Duf.) Kuntze SPECIES
-=======
+# Tubercularia prostii (Duf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

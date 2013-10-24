@@ -1,5 +1,4 @@
-Rhytismella corrugata (Ach.) P. Karst. SPECIES
-=======
+# Rhytismella corrugata (Ach.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

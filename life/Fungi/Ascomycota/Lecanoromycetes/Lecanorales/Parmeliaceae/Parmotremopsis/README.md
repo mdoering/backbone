@@ -1,5 +1,4 @@
-Parmotremopsis Elix & Hale GENUS
-=======
+# Parmotremopsis Elix & Hale GENUS
 
 #### Status
 ACCEPTED

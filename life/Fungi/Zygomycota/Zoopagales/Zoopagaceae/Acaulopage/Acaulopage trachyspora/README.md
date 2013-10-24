@@ -1,5 +1,4 @@
-Acaulopage trachyspora Drechsler, 1961 SPECIES
-=======
+# Acaulopage trachyspora Drechsler, 1961 SPECIES
 
 #### Status
 ACCEPTED

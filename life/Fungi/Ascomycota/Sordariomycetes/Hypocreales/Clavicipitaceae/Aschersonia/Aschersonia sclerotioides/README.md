@@ -1,5 +1,4 @@
-Aschersonia sclerotioides Henn. SPECIES
-=======
+# Aschersonia sclerotioides Henn. SPECIES
 
 #### Status
 ACCEPTED

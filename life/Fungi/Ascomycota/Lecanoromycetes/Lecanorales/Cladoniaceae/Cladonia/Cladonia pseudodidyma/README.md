@@ -1,5 +1,4 @@
-Cladonia pseudodidyma var. pseudodidyma VARIETY
-=======
+# Cladonia pseudodidyma Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia pseudodidyma var. pseudodidyma
+Cladonia pseudodidyma Asahina
 
 ### Remarks
 null

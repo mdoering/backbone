@@ -1,5 +1,4 @@
-Hygrocybe chromoxantha A.M. Young SPECIES
-=======
+# Hygrocybe chromoxantha A.M. Young SPECIES
 
 #### Status
 ACCEPTED

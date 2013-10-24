@@ -1,8 +1,7 @@
-Podaxon farlowii Massee SPECIES
-=======
+# Podaxis farlowii Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon farlowii Massee
+Podaxis farlowii Massee
 
 ### Remarks
 null

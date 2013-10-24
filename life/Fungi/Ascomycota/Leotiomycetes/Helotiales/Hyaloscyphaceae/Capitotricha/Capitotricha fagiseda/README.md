@@ -1,5 +1,4 @@
-Capitotricha fagiseda Baral SPECIES
-=======
+# Capitotricha fagiseda Baral SPECIES
 
 #### Status
 ACCEPTED

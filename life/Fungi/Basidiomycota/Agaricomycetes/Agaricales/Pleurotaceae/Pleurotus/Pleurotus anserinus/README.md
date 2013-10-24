@@ -1,5 +1,4 @@
-Pleurotus anserinus Sacc. SPECIES
-=======
+# Pleurotus anserinus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitetras cornuta (Greville) De Toni SPECIES
-=======
+# Amphitetras cornuta (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

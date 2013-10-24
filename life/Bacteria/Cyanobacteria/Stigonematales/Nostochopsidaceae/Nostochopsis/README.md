@@ -1,14 +1,13 @@
-Nostochopis H.C. Wood ex E. Bornet & C. Flahault, 1887 ("1886-, 1888") GENUS
-=======
+# Nostochopsis Wood ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Sci. Nat. Bot. , ser. 7, 5: 80.
 
 #### Original name
 null

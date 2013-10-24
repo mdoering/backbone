@@ -1,8 +1,7 @@
-Zonaria flava var. angusta Suhr VARIETY
-=======
+# Zonaria tournefortii Linnaeus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

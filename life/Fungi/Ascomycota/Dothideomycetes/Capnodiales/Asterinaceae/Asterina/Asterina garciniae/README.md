@@ -1,5 +1,4 @@
-Asterina garciniae Hansf. SPECIES
-=======
+# Asterina garciniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

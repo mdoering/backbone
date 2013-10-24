@@ -1,5 +1,4 @@
-Haematomma staigeriae Nelsen, Lücking & Umaña SPECIES
-=======
+# Haematomma staigeriae Nelsen, Lücking & Umaña SPECIES
 
 #### Status
 ACCEPTED

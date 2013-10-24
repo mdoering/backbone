@@ -1,5 +1,4 @@
-Agarico-suber GENUS
-=======
+# Agarico-suber GENUS
 
 #### Status
 ACCEPTED

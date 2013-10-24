@@ -1,5 +1,4 @@
-Cystoagaricus sachaensis Singer, 1977 SPECIES
-=======
+# Cystoagaricus sachaensis Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

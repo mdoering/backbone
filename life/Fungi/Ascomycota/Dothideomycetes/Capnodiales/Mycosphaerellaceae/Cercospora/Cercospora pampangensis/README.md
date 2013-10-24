@@ -1,5 +1,4 @@
-Cercospora pampangensis Petr. SPECIES
-=======
+# Cercospora pampangensis Petr. SPECIES
 
 #### Status
 ACCEPTED

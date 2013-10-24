@@ -1,5 +1,4 @@
-Methanimicrococcus GENUS
-=======
+# Methanimicrococcus GENUS
 
 #### Status
 ACCEPTED

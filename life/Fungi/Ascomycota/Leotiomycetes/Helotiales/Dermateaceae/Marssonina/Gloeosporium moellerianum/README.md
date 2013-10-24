@@ -1,5 +1,4 @@
-Gloeosporium moellerianum var. moellerianum VARIETY
-=======
+# Gloeosporium moellerianum Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium moellerianum var. moellerianum
+Gloeosporium moellerianum Thüm.
 
 ### Remarks
 null

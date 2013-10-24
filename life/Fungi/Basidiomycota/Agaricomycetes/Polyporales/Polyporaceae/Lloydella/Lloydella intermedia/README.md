@@ -1,5 +1,4 @@
-Lloydella intermedia Rick SPECIES
-=======
+# Lloydella intermedia Rick SPECIES
 
 #### Status
 ACCEPTED

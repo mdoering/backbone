@@ -1,5 +1,4 @@
-Cortinarius aspilus Moënne-Locc. SPECIES
-=======
+# Cortinarius aspilus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

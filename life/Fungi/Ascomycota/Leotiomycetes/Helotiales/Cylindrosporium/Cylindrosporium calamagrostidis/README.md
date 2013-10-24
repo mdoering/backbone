@@ -1,5 +1,4 @@
-Cylindrosporium calamagrostidis Ellis & Everh. SPECIES
-=======
+# Cylindrosporium calamagrostidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

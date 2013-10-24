@@ -1,5 +1,4 @@
-Diplocladium theobromae (Lutz {?} ) Sacc. & Trotter SPECIES
-=======
+# Diplocladium theobromae (Lutz {?} ) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

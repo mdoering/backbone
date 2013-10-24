@@ -1,5 +1,4 @@
-Peniophora exima H.S. Jacks. & Dearden, 1951 SPECIES
-=======
+# Peniophora exima H.S. Jacks. & Dearden, 1951 SPECIES
 
 #### Status
 ACCEPTED

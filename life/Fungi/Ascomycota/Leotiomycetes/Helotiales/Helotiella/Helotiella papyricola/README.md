@@ -1,5 +1,4 @@
-Helotiella papyricola Ellis & Everh. SPECIES
-=======
+# Helotiella papyricola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

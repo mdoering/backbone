@@ -1,5 +1,4 @@
-Steinera sorediata P. James & Henssen SPECIES
-=======
+# Steinera sorediata P. James & Henssen SPECIES
 
 #### Status
 ACCEPTED

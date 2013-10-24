@@ -1,17 +1,16 @@
-Gymnosporangium biseptatum var. biseptatum VARIETY
-=======
+# Gymnosporangium biseptatum Ellis, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Torrey bot. Club 5: 46 (1874)
 
 #### Original name
-Gymnosporangium biseptatum var. biseptatum
+Gymnosporangium biseptatum Ellis, 1874
 
 ### Remarks
 null

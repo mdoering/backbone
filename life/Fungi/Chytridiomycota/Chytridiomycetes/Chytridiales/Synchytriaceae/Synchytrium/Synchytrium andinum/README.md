@@ -1,5 +1,4 @@
-Synchytrium andinum Lagerh. SPECIES
-=======
+# Synchytrium andinum Lagerh. SPECIES
 
 #### Status
 ACCEPTED

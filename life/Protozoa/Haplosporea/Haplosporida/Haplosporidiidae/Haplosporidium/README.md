@@ -1,5 +1,4 @@
-Haplosporidium Lühe, 1900 GENUS
-=======
+# Haplosporidium Lühe, 1900 GENUS
 
 #### Status
 ACCEPTED

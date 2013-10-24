@@ -1,5 +1,4 @@
-Sydowinula moravica Petr. SPECIES
-=======
+# Sydowinula moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

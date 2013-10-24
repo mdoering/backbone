@@ -1,5 +1,4 @@
-Lecanora vogulorum SPECIES
-=======
+# Lecanora vogulorum SPECIES
 
 #### Status
 ACCEPTED

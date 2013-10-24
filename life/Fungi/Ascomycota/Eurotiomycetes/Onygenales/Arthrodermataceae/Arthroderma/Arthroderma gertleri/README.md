@@ -1,5 +1,4 @@
-Arthroderma gertleri H. Böhme, 1967 SPECIES
-=======
+# Arthroderma gertleri H. Böhme, 1967 SPECIES
 
 #### Status
 ACCEPTED

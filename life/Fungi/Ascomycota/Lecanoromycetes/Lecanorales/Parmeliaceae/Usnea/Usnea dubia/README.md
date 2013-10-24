@@ -1,5 +1,4 @@
-Usnea dubia Motyka ex Servít & Nádv. SPECIES
-=======
+# Usnea dubia Motyka ex Servít & Nádv. SPECIES
 
 #### Status
 ACCEPTED

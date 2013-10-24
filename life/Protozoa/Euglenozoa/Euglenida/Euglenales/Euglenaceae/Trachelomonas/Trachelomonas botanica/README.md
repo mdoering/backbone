@@ -1,5 +1,4 @@
-Trachelomonas botanica var. granulosa Playfair VARIETY
-=======
+# Trachelomonas botanica Playfair SPECIES
 
 #### Status
 ACCEPTED

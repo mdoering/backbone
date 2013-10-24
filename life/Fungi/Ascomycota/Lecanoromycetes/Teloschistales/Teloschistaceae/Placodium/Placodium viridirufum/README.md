@@ -1,5 +1,4 @@
-Placodium viridirufum SPECIES
-=======
+# Placodium viridirufum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina cynarae Kill. & Maire SPECIES
-=======
+# Diplodina cynarae Kill. & Maire SPECIES
 
 #### Status
 ACCEPTED

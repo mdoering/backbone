@@ -1,5 +1,4 @@
-Steccherinum subglobosum H.S. Yuan & Y.C. Dai SPECIES
-=======
+# Steccherinum subglobosum H.S. Yuan & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

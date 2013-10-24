@@ -1,5 +1,4 @@
-Discochora smilacinina (Peck) Bissett SPECIES
-=======
+# Discochora smilacinina (Peck) Bissett SPECIES
 
 #### Status
 ACCEPTED

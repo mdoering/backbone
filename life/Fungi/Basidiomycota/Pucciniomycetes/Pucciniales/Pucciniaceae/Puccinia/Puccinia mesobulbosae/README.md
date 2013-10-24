@@ -1,5 +1,4 @@
-Puccinia mesobulbosae Eboh SPECIES
-=======
+# Puccinia mesobulbosae Eboh SPECIES
 
 #### Status
 ACCEPTED

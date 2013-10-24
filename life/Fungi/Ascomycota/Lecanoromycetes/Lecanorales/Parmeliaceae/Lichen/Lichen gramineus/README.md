@@ -1,5 +1,4 @@
-Lichen gramineus Roth SPECIES
-=======
+# Lichen gramineus Roth SPECIES
 
 #### Status
 ACCEPTED

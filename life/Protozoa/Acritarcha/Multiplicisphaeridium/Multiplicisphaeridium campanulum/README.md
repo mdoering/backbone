@@ -1,5 +1,4 @@
-Multiplicisphaeridium campanulum Eklund, 1990 SPECIES
-=======
+# Multiplicisphaeridium campanulum Eklund, 1990 SPECIES
 
 #### Status
 ACCEPTED

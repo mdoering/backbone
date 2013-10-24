@@ -1,5 +1,4 @@
-Cryptococcus chernovii Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus chernovii Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

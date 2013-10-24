@@ -1,5 +1,4 @@
-Heteropatella chilensis Speg. SPECIES
-=======
+# Heteropatella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

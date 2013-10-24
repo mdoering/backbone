@@ -1,5 +1,4 @@
-Stilbonectria lateritia P. Karst. SPECIES
-=======
+# Stilbonectria lateritia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

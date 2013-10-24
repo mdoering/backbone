@@ -1,5 +1,4 @@
-Hygrophorus pusillus Peck SPECIES
-=======
+# Hygrophorus pusillus Peck SPECIES
 
 #### Status
 ACCEPTED

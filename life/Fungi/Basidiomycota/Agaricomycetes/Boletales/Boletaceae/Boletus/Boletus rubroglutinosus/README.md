@@ -1,5 +1,4 @@
-Boletus rubroglutinosus Corner SPECIES
-=======
+# Boletus rubroglutinosus Corner SPECIES
 
 #### Status
 ACCEPTED

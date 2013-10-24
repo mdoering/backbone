@@ -1,5 +1,4 @@
-Tilletia scrobiculata G.W. Fisch. SPECIES
-=======
+# Tilletia scrobiculata G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

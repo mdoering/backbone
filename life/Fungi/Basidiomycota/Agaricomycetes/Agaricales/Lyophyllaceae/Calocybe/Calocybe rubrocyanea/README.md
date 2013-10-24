@@ -1,5 +1,4 @@
-Calocybe rubrocyanea (Berk. & Broome) Pegler SPECIES
-=======
+# Calocybe rubrocyanea (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

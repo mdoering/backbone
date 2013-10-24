@@ -1,5 +1,4 @@
-Verrucaria garovaglioi Mont. SPECIES
-=======
+# Verrucaria garovaglioi Mont. SPECIES
 
 #### Status
 ACCEPTED

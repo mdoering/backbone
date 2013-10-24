@@ -1,5 +1,4 @@
-Marasmius salalis Desjardin & Redhead SPECIES
-=======
+# Marasmius salalis Desjardin & Redhead SPECIES
 
 #### Status
 ACCEPTED

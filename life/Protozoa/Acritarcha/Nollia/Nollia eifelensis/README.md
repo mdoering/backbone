@@ -1,5 +1,4 @@
-Nollia eifelensis Eisenack, 1979 SPECIES
-=======
+# Nollia eifelensis Eisenack, 1979 SPECIES
 
 #### Status
 ACCEPTED

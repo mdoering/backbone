@@ -1,5 +1,4 @@
-Didymella ruttneri Petr. SPECIES
-=======
+# Didymella ruttneri Petr. SPECIES
 
 #### Status
 ACCEPTED

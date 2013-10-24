@@ -1,5 +1,4 @@
-Synechococcus rhodobaktron Komárek & Anagnostidis SPECIES
-=======
+# Synechococcus rhodobaktron Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

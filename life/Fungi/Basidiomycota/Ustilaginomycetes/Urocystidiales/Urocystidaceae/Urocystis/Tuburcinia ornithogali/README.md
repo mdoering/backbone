@@ -1,5 +1,4 @@
-Tuburcinia ornithogali (Körn.) S. Ito SPECIES
-=======
+# Tuburcinia ornithogali (Körn.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

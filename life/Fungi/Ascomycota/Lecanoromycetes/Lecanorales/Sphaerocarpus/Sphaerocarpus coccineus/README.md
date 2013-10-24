@@ -1,5 +1,4 @@
-Sphaerocarpus coccineus Bull. SPECIES
-=======
+# Sphaerocarpus coccineus Bull. SPECIES
 
 #### Status
 ACCEPTED

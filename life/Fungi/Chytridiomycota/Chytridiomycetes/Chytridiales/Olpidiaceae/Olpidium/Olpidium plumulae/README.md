@@ -1,5 +1,4 @@
-Olpidium plumulae (E. Cohn) A. Fischer, 1892 SPECIES
-=======
+# Olpidium plumulae (E. Cohn) A. Fischer, 1892 SPECIES
 
 #### Status
 ACCEPTED

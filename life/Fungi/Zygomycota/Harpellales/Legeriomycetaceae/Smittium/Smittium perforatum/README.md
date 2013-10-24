@@ -1,5 +1,4 @@
-Smittium perforatum M.C. Williams & Lichtw., 1988 SPECIES
-=======
+# Smittium perforatum M.C. Williams & Lichtw., 1988 SPECIES
 
 #### Status
 ACCEPTED

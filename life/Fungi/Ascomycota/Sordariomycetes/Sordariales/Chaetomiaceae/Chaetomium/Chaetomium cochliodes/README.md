@@ -1,5 +1,4 @@
-Chaetomium cochliodes Palliser, 1910 SPECIES
-=======
+# Chaetomium cochliodes Palliser, 1910 SPECIES
 
 #### Status
 ACCEPTED

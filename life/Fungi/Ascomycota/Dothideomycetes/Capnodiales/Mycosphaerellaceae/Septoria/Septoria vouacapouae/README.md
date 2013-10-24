@@ -1,5 +1,4 @@
-Septoria vouacapouae F.C. Albuq. & M.L. Duarte SPECIES
-=======
+# Septoria vouacapouae F.C. Albuq. & M.L. Duarte SPECIES
 
 #### Status
 ACCEPTED

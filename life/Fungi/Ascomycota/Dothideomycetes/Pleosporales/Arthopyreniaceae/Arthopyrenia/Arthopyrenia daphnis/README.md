@@ -1,5 +1,4 @@
-Arthopyrenia daphnis SPECIES
-=======
+# Arthopyrenia daphnis SPECIES
 
 #### Status
 ACCEPTED

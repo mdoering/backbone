@@ -1,5 +1,4 @@
-Lenticulina sintikuensis Nakamura SPECIES
-=======
+# Lenticulina sintikuensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

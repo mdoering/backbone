@@ -1,5 +1,4 @@
-Naucoria arctica Lebedeva SPECIES
-=======
+# Naucoria arctica Lebedeva SPECIES
 
 #### Status
 ACCEPTED

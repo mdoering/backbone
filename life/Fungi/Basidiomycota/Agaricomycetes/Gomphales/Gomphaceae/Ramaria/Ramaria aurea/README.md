@@ -1,17 +1,16 @@
-Clavaria aurea var. australis Coker VARIETY
-=======
+# Ramaria aurea (Schaeff.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Clavarias of the United States and Canada 144 (1923)
+Fl. mycol. France (Paris) 467 (1888)
 
 #### Original name
-Clavaria aurea var. australis Coker
+Clavaria aurea Schaeff., 1774
 
 ### Remarks
 null

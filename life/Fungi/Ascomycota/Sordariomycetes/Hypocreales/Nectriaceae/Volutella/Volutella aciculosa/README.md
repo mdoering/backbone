@@ -1,5 +1,4 @@
-Volutella aciculosa (Ellis & Harkn.) Sacc. SPECIES
-=======
+# Volutella aciculosa (Ellis & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

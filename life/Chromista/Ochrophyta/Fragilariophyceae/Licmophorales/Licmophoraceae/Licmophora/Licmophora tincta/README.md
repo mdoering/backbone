@@ -1,5 +1,4 @@
-Licmophora tincta SPECIES
-=======
+# Licmophora tincta SPECIES
 
 #### Status
 ACCEPTED

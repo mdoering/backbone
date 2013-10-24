@@ -1,5 +1,4 @@
-Neocrepidolithus ruegenensis SPECIES
-=======
+# Neocrepidolithus ruegenensis SPECIES
 
 #### Status
 ACCEPTED

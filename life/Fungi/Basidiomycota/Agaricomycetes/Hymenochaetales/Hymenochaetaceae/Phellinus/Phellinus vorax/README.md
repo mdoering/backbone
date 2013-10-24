@@ -1,5 +1,4 @@
-Phellinus vorax (Harkn.) Cerný SPECIES
-=======
+# Phellinus vorax (Harkn.) Cerný SPECIES
 
 #### Status
 ACCEPTED

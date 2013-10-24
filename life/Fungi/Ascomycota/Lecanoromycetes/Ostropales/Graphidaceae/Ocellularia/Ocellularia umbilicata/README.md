@@ -1,5 +1,4 @@
-Ocellularia umbilicata Müll. Arg. SPECIES
-=======
+# Ocellularia umbilicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

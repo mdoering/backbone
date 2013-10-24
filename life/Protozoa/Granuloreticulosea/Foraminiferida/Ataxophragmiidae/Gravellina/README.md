@@ -1,5 +1,4 @@
-Gravellina Brönnimann, 1953 GENUS
-=======
+# Gravellina Brönnimann, 1953 GENUS
 
 #### Status
 ACCEPTED

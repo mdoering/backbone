@@ -1,5 +1,4 @@
-Cordyceps concurrens Lloyd SPECIES
-=======
+# Cordyceps concurrens Lloyd SPECIES
 
 #### Status
 ACCEPTED

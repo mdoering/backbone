@@ -1,5 +1,4 @@
-Leucographa Nyl. GENUS
-=======
+# Leucographa Nyl. GENUS
 
 #### Status
 ACCEPTED

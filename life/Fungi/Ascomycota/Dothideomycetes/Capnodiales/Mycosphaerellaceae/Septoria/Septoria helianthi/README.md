@@ -1,5 +1,4 @@
-Septoria helianthi Ellis & Kellerm., 1883 SPECIES
-=======
+# Septoria helianthi Ellis & Kellerm., 1883 SPECIES
 
 #### Status
 ACCEPTED

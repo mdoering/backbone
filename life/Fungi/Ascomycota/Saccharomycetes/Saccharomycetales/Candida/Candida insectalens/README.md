@@ -1,14 +1,13 @@
-Torulopsis insectalens D.B. Scott, van der Walt & Klift, 1971 SPECIES
-=======
+# Candida insectalens (D.B. Scott, van der Walt & Klift) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 613 (1978)
 
 #### Original name
 null

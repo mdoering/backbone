@@ -1,5 +1,4 @@
-Meliola affinis var. affinis VARIETY
-=======
+# Meliola affinis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Leafl. of Philipp. Bot. 6: 1921 (1913)
 
 #### Original name
-Meliola affinis var. affinis
+Meliola affinis Syd. & P. Syd.
 
 ### Remarks
 null

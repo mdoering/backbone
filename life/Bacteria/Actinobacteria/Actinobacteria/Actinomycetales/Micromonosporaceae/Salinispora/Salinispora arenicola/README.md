@@ -1,5 +1,4 @@
-Salinispora arenicola Maldonado et al., 2005 SPECIES
-=======
+# Salinispora arenicola Maldonado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

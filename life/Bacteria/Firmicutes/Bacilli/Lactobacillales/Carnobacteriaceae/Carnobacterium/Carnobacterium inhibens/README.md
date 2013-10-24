@@ -1,5 +1,4 @@
-Carnobacterium inhibens Jöborn et al., 1999 SPECIES
-=======
+# Carnobacterium inhibens Jöborn et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

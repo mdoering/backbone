@@ -1,5 +1,4 @@
-Parmotrema abnuens (Nyl.) Hale SPECIES
-=======
+# Parmotrema abnuens (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

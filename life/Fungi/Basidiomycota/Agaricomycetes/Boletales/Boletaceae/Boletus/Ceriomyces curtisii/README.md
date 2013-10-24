@@ -1,5 +1,4 @@
-Ceriomyces curtisii (Berk.) Murrill SPECIES
-=======
+# Ceriomyces curtisii (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

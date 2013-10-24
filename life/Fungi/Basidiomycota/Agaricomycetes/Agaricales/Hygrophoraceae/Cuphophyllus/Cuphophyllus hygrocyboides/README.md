@@ -1,5 +1,4 @@
-Cuphophyllus hygrocyboides (Kühner) Bon SPECIES
-=======
+# Cuphophyllus hygrocyboides (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

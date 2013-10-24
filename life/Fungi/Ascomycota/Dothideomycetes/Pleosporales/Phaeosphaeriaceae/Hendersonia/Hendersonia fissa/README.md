@@ -1,5 +1,4 @@
-Hendersonia fissa (Pers.) Sacc. SPECIES
-=======
+# Hendersonia fissa (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria trevethensis A. W. Archer SPECIES
-=======
+# Pertusaria trevethensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

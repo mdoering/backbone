@@ -1,5 +1,4 @@
-Inocybe cinnamomea A. Pearson ex Pegler SPECIES
-=======
+# Inocybe cinnamomea A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

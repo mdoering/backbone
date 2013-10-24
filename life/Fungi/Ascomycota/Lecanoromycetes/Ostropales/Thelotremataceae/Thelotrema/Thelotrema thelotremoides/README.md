@@ -1,5 +1,4 @@
-Thelotrema thelotremoides (Leight.) Hale SPECIES
-=======
+# Thelotrema thelotremoides (Leight.) Hale SPECIES
 
 #### Status
 ACCEPTED

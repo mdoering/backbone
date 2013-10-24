@@ -1,5 +1,4 @@
-Eutypella gliricidiae Rehm SPECIES
-=======
+# Eutypella gliricidiae Rehm SPECIES
 
 #### Status
 ACCEPTED

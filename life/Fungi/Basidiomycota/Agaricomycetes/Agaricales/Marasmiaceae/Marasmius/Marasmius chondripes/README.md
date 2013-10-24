@@ -1,5 +1,4 @@
-Marasmius chondripes Berk. & Broome SPECIES
-=======
+# Marasmius chondripes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

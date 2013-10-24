@@ -1,5 +1,4 @@
-Laurera sphaerioides (Mont.) Zahlbr. SPECIES
-=======
+# Laurera sphaerioides (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyctiostomiopelta Viégas, 1944 GENUS
-=======
+# Dyctiostomiopelta Viégas, 1944 GENUS
 
 #### Status
 ACCEPTED

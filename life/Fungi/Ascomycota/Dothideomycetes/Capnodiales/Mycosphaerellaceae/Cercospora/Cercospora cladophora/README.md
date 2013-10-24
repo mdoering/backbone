@@ -1,5 +1,4 @@
-Cercospora cladophora Sawada SPECIES
-=======
+# Cercospora cladophora Sawada SPECIES
 
 #### Status
 ACCEPTED

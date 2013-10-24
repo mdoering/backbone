@@ -1,5 +1,4 @@
-Stachyamoeba Page, 1975 GENUS
-=======
+# Stachyamoeba Page, 1975 GENUS
 
 #### Status
 ACCEPTED

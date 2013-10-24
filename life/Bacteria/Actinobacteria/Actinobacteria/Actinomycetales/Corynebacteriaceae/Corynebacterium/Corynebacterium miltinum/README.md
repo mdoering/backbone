@@ -1,5 +1,4 @@
-Corynebacterium miltinum SPECIES
-=======
+# Corynebacterium miltinum SPECIES
 
 #### Status
 ACCEPTED

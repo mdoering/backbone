@@ -1,5 +1,4 @@
-Irenopsis circinans Hansf. SPECIES
-=======
+# Irenopsis circinans Hansf. SPECIES
 
 #### Status
 ACCEPTED

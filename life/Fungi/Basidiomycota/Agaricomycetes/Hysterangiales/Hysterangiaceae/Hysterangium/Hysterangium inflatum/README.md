@@ -1,5 +1,4 @@
-Hysterangium inflatum Rodway, 1918 SPECIES
-=======
+# Hysterangium inflatum Rodway, 1918 SPECIES
 
 #### Status
 ACCEPTED

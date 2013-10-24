@@ -1,5 +1,4 @@
-Rhabdospora polygoni Dearn. & House SPECIES
-=======
+# Rhabdospora polygoni Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

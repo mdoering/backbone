@@ -1,5 +1,4 @@
-Stictochorella heraclei (Ellis & Dearn.) Höhn. SPECIES
-=======
+# Stictochorella heraclei (Ellis & Dearn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

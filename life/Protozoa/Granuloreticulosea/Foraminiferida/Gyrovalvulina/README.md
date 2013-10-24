@@ -1,5 +1,4 @@
-Gyrovalvulina Loeblich & Tappan, 1985 GENUS
-=======
+# Gyrovalvulina Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

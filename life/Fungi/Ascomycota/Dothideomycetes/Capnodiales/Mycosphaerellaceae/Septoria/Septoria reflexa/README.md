@@ -1,5 +1,4 @@
-Septoria reflexa Brunaud SPECIES
-=======
+# Septoria reflexa Brunaud SPECIES
 
 #### Status
 ACCEPTED

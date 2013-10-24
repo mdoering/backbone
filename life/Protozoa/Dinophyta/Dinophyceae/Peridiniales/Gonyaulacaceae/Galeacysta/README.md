@@ -1,5 +1,4 @@
-Galeacysta D. Corradini & U. Biffi, 1988 GENUS
-=======
+# Galeacysta D. Corradini & U. Biffi, 1988 GENUS
 
 #### Status
 ACCEPTED

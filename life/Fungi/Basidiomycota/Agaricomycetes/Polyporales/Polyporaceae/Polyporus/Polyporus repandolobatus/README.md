@@ -1,5 +1,4 @@
-Polyporus repandolobatus Speg. SPECIES
-=======
+# Polyporus repandolobatus Speg. SPECIES
 
 #### Status
 ACCEPTED

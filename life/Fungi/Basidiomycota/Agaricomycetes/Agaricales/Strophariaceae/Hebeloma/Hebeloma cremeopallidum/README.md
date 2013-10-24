@@ -1,5 +1,4 @@
-Hebeloma cremeopallidum (Esteve-Rav. & Heykoop) Esteve-Rav. & Heykoop SPECIES
-=======
+# Hebeloma cremeopallidum (Esteve-Rav. & Heykoop) Esteve-Rav. & Heykoop SPECIES
 
 #### Status
 ACCEPTED

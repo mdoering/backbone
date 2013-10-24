@@ -1,5 +1,4 @@
-Zoogloea oryzae Xie & Yokota, 2006 SPECIES
-=======
+# Zoogloea oryzae Xie & Yokota, 2006 SPECIES
 
 #### Status
 ACCEPTED

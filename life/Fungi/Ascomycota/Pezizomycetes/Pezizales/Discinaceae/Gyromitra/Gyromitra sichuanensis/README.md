@@ -1,5 +1,4 @@
-Gyromitra sichuanensis Korf & W.Y. Zhuang SPECIES
-=======
+# Gyromitra sichuanensis Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

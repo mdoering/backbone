@@ -1,5 +1,4 @@
-Gorgoniceps microscopica (Berk. & Broome) SPECIES
-=======
+# Gorgoniceps microscopica (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

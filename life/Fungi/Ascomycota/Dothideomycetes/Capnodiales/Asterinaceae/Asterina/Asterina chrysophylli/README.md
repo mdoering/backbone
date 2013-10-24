@@ -1,5 +1,4 @@
-Asterina chrysophylli Henn. SPECIES
-=======
+# Asterina chrysophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

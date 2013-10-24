@@ -1,5 +1,4 @@
-Chaetothyriolum Speg. GENUS
-=======
+# Chaetothyriolum Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eumitria percava (J. Steiner) Vain. SPECIES
-=======
+# Eumitria percava (J. Steiner) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizina vaporaria Fr. SPECIES
-=======
+# Rhizina vaporaria Fr. SPECIES
 
 #### Status
 ACCEPTED

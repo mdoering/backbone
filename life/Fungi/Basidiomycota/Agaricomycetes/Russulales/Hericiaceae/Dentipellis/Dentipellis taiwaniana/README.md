@@ -1,5 +1,4 @@
-Dentipellis taiwaniana Sheng H. Wu SPECIES
-=======
+# Dentipellis taiwaniana Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psilosphaeria graenendalensis (Sacc., E. Bommer & M. Rousseau) Cooke SPECIES
-=======
+# Cryptadelphia groenendalensis (Sacc., E. Bommer & M. Rousseau) Réblová & Seifert, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 96(2): 352 (2004)
 
 #### Original name
 Zignoëlla groenendalensis Sacc., E. Bommer & M. Rousseau, 1891

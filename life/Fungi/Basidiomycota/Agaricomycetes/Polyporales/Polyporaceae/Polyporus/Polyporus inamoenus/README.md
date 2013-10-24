@@ -1,5 +1,4 @@
-Polyporus inamoenus Mont. SPECIES
-=======
+# Polyporus inamoenus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella harunganicola (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella harunganicola (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthochrous stupparius Pat. SPECIES
-=======
+# Xanthochrous stupparius Pat. SPECIES
 
 #### Status
 ACCEPTED

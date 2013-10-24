@@ -1,8 +1,7 @@
-Pyrenula glabratula (Nyl.) Arnold, 1870 SPECIES
-=======
+# Pyrenula dermatodes (Borrer) Schaer., 1850 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

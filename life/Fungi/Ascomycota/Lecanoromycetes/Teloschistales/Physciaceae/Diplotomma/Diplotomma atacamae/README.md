@@ -1,5 +1,4 @@
-Diplotomma atacamae Follmann SPECIES
-=======
+# Diplotomma atacamae Follmann SPECIES
 
 #### Status
 ACCEPTED

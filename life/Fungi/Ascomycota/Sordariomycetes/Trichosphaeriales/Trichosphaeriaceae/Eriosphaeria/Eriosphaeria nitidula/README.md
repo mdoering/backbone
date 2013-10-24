@@ -1,5 +1,4 @@
-Eriosphaeria nitidula Petr. SPECIES
-=======
+# Eriosphaeria nitidula Petr. SPECIES
 
 #### Status
 ACCEPTED

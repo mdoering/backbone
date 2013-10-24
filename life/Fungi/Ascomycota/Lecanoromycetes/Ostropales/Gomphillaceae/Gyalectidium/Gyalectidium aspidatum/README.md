@@ -1,5 +1,4 @@
-Gyalectidium aspidatum (Vain.) R. Sant. SPECIES
-=======
+# Gyalectidium aspidatum (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

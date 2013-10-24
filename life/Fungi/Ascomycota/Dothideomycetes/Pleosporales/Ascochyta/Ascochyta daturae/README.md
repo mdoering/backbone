@@ -1,5 +1,4 @@
-Ascochyta daturae Sacc., 1878 SPECIES
-=======
+# Ascochyta daturae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

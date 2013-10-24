@@ -1,14 +1,13 @@
-Facetodinium T. Bjaerke, 1980 GENUS
-=======
+# Susadinium G. Dörhöfer & E.H. Davies, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Palynology 4: 69.
+Life Sci. Misc. Publs R. Ont. Mus. 1980: 28.
 
 #### Original name
 null

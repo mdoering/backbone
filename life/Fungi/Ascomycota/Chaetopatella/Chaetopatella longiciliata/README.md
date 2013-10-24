@@ -1,5 +1,4 @@
-Chaetopatella longiciliata I. Hino & Katum. SPECIES
-=======
+# Chaetopatella longiciliata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

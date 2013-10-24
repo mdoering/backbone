@@ -1,5 +1,4 @@
-Laetiporus huroniensis Burds. & Banik SPECIES
-=======
+# Laetiporus huroniensis Burds. & Banik SPECIES
 
 #### Status
 ACCEPTED

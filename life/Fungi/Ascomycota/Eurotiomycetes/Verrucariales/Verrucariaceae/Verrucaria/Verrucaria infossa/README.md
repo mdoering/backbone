@@ -1,5 +1,4 @@
-Verrucaria infossa Nyl. SPECIES
-=======
+# Verrucaria infossa Nyl. SPECIES
 
 #### Status
 ACCEPTED

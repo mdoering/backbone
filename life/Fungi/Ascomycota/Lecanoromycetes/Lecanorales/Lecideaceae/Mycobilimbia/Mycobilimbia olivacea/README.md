@@ -1,5 +1,4 @@
-Mycobilimbia olivacea Aragón, Sarrión & Hafellner SPECIES
-=======
+# Mycobilimbia olivacea Aragón, Sarrión & Hafellner SPECIES
 
 #### Status
 ACCEPTED

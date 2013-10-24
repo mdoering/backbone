@@ -1,14 +1,13 @@
-Parmelia loxodella Essl. SPECIES
-=======
+# Xanthoparmelia loxodella (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Culberson & Esslinger, Bryologist 79: 43 (1976)
+Taxon 53(4): 968 (2004)
 
 #### Original name
 Parmelia loxodella Essl.

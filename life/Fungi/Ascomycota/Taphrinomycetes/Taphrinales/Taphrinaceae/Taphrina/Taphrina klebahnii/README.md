@@ -1,8 +1,7 @@
-Taphrina klebahni Wieben SPECIES
-=======
+# Taphrina klebahnii Wieben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Taphrina klebahni Wieben
+Taphrina klebahnii Wieben
 
 ### Remarks
 null

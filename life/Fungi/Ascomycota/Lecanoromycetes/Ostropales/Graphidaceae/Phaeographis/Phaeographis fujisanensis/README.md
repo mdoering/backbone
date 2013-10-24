@@ -1,5 +1,4 @@
-Phaeographis fujisanensis Kashiw. & M. Nakan. SPECIES
-=======
+# Phaeographis fujisanensis Kashiw. & M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina ecuadorensis Syd. SPECIES
-=======
+# Taphrina ecuadorensis Syd. SPECIES
 
 #### Status
 ACCEPTED

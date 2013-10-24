@@ -1,5 +1,4 @@
-Boletus umbriniceps (Murrill) Murrill SPECIES
-=======
+# Boletus umbriniceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

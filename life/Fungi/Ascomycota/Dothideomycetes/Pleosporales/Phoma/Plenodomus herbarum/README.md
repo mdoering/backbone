@@ -1,5 +1,4 @@
-Plenodomus herbarum Allesch. SPECIES
-=======
+# Plenodomus herbarum Allesch. SPECIES
 
 #### Status
 ACCEPTED

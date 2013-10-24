@@ -1,17 +1,16 @@
-Dictyophora rubrovalvata M. Zang, D.G. Ji & X.X. Liu SPECIES
-=======
+# Dictyophora rubrovolvata M. Zang, D.G. Ji & X.X. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Yunnan Zhiwu Yanjiu 2: 11 (1976)
 
 #### Original name
-Dictyophora rubrovalvata M. Zang, D.G. Ji & X.X. Liu
+Dictyophora rubrovolvata M. Zang, D.G. Ji & X.X. Liu
 
 ### Remarks
 null

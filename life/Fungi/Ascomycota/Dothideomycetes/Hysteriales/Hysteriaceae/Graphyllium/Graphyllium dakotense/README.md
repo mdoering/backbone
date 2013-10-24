@@ -1,5 +1,4 @@
-Graphyllium dakotense Rehm SPECIES
-=======
+# Graphyllium dakotense Rehm SPECIES
 
 #### Status
 ACCEPTED

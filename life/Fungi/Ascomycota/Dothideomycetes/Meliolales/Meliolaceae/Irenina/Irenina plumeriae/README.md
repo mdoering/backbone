@@ -1,5 +1,4 @@
-Irenina plumeriae Hansf. & Deighton SPECIES
-=======
+# Irenina plumeriae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcosoma Casp. GENUS
-=======
+# Sarcosoma Casp. GENUS
 
 #### Status
 ACCEPTED

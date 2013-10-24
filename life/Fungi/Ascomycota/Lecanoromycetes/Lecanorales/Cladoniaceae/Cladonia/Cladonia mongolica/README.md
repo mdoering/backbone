@@ -1,5 +1,4 @@
-Cladonia mongolica Ahti SPECIES
-=======
+# Cladonia mongolica Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma oroleucum Pat. & Har., 1906 SPECIES
-=======
+# Ganoderma oroleucum Pat. & Har., 1906 SPECIES
 
 #### Status
 ACCEPTED

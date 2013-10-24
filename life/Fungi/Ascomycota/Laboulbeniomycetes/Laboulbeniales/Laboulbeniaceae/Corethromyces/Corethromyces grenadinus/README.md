@@ -1,5 +1,4 @@
-Corethromyces grenadinus Thaxt. SPECIES
-=======
+# Corethromyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium tuberivorum Wilcox & Link SPECIES
-=======
+# Fusarium tuberivorum Wilcox & Link SPECIES
 
 #### Status
 ACCEPTED

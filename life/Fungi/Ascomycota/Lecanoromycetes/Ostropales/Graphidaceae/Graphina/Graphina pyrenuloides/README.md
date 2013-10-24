@@ -1,5 +1,4 @@
-Graphina pyrenuloides Müll. Arg. SPECIES
-=======
+# Graphina pyrenuloides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

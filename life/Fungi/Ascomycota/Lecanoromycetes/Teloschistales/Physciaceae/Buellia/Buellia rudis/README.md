@@ -1,5 +1,4 @@
-Buellia rudis (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia rudis (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia sundara N.G. Nair & P.D. Tyagi SPECIES
-=======
+# Periconia sundara N.G. Nair & P.D. Tyagi SPECIES
 
 #### Status
 ACCEPTED

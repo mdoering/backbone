@@ -1,5 +1,4 @@
-Septoria slaptoniensis D. Hawksw. & Punith., 1973 SPECIES
-=======
+# Septoria slaptoniensis D. Hawksw. & Punith., 1973 SPECIES
 
 #### Status
 ACCEPTED

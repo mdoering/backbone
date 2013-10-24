@@ -1,5 +1,4 @@
-Puccinia yunnanensis F.L. Tai SPECIES
-=======
+# Puccinia yunnanensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

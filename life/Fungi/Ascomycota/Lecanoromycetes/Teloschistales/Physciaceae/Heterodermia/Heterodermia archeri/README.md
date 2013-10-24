@@ -1,5 +1,4 @@
-Heterodermia archeri Elix SPECIES
-=======
+# Heterodermia archeri Elix SPECIES
 
 #### Status
 ACCEPTED

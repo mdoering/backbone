@@ -1,5 +1,4 @@
-Pyrenula hypophytoides Harm. SPECIES
-=======
+# Pyrenula hypophytoides Harm. SPECIES
 
 #### Status
 ACCEPTED

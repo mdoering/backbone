@@ -1,5 +1,4 @@
-Streptomyces brasiliensis (Falcão de Morais et al., 1966) Goodfellow et al., 1986 SPECIES
-=======
+# Streptomyces brasiliensis (Falcão de Morais et al., 1966) Goodfellow et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

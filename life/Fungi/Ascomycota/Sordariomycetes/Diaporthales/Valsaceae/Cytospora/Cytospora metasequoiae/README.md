@@ -1,5 +1,4 @@
-Cytospora metasequoiae Gucevic SPECIES
-=======
+# Cytospora metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

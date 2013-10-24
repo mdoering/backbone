@@ -1,5 +1,4 @@
-Pseudohelotium vernale (Velen.) Svrcek SPECIES
-=======
+# Pseudohelotium vernale (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

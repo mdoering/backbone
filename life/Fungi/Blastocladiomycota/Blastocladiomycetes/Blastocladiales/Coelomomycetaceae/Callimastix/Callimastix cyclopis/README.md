@@ -1,5 +1,4 @@
-Callimastix cyclopis Weissenb., 1912 SPECIES
-=======
+# Callimastix cyclopis Weissenb., 1912 SPECIES
 
 #### Status
 ACCEPTED

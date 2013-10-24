@@ -1,5 +1,4 @@
-Afipia massiliensis La Scola et al., 2002 SPECIES
-=======
+# Afipia massiliensis La Scola et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

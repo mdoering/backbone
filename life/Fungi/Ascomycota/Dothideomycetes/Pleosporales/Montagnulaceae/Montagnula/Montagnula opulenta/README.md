@@ -1,17 +1,16 @@
-Amphisphaeria opulenta (De Not.) De Not. SPECIES
-=======
+# Montagnula opulenta (De Not.) Aptroot, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 340 (1995)
 
 #### Original name
-null
+Sphaeria opulenta De Not., 1839
 
 ### Remarks
 null

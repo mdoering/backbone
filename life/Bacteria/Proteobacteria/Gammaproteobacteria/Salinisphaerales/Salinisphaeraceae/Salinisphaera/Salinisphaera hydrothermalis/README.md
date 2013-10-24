@@ -1,5 +1,4 @@
-Salinisphaera hydrothermalis Crespo-Medina, Chatziefthimiou, Cruz-Matos, Perez-Rodriguez, Barkay, Lutz, Starovoytov & Vetriani, 2009 SPECIES
-=======
+# Salinisphaera hydrothermalis Crespo-Medina, Chatziefthimiou, Cruz-Matos, Perez-Rodriguez, Barkay, Lutz, Starovoytov & Vetriani, 2009 SPECIES
 
 #### Status
 ACCEPTED

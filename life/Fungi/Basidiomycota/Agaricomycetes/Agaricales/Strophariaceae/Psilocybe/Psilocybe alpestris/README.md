@@ -1,5 +1,4 @@
-Psilocybe alpestris Singer SPECIES
-=======
+# Psilocybe alpestris Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Marginulina angistoma Stache, 1864 SPECIES
-=======
+# Hemirobulina angistoma (Stache, 1864) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

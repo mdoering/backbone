@@ -1,5 +1,4 @@
-Fusicladium africanum Crous SPECIES
-=======
+# Fusicladium africanum Crous SPECIES
 
 #### Status
 ACCEPTED

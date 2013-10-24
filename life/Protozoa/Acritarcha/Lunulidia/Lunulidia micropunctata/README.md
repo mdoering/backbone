@@ -1,5 +1,4 @@
-Lunulidia micropunctata Pöthé de Baldis, 1979 SPECIES
-=======
+# Lunulidia micropunctata Pöthé de Baldis, 1979 SPECIES
 
 #### Status
 ACCEPTED

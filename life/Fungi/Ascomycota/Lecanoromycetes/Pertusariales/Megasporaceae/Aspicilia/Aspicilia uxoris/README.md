@@ -1,5 +1,4 @@
-Aspicilia uxoris (Werner) V. J. Rico, Aragón & Esnault SPECIES
-=======
+# Aspicilia uxoris (Werner) V. J. Rico, Aragón & Esnault SPECIES
 
 #### Status
 ACCEPTED

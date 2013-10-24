@@ -1,5 +1,4 @@
-Schulzeria echinulata Beeli SPECIES
-=======
+# Schulzeria echinulata Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamarina schimperi C.W. Dodge SPECIES
-=======
+# Squamarina schimperi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

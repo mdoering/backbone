@@ -1,5 +1,4 @@
-Helminthosporium iteodaphnes Thüm. SPECIES
-=======
+# Helminthosporium iteodaphnes Thüm. SPECIES
 
 #### Status
 ACCEPTED

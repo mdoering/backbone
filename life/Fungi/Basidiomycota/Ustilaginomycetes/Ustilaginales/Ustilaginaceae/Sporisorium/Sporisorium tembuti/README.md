@@ -1,5 +1,4 @@
-Sporisorium tembuti (Henn. & Pole-Evans) Vánky SPECIES
-=======
+# Sporisorium tembuti (Henn. & Pole-Evans) Vánky SPECIES
 
 #### Status
 ACCEPTED

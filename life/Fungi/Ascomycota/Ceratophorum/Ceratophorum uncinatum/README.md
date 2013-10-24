@@ -1,5 +1,4 @@
-Ceratophorum uncinatum (Peck & Clinton) Sacc. SPECIES
-=======
+# Ceratophorum uncinatum (Peck & Clinton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

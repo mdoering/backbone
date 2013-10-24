@@ -1,5 +1,4 @@
-Intranstylum aselli SPECIES
-=======
+# Intranstylum aselli SPECIES
 
 #### Status
 ACCEPTED

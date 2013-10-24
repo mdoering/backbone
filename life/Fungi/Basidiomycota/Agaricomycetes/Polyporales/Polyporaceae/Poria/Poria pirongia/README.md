@@ -1,5 +1,4 @@
-Poria pirongia G. Cunn. SPECIES
-=======
+# Poria pirongia G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomaselliomyces arthonioidis Cif. & Tomas. SPECIES
-=======
+# Tomaselliomyces arthonioidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

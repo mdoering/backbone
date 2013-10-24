@@ -1,5 +1,4 @@
-Parmeliopsis angustior (Nyl.) Nyl. SPECIES
-=======
+# Parmeliopsis angustior (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium microsporum Ellis & Everh. SPECIES
-=======
+# Coniosporium microsporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

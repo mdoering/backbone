@@ -1,5 +1,4 @@
-Hysterium jabalpurense R.K. Verma & N. Sharma, 2008 SPECIES
-=======
+# Hysterium jabalpurense R.K. Verma & N. Sharma, 2008 SPECIES
 
 #### Status
 ACCEPTED

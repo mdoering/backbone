@@ -1,5 +1,4 @@
-Aspicilia decolorata (Vain.) SPECIES
-=======
+# Aspicilia decolorata (Vain.) SPECIES
 
 #### Status
 ACCEPTED

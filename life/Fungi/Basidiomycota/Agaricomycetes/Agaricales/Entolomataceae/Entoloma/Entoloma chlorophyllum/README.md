@@ -1,5 +1,4 @@
-Entoloma chlorophyllum Noordel., 1980 SPECIES
-=======
+# Entoloma chlorophyllum Noordel., 1980 SPECIES
 
 #### Status
 ACCEPTED

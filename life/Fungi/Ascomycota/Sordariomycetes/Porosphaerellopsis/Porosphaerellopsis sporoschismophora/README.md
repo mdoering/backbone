@@ -1,17 +1,16 @@
-Phomatospora macrospora Z.Q. Yuan, 1997 SPECIES
-=======
+# Porosphaerellopsis sporoschismophora (Samuels & E. Müll.) E. Müll. & Samuels, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yuan & Mohammed, Mycotaxon 63: 17 (1997)
+Sydowia 35: 143 (1982)
 
 #### Original name
-Phomatospora macrospora Z.Q. Yuan, 1997
+Porosphaeria sporoschismophora Samuels & E. Müll., 1979
 
 ### Remarks
 null

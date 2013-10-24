@@ -1,17 +1,16 @@
-Lophionema chodati Lendn. SPECIES
-=======
+# Lophionema chodatii Lendn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Genève 184 (1916)
 
 #### Original name
-Lophionema chodati Lendn.
+Lophionema chodatii Lendn.
 
 ### Remarks
 null

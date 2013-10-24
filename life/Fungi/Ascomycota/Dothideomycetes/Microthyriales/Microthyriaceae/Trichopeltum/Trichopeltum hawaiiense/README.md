@@ -1,17 +1,16 @@
-Trichopeltum hawaiiensis Bat. & C.A.A. Costa SPECIES
-=======
+# Trichopeltum hawaiiense Bat. & C.A.A. Costa, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Batista, Costa & Ciferri, Publções Inst. Micol. Recife 90: 21 (1957)
 
 #### Original name
-Trichopeltum hawaiiensis Bat. & C.A.A. Costa
+Trichopeltum hawaiiense Bat. & C.A.A. Costa, 1957
 
 ### Remarks
 null

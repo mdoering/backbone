@@ -1,5 +1,4 @@
-Sordaria inaequilateralis Cain SPECIES
-=======
+# Sordaria inaequilateralis Cain SPECIES
 
 #### Status
 ACCEPTED

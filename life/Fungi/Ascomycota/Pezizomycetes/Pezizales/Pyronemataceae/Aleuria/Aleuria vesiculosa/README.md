@@ -1,5 +1,4 @@
-Aleuria vesiculosa Fr. SPECIES
-=======
+# Aleuria vesiculosa Fr. SPECIES
 
 #### Status
 ACCEPTED

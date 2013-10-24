@@ -1,5 +1,4 @@
-Physalospora oxystoma Sacc. & Ellis SPECIES
-=======
+# Physalospora oxystoma Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromulina parvula Conrad SPECIES
-=======
+# Chromulina parvula Conrad SPECIES
 
 #### Status
 ACCEPTED

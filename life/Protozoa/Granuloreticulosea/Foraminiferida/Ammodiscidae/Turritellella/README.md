@@ -1,17 +1,16 @@
-Turritellopsis Galloway, 1933 GENUS
-=======
+# Turritellella Rhumbler, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Man. Foram. , 101.
+Arch. Protistenk. 3, 276, 283.
 
 #### Original name
-null
+Turitellopsis Rhumbler, 1895
 
 ### Remarks
 null

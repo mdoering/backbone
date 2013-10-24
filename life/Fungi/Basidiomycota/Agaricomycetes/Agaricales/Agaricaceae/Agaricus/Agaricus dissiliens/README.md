@@ -1,5 +1,4 @@
-Agaricus dissiliens Fr. SPECIES
-=======
+# Agaricus dissiliens Fr. SPECIES
 
 #### Status
 ACCEPTED

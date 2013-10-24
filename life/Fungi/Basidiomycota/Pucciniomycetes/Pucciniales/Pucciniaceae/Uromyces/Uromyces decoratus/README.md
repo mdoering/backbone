@@ -1,14 +1,13 @@
-Nigredo decorata (Syd. & P. Syd.) Arthur, 1926 SPECIES
-=======
+# Uromyces decoratus Syd. & P. Syd., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(11): 763 (1926)
+Annls mycol. 5(6): 491 (1907)
 
 #### Original name
 Uromyces decoratus Syd. & P. Syd., 1907

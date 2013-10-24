@@ -1,5 +1,4 @@
-Nanomyces appendiculatus Thaxt., 1931 SPECIES
-=======
+# Nanomyces appendiculatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

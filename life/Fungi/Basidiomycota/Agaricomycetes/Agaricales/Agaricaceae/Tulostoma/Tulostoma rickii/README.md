@@ -1,5 +1,4 @@
-Tulostoma rickii Lloyd SPECIES
-=======
+# Tulostoma rickii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca magni-filii Poelt SPECIES
-=======
+# Caloplaca magni-filii Poelt SPECIES
 
 #### Status
 ACCEPTED

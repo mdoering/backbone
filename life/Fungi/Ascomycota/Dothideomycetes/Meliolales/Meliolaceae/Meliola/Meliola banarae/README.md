@@ -1,5 +1,4 @@
-Meliola banarae var. banarae VARIETY
-=======
+# Meliola banarae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26: 249 (1928)
 
 #### Original name
-Meliola banarae var. banarae
+Meliola banarae F. Stevens
 
 ### Remarks
 null

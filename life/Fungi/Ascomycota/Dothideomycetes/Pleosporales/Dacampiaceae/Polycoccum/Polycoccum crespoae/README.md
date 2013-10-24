@@ -1,5 +1,4 @@
-Polycoccum crespoae Váczi & D. Hawksw. SPECIES
-=======
+# Polycoccum crespoae Váczi & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

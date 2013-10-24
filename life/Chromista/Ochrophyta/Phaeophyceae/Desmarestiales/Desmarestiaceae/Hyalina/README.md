@@ -1,5 +1,4 @@
-Hyalina Stackhouse, 1809 GENUS
-=======
+# Hyalina Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

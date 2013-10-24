@@ -1,5 +1,4 @@
-Lepiota cretini Bataille SPECIES
-=======
+# Lepiota cretini Bataille SPECIES
 
 #### Status
 ACCEPTED

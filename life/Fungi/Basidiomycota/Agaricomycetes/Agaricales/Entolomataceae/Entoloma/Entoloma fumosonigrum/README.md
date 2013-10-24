@@ -1,5 +1,4 @@
-Entoloma fumosonigrum Peck SPECIES
-=======
+# Entoloma fumosonigrum Peck SPECIES
 
 #### Status
 ACCEPTED

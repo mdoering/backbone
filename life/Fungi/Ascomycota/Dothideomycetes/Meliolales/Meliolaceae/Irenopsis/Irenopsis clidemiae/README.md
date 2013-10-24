@@ -1,5 +1,4 @@
-Irenopsis clidemiae (F. Stevens) Hansf. SPECIES
-=======
+# Irenopsis clidemiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phylloporina platypoda (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Strigula platypoda (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 22 (1890)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 159 (1995)
 
 #### Original name
 Porina platypoda Müll. Arg.

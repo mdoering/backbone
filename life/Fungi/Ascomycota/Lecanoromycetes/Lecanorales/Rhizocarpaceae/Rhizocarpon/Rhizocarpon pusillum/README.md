@@ -1,5 +1,4 @@
-Rhizocarpon pusillum var. pusillum VARIETY
-=======
+# Rhizocarpon pusillum Runemark SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon pusillum var. pusillum
+Rhizocarpon pusillum Runemark
 
 ### Remarks
 null

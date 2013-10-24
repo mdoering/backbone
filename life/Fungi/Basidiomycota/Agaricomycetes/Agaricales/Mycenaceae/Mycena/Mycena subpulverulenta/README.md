@@ -1,5 +1,4 @@
-Mycena subpulverulenta Murrill SPECIES
-=======
+# Mycena subpulverulenta Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium sulphurosum Bres. SPECIES
-=======
+# Corticium sulphurosum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella smithiana Cooke, 1878 SPECIES
-=======
+# Morchella smithiana Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

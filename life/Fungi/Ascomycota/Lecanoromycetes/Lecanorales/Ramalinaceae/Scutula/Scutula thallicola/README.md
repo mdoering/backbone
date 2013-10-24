@@ -1,5 +1,4 @@
-Scutula thallicola (A. Massal.) Anzi SPECIES
-=======
+# Scutula thallicola (A. Massal.) Anzi SPECIES
 
 #### Status
 ACCEPTED

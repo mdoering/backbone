@@ -1,5 +1,4 @@
-Tympanis neopithya Ouell. & Piroz. SPECIES
-=======
+# Tympanis neopithya Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

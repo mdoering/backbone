@@ -1,5 +1,4 @@
-Byssosphaeria pachnostoma Berk. & M.A. Curtis SPECIES
-=======
+# Byssosphaeria pachnostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

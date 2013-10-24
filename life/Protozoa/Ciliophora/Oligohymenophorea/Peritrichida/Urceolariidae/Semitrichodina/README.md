@@ -1,5 +1,4 @@
-Semitrichodina Kazubski, 1958 GENUS
-=======
+# Semitrichodina Kazubski, 1958 GENUS
 
 #### Status
 ACCEPTED

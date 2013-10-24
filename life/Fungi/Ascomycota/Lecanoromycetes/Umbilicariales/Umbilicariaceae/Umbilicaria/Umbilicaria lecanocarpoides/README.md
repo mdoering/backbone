@@ -1,5 +1,4 @@
-Umbilicaria lecanocarpoides Nyl. SPECIES
-=======
+# Umbilicaria lecanocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

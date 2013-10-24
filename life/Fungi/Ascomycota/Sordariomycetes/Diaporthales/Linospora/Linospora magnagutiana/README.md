@@ -1,5 +1,4 @@
-Linospora magnagutiana Sacc. SPECIES
-=======
+# Linospora magnagutiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

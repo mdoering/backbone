@@ -1,5 +1,4 @@
-Clonostachys miodochialis Schroers SPECIES
-=======
+# Clonostachys miodochialis Schroers SPECIES
 
 #### Status
 ACCEPTED

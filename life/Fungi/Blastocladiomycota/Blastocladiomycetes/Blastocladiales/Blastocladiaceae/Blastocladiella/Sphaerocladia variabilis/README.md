@@ -1,5 +1,4 @@
-Sphaerocladia variabilis Stüben SPECIES
-=======
+# Sphaerocladia variabilis Stüben SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella populnea Sacc. SPECIES
-=======
+# Sphaerella populnea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria canobrunnea Schild SPECIES
-=======
+# Ramaria canobrunnea Schild SPECIES
 
 #### Status
 ACCEPTED

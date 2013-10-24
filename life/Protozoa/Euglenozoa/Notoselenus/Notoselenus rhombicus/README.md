@@ -1,8 +1,7 @@
-Notoselenus obliquus sensu Skuja, 1939 SPECIES
-=======
+# Notoselenus rhombicus Larsen, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

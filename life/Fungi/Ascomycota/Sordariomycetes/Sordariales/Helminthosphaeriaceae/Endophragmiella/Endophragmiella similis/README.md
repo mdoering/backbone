@@ -1,5 +1,4 @@
-Endophragmiella similis Hol.-Jech. SPECIES
-=======
+# Endophragmiella similis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

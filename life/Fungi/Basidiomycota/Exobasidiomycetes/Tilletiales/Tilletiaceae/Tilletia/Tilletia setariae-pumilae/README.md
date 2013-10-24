@@ -1,5 +1,4 @@
-Tilletia setariae-pumilae Vánky & N.D. Sharma SPECIES
-=======
+# Tilletia setariae-pumilae Vánky & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

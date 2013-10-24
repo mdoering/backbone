@@ -1,5 +1,4 @@
-Hypoxylon coryphae Rehm SPECIES
-=======
+# Hypoxylon coryphae Rehm SPECIES
 
 #### Status
 ACCEPTED

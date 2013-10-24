@@ -1,14 +1,13 @@
-Xerulina verruculosa (Singer) Singer, 1962 SPECIES
-=======
+# Cyptotrama verruculosum (Singer) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 59 (1962)
+Beih. Sydowia 7: 34 (1973)
 
 #### Original name
 Xerula verruculosa Singer, 1953

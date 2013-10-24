@@ -1,5 +1,4 @@
-Erythrosphaera GENUS
-=======
+# Erythrosphaera GENUS
 
 #### Status
 ACCEPTED

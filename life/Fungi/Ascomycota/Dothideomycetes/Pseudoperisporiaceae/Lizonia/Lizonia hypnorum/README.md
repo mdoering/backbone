@@ -1,5 +1,4 @@
-Lizonia hypnorum Ferd. & Winge SPECIES
-=======
+# Lizonia hypnorum Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

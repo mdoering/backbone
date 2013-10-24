@@ -1,5 +1,4 @@
-Mycena neuhoffii var. neuhoffii VARIETY
-=======
+# Mycena neuhoffii Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 2(3): XIX (1971)
 
 #### Original name
-Mycena neuhoffii var. neuhoffii
+Mycena neuhoffii Raithelh.
 
 ### Remarks
 null

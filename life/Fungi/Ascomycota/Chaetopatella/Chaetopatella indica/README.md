@@ -1,5 +1,4 @@
-Chaetopatella indica R.C. Rajak & Soni SPECIES
-=======
+# Chaetopatella indica R.C. Rajak & Soni SPECIES
 
 #### Status
 ACCEPTED

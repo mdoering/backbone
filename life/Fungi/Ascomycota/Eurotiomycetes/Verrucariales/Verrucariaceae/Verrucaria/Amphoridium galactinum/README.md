@@ -1,5 +1,4 @@
-Amphoridium galactinum A. Massal. SPECIES
-=======
+# Amphoridium galactinum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

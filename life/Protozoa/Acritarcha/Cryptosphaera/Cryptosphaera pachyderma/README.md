@@ -1,5 +1,4 @@
-Cryptosphaera pachyderma Sah & Kar, 1974 SPECIES
-=======
+# Cryptosphaera pachyderma Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

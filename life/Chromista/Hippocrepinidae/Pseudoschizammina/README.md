@@ -1,5 +1,4 @@
-Pseudoschizammina Saidova, 1975 GENUS
-=======
+# Pseudoschizammina Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

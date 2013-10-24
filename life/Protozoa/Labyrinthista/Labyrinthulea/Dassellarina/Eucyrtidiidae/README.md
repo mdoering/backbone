@@ -1,5 +1,4 @@
-Eucyrtidiidae Ehrenberg, 1847 FAMILY
-=======
+# Eucyrtidiidae Ehrenberg, 1847 FAMILY
 
 #### Status
 ACCEPTED

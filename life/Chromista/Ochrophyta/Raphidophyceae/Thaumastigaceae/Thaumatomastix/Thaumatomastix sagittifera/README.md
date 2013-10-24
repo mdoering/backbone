@@ -1,8 +1,7 @@
-Reckertia sagittifera Conrad, 1920 SPECIES
-=======
+# Thaumatomastix sagittifera (Conrad) Beech & Moestrup, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

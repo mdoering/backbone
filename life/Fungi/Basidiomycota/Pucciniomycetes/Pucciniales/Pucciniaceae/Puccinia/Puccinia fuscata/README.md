@@ -1,5 +1,4 @@
-Puccinia fuscata Arthur & Holw. SPECIES
-=======
+# Puccinia fuscata Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

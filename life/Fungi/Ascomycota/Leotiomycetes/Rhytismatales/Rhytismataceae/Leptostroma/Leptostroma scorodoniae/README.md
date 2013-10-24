@@ -1,5 +1,4 @@
-Leptostroma scorodoniae Lib. SPECIES
-=======
+# Leptostroma scorodoniae Lib. SPECIES
 
 #### Status
 ACCEPTED

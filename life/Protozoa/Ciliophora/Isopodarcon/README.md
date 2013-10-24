@@ -1,5 +1,4 @@
-Isopodarcon Jankowski, 1981 GENUS
-=======
+# Isopodarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

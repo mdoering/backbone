@@ -1,5 +1,4 @@
-Sporomusa paucivorans Hermann et al., 1987 SPECIES
-=======
+# Sporomusa paucivorans Hermann et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

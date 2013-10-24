@@ -1,5 +1,4 @@
-Physalospora baccaureae Overeem SPECIES
-=======
+# Physalospora baccaureae Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strossmayeria Schulzer GENUS
-=======
+# Strossmayeria Schulzer GENUS
 
 #### Status
 ACCEPTED

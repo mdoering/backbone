@@ -1,5 +1,4 @@
-Cucurbitaria rimulina Fairm. SPECIES
-=======
+# Cucurbitaria rimulina Fairm. SPECIES
 
 #### Status
 ACCEPTED

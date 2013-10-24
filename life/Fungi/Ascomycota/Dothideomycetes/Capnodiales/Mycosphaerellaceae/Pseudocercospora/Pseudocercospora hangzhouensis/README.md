@@ -1,5 +1,4 @@
-Pseudocercospora hangzhouensis X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora hangzhouensis X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

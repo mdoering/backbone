@@ -1,5 +1,4 @@
-Crepidotus sikkimensis Locq. & Sarwal SPECIES
-=======
+# Crepidotus sikkimensis Locq. & Sarwal SPECIES
 
 #### Status
 ACCEPTED

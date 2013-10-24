@@ -1,5 +1,4 @@
-Aspicilia holmiensis (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia holmiensis (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

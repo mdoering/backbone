@@ -1,5 +1,4 @@
-Caloplaca thracopontica Vondrák & Šoun SPECIES
-=======
+# Caloplaca thracopontica Vondrák & Šoun SPECIES
 
 #### Status
 ACCEPTED

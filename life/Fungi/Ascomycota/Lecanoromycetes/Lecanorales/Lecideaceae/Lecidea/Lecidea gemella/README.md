@@ -1,5 +1,4 @@
-Lecidea gemella (Anzi) Stizenb. SPECIES
-=======
+# Lecidea gemella (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

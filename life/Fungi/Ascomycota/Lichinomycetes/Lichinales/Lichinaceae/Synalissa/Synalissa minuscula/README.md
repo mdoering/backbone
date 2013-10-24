@@ -1,5 +1,4 @@
-Synalissa minuscula Nyl. SPECIES
-=======
+# Synalissa minuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

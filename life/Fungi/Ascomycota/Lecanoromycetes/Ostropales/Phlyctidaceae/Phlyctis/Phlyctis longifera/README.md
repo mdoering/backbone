@@ -1,5 +1,4 @@
-Phlyctis longifera (Nyl.) D.J. Galloway & Guzmán SPECIES
-=======
+# Phlyctis longifera (Nyl.) D.J. Galloway & Guzmán SPECIES
 
 #### Status
 ACCEPTED

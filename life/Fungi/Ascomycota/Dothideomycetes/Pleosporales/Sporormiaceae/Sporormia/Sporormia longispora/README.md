@@ -1,5 +1,4 @@
-Sporormia longispora Cain SPECIES
-=======
+# Sporormia longispora Cain SPECIES
 
 #### Status
 ACCEPTED

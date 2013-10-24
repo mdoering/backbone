@@ -1,5 +1,4 @@
-Peltigera montis-wilhelmii Sérus., Goffinet, Miadl. & Vitik. SPECIES
-=======
+# Peltigera montis-wilhelmii Sérus., Goffinet, Miadl. & Vitik. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidium subvelatum (Räsänen) C.W. Dodge SPECIES
-=======
+# Lecanidium subvelatum (Räsänen) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

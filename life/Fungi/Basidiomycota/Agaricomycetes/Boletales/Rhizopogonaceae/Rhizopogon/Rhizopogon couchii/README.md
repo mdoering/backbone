@@ -1,5 +1,4 @@
-Rhizopogon couchii A.H. Sm. SPECIES
-=======
+# Rhizopogon couchii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina spissa (Syd. & P. Syd.) Bat. & H. Maia SPECIES
-=======
+# Parasterina spissa (Syd. & P. Syd.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

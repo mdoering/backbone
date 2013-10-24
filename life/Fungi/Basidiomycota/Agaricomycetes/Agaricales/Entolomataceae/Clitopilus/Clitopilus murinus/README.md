@@ -1,5 +1,4 @@
-Clitopilus murinus Murrill SPECIES
-=======
+# Clitopilus murinus Murrill SPECIES
 
 #### Status
 ACCEPTED

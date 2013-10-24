@@ -1,5 +1,4 @@
-Alternaria aliena E.G. Simmons SPECIES
-=======
+# Alternaria aliena E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

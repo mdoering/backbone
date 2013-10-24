@@ -1,5 +1,4 @@
-Mesniella hynnis Georgevitch, 1941 SPECIES
-=======
+# Mesniella hynnis Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

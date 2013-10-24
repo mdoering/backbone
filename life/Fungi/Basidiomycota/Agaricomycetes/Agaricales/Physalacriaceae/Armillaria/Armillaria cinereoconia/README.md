@@ -1,5 +1,4 @@
-Armillaria cinereoconia (G.F. Atk.) Locq. SPECIES
-=======
+# Armillaria cinereoconia (G.F. Atk.) Locq. SPECIES
 
 #### Status
 ACCEPTED

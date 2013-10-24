@@ -1,5 +1,4 @@
-Polyporus wirtgenii Fr. SPECIES
-=======
+# Polyporus wirtgenii Fr. SPECIES
 
 #### Status
 ACCEPTED

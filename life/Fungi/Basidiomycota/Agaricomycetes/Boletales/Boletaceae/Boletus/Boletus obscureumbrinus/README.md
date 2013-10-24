@@ -1,5 +1,4 @@
-Boletus obscureumbrinus Hongo SPECIES
-=======
+# Boletus obscureumbrinus Hongo SPECIES
 
 #### Status
 ACCEPTED

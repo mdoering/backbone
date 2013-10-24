@@ -1,5 +1,4 @@
-Anabaena gerdii E.J. Carpenter & Janson SPECIES
-=======
+# Anabaena gerdii E.J. Carpenter & Janson SPECIES
 
 #### Status
 ACCEPTED

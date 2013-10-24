@@ -1,5 +1,4 @@
-Stamnaria hyalopus P. Karst. SPECIES
-=======
+# Stamnaria hyalopus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

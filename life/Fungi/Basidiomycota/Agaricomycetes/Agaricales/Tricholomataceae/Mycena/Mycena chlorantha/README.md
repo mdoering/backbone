@@ -1,11 +1,10 @@
-Mycena virens sensu Rea (1922) SPECIES
-=======
+# Mycena chlorantha (Fr. Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

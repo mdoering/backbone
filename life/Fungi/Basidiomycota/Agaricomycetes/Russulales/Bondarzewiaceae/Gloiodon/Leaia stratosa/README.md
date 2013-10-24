@@ -1,5 +1,4 @@
-Leaia stratosa (Berk.) Banker SPECIES
-=======
+# Leaia stratosa (Berk.) Banker SPECIES
 
 #### Status
 ACCEPTED

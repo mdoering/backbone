@@ -1,5 +1,4 @@
-Asteridiella guatemalensis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella guatemalensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

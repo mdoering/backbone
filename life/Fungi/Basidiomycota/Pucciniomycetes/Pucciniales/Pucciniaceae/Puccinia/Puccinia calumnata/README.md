@@ -1,5 +1,4 @@
-Puccinia calumnata Syd. & P. Syd. SPECIES
-=======
+# Puccinia calumnata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

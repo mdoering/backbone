@@ -1,5 +1,4 @@
-Trichosphaeria pachyspora Sacc., M. Rousseau & E. Bommer SPECIES
-=======
+# Trichosphaeria pachyspora Sacc., M. Rousseau & E. Bommer SPECIES
 
 #### Status
 ACCEPTED

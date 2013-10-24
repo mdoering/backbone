@@ -1,5 +1,4 @@
-Graphina monophora (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina monophora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

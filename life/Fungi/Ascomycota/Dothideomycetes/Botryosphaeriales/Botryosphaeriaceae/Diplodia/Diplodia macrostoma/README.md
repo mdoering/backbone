@@ -1,5 +1,4 @@
-Diplodia macrostoma Lév. SPECIES
-=======
+# Diplodia macrostoma Lév. SPECIES
 
 #### Status
 ACCEPTED

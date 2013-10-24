@@ -1,5 +1,4 @@
-Puccinia lippiae Speg. SPECIES
-=======
+# Puccinia lippiae Speg. SPECIES
 
 #### Status
 ACCEPTED

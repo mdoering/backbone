@@ -1,5 +1,4 @@
-Sphaeria interpungens Heer SPECIES
-=======
+# Sphaeria interpungens Heer SPECIES
 
 #### Status
 ACCEPTED

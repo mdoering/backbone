@@ -1,5 +1,4 @@
-Valsaria haraeana (Syd. & P. Syd.) Syd. {?} SPECIES
-=======
+# Valsaria haraeana (Syd. & P. Syd.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

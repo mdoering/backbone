@@ -1,5 +1,4 @@
-Septogloeum spartinae (Ellis & Everh.) Wollenw. & Reinking SPECIES
-=======
+# Septogloeum spartinae (Ellis & Everh.) Wollenw. & Reinking SPECIES
 
 #### Status
 ACCEPTED

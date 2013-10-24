@@ -1,5 +1,4 @@
-Clonostachys rossmaniae Schroers SPECIES
-=======
+# Clonostachys rossmaniae Schroers SPECIES
 
 #### Status
 ACCEPTED

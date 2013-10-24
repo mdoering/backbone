@@ -1,5 +1,4 @@
-Blastenia fuscolutea (Ach.) A. Massal. SPECIES
-=======
+# Blastenia fuscolutea (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

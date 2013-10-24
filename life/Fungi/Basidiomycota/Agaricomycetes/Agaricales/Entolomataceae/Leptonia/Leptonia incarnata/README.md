@@ -1,5 +1,4 @@
-Leptonia incarnata anon. SPECIES
-=======
+# Leptonia incarnata anon. SPECIES
 
 #### Status
 ACCEPTED

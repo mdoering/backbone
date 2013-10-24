@@ -1,5 +1,4 @@
-Septoria martianoffiana Thüm. SPECIES
-=======
+# Septoria martianoffiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

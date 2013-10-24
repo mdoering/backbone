@@ -1,5 +1,4 @@
-Plagiotoma lateritia (Ehrenberg, 1831) Claparède & Lachmann, 1858 SPECIES
-=======
+# Plagiotoma lateritia (Ehrenberg, 1831) Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

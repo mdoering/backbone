@@ -1,5 +1,4 @@
-Physarum purpurascens Link SPECIES
-=======
+# Physarum purpurascens Link SPECIES
 
 #### Status
 ACCEPTED

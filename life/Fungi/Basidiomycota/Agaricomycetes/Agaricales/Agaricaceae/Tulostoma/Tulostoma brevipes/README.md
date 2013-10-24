@@ -1,5 +1,4 @@
-Tulostoma brevipes Petri SPECIES
-=======
+# Tulostoma brevipes Petri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma laburni (Westend.) Berl. & Voglino SPECIES
-=======
+# Macrophoma laburni (Westend.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

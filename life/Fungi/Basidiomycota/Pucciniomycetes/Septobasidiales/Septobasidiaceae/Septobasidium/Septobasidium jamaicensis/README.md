@@ -1,17 +1,16 @@
-Septobasidium jamaicense Burt SPECIES
-=======
+# Septobasidium jamaicensis Burt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annual Report of the Missouri Botanical Garden, St. Louis 3: (1916)
 
 #### Original name
-Septobasidium jamaicense Burt
+Septobasidium jamaicensis Burt
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo banisteriicola Henn. SPECIES
-=======
+# Uredo banisteriicola Henn. SPECIES
 
 #### Status
 ACCEPTED

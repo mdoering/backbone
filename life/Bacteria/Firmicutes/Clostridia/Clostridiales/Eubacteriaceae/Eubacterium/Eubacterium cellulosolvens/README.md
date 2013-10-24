@@ -1,11 +1,10 @@
-Cillobacterium cellulosolvens Bryant et al., 1958 SPECIES
-=======
+# Eubacterium cellulosolvens (Bryant et al., 1958) Holdeman and Moore, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

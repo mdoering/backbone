@@ -1,5 +1,4 @@
-Meliola cnestidis Doidge SPECIES
-=======
+# Meliola cnestidis Doidge SPECIES
 
 #### Status
 ACCEPTED

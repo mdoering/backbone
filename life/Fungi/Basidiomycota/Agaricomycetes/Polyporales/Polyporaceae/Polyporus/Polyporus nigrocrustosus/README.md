@@ -1,5 +1,4 @@
-Polyporus nigrocrustosus Lloyd SPECIES
-=======
+# Polyporus nigrocrustosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aleurodiscus candidus var. candidus VARIETY
-=======
+# Dendrothele candida (Schwein.) P.A. Lemke, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(3): 366 (1965)
 
 #### Original name
 null

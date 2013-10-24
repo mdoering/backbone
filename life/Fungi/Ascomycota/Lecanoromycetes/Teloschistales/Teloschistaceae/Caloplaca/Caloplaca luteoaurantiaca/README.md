@@ -1,5 +1,4 @@
-Caloplaca luteoaurantiaca M. Choisy & Werner SPECIES
-=======
+# Caloplaca luteoaurantiaca M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia granulata Werner SPECIES
-=======
+# Heppia granulata Werner SPECIES
 
 #### Status
 ACCEPTED

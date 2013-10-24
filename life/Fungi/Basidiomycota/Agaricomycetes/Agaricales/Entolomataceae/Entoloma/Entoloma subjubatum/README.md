@@ -1,5 +1,4 @@
-Entoloma subjubatum Murrill SPECIES
-=======
+# Entoloma subjubatum Murrill SPECIES
 
 #### Status
 ACCEPTED

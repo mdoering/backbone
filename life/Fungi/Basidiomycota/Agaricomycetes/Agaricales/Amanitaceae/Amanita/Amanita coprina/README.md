@@ -1,5 +1,4 @@
-Amanita coprina Fr. SPECIES
-=======
+# Amanita coprina Fr. SPECIES
 
 #### Status
 ACCEPTED

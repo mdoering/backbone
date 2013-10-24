@@ -1,5 +1,4 @@
-Sphaerulina steganostroma Sousa da Câmara SPECIES
-=======
+# Sphaerulina steganostroma Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

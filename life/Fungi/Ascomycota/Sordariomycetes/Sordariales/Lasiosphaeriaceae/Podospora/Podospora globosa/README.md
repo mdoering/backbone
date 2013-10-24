@@ -1,5 +1,4 @@
-Podospora globosa (Massee & E.S. Salmon) Cain, 1962 SPECIES
-=======
+# Podospora globosa (Massee & E.S. Salmon) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sulfurella (Wedd.) B. de Lesd. SPECIES
-=======
+# Lecidea sulfurella (Wedd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

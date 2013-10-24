@@ -1,5 +1,4 @@
-Nectria foertheri Döbbeler SPECIES
-=======
+# Nectria foertheri Döbbeler SPECIES
 
 #### Status
 ACCEPTED

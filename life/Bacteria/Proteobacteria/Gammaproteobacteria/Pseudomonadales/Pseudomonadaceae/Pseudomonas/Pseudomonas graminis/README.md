@@ -1,5 +1,4 @@
-Pseudomonas graminis Behrendt et al., 1999 SPECIES
-=======
+# Pseudomonas graminis Behrendt et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

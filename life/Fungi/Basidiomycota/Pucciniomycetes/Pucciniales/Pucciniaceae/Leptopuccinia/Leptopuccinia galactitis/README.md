@@ -1,8 +1,7 @@
-Leptopuccinia galactidis (P. Syd. & Syd.) Syd. SPECIES
-=======
+# Leptopuccinia galactitis (P. Syd. & Syd.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

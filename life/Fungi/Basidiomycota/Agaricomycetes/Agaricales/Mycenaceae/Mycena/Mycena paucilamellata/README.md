@@ -1,5 +1,4 @@
-Mycena paucilamellata A.H. Sm. SPECIES
-=======
+# Mycena paucilamellata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

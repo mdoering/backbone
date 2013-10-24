@@ -1,14 +1,13 @@
-Thelephora magnispora Burt, 1914 SPECIES
-=======
+# Aleurocystis magnispora (Burt) P.A. Lemke, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 1: 211 (1914)
+Can. J. Bot. 42: 760 (1964)
 
 #### Original name
 Thelephora magnispora Burt, 1914

@@ -1,5 +1,4 @@
-Cylindrosporium infuscans Ellis & Everh. SPECIES
-=======
+# Cylindrosporium infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

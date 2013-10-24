@@ -1,5 +1,4 @@
-Thamnidium mucoroides Zukal SPECIES
-=======
+# Thamnidium mucoroides Zukal SPECIES
 
 #### Status
 ACCEPTED

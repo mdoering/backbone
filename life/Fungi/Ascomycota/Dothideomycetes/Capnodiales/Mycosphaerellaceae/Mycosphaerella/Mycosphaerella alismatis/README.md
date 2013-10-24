@@ -1,5 +1,4 @@
-Mycosphaerella alismatis (Hollós) M. Morelet SPECIES
-=======
+# Mycosphaerella alismatis (Hollós) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

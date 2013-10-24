@@ -1,5 +1,4 @@
-Hendersonia baccharidis (Ellis) Kuntze SPECIES
-=======
+# Hendersonia baccharidis (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cintractia ekmani Cif. SPECIES
-=======
+# Ustanciosporium ekmanii (Cif.) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(3-4): 337 (2000)
 
 #### Original name
-Cintractia ekmani Cif.
+Cintractia ekmanii Cif., 1931
 
 ### Remarks
 null

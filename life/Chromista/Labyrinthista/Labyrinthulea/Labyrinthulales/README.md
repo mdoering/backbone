@@ -1,5 +1,4 @@
-Labyrinthulales E.A. Bessey ORDER
-=======
+# Labyrinthulales E.A. Bessey ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria viridella (Peck) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria viridella (Peck) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 108 (1984)
 
 #### Original name
-null
+Sphaeria viridella Peck, 1876
 
 ### Remarks
 null

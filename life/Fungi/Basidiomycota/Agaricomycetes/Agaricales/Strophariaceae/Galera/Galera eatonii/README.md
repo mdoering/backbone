@@ -1,8 +1,7 @@
-Galera eatoni Berk. SPECIES
-=======
+# Galera eatonii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Galera eatoni Berk.
+Galera eatonii Berk.
 
 ### Remarks
 null

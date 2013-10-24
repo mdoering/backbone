@@ -1,5 +1,4 @@
-Rickia excavata Thaxt. SPECIES
-=======
+# Rickia excavata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

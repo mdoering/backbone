@@ -1,5 +1,4 @@
-Macrosporium rubi Ellis SPECIES
-=======
+# Macrosporium rubi Ellis SPECIES
 
 #### Status
 ACCEPTED

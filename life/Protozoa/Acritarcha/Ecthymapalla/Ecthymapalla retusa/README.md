@@ -1,5 +1,4 @@
-Ecthymapalla retusa Loeblich & Wicander, 1976 SPECIES
-=======
+# Ecthymapalla retusa Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

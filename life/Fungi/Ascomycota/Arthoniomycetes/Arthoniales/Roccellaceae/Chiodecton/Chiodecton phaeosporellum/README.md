@@ -1,5 +1,4 @@
-Chiodecton phaeosporellum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton phaeosporellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

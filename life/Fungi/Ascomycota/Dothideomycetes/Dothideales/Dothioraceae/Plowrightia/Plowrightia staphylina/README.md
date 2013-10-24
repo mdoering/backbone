@@ -1,5 +1,4 @@
-Plowrightia staphylina Ellis & Everh. SPECIES
-=======
+# Plowrightia staphylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

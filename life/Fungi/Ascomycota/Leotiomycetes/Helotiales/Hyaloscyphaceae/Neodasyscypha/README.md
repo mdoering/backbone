@@ -1,5 +1,4 @@
-Neodasyscypha Suková & Spooner, 2005 GENUS
-=======
+# Neodasyscypha Suková & Spooner, 2005 GENUS
 
 #### Status
 ACCEPTED

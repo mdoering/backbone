@@ -1,5 +1,4 @@
-Boletus spectabilissimus Watling SPECIES
-=======
+# Boletus spectabilissimus Watling SPECIES
 
 #### Status
 ACCEPTED

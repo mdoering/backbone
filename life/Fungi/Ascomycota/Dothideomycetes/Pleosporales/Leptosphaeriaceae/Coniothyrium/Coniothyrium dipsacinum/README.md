@@ -1,5 +1,4 @@
-Coniothyrium dipsacinum (Bubák) Keissl. SPECIES
-=======
+# Coniothyrium dipsacinum (Bubák) Keissl. SPECIES
 
 #### Status
 ACCEPTED

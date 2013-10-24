@@ -1,5 +1,4 @@
-Septobasidium lilacinoalbum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium lilacinoalbum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes galegensis (Mont.) Sacc. SPECIES
-=======
+# Fomes galegensis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

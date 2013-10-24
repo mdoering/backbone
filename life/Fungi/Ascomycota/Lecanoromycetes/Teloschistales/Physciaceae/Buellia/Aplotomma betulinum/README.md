@@ -1,5 +1,4 @@
-Aplotomma betulinum SPECIES
-=======
+# Aplotomma betulinum SPECIES
 
 #### Status
 ACCEPTED

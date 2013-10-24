@@ -1,5 +1,4 @@
-Heteraulacacysta porosa Bujak, 1980 SPECIES
-=======
+# Heteraulacacysta porosa Bujak, 1980 SPECIES
 
 #### Status
 ACCEPTED

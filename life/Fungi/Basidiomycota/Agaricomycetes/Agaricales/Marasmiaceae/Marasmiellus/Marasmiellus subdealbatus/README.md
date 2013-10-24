@@ -1,5 +1,4 @@
-Marasmiellus subdealbatus T.H. Li SPECIES
-=======
+# Marasmiellus subdealbatus T.H. Li SPECIES
 
 #### Status
 ACCEPTED

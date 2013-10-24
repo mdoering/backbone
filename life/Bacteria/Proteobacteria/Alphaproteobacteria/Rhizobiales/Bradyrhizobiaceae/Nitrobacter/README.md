@@ -1,5 +1,4 @@
-Nitrobacter GENUS
-=======
+# Nitrobacter GENUS
 
 #### Status
 ACCEPTED

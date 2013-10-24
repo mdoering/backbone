@@ -1,5 +1,4 @@
-Patellaria citrinella Duby SPECIES
-=======
+# Patellaria citrinella Duby SPECIES
 
 #### Status
 ACCEPTED

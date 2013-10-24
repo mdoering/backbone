@@ -1,17 +1,16 @@
-Penicillium lasseni Paden SPECIES
-=======
+# Penicillium lassenii Paden, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 43(3-4): 266 (1971)
 
 #### Original name
-Penicillium lasseni Paden
+Penicillium lassenii Paden, 1971
 
 ### Remarks
 null

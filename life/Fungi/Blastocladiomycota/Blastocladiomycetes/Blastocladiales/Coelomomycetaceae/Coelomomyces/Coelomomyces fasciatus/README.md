@@ -1,5 +1,4 @@
-Coelomomyces fasciatus Couch & A.V.V. Iyengar SPECIES
-=======
+# Coelomomyces fasciatus Couch & A.V.V. Iyengar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Branchiomyces Plehn GENUS
-=======
+# Branchiomyces Plehn GENUS
 
 #### Status
 ACCEPTED

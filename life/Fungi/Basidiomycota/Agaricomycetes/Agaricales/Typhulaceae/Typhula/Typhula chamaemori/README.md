@@ -1,5 +1,4 @@
-Typhula chamaemori L. Holm & K. Holm, 1977 SPECIES
-=======
+# Typhula chamaemori L. Holm & K. Holm, 1977 SPECIES
 
 #### Status
 ACCEPTED

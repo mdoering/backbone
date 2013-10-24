@@ -1,5 +1,4 @@
-Peroneutypella ambiens Syd. & P. Syd. SPECIES
-=======
+# Peroneutypella ambiens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

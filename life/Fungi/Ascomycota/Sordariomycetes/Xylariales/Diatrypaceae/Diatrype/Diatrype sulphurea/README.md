@@ -1,5 +1,4 @@
-Diatrype sulphurea Fuckel SPECIES
-=======
+# Diatrype sulphurea Fuckel SPECIES
 
 #### Status
 ACCEPTED

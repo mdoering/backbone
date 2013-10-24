@@ -1,5 +1,4 @@
-Phyllosticta philodendrina Caball. SPECIES
-=======
+# Phyllosticta philodendrina Caball. SPECIES
 
 #### Status
 ACCEPTED

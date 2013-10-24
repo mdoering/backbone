@@ -1,5 +1,4 @@
-Agrocybe amara (Murrill) Singer SPECIES
-=======
+# Agrocybe amara (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

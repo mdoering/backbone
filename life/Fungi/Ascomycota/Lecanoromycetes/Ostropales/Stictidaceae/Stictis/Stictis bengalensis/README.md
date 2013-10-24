@@ -1,5 +1,4 @@
-Stictis bengalensis U.P. Singh & Pavgi SPECIES
-=======
+# Stictis bengalensis U.P. Singh & Pavgi SPECIES
 
 #### Status
 ACCEPTED

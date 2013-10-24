@@ -1,5 +1,4 @@
-Melanogaster nauseosus Coker & Couch SPECIES
-=======
+# Melanogaster nauseosus Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

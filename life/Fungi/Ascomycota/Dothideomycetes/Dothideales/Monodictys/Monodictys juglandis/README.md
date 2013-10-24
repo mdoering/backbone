@@ -1,5 +1,4 @@
-Monodictys juglandis Melnik SPECIES
-=======
+# Monodictys juglandis Melnik SPECIES
 
 #### Status
 ACCEPTED

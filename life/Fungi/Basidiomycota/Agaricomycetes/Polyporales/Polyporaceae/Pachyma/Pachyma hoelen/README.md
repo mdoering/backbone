@@ -1,5 +1,4 @@
-Pachyma hoelen Rumph. SPECIES
-=======
+# Pachyma hoelen Rumph. SPECIES
 
 #### Status
 ACCEPTED

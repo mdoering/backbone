@@ -1,5 +1,4 @@
-Ceratomyces rhizophorus Thaxt. SPECIES
-=======
+# Ceratomyces rhizophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

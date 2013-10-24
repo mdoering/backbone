@@ -1,5 +1,4 @@
-Chamonixia albida (Massee & Rodway) Y.S. Chang & Kantvilas SPECIES
-=======
+# Chamonixia albida (Massee & Rodway) Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

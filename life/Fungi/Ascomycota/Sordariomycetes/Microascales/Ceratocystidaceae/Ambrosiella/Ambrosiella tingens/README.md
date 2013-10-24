@@ -1,14 +1,13 @@
-Hyalorhinocladiella tingens (Lagerb. & Melin) T.C. Harr., 2010 SPECIES
-=======
+# Ambrosiella tingens (Lagerb. & Melin) L.R. Batra, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 59(6): 980 (1968)
 
 #### Original name
 null

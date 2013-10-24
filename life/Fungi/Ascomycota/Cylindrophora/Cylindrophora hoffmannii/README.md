@@ -1,17 +1,16 @@
-Cylindrophora hoffmanni Dasz. SPECIES
-=======
+# Cylindrophora hoffmannii Dasz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Genève, 2 sér. 4: 286 (1912)
 
 #### Original name
-Cylindrophora hoffmanni Dasz.
+Cylindrophora hoffmannii Dasz.
 
 ### Remarks
 null

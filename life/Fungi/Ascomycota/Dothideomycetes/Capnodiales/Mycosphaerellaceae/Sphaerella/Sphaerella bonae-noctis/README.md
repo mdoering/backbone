@@ -1,5 +1,4 @@
-Sphaerella bonae-noctis Sacc. SPECIES
-=======
+# Sphaerella bonae-noctis Sacc. SPECIES
 
 #### Status
 ACCEPTED

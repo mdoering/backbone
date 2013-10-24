@@ -1,5 +1,4 @@
-Ceratellopsis asphodeli Corner, 1950 SPECIES
-=======
+# Ceratellopsis asphodeli Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

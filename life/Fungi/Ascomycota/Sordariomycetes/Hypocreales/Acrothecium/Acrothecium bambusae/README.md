@@ -1,5 +1,4 @@
-Acrothecium bambusae Höhn. SPECIES
-=======
+# Acrothecium bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

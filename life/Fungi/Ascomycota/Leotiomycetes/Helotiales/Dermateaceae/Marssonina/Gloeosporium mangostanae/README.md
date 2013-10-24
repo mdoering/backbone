@@ -1,5 +1,4 @@
-Gloeosporium mangostanae Cif. SPECIES
-=======
+# Gloeosporium mangostanae Cif. SPECIES
 
 #### Status
 ACCEPTED

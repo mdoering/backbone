@@ -1,17 +1,16 @@
-Lophodermina prunicola Tehon, 1935 SPECIES
-=======
+# Lophodermium prunicola Tehon ex Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 105 (1935)
+Svensk bot. Tidskr. 30(3): 301 (1936)
 
 #### Original name
-Lophodermina prunicola Tehon, 1935
+Lophodermium prunicola Tehon ex Nannf., 1936
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spiroamphisiella Li, Song & Hu, 2007 GENUS
-=======
+# Spiroamphisiella Li, Song & Hu, 2007 GENUS
 
 #### Status
 ACCEPTED

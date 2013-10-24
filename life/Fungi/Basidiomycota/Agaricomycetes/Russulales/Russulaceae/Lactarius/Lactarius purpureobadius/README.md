@@ -1,5 +1,4 @@
-Lactarius purpureobadius Malençon ex Basso SPECIES
-=======
+# Lactarius purpureobadius Malençon ex Basso SPECIES
 
 #### Status
 ACCEPTED

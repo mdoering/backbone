@@ -1,5 +1,4 @@
-Amanita longistriata S. Imai SPECIES
-=======
+# Amanita longistriata S. Imai SPECIES
 
 #### Status
 ACCEPTED

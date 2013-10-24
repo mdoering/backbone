@@ -1,5 +1,4 @@
-Agaricus placenta Batsch SPECIES
-=======
+# Agaricus placenta Batsch SPECIES
 
 #### Status
 ACCEPTED

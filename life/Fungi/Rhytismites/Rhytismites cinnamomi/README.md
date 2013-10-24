@@ -1,5 +1,4 @@
-Rhytismites cinnamomi Mesch. SPECIES
-=======
+# Rhytismites cinnamomi Mesch. SPECIES
 
 #### Status
 ACCEPTED

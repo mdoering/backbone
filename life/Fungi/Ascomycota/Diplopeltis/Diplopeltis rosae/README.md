@@ -1,5 +1,4 @@
-Diplopeltis rosae Edward et al. {?} SPECIES
-=======
+# Diplopeltis rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

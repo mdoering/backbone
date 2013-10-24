@@ -1,5 +1,4 @@
-Astrothelium galbineum Kremp. SPECIES
-=======
+# Astrothelium galbineum Kremp. SPECIES
 
 #### Status
 ACCEPTED

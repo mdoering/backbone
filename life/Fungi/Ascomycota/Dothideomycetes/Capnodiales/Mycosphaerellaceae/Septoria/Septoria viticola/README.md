@@ -1,5 +1,4 @@
-Septoria viticola Berk. & M.A. Curtis SPECIES
-=======
+# Septoria viticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

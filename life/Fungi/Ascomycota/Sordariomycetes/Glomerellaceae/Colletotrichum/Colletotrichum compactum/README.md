@@ -1,5 +1,4 @@
-Colletotrichum compactum T.S. Ramakr. SPECIES
-=======
+# Colletotrichum compactum T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

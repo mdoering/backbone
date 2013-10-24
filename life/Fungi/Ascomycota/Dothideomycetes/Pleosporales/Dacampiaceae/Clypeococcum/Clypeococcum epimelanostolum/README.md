@@ -1,5 +1,4 @@
-Clypeococcum epimelanostolum (D. Hawksw. & Øvstedal) Grube & Hafellner SPECIES
-=======
+# Clypeococcum epimelanostolum (D. Hawksw. & Øvstedal) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

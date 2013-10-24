@@ -1,5 +1,4 @@
-Corynascus verrucosus Stchigel, Cano & Guarro, 2000 SPECIES
-=======
+# Corynascus verrucosus Stchigel, Cano & Guarro, 2000 SPECIES
 
 #### Status
 ACCEPTED

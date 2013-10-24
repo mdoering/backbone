@@ -1,5 +1,4 @@
-Trichosporon sinense X.H. Lu & M.X. Li, 1991 SPECIES
-=======
+# Trichosporon sinense X.H. Lu & M.X. Li, 1991 SPECIES
 
 #### Status
 ACCEPTED

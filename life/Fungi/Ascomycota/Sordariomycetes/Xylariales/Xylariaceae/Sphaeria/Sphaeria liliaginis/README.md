@@ -1,5 +1,4 @@
-Sphaeria liliaginis Opiz SPECIES
-=======
+# Sphaeria liliaginis Opiz SPECIES
 
 #### Status
 ACCEPTED

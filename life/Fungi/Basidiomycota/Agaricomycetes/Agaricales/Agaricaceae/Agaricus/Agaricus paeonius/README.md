@@ -1,5 +1,4 @@
-Agaricus paeonius Fr. SPECIES
-=======
+# Agaricus paeonius Fr. SPECIES
 
 #### Status
 ACCEPTED

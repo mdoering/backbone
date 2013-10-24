@@ -1,5 +1,4 @@
-Candida caryicola Kurtzman SPECIES
-=======
+# Candida caryicola Kurtzman SPECIES
 
 #### Status
 ACCEPTED

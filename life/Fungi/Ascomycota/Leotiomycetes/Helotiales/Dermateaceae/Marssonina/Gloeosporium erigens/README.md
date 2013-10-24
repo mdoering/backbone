@@ -1,5 +1,4 @@
-Gloeosporium erigens Maire SPECIES
-=======
+# Gloeosporium erigens Maire SPECIES
 
 #### Status
 ACCEPTED

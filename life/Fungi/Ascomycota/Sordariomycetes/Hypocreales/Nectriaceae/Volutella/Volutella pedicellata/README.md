@@ -1,5 +1,4 @@
-Volutella pedicellata (Preuss) Sacc. SPECIES
-=======
+# Volutella pedicellata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

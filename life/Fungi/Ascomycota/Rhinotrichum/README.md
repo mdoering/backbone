@@ -1,17 +1,16 @@
-Physospora Fr. GENUS
-=======
+# Rhinotrichum Corda, 1837 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fl. Scan. 360 (1835)
+null
 
 #### Original name
-Physospora Fr.
+null
 
 ### Remarks
 null

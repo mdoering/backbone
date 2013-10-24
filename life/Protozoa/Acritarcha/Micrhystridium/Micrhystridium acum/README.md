@@ -1,5 +1,4 @@
-Micrhystridium acum SPECIES
-=======
+# Micrhystridium acum SPECIES
 
 #### Status
 ACCEPTED

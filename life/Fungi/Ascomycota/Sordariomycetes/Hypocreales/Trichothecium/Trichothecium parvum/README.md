@@ -1,5 +1,4 @@
-Trichothecium parvum Rifai, 1966 SPECIES
-=======
+# Trichothecium parvum Rifai, 1966 SPECIES
 
 #### Status
 ACCEPTED

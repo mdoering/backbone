@@ -1,5 +1,4 @@
-Paraliobacillus ryukyuensis Ishikawa et al., 2003 SPECIES
-=======
+# Paraliobacillus ryukyuensis Ishikawa et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

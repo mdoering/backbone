@@ -1,5 +1,4 @@
-Urocystis ferrarisiana (Cif.) Zundel SPECIES
-=======
+# Urocystis ferrarisiana (Cif.) Zundel SPECIES
 
 #### Status
 ACCEPTED

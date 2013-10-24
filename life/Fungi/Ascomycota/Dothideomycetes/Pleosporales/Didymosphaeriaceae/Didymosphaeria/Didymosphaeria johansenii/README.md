@@ -1,5 +1,4 @@
-Didymosphaeria johansenii Dearn. SPECIES
-=======
+# Didymosphaeria johansenii Dearn. SPECIES
 
 #### Status
 ACCEPTED

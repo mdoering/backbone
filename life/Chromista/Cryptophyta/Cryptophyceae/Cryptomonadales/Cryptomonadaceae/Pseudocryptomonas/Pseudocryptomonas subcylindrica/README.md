@@ -1,5 +1,4 @@
-Pseudocryptomonas subcylindrica C. E. M. Bicudo & G. Tell SPECIES
-=======
+# Pseudocryptomonas subcylindrica C. E. M. Bicudo & G. Tell SPECIES
 
 #### Status
 ACCEPTED

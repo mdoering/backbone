@@ -1,5 +1,4 @@
-Stelliferidium pseudoornatum P. Pittau SPECIES
-=======
+# Stelliferidium pseudoornatum P. Pittau SPECIES
 
 #### Status
 ACCEPTED

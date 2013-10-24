@@ -1,5 +1,4 @@
-Placodium obscurellum (J. Lahm) Hepp SPECIES
-=======
+# Placodium obscurellum (J. Lahm) Hepp SPECIES
 
 #### Status
 ACCEPTED

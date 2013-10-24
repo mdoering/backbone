@@ -1,5 +1,4 @@
-Helminthosporium olyrae Viégas SPECIES
-=======
+# Helminthosporium olyrae Viégas SPECIES
 
 #### Status
 ACCEPTED

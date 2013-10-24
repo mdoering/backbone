@@ -1,5 +1,4 @@
-Meliola sesami Hansf. & Deighton SPECIES
-=======
+# Meliola sesami Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

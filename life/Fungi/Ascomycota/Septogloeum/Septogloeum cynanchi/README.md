@@ -1,5 +1,4 @@
-Septogloeum cynanchi Allesch. SPECIES
-=======
+# Septogloeum cynanchi Allesch. SPECIES
 
 #### Status
 ACCEPTED

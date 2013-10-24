@@ -1,5 +1,4 @@
-Hymenochaete anomala Burt, 1918 SPECIES
-=======
+# Hymenochaete anomala Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

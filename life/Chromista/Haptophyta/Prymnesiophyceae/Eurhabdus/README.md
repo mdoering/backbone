@@ -1,5 +1,4 @@
-Eurhabdus P. Reinhardt, 1965 GENUS
-=======
+# Eurhabdus P. Reinhardt, 1965 GENUS
 
 #### Status
 ACCEPTED

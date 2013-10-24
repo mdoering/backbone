@@ -1,14 +1,13 @@
-Operculella padwickii Khesw., 1941 SPECIES
-=======
+# Phacidiopycnis padwickii (Khesw.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian J. agric. Sci. 11: 317 (1941)
+The Coelomycetes (Kew) 578 (1980)
 
 #### Original name
 Operculella padwickii Khesw., 1941

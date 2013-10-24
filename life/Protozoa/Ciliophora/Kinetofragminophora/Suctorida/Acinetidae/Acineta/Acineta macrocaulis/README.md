@@ -1,5 +1,4 @@
-Acineta macrocaulis SPECIES
-=======
+# Acineta macrocaulis SPECIES
 
 #### Status
 ACCEPTED

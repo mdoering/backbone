@@ -1,5 +1,4 @@
-Jkella V.P. Shuysky, 1970 GENUS
-=======
+# Jkella V.P. Shuysky, 1970 GENUS
 
 #### Status
 ACCEPTED

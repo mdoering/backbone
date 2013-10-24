@@ -1,5 +1,4 @@
-Ustilago aristidae Peck SPECIES
-=======
+# Ustilago aristidae Peck SPECIES
 
 #### Status
 ACCEPTED

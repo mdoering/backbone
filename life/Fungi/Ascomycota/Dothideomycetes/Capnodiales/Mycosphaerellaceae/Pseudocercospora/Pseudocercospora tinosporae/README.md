@@ -1,5 +1,4 @@
-Pseudocercospora tinosporae (Kamal, A.S. Moses & R. Chaudhary) U. Braun SPECIES
-=======
+# Pseudocercospora tinosporae (Kamal, A.S. Moses & R. Chaudhary) U. Braun SPECIES
 
 #### Status
 ACCEPTED

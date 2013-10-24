@@ -1,5 +1,4 @@
-Stysanus thyrsoideus Sopp SPECIES
-=======
+# Stysanus thyrsoideus Sopp SPECIES
 
 #### Status
 ACCEPTED

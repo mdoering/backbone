@@ -1,5 +1,4 @@
-Penzigia indica Rawla & Narula SPECIES
-=======
+# Penzigia indica Rawla & Narula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridium cingulatum (Mont.) Sacc. SPECIES
-=======
+# Thyridium cingulatum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

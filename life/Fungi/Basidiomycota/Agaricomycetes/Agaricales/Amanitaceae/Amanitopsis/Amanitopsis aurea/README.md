@@ -1,5 +1,4 @@
-Amanitopsis aurea Beeli SPECIES
-=======
+# Amanitopsis aurea Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceropsora B.K. Bakshi & Suj. Singh GENUS
-=======
+# Ceropsora B.K. Bakshi & Suj. Singh GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus mituliformis var. mituliformis VARIETY
-=======
+# Phellinus mituliformis Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 112 (1991)
 
 #### Original name
-Phellinus mituliformis var. mituliformis
+Phellinus mituliformis Corner
 
 ### Remarks
 null

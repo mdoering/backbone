@@ -1,5 +1,4 @@
-Hemiophrys muscicola Kahl, 1931 SPECIES
-=======
+# Hemiophrys muscicola Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

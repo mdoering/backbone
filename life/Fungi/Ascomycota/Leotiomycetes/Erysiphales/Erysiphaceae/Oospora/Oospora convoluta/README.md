@@ -1,5 +1,4 @@
-Oospora convoluta (Chalm. & Christopherson) Sartory SPECIES
-=======
+# Oospora convoluta (Chalm. & Christopherson) Sartory SPECIES
 
 #### Status
 ACCEPTED

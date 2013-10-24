@@ -1,5 +1,4 @@
-Phormidiochaete Komárek, 2001 GENUS
-=======
+# Phormidiochaete Komárek, 2001 GENUS
 
 #### Status
 ACCEPTED

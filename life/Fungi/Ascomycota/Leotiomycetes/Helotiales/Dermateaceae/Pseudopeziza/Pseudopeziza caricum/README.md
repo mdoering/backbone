@@ -1,5 +1,4 @@
-Pseudopeziza caricum Grelet & Croz. SPECIES
-=======
+# Pseudopeziza caricum Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

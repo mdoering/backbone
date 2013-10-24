@@ -1,5 +1,4 @@
-Eccilia nigricans Peck SPECIES
-=======
+# Eccilia nigricans Peck SPECIES
 
 #### Status
 ACCEPTED

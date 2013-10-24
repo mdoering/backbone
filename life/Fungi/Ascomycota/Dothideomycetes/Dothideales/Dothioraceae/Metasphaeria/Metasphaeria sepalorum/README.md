@@ -1,5 +1,4 @@
-Metasphaeria sepalorum Andresbrean {?} SPECIES
-=======
+# Metasphaeria sepalorum Andresbrean {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina montenegrina (Bubák) Sacc. SPECIES
-=======
+# Cercosporina montenegrina (Bubák) Sacc. SPECIES
 
 #### Status
 ACCEPTED

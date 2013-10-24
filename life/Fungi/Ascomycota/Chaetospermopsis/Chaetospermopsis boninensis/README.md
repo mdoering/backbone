@@ -1,5 +1,4 @@
-Chaetospermopsis boninensis Katum. & Y. Harada, 1979 SPECIES
-=======
+# Chaetospermopsis boninensis Katum. & Y. Harada, 1979 SPECIES
 
 #### Status
 ACCEPTED

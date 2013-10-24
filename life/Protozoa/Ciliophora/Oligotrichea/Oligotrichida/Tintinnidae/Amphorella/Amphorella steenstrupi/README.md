@@ -1,5 +1,4 @@
-Amphorella steenstrupi SPECIES
-=======
+# Amphorella steenstrupi SPECIES
 
 #### Status
 ACCEPTED

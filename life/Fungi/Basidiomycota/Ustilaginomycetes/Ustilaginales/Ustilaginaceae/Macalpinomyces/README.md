@@ -1,17 +1,16 @@
-Endosporisorium Vánky GENUS
-=======
+# Macalpinomyces Langdon & Full. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 226 (1995)
+Trans. Br. mycol. Soc. 68(1): 30 (1977)
 
 #### Original name
-Endosporisorium Vánky
+Macalpinomyces Langdon & Full.
 
 ### Remarks
 null

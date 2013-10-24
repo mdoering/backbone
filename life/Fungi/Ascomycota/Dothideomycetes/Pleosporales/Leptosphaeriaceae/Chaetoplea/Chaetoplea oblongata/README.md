@@ -1,5 +1,4 @@
-Chaetoplea oblongata (Niessl) M.E. Barr SPECIES
-=======
+# Chaetoplea oblongata (Niessl) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor fragiformis Schaeff. SPECIES
-=======
+# Mucor fragiformis Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium thujopsidis Sawada SPECIES
-=======
+# Verticillium thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

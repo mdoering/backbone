@@ -1,14 +1,13 @@
-Plectocarpon sampaianae Diederich & Etayo SPECIES
-=======
+# Arthonia sampaianae (Diederich & Etayo) Ertz & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nordic Jl Bot. 14(5): 595 (1994)
+in Ertz, Christnach, Wedin & Diederich, Biblthca Lichenol. 91: 123 (2005)
 
 #### Original name
 Plectocarpon sampaianae Diederich & Etayo

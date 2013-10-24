@@ -1,5 +1,4 @@
-Neolecta flavovirescens Speg., 1881 SPECIES
-=======
+# Neolecta flavovirescens Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

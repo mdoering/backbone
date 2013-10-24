@@ -1,14 +1,13 @@
-Agaricus posterulus Britzelm., 1882 SPECIES
-=======
+# Inocybe posterula (Britzelm.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dermini Südbayern 3: 5 (1882)
+Syll. fung. (Abellini) 5: 778 (1887)
 
 #### Original name
 Agaricus posterulus Britzelm., 1882

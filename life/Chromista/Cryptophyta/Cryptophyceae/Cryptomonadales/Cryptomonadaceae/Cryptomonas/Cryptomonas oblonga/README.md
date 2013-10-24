@@ -1,5 +1,4 @@
-Cryptomonas oblonga Playfair SPECIES
-=======
+# Cryptomonas oblonga Playfair SPECIES
 
 #### Status
 ACCEPTED

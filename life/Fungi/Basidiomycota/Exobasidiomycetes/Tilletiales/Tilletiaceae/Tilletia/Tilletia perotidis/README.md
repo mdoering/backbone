@@ -1,5 +1,4 @@
-Tilletia perotidis Thirum. & Pavgi SPECIES
-=======
+# Tilletia perotidis Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

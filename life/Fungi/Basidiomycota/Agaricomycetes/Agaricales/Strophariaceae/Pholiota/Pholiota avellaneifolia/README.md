@@ -1,5 +1,4 @@
-Pholiota avellaneifolia A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota avellaneifolia A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brizalina simpsoni (Heron-Allen & Earland, 1915) SPECIES
-=======
+# Brizalina simpsoni (Heron-Allen & Earland, 1915) SPECIES
 
 #### Status
 ACCEPTED

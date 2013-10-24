@@ -1,5 +1,4 @@
-Paradictyoarthrinium Matsush. GENUS
-=======
+# Paradictyoarthrinium Matsush. GENUS
 
 #### Status
 ACCEPTED

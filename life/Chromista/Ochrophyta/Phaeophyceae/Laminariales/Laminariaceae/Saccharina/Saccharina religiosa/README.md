@@ -1,8 +1,7 @@
-Laminaria religiosa Miyabe, 1902 SPECIES
-=======
+# Saccharina religiosa (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

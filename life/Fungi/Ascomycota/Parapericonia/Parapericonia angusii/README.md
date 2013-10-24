@@ -1,5 +1,4 @@
-Parapericonia angusii M.B. Ellis, 1976 SPECIES
-=======
+# Parapericonia angusii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

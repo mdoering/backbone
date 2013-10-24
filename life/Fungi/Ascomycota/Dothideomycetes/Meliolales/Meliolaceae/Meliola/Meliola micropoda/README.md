@@ -1,5 +1,4 @@
-Meliola micropoda Hansf. SPECIES
-=======
+# Meliola micropoda Hansf. SPECIES
 
 #### Status
 ACCEPTED

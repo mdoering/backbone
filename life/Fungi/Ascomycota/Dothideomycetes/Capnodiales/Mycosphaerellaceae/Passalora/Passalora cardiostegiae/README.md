@@ -1,5 +1,4 @@
-Passalora cardiostegiae (B.H. Davis) U. Braun & Crous SPECIES
-=======
+# Passalora cardiostegiae (B.H. Davis) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

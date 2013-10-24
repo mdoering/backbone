@@ -1,5 +1,4 @@
-Filaspora tomispora (Berl. & Bres.) Kuntze SPECIES
-=======
+# Filaspora tomispora (Berl. & Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

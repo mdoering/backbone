@@ -1,5 +1,4 @@
-Coscinodiscus curvulatus SPECIES
-=======
+# Coscinodiscus curvulatus SPECIES
 
 #### Status
 ACCEPTED

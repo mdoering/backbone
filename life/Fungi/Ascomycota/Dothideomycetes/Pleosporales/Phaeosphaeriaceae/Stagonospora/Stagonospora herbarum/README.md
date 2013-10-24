@@ -1,5 +1,4 @@
-Stagonospora herbarum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Stagonospora herbarum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

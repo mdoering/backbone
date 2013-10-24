@@ -1,17 +1,16 @@
-Cercospora garugaecola Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora garugaicola Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 28 & 29: 64 (2001)
 
 #### Original name
-Cercospora garugaecola Narayan, Kharwar & R.K. Singh
+Cercospora garugaicola Narayan, Kharwar & R.K. Singh
 
 ### Remarks
 null

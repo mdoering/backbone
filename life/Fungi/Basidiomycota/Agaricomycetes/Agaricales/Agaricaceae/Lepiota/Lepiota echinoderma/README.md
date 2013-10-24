@@ -1,5 +1,4 @@
-Lepiota echinoderma (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota echinoderma (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

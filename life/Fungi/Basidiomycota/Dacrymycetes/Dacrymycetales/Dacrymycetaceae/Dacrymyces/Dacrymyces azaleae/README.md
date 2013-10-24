@@ -1,5 +1,4 @@
-Dacrymyces azaleae Schwein. SPECIES
-=======
+# Dacrymyces azaleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium bullatum Sparrow, 1937 SPECIES
-=======
+# Phlyctochytrium bullatum Sparrow, 1937 SPECIES
 
 #### Status
 ACCEPTED

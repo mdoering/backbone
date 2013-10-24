@@ -1,5 +1,4 @@
-Camillea gigaspora (Massee) Laessøe, J.D. Rogers & Whalley SPECIES
-=======
+# Camillea gigaspora (Massee) Laessøe, J.D. Rogers & Whalley SPECIES
 
 #### Status
 ACCEPTED

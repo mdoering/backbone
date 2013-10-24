@@ -1,5 +1,4 @@
-Clavaria kalchbrenneri Sacc. SPECIES
-=======
+# Clavaria kalchbrenneri Sacc. SPECIES
 
 #### Status
 ACCEPTED

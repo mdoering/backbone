@@ -1,5 +1,4 @@
-Kabatiella aleuritis Vassiljevsky SPECIES
-=======
+# Kabatiella aleuritis Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

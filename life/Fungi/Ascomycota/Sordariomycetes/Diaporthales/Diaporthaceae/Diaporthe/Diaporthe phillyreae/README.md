@@ -1,5 +1,4 @@
-Diaporthe phillyreae Cooke, 1879 SPECIES
-=======
+# Diaporthe phillyreae Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abstoma verrucisporum J.E. Wright & V.L. Suárez SPECIES
-=======
+# Abstoma verrucisporum J.E. Wright & V.L. Suárez SPECIES
 
 #### Status
 ACCEPTED

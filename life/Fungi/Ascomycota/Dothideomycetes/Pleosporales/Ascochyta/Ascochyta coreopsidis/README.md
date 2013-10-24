@@ -1,5 +1,4 @@
-Ascochyta coreopsidis Moesz & Smarods SPECIES
-=======
+# Ascochyta coreopsidis Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

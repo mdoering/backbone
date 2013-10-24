@@ -1,5 +1,4 @@
-Septochytrium Berdan GENUS
-=======
+# Septochytrium Berdan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe glutinosa Arnolds SPECIES
-=======
+# Psilocybe glutinosa Arnolds SPECIES
 
 #### Status
 ACCEPTED

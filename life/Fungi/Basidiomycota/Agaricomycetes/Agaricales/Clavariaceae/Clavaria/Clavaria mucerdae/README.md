@@ -1,5 +1,4 @@
-Clavaria mucerdae Schumach. SPECIES
-=======
+# Clavaria mucerdae Schumach. SPECIES
 
 #### Status
 ACCEPTED

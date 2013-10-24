@@ -1,5 +1,4 @@
-Paramphisphaeria costaricensis F.A. Fernández, J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña, 2004 SPECIES
-=======
+# Paramphisphaeria costaricensis F.A. Fernández, J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña, 2004 SPECIES
 
 #### Status
 ACCEPTED

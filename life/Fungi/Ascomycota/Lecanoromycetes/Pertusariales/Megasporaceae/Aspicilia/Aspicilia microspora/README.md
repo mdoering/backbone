@@ -1,5 +1,4 @@
-Aspicilia microspora var. microspora VARIETY
-=======
+# Aspicilia microspora (Arnold) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia microspora var. microspora
+Aspicilia calcarea var. microspora Arnold
 
 ### Remarks
 null

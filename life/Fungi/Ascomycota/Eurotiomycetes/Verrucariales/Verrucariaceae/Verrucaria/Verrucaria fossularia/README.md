@@ -1,5 +1,4 @@
-Verrucaria fossularia Stirt. SPECIES
-=======
+# Verrucaria fossularia Stirt. SPECIES
 
 #### Status
 ACCEPTED

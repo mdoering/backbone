@@ -1,5 +1,4 @@
-Ganoderma amazonense Weir SPECIES
-=======
+# Ganoderma amazonense Weir SPECIES
 
 #### Status
 ACCEPTED

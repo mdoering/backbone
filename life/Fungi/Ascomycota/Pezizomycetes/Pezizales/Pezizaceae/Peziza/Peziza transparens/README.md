@@ -1,5 +1,4 @@
-Peziza transparens Pers. SPECIES
-=======
+# Peziza transparens Pers. SPECIES
 
 #### Status
 ACCEPTED

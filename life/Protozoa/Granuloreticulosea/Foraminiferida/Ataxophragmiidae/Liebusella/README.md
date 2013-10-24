@@ -1,5 +1,4 @@
-Liebusella Cushman, 1933 GENUS
-=======
+# Liebusella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

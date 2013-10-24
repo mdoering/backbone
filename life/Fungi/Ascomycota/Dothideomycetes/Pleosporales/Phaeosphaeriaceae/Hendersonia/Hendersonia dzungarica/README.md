@@ -1,5 +1,4 @@
-Hendersonia dzungarica Kravtzev SPECIES
-=======
+# Hendersonia dzungarica Kravtzev SPECIES
 
 #### Status
 ACCEPTED

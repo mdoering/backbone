@@ -1,5 +1,4 @@
-Ceratocystis pidoplichikovii Milko SPECIES
-=======
+# Ceratocystis pidoplichikovii Milko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophoropsis Vain. GENUS
-=======
+# Sphaerophoropsis Vain. GENUS
 
 #### Status
 ACCEPTED

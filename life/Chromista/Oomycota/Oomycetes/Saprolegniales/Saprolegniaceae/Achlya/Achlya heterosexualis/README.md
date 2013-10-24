@@ -1,5 +1,4 @@
-Achlya heterosexualis Whiffen, 1965 SPECIES
-=======
+# Achlya heterosexualis Whiffen, 1965 SPECIES
 
 #### Status
 ACCEPTED

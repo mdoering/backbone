@@ -1,5 +1,4 @@
-Didymium umbilicatum D. Wrigley, Lado & Estrada, 2008 SPECIES
-=======
+# Didymium umbilicatum D. Wrigley, Lado & Estrada, 2008 SPECIES
 
 #### Status
 ACCEPTED

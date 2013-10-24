@@ -1,5 +1,4 @@
-Paraphaeosphaeria rusci (Wallr.) O.E. Erikss., 1967 SPECIES
-=======
+# Paraphaeosphaeria rusci (Wallr.) O.E. Erikss., 1967 SPECIES
 
 #### Status
 ACCEPTED

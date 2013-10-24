@@ -1,5 +1,4 @@
-Ktenomonas A.Szabados GENUS
-=======
+# Ktenomonas A.Szabados GENUS
 
 #### Status
 ACCEPTED

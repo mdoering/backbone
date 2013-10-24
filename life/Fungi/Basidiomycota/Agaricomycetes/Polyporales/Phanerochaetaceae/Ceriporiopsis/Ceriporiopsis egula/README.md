@@ -1,5 +1,4 @@
-Ceriporiopsis egula C.J. Yu & Y.C. Dai SPECIES
-=======
+# Ceriporiopsis egula C.J. Yu & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

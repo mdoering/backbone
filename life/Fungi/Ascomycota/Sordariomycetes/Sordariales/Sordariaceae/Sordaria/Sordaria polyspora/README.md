@@ -1,14 +1,13 @@
-Philocopra polyspora (W. Phillips & Plowr.) Sacc., 1882 SPECIES
-=======
+# Sordaria polyspora W. Phillips & Plowr., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 763 (1882)
+Grevillea 10(no. 54): 73 (1881)
 
 #### Original name
 Sordaria polyspora W. Phillips & Plowr., 1881

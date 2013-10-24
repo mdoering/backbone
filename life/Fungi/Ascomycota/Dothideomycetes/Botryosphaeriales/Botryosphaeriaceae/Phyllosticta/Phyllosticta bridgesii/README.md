@@ -1,5 +1,4 @@
-Phyllosticta bridgesii Speg. SPECIES
-=======
+# Phyllosticta bridgesii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euoidium solanacearum Y.S. Paul & J.N. Kapoor SPECIES
-=======
+# Euoidium solanacearum Y.S. Paul & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

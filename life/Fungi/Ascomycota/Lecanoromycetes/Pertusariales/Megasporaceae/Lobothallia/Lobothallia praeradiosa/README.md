@@ -1,17 +1,16 @@
-Lecanora praeradiosa var. praeradiosa VARIETY
-=======
+# Lobothallia praeradiosa (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. Malac. 16(1): 138 (1991)
 
 #### Original name
-Lecanora praeradiosa var. praeradiosa
+Lecanora praeradiosa Nyl.
 
 ### Remarks
 null

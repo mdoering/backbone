@@ -1,5 +1,4 @@
-Tulostoma fusipes Har. & Pat. SPECIES
-=======
+# Tulostoma fusipes Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ferrimonas Rossello-Mora, Ludwig, Kampfer, Amann & Schleifer, 1996 GENUS
-=======
+# Ferrimonas Rossello-Mora, Ludwig, Kampfer, Amann & Schleifer, 1996 GENUS
 
 #### Status
 ACCEPTED

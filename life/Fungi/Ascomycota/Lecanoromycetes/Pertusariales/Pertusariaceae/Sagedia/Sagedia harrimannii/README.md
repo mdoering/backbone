@@ -1,5 +1,4 @@
-Sagedia harrimannii A. Massal. SPECIES
-=======
+# Sagedia harrimannii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

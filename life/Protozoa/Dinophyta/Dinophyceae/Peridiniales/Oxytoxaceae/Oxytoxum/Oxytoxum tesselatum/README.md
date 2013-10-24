@@ -1,5 +1,4 @@
-Oxytoxum tesselatum SPECIES
-=======
+# Oxytoxum tesselatum SPECIES
 
 #### Status
 ACCEPTED

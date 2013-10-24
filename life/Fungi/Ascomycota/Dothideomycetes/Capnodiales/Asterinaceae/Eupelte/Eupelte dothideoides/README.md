@@ -1,5 +1,4 @@
-Eupelte dothideoides (Ellis & Everh.) Arx & E. Müll. SPECIES
-=======
+# Eupelte dothideoides (Ellis & Everh.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

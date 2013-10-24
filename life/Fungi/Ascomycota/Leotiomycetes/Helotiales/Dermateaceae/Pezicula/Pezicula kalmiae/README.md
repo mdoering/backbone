@@ -1,5 +1,4 @@
-Pezicula kalmiae Peck SPECIES
-=======
+# Pezicula kalmiae Peck SPECIES
 
 #### Status
 ACCEPTED

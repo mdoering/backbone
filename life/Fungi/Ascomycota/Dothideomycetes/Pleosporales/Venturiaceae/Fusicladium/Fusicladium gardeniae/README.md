@@ -1,5 +1,4 @@
-Fusicladium gardeniae F.X. Chao & P.K. Chi SPECIES
-=======
+# Fusicladium gardeniae F.X. Chao & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placolecania cesatii (A. Massal.) Zahlbr. SPECIES
-=======
+# Placolecania cesatii (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

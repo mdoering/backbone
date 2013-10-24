@@ -1,5 +1,4 @@
-Osangularia Brotzen, 1940 GENUS
-=======
+# Osangularia Brotzen, 1940 GENUS
 
 #### Status
 ACCEPTED

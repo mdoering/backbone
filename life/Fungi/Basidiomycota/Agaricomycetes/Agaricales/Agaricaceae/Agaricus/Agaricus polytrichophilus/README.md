@@ -1,17 +1,16 @@
-Agaricus polytrichopilus Peck SPECIES
-=======
+# Agaricus polytrichophilus Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 30: 42 (1878)
 
 #### Original name
-Agaricus polytrichopilus Peck
+Agaricus polytrichophilus Peck
 
 ### Remarks
 null

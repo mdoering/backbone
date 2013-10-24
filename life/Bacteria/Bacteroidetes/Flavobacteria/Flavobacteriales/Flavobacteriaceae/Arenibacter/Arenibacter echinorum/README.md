@@ -1,5 +1,4 @@
-Arenibacter echinorum Nedashkovskaya, Kim, Lysenko, Lee, Bae & Mikhailov, 2007 SPECIES
-=======
+# Arenibacter echinorum Nedashkovskaya, Kim, Lysenko, Lee, Bae & Mikhailov, 2007 SPECIES
 
 #### Status
 ACCEPTED

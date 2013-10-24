@@ -1,5 +1,4 @@
-Dimeromyces forficulae Thaxt. SPECIES
-=======
+# Dimeromyces forficulae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

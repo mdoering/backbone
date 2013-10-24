@@ -1,5 +1,4 @@
-Lecidea exiguella Vain. SPECIES
-=======
+# Lecidea exiguella Vain. SPECIES
 
 #### Status
 ACCEPTED

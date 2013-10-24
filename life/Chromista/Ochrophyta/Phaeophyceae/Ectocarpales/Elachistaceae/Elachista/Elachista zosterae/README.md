@@ -1,5 +1,4 @@
-Elachista zosterae Noda SPECIES
-=======
+# Elachista zosterae Noda SPECIES
 
 #### Status
 ACCEPTED

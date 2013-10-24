@@ -1,5 +1,4 @@
-Lazarenkoa Zerova GENUS
-=======
+# Lazarenkoa Zerova GENUS
 
 #### Status
 ACCEPTED

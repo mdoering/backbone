@@ -1,5 +1,4 @@
-Lactarius pinicola Smotl. ex Z. Schaef. SPECIES
-=======
+# Lactarius pinicola Smotl. ex Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

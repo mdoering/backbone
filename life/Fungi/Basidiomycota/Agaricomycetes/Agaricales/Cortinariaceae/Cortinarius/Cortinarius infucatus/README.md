@@ -1,5 +1,4 @@
-Cortinarius infucatus var. croceipes P. Karst. VARIETY
-=======
+# Cortinarius infucatus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 309 (1863)
 
 #### Original name
-Cortinarius infucatus var. croceipes P. Karst.
+Cortinarius infucatus Fr.
 
 ### Remarks
 null

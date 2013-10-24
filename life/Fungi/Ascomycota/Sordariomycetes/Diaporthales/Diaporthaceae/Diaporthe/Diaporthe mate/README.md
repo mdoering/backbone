@@ -1,5 +1,4 @@
-Diaporthe mate Speg. SPECIES
-=======
+# Diaporthe mate Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria nodulata Stirt. SPECIES
-=======
+# Verrucaria nodulata Stirt. SPECIES
 
 #### Status
 ACCEPTED

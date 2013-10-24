@@ -1,5 +1,4 @@
-Psilocybe borealis Guzmán SPECIES
-=======
+# Psilocybe borealis Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Panaeolus cinero-fuscus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus cinereofuscus (Britzelm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

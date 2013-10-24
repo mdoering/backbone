@@ -1,14 +1,13 @@
-Melanotaenium indicum Vánky, M.S. Patil & N.D. Sharma, 1997 SPECIES
-=======
+# Phragmotaenium indicum (Vánky, M.S. Patil & N.D. Sharma) R. Bauer, Begerow, A. Nagler & Oberw., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vánky, Mycotaxon 65: 149 (1997)
+Mycol. Res. 105(4): 423 (2001)
 
 #### Original name
 Melanotaenium indicum Vánky, M.S. Patil & N.D. Sharma, 1997

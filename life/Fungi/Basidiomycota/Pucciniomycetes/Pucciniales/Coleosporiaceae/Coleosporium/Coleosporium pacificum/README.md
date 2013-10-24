@@ -1,5 +1,4 @@
-Coleosporium pacificum Cummins SPECIES
-=======
+# Coleosporium pacificum Cummins SPECIES
 
 #### Status
 ACCEPTED

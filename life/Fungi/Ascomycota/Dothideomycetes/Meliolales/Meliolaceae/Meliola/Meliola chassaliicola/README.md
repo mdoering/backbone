@@ -1,5 +1,4 @@
-Meliola chassaliicola Hosag. SPECIES
-=======
+# Meliola chassaliicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

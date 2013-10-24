@@ -1,5 +1,4 @@
-Stigmidium parvum (Henssen) R. Sant. SPECIES
-=======
+# Stigmidium parvum (Henssen) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

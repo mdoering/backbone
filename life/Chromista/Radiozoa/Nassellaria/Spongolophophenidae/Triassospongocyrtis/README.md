@@ -1,5 +1,4 @@
-Triassospongocyrtis Kozur & Mostler, 1994 GENUS
-=======
+# Triassospongocyrtis Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

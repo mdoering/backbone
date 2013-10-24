@@ -1,5 +1,4 @@
-Sympodioplanus capensis R.C. Sinclair & Boshoff, 1997 SPECIES
-=======
+# Sympodioplanus capensis R.C. Sinclair & Boshoff, 1997 SPECIES
 
 #### Status
 ACCEPTED

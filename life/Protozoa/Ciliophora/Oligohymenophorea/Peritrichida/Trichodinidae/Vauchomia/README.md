@@ -1,5 +1,4 @@
-Vauchomia Müller, 1938 GENUS
-=======
+# Vauchomia Müller, 1938 GENUS
 
 #### Status
 ACCEPTED

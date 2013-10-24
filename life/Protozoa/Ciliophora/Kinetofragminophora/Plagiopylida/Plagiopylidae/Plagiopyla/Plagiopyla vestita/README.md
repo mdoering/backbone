@@ -1,5 +1,4 @@
-Plagiopyla vestita Kahl, 1935 SPECIES
-=======
+# Plagiopyla vestita Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxormia convexula Cooke & Ellis SPECIES
-=======
+# Myxormia convexula Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

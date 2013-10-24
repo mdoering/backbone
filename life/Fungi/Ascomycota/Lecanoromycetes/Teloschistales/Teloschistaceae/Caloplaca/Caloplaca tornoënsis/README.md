@@ -1,5 +1,4 @@
-Caloplaca tornoënsis H. Magn. SPECIES
-=======
+# Caloplaca tornoënsis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

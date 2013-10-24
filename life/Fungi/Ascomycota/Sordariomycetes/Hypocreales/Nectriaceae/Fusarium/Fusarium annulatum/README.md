@@ -1,14 +1,13 @@
-Fusarium moniliforme var. annulatum (Bugnic.) F.J. Chen, 1991 VARIETY
-=======
+# Fusarium annulatum Bugnic., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Variation within Fusarium section Moniliforme (= Liseola) [Ph. D. Thesis] (Reading) 148 (1991)
+Rev. gén. Bot. 59: 13 (1952)
 
 #### Original name
 Fusarium annulatum Bugnic., 1952

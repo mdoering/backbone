@@ -1,5 +1,4 @@
-Arthonia symmicta Müll. Arg. SPECIES
-=======
+# Arthonia symmicta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

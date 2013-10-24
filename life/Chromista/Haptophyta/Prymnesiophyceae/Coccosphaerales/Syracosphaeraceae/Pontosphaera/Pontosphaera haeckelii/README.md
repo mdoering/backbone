@@ -1,5 +1,4 @@
-Pontosphaera haeckelii Lohmann SPECIES
-=======
+# Pontosphaera haeckelii Lohmann SPECIES
 
 #### Status
 ACCEPTED

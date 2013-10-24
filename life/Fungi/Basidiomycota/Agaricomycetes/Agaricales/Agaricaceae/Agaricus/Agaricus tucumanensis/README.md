@@ -1,5 +1,4 @@
-Agaricus tucumanensis Heinem. SPECIES
-=======
+# Agaricus tucumanensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

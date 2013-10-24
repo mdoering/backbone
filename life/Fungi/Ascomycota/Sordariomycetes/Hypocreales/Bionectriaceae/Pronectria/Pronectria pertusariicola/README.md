@@ -1,5 +1,4 @@
-Pronectria pertusariicola Lowen, 1999 SPECIES
-=======
+# Pronectria pertusariicola Lowen, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium multipunctatum Dearn. SPECIES
-=======
+# Gloeosporium multipunctatum Dearn. SPECIES
 
 #### Status
 ACCEPTED

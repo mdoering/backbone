@@ -1,5 +1,4 @@
-Stenospora uredinicola Deighton, 1969 SPECIES
-=======
+# Stenospora uredinicola Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

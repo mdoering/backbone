@@ -1,5 +1,4 @@
-Verrucaria subglobulificans H. Magn. SPECIES
-=======
+# Verrucaria subglobulificans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

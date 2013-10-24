@@ -1,5 +1,4 @@
-Boletus camphoratus Schwalb SPECIES
-=======
+# Boletus camphoratus Schwalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteroides coprocola Kitahara et al., 2005 SPECIES
-=======
+# Bacteroides coprocola Kitahara et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

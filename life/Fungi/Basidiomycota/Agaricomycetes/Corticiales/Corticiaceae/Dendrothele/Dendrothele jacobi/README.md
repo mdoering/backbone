@@ -1,5 +1,4 @@
-Dendrothele jacobi Duhem & H. Michel SPECIES
-=======
+# Dendrothele jacobi Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium cylindrosporum Ezuka, 1990 SPECIES
-=======
+# Exobasidium cylindrosporum Ezuka, 1990 SPECIES
 
 #### Status
 ACCEPTED

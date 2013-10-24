@@ -1,5 +1,4 @@
-Lentinus chordalis Lloyd SPECIES
-=======
+# Lentinus chordalis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella virescens (Alb. & Schwein.) Bres. SPECIES
-=======
+# Lachnella virescens (Alb. & Schwein.) Bres. SPECIES
 
 #### Status
 ACCEPTED

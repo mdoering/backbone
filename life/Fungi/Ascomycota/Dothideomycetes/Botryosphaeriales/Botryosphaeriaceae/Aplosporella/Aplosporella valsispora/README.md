@@ -1,5 +1,4 @@
-Aplosporella valsispora Kirschst. SPECIES
-=======
+# Aplosporella valsispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

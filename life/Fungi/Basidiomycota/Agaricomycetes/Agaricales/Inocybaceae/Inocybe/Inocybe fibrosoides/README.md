@@ -1,5 +1,4 @@
-Inocybe fibrosoides Kühner, 1933 SPECIES
-=======
+# Inocybe fibrosoides Kühner, 1933 SPECIES
 
 #### Status
 ACCEPTED

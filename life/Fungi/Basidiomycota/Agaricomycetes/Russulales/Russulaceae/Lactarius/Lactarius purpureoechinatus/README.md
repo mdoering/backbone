@@ -1,5 +1,4 @@
-Lactarius purpureoechinatus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius purpureoechinatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

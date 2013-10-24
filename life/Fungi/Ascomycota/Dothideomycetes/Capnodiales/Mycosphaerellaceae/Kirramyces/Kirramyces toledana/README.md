@@ -1,5 +1,4 @@
-Kirramyces toledana (Crous & Bills) Andjic SPECIES
-=======
+# Kirramyces toledana (Crous & Bills) Andjic SPECIES
 
 #### Status
 ACCEPTED

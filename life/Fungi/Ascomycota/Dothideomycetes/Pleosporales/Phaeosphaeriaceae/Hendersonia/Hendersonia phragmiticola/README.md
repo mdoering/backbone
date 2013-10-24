@@ -1,5 +1,4 @@
-Hendersonia phragmiticola Lobik SPECIES
-=======
+# Hendersonia phragmiticola Lobik SPECIES
 
 #### Status
 ACCEPTED

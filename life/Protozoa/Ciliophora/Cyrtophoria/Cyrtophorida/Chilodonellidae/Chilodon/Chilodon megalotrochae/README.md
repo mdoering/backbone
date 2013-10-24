@@ -1,5 +1,4 @@
-Chilodon megalotrochae SPECIES
-=======
+# Chilodon megalotrochae SPECIES
 
 #### Status
 ACCEPTED

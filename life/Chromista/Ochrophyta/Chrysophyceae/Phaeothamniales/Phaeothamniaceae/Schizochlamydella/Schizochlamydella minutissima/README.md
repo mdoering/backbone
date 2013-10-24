@@ -1,5 +1,4 @@
-Schizochlamydella minutissima Broady SPECIES
-=======
+# Schizochlamydella minutissima Broady SPECIES
 
 #### Status
 ACCEPTED

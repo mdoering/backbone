@@ -1,5 +1,4 @@
-Phoma ulcinjensis Bubák SPECIES
-=======
+# Phoma ulcinjensis Bubák SPECIES
 
 #### Status
 ACCEPTED

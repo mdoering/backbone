@@ -1,5 +1,4 @@
-Puccinia sedi Körn. SPECIES
-=======
+# Puccinia sedi Körn. SPECIES
 
 #### Status
 ACCEPTED

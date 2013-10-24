@@ -1,5 +1,4 @@
-Flammula cincta Cleland SPECIES
-=======
+# Flammula cincta Cleland SPECIES
 
 #### Status
 ACCEPTED

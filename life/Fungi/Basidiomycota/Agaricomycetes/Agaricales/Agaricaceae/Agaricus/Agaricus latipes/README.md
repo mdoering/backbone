@@ -1,5 +1,4 @@
-Agaricus latipes Berk. SPECIES
-=======
+# Agaricus latipes Berk. SPECIES
 
 #### Status
 ACCEPTED

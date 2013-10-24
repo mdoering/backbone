@@ -1,5 +1,4 @@
-Fractisporonites filiformis (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Fractisporonites filiformis (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

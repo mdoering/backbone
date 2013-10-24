@@ -1,5 +1,4 @@
-Sclerotinia cepa Berk. & M.A. Curtis SPECIES
-=======
+# Sclerotinia cepa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

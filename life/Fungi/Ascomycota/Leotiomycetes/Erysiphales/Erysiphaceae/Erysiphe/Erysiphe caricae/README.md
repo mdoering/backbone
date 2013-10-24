@@ -1,5 +1,4 @@
-Erysiphe caricae U. Braun & Bolay SPECIES
-=======
+# Erysiphe caricae U. Braun & Bolay SPECIES
 
 #### Status
 ACCEPTED

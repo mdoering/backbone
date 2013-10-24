@@ -1,5 +1,4 @@
-Thelephora cervina Corner, 1968 SPECIES
-=======
+# Thelephora cervina Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

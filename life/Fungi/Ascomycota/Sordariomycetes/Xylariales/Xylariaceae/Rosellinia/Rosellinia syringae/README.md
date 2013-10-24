@@ -1,5 +1,4 @@
-Rosellinia syringae (J. Kickx f.) Sacc. SPECIES
-=======
+# Rosellinia syringae (J. Kickx f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

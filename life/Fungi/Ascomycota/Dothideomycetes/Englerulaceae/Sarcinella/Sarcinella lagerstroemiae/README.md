@@ -1,5 +1,4 @@
-Sarcinella lagerstroemiae Hosag. & M. Mohanan SPECIES
-=======
+# Sarcinella lagerstroemiae Hosag. & M. Mohanan SPECIES
 
 #### Status
 ACCEPTED

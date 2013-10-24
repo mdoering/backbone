@@ -1,5 +1,4 @@
-Curvularia hubeiensis Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Curvularia hubeiensis Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

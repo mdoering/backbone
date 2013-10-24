@@ -1,5 +1,4 @@
-Endoconidiophora lunae Kitaj. SPECIES
-=======
+# Endoconidiophora lunae Kitaj. SPECIES
 
 #### Status
 ACCEPTED

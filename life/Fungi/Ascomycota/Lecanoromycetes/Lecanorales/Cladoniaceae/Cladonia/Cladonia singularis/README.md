@@ -1,5 +1,4 @@
-Cladonia singularis S. Hammer SPECIES
-=======
+# Cladonia singularis S. Hammer SPECIES
 
 #### Status
 ACCEPTED

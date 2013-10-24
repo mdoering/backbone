@@ -1,5 +1,4 @@
-Lizonia araucariae Rehm SPECIES
-=======
+# Lizonia araucariae Rehm SPECIES
 
 #### Status
 ACCEPTED

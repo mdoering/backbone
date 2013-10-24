@@ -1,5 +1,4 @@
-Pseudozyma hubeiensis F.Y. Bai & Q.M. Wang, 2006 SPECIES
-=======
+# Pseudozyma hubeiensis F.Y. Bai & Q.M. Wang, 2006 SPECIES
 
 #### Status
 ACCEPTED

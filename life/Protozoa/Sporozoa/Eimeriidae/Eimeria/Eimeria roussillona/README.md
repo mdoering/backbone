@@ -1,5 +1,4 @@
-Eimeria roussillona Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria roussillona Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

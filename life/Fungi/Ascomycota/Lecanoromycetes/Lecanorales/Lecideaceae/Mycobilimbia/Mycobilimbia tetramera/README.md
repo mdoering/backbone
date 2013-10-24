@@ -1,17 +1,16 @@
-Bacidia obscurata (Sommerf.) Zahlbr. SPECIES
-=======
+# Mycobilimbia tetramera (De Not.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 135 (1905)
+null
 
 #### Original name
-Lecidea sphaeroides var. obscuratum Sommerf.
+null
 
 ### Remarks
 null

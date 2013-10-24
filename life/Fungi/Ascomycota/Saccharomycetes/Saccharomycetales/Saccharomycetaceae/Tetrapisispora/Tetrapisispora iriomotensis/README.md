@@ -1,5 +1,4 @@
-Tetrapisispora iriomotensis Ueda-Nishim. & Mikata, 1999 SPECIES
-=======
+# Tetrapisispora iriomotensis Ueda-Nishim. & Mikata, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps lilacina Moureau SPECIES
-=======
+# Cordyceps lilacina Moureau SPECIES
 
 #### Status
 ACCEPTED

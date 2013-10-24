@@ -1,5 +1,4 @@
-Boletus aurantitubus Corner SPECIES
-=======
+# Boletus aurantitubus Corner SPECIES
 
 #### Status
 ACCEPTED

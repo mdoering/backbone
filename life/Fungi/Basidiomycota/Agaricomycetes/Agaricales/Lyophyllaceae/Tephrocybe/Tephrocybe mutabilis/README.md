@@ -1,5 +1,4 @@
-Tephrocybe mutabilis var. mutabilis VARIETY
-=======
+# Tephrocybe mutabilis Favre ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 116 (1967)
 
 #### Original name
-Tephrocybe mutabilis var. mutabilis
+Tephrocybe mutabilis Favre ex M.M. Moser
 
 ### Remarks
 null

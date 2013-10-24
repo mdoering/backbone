@@ -1,5 +1,4 @@
-Sargassum botuliforme Kraft, 2009 SPECIES
-=======
+# Sargassum botuliforme Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

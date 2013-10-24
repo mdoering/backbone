@@ -1,5 +1,4 @@
-Nummularia luteoviridis Kirschst. SPECIES
-=======
+# Nummularia luteoviridis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

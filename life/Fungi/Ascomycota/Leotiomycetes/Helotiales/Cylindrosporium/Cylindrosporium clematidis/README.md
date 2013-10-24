@@ -1,5 +1,4 @@
-Cylindrosporium clematidis Ellis & Everh. SPECIES
-=======
+# Cylindrosporium clematidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

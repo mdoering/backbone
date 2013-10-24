@@ -1,5 +1,4 @@
-Entoloma clypeatosimilium Largent SPECIES
-=======
+# Entoloma clypeatosimilium Largent SPECIES
 
 #### Status
 ACCEPTED

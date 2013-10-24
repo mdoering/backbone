@@ -1,5 +1,4 @@
-Dictyochaeta taiwanensis Matsush. SPECIES
-=======
+# Dictyochaeta taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

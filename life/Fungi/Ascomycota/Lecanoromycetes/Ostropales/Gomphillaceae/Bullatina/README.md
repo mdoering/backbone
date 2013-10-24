@@ -1,5 +1,4 @@
-Bullatina Vezda & Poelt GENUS
-=======
+# Bullatina Vezda & Poelt GENUS
 
 #### Status
 ACCEPTED

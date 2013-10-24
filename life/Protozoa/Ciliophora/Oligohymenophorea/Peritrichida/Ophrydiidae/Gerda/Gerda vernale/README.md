@@ -1,5 +1,4 @@
-Gerda vernale SPECIES
-=======
+# Gerda vernale SPECIES
 
 #### Status
 ACCEPTED

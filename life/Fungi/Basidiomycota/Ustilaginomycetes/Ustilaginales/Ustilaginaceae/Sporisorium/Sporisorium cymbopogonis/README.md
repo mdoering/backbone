@@ -1,5 +1,4 @@
-Sporisorium cymbopogonis (Mundk.) Vánky SPECIES
-=======
+# Sporisorium cymbopogonis (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

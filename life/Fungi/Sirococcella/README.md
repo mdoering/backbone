@@ -1,5 +1,4 @@
-Sirococcella GENUS
-=======
+# Sirococcella GENUS
 
 #### Status
 ACCEPTED

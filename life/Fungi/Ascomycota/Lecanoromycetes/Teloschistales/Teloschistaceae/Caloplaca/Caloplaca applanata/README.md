@@ -1,5 +1,4 @@
-Caloplaca applanata H. Magn. SPECIES
-=======
+# Caloplaca applanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

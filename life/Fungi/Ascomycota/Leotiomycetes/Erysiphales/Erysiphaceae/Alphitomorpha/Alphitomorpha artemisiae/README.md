@@ -1,5 +1,4 @@
-Alphitomorpha artemisiae Wallr. SPECIES
-=======
+# Alphitomorpha artemisiae Wallr. SPECIES
 
 #### Status
 ACCEPTED

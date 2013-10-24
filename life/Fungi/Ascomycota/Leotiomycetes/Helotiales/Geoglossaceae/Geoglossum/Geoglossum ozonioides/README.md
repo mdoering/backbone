@@ -1,5 +1,4 @@
-Geoglossum ozonioides Letell. SPECIES
-=======
+# Geoglossum ozonioides Letell. SPECIES
 
 #### Status
 ACCEPTED

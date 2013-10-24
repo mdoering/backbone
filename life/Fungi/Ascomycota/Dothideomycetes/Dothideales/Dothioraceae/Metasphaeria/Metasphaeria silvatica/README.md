@@ -1,5 +1,4 @@
-Metasphaeria silvatica Kirschst. SPECIES
-=======
+# Metasphaeria silvatica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

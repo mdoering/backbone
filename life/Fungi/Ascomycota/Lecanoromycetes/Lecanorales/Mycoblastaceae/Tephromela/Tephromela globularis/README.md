@@ -1,5 +1,4 @@
-Tephromela globularis (Kremp.) Lumbsch, Kalb & Elix SPECIES
-=======
+# Tephromela globularis (Kremp.) Lumbsch, Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

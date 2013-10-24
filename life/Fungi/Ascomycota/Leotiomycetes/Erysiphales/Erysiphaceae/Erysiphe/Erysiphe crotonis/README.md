@@ -1,5 +1,4 @@
-Erysiphe crotonis (Piroz.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe crotonis (Piroz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

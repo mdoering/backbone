@@ -1,5 +1,4 @@
-Cucurbitaria lespedezae Ziling SPECIES
-=======
+# Cucurbitaria lespedezae Ziling SPECIES
 
 #### Status
 ACCEPTED

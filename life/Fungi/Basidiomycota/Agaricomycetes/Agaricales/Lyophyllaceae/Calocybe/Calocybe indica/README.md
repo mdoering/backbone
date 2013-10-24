@@ -1,5 +1,4 @@
-Calocybe indica Purkayastha {?} & A. Chandra SPECIES
-=======
+# Calocybe indica Purkayastha {?} & A. Chandra SPECIES
 
 #### Status
 ACCEPTED

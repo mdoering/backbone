@@ -1,5 +1,4 @@
-Hohenbuehelia strigosa Malençon & Bertault SPECIES
-=======
+# Hohenbuehelia strigosa Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium lanicium Gao Lianda, 1991 SPECIES
-=======
+# Micrhystridium lanicium Gao Lianda, 1991 SPECIES
 
 #### Status
 ACCEPTED

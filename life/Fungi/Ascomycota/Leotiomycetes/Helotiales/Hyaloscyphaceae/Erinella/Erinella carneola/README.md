@@ -1,5 +1,4 @@
-Erinella carneola Penz. & Sacc. SPECIES
-=======
+# Erinella carneola Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

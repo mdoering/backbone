@@ -1,5 +1,4 @@
-Dasyscyphella difficillima Höhn. SPECIES
-=======
+# Dasyscyphella difficillima Höhn. SPECIES
 
 #### Status
 ACCEPTED

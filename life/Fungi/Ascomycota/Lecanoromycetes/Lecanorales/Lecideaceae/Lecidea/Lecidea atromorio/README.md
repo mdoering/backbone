@@ -1,17 +1,16 @@
-Lecidea fumosella Müll. Arg. SPECIES
-=======
+# Lecidea atromorio C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 47 (1893)
+Trans. & Proc. New Zealand Inst. 8: 315 (1876)
 
 #### Original name
-Lecidea fumosella Müll. Arg.
+Lecidea atromorio C. Knight
 
 ### Remarks
 null

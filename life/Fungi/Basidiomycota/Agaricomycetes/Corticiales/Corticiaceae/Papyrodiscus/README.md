@@ -1,5 +1,4 @@
-Papyrodiscus D.A. Reid GENUS
-=======
+# Papyrodiscus D.A. Reid GENUS
 
 #### Status
 ACCEPTED

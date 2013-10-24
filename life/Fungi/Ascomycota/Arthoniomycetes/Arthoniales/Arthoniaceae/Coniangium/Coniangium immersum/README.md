@@ -1,5 +1,4 @@
-Coniangium immersum Hazsl. SPECIES
-=======
+# Coniangium immersum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

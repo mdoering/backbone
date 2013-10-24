@@ -1,5 +1,4 @@
-Asteromella sphaerosopora SPECIES
-=======
+# Asteromella sphaerosopora SPECIES
 
 #### Status
 ACCEPTED

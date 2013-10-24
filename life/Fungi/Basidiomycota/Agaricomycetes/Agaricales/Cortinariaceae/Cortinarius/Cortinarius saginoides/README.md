@@ -1,5 +1,4 @@
-Cortinarius saginoides Bidaud & Reumaux SPECIES
-=======
+# Cortinarius saginoides Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

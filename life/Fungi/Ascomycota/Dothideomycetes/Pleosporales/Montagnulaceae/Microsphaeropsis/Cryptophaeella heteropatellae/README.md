@@ -1,5 +1,4 @@
-Cryptophaeella heteropatellae (Höhn.) Höhn. SPECIES
-=======
+# Cryptophaeella heteropatellae (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

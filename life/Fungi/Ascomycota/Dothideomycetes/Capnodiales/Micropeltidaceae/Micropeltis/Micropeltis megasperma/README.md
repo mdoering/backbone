@@ -1,5 +1,4 @@
-Micropeltis megasperma (Syd. & P. Syd.) D.R. Reynolds & G.S. Gilbert SPECIES
-=======
+# Micropeltis megasperma (Syd. & P. Syd.) D.R. Reynolds & G.S. Gilbert SPECIES
 
 #### Status
 ACCEPTED

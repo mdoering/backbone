@@ -1,5 +1,4 @@
-Lecanora discoensis SPECIES
-=======
+# Lecanora discoensis SPECIES
 
 #### Status
 ACCEPTED

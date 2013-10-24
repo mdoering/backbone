@@ -1,5 +1,4 @@
-Pezolepis Syd. GENUS
-=======
+# Pezolepis Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilosticta chamaepeuces Petr. SPECIES
-=======
+# Spilosticta chamaepeuces Petr. SPECIES
 
 #### Status
 ACCEPTED

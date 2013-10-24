@@ -1,5 +1,4 @@
-Hysterium clavisporum Cooke & Peck SPECIES
-=======
+# Hysterium clavisporum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

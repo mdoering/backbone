@@ -1,14 +1,13 @@
-Camarophyllopsis deceptivus (A.H. Sm. & Hesler) Bon SPECIES
-=======
+# Hygrocybe deceptiva (A.H. Sm. & Hesler) Leelav., Manim. & Arnolds, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 19(1): 149 (2006)
 
 #### Original name
 Hygrophorus deceptivus A.H. Sm. & Hesler, 1942

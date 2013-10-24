@@ -1,5 +1,4 @@
-Euglena minuta Prescott SPECIES
-=======
+# Euglena minuta Prescott SPECIES
 
 #### Status
 ACCEPTED

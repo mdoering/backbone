@@ -1,5 +1,4 @@
-Subsaxibacter broadyi Bowman & Nichols, 2005 SPECIES
-=======
+# Subsaxibacter broadyi Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

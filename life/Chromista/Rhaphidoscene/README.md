@@ -1,5 +1,4 @@
-Rhaphidoscene Jennings, 1896 GENUS
-=======
+# Rhaphidoscene Jennings, 1896 GENUS
 
 #### Status
 ACCEPTED

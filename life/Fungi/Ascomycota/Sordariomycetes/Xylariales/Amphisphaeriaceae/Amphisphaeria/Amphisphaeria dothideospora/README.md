@@ -1,5 +1,4 @@
-Amphisphaeria dothideospora Cooke & Harkn. SPECIES
-=======
+# Amphisphaeria dothideospora Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

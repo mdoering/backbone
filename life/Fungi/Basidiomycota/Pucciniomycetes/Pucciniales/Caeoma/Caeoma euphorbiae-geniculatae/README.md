@@ -1,5 +1,4 @@
-Caeoma euphorbiae-geniculatae Ramachar & Bhagyan. SPECIES
-=======
+# Caeoma euphorbiae-geniculatae Ramachar & Bhagyan. SPECIES
 
 #### Status
 ACCEPTED

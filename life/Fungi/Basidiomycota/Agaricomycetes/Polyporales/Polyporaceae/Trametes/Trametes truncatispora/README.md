@@ -1,5 +1,4 @@
-Trametes truncatispora Yasuda SPECIES
-=======
+# Trametes truncatispora Yasuda SPECIES
 
 #### Status
 ACCEPTED

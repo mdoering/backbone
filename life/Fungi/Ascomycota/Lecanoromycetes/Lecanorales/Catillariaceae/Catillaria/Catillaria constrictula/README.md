@@ -1,5 +1,4 @@
-Catillaria constrictula (Stirt.) Zahlbr. SPECIES
-=======
+# Catillaria constrictula (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

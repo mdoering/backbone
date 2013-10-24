@@ -1,5 +1,4 @@
-Gnomoniella amygdalina SPECIES
-=======
+# Gnomoniella amygdalina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum expansum Niessl SPECIES
-=======
+# Sporotrichum expansum Niessl SPECIES
 
 #### Status
 ACCEPTED

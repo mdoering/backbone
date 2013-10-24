@@ -1,5 +1,4 @@
-Eriochona Jankowksi, 1973 GENUS
-=======
+# Eriochona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

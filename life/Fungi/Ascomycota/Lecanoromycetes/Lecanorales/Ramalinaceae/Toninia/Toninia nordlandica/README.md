@@ -1,5 +1,4 @@
-Toninia nordlandica Th. Fr. SPECIES
-=======
+# Toninia nordlandica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

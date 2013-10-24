@@ -1,5 +1,4 @@
-Lichenodiplisiella S. Kondratyuk & I. Kudratov GENUS
-=======
+# Lichenodiplisiella S. Kondratyuk & I. Kudratov GENUS
 
 #### Status
 ACCEPTED

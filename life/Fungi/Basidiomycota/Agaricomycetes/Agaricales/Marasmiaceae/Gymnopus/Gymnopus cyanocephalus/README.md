@@ -1,5 +1,4 @@
-Gymnopus cyanocephalus (Pat.) Murrill SPECIES
-=======
+# Gymnopus cyanocephalus (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

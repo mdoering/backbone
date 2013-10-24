@@ -1,5 +1,4 @@
-Asteromella isothea Syd. SPECIES
-=======
+# Asteromella isothea Syd. SPECIES
 
 #### Status
 ACCEPTED

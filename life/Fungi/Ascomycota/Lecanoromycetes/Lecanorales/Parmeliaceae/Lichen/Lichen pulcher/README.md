@@ -1,5 +1,4 @@
-Lichen pulcher Leers SPECIES
-=======
+# Lichen pulcher Leers SPECIES
 
 #### Status
 ACCEPTED

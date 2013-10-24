@@ -1,5 +1,4 @@
-Claudopus translucens (DC.) Fr. SPECIES
-=======
+# Claudopus translucens (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

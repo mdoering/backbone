@@ -1,5 +1,4 @@
-Pestalotia castagnei Desm. SPECIES
-=======
+# Pestalotia castagnei Desm. SPECIES
 
 #### Status
 ACCEPTED

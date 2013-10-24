@@ -1,5 +1,4 @@
-Stephanelytraceae FAMILY
-=======
+# Stephanelytraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia oleandri Guba SPECIES
-=======
+# Pestalotia oleandri Guba SPECIES
 
 #### Status
 ACCEPTED

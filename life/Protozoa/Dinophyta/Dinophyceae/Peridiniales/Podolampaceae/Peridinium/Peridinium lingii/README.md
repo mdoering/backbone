@@ -1,5 +1,4 @@
-Peridinium lingii Thomasson SPECIES
-=======
+# Peridinium lingii Thomasson SPECIES
 
 #### Status
 ACCEPTED

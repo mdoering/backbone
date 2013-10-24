@@ -1,5 +1,4 @@
-Agaricus rubicundus J. Otto SPECIES
-=======
+# Agaricus rubicundus J. Otto SPECIES
 
 #### Status
 ACCEPTED

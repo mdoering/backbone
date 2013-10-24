@@ -1,14 +1,13 @@
-Lepista marginella (Harmaja) Harmaja, 1976 SPECIES
-=======
+# Clitocybe marginella Harmaja, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 15: 14 (1976)
+Karstenia 10: 92 (1969)
 
 #### Original name
 Clitocybe marginella Harmaja, 1969

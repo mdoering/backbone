@@ -1,5 +1,4 @@
-Septoria cucutana F. Kern & Toro SPECIES
-=======
+# Septoria cucutana F. Kern & Toro SPECIES
 
 #### Status
 ACCEPTED

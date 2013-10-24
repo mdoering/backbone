@@ -1,5 +1,4 @@
-Inocybe sublanuginosa Rick SPECIES
-=======
+# Inocybe sublanuginosa Rick SPECIES
 
 #### Status
 ACCEPTED

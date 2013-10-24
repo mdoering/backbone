@@ -1,5 +1,4 @@
-Sclerotium applanatum Schwein. SPECIES
-=======
+# Sclerotium applanatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

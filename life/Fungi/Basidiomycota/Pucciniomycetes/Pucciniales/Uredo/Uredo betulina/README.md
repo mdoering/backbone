@@ -1,5 +1,4 @@
-Uredo betulina Wahlenb. SPECIES
-=======
+# Uredo betulina Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

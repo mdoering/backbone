@@ -1,5 +1,4 @@
-Trogia nigrescens var. violascens Corner VARIETY
-=======
+# Trogia nigrescens Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Gdns' Bull. , Singapore. Supplement 2: 56 (1991)
+Gdns' Bull. , Singapore. Supplement 2: 54 (1991)
 
 #### Original name
-Trogia nigrescens var. violascens Corner
+Trogia nigrescens Corner
 
 ### Remarks
 null

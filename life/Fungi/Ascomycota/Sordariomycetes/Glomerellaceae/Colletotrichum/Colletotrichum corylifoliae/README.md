@@ -1,5 +1,4 @@
-Colletotrichum corylifoliae Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum corylifoliae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

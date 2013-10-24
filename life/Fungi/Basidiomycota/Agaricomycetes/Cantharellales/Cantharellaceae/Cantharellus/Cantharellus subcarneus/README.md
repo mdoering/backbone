@@ -1,5 +1,4 @@
-Cantharellus subcarneus Fayod SPECIES
-=======
+# Cantharellus subcarneus Fayod SPECIES
 
 #### Status
 ACCEPTED

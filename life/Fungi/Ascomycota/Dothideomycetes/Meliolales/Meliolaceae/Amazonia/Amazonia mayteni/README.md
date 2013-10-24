@@ -1,5 +1,4 @@
-Amazonia mayteni Hosag., Kaver., Raghu & Goos SPECIES
-=======
+# Amazonia mayteni Hosag., Kaver., Raghu & Goos SPECIES
 
 #### Status
 ACCEPTED

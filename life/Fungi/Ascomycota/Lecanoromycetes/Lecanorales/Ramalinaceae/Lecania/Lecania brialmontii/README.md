@@ -1,5 +1,4 @@
-Lecania brialmontii (Vain.) Zahlbr. SPECIES
-=======
+# Lecania brialmontii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

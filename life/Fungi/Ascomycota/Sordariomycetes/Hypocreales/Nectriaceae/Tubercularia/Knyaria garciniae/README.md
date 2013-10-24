@@ -1,5 +1,4 @@
-Knyaria garciniae (Henn.) Gonz. Frag. & Cif. SPECIES
-=======
+# Knyaria garciniae (Henn.) Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

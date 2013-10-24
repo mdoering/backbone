@@ -1,5 +1,4 @@
-Ciliatosporidium platyophryae I. Foissner & W. Foissner SPECIES
-=======
+# Ciliatosporidium platyophryae I. Foissner & W. Foissner SPECIES
 
 #### Status
 ACCEPTED

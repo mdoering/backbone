@@ -1,5 +1,4 @@
-Tulostoma striatum G. Cunn., 1925 SPECIES
-=======
+# Tulostoma striatum G. Cunn., 1925 SPECIES
 
 #### Status
 ACCEPTED

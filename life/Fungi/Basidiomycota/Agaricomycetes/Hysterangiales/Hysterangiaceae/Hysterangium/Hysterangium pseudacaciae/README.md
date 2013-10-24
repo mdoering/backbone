@@ -1,8 +1,7 @@
-Hysterangium pseudoacaciae (Fr.) De Toni SPECIES
-=======
+# Hysterangium pseudacaciae (Fr.) De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

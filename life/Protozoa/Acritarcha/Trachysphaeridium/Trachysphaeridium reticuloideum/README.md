@@ -1,5 +1,4 @@
-Trachysphaeridium reticuloideum Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Trachysphaeridium reticuloideum Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

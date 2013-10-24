@@ -1,5 +1,4 @@
-Trichosporum olivascens P. Karst. SPECIES
-=======
+# Trichosporum olivascens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

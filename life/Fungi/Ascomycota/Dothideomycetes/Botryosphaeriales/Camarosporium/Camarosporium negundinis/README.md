@@ -1,5 +1,4 @@
-Camarosporium negundinis Ellis & Everh. SPECIES
-=======
+# Camarosporium negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

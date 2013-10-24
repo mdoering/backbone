@@ -1,5 +1,4 @@
-Swedmarkia arenicola Dragesco, 1954 SPECIES
-=======
+# Swedmarkia arenicola Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

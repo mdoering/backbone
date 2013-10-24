@@ -1,5 +1,4 @@
-Phoma tenuipes Tassi SPECIES
-=======
+# Phoma tenuipes Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platynematum Foissner, Berger & Kohmann, 1994 GENUS
-=======
+# Platynematum Foissner, Berger & Kohmann, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia eifeliensis Franke, 1965 SPECIES
-=======
+# Leiosphaeridia eifeliensis Franke, 1965 SPECIES
 
 #### Status
 ACCEPTED

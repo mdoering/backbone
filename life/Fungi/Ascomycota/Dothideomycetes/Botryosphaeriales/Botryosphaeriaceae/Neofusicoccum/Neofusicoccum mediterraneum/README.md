@@ -1,5 +1,4 @@
-Neofusicoccum mediterraneum Crous, M.J. Wingf. & A.J.L. Phillips, 2007 SPECIES
-=======
+# Neofusicoccum mediterraneum Crous, M.J. Wingf. & A.J.L. Phillips, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caloplaca teicholyta var. teicholyta VARIETY
-=======
+# Caloplaca teicholyta (Ach.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 104: 388 (1895)
 
 #### Original name
-Caloplaca teicholyta var. teicholyta
+Lecanora teicholyta Ach.
 
 ### Remarks
 null

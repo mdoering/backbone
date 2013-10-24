@@ -1,5 +1,4 @@
-Mycomicrothelia macrocarpa Komposch, Aptroot & Hafellner SPECIES
-=======
+# Mycomicrothelia macrocarpa Komposch, Aptroot & Hafellner SPECIES
 
 #### Status
 ACCEPTED

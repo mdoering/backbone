@@ -1,5 +1,4 @@
-Leptographium pini-densiflorae Masuya & M.J. Wingf. SPECIES
-=======
+# Leptographium pini-densiflorae Masuya & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

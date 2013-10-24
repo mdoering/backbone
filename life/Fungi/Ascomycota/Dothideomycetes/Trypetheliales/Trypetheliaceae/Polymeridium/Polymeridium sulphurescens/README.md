@@ -1,17 +1,16 @@
-Polymeridium oculatum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Polymeridium sulphurescens (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bolm Mus. paraense 'Emílio Goeldi', sér. bot. 7(2): 635 (1993)
+Lichenogr. Thomsoniana (Ithaca), North American Lichenology in Honor of John W. Thomson 147 (1998)
 
 #### Original name
-Arthopyrenia oculata Müll. Arg.
+Arthopyrenia sulphurascens Müll. Arg.
 
 ### Remarks
 null

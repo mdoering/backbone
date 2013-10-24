@@ -1,5 +1,4 @@
-Excipula gentianae (Pers.) Fr. SPECIES
-=======
+# Excipula gentianae (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

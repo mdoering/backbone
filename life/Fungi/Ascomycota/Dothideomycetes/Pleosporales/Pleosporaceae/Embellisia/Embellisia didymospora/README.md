@@ -1,5 +1,4 @@
-Embellisia didymospora Munt.-Cvetk., 1976 SPECIES
-=======
+# Embellisia didymospora Munt.-Cvetk., 1976 SPECIES
 
 #### Status
 ACCEPTED

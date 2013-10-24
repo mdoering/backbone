@@ -1,5 +1,4 @@
-Padina crispata Thivy SPECIES
-=======
+# Padina crispata Thivy SPECIES
 
 #### Status
 ACCEPTED

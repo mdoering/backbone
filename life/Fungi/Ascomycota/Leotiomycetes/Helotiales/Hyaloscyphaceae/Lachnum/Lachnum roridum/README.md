@@ -1,14 +1,13 @@
-Dasyscyphus rorida (Wallr.) Sacc. SPECIES
-=======
+# Lachnum roridum (Wallr.) Rehm, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 1(3): 873 (1893)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Strickeria rathenowiana Kirschst. SPECIES
-=======
+# Strickeria rathenowiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

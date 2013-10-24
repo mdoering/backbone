@@ -1,5 +1,4 @@
-Mycena subclavularis M.M. Moser SPECIES
-=======
+# Mycena subclavularis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

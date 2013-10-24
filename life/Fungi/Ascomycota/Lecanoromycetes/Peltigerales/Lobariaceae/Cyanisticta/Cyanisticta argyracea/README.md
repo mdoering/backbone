@@ -1,5 +1,4 @@
-Cyanisticta argyracea Gyeln. SPECIES
-=======
+# Cyanisticta argyracea Gyeln. SPECIES
 
 #### Status
 ACCEPTED

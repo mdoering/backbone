@@ -1,5 +1,4 @@
-Inocybe ayeri Furrer-Ziogas SPECIES
-=======
+# Inocybe ayeri Furrer-Ziogas SPECIES
 
 #### Status
 ACCEPTED

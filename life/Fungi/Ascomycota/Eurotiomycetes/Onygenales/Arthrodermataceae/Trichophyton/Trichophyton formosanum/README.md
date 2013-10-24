@@ -1,5 +1,4 @@
-Trichophyton formosanum (Haseg.) Nann. SPECIES
-=======
+# Trichophyton formosanum (Haseg.) Nann. SPECIES
 
 #### Status
 ACCEPTED

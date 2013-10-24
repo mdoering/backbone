@@ -1,14 +1,13 @@
-Cercospora omphacodes Ellis & Holw., 1885 SPECIES
-=======
+# Passalora omphacodes (Ellis & Holw.) Crous & U. Braun, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 1(1): 5 (1885)
+Mycotaxon 57: 288 (1996)
 
 #### Original name
 Cercospora omphacodes Ellis & Holw., 1885

@@ -1,5 +1,4 @@
-Lecanora phlogina (Ach.) Nyl. SPECIES
-=======
+# Lecanora phlogina (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

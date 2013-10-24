@@ -1,5 +1,4 @@
-Trametes destructor anon. SPECIES
-=======
+# Trametes destructor anon. SPECIES
 
 #### Status
 ACCEPTED

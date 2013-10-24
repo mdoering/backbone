@@ -1,5 +1,4 @@
-Eschatogonia dissecta Timdal & R. Sant. SPECIES
-=======
+# Eschatogonia dissecta Timdal & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

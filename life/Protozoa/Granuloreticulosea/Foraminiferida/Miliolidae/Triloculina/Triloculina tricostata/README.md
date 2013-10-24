@@ -1,5 +1,4 @@
-Triloculina tricostata d’Orbigny, 1826 SPECIES
-=======
+# Triloculina tricostata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

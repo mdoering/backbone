@@ -1,5 +1,4 @@
-Polystictus illotus (Kalchbr. ex Cooke) Cooke SPECIES
-=======
+# Polystictus illotus (Kalchbr. ex Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

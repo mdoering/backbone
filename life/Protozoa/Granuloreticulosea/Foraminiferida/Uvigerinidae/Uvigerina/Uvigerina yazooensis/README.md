@@ -1,5 +1,4 @@
-Uvigerina yazooensis Cushman, 1933 SPECIES
-=======
+# Uvigerina yazooensis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius ogasawarashimensis S. Ito & S. Imai SPECIES
-=======
+# Lactarius ogasawarashimensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

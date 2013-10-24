@@ -1,5 +1,4 @@
-Diderma botryosum Nann.-Bremek. & Y. Yamam., 1986 SPECIES
-=======
+# Diderma botryosum Nann.-Bremek. & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

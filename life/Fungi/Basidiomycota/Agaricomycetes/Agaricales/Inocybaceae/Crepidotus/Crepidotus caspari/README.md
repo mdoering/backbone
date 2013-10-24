@@ -1,17 +1,16 @@
-Crepidotus caspari var. caspari VARIETY
-=======
+# Crepidotus caspari Velen., 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyphomycetes 3(5-6): 70 (1926)
 
 #### Original name
-Crepidotus caspari var. caspari
+Crepidotus caspari Velen., 1926
 
 ### Remarks
 null

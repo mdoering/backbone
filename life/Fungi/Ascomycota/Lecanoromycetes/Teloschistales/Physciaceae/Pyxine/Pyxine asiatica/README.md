@@ -1,5 +1,4 @@
-Pyxine asiatica Vain. SPECIES
-=======
+# Pyxine asiatica Vain. SPECIES
 
 #### Status
 ACCEPTED

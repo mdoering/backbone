@@ -1,5 +1,4 @@
-Pertusaria kasandjeffii Szatala SPECIES
-=======
+# Pertusaria kasandjeffii Szatala SPECIES
 
 #### Status
 ACCEPTED

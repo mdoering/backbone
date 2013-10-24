@@ -1,5 +1,4 @@
-Aecidium tulipae Kom. SPECIES
-=======
+# Aecidium tulipae Kom. SPECIES
 
 #### Status
 ACCEPTED

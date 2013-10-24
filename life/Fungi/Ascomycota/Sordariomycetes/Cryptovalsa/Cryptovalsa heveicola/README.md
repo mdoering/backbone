@@ -1,5 +1,4 @@
-Cryptovalsa heveicola Saccas SPECIES
-=======
+# Cryptovalsa heveicola Saccas SPECIES
 
 #### Status
 ACCEPTED

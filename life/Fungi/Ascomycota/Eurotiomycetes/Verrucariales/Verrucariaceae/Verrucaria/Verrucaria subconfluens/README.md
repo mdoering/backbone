@@ -1,5 +1,4 @@
-Verrucaria subconfluens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria subconfluens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

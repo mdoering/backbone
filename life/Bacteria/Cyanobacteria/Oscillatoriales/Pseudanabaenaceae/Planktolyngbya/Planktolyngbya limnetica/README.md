@@ -1,5 +1,4 @@
-Planktolyngbya limnetica (Lemmermann) J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Planktolyngbya limnetica (Lemmermann) J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

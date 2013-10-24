@@ -1,5 +1,4 @@
-Diplodia cyanostroma Berk. & M.A. Curtis SPECIES
-=======
+# Diplodia cyanostroma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

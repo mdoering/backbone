@@ -1,5 +1,4 @@
-Bicosoecophyceae CLASS
-=======
+# Bicosoecophyceae CLASS
 
 #### Status
 ACCEPTED

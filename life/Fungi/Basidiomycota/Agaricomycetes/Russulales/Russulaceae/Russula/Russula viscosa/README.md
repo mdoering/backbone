@@ -1,5 +1,4 @@
-Russula viscosa Henn. SPECIES
-=======
+# Russula viscosa Henn. SPECIES
 
 #### Status
 ACCEPTED

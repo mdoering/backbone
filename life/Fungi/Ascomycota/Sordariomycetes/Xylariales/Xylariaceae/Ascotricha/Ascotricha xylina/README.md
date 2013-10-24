@@ -1,5 +1,4 @@
-Ascotricha xylina L.M. Ames, 1951 SPECIES
-=======
+# Ascotricha xylina L.M. Ames, 1951 SPECIES
 
 #### Status
 ACCEPTED

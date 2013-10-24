@@ -1,5 +1,4 @@
-Lyngbya crispa var. violaceae (C. Agardh) C. Agardh VARIETY
-=======
+# Lyngbya crispa (C. Agardh) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

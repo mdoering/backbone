@@ -1,5 +1,4 @@
-Lithocia controversa (A. Massal.) A. Massal. SPECIES
-=======
+# Lithocia controversa (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

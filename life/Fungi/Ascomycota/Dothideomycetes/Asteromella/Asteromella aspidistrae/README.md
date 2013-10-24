@@ -1,5 +1,4 @@
-Asteromella aspidistrae (Oudem.) Aa SPECIES
-=======
+# Asteromella aspidistrae (Oudem.) Aa SPECIES
 
 #### Status
 ACCEPTED

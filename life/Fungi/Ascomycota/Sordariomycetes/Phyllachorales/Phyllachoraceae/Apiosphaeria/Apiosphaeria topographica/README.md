@@ -1,17 +1,16 @@
-Munkiella topografica Speg. SPECIES
-=======
+# Apiosphaeria topographica (Speg.) Arx, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 62: 359 (1952)
 
 #### Original name
-Munkiella topografica Speg.
+Munkiella topographica Speg., 1885
 
 ### Remarks
 null

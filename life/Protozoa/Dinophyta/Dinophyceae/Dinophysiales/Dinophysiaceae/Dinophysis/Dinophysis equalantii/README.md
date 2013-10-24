@@ -1,5 +1,4 @@
-Dinophysis equalantii Balech, 1971 SPECIES
-=======
+# Dinophysis equalantii Balech, 1971 SPECIES
 
 #### Status
 ACCEPTED

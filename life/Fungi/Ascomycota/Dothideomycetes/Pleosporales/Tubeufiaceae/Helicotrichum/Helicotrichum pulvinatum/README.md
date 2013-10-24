@@ -1,5 +1,4 @@
-Helicotrichum pulvinatum Nees SPECIES
-=======
+# Helicotrichum pulvinatum Nees SPECIES
 
 #### Status
 ACCEPTED

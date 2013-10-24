@@ -1,5 +1,4 @@
-Nostoc brittoni Gardner SPECIES
-=======
+# Nostoc brittoni Gardner SPECIES
 
 #### Status
 ACCEPTED

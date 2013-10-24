@@ -1,5 +1,4 @@
-Dendrophoma hormococcoides Sacc. & Penz. SPECIES
-=======
+# Dendrophoma hormococcoides Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

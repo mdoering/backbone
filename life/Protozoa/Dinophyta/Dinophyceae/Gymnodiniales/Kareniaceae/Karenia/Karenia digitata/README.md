@@ -1,5 +1,4 @@
-Karenia digitata Z.B. Yang, H. Takayama, K. Matsuoka & I.J. Hodgkiss SPECIES
-=======
+# Karenia digitata Z.B. Yang, H. Takayama, K. Matsuoka & I.J. Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

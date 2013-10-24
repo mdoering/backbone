@@ -1,5 +1,4 @@
-Merismatium thamnoliicola Alstrup & E.S. Hansen SPECIES
-=======
+# Merismatium thamnoliicola Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

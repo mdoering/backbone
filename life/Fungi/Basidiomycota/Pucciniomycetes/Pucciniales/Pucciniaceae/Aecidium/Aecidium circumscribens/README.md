@@ -1,5 +1,4 @@
-Aecidium circumscribens Neger SPECIES
-=======
+# Aecidium circumscribens Neger SPECIES
 
 #### Status
 ACCEPTED

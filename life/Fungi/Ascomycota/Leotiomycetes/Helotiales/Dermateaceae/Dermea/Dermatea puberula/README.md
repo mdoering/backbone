@@ -1,5 +1,4 @@
-Dermatea puberula E.J. Durand SPECIES
-=======
+# Dermatea puberula E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

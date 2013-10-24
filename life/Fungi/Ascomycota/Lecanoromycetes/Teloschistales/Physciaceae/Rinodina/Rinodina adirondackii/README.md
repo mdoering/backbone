@@ -1,5 +1,4 @@
-Rinodina adirondackii H. Magn. SPECIES
-=======
+# Rinodina adirondackii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

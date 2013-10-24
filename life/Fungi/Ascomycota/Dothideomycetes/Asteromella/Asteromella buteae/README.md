@@ -1,5 +1,4 @@
-Asteromella buteae S.M. Singh SPECIES
-=======
+# Asteromella buteae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium episquamarinae Etayo, 2008 SPECIES
-=======
+# Sphaerellothecium episquamarinae Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

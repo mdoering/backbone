@@ -1,5 +1,4 @@
-Pestalotiopsis carbonacea (Steyaert) Steyaert SPECIES
-=======
+# Pestalotiopsis carbonacea (Steyaert) Steyaert SPECIES
 
 #### Status
 ACCEPTED

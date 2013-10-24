@@ -1,5 +1,4 @@
-Passalora lemnischea (Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora lemnischea (Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

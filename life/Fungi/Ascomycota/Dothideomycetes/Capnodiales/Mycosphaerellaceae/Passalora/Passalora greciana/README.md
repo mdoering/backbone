@@ -1,5 +1,4 @@
-Passalora greciana (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora greciana (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

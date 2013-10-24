@@ -1,5 +1,4 @@
-Pseudocercosporella woronowii (Siemaszko) U. Braun SPECIES
-=======
+# Pseudocercosporella woronowii (Siemaszko) U. Braun SPECIES
 
 #### Status
 ACCEPTED

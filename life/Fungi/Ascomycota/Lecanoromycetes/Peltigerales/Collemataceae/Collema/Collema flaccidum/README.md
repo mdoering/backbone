@@ -1,17 +1,16 @@
-Collema rupestre var. rupestre VARIETY
-=======
+# Collema flaccidum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 647 (1810)
 
 #### Original name
-Collema rupestre var. rupestre
+Lichen flaccidus Ach.
 
 ### Remarks
 null

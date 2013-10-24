@@ -1,17 +1,16 @@
-Peltophoromyces Clem. GENUS
-=======
+# Peltigeromyces A. Møller, 1901 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 88 (1909)
+Bot. Mitt. Trop. 9: 310 (1901)
 
 #### Original name
-Peltophoromyces Clem.
+Peltigeromyces A. Møller, 1901
 
 ### Remarks
 null

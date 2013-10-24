@@ -1,5 +1,4 @@
-Haplomyces californicus Thaxt., 1893 SPECIES
-=======
+# Haplomyces californicus Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

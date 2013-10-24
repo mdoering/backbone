@@ -1,5 +1,4 @@
-Dyadosporites incisus Kalgutkar SPECIES
-=======
+# Dyadosporites incisus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

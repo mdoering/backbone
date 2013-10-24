@@ -1,14 +1,13 @@
-Aphanoascus orissi (B. Sur & G.R. Ghosh) Cano & Guarro SPECIES
-=======
+# Aphanoascus orissae (B. Sur & G.R. Ghosh) Cano & Guarro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Cano, Sagués, Barrio, Vidal, Castañeda, Gené & Guarro, Stud. Mycol. 47: 158 (2002)
 
 #### Original name
 Pseudoarachniotus orissae B. Sur & G.R. Ghosh

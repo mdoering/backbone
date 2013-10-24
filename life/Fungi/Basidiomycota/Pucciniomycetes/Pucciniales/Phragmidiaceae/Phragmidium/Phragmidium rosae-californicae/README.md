@@ -1,5 +1,4 @@
-Phragmidium rosae-californicae Dietel, 1905 SPECIES
-=======
+# Phragmidium rosae-californicae Dietel, 1905 SPECIES
 
 #### Status
 ACCEPTED

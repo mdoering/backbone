@@ -1,5 +1,4 @@
-Ramalina furcellangulida Aptroot SPECIES
-=======
+# Ramalina furcellangulida Aptroot SPECIES
 
 #### Status
 ACCEPTED

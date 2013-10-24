@@ -1,5 +1,4 @@
-Physalospora eupatorii (Kirchn.) Sacc. SPECIES
-=======
+# Physalospora eupatorii (Kirchn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria tropaeoli K.B. Deshp. & Rajd. SPECIES
-=======
+# Alternaria tropaeoli K.B. Deshp. & Rajd. SPECIES
 
 #### Status
 ACCEPTED

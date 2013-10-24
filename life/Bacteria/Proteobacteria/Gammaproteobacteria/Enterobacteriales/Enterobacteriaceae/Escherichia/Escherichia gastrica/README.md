@@ -1,5 +1,4 @@
-Escherichia gastrica SPECIES
-=======
+# Escherichia gastrica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria valerianae Sacc. & Fautrey SPECIES
-=======
+# Septoria valerianae Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

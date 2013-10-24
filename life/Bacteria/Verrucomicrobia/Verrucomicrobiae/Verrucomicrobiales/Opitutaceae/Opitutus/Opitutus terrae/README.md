@@ -1,5 +1,4 @@
-Opitutus terrae Chin et al., 2001 SPECIES
-=======
+# Opitutus terrae Chin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

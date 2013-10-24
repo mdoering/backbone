@@ -1,5 +1,4 @@
-Coniothyrium batumense Siemaszko, 1923 SPECIES
-=======
+# Coniothyrium batumense Siemaszko, 1923 SPECIES
 
 #### Status
 ACCEPTED

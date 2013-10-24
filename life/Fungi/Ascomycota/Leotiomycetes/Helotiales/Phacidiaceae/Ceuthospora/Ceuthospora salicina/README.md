@@ -1,5 +1,4 @@
-Ceuthospora salicina Höhn. SPECIES
-=======
+# Ceuthospora salicina Höhn. SPECIES
 
 #### Status
 ACCEPTED

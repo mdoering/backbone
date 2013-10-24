@@ -1,5 +1,4 @@
-Buellia dissimilis (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia dissimilis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

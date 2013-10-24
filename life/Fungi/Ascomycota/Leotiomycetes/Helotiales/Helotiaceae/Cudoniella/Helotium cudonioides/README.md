@@ -1,5 +1,4 @@
-Helotium cudonioides Seaver SPECIES
-=======
+# Helotium cudonioides Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsonectria boldoae Speg. SPECIES
-=======
+# Valsonectria boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

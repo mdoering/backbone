@@ -1,5 +1,4 @@
-Hypoxylon enterogenum Mont. SPECIES
-=======
+# Hypoxylon enterogenum Mont. SPECIES
 
 #### Status
 ACCEPTED

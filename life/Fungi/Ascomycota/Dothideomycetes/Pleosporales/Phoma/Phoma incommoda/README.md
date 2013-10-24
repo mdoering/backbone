@@ -1,5 +1,4 @@
-Phoma incommoda Trail SPECIES
-=======
+# Phoma incommoda Trail SPECIES
 
 #### Status
 ACCEPTED

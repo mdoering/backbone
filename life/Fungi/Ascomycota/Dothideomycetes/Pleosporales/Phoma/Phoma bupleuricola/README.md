@@ -1,5 +1,4 @@
-Phoma bupleuricola Gonz. Frag. SPECIES
-=======
+# Phoma bupleuricola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

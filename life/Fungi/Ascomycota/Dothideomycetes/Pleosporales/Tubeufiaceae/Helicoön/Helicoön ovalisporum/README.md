@@ -1,17 +1,16 @@
-Helicoön ovalisporium Krzemien. & Badura SPECIES
-=======
+# Helicoön ovalisporum Krzemien. & Badura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Soc. Bot. Pol. 23: 757 (1954)
 
 #### Original name
-Helicoön ovalisporium Krzemien. & Badura
+Helicoön ovalisporum Krzemien. & Badura
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gliotrichum casseliae T. Nees SPECIES
-=======
+# Gliotrichum casseliae T. Nees SPECIES
 
 #### Status
 ACCEPTED

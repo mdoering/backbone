@@ -1,5 +1,4 @@
-Lophium limoni Thüm. SPECIES
-=======
+# Lophium limoni Thüm. SPECIES
 
 #### Status
 ACCEPTED

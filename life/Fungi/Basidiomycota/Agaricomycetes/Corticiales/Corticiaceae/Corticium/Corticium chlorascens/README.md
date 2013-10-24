@@ -1,5 +1,4 @@
-Corticium chlorascens Berk. & Broome SPECIES
-=======
+# Corticium chlorascens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

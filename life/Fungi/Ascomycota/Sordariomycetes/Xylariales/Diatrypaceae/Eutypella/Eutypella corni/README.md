@@ -1,5 +1,4 @@
-Eutypella corni Fautrey SPECIES
-=======
+# Eutypella corni Fautrey SPECIES
 
 #### Status
 ACCEPTED

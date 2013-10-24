@@ -1,5 +1,4 @@
-Usnea nepalensis G. Awasthi SPECIES
-=======
+# Usnea nepalensis G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

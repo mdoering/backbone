@@ -1,5 +1,4 @@
-Triainomyces W. Rossi & A. Weir GENUS
-=======
+# Triainomyces W. Rossi & A. Weir GENUS
 
 #### Status
 ACCEPTED

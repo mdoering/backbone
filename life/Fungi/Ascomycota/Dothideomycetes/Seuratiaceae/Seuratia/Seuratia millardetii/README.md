@@ -1,17 +1,16 @@
-Atichia botriosa L.R. Fraser SPECIES
-=======
+# Seuratia millardetii (Racib.) Meeker, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 53: 2485 (1975)
 
 #### Original name
-null
+Atichia millardetii Racib., 1909
 
 ### Remarks
 null

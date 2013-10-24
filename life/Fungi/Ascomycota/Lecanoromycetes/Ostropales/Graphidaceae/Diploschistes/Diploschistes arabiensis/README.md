@@ -1,5 +1,4 @@
-Diploschistes arabiensis Lumbsch SPECIES
-=======
+# Diploschistes arabiensis Lumbsch SPECIES
 
 #### Status
 ACCEPTED

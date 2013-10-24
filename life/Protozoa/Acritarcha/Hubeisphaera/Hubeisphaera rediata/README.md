@@ -1,5 +1,4 @@
-Hubeisphaera rediata Sin & Liu in Wang & Chen, 1987 SPECIES
-=======
+# Hubeisphaera rediata Sin & Liu in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

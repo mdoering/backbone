@@ -1,5 +1,4 @@
-Gremmenia gigaspora (Gremmen) Korf SPECIES
-=======
+# Gremmenia gigaspora (Gremmen) Korf SPECIES
 
 #### Status
 ACCEPTED

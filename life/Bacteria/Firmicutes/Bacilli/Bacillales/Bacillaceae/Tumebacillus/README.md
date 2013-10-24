@@ -1,5 +1,4 @@
-Tumebacillus Steven et al., 2008 GENUS
-=======
+# Tumebacillus Steven et al., 2008 GENUS
 
 #### Status
 ACCEPTED

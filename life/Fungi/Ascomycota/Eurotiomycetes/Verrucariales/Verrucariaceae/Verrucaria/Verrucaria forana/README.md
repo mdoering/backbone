@@ -1,5 +1,4 @@
-Verrucaria forana (Anzi) Nyl. SPECIES
-=======
+# Verrucaria forana (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

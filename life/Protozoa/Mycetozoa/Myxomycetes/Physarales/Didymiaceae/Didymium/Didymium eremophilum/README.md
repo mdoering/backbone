@@ -1,5 +1,4 @@
-Didymium eremophilum M.Blackw. & Gilb., 1980 SPECIES
-=======
+# Didymium eremophilum M.Blackw. & Gilb., 1980 SPECIES
 
 #### Status
 ACCEPTED

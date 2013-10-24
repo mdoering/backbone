@@ -1,5 +1,4 @@
-Conioscypha dimorpha Matsush. SPECIES
-=======
+# Conioscypha dimorpha Matsush. SPECIES
 
 #### Status
 ACCEPTED

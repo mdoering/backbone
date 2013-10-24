@@ -1,5 +1,4 @@
-Bolivina bassensis Parr SPECIES
-=======
+# Bolivina bassensis Parr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopora pellita (Cooke & Peck) T. Schumach. SPECIES
-=======
+# Geopora pellita (Cooke & Peck) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

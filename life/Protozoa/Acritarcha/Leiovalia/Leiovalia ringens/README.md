@@ -1,5 +1,4 @@
-Leiovalia ringens Yan Yuzhong, 1985 SPECIES
-=======
+# Leiovalia ringens Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

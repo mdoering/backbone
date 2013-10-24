@@ -1,5 +1,4 @@
-Leptothyrium subtectum Sacc. & Fautrey SPECIES
-=======
+# Leptothyrium subtectum Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

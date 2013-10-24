@@ -1,5 +1,4 @@
-Squamarina haysomii C.W. Dodge SPECIES
-=======
+# Squamarina haysomii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harposporium bredonense H.C. Evans & P.F. Whitehead SPECIES
-=======
+# Harposporium bredonense H.C. Evans & P.F. Whitehead SPECIES
 
 #### Status
 ACCEPTED

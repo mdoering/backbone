@@ -1,5 +1,4 @@
-Pertusaria globulifera f. globulifera FORM
-=======
+# Pertusaria globulifera Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Pertusaria globulifera Nyl.
 
 ### Remarks
 null
